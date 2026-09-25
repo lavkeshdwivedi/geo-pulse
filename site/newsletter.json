@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T08:19:36.943665+00:00",
+  "generated_at": "2026-09-25T09:15:58.879689+00:00",
   "article_count": 50,
-  "total_unique_count": 264,
+  "total_unique_count": 263,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with UN General Assembly debate Day 3. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, किस गीत को सुनकर भावुक हुईं शी जिनपिंग की पत्नी? हिट हुई मेलानिया ट्रंप की कल्चरल डिप्लोमेसी मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Middle East & Africa leads the board this hour with UN General Assembly debate Day 3. World carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, शराब के नशे में था एयर इंडिया का पायलट, फ्लाइट के टेक-ऑफ करने से पहले हुई जांच में खुली पोल मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -16,6 +16,30 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/24-09-2026-UN-Photo-UNGA81-behind-scenes-05.jpg/image770x420cropped.jpg",
       "summary": "As the high-level debate enters a fourth day, The Takeaway looks back at key highlights on Thursday, with Israeli and Palestinian leaders presenting divergent views on the Middle East conflict and their counterparts from across the world weighing in on the far-reaching impacts of the ongoing crisis in Gaza and the occupied West Bank. UN General Assembly debate Day 3.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Support Global Voices’ Spotlight: Big Tech and Authoritarianism",
+      "url": "https://globalvoices.org/2026/09/25/support-global-voices-spotlight-big-tech-and-authoritarianism/",
+      "source": "Global Voices",
+      "sources": [],
+      "published_at": "2026-09-25T09:03:15+00:00",
+      "image_url": "https://globalvoices.org/wp-content/uploads/2026/09/Global-Voices-Spotlight-Mockups-23-800x450.webp",
+      "summary": "With these stories, we aim to pull back the camouflage that Big Tech uses to obscure their connection with oppressive governments, and to highlight cases of technological authoritarianism. and resistance. around the world. Support Global Voices’ Spotlight: Big Tech and Authoritarianism.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Supervisor gets jail after worker dies from electrocution during solar panel maintenance at",
+      "url": "https://www.channelnewsasia.com/singapore/expo-worker-electrocuted-death-solar-panel-mom-6410496",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-09-25T08:55:30+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--GQFoVy6i--/c_crop,h_1125,w_2000,x_0,y_89/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/25/img_0534.jpg?itok=Lknzt1yn",
+      "summary": "Ramalingam Kumaresan failed to ensure that not more than 20 solar panels were connected in a series. Investigations found that 79 panels were connected, deviating from the plan shared with an electrician on his team. Supervisor gets jail after worker dies from electrocution during solar panel maintenance at.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -176,30 +200,6 @@
       "translations": {}
     },
     {
-      "title": "S Korea shouldn’t apply double standard to inherited political guilt",
-      "url": "https://asiatimes.com/2026/09/south-korea-should-not-apply-double-standard-to-inherited-political-guilt/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-09-24T02:05:17+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/moon-geun-young-goddess-of-fire-academician-square-academic-cap-dvd-dvd-e1790214973178.jpg",
-      "summary": "When South Korean actress Ha Young spoke on television in August about four generations of doctors in her family, she praised the medical accomplishments of her great-grandfather, Ahn Sang-ho. Subsequent scrutiny linked Ahn to the Daejeong Friendship Association, an organization associated with cooperation with Japanese colonial rule. Ha Young said that she had known only [] The post South Korea.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "New jihadist coalition pushes Pakistan-Afghanistan to crisis point",
-      "url": "https://asiatimes.com/2026/09/new-jihadist-coalition-pushes-pakistan-afghanistan-to-crisis-point/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-09-24T00:48:03+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/pakistan-mosque-blast-16-killed-57-injured-in-kohat-2026-09-18-copy.jpg",
-      "summary": "The suicide bombing and gun attack that killed dozens in northwest Pakistan on September 18, 2026, highlighted the fragile security situation in the South Asian country. But it also shone a light on the complex and evolving extremism landscape there and the strained relationship between Pakistan and neighboring Afghanistan. The assault took place as worshipers [] The post New jihadist coalition p.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Trump greets Xi Jinping on arrival in rare move as US-China trade truce extended",
       "url": "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
       "source": "The Guardian",
@@ -308,6 +308,78 @@
       "translations": {}
     },
     {
+      "title": "शराब के नशे में था एयर इंडिया का पायलट, फ्लाइट के टेक-ऑफ करने से पहले हुई जांच में खुली पोल",
+      "url": "https://hindi.news18.com/news/nation/air-india-pilot-failed-in-alcohol-test-just-before-zurich-delhi-flight-take-off-suspended-immediately-10863804.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-25T09:13:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/air-india-3-2026-09-6e7642a03f1bcaebba9e64d5ab1ab843-1200x800.jpg",
+      "summary": "Air India Pilot Suspended: विमान को उड़ान पर ले जाने से पहले जिस तरह प्‍लेन की फिटनेस रिपोर्ट तैयार की जाती है, वैसे पायलट के बारे में भी सभी जरूरी जानकारियां जुटाई जाती हैं. इसमें किसी भी तरह की खामी पाए जाने पर फौरन एक्‍शन लिया जाता है. ज्‍यूरिख से दिल्‍ली आ रही एयर इंडिया के प्‍लेन के टेक-ऑफ करने से पहले भी यह प्रोसेस किया गया, जिसमें पायलट फंस गए और उन्‍हें सस्‍पेंड कर दिया गया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शराब के नशे में था एयर इंडिया का पायलट, फ्लाइट के टेक-ऑफ करने से पहले हुई जांच में खुली पोल",
+          "summary": "Air India Pilot Suspended: विमान को उड़ान पर ले जाने से पहले जिस तरह प्‍लेन की फिटनेस रिपोर्ट तैयार की जाती है, वैसे पायलट के बारे में भी सभी जरूरी जानकारियां जुटाई जाती हैं. इसमें किसी भी तरह की खामी पाए जाने पर फौरन एक्‍शन लिया जाता है. ज्‍यूरिख से दिल्‍ली आ रही एयर इंडिया के प्‍लेन के टेक-ऑफ करने से पहले भी यह प्रोसेस किया गया, जिसमें पायलट फंस गए और उन्‍हें सस्‍पेंड कर दिया गया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत-न्यूजीलैंड के रिश्तों में नया मोड़! 20 अक्टूबर से दोनों देशों के बीच लागू होगा फ्री ट्रेड",
+      "url": "https://www.patrika.com/world-news/india-new-zealand-fta-free-trade-agreement-20-october-2026-20934835",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-25T09:01:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/PM-MODI-NZ.webp",
+      "summary": "India-NZ Relations: भारत और न्यूजीलैंड के रिश्ते अब एक नए दौर में पहुंचने वाले हैं। दोनों देशों के बीच ‘फ्री ट्रेड एग्रीमेंट’ यानी FTA 20 अक्टूबर 2026 से लागू होगा। इस समझौते से सिर्फ कारोबार को बढ़ावा देने की कोशिश नहीं है। इसका असर छात्रों, प्रोफेशनल्स और युवाओं की आवाजाही पर भी देखने को मिलेगा। भारत-न्यूजीलैंड के रिश्तों में नया मोड़!",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत-न्यूजीलैंड के रिश्तों में नया मोड़! 20 अक्टूबर से दोनों देशों के बीच लागू होगा फ्री ट्रेड",
+          "summary": "India-NZ Relations: भारत और न्यूजीलैंड के रिश्ते अब एक नए दौर में पहुंचने वाले हैं। दोनों देशों के बीच ‘फ्री ट्रेड एग्रीमेंट’ यानी FTA 20 अक्टूबर 2026 से लागू होगा। इस समझौते से सिर्फ कारोबार को बढ़ावा देने की कोशिश नहीं है। इसका असर छात्रों, प्रोफेशनल्स और युवाओं की आवाजाही पर भी देखने को मिलेगा। भारत-न्यूजीलैंड के रिश्तों में नया मोड़!",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'174 संशोधन करोगे, तब मिलेंगे पैसे', कंगाल पाकिस्तान को IMF की खरी-खरी, बदल डालेगा नियम-कानून",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-prepares-for-174-amendments-legislative-changes-requested-by-imf-for-loan-ws-l-10863784.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-25T08:55:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/inf-pakistan-2026-09-e66e0b31a794b202f4fdceff6a812e7d-1200x800.jpg",
+      "summary": "Pakistan IMF demands 174 Amendments: कंगाल पाकिस्तान को अपने हालात सुधारने के लिए पैसा चाहिए और उसकी हालत ये है कि वो इसके लिए अपनी नीतियां और कानून तक बदलने को तैयार है. इंटरनेशनल मॉनिटरी फंड ने 8.4 बिलियन डॉलर का जो लोन पाकिस्तान को देने का वादा किया है, उसके लिए उसे अपने कानून में 174 बदलाव करने होंगे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'174 संशोधन करोगे, तब मिलेंगे पैसे', कंगाल पाकिस्तान को IMF की खरी-खरी, बदल डालेगा नियम-कानून",
+          "summary": "Pakistan IMF demands 174 Amendments: कंगाल पाकिस्तान को अपने हालात सुधारने के लिए पैसा चाहिए और उसकी हालत ये है कि वो इसके लिए अपनी नीतियां और कानून तक बदलने को तैयार है. इंटरनेशनल मॉनिटरी फंड ने 8.4 बिलियन डॉलर का जो लोन पाकिस्तान को देने का वादा किया है, उसके लिए उसे अपने कानून में 174 बदलाव करने होंगे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पहले बत्‍ती गुल और अब पापी पेट का सवाल, भारत के पैरों पर गिरा बांग्‍लादेश, समझिए PM तारिक रहमान की",
+      "url": "https://hindi.news18.com/news/nation/india-bangladesh-trade-relation-wheat-crisis-in-dhaka-pm-tarique-rahman-import-from-delhi-black-sea-trade-disruption-10863610.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-25T08:42:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/wheat-bangladesh-2026-09-d1b6eed51985080b74fa5ed4b8b4515b-1200x800.jpg",
+      "summary": "India-Bangladesh News: शेख हसीना के सत्‍ता से हटाने के बाद भारत और बांग्‍लादेश के संबंध पहले जैसे नहीं रहे. पहले मोहम्‍मद यूनुस और उसके बाद प्रधानमंत्री तारिक रहमान का रवैया भारत के साथ उतना बेहतर नहीं रहा. इन सबके बीच नया डेवलपमेंट हुआ है. पहले बत्‍ती गुल और अब पापी पेट का सवाल, भारत के पैरों पर गिरा बांग्‍लादेश, समझिए PM तारिक रहमान की।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहले बत्‍ती गुल और अब पापी पेट का सवाल, भारत के पैरों पर गिरा बांग्‍लादेश, समझिए PM तारिक रहमान की",
+          "summary": "India-Bangladesh News: शेख हसीना के सत्‍ता से हटाने के बाद भारत और बांग्‍लादेश के संबंध पहले जैसे नहीं रहे. पहले मोहम्‍मद यूनुस और उसके बाद प्रधानमंत्री तारिक रहमान का रवैया भारत के साथ उतना बेहतर नहीं रहा. इन सबके बीच नया डेवलपमेंट हुआ है. पहले बत्‍ती गुल और अब पापी पेट का सवाल, भारत के पैरों पर गिरा बांग्‍लादेश, समझिए PM तारिक रहमान की।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "किस गीत को सुनकर भावुक हुईं शी जिनपिंग की पत्नी? हिट हुई मेलानिया ट्रंप की कल्चरल डिप्लोमेसी",
       "url": "https://hindi.news18.com/world/america-which-song-makes-china-first-lady-peng-liyuan-emotional-during-us-visit-perfect-cultural-diplomacy-ws-l-10863650.html",
       "source": "News18 Hindi (World)",
@@ -357,24 +429,6 @@
         "hi": {
           "title": "फेसबुक पर जिस महिला से सीआरपीएफ कर्मी की दोस्ती, उसी ने युवती को मिलने को कहा",
           "summary": "फार्म हाउस में हुए सामूहिक दुष्कर्म में शामिल दिल्ली में तैनात मुजफ्फरनगर के सौरंग निवासी सीआरपीएफ हेड कांस्टेबल मोहित ने फेसबुक के जरिये युवती से दोस्ती गांठी थी। फेसबुक पर जिस महिला से सीआरपीएफ कर्मी की दोस्ती, उसी ने युवती को मिलने को कहा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत-ए ने ऑस्ट्रेलिया को 162 रन से हराया, कौन से खिलाड़ी रहे टीम इंडिया की जीत के हीरो?",
-      "url": "https://www.amarujala.com/cricket/india-a-beat-australia-a-by-162-runs-in-first-unofficial-test-who-were-the-heroes-of-the-win-2026-09-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-25T07:12:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/25/india-a-vs-australia-a-first-unofficial-test-india-a-australia-a-puducherry-siechem-ground-uno_c47fa8669902b0db3c42241be99355df.jpeg?w=1200&dpr=1.0",
-      "summary": "पुड्डुचेरी के सियेचेम ग्राउंड में खेले गए पहले अनऑफिशियल टेस्ट में भारत-ए ने ऑस्ट्रेलिया-ए को 162 रन से हराया। भारत-ए ने ऑस्ट्रेलिया-ए के सामने 363 रन का लक्ष्य रखा था, जिसके जवाब में मेहमान टीम की दूसरी पारी 200 रन पर सिमट गई। भारत-ए ने ऑस्ट्रेलिया को 162 रन से हराया, कौन से खिलाड़ी रहे टीम इंडिया की जीत के हीरो?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत-ए ने ऑस्ट्रेलिया को 162 रन से हराया, कौन से खिलाड़ी रहे टीम इंडिया की जीत के हीरो?",
-          "summary": "पुड्डुचेरी के सियेचेम ग्राउंड में खेले गए पहले अनऑफिशियल टेस्ट में भारत-ए ने ऑस्ट्रेलिया-ए को 162 रन से हराया। भारत-ए ने ऑस्ट्रेलिया-ए के सामने 363 रन का लक्ष्य रखा था, जिसके जवाब में मेहमान टीम की दूसरी पारी 200 रन पर सिमट गई। भारत-ए ने ऑस्ट्रेलिया को 162 रन से हराया, कौन से खिलाड़ी रहे टीम इंडिया की जीत के हीरो?",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -452,24 +506,6 @@
       }
     },
     {
-      "title": "नीम करोली बाबा के दर्शन से लौट रहे परिवार की कार नदी में गिरी, बाल-बाल बचे श्रद्धालु",
-      "url": "https://www.amarujala.com/himachal-pradesh/sirmour/kala-amb-saketi-road-car-falls-150-feet-markanda-river-devotees-safe-2026-09-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-25T06:46:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/25/nama-karal-bb-ka-tharashana-sa-lta-raha-paravara-ka-kara-natha-ma-gara_35eaabc9db5039c795c5796534706b0f.jpeg?w=1200&dpr=1.0",
-      "summary": "Neem Karoli Baba Darshan Sirmaur Car Accident: सिरमौर के कालाअंब-सकेती सड़क पर श्रद्धालुओं से भरी कार करीब 150 फीट नीचे मारकंडा नदी में जा गिरी। हादसे में सभी श्रद्धालु सुरक्षित हैं। नीम करोली बाबा के दर्शन से लौट रहे परिवार की कार नदी में गिरी, बाल-बाल बचे श्रद्धालु।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नीम करोली बाबा के दर्शन से लौट रहे परिवार की कार नदी में गिरी, बाल-बाल बचे श्रद्धालु",
-          "summary": "Neem Karoli Baba Darshan Sirmaur Car Accident: सिरमौर के कालाअंब-सकेती सड़क पर श्रद्धालुओं से भरी कार करीब 150 फीट नीचे मारकंडा नदी में जा गिरी। हादसे में सभी श्रद्धालु सुरक्षित हैं। नीम करोली बाबा के दर्शन से लौट रहे परिवार की कार नदी में गिरी, बाल-बाल बचे श्रद्धालु।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "जिनपिंग ने ट्रंप के सामने उठाया ताइवान का मुद्दा, एआई सहयोग पर क्या सहमति बनी?",
       "url": "https://www.amarujala.com/world/us-china-talks-xi-jinping-raises-taiwan-issue-with-trump-what-agreement-was-reached-on-ai-cooperation-2026-09-25",
       "source": "Amar Ujala World",
@@ -488,42 +524,6 @@
       }
     },
     {
-      "title": "पाकिस्तान-अफगानिस्तान सीमा पर फिर झड़प, बढ़ा तनाव; तालिबान के कई सदस्यों को मारने का दावा",
-      "url": "https://www.amarujala.com/world/world-news-updates-pakistan-bla-claim-killed-many-soldiers-2026-09-25",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-09-25T06:07:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
-      "summary": "दुनिया की खबरें: बलूचिस्तान में 25 ऑपरेशन में 18 पाकिस्तानी जवान मारे, बीएलए का दावा पाकिस्तान-अफगानिस्तान सीमा पर फिर झड़प, बढ़ा तनाव; तालिबान के कई सदस्यों को मारने का दावा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान-अफगानिस्तान सीमा पर फिर झड़प, बढ़ा तनाव; तालिबान के कई सदस्यों को मारने का दावा",
-          "summary": "दुनिया की खबरें: बलूचिस्तान में 25 ऑपरेशन में 18 पाकिस्तानी जवान मारे, बीएलए का दावा पाकिस्तान-अफगानिस्तान सीमा पर फिर झड़प, बढ़ा तनाव; तालिबान के कई सदस्यों को मारने का दावा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘आग भी…दिलों की जान भी’, भंसाली की फिल्म से रिलीज हुआ आलिया भट्ट का पहला लुक; जानें क्या है खास",
-      "url": "https://www.amarujala.com/entertainment/alia-bhatt-first-look-poster-from-sanjay-leela-bhansali-lalia-bhatt-first-look-poster-from-sanjay-leela-bhansali-love-and-war-with-ranbir-kapoor-and-vicky-kaushalove-and-war-with-ranbir-kapoor-and-vicky-kaushal-2026-09-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-25T05:59:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/25/falma-lva-eda-vara-ma-aalya-bhatata_74b170dbb97c74a22b1385ffdd66b416.jpeg?w=1200&dpr=1.0",
-      "summary": "फिल्म ‘लव एंड वॉर’ से आलिया भट्ट का लुक सामने आया है। इस पोस्टर में एक्ट्रेस काफी अलग अंदाज में नजर आ रही हैं। वहीं पोस्टर के साथ मेकर्स का कैप्शन फिल्म में उनके किरदार के बारे में काफी कुछ बता रहा है। ‘आग भीदिलों की जान भी’, भंसाली की फिल्म से रिलीज हुआ आलिया भट्ट का पहला लुक; जानें क्या है खास।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘आग भी…दिलों की जान भी’, भंसाली की फिल्म से रिलीज हुआ आलिया भट्ट का पहला लुक; जानें क्या है खास",
-          "summary": "फिल्म ‘लव एंड वॉर’ से आलिया भट्ट का लुक सामने आया है। इस पोस्टर में एक्ट्रेस काफी अलग अंदाज में नजर आ रही हैं। वहीं पोस्टर के साथ मेकर्स का कैप्शन फिल्म में उनके किरदार के बारे में काफी कुछ बता रहा है। ‘आग भीदिलों की जान भी’, भंसाली की फिल्म से रिलीज हुआ आलिया भट्ट का पहला लुक; जानें क्या है खास।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "ग्रीन कार्ड सिस्टम बदलने की तैयारी, अमेरिका नया बिल बनेगा भारतीयों के लिए सिरदर्द, टूट सकते हैं सपने",
       "url": "https://hindi.news18.com/world/america-us-introduces-new-bill-could-change-green-card-system-why-is-it-problem-for-indians-10863137.html",
       "source": "News18 Hindi (World)",
@@ -538,24 +538,6 @@
           "title": "ग्रीन कार्ड सिस्टम बदलने की तैयारी, अमेरिका नया बिल बनेगा भारतीयों के लिए सिरदर्द, टूट सकते हैं सपने",
           "summary": "US Green Card Bill System: पहले से ही भारतीयों के लिए अमेरिका में बसने का ख्वाब दूर की कौड़ी साबित हो रहा है. इसमें एक और बाधा पैदा करने वाला है रिपब्लिकन सीनेटर की ओर से पेश किया गया नया बिल. अगर ये पास हो गया तो ग्रीन कार्ड के इंतजार में बैठे प्रोफेशनल्स पर बुरा असर पड़ सकता है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "गूगल अंतरिक्ष में करेगा एआई चिप की टेस्टिंग, 1 अक्तूबर को रचने जा रहा इतिहास, क्या है प्लान?",
-      "url": "https://www.amarujala.com/technology/tech-diary/google-project-suncatcher-space-tpu-ai-computing-satellite-launch-on-1-october-2026-09-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-25T05:49:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/25/google-chip-in-space_a4b672e109909318eaac5db64565681e.jpeg",
-      "summary": "Google will launch a prototype satellite with a Tensor Processing Unit on one October to test गूगल अब एआई कंप्यूटिंग को अंतरिक्ष तक ले जाने की तैयारी कर रहा है। कंपनी प्रोजेक्ट सनकैचर के तहत अपना टेंसर प्रोसेसिंग यूनिट वाला प्रोटोटाइप सैटेलाइट ऑर्बिट में भेजेगी। 1 अक्तूबर को होने वाले इस टेस्ट में देखा जाएगा कि एआई चिप। गूगल अंतरिक्ष में करेगा एआई चिप की टेस्टिंग, 1 अक्तूबर को रचने जा रहा इतिहास, क्या है प्लान?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गूगल अंतरिक्ष में करेगा एआई चिप की टेस्टिंग, 1 अक्तूबर को रचने जा रहा इतिहास, क्या है प्लान?",
-          "summary": "Google will launch a prototype satellite with a Tensor Processing Unit on one October to test गूगल अब एआई कंप्यूटिंग को अंतरिक्ष तक ले जाने की तैयारी कर रहा है। कंपनी प्रोजेक्ट सनकैचर के तहत अपना टेंसर प्रोसेसिंग यूनिट वाला प्रोटोटाइप सैटेलाइट ऑर्बिट में भेजेगी। 1 अक्तूबर को होने वाले इस टेस्ट में देखा जाएगा कि एआई चिप। गूगल अंतरिक्ष में करेगा एआई चिप की टेस्टिंग, 1 अक्तूबर को रचने जा रहा इतिहास, क्या है प्लान?",
-          "region": "दुनिया"
         }
       }
     },
@@ -753,6 +735,24 @@
         "hi": {
           "title": "याद है बीप-बीप... UN के मंच पर नेतन्याहू की 40 मिनट वाली दबंगई, हवा में लहराया पेजर, किसे चिढ़ाया?",
           "summary": "Netanyahu Pager Attack: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू का संयुक्त राष्ट्र महासभा में जो भाषण था, उसमें एक ऐसा भी मौका आया, जब उन्होंने अपने हाथ में पेजर लेकर लहरा दिया. उनका ये अंदाज सुर्खियों में आ गया क्योंकि वो यहां पर सीधा-सीधा हिज्बुल्लाह को टार्गेट कर रहे थे. याद है बीप-बीप UN के मंच पर नेतन्याहू की 40 मिनट वाली दबंगई, हवा में लहराया पेजर, किसे चिढ़ाया?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हूती हमलों पर लगाम लगाने के लिए सऊदी अरब, तुर्की और पाकिस्तान की इमरजेंसी बैठक! क्या होने वाला है",
+      "url": "https://www.patrika.com/world-news/saudi-turkey-pakistan-military-meeting-houthi-attacks-20934012",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-25T02:47:46+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Saudi-Arabia-Houthi-attacks_143e99.webp",
+      "summary": "Saudi Turkey Pakistan Defence Pact: सऊदी अरब पर लगातार हो रहे हूती हमलों ने खाड़ी क्षेत्र की सुरक्षा व्यवस्था को लेकर नई चिंता पैदा कर दी है। मक्का और अन्य संवेदनशील इलाकों को निशाना बनाए जाने के दावों के बीच अब सऊदी अरब, तुर्किये और पाकिस्तान के सैन्य प्रमुखों की आपात बैठक की तैयारी हो रही है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूती हमलों पर लगाम लगाने के लिए सऊदी अरब, तुर्की और पाकिस्तान की इमरजेंसी बैठक! क्या होने वाला है",
+          "summary": "Saudi Turkey Pakistan Defence Pact: सऊदी अरब पर लगातार हो रहे हूती हमलों ने खाड़ी क्षेत्र की सुरक्षा व्यवस्था को लेकर नई चिंता पैदा कर दी है। मक्का और अन्य संवेदनशील इलाकों को निशाना बनाए जाने के दावों के बीच अब सऊदी अरब, तुर्किये और पाकिस्तान के सैन्य प्रमुखों की आपात बैठक की तैयारी हो रही है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
