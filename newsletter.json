@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T19:11:55.073695+00:00",
+  "generated_at": "2026-09-25T20:13:08.436381+00:00",
   "article_count": 50,
-  "total_unique_count": 264,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Iran suggests deal to reopen the Strait of Hormuz in seven days. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, रूस में पुतिन का दबदबा कायम: चुनाव में यूनाइटेड रशिया की हुई रिकॉर्ड जीत, विपक्ष को कितनी सीटें मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Iran proposes a seven‑day plan to reopen the Strait of Hormuz, a key maritime chokepoint near Bandar Abbas. Meanwhile, Ukrainian soldiers face Russian drone swarms on a trek to frontline settlements in the Donbas region.",
+    "hi": "आज पाकिस्तान ने अफगानिस्तान की सीमा पर तालिबान लड़ाकों को मारने का दावा किया, इस कदम से दो देशों के बीच तनाव फिर से बढ़ा।"
   },
   "articles": [
     {
@@ -193,7 +193,7 @@
       "source": "Global Voices",
       "sources": [],
       "published_at": "2026-09-25T09:03:15+00:00",
-      "image_url": "https://globalvoices.org/wp-content/uploads/2026/09/Global-Voices-Spotlight-Mockups-23-800x450.webp",
+      "image_url": "https://globalvoices.org/wp-content/uploads/2026/09/Global-Voices-Spotlight-Mockups-23-400x300.webp",
       "summary": "With these stories, we aim to pull back the camouflage that Big Tech uses to obscure their connection with oppressive governments, and to highlight cases of technological authoritarianism. and resistance. around the world. Support Global Voices’ Spotlight: Big Tech and Authoritarianism.",
       "region": "World",
       "language": "en",
@@ -308,9 +308,27 @@
       "translations": {}
     },
     {
+      "title": "पाकिस्तान ने तालिबान लड़ाकों को मारने का किया दावा, अफगानिस्तान से बढ़ा तनाव",
+      "url": "https://www.amarujala.com/world/pakistani-army-claims-to-killed-several-afghan-taliban-fighters-tensions-between-pak-and-afghan-rise-again-2026-09-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-26T07:24:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/26/sakataka-tasavara_7a7b9afd56187ba7549580a703df3b6c.jpeg?w=1200&dpr=1.0",
+      "summary": "Pakistani army said it killed at least five Afghan Taliban fighters in a night‑long exchange of fire along the Khyber border on 24 September. The clash followed reports of cross‑border raids and has revived tensions between Islamabad and Kabul in the region. पाकिस्तान ने तालिबान लड़ाकों को मारने का किया दावा, अफगानिस्तान से बढ़ा तनाव।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान ने तालिबान लड़ाकों को मारने का किया दावा, अफगानिस्तान से बढ़ा तनाव",
+          "summary": "Pakistani army said it killed at least five Afghan Taliban fighters in a night‑long exchange of fire along the Khyber border on 24 September. The clash followed reports of cross‑border raids and has revived tensions between Islamabad and Kabul in the region. पाकिस्तान ने तालिबान लड़ाकों को मारने का किया दावा, अफगानिस्तान से बढ़ा तनाव।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "रूस में पुतिन का दबदबा कायम: चुनाव में यूनाइटेड रशिया की हुई रिकॉर्ड जीत, विपक्ष को कितनी सीटें",
       "url": "https://www.amarujala.com/world/united-russia-wins-349-seats-in-russian-parliamentary-elections-find-out-how-many-opposition-was-limited-to-2026-09-26",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-26T06:54:20+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/26/rashhatarapata-valthamara-patana_3fff0383b9a08822590f36fcc5a7e6aa.jpeg?w=1200&dpr=1.0",
@@ -376,6 +394,78 @@
           "title": "गंभीर बीमारियों का जोखिम 14% बढ़ा: रोज 100 ग्राम ज्यादा अल्ट्रा-प्रोसेस्ड फूड दिल के लिए घातक, मौत",
           "summary": "का कितना खतरा? गंभीर बीमारियों का जोखिम 14% बढ़ा: रोज 100 ग्राम ज्यादा अल्ट्रा-प्रोसेस्ड फूड दिल के लिए घातक, मौत।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को करना पड़ेगा परेशानी का सामना; सलाह जारी",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-bank-unions-strike-from-september-28-2026-09-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-25T20:06:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/25/bka-karamacaraya-ka-haugdhatal_6c3151d5f0c6cb8d85854f0a652f693f.jpeg?w=1200&dpr=1.0",
+      "summary": "Bank unions in India will begin a strike on 28 September. The walkout will affect branches in Delhi for three days, disrupting cash withdrawals and payments. Customers are advised to use ATMs, digital wallets and plan transactions before the strike. बैंक यूनियनों के हड़ताल के कारण दिल्ली में तीन दिन लोगों को परेशानी का सामना करना पड़ सकता है। बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को करना पड़ेगा परेशानी का सामना; सलाह जारी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को करना पड़ेगा परेशानी का सामना; सलाह जारी",
+          "summary": "Bank unions in India will begin a strike on 28 September. The walkout will affect branches in Delhi for three days, disrupting cash withdrawals and payments. Customers are advised to use ATMs, digital wallets and plan transactions before the strike. बैंक यूनियनों के हड़ताल के कारण दिल्ली में तीन दिन लोगों को परेशानी का सामना करना पड़ सकता है। बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को करना पड़ेगा परेशानी का सामना; सलाह जारी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "फलस्तीनियों के अधिकारों को लेकर यूएन सख्त: 61 कंपनियों को ब्लैकलिस्ट में डाला, इस्राइल से है इनके",
+      "url": "https://www.amarujala.com/world/un-takes-tough-stance-on-palestinian-rights-blacklists-61-companies-linked-to-israel-2026-09-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-25T20:00:29+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/26/sakataka-tasavara_779a2487645327c49d988411607acc72.jpeg?w=1200&dpr=1.0",
+      "summary": "संबंध- UN takes tough stance on Palestinian rights Blacklists 61 companies linked to Israel फलस्तीनियों के अधिकारों को लेकर यूएन सख्त: 61 कंपनियों को ब्लैकलिस्ट में डाला, इस्राइल से है इनके।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फलस्तीनियों के अधिकारों को लेकर यूएन सख्त: 61 कंपनियों को ब्लैकलिस्ट में डाला, इस्राइल से है इनके",
+          "summary": "संबंध- UN takes tough stance on Palestinian rights Blacklists 61 companies linked to Israel फलस्तीनियों के अधिकारों को लेकर यूएन सख्त: 61 कंपनियों को ब्लैकलिस्ट में डाला, इस्राइल से है इनके।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फ्लाइट का समय बदला, फिर भी बोर्डिंग से रोका; इंडिगो पर 67 हजार जुर्माना",
+      "url": "https://www.amarujala.com/delhi-ncr/flight-time-changed-yet-denied-boarding-indigo-fined-67-000-2026-09-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-25T19:53:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/26/1_b050de3311e44c4453ccddb1d659220d.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली के जिला उपभोक्ता विवाद निवारण आयोग-I (नॉर्थ डिस्ट्रिक्ट) ने इंटरग्लोब एविएशन लिमिटेड (इंडिगो) को एक यात्री को फ्लाइट रिशेड्यूल होने के बाद बोर्डिंग से रोकने के मामले में सेवा में कमी और अनुचित व्यापार व्यवहार का दोषी ठहराया है। फ्लाइट का समय बदला, फिर भी बोर्डिंग से रोका; इंडिगो पर 67 हजार जुर्माना।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्लाइट का समय बदला, फिर भी बोर्डिंग से रोका; इंडिगो पर 67 हजार जुर्माना",
+          "summary": "दिल्ली के जिला उपभोक्ता विवाद निवारण आयोग-I (नॉर्थ डिस्ट्रिक्ट) ने इंटरग्लोब एविएशन लिमिटेड (इंडिगो) को एक यात्री को फ्लाइट रिशेड्यूल होने के बाद बोर्डिंग से रोकने के मामले में सेवा में कमी और अनुचित व्यापार व्यवहार का दोषी ठहराया है। फ्लाइट का समय बदला, फिर भी बोर्डिंग से रोका; इंडिगो पर 67 हजार जुर्माना।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जेल में बंद इमरान खान की सेहत और मामलों पर वॉशिंगटन का बड़ा बयान, पाकिस्तान में हाई अलर्ट",
+      "url": "https://www.patrika.com/world-news/imran-khan-health-us-state-department-close-watch-adiala-jail-20936707",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-25T19:25:09+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Imran-Khan.webp",
+      "summary": "Imran Khan Health: पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की जेल में बंद सेहत को लेकर अमेरिका ने अपनी चिंता जाहिर की है। अमेरिकी विदेश विभाग के एक वरिष्ठ अधिकारी ने कहा कि वॉशिंगटन इमरान खान के मामले और उनकी सेहत की स्थिति पर बारीकी से नजर रखे हुए है। जेल में बंद इमरान खान की सेहत और मामलों पर वॉशिंगटन का बड़ा बयान, पाकिस्तान में हाई अलर्ट।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जेल में बंद इमरान खान की सेहत और मामलों पर वॉशिंगटन का बड़ा बयान, पाकिस्तान में हाई अलर्ट",
+          "summary": "Imran Khan Health: पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की जेल में बंद सेहत को लेकर अमेरिका ने अपनी चिंता जाहिर की है। अमेरिकी विदेश विभाग के एक वरिष्ठ अधिकारी ने कहा कि वॉशिंगटन इमरान खान के मामले और उनकी सेहत की स्थिति पर बारीकी से नजर रखे हुए है। जेल में बंद इमरान खान की सेहत और मामलों पर वॉशिंगटन का बड़ा बयान, पाकिस्तान में हाई अलर्ट।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -664,96 +754,6 @@
           "title": "गाज़ा में मारे गए 2 इज़रायली सैनिक, ड्रोन धमाके का बने शिकार",
           "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच युद्ध जारी है। इज़रायली सेना गाज़ा (Gaza) और आसपास के फिलिस्तीनी इलाकों पर लगातार हमले कर रही है और हमास के आतंकियों का सफाया कर रही है। हालांकि इज़रायली हमलों में निर्दोष फिलिस्तीनी भी मारे जा रहे हैं। इसी बीच अब कुछ ऐसा हुआ कि इज़रायली सेना के 2 सैनिकों ने अपनी जान गंवा दी।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "48 हजार करोड़ लगाकर सऊदी अरब-CIA ने खड़ा किया ‘भस्मासुर’, पाकिस्तान ने सालों बाद कबूला काला सच",
-      "url": "https://hindi.news18.com/world/pakistan-exclusive-how-cia-and-saudi-arabia-funded-5-billon-dollar-terror-factories-in-pakistan-shocking-al-qaeda-confession-afghan-jihad-cover-10864154.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-25T12:20:09+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Saudi-CIA-part-in-Pakistan-terrorism-2026-09-21c97c8a24f003ca1be6ac716003a6ab-1200x800.jpg",
-      "summary": "पाकिस्तान के पूर्व सूचना मंत्री मुशाहिद हुसैन ने एक बड़ा खुलासा किया है. उन्होंने बताया कि 1980 के दशक में अमरीकी एजेंसी CIA और सऊदी अरब ने 'अफगान जिहाद' के नाम पर पाक एजेंसी ISI को 5 अरब डॉलर देकर एक ‘भस्मासुर’ खड़ा किया था. इनमें ओसामा बिन लादेन और अयमन अल-जवाहिरी जैसे खूंखार आतंकी भी शामिल थे. इतना ही नहीं, पाकिस्तान ने इसी फंडिंग और दुनिया के भटके ध्यान का फायदा उठाकर चुपके से अपने परमाणु हथिय।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "48 हजार करोड़ लगाकर सऊदी अरब-CIA ने खड़ा किया ‘भस्मासुर’, पाकिस्तान ने सालों बाद कबूला काला सच",
-          "summary": "पाकिस्तान के पूर्व सूचना मंत्री मुशाहिद हुसैन ने एक बड़ा खुलासा किया है. उन्होंने बताया कि 1980 के दशक में अमरीकी एजेंसी CIA और सऊदी अरब ने 'अफगान जिहाद' के नाम पर पाक एजेंसी ISI को 5 अरब डॉलर देकर एक ‘भस्मासुर’ खड़ा किया था. इनमें ओसामा बिन लादेन और अयमन अल-जवाहिरी जैसे खूंखार आतंकी भी शामिल थे. इतना ही नहीं, पाकिस्तान ने इसी फंडिंग और दुनिया के भटके ध्यान का फायदा उठाकर चुपके से अपने परमाणु हथिय।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "SIR पर चुनाव आयोग में थी सहमति, CEC और दोनों चुनाव आयुक्तों ने दी थी मंजूरी",
-      "url": "https://www.abplive.com/news/india/ec-cec-approved-sir-for-12-states-including-bihar-and-assam-decision-unanimously-3193736",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-25T12:09:15+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/b228b383dee6d570d1ab0c92b4d9349417903386527011324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "एसआईआर को लेकर मचे बवाल के बीच सूत्रों के हवाले से जानकारी सामने आई है कि बिहार-असम समेत 12 राज्यों में एसआईआर को चुनाव आयुक्तों और मुख्य चुनाव आयुक्त की मंजूरी थी. यह फैसला सर्वसम्मति से हुआ था. (ये ब्रेकिंग न्यूज़ स्टोरी है और इसे अपडेट किया जा रहा है. ताजा अपडेट के लिए कृपया रिफ्रेश करें) SIR पर चुनाव आयोग में थी सहमति, CEC और दोनों चुनाव आयुक्तों ने दी थी मंजूरी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "SIR पर चुनाव आयोग में थी सहमति, CEC और दोनों चुनाव आयुक्तों ने दी थी मंजूरी",
-          "summary": "एसआईआर को लेकर मचे बवाल के बीच सूत्रों के हवाले से जानकारी सामने आई है कि बिहार-असम समेत 12 राज्यों में एसआईआर को चुनाव आयुक्तों और मुख्य चुनाव आयुक्त की मंजूरी थी. यह फैसला सर्वसम्मति से हुआ था. (ये ब्रेकिंग न्यूज़ स्टोरी है और इसे अपडेट किया जा रहा है. ताजा अपडेट के लिए कृपया रिफ्रेश करें) SIR पर चुनाव आयोग में थी सहमति, CEC और दोनों चुनाव आयुक्तों ने दी थी मंजूरी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "तृषा पर दिए बयान को लेकर फिर भड़के CM विजय! कहा- 'स्वीट अंकल स्टालिन...'",
-      "url": "https://www.abplive.com/news/india/tamil-nadu-cm-tvk-joseph-vijay-slams-dmk-comment-on-trisha-krishnan-chengalpattu-assembly-bypoll-3193704",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-25T11:36:52+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/7c497a9ae302537a10f537de412e2f791790334781929708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तमिलनाडु के मुख्यमंत्री सी जोसेफ विजय ने अपनी फ्रेंड तृषा कृष्णन पर की गई टिप्पणी को लेकर इशारों-इशारों में डीएमके पर निशाना साधा है. मदुरंतकम उपचुनाव कैंपेन में उन्होंने डीएमके को बुरी ताकत बताया और पार्टी पर आपमानजनक बातें करने का आरोप लगाया. CM विजय ने आरोप लगाया कि डीएमके चीफ स्टालिन और अन्य नेताओं ने पूर्व मुख्यमंत्री जयललिता के खिलाफ अपमानजनक बातें कहीं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तृषा पर दिए बयान को लेकर फिर भड़के CM विजय! कहा- 'स्वीट अंकल स्टालिन...'",
-          "summary": "तमिलनाडु के मुख्यमंत्री सी जोसेफ विजय ने अपनी फ्रेंड तृषा कृष्णन पर की गई टिप्पणी को लेकर इशारों-इशारों में डीएमके पर निशाना साधा है. मदुरंतकम उपचुनाव कैंपेन में उन्होंने डीएमके को बुरी ताकत बताया और पार्टी पर आपमानजनक बातें करने का आरोप लगाया. CM विजय ने आरोप लगाया कि डीएमके चीफ स्टालिन और अन्य नेताओं ने पूर्व मुख्यमंत्री जयललिता के खिलाफ अपमानजनक बातें कहीं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आलोचना के बीच ज्ञानेश कुमार के समर्थन में बंगाल BJP अध्यक्ष, बोले- 'वे पद्मभूषण के...'",
-      "url": "https://www.abplive.com/news/india/west-bengal-bjp-president-samik-bhattacharya-demand-padma-bhushan-for-cec-gyanesh-kumar-amid-ec-row-3193708",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-25T11:36:45+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/e4f61e09c18d695b9c37af3c8f1c7aaf17903359531321324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "आलोचना के बीच भारत के मुख्य चुनाव आयुक्त को बीजेपी के पश्चिम बंगाल अध्यक्ष सामिक भट्टाचार्य का साथ मिला है. उन्होंने ज्ञानेश कुमार की तारीफ करते हुए, उन्हें पद्म भूषण सम्मान देने की मांग की है. कहा हैकि वह कम से कम इसके हकदार हैं. सामिक भट्टाचार्य ने कहा है कि असल बात तो यह है कि कांग्रेस पार्टी खुद भी राहुल गांधी की बातों पर ध्यान नहीं देती है. वे उन्हें गंभीरता से नहीं लेते हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आलोचना के बीच ज्ञानेश कुमार के समर्थन में बंगाल BJP अध्यक्ष, बोले- 'वे पद्मभूषण के...'",
-          "summary": "आलोचना के बीच भारत के मुख्य चुनाव आयुक्त को बीजेपी के पश्चिम बंगाल अध्यक्ष सामिक भट्टाचार्य का साथ मिला है. उन्होंने ज्ञानेश कुमार की तारीफ करते हुए, उन्हें पद्म भूषण सम्मान देने की मांग की है. कहा हैकि वह कम से कम इसके हकदार हैं. सामिक भट्टाचार्य ने कहा है कि असल बात तो यह है कि कांग्रेस पार्टी खुद भी राहुल गांधी की बातों पर ध्यान नहीं देती है. वे उन्हें गंभीरता से नहीं लेते हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "शख्स ने फ्लाइट में महिला के सामने की गंदी हरकत, फिर उसी के पास क्रू ने बैठने को किया मजबूर",
-      "url": "https://hindi.news18.com/world/america-united-airlines-flight-woman-man-masturbation-crew-seat-complaint-fbi-10863998.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-25T11:25:13+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/United-Airlines-Flight-Incident-2026-09-0f4a8dee21379e12deb42ea0401460d7-1200x800.jpg",
-      "summary": "यूनाइटेड एयरलाइन की एक उड़ान में 25 साल की महिला ने शख्स पर उसके सामने अश्लील हरकत करने का आरोप लगाया है. महिला के मुताबिक शख्स उसे देखते हुए गंदी हरकत कर रहा था. उसने तुरंत फ्लाइट के क्रू मेंबर को इसकी जानकारी दी. विमान में दूसरी सीट खाली नहीं थी इसलिए उसे कुछ देर खड़े रहने दिया गया. लेकिन लैंडिंग से पहले उसे फिर उसी शख्स के बगल में बैठने के लिए कहा गया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शख्स ने फ्लाइट में महिला के सामने की गंदी हरकत, फिर उसी के पास क्रू ने बैठने को किया मजबूर",
-          "summary": "यूनाइटेड एयरलाइन की एक उड़ान में 25 साल की महिला ने शख्स पर उसके सामने अश्लील हरकत करने का आरोप लगाया है. महिला के मुताबिक शख्स उसे देखते हुए गंदी हरकत कर रहा था. उसने तुरंत फ्लाइट के क्रू मेंबर को इसकी जानकारी दी. विमान में दूसरी सीट खाली नहीं थी इसलिए उसे कुछ देर खड़े रहने दिया गया. लेकिन लैंडिंग से पहले उसे फिर उसी शख्स के बगल में बैठने के लिए कहा गया.",
-          "region": "दुनिया"
         }
       }
     }
