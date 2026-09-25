@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T20:13:08.436381+00:00",
+  "generated_at": "2026-09-25T21:13:16.461192+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 261,
   "digest": {
-    "en": "Iran proposes a seven‑day plan to reopen the Strait of Hormuz, a key maritime chokepoint near Bandar Abbas. Meanwhile, Ukrainian soldiers face Russian drone swarms on a trek to frontline settlements in the Donbas region.",
-    "hi": "आज पाकिस्तान ने अफगानिस्तान की सीमा पर तालिबान लड़ाकों को मारने का दावा किया, इस कदम से दो देशों के बीच तनाव फिर से बढ़ा।"
+    "en": "Middle East & Africa leads the board this hour with Iran suggests deal to reopen the Strait of Hormuz in seven days. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, पाकिस्तान ने तालिबान लड़ाकों को मारने का किया दावा, अफगानिस्तान से बढ़ा तनाव मुख्य खबर है। साथ ही यूरोप और रूस से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -51,6 +51,18 @@
       "published_at": "2026-09-25T12:41:14+00:00",
       "image_url": "https://i.guim.co.uk/img/media/67d305784dfd315cace78bf9474fb8c26a114654/911_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bdca6502c5cbc63719cb11d6b064f87",
       "summary": "While the US president hailed the visit as ‘great’, almost nothing of substance was achieved, which was a win for XiKey takeaways from the Trump-Xi summit in WashingtonIf the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Tuvalu urges decisive global action as rising seas threaten its future",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168449",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-09-25T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/25-09-2026-UN-Photo-UNGA81-Tuvalu.jpg/image770x420cropped.jpg",
+      "summary": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international action are still falling far short of what vulnerable island nations need. Tuvalu urges decisive global action as rising seas threaten its future.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -193,7 +205,7 @@
       "source": "Global Voices",
       "sources": [],
       "published_at": "2026-09-25T09:03:15+00:00",
-      "image_url": "https://globalvoices.org/wp-content/uploads/2026/09/Global-Voices-Spotlight-Mockups-23-400x300.webp",
+      "image_url": "https://globalvoices.org/wp-content/uploads/2026/09/Global-Voices-Spotlight-Mockups-23-800x450.webp",
       "summary": "With these stories, we aim to pull back the camouflage that Big Tech uses to obscure their connection with oppressive governments, and to highlight cases of technological authoritarianism. and resistance. around the world. Support Global Voices’ Spotlight: Big Tech and Authoritarianism.",
       "region": "World",
       "language": "en",
@@ -232,18 +244,6 @@
       "image_url": "https://gdb.rferl.org/745e4b2d-fccb-453c-4086-08df13a884cb_w1200_h630.jpg",
       "summary": "RFE/RL takes apart a Russian Geran-4 drone to uncover what makes the jet-powered unmanned aerial vehicle (UAV) faster, harder to intercept, and capable of operating deep inside Ukraine -- from its turbojet engine and advanced camera to foreign-made communications and navigation components. What Makes Russia's New Jet-Powered Drone So Dangerous?",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘We’re going to win. We have no other choice’",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168431",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/24-09-2026-UN-Photo-UNGA81-Israel.jpg/image770x420cropped.jpg",
-      "summary": "Prime Minister Benjamin Netanyahu told the UN General Assembly that Israel’s strikes on Iran are a matter of national survival. He dismissed West Bank violence as the work of a handful of juvenile delinquents and called accusations of genocide in Gaza the greatest lie of the century. Prime Minister Benjamin Netanyahu used his address to the UN General Assembly to defend Israel’s strikes against Iran as a matter of national survival and describe the violence in the West Bank as the work of few “juvenile delinquents” and reject accusations of genocide in Gaza as “the greatest lie of the century.”.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -398,7 +398,97 @@
       }
     },
     {
-      "title": "बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को करना पड़ेगा परेशानी का सामना; सलाह जारी",
+      "title": "एयरबस ए321 विमानों में धड़ के स्ट्रिंगर पर मिली गड़बड़ी, सुरक्षा को खतरा नहीं",
+      "url": "https://www.amarujala.com/world/airbus-a321-fuselage-stringer-issue-identified-no-safety-risk-hindi-news-updates-2026-09-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-25T21:12:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/11/29/a320-airbus_b2d0f09303e687562f015be34b82afc5.jpeg?w=1200&dpr=1.0",
+      "summary": "सुरक्षा में कमी: एयरबस ए321 विमानों में धड़ के स्ट्रिंगर पर मिली गड़बड़ी, सुरक्षा को खतरा नहीं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एयरबस ए321 विमानों में धड़ के स्ट्रिंगर पर मिली गड़बड़ी, सुरक्षा को खतरा नहीं",
+          "summary": "सुरक्षा में कमी: एयरबस ए321 विमानों में धड़ के स्ट्रिंगर पर मिली गड़बड़ी, सुरक्षा को खतरा नहीं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शहबाज शरीफ ने निकाला ‘भीख का कटोरा 2.0’, भारत का नाम लेकर रोए, बन गए मुनीर के PR एजेंट",
+      "url": "https://hindi.news18.com/world/america-pakistan-prime-minister-shehbaz-sharif-unga-speech-live-hormuz-oil-crisis-terrorism-kashmir-india-indus-water-treaty-iran-us-war-houthis-saudi-arabia-mecca-pact-10864784.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-25T21:01:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Shehbaz-Sharif-UNGA-Speech-2026-09-80d09866a7536a20d5e4c3b5ee962411-1200x800.jpg",
+      "summary": "Pakistan prime minister Shahbaz Sharif told the United संयुक्त राष्ट्र महासभा (UNGA) में पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने एक बार फिर वही पुराना राग अलापा. उन्होंने अपने भाषण की शुरुआत में पश्चिम एशिया के तनाव और ईरान-अमेरिका के फेल हुए समझौते पर बात की. इस दौरान वे नाकाम मोर्चे पर भी सेना प्रमुख असीम मुनीर की झूठी तारीफें करते नजर आए.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शहबाज शरीफ ने निकाला ‘भीख का कटोरा 2.0’, भारत का नाम लेकर रोए, बन गए मुनीर के PR एजेंट",
+          "summary": "Pakistan prime minister Shahbaz Sharif told the United संयुक्त राष्ट्र महासभा (UNGA) में पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने एक बार फिर वही पुराना राग अलापा. उन्होंने अपने भाषण की शुरुआत में पश्चिम एशिया के तनाव और ईरान-अमेरिका के फेल हुए समझौते पर बात की. इस दौरान वे नाकाम मोर्चे पर भी सेना प्रमुख असीम मुनीर की झूठी तारीफें करते नजर आए.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "न्यूयॉर्क में भारत-ईरान की अहम कूटनीतिक बैठक, UNGA के मंच पर जयशंकर-अराघची की मुलाकात",
+      "url": "https://www.patrika.com/world-news/jaishankar-araghchi-meeting-unga-gulf-dispute-india-iran-20936716",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-25T20:53:16+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Jaishankar-Iran-meeting.webp",
+      "summary": "Indian foreign minister S. Jaishankar met Iranian foreign minister Abbas Araghchi on the sidelines of the 81st United Nations General Assembly in New York. They discussed recent incidents in the Gulf region and Jaishankar posted on X that he valued the dialogue. जयशंकर ने 81वीं संयुक्त राष्ट्र महासभा (UNGA) के दौरान ईरान के विदेश मंत्री अब्बास अरागची से मुलाकात कर खाड़ी क्षेत्र के विवाद में हालिया घटनाक्रमों पर विस्तार से चर्चा की।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न्यूयॉर्क में भारत-ईरान की अहम कूटनीतिक बैठक, UNGA के मंच पर जयशंकर-अराघची की मुलाकात",
+          "summary": "Indian foreign minister S. Jaishankar met Iranian foreign minister Abbas Araghchi on the sidelines of the 81st United Nations General Assembly in New York. They discussed recent incidents in the Gulf region and Jaishankar posted on X that he valued the dialogue. जयशंकर ने 81वीं संयुक्त राष्ट्र महासभा (UNGA) के दौरान ईरान के विदेश मंत्री अब्बास अरागची से मुलाकात कर खाड़ी क्षेत्र के विवाद में हालिया घटनाक्रमों पर विस्तार से चर्चा की।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यूपी के शहरों के लिए रेड अलर्ट, ओडिशा में बारिश-बाढ़ से हड़कंप, छत्तीसगढ़ में स्कूल बंद",
+      "url": "https://www.amarujala.com/india-news/imd-rain-alert-for-across-country-today-chaos-in-odisha-due-to-floods-schools-closed-in-chhattisgarh-up-bihar-2026-09-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-25T20:43:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/26/sakataka-tasavara_1309a67d01efc8febfa9594620a8fcb9.jpeg?w=1200&dpr=1.0",
+      "summary": "आज कैसा रहेगा मौसम?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूपी के शहरों के लिए रेड अलर्ट, ओडिशा में बारिश-बाढ़ से हड़कंप, छत्तीसगढ़ में स्कूल बंद",
+          "summary": "आज कैसा रहेगा मौसम?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तानी पत्रकार ने एस जयशंकर से आतंकवाद पर पूछा सवाल, विदेश मंत्री ने दिया गजब जवाब",
+      "url": "https://www.amarujala.com/video/world/a-pakistani-journalist-will-never-forget-s-jaishankar-s-reply-s-jaishankar-response-to-pakistani-journalist-2026-09-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-25T20:37:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/26/esa-jayashakara-ka-javab-pakasatana-patarakara-kabha-naha-bhalga-s-jaishankar-response-to-pakistani-journalist_9f619fde30aa2e6efc66f987b7fda45a.jpeg?w=1200&dpr=1.0",
+      "summary": "UN में पाकिस्तानी पत्रकार ने भारत को घेरना चाहा, लेकिन जयशंकर ने ऐसा जवाब दिया कि सवाल ही उल्टा पड़ गया। जयशंकर ने मुस्कुराते हुए आतंकवाद के मुद्दे पर पाकिस्तान को आईना दिखा दिया। पाकिस्तानी पत्रकार ने एस जयशंकर से आतंकवाद पर पूछा सवाल, विदेश मंत्री ने दिया गजब जवाब।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तानी पत्रकार ने एस जयशंकर से आतंकवाद पर पूछा सवाल, विदेश मंत्री ने दिया गजब जवाब",
+          "summary": "UN में पाकिस्तानी पत्रकार ने भारत को घेरना चाहा, लेकिन जयशंकर ने ऐसा जवाब दिया कि सवाल ही उल्टा पड़ गया। जयशंकर ने मुस्कुराते हुए आतंकवाद के मुद्दे पर पाकिस्तान को आईना दिखा दिया। पाकिस्तानी पत्रकार ने एस जयशंकर से आतंकवाद पर पूछा सवाल, विदेश मंत्री ने दिया गजब जवाब।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को होगी परेशानी; रविवार को कामकाज पर असमंजस",
       "url": "https://www.amarujala.com/delhi-ncr/delhi-bank-unions-strike-from-september-28-2026-09-26",
       "source": "Amar Ujala Breaking",
       "sources": [],
@@ -409,7 +499,7 @@
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को करना पड़ेगा परेशानी का सामना; सलाह जारी",
+          "title": "बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को होगी परेशानी; रविवार को कामकाज पर असमंजस",
           "summary": "Bank unions in India will begin a strike on 28 September. The walkout will affect branches in Delhi for three days, disrupting cash withdrawals and payments. Customers are advised to use ATMs, digital wallets and plan transactions before the strike. बैंक यूनियनों के हड़ताल के कारण दिल्ली में तीन दिन लोगों को परेशानी का सामना करना पड़ सकता है। बैंक यूनियनों की हड़ताल 28 सितंबर से, तीन दिन ग्राहकों को करना पड़ेगा परेशानी का सामना; सलाह जारी।",
           "region": "एशिया-प्रशांत"
         }
@@ -466,24 +556,6 @@
           "title": "जेल में बंद इमरान खान की सेहत और मामलों पर वॉशिंगटन का बड़ा बयान, पाकिस्तान में हाई अलर्ट",
           "summary": "Imran Khan Health: पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की जेल में बंद सेहत को लेकर अमेरिका ने अपनी चिंता जाहिर की है। अमेरिकी विदेश विभाग के एक वरिष्ठ अधिकारी ने कहा कि वॉशिंगटन इमरान खान के मामले और उनकी सेहत की स्थिति पर बारीकी से नजर रखे हुए है। जेल में बंद इमरान खान की सेहत और मामलों पर वॉशिंगटन का बड़ा बयान, पाकिस्तान में हाई अलर्ट।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत का नाम लेकर रोए फिर भीख मांगने लगे शहबाज शरीफ, बेशर्मी पर उतरा पाकिस्तान",
-      "url": "https://hindi.news18.com/world/america-pakistan-prime-minister-shehbaz-sharif-unga-speech-live-hormuz-oil-crisis-terrorism-kashmir-india-indus-water-treaty-iran-us-war-houthis-saudi-arabia-mecca-pact-10864784.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-25T19:02:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Shehbaz-Sharif-UNGA-Speech-2026-09-80d09866a7536a20d5e4c3b5ee962411-1200x800.jpg",
-      "summary": "Pakistan prime minister Shahbaz Sharif told the United संयुक्त राष्ट्र महासभा (UNGA) में पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने एक बार फिर वही पुराना राग अलापा. उन्होंने अपने भाषण की शुरुआत में पश्चिम एशिया के तनाव और ईरान-अमेरिका के फेल हुए समझौते पर बात की. इस दौरान वे नाकाम मोर्चे पर भी सेना प्रमुख असीम मुनीर की झूठी तारीफें करते नजर आए.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत का नाम लेकर रोए फिर भीख मांगने लगे शहबाज शरीफ, बेशर्मी पर उतरा पाकिस्तान",
-          "summary": "Pakistan prime minister Shahbaz Sharif told the United संयुक्त राष्ट्र महासभा (UNGA) में पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने एक बार फिर वही पुराना राग अलापा. उन्होंने अपने भाषण की शुरुआत में पश्चिम एशिया के तनाव और ईरान-अमेरिका के फेल हुए समझौते पर बात की. इस दौरान वे नाकाम मोर्चे पर भी सेना प्रमुख असीम मुनीर की झूठी तारीफें करते नजर आए.",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -681,78 +753,6 @@
         "hi": {
           "title": "हूती विद्रोहियों के खिलाफ यमन की सेना को मिली कामयाबी, लाहिज में माउंट नुमान पर किया कब्ज़ा",
           "summary": "यमन (Yemen) के हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच तनाव बना हुआ है। दोनों पक्षों की तरफ से एक-दूसरे पर हमले किए जा रहे हैं। सऊदी अरब समर्थित यमन की सरकारी सेना भी हूती विद्रोहियों के खिलाफ कार्रवाई कर रही है। इसी बीच यमन की सेना को हूतियों के खिलाफ एक बड़ी कामयाबी मिली है। हूती विद्रोहियों के खिलाफ यमन की सेना को मिली कामयाबी, लाहिज में माउंट नुमान पर किया कब्ज़ा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "वो ‘गांव’ जहां बैठे-बैठे खाते हैं लोग, जॉब करने वालों की होती है पूजा, शादी-घर-बच्चा सबके लिए पैसे",
-      "url": "https://hindi.news18.com/world/middle-east-no-taxes-free-healthcare-cash-for-marriage-inside-world-most-pampered-nation-life-in-qatar-earth-richest-country-10864312.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-25T13:05:00+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Qatar-Life-2026-09-d2c7fe68dacca1b5a21278708bb12888-1200x800.jpg",
-      "summary": "एक जगह यहां सरकार ही नागरिकों को राजा-महाराजाओं जैसी लग्जरी लाइफ देती है. यहां न तो कोई इनकम टैक्स लगता है, और न ही बिजली, पानी या गैस का बिल भरना पड़ता है. सरकार शादी करने और बच्चा होने पर भारी नकद मदद देती है. घर बनाने के लिए मुफ्त जमीन भी मिलती है. इसके अलावा, दुनिया में कहीं भी मुफ्त पढ़ाई और वर्ल्ड-क्लास इलाज की पूरी सुविधा है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वो ‘गांव’ जहां बैठे-बैठे खाते हैं लोग, जॉब करने वालों की होती है पूजा, शादी-घर-बच्चा सबके लिए पैसे",
-          "summary": "एक जगह यहां सरकार ही नागरिकों को राजा-महाराजाओं जैसी लग्जरी लाइफ देती है. यहां न तो कोई इनकम टैक्स लगता है, और न ही बिजली, पानी या गैस का बिल भरना पड़ता है. सरकार शादी करने और बच्चा होने पर भारी नकद मदद देती है. घर बनाने के लिए मुफ्त जमीन भी मिलती है. इसके अलावा, दुनिया में कहीं भी मुफ्त पढ़ाई और वर्ल्ड-क्लास इलाज की पूरी सुविधा है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बाल्टिक सागर में पुतिन के लड़ाकू विमानों का खेल खत्म, फिनलैंड-स्वीडन के जेट्स ने मिग-31 और सुखोई को",
-      "url": "https://hindi.news18.com/world/europe-finland-sweden-first-joint-operation-intercept-russian-jets-baltic-sea-nato-10864353.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-25T13:03:25+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Russia_Sweden_Finland-2026-09-91d9846fe2ad9fe0a270f183b8341955-1200x800.jpg",
-      "summary": "फिनलैंड और स्वीडन ने पहली बार संयुक्त मिलिट्री ऑपरेशन चलाकर बाल्टिक सागर के ऊपर उड़ रहे रूसी फाइटर जेट्स को इंटरसेप्ट किया है. फिनलैंड की खाड़ी में रूस के टीयू-134 ट्रांसपोर्ट विमान के साथ मिग-31 और सुखोई-30 जेट्स को दोनों देशों के क्विक रिएक्शन अलर्ट विमानों ने तुरंत ट्रैक किया. यह मिशन रूस के बढ़ते हाइब्रिड हमलों और यूरोप में तेज होती सुरक्षा चिंताओं के बीच नाटो की एकजुटता का खुला प्रदर्शन है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बाल्टिक सागर में पुतिन के लड़ाकू विमानों का खेल खत्म, फिनलैंड-स्वीडन के जेट्स ने मिग-31 और सुखोई को",
-          "summary": "फिनलैंड और स्वीडन ने पहली बार संयुक्त मिलिट्री ऑपरेशन चलाकर बाल्टिक सागर के ऊपर उड़ रहे रूसी फाइटर जेट्स को इंटरसेप्ट किया है. फिनलैंड की खाड़ी में रूस के टीयू-134 ट्रांसपोर्ट विमान के साथ मिग-31 और सुखोई-30 जेट्स को दोनों देशों के क्विक रिएक्शन अलर्ट विमानों ने तुरंत ट्रैक किया. यह मिशन रूस के बढ़ते हाइब्रिड हमलों और यूरोप में तेज होती सुरक्षा चिंताओं के बीच नाटो की एकजुटता का खुला प्रदर्शन है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अपने दो सैनिकों की मौत के बाद इज़रायली सेना ने सभी छोटे ड्रोन्स पर फिलहाल के लिए लगाई रोक, जानिए",
-      "url": "https://www.patrika.com/world-news/israel-military-temporarily-grounded-all-small-drones-amid-investigation-after-two-soldiers-killed-20936133",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-25T12:47:33+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/fpv-drone.webp",
-      "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में चल रहे युद्ध के दौरान आज इज़रायली सेना के दो सैनिक मारे गए! इज़रायली सेना की यरूशलेम ब्रिगेड की 7007वीं बटालियन के सदस्य 24 वर्षीय मास्टर सार्जेंट (रिज़र्व) नादाव काली (Nadav Kali) और 23 वर्षीय मास्टर सार्जेंट (रिज़र्व) ओफेक मोआलेम (Ofek Moalem) की मौत एक हथियारबंद FPV ड्रोन के धमाके की वजह से हुई, जो इज़रायली सेना का ही था।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अपने दो सैनिकों की मौत के बाद इज़रायली सेना ने सभी छोटे ड्रोन्स पर फिलहाल के लिए लगाई रोक, जानिए",
-          "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में चल रहे युद्ध के दौरान आज इज़रायली सेना के दो सैनिक मारे गए! इज़रायली सेना की यरूशलेम ब्रिगेड की 7007वीं बटालियन के सदस्य 24 वर्षीय मास्टर सार्जेंट (रिज़र्व) नादाव काली (Nadav Kali) और 23 वर्षीय मास्टर सार्जेंट (रिज़र्व) ओफेक मोआलेम (Ofek Moalem) की मौत एक हथियारबंद FPV ड्रोन के धमाके की वजह से हुई, जो इज़रायली सेना का ही था।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "गाज़ा में मारे गए 2 इज़रायली सैनिक, ड्रोन धमाके का बने शिकार",
-      "url": "https://www.patrika.com/world-news/two-israeli-soldiers-killed-in-drone-blast-in-gaza-20936015",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-25T12:20:10+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/israeli-soldiers.webp",
-      "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच युद्ध जारी है। इज़रायली सेना गाज़ा (Gaza) और आसपास के फिलिस्तीनी इलाकों पर लगातार हमले कर रही है और हमास के आतंकियों का सफाया कर रही है। हालांकि इज़रायली हमलों में निर्दोष फिलिस्तीनी भी मारे जा रहे हैं। इसी बीच अब कुछ ऐसा हुआ कि इज़रायली सेना के 2 सैनिकों ने अपनी जान गंवा दी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "गाज़ा में मारे गए 2 इज़रायली सैनिक, ड्रोन धमाके का बने शिकार",
-          "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच युद्ध जारी है। इज़रायली सेना गाज़ा (Gaza) और आसपास के फिलिस्तीनी इलाकों पर लगातार हमले कर रही है और हमास के आतंकियों का सफाया कर रही है। हालांकि इज़रायली हमलों में निर्दोष फिलिस्तीनी भी मारे जा रहे हैं। इसी बीच अब कुछ ऐसा हुआ कि इज़रायली सेना के 2 सैनिकों ने अपनी जान गंवा दी।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
