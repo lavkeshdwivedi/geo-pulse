@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-09-25T13:14:47.953486+00:00",
+  "generated_at": "2026-09-25T14:15:58.475807+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 263,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with Merz clings on as Germany’s political center crumbles. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, हूती विद्रोहियों के खिलाफ यमन की सेना को मिली कामयाबी, लाहिज में माउंट नुमान पर किया कब्ज़ा मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Asia-Pacific leads the board this hour with Trump-Xi summit puts focus on managing US-China rivalry. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, इज़रायली सेना ने मार गिराए दो हमास आतंकी मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Trump-Xi summit puts focus on managing US-China rivalry",
+      "url": "https://www.channelnewsasia.com/east-asia/warm-words-limited-deals-trump-xi-summit-puts-focus-managing-us-china-rivalry-6410746",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-09-25T13:35:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--YjB_OrQE--/c_crop,h_449,w_799,x_1,y_12/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-25T051536Z_2_LYNXMPEM8O0AO_RTROPTP_3_USA-CHINA.JPG?itok=TnAY7or4",
+      "summary": "US President Donald Trump and Chinese President Xi Jinping’s personal rapport helped set a warm tone in Washington this week, but analysts say lasting stability will depend on whether the two sides can better manage their unresolved differences. Trump-Xi summit puts focus on managing US-China rivalry.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "More growth but fewer workers needed? Countries grapple with the risk of 'jobless growth' amid AI",
+      "url": "https://www.channelnewsasia.com/today/big-read/ai-jobless-growth-economy-employment-6407706",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-09-25T13:30:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--kLSt40ga--/c_crop,h_1080,w_1919,x_1,y_180/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/25/jobless-growth-ai-expansion-pmet-careers-productivity-driven-gfx-cna-today-big-read.png?itok=TL7C66bq",
+      "summary": "What happens when an economy keeps getting richer, but no longer needs as many new workers to grow? As AI reshapes how companies operate and where economic value is created, Singapore may need to rethink the relationship between growth, jobs and prosperity, experts say. More growth but fewer workers needed? Countries grapple with the risk of 'jobless growth' amid AI.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Feels more of a hotel, less like a home': Why residents at this Hillview condo are unhappy with",
+      "url": "https://www.channelnewsasia.com/today/ground-up/condominium-co-living-tenants-owners-parc-palais-6383056",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-09-25T13:30:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--7TnROcWZ--/c_crop,h_1125,w_2000,x_0,y_309/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/23/img_1713.jpg?itok=xHxowsk0",
+      "summary": "As co-living takes root in more condominiums, some residents in at least one condo are up in arms. Their complaints include having to jostle for facilities, strangers entering the compound and increased wear-and-tear in common areas. 'Feels more of a hotel, less like a home': Why residents at this Hillview condo are unhappy with.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Merz clings on as Germany’s political center crumbles",
       "url": "https://asiatimes.com/2026/09/merz-clings-on-as-germanys-political-center-crumbles/",
@@ -20,7 +56,7 @@
       "translations": {}
     },
     {
-      "title": "Pomp over progress as Trump rolls out red carpet for China’s president Xi Jinping",
+      "title": "Pomp over progress in Xi’s US summit with Trump is a win for China",
       "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
       "source": "The Guardian",
       "sources": [],
@@ -28,6 +64,30 @@
       "image_url": "https://i.guim.co.uk/img/media/67d305784dfd315cace78bf9474fb8c26a114654/911_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bdca6502c5cbc63719cb11d6b064f87",
       "summary": "While the US president hailed the visit as ‘great’, almost nothing of substance was achieved, which was a win for XiKey takeaways from the Trump-Xi summit in WashingtonIf the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Six years on from COVID-19, is the world ready for the next pandemic?",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168437",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-09-25T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-10-2023-WHO-PAHO-Honduras.jpg/image770x420cropped.jpg",
+      "summary": "COVID-19 killed millions, shattered health systems and brought the global economy to a virtual standstill. World leaders are meeting Friday to review the lessons learned and cement a new approach to prevention and preparation for the next pandemic. Hopes are high that a World Health Organization-led international agreement can move forward. Six years on from COVID-19, is the world ready for the next pandemic?",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Yemen violence deepens concerns over child hunger crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168436",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-09-25T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/24-09-2026_UNICEF_Yemen.jpg/image770x420cropped.jpg",
+      "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition. Yemen violence deepens concerns over child hunger crisis.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -224,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "UN General Assembly debate Day 2",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168421",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/23-09-2026-UN-Photo-UNGA81-GA-Hall.jpg/image770x420cropped.jpg",
-      "summary": "This edition of UN News's The Takeaway recaps key highlghts at the UN General Assembly on Wednesday, including focus on the war in Ukraine and a renewed push by African countries for Security Council reform. UN General Assembly debate Day 2.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "US Pushes To Turn Armenia-Azerbaijan Transit Deal Into Investment Opportunity",
       "url": "https://www.rferl.org/a/tripp-armenia-azerbaijan-us-investment-transit-corridor/33863442.html",
       "source": "Radio Free Europe / Liberty",
@@ -260,52 +308,40 @@
       "translations": {}
     },
     {
-      "title": "Five Afghan Family Members Die Of Thirst While Trying To Reach Iran",
-      "url": "https://www.rferl.org/a/afghan-migrant-deaths-iran/33862877.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "इज़रायली सेना ने मार गिराए दो हमास आतंकी",
+      "url": "https://www.patrika.com/world-news/israel-army-kills-two-hamas-terrorists-20936422",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-23T13:38:20+00:00",
-      "image_url": "https://gdb.rferl.org/04f3ee59-c4d0-41ce-70d5-08df13a869ed_cx0_cy28_cw0_w1200_h630.jpeg",
-      "summary": "An Afghan migrant reported that his stepmother and four sisters died An Afghan migrant has told RFE/RL's Radio Azadi that his stepmother and four sisters died of thirst and hunger while attempting a dangerous journey to Iran after economic hardship forced the family to leave Afghanistan again. Five Afghan Family Members Die Of Thirst While Trying To Reach Iran.",
+      "published_at": "2026-09-25T14:15:07+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/israel-airstrike-in-khan-younis.webp",
+      "summary": "आतंकी संगठन हमास (Hamas) को खत्म करने के लिए गाज़ा (Gaza) और आसपास के इलाकों में इज़रायल (Israel) की सैन्य कार्रवाई जारी है। इज़रायली सेना अब तक बड़ी संख्या में हमास आतंकियों को मार चुकी है, लेकिन अभी भी बचे हुए आतंकियों को मार गिराने के लिए गाज़ा में हमले जारी हैं। अब इज़रायली सेना को हमास के खिलाफ युद्ध में फिर से कामयाबी मिली है।",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इज़रायली सेना ने मार गिराए दो हमास आतंकी",
+          "summary": "आतंकी संगठन हमास (Hamas) को खत्म करने के लिए गाज़ा (Gaza) और आसपास के इलाकों में इज़रायल (Israel) की सैन्य कार्रवाई जारी है। इज़रायली सेना अब तक बड़ी संख्या में हमास आतंकियों को मार चुकी है, लेकिन अभी भी बचे हुए आतंकियों को मार गिराने के लिए गाज़ा में हमले जारी हैं। अब इज़रायली सेना को हमास के खिलाफ युद्ध में फिर से कामयाबी मिली है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Delcy Rodríguez poses with Trump in New York as Maduro languishes in jail nearby",
-      "url": "https://www.theguardian.com/world/2026/sep/23/venezuela-delcy-rodriguez-meeting-donald-trump-new-york",
-      "source": "The Guardian",
+      "title": "‘अब आतंकवादी देश मुझसे सवाल पूछेगा’? जयशंकर ने पाकिस्तानी पत्रकार को धो डाला, फिर मुस्कुराकर निकल गए",
+      "url": "https://hindi.news18.com/news/nation/terrorist-country-asking-me-this-question-eam-s-jaishankar-shuts-down-pakistani-journalist-at-un-10864390.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-23T12:54:07+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/f3047c0f2fb117dfbebef26c857045085c0b22e8/17_0_897_718/master/897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=486abae4f64c7418a060329cd6505cc2",
-      "summary": "Venezuela’s interim president hails ‘historic meeting’ and does not say whether she will visit snatched predecessorVenezuela’s interim president, Delcy Rodríguez, has celebrated a “historic” meeting with Donald Trump in New York, posing for a smiley photo with the US president, less than nine months after he ordered the abduction of her boss, Nicolás Maduro. Delcy Rodríguez poses with Trump in New York as Maduro languishes in jail nearby.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168419",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/23-09-2026-UN-Photo-Kenya.jpg/image770x420cropped.jpg",
-      "summary": "Kenyan President William Ruto told the General Assembly on Wednesday that the sovereign equality the UN proclaims is contradicted by its own structures, urging Member States to reform the Security Council and an international financial system “built for another age”. Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-09-23T11:08:01+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0cb421007ba094b5dcf6229414bc0d79c7772fbc/473_554_4258_3408/master/4258.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0c7be2f2cee5d0c1d2fc453ecfb65ab",
-      "summary": "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock marketNils Pratley: Does this mark the end of London’s listing drought? Not yetA payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange. Indian billionaire’s payments firm plots biggest London flotation in years.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-09-25T14:11:49+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg",
+      "summary": "‘अब आतंकवादी देश मुझसे सवाल पूछेगा’? जयशंकर ने पाकिस्तानी पत्रकार को धो डाला, फिर मुस्कुराकर निकल गए।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘अब आतंकवादी देश मुझसे सवाल पूछेगा’? जयशंकर ने पाकिस्तानी पत्रकार को धो डाला, फिर मुस्कुराकर निकल गए",
+          "summary": "‘अब आतंकवादी देश मुझसे सवाल पूछेगा’? जयशंकर ने पाकिस्तानी पत्रकार को धो डाला, फिर मुस्कुराकर निकल गए।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "हूती विद्रोहियों के खिलाफ यमन की सेना को मिली कामयाबी, लाहिज में माउंट नुमान पर किया कब्ज़ा",
@@ -368,13 +404,13 @@
       "sources": [],
       "published_at": "2026-09-25T12:47:33+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/fpv-drone.webp",
-      "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में चल रहे युद्ध के दौरान आज इज़रायली सेना के दो सैनिक मारे गए!",
+      "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में चल रहे युद्ध के दौरान आज इज़रायली सेना के दो सैनिक मारे गए! इज़रायली सेना की यरूशलेम ब्रिगेड की 7007वीं बटालियन के सदस्य 24 वर्षीय मास्टर सार्जेंट (रिज़र्व) नादाव काली (Nadav Kali) और 23 वर्षीय मास्टर सार्जेंट (रिज़र्व) ओफेक मोआलेम (Ofek Moalem) की मौत एक हथियारबंद FPV ड्रोन के धमाके की वजह से हुई, जो इज़रायली सेना का ही था।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "अपने दो सैनिकों की मौत के बाद इज़रायली सेना ने सभी छोटे ड्रोन्स पर फिलहाल के लिए लगाई रोक, जानिए",
-          "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में चल रहे युद्ध के दौरान आज इज़रायली सेना के दो सैनिक मारे गए!",
+          "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में चल रहे युद्ध के दौरान आज इज़रायली सेना के दो सैनिक मारे गए! इज़रायली सेना की यरूशलेम ब्रिगेड की 7007वीं बटालियन के सदस्य 24 वर्षीय मास्टर सार्जेंट (रिज़र्व) नादाव काली (Nadav Kali) और 23 वर्षीय मास्टर सार्जेंट (रिज़र्व) ओफेक मोआलेम (Ofek Moalem) की मौत एक हथियारबंद FPV ड्रोन के धमाके की वजह से हुई, जो इज़रायली सेना का ही था।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -638,13 +674,13 @@
       "sources": [],
       "published_at": "2026-09-25T10:09:12+00:00",
       "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/28f0e632dd26a656b28294273c17238d17903312317291324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "चुनाव आयोग और एसआईआर पर खुलासे के बाद से विपक्ष के देशव्यापी प्रदर्शन के आह्वान के बीच जंतर मंतर पर जारी AISA के नेतृत्व में आयोजित प्रोटेस्ट में शामिल होने बड़ी संख्या में लोग पहुंचे. हालांकि, इस दौरान दिल्ली पुलिस ने प्रदर्शनकारियों को डिटेन कर लिया. योगेंद्र यादव समेत 40 से ज्यादा प्रदर्शनकारियों को डिटेन किया जा चुका है.",
+      "summary": "चुनाव आयोग और एसआईआर पर खुलासे के बाद से विपक्ष के देशव्यापी प्रदर्शन के आह्वान के बीच जंतर मंतर पर जारी AISA के नेतृत्व में आयोजित प्रोटेस्ट में शामिल होने बड़ी संख्या में लोग पहुंचे. हालांकि, इस दौरान दिल्ली पुलिस ने प्रदर्शनकारियों को डिटेन कर लिया. योगेंद्र यादव समेत 40 से ज्यादा प्रदर्शनकारियों को डिटेन किया जा चुका है. जंतर मंतर पर प्रदर्शन के लिए प्रशांत भूषण, अंजलि भारद्वाज, नेहा समेत AISA।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "ज्ञानेश कुमार की गिरफ्तारी को लेकर AISA का प्रदर्शन, योगेंद्र यादव समेत 40 डिटेन",
-          "summary": "चुनाव आयोग और एसआईआर पर खुलासे के बाद से विपक्ष के देशव्यापी प्रदर्शन के आह्वान के बीच जंतर मंतर पर जारी AISA के नेतृत्व में आयोजित प्रोटेस्ट में शामिल होने बड़ी संख्या में लोग पहुंचे. हालांकि, इस दौरान दिल्ली पुलिस ने प्रदर्शनकारियों को डिटेन कर लिया. योगेंद्र यादव समेत 40 से ज्यादा प्रदर्शनकारियों को डिटेन किया जा चुका है.",
+          "summary": "चुनाव आयोग और एसआईआर पर खुलासे के बाद से विपक्ष के देशव्यापी प्रदर्शन के आह्वान के बीच जंतर मंतर पर जारी AISA के नेतृत्व में आयोजित प्रोटेस्ट में शामिल होने बड़ी संख्या में लोग पहुंचे. हालांकि, इस दौरान दिल्ली पुलिस ने प्रदर्शनकारियों को डिटेन कर लिया. योगेंद्र यादव समेत 40 से ज्यादा प्रदर्शनकारियों को डिटेन किया जा चुका है. जंतर मंतर पर प्रदर्शन के लिए प्रशांत भूषण, अंजलि भारद्वाज, नेहा समेत AISA।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -717,42 +753,6 @@
         "hi": {
           "title": "शराब के नशे में था एयर इंडिया का पायलट, फ्लाइट के टेक-ऑफ करने से पहले हुई जांच में खुली पोल",
           "summary": "Air India Pilot Suspended: विमान को उड़ान पर ले जाने से पहले जिस तरह प्‍लेन की फिटनेस रिपोर्ट तैयार की जाती है, वैसे पायलट के बारे में भी सभी जरूरी जानकारियां जुटाई जाती हैं. इसमें किसी भी तरह की खामी पाए जाने पर फौरन एक्‍शन लिया जाता है. ज्‍यूरिख से दिल्‍ली आ रही एयर इंडिया के प्‍लेन के टेक-ऑफ करने से पहले भी यह प्रोसेस किया गया, जिसमें पायलट फंस गए और उन्‍हें सस्‍पेंड कर दिया गया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'केरल कैसे जीते?', BJP का राहुल पर वार, प्रियंका बोलीं- बहाने बंद करें",
-      "url": "https://www.abplive.com/news/india/rahul-gandhi-on-election-commission-sir-bjp-chirag-paswan-arjun-ram-meghwal-answers-3193569",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-25T09:10:14+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/90a3f6146b7c874a11dffdeb38e7a3c21790325947551344_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारतीय जनता पार्टी ने कांग्रेस नेता राहुल गांधी के आरोपों का करारा जवाब दिया है. राहुल ने प्रेस कॉन्फ्रेंस कर वोट चोरी का आरोप लगाया और मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग भी की उन्होंने भाजपा को भी निशाने पर लिया था. इसके जवाब में केंद्रीय मंत्री अर्जुन राम मेघवाल ने कहा कि उनके सभी तथ्य झूठे हैं. वहीं कांग्रेस सांसद प्रियंका गांधी ने राहुल का बचाव किया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'केरल कैसे जीते?', BJP का राहुल पर वार, प्रियंका बोलीं- बहाने बंद करें",
-          "summary": "भारतीय जनता पार्टी ने कांग्रेस नेता राहुल गांधी के आरोपों का करारा जवाब दिया है. राहुल ने प्रेस कॉन्फ्रेंस कर वोट चोरी का आरोप लगाया और मुख्य चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग भी की उन्होंने भाजपा को भी निशाने पर लिया था. इसके जवाब में केंद्रीय मंत्री अर्जुन राम मेघवाल ने कहा कि उनके सभी तथ्य झूठे हैं. वहीं कांग्रेस सांसद प्रियंका गांधी ने राहुल का बचाव किया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "UP चुनाव का BJP बना रही तगड़ा प्लान, केशव प्रसाद मौर्य की अमित शाह संग मीटिंग, बोले- '2027 में...'",
-      "url": "https://www.abplive.com/news/india/up-deputy-cm-keshav-prasad-maurya-amit-shah-meeting-uttar-pradesh-assembly-election-3193537",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-25T09:07:05+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/493cce7254ff03b5d6d01d8e492f374817903167890431115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "उत्तर प्रदेश में 2027 में होने वाले विधानसभा चुनाव को लेकर राजनीतिक दलों की तैयारियां तेज हो गई हैं. बीजेपी भी संगठन को मजबूत करने और चुनाव की तैयारी में जुटी है. इसी बीच उत्तर प्रदेश के उपमुख्यमंत्री केशव प्रसाद मौर्य ने नई दिल्ली में केंद्रीय गृह एवं सहकारिता मंत्री अमित शाह से मुलाकात की. केशव प्रसाद मौर्य ने इस मुलाकात की जानकारी सोशल मीडिया प्लेटफॉर्म एक्स पर शेयर की.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UP चुनाव का BJP बना रही तगड़ा प्लान, केशव प्रसाद मौर्य की अमित शाह संग मीटिंग, बोले- '2027 में...'",
-          "summary": "उत्तर प्रदेश में 2027 में होने वाले विधानसभा चुनाव को लेकर राजनीतिक दलों की तैयारियां तेज हो गई हैं. बीजेपी भी संगठन को मजबूत करने और चुनाव की तैयारी में जुटी है. इसी बीच उत्तर प्रदेश के उपमुख्यमंत्री केशव प्रसाद मौर्य ने नई दिल्ली में केंद्रीय गृह एवं सहकारिता मंत्री अमित शाह से मुलाकात की. केशव प्रसाद मौर्य ने इस मुलाकात की जानकारी सोशल मीडिया प्लेटफॉर्म एक्स पर शेयर की.",
           "region": "एशिया-प्रशांत"
         }
       }
