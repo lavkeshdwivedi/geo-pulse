@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-27T13:12:28.145429+00:00",
+  "generated_at": "2026-09-27T14:13:07.684643+00:00",
   "article_count": 50,
-  "total_unique_count": 267,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with ‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, इजरायल तो सच में दुश्मनों को नहीं छोड़ता, 3 साल बाद भी 7 अक्टूबर का हिसाब जारी, 2 लोगों को खोजकर मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Europe & Russia leads the board this hour with Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "ईरान ने होर्मुज जलडमरूमध्य में अमेरिकी अंडरवाटर ड्रोन पकड़ा, IRGC ने दावा किया कि यह जासूसी उपकरण था। इस घटना के बाद यूके के अमेरिकी एयरबेस के पास भी अलर्ट बढ़ा, कई गिरफ्तारियाँ हुईं और बम स्क्वाड ने तैनाती की।"
   },
   "articles": [
+    {
+      "title": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-09-27T13:14:42+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/b1b1bf1f72519b196c5a09afca6f3d6a81f9a5ae/403_0_4518_3614/master/4518.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a5ac3a861a11bda6e42d8d87d3c8f86",
+      "summary": "Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governmentsTwo giant pandas departed Chengdu in south-western China early on Sunday for their new homes in Atlanta, Georgia, as part of an agreement between the Chinese and US governments.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to",
       "url": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
@@ -51,18 +63,6 @@
       "published_at": "2026-09-27T05:46:32+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/Lop-Nur-Nuclear-Site.jpg",
       "summary": "A mounting standoff over allegations of covert Chinese nuclear testing and rapid arsenal expansion has collided with an intensifying domestic debate within the US over whether it must abandon its decades-long test moratorium. US officials are pressing China in confidential diplomatic talks over suspected low-yield nuclear testing and a rapid strategic expansion across at least [] The post US chal.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Cardiff City footballer Perry Ng receives Singapore citizenship, awaits FIFA clearance to represent",
-      "url": "https://www.channelnewsasia.com/sport/perry-ng-singapore-citizenship-passport-lions-national-football-team-cardiff-6413396",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-09-27T05:33:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--RHcW3YT1--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/27/screenshot_2026-09-27_131807.png?itok=zEOY8b-e",
-      "summary": "\"Singapore has always been part of my family’s story, and over the years, it has become home to me too. I’m grateful for everyone who has supported me on this journey,\" says the 30-year-old defender. Cardiff City footballer Perry Ng receives Singapore citizenship, awaits FIFA clearance to represent.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -290,7 +290,7 @@
       "sources": [],
       "published_at": "2026-09-24T23:58:11+00:00",
       "image_url": "https://i.guim.co.uk/img/media/2ca6801cc926046669d9c11b2380efdeed39caf6/168_0_3844_3075/master/3844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=405d904ffa495a0ba2878164885c5b90",
-      "summary": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and tradeXi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan.",
+      "summary": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and tradeXi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan. At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -302,17 +302,53 @@
       "sources": [],
       "published_at": "2026-09-24T18:30:54+00:00",
       "image_url": "https://i.guim.co.uk/img/media/e6025ae2e7cf604bfe5cdff418ccd2bb98cfea48/319_0_3183_2547/master/3183.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea02dc17b220a661b21c8c0a63aef204",
-      "summary": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tipsOne is an authoritarian who represses the media and has a strong allergy to democratic elections. The other is head of the Chinese Communist party.",
+      "summary": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tipsOne is an authoritarian who represses the media and has a strong allergy to democratic elections. The other is head of the Chinese Communist party. Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "कश्मीर के बाद अब अफगानिस्तान? आतंकियों को डूरंड लाइन के पार भेज रहा पाकिस्तान, तालिबान ने 70 को",
+      "url": "https://hindi.news18.com/world/pakistan-afghanistan-pakistan-border-clash-taliban-nuristan-70-fighters-infiltration-durand-line-10868491.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-27T13:48:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/afghanistan-8-2026-09-c69e3f968318d4052c76b5a0bc9664d7-1200x800.jpg",
+      "summary": "अफगान तालिबान ने दावा किया है कि पाकिस्तान की तरफ से करीब 70 हथियारबंद एंटी-तालिबान लड़ाकों ने नूरिस्तान के कामदेश इलाके में घुसपैठ की कोशिश की. तालिबान के मुताबिक पहले से मिली खुफिया जानकारी के आधार पर सीमा बलों ने उन्हें रोक लिया और भीषण गोलीबारी हुई. कश्मीर के बाद अब अफगानिस्तान? आतंकियों को डूरंड लाइन के पार भेज रहा पाकिस्तान, तालिबान ने 70 को।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कश्मीर के बाद अब अफगानिस्तान? आतंकियों को डूरंड लाइन के पार भेज रहा पाकिस्तान, तालिबान ने 70 को",
+          "summary": "अफगान तालिबान ने दावा किया है कि पाकिस्तान की तरफ से करीब 70 हथियारबंद एंटी-तालिबान लड़ाकों ने नूरिस्तान के कामदेश इलाके में घुसपैठ की कोशिश की. तालिबान के मुताबिक पहले से मिली खुफिया जानकारी के आधार पर सीमा बलों ने उन्हें रोक लिया और भीषण गोलीबारी हुई. कश्मीर के बाद अब अफगानिस्तान? आतंकियों को डूरंड लाइन के पार भेज रहा पाकिस्तान, तालिबान ने 70 को।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान के हाथ लगा अमेरिका का 'समुद्री जासूस', होर्मुज में पकड़ा REMUS 600 ड्रोन, ट्रंप के सेना की",
+      "url": "https://hindi.news18.com/world/middle-east-iran-capture-remus-600-us-underwater-drone-in-strait-of-hormuz-second-incident-10868422.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-27T13:35:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/remus-drone-2026-09-cd09eea1e2c930ca607da5759980e340-1200x800.jpg",
+      "summary": "ईरान के रिवोल्यूशनरी गार्ड्स ने होर्मुज जलडमरूमध्य में अमेरिकी REMUS 600 पानी के अंदर चलने वाला ड्रोन पकड़ने का दावा किया है. ईरान के मुताबिक यह ड्रोन जासूसी के लिए इस्तेमाल हो रहा था और अब उसके विशेषज्ञ इससे डेटा निकाल रहे हैं. REMUS 600 करीब 600 मीटर गहराई तक जा सकता है. ईरान के हाथ लगा अमेरिका का 'समुद्री जासूस', होर्मुज में पकड़ा REMUS 600 ड्रोन, ट्रंप के सेना की।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के हाथ लगा अमेरिका का 'समुद्री जासूस', होर्मुज में पकड़ा REMUS 600 ड्रोन, ट्रंप के सेना की",
+          "summary": "ईरान के रिवोल्यूशनरी गार्ड्स ने होर्मुज जलडमरूमध्य में अमेरिकी REMUS 600 पानी के अंदर चलने वाला ड्रोन पकड़ने का दावा किया है. ईरान के मुताबिक यह ड्रोन जासूसी के लिए इस्तेमाल हो रहा था और अब उसके विशेषज्ञ इससे डेटा निकाल रहे हैं. REMUS 600 करीब 600 मीटर गहराई तक जा सकता है. ईरान के हाथ लगा अमेरिका का 'समुद्री जासूस', होर्मुज में पकड़ा REMUS 600 ड्रोन, ट्रंप के सेना की।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "इजरायल तो सच में दुश्मनों को नहीं छोड़ता, 3 साल बाद भी 7 अक्टूबर का हिसाब जारी, 2 लोगों को खोजकर",
       "url": "https://hindi.news18.com/world/middle-east-israel-kills-hamas-saher-nidal-saqr-muhammad-gabain-noa-argamani-hostages-7-october-attack-10868310.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-27T13:10:15+00:00",
+      "published_at": "2026-09-27T13:24:33+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/hamas-9-2026-09-ad6deb74c4fe086aa00adc8e25fe8156-1200x800.jpg",
       "summary": "इजरायल पर 7 अक्टूबर 2023 के हमले में नोआ अरगामानी और अविनातन का अपहरण हुआ था. उन दोनों के अपहरण में शामिल रहे साहेर निदाल सकर को इजरायली हमले में मार गिराने का दावा किया गया है. इजरायली सेना के मुताबिक नुसेरात में हुई कार्रवाई में सकर मारा गया. इसके अलावा एक और हमास कमांडर मुहम्मद हमद मुहम्मद गबैन को भी मार डाला.",
       "region": "Middle East & Africa",
@@ -332,31 +368,13 @@
       "sources": [],
       "published_at": "2026-09-27T13:10:03+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/american-drone.webp",
-      "summary": "Iran Captures US Drone: पश्चिम एशिया में जारी सैन्य तनाव के बीच ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) की नौसेना ने दावा किया है कि उसने होर्मुज जलडमरूमध्य में अमेरिका के एक अत्याधुनिक ऑटोनॉमस अंडरवाटर व्हीकल (AUV) को जब्त कर लिया है।",
+      "summary": "Iran Captures US Drone: पश्चिम एशिया में जारी सैन्य तनाव के बीच ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) की नौसेना ने दावा किया है कि उसने होर्मुज जलडमरूमध्य में अमेरिका के एक अत्याधुनिक ऑटोनॉमस अंडरवाटर व्हीकल (AUV) को जब्त कर लिया है। ईरानी सरकारी मीडिया और समाचार एजेंसी ‘फार्स’ के अनुसार यह यह मानवरहित सबमर्सिबल ‘REMUS 600’ है, जिसका इस्तेमाल अमेरिकी सेना कथित तौर पर जासूसी मिशन के लि।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "होर्मुज में ईरान ने पकड़ा अमेरिकी अंडरवाटर ड्रोन, IRGC ने कहा- जासूसी कर रहा था, डेटा खंगाल रहे",
-          "summary": "Iran Captures US Drone: पश्चिम एशिया में जारी सैन्य तनाव के बीच ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) की नौसेना ने दावा किया है कि उसने होर्मुज जलडमरूमध्य में अमेरिका के एक अत्याधुनिक ऑटोनॉमस अंडरवाटर व्हीकल (AUV) को जब्त कर लिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान के हाथ लगा अमेरिका का 'समुद्री जासूस', होर्मुज में पकड़ा REMUS 600 ड्रोन, ट्रंप के सेना की",
-      "url": "https://hindi.news18.com/world/middle-east-iran-capture-remus-600-us-underwater-drone-in-strait-of-hormuz-second-incident-10868422.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-27T13:08:30+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/remus-drone-2026-09-cd09eea1e2c930ca607da5759980e340-1200x800.jpg",
-      "summary": "ईरान के रिवोल्यूशनरी गार्ड्स ने होर्मुज जलडमरूमध्य में अमेरिकी REMUS 600 पानी के अंदर चलने वाला ड्रोन पकड़ने का दावा किया है. ईरान के मुताबिक यह ड्रोन जासूसी के लिए इस्तेमाल हो रहा था और अब उसके विशेषज्ञ इससे डेटा निकाल रहे हैं. REMUS 600 करीब 600 मीटर गहराई तक जा सकता है. ईरान के हाथ लगा अमेरिका का 'समुद्री जासूस', होर्मुज में पकड़ा REMUS 600 ड्रोन, ट्रंप के सेना की।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के हाथ लगा अमेरिका का 'समुद्री जासूस', होर्मुज में पकड़ा REMUS 600 ड्रोन, ट्रंप के सेना की",
-          "summary": "ईरान के रिवोल्यूशनरी गार्ड्स ने होर्मुज जलडमरूमध्य में अमेरिकी REMUS 600 पानी के अंदर चलने वाला ड्रोन पकड़ने का दावा किया है. ईरान के मुताबिक यह ड्रोन जासूसी के लिए इस्तेमाल हो रहा था और अब उसके विशेषज्ञ इससे डेटा निकाल रहे हैं. REMUS 600 करीब 600 मीटर गहराई तक जा सकता है. ईरान के हाथ लगा अमेरिका का 'समुद्री जासूस', होर्मुज में पकड़ा REMUS 600 ड्रोन, ट्रंप के सेना की।",
+          "summary": "Iran Captures US Drone: पश्चिम एशिया में जारी सैन्य तनाव के बीच ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) की नौसेना ने दावा किया है कि उसने होर्मुज जलडमरूमध्य में अमेरिका के एक अत्याधुनिक ऑटोनॉमस अंडरवाटर व्हीकल (AUV) को जब्त कर लिया है। ईरानी सरकारी मीडिया और समाचार एजेंसी ‘फार्स’ के अनुसार यह यह मानवरहित सबमर्सिबल ‘REMUS 600’ है, जिसका इस्तेमाल अमेरिकी सेना कथित तौर पर जासूसी मिशन के लि।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -736,24 +754,6 @@
           "title": "'भारत से सीखना चाहिए', UN के मंच पर किसने की दिल खोलकर तारीफ? मुस्कुराते रहे पास में बैठे जयशंकर",
           "summary": "Who Praises India in UNGC: संयुक्त राष्ट्र महासभा के 81वें सेशन में जब एस. जयशंकर हिस्सा ले रहे थे, तो उनके चेहरे पर तब मुस्कान आ गई, जब घाना के विदेश मंत्री ने बोलना शुरू किया. उन्होंने खुलकर भारत की तारीफ की और कहा कि यूएन को उसकी जी-20 अध्यक्षता से सीखने की जरूरत है. 'भारत से सीखना चाहिए', UN के मंच पर किसने की दिल खोलकर तारीफ?",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'बांग्‍लादेश का भारत के साथ ऑर्गेनिक संबंध', डिप्‍लोमेट बोले- निरंतर संवाद और संपर्क लगातार जारी",
-      "url": "https://hindi.news18.com/news/nation/bangladesh-envoy-riaz-hamidullah-calls-india-ties-organic-says-differences-should-not-halt-dialogue-10867433.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-27T05:57:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/riaz-hamidullah-2026-09-68050732f24b78f31ca5e35b70bc1345-1200x800.jpg",
-      "summary": "India-Bangladesh News: शेख हसीना सरकार को अपदस्‍थ करने के बाद भारत और बांग्‍लादेश के संबंधों में तल्‍खी आ गई. अब तारिक रहमान की अगुआई वाली सरकार भारत के साथ संबंधों को सुधारने की कोशिश में जुटी है. 'बांग्‍लादेश का भारत के साथ ऑर्गेनिक संबंध', डिप्‍लोमेट बोले- निरंतर संवाद और संपर्क लगातार जारी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'बांग्‍लादेश का भारत के साथ ऑर्गेनिक संबंध', डिप्‍लोमेट बोले- निरंतर संवाद और संपर्क लगातार जारी",
-          "summary": "India-Bangladesh News: शेख हसीना सरकार को अपदस्‍थ करने के बाद भारत और बांग्‍लादेश के संबंधों में तल्‍खी आ गई. अब तारिक रहमान की अगुआई वाली सरकार भारत के साथ संबंधों को सुधारने की कोशिश में जुटी है. 'बांग्‍लादेश का भारत के साथ ऑर्गेनिक संबंध', डिप्‍लोमेट बोले- निरंतर संवाद और संपर्क लगातार जारी।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
