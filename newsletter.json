@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-28T06:33:14.090086+00:00",
+  "generated_at": "2026-09-28T07:32:48.092050+00:00",
   "article_count": 50,
-  "total_unique_count": 264,
+  "total_unique_count": 263,
   "digest": {
-    "en": "Europe & Russia leads the board this hour with Trump family-tied drone maker woos Pakistan at India’s expense. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, नेपाल में भारी बारिश का कहर: बाढ़-भूस्खलन से 21 लोगों की मौत, हजारों प्रभावित मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Europe & Russia leads the board this hour with Trump family-tied drone maker woos Pakistan at India’s expense. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, देर रात तेज संगीत बजने पर भड़के अभिनेता अल्लू सिरीश, पुलिस से क्या की शिकायत? मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -14,8 +14,20 @@
       "sources": [],
       "published_at": "2026-09-28T06:23:30+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/XNav-Hero-Drone-Command-Powerus.jpg",
-      "summary": "Powerus, a US defense company with ties to President Donald Trump’s sons, drew scrutiny after signing a memorandum of understanding this month with the Pakistani Army and offering Islamabad access to Ukrainian drone technology, sparking debate over the deal’s potential impact on India and wider regional security.",
+      "summary": "Powerus, a US defense company with ties to President Donald Trump’s sons, drew scrutiny after signing a memorandum of understanding this month with the Pakistani Army and offering Islamabad access to Ukrainian drone technology, sparking debate over the deal’s potential impact on India and wider regional security. Powerus was founded in October 2025 by veterans [] The post Trump family-tied drone.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump asked China’s President if he wants to buy U.S. arms, Ambassador says",
+      "url": "https://www.thehindu.com/news/international/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518145.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-09-28T06:11:57+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/z9qjn0/article71518152.ece/alternates/LANDSCAPE_1200/AP09_26_2026_000001B.jpg",
+      "summary": "David Perdue said Mr. Trump raised the prospect of the arms sales from the U. S. to its ascendant geopolitical rival, an unlikely offer that, if consummated, would upend generations of U. policy toward China and Taiwan Trump asked China’s President if he wants to buy U. arms, Ambassador says. Trump asked China’s President if he wants to buy U. S.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -28,18 +40,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/uu6w3e/article71517424.ece/alternates/LANDSCAPE_1200/2026-09-27T224026Z_1980373082_RC2XRNANGXA3_RTRMADP_3_USA-TRUMP.JPG",
       "summary": "Iran's plan called for a cessation of all hostilities in West Asia, including in Lebanon, according to Foreign Minister Abbas Araghchi, and a return to the conditions in the ceasefire deal that fell apart a few months ago Iran stands firm on Hormuz plan after U. S. rejection. Trump expects new Iran talks despite rejecting deal offer.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump asked China’s President if he wants to buy U.S. arms, Ambassador says",
-      "url": "https://www.thehindu.com/news/international/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518145.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-09-28T04:09:04+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/z9qjn0/article71518152.ece/alternates/LANDSCAPE_1200/AP09_26_2026_000001B.jpg",
-      "summary": "David Perdue said Mr. Trump raised the prospect of the arms sales from the U. S. to its ascendant geopolitical rival, an unlikely offer that, if consummated, would upend generations of U. policy toward China and Taiwan Trump asked China’s President if he wants to buy U. arms, Ambassador says. Trump asked China’s President if he wants to buy U. S.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -308,6 +308,222 @@
       "translations": {}
     },
     {
+      "title": "देर रात तेज संगीत बजने पर भड़के अभिनेता अल्लू सिरीश, पुलिस से क्या की शिकायत?",
+      "url": "https://www.amarujala.com/india-news/actor-allu-sirish-angered-by-loud-music-playing-late-at-night-what-complaint-did-he-lodge-with-the-police-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:26:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/talga-ekatara-all-sarasha_6f6b0be4b2d15baa697438d0c993aec9.jpeg?w=1200&dpr=1.0",
+      "summary": "'मंदिर से स्पीकर हटाए जाएं': देर रात तेज संगीत बजने पर भड़के अभिनेता अल्लू सिरीश, पुलिस से क्या की शिकायत? Actor Allu Sirish angered by loud music playing late at night what complaint did he lodge with the police?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "देर रात तेज संगीत बजने पर भड़के अभिनेता अल्लू सिरीश, पुलिस से क्या की शिकायत?",
+          "summary": "'मंदिर से स्पीकर हटाए जाएं': देर रात तेज संगीत बजने पर भड़के अभिनेता अल्लू सिरीश, पुलिस से क्या की शिकायत? Actor Allu Sirish angered by loud music playing late at night what complaint did he lodge with the police?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "शिवसेना पार्षद की जमानत रद्द, सुप्रीम कोर्ट ने कहा- तीन दिन में करें सरेंडर",
+      "url": "https://www.amarujala.com/india-news/supreme-court-cancels-shiv-sena-corporator-ramesh-mhatre-bail-doctors-assault-case-bombay-high-court-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:24:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/supreme-court_e500a6db6caae5a3a66c0ae1fb4ab466.jpeg?w=1200&dpr=1.0",
+      "summary": "'डॉक्टरों पर हमले बर्दाश्त नहीं': शिवसेना पार्षद की जमानत रद्द, सुप्रीम कोर्ट ने कहा- तीन दिन में करें सरेंडर supreme-court-cancels-shiv-sena-corporator-ramesh-mhatre-bail-doctors-assault-case-bombay-high-court।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शिवसेना पार्षद की जमानत रद्द, सुप्रीम कोर्ट ने कहा- तीन दिन में करें सरेंडर",
+          "summary": "'डॉक्टरों पर हमले बर्दाश्त नहीं': शिवसेना पार्षद की जमानत रद्द, सुप्रीम कोर्ट ने कहा- तीन दिन में करें सरेंडर supreme-court-cancels-shiv-sena-corporator-ramesh-mhatre-bail-doctors-assault-case-bombay-high-court।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "करीना कपूर ने दी बुआ को बधाई; कहा- आपने हमारी जिंदगी को और खुशहाल बनाया है",
+      "url": "https://www.amarujala.com/entertainment/kareena-kapoor-khan-extends-wishes-on-aunty-rima-jain-birthday-says-you-make-our-lives-so-much-more-happier-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:19:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/rama-kapara-karana-kapara_776f9b0c60af6dd77985c1dd2196e575.jpeg?w=1200&dpr=1.0",
+      "summary": "Rima Jain Kapoor Birthday: करीना कपूर खान की बुआ रीमा जैन आज 28 सितंबर को अपना जन्मदिन मना रही हैं। इस मौके पर बेबो ने उन्हें बधाई दी है। करीना कपूर ने दी बुआ को बधाई; कहा- आपने हमारी जिंदगी को और खुशहाल बनाया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "करीना कपूर ने दी बुआ को बधाई; कहा- आपने हमारी जिंदगी को और खुशहाल बनाया है",
+          "summary": "Rima Jain Kapoor Birthday: करीना कपूर खान की बुआ रीमा जैन आज 28 सितंबर को अपना जन्मदिन मना रही हैं। इस मौके पर बेबो ने उन्हें बधाई दी है। करीना कपूर ने दी बुआ को बधाई; कहा- आपने हमारी जिंदगी को और खुशहाल बनाया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या चार्ट बनने के बाद भी बदल सकते हैं बोर्डिंग स्टेशन? जानें रेलवे का नियम",
+      "url": "https://www.amarujala.com/photo-gallery/utility/can-you-change-boarding-station-after-chart-preparation-check-railway-rules-in-hindi-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:19:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/tarana-bradaga-satashana-bthalva-nayama_a56270c248dff9de4eb5735073adff4a.jpeg?w=1200&dpr=1.0",
+      "summary": "अक्सर लोगों को ट्रेन ये यात्रा करने के लिए अंतिम समय में अपना बोर्डिंग स्टेशन बदलना पड़ता है। बहुत से लोगों बोर्डिंग स्टेशन बदलने के नियमों की जानकारी नहीं होती है, इसिलए उनके मन में कई सवाल रहता है। क्या चार्ट बनने के बाद भी बदल सकते हैं बोर्डिंग स्टेशन? जानें रेलवे का नियम।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या चार्ट बनने के बाद भी बदल सकते हैं बोर्डिंग स्टेशन? जानें रेलवे का नियम",
+          "summary": "अक्सर लोगों को ट्रेन ये यात्रा करने के लिए अंतिम समय में अपना बोर्डिंग स्टेशन बदलना पड़ता है। बहुत से लोगों बोर्डिंग स्टेशन बदलने के नियमों की जानकारी नहीं होती है, इसिलए उनके मन में कई सवाल रहता है। क्या चार्ट बनने के बाद भी बदल सकते हैं बोर्डिंग स्टेशन? जानें रेलवे का नियम।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "28 या 29 अक्तूबर कब रखा जाएगा करवा चौथ व्रत? जानें सही तिथि, पूजा विधि और महत्व",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/karwa-chauth-2026-date-puja-vidhi-significance-in-hindi-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:18:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/karava-catha-2026-kab-ha_8e0541469c6b01b76735ac9068152a94.jpeg?w=1200&dpr=1.0",
+      "summary": "कार्तिक मास के कृष्ण पक्ष की चतुर्थी तिथि को करवा चौथ के रूप में मनाया जाता है, जो सुहागिन महिलाओं द्वारा रखा जाने वाला महत्वपूर्ण व्रत है। आइए जानते हैं वर्ष 2026 में करवा चौथ किस दिन रखा जाएगा और इस दिन की तिथि क्या है। 28 या 29 अक्तूबर कब रखा जाएगा करवा चौथ व्रत? जानें सही तिथि, पूजा विधि और महत्व।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "28 या 29 अक्तूबर कब रखा जाएगा करवा चौथ व्रत? जानें सही तिथि, पूजा विधि और महत्व",
+          "summary": "कार्तिक मास के कृष्ण पक्ष की चतुर्थी तिथि को करवा चौथ के रूप में मनाया जाता है, जो सुहागिन महिलाओं द्वारा रखा जाने वाला महत्वपूर्ण व्रत है। आइए जानते हैं वर्ष 2026 में करवा चौथ किस दिन रखा जाएगा और इस दिन की तिथि क्या है। 28 या 29 अक्तूबर कब रखा जाएगा करवा चौथ व्रत? जानें सही तिथि, पूजा विधि और महत्व।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आयुष्मान कार्ड की लिमिट खत्म होने पर क्या नहीं करवा सकते मुफ्त इलाज? यहां जानें नियम",
+      "url": "https://www.amarujala.com/photo-gallery/utility/ayushman-card-limit-exhausted-what-happens-after-5-lakh-rupees-cover-is-used-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:12:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/06/aayashhamana-karada-ka-lmata-kab-aata-ha_450c58e0b7224557b9c4e21c98a83195.jpeg?w=1200&dpr=1.0",
+      "summary": "आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना के तहत पात्र लोगों के आयुष्मान कार्ड बनाए जाते हैं। ऐसे में आप आयुष्मान कार्ड से हर साल 5 लाख रुपये तक का मुफ्त इलाज करवा सकते हैं, लेकिन आयुष्मान कार्ड की लिमिट खत्म होने पर क्या मुफ्त इलाज नहीं करवा सकते? आयुष्मान कार्ड की लिमिट खत्म होने पर क्या नहीं करवा सकते मुफ्त इलाज?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आयुष्मान कार्ड की लिमिट खत्म होने पर क्या नहीं करवा सकते मुफ्त इलाज? यहां जानें नियम",
+          "summary": "आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना के तहत पात्र लोगों के आयुष्मान कार्ड बनाए जाते हैं। ऐसे में आप आयुष्मान कार्ड से हर साल 5 लाख रुपये तक का मुफ्त इलाज करवा सकते हैं, लेकिन आयुष्मान कार्ड की लिमिट खत्म होने पर क्या मुफ्त इलाज नहीं करवा सकते? आयुष्मान कार्ड की लिमिट खत्म होने पर क्या नहीं करवा सकते मुफ्त इलाज?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "व्हाट्सएप पर अनजान ग्रुप में जोड़ दिया गया? तुरंत बदलें ये सेटिंग, नहीं आएंगे बार-बार इनवाइट",
+      "url": "https://www.amarujala.com/photo-gallery/utility/added-to-an-unknown-whatsapp-group-change-this-privacy-setting-now-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:12:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/anajana-lga-ka-garapa-sa-parashana-ha_fed1d24a191feaf09d40f45224e7b697.jpeg?w=1200&dpr=1.0",
+      "summary": "अगर आपको व्हाट्सएप पर बार-बार अनजान लोगों के ग्रुप में जोड़ा जा रहा है तो इसकी प्राइवेसी सेटिंग बदल सकती हैं। ग्रुप की सेटिंग में जाकर यह तय किया जा सकता है कि कौन आपको सीधे ग्रुप में जोड़ सकता है और कौन आपको पहले निजी तौर पर आमंत्रण भेजेगा। व्हाट्सएप पर अनजान ग्रुप में जोड़ दिया गया? तुरंत बदलें ये सेटिंग, नहीं आएंगे बार-बार इनवाइट।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "व्हाट्सएप पर अनजान ग्रुप में जोड़ दिया गया? तुरंत बदलें ये सेटिंग, नहीं आएंगे बार-बार इनवाइट",
+          "summary": "अगर आपको व्हाट्सएप पर बार-बार अनजान लोगों के ग्रुप में जोड़ा जा रहा है तो इसकी प्राइवेसी सेटिंग बदल सकती हैं। ग्रुप की सेटिंग में जाकर यह तय किया जा सकता है कि कौन आपको सीधे ग्रुप में जोड़ सकता है और कौन आपको पहले निजी तौर पर आमंत्रण भेजेगा। व्हाट्सएप पर अनजान ग्रुप में जोड़ दिया गया? तुरंत बदलें ये सेटिंग, नहीं आएंगे बार-बार इनवाइट।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ख्वाजा आसिफ की बेहूदा हरकत,महिला पत्रकार को किया गंदा इशारा",
+      "url": "https://www.amarujala.com/video/india-news/khawaja-asif-s-crude-behavior-made-an-obscene-gesture-at-a-female-journalist-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:09:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/khawaja-asif_3b215233c1da0c10d848e4b34a5c9a09.jpeg?w=1200&dpr=1.0",
+      "summary": "पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ एक बार फिर से अपनी बेहूदा हरकत को लेकर सोशल मीडिया पर आलोचना का सामना कर रहे हैं। ख्वाजा आसिफ की बेहूदा हरकत, महिला पत्रकार को किया गंदा इशारा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ख्वाजा आसिफ की बेहूदा हरकत,महिला पत्रकार को किया गंदा इशारा",
+          "summary": "पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ एक बार फिर से अपनी बेहूदा हरकत को लेकर सोशल मीडिया पर आलोचना का सामना कर रहे हैं। ख्वाजा आसिफ की बेहूदा हरकत, महिला पत्रकार को किया गंदा इशारा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत को 39वां पदक, ईशा ने 25 मी. पिस्टल स्पर्धा में जीता रजत, पिंकी को कुराश में कांस्य",
+      "url": "https://www.amarujala.com/live/sports/asian-games-2026-live-updates-archers-in-action-manu-bhaker-medal-shooting-boxing-athletics-medal-updates-2026-09-28",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-28T07:08:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/asian-games-live-asian-games-2026-india-at-asian-games-india-medals-manu-bhaker-archery-shooti_c7d9f78adfb1b80c6130143faac1c2f5.jpeg?w=1200&dpr=1.0",
+      "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत 37 पदकों के साथ 12वें स्थान पर है। 28 सितंबर को तीरंदाजी और शूटिंग समेत कई खेलों में भारतीय खिलाड़ी चुनौती पेश करेंगे। भारत को 39वां पदक, ईशा ने 25 मी. पिस्टल स्पर्धा में जीता रजत, पिंकी को कुराश में कांस्य।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत को 39वां पदक, ईशा ने 25 मी. पिस्टल स्पर्धा में जीता रजत, पिंकी को कुराश में कांस्य",
+          "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत 37 पदकों के साथ 12वें स्थान पर है। 28 सितंबर को तीरंदाजी और शूटिंग समेत कई खेलों में भारतीय खिलाड़ी चुनौती पेश करेंगे। भारत को 39वां पदक, ईशा ने 25 मी. पिस्टल स्पर्धा में जीता रजत, पिंकी को कुराश में कांस्य।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बिना विलंब शुल्क आवेदन की अंतिम तारीख बढ़ी, अब इस दिन तक भरें फॉर्म; बाद में कितनी लगेगी फीस?",
+      "url": "https://www.amarujala.com/education/gate-2027-registration-deadline-extended-to-october-5-check-fees-documents-and-apply-process-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:05:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/27/gate-2027_0c5d4111d65b9d693243262515849027.jpeg?w=1200&dpr=1.0",
+      "summary": "GATE 2027 Registration: आईआईटी मद्रास ने गेट 2027 के लिए आवेदन की अंतिम तारीख बढ़ा दी है। अब उम्मीदवार 5 अक्तूबर 2026 तक बिना विलंब शुल्क के आवेदन कर सकते हैं। परीक्षा फरवरी 2027 में होगी। बिना विलंब शुल्क आवेदन की अंतिम तारीख बढ़ी, अब इस दिन तक भरें फॉर्म; बाद में कितनी लगेगी फीस?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बिना विलंब शुल्क आवेदन की अंतिम तारीख बढ़ी, अब इस दिन तक भरें फॉर्म; बाद में कितनी लगेगी फीस?",
+          "summary": "GATE 2027 Registration: आईआईटी मद्रास ने गेट 2027 के लिए आवेदन की अंतिम तारीख बढ़ा दी है। अब उम्मीदवार 5 अक्तूबर 2026 तक बिना विलंब शुल्क के आवेदन कर सकते हैं। परीक्षा फरवरी 2027 में होगी। बिना विलंब शुल्क आवेदन की अंतिम तारीख बढ़ी, अब इस दिन तक भरें फॉर्म; बाद में कितनी लगेगी फीस?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "PM मोदी ने बताया आंवला क्यों है इतना खास? रोज खाने से शरीर को मिलते हैं ये फायदे",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/pm-narendra-modi-explain-the-benefits-of-amla-in-mann-ki-baat-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T07:02:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/benefits-of-amla_3c9744ed095ed35a7d9ad19568f51fb7.jpeg?w=1200&dpr=1.0",
+      "summary": "Benefits Of Amla: 'मन की बात' के 138वें एपिसोड में प्रधानमंत्री नरेंद्र मोदी ने आंवले का जिक्र करते हुए उसके फायदे गिनाए। तो अगर आप भी इसे अपनी डाइट में शामिल करना चाहते हैं तो पहले जान लें इसके फायदे और सेवन का तरीका। PM मोदी ने बताया आंवला क्यों है इतना खास? रोज खाने से शरीर को मिलते हैं ये फायदे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM मोदी ने बताया आंवला क्यों है इतना खास? रोज खाने से शरीर को मिलते हैं ये फायदे",
+          "summary": "Benefits Of Amla: 'मन की बात' के 138वें एपिसोड में प्रधानमंत्री नरेंद्र मोदी ने आंवले का जिक्र करते हुए उसके फायदे गिनाए। तो अगर आप भी इसे अपनी डाइट में शामिल करना चाहते हैं तो पहले जान लें इसके फायदे और सेवन का तरीका। PM मोदी ने बताया आंवला क्यों है इतना खास? रोज खाने से शरीर को मिलते हैं ये फायदे।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'48 घंटे बाद तबाही होगी, देख लो आप', मुस्लिम देश ने नेतन्याहू को 2 बार चेताया, सुन लेते तो कुछ और",
+      "url": "https://hindi.news18.com/world/middle-east-muslim-country-egypt-shares-intel-twice-with-netanyahu-months-before-7-october-attack-10869861.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-28T06:52:53+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/israel-netanyahu-2026-09-e1b545a15317d754cedd5473f33864a9-1200x800.jpg",
+      "summary": "Who shares intel about Israel Attack to Netanyahu: इजरायल के सीने पर जो जख्म 2023 में दिया था, वो शायद न मिलता अगर बेंजामिन नेतन्याहू ने एक मुस्लिम देश पर यकीन किया होता. वॉल स्ट्रीट जर्नल की रिपोर्ट में कहा गया है कि इजरायल अगर इजिप्ट की बात सुन लेता, तो उसे ये दर्द झेलना नहीं पड़ता. '48 घंटे बाद तबाही होगी, देख लो आप', मुस्लिम देश ने नेतन्याहू को 2 बार चेताया, सुन लेते तो कुछ और।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'48 घंटे बाद तबाही होगी, देख लो आप', मुस्लिम देश ने नेतन्याहू को 2 बार चेताया, सुन लेते तो कुछ और",
+          "summary": "Who shares intel about Israel Attack to Netanyahu: इजरायल के सीने पर जो जख्म 2023 में दिया था, वो शायद न मिलता अगर बेंजामिन नेतन्याहू ने एक मुस्लिम देश पर यकीन किया होता. वॉल स्ट्रीट जर्नल की रिपोर्ट में कहा गया है कि इजरायल अगर इजिप्ट की बात सुन लेता, तो उसे ये दर्द झेलना नहीं पड़ता. '48 घंटे बाद तबाही होगी, देख लो आप', मुस्लिम देश ने नेतन्याहू को 2 बार चेताया, सुन लेते तो कुछ और।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "नेपाल में भारी बारिश का कहर: बाढ़-भूस्खलन से 21 लोगों की मौत, हजारों प्रभावित",
       "url": "https://www.amarujala.com/world/nepal-heavy-rains-floods-landslides-thousands-affected-casualties-hindi-news-updates-2026-09-28",
       "source": "Amar Ujala World",
@@ -326,9 +542,27 @@
       }
     },
     {
+      "title": "कुपवाड़ा के करनाह में बड़ा हादसा: खाई में गिरी सूमो, पांच लोगों की मौत, छह घायल",
+      "url": "https://www.amarujala.com/jammu-and-kashmir/srinagar/five-killed-several-injured-in-karnah-road-accident-2026-09-28",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-28T06:35:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/kapavaugdha-saugdhaka-hathasa_c3b0e689be2c43e691f10a8902b93d18.jpeg?w=1200&dpr=1.0",
+      "summary": "कुपवाड़ा के करनाह इलाके में टीटवाल-सिमरी मार्ग पर सोमवार को सूमो वाहन खाई में गिर गया हादसे में पांच लोगों की मौत हो गई और छह घायल हुए। कुपवाड़ा के करनाह में बड़ा हादसा: खाई में गिरी सूमो, पांच लोगों की मौत, छह घायल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कुपवाड़ा के करनाह में बड़ा हादसा: खाई में गिरी सूमो, पांच लोगों की मौत, छह घायल",
+          "summary": "कुपवाड़ा के करनाह इलाके में टीटवाल-सिमरी मार्ग पर सोमवार को सूमो वाहन खाई में गिर गया हादसे में पांच लोगों की मौत हो गई और छह घायल हुए। कुपवाड़ा के करनाह में बड़ा हादसा: खाई में गिरी सूमो, पांच लोगों की मौत, छह घायल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "'पहले मुझसे राइट्स लो, तब फिल्म बनाओ'; पाकिस्तानी जासूस पर बनी फिल्म पर सिंगर ने दिया ऐसा बयान?",
       "url": "https://www.amarujala.com/entertainment/adnan-sami-was-mocked-on-samay-raina-indias-got-latent-2-show-during-ayushmann-khurrana-udta-teer-promotions-2026-09-28",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-28T06:31:48+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/uugdhata-tara-athanana-sama_06b6febee25693a5b930031cd3df8469.jpeg?w=1200&dpr=1.0",
@@ -344,217 +578,37 @@
       }
     },
     {
-      "title": "रेडमी नोट 17 प्रो मैक्स vs नथिंग फोन 4ए: 50,000 रुपये में किसे खरीदना फायदे का सौदा, कौन है पैसा",
-      "url": "https://www.amarujala.com/technology/tech-diary/redmi-note-17-pro-max-vs-nothing-phone-4a-pro-comparison-price-features-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:29:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/redmi-note-17-pro-max-vs-nothing-phone-4a-pro_c275f1c52c64227de70663750bc175f6.jpeg",
-      "summary": "50 हजार के बजट में नया स्मार्टफोन लेना है? Redmi Note 17 Pro Max अपनी 10,000mAh बैटरी से गदर मचा रहा है, वहीं Nothing Phone 4a Pro प्रीमियम डिजाइन और धांसू कैमरे से ध्यान खींच रहा है। जानिए दोनों में कौन है आपके लिए बेस्ट। रेडमी नोट 17 प्रो मैक्स vs नथिंग फोन 4ए: 50,000 रुपये में किसे खरीदना फायदे का सौदा, कौन है पैसा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रेडमी नोट 17 प्रो मैक्स vs नथिंग फोन 4ए: 50,000 रुपये में किसे खरीदना फायदे का सौदा, कौन है पैसा",
-          "summary": "50 हजार के बजट में नया स्मार्टफोन लेना है? Redmi Note 17 Pro Max अपनी 10,000mAh बैटरी से गदर मचा रहा है, वहीं Nothing Phone 4a Pro प्रीमियम डिजाइन और धांसू कैमरे से ध्यान खींच रहा है। जानिए दोनों में कौन है आपके लिए बेस्ट। रेडमी नोट 17 प्रो मैक्स vs नथिंग फोन 4ए: 50,000 रुपये में किसे खरीदना फायदे का सौदा, कौन है पैसा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मुंह की साफ-सफाई को लेकर न करें लापरवाही, ये संकेत दिखें तो हो जाएं सतर्क",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/common-oral-health-problems-and-how-to-prevent-them-know-in-hindi-2026-09-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:29:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/13/is-teeth-cleaning-safe_4e8a1da61a73731d09f6f99a03c7bf3f.jpeg?w=1200&dpr=1.0",
-      "summary": "ओरल हेल्थ की समस्या किसी भी उम्र में हो सकती है। दांतों में सड़न, मसूड़ों की सूजन, बदबू और गर्म-ठंडा लगना इसके सामान्य संकेत हैं। दिन में दो बार ब्रश करना, खाने के बाद कुल्ला, पर्याप्त पानी पीना और डॉक्टर से जांच कराना जरूरी है। मुंह की साफ-सफाई को लेकर न करें लापरवाही, ये संकेत दिखें तो हो जाएं सतर्क।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुंह की साफ-सफाई को लेकर न करें लापरवाही, ये संकेत दिखें तो हो जाएं सतर्क",
-          "summary": "ओरल हेल्थ की समस्या किसी भी उम्र में हो सकती है। दांतों में सड़न, मसूड़ों की सूजन, बदबू और गर्म-ठंडा लगना इसके सामान्य संकेत हैं। दिन में दो बार ब्रश करना, खाने के बाद कुल्ला, पर्याप्त पानी पीना और डॉक्टर से जांच कराना जरूरी है। मुंह की साफ-सफाई को लेकर न करें लापरवाही, ये संकेत दिखें तो हो जाएं सतर्क।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अक्तूबर की शुरुआत में इन 3 राशि वालों को होगा लाभ, मनचाही नौकरी और विवाह के बनेंगे योग",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/jupiter-nakshatra-transit-in-october-2026-these-zodiac-will-get-more-benefits-and-success-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:25:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/29/guru-gochar-2026-in-kark-rashi_153562a13c1ea439cbc370e89d532600.jpeg?w=1200&dpr=1.0",
-      "summary": "Guru Nakshatra Gochar 2026: गुरु का नक्षत्र परिवर्तन कुछ राशि वालों के लिए लाभकारी रहेगा। जातकों को कारोबार में मनचाही सफलता मिलने के साथ आर्थिक लाभ के अवसर प्राप्त हो सकते हैं। अक्तूबर की शुरुआत में इन 3 राशि वालों को होगा लाभ, मनचाही नौकरी और विवाह के बनेंगे योग।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अक्तूबर की शुरुआत में इन 3 राशि वालों को होगा लाभ, मनचाही नौकरी और विवाह के बनेंगे योग",
-          "summary": "Guru Nakshatra Gochar 2026: गुरु का नक्षत्र परिवर्तन कुछ राशि वालों के लिए लाभकारी रहेगा। जातकों को कारोबार में मनचाही सफलता मिलने के साथ आर्थिक लाभ के अवसर प्राप्त हो सकते हैं। अक्तूबर की शुरुआत में इन 3 राशि वालों को होगा लाभ, मनचाही नौकरी और विवाह के बनेंगे योग।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पति की मौत के बाद पत्नी को किन दस्तावेजों की जरूरत पड़ती है?",
-      "url": "https://www.amarujala.com/photo-gallery/utility/documents-a-wife-may-need-after-her-husband-s-death-keep-these-papers-safe-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:19:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/ya-kagaja-naha-mal-ta-bugdhha-sakata-ha-parashana_8817d9a66bd46fcf1ed674fbe7977b59.jpeg?w=1200&dpr=1.0",
-      "summary": "पति के निधन के बाद परिवार को कई जरूरी काम करने पड़ते हैं, जैसे बैंक अकाउंट, बीमा, पेंशन, पीएफ और दूसरी वित्तीय चीजों से जुड़े दावे। ऐसे समय में अगर जरूरी दस्तावेज पहले से संभालकर रखे हों तो पत्नी के लिए कागजी कार्रवाई काफी आसान हो सकती है। पति की मौत के बाद पत्नी को किन दस्तावेजों की जरूरत पड़ती है?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पति की मौत के बाद पत्नी को किन दस्तावेजों की जरूरत पड़ती है?",
-          "summary": "पति के निधन के बाद परिवार को कई जरूरी काम करने पड़ते हैं, जैसे बैंक अकाउंट, बीमा, पेंशन, पीएफ और दूसरी वित्तीय चीजों से जुड़े दावे। ऐसे समय में अगर जरूरी दस्तावेज पहले से संभालकर रखे हों तो पत्नी के लिए कागजी कार्रवाई काफी आसान हो सकती है। पति की मौत के बाद पत्नी को किन दस्तावेजों की जरूरत पड़ती है?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत को 39वां पदक, ईशा ने 25 मी. पिस्टल स्पर्धा में जीता रजत, पिंकी को कुराश में कांस्य",
-      "url": "https://www.amarujala.com/live/sports/asian-games-2026-live-updates-archers-in-action-manu-bhaker-medal-shooting-boxing-athletics-medal-updates-2026-09-28",
+      "title": "दिल्ली से एनसीआर तक बदला मौसम, कई इलाकों में बारिश तो कहीं छाए बादल; गिरा पारा",
+      "url": "https://www.amarujala.com/delhi-ncr/weather-update-rain-continues-in-delhi-ghaziabad-clouds-cover-sky-over-noida-2026-09-28",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-28T06:11:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/27/iisha-saha_52ebf37575f59bd704ff8dbf738a5fd3.jpeg?w=1200&dpr=1.0",
-      "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत 37 पदकों के साथ 12वें स्थान पर है। 28 सितंबर को तीरंदाजी और शूटिंग समेत कई खेलों में भारतीय खिलाड़ी चुनौती पेश करेंगे। भारत को 39वां पदक, ईशा ने 25 मी. पिस्टल स्पर्धा में जीता रजत, पिंकी को कुराश में कांस्य।",
+      "published_at": "2026-09-28T06:04:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/thall-enasaaara-ma-brasha_8841052213b4cb5c356004e43795a8cd.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली समेत एनसीआर के कई इलाकों में बारिश से ठंड बढ़ी। दिल्ली से एनसीआर तक बदला मौसम, कई इलाकों में बारिश तो कहीं छाए बादल; गिरा पारा।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत को 39वां पदक, ईशा ने 25 मी. पिस्टल स्पर्धा में जीता रजत, पिंकी को कुराश में कांस्य",
-          "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत 37 पदकों के साथ 12वें स्थान पर है। 28 सितंबर को तीरंदाजी और शूटिंग समेत कई खेलों में भारतीय खिलाड़ी चुनौती पेश करेंगे। भारत को 39वां पदक, ईशा ने 25 मी. पिस्टल स्पर्धा में जीता रजत, पिंकी को कुराश में कांस्य।",
+          "title": "दिल्ली से एनसीआर तक बदला मौसम, कई इलाकों में बारिश तो कहीं छाए बादल; गिरा पारा",
+          "summary": "दिल्ली समेत एनसीआर के कई इलाकों में बारिश से ठंड बढ़ी। दिल्ली से एनसीआर तक बदला मौसम, कई इलाकों में बारिश तो कहीं छाए बादल; गिरा पारा।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "कौन हैं तान्या मिश्रा और कैसे बनीं नेशनल क्रश? जैकी श्रॉफ के साथ कर चुकीं हैं काम",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/who-is-tanyaa-mishra-gains-spotlight-as-india-s-new-national-crush-2026-09-28",
-      "source": "Amar Ujala National",
+      "title": "बारिश के बीच मकान ढहने से तीन की जान गई, करंट से महिला की माैत, मुरादाबाद मंडल में गिरे दस मकान",
+      "url": "https://www.amarujala.com/uttar-pradesh/moradabad/three-killed-house-collapse-amidst-rain-woman-dies-of-electrocution-ten-houses-collapsed-in-moradabad-2026-09-28",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-28T06:10:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/tanaya-mashara_e3806cc539a79d3c7f0b2d8ff2919b95.jpeg?w=1200&dpr=1.0",
-      "summary": "सोशल मीडिया पर इन दिनों तान्या मिश्रा चर्चा में बनी हुई हैं। दरअसल, फैंस ने उन्हें नेशनल क्रश का टैग दे दिया है। ऐसे में अब बहुत से लोग यह जानना चाहते हैं कि आखिर तान्या है कौन? आइए उनके बारे में जानते हैं। कौन हैं तान्या मिश्रा और कैसे बनीं नेशनल क्रश? जैकी श्रॉफ के साथ कर चुकीं हैं काम।",
+      "published_at": "2026-09-28T06:03:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/moradabad-rain_a2fd129f9e75a529a2f722b649d5c5ae.jpeg?w=1200&dpr=1.0",
+      "summary": "मुरादाबाद मंडल के रामपुर, अमरोहा, संभल और मुरादाबाद जिलों में रविवार को भी बारिश और तेज हवा ने जनजीवन प्रभावित किया। रामपुर में दो मकान गिरने से दो लोगों की जान चली गई, जबकि बारिश का पानी बाहर खींचते समय करंट से एक महिला की माैत हो गई। बारिश के बीच मकान ढहने से तीन की जान गई, करंट से महिला की माैत, मुरादाबाद मंडल में गिरे दस मकान।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कौन हैं तान्या मिश्रा और कैसे बनीं नेशनल क्रश? जैकी श्रॉफ के साथ कर चुकीं हैं काम",
-          "summary": "सोशल मीडिया पर इन दिनों तान्या मिश्रा चर्चा में बनी हुई हैं। दरअसल, फैंस ने उन्हें नेशनल क्रश का टैग दे दिया है। ऐसे में अब बहुत से लोग यह जानना चाहते हैं कि आखिर तान्या है कौन? आइए उनके बारे में जानते हैं। कौन हैं तान्या मिश्रा और कैसे बनीं नेशनल क्रश? जैकी श्रॉफ के साथ कर चुकीं हैं काम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शारदीय नवरात्रि, दशहरा से करवा चौथ तक, यहां देखें व्रत-त्योहारों की पूरी लिस्ट",
-      "url": "https://www.amarujala.com/spirituality/festivals/october-festival-calendar-2026-in-hindi-know-october-ke-vrat-tyohar-list-2026-09-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:07:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/akatabra-maha-ka-varata-tayahara_a5da7714b863e4942732ae7774426158.jpeg?w=1200&dpr=1.0",
-      "summary": "October Festival Calendar 2026: अक्तूबर में नवरात्रि, शरद पूर्णिमा और करवा चौथ जैसे महत्वपूर्ण त्योहार मनाए जाएंगे। इस दौरान कई अन्य व्रत और पर्व भी पड़ेंगे, जिनका हिंदू धर्म में विशेष महत्व माना जाता है। शारदीय नवरात्रि, दशहरा से करवा चौथ तक, यहां देखें व्रत-त्योहारों की पूरी लिस्ट।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शारदीय नवरात्रि, दशहरा से करवा चौथ तक, यहां देखें व्रत-त्योहारों की पूरी लिस्ट",
-          "summary": "October Festival Calendar 2026: अक्तूबर में नवरात्रि, शरद पूर्णिमा और करवा चौथ जैसे महत्वपूर्ण त्योहार मनाए जाएंगे। इस दौरान कई अन्य व्रत और पर्व भी पड़ेंगे, जिनका हिंदू धर्म में विशेष महत्व माना जाता है। शारदीय नवरात्रि, दशहरा से करवा चौथ तक, यहां देखें व्रत-त्योहारों की पूरी लिस्ट।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "3 या 4 अक्तूबर कब रखा जाएगा जितिया व्रत? जानें सही डेट और पूजा के खास मुहूर्त",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/kab-hai-jitiya-vrat-2026-date-shubh-muhurat-and-vrat-paran-time-in-hindi-2026-09-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:07:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/27/jataya-2026-kab-ha_ec17b48ac2e23f93bd4d0b6bafc42026.jpeg?w=1200&dpr=1.0",
-      "summary": "Jitiya Vrat 2026: जितिया व्रत के दिन महिलाएं निर्जला उपवास रखती हैं। इसके प्रभाव से संतान की लंबी उम्र और तरक्की का आशीर्वाद प्राप्त होता है। इस तिथि पर मुख्य रूप से जीमूतवाहन की कथा सुनने का विशेष महत्व होता है। 3 या 4 अक्तूबर कब रखा जाएगा जितिया व्रत? जानें सही डेट और पूजा के खास मुहूर्त।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "3 या 4 अक्तूबर कब रखा जाएगा जितिया व्रत? जानें सही डेट और पूजा के खास मुहूर्त",
-          "summary": "Jitiya Vrat 2026: जितिया व्रत के दिन महिलाएं निर्जला उपवास रखती हैं। इसके प्रभाव से संतान की लंबी उम्र और तरक्की का आशीर्वाद प्राप्त होता है। इस तिथि पर मुख्य रूप से जीमूतवाहन की कथा सुनने का विशेष महत्व होता है। 3 या 4 अक्तूबर कब रखा जाएगा जितिया व्रत? जानें सही डेट और पूजा के खास मुहूर्त।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बिस्तर पर जाने के बाद भी नहीं आती नींद? आज रात ट्राई करें ये तरीका",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/10-minute-breathing-exercise-that-may-help-you-relax-and-sleep-better-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:06:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/yoga-for-sleep_a4b429043e814657611e9a07275088ac.jpeg?w=1200&dpr=1.0",
-      "summary": "Breathing Exercise: ब्रीदिंग एक्सरसाइज का मकसद सांसों की गति पर ध्यान केंद्रित करके मन को वर्तमान क्षण में लाना और तनाव कम करने में सहायता करना है। बिस्तर पर जाने के बाद भी नहीं आती नींद? आज रात ट्राई करें ये तरीका।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बिस्तर पर जाने के बाद भी नहीं आती नींद? आज रात ट्राई करें ये तरीका",
-          "summary": "Breathing Exercise: ब्रीदिंग एक्सरसाइज का मकसद सांसों की गति पर ध्यान केंद्रित करके मन को वर्तमान क्षण में लाना और तनाव कम करने में सहायता करना है। बिस्तर पर जाने के बाद भी नहीं आती नींद? आज रात ट्राई करें ये तरीका।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कांग्रेस का केंद्र सरकार पर हमला: ‘मन की बात में महंगाई पर कब होगी चर्चा?' प्रधानमंत्री मोदी से",
-      "url": "https://www.amarujala.com/india-news/congress-asks-pm-modi-when-will-inflation-be-discussed-in-mann-ki-baat-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:03:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/jayarama-ramasha-kagarasa-nata_4fd05224d8fb0c52c77e8dd95d42991f.jpeg?w=1200&dpr=1.0",
-      "summary": "कांग्रेस का केंद्र सरकार पर हमला: प्रधानमंत्री मोदी से पूछा सवाल, ‘मन की बात में महंगाई पर कब होगी चर्चा?' Congress Asks PM Modi, ‘When Will Inflation Be Discussed in Mann Ki Baat?’ कांग्रेस का केंद्र सरकार पर हमला: ‘मन की बात में महंगाई पर कब होगी चर्चा?' प्रधानमंत्री मोदी से।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कांग्रेस का केंद्र सरकार पर हमला: ‘मन की बात में महंगाई पर कब होगी चर्चा?' प्रधानमंत्री मोदी से",
-          "summary": "कांग्रेस का केंद्र सरकार पर हमला: प्रधानमंत्री मोदी से पूछा सवाल, ‘मन की बात में महंगाई पर कब होगी चर्चा?' Congress Asks PM Modi, ‘When Will Inflation Be Discussed in Mann Ki Baat?’ कांग्रेस का केंद्र सरकार पर हमला: ‘मन की बात में महंगाई पर कब होगी चर्चा?' प्रधानमंत्री मोदी से।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हिमालय की ऊंचाइयों तक पहुंचा प्रदूषण, उत्तराखंड से एवरेस्ट तक प्रदूषण के मिले गंभीर संकेत",
-      "url": "https://www.amarujala.com/columns/blog/pollution-reaches-the-heights-of-the-himalayas-serious-signs-of-pollution-detected-from-uttarakhand-to-everest-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:01:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/hamalya-ka-uucaiya-taka-pahaca-parathashhanae-paratakatamaka-tasavara_e7e976788c8ad3bf2dfa1bbae8e957fa.jpeg?w=1200&dpr=1.0",
-      "summary": "अधिक चौंकाने वाले प्रमाण नेपाल के एवरेस्ट क्षेत्र से मिले हैं। शोधकर्ताओं को खुंबू घाटी में 2,860 से 5,364 मीटर तक किए गए माप में आठ घंटे की ओजोन सांद्रता कुछ अवसरों पर 100 पीपीबी से ऊपर मिली। हिमालय की ऊंचाइयों तक पहुंचा प्रदूषण, उत्तराखंड से एवरेस्ट तक प्रदूषण के मिले गंभीर संकेत।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिमालय की ऊंचाइयों तक पहुंचा प्रदूषण, उत्तराखंड से एवरेस्ट तक प्रदूषण के मिले गंभीर संकेत",
-          "summary": "अधिक चौंकाने वाले प्रमाण नेपाल के एवरेस्ट क्षेत्र से मिले हैं। शोधकर्ताओं को खुंबू घाटी में 2,860 से 5,364 मीटर तक किए गए माप में आठ घंटे की ओजोन सांद्रता कुछ अवसरों पर 100 पीपीबी से ऊपर मिली। हिमालय की ऊंचाइयों तक पहुंचा प्रदूषण, उत्तराखंड से एवरेस्ट तक प्रदूषण के मिले गंभीर संकेत।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "दिल की बीमारी का खतरा बढ़ा सकती हैं ये आदतें, डॉक्टर ने बताया बचाव का तरीका",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/world-heart-day-2026-habits-which-makes-your-heart-healthy-in-hindi-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T06:00:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/world-heart-day-2026_b75bdf71947227346125fb9b81e5bc4a.jpeg?w=1200&dpr=1.0",
-      "summary": "How To Keep Your Heart Healthy: हर साल 29 सितंबर को विश्व हृदय दिवस मनाया जाता है। ऐसे में हम आपको बताएंगे कुछ ऐसी आदतों के बारे में जिनको अपनाकर आप हृदय को हेल्दी बना सकते हैं। दिल की बीमारी का खतरा बढ़ा सकती हैं ये आदतें, डॉक्टर ने बताया बचाव का तरीका।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल की बीमारी का खतरा बढ़ा सकती हैं ये आदतें, डॉक्टर ने बताया बचाव का तरीका",
-          "summary": "How To Keep Your Heart Healthy: हर साल 29 सितंबर को विश्व हृदय दिवस मनाया जाता है। ऐसे में हम आपको बताएंगे कुछ ऐसी आदतों के बारे में जिनको अपनाकर आप हृदय को हेल्दी बना सकते हैं। दिल की बीमारी का खतरा बढ़ा सकती हैं ये आदतें, डॉक्टर ने बताया बचाव का तरीका।",
+          "title": "बारिश के बीच मकान ढहने से तीन की जान गई, करंट से महिला की माैत, मुरादाबाद मंडल में गिरे दस मकान",
+          "summary": "मुरादाबाद मंडल के रामपुर, अमरोहा, संभल और मुरादाबाद जिलों में रविवार को भी बारिश और तेज हवा ने जनजीवन प्रभावित किया। रामपुर में दो मकान गिरने से दो लोगों की जान चली गई, जबकि बारिश का पानी बाहर खींचते समय करंट से एक महिला की माैत हो गई। बारिश के बीच मकान ढहने से तीन की जान गई, करंट से महिला की माैत, मुरादाबाद मंडल में गिरे दस मकान।",
           "region": "दुनिया"
         }
       }
@@ -596,24 +650,6 @@
       }
     },
     {
-      "title": "बाजार में बिकवाली हावी, सेंसेक्स 1000 अंक टूटा, निफ्टी 23000 के नीचे; निवेशक क्यों सहमे",
-      "url": "https://www.amarujala.com/business/business-diary/opening-bell-sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-09-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-28T05:22:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0",
-      "summary": "द बोनस मार्केट अपडेट: शेयर बाजार में भूचाल, सेंसेक्स 700 अंक तक टूटा, निफ्टी 23000 के नीचे; वीआईएक्स 6% चढ़ा। शेयर बाजार फिसला, सेंसेक्स 700 अंक तक टूटा, निफ्टी 23000 के नीचे; निवेशक क्यों सहमे? द बोनस मार्केट अपडेट: शेयर बाजार में भूचाल, सेंसेक्स 1000 अंक तक टूटा, निफ्टी 23000 के नीचे; वीआईएक्स 6% चढ़ा। बाजार में बिकवाली हावी, सेंसेक्स 1000 अंक टूटा, निफ्टी 23000 के नीचे; निवेशक क्यों सहमे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बाजार में बिकवाली हावी, सेंसेक्स 1000 अंक टूटा, निफ्टी 23000 के नीचे; निवेशक क्यों सहमे",
-          "summary": "द बोनस मार्केट अपडेट: शेयर बाजार में भूचाल, सेंसेक्स 700 अंक तक टूटा, निफ्टी 23000 के नीचे; वीआईएक्स 6% चढ़ा। शेयर बाजार फिसला, सेंसेक्स 700 अंक तक टूटा, निफ्टी 23000 के नीचे; निवेशक क्यों सहमे? द बोनस मार्केट अपडेट: शेयर बाजार में भूचाल, सेंसेक्स 1000 अंक तक टूटा, निफ्टी 23000 के नीचे; वीआईएक्स 6% चढ़ा। बाजार में बिकवाली हावी, सेंसेक्स 1000 अंक टूटा, निफ्टी 23000 के नीचे; निवेशक क्यों सहमे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "भारतीय दवा कंपनियों को अमेरिका से बड़ी राहत: चुनिंदा दवाओं पर नहीं लगेगा टैरिफ, जानिए क्यों अहम है",
       "url": "https://www.amarujala.com/world/big-relief-for-indian-pharma-companies-from-the-us-no-tariff-on-select-drugs-know-why-this-decision-matters-2026-09-28",
       "source": "Amar Ujala Breaking",
@@ -645,42 +681,6 @@
         "hi": {
           "title": "'बाहरी लोगों ने भड़काई हिंसा, चाकू लेकर लड़कियों के हॉस्टल में घुसे'; छात्राएं बोलीं-बचा लो..",
           "summary": "पंजाब के फगवाड़ा स्थित लवली प्रोफेशनल यूनिवर्सिटी (LPU) ने छात्रों के हिंसक विरोध के बाद 28 सितंबर से 10 दिनों के लिए रेगुलर क्लास सस्पेंड कर दी हैं और मिड-टर्म परीक्षाएं टाल दी हैं, जिसके बाद छात्र घर लौट रहे हैं। 'बाहरी लोगों ने भड़काई हिंसा, चाकू लेकर लड़कियों के हॉस्टल में घुसे'; छात्राएं बोलीं-बचा लो.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी बोले- युवाओं के लिए प्रेरणापुंज; कई नेताओं ने किया शहीद-ए-आजम को नमन",
-      "url": "https://www.amarujala.com/india-news/bhagat-singh-jayanti-pm-modi-om-birla-rahul-gandhi-and-other-leaders-pay-tribute-to-shaheed-e-azam-2026-09-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-28T05:11:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/bhagat-singh_d8e71eee02b7df89764c69f9318dfd79.jpeg?w=1200&dpr=1.0",
-      "summary": "भगत सिंह जयंती: पीएम मोदी बोले- युवाओं के लिए प्रेरणापुंज; कई नेताओं ने किया शहीद-ए-आजम को नमन bhagat-singh-jayanti-pm-modi-om-birla-rahul-gandhi-and-other-leaders-pay-tribute-to-shaheed-e-azam।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी बोले- युवाओं के लिए प्रेरणापुंज; कई नेताओं ने किया शहीद-ए-आजम को नमन",
-          "summary": "भगत सिंह जयंती: पीएम मोदी बोले- युवाओं के लिए प्रेरणापुंज; कई नेताओं ने किया शहीद-ए-आजम को नमन bhagat-singh-jayanti-pm-modi-om-birla-rahul-gandhi-and-other-leaders-pay-tribute-to-shaheed-e-azam।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आईबीए के आश्वासन पर यूएफबीयू ने हड़ताल वापस लिया, हफ्ते में पांच दिन काम पर क्या हुआ फैसला?",
-      "url": "https://www.amarujala.com/business/business-diary/bank-strike-called-off-banking-operations-normal-from-monday-after-iba-assurance-2026-09-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-28T04:58:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/bank-strike_7813ec520b5bc90237e8eda2255108d8.jpeg?w=1200&dpr=1.0",
-      "summary": "बैंक यूनियनों ने अपनी तीन दिवसीय हड़ताल आईबीए के आश्वासन के बाद वापस ले ली है। अब सोमवार से बैंकों में सामान्य कामकाज होगा। पांच दिवसीय कार्य सप्ताह और सभी शनिवार को अवकाश की मांगों पर एक उच्च-स्तरीय समिति बनेगी। आईबीए के आश्वासन पर यूएफबीयू ने हड़ताल वापस लिया, हफ्ते में पांच दिन काम पर क्या हुआ फैसला?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आईबीए के आश्वासन पर यूएफबीयू ने हड़ताल वापस लिया, हफ्ते में पांच दिन काम पर क्या हुआ फैसला?",
-          "summary": "बैंक यूनियनों ने अपनी तीन दिवसीय हड़ताल आईबीए के आश्वासन के बाद वापस ले ली है। अब सोमवार से बैंकों में सामान्य कामकाज होगा। पांच दिवसीय कार्य सप्ताह और सभी शनिवार को अवकाश की मांगों पर एक उच्च-स्तरीय समिति बनेगी। आईबीए के आश्वासन पर यूएफबीयू ने हड़ताल वापस लिया, हफ्ते में पांच दिन काम पर क्या हुआ फैसला?",
           "region": "दुनिया"
         }
       }
@@ -722,19 +722,19 @@
       }
     },
     {
-      "title": "बिना टॉस के सेमीफाइनल में पहुंचे भारत और पाकिस्तान, अंतिम-चार में अब किससे होगा सामना? यहां जानें",
-      "url": "https://www.amarujala.com/cricket/ind-vs-afg-quarterfinal-abandoned-without-toss-india-enter-asian-games-semifinals-2026-09-28",
+      "title": "ऑस्ट्रेलियाई सीनेट ने सैम ऑल्टमैन और डारियो अमोदेई को किया तलब, 1 अक्तूबर को होगी सुनवाई",
+      "url": "https://www.amarujala.com/technology/tech-diary/australia-summons-openai-sam-altman-anthropic-dario-amodei-over-ai-bot-medicare-data-hack-2026-09-28",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-28T04:35:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/ind-vs-afg-india-vs-afghanistan-asian-games-2026-india-semifinal-afghanistan-cricket-asian-gam_f3864833929a77eec7fc6f8d8707067d.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत और अफगानिस्तान के बीच एशियन गेम्स 2026 का क्वार्टर फाइनल बारिश के कारण बिना टॉस रद्द हो गया। बेहतर आईसीसी टी20 रैंकिंग के आधार पर भारत सेमीफाइनल में पहुंच गया। अब उसका सामना बांग्लादेश और मलयेशिया के क्वार्टर फाइनल के विजेता से होगा। बिना टॉस के सेमीफाइनल में पहुंचे भारत और पाकिस्तान, अंतिम-चार में अब किससे होगा सामना? यहां जानें।",
+      "published_at": "2026-09-28T04:42:16+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/dario-amodei-sam-altman_86c440360730fc8053959b535e0685a4.jpeg",
+      "summary": "दिग्गज टेक कंपनियों ओपनएआई और एंथ्रोपिक के सीईओ को ऑस्ट्रेलियाई सीनेट ने पूछताछ के लिए तलब किया है। हाल ही में एक बेलगाम एआई बॉट ने ऑस्ट्रेलिया के मेडिकल डेटाबेस में सेंध लगाई थी। इस बड़ी सुरक्षा चूक के बाद सरकार सख्त नियम लाने की तैयारी में है। ऑस्ट्रेलियाई सीनेट ने सैम ऑल्टमैन और डारियो अमोदेई को किया तलब, 1 अक्तूबर को होगी सुनवाई।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बिना टॉस के सेमीफाइनल में पहुंचे भारत और पाकिस्तान, अंतिम-चार में अब किससे होगा सामना? यहां जानें",
-          "summary": "भारत और अफगानिस्तान के बीच एशियन गेम्स 2026 का क्वार्टर फाइनल बारिश के कारण बिना टॉस रद्द हो गया। बेहतर आईसीसी टी20 रैंकिंग के आधार पर भारत सेमीफाइनल में पहुंच गया। अब उसका सामना बांग्लादेश और मलयेशिया के क्वार्टर फाइनल के विजेता से होगा। बिना टॉस के सेमीफाइनल में पहुंचे भारत और पाकिस्तान, अंतिम-चार में अब किससे होगा सामना? यहां जानें।",
+          "title": "ऑस्ट्रेलियाई सीनेट ने सैम ऑल्टमैन और डारियो अमोदेई को किया तलब, 1 अक्तूबर को होगी सुनवाई",
+          "summary": "दिग्गज टेक कंपनियों ओपनएआई और एंथ्रोपिक के सीईओ को ऑस्ट्रेलियाई सीनेट ने पूछताछ के लिए तलब किया है। हाल ही में एक बेलगाम एआई बॉट ने ऑस्ट्रेलिया के मेडिकल डेटाबेस में सेंध लगाई थी। इस बड़ी सुरक्षा चूक के बाद सरकार सख्त नियम लाने की तैयारी में है। ऑस्ट्रेलियाई सीनेट ने सैम ऑल्टमैन और डारियो अमोदेई को किया तलब, 1 अक्तूबर को होगी सुनवाई।",
           "region": "एशिया-प्रशांत"
         }
       }
