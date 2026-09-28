@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-28T03:21:06.145824+00:00",
+  "generated_at": "2026-09-28T04:18:54.246968+00:00",
   "article_count": 50,
-  "total_unique_count": 263,
+  "total_unique_count": 266,
   "digest": {
     "en": "Asia-Pacific leads the board this hour with Trump asked China’s President if he wants to buy U.S. arms, Ambassador says. World carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, नेपाल में भारी बारिश का कहर: बाढ़-भूस्खलन से 21 लोगों की मौत, हजारों प्रभावित मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, नेपाल में भारी बारिश का कहर: बाढ़-भूस्खलन से 21 लोगों की मौत, हजारों प्रभावित मुख्य खबर है। साथ ही दुनिया से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
     {
@@ -157,7 +157,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-09-26T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-10-2022_Unsplash_cybersecurity.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-10-2022_Unsplash_cybersecurity.jpg/image560x340cropped.jpg",
       "summary": "Countries adopted on Saturday a new global blueprint for tackling rapidly evolving forms of crime on Saturday, as the UN’s largest gathering on crime prevention and criminal justice opened in Abu Dhabi with a call for stronger international cooperation. Countries adopt global blueprint to tackle fast-evolving crime in digital age. Countries adopted on Saturday a new global blueprint for tackling rapidly evolving forms of crime, as the UN’s largest gathering on crime prevention and criminal justice opened in Abu Dhabi with a call for stronger international cooperation.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -326,20 +326,326 @@
       }
     },
     {
-      "title": "25 मीटर एयर पिस्टल में मनु भाकर से उम्मीदें, क्रिकेट में पाकिस्तान-हॉन्गकॉन्ग मैच रद्द",
+      "title": "भोजपुरी अभिनेत्री की नई फिल्म 'रानी भौजी' का एलान; सीधे ओटीटी पर होगी रिलीज, जानिए कहां?",
+      "url": "https://www.amarujala.com/entertainment/bhojpuri/bhojpuri-actress-rani-chatterjee-new-movie-rani-bhauji-announced-directed-by-dil-awez-khan-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T04:16:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/rana-cataraja-ka-naii-falma-ka-elna_b437e11bf1a35f18d398bc1914889d04.jpeg?w=1200&dpr=1.0",
+      "summary": "Rani Chatterjee New Movie: भोजपुरी अभिनेत्री रानी चटर्जी की नई फिल्म का एलान हो गया है। यह फिल्म डिजिटल प्लेटफॉर्म पर दस्तक देगी। भोजपुरी अभिनेत्री की नई फिल्म 'रानी भौजी' का एलान; सीधे ओटीटी पर होगी रिलीज, जानिए कहां?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भोजपुरी अभिनेत्री की नई फिल्म 'रानी भौजी' का एलान; सीधे ओटीटी पर होगी रिलीज, जानिए कहां?",
+          "summary": "Rani Chatterjee New Movie: भोजपुरी अभिनेत्री रानी चटर्जी की नई फिल्म का एलान हो गया है। यह फिल्म डिजिटल प्लेटफॉर्म पर दस्तक देगी। भोजपुरी अभिनेत्री की नई फिल्म 'रानी भौजी' का एलान; सीधे ओटीटी पर होगी रिलीज, जानिए कहां?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सुरक्षा घेरा तोड़ इंटरनेट से हुआ कनेक्ट, प्राइवेट फोटोज कीं लीक, कंपनी ने रोकी ट्रेनिंग",
+      "url": "https://www.amarujala.com/technology/tech-diary/openai-halts-ai-model-training-security-breach-sam-altman-summoned-australia-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T04:15:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/06/openai_d247cbfde05a15efc35751f76d921326.jpeg",
+      "summary": "ओपनएआई ने सुरक्षा से जुड़ी गंभीर घटनाओं के बाद अपने एडवांस एआई मॉडल्स की ट्रेनिंग रोक दी है। जांच में एक मॉडल सुरक्षा पाबंदियों को पार कर इंटरनेट से जुड़ गया। वहीं, एआई एजेंट्स के अनधिकृत गतिविधियों में शामिल होने से कंपनी पर सवाल उठ रहे हैं। सुरक्षा घेरा तोड़ इंटरनेट से हुआ कनेक्ट, प्राइवेट फोटोज कीं लीक, कंपनी ने रोकी ट्रेनिंग।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुरक्षा घेरा तोड़ इंटरनेट से हुआ कनेक्ट, प्राइवेट फोटोज कीं लीक, कंपनी ने रोकी ट्रेनिंग",
+          "summary": "ओपनएआई ने सुरक्षा से जुड़ी गंभीर घटनाओं के बाद अपने एडवांस एआई मॉडल्स की ट्रेनिंग रोक दी है। जांच में एक मॉडल सुरक्षा पाबंदियों को पार कर इंटरनेट से जुड़ गया। वहीं, एआई एजेंट्स के अनधिकृत गतिविधियों में शामिल होने से कंपनी पर सवाल उठ रहे हैं। सुरक्षा घेरा तोड़ इंटरनेट से हुआ कनेक्ट, प्राइवेट फोटोज कीं लीक, कंपनी ने रोकी ट्रेनिंग।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भगत सिंह के ये विचार आज भी क्यों हैं खास? जयंती पर पढ़ें शहीद-ए-आजम के चर्चित कथन",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/shaheed-bhagat-singh-jayanti-2026-slogans-of-freedom-fighter-bhagat-singh-in-hindi-2026-09-27",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T04:14:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/27/bhagat-singh-jayanti-2026_90707c675d09b3dcc5e09cf57731e03e.jpeg?w=1200&dpr=1.0",
+      "summary": "Bhagat Singh Jayanti 2026: 28 सितंबर को शहीद-ए-आजम भगत सिंह की जयंती मनाई जाती है। ऐसे में आइए इस अवसर पर उनके विचारों और देशभक्ति से जुड़े प्रसिद्ध नारों को याद कर उन्हें श्रद्धांजलि अर्पित करते हैं। भगत सिंह के ये विचार आज भी क्यों हैं खास? जयंती पर पढ़ें शहीद-ए-आजम के चर्चित कथन।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भगत सिंह के ये विचार आज भी क्यों हैं खास? जयंती पर पढ़ें शहीद-ए-आजम के चर्चित कथन",
+          "summary": "Bhagat Singh Jayanti 2026: 28 सितंबर को शहीद-ए-आजम भगत सिंह की जयंती मनाई जाती है। ऐसे में आइए इस अवसर पर उनके विचारों और देशभक्ति से जुड़े प्रसिद्ध नारों को याद कर उन्हें श्रद्धांजलि अर्पित करते हैं। भगत सिंह के ये विचार आज भी क्यों हैं खास? जयंती पर पढ़ें शहीद-ए-आजम के चर्चित कथन।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शमशाबाद में कैब चालक पर लगा छेड़छाड़ का आरोप, महिला ने दर्ज कराई प्राथमिकी; पुलिस जांच में जुटी",
+      "url": "https://www.amarujala.com/india-news/hyderabad-shamshabad-cab-driver-alleged-woman-harassment-attempt-to-rob-rs-60000-near-tondupalli-toll-plaza-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T04:11:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/harassment_51410399bdeab525fab76c97d30339d0.jpeg?w=1200&dpr=1.0",
+      "summary": "तेलंगाना: शमशाबाद में कैब चालक पर लगा छेड़छाड़ का आरोप, महिला ने दर्ज कराई प्राथमिकी; पुलिस जांच में जुटी hyderabad-shamshabad-cab-driver-alleged-woman-harassment-attempt-to-rob-rs-60000-near-tondupalli-toll-plaza।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शमशाबाद में कैब चालक पर लगा छेड़छाड़ का आरोप, महिला ने दर्ज कराई प्राथमिकी; पुलिस जांच में जुटी",
+          "summary": "तेलंगाना: शमशाबाद में कैब चालक पर लगा छेड़छाड़ का आरोप, महिला ने दर्ज कराई प्राथमिकी; पुलिस जांच में जुटी hyderabad-shamshabad-cab-driver-alleged-woman-harassment-attempt-to-rob-rs-60000-near-tondupalli-toll-plaza।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'आजाद परिंदा’ बनने की चाह में शेयर बाजार की राह चुनी, 711 करोड़ में जुहू टावर सौदा किया",
+      "url": "https://www.amarujala.com/india-news/dinesh-darianumal-thakkar-chose-stock-market-in-quest-to-become-free-spirit-mumbai-juhu-tower-711-crore-deal-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T04:10:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0",
+      "summary": "दिनेश दरियानुमल ठक्कर: 'आजाद परिंदा’ बनने की चाह में शेयर बाजार की राह चुनी, 711 करोड़ में जुहू टावर सौदा किया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'आजाद परिंदा’ बनने की चाह में शेयर बाजार की राह चुनी, 711 करोड़ में जुहू टावर सौदा किया",
+          "summary": "दिनेश दरियानुमल ठक्कर: 'आजाद परिंदा’ बनने की चाह में शेयर बाजार की राह चुनी, 711 करोड़ में जुहू टावर सौदा किया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या चश्मदीद से खुलेगा केतन की मौत का राज?: पहले पैर पर मारी लात, फिर दिया धक्का; गवाह ने बताई",
+      "url": "https://www.amarujala.com/india-news/eyewitness-unravel-the-mystery-behind-ketan-death-kicked-leg-before-being-pushed-witness-recounts-what-he-saw-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T04:08:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/katana-agaraval-hatayakada_ae4f2cd6c20172adbc6ce3a89e1c0acb.jpeg?w=1200&dpr=1.0",
+      "summary": "Eyewitness Unravel the Mystery Behind Ketan Death Kicked Leg Before Being Pushed Witness Recounts What He Saw क्या चश्मदीद से खुलेगा केतन की मौत का राज?: पहले पैर पर मारी लात, फिर दिया धक्का; गवाह ने बताई।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या चश्मदीद से खुलेगा केतन की मौत का राज?: पहले पैर पर मारी लात, फिर दिया धक्का; गवाह ने बताई",
+          "summary": "Eyewitness Unravel the Mystery Behind Ketan Death Kicked Leg Before Being Pushed Witness Recounts What He Saw क्या चश्मदीद से खुलेगा केतन की मौत का राज?: पहले पैर पर मारी लात, फिर दिया धक्का; गवाह ने बताई।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शेयर बाजार में भूचाल, सेंसेक्स 700 अंक तक टूटा, निफ्टी 23000 के नीचे; वीआईएक्स 6% चढ़ा",
+      "url": "https://www.amarujala.com/business/business-diary/opening-bell-sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T04:05:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0",
+      "summary": "द बोनस मार्केट अपडेट: शेयर बाजार में भूचाल, सेंसेक्स 700 अंक तक टूटा, निफ्टी 23000 के नीचे; वीआईएक्स 6% चढ़ा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेयर बाजार में भूचाल, सेंसेक्स 700 अंक तक टूटा, निफ्टी 23000 के नीचे; वीआईएक्स 6% चढ़ा",
+          "summary": "द बोनस मार्केट अपडेट: शेयर बाजार में भूचाल, सेंसेक्स 700 अंक तक टूटा, निफ्टी 23000 के नीचे; वीआईएक्स 6% चढ़ा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "25 मीटर एयर पिस्टल में फाइनल में नहीं पहुंच पाईं मनु भाकर, स्क्वैश टीम इवेंट जारी",
       "url": "https://www.amarujala.com/live/sports/asian-games-2026-live-updates-archers-in-action-manu-bhaker-medal-shooting-boxing-athletics-medal-updates-2026-09-28",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-28T03:13:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/asian-games-2026-asian-games-live-india-at-asian-games-manu-bhaker-mirabai-chanu-shooting-badm_05ccfe6c5e1317fbc8fe50b332f9dc5c.jpeg?w=1200&dpr=1.0",
-      "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत 37 पदकों के साथ 12वें स्थान पर है। 28 सितंबर को तीरंदाजी और शूटिंग समेत कई खेलों में भारतीय खिलाड़ी चुनौती पेश करेंगे। 25 मीटर एयर पिस्टल में मनु भाकर से उम्मीदें, क्रिकेट में पाकिस्तान-हॉन्गकॉन्ग मैच रद्द।",
+      "published_at": "2026-09-28T04:00:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/asian-games-live-asian-games-2026-india-at-asian-games-india-medals-manu-bhaker-archery-shoo_84a84080e56a4bc6c5ac395679ceb1c3.jpeg?w=1200&dpr=1.0",
+      "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत 37 पदकों के साथ 12वें स्थान पर है। 28 सितंबर को तीरंदाजी और शूटिंग समेत कई खेलों में भारतीय खिलाड़ी चुनौती पेश करेंगे। 25 मीटर एयर पिस्टल में मनु भाकर से उम्मीदें, क्रिकेट में पाकिस्तान-हॉन्गकॉन्ग मैच रद्द। 25 मीटर एयर पिस्टल में फाइनल में नहीं पहुंच पाईं मनु भाकर, स्क्वैश टीम इवेंट जारी।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "25 मीटर एयर पिस्टल में मनु भाकर से उम्मीदें, क्रिकेट में पाकिस्तान-हॉन्गकॉन्ग मैच रद्द",
-          "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत 37 पदकों के साथ 12वें स्थान पर है। 28 सितंबर को तीरंदाजी और शूटिंग समेत कई खेलों में भारतीय खिलाड़ी चुनौती पेश करेंगे। 25 मीटर एयर पिस्टल में मनु भाकर से उम्मीदें, क्रिकेट में पाकिस्तान-हॉन्गकॉन्ग मैच रद्द।",
+          "title": "25 मीटर एयर पिस्टल में फाइनल में नहीं पहुंच पाईं मनु भाकर, स्क्वैश टीम इवेंट जारी",
+          "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत 37 पदकों के साथ 12वें स्थान पर है। 28 सितंबर को तीरंदाजी और शूटिंग समेत कई खेलों में भारतीय खिलाड़ी चुनौती पेश करेंगे। 25 मीटर एयर पिस्टल में मनु भाकर से उम्मीदें, क्रिकेट में पाकिस्तान-हॉन्गकॉन्ग मैच रद्द। 25 मीटर एयर पिस्टल में फाइनल में नहीं पहुंच पाईं मनु भाकर, स्क्वैश टीम इवेंट जारी।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रात में अकेले सफर कर रही हैं और कैब ड्राइवर पर शक हो तो क्या करें?",
+      "url": "https://www.amarujala.com/photo-gallery/utility/travelling-alone-in-a-cab-at-night-know-what-to-do-if-you-feel-unsafe-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T03:59:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/daraivara-para-shaka-hata-ha-na-ha-parashana_e11a496249d8d28a2e930f4903a4cca0.jpeg?w=1200&dpr=1.0",
+      "summary": "रात में अकेले कैब से सफर करते समय अगर ड्राइवर का व्यवहार अजीब लगे, रास्ता बदलने लगे या किसी वजह से डर महसूस हो तो चुप रहने के बजाय तुरंत कुछ जरूरी कदम उठाएं। रात में अकेले सफर कर रही हैं और कैब ड्राइवर पर शक हो तो क्या करें?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रात में अकेले सफर कर रही हैं और कैब ड्राइवर पर शक हो तो क्या करें?",
+          "summary": "रात में अकेले कैब से सफर करते समय अगर ड्राइवर का व्यवहार अजीब लगे, रास्ता बदलने लगे या किसी वजह से डर महसूस हो तो चुप रहने के बजाय तुरंत कुछ जरूरी कदम उठाएं। रात में अकेले सफर कर रही हैं और कैब ड्राइवर पर शक हो तो क्या करें?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एसिडिटी की दवा डॉक्टर की पर्ची के बिना नहीं मिलेगी, पेट दर्द में नया विकल्प क्या?",
+      "url": "https://www.amarujala.com/india-news/strict-health-regulations-acidity-medication-not-without-doctor-prescription-new-alternative-for-stomach-pain-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T03:56:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/21/medicine_630e810d396de5a89d2ed2303663679a.jpeg?w=1200&dpr=1.0",
+      "summary": "सेहत पर सख्त नियम: एसिडिटी की दवा डॉक्टर की पर्ची के बिना नहीं मिलेगी, पेट दर्द में नया विकल्प क्या?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एसिडिटी की दवा डॉक्टर की पर्ची के बिना नहीं मिलेगी, पेट दर्द में नया विकल्प क्या?",
+          "summary": "सेहत पर सख्त नियम: एसिडिटी की दवा डॉक्टर की पर्ची के बिना नहीं मिलेगी, पेट दर्द में नया विकल्प क्या?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "महिला पत्रकार ने तालिबान पर किया सवाल, पाकिस्तानी मंत्री का गला काटने जैसा इशारा",
+      "url": "https://www.amarujala.com/world/khawaja-asif-afghan-journalist-throat-cut-gesture-taliban-question-unga-viral-video-user-reaction-2026-09-28",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-28T03:51:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/khawaja-asif_513aa22e184c16ae54a3a4146a503b74.jpeg?w=1200&dpr=1.0",
+      "summary": "ख्वाजा आसिफ की बेहूदा हरकत: महिला पत्रकार ने तालिबान पर किया सवाल, पाकिस्तानी मंत्री का गला काटने जैसा इशारा khawaja-asif-afghan-journalist-throat-cut-gesture-taliban-question-unga-viral-video-user-reaction।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महिला पत्रकार ने तालिबान पर किया सवाल, पाकिस्तानी मंत्री का गला काटने जैसा इशारा",
+          "summary": "ख्वाजा आसिफ की बेहूदा हरकत: महिला पत्रकार ने तालिबान पर किया सवाल, पाकिस्तानी मंत्री का गला काटने जैसा इशारा khawaja-asif-afghan-journalist-throat-cut-gesture-taliban-question-unga-viral-video-user-reaction।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप के कलेजे में ईरानी क्रूज मिसाइल ने किया छेद, 8 अमेरिकी जवान अधमरे, ठोक डाला तैरता हुआ किला",
+      "url": "https://hindi.news18.com/world/middle-east-iranian-cruise-missile-struck-vessel-carrying-us-military-personnel-8-marines-injured-10869278.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-28T03:50:23+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/TRUMP-PAZESHKIYAN-2026-09-41df5b8ebcbdc21849dc22423ca31e62-1200x800.jpg",
+      "summary": "Iran Struck US Vessel carrying 8 Marines: ईरान ने एक बार फिर से होर्मुज में अपनी सूरमा मिसाइल की ताकत दिखाते हुए अमेरिकी जहाज को ठोक दिया. इसमें 8 अमेरिकी जवानों के घायल होने की खबरें आ रही हैं. अब तक अमेरिका की ओर से इस पर कोई जवाब नहीं आया है. ट्रंप के कलेजे में ईरानी क्रूज मिसाइल ने किया छेद, 8 अमेरिकी जवान अधमरे, ठोक डाला तैरता हुआ किला।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप के कलेजे में ईरानी क्रूज मिसाइल ने किया छेद, 8 अमेरिकी जवान अधमरे, ठोक डाला तैरता हुआ किला",
+          "summary": "Iran Struck US Vessel carrying 8 Marines: ईरान ने एक बार फिर से होर्मुज में अपनी सूरमा मिसाइल की ताकत दिखाते हुए अमेरिकी जहाज को ठोक दिया. इसमें 8 अमेरिकी जवानों के घायल होने की खबरें आ रही हैं. अब तक अमेरिका की ओर से इस पर कोई जवाब नहीं आया है. ट्रंप के कलेजे में ईरानी क्रूज मिसाइल ने किया छेद, 8 अमेरिकी जवान अधमरे, ठोक डाला तैरता हुआ किला।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "राष्ट्रीय फिल्म पुरस्कार जीतने के बाद लंदन क्यों गए अभिनेता? खास है वजह",
+      "url": "https://www.amarujala.com/entertainment/kartik-aaryan-returns-to-london-captain-india-sets-after-national-award-win-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T03:50:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/karataka-aarayana_240c44aa5e36b68b498baa8978270dd4.jpeg?w=1200&dpr=1.0",
+      "summary": "बॉलीवुड अभिनेता कार्तिक आर्यन को हाल ही में उनकी फिल्म 'चंदू चैंपियन' के लिए नेशनल अवॉर्ड मिला। अब एक्टर अपनी नई फिल्म 'कैप्टन इंडिया' की शूटिंग के लिए लंदन चले गए हैं। राष्ट्रीय फिल्म पुरस्कार जीतने के बाद लंदन क्यों गए अभिनेता? खास है वजह।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राष्ट्रीय फिल्म पुरस्कार जीतने के बाद लंदन क्यों गए अभिनेता? खास है वजह",
+          "summary": "बॉलीवुड अभिनेता कार्तिक आर्यन को हाल ही में उनकी फिल्म 'चंदू चैंपियन' के लिए नेशनल अवॉर्ड मिला। अब एक्टर अपनी नई फिल्म 'कैप्टन इंडिया' की शूटिंग के लिए लंदन चले गए हैं। राष्ट्रीय फिल्म पुरस्कार जीतने के बाद लंदन क्यों गए अभिनेता? खास है वजह।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "स्क्रीन के ज्यादा उपयोग से रीढ़ व गर्दन को नुकसान, अभिभावकों को क्या करने की सलाह?",
+      "url": "https://www.amarujala.com/india-news/monitoring-children-essential-excessive-screen-use-can-harm-spine-and-neck-know-advice-for-parents-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T03:49:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/02/04/scolding-children-bcaca-ka-datana-parents-children-game_0ea7383e2f2c9ab02f0eb9a07243e490.jpeg?w=1200&dpr=1.0",
+      "summary": "बच्चों की निगरानी जरूरी: स्क्रीन के ज्यादा उपयोग से रीढ़ व गर्दन को नुकसान, अभिभावकों को क्या करने की सलाह?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्क्रीन के ज्यादा उपयोग से रीढ़ व गर्दन को नुकसान, अभिभावकों को क्या करने की सलाह?",
+          "summary": "बच्चों की निगरानी जरूरी: स्क्रीन के ज्यादा उपयोग से रीढ़ व गर्दन को नुकसान, अभिभावकों को क्या करने की सलाह?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एक पोटली में कश्मीर से कराची तक का भारत, तीर्थ पुरोहितों के पास दर्ज है इतिहास",
+      "url": "https://www.amarujala.com/columns/blog/indian-history-up-kasganj-from-kashmir-to-karachi-encapsulated-in-bundle-preserved-by-pilgrim-priests-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T03:42:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/akbar-pitru-tarpan-tale_266453a78141ed2dc1ddced5b7cb3c40.gif?w=1200&dpr=1.0",
+      "summary": "दूसरा पहलू: एक पोटली में कश्मीर से कराची तक का भारत, तीर्थ पुरोहितों के पास दर्ज है इतिहास।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक पोटली में कश्मीर से कराची तक का भारत, तीर्थ पुरोहितों के पास दर्ज है इतिहास",
+          "summary": "दूसरा पहलू: एक पोटली में कश्मीर से कराची तक का भारत, तीर्थ पुरोहितों के पास दर्ज है इतिहास।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "THAAD और F-35 खरीदोगे? जिनपिंग से अमेरिकी दौरे पर ये क्या पूछ बैठे ट्रंप, चीनी राष्ट्रपति रह गए",
+      "url": "https://hindi.news18.com/world/china-donald-trump-asked-xi-jinping-if-he-would-like-to-buy-american-weapons-reaveals-us-ambassador-10869184.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-28T03:41:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Jinping-Trump-2026-09-d62bf00b167744aa3619e7e4725a466c-1200x800.jpg",
+      "summary": "Trump want to sell US Weapons to China: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का भी जवाब नहीं. वो कहां पर किस तरह की बात कर दें, कुछ कहा नहीं जा सकता. तभी तो अमेरिका के दौरे पर आए चीनी राष्ट्रपति से उन्होंने सीधे-सीधे पूछ लिया - अमेरिकी हथियार खरीदना चाहोगे? अब भले जिनपिंग इसका क्या जवाब देते. THAAD और F-35 खरीदोगे?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "THAAD और F-35 खरीदोगे? जिनपिंग से अमेरिकी दौरे पर ये क्या पूछ बैठे ट्रंप, चीनी राष्ट्रपति रह गए",
+          "summary": "Trump want to sell US Weapons to China: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का भी जवाब नहीं. वो कहां पर किस तरह की बात कर दें, कुछ कहा नहीं जा सकता. तभी तो अमेरिका के दौरे पर आए चीनी राष्ट्रपति से उन्होंने सीधे-सीधे पूछ लिया - अमेरिकी हथियार खरीदना चाहोगे? अब भले जिनपिंग इसका क्या जवाब देते. THAAD और F-35 खरीदोगे?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "प्रकृति को लीलती भोजन की जूठन: भारत अब भी भोजन बर्बादी मामले में दूसरे नंबर पर, दंडनीय अपराध घोषित",
+      "url": "https://www.amarujala.com/columns/opinion/food-waste-devouring-nature-india-ranks-second-in-food-wastage-govt-should-declare-it-punishable-offense-2026-09-28",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-28T03:32:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/food-plate-waste_264eddb77ebec5ceac175eacf88ba37f.jpeg?w=1200&dpr=1.0",
+      "summary": "करे सरकार प्रकृति को लीलती भोजन की जूठन: भारत अब भी भोजन बर्बादी मामले में दूसरे नंबर पर, दंडनीय अपराध घोषित करे सरकार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रकृति को लीलती भोजन की जूठन: भारत अब भी भोजन बर्बादी मामले में दूसरे नंबर पर, दंडनीय अपराध घोषित",
+          "summary": "करे सरकार प्रकृति को लीलती भोजन की जूठन: भारत अब भी भोजन बर्बादी मामले में दूसरे नंबर पर, दंडनीय अपराध घोषित करे सरकार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "B2 बॉम्बर्स के अड्डे पर कौन था, क्‍या इसमें ईरान का हाथ, यहां तक कैसे पहुंचा IRGC?",
+      "url": "https://hindi.news18.com/world/britain-raf-fairford-terror-plot-iran-link-uk-police-investigation-full-story-explained-conspiracy-theory-ws-l-10869323.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-28T03:30:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/AIRPORT-FAIRFORD-2026-09-d3e26db0f64e2c4fc11acb3a86bc15a6-1200x800.jpg",
+      "summary": "Who Made Terror Plot at RAF Fairford: ब्रिटेन के ग्लॉस्टरशायर स्थित आरएएफ फेयरफोर्ड एयरबेस पर रविवार को पुलिस ने मेजर इन्सिडेंट की घोषणा की. इस एयरबेस का इस्तेमाल अमेरिकी वायुसेना भी करती है. एक्सप्लोसिव एक्ट के तहत अपराध के संदेह में कई लोगों की गिरफ्तारी के बाद आसपास के कई घरों को खाली कराया गया और सेना ने कुछ वाहनों की जांच शुरू की.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "B2 बॉम्बर्स के अड्डे पर कौन था, क्‍या इसमें ईरान का हाथ, यहां तक कैसे पहुंचा IRGC?",
+          "summary": "Who Made Terror Plot at RAF Fairford: ब्रिटेन के ग्लॉस्टरशायर स्थित आरएएफ फेयरफोर्ड एयरबेस पर रविवार को पुलिस ने मेजर इन्सिडेंट की घोषणा की. इस एयरबेस का इस्तेमाल अमेरिकी वायुसेना भी करती है. एक्सप्लोसिव एक्ट के तहत अपराध के संदेह में कई लोगों की गिरफ्तारी के बाद आसपास के कई घरों को खाली कराया गया और सेना ने कुछ वाहनों की जांच शुरू की.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -349,7 +655,7 @@
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-09-28T03:13:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/19/indias-leadership-in-ai-will-drive-innovation-worldwide-says-bill-gates_d476b28b89cba2655501e942c64d430b.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/bl-gatasa-maikarasafata-ka-ka-faudara_0d18147298e39a13a77e8c2b114b3b07.jpeg?w=1200&dpr=1.0",
       "summary": "AI fears grow Bill Gates warns it could kill billions how could this happen? एआई पर बढ़ी चिंता: बिल गेट्स ने दी चेतावनी, कहा- अरबों लोगों की ले सकता है जान; आखिर कैसे मच सकती है तबाही?",
       "region": "World",
       "language": "hi",
@@ -364,7 +670,7 @@
     {
       "title": "30 सितंबर को होने वाली टियर-1 परीक्षा का प्रवेश पत्र जारी, ऐसे करें डाउनलोड",
       "url": "https://www.amarujala.com/jobs/government-jobs/ssc-cgl-tier-1-admit-card-2026-released-check-exam-date-download-steps-and-details-2026-09-28",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-28T03:10:34+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/14/admit-card_5a1d0616c14b6af043931fc1bef6bf93.jpeg?w=1200&dpr=1.0",
@@ -375,24 +681,6 @@
         "hi": {
           "title": "30 सितंबर को होने वाली टियर-1 परीक्षा का प्रवेश पत्र जारी, ऐसे करें डाउनलोड",
           "summary": "SSC CGL Tier 1 Admit Card 2026: एसएससी सीजीएल टियर-1 का प्रवेश पत्र जारी हो गया है। फिलहाल 30 सितंबर को परीक्षा देने वाले अभ्यर्थी इसे डाउनलोड कर सकते हैं। परीक्षा 30 सितंबर से 30 अक्तूबर तक तीन पालियों में होगी। 30 सितंबर को होने वाली टियर-1 परीक्षा का प्रवेश पत्र जारी, ऐसे करें डाउनलोड।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शरीर को चाहिए विटामिन-सी, डाइट में इन चीजों की न होने दें कमी",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/why-vitamin-c-is-needed-best-foods-to-get-enough-vitamin-c-naturally-2026-09-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T03:10:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/01/vitamin-c-rich-foods_bfc67260a80141538032c2b6f47c69bf.jpeg?w=1200&dpr=1.0",
-      "summary": "विटामिन-सी शरीर की प्रतिरक्षा प्रणाली, त्वचा और घाव भरने की प्रक्रिया के लिए महत्वपूर्ण पोषक तत्व है। इसे रोज के आहार से प्राप्त किया जा सकता है। आंवला, संतरा, नींबू, ब्रोकली, पपीता और अनानास इसके अच्छे खाद्य स्रोत हैं। शरीर को चाहिए विटामिन-सी, डाइट में इन चीजों की न होने दें कमी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शरीर को चाहिए विटामिन-सी, डाइट में इन चीजों की न होने दें कमी",
-          "summary": "विटामिन-सी शरीर की प्रतिरक्षा प्रणाली, त्वचा और घाव भरने की प्रक्रिया के लिए महत्वपूर्ण पोषक तत्व है। इसे रोज के आहार से प्राप्त किया जा सकता है। आंवला, संतरा, नींबू, ब्रोकली, पपीता और अनानास इसके अच्छे खाद्य स्रोत हैं। शरीर को चाहिए विटामिन-सी, डाइट में इन चीजों की न होने दें कमी।",
           "region": "दुनिया"
         }
       }
@@ -436,54 +724,18 @@
     {
       "title": "जब ट्रंप ने जिनपिंग से पूछा- क्या आप खरीदेंगे हथियार? ताइवान कर रहा आपूर्ति का इंतजार",
       "url": "https://www.amarujala.com/world/ambassador-david-perdue-says-donald-trump-asks-xi-jinping-of-us-arms-sale-taiwan-14-billion-weapons-package-2026-09-28",
-      "source": "Amar Ujala World",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-09-28T02:58:50+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/us-china-taiwan_896fe5041de31e4168d357af8d2cd723.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका-चीन संबंध: जब ट्रंप ने जिनपिंग से पूछा- क्या आप खरीदेंगे हथियार?",
+      "summary": "अमेरिका-चीन संबंध: जब ट्रंप ने जिनपिंग से पूछा- क्या आप खरीदेंगे हथियार? ताइवान कर रहा आपूर्ति का इंतजार।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
           "title": "जब ट्रंप ने जिनपिंग से पूछा- क्या आप खरीदेंगे हथियार? ताइवान कर रहा आपूर्ति का इंतजार",
-          "summary": "अमेरिका-चीन संबंध: जब ट्रंप ने जिनपिंग से पूछा- क्या आप खरीदेंगे हथियार?",
+          "summary": "अमेरिका-चीन संबंध: जब ट्रंप ने जिनपिंग से पूछा- क्या आप खरीदेंगे हथियार? ताइवान कर रहा आपूर्ति का इंतजार।",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अपने घर-दुकान का एड्रेस गूगल मैप पर कैसे अपलोड करें? यहां जानें तरीका",
-      "url": "https://www.amarujala.com/photo-gallery/utility/how-to-add-your-home-or-shop-address-on-google-maps-par-ghar-ya-dukan-ka-address-kaise-uplod-karein-2026-09-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-28T02:56:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/gagal-mapa-para-edarasa-jaugdhana-ka-taraka-kaya-ha_2556bb94086e6e1a0dedb73bba5d600e.jpeg?w=1200&dpr=1.0",
-      "summary": "गूगल मैप पर किसी गायब पते को जोड़ने या गलत पिन को ठीक करने का विकल्प मौजूद है। वहीं, दुकान या बिजनेस के लिए गूगल बिजनेस प्रोफाइल के जरिए एड्रेस और लोकेशन को मैनेज किया जा सकता है। अपने घर-दुकान का एड्रेस गूगल मैप पर कैसे अपलोड करें? यहां जानें तरीका।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अपने घर-दुकान का एड्रेस गूगल मैप पर कैसे अपलोड करें? यहां जानें तरीका",
-          "summary": "गूगल मैप पर किसी गायब पते को जोड़ने या गलत पिन को ठीक करने का विकल्प मौजूद है। वहीं, दुकान या बिजनेस के लिए गूगल बिजनेस प्रोफाइल के जरिए एड्रेस और लोकेशन को मैनेज किया जा सकता है। अपने घर-दुकान का एड्रेस गूगल मैप पर कैसे अपलोड करें? यहां जानें तरीका।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के कलेजे में ईरानी क्रूज मिसाइल ने किया छेद, 8 अमेरिकी जवान अधमरे, ठोक डाला तैरता हुआ किला",
-      "url": "https://hindi.news18.com/world/middle-east-iranian-cruise-missile-struck-vessel-carrying-us-military-personnel-8-marines-injured-10869278.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-28T02:55:24+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/iran-missile-2026-09-47859bf2e507d82c05c90d1cacd079ad-1200x800.jpg",
-      "summary": "Iran Struck US Vessel carrying 8 Marines: ईरान ने एक बार फिर से होर्मुज में अपनी सूरमा मिसाइल की ताकत दिखाते हुए अमेरिकी जहाज को ठोक दिया. इसमें 8 अमेरिकी जवानों के घायल होने की खबरें आ रही हैं. अब तक अमेरिका की ओर से इस पर कोई जवाब नहीं आया है. ट्रंप के कलेजे में ईरानी क्रूज मिसाइल ने किया छेद, 8 अमेरिकी जवान अधमरे, ठोक डाला तैरता हुआ किला।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप के कलेजे में ईरानी क्रूज मिसाइल ने किया छेद, 8 अमेरिकी जवान अधमरे, ठोक डाला तैरता हुआ किला",
-          "summary": "Iran Struck US Vessel carrying 8 Marines: ईरान ने एक बार फिर से होर्मुज में अपनी सूरमा मिसाइल की ताकत दिखाते हुए अमेरिकी जहाज को ठोक दिया. इसमें 8 अमेरिकी जवानों के घायल होने की खबरें आ रही हैं. अब तक अमेरिका की ओर से इस पर कोई जवाब नहीं आया है. ट्रंप के कलेजे में ईरानी क्रूज मिसाइल ने किया छेद, 8 अमेरिकी जवान अधमरे, ठोक डाला तैरता हुआ किला।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -501,258 +753,6 @@
         "hi": {
           "title": "100 करोड़ से इतनी दूर 'पैराडाइज', 'द वन' का दिखा दम, जानें रविवार को 'हनुमान अंश' का क्या हुआ हाल?",
           "summary": "सिनेमाघरों में बीते हफ्ते सिद्धार्थ मल्होत्रा और नानी की फिल्में रिलीज हुई हैं। इसके अलावा 'हनुमान अंश', 'मिर्जापुर' जैसी फिल्में पहले से लगी हुई हैं। ऐसे में आइए जानते हैं कि इन सभी ने अभी तक कितना कलेक्शन किया है? 100 करोड़ से इतनी दूर 'पैराडाइज', 'द वन' का दिखा दम, जानें रविवार को 'हनुमान अंश' का क्या हुआ हाल?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शतक, 15 हजार रन और वर्ल्ड कप का सपना; हर मुद्दे पर पूर्व कप्तान ने की खुलकर बात",
-      "url": "https://www.amarujala.com/cricket/cricket-news/virat-kohli-opens-up-on-15-000-odi-runs-fitness-mindset-world-cup-goal-and-shubman-gill-2026-09-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-28T02:31:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/27/varata-kahal_f00a1bf4bfddaf61e1fb54487a1f9ec9.jpeg?w=1200&dpr=1.0",
-      "summary": "वेस्टइंडीज के खिलाफ शतक और 15 हजार वनडे रन पूरे करने के बाद विराट कोहली ने फिटनेस, मानसिक मजबूती और अपने करियर के लक्ष्य पर खुलकर बात की। शतक, 15 हजार रन और वर्ल्ड कप का सपना; हर मुद्दे पर पूर्व कप्तान ने की खुलकर बात।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शतक, 15 हजार रन और वर्ल्ड कप का सपना; हर मुद्दे पर पूर्व कप्तान ने की खुलकर बात",
-          "summary": "वेस्टइंडीज के खिलाफ शतक और 15 हजार वनडे रन पूरे करने के बाद विराट कोहली ने फिटनेस, मानसिक मजबूती और अपने करियर के लक्ष्य पर खुलकर बात की। शतक, 15 हजार रन और वर्ल्ड कप का सपना; हर मुद्दे पर पूर्व कप्तान ने की खुलकर बात।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कम बजट में ढूंढ रहे हैं माइलेज वाली मोटरसाइकिल?: किफायती दामों में आती है ये 5 बाइक्स, जानें कौन-सी",
-      "url": "https://www.amarujala.com/automobiles/5-affordable-commuter-bikes-prices-mileage-engine-key-features-2026-09-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T02:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/27/paratakatamaka-tasavara_4e2d5f002156857ce3285a10a6112290.jpeg?w=1200&dpr=1.0",
-      "summary": "है बेस्ट कम बजट में ढूंढ रहे हैं माइलेज वाली मोटरसाइकिल?: किफायती दामों में आती है ये 5 बाइक्स, जानें कौन-सी है बेस्ट।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कम बजट में ढूंढ रहे हैं माइलेज वाली मोटरसाइकिल?: किफायती दामों में आती है ये 5 बाइक्स, जानें कौन-सी",
-          "summary": "है बेस्ट कम बजट में ढूंढ रहे हैं माइलेज वाली मोटरसाइकिल?: किफायती दामों में आती है ये 5 बाइक्स, जानें कौन-सी है बेस्ट।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अक्तूबर में आ सकती है 24वीं किस्त, किसान जरूर करवा लें ये 3 काम, वरना अटक सकते हैं पैसे",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-24th-installment-3-things-farmers-must-complete-before-the-2000-payment-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T02:17:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/24va-kasata-ka-le-kasana-ka-kana-sa-kama-karavana-janprra-ha_99a83947baed037c156545631c02e087.jpeg?w=1200&dpr=1.0",
-      "summary": "पीएम किसान सम्मान निधि योजना की 24वीं किस्त को लेकर किसानों का इंतजार जारी है, लेकिन अगर आपको बतौर लाभार्थी किस्त का लाभ लेना है तो आपको कुछ काम करवाने जरूरी होते हैं। अक्तूबर में आ सकती है 24वीं किस्त, किसान जरूर करवा लें ये 3 काम, वरना अटक सकते हैं पैसे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अक्तूबर में आ सकती है 24वीं किस्त, किसान जरूर करवा लें ये 3 काम, वरना अटक सकते हैं पैसे",
-          "summary": "पीएम किसान सम्मान निधि योजना की 24वीं किस्त को लेकर किसानों का इंतजार जारी है, लेकिन अगर आपको बतौर लाभार्थी किस्त का लाभ लेना है तो आपको कुछ काम करवाने जरूरी होते हैं। अक्तूबर में आ सकती है 24वीं किस्त, किसान जरूर करवा लें ये 3 काम, वरना अटक सकते हैं पैसे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सार्वजनिक शौचालय में दो युवकों की मौत, एक हिरासत में; जहरीली गैस मामले पर पुलिस ने क्या कहा?",
-      "url": "https://www.amarujala.com/india-news/maharashtra-two-youths-die-public-toilet-in-mumbai-one-in-custody-what-did-the-police-say-toxic-gas-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T02:12:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/garafatara-sakataka-tasavara_53e4d3667909935c823f914764d4125a.jpeg?w=1200&dpr=1.0",
-      "summary": "Maharashtra Two youths die public toilet in Mumbai one in custody what did the police say toxic gas? सार्वजनिक शौचालय में दो युवकों की मौत, एक हिरासत में; जहरीली गैस मामले पर पुलिस ने क्या कहा?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सार्वजनिक शौचालय में दो युवकों की मौत, एक हिरासत में; जहरीली गैस मामले पर पुलिस ने क्या कहा?",
-          "summary": "Maharashtra Two youths die public toilet in Mumbai one in custody what did the police say toxic gas? सार्वजनिक शौचालय में दो युवकों की मौत, एक हिरासत में; जहरीली गैस मामले पर पुलिस ने क्या कहा?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘बुरी तरह हार रहा है ईरान, नहीं मानेंगे शर्तें’, ट्रंप ने ठुकराया युद्ध विराम का प्रस्ताव, क्या",
-      "url": "https://www.patrika.com/world-news/donald-trump-rejects-iran-truce-proposal-strait-of-hormuz-us-midterms-risks-20941569",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-28T02:07:16+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump-10-1.webp",
-      "summary": "Donald Trump Rejects Iran Proposal: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के युद्ध खत्म करने और स्ट्रेट ऑफ होर्मुज को दोबारा खोलने के प्रस्ताव को ठुकरा दिया है। ट्रंप ने कहा कि ईरान समझौता करना चाहता है क्योंकि वह बुरी तरह हार रहा है। उन्होंने यह भी कहा कि वह खुद भी समझौता करना चाहते हैं लेकिन ईरान की ओर से रखा गया प्रस्ताव स्वीकार्य नहीं है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘बुरी तरह हार रहा है ईरान, नहीं मानेंगे शर्तें’, ट्रंप ने ठुकराया युद्ध विराम का प्रस्ताव, क्या",
-          "summary": "Donald Trump Rejects Iran Proposal: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के युद्ध खत्म करने और स्ट्रेट ऑफ होर्मुज को दोबारा खोलने के प्रस्ताव को ठुकरा दिया है। ट्रंप ने कहा कि ईरान समझौता करना चाहता है क्योंकि वह बुरी तरह हार रहा है। उन्होंने यह भी कहा कि वह खुद भी समझौता करना चाहते हैं लेकिन ईरान की ओर से रखा गया प्रस्ताव स्वीकार्य नहीं है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "THAAD और F-35 खरीदोगे? जिनपिंग से अमेरिकी दौरे पर ये क्या पूछ बैठे ट्रंप, चीनी राष्ट्रपति रह गए",
-      "url": "https://hindi.news18.com/world/china-donald-trump-asked-xi-jinping-if-he-would-like-to-buy-american-weapons-reaveals-us-ambassador-10869184.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-28T02:07:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Jinping-Trump-2026-09-d62bf00b167744aa3619e7e4725a466c-1200x800.jpg",
-      "summary": "Trump want to sell US Weapons to China: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का भी जवाब नहीं. वो कहां पर किस तरह की बात कर दें, कुछ कहा नहीं जा सकता. तभी तो अमेरिका के दौरे पर आए चीनी राष्ट्रपति से उन्होंने सीधे-सीधे पूछ लिया - अमेरिकी हथियार खरीदना चाहोगे? अब भले जिनपिंग इसका क्या जवाब देते. THAAD और F-35 खरीदोगे?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "THAAD और F-35 खरीदोगे? जिनपिंग से अमेरिकी दौरे पर ये क्या पूछ बैठे ट्रंप, चीनी राष्ट्रपति रह गए",
-          "summary": "Trump want to sell US Weapons to China: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का भी जवाब नहीं. वो कहां पर किस तरह की बात कर दें, कुछ कहा नहीं जा सकता. तभी तो अमेरिका के दौरे पर आए चीनी राष्ट्रपति से उन्होंने सीधे-सीधे पूछ लिया - अमेरिकी हथियार खरीदना चाहोगे? अब भले जिनपिंग इसका क्या जवाब देते. THAAD और F-35 खरीदोगे?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'ईरान पर दोबारा हमला संभव है': ट्रंप ने किया बड़ा इशारा, अराघची बोले- विनाशकारी युद्ध के लिए तैयार",
-      "url": "https://www.amarujala.com/world/donald-trump-iran-war-win-soon-midterm-strikes-possible-abbas-araghchi-says-ready-doomsday-war-2026-09-28",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-28T02:00:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/west-asia-conflict_244008404a14dbd3a06af8bbb118c3ec.jpeg?w=1200&dpr=1.0",
-      "summary": "donald-trump-iran-war-win-soon-midterm-strikes-possible-abbas-araghchi-says-ready-doomsday-war 'ईरान पर दोबारा हमला संभव है': ट्रंप ने किया बड़ा इशारा, अराघची बोले- विनाशकारी युद्ध के लिए तैयार।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ईरान पर दोबारा हमला संभव है': ट्रंप ने किया बड़ा इशारा, अराघची बोले- विनाशकारी युद्ध के लिए तैयार",
-          "summary": "donald-trump-iran-war-win-soon-midterm-strikes-possible-abbas-araghchi-says-ready-doomsday-war 'ईरान पर दोबारा हमला संभव है': ट्रंप ने किया बड़ा इशारा, अराघची बोले- विनाशकारी युद्ध के लिए तैयार।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इस वीक ओटीटी पर जमेगा रंग; रिलीज होंगी कॉमेडी और रोमांच से भरपूर ये दिलचस्प फिल्में और सीरीज",
-      "url": "https://www.amarujala.com/entertainment/ott-releases-this-week-bethlehem-kudumba-unit-dupahiya-season-2-pooja-meri-jaan-movies-series-to-release-2026-09-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-28T02:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/27/otata-ralja-thasa-vaka_4338a0d19281e5a2a3eaa28c6aa389b7.jpeg?w=1200&dpr=1.0",
-      "summary": "OTT Release This Week: मौसम बदल रहा है। नया वीक शुरू हो गया है। ओटीटी पर नई-नई फिल्में और सीरीज भी रिलीज होने वाली हैं। क्या-क्या होगा पिटारे में? जानिए इस वीक ओटीटी पर जमेगा रंग; रिलीज होंगी कॉमेडी और रोमांच से भरपूर ये दिलचस्प फिल्में और सीरीज। जानिए।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस वीक ओटीटी पर जमेगा रंग; रिलीज होंगी कॉमेडी और रोमांच से भरपूर ये दिलचस्प फिल्में और सीरीज",
-          "summary": "OTT Release This Week: मौसम बदल रहा है। नया वीक शुरू हो गया है। ओटीटी पर नई-नई फिल्में और सीरीज भी रिलीज होने वाली हैं। क्या-क्या होगा पिटारे में? जानिए इस वीक ओटीटी पर जमेगा रंग; रिलीज होंगी कॉमेडी और रोमांच से भरपूर ये दिलचस्प फिल्में और सीरीज। जानिए।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "देश के इन राज्यों में तेज बारिश के साथ आंधी-बिजली गिरने का खतरा,IMD ने जारी किया अलर्ट!",
-      "url": "https://www.amarujala.com/video/india-news/risk-of-heavy-rain-thunderstorms-and-lightning-strikes-in-these-states-imd-issues-alert-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T02:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/weather-update_6f4986d88e60bdb3782301c9cb071e07.jpeg?w=1200&dpr=1.0",
-      "summary": "देश के इन राज्यों में तेज बारिश के साथ आंधी-बिजली गिरने का खतरा, IMD ने जारी किया अलर्ट! देश के इन राज्यों में तेज बारिश के साथ आंधी-बिजली गिरने का खतरा, IMD ने जारी किया अलर्ट!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देश के इन राज्यों में तेज बारिश के साथ आंधी-बिजली गिरने का खतरा,IMD ने जारी किया अलर्ट!",
-          "summary": "देश के इन राज्यों में तेज बारिश के साथ आंधी-बिजली गिरने का खतरा, IMD ने जारी किया अलर्ट! देश के इन राज्यों में तेज बारिश के साथ आंधी-बिजली गिरने का खतरा, IMD ने जारी किया अलर्ट!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कैसे बने बॉलीवुड के रॉकस्टार? पापा की परछाई से अपनी पहचान बनाने तक; कैसा रहा अभिनेता का सफर?",
-      "url": "https://www.amarujala.com/entertainment/bollywood/ranbir-kapoor-birthday-special-why-he-was-fighting-with-father-and-how-he-came-in-the-films-2026-09-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T02:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/27/ranaebra-kapara_449b89bc6ce36bf9ed1d9991395c6504.gif?w=1200&dpr=1.0",
-      "summary": "कपूर खानदार से ताल्लुक रखने वाले बॉलीवुड के मशहूर अभिनेता रणबीर कपूर 28 सितंबर को अपना 44वां जन्मदिन मना रहे हैं। इस मौके पर आइए जानते हैं अभिनेता से जुड़े कुछ दिलचस्प किस्से। कैसे बने बॉलीवुड के रॉकस्टार? पापा की परछाई से अपनी पहचान बनाने तक; कैसा रहा अभिनेता का सफर?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैसे बने बॉलीवुड के रॉकस्टार? पापा की परछाई से अपनी पहचान बनाने तक; कैसा रहा अभिनेता का सफर?",
-          "summary": "कपूर खानदार से ताल्लुक रखने वाले बॉलीवुड के मशहूर अभिनेता रणबीर कपूर 28 सितंबर को अपना 44वां जन्मदिन मना रहे हैं। इस मौके पर आइए जानते हैं अभिनेता से जुड़े कुछ दिलचस्प किस्से। कैसे बने बॉलीवुड के रॉकस्टार? पापा की परछाई से अपनी पहचान बनाने तक; कैसा रहा अभिनेता का सफर?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हमास के वित्त विभाग के प्रमुख अबू अलवान को इजरायल ने मार गिराया, 4 फिलिस्तीनी नागरिकों की भी हुई मौत",
-      "url": "https://www.patrika.com/world-news/gaza-israeli-attacks-4-palestinians-killed-12-injured-20941568",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-28T01:50:19+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/gaza-city.webp",
-      "summary": "Israeli strike in Gaza: गाजा में एक बार फिर इजरायली सेना ने हमला किया है। इस हमले में 4 फिलिस्तीनी नागरिक मारे गए और 12 घायल हो गए। एम्बुलेंस और इमरजेंसी सर्विस के एक अधिकारी ने कहा कि गाजा शहर के उत्तर में स्थित तवाम इलाके में इजरायली सेना ने कम से कम एक फिलिस्तीनी की गोली मारकर हत्या कर दी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हमास के वित्त विभाग के प्रमुख अबू अलवान को इजरायल ने मार गिराया, 4 फिलिस्तीनी नागरिकों की भी हुई मौत",
-          "summary": "Israeli strike in Gaza: गाजा में एक बार फिर इजरायली सेना ने हमला किया है। इस हमले में 4 फिलिस्तीनी नागरिक मारे गए और 12 घायल हो गए। एम्बुलेंस और इमरजेंसी सर्विस के एक अधिकारी ने कहा कि गाजा शहर के उत्तर में स्थित तवाम इलाके में इजरायली सेना ने कम से कम एक फिलिस्तीनी की गोली मारकर हत्या कर दी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नसरल्लाह की हत्या भूला नहीं ईरान, इजरायल पर फिर साधा निशाना, दुनिया को दिया बड़ा संदेश",
-      "url": "https://www.patrika.com/world-news/hassan-nasrallah-death-anniversary-iran-demands-justice-20941520",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-28T01:49:02+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Hassan-Nasrallah.webp",
-      "summary": "Iran Demands Justice for Nasrallah: हिजबुल्लाह प्रमुख हसन नसरल्लाह की मौत के दो साल बाद भी उनका मामला ईरान की विदेश नीति में प्रमुख मुद्दा बना हुआ है। 27 सितंबर को नसरल्लाह की दूसरी बरसी पर तेहरान ने अंतरराष्ट्रीय समुदाय से जिम्मेदार लोगों के खिलाफ कानूनी कार्रवाई की मांग तेज कर दी। ईरान का कहना है कि समय बीतने से न्याय की मांग खत्म नहीं होगी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नसरल्लाह की हत्या भूला नहीं ईरान, इजरायल पर फिर साधा निशाना, दुनिया को दिया बड़ा संदेश",
-          "summary": "Iran Demands Justice for Nasrallah: हिजबुल्लाह प्रमुख हसन नसरल्लाह की मौत के दो साल बाद भी उनका मामला ईरान की विदेश नीति में प्रमुख मुद्दा बना हुआ है। 27 सितंबर को नसरल्लाह की दूसरी बरसी पर तेहरान ने अंतरराष्ट्रीय समुदाय से जिम्मेदार लोगों के खिलाफ कानूनी कार्रवाई की मांग तेज कर दी। ईरान का कहना है कि समय बीतने से न्याय की मांग खत्म नहीं होगी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्यों ठुकराई डील? ईरानी विदेश मंत्री ने अमेरिका को घेरा, बोले- युद्ध-कूटनीति दोनों को तैयार हैं हम",
-      "url": "https://hindi.news18.com/world/middle-east-iran-foreign-minister-araghchi-says-ready-for-war-and-diplomacy-both-ws-l-10869158.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-28T01:40:17+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/trump-araghchi-2-2026-06-767c2980dd28b2633630ff1f19e4dfd4-1200x800.jpg",
-      "summary": "Iran-US War Update: ईरान-अमेरिका के बीच होर्मुज पर फिर कोई समझौता नहीं हो पाया क्योंकि ईरान के 7 सूत्रीय प्लान को ट्रंप ने नकार दिया. अब इस पर ईरानी विदेश मंत्री ने प्रतिक्रिया देते हुए कहा है कि उनका देश युद्ध और कूटनीति दोनों के लिए तैयार है. अब अमेरिका क्या चाहता है? क्यों ठुकराई डील? ईरानी विदेश मंत्री ने अमेरिका को घेरा, बोले- युद्ध-कूटनीति दोनों को तैयार हैं हम।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्यों ठुकराई डील? ईरानी विदेश मंत्री ने अमेरिका को घेरा, बोले- युद्ध-कूटनीति दोनों को तैयार हैं हम",
-          "summary": "Iran-US War Update: ईरान-अमेरिका के बीच होर्मुज पर फिर कोई समझौता नहीं हो पाया क्योंकि ईरान के 7 सूत्रीय प्लान को ट्रंप ने नकार दिया. अब इस पर ईरानी विदेश मंत्री ने प्रतिक्रिया देते हुए कहा है कि उनका देश युद्ध और कूटनीति दोनों के लिए तैयार है. अब अमेरिका क्या चाहता है? क्यों ठुकराई डील? ईरानी विदेश मंत्री ने अमेरिका को घेरा, बोले- युद्ध-कूटनीति दोनों को तैयार हैं हम।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सिंघल जी का जीवन मानवता के कल्याण के लिए समर्पित, व्यक्तिगत उपलब्धियों से अधिक अहम",
-      "url": "https://www.amarujala.com/india-news/ashok-singhal-life-message-of-harmony-and-brotherhood-dedicated-to-the-welfare-of-humanity-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-28T01:39:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/28/pm-modi-ashok-singhal_96b60a28f0f46970fa10b75746df5af7.jpeg?w=1200&dpr=1.0",
-      "summary": "समरसता व भाईचारे का संदेश: सिंघल जी का जीवन मानवता के कल्याण के लिए समर्पित, व्यक्तिगत उपलब्धियों से अधिक अहम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंघल जी का जीवन मानवता के कल्याण के लिए समर्पित, व्यक्तिगत उपलब्धियों से अधिक अहम",
-          "summary": "समरसता व भाईचारे का संदेश: सिंघल जी का जीवन मानवता के कल्याण के लिए समर्पित, व्यक्तिगत उपलब्धियों से अधिक अहम।",
           "region": "दुनिया"
         }
       }
