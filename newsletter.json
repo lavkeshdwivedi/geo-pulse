@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-09-30T09:15:51.019686+00:00",
+  "generated_at": "2026-09-30T10:15:51.259754+00:00",
   "article_count": 50,
-  "total_unique_count": 268,
+  "total_unique_count": 266,
   "digest": {
-    "en": "Asia-Pacific leads the board this hour with Trump-Xi summit’s real test will come in the months ahead. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, वो इजरायली थे, जो चाकूबाज से भिड़ गए... वरना हाईजैक छोड़ो, 33000 फीट से मैक 0.82 की स्पीड क्रैश मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Middle East & Africa leads the board this hour with 23 years after invasion, U.S. leaves Iraq; stays in Iran. Europe & Russia carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, आसमान में प्लेन Hijack का Alert और इजरायल में मचा हड़कंप, फिर आया बड़ा Twist मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "23 years after invasion, U.S. leaves Iraq; stays in Iran",
+      "url": "https://www.thehindu.com/news/international/23-years-after-invasion-us-leaves-iraq-stays-in-iran/article71527593.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-09-30T09:54:00+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/ny0qbm/article71527656.ece/alternates/LANDSCAPE_1200/2026-09-30T085451Z_1242454310_RC2KTNAS3M26_RTRMADP_3_IRAQ-USA-COALITION.JPG",
+      "summary": "The U. S. invasion of Iraq in 2003 was it’s second target in its ‘war on terror’. But it’s war against Iran now has made it increasingly difficult for the United States to keep a large group of troops in a region that’s turning hostile. 23 years after invasion, U. S. leaves Iraq; stays in Iran.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Former US Diplomat Fried Warns Mixed Signals Could Undercut Russia Sanctions",
+      "url": "https://www.rferl.org/a/former-us-diplomat-fried-warns-mixed-signals-could-undercut-russia-sanctions/33867133.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-09-30T09:40:03+00:00",
+      "image_url": "https://gdb.rferl.org/4aad3184-4fb4-423c-e462-08df13a87301_w1200_h630.jpg",
+      "summary": "The United States has new powers to increase economic pressure on Russia, but their impact will depend on whether the Trump administration uses them consistently and makes clear what it wants Moscow and other governments to do, former US diplomat Daniel Fried told RFE/RL. Former US Diplomat Fried Warns Mixed Signals Could Undercut Russia Sanctions.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "'Right Moment Is Now' To Implement New Russia Sanctions Law",
+      "url": "https://www.rferl.org/a/united-states-sanctions-russia-diplomat-oil-gas/33866727.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-09-30T09:39:23+00:00",
+      "image_url": "https://gdb.rferl.org/4aad3184-4fb4-423c-e462-08df13a87301_w1200_h630.jpg",
+      "summary": "In an interview with RFE/RL, Daniel Fried, a former US ambassador and assistant secretary of state, said that the new sanctions law gives Washington leverage by exerting pressure on buyers of Russian oil and gas -- if the Trump administration is serious about implementing it. 'Right Moment Is Now' To Implement New Russia Sanctions Law.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Trump-Xi summit’s real test will come in the months ahead",
       "url": "https://asiatimes.com/2026/09/trump-xi-summits-real-test-will-come-in-the-months-ahead/",
@@ -16,18 +52,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/Donald-Trump-Xi-Jinping-China-US.jpg",
       "summary": "For years, relations between Washington and Beijing seemed stuck on an escalation treadmill. Every quarter brought new semiconductor restrictions, naval jockeying in the South China Sea or retaliatory tariffs, locking the world’s two preeminent powers in an apparently irreversible downward spiral. Observers came to view every exchange as a prelude to confrontation, with diplomacy treated [] The p Trump-Xi summit’s real test will come in the months ahead.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel-bound commercial plane from Dubai diverted to Saudi Arabia after distress call",
-      "url": "https://www.thehindu.com/news/international/israel-bound-commercial-plane-from-dubai-diverted-to-saudi-arabia-after-distress-call/article71527429.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-09-30T08:19:54+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/yuc25x/article71527444.ece/alternates/LANDSCAPE_1200/Mideast_Emergency_Landing_96814.jpg",
-      "summary": "The FlyDubai flight incident briefly raised concerns about a possible hijacking and prompted Israel to scramble warplanes; Israeli media, citing security officials, said it was a feud between the plane's two pilots, and everyone on board was safe Israel-bound commercial plane from Dubai diverted to Saudi Arabia after distress call.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -284,28 +308,58 @@
       "translations": {}
     },
     {
-      "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
-      "url": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
-      "source": "The Guardian",
+      "title": "आसमान में प्लेन Hijack का Alert और इजरायल में मचा हड़कंप, फिर आया बड़ा Twist",
+      "url": "https://hindi.news18.com/short-videos/world/israel-plane-hijack-alert-flydubai-pilots-fight-fighter-jets-stroy-10875413.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-26T16:00:39+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/205a3d6cb96fec1fecb84ab6537d3ac02b0651e0/181_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eacaecc6fcf538a43835ff9ffb3a6628",
-      "summary": "Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’While the US secretary of state, Marco Rubio, was being decorated in Quito by Ecuador’s president for “helping to promote peace in the region”, 10 Ecuadorian fishers whose boat had been blown up by US forces were adrift in the eastern Pacific.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-09-30T10:12:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/1790763179_548in15mtp-Movie-2026-09-30T144440843jpg-dpnIN5DZfW-1200x800.jpg",
+      "summary": "आसमान में प्लेन हाईजैक के अलर्ट से हड़कंप मच गया. दुबई से तेल अवीव जा रही फ्लाईदुबई की फ्लाइट से हाइजैक अलर्ट के बाद इजरायल ने फाइटर जेट्स भेज दिए. लेकिन बाद में सामने आया कि विमान हाइजैक नहीं हुआ था. कहानी कुछ और थी. हाईजैक की वजह पायलटों का झगड़ा था. आखिर क्या हुआ? देखें पूरी कहानी. आसमान में प्लेन Hijack का Alert और इजरायल में मचा हड़कंप, फिर आया बड़ा Twist।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आसमान में प्लेन Hijack का Alert और इजरायल में मचा हड़कंप, फिर आया बड़ा Twist",
+          "summary": "आसमान में प्लेन हाईजैक के अलर्ट से हड़कंप मच गया. दुबई से तेल अवीव जा रही फ्लाईदुबई की फ्लाइट से हाइजैक अलर्ट के बाद इजरायल ने फाइटर जेट्स भेज दिए. लेकिन बाद में सामने आया कि विमान हाइजैक नहीं हुआ था. कहानी कुछ और थी. हाईजैक की वजह पायलटों का झगड़ा था. आखिर क्या हुआ? देखें पूरी कहानी. आसमान में प्लेन Hijack का Alert और इजरायल में मचा हड़कंप, फिर आया बड़ा Twist।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Arresting the Dangerous Descent Back into War in Northern Ethiopia",
-      "url": "https://www.crisisgroup.org/stm/africa/ethiopia-eritrea/arresting-dangerous-descent-back-war-northern-ethiopia",
-      "source": "International Crisis Group",
+      "title": "मारा गया पहलगाम का गुनहगार लश्कर आतंकी हाशिम मूसा, पाकिस्तान सेना का रिटायर्ड SSG कमांडो था",
+      "url": "https://hindi.news18.com/world/pakistan-pahalgam-attack-mastermind-lashkar-terrorist-killed-in-budgam-hashim-moosa-was-retired-pak-army-commando-says-report-ws-l-10875358.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-09-25T14:01:00+00:00",
-      "image_url": "https://images.pexels.com/photos/7785052/pexels-photo-7785052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Long-simmering tensions have turned to large-scale fighting after armed opposition groups in Tigray, Amhara and Afar launched a multi-pronged offensive against Ethiopian government forces. It is not too late to avert a return to costly, bloody war. Arresting the Dangerous Descent Back into War in Northern Ethiopia.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-09-30T10:06:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/terrorist-hashim-musa-2026-09-2ef35c21081d831adb4a1cf1b1f3695e-1200x800.jpg",
+      "summary": "बडगाम में मारा गया लश्कर-ए-तैयबा का आतंकी मोहम्मद आसिफ उर्फ हाशिम मूसा पाकिस्तान सेना का रिटायर्ड SSG कमांडो था. वह 23 साल तक SSG में रहा और 2023 में रिटायर होने के बाद लश्कर में शामिल हुआ. मारा गया पहलगाम का गुनहगार लश्कर आतंकी हाशिम मूसा, पाकिस्तान सेना का रिटायर्ड SSG कमांडो था।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मारा गया पहलगाम का गुनहगार लश्कर आतंकी हाशिम मूसा, पाकिस्तान सेना का रिटायर्ड SSG कमांडो था",
+          "summary": "बडगाम में मारा गया लश्कर-ए-तैयबा का आतंकी मोहम्मद आसिफ उर्फ हाशिम मूसा पाकिस्तान सेना का रिटायर्ड SSG कमांडो था. वह 23 साल तक SSG में रहा और 2023 में रिटायर होने के बाद लश्कर में शामिल हुआ. मारा गया पहलगाम का गुनहगार लश्कर आतंकी हाशिम मूसा, पाकिस्तान सेना का रिटायर्ड SSG कमांडो था।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस के Gen Z-Alpha क्यों उतरे सड़कों पर? पुलिस ने भगाने के लिए छोड़े आंसू गैस के गोले, 400",
+      "url": "https://hindi.news18.com/world/europe-france-school-students-protest-400-arrested-after-attacking-police-ws-l-10875274.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-30T09:37:30+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/france-protest-2026-09-bbc921c6ed42476bdfaaf03bcfa47480-1200x800.jpg",
+      "summary": "France Students Protest: स्कूलों की बदहाली का मुद्दा सिर्फ भारत ही नहीं यूरोपीय देशों में भी उठ रहा है. यहां छात्रों ने इसी मुद्दे को लेकर व्यापक प्रदर्शन किया, जिसके बाद 400 छात्रों की गिरफ्तारी हुई है. पुलिस ने भीड़ तितर-बितर करने के लिए आंसू गैस के गोले भी छोड़े. फ्रांस के Gen Z-Alpha क्यों उतरे सड़कों पर? पुलिस ने भगाने के लिए छोड़े आंसू गैस के गोले, 400।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्रांस के Gen Z-Alpha क्यों उतरे सड़कों पर? पुलिस ने भगाने के लिए छोड़े आंसू गैस के गोले, 400",
+          "summary": "France Students Protest: स्कूलों की बदहाली का मुद्दा सिर्फ भारत ही नहीं यूरोपीय देशों में भी उठ रहा है. यहां छात्रों ने इसी मुद्दे को लेकर व्यापक प्रदर्शन किया, जिसके बाद 400 छात्रों की गिरफ्तारी हुई है. पुलिस ने भीड़ तितर-बितर करने के लिए आंसू गैस के गोले भी छोड़े. फ्रांस के Gen Z-Alpha क्यों उतरे सड़कों पर? पुलिस ने भगाने के लिए छोड़े आंसू गैस के गोले, 400।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "वो इजरायली थे, जो चाकूबाज से भिड़ गए... वरना हाईजैक छोड़ो, 33000 फीट से मैक 0.82 की स्पीड क्रैश",
@@ -339,24 +393,6 @@
         "hi": {
           "title": "सोमालिया से MT Honour-25 बरामद, समुद्री डकैतों के हमले में भारतीय कुक तनवीरुज की मौत, परिजनों ने",
           "summary": "सोमालिया से MT Honour-25 बरामद कर ल‍िया गया है. हालांक‍ि इस जहाज पर तैनात भारतीय कुक तनवीरुज की मौत की खबर आ रही है. परिवार ने शव वापसी की मांग की है. जबक‍ि विदेश मंत्रालय और केन्या स्थित भारतीय उच्चायोग इसकी पुष्टि कर रहे हैं. सोमालिया से MT Honour-25 बरामद, समुद्री डकैतों के हमले में भारतीय कुक तनवीरुज की मौत, परिजनों ने।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दुबई-तेल अवीव फ्लाइट ने उड़ान भरने के कुछ ही देर बाद भेजा इमरजेंसी अलर्ट, सऊदी अरब में हुआ लैंड",
-      "url": "https://www.patrika.com/world-news/dubai-tel-aviv-flydubai-flight-hijack-alert-7500-squawk-code-20947839",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-30T08:29:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/6188347502268977639-1.webp",
-      "summary": "Dubai Tel Aviv Flight: दुबई से तेल अवीव जा रही फ्लाईदुबई की एक यात्री फ्लाइट ने बुधवार को सऊदी अरब के ऊपर उड़ान भरते समय पहले इमरजेंसी कोड 7700 और कुछ देर बाद 7500 स्क्वॉक कोड प्रसारित किया। 7500 कोड का इस्तेमाल आमतौर पर विमान के हाईजैक या गैरकानूनी हस्तक्षेप की स्थिति में किया जाता है। इसके बाद विमान ने अपना रास्ता बदलना शुरू कर दिया, जिससे फ्लाइट को लेकर हाईजैक की आशंका पैदा हो गई।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुबई-तेल अवीव फ्लाइट ने उड़ान भरने के कुछ ही देर बाद भेजा इमरजेंसी अलर्ट, सऊदी अरब में हुआ लैंड",
-          "summary": "Dubai Tel Aviv Flight: दुबई से तेल अवीव जा रही फ्लाईदुबई की एक यात्री फ्लाइट ने बुधवार को सऊदी अरब के ऊपर उड़ान भरते समय पहले इमरजेंसी कोड 7700 और कुछ देर बाद 7500 स्क्वॉक कोड प्रसारित किया। 7500 कोड का इस्तेमाल आमतौर पर विमान के हाईजैक या गैरकानूनी हस्तक्षेप की स्थिति में किया जाता है। इसके बाद विमान ने अपना रास्ता बदलना शुरू कर दिया, जिससे फ्लाइट को लेकर हाईजैक की आशंका पैदा हो गई।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -416,24 +452,6 @@
       }
     },
     {
-      "title": "एक्ट्रेस ने एआई कंपनी से मांगा सात हजार करोड़ का हर्जाना, मिला गजब का जवाब; क्या है पूरा मामला?",
-      "url": "https://www.amarujala.com/entertainment/bollywood/urvashi-rautela-team-accused-company-of-using-her-name-photos-and-videos-without-permission-2026-09-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-30T07:27:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/uravasha-ratal_33151cbc32d24331c5cd533af8b36b8d.jpeg?w=1200&dpr=1.0",
-      "summary": "बॉलीवुड सेलेब्स अपने पर्सनेलिटी राईट्स को रिजर्व करवा रहे हैं। इसी बीच उर्वशी रौतेला ने अमेरिका की एक एआई कंपनी पर अपनी फोटोज और वीडियो का उपयोग करने पर कानूनी कार्रवाई की है। जानें क्या है मामला? एक्ट्रेस ने एआई कंपनी से मांगा सात हजार करोड़ का हर्जाना, मिला गजब का जवाब; क्या है पूरा मामला?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक्ट्रेस ने एआई कंपनी से मांगा सात हजार करोड़ का हर्जाना, मिला गजब का जवाब; क्या है पूरा मामला?",
-          "summary": "बॉलीवुड सेलेब्स अपने पर्सनेलिटी राईट्स को रिजर्व करवा रहे हैं। इसी बीच उर्वशी रौतेला ने अमेरिका की एक एआई कंपनी पर अपनी फोटोज और वीडियो का उपयोग करने पर कानूनी कार्रवाई की है। जानें क्या है मामला? एक्ट्रेस ने एआई कंपनी से मांगा सात हजार करोड़ का हर्जाना, मिला गजब का जवाब; क्या है पूरा मामला?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
       "title": "'जान की परवाह नहीं, किस्मत में जो होगा...' शेख हसीना ने दिसंबर 2026 में बांग्लादेश लौटने का किया",
       "url": "https://hindi.news18.com/news/nation/not-worried-for-life-sheikh-hasina-announces-return-to-bangladesh-in-december-2026-10874855.html",
       "source": "News18 Hindi (World)",
@@ -448,24 +466,6 @@
           "title": "'जान की परवाह नहीं, किस्मत में जो होगा...' शेख हसीना ने दिसंबर 2026 में बांग्लादेश लौटने का किया",
           "summary": "Sheikh Hasina News: शेख हसीना ने तमाम कानूनी पेचीदगियों और भारी जोखिमों के बीच अपने वतन वापसी का बड़ा ऐलान किया है. अगस्त 2024 से भारत में निर्वासित जीवन बिता रहीं हसीना ने दोहराया है कि वह दिसंबर 2026 में हर हाल में बांग्लादेश लौटेंगी. उन्होंने स्पष्ट किया कि उन्हें अपनी जान या व्यक्तिगत सुरक्षा की कोई फिक्र नहीं है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'प्री SIR वोटर लिस्ट मांगें, EVM के बजाय...', इंडिया गठबंधन के नेताओं से बोले खरगे",
-      "url": "https://www.abplive.com/news/india/india-bloc-meeting-mallikarjun-kharge-cec-gyanesh-kumar-evm-ballot-paper-sir-electoral-roll-3195770",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T07:13:53+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/0f83d8a79d8eca893595ec1081d43de71790752717926425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "NDIA गठबंधन की बैठक में कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने चुनाव आयोग और चुनाव प्रक्रिया को लेकर विपक्षी दलों के सामने कई मांगें रखीं. खरगे ने कहा कि विपक्षी दलों को भविष्य के चुनावों के लिए SIR से पहले की मतदाता सूची इस्तेमाल करने की मांग करनी चाहिए. उन्होंने EVM की जगह बैलेट पेपर से मतदान कराने की मांग उठाने की भी बात कही.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'प्री SIR वोटर लिस्ट मांगें, EVM के बजाय...', इंडिया गठबंधन के नेताओं से बोले खरगे",
-          "summary": "NDIA गठबंधन की बैठक में कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने चुनाव आयोग और चुनाव प्रक्रिया को लेकर विपक्षी दलों के सामने कई मांगें रखीं. खरगे ने कहा कि विपक्षी दलों को भविष्य के चुनावों के लिए SIR से पहले की मतदाता सूची इस्तेमाल करने की मांग करनी चाहिए. उन्होंने EVM की जगह बैलेट पेपर से मतदान कराने की मांग उठाने की भी बात कही.",
-          "region": "दुनिया"
         }
       }
     },
@@ -506,168 +506,6 @@
       }
     },
     {
-      "title": "फ्लाइट हाईजैक की कोशिश? पायलट ने भेजा सिग्नल, आखिर कहां लैंड हुआ विमान?",
-      "url": "https://www.abplive.com/news/world/flight-hijack-attempted-pilot-sent-a-signal-landed-in-dubai-3195759",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:57:58+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/723256127d824e82b8d9aff5bc929a631790752585515355_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दुबई से तेल अवीव जा रही एक फ्लाइट ने सऊदी अरब के ऊपर से वापसी की है. फ्लाइट ने हाइजैकिंग की कोशिश से जुड़ा मामला सामने आया है. इमरजेंसी कोड जारी किया और डिस्ट्रेस सिग्नल भेजा. इस मुद्दे को लेकर इजरायल के पीएम नेतन्याहू और इजरायल के रक्षा मंत्री ने इमरजेंसी बैठक बुलाई है. बताया जा रहा है कि FZ1073 ने 7700 (सामान्य आपातकाल) का सिग्नल दिया, लेकिन कुछ देर बाद इसे 7500 (गैर-कानूनी दखल) में बदल दिया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्लाइट हाईजैक की कोशिश? पायलट ने भेजा सिग्नल, आखिर कहां लैंड हुआ विमान?",
-          "summary": "दुबई से तेल अवीव जा रही एक फ्लाइट ने सऊदी अरब के ऊपर से वापसी की है. फ्लाइट ने हाइजैकिंग की कोशिश से जुड़ा मामला सामने आया है. इमरजेंसी कोड जारी किया और डिस्ट्रेस सिग्नल भेजा. इस मुद्दे को लेकर इजरायल के पीएम नेतन्याहू और इजरायल के रक्षा मंत्री ने इमरजेंसी बैठक बुलाई है. बताया जा रहा है कि FZ1073 ने 7700 (सामान्य आपातकाल) का सिग्नल दिया, लेकिन कुछ देर बाद इसे 7500 (गैर-कानूनी दखल) में बदल दिया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "AI से SI, नाम बदलने से नहीं टलेगा सुपर इंटेलिजेंस का खतरा, जानिए असली चुनौतियां",
-      "url": "https://www.abplive.com/news/india/explained-from-ai-to-si-why-renaming-won-t-eliminate-the-threat-of-super-intelligence-real-challenges-ahead-3195742",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:55:13+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/9af99e69bd3c6c409bc2edc3d85c067d1790750673415130_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप द्वारा टेक दिग्गजों जैसे गूगल, मेटा, ओपनएआई, एनवीडिया के साथ बैठक के बाद आर्टिफिशियल इंटेलिजेंस (AI) को \"सुपर इंटेलिजेंस\" (SI) के रूप में रीब्रांड करने की घोषणा ने एक नई वैश्विक बहस को जन्म दे दिया है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "AI से SI, नाम बदलने से नहीं टलेगा सुपर इंटेलिजेंस का खतरा, जानिए असली चुनौतियां",
-          "summary": "अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप द्वारा टेक दिग्गजों जैसे गूगल, मेटा, ओपनएआई, एनवीडिया के साथ बैठक के बाद आर्टिफिशियल इंटेलिजेंस (AI) को \"सुपर इंटेलिजेंस\" (SI) के रूप में रीब्रांड करने की घोषणा ने एक नई वैश्विक बहस को जन्म दे दिया है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'पीएम मोदी ने मुझसे कहा था मेरे जाने के बाद आप...', राहुल का दावा सरकार ने किया खारिज",
-      "url": "https://www.abplive.com/news/india/rahul-gandhi-cwc-meeting-pm-modi-dissent-note-claim-3195750",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:46:49+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/469312054719bc1c83297305097ad5ca17907507364391115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस की CWC बैठक के बाद राहुल गांधी के एक कथित बयान को लेकर विवाद शुरू हो गया है. राहुल गांधी ने बैठक में चुनाव आयुक्तों की नियुक्ति को लेकर अपने पुराने डिसेंट नोट का जिक्र किया. इसी दौरान प्रधानमंत्री नरेंद्र मोदी से हुई कथित बातचीत का भी हवाला दिया गया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'पीएम मोदी ने मुझसे कहा था मेरे जाने के बाद आप...', राहुल का दावा सरकार ने किया खारिज",
-          "summary": "कांग्रेस की CWC बैठक के बाद राहुल गांधी के एक कथित बयान को लेकर विवाद शुरू हो गया है. राहुल गांधी ने बैठक में चुनाव आयुक्तों की नियुक्ति को लेकर अपने पुराने डिसेंट नोट का जिक्र किया. इसी दौरान प्रधानमंत्री नरेंद्र मोदी से हुई कथित बातचीत का भी हवाला दिया गया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "18 साल से कम उम्र के लोगों के लिए सोशल मीडिया पर बैन लगाएगी सरकार? जानिए सच्चाई",
-      "url": "https://www.abplive.com/news/india/under-18-social-media-ban-reports-fake-government-supreme-court-online-safety-minors-3195746",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:44:06+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/84ca0272d778b25dbf8410adf66e21f91790750863554425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "18 साल से कम उम्र के लोगों के सोशल मीडिया इस्तेमाल पर रोक लगाने की तैयारी की खबरों को केंद्र सरकार ने खारिज कर दिया है. बुधवार को सरकारी सूत्रों ने इन खबरों को ‘फर्जी और बिना आधार’ बताया. यह सफाई ऐसे समय आई है, जब सुप्रीम कोर्ट ने सोमवार को केंद्र सरकार से नाबालिगों के सोशल मीडिया इस्तेमाल से जुड़े मौजूदा नियमों को कानूनी यानी वैधानिक ढांचे में लाने की संभावना पर विचार करने को कहा था.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "18 साल से कम उम्र के लोगों के लिए सोशल मीडिया पर बैन लगाएगी सरकार? जानिए सच्चाई",
-          "summary": "18 साल से कम उम्र के लोगों के सोशल मीडिया इस्तेमाल पर रोक लगाने की तैयारी की खबरों को केंद्र सरकार ने खारिज कर दिया है. बुधवार को सरकारी सूत्रों ने इन खबरों को ‘फर्जी और बिना आधार’ बताया. यह सफाई ऐसे समय आई है, जब सुप्रीम कोर्ट ने सोमवार को केंद्र सरकार से नाबालिगों के सोशल मीडिया इस्तेमाल से जुड़े मौजूदा नियमों को कानूनी यानी वैधानिक ढांचे में लाने की संभावना पर विचार करने को कहा था.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दवा की कीमत तय होने से लूट तक पूरा खेल! सुप्रीम कोर्ट के फैसले के बाद क्या बदलेगा?",
-      "url": "https://www.abplive.com/news/india/supreme-court-slams-medicine-pricing-16-above-price-cap-over-retailer-costs-bjp-government-health-update-cancer-explained-3195738",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:32:22+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/bf490447086994440aa41dae79c2834717907498016201317_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सुप्रीम कोर्ट ने 29 सितंबर 2026 को दवा कंपनियों और अस्पतालों की मुनाफाखोरी पर सीधा सवाल उठाया है. जस्टिस विक्रम नाथ और जस्टिस संदीप मेहता की बेंच ने कहा कि जब एक कैंसर की दवा खुदरा विक्रेता को 2,700 रुपए में दी जाती है, लेकिन मरीज से 27,000 रुपए वसूले जाते हैं, तो यह सिर्फ मुनाफा नहीं, 'कत्लेआम' है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दवा की कीमत तय होने से लूट तक पूरा खेल! सुप्रीम कोर्ट के फैसले के बाद क्या बदलेगा?",
-          "summary": "सुप्रीम कोर्ट ने 29 सितंबर 2026 को दवा कंपनियों और अस्पतालों की मुनाफाखोरी पर सीधा सवाल उठाया है. जस्टिस विक्रम नाथ और जस्टिस संदीप मेहता की बेंच ने कहा कि जब एक कैंसर की दवा खुदरा विक्रेता को 2,700 रुपए में दी जाती है, लेकिन मरीज से 27,000 रुपए वसूले जाते हैं, तो यह सिर्फ मुनाफा नहीं, 'कत्लेआम' है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "मोदी कैबिनेट देने जा रही किसानों को बड़ा तोहफा, बढ़ेगी इन 6 फसलों पर MSP",
-      "url": "https://www.abplive.com/news/india/modi-govt-big-gift-to-farmers-msp-increase-6-crops-3195730",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:27:15+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/d07347dd6b602780c0f860223fd8315317907510329051200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केंद्र सरकार किसानों को बड़ा तोहफा देने जा रही है. मोदी कैबिनेट की बुधवार (30 सितंबर) को होने वाली बैठक में किसानों के लिए बड़ा ऐलान हो सकता है. सूत्रों से मिली जानकारी के मुताबिक कैबिनेट की बैठक में आज रबी फसलों की MSP बढ़ाने पर मुहर लग सकती है. कैबिनेट बैठक में गेहूं, चना, सरसों, जौ समेत 6 रबी फसलों की MSP बढ़ाने पर आज मुहर लग सकती है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मोदी कैबिनेट देने जा रही किसानों को बड़ा तोहफा, बढ़ेगी इन 6 फसलों पर MSP",
-          "summary": "केंद्र सरकार किसानों को बड़ा तोहफा देने जा रही है. मोदी कैबिनेट की बुधवार (30 सितंबर) को होने वाली बैठक में किसानों के लिए बड़ा ऐलान हो सकता है. सूत्रों से मिली जानकारी के मुताबिक कैबिनेट की बैठक में आज रबी फसलों की MSP बढ़ाने पर मुहर लग सकती है. कैबिनेट बैठक में गेहूं, चना, सरसों, जौ समेत 6 रबी फसलों की MSP बढ़ाने पर आज मुहर लग सकती है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "INDIA की बैठक में नहीं पहुंचे अखिलेश, BJP बोली- 'राहुल गांधी तो...'",
-      "url": "https://www.abplive.com/news/india/bjp-pradeep-bhandari-target-rahul-gandhi-and-akhilesh-yadav-over-up-assembly-elections-2027-3195706",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:26:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/cb27d1192ff8d35831c4509898faf81517907483964341200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "यूपी विधानसभा चुनाव 2027 को लेकर तैयारियां तेज हो गई हैं. सभी पार्टियों ने अभी से अपनी कमर कसनी शुरू कर दी है. इसी के मद्देनजर यूपी में इंडिया गठबंधन (सपा-कांग्रेस) को लेकर बीजेपी हमलावर है. बैठक में समाजवादी पार्टी के शामिल न होने को लेकर बीजेपी प्रवक्ता प्रदीप भंडारी ने तंज कसा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "INDIA की बैठक में नहीं पहुंचे अखिलेश, BJP बोली- 'राहुल गांधी तो...'",
-          "summary": "यूपी विधानसभा चुनाव 2027 को लेकर तैयारियां तेज हो गई हैं. सभी पार्टियों ने अभी से अपनी कमर कसनी शुरू कर दी है. इसी के मद्देनजर यूपी में इंडिया गठबंधन (सपा-कांग्रेस) को लेकर बीजेपी हमलावर है. बैठक में समाजवादी पार्टी के शामिल न होने को लेकर बीजेपी प्रवक्ता प्रदीप भंडारी ने तंज कसा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इंडिया गठबंधन की बैठक में कौन कौन हुआ शामिल? कांग्रेस ने दी पूरी लिस्ट",
-      "url": "https://www.abplive.com/news/india/india-alliance-meeting-who-attended-it-congress-gave-full-list-3195726",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:23:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/6d5eed5c548e5662bece565cc10aba8b1790750048355355_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "विपक्ष के INDIA गठबंधन की बैठक शुरू हो गई है. चुनाव आयुक्त ज्ञानेश कुमार और एसआईआर को छिड़े विवाद के बाद गठबंधन की बैठकें हो रही हैं. इसके एजेंडे में चुनाव आयोग और उससे जुड़े विवाद हैं. चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग उठ रही है. इसी बीच कांग्रेस नेता ने पोस्ट शेयर करके बताया है कि INDIA गठबंधन की बैठक में कौन-कौन सी पार्टी शामिल हुई हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इंडिया गठबंधन की बैठक में कौन कौन हुआ शामिल? कांग्रेस ने दी पूरी लिस्ट",
-          "summary": "विपक्ष के INDIA गठबंधन की बैठक शुरू हो गई है. चुनाव आयुक्त ज्ञानेश कुमार और एसआईआर को छिड़े विवाद के बाद गठबंधन की बैठकें हो रही हैं. इसके एजेंडे में चुनाव आयोग और उससे जुड़े विवाद हैं. चुनाव आयुक्त ज्ञानेश कुमार के इस्तीफे की मांग उठ रही है. इसी बीच कांग्रेस नेता ने पोस्ट शेयर करके बताया है कि INDIA गठबंधन की बैठक में कौन-कौन सी पार्टी शामिल हुई हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ECINET से हटाया Form 6 का डिक्लेरेशन फॉर्म, क्यों चुनाव आयोग ने किया बड़ा फैसला",
-      "url": "https://www.abplive.com/news/india/election-commission-removes-sir-declaration-form-6-ecinet-sukhbir-singh-sandhu-vivek-joshi-3195711",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-30T06:22:50+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/30/d0b45a72da5433fd3e5ce66385619f2d1790748383974425_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "चुनाव आयोग ने SIR यानी विशेष गहन पुनरीक्षण से जुड़े Form 6 में जोड़े गए अतिरिक्त घोषणा पत्र को उन राज्यों में ECINET पोर्टल से हटा दिया है, जहां SIR की प्रक्रिया पूरी हो चुकी है. यह बदलाव 26 सितंबर को आयोग की ओर से की गई घोषणा के चार दिन बाद बुधवार रात किया गया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ECINET से हटाया Form 6 का डिक्लेरेशन फॉर्म, क्यों चुनाव आयोग ने किया बड़ा फैसला",
-          "summary": "चुनाव आयोग ने SIR यानी विशेष गहन पुनरीक्षण से जुड़े Form 6 में जोड़े गए अतिरिक्त घोषणा पत्र को उन राज्यों में ECINET पोर्टल से हटा दिया है, जहां SIR की प्रक्रिया पूरी हो चुकी है. यह बदलाव 26 सितंबर को आयोग की ओर से की गई घोषणा के चार दिन बाद बुधवार रात किया गया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "भारत-चीन मिलकर करेंगे धमाका, 'होटन रूट' पर मंथन, खुला तो निकल जाएगी पाकिस्तान की सारी अकड़",
       "url": "https://hindi.news18.com/world/south-asia-india-china-discussing-xinxiang-airspace-hotan-route-to-bypass-pakistan-why-it-is-setback-for-it-10874657.html",
       "source": "News18 Hindi (World)",
@@ -704,24 +542,6 @@
       }
     },
     {
-      "title": "चुनाव आयोग के खिलाफ विपक्ष लामबंद: इंडिया गठबंधन की बैठक शुरू, कौन-कौन से नेता हुए शामिल?",
-      "url": "https://www.amarujala.com/india-news/opposition-rallies-against-the-election-commission-india-bloc-meeting-leaders-rahul-and-mamata-to-attend-2026-09-30",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-09-30T05:53:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/idaya-blka-ka-bthaka_40e5259b27f3dbf2b0bc1f119915ea0e.jpeg?w=1200&dpr=1.0",
-      "summary": "चुनाव आयोग के खिलाफ विपक्ष लामबंद: थोड़ी देर में इंडिया गठबंधन की बैठक, राहुल-ममता समेत ये नेता हो रहे शामिल चुनाव आयोग के खिलाफ विपक्ष लामबंद: इंडिया गठबंधन की बैठक शुरू, कौन-कौन से नेता हुए शामिल?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चुनाव आयोग के खिलाफ विपक्ष लामबंद: इंडिया गठबंधन की बैठक शुरू, कौन-कौन से नेता हुए शामिल?",
-          "summary": "चुनाव आयोग के खिलाफ विपक्ष लामबंद: थोड़ी देर में इंडिया गठबंधन की बैठक, राहुल-ममता समेत ये नेता हो रहे शामिल चुनाव आयोग के खिलाफ विपक्ष लामबंद: इंडिया गठबंधन की बैठक शुरू, कौन-कौन से नेता हुए शामिल?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "अब प्रमुख देंगे इस्तीफा, हिंदू प्रतिनिधिमंडल के दौरे पर महिला स्टाफ को रोकने पर मचा था बवाल",
       "url": "https://www.amarujala.com/world/eiffel-tower-head-to-resign-uproar-ensued-after-female-staff-were-barred-during-a-hindu-delegation-s-visit-2026-09-30",
       "source": "Amar Ujala World",
@@ -754,6 +574,186 @@
           "title": "मोरक्को में रचा गया नया इतिहास: कौन हैं पहली महिला PM फातिमा मंसूरी, किन चुनौतियों का करना होगा",
           "summary": "Morocco First Woman PM: मोरक्को के इतिहास में पहली बार कोई महिला प्रधानमंत्री पद तक पहुंची है. फातिमा एज्जरा एल मंसूरी को मोरक्को की पहली महिला पीएम बनने का गौरव हासिल हुआ. फातिमा एज्जरा एल मंसूरी पेशे से वकील हैं. मोरक्को में रचा गया नया इतिहास: कौन हैं पहली महिला PM फातिमा मंसूरी, किन चुनौतियों का करना होगा।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "और पालो पाकिस्तानी... ल्यारी बनीं ब्रिटेन की सड़कें, सरेआम की गुंडागर्दी, गाली-गलौज और बजाए डंडे",
+      "url": "https://hindi.news18.com/world/britain-uk-shelton-pakistani-muslim-taxi-driver-thugs-fight-video-viral-beating-passenger-with-metal-rod-10874622.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-30T05:21:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/pakistan-britain-2026-09-b3f866c4a8a584d4e1b96330e10620e7-1200x800.jpg",
+      "summary": "Pakistani taxi drivers clashed on a street in Shelton, England, and a video of the fight spread on social media. The footage revived arguments about who fuels public disorder in Britain. Officials noted the incident alongside rising Muslim population figures in the country. Pakistani Taxi Drivers Fight in UK: ब्रिटेन के शेल्टन का एक वीडियो सोशल मीडिया पर वायरल हो रहा है और इसके साथ ही एक बार फिर से बहस छिड़ गई है इस देश में अशांति कौन फैला रहा है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "और पालो पाकिस्तानी... ल्यारी बनीं ब्रिटेन की सड़कें, सरेआम की गुंडागर्दी, गाली-गलौज और बजाए डंडे",
+          "summary": "Pakistani taxi drivers clashed on a street in Shelton, England, and a video of the fight spread on social media. The footage revived arguments about who fuels public disorder in Britain. Officials noted the incident alongside rising Muslim population figures in the country. Pakistani Taxi Drivers Fight in UK: ब्रिटेन के शेल्टन का एक वीडियो सोशल मीडिया पर वायरल हो रहा है और इसके साथ ही एक बार फिर से बहस छिड़ गई है इस देश में अशांति कौन फैला रहा है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "आर्टिफिशियल नहीं 'सुपर इंटेलिजेंस' कहो, ट्रंप ने बदल दिया AI का नाम, कहा- इसकी शक्तियां पहचानो",
+      "url": "https://hindi.news18.com/world/america-donald-trump-renames-artificial-intelligence-as-super-intelligence-calls-it-new-era-capabilities-10874303.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-30T03:33:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/donald-trump-1-2026-09-f174d8e10723d24108feb45cd6d99329-1200x800.jpg",
+      "summary": "Donald Trump calls AI Super Intelligence: अमेरिका के राष्ट्रपति ने एक बार फिर आर्टिफिशियल इंटेलिजेंस को लेकर अपना प्यार जताते हुए कहा कि ये भविष्य की क्षमताओं का आईना है. उन्होंने इसे आर्टिफिशियल नहीं सुपर इंटेलिजेंस कहकर नवाजा है. आर्टिफिशियल नहीं 'सुपर इंटेलिजेंस' कहो, ट्रंप ने बदल दिया AI का नाम, कहा- इसकी शक्तियां पहचानो।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आर्टिफिशियल नहीं 'सुपर इंटेलिजेंस' कहो, ट्रंप ने बदल दिया AI का नाम, कहा- इसकी शक्तियां पहचानो",
+          "summary": "Donald Trump calls AI Super Intelligence: अमेरिका के राष्ट्रपति ने एक बार फिर आर्टिफिशियल इंटेलिजेंस को लेकर अपना प्यार जताते हुए कहा कि ये भविष्य की क्षमताओं का आईना है. उन्होंने इसे आर्टिफिशियल नहीं सुपर इंटेलिजेंस कहकर नवाजा है. आर्टिफिशियल नहीं 'सुपर इंटेलिजेंस' कहो, ट्रंप ने बदल दिया AI का नाम, कहा- इसकी शक्तियां पहचानो।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान ने खाई सऊदी की 'रक्षा' की कसम, लेकिन कब? हूतियों का नाम सुनते ही कन्नी काट गए ख्वाजा आसिफ",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-vows-to-protect-saudi-arabia-against-houthis-khawaja-asif-statement-10874249.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-30T03:10:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Khawaja-Asif-2026-06-810e62874f5c79a36396060de0848403-1200x800.jpg",
+      "summary": "Pakistan Vows to Protect Saudi Arabia: यमन में हूतियों के साथ सऊदी अरब का जो संघर्ष चल रहा है, उसमें पाकिस्तान अब तक सीधे तौर पर नहीं घुसा है. हालांकि मक्का पैक्ट के तहत उसे सऊदी की ओर से लड़ना है, पर अब भी वो सिर्फ बातों से काम चला रहा है. पाकिस्तान ने खाई सऊदी की 'रक्षा' की कसम, लेकिन कब?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान ने खाई सऊदी की 'रक्षा' की कसम, लेकिन कब? हूतियों का नाम सुनते ही कन्नी काट गए ख्वाजा आसिफ",
+          "summary": "Pakistan Vows to Protect Saudi Arabia: यमन में हूतियों के साथ सऊदी अरब का जो संघर्ष चल रहा है, उसमें पाकिस्तान अब तक सीधे तौर पर नहीं घुसा है. हालांकि मक्का पैक्ट के तहत उसे सऊदी की ओर से लड़ना है, पर अब भी वो सिर्फ बातों से काम चला रहा है. पाकिस्तान ने खाई सऊदी की 'रक्षा' की कसम, लेकिन कब?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "एआई की मनमानी पर लगेगा ब्रेक: ट्रंप के साथ टेक दिग्गजों ने किया मंथन, कितने स्तर पर होगी सुरक्षा",
+      "url": "https://www.amarujala.com/world/reining-in-ai-unchecked-run-tech-giants-hold-talks-with-trump-at-how-many-levels-safety-monitoring-take-place-2026-09-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-30T02:23:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/eaaii-ka-rafatara-ka-satha-sarakashha-bha-haga-sakhata_6dd71eccbd63eeafbf43e7d2aa5b5064.jpeg?w=1200&dpr=1.0",
+      "summary": "Reining in AI unchecked run Tech giants hold talks with Trump at how many levels safety monitoring take place एआई की मनमानी पर लगेगा ब्रेक: ट्रंप के साथ टेक दिग्गजों ने किया मंथन, कितने स्तर पर होगी सुरक्षा।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एआई की मनमानी पर लगेगा ब्रेक: ट्रंप के साथ टेक दिग्गजों ने किया मंथन, कितने स्तर पर होगी सुरक्षा",
+          "summary": "Reining in AI unchecked run Tech giants hold talks with Trump at how many levels safety monitoring take place एआई की मनमानी पर लगेगा ब्रेक: ट्रंप के साथ टेक दिग्गजों ने किया मंथन, कितने स्तर पर होगी सुरक्षा।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "सुंदर पिचाई को ट्रंप ने कहा मॉन्स्टर, फिर गूगल के CEO की जमकर की तारीफ, वीड‍ियो वायरल",
+      "url": "https://hindi.news18.com/world/america-us-president-donald-trump-called-sundar-pichai-a-monster-and-praised-him-in-viral-video-ws-l-10874257.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-30T02:19:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/trump-pariases-sundar-pichai-2026-09-2bd1dc188dbcd923850ca85e00033790-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने गूगल के सीईओ सुंदर पिचाई की तारीफ करते हुए उन्‍हें 'मॉन्स्टर' कहा. ट्रंप ने प‍िचाई की जमकर तारीफ की और उन्‍हें 'ग्रेट गाय' बताया, जिस पर पिचाई मुस्कुराए और हाथ जोड़ते द‍िखाई द‍िए. ट्रंप का ये वीड‍ियो काफी वायरल हो रहा है. सुंदर पिचाई को ट्रंप ने कहा मॉन्स्टर, फिर गूगल के CEO की जमकर की तारीफ, वीड‍ियो वायरल।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुंदर पिचाई को ट्रंप ने कहा मॉन्स्टर, फिर गूगल के CEO की जमकर की तारीफ, वीड‍ियो वायरल",
+          "summary": "डोनाल्ड ट्रंप ने गूगल के सीईओ सुंदर पिचाई की तारीफ करते हुए उन्‍हें 'मॉन्स्टर' कहा. ट्रंप ने प‍िचाई की जमकर तारीफ की और उन्‍हें 'ग्रेट गाय' बताया, जिस पर पिचाई मुस्कुराए और हाथ जोड़ते द‍िखाई द‍िए. ट्रंप का ये वीड‍ियो काफी वायरल हो रहा है. सुंदर पिचाई को ट्रंप ने कहा मॉन्स्टर, फिर गूगल के CEO की जमकर की तारीफ, वीड‍ियो वायरल।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "यूरोप के भ्रष्टाचार रोधी संगठन GRECO से अमेरिका बाहर, रूस-बेलारूस समेत कितने देश अलग?",
+      "url": "https://www.amarujala.com/world/us-withdraws-from-european-anti-corruption-watchdog-greco-under-trump-administration-2026-09-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-30T02:11:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/tarapa-parashasana-ka-fasal_4b20265897691d9c9cc7c8f966101aff.jpeg?w=1200&dpr=1.0",
+      "summary": "ट्रंप प्रशासन का फैसला: यूरोप के भ्रष्टाचार रोधी संगठन GRECO से अमेरिका बाहर, रूस-बेलारूस समेत कितने देश अलग?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूरोप के भ्रष्टाचार रोधी संगठन GRECO से अमेरिका बाहर, रूस-बेलारूस समेत कितने देश अलग?",
+          "summary": "ट्रंप प्रशासन का फैसला: यूरोप के भ्रष्टाचार रोधी संगठन GRECO से अमेरिका बाहर, रूस-बेलारूस समेत कितने देश अलग?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "‘सऊदी अरब पर हमला हुआ तो उपलब्ध हर हथियार से देंगे जवाब’, पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ का",
+      "url": "https://www.patrika.com/world-news/pakistan-vows-to-defend-saudi-arabia-against-houthis-under-defence-pact-khawaja-asif-20947058",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-30T01:52:09+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/khawaja-asif.webp",
+      "summary": "Pakistan Defend Saudi Arabia Houthis Khawaja Asif: पश्चिम एशिया में बढ़ते सैन्य तनाव के बीच पाकिस्तान ने ईरान समर्थित हूती विद्रोहियों के खिलाफ सऊदी अरब को सैन्य मदद देने का खुला संकेत दिया है। पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ ने मंगलवार को कहा कि सऊदी अरब की सुरक्षा और रक्षा के लिए पाकिस्तान अपने सभी उपलब्ध संसाधनों का इस्तेमाल करेगा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘सऊदी अरब पर हमला हुआ तो उपलब्ध हर हथियार से देंगे जवाब’, पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ का",
+          "summary": "Pakistan Defend Saudi Arabia Houthis Khawaja Asif: पश्चिम एशिया में बढ़ते सैन्य तनाव के बीच पाकिस्तान ने ईरान समर्थित हूती विद्रोहियों के खिलाफ सऊदी अरब को सैन्य मदद देने का खुला संकेत दिया है। पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ ने मंगलवार को कहा कि सऊदी अरब की सुरक्षा और रक्षा के लिए पाकिस्तान अपने सभी उपलब्ध संसाधनों का इस्तेमाल करेगा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "एफबीआई के हजारों कर्मियों का निजी डाटा चोरी: एजेंटों की सुरक्षा पर भी मंडराया खतरा; कैसे लगी इतनी",
+      "url": "https://www.amarujala.com/world/fbi-thousands-employees-private-data-stolen-agent-security-threat-how-major-breach-happened-2026-09-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-30T01:49:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/cyber-attack_edb91179aff48f9b87f945cf82742ab2.jpeg?w=1200&dpr=1.0",
+      "summary": "बड़ी सेंध? एफबीआई के हजारों कर्मियों का निजी डाटा चोरी: एजेंटों की सुरक्षा पर भी मंडराया खतरा; कैसे लगी इतनी बड़ी सेंध?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एफबीआई के हजारों कर्मियों का निजी डाटा चोरी: एजेंटों की सुरक्षा पर भी मंडराया खतरा; कैसे लगी इतनी",
+          "summary": "बड़ी सेंध? एफबीआई के हजारों कर्मियों का निजी डाटा चोरी: एजेंटों की सुरक्षा पर भी मंडराया खतरा; कैसे लगी इतनी बड़ी सेंध?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चीन की EU को दो टूक: चीनी कंपनियों या उत्पादों पर प्रतिबंध लगाया तो देंगे करारा जवाब, कहा-",
+      "url": "https://www.patrika.com/world-news/china-warns-eu-resolute-response-over-restrictions-on-chinese-firms-20947043",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-30T01:20:11+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Xi-Jinping-1.webp",
+      "summary": "China EU Trade: यूरोपीय संघ (EU) की ओर से चीनी कंपनियों और उत्पादों पर संभावित प्रतिबंधों को लेकर चीन ने कड़ा रुख अपनाया है। चीन के वाणिज्य मंत्रालय ने चेतावनी दी है कि अगर यूरोपीय संघ ने चीनी कंपनियों या उत्पादों के खिलाफ प्रतिबंधात्मक कदम उठाए तो चीन अपने उद्योगों के हितों की रक्षा के लिए दृढ़ और निर्णायक जवाब देगा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन की EU को दो टूक: चीनी कंपनियों या उत्पादों पर प्रतिबंध लगाया तो देंगे करारा जवाब, कहा-",
+          "summary": "China EU Trade: यूरोपीय संघ (EU) की ओर से चीनी कंपनियों और उत्पादों पर संभावित प्रतिबंधों को लेकर चीन ने कड़ा रुख अपनाया है। चीन के वाणिज्य मंत्रालय ने चेतावनी दी है कि अगर यूरोपीय संघ ने चीनी कंपनियों या उत्पादों के खिलाफ प्रतिबंधात्मक कदम उठाए तो चीन अपने उद्योगों के हितों की रक्षा के लिए दृढ़ और निर्णायक जवाब देगा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "बच्चों की पढ़ाई सुधारने का क्या है आसान फॉर्मूला?: विशेषज्ञों ने बताए 30 उपाय, छोटे समूह पर जोर",
+      "url": "https://www.amarujala.com/world/us-students-reading-comprehension-decline-83-percent-school-districts-concern-causes-2026-09-30",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-09-30T00:12:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/chhatara_a9afc4743f224da3103d8dea83c5a712.jpeg?w=1200&dpr=1.0",
+      "summary": "बच्चों की पढ़ाई सुधारने का क्या है आसान फॉर्मूला?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बच्चों की पढ़ाई सुधारने का क्या है आसान फॉर्मूला?: विशेषज्ञों ने बताए 30 उपाय, छोटे समूह पर जोर",
+          "summary": "बच्चों की पढ़ाई सुधारने का क्या है आसान फॉर्मूला?",
+          "region": "दुनिया"
         }
       }
     }
