@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-30T15:16:27.640778+00:00",
+  "generated_at": "2026-09-30T16:17:15.924907+00:00",
   "article_count": 50,
-  "total_unique_count": 266,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Middle East & Africa leads the board this hour with South African leader urges men to speak up on gender-based violence after series of killings. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर मध्य पूर्व और अफ्रीका की अगुवाई है, हाईजैक कांड पर नेतन्याहू का पहला रिएक्शन, बताया कॉकपिट में कैसे कंट्रोल हुए हालात, किसे कहा मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Americas leads the board this hour with Trump administration diverts human rights funds to push far-right agenda abroad. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "इस घंटे बोर्ड पर यूरोप और रूस की अगुवाई है, समुद्र पार करते समय 31 से ज्यादा लोगों की मौत, 5 साल बाद आया कोर्ट का बड़ा फैसला मुख्य खबर है। साथ ही एशिया-प्रशांत से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
   },
   "articles": [
+    {
+      "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-09-30T15:59:32+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/41ac63906656f3420c997c8618d3b3a1a86a0811/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a84f03328fc999199aa48e0fdfe79cbe",
+      "summary": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a massive $40m grant for an anti-communism fund, support for a group advancing white Afrikaner.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "South African leader urges men to speak up on gender-based violence after series of killings",
       "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
@@ -14,7 +26,7 @@
       "sources": [],
       "published_at": "2026-09-30T14:16:33+00:00",
       "image_url": "https://i.guim.co.uk/img/media/7b920bba2f88d64872ad31a0ccd397a6ba405e89/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0546ecb3f5b07fc8ef57e4419b29e1c2",
-      "summary": "President announces measures amid anger at authorities over recent murders of womenSouth Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women.",
+      "summary": "President announces measures amid anger at authorities over recent murders of womenSouth Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unso.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -49,7 +61,7 @@
       "source": "The Guardian",
       "sources": [],
       "published_at": "2026-09-30T13:00:41+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/a2f186d6667b95e0fde8e41562795efd34b359ad/601_0_6014_4811/master/6014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9969e7072b60b254e98577043b42fc4",
+      "image_url": "https://i.guim.co.uk/img/media/7ce1cdc2fc28979a647765972ecf7471ecf599a7/318_0_4380_3506/master/4380.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cf21207f7885c781b58fab6c9891798",
       "summary": "Security service says academics should stop taking grants from and working with firm backed by China’s intelligence serviceMI5 China alert will send chill through UK’s cash-strapped universitiesChina’s intelligence service used a front company to pay grants to British universities and steal crucial research about technology projects, MI5 said on Wednesday in a rare public espionage warning. Britain MI5 issues spy alert to UK universities over Chinese front company stealing research.",
       "region": "Europe & Russia",
       "language": "en",
@@ -64,18 +76,6 @@
       "image_url": "https://i.guim.co.uk/img/media/3c9052fcf07ee901977375d6acb1fcaa1a4b9e02/423_0_4886_3911/master/4886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6af505d983d3959f1b07f1162f34f85",
       "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policyBurundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠Donald Trump’s hardline ⁠immigration ​policy. However, the authorities in Bujumbura, the country’s economic capital, said Burundi will only accept those not accused o Burundi agrees to receive ‘third-country’ migrant deportees from US.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Top Trump figures push to direct human rights funding to rightwing causes",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-09-30T12:00:42+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/41ac63906656f3420c997c8618d3b3a1a86a0811/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a84f03328fc999199aa48e0fdfe79cbe",
-      "summary": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rightsWith hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a massive $40m grant for an anti-communism fund, support for a group advancing white Afrikaner.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -308,6 +308,78 @@
       "translations": {}
     },
     {
+      "title": "समुद्र पार करते समय 31 से ज्यादा लोगों की मौत, 5 साल बाद आया कोर्ट का बड़ा फैसला",
+      "url": "https://www.patrika.com/world-news/english-channel-migrant-boat-deaths-france-court-verdict-2021-20949475",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-30T15:44:29+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/France-Court-Verdict-.webp",
+      "summary": "2021 Channel Accident: साल 2021 में एक दर्दनाक हादसे में 31 लोगों की मौत हो गई थी। इस मामले में फ्रांस की एक अदालत ने पांच साल बाद 6 लोगों को गैर-इरादतन हत्या का दोषी पाया है। यह हादसा फ्रांस से इंग्लैंड पहुंचने की कोशिश कर रहे प्रवासियों से जुड़ा अब तक का सबसे बड़ा और सबसे घातक हादसा माना गया। अदालत ने मामले में छह दोषियों को 6 से 10 साल तक की जेल की सजा सुनाई है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "समुद्र पार करते समय 31 से ज्यादा लोगों की मौत, 5 साल बाद आया कोर्ट का बड़ा फैसला",
+          "summary": "2021 Channel Accident: साल 2021 में एक दर्दनाक हादसे में 31 लोगों की मौत हो गई थी। इस मामले में फ्रांस की एक अदालत ने पांच साल बाद 6 लोगों को गैर-इरादतन हत्या का दोषी पाया है। यह हादसा फ्रांस से इंग्लैंड पहुंचने की कोशिश कर रहे प्रवासियों से जुड़ा अब तक का सबसे बड़ा और सबसे घातक हादसा माना गया। अदालत ने मामले में छह दोषियों को 6 से 10 साल तक की जेल की सजा सुनाई है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "पीयूष गोयल अमेरिका में, ठीक उसी वक्त हुई ट्रंप से पीएम मोदी की बात",
+      "url": "https://hindi.news18.com/news/nation/pm-modi-and-trump-talk-amid-india-america-trade-talk-piyush-goyal-in-us-10875916.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-30T15:33:42+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Trump-Praised-PM-Modi-2026-06-c1d0627135be994ab2991c4d1e51028d-1200x800.jpg",
+      "summary": "भारत-अमेरिका ट्रेड डील को लेकर केंद्रीय मंत्री पीयूष गोयल इस वक्त अमेरिका में हैं. इसी बीच पीएम मोदी और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की फोन पर बात हुई है. ये बातचीत इसलिए अहम है क्योंकि इसके ठीक बाद पीयूष गोयल, अमेरिकी ट्रेड अधिकारी जेमिसन ग्रीर से मिलेंगे और दोनों के बीच डील को लेकर फाइनल डिसीजन लिया जा सकता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीयूष गोयल अमेरिका में, ठीक उसी वक्त हुई ट्रंप से पीएम मोदी की बात",
+          "summary": "भारत-अमेरिका ट्रेड डील को लेकर केंद्रीय मंत्री पीयूष गोयल इस वक्त अमेरिका में हैं. इसी बीच पीएम मोदी और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की फोन पर बात हुई है. ये बातचीत इसलिए अहम है क्योंकि इसके ठीक बाद पीयूष गोयल, अमेरिकी ट्रेड अधिकारी जेमिसन ग्रीर से मिलेंगे और दोनों के बीच डील को लेकर फाइनल डिसीजन लिया जा सकता है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कौन हैं स्मित मचार, वह भारतीय जो ओमानी पायलट से भिड़ गए और रोक दी तेल अवीव वाले प्लेन की हाईजैकिंग",
+      "url": "https://hindi.news18.com/news/nation/who-is-smit-machchhar-the-indian-pilot-who-faced-omani-co-pilot-on-tel-aviv-dubai-flight-and-prevented-9-11-like-terror-attack-10875948.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-30T15:22:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Dubai-Plane-Hijack-2026-09-2d5c21f3a72b13d95981f1008fcc3433-1200x800.jpg",
+      "summary": "दुबई से तेल अवीव जा रही फ्लाईदुबई की फ्लाइट में अचानक ऐसा संकट आया कि करीब 180 यात्रियों की जान खतरे में पड़ गई. कॉकपिट में ओमानी को-पायलट ने फ्लाइट कैप्टन पर चाकू से हमला कर दिया था. हालांकि फिर इसी विमान में सादे कपड़ों में मौजूद स्मित हिम्मत दिखाते हुए आगे बढ़े और उस ओमानी पायलट भिड़ गए. उन्होंने विमान को कंट्रोल में लिया और फिर सऊदी अरब के तबुक एयरपोर्ट पर सुरक्षित लैंड करा दिया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कौन हैं स्मित मचार, वह भारतीय जो ओमानी पायलट से भिड़ गए और रोक दी तेल अवीव वाले प्लेन की हाईजैकिंग",
+          "summary": "दुबई से तेल अवीव जा रही फ्लाईदुबई की फ्लाइट में अचानक ऐसा संकट आया कि करीब 180 यात्रियों की जान खतरे में पड़ गई. कॉकपिट में ओमानी को-पायलट ने फ्लाइट कैप्टन पर चाकू से हमला कर दिया था. हालांकि फिर इसी विमान में सादे कपड़ों में मौजूद स्मित हिम्मत दिखाते हुए आगे बढ़े और उस ओमानी पायलट भिड़ गए. उन्होंने विमान को कंट्रोल में लिया और फिर सऊदी अरब के तबुक एयरपोर्ट पर सुरक्षित लैंड करा दिया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फिलिस्तीनी पत्रकार बना युद्ध का शिकार, इज़रायली ड्रोन हमले में हुई मौत",
+      "url": "https://www.patrika.com/world-news/palestinian-journalist-killed-in-israel-drone-attack-20949377",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-09-30T15:16:14+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/07/israeli-attacks-in-gaza.webp",
+      "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच चल रहे युद्ध की वजह से गाज़ा (Gaza) में हाहाकार मचा हुआ है! इज़रायली हमलों की वजह से गाज़ा में हर दिन जान-माल का नुकसान हो रहा है! इज़रायली सेना के निशाने पर हमास के आतंकी और इसके नेटवर्क से जुड़े लोग तो हैं ही, लेकिन सैन्य हमलों में निर्दोष नागरिक भी मारे जा रहे हैं!",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फिलिस्तीनी पत्रकार बना युद्ध का शिकार, इज़रायली ड्रोन हमले में हुई मौत",
+          "summary": "इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच चल रहे युद्ध की वजह से गाज़ा (Gaza) में हाहाकार मचा हुआ है! इज़रायली हमलों की वजह से गाज़ा में हर दिन जान-माल का नुकसान हो रहा है! इज़रायली सेना के निशाने पर हमास के आतंकी और इसके नेटवर्क से जुड़े लोग तो हैं ही, लेकिन सैन्य हमलों में निर्दोष नागरिक भी मारे जा रहे हैं!",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "हाईजैक कांड पर नेतन्याहू का पहला रिएक्शन, बताया कॉकपिट में कैसे कंट्रोल हुए हालात, किसे कहा",
       "url": "https://hindi.news18.com/world/middle-east-israel-pm-netanyahu-first-reaction-on-flydubai-plane-attack-reveals-how-heroes-controlled-cockpit-crisis-thanks-brave-passengers-10875964.html",
       "source": "News18 Hindi (World)",
@@ -326,38 +398,20 @@
       }
     },
     {
-      "title": "कौन हैं स्मित मचार, वह भारतीय जो ओमानी पायलट से भिड़ गए और रोक दी तेल अवीव वाले प्लेन की हाईजैकिंग",
-      "url": "https://hindi.news18.com/news/nation/who-is-smit-machchhar-the-indian-pilot-who-faced-omani-co-pilot-on-tel-aviv-dubai-flight-and-prevented-9-11-like-terror-attack-10875948.html",
-      "source": "News18 Hindi (World)",
+      "title": "Flydubai फ्लाइट को क्रैश करने की कोशिश का मामला, एक इजराइली यात्री से बात करने के बाद पीएम",
+      "url": "https://www.patrika.com/world-news/flydubai-flight-pilot-stabbed-emergency-landing-saudi-arabia-20949362",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-09-30T14:55:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Dubai-Plane-Hijack-2026-09-2d5c21f3a72b13d95981f1008fcc3433-1200x800.jpg",
-      "summary": "दुबई से तेल अवीव जा रही फ्लाईदुबई की फ्लाइट में अचानक ऐसा संकट आया कि करीब 180 यात्रियों की जान खतरे में पड़ गई. कॉकपिट में ओमानी को-पायलट ने फ्लाइट कैप्टन पर चाकू से हमला कर दिया था. हालांकि फिर इसी विमान में सादे कपड़ों में मौजूद स्मित हिम्मत दिखाते हुए आगे बढ़े और उस ओमानी पायलट भिड़ गए. उन्होंने विमान को कंट्रोल में लिया और फिर सऊदी अरब के तबुक एयरपोर्ट पर सुरक्षित लैंड करा दिया.",
+      "published_at": "2026-09-30T14:49:24+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/flydubainetanyahu.webp",
+      "summary": "Israel flight emergency landing: दुबई से तेल अवीव जा रही Flydubai की फ्लाइट FZ1073 बुधवार को अचानक बड़े संकट में फंस गई। दो पायलटों के बीच आसमान में हाथापाई होने लगी, जिसके बाद विमान को क्रैश कराने की कोशिश की गई। Flydubai फ्लाइट को क्रैश करने की कोशिश का मामला, एक इजराइली यात्री से बात करने के बाद पीएम।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कौन हैं स्मित मचार, वह भारतीय जो ओमानी पायलट से भिड़ गए और रोक दी तेल अवीव वाले प्लेन की हाईजैकिंग",
-          "summary": "दुबई से तेल अवीव जा रही फ्लाईदुबई की फ्लाइट में अचानक ऐसा संकट आया कि करीब 180 यात्रियों की जान खतरे में पड़ गई. कॉकपिट में ओमानी को-पायलट ने फ्लाइट कैप्टन पर चाकू से हमला कर दिया था. हालांकि फिर इसी विमान में सादे कपड़ों में मौजूद स्मित हिम्मत दिखाते हुए आगे बढ़े और उस ओमानी पायलट भिड़ गए. उन्होंने विमान को कंट्रोल में लिया और फिर सऊदी अरब के तबुक एयरपोर्ट पर सुरक्षित लैंड करा दिया.",
+          "title": "Flydubai फ्लाइट को क्रैश करने की कोशिश का मामला, एक इजराइली यात्री से बात करने के बाद पीएम",
+          "summary": "Israel flight emergency landing: दुबई से तेल अवीव जा रही Flydubai की फ्लाइट FZ1073 बुधवार को अचानक बड़े संकट में फंस गई। दो पायलटों के बीच आसमान में हाथापाई होने लगी, जिसके बाद विमान को क्रैश कराने की कोशिश की गई। Flydubai फ्लाइट को क्रैश करने की कोशिश का मामला, एक इजराइली यात्री से बात करने के बाद पीएम।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पीयूष गोयल अमेरिका में, ठीक उसी वक्त हुई ट्रंप से पीएम मोदी की बात",
-      "url": "https://hindi.news18.com/news/nation/pm-modi-and-trump-talk-amid-india-america-trade-talk-piyush-goyal-in-us-10875916.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-30T14:26:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Trump-Praised-PM-Modi-2026-06-c1d0627135be994ab2991c4d1e51028d-1200x800.jpg",
-      "summary": "पीयूष गोयल अमेरिका में, ठीक उसी वक्त हुई ट्रंप से पीएम मोदी की बात। भारत-अमेरिका ट्रेड डील को लेकर केंद्रीय मंत्री पीयूष गोयल इस वक्त अमेरिका में हैं. इसी बीच पीएम मोदी और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की फोन पर बात हुई है. ये बातचीत इसलिए अहम है क्योंकि इसके ठीक बाद पीयूष गोयल, अमेरिकी ट्रेड अधिकारी जेमिसन ग्रीर से मिलेंगे और दोनों के बीच डील को लेकर फाइनल डिसीजन लिया जा सकता है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीयूष गोयल अमेरिका में, ठीक उसी वक्त हुई ट्रंप से पीएम मोदी की बात",
-          "summary": "पीयूष गोयल अमेरिका में, ठीक उसी वक्त हुई ट्रंप से पीएम मोदी की बात। भारत-अमेरिका ट्रेड डील को लेकर केंद्रीय मंत्री पीयूष गोयल इस वक्त अमेरिका में हैं. इसी बीच पीएम मोदी और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की फोन पर बात हुई है. ये बातचीत इसलिए अहम है क्योंकि इसके ठीक बाद पीयूष गोयल, अमेरिकी ट्रेड अधिकारी जेमिसन ग्रीर से मिलेंगे और दोनों के बीच डील को लेकर फाइनल डिसीजन लिया जा सकता है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -700,60 +754,6 @@
           "title": "आसमान में प्लेन Hijack का Alert और इजरायल में मचा हड़कंप, फिर आया बड़ा Twist",
           "summary": "आसमान में प्लेन हाईजैक के अलर्ट से हड़कंप मच गया. दुबई से तेल अवीव जा रही फ्लाईदुबई की फ्लाइट से हाइजैक अलर्ट के बाद इजरायल ने फाइटर जेट्स भेज दिए. लेकिन बाद में सामने आया कि विमान हाइजैक नहीं हुआ था. कहानी कुछ और थी. हाईजैक की वजह पायलटों का झगड़ा था. आखिर क्या हुआ? देखें पूरी कहानी. आसमान में प्लेन Hijack का Alert और इजरायल में मचा हड़कंप, फिर आया बड़ा Twist।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मारा गया पहलगाम का गुनहगार लश्कर आतंकी हाशिम मूसा, पाकिस्तान सेना का रिटायर्ड SSG कमांडो था",
-      "url": "https://hindi.news18.com/world/pakistan-pahalgam-attack-mastermind-lashkar-terrorist-killed-in-budgam-hashim-moosa-was-retired-pak-army-commando-says-report-ws-l-10875358.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-30T10:06:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/terrorist-hashim-musa-2026-09-2ef35c21081d831adb4a1cf1b1f3695e-1200x800.jpg",
-      "summary": "बडगाम में मारा गया लश्कर-ए-तैयबा का आतंकी मोहम्मद आसिफ उर्फ हाशिम मूसा पाकिस्तान सेना का रिटायर्ड SSG कमांडो था. वह 23 साल तक SSG में रहा और 2023 में रिटायर होने के बाद लश्कर में शामिल हुआ. मारा गया पहलगाम का गुनहगार लश्कर आतंकी हाशिम मूसा, पाकिस्तान सेना का रिटायर्ड SSG कमांडो था।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मारा गया पहलगाम का गुनहगार लश्कर आतंकी हाशिम मूसा, पाकिस्तान सेना का रिटायर्ड SSG कमांडो था",
-          "summary": "बडगाम में मारा गया लश्कर-ए-तैयबा का आतंकी मोहम्मद आसिफ उर्फ हाशिम मूसा पाकिस्तान सेना का रिटायर्ड SSG कमांडो था. वह 23 साल तक SSG में रहा और 2023 में रिटायर होने के बाद लश्कर में शामिल हुआ. मारा गया पहलगाम का गुनहगार लश्कर आतंकी हाशिम मूसा, पाकिस्तान सेना का रिटायर्ड SSG कमांडो था।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "फ्लाइट को क्रैश करने जा रहा था पायलट, 30 हजार से 15 हजार फीट तक गिर चुका था प्लेन, यात्रियों ने",
-      "url": "https://www.patrika.com/world-news/flydubai-flight-pilots-tried-to-crash-plane-cockpit-plane-dive-israel-20948241",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-09-30T10:01:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/FlyDubai-flight.webp",
-      "summary": "FlyDubai Flight Emergency: दुबई से तेल अवीव (इजरायल) जा रही ‘फ्लाईदुबई’ की एक फ्लाइट FZ1073 ने बुधवार को सऊदी अरब के तबुक एयरपोर्ट पर सुरक्षित लैंडिंग की। लेकिन इससे पहले फ्लाइट ने हवा में इमरजेंसी कोड 7700 और फिर हाईजैक कोड 7500 भेजा। इससे हाइजैकिंग का डर पैदा हो गया और इजराइल को अपने फाइटर जेट्स भेजने पड़े। इस फ्लाइट में करीब 180 यात्रिय सवार थे।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्लाइट को क्रैश करने जा रहा था पायलट, 30 हजार से 15 हजार फीट तक गिर चुका था प्लेन, यात्रियों ने",
-          "summary": "FlyDubai Flight Emergency: दुबई से तेल अवीव (इजरायल) जा रही ‘फ्लाईदुबई’ की एक फ्लाइट FZ1073 ने बुधवार को सऊदी अरब के तबुक एयरपोर्ट पर सुरक्षित लैंडिंग की। लेकिन इससे पहले फ्लाइट ने हवा में इमरजेंसी कोड 7700 और फिर हाईजैक कोड 7500 भेजा। इससे हाइजैकिंग का डर पैदा हो गया और इजराइल को अपने फाइटर जेट्स भेजने पड़े। इस फ्लाइट में करीब 180 यात्रिय सवार थे।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "फ्रांस के Gen Z-Alpha क्यों उतरे सड़कों पर? पुलिस ने भगाने के लिए छोड़े आंसू गैस के गोले, 400",
-      "url": "https://hindi.news18.com/world/europe-france-school-students-protest-400-arrested-after-attacking-police-ws-l-10875274.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-30T09:37:30+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/france-protest-2026-09-bbc921c6ed42476bdfaaf03bcfa47480-1200x800.jpg",
-      "summary": "France Students Protest: स्कूलों की बदहाली का मुद्दा सिर्फ भारत ही नहीं यूरोपीय देशों में भी उठ रहा है. यहां छात्रों ने इसी मुद्दे को लेकर व्यापक प्रदर्शन किया, जिसके बाद 400 छात्रों की गिरफ्तारी हुई है. पुलिस ने भीड़ तितर-बितर करने के लिए आंसू गैस के गोले भी छोड़े. फ्रांस के Gen Z-Alpha क्यों उतरे सड़कों पर? पुलिस ने भगाने के लिए छोड़े आंसू गैस के गोले, 400।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्रांस के Gen Z-Alpha क्यों उतरे सड़कों पर? पुलिस ने भगाने के लिए छोड़े आंसू गैस के गोले, 400",
-          "summary": "France Students Protest: स्कूलों की बदहाली का मुद्दा सिर्फ भारत ही नहीं यूरोपीय देशों में भी उठ रहा है. यहां छात्रों ने इसी मुद्दे को लेकर व्यापक प्रदर्शन किया, जिसके बाद 400 छात्रों की गिरफ्तारी हुई है. पुलिस ने भीड़ तितर-बितर करने के लिए आंसू गैस के गोले भी छोड़े. फ्रांस के Gen Z-Alpha क्यों उतरे सड़कों पर? पुलिस ने भगाने के लिए छोड़े आंसू गैस के गोले, 400।",
-          "region": "यूरोप और रूस"
         }
       }
     }
