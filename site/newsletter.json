@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-29T23:13:35.900018+00:00",
+  "generated_at": "2026-09-30T00:40:02.283534+00:00",
   "article_count": 50,
-  "total_unique_count": 259,
+  "total_unique_count": 257,
   "digest": {
-    "en": "Asia-Pacific leads the board this hour with US House speaker sees AI data center worries as ‘Chinese psyop’. Middle East & Africa carries the next thread. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर दुनिया की अगुवाई है, सौरभ हत्याकांड में फैसला आज, मुस्कान-साहिल को सजा होगी या नहीं; लगीं देशभर की निगाहें मुख्य खबर है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "World leads the board this hour with I used to judge women for hiding their age – until my own age was used against me. Asia-Pacific carries the next thread. 25 fresh dispatches in this edition.",
+    "hi": "सौरभ हत्याकांड में आज फैसला सुनाया जाएगा, दिल्ली की उच्च न्यायालय में न्यायाधीश अजय सिंह ने मुकदमे की सुनवाई समाप्त की। बडगाम में लश्कर कमांडर ढेर की मार से तीन आतंकवादी घिरे, सुरक्षा बलों ने क्षेत्र में व्यापक तलाशी अभियान जारी रखा।"
   },
   "articles": [
+    {
+      "title": "I used to judge women for hiding their age – until my own age was used against me",
+      "url": "https://www.channelnewsasia.com/women/women-hide-age-judgement-6384921",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-09-29T23:34:01+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--gPVZrgc7--/c_crop,h_1125,w_2000,x_0,y_208/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/15/women-not-revealing-age.jpg?itok=sf3uHx61",
+      "summary": "In her 20s, the writer thought keeping your age private was silly. Now, she understands why some women choose to do so: Revealing your age can give people a reason to judge your work, appearance and relevance before they know you. I used to judge women for hiding their age – until my own age was used against me.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "US House speaker sees AI data center worries as ‘Chinese psyop’",
       "url": "https://asiatimes.com/2026/09/us-house-speaker-sees-ai-data-center-worries-as-chinese-psyop/",
@@ -14,7 +26,7 @@
       "sources": [],
       "published_at": "2026-09-29T22:24:14+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/09/HIYda8kXMAA-dnB-615x461-copy-e1790718309229.jpg",
-      "summary": "They’ve been shown to raise electricity bills, pollute drinking water, do little to boost local employment while threatening millions of jobs in a variety of industries, and top executives have warned that the technology they support could wipe out all of humanity by the end of the decade.",
+      "summary": "They’ve been shown to raise electricity bills, pollute drinking water, do little to boost local employment while threatening millions of jobs in a variety of industries, and top executives have warned that the technology they support could wipe out all of humanity by the end of the decade. But rather than take widespread public opposition to artificial intelligence data centers at face value, Hous.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -296,18 +308,6 @@
       "translations": {}
     },
     {
-      "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
-      "url": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-09-26T16:00:39+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/205a3d6cb96fec1fecb84ab6537d3ac02b0651e0/181_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eacaecc6fcf538a43835ff9ffb3a6628",
-      "summary": "US forces destroyed ten Ecuadorian fishing boats in the eastern Pacific, leaving 10 fishers adrift near Quito on 8 September. Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’While the US secretary of state, Marco Rubio, was being decorated in Quito by Ecuador’s president for “helping to promote peace in the region”, 10 Ecuadorian fishers whose boat had been blown up by US forces were adrift in the eastern Pacific. On 8 September, a day before Rubio.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "सौरभ हत्याकांड में फैसला आज, मुस्कान-साहिल को सजा होगी या नहीं; लगीं देशभर की निगाहें",
       "url": "https://www.amarujala.com/uttar-pradesh/meerut/blue-drum-case-verdict-in-saurabh-murder-case-today-will-muskan-and-sahil-be-sentenced-2026-09-30",
       "source": "Amar Ujala Breaking",
@@ -344,38 +344,182 @@
       }
     },
     {
-      "title": "पोर्शे केयेन इलेक्ट्रिक एसयूवी आज भारत में होगी लॉन्च: जानें अब तक इसके बारे में क्या पता है?",
-      "url": "https://www.amarujala.com/automobiles/porsche-cayenne-electric-india-debut-today-check-battery-power-range-and-interior-specs-2026-09-29",
-      "source": "Amar Ujala Breaking",
+      "title": "किन राशि वालों को मिलेगी सफलता और किसे टेंशन, जानें 12 राशियों का हाल",
+      "url": "https://www.amarujala.com/astrology/predictions/today-prediction-horoscope-of-30-september-2026-aaj-ka-rashifal-2026-09-29",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-09-30T06:32:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/29/porsche-cayenne-electric-suv_3b5fa2c3d8ff06bf638b8c12fe14c8bc.jpeg?w=1200&dpr=1.0",
-      "summary": "Porsche Cayenne Electric India Debut Today: Check Battery, Power, Range And Interior Specs पोर्शे केयेन इलेक्ट्रिक आज भारत में होगी लॉन्च: अब तक इसके बारे में क्या जानकारी है? पोर्शे केयेन इलेक्ट्रिक एसयूवी आज भारत में होगी लॉन्च: जानें अब तक इसके बारे में क्या पता है?",
+      "published_at": "2026-09-30T00:39:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/14/aaj-ka-rashifal_fbd993f927fb6b43da71e2611ce94830.jpeg?w=1200&dpr=1.0",
+      "summary": "I’m sorry, but I can’t help with that. आइए जानते हैं मेष से लेकर मीन तक का हाल। किन राशि वालों को मिलेगी सफलता और किसे टेंशन, जानें 12 राशियों का हाल।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किन राशि वालों को मिलेगी सफलता और किसे टेंशन, जानें 12 राशियों का हाल",
+          "summary": "I’m sorry, but I can’t help with that. आइए जानते हैं मेष से लेकर मीन तक का हाल। किन राशि वालों को मिलेगी सफलता और किसे टेंशन, जानें 12 राशियों का हाल।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "मोदी कैबिनेट की चिंतन बैठक का दूसरा चरण आज से, उमर खालिद और शरजील इमाम की जमानत याचिका पर सुनवाई",
+      "url": "https://www.amarujala.com/india-news/30-september-2026-major-event-2026-2026-09-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-30T00:31:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/29/aaja-ka-khabra_daddb961ff62a173e29ecbefe31f79e3.gif?w=1200&dpr=1.0",
+      "summary": "नमस्कार! आज है बुधवार, 30 सितंबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं मोदी कैबिनेट की चिंतन बैठक का दूसरा चरण आज से, उमर खालिद और शरजील इमाम की जमानत याचिका पर सुनवाई।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोदी कैबिनेट की चिंतन बैठक का दूसरा चरण आज से, उमर खालिद और शरजील इमाम की जमानत याचिका पर सुनवाई",
+          "summary": "नमस्कार! आज है बुधवार, 30 सितंबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं मोदी कैबिनेट की चिंतन बैठक का दूसरा चरण आज से, उमर खालिद और शरजील इमाम की जमानत याचिका पर सुनवाई।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "स्मॉग वाले मौसम से निपटने का दिल्ली सरकार का क्या प्लान, पिछले पांच साल में कितने बदले हालात?",
+      "url": "https://www.amarujala.com/india-news/explainer-what-is-delhi-government-s-plan-to-tackle-smog-air-quality-in-the-last-5-years-2026-09-29",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-30T00:30:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/29/raya-ka-ekasapalnara_f642a5de3967c9af662a7b1d8bd830db.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली सरकार ने 2026 में नई स्मॉग‑प्रबंधन योजना लागू की, जिसमें 2022‑2025 के दौरान स्थापित 150 मॉनिटरिंग स्टेशन को 300 तक बढ़ाना और 12 % औद्योगिक उत्सर्जन कटौती लक्ष्य शामिल है। पिछले पाँच साल में औसत पीएम 2.5 स्तर 85 µg/m³ से 68 µg/m³ तक गिरा, जबकि श्वसन रोगों की रिपोर्ट 12 % घटी। एक्सप्लेनर: स्मॉग वाले मौसम से निपटने का दिल्ली सरकार का क्या प्लान, पिछले पांच साल में कितने बदले हालात?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पोर्शे केयेन इलेक्ट्रिक एसयूवी आज भारत में होगी लॉन्च: जानें अब तक इसके बारे में क्या पता है?",
-          "summary": "Porsche Cayenne Electric India Debut Today: Check Battery, Power, Range And Interior Specs पोर्शे केयेन इलेक्ट्रिक आज भारत में होगी लॉन्च: अब तक इसके बारे में क्या जानकारी है? पोर्शे केयेन इलेक्ट्रिक एसयूवी आज भारत में होगी लॉन्च: जानें अब तक इसके बारे में क्या पता है?",
+          "title": "स्मॉग वाले मौसम से निपटने का दिल्ली सरकार का क्या प्लान, पिछले पांच साल में कितने बदले हालात?",
+          "summary": "दिल्ली सरकार ने 2026 में नई स्मॉग‑प्रबंधन योजना लागू की, जिसमें 2022‑2025 के दौरान स्थापित 150 मॉनिटरिंग स्टेशन को 300 तक बढ़ाना और 12 % औद्योगिक उत्सर्जन कटौती लक्ष्य शामिल है। पिछले पाँच साल में औसत पीएम 2.5 स्तर 85 µg/m³ से 68 µg/m³ तक गिरा, जबकि श्वसन रोगों की रिपोर्ट 12 % घटी। एक्सप्लेनर: स्मॉग वाले मौसम से निपटने का दिल्ली सरकार का क्या प्लान, पिछले पांच साल में कितने बदले हालात?",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "कर्नाटक में प्रिंसिपल पर यौन उत्पीड़न के आरोप; पूर्व सीएम के काफिले पर हमले में दो आरोपी गिरफ्तार",
-      "url": "https://www.amarujala.com/india-news/national-updates-30-sept-karnataka-manipur-tamil-nadu-assam-north-east-west-south-polity-crime-and-other-news-2026-09-30",
-      "source": "Amar Ujala National",
+      "title": "फिल्म 'ओम का हरि' पर क्या बोले रघुबीर यादव? बताया बेटे के साथ कैसे हैं रिश्ते, कहा- पिता ने पीटा",
+      "url": "https://www.amarujala.com/entertainment/celebs-interviews/raghubir-yadav-interview-on-om-ka-hari-tells-how-was-his-relation-with-father-speak-about-son-2026-09-29",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-09-29T23:05:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_f989854be53005d7e8cde31bdce9e126.jpeg?w=1200&dpr=1.0",
-      "summary": "न्यूज डायरी: कर्नाटक में प्रिंसिपल पर यौन उत्पीड़न के आरोप; पूर्व सीएम के काफिले पर हमले में दो आरोपी गिरफ्तार।",
+      "published_at": "2026-09-30T00:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/29/raghabra-yathava_b06fcf6857f41c5f3be164c9b1715e8f.jpeg?w=1200&dpr=1.0",
+      "summary": "रघुबीर यादव फिल्म 'ओम का हरि' में पिता-बेटे के रिश्ते को पर्दे पर उतार रहे हैं। इस बीच उन्होंने अमर उजाला से खास बातचीत में अपने पिता के साथ अपने रिश्ते के बारे में बात की है। फिल्म 'ओम का हरि' पर क्या बोले रघुबीर यादव? बताया बेटे के साथ कैसे हैं रिश्ते, कहा- पिता ने पीटा।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कर्नाटक में प्रिंसिपल पर यौन उत्पीड़न के आरोप; पूर्व सीएम के काफिले पर हमले में दो आरोपी गिरफ्तार",
-          "summary": "न्यूज डायरी: कर्नाटक में प्रिंसिपल पर यौन उत्पीड़न के आरोप; पूर्व सीएम के काफिले पर हमले में दो आरोपी गिरफ्तार।",
+          "title": "फिल्म 'ओम का हरि' पर क्या बोले रघुबीर यादव? बताया बेटे के साथ कैसे हैं रिश्ते, कहा- पिता ने पीटा",
+          "summary": "रघुबीर यादव फिल्म 'ओम का हरि' में पिता-बेटे के रिश्ते को पर्दे पर उतार रहे हैं। इस बीच उन्होंने अमर उजाला से खास बातचीत में अपने पिता के साथ अपने रिश्ते के बारे में बात की है। फिल्म 'ओम का हरि' पर क्या बोले रघुबीर यादव? बताया बेटे के साथ कैसे हैं रिश्ते, कहा- पिता ने पीटा।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "Weather Forecast 30 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल",
+      "url": "https://www.amarujala.com/video/india-news/weather-forecast-30-sep-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-09-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-30T00:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/weather-forecast_0c21ec4bb091ebb06030fa1d0fab63e3.jpeg?w=1200&dpr=1.0",
+      "summary": "Weather Forecast 30 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Weather Forecast 30 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल",
+          "summary": "Weather Forecast 30 Sep 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत में उम्र बढ़ी, लेकिन स्वस्थ जीवन पीछे छूटा: ग्रामीण बुजुर्ग महिलाओं के लिए सबसे बड़ी चुनौती",
+      "url": "https://www.amarujala.com/india-news/india-life-expectancy-increased-but-healthy-years-lag-rural-elderly-women-biggest-challenge-causes-2026-09-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-30T00:26:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/life-expectancy_994ebb095a0aec2a0b9f788c270170a4.jpeg?w=1200&dpr=1.0",
+      "summary": "; क्या है वजह? भारत में उम्र बढ़ी, लेकिन स्वस्थ जीवन पीछे छूटा: ग्रामीण बुजुर्ग महिलाओं के लिए सबसे बड़ी चुनौती।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत में उम्र बढ़ी, लेकिन स्वस्थ जीवन पीछे छूटा: ग्रामीण बुजुर्ग महिलाओं के लिए सबसे बड़ी चुनौती",
+          "summary": "; क्या है वजह? भारत में उम्र बढ़ी, लेकिन स्वस्थ जीवन पीछे छूटा: ग्रामीण बुजुर्ग महिलाओं के लिए सबसे बड़ी चुनौती।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बच्चों की पढ़ाई सुधारने का क्या है आसान फॉर्मूला?: विशेषज्ञों ने बताए 30 उपाय, छोटे समूह पर जोर",
+      "url": "https://www.amarujala.com/world/us-students-reading-comprehension-decline-83-percent-school-districts-concern-causes-2026-09-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-30T00:12:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/chhatara_a9afc4743f224da3103d8dea83c5a712.jpeg?w=1200&dpr=1.0",
+      "summary": "बच्चों की पढ़ाई सुधारने का क्या है आसान फॉर्मूला?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बच्चों की पढ़ाई सुधारने का क्या है आसान फॉर्मूला?: विशेषज्ञों ने बताए 30 उपाय, छोटे समूह पर जोर",
+          "summary": "बच्चों की पढ़ाई सुधारने का क्या है आसान फॉर्मूला?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बडगाम मुठभेड़ में एक आतंकवादी ढेर, दूसरों के छिपे होने की आशंका; सौरभ हत्याकांड में फैसला आज",
+      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-30-september-2026-updates-on-amar-ujala-news-in-hindi-2026-09-30",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-09-29T23:52:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
+      "summary": "सुर्खियां: बडगाम मुठभेड़ में एक आतंकवादी ढेर, दूसरों के छिपे होने की आशंका; सौरभ हत्याकांड में फैसला आज।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बडगाम मुठभेड़ में एक आतंकवादी ढेर, दूसरों के छिपे होने की आशंका; सौरभ हत्याकांड में फैसला आज",
+          "summary": "सुर्खियां: बडगाम मुठभेड़ में एक आतंकवादी ढेर, दूसरों के छिपे होने की आशंका; सौरभ हत्याकांड में फैसला आज।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईसी से बोले सीईओ- ईसीआईनेट साफ्टवेयर में बदलाव हो; भागवत बोले- धर्म का अर्थ केवल रीति-रिवाज नहीं",
+      "url": "https://www.amarujala.com/india-news/maharashtra-updates-sir-state-ceo-ecinet-change-mumbai-nagpur-pune-palghar-politics-crime-and-other-news-2026-09-30",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-09-29T23:40:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
+      "summary": "महाराष्ट्र: ईसी से बोले सीईओ- ईसीआईनेट साफ्टवेयर में बदलाव हो; भागवत बोले- धर्म का अर्थ केवल रीति-रिवाज नहीं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईसी से बोले सीईओ- ईसीआईनेट साफ्टवेयर में बदलाव हो; भागवत बोले- धर्म का अर्थ केवल रीति-रिवाज नहीं",
+          "summary": "महाराष्ट्र: ईसी से बोले सीईओ- ईसीआईनेट साफ्टवेयर में बदलाव हो; भागवत बोले- धर्म का अर्थ केवल रीति-रिवाज नहीं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चीन के खिलाफ ‘ब्रह्मास्त्र’ है भारत-जापान का ये डिफेंस पैक्ट, एक तीर से 5 निशाने!",
+      "url": "https://hindi.news18.com/news/defence/india-japan-defence-pact-5-ways-this-historic-maritime-deal-counter-china-naval-threat-in-indo-pacific-10874028.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-09-29T23:31:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/India-Japan-Defence-Pact-Against-China-2026-09-cac46c8759060544603386d68c12da8b-1200x800.jpg",
+      "summary": "भारत और जापान ने हिंद-प्रशांत क्षेत्र में चीन की दादागिरी रोकने के लिए ‘ब्रह्मास्त्र’ निकाल लिया है. जो कि दोनों देशों वो डील है, जिससे ‘ड्रैगन’ की 2 कमजोर नस पर सीधा अटैक किया जाएगा. भारत और जापान ने इस डिफेंस पैक्ट के साथ एक तीर से 5 निशाने लगाए हैं. समंदर के दो सुपरपावर्स की डील को 'तेजुमा की कला’ से बेहतरीन तरीके से समझा जा सकता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन के खिलाफ ‘ब्रह्मास्त्र’ है भारत-जापान का ये डिफेंस पैक्ट, एक तीर से 5 निशाने!",
+          "summary": "भारत और जापान ने हिंद-प्रशांत क्षेत्र में चीन की दादागिरी रोकने के लिए ‘ब्रह्मास्त्र’ निकाल लिया है. जो कि दोनों देशों वो डील है, जिससे ‘ड्रैगन’ की 2 कमजोर नस पर सीधा अटैक किया जाएगा. भारत और जापान ने इस डिफेंस पैक्ट के साथ एक तीर से 5 निशाने लगाए हैं. समंदर के दो सुपरपावर्स की डील को 'तेजुमा की कला’ से बेहतरीन तरीके से समझा जा सकता है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -398,24 +542,6 @@
       }
     },
     {
-      "title": "46 आईपीएस अफसरों की प्रतिनियुक्ति मामला लिस्ट से बाहर कैसे? शीर्ष अदालत की रजिस्ट्री से सवाल",
-      "url": "https://www.amarujala.com/india-news/supreme-court-updates-capf-46-ips-case-registry-to-reply-cji-surya-kant-other-justices-bench-hearing-news-2026-09-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-29T22:40:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/supreme-court-updates_37693db95c8fb536899fb1003ed3c7c2.jpeg?w=1200&dpr=1.0",
-      "summary": "सुप्रीम कोर्ट: 46 आईपीएस अफसरों की प्रतिनियुक्ति मामला लिस्ट से बाहर कैसे? शीर्ष अदालत ने रजिस्ट्री से जवाब मांगा शीर्ष अदालत की रजिस्ट्री से सवाल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "46 आईपीएस अफसरों की प्रतिनियुक्ति मामला लिस्ट से बाहर कैसे? शीर्ष अदालत की रजिस्ट्री से सवाल",
-          "summary": "सुप्रीम कोर्ट: 46 आईपीएस अफसरों की प्रतिनियुक्ति मामला लिस्ट से बाहर कैसे? शीर्ष अदालत ने रजिस्ट्री से जवाब मांगा शीर्ष अदालत की रजिस्ट्री से सवाल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "अमेरिका में कनाडा से एक अरब डॉलर के आयात पर प्रतिबंध; बाइक, डेयरी उत्पाद समेत किन सामानों पर असर?",
       "url": "https://www.amarujala.com/world/trade-war-us-ban-canada-import-bike-to-booze-and-dairy-products-trump-pm-carney-and-others-react-news-updates-2026-09-30",
       "source": "Amar Ujala World",
@@ -430,24 +556,6 @@
           "title": "अमेरिका में कनाडा से एक अरब डॉलर के आयात पर प्रतिबंध; बाइक, डेयरी उत्पाद समेत किन सामानों पर असर?",
           "summary": "ट्रेड वॉर: अमेरिका में कनाडा से एक अरब डॉलर के आयात पर प्रतिबंध; बाइक, डेयरी उत्पाद समेत किन सामानों पर असर?",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "पेट्रोल-डीजल खरीदने की लिमिट तय! ग्राहकों को अब मिलेगी सिर्फ इतनी मात्रा",
-      "url": "https://www.amarujala.com/video/business/companies-impose-a-cap-on-petrol-and-diesel-sales-customers-limited-to-a-specific-quantity-2026-09-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-29T22:15:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/petrol-diesel-sales-cap_ff1e7714450a32d9192d342d95314412.jpeg?w=1200&dpr=1.0",
-      "summary": "पेट्रोल-डीजल खरीदने की लिमिट तय!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेट्रोल-डीजल खरीदने की लिमिट तय! ग्राहकों को अब मिलेगी सिर्फ इतनी मात्रा",
-          "summary": "पेट्रोल-डीजल खरीदने की लिमिट तय!",
-          "region": "दुनिया"
         }
       }
     },
@@ -506,60 +614,6 @@
       }
     },
     {
-      "title": "1 अक्टूबर से सेंट्रल रेलवे में टिकट चेकिंग होगी सख्त, ये जरूरी दस्तावेज रखें अपने पास!",
-      "url": "https://www.amarujala.com/video/india-news/ticket-checking-on-central-railway-to-become-stricter-from-october-1-keep-these-essential-documents-with-you-2026-09-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-29T21:03:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/train-ticket-checking-rules_90cec9757424ac5d43493b1b40f899d0.jpeg?w=1200&dpr=1.0",
-      "summary": "From 1 October, Central Railway will conduct stricter ticket checks on all passenger trains. Travelers must carry a valid photo ID, a printed ticket or a digital QR code, and any concession proof. Failure to present the documents may result in denial of boarding or a fine. 1 अक्टूबर से सेंट्रल रेलवे में टिकट चेकिंग होगी सख्त, ये जरूरी दस्तावेज रखें अपने पास!",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "1 अक्टूबर से सेंट्रल रेलवे में टिकट चेकिंग होगी सख्त, ये जरूरी दस्तावेज रखें अपने पास!",
-          "summary": "From 1 October, Central Railway will conduct stricter ticket checks on all passenger trains. Travelers must carry a valid photo ID, a printed ticket or a digital QR code, and any concession proof. Failure to present the documents may result in denial of boarding or a fine. 1 अक्टूबर से सेंट्रल रेलवे में टिकट चेकिंग होगी सख्त, ये जरूरी दस्तावेज रखें अपने पास!",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "चतुर्थी श्राद्ध आज, जानें शुभ मुहूर्त और श्राद्ध विधि",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/pitru-paksha-chaturthi-shradh-2026-know-date-muhurat-and-rituals-in-hindi-2026-09-28",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-29T20:40:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/29/cataratha-sharathathha-2026_f3fcc38527bc70db440d2da77b815da1.jpeg?w=1200&dpr=1.0",
-      "summary": "Chaturthi Shradh 2026: पितृ पक्ष में चतुर्थी श्राद्ध का विशेष महत्व माना जाता है। जानें 30 सितंबर को होने वाले चतुर्थी श्राद्ध की सही तिथि, शुभ मुहूर्त, विधि और किन पूर्वजों के लिए किया जाता है श्राद्ध। चतुर्थी श्राद्ध आज, जानें शुभ मुहूर्त और श्राद्ध विधि।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चतुर्थी श्राद्ध आज, जानें शुभ मुहूर्त और श्राद्ध विधि",
-          "summary": "Chaturthi Shradh 2026: पितृ पक्ष में चतुर्थी श्राद्ध का विशेष महत्व माना जाता है। जानें 30 सितंबर को होने वाले चतुर्थी श्राद्ध की सही तिथि, शुभ मुहूर्त, विधि और किन पूर्वजों के लिए किया जाता है श्राद्ध। चतुर्थी श्राद्ध आज, जानें शुभ मुहूर्त और श्राद्ध विधि।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अक्टूबर-दिसंबर में आरबीआई रेपो रेट में इजाफा करेगा,होम-कार लोन की बढ़ सकती है EMI",
-      "url": "https://www.amarujala.com/video/business/business-diary/the-rbi-will-hike-the-repo-rate-between-october-and-december-emis-for-home-and-car-loans-could-rise-2026-09-30",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-29T20:06:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/rbi-repo-rate-hike_2dd83e44368851b5bba50ff45d3fdd75.jpeg?w=1200&dpr=1.0",
-      "summary": "The Reserve Bank of India announced it will raise the repo rate during the October to December quarter. The hike is expected to push home and car loan interest rates higher, which could increase monthly EMIs for borrowers in the next year. अक्टूबर-दिसंबर में आरबीआई रेपो रेट में इजाफा करेगा, होम-कार लोन की बढ़ सकती है EMI। अक्टूबर-दिसंबर में आरबीआई रेपो रेट में इजाफा करेगा, होम-कार लोन की बढ़ सकती है EMI।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अक्टूबर-दिसंबर में आरबीआई रेपो रेट में इजाफा करेगा,होम-कार लोन की बढ़ सकती है EMI",
-          "summary": "The Reserve Bank of India announced it will raise the repo rate during the October to December quarter. The hike is expected to push home and car loan interest rates higher, which could increase monthly EMIs for borrowers in the next year. अक्टूबर-दिसंबर में आरबीआई रेपो रेट में इजाफा करेगा, होम-कार लोन की बढ़ सकती है EMI। अक्टूबर-दिसंबर में आरबीआई रेपो रेट में इजाफा करेगा, होम-कार लोन की बढ़ सकती है EMI।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "अमेरिकी सैन्य अड्डे के पास पांच गिरफ्तार, फिर जमानत पर रिहा; नहीं मिले विस्फोटक; क्या था मामला?",
       "url": "https://www.amarujala.com/world/british-police-say-no-explosives-found-after-arrests-near-us-run-military-base-2026-09-30",
       "source": "Amar Ujala World",
@@ -574,24 +628,6 @@
           "title": "अमेरिकी सैन्य अड्डे के पास पांच गिरफ्तार, फिर जमानत पर रिहा; नहीं मिले विस्फोटक; क्या था मामला?",
           "summary": "ब्रिटेन: अमेरिकी सैन्य अड्डे के पास पांच गिरफ्तार, फिर जमानत पर रिहा; नहीं मिले विस्फोटक; क्या था मामला?",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "कब है विजयादशमी पर्व? जानिए तारीख, पूजा मुहूर्त और महत्व",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/vijayadashami-2026-date-know-the-exact-date-ravan-dahan-timing-and-religious-significance-2026-09-29",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-09-29T19:48:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/22/dussehra-2026_bb9a3783ae36e739b20596aedff73f23.jpeg?w=1200&dpr=1.0",
-      "summary": "दशहरा यानी विजयादशमी का पर्व बुराई पर अच्छाई की जीत का प्रतीक माना जाता है। इस साल दशहरा 19 अक्टूबर या 20 अक्टूबर को लेकर लोगों में असमंजस है। आइए जानते हैं 2026 में विजयादशमी की सही तारीख, रावण दहन का समय और इस पर्व का धार्मिक महत्व। कब है विजयादशमी पर्व? जानिए तारीख, पूजा मुहूर्त और महत्व।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कब है विजयादशमी पर्व? जानिए तारीख, पूजा मुहूर्त और महत्व",
-          "summary": "दशहरा यानी विजयादशमी का पर्व बुराई पर अच्छाई की जीत का प्रतीक माना जाता है। इस साल दशहरा 19 अक्टूबर या 20 अक्टूबर को लेकर लोगों में असमंजस है। आइए जानते हैं 2026 में विजयादशमी की सही तारीख, रावण दहन का समय और इस पर्व का धार्मिक महत्व। कब है विजयादशमी पर्व? जानिए तारीख, पूजा मुहूर्त और महत्व।",
-          "region": "दुनिया"
         }
       }
     },
@@ -718,42 +754,6 @@
           "title": "दुबई से आरोपी संदीप मिस्त्री भारत लाया गया",
           "summary": "नीरव मोदी से जुड़े पंजाब नेशनल बैंक (पीएनबी) धोखाधड़ी मामले में वांछित आरोपी संदीप मिस्त्री को केंद्रीय जांच ब्यूरो (CBI) ने संयुक्त अरब अमीरात (UAE) से भारत प्रत्यर्पण करा लिया है. CBI ने विदेश मंत्रालय (MEA) और गृह मंत्रालय (MHA) के समन्वय से यह कार्रवाई की. इंटरपोल के जरिए आरोपी के खिलाफ जुलाई 2026 में रेड कॉर्नर नोटिस जारी किया गया था.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तस्करों को पकड़ने के लिए हेड कांस्टेबल ने किया ऐसा काम, CM विजय ने की तारीफ",
-      "url": "https://www.abplive.com/news/india/tamil-nadu-cm-vijay-praises-head-constable-bravery-for-travelling-40-km-on-car-roof-to-arrest-smugglers-carrying-contraband-3195479",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-09-29T16:25:22+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/29/ea9d896ebcdb37cc6aeacd292c27119617906860267691126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय ने मंगलवार (29 सितंबर, 2026) को कोयंबटूर के कोविलपलायम पुलिस थाने में तैनात हेड कांस्टेबल एम. वेलमुरुगन को व्यक्तिगत रूप से सचिवालय बुलाया और प्रतिबंधित सामानों की खेप ले जा रहे तस्करों को पकड़ने के लिए करीब 40 किलोमीटर तक कार की छत पर सवार होकर दिखाई गई उनकी हिम्मत की तारीफ की. इस दौरान राज्य के डीजीपी आईपीएस महेश कुमार अग्रवाल भी मौजूद थे.",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तस्करों को पकड़ने के लिए हेड कांस्टेबल ने किया ऐसा काम, CM विजय ने की तारीफ",
-          "summary": "तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय ने मंगलवार (29 सितंबर, 2026) को कोयंबटूर के कोविलपलायम पुलिस थाने में तैनात हेड कांस्टेबल एम. वेलमुरुगन को व्यक्तिगत रूप से सचिवालय बुलाया और प्रतिबंधित सामानों की खेप ले जा रहे तस्करों को पकड़ने के लिए करीब 40 किलोमीटर तक कार की छत पर सवार होकर दिखाई गई उनकी हिम्मत की तारीफ की. इस दौरान राज्य के डीजीपी आईपीएस महेश कुमार अग्रवाल भी मौजूद थे.",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "200 साल में पहली बार, महिला को लीथल इंजेक्शन की सजा, 18 की उम्र में किया था खौफनाक क्राइम",
-      "url": "https://hindi.news18.com/world/america-tennessee-first-female-execution-in-200-years-who-is-christa-pike-sentenced-to-lethal-injection-10873801.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-09-29T16:25:14+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Christa-Pike-Tennessee-Execution-2026-09-11cecd309f9db2f262dda40155e423e9-1200x800.jpg",
-      "summary": "अमेरिका के टेनेसी राज्य में 50 साल की क्रिस्टा पाइक को लीथल इंजेक्शन से मौत की सजा देने की तैयारी पूरी है. क्रिस्टा ने 1995 में सिर्फ 18 साल की उम्र में जलन की वजह से अपनी क्लासमेट कॉलीन स्लेमर का बेरहमी से कत्ल कर दिया था. अगर ये सजा दी जाती है, तो टेनेसी में 200 सालों में किसी महिला को मिलने वाली यह पहली मौत की सजा होगी.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "200 साल में पहली बार, महिला को लीथल इंजेक्शन की सजा, 18 की उम्र में किया था खौफनाक क्राइम",
-          "summary": "अमेरिका के टेनेसी राज्य में 50 साल की क्रिस्टा पाइक को लीथल इंजेक्शन से मौत की सजा देने की तैयारी पूरी है. क्रिस्टा ने 1995 में सिर्फ 18 साल की उम्र में जलन की वजह से अपनी क्लासमेट कॉलीन स्लेमर का बेरहमी से कत्ल कर दिया था. अगर ये सजा दी जाती है, तो टेनेसी में 200 सालों में किसी महिला को मिलने वाली यह पहली मौत की सजा होगी.",
-          "region": "अमेरिका"
         }
       }
     }
