@@ -1,52 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 01, 2026 06:15 IST
+**Updated:** October 01, 2026 07:10 IST
 
 ---
 
-## Asia-Pacific
+## World
 
-### [Global calls to slow AI advancement are growing. India faces a different calculation](https://www.channelnewsasia.com/asia/ai-slowdown-safety-india-development-economy-6421396)
-*Channel News Asia* - Oct 01, 03:30 IST (iso: 2026-09-30T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--TXHlNizk--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-16T172022Z_1_LYNXMPEM1F0PK_RTROPTP_3_INDIA-AI-SUMMIT.JPG?itok=m6kfCLaN -->
+### [HDB resale prices fall for third consecutive quarter: Flash estimate](https://www.channelnewsasia.com/singapore/hdb-resale-prices-fall-upcoming-bto-exercises-6423006)
+*Channel News Asia* - Oct 01, 06:32 IST (iso: 2026-10-01T01:02:29+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--GrJSdJDq--/c_crop,h_840,w_1494,x_5,y_93/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2021-10/cal_4043.jpg?itok=OKtqgXFI -->
 
-Fears that increasingly powerful artificial intelligence could pose an existential threat have fuelled calls for a slowdown. India, however, is not yet pushing the AI frontier, making wider adoption - and managing its consequences - a more immediate concern, say analysts. ‘Neither feasible nor desirable’: Why AI slowdown debate looks different in India. Global calls to slow AI advancement are growing.
-
-### [Pakistan Orders Afghan Medical Students To Leave. Courts Push Back](https://www.rferl.org/a/pakistan-orders-afghan-medical-students-to-leave-courts-push-back/33867195.html)
-*Radio Free Europe / Liberty* - Sep 30, 16:54 IST (iso: 2026-09-30T11:24:54+00:00)
-<!-- image: https://gdb.rferl.org/279613e4-ed94-4a8c-f4fa-08df0d74d2d5_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Hundreds of Afghan medical students in Pakistan face expulsion, including women and students nearing graduation. Courts in several parts of the country have temporarily allowed them to stay and continue their studies, but their long-term future remains uncertain. Pakistan Orders Afghan Medical Students To Leave. Courts Push Back.
-
-### [AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules](https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court)
-*The Guardian* - Sep 30, 16:39 IST (iso: 2026-09-30T11:09:52+00:00)
-<!-- image: https://i.guim.co.uk/img/media/6c9559e6c1a3badb7e83f824e28884bb11f226a7/0_46_4672_3736/master/4672.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad5b145624089c20c994633a31e31e09 -->
-
-Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rightsA court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos. AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules.
-
-### [Trump-Xi summit’s real test will come in the months ahead](https://asiatimes.com/2026/09/trump-xi-summits-real-test-will-come-in-the-months-ahead/)
-*Asia Times* - Sep 30, 14:06 IST (iso: 2026-09-30T08:36:47+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/09/Donald-Trump-Xi-Jinping-China-US.jpg -->
-
-For years, relations between Washington and Beijing seemed stuck on an escalation treadmill. Every quarter brought new semiconductor restrictions, naval jockeying in the South China Sea or retaliatory tariffs, locking the world’s two preeminent powers in an apparently irreversible downward spiral. Observers came to view every exchange as a prelude to confrontation, with diplomacy treated [] The p Trump-Xi summit’s real test will come in the months ahead.
-
-### [Malaysia begins Myanmar repatriations despite warnings from UN and rights groups](https://www.theguardian.com/world/2026/sep/30/malaysia-begins-myanmar-repatriations-despite-warnings-from-un-and-rights-groups)
-*The Guardian* - Sep 30, 11:35 IST (iso: 2026-09-30T06:05:11+00:00)
-<!-- image: https://i.guim.co.uk/img/media/d6322487e65959fb8cbf133843b8295362b0ce38/0_0_3825_3061/master/3825.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3696b58a15b6bbe21e5705563cce793b -->
-
-Kuala Lumpur plans to send a total of 5,000 Myanmar nationals back to the war-torn country despite persecution concerns Malaysia began sending back about 1,500 Myanmar nationals on Tuesday, the government confirmed, as it launched a scheme that rights groups say may endanger migrants and asylum seekers by returning them to the war-torn country. Malaysia begins Myanmar repatriations despite warnings from UN and rights groups.
-
-### [As US tech leaders call for rules on AI, China already has them](https://asiatimes.com/2026/09/as-us-tech-leaders-call-for-rules-on-ai-china-already-has-them/)
-*Asia Times* - Sep 30, 05:14 IST (iso: 2026-09-29T23:44:44+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/09/file-20260929-50-azua6z-copy-e1790726077995.jpg -->
-
-Recent warnings from American AI leaders have created the impression that the world is only beginning to confront the dangers of advanced artificial intelligence. Dario Amodei, chief executive of tech company Anthropic, has called for governments to intervene to slow the development of increasingly powerful AI models. His proposal begins with independent evaluators embedded inside [] The post As As US tech leaders call for rules on AI, China already has them.
-
-### [US House speaker sees AI data center worries as ‘Chinese psyop’](https://asiatimes.com/2026/09/us-house-speaker-sees-ai-data-center-worries-as-chinese-psyop/)
-*Asia Times* - Sep 30, 03:54 IST (iso: 2026-09-29T22:24:14+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/09/HIYda8kXMAA-dnB-615x461-copy-e1790718309229.jpg -->
-
-They’ve been shown to raise electricity bills, pollute drinking water, do little to boost local employment while threatening millions of jobs in a variety of industries, and top executives have warned that the technology they support could wipe out all of humanity by the end of the decade. But rather than take widespread public opposition to artificial intelligence data centers at face value, Hous.
+HDB says it has not observed a significant increase in either the prices or the number of resale flats purchased by private home owners and former private property owners since the 15-month wait-out period was removed. HDB resale prices fall for third consecutive quarter: Flash estimate.
 
 ---
 
@@ -171,6 +135,46 @@ Artificial Intelligence or AI – and the technology behind it – is moving fas
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-06-2024-UNODC-Philippines-5-LG.jpg/image770x420cropped.jpg -->
 
 Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into trafficking, migrant smuggling, and the exploitation of natural resources, a new UN report launched on Wednesday revealed. Homicides fall as organised crime grows more profitable – and networked.
+
+---
+
+## Asia-Pacific
+
+### [Pakistan Orders Afghan Medical Students To Leave. Courts Push Back](https://www.rferl.org/a/pakistan-orders-afghan-medical-students-to-leave-courts-push-back/33867195.html)
+*Radio Free Europe / Liberty* - Sep 30, 16:54 IST (iso: 2026-09-30T11:24:54+00:00)
+<!-- image: https://gdb.rferl.org/279613e4-ed94-4a8c-f4fa-08df0d74d2d5_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Hundreds of Afghan medical students in Pakistan face expulsion, including women and students nearing graduation. Courts in several parts of the country have temporarily allowed them to stay and continue their studies, but their long-term future remains uncertain. Pakistan Orders Afghan Medical Students To Leave. Courts Push Back.
+
+### [AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules](https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court)
+*The Guardian* - Sep 30, 16:39 IST (iso: 2026-09-30T11:09:52+00:00)
+<!-- image: https://i.guim.co.uk/img/media/6c9559e6c1a3badb7e83f824e28884bb11f226a7/0_46_4672_3736/master/4672.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad5b145624089c20c994633a31e31e09 -->
+
+Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rightsA court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos. AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules.
+
+### [Trump-Xi summit’s real test will come in the months ahead](https://asiatimes.com/2026/09/trump-xi-summits-real-test-will-come-in-the-months-ahead/)
+*Asia Times* - Sep 30, 14:06 IST (iso: 2026-09-30T08:36:47+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/09/Donald-Trump-Xi-Jinping-China-US.jpg -->
+
+For years, relations between Washington and Beijing seemed stuck on an escalation treadmill. Every quarter brought new semiconductor restrictions, naval jockeying in the South China Sea or retaliatory tariffs, locking the world’s two preeminent powers in an apparently irreversible downward spiral. Observers came to view every exchange as a prelude to confrontation, with diplomacy treated [] The p Trump-Xi summit’s real test will come in the months ahead.
+
+### [As US tech leaders call for rules on AI, China already has them](https://asiatimes.com/2026/09/as-us-tech-leaders-call-for-rules-on-ai-china-already-has-them/)
+*Asia Times* - Sep 30, 05:14 IST (iso: 2026-09-29T23:44:44+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/09/file-20260929-50-azua6z-copy-e1790726077995.jpg -->
+
+Recent warnings from American AI leaders have created the impression that the world is only beginning to confront the dangers of advanced artificial intelligence. Dario Amodei, chief executive of tech company Anthropic, has called for governments to intervene to slow the development of increasingly powerful AI models. His proposal begins with independent evaluators embedded inside [] The post As As US tech leaders call for rules on AI, China already has them.
+
+### [US House speaker sees AI data center worries as ‘Chinese psyop’](https://asiatimes.com/2026/09/us-house-speaker-sees-ai-data-center-worries-as-chinese-psyop/)
+*Asia Times* - Sep 30, 03:54 IST (iso: 2026-09-29T22:24:14+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/09/HIYda8kXMAA-dnB-615x461-copy-e1790718309229.jpg -->
+
+They’ve been shown to raise electricity bills, pollute drinking water, do little to boost local employment while threatening millions of jobs in a variety of industries, and top executives have warned that the technology they support could wipe out all of humanity by the end of the decade. But rather than take widespread public opposition to artificial intelligence data centers at face value, Hous.
+
+### [China’s disputed satellite refueling heralds new space war era](https://asiatimes.com/2026/09/chinas-disputed-satellite-refueling-heralds-new-space-war-era/)
+*Asia Times* - Sep 29, 11:25 IST (iso: 2026-09-29T05:55:59+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/09/China-Satellites-Space-War.jpg -->
+
+Recent disclosures about China’s purported in-orbit servicing operations have intensified a quiet revolution in space, where the mechanics of satellite sustainment are swiftly becoming the frontline of great-power counterspace rivalry. This month, the South China Morning Post (SCMP) reported that Chinese researchers claim the country carried out a pioneering in-orbit refueling operation on a high- China’s disputed satellite refueling heralds new space war era.
 
 ---
 
