@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-02T01:20:32.668138+00:00",
+  "generated_at": "2026-10-02T03:23:41.320970+00:00",
   "article_count": 50,
-  "total_unique_count": 253,
+  "total_unique_count": 260,
   "digest": {
-    "en": "Americas leads the board this hour with Computer science has long understood how to keep AI under control. 25 fresh dispatches in this edition.",
-    "hi": "इस घंटे बोर्ड पर एशिया-प्रशांत की अगुवाई है, तीरंदाजी में ऐतिहासिक स्वर्ण पर भारत की नजर, कुश्ती और हॉकी में भी पदक की उम्मीद मुख्य खबर है। साथ ही मध्य पूर्व और अफ्रीका से भी घटनाक्रम सामने आया है। कुल 25 ताज़ा खबरें इस संस्करण में हैं।"
+    "en": "Brazil heads to the polls with the Bolsonaro faction back in play. Trump’s funding plans triggered a sharp rebuke from Brazil’s attorney general. Hegseth confirms a twenty percent cut to U.S. general and admiral ranks.",
+    "hi": "होर्मुज स्ट्रेट में 72 घंटों के भीतर पांच जहाजों पर हुए हमलों ने तेल मार्गों को अस्थिर कर दिया है। इसी वक्त पुतिन ने मोदी से यूक्रेन युद्ध समाधान के लिए नए आइडिया मांगे हैं।"
   },
   "articles": [
+    {
+      "title": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-02T02:00:07+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/9240643cca052179ce2af25984e27c59dc8c01ec/784_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b044c2f39aedd127aa85da09302b3db1",
+      "summary": "Brazil held its first-round presidential election on Sunday. Flávio Bolsonaro, son of the jailed former president, ran to succeed his father. Jair Bolsonaro was convicted in September 2025 of attempting a coup. The campaign tested whether his political legacy survived the conviction. The Bolsonarosthey’re back! Brazil heads to the polls – podcast.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Computer science has long understood how to keep AI under control",
       "url": "https://asiatimes.com/2026/10/computer-science-has-long-understood-how-to-keep-ai-under-control/",
@@ -28,6 +40,18 @@
       "image_url": "https://i.guim.co.uk/img/media/1ee7c4708c6ff1dbbdcbad5d5bbc74b0a1ed128a/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f267db0e883021953c5781b44fd45ea7",
       "summary": "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’ as nation prepares to go to pollsBrazil’s attorney general has said foreign meddling in his country’s institutions and democracy “cannot be tolerated” after a Guardian report revealed how the Trump administration was pushing to direct funds to a campaign against the Brazilian supreme court. Writing on X, Jorge Messia Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed.",
       "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Sri Lanka: chasing system change",
+      "url": "https://www.thehindu.com/news/international/sri-lanka-chasing-system-change/article71532808.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-01T17:19:10+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/u401g6/article71534497.ece/alternates/LANDSCAPE_1200/iStock-1452850470.jpg",
+      "summary": "Sri Lanka’s government restored macroeconomic stability two years after Dissanayake’s election. It introduced a different political culture. However, key structural reform promises remain unfulfilled. The administration now faces the challenge of turning the Aragalaya’s demand for system change into lasting political transformation. The National People’s Power govt. restored macroeconomic stability and introduced a different political culture, but key promises of structural reform remain unfulfilled; two years after Dissanayake’s election, the govt.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -116,30 +140,6 @@
       "translations": {}
     },
     {
-      "title": "Altercation, emergency landing and investigation",
-      "url": "https://www.thehindu.com/news/international/flydubai-incident-altercation-emergency-landing-and-investigation-explained/article71531532.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-01T13:24:45+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/r3ro4w/article71531664.ece/alternates/LANDSCAPE_1200/Israel_Mideast_Emergency_Landing_38233.jpg",
-      "summary": "Pictures showed that the aircraft had substantial damage. An emergency descent can be controlled, but in this instance, where descent could have been initiated erratically, there can be severe damage and stress to the crucial flight control surfaces and even the aircraft's tail Altercation, emergency landing and investigation.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Tbilisi Rebukes Iranian Envoy Over Social Media Post On Canonized Georgian Queen",
-      "url": "https://www.rferl.org/a/iran-georgian-moujani-queen-ketevan-summon/33867839.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-01T12:35:16+00:00",
-      "image_url": "https://gdb.rferl.org/6be52ee4-a1ab-477b-ea1b-08df0f42c51f_cx0_cy6_cw0_w1200_h630.jpg",
-      "summary": "Georgia's Foreign Ministry has summoned Iran's ambassador after he announced plans to publish his own research into Queen Ketevan. The 17th-century monarch was tortured and executed in Persia, and the Georgian Orthodox Church venerates her as a saint. Tbilisi Rebukes Iranian Envoy Over Social Media Post On Canonized Georgian Queen.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Afghanistan’s TTP sanctuary is becoming harder to deny",
       "url": "https://asiatimes.com/2026/10/afghanistans-ttp-sanctuary-is-becoming-harder-to-deny/",
       "source": "Asia Times",
@@ -147,18 +147,6 @@
       "published_at": "2026-10-01T12:15:03+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/TTP-Pakistan-Afghanistan.jpg",
       "summary": "For years, Pakistan’s claim that the Tehreek-e-Taliban Pakistan operates from sanctuaries inside Afghanistan produced a familiar exchange: Islamabad accused, Kabul denied, and each new militant attack triggered another round of recrimination. That pattern is becoming harder to sustain. The sanctuary dispute can now be tested against a growing body of evidence rather than competing claims [] The p Afghanistan’s TTP sanctuary is becoming harder to deny.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-01T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-01.jpg/image770x420cropped.jpg",
-      "summary": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday. Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -172,6 +160,18 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/18-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image770x420cropped.jpg",
       "summary": "The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province. Ebola response faces setback as transit centre burns down in DR Congo camp.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-01T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-01.jpg/image770x420cropped.jpg",
+      "summary": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday. Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -196,18 +196,6 @@
       "image_url": "https://i.guim.co.uk/img/media/a35962728766d52b236608615296de0fe270dedc/0_455_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8494865938ee7476a787ebbaae1a05e8",
       "summary": "Diehard Hugo Chávez supporters struggle to comprehend ideological U-turn being executed by Delcy Rodríguez’s interim administrationHe was one of the most passionate propagandists for Hugo Chávez’s Bolivarian revolution: a feisty leftist TV personality who spent more than two decades singing the movement’s praises on his state-funded show, The Razorblade. Mario Silva’s devotion was such that he ofte Venezuela’s Chavistas lament government’s embrace of Trump.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
-      "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-01T06:04:17+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/36b7a13641bba9ee3ceb11382a4c1ed02387f745/1538_226_5117_4095/master/5117.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9beb26035f7847531703e79ea818b5e",
-      "summary": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on ThursdayThe lunchtime crowds drifted slowly back to their offices along central Seoul’s main boulevard, heads up and phones raised to the sky. Daredevil Jaan Roose completes slackline walk high above central Seoul.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -272,6 +260,18 @@
       "translations": {}
     },
     {
+      "title": "Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/28-09-2026_WFP_Gaza.jpg/image770x420cropped.jpg",
+      "summary": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land and shortages of critical supplies are hampering the effort, UN Spokesperson Stéphane Dujarric said on Wednesday. Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Palestinians yearn for ‘a return to normal life’, says top Middle East peace envoy",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168497",
       "source": "UN News",
@@ -280,6 +280,18 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/07-09-2026_Gaza_yellow_line_3.jpg/image770x420cropped.jpg",
       "summary": "Acting UN Special Coordinator Ramiz Alakbarov said Palestinians in Gaza yearn for a return to normal life as the UN pushes to restore utilities and rebuild infrastructure amid severe access restrictions. The effort faces obstacles from damaged roads The UN is continuing efforts to support Palestinians in Gaza amid major challenges to humanitarian access, reconstruction and the restoration of essential services, according to Ramiz Alakbarov, Acting UN Special Coordinator for the Middle East Peace Process.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Homicides fall as organised crime grows more profitable – and networked",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168493",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-06-2024-UNODC-Philippines-5-LG.jpg/image560x340cropped.jpg",
+      "summary": "A new UN report revealed global homicide rates are falling. Organised crime is rising in many regions. Criminal networks are diversifying into trafficking and migrant smuggling. They are also exploiting natural resources. This shift makes criminal operations more profitable and networked. Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into trafficking, migrant smuggling, and the exploitation of natural resources, a new UN report launched on Wednesday revealed.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -296,50 +308,362 @@
       "translations": {}
     },
     {
-      "title": "Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
-      "source": "UN News",
+      "title": "अक्तूबर में आ रही हैं ये नई बाइक्स: दो से 13 लाख रुपये तक हो सकती है कीमत, किस मोटरसाइकिल में क्या",
+      "url": "https://www.amarujala.com/automobiles/7-new-bikes-expected-in-india-in-october-2026-check-what-s-coming-2026-10-02",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-09-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/28-09-2026_WFP_Gaza.jpg/image770x420cropped.jpg",
-      "summary": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land and shortages of critical supplies are hampering the effort, UN Spokesperson Stéphane Dujarric said on Wednesday. Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-10-02T03:17:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/paratakatamaka-tasavara_e43a0716c5fa724ecc65c556eb935bb6.jpeg?w=1200&dpr=1.0",
+      "summary": "अक्टूबर में भारत में नई बाइक्स लॉन्च होंगी। कीमतें दो से 13 लाख रुपये के बीच रहेंगी। विभिन्न ब्रांडों के मॉडल बाजार में उतरेंगे। अक्तूबर में आ रही हैं ये नई बाइक्स: दो से 13 लाख रुपये तक हो सकती है कीमत, किस मोटरसाइकिल में क्या होगा खास?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अक्तूबर में आ रही हैं ये नई बाइक्स: दो से 13 लाख रुपये तक हो सकती है कीमत, किस मोटरसाइकिल में क्या",
+          "summary": "अक्टूबर में भारत में नई बाइक्स लॉन्च होंगी। कीमतें दो से 13 लाख रुपये के बीच रहेंगी। विभिन्न ब्रांडों के मॉडल बाजार में उतरेंगे। अक्तूबर में आ रही हैं ये नई बाइक्स: दो से 13 लाख रुपये तक हो सकती है कीमत, किस मोटरसाइकिल में क्या होगा खास?",
+          "region": "दुनिया"
+        }
+      }
     },
     {
-      "title": "तीरंदाजी में ऐतिहासिक स्वर्ण पर भारत की नजर, कुश्ती और हॉकी में भी पदक की उम्मीद",
-      "url": "https://www.amarujala.com/live/sports/asian-games-2026-live-india-match-gold-in-archery-boxing-wrestling-womens-hockey-live-updates-medals-tally-2026-10-02",
-      "source": "Amar Ujala Breaking",
+      "title": "हूती विद्रोहियों को मदद पहुंचाने के आरोप में अमेरिकी इंजीनियर गिरफ्तार, एफबीआई ने कैसे कसा शिकंजा?",
+      "url": "https://www.amarujala.com/world/fbi-arrests-energy-department-employee-on-charge-of-trying-to-support-iran-backed-houthis-in-yemen-2026-10-02",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-02T01:19:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/09/29/03-paravana-hadada-atararashhataraya-bkasara_64af0710f57e1bf68f4622820fef7f35.jpeg?w=1200&dpr=1.0",
-      "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। एशियन गेम्स में दो अक्तूबर का दिन भारत के लिए बेहद अहम है। तीरंदाजी में ऐतिहासिक स्वर्ण पर भारत की नजर, कुश्ती और हॉकी में भी पदक की उम्मीद।",
+      "published_at": "2026-10-02T03:16:12+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/02/new-orleans-usa-fbi_14772cfde3c7fcd4becde03e68fe3467.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी इंजीनियर को हूती विद्रोहियों को मदद करने के आरोप में गिरफ्तार किया गया। एफबीआई ने इस मामले में कड़ी कार्रवाई की है। यूएस: हूती विद्रोहियों को मदद पहुंचाने के आरोप में अमेरिकी इंजीनियर गिरफ्तार, एफबीआई ने कैसे कसा शिकंजा?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूती विद्रोहियों को मदद पहुंचाने के आरोप में अमेरिकी इंजीनियर गिरफ्तार, एफबीआई ने कैसे कसा शिकंजा?",
+          "summary": "अमेरिकी इंजीनियर को हूती विद्रोहियों को मदद करने के आरोप में गिरफ्तार किया गया। एफबीआई ने इस मामले में कड़ी कार्रवाई की है। यूएस: हूती विद्रोहियों को मदद पहुंचाने के आरोप में अमेरिकी इंजीनियर गिरफ्तार, एफबीआई ने कैसे कसा शिकंजा?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'PM मोदी के पास ऐसे आइडियो जो खत्म कर सकते हैं यूक्रेन की जंग', पुतिन ने बताई अपने मन की बात",
+      "url": "https://hindi.news18.com/world/europe-putin-praises-pm-modi-ukraine-peace-international-north-south-transport-corridor-india-russia-cooperation-10879471.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-02T03:12:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/putin-26-2026-10-cf53d9806a12101c4c5e23935c962de8-1200x800.jpg",
+      "summary": "पुतिन ने वल्दाई फोरम में मोदी की युद्ध समाधान कोशिशों की तारीफ की। उन्होंने कहा कि भारत के पास अच्छे सुझाव हैं। रूस आर्थिक सहयोग बढ़ाने के लिए तैयार है। Putin India Relations: रूस के राष्ट्रपति व्लादिमीर पुतिन ने प्रधानमंत्री नरेंद्र मोदी की यूक्रेन युद्ध खत्म कराने की कोशिशों की तारीफ की है. उन्होंने कहा कि पीएम मोदी के पास शांति का रास्ता निकालने के लिए अच्छे सुझाव हैं और रूस उनका आभारी है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'PM मोदी के पास ऐसे आइडियो जो खत्म कर सकते हैं यूक्रेन की जंग', पुतिन ने बताई अपने मन की बात",
+          "summary": "पुतिन ने वल्दाई फोरम में मोदी की युद्ध समाधान कोशिशों की तारीफ की। उन्होंने कहा कि भारत के पास अच्छे सुझाव हैं। रूस आर्थिक सहयोग बढ़ाने के लिए तैयार है। Putin India Relations: रूस के राष्ट्रपति व्लादिमीर पुतिन ने प्रधानमंत्री नरेंद्र मोदी की यूक्रेन युद्ध खत्म कराने की कोशिशों की तारीफ की है. उन्होंने कहा कि पीएम मोदी के पास शांति का रास्ता निकालने के लिए अच्छे सुझाव हैं और रूस उनका आभारी है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ओवैसी का गठबंधन ऑफर, चन्द्रशेखर से नजदीकी की चर्चा! SP-BSP के सामने नया सवाल",
+      "url": "https://www.amarujala.com/video/india-news/up-chunav-2027-sp-bsp-2026-10-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T03:11:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/khari-baat-azad-party_62b1598b495c9f3a7917af3e0e18e4f0.jpeg?w=1200&dpr=1.0",
+      "summary": "ओवैसी ने चन्द्रशेखर से गठबंधन की चर्चा शुरू की है। यह बात 2027 के उत्तर प्रदेश चुनावों से पहले सामने आई है। इससे सपा-बसपा के सामने नया सवाल खड़ा हुआ है। UP Chunav 2027: ओवैसी का गठबंधन ऑफर, चन्द्रशेखर से नजदीकी की चर्चा! SP-BSP के सामने नया सवाल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओवैसी का गठबंधन ऑफर, चन्द्रशेखर से नजदीकी की चर्चा! SP-BSP के सामने नया सवाल",
+          "summary": "ओवैसी ने चन्द्रशेखर से गठबंधन की चर्चा शुरू की है। यह बात 2027 के उत्तर प्रदेश चुनावों से पहले सामने आई है। इससे सपा-बसपा के सामने नया सवाल खड़ा हुआ है। UP Chunav 2027: ओवैसी का गठबंधन ऑफर, चन्द्रशेखर से नजदीकी की चर्चा! SP-BSP के सामने नया सवाल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सैलरी आते ही कर लें ये 4 काम, नहीं होगी पैसों की दिक्कत-न मांगना पड़ेगा उधार",
+      "url": "https://www.amarujala.com/photo-gallery/utility/salary-comes-in-do-these-4-things-to-avoid-money-problems-2026-10-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T03:04:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/salra-aata-ha-kasa-bcata-kara_c10be3c0382425a9c9fb0ae7f7265484.jpeg?w=1200&dpr=1.0",
+      "summary": "सैलरी आते ही बजट बनाने की सलाह दी गई है। बचत और इमरजेंसी फंड पर ध्यान देने से उधार लेने की ज़रूरत कम होती है। सैलरी खाते में आते ही अगर पैसे को सही तरीके से बांट लिया जाए तो महीने के अंत में पैसों की कमी से बचा जा सकता है। बजट, बचत, जरूरी बिल और इमरजेंसी फंड पर ध्यान देकर उधार लेने की जरूरत को कम किया जा सकता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सैलरी आते ही कर लें ये 4 काम, नहीं होगी पैसों की दिक्कत-न मांगना पड़ेगा उधार",
+          "summary": "सैलरी आते ही बजट बनाने की सलाह दी गई है। बचत और इमरजेंसी फंड पर ध्यान देने से उधार लेने की ज़रूरत कम होती है। सैलरी खाते में आते ही अगर पैसे को सही तरीके से बांट लिया जाए तो महीने के अंत में पैसों की कमी से बचा जा सकता है। बजट, बचत, जरूरी बिल और इमरजेंसी फंड पर ध्यान देकर उधार लेने की जरूरत को कम किया जा सकता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "महात्मा गांधी जयंती विशेष: गांधी की हत्या के बाद जब प्रतिशोध की आग भड़की",
+      "url": "https://www.amarujala.com/utility/mahatma-gandhi-jayanti-special-when-the-fires-of-revenge-flared-up-after-mahatma-gandhi-assassination-2026-10-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T03:04:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/mahatama-gathha_80317273eabcd628e1e473c9526ec28c.jpeg?w=1200&dpr=1.0",
+      "summary": "30 जनवरी की शाम नई दिल्ली के बिड़ला भवन में प्रार्थना सभा के दौरान महात्मा गांधी की हत्या कर दी गई। इस घटना के तुरंत बाद देशभर में प्रतिशोध की भावना भड़क उठी। 30 जनवरी की शाम पांच बजे के कुछ समय बाद नई दिल्ली के बिड़ला भवन में प्रार्थना सभा के लिए जाते समय गांधी की हत्या कर दी गई।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तीरंदाजी में ऐतिहासिक स्वर्ण पर भारत की नजर, कुश्ती और हॉकी में भी पदक की उम्मीद",
-          "summary": "नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। एशियन गेम्स में दो अक्तूबर का दिन भारत के लिए बेहद अहम है। तीरंदाजी में ऐतिहासिक स्वर्ण पर भारत की नजर, कुश्ती और हॉकी में भी पदक की उम्मीद।",
+          "title": "महात्मा गांधी जयंती विशेष: गांधी की हत्या के बाद जब प्रतिशोध की आग भड़की",
+          "summary": "30 जनवरी की शाम नई दिल्ली के बिड़ला भवन में प्रार्थना सभा के दौरान महात्मा गांधी की हत्या कर दी गई। इस घटना के तुरंत बाद देशभर में प्रतिशोध की भावना भड़क उठी। 30 जनवरी की शाम पांच बजे के कुछ समय बाद नई दिल्ली के बिड़ला भवन में प्रार्थना सभा के लिए जाते समय गांधी की हत्या कर दी गई।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "काबा के पास हमला करने पहुंचा था सुसाइड बॉम्बर? मक्का में मची खलबली, सऊदी ने बताया सच",
-      "url": "https://hindi.news18.com/world/middle-east-mecca-kaaba-suicide-bombing-rumour-saudi-arabia-denial-truth-of-viral-video-10879285.html",
+      "title": "होर्मुज स्‍ट्रेट बना श्‍मशान, 72 घंटे में 5 जहाजों पर अटैक से हर तरफ दहशत, अमेरिका के छूट रहे पसीने",
+      "url": "https://hindi.news18.com/world/middle-east-hormuz-strait-become-deathbed-iran-attack-attack-5th-ship-in-72-hours-america-security-net-breached-10879197.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-02T01:15:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/mecca-2026-10-83636ade23989cc047fa51db22f69154-1200x800.jpg",
-      "summary": "मक्का की मस्जिद-ए-हरम में काबा के पास सुसाइड बॉम्बिंग की कोशिश की खबर से हड़कंप मच गया. शुरुआती रिपोर्टों में दावा किया गया कि एक संदिग्ध विस्फोटकों से भरी जैकेट लेकर वहां पहुंचा था. हालांकि, सऊदी पब्लिक सिक्योरिटी ने इन खबरों को गलत बताया. अधिकारियों के मुताबिक, एक व्यक्ति को गिरफ्तार किया गया है. काबा के पास हमला करने पहुंचा था सुसाइड बॉम्बर?",
+      "published_at": "2026-10-02T03:02:29+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/hormuz-attack-1-2026-10-967cd9ebf2b1bb1608e1ff6fc16c8e2f-1200x800.jpg",
+      "summary": "ईरान पर अमेरिका और इजरायल के हमलों के बाद होर्मुज स्ट्रेट में जहाजों की आवाजाही काफी घट गई है। 72 घंटे के भीतर पांच जहाजों पर हमले हुए हैं। इससे वैश्विक ऊर्जा आपूर्ति श्रृंखला प्रभावित हुई है। Hormuz Strait Attack: होर्मुज स्‍ट्रेट का ग्‍लोबल एनर्जी सप्‍लाई चेन में अहम भूमिका है. अमेरिका और इजरायल की ओर से ईरान पर अटैक करने के बाद यह आपूर्ति शृंखला छिन्‍न-भिन्‍न हो गई है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "काबा के पास हमला करने पहुंचा था सुसाइड बॉम्बर? मक्का में मची खलबली, सऊदी ने बताया सच",
-          "summary": "मक्का की मस्जिद-ए-हरम में काबा के पास सुसाइड बॉम्बिंग की कोशिश की खबर से हड़कंप मच गया. शुरुआती रिपोर्टों में दावा किया गया कि एक संदिग्ध विस्फोटकों से भरी जैकेट लेकर वहां पहुंचा था. हालांकि, सऊदी पब्लिक सिक्योरिटी ने इन खबरों को गलत बताया. अधिकारियों के मुताबिक, एक व्यक्ति को गिरफ्तार किया गया है. काबा के पास हमला करने पहुंचा था सुसाइड बॉम्बर?",
+          "title": "होर्मुज स्‍ट्रेट बना श्‍मशान, 72 घंटे में 5 जहाजों पर अटैक से हर तरफ दहशत, अमेरिका के छूट रहे पसीने",
+          "summary": "ईरान पर अमेरिका और इजरायल के हमलों के बाद होर्मुज स्ट्रेट में जहाजों की आवाजाही काफी घट गई है। 72 घंटे के भीतर पांच जहाजों पर हमले हुए हैं। इससे वैश्विक ऊर्जा आपूर्ति श्रृंखला प्रभावित हुई है। Hormuz Strait Attack: होर्मुज स्‍ट्रेट का ग्‍लोबल एनर्जी सप्‍लाई चेन में अहम भूमिका है. अमेरिका और इजरायल की ओर से ईरान पर अटैक करने के बाद यह आपूर्ति शृंखला छिन्‍न-भिन्‍न हो गई है.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पसंदीदा हीरो के साथ किया डेब्यू, दिल लगाया पर क्यों नहीं की शादी? पढ़िए दिलचस्प किस्से",
+      "url": "https://www.amarujala.com/entertainment/asha-parekh-birthday-know-dadasaheb-phalke-award-winner-actress-career-movies-and-personal-life-unknown-facts-2026-10-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T03:00:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/aasha-parakha_fad61ee0ecf57b1c1be207393f3d0213.jpeg?w=1200&dpr=1.0",
+      "summary": "दिग्गज अभिनेत्री आशा पारेख का जन्मदिन 2 अक्टूबर को मनाया जाता है। वे दादा साहब फाल्के पुरस्कार से सम्मानित हैं। एक समय फिल्म उद्योग पर उनका दबदबा था। प्रतिष्ठित दादा साहब फाल्के पुरस्कार से सम्मानित दिग्गज अभिनेत्री आशा पारेख का आज 02 अक्तूबर को जन्मदिन हैं। एक समय इंडस्ट्री पर इन्होंने राज किया। पढ़िए अदाकारा के दिलचस्प किस्से पसंदीदा हीरो के साथ किया डेब्यू, दिल लगाया पर क्यों नहीं की शादी?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पसंदीदा हीरो के साथ किया डेब्यू, दिल लगाया पर क्यों नहीं की शादी? पढ़िए दिलचस्प किस्से",
+          "summary": "दिग्गज अभिनेत्री आशा पारेख का जन्मदिन 2 अक्टूबर को मनाया जाता है। वे दादा साहब फाल्के पुरस्कार से सम्मानित हैं। एक समय फिल्म उद्योग पर उनका दबदबा था। प्रतिष्ठित दादा साहब फाल्के पुरस्कार से सम्मानित दिग्गज अभिनेत्री आशा पारेख का आज 02 अक्तूबर को जन्मदिन हैं। एक समय इंडस्ट्री पर इन्होंने राज किया। पढ़िए अदाकारा के दिलचस्प किस्से पसंदीदा हीरो के साथ किया डेब्यू, दिल लगाया पर क्यों नहीं की शादी?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "खून से लथपथ नजर आए कैप्टन स्मित, फ्लाईदुबई विमान में हमले का नया वीडियो आया सामने",
+      "url": "https://www.amarujala.com/world/flydubai-flight-attack-new-footage-shows-injured-captain-smit-machchhar-after-mid-air-attack-2026-10-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-02T02:58:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/kapatana-samata-macachhara_39471780dc601fffba5d31865ad2beea.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्लाईदुबई विमान में हुए हमले का नया वीडियो सामने आया है। इसमें कैप्टन स्मित को खून से लथपथ देखा जा सकता है। पीड़ित ने बताया कि हमलावर ने उसे कई बार मारा। 'उसने मुझे कई बार मारा': खून से लथपथ नजर आए कैप्टन स्मित, फ्लाईदुबई विमान में हमले का नया वीडियो आया सामने।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खून से लथपथ नजर आए कैप्टन स्मित, फ्लाईदुबई विमान में हमले का नया वीडियो आया सामने",
+          "summary": "फ्लाईदुबई विमान में हुए हमले का नया वीडियो सामने आया है। इसमें कैप्टन स्मित को खून से लथपथ देखा जा सकता है। पीड़ित ने बताया कि हमलावर ने उसे कई बार मारा। 'उसने मुझे कई बार मारा': खून से लथपथ नजर आए कैप्टन स्मित, फ्लाईदुबई विमान में हमले का नया वीडियो आया सामने।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "गांधी जयंती पर भेजें ये दिल छू लेने वाले संदेश, बापू के आदर्शों को करें याद",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-gandhi-jayanti-2026-wishes-best-messages-quotes-wallpapers-and-whatsapp-status-to-share-2026-10-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T02:52:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/gandhi-jayanti-wishes-2026_86d73715644728b3b36341a1e9352322.jpeg?w=1200&dpr=1.0",
+      "summary": "2 अक्टूबर को महात्मा गांधी की जयंती मनाई जाती है। इस अवसर पर लोग संदेश और कोट्स शेयर करके उन्हें याद करते हैं। उनके आदर्शों को याद करने के लिए विशेष वॉलपेपर भी उपयोग किए जाते हैं। Happy Gandhi Jayanti 2026: 2 अक्तूबर को गांधी जयंती के मौके पर वॉलपेपर, संदेश, और कोट्स सभी के साथ शेयर करके महात्मा गांधी को याद करें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गांधी जयंती पर भेजें ये दिल छू लेने वाले संदेश, बापू के आदर्शों को करें याद",
+          "summary": "2 अक्टूबर को महात्मा गांधी की जयंती मनाई जाती है। इस अवसर पर लोग संदेश और कोट्स शेयर करके उन्हें याद करते हैं। उनके आदर्शों को याद करने के लिए विशेष वॉलपेपर भी उपयोग किए जाते हैं। Happy Gandhi Jayanti 2026: 2 अक्तूबर को गांधी जयंती के मौके पर वॉलपेपर, संदेश, और कोट्स सभी के साथ शेयर करके महात्मा गांधी को याद करें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "प्रीलिम्स एडमिट कार्ड हुआ जारी , 10-11 अक्तूबर को परीक्षा, ऐसे डाउनलोड करें हॉल टिकट",
+      "url": "https://www.amarujala.com/jobs/ibps-clerk-prelims-admit-card-2026-out-download-csa-xvi-hall-ticket-check-exam-date-and-details-2026-10-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T02:46:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/08/23/laptop-using_a6684ffe7f71a737cd5aa6687fab65f7.jpeg?w=1200&dpr=1.0",
+      "summary": "आईबीपीएस ने क्लर्क प्रीलिम्स 2026 के एडमिट कार्ड जारी किए। परीक्षा 10 और 11 अक्टूबर को होगी। कुल 11,663 पदों के लिए आवेदन हुए हैं। उम्मीदवार ibps. in से हॉल टिकट डाउनलोड कर सकते हैं। आईबीपीएस क्लर्क प्रीलिम्स एडमिट कार्ड 2026 जारी हो गया है। उम्मीदवार 10 और 11 अक्तूबर को होने वाली परीक्षा के लिए ibps. in से हॉल टिकट डाउनलोड कर सकते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रीलिम्स एडमिट कार्ड हुआ जारी , 10-11 अक्तूबर को परीक्षा, ऐसे डाउनलोड करें हॉल टिकट",
+          "summary": "आईबीपीएस ने क्लर्क प्रीलिम्स 2026 के एडमिट कार्ड जारी किए। परीक्षा 10 और 11 अक्टूबर को होगी। कुल 11,663 पदों के लिए आवेदन हुए हैं। उम्मीदवार ibps. in से हॉल टिकट डाउनलोड कर सकते हैं। आईबीपीएस क्लर्क प्रीलिम्स एडमिट कार्ड 2026 जारी हो गया है। उम्मीदवार 10 और 11 अक्तूबर को होने वाली परीक्षा के लिए ibps. in से हॉल टिकट डाउनलोड कर सकते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "स्वैग के साथ पहुंचे सलमान; जबरा फैन ने की ऐसी हरकत की सिक्योरिटी को लेना पड़ा एक्शन",
+      "url": "https://www.amarujala.com/entertainment/salman-khan-attend-veer-pahariya-and-sajid-nadiadwala-niece-aafiya-sayed-film-prem-keetanu-screening-in-mumbai-2026-10-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T02:46:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/parama-katanae-sakaranaga_f4078d4c6a563928452423e4274edce1.jpeg?w=1200&dpr=1.0",
+      "summary": "सलमान खान ने मुंबई में 'प्रेम कीटाणु' की स्क्रीनिंग में हिस्सा लिया। एक उत्साही फैन की हरकत पर सुरक्षा कर्मी ने कार्रवाई की। फिल्म शुक्रवार को सिनेमाघरों में रिलीज हुई है। Prem Keetanu Screening: फिल्म 'प्रेम कीटाणु' की बीते दिन मुंबई में स्क्रीनिंग रखी गई। यहां सलमान खान भी पहुंचे। यह फिल्म आज शुक्रवार को सिनेमाघरों में रिलीज हुई है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्वैग के साथ पहुंचे सलमान; जबरा फैन ने की ऐसी हरकत की सिक्योरिटी को लेना पड़ा एक्शन",
+          "summary": "सलमान खान ने मुंबई में 'प्रेम कीटाणु' की स्क्रीनिंग में हिस्सा लिया। एक उत्साही फैन की हरकत पर सुरक्षा कर्मी ने कार्रवाई की। फिल्म शुक्रवार को सिनेमाघरों में रिलीज हुई है। Prem Keetanu Screening: फिल्म 'प्रेम कीटाणु' की बीते दिन मुंबई में स्क्रीनिंग रखी गई। यहां सलमान खान भी पहुंचे। यह फिल्म आज शुक्रवार को सिनेमाघरों में रिलीज हुई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पैगंबर की मस्जिद को बिजली देने वाले केंद्र पर हूती हमला, मुस्लिम वर्ल्ड लीग ने बताया ‘खतरनाक उकसावा’",
+      "url": "https://www.patrika.com/world-news/medina-power-station-houthi-attack-muslim-world-league-20952314",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-02T02:42:18+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Yemen-Houthis-Revenue-Sources.webp",
+      "summary": "मुस्लिम वर्ल्ड लीग ने मदीना के तैबा बिजली केंद्र पर हूती हमले की निंदा की। यह केंद्र मस्जिद अन-नबवी को बिजली देता है। संगठन ने इसे खतरनाक उकसावा बताया। मुस्लिम वर्ल्ड लीग ने सऊदी अरब के मदीना में स्थित तैबा बिजली वितरण केंद्र पर हूती विद्रोहियों के हमले की कड़ी निंदा की है। संगठन के मुताबिक यह केंद्र पैगंबर मुहम्मद की मस्जिद (मस्जिद अन-नबवी) को बिजली आपूर्ति करता है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पैगंबर की मस्जिद को बिजली देने वाले केंद्र पर हूती हमला, मुस्लिम वर्ल्ड लीग ने बताया ‘खतरनाक उकसावा’",
+          "summary": "मुस्लिम वर्ल्ड लीग ने मदीना के तैबा बिजली केंद्र पर हूती हमले की निंदा की। यह केंद्र मस्जिद अन-नबवी को बिजली देता है। संगठन ने इसे खतरनाक उकसावा बताया। मुस्लिम वर्ल्ड लीग ने सऊदी अरब के मदीना में स्थित तैबा बिजली वितरण केंद्र पर हूती विद्रोहियों के हमले की कड़ी निंदा की है। संगठन के मुताबिक यह केंद्र पैगंबर मुहम्मद की मस्जिद (मस्जिद अन-नबवी) को बिजली आपूर्ति करता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमरावती में ट्रक ने पिकअप वैन को मारी टक्कर, पांच लोगों की मौत; 21 यात्री घायल",
+      "url": "https://www.amarujala.com/india-news/five-killed-21-injured-as-truck-hits-pickup-van-in-maharashtra-s-amravati-news-in-hindi-2026-10-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T02:41:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/25/tharaghatana-sakataka-tasavara_1a6eda6275ed747a502e94bbeeff23e8.jpeg?w=1200&dpr=1.0",
+      "summary": "महाराष्ट्र के अमरावती में ट्रक ने पिकअप वैन को टक्कर मारी। हादसे में पांच लोगों की मौत हो गई। 21 यात्री घायल हुए हैं। अमरावती में ट्रक ने पिकअप वैन को मारी टक्कर, पांच लोगों की मौत; 21 यात्री घायल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमरावती में ट्रक ने पिकअप वैन को मारी टक्कर, पांच लोगों की मौत; 21 यात्री घायल",
+          "summary": "महाराष्ट्र के अमरावती में ट्रक ने पिकअप वैन को टक्कर मारी। हादसे में पांच लोगों की मौत हो गई। 21 यात्री घायल हुए हैं। अमरावती में ट्रक ने पिकअप वैन को मारी टक्कर, पांच लोगों की मौत; 21 यात्री घायल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सबसे कम समय में आईएसएस पहुंचे नासा के अंतरिक्ष यात्री, एलन मस्क की कंपनी स्पेसएक्स ने किया कमाल",
+      "url": "https://www.amarujala.com/world/astronauts-arrive-at-international-space-station-on-quickest-us-express-flight-yet-2026-10-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-02T02:33:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/14/spacex-starlink-satellites_82a0b99fe109a88e9426c0b37c7d1278.jpeg?w=1200&dpr=1.0",
+      "summary": "नासा के अंतरिक्ष यात्री सबसे कम समय में अंतरिक्ष स्टेशन पर पहुंचे। स्पेसएक्स ने इस मिशन को सफलतापूर्वक पूरा किया। ISS: सबसे कम समय में अंतरिक्ष स्टेशन पहुंचे नासा के अंतरिक्ष यात्री, एलन मस्क की कंपनी स्पेसएक्स ने किया कमाल। सबसे कम समय में आईएसएस पहुंचे नासा के अंतरिक्ष यात्री, एलन मस्क की कंपनी स्पेसएक्स ने किया कमाल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सबसे कम समय में आईएसएस पहुंचे नासा के अंतरिक्ष यात्री, एलन मस्क की कंपनी स्पेसएक्स ने किया कमाल",
+          "summary": "नासा के अंतरिक्ष यात्री सबसे कम समय में अंतरिक्ष स्टेशन पर पहुंचे। स्पेसएक्स ने इस मिशन को सफलतापूर्वक पूरा किया। ISS: सबसे कम समय में अंतरिक्ष स्टेशन पहुंचे नासा के अंतरिक्ष यात्री, एलन मस्क की कंपनी स्पेसएक्स ने किया कमाल। सबसे कम समय में आईएसएस पहुंचे नासा के अंतरिक्ष यात्री, एलन मस्क की कंपनी स्पेसएक्स ने किया कमाल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'ईरान का हाथ', डोनाल्ड ट्रंप का दावा, नेतन्याहू ने 'इस्लामी कट्टरपंथ' को ठहराया जिम्मेदार",
+      "url": "https://hindi.news18.com/world/middle-east-flydubai-incident-trump-iran-link-netanyahu-islamist-radical-latest-updates-10-points-10879437.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-02T02:23:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/flydubai-incident-trump-iran-link-netanyahu-islamist-radical-latest-updates-10-points-2026-10-e37a599675e2332e71d08dfc1439481f-1200x800.jpg",
+      "summary": "ट्रंप ने फ्लाई-दुबई विमान हादसे में ईरान की संभावित भूमिका का दावा किया। नेतन्याहू ने हमलावर को इस्लामी कट्टरपंथी माना। जांच में तेहरान का कनेक्शन सामने आने पर अमेरिका कड़ी कार्रवाई का संकेत दिया है। फ्लाई-दुबई विमान कांड में अब ईरान कनेक्शन की भी जांच शुरू हो गई है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि विमान के को-पायलट का ईरान से संबंध हो सकता है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'ईरान का हाथ', डोनाल्ड ट्रंप का दावा, नेतन्याहू ने 'इस्लामी कट्टरपंथ' को ठहराया जिम्मेदार",
+          "summary": "ट्रंप ने फ्लाई-दुबई विमान हादसे में ईरान की संभावित भूमिका का दावा किया। नेतन्याहू ने हमलावर को इस्लामी कट्टरपंथी माना। जांच में तेहरान का कनेक्शन सामने आने पर अमेरिका कड़ी कार्रवाई का संकेत दिया है। फ्लाई-दुबई विमान कांड में अब ईरान कनेक्शन की भी जांच शुरू हो गई है. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि विमान के को-पायलट का ईरान से संबंध हो सकता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "परीक्षाओं के महाकुंभ में बैठते हैं करोड़ों युवा, दुनिया में किस रैंक पर टिके हैं भारत के सबसे बड़े",
+      "url": "https://hindi.news18.com/news/career/education-india-largest-exam-details-neet-ug-ranks-number-5-in-world-upsc-cse-jee-main-ugc-net-ranking-10879348.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-02T02:22:29+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/India-Largest-Exam-2026-2026-10-c372077de37fe61e3e8ec485fec467ff-1200x800.jpg",
+      "summary": "एसबीआई की रिपोर्ट के अनुसार, भारत की नीट यूजी परीक्षा विश्व की सबसे बड़ी परीक्षाओं में पाँचवें स्थान पर है। चीन का गाओकाओ इस सूची में शीर्ष पर बना हुआ है। India Largest Exam 2026: एसबीआई की नई रिसर्च रिपोर्ट के मुताबिक, भारत की नीट यूजी परीक्षा दुनिया के सबसे बड़े एग्जाम्स की लिस्ट में 5वें नंबर पर है. चीन का गाओकाओ इस लिस्ट में टॉप पर है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "परीक्षाओं के महाकुंभ में बैठते हैं करोड़ों युवा, दुनिया में किस रैंक पर टिके हैं भारत के सबसे बड़े",
+          "summary": "एसबीआई की रिपोर्ट के अनुसार, भारत की नीट यूजी परीक्षा विश्व की सबसे बड़ी परीक्षाओं में पाँचवें स्थान पर है। चीन का गाओकाओ इस सूची में शीर्ष पर बना हुआ है। India Largest Exam 2026: एसबीआई की नई रिसर्च रिपोर्ट के मुताबिक, भारत की नीट यूजी परीक्षा दुनिया के सबसे बड़े एग्जाम्स की लिस्ट में 5वें नंबर पर है. चीन का गाओकाओ इस लिस्ट में टॉप पर है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "गुस्सा, गलतफहमी और तनाव से जूझ रहे हैं? अपनाकर देखें गांधी जी के अनमोल विचार",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/relationship/gandhi-jayanti-2026-mahatma-gandhi-quotes-inspirational-thoughts-success-mantra-anmol-vachan-2026-10-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T02:20:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/mahatma-gandhi-quotes_595c5c5aa44b4f968731fb3a4e9392ff.jpeg?w=1200&dpr=1.0",
+      "summary": "गांधी के विचारों में सत्य और अहिंसा केवल शब्द नहीं, बल्कि जीवन जीने का सिद्धांत था। अहिंसा का अर्थ शारीरिक हिंसा से बचना नहीं, बल्कि व्यवहार में संयम और सम्मान रखना है। Mahatma Gandhi Anmol Vachan: गांधी जी के लिए सत्य केवल बोलने की बात नहीं थी, बल्कि जीवन जीने का एक सिद्धांत था। इसी तरह अहिंसा का अर्थ सिर्फ शारीरिक हिंसा से बचना नहीं, बल्कि व्यवहार में संयम और दूसरे के प्रति सम्मान से भी जोड़ा जा सकता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गुस्सा, गलतफहमी और तनाव से जूझ रहे हैं? अपनाकर देखें गांधी जी के अनमोल विचार",
+          "summary": "गांधी के विचारों में सत्य और अहिंसा केवल शब्द नहीं, बल्कि जीवन जीने का सिद्धांत था। अहिंसा का अर्थ शारीरिक हिंसा से बचना नहीं, बल्कि व्यवहार में संयम और सम्मान रखना है। Mahatma Gandhi Anmol Vachan: गांधी जी के लिए सत्य केवल बोलने की बात नहीं थी, बल्कि जीवन जीने का एक सिद्धांत था। इसी तरह अहिंसा का अर्थ सिर्फ शारीरिक हिंसा से बचना नहीं, बल्कि व्यवहार में संयम और दूसरे के प्रति सम्मान से भी जोड़ा जा सकता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "राजघाट पर बापू को किया नमन, राष्ट्रपति मुर्मू-पीएम मोदी समेत कई नेताओं ने दी श्रद्धांजलि",
+      "url": "https://www.amarujala.com/india-news/gandhi-shastri-jayanti-pm-modi-and-other-leaders-tribute-on-the-occasion-of-birth-anniversary-hindi-updates-2026-10-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T02:15:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/paema-matha_8e476cab53867994fefe3bd16ef31db3.jpeg?w=1200&dpr=1.0",
+      "summary": "गांधी-शास्त्री जयंती पर राजघाट में राष्ट्रपति मुर्मू और प्रधानमंत्री मोदी समेत कई नेताओं ने श्रद्धांजलि दी। वे बापू के स्मारक पर नमन करते हुए याद किया। राजघाट पर बापू को किया नमन, राष्ट्रपति मुर्मू-पीएम मोदी समेत कई नेताओं ने दी श्रद्धांजलि।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राजघाट पर बापू को किया नमन, राष्ट्रपति मुर्मू-पीएम मोदी समेत कई नेताओं ने दी श्रद्धांजलि",
+          "summary": "गांधी-शास्त्री जयंती पर राजघाट में राष्ट्रपति मुर्मू और प्रधानमंत्री मोदी समेत कई नेताओं ने श्रद्धांजलि दी। वे बापू के स्मारक पर नमन करते हुए याद किया। राजघाट पर बापू को किया नमन, राष्ट्रपति मुर्मू-पीएम मोदी समेत कई नेताओं ने दी श्रद्धांजलि।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "असिस्टेंट प्रॉसिक्यूशन ऑफिसर परीक्षा का परिणाम जारी, ऐसे चेक करें रोल नंबर, कब होगा मेन्स एग्जाम",
+      "url": "https://www.amarujala.com/jobs/rpsc-apo-result-2026-out-check-assistant-prosecution-officer-result-and-roll-number-2026-10-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-02T02:11:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/04/rpsc-varashhatha-athhayapaka-bharata-parakashha-taya-samaya-para-ha-haga_ab5d8a861f3b0d278bb1b08d311fe5dc.jpeg?w=1200&dpr=1.0",
+      "summary": "आरपीएससी ने सहायक अभियोजन अधिकारी परीक्षा 2026 का परिणाम जारी कर दिया है। अभ्यर्थी आधिकारिक वेबसाइट पर पीडीएफ डाउनलोड कर अपना रोल नंबर जाँच सकते हैं। आरपीएससी एपीओ परिणाम 2026 जारी हो गया है। सहायक अभियोजन अधिकारी परीक्षा में शामिल अभ्यर्थी आधिकारिक वेबसाइट पर पीडीएफ डाउनलोड कर अपना रोल नंबर चेक कर सकते हैं। असिस्टेंट प्रॉसिक्यूशन ऑफिसर परीक्षा का परिणाम जारी, ऐसे चेक करें रोल नंबर, कब होगा मेन्स एग्जाम।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "असिस्टेंट प्रॉसिक्यूशन ऑफिसर परीक्षा का परिणाम जारी, ऐसे चेक करें रोल नंबर, कब होगा मेन्स एग्जाम",
+          "summary": "आरपीएससी ने सहायक अभियोजन अधिकारी परीक्षा 2026 का परिणाम जारी कर दिया है। अभ्यर्थी आधिकारिक वेबसाइट पर पीडीएफ डाउनलोड कर अपना रोल नंबर जाँच सकते हैं। आरपीएससी एपीओ परिणाम 2026 जारी हो गया है। सहायक अभियोजन अधिकारी परीक्षा में शामिल अभ्यर्थी आधिकारिक वेबसाइट पर पीडीएफ डाउनलोड कर अपना रोल नंबर चेक कर सकते हैं। असिस्टेंट प्रॉसिक्यूशन ऑफिसर परीक्षा का परिणाम जारी, ऐसे चेक करें रोल नंबर, कब होगा मेन्स एग्जाम।",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -348,7 +672,7 @@
       "url": "https://www.patrika.com/world-news/iran-war-us-marines-middle-east-strait-of-hormuz-tanker-attack-20952191",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-02T01:13:30+00:00",
+      "published_at": "2026-10-02T02:02:58+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Strait-of-Hormuz-1.webp",
       "summary": "United States moved about two thousand Marines to positions surrounding Iran this week. US Marines Middle East Deployment: मध्य पूर्व में बढ़ता सैन्य तनाव अब नए मोड़ पर पहुंचता दिख रहा है। अमेरिका ने ईरान के आसपास अपनी सैन्य मौजूदगी बढ़ाने की तैयारी तेज कर दी है, वहीं रणनीतिक रूप से अहम होरमुज जलडमरूमध्य में एक बड़े तेल टैंकर पर हमले की घटना ने चिंता बढ़ा दी है।",
       "region": "Middle East & Africa",
@@ -362,397 +686,73 @@
       }
     },
     {
-      "title": "पहले मदीना की बिजली सप्लाई पर हमला, अब सऊदी के तेल टर्मिनल पर अटैक, हूतियों पर क्यों भड़के मुस्लिम",
-      "url": "https://hindi.news18.com/world/middle-east-houthis-saudi-arabia-madinah-drone-attack-yanbu-aramco-oil-terminal-10879198.html",
+      "title": "ईरान के कुद्स फोर्स कमांडर का बड़ा दावा, कहा- पूरे क्षेत्र में अमेरिका की स्थिति शर्मनाक",
+      "url": "https://www.patrika.com/world-news/iran-us-tensions-quds-force-chief-us-troops-iraq-withdrawal-20952232",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-02T01:55:16+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Quds-Force-Commander-Esmail.webp",
+      "summary": "ईरान के कुद्स फोर्स कमांडर इस्माइल कानी ने दावा किया कि मध्य पूर्व में शक्ति संतुलन बदल गया है। उन्होंने कहा कि इराक से अमेरिकी सैनिकों की वापसी ने क्षेत्र में अमेरिका की स्थिति को कमजोर कर दिया है। Iran US tensions: ईरान और अमेरिका के बीच लंबे समय से जारी टकराव का असर अब पश्चिम एशिया की बदलती रणनीतिक तस्वीर में भी दिखाई देने लगा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के कुद्स फोर्स कमांडर का बड़ा दावा, कहा- पूरे क्षेत्र में अमेरिका की स्थिति शर्मनाक",
+          "summary": "ईरान के कुद्स फोर्स कमांडर इस्माइल कानी ने दावा किया कि मध्य पूर्व में शक्ति संतुलन बदल गया है। उन्होंने कहा कि इराक से अमेरिकी सैनिकों की वापसी ने क्षेत्र में अमेरिका की स्थिति को कमजोर कर दिया है। Iran US tensions: ईरान और अमेरिका के बीच लंबे समय से जारी टकराव का असर अब पश्चिम एशिया की बदलती रणनीतिक तस्वीर में भी दिखाई देने लगा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "काबा के पास हमला करने पहुंचा था सुसाइड बॉम्बर? मक्का में मची खलबली, सऊदी ने बताया सच",
+      "url": "https://hindi.news18.com/world/middle-east-mecca-kaaba-suicide-bombing-rumour-saudi-arabia-denial-truth-of-viral-video-10879285.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-02T01:01:51+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/saudi-9-2026-10-edcf999050d39c969217eb7f9a3552fd-1200x800.jpg",
-      "summary": "Yemen News Hindi: यमन के हूतियों पर सऊदी अरब में लगातार हमले करने के आरोप लग रहे हैं. पहले मदीना में मस्जिद-ए-नबवी को बिजली देने वाले तैबा पावर स्टेशन पर ड्रोन हमले का मामला सामने आया, जिस पर UAE, बहरीन, कुवैत, जॉर्डन और तुर्किये ने नाराजगी जताई. पहले मदीना की बिजली सप्लाई पर हमला, अब सऊदी के तेल टर्मिनल पर अटैक, हूतियों पर क्यों भड़के मुस्लिम।",
+      "published_at": "2026-10-02T01:53:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/mecca-2026-10-83636ade23989cc047fa51db22f69154-1200x800.jpg",
+      "summary": "मक्का की मस्जिद-ए-हरम में काबा के पास सुसाइड बॉम्बिंग की कोशिश की खबर से हड़कंप मच गया. शुरुआती रिपोर्टों में दावा किया गया कि एक संदिग्ध विस्फोटकों से भरी जैकेट लेकर वहां पहुंचा था. हालांकि, सऊदी पब्लिक सिक्योरिटी ने इन खबरों को गलत बताया. अधिकारियों के मुताबिक, एक व्यक्ति को गिरफ्तार किया गया है. काबा के पास हमला करने पहुंचा था सुसाइड बॉम्बर?",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पहले मदीना की बिजली सप्लाई पर हमला, अब सऊदी के तेल टर्मिनल पर अटैक, हूतियों पर क्यों भड़के मुस्लिम",
-          "summary": "Yemen News Hindi: यमन के हूतियों पर सऊदी अरब में लगातार हमले करने के आरोप लग रहे हैं. पहले मदीना में मस्जिद-ए-नबवी को बिजली देने वाले तैबा पावर स्टेशन पर ड्रोन हमले का मामला सामने आया, जिस पर UAE, बहरीन, कुवैत, जॉर्डन और तुर्किये ने नाराजगी जताई. पहले मदीना की बिजली सप्लाई पर हमला, अब सऊदी के तेल टर्मिनल पर अटैक, हूतियों पर क्यों भड़के मुस्लिम।",
+          "title": "काबा के पास हमला करने पहुंचा था सुसाइड बॉम्बर? मक्का में मची खलबली, सऊदी ने बताया सच",
+          "summary": "मक्का की मस्जिद-ए-हरम में काबा के पास सुसाइड बॉम्बिंग की कोशिश की खबर से हड़कंप मच गया. शुरुआती रिपोर्टों में दावा किया गया कि एक संदिग्ध विस्फोटकों से भरी जैकेट लेकर वहां पहुंचा था. हालांकि, सऊदी पब्लिक सिक्योरिटी ने इन खबरों को गलत बताया. अधिकारियों के मुताबिक, एक व्यक्ति को गिरफ्तार किया गया है. काबा के पास हमला करने पहुंचा था सुसाइड बॉम्बर?",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "वैष्णो देवी दर्शन के लिए दिल्ली से तीन दिन विशेष ट्रेन, लखनऊ स्टेशन पर 7 घंटे का यातायात ब्लॉक",
-      "url": "https://www.amarujala.com/delhi-ncr/indian-railways-special-three-day-train-from-delhi-for-vaishno-devi-pilgrimage-2026-10-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-02T00:56:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/1_38554358aedf19254a504a00b492e8e1.jpeg?w=1200&dpr=1.0",
-      "summary": "माता वैष्णो देवी के दर्शन के लिए उत्तर रेलवे जम्मू-कश्मीर के लिए विशेष ट्रेनें चलाएगा। नई दिल्ली से कटड़ा के बीच तीन दिन विशेष ट्रेन चलेगी। वैष्णो देवी दर्शन के लिए दिल्ली से तीन दिन विशेष ट्रेन, लखनऊ स्टेशन पर 7 घंटे का यातायात ब्लॉक।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वैष्णो देवी दर्शन के लिए दिल्ली से तीन दिन विशेष ट्रेन, लखनऊ स्टेशन पर 7 घंटे का यातायात ब्लॉक",
-          "summary": "माता वैष्णो देवी के दर्शन के लिए उत्तर रेलवे जम्मू-कश्मीर के लिए विशेष ट्रेनें चलाएगा। नई दिल्ली से कटड़ा के बीच तीन दिन विशेष ट्रेन चलेगी। वैष्णो देवी दर्शन के लिए दिल्ली से तीन दिन विशेष ट्रेन, लखनऊ स्टेशन पर 7 घंटे का यातायात ब्लॉक।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "100 साल में कैसे बदली तस्वीर? कभी बेटे तो कभी गोडसे के नजरिए से दिखी बापू की कहानी",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/gandhi-jayanti-2026-from-gandhi-to-lage-raho-munna-bhai-and-gandhi-my-father-list-of-films-on-bapu-2026-09-30",
+      "title": "ऐसी प्रगति किस काम की, जो इंसान को मशीन का गुलाम बना दे",
+      "url": "https://www.amarujala.com/columns/blog/thought-what-is-use-of-progress-that-makes-humans-slaves-to-machines-2026-10-02",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-02T00:55:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/mahatama-gathha-para-bna-falma_66c6fce4ced6525c7b153aad2c59fa83.jpeg?w=1200&dpr=1.0",
-      "summary": "2 अक्टूबर को गांधी जयंती है। हिंदी सिनेमा में भी ऐसे कई मेकर्स रहे हैं, जिन्होंने बापू की जिंदगी के अलग-अलग एंगल को कहानी के जरिए लोगों तक पहुंचाया। 100 साल में कैसे बदली तस्वीर? कभी बेटे तो कभी गोडसे के नजरिए से दिखी बापू की कहानी।",
+      "published_at": "2026-10-02T01:52:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/mk-gandhi_c298ce73361cd0220916407f1e351aaf.jpeg?w=1200&dpr=1.0",
+      "summary": "यह एक विचार लेख है जिसमें मशीनों के प्रति मानव निर्भरता पर सवाल उठाया गया है। लेखक का मानना है कि ऐसी प्रगति बेकार है जो इंसान को तकनीक का गुलाम बना देती है। विचार: ऐसी प्रगति किस काम की, जो इंसान को मशीन का गुलाम बना दे।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "100 साल में कैसे बदली तस्वीर? कभी बेटे तो कभी गोडसे के नजरिए से दिखी बापू की कहानी",
-          "summary": "2 अक्टूबर को गांधी जयंती है। हिंदी सिनेमा में भी ऐसे कई मेकर्स रहे हैं, जिन्होंने बापू की जिंदगी के अलग-अलग एंगल को कहानी के जरिए लोगों तक पहुंचाया। 100 साल में कैसे बदली तस्वीर? कभी बेटे तो कभी गोडसे के नजरिए से दिखी बापू की कहानी।",
+          "title": "ऐसी प्रगति किस काम की, जो इंसान को मशीन का गुलाम बना दे",
+          "summary": "यह एक विचार लेख है जिसमें मशीनों के प्रति मानव निर्भरता पर सवाल उठाया गया है। लेखक का मानना है कि ऐसी प्रगति बेकार है जो इंसान को तकनीक का गुलाम बना देती है। विचार: ऐसी प्रगति किस काम की, जो इंसान को मशीन का गुलाम बना दे।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "यूपी के 16 जिलों में 20 से 59% तक कम रही बारिश, भाखड़ा में जलस्तर 35 फीट नीचे; पंजाब-हिमाचल में",
-      "url": "https://www.amarujala.com/national/rainfall-deficit-of-20-59-in-16-up-districts-bhakra-water-level-35-feet-below-concern-in-punjab-himachal-2026-10-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-02T00:39:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/1_8c21f622349bac1f4bbc7acd928a0962.jpeg?w=1200&dpr=1.0",
-      "summary": "मानसून ने इस बार देश में कई रूप दिखाए हैं। यूपी के 16 जिलों में 20 से 59% तक कम रही बारिश, भाखड़ा में जलस्तर 35 फीट नीचे; पंजाब-हिमाचल में।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी के 16 जिलों में 20 से 59% तक कम रही बारिश, भाखड़ा में जलस्तर 35 फीट नीचे; पंजाब-हिमाचल में",
-          "summary": "मानसून ने इस बार देश में कई रूप दिखाए हैं। यूपी के 16 जिलों में 20 से 59% तक कम रही बारिश, भाखड़ा में जलस्तर 35 फीट नीचे; पंजाब-हिमाचल में।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "टाटा के तीन नामों में क्या अंतर, भारत में कंपनियों के कितने प्रकार और कैसे होती है उनकी पहचान?",
-      "url": "https://www.amarujala.com/business/business-diary/explainer-what-s-the-difference-between-tata-s-three-names-types-of-companies-in-india-and-how-to-identify-2026-10-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-02T00:38:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/raya-dana-ka-ekasapalnara_921d03663e50a5f08133f975174ec709.jpeg?w=1200&dpr=1.0",
-      "summary": "एक्सप्लेनर: टाटा के तीन नामों में क्या अंतर, भारत में कंपनियों के कितने प्रकार और कैसे होती है उनकी पहचान?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "टाटा के तीन नामों में क्या अंतर, भारत में कंपनियों के कितने प्रकार और कैसे होती है उनकी पहचान?",
-          "summary": "एक्सप्लेनर: टाटा के तीन नामों में क्या अंतर, भारत में कंपनियों के कितने प्रकार और कैसे होती है उनकी पहचान?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मेक्सिको के प्रशांत तट के पास तूफान रैचल श्रेणी 3 में पहुंचा, कई राज्यों में नुकसान की आशंका",
-      "url": "https://www.amarujala.com/world/world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-10-02",
+      "title": "17,400 फीट नीचे आकर भी विमान की सुरक्षित लैंडिंग कैसे? चमत्कार से उड़ान विशेषज्ञ भी हैरान",
+      "url": "https://www.amarujala.com/world/flydubai-plane-attack-smit-machchhar-17000-feet-drop-cockpit-attack-how-emergency-landing-aviation-experts-2026-10-02",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-02T00:35:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=1200&dpr=1.0",
-      "summary": "विदेश के समाचार: मेक्सिको के प्रशांत तट के पास तूफान रैचल श्रेणी 3 में पहुंचा, कई राज्यों में नुकसान की आशंका world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-Afghanistan TTP।",
+      "published_at": "2026-10-02T01:40:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/flydubai-smit-indian-pilot_3eb8906dbe53a6f4064db0754a894bd7.gif?w=1200&dpr=1.0",
+      "summary": "फ्लाई दुबई के एक विमान में 17,400 फीट की ऊंचाई से गिरने के बाद भी सुरक्षित लैंडिंग हुई। उड़ान विशेषज्ञ इस घटना को चमत्कार बता रहे हैं क्योंकि कॉकपिट में हमले के बावजूद विमान नियंत्रित रहा। स्मित का शौर्य: 17,400 फीट नीचे आकर भी विमान की सुरक्षित लैंडिंग कैसे? चमत्कार से उड़ान विशेषज्ञ भी हैरान।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मेक्सिको के प्रशांत तट के पास तूफान रैचल श्रेणी 3 में पहुंचा, कई राज्यों में नुकसान की आशंका",
-          "summary": "विदेश के समाचार: मेक्सिको के प्रशांत तट के पास तूफान रैचल श्रेणी 3 में पहुंचा, कई राज्यों में नुकसान की आशंका world-news-updates-hindi-bangladesh-gaza-war-israel-pakistan-us-syria-Afghanistan TTP।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अतुल माहेश्वरी छात्रवृत्ति परीक्षा 2026: प्रवेश-पत्र हुआ जारी, ऐसे कर सकते हैं डाउनलोड, कब होगी",
-      "url": "https://www.amarujala.com/education/atul-maheshwari-scholarship-exam-2026-admit-card-released-here-s-how-to-download-check-exam-dates-2026-10-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-02T00:30:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/atal-mahashavara-chhataravatata-parakashha-2026_50d87c3a904b19b9b1d8b9f6567d994f.jpeg?w=1200&dpr=1.0",
-      "summary": "अतुल माहेश्वरी छात्रवृत्ति परीक्षा-2026 के लिए प्रवेश पत्र जार हो चुके हैं। परीक्षा दो चरणों में आयोजित की जाएगी। पहले चरण की परीक्षा 18 अक्तूबर 2026 को होनी निर्धारित है। प्रवेश पत्र कैसे डाउनलोड करें? दूसरे चरण की परीक्षा कब होगी? अतुल माहेश्वरी छात्रवृत्ति परीक्षा 2026: प्रवेश-पत्र हुआ जारी, ऐसे कर सकते हैं डाउनलोड, कब होगी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अतुल माहेश्वरी छात्रवृत्ति परीक्षा 2026: प्रवेश-पत्र हुआ जारी, ऐसे कर सकते हैं डाउनलोड, कब होगी",
-          "summary": "अतुल माहेश्वरी छात्रवृत्ति परीक्षा-2026 के लिए प्रवेश पत्र जार हो चुके हैं। परीक्षा दो चरणों में आयोजित की जाएगी। पहले चरण की परीक्षा 18 अक्तूबर 2026 को होनी निर्धारित है। प्रवेश पत्र कैसे डाउनलोड करें? दूसरे चरण की परीक्षा कब होगी? अतुल माहेश्वरी छात्रवृत्ति परीक्षा 2026: प्रवेश-पत्र हुआ जारी, ऐसे कर सकते हैं डाउनलोड, कब होगी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान पर नए हमलों की तैयारी?: 9000 सैनिक पश्चिम एशिया भेज रहा अमेरिका, ट्रंप ने दी धमकी; क्या होगा",
-      "url": "https://www.amarujala.com/world/us-is-moving-thousands-of-troops-aboard-ships-to-mideast-as-trump-weighs-new-strikes-on-iran-2026-10-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-02T00:26:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/amaraka-rashhatarapata-danalda-tarapa_cca2cbfabb3c1ed64c200a845e68ff4a.jpeg?w=1200&dpr=1.0",
-      "summary": "अगला कदम? ईरान पर नए हमलों की तैयारी?: 9000 सैनिक पश्चिम एशिया भेज रहा अमेरिका, ट्रंप ने दी धमकी; क्या होगा अगला कदम?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान पर नए हमलों की तैयारी?: 9000 सैनिक पश्चिम एशिया भेज रहा अमेरिका, ट्रंप ने दी धमकी; क्या होगा",
-          "summary": "अगला कदम? ईरान पर नए हमलों की तैयारी?: 9000 सैनिक पश्चिम एशिया भेज रहा अमेरिका, ट्रंप ने दी धमकी; क्या होगा अगला कदम?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कैंसर के महंगे इलाज पर लगेगी लगाम: जांच से लेकर दवाओं तक के लिए बनेगा नया मानक रोडमैप; सरकार की",
-      "url": "https://www.amarujala.com/india-news/government-cancer-treatment-roadmap-ai-screening-drug-cost-effectiveness-district-centres-2026-10-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-02T00:26:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/cancer-test_6c6c9bc7552b6b5f4ce0b38438e3af18.jpeg?w=1200&dpr=1.0",
-      "summary": "क्या तैयारी? government-cancer-treatment-roadmap-ai-screening-drug-cost-effectiveness-district-centres कैंसर के महंगे इलाज पर लगेगी लगाम: जांच से लेकर दवाओं तक के लिए बनेगा नया मानक रोडमैप; सरकार की क्या तैयारी?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैंसर के महंगे इलाज पर लगेगी लगाम: जांच से लेकर दवाओं तक के लिए बनेगा नया मानक रोडमैप; सरकार की",
-          "summary": "क्या तैयारी? government-cancer-treatment-roadmap-ai-screening-drug-cost-effectiveness-district-centres कैंसर के महंगे इलाज पर लगेगी लगाम: जांच से लेकर दवाओं तक के लिए बनेगा नया मानक रोडमैप; सरकार की क्या तैयारी?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पुतिन ने की पीएम मोदी की तारीफ: पश्चिमी देशों को चेताया, कहा- रूस पर किया हमला तो करेंगे हर हथियार",
-      "url": "https://www.amarujala.com/world/putin-praises-pm-modi-efforts-ukraine-conflict-india-economic-corridor-warns-use-all-weapons-nato-kaliningrad-2026-10-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-02T00:25:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/putin_eb6059c1d8dd391fb6c5408e02aca5bc.jpeg?w=1200&dpr=1.0",
-      "summary": "'परमाणु हथियारों का भी करेंगे इस्तेमाल': पुतिन की पश्चिमी देशों को चेतावनी, पीएम मोदी की तारीफ में क्या कहा? putin-praises-pm-modi-efforts-ukraine-conflict-india-economic-corridor-warns-use-all-weapons-nato-kaliningrad पुतिन ने की पीएम मोदी की तारीफ: पश्चिमी देशों को चेताया, कहा- रूस पर किया हमला तो करेंगे हर हथियार।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पुतिन ने की पीएम मोदी की तारीफ: पश्चिमी देशों को चेताया, कहा- रूस पर किया हमला तो करेंगे हर हथियार",
-          "summary": "'परमाणु हथियारों का भी करेंगे इस्तेमाल': पुतिन की पश्चिमी देशों को चेतावनी, पीएम मोदी की तारीफ में क्या कहा? putin-praises-pm-modi-efforts-ukraine-conflict-india-economic-corridor-warns-use-all-weapons-nato-kaliningrad पुतिन ने की पीएम मोदी की तारीफ: पश्चिमी देशों को चेताया, कहा- रूस पर किया हमला तो करेंगे हर हथियार।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इंडिया गठबंधन का चुनाव आयोग के खिलाफ विरोध प्रदर्शन, महात्मा गांधी की 157वीं जयंती मनाई जाएगी",
-      "url": "https://www.amarujala.com/india-news/2-october-2026-major-event-2026-2026-10-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-02T00:20:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/aaja-ka-khabra_3aa786dbc0aeb6554696f360022ff3a8.gif?w=1200&dpr=1.0",
-      "summary": "नमस्कार! आज है शुक्रवार, 2 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं इंडिया गठबंधन का चुनाव आयोग के खिलाफ विरोध प्रदर्शन, महात्मा गांधी की 157वीं जयंती मनाई जाएगी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इंडिया गठबंधन का चुनाव आयोग के खिलाफ विरोध प्रदर्शन, महात्मा गांधी की 157वीं जयंती मनाई जाएगी",
-          "summary": "नमस्कार! आज है शुक्रवार, 2 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं इंडिया गठबंधन का चुनाव आयोग के खिलाफ विरोध प्रदर्शन, महात्मा गांधी की 157वीं जयंती मनाई जाएगी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सीईसी के खिलाफ प्रदर्शन आज, पुतिन ने की पीएम मोदी की तारीफ; कैंसर के महंगे इलाज पर लगेगी लगाम",
-      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-2-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-02T00:17:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0",
-      "summary": "सुर्खियां: सीईसी के खिलाफ प्रदर्शन आज, पुतिन ने की पीएम मोदी की तारीफ; कैंसर के महंगे इलाज पर लगेगी लगाम।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीईसी के खिलाफ प्रदर्शन आज, पुतिन ने की पीएम मोदी की तारीफ; कैंसर के महंगे इलाज पर लगेगी लगाम",
-          "summary": "सुर्खियां: सीईसी के खिलाफ प्रदर्शन आज, पुतिन ने की पीएम मोदी की तारीफ; कैंसर के महंगे इलाज पर लगेगी लगाम।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पर्यटन से 5.2 फीसदी जीडीपी, 8.46 करोड़ को रोजगार; किया पांच गुना ज्यादा खर्च",
-      "url": "https://www.amarujala.com/india-news/india-tourism-industry-domestic-tourists-uttar-pradesh-ayodhya-real-estate-growth-2026-10-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-02T00:13:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/tourism_fdf12179bb0f3ba79b55979e7f9e3267.jpeg?w=1200&dpr=1.0",
-      "summary": "घरेलू सैलानियों ने बदली तस्वीर: पर्यटन से 5.2 फीसदी जीडीपी, 8.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पर्यटन से 5.2 फीसदी जीडीपी, 8.46 करोड़ को रोजगार; किया पांच गुना ज्यादा खर्च",
-          "summary": "घरेलू सैलानियों ने बदली तस्वीर: पर्यटन से 5.2 फीसदी जीडीपी, 8.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या आपको भेड़ों के बीच दिखा खरगोश? 10 सेकंड में खोजने का चैलेंज",
-      "url": "https://www.amarujala.com/bizarre-news/optical-illusion-iq-test-rabbit-hidden-among-the-sheep-can-you-find-in-10-second-2026-10-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-02T00:05:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/bhaugdha-ka-bca-chhapa-kharagasha_18579cac5bb4401bfdd3b79a091255bf.jpeg?w=1200&dpr=1.0",
-      "summary": "भेड़ों के बीच छिपा खरगोश क्या आपको भेड़ों के बीच दिखा खरगोश? 10 सेकंड में खोजने का चैलेंज।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या आपको भेड़ों के बीच दिखा खरगोश? 10 सेकंड में खोजने का चैलेंज",
-          "summary": "भेड़ों के बीच छिपा खरगोश क्या आपको भेड़ों के बीच दिखा खरगोश? 10 सेकंड में खोजने का चैलेंज।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इन 4 राशि वालों को आज मिलेगी बड़ी खुशखबरी, करियर को लेकर बनाएंगे प्लान",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/today-prediction-horoscope-of-2-october-2026-aaj-ka-rashifal-2026-10-01",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-02T00:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/14/aaj-ka-rashifal_fbd993f927fb6b43da71e2611ce94830.jpeg?w=1200&dpr=1.0",
-      "summary": "Aaj Ka Rashifal 2 October 2026: आज का दिन सभी 12 राशियों के लिए कैसा रहेगा? आइए जानते हैं मेष से लेकर मीन तक का हाल। इन 4 राशि वालों को आज मिलेगी बड़ी खुशखबरी, करियर को लेकर बनाएंगे प्लान।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इन 4 राशि वालों को आज मिलेगी बड़ी खुशखबरी, करियर को लेकर बनाएंगे प्लान",
-          "summary": "Aaj Ka Rashifal 2 October 2026: आज का दिन सभी 12 राशियों के लिए कैसा रहेगा? आइए जानते हैं मेष से लेकर मीन तक का हाल। इन 4 राशि वालों को आज मिलेगी बड़ी खुशखबरी, करियर को लेकर बनाएंगे प्लान।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "चुनाव आयोग का वोटर लिस्ट सिस्टम, ईसीआईनेट-ईआरओनेट कैसे काम करते हैं? समझें",
-      "url": "https://www.amarujala.com/india-news/explainer-election-commission-voter-list-system-ecinet-eronet-how-it-works-2026-10-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-01T23:54:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/sakataka-tasavara_6a1c78649287f695e7a064e278434576.jpeg?w=1200&dpr=1.0",
-      "summary": "एक्सप्लेनर: चुनाव आयोग का वोटर लिस्ट सिस्टम, ईसीआईनेट-ईआरओनेट कैसे काम करते हैं?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चुनाव आयोग का वोटर लिस्ट सिस्टम, ईसीआईनेट-ईआरओनेट कैसे काम करते हैं? समझें",
-          "summary": "एक्सप्लेनर: चुनाव आयोग का वोटर लिस्ट सिस्टम, ईसीआईनेट-ईआरओनेट कैसे काम करते हैं?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने जंग में ऐसा पटका, तिलमिलाए US ने लॉन्‍च किया प्रोजेक्ट मेरिडियन, क्‍या है ये बला? मस्‍क को",
-      "url": "https://hindi.news18.com/world/america-elon-musk-to-head-us-project-meridian-future-warfare-for-ai-new-weapons-missiles-after-facing-iran-strong-push-back-in-war-10878908.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-01T23:31:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Elon-Musk-Project-Meridian-2026-10-6463cb9c9b5573a42698db96a28eabca-1200x800.jpg",
-      "summary": "US Project Meridian: अमेरिका ने ईरान की आक्रामकता और ग्लोबल लेवल पर बदलते हालातों के बीच अपनी सैन्य ताकत को लोहा मनवाने के लिए प्रोजेक्ट मेरिडियका मेगा प्लान लॉन्च किया है. इस नए रक्षा प्रोजेक्ट की कमान स्पेसएक्स के बॉस एलन मस्क और एंड्रिल के फाउंडर पामर लकी को सौंपी गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने जंग में ऐसा पटका, तिलमिलाए US ने लॉन्‍च किया प्रोजेक्ट मेरिडियन, क्‍या है ये बला? मस्‍क को",
-          "summary": "US Project Meridian: अमेरिका ने ईरान की आक्रामकता और ग्लोबल लेवल पर बदलते हालातों के बीच अपनी सैन्य ताकत को लोहा मनवाने के लिए प्रोजेक्ट मेरिडियका मेगा प्लान लॉन्च किया है. इस नए रक्षा प्रोजेक्ट की कमान स्पेसएक्स के बॉस एलन मस्क और एंड्रिल के फाउंडर पामर लकी को सौंपी गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जल-जंगल-जमीन बचाने वालों की आवाजें खामोश, 14 वर्षों में 2375 पर्यावरण रक्षकों की हत्या या गुमशुदगी",
-      "url": "https://www.amarujala.com/world/global-witness-report-124-environmental-defenders-killed-2025-land-rights-violence-2026-10-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-01T23:01:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/environmental-defenders_382a61f00a6586aed74f3daab14aa9d8.jpeg?w=1200&dpr=1.0",
-      "summary": "रिपोर्ट: जल-जंगल-जमीन बचाने वालों की आवाजें खामोश, 14 वर्षों में 2375 पर्यावरण रक्षकों की हत्या या गुमशुदगी global-witness-report-124-environmental-defenders-killed-2025-land-rights-violence।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जल-जंगल-जमीन बचाने वालों की आवाजें खामोश, 14 वर्षों में 2375 पर्यावरण रक्षकों की हत्या या गुमशुदगी",
-          "summary": "रिपोर्ट: जल-जंगल-जमीन बचाने वालों की आवाजें खामोश, 14 वर्षों में 2375 पर्यावरण रक्षकों की हत्या या गुमशुदगी global-witness-report-124-environmental-defenders-killed-2025-land-rights-violence।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आरोपों से घिरीं मृणाल ठाकुर? मुश्किल में गजराज का परिवार; जानें इस हफ्ते ओटीटी पर क्या खास",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/web-series/dupahiya-season-2-to-pooja-meri-jaan-and-oh-my-dog-will-release-on-this-friday-on-ott-2026-10-01",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-01T22:49:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/otata-thasa-vaka_afad8c513b0bf72c9d48d1103401e35e.jpeg?w=1200&dpr=1.0",
-      "summary": "अक्तूबर का महीना शुरू हो चुका है। महीने का शुरुआती वीकएंड बहुत खास होने वाला है। इस शुक्रवार को मृणाल ठाकुर और हुमा कुरैशी की अदाकारी वाली फिल्म रिलीज हो रही है। वहीं गजराज राव की अदाकारी से सजी सीरीज भी दस्तक देने वाली है। आरोपों से घिरीं मृणाल ठाकुर? मुश्किल में गजराज का परिवार; जानें इस हफ्ते ओटीटी पर क्या खास।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आरोपों से घिरीं मृणाल ठाकुर? मुश्किल में गजराज का परिवार; जानें इस हफ्ते ओटीटी पर क्या खास",
-          "summary": "अक्तूबर का महीना शुरू हो चुका है। महीने का शुरुआती वीकएंड बहुत खास होने वाला है। इस शुक्रवार को मृणाल ठाकुर और हुमा कुरैशी की अदाकारी वाली फिल्म रिलीज हो रही है। वहीं गजराज राव की अदाकारी से सजी सीरीज भी दस्तक देने वाली है। आरोपों से घिरीं मृणाल ठाकुर? मुश्किल में गजराज का परिवार; जानें इस हफ्ते ओटीटी पर क्या खास।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी एयरबेस पर सुरक्षा में चूक मामले में ब्रिटिश-ईरानी नागरिक गिरफ्तार, आतंकवादी साजिश का शक",
-      "url": "https://www.amarujala.com/world/uk-iranian-national-arrested-raf-fairford-security-incident-iran-role-2026-10-02",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-01T19:41:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/uk_9a8e4e4a254aa6cb604de072883c383c.jpeg?w=1200&dpr=1.0",
-      "summary": "British-Iranian national was detained at RAF Fairford in Gloucestershire after a security breach was reported. अमेरिकी एयरबेस पर सुरक्षा में चूक मामले में ब्रिटिश-ईरानी नागरिक गिरफ्तार, आतंकवादी साजिश का शक।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी एयरबेस पर सुरक्षा में चूक मामले में ब्रिटिश-ईरानी नागरिक गिरफ्तार, आतंकवादी साजिश का शक",
-          "summary": "British-Iranian national was detained at RAF Fairford in Gloucestershire after a security breach was reported. अमेरिकी एयरबेस पर सुरक्षा में चूक मामले में ब्रिटिश-ईरानी नागरिक गिरफ्तार, आतंकवादी साजिश का शक।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "संयुक्त अरब अमीरात भेजा गया आरोपी सह-पायलट; सऊदी गृह मंत्रालय ने क्या कहा?",
-      "url": "https://www.amarujala.com/world/saudi-arabia-says-suspect-in-flydubai-plane-attack-has-been-handed-over-to-the-uae-2026-10-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-01T19:33:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/sakataka-tasavara_98855601f459113196d56b288f042e10.jpeg?w=1200&dpr=1.0",
-      "summary": "फ्लाईदुबई विमान मामला: संयुक्त अरब अमीरात भेजा गया आरोपी सह-पायलट; सऊदी गृह मंत्रालय ने क्या कहा?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संयुक्त अरब अमीरात भेजा गया आरोपी सह-पायलट; सऊदी गृह मंत्रालय ने क्या कहा?",
-          "summary": "फ्लाईदुबई विमान मामला: संयुक्त अरब अमीरात भेजा गया आरोपी सह-पायलट; सऊदी गृह मंत्रालय ने क्या कहा?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘मुझे मार डालो’, कैप्टन स्मित से हारकर क्या बड़बड़ा रहा था ओमानी पायलट? जमीन पर पड़ा रोता रहा",
-      "url": "https://hindi.news18.com/world/middle-east-kill-me-what-omani-co-pilot-cried-after-captain-smit-and-israeli-heroes-foiled-flydubai-attack-netanyahu-honors-flight-heroes-10879097.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-01T18:18:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Omani-Pilot-2026-10-7c4a6c2fff8f02b0ed519da246a66463-1200x800.jpg",
-      "summary": "'फ्लाईदुबई' की फ्लाइट FZ1073 में 174 यात्रियों को मारने की साजिश नाकाम हो गई. ओमानी को-पायलट ने कैप्टन स्मित मछार पर चाकू से हमला किया. वो प्लेन को क्रैश कराना चाहता था. साजिश फेल होते ही को-पायलट लगातार चीख रहा था, ‘मुझे मार डालो’. इजराइल के पीएम बेंजामिन नेतन्याहू सामने फ्लाइट के हीरोज ने कॉकपिट में हुए पूरी घटना की एक-एक डीटेल बयां की है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘मुझे मार डालो’, कैप्टन स्मित से हारकर क्या बड़बड़ा रहा था ओमानी पायलट? जमीन पर पड़ा रोता रहा",
-          "summary": "'फ्लाईदुबई' की फ्लाइट FZ1073 में 174 यात्रियों को मारने की साजिश नाकाम हो गई. ओमानी को-पायलट ने कैप्टन स्मित मछार पर चाकू से हमला किया. वो प्लेन को क्रैश कराना चाहता था. साजिश फेल होते ही को-पायलट लगातार चीख रहा था, ‘मुझे मार डालो’. इजराइल के पीएम बेंजामिन नेतन्याहू सामने फ्लाइट के हीरोज ने कॉकपिट में हुए पूरी घटना की एक-एक डीटेल बयां की है.",
+          "title": "17,400 फीट नीचे आकर भी विमान की सुरक्षित लैंडिंग कैसे? चमत्कार से उड़ान विशेषज्ञ भी हैरान",
+          "summary": "फ्लाई दुबई के एक विमान में 17,400 फीट की ऊंचाई से गिरने के बाद भी सुरक्षित लैंडिंग हुई। उड़ान विशेषज्ञ इस घटना को चमत्कार बता रहे हैं क्योंकि कॉकपिट में हमले के बावजूद विमान नियंत्रित रहा। स्मित का शौर्य: 17,400 फीट नीचे आकर भी विमान की सुरक्षित लैंडिंग कैसे? चमत्कार से उड़ान विशेषज्ञ भी हैरान।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
