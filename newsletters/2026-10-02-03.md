@@ -1,6 +1,40 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 02, 2026 08:53 IST
+**Updated:** October 02, 2026 09:07 IST
+
+---
+
+## Asia-Pacific
+
+### [Sri Lanka: chasing system change](https://www.thehindu.com/news/international/sri-lanka-chasing-system-change/article71532808.ece)
+*The Hindu (International)* - Oct 02, 08:58 IST (iso: 2026-10-02T03:28:01+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/u401g6/article71534497.ece/alternates/LANDSCAPE_1200/iStock-1452850470.jpg -->
+
+Sri Lanka’s government restored macroeconomic stability two years after Dissanayake’s election. It introduced a different political culture. However, key structural reform promises remain unfulfilled. The administration now faces the challenge of turning the Aragalaya’s demand for system change into lasting political transformation. The National People’s Power govt. restored macroeconomic stability and introduced a different political culture, but key promises of structural reform remain unfulfilled; two years after Dissanayake’s election, the govt.
+
+### [South Korea's Lee urges North Korea to restore dialogue, pledges military buildup](https://www.thehindu.com/news/international/south-koreas-lee-urges-north-korea-to-restore-dialogue-pledges-military-buildup/article71534238.ece)
+*The Hindu (International)* - Oct 01, 21:40 IST (iso: 2026-10-01T16:10:57+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/wlfokk/article71534249.ece/alternates/LANDSCAPE_1200/South_Korea_Armed_Forces_Day_5_852.jpg -->
+
+The comments came after Seoul’s ​military and the ‌UN Command said North Korea violated the Korean War armistice following a landmine blast last week that wounded three South Korean soldiers in the Demilitarized ‌Zone (DMZ). South Korea's Lee urges North Korea to restore dialogue, pledges military buildup.
+
+### [Kyrgyz Activist Gets 2 Years For Criticizing Growing Chinese Presence](https://www.rferl.org/a/kyrgyz-activist-jailed-china-criticism/33868520.html)
+*Radio Free Europe / Liberty* - Oct 01, 21:38 IST (iso: 2026-10-01T16:08:10+00:00)
+<!-- image: https://gdb.rferl.org/9c253f6e-b4d9-4370-1cda-08df0d9fbd54_cx6_cy8_cw93_w1200_h630.jpg -->
+
+The Lenin District Court in Bishkek found activist and politician Mavlyan Askarbekov guilty and sentenced to two years in prison on offenses related to a law on incitement of racial, ethnic, national, religious, or interregional hatred, a verdict he called "absurd." Kyrgyz Activist Gets 2 Years For Criticizing Growing Chinese Presence.
+
+### [Afghanistan’s TTP sanctuary is becoming harder to deny](https://asiatimes.com/2026/10/afghanistans-ttp-sanctuary-is-becoming-harder-to-deny/)
+*Asia Times* - Oct 01, 17:45 IST (iso: 2026-10-01T12:15:03+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/TTP-Pakistan-Afghanistan.jpg -->
+
+For years, Pakistan’s claim that the Tehreek-e-Taliban Pakistan operates from sanctuaries inside Afghanistan produced a familiar exchange: Islamabad accused, Kabul denied, and each new militant attack triggered another round of recrimination. That pattern is becoming harder to sustain. The sanctuary dispute can now be tested against a growing body of evidence rather than competing claims [] The p Afghanistan’s TTP sanctuary is becoming harder to deny.
+
+### [Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO](https://news.un.org/feed/view/en/story/2026/10/1168500)
+*UN News* - Oct 01, 17:30 IST (iso: 2026-10-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-01.jpg/image770x420cropped.jpg -->
+
+The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday. Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO.
 
 ---
 
@@ -10,7 +44,7 @@
 *The Guardian* - Oct 02, 07:30 IST (iso: 2026-10-02T02:00:07+00:00)
 <!-- image: https://i.guim.co.uk/img/media/9240643cca052179ce2af25984e27c59dc8c01ec/784_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b044c2f39aedd127aa85da09302b3db1 -->
 
-Brazil held its first-round presidential election on Sunday. Flávio Bolsonaro, son of the jailed former president, ran to succeed his father. Jair Bolsonaro was convicted in September 2025 of attempting a coup. The campaign tested whether his political legacy survived the conviction. The Bolsonarosthey’re back! Brazil heads to the polls – podcast.
+Brazil held its first-round presidential election on Sunday. Flávio Bolsonaro, son of the jailed former president, ran to succeed his father. Jair Bolsonaro was convicted in September 2025 of attempting a coup. The campaign tested whether his political legacy survived the conviction. The Bolsonarosthey’re back! Brazil heads to the polls – podcast. The Bolsonarosthey’re back!
 
 ### [Computer science has long understood how to keep AI under control](https://asiatimes.com/2026/10/computer-science-has-long-understood-how-to-keep-ai-under-control/)
 *Asia Times* - Oct 02, 01:54 IST (iso: 2026-10-01T20:24:56+00:00)
@@ -44,40 +78,6 @@ Support for white Afrikaners, anti-communism and others reveals how US redefinin
 
 ---
 
-## Asia-Pacific
-
-### [Sri Lanka: chasing system change](https://www.thehindu.com/news/international/sri-lanka-chasing-system-change/article71532808.ece)
-*The Hindu (International)* - Oct 01, 22:49 IST (iso: 2026-10-01T17:19:10+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/u401g6/article71534497.ece/alternates/LANDSCAPE_1200/iStock-1452850470.jpg -->
-
-Sri Lanka’s government restored macroeconomic stability two years after Dissanayake’s election. It introduced a different political culture. However, key structural reform promises remain unfulfilled. The administration now faces the challenge of turning the Aragalaya’s demand for system change into lasting political transformation. The National People’s Power govt. restored macroeconomic stability and introduced a different political culture, but key promises of structural reform remain unfulfilled; two years after Dissanayake’s election, the govt.
-
-### [South Korea's Lee urges North Korea to restore dialogue, pledges military buildup](https://www.thehindu.com/news/international/south-koreas-lee-urges-north-korea-to-restore-dialogue-pledges-military-buildup/article71534238.ece)
-*The Hindu (International)* - Oct 01, 21:40 IST (iso: 2026-10-01T16:10:57+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/wlfokk/article71534249.ece/alternates/LANDSCAPE_1200/South_Korea_Armed_Forces_Day_5_852.jpg -->
-
-The comments came after Seoul’s ​military and the ‌UN Command said North Korea violated the Korean War armistice following a landmine blast last week that wounded three South Korean soldiers in the Demilitarized ‌Zone (DMZ). South Korea's Lee urges North Korea to restore dialogue, pledges military buildup.
-
-### [Kyrgyz Activist Gets 2 Years For Criticizing Growing Chinese Presence](https://www.rferl.org/a/kyrgyz-activist-jailed-china-criticism/33868520.html)
-*Radio Free Europe / Liberty* - Oct 01, 21:38 IST (iso: 2026-10-01T16:08:10+00:00)
-<!-- image: https://gdb.rferl.org/9c253f6e-b4d9-4370-1cda-08df0d9fbd54_cx6_cy8_cw93_w1200_h630.jpg -->
-
-The Lenin District Court in Bishkek found activist and politician Mavlyan Askarbekov guilty and sentenced to two years in prison on offenses related to a law on incitement of racial, ethnic, national, religious, or interregional hatred, a verdict he called "absurd." Kyrgyz Activist Gets 2 Years For Criticizing Growing Chinese Presence.
-
-### [Afghanistan’s TTP sanctuary is becoming harder to deny](https://asiatimes.com/2026/10/afghanistans-ttp-sanctuary-is-becoming-harder-to-deny/)
-*Asia Times* - Oct 01, 17:45 IST (iso: 2026-10-01T12:15:03+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/TTP-Pakistan-Afghanistan.jpg -->
-
-For years, Pakistan’s claim that the Tehreek-e-Taliban Pakistan operates from sanctuaries inside Afghanistan produced a familiar exchange: Islamabad accused, Kabul denied, and each new militant attack triggered another round of recrimination. That pattern is becoming harder to sustain. The sanctuary dispute can now be tested against a growing body of evidence rather than competing claims [] The p Afghanistan’s TTP sanctuary is becoming harder to deny.
-
-### [Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO](https://news.un.org/feed/view/en/story/2026/10/1168500)
-*UN News* - Oct 01, 17:30 IST (iso: 2026-10-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-01.jpg/image770x420cropped.jpg -->
-
-The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday. Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO.
-
----
-
 ## Middle East & Africa
 
 ### [Turkiye detains suspect in 2013 attack by Syria border: report](https://www.thehindu.com/news/international/turkiye-detains-suspect-in-2013-attack-by-syria-border-report/article71534206.ece)
@@ -104,6 +104,12 @@ Exports of crude oil from the Middle East hit their highest level in September s
 
 Georgia summoned Iran’s ambassador after his planned book Georgia has summoned Iran’s ambassador after his plans to publish a personal interpretation of Queen Ketevan’s history sparked criticism from ruling party lawmakers. Revered as a saint in Georgia, Ketevan was tortured and killed in Persia in the 17th century after refusing to renounce Christianity. Georgia Summons Iranian Ambassador Over Remarks On Revered Queen Ketevan.
 
+### [Tbilisi Rebukes Iranian Envoy Over Social Media Post On Canonized Georgian Queen](https://www.rferl.org/a/iran-georgian-moujani-queen-ketevan-summon/33867839.html)
+*Radio Free Europe / Liberty* - Oct 01, 18:05 IST (iso: 2026-10-01T12:35:16+00:00)
+<!-- image: https://gdb.rferl.org/6be52ee4-a1ab-477b-ea1b-08df0f42c51f_cx0_cy6_cw0_w1200_h630.jpg -->
+
+Iran’s ambassador to Georgia announced plans to publish research on Queen Ketevan, a 17th-century monarch executed by Persia and later canonized by the Georgian Orthodox Church. Tbilisi summoned the envoy over the move, which the Foreign Ministry viewed as an inappropriate intervention in Georgian religious history. The incident highlights ongoing diplomatic friction between the two nations. Georgia’s government rejected the ambassador’s framing of the historical figure.
+
 ### [Ebola response faces setback as transit centre burns down in DR Congo camp](https://news.un.org/feed/view/en/story/2026/10/1168499)
 *UN News* - Oct 01, 17:30 IST (iso: 2026-10-01T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/18-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image770x420cropped.jpg -->
@@ -115,12 +121,6 @@ The enormous challenge of halting the spread of Ebola in the Democratic Republic
 <!-- image: https://gdb.rferl.org/178D784C-B0F2-495F-8D50-DD251AD6AC12_cx23_cy23_cw76_w1200_h630.jpg -->
 
 Qatar will keep the Afghan refugee camp open for another nine months after the closure deadline passed, according to Afghan refugees being held at a camp in Qatar have been told it will be kept open for another nine months after a deadline for its closure passed, but they face continuing uncertainty over their fate amid an ongoing bar on entry to the United States.
-
-### [South African leader urges men to speak up on gender-based violence after series of killings](https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings)
-*The Guardian* - Sep 30, 19:46 IST (iso: 2026-09-30T14:16:33+00:00)
-<!-- image: https://i.guim.co.uk/img/media/7b920bba2f88d64872ad31a0ccd397a6ba405e89/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0546ecb3f5b07fc8ef57e4419b29e1c2 -->
-
-President announces measures amid anger at authorities over recent murders of womenSouth Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women. He said police would be reviewing unso.
 
 ### [Burundi agrees to receive ‘third-country’ migrant deportees from US](https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration)
 *The Guardian* - Sep 30, 18:17 IST (iso: 2026-09-30T12:47:15+00:00)
@@ -160,17 +160,17 @@ Institutions have for years turned to China for funding opportunities but nation
 
 ## Global / Multilateral
 
-### [Homicides fall as organised crime grows more profitable – and networked](https://news.un.org/feed/view/en/story/2026/09/1168493)
-*UN News* - Sep 30, 17:30 IST (iso: 2026-09-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-06-2024-UNODC-Philippines-5-LG.jpg/image560x340cropped.jpg -->
-
-A new UN report revealed global homicide rates are falling. Organised crime is rising in many regions. Criminal networks are diversifying into trafficking and migrant smuggling. They are also exploiting natural resources. This shift makes criminal operations more profitable and networked. Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into trafficking, migrant smuggling, and the exploitation of natural resources, a new UN report launched on Wednesday revealed.
-
 ### [Who gets to shape AI? UN debate centres on power, trust and inclusion](https://news.un.org/feed/view/en/story/2026/09/1168498)
 *UN News* - Sep 30, 17:30 IST (iso: 2026-09-30T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-Sudan-01.jpg/image770x420cropped.jpg -->
 
 Artificial Intelligence or AI – and the technology behind it – is moving fast. The question being asked across the world is who gets a seat at the table deciding how it's used and who gets to benefit. Who gets to shape AI? UN debate centres on power, trust and inclusion.
+
+### [Homicides fall as organised crime grows more profitable – and networked](https://news.un.org/feed/view/en/story/2026/09/1168493)
+*UN News* - Sep 30, 17:30 IST (iso: 2026-09-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-06-2024-UNODC-Philippines-5-LG.jpg/image560x340cropped.jpg -->
+
+A new UN report revealed global homicide rates are falling. Organised crime is rising in many regions. Criminal networks are diversifying into trafficking and migrant smuggling. They are also exploiting natural resources. This shift makes criminal operations more profitable and networked. Homicide rates are falling across much of the world, but organised crime is on the rise in many regions as criminal networks diversify into trafficking, migrant smuggling, and the exploitation of natural resources, a new UN report launched on Wednesday revealed.
 
 ---
 
