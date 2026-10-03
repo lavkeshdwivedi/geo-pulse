@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-10-03T04:08:43.671339+00:00",
+  "generated_at": "2026-10-03T10:16:03.218016+00:00",
   "article_count": 50,
-  "total_unique_count": 259,
+  "total_unique_count": 264,
   "digest": {
-    "en": "Bangkok streets sit under stagnant floodwater as the city hits a breaking point. In Washington, an FBI arrest links a US Energy Department employee to Houthi support in Yemen. Brazil’s attorney general condemns Trump funding plans as political meddling ahead of the polls.",
-    "hi": "ट्रंप ने ईरान युद्ध के अंत पर तेल की कीमतें गिरने का दावा किया और तेहरान को परमाणु हथियारों से वंचित रहने की बात कही। इसी बीच कैप्टन स्मित मच्छार की बहादुरी पर अमेरिकी भाईजानों ने सलाम किया और उनके पिता ने बेटे की सुरक्षा को पहली चिंता बताई।"
+    "en": "A Flydubai pilot was stabbed, forcing an emergency landing and feeding Netanyahu’s protector narrative ahead of Israeli polls. Brazil’s election tightens as Lula warns against Bolsonaro’s son, testing the pro-Trump Latin American bloc. Bangkok floods have turned streets into stagnant lakes, straining the city’s infrastructure.",
+    "hi": "वाशिंगटन ने 50 देशों पर 20,000 डॉलर का नया वीजा शुल्क लगाया, जिससे भारत को राहत मिली। इसी बीच दुबई के पायलट पर अल-कायदा कनेक्शन सामने आया, जो क्षेत्रीय सुरक्षा को नई चिंता देता है।"
   },
   "articles": [
     {
-      "title": "New animal welfare code for dog trainers prioritises positive reinforcement, less aversive methods",
-      "url": "https://www.channelnewsasia.com/singapore/new-code-animal-welfare-dog-trainers-revised-groomers-6426811",
-      "source": "Channel News Asia",
+      "title": "Altercation, emergency landing and investigation",
+      "url": "https://www.thehindu.com/news/international/flydubai-incident-altercation-emergency-landing-and-investigation-explained/article71531532.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-10-03T03:30:20+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--OEAg4XQa--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/dog-run-1---1503152.png?itok=M1MAkdO6",
-      "summary": "New animal welfare rules for dog trainers mandate positive reinforcement and restrict aversive methods. The Animal and Veterinary Service also updated pet groomer codes. Animals can no longer be left unattended during grooming sessions. These changes set a minimum standard for handler supervision. The Animal and Veterinary Service also announced revisions to the existing code of animal welfare for pet groomers, making it a minimum standard for animals not to be left unattended at any point during grooming.",
+      "published_at": "2026-10-03T08:38:05+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/r3ro4w/article71531664.ece/alternates/LANDSCAPE_1200/Israel_Mideast_Emergency_Landing_38233.jpg",
+      "summary": "An aircraft suffered substantial damage to flight control surfaces and tail structures. The incident followed an erratic emergency descent. Investigators are examining the stress placed on critical components. The event highlights risks associated with uncontrolled descent maneuvers. Pictures showed that the aircraft had substantial damage. An emergency descent can be controlled, but in this instance, where descent could have been initiated erratically, there can be severe damage and stress to the crucial flight control surfaces and even the aircraft's tail.",
       "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+      "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-03T07:00:35+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/3b8cb6ae5c679bf69f33c5529917b47a2ca1b513/759_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32d4c5a62455a5ad8195635060ef4c83",
+      "summary": "Brazil holds a tight election pitting Lula against the son of a convicted former president. The race tests the growing pro-Trump bloc in Latin America. Trump recently gathered right-wing leaders to promote his regional agenda. The outcome will shape the continent's political alignment. Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of electionShortly after his controversial speech to the United Nations general assembly in September, Donald Trump gathered a dozen like-minded Latin American leaders and boasted that rightwing ca.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Flydubai attack feeds Netanyahu’s ‘protector’ line as polls near",
+      "url": "https://asiatimes.com/2026/10/flydubai-attack-feeds-netanyahus-protector-line-as-polls-near/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-10-03T06:46:31+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Israel-Benjamin-Netanyahu-.jpg",
+      "summary": "A Flydubai flight carrying 170 passengers faced an attempted hijacking. The pilot and passengers prevented a major disaster. Netanyahu released a video warning of threats shortly before the incident. The event reinforces his narrative of constant security risks for Israel. The apparent attempted hijacking of a Flydubai flight carrying 170 mostly Israeli passengers was another reminder to Israelis of the constant threat of terror and war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "New F-16s buy Taiwan time and space against China’s air coercion",
+      "url": "https://asiatimes.com/2026/10/new-f-16s-buy-taiwan-time-and-space-against-chinas-air-coercion/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-10-03T04:07:52+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Taiwan-F-16s.jpeg",
+      "summary": "Taiwan received its first two F-16V Block 70 jets at Chihhang Air Base. The aircraft provide breathing room against Chinese gray-zone coercion. However, increasing Chinese stealth capabilities limit their wartime utility. The delivery marks a significant step in Taiwan's air defense strategy. Taiwan’s new American-made F-16V Block 70 jets deliver much-needed breathing room against daily Chinese gray-zone coercion, yet surging Chinese stealth numbers and cratered runway risks mean their wartime utility would be sharply contested.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -27,18 +63,6 @@
       "published_at": "2026-10-03T02:00:46+00:00",
       "image_url": "https://i.guim.co.uk/img/media/28d65843d5c98581f9f88c0d389449839bd10c02/453_0_4506_3605/master/4506.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de0585a1db96b1caf06e7f62769feebe",
       "summary": "Bangkok declared a disaster across all 50 districts after severe flooding. Forty people died as streets turned into stagnant lakes. Experts warn extreme flooding will worsen across south-east Asia. The city struggles to absorb sudden downpours during the rainy season. With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east AsiaBangkok is used to absorbing the sudden afternoon downpours that inundate the city during the rainy season.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "The Weeknd Singapore concert review: After Hours Til Dawn is a spectacular return after 8 years",
-      "url": "https://www.channelnewsasia.com/entertainment/weeknd-singapore-2026-after-hours-til-dawn-6428206",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-10-02T23:39:40+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--S4QYXunw--/c_crop,h_1125,w_2000,x_0,y_288/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/03/the_weeknd_hero.jpg?itok=3r7mZ8i-",
-      "summary": "The Weeknd returned to Singapore on October 2 after an eight year absence. The After Hours Til Dawn show featured strong vocals and large scale production. The performance marked a significant return for the artist in the region. Eight years after his last show in Singapore, The Weeknd made a triumphant return on Friday (Oct 2) with powerhouse vocals, dazzling lasers and a larger-than-life production that proved just how far he has come as a performer.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -140,13 +164,13 @@
       "translations": {}
     },
     {
-      "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
-      "url": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
-      "source": "The Guardian",
+      "title": "Computer science has long understood how to keep AI under control",
+      "url": "https://asiatimes.com/2026/10/computer-science-has-long-understood-how-to-keep-ai-under-control/",
+      "source": "Asia Times",
       "sources": [],
-      "published_at": "2026-10-01T18:34:10+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/1ee7c4708c6ff1dbbdcbad5d5bbc74b0a1ed128a/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f267db0e883021953c5781b44fd45ea7",
-      "summary": "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’ as nation prepares to go to pollsBrazil’s attorney general has said foreign meddling in his country’s institutions and democracy “cannot be tolerated” after a Guardian report revealed how the Trump administration was pushing to direct funds to a campaign against the Brazilian supreme court. Writing on X, Jorge Messia Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed.",
+      "published_at": "2026-10-01T20:24:56+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/file-20260928-50-saj32q-copy-e1790872873786.jpg",
+      "summary": "A New York Times article described OpenAI agents as going rogue during a cyberattack. Computer scientists argue that AI agents do not act independently. Humans are responsible for directing these systems. The coverage misrepresents the nature of current AI capabilities and control mechanisms. AI agents don’t go rogue. That’s something only humans do. Nevertheless, a New York Times article – representative of much news coverage of AI – described an OpenAI hacking as “A. I.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -212,18 +236,6 @@
       "translations": {}
     },
     {
-      "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168499",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-01T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/18-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image560x340cropped.jpg",
-      "summary": "The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province. Ebola response faces setback as transit centre burns down in DR Congo camp.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
       "source": "UN News",
@@ -236,13 +248,13 @@
       "translations": {}
     },
     {
-      "title": "'Exhausted' Afghan Refugees Get Extension At Camp In Qatar As US Lawmakers Urge Action",
-      "url": "https://www.rferl.org/a/afghan-refugees-extension-qatar-camp-us-congressmen/33867813.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168499",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-10-01T10:06:10+00:00",
-      "image_url": "https://gdb.rferl.org/178D784C-B0F2-495F-8D50-DD251AD6AC12_cx23_cy23_cw76_w1200_h630.jpg",
-      "summary": "Qatar will keep the Afghan refugee camp open for another nine months after the closure deadline passed, according to Afghan refugees being held at a camp in Qatar have been told it will be kept open for another nine months after a deadline for its closure passed, but they face continuing uncertainty over their fate amid an ongoing bar on entry to the United States.",
+      "published_at": "2026-10-01T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/18-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image560x340cropped.jpg",
+      "summary": "The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province. Ebola response faces setback as transit centre burns down in DR Congo camp.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,464 +308,452 @@
       "translations": {}
     },
     {
-      "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
-      "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-09-30T12:47:15+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/3c9052fcf07ee901977375d6acb1fcaa1a4b9e02/423_0_4886_3911/master/4886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6af505d983d3959f1b07f1162f34f85",
-      "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policyBurundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠Donald Trump’s hardline ⁠immigration ​policy. However, the authorities in Bujumbura, the country’s economic capital, said Burundi will only accept those not accused o Burundi agrees to receive ‘third-country’ migrant deportees from US.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "एमएलसी चुनाव में कांग्रेस ने खोले पत्ते, दो मौजूदा सदस्यों पर फिर भरोसा, अमरावती से नया चेहरा कौन?",
-      "url": "https://www.amarujala.com/india-news/maharashtra-mlc-election-2026-congress-candidates-abhijit-wanjari-jayant-dinkar-asagaonkar-aditi-pohare-2026-10-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:55:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/maharashhatara-ma-kana-umamathavara_32ca8317427bf64dcd9ccd7eca589e01.jpeg?w=1200&dpr=1.0",
-      "summary": "महाराष्ट्र विधान परिषद चुनावों के लिए कांग्रेस ने अपनी उम्मीदवार सूची जारी कर दी है। पार्टी ने दो मौजूदा सदस्यों को फिर से टिकट दिया है। अमरावती सीट से एक नया चेहरा उतारा गया है। इस निर्णय से पार्टी के आंतरिक गणित और आगामी रणनीति पर असर पड़ेगा। महाराष्ट्र: एमएलसी चुनाव में कांग्रेस ने खोले पत्ते, दो मौजूदा सदस्यों पर फिर भरोसा, अमरावती से नया चेहरा कौन?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एमएलसी चुनाव में कांग्रेस ने खोले पत्ते, दो मौजूदा सदस्यों पर फिर भरोसा, अमरावती से नया चेहरा कौन?",
-          "summary": "महाराष्ट्र विधान परिषद चुनावों के लिए कांग्रेस ने अपनी उम्मीदवार सूची जारी कर दी है। पार्टी ने दो मौजूदा सदस्यों को फिर से टिकट दिया है। अमरावती सीट से एक नया चेहरा उतारा गया है। इस निर्णय से पार्टी के आंतरिक गणित और आगामी रणनीति पर असर पड़ेगा। महाराष्ट्र: एमएलसी चुनाव में कांग्रेस ने खोले पत्ते, दो मौजूदा सदस्यों पर फिर भरोसा, अमरावती से नया चेहरा कौन?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "प्रोफेसर सूर्यनारायण डूला से 8 घंटे पूछताछ, जातिसूचक टिप्पणी से किया इनकार",
-      "url": "https://www.amarujala.com/india-news/iit-bombay-student-suicide-case-professor-suryanarayan-doolla-questioned-for-8-hours-2026-10-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:52:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/parafasara-sarayanarayanae-dal-sa-8-ghata-pachhatachha_de6cacb0b5837268be7dfed916b8be07.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई पुलिस ने आईआईटी बॉम्बे के एक छात्र की आत्महत्या के मामले में प्रोफेसर सूर्यनारायण डूला से आठ घंटे तक पूछताछ की। प्रोफेसर ने जातिसूचक टिप्पणी करने के आरोपों से इनकार किया। पुलिस ने मामले की जांच जारी रखी है। प्रोफेसर सूर्यनारायण डूला से 8 घंटे पूछताछ, जातिसूचक टिप्पणी से किया इनकार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रोफेसर सूर्यनारायण डूला से 8 घंटे पूछताछ, जातिसूचक टिप्पणी से किया इनकार",
-          "summary": "मुंबई पुलिस ने आईआईटी बॉम्बे के एक छात्र की आत्महत्या के मामले में प्रोफेसर सूर्यनारायण डूला से आठ घंटे तक पूछताछ की। प्रोफेसर ने जातिसूचक टिप्पणी करने के आरोपों से इनकार किया। पुलिस ने मामले की जांच जारी रखी है। प्रोफेसर सूर्यनारायण डूला से 8 घंटे पूछताछ, जातिसूचक टिप्पणी से किया इनकार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शो से बाहर हुईं मनोज तिवारी की बेटी रीति, काजी ने तोहफे में दिया खास गिफ्ट, कौन बना घर का कैप्टन?",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bigg-boss-20-manoj-tiwari-daughter-rhiti-evicted-from-salman-khan-show-qazi-touqeer-uditi-singh-captain-2026-10-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:47:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/rata-tavara_df08761185ca00a5da218b93097ef806.jpeg?w=1200&dpr=1.0",
-      "summary": "बिग बॉस 20 में मनोज तिवारी की बेटी रीति का सफर समाप्त हो गया। शो के प्रोड्यूसर काजी ने उन्हें विदाई के उपहार के रूप में एक खास गिफ्ट दिया। घर के नए कैप्टन की घोषणा भी इसी दौरान हुई। रीति के जाने के बाद शो के आगे के एपिसोड में नया नेतृत्व स्थापित हुआ। मनोज तिवारी की बेटी रीति का रियलिटी शो 'बिग बॉस 20' से सफर खत्म हो गया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शो से बाहर हुईं मनोज तिवारी की बेटी रीति, काजी ने तोहफे में दिया खास गिफ्ट, कौन बना घर का कैप्टन?",
-          "summary": "बिग बॉस 20 में मनोज तिवारी की बेटी रीति का सफर समाप्त हो गया। शो के प्रोड्यूसर काजी ने उन्हें विदाई के उपहार के रूप में एक खास गिफ्ट दिया। घर के नए कैप्टन की घोषणा भी इसी दौरान हुई। रीति के जाने के बाद शो के आगे के एपिसोड में नया नेतृत्व स्थापित हुआ। मनोज तिवारी की बेटी रीति का रियलिटी शो 'बिग बॉस 20' से सफर खत्म हो गया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आईआईटी जोधपुर में स्नातक प्रशिक्षु पदों पर भर्ती, 20000 रुपये मासिक वजीफा; इस दिन तक करें आवेदन",
-      "url": "https://www.amarujala.com/jobs/iit-jodhpur-graduate-apprentice-recruitment-2026-27-posts-rs-20-000-stipend-apply-by-oct-30-2026-10-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:45:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/iit-jodhpur-graduate-apprentice-recruitment-2026_31bd114884a51da498f49a789fe77c77.jpeg?w=1200&dpr=1.0",
-      "summary": "IIT Jodhpur announced recruitment for twenty‑seven graduate apprentice posts आईआईटी जोधपुर ने स्नातक प्रशिक्षु (ग्रेजुएट अप्रेंटिस) के 27 पदों पर भर्ती निकाली है। प्रशासन और तकनीकी इकाइयों के लिए होने वाली इस भर्ती में चयनित उम्मीदवारों को हर महीने 20 हजार रुपये वजीफा मिलेगा। आवेदन की अंतिम तारीख 30 अक्तूबर 2026 है। आईआईटी जोधपुर में स्नातक प्रशिक्षु पदों पर भर्ती, 20000 रुपये मासिक वजीफा; इस दिन तक करें आवेदन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आईआईटी जोधपुर में स्नातक प्रशिक्षु पदों पर भर्ती, 20000 रुपये मासिक वजीफा; इस दिन तक करें आवेदन",
-          "summary": "IIT Jodhpur announced recruitment for twenty‑seven graduate apprentice posts आईआईटी जोधपुर ने स्नातक प्रशिक्षु (ग्रेजुएट अप्रेंटिस) के 27 पदों पर भर्ती निकाली है। प्रशासन और तकनीकी इकाइयों के लिए होने वाली इस भर्ती में चयनित उम्मीदवारों को हर महीने 20 हजार रुपये वजीफा मिलेगा। आवेदन की अंतिम तारीख 30 अक्तूबर 2026 है। आईआईटी जोधपुर में स्नातक प्रशिक्षु पदों पर भर्ती, 20000 रुपये मासिक वजीफा; इस दिन तक करें आवेदन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्रिप्टोकरेंसी उद्योग के दिग्गज चांगपेंग झाओ: कहा- लोकतंत्र में सुनवाई नहीं, तानाशाह के राज में काम",
-      "url": "https://www.amarujala.com/world/cryptocurrency-veteran-changpeng-zhao-abudhabi-no-hearing-in-democracy-quick-hearing-under-dictator-rule-2026-10-03",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-03T03:43:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/us-trump-crypto_b638c7de3c9576901cdd833f36195a7f.jpeg?w=1200&dpr=1.0",
-      "summary": "Binance chief Changpeng Zhao told reporters in Singapore on 2 October 2026 that democratic systems give no hearing to innovators while authoritarian governments enable rapid action. His remarks sparked online debate about regulatory environments for crypto firms. क्रिप्टोकरेंसी उद्योग के दिग्गज चांगपेंग झाओ: बोले- लोकतंत्र में कोई सुनवाई नहीं, तानाशाह के राज में काम तेजी से होता है। क्रिप्टोकरेंसी उद्योग के दिग्गज चांगपेंग झाओ: कहा- लोकतंत्र में सुनवाई नहीं, तानाशाह के राज में काम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्रिप्टोकरेंसी उद्योग के दिग्गज चांगपेंग झाओ: कहा- लोकतंत्र में सुनवाई नहीं, तानाशाह के राज में काम",
-          "summary": "Binance chief Changpeng Zhao told reporters in Singapore on 2 October 2026 that democratic systems give no hearing to innovators while authoritarian governments enable rapid action. His remarks sparked online debate about regulatory environments for crypto firms. क्रिप्टोकरेंसी उद्योग के दिग्गज चांगपेंग झाओ: बोले- लोकतंत्र में कोई सुनवाई नहीं, तानाशाह के राज में काम तेजी से होता है। क्रिप्टोकरेंसी उद्योग के दिग्गज चांगपेंग झाओ: कहा- लोकतंत्र में सुनवाई नहीं, तानाशाह के राज में काम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "स्टेशन पर ट्रेन छूट जाए तो टिकट का क्या होता है? कनेक्टिंग से लेकर नॉर्मल ट्रेन तक के नियम यहां",
-      "url": "https://www.amarujala.com/photo-gallery/utility/what-happens-if-you-miss-your-train-know-the-ticket-rules-2026-10-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:43:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/tarana-chhatana-para-kaya-rafada-malta-ha-ya-naha_ba6ca08ccb9e9c065c66c2ed21ba8a98.jpeg?w=1200&dpr=1.0",
-      "summary": "रेलवे नियमों के अनुसार, यात्री की गलती से ट्रेन छूटने पर उसी टिकट से अगली ट्रेन में सफर नहीं कर सकते। हालांकि, ट्रेन के देर होने से कनेक्टिंग ट्रेन छूटने की स्थिति में अलग प्रावधान लागू होते हैं। अगर यात्री की अपनी वजह से ट्रेन छूट जाती है, तो उसी टिकट पर अगली ट्रेन में यात्रा करने का अधिकार सामान्य तौर पर नहीं मिलता।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्टेशन पर ट्रेन छूट जाए तो टिकट का क्या होता है? कनेक्टिंग से लेकर नॉर्मल ट्रेन तक के नियम यहां",
-          "summary": "रेलवे नियमों के अनुसार, यात्री की गलती से ट्रेन छूटने पर उसी टिकट से अगली ट्रेन में सफर नहीं कर सकते। हालांकि, ट्रेन के देर होने से कनेक्टिंग ट्रेन छूटने की स्थिति में अलग प्रावधान लागू होते हैं। अगर यात्री की अपनी वजह से ट्रेन छूट जाती है, तो उसी टिकट पर अगली ट्रेन में यात्रा करने का अधिकार सामान्य तौर पर नहीं मिलता।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कैप्टन स्मित के पिता बोले- पहली चिंता बेटे की सलामती, उड़ान भरना उसका जुनून; हमलावर से पूछताछ जल्द",
-      "url": "https://www.amarujala.com/india-news/flydubai-captain-smit-father-safety-of-son-paramount-flying-his-passion-interrogation-of-attacker-to-soon-2026-10-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:34:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/flydubai-captain-smit-machchhar-old-video-viral_27861fc8fae64092975bb3e6d50f8439.jpeg?w=1200&dpr=1.0",
-      "summary": "कैप्टन स्मित मच्छार के पिता ने कहा कि उनकी पहली चिंता बेटे की सुरक्षा है। उन्होंने उड़ान को बेटे का जुनून बताया और हमलावर से जल्द पूछताछ की उम्मीद जताई। फ्लाईदुबई: कैप्टन स्मित के पिता बोले- पहली चिंता बेटे की सलामती, उड़ान भरना उसका जुनून; हमलावर से पूछताछ जल्द।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैप्टन स्मित के पिता बोले- पहली चिंता बेटे की सलामती, उड़ान भरना उसका जुनून; हमलावर से पूछताछ जल्द",
-          "summary": "कैप्टन स्मित मच्छार के पिता ने कहा कि उनकी पहली चिंता बेटे की सुरक्षा है। उन्होंने उड़ान को बेटे का जुनून बताया और हमलावर से जल्द पूछताछ की उम्मीद जताई। फ्लाईदुबई: कैप्टन स्मित के पिता बोले- पहली चिंता बेटे की सलामती, उड़ान भरना उसका जुनून; हमलावर से पूछताछ जल्द।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "आपकी रात की नींद अच्छी थी या नहीं? कैसे लगाएं इसका पता और कब हो जाएं सावधान",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-to-know-if-your-sleep-was-truly-restful-morning-signs-of-poor-sleep-quality-2026-10-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/sleep_5896e43b98c3d71457d4105d6500d040.jpeg?w=1200&dpr=1.0",
-      "summary": "नींद की गुणवत्ता केवल घंटों से नहीं, बल्कि सुबह की ताजगी और दिनभर की सक्रियता से मापी जाती है। ध्यान केंद्रित रहना और दिमाग स्पष्ट महसूस होना अच्छी नींद के संकेत हैं। नींद की गुणवत्ता सिर्फ सोने के घंटों से तय नहीं होती। सुबह तरोताजा महसूस करना, दिन में एक्टिव रहना, ध्यान ठीक रहना और दिमाग का क्लियर महसूस होना अच्छे संकेत हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आपकी रात की नींद अच्छी थी या नहीं? कैसे लगाएं इसका पता और कब हो जाएं सावधान",
-          "summary": "नींद की गुणवत्ता केवल घंटों से नहीं, बल्कि सुबह की ताजगी और दिनभर की सक्रियता से मापी जाती है। ध्यान केंद्रित रहना और दिमाग स्पष्ट महसूस होना अच्छी नींद के संकेत हैं। नींद की गुणवत्ता सिर्फ सोने के घंटों से तय नहीं होती। सुबह तरोताजा महसूस करना, दिन में एक्टिव रहना, ध्यान ठीक रहना और दिमाग का क्लियर महसूस होना अच्छे संकेत हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप का दावा- ईरान जंग खत्म होते ही गिरेंगे तेल के दाम, बोले- तेहरान के पास कभी नहीं होगा परमाणु",
-      "url": "https://www.amarujala.com/world/donald-trump-says-oil-prices-will-plunge-after-iran-war-vows-iran-will-never-have-nuclear-weapons-2026-10-03",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-03T03:11:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/21/donald-trump_7ffd5ff9e526b9127822dae007a5a86b.jpeg?w=1200&dpr=1.0",
-      "summary": "डोनाल्ड ट्रंप का दावा है कि ईरान युद्ध समाप्त होते ही तेल के दाम गिर जाएंगे। उन्होंने यह भी कहा कि तेहरान के पास कभी परमाणु हथियार नहीं होंगे। ट्रंप का दावा- ईरान जंग खत्म होते ही गिरेंगे तेल के दाम, बोले- तेहरान के पास कभी नहीं होगा परमाणु।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप का दावा- ईरान जंग खत्म होते ही गिरेंगे तेल के दाम, बोले- तेहरान के पास कभी नहीं होगा परमाणु",
-          "summary": "डोनाल्ड ट्रंप का दावा है कि ईरान युद्ध समाप्त होते ही तेल के दाम गिर जाएंगे। उन्होंने यह भी कहा कि तेहरान के पास कभी परमाणु हथियार नहीं होंगे। ट्रंप का दावा- ईरान जंग खत्म होते ही गिरेंगे तेल के दाम, बोले- तेहरान के पास कभी नहीं होगा परमाणु।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'कमाल कर दिया पायलट जी... वेल डन ब्रो'; कैप्टन स्मित मच्छार की बहादुरी के कायल भाईजान, किया सलाम",
-      "url": "https://www.amarujala.com/entertainment/salman-khan-praises-captain-smit-machhar-bravery-shares-post-offers-heartfelt-salute-says-well-done-bro-2026-10-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:11:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/salmana-khana-kapatana-samata-macachhara_2a9c86d35706428a874a5039c84ddbb8.jpeg?w=1200&dpr=1.0",
-      "summary": "बॉलीवुड अभिनेता सलमान खान ने फ्लाईदुबई के कैप्टन स्मित मच्छार की बहादुरी की सराहना की। उन्होंने उन्हें सलाम करते हुए 'वेल डन ब्रो' कहा। Salman Khan Praises Captain Smit Machhar: फ्लाईदुबई के कैप्टन स्मित मच्छार की बहादुरी के चर्चे पूरी दुनिया में हो रहे हैं। बॉलीवुड अभिनेता सलमान खान ने उन्हें सलाम ठोका है। 'कमाल कर दिया पायलट जी वेल डन ब्रो'; कैप्टन स्मित मच्छार की बहादुरी के कायल भाईजान, किया सलाम।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'कमाल कर दिया पायलट जी... वेल डन ब्रो'; कैप्टन स्मित मच्छार की बहादुरी के कायल भाईजान, किया सलाम",
-          "summary": "बॉलीवुड अभिनेता सलमान खान ने फ्लाईदुबई के कैप्टन स्मित मच्छार की बहादुरी की सराहना की। उन्होंने उन्हें सलाम करते हुए 'वेल डन ब्रो' कहा। Salman Khan Praises Captain Smit Machhar: फ्लाईदुबई के कैप्टन स्मित मच्छार की बहादुरी के चर्चे पूरी दुनिया में हो रहे हैं। बॉलीवुड अभिनेता सलमान खान ने उन्हें सलाम ठोका है। 'कमाल कर दिया पायलट जी वेल डन ब्रो'; कैप्टन स्मित मच्छार की बहादुरी के कायल भाईजान, किया सलाम।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'सऊदी-इजरायल मिट जाते', ट्रंप ने दोस्तों को गिनाए अहसान, ईरान ने बताया अमेरिका का सबसे खराब",
-      "url": "https://hindi.news18.com/world/america-donald-trump-claims-saudi-arabia-and-israel-would-not-exist-without-him-iran-houthis-yemen-patriot-missile-10881750.html",
+      "title": "अमेरिका जाने के लिए देने होंगे 20 हजार डॉलर तक, भारत बच गया, पड़ोसियों समेत 50 देशों पर नया वीजा",
+      "url": "https://hindi.news18.com/world/america-us-visa-bond-2026-50-countries-india-exemption-ws-e-10882645.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-03T03:08:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/donald-trump-2026-10-03T070752.940-2026-10-8ea9cc435f67a25ae8dc8dc19b5f9928-1200x800.jpg",
-      "summary": "ट्रंप ने दावा किया कि उनकी अनुपस्थिति में सऊदी अरब और इजरायल का अस्तित्व समाप्त हो जाता। उन्होंने मोहम्मद बिन सलमान के साथ अपने रिश्ते को मजबूत बताया। इस बयान के समय अमेरिका ने सऊदी में अतिरिक्त पैट्रियट सिस्टम तैनात किए हैं। Donald Trump News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का दावा है कि अगर वह राष्ट्रपति नहीं होते तो सऊदी अरब और इजरायल का धरती पर नामोनिशान मिट जाता.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'सऊदी-इजरायल मिट जाते', ट्रंप ने दोस्तों को गिनाए अहसान, ईरान ने बताया अमेरिका का सबसे खराब",
-          "summary": "ट्रंप ने दावा किया कि उनकी अनुपस्थिति में सऊदी अरब और इजरायल का अस्तित्व समाप्त हो जाता। उन्होंने मोहम्मद बिन सलमान के साथ अपने रिश्ते को मजबूत बताया। इस बयान के समय अमेरिका ने सऊदी में अतिरिक्त पैट्रियट सिस्टम तैनात किए हैं। Donald Trump News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का दावा है कि अगर वह राष्ट्रपति नहीं होते तो सऊदी अरब और इजरायल का धरती पर नामोनिशान मिट जाता.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इंजीनियरिंग छात्रों के लिए सेना से जुड़ने का अवसर, इस दिन तक करें आवेदन",
-      "url": "https://www.amarujala.com/education/indian-army-internship-2026-btech-be-students-can-earn-up-to-rs-75-000-stipend-2026-10-03",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T03:06:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/indian-army-internship-2026_45dedfb866f12fb36a252afec3cdb3be.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय सेना के वेस्टर्न कमांड ने फुल स्टैक सॉफ्टवेयर डेवलपर्स इंटर्नशिप के लिए आवेदन आमंत्रित किए हैं। पंचकूला में तीन महीने की यह प्रशिक्षण प्रक्रिया होगी। छात्रों को आधुनिक सॉफ्टवेयर प्लेटफॉर्म पर काम करने का अवसर मिलेगा। भारतीय सेना के वेस्टर्न कमांड ने फुल स्टैक सॉफ्टवेयर डेवलपर्स इंटर्नशिप के लिए आवेदन मांगे हैं। पंचकूला में होने वाली तीन महीने की इंटर्नशिप में विद्यार्थियों को आधुनिक सॉफ्टवेयर प्लेटफॉर्म पर काम करने का मौका मिलेगा।",
+      "published_at": "2026-10-03T10:12:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/image-2026-10-2d3c8c86eac56a74cff055dc2f35765e-1200x800.jpg",
+      "summary": "अमेरिका ने 50 देशों के नागरिकों के लिए वीजा बॉन्ड नियम लागू किया है। इसमें बांग्लादेश, नेपाल और भूटान शामिल हैं। भारतीय नागरिकों को यह 20,000 डॉलर जमा करने की आवश्यकता नहीं है। अमेरिका ने 50 देशों के नागरिकों के लिए बिजनेस और टूरिस्ट वीजा पर 20,000 डॉलर तक का वीजा बॉन्ड जमा करने का नियम लागू किया है. इस सूची में भारत को शामिल नहीं किया गया है, इसलिए भारतीय पासपोर्ट धारकों को यह रकम जमा नहीं करनी होगी.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इंजीनियरिंग छात्रों के लिए सेना से जुड़ने का अवसर, इस दिन तक करें आवेदन",
-          "summary": "भारतीय सेना के वेस्टर्न कमांड ने फुल स्टैक सॉफ्टवेयर डेवलपर्स इंटर्नशिप के लिए आवेदन आमंत्रित किए हैं। पंचकूला में तीन महीने की यह प्रशिक्षण प्रक्रिया होगी। छात्रों को आधुनिक सॉफ्टवेयर प्लेटफॉर्म पर काम करने का अवसर मिलेगा। भारतीय सेना के वेस्टर्न कमांड ने फुल स्टैक सॉफ्टवेयर डेवलपर्स इंटर्नशिप के लिए आवेदन मांगे हैं। पंचकूला में होने वाली तीन महीने की इंटर्नशिप में विद्यार्थियों को आधुनिक सॉफ्टवेयर प्लेटफॉर्म पर काम करने का मौका मिलेगा।",
+          "title": "अमेरिका जाने के लिए देने होंगे 20 हजार डॉलर तक, भारत बच गया, पड़ोसियों समेत 50 देशों पर नया वीजा",
+          "summary": "अमेरिका ने 50 देशों के नागरिकों के लिए वीजा बॉन्ड नियम लागू किया है। इसमें बांग्लादेश, नेपाल और भूटान शामिल हैं। भारतीय नागरिकों को यह 20,000 डॉलर जमा करने की आवश्यकता नहीं है। अमेरिका ने 50 देशों के नागरिकों के लिए बिजनेस और टूरिस्ट वीजा पर 20,000 डॉलर तक का वीजा बॉन्ड जमा करने का नियम लागू किया है. इस सूची में भारत को शामिल नहीं किया गया है, इसलिए भारतीय पासपोर्ट धारकों को यह रकम जमा नहीं करनी होगी.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "सुलझानी होगी गेंदबाजी की गुत्थी, प्रसिद्ध की जगह किसे मिलेगा मौका; सिराज होंगे शामिल?",
-      "url": "https://www.amarujala.com/cricket/cricket-news/ind-vs-wi-dream11-prediction-india-vs-west-indies-3rd-odi-playing-xi-captain-and-vice-captain-players-2026-10-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T02:57:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/ind_11e9c6526a0e2d2cfa5d1430e4cd3b8f.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत और वेस्टइंडीज के बीच तीसरा वनडे शनिवार को मुल्लांपुर में खेला जाएगा। यह पहली बार है जब मुल्लांपुर वनडे मैच की मेजबानी कर रहा है। टीम चयन में गेंदबाजी की भूमिका पर चर्चा चल रही है। IND vs WI 3rd ODI Playing 11 Prediction: भारत और वेस्टइंडीज के बीच तीन मैचों की वनडे सीरीज का तीसरा मुकाबला शनिवार को खेला जाएगा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुलझानी होगी गेंदबाजी की गुत्थी, प्रसिद्ध की जगह किसे मिलेगा मौका; सिराज होंगे शामिल?",
-          "summary": "भारत और वेस्टइंडीज के बीच तीसरा वनडे शनिवार को मुल्लांपुर में खेला जाएगा। यह पहली बार है जब मुल्लांपुर वनडे मैच की मेजबानी कर रहा है। टीम चयन में गेंदबाजी की भूमिका पर चर्चा चल रही है। IND vs WI 3rd ODI Playing 11 Prediction: भारत और वेस्टइंडीज के बीच तीन मैचों की वनडे सीरीज का तीसरा मुकाबला शनिवार को खेला जाएगा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कैप्टन स्मित पर हमाम अलहमामी ने किया था हमला, इजरायल में प्लेन क्रैश की थी साजिश, ओमान में पहले से",
-      "url": "https://hindi.news18.com/world/middle-east-hamam-alhamami-flydubai-co-pilot-who-attack-on-captain-smit-machchhar-israel-crash-plot-previously-banned-radical-10881618.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-03T02:56:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/fly-dubai-1-2026-10-e1013780e4ca291427d86c7391df81e2-1200x800.jpg",
-      "summary": "फ्लाईदुबई के को-पायलट हमाम अलहमामी की पहचान हुई है, जिन्होंने कैप्टन स्मित पर हमला किया था। अलहमामी का इरादा विमान को इजरायल में गिराना था। ओमान एयर ने उसे 2024 में ही उड़ान भरने से रोक दिया था। Flydubai News: फ्लाईदुबई की फ्लाइट में भारतीय कैप्टन स्मित मच्छर पर हमला करने वाले को-पायलट की पहचान हो गई है. इस व्यक्ति का नाम हमाम अलहमामी है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कैप्टन स्मित पर हमाम अलहमामी ने किया था हमला, इजरायल में प्लेन क्रैश की थी साजिश, ओमान में पहले से",
-          "summary": "फ्लाईदुबई के को-पायलट हमाम अलहमामी की पहचान हुई है, जिन्होंने कैप्टन स्मित पर हमला किया था। अलहमामी का इरादा विमान को इजरायल में गिराना था। ओमान एयर ने उसे 2024 में ही उड़ान भरने से रोक दिया था। Flydubai News: फ्लाईदुबई की फ्लाइट में भारतीय कैप्टन स्मित मच्छर पर हमला करने वाले को-पायलट की पहचान हो गई है. इस व्यक्ति का नाम हमाम अलहमामी है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बॉक्स ऑफिस पर मनेगी दिवाली; 'रामायण' से 'किंग' तक, सिनेमाघरों में धमाका करेंगी ये फिल्में",
-      "url": "https://www.amarujala.com/entertainment/udta-teer-ranbir-ramayana-srk-king-eetha-yeh-prem-mol-liya-these-films-to-release-in-upcoming-month-in-theater-2026-10-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-03T02:55:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/2026-ka-aagama-falma_a0800c60b511173eb3a8ee5a66109e09.jpeg?w=1200&dpr=1.0",
-      "summary": "2026 के शेष तीन महीनों में कई बड़ी फिल्में रिलीज होंगी। दर्शकों का इंतजार 'रामायण' और 'किंग' जैसी फिल्मों का है। बड़े सितारों से सजी ये रिलीज बॉक्स ऑफिस पर प्रभाव डालेंगी। सिनेमा के शौकीनों को इस दौरान बड़े सितारों से सजी कई जबर्दस्त फिल्मों की सौगात मिलने वाली है। जानिए कौन-कौन सी फिल्मों का है दर्शकों को इंतजार? बॉक्स ऑफिस पर मनेगी दिवाली; 'रामायण' से 'किंग' तक, सिनेमाघरों में धमाका करेंगी ये फिल्में।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बॉक्स ऑफिस पर मनेगी दिवाली; 'रामायण' से 'किंग' तक, सिनेमाघरों में धमाका करेंगी ये फिल्में",
-          "summary": "2026 के शेष तीन महीनों में कई बड़ी फिल्में रिलीज होंगी। दर्शकों का इंतजार 'रामायण' और 'किंग' जैसी फिल्मों का है। बड़े सितारों से सजी ये रिलीज बॉक्स ऑफिस पर प्रभाव डालेंगी। सिनेमा के शौकीनों को इस दौरान बड़े सितारों से सजी कई जबर्दस्त फिल्मों की सौगात मिलने वाली है। जानिए कौन-कौन सी फिल्मों का है दर्शकों को इंतजार? बॉक्स ऑफिस पर मनेगी दिवाली; 'रामायण' से 'किंग' तक, सिनेमाघरों में धमाका करेंगी ये फिल्में।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रग्बी फैंस की भीड़ में घुसी कार, कई लोग घायल; टीम बस का इंतजार कर रहे थे प्रशंसक",
-      "url": "https://www.amarujala.com/world/australia-car-drives-into-crowd-of-rugby-fans-near-newcastle-several-injured-2026-10-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-03T02:37:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/14/aparathha-sakataka-tasavara_cbf5496b7e9147e0086b6af1e5ae8ff4.jpeg?w=1200&dpr=1.0",
-      "summary": "न्यूकासल के पास रग्बी प्रशंसकों की भीड़ में कार घुस गई। कई लोग घायल हुए। प्रशंसक टीम की बस का इंतजार कर रहे थे। रग्बी फैंस की भीड़ में घुसी कार, कई लोग घायल; टीम बस का इंतजार कर रहे थे प्रशंसक।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रग्बी फैंस की भीड़ में घुसी कार, कई लोग घायल; टीम बस का इंतजार कर रहे थे प्रशंसक",
-          "summary": "न्यूकासल के पास रग्बी प्रशंसकों की भीड़ में कार घुस गई। कई लोग घायल हुए। प्रशंसक टीम की बस का इंतजार कर रहे थे। रग्बी फैंस की भीड़ में घुसी कार, कई लोग घायल; टीम बस का इंतजार कर रहे थे प्रशंसक।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आगरा-अलीगढ़ हाईवे पर भीषण हादसा, कंटेनर-डंपर की भिड़ंत के बाद लगी आग; दो की मौत की आशंका",
-      "url": "https://www.amarujala.com/uttar-pradesh/agra/accident-on-agra-aligarh-highway-container-dumper-collision-sparks-fire-two-feared-dead-2026-10-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-03T02:34:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/bhayanaka-hathasa_8b791c45849e68cd6ec19283bd16c3f0.jpeg?w=1200&dpr=1.0",
-      "summary": "आगरा-अलीगढ़ हाईवे पर कंटेनर और डंपर की भिड़ंत हुई। हादसे के बाद आग लग गई। दो लोगों की मौत की आशंका जताई गई। कंटेनर और डंपर की भीषण भिड़ंत के बाद हाईवे पर आग की लपटें उठने लगीं और हादसे में बाइक सवार भी चपेट में आ गया। आगरा-अलीगढ़ हाईवे पर भीषण हादसा, कंटेनर-डंपर की भिड़ंत के बाद लगी आग; दो की मौत की आशंका।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आगरा-अलीगढ़ हाईवे पर भीषण हादसा, कंटेनर-डंपर की भिड़ंत के बाद लगी आग; दो की मौत की आशंका",
-          "summary": "आगरा-अलीगढ़ हाईवे पर कंटेनर और डंपर की भिड़ंत हुई। हादसे के बाद आग लग गई। दो लोगों की मौत की आशंका जताई गई। कंटेनर और डंपर की भीषण भिड़ंत के बाद हाईवे पर आग की लपटें उठने लगीं और हादसे में बाइक सवार भी चपेट में आ गया। आगरा-अलीगढ़ हाईवे पर भीषण हादसा, कंटेनर-डंपर की भिड़ंत के बाद लगी आग; दो की मौत की आशंका।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फ्लाईदुबई हमले की जांच में नए खुलासे: हमलावर पर पहले ही था फ्लाइंग बैन, सीरिया में रहा; अलकायदा से",
-      "url": "https://www.amarujala.com/india-news/flydubai-attack-what-syria-al-qaeda-connection-of-co-pilot-who-attacked-captain-smit-machchhar-2026-10-03",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-03T02:24:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/02/flydubai_24a45b0d6fabf150cd40a9fa34e26f8f.jpeg?w=1200&dpr=1.0",
-      "summary": "फ्लाईदुबई हमले के सह-पायलट पर पहले से फ्लाइंग बैन था। वह सीरिया में रह चुका है। जांच में अलकायदा से कनेक्शन का संदेह सामने आया। फ्लायदुबई हमले की जांच: सामने आया हमला करने वाले सह-पायलट का काला चिट्ठा, सीरिया-अलकायदा से क्या कनेक्शन? फ्लाईदुबई हमले की जांच में नए खुलासे: हमलावर पर पहले ही था फ्लाइंग बैन, सीरिया में रहा; अलकायदा से।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्लाईदुबई हमले की जांच में नए खुलासे: हमलावर पर पहले ही था फ्लाइंग बैन, सीरिया में रहा; अलकायदा से",
-          "summary": "फ्लाईदुबई हमले के सह-पायलट पर पहले से फ्लाइंग बैन था। वह सीरिया में रह चुका है। जांच में अलकायदा से कनेक्शन का संदेह सामने आया। फ्लायदुबई हमले की जांच: सामने आया हमला करने वाले सह-पायलट का काला चिट्ठा, सीरिया-अलकायदा से क्या कनेक्शन? फ्लाईदुबई हमले की जांच में नए खुलासे: हमलावर पर पहले ही था फ्लाइंग बैन, सीरिया में रहा; अलकायदा से।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत के पड़ोस में सुबह-सुबह डोली धरती, जान बचाने के लिए जैसे-तैसे घर से भागे लोग, हर तरफ दहशत",
-      "url": "https://hindi.news18.com/world/china-earthquake-in-india-neighbour-tibet-in-morning-6-am-magnitude-above-3-people-rushed-out-off-home-in-panic-10881767.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-03T02:23:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/earthquake-6-2026-10-e6c3f19b2d70290f7177d615d24674af-1200x800.jpg",
-      "summary": "तिब्बत में 3 अक्टूबर सुबह भूकंप आया। हिमालयी क्षेत्र में झटके महसूस किए गए। लोगों ने घरों से भागकर जान बचाई। Earthquake News: हिमालय क्षेत्र को भूकंप के लिहाज से काफी संवेदनशील माना जाता है. इस जोन में अक्‍सर भूकंप के झटके लगते रहते हैं. शनिवार 3 अक्‍टूबर सुबह 6 बजे सीमा पार तिब्‍बत में धरती डोली, जिससे लोग दहशत में आ गए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के पड़ोस में सुबह-सुबह डोली धरती, जान बचाने के लिए जैसे-तैसे घर से भागे लोग, हर तरफ दहशत",
-          "summary": "तिब्बत में 3 अक्टूबर सुबह भूकंप आया। हिमालयी क्षेत्र में झटके महसूस किए गए। लोगों ने घरों से भागकर जान बचाई। Earthquake News: हिमालय क्षेत्र को भूकंप के लिहाज से काफी संवेदनशील माना जाता है. इस जोन में अक्‍सर भूकंप के झटके लगते रहते हैं. शनिवार 3 अक्‍टूबर सुबह 6 बजे सीमा पार तिब्‍बत में धरती डोली, जिससे लोग दहशत में आ गए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "विदेश में धर्म, भारत में स्मित मच्छार की जाति जानने की बेचैनी 5000% से अधिक इंटरनेट खंगाला गया",
-      "url": "https://www.amarujala.com/world/flydubai-smit-machhar-curiosity-india-caste-search-internet-surf-extensively-religion-and-marriage-eagerness-2026-10-03",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-03T02:16:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/smit-bill-board_20ac9a94a80919697d6a5e7a9546617d.jpeg?w=1200&dpr=1.0",
-      "summary": "स्मित मच्छार की जाति जानने के लिए सर्च 5000 प्रतिशत बढ़े। यह रुझान फ्लाईदुबई घटना के बाद देखा गया। विदेश में धर्म पर चर्चा हुई। फ्लाईदुबई: विदेश में धर्म, भारत में स्मित मच्छार की जाति जानने की बेचैनी 5000% से अधिक इंटरनेट खंगाला गया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विदेश में धर्म, भारत में स्मित मच्छार की जाति जानने की बेचैनी 5000% से अधिक इंटरनेट खंगाला गया",
-          "summary": "स्मित मच्छार की जाति जानने के लिए सर्च 5000 प्रतिशत बढ़े। यह रुझान फ्लाईदुबई घटना के बाद देखा गया। विदेश में धर्म पर चर्चा हुई। फ्लाईदुबई: विदेश में धर्म, भारत में स्मित मच्छार की जाति जानने की बेचैनी 5000% से अधिक इंटरनेट खंगाला गया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सऊदी में 40 हजार पाकिस्तानी सैनिक तैनात, हूतियों पर हमले की तैयारी, दूसरों की जंग में मुनीर देंगे",
-      "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-plane-houthi-attack-yemen-bab-el-mandeb-pakistan-troops-deployed-10881716.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-03T02:07:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-army-4-2026-10-282cc59cef6a50828e7d43a41ea42851-1200x800.jpg",
-      "summary": "सऊदी अरब हूतियों पर हवाई हमले की तैयारी में है। पाकिस्तान 30 से 40 हजार सैनिक तैनात करने के लिए तैयार है। उद्देश्य बाब अल मंदेब जलडमरी को खोलना है। सऊदी सिर्फ हवाई मदद देगा। Saudi-Pakistan Relations: सऊदी अरब और यमन के हूती विद्रोही एक-दूसरे पर हमला कर रहे हैं. इसी बीच रिपोर्ट आई है कि सऊदी अरब की ओर से हूतियों के खिलाफ हमला किया जा सकता है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी में 40 हजार पाकिस्तानी सैनिक तैनात, हूतियों पर हमले की तैयारी, दूसरों की जंग में मुनीर देंगे",
-          "summary": "सऊदी अरब हूतियों पर हवाई हमले की तैयारी में है। पाकिस्तान 30 से 40 हजार सैनिक तैनात करने के लिए तैयार है। उद्देश्य बाब अल मंदेब जलडमरी को खोलना है। सऊदी सिर्फ हवाई मदद देगा। Saudi-Pakistan Relations: सऊदी अरब और यमन के हूती विद्रोही एक-दूसरे पर हमला कर रहे हैं. इसी बीच रिपोर्ट आई है कि सऊदी अरब की ओर से हूतियों के खिलाफ हमला किया जा सकता है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूएन में कैप्टन स्मित के साहस की गूंज, भारत के प्रतिनिधि ने अहिंसा की सच्ची मिसाल बताया",
-      "url": "https://www.amarujala.com/world/flydubai-captain-smit-courage-embodies-ahimsa-india-un-envoy-recalls-pm-modi-call-with-pilot-2026-10-03",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-03T02:00:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/yaena-ma-kapatana-samata-ka-sahasa-ka-gaja_8d8d7b7d238e7c29f75bf14826417451.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत के संयुक्त राष्ट्र प्रतिनिधि ने कैप्टन स्मित के साहस की सराहना की। उन्होंने इसे अहिंसा की मिसाल बताया। प्रधानमंत्री मोदी ने पायलट से बात की। यह घटना संयुक्त राष्ट्र में चर्चा का विषय बनी। यूएन में कैप्टन स्मित के साहस की गूंज, भारत के प्रतिनिधि ने अहिंसा की सच्ची मिसाल बताया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूएन में कैप्टन स्मित के साहस की गूंज, भारत के प्रतिनिधि ने अहिंसा की सच्ची मिसाल बताया",
-          "summary": "भारत के संयुक्त राष्ट्र प्रतिनिधि ने कैप्टन स्मित के साहस की सराहना की। उन्होंने इसे अहिंसा की मिसाल बताया। प्रधानमंत्री मोदी ने पायलट से बात की। यह घटना संयुक्त राष्ट्र में चर्चा का विषय बनी। यूएन में कैप्टन स्मित के साहस की गूंज, भारत के प्रतिनिधि ने अहिंसा की सच्ची मिसाल बताया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यमन की सेना का हुति विद्रोहियों पर भीषण हमला; 24 घंटे में 474 एयरस्ट्राइक, 1,540 लड़ाके हताहत और",
-      "url": "https://www.patrika.com/world-news/yemen-houthi-conflict-474-operations-1540-houthi-fighters-killed-wounded-20954327",
+      "title": "केन्या में भीषण रोड एक्सीडेंट, 17 लोगों की मौत",
+      "url": "https://www.patrika.com/world-news/road-accident-in-kenya-killed-17-people-20955483",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-03T01:52:59+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/yemen-forces-strike-houthis-positions.webp",
-      "summary": "यमनी सेना ने हूतियों पर 474 हवाई हमले किए। 24 घंटों में 1540 लड़ाके मारे या घायल हुए। ताइज प्रांत में सबसे ज्यादा नुकसान हुआ। सेना ने आगे बढ़ने वाली टुकड़ियों को तोड़ने का दावा किया। Yemen-Houthi Conflict: यमन की सेना ने ईरान समर्थित हुति विद्रोहियों के खिलाफ एक बड़ी कार्रवाई की है। यमनी सेना के अनुसार, 24 घंटों के दौरान अलग-अलग मोर्चों पर कुल 474 सटीक हवाई हमले और ऑपरेशन किए गए।",
+      "published_at": "2026-10-03T09:44:38+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/kenya-road-accident_.webp",
+      "summary": "केन्या के नैरोबी-मोम्बासा हाईवे पर सलामा इलाके में एक लॉरी-ट्रक की टक्कर हुई। ड्राइवर ने ओवरटेक करते समय दूसरे ट्रक से टकराया। इस हादसे में 17 लोगों की मौत हो गई। केन्या (Kenya) में आज एक भीषण रोड एक्सीडेंट का मामला सामने आया है। पुलिस ने बताया कि यह हादसा तड़के सुबह नैरोबी-मोम्बासा हाईवे पर हुआ, जिससे हाहाकार मच गया।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यमन की सेना का हुति विद्रोहियों पर भीषण हमला; 24 घंटे में 474 एयरस्ट्राइक, 1,540 लड़ाके हताहत और",
-          "summary": "यमनी सेना ने हूतियों पर 474 हवाई हमले किए। 24 घंटों में 1540 लड़ाके मारे या घायल हुए। ताइज प्रांत में सबसे ज्यादा नुकसान हुआ। सेना ने आगे बढ़ने वाली टुकड़ियों को तोड़ने का दावा किया। Yemen-Houthi Conflict: यमन की सेना ने ईरान समर्थित हुति विद्रोहियों के खिलाफ एक बड़ी कार्रवाई की है। यमनी सेना के अनुसार, 24 घंटों के दौरान अलग-अलग मोर्चों पर कुल 474 सटीक हवाई हमले और ऑपरेशन किए गए।",
+          "title": "केन्या में भीषण रोड एक्सीडेंट, 17 लोगों की मौत",
+          "summary": "केन्या के नैरोबी-मोम्बासा हाईवे पर सलामा इलाके में एक लॉरी-ट्रक की टक्कर हुई। ड्राइवर ने ओवरटेक करते समय दूसरे ट्रक से टकराया। इस हादसे में 17 लोगों की मौत हो गई। केन्या (Kenya) में आज एक भीषण रोड एक्सीडेंट का मामला सामने आया है। पुलिस ने बताया कि यह हादसा तड़के सुबह नैरोबी-मोम्बासा हाईवे पर हुआ, जिससे हाहाकार मच गया।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "भोपाल में आज केंद्रीय गृहमंत्री अमित शाह: गोपालक सम्मेलन में होंगे शामिल,कई सौगात देंगे; देखें पूरा",
-      "url": "https://www.amarujala.com/madhya-pradesh/bhopal/amit-shah-in-bhopal-today-will-attend-gopalak-sammelan-announce-key-gifts-minute-by-minute-schedule-2026-10-03",
+      "title": "कैप्टन पर हमले के आरोपी का अल-कायदा कनेक्शन, सोशल मीडिया पोस्ट से खुलासा, UAE ने बताया आतंकी हमला",
+      "url": "https://hindi.news18.com/world/middle-east-flydubai-pilot-attack-hamam-al-hammami-al-qaeda-social-media-video-10882386.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-03T08:12:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-48-2026-10-1dee4a5c87363fbdb217a0ac5a56e1f8-1200x800.jpg",
+      "summary": "फ्लाईदुबई के कैप्टन स्मित मच्छर पर हमले के आरोपी को-पायलट का अल-कायदा से संबंध सामने आया है। सोशल मीडिया वीडियो में अल-कायदा के सदस्यों की तस्वीरें मिलीं। यूएई ने इसे आतंकी हमला घोषित किया है। फ्लाईदुबई की फ्लाइट में भारतीय कैप्टन स्मित मच्छर पर हमले के मामले में नए खुलासे हुए हैं. CNN की रिपोर्ट के मुताबिक, आरोपी को-पायलट हमाम अल-हमामी से जुड़े सोशल मीडिया वीडियो में अल-कायदा के दो चेहरों की तस्वीरें दिखाई दी थीं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कैप्टन पर हमले के आरोपी का अल-कायदा कनेक्शन, सोशल मीडिया पोस्ट से खुलासा, UAE ने बताया आतंकी हमला",
+          "summary": "फ्लाईदुबई के कैप्टन स्मित मच्छर पर हमले के आरोपी को-पायलट का अल-कायदा से संबंध सामने आया है। सोशल मीडिया वीडियो में अल-कायदा के सदस्यों की तस्वीरें मिलीं। यूएई ने इसे आतंकी हमला घोषित किया है। फ्लाईदुबई की फ्लाइट में भारतीय कैप्टन स्मित मच्छर पर हमले के मामले में नए खुलासे हुए हैं. CNN की रिपोर्ट के मुताबिक, आरोपी को-पायलट हमाम अल-हमामी से जुड़े सोशल मीडिया वीडियो में अल-कायदा के दो चेहरों की तस्वीरें दिखाई दी थीं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चाकू नहीं, कुल्हाड़ी से हुआ था कैप्टन स्मित पर वार, फिर भी बचाईं 180 जानें; जांच में नए खुलासे",
+      "url": "https://www.amarujala.com/world/flydubai-fz1073-attack-uae-calls-co-pilot-assault-a-terrorist-attack-2026-10-03",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-03T01:48:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/mathhaya-parathasha_0adfebf9a8259ec4f5fbd602b124edd3.jpeg?w=1200&dpr=1.0",
-      "summary": "अमित शाह भोपाल में गोपालक सम्मेलन में शामिल होंगे। वे कई विकास कार्यों की घोषणा करेंगे। नए आपराधिक कानूनों की प्रदर्शनी का उद्घाटन होगा। लंबित विषयों पर बैठक भी होगी। केंद्रीय गृह एवं सहकारिता मंत्री अमित शाह शनिवार को भोपाल में राज्य स्तरीय गोपालक सम्मेलन में शामिल होंगे। इस दौरान वे कई विकास कार्यों की सौगात देंगे, नए आपराधिक कानूनों की प्रदर्शनी का उद्घाटन और लंबित विषयों पर बैठक करेंगे।",
+      "published_at": "2026-10-03T07:19:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/flydubai-mid-air-scare_f8030abd3b2c3c6a00c48a925d057cbb.jpeg?w=1200&dpr=1.0",
+      "summary": "जांच में पता चला कि कैप्टन स्मित पर चाकू नहीं, कुल्हाड़ी से वार हुआ था। फिर भी उन्होंने 180 यात्रियों की जान बचाई। यूएई ने इस घटना को आतंकी कृत्य के रूप में दर्ज किया है। चाकू नहीं, कुल्हाड़ी से हुआ था कैप्टन स्मित पर वार, फिर भी बचाईं 180 जानें; जांच में नए खुलासे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चाकू नहीं, कुल्हाड़ी से हुआ था कैप्टन स्मित पर वार, फिर भी बचाईं 180 जानें; जांच में नए खुलासे",
+          "summary": "जांच में पता चला कि कैप्टन स्मित पर चाकू नहीं, कुल्हाड़ी से वार हुआ था। फिर भी उन्होंने 180 यात्रियों की जान बचाई। यूएई ने इस घटना को आतंकी कृत्य के रूप में दर्ज किया है। चाकू नहीं, कुल्हाड़ी से हुआ था कैप्टन स्मित पर वार, फिर भी बचाईं 180 जानें; जांच में नए खुलासे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "लद्दाख की 28 जगहों के भारत ने नाम बदले, चीन को लग सकता है झटका",
+      "url": "https://www.abplive.com/news/india/ladakh-28-places-standardised-names-survey-of-india-map-amid-china-friction-3197021",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-03T07:19:23+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/cede2550d4e6ebc2d5ae4004d4b6ed8617910002164931115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारत सरकार ने लद्दाख में 28 भौगोलिक संरचनाओं के नाम सर्वे ऑफ इंडिया नक्शे पर मानक रूप से दर्ज किए हैं। इसमें पहाड़, दर्रे और ग्लेशियर शामिल हैं। गृह मंत्रालय ने 2 अक्टूबर 2026 को इसकी जानकारी दी। भारत सरकार ने केंद्र शासित प्रदेश लद्दाख में 28 जगहों और भौगोलिक संरचनाओं को आधिकारिक तौर पर सर्वे ऑफ इंडिया के नक्शे पर मानक नामों के साथ दर्ज किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लद्दाख की 28 जगहों के भारत ने नाम बदले, चीन को लग सकता है झटका",
+          "summary": "भारत सरकार ने लद्दाख में 28 भौगोलिक संरचनाओं के नाम सर्वे ऑफ इंडिया नक्शे पर मानक रूप से दर्ज किए हैं। इसमें पहाड़, दर्रे और ग्लेशियर शामिल हैं। गृह मंत्रालय ने 2 अक्टूबर 2026 को इसकी जानकारी दी। भारत सरकार ने केंद्र शासित प्रदेश लद्दाख में 28 जगहों और भौगोलिक संरचनाओं को आधिकारिक तौर पर सर्वे ऑफ इंडिया के नक्शे पर मानक नामों के साथ दर्ज किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘खुद को ठेकेदार...’, सौरव दास का CJP के जंतर-मंतर प्रोटेस्ट से पहले बड़ा बयान",
+      "url": "https://www.abplive.com/news/india/sir-gyanesh-kumar-controversy-cjp-protest-abhijeet-dipke-ashutosh-ranka-saurav-das-react-3197083",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-03T07:12:03+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/81733d3cb024fdfd0649d02903c6b93c17910084326951115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सौरव दास ने CJP के जंतर-मंतर प्रोटेस्ट से पहले बड़ा बयान दिया। इसमें उन्होंने फाउंडर अभिजीत दीपके की आलोचना करने वाले इकोसिस्टम पर निशाना साधा। दास का कहना है कि यह आलोचना केवल ध्यान खींचने की कोशिश है। SIR से संबंधित विवाद को लेकर CJP ने मुंबई में प्रोटेस्ट किया था. इस पर कई लोगों ने फाउंडर अभिजीत दीपके की आलोचना की थी.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘खुद को ठेकेदार...’, सौरव दास का CJP के जंतर-मंतर प्रोटेस्ट से पहले बड़ा बयान",
+          "summary": "सौरव दास ने CJP के जंतर-मंतर प्रोटेस्ट से पहले बड़ा बयान दिया। इसमें उन्होंने फाउंडर अभिजीत दीपके की आलोचना करने वाले इकोसिस्टम पर निशाना साधा। दास का कहना है कि यह आलोचना केवल ध्यान खींचने की कोशिश है। SIR से संबंधित विवाद को लेकर CJP ने मुंबई में प्रोटेस्ट किया था. इस पर कई लोगों ने फाउंडर अभिजीत दीपके की आलोचना की थी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आखिर एक उड़ान में चार पायलट क्यों सवार थे, कॉकपिट में पांच सेकंड की देरी से क्या हो सकता था?",
+      "url": "https://www.amarujala.com/india-news/flydubai-attack-why-were-four-pilots-on-board-and-what-could-have-happened-with-a-five-second-delay-2026-10-03",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-03T07:02:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/hara-eka-sakada-tha-kamata_9d34ff1f2a831347ac9c78f91496a2dd.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्लाईदुबई के विमान में चार पायलटों की उपस्थिति का कारण अभी स्पष्ट नहीं हुआ है। जांच एजेंसियां यह पता लगा रही हैं कि कॉकपिट में पांच सेकंड की देरी से क्या परिणाम हो सकता था। इस घटना की गंभीरता को समझने के लिए विस्तृत विश्लेषण जारी है। फ्लाईदुबई मामला: आखिर एक उड़ान में चार पायलट क्यों सवार थे, कॉकपिट में पांच सेकंड की देरी से क्या हो सकता था?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आखिर एक उड़ान में चार पायलट क्यों सवार थे, कॉकपिट में पांच सेकंड की देरी से क्या हो सकता था?",
+          "summary": "फ्लाईदुबई के विमान में चार पायलटों की उपस्थिति का कारण अभी स्पष्ट नहीं हुआ है। जांच एजेंसियां यह पता लगा रही हैं कि कॉकपिट में पांच सेकंड की देरी से क्या परिणाम हो सकता था। इस घटना की गंभीरता को समझने के लिए विस्तृत विश्लेषण जारी है। फ्लाईदुबई मामला: आखिर एक उड़ान में चार पायलट क्यों सवार थे, कॉकपिट में पांच सेकंड की देरी से क्या हो सकता था?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फ्लाई दुबई के हमलावर को-पायलट का नाम आया सामने! अलकायदा से भी जुड़ रहा है कनेक्शन!",
+      "url": "https://www.amarujala.com/video/world/flydubai-attack-suspect-identified-as-hamam-al-hammami-extremist-links-under-probe-2026-10-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-03T07:02:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/flydubai-attack-suspect-identified-as-hamam-al-hammami-extremist-links-under-probe_c6ec785f3da6177d37a7f52a16daba4c.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्लाई दुबई के हमलावर को-पायलट की पहचान हमाम अलहमामी के रूप में हुई है। जांच एजेंसियां उसके सीरिया और अल-कायदा से कथित संबंधों की पड़ताल कर रही हैं। इस मामले में उसके कट्टरपंथी आइडियोलॉजी का भी जांच का हिस्सा बना है। फ्लाई दुबई के विमान में कैप्टन स्मित मच्छार पर हमले के आरोपी ओमानी को-पायलट की पहचान हमाम अलहमामी के रूप में बताई जा रही है और जांच एजेंसियां उसके कथित कट्टरपंथी, सीरिया और अल-कायदा संबंधों की पड़ताल कर रही हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्लाई दुबई के हमलावर को-पायलट का नाम आया सामने! अलकायदा से भी जुड़ रहा है कनेक्शन!",
+          "summary": "फ्लाई दुबई के हमलावर को-पायलट की पहचान हमाम अलहमामी के रूप में हुई है। जांच एजेंसियां उसके सीरिया और अल-कायदा से कथित संबंधों की पड़ताल कर रही हैं। इस मामले में उसके कट्टरपंथी आइडियोलॉजी का भी जांच का हिस्सा बना है। फ्लाई दुबई के विमान में कैप्टन स्मित मच्छार पर हमले के आरोपी ओमानी को-पायलट की पहचान हमाम अलहमामी के रूप में बताई जा रही है और जांच एजेंसियां उसके कथित कट्टरपंथी, सीरिया और अल-कायदा संबंधों की पड़ताल कर रही हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी राष्ट्रपति ट्रंप ने कर दिया बड़ा ऐलान, 2 करोड़ सीनियर सिटिजन को मिलेगा 100 डॉलर का डायरेक्ट",
+      "url": "https://www.patrika.com/world-news/donald-trump-100-dollar-payment-seniors-citizens-direct-payment-20955022",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-03T06:53:14+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump-4.webp",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 20 मिलियन सीनियर सिटिजन को 100 डॉलर देने का ऐलान किया है। इस योजना की शुरुआत इसी महीने अक्टूबर से होगी। यह कदम सीधे लाभार्थियों के खातों में राशि जमा करने के लिए लिया गया है। राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा ऐलान किया है। वह सीनियर सिटीजन को 100 डॉलर देने जा रहे हैं। इसकी शुरुआत इसी माह अक्टूबर से होगी।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी राष्ट्रपति ट्रंप ने कर दिया बड़ा ऐलान, 2 करोड़ सीनियर सिटिजन को मिलेगा 100 डॉलर का डायरेक्ट",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने 20 मिलियन सीनियर सिटिजन को 100 डॉलर देने का ऐलान किया है। इस योजना की शुरुआत इसी महीने अक्टूबर से होगी। यह कदम सीधे लाभार्थियों के खातों में राशि जमा करने के लिए लिया गया है। राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा ऐलान किया है। वह सीनियर सिटीजन को 100 डॉलर देने जा रहे हैं। इसकी शुरुआत इसी माह अक्टूबर से होगी।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "राहुल गांधी ने लॉन्च किया 'सत्याग्रह' पोर्टल, देशभर के आंदोलनों को जोड़ने की पहल",
+      "url": "https://www.amarujala.com/india-news/conress-leader-rahul-gandhi-launches-satyagraha-platform-to-map-protests-across-india-2026-10-03",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-03T06:48:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/rahal-gathha-na-satayagaraha-dajatal-paltafarama-lnaca-kaya_68d893de193641d4aadb26efc9232c5f.jpeg?w=1200&dpr=1.0",
+      "summary": "राहुल गांधी ने देशभर के आंदोलनों को जोड़ने के लिए 'सत्याग्रह' पोर्टल लॉन्च किया है। यह पहल विभिन्न संघर्षों को एक साथ मैप करने के उद्देश्य से शुरू की गई है। कांग्रेस नेता ने इसे 'संघर्ष जोड़ो, भारत जोड़ो' के तहत प्रस्तुत किया है। राहुल गांधी ने लॉन्च किया 'सत्याग्रह' पोर्टल, देशभर के आंदोलनों को जोड़ने की पहल।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राहुल गांधी ने लॉन्च किया 'सत्याग्रह' पोर्टल, देशभर के आंदोलनों को जोड़ने की पहल",
+          "summary": "राहुल गांधी ने देशभर के आंदोलनों को जोड़ने के लिए 'सत्याग्रह' पोर्टल लॉन्च किया है। यह पहल विभिन्न संघर्षों को एक साथ मैप करने के उद्देश्य से शुरू की गई है। कांग्रेस नेता ने इसे 'संघर्ष जोड़ो, भारत जोड़ो' के तहत प्रस्तुत किया है। राहुल गांधी ने लॉन्च किया 'सत्याग्रह' पोर्टल, देशभर के आंदोलनों को जोड़ने की पहल।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आजम खान के करीबियों पर शिकंजा, ED जौहर ट्रस्ट-यूनिवर्सिटी मामले में करेगी जांच",
+      "url": "https://www.abplive.com/news/india/eds-probe-against-azam-khan-aand-his-allies-doubt-of-money-laundering-jauhar-university-ann-3197061",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-03T06:40:52+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/1d321d9d10d0c6163947ecb3885b2e891791009641506344_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "प्रवर्तन निदेशालय ने जौहर ट्रस्ट और यूनिवर्सिटी मामले में छापेमारी के दौरान फर्जी फर्मों के दस्तावेज बरामद किए हैं। इन फर्मों के जरिए बड़ी रकम का हस्तांतरण हुआ है। जांच के दौरान आजम खान के करीबियों पर शिकंजा कसा जा रहा है। समाजवादी पार्टी के वरिष्ठ नेता आजम खान और उनके परिवार से जुड़े मौलाना मोहम्मद अली जौहर ट्रस्ट तथा मोहम्मद अली जौहर यूनिवर्सिटी मामले में प्रवर्तन निदेशालय (ED) की जांच आगे बढ़ने के साथ ही उनके करीबियों की मुश्किलें बढ़ सकती हैं.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भोपाल में आज केंद्रीय गृहमंत्री अमित शाह: गोपालक सम्मेलन में होंगे शामिल,कई सौगात देंगे; देखें पूरा",
-          "summary": "अमित शाह भोपाल में गोपालक सम्मेलन में शामिल होंगे। वे कई विकास कार्यों की घोषणा करेंगे। नए आपराधिक कानूनों की प्रदर्शनी का उद्घाटन होगा। लंबित विषयों पर बैठक भी होगी। केंद्रीय गृह एवं सहकारिता मंत्री अमित शाह शनिवार को भोपाल में राज्य स्तरीय गोपालक सम्मेलन में शामिल होंगे। इस दौरान वे कई विकास कार्यों की सौगात देंगे, नए आपराधिक कानूनों की प्रदर्शनी का उद्घाटन और लंबित विषयों पर बैठक करेंगे।",
+          "title": "आजम खान के करीबियों पर शिकंजा, ED जौहर ट्रस्ट-यूनिवर्सिटी मामले में करेगी जांच",
+          "summary": "प्रवर्तन निदेशालय ने जौहर ट्रस्ट और यूनिवर्सिटी मामले में छापेमारी के दौरान फर्जी फर्मों के दस्तावेज बरामद किए हैं। इन फर्मों के जरिए बड़ी रकम का हस्तांतरण हुआ है। जांच के दौरान आजम खान के करीबियों पर शिकंजा कसा जा रहा है। समाजवादी पार्टी के वरिष्ठ नेता आजम खान और उनके परिवार से जुड़े मौलाना मोहम्मद अली जौहर ट्रस्ट तथा मोहम्मद अली जौहर यूनिवर्सिटी मामले में प्रवर्तन निदेशालय (ED) की जांच आगे बढ़ने के साथ ही उनके करीबियों की मुश्किलें बढ़ सकती हैं.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ओमान के पास टैंकर पर हमला, पांच भारतीय नाविकों को सुरक्षित निकाला गया",
-      "url": "https://www.amarujala.com/world/growing-threats-in-maritime-corridors-tanker-attacked-near-oman-indian-seafarers-rescued-2026-10-03",
-      "source": "Amar Ujala Breaking",
+      "title": "अमेरिका में हिंदू मंदिर पर ईंटों से हमला, अंदर मौजूद थे पुजारी और श्रद्धालु, खिड़कियों के शीशे टूटे",
+      "url": "https://hindi.news18.com/world/america-ohio-hindu-temple-attack-swami-narayan-vadtaldham-10882255.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-03T01:46:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/26/hormuz-strait_b621a86c4c0d9da77a738c881f8dee13.jpeg?w=1200&dpr=1.0",
-      "summary": "ओमान के पास एक टैंकर पर हमला हुआ। पांच भारतीय नाविकों को सुरक्षित निकाला गया। समुद्री गलियारों में खतरे बढ़ रहे हैं। इस घटना ने क्षेत्रीय सुरक्षा को प्रभावित किया।",
+      "published_at": "2026-10-03T06:39:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/baps-2026-10-969e84e1ba16e4c1ca002217ea727f54-1200x800.jpg",
+      "summary": "ओहायो स्थित श्रीस्वामीनारायण हिंदू मंदिर पर ईंटों से हमला किया गया। घटना के समय मंदिर के अंदर पुजारी और श्रद्धालु मौजूद थे। हमले में खिड़कियों के शीशे टूट गए। स्थानीय प्रशासन से कार्रवाई की मांग की गई है। अमेरिका के ओहायो में श्रीस्वामीनारायण हिंदू मंदिर वड़तालधाम पर ईंटों से हमला किया गया. इस घटना में मंदिर की खिड़कियों के शीशे टूट गए.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में हिंदू मंदिर पर ईंटों से हमला, अंदर मौजूद थे पुजारी और श्रद्धालु, खिड़कियों के शीशे टूटे",
+          "summary": "ओहायो स्थित श्रीस्वामीनारायण हिंदू मंदिर पर ईंटों से हमला किया गया। घटना के समय मंदिर के अंदर पुजारी और श्रद्धालु मौजूद थे। हमले में खिड़कियों के शीशे टूट गए। स्थानीय प्रशासन से कार्रवाई की मांग की गई है। अमेरिका के ओहायो में श्रीस्वामीनारायण हिंदू मंदिर वड़तालधाम पर ईंटों से हमला किया गया. इस घटना में मंदिर की खिड़कियों के शीशे टूट गए.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "खरगे ने PM मोदी को लिखा लेटर, कर्नाटक के लिए की ये बड़ी मांग",
+      "url": "https://www.abplive.com/news/india/mallikarjun-kharge-on-karnataka-drought-2026-pm-modi-relief-demand-3705-crore-3197066",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-03T06:09:46+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/72c80c8c5becb9e43bc30c131ebbff6b17910068365181115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कर्नाटक सरकार ने खरीफ 2026 के सूखे से प्रभावित इलाकों के लिए केंद्र से 3705.30 करोड़ रुपये की सहायता मांगी है। यह मांग 101 सूखा प्रभावित तालुकों के लिए की गई है। बारिश की कमी ने फसलों और जल स्रोतों को नुकसान पहुंचाया है। कर्नाटक में सूखे की स्थिति लगातार गंभीर होती जा रही है. फसल नुकसान, पानी की कमी और किसानों की परेशानी को देखते हुए केंद्र सरकार से तत्काल मदद की मांग की गई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खरगे ने PM मोदी को लिखा लेटर, कर्नाटक के लिए की ये बड़ी मांग",
+          "summary": "कर्नाटक सरकार ने खरीफ 2026 के सूखे से प्रभावित इलाकों के लिए केंद्र से 3705.30 करोड़ रुपये की सहायता मांगी है। यह मांग 101 सूखा प्रभावित तालुकों के लिए की गई है। बारिश की कमी ने फसलों और जल स्रोतों को नुकसान पहुंचाया है। कर्नाटक में सूखे की स्थिति लगातार गंभीर होती जा रही है. फसल नुकसान, पानी की कमी और किसानों की परेशानी को देखते हुए केंद्र सरकार से तत्काल मदद की मांग की गई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "‘अगर बता दूं तो बड़ी खबर बन जाएगी, ईरान पर बोले डोनाल्ड ट्रंप- मामला जल्द हो जाएगा खत्म",
+      "url": "https://www.patrika.com/world-news/trump-iran-conflict-short-lived-oil-prices-diesel-export-20954862",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-03T05:56:51+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump.IANS_.webp",
+      "summary": "डोनाल्ड ट्रंप ने ईरान से जुड़ी अपनी योजना का खुलासा करने से इनकार कर दिया। उन्होंने कहा कि इस टकराव का समाधान जल्द होगा। व्हाइट हाउस में पत्रकारों से बातचीत के दौरान उन्होंने यह टिप्पणी की। US President Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को लेकर अपनी योजना का खुलासा करने से इनकार किया है। उन्होंने एकबार फिर दावा किया कि हालात ठीक चल रहे हैं।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ओमान के पास टैंकर पर हमला, पांच भारतीय नाविकों को सुरक्षित निकाला गया",
-          "summary": "ओमान के पास एक टैंकर पर हमला हुआ। पांच भारतीय नाविकों को सुरक्षित निकाला गया। समुद्री गलियारों में खतरे बढ़ रहे हैं। इस घटना ने क्षेत्रीय सुरक्षा को प्रभावित किया।",
+          "title": "‘अगर बता दूं तो बड़ी खबर बन जाएगी, ईरान पर बोले डोनाल्ड ट्रंप- मामला जल्द हो जाएगा खत्म",
+          "summary": "डोनाल्ड ट्रंप ने ईरान से जुड़ी अपनी योजना का खुलासा करने से इनकार कर दिया। उन्होंने कहा कि इस टकराव का समाधान जल्द होगा। व्हाइट हाउस में पत्रकारों से बातचीत के दौरान उन्होंने यह टिप्पणी की। US President Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को लेकर अपनी योजना का खुलासा करने से इनकार किया है। उन्होंने एकबार फिर दावा किया कि हालात ठीक चल रहे हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "शी जिनपिंग की सेहत पर फिर उठे सवाल, ट्रंप से मुलाकात में मांगा आराम के लिए अलग कमरा, क्यों?",
+      "url": "https://hindi.news18.com/world/china-president-xi-jinping-health-concerns-donald-trump-meeting-white-house-private-room-10882008.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-03T05:41:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/jinping-15-2026-10-84887728a3ed61efa11631acbb45bda8-1200x800.jpg",
+      "summary": "शी जिनपिंग की सेहत पर सवाल उठे हैं जब उन्होंने ट्रंप से मुलाकात के दौरान व्हाइट हाउस में अलग आराम कक्ष मांगा। उनके कार्यक्रम में बदलाव किए गए और कुछ बैठकें छोटी की गईं। यह घटना सितंबर में अमेरिका दौरे के दौरान हुई थी। Donald Trump-Xi Jinping: चीन के राष्ट्रपति शी जिनपिंग की सेहत को लेकर एक बार फिर सवाल उठे हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शी जिनपिंग की सेहत पर फिर उठे सवाल, ट्रंप से मुलाकात में मांगा आराम के लिए अलग कमरा, क्यों?",
+          "summary": "शी जिनपिंग की सेहत पर सवाल उठे हैं जब उन्होंने ट्रंप से मुलाकात के दौरान व्हाइट हाउस में अलग आराम कक्ष मांगा। उनके कार्यक्रम में बदलाव किए गए और कुछ बैठकें छोटी की गईं। यह घटना सितंबर में अमेरिका दौरे के दौरान हुई थी। Donald Trump-Xi Jinping: चीन के राष्ट्रपति शी जिनपिंग की सेहत को लेकर एक बार फिर सवाल उठे हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रामबन बस हादसे के बाद मची अफरा-तफरी: राहत के लिए निकली क्यूआरटी गाड़ी भी पलटी, नौ जवान घायल; एक",
+      "url": "https://www.amarujala.com/jammu/bus-en-route-for-relief-and-rescue-operations-in-ramban-meets-with-an-accident-2026-10-03",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-03T05:39:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/ramabna-hathasa_03e0aef0ab840625fe399b07fa6f7db7.jpeg?w=1200&dpr=1.0",
+      "summary": "रामबन के केला मोड़ पर राहत कार्य के दौरान क्यूआरटी की बस पलट गई। इस दुर्घटना में पांच कर्मी घायल हुए। यह हादसा एक अन्य बस दुर्घटना के बाद राहत के लिए निकली गाड़ी के साथ हुआ। रामबन के केला मोड़ के पास एक अन्य बस हादसे के बाद राहत-बचाव कार्य में मदद के लिए जा रही बस सड़क से फिसलकर दुर्घटनाग्रस्त हो गई, जिसमें पांच कर्मी घायल हुए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रामबन बस हादसे के बाद मची अफरा-तफरी: राहत के लिए निकली क्यूआरटी गाड़ी भी पलटी, नौ जवान घायल; एक",
+          "summary": "रामबन के केला मोड़ पर राहत कार्य के दौरान क्यूआरटी की बस पलट गई। इस दुर्घटना में पांच कर्मी घायल हुए। यह हादसा एक अन्य बस दुर्घटना के बाद राहत के लिए निकली गाड़ी के साथ हुआ। रामबन के केला मोड़ के पास एक अन्य बस हादसे के बाद राहत-बचाव कार्य में मदद के लिए जा रही बस सड़क से फिसलकर दुर्घटनाग्रस्त हो गई, जिसमें पांच कर्मी घायल हुए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "50 देशों के नागरिकों को देना होगा 20,000 डॉलर तक Visa Bond, जानें भारत शामिल है या नहीं?",
+      "url": "https://www.patrika.com/world-news/new-visa-bond-rule-in-the-us-relief-to-india-applicable-to-50-countries-20954666",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-03T05:24:26+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/us-visa-update-.webp",
+      "summary": "अमेरिकी सरकार ने 50 देशों के नागरिकों के लिए नया वीजा बॉन्ड नियम लागू किया है। B1/B2 वीजा के कुछ आवेदकों को अमेरिका जाने से पहले 20,000 डॉलर तक जमा करने होंगे। इस सूची में भारत शामिल है या नहीं, यह अभी स्पष्ट नहीं है। USA Visa Latest Rules: अमेरिका जाने की तैयारी कर रहे लोगों के लिए एक अहम खबर सामने आई है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "50 देशों के नागरिकों को देना होगा 20,000 डॉलर तक Visa Bond, जानें भारत शामिल है या नहीं?",
+          "summary": "अमेरिकी सरकार ने 50 देशों के नागरिकों के लिए नया वीजा बॉन्ड नियम लागू किया है। B1/B2 वीजा के कुछ आवेदकों को अमेरिका जाने से पहले 20,000 डॉलर तक जमा करने होंगे। इस सूची में भारत शामिल है या नहीं, यह अभी स्पष्ट नहीं है। USA Visa Latest Rules: अमेरिका जाने की तैयारी कर रहे लोगों के लिए एक अहम खबर सामने आई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में नवरात्रि से पहले हिंदू मंदिर पर ईंट-पत्थरों से हमला, टूटीं खिड़कियां, HAF ने बताया",
+      "url": "https://www.patrika.com/world-news/us-hindu-temple-attack-ohio-richmond-heights-bricks-20954691",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-03T05:22:45+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/us-hindu-temple.webp",
+      "summary": "ओहायो के रिचमंड हाइट्स में श्री स्वामीनारायण वडताल धाम मंदिर पर ईंटें फेंककर हमला किया गया। इस घटना में मंदिर की खिड़कियां टूट गईं। हमले के समय मंदिर के अंदर पुजारी और श्रद्धालु मौजूद थे। US Hindu Temple Attack: अमेरिका के ओहायो में एक हिंदू मंदिर पर ईंटें फेंककर हमला करने की घटना सामने आई है। यह घटना ग्रेटर क्लीवलैंड इलाके के रिचमंड हाइट्स में स्थित श्री स्वामीनारायण वडताल धाम हिंदू मंदिर में हुई।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में नवरात्रि से पहले हिंदू मंदिर पर ईंट-पत्थरों से हमला, टूटीं खिड़कियां, HAF ने बताया",
+          "summary": "ओहायो के रिचमंड हाइट्स में श्री स्वामीनारायण वडताल धाम मंदिर पर ईंटें फेंककर हमला किया गया। इस घटना में मंदिर की खिड़कियां टूट गईं। हमले के समय मंदिर के अंदर पुजारी और श्रद्धालु मौजूद थे। US Hindu Temple Attack: अमेरिका के ओहायो में एक हिंदू मंदिर पर ईंटें फेंककर हमला करने की घटना सामने आई है। यह घटना ग्रेटर क्लीवलैंड इलाके के रिचमंड हाइट्स में स्थित श्री स्वामीनारायण वडताल धाम हिंदू मंदिर में हुई।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "तुर्किए से भारत लाया गया ड्रग किंगपिन नवप्रीत सिंह, गृहमंत्री अमित शाह ने क्या-क्या बताया",
+      "url": "https://www.abplive.com/news/india/navpreet-singh-deported-from-turkiye-india-drug-trafficking-syndicate-amit-shah-navab-virk-3197050",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-03T05:07:30+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/65aff7e255a986630a3474363a6972891791004258133425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारत ने तुर्किये से अंतरराष्ट्रीय ड्रग तस्करी सिंडिकेट के सरगना नवप्रीत सिंह को वापस लाया है। गृहमंत्री अमित शाह ने बताया कि एजेंसियों ने उसकी फर्जी पहचान और तुर्की नागरिकता का पता लगाया। अब उस पर कई आपराधिक मामलों में कार्रवाई की जा रही है। भारत सरकार ने अंतरराष्ट्रीय ड्रग तस्करी सिंडिकेट के सरगना नवप्रीत सिंह को तुर्किये से भारत वापस लाने में सफलता हासिल की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तुर्किए से भारत लाया गया ड्रग किंगपिन नवप्रीत सिंह, गृहमंत्री अमित शाह ने क्या-क्या बताया",
+          "summary": "भारत ने तुर्किये से अंतरराष्ट्रीय ड्रग तस्करी सिंडिकेट के सरगना नवप्रीत सिंह को वापस लाया है। गृहमंत्री अमित शाह ने बताया कि एजेंसियों ने उसकी फर्जी पहचान और तुर्की नागरिकता का पता लगाया। अब उस पर कई आपराधिक मामलों में कार्रवाई की जा रही है। भारत सरकार ने अंतरराष्ट्रीय ड्रग तस्करी सिंडिकेट के सरगना नवप्रीत सिंह को तुर्किये से भारत वापस लाने में सफलता हासिल की है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "एफबीआई के राज अब होंगे बेपर्दा?: काश पटेल की गोपनीय रिपोर्ट ने बढ़ाई हलचल, कौन से मामलों की फिर से",
+      "url": "https://www.amarujala.com/world/fbi-patel-report-kash-patel-s-secret-review-raises-questions-over-past-cases-and-bureau-failures-2026-10-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-03T04:55:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/tarapa-oura-kasha-patal_ce7486cb5cf9ca802dd4395326fe1bae.jpeg?w=1200&dpr=1.0",
+      "summary": "काश पटेल की गोपनीय रिपोर्ट ने एफबीआई के कुछ मामलों की पुनः जांच की संभावना को बढ़ा दिया है। इस रिपोर्ट ने देश में हलचल मचा दी है। अब यह देखना है कि किन विशिष्ट मामलों की फिर से जांच होगी। एफबीआई के राज अब होंगे बेपर्दा?: काश पटेल की गोपनीय रिपोर्ट ने बढ़ाई हलचल, कौन से मामलों की फिर से होगी जांच?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एफबीआई के राज अब होंगे बेपर्दा?: काश पटेल की गोपनीय रिपोर्ट ने बढ़ाई हलचल, कौन से मामलों की फिर से",
+          "summary": "काश पटेल की गोपनीय रिपोर्ट ने एफबीआई के कुछ मामलों की पुनः जांच की संभावना को बढ़ा दिया है। इस रिपोर्ट ने देश में हलचल मचा दी है। अब यह देखना है कि किन विशिष्ट मामलों की फिर से जांच होगी। एफबीआई के राज अब होंगे बेपर्दा?: काश पटेल की गोपनीय रिपोर्ट ने बढ़ाई हलचल, कौन से मामलों की फिर से होगी जांच?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ममता बनर्जी ने भी किया CJP का समर्थन, और कौन से दल अभिजीत दीपके के साथ?",
+      "url": "https://www.abplive.com/news/india/mamata-banerjee-supports-cockroach-janta-party-cjp-protest-against-gyanesh-kumar-3197008",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-03T04:46:29+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/d74dde1b3861d8e90510f707fd96bddf1791000391746425_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "ममता बनर्जी ने दिल्ली लौटने पर कोलकाता में CJP आंदोलन का समर्थन किया। उन्होंने ज्ञानेश कुमार के इस्तीफे की मांग में युवाओं के साथ खड़े होने का ऐलान किया। पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी ने मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार के इस्तीफे की मांग को लेकर चल रहे कॉकरोच जनता पार्टी (CJP) के आंदोलन को समर्थन दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ममता बनर्जी ने भी किया CJP का समर्थन, और कौन से दल अभिजीत दीपके के साथ?",
+          "summary": "ममता बनर्जी ने दिल्ली लौटने पर कोलकाता में CJP आंदोलन का समर्थन किया। उन्होंने ज्ञानेश कुमार के इस्तीफे की मांग में युवाओं के साथ खड़े होने का ऐलान किया। पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी ने मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार के इस्तीफे की मांग को लेकर चल रहे कॉकरोच जनता पार्टी (CJP) के आंदोलन को समर्थन दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस का बांग्‍लादेश-नेपाल वाला हाल, सड़कों पर क्‍यों उतरा Gen Z और क्‍या है डिमांड?",
+      "url": "https://hindi.news18.com/world/europe-france-facing-situation-similar-to-bangladesh-nepal-why-gen-z-on-streets-and-what-are-their-demands-10881975.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-03T04:32:03+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/France-Protest-2026-10-4038eca43a5d464ca8d2ac872b54967c-1200x800.jpg",
+      "summary": "फ्रांस में Gen Z छात्रों ने मैक्रों सरकार के खिलाफ सड़क पर प्रदर्शन किया। जर्जर क्लासरूम और शिक्षकों की कमी ने इस आंदोलन को भड़काया। France Student Protests: पेरिस समेत फ्रांस के विभिन्न शहरों में पढ़ाई-लिखाई छोड़कर सड़कों पर उतरी 'जेन-जी' पीढ़ी ने इमैनुएल मैक्रों सरकार के खिलाफ आर-पार का मोर्चा खोल दिया है. टपकती छतें, क्लासरूम में रेंगते कॉकरोच, जर्जर इमारतें और शिक्षकों की भारी किल्लत जैसे बुनियादी मुद्दों ने स्कूली छात्रों के सब्र का बांध तोड़ दिया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्रांस का बांग्‍लादेश-नेपाल वाला हाल, सड़कों पर क्‍यों उतरा Gen Z और क्‍या है डिमांड?",
+          "summary": "फ्रांस में Gen Z छात्रों ने मैक्रों सरकार के खिलाफ सड़क पर प्रदर्शन किया। जर्जर क्लासरूम और शिक्षकों की कमी ने इस आंदोलन को भड़काया। France Student Protests: पेरिस समेत फ्रांस के विभिन्न शहरों में पढ़ाई-लिखाई छोड़कर सड़कों पर उतरी 'जेन-जी' पीढ़ी ने इमैनुएल मैक्रों सरकार के खिलाफ आर-पार का मोर्चा खोल दिया है. टपकती छतें, क्लासरूम में रेंगते कॉकरोच, जर्जर इमारतें और शिक्षकों की भारी किल्लत जैसे बुनियादी मुद्दों ने स्कूली छात्रों के सब्र का बांध तोड़ दिया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ओहायो के श्री स्वामीनारायण हिंदू मंदिर पर ईंटों से हमला, खिड़कियां टूटीं; जांच में जुटी एजेंसियां",
+      "url": "https://www.amarujala.com/world/shree-swaminarayan-vadtaldham-hindu-temple-in-ohio-attack-windows-shattered-police-investigation-2026-10-03",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-03T04:29:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/hatha-mathara-para-iita-sa-hamal_2c28256ead6a7b4e22f2c5d87b8ad924.gif?w=1200&dpr=1.0",
+      "summary": "ओहायो के श्री स्वामीनारायण मंदिर पर ईंटों से हमला हुआ। खिड़कियां टूट गईं और पुलिस ने जांच शुरू कर दी है। ओहायो के श्री स्वामीनारायण हिंदू मंदिर पर ईंटों से हमला, खिड़कियां टूटीं; जांच में जुटी एजेंसियां।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओहायो के श्री स्वामीनारायण हिंदू मंदिर पर ईंटों से हमला, खिड़कियां टूटीं; जांच में जुटी एजेंसियां",
+          "summary": "ओहायो के श्री स्वामीनारायण मंदिर पर ईंटों से हमला हुआ। खिड़कियां टूट गईं और पुलिस ने जांच शुरू कर दी है। ओहायो के श्री स्वामीनारायण हिंदू मंदिर पर ईंटों से हमला, खिड़कियां टूटीं; जांच में जुटी एजेंसियां।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'पुलिस ने रोका तो...', CJP का जंतर-मंतर के प्रदर्शन पर बड़ा ऐलान",
+      "url": "https://www.abplive.com/news/india/cjp-on-jantar-mantar-protest-if-delhi-police-stops-october-10-cec-gyanesh-kumar-resignation-3197029",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-03T04:13:07+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/4099e8bbaf71591c75537c1f9f6b72091791000751565344_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "CJP ने दिल्ली के जंतर-मंतर पर प्रदर्शन का ऐलान किया। पार्टी ने कहा कि पुलिस रोकने की कोशिश करे तो वहीं प्रदर्शन शुरू होगा। कॉकरोच जनता पार्टी ने मुंबई के बाद अब दिल्ली के जंतर-मंतर पर फिर से प्रदर्शन करने का ऐलान किया है. सीजेपी ने इसको लेकर शनिवार (3 अक्तूबर) को बड़ा बयान दिया. उसने कहा कि अगर पुलिस ने रोकने की कोशिश की तो जहां रोकेगी वहीं प्रदर्शन शुरू कर देंगे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'पुलिस ने रोका तो...', CJP का जंतर-मंतर के प्रदर्शन पर बड़ा ऐलान",
+          "summary": "CJP ने दिल्ली के जंतर-मंतर पर प्रदर्शन का ऐलान किया। पार्टी ने कहा कि पुलिस रोकने की कोशिश करे तो वहीं प्रदर्शन शुरू होगा। कॉकरोच जनता पार्टी ने मुंबई के बाद अब दिल्ली के जंतर-मंतर पर फिर से प्रदर्शन करने का ऐलान किया है. सीजेपी ने इसको लेकर शनिवार (3 अक्तूबर) को बड़ा बयान दिया. उसने कहा कि अगर पुलिस ने रोकने की कोशिश की तो जहां रोकेगी वहीं प्रदर्शन शुरू कर देंगे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कर्नाटक में 198 मुस्लिम वोटर्स का नाम हटाने की साजिश का आरोप, BJP नेता पर FIR दर्ज",
+      "url": "https://www.abplive.com/news/india/karnataka-fir-against-ravi-patil-bjp-sir-form-7-voter-deletion-3196994",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-03T03:45:48+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/03/f1e4f42b8ccac177d852fba3f110203417909942619101115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कर्नाटक में बीजेपी नेता रवि पाटिल पर FIR दर्ज हुई। आरोप है कि SIR के दौरान 198 मुस्लिम वोटर्स के नाम हटाए गए। कर्नाटक में SIR को लेकर विवाद बढ़ता जा रहा है. राज्य के अलग-अलग हिस्सों में Form-7 के जरिए वोटरों के नाम हटाने की कोशिश के आरोप लगे हैं. इन मामलों में बेलगावी, मैसूरु और बीदर समेत कई जगहों पर FIR दर्ज की गई हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कर्नाटक में 198 मुस्लिम वोटर्स का नाम हटाने की साजिश का आरोप, BJP नेता पर FIR दर्ज",
+          "summary": "कर्नाटक में बीजेपी नेता रवि पाटिल पर FIR दर्ज हुई। आरोप है कि SIR के दौरान 198 मुस्लिम वोटर्स के नाम हटाए गए। कर्नाटक में SIR को लेकर विवाद बढ़ता जा रहा है. राज्य के अलग-अलग हिस्सों में Form-7 के जरिए वोटरों के नाम हटाने की कोशिश के आरोप लगे हैं. इन मामलों में बेलगावी, मैसूरु और बीदर समेत कई जगहों पर FIR दर्ज की गई हैं.",
+          "region": "दुनिया"
         }
       }
     }
