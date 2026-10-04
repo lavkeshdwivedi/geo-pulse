@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-04T18:18:58.615996+00:00",
+  "generated_at": "2026-10-04T22:03:40.797748+00:00",
   "article_count": 50,
   "total_unique_count": 260,
   "digest": {
-    "en": "The United States, China and Russia are each advancing plans to construct nuclear reactors on the Moon, according to a recent report. Meanwhile, Yemen’s president has launched a military campaign aimed at recapturing all territory held by Houthi forces.",
-    "hi": "Strait of Hormuz remains the flashpoint as Iran lists seven conditions after a ship's engine room was destroyed. Simultaneously, Kim Jong Un tested an AI-guided missile that can alter its trajectory mid-flight. This technical leap complicates interception for the US and Japan."
+    "en": "Brazil’s first-round vote pits Lula against Tarcísio in a razor-thin contest that tests the pro-Trump Latin American bloc. Simultaneously, Russia struck a Kyiv bridge while German Chancellor Merz visited the capital.",
+    "hi": "जर्मन चांसलर मर्ज कीव में एक अरब यूरो की सैन्य सहायता का वादा करते हुए रूसी ड्रोन हमलों का सामना कर रहे हैं। इसी समय सऊदी अरब और यमन के हूतियों के बीच नई लड़ाई शुरू हो गई है, जिसमें अमेरिकी सेना की भूमिका पर सवाल उठ रहे हैं।"
   },
   "articles": [
+    {
+      "title": "Brazil presidential election 2026: first-round live results",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-04T19:01:28+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d970472064b7fb20ba9817a1d292900",
+      "summary": "Brazil holds its first-round presidential election, pitting incumbent Luiz Inácio Lula da Silva against Flávio Bolsonaro. The former president's son runs while his father remains imprisoned for plotting a coup. Candidates need over 50 percent of the vote to win outright. Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential raceThe incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "US, China And Russia Race To Build Nuclear Reactors On The Moon: Report",
       "url": "https://www.ndtv.com/world-news/us-china-and-russia-race-to-build-nuclear-reactors-on-the-moon-report-12137354#publisher=newsstand",
@@ -20,14 +32,14 @@
       "translations": {}
     },
     {
-      "title": "Yemen presidency announces military drive to retake all Houthi territory",
-      "url": "https://www.thehindu.com/news/international/yemen-presidency-announces-military-drive-to-retake-all-houthi-territory/article71544431.ece",
-      "source": "The Hindu (International)",
+      "title": "How a film brought a UN report to life in Xochimilco",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168492",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-10-04T15:15:01+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/mjxx71/article71544437.ece/alternates/LANDSCAPE_1200/2026-10-04T135416Z_2043846249_RC2DWNAEDWQD_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG",
-      "summary": "Rashad al-Alimi, head of Yemen's presidential council, announced the start of military operations to retake remaining Houthi-held territories. The stated goal is to extend state authority and institutional control across the entire national territory. This declaration marks a formal escalation in the conflict, moving beyond diplomatic efforts to direct military action. The move signals an intent to reclaim sovereignty over areas currently under Houthi administration.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-10-04T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/DSC02126%20(1).JPG/image770x420cropped.jpg",
+      "summary": "A documentary based on United Nations University research screened at COP30 and European film festivals. The film returned to Xochimilco, the Mexico City canals where it was shot. This journey highlighted the local impact of the climate data presented in the report. A documentary drawn from United Nations University research was screened at the COP30 climate conference and film festivals across Europe.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -44,19 +56,7 @@
       "translations": {}
     },
     {
-      "title": "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar",
-      "url": "https://www.thehindu.com/news/national/india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar/article71543379.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-04T10:35:49+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/t9m48i/article71543403.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-04%20at%202.13.05%20PM.jpeg",
-      "summary": "Indian External Affairs Minister S. Jaishankar stated India is moving beyond advocacy regarding the Russia-Ukraine war. He highlighted historical support from Russia during India's security crises. This marks a shift in diplomatic posture on the ongoing conflict. Commenting on India-Russia ties, Mr. Jaishankar said, “For us, Russia and Soviet Union before that, was a country that stood by us in many ways when our security, when our territorial integrity was under threat, and at a time when you know much of the world preferred backing a military regime next to us”.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Bosnians Vote In Elections Pitting Pro-Western Against Nationalist Forces",
+      "title": "Bosnian Elections Pitted Pro-Western Against Nationalist Forces",
       "url": "https://www.rferl.org/a/bosnians-vote-in-elections-pitting-pro-western-nationalist-forces/33870029.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
@@ -80,7 +80,7 @@
       "translations": {}
     },
     {
-      "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+      "title": "US Coast Guard finds debris of missing air ambulance off coast of Massachusetts",
       "url": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
       "source": "The Guardian",
       "sources": [],
@@ -176,18 +176,6 @@
       "translations": {}
     },
     {
-      "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-      "url": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-02T21:12:29+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/6eb89359121bcb9743fbabae45db54665701003f/319_0_4296_3438/master/4296.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5de1954c6a5cee7ab2aa01c24c397d35",
-      "summary": "Luiz Inácio Lula da Silva led a massive rally in Rio de Janeiro on Saturday. He declared himself the sole barrier against the return of far-right \"fascists\" to power. The event preceded Sunday’s presidential election, which observers view as the most consequential in decades. Lula, eighty years old, framed the vote as a decisive choice between his left-wing government and the political movement associated with former president Jair Bolsonaro.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Flydubai Passenger Recounts Saving Stabbed Pilot",
       "url": "https://www.rferl.org/a/flydubai-saving-stabbed-pilot/33869213.html",
       "source": "Radio Free Europe / Liberty",
@@ -205,7 +193,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-02T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_UNNews_Gaza_Daily_Life_05.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_UNNews_Gaza_Daily_Life_05.jpg/image560x340cropped.jpg",
       "summary": "The World Health Organization warned that delayed medical supplies to Gaza risk devastating consequences. Lifesaving medicines and prosthetics are stuck in transit from Israel. The UN agency appealed for a massive aid influx before winter arrives. Palestinians in the enclave urgently need these critical resources. Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -272,18 +260,6 @@
       "translations": {}
     },
     {
-      "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-01T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-01.jpg/image560x340cropped.jpg",
-      "summary": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday. Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
       "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
       "source": "The Guardian",
@@ -306,6 +282,210 @@
       "region": "Americas",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-09-30T14:16:33+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/7b920bba2f88d64872ad31a0ccd397a6ba405e89/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0546ecb3f5b07fc8ef57e4419b29e1c2",
+      "summary": "South African President Cyril Ramaphosa urged men to take greater responsibility for stopping gender-based violence. He announced new measures after a recent wave of murders sparked public anger. Ramaphosa admitted authorities had failed to protect women adequately. Police will review unsolved cases. President announces measures amid anger at authorities over recent murders of womenSouth Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Arresting the Dangerous Descent Back into War in Northern Ethiopia",
+      "url": "https://www.crisisgroup.org/stm/africa/ethiopia-eritrea/arresting-dangerous-descent-back-war-northern-ethiopia",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-09-25T14:01:00+00:00",
+      "image_url": "https://images.pexels.com/photos/7785052/pexels-photo-7785052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Armed opposition groups in Tigray, Amhara, and Afar launched a multi-pronged offensive against Ethiopian government forces. Long-simmering tensions escalated into large-scale fighting. The conflict threatens a return to costly, bloody war in northern Ethiopia. Long-simmering tensions have turned to large-scale fighting after armed opposition groups in Tigray, Amhara and Afar launched a multi-pronged offensive against Ethiopian government forces. It is not too late to avert a return to costly, bloody war.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "असम में बाढ़ राहत पर सियासत: सीएम सरमा बोले- अखिल गोगोई को श्रेय नहीं लेने दूंगा; मदद में क्यों हो",
+      "url": "https://www.amarujala.com/india-news/financial-aid-to-flood-hit-people-delayed-as-i-won-t-let-akhil-gogoi-take-credit-for-it-himanta-2026-10-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-05T07:05:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/hamata-bsava-sarama_1d1529e74d31aa74b231a099cf169c6f.jpeg?w=1200&dpr=1.0",
+      "summary": "असम मुख्यमंत्री हिमंत बिस्वा सरमा ने अखिल गोगोई पर बाढ़ राहत में देरी का आरोप लगाया। उन्होंने कहा कि गोगोई को इस कार्य का श्रेय नहीं मिलेगा। सरमा ने राहत कार्रवाई में देरी के कारणों पर सवाल उठाए। असम में बाढ़ राहत पर सियासत: सीएम सरमा बोले- अखिल गोगोई को श्रेय नहीं लेने दूंगा; मदद में क्यों हो रही देरी?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "असम में बाढ़ राहत पर सियासत: सीएम सरमा बोले- अखिल गोगोई को श्रेय नहीं लेने दूंगा; मदद में क्यों हो",
+          "summary": "असम मुख्यमंत्री हिमंत बिस्वा सरमा ने अखिल गोगोई पर बाढ़ राहत में देरी का आरोप लगाया। उन्होंने कहा कि गोगोई को इस कार्य का श्रेय नहीं मिलेगा। सरमा ने राहत कार्रवाई में देरी के कारणों पर सवाल उठाए। असम में बाढ़ राहत पर सियासत: सीएम सरमा बोले- अखिल गोगोई को श्रेय नहीं लेने दूंगा; मदद में क्यों हो रही देरी?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जीएसटी व्यवस्था में बड़ा बदलाव होने जा रहा, गिरफ्तारी के बदलेंगे ये नियम",
+      "url": "https://www.amarujala.com/video/business/business-diary/major-changes-are-coming-to-the-gst-regime-rules-regarding-arrests-will-be-revised-2026-10-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-04T21:59:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/gst-rules-change_afff12fcf19349dcfe6b464af31b6eea.jpeg?w=1200&dpr=1.0",
+      "summary": "जीएसटी नियमों में बदलाव की संभावना है। नए नियमों में गिरफ्तारी से जुड़े प्रावधानों में संशोधन किया जा सकता है। यह बदलाव करदाताओं के लिए राहत देने का उद्देश्य रखता है। जीएसटी व्यवस्था में बड़ा बदलाव होने जा रहा, गिरफ्तारी के बदलेंगे ये नियम।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जीएसटी व्यवस्था में बड़ा बदलाव होने जा रहा, गिरफ्तारी के बदलेंगे ये नियम",
+          "summary": "जीएसटी नियमों में बदलाव की संभावना है। नए नियमों में गिरफ्तारी से जुड़े प्रावधानों में संशोधन किया जा सकता है। यह बदलाव करदाताओं के लिए राहत देने का उद्देश्य रखता है। जीएसटी व्यवस्था में बड़ा बदलाव होने जा रहा, गिरफ्तारी के बदलेंगे ये नियम।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शरद पूर्णिमा की रात क्यों जागते हैं भक्त? कोजागर पूजा से जुड़ी लक्ष्मी कृपा की मान्यता जानें",
+      "url": "https://www.amarujala.com/spirituality/religion/kojagara-puja-on-sharad-purnima-why-do-devotees-keep-vigil-at-night-know-the-religious-belief-2026-10-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-04T21:20:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/sharad-purnima_8aaa24c28ed0bc1cfb386b6714310ad6.jpeg?w=1200&dpr=1.0",
+      "summary": "शरद पूर्णिमा की रात कोजागर पूजा का पर्व मनाया जाता है। मान्यता है कि इस रात जागरण करने से मां लक्ष्मी की कृपा प्राप्त होती है। भक्त इस दिन देवी की आराधना करते हैं। शरद पूर्णिमा की रात को धार्मिक दृष्टि से बेहद खास माना जाता है। मान्यता है कि इस रात कोजागर पूजा करने और जागरण करने से मां लक्ष्मी की कृपा प्राप्त होती है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शरद पूर्णिमा की रात क्यों जागते हैं भक्त? कोजागर पूजा से जुड़ी लक्ष्मी कृपा की मान्यता जानें",
+          "summary": "शरद पूर्णिमा की रात कोजागर पूजा का पर्व मनाया जाता है। मान्यता है कि इस रात जागरण करने से मां लक्ष्मी की कृपा प्राप्त होती है। भक्त इस दिन देवी की आराधना करते हैं। शरद पूर्णिमा की रात को धार्मिक दृष्टि से बेहद खास माना जाता है। मान्यता है कि इस रात कोजागर पूजा करने और जागरण करने से मां लक्ष्मी की कृपा प्राप्त होती है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शारदीय नवरात्रि और महिषासुर वध का क्या है संबंध? जानें मां दुर्गा की विजय की पूरी पौराणिक कथा",
+      "url": "https://www.amarujala.com/spirituality/religion/sharadiya-navratri-and-mahishasura-vadh-know-the-mythological-story-of-maa-durga-s-victory-2026-10-03",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-04T21:19:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/mahashhasara-vathha_9c36ef5cdcfcceb675a0f74ea624a26e.jpeg?w=1200&dpr=1.0",
+      "summary": "शारदीय नवरात्रि में मां दुर्गा के नौ स्वरूपों की पूजा होती है। पौराणिक कथा के अनुसार इसी अवधि में देवी ने महिषासुर का वध किया। इससे धर्म की अधर्म पर विजय हुई। शारदीय नवरात्रि में मां दुर्गा के नौ स्वरूपों की पूजा की जाती है। मान्यता है कि इसी दौरान देवी ने महिषासुर का वध कर अधर्म पर धर्म की विजय स्थापित की थी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शारदीय नवरात्रि और महिषासुर वध का क्या है संबंध? जानें मां दुर्गा की विजय की पूरी पौराणिक कथा",
+          "summary": "शारदीय नवरात्रि में मां दुर्गा के नौ स्वरूपों की पूजा होती है। पौराणिक कथा के अनुसार इसी अवधि में देवी ने महिषासुर का वध किया। इससे धर्म की अधर्म पर विजय हुई। शारदीय नवरात्रि में मां दुर्गा के नौ स्वरूपों की पूजा की जाती है। मान्यता है कि इसी दौरान देवी ने महिषासुर का वध कर अधर्म पर धर्म की विजय स्थापित की थी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "यूएई ने इस्राइल को दी थी फ्लाईदुबई की पूरी जानकारी: सह-पायलट का नाम भी था, फिर खतरा क्यों नहीं दिखा?",
+      "url": "https://www.amarujala.com/world/uae-had-shared-details-about-flydubai-flight-with-israel-including-pilots-names-and-nationalities-2026-10-05",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-04T21:14:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/flydubai-mid-air-scare_65d87e9b685efd77dfc13804bbb16fb7.jpeg?w=1200&dpr=1.0",
+      "summary": "यूएई ने इस्राइल को फ्लाईदुबई के सह-पायलट की पहचान समेत पूरी जानकारी दी थी। फिर भी इस्राइल ने खतरा नहीं पहचाना। यह घटना विमानन सुरक्षा प्रोटोकॉल पर सवाल खड़े करती है। यूएई ने इस्राइल को दी थी फ्लाईदुबई की पूरी जानकारी: सह-पायलट का नाम भी था, फिर खतरा क्यों नहीं दिखा?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूएई ने इस्राइल को दी थी फ्लाईदुबई की पूरी जानकारी: सह-पायलट का नाम भी था, फिर खतरा क्यों नहीं दिखा?",
+          "summary": "यूएई ने इस्राइल को फ्लाईदुबई के सह-पायलट की पहचान समेत पूरी जानकारी दी थी। फिर भी इस्राइल ने खतरा नहीं पहचाना। यह घटना विमानन सुरक्षा प्रोटोकॉल पर सवाल खड़े करती है। यूएई ने इस्राइल को दी थी फ्लाईदुबई की पूरी जानकारी: सह-पायलट का नाम भी था, फिर खतरा क्यों नहीं दिखा?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सरकार ने नेचुरल गैस की सीलिंग प्राइस बढ़ाई, CNG-PNG की कीमतों पर पड़ेगा असर?",
+      "url": "https://www.amarujala.com/video/business/government-raises-natural-gas-ceiling-price-will-it-impact-cng-and-png-prices-2026-10-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-04T21:04:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/natural-gas-price-hike_80f509296e748103842bb78e379126ef.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत सरकार ने नेचुरल गैस की सीलिंग प्राइस में वृद्धि की है। इस फैसले से सीएनजी और पीएनजी की उपभोक्ता कीमतों पर प्रभाव पड़ने की संभावना है। ऊर्जा खपत के पैटर्न पर इसका असर दिखेगा। सरकार ने नेचुरल गैस की सीलिंग प्राइस बढ़ाई, CNG-PNG की कीमतों पर पड़ेगा असर?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सरकार ने नेचुरल गैस की सीलिंग प्राइस बढ़ाई, CNG-PNG की कीमतों पर पड़ेगा असर?",
+          "summary": "भारत सरकार ने नेचुरल गैस की सीलिंग प्राइस में वृद्धि की है। इस फैसले से सीएनजी और पीएनजी की उपभोक्ता कीमतों पर प्रभाव पड़ने की संभावना है। ऊर्जा खपत के पैटर्न पर इसका असर दिखेगा। सरकार ने नेचुरल गैस की सीलिंग प्राइस बढ़ाई, CNG-PNG की कीमतों पर पड़ेगा असर?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "WhatsApp हैक होने पर इन टिप्स को फॉलो कर चंद मिनटों में वापस पाएं अपना अकाउंट!",
+      "url": "https://www.amarujala.com/video/technology/tip-of-the-day/if-your-whatsapp-gets-hacked-follow-these-tips-to-recover-your-account-in-just-a-few-minutes-2026-10-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-04T20:15:03+00:00",
+      "image_url": "https://images.pexels.com/photos/20716657/pexels-photo-20716657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "व्हाट्सएप अकाउंट हैक होने पर त्वरित पुनर्प्राप्ति के लिए सुरक्षा टिप्स का पालन करना ज़रूरी है। कुछ ही मिनटों में अकाउंट वापस पाने की प्रक्रिया शुरू की जा सकती है। डेटा सुरक्षा के लिए यह कदम कारगर है। WhatsApp हैक होने पर इन टिप्स को फॉलो कर चंद मिनटों में वापस पाएं अपना अकाउंट!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "WhatsApp हैक होने पर इन टिप्स को फॉलो कर चंद मिनटों में वापस पाएं अपना अकाउंट!",
+          "summary": "व्हाट्सएप अकाउंट हैक होने पर त्वरित पुनर्प्राप्ति के लिए सुरक्षा टिप्स का पालन करना ज़रूरी है। कुछ ही मिनटों में अकाउंट वापस पाने की प्रक्रिया शुरू की जा सकती है। डेटा सुरक्षा के लिए यह कदम कारगर है। WhatsApp हैक होने पर इन टिप्स को फॉलो कर चंद मिनटों में वापस पाएं अपना अकाउंट!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सिंह, कन्या और मकर वालों के करियर में बनेंगे नए रास्ते, टैरो कार्ड दे रहे खास संकेत",
+      "url": "https://www.amarujala.com/photo-gallery/astrology/tarot/weekly-tarot-horoscope-tarot-card-rashifal-05-11-october-predictions-for-aries-to-pisces-all-zodiac-signs-2026-10-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-04T19:45:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/sapatahaka-tara-rashafal_62c5a5f16d465311054938ada9007111.jpeg?w=1200&dpr=1.0",
+      "summary": "पांच से ग्यारह अक्टूबर 2026 के सप्ताह में टैरो कार्ड विशेष संकेत दे रहे हैं। सिंह, कन्या और मकर राशि वालों के करियर में नए रास्ते खुलने की संभावना है। ग्रहों की ऊर्जा का प्रभाव स्पष्ट दिखेगा। 5 से 11 अक्तूबर 2026 का सप्ताह सभी 12 राशियों के लिए टैरो कार्ड के लिहाज से खास संकेत लेकर आ सकता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिंह, कन्या और मकर वालों के करियर में बनेंगे नए रास्ते, टैरो कार्ड दे रहे खास संकेत",
+          "summary": "पांच से ग्यारह अक्टूबर 2026 के सप्ताह में टैरो कार्ड विशेष संकेत दे रहे हैं। सिंह, कन्या और मकर राशि वालों के करियर में नए रास्ते खुलने की संभावना है। ग्रहों की ऊर्जा का प्रभाव स्पष्ट दिखेगा। 5 से 11 अक्तूबर 2026 का सप्ताह सभी 12 राशियों के लिए टैरो कार्ड के लिहाज से खास संकेत लेकर आ सकता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रूस के ड्रोन हमलों के बीच कीव पहुंचे जर्मन चांसलर मर्ज: एक अरब यूरो की मदद का एलान; पुतिन को क्या",
+      "url": "https://www.amarujala.com/world/merz-unveils-fresh-military-aid-in-kyiv-says-germany-won-t-be-intimidated-2026-10-05",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-04T19:31:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/faradaraka-maraja-valthamara-jalsaka_7a249e62a5c44417518beb4e19cd16af.jpeg?w=1200&dpr=1.0",
+      "summary": "जर्मन चांसलर मर्ज ने रूसी ड्रोन हमलों के बीच कीव का दौरा किया। उन्होंने एक अरब यूरो की आर्थिक सहायता का ऐलान किया। यह कदम युद्ध प्रभावित क्षेत्रों में स्थिरता बढ़ाने के लिए उठा गया है। रूस के ड्रोन हमलों के बीच कीव पहुंचे जर्मन चांसलर मर्ज: एक अरब यूरो की मदद का एलान; पुतिन को क्या संदेश दिया?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस के ड्रोन हमलों के बीच कीव पहुंचे जर्मन चांसलर मर्ज: एक अरब यूरो की मदद का एलान; पुतिन को क्या",
+          "summary": "जर्मन चांसलर मर्ज ने रूसी ड्रोन हमलों के बीच कीव का दौरा किया। उन्होंने एक अरब यूरो की आर्थिक सहायता का ऐलान किया। यह कदम युद्ध प्रभावित क्षेत्रों में स्थिरता बढ़ाने के लिए उठा गया है। रूस के ड्रोन हमलों के बीच कीव पहुंचे जर्मन चांसलर मर्ज: एक अरब यूरो की मदद का एलान; पुतिन को क्या संदेश दिया?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "तेल अवीव की इमारत से प्लेन टकराना चाहता था हम्माम, प्लेन हाईजैक की नई खौफनाक कहानी आई सामने",
+      "url": "https://hindi.news18.com/world/middle-east-omani-co-pilot-hammam-wanted-to-crash-flydubai-plane-into-tel-aviv-building-may-have-shut-off-plane-engines-10885892.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T18:24:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Dubai-tel-Aviv-Flight-2026-10-dc5b779d29d675c621ab170d8f081d7c-1200x800.jpg",
+      "summary": "ओमानी को-पायलट हम्माम अल-हम्मामी ने विमान को तेल अवीव की इमारत से टकराने की कोशिश की। उसने इंजन बंद कर दिया, जिससे विमान तेजी से नीचे आया। भारतीय कैप्टन स्मित मच्छर पर भी हमला किया गया था। दुबई से इजरायल की राजधानी तेल अवीव जा रहे प्लेन की हाईजैकिंग और भारतीय कैप्टन स्मित मच्छर पर हुए हमले की कहानी अब और खौफनाक होती जा रही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेल अवीव की इमारत से प्लेन टकराना चाहता था हम्माम, प्लेन हाईजैक की नई खौफनाक कहानी आई सामने",
+          "summary": "ओमानी को-पायलट हम्माम अल-हम्मामी ने विमान को तेल अवीव की इमारत से टकराने की कोशिश की। उसने इंजन बंद कर दिया, जिससे विमान तेजी से नीचे आया। भारतीय कैप्टन स्मित मच्छर पर भी हमला किया गया था। दुबई से इजरायल की राजधानी तेल अवीव जा रहे प्लेन की हाईजैकिंग और भारतीय कैप्टन स्मित मच्छर पर हुए हमले की कहानी अब और खौफनाक होती जा रही है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "जंग के मैदान से सीधे थाईलैंड के बीच पर... 4800 US सोल्‍जर संग फुकेट पहुंचा खूंखार एयरक्राफ्ट",
@@ -574,186 +754,6 @@
           "title": "बंगाल में UCC को लेकर CM शुभेंदु का बड़ा ऐलान, कहा - 'अगले 6 महीने में...'",
           "summary": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने UCC लागू करने का ऐलान किया। उन्होंने कहा कि अगले छह महीने में लव जिहाद और लैंड जिहाद के खिलाफ कानून लाए जाएंगे। यह बयान कोलकाता में VHP कार्यक्रम में दिया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने राज्य में समान नागरिक संहिता (UCC) को लागू करने को लेकर बड़ा बयान दिया है.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राहुल गांधी के 'डिजिटल सत्याग्रह' पर बोले चिराग पासवान- 'मैंने हमेशा...'",
-      "url": "https://www.abplive.com/news/india/union-minister-chirag-paswan-on-rahul-gandhi-digital-satyagrah-platform-3197544",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-04T11:10:17+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/bb014b1d907cac5f1c7e2f8a55e94deb17911109329771324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "छत्तीसगढ़ में चिराग पासवान ने राहुल गांधी के डिजिटल सत्याग्रह पर टिप्पणी की। उन्होंने कहा कि जनता का नकारात्मक रुख समझने के लिए आत्ममंथन जरूरी है। पासवान ने युवाओं को अपनी बात रखने के लिए इस मंच का उपयोग करने की सलाह दी। छत्तीसगढ़ पहुंचे केंद्रीय मंत्री चिराग पासवान ने लोकसभा नेता प्रतिपक्ष और कांग्रेस नेता राहुल गांधी के डिजिटल सत्याग्रह प्लेटफॉर्म को लेकर अपना बयान दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राहुल गांधी के 'डिजिटल सत्याग्रह' पर बोले चिराग पासवान- 'मैंने हमेशा...'",
-          "summary": "छत्तीसगढ़ में चिराग पासवान ने राहुल गांधी के डिजिटल सत्याग्रह पर टिप्पणी की। उन्होंने कहा कि जनता का नकारात्मक रुख समझने के लिए आत्ममंथन जरूरी है। पासवान ने युवाओं को अपनी बात रखने के लिए इस मंच का उपयोग करने की सलाह दी। छत्तीसगढ़ पहुंचे केंद्रीय मंत्री चिराग पासवान ने लोकसभा नेता प्रतिपक्ष और कांग्रेस नेता राहुल गांधी के डिजिटल सत्याग्रह प्लेटफॉर्म को लेकर अपना बयान दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "हिंद-प्रशांत में समंदर से अंतरिक्ष तक पहरा; जयशंकर और US पैसिफिक कमांडर की रणनीति से ड्रैगन में",
-      "url": "https://hindi.news18.com/news/defence/space-to-sea-vigilance-in-indo-pacific-strategy-of-jaishankar-and-us-pacific-commander-worry-for-china-10885173.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T11:09:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Dr-S-Jaishankar-2026-10-b03c8450c8a329e0db6781587d682883-1200x800.jpg",
-      "summary": "नई दिल्ली में एस. जयशंकर ने अमेरिकी एडमिरल सैमुअल पापारो से मुलाकात की। चर्चा हिंद-प्रशांत क्षेत्र में नौसैनिक तालमेल और रणनीतिक संतुलन पर केंद्रित रही। दोनों पक्षों ने उभरती सैन्य तकनीक और डिजिटल रणनीतियों पर बातचीत की। जयशंकर ने नई दिल्ली में यूनाइटेड स्टेट्स पैसिफिक कमांड के प्रमुख एडमिरल सैमुअल जे. पापारो के साथ एक उच्चस्तरीय बैठक की. छह दिवसीय भारत दौरे पर पहुंचे एडमिरल पापारो और अमेरिकी राजदूत सर्जियो गोर के साथ हुई इस चर्चा का मुख्य केंद्र हिंद महासागर में नौसैनिक तालमेल, उभरती सैन्य तकनीक, डिजिटल ट्रांसफॉर्मेशन और रणनीतिक संतुलन साधने पर केंद्रित रहा.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हिंद-प्रशांत में समंदर से अंतरिक्ष तक पहरा; जयशंकर और US पैसिफिक कमांडर की रणनीति से ड्रैगन में",
-          "summary": "नई दिल्ली में एस. जयशंकर ने अमेरिकी एडमिरल सैमुअल पापारो से मुलाकात की। चर्चा हिंद-प्रशांत क्षेत्र में नौसैनिक तालमेल और रणनीतिक संतुलन पर केंद्रित रही। दोनों पक्षों ने उभरती सैन्य तकनीक और डिजिटल रणनीतियों पर बातचीत की। जयशंकर ने नई दिल्ली में यूनाइटेड स्टेट्स पैसिफिक कमांड के प्रमुख एडमिरल सैमुअल जे. पापारो के साथ एक उच्चस्तरीय बैठक की. छह दिवसीय भारत दौरे पर पहुंचे एडमिरल पापारो और अमेरिकी राजदूत सर्जियो गोर के साथ हुई इस चर्चा का मुख्य केंद्र हिंद महासागर में नौसैनिक तालमेल, उभरती सैन्य तकनीक, डिजिटल ट्रांसफॉर्मेशन और रणनीतिक संतुलन साधने पर केंद्रित रहा.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी मरीन ने जापान में की ऐसी हरकत, PM साने ताकाइची भी भड़कीं, ट्रंप का सैनिक गिरफ्तार",
-      "url": "https://hindi.news18.com/world/south-asia-us-marine-arrested-in-japan-murder-case-okinawa-sanae-takaichi-protest-10885147.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T10:49:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/japan-news-3-2026-10-29c86b1a156a380226a7cf5703aac5fb-1200x800.jpg",
-      "summary": "ओकिनावा में अमेरिकी मरीन डेविन बैलार्ड को 39 वर्षीय अन्ना यागी की हत्या के आरोप में गिरफ्तार किया गया। शव नाहा शहर के होटल में मिला। जापान की प्रधानमंत्री साने ताकाइची ने इस घटना पर अमेरिका से कड़ा विरोध जताया। जापान के ओकिनावा में 20 साल के अमेरिकी मरीन डेविन जैकब बैलार्ड को गिरफ्तार किया गया है. उसे 39 साल की अन्ना यागी की हत्या और लूट के संदेह में गिरफ्तार किया गया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी मरीन ने जापान में की ऐसी हरकत, PM साने ताकाइची भी भड़कीं, ट्रंप का सैनिक गिरफ्तार",
-          "summary": "ओकिनावा में अमेरिकी मरीन डेविन बैलार्ड को 39 वर्षीय अन्ना यागी की हत्या के आरोप में गिरफ्तार किया गया। शव नाहा शहर के होटल में मिला। जापान की प्रधानमंत्री साने ताकाइची ने इस घटना पर अमेरिका से कड़ा विरोध जताया। जापान के ओकिनावा में 20 साल के अमेरिकी मरीन डेविन जैकब बैलार्ड को गिरफ्तार किया गया है. उसे 39 साल की अन्ना यागी की हत्या और लूट के संदेह में गिरफ्तार किया गया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "CJP का संसद मार्ग थाने के बाहर प्रदर्शन, महिला पत्रकार से बदसलूकी का आरोप",
-      "url": "https://www.abplive.com/news/india/delhi-protest-live-updates-jantar-mantar-march-eci-gyanesh-kumar-delhi-police-cjp-saurav-das-abhijeet-dipke-3197548",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-04T10:45:58+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/1bb746e2734549ed6096c94e1889a57517911097085081368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दिल्ली के संसद मार्ग थाने के बाहर सीजेपी ने प्रदर्शन किया। प्रदर्शनकारियों ने जंतर-मंतर पर महिला पत्रकार के साथ बदसलूकी का विरोध किया। उन्होंने आरोपी पुलिस अधिकारी के खिलाफ तत्काल कार्रवाई की मांग रखी। सौरव दास की अगुवाई में दिल्ली के संसद मार्ग थाने के बाहर सीजेपी ने रविवार (4 अक्टूबर) को विरोध प्रदर्शन किया. थाने के बाहर प्रदर्शनकारियों की भीड़ जुटी और दिल्ली पुलिस के खिलाफ नारेबाजी की गई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "CJP का संसद मार्ग थाने के बाहर प्रदर्शन, महिला पत्रकार से बदसलूकी का आरोप",
-          "summary": "दिल्ली के संसद मार्ग थाने के बाहर सीजेपी ने प्रदर्शन किया। प्रदर्शनकारियों ने जंतर-मंतर पर महिला पत्रकार के साथ बदसलूकी का विरोध किया। उन्होंने आरोपी पुलिस अधिकारी के खिलाफ तत्काल कार्रवाई की मांग रखी। सौरव दास की अगुवाई में दिल्ली के संसद मार्ग थाने के बाहर सीजेपी ने रविवार (4 अक्टूबर) को विरोध प्रदर्शन किया. थाने के बाहर प्रदर्शनकारियों की भीड़ जुटी और दिल्ली पुलिस के खिलाफ नारेबाजी की गई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन में भारतीय कंपनी के फार्मा प्लांट पर रूसी ड्रोन हमला, एक की मौत, 400 करोड़ रुपये का नुकसान",
-      "url": "https://hindi.news18.com/world/europe-russian-drone-attack-hit-indian-pharma-plant-in-ukraine-sumy-10884862.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T10:26:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/ukraine-attack-2026-10-fbe780f5dd3a5e152ea35d9c222d511f-1200x800.jpg",
-      "summary": "यूक्रेन के सुमी में कुसुम ग्रुप के फार्मा प्लांट पर रूसी ड्रोन ने हमला किया। एक व्यक्ति की मौत हुई और कई घायल हुए। मुख्य इमारत तबाह हो गई। नुकसान का अनुमान 400 करोड़ रुपये है। यूक्रेन के सुमी शहर में भारतीय जड़ों वाली कुसुम ग्रुप की फार्मा फैक्ट्री पर रूसी ड्रोन हमला हुआ है. हमले में एक व्यक्ति की मौत हुई और कई लोग घायल हुए हैं.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन में भारतीय कंपनी के फार्मा प्लांट पर रूसी ड्रोन हमला, एक की मौत, 400 करोड़ रुपये का नुकसान",
-          "summary": "यूक्रेन के सुमी में कुसुम ग्रुप के फार्मा प्लांट पर रूसी ड्रोन ने हमला किया। एक व्यक्ति की मौत हुई और कई घायल हुए। मुख्य इमारत तबाह हो गई। नुकसान का अनुमान 400 करोड़ रुपये है। यूक्रेन के सुमी शहर में भारतीय जड़ों वाली कुसुम ग्रुप की फार्मा फैक्ट्री पर रूसी ड्रोन हमला हुआ है. हमले में एक व्यक्ति की मौत हुई और कई लोग घायल हुए हैं.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "फिर संसद मार्ग थाने पहुंचे सौरव दास, बैरिकेड पर चढ़े, कर दी बड़ी मांग",
-      "url": "https://www.abplive.com/news/india/cjp-protest-outside-police-station-parliament-street-saurav-das-updated-situation-3197531",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-04T10:05:42+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/b44405f66a7be70756271ae732a8294617911082462361324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "संसद मार्ग थाने पर सौरव दास ने बैरिकेड पर चढ़कर प्रदर्शन किया। उन्होंने महिला पत्रकार के साथ हुई घटना पर पुलिस अधिकारी विवेक भगत के खिलाफ कार्रवाई की मांग की। प्रदर्शन में रत्ना सिंह और वृंदा करात भी शामिल थे। शनिवार को दिल्ली में हुए मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ प्रोटेस्ट में कवरेज के दौरान एक महिला पत्रकार ने ACP विवेक भगत पर सेक्सुअल हैरसमेंट और धक्का मुक्की का आरोप लगाया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फिर संसद मार्ग थाने पहुंचे सौरव दास, बैरिकेड पर चढ़े, कर दी बड़ी मांग",
-          "summary": "संसद मार्ग थाने पर सौरव दास ने बैरिकेड पर चढ़कर प्रदर्शन किया। उन्होंने महिला पत्रकार के साथ हुई घटना पर पुलिस अधिकारी विवेक भगत के खिलाफ कार्रवाई की मांग की। प्रदर्शन में रत्ना सिंह और वृंदा करात भी शामिल थे। शनिवार को दिल्ली में हुए मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ प्रोटेस्ट में कवरेज के दौरान एक महिला पत्रकार ने ACP विवेक भगत पर सेक्सुअल हैरसमेंट और धक्का मुक्की का आरोप लगाया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "CEC ज्ञानेश कुमार के खिलाफ कांग्रेस सरकार ने दिए जांच के आदेश, सुसाइड का केस",
-      "url": "https://www.abplive.com/news/india/keralam-congress-government-ordered-vigilence-probe-against-cec-gyanesh-kumar-in-2006-suicide-case-3197527",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-04T09:56:15+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/9d29285c3ef50d019677defa0b2a44b217911080560981126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केरल की कांग्रेस सरकार ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ 2006 के एक सुसाइड केस में जांच के आदेश दिए। मामला KSTP सड़क परियोजना में भ्रष्टाचार और एक मलेशियाई इंजीनियर की मौत से जुड़ा है। SIR और चुनावों में धांधली के आरोपों के बीच केरलम की कांग्रेस सरकार ने मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार के खिलाफ 20 साल पुराने एक सुसाइड केस में जांच के आदेश दिए हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "CEC ज्ञानेश कुमार के खिलाफ कांग्रेस सरकार ने दिए जांच के आदेश, सुसाइड का केस",
-          "summary": "केरल की कांग्रेस सरकार ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ 2006 के एक सुसाइड केस में जांच के आदेश दिए। मामला KSTP सड़क परियोजना में भ्रष्टाचार और एक मलेशियाई इंजीनियर की मौत से जुड़ा है। SIR और चुनावों में धांधली के आरोपों के बीच केरलम की कांग्रेस सरकार ने मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार के खिलाफ 20 साल पुराने एक सुसाइड केस में जांच के आदेश दिए हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रूस दे रहा अफगानिस्तान को ट्रेनिंग? भारत-चीन की सेना से तालिबान की मुलाकात, पाकिस्तान का बढ़ा",
-      "url": "https://hindi.news18.com/world/south-asia-taliban-joins-russian-center-2026-war-games-meets-indian-and-chinese-officials-concerns-pakistan-exclusive-10884743.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T09:55:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-49-2026-10-5d8ba7dc08574cadbb7bbf5627b20fc5-1200x800.jpg",
-      "summary": "रूस के सेंटर-2026 अभ्यास में तालिबान के प्रतिनिधिमंडल ने हिस्सा लिया। उन्होंने भारतीय और चीनी अधिकारियों से मुलाकात की। रूसी हथियारों की जानकारी भी ली गई। पाकिस्तान को इस सहयोग से चिंता है। Russia Ukraine War: रूस के 'सेंटर-2026' सैन्य अभ्यास में तालिबान का उच्चस्तरीय रक्षा प्रतिनिधिमंडल शामिल हुआ है. इस दौरान उसने भारत, चीन समेत कई देशों के सैन्य अधिकारियों से मुलाकात की और रूसी ड्रोन, मिसाइल व आधुनिक हथियारों की जानकारी ली.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस दे रहा अफगानिस्तान को ट्रेनिंग? भारत-चीन की सेना से तालिबान की मुलाकात, पाकिस्तान का बढ़ा",
-          "summary": "रूस के सेंटर-2026 अभ्यास में तालिबान के प्रतिनिधिमंडल ने हिस्सा लिया। उन्होंने भारतीय और चीनी अधिकारियों से मुलाकात की। रूसी हथियारों की जानकारी भी ली गई। पाकिस्तान को इस सहयोग से चिंता है। Russia Ukraine War: रूस के 'सेंटर-2026' सैन्य अभ्यास में तालिबान का उच्चस्तरीय रक्षा प्रतिनिधिमंडल शामिल हुआ है. इस दौरान उसने भारत, चीन समेत कई देशों के सैन्य अधिकारियों से मुलाकात की और रूसी ड्रोन, मिसाइल व आधुनिक हथियारों की जानकारी ली.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान युद्ध से सीधे थाईलैंड पहुंचा अमेरिका का एयरक्राफ्ट कैरियर, क्या है वजह?",
-      "url": "https://www.patrika.com/world-news/uss-george-hw-bush-phuket-thailand-iran-war-20958051",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-04T09:53:19+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/US-aircraft.webp",
-      "summary": "अमेरिकी नौसेना का एयरक्राफ्ट कैरियर USS George HW Bush ईरान विरोधी कार्रवाई के छह महीने बाद थाईलैंड पहुंचा। जहाज ने स्ट्रेट ऑफ होर्मुज में ईरानी जहाजों की आवाजाही रोकने में भी हिस्सा लिया। US Navy: अमेरिका का बड़ा एयरक्राफ्ट कैरियर यूएसएस जॉर्ज एचडब्ल्यू बुश (USS George HW Bush) करीब छह महीने तक ईरान के खिलाफ अमेरिकी सैन्य कार्रवाई में शामिल रहने के बाद अब थाईलैंड पहुंच गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान युद्ध से सीधे थाईलैंड पहुंचा अमेरिका का एयरक्राफ्ट कैरियर, क्या है वजह?",
-          "summary": "अमेरिकी नौसेना का एयरक्राफ्ट कैरियर USS George HW Bush ईरान विरोधी कार्रवाई के छह महीने बाद थाईलैंड पहुंचा। जहाज ने स्ट्रेट ऑफ होर्मुज में ईरानी जहाजों की आवाजाही रोकने में भी हिस्सा लिया। US Navy: अमेरिका का बड़ा एयरक्राफ्ट कैरियर यूएसएस जॉर्ज एचडब्ल्यू बुश (USS George HW Bush) करीब छह महीने तक ईरान के खिलाफ अमेरिकी सैन्य कार्रवाई में शामिल रहने के बाद अब थाईलैंड पहुंच गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "समुद्री सुरक्षा से नई टेक्नोलॉजी तक, भारत-US डिफेंस पार्टनरशिप को मिली नई मजबूती",
-      "url": "https://www.patrika.com/world-news/from-maritime-security-to-new-technology-india-us-defense-partnership-gains-new-strength-20958106",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-04T09:49:58+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/IND-USA-.webp",
-      "summary": "विदेश मंत्री एस. जयशंकर और अमेरिकी एडमिरल सैमुअल जे. पापारो ने नई दिल्ली में समुद्री सुरक्षा पर बातचीत की। दोनों देशों ने इंडो-पैसिफिक में नई तकनीक और सुरक्षा सहयोग को और मजबूत करने पर सहमति जताई। Indo-Pacific Relations: इंडो-पैसिफिक में बदलते सुरक्षा हालात के बीच भारत और अमेरिका की नजदीकी बढ़ रही है। दोनों देश समुद्री सुरक्षा से लेकर नई तकनीक तक सहयोग बढ़ाने पर जोर दे रहे हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "समुद्री सुरक्षा से नई टेक्नोलॉजी तक, भारत-US डिफेंस पार्टनरशिप को मिली नई मजबूती",
-          "summary": "विदेश मंत्री एस. जयशंकर और अमेरिकी एडमिरल सैमुअल जे. पापारो ने नई दिल्ली में समुद्री सुरक्षा पर बातचीत की। दोनों देशों ने इंडो-पैसिफिक में नई तकनीक और सुरक्षा सहयोग को और मजबूत करने पर सहमति जताई। Indo-Pacific Relations: इंडो-पैसिफिक में बदलते सुरक्षा हालात के बीच भारत और अमेरिका की नजदीकी बढ़ रही है। दोनों देश समुद्री सुरक्षा से लेकर नई तकनीक तक सहयोग बढ़ाने पर जोर दे रहे हैं।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
