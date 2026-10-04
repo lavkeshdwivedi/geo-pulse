@@ -1352,7 +1352,7 @@ def build_html(
     alt_locale = "hi_IN" if language == "en" else "en_US"
     hreflang_self = "en" if language == "en" else "hi"
     hreflang_alt = "hi" if language == "en" else "en"
-    og_image_url = f"{SITE_URL}/icon-512.png"
+    og_image_url = f"{SITE_URL}/og-image.png"
     structured_data = {
       "@context": "https://schema.org",
       "@graph": [
@@ -1445,10 +1445,10 @@ def build_html(
   <meta property="og:locale" content="{locale}" />
   <meta property="og:locale:alternate" content="{alt_locale}" />
   <meta property="og:image" content="{og_image_url}" />
-  <meta property="og:image:alt" content="{SITE_TITLE} logo" />
-  <meta property="og:image:width" content="512" />
-  <meta property="og:image:height" content="512" />
-  <meta name="twitter:card" content="summary" />
+  <meta property="og:image:alt" content="{SITE_TITLE}: signal-first geopolitics, hourly briefings across five regions" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="627" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{copy['page_title']}" />
   <meta name="twitter:description" content="{copy['site_desc']}" />
   <meta name="twitter:image" content="{og_image_url}" />
@@ -1786,14 +1786,14 @@ _SECTION_PAGE_SKELETON = """<!DOCTYPE html>
   <meta property="og:url" content="{canonical}" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="{site_title}" />
-  <meta property="og:image" content="{site_url}/icon-512.png" />
-  <meta property="og:image:alt" content="{site_title} logo" />
-  <meta property="og:image:width" content="512" />
-  <meta property="og:image:height" content="512" />
-  <meta name="twitter:card" content="summary" />
+  <meta property="og:image" content="{site_url}/og-image.png" />
+  <meta property="og:image:alt" content="{site_title}: signal-first geopolitics, hourly briefings across five regions" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="627" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{page_title}" />
   <meta name="twitter:description" content="{page_desc}" />
-  <meta name="twitter:image" content="{site_url}/icon-512.png" />
+  <meta name="twitter:image" content="{site_url}/og-image.png" />
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https: data:; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'self'; upgrade-insecure-requests" />
   <link rel="canonical" href="{canonical}" />
   <link rel="alternate" type="application/rss+xml" title="{site_title} RSS" href="{site_url}/feed.xml" />
