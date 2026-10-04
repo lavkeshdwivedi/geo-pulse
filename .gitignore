@@ -61,3 +61,17 @@ mobile/.dart_tool/
 mobile/.flutter-plugins
 mobile/.flutter-plugins-dependencies
 mobile/build/
+
+# Generated site output. Rebuilt by scripts/generate_site.py on every run and
+# deployed as a Pages artifact, so it never needs to be committed. Committing it
+# grew this repo to ~15 GB; see docs/keeping-the-repo-lean.md.
+site/index.html
+site/feed.xml
+site/newsletter.json
+site/.nojekyll
+site/newsletters/
+site/hi/
+site/archive/
+site/about/
+site/terms/
+site/privacy/

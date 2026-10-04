@@ -90,10 +90,8 @@ geo-pulse/
 │   ├── summarize.py                   # LLM summarization with graceful fallback
 │   ├── generate_site.py               # Static site + RSS feed generator
 │   └── update_readme.py               # Auto-sync README status block
-├── site/
-│   ├── index.html                     # GitHub Pages dashboard (auto-generated)
+├── site/                              # Generated HTML is gitignored, built each run
 │   ├── styles.css                     # Responsive CSS with dark/light mode
-│   ├── feed.xml                       # RSS feed (auto-generated)
 │   ├── manifest.webmanifest           # PWA manifest (edit on fork)
 │   └── favicon.svg, logo.svg, ...     # Brand art (edit on fork)
 ├── newsletters/                       # Auto-archived past editions (kept forever)
@@ -113,6 +111,10 @@ python scripts/update_readme.py  # refresh auto-managed README status
 ```
 
 Open `site/index.html` in your browser to preview the dashboard.
+
+## Keeping the repo lean
+
+Generated site output is never committed. The workflow rebuilds `site/` from `newsletter.json` and the markdown archive on every run and deploys it as a Pages artifact. Committing it once grew this repo to about 15 GB. If you fork the template or build something similar, read [docs/keeping-the-repo-lean.md](docs/keeping-the-repo-lean.md) first.
 
 ## Linting Hook
 

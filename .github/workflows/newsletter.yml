@@ -14,7 +14,7 @@ on:
   workflow_dispatch:   # Allow manual trigger from the Actions tab
 
 permissions:
-  contents: write       # Needed to commit newsletter.md / site/ back to the repo
+  contents: write       # Needed to commit newsletter data (json, md archive) back to the repo
   pages: write          # Needed for GitHub Pages deployment
   id-token: write       # Needed for OIDC-based Pages deployment
   issues: write         # Needed to file an issue when the run fails
@@ -37,7 +37,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
-          fetch-depth: 1   # Shallow clone — full history not needed for commit-back
+          fetch-depth: 1   # Shallow clone, full history not needed for commit-back
 
       # ── 2. Python + uv setup ─────────────────────────────────────────────
       - name: Set up Python 3.11
@@ -165,7 +165,7 @@ jobs:
           # Hindi-language articles. EN articles aren't translated to HI by
           # design (see summarize.py "Intentionally do NOT translate..." block),
           # so HI supply is bounded by what Hindi feeds return. Warn but don't
-          # fail — letting the EN page deploy is better than blocking everything.
+          # fail; letting the EN page deploy is better than blocking everything.
           if '<article class="card"' not in hi_index_html:
               print("WARNING: HI homepage has no cards (no Hindi-language articles this run)")
 
@@ -227,7 +227,7 @@ jobs:
           print(f"Validated {count} stories, EN regions {sorted(en_regions)}, HI regions {sorted(hi_regions)}, generated_at {generated_at}")
           PY
 
-      # ── 7. Commit generated files directly to main ──────────────────────
+      # ── 7. Commit newsletter data directly to main ──────────────────────
       - name: Commit generated files
         if: github.event_name == 'push' || steps.detect_updates.outputs.has_news == 'true'
         id: commit_generated
@@ -236,7 +236,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           # Stage everything the pipeline may have written. raw_news.json and
-          # *.bat / *.ps1 helpers are gitignored so they never enter this set.
+          # *.bat / *.ps1 helpers and the generated site/ HTML are gitignored, so
+          # only newsletter data enters this set (see docs/keeping-the-repo-lean.md).
           # Using -A catches newsletter.hi.md and any newly-created archive
           # files that the explicit path list used to miss (those unstaged
           # leftovers previously blocked `git pull --rebase` and broke the run).
@@ -300,7 +301,7 @@ jobs:
 
           creds_json = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS_JSON", "")
           if not creds_json:
-              print("FIREBASE_SERVICE_ACCOUNT secret not set — skipping FCM push")
+              print("FIREBASE_SERVICE_ACCOUNT secret not set, skipping FCM push")
               raise SystemExit(0)
 
           # Get an OAuth2 access token using the service account
@@ -344,7 +345,7 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const title = `GeoPulse workflow failed — ${new Date().toUTCString()}`;
+            const title = `GeoPulse workflow failed: ${new Date().toUTCString()}`;
             const body = [
               '## ⚠️ GeoPulse Workflow Failure',
               '',
