@@ -1,20 +1,56 @@
 {
-  "generated_at": "2026-10-04T09:25:57.484740+00:00",
+  "generated_at": "2026-10-04T15:13:03.517707+00:00",
   "article_count": 50,
   "total_unique_count": 264,
   "digest": {
-    "en": "Russia strikes a Kyiv bridge as Friedrich Merz arrives with drone interceptors. Brazil’s election pits Lula against Bolsonaro’s son in a test for the pro-Trump Latin American bloc. Bangkok floods turn streets into stagnant lakes while Taiwan buys time with new F-16s.",
-    "hi": "यूक्रेन में भारतीय फार्मा प्लांट पर रूसी ड्रोन हमले से एक की मौत हुई और 400 करोड़ रुपये का नुकसान हुआ। इसी बीच ईरान ने होर्मुज जलडमरूमध्य खुलवाने के लिए अमेरिका को इस्लामाबाद मेमोरेंडम स्वीकार करने की शर्त रखी है।"
+    "en": "Iran’s foreign minister rejected a military path to resolution with Washington. Simultaneously, India signaled a shift from advocacy to direct action regarding the Russia-Ukraine war. These two diplomatic pivots reshape the current geopolitical alignment.",
+    "hi": "आज होर्मुज में ईरानी नौसेना ने जहाज पर फिर हमला किया, इंजन रूम को नष्ट कर दिया और रास्ता खोलने के लिए सात शर्तें पेश कीं। इसी दौरान यमन ने हूतियों के खिलाफ बड़े सैन्य अभियान की घोषणा की, जिससे मध्य पूर्व में नई टकराव की संभावना बढ़ी।"
   },
   "articles": [
     {
-      "title": "3 students arrested over alleged murder of 16-year-old female schoolmate in Johor",
-      "url": "https://www.channelnewsasia.com/asia/johor-murder-girl-school-yong-peng-arrested-6430526",
-      "source": "Channel News Asia",
+      "title": "Iran's Foreign Minister tells U.S. there is no military solution to their conflict",
+      "url": "https://www.thehindu.com/news/international/irans-foreign-minister-tells-us-there-is-no-military-solution-to-their-conflict/article71543286.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-10-04T07:43:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--tvkgq07h--/c_crop,h_677,w_1205,x_1,y_-1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/04/9c101531-de21-4da2-a0ee-f45f44e74647.jpg?itok=t2bVVumu",
-      "summary": "Malaysian Prime Minister Anwar Ibrahim ordered a rapid investigation after three students were arrested. They are suspected of murdering 16-year-old Irene Sofiya Mohd Khairool Faisal. Her body was found covered in blood in a school hall in Yong Peng on Saturday. Malaysia Prime Minister Anwar Ibrahim has called for a swift probe into the alleged murder of Irene Sofiya Mohd Khairool Faisal, 16, who died after being found unconscious and covered in blood in a school hall in Yong Peng on Saturday.",
+      "published_at": "2026-10-04T11:52:26+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/pivcnv/article71543314.ece/alternates/LANDSCAPE_1200/International.EGKHFJQPTN.3.jpg.jpg",
+      "summary": "Iranian Foreign Minister Abbas Araghchi told U. S. officials there is no military solution to the conflict. He warned that any renewed confrontation would trigger a stronger defensive response. The statement came during a meeting with foreign ambassadors. \"If our enemies again choose the path of military confrontation, our response will be stronger than before, and we will defend ourselves with even more force,\" Mr.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "India is going ‘beyond advocacy’ on the Russia-Ukraine conflict: Jaishankar",
+      "url": "https://www.thehindu.com/news/national/india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar/article71543379.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-04T10:35:49+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/t9m48i/article71543403.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-04%20at%202.13.05%20PM.jpeg",
+      "summary": "Indian External Affairs Minister S. Jaishankar stated India is moving beyond advocacy regarding the Russia-Ukraine war. He highlighted historical support from Russia during India's security crises. This marks a shift in diplomatic posture on the ongoing conflict. Commenting on India-Russia ties, Mr. Jaishankar said, “For us, Russia and Soviet Union before that, was a country that stood by us in many ways when our security, when our territorial integrity was under threat, and at a time when you know much of the world preferred backing a military regime next to us”.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Bosnians Vote In Elections Pitting Pro-Western Against Nationalist Forces",
+      "url": "https://www.rferl.org/a/bosnians-vote-in-elections-pitting-pro-western-nationalist-forces/33870029.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-04T09:44:40+00:00",
+      "image_url": "https://gdb.rferl.org/8517E08A-4592-4ED4-854D-F05C209DFF35.jpg",
+      "summary": "Bosnian citizens voted on October 4 in elections for various political bodies. The contest pits pro-Western candidates against nationalist forces. Some candidates are pushing for faster integration into the European Union and NATO. Citizens in Bosnia-Herzegovina are casting their votes in elections to various bodies in the country’s multi-layered political system on October 4, with some candidates pushing for increased efforts at joining the European Union and NATO.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Families Torn Apart, Trade At A Standstill: One Year Of The Afghan-Pakistan Border Closure",
+      "url": "https://www.rferl.org/a/afghanistan-pakistan-border-closure-year-taliban/33868985.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-04T09:20:59+00:00",
+      "image_url": "https://gdb.rferl.org/467f7ac3-fdff-4425-356b-08de3be37656_cx9_cy5_cw90_w1200_h630.jpeg",
+      "summary": "The Afghan-Pakistan border closure has lasted one year, halting cross-border trade. Tens of thousands of workers on both sides have lost their jobs. The shutdown has also disrupted commercial activity and strained family ties across the border. The prolonged closure of the Afghanistan-Pakistan border has brought cross-border trade to a standstill, leaving tens of thousands of people on both sides without work.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -32,7 +68,7 @@
       "translations": {}
     },
     {
-      "title": "Russia Strikes Kyiv Bridge As Merz Arrives With Drone Interceptors",
+      "title": "Russia Strikes Kyiv Bridge As Merz Visits Ukrainian Capital",
       "url": "https://www.rferl.org/a/putin-zelenskyy-kyiv-russia-ukraine-war-infrastructure/33869793.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
@@ -40,30 +76,6 @@
       "image_url": "https://gdb.rferl.org/f68d8cf8-0b3a-4a0a-72ab-08df13a869ed_w1200_h630.jpg",
       "summary": "Russia warned foreign diplomats to leave Ukraine or face mortal danger as it vowed to escalate air strikes on Kyiv. President Zelenskyy stated Ukraine will respond to the intensified Kremlin campaign. The threat targets non-citizens currently in the country. Russia has vowed to intensify its relentless strikes against Kyiv and warned foreign diplomats and other visitors to leave the country or be exposed to “mortal danger,” while Ukraine's leader said his country will respond to the Kremlin's deadly air campaign.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Women declare #IamJaneDoe in solidarity with Cornell University rape victim",
-      "url": "https://www.thehindu.com/news/international/women-declare-iamjanedoe-in-solidarity-with-cornell-university-rape-victim/article71541829.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-03T19:16:30+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/fzjyt0/article71541835.ece/alternates/LANDSCAPE_1200/2026-10-02T000819Z_748056789_RC2KUNA4BXUC_RTRMADP_3_USA-CRIME-CORNELL.JPG",
-      "summary": "Women are using the hashtag IamJaneDoe to support a Cornell University rape victim. The student is distressed by online attempts to reveal her identity. New York law protects her anonymity in sexual assault lawsuits, but skeptics are actively trying to expose her name. And although ‌New York law allows “Jane Doe” anonymity for sexual assault lawsuits, the Cornell student has become distressed at attempts by some ​online skeptics of her account to discover her name and publish it.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Popular Mobilisation Forces",
-      "url": "https://www.thehindu.com/news/international/popular-mobilisation-forces-iraqs-militias-within-the-military/article71541613.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-03T16:47:36+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/k0jsas/article71541606.ece/alternates/LANDSCAPE_1200/AFP_34NP8WZ.jpg",
-      "summary": "Iran-backed Shia groups in Iraq called the September 30 withdrawal of American troops a historic victory. These organizations previously clashed with U. S. forces during the occupation. The timing coincides with ongoing military conflict between Washington and Iran. For the Iran-backed Shia armed organisations, which opposed the U. occupation of Iraq and frequently clashed with U. forces, the September 30 withdrawal of American troops, at a time when Washington wages war on Iran, is a ‘historic victory’.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -224,30 +236,6 @@
       "translations": {}
     },
     {
-      "title": "Kyrgyz Activist Gets 2 Years For Criticizing Growing Chinese Presence",
-      "url": "https://www.rferl.org/a/kyrgyz-activist-jailed-china-criticism/33868520.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-01T16:08:10+00:00",
-      "image_url": "https://gdb.rferl.org/9c253f6e-b4d9-4370-1cda-08df0d9fbd54_cx6_cy8_cw93_w1200_h630.jpg",
-      "summary": "The Lenin District Court in Bishkek found activist and politician Mavlyan Askarbekov guilty and sentenced to two years in prison on offenses related to a law on incitement of racial, ethnic, national, religious, or interregional hatred, a verdict he called \"absurd.\" Kyrgyz Activist Gets 2 Years For Criticizing Growing Chinese Presence.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Oil Exports Find A Way Past Iranian Attacks, But Refinery Bottleneck Persists",
-      "url": "https://www.rferl.org/a/iran-oil-exports-hormuz-refinery-market/33867914.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-01T15:51:38+00:00",
-      "image_url": "https://gdb.rferl.org/1a6ff26c-3b56-49ef-927b-addb9077a38d_w1200_h630.jpg",
-      "summary": "Exports of crude oil from the Middle East hit their highest level in September since the war with Iran began, reinforcing a trend of increased supplies despite Iranian attacks on shipping in the Strait of Hormuz, according to analysis of shipping and commodity market data by industry observers. Oil Exports Find A Way Past Iranian Attacks, But Refinery Bottleneck Persists.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Afghanistan’s TTP sanctuary is becoming harder to deny",
       "url": "https://asiatimes.com/2026/10/afghanistans-ttp-sanctuary-is-becoming-harder-to-deny/",
       "source": "Asia Times",
@@ -255,6 +243,18 @@
       "published_at": "2026-10-01T12:15:03+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/TTP-Pakistan-Afghanistan.jpg",
       "summary": "For years, Pakistan’s claim that the Tehreek-e-Taliban Pakistan operates from sanctuaries inside Afghanistan produced a familiar exchange: Islamabad accused, Kabul denied, and each new militant attack triggered another round of recrimination. That pattern is becoming harder to sustain. The sanctuary dispute can now be tested against a growing body of evidence rather than competing claims [] The p Afghanistan’s TTP sanctuary is becoming harder to deny.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-01T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-01.jpg/image560x340cropped.jpg",
+      "summary": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday. Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -268,18 +268,6 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/18-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image560x340cropped.jpg",
       "summary": "The enormous challenge of halting the spread of Ebola in the Democratic Republic of the Congo (DRC) just became even harder after a key transit centre for patients requiring treatment burned down in Ituri province. Ebola response faces setback as transit centre burns down in DR Congo camp.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168500",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-01T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-01.jpg/image560x340cropped.jpg",
-      "summary": "The deadly flash floods in northern Nepal have severely disrupted employment and livelihoods, with wider impacts beyond communities that were directly affected, the International Labour Organization (ILO) said in a preliminary assessment released on Thursday. Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -308,6 +296,378 @@
       "translations": {}
     },
     {
+      "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-09-30T14:16:33+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/7b920bba2f88d64872ad31a0ccd397a6ba405e89/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0546ecb3f5b07fc8ef57e4419b29e1c2",
+      "summary": "South African President Cyril Ramaphosa urged men to take responsibility for gender-based violence. He announced new measures to address the issue following a wave of murders. The president acknowledged that authorities had failed to protect women adequately. President announces measures amid anger at authorities over recent murders of womenSouth Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders. Cyril Ramaphosa acknowledged that not enough had been done to protect women.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "होर्मुज में जहाज पर फिर हमला, इंजन रूम तबाह, ईरान ने रास्ता खोलने के लिए रखीं 7 शर्तें",
+      "url": "https://hindi.news18.com/world/middle-east-strait-of-hormuz-tanker-attack-iran-seven-conditions-us-10885576.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T14:38:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/hormuz-18-2026-10-acabb030838551b1bf1fe6bc34e84be8-1200x800.jpg",
+      "summary": "रविवार को होर्मुज स्ट्रेट में टैंकर पर हमले से इंजन रूम तबाह हो गया। ब्रिटेन की समुद्री एजेंसी UKMTO ने बताया कि क्रू सुरक्षित है। ईरान ने कहा कि अमेरिका के साथ जून के अंतरिम समझौते की सात शर्तें पूरी होने तक स्ट्रेट खुलेगा नहीं। होर्मुज स्ट्रेट में रविवार को एक टैंकर पर हमला हुआ है, जिससे उसके इंजन रूम को नुकसान पहुंचा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज में जहाज पर फिर हमला, इंजन रूम तबाह, ईरान ने रास्ता खोलने के लिए रखीं 7 शर्तें",
+          "summary": "रविवार को होर्मुज स्ट्रेट में टैंकर पर हमले से इंजन रूम तबाह हो गया। ब्रिटेन की समुद्री एजेंसी UKMTO ने बताया कि क्रू सुरक्षित है। ईरान ने कहा कि अमेरिका के साथ जून के अंतरिम समझौते की सात शर्तें पूरी होने तक स्ट्रेट खुलेगा नहीं। होर्मुज स्ट्रेट में रविवार को एक टैंकर पर हमला हुआ है, जिससे उसके इंजन रूम को नुकसान पहुंचा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मिडिल ईस्ट में एक और जंग की आहट? यमन ने हूतियों के खिलाफ शुरू किया बड़ा सैन्य अभियान",
+      "url": "https://www.patrika.com/world-news/middle-east-conflict-yemen-houthi-war-military-operation-impact-20958690",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-04T14:31:57+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Rashad-Al-Alimi.webp",
+      "summary": "यमन सरकार ने हूती विद्रोहियों के खिलाफ बड़े पैमाने पर सीधी सैन्य कार्रवाई का ऐलान कर दिया है। प्रेसिडेंशियल लीडरशिप काउंसिल के प्रमुख राशद अल-अलीमी ने यह घोषणा की। इससे क्षेत्र में नए युद्ध की संभावनाएं बढ़ गई हैं। Middle East Conflict: दुनिया में एक और नया युद्ध शुरू होने के आसार नजर आ रहे हैं। रूस युक्रेन युद्ध, इजरायल गजा युद्ध और ईरान अमेरिका युद्ध (US-Iran War) के बाद अब हूती विद्रोहियों और यमन की सरकार के बीच नया युद्ध शुरू हो सकता है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिडिल ईस्ट में एक और जंग की आहट? यमन ने हूतियों के खिलाफ शुरू किया बड़ा सैन्य अभियान",
+          "summary": "यमन सरकार ने हूती विद्रोहियों के खिलाफ बड़े पैमाने पर सीधी सैन्य कार्रवाई का ऐलान कर दिया है। प्रेसिडेंशियल लीडरशिप काउंसिल के प्रमुख राशद अल-अलीमी ने यह घोषणा की। इससे क्षेत्र में नए युद्ध की संभावनाएं बढ़ गई हैं। Middle East Conflict: दुनिया में एक और नया युद्ध शुरू होने के आसार नजर आ रहे हैं। रूस युक्रेन युद्ध, इजरायल गजा युद्ध और ईरान अमेरिका युद्ध (US-Iran War) के बाद अब हूती विद्रोहियों और यमन की सरकार के बीच नया युद्ध शुरू हो सकता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'आप कैप्टन स्मित के देश से हैं', इजरायल में भारतीयों का बढ़ा रुतबा, क्या कह रहे इजरायली?",
+      "url": "https://hindi.news18.com/world/middle-east-indian-tourists-in-israel-locals-reactions-says-people-from-captain-smit-machchhar-country-exclusive-10885370.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T14:10:00+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/israel-8-2026-10-629880d7f3d8f98ce929113f0984d06a-1200x800.jpg",
+      "summary": "फ्लाईदुबई के कैप्टन स्मित मच्छर की बहादुरी के बाद इजरायल में भारतीय पर्यटकों को खास सम्मान मिल रहा है। तेल अवीव और यरुशलम में स्थानीय लोग भारतीयों से कहते हैं कि वे कैप्टन स्मित के देश से हैं। इस घटना ने भारतीयों के प्रति प्यार और अपनापन बढ़ाया है। फ्लाईदुबई की फ्लाइट में भारतीय कैप्टन स्मित मच्छर की बहादुरी के बाद इजरायल में भारतीय पर्यटकों को खास सम्मान मिल रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'आप कैप्टन स्मित के देश से हैं', इजरायल में भारतीयों का बढ़ा रुतबा, क्या कह रहे इजरायली?",
+          "summary": "फ्लाईदुबई के कैप्टन स्मित मच्छर की बहादुरी के बाद इजरायल में भारतीय पर्यटकों को खास सम्मान मिल रहा है। तेल अवीव और यरुशलम में स्थानीय लोग भारतीयों से कहते हैं कि वे कैप्टन स्मित के देश से हैं। इस घटना ने भारतीयों के प्रति प्यार और अपनापन बढ़ाया है। फ्लाईदुबई की फ्लाइट में भारतीय कैप्टन स्मित मच्छर की बहादुरी के बाद इजरायल में भारतीय पर्यटकों को खास सम्मान मिल रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप ने बनाई सुपर इंटेलिजेंस फोर्स, AI की दुनिया में मचा तहलका, सीधे राष्ट्रपति को करेगी रिपोर्ट",
+      "url": "https://hindi.news18.com/world/america-donald-trump-forms-super-intelligence-force-ai-us-global-lead-in-artificial-intelligence-10885500.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T14:03:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/super-intelligence-force-2026-10-4cce3e3aed695451101bbf1c6fb533f8-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस क्षेत्र में देश के दबदबे के लिए सुपर इंटेलिजेंस फोर्स बनाने का ऐलान किया है। यह टास्क फोर्स AI कंपनियों और सरकारी संस्थाओं के बीच संपर्क का तालमेल बैठाएगी। यह निकाय सीधे राष्ट्रपति को रिपोर्ट करेगा। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस के क्षेत्र में देश का दबदबा बनाए रखने के लिए सुपर इंटेलिजेंस फोर्स (SIF) बनाने का ऐलान किया है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप ने बनाई सुपर इंटेलिजेंस फोर्स, AI की दुनिया में मचा तहलका, सीधे राष्ट्रपति को करेगी रिपोर्ट",
+          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस क्षेत्र में देश के दबदबे के लिए सुपर इंटेलिजेंस फोर्स बनाने का ऐलान किया है। यह टास्क फोर्स AI कंपनियों और सरकारी संस्थाओं के बीच संपर्क का तालमेल बैठाएगी। यह निकाय सीधे राष्ट्रपति को रिपोर्ट करेगा। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस के क्षेत्र में देश का दबदबा बनाए रखने के लिए सुपर इंटेलिजेंस फोर्स (SIF) बनाने का ऐलान किया है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेन-रूस जंग खत्म कराने में एक्टिव हुआ भारत, पुतिन और जेलेंस्की को दी सीधी बातचीत की नसीहत",
+      "url": "https://hindi.news18.com/news/nation/india-active-to-end-russia-ukraine-war-advises-vladimir-putin-and-volodymyr-zelenskyy-to-hold-direct-talks-10885469.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T13:47:45+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/S-Jaishankar-2026-10-e54a302f279acc8f5e592aaff611a74e-1200x800.jpg",
+      "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि भारत रूस और यूक्रेन के बीच युद्ध समाप्त करने के लिए सक्रिय मध्यस्थ की भूमिका निभा रहा है। भारत दोनों देशों के साथ लगातार संपर्क में है और ठोस रास्तों पर बातचीत कर रहा है। जयशंकर ने सीधी बातचीत की नसीहत दी। Russia Ukraine War: रूस और यूक्रेन के बीच जारी खूनी संघर्ष को थामने के लिए भारत अब सिर्फ मूक दर्शक या शांति की अपील करने वाला देश नहीं रहा, बल्कि समाधान की मेज पर बेहद सक्रिय मध्यस्थ की भूमिका निभा रहा है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन-रूस जंग खत्म कराने में एक्टिव हुआ भारत, पुतिन और जेलेंस्की को दी सीधी बातचीत की नसीहत",
+          "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि भारत रूस और यूक्रेन के बीच युद्ध समाप्त करने के लिए सक्रिय मध्यस्थ की भूमिका निभा रहा है। भारत दोनों देशों के साथ लगातार संपर्क में है और ठोस रास्तों पर बातचीत कर रहा है। जयशंकर ने सीधी बातचीत की नसीहत दी। Russia Ukraine War: रूस और यूक्रेन के बीच जारी खूनी संघर्ष को थामने के लिए भारत अब सिर्फ मूक दर्शक या शांति की अपील करने वाला देश नहीं रहा, बल्कि समाधान की मेज पर बेहद सक्रिय मध्यस्थ की भूमिका निभा रहा है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "'मैं ज्ञानेश कुमार के खिलाफ कानूनी कार्रवाई के विरोध में हूं', अभिषेक मनु सिंघवी का बड़ा बयान",
+      "url": "https://www.abplive.com/news/india/abhishek-manu-singhvi-says-i-am-against-legal-action-on-cec-gyanesh-kumar-3197569",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T12:00:59+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/8a3e545719d6e43952706d090d5f453c17911148650621324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कांग्रेस सांसद अभिषेक मनु सिंघवी ने ज्ञानेश कुमार के खिलाफ कानूनी कार्रवाई का विरोध किया। उन्होंने यूट्यूब चैनल पर कहा कि छोटी बातों में कोर्ट जाने की आदत बदलनी चाहिए। देश के मशहूर वकील और कांग्रेस सांसद अभिषेक मनु सिंघवी ने कहा है कि वो ज्ञानेश कुमार पर कानूनी कार्रवाई के खिलाफ हैं. सिंघवी ने एक यूट्यूब चैनल पर इस संबंध में चर्चा करते हुए कहा कि मैं उन लोगों में से मानने वालों में से हूं, न तो वो (ज्ञानेश कुमार) आम कानूनी कार्रवाई से हट सकते हैं, बल्कि मैं तो कानूनी कार्रवाई का विरोध करता हूं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मैं ज्ञानेश कुमार के खिलाफ कानूनी कार्रवाई के विरोध में हूं', अभिषेक मनु सिंघवी का बड़ा बयान",
+          "summary": "कांग्रेस सांसद अभिषेक मनु सिंघवी ने ज्ञानेश कुमार के खिलाफ कानूनी कार्रवाई का विरोध किया। उन्होंने यूट्यूब चैनल पर कहा कि छोटी बातों में कोर्ट जाने की आदत बदलनी चाहिए। देश के मशहूर वकील और कांग्रेस सांसद अभिषेक मनु सिंघवी ने कहा है कि वो ज्ञानेश कुमार पर कानूनी कार्रवाई के खिलाफ हैं. सिंघवी ने एक यूट्यूब चैनल पर इस संबंध में चर्चा करते हुए कहा कि मैं उन लोगों में से मानने वालों में से हूं, न तो वो (ज्ञानेश कुमार) आम कानूनी कार्रवाई से हट सकते हैं, बल्कि मैं तो कानूनी कार्रवाई का विरोध करता हूं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "किम जोंग ने लॉन्च की AI वाली मिसाइल, हवा में रास्ता बदलेगी, पकड़ना होगा मुश्किल, अमेरिका-जापान हिले",
+      "url": "https://hindi.news18.com/world/middle-east-north-korea-ai-powered-missile-test-kim-jong-un-hypersonic-10885293.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T11:49:32+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/north-korea-9-2026-10-e2f678f5510f174a49e72918e33f18ab-1200x800.jpg",
+      "summary": "उत्तर कोरिया ने AI से लैस मध्यम दूरी की मिसाइल का परीक्षण किया। किम जोंग-उन ने पत्नी और बेटी के साथ लॉन्च देखा। मिसाइल ने 1,000 किलोमीटर दूर लक्ष्य को मारा। North Korea Missile Power: उत्तर कोरिया ने AI तकनीक से लैस मध्यम दूरी की रणनीतिक मिसाइल का टेस्ट किया है. सरकारी मीडिया के मुताबिक, किम जोंग-उन ने अपनी पत्नी री सोल-जू और बेटी जू-ए के साथ इसका लॉन्च को देखा.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "किम जोंग ने लॉन्च की AI वाली मिसाइल, हवा में रास्ता बदलेगी, पकड़ना होगा मुश्किल, अमेरिका-जापान हिले",
+          "summary": "उत्तर कोरिया ने AI से लैस मध्यम दूरी की मिसाइल का परीक्षण किया। किम जोंग-उन ने पत्नी और बेटी के साथ लॉन्च देखा। मिसाइल ने 1,000 किलोमीटर दूर लक्ष्य को मारा। North Korea Missile Power: उत्तर कोरिया ने AI तकनीक से लैस मध्यम दूरी की रणनीतिक मिसाइल का टेस्ट किया है. सरकारी मीडिया के मुताबिक, किम जोंग-उन ने अपनी पत्नी री सोल-जू और बेटी जू-ए के साथ इसका लॉन्च को देखा.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "स्थायी समिति की दोबारा कमान मिलने पर गदगद हुए शशि थरूर, बोले- 'भारत के...'",
+      "url": "https://www.abplive.com/news/india/shashi-tharoor-expresses-honour-to-continue-as-chair-of-parliamentary-standing-committee-on-external-affairs-3197562",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T11:45:49+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/2bee4fc5504d939214dd0d3a6b9e9acc17911136132301126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "शशि थरूर को विदेश मामलों की संसदीय स्थायी समिति की अध्यक्षता दोबारा सौंपी गई। तिरुवनंतपुरम से सांसद ने इस नियुक्ति पर खुशी जताई। समिति के अन्य सदस्यों के नाम भी घोषित किए गए। केरलम की राजधानी तिरुवनंतपुरम से लोकसभा में कांग्रेस सांसद शशि थरूर शनिवार (3 अक्टूबर, 2026) को एक बार से फिर से विदेश मामलों से संबंधित संसद के स्थायी समिति के अध्यक्ष के रूप में नियुक्त किया गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "स्थायी समिति की दोबारा कमान मिलने पर गदगद हुए शशि थरूर, बोले- 'भारत के...'",
+          "summary": "शशि थरूर को विदेश मामलों की संसदीय स्थायी समिति की अध्यक्षता दोबारा सौंपी गई। तिरुवनंतपुरम से सांसद ने इस नियुक्ति पर खुशी जताई। समिति के अन्य सदस्यों के नाम भी घोषित किए गए। केरलम की राजधानी तिरुवनंतपुरम से लोकसभा में कांग्रेस सांसद शशि थरूर शनिवार (3 अक्टूबर, 2026) को एक बार से फिर से विदेश मामलों से संबंधित संसद के स्थायी समिति के अध्यक्ष के रूप में नियुक्त किया गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पड़ोसियों में दूरियां मिटाने की कूटनीति: जयशंकर से मिले बांग्लादेश के उच्चायुक्त, भविष्य को ध्यान",
+      "url": "https://hindi.news18.com/news/nation/diplomacy-to-bridge-gaps-with-neighbors-bangladesh-high-commissioner-meets-jaishankar-10885172.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T11:27:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Riaz-Hamidullah-S-Jaishankar-2026-10-a0e1573ddb41ffdeb5d20d6ce93d72a0-1200x800.jpg",
+      "summary": "विदेश मंत्री एस. जयशंकर ने बांग्लादेश के निवर्तमान उच्चायुक्त रियाज हमीदुल्लाह से मुलाकात की। नई दिल्ली में हुई इस बैठक में द्विपक्षीय संबंधों को मजबूत करने की चर्चा हुई। जयशंकर ने हमीदुल्लाह के योगदान की सराहना की। जयशंकर ने नई दिल्ली में भारत में बांग्लादेश के निवर्तमान उच्चायुक्त रियाज हमीदुल्लाह से फेयरवेल मीटिंग की. इस विदाई मुलाकात के दौरान जयशंकर ने दोनों पड़ोसी मुल्कों के द्विपक्षीय संबंधों को संभालने और आगे बढ़ाने में हमीदुल्लाह के योगदान की सराहना करते हुए उन्हें भविष्य के लिए शुभकामनाएं दीं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पड़ोसियों में दूरियां मिटाने की कूटनीति: जयशंकर से मिले बांग्लादेश के उच्चायुक्त, भविष्य को ध्यान",
+          "summary": "विदेश मंत्री एस. जयशंकर ने बांग्लादेश के निवर्तमान उच्चायुक्त रियाज हमीदुल्लाह से मुलाकात की। नई दिल्ली में हुई इस बैठक में द्विपक्षीय संबंधों को मजबूत करने की चर्चा हुई। जयशंकर ने हमीदुल्लाह के योगदान की सराहना की। जयशंकर ने नई दिल्ली में भारत में बांग्लादेश के निवर्तमान उच्चायुक्त रियाज हमीदुल्लाह से फेयरवेल मीटिंग की. इस विदाई मुलाकात के दौरान जयशंकर ने दोनों पड़ोसी मुल्कों के द्विपक्षीय संबंधों को संभालने और आगे बढ़ाने में हमीदुल्लाह के योगदान की सराहना करते हुए उन्हें भविष्य के लिए शुभकामनाएं दीं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बंगाल में UCC को लेकर CM शुभेंदु का बड़ा ऐलान, कहा - 'अगले 6 महीने में...'",
+      "url": "https://www.abplive.com/news/india/chief-minister-suvendu-adhikari-announcement-on-implementing-ucc-in-bengal-3197563",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T11:26:41+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/5b4789580cb564a4b38671ca4736313c17911131820621368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने UCC लागू करने का ऐलान किया। उन्होंने कहा कि अगले छह महीने में लव जिहाद और लैंड जिहाद के खिलाफ कानून लाए जाएंगे। यह बयान कोलकाता में VHP कार्यक्रम में दिया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने राज्य में समान नागरिक संहिता (UCC) को लागू करने को लेकर बड़ा बयान दिया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल में UCC को लेकर CM शुभेंदु का बड़ा ऐलान, कहा - 'अगले 6 महीने में...'",
+          "summary": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने UCC लागू करने का ऐलान किया। उन्होंने कहा कि अगले छह महीने में लव जिहाद और लैंड जिहाद के खिलाफ कानून लाए जाएंगे। यह बयान कोलकाता में VHP कार्यक्रम में दिया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने राज्य में समान नागरिक संहिता (UCC) को लागू करने को लेकर बड़ा बयान दिया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "राहुल गांधी के 'डिजिटल सत्याग्रह' पर बोले चिराग पासवान- 'मैंने हमेशा...'",
+      "url": "https://www.abplive.com/news/india/union-minister-chirag-paswan-on-rahul-gandhi-digital-satyagrah-platform-3197544",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T11:10:17+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/bb014b1d907cac5f1c7e2f8a55e94deb17911109329771324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "छत्तीसगढ़ में चिराग पासवान ने राहुल गांधी के डिजिटल सत्याग्रह पर टिप्पणी की। उन्होंने कहा कि जनता का नकारात्मक रुख समझने के लिए आत्ममंथन जरूरी है। पासवान ने युवाओं को अपनी बात रखने के लिए इस मंच का उपयोग करने की सलाह दी। छत्तीसगढ़ पहुंचे केंद्रीय मंत्री चिराग पासवान ने लोकसभा नेता प्रतिपक्ष और कांग्रेस नेता राहुल गांधी के डिजिटल सत्याग्रह प्लेटफॉर्म को लेकर अपना बयान दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राहुल गांधी के 'डिजिटल सत्याग्रह' पर बोले चिराग पासवान- 'मैंने हमेशा...'",
+          "summary": "छत्तीसगढ़ में चिराग पासवान ने राहुल गांधी के डिजिटल सत्याग्रह पर टिप्पणी की। उन्होंने कहा कि जनता का नकारात्मक रुख समझने के लिए आत्ममंथन जरूरी है। पासवान ने युवाओं को अपनी बात रखने के लिए इस मंच का उपयोग करने की सलाह दी। छत्तीसगढ़ पहुंचे केंद्रीय मंत्री चिराग पासवान ने लोकसभा नेता प्रतिपक्ष और कांग्रेस नेता राहुल गांधी के डिजिटल सत्याग्रह प्लेटफॉर्म को लेकर अपना बयान दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हिंद-प्रशांत में समंदर से अंतरिक्ष तक पहरा; जयशंकर और US पैसिफिक कमांडर की रणनीति से ड्रैगन में",
+      "url": "https://hindi.news18.com/news/defence/space-to-sea-vigilance-in-indo-pacific-strategy-of-jaishankar-and-us-pacific-commander-worry-for-china-10885173.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T11:09:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Dr-S-Jaishankar-2026-10-b03c8450c8a329e0db6781587d682883-1200x800.jpg",
+      "summary": "नई दिल्ली में एस. जयशंकर ने अमेरिकी एडमिरल सैमुअल पापारो से मुलाकात की। चर्चा हिंद-प्रशांत क्षेत्र में नौसैनिक तालमेल और रणनीतिक संतुलन पर केंद्रित रही। दोनों पक्षों ने उभरती सैन्य तकनीक और डिजिटल रणनीतियों पर बातचीत की। जयशंकर ने नई दिल्ली में यूनाइटेड स्टेट्स पैसिफिक कमांड के प्रमुख एडमिरल सैमुअल जे. पापारो के साथ एक उच्चस्तरीय बैठक की. छह दिवसीय भारत दौरे पर पहुंचे एडमिरल पापारो और अमेरिकी राजदूत सर्जियो गोर के साथ हुई इस चर्चा का मुख्य केंद्र हिंद महासागर में नौसैनिक तालमेल, उभरती सैन्य तकनीक, डिजिटल ट्रांसफॉर्मेशन और रणनीतिक संतुलन साधने पर केंद्रित रहा.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिंद-प्रशांत में समंदर से अंतरिक्ष तक पहरा; जयशंकर और US पैसिफिक कमांडर की रणनीति से ड्रैगन में",
+          "summary": "नई दिल्ली में एस. जयशंकर ने अमेरिकी एडमिरल सैमुअल पापारो से मुलाकात की। चर्चा हिंद-प्रशांत क्षेत्र में नौसैनिक तालमेल और रणनीतिक संतुलन पर केंद्रित रही। दोनों पक्षों ने उभरती सैन्य तकनीक और डिजिटल रणनीतियों पर बातचीत की। जयशंकर ने नई दिल्ली में यूनाइटेड स्टेट्स पैसिफिक कमांड के प्रमुख एडमिरल सैमुअल जे. पापारो के साथ एक उच्चस्तरीय बैठक की. छह दिवसीय भारत दौरे पर पहुंचे एडमिरल पापारो और अमेरिकी राजदूत सर्जियो गोर के साथ हुई इस चर्चा का मुख्य केंद्र हिंद महासागर में नौसैनिक तालमेल, उभरती सैन्य तकनीक, डिजिटल ट्रांसफॉर्मेशन और रणनीतिक संतुलन साधने पर केंद्रित रहा.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी मरीन ने जापान में की ऐसी हरकत, PM साने ताकाइची भी भड़कीं, ट्रंप का सैनिक गिरफ्तार",
+      "url": "https://hindi.news18.com/world/south-asia-us-marine-arrested-in-japan-murder-case-okinawa-sanae-takaichi-protest-10885147.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T10:49:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/japan-news-3-2026-10-29c86b1a156a380226a7cf5703aac5fb-1200x800.jpg",
+      "summary": "ओकिनावा में अमेरिकी मरीन डेविन बैलार्ड को 39 वर्षीय अन्ना यागी की हत्या के आरोप में गिरफ्तार किया गया। शव नाहा शहर के होटल में मिला। जापान की प्रधानमंत्री साने ताकाइची ने इस घटना पर अमेरिका से कड़ा विरोध जताया। जापान के ओकिनावा में 20 साल के अमेरिकी मरीन डेविन जैकब बैलार्ड को गिरफ्तार किया गया है. उसे 39 साल की अन्ना यागी की हत्या और लूट के संदेह में गिरफ्तार किया गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी मरीन ने जापान में की ऐसी हरकत, PM साने ताकाइची भी भड़कीं, ट्रंप का सैनिक गिरफ्तार",
+          "summary": "ओकिनावा में अमेरिकी मरीन डेविन बैलार्ड को 39 वर्षीय अन्ना यागी की हत्या के आरोप में गिरफ्तार किया गया। शव नाहा शहर के होटल में मिला। जापान की प्रधानमंत्री साने ताकाइची ने इस घटना पर अमेरिका से कड़ा विरोध जताया। जापान के ओकिनावा में 20 साल के अमेरिकी मरीन डेविन जैकब बैलार्ड को गिरफ्तार किया गया है. उसे 39 साल की अन्ना यागी की हत्या और लूट के संदेह में गिरफ्तार किया गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "CJP का संसद मार्ग थाने के बाहर प्रदर्शन, महिला पत्रकार से बदसलूकी का आरोप",
+      "url": "https://www.abplive.com/news/india/delhi-protest-live-updates-jantar-mantar-march-eci-gyanesh-kumar-delhi-police-cjp-saurav-das-abhijeet-dipke-3197548",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T10:45:58+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/1bb746e2734549ed6096c94e1889a57517911097085081368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "दिल्ली के संसद मार्ग थाने के बाहर सीजेपी ने प्रदर्शन किया। प्रदर्शनकारियों ने जंतर-मंतर पर महिला पत्रकार के साथ बदसलूकी का विरोध किया। उन्होंने आरोपी पुलिस अधिकारी के खिलाफ तत्काल कार्रवाई की मांग रखी। सौरव दास की अगुवाई में दिल्ली के संसद मार्ग थाने के बाहर सीजेपी ने रविवार (4 अक्टूबर) को विरोध प्रदर्शन किया. थाने के बाहर प्रदर्शनकारियों की भीड़ जुटी और दिल्ली पुलिस के खिलाफ नारेबाजी की गई.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CJP का संसद मार्ग थाने के बाहर प्रदर्शन, महिला पत्रकार से बदसलूकी का आरोप",
+          "summary": "दिल्ली के संसद मार्ग थाने के बाहर सीजेपी ने प्रदर्शन किया। प्रदर्शनकारियों ने जंतर-मंतर पर महिला पत्रकार के साथ बदसलूकी का विरोध किया। उन्होंने आरोपी पुलिस अधिकारी के खिलाफ तत्काल कार्रवाई की मांग रखी। सौरव दास की अगुवाई में दिल्ली के संसद मार्ग थाने के बाहर सीजेपी ने रविवार (4 अक्टूबर) को विरोध प्रदर्शन किया. थाने के बाहर प्रदर्शनकारियों की भीड़ जुटी और दिल्ली पुलिस के खिलाफ नारेबाजी की गई.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेन में भारतीय कंपनी के फार्मा प्लांट पर रूसी ड्रोन हमला, एक की मौत, 400 करोड़ रुपये का नुकसान",
+      "url": "https://hindi.news18.com/world/europe-russian-drone-attack-hit-indian-pharma-plant-in-ukraine-sumy-10884862.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T10:26:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/ukraine-attack-2026-10-fbe780f5dd3a5e152ea35d9c222d511f-1200x800.jpg",
+      "summary": "यूक्रेन के सुमी में कुसुम ग्रुप के फार्मा प्लांट पर रूसी ड्रोन ने हमला किया। एक व्यक्ति की मौत हुई और कई घायल हुए। मुख्य इमारत तबाह हो गई। नुकसान का अनुमान 400 करोड़ रुपये है। यूक्रेन के सुमी शहर में भारतीय जड़ों वाली कुसुम ग्रुप की फार्मा फैक्ट्री पर रूसी ड्रोन हमला हुआ है. हमले में एक व्यक्ति की मौत हुई और कई लोग घायल हुए हैं.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन में भारतीय कंपनी के फार्मा प्लांट पर रूसी ड्रोन हमला, एक की मौत, 400 करोड़ रुपये का नुकसान",
+          "summary": "यूक्रेन के सुमी में कुसुम ग्रुप के फार्मा प्लांट पर रूसी ड्रोन ने हमला किया। एक व्यक्ति की मौत हुई और कई घायल हुए। मुख्य इमारत तबाह हो गई। नुकसान का अनुमान 400 करोड़ रुपये है। यूक्रेन के सुमी शहर में भारतीय जड़ों वाली कुसुम ग्रुप की फार्मा फैक्ट्री पर रूसी ड्रोन हमला हुआ है. हमले में एक व्यक्ति की मौत हुई और कई लोग घायल हुए हैं.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "फिर संसद मार्ग थाने पहुंचे सौरव दास, बैरिकेड पर चढ़े, कर दी बड़ी मांग",
+      "url": "https://www.abplive.com/news/india/cjp-protest-outside-police-station-parliament-street-saurav-das-updated-situation-3197531",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T10:05:42+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/b44405f66a7be70756271ae732a8294617911082462361324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "संसद मार्ग थाने पर सौरव दास ने बैरिकेड पर चढ़कर प्रदर्शन किया। उन्होंने महिला पत्रकार के साथ हुई घटना पर पुलिस अधिकारी विवेक भगत के खिलाफ कार्रवाई की मांग की। प्रदर्शन में रत्ना सिंह और वृंदा करात भी शामिल थे। शनिवार को दिल्ली में हुए मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ प्रोटेस्ट में कवरेज के दौरान एक महिला पत्रकार ने ACP विवेक भगत पर सेक्सुअल हैरसमेंट और धक्का मुक्की का आरोप लगाया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फिर संसद मार्ग थाने पहुंचे सौरव दास, बैरिकेड पर चढ़े, कर दी बड़ी मांग",
+          "summary": "संसद मार्ग थाने पर सौरव दास ने बैरिकेड पर चढ़कर प्रदर्शन किया। उन्होंने महिला पत्रकार के साथ हुई घटना पर पुलिस अधिकारी विवेक भगत के खिलाफ कार्रवाई की मांग की। प्रदर्शन में रत्ना सिंह और वृंदा करात भी शामिल थे। शनिवार को दिल्ली में हुए मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ प्रोटेस्ट में कवरेज के दौरान एक महिला पत्रकार ने ACP विवेक भगत पर सेक्सुअल हैरसमेंट और धक्का मुक्की का आरोप लगाया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "CEC ज्ञानेश कुमार के खिलाफ कांग्रेस सरकार ने दिए जांच के आदेश, सुसाइड का केस",
+      "url": "https://www.abplive.com/news/india/keralam-congress-government-ordered-vigilence-probe-against-cec-gyanesh-kumar-in-2006-suicide-case-3197527",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T09:56:15+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/9d29285c3ef50d019677defa0b2a44b217911080560981126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केरल की कांग्रेस सरकार ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ 2006 के एक सुसाइड केस में जांच के आदेश दिए। मामला KSTP सड़क परियोजना में भ्रष्टाचार और एक मलेशियाई इंजीनियर की मौत से जुड़ा है। SIR और चुनावों में धांधली के आरोपों के बीच केरलम की कांग्रेस सरकार ने मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार के खिलाफ 20 साल पुराने एक सुसाइड केस में जांच के आदेश दिए हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CEC ज्ञानेश कुमार के खिलाफ कांग्रेस सरकार ने दिए जांच के आदेश, सुसाइड का केस",
+          "summary": "केरल की कांग्रेस सरकार ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ 2006 के एक सुसाइड केस में जांच के आदेश दिए। मामला KSTP सड़क परियोजना में भ्रष्टाचार और एक मलेशियाई इंजीनियर की मौत से जुड़ा है। SIR और चुनावों में धांधली के आरोपों के बीच केरलम की कांग्रेस सरकार ने मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार के खिलाफ 20 साल पुराने एक सुसाइड केस में जांच के आदेश दिए हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रूस दे रहा अफगानिस्तान को ट्रेनिंग? भारत-चीन की सेना से तालिबान की मुलाकात, पाकिस्तान का बढ़ा",
+      "url": "https://hindi.news18.com/world/south-asia-taliban-joins-russian-center-2026-war-games-meets-indian-and-chinese-officials-concerns-pakistan-exclusive-10884743.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-04T09:55:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-49-2026-10-5d8ba7dc08574cadbb7bbf5627b20fc5-1200x800.jpg",
+      "summary": "रूस के सेंटर-2026 अभ्यास में तालिबान के प्रतिनिधिमंडल ने हिस्सा लिया। उन्होंने भारतीय और चीनी अधिकारियों से मुलाकात की। रूसी हथियारों की जानकारी भी ली गई। पाकिस्तान को इस सहयोग से चिंता है। Russia Ukraine War: रूस के 'सेंटर-2026' सैन्य अभ्यास में तालिबान का उच्चस्तरीय रक्षा प्रतिनिधिमंडल शामिल हुआ है. इस दौरान उसने भारत, चीन समेत कई देशों के सैन्य अधिकारियों से मुलाकात की और रूसी ड्रोन, मिसाइल व आधुनिक हथियारों की जानकारी ली.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस दे रहा अफगानिस्तान को ट्रेनिंग? भारत-चीन की सेना से तालिबान की मुलाकात, पाकिस्तान का बढ़ा",
+          "summary": "रूस के सेंटर-2026 अभ्यास में तालिबान के प्रतिनिधिमंडल ने हिस्सा लिया। उन्होंने भारतीय और चीनी अधिकारियों से मुलाकात की। रूसी हथियारों की जानकारी भी ली गई। पाकिस्तान को इस सहयोग से चिंता है। Russia Ukraine War: रूस के 'सेंटर-2026' सैन्य अभ्यास में तालिबान का उच्चस्तरीय रक्षा प्रतिनिधिमंडल शामिल हुआ है. इस दौरान उसने भारत, चीन समेत कई देशों के सैन्य अधिकारियों से मुलाकात की और रूसी ड्रोन, मिसाइल व आधुनिक हथियारों की जानकारी ली.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ईरान युद्ध से सीधे थाईलैंड पहुंचा अमेरिका का एयरक्राफ्ट कैरियर, क्या है वजह?",
+      "url": "https://www.patrika.com/world-news/uss-george-hw-bush-phuket-thailand-iran-war-20958051",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-04T09:53:19+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/US-aircraft.webp",
+      "summary": "अमेरिकी नौसेना का एयरक्राफ्ट कैरियर USS George HW Bush ईरान विरोधी कार्रवाई के छह महीने बाद थाईलैंड पहुंचा। जहाज ने स्ट्रेट ऑफ होर्मुज में ईरानी जहाजों की आवाजाही रोकने में भी हिस्सा लिया। US Navy: अमेरिका का बड़ा एयरक्राफ्ट कैरियर यूएसएस जॉर्ज एचडब्ल्यू बुश (USS George HW Bush) करीब छह महीने तक ईरान के खिलाफ अमेरिकी सैन्य कार्रवाई में शामिल रहने के बाद अब थाईलैंड पहुंच गया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान युद्ध से सीधे थाईलैंड पहुंचा अमेरिका का एयरक्राफ्ट कैरियर, क्या है वजह?",
+          "summary": "अमेरिकी नौसेना का एयरक्राफ्ट कैरियर USS George HW Bush ईरान विरोधी कार्रवाई के छह महीने बाद थाईलैंड पहुंचा। जहाज ने स्ट्रेट ऑफ होर्मुज में ईरानी जहाजों की आवाजाही रोकने में भी हिस्सा लिया। US Navy: अमेरिका का बड़ा एयरक्राफ्ट कैरियर यूएसएस जॉर्ज एचडब्ल्यू बुश (USS George HW Bush) करीब छह महीने तक ईरान के खिलाफ अमेरिकी सैन्य कार्रवाई में शामिल रहने के बाद अब थाईलैंड पहुंच गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "समुद्री सुरक्षा से नई टेक्नोलॉजी तक, भारत-US डिफेंस पार्टनरशिप को मिली नई मजबूती",
+      "url": "https://www.patrika.com/world-news/from-maritime-security-to-new-technology-india-us-defense-partnership-gains-new-strength-20958106",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-04T09:49:58+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/IND-USA-.webp",
+      "summary": "विदेश मंत्री एस. जयशंकर और अमेरिकी एडमिरल सैमुअल जे. पापारो ने नई दिल्ली में समुद्री सुरक्षा पर बातचीत की। दोनों देशों ने इंडो-पैसिफिक में नई तकनीक और सुरक्षा सहयोग को और मजबूत करने पर सहमति जताई। Indo-Pacific Relations: इंडो-पैसिफिक में बदलते सुरक्षा हालात के बीच भारत और अमेरिका की नजदीकी बढ़ रही है। दोनों देश समुद्री सुरक्षा से लेकर नई तकनीक तक सहयोग बढ़ाने पर जोर दे रहे हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "समुद्री सुरक्षा से नई टेक्नोलॉजी तक, भारत-US डिफेंस पार्टनरशिप को मिली नई मजबूती",
+          "summary": "विदेश मंत्री एस. जयशंकर और अमेरिकी एडमिरल सैमुअल जे. पापारो ने नई दिल्ली में समुद्री सुरक्षा पर बातचीत की। दोनों देशों ने इंडो-पैसिफिक में नई तकनीक और सुरक्षा सहयोग को और मजबूत करने पर सहमति जताई। Indo-Pacific Relations: इंडो-पैसिफिक में बदलते सुरक्षा हालात के बीच भारत और अमेरिका की नजदीकी बढ़ रही है। दोनों देश समुद्री सुरक्षा से लेकर नई तकनीक तक सहयोग बढ़ाने पर जोर दे रहे हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "जापान-स्पेन की लाइन में खड़ा हुआ नेपाल, बालेन शाह ने किया ऐसा ऐलान, खुश हो गईं महिलाएं",
       "url": "https://hindi.news18.com/world/south-asia-nepal-in-line-to-grant-menstrual-leave-for-women-civil-servants-ws-l-10885008.html",
       "source": "News18 Hindi (World)",
@@ -322,6 +682,42 @@
           "title": "जापान-स्पेन की लाइन में खड़ा हुआ नेपाल, बालेन शाह ने किया ऐसा ऐलान, खुश हो गईं महिलाएं",
           "summary": "नेपाल की बालेन शाह सरकार ने महिलाओं को मासिक धर्म अवकाश देने का प्रस्ताव पारित किया है। यह कानून संसद में पारित होकर जल्द लागू होगा। इससे देश में महिलाओं के लिए नई शर्तें बनेंगी। Nepal Menstrual Leave for Women: नेपाल की बालेन सरकार ने तय किया है कि वो अपने देश में महिलाओं को पीरियड लीव देंगे. इससे संबंधित प्रस्ताव रखा गया है और जल्द ही संशोधन के बाद इसे लागू भी किया जाएगा.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "चुनाव प्रचार में बच्चे के इस्तेमाल का आरोप, उदयनिधि स्टालिन पर केस दर्ज",
+      "url": "https://www.abplive.com/news/india/tamil-nadu-udhayanidhi-stalin-case-dharapuram-by-election-2026-case-regarding-involving-child-3197481",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T09:20:09+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/d5158cd6adcdd885d94a96ced1d25f9017910998447071115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "तिरुप्पुर में उदयनिधि स्टालिन के खिलाफ चुनाव प्रचार में बच्चे के इस्तेमाल का केस दर्ज हुआ। पुलिस का आरोप है कि धारापुरम सभा में बच्चे से सीएम विजय के खिलाफ अपमानजनक बात कहलवाई गई। तमिलनाडु के तिरुप्पुर जिले में विपक्ष के नेता उदयनिधि स्टालिन के खिलाफ चुनाव प्रचार में एक बच्चे को शामिल करने के आरोप में मामला दर्ज किया गया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चुनाव प्रचार में बच्चे के इस्तेमाल का आरोप, उदयनिधि स्टालिन पर केस दर्ज",
+          "summary": "तिरुप्पुर में उदयनिधि स्टालिन के खिलाफ चुनाव प्रचार में बच्चे के इस्तेमाल का केस दर्ज हुआ। पुलिस का आरोप है कि धारापुरम सभा में बच्चे से सीएम विजय के खिलाफ अपमानजनक बात कहलवाई गई। तमिलनाडु के तिरुप्पुर जिले में विपक्ष के नेता उदयनिधि स्टालिन के खिलाफ चुनाव प्रचार में एक बच्चे को शामिल करने के आरोप में मामला दर्ज किया गया है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'BJP ने 17 सालों में...', राहुल गांधी का बिहार बाढ़ को लेकर भाजपा पर तंज",
+      "url": "https://www.abplive.com/news/india/rahul-gandhi-on-bihar-floods-tweet-demand-permanent-solution-3197504",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-04T09:19:44+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/a3eed94bb9c34ce1196837f9363ecdb217911036834651115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "राहुल गांधी ने बिहार बाढ़ को लेकर भाजपा पर सवाल उठाए। उन्होंने एक्स पर पोस्ट कर लाखों प्रभावित लोगों और डूबे गांवों का जिक्र किया। उन्होंने 17 साल के शासन में प्रबंधन की नाकामی पर निशाना साधा। बिहार में बाढ़ की स्थिति को लेकर कांग्रेस नेता राहुल गांधी ने राज्य सरकार पर सवाल उठाए हैं. उन्होंने सोशल मीडिया प्लेटफॉर्म एक्स पर पोस्ट कर बाढ़ से प्रभावित लोगों के प्रति संवेदना जताई.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'BJP ने 17 सालों में...', राहुल गांधी का बिहार बाढ़ को लेकर भाजपा पर तंज",
+          "summary": "राहुल गांधी ने बिहार बाढ़ को लेकर भाजपा पर सवाल उठाए। उन्होंने एक्स पर पोस्ट कर लाखों प्रभावित लोगों और डूबे गांवों का जिक्र किया। उन्होंने 17 साल के शासन में प्रबंधन की नाकामی पर निशाना साधा। बिहार में बाढ़ की स्थिति को लेकर कांग्रेस नेता राहुल गांधी ने राज्य सरकार पर सवाल उठाए हैं. उन्होंने सोशल मीडिया प्लेटफॉर्म एक्स पर पोस्ट कर बाढ़ से प्रभावित लोगों के प्रति संवेदना जताई.",
+          "region": "दुनिया"
         }
       }
     },
@@ -344,416 +740,20 @@
       }
     },
     {
-      "title": "रूस दे रहा तालिबान को ट्रेनिंग? भारत-चीन की सेना से भी मुलाकात, पाकिस्तान को सता रहे पुराना कर्म",
-      "url": "https://hindi.news18.com/world/south-asia-taliban-joins-russian-center-2026-war-games-meets-indian-and-chinese-officials-concerns-pakistan-exclusive-10884743.html",
-      "source": "News18 Hindi (World)",
+      "title": "गजेंद्र सिंह शेखावत ने SIR को लेकर राहुल गांधी पर साधा निशाना, बोले- 'झूठ की...'",
+      "url": "https://www.abplive.com/news/india/gajendra-singh-shekhawat-criticised-rahul-gandhi-over-sir-ann-3197451",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-10-04T09:13:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-49-2026-10-5d8ba7dc08574cadbb7bbf5627b20fc5-1200x800.jpg",
-      "summary": "रूस के सेंटर-2026 अभ्यास में तालिबान के प्रतिनिधिमंडल ने हिस्सा लिया। उन्होंने भारतीय और चीनी अधिकारियों से मुलाकात की। रूसी हथियारों की जानकारी भी ली गई। पाकिस्तान को इस सहयोग से चिंता है। Russia Ukraine War: रूस के 'सेंटर-2026' सैन्य अभ्यास में तालिबान का उच्चस्तरीय रक्षा प्रतिनिधिमंडल शामिल हुआ है. इस दौरान उसने भारत, चीन समेत कई देशों के सैन्य अधिकारियों से मुलाकात की और रूसी ड्रोन, मिसाइल व आधुनिक हथियारों की जानकारी ली.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस दे रहा तालिबान को ट्रेनिंग? भारत-चीन की सेना से भी मुलाकात, पाकिस्तान को सता रहे पुराना कर्म",
-          "summary": "रूस के सेंटर-2026 अभ्यास में तालिबान के प्रतिनिधिमंडल ने हिस्सा लिया। उन्होंने भारतीय और चीनी अधिकारियों से मुलाकात की। रूसी हथियारों की जानकारी भी ली गई। पाकिस्तान को इस सहयोग से चिंता है। Russia Ukraine War: रूस के 'सेंटर-2026' सैन्य अभ्यास में तालिबान का उच्चस्तरीय रक्षा प्रतिनिधिमंडल शामिल हुआ है. इस दौरान उसने भारत, चीन समेत कई देशों के सैन्य अधिकारियों से मुलाकात की और रूसी ड्रोन, मिसाइल व आधुनिक हथियारों की जानकारी ली.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन में भारतीय कंपनी के फार्मा प्लांट पर रूसी ड्रोन हमला, एक की मौत, 400 करोड़ रुपये का नुकसान",
-      "url": "https://hindi.news18.com/world/europe-russian-drone-attack-hit-indian-pharma-plant-in-ukraine-sumy-10884862.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T09:07:08+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/ukraine-attack-2026-10-fbe780f5dd3a5e152ea35d9c222d511f-1200x800.jpg",
-      "summary": "यूक्रेन के सुमी में कुसुम ग्रुप के फार्मा प्लांट पर रूसी ड्रोन ने हमला किया। एक व्यक्ति की मौत हुई और कई घायल हुए। मुख्य इमारत तबाह हो गई। नुकसान का अनुमान 400 करोड़ रुपये है। यूक्रेन के सुमी शहर में भारतीय जड़ों वाली कुसुम ग्रुप की फार्मा फैक्ट्री पर रूसी ड्रोन हमला हुआ है. हमले में एक व्यक्ति की मौत हुई और कई लोग घायल हुए हैं.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन में भारतीय कंपनी के फार्मा प्लांट पर रूसी ड्रोन हमला, एक की मौत, 400 करोड़ रुपये का नुकसान",
-          "summary": "यूक्रेन के सुमी में कुसुम ग्रुप के फार्मा प्लांट पर रूसी ड्रोन ने हमला किया। एक व्यक्ति की मौत हुई और कई घायल हुए। मुख्य इमारत तबाह हो गई। नुकसान का अनुमान 400 करोड़ रुपये है। यूक्रेन के सुमी शहर में भारतीय जड़ों वाली कुसुम ग्रुप की फार्मा फैक्ट्री पर रूसी ड्रोन हमला हुआ है. हमले में एक व्यक्ति की मौत हुई और कई लोग घायल हुए हैं.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान में शहबाज सरकार से आर-पार के मूड में इमरान खान, PTI ने ठुकराई शर्त, आज निकालेगी मार्च",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-pti-imran-khan-october-4-long-march-shehbaz-sharif-no-deal-10884624.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T07:50:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/imran-khan-5-2026-10-27e5a53ea16254d41ded196a4bafbbec-1200x800.jpg",
-      "summary": "पाकिस्तान में पीटीआई ने इस्लामाबाद मार्च वापस लेने से इनकार कर दिया। पार्टी ने इमरान खान से मिलने की मांग रखी है। शहबाज शरीफ सरकार से बातचीत बेनतीजा रही। खैबर पख्तूनख्वा में सहमति नहीं बनी। पाकिस्तान में शहबाज शरीफ सरकार और इमरान खान की पार्टी PTI के बीच बातचीत बेनतीजा रही है. PTI ने 4 अक्टूबर को प्रस्तावित इस्लामाबाद मार्च वापस लेने से इनकार कर दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान में शहबाज सरकार से आर-पार के मूड में इमरान खान, PTI ने ठुकराई शर्त, आज निकालेगी मार्च",
-          "summary": "पाकिस्तान में पीटीआई ने इस्लामाबाद मार्च वापस लेने से इनकार कर दिया। पार्टी ने इमरान खान से मिलने की मांग रखी है। शहबाज शरीफ सरकार से बातचीत बेनतीजा रही। खैबर पख्तूनख्वा में सहमति नहीं बनी। पाकिस्तान में शहबाज शरीफ सरकार और इमरान खान की पार्टी PTI के बीच बातचीत बेनतीजा रही है. PTI ने 4 अक्टूबर को प्रस्तावित इस्लामाबाद मार्च वापस लेने से इनकार कर दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कॉकपिट में हमला, आसमान में तबाही… फिर सामने आया ऐसा ‘इत्तेफाक’, जिसने 174 लोगों को बचा लिया",
-      "url": "https://www.patrika.com/world-news/flydubai-flight-fz1073-cockpit-attack-two-pilots-saved-plane-20957683",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-04T07:50:08+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/FlyDubai-Flight-FZ1073.webp",
-      "summary": "फ्लाईदुबई की FZ1073 उड़ान में कॉकपिट हमले के बाद दो अतिरिक्त पायलटों ने विमान संभाला। ये यात्री बनकर सवार थे और तेल अवीव जा रहे थे। उनकी मौजूदगी ने 174 लोगों की जान बचाई। अब ये दोनों जांच की नई कड़ी बन गए हैं। FlyDubai Flight FZ1073: फ्लाईदुबई की FZ1073 उड़ान में कॉकपिट के भीतर हुआ हमला सिर्फ विमान सुरक्षा का मामला नहीं रह गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कॉकपिट में हमला, आसमान में तबाही… फिर सामने आया ऐसा ‘इत्तेफाक’, जिसने 174 लोगों को बचा लिया",
-          "summary": "फ्लाईदुबई की FZ1073 उड़ान में कॉकपिट हमले के बाद दो अतिरिक्त पायलटों ने विमान संभाला। ये यात्री बनकर सवार थे और तेल अवीव जा रहे थे। उनकी मौजूदगी ने 174 लोगों की जान बचाई। अब ये दोनों जांच की नई कड़ी बन गए हैं। FlyDubai Flight FZ1073: फ्लाईदुबई की FZ1073 उड़ान में कॉकपिट के भीतर हुआ हमला सिर्फ विमान सुरक्षा का मामला नहीं रह गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "उदयनिधि स्टालिन पर एफआईआर दर्ज, बच्चे को प्रचार में शामिल करने का आरोप; क्या है पूरा मामला?",
-      "url": "https://www.amarujala.com/india-news/tamil-nadu-bypoll-fir-against-udhayanidhi-stalin-over-alleged-use-of-child-in-election-campaign-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T07:29:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/thharaparama-ma-canava-paracara-ka-bca-uthayanathha-para-kasa_416aadfe98a548187ff0f0b7a0ad7080.jpeg?w=1200&dpr=1.0",
-      "summary": "तमिलनाडु उपचुनाव के दौरान उदयनिधि स्टालिन पर एफआईआर दर्ज हुई। आरोप है कि उन्होंने बच्चे को प्रचार में शामिल किया। यह मामला चुनावी नियमों के उल्लंघन से जुड़ा है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। तमिलनाडु उपचुनाव: उदयनिधि स्टालिन पर एफआईआर दर्ज, बच्चे को प्रचार में शामिल करने का आरोप; क्या है पूरा मामला?",
+      "published_at": "2026-10-04T08:57:22+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/03bb4f6aa4c785fd7d618bb7c025871d17910956778511484_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्रीय मंत्री गजेंद्र सिंह शेखावत ने लोकसभा में राहुल गांधी पर SIR प्रक्रिया को लेकर झूठ बोलने का आरोप लगाया। उन्होंने कहा कि जनता सच्चाई जानती है और पूर्ववत इस बार भी गांधी का दावा स्वीकार नहीं होगा। केंद्रीय संस्कृति एवं पर्यटन मंत्री गजेन्द्र सिंह शेखावत ने लोकसभा में नेता प्रतिपक्ष राहुल गांधी पर निशाना साधते हुए कहा कि उन्होंने SIR की प्रक्रिया के बहाने एक बार फिर अपनी ‘झूठ की दुकान’ का सामान बेचना शुरू कर दिया है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "उदयनिधि स्टालिन पर एफआईआर दर्ज, बच्चे को प्रचार में शामिल करने का आरोप; क्या है पूरा मामला?",
-          "summary": "तमिलनाडु उपचुनाव के दौरान उदयनिधि स्टालिन पर एफआईआर दर्ज हुई। आरोप है कि उन्होंने बच्चे को प्रचार में शामिल किया। यह मामला चुनावी नियमों के उल्लंघन से जुड़ा है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। तमिलनाडु उपचुनाव: उदयनिधि स्टालिन पर एफआईआर दर्ज, बच्चे को प्रचार में शामिल करने का आरोप; क्या है पूरा मामला?",
+          "title": "गजेंद्र सिंह शेखावत ने SIR को लेकर राहुल गांधी पर साधा निशाना, बोले- 'झूठ की...'",
+          "summary": "केंद्रीय मंत्री गजेंद्र सिंह शेखावत ने लोकसभा में राहुल गांधी पर SIR प्रक्रिया को लेकर झूठ बोलने का आरोप लगाया। उन्होंने कहा कि जनता सच्चाई जानती है और पूर्ववत इस बार भी गांधी का दावा स्वीकार नहीं होगा। केंद्रीय संस्कृति एवं पर्यटन मंत्री गजेन्द्र सिंह शेखावत ने लोकसभा में नेता प्रतिपक्ष राहुल गांधी पर निशाना साधते हुए कहा कि उन्होंने SIR की प्रक्रिया के बहाने एक बार फिर अपनी ‘झूठ की दुकान’ का सामान बेचना शुरू कर दिया है.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज खोलने के लिए ईरान ने रखीं 7 शर्तें, कहा- अमेरिका माने इस्लामाबाद मेमोरेंडम, तभी खुलेगा रूट",
-      "url": "https://www.patrika.com/world-news/iran-strait-of-hormuz-seven-conditions-us-islamabad-memorandum-20957568",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-04T07:27:34+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Strait-of-Hormuz-1-1.webp",
-      "summary": "ईरान ने होर्मुज जलडमरूमध्य खोलने के लिए सात शर्तें रखीं। संसद अध्यक्ष मोहम्मद बाघेरी गालिबाफ ने कहा कि अमेरिका को इस्लामाबाद मेमोरेंडम मानना होगा। तब तक जहाजों की आवाजाही नहीं होगी। यह रुख अमेरिका-ईरान संघर्ष को और तीव्र करता है। Strait of Hormuz: ईरान और अमेरिका के बीच जारी संघर्ष बीच ईरान ने दुनिया के सबसे अहम समुद्री रास्तों में से एक होर्मुज जलडमरूमध्य को लेकर अपना रुख और भी सख्त कर दिया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज खोलने के लिए ईरान ने रखीं 7 शर्तें, कहा- अमेरिका माने इस्लामाबाद मेमोरेंडम, तभी खुलेगा रूट",
-          "summary": "ईरान ने होर्मुज जलडमरूमध्य खोलने के लिए सात शर्तें रखीं। संसद अध्यक्ष मोहम्मद बाघेरी गालिबाफ ने कहा कि अमेरिका को इस्लामाबाद मेमोरेंडम मानना होगा। तब तक जहाजों की आवाजाही नहीं होगी। यह रुख अमेरिका-ईरान संघर्ष को और तीव्र करता है। Strait of Hormuz: ईरान और अमेरिका के बीच जारी संघर्ष बीच ईरान ने दुनिया के सबसे अहम समुद्री रास्तों में से एक होर्मुज जलडमरूमध्य को लेकर अपना रुख और भी सख्त कर दिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हॉकी स्टिक थामी, वर्दी पहनी अब हाथों में सियासी कमान, जालंधर के मिट्ठापुर से शुरू हुआ था सफर",
-      "url": "https://www.amarujala.com/punjab/jalandhar/pargat-singh-journey-began-in-jalandhar-mithapur-wielding-hockey-stick-and-wearing-uniform-political-command-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T07:25:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/pargat-singh_c955061454658cbc7ed44616458d851b.jpeg?w=1200&dpr=1.0",
-      "summary": "परगट सिंह ने हॉकी की स्टिक थामकर भारतीय टीम की कप्तानी की। बाद में उन्होंने पंजाब पुलिस में एसपी पद तक की उन्नति प्राप्त की। अब वे राजनीति में सक्रिय हैं। जालंधर के मिट्ठापुर से शुरू हुआ यह सफर अब राजनीतिक कमान तक पहुंचा है। फिर पुलिस की वर्दी पहनकर पंजाब पुलिस में एसपी बने। हॉकी स्टिक थामी, वर्दी पहनी अब हाथों में सियासी कमान, जालंधर के मिट्ठापुर से शुरू हुआ था सफर।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हॉकी स्टिक थामी, वर्दी पहनी अब हाथों में सियासी कमान, जालंधर के मिट्ठापुर से शुरू हुआ था सफर",
-          "summary": "परगट सिंह ने हॉकी की स्टिक थामकर भारतीय टीम की कप्तानी की। बाद में उन्होंने पंजाब पुलिस में एसपी पद तक की उन्नति प्राप्त की। अब वे राजनीति में सक्रिय हैं। जालंधर के मिट्ठापुर से शुरू हुआ यह सफर अब राजनीतिक कमान तक पहुंचा है। फिर पुलिस की वर्दी पहनकर पंजाब पुलिस में एसपी बने। हॉकी स्टिक थामी, वर्दी पहनी अब हाथों में सियासी कमान, जालंधर के मिट्ठापुर से शुरू हुआ था सफर।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूपी 5वां सबसे बड़ा निर्यातक राज्य: सीएम योगी बोले- 2017 के पहले नहीं थीं बुनियादी सुविधाएं और अवसर",
-      "url": "https://www.amarujala.com/lucknow/up-is-the-5th-largest-exporting-state-bhadohi-carpets-make-a-significant-contribution-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T07:17:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/01/yogi-adityanath_45f081bdb6760617947b357708e7f634.jpeg?w=1200&dpr=1.0",
-      "summary": "यूपी अब देश का पांचवां सबसे बड़ा निर्यातक राज्य बन गया है। मुख्यमंत्री योगी आदित्यनाथ ने कहा कि 2017 से पहले बुनियादी सुविधाएं नहीं थीं। अब सरकार भदोही के हुनर के लिए बाजार और अवसर खोल रही है। यह विकास बुनियादी ढांचे के सुधार का परिणाम है। मुख्यमंत्री योगी आदित्यनाथ ने रविवार को अपने सोशल मीडिया अकाउंट 'एक्स' पर लिखा कि भदोही का हुनर पहले अपनी राह तलाशता था, लेकिन आज सरकार उसके लिए विकास, बाजार और अवसर के नए द्वार खोल रही है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपी 5वां सबसे बड़ा निर्यातक राज्य: सीएम योगी बोले- 2017 के पहले नहीं थीं बुनियादी सुविधाएं और अवसर",
-          "summary": "यूपी अब देश का पांचवां सबसे बड़ा निर्यातक राज्य बन गया है। मुख्यमंत्री योगी आदित्यनाथ ने कहा कि 2017 से पहले बुनियादी सुविधाएं नहीं थीं। अब सरकार भदोही के हुनर के लिए बाजार और अवसर खोल रही है। यह विकास बुनियादी ढांचे के सुधार का परिणाम है। मुख्यमंत्री योगी आदित्यनाथ ने रविवार को अपने सोशल मीडिया अकाउंट 'एक्स' पर लिखा कि भदोही का हुनर पहले अपनी राह तलाशता था, लेकिन आज सरकार उसके लिए विकास, बाजार और अवसर के नए द्वार खोल रही है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फ्लाईदुबई फ्लाइट में आतंकी का सगा कौन? अधमरे पड़े थे कैप्टन मच्छर, को-पायलट क सपोर्ट में लगा झगड़ने",
-      "url": "https://hindi.news18.com/world/middle-east-who-supported-co-pilot-overpowered-by-passengers-in-flydubai-crew-reports-suggest-10884438.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T06:49:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/flight-co-piolet-2026-10-4b28126f9b8c540052aab8c660f8e09b-1200x800.jpg",
-      "summary": "फ्लाईदुबई की फ्लाइट में यात्रियों ने बताया कि कुछ लोगों ने आतंकी हमाद अल हमादी का समर्थन किया। कैप्टन स्मित मच्छर को बचाने के प्रयासों के बीच यह घटना सामने आई। Who Supported Co-Pilot in Flydubai: फ्लाईदुबई की फ्लाइट में जो कुछ भी हुआ, उसके बाद अब यात्रियों ने प्लेन के अंदर की स्थिति बताई. ऐसा नहीं है कि अंदर सिर्फ कैप्टन स्मित मच्छर की जान बचाने में ही लोग जुटे थे, कुछ ऐसे लोग भी सामने आए, जिन्होंने आतंकी हमाद अल हमादी का भी सपोर्ट किया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्लाईदुबई फ्लाइट में आतंकी का सगा कौन? अधमरे पड़े थे कैप्टन मच्छर, को-पायलट क सपोर्ट में लगा झगड़ने",
-          "summary": "फ्लाईदुबई की फ्लाइट में यात्रियों ने बताया कि कुछ लोगों ने आतंकी हमाद अल हमादी का समर्थन किया। कैप्टन स्मित मच्छर को बचाने के प्रयासों के बीच यह घटना सामने आई। Who Supported Co-Pilot in Flydubai: फ्लाईदुबई की फ्लाइट में जो कुछ भी हुआ, उसके बाद अब यात्रियों ने प्लेन के अंदर की स्थिति बताई. ऐसा नहीं है कि अंदर सिर्फ कैप्टन स्मित मच्छर की जान बचाने में ही लोग जुटे थे, कुछ ऐसे लोग भी सामने आए, जिन्होंने आतंकी हमाद अल हमादी का भी सपोर्ट किया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अल-कायदा की फ्लाईदुबई जैसे और हमले करने की धमकी, अमेरिका-इस्राइल को लेकर क्या कहा?",
-      "url": "https://www.amarujala.com/world/fight-is-not-over-yet-al-qaeda-threatens-more-attacks-like-flydubai-one-what-did-say-regarding-us-and-israel-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T06:33:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/sakataka-tasavara_12d713dadf16e3805e5d457c9526e8e3.jpeg?w=1200&dpr=1.0",
-      "summary": "अल-कायदा ने फ्लाईदुबई जैसी और घटनाओं की धमकी दी है। संगठन ने कहा कि अमेरिका और इस्राइल के खिलाफ लड़ाई अभी खत्म नहीं हुई है। अल-कायदा की फ्लाईदुबई जैसे और हमले करने की धमकी, अमेरिका-इस्राइल को लेकर क्या कहा?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अल-कायदा की फ्लाईदुबई जैसे और हमले करने की धमकी, अमेरिका-इस्राइल को लेकर क्या कहा?",
-          "summary": "अल-कायदा ने फ्लाईदुबई जैसी और घटनाओं की धमकी दी है। संगठन ने कहा कि अमेरिका और इस्राइल के खिलाफ लड़ाई अभी खत्म नहीं हुई है। अल-कायदा की फ्लाईदुबई जैसे और हमले करने की धमकी, अमेरिका-इस्राइल को लेकर क्या कहा?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "19 की उम्र...जेब में 27 नए पैसे और बड़े-बड़े सपने; 62 साल पहले सिनेमा जगत में कैसे आया था 'जादू'?",
-      "url": "https://www.amarujala.com/entertainment/shabana-azmi-shares-motivational-career-journey-and-struggle-story-of-husband-javed-akhtar-in-film-industry-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T06:32:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/javatha-akhatara_f65587a626ad9ec97849263c6494218d.jpeg?w=1200&dpr=1.0",
-      "summary": "जावेद अख्तर को मुंबई में आने के 62 साल पूरे हो गए। शबाना आज़मी ने उनके संघर्ष भरे सफर और हिंदी सिनेमा में शब्दों की जादूगरी पर बात की। Shabana Azmi On Javed Akhtar Struggle: हिंदी सिनेमा को शब्दों की जादूगरी दिखाने वाले जावेद अख्तर को मुंबई में आए हुआ आज 62 साल हो गए। संघर्ष का एक लंबा दौर देखने के बाद उन्हें सफलता नसीब हुई।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "19 की उम्र...जेब में 27 नए पैसे और बड़े-बड़े सपने; 62 साल पहले सिनेमा जगत में कैसे आया था 'जादू'?",
-          "summary": "जावेद अख्तर को मुंबई में आने के 62 साल पूरे हो गए। शबाना आज़मी ने उनके संघर्ष भरे सफर और हिंदी सिनेमा में शब्दों की जादूगरी पर बात की। Shabana Azmi On Javed Akhtar Struggle: हिंदी सिनेमा को शब्दों की जादूगरी दिखाने वाले जावेद अख्तर को मुंबई में आए हुआ आज 62 साल हो गए। संघर्ष का एक लंबा दौर देखने के बाद उन्हें सफलता नसीब हुई।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आज आखिरी मौका, शिक्षक बनने का सपना है तो तुरंत करें आवेदन; कब होगी परीक्षा?",
-      "url": "https://www.amarujala.com/jobs/up-special-tet-registration-2026-last-date-today-apply-by-october-4-check-eligibility-fees-and-exam-date-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T06:32:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/up-special-tet_6884dc4dd75961ebeb8848965efb0c36.jpeg?w=1200&dpr=1.0",
-      "summary": "यूपी स्पेशल टीईटी 2026 के लिए आवेदन की अंतिम तिथि 4 अक्टूबर है। परीक्षा 3 नवंबर को होगी और एडमिट कार्ड 1 नवंबर को जारी होगा। यूपी स्पेशल टीईटी 2026 के लिए आवेदन की आज 4 अक्तूबर आखिरी तारीख है। योग्य उम्मीदवार UPESSC की आधिकारिक वेबसाइट पर जाकर रजिस्ट्रेशन कर सकते हैं। आवेदन के लिए OTR जरूरी है। परीक्षा 3 नवंबर को होगी, जबकि एडमिट कार्ड 1 नवंबर को जारी किया जाएगा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज आखिरी मौका, शिक्षक बनने का सपना है तो तुरंत करें आवेदन; कब होगी परीक्षा?",
-          "summary": "यूपी स्पेशल टीईटी 2026 के लिए आवेदन की अंतिम तिथि 4 अक्टूबर है। परीक्षा 3 नवंबर को होगी और एडमिट कार्ड 1 नवंबर को जारी होगा। यूपी स्पेशल टीईटी 2026 के लिए आवेदन की आज 4 अक्तूबर आखिरी तारीख है। योग्य उम्मीदवार UPESSC की आधिकारिक वेबसाइट पर जाकर रजिस्ट्रेशन कर सकते हैं। आवेदन के लिए OTR जरूरी है। परीक्षा 3 नवंबर को होगी, जबकि एडमिट कार्ड 1 नवंबर को जारी किया जाएगा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विश्वकप के लिए अब नहीं होगा प्रयोग?: गिल ने बताया- अगली सीरीज से क्या बदलेगा, किन खिलाड़ियों के साथ",
-      "url": "https://www.amarujala.com/cricket/shubman-gill-wants-india-to-play-with-likely-2027-world-cup-combination-from-next-odi-series-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T06:32:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/shubman-gill-india-vs-west-indies-odi-2027-world-cup-team-india-gill-jasprit-bumrah-kuldeep_96d4b15108b1756e9ac7437c6f1a3bca.jpeg?w=1200&dpr=1.0",
-      "summary": "शुभमन गिल ने वेस्टइंडीज सीरीज के बाद गेंदबाजी और क्षेत्ररक्षण पर चिंता जताई। वे अगली सीरीज से टीम संयोजन में बदलाव करने की योजना बना रहे हैं। वेस्टइंडीज के खिलाफ वनडे सीरीज में 2-1 से जीत के बावजूद भारतीय कप्तान शुभमन गिल गेंदबाजी संयोजन और क्षेत्ररक्षण को लेकर चिंतित हैं। विश्वकप के लिए अब नहीं होगा प्रयोग?: गिल ने बताया- अगली सीरीज से क्या बदलेगा, किन खिलाड़ियों के साथ।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विश्वकप के लिए अब नहीं होगा प्रयोग?: गिल ने बताया- अगली सीरीज से क्या बदलेगा, किन खिलाड़ियों के साथ",
-          "summary": "शुभमन गिल ने वेस्टइंडीज सीरीज के बाद गेंदबाजी और क्षेत्ररक्षण पर चिंता जताई। वे अगली सीरीज से टीम संयोजन में बदलाव करने की योजना बना रहे हैं। वेस्टइंडीज के खिलाफ वनडे सीरीज में 2-1 से जीत के बावजूद भारतीय कप्तान शुभमन गिल गेंदबाजी संयोजन और क्षेत्ररक्षण को लेकर चिंतित हैं। विश्वकप के लिए अब नहीं होगा प्रयोग?: गिल ने बताया- अगली सीरीज से क्या बदलेगा, किन खिलाड़ियों के साथ।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या भारत बनेगा एयरक्राफ्ट मैन्युफैक्चरिंग हब?: लॉकहीड मार्टिन का बड़ा प्लान, देश में ही बनाएगी",
-      "url": "https://www.amarujala.com/world/will-india-become-aircraft-manufacturing-hub-lockheed-martin-big-plan-manufacture-aircraft-within-the-country-2026-10-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-04T06:31:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/bharata-ma-bugdhhaga-eyarakarafata-paradakashana_f484c7a0f9a92a398990f15b35e1c500.jpeg?w=1200&dpr=1.0",
-      "summary": "लॉकहीड मार्टिन ने भारत में विमान निर्माण की योजना बनाई है। कंपनी देश के भीतर ही हथियारों और विमानों का उत्पादन शुरू करेगी। यह कदम स्थानीय रक्षा उद्योग को मजबूत करने के लिए उठाया गया है। क्या भारत बनेगा एयरक्राफ्ट मैन्युफैक्चरिंग हब?: लॉकहीड मार्टिन का बड़ा प्लान, देश में ही बनाएंगी विमान Will India Become Aircraft Manufacturing Hub? क्या भारत बनेगा एयरक्राफ्ट मैन्युफैक्चरिंग हब?: लॉकहीड मार्टिन का बड़ा प्लान, देश में ही बनाएगी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या भारत बनेगा एयरक्राफ्ट मैन्युफैक्चरिंग हब?: लॉकहीड मार्टिन का बड़ा प्लान, देश में ही बनाएगी",
-          "summary": "लॉकहीड मार्टिन ने भारत में विमान निर्माण की योजना बनाई है। कंपनी देश के भीतर ही हथियारों और विमानों का उत्पादन शुरू करेगी। यह कदम स्थानीय रक्षा उद्योग को मजबूत करने के लिए उठाया गया है। क्या भारत बनेगा एयरक्राफ्ट मैन्युफैक्चरिंग हब?: लॉकहीड मार्टिन का बड़ा प्लान, देश में ही बनाएंगी विमान Will India Become Aircraft Manufacturing Hub? क्या भारत बनेगा एयरक्राफ्ट मैन्युफैक्चरिंग हब?: लॉकहीड मार्टिन का बड़ा प्लान, देश में ही बनाएगी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘वोट बैंक के डर से चुप’: कैप्टन मच्छार को लेकर भाजपा का राहुल पर तंज, कहा- परिवार ने अब तक एक शब्द",
-      "url": "https://www.amarujala.com/india-news/bjp-takes-a-dig-at-rahul-over-captain-machhar-says-the-family-hasn-t-uttered-a-single-word-so-far-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T06:01:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/sathhasha-taravatha-rashhataraya-paravakata-bhajapa_00f06990eb576fb568b8615eb7269686.jpeg?w=1200&dpr=1.0",
-      "summary": "भाजपा ने राहुल गांधी पर कैप्टन मच्छार के मामले में चुप रहने का आरोप लगाया है। पार्टी का कहना है कि परिवार ने अब तक इस विषय पर कोई बयान जारी नहीं किया है। इससे वोट बैंक के डर से चुप रहने का आरोप लगाया गया है। ‘वोट बैंक के डर से चुप’: कैप्टन मच्छार को लेकर भाजपा का राहुल पर तंज, कहा- परिवार ने अब तक एक शब्द।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘वोट बैंक के डर से चुप’: कैप्टन मच्छार को लेकर भाजपा का राहुल पर तंज, कहा- परिवार ने अब तक एक शब्द",
-          "summary": "भाजपा ने राहुल गांधी पर कैप्टन मच्छार के मामले में चुप रहने का आरोप लगाया है। पार्टी का कहना है कि परिवार ने अब तक इस विषय पर कोई बयान जारी नहीं किया है। इससे वोट बैंक के डर से चुप रहने का आरोप लगाया गया है। ‘वोट बैंक के डर से चुप’: कैप्टन मच्छार को लेकर भाजपा का राहुल पर तंज, कहा- परिवार ने अब तक एक शब्द।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने आम नागरिकों के लिए खोला सैन्य प्रशिक्षण केंद्र, हथियार से लेकर एयर डिफेंस तक की दी जा रही",
-      "url": "https://www.patrika.com/world-news/iran-military-training-centre-janfada-civilian-1000-battalions-tehran-20957274",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-04T05:56:41+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/iran-military-training-centre.webp",
-      "summary": "ईरान ने तेहरान में आम नागरिकों के लिए सैन्य प्रशिक्षण केंद्र खोले हैं। वॉलंटियर्स को हथियारों और एयर डिफेंस सिस्टम चलाने की ट्रेनिंग दी जा रही है। यह प्रोग्राम अमेरिका के साथ बढ़ते तनाव के बीच शुरू किया गया है। Iran Military Training centre: अमेरिका और ईरान के बीच जारी तनाव के बीच तेहरान ने आम नागरिकों को मिलिट्री ट्रेनिंग देने की प्रक्रिया तेज कर दी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने आम नागरिकों के लिए खोला सैन्य प्रशिक्षण केंद्र, हथियार से लेकर एयर डिफेंस तक की दी जा रही",
-          "summary": "ईरान ने तेहरान में आम नागरिकों के लिए सैन्य प्रशिक्षण केंद्र खोले हैं। वॉलंटियर्स को हथियारों और एयर डिफेंस सिस्टम चलाने की ट्रेनिंग दी जा रही है। यह प्रोग्राम अमेरिका के साथ बढ़ते तनाव के बीच शुरू किया गया है। Iran Military Training centre: अमेरिका और ईरान के बीच जारी तनाव के बीच तेहरान ने आम नागरिकों को मिलिट्री ट्रेनिंग देने की प्रक्रिया तेज कर दी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'ऐसे और हमले करेंगे हम', फ्लाईदुबई कांड में अल-कायदा की एंट्री, को-पायलट की जमकर तारीफ",
-      "url": "https://hindi.news18.com/world/middle-east-al-qaeda-supports-flydubai-hijack-incident-calls-for-similar-attacks-ws-l-10884401.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T05:46:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/al-qaeda-2026-10-a98eebb05a55f53a80f7700f1c3e8846-1200x800.jpg",
-      "summary": "अल-कायदा ने फ्लाईदुबई के को-पायलट की तारीफ की है। संगठन ने इजरायली यात्रियों के विमान पर हमले की कोशिश का समर्थन किया है। अल-कायदा ने आगे ऐसे और हमले करने का दावा किया है। Al Qaeda supports Flydubai Co-Piolet: इजरायली यात्रियों को ले जा रहे विमान पर जिस तरह के आतंकी हमले की कोशिश की गई, उसे लेकर एक तरफ जांच चल रही है, दूसरी ओर आतंकवादी संगठन अल कायदा ने सनसनीखेज तरीके से पायलट की तारीफ की है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ऐसे और हमले करेंगे हम', फ्लाईदुबई कांड में अल-कायदा की एंट्री, को-पायलट की जमकर तारीफ",
-          "summary": "अल-कायदा ने फ्लाईदुबई के को-पायलट की तारीफ की है। संगठन ने इजरायली यात्रियों के विमान पर हमले की कोशिश का समर्थन किया है। अल-कायदा ने आगे ऐसे और हमले करने का दावा किया है। Al Qaeda supports Flydubai Co-Piolet: इजरायली यात्रियों को ले जा रहे विमान पर जिस तरह के आतंकी हमले की कोशिश की गई, उसे लेकर एक तरफ जांच चल रही है, दूसरी ओर आतंकवादी संगठन अल कायदा ने सनसनीखेज तरीके से पायलट की तारीफ की है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पुलिस अफसरों पर तीन महिला पत्रकारों ने लगाए यौन उत्पीड़न के आरोप, क्राइम ब्रांच करेगी जांच",
-      "url": "https://www.amarujala.com/delhi-ncr/three-female-journalists-have-leveled-serious-allegations-against-delhi-police-officers-2026-10-04",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-04T05:33:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/17/delhi-police_006a8ce1a511ca85965a0ad0474d8526.jpeg?w=1200&dpr=1.0",
-      "summary": "तीन महिला पत्रकारों ने दिल्ली पुलिस अधिकारियों पर यौन उत्पीड़न का आरोप लगाया है। यह आरोप जंतर-मंतर पर हुए प्रदर्शन के दौरान लगाए गए हैं। दिल्ली पुलिस की क्राइम ब्रांच इस मामले की जांच करेगी। पुलिस अफसरों पर तीन महिला पत्रकारों ने लगाए यौन उत्पीड़न के आरोप, क्राइम ब्रांच करेगी जांच।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पुलिस अफसरों पर तीन महिला पत्रकारों ने लगाए यौन उत्पीड़न के आरोप, क्राइम ब्रांच करेगी जांच",
-          "summary": "तीन महिला पत्रकारों ने दिल्ली पुलिस अधिकारियों पर यौन उत्पीड़न का आरोप लगाया है। यह आरोप जंतर-मंतर पर हुए प्रदर्शन के दौरान लगाए गए हैं। दिल्ली पुलिस की क्राइम ब्रांच इस मामले की जांच करेगी। पुलिस अफसरों पर तीन महिला पत्रकारों ने लगाए यौन उत्पीड़न के आरोप, क्राइम ब्रांच करेगी जांच।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'कुछ दिखाई नहीं दे रहा', ATC ऑडियो से खुला सच, 2 मिनट में 13000 फीट नीचे गिरा प्लेन, अटलांटिक में",
-      "url": "https://hindi.news18.com/world/america-coming-in-blind-pilot-and-atc-conversation-before-medical-plane-crashed-into-atlantic-ocean-10884207.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T05:18:46+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Medical-Plane-2026-10-f239ba58e3e6e49517ebcd5c378002f6-1200x800.jpg",
-      "summary": "कनाडा की एयर एम्बुलेंस बोस्टन के लिए उड़ान भरते ही अटलांटिक में गिर गई। नानटकेट द्वीप के पास मलबा मिला। चार कनाडाई और दो बरमूडा नागरिक लापता हैं। तटरक्षक बल ने खोज अभियान शुरू किया है। Air Ambulance Crash: बरमूडा से मरीजों की जान बचाने का मिशन लेकर अमेरिका के बोस्टन के लिए उड़ी कनाडा की एक एयर एम्बुलेंस गहरे अटलांटिक महासागर में हादसे का शिकार हो गई.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'कुछ दिखाई नहीं दे रहा', ATC ऑडियो से खुला सच, 2 मिनट में 13000 फीट नीचे गिरा प्लेन, अटलांटिक में",
-          "summary": "कनाडा की एयर एम्बुलेंस बोस्टन के लिए उड़ान भरते ही अटलांटिक में गिर गई। नानटकेट द्वीप के पास मलबा मिला। चार कनाडाई और दो बरमूडा नागरिक लापता हैं। तटरक्षक बल ने खोज अभियान शुरू किया है। Air Ambulance Crash: बरमूडा से मरीजों की जान बचाने का मिशन लेकर अमेरिका के बोस्टन के लिए उड़ी कनाडा की एक एयर एम्बुलेंस गहरे अटलांटिक महासागर में हादसे का शिकार हो गई.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "नमाज की बात कहकर गया सह-पायलट: पीछे से किया हमला; मच्छार ने नेतन्याहू को बताया उस दिन क्या-क्या हुआ",
-      "url": "https://www.amarujala.com/world/co-pilot-left-citing-prayers-returned-and-attacked-captain-what-machar-tell-netanyahu-about-happened-that-day-2026-10-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-04T05:14:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/30/flydubai-mid-air-scare_f8030abd3b2c3c6a00c48a925d057cbb.jpeg?w=1200&dpr=1.0",
-      "summary": "सह-पायलट ने नमाज के बहाने कप्तान को पीछे छोड़ दिया। लौटकर उसने कप्तान पर हमला कर दिया। मच्छार ने नेतन्याहू को घटना के विवरण दिए। विमान नियंत्रण का सवाल उठा है। नमाज की बात कहकर गया सह-पायलट: पीछे से किया हमला; मच्छार ने नेतन्याहू को बताया उस दिन क्या-क्या हुआ।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नमाज की बात कहकर गया सह-पायलट: पीछे से किया हमला; मच्छार ने नेतन्याहू को बताया उस दिन क्या-क्या हुआ",
-          "summary": "सह-पायलट ने नमाज के बहाने कप्तान को पीछे छोड़ दिया। लौटकर उसने कप्तान पर हमला कर दिया। मच्छार ने नेतन्याहू को घटना के विवरण दिए। विमान नियंत्रण का सवाल उठा है। नमाज की बात कहकर गया सह-पायलट: पीछे से किया हमला; मच्छार ने नेतन्याहू को बताया उस दिन क्या-क्या हुआ।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप का 'ट्रंप कार्ड' और ईरान चित, रूस-चीन भी कुछ न कर पाए, बन न जाए सूडान",
-      "url": "https://hindi.news18.com/world/middle-east-iran-economy-crisis-inflation-nears-90-percent-as-us-tightens-squeeze-ws-l-10884316.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T05:05:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/iran-market-2026-10-bc2037546dc6c00070ab74ec5ded2596-1200x800.jpg",
-      "summary": "ईरान की अर्थव्यवस्था पर युद्ध का गहरा असर दिख रहा है। महंगाई का स्तर 90 फीसदी तक बढ़ चुका है। तेल से होने वाली कमाई लगभग बंद हो गई है। अमेरिका के दबाव में ईरान फंसा हुआ है। Iran Economy Crisis: अमेरिका के साथ लंबे समय से ईरान युद्ध में है. इसका असर अब उसकी अर्थव्यवस्था पर दिखाई देने लगा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप का 'ट्रंप कार्ड' और ईरान चित, रूस-चीन भी कुछ न कर पाए, बन न जाए सूडान",
-          "summary": "ईरान की अर्थव्यवस्था पर युद्ध का गहरा असर दिख रहा है। महंगाई का स्तर 90 फीसदी तक बढ़ चुका है। तेल से होने वाली कमाई लगभग बंद हो गई है। अमेरिका के दबाव में ईरान फंसा हुआ है। Iran Economy Crisis: अमेरिका के साथ लंबे समय से ईरान युद्ध में है. इसका असर अब उसकी अर्थव्यवस्था पर दिखाई देने लगा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मिसाइल‍ सिटी पर मंडरा रहा था अमेरिकी नेवी का फाइटर जेट, तभी ईरान ने चलाया 'ब्रह्मास्‍त्र' और काम",
-      "url": "https://hindi.news18.com/world/middle-east-iran-war-america-navy-fighter-jet-over-missile-city-qeshm-island-irgc-activate-air-defence-system-sayyad3-surface-to-air-missile-10884158.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T04:57:26+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/iran-missile-2-2026-10-ac9afd8ab19f884885439356c7457e43-1200x800.jpg",
-      "summary": "अमेरिका और इजरायल के हमले के बाद ईरान युद्ध जारी है। ट्रंप ने युद्ध के त्वरित अंत का दावा किया था। महीनों बाद भी शांति का कोई संकेत नहीं मिला। ऊर्जा संकट एशिया और यूरोप को झेलना पड़ रहा है। Iran War: अमेरिका और इजरायल ने जबसे ईरान पर अटैक किया है, पूरी दुनिया के माथे पर शिकन आ गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिसाइल‍ सिटी पर मंडरा रहा था अमेरिकी नेवी का फाइटर जेट, तभी ईरान ने चलाया 'ब्रह्मास्‍त्र' और काम",
-          "summary": "अमेरिका और इजरायल के हमले के बाद ईरान युद्ध जारी है। ट्रंप ने युद्ध के त्वरित अंत का दावा किया था। महीनों बाद भी शांति का कोई संकेत नहीं मिला। ऊर्जा संकट एशिया और यूरोप को झेलना पड़ रहा है। Iran War: अमेरिका और इजरायल ने जबसे ईरान पर अटैक किया है, पूरी दुनिया के माथे पर शिकन आ गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान युद्ध में इस्तेमाल हुआ था लजेस एयरबेस, अमेरिका की मदद कर बुरी तरह फंसा पुर्तगाल, भारी बवाल के",
-      "url": "https://www.patrika.com/world-news/portugal-lajes-airbase-us-iran-war-prosecutor-investigation-20957156",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-04T04:47:05+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/airbaseportugal.webp",
-      "summary": "पुर्तगाल में अमेरिकी सेना के लजेस एयरबेस उपयोग पर विवाद छिड़ा है। वामपंथी दलों ने सरकार पर बिना जांच अनुमति देने का आरोप लगाया। ईरान युद्ध में अमेरिका की मदद का सवाल उठा है। राजनीतिक बवाल बढ़ रहा है। Portugal US military agreement: पुर्तगाल में अमेरिका की ईरान युद्ध में मदद पर बड़ा विवाद छिड़ गया है। वामपंथी दलों ने सरकार पर आरोप लगाया है कि उसने बिना सही जांच के अमेरिकी सेना को लजेस एयरबेस इस्तेमाल करने की अनुमति दे दी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान युद्ध में इस्तेमाल हुआ था लजेस एयरबेस, अमेरिका की मदद कर बुरी तरह फंसा पुर्तगाल, भारी बवाल के",
-          "summary": "पुर्तगाल में अमेरिकी सेना के लजेस एयरबेस उपयोग पर विवाद छिड़ा है। वामपंथी दलों ने सरकार पर बिना जांच अनुमति देने का आरोप लगाया। ईरान युद्ध में अमेरिका की मदद का सवाल उठा है। राजनीतिक बवाल बढ़ रहा है। Portugal US military agreement: पुर्तगाल में अमेरिका की ईरान युद्ध में मदद पर बड़ा विवाद छिड़ गया है। वामपंथी दलों ने सरकार पर आरोप लगाया है कि उसने बिना सही जांच के अमेरिकी सेना को लजेस एयरबेस इस्तेमाल करने की अनुमति दे दी।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
