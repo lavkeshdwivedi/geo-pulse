@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-04T22:03:40.797748+00:00",
+  "generated_at": "2026-10-05T01:22:33.596403+00:00",
   "article_count": 50,
   "total_unique_count": 260,
   "digest": {
-    "en": "Brazil’s first-round vote pits Lula against Tarcísio in a razor-thin contest that tests the pro-Trump Latin American bloc. Simultaneously, Russia struck a Kyiv bridge while German Chancellor Merz visited the capital.",
-    "hi": "जर्मन चांसलर मर्ज कीव में एक अरब यूरो की सैन्य सहायता का वादा करते हुए रूसी ड्रोन हमलों का सामना कर रहे हैं। इसी समय सऊदी अरब और यमन के हूतियों के बीच नई लड़ाई शुरू हो गई है, जिसमें अमेरिकी सेना की भूमिका पर सवाल उठ रहे हैं।"
+    "en": "Brazil's first-round vote is counting live while Russia strikes a Kyiv bridge during Friedrich Merz's visit. The US pulled B-1 bombers from Fairford after a suspected terror threat. Yemen's presidency declared a full military drive to retake Houthi territory.",
+    "hi": "असम के मुख्यमंत्री हिमंत सरमा ने आज बाढ़ राहत में अखिल गोगोई को श्रेय नहीं देने का इरादा जताया, कहा कि मदद में पारदर्शिता होगी। विपक्षी दलों ने स्वतंत्र ऑडिट की मांग की, जबकि केंद्र ने अतिरिक्त 500 करोड़ रुपये तुरंत जारी करने का आश्वासन दिया।"
   },
   "articles": [
     {
@@ -12,10 +12,46 @@
       "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-10-04T19:01:28+00:00",
+      "published_at": "2026-10-05T00:24:55+00:00",
       "image_url": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d970472064b7fb20ba9817a1d292900",
       "summary": "Brazil holds its first-round presidential election, pitting incumbent Luiz Inácio Lula da Silva against Flávio Bolsonaro. The former president's son runs while his father remains imprisoned for plotting a coup. Candidates need over 50 percent of the vote to win outright. Luiz Inácio Lula da Silva is standing against Flávio Bolsonaro in the first round of the presidential raceThe incumbent, Luiz Inácio Lula da Silva, is up against Flávio Bolsonaro, the son of the former president Jair Bolsonaro, who is in prison for plotting a military coup.",
       "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "US removes B-1 bombers from UK's Fairford air base amid security concerns",
+      "url": "https://www.channelnewsasia.com/world/us-removes-bombers-uk-fairford-base-security-concerns-6431771",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-10-04T22:46:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--A5RiDJbi--/c_crop,h_449,w_799,x_1,y_16/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-04T212222Z_1_LYNXMPEM930KY_RTROPTP_3_BRITAIN-USA-FAIRFORD.JPG?itok=9Gw5WZuJ",
+      "summary": "The US Air Force withdrew all B-1 bombers from RAF Fairford in England. The move followed arrests of men suspected of plotting a terror attack on the base. Prime Minister Andy Burnham stated Britain had strong indications of Iranian involvement in the scheme. The planes' removal comes after several men were arrested on suspicion of a terror plot on the air base, with UK Prime Minister Andy Burnham saying that Britain had \"strong indications\" that Iran was involved in the suspected plot targeting the base.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack",
+      "url": "https://www.thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-04T22:30:39+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/kfm4e8/article71545019.ece/alternates/LANDSCAPE_1200/2026-09-29T121509Z_481150564_RC2ZSNAGWLWC_RTRMADP_3_BRITAIN-USA-FAIRFORD.JPG",
+      "summary": "US bombers were removed from RAF Fairford after a suspected terror plot targeting the facility. The base had been used to strike Iran. The withdrawal follows an investigation into the planned attack on the US-run military installation in England. The U. S. Air Force has brought home its bombers stationed at a U. S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nationalist Parties, Dodik Dominate Bosnian Election Amid Low Turnout",
+      "url": "https://www.rferl.org/a/bosnia-herzegovina-election-dodik-becirovic-filipovic-bosniak/33870171.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-04T22:20:58+00:00",
+      "image_url": "https://gdb.rferl.org/0008c22f-a9c4-47d7-ab71-4e5179ae0c22_cx0_cy4_cw0_w1200_h630.jpg",
+      "summary": "Milorad Dodik declared victory for his party in Bosnia's Serbian-led entity. Nationalist parties also won seats in the country's complex electoral system. Turnout was low. The results are likely to sustain high tensions across Bosnia and the wider region. Milorad Dodik, the Russia-friendly former leader of Bosnia-Herzegovina's Serbian-led entity, declared victory for his party in the region, with nationalist forces also scoring wins in Bosnia's complex electoral system -- results likely to keep tensions high in the country and the region.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -32,6 +68,18 @@
       "translations": {}
     },
     {
+      "title": "Yemen presidency announces military drive to retake all Houthi territory",
+      "url": "https://www.thehindu.com/news/international/yemen-presidency-announces-military-drive-to-retake-all-houthi-territory/article71544431.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-04T15:15:01+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/mjxx71/article71544437.ece/alternates/LANDSCAPE_1200/2026-10-04T135416Z_2043846249_RC2DWNAEDWQD_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG",
+      "summary": "Rashad al-Alimi announced military operations to retake all remaining Houthi-held territory in Yemen. The presidential council head stated the goal is to extend state authority across the entire national territory. The campaign aims to restore government control over the republic. I announce today the start of military operations to retake the remaining territories of the republic and extend the authority of the state and its institutions across the entire national territory, says Rashad al-Alimi, the head of Yemen's presidential council.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "How a film brought a UN report to life in Xochimilco",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168492",
       "source": "UN News",
@@ -40,18 +88,6 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/DSC02126%20(1).JPG/image770x420cropped.jpg",
       "summary": "A documentary based on United Nations University research screened at COP30 and European film festivals. The film returned to Xochimilco, the Mexico City canals where it was shot. This journey highlighted the local impact of the climate data presented in the report. A documentary drawn from United Nations University research was screened at the COP30 climate conference and film festivals across Europe.",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran's Foreign Minister tells U.S. there is no military solution to their conflict",
-      "url": "https://www.thehindu.com/news/international/irans-foreign-minister-tells-us-there-is-no-military-solution-to-their-conflict/article71543286.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-04T11:52:26+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/pivcnv/article71543314.ece/alternates/LANDSCAPE_1200/International.EGKHFJQPTN.3.jpg.jpg",
-      "summary": "Iranian Foreign Minister Abbas Araghchi told U. S. officials there is no military solution to the conflict. He warned that any renewed confrontation would trigger a stronger defensive response. The statement came during a meeting with foreign ambassadors. \"If our enemies again choose the path of military confrontation, our response will be stronger than before, and we will defend ourselves with even more force,\" Mr.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -124,18 +160,6 @@
       "image_url": "https://gdb.rferl.org/87B0F8DD-6991-4D49-B044-0D867C00FD50.jpg",
       "summary": "Residents of Russian-occupied Oleshky in Ukraine's Kherson region face starvation. Land mines and supply cutoffs have created a total blockade. Ukrainian officials describe the area as a starving ghost town. People in Russian-held Oleshky in Ukraine's Kherson region have endured war, occupation, and devastating flooding. Now, trapped by land mines and cut off from basic supplies, they face \"hell,\" starving in a virtual ghost town, Ukrainian officials and volunteers say.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-      "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-03T07:00:35+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/3b8cb6ae5c679bf69f33c5529917b47a2ca1b513/759_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32d4c5a62455a5ad8195635060ef4c83",
-      "summary": "Brazil holds a tight election pitting Lula against the son of a convicted former president. The race tests the growing pro-Trump bloc in Latin America. Trump recently gathered right-wing leaders to promote his regional agenda. The outcome will shape the continent's political alignment. Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of electionShortly after his controversial speech to the United Nations general assembly in September, Donald Trump gathered a dozen like-minded Latin American leaders and boasted that rightwing ca.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -248,18 +272,6 @@
       "translations": {}
     },
     {
-      "title": "Afghanistan’s TTP sanctuary is becoming harder to deny",
-      "url": "https://asiatimes.com/2026/10/afghanistans-ttp-sanctuary-is-becoming-harder-to-deny/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-10-01T12:15:03+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/TTP-Pakistan-Afghanistan.jpg",
-      "summary": "For years, Pakistan’s claim that the Tehreek-e-Taliban Pakistan operates from sanctuaries inside Afghanistan produced a familiar exchange: Islamabad accused, Kabul denied, and each new militant attack triggered another round of recrimination. That pattern is becoming harder to sustain. The sanctuary dispute can now be tested against a growing body of evidence rather than competing claims [] The p Afghanistan’s TTP sanctuary is becoming harder to deny.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
       "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
       "source": "The Guardian",
@@ -296,21 +308,9 @@
       "translations": {}
     },
     {
-      "title": "Arresting the Dangerous Descent Back into War in Northern Ethiopia",
-      "url": "https://www.crisisgroup.org/stm/africa/ethiopia-eritrea/arresting-dangerous-descent-back-war-northern-ethiopia",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-09-25T14:01:00+00:00",
-      "image_url": "https://images.pexels.com/photos/7785052/pexels-photo-7785052.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Armed opposition groups in Tigray, Amhara, and Afar launched a multi-pronged offensive against Ethiopian government forces. Long-simmering tensions escalated into large-scale fighting. The conflict threatens a return to costly, bloody war in northern Ethiopia. Long-simmering tensions have turned to large-scale fighting after armed opposition groups in Tigray, Amhara and Afar launched a multi-pronged offensive against Ethiopian government forces. It is not too late to avert a return to costly, bloody war.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "असम में बाढ़ राहत पर सियासत: सीएम सरमा बोले- अखिल गोगोई को श्रेय नहीं लेने दूंगा; मदद में क्यों हो",
       "url": "https://www.amarujala.com/india-news/financial-aid-to-flood-hit-people-delayed-as-i-won-t-let-akhil-gogoi-take-credit-for-it-himanta-2026-10-05",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-10-05T07:05:40+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/hamata-bsava-sarama_1d1529e74d31aa74b231a099cf169c6f.jpeg?w=1200&dpr=1.0",
@@ -326,56 +326,236 @@
       }
     },
     {
-      "title": "जीएसटी व्यवस्था में बड़ा बदलाव होने जा रहा, गिरफ्तारी के बदलेंगे ये नियम",
-      "url": "https://www.amarujala.com/video/business/business-diary/major-changes-are-coming-to-the-gst-regime-rules-regarding-arrests-will-be-revised-2026-10-05",
+      "title": "ईरान के एक ऐलान से अमेरिका की हालत हुई पतली, डर के मारे छोड़ा फारस की खाड़ी, ब्रिटेन से हटाए सभी",
+      "url": "https://hindi.news18.com/world/middle-east-iran-extend-missile-range-to-1000-kilometer-america-navy-force-went-back-1000-km-persian-gulf-withdrawn-12-b-1-bombers-from-britain-10885979.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-05T01:06:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/hormuz-strait-iran-2026-10-a9e53e9306372cb55998311c5a9d5f4d-1200x800.jpg",
+      "summary": "अमेरिका ने ईरान के नए ऐलान के बाद फारस की खाड़ी से अपनी सैन्य उपस्थिति हटा ली। ब्रिटेन के RAF Fairford एयर बेस से भी सभी यूएसए सैनिकों को वापस बुलाया गया। यह कदम ईरानी मिसाइलों की पहुंच से बचने के लिए उठा गया। Iran-America War: अमेरिका और ईरान के बीच चल रही जंग खतरनाक मोड़ तक पहुंच गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के एक ऐलान से अमेरिका की हालत हुई पतली, डर के मारे छोड़ा फारस की खाड़ी, ब्रिटेन से हटाए सभी",
+          "summary": "अमेरिका ने ईरान के नए ऐलान के बाद फारस की खाड़ी से अपनी सैन्य उपस्थिति हटा ली। ब्रिटेन के RAF Fairford एयर बेस से भी सभी यूएसए सैनिकों को वापस बुलाया गया। यह कदम ईरानी मिसाइलों की पहुंच से बचने के लिए उठा गया। Iran-America War: अमेरिका और ईरान के बीच चल रही जंग खतरनाक मोड़ तक पहुंच गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "विदेशी सड़कों पर बढ़ी हिंदुस्तानी वाहन की मांग, अप्रैल से जुलाई के बीच 20.19 लाख वाहन बिके",
+      "url": "https://www.amarujala.com/automobiles/demand-for-indian-vehicles-rising-on-foreign-roads-over-2-million-vehicles-sold-between-april-and-july-2026-10-05",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-04T21:59:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/gst-rules-change_afff12fcf19349dcfe6b464af31b6eea.jpeg?w=1200&dpr=1.0",
-      "summary": "जीएसटी नियमों में बदलाव की संभावना है। नए नियमों में गिरफ्तारी से जुड़े प्रावधानों में संशोधन किया जा सकता है। यह बदलाव करदाताओं के लिए राहत देने का उद्देश्य रखता है। जीएसटी व्यवस्था में बड़ा बदलाव होने जा रहा, गिरफ्तारी के बदलेंगे ये नियम।",
+      "published_at": "2026-10-05T00:57:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/indian-car-bike_7e4a1f5f66d72716a3d85003e5cdb69d.jpeg?w=1200&dpr=1.0",
+      "summary": "अप्रैल से जुलाई के बीच भारत से विदेशों में 20.19 लाख वाहन बिके। यह आंकड़ा पिछले वर्ष की तुलना में उल्लेखनीय वृद्धि दर्शाता है। भारतीय वाहनों की मांग अंतरराष्ट्रीय बाजारों में लगातार बढ़ रही है। भारत का परचम: विदेशी सड़कों पर बढ़ी हिंदुस्तानी वाहन की मांग, अप्रैल से जुलाई के बीच 20.19 लाख वाहन बिके।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विदेशी सड़कों पर बढ़ी हिंदुस्तानी वाहन की मांग, अप्रैल से जुलाई के बीच 20.19 लाख वाहन बिके",
+          "summary": "अप्रैल से जुलाई के बीच भारत से विदेशों में 20.19 लाख वाहन बिके। यह आंकड़ा पिछले वर्ष की तुलना में उल्लेखनीय वृद्धि दर्शाता है। भारतीय वाहनों की मांग अंतरराष्ट्रीय बाजारों में लगातार बढ़ रही है। भारत का परचम: विदेशी सड़कों पर बढ़ी हिंदुस्तानी वाहन की मांग, अप्रैल से जुलाई के बीच 20.19 लाख वाहन बिके।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दुनिया एक और तबाही के लिए रहे तैयार? लैब से निकला 'कोरोना' का भाई, रूस में हो गया वुहान वाला कांड",
+      "url": "https://hindi.news18.com/world/europe-russia-mysterious-infection-suspected-virus-outbreak-researcher-at-russian-plague-laboratory-dies-10885976.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-05T00:45:26+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/russia-lab-2026-10-4024351d4038e15b5990b42793268827-1200x800.jpg",
+      "summary": "रूस की एंटी-प्लेग रिसर्च शाखा में एक शोधकर्ता की अज्ञात वायरस संक्रमण से मौत हो गई। यह संक्रमण अभी तक पहचाना नहीं जा सका है। स्थिति को गंभीरता से लिया जा रहा है। Russia Mysterious Virus Outbreak: दुनिया ने साल 2021 में जो महामारी की तबाही देखी है, वो अब तक भूली नहीं है. इसी बीच ऐसे ही एक इंफेक्शन की खबरें रूस से आ रही हैं, जिसे अब तक पहचाना भी नहीं जा पाया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुनिया एक और तबाही के लिए रहे तैयार? लैब से निकला 'कोरोना' का भाई, रूस में हो गया वुहान वाला कांड",
+          "summary": "रूस की एंटी-प्लेग रिसर्च शाखा में एक शोधकर्ता की अज्ञात वायरस संक्रमण से मौत हो गई। यह संक्रमण अभी तक पहचाना नहीं जा सका है। स्थिति को गंभीरता से लिया जा रहा है। Russia Mysterious Virus Outbreak: दुनिया ने साल 2021 में जो महामारी की तबाही देखी है, वो अब तक भूली नहीं है. इसी बीच ऐसे ही एक इंफेक्शन की खबरें रूस से आ रही हैं, जिसे अब तक पहचाना भी नहीं जा पाया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "नौसैनिक ने पाकिस्तान को भेजी खुफिया रक्षा जानकारी; सोशल मीडिया के जाल में कैसे फंसा प्रदीप?",
+      "url": "https://www.amarujala.com/india-news/navy-sailor-honeytrap-leaked-sensitive-defence-information-to-pakistan-arrested-2026-10-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-05T00:38:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/16/arrest_a3e4080256ce86b4f764e243cea99a20.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय नौसेना के एक अधिकारी ने पाकिस्तान को खुफिया रक्षा जानकारी भेजी। यह जानकारी सोशल मीडिया के जाल में फंसने के बाद लीक हुई। मामला हनीट्रैप के रूप में दर्ज है। हनीट्रैप: नौसैनिक ने पाकिस्तान को भेजी खुफिया रक्षा जानकारी; सोशल मीडिया के जाल में कैसे फंसा प्रदीप?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नौसैनिक ने पाकिस्तान को भेजी खुफिया रक्षा जानकारी; सोशल मीडिया के जाल में कैसे फंसा प्रदीप?",
+          "summary": "भारतीय नौसेना के एक अधिकारी ने पाकिस्तान को खुफिया रक्षा जानकारी भेजी। यह जानकारी सोशल मीडिया के जाल में फंसने के बाद लीक हुई। मामला हनीट्रैप के रूप में दर्ज है। हनीट्रैप: नौसैनिक ने पाकिस्तान को भेजी खुफिया रक्षा जानकारी; सोशल मीडिया के जाल में कैसे फंसा प्रदीप?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सीईपीए बातचीत का पांचवां दौर शुरू, मुख्य चुनाव आयुक्त के अधिकारों को चुनौती वाली याचिका पर सुनवाई",
+      "url": "https://www.amarujala.com/india-news/05-october-2026-major-event-2026-2026-10-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-05T00:31:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/aaja-ka-khabra_0ea0601cebcddc2d368afbce33b4c3cf.gif?w=1200&dpr=1.0",
+      "summary": "सीईपीए बातचीत का पांचवां दौर शुरू हो गया। इसी दिन मुख्य चुनाव आयुक्त के अधिकारों को चुनौती देने वाली याचिका पर सुनवाई भी हुई। दोनों घटनाक्रम एक ही दिन में सामने आए। नमस्कार! आज है सोमवार, 05 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं सीईपीए बातचीत का पांचवां दौर शुरू, मुख्य चुनाव आयुक्त के अधिकारों को चुनौती वाली याचिका पर सुनवाई।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जीएसटी व्यवस्था में बड़ा बदलाव होने जा रहा, गिरफ्तारी के बदलेंगे ये नियम",
-          "summary": "जीएसटी नियमों में बदलाव की संभावना है। नए नियमों में गिरफ्तारी से जुड़े प्रावधानों में संशोधन किया जा सकता है। यह बदलाव करदाताओं के लिए राहत देने का उद्देश्य रखता है। जीएसटी व्यवस्था में बड़ा बदलाव होने जा रहा, गिरफ्तारी के बदलेंगे ये नियम।",
+          "title": "सीईपीए बातचीत का पांचवां दौर शुरू, मुख्य चुनाव आयुक्त के अधिकारों को चुनौती वाली याचिका पर सुनवाई",
+          "summary": "सीईपीए बातचीत का पांचवां दौर शुरू हो गया। इसी दिन मुख्य चुनाव आयुक्त के अधिकारों को चुनौती देने वाली याचिका पर सुनवाई भी हुई। दोनों घटनाक्रम एक ही दिन में सामने आए। नमस्कार! आज है सोमवार, 05 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं सीईपीए बातचीत का पांचवां दौर शुरू, मुख्य चुनाव आयुक्त के अधिकारों को चुनौती वाली याचिका पर सुनवाई।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "शरद पूर्णिमा की रात क्यों जागते हैं भक्त? कोजागर पूजा से जुड़ी लक्ष्मी कृपा की मान्यता जानें",
-      "url": "https://www.amarujala.com/spirituality/religion/kojagara-puja-on-sharad-purnima-why-do-devotees-keep-vigil-at-night-know-the-religious-belief-2026-10-03",
+      "title": "Weather Forecast 05 October 2026: देखिए क्या है आपके यहां मौसम का हाल",
+      "url": "https://www.amarujala.com/video/india-news/weather-forecast-05-october-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-10-05",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-04T21:20:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/sharad-purnima_8aaa24c28ed0bc1cfb386b6714310ad6.jpeg?w=1200&dpr=1.0",
-      "summary": "शरद पूर्णिमा की रात कोजागर पूजा का पर्व मनाया जाता है। मान्यता है कि इस रात जागरण करने से मां लक्ष्मी की कृपा प्राप्त होती है। भक्त इस दिन देवी की आराधना करते हैं। शरद पूर्णिमा की रात को धार्मिक दृष्टि से बेहद खास माना जाता है। मान्यता है कि इस रात कोजागर पूजा करने और जागरण करने से मां लक्ष्मी की कृपा प्राप्त होती है।",
+      "published_at": "2026-10-05T00:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/weather-forecast_4039bf6d373f37c8df44a770d9ebce4f.jpeg?w=1200&dpr=1.0",
+      "summary": "मौसम विभाग ने पांच अक्टूबर 2026 के लिए देशभर का मौसम पूर्वानुमान जारी किया है। इसमें विभिन्न क्षेत्रों के लिए तापमान और वर्षा की संभावनाओं का विवरण दिया गया है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "शरद पूर्णिमा की रात क्यों जागते हैं भक्त? कोजागर पूजा से जुड़ी लक्ष्मी कृपा की मान्यता जानें",
-          "summary": "शरद पूर्णिमा की रात कोजागर पूजा का पर्व मनाया जाता है। मान्यता है कि इस रात जागरण करने से मां लक्ष्मी की कृपा प्राप्त होती है। भक्त इस दिन देवी की आराधना करते हैं। शरद पूर्णिमा की रात को धार्मिक दृष्टि से बेहद खास माना जाता है। मान्यता है कि इस रात कोजागर पूजा करने और जागरण करने से मां लक्ष्मी की कृपा प्राप्त होती है।",
+          "title": "Weather Forecast 05 October 2026: देखिए क्या है आपके यहां मौसम का हाल",
+          "summary": "मौसम विभाग ने पांच अक्टूबर 2026 के लिए देशभर का मौसम पूर्वानुमान जारी किया है। इसमें विभिन्न क्षेत्रों के लिए तापमान और वर्षा की संभावनाओं का विवरण दिया गया है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "शारदीय नवरात्रि और महिषासुर वध का क्या है संबंध? जानें मां दुर्गा की विजय की पूरी पौराणिक कथा",
-      "url": "https://www.amarujala.com/spirituality/religion/sharadiya-navratri-and-mahishasura-vadh-know-the-mythological-story-of-maa-durga-s-victory-2026-10-03",
+      "title": "बाजार गिरा तो याद आई एफडी, पोर्टफोलियो में 90% इक्विटी: एसआईपी रोकें या री-बैलेंसिंग है रास्ता?",
+      "url": "https://www.amarujala.com/business/bonus/mutual-fund-sip-90-percent-equity-portfolio-market-fall-rebalance-or-stop-sip-2026-10-05",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-04T21:19:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/mahashhasara-vathha_9c36ef5cdcfcceb675a0f74ea624a26e.jpeg?w=1200&dpr=1.0",
-      "summary": "शारदीय नवरात्रि में मां दुर्गा के नौ स्वरूपों की पूजा होती है। पौराणिक कथा के अनुसार इसी अवधि में देवी ने महिषासुर का वध किया। इससे धर्म की अधर्म पर विजय हुई। शारदीय नवरात्रि में मां दुर्गा के नौ स्वरूपों की पूजा की जाती है। मान्यता है कि इसी दौरान देवी ने महिषासुर का वध कर अधर्म पर धर्म की विजय स्थापित की थी।",
+      "published_at": "2026-10-05T00:19:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/bcana-bjarana-dara-na-bhaga-esaaaiipa-bthal_ac4e77c11c1cc27c41beabf60e24642c.jpeg?w=1200&dpr=1.0",
+      "summary": "बाजार में गिरावट के बाद निवेशकों ने फिक्स्ड डिपॉजिट की ओर रुख किया। 90 प्रतिशत इक्विटी वाले पोर्टफोलियो में एसआईपी रोकने या री-बैलेंसिंग के विकल्प पर चर्चा हो रही है। बाजार गिरा तो याद आई एफडी, पोर्टफोलियो में 90% इक्विटी: एसआईपी रोकें या री-बैलेंसिंग है रास्ता?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "शारदीय नवरात्रि और महिषासुर वध का क्या है संबंध? जानें मां दुर्गा की विजय की पूरी पौराणिक कथा",
-          "summary": "शारदीय नवरात्रि में मां दुर्गा के नौ स्वरूपों की पूजा होती है। पौराणिक कथा के अनुसार इसी अवधि में देवी ने महिषासुर का वध किया। इससे धर्म की अधर्म पर विजय हुई। शारदीय नवरात्रि में मां दुर्गा के नौ स्वरूपों की पूजा की जाती है। मान्यता है कि इसी दौरान देवी ने महिषासुर का वध कर अधर्म पर धर्म की विजय स्थापित की थी।",
+          "title": "बाजार गिरा तो याद आई एफडी, पोर्टफोलियो में 90% इक्विटी: एसआईपी रोकें या री-बैलेंसिंग है रास्ता?",
+          "summary": "बाजार में गिरावट के बाद निवेशकों ने फिक्स्ड डिपॉजिट की ओर रुख किया। 90 प्रतिशत इक्विटी वाले पोर्टफोलियो में एसआईपी रोकने या री-बैलेंसिंग के विकल्प पर चर्चा हो रही है। बाजार गिरा तो याद आई एफडी, पोर्टफोलियो में 90% इक्विटी: एसआईपी रोकें या री-बैलेंसिंग है रास्ता?",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "₹5 करोड़ से ज्यादा की टैक्स चोरी पर ही चलेगा आपराधिक केस? ये नियम भी बदलेंगे",
+      "url": "https://www.amarujala.com/business/business-diary/gst-reforms-arrest-powers-prosecution-limit-five-crore-2026-10-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-05T00:12:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/jaesata_0eac7938507fb4c76994418ad8c45f95.jpeg?w=1200&dpr=1.0",
+      "summary": "जीएसटी 2.0 में संभावित बदलाव के तहत पांच करोड़ रुपये से अधिक की टैक्स चोरी पर ही आपराधिक केस दर्ज होंगे। अन्य नियमों में भी संशोधन की संभावना जताई गई है। जीएसटी 2.0 में बदलाव संभव: ₹5 करोड़ से ज्यादा की टैक्स चोरी पर ही चलेगा आपराधिक केस? ये नियम भी बदलेंगे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "₹5 करोड़ से ज्यादा की टैक्स चोरी पर ही चलेगा आपराधिक केस? ये नियम भी बदलेंगे",
+          "summary": "जीएसटी 2.0 में संभावित बदलाव के तहत पांच करोड़ रुपये से अधिक की टैक्स चोरी पर ही आपराधिक केस दर्ज होंगे। अन्य नियमों में भी संशोधन की संभावना जताई गई है। जीएसटी 2.0 में बदलाव संभव: ₹5 करोड़ से ज्यादा की टैक्स चोरी पर ही चलेगा आपराधिक केस? ये नियम भी बदलेंगे।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'नीरजा' से लेकर 'धुरंधर' तक, इन फिल्मों में दिखी प्लेन हाईजैक की दास्तान",
+      "url": "https://www.amarujala.com/entertainment/bollywood/bollywood-movies-based-on-plane-hijack-stories-from-neerja-and-yodha-to-zameen-and-bell-bottom-2026-10-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-05T00:07:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/palna-haiijaka-val-falma_0836ecfd141b5fe791b72c6b3d2d9ba8.jpeg?w=1200&dpr=1.0",
+      "summary": "बॉलीवुड ने प्लेन हाईजैक को देशभक्ति और जासूसी के नजरिए से प्रस्तुत किया है। नीरजा और धुरंधर जैसी फिल्मों में इस घटना को जज्बातों और संघर्ष के साथ दिखाया गया है। बॉलीवुड ने प्लेन हाईजैक जैसी घटनाओं को कभी देशभक्ति और जासूसी के नजरिए से दिखाया, तो कभी इसमें जज्बातों और संघर्ष को जगह दी। आइए जानते हैं उन बॉलीवुड फिल्मों के बारे में, जिनमें प्लेन हाईजैक की कहानी दिखाई गई है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'नीरजा' से लेकर 'धुरंधर' तक, इन फिल्मों में दिखी प्लेन हाईजैक की दास्तान",
+          "summary": "बॉलीवुड ने प्लेन हाईजैक को देशभक्ति और जासूसी के नजरिए से प्रस्तुत किया है। नीरजा और धुरंधर जैसी फिल्मों में इस घटना को जज्बातों और संघर्ष के साथ दिखाया गया है। बॉलीवुड ने प्लेन हाईजैक जैसी घटनाओं को कभी देशभक्ति और जासूसी के नजरिए से दिखाया, तो कभी इसमें जज्बातों और संघर्ष को जगह दी। आइए जानते हैं उन बॉलीवुड फिल्मों के बारे में, जिनमें प्लेन हाईजैक की कहानी दिखाई गई है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पांचवें दौर की बातचीत आज से, 2026 के अंत तक समझौता पूरा करने का लक्ष्य",
+      "url": "https://www.amarujala.com/world/india-canada-cepa-fifth-round-trade-talks-from-tomorrow-ottawa-october-2026-pm-modi-mark-carney-2026-10-04",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-05T00:03:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/india-canada-trade-talks_258bb5693687511c3e00e8563face374.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत और कनाडा के बीच व्यापार वार्ता का पांचवां दौर आज से शुरू हो रहा है। दोनों देशों का लक्ष्य 2026 के अंत तक सीमा पार आर्थिक साझेदारी समझौता पूरा करना है। पांचवें दौर की बातचीत आज से, 2026 के अंत तक समझौता पूरा करने का लक्ष्य।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पांचवें दौर की बातचीत आज से, 2026 के अंत तक समझौता पूरा करने का लक्ष्य",
+          "summary": "भारत और कनाडा के बीच व्यापार वार्ता का पांचवां दौर आज से शुरू हो रहा है। दोनों देशों का लक्ष्य 2026 के अंत तक सीमा पार आर्थिक साझेदारी समझौता पूरा करना है। पांचवें दौर की बातचीत आज से, 2026 के अंत तक समझौता पूरा करने का लक्ष्य।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अब कब खेलते हुए नजर आएंगे रोहित-कोहली: विंडीज सीरीज में दिखा दोनों बल्लेबाजों का दम, किस टीम के",
+      "url": "https://www.amarujala.com/photo-gallery/cricket/cricket-news/when-will-rohit-sharma-and-virat-kohli-be-seen-in-action-next-which-team-will-they-face-know-all-details-2026-10-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-04T23:51:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/ind_75896e48ce27120dd4f82bb9d6383763.jpeg?w=1200&dpr=1.0",
+      "summary": "रोहित शर्मा और विराट कोहली ने वेस्टइंडीज के खिलाफ वनडे सीरीज में अच्छा प्रदर्शन किया। दोनों अब केवल वनडे फॉर्मेट में खेलते हैं। फैंस अब उनके अगले मैच का इंतजार कर रहे हैं। रोहित शर्मा और विराट कोहली ने हाल ही में वेस्टइंडीज के खिलाफ वनडे सीरीज में हिस्सा लिया। इन दोनों के लिए ये सीरीज शानदार रही। अब रोहित-कोहली सिर्फ भारत के लिए वनडे में ही खेलते हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अब कब खेलते हुए नजर आएंगे रोहित-कोहली: विंडीज सीरीज में दिखा दोनों बल्लेबाजों का दम, किस टीम के",
+          "summary": "रोहित शर्मा और विराट कोहली ने वेस्टइंडीज के खिलाफ वनडे सीरीज में अच्छा प्रदर्शन किया। दोनों अब केवल वनडे फॉर्मेट में खेलते हैं। फैंस अब उनके अगले मैच का इंतजार कर रहे हैं। रोहित शर्मा और विराट कोहली ने हाल ही में वेस्टइंडीज के खिलाफ वनडे सीरीज में हिस्सा लिया। इन दोनों के लिए ये सीरीज शानदार रही। अब रोहित-कोहली सिर्फ भारत के लिए वनडे में ही खेलते हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सुप्रीम कोर्ट में सीईसी का केस; भारत-कनाडा व्यापार वार्ता; अविनाश मिश्रा जीते खतरों के खिलाड़ी 15",
+      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-5-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-04T23:47:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट में सीईसी का मामला सुनवाई के लिए आया है। भारत और कनाडा के बीच व्यापार वार्ता चल रही है। अविनाश मिश्रा ने खतरों के खिलाड़ी 15 का खिताब जीता। सुर्खियां: सुप्रीम कोर्ट में सीईसी का केस; भारत-कनाडा व्यापार वार्ता; अविनाश मिश्रा जीते खतरों के खिलाड़ी 15।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुप्रीम कोर्ट में सीईसी का केस; भारत-कनाडा व्यापार वार्ता; अविनाश मिश्रा जीते खतरों के खिलाड़ी 15",
+          "summary": "सुप्रीम कोर्ट में सीईसी का मामला सुनवाई के लिए आया है। भारत और कनाडा के बीच व्यापार वार्ता चल रही है। अविनाश मिश्रा ने खतरों के खिलाड़ी 15 का खिताब जीता। सुर्खियां: सुप्रीम कोर्ट में सीईसी का केस; भारत-कनाडा व्यापार वार्ता; अविनाश मिश्रा जीते खतरों के खिलाड़ी 15।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका ने आरएएफ फेयरफोर्ड एयरबेस से हटाए सभी बमवर्षक: क्यों उठाया यह कदम; ट्रंप ने ईरान पर अब क्या",
+      "url": "https://www.amarujala.com/world/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-suspected-terror-attack-2026-10-05",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-04T23:19:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/22/b-2-bomber_034346486c6efa69ba063f96b3fdf196.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका ने आरएएफ फेयरफोर्ड एयरबेस से सभी बमवर्षक हटा दिए हैं। इस कदम के पीछे की वजह स्पष्ट नहीं है। ट्रंप ने ईरान पर नया बयान दिया है। अमेरिका ने आरएएफ फेयरफोर्ड एयरबेस से हटाए सभी बमवर्षक: क्यों उठाया यह कदम; ट्रंप ने ईरान पर अब क्या कहा?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका ने आरएएफ फेयरफोर्ड एयरबेस से हटाए सभी बमवर्षक: क्यों उठाया यह कदम; ट्रंप ने ईरान पर अब क्या",
+          "summary": "अमेरिका ने आरएएफ फेयरफोर्ड एयरबेस से सभी बमवर्षक हटा दिए हैं। इस कदम के पीछे की वजह स्पष्ट नहीं है। ट्रंप ने ईरान पर नया बयान दिया है। अमेरिका ने आरएएफ फेयरफोर्ड एयरबेस से हटाए सभी बमवर्षक: क्यों उठाया यह कदम; ट्रंप ने ईरान पर अब क्या कहा?",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -394,60 +574,6 @@
           "title": "यूएई ने इस्राइल को दी थी फ्लाईदुबई की पूरी जानकारी: सह-पायलट का नाम भी था, फिर खतरा क्यों नहीं दिखा?",
           "summary": "यूएई ने इस्राइल को फ्लाईदुबई के सह-पायलट की पहचान समेत पूरी जानकारी दी थी। फिर भी इस्राइल ने खतरा नहीं पहचाना। यह घटना विमानन सुरक्षा प्रोटोकॉल पर सवाल खड़े करती है। यूएई ने इस्राइल को दी थी फ्लाईदुबई की पूरी जानकारी: सह-पायलट का नाम भी था, फिर खतरा क्यों नहीं दिखा?",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सरकार ने नेचुरल गैस की सीलिंग प्राइस बढ़ाई, CNG-PNG की कीमतों पर पड़ेगा असर?",
-      "url": "https://www.amarujala.com/video/business/government-raises-natural-gas-ceiling-price-will-it-impact-cng-and-png-prices-2026-10-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-04T21:04:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/05/natural-gas-price-hike_80f509296e748103842bb78e379126ef.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत सरकार ने नेचुरल गैस की सीलिंग प्राइस में वृद्धि की है। इस फैसले से सीएनजी और पीएनजी की उपभोक्ता कीमतों पर प्रभाव पड़ने की संभावना है। ऊर्जा खपत के पैटर्न पर इसका असर दिखेगा। सरकार ने नेचुरल गैस की सीलिंग प्राइस बढ़ाई, CNG-PNG की कीमतों पर पड़ेगा असर?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सरकार ने नेचुरल गैस की सीलिंग प्राइस बढ़ाई, CNG-PNG की कीमतों पर पड़ेगा असर?",
-          "summary": "भारत सरकार ने नेचुरल गैस की सीलिंग प्राइस में वृद्धि की है। इस फैसले से सीएनजी और पीएनजी की उपभोक्ता कीमतों पर प्रभाव पड़ने की संभावना है। ऊर्जा खपत के पैटर्न पर इसका असर दिखेगा। सरकार ने नेचुरल गैस की सीलिंग प्राइस बढ़ाई, CNG-PNG की कीमतों पर पड़ेगा असर?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "WhatsApp हैक होने पर इन टिप्स को फॉलो कर चंद मिनटों में वापस पाएं अपना अकाउंट!",
-      "url": "https://www.amarujala.com/video/technology/tip-of-the-day/if-your-whatsapp-gets-hacked-follow-these-tips-to-recover-your-account-in-just-a-few-minutes-2026-10-05",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-04T20:15:03+00:00",
-      "image_url": "https://images.pexels.com/photos/20716657/pexels-photo-20716657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "व्हाट्सएप अकाउंट हैक होने पर त्वरित पुनर्प्राप्ति के लिए सुरक्षा टिप्स का पालन करना ज़रूरी है। कुछ ही मिनटों में अकाउंट वापस पाने की प्रक्रिया शुरू की जा सकती है। डेटा सुरक्षा के लिए यह कदम कारगर है। WhatsApp हैक होने पर इन टिप्स को फॉलो कर चंद मिनटों में वापस पाएं अपना अकाउंट!",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "WhatsApp हैक होने पर इन टिप्स को फॉलो कर चंद मिनटों में वापस पाएं अपना अकाउंट!",
-          "summary": "व्हाट्सएप अकाउंट हैक होने पर त्वरित पुनर्प्राप्ति के लिए सुरक्षा टिप्स का पालन करना ज़रूरी है। कुछ ही मिनटों में अकाउंट वापस पाने की प्रक्रिया शुरू की जा सकती है। डेटा सुरक्षा के लिए यह कदम कारगर है। WhatsApp हैक होने पर इन टिप्स को फॉलो कर चंद मिनटों में वापस पाएं अपना अकाउंट!",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिंह, कन्या और मकर वालों के करियर में बनेंगे नए रास्ते, टैरो कार्ड दे रहे खास संकेत",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/tarot/weekly-tarot-horoscope-tarot-card-rashifal-05-11-october-predictions-for-aries-to-pisces-all-zodiac-signs-2026-10-04",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-04T19:45:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/sapatahaka-tara-rashafal_62c5a5f16d465311054938ada9007111.jpeg?w=1200&dpr=1.0",
-      "summary": "पांच से ग्यारह अक्टूबर 2026 के सप्ताह में टैरो कार्ड विशेष संकेत दे रहे हैं। सिंह, कन्या और मकर राशि वालों के करियर में नए रास्ते खुलने की संभावना है। ग्रहों की ऊर्जा का प्रभाव स्पष्ट दिखेगा। 5 से 11 अक्तूबर 2026 का सप्ताह सभी 12 राशियों के लिए टैरो कार्ड के लिहाज से खास संकेत लेकर आ सकता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंह, कन्या और मकर वालों के करियर में बनेंगे नए रास्ते, टैरो कार्ड दे रहे खास संकेत",
-          "summary": "पांच से ग्यारह अक्टूबर 2026 के सप्ताह में टैरो कार्ड विशेष संकेत दे रहे हैं। सिंह, कन्या और मकर राशि वालों के करियर में नए रास्ते खुलने की संभावना है। ग्रहों की ऊर्जा का प्रभाव स्पष्ट दिखेगा। 5 से 11 अक्तूबर 2026 का सप्ताह सभी 12 राशियों के लिए टैरो कार्ड के लिहाज से खास संकेत लेकर आ सकता है।",
-          "region": "दुनिया"
         }
       }
     },
@@ -628,132 +754,6 @@
           "title": "'आप कैप्टन स्मित के देश से हैं', इजरायल में भारतीयों का बढ़ा रुतबा, क्या कह रहे इजरायली?",
           "summary": "फ्लाईदुबई के कैप्टन स्मित मच्छर की बहादुरी के बाद इजरायल में भारतीय पर्यटकों को खास सम्मान मिल रहा है। तेल अवीव और यरुशलम में स्थानीय लोग भारतीयों से कहते हैं कि वे कैप्टन स्मित के देश से हैं। इस घटना ने भारतीयों के प्रति प्यार और अपनापन बढ़ाया है। फ्लाईदुबई की फ्लाइट में भारतीय कैप्टन स्मित मच्छर की बहादुरी के बाद इजरायल में भारतीय पर्यटकों को खास सम्मान मिल रहा है.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने बनाई सुपर इंटेलिजेंस फोर्स, AI की दुनिया में मचा तहलका, सीधे राष्ट्रपति को करेगी रिपोर्ट",
-      "url": "https://hindi.news18.com/world/america-donald-trump-forms-super-intelligence-force-ai-us-global-lead-in-artificial-intelligence-10885500.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T14:03:09+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/super-intelligence-force-2026-10-4cce3e3aed695451101bbf1c6fb533f8-1200x800.jpg",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस क्षेत्र में देश के दबदबे के लिए सुपर इंटेलिजेंस फोर्स बनाने का ऐलान किया है। यह टास्क फोर्स AI कंपनियों और सरकारी संस्थाओं के बीच संपर्क का तालमेल बैठाएगी। यह निकाय सीधे राष्ट्रपति को रिपोर्ट करेगा। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस के क्षेत्र में देश का दबदबा बनाए रखने के लिए सुपर इंटेलिजेंस फोर्स (SIF) बनाने का ऐलान किया है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने बनाई सुपर इंटेलिजेंस फोर्स, AI की दुनिया में मचा तहलका, सीधे राष्ट्रपति को करेगी रिपोर्ट",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस क्षेत्र में देश के दबदबे के लिए सुपर इंटेलिजेंस फोर्स बनाने का ऐलान किया है। यह टास्क फोर्स AI कंपनियों और सरकारी संस्थाओं के बीच संपर्क का तालमेल बैठाएगी। यह निकाय सीधे राष्ट्रपति को रिपोर्ट करेगा। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने आर्टिफिशियल इंटेलिजेंस के क्षेत्र में देश का दबदबा बनाए रखने के लिए सुपर इंटेलिजेंस फोर्स (SIF) बनाने का ऐलान किया है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन-रूस जंग खत्म कराने में एक्टिव हुआ भारत, पुतिन और जेलेंस्की को दी सीधी बातचीत की नसीहत",
-      "url": "https://hindi.news18.com/news/nation/india-active-to-end-russia-ukraine-war-advises-vladimir-putin-and-volodymyr-zelenskyy-to-hold-direct-talks-10885469.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T13:47:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/S-Jaishankar-2026-10-e54a302f279acc8f5e592aaff611a74e-1200x800.jpg",
-      "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि भारत रूस और यूक्रेन के बीच युद्ध समाप्त करने के लिए सक्रिय मध्यस्थ की भूमिका निभा रहा है। भारत दोनों देशों के साथ लगातार संपर्क में है और ठोस रास्तों पर बातचीत कर रहा है। जयशंकर ने सीधी बातचीत की नसीहत दी। Russia Ukraine War: रूस और यूक्रेन के बीच जारी खूनी संघर्ष को थामने के लिए भारत अब सिर्फ मूक दर्शक या शांति की अपील करने वाला देश नहीं रहा, बल्कि समाधान की मेज पर बेहद सक्रिय मध्यस्थ की भूमिका निभा रहा है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन-रूस जंग खत्म कराने में एक्टिव हुआ भारत, पुतिन और जेलेंस्की को दी सीधी बातचीत की नसीहत",
-          "summary": "विदेश मंत्री एस. जयशंकर ने कहा कि भारत रूस और यूक्रेन के बीच युद्ध समाप्त करने के लिए सक्रिय मध्यस्थ की भूमिका निभा रहा है। भारत दोनों देशों के साथ लगातार संपर्क में है और ठोस रास्तों पर बातचीत कर रहा है। जयशंकर ने सीधी बातचीत की नसीहत दी। Russia Ukraine War: रूस और यूक्रेन के बीच जारी खूनी संघर्ष को थामने के लिए भारत अब सिर्फ मूक दर्शक या शांति की अपील करने वाला देश नहीं रहा, बल्कि समाधान की मेज पर बेहद सक्रिय मध्यस्थ की भूमिका निभा रहा है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "'मैं ज्ञानेश कुमार के खिलाफ कानूनी कार्रवाई के विरोध में हूं', अभिषेक मनु सिंघवी का बड़ा बयान",
-      "url": "https://www.abplive.com/news/india/abhishek-manu-singhvi-says-i-am-against-legal-action-on-cec-gyanesh-kumar-3197569",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-04T12:00:59+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/8a3e545719d6e43952706d090d5f453c17911148650621324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस सांसद अभिषेक मनु सिंघवी ने ज्ञानेश कुमार के खिलाफ कानूनी कार्रवाई का विरोध किया। उन्होंने यूट्यूब चैनल पर कहा कि छोटी बातों में कोर्ट जाने की आदत बदलनी चाहिए। देश के मशहूर वकील और कांग्रेस सांसद अभिषेक मनु सिंघवी ने कहा है कि वो ज्ञानेश कुमार पर कानूनी कार्रवाई के खिलाफ हैं. सिंघवी ने एक यूट्यूब चैनल पर इस संबंध में चर्चा करते हुए कहा कि मैं उन लोगों में से मानने वालों में से हूं, न तो वो (ज्ञानेश कुमार) आम कानूनी कार्रवाई से हट सकते हैं, बल्कि मैं तो कानूनी कार्रवाई का विरोध करता हूं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मैं ज्ञानेश कुमार के खिलाफ कानूनी कार्रवाई के विरोध में हूं', अभिषेक मनु सिंघवी का बड़ा बयान",
-          "summary": "कांग्रेस सांसद अभिषेक मनु सिंघवी ने ज्ञानेश कुमार के खिलाफ कानूनी कार्रवाई का विरोध किया। उन्होंने यूट्यूब चैनल पर कहा कि छोटी बातों में कोर्ट जाने की आदत बदलनी चाहिए। देश के मशहूर वकील और कांग्रेस सांसद अभिषेक मनु सिंघवी ने कहा है कि वो ज्ञानेश कुमार पर कानूनी कार्रवाई के खिलाफ हैं. सिंघवी ने एक यूट्यूब चैनल पर इस संबंध में चर्चा करते हुए कहा कि मैं उन लोगों में से मानने वालों में से हूं, न तो वो (ज्ञानेश कुमार) आम कानूनी कार्रवाई से हट सकते हैं, बल्कि मैं तो कानूनी कार्रवाई का विरोध करता हूं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "किम जोंग ने लॉन्च की AI वाली मिसाइल, हवा में रास्ता बदलेगी, पकड़ना होगा मुश्किल, अमेरिका-जापान हिले",
-      "url": "https://hindi.news18.com/world/middle-east-north-korea-ai-powered-missile-test-kim-jong-un-hypersonic-10885293.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T11:49:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/north-korea-9-2026-10-e2f678f5510f174a49e72918e33f18ab-1200x800.jpg",
-      "summary": "उत्तर कोरिया ने AI से लैस मध्यम दूरी की मिसाइल का परीक्षण किया। किम जोंग-उन ने पत्नी और बेटी के साथ लॉन्च देखा। मिसाइल ने 1,000 किलोमीटर दूर लक्ष्य को मारा। North Korea Missile Power: उत्तर कोरिया ने AI तकनीक से लैस मध्यम दूरी की रणनीतिक मिसाइल का टेस्ट किया है. सरकारी मीडिया के मुताबिक, किम जोंग-उन ने अपनी पत्नी री सोल-जू और बेटी जू-ए के साथ इसका लॉन्च को देखा.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किम जोंग ने लॉन्च की AI वाली मिसाइल, हवा में रास्ता बदलेगी, पकड़ना होगा मुश्किल, अमेरिका-जापान हिले",
-          "summary": "उत्तर कोरिया ने AI से लैस मध्यम दूरी की मिसाइल का परीक्षण किया। किम जोंग-उन ने पत्नी और बेटी के साथ लॉन्च देखा। मिसाइल ने 1,000 किलोमीटर दूर लक्ष्य को मारा। North Korea Missile Power: उत्तर कोरिया ने AI तकनीक से लैस मध्यम दूरी की रणनीतिक मिसाइल का टेस्ट किया है. सरकारी मीडिया के मुताबिक, किम जोंग-उन ने अपनी पत्नी री सोल-जू और बेटी जू-ए के साथ इसका लॉन्च को देखा.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्थायी समिति की दोबारा कमान मिलने पर गदगद हुए शशि थरूर, बोले- 'भारत के...'",
-      "url": "https://www.abplive.com/news/india/shashi-tharoor-expresses-honour-to-continue-as-chair-of-parliamentary-standing-committee-on-external-affairs-3197562",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-04T11:45:49+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/2bee4fc5504d939214dd0d3a6b9e9acc17911136132301126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "शशि थरूर को विदेश मामलों की संसदीय स्थायी समिति की अध्यक्षता दोबारा सौंपी गई। तिरुवनंतपुरम से सांसद ने इस नियुक्ति पर खुशी जताई। समिति के अन्य सदस्यों के नाम भी घोषित किए गए। केरलम की राजधानी तिरुवनंतपुरम से लोकसभा में कांग्रेस सांसद शशि थरूर शनिवार (3 अक्टूबर, 2026) को एक बार से फिर से विदेश मामलों से संबंधित संसद के स्थायी समिति के अध्यक्ष के रूप में नियुक्त किया गया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्थायी समिति की दोबारा कमान मिलने पर गदगद हुए शशि थरूर, बोले- 'भारत के...'",
-          "summary": "शशि थरूर को विदेश मामलों की संसदीय स्थायी समिति की अध्यक्षता दोबारा सौंपी गई। तिरुवनंतपुरम से सांसद ने इस नियुक्ति पर खुशी जताई। समिति के अन्य सदस्यों के नाम भी घोषित किए गए। केरलम की राजधानी तिरुवनंतपुरम से लोकसभा में कांग्रेस सांसद शशि थरूर शनिवार (3 अक्टूबर, 2026) को एक बार से फिर से विदेश मामलों से संबंधित संसद के स्थायी समिति के अध्यक्ष के रूप में नियुक्त किया गया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पड़ोसियों में दूरियां मिटाने की कूटनीति: जयशंकर से मिले बांग्लादेश के उच्चायुक्त, भविष्य को ध्यान",
-      "url": "https://hindi.news18.com/news/nation/diplomacy-to-bridge-gaps-with-neighbors-bangladesh-high-commissioner-meets-jaishankar-10885172.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-04T11:27:12+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Riaz-Hamidullah-S-Jaishankar-2026-10-a0e1573ddb41ffdeb5d20d6ce93d72a0-1200x800.jpg",
-      "summary": "विदेश मंत्री एस. जयशंकर ने बांग्लादेश के निवर्तमान उच्चायुक्त रियाज हमीदुल्लाह से मुलाकात की। नई दिल्ली में हुई इस बैठक में द्विपक्षीय संबंधों को मजबूत करने की चर्चा हुई। जयशंकर ने हमीदुल्लाह के योगदान की सराहना की। जयशंकर ने नई दिल्ली में भारत में बांग्लादेश के निवर्तमान उच्चायुक्त रियाज हमीदुल्लाह से फेयरवेल मीटिंग की. इस विदाई मुलाकात के दौरान जयशंकर ने दोनों पड़ोसी मुल्कों के द्विपक्षीय संबंधों को संभालने और आगे बढ़ाने में हमीदुल्लाह के योगदान की सराहना करते हुए उन्हें भविष्य के लिए शुभकामनाएं दीं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पड़ोसियों में दूरियां मिटाने की कूटनीति: जयशंकर से मिले बांग्लादेश के उच्चायुक्त, भविष्य को ध्यान",
-          "summary": "विदेश मंत्री एस. जयशंकर ने बांग्लादेश के निवर्तमान उच्चायुक्त रियाज हमीदुल्लाह से मुलाकात की। नई दिल्ली में हुई इस बैठक में द्विपक्षीय संबंधों को मजबूत करने की चर्चा हुई। जयशंकर ने हमीदुल्लाह के योगदान की सराहना की। जयशंकर ने नई दिल्ली में भारत में बांग्लादेश के निवर्तमान उच्चायुक्त रियाज हमीदुल्लाह से फेयरवेल मीटिंग की. इस विदाई मुलाकात के दौरान जयशंकर ने दोनों पड़ोसी मुल्कों के द्विपक्षीय संबंधों को संभालने और आगे बढ़ाने में हमीदुल्लाह के योगदान की सराहना करते हुए उन्हें भविष्य के लिए शुभकामनाएं दीं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बंगाल में UCC को लेकर CM शुभेंदु का बड़ा ऐलान, कहा - 'अगले 6 महीने में...'",
-      "url": "https://www.abplive.com/news/india/chief-minister-suvendu-adhikari-announcement-on-implementing-ucc-in-bengal-3197563",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-04T11:26:41+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/04/5b4789580cb564a4b38671ca4736313c17911131820621368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने UCC लागू करने का ऐलान किया। उन्होंने कहा कि अगले छह महीने में लव जिहाद और लैंड जिहाद के खिलाफ कानून लाए जाएंगे। यह बयान कोलकाता में VHP कार्यक्रम में दिया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने राज्य में समान नागरिक संहिता (UCC) को लागू करने को लेकर बड़ा बयान दिया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बंगाल में UCC को लेकर CM शुभेंदु का बड़ा ऐलान, कहा - 'अगले 6 महीने में...'",
-          "summary": "पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने UCC लागू करने का ऐलान किया। उन्होंने कहा कि अगले छह महीने में लव जिहाद और लैंड जिहाद के खिलाफ कानून लाए जाएंगे। यह बयान कोलकाता में VHP कार्यक्रम में दिया गया। पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने राज्य में समान नागरिक संहिता (UCC) को लागू करने को लेकर बड़ा बयान दिया है.",
-          "region": "दुनिया"
         }
       }
     }
