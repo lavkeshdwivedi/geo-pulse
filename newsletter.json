@@ -1,12 +1,72 @@
 {
-  "generated_at": "2026-10-10T02:57:19.510198+00:00",
+  "generated_at": "2026-10-10T09:12:02.760138+00:00",
   "article_count": 50,
-  "total_unique_count": 257,
+  "total_unique_count": 266,
   "digest": {
-    "en": "The flydubai co-pilot's plot to crash a plane into Tel Aviv anchors the Middle East coverage. Across the Pacific, Washington labels China's maritime moves off Taiwan deeply destabilising. Delhi shut metro stations and cut internet ahead of protests over its election chief.",
-    "hi": "आज व्हाइट हाउस ने केटी जकारिया को नई प्रेस सचिव नियुक्त किया, ट्रम्प की टीम ने इस घोषणा को आधी रात में जारी किया।"
+    "en": "Russian strikes killed eight people in Zaporizhzhya while Israel heads to the polls amid intensifying West Bank settler violence. Meanwhile, a 7.7 magnitude earthquake struck Panama, triggering widespread panic across the capital.",
+    "hi": "पेरिस में भारतीय मूल के युवक को यौन शोषण के आरोपों पर 20 साल की सज़ा सुनाई गई है। इसी दौरान यूक्रेन ने ट्रंप-पुतिन के डीजल समझौते के घंटों बाद रूस के ऑयल टर्मिनल पर हमला किया।"
   },
   "articles": [
+    {
+      "title": "Russian Strike Kills At Least 8, Including 3 Children, In Ukraine's Zaporizhzhya, Kyiv Says",
+      "url": "https://www.rferl.org/a/ukraine-russia-drone-attack-zaporizhzhya-kyiv/33874079.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-10T08:21:10+00:00",
+      "image_url": "https://gdb.rferl.org/7cbd71d6-5d8f-4dce-b31f-ed40db3125f3_cx0_cy5_cw0_w1200_h630.jpg",
+      "summary": "Russian forces struck Zaporizhzhya on October 10, killing at least eight people, including three children. The attack wounded sixteen others during a large-scale overnight drone campaign. Local authorities confirmed the casualties as the broader offensive continued across Ukraine. A Russian strike on the southeastern Ukrainian city of Zaporizhzhya killed at least eight people, including three children, and wounded 16 on October 10, local authorities said, as Russia launched a large-scale overnight drone attack across Ukraine.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Indian police detain Cockroach Janta Party founder ahead of youth protest",
+      "url": "https://www.channelnewsasia.com/asia/indian-police-detain-cockroach-janta-party-founder-ahead-youth-protest-6448516",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-10-10T06:24:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--Za7kaSU_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-24T041727Z_2_LYNXMPEM6N06H_RTROPTP_3_INDIA-POLITICS-ABHIJEET-DIPKE.JPG?itok=Ngopu2vc",
+      "summary": "Indian police detained Abhijeet Dipke, Saurav Das, and Ashutosh Ranka at Delhi airport on October 10. The leaders of the Cockroach Janta Party were held ahead of a planned protest. The demonstration demanded the resignation of India's chief election commissioner. The founder of Indian youth movement, Abhijeet Dipke, and fellow leaders Saurav Das and Ashutosh Ranka were detained at Delhi airport on Saturday (Oct 10) ahead of a protest demanding the resignation of India's chief election commissioner.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "As Israel goes to the polls, settler attacks and expansion intensify in West Bank",
+      "url": "https://www.thehindu.com/news/international/as-israel-goes-to-the-polls-settler-attacks-and-expansion-intensify-in-west-bank/article71564412.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-10T05:44:59+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/adpbm8/article71565548.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_West_Bank_72343.jpg",
+      "summary": "West Bank settler attacks surged to over 1,600 incidents between January and August. More than 1,000 Palestinians have died in the region over the last four years. Movement curbs and land seizures displaced thousands, while major Israeli parties show little interest in dismantling settlements. More than 1,600 settler attacks against Palestinians recorded between January and August; over 1,000 Palestinians killed in the West Bank in the last four years; movement curbs, land seizures, demolitions have displaced thousands, while major parties show little interest in dismantling settlements.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-10T05:00:48+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/dd86a3791de0721c9fae3aeb6def7ef9609df8bd/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95836f9f69501a2d4123f44862ec1cb7",
+      "summary": "Dozens of CIA officers have reported debilitating symptoms over the past decade. The condition, known as Havana syndrome, remains unexplained. Officials have not confirmed whether the incidents stem from mass hysteria or targeted energy weapon attacks. Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible?",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Anduril’s plan to save US sub edge from China’s undersea surge",
+      "url": "https://asiatimes.com/2026/10/andurils-plan-to-save-us-sub-edge-from-chinas-undersea-surge/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-10-10T04:51:10+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Anduril-Shipyard-Submarines-US-Navy.jpg",
+      "summary": "Anduril Industries will invest US$3.7 billion to build a software-defined shipyard. The facility aims to overhaul US submarine manufacturing capabilities. The project addresses urgent needs in naval industrial capacity within the Indo-Pacific region. A multibillion-dollar private initiative to overhaul US submarine manufacturing marks an urgent push to revitalize naval industrial capacity at a pivotal moment in the Indo-Pacific balance of power.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "US says China's maritime actions off Taiwan 'deeply destabilising'",
       "url": "https://www.channelnewsasia.com/east-asia/us-says-chinas-maritime-actions-taiwan-deeply-destabilising-6448331",
@@ -68,18 +128,6 @@
       "translations": {}
     },
     {
-      "title": "Inside Thailand’s cyanide murders and the search for its ‘most prolific serial killer’ in history",
-      "url": "https://www.channelnewsasia.com/cna-insider/insider/death-loans-thailand-aem-cyanide-murders-serial-killer-sararat-6445911",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-10-09T22:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--X9wfP6iF--/c_crop,h_1080,w_1919,x_1,y_0/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/04/dtl_recon_11_koys_scene.jpg?itok=aMdf2DqB",
-      "summary": "A Thai investigator connected fifteen sudden deaths to a single woman. The series Death Loans details the search for the country’s most prolific serial killer. Families initially struggled to find answers. The probe revealed a pattern of cyanide poisoning. When healthy people suddenly began dying, grieving families struggled to get answers. The series, Death Loans, retraces how a dogged investigator looking into a friend’s death helped police connect 15 cases to one woman eventually.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
       "url": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
       "source": "The Guardian",
@@ -87,18 +135,6 @@
       "published_at": "2026-10-09T21:36:18+00:00",
       "image_url": "https://i.guim.co.uk/img/media/9b0dd26cb04cecfa9d30fecef7979eaede8617d7/512_0_4251_3400/master/4251.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a8c99fe47004dee18809754d73d9204",
       "summary": "Guinea-Bissau approved a trial withholding hepatitis B vaccines from newborns. Danish researchers will conduct the study. It aligns with Robert F. Kennedy Jr.’s vaccine vision. The decision allows the controversial research to proceed in the country. Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "As Israel goes to the polls, settler attacks and expansion intensify in West Bank",
-      "url": "https://www.thehindu.com/news/international/as-israel-goes-to-the-polls-settler-attacks-and-expansion-intensify-in-west-bank/article71564412.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-09T21:34:36+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/adpbm8/article71565548.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_West_Bank_72343.jpg",
-      "summary": "West Bank settler attacks surged to over 1,600 incidents between January and August. More than 1,000 Palestinians have died in the region over the last four years. Movement curbs and land seizures displaced thousands, while major Israeli parties show little interest in dismantling settlements. More than 1,600 settler attacks against Palestinians recorded between January and August; over 1,000 Palestinians killed in the West Bank in the last four years; movement curbs, land seizures, demolitions have displaced thousands, while major parties show little interest in dismantling settlements.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -217,7 +253,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-08T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-UNOCHA-Sudan.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-UNOCHA-Sudan.jpg/image770x420cropped.jpg",
       "summary": "The UN World Health Organization warned that over 700,000 displaced people in Tawila, Darfur, face severe shortages. They lack adequate healthcare, food, water, and protection. The agency called for an urgent increase in resources. The Security Council simultaneously extended sanctions on Sudan. More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -260,499 +296,463 @@
       "translations": {}
     },
     {
-      "title": "Bit by bit, the Taliban is losing control of Afghanistan",
-      "url": "https://asiatimes.com/2026/10/bit-by-bit-the-taliban-is-losing-control-of-afghanistan/",
+      "title": "India’s rate hike a loud warning shot for Modinomics",
+      "url": "https://asiatimes.com/2026/10/indias-rate-hike-a-loud-warning-shot-for-modinomics/",
       "source": "Asia Times",
       "sources": [],
-      "published_at": "2026-10-08T05:46:02+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2025/10/Taliban-Afghanistan-Soldiers.jpg",
-      "summary": "Armed resistance in Afghanistan is spreading beyond isolated pockets, challenging the Taliban's claim of stable governance. Five years after taking Kabul, the group still controls all provincial capitals. However, the growing geographic dispersion of insurgent groups undermines their argument for international acceptance. Five years after seizing Kabul, the Taliban’s strongest argument for international acceptance rests on control. The Taliban governs every provincial capital and faces no conventional army capable of marching on Kabul.",
+      "published_at": "2026-10-08T07:28:30+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2025/04/India-Narendra-Modi.jpg",
+      "summary": "The Reserve Bank of India raised interest rates for the first time in four years. Governor Sanjay Malhotra acted amid high inflation and record lows for the rupee. The decision signals significant pressure on India's economic stability. It’s not often that events in Mumbai reverberate through global markets. But the Reserve Bank of India’s first interest rate hike in almost four years speaks volumes about the chaotic state of play.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Exiled Russian Activist Describes How Kremlin Targets Critics Abroad",
-      "url": "https://www.rferl.org/a/video-russia-repression/33872156.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "‘एलन, ये हैं हकीकत’ अंबानी के समर्थन में उतरे Zoho के श्रीधर वेम्बू, मस्क को दिया करारा जवाब",
+      "url": "https://www.patrika.com/world-news/elon-musk-ambani-row-sridhar-vembu-starlink-jio-india-20973324",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-08T05:11:14+00:00",
-      "image_url": "https://gdb.rferl.org/fd20b1b6-70bd-4a64-7392-08df13a869ed_cx0_cy53_cw0_w1200_h630.jpg",
-      "summary": "Mikhail Klimaryov, a Russian activist living in Germany, says Kremlin agents continue to target him abroad. The persistent pressure has driven him into a state of paranoia regarding his personal safety. He fled Russia to escape political persecution but remains under constant surveillance. Mikhail Klimaryov fled Russia to escape political persecution and now lives in Germany, but says he is still not safe.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "On Our Radar",
-      "url": "https://www.crisisgroup.org/sco/global/our-radar",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-10-02T00:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Crisis Group’s On Our Radar scans global conflicts and crises weekly. Field experts highlight under-reported trends and major developments. They explain why specific hotspots matter. The brief outlines what actions are needed to address these ongoing situations. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Five Energy Market Factors That Could Tip the Scales in the Middle East War",
-      "url": "https://www.crisisgroup.org/cmt/united-states/united-states-iran-israelpalestine/five-energy-market-factors-could-tip-scales-middle-east-war",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-10-01T19:11:00+00:00",
-      "image_url": "https://images.pexels.com/photos/28700859/pexels-photo-28700859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Washington and Tehran are fighting over global energy prices, with the United States seeking lower costs and Iran aiming to keep them high. Five specific market developments will determine whether the conflict escalates or de-escalates. The outcome hinges on how these factors shift fuel and gas pricing dynamics. Oil, gas and fuel prices are central to the U. S.-Israeli war with Iran, with Washington striving to lower them and Tehran to keep them high.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "एंड्रॉयड ऑटो क्या है और कैसे काम करता है यह सिस्टम? जानें फोन को बिना छुए इस्तेमाल करने का तरीका",
-      "url": "https://www.amarujala.com/technology/tip-of-the-day/android-auto-explained-how-use-your-phone-hands-free-while-driving-2026-10-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T02:47:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/paratakatamaka-tasavara_113e676669e542af59e6b90f38825d87.jpeg",
-      "summary": "एंड्रॉयड ऑटो स्मार्टफोन को कार की स्क्रीन से जोड़ता है। यह ड्राइविंग के दौरान फोन को बिना छुए उपयोग करने की सुविधा देता है। टेक टिप्स: एंड्रॉयड ऑटो क्या है और कैसे काम करता है यह सिस्टम? जानें फोन को बिना छुए इस्तेमाल करने का तरीका।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एंड्रॉयड ऑटो क्या है और कैसे काम करता है यह सिस्टम? जानें फोन को बिना छुए इस्तेमाल करने का तरीका",
-          "summary": "एंड्रॉयड ऑटो स्मार्टफोन को कार की स्क्रीन से जोड़ता है। यह ड्राइविंग के दौरान फोन को बिना छुए उपयोग करने की सुविधा देता है। टेक टिप्स: एंड्रॉयड ऑटो क्या है और कैसे काम करता है यह सिस्टम? जानें फोन को बिना छुए इस्तेमाल करने का तरीका।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दिल्ली में दीपके का हल्लाबोल LIVE: 'प्रदर्शन हमारा अधिकार', अभिजीत बोले- पीएम मोदी डरे हुए हैं",
-      "url": "https://www.amarujala.com/live/india-news/cjp-jantar-mantar-protest-live-updates-mha-alert-abhijeet-dipke-cockroach-janata-party-cec-gyanesh-kr-sir-row-2026-10-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T02:44:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/cjp-protest_e12fae2475feab3d1c4cc3e8e0507a68.gif?w=1200&dpr=1.0",
-      "summary": "गृह मंत्रालय ने राज्यों को सीजेपी आंदोलनकारियों को रोकने का निर्देश दिया है। दिल्ली में दीपक प्रदर्शन के दौरान यह कदम उठाया गया। राज्यों को स्थिति पर नजर रखने की हिदायत दी गई है। दिल्ली में दीपके का हल्लाबोल LIVE: गृह मंत्रालय का फरमान- सीजेपी के आंदोलनकारियों को रोकें, राज्यों में क्या? दिल्ली में दीपके का हल्लाबोल LIVE: 'प्रदर्शन हमारा अधिकार', अभिजीत बोले- पीएम मोदी डरे हुए हैं।",
+      "published_at": "2026-10-10T08:23:07+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Musk-Ambani.webp",
+      "summary": "ज़ोहो संस्थापक श्रीधर वेम्बू ने एलन मस्क के बयान का जवाब देते हुए रिलायंस जियो को सस्ते इंटरनेट का श्रेय दिया। वेम्बू ने भारत के बाजार की आलोचना पर मस्क से सवाल किए। Elon Musk: स्टारलिंक की भारत में लॉन्चिंग को लेकर जारी विवाद के बीच एलन मस्क और मुकेश अंबानी के बीच जुबानी जंग तेज हो गई है। अब Zoho के संस्थापक श्रीधर वेम्बू ने अंबानी पर मस्क की टिप्पणी का जवाब देते हुए भारत में सस्ते इंटरनेट और डिजिटल सेवाओं का बचाव किया है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दिल्ली में दीपके का हल्लाबोल LIVE: 'प्रदर्शन हमारा अधिकार', अभिजीत बोले- पीएम मोदी डरे हुए हैं",
-          "summary": "गृह मंत्रालय ने राज्यों को सीजेपी आंदोलनकारियों को रोकने का निर्देश दिया है। दिल्ली में दीपक प्रदर्शन के दौरान यह कदम उठाया गया। राज्यों को स्थिति पर नजर रखने की हिदायत दी गई है। दिल्ली में दीपके का हल्लाबोल LIVE: गृह मंत्रालय का फरमान- सीजेपी के आंदोलनकारियों को रोकें, राज्यों में क्या? दिल्ली में दीपके का हल्लाबोल LIVE: 'प्रदर्शन हमारा अधिकार', अभिजीत बोले- पीएम मोदी डरे हुए हैं।",
+          "title": "‘एलन, ये हैं हकीकत’ अंबानी के समर्थन में उतरे Zoho के श्रीधर वेम्बू, मस्क को दिया करारा जवाब",
+          "summary": "ज़ोहो संस्थापक श्रीधर वेम्बू ने एलन मस्क के बयान का जवाब देते हुए रिलायंस जियो को सस्ते इंटरनेट का श्रेय दिया। वेम्बू ने भारत के बाजार की आलोचना पर मस्क से सवाल किए। Elon Musk: स्टारलिंक की भारत में लॉन्चिंग को लेकर जारी विवाद के बीच एलन मस्क और मुकेश अंबानी के बीच जुबानी जंग तेज हो गई है। अब Zoho के संस्थापक श्रीधर वेम्बू ने अंबानी पर मस्क की टिप्पणी का जवाब देते हुए भारत में सस्ते इंटरनेट और डिजिटल सेवाओं का बचाव किया है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "भारत में स्टारलिंक इंटरनेट पर बहस के बीच अंबानी पर एक और बयान, क्या है पूरा मामला?",
-      "url": "https://www.amarujala.com/world/elon-musk-taunts-mukesh-ambani-starlink-entry-in-india-2026-10-09",
-      "source": "Amar Ujala World",
+      "title": "अमेरिका के पेंसिल्वेनिया में अंधाधुंध फायरिंग, 2 बच्चों समेत 9 की मौत, घर में छिपे हमलावर की भी गई",
+      "url": "https://hindi.news18.com/world/america-shooting-in-erie-pennsylvania-killed-nine-people-including-two-children-update-us-mass-firing-10899459.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-10T02:39:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/abna-para-masaka-ka-eka-oura-tapapanae_a5cf8d59c9cd7fb325ed7324019f391b.jpeg?w=1200&dpr=1.0",
-      "summary": "एलन मस्क ने मुकेश अंबानी को प्रधानमंत्री कहकर तंज किया। उन्होंने स्टारलिंक को भारत में प्रवेश देने की अपील की। एलन मस्क का मुकेश अंबानी पर तंज: 'प्रधानमंत्री' कहकर स्टारलिंक को भारत में एंट्री देने की अपील की; क्या कहा? भारत में स्टारलिंक इंटरनेट पर बहस के बीच अंबानी पर एक और बयान, क्या है पूरा मामला?",
+      "published_at": "2026-10-10T08:14:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/image-2026-10-f9065e92e091681fbfb1cdaa021f8924-1200x800.jpg",
+      "summary": "पेंसिल्वेनिया के एरी शहर में शुक्रवार शाम हुई गोलीबारी में दो बच्चों समेत नौ लोगों की मौत हुई। हमलावर का शव घर के अंदर मिला। पुलिस ने इलाके को घेर लिया। अमेरिका के पेंसिल्वेनिया राज्य के एरी शहर में शुक्रवार शाम हुई गोलीबारी से दहशत फैल गई. स्थानीय मीडिया के मुताबिक, इस घटना में दो बच्चों समेत नौ लोगों की मौत हुई है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के पेंसिल्वेनिया में अंधाधुंध फायरिंग, 2 बच्चों समेत 9 की मौत, घर में छिपे हमलावर की भी गई",
+          "summary": "पेंसिल्वेनिया के एरी शहर में शुक्रवार शाम हुई गोलीबारी में दो बच्चों समेत नौ लोगों की मौत हुई। हमलावर का शव घर के अंदर मिला। पुलिस ने इलाके को घेर लिया। अमेरिका के पेंसिल्वेनिया राज्य के एरी शहर में शुक्रवार शाम हुई गोलीबारी से दहशत फैल गई. स्थानीय मीडिया के मुताबिक, इस घटना में दो बच्चों समेत नौ लोगों की मौत हुई है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "स्टारलिंक राष्ट्रीय सुरक्षा के लिए कैसे खतरा? चीन में यूं ही बैन नहीं एलन मस्क की कंपनी, अंडमान में",
+      "url": "https://hindi.news18.com/news/nation/how-starlink-security-threat-to-india-national-security-china-ban-elon-musk-company-big-thing-happen-in-andman-10899446.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-10T07:42:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/starlink-2026-10-863dcdb79bd4a3550d43b6a915144104-1200x800.jpg",
+      "summary": "भारत ने स्टारलिंक को सुरक्षा क्लियरेंस नहीं दिया है। एलन मस्क ने इससे नाराज होकर अनाप-शनाप आरोप लगाने शुरू कर दिए। Starlink News: अमेरिका के दिग्‍गज उद्योगपति एलन मस्‍क अपने बयानों को लेकर अक्‍सर ही विवादों में बने रहते हैं. एक बार उन्‍होंने ऐसी बात कही है, जिसको लेकर चर्चाएं आम हो गई हैं. स्‍टारलिंक को अभी तक भारत ने सिक्‍योरिटी क्लियरेंस नहीं दिया है, जिससे लेकर वे हताशा में अनाप-शनाप आरोप लगाने लगे हैं.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत में स्टारलिंक इंटरनेट पर बहस के बीच अंबानी पर एक और बयान, क्या है पूरा मामला?",
-          "summary": "एलन मस्क ने मुकेश अंबानी को प्रधानमंत्री कहकर तंज किया। उन्होंने स्टारलिंक को भारत में प्रवेश देने की अपील की। एलन मस्क का मुकेश अंबानी पर तंज: 'प्रधानमंत्री' कहकर स्टारलिंक को भारत में एंट्री देने की अपील की; क्या कहा? भारत में स्टारलिंक इंटरनेट पर बहस के बीच अंबानी पर एक और बयान, क्या है पूरा मामला?",
+          "title": "स्टारलिंक राष्ट्रीय सुरक्षा के लिए कैसे खतरा? चीन में यूं ही बैन नहीं एलन मस्क की कंपनी, अंडमान में",
+          "summary": "भारत ने स्टारलिंक को सुरक्षा क्लियरेंस नहीं दिया है। एलन मस्क ने इससे नाराज होकर अनाप-शनाप आरोप लगाने शुरू कर दिए। Starlink News: अमेरिका के दिग्‍गज उद्योगपति एलन मस्‍क अपने बयानों को लेकर अक्‍सर ही विवादों में बने रहते हैं. एक बार उन्‍होंने ऐसी बात कही है, जिसको लेकर चर्चाएं आम हो गई हैं. स्‍टारलिंक को अभी तक भारत ने सिक्‍योरिटी क्लियरेंस नहीं दिया है, जिससे लेकर वे हताशा में अनाप-शनाप आरोप लगाने लगे हैं.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "आरपीएससी वरिष्ठ अध्यापक भर्ती 2025: विस्तारित सूची जारी, 880 अभ्यर्थी अयोग्य घोषित; देखें पूरी",
-      "url": "https://www.amarujala.com/jobs/rpsc-senior-teacher-recruitment-2025-provisional-list-released-for-social-science-880-candidates-disqualifie-2026-10-10",
-      "source": "Amar Ujala National",
+      "title": "मुझे तो 8 बार नोबेल शांति पुरस्कार मिलना चाहिए था, डोनाल्ड ट्रंप का फिर छलका दर्द",
+      "url": "https://hindi.news18.com/world/america-donald-trump-says-should-have-won-nobel-prize-8-times-for-each-war-i-settled-10899561.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-10T02:34:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/rpsc-senior-teacher-recruitment-2025_42c416612610e52b8ebc853c33f286c3.jpeg?w=1200&dpr=1.0",
-      "summary": "राजस्थान लोक सेवा आयोग ने वरिष्ठ अध्यापक परीक्षा की विस्तारित सूची जारी की। 1,217 अभ्यर्थियों को अस्थायी रूप से शामिल किया गया। राजस्थान लोक सेवा आयोग ने वरिष्ठ अध्यापक प्रतियोगी परीक्षा 2025 के सामाजिक विज्ञान विषय की विचारित सूची जारी कर दी है। आरपीएससी वरिष्ठ अध्यापक भर्ती 2025: विस्तारित सूची जारी, 880 अभ्यर्थी अयोग्य घोषित; देखें पूरी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आरपीएससी वरिष्ठ अध्यापक भर्ती 2025: विस्तारित सूची जारी, 880 अभ्यर्थी अयोग्य घोषित; देखें पूरी",
-          "summary": "राजस्थान लोक सेवा आयोग ने वरिष्ठ अध्यापक परीक्षा की विस्तारित सूची जारी की। 1,217 अभ्यर्थियों को अस्थायी रूप से शामिल किया गया। राजस्थान लोक सेवा आयोग ने वरिष्ठ अध्यापक प्रतियोगी परीक्षा 2025 के सामाजिक विज्ञान विषय की विचारित सूची जारी कर दी है। आरपीएससी वरिष्ठ अध्यापक भर्ती 2025: विस्तारित सूची जारी, 880 अभ्यर्थी अयोग्य घोषित; देखें पूरी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "220 से अधिक विकास परियोजनाओं को समर्थन, सहयोग और आत्मनिर्भरता पर जोर; जयशंकर ने क्या कहा?",
-      "url": "https://www.amarujala.com/world/jaishankar-highlights-self-reliance-and-shared-development-in-india-africa-partnership-2026-10-10",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-10T02:31:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/esa-jayashakara-bharataya-vathasha-matara_f16292f886f9d3c48c3dc10295f0bb37.jpeg?w=1200&dpr=1.0",
-      "summary": "जयशंकर ने भारत-अफ्रीका संबंधों में 220 से अधिक विकास परियोजनाओं का समर्थन किया। उन्होंने सहयोग और आत्मनिर्भरता पर जोर दिया। 220 से अधिक विकास परियोजनाओं को समर्थन, सहयोग और आत्मनिर्भरता पर जोर; जयशंकर ने क्या कहा?",
+      "published_at": "2026-10-10T07:39:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Donal-trump-india-us-deal-2026-10-25835d116976b3f641f5399e68acbc09-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने दावा किया कि उन्होंने आठ युद्ध रुकवाए। इसलिए उन्हें आठ बार नोबेल शांति पुरस्कार मिलना चाहिए था। उन्होंने नॉर्वे पर हमला बोला। Donald Trump News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने नोबेल शांति पुरस्कार नहीं मिलने पर नॉर्वे पर तीखा हमला बोला है. उन्होंने दावा किया कि उन्होंने आठ युद्ध रुकवाए, इसलिए उन्हें आठ बार यह पुरस्कार मिलना चाहिए था.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "220 से अधिक विकास परियोजनाओं को समर्थन, सहयोग और आत्मनिर्भरता पर जोर; जयशंकर ने क्या कहा?",
-          "summary": "जयशंकर ने भारत-अफ्रीका संबंधों में 220 से अधिक विकास परियोजनाओं का समर्थन किया। उन्होंने सहयोग और आत्मनिर्भरता पर जोर दिया। 220 से अधिक विकास परियोजनाओं को समर्थन, सहयोग और आत्मनिर्भरता पर जोर; जयशंकर ने क्या कहा?",
+          "title": "मुझे तो 8 बार नोबेल शांति पुरस्कार मिलना चाहिए था, डोनाल्ड ट्रंप का फिर छलका दर्द",
+          "summary": "डोनाल्ड ट्रंप ने दावा किया कि उन्होंने आठ युद्ध रुकवाए। इसलिए उन्हें आठ बार नोबेल शांति पुरस्कार मिलना चाहिए था। उन्होंने नॉर्वे पर हमला बोला। Donald Trump News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने नोबेल शांति पुरस्कार नहीं मिलने पर नॉर्वे पर तीखा हमला बोला है. उन्होंने दावा किया कि उन्होंने आठ युद्ध रुकवाए, इसलिए उन्हें आठ बार यह पुरस्कार मिलना चाहिए था.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "प्रदेश में मौसम का सबसे ज्यादा असर, आंधी-बारिश संग गिरे ओले, हादसों में चार की मौत; फसलों को भी",
-      "url": "https://www.amarujala.com/lucknow/up-state-hit-hardest-by-weather-hailstorms-accompanied-by-strong-winds-and-rain-four-killed-in-accidents-c-2026-10-10",
+      "title": "8 देशों के झगड़े सुलझाए, ट्रंप बोले- शांति के लिए 8 नोबेल मिलने चाहिए",
+      "url": "https://www.patrika.com/world-news/trump-8-nobel-peace-prize-claim-ceasefire-india-pakistan-israel-iran-conflict-20973177",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-10T07:23:48+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-2.webp",
+      "summary": "ट्रंप ने कहा कि उन्होंने दुनिया के आठ बड़े संघर्षों को सुलझाने में भूमिका निभाई। उन्होंने भारत-पाकिस्तान विराम का जिक्र किया। इसलिए उन्हें आठ नोबेल पुरस्कार चाहिए। Donald Trump Nobel Peace Prize Statement: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर अपने बयान को लेकर चर्चा में हैं। उनका कहना है कि उन्होंने दुनिया के 8 बड़े संघर्षों को सुलझाने में भूमिका निभाई है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "8 देशों के झगड़े सुलझाए, ट्रंप बोले- शांति के लिए 8 नोबेल मिलने चाहिए",
+          "summary": "ट्रंप ने कहा कि उन्होंने दुनिया के आठ बड़े संघर्षों को सुलझाने में भूमिका निभाई। उन्होंने भारत-पाकिस्तान विराम का जिक्र किया। इसलिए उन्हें आठ नोबेल पुरस्कार चाहिए। Donald Trump Nobel Peace Prize Statement: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर अपने बयान को लेकर चर्चा में हैं। उनका कहना है कि उन्होंने दुनिया के 8 बड़े संघर्षों को सुलझाने में भूमिका निभाई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारतीय मूल के युवक को पेरिस में 20 साल की जेल; यौन शोषण, अत्याचार, बर्बरता समेत क्या-क्या आरोप लगे?",
+      "url": "https://www.amarujala.com/world/indian-rohan-rane-paris-court-sentenced-prison-child-abuse-ring-2026-10-10",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-10T07:05:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/parasa-ma-bharataya-mal-ka-vayakata-ka-jal_666da47dcda2e91cc50634fd30c455d2.jpeg?w=1200&dpr=1.0",
+      "summary": "पेरिस अदालत ने भारतीय मूल के युवक को 20 साल की सजा सुनाई। नाबालिगों के यौन शोषण और हिंसा के गिरोह में शामिल होने का आरोप था। अभियोजक 30 साल की मांग कर रहे थे। पेरिस की अदालत ने भारतीय युवक को नाबालिगों के यौन शोषण व हिंसा के अंतरराष्ट्रीय गिरोह में शामिल होने पर 20 साल की जेल की सजा सुनाई है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारतीय मूल के युवक को पेरिस में 20 साल की जेल; यौन शोषण, अत्याचार, बर्बरता समेत क्या-क्या आरोप लगे?",
+          "summary": "पेरिस अदालत ने भारतीय मूल के युवक को 20 साल की सजा सुनाई। नाबालिगों के यौन शोषण और हिंसा के गिरोह में शामिल होने का आरोप था। अभियोजक 30 साल की मांग कर रहे थे। पेरिस की अदालत ने भारतीय युवक को नाबालिगों के यौन शोषण व हिंसा के अंतरराष्ट्रीय गिरोह में शामिल होने पर 20 साल की जेल की सजा सुनाई है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप-पुतिन के डीजल समझौते के कुछ ही घंटों बाद यूक्रेन का बड़ा हमला, रूस के ऑयल टर्मिनल पर की बमबारी",
+      "url": "https://www.patrika.com/world-news/ukraine-strikes-russia-oil-terminal-fire-trump-putin-diesel-deal-20973104",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-10T07:03:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Ukraine-Russia-War.webp",
+      "summary": "ट्रंप और पुतिन के डीजल समझौते के घंटों बाद यूक्रेन ने हमला किया। रोस्तोव-ऑन-डॉन में नोवोशाख्तिंस्क ऑयल टर्मिनल पर बमबारी हुई। यह रूस की ऊर्जा बुनियादी ढांचे पर प्रहार था। Ukraine Strikes Russia: रूस और यूक्रेन के बीच चल रहे युद्ध के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और रूसी राष्ट्रपति व्लादिमीर पुतिन के बीच डीजल को लेकर एक अहम समझौते की घोषणा हुई।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप-पुतिन के डीजल समझौते के कुछ ही घंटों बाद यूक्रेन का बड़ा हमला, रूस के ऑयल टर्मिनल पर की बमबारी",
+          "summary": "ट्रंप और पुतिन के डीजल समझौते के घंटों बाद यूक्रेन ने हमला किया। रोस्तोव-ऑन-डॉन में नोवोशाख्तिंस्क ऑयल टर्मिनल पर बमबारी हुई। यह रूस की ऊर्जा बुनियादी ढांचे पर प्रहार था। Ukraine Strikes Russia: रूस और यूक्रेन के बीच चल रहे युद्ध के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और रूसी राष्ट्रपति व्लादिमीर पुतिन के बीच डीजल को लेकर एक अहम समझौते की घोषणा हुई।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "नाम हिटलर मुसोलिनी, काम मेयर का, पेरू के इलेक्शन में मारी बाजी, 25 वोटों से जीता",
+      "url": "https://hindi.news18.com/world/rest-of-world-peru-hitler-mussolini-wins-mayoral-election-by-25-votes-what-in-his-name-10899414.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-10T06:55:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/hitler-musolini-2026-10-620e640d4662ee4d335d70104428d9fc-1200x800.jpg",
+      "summary": "पेरू के क्वेरोपाल्का में हिटलर मुसोलिनी सिमेओन फ्लोरेस ने मेयर पद जीता। 45 वर्षीय फ्लोरेस को 229 वोट मिले। उन्होंने प्रतिद्वंद्वी को 25 वोटों के अंतर से हराया। पेरू के क्वेरोपाल्का जिले में 45 वर्षीय हिटलर मुसोलिनी सिमेओन फ्लोरेस ने मेयर का चुनाव जीत लिया है. आहोरा नासियोन पार्टी के उम्मीदवार फ्लोरेस को 229 वोट मिले, जो कुल वैध मतों का 34.5 फीसदी है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नाम हिटलर मुसोलिनी, काम मेयर का, पेरू के इलेक्शन में मारी बाजी, 25 वोटों से जीता",
+          "summary": "पेरू के क्वेरोपाल्का में हिटलर मुसोलिनी सिमेओन फ्लोरेस ने मेयर पद जीता। 45 वर्षीय फ्लोरेस को 229 वोट मिले। उन्होंने प्रतिद्वंद्वी को 25 वोटों के अंतर से हराया। पेरू के क्वेरोपाल्का जिले में 45 वर्षीय हिटलर मुसोलिनी सिमेओन फ्लोरेस ने मेयर का चुनाव जीत लिया है. आहोरा नासियोन पार्टी के उम्मीदवार फ्लोरेस को 229 वोट मिले, जो कुल वैध मतों का 34.5 फीसदी है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "अभिजीत दिपके से लेकर अरविंद केजरीवाल तक, पुलिस एक्शन और विरोध को लेकर किसने क्या कहा?",
+      "url": "https://www.amarujala.com/delhi-ncr/know-who-said-what-regarding-cjp-protest-2-0-and-police-action-2026-10-10",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-10T02:28:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/17/masama-vabhaga-na-jataii-aathha-brasha-ka-sabhavana_27539c22c8bc8bb8322daa4d406f424b.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश में तेज आंधी और ओलावृष्टि से चार लोगों की मौत हुई। पेड़ गिरने और फसलों को नुकसान पहुंचा। उत्तर प्रदेश में शुक्रवार दोपहर बाद मौसम बदलने से कई जिलों में तेज आंधी, बारिश और ओलावृष्टि हुई। हादसों में चार लोगों की मौत हो गई। पेड़ और होर्डिंग गिरने से नुकसान हुआ, जबकि खेतों में खड़ी फसलें भी प्रभावित हुईं।",
+      "published_at": "2026-10-10T06:51:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/abhajata-thapaka-kajaraval-oura-akhalsha-yathava_be542d9f1b9af6b6bddd1c5d3aca624d.jpeg?w=1200&dpr=1.0",
+      "summary": "कॉकरोच जनता पार्टी ने 10 अक्टूबर को प्रदर्शन की घोषणा की। पुलिस ने अलर्ट जारी कर तैयारी शुरू कर दी। विरोध प्रदर्शन को लेकर सुरक्षा बल सतर्क हैं। कॉकरोच जनता पार्टी (सीजेपी) के आज 10 अक्तूबर को प्रदर्शन के एलान को लेकर पुलिस अलर्ट है। अभिजीत दिपके से लेकर अरविंद केजरीवाल तक, पुलिस एक्शन और विरोध को लेकर किसने क्या कहा?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "प्रदेश में मौसम का सबसे ज्यादा असर, आंधी-बारिश संग गिरे ओले, हादसों में चार की मौत; फसलों को भी",
-          "summary": "उत्तर प्रदेश में तेज आंधी और ओलावृष्टि से चार लोगों की मौत हुई। पेड़ गिरने और फसलों को नुकसान पहुंचा। उत्तर प्रदेश में शुक्रवार दोपहर बाद मौसम बदलने से कई जिलों में तेज आंधी, बारिश और ओलावृष्टि हुई। हादसों में चार लोगों की मौत हो गई। पेड़ और होर्डिंग गिरने से नुकसान हुआ, जबकि खेतों में खड़ी फसलें भी प्रभावित हुईं।",
+          "title": "अभिजीत दिपके से लेकर अरविंद केजरीवाल तक, पुलिस एक्शन और विरोध को लेकर किसने क्या कहा?",
+          "summary": "कॉकरोच जनता पार्टी ने 10 अक्टूबर को प्रदर्शन की घोषणा की। पुलिस ने अलर्ट जारी कर तैयारी शुरू कर दी। विरोध प्रदर्शन को लेकर सुरक्षा बल सतर्क हैं। कॉकरोच जनता पार्टी (सीजेपी) के आज 10 अक्तूबर को प्रदर्शन के एलान को लेकर पुलिस अलर्ट है। अभिजीत दिपके से लेकर अरविंद केजरीवाल तक, पुलिस एक्शन और विरोध को लेकर किसने क्या कहा?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "व्हाइट हाउस में ट्रंप ने चुनी अपनी नई 'आवाज', केटी जकारिया बनेंगी नई प्रेस सचिव",
-      "url": "https://hindi.news18.com/world/america-donald-trump-offered-katie-zacharia-white-house-press-secretary-role-karoline-leavitt-10898849.html",
-      "source": "News18 Hindi (World)",
+      "title": "'क्या देश में ब्रिटिश शासन है?': प्रदर्शनकारियों की हिरासत पर भड़के संजय राउत, कहा- जनता की आवाज",
+      "url": "https://www.amarujala.com/india-news/sanjay-raut-lashes-out-over-the-detention-of-protesters-says-the-voice-of-the-people-cannot-be-suppressed-2026-10-10",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-10T02:27:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/katie-2026-10-e772552cefbdb0e811200b68e2e53d11-1200x800.jpg",
-      "summary": "ट्रंप ने केटी जकारिया को व्हाइट हाउस प्रेस सचिव पद का ऑफर दिया। कैरोलिन लेविट के अगस्त में इस्तीफे के बाद यह पद खाली था। जकारिया पहले ट्रुथ सोशल में काम करती थीं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ट्रुथ सोशल की कम्युनिकेशन एडवाइजर केटी जकारिया को व्हाइट हाउस प्रेस सेक्रेटरी पद का ऑफर दिया है. कैरोलिन लेविट के अगस्त में पद छोड़ने के बाद यह जिम्मेदारी खाली थी.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "व्हाइट हाउस में ट्रंप ने चुनी अपनी नई 'आवाज', केटी जकारिया बनेंगी नई प्रेस सचिव",
-          "summary": "ट्रंप ने केटी जकारिया को व्हाइट हाउस प्रेस सचिव पद का ऑफर दिया। कैरोलिन लेविट के अगस्त में इस्तीफे के बाद यह पद खाली था। जकारिया पहले ट्रुथ सोशल में काम करती थीं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ट्रुथ सोशल की कम्युनिकेशन एडवाइजर केटी जकारिया को व्हाइट हाउस प्रेस सेक्रेटरी पद का ऑफर दिया है. कैरोलिन लेविट के अगस्त में पद छोड़ने के बाद यह जिम्मेदारी खाली थी.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "आज पितरों की विदाई का आखिरी दिन, जानें श्राद्ध का शुभ मुहूर्त, पूजा विधि और दान का महत्व",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/sarva-pitru-amavasya-2026-know-the-exact-shradh-muhurat-puja-vidhi-rules-and-daan-2026-10-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T02:26:27+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/sarvapitru-amavasya_e143aed6212d537173d7d6b796c55366.jpeg?w=1200&dpr=1.0",
-      "summary": "सर्वपितृ अमावस्या 10 अक्टूबर 2026 को मनाई गई। यह पितृ पक्ष का अंतिम दिन है। इस दिन श्राद्ध, तर्पण और पिंडदान का विशेष महत्व माना जाता है। सर्वपितृ अमावस्या 2026 आज 10 अक्तूबर को मनाई जा रही है। इसे पितृ पक्ष का अंतिम दिन माना जाता है। इस दिन श्राद्ध, तर्पण और पिंडदान का विशेष महत्व है। आइए जानते हैं श्राद्ध का शुभ मुहूर्त, पूजा विधि, जरूरी नियम और दान का महत्व।",
+      "published_at": "2026-10-10T06:38:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/sajaya-rauta-sasatha-shavasana-yabta_5ff372529642c1cfccef9f8a0ab7f856.jpeg?w=1200&dpr=1.0",
+      "summary": "संजय राउत ने प्रदर्शनकारियों की हिरासत पर प्रतिक्रिया दी। उन्होंने कहा कि जनता की आवाज दबाई नहीं जा सकती। राउत ने इसे ब्रिटिश शासन की तुलना में जोड़ा। 'क्या देश में ब्रिटिश शासन है?': प्रदर्शनकारियों की हिरासत पर भड़के संजय राउत, कहा- जनता की आवाज।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आज पितरों की विदाई का आखिरी दिन, जानें श्राद्ध का शुभ मुहूर्त, पूजा विधि और दान का महत्व",
-          "summary": "सर्वपितृ अमावस्या 10 अक्टूबर 2026 को मनाई गई। यह पितृ पक्ष का अंतिम दिन है। इस दिन श्राद्ध, तर्पण और पिंडदान का विशेष महत्व माना जाता है। सर्वपितृ अमावस्या 2026 आज 10 अक्तूबर को मनाई जा रही है। इसे पितृ पक्ष का अंतिम दिन माना जाता है। इस दिन श्राद्ध, तर्पण और पिंडदान का विशेष महत्व है। आइए जानते हैं श्राद्ध का शुभ मुहूर्त, पूजा विधि, जरूरी नियम और दान का महत्व।",
+          "title": "'क्या देश में ब्रिटिश शासन है?': प्रदर्शनकारियों की हिरासत पर भड़के संजय राउत, कहा- जनता की आवाज",
+          "summary": "संजय राउत ने प्रदर्शनकारियों की हिरासत पर प्रतिक्रिया दी। उन्होंने कहा कि जनता की आवाज दबाई नहीं जा सकती। राउत ने इसे ब्रिटिश शासन की तुलना में जोड़ा। 'क्या देश में ब्रिटिश शासन है?': प्रदर्शनकारियों की हिरासत पर भड़के संजय राउत, कहा- जनता की आवाज।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "रणवीर की फिल्म का जलवा बरकरार, ग्रैमी अवॉर्ड के लिए भेजे गए ये गाने; देखें लिस्ट",
-      "url": "https://www.amarujala.com/photo-gallery/entertainment/bollywood/ranveer-singh-starrer-dhurandhar-the-revenge-songs-submitted-for-grammy-consideration-2026-10-10",
-      "source": "Amar Ujala National",
+      "title": "नाना पाटेकर की याद में अभिनेता ने लिया बड़ा फैसला, शो के आखिरी एपिसोड को लेकर कही ये बात",
+      "url": "https://www.amarujala.com/entertainment/shekhar-suman-cancels-shekhar-tonite-finale-episode-after-nana-patekar-death-2026-10-10",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-10T02:26:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/07/thharathhara-2-ka-narathashaka-aathataya-thhara_185fc500e3ece18ee30efa341c020b7d.jpeg?w=1200&dpr=1.0",
-      "summary": "फिल्म धुरंधर: द रिवेंज के लगभग सभी गानों को ग्रैमी अवॉर्ड के लिए भेजा गया है। मेकर्स के लिए यह एक बड़ी उपलब्धि मानी जा रही है। 'धुरंधर: द रिवेंज' के मेकर्स के लिए यह खुशी का मौका है। फिल्म के लगभग सभी गानों को ग्रैमी अवॉर्ड के लिए भेजा गया है। रणवीर की फिल्म का जलवा बरकरार, ग्रैमी अवॉर्ड के लिए भेजे गए ये गाने; देखें लिस्ट।",
+      "published_at": "2026-10-10T06:24:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/shakhara-samana_e641196e2685337cfaeb15aeea59dae4.jpeg?w=1200&dpr=1.0",
+      "summary": "शेखर सुमन ने नाना पाटेकर की याद में अपने शो शेखर टुनाइट का आखिरी एपिसोड करने से इनकार कर दिया। उन्होंने इस फैसले के पीछे की वजह भी साझा की। अभिनेता शेखर सुमन ने अपने शो 'शेखर टुनाइट' का आखिरी एपिसोड करने से मना कर दिया है और उन्होंने इसके पीछे की वजह का खुलासा भी किया है। आइए जानते हैं कि एक्टर ने क्या कहा।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रणवीर की फिल्म का जलवा बरकरार, ग्रैमी अवॉर्ड के लिए भेजे गए ये गाने; देखें लिस्ट",
-          "summary": "फिल्म धुरंधर: द रिवेंज के लगभग सभी गानों को ग्रैमी अवॉर्ड के लिए भेजा गया है। मेकर्स के लिए यह एक बड़ी उपलब्धि मानी जा रही है। 'धुरंधर: द रिवेंज' के मेकर्स के लिए यह खुशी का मौका है। फिल्म के लगभग सभी गानों को ग्रैमी अवॉर्ड के लिए भेजा गया है। रणवीर की फिल्म का जलवा बरकरार, ग्रैमी अवॉर्ड के लिए भेजे गए ये गाने; देखें लिस्ट।",
+          "title": "नाना पाटेकर की याद में अभिनेता ने लिया बड़ा फैसला, शो के आखिरी एपिसोड को लेकर कही ये बात",
+          "summary": "शेखर सुमन ने नाना पाटेकर की याद में अपने शो शेखर टुनाइट का आखिरी एपिसोड करने से इनकार कर दिया। उन्होंने इस फैसले के पीछे की वजह भी साझा की। अभिनेता शेखर सुमन ने अपने शो 'शेखर टुनाइट' का आखिरी एपिसोड करने से मना कर दिया है और उन्होंने इसके पीछे की वजह का खुलासा भी किया है। आइए जानते हैं कि एक्टर ने क्या कहा।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "आज शनिवार को आपके शहर के बैंक खुले हैं या नहीं? ब्रांच जाने से पहले यहां करें चेक",
-      "url": "https://www.amarujala.com/photo-gallery/utility/bank-holiday-today-are-the-banks-in-your-city-open-today-saturday-ko-bank-band-hai-kya-2026-10-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T02:23:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/aaja-10-akatabra-ka-bka-btha-ha-ya-khal-ha_949ed5f818db046b5323f63b98e85f53.jpeg?w=1200&dpr=1.0",
-      "summary": "10 अक्टूबर 2026 को बैंक ब्रांचों की स्थिति शहर के अनुसार भिन्न है। ग्राहकों को घर से निकलने से पहले स्थानीय ब्रांच की खुलने की जानकारी जाँच लेनी चाहिए। अगर आप आज यानी 10 अक्तूबर 2026 को किसी जरूरी काम से बैंक जाने वाले हैं, तो घर से निकलने से पहले एक बार ये जरूर चेक कर लें कि आपके शहर में आज बैंक खुले हैं या फिर बंद हैं।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज शनिवार को आपके शहर के बैंक खुले हैं या नहीं? ब्रांच जाने से पहले यहां करें चेक",
-          "summary": "10 अक्टूबर 2026 को बैंक ब्रांचों की स्थिति शहर के अनुसार भिन्न है। ग्राहकों को घर से निकलने से पहले स्थानीय ब्रांच की खुलने की जानकारी जाँच लेनी चाहिए। अगर आप आज यानी 10 अक्तूबर 2026 को किसी जरूरी काम से बैंक जाने वाले हैं, तो घर से निकलने से पहले एक बार ये जरूर चेक कर लें कि आपके शहर में आज बैंक खुले हैं या फिर बंद हैं।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "3,548 पदों के लिए करोड़ों अभ्यर्थियों में मुकाबला, स्मार्ट तैयारी से कैसे मिलेगी सफलता?",
-      "url": "https://www.amarujala.com/jobs/rrb-ntpc-graduate-level-recruitment-2026-apply-for-3-548-vacancies-by-november-6-check-selection-process-and-2026-10-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T02:12:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/rrb-ntpc-graduate-level-recruitment-2026_eae8282d5f4fccdf24d7f4f20b930284.jpeg?w=1200&dpr=1.0",
-      "summary": "रेलवे भर्ती बोर्ड ने एनटीपीसी स्नातक स्तर पर 3,548 पदों के लिए आवेदन शुरू किए हैं। करोड़ों अभ्यर्थियों के बीच इस भर्ती के लिए कड़ा मुकाबला होने की उम्मीद है। RRB NTPC Graduate Level Recruitment 2026: रेलवे में सरकारी नौकरी पाने का सपना देख रहे युवाओं के लिए भर्ती का अवसर है। रेलवे भर्ती बोर्ड ने एनटीपीसी स्नातक स्तर के 3,548 पदों पर आवेदन शुरू कर दिए हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "3,548 पदों के लिए करोड़ों अभ्यर्थियों में मुकाबला, स्मार्ट तैयारी से कैसे मिलेगी सफलता?",
-          "summary": "रेलवे भर्ती बोर्ड ने एनटीपीसी स्नातक स्तर पर 3,548 पदों के लिए आवेदन शुरू किए हैं। करोड़ों अभ्यर्थियों के बीच इस भर्ती के लिए कड़ा मुकाबला होने की उम्मीद है। RRB NTPC Graduate Level Recruitment 2026: रेलवे में सरकारी नौकरी पाने का सपना देख रहे युवाओं के लिए भर्ती का अवसर है। रेलवे भर्ती बोर्ड ने एनटीपीसी स्नातक स्तर के 3,548 पदों पर आवेदन शुरू कर दिए हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हूती विद्रोहियों के खिलाफ यमन की सेना की बड़ी कार्रवाई, 24 घंटे में 1400 से ज्यादा लड़ाके ढेर करने",
-      "url": "https://www.patrika.com/world-news/yemen-houthi-attack-2750-strikes-1400-fighters-neutralised-20972386",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-10T02:06:20+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/operation-dawn-of-yemen-1.webp",
-      "summary": "यमन की मान्यता प्राप्त सरकार ने ईरान समर्थित हूती विद्रोहियों के खिलाफ सैन्य अभियान शुरू किया। पिछले 24 घंटों में 2,750 से अधिक सटीक हमले किए गए। इस कार्रवाई में 1,400 से अधिक हूती लड़ाके मारे गए। Yemen Houthi Attack: यमन की अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार और प्रेसिडेंशियल लीडरशिप काउंसिल (PLC) ने ईरान समर्थित हूती विद्रोहियों के खिलाफ बड़ी कार्रवाई की है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूती विद्रोहियों के खिलाफ यमन की सेना की बड़ी कार्रवाई, 24 घंटे में 1400 से ज्यादा लड़ाके ढेर करने",
-          "summary": "यमन की मान्यता प्राप्त सरकार ने ईरान समर्थित हूती विद्रोहियों के खिलाफ सैन्य अभियान शुरू किया। पिछले 24 घंटों में 2,750 से अधिक सटीक हमले किए गए। इस कार्रवाई में 1,400 से अधिक हूती लड़ाके मारे गए। Yemen Houthi Attack: यमन की अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार और प्रेसिडेंशियल लीडरशिप काउंसिल (PLC) ने ईरान समर्थित हूती विद्रोहियों के खिलाफ बड़ी कार्रवाई की है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सांसद ने पाकिस्तान को दिखाया आईना; प्रिया सरोज बोलीं- अपराध पर जीरो टॉलरेंस",
-      "url": "https://www.amarujala.com/world/india-women-mps-un-pakistan-jammu-kashmir-accountability-2026-10-10",
+      "title": "दाएगू शहर के सुपरमार्केट में छत गिरने से 38 लोग घायल, राष्ट्रपति ने दिए जांच के निर्देश",
+      "url": "https://www.amarujala.com/world/south-korea-daegu-supermarket-ceiling-collapses-2026-10-10",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-10T02:04:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/yaena-ma-mahal-sasatha-na-rakha-bharata-ka-pakashha_837b81dcec316f494a7cd76d01fdae3e.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय सांसद प्रिया सरोज ने संयुक्त राष्ट्र में पाकिस्तान को जवाब दिया। उन्होंने अपराधों के खिलाफ जीरो टॉलरेंस नीति अपनाए जाने की मांग की। इस बयान से क्षेत्रीय तनावों में नया मोड़ आया। यूएन में भारतीय नारी शक्ति: सांसद ने पाकिस्तान को दिखाया आईना; प्रिया सरोज बोलीं- अपराध पर जीरो टॉलरेंस।",
+      "published_at": "2026-10-10T06:24:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/25/tharaghatana-sakataka-tasavara_1a6eda6275ed747a502e94bbeeff23e8.jpeg?w=1200&dpr=1.0",
+      "summary": "दक्षिण कोरिया के दाएगू में सुपरमार्केट की छत गिरने से 38 लोग घायल हुए। 66 लोगों को सुरक्षित निकाला गया। राष्ट्रपति ली जे म्युंग ने जांच के निर्देश दिए। दक्षिण कोरिया के दाएगू शहर में सुपरमार्केट की प्लास्टर छत गिरने से 38 लोग घायल हुए। 66 को सुरक्षित बाहर निकाला गया। राष्ट्रपति ली जे म्युंग ने मामले पर जांच व राहत के निर्देश दिए हैं।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सांसद ने पाकिस्तान को दिखाया आईना; प्रिया सरोज बोलीं- अपराध पर जीरो टॉलरेंस",
-          "summary": "भारतीय सांसद प्रिया सरोज ने संयुक्त राष्ट्र में पाकिस्तान को जवाब दिया। उन्होंने अपराधों के खिलाफ जीरो टॉलरेंस नीति अपनाए जाने की मांग की। इस बयान से क्षेत्रीय तनावों में नया मोड़ आया। यूएन में भारतीय नारी शक्ति: सांसद ने पाकिस्तान को दिखाया आईना; प्रिया सरोज बोलीं- अपराध पर जीरो टॉलरेंस।",
+          "title": "दाएगू शहर के सुपरमार्केट में छत गिरने से 38 लोग घायल, राष्ट्रपति ने दिए जांच के निर्देश",
+          "summary": "दक्षिण कोरिया के दाएगू में सुपरमार्केट की छत गिरने से 38 लोग घायल हुए। 66 लोगों को सुरक्षित निकाला गया। राष्ट्रपति ली जे म्युंग ने जांच के निर्देश दिए। दक्षिण कोरिया के दाएगू शहर में सुपरमार्केट की प्लास्टर छत गिरने से 38 लोग घायल हुए। 66 को सुरक्षित बाहर निकाला गया। राष्ट्रपति ली जे म्युंग ने मामले पर जांच व राहत के निर्देश दिए हैं।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "अब ज्यादा सटीक होगी देश में जीडीपी की तस्वीर; दूध-घी से हवाई सफर तक का खर्च भी जुड़ेगा?",
-      "url": "https://www.amarujala.com/business/business-diary/big-change-india-s-gdp-picture-to-become-more-accurate-spending-dairy-products-to-air-travel-to-be-included-2026-10-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T02:01:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/jadapa-mapana-ka-taraka-bthalga_b9f449dbf06d9fe5779d48e6ecda0414.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत में जीडीपी की गणना प्रणाली में बदलाव किया गया। अब दूध, घी और हवाई यात्रा जैसे खर्च भी इसमें शामिल होंगे। इससे आर्थिक आंकड़ों की सटीकता में सुधार होगा। बड़ा बदलाव: अब ज्यादा सटीक होगी देश में जीडीपी की तस्वीर; दूध-घी से हवाई सफर तक का खर्च भी जुड़ेगा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब ज्यादा सटीक होगी देश में जीडीपी की तस्वीर; दूध-घी से हवाई सफर तक का खर्च भी जुड़ेगा?",
-          "summary": "भारत में जीडीपी की गणना प्रणाली में बदलाव किया गया। अब दूध, घी और हवाई यात्रा जैसे खर्च भी इसमें शामिल होंगे। इससे आर्थिक आंकड़ों की सटीकता में सुधार होगा। बड़ा बदलाव: अब ज्यादा सटीक होगी देश में जीडीपी की तस्वीर; दूध-घी से हवाई सफर तक का खर्च भी जुड़ेगा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पनामा में 7.6 तीव्रता का तगड़ा भूकंप, हिल उठी राजधानी, 9 देशों पर मंडराया सुनामी का खतरा",
-      "url": "https://hindi.news18.com/world/rest-of-world-earthquake-struck-panama-7-6-magnitude-triggering-tsunami-alerts-across-9-countries-10898712.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-10T02:00:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/panam-earthquake-2026-10-e945cb1f87439c1868d5af958122a622-1200x800.jpg",
-      "summary": "पनामा में 7.6 तीव्रता का भूकंप आया। राजधानी पनामा सिटी में भी झटके महसूस किए गए। मध्य और दक्षिण अमेरिका के नौ देशों में सुनामी का अलर्ट जारी किया गया। Earthquake Today News: दक्षिण अमेरिकी देश पनामा शुक्रवार सुबह कांप गया. यहां 7.6 तीव्रता का जोरदार भूकंप आया, जिसके झटके राजधानी पनामा सिटी तक महसूस किए गए. इमारतें हिलने से घबराए लोग सड़कों पर निकल आए.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पनामा में 7.6 तीव्रता का तगड़ा भूकंप, हिल उठी राजधानी, 9 देशों पर मंडराया सुनामी का खतरा",
-          "summary": "पनामा में 7.6 तीव्रता का भूकंप आया। राजधानी पनामा सिटी में भी झटके महसूस किए गए। मध्य और दक्षिण अमेरिका के नौ देशों में सुनामी का अलर्ट जारी किया गया। Earthquake Today News: दक्षिण अमेरिकी देश पनामा शुक्रवार सुबह कांप गया. यहां 7.6 तीव्रता का जोरदार भूकंप आया, जिसके झटके राजधानी पनामा सिटी तक महसूस किए गए. इमारतें हिलने से घबराए लोग सड़कों पर निकल आए.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "हादसे से बदला असली नाम, टेलीफोन ऑपरेटर से कैसे बने अभिनेता? पढ़ें निजी जिंदगी के किस्से",
-      "url": "https://www.amarujala.com/entertainment/bollywood/guru-dutt-death-anniversary-anniversary-special-his-film-career-and-personal-life-2026-10-09",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T02:00:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/gara-thatata-ka-panaeyatatha_83f66f5ccfb999b2cf6ba6f6b56df146.jpeg?w=1200&dpr=1.0",
-      "summary": "बॉलीवुड अभिनेता गुरु दत्त की पुण्यतिथि मनाई गई। वह अपनी निजी जिंदगी और फिल्मों दोनों के लिए याद किए जाते हैं। उनके जीवन से जुड़े कई अनकहे किस्से आज फिर चर्चा में हैं। बॉलीवुड के दिग्गज कलाकार गुरु दत्त की आज पुण्यतिथि है। फिल्मों के अलावा वह अपनी निजी जिंदगी को लेकर चर्चा में रहे। ऐसे में हम आपको उनसे जुड़े कुछ किस्से बता रहे हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हादसे से बदला असली नाम, टेलीफोन ऑपरेटर से कैसे बने अभिनेता? पढ़ें निजी जिंदगी के किस्से",
-          "summary": "बॉलीवुड अभिनेता गुरु दत्त की पुण्यतिथि मनाई गई। वह अपनी निजी जिंदगी और फिल्मों दोनों के लिए याद किए जाते हैं। उनके जीवन से जुड़े कई अनकहे किस्से आज फिर चर्चा में हैं। बॉलीवुड के दिग्गज कलाकार गुरु दत्त की आज पुण्यतिथि है। फिल्मों के अलावा वह अपनी निजी जिंदगी को लेकर चर्चा में रहे। ऐसे में हम आपको उनसे जुड़े कुछ किस्से बता रहे हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पालघर में हैवानियत, मासूम के दुष्कर्मी पिता को 20 साल जेल; आदित्य ठाकरे ने चुनाव आयोग पर उठाए सवाल",
-      "url": "https://www.amarujala.com/india-news/maharashtra-updates-palghar-father-20-yr-jail-aditya-thackeray-eci-sir-mumbai-nagpur-politics-crime-other-news-2026-10-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T01:53:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
-      "summary": "पालघर न्यायालय ने मासूम बच्चे के यौन उत्पीड़न के आरोपी पिता को 20 साल की सजा सुनाई। आदित्य ठाकरे ने इस मामले में चुनाव आयोग से सवाल उठाए। महाराष्ट्र: पालघर में हैवानियत, मासूम के दुष्कर्मी पिता को 20 साल जेल; आदित्य ठाकरे ने चुनाव आयोग पर उठाए सवाल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पालघर में हैवानियत, मासूम के दुष्कर्मी पिता को 20 साल जेल; आदित्य ठाकरे ने चुनाव आयोग पर उठाए सवाल",
-          "summary": "पालघर न्यायालय ने मासूम बच्चे के यौन उत्पीड़न के आरोपी पिता को 20 साल की सजा सुनाई। आदित्य ठाकरे ने इस मामले में चुनाव आयोग से सवाल उठाए। महाराष्ट्र: पालघर में हैवानियत, मासूम के दुष्कर्मी पिता को 20 साल जेल; आदित्य ठाकरे ने चुनाव आयोग पर उठाए सवाल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "स्कूलों के लिए नीति पर काम नहीं हुआ शुरू; यूजीसी के दिशा-निर्देश कहां अटके?",
-      "url": "https://www.amarujala.com/india-news/world-mental-health-day-why-have-states-not-started-school-mental-health-policies-2026-10-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T01:46:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/world-mental-health-day_a2951888eaf55f6cb99089e7566c68eb.jpeg?w=1200&dpr=1.0",
-      "summary": "विश्व मानसिक स्वास्थ्य दिवस पर स्कूलों के लिए मानसिक स्वास्थ्य नीति पर काम शुरू नहीं हुआ। यूजीसी के दिशा-निर्देशों की प्रगति पर सवाल उठे हैं। विश्व मानसिक स्वास्थ्य दिवस आज: स्कूलों के लिए नीति पर काम नहीं हुआ शुरू; यूजीसी के दिशा-निर्देश कहां अटके?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्कूलों के लिए नीति पर काम नहीं हुआ शुरू; यूजीसी के दिशा-निर्देश कहां अटके?",
-          "summary": "विश्व मानसिक स्वास्थ्य दिवस पर स्कूलों के लिए मानसिक स्वास्थ्य नीति पर काम शुरू नहीं हुआ। यूजीसी के दिशा-निर्देशों की प्रगति पर सवाल उठे हैं। विश्व मानसिक स्वास्थ्य दिवस आज: स्कूलों के लिए नीति पर काम नहीं हुआ शुरू; यूजीसी के दिशा-निर्देश कहां अटके?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरान संकट पर पुतिन-ट्रंप की बातचीत, होर्मुज में जहाजों पर शिकंजा; यमन में भी बढ़ा सैन्य तनाव",
-      "url": "https://www.patrika.com/world-news/iran-war-live-trump-putin-talks-hormuz-crisis-20972342",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-10T01:37:10+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Trump-Putin-Phone-Cal.webp",
-      "summary": "ट्रंप और पुतिन ने ईरान संकट पर बातचीत की। होर्मुज जलडमरूमध्य में जहाजों पर सख्ती बढ़ी और यमन में सैन्य तनाव गहराया। Iran War Latest News: पश्चिम एशिया में जारी तनाव अब केवल ईरान और अमेरिका के बीच टकराव तक सीमित नहीं रह गया है। रूस की मध्यस्थता की कोशिशें, सऊदी अरब पर हूती हमले के बाद सैन्य कार्रवाई और रणनीतिक समुद्री मार्गों पर बढ़ती सख्ती ने हालात को और जटिल बना दिया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान संकट पर पुतिन-ट्रंप की बातचीत, होर्मुज में जहाजों पर शिकंजा; यमन में भी बढ़ा सैन्य तनाव",
-          "summary": "ट्रंप और पुतिन ने ईरान संकट पर बातचीत की। होर्मुज जलडमरूमध्य में जहाजों पर सख्ती बढ़ी और यमन में सैन्य तनाव गहराया। Iran War Latest News: पश्चिम एशिया में जारी तनाव अब केवल ईरान और अमेरिका के बीच टकराव तक सीमित नहीं रह गया है। रूस की मध्यस्थता की कोशिशें, सऊदी अरब पर हूती हमले के बाद सैन्य कार्रवाई और रणनीतिक समुद्री मार्गों पर बढ़ती सख्ती ने हालात को और जटिल बना दिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की रूस से डीजल डील पर बवाल, ऑस्ट्रेलिया ने साफ कहा-पुतिन को फायदा मंजूर नहीं",
-      "url": "https://www.patrika.com/world-news/trump-putin-russia-diesel-deal-us-fuel-prices-20972359",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-10T01:37:03+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Trump-Putin-Russia-Diesel-D.webp",
-      "summary": "ट्रंप ने रूस से डीजल आपूर्ति के दावे किए। ऑस्ट्रेलिया के ऊर्जा मंत्री क्रिस बोवेन ने कहा कि उनका देश रूसी ईंधन नहीं चाहता। Donald Trump Vladimir Putin Deal: अमेरिका में महंगे डीजल से राहत दिलाने के लिए राष्ट्रपति डोनाल्ड ट्रंप ने रूस के राष्ट्रपति व्लादिमीर पुतिन के साथ ईंधन आपूर्ति को लेकर समझौते का दावा किया है। लेकिन इस पहल ने ऊर्जा संकट के बीच अंतरराष्ट्रीय राजनीति को भी गरमा दिया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की रूस से डीजल डील पर बवाल, ऑस्ट्रेलिया ने साफ कहा-पुतिन को फायदा मंजूर नहीं",
-          "summary": "ट्रंप ने रूस से डीजल आपूर्ति के दावे किए। ऑस्ट्रेलिया के ऊर्जा मंत्री क्रिस बोवेन ने कहा कि उनका देश रूसी ईंधन नहीं चाहता। Donald Trump Vladimir Putin Deal: अमेरिका में महंगे डीजल से राहत दिलाने के लिए राष्ट्रपति डोनाल्ड ट्रंप ने रूस के राष्ट्रपति व्लादिमीर पुतिन के साथ ईंधन आपूर्ति को लेकर समझौते का दावा किया है। लेकिन इस पहल ने ऊर्जा संकट के बीच अंतरराष्ट्रीय राजनीति को भी गरमा दिया है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सर्वपितृ अमावस्या पर पितरों को दें श्रद्धापूर्वक विदाई, जानें दीपदान की सही विधि और महत्व",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/sarva-pitru-amavasya-2026-know-the-puja-rituals-importance-and-ways-to-seek-ancestors-blessings-2026-10-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-10T01:35:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/07/saravapata-amavasaya_ac4ae205be8e563321ca4ae132b8159a.jpeg?w=1200&dpr=1.0",
-      "summary": "सर्वपितृ अमावस्या पितृ पक्ष का अंतिम दिन है। इस दिन विधि-विधान से श्राद्ध कर्म करने पर पितरों का आशीर्वाद मिलता है। सर्वपितृ अमावस्या पितृ पक्ष का अंतिम दिन माना जाता है। धार्मिक मान्यता के अनुसार, विधि-विधान से किए गए श्राद्ध कर्म से पितरों का आशीर्वाद प्राप्त होता है। सर्वपितृ अमावस्या पर पितरों को दें श्रद्धापूर्वक विदाई, जानें दीपदान की सही विधि और महत्व।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सर्वपितृ अमावस्या पर पितरों को दें श्रद्धापूर्वक विदाई, जानें दीपदान की सही विधि और महत्व",
-          "summary": "सर्वपितृ अमावस्या पितृ पक्ष का अंतिम दिन है। इस दिन विधि-विधान से श्राद्ध कर्म करने पर पितरों का आशीर्वाद मिलता है। सर्वपितृ अमावस्या पितृ पक्ष का अंतिम दिन माना जाता है। धार्मिक मान्यता के अनुसार, विधि-विधान से किए गए श्राद्ध कर्म से पितरों का आशीर्वाद प्राप्त होता है। सर्वपितृ अमावस्या पर पितरों को दें श्रद्धापूर्वक विदाई, जानें दीपदान की सही विधि और महत्व।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रूस से डीजल खरीदेगा अमेरिका, पुतिन ने किया अहसान, दुनिया को क्या मुंह दिखाएंगे ट्रंप? भड़के",
-      "url": "https://hindi.news18.com/world/europe-russian-diesel-supply-to-us-and-global-market-to-reduce-cost-donald-trump-ukraine-concerned-santions-midterm-election-10898732.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-10T01:29:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/putin-trumo-2026-10-d9a83c9710a123e43d59480525ba4a49-1200x800.jpg",
-      "summary": "ट्रंप ने रूस से डीजल खरीदने का ऐलान किया है। उनका दावा है कि इससे तेल की कीमतें घटेंगी। यह फैसला पुतिन की पूर्व भविष्यवाणी को सही साबित करता है। यूक्रेन ने इस पर तुरंत प्रतिक्रिया दी है। इसमें उन्होंने कहा था कि डोनाल्ड ट्रंप एक अनप्रिडिक्टेबल व्यक्ति हैं. यानी ऐसा शख्स जिसके अगले फैसले का अनुमान नहीं लगाया जा सकता हो.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस से डीजल खरीदेगा अमेरिका, पुतिन ने किया अहसान, दुनिया को क्या मुंह दिखाएंगे ट्रंप? भड़के",
-          "summary": "ट्रंप ने रूस से डीजल खरीदने का ऐलान किया है। उनका दावा है कि इससे तेल की कीमतें घटेंगी। यह फैसला पुतिन की पूर्व भविष्यवाणी को सही साबित करता है। यूक्रेन ने इस पर तुरंत प्रतिक्रिया दी है। इसमें उन्होंने कहा था कि डोनाल्ड ट्रंप एक अनप्रिडिक्टेबल व्यक्ति हैं. यानी ऐसा शख्स जिसके अगले फैसले का अनुमान नहीं लगाया जा सकता हो.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "UAE के शारजाह तट पर पनामा के तेल टैंकर पर ड्रोन हमला, सभी 22 भारतीय क्रू मेंबर पूरी तरह सुरक्षित",
-      "url": "https://www.patrika.com/world-news/mt-gem-no-2-tanker-attack-sharjah-22-indian-seafarers-safe-20972349",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-10T01:05:35+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/MT-GEM-NO.-2-Attack.webp",
-      "summary": "शारजाह एंकरेज के पास पनामा के टैंकर MT GEM NO. 2 पर ड्रोन हमला हुआ। जहाज पर सवार सभी 22 भारतीय नाविक सुरक्षित हैं। मंत्री सर्बानंद सोनोवाल ने स्थिति को स्पष्ट किया है। MT GEM NO. 2 Attack: संयुक्त अरब अमीरात (UAE) में शारजाह एंकरेज के पास पनामा के झंडे वाले कच्चे तेल के टैंकर ‘MT GEM NO. 2’ पर संदिग्ध ड्रोन हमला हुआ।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "UAE के शारजाह तट पर पनामा के तेल टैंकर पर ड्रोन हमला, सभी 22 भारतीय क्रू मेंबर पूरी तरह सुरक्षित",
-          "summary": "शारजाह एंकरेज के पास पनामा के टैंकर MT GEM NO. 2 पर ड्रोन हमला हुआ। जहाज पर सवार सभी 22 भारतीय नाविक सुरक्षित हैं। मंत्री सर्बानंद सोनोवाल ने स्थिति को स्पष्ट किया है। MT GEM NO. 2 Attack: संयुक्त अरब अमीरात (UAE) में शारजाह एंकरेज के पास पनामा के झंडे वाले कच्चे तेल के टैंकर ‘MT GEM NO. 2’ पर संदिग्ध ड्रोन हमला हुआ।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जिस ग्रीन कार्ड को लेकर ट्रंप लाल, उसका क्या काम; क्यों लगातार सख्त हो रहे वीजा से जुड़े नियम?",
-      "url": "https://www.amarujala.com/world/explainer-why-is-trump-targeting-green-cards-why-are-us-visa-rules-getting-stricter-2026-10-09",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-10T00:55:43+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/09/raya-dana-ka-ekasapalnara_1212f59f39c21de4a4ecc7060b6447e6.jpeg?w=1200&dpr=1.0",
-      "summary": "ट्रंप प्रशासन वीजा और ग्रीन कार्ड नियमों को लगातार सख्त कर रहा है। यह कदम अमेरिका में प्रवासन नीति में बदलाव का हिस्सा है। नए नियम आवेदकों पर अधिक कठोर शर्तें लगाते हैं। एक्सप्लेनर: जिस ग्रीन कार्ड को लेकर ट्रंप लाल, उसका क्या काम; क्यों लगातार सख्त हो रहे वीजा से जुड़े नियम?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जिस ग्रीन कार्ड को लेकर ट्रंप लाल, उसका क्या काम; क्यों लगातार सख्त हो रहे वीजा से जुड़े नियम?",
-          "summary": "ट्रंप प्रशासन वीजा और ग्रीन कार्ड नियमों को लगातार सख्त कर रहा है। यह कदम अमेरिका में प्रवासन नीति में बदलाव का हिस्सा है। नए नियम आवेदकों पर अधिक कठोर शर्तें लगाते हैं। एक्सप्लेनर: जिस ग्रीन कार्ड को लेकर ट्रंप लाल, उसका क्या काम; क्यों लगातार सख्त हो रहे वीजा से जुड़े नियम?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "पेंटागन की योजना पर उपराष्ट्रपति को संशय, क्या पहली बार टीवी पर मृत्युदंड देखेंगे लोग?",
-      "url": "https://www.amarujala.com/world/us-first-televised-execution-fort-hood-shooting-soldiers-killed-2026-10-10",
+      "title": "विमान में हाथ जोड़कर खड़े हुए दिपके, पुलिस से बहस भी हुई; हिरासत से पहले हाईवोल्टेज ड्रामा",
+      "url": "https://www.amarujala.com/photo-gallery/delhi/cockroach-janta-party-cjp-founder-abhijeet-dipkedetained-by-police-at-delhi-airport-2026-10-10",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-10T00:42:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/amaraka-ma-matayathada-pahal-bra-tava-para-thakhaga-lga_2abc74c84729869cf8f87d52fbd45edc.jpeg?w=1200&dpr=1.0",
-      "summary": "पेंटागन की नई योजना पर उपराष्ट्रपति वेंस ने संशय जताया है। यह विवाद सैन्य न्याय प्रक्रिया से जुड़ा है। टीवी पर मृत्युदंड के दृश्य दिखने की संभावना भी उठी है। वेंस-हेगसेथ एकमत नहीं: पेंटागन की योजना पर उपराष्ट्रपति को संशय, क्या पहली बार टीवी पर मृत्युदंड देखेंगे लोग?",
+      "published_at": "2026-10-10T06:24:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/cjp-protest_30e065ad03638f5b97b45578eaa56f92.gif?w=1200&dpr=1.0",
+      "summary": "कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके को इंदिरा गांधी हवाई अड्डे पर विमान से हिरासत में लिया गया। उनके साथ सौरव दास और आशुतोष रांका को भी गिरफ्तार किया गया। कॉकरोच जनता पार्टी (CJP) के संस्थापक अभिजीत दिपके को IGI हवाई अड्डे पर विमान के अंदर से हिरासत में लिया गया है। उनके साथ सौरव दास और आशुतोष रांका को भी पुलिस ने हिरासत में लिया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विमान में हाथ जोड़कर खड़े हुए दिपके, पुलिस से बहस भी हुई; हिरासत से पहले हाईवोल्टेज ड्रामा",
+          "summary": "कॉकरोच जनता पार्टी के संस्थापक अभिजीत दिपके को इंदिरा गांधी हवाई अड्डे पर विमान से हिरासत में लिया गया। उनके साथ सौरव दास और आशुतोष रांका को भी गिरफ्तार किया गया। कॉकरोच जनता पार्टी (CJP) के संस्थापक अभिजीत दिपके को IGI हवाई अड्डे पर विमान के अंदर से हिरासत में लिया गया है। उनके साथ सौरव दास और आशुतोष रांका को भी पुलिस ने हिरासत में लिया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गंभीर ने श्रेयस से पहले शिवम को भेजने का बचाव किया, गेंदबाजों को लेकर क्या बोले कोच?",
+      "url": "https://www.amarujala.com/photo-gallery/cricket/cricket-news/india-vs-west-indies-head-coach-gautam-gambhir-defends-shivam-dube-promotion-praise-mayank-yadav-2026-10-10",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-10T06:20:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/ind_999308c7deecbe99e5886b1d0a27d4a5.jpeg?w=1200&dpr=1.0",
+      "summary": "मुख्य कोच गौतम गंभीर ने शिवम दुबे को श्रेयस अय्यर के स्थान पर भेजने का बचाव किया। उन्होंने बल्ले और गेंद के बीच कड़ी प्रतिस्पर्धा की वकालत की। शिवम दुबे को श्रेयस अय्यर के स्थान पर बल्लेबाजी के लिए भेजे जाने पर मुख्य कोच गौतम गंभीर की आलोचना की जा रही है। हालांकि, कोच ने अपने इस फैसले का बचाव किया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गंभीर ने श्रेयस से पहले शिवम को भेजने का बचाव किया, गेंदबाजों को लेकर क्या बोले कोच?",
+          "summary": "मुख्य कोच गौतम गंभीर ने शिवम दुबे को श्रेयस अय्यर के स्थान पर भेजने का बचाव किया। उन्होंने बल्ले और गेंद के बीच कड़ी प्रतिस्पर्धा की वकालत की। शिवम दुबे को श्रेयस अय्यर के स्थान पर बल्लेबाजी के लिए भेजे जाने पर मुख्य कोच गौतम गंभीर की आलोचना की जा रही है। हालांकि, कोच ने अपने इस फैसले का बचाव किया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सुप्रीम कोर्ट के आदेश के बावजूद बंद रहे मेट्रो स्टेशन, याचिकाकर्ता ने लगाया अवमानना का आरोप",
+      "url": "https://www.amarujala.com/india-news/cjp-protest-supreme-court-contempt-plea-delhi-metro-closure-2026-10-10",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-10T06:07:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/01/hindi-news_81a3bb61b248ee5caa92b3f80be6b1b2.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में सुप्रीम कोर्ट के आदेश के बावजूद मेट्रो स्टेशन बंद रहे। याचिकाकर्ता ने इस पर अवमानना का आरोप लगाया। सीजेपी प्रदर्शन: सुप्रीम कोर्ट के आदेश के बावजूद बंद रहे मेट्रो स्टेशन, याचिकाकर्ता ने लगाया अवमानना का आरोप cjp protest supreme court contempt plea delhi metro closure।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुप्रीम कोर्ट के आदेश के बावजूद बंद रहे मेट्रो स्टेशन, याचिकाकर्ता ने लगाया अवमानना का आरोप",
+          "summary": "दिल्ली में सुप्रीम कोर्ट के आदेश के बावजूद मेट्रो स्टेशन बंद रहे। याचिकाकर्ता ने इस पर अवमानना का आरोप लगाया। सीजेपी प्रदर्शन: सुप्रीम कोर्ट के आदेश के बावजूद बंद रहे मेट्रो स्टेशन, याचिकाकर्ता ने लगाया अवमानना का आरोप cjp protest supreme court contempt plea delhi metro closure।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "चाबहार में डेरा जमाएगा अफगानिस्तान, पाकिस्तान की गुंडई पर सीधा हमला, भारत को मिलेगा फायदा?",
+      "url": "https://hindi.news18.com/world/south-asia-chabahar-port-land-for-taliban-to-reduce-afghanistan-reliance-on-pakistan-gwadar-karachi-port-india-benefit-10899081.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-10T06:06:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/chabhar-2026-10-7c0a736bdc0a12b8541085ea46412ad0-1200x800.jpg",
+      "summary": "अफगानिस्तान और ईरान के बीच चाबहार बंदरगाह पर समझौता हो रहा है। इससे अफगानिस्तान को पाकिस्तान के ग्वादर और कराची पोर्ट पर निर्भरता कम करने का मौका मिलेगा। यह कदम सीधे पाकिस्तान की रणनीति को प्रभावित करेगा। Pakistan-Afghanistan Tension: पाकिस्तान की ओर से अफगानिस्तान को जल्द ही एक नया झटका देने की तैयारी है. ये सीधे तौर पर भारत के लिए एक फायदेमंद कदम होगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चाबहार में डेरा जमाएगा अफगानिस्तान, पाकिस्तान की गुंडई पर सीधा हमला, भारत को मिलेगा फायदा?",
+          "summary": "अफगानिस्तान और ईरान के बीच चाबहार बंदरगाह पर समझौता हो रहा है। इससे अफगानिस्तान को पाकिस्तान के ग्वादर और कराची पोर्ट पर निर्भरता कम करने का मौका मिलेगा। यह कदम सीधे पाकिस्तान की रणनीति को प्रभावित करेगा। Pakistan-Afghanistan Tension: पाकिस्तान की ओर से अफगानिस्तान को जल्द ही एक नया झटका देने की तैयारी है. ये सीधे तौर पर भारत के लिए एक फायदेमंद कदम होगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "एलन मस्क का स्टारलिंक आखिर कैसे करता है काम? किन खतरों से नहीं दी भारत ने एंट्री?",
+      "url": "https://www.amarujala.com/photo-gallery/utility/starlink-internet-how-it-works-and-why-india-has-delayed-its-commercial-launch-2026-10-10",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-10T05:55:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/bharata-sarakara-na-sataralka-ka-kana-khatara-ka-vajaha-sa-etara-naha-tha_1ce1485ad9467a4fdfd13bc104e3fa41.jpeg?w=1200&dpr=1.0",
+      "summary": "स्टारलिंक उपग्रहों के जरिए इंटरनेट सेवा प्रदान करता है। इस तकनीक से दूरदराज और कठिन इलाकों में बेहतर कनेक्टिविटी सुनिश्चित की जा सकती है। भारत ने सुरक्षा चिंताओं के कारण इसकी प्रवेश पर रोक लगाई है। स्टारलिंक सैटेलाइट की मदद से इंटरनेट उपलब्ध कराता है, जिससे दूर-दराज के इलाकों में कनेक्टिविटी बेहतर बनाने की संभावना है। एलन मस्क का स्टारलिंक आखिर कैसे करता है काम?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एलन मस्क का स्टारलिंक आखिर कैसे करता है काम? किन खतरों से नहीं दी भारत ने एंट्री?",
+          "summary": "स्टारलिंक उपग्रहों के जरिए इंटरनेट सेवा प्रदान करता है। इस तकनीक से दूरदराज और कठिन इलाकों में बेहतर कनेक्टिविटी सुनिश्चित की जा सकती है। भारत ने सुरक्षा चिंताओं के कारण इसकी प्रवेश पर रोक लगाई है। स्टारलिंक सैटेलाइट की मदद से इंटरनेट उपलब्ध कराता है, जिससे दूर-दराज के इलाकों में कनेक्टिविटी बेहतर बनाने की संभावना है। एलन मस्क का स्टारलिंक आखिर कैसे करता है काम?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'फिर शुरू होगी लोकतंत्र की मरम्मत': मुख्य चुनाव आयुक्त पर राहुल गांधी का हमला, बोले- ज्ञानेश कुमार",
+      "url": "https://www.amarujala.com/india-news/rahul-gandhi-attack-on-chief-election-commissioner-says-gyanesh-kumar-will-go-and-democracy-will-be-repaired-2026-10-10",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-10T05:24:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/nata-paratapakashha-rahal-gathha_6c60892ff73996d96f71e95f003dbdf5.jpeg?w=1200&dpr=1.0",
+      "summary": "राहुल गांधी ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर हमला किया। उन्होंने कहा कि कुमार के जाने के बाद लोकतंत्र की मरम्मत फिर से शुरू होगी। यह बयान चुनावी प्रक्रिया पर सवाल उठाता है। 'फिर शुरू होगी लोकतंत्र की मरम्मत': मुख्य चुनाव आयुक्त पर राहुल गांधी का हमला, बोले- ज्ञानेश कुमार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'फिर शुरू होगी लोकतंत्र की मरम्मत': मुख्य चुनाव आयुक्त पर राहुल गांधी का हमला, बोले- ज्ञानेश कुमार",
+          "summary": "राहुल गांधी ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर हमला किया। उन्होंने कहा कि कुमार के जाने के बाद लोकतंत्र की मरम्मत फिर से शुरू होगी। यह बयान चुनावी प्रक्रिया पर सवाल उठाता है। 'फिर शुरू होगी लोकतंत्र की मरम्मत': मुख्य चुनाव आयुक्त पर राहुल गांधी का हमला, बोले- ज्ञानेश कुमार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "‘जंग जल्द खत्म होगी, लेकिन माननी होंगी हमारी शर्तें’, ईरान युद्ध पर ट्रंप का बयान",
+      "url": "https://www.patrika.com/world-news/trump-claims-iran-conflict-end-soon-us-russia-oil-deal-20972842",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-10T05:23:15+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/donald-trump-5.webp",
+      "summary": "डोनाल्ड ट्रंप ने कहा कि ईरान के साथ चल रहा संघर्ष अंतिम दौर में है। उन्होंने दावा किया कि यह युद्ध बहुत जल्द खत्म होगा। ट्रंप ने दो रास्ते बताए, अमेरिकी सेना की कार्रवाई या तेहरान की शर्तों को मानना। Donald Trump: मिडिल ईस्ट में बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का एक बड़ा बयान सामने आया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘जंग जल्द खत्म होगी, लेकिन माननी होंगी हमारी शर्तें’, ईरान युद्ध पर ट्रंप का बयान",
+          "summary": "डोनाल्ड ट्रंप ने कहा कि ईरान के साथ चल रहा संघर्ष अंतिम दौर में है। उन्होंने दावा किया कि यह युद्ध बहुत जल्द खत्म होगा। ट्रंप ने दो रास्ते बताए, अमेरिकी सेना की कार्रवाई या तेहरान की शर्तों को मानना। Donald Trump: मिडिल ईस्ट में बढ़ते तनाव के बीच अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का एक बड़ा बयान सामने आया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यूएन में भारत की पाकिस्तान को दो टूक: बेदी बोले- परमाणु धमकी के आगे नहीं झुकेंगे, आतंक के आकाओं को",
+      "url": "https://www.amarujala.com/world/india-slams-pakistan-at-un-over-nuclear-blackmail-2026-10-10",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-10T04:26:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/pakasatana-ka-bharata-ka-javab_f58c8aa42e701c30670fff8f60399efc.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत के प्रतिनिधि बेदी ने संयुक्त राष्ट्र में पाकिस्तान को चेतावनी दी। उन्होंने कहा कि परमाणु धमकी के आगे भारत नहीं झुकेगा। आतंकवाद के आकाओं को जवाब दिया जाएगा। यूएन में भारत की पाकिस्तान को दो टूक: बेदी बोले- परमाणु धमकी के आगे नहीं झुकेंगे, आतंक के आकाओं को देंगे जवाब।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूएन में भारत की पाकिस्तान को दो टूक: बेदी बोले- परमाणु धमकी के आगे नहीं झुकेंगे, आतंक के आकाओं को",
+          "summary": "भारत के प्रतिनिधि बेदी ने संयुक्त राष्ट्र में पाकिस्तान को चेतावनी दी। उन्होंने कहा कि परमाणु धमकी के आगे भारत नहीं झुकेगा। आतंकवाद के आकाओं को जवाब दिया जाएगा। यूएन में भारत की पाकिस्तान को दो टूक: बेदी बोले- परमाणु धमकी के आगे नहीं झुकेंगे, आतंक के आकाओं को देंगे जवाब।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मॉस्को से डीजल खरीदने की डील पर घिरे ट्रंप; अमेरिकी सीनेटर बोले- यह शर्मनाक",
+      "url": "https://www.amarujala.com/world/russia-deal-embarrassing-us-senator-richard-blumenthal-slams-trump-diesel-agreement-with-putin-2026-10-10",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-10T04:21:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/dajal-kharathana-ka-dal-para-ghara-tarapa_75af21c118d55a53207eb14a3cf948b0.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सीनेटर रिचर्ड ब्लुमेंथल ने ट्रंप के रूस से डीजल खरीदने के समझौते को शर्मनाक करार दिया। उन्होंने दावा किया कि यह सौदा रूसी युद्ध को सीधा फायदा पहुंचा रहा है। मॉस्को से डीजल खरीदने की डील पर घिरे ट्रंप; अमेरिकी सीनेटर बोले- यह शर्मनाक।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पेंटागन की योजना पर उपराष्ट्रपति को संशय, क्या पहली बार टीवी पर मृत्युदंड देखेंगे लोग?",
-          "summary": "पेंटागन की नई योजना पर उपराष्ट्रपति वेंस ने संशय जताया है। यह विवाद सैन्य न्याय प्रक्रिया से जुड़ा है। टीवी पर मृत्युदंड के दृश्य दिखने की संभावना भी उठी है। वेंस-हेगसेथ एकमत नहीं: पेंटागन की योजना पर उपराष्ट्रपति को संशय, क्या पहली बार टीवी पर मृत्युदंड देखेंगे लोग?",
+          "title": "मॉस्को से डीजल खरीदने की डील पर घिरे ट्रंप; अमेरिकी सीनेटर बोले- यह शर्मनाक",
+          "summary": "अमेरिकी सीनेटर रिचर्ड ब्लुमेंथल ने ट्रंप के रूस से डीजल खरीदने के समझौते को शर्मनाक करार दिया। उन्होंने दावा किया कि यह सौदा रूसी युद्ध को सीधा फायदा पहुंचा रहा है। मॉस्को से डीजल खरीदने की डील पर घिरे ट्रंप; अमेरिकी सीनेटर बोले- यह शर्मनाक।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "बोले-आठ बार युद्ध रोकने के लिए मिलना चाहिए था नोबेल;भारत-पाकिस्तान पर किया ये दावा",
+      "url": "https://www.amarujala.com/world/donald-trump-claims-he-deserved-eight-nobel-peace-prizes-cites-india-pakistan-conflict-2026-10-10",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-10T04:17:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/danalda-tarapa-amaraka-rashhatarapata_2dddeb52866a304d6c81726d299c1d4f.jpeg?w=1200&dpr=1.0",
+      "summary": "ट्रंप ने नॉर्वे पर हमला किया और कहा कि उन्हें नोबेल शांति पुरस्कार मिलना चाहिए था। उन्होंने भारत और पाकिस्तान के बीच युद्ध रोकने की अपनी भूमिका पर भी दावा किया। नॉर्वे पर भड़के हैं ट्रंप: बोले-आठ बार युद्ध रोकने के लिए मिलना चाहिए था नोबेल;भारत-पाकिस्तान पर किया ये दावा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बोले-आठ बार युद्ध रोकने के लिए मिलना चाहिए था नोबेल;भारत-पाकिस्तान पर किया ये दावा",
+          "summary": "ट्रंप ने नॉर्वे पर हमला किया और कहा कि उन्हें नोबेल शांति पुरस्कार मिलना चाहिए था। उन्होंने भारत और पाकिस्तान के बीच युद्ध रोकने की अपनी भूमिका पर भी दावा किया। नॉर्वे पर भड़के हैं ट्रंप: बोले-आठ बार युद्ध रोकने के लिए मिलना चाहिए था नोबेल;भारत-पाकिस्तान पर किया ये दावा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "165 KMPH की रफ्तार से टकराया तूफान, चारों तरफ अंधेरा, 5 लाख घरों की बिजली गुल",
+      "url": "https://hindi.news18.com/world/america-hurricane-isaias-hit-florida-as-a-category-2-storm-165-kmph-winds-power-outages-flood-10898908.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-10T03:57:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Isaias-2026-10-fe586bea9b7a95c039a63c9f2e150fc5-1200x800.jpg",
+      "summary": "कैटेगरी-2 हरिकेन इसायस ने फ्लोरिडा में 165 किमी प्रति घंटे की रफ्तार से प्रवेश किया। फ्लोरिडा और अलबामा में पांच लाख से अधिक घरों की बिजली आपूर्ति बाधित हो गई। US Hurricane Isaias: अमेरिका के फ्लोरिडा में हरिकेन इसायस जमीन से टकराया. यह कैटेगरी-2 तूफान है. इस दौरान हवाओं की रफ्तार करीब 165 किलोमीटर प्रति घंटा रही. फ्लोरिडा और अलबामा समेत कई राज्यों में 5 लाख से ज्यादा बिजली उपभोक्ताओं की सप्लाई बाधित हुई.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "165 KMPH की रफ्तार से टकराया तूफान, चारों तरफ अंधेरा, 5 लाख घरों की बिजली गुल",
+          "summary": "कैटेगरी-2 हरिकेन इसायस ने फ्लोरिडा में 165 किमी प्रति घंटे की रफ्तार से प्रवेश किया। फ्लोरिडा और अलबामा में पांच लाख से अधिक घरों की बिजली आपूर्ति बाधित हो गई। US Hurricane Isaias: अमेरिका के फ्लोरिडा में हरिकेन इसायस जमीन से टकराया. यह कैटेगरी-2 तूफान है. इस दौरान हवाओं की रफ्तार करीब 165 किलोमीटर प्रति घंटा रही. फ्लोरिडा और अलबामा समेत कई राज्यों में 5 लाख से ज्यादा बिजली उपभोक्ताओं की सप्लाई बाधित हुई.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "सिंधु जल विवाद, द हेग में भारत का बिल भर रहा कंगाल पाकिस्तान, अपनी आवाम डूबकर मर रही",
+      "url": "https://hindi.news18.com/world/pakistan-indus-waters-treaty-controversy-pakistan-funds-legal-battle-with-india-at-hague-while-cutting-domestic-fuel-and-flood-relief-10898699.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-10T03:31:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/indus-water-1-2026-07-3881c63d9fc2e518c094c8940eeaec8d-1200x800.jpg",
+      "summary": "पाकिस्तान ने द हेग की अदालत में भारत के खिलाफ मुकदमे के खर्चों को वहन किया। देश में बाढ़ राहत के लिए धन की कमी है, फिर भी पाकिस्तान ने भारत का हिस्सा भी चुकाया। पाकिस्तान कंगाली से जूझ रहा है और उसने अपने अफसरों के पेट्रोल का कोटा तक काट दिया है. देश में बाढ़ राहत के लिए पैसे नहीं हैं, लेकिन द हेग की अदालत में भारत के खिलाफ मुकदमेबाजी पर पानी की तरह पैसा बहाया जा रहा है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिंधु जल विवाद, द हेग में भारत का बिल भर रहा कंगाल पाकिस्तान, अपनी आवाम डूबकर मर रही",
+          "summary": "पाकिस्तान ने द हेग की अदालत में भारत के खिलाफ मुकदमे के खर्चों को वहन किया। देश में बाढ़ राहत के लिए धन की कमी है, फिर भी पाकिस्तान ने भारत का हिस्सा भी चुकाया। पाकिस्तान कंगाली से जूझ रहा है और उसने अपने अफसरों के पेट्रोल का कोटा तक काट दिया है. देश में बाढ़ राहत के लिए पैसे नहीं हैं, लेकिन द हेग की अदालत में भारत के खिलाफ मुकदमेबाजी पर पानी की तरह पैसा बहाया जा रहा है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेन युद्ध खत्म कराने के लिए मियामी में बातचीत: उधर ट्रंप ने रूस से किया डीजल डील; जेलेंस्की",
+      "url": "https://www.amarujala.com/world/us-ukraine-russia-miami-peace-talks-diesel-deal-2026-10-10",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-10T03:17:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/yakarana-jaga-ka-bca-tarapa-na-nprsa-sa-ka-dal_b8a58c9b217aa1780fe5da48348b8670.jpeg?w=1200&dpr=1.0",
+      "summary": "मियामी में यूक्रेन युद्ध समाधान के लिए बातचीत शुरू हुई। इसी दौरान ट्रंप ने रूस से डीजल खरीदने का समझौता किया, जिससे जेलेंस्की ने आपत्ति जताई। यूक्रेन युद्ध खत्म कराने के लिए मियामी में बातचीत: उधर ट्रंप ने रूस से किया डीजल डील; जेलेंस्की क्यों भड़के?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन युद्ध खत्म कराने के लिए मियामी में बातचीत: उधर ट्रंप ने रूस से किया डीजल डील; जेलेंस्की",
+          "summary": "मियामी में यूक्रेन युद्ध समाधान के लिए बातचीत शुरू हुई। इसी दौरान ट्रंप ने रूस से डीजल खरीदने का समझौता किया, जिससे जेलेंस्की ने आपत्ति जताई। यूक्रेन युद्ध खत्म कराने के लिए मियामी में बातचीत: उधर ट्रंप ने रूस से किया डीजल डील; जेलेंस्की क्यों भड़के?",
           "region": "यूरोप और रूस"
         }
       }
