@@ -1,16 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 12, 2026 15:23 IST
+**Updated:** October 13, 2026 00:58 IST
 
 ---
 
 ## Middle East & Africa
 
-### [Turkiye, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport](https://www.thehindu.com/news/international/turkiye-pakistan-egypt-saudi-arabia-condemn-houthi-attacks-on-riyadh-airport/article71574172.ece)
-*The Hindu (International)* - Oct 12, 14:26 IST (iso: 2026-10-12T08:56:53+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/a2t94h/article71574210.ece/alternates/LANDSCAPE_1200/2026-10-11T133451Z_158209492_RC211OAHP5D3_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG -->
+### [Gunmen kill 24 in Nigerian attacks](https://www.thehindu.com/news/international/gunmen-kill-24-in-nigerian-attacks/article71576595.ece)
+*The Hindu (International)* - Oct 12, 22:30 IST (iso: 2026-10-12T17:00:42+00:00)
+<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
 
-Turkiye, Pakistan, Egypt, and Saudi Arabia condemned Houthi strikes on Riyadh airport. The attacks killed one person and wounded nearly a dozen. This followed a previous strike that killed 13 and injured over 300. The R4 group reaffirmed its solidarity with Saudi Arabia. The four countries, dubbed the R4, reaffirmed solidarity with Saudi Arabia after a new attack killed one person and wounded nearly a dozen, a day after a strike that killed 13 and wounded more than 300.
+Armed groups killed 24 people in recent attacks across two Nigerian regions. The violence is attributed to local bandits and jihadist factions. These groups target communities for ransom and cattle theft. The incident highlights the ongoing instability in the area. There has been a recent increase in attacks on communities in the two regions, blamed on gangs engaged in kidnapping for ransom and cattle rustling.
+
+### [U.K. PM Burnham says Iran’s IRGC likely behind RAF Fairford incident](https://www.thehindu.com/news/international/uk-pm-burnham-says-irans-irgc-likely-behind-raf-fairford-incident/article71576118.ece)
+*The Hindu (International)* - Oct 12, 20:54 IST (iso: 2026-10-12T15:24:46+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/2p9mya/article71576184.ece/alternates/LANDSCAPE_1200/2026-10-04T211151Z_853467629_RC28SNA4H0MR_RTRMADP_3_BRITAIN-USA-FAIRFORD.JPG -->
+
+U. K. Prime Minister Burnham stated the IRGC likely caused the RAF Fairford incident. The base hosted U. S. bombers striking Iran. President Trump said an Iran-linked threat forced the planes out. The base remains a key location for allied operations. The RAF ⁠Fairfordbase had been used by U. S. bombers to carry out strikes on Iran but last week, U. S. President Donald Trump said a ‌threat linked to Iran had prompted the removal of the planes.
 
 ### [Houthi Riyadh airport hit shows Saudi air defenses full of holes](https://asiatimes.com/2026/10/houthi-riyadh-airport-hit-shows-saudi-air-defenses-full-of-holes/)
 *Asia Times* - Oct 12, 11:40 IST (iso: 2026-10-12T06:10:16+00:00)
@@ -48,37 +54,33 @@ Guinea-Bissau approved a trial withholding hepatitis B vaccines from newborns. D
 
 A Starlink trial in Italy connected a smartphone to the internet without mobile coverage or external antennas. The test drew attention in Iran. Iranian authorities heavily filter internet access. They imposed a near-total blackout during the January protests. A Starlink trial on an Italian hilltop connected an ordinary smartphone to the Internet without mobile coverage, a satellite dish, or an external antenna.
 
-### [Yemen has fallen back into full-scale war, warns UN envoy](https://news.un.org/feed/view/en/story/2026/10/1168559)
-*UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/15-09-2026_IOM_Yemen.jpg/image560x340cropped.jpg -->
-
-The UN envoy warned that Yemen has fallen back into full-scale war. A Houthi offensive launched in September has sharply escalated the twelve-year conflict. Spillover from the US-Iran war has also provoked a new displacement crisis across the region. The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis.
-
 ### [‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in](https://news.un.org/feed/view/en/story/2026/10/1168567)
 *UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-09-2025-IOM-Sudan-WaterProject.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-09-2025-IOM-Sudan-WaterProject.jpg/image560x340cropped.jpg -->
 
 A suspected drone strike killed at least 40 people in Sudan’s Blue Nile State near the Ethiopian border. UN spokesperson Stéphane Dujarric confirmed the toll. Most of the casualties were women and girls. Initial reports from the ground describe the attack as horrific. A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric.
-
-### [Afghans Desperate To Escape Poverty Sell Kidneys To Survive](https://www.rferl.org/a/afghanistan-kidney-trade-black-market-poverty/33873077.html)
-*Radio Free Europe / Liberty* - Oct 09, 15:32 IST (iso: 2026-10-09T10:02:33+00:00)
-<!-- image: https://gdb.rferl.org/32b80543-e79b-4f90-73f2-08df13a869ed_w1200_h630.jpg -->
-
-Millions of Afghans struggle to afford basic food. Some have turned to selling a healthy kidney to survive. The financial gain is often modest and fails to clear family debts. One woman reported her health deteriorated significantly after the procedure. As millions of Afghans struggle just to afford food, some have turned to selling one of their last remaining resources: a healthy kidney.
-
----
-
-## Global / Multilateral
-
-### [Man devised 'deliberate scheme' to rent home without paying through shell company, sued elderly](https://www.channelnewsasia.com/singapore/anthony-price-deliberate-scheme-rent-home-free-6451681)
-*Channel News Asia* - Oct 12, 14:10 IST (iso: 2026-10-12T08:40:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--J6d_k-Fy--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/12/7a_lengkok_dua.png?itok=7wlRZiuN -->
-
-A judge ordered Anthony Thomas Price to return a property to its landlords. He used a shell company to live rent-free. The court found he devised a deliberate scheme to avoid payment. He must also pay unpaid rent and other sums. Mr Anthony Thomas Price had previously used shell companies to live rent-free in two other properties, said the judge, who ordered his firm to return the property in the latest case to its landlords and to pay them unpaid rent and other sums.
 
 ---
 
 ## Europe & Russia
+
+### [France braces for fresh student demonstrations as Macron calls for ‘respect’](https://www.thehindu.com/news/international/france-braces-for-fresh-student-demonstrations-as-macron-calls-for-respect/article71576578.ece)
+*The Hindu (International)* - Oct 12, 22:25 IST (iso: 2026-10-12T16:55:31+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/94q2kx/article71576677.ece/alternates/LANDSCAPE_1200/2026-10-05T072911Z_1512977447_RC2VWNA37XQS_RTRMADP_3_FRANCE-PROTEST.JPG -->
+
+French students blocked hundreds of high schools since late September. They protest poor classroom conditions and demand better resources. Riot police are deployed at entrances. President Macron has called for respect during the ongoing demonstrations. Students have blocked entrances to hundreds of lycees. high schools for children 15 to 18. since late September to rail against poor classroom conditions, with squads of riot police deployed and occasionally violent clashes erupting.
+
+### [Zelenskyy Says Yandex Strikes Crippled Pro-Kremlin Bots But Tech Experts Question Evidence](https://www.rferl.org/a/zelenskyy-says-yandex-strikes-crippled-pro-kremlin-bots-but-tech-experts-call-evidence-weak/33875054.html)
+*Radio Free Europe / Liberty* - Oct 12, 17:31 IST (iso: 2026-10-12T12:01:35+00:00)
+<!-- image: https://gdb.rferl.org/37ef7ca2-edd2-41b1-8750-1467d8f44bc7_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Zelenskyy claimed Ukraine’s strikes on Yandex data centers reduced pro-Kremlin bots. He said the attacks crippled the network. Tech experts dispute this assessment. They question the evidence linking the strikes to a drop in bot activity. Ukrainian President Volodymyr Zelenskyy has said that Ukraine's recent attacks on Russian tech giant Yandex’s data centers have resulted in fewer Internet bots promoting pro-Kremlin hate, a claim that has been disputed by many technology researchers.
+
+### [Balkan temperatures swing as heavy rain heads for Greece](https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece)
+*The Guardian* - Oct 12, 16:18 IST (iso: 2026-10-12T10:48:26+00:00)
+<!-- image: https://i.guim.co.uk/img/media/fb41ab449809b9b885e140bb4732f7d518861eb3/401_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5801bfdbf087ac0d957d07a3ffe6ad1 -->
+
+High pressure over the Balkans created sharp temperature swings in Montenegro. Daytime highs rose significantly while overnight lows dropped. A low-pressure system now moves toward the Aegean Sea. Heavy rain is expected to reach Greece soon. Clear skies bring warm days and cold nights to Montenegro, while a low-pressure system moves towards Aegean SeaEurope live – latest updatesTemperatures fluctuated dramatically in the Balkans last week, with unusually large differences between daytime highs and overnight lows – known as the diurnal range. An area of high pressure over the region brought prolonged sunshine during the day, while clear.
 
 ### [China fast on Ukraine lessons, slow on command reform](https://asiatimes.com/2026/10/china-fast-on-ukraine-lessons-slow-on-command-reform/)
 *Asia Times* - Oct 12, 10:32 IST (iso: 2026-10-12T05:02:53+00:00)
@@ -98,12 +100,6 @@ Donald Trump announced that Russia and Ukraine agreed to an energy cease-fire. T
 
 Representative Brian Fitzpatrick is forcing a House vote on legislation to block Russian oil purchases. This move directly challenges President Donald Trump's decision to ease restrictions on Russian diesel exports. Lawmakers warn the policy shift could help finance Moscow's war against Ukraine. The procedural maneuver tests the limits of congressional authority over executive trade decisions. Republican Representative Brian Fitzpatrick plans to force a House vote on legislation blocking Russian oil purchases, challenging President Donald Trump's decision to ease restrictions on Russian diesel exports as lawmakers warn the move could help finance Moscow's war against Ukraine.
 
-### [‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die](https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia)
-*The Guardian* - Oct 10, 10:30 IST (iso: 2026-10-10T05:00:48+00:00)
-<!-- image: https://i.guim.co.uk/img/media/dd86a3791de0721c9fae3aeb6def7ef9609df8bd/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95836f9f69501a2d4123f44862ec1cb7 -->
-
-Dozens of CIA officers have reported debilitating symptoms over the past decade. The condition, known as Havana syndrome, remains unexplained. Officials have not confirmed whether the incidents stem from mass hysteria or targeted energy weapon attacks. Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible?
-
 ### [Cycle of escalating attacks on civilians in Ukraine ‘must end now’](https://news.un.org/feed/view/en/story/2026/10/1168564)
 *UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/28-08-2026-WHO-Ukraine-02.jpg/image560x340cropped.jpg -->
@@ -112,19 +108,35 @@ The Security Council addressed escalating Russian attacks on Ukrainian civilian 
 
 ---
 
+## Global / Multilateral
+
+### [UNHCR chief warns refugee protection is buckling under cuts](https://news.un.org/feed/view/en/story/2026/10/1168575)
+*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-03.jpg/image770x420cropped.jpg -->
+
+UNHCR chief Barham Salih warned refugee protection is failing. The agency received only three billion dollars of its eight billion dollar need. One hundred seventeen million people are currently displaced. Funding gaps threaten the global asylum support system. The money is running out faster than needs are growing: with 117 million men, women and children now forced from their homes, the UN refugee agency (UNHCR) has received just $3 billion of the $8.5 billion it needs this year – and its chief, Barham Salih, warns that the global support system for asylum-seekers risks buckling.
+
+### [When AI takes control of weapons systems](https://asiatimes.com/2026/10/when-ai-takes-control-of-weapons-systems/)
+*Asia Times* - Oct 12, 11:12 IST (iso: 2026-10-12T05:42:14+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/AI-Regulation-AI-War.jpg -->
+
+Artificial intelligence is expanding into national defense systems. Machine learning now handles reconnaissance, early warning, and target detection. These tools promise faster analysis and decision-making. However, AI exacerbates existing security problems that cannot be solved technically. Artificial intelligence is rapidly making its way into national defense. Reconnaissance, early warning, target detection, mission planning. everywhere, machine-learning systems promise faster analysis, faster responses, and faster decision-making.
+
+---
+
 ## Asia-Pacific
+
+### [One freed American doesn’t equal US policy shift on Myanmar](https://asiatimes.com/2026/10/one-freed-american-doesnt-equal-us-policy-shift-on-myanmar/)
+*Asia Times* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:21+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/07/Myanmar-Min-Aung-Hlaing-June-2021.jpg -->
+
+The United States opened direct talks with Myanmar’s military junta. This follows the release of an American citizen. The move reverses years of diplomatic isolation. It does not signal a victory for the generals or a defeat for the revolution. The recent Reuters headline, “US opens direct talks with Myanmar’s generals, reversing years of isolation,” describes a consequential diplomatic change.
 
 ### [Is Modi facing his own Bangladesh moment?](https://asiatimes.com/2026/10/is-modi-facing-his-own-bangladesh-moment/)
 *Asia Times* - Oct 12, 10:18 IST (iso: 2026-10-12T04:48:00+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Bangladesh-Cochroach-protests.jpg -->
 
 Demanding the resignation of India's chief election commissioner is a severe political challenge for Prime Minister Modi. Unlike sacrificing a minister, this move threatens the government's legitimacy. The situation mirrors a potential Bangladesh moment. The pressure on the prime minister is significant. Demanding the resignation of a minister is one thing. It is uncomfortable for a government, occasionally embarrassing for a prime minister, but ultimately manageable.
-
-### [Dissanayake highlights ‘good relations’ with India, points to New Delhi’s Katchatheevu stance](https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece)
-*The Hindu (International)* - Oct 11, 21:20 IST (iso: 2026-10-11T15:50:45+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/7udsj7/article71572396.ece/alternates/LANDSCAPE_1200/2025-11-07T095056Z_874635678_RC2JRHA95O3L_RTRMADP_3_SRI-LANKA-BUDGET.JPG -->
-
-Sri Lankan President Anura Kumara Dissanayake stated that New Delhi acknowledged before its Supreme Court that Katchatheevu belongs to Sri Lanka. Attorney General R. Venkataramani told the court last week that India did not intend to reopen the 1974 and 1976 agreements. Dissanayake cited this legal position as evidence of good bilateral relations. The island nation has long claimed sovereignty over the small island in the Palk Strait.
 
 ### [UN rights office urges release of ‘arbitrarily detained’ protesters](https://news.un.org/feed/view/en/story/2026/10/1168571)
 *UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
@@ -137,12 +149,6 @@ The UN human rights office expressed concern over mass detentions in India. Auth
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Anduril-Shipyard-Submarines-US-Navy.jpg -->
 
 Anduril Industries will invest US$3.7 billion to build a software-defined shipyard. The facility aims to overhaul US submarine manufacturing capabilities. The project addresses urgent needs in naval industrial capacity within the Indo-Pacific region. A multibillion-dollar private initiative to overhaul US submarine manufacturing marks an urgent push to revitalize naval industrial capacity at a pivotal moment in the Indo-Pacific balance of power.
-
-### [Amid heartache of Nepal flooding disaster, fear remains](https://news.un.org/feed/view/en/story/2026/10/1168561)
-*UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/15-09-2026_UNICEF_Nepal-02.jpg/image560x340cropped.jpg -->
-
-Six weeks after Nepal’s deadly flooding, communities are still rebuilding. UNICEF warned that global warming increases the risk of another Himalayan catastrophe. Sustained international help is required. Fear remains high as residents prepare for potential future disasters. Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.
 
 ---
 
@@ -165,16 +171,6 @@ Adam Ouattara and Makongo Traoré live on the edge of Torla village in Côte d�
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/01-10-2026-UNU-EHS-Viet-Nam.jpg/image770x420cropped.jpg -->
 
 Farming in Viet Nam’s Mekong Delta has traditionally relied on seasonal river floods. These floods carried freshwater and sediment across flat fields, supporting the country’s status as a top rice exporter. Farmers are now adapting to saltwater intrusion to maintain food production. For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.
-
----
-
-## Americas
-
-### [Guterres condemns new US sanctions on International Criminal Court](https://news.un.org/feed/view/en/story/2026/10/1168562)
-*UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/21-11-2024_ICC_Hague1.jpg/image560x340cropped.jpg -->
-
-The United States imposed sanctions on the International Criminal Court as an institution. Secretary of State Marco Rubio vowed to dismantle the court unless it stops targeting US citizens. UN Secretary-General António Guterres condemned the move. Washington views the ICC as a direct threat. The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to “dismantle the ICC, brick by brick” unless it ends what Washington regards as a “threat” to its citizens.
 
 ---
 
