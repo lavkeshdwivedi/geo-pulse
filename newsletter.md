@@ -1,16 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 12, 2026 08:20 IST
+**Updated:** October 12, 2026 15:23 IST
 
 ---
 
 ## Middle East & Africa
 
-### [One dead in new attack on Saudi airport, a day after Houthi strike kills 13](https://www.channelnewsasia.com/world/saudi-arabia-riyadh-airport-attack-houthis-6451631)
-*Channel News Asia* - Oct 12, 05:56 IST (iso: 2026-10-12T00:26:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--bELTgwz_--/c_crop,h_1125,w_2000,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/12/000_d2x96wk.jpg?itok=2-x68UyU -->
+### [Turkiye, Pakistan, Egypt, Saudi Arabia condemn Houthi attacks on Riyadh airport](https://www.thehindu.com/news/international/turkiye-pakistan-egypt-saudi-arabia-condemn-houthi-attacks-on-riyadh-airport/article71574172.ece)
+*The Hindu (International)* - Oct 12, 14:26 IST (iso: 2026-10-12T08:56:53+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/a2t94h/article71574210.ece/alternates/LANDSCAPE_1200/2026-10-11T133451Z_158209492_RC211OAHP5D3_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG -->
 
-A projectile struck Terminal 4 at Riyadh’s King Khalid International Airport on Sunday, killing one person and wounding eleven. The Saudi-led coalition in Yemen reported the unidentified object caused a fire at the facility. This incident occurred one day after a Houthi attack killed thirteen people. Saudi civil aviation authorities confirmed the casualties and the damage to the terminal. Saudi-led coalition forces in Yemen said an unidentified projectile had targeted Riyadh's international airport Terminal 4 on Sunday, causing a fire.
+Turkiye, Pakistan, Egypt, and Saudi Arabia condemned Houthi strikes on Riyadh airport. The attacks killed one person and wounded nearly a dozen. This followed a previous strike that killed 13 and injured over 300. The R4 group reaffirmed its solidarity with Saudi Arabia. The four countries, dubbed the R4, reaffirmed solidarity with Saudi Arabia after a new attack killed one person and wounded nearly a dozen, a day after a strike that killed 13 and wounded more than 300.
+
+### [Houthi Riyadh airport hit shows Saudi air defenses full of holes](https://asiatimes.com/2026/10/houthi-riyadh-airport-hit-shows-saudi-air-defenses-full-of-holes/)
+*Asia Times* - Oct 12, 11:40 IST (iso: 2026-10-12T06:10:16+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Saudi-Airport-Attack.jpg -->
+
+Houthi forces struck Riyadh airport using suicide drones, cruise missiles, and ballistic missiles. The attack lasted about 45 minutes starting at 3 PM local time. The mixed-speed weapons overwhelmed Saudi air defenses. The strike exposed significant gaps in the kingdom's defensive network. The Houthi attack mixed together suicide drones, cruise missiles and ballistic missiles. Because these weapons travel at significantly different speeds, the drones were launched first, followed by the cruise missiles and lastly by the ballistic missiles.
+
+### [US-China race is on for the Gulf’s AI future](https://asiatimes.com/2026/10/us-china-race-is-on-for-the-gulfs-ai-future/)
+*Asia Times* - Oct 12, 09:28 IST (iso: 2026-10-12T03:58:07+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Gulf-AI.jpg -->
+
+Chinese AI and digital infrastructure investments in Saudi Arabia and the UAE are colliding with a larger American technology presence. Beijing offers cloud platforms, 5G networks, and surveillance systems at lower costs. This competition shapes the Gulf’s long-term digital sovereignty and strategic alignment. China’s artificial intelligence and digital-infrastructure investments in the Gulf Arab states are increasingly colliding with a far larger and more strategically privileged American technology presence, particularly in Saudi Arabia and the United Arab Emirates (UAE).
 
 ### [Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru](https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru)
 *The Guardian* - Oct 11, 13:15 IST (iso: 2026-10-11T07:45:31+00:00)
@@ -36,79 +48,45 @@ Guinea-Bissau approved a trial withholding hepatitis B vaccines from newborns. D
 
 A Starlink trial in Italy connected a smartphone to the internet without mobile coverage or external antennas. The test drew attention in Iran. Iranian authorities heavily filter internet access. They imposed a near-total blackout during the January protests. A Starlink trial on an Italian hilltop connected an ordinary smartphone to the Internet without mobile coverage, a satellite dish, or an external antenna.
 
+### [Yemen has fallen back into full-scale war, warns UN envoy](https://news.un.org/feed/view/en/story/2026/10/1168559)
+*UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/15-09-2026_IOM_Yemen.jpg/image560x340cropped.jpg -->
+
+The UN envoy warned that Yemen has fallen back into full-scale war. A Houthi offensive launched in September has sharply escalated the twelve-year conflict. Spillover from the US-Iran war has also provoked a new displacement crisis across the region. The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis.
+
+### [‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in](https://news.un.org/feed/view/en/story/2026/10/1168567)
+*UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/11-09-2025-IOM-Sudan-WaterProject.jpg/image770x420cropped.jpg -->
+
+A suspected drone strike killed at least 40 people in Sudan’s Blue Nile State near the Ethiopian border. UN spokesperson Stéphane Dujarric confirmed the toll. Most of the casualties were women and girls. Initial reports from the ground describe the attack as horrific. A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric.
+
 ### [Afghans Desperate To Escape Poverty Sell Kidneys To Survive](https://www.rferl.org/a/afghanistan-kidney-trade-black-market-poverty/33873077.html)
 *Radio Free Europe / Liberty* - Oct 09, 15:32 IST (iso: 2026-10-09T10:02:33+00:00)
 <!-- image: https://gdb.rferl.org/32b80543-e79b-4f90-73f2-08df13a869ed_w1200_h630.jpg -->
 
 Millions of Afghans struggle to afford basic food. Some have turned to selling a healthy kidney to survive. The financial gain is often modest and fails to clear family debts. One woman reported her health deteriorated significantly after the procedure. As millions of Afghans struggle just to afford food, some have turned to selling one of their last remaining resources: a healthy kidney.
 
-### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
-*International Crisis Group* - Oct 02, 05:30 IST (iso: 2026-10-02T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group analysts track global conflicts and crises weekly. They highlight under-reported trends and major developments. Field experts explain why specific hotspots matter. The report outlines necessary actions for each monitored region. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
-
-### [Five Energy Market Factors That Could Tip the Scales in the Middle East War](https://www.crisisgroup.org/cmt/united-states/united-states-iran-israelpalestine/five-energy-market-factors-could-tip-scales-middle-east-war)
-*International Crisis Group* - Oct 02, 00:41 IST (iso: 2026-10-01T19:11:00+00:00)
-<!-- image: https://images.pexels.com/photos/28700859/pexels-photo-28700859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Oil and gas prices drive the U. S.-Israeli war with Iran. Washington seeks lower prices while Tehran aims to keep them high. Five market developments could influence whether fighting escalates or de-escalates. Energy costs remain central to the conflict's trajectory. Oil, gas and fuel prices are central to the U. With both sides determined to prevail, five market-shaping developments in particular could affect whether fighting ramps up or de-escalates.
-
-### [Inside Sudan’s War](https://www.crisisgroup.org/pod/africa/sudan/inside-sudans-war)
-*International Crisis Group* - Oct 01, 19:26 IST (iso: 2026-10-01T13:56:00+00:00)
-<!-- image: https://images.pexels.com/photos/12823568/pexels-photo-12823568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Sky News correspondent Yousra Elbagir reports from inside Sudan's war. She covers areas around El Obeid and El Fasher. The discussion details how civilians survive the ongoing conflict. The episode also explores potential paths to ending the war. In this episode of The Horn, Alan speaks with Yousra Elbagir, Sky News’s Africa correspondent, about her reporting from inside Sudan’s war, including around El Obeid and El Fasher, how Sudanese are surviving the war and how the war could end.
-
-### [Back to War in Ethiopia?](https://www.crisisgroup.org/pod/africa/ethiopia/back-war-ethiopia-0)
-*International Crisis Group* - Sep 29, 19:15 IST (iso: 2026-09-29T13:45:00+00:00)
-<!-- image: https://images.pexels.com/photos/20865956/pexels-photo-20865956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group's Africa director Murithi Mutiga discusses renewed fighting in northern Ethiopia. She analyzes how the conflict might unfold. The conversation covers risks of regional escalation. Diplomacy remains a potential tool to prevent all-out war. This week on Hold Your Fire!, Richard speaks with Crisis Group’s Africa director Murithi Mutiga about renewed fighting in northern Ethiopia, how the conflict could unfold, the risks of regional escalation and whether diplomacy can still stop the slide into all-out war.
-
 ---
 
-## Asia-Pacific
+## Global / Multilateral
 
-### [Dissanayake highlights ‘good relations’ with India, points to New Delhi’s Katchatheevu stance](https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece)
-*The Hindu (International)* - Oct 11, 21:20 IST (iso: 2026-10-11T15:50:45+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/7udsj7/article71572396.ece/alternates/LANDSCAPE_1200/2025-11-07T095056Z_874635678_RC2JRHA95O3L_RTRMADP_3_SRI-LANKA-BUDGET.JPG -->
+### [Man devised 'deliberate scheme' to rent home without paying through shell company, sued elderly](https://www.channelnewsasia.com/singapore/anthony-price-deliberate-scheme-rent-home-free-6451681)
+*Channel News Asia* - Oct 12, 14:10 IST (iso: 2026-10-12T08:40:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--J6d_k-Fy--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/12/7a_lengkok_dua.png?itok=7wlRZiuN -->
 
-Sri Lankan President Anura Kumara Dissanayake stated that New Delhi acknowledged before its Supreme Court that Katchatheevu belongs to Sri Lanka. Attorney General R. Venkataramani told the court last week that India did not intend to reopen the 1974 and 1976 agreements. Dissanayake cited this legal position as evidence of good bilateral relations. The island nation has long claimed sovereignty over the small island in the Palk Strait.
-
-### [Anduril’s plan to save US sub edge from China’s undersea surge](https://asiatimes.com/2026/10/andurils-plan-to-save-us-sub-edge-from-chinas-undersea-surge/)
-*Asia Times* - Oct 10, 10:21 IST (iso: 2026-10-10T04:51:10+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Anduril-Shipyard-Submarines-US-Navy.jpg -->
-
-Anduril Industries will invest US$3.7 billion to build a software-defined shipyard. The facility aims to overhaul US submarine manufacturing capabilities. The project addresses urgent needs in naval industrial capacity within the Indo-Pacific region. A multibillion-dollar private initiative to overhaul US submarine manufacturing marks an urgent push to revitalize naval industrial capacity at a pivotal moment in the Indo-Pacific balance of power.
-
-### [India’s rate hike a loud warning shot for Modinomics](https://asiatimes.com/2026/10/indias-rate-hike-a-loud-warning-shot-for-modinomics/)
-*Asia Times* - Oct 08, 12:58 IST (iso: 2026-10-08T07:28:30+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2025/04/India-Narendra-Modi.jpg -->
-
-The Reserve Bank of India raised interest rates for the first time in four years. Governor Sanjay Malhotra acted amid high inflation and record lows for the rupee. The decision signals significant pressure on India's economic stability. It’s not often that events in Mumbai reverberate through global markets. But the Reserve Bank of India’s first interest rate hike in almost four years speaks volumes about the chaotic state of play.
-
-### [Bit by bit, the Taliban is losing control of Afghanistan](https://asiatimes.com/2026/10/bit-by-bit-the-taliban-is-losing-control-of-afghanistan/)
-*Asia Times* - Oct 08, 11:16 IST (iso: 2026-10-08T05:46:02+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2025/10/Taliban-Afghanistan-Soldiers.jpg -->
-
-Armed resistance in Afghanistan is becoming more geographically dispersed and organizationally distinct. This shift challenges the Taliban's claim of full control. The group governs all provincial capitals but faces growing internal opposition. International acceptance hinges on their ability to maintain order. Five years after seizing Kabul, the Taliban’s strongest argument for international acceptance rests on control. The Taliban governs every provincial capital and faces no conventional army capable of marching on Kabul.
-
----
-
-## World
-
-### [Thousands without power in Florida and Alabama as Isaias moves north](https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages)
-*The Guardian* - Oct 11, 19:15 IST (iso: 2026-10-11T13:45:27+00:00)
-<!-- image: https://i.guim.co.uk/img/media/420493f91c55c9130552d6c719167b20924fb5ee/196_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ba1428d3d1dada873e9c1e6af277c03 -->
-
-Hurricane Isaias moved north on Sunday, leaving nearly 396,000 customers without power across the Florida Panhandle and southern Alabama. The storm brought moderate to heavy rainfall to the central Appalachians and mid-Atlantic region. Authorities issued warnings for flash flooding that could extend into the Appalachian mountains. At least four deaths have been linked to the storm so far. At least four deaths linked to storm amid warnings of flash flooding that could stretch into AppalachiansAs what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and the mid-Atlantic region, nearly 396,000 customers across the Florida Panhandle and southern Alabama remained without power. Heavy rainfall associated with the storm.
+A judge ordered Anthony Thomas Price to return a property to its landlords. He used a shell company to live rent-free. The court found he devised a deliberate scheme to avoid payment. He must also pay unpaid rent and other sums. Mr Anthony Thomas Price had previously used shell companies to live rent-free in two other properties, said the judge, who ordered his firm to return the property in the latest case to its landlords and to pay them unpaid rent and other sums.
 
 ---
 
 ## Europe & Russia
 
-### [Trump Announces Energy Cease-Fire Between Ukraine And Russia As Countries Trade Strikes](https://www.rferl.org/a/europe-backs-zelenskyy-trump-russia-diesel-deal-drone-strikes/33874495.html)
+### [China fast on Ukraine lessons, slow on command reform](https://asiatimes.com/2026/10/china-fast-on-ukraine-lessons-slow-on-command-reform/)
+*Asia Times* - Oct 12, 10:32 IST (iso: 2026-10-12T05:02:53+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-Drones-PLA-Military.jpeg -->
+
+China is rapidly modernizing its defenses using lessons from the Russia-Ukraine war. However, its centralized command structure struggles with decentralized modern combat demands. A CSIS report highlights this friction. The war serves as a real-time laboratory for Chinese military adaptation. The Russia-Ukraine War has become a real-time laboratory for the Chinese military, spurring rapid defensive modernization while exposing deep friction between its centralized command hierarchy and the decentralized demands of modern combat.
+
+### [Trump Announces Energy Cease-Fire Between Ukraine, Russia As Countries Trade Strikes](https://www.rferl.org/a/europe-backs-zelenskyy-trump-russia-diesel-deal-drone-strikes/33874495.html)
 *Radio Free Europe / Liberty* - Oct 11, 17:20 IST (iso: 2026-10-11T11:50:33+00:00)
 <!-- image: https://gdb.rferl.org/b332badb-8044-4fdf-8183-f1f2f9fc4f86_cx0_cy10_cw0_w1200_h630.jpg -->
 
@@ -126,17 +104,77 @@ Representative Brian Fitzpatrick is forcing a House vote on legislation to block
 
 Dozens of CIA officers have reported debilitating symptoms over the past decade. The condition, known as Havana syndrome, remains unexplained. Officials have not confirmed whether the incidents stem from mass hysteria or targeted energy weapon attacks. Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible?
 
-### [Too Soon? Swaths Of Chernobyl-Affected Land In Belarus To Lose 'Contaminated' Status](https://www.rferl.org/a/belarus-chernobyl-contaminated-land-status-change-2027/33873097.html)
-*Radio Free Europe / Liberty* - Oct 09, 15:13 IST (iso: 2026-10-09T09:43:48+00:00)
-<!-- image: https://gdb.rferl.org/e73edf49-0089-4419-4810-08df13aec0bb_cx0_cy4_cw0_w1200_h630.jpg -->
+### [Cycle of escalating attacks on civilians in Ukraine ‘must end now’](https://news.un.org/feed/view/en/story/2026/10/1168564)
+*UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/28-08-2026-WHO-Ukraine-02.jpg/image560x340cropped.jpg -->
 
-Belarus will remove contaminated status from 177 cities and towns on January 1, 2027. This change affects 566,400 people. The land was contaminated by the 1986 nuclear accident in Soviet Ukraine. A total of 930,600 people live in the affected territory. A recent announcement that 177 cities, towns and villages will lose their “contaminated” status on January 1, 2027 affects some 566,400 people from a total of 930,600 living on Belarusian territory that was contaminated by the 1986 nuclear accident in Soviet Ukraine.
+The Security Council addressed escalating Russian attacks on Ukrainian civilian targets and infrastructure. The four-year-old war has seen a recent spate of violence. Human rights violations are now in sharp focus. Council members demanded the cycle of attacks end immediately. Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.
 
-### [India’s Central Asia missile sales spark a new Great Game](https://asiatimes.com/2026/10/indias-central-asia-missile-sales-spark-a-new-great-game/)
-*Asia Times* - Oct 08, 14:34 IST (iso: 2026-10-08T09:04:13+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Missiles.jpeg -->
+---
 
-India exported Akash missile systems to Tajikistan and Turkmenistan. Defense Secretary Rajesh Kumar Singh confirmed the deals. Central Asian states seek alternative suppliers. This move counters Russia's waning dominance. It also addresses Sino-Indian rivalry. A flurry of landmark arms deals is reshaping Central Asia’s strategic landscape, as regional states leverage alternative defense suppliers to assert their sovereignty amid Russia’s waning dominance and an intensifying Sino-Indian rivalry.
+## Asia-Pacific
+
+### [Is Modi facing his own Bangladesh moment?](https://asiatimes.com/2026/10/is-modi-facing-his-own-bangladesh-moment/)
+*Asia Times* - Oct 12, 10:18 IST (iso: 2026-10-12T04:48:00+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Bangladesh-Cochroach-protests.jpg -->
+
+Demanding the resignation of India's chief election commissioner is a severe political challenge for Prime Minister Modi. Unlike sacrificing a minister, this move threatens the government's legitimacy. The situation mirrors a potential Bangladesh moment. The pressure on the prime minister is significant. Demanding the resignation of a minister is one thing. It is uncomfortable for a government, occasionally embarrassing for a prime minister, but ultimately manageable.
+
+### [Dissanayake highlights ‘good relations’ with India, points to New Delhi’s Katchatheevu stance](https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece)
+*The Hindu (International)* - Oct 11, 21:20 IST (iso: 2026-10-11T15:50:45+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/7udsj7/article71572396.ece/alternates/LANDSCAPE_1200/2025-11-07T095056Z_874635678_RC2JRHA95O3L_RTRMADP_3_SRI-LANKA-BUDGET.JPG -->
+
+Sri Lankan President Anura Kumara Dissanayake stated that New Delhi acknowledged before its Supreme Court that Katchatheevu belongs to Sri Lanka. Attorney General R. Venkataramani told the court last week that India did not intend to reopen the 1974 and 1976 agreements. Dissanayake cited this legal position as evidence of good bilateral relations. The island nation has long claimed sovereignty over the small island in the Palk Strait.
+
+### [UN rights office urges release of ‘arbitrarily detained’ protesters](https://news.un.org/feed/view/en/story/2026/10/1168571)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-11-2019%20Delhi%20pollution.jpg/image770x420cropped.jpg -->
+
+The UN human rights office expressed concern over mass detentions in India. Authorities arrested demonstrators, protest leaders, lawyers, and journalists before and during large-scale protests in Delhi on Saturday. The organization urged the immediate release of these arbitrarily detained individuals. The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.
+
+### [Anduril’s plan to save US sub edge from China’s undersea surge](https://asiatimes.com/2026/10/andurils-plan-to-save-us-sub-edge-from-chinas-undersea-surge/)
+*Asia Times* - Oct 10, 10:21 IST (iso: 2026-10-10T04:51:10+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Anduril-Shipyard-Submarines-US-Navy.jpg -->
+
+Anduril Industries will invest US$3.7 billion to build a software-defined shipyard. The facility aims to overhaul US submarine manufacturing capabilities. The project addresses urgent needs in naval industrial capacity within the Indo-Pacific region. A multibillion-dollar private initiative to overhaul US submarine manufacturing marks an urgent push to revitalize naval industrial capacity at a pivotal moment in the Indo-Pacific balance of power.
+
+### [Amid heartache of Nepal flooding disaster, fear remains](https://news.un.org/feed/view/en/story/2026/10/1168561)
+*UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/15-09-2026_UNICEF_Nepal-02.jpg/image560x340cropped.jpg -->
+
+Six weeks after Nepal’s deadly flooding, communities are still rebuilding. UNICEF warned that global warming increases the risk of another Himalayan catastrophe. Sustained international help is required. Fear remains high as residents prepare for potential future disasters. Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.
+
+---
+
+## World
+
+### [Thousands without power in Florida and Alabama as Isaias moves north](https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages)
+*The Guardian* - Oct 11, 19:15 IST (iso: 2026-10-11T13:45:27+00:00)
+<!-- image: https://i.guim.co.uk/img/media/420493f91c55c9130552d6c719167b20924fb5ee/196_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ba1428d3d1dada873e9c1e6af277c03 -->
+
+Hurricane Isaias moved north on Sunday, leaving nearly 396,000 customers without power across the Florida Panhandle and southern Alabama. The storm brought moderate to heavy rainfall to the central Appalachians and mid-Atlantic region. Authorities issued warnings for flash flooding that could extend into the Appalachian mountains. At least four deaths have been linked to the storm so far. At least four deaths linked to storm amid warnings of flash flooding that could stretch into AppalachiansAs what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and the mid-Atlantic region, nearly 396,000 customers across the Florida Panhandle and southern Alabama remained without power. Heavy rainfall associated with the storm.
+
+### [Cultivating peace in Côte d’Ivoire](https://news.un.org/feed/view/en/story/2026/10/1168568)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/05-10-2026-IOM-Cote-Ivoire-04.jpg/image770x420cropped.jpg -->
+
+Adam Ouattara and Makongo Traoré live on the edge of Torla village in Côte d’Ivoire. He herds cattle while she grows vegetables nearby. For years, the dry season pitted their two livelihoods against each other over scarce water resources. Adam Ouattara and Makongo Traoré have four children and a home on the edge of Torla village in Côte d’Ivoire. She grows vegetables on a small plot nearby.
+
+### [In the Mekong Delta, a push to grow food with saltwater](https://news.un.org/feed/view/en/story/2026/10/1168545)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/01-10-2026-UNU-EHS-Viet-Nam.jpg/image770x420cropped.jpg -->
+
+Farming in Viet Nam’s Mekong Delta has traditionally relied on seasonal river floods. These floods carried freshwater and sediment across flat fields, supporting the country’s status as a top rice exporter. Farmers are now adapting to saltwater intrusion to maintain food production. For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.
+
+---
+
+## Americas
+
+### [Guterres condemns new US sanctions on International Criminal Court](https://news.un.org/feed/view/en/story/2026/10/1168562)
+*UN News* - Oct 09, 17:30 IST (iso: 2026-10-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/21-11-2024_ICC_Hague1.jpg/image560x340cropped.jpg -->
+
+The United States imposed sanctions on the International Criminal Court as an institution. Secretary of State Marco Rubio vowed to dismantle the court unless it stops targeting US citizens. UN Secretary-General António Guterres condemned the move. Washington views the ICC as a direct threat. The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to “dismantle the ICC, brick by brick” unless it ends what Washington regards as a “threat” to its citizens.
 
 ---
 
