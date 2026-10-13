@@ -1,32 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 13, 2026 14:06 IST
-
----
-
-## World
-
-### [Vape importer pleads guilty over attempts to retrieve S$6.6 million stash seized by HSA, other](https://www.channelnewsasia.com/singapore/man-guilty-vape-seller-steal-hsa-warehouse-6455066)
-*Channel News Asia* - Oct 13, 13:43 IST (iso: 2026-10-13T08:13:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--JO8P5tpS--/c_crop,h_1125,w_2000,x_0,y_428/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/12/20240618_bk_state_courts_generic_5.jpg?itok=LwJTb_Sm -->
-
-A Singapore vape importer pleaded guilty to attempting to retrieve 6.6 million dollars worth of seized products. Health Sciences Authority officers left the large stash in his rented warehouse. He faced charges for trying to access the confiscated e-vaporisers and tobacco items. The seized e-vaporisers and tobacco-related products were kept in custody at the warehouse the offender had rented because the quantity was so large that HSA officers were unable to transport all the stash to their headquarters.
-
-### [Cultivating peace in Côte d’Ivoire](https://news.un.org/feed/view/en/story/2026/10/1168568)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/05-10-2026-IOM-Cote-Ivoire-04.jpg/image560x340cropped.jpg -->
-
-Adam Ouattara and Makongo Traoré live on the edge of Torla village in Côte d’Ivoire. He herds cattle while she grows vegetables nearby. For years, the dry season pitted their two livelihoods against each other over scarce water resources. Adam Ouattara and Makongo Traoré have four children and a home on the edge of Torla village in Côte d’Ivoire. She grows vegetables on a small plot nearby.
-
-### [In the Mekong Delta, a push to grow food with saltwater](https://news.un.org/feed/view/en/story/2026/10/1168545)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/01-10-2026-UNU-EHS-Viet-Nam.jpg/image560x340cropped.jpg -->
-
-Farming in Viet Nam’s Mekong Delta has traditionally relied on seasonal river floods. These floods carried freshwater and sediment across flat fields, supporting the country’s status as a top rice exporter. Farmers are now adapting to saltwater intrusion to maintain food production. For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.
+**Updated:** October 13, 2026 22:02 IST
 
 ---
 
 ## Europe & Russia
+
+### [How Ukraine's Strikes On Data Centers Disrupted Taxis, Shopping, And Business In Russia And Beyond](https://www.rferl.org/a/ukraine-strikes-data-centers-disruption-shopping-business-russia/33875869.html)
+*Radio Free Europe / Liberty* - Oct 13, 20:48 IST (iso: 2026-10-13T15:18:22+00:00)
+<!-- image: https://gdb.rferl.org/ACE18C82-6BF4-4550-9549-C3154D22D2ED.jpg -->
+
+Ukrainian drones hit three Yandex data centers. Repairs will take months. The strikes disrupted taxi services, online shopping, and business operations across Russia and other countries where the tech firm operates. Ukrainian drone strikes on three data centers operated by Russia’s Yandex will reportedly take months to repair and have caused widespread disruption in everyday life across Russia and other countries the sprawling tech company operates in.
 
 ### [Germany To Start Nord Stream 'War Crime' Trial With Prosecutors Blaming Ukrainian 'State](https://www.rferl.org/a/germany-trial-nord-stream-gas-pipeline-russia-ukraine/33873494.html)
 *Radio Free Europe / Liberty* - Oct 13, 12:39 IST (iso: 2026-10-13T07:09:17+00:00)
@@ -34,7 +18,7 @@ Farming in Viet Nam’s Mekong Delta has traditionally relied on seasonal river 
 
 German prosecutors will begin a war crime trial regarding the Nord Stream pipeline explosions. The case marks the first public, sworn testimony on the incident after years of speculation. Prosecutors are blaming Ukrainian state actors for the sabotage. After four years of speculation, leaks, and briefings by anonymous sources, the world is finally about to hear evidence given publicly under oath in a German courtroom about how the Nord Stream gas pipelines were blown up -- in a case that could prove politically explosive.
 
-### [Trump Defends Russian Diesel Deal Despite Backlash](https://www.rferl.org/a/trump-russia-diesel-deal-ukraine-cease-fire/33875531.html)
+### [Zelenskyy Accuses Russia Of Breaking Trump's Cease-Fire On Energy Strikes](https://www.rferl.org/a/trump-russia-diesel-deal-ukraine-cease-fire/33875531.html)
 *Radio Free Europe / Liberty* - Oct 13, 05:39 IST (iso: 2026-10-13T00:09:16+00:00)
 <!-- image: https://gdb.rferl.org/ef720e57-c6b8-4baa-afca-4249eb5f6530_w1200_h630.jpg -->
 
@@ -45,12 +29,6 @@ Trump defended allowing Russian diesel exports despite criticism from Ukraine, E
 <!-- image: https://gdb.rferl.org/37ef7ca2-edd2-41b1-8750-1467d8f44bc7_cx0_cy10_cw0_w1200_h630.jpg -->
 
 Zelenskyy claimed Ukraine’s strikes on Yandex data centers reduced pro-Kremlin bots. He said the attacks crippled the network. Tech experts dispute this assessment. They question the evidence linking the strikes to a drop in bot activity. Ukrainian President Volodymyr Zelenskyy has said that Ukraine's recent attacks on Russian tech giant Yandex’s data centers have resulted in fewer Internet bots promoting pro-Kremlin hate, a claim that has been disputed by many technology researchers.
-
-### [China fast on Ukraine lessons, slow on command reform](https://asiatimes.com/2026/10/china-fast-on-ukraine-lessons-slow-on-command-reform/)
-*Asia Times* - Oct 12, 10:32 IST (iso: 2026-10-12T05:02:53+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-Drones-PLA-Military.jpeg -->
-
-China is rapidly modernizing its defenses using lessons from the Russia-Ukraine war. However, its centralized command structure struggles with decentralized modern combat demands. A CSIS report highlights this friction. The war serves as a real-time laboratory for Chinese military adaptation. The Russia-Ukraine War has become a real-time laboratory for the Chinese military, spurring rapid defensive modernization while exposing deep friction between its centralized command hierarchy and the decentralized demands of modern combat.
 
 ### [Trump Announces Energy Cease-Fire Between Ukraine, Russia As Countries Trade Strikes](https://www.rferl.org/a/europe-backs-zelenskyy-trump-russia-diesel-deal-drone-strikes/33874495.html)
 *Radio Free Europe / Liberty* - Oct 11, 17:20 IST (iso: 2026-10-11T11:50:33+00:00)
@@ -66,91 +44,13 @@ Representative Brian Fitzpatrick is forcing a House vote on legislation to block
 
 ---
 
-## Americas
-
-### [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)
-*The Guardian* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:18+00:00)
-<!-- image: https://i.guim.co.uk/img/media/57e7f305b45a8239d1cf708aecf66c3d5870ebd9/265_0_3242_2593/master/3242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd9e8ce19424589c213f8e9b8b991551 -->
-
-Latin American organised crime groups may now operate in sixteen European countries. A Guardian investigation links the fivefold rise in cocaine seizures to these expanding networks. Cartels have established deep roots across the continent over the last decade. Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shiftA four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged.
-
-### [Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels](https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels)
-*The Guardian* - Oct 13, 08:33 IST (iso: 2026-10-13T03:03:48+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a6437347e242ee38e2ba23c1835b4c362e794d19/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d425f62675f8304cfdc2ff2a473cdbf -->
-
-Argentinian authorities temporarily closed Iguazu Falls after heavy El Niño rains caused the river to flow at six times its normal rate. Officials restricted tourist access to prevent the river from bursting its banks. The precautionary measure addresses immediate safety risks from rapidly rising water levels. National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rateHeavy rainfall fuelled by a supersized El Niño weather pattern briefly forced Argentinian authorities to close tourist access to the famed Iguazu Falls, amid fears that rapidly rising water levels would cause the river to burst its banks. Nation.
-
-### [Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings](https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings)
-*The Guardian* - Oct 13, 03:10 IST (iso: 2026-10-12T21:40:51+00:00)
-<!-- image: https://i.guim.co.uk/img/media/bbba54cb3af93f07899e3c63d8dc41cf90c1a464/855_101_4498_3600/master/4498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c861d5b7d67c04a132d440c9a579c604 -->
-
-Bolivia's attorney general opened an investigation into former president Evo Morales. He faces allegations of involvement in the 2009 murder of three Europeans in Santa Cruz. Two others were allegedly tortured during the same police raid. The case spans seventeen years of legal scrutiny. Leftist former leader accused of involvement in shooting of three Europeans in Santa Cruz and torture of two othersBolivia’s attorney general has announced an investigation into leftist former president Evo Morales, alleging his involvement in the murder and torture of European citizens in 2009. Seventeen years ago, police raided a hotel in the city of Santa Cruz, shooting dead Eduardo Rózsa Flores.
-
-### [Colombia peace deal must endure as insecurity grows, Security Council hears](https://news.un.org/feed/view/en/story/2026/10/1168580)
-*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image770x420cropped.jpg -->
-
-The UN representative in Colombia stated the peace deal must endure despite growing insecurity. The agreement ended a decades-long insurgency nearly ten years ago. Rising violence threatens the stability of the accord. The official emphasized the need to prevent the deal from faltering. Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.
-
----
-
-## Asia-Pacific
-
-### [India youth protest leaders detained after entering barricaded Delhi protest site](https://www.channelnewsasia.com/asia/india-detains-cockroach-leaders-protest-6455131)
-*Channel News Asia* - Oct 13, 11:55 IST (iso: 2026-10-13T06:25:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Q6ENqC80--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-25T133355Z_2_LYNXMPEM8O0EX_RTROPTP_3_INDIA-POLITICS-GEN-Z.JPG?itok=bCT7CGM0 -->
-
-Indian police detained youth protest leaders after they entered Jantar Mantar in Delhi. The site had been removed from the list of designated protest venues the previous day. The Cockroach Janta Party leaders were detained on Tuesday. The detentions on Tuesday (Oct 13) came after Cockroach Janta Party (CJP) leaders entered Jantar Mantar, an iconic site for demonstrations that police had removed from New Delhi's list of designated protest venues a day earlier.
-
-### [Elon Musk and Mukesh Ambani’s feud over Starlink](https://www.thehindu.com/sci-tech/technology/elon-musk-and-mukesh-ambanis-feud-over-starlink-explained/article71577979.ece)
-*The Hindu (International)* - Oct 13, 11:05 IST (iso: 2026-10-13T05:35:06+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/wzwh3t/article71578006.ece/alternates/LANDSCAPE_1200/Film_-_Musk_14315.jpg -->
-
-Elon Musk argues India's mobile market unfairly favors Mukesh Ambani, demanding fair access for Starlink. Critics counter that the service raises significant sovereignty and security concerns for the nation. The dispute highlights a clash between commercial expansion and national security priorities. Elon Musk believes that India’s mobile internet market is skewed to favour the Ambani family and that his Starlink service deserves a fair chance in the country.
-
-### [US turning B-52 bomber into long-range China ship killer](https://asiatimes.com/2026/10/us-turning-b-52-bomber-into-long-range-china-ship-killer/)
-*Asia Times* - Oct 13, 09:24 IST (iso: 2026-10-13T03:54:07+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/B-52-Bomber.jpeg -->
-
-The US Navy plans to equip B-52 bombers with AGM-158C Long-Range Anti-Ship Missiles to counter China's navy. Lockheed Martin will integrate the weapons under a sole-source contract. However, severe munition shortages and operational vulnerabilities may limit the strategic impact of this upgrade. While the US is arming its long-serving B-52 with potent ship-killing missiles to take on China’s expanding navy, severe munition constraints and operational vulnerabilities could undermine its strategic impact.
-
-### [One freed American doesn’t equal US policy shift on Myanmar](https://asiatimes.com/2026/10/one-freed-american-doesnt-equal-us-policy-shift-on-myanmar/)
-*Asia Times* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:21+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/07/Myanmar-Min-Aung-Hlaing-June-2021.jpg -->
-
-The United States opened direct talks with Myanmar’s military junta. This follows the release of an American citizen. The move reverses years of diplomatic isolation. It does not signal a victory for the generals or a defeat for the revolution. The recent Reuters headline, “US opens direct talks with Myanmar’s generals, reversing years of isolation,” describes a consequential diplomatic change.
-
-### [UN rights office urges release of ‘arbitrarily detained’ protesters](https://news.un.org/feed/view/en/story/2026/10/1168571)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-11-2019%20Delhi%20pollution.jpg/image560x340cropped.jpg -->
-
-The UN human rights office expressed concern over mass detentions in India. Authorities arrested demonstrators, protest leaders, lawyers, and journalists before and during large-scale protests in Delhi on Saturday. The organization urged the immediate release of these arbitrarily detained individuals. The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.
-
----
-
-## Global / Multilateral
-
-### [IMF says developing countries must cut spending despite war shock](https://www.thehindu.com/news/international/no-choice-imf-says-developing-countries-must-cut-spending-despite-war-shock/article71578064.ece)
-*The Hindu (International)* - Oct 13, 11:48 IST (iso: 2026-10-13T06:18:46+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/3wen7w/article71578158.ece/alternates/LANDSCAPE_1200/2026-10-13T033410Z_1062108897_RC222OA6PL6T_RTRMADP_3_IMF-WORLDBANK.JPG -->
-
-The International Monetary Fund advised developing countries to reduce spending despite ongoing war shocks. Rising debt levels and persistent inflation have constrained fiscal space. The IMF research deputy director noted the cumulative impact of recent global economic disruptions. "Unfortunately, after years of the global economy being hit by shock after shock, debt levels have increased quite a lot, and at the same time, inflation has become a problem," says IMF deputy director of research.
-
-### [UNHCR chief warns refugee protection is buckling under cuts](https://news.un.org/feed/view/en/story/2026/10/1168575)
-*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-03.jpg/image770x420cropped.jpg -->
-
-UNHCR chief Barham Salih warned refugee protection is failing. The agency received only three billion dollars of its eight billion dollar need. One hundred seventeen million people are currently displaced. Funding gaps threaten the global asylum support system. The money is running out faster than needs are growing: with 117 million men, women and children now forced from their homes, the UN refugee agency (UNHCR) has received just $3 billion of the $8.5 billion it needs this year – and its chief, Barham Salih, warns that the global support system for asylum-seekers risks buckling.
-
-### [When AI takes control of weapons systems](https://asiatimes.com/2026/10/when-ai-takes-control-of-weapons-systems/)
-*Asia Times* - Oct 12, 11:12 IST (iso: 2026-10-12T05:42:14+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/AI-Regulation-AI-War.jpg -->
-
-Artificial intelligence is expanding into national defense systems. Machine learning now handles reconnaissance, early warning, and target detection. These tools promise faster analysis and decision-making. However, AI exacerbates existing security problems that cannot be solved technically. Artificial intelligence is rapidly making its way into national defense. Reconnaissance, early warning, target detection, mission planning. everywhere, machine-learning systems promise faster analysis, faster responses, and faster decision-making.
-
----
-
 ## Middle East & Africa
+
+### [Egyptian foreign minister urges diplomacy, says ‘no military solution’ to Middle East conflict](https://www.channelnewsasia.com/world/egypt-foreign-minister-badr-abdelatty-interview-imf-world-bank-meetings-middle-east-conflict-6456226)
+*Channel News Asia* - Oct 13, 19:27 IST (iso: 2026-10-13T13:57:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--oXZujfmW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/egyptian_foreign_minister_badr_abdelatty_speaks_to_cna_in_bangkok_thailand.png?itok=3e-fCsGJ -->
+
+Egyptian Foreign Minister Badr Abdelatty told CNA in Bangkok that diplomacy is the only path forward. He rejected a military solution to the Middle East conflict. He also discussed expanding trade with Asia and the growing debt burden on developing nations. In a wide-ranging interview with CNA’s Saksith Saiyasombut at the IMF-World Bank Annual Meetings in Bangkok, Egyptian Foreign Minister Badr Abdelatty also discussed opportunities for greater trade with Asia and the growing debt burden on developing countries.
 
 ### [Pulling Ethiopia and Eritrea Back from War](https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war)
 *International Crisis Group* - Oct 13, 03:14 IST (iso: 2026-10-12T21:44:00+00:00)
@@ -175,6 +75,106 @@ Houthi forces struck Riyadh airport using suicide drones, cruise missiles, and b
 <!-- image: https://gdb.rferl.org/e24d8470-9e07-4b3f-74a0-08debadc3b87_cx4_cy3_cw89_w1200_h630.jpg -->
 
 Central Asian states are shifting military procurement away from Russia toward India, China, Turkey, and Europe. This diversification grants them greater political flexibility in negotiations with Moscow. Analysts warn that mixing equipment from multiple suppliers creates long-term logistical and operational challenges. The shift reflects a strategic move to reduce reliance on a single arms supplier. Central Asian nations are increasingly turning to India, China, Turkey, and Europe for military equipment to reduce their dependence on Russia.
+
+### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr)
+*The Guardian* - Oct 10, 03:06 IST (iso: 2026-10-09T21:36:18+00:00)
+<!-- image: https://i.guim.co.uk/img/media/13d3a4f2328095370b529ac27978a47a800ac111/428_0_4250_3400/master/4250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70af779be14ee568d6b9cd1795ad7da2 -->
+
+Guinea-Bissau approved a controversial trial to withhold hepatitis B vaccines from thousands of newborns. Danish researchers will conduct the study. It aligns with the vaccine vision of US Health and Human Services Secretary Robert F. Kennedy Jr. Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime.
+
+### [How Close Are Ethiopia and Eritrea to All-out War?](https://www.crisisgroup.org/pod/africa/horn-africa/how-close-are-ethiopia-and-eritrea-all-out-war)
+*International Crisis Group* - Oct 09, 21:11 IST (iso: 2026-10-09T15:41:00+00:00)
+<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group’s Alan Boswell discussed the fighting in Ethiopia’s Tigray region on Hold Your Fire. He analyzed the risk of direct war between Ethiopia and Eritrea. The conversation covered factors that might prevent further escalation in the Horn of Africa. In this episode of Hold Your Fire!, Richard is joined by Crisis Group’s Horn of Africa director, Alan Boswell, to discuss the fighting in Ethiopia’s Tigray region, the risk of direct war between Ethiopia and Eritrea and what may prevent further escalation.
+
+---
+
+## Asia-Pacific
+
+### [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)
+*The Guardian* - Oct 13, 18:14 IST (iso: 2026-10-13T12:44:44+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a933a93c8a95bbdec93acd09d70d5a41 -->
+
+An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bangka Belitung province. Hundreds of residents evacuated as shifting winds drove the blaze toward settlements. The incident adds to the country’s ongoing battle with devastating blazes and haze. Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlementA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitun.
+
+### [US turning B-52 bomber into long-range China ship killer](https://asiatimes.com/2026/10/us-turning-b-52-bomber-into-long-range-china-ship-killer/)
+*Asia Times* - Oct 13, 09:24 IST (iso: 2026-10-13T03:54:07+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/B-52-Bomber.jpeg -->
+
+The US Navy plans to equip B-52 bombers with AGM-158C Long-Range Anti-Ship Missiles to counter China's navy. Lockheed Martin will integrate the weapons under a sole-source contract. However, severe munition shortages and operational vulnerabilities may limit the strategic impact of this upgrade. While the US is arming its long-serving B-52 with potent ship-killing missiles to take on China’s expanding navy, severe munition constraints and operational vulnerabilities could undermine its strategic impact.
+
+### [One freed American doesn’t equal US policy shift on Myanmar](https://asiatimes.com/2026/10/one-freed-american-doesnt-equal-us-policy-shift-on-myanmar/)
+*Asia Times* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:21+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/07/Myanmar-Min-Aung-Hlaing-June-2021.jpg -->
+
+The United States opened direct talks with Myanmar’s military junta. This follows the release of an American citizen. The move reverses years of diplomatic isolation. It does not signal a victory for the generals or a defeat for the revolution. The recent Reuters headline, “US opens direct talks with Myanmar’s generals, reversing years of isolation,” describes a consequential diplomatic change.
+
+### [UN rights office urges release of ‘arbitrarily detained’ protesters](https://news.un.org/feed/view/en/story/2026/10/1168571)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-11-2019%20Delhi%20pollution.jpg/image560x340cropped.jpg -->
+
+The UN human rights office expressed concern over mass detentions in India. Authorities arrested demonstrators, protest leaders, lawyers, and journalists before and during large-scale protests in Delhi on Saturday. The organization urged the immediate release of these arbitrarily detained individuals. The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.
+
+### [Toward a Thaw in the Cambodia-Thailand Border Conflict](https://www.crisisgroup.org/rpt/asia-pacific/thailand-cambodia/359-toward-thaw-cambodia-thailand-border-conflict)
+*International Crisis Group* - Oct 09, 05:30 IST (iso: 2026-10-09T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/19525920/pexels-photo-19525920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Cambodia and Thailand halted border fighting in late 2025 after two rounds of combat. The current truce faces growing strain. Both nations should restore diplomatic ties to prevent renewed conflict. They must also resume demarcating their shared border to secure lasting stability. Hostilities between Cambodia and Thailand ceased in late 2025, after two rounds of combat along the frontier. But the truce is under growing strain.
+
+---
+
+## Americas
+
+### [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)
+*The Guardian* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:18+00:00)
+<!-- image: https://i.guim.co.uk/img/media/57e7f305b45a8239d1cf708aecf66c3d5870ebd9/265_0_3242_2593/master/3242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd9e8ce19424589c213f8e9b8b991551 -->
+
+Latin American organised crime groups may now operate in sixteen European countries. A Guardian investigation links the fivefold rise in cocaine seizures to these expanding networks. Cartels have established deep roots across the continent over the last decade. Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shiftA four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged.
+
+### [Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels](https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels)
+*The Guardian* - Oct 13, 08:33 IST (iso: 2026-10-13T03:03:48+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a6437347e242ee38e2ba23c1835b4c362e794d19/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d425f62675f8304cfdc2ff2a473cdbf -->
+
+Argentinian authorities temporarily closed Iguazu Falls after heavy El Niño rains caused the river to flow at six times its normal rate. Officials restricted tourist access to prevent the river from bursting its banks. The precautionary measure addresses immediate safety risks from rapidly rising water levels. National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rateHeavy rainfall fuelled by a supersized El Niño weather pattern briefly forced Argentinian authorities to close tourist access to the famed Iguazu Falls, amid fears that rapidly rising water levels would cause the river to burst its banks. Nation.
+
+### [Colombia peace deal must endure as insecurity grows, Security Council hears](https://news.un.org/feed/view/en/story/2026/10/1168580)
+*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image770x420cropped.jpg -->
+
+The UN representative in Colombia stated the peace deal must endure despite growing insecurity. The agreement ended a decades-long insurgency nearly ten years ago. Rising violence threatens the stability of the accord. The official emphasized the need to prevent the deal from faltering. Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.
+
+---
+
+## Global / Multilateral
+
+### [UNHCR chief warns refugee protection is buckling under cuts](https://news.un.org/feed/view/en/story/2026/10/1168575)
+*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-03.jpg/image770x420cropped.jpg -->
+
+UNHCR chief Barham Salih warned refugee protection is failing. The agency received only three billion dollars of its eight billion dollar need. One hundred seventeen million people are currently displaced. Funding gaps threaten the global asylum support system. The money is running out faster than needs are growing: with 117 million men, women and children now forced from their homes, the UN refugee agency (UNHCR) has received just $3 billion of the $8.5 billion it needs this year – and its chief, Barham Salih, warns that the global support system for asylum-seekers risks buckling.
+
+### [When AI takes control of weapons systems](https://asiatimes.com/2026/10/when-ai-takes-control-of-weapons-systems/)
+*Asia Times* - Oct 12, 11:12 IST (iso: 2026-10-12T05:42:14+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/AI-Regulation-AI-War.jpg -->
+
+Artificial intelligence is expanding into national defense systems. Machine learning now handles reconnaissance, early warning, and target detection. These tools promise faster analysis and decision-making. However, AI exacerbates existing security problems that cannot be solved technically. Artificial intelligence is rapidly making its way into national defense. Reconnaissance, early warning, target detection, mission planning. everywhere, machine-learning systems promise faster analysis, faster responses, and faster decision-making.
+
+---
+
+## World
+
+### [Cultivating peace in Côte d’Ivoire](https://news.un.org/feed/view/en/story/2026/10/1168568)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/05-10-2026-IOM-Cote-Ivoire-04.jpg/image560x340cropped.jpg -->
+
+Adam Ouattara and Makongo Traoré live on the edge of Torla village in Côte d’Ivoire. He herds cattle while she grows vegetables nearby. For years, the dry season pitted their two livelihoods against each other over scarce water resources. Adam Ouattara and Makongo Traoré have four children and a home on the edge of Torla village in Côte d’Ivoire. She grows vegetables on a small plot nearby.
+
+### [In the Mekong Delta, a push to grow food with saltwater](https://news.un.org/feed/view/en/story/2026/10/1168545)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/01-10-2026-UNU-EHS-Viet-Nam.jpg/image560x340cropped.jpg -->
+
+Farming in Viet Nam’s Mekong Delta has traditionally relied on seasonal river floods. These floods carried freshwater and sediment across flat fields, supporting the country’s status as a top rice exporter. Farmers are now adapting to saltwater intrusion to maintain food production. For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.
 
 ---
 

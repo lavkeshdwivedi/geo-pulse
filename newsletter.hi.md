@@ -1,180 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 13, 2026 14:06 IST
+**अपडेट:** October 13, 2026 22:02 IST
 
 ---
 
 ## एशिया-प्रशांत
 
-### [पटरी से उतरी ट्रेन, 5 की मौत, 30 से ज्यादा जख्मी, पाकिस्तान के पंजाब में बड़ा रेल हादसा](https://hindi.news18.com/world/pakistan-passenger-train-derails-in-punjab-pakistan-five-killed-30-injured-10905698.html)
-*News18 Hindi (World)* - Oct 13, 13:53 IST (iso: 2026-10-13T08:23:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-train-2026-10-cc76380cb013946ccb66131e3d27565c-1200x800.jpg -->
+### [चीन-तालिबान बना रहे लद्दाख-PoK का 'चोर दरवाजा’, वाखान कॉरिडोर बनेगा भारत के जी का जंजाल?](https://hindi.news18.com/world/south-asia-china-taliban-new-wakhan-corridor-road-near-ladakh-and-pok-why-it-is-major-security-threat-for-india-10907478.html)
+*News18 Hindi (World)* - Oct 13, 21:45 IST (iso: 2026-10-13T16:15:41+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/China-Taliban-New-Wakhan-Corridor-Road-Near-Ladakh-and-PoK-2026-10-e969059772dcbab5817064e57125ac89-1200x800.jpg -->
 
-पाकिस्तान के पंजाब में सुबह सवा पांच बजे रहमान बाबा एक्सप्रेस ट्रेन पटरी से उतर गई। हादसे में पांच लोगों की मौत हो गई और तीस से अधिक यात्री घायल हुए। घायलों को अस्पताल में भर्ती कराया जा रहा है। Pakistan Train Accident: पाकिस्तान के पंजाब प्रांत में बड़ा रेल हादसा हो गया है. यहां सुबह सवा पांच बजे रहमान बाबा एक्सप्रेस ट्रेन पटरी से उतर गई.
+चीन और तालिबान लद्दाख और पाकिस्तान के कब्जे वाले कश्मीर के पास वाखान कॉरिडोर में सड़क निर्माण कर रहे हैं। यह परियोजना भारत की सीमा सुरक्षा के लिए नई चुनौती पैदा करती है। चीन अब अफगानिस्ता में एक ऐसा प्रोजेक्ट तैयार कर रहा है, जो ऊपर से देखने पर बस एक आम सड़क लगती है. लेकिन अगर नक्शा और सुरक्षा देखें, तो खेल अलग है.
 
-### [समंदर में BLA का वार, पाक कोस्ट गार्ड की 2 नावों पर हमला; 13 जवानों की मौत](https://hindi.news18.com/news/defence/bla-opens-new-sea-front-pakistan-jiwani-attack-13-killed-claim-10906150.html)
-*News18 Hindi (World)* - Oct 13, 13:52 IST (iso: 2026-10-13T08:22:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-10-13T133850.848-2026-10-bc80f0533cf620e06629cf1fb94cc3bc-1200x800.jpg -->
+### [कौन हैं रंजीव पुरी, अमेरिका की सियासत में भारत के इस बेटे का बज रहा डंका, ओबामा के लिए कर चुके काम](https://hindi.news18.com/world/america-who-is-ranjeev-puri-worked-for-barack-obama-now-seeking-to-be-michigan-first-indian-american-house-speaker-10907351.html)
+*News18 Hindi (World)* - Oct 13, 20:31 IST (iso: 2026-10-13T15:01:29+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Ranjeev-Puri-2026-10-acfd453c35b58fa682ac731f8fc8a5ab-1200x800.jpg -->
 
-बलूचिस्तान के जिवानी में बलूच लिबरेशन आर्मी ने पाकिस्तान कोस्ट गार्ड की दो नावों पर हमला किया। संगठन ने दावा किया कि इस हमले में 13 पाकिस्तानी सैनिक मारे गए। घटना स्थल पर सुरक्षा बल तैनात कर दिए गए हैं। बलूचिस्तान के जिवानी में पाकिस्तान कोस्ट गार्ड की दो नावों पर हमले की BLA ने जिम्मेदारी ली है. संगठन ने दावा किया कि हमले में 13 पाकिस्तानी जवान मारे गए.
+रंजीव पुरी अमेरिका के मिशिगन राज्य की प्रतिनिधि सभा के स्पीकर पद के दावेदार हैं। 2026 के चुनाव में जीतने पर वे पहले भारतीय-अमेरिकी स्पीकर बन सकते हैं। Ranjeev Puri: अमेरिका में भारतीय मूल के सिख नेता रंजीव पुरी इतिहास रच सकते हैं. मिशिगन की 110 सदस्यीय प्रतिनिधि सभा के स्पीकर पद पर उनकी नजर है. अगर 3 नवंबर 2026 के चुनाव में डेमोक्रेटिक पार्टी बहुमत हासिल करती है और पुरी अपनी सीट जीतते हैं, तो वह अमेरिका के किसी राज्य की प्रतिनिधि सभा के पहले भारतीय-अमेरिकी स्पीकर बन सकते हैं.
 
-### ['तुम आतंकी हो, यहां क्यों आए?', मोहम्मद यूनुस को अमेरिका में बांग्लादेशियों ने घेरा, मुंह छुपाकर](https://hindi.news18.com/world/south-asia-muhammad-yunus-got-slammed-by-bangladeshi-people-as-terrorist-at-jfk-airport-in-us-10906025.html)
-*News18 Hindi (World)* - Oct 13, 13:25 IST (iso: 2026-10-13T07:55:07+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/yunus-video-2026-10-a27441a91c8e97b21cc3aaa88a4c6ea5-1200x800.jpg -->
+### [राहुल गांधी की खबर से मार्शल लॉ तक, पाकिस्तानी हैंडलर्स ने दिल्ली प्रदर्शन को कैसे बनाया हथियार? 3](https://hindi.news18.com/world/pakistan-how-pakistani-handlers-weaponised-delhi-protests-rahul-gandhi-fake-video-propaganda-bot-network-exposed-10907080.html)
+*News18 Hindi (World)* - Oct 13, 18:47 IST (iso: 2026-10-13T13:17:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Pakistani-Handler-In-Delhi-Protest-2026-10-ba4c33ada7d420e4b17aef833403b112-1200x800.jpg -->
 
-पूर्व अंतरिम सरकार के प्रमुख मोहम्मद यूनुस को अमेरिका में बांग्लादेशी प्रवासी समुदाय ने घेरा। जॉन एफ. कैनेडी हवाई अड्डे पर उन्हें आतंकवादी और हत्यारा कहकर गाली दी गई। यूनुस को सुरक्षा बलों की मदद से वहां से निकाला गया। Muhammad Yunus Slammed as Terrorist in US: बांग्लादेश में पूर्व अंतरिम सरकार के प्रमुख मोहम्मद यूनुस को अमेरिका में कड़े विरोध का सामना करना पड़ा.
+दिल्ली पुलिस ने पाकिस्तान से चल रहे डिजिटल नेटवर्क का पर्दाफाश किया। लाहौर से चलाए गए फर्जी पेज और बोट्स ने 10 अक्टूबर के प्रदर्शन के दौरान झूठी अफवाहें फैलाईं। पुराने वीडियो को नया बताकर नफरत भड़काई गई। भारतीय एजेंसियों और दिल्ली पुलिस ने पाकिस्तान से चल रहे एक बड़े डिजिटल नेटवर्क का पर्दाफाश किया है. 10 अक्टूबर को दिल्ली में हुए प्रदर्शनों के दौरान 'भारत बाइट्स' नाम से फर्जी मीडिया पेज और हजारों बोट्स के जरिए देश में नफरत फैलाई जा रही थी.
 
-### [मासूमों के हत्यारे हो तुम, अफगानिस्तान में हमलों पर UN ने पाकिस्तान को लगाई लताड़](https://hindi.news18.com/world/pakistan-un-special-rapporteur-rebukes-pakistan-over-attacks-on-afghanistan-assumes-civilians-death-as-war-crimes-ws-l-10906000.html)
-*News18 Hindi (World)* - Oct 13, 13:14 IST (iso: 2026-10-13T07:44:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/afghanistan-strike-2026-06-4ca0979969246f119a8eafde145ba39c-1200x800.jpg -->
+### [एल मुरुगन ने मोदी कैबिनेट से दिया इस्तीफा, बताया अगला प्लान](https://www.abplive.com/news/india/l-murugan-resigns-from-modi-cabinet-3201632)
+*ABP Live (India)* - Oct 13, 18:10 IST (iso: 2026-10-13T12:40:22+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/4cace7485f0c5c54c1be28e44f0efbf617918963513661324_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-संयुक्त राष्ट्र विशेष प्रतिवेदक रिचर्ड बेनेट ने अफगानिस्तान में नागरिकों की मौत पर पाकिस्तान को निशाना बनाया। उन्होंने युद्ध अपराधों की जांच की मांग की और मारे गए लोगों के परिवारों को इंसाफ का अधिकार बताया। अफगानिस्तान में हमलों के दौरान नागरिकों की मौत पर यूएन ने पाकिस्तान को लताड़ लगाई है. संयुक्त राष्ट्र विशेष प्रतिवेदक रिचर्ड बेनेट ने इन हमलों की जांच और युद्ध अपराध की चेतावनी दी है.
+बीजेपी नेता एल मुरुगन ने मोदी कैबिनेट से इस्तीफा दिया। उन्होंने सूचना मंत्रालय की राज्यमंत्री पद और राज्यसभा सदस्यता से भी त्यागपत्र दिया। मुरुगन ने एक्स पर सेवा का आभार जताया। मोदी कैबिनेट से बीजेपी के वरिष्ठ नेता एल मुरुगन ने इस्तीफा दे दिया है. सूचना और प्रसारण मंत्रालय में राज्यमंत्री मुरुगन ने राज्यसभा की सदस्यता से भी त्यागपत्र दिया है.
 
-### [क्षेत्रीय सुरक्षा-आतंकवाद के मुद्दे पर अमित शाह की दो टूक, नशे के खिलाफ क्या है भारत की रणनीति?](https://www.amarujala.com/india-news/amit-shah-addresses-first-bimstec-home-ministers-meeting-regional-security-terrorism-drugs-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 12:39 IST (iso: 2026-10-13T07:09:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/amata-shaha-katharaya-gaha-matara_5bbd4a7d0f8c7cd46b0de4b63b437b63.jpeg?w=1200&dpr=1.0 -->
+### [संजय राउत बोले- ज्ञानेश कुमार माफिया, तेजस्वी ने कहा- मिलेगी सजा, जानें किसने क्या कहा](https://www.abplive.com/news/india/india-bloc-leaders-attacked-cec-gyanesh-kumar-pm-modi-amit-shah-over-vote-chori-and-sir-3201629)
+*ABP Live (India)* - Oct 13, 18:09 IST (iso: 2026-10-13T12:39:21+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/b17c826bfb0c5d975d96c680cc3cceb917919009999921126_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-अमित शाह ने बिम्सटेक गृह मंत्रियों की पहली बैठक में आतंकवाद और नशे के खिलाफ सहयोग की अपील की। उन्होंने समय पर इंटेलिजेंस साझा करने और क्षेत्रीय सुरक्षा के लिए आपसी समन्वय पर विशेष जोर दिया। केंद्रीय गृह मंत्री अमित शाह ने बिम्सटेक के गृह मंत्रियों की पहली बैठक को संबोधित किया। उन्होंने आतंकवाद और नशीले पदार्थों की समस्या से निपटने के लिए आपसी सहयोग और समय पर इंटेलिजेंस साझा करने पर जोर दिया।
+इंडिया गठबंधन के नेताओं ने चुनाव आयोग पर वोट चोरी का आरोप लगाया। मंगलवार को हुई प्रेस कॉन्फ्रेंस में खरगे ने आंदोलन की सफलता का दावा किया। राउत ने आयोग अध्यक्ष को माफिया कहा। मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार, एसआईआर और वोट चोरी के मुद्दे के खिलाफ इंडिया गठबंधन के नेताओं ने मंगलवार (12 अक्टूबर, 2026) को प्रेस कॉन्फ्रेंस किया.
 
-### [आठ साल बाद फिर बदला दिल्ली में धरना-प्रदर्शन का ठिकाना, ये हैं तीन नई जगह और चुनौतियां](https://www.amarujala.com/delhi/goodbye-jantar-mantar-delhi-shifts-protest-venue-after-8-years-three-new-places-and-challenges-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 12:01 IST (iso: 2026-10-13T06:31:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/jantar-mantar-delhi_92285ab36058dce1d33c007d16850b70.jpeg?w=1200&dpr=1.0 -->
+### ['चीन जितना भी इनकार कर ले, सच कभी नहीं बदलेगा': लद्दाख को लेकर ड्रैगन पर भारत का पलटवार](https://hindi.news18.com/news/nation/no-matter-how-much-china-denies-it-ladakh-truth-never-change-mea-clear-message-to-china-10906910.html)
+*News18 Hindi (World)* - Oct 13, 17:58 IST (iso: 2026-10-13T12:28:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Randhir-Jaiswal-2026-10-9298f578b1ec61da51bb1509b8704ac5-1200x800.jpg -->
 
-दिल्ली में धरना-प्रदर्शन के लिए आठ साल बाद तीन नई जगहों का चयन किया गया। यह बदलाव शहर के प्रदर्शन परिदृश्य को प्रभावित करेगा। दिल्ली की पहचान सिर्फ सत्ता के गलियारों, ऐतिहासिक इमारतों और सियासी हलचलों से नहीं बनी। इसकी सड़कों ने उन नारों को भी सुना है, जिन्होंने देशभर के आंदोलनों को आवाज दी। आठ साल बाद फिर बदला दिल्ली में धरना-प्रदर्शन का ठिकाना, ये हैं तीन नई जगह और चुनौतियां।
+भारत ने चीन की लद्दाख मानचित्र संबंधी आपत्तियों को खारिज कर दिया। विदेश मंत्रालय ने स्पष्ट किया कि लद्दाख भारत का हिस्सा है। चीन के दावों से इस तथ्य में कोई बदलाव नहीं आ सकता। India China Ladakh: लद्दाख के मानचित्र को लेकर बीजिंग की आपत्तियों को सिरे से खारिज करते हुए भारत ने चीन को सख्त कूटनीतिक संदेश दिया है.
 
-### [पाकिस्तान के पंजाब में ट्रेन हादसा, 5 की मौत, कई घायल](https://www.patrika.com/world-news/pakistan-punjab-train-derail-rehman-baba-express-5-dead-20980203)
-*Patrika (World)* - Oct 13, 11:34 IST (iso: 2026-10-13T06:04:20+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Copy-of-Logo-Banner-17.webp -->
+### [कौन हैं इल्हान उमर, भारत के खिलाफ उगला है खूब जहर, अब पड़ा घर पर छापा, दर्द हुआ ममदानी को](https://hindi.news18.com/world/america-who-is-anti-india-leader-ilhan-omar-raid-on-house-trump-calls-her-bad-but-mamdani-takes-side-ws-l-10906896.html)
+*News18 Hindi (World)* - Oct 13, 17:51 IST (iso: 2026-10-13T12:21:23+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/ilhan-omar-2026-10-1cd2a928cb932f1edc9be96b2235c978-1200x800.jpg -->
 
-पाकिस्तान के पंजाब में कराची से पेशावर जा रही पैसेंजर ट्रेन पटरी से उतर गई। इस हादसे में कम से कम पांच लोगों की मौत हो गई और कई अन्य घायल हुए। पाकिस्तान के पंजाब प्रांत में एक पैसेंजर ट्रेन के पटरी से उतरने से कम से कम पांच लोगों की मौत हो गई और कई अन्य घायल हो गए।
+अमेरिका में डेमोक्रेट सांसद इल्हान उमर के घर पर छापेमारी हुई है। इस घटना ने वहां राजनीतिक तनाव बढ़ा दिया है। उमर ने पहले भी भारत के खिलाफ कड़ी आलोचना की थी। Who is Ilhan Omar: एक बार फिर से डेमोक्रेटिक पार्टी की नेता इल्हान उमर चर्चा में हैं क्योंकि उनके घर पर छापेमारी की गई है. इसे लेकर अमेरिका में सियासत तेज हो गई है.
 
-### [अभिषेक पोरेल ने मनाया कोहली जैसा जश्न: दिल्ली के खिलाफ शतक लगाने के बाद आलोचकों को इस तरह चिढ़ाया](https://www.amarujala.com/cricket/abhishek-porel-celebrates-like-virat-kohli-after-century-against-delhi-video-goes-viral-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 10:53 IST (iso: 2026-10-13T05:23:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/abhishek-porel-virat-kohli-ranji-trophy-2026-bengal-vs-delhi-abhishek-porel-century-bengal-cr_45db33bcddbc80f4e99e35d18ccc1dee.jpeg?w=1200&dpr=1.0 -->
+### [ज्ञानेश कुमार के खिलाफ कौन-से 23 दलों ने उठाई आवाज? देश एकजुट कैसे हुआ](https://www.abplive.com/news/india/grand-alliance-of-23-party-has-united-against-gyanesh-kumar-congress-cjp-tvk-rahul-gandhi-abhijeet-dipke-protest-explained-3201612)
+*ABP Live (India)* - Oct 13, 17:47 IST (iso: 2026-10-13T12:17:46+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/a2d8f66632a883a0367198544aa57df017918936804581317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
-बंगाल के विकेटकीपर अभिषेक पोरेल ने रणजी ट्रॉफी में दिल्ली के खिलाफ शतक लगाया। यह उनके करीब 36 दिन की जेल यात्रा के बाद पहला बड़ा प्रदर्शन था। कानूनी मामले में करीब 36 दिन जेल में बिताने के बाद बंगाल के विकेटकीपर-बल्लेबाज अभिषेक पोरेल ने रणजी ट्रॉफी में शानदार वापसी की। अभिषेक पोरेल ने मनाया कोहली जैसा जश्न: दिल्ली के खिलाफ शतक लगाने के बाद आलोचकों को इस तरह चिढ़ाया।
+केरल विधानसभा ने 13 अक्टूबर 2026 को मुख्य चुनाव आयुक्त ज्ञानेश कुमार को हटाने का प्रस्ताव पारित किया। यह देश का पहला ऐसा राज्य बना। दिल्ली में भी लगभग 23 दलों ने इस विरोध में आवाज उठाई। 13 अक्टूबर 2026 को केरल विधानसभा ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार को पद से हटाने की मांग वाला प्रस्ताव लगभग सर्वसम्मति से पारित कर दिया.
+
+### [भारत के चेनाब नदी वाले प्रोजेक्ट ने कर दिया खेला! पाकिस्तान को खरीफ सीजन में दिखेगी औकात](https://hindi.news18.com/news/knowledge/indus-waters-treaty-update-pakistan-faces-22-percent-water-shortage-in-kharif-season-as-india-controls-chenab-flow-exclusive-details-10906925.html)
+*News18 Hindi (World)* - Oct 13, 17:41 IST (iso: 2026-10-13T12:11:11+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/India-Pakistan-Indus-Water-Treaty-Kharif-Season-2026-10-711b57e253b349012f6499a9d660d9cb-1200x800.jpg -->
+
+भारत ने चेनाब नदी पर अपने जल परियोजनाओं को चालू कर दिया है। इससे पाकिस्तान को खरीफ सीजन में 22 फीसदी पानी की कमी होगी। पंजाब और सिंध में धान, गन्ना व कपास की फसलें प्रभावित होंगी। पहलगाम आतंकी हमले के बाद भारत ने सिंधु जल समझौते को रोक दिया है. इसके साथ ही चेनाब नदी पर भारत के प्रोजेक्ट्स भी चालू हो गए हैं.
+
+### [CJP प्रोटेस्टः फर्जी पोस्टों की जांच में पाकिस्तान का एंगल! दिल्ली पुलिस ने दर्ज किए 4 FIR](https://www.abplive.com/news/india/delhi-police-files-4-firs-over-fake-online-posts-since-10-october-cjp-protest-in-delhi-amid-pakistan-angle-under-probe-ann-3201548)
+*ABP Live (India)* - Oct 13, 17:08 IST (iso: 2026-10-13T11:38:15+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/828bbc7390539b904f00063a3e50f6dd17918871505391126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+दिल्ली पुलिस ने 10 अक्टूबर के प्रदर्शन से जुड़े फर्जी सोशल मीडिया पोस्टों पर चार एफआईआर दर्ज किए हैं। जांच में पाकिस्तान आधारित हैंडल्स की भूमिका भी शामिल है। पुलिस इन खातों की पहचान कर रही है। राष्ट्रीय राजधानी दिल्ली में 10 अक्टूबर को कॉकरोच जनता पार्टी (CJP) की तरफ से आयोजित विरोध प्रदर्शन की जांच के दायरे में अब पाकिस्तान का एंगल भी शामिल होने की खबर सामने आ रही है.
+
+### ['लद्दाख भारत का अटूट हिस्सा, किसी के इनकार से सच्चाई नहीं बदल सकती', MEA की चीन को दो टूक](https://www.abplive.com/news/india/ladakh-is-integral-india-mea-randhir-jaiswal-slams-china-rename-28-places-3201594)
+*ABP Live (India)* - Oct 13, 17:07 IST (iso: 2026-10-13T11:37:45+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/4877ef70dbf5112dba5ddf9f880d6cf71791891403360708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+विदेश मंत्रालय ने चीन को जवाब देते हुए लद्दाख को भारत का अटूट हिस्सा बताया। प्रवक्ता रणधीर जायसवाल ने कहा कि सर्वे ऑफ इंडिया के नक्शे पर 28 स्थानों की पहचान मानक नामों के साथ की गई है। लद्दाख को लेकर दिए बयान के बाद भारत ने चीन को करारा जवाब दिया है. विदेश मंत्रालय ने दोहराया कि लद्दाख केंद्र शासित प्रदेश भारत का एक अभिन्न और अविभाज्य हिस्सा.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [इजरायल आ रही फ्लाइट में बम की खबर से हड़कंप, बेन गुरियन एयरपोर्ट से बदली प्लेन की दिशा](https://hindi.news18.com/world/middle-east-bomb-threat-in-delta-flight-coming-to-israel-plane-diverted-after-evacuation-at-ben-gurion-airport-10905893.html)
-*News18 Hindi (World)* - Oct 13, 13:34 IST (iso: 2026-10-13T08:04:31+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/flight-attendant-2026-09-79dfb2f64da856da14ef9811a294b1be-1200x800.jpg -->
+### [हूती से परेशान सऊदी का सबसे खतरनाक ऐलान, नहीं बचेंगी यमन की ऑयल साइट्स, अब छिड़ेगा एनर्जी महायुद्ध](https://hindi.news18.com/world/middle-east-saudi-coalition-threatens-strikes-on-yemen-oil-sites-massive-energy-war-risk-amid-houthis-attack-10907309.html)
+*News18 Hindi (World)* - Oct 13, 21:08 IST (iso: 2026-10-13T15:38:00+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-Yemen-Oil-Attack-2026-10-414e2ba222ffdfe9b9cddf389f4b6cc6-1200x800.jpg -->
 
-न्यूयॉर्क से इजरायल आ रही डेल्टा एयरलाइंस की फ्लाइट में बम की खबर मिलने पर बेन गुरियन एयरपोर्ट पर हड़कंप मच गया। यात्रियों को तुरंत उतारा गया और विमान की दिशा बदल दी गई। सुरक्षा बलों ने विमान की जांच शुरू कर दी। Bomb Threat in Delta flight Evacuation: एक बार फिर से इजरायल में तब हड़कंप मच गया, जब यहां न्यूयॉर्क से इजरायल आ रही फ्लाइट में बम की खबर मिली.
+सऊदी गठबंधन ने यमन की राजधानी सना में तेल ठिकानों पर हमले की चेतावनी दी है। हूती विद्रोहियों का जवाबी हमला सऊदी तेल संयंत्रों पर हो सकता है। सऊदी गठबंधन ने यमन की राजधानी सना में तेल ठिकानों को तबाह करने की चेतावनी दी है. इससे पश्चिम एशिया में एक नया और खतरनाक ऊर्जा युद्ध छिड़ने का खतरा पैदा हो गया है.
 
-### ['ईरान के निर्देश पर रची गई थी एयरबेस पर हमले की साजिश': ब्रिटिश पीएम का दावा; क्या है पूरा घटनाक्रम?](https://www.amarujala.com/world/suspected-plot-at-us-run-air-base-almost-certainly-directed-by-iran-uk-prime-minister-says-2026-10-13)
-*Amar Ujala World* - Oct 13, 12:38 IST (iso: 2026-10-13T07:08:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/eda-branahama_da67e1f5e3146f3265d58d6e94b4ec78.jpeg?w=1200&dpr=1.0 -->
+### [सना में धमाकों से दहला इलाका, अल-सबाहा में तेल सुविधा केंद्र पर हवाई हमले का दावा](https://www.patrika.com/world-news/sanaa-al-sabaha-oil-facility-airstrike-houthi-saudi-backed-forces-20981975)
+*Patrika (World)* - Oct 13, 20:39 IST (iso: 2026-10-13T15:09:39+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Sanaa-explosions.webp -->
 
-ब्रिटिश प्रधानमंत्री का दावा है कि ईरान के निर्देश पर एयरबेस पर हमले की साजिश रची गई थी। यह आरोप हाल के घटनाक्रम के संदर्भ में उठाया गया है। 'ईरान के निर्देश पर रची गई थी एयरबेस पर हमले की साजिश': ब्रिटिश पीएम का दावा; क्या है पूरा घटनाक्रम?
+सऊदी समर्थित सेनाओं ने यमन की सना में अल-सबाहा इलाके के तेल सुविधा केंद्र पर हवाई हमला किया। हुती समर्थित मीडिया ने धमाकों की पुष्टि की है। Sanaa Airstrikes: यमन की राजधानी सना में मंगलवार को धमाकों की आवाजें सुनी गईं। यह शहर हुती विद्रोहियों के कब्जे में है। हुती-समर्थक मीडिया ने भी धमाकों की पुष्टि की है। अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार की ओर से लड़ रही सऊदी-समर्थित सेनाओं ने हवाई हमले करके सना के अल-सबाहा इलाके में एक तेल सुविधा केंद्र को निशाना बनाया।
 
-### [डोभाल, ईरानी समकक्ष के बीच वार्ता; काला सागर में दो जहाजों पर ड्रोन हमला, एक डूबा](https://www.amarujala.com/world/world-updates-doval-iran-talk-west-asia-tension-russia-ukraine-poland-china-nepal-polity-crime-and-other-news-2026-10-13)
-*Amar Ujala World* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_0560df028d41b8158a3b6afbe833dc0b.jpeg?w=1200&dpr=1.0 -->
+### [याह्या सरी ने दी धमकी, अगर सऊदी-नेतृत्व वाले गठबंधन ने सना पर किया हमला तो रियाद को भुगतना होगा](https://www.patrika.com/world-news/yahya-saree-warns-of-harsh-and-painful-response-in-riyadh-if-sanaa-attacked-20981710)
+*Patrika (World)* - Oct 13, 18:34 IST (iso: 2026-10-13T13:04:53+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/yahya.webp -->
 
-अंतरराष्ट्रीय मामलों के सचिव डोभाल ने ईरानी समकक्ष से पश्चिम एशिया पर बातचीत की। इसी दौरान यूक्रेन में रूसी बमबारी ने स्थिति को और गंभीर बना दिया। अंतरराष्ट्रीय सुर्खियां: पश्चिम एशिया के हाल पर डोभाल, ईरानी समकक्ष की वार्ता; यूक्रेन में रूस की भीषण बमबारी। अंतरराष्ट्रीय सुर्खियां: डोभाल, ईरानी समकक्ष के बीच वार्ता; काला सागर में दो जहाजों पर ड्रोन हमला, एक डूबा।
+यमन में हूती प्रवक्ता याह्या सरी ने सऊदी-नेतृत्व वाले गठबंधन को धमकी दी है। उन्होंने कहा कि सना पर हमला होने पर रियाद को भारी कीमत चुकानी होगी। हूतियों और सरकारी सेना के बीच लड़ाई गंभीर होती जा रही है। यमन (Yemen) में चल रही जंग गंभीर होती जा रही है। हूती विद्रोहियों (Houthis) और यमन की सरकारी सेना लगातार एक-दूसरे के इलाकों में हमले कर रहे हैं।
 
-### [रियाद में सुपुर्द-ए-खाक किए गए यूसुफ अली: हूती के हमले में गई थी जान, अंतिम विदाई में भारतीय राजदूत](https://www.amarujala.com/world/yusuf-ali-laid-rest-in-riyadh-he-lost-his-life-in-houthi-attack-on-sausi-airport-ambassador-present-funeral-2026-10-13)
-*Amar Ujala World* - Oct 13, 09:56 IST (iso: 2026-10-13T04:26:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/nama-aakha-sa-tha-gaii-yasafa-al-ka-atama-vathaii_e8f6d0531a1677e6476a5678e497fe21.jpeg?w=1200&dpr=1.0 -->
+### [चीन की फिर खुली पोल! भारत के लद्दाख वाले कदम से बौखलाया ड्रैगन, अब उगला जहर](https://hindi.news18.com/world/china-china-reacts-sharply-to-india-ladakh-move-foreign-ministry-slams-standard-names-and-territorial-claims-10906632.html)
+*News18 Hindi (World)* - Oct 13, 18:13 IST (iso: 2026-10-13T12:43:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/China-On-Laddakh-2026-10-e332de2b296d7929830a76a789ef58c7-1200x800.jpg -->
 
-यूसुफ अली को रियाद में अंतिम विदाई दी गई। हूती के साउसी हवाई अड्डे पर हमले में उनकी मौत हुई थी। भारतीय राजदूत अंतिम संस्कार में मौजूद रहे। रियाद में सुपुर्द-ए-खाक किए गए यूसुफ अली: हूती के हमले में गई थी जान, अंतिम विदाई में भारतीय राजदूत।
+चीन ने भारत के लद्दाख और बॉर्डर के 28 इलाकों के नए नामों के फैसले को अवैध बताया। चीनी विदेश मंत्रालय ने इसे एकतरफा कदम करार दिया। चीन का दावा है कि उसने कभी लद्दाख को केंद्र शासित प्रदेश माना नहीं। भारत सरकार ने लद्दाख और बॉर्डर के 28 इलाकों के नए नाम तय करके अपने नक्शे में जोड़ दिए हैं.
 
----
+### [यमन के ताइज़ प्रांत में हूती विद्रोहियों का हमला, मारे गए 5 नागरिक](https://www.patrika.com/world-news/houthis-attack-in-taiz-province-of-yemen-five-civilians-killed-20981607)
+*Patrika (World)* - Oct 13, 18:10 IST (iso: 2026-10-13T12:40:37+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/houthi-rebel.webp -->
 
-## दुनिया
+यमन के ताइज़ प्रांत में हूती विद्रोहियों ने नागरिकों पर हमला किया। इस घटना में पांच लोग मारे गए। यमन में जारी संघर्ष के दौरान सरकार और विद्रोहियों के बीच झड़पें बढ़ रही हैं। यमन (Yemen) में चल रही जंग तेज़ होती जा रही है। हूती विद्रोही जहाँ सरकार के नियंत्रण वाले इलाकों पर हमले कर रहे हैं, तो वहीँ यमन की सेना हूतियों के कब्ज़े वाले इलाकों को निशाना बना रही है।
 
-### [ताबूत खरीद लिया, कब्र खोदवा दी, 8 घंटे बाद बेटी हो गई जिंदा, बोली थी: भारी-भारी लग रहा है](https://hindi.news18.com/world/america-guatemala-girl-wakes-up-inside-coffin-before-funeral-video-viral-10905820.html)
-*News18 Hindi (World)* - Oct 13, 13:16 IST (iso: 2026-10-13T07:46:31+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/viral-2026-10-099e47213fa6c356c0752f1f17f18c3d-1200x800.jpg -->
+### [राष्ट्रीय हितों की रक्षा और प्रतिबंधों से मुकाबले के लिए कूटनीति का रास्ता अपनाएगा ईरान, विदेश](https://www.patrika.com/world-news/abbas-araghchi-says-iran-to-pursue-diplomacy-to-secure-national-interests-and-counter-sanctions-20981270)
+*Patrika (World)* - Oct 13, 16:43 IST (iso: 2026-10-13T11:13:08+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp -->
 
-15 साल की युलेइडी को मृत समझकर ताबूत में रखा गया था। परिवार अंतिम संस्कार की तैयारी कर रहा था। तभी मां को ताबूत में हलचल महसूस हुई। जांच पर पता चला कि बेटी जिंदा है और उसे भारीपन महसूस हो रहा था। 10 अक्टूबर की दोपहर घर में मातम पसरा था. तभी मां को ताबूत में कुछ हलचल महसूस हुई.
+ईरानी विदेश मंत्री अब्बास अराघची ने अमेरिका के प्रतिबंधों के बावजूद घुटने न टेकने का दावा किया। उन्होंने राष्ट्रीय हितों की रक्षा के लिए कूटनीतिक रास्ता अपनाने का संकेत दिया है। अमेरिका (United States of America) के खिलाफ युद्ध में ईरान (Iran) को अब तक काफी नुकसान झेलना पड़ा है। ईरान के राष्ट्रीय हितों को नुकसान पहुंचा है और साथ ही उस पर कई प्रतिबंध भी लगाए गए हैं।
 
-### [पटना में एक बैरिकेड तोड़ आगे बढ़े AISA-RYA के प्रदर्शनकारी; डाकबंगला चौराहे की ओर आवाजाही प्रभावित](https://www.amarujala.com/bihar/aisa-protest-in-patna-security-tightened-ahead-of-march-over-voter-list-irregularities-demands-cec-resignation-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 12:57 IST (iso: 2026-10-13T07:27:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/patna-protest-today_7116bc3ab44263d6b45d87864e833db5.jpeg?w=1200&dpr=1.0 -->
+### [‘ईरान के खिलाफ जंग में अमेरिका पड़ गया अकेला’, ईरानी डिप्टी स्पीकर का दावा](https://www.patrika.com/world-news/us-isolated-in-war-against-iran-deputy-parliament-speaker-claims-20981147)
+*Patrika (World)* - Oct 13, 16:16 IST (iso: 2026-10-13T10:46:55+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/trump-in-court.webp -->
 
-पटना में वामदल छात्र संगठन ने जेपी गोलंबर से प्रदर्शन शुरू किया। प्रशासन की गर्दनीबाग तक सीमित अनुमति के बावजूद उन्होंने बैरिकेड तोड़े और डाकबंगला चौराहे की ओर बढ़े, जिससे आवाजाही प्रभावित हुई। Bihar News: पटना जिला प्रशासन ने स्पष्ट कर दिया है कि धरना-प्रदर्शन केवल गर्दनीबाग में करने की इजाजत मिलेगी। लेकिन, इसके बाजवूद वामदल के छात्र संगठन ने आज इससे कई किलाेमीटर दूर जेपी गोलंबर से प्रदर्शन की शुरुआत की।
-
-### [क्या प्रियंका की फिल्म की अंटार्कटिका में हुई शूटिंग? राजामौली ने दिया जवाब; इन जगहों का भी हुआ](https://www.amarujala.com/entertainment/south-cinema/priyanka-chopra-starrer-varanasi-director-ss-rajamouli-drops-antarctica-shoot-plan-says-team-finds-different-w-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 12:28 IST (iso: 2026-10-13T06:58:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/parayaka-rajamal_c8979824fe6922d59644c994224e8d08.jpeg?w=1200&dpr=1.0 -->
-
-राजामौली ने प्रियंका चोपड़ा की फिल्म वाराणसी की अंटार्कटिका में शूटिंग के दावों का खंडन किया। उन्होंने स्पष्ट किया कि फिल्म की शूटिंग अंटार्कटिका में नहीं हुई, बल्कि अन्य स्थानों पर की गई। ग्लोबल स्टार प्रियंका चोपड़ा की अदाकारी वाली अपकमिंग फिल्म 'वाराणसी' की शूटिंग को लेकर इसके निर्देशक ने एक खुलासा किया है। आइए जानते हैं अंटार्कटिका में शूटिंग को लेकर उन्होंने क्या कहा है?
-
-### [एआईएडीएमके विधायकों के इस्तीफे वाले मामले पर विधानसभा अध्यक्ष का फैसला बरकरार, हाईकोर्ट ने क्या कहा?](https://www.amarujala.com/india-news/madras-high-court-upholds-speaker-decision-aiadmk-mlas-resignation-tvk-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 12:11 IST (iso: 2026-10-13T06:41:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/matharasa-haii-karata_ecbde5cd17bc777823a7c90fb7f9e803.jpeg?w=1200&dpr=1.0 -->
-
-मद्रास उच्च न्यायालय ने तमिलनाडु विधानसभा अध्यक्ष के फैसले को बरकरार रखा। छह एआईएडीएमके विधायकों के इस्तीफे स्वीकार किए गए। ये विधायक टीवीके पार्टी में शामिल हो चुके हैं। मद्रास उच्च न्यायालय ने तमिलनाडु विधानसभा अध्यक्ष के उस फैसले को बरकरार रखा है जिसमें एआईएडीएमके के छह विधायकों के इस्तीफे स्वीकार किए गए थे। ये विधायक टीवीके पार्टी में शामिल हो गए थे।
-
-### [अध्यक्षता पर तनातनी, पिछले साल हुआ था समझौता, मगर न थमा विवाद; पुलिस को थी पूरी जानकारी](https://www.amarujala.com/photo-gallery/uttar-pradesh/bareilly/pilibhit-triple-murder-an-agreement-reached-last-year-but-dispute-did-not-end-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 12:08 IST (iso: 2026-10-13T06:38:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/pilibhit-triple-murder_e52651108abb037ebaa5e8886ff228c4.jpeg?w=1200&dpr=1.0 -->
-
-पीलीभीत के अमरिया में रामलीला मेला कमेटी के हिसाब-किताब को लेकर विवाद खूनी संघर्ष में बदल गया। दोनों पक्षों के बीच पिछले साल भी इसी मुद्दे पर तनातनी हुई थी। पीलीभीत के अमरिया कस्बे में रामलीला मेला कमेटी के रुपये के हिसाब-किताब को लेकर चल रही रंजिश आखिरकार खूनी संघर्ष में बदल गई। दोनों पक्षों के बीच पिछले साल भी विवाद हुआ था।
-
-### [पहले जो रहनुमा थे, वही चोर थे, अब यूपी सुरक्षित; ग्राम प्रहरियों को दी बड़ी सौगात](https://www.amarujala.com/uttar-pradesh/bareilly/cm-yogi-bareilly-visit-gram-prahari-salary-increase-3500-rupees-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 11:50 IST (iso: 2026-10-13T06:20:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/cm-yogi-adityanath_2847e011c9e24f9db63db6cb64e150da.jpeg?w=1200&dpr=1.0 -->
-
-बरेली में मुख्यमंत्री योगी आदित्यनाथ ने ग्राम प्रहरियों को सम्मानित किया। उन्होंने मानदेय वृद्धि और कैशलेश चिकित्सा सुविधा देने की घोषणा की। बरेली में मुख्यमंत्री योगी आदित्यनाथ ने ग्राम प्रहरियों को किया सम्मानित, मानदेय वृद्धि और कैशलेश चिकित्सा सुविधा देने की घोषणा की। पहले जो रहनुमा थे, वही चोर थे, अब यूपी सुरक्षित; ग्राम प्रहरियों को दी बड़ी सौगात।
-
-### [नेता परिवारों की अगली पीढ़ी दस्तक देने को तैयार, सपा-भाजपा में टिकट के लिए लंबी फेहरिस्त](https://www.amarujala.com/uttar-pradesh/up-elections-2027-political-dynasties-prepare-next-generation-for-electoral-debut-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 09:13 IST (iso: 2026-10-13T03:43:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/up-elections-2027_4563a3283034230c4d11d23bb5c61f3c.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर प्रदेश विधानसभा चुनाव के आगे नेता परिवारों की अगली पीढ़ी मैदान में उतरने की तैयारी कर रही है। सपा और भाजपा में युवा चेहरों की टिकट के लिए लंबी फेहरिस्त तैयार है। उत्तर प्रदेश का विधानसभा चुनाव दहलीज पर आ गया है। इसके साथ ही नेता परिवारों की अगली पीढ़ी दस्तक देने को तैयार है। चुनावी बिसात जब सजेगी, तब मैदान में ऐसे युवा चेहरे देखेंगे जिन्हें सियासत में कदम रखे ज्यादा वक्त नहीं हुआ है।
+ईरानी संसद के डिप्टी स्पीकर ने दावा किया कि अमेरिका ईरान के खिलाफ युद्ध में अकेला पड़ गया है। दोनों देशों के बीच अभी तक कोई स्थायी समझौता नहीं बन पाया है। ईरान (Iran) और अमेरिका (United States of America) के बीच युद्ध में भले ही हमले रुके हुए हैं, लेकिन अभी भी स्थायी तौर पर यह युद्ध खत्म नहीं हुआ है।
 
 ---
 
 ## यूरोप और रूस
 
-### [ब्लैक सी में दो जहाजों पर ड्रोन अटैक, एक समुद्र में डूबा, बुल्गारिया ने नाटो और EU से मांगी मदद](https://www.patrika.com/world-news/bulgaria-black-sea-drone-attack-two-ships-sink-nato-eu-russia-ukraine-20980432)
-*Patrika (World)* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:24+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/vessel-in-black-sea.webp -->
+### [पूर्व ब्रिटिश पीएम ऋषि सुनक ने की प्रधानमंत्री नरेंद्र मोदी से मुलाकात, काम के प्रति समर्पण और](https://www.patrika.com/national-news/former-british-pm-rishi-sunak-meets-prime-minister-narendra-modi-20981943)
+*Patrika (World)* - Oct 13, 20:19 IST (iso: 2026-10-13T14:49:10+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/sunak-meets-pm-modi.webp -->
 
-ब्लैक सी में बुल्गारिया के तट के पास दो जहाजों पर ड्रोन हमले हुए। एक जहाज डूब गया, जबकि चेल्सी 3 पर सवार 15 क्रू को बचाया गया। बुल्गारिया ने नाटो और यूरोपीय संघ से मदद मांगी। Black Sea Drone Attack: बुल्गारिया के तट से सिर्फ 24 किलोमीटर दूर ब्लैक सी में दो जहाजों पर ड्रोन से हमले हुए। हमलों के कारण एक जहाज डूब गया, जबकि माल्टा के झंडे तले चल रहे यूक्रेनी कार्गो जहाज चेल्सी 3 पर सवार सभी 15 क्रू सदस्यों को सुरक्षित बचा लिया गया।
+पूर्व ब्रिटिश प्रधानमंत्री ऋषि सुनक ने दिल्ली में प्रधानमंत्री नरेंद्र मोदी से मुलाकात की। यह बैठक ब्लूमबर्ग न्यू इकोनॉमी फोरम के दौरान हुई। ब्रिटेन (Britain/UK) के पूर्व पीएम ऋषि सुनक (Rishi Sunak) ने आज भारत (India) की राजधानी दिल्ली में भारतीय प्रधानमंत्री नरेंद्र मोदी (Prime Minister Narendra Modi) से मुलाकात की। दोनों की मुलाकात ब्लूमबर्ग न्यू इकोनॉमी फोरम के दौरान हुई, जहाँ दोनों ग्लोबल नेता बड़ी ही गर्मजोशी से एक-दूसरे से मिले।
 
-### [उल्टा पड़ा एलन मस्क का ओलिगार्की वाला दांव, भारत को करने चले थे टारगेट, अमेरिकी सीनेटर ने फेंककर](https://hindi.news18.com/world/america-us-senator-bernie-sanders-puts-oligarchy-charge-on-elon-musk-slams-for-millions-donation-to-republican-party-ws-l-10905614.html)
-*News18 Hindi (World)* - Oct 13, 11:13 IST (iso: 2026-10-13T05:43:16+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/musk-sanders-2026-10-12370fb78863b2439d16c5ef97ad473d-1200x800.jpg -->
+### [रोबोट ने 16 साल की बच्ची से की अश्लील हरकत, गंदी नियत से टच कर इंटरनेट को दिखाया, मशीन के अंदर कैसे](https://hindi.news18.com/world/europe-iron-man-humanoid-robot-assaulted-16-year-old-girl-in-germany-police-seize-bot-after-livestreamed-incident-10907176.html)
+*News18 Hindi (World)* - Oct 13, 19:50 IST (iso: 2026-10-13T14:20:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Robot-Harassed-Girl-2026-10-4f2ba6c7bbc96febabdf8dd5fc30ad98-1200x800.jpg -->
 
-अमेरिकी सीनेटर बर्नी सैंडर्स ने एलन मस्क पर ओलिगार्की का आरोप लगाया। सैंडर्स का कहना है कि मस्क पैसे के दम पर रिपब्लिकन पार्टी को नियंत्रित करना चाहते हैं। Elon Musk's Oligarchy Charges fires back: एलन मस्क ने भारत पर कुछ दिनों पहले जो आरोप लगाए थे, अब वो खुद उसी के शिकार हो गए हैं. दरअसल मिड टर्म इलेक्शन के पहले रिपब्लिकन पार्टी के सबसे बड़े निजी डोनर बने मस्क पर सीनेटर बर्नी सैंडर्स ने 'ओलिगार्की' वाला आरोप लगाया है और कहा कि वो पैसे के दम पर रिपब्लिकन पार्टी को मुट्ठी में रखना चाहते हैं.
+कोलोन में दो लड़कों ने रिमोट से चलाए रोबोट के जरिए 16 साल की लड़की के साथ अश्लील हरकत की। उन्होंने पूरी घटना सोशल मीडिया पर लाइव भी की। पुलिस ने तलाशी के दौरान रोबोट को जब्त कर लिया। जर्मनी के कोलोन शहर में एक बेहद चौंकाने वाली घटना सामने आई है. यहां दो लड़कों ने 'आयरन मैन' जैसे दिखने वाले एक रोबोट को रिमोट से चलाकर सड़क पर 16 साल की लड़की के साथ अश्लील हरकत की।
+
+### [फ्लाइट में छिपा था ऐसा जीव, 35000 फीट पर यात्रियों में मच गया हड़कंप; बोइंग 787 ड्रीमलाइनर को करना](https://hindi.news18.com/world/rest-of-world-bedbugs-hiding-on-qantas-flight-causing-panic-among-passengers-at-35000-feet-boeing-787-dreamliner-grounded-10906879.html)
+*News18 Hindi (World)* - Oct 13, 18:05 IST (iso: 2026-10-13T12:35:04+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Qantas-Airlines-2026-10-80e44fdcc65fcd1782475b516f2553fc-1200x800.jpg -->
+
+क्वांटस की पर्थ से रोम जा रही उड़ान में खटमल मिले। बोइंग 787 विमान की इकोनॉमी क्लास में यात्रियों को परजीवी दिखे। यात्रियों में हड़कंप मच गया और विमान को लौटाना पड़ा। Qantas Airlines Bedbugs: हजारों फीट की ऊंचाई पर उड़ रहे एक अत्याधुनिक बोइंग 787 ड्रीमलाइनर विमान में जब खून चूसने वाले खटमलों की फौज निकल आई, तो यात्रियों के होश उड़ गए.
+
+---
+
+## दुनिया
+
+### [राहुल गांधी की याचिका में कमियां? अभिषेक मनु सिंघवी बोले- 'बेकार की आपत्तियां...'](https://www.abplive.com/news/india/rahul-gandhi-petition-14-defects-abhishek-manu-singhvi-reaction-supreme-court-3201588)
+*ABP Live (India)* - Oct 13, 18:32 IST (iso: 2026-10-13T13:02:56+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/e9c2ed4763275e9232a4cf8468dbe6311791896287483708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+अभिषेक मनु सिंघवी ने राहुल गांधी की सुप्रीम कोर्ट याचिका में उठाई गई आपत्तियों को बेकार बताया। उन्होंने कहा कि याचिकाओं में कमियों की जांच सामान्य प्रक्रिया है। विपक्षी वकील ने इन आपत्तियों को कानूनी अज्ञानता का प्रदर्शन बताया। लोकसभा में विपक्ष के नेता राहुल गांधी की सुप्रीम कोर्ट याचिका में निकली कमियों को लेकर राज्यसभा सांसद और सीनियर वकील अभिषेक मनु सिंघवी ने बयान दिया है.
+
+### ['UPI से यूटर्न?', मर्चेंट डिस्काउंट रेट को टालने पर जयराम रमेश ने सरकार पर कसा तंज](https://www.abplive.com/news/india/govt-hold-mdr-on-upi-congress-mp-jairam-ramesh-calls-u-turn-3201560)
+*ABP Live (India)* - Oct 13, 16:38 IST (iso: 2026-10-13T11:08:14+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/5775913079d7279dcf2992641620ee0217918886043281324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+कांग्रेस सांसद जयराम रमेश ने सरकार पर यूपीआई एमडीआर को लेकर यूटर्न का आरोप लगाया। उन्होंने कहा कि वित्तमंत्री ने संसद में इस योजना से इनकार किया था, फिर भी सरकार ने 15 सितंबर को एमडीआर लगाने का ऐलान किया। यूपीआई पर मर्चेंट डिस्काउंट रेट के फैसले पर सरकार ने रोक लगा दी है. इसे दीवाली के बाद तक रोक दिया गया है.
+
+### ['तिहाड़ जेल में होगा रिटायरमेंट', महुआ मोइत्रा ने ज्ञानेश-मनोज अग्रवाल को घेरा](https://www.abplive.com/news/india/west-bengal-sir-voter-list-mahua-moitra-sagarika-ghosh-gyanesh-kumar-3201514)
+*ABP Live (India)* - Oct 13, 16:12 IST (iso: 2026-10-13T10:42:10+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/d729edcb2bc913638070ff2e92a5d68417918833978011115_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+तृणमूल कांग्रेस सांसद महुआ मोइत्रा ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर सवाल उठाए। उन्होंने चुनाव आयोग के निर्देश पर 24 जिला अधिकारियों द्वारा छूटे मतदाताओं को शामिल करने के अभियान पर सवालिया नजर बनाई। पश्चिम बंगाल में SIR को लेकर राजनीतिक विवाद एक बार फिर तेज हो गया है. तृणमूल कांग्रेस (TMC) की सांसद महुआ मोइत्रा और पार्टी नेता सागरिका घोष ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार और चुनाव आयोग पर सवाल उठाए हैं.
 
 ---
 
 ## अमेरिका
 
-### [चुनाव आते ही शुरू हुआ ट्रंप-मस्क का 'भाईचारा', ₹26383033200 लुटाकर साबित की वफादारी](https://hindi.news18.com/world/america-elon-musk-pours-26383033200-rupees-midterm-election-campaigns-after-donald-trump-reconciliation-10905190.html)
-*News18 Hindi (World)* - Oct 13, 11:51 IST (iso: 2026-10-13T06:21:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/musk-trump-2026-10-ecebed73e4f78178711c675a8b44ef8a-1200x800.jpg -->
+### [60 की उम्र में 1 गलत फैसले से तबाह हो गया करियर, 2 साल से अमेरिका में भटक रहे हैं IIT कानपुर से](https://hindi.news18.com/news/career/jobs-iit-kanpur-alumni-gautam-dev-linkedin-us-job-crisis-uber-doordash-short-term-jobs-10906606.html)
+*News18 Hindi (World)* - Oct 13, 17:09 IST (iso: 2026-10-13T11:39:25+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Gautam-Dev-LinkedIn-Story-2026-10-69260fb0910444145ecb01eae2f5ef82-1200x800.jpg -->
 
-एलन मस्क ने ट्रंप के मिडटर्म अभियान में 2638 करोड़ रुपये का दान किया। यह रकमा उन्हें अमेरिका के सबसे बड़े व्यक्तिगत दानदाता बनाती है। Elon Musk Becomes Top Donor for Trump: अमेरिका के मिड टर्म चुनावों से पहले एक ऐसी खबर आई है, जिसने साबित कर दिया है कि एलन मस्क और डोनाल्ड ट्रंप का चुनावी भाईचारा शुरू हो गया है.
-
-### [होमपैड डिस्प्ले से लेकर नई 4के टीवी तक, कंपनी के पिटारे से क्या-क्या निकलेगा?](https://www.amarujala.com/technology/tech-diary/apple-welcome-home-event-homepad-smart-display-new-apple-tv-4k-launch-expectations-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 11:03 IST (iso: 2026-10-13T05:33:25+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/apple-welcome-home_c4b9e6881d0f6c25cff27f96f426d248.jpeg -->
-
-एपल न्यूयॉर्क में अपने Welcome Home इवेंट का आयोजन करेगा। इसमें कंपनी अपना पहला स्मार्ट डिस्प्ले HomePad और नई 4के टीवी लाइन लॉन्च करेगी। iPhone 18 सीरीज की लॉन्च के बाद टेक दिग्गज एपल अब अपने Welcome Home इवेंट के साथ स्मार्ट होम मार्केट में बड़ा धमाका करने के लिए तैयार है। न्यूयॉर्क में आयोजित होने वाले इस इवेंट में एपल का पहला स्मार्ट डिस्प्ले HomePad सबसे बड़ा।
-
-### [जनता ट्रंप से नाराज...सुरक्षित सीटों पर भी कड़ा मुकाबला; बहाए जा रहे करोड़ों डॉलर](https://www.amarujala.com/world/us-midterm-elections-public-unhappy-with-trump-tough-contests-even-in-safe-seats-millions-of-dollars-poured-in-2026-10-13)
-*Amar Ujala World* - Oct 13, 09:57 IST (iso: 2026-10-13T04:27:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/08/31/donald-trump-tariff_8e79e7e2c508c40aea08054bd3028c77.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका के मध्यावधि चुनावों में जनता ट्रंप प्रशासन से नाराज है। सुरक्षित सीटों पर भी कड़ा मुकाबला हो रहा है और करोड़ों डॉलर खर्च किए जा रहे हैं। अमेरिका में मध्यावधि चुनाव: जनता ट्रंप से नाराज सुरक्षित सीटों पर भी कड़ा मुकाबला; बहाए जा रहे करोड़ों डॉलर।
-
----
-
-## वैश्विक / बहुपक्षीय
-
-### ['झोला उठाने का वक्त आ गया': महंगाई के आंकड़ों को लेकर सरकार पर हमलवार कांग्रेस, आईएमएफ रिपोर्ट पर](https://www.amarujala.com/india-news/jairam-ramesh-slams-modi-government-over-rising-inflation-retail-inflation-surge-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 11:43 IST (iso: 2026-10-13T06:13:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/jayarama-ramasha-kagarasa-mahasacava_76906f541a3838a42fd7247aad76a498.jpeg?w=1200&dpr=1.0 -->
-
-जयराम रमेश ने बढ़ती महंगाई को लेकर मोदी सरकार पर हमला किया। उन्होंने कहा कि गरीबों की थाली खाली हो रही है और कर्ज का बोझ बढ़ रहा है। जयराम रमेश ने बढ़ती महंगाई को लेकर मोदी सरकार पर निशाना साधा है। उन्होंने कहा कि गरीब की थाली से निवाला, मध्यम वर्ग की जेब से बचत गायब हो रही है और कर्ज का बोझ बढ़ता जा रहा है, लेकिन प्रधानमंत्री अहंकार में डूबे हैं।
+आईआईटी कानपुर के पूर्व छात्र गौतम देव अमेरिका में नौकरी खोने के बाद संघर्ष कर रहे हैं। 61 वर्षीय देव को क्राउडफंडिंग का सहारा लेना पड़ा। वे पिछले दो वर्षों से वहां बेरोजगार हैं। Gautam Dev LinkedIn Story: आईआईटी कानपुर और स्टोनी ब्रुक यूनिवर्सिटी से पढ़े 61 वर्षीय गौतम देव के पास 20 साल का आईटी अनुभव था. वह अमेरिका में नौकरी कर रहे थे.
 
 ---
 
