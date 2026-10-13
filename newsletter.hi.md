@@ -1,10 +1,62 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 13, 2026 22:02 IST
+**अपडेट:** October 14, 2026 03:08 IST
+
+---
+
+## दुनिया
+
+### [वैशाली में दर्दनाक हादसा 10 लोगों की मौत, हादसे के कारणों की जांच में जुटी स्थानीय पुल](https://www.amarujala.com/video/india-news/tragic-accident-in-vaishali-claims-10-lives-local-police-investigating-the-cause-2026-10-14)
+*Amar Ujala National* - Oct 14, 12:43 IST (iso: 2026-10-14T07:13:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/vaishali-boat-accident_f2e1479c520be34d629ac95049cf9e11.jpeg?w=1200&dpr=1.0 -->
+
+वैशाली में हुए हादसे में दस लोगों की मौत हुई। स्थानीय पुलिस ने घटना के कारणों की जांच शुरू कर दी है। वैशाली में दर्दनाक हादसा 10 लोगों की मौत, हादसे के कारणों की जांच में जुटी स्थानीय पुल।
+
+### [वैशाली में 13 बच्चों की मौत, पीएम मोदी ने जताया दुख; मृतकों के परिजनों को छह लाख रुपये की मदद](https://www.amarujala.com/india-news/bihar-vaishali-boat-accident-several-children-dead-pm-modi-announces-financial-aid-updates-hindi-2026-10-14)
+*Amar Ujala Breaking* - Oct 14, 12:05 IST (iso: 2026-10-14T06:35:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/bhara-nava-hathasa_ed22d46cbf9bcfb37215c2fde5404848.gif?w=1200&dpr=1.0 -->
+
+वैशाली में नाव हादसे में 13 बच्चों की मौत हुई। पीएम मोदी ने दुख जताया और परिजनों को छह लाख रुपये की मदद घोषित की। वैशाली में 13 बच्चों की मौत, पीएम मोदी ने जताया दुख; मृतकों के परिजनों को छह लाख रुपये की मदद।
+
+### [सोने-चांदी के दाम में आई गिरावट, खुदरा खरीददारों की हुई बल्ले-बल्ले, जानें ताजा भाव!](https://www.amarujala.com/video/business/gold-and-silver-prices-drop-retail-buyers-rejoice-check-the-latest-rates-2026-10-14)
+*Amar Ujala National* - Oct 14, 01:45 IST (iso: 2026-10-13T20:15:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/gold-silver-price-today_7093c2d70f5c39fa2fe31a29a2cd4a38.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में सोने की कीमतों में गिरावट आई है। 24 कैरेट सोना 10,000 रुपये प्रति 10 ग्राम घटकर 78,500 रुपये प्रति 10 ग्राम पर आ गया। 22 कैरेट सोना 9,000 रुपये घटकर 71,800 रुपये प्रति 10 ग्राम पर बिक्री में आया। चांदी की कीमत भी 500 रुपये प्रति 10 ग्राम घटकर 92,000 रुपये प्रति 10 ग्राम पर स्थिर रही। खुदरा खरीदारों ने इस मौके का फायदा उठाया।
+
+### [चेन्नई के जल संकट पर विजय की पहल: नायडू से अतिरिक्त पानी मांगा; क्या गोदावरी-कावेरी परियोजना बनेगी](https://www.amarujala.com/india-news/tamil-nadu-cm-vijay-meets-chandrababu-naidu-seeks-more-krishna-water-for-chennai-2026-10-14)
+*Amar Ujala National* - Oct 14, 01:36 IST (iso: 2026-10-13T20:06:34+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/vijay-meets-chandrababu-naidu_554d919142609a09a0956563bb54030f.gif?w=1200&dpr=1.0 -->
+
+तमिलनाडु मुख्यमंत्री विजय ने आंध्र प्रदेश के मुख्यमंत्री चंद्रबाबू नायडू से मुलाकात कर चेन्नई के बढ़ते जल संकट के लिए कृष्णा नदी से अतिरिक्त पानी की आपूर्ति का अनुरोध किया। दोनों ने गोदावरी-कावेरी लिंक परियोजना की संभावनाओं पर भी चर्चा की, जिससे चेन्नई को दीर्घकालिक जल स्रोत मिल सकता है। यह कदम तब उठाया गया जब शहर में मौजूदा जल भंडार कम हो रहे हैं और भविष्य की मांग को पूरा करने के लिए नए स्रोतों की आवश्यकता है।
+
+### [मोरारी बापू ने हंपी में उठाई गोहत्या विरोधी कानून की मांग, बोले- अब अधूरा काम पूरा किया जा सकता है](https://www.amarujala.com/india-news/karnataka-morari-bapu-demands-anti-cow-slaughter-law-during-ram-katha-in-hampi-2026-10-14)
+*Amar Ujala National* - Oct 14, 01:13 IST (iso: 2026-10-13T19:43:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/ram-katha-in-hampi-morari-bapu_b7eada75c2aaea59f95d22c6c09c6f1c.jpeg?w=1200&dpr=1.0 -->
+
+Morari Bapu urged Karnataka legislators to pass an anti‑cow‑slaughter law during a Ram Katha in Hampi on 12 October 2026. मोरारी बापू ने हंपी में उठाई गोहत्या विरोधी कानून की मांग, बोले- अब अधूरा काम पूरा किया जा सकता है।
+
+### [केरलम में सिनेगॉग के पास आगजनी मामला; आरोपी गिरफ्तार, घर से मादक पदार्थ बरामद](https://www.amarujala.com/india-news/today-news-updates-crime-politics-keralam-synagogue-area-arson-2026-10-14)
+*Amar Ujala National* - Oct 14, 01:03 IST (iso: 2026-10-13T19:33:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/news-updates_ca1de28b7fdaaf42869b1b4c85518d48.jpeg?w=1200&dpr=1.0 -->
+
+केरलम में एक सिनेगॉग के निकट आगजनी के मामले में पुलिस ने आरोपी को गिरफ्तार कर लिया है। जांच के दौरान उसके घर से मादक पदार्थ बरामद किए गए। स्थानीय पुलिस ने घटना की जांच शुरू कर दी है। आज की खबरें: केरलम में सिनेगॉग के पास आगजनी; आरोपी गिरफ्तार, घर से मादक पदार्थ बरामद। केरलम में सिनेगॉग के पास आगजनी मामला; आरोपी गिरफ्तार, घर से मादक पदार्थ बरामद।
+
+### [राहुल गांधी की याचिका में कमियां? अभिषेक मनु सिंघवी बोले- 'बेकार की आपत्तियां...'](https://www.abplive.com/news/india/rahul-gandhi-petition-14-defects-abhishek-manu-singhvi-reaction-supreme-court-3201588)
+*ABP Live (India)* - Oct 13, 18:32 IST (iso: 2026-10-13T13:02:56+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/e9c2ed4763275e9232a4cf8468dbe6311791896287483708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+अभिषेक मनु सिंघवी ने राहुल गांधी की सुप्रीम कोर्ट याचिका में उठाई गई आपत्तियों को बेकार बताया। उन्होंने कहा कि याचिकाओं में कमियों की जांच सामान्य प्रक्रिया है। विपक्षी वकील ने इन आपत्तियों को कानूनी अज्ञानता का प्रदर्शन बताया। लोकसभा में विपक्ष के नेता राहुल गांधी की सुप्रीम कोर्ट याचिका में निकली कमियों को लेकर राज्यसभा सांसद और सीनियर वकील अभिषेक मनु सिंघवी ने बयान दिया है.
 
 ---
 
 ## एशिया-प्रशांत
+
+### [अमेरिका से रिश्ते आसान नहीं, चीन को भी संभालना जरूरी; एफटीए पर क्या बोले विदेश मंत्री?](https://www.amarujala.com/india-news/s-jaishankar-on-india-us-relations-china-border-trade-deal-and-ai-regulation-2026-10-14)
+*Amar Ujala National* - Oct 14, 03:03 IST (iso: 2026-10-13T21:33:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/16/esa-jayashakara-vathasha-matara_c9d85cb4a9b202cf2addd87bceaf894e.jpeg?w=1200&dpr=1.0 -->
+
+विदेश मंत्री जयशंकर ने कहा कि अमेरिका से संबंध आसान नहीं हैं। चीन के साथ रिश्ते को भी संभालना जरूरी है। जयशंकर का दो टूक संदेश: अमेरिका से रिश्ते आसान नहीं, चीन को भी संभालना जरूरी; एफटीए पर क्या बोले विदेश मंत्री?
 
 ### [चीन-तालिबान बना रहे लद्दाख-PoK का 'चोर दरवाजा’, वाखान कॉरिडोर बनेगा भारत के जी का जंजाल?](https://hindi.news18.com/world/south-asia-china-taliban-new-wakhan-corridor-road-near-ladakh-and-pok-why-it-is-major-security-threat-for-india-10907478.html)
 *News18 Hindi (World)* - Oct 13, 21:45 IST (iso: 2026-10-13T16:15:41+00:00)
@@ -36,45 +88,27 @@
 
 इंडिया गठबंधन के नेताओं ने चुनाव आयोग पर वोट चोरी का आरोप लगाया। मंगलवार को हुई प्रेस कॉन्फ्रेंस में खरगे ने आंदोलन की सफलता का दावा किया। राउत ने आयोग अध्यक्ष को माफिया कहा। मुख्य चुनाव आयुक्त (CEC) ज्ञानेश कुमार, एसआईआर और वोट चोरी के मुद्दे के खिलाफ इंडिया गठबंधन के नेताओं ने मंगलवार (12 अक्टूबर, 2026) को प्रेस कॉन्फ्रेंस किया.
 
-### ['चीन जितना भी इनकार कर ले, सच कभी नहीं बदलेगा': लद्दाख को लेकर ड्रैगन पर भारत का पलटवार](https://hindi.news18.com/news/nation/no-matter-how-much-china-denies-it-ladakh-truth-never-change-mea-clear-message-to-china-10906910.html)
-*News18 Hindi (World)* - Oct 13, 17:58 IST (iso: 2026-10-13T12:28:24+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Randhir-Jaiswal-2026-10-9298f578b1ec61da51bb1509b8704ac5-1200x800.jpg -->
-
-भारत ने चीन की लद्दाख मानचित्र संबंधी आपत्तियों को खारिज कर दिया। विदेश मंत्रालय ने स्पष्ट किया कि लद्दाख भारत का हिस्सा है। चीन के दावों से इस तथ्य में कोई बदलाव नहीं आ सकता। India China Ladakh: लद्दाख के मानचित्र को लेकर बीजिंग की आपत्तियों को सिरे से खारिज करते हुए भारत ने चीन को सख्त कूटनीतिक संदेश दिया है.
-
-### [कौन हैं इल्हान उमर, भारत के खिलाफ उगला है खूब जहर, अब पड़ा घर पर छापा, दर्द हुआ ममदानी को](https://hindi.news18.com/world/america-who-is-anti-india-leader-ilhan-omar-raid-on-house-trump-calls-her-bad-but-mamdani-takes-side-ws-l-10906896.html)
-*News18 Hindi (World)* - Oct 13, 17:51 IST (iso: 2026-10-13T12:21:23+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/ilhan-omar-2026-10-1cd2a928cb932f1edc9be96b2235c978-1200x800.jpg -->
-
-अमेरिका में डेमोक्रेट सांसद इल्हान उमर के घर पर छापेमारी हुई है। इस घटना ने वहां राजनीतिक तनाव बढ़ा दिया है। उमर ने पहले भी भारत के खिलाफ कड़ी आलोचना की थी। Who is Ilhan Omar: एक बार फिर से डेमोक्रेटिक पार्टी की नेता इल्हान उमर चर्चा में हैं क्योंकि उनके घर पर छापेमारी की गई है. इसे लेकर अमेरिका में सियासत तेज हो गई है.
-
-### [ज्ञानेश कुमार के खिलाफ कौन-से 23 दलों ने उठाई आवाज? देश एकजुट कैसे हुआ](https://www.abplive.com/news/india/grand-alliance-of-23-party-has-united-against-gyanesh-kumar-congress-cjp-tvk-rahul-gandhi-abhijeet-dipke-protest-explained-3201612)
-*ABP Live (India)* - Oct 13, 17:47 IST (iso: 2026-10-13T12:17:46+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/a2d8f66632a883a0367198544aa57df017918936804581317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-केरल विधानसभा ने 13 अक्टूबर 2026 को मुख्य चुनाव आयुक्त ज्ञानेश कुमार को हटाने का प्रस्ताव पारित किया। यह देश का पहला ऐसा राज्य बना। दिल्ली में भी लगभग 23 दलों ने इस विरोध में आवाज उठाई। 13 अक्टूबर 2026 को केरल विधानसभा ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार को पद से हटाने की मांग वाला प्रस्ताव लगभग सर्वसम्मति से पारित कर दिया.
-
-### [भारत के चेनाब नदी वाले प्रोजेक्ट ने कर दिया खेला! पाकिस्तान को खरीफ सीजन में दिखेगी औकात](https://hindi.news18.com/news/knowledge/indus-waters-treaty-update-pakistan-faces-22-percent-water-shortage-in-kharif-season-as-india-controls-chenab-flow-exclusive-details-10906925.html)
-*News18 Hindi (World)* - Oct 13, 17:41 IST (iso: 2026-10-13T12:11:11+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/India-Pakistan-Indus-Water-Treaty-Kharif-Season-2026-10-711b57e253b349012f6499a9d660d9cb-1200x800.jpg -->
-
-भारत ने चेनाब नदी पर अपने जल परियोजनाओं को चालू कर दिया है। इससे पाकिस्तान को खरीफ सीजन में 22 फीसदी पानी की कमी होगी। पंजाब और सिंध में धान, गन्ना व कपास की फसलें प्रभावित होंगी। पहलगाम आतंकी हमले के बाद भारत ने सिंधु जल समझौते को रोक दिया है. इसके साथ ही चेनाब नदी पर भारत के प्रोजेक्ट्स भी चालू हो गए हैं.
-
-### [CJP प्रोटेस्टः फर्जी पोस्टों की जांच में पाकिस्तान का एंगल! दिल्ली पुलिस ने दर्ज किए 4 FIR](https://www.abplive.com/news/india/delhi-police-files-4-firs-over-fake-online-posts-since-10-october-cjp-protest-in-delhi-amid-pakistan-angle-under-probe-ann-3201548)
-*ABP Live (India)* - Oct 13, 17:08 IST (iso: 2026-10-13T11:38:15+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/828bbc7390539b904f00063a3e50f6dd17918871505391126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-दिल्ली पुलिस ने 10 अक्टूबर के प्रदर्शन से जुड़े फर्जी सोशल मीडिया पोस्टों पर चार एफआईआर दर्ज किए हैं। जांच में पाकिस्तान आधारित हैंडल्स की भूमिका भी शामिल है। पुलिस इन खातों की पहचान कर रही है। राष्ट्रीय राजधानी दिल्ली में 10 अक्टूबर को कॉकरोच जनता पार्टी (CJP) की तरफ से आयोजित विरोध प्रदर्शन की जांच के दायरे में अब पाकिस्तान का एंगल भी शामिल होने की खबर सामने आ रही है.
-
-### ['लद्दाख भारत का अटूट हिस्सा, किसी के इनकार से सच्चाई नहीं बदल सकती', MEA की चीन को दो टूक](https://www.abplive.com/news/india/ladakh-is-integral-india-mea-randhir-jaiswal-slams-china-rename-28-places-3201594)
-*ABP Live (India)* - Oct 13, 17:07 IST (iso: 2026-10-13T11:37:45+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/4877ef70dbf5112dba5ddf9f880d6cf71791891403360708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-विदेश मंत्रालय ने चीन को जवाब देते हुए लद्दाख को भारत का अटूट हिस्सा बताया। प्रवक्ता रणधीर जायसवाल ने कहा कि सर्वे ऑफ इंडिया के नक्शे पर 28 स्थानों की पहचान मानक नामों के साथ की गई है। लद्दाख को लेकर दिए बयान के बाद भारत ने चीन को करारा जवाब दिया है. विदेश मंत्रालय ने दोहराया कि लद्दाख केंद्र शासित प्रदेश भारत का एक अभिन्न और अविभाज्य हिस्सा.
-
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [ट्रंप प्रशासन को अदालत से झटका, ऐतिहासिक गोल्फ कोर्स में काम रोकने का आदेश](https://www.amarujala.com/world/world-news-updates-usa-congo-ebola-virus-cases-death-toll-2026-10-14)
+*Amar Ujala World* - Oct 14, 02:24 IST (iso: 2026-10-13T20:54:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
+
+अदालत ने ट्रंप प्रशासन को झटका देते हुए ऐतिहासिक गोल्फ कोर्स में काम रोकने का आदेश दिया। दुनिया की खबरें: कांगो में इबोला के मामले 9,000 के पार, संक्रमण रोकने की कोशिशें बेअसर। ट्रंप प्रशासन को अदालत से झटका, ऐतिहासिक गोल्फ कोर्स में काम रोकने का आदेश।
+
+### [यमन के तेल ठिकानों पर सऊदी नेतृत्व वाले गठबंधन का हवाई हमला, जानिए क्या है लड़ाई](https://www.amarujala.com/world/saudi-led-coalition-struck-oil-facilities-houthi-controlled-west-of-yemen-capital-2026-10-14)
+*Amar Ujala World* - Oct 14, 01:56 IST (iso: 2026-10-13T20:26:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/25/houthi_3ecf4d8337ed235affb496d4e49d98c7.jpeg?w=1200&dpr=1.0 -->
+
+सऊदी अरब के नेतृत्व वाले गठबंधन ने यमन के तेल संयंत्रों पर हवाई हमला किया है। हूती मीडिया ने यह दावा किया है। यह कार्रवाई पश्चिम एशिया में बढ़ते तनाव के बीच हुई है। हमले के बाद क्षेत्रीय सुरक्षा स्थिति और जटिल हो गई है। पश्चिम एशिया में बढ़ा तनाव: यमन के तेल ठिकानों पर सऊदी नेतृत्व वाले गठबंधन का हवाई हमला, हूती मीडिया का दावा।
+
+### [यमन में बड़ा धमाका, होदेदा के तेल ठिकानों पर जोरदार एयरस्ट्राइक, शुरू हो गई एनर्जी वॉर!](https://hindi.news18.com/world/middle-east-massive-explosion-at-yemen-ras-issa-air-strikes-at-hodeidah-oil-port-risk-of-severe-oil-crisis-energy-war-start-10907500.html)
+*News18 Hindi (World)* - Oct 13, 22:39 IST (iso: 2026-10-13T17:09:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Yemen-Sanaa-Attack-2026-10-c38701e58827f7310ccf006b1c442d3d-1200x800.jpg -->
+
+यमन के होदेदा में रास ईसा पोर्ट और तेल ठिकानों पर एयरस्ट्राइक हुई। हूतियों के कब्जे वाले इस इलाके में तनाव बढ़ गया। लाल सागर में जहाजों की सुरक्षा पर संकट आया। ग्लोबल तेल सप्लाई रुकने का खतरा मंडराने लगा। यमन के होदेदा में रास ईसा पोर्ट और तेल ठिकानों पर खौफनाक एयरस्ट्राइक हुई है. इससे मिडिल ईस्ट में तनाव बहुत ज्यादा बढ़ गया है.
 
 ### [हूती से परेशान सऊदी का सबसे खतरनाक ऐलान, नहीं बचेंगी यमन की ऑयल साइट्स, अब छिड़ेगा एनर्जी महायुद्ध](https://hindi.news18.com/world/middle-east-saudi-coalition-threatens-strikes-on-yemen-oil-sites-massive-energy-war-risk-amid-houthis-attack-10907309.html)
 *News18 Hindi (World)* - Oct 13, 21:08 IST (iso: 2026-10-13T15:38:00+00:00)
@@ -106,21 +140,15 @@
 
 यमन के ताइज़ प्रांत में हूती विद्रोहियों ने नागरिकों पर हमला किया। इस घटना में पांच लोग मारे गए। यमन में जारी संघर्ष के दौरान सरकार और विद्रोहियों के बीच झड़पें बढ़ रही हैं। यमन (Yemen) में चल रही जंग तेज़ होती जा रही है। हूती विद्रोही जहाँ सरकार के नियंत्रण वाले इलाकों पर हमले कर रहे हैं, तो वहीँ यमन की सेना हूतियों के कब्ज़े वाले इलाकों को निशाना बना रही है।
 
-### [राष्ट्रीय हितों की रक्षा और प्रतिबंधों से मुकाबले के लिए कूटनीति का रास्ता अपनाएगा ईरान, विदेश](https://www.patrika.com/world-news/abbas-araghchi-says-iran-to-pursue-diplomacy-to-secure-national-interests-and-counter-sanctions-20981270)
-*Patrika (World)* - Oct 13, 16:43 IST (iso: 2026-10-13T11:13:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp -->
-
-ईरानी विदेश मंत्री अब्बास अराघची ने अमेरिका के प्रतिबंधों के बावजूद घुटने न टेकने का दावा किया। उन्होंने राष्ट्रीय हितों की रक्षा के लिए कूटनीतिक रास्ता अपनाने का संकेत दिया है। अमेरिका (United States of America) के खिलाफ युद्ध में ईरान (Iran) को अब तक काफी नुकसान झेलना पड़ा है। ईरान के राष्ट्रीय हितों को नुकसान पहुंचा है और साथ ही उस पर कई प्रतिबंध भी लगाए गए हैं।
-
-### [‘ईरान के खिलाफ जंग में अमेरिका पड़ गया अकेला’, ईरानी डिप्टी स्पीकर का दावा](https://www.patrika.com/world-news/us-isolated-in-war-against-iran-deputy-parliament-speaker-claims-20981147)
-*Patrika (World)* - Oct 13, 16:16 IST (iso: 2026-10-13T10:46:55+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/trump-in-court.webp -->
-
-ईरानी संसद के डिप्टी स्पीकर ने दावा किया कि अमेरिका ईरान के खिलाफ युद्ध में अकेला पड़ गया है। दोनों देशों के बीच अभी तक कोई स्थायी समझौता नहीं बन पाया है। ईरान (Iran) और अमेरिका (United States of America) के बीच युद्ध में भले ही हमले रुके हुए हैं, लेकिन अभी भी स्थायी तौर पर यह युद्ध खत्म नहीं हुआ है।
-
 ---
 
 ## यूरोप और रूस
+
+### [मशीन के पीछे था इंसानी दिमाग?: जर्मनी में लड़की से छेड़छाड़ के आरोप में रोबोट जब्त, जांच के घेरे](https://www.amarujala.com/world/germany-seizes-robot-after-alleged-sexual-harassment-of-16-year-old-girl-2026-10-14)
+*Amar Ujala World* - Oct 14, 02:11 IST (iso: 2026-10-13T20:41:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/germany-robot-incident_b7add1ce43b803e179c148370cc5d1ff.jpeg?w=1200&dpr=1.0 -->
+
+जर्मनी में 16 वर्षीय लड़की से छेड़छाड़ के आरोप में एक रोबोट जब्त किया गया। जांच में दो युवक घेरे में हैं। मशीन के पीछे था इंसानी दिमाग?: जर्मनी में लड़की से छेड़छाड़ के आरोप में रोबोट जब्त, जांच के घेरे।
 
 ### [पूर्व ब्रिटिश पीएम ऋषि सुनक ने की प्रधानमंत्री नरेंद्र मोदी से मुलाकात, काम के प्रति समर्पण और](https://www.patrika.com/national-news/former-british-pm-rishi-sunak-meets-prime-minister-narendra-modi-20981943)
 *Patrika (World)* - Oct 13, 20:19 IST (iso: 2026-10-13T14:49:10+00:00)
@@ -139,38 +167,6 @@
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Qantas-Airlines-2026-10-80e44fdcc65fcd1782475b516f2553fc-1200x800.jpg -->
 
 क्वांटस की पर्थ से रोम जा रही उड़ान में खटमल मिले। बोइंग 787 विमान की इकोनॉमी क्लास में यात्रियों को परजीवी दिखे। यात्रियों में हड़कंप मच गया और विमान को लौटाना पड़ा। Qantas Airlines Bedbugs: हजारों फीट की ऊंचाई पर उड़ रहे एक अत्याधुनिक बोइंग 787 ड्रीमलाइनर विमान में जब खून चूसने वाले खटमलों की फौज निकल आई, तो यात्रियों के होश उड़ गए.
-
----
-
-## दुनिया
-
-### [राहुल गांधी की याचिका में कमियां? अभिषेक मनु सिंघवी बोले- 'बेकार की आपत्तियां...'](https://www.abplive.com/news/india/rahul-gandhi-petition-14-defects-abhishek-manu-singhvi-reaction-supreme-court-3201588)
-*ABP Live (India)* - Oct 13, 18:32 IST (iso: 2026-10-13T13:02:56+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/e9c2ed4763275e9232a4cf8468dbe6311791896287483708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-अभिषेक मनु सिंघवी ने राहुल गांधी की सुप्रीम कोर्ट याचिका में उठाई गई आपत्तियों को बेकार बताया। उन्होंने कहा कि याचिकाओं में कमियों की जांच सामान्य प्रक्रिया है। विपक्षी वकील ने इन आपत्तियों को कानूनी अज्ञानता का प्रदर्शन बताया। लोकसभा में विपक्ष के नेता राहुल गांधी की सुप्रीम कोर्ट याचिका में निकली कमियों को लेकर राज्यसभा सांसद और सीनियर वकील अभिषेक मनु सिंघवी ने बयान दिया है.
-
-### ['UPI से यूटर्न?', मर्चेंट डिस्काउंट रेट को टालने पर जयराम रमेश ने सरकार पर कसा तंज](https://www.abplive.com/news/india/govt-hold-mdr-on-upi-congress-mp-jairam-ramesh-calls-u-turn-3201560)
-*ABP Live (India)* - Oct 13, 16:38 IST (iso: 2026-10-13T11:08:14+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/5775913079d7279dcf2992641620ee0217918886043281324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-कांग्रेस सांसद जयराम रमेश ने सरकार पर यूपीआई एमडीआर को लेकर यूटर्न का आरोप लगाया। उन्होंने कहा कि वित्तमंत्री ने संसद में इस योजना से इनकार किया था, फिर भी सरकार ने 15 सितंबर को एमडीआर लगाने का ऐलान किया। यूपीआई पर मर्चेंट डिस्काउंट रेट के फैसले पर सरकार ने रोक लगा दी है. इसे दीवाली के बाद तक रोक दिया गया है.
-
-### ['तिहाड़ जेल में होगा रिटायरमेंट', महुआ मोइत्रा ने ज्ञानेश-मनोज अग्रवाल को घेरा](https://www.abplive.com/news/india/west-bengal-sir-voter-list-mahua-moitra-sagarika-ghosh-gyanesh-kumar-3201514)
-*ABP Live (India)* - Oct 13, 16:12 IST (iso: 2026-10-13T10:42:10+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/13/d729edcb2bc913638070ff2e92a5d68417918833978011115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-तृणमूल कांग्रेस सांसद महुआ मोइत्रा ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार पर सवाल उठाए। उन्होंने चुनाव आयोग के निर्देश पर 24 जिला अधिकारियों द्वारा छूटे मतदाताओं को शामिल करने के अभियान पर सवालिया नजर बनाई। पश्चिम बंगाल में SIR को लेकर राजनीतिक विवाद एक बार फिर तेज हो गया है. तृणमूल कांग्रेस (TMC) की सांसद महुआ मोइत्रा और पार्टी नेता सागरिका घोष ने मुख्य चुनाव आयुक्त ज्ञानेश कुमार और चुनाव आयोग पर सवाल उठाए हैं.
-
----
-
-## अमेरिका
-
-### [60 की उम्र में 1 गलत फैसले से तबाह हो गया करियर, 2 साल से अमेरिका में भटक रहे हैं IIT कानपुर से](https://hindi.news18.com/news/career/jobs-iit-kanpur-alumni-gautam-dev-linkedin-us-job-crisis-uber-doordash-short-term-jobs-10906606.html)
-*News18 Hindi (World)* - Oct 13, 17:09 IST (iso: 2026-10-13T11:39:25+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Gautam-Dev-LinkedIn-Story-2026-10-69260fb0910444145ecb01eae2f5ef82-1200x800.jpg -->
-
-आईआईटी कानपुर के पूर्व छात्र गौतम देव अमेरिका में नौकरी खोने के बाद संघर्ष कर रहे हैं। 61 वर्षीय देव को क्राउडफंडिंग का सहारा लेना पड़ा। वे पिछले दो वर्षों से वहां बेरोजगार हैं। Gautam Dev LinkedIn Story: आईआईटी कानपुर और स्टोनी ब्रुक यूनिवर्सिटी से पढ़े 61 वर्षीय गौतम देव के पास 20 साल का आईटी अनुभव था. वह अमेरिका में नौकरी कर रहे थे.
 
 ---
 

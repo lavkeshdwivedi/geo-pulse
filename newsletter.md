@@ -1,6 +1,86 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 13, 2026 22:02 IST
+**Updated:** October 14, 2026 03:08 IST
+
+---
+
+## Middle East & Africa
+
+### [Saudi coalition strikes Yemen oil sites after Houthi attacks](https://www.thehindu.com/news/international/houthi-media-says-saudi-arabia-hit-oil-facility-near-sanaa/article71580863.ece)
+*The Hindu (International)* - Oct 14, 01:39 IST (iso: 2026-10-13T20:09:50+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/dpyu12/article71580870.ece/alternates/LANDSCAPE_1200/AP01_18_2022_000150A.jpg -->
+
+The Saudi-led coalition struck Yemen Petroleum Company facilities near Sanaa. This followed deadly Houthi attacks on Saudi soil, including Riyadh airport. Civilians were ordered to evacuate the Al-Sabaha station before the strikes began. The Saudi-led coalition had earlier warned civilians to evacuate the Al-Sabaha station near the Houthi-held capital, which belongs to the Yemen Petroleum Company (YPC), following a spate of deadly Houthi attacks in Saudi Arabia, particularly on Riyadh airport.
+
+### [Pulling Ethiopia and Eritrea Back from War](https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war)
+*International Crisis Group* - Oct 13, 03:14 IST (iso: 2026-10-12T21:44:00+00:00)
+<!-- image: https://images.pexels.com/photos/20865956/pexels-photo-20865956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Ethiopia and Eritrea are edging closer to direct conflict, threatening stability in the Horn of Africa and Red Sea basin. Diplomatic efforts remain active to avert disaster. The situation risks escalating regional mayhem if tensions between Addis Ababa and Asmara continue to intensify. Addis Ababa and Asmara are edging closer to a direct conflict, which would cause further mayhem in the troubled Horn of Africa and the Red Sea basin.
+
+### [Drought and war push Darfur and Kordofan towards famine](https://news.un.org/feed/view/en/story/2026/10/1168577)
+*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/12-10-2026-UNICEF-Sudan.jpg/image560x340cropped.jpg -->
+
+The UN hunger monitor warned famine risk is rising in Greater Darfur and Greater Kordofan. A severe El Niño drought compounds the impact of ongoing war in Sudan. Food security has deteriorated significantly in these conflict-affected regions. The situation remains critical for local populations. The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.
+
+### [As Russian Arms Exports Slide, Central Asia Shops Elsewhere](https://www.rferl.org/a/russian-arms-exports-central-asia-china/33873550.html)
+*Radio Free Europe / Liberty* - Oct 11, 12:51 IST (iso: 2026-10-11T07:21:20+00:00)
+<!-- image: https://gdb.rferl.org/e24d8470-9e07-4b3f-74a0-08debadc3b87_cx4_cy3_cw89_w1200_h630.jpg -->
+
+Central Asian states are shifting military procurement away from Russia toward India, China, Turkey, and Europe. This diversification grants them greater political flexibility in negotiations with Moscow. Analysts warn that mixing equipment from multiple suppliers creates long-term logistical and operational challenges. The shift reflects a strategic move to reduce reliance on a single arms supplier. Central Asian nations are increasingly turning to India, China, Turkey, and Europe for military equipment to reduce their dependence on Russia.
+
+### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr)
+*The Guardian* - Oct 10, 03:06 IST (iso: 2026-10-09T21:36:18+00:00)
+<!-- image: https://i.guim.co.uk/img/media/13d3a4f2328095370b529ac27978a47a800ac111/428_0_4250_3400/master/4250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70af779be14ee568d6b9cd1795ad7da2 -->
+
+Guinea-Bissau approved a controversial trial to withhold hepatitis B vaccines from thousands of newborns. Danish researchers will conduct the study. It aligns with the vaccine vision of US Health and Human Services Secretary Robert F. Kennedy Jr. Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime.
+
+### [How Close Are Ethiopia and Eritrea to All-out War?](https://www.crisisgroup.org/pod/africa/horn-africa/how-close-are-ethiopia-and-eritrea-all-out-war)
+*International Crisis Group* - Oct 09, 21:11 IST (iso: 2026-10-09T15:41:00+00:00)
+<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group’s Alan Boswell discussed the fighting in Ethiopia’s Tigray region on Hold Your Fire. He analyzed the risk of direct war between Ethiopia and Eritrea. The conversation covered factors that might prevent further escalation in the Horn of Africa. In this episode of Hold Your Fire!, Richard is joined by Crisis Group’s Horn of Africa director, Alan Boswell, to discuss the fighting in Ethiopia’s Tigray region, the risk of direct war between Ethiopia and Eritrea and what may prevent further escalation.
+
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Oct 09, 05:30 IST (iso: 2026-10-09T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group publishes a weekly scan of global conflicts and crises. Field experts explain why specific hotspots matter. The report highlights under-reported trends and headline-grabbing developments. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
+
+---
+
+## Asia-Pacific
+
+### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
+*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
+<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
+
+Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
+
+### [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)
+*The Guardian* - Oct 13, 22:04 IST (iso: 2026-10-13T16:34:13+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a933a93c8a95bbdec93acd09d70d5a41 -->
+
+An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bangka Belitung province. Hundreds of residents evacuated as shifting winds drove the blaze toward settlements. The incident adds to the country’s ongoing battle with devastating blazes and haze. Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlementA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitun.
+
+### [US turning B-52 bomber into long-range China ship killer](https://asiatimes.com/2026/10/us-turning-b-52-bomber-into-long-range-china-ship-killer/)
+*Asia Times* - Oct 13, 09:24 IST (iso: 2026-10-13T03:54:07+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/B-52-Bomber.jpeg -->
+
+The US Navy plans to equip B-52 bombers with AGM-158C Long-Range Anti-Ship Missiles to counter China's navy. Lockheed Martin will integrate the weapons under a sole-source contract. However, severe munition shortages and operational vulnerabilities may limit the strategic impact of this upgrade. While the US is arming its long-serving B-52 with potent ship-killing missiles to take on China’s expanding navy, severe munition constraints and operational vulnerabilities could undermine its strategic impact.
+
+### [One freed American doesn’t equal US policy shift on Myanmar](https://asiatimes.com/2026/10/one-freed-american-doesnt-equal-us-policy-shift-on-myanmar/)
+*Asia Times* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:21+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/07/Myanmar-Min-Aung-Hlaing-June-2021.jpg -->
+
+The United States opened direct talks with Myanmar’s military junta. This follows the release of an American citizen. The move reverses years of diplomatic isolation. It does not signal a victory for the generals or a defeat for the revolution. The recent Reuters headline, “US opens direct talks with Myanmar’s generals, reversing years of isolation,” describes a consequential diplomatic change.
+
+### [Toward a Thaw in the Cambodia-Thailand Border Conflict](https://www.crisisgroup.org/rpt/asia-pacific/thailand-cambodia/359-toward-thaw-cambodia-thailand-border-conflict)
+*International Crisis Group* - Oct 09, 05:30 IST (iso: 2026-10-09T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/19525920/pexels-photo-19525920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Cambodia and Thailand halted border fighting in late 2025 after two rounds of combat. The current truce faces growing strain. Both nations should restore diplomatic ties to prevent renewed conflict. They must also resume demarcating their shared border to secure lasting stability. Hostilities between Cambodia and Thailand ceased in late 2025, after two rounds of combat along the frontier. But the truce is under growing strain.
 
 ---
 
@@ -44,87 +124,29 @@ Representative Brian Fitzpatrick is forcing a House vote on legislation to block
 
 ---
 
-## Middle East & Africa
+## Global / Multilateral
 
-### [Egyptian foreign minister urges diplomacy, says ‘no military solution’ to Middle East conflict](https://www.channelnewsasia.com/world/egypt-foreign-minister-badr-abdelatty-interview-imf-world-bank-meetings-middle-east-conflict-6456226)
-*Channel News Asia* - Oct 13, 19:27 IST (iso: 2026-10-13T13:57:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--oXZujfmW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/egyptian_foreign_minister_badr_abdelatty_speaks_to_cna_in_bangkok_thailand.png?itok=3e-fCsGJ -->
+### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
+*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image770x420cropped.jpg -->
 
-Egyptian Foreign Minister Badr Abdelatty told CNA in Bangkok that diplomacy is the only path forward. He rejected a military solution to the Middle East conflict. He also discussed expanding trade with Asia and the growing debt burden on developing nations. In a wide-ranging interview with CNA’s Saksith Saiyasombut at the IMF-World Bank Annual Meetings in Bangkok, Egyptian Foreign Minister Badr Abdelatty also discussed opportunities for greater trade with Asia and the growing debt burden on developing countries.
+The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
 
-### [Pulling Ethiopia and Eritrea Back from War](https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war)
-*International Crisis Group* - Oct 13, 03:14 IST (iso: 2026-10-12T21:44:00+00:00)
-<!-- image: https://images.pexels.com/photos/20865956/pexels-photo-20865956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Ethiopia and Eritrea are edging closer to direct conflict, threatening stability in the Horn of Africa and Red Sea basin. Diplomatic efforts remain active to avert disaster. The situation risks escalating regional mayhem if tensions between Addis Ababa and Asmara continue to intensify. Addis Ababa and Asmara are edging closer to a direct conflict, which would cause further mayhem in the troubled Horn of Africa and the Red Sea basin.
-
-### [Drought and war push Darfur and Kordofan towards famine](https://news.un.org/feed/view/en/story/2026/10/1168577)
+### [UNHCR chief warns refugee protection is buckling under cuts](https://news.un.org/feed/view/en/story/2026/10/1168575)
 *UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/12-10-2026-UNICEF-Sudan.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-03.jpg/image560x340cropped.jpg -->
 
-The UN hunger monitor warned famine risk is rising in Greater Darfur and Greater Kordofan. A severe El Niño drought compounds the impact of ongoing war in Sudan. Food security has deteriorated significantly in these conflict-affected regions. The situation remains critical for local populations. The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.
-
-### [Houthi Riyadh airport hit shows Saudi air defenses full of holes](https://asiatimes.com/2026/10/houthi-riyadh-airport-hit-shows-saudi-air-defenses-full-of-holes/)
-*Asia Times* - Oct 12, 11:40 IST (iso: 2026-10-12T06:10:16+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Saudi-Airport-Attack.jpg -->
-
-Houthi forces struck Riyadh airport using suicide drones, cruise missiles, and ballistic missiles. The attack lasted about 45 minutes starting at 3 PM local time. The mixed-speed weapons overwhelmed Saudi air defenses. The strike exposed significant gaps in the kingdom's defensive network. The Houthi attack mixed together suicide drones, cruise missiles and ballistic missiles. Because these weapons travel at significantly different speeds, the drones were launched first, followed by the cruise missiles and lastly by the ballistic missiles.
-
-### [As Russian Arms Exports Slide, Central Asia Shops Elsewhere](https://www.rferl.org/a/russian-arms-exports-central-asia-china/33873550.html)
-*Radio Free Europe / Liberty* - Oct 11, 12:51 IST (iso: 2026-10-11T07:21:20+00:00)
-<!-- image: https://gdb.rferl.org/e24d8470-9e07-4b3f-74a0-08debadc3b87_cx4_cy3_cw89_w1200_h630.jpg -->
-
-Central Asian states are shifting military procurement away from Russia toward India, China, Turkey, and Europe. This diversification grants them greater political flexibility in negotiations with Moscow. Analysts warn that mixing equipment from multiple suppliers creates long-term logistical and operational challenges. The shift reflects a strategic move to reduce reliance on a single arms supplier. Central Asian nations are increasingly turning to India, China, Turkey, and Europe for military equipment to reduce their dependence on Russia.
-
-### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr)
-*The Guardian* - Oct 10, 03:06 IST (iso: 2026-10-09T21:36:18+00:00)
-<!-- image: https://i.guim.co.uk/img/media/13d3a4f2328095370b529ac27978a47a800ac111/428_0_4250_3400/master/4250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70af779be14ee568d6b9cd1795ad7da2 -->
-
-Guinea-Bissau approved a controversial trial to withhold hepatitis B vaccines from thousands of newborns. Danish researchers will conduct the study. It aligns with the vaccine vision of US Health and Human Services Secretary Robert F. Kennedy Jr. Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime.
-
-### [How Close Are Ethiopia and Eritrea to All-out War?](https://www.crisisgroup.org/pod/africa/horn-africa/how-close-are-ethiopia-and-eritrea-all-out-war)
-*International Crisis Group* - Oct 09, 21:11 IST (iso: 2026-10-09T15:41:00+00:00)
-<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group’s Alan Boswell discussed the fighting in Ethiopia’s Tigray region on Hold Your Fire. He analyzed the risk of direct war between Ethiopia and Eritrea. The conversation covered factors that might prevent further escalation in the Horn of Africa. In this episode of Hold Your Fire!, Richard is joined by Crisis Group’s Horn of Africa director, Alan Boswell, to discuss the fighting in Ethiopia’s Tigray region, the risk of direct war between Ethiopia and Eritrea and what may prevent further escalation.
-
----
-
-## Asia-Pacific
-
-### [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)
-*The Guardian* - Oct 13, 18:14 IST (iso: 2026-10-13T12:44:44+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a933a93c8a95bbdec93acd09d70d5a41 -->
-
-An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bangka Belitung province. Hundreds of residents evacuated as shifting winds drove the blaze toward settlements. The incident adds to the country’s ongoing battle with devastating blazes and haze. Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlementA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitun.
-
-### [US turning B-52 bomber into long-range China ship killer](https://asiatimes.com/2026/10/us-turning-b-52-bomber-into-long-range-china-ship-killer/)
-*Asia Times* - Oct 13, 09:24 IST (iso: 2026-10-13T03:54:07+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/B-52-Bomber.jpeg -->
-
-The US Navy plans to equip B-52 bombers with AGM-158C Long-Range Anti-Ship Missiles to counter China's navy. Lockheed Martin will integrate the weapons under a sole-source contract. However, severe munition shortages and operational vulnerabilities may limit the strategic impact of this upgrade. While the US is arming its long-serving B-52 with potent ship-killing missiles to take on China’s expanding navy, severe munition constraints and operational vulnerabilities could undermine its strategic impact.
-
-### [One freed American doesn’t equal US policy shift on Myanmar](https://asiatimes.com/2026/10/one-freed-american-doesnt-equal-us-policy-shift-on-myanmar/)
-*Asia Times* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:21+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/07/Myanmar-Min-Aung-Hlaing-June-2021.jpg -->
-
-The United States opened direct talks with Myanmar’s military junta. This follows the release of an American citizen. The move reverses years of diplomatic isolation. It does not signal a victory for the generals or a defeat for the revolution. The recent Reuters headline, “US opens direct talks with Myanmar’s generals, reversing years of isolation,” describes a consequential diplomatic change.
-
-### [UN rights office urges release of ‘arbitrarily detained’ protesters](https://news.un.org/feed/view/en/story/2026/10/1168571)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-11-2019%20Delhi%20pollution.jpg/image560x340cropped.jpg -->
-
-The UN human rights office expressed concern over mass detentions in India. Authorities arrested demonstrators, protest leaders, lawyers, and journalists before and during large-scale protests in Delhi on Saturday. The organization urged the immediate release of these arbitrarily detained individuals. The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.
-
-### [Toward a Thaw in the Cambodia-Thailand Border Conflict](https://www.crisisgroup.org/rpt/asia-pacific/thailand-cambodia/359-toward-thaw-cambodia-thailand-border-conflict)
-*International Crisis Group* - Oct 09, 05:30 IST (iso: 2026-10-09T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/19525920/pexels-photo-19525920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Cambodia and Thailand halted border fighting in late 2025 after two rounds of combat. The current truce faces growing strain. Both nations should restore diplomatic ties to prevent renewed conflict. They must also resume demarcating their shared border to secure lasting stability. Hostilities between Cambodia and Thailand ceased in late 2025, after two rounds of combat along the frontier. But the truce is under growing strain.
+UNHCR chief Barham Salih warned refugee protection is failing. The agency received only three billion dollars of its eight billion dollar need. One hundred seventeen million people are currently displaced. Funding gaps threaten the global asylum support system. The money is running out faster than needs are growing: with 117 million men, women and children now forced from their homes, the UN refugee agency (UNHCR) has received just $3 billion of the $8.5 billion it needs this year – and its chief, Barham Salih, warns that the global support system for asylum-seekers risks buckling.
 
 ---
 
 ## Americas
+
+### [‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027](https://news.un.org/feed/view/en/story/2026/10/1168586)
+*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/25-09-2026-UN-Photo-UNGA81-behind-scenes-03.jpg/image770x420cropped.jpg -->
+
+António Guterres proposed a $3.3 billion budget for 2027. This represents a $40.8 million cut from previous plans. He cited climate disruption, AI, war, and hunger as drivers for the need. Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.
 
 ### [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)
 *The Guardian* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:18+00:00)
@@ -132,49 +154,11 @@ Cambodia and Thailand halted border fighting in late 2025 after two rounds of co
 
 Latin American organised crime groups may now operate in sixteen European countries. A Guardian investigation links the fivefold rise in cocaine seizures to these expanding networks. Cartels have established deep roots across the continent over the last decade. Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shiftA four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged.
 
-### [Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels](https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels)
-*The Guardian* - Oct 13, 08:33 IST (iso: 2026-10-13T03:03:48+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a6437347e242ee38e2ba23c1835b4c362e794d19/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d425f62675f8304cfdc2ff2a473cdbf -->
-
-Argentinian authorities temporarily closed Iguazu Falls after heavy El Niño rains caused the river to flow at six times its normal rate. Officials restricted tourist access to prevent the river from bursting its banks. The precautionary measure addresses immediate safety risks from rapidly rising water levels. National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rateHeavy rainfall fuelled by a supersized El Niño weather pattern briefly forced Argentinian authorities to close tourist access to the famed Iguazu Falls, amid fears that rapidly rising water levels would cause the river to burst its banks. Nation.
-
 ### [Colombia peace deal must endure as insecurity grows, Security Council hears](https://news.un.org/feed/view/en/story/2026/10/1168580)
 *UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image560x340cropped.jpg -->
 
 The UN representative in Colombia stated the peace deal must endure despite growing insecurity. The agreement ended a decades-long insurgency nearly ten years ago. Rising violence threatens the stability of the accord. The official emphasized the need to prevent the deal from faltering. Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.
-
----
-
-## Global / Multilateral
-
-### [UNHCR chief warns refugee protection is buckling under cuts](https://news.un.org/feed/view/en/story/2026/10/1168575)
-*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-03.jpg/image770x420cropped.jpg -->
-
-UNHCR chief Barham Salih warned refugee protection is failing. The agency received only three billion dollars of its eight billion dollar need. One hundred seventeen million people are currently displaced. Funding gaps threaten the global asylum support system. The money is running out faster than needs are growing: with 117 million men, women and children now forced from their homes, the UN refugee agency (UNHCR) has received just $3 billion of the $8.5 billion it needs this year – and its chief, Barham Salih, warns that the global support system for asylum-seekers risks buckling.
-
-### [When AI takes control of weapons systems](https://asiatimes.com/2026/10/when-ai-takes-control-of-weapons-systems/)
-*Asia Times* - Oct 12, 11:12 IST (iso: 2026-10-12T05:42:14+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/AI-Regulation-AI-War.jpg -->
-
-Artificial intelligence is expanding into national defense systems. Machine learning now handles reconnaissance, early warning, and target detection. These tools promise faster analysis and decision-making. However, AI exacerbates existing security problems that cannot be solved technically. Artificial intelligence is rapidly making its way into national defense. Reconnaissance, early warning, target detection, mission planning. everywhere, machine-learning systems promise faster analysis, faster responses, and faster decision-making.
-
----
-
-## World
-
-### [Cultivating peace in Côte d’Ivoire](https://news.un.org/feed/view/en/story/2026/10/1168568)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/05-10-2026-IOM-Cote-Ivoire-04.jpg/image560x340cropped.jpg -->
-
-Adam Ouattara and Makongo Traoré live on the edge of Torla village in Côte d’Ivoire. He herds cattle while she grows vegetables nearby. For years, the dry season pitted their two livelihoods against each other over scarce water resources. Adam Ouattara and Makongo Traoré have four children and a home on the edge of Torla village in Côte d’Ivoire. She grows vegetables on a small plot nearby.
-
-### [In the Mekong Delta, a push to grow food with saltwater](https://news.un.org/feed/view/en/story/2026/10/1168545)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/01-10-2026-UNU-EHS-Viet-Nam.jpg/image560x340cropped.jpg -->
-
-Farming in Viet Nam’s Mekong Delta has traditionally relied on seasonal river floods. These floods carried freshwater and sediment across flat fields, supporting the country’s status as a top rice exporter. Farmers are now adapting to saltwater intrusion to maintain food production. For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.
 
 ---
 
