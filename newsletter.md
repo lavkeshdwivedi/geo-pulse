@@ -1,22 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 13, 2026 07:12 IST
+**Updated:** October 13, 2026 14:06 IST
+
+---
+
+## World
+
+### [Vape importer pleads guilty over attempts to retrieve S$6.6 million stash seized by HSA, other](https://www.channelnewsasia.com/singapore/man-guilty-vape-seller-steal-hsa-warehouse-6455066)
+*Channel News Asia* - Oct 13, 13:43 IST (iso: 2026-10-13T08:13:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--JO8P5tpS--/c_crop,h_1125,w_2000,x_0,y_428/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/12/20240618_bk_state_courts_generic_5.jpg?itok=LwJTb_Sm -->
+
+A Singapore vape importer pleaded guilty to attempting to retrieve 6.6 million dollars worth of seized products. Health Sciences Authority officers left the large stash in his rented warehouse. He faced charges for trying to access the confiscated e-vaporisers and tobacco items. The seized e-vaporisers and tobacco-related products were kept in custody at the warehouse the offender had rented because the quantity was so large that HSA officers were unable to transport all the stash to their headquarters.
+
+### [Cultivating peace in Côte d’Ivoire](https://news.un.org/feed/view/en/story/2026/10/1168568)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/05-10-2026-IOM-Cote-Ivoire-04.jpg/image560x340cropped.jpg -->
+
+Adam Ouattara and Makongo Traoré live on the edge of Torla village in Côte d’Ivoire. He herds cattle while she grows vegetables nearby. For years, the dry season pitted their two livelihoods against each other over scarce water resources. Adam Ouattara and Makongo Traoré have four children and a home on the edge of Torla village in Côte d’Ivoire. She grows vegetables on a small plot nearby.
+
+### [In the Mekong Delta, a push to grow food with saltwater](https://news.un.org/feed/view/en/story/2026/10/1168545)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/01-10-2026-UNU-EHS-Viet-Nam.jpg/image560x340cropped.jpg -->
+
+Farming in Viet Nam’s Mekong Delta has traditionally relied on seasonal river floods. These floods carried freshwater and sediment across flat fields, supporting the country’s status as a top rice exporter. Farmers are now adapting to saltwater intrusion to maintain food production. For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.
 
 ---
 
 ## Europe & Russia
 
+### [Germany To Start Nord Stream 'War Crime' Trial With Prosecutors Blaming Ukrainian 'State](https://www.rferl.org/a/germany-trial-nord-stream-gas-pipeline-russia-ukraine/33873494.html)
+*Radio Free Europe / Liberty* - Oct 13, 12:39 IST (iso: 2026-10-13T07:09:17+00:00)
+<!-- image: https://gdb.rferl.org/405a0b3f-ead9-4b0d-02ec-08de3bed1b27_cx8_cy9_cw91_w1200_h630.jpg -->
+
+German prosecutors will begin a war crime trial regarding the Nord Stream pipeline explosions. The case marks the first public, sworn testimony on the incident after years of speculation. Prosecutors are blaming Ukrainian state actors for the sabotage. After four years of speculation, leaks, and briefings by anonymous sources, the world is finally about to hear evidence given publicly under oath in a German courtroom about how the Nord Stream gas pipelines were blown up -- in a case that could prove politically explosive.
+
 ### [Trump Defends Russian Diesel Deal Despite Backlash](https://www.rferl.org/a/trump-russia-diesel-deal-ukraine-cease-fire/33875531.html)
 *Radio Free Europe / Liberty* - Oct 13, 05:39 IST (iso: 2026-10-13T00:09:16+00:00)
-<!-- image: https://gdb.rferl.org/1f117110-6279-4803-8f7f-5322a82e88e4_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/ef720e57-c6b8-4baa-afca-4249eb5f6530_w1200_h630.jpg -->
 
 Trump defended allowing Russian diesel exports despite criticism from Ukraine, Europe, and Republicans. He claimed an energy cease-fire exists between Kyiv and Moscow. Neither side has confirmed the arrangement. The move drew sharp backlash from allied governments and domestic opponents. US President Donald Trump, in the face of sharp criticism from officials in Ukraine, Europe, and even his Republican party, defended his decision to allow Russian diesel exports and insisted an energy cease-fire between Kyiv and Moscow is in place despite a lack of confirmation from either side.
-
-### [France braces for fresh student demonstrations as Macron calls for ‘respect’](https://www.thehindu.com/news/international/france-braces-for-fresh-student-demonstrations-as-macron-calls-for-respect/article71576578.ece)
-*The Hindu (International)* - Oct 12, 22:25 IST (iso: 2026-10-12T16:55:31+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/94q2kx/article71576677.ece/alternates/LANDSCAPE_1200/2026-10-05T072911Z_1512977447_RC2VWNA37XQS_RTRMADP_3_FRANCE-PROTEST.JPG -->
-
-French students blocked hundreds of high schools since late September. They protest poor classroom conditions and demand better resources. Riot police are deployed at entrances. President Macron has called for respect during the ongoing demonstrations. Students have blocked entrances to hundreds of lycees. high schools for children 15 to 18. since late September to rail against poor classroom conditions, with squads of riot police deployed and occasionally violent clashes erupting.
 
 ### [Zelenskyy Says Yandex Strikes Crippled Pro-Kremlin Bots But Tech Experts Question Evidence](https://www.rferl.org/a/zelenskyy-says-yandex-strikes-crippled-pro-kremlin-bots-but-tech-experts-call-evidence-weak/33875054.html)
 *Radio Free Europe / Liberty* - Oct 12, 17:31 IST (iso: 2026-10-12T12:01:35+00:00)
@@ -46,6 +68,18 @@ Representative Brian Fitzpatrick is forcing a House vote on legislation to block
 
 ## Americas
 
+### [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)
+*The Guardian* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:18+00:00)
+<!-- image: https://i.guim.co.uk/img/media/57e7f305b45a8239d1cf708aecf66c3d5870ebd9/265_0_3242_2593/master/3242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd9e8ce19424589c213f8e9b8b991551 -->
+
+Latin American organised crime groups may now operate in sixteen European countries. A Guardian investigation links the fivefold rise in cocaine seizures to these expanding networks. Cartels have established deep roots across the continent over the last decade. Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shiftA four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged.
+
+### [Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels](https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels)
+*The Guardian* - Oct 13, 08:33 IST (iso: 2026-10-13T03:03:48+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a6437347e242ee38e2ba23c1835b4c362e794d19/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2d425f62675f8304cfdc2ff2a473cdbf -->
+
+Argentinian authorities temporarily closed Iguazu Falls after heavy El Niño rains caused the river to flow at six times its normal rate. Officials restricted tourist access to prevent the river from bursting its banks. The precautionary measure addresses immediate safety risks from rapidly rising water levels. National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rateHeavy rainfall fuelled by a supersized El Niño weather pattern briefly forced Argentinian authorities to close tourist access to the famed Iguazu Falls, amid fears that rapidly rising water levels would cause the river to burst its banks. Nation.
+
 ### [Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings](https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings)
 *The Guardian* - Oct 13, 03:10 IST (iso: 2026-10-12T21:40:51+00:00)
 <!-- image: https://i.guim.co.uk/img/media/bbba54cb3af93f07899e3c63d8dc41cf90c1a464/855_101_4498_3600/master/4498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c861d5b7d67c04a132d440c9a579c604 -->
@@ -60,59 +94,47 @@ The UN representative in Colombia stated the peace deal must endure despite grow
 
 ---
 
-## Middle East & Africa
+## Asia-Pacific
 
-### [Gunmen kill 24 in Nigerian attacks](https://www.thehindu.com/news/international/gunmen-kill-24-in-nigerian-attacks/article71576595.ece)
-*The Hindu (International)* - Oct 12, 22:30 IST (iso: 2026-10-12T17:00:42+00:00)
-<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
+### [India youth protest leaders detained after entering barricaded Delhi protest site](https://www.channelnewsasia.com/asia/india-detains-cockroach-leaders-protest-6455131)
+*Channel News Asia* - Oct 13, 11:55 IST (iso: 2026-10-13T06:25:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Q6ENqC80--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-25T133355Z_2_LYNXMPEM8O0EX_RTROPTP_3_INDIA-POLITICS-GEN-Z.JPG?itok=bCT7CGM0 -->
 
-Armed groups killed 24 people in recent attacks across two Nigerian regions. The violence is attributed to local bandits and jihadist factions. These groups target communities for ransom and cattle theft. The incident highlights the ongoing instability in the area. There has been a recent increase in attacks on communities in the two regions, blamed on gangs engaged in kidnapping for ransom and cattle rustling.
+Indian police detained youth protest leaders after they entered Jantar Mantar in Delhi. The site had been removed from the list of designated protest venues the previous day. The Cockroach Janta Party leaders were detained on Tuesday. The detentions on Tuesday (Oct 13) came after Cockroach Janta Party (CJP) leaders entered Jantar Mantar, an iconic site for demonstrations that police had removed from New Delhi's list of designated protest venues a day earlier.
 
-### [U.K. PM Burnham says Iran’s IRGC likely behind RAF Fairford incident](https://www.thehindu.com/news/international/uk-pm-burnham-says-irans-irgc-likely-behind-raf-fairford-incident/article71576118.ece)
-*The Hindu (International)* - Oct 12, 20:54 IST (iso: 2026-10-12T15:24:46+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/2p9mya/article71576184.ece/alternates/LANDSCAPE_1200/2026-10-04T211151Z_853467629_RC28SNA4H0MR_RTRMADP_3_BRITAIN-USA-FAIRFORD.JPG -->
+### [Elon Musk and Mukesh Ambani’s feud over Starlink](https://www.thehindu.com/sci-tech/technology/elon-musk-and-mukesh-ambanis-feud-over-starlink-explained/article71577979.ece)
+*The Hindu (International)* - Oct 13, 11:05 IST (iso: 2026-10-13T05:35:06+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/wzwh3t/article71578006.ece/alternates/LANDSCAPE_1200/Film_-_Musk_14315.jpg -->
 
-U. K. Prime Minister Burnham stated the IRGC likely caused the RAF Fairford incident. The base hosted U. S. bombers striking Iran. President Trump said an Iran-linked threat forced the planes out. The base remains a key location for allied operations. The RAF ⁠Fairfordbase had been used by U. bombers to carry out strikes on Iran but last week, U. President Donald Trump said a ‌threat linked to Iran had prompted the removal of the planes.
+Elon Musk argues India's mobile market unfairly favors Mukesh Ambani, demanding fair access for Starlink. Critics counter that the service raises significant sovereignty and security concerns for the nation. The dispute highlights a clash between commercial expansion and national security priorities. Elon Musk believes that India’s mobile internet market is skewed to favour the Ambani family and that his Starlink service deserves a fair chance in the country.
 
-### [Drought and war push Darfur and Kordofan towards famine](https://news.un.org/feed/view/en/story/2026/10/1168577)
-*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/12-10-2026-UNICEF-Sudan.jpg/image770x420cropped.jpg -->
+### [US turning B-52 bomber into long-range China ship killer](https://asiatimes.com/2026/10/us-turning-b-52-bomber-into-long-range-china-ship-killer/)
+*Asia Times* - Oct 13, 09:24 IST (iso: 2026-10-13T03:54:07+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/B-52-Bomber.jpeg -->
 
-The UN hunger monitor warned famine risk is rising in Greater Darfur and Greater Kordofan. A severe El Niño drought compounds the impact of ongoing war in Sudan. Food security has deteriorated significantly in these conflict-affected regions. The situation remains critical for local populations. The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.
+The US Navy plans to equip B-52 bombers with AGM-158C Long-Range Anti-Ship Missiles to counter China's navy. Lockheed Martin will integrate the weapons under a sole-source contract. However, severe munition shortages and operational vulnerabilities may limit the strategic impact of this upgrade. While the US is arming its long-serving B-52 with potent ship-killing missiles to take on China’s expanding navy, severe munition constraints and operational vulnerabilities could undermine its strategic impact.
 
-### [Houthi Riyadh airport hit shows Saudi air defenses full of holes](https://asiatimes.com/2026/10/houthi-riyadh-airport-hit-shows-saudi-air-defenses-full-of-holes/)
-*Asia Times* - Oct 12, 11:40 IST (iso: 2026-10-12T06:10:16+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Saudi-Airport-Attack.jpg -->
+### [One freed American doesn’t equal US policy shift on Myanmar](https://asiatimes.com/2026/10/one-freed-american-doesnt-equal-us-policy-shift-on-myanmar/)
+*Asia Times* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:21+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/07/Myanmar-Min-Aung-Hlaing-June-2021.jpg -->
 
-Houthi forces struck Riyadh airport using suicide drones, cruise missiles, and ballistic missiles. The attack lasted about 45 minutes starting at 3 PM local time. The mixed-speed weapons overwhelmed Saudi air defenses. The strike exposed significant gaps in the kingdom's defensive network. The Houthi attack mixed together suicide drones, cruise missiles and ballistic missiles. Because these weapons travel at significantly different speeds, the drones were launched first, followed by the cruise missiles and lastly by the ballistic missiles.
+The United States opened direct talks with Myanmar’s military junta. This follows the release of an American citizen. The move reverses years of diplomatic isolation. It does not signal a victory for the generals or a defeat for the revolution. The recent Reuters headline, “US opens direct talks with Myanmar’s generals, reversing years of isolation,” describes a consequential diplomatic change.
 
-### [US-China race is on for the Gulf’s AI future](https://asiatimes.com/2026/10/us-china-race-is-on-for-the-gulfs-ai-future/)
-*Asia Times* - Oct 12, 09:28 IST (iso: 2026-10-12T03:58:07+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Gulf-AI.jpg -->
+### [UN rights office urges release of ‘arbitrarily detained’ protesters](https://news.un.org/feed/view/en/story/2026/10/1168571)
+*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-11-2019%20Delhi%20pollution.jpg/image560x340cropped.jpg -->
 
-Chinese AI and digital infrastructure investments in Saudi Arabia and the UAE are colliding with a larger American technology presence. Beijing offers cloud platforms, 5G networks, and surveillance systems at lower costs. This competition shapes the Gulf’s long-term digital sovereignty and strategic alignment. China’s artificial intelligence and digital-infrastructure investments in the Gulf Arab states are increasingly colliding with a far larger and more strategically privileged American technology presence, particularly in Saudi Arabia and the United Arab Emirates (UAE).
-
-### [As Russian Arms Exports Slide, Central Asia Shops Elsewhere](https://www.rferl.org/a/russian-arms-exports-central-asia-china/33873550.html)
-*Radio Free Europe / Liberty* - Oct 11, 12:51 IST (iso: 2026-10-11T07:21:20+00:00)
-<!-- image: https://gdb.rferl.org/e24d8470-9e07-4b3f-74a0-08debadc3b87_cx4_cy3_cw89_w1200_h630.jpg -->
-
-Central Asian states are shifting military procurement away from Russia toward India, China, Turkey, and Europe. This diversification grants them greater political flexibility in negotiations with Moscow. Analysts warn that mixing equipment from multiple suppliers creates long-term logistical and operational challenges. The shift reflects a strategic move to reduce reliance on a single arms supplier. Central Asian nations are increasingly turning to India, China, Turkey, and Europe for military equipment to reduce their dependence on Russia.
-
-### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr)
-*The Guardian* - Oct 10, 03:06 IST (iso: 2026-10-09T21:36:18+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9b0dd26cb04cecfa9d30fecef7979eaede8617d7/512_0_4251_3400/master/4251.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a8c99fe47004dee18809754d73d9204 -->
-
-Guinea-Bissau approved a trial withholding hepatitis B vaccines from newborns. Danish researchers will conduct the study. It aligns with Robert F. Kennedy Jr.’s vaccine vision. The decision allows the controversial research to proceed in the country. Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime.
-
-### [Why A Starlink Test In Italy Has Iran's Internet Censors Worried](https://www.rferl.org/a/why-a-starlink-test-in-italy-has-iran-s-internet-censors-worried/33873587.html)
-*Radio Free Europe / Liberty* - Oct 09, 19:15 IST (iso: 2026-10-09T13:45:22+00:00)
-<!-- image: https://gdb.rferl.org/7078db8d-87b3-4637-e66c-08df13afe2a0_w1200_h630.jpg -->
-
-A Starlink trial in Italy connected a smartphone to the internet without mobile coverage or external antennas. The test drew attention in Iran. Iranian authorities heavily filter internet access. They imposed a near-total blackout during the January protests. A Starlink trial on an Italian hilltop connected an ordinary smartphone to the Internet without mobile coverage, a satellite dish, or an external antenna.
+The UN human rights office expressed concern over mass detentions in India. Authorities arrested demonstrators, protest leaders, lawyers, and journalists before and during large-scale protests in Delhi on Saturday. The organization urged the immediate release of these arbitrarily detained individuals. The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.
 
 ---
 
 ## Global / Multilateral
+
+### [IMF says developing countries must cut spending despite war shock](https://www.thehindu.com/news/international/no-choice-imf-says-developing-countries-must-cut-spending-despite-war-shock/article71578064.ece)
+*The Hindu (International)* - Oct 13, 11:48 IST (iso: 2026-10-13T06:18:46+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/3wen7w/article71578158.ece/alternates/LANDSCAPE_1200/2026-10-13T033410Z_1062108897_RC222OA6PL6T_RTRMADP_3_IMF-WORLDBANK.JPG -->
+
+The International Monetary Fund advised developing countries to reduce spending despite ongoing war shocks. Rising debt levels and persistent inflation have constrained fiscal space. The IMF research deputy director noted the cumulative impact of recent global economic disruptions. "Unfortunately, after years of the global economy being hit by shock after shock, debt levels have increased quite a lot, and at the same time, inflation has become a problem," says IMF deputy director of research.
 
 ### [UNHCR chief warns refugee protection is buckling under cuts](https://news.un.org/feed/view/en/story/2026/10/1168575)
 *UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
@@ -128,53 +150,31 @@ Artificial intelligence is expanding into national defense systems. Machine lear
 
 ---
 
-## Asia-Pacific
+## Middle East & Africa
 
-### [One freed American doesn’t equal US policy shift on Myanmar](https://asiatimes.com/2026/10/one-freed-american-doesnt-equal-us-policy-shift-on-myanmar/)
-*Asia Times* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:21+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/07/Myanmar-Min-Aung-Hlaing-June-2021.jpg -->
+### [Pulling Ethiopia and Eritrea Back from War](https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war)
+*International Crisis Group* - Oct 13, 03:14 IST (iso: 2026-10-12T21:44:00+00:00)
+<!-- image: https://images.pexels.com/photos/20865956/pexels-photo-20865956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-The United States opened direct talks with Myanmar’s military junta. This follows the release of an American citizen. The move reverses years of diplomatic isolation. It does not signal a victory for the generals or a defeat for the revolution. The recent Reuters headline, “US opens direct talks with Myanmar’s generals, reversing years of isolation,” describes a consequential diplomatic change.
+Ethiopia and Eritrea are edging closer to direct conflict, threatening stability in the Horn of Africa and Red Sea basin. Diplomatic efforts remain active to avert disaster. The situation risks escalating regional mayhem if tensions between Addis Ababa and Asmara continue to intensify. Addis Ababa and Asmara are edging closer to a direct conflict, which would cause further mayhem in the troubled Horn of Africa and the Red Sea basin.
 
-### [Is Modi facing his own Bangladesh moment?](https://asiatimes.com/2026/10/is-modi-facing-his-own-bangladesh-moment/)
-*Asia Times* - Oct 12, 10:18 IST (iso: 2026-10-12T04:48:00+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Bangladesh-Cochroach-protests.jpg -->
+### [Drought and war push Darfur and Kordofan towards famine](https://news.un.org/feed/view/en/story/2026/10/1168577)
+*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/12-10-2026-UNICEF-Sudan.jpg/image770x420cropped.jpg -->
 
-Demanding the resignation of India's chief election commissioner is a severe political challenge for Prime Minister Modi. Unlike sacrificing a minister, this move threatens the government's legitimacy. The situation mirrors a potential Bangladesh moment. The pressure on the prime minister is significant. Demanding the resignation of a minister is one thing. It is uncomfortable for a government, occasionally embarrassing for a prime minister, but ultimately manageable.
+The UN hunger monitor warned famine risk is rising in Greater Darfur and Greater Kordofan. A severe El Niño drought compounds the impact of ongoing war in Sudan. Food security has deteriorated significantly in these conflict-affected regions. The situation remains critical for local populations. The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.
 
-### [UN rights office urges release of ‘arbitrarily detained’ protesters](https://news.un.org/feed/view/en/story/2026/10/1168571)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/08-11-2019%20Delhi%20pollution.jpg/image560x340cropped.jpg -->
+### [Houthi Riyadh airport hit shows Saudi air defenses full of holes](https://asiatimes.com/2026/10/houthi-riyadh-airport-hit-shows-saudi-air-defenses-full-of-holes/)
+*Asia Times* - Oct 12, 11:40 IST (iso: 2026-10-12T06:10:16+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Saudi-Airport-Attack.jpg -->
 
-The UN human rights office expressed concern over mass detentions in India. Authorities arrested demonstrators, protest leaders, lawyers, and journalists before and during large-scale protests in Delhi on Saturday. The organization urged the immediate release of these arbitrarily detained individuals. The UN human rights office (OHCHR) has voiced concern over reports of mass detentions in India of demonstrators, protest leaders, civil society members, lawyers and journalists, before and during large-scale protests in Delhi on Saturday.
+Houthi forces struck Riyadh airport using suicide drones, cruise missiles, and ballistic missiles. The attack lasted about 45 minutes starting at 3 PM local time. The mixed-speed weapons overwhelmed Saudi air defenses. The strike exposed significant gaps in the kingdom's defensive network. The Houthi attack mixed together suicide drones, cruise missiles and ballistic missiles. Because these weapons travel at significantly different speeds, the drones were launched first, followed by the cruise missiles and lastly by the ballistic missiles.
 
-### [Anduril’s plan to save US sub edge from China’s undersea surge](https://asiatimes.com/2026/10/andurils-plan-to-save-us-sub-edge-from-chinas-undersea-surge/)
-*Asia Times* - Oct 10, 10:21 IST (iso: 2026-10-10T04:51:10+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Anduril-Shipyard-Submarines-US-Navy.jpg -->
+### [As Russian Arms Exports Slide, Central Asia Shops Elsewhere](https://www.rferl.org/a/russian-arms-exports-central-asia-china/33873550.html)
+*Radio Free Europe / Liberty* - Oct 11, 12:51 IST (iso: 2026-10-11T07:21:20+00:00)
+<!-- image: https://gdb.rferl.org/e24d8470-9e07-4b3f-74a0-08debadc3b87_cx4_cy3_cw89_w1200_h630.jpg -->
 
-Anduril Industries will invest US$3.7 billion to build a software-defined shipyard. The facility aims to overhaul US submarine manufacturing capabilities. The project addresses urgent needs in naval industrial capacity within the Indo-Pacific region. A multibillion-dollar private initiative to overhaul US submarine manufacturing marks an urgent push to revitalize naval industrial capacity at a pivotal moment in the Indo-Pacific balance of power.
-
----
-
-## World
-
-### [Thousands without power in Florida and Alabama as Isaias moves north](https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages)
-*The Guardian* - Oct 11, 19:15 IST (iso: 2026-10-11T13:45:27+00:00)
-<!-- image: https://i.guim.co.uk/img/media/420493f91c55c9130552d6c719167b20924fb5ee/196_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9ba1428d3d1dada873e9c1e6af277c03 -->
-
-Hurricane Isaias moved north on Sunday, leaving nearly 396,000 customers without power across the Florida Panhandle and southern Alabama. The storm brought moderate to heavy rainfall to the central Appalachians and mid-Atlantic region. Authorities issued warnings for flash flooding that could extend into the Appalachian mountains. At least four deaths have been linked to the storm so far. At least four deaths linked to storm amid warnings of flash flooding that could stretch into AppalachiansAs what was left of Hurricane Isaias moved north on Sunday, bringing moderate to heavy rainfall across the central Appalachians and the mid-Atlantic region, nearly 396,000 customers across the Florida Panhandle and southern Alabama remained without power. Heavy rainfall associated with the storm.
-
-### [Cultivating peace in Côte d’Ivoire](https://news.un.org/feed/view/en/story/2026/10/1168568)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/05-10-2026-IOM-Cote-Ivoire-04.jpg/image560x340cropped.jpg -->
-
-Adam Ouattara and Makongo Traoré live on the edge of Torla village in Côte d’Ivoire. He herds cattle while she grows vegetables nearby. For years, the dry season pitted their two livelihoods against each other over scarce water resources. Adam Ouattara and Makongo Traoré have four children and a home on the edge of Torla village in Côte d’Ivoire. She grows vegetables on a small plot nearby.
-
-### [In the Mekong Delta, a push to grow food with saltwater](https://news.un.org/feed/view/en/story/2026/10/1168545)
-*UN News* - Oct 10, 17:30 IST (iso: 2026-10-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/01-10-2026-UNU-EHS-Viet-Nam.jpg/image560x340cropped.jpg -->
-
-Farming in Viet Nam’s Mekong Delta has traditionally relied on seasonal river floods. These floods carried freshwater and sediment across flat fields, supporting the country’s status as a top rice exporter. Farmers are now adapting to saltwater intrusion to maintain food production. For generations, farming in Viet Nam’s Mekong Delta has depended on a delicate bargain. The river flooded, retreated and flooded again, carrying freshwater and sediment across a flat landscape whose vast fields helped turn the country into one of the world’s leading rice exporters.
+Central Asian states are shifting military procurement away from Russia toward India, China, Turkey, and Europe. This diversification grants them greater political flexibility in negotiations with Moscow. Analysts warn that mixing equipment from multiple suppliers creates long-term logistical and operational challenges. The shift reflects a strategic move to reduce reliance on a single arms supplier. Central Asian nations are increasingly turning to India, China, Turkey, and Europe for military equipment to reduce their dependence on Russia.
 
 ---
 

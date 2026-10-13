@@ -1,176 +1,180 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 13, 2026 07:12 IST
+**अपडेट:** October 13, 2026 14:06 IST
+
+---
+
+## एशिया-प्रशांत
+
+### [पटरी से उतरी ट्रेन, 5 की मौत, 30 से ज्यादा जख्मी, पाकिस्तान के पंजाब में बड़ा रेल हादसा](https://hindi.news18.com/world/pakistan-passenger-train-derails-in-punjab-pakistan-five-killed-30-injured-10905698.html)
+*News18 Hindi (World)* - Oct 13, 13:53 IST (iso: 2026-10-13T08:23:10+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-train-2026-10-cc76380cb013946ccb66131e3d27565c-1200x800.jpg -->
+
+पाकिस्तान के पंजाब में सुबह सवा पांच बजे रहमान बाबा एक्सप्रेस ट्रेन पटरी से उतर गई। हादसे में पांच लोगों की मौत हो गई और तीस से अधिक यात्री घायल हुए। घायलों को अस्पताल में भर्ती कराया जा रहा है। Pakistan Train Accident: पाकिस्तान के पंजाब प्रांत में बड़ा रेल हादसा हो गया है. यहां सुबह सवा पांच बजे रहमान बाबा एक्सप्रेस ट्रेन पटरी से उतर गई.
+
+### [समंदर में BLA का वार, पाक कोस्ट गार्ड की 2 नावों पर हमला; 13 जवानों की मौत](https://hindi.news18.com/news/defence/bla-opens-new-sea-front-pakistan-jiwani-attack-13-killed-claim-10906150.html)
+*News18 Hindi (World)* - Oct 13, 13:52 IST (iso: 2026-10-13T08:22:59+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-10-13T133850.848-2026-10-bc80f0533cf620e06629cf1fb94cc3bc-1200x800.jpg -->
+
+बलूचिस्तान के जिवानी में बलूच लिबरेशन आर्मी ने पाकिस्तान कोस्ट गार्ड की दो नावों पर हमला किया। संगठन ने दावा किया कि इस हमले में 13 पाकिस्तानी सैनिक मारे गए। घटना स्थल पर सुरक्षा बल तैनात कर दिए गए हैं। बलूचिस्तान के जिवानी में पाकिस्तान कोस्ट गार्ड की दो नावों पर हमले की BLA ने जिम्मेदारी ली है. संगठन ने दावा किया कि हमले में 13 पाकिस्तानी जवान मारे गए.
+
+### ['तुम आतंकी हो, यहां क्यों आए?', मोहम्मद यूनुस को अमेरिका में बांग्लादेशियों ने घेरा, मुंह छुपाकर](https://hindi.news18.com/world/south-asia-muhammad-yunus-got-slammed-by-bangladeshi-people-as-terrorist-at-jfk-airport-in-us-10906025.html)
+*News18 Hindi (World)* - Oct 13, 13:25 IST (iso: 2026-10-13T07:55:07+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/yunus-video-2026-10-a27441a91c8e97b21cc3aaa88a4c6ea5-1200x800.jpg -->
+
+पूर्व अंतरिम सरकार के प्रमुख मोहम्मद यूनुस को अमेरिका में बांग्लादेशी प्रवासी समुदाय ने घेरा। जॉन एफ. कैनेडी हवाई अड्डे पर उन्हें आतंकवादी और हत्यारा कहकर गाली दी गई। यूनुस को सुरक्षा बलों की मदद से वहां से निकाला गया। Muhammad Yunus Slammed as Terrorist in US: बांग्लादेश में पूर्व अंतरिम सरकार के प्रमुख मोहम्मद यूनुस को अमेरिका में कड़े विरोध का सामना करना पड़ा.
+
+### [मासूमों के हत्यारे हो तुम, अफगानिस्तान में हमलों पर UN ने पाकिस्तान को लगाई लताड़](https://hindi.news18.com/world/pakistan-un-special-rapporteur-rebukes-pakistan-over-attacks-on-afghanistan-assumes-civilians-death-as-war-crimes-ws-l-10906000.html)
+*News18 Hindi (World)* - Oct 13, 13:14 IST (iso: 2026-10-13T07:44:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/afghanistan-strike-2026-06-4ca0979969246f119a8eafde145ba39c-1200x800.jpg -->
+
+संयुक्त राष्ट्र विशेष प्रतिवेदक रिचर्ड बेनेट ने अफगानिस्तान में नागरिकों की मौत पर पाकिस्तान को निशाना बनाया। उन्होंने युद्ध अपराधों की जांच की मांग की और मारे गए लोगों के परिवारों को इंसाफ का अधिकार बताया। अफगानिस्तान में हमलों के दौरान नागरिकों की मौत पर यूएन ने पाकिस्तान को लताड़ लगाई है. संयुक्त राष्ट्र विशेष प्रतिवेदक रिचर्ड बेनेट ने इन हमलों की जांच और युद्ध अपराध की चेतावनी दी है.
+
+### [क्षेत्रीय सुरक्षा-आतंकवाद के मुद्दे पर अमित शाह की दो टूक, नशे के खिलाफ क्या है भारत की रणनीति?](https://www.amarujala.com/india-news/amit-shah-addresses-first-bimstec-home-ministers-meeting-regional-security-terrorism-drugs-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 12:39 IST (iso: 2026-10-13T07:09:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/amata-shaha-katharaya-gaha-matara_5bbd4a7d0f8c7cd46b0de4b63b437b63.jpeg?w=1200&dpr=1.0 -->
+
+अमित शाह ने बिम्सटेक गृह मंत्रियों की पहली बैठक में आतंकवाद और नशे के खिलाफ सहयोग की अपील की। उन्होंने समय पर इंटेलिजेंस साझा करने और क्षेत्रीय सुरक्षा के लिए आपसी समन्वय पर विशेष जोर दिया। केंद्रीय गृह मंत्री अमित शाह ने बिम्सटेक के गृह मंत्रियों की पहली बैठक को संबोधित किया। उन्होंने आतंकवाद और नशीले पदार्थों की समस्या से निपटने के लिए आपसी सहयोग और समय पर इंटेलिजेंस साझा करने पर जोर दिया।
+
+### [आठ साल बाद फिर बदला दिल्ली में धरना-प्रदर्शन का ठिकाना, ये हैं तीन नई जगह और चुनौतियां](https://www.amarujala.com/delhi/goodbye-jantar-mantar-delhi-shifts-protest-venue-after-8-years-three-new-places-and-challenges-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 12:01 IST (iso: 2026-10-13T06:31:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/jantar-mantar-delhi_92285ab36058dce1d33c007d16850b70.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में धरना-प्रदर्शन के लिए आठ साल बाद तीन नई जगहों का चयन किया गया। यह बदलाव शहर के प्रदर्शन परिदृश्य को प्रभावित करेगा। दिल्ली की पहचान सिर्फ सत्ता के गलियारों, ऐतिहासिक इमारतों और सियासी हलचलों से नहीं बनी। इसकी सड़कों ने उन नारों को भी सुना है, जिन्होंने देशभर के आंदोलनों को आवाज दी। आठ साल बाद फिर बदला दिल्ली में धरना-प्रदर्शन का ठिकाना, ये हैं तीन नई जगह और चुनौतियां।
+
+### [पाकिस्तान के पंजाब में ट्रेन हादसा, 5 की मौत, कई घायल](https://www.patrika.com/world-news/pakistan-punjab-train-derail-rehman-baba-express-5-dead-20980203)
+*Patrika (World)* - Oct 13, 11:34 IST (iso: 2026-10-13T06:04:20+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Copy-of-Logo-Banner-17.webp -->
+
+पाकिस्तान के पंजाब में कराची से पेशावर जा रही पैसेंजर ट्रेन पटरी से उतर गई। इस हादसे में कम से कम पांच लोगों की मौत हो गई और कई अन्य घायल हुए। पाकिस्तान के पंजाब प्रांत में एक पैसेंजर ट्रेन के पटरी से उतरने से कम से कम पांच लोगों की मौत हो गई और कई अन्य घायल हो गए।
+
+### [अभिषेक पोरेल ने मनाया कोहली जैसा जश्न: दिल्ली के खिलाफ शतक लगाने के बाद आलोचकों को इस तरह चिढ़ाया](https://www.amarujala.com/cricket/abhishek-porel-celebrates-like-virat-kohli-after-century-against-delhi-video-goes-viral-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 10:53 IST (iso: 2026-10-13T05:23:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/abhishek-porel-virat-kohli-ranji-trophy-2026-bengal-vs-delhi-abhishek-porel-century-bengal-cr_45db33bcddbc80f4e99e35d18ccc1dee.jpeg?w=1200&dpr=1.0 -->
+
+बंगाल के विकेटकीपर अभिषेक पोरेल ने रणजी ट्रॉफी में दिल्ली के खिलाफ शतक लगाया। यह उनके करीब 36 दिन की जेल यात्रा के बाद पहला बड़ा प्रदर्शन था। कानूनी मामले में करीब 36 दिन जेल में बिताने के बाद बंगाल के विकेटकीपर-बल्लेबाज अभिषेक पोरेल ने रणजी ट्रॉफी में शानदार वापसी की। अभिषेक पोरेल ने मनाया कोहली जैसा जश्न: दिल्ली के खिलाफ शतक लगाने के बाद आलोचकों को इस तरह चिढ़ाया।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
+### [इजरायल आ रही फ्लाइट में बम की खबर से हड़कंप, बेन गुरियन एयरपोर्ट से बदली प्लेन की दिशा](https://hindi.news18.com/world/middle-east-bomb-threat-in-delta-flight-coming-to-israel-plane-diverted-after-evacuation-at-ben-gurion-airport-10905893.html)
+*News18 Hindi (World)* - Oct 13, 13:34 IST (iso: 2026-10-13T08:04:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/flight-attendant-2026-09-79dfb2f64da856da14ef9811a294b1be-1200x800.jpg -->
+
+न्यूयॉर्क से इजरायल आ रही डेल्टा एयरलाइंस की फ्लाइट में बम की खबर मिलने पर बेन गुरियन एयरपोर्ट पर हड़कंप मच गया। यात्रियों को तुरंत उतारा गया और विमान की दिशा बदल दी गई। सुरक्षा बलों ने विमान की जांच शुरू कर दी। Bomb Threat in Delta flight Evacuation: एक बार फिर से इजरायल में तब हड़कंप मच गया, जब यहां न्यूयॉर्क से इजरायल आ रही फ्लाइट में बम की खबर मिली.
+
 ### ['ईरान के निर्देश पर रची गई थी एयरबेस पर हमले की साजिश': ब्रिटिश पीएम का दावा; क्या है पूरा घटनाक्रम?](https://www.amarujala.com/world/suspected-plot-at-us-run-air-base-almost-certainly-directed-by-iran-uk-prime-minister-says-2026-10-13)
 *Amar Ujala World* - Oct 13, 12:38 IST (iso: 2026-10-13T07:08:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/17/eda-branahama_14b3ac29d6397c010e01e347214cf44a.jpeg?w=1200&dpr=1.0 -->
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/eda-branahama_da67e1f5e3146f3265d58d6e94b4ec78.jpeg?w=1200&dpr=1.0 -->
 
 ब्रिटिश प्रधानमंत्री का दावा है कि ईरान के निर्देश पर एयरबेस पर हमले की साजिश रची गई थी। यह आरोप हाल के घटनाक्रम के संदर्भ में उठाया गया है। 'ईरान के निर्देश पर रची गई थी एयरबेस पर हमले की साजिश': ब्रिटिश पीएम का दावा; क्या है पूरा घटनाक्रम?
 
-### [होर्मुज में सुपरटैंकर पर ईरान का हमला: नेविगेशन सिस्टम बंद करने पर IRGC की मिसाइल स्ट्राइक, 2 दिन](https://www.patrika.com/world-news/iran-irgc-supertanker-attack-strait-of-hormuz-ukmto-20979725)
-*Patrika (World)* - Oct 13, 07:01 IST (iso: 2026-10-13T01:31:43+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/irgc-supertanker-attack.webp -->
-
-ईरानी नौसेना ने होर्मुज में एक सुपरटैंकर पर हमला किया। जहाज में आग लग गई। यह 48 घंटों में तीसरा बड़ा हमला है। Strait of Hormuz Attack: पश्चिम एशिया में जारी तनाव के बीच होर्मुज जलडमरूमध्य में एक सुपरटैंकर पर हमले की खबर आई है। होर्मुज जलडमरूमध्य में ईरानी समुद्री नाकेबंदी के नियमों का उल्लंघन करने वाले तेल टैंकरों पर 48 घंटों के भीतर यह तीसरा बड़ा हमला है।
-
-### [सऊदी अरब के एयरपोर्ट पर हमलों से बढ़ा तनाव, ट्रंप की हूतियों को सख्त चेतावनी; खाड़ी में मंडराया](https://www.patrika.com/world-news/saudi-arabia-airport-attack-trump-houthi-tensions-middle-east-crisis-2026-20979721)
-*Patrika (World)* - Oct 13, 06:44 IST (iso: 2026-10-13T01:14:58+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump_d9e160.webp -->
-
-सऊदी अरब के हवाई अड्डों पर हमलों के बाद उड़ानों पर रोक लगाई गई है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने हूती विद्रोहियों को सख्त चेतावनी दी है, जिससे क्षेत्र में तनाव बढ़ा है। Donald Trump Houthi Attacks: मध्य पूर्व में बढ़ते सैन्य टकराव ने हवाई सुरक्षा से लेकर समुद्री व्यापार तक कई मोर्चों पर चिंता बढ़ा दी है। सऊदी अरब के प्रमुख हवाई अड्डों पर हमलों के बाद उड़ानों पर रोक बढ़ाने का फैसला लिया गया है, वहीं अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने हूती विद्रोहियों के रवैये पर कड़ी नाराजगी जताई है।
-
-### [पश्चिम एशिया के हाल पर डोभाल, ईरानी समकक्ष की वार्ता; यूक्रेन में रूस की भीषण बमबारी](https://www.amarujala.com/world/world-updates-doval-iran-talk-west-asia-tension-russia-ukraine-poland-china-nepal-polity-crime-and-other-news-2026-10-13)
-*Amar Ujala World* - Oct 13, 05:46 IST (iso: 2026-10-13T00:16:45+00:00)
+### [डोभाल, ईरानी समकक्ष के बीच वार्ता; काला सागर में दो जहाजों पर ड्रोन हमला, एक डूबा](https://www.amarujala.com/world/world-updates-doval-iran-talk-west-asia-tension-russia-ukraine-poland-china-nepal-polity-crime-and-other-news-2026-10-13)
+*Amar Ujala World* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:12+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_0560df028d41b8158a3b6afbe833dc0b.jpeg?w=1200&dpr=1.0 -->
 
-अंतरराष्ट्रीय मामलों के सचिव डोभाल ने ईरानी समकक्ष से पश्चिम एशिया पर बातचीत की। इसी दौरान यूक्रेन में रूसी बमबारी ने स्थिति को और गंभीर बना दिया। अंतरराष्ट्रीय सुर्खियां: पश्चिम एशिया के हाल पर डोभाल, ईरानी समकक्ष की वार्ता; यूक्रेन में रूस की भीषण बमबारी।
+अंतरराष्ट्रीय मामलों के सचिव डोभाल ने ईरानी समकक्ष से पश्चिम एशिया पर बातचीत की। इसी दौरान यूक्रेन में रूसी बमबारी ने स्थिति को और गंभीर बना दिया। अंतरराष्ट्रीय सुर्खियां: पश्चिम एशिया के हाल पर डोभाल, ईरानी समकक्ष की वार्ता; यूक्रेन में रूस की भीषण बमबारी। अंतरराष्ट्रीय सुर्खियां: डोभाल, ईरानी समकक्ष के बीच वार्ता; काला सागर में दो जहाजों पर ड्रोन हमला, एक डूबा।
+
+### [रियाद में सुपुर्द-ए-खाक किए गए यूसुफ अली: हूती के हमले में गई थी जान, अंतिम विदाई में भारतीय राजदूत](https://www.amarujala.com/world/yusuf-ali-laid-rest-in-riyadh-he-lost-his-life-in-houthi-attack-on-sausi-airport-ambassador-present-funeral-2026-10-13)
+*Amar Ujala World* - Oct 13, 09:56 IST (iso: 2026-10-13T04:26:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/nama-aakha-sa-tha-gaii-yasafa-al-ka-atama-vathaii_e8f6d0531a1677e6476a5678e497fe21.jpeg?w=1200&dpr=1.0 -->
+
+यूसुफ अली को रियाद में अंतिम विदाई दी गई। हूती के साउसी हवाई अड्डे पर हमले में उनकी मौत हुई थी। भारतीय राजदूत अंतिम संस्कार में मौजूद रहे। रियाद में सुपुर्द-ए-खाक किए गए यूसुफ अली: हूती के हमले में गई थी जान, अंतिम विदाई में भारतीय राजदूत।
+
+---
+
+## दुनिया
+
+### [ताबूत खरीद लिया, कब्र खोदवा दी, 8 घंटे बाद बेटी हो गई जिंदा, बोली थी: भारी-भारी लग रहा है](https://hindi.news18.com/world/america-guatemala-girl-wakes-up-inside-coffin-before-funeral-video-viral-10905820.html)
+*News18 Hindi (World)* - Oct 13, 13:16 IST (iso: 2026-10-13T07:46:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/viral-2026-10-099e47213fa6c356c0752f1f17f18c3d-1200x800.jpg -->
+
+15 साल की युलेइडी को मृत समझकर ताबूत में रखा गया था। परिवार अंतिम संस्कार की तैयारी कर रहा था। तभी मां को ताबूत में हलचल महसूस हुई। जांच पर पता चला कि बेटी जिंदा है और उसे भारीपन महसूस हो रहा था। 10 अक्टूबर की दोपहर घर में मातम पसरा था. तभी मां को ताबूत में कुछ हलचल महसूस हुई.
+
+### [पटना में एक बैरिकेड तोड़ आगे बढ़े AISA-RYA के प्रदर्शनकारी; डाकबंगला चौराहे की ओर आवाजाही प्रभावित](https://www.amarujala.com/bihar/aisa-protest-in-patna-security-tightened-ahead-of-march-over-voter-list-irregularities-demands-cec-resignation-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 12:57 IST (iso: 2026-10-13T07:27:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/patna-protest-today_7116bc3ab44263d6b45d87864e833db5.jpeg?w=1200&dpr=1.0 -->
+
+पटना में वामदल छात्र संगठन ने जेपी गोलंबर से प्रदर्शन शुरू किया। प्रशासन की गर्दनीबाग तक सीमित अनुमति के बावजूद उन्होंने बैरिकेड तोड़े और डाकबंगला चौराहे की ओर बढ़े, जिससे आवाजाही प्रभावित हुई। Bihar News: पटना जिला प्रशासन ने स्पष्ट कर दिया है कि धरना-प्रदर्शन केवल गर्दनीबाग में करने की इजाजत मिलेगी। लेकिन, इसके बाजवूद वामदल के छात्र संगठन ने आज इससे कई किलाेमीटर दूर जेपी गोलंबर से प्रदर्शन की शुरुआत की।
+
+### [क्या प्रियंका की फिल्म की अंटार्कटिका में हुई शूटिंग? राजामौली ने दिया जवाब; इन जगहों का भी हुआ](https://www.amarujala.com/entertainment/south-cinema/priyanka-chopra-starrer-varanasi-director-ss-rajamouli-drops-antarctica-shoot-plan-says-team-finds-different-w-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 12:28 IST (iso: 2026-10-13T06:58:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/parayaka-rajamal_c8979824fe6922d59644c994224e8d08.jpeg?w=1200&dpr=1.0 -->
+
+राजामौली ने प्रियंका चोपड़ा की फिल्म वाराणसी की अंटार्कटिका में शूटिंग के दावों का खंडन किया। उन्होंने स्पष्ट किया कि फिल्म की शूटिंग अंटार्कटिका में नहीं हुई, बल्कि अन्य स्थानों पर की गई। ग्लोबल स्टार प्रियंका चोपड़ा की अदाकारी वाली अपकमिंग फिल्म 'वाराणसी' की शूटिंग को लेकर इसके निर्देशक ने एक खुलासा किया है। आइए जानते हैं अंटार्कटिका में शूटिंग को लेकर उन्होंने क्या कहा है?
+
+### [एआईएडीएमके विधायकों के इस्तीफे वाले मामले पर विधानसभा अध्यक्ष का फैसला बरकरार, हाईकोर्ट ने क्या कहा?](https://www.amarujala.com/india-news/madras-high-court-upholds-speaker-decision-aiadmk-mlas-resignation-tvk-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 12:11 IST (iso: 2026-10-13T06:41:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/matharasa-haii-karata_ecbde5cd17bc777823a7c90fb7f9e803.jpeg?w=1200&dpr=1.0 -->
+
+मद्रास उच्च न्यायालय ने तमिलनाडु विधानसभा अध्यक्ष के फैसले को बरकरार रखा। छह एआईएडीएमके विधायकों के इस्तीफे स्वीकार किए गए। ये विधायक टीवीके पार्टी में शामिल हो चुके हैं। मद्रास उच्च न्यायालय ने तमिलनाडु विधानसभा अध्यक्ष के उस फैसले को बरकरार रखा है जिसमें एआईएडीएमके के छह विधायकों के इस्तीफे स्वीकार किए गए थे। ये विधायक टीवीके पार्टी में शामिल हो गए थे।
+
+### [अध्यक्षता पर तनातनी, पिछले साल हुआ था समझौता, मगर न थमा विवाद; पुलिस को थी पूरी जानकारी](https://www.amarujala.com/photo-gallery/uttar-pradesh/bareilly/pilibhit-triple-murder-an-agreement-reached-last-year-but-dispute-did-not-end-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 12:08 IST (iso: 2026-10-13T06:38:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/pilibhit-triple-murder_e52651108abb037ebaa5e8886ff228c4.jpeg?w=1200&dpr=1.0 -->
+
+पीलीभीत के अमरिया में रामलीला मेला कमेटी के हिसाब-किताब को लेकर विवाद खूनी संघर्ष में बदल गया। दोनों पक्षों के बीच पिछले साल भी इसी मुद्दे पर तनातनी हुई थी। पीलीभीत के अमरिया कस्बे में रामलीला मेला कमेटी के रुपये के हिसाब-किताब को लेकर चल रही रंजिश आखिरकार खूनी संघर्ष में बदल गई। दोनों पक्षों के बीच पिछले साल भी विवाद हुआ था।
+
+### [पहले जो रहनुमा थे, वही चोर थे, अब यूपी सुरक्षित; ग्राम प्रहरियों को दी बड़ी सौगात](https://www.amarujala.com/uttar-pradesh/bareilly/cm-yogi-bareilly-visit-gram-prahari-salary-increase-3500-rupees-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 11:50 IST (iso: 2026-10-13T06:20:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/cm-yogi-adityanath_2847e011c9e24f9db63db6cb64e150da.jpeg?w=1200&dpr=1.0 -->
+
+बरेली में मुख्यमंत्री योगी आदित्यनाथ ने ग्राम प्रहरियों को सम्मानित किया। उन्होंने मानदेय वृद्धि और कैशलेश चिकित्सा सुविधा देने की घोषणा की। बरेली में मुख्यमंत्री योगी आदित्यनाथ ने ग्राम प्रहरियों को किया सम्मानित, मानदेय वृद्धि और कैशलेश चिकित्सा सुविधा देने की घोषणा की। पहले जो रहनुमा थे, वही चोर थे, अब यूपी सुरक्षित; ग्राम प्रहरियों को दी बड़ी सौगात।
+
+### [नेता परिवारों की अगली पीढ़ी दस्तक देने को तैयार, सपा-भाजपा में टिकट के लिए लंबी फेहरिस्त](https://www.amarujala.com/uttar-pradesh/up-elections-2027-political-dynasties-prepare-next-generation-for-electoral-debut-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 09:13 IST (iso: 2026-10-13T03:43:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/up-elections-2027_4563a3283034230c4d11d23bb5c61f3c.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश विधानसभा चुनाव के आगे नेता परिवारों की अगली पीढ़ी मैदान में उतरने की तैयारी कर रही है। सपा और भाजपा में युवा चेहरों की टिकट के लिए लंबी फेहरिस्त तैयार है। उत्तर प्रदेश का विधानसभा चुनाव दहलीज पर आ गया है। इसके साथ ही नेता परिवारों की अगली पीढ़ी दस्तक देने को तैयार है। चुनावी बिसात जब सजेगी, तब मैदान में ऐसे युवा चेहरे देखेंगे जिन्हें सियासत में कदम रखे ज्यादा वक्त नहीं हुआ है।
+
+---
+
+## यूरोप और रूस
+
+### [ब्लैक सी में दो जहाजों पर ड्रोन अटैक, एक समुद्र में डूबा, बुल्गारिया ने नाटो और EU से मांगी मदद](https://www.patrika.com/world-news/bulgaria-black-sea-drone-attack-two-ships-sink-nato-eu-russia-ukraine-20980432)
+*Patrika (World)* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:24+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/vessel-in-black-sea.webp -->
+
+ब्लैक सी में बुल्गारिया के तट के पास दो जहाजों पर ड्रोन हमले हुए। एक जहाज डूब गया, जबकि चेल्सी 3 पर सवार 15 क्रू को बचाया गया। बुल्गारिया ने नाटो और यूरोपीय संघ से मदद मांगी। Black Sea Drone Attack: बुल्गारिया के तट से सिर्फ 24 किलोमीटर दूर ब्लैक सी में दो जहाजों पर ड्रोन से हमले हुए। हमलों के कारण एक जहाज डूब गया, जबकि माल्टा के झंडे तले चल रहे यूक्रेनी कार्गो जहाज चेल्सी 3 पर सवार सभी 15 क्रू सदस्यों को सुरक्षित बचा लिया गया।
+
+### [उल्टा पड़ा एलन मस्क का ओलिगार्की वाला दांव, भारत को करने चले थे टारगेट, अमेरिकी सीनेटर ने फेंककर](https://hindi.news18.com/world/america-us-senator-bernie-sanders-puts-oligarchy-charge-on-elon-musk-slams-for-millions-donation-to-republican-party-ws-l-10905614.html)
+*News18 Hindi (World)* - Oct 13, 11:13 IST (iso: 2026-10-13T05:43:16+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/musk-sanders-2026-10-12370fb78863b2439d16c5ef97ad473d-1200x800.jpg -->
+
+अमेरिकी सीनेटर बर्नी सैंडर्स ने एलन मस्क पर ओलिगार्की का आरोप लगाया। सैंडर्स का कहना है कि मस्क पैसे के दम पर रिपब्लिकन पार्टी को नियंत्रित करना चाहते हैं। Elon Musk's Oligarchy Charges fires back: एलन मस्क ने भारत पर कुछ दिनों पहले जो आरोप लगाए थे, अब वो खुद उसी के शिकार हो गए हैं. दरअसल मिड टर्म इलेक्शन के पहले रिपब्लिकन पार्टी के सबसे बड़े निजी डोनर बने मस्क पर सीनेटर बर्नी सैंडर्स ने 'ओलिगार्की' वाला आरोप लगाया है और कहा कि वो पैसे के दम पर रिपब्लिकन पार्टी को मुट्ठी में रखना चाहते हैं.
 
 ---
 
 ## अमेरिका
 
 ### [चुनाव आते ही शुरू हुआ ट्रंप-मस्क का 'भाईचारा', ₹26383033200 लुटाकर साबित की वफादारी](https://hindi.news18.com/world/america-elon-musk-pours-26383033200-rupees-midterm-election-campaigns-after-donald-trump-reconciliation-10905190.html)
-*News18 Hindi (World)* - Oct 13, 07:09 IST (iso: 2026-10-13T01:39:15+00:00)
+*News18 Hindi (World)* - Oct 13, 11:51 IST (iso: 2026-10-13T06:21:20+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/musk-trump-2026-10-ecebed73e4f78178711c675a8b44ef8a-1200x800.jpg -->
 
 एलन मस्क ने ट्रंप के मिडटर्म अभियान में 2638 करोड़ रुपये का दान किया। यह रकमा उन्हें अमेरिका के सबसे बड़े व्यक्तिगत दानदाता बनाती है। Elon Musk Becomes Top Donor for Trump: अमेरिका के मिड टर्म चुनावों से पहले एक ऐसी खबर आई है, जिसने साबित कर दिया है कि एलन मस्क और डोनाल्ड ट्रंप का चुनावी भाईचारा शुरू हो गया है.
 
-### [पनामा में फिर आया भूकंप, 6 तीव्रता के झटके से हिली धरती, पहले 7.7 तीव्रता के भूकंप से दहला था देश](https://hindi.news18.com/world/rest-of-world-earthquake-today-news-panama-hit-by-magnitude-6-earthquake-after-powerful-tremors-10905175.html)
-*News18 Hindi (World)* - Oct 13, 07:04 IST (iso: 2026-10-13T01:34:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Earthquake-15-2026-08-642d5a84437de6a3d65787308cefebcb-1200x800.jpg -->
+### [होमपैड डिस्प्ले से लेकर नई 4के टीवी तक, कंपनी के पिटारे से क्या-क्या निकलेगा?](https://www.amarujala.com/technology/tech-diary/apple-welcome-home-event-homepad-smart-display-new-apple-tv-4k-launch-expectations-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 11:03 IST (iso: 2026-10-13T05:33:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/apple-welcome-home_c4b9e6881d0f6c25cff27f96f426d248.jpeg -->
 
-पनामा में सोमवार को 6 तीव्रता का भूकंप आया। यह शुक्रवार के 7.7 तीव्रता वाले भूकंप के बाद दूसरा बड़ा झटका था। इससे पहले शुक्रवार को देश के दक्षिणी तट पर दो शक्तिशाली भूकंप के झटके महसूस किए गए थे. पहले भूकंप की तीव्रता अमेरिकी भूवैज्ञानिक सर्वेक्षण (USGS) ने शुरुआत में 8 बताई थी, जिसे बाद में संशोधित कर 7.6 और फिर 7.7 किया गया.
+एपल न्यूयॉर्क में अपने Welcome Home इवेंट का आयोजन करेगा। इसमें कंपनी अपना पहला स्मार्ट डिस्प्ले HomePad और नई 4के टीवी लाइन लॉन्च करेगी। iPhone 18 सीरीज की लॉन्च के बाद टेक दिग्गज एपल अब अपने Welcome Home इवेंट के साथ स्मार्ट होम मार्केट में बड़ा धमाका करने के लिए तैयार है। न्यूयॉर्क में आयोजित होने वाले इस इवेंट में एपल का पहला स्मार्ट डिस्प्ले HomePad सबसे बड़ा।
 
----
+### [जनता ट्रंप से नाराज...सुरक्षित सीटों पर भी कड़ा मुकाबला; बहाए जा रहे करोड़ों डॉलर](https://www.amarujala.com/world/us-midterm-elections-public-unhappy-with-trump-tough-contests-even-in-safe-seats-millions-of-dollars-poured-in-2026-10-13)
+*Amar Ujala World* - Oct 13, 09:57 IST (iso: 2026-10-13T04:27:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/08/31/donald-trump-tariff_8e79e7e2c508c40aea08054bd3028c77.jpeg?w=1200&dpr=1.0 -->
 
-## दुनिया
-
-### [33 साल बाद धरना स्थल की सूची से हटाया: जंतर-मंतर पर अब प्रदर्शन नहीं होंगे, कौन से तीन नए स्थल तय?](https://www.amarujala.com/india-news/jantar-mantar-removed-from-protest-sites-after-33-years-three-new-protest-venues-in-delhi-2026-10-13)
-*Amar Ujala National* - Oct 13, 07:08 IST (iso: 2026-10-13T01:38:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/jatara-matara_f46ec9c7c5c6e7d2d6c55e01111e36e2.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली ने जंतर-मंतर को 33 साल बाद धरना स्थल सूची से हटा दिया। अब प्रदर्शनकर्ताओं को तीन नए निर्धारित स्थलों पर जाना होगा। 33 साल बाद धरना स्थल की सूची से हटाया: जंतर-मंतर पर अब प्रदर्शन नहीं होंगे, कौन से तीन नए स्थल तय?
-
-### [कर्मचारियों की उत्पादकता बढ़ी, लेकिन कंपनियों को नहीं हो रहा कोई फायदा, मैकिन्से ने किया दावा](https://www.amarujala.com/technology/tech-diary/ai-making-workers-productive-not-companies-mckinsey-executive-eric-kutcher-2026-10-12)
-*Amar Ujala National* - Oct 13, 07:01 IST (iso: 2026-10-13T01:31:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/06/11/ai-robot-in-office_7dc3730b0b3430a8d51d1eebe3b5b1f1.jpeg -->
-
-मैकिन्से के एक वरिष्ठ अधिकारी का कहना है कि एआई ने कर्मचारियों की उत्पादकता बढ़ाई है, पर कंपनियों को इससे कोई ठोस लाभ नहीं मिला है। सॉफ्टवेयर डेवलपमेंट समेत कई क्षेत्रों में यह असर स्पष्ट है। क्या आर्टिफिशियल इंटेलिजेंस (AI) सच में कंपनियों का मुनाफा बढ़ा रहा है? मैकिन्से के एक टॉप एग्जीक्यूटिव ने दावा किया है कि एआई कर्मचारियों की उत्पादकता तो बढ़ा रहा है, लेकिन इससे कंपनियों को कोई खास फायदा नहीं हो रहा है।
-
-### [नागपुर में अनिल सोले ने उम्मीदवारी वापस ली, भाजपा को समर्थन; पुणे में 15 अक्तूबर से पानी कटौती](https://www.amarujala.com/india-news/maharashtra-updates-anil-sole-withdraws-candidature-nagpur-bjp-shiv-sena-politics-pune-water-cut-from-oct-15-2026-10-13)
-*Amar Ujala National* - Oct 13, 06:51 IST (iso: 2026-10-13T01:21:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0 -->
-
-नागपुर में अनिल सोले ने अपनी उम्मीदवारी वापस ले ली है और उन्होंने भाजपा को समर्थन देने का ऐलान किया है। इसी दौरान पुणे में 15 अक्टूबर से पानी की कटौती शुरू हो रही है। महाराष्ट्र: नागपुर में अनिल सोले ने उम्मीदवारी वापस ली, भाजपा को समर्थन; पुणे में 15 अक्तूबर से पानी कटौती।
-
-### [विपक्षी गठबंधन-छात्र संगठनों के साथ राहुल की बैठक, बंगाल में टीएमसी का सीईसी के खिलाफ प्रदर्शन](https://www.amarujala.com/india-news/aaj-ke-din-13-october-2026-big-news-of-the-day-event-of-the-day-top-headlines-in-india-and-world-news-2026-10-13)
-*Amar Ujala National* - Oct 13, 06:39 IST (iso: 2026-10-13T01:09:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/aaj-ke-din-13-october-2026_0ffbf10fd9414d07af7a7ef643d4319d.gif?w=1200&dpr=1.0 -->
-
-राहुल गांधी विपक्षी गठबंधन, सिविल सोसायटी और छात्र संगठनों के साथ बैठक करेंगे। इसी समय कोलकाता में तृणमूल कांग्रेस मुख्य चुनाव आयुक्त और केंद्र सरकार के खिलाफ प्रदर्शन कर रही है। राहुल गांधी विपक्षी गठबंध के साथियों, सिविल सोसायटी के सदस्यों और छात्र संगठनों के साथ चाय पर वार्ता करेंगे तो वहीं पश्चिम बंगाल के कोलकाता में तृणमूल कांग्रेस (टीएमसी) आज मुख्य चुनाव आयुक्त और केंद्र सरकार के खिलाफ प्रदर्शन करेगी।
-
-### [जंतर-मंतर की जगह अब कहां होंगे प्रदर्शन: रामलीला मैदान से बुराड़ी तक कितनी लगेगी फीस; क्या आसान](https://www.amarujala.com/india-news/delhi-protest-sites-jantar-mantar-ramlila-maidan-burari-cbd-ground-booking-charges-2026-10-13)
-*Amar Ujala National* - Oct 13, 06:34 IST (iso: 2026-10-13T01:04:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/nae-aayajana-sathal_130f97e1274c5dd0e717c1e5e5ab8797.jpeg?w=1200&dpr=1.0 -->
-
-जंतर-मंतर के बديل के रूप में रामलीला मैदान और बुराड़ी जैसी जगहों पर प्रदर्शन की व्यवस्था की जा रही है। इन स्थानों पर बुकिंग की फीस और प्रक्रिया की जानकारी दी गई है। जंतर-मंतर की जगह अब कहां होंगे प्रदर्शन: रामलीला मैदान से बुराड़ी तक कितनी लगेगी फीस; क्या आसान होगी बुकिंग?
-
-### [आज राहुल गांधी के आवास पर जुटेंगे विपक्षी नेता: इंडिया ब्लॉक करेगा प्रेस कॉन्फ्रेंस; क्या होगी आगे](https://www.amarujala.com/india-news/rahul-gandhi-has-invited-all-opposition-mps-for-high-tea-at-his-residence-india-bloc-press-conference-2026-10-12)
-*Amar Ujala National* - Oct 13, 06:33 IST (iso: 2026-10-13T01:03:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/rahal-gathha_7f92cd833c10f127f29620f1e7d57e43.jpeg?w=1200&dpr=1.0 -->
-
-विपक्षी नेता आज राहुल गांधी के आवास पर इंडिया ब्लॉक की रणनीति पर चर्चा करेंगे। समूह प्रेस कॉन्फ्रेंस के जरिए अपनी आगामी कदमों की घोषणा करेगा। आज राहुल गांधी के आवास पर जुटेंगे विपक्षी नेता: इंडिया ब्लॉक करेगा प्रेस कॉन्फ्रेंस; क्या होगी आगे की रणनीति?
-
-### [एंटी हीरो रोल करने वाले पहले सुपरस्टार थे दादा मुनी, 76वें जन्मदिन पर मिली थी सबसे दर्दनाक खबर](https://www.amarujala.com/entertainment/ashok-kumar-birth-anniversary-actor-interesting-facts-movies-family-awards-net-worth-2026-10-12)
-*Amar Ujala National* - Oct 13, 06:31 IST (iso: 2026-10-13T01:01:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/ashaka-kamara_76273ea23ea4abc49b8f18fad1ab8e25.jpeg?w=1200&dpr=1.0 -->
-
-अशोक कुमार की 115वीं जयंती 13 अक्टूबर को मनाई जाएगी। हिंदी सिनेमा के इस दिग्गज अभिनेता की जीवनकथा से जुड़े किस्से दोबारा सार्वजनिक चर्चा में आए हैं। 13 अक्तूबर को हिंदी सिनेमा के दिग्गज दिवंगत अभिनेता रहे अशोक कुमार की 115वीं जयंती है। ऐसे में आइए जानते हैं उनकी जिंदगी से जुड़े कुछ दिलचस्प किस्सों के बारे में। एंटी हीरो रोल करने वाले पहले सुपरस्टार थे दादा मुनी, 76वें जन्मदिन पर मिली थी सबसे दर्दनाक खबर।
-
-### [दिमाग में चलती रहती हैं हजारों बातें? मन को शांत करने के लिए करें ये योग](https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/5-minute-yoga-for-stress-relief-simple-poses-to-calm-your-mind-2026-10-12)
-*Amar Ujala National* - Oct 13, 06:30 IST (iso: 2026-10-13T01:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/stress-relief-yoga_dfeb564b0de65185e1faec596a38f490.jpeg?w=1200&dpr=1.0 -->
-
-तनाव कम करने के लिए पांच मिनट के सांस लेने और स्ट्रेचिंग अभ्यास की सलाह दी गई है। विशेषज्ञों का कहना है कि शारीरिक सीमाओं का ध्यान रखना जरूरी है। तनाव के बीच खुद के लिए 5 मिनट निकालना एक अच्छी शुरुआत हो सकती है। धीमी सांस, हल्की स्ट्रेचिंग और शांत बैठने जैसे आसान अभ्यास आजमाएं। अपने शरीर की सीमाओं का ध्यान रखें और जरूरत पड़ने पर विशेषज्ञ की मदद लेने में संकोच न करें।
-
-### [नवरात्रि में दो बार बनेगा गजकेसरी योग, मेष समेत इन 4 राशियों की चमक सकती है किस्मत](https://www.amarujala.com/photo-gallery/astrology/predictions/gajkesari-yog-2026-navratri-4-lucky-zodiac-signs-2026-10-12)
-*Amar Ujala National* - Oct 13, 06:26 IST (iso: 2026-10-13T00:56:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/gajakasara-yaga-2026_0a34eb3bc573d75c69e75b42f281d4fe.jpeg?w=1200&dpr=1.0 -->
-
-अक्टूबर में नवरात्रि के दौरान दो बार गजकेसरी योग बनेगा। मान्यता है कि मेष समेत चार राशियों के लिए यह योग अनुकूल प्रभाव डाल सकता है। इस बार शारदीय नवरात्रि के दौरान अक्तूबर में दो बार गजकेसरी योग बनने की बात कही जा रही है। मान्यता है कि इस योग का प्रभाव कुछ राशियों के लिए विशेष रूप से अनुकूल रह सकता है।
-
-### [समुद्री लुटेरों के झंडे से जोकर के मेकअप तक; विरोध में ऐसे प्रतीकों का इस्तेमाल क्यों करते जेन जी?](https://www.amarujala.com/india-news/explainer-from-pirate-flags-to-joker-makeup-why-is-gen-z-using-these-symbols-to-protest-2026-10-12)
-*Amar Ujala National* - Oct 13, 06:25 IST (iso: 2026-10-13T00:55:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/raya-ka-ekasapalnara_d620d42a8fbfde398bc15f343a454e17.jpeg?w=1200&dpr=1.0 -->
-
-प्रतीकों का प्रयोग सामाजिक असंतोष को व्यक्त करने का एक प्रभावी माध्यम है। यह विरोध की भावना को दृश्य रूप देता है और सार्वजनिक चर्चा में शामिल करता है। ऐतिहासिक उदाहरणों से यह स्पष्ट होता है कि प्रतीकवाद राजनीतिक आंदोलनों में महत्वपूर्ण भूमिका निभाता है। एक्सप्लेनर: समुद्री लुटेरों के झंडे से जोकर के मेकअप तक; विरोध में ऐसे प्रतीकों का इस्तेमाल क्यों करते जेन जी?
-
-### [विमान में दो एयर होस्टेस पर हमले का आरोप; एक्टर की सेहत पर क्या पता चला?](https://www.amarujala.com/entertainment/hollywood/usa-selma-blair-arrested-new-york-assault-two-flight-attendants-on-plane-actress-health-issue-hindi-updates-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 06:22 IST (iso: 2026-10-13T00:52:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/11/bugdha-khabra_af450dd548718eca5aa7d1d9015a22fd.jpeg?w=1200&dpr=1.0 -->
-
-अभिनेत्री सेल्मा ब्लेयर को विमान में दो एयर होस्टेस पर हमले के आरोप में गिरफ्तार किया गया है। घटना के बाद उनकी सेहत की स्थिति पर चिंता जताई गई है। पुलिस ने मामले की जांच शुरू कर दी है और आगे की कार्रवाई जारी है। अभिनेत्री सेल्मा ब्लेयर गिरफ्तार: विमान में दो एयर होस्टेस पर हमले का आरोप; एक्टर की सेहत पर क्या पता चला?
-
-### [चीफ जस्टिस सूर्यकांत की पीठ ने कहा- आतिशबाजी पर धार्मिक भावनाओं को ठेस नहीं पहुंचाएगी अदालत](https://www.amarujala.com/india-news/supreme-court-cji-surya-kant-led-bench-on-firecrackers-would-not-hurt-religious-sentiment-delhi-ncr-diwali-air-2026-10-13)
-*Amar Ujala National* - Oct 13, 06:10 IST (iso: 2026-10-13T00:40:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/10/supreme-court_ab3488b6a5fa8751b1488455919f5193.jpeg?w=1200&dpr=1.0 -->
-
-सुप्रीम कोर्ट ने आतिशबाजी पर धार्मिक भावनाओं को ठेस न पहुंचाने का निर्देश दिया है। चीफ जस्टिस सूर्यकांत की पीठ ने यह फैसला सुनाया है। अदालत ने धार्मिक सौहार्द बनाए रखने पर जोर दिया है। सुप्रीम कोर्ट: चीफ जस्टिस सूर्यकांत की पीठ ने कहा- आतिशबाजी पर धार्मिक भावनाओं को ठेस नहीं पहुंचाएगी अदालत।
-
-### [वनप्लस 15 में ऑक्सीजन ओएस 16 या कलरओएस 17: कौन-सा अपडेट है बेहतर? जानें अपग्रेड करना चाहिए या नहीं](https://www.amarujala.com/technology/tech-diary/oneplus-15-coloros-17-vs-oxygenos-16-upgrade-guide-2026-10-12)
-*Amar Ujala National* - Oct 13, 06:02 IST (iso: 2026-10-13T00:32:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/03/oneplus-15_6c92b933ea77c9163709997a3e6da869.jpeg -->
-
-वनप्लस 15 यूजर्स को OxygenOS 16 या ColorOS 17 Beta अपग्रेड का विकल्प मिला है। नए वर्जन में एनिमेशन और AI फीचर्स शामिल हैं। हालांकि बीटा वर्जन में बग की संभावना बनी हुई है। वनप्लस 15 यूजर्स को अब OxygenOS 16 पर बने रहने या नए ColorOS 17 Beta पर जाने का विकल्प मिल रहा है। इस बदलाव के साथ नए एनिमेशन, यूजर इंटरफेस में सुधार और AI फीचर्स आने की उम्मीद है।
-
-### [छह राज्यों में नए राज्यपाल; कर्नाटक में आरक्षण पर बड़ा फैसला; राहुल गांधी की याचिका में खामियां](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-13-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 06:00 IST (iso: 2026-10-13T00:30:53+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
-
-छह राज्यों में नए राज्यपालों की नियुक्ति की गई है। कर्नाटक में आरक्षण से जुड़ा महत्वपूर्ण फैसला आया है। राहुल गांधी की याचिका में कमी पाई गई है। सुर्खियां: छह राज्यों में नए राज्यपाल; कर्नाटक में आरक्षण पर बड़ा फैसला; राहुल गांधी की याचिका में खामियां।
-
-### [ओजस फिल्म्स बनाएगी ‘मचान बाबा’,जॉर्ज पंचम से इंदिरा गांधी तक के प्रसंग होंगे शामिल](https://www.amarujala.com/uttar-pradesh/mathura/film-to-be-made-on-deoraha-baba-ojas-films-to-produce-machan-baba-will-feature-episodes-ranging-from-king-geo-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 05:44 IST (iso: 2026-10-13T00:14:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/thavaraha-bb-para-bnaga-falma_f0293c669b08c10f54418462732d6364.jpeg?w=1200&dpr=1.0 -->
-
-ओजस फिल्म्स ने 'मचान बाबा' फिल्म की घोषणा की। इसमें जॉर्ज पंचम और इंदिरा गांधी से जुड़े प्रसंग शामिल होंगे। यह निर्णय 'हनुमान अंश' की सफलता के बाद लिया गया। नीब करौरी बाबा से प्रेरित फिल्म ‘हनुमान अंश’ की सफलता के बाद अब एक और रहस्यमयी और महान संत के जीवन को बड़े पर्दे पर उतारने की तैयारी शुरू हो गई है।
+अमेरिका के मध्यावधि चुनावों में जनता ट्रंप प्रशासन से नाराज है। सुरक्षित सीटों पर भी कड़ा मुकाबला हो रहा है और करोड़ों डॉलर खर्च किए जा रहे हैं। अमेरिका में मध्यावधि चुनाव: जनता ट्रंप से नाराज सुरक्षित सीटों पर भी कड़ा मुकाबला; बहाए जा रहे करोड़ों डॉलर।
 
 ---
 
-## यूरोप और रूस
+## वैश्विक / बहुपक्षीय
 
-### [चॉइस फिलिंग में कैसे चुनें कॉलेज और कोर्स? चुनाव करते समय ये पांच बातें जरूर चेक करें](https://www.amarujala.com/photo-gallery/education/neet-pg-counselling-2026-5-things-to-check-before-filling-college-and-course-choices-2026-10-12)
-*Amar Ujala National* - Oct 13, 07:05 IST (iso: 2026-10-13T01:35:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/neet-pg-counselling-2026_b152324a9bcdb28fe08cb1984b822529.jpeg?w=1200&dpr=1.0 -->
+### ['झोला उठाने का वक्त आ गया': महंगाई के आंकड़ों को लेकर सरकार पर हमलवार कांग्रेस, आईएमएफ रिपोर्ट पर](https://www.amarujala.com/india-news/jairam-ramesh-slams-modi-government-over-rising-inflation-retail-inflation-surge-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 11:43 IST (iso: 2026-10-13T06:13:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/jayarama-ramasha-kagarasa-mahasacava_76906f541a3838a42fd7247aad76a498.jpeg?w=1200&dpr=1.0 -->
 
-नीट पीजी 2026 काउंसलिंग में केवल रैंक पर निर्भर न रहें। कटऑफ, फीस, छात्रावास और अस्पताल की सुविधाओं की जांच जरूरी है। नीट पीजी काउंसलिंग 2026 में कॉलेज और कोर्स चुनते समय केवल अपनी रैंक पर निर्भर न रहें। पिछले वर्ष की कटऑफ, पाठ्यक्रम, कॉलेज की मान्यता, पूरी फीस, छात्रावास, अस्पताल में मरीजों की संख्या और प्रशिक्षण की सुविधाएं भी जांचें।
-
-### [पुतिन जेलेंस्की से ज्यादा समझौता चाहते हैं? ट्रंप का दावा; डीजल की आपूर्ति पर क्या कहा?](https://www.amarujala.com/world/putin-wants-to-make-a-deal-more-than-zelenskyy-claims-trump-as-ukraine-alleges-energy-ceasefire-violation-2026-10-13)
-*Amar Ujala World* - Oct 13, 05:41 IST (iso: 2026-10-13T00:11:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/danalda-tarapa_030d047cb9c9fffe12e809c2f3957a2d.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप का दावा है कि पुतिन जेलेंस्की से अधिक समझौता चाहते हैं। उन्होंने डीजल की आपूर्ति से जुड़े मुद्दों पर भी अपनी राय रखी। रूस-यूक्रेन युद्ध: पुतिन जेलेंस्की से ज्यादा समझौता चाहते हैं? ट्रंप का दावा; डीजल की आपूर्ति पर क्या कहा?
-
----
-
-## एशिया-प्रशांत
-
-### [हांगझोऊ में बेटियों ने पार कराया था 100 पदक का आंकड़ा, अब जापान में भी दम दिखाने की बारी](https://www.amarujala.com/sports/para-asian-games-2026-women-s-athletes-shine-in-hangzhou-asiad-now-it-s-time-to-showcase-power-in-japan-2026-10-12)
-*Amar Ujala National* - Oct 13, 06:25 IST (iso: 2026-10-13T00:55:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/para-asiad_c3a0ace5d0ec8c3a2263ba0efe3216f1.jpeg?w=1200&dpr=1.0 -->
-
-भारतीय महिला पैरा खिलाड़ियों ने हांगझोऊ में 100 पदकों का आंकड़ा पार किया था। अब जापान के आइची-नागोया में होने वाले पैरा एशियन गेम्स में भी वे प्रदर्शन की उम्मीद रखती हैं। पैरा एशियन गेम्स का आयोजन अगले कुछ दिनों में जापान के आइची-नागोया में होगा। पिछली बार भारतीय महिला पैरा खिलाड़ियों ने दमदार प्रदर्शन किया था। इस बार भी महिलाओं से अधिक से अधिक पदक जीतने की उम्मीद होगी।
-
-### [तुर्किये-पाकिस्तान गठजोड़ को मिलेगा भारत का कड़ा जवाब, क्या है पूरा मामला?](https://www.amarujala.com/india-news/special-roadmap-prepared-india-to-give-strong-response-to-t-rkiye-pakistan-alliance-know-geopolitics-story-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 05:29 IST (iso: 2026-10-12T23:59:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/turkiye-pak-india_aa4b26ae4fde0276495e3367bab0a96d.jpeg?w=1200&dpr=1.0 -->
-
-भारत ने तुर्किये और पाकिस्तान के गठजोड़ के खिलाफ विशेष रोडमैप तैयार किया है। इसका उद्देश्य दोनों देशों के बढ़ते सैन्य और राजनीतिक संबंधों पर कड़ा जवाब देना है। विशेष रोडमैप तैयार: तुर्किये-पाकिस्तान गठजोड़ को मिलेगा भारत का कड़ा जवाब, क्या है पूरा मामला?
+जयराम रमेश ने बढ़ती महंगाई को लेकर मोदी सरकार पर हमला किया। उन्होंने कहा कि गरीबों की थाली खाली हो रही है और कर्ज का बोझ बढ़ रहा है। जयराम रमेश ने बढ़ती महंगाई को लेकर मोदी सरकार पर निशाना साधा है। उन्होंने कहा कि गरीब की थाली से निवाला, मध्यम वर्ग की जेब से बचत गायब हो रही है और कर्ज का बोझ बढ़ता जा रहा है, लेकिन प्रधानमंत्री अहंकार में डूबे हैं।
 
 ---
 
