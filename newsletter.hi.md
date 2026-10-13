@@ -1,6 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 13, 2026 00:58 IST
+**अपडेट:** October 13, 2026 07:12 IST
 
 ---
 
@@ -12,165 +12,165 @@
 
 ब्रिटिश प्रधानमंत्री का दावा है कि ईरान के निर्देश पर एयरबेस पर हमले की साजिश रची गई थी। यह आरोप हाल के घटनाक्रम के संदर्भ में उठाया गया है। 'ईरान के निर्देश पर रची गई थी एयरबेस पर हमले की साजिश': ब्रिटिश पीएम का दावा; क्या है पूरा घटनाक्रम?
 
-### [इधर हूतियों से बदला लेने वाला है सऊदी अरब, उधर धड़ाधड़ कैंसिल हो रहीं फ्लाइट्स, 8 देशों की एयरलाइन](https://hindi.news18.com/world/middle-east-saudi-arabia-airport-houthis-attacks-riyadh-flights-cancelled-by-global-airlines-uae-india-hongkong-singapore-us-europe-10905008.html)
-*News18 Hindi (World)* - Oct 12, 23:54 IST (iso: 2026-10-12T18:24:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Riyadh-airport-attack-Photo-2026-10-ef7d86f10083cc74f24c14c1364c56c8-1200x800.jpg -->
+### [होर्मुज में सुपरटैंकर पर ईरान का हमला: नेविगेशन सिस्टम बंद करने पर IRGC की मिसाइल स्ट्राइक, 2 दिन](https://www.patrika.com/world-news/iran-irgc-supertanker-attack-strait-of-hormuz-ukmto-20979725)
+*Patrika (World)* - Oct 13, 07:01 IST (iso: 2026-10-13T01:31:43+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/irgc-supertanker-attack.webp -->
 
-यमन के हूती विद्रोहियों ने सऊदी अरब के किंग खालिद और दम्माम एयरपोर्ट पर मिसाइल और ड्रोन हमला किया। कम से कम 18 लोग मारे गए। सऊदी अरब ने बदले का ऐलान किया। यमन के हूती विद्रोहियों ने सऊदी अरब पर बड़ा हमला किया है. रियाद के किंग खालिद एयरपोर्ट और दम्माम एयरपोर्ट पर ताबड़तोड़ मिसाइलें और ड्रोन दागे गए हैं.
+ईरानी नौसेना ने होर्मुज में एक सुपरटैंकर पर हमला किया। जहाज में आग लग गई। यह 48 घंटों में तीसरा बड़ा हमला है। Strait of Hormuz Attack: पश्चिम एशिया में जारी तनाव के बीच होर्मुज जलडमरूमध्य में एक सुपरटैंकर पर हमले की खबर आई है। होर्मुज जलडमरूमध्य में ईरानी समुद्री नाकेबंदी के नियमों का उल्लंघन करने वाले तेल टैंकरों पर 48 घंटों के भीतर यह तीसरा बड़ा हमला है।
 
-### [NSA अजीत डोभाल ने ईरान के सिक्योरिटी चीफ से फोन पर की बात, 3 नवंबर से पहले 'इमरजेंसी कॉल' के क्या](https://hindi.news18.com/news/nation/nsa-ajit-doval-holds-emergency-call-with-iran-security-chief-mohsen-rezaei-amid-strait-of-hormuz-oil-supply-crisis-10904925.html)
-*News18 Hindi (World)* - Oct 12, 23:20 IST (iso: 2026-10-12T17:50:58+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/NSA-Ajit-Doval-Holds-Call-With-Iran-Security-Chief-Mohsen-Rezaei-2026-10-bae3f2cc392cd44f28f5fd794562084e-1200x800.jpg -->
+### [सऊदी अरब के एयरपोर्ट पर हमलों से बढ़ा तनाव, ट्रंप की हूतियों को सख्त चेतावनी; खाड़ी में मंडराया](https://www.patrika.com/world-news/saudi-arabia-airport-attack-trump-houthi-tensions-middle-east-crisis-2026-20979721)
+*Patrika (World)* - Oct 13, 06:44 IST (iso: 2026-10-13T01:14:58+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump_d9e160.webp -->
 
-भारतीय एनएसए अजीत डोभाल ने ईरान के सुरक्षा प्रमुख मोहसिन रजाई से फोन पर बात की। यह बातचीत होर्मुज जलडमरूमध्य के संकट के बीच हुई। तेल की कीमतें बढ़ रही हैं। हथियार भले ही डाउन हों लेकिन पश्चिम एशिया में होर्मुज की सिचुएशन अभी तक नहीं बदली है. इसी संकट के बीच भारत के एनएसए अजीत डोभाल ने ईरान के सिक्योरिटी चीफ मोहसिन रजाई से फोन पर इमरजेंसी बात की है.
+सऊदी अरब के हवाई अड्डों पर हमलों के बाद उड़ानों पर रोक लगाई गई है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने हूती विद्रोहियों को सख्त चेतावनी दी है, जिससे क्षेत्र में तनाव बढ़ा है। Donald Trump Houthi Attacks: मध्य पूर्व में बढ़ते सैन्य टकराव ने हवाई सुरक्षा से लेकर समुद्री व्यापार तक कई मोर्चों पर चिंता बढ़ा दी है। सऊदी अरब के प्रमुख हवाई अड्डों पर हमलों के बाद उड़ानों पर रोक बढ़ाने का फैसला लिया गया है, वहीं अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने हूती विद्रोहियों के रवैये पर कड़ी नाराजगी जताई है।
 
-### [इजरायली बच्चे के बैग में फटा बम! स्कूल ट्रिप के दौरान खौफनाक धमाका, चपेट में आए 20 छात्र](https://hindi.news18.com/world/middle-east-israel-school-trip-blast-15-year-old-student-killed-and-19-injured-after-ordinance-explodes-in-backpack-near-lebanon-border-10904557.html)
-*News18 Hindi (World)* - Oct 12, 20:08 IST (iso: 2026-10-12T14:38:18+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Israel-School-Trip-Blast-2026-10-b9aa41a2941b63cf5d6e4a82d68b9d2d-1200x800.jpg -->
+### [पश्चिम एशिया के हाल पर डोभाल, ईरानी समकक्ष की वार्ता; यूक्रेन में रूस की भीषण बमबारी](https://www.amarujala.com/world/world-updates-doval-iran-talk-west-asia-tension-russia-ukraine-poland-china-nepal-polity-crime-and-other-news-2026-10-13)
+*Amar Ujala World* - Oct 13, 05:46 IST (iso: 2026-10-13T00:16:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_0560df028d41b8158a3b6afbe833dc0b.jpeg?w=1200&dpr=1.0 -->
 
-इजरायल-लेबनान सीमा के रमीम रिज में स्कूल ट्रिप के दौरान बम फटा। 15 साल के छात्र के बैग में रखा अनफटा बम विस्फोट हुआ। उसकी मौत हो गई और लगभग 20 अन्य छात्र गंभीर रूप से घायल हुए। इजराइल-लेबनान सीमा के पास सोमवार को एक स्कूल की हाइकिंग ट्रिप में बड़ा हादसा हो गया. रमीम रिज इलाके में मिडिल स्कूल के बच्चे घूमने निकले थे.
-
-### [‘हम कभी भी शुरुआती स्थिति में वापस नहीं जाएंगे’, अमेरिका से परमाणु मुद्दे पर बातचीत के लिए ईरान](https://www.patrika.com/world-news/iran-remains-open-to-us-nuclear-talks-but-with-firm-conditions-20979361)
-*Patrika (World)* - Oct 12, 19:24 IST (iso: 2026-10-12T13:54:46+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/baghaei_.webp -->
-
-ईरान ने अमेरिका से परमाणु मुद्दे पर बातचीत के लिए तैयारी जताई है। ईरान ने स्पष्ट किया कि वह परमाणु हथियार नहीं बना रहा, बल्कि सिर्फ ऊर्जा विकसित कर रहा है। दोनों देशों के बीच पिछली बातचीत बिना नतीजे खत्म हुई थी। ईरान (Iran) और अमेरिका (United States of America) के बीच युद्ध की सबसे बड़ा कारण ईरान का परमाणु प्रोग्राम था।
-
-### [होर्मुज स्ट्रेट पर अमेरिकी कंट्रोल के दावों को ईरान ने किया खारिज, कहा – ‘ज़मीनी हकीकत दावों से मेल](https://www.patrika.com/world-news/iran-rejects-us-assertions-of-control-over-strait-of-hormuz-20979292)
-*Patrika (World)* - Oct 12, 19:01 IST (iso: 2026-10-12T13:31:14+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/baghaei.webp -->
-
-ईरान ने अमेरिका के दावों को खारिज किया कि उसकी नौसेना होर्मुज स्ट्रेट पर नियंत्रण रखती है। तेहरान का कहना है कि यह जलमार्ग हमेशा से ईरानी नियंत्रण में रहा है। दोनों देशों के बीच इस रणनीतिक रास्ते पर विवाद जारी है। ईरान (Iran) और अमेरिका (United States of America) के बीच युद्ध में होर्मुज स्ट्रेट (Strait of Hormuz) के कंट्रोल पर भी दोनों देश आमने-सामने हैं।
-
-### [हूतियों से बचने को इस जगह छुपे सऊदी के क्राउन प्रिंस MBS, 7 जन्मों में भी नहीं पहुंच सकते लड़ाके](https://hindi.news18.com/world/middle-east-where-is-mbs-crown-prince-mohammed-bin-salman-hide-in-secret-bunkers-saudi-arabia-running-out-of-interceptor-missiles-houthi-attack-10904173.html)
-*News18 Hindi (World)* - Oct 12, 16:18 IST (iso: 2026-10-12T10:48:02+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-Vs-Houtis-MBS-Hiding-In-bunkers-2026-10-f90304d572b6a4ae968fa4fd3085eb4c-1200x800.jpg -->
-
-यमन के हूती हमलों से बचने के लिए सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान को अंडरग्राउंड बंकरों में शिफ्ट किया गया है। सऊदी के एयर डिफेंस सिस्टम का मिसाइल स्टॉक खत्म होने की आशंका जताई गई है। यमन के हूती विद्रोही सऊदी पर लगातार हमले कर रहे हैं. रिपोर्ट के मुताबिक सऊदी का एयर डिफेंस सिस्टम अब हांपने लगा है और उनका मिसाइल स्टॉक खत्म हो रहा है.
-
-### [हूती विद्रोहियों और सऊदी अरब में बढ़ते हमलों को रोकने में मदद के लिए ईरान तैयार, ईरानी अधिकारी](https://www.patrika.com/world-news/iran-ready-for-dialogue-with-houthis-and-saudi-arabia-to-resolve-conflict-amid-escalating-attacks-20978585)
-*Patrika (World)* - Oct 12, 15:58 IST (iso: 2026-10-12T10:28:02+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/baghaei.webp -->
-
-ईरान ने हूती विद्रोहियों और सऊदी अरब के बीच बढ़ते तनाव को रोकने में मदद करने की तैयारी जताई है। लगातार हो रहे हमलों के कारण दोनों पक्षों को भारी नुकसान झेलना पड़ रहा है। हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) दोनों ने ही एक-दूसरे के खिलाफ हमले तेज़ कर दिए हैं। इस वजह से तनाव भी काफी बढ़ गया है और लगातार हमलों की वजह से दोनों पक्षों को काफी नुकसान भी झेलना पड़ रहा है।
-
-### [यमन की सेना ने किए हूती विद्रोहियों के ठिकानों पर हमले, ताइज़ में की एयरस्ट्राइक्स](https://www.patrika.com/world-news/yemen-army-carries-out-airstrikes-on-houthis-positions-in-taiz-20978421)
-*Patrika (World)* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/yemen-soldiers.webp -->
-
-यमन की सरकारी सेना ने ताइज़ में हूती विद्रोहियों के ठिकानों पर एयरस्ट्राइक की है। यह कार्रवाई रियाद के किंग खालिद एयरपोर्ट पर हुए हूती हमले के तुरंत बाद की गई। हूती विद्रोहियों (Houthis) ने सऊदी अरब (Saudi Arabia) पर हमले तेज़ कर दिए हैं। रविवार को सऊदी अरब की राजधानी रियाद के किंग खालिद इंटरनेशनल एयरपोर्ट पर हूतियों के हमले में कई लोग हताहत हुए, जिसके बाद एयरपोर्ट पर संचालन को फिलहाल के लिए बंद कर दिया गया है।
-
----
-
-## एशिया-प्रशांत
-
-### [लालू के बेटे ने दिल्ली में की ऑटोरिक्शा की सवारी, सामने वाली सीट पर कौन बैठा दिखा?](https://www.amarujala.com/india-news/tejashwi-yadav-delhi-auto-ride-bihar-rjd-leader-autorickshaw-video-bihar-legislative-assembly-lop-cng-auto-2026-10-13)
-*Amar Ujala Breaking* - Oct 13, 12:15 IST (iso: 2026-10-13T06:45:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/tejashwi-auto-delhi_b0885d99d2c5f7be721ce5988a0fae10.jpeg?w=1200&dpr=1.0 -->
-
-तेजस्वी यादव ने दिल्ली में ऑटोरिक्शा की सवारी की। सामने वाली सीट पर एक व्यक्ति बैठा दिखाया गया। यह घटना उनके लोकप्रियता अभियान का हिस्सा है। तेजस्वी यादव का जुदा अंदाज: लालू के बेटे ने दिल्ली में की ऑटोरिक्शा की सवारी, सामने वाली सीट पर कौन बैठा दिखा?
-
-### [पीएम मोदी का 'डोमिनेंस गेम', हाथ पकड़ते ही छूट गई ट्रंप की सांस, पूर्व NSA ने समझाया भारत का](https://hindi.news18.com/world/america-pm-modi-iron-grip-defeats-trump-inward-yank-ex-nsa-john-bolton-reveals-india-power-move-in-diplomatic-handshake-10904731.html)
-*News18 Hindi (World)* - Oct 12, 20:40 IST (iso: 2026-10-12T15:10:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/PM-Modi-Trump-Handshake-Dominance-Game-2026-10-cdc310710222d6b3f67e94dcf57ecd61-1200x800.jpg -->
-
-पूर्व अमेरिकी राष्ट्रीय सुरक्षा सलाहकार जॉन बोल्टन ने बताया कि ट्रंप का हाथ पकड़ने का खेल मोदी के सामने असफल रहा। मोदी की मजबूत पकड़ के कारण ट्रंप को सांस लेने में दिक्कत हुई। यह घटना दोनों नेताओं के बीच शारीरिक गतिशीलता को दर्शाती है। अमेरिका के पूर्व राष्ट्रीय सुरक्षा सलाहकार (NSA) जॉन बोल्टन का एक खुलासा काफी चर्चा में है.
-
-### [जय माता दी! नवरात्रि पर बलूचिस्तान ने मां दुर्गा से की सुख-समृद्धि की कामना, आया खास संदेश](https://hindi.news18.com/world/south-asia-republic-of-balochistan-navratri-wishes-india-hindu-community-2026-10904444.html)
-*News18 Hindi (World)* - Oct 12, 18:03 IST (iso: 2026-10-12T12:33:53+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-10-12T175234.888-2026-10-faf2dcd3b3c2d821346c66c575f4c7e7-1200x800.jpg -->
-
-नवरात्रि पर बलूचिस्तान के बलूच समुदाय ने भारत और बलूचिस्तान के हिंदूओं को शुभकामनाएं दीं। संदेश में मां दुर्गा से सुख और शांति की कामना की गई। सभी समुदायों के बीच आपसी सम्मान और दोस्ती को मजबूत करने की अपील भी शामिल थी। नवरात्रि पर बलूचों ने भारत और बलूचिस्तान के हिंदू समुदाय को शुभकामनाएं दीं. संदेश में मां दुर्गा से सुख-समृद्धि, साहस और बेहतर भविष्य की कामना के साथ सभी समुदायों के बीच दोस्ती, आपसी सम्मान और शांति मजबूत करने की अपील की गई.
-
-### [पाकिस्तान का मिलिट्री विमान क्रैश, 2 पायलटों के उड़े चीथड़े, आसमान में अपनों की कब्र तैयार कर रहे](https://hindi.news18.com/world/pakistan-pakistan-military-plane-crash-two-pilots-killed-as-army-mushshak-aircraft-crashes-near-quetta-10904391.html)
-*News18 Hindi (World)* - Oct 12, 18:03 IST (iso: 2026-10-12T12:33:36+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Pakistan-Army-Plane-Crash-2026-10-c45cb679dc81acef3d466312d7205bc0-1200x800.jpg -->
-
-क्वेटा के नावां किल्ली के पास पाकिस्तानी सेना का मुशशाक ट्रेनिंग विमान क्रैश हो गया। तकनीकी खराबी के कारण मेजर हसनैन शहजाद हुमायूं और कैप्टन अब्दुल समद की मौत हो गई। सेना ने हादसे की पुष्टि करते हुए कारण तकनीकी खराबी बताया है। बलूचिस्तान के क्वेटा में नावां किल्ली के पास सोमवार को पाकिस्तान आर्मी का 'मुशशाक' ट्रेनिंग विमान क्रैश हो गया.
-
-### [‘पाकिस्तान यहाँ के लोगों का है, सेना का नहीं’, खैबर पख्तूनख्वा में राज्यपाल शासन लागू होने पर इमरान](https://www.patrika.com/world-news/pakistan-belongs-to-its-people-not-military-imran-khan-son-kasim-slams-state-of-emergency-and-governor-rule-in-khyber-pakhtunkhwa-20978961)
-*Patrika (World)* - Oct 12, 17:29 IST (iso: 2026-10-12T11:59:46+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/imran-kasim.webp -->
-
-पाकिस्तान सरकार ने खैबर पख्तूनख्वा में राज्यपाल शासन लागू कर दिया। मुख्यमंत्री सोहेल अफरीदी समेत इमरान खान के कई समर्थकों को हिरासत में लिया गया। यह फैसला प्रांत के प्रशासनिक संकट के बीच लिया गया है। पाकिस्तान (Pakistan) सरकार ने खैबर पख्तूनखा (Khyber Pakhtunkhwa) प्रांत में स्टेट और इमरजेंसी लागू करके राज्यपाल शासन लगा दिया है। इससे पहले प्रांत के मुख्यमंत्री सोहेल अफरीदी (Sohail Afridi) थे, जो पूर्व पाकिस्तानी पीएम इमरान खान (Imran Khan) की पार्टी पाकिस्तान तहरीक-ए-इंसाफ (पीटीआई) के नेता था।
-
-### [न्यूयॉर्क के टाइम्स स्क्वायर में मां दुर्गा का बना ऐसा भव्य पंडाल, दर्शन कर झूम उठे भक्त](https://hindi.news18.com/world/america-goddess-maa-durga-statue-grand-display-at-times-square-new-york-this-navratri-devotees-reaching-for-darshan-photogallery-ws-l-10904038.html)
-*News18 Hindi (World)* - Oct 12, 15:35 IST (iso: 2026-10-12T10:05:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/maa-durga-at-times-square-2026-10-cc6f93a357a9fdbfc1aaf81545571bfe-1200x800.jpg -->
-
-न्यूयॉर्क के टाइम्स स्क्वायर में नवरात्रि के मौके पर मां दुर्गा का भव्य पंडाल बनाया गया। बड़ी संख्या में भक्तों ने विधि-विधान के साथ पूजा और दर्शन किए। न्यूयॉर्क के टाइम्स स्क्वायर में नवरात्रि के दौरान मां दुर्गा की भव्य स्थापना की गई है. विदेशी धरती पर भारतीय संस्कृति की यह अनूठी झलक देखने को म‍िली है. यहां बड़ी संख्या में भक्त पहुंचकर विधि-विधान से पूजा कर रहे हैं और दर्शन कर खुद को धन्‍य महसूस कर रहे हैं.
-
-### [जानिए क्यों विरोध की आग में झुलस रहा है अरुणाचल! चीन से जुड़ा है मामला](https://www.abplive.com/news/india/why-is-arunachal-pradesh-facing-massive-protests-over-the-siang-river-dam-explained-3200896)
-*ABP Live (India)* - Oct 12, 12:46 IST (iso: 2026-10-12T07:16:48+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/12/70b971831b7fe6b430e5dba9aa4da0c31791789279540130_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
-
-अरुणाचल प्रदेश की सियांग घाटी में 11,200 मेगावाट के प्रस्तावित परियोजना के विरोध में प्रदर्शन हो रहे हैं। स्थानीय लोग अपनी जमीन और जंगल की सुरक्षा की बात कर रहे हैं। अरुणाचल प्रदेश की खूबसूरत सियांग घाटी इन दिनों गुस्से और विरोध की आग में जल रही है. जिस सियांग नदी ने सदियों से यहाँ की जनजातियों को जीवन और आश्रय दिया है, आज वही नदी एक बड़े विवाद का केंद्र बन चुकी है.
-
----
-
-## दुनिया
-
-### ['हिजाब से सेक्युलारिज्म खतरे में', मुस्लिम देश में हिजाबी लड़कियां कॉलेज से बाहर! रोते हुई छात्राएं](https://hindi.news18.com/world/europe-hijab-threatens-secularism-muslim-majority-azerbaijan-bans-hijabi-students-from-schools-sparks-mass-outrage-and-protests-10904901.html)
-*News18 Hindi (World)* - Oct 12, 22:24 IST (iso: 2026-10-12T16:54:52+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Azerbaijan-Hijab-Ban-2026-10-3658375531dca9a583f1f2999253bbe0-1200x800.jpg -->
-
-अजरबैजान ने स्कूलों में हिजाब पर प्रतिबंध लगा दिया। धर्मनिरपेक्षता के नाम पर छात्राओं और शिक्षिकाओं को वापस भेजा गया। देशभर में प्रदर्शन और पढ़ाई बॉयकॉट शुरू हो गया। अजरबैजान की सरकार ने नया स्कूल यूनिफॉर्म नियम लागू किया है. इसके तहत धर्मनिरपेक्षता के नाम पर स्कूलों में हिजाब पहनने पर रोक लगा दी गई है. 96% मुस्लिम आबादी वाले इस देश में जैसे ही नया स्कूल सेशन शुरू हुआ, हिजाब पहनने वाली छात्राओं और महिला टीचर्स को गेट से ही वापस लौटा दिया गया.
-
-### [21 का दूल्हा 80 की दुल्हन, पहली नजर में हुआ प्यार, दुनिया ने वीडियो देखते ही निकाल लिया खोट!](https://hindi.news18.com/world/europe-21-year-old-man-marries-80-year-old-italian-woman-love-at-first-sight-story-or-citizenship-trap-10904591.html)
-*News18 Hindi (World)* - Oct 12, 19:01 IST (iso: 2026-10-12T13:31:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Italy-21-year-old-man-married-80-year-old-woman-2026-10-485f38dc8286ac2127cf8e050b1fca4a-1200x800.jpg -->
-
-21 साल के मेहमत ने 80 साल की महिला से प्रपोज किया। उन्होंने दावा किया कि यह पहली नजर का प्यार है और धन का लालच नहीं। वीडियो वायरल होने पर लोगों ने इस रिश्ते में संदेह जताया। इंटरनेट पर एक अनोखी प्रेमकहानी वायरल हो रही है, जहां 21 साल के नौजवान मेहमत ने अपनी 80 साल की गर्लफ्रेंड को शादी का जोड़ा पहनाकर सरेआम प्रपोज कर दिया.
-
-### [‘तेल की टंकियां फुल कर लो’, एशिया में आने वाला है बड़ा संकट, इस देश ने दबाया ‘रेड बटन’](https://hindi.news18.com/world/middle-east-asia-facing-huge-oil-shortage-japan-oil-reserves-red-alert-strait-of-hormuz-supply-chain-risks-rise-petrol-diesel-prices-may-hit-roof-10904290.html)
-*News18 Hindi (World)* - Oct 12, 17:19 IST (iso: 2026-10-12T11:49:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Asia-Energy-Crisis-2026-10-47a45db9b6f76cb365b63b62f25a4005-1200x800.jpg -->
-
-एशिया के सबसे बड़े तेल आयातक ने आपूर्ति संकट के बीच तेल भंडार भरने की सलाह दी है। होर्मुज सेटलमेंट में खलल को देखते हुए एशिया जीरो एमिशन कम्युनिटी ने साझा रिजर्व बनाने की रणनीति अपनाई है। एशिया की तेल सप्लाई भारी संकट में हैं. आने वाले दिनों में कुछ ऐसा होने वाला है, जिसकी कल्पना भी दुनिया ने नहीं की होगी.
-
-### [कौन हैं रॉबर्ट हॉल और माइकल वुडफोर्ड, जिन्हें मिला 2026 का अर्थशास्त्र का नोबेल?](https://www.patrika.com/world-news/nobel-prize-economics-2026-robert-hall-michael-woodford-20978668)
-*Patrika (World)* - Oct 12, 15:51 IST (iso: 2026-10-12T10:21:24+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/NobleEconomics_899933.webp -->
-
-रॉबर्ट हॉल और माइकल वुडफोर्ड को 2026 का अर्थशास्त्र नोबेल पुरस्कार मिला। दोनों ने महंगाई और मंदी के दौरान सरकारी नीतियों की भूमिका पर शोध किया। Nobel Prize winner 2026: दुनिया की अर्थव्यवस्था में महंगाई, मंदी और आर्थिक उतार-चढ़ाव को संभालने में सरकार और केंद्रीय बैंक की नीतियों की अहम भूमिका होती है। कौन हैं रॉबर्ट हॉल और माइकल वुडफोर्ड, जिन्हें मिला 2026 का अर्थशास्त्र का नोबेल?
-
-### [हसीना लौटेंगी… क्या तारिक रहमान तैयार हैं? हर कदम पर सुनिश्चित करनी होगी सुरक्षा!](https://hindi.news18.com/news/defence/sheikh-hasina-return-tarique-rahman-security-challenge-10894801.html)
-*News18 Hindi (World)* - Oct 12, 15:35 IST (iso: 2026-10-12T10:05:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-10-12T152321.630-2026-10-331fc6d77e275adf6408fdd50c2b9980-1200x800.jpg -->
-
-शेख हसीना की वापसी के दौरान सुरक्षा का प्रबंधन तारिक रहमान सरकार का सबसे बड़ा चुनौती है। एयरपोर्ट से अदालत तक हर कदम पर सुरक्षा सुनिश्चित करनी होगी। एक्सप्लेनर | शेख हसीना की वापसी पर दुनिया की नजरें होंगी, लेकिन सबसे बड़ा इम्तिहान तारिक रहमान सरकार का होगा. एयरपोर्ट से अदालत और सभी जगह तक हसीना की सुरक्षा, संभावित विरोध और सियासी तनाव के बीच क्या रहमान सरकार हर कदम पर सुरक्षा सुनिश्चित कर पाएगी?
-
-### [राहुल गांधी ने ज्ञानेश कुमार के सामने रखी शर्त, बोले- 'आप अपराधी नहीं, आपको छोड़ देंगे...'](https://www.abplive.com/news/india/rahul-gandhi-message-to-gyanesh-kumar-says-you-are-not-criminal-but-resign-first-india-block-march-3200940)
-*ABP Live (India)* - Oct 12, 12:59 IST (iso: 2026-10-12T07:29:50+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/12/3399821ac2f6c72412a58b232527281d17917899446601200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-राहुल गांधी ने सीईसी ज्ञानेश कुमार से इस्तीफे की मांग की। उन्होंने कहा कि कुमार अपराधी नहीं हैं और यदि वे पद छोड़ देंगे तो उन्हें माफ कर दिया जाएगा। एसआईआर के मुद्दे और सीईसी ज्ञानेश कुमार के इस्तीफे की मांग को लेकर कांग्रेस समेत पूरा विपक्ष मोदी सरकार पर हमलावर है. नेता विपक्ष राहुल गांधी ने सोमवार (12 अक्टूबर) को कहा कि ज्ञानेश कुमार के मैसैज आते हैं.
-
----
-
-## यूरोप और रूस
-
-### [जेलेंस्की के साथ पुतिन की मसखरी! 60 दिन का सीजफायर आउट, नया काउंटर ऑफर सुनकर छूट जाएगी हंसी](https://hindi.news18.com/world/europe-putin-mocks-zelenskyy-60-day-ceasefire-offer-russia-agrees-to-only-1-day-truce-for-ukraine-elections-10904824.html)
-*News18 Hindi (World)* - Oct 12, 21:27 IST (iso: 2026-10-12T15:57:18+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Russia-Ukraine-War-Ceasefire-2026-10-eec676c3e3e5c32e41de769c2941381a-1200x800.jpg -->
-
-व्लादिमीर पुतिन ने वोलोडिमिर जेलेंस्की के 60 दिन के सीजफायर प्रस्ताव को अस्वीकार कर दिया। रूस ने कहा कि यदि केवल चुनाव होना है तो एक दिन का विराम पर्याप्त है। जेलेंस्की ने ट्रंप के दबाव में यह शर्त रखी थी। यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने रूस के सामने 60 दिन के सीजफायर की शर्त रखी थी. उन्होंने कहा था कि इस दौरान यूक्रेन में राष्ट्रपति चुनाव कराए जाएंगे.
-
-### [तालिबान के हाथों में INSAS नहीं, बेल्जियम की FN FNC राइफल! वायरल तस्वीर से क्यों हुआ भ्रम?](https://hindi.news18.com/news/defence/taliban-insas-rifle-viral-photo-belgian-fn-fnc-truth-10903001.html)
-*News18 Hindi (World)* - Oct 12, 17:24 IST (iso: 2026-10-12T11:54:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-10-12T170557.506-2026-10-de3592e8536bb5ae745b72e3b4538906-1200x800.jpg -->
-
-सोशल मीडिया पर वायरल तस्वीर में तालिबान के पास भारतीय INSAS राइफल दिखाई गई। मेजर अमित बंसल ने स्पष्ट किया कि वह FN FNC राइफल है। भ्रम के कारण गलत जानकारी फैली, जबकि असली हथियार बेल्जियम का बना था। क्या तालिबान के पास भारतीय INSAS राइफल है? सोशल मीडिया पर वायरल तस्वीर को लेकर मेजर अमित बंसल ने बताया सच.
+अंतरराष्ट्रीय मामलों के सचिव डोभाल ने ईरानी समकक्ष से पश्चिम एशिया पर बातचीत की। इसी दौरान यूक्रेन में रूसी बमबारी ने स्थिति को और गंभीर बना दिया। अंतरराष्ट्रीय सुर्खियां: पश्चिम एशिया के हाल पर डोभाल, ईरानी समकक्ष की वार्ता; यूक्रेन में रूस की भीषण बमबारी।
 
 ---
 
 ## अमेरिका
 
-### [दुनिया के 'RBI' को सिखाया काम करने का तरीका, इन 2 अर्थशास्त्रियों को मिलेगा नोबेल](https://hindi.news18.com/world/europe-nobel-prize-in-economics-awarded-to-robert-hall-michael-woodford-ws-l-10904187.html)
-*News18 Hindi (World)* - Oct 12, 16:40 IST (iso: 2026-10-12T11:10:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/nobel-2026-10-1f00b6c7614aad50c9f0d9244e0497fb-1200x800.jpg -->
+### [चुनाव आते ही शुरू हुआ ट्रंप-मस्क का 'भाईचारा', ₹26383033200 लुटाकर साबित की वफादारी](https://hindi.news18.com/world/america-elon-musk-pours-26383033200-rupees-midterm-election-campaigns-after-donald-trump-reconciliation-10905190.html)
+*News18 Hindi (World)* - Oct 13, 07:09 IST (iso: 2026-10-13T01:39:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/musk-trump-2026-10-ecebed73e4f78178711c675a8b44ef8a-1200x800.jpg -->
 
-अमेरिकी अर्थशास्त्रियों रॉबर्ट हॉल और माइकल वुडफोर्ड को अर्थशास्त्र का नोबेल पुरस्कार मिला है। इनका शोध केंद्रीय बैंकों की नीतियों और अर्थव्यवस्था की स्थिरता को समझने पर केंद्रित था। हॉल और माइकल वुडफोर्ड को अर्थशास्त्र का नोबेल पुरस्कार देने की घोषणा हुई है. इन दोनों का शोध अर्थव्यवस्था को स्थिर रखने और केंद्रीय बैंकों की नीतियों की नींव मजबूत करने पर आधारित था.
+एलन मस्क ने ट्रंप के मिडटर्म अभियान में 2638 करोड़ रुपये का दान किया। यह रकमा उन्हें अमेरिका के सबसे बड़े व्यक्तिगत दानदाता बनाती है। Elon Musk Becomes Top Donor for Trump: अमेरिका के मिड टर्म चुनावों से पहले एक ऐसी खबर आई है, जिसने साबित कर दिया है कि एलन मस्क और डोनाल्ड ट्रंप का चुनावी भाईचारा शुरू हो गया है.
+
+### [पनामा में फिर आया भूकंप, 6 तीव्रता के झटके से हिली धरती, पहले 7.7 तीव्रता के भूकंप से दहला था देश](https://hindi.news18.com/world/rest-of-world-earthquake-today-news-panama-hit-by-magnitude-6-earthquake-after-powerful-tremors-10905175.html)
+*News18 Hindi (World)* - Oct 13, 07:04 IST (iso: 2026-10-13T01:34:55+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Earthquake-15-2026-08-642d5a84437de6a3d65787308cefebcb-1200x800.jpg -->
+
+पनामा में सोमवार को 6 तीव्रता का भूकंप आया। यह शुक्रवार के 7.7 तीव्रता वाले भूकंप के बाद दूसरा बड़ा झटका था। इससे पहले शुक्रवार को देश के दक्षिणी तट पर दो शक्तिशाली भूकंप के झटके महसूस किए गए थे. पहले भूकंप की तीव्रता अमेरिकी भूवैज्ञानिक सर्वेक्षण (USGS) ने शुरुआत में 8 बताई थी, जिसे बाद में संशोधित कर 7.6 और फिर 7.7 किया गया.
+
+---
+
+## दुनिया
+
+### [33 साल बाद धरना स्थल की सूची से हटाया: जंतर-मंतर पर अब प्रदर्शन नहीं होंगे, कौन से तीन नए स्थल तय?](https://www.amarujala.com/india-news/jantar-mantar-removed-from-protest-sites-after-33-years-three-new-protest-venues-in-delhi-2026-10-13)
+*Amar Ujala National* - Oct 13, 07:08 IST (iso: 2026-10-13T01:38:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/jatara-matara_f46ec9c7c5c6e7d2d6c55e01111e36e2.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली ने जंतर-मंतर को 33 साल बाद धरना स्थल सूची से हटा दिया। अब प्रदर्शनकर्ताओं को तीन नए निर्धारित स्थलों पर जाना होगा। 33 साल बाद धरना स्थल की सूची से हटाया: जंतर-मंतर पर अब प्रदर्शन नहीं होंगे, कौन से तीन नए स्थल तय?
+
+### [कर्मचारियों की उत्पादकता बढ़ी, लेकिन कंपनियों को नहीं हो रहा कोई फायदा, मैकिन्से ने किया दावा](https://www.amarujala.com/technology/tech-diary/ai-making-workers-productive-not-companies-mckinsey-executive-eric-kutcher-2026-10-12)
+*Amar Ujala National* - Oct 13, 07:01 IST (iso: 2026-10-13T01:31:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/06/11/ai-robot-in-office_7dc3730b0b3430a8d51d1eebe3b5b1f1.jpeg -->
+
+मैकिन्से के एक वरिष्ठ अधिकारी का कहना है कि एआई ने कर्मचारियों की उत्पादकता बढ़ाई है, पर कंपनियों को इससे कोई ठोस लाभ नहीं मिला है। सॉफ्टवेयर डेवलपमेंट समेत कई क्षेत्रों में यह असर स्पष्ट है। क्या आर्टिफिशियल इंटेलिजेंस (AI) सच में कंपनियों का मुनाफा बढ़ा रहा है? मैकिन्से के एक टॉप एग्जीक्यूटिव ने दावा किया है कि एआई कर्मचारियों की उत्पादकता तो बढ़ा रहा है, लेकिन इससे कंपनियों को कोई खास फायदा नहीं हो रहा है।
+
+### [नागपुर में अनिल सोले ने उम्मीदवारी वापस ली, भाजपा को समर्थन; पुणे में 15 अक्तूबर से पानी कटौती](https://www.amarujala.com/india-news/maharashtra-updates-anil-sole-withdraws-candidature-nagpur-bjp-shiv-sena-politics-pune-water-cut-from-oct-15-2026-10-13)
+*Amar Ujala National* - Oct 13, 06:51 IST (iso: 2026-10-13T01:21:36+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0 -->
+
+नागपुर में अनिल सोले ने अपनी उम्मीदवारी वापस ले ली है और उन्होंने भाजपा को समर्थन देने का ऐलान किया है। इसी दौरान पुणे में 15 अक्टूबर से पानी की कटौती शुरू हो रही है। महाराष्ट्र: नागपुर में अनिल सोले ने उम्मीदवारी वापस ली, भाजपा को समर्थन; पुणे में 15 अक्तूबर से पानी कटौती।
+
+### [विपक्षी गठबंधन-छात्र संगठनों के साथ राहुल की बैठक, बंगाल में टीएमसी का सीईसी के खिलाफ प्रदर्शन](https://www.amarujala.com/india-news/aaj-ke-din-13-october-2026-big-news-of-the-day-event-of-the-day-top-headlines-in-india-and-world-news-2026-10-13)
+*Amar Ujala National* - Oct 13, 06:39 IST (iso: 2026-10-13T01:09:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/aaj-ke-din-13-october-2026_0ffbf10fd9414d07af7a7ef643d4319d.gif?w=1200&dpr=1.0 -->
+
+राहुल गांधी विपक्षी गठबंधन, सिविल सोसायटी और छात्र संगठनों के साथ बैठक करेंगे। इसी समय कोलकाता में तृणमूल कांग्रेस मुख्य चुनाव आयुक्त और केंद्र सरकार के खिलाफ प्रदर्शन कर रही है। राहुल गांधी विपक्षी गठबंध के साथियों, सिविल सोसायटी के सदस्यों और छात्र संगठनों के साथ चाय पर वार्ता करेंगे तो वहीं पश्चिम बंगाल के कोलकाता में तृणमूल कांग्रेस (टीएमसी) आज मुख्य चुनाव आयुक्त और केंद्र सरकार के खिलाफ प्रदर्शन करेगी।
+
+### [जंतर-मंतर की जगह अब कहां होंगे प्रदर्शन: रामलीला मैदान से बुराड़ी तक कितनी लगेगी फीस; क्या आसान](https://www.amarujala.com/india-news/delhi-protest-sites-jantar-mantar-ramlila-maidan-burari-cbd-ground-booking-charges-2026-10-13)
+*Amar Ujala National* - Oct 13, 06:34 IST (iso: 2026-10-13T01:04:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/nae-aayajana-sathal_130f97e1274c5dd0e717c1e5e5ab8797.jpeg?w=1200&dpr=1.0 -->
+
+जंतर-मंतर के बديل के रूप में रामलीला मैदान और बुराड़ी जैसी जगहों पर प्रदर्शन की व्यवस्था की जा रही है। इन स्थानों पर बुकिंग की फीस और प्रक्रिया की जानकारी दी गई है। जंतर-मंतर की जगह अब कहां होंगे प्रदर्शन: रामलीला मैदान से बुराड़ी तक कितनी लगेगी फीस; क्या आसान होगी बुकिंग?
+
+### [आज राहुल गांधी के आवास पर जुटेंगे विपक्षी नेता: इंडिया ब्लॉक करेगा प्रेस कॉन्फ्रेंस; क्या होगी आगे](https://www.amarujala.com/india-news/rahul-gandhi-has-invited-all-opposition-mps-for-high-tea-at-his-residence-india-bloc-press-conference-2026-10-12)
+*Amar Ujala National* - Oct 13, 06:33 IST (iso: 2026-10-13T01:03:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/rahal-gathha_7f92cd833c10f127f29620f1e7d57e43.jpeg?w=1200&dpr=1.0 -->
+
+विपक्षी नेता आज राहुल गांधी के आवास पर इंडिया ब्लॉक की रणनीति पर चर्चा करेंगे। समूह प्रेस कॉन्फ्रेंस के जरिए अपनी आगामी कदमों की घोषणा करेगा। आज राहुल गांधी के आवास पर जुटेंगे विपक्षी नेता: इंडिया ब्लॉक करेगा प्रेस कॉन्फ्रेंस; क्या होगी आगे की रणनीति?
+
+### [एंटी हीरो रोल करने वाले पहले सुपरस्टार थे दादा मुनी, 76वें जन्मदिन पर मिली थी सबसे दर्दनाक खबर](https://www.amarujala.com/entertainment/ashok-kumar-birth-anniversary-actor-interesting-facts-movies-family-awards-net-worth-2026-10-12)
+*Amar Ujala National* - Oct 13, 06:31 IST (iso: 2026-10-13T01:01:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/ashaka-kamara_76273ea23ea4abc49b8f18fad1ab8e25.jpeg?w=1200&dpr=1.0 -->
+
+अशोक कुमार की 115वीं जयंती 13 अक्टूबर को मनाई जाएगी। हिंदी सिनेमा के इस दिग्गज अभिनेता की जीवनकथा से जुड़े किस्से दोबारा सार्वजनिक चर्चा में आए हैं। 13 अक्तूबर को हिंदी सिनेमा के दिग्गज दिवंगत अभिनेता रहे अशोक कुमार की 115वीं जयंती है। ऐसे में आइए जानते हैं उनकी जिंदगी से जुड़े कुछ दिलचस्प किस्सों के बारे में। एंटी हीरो रोल करने वाले पहले सुपरस्टार थे दादा मुनी, 76वें जन्मदिन पर मिली थी सबसे दर्दनाक खबर।
+
+### [दिमाग में चलती रहती हैं हजारों बातें? मन को शांत करने के लिए करें ये योग](https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/5-minute-yoga-for-stress-relief-simple-poses-to-calm-your-mind-2026-10-12)
+*Amar Ujala National* - Oct 13, 06:30 IST (iso: 2026-10-13T01:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/stress-relief-yoga_dfeb564b0de65185e1faec596a38f490.jpeg?w=1200&dpr=1.0 -->
+
+तनाव कम करने के लिए पांच मिनट के सांस लेने और स्ट्रेचिंग अभ्यास की सलाह दी गई है। विशेषज्ञों का कहना है कि शारीरिक सीमाओं का ध्यान रखना जरूरी है। तनाव के बीच खुद के लिए 5 मिनट निकालना एक अच्छी शुरुआत हो सकती है। धीमी सांस, हल्की स्ट्रेचिंग और शांत बैठने जैसे आसान अभ्यास आजमाएं। अपने शरीर की सीमाओं का ध्यान रखें और जरूरत पड़ने पर विशेषज्ञ की मदद लेने में संकोच न करें।
+
+### [नवरात्रि में दो बार बनेगा गजकेसरी योग, मेष समेत इन 4 राशियों की चमक सकती है किस्मत](https://www.amarujala.com/photo-gallery/astrology/predictions/gajkesari-yog-2026-navratri-4-lucky-zodiac-signs-2026-10-12)
+*Amar Ujala National* - Oct 13, 06:26 IST (iso: 2026-10-13T00:56:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/gajakasara-yaga-2026_0a34eb3bc573d75c69e75b42f281d4fe.jpeg?w=1200&dpr=1.0 -->
+
+अक्टूबर में नवरात्रि के दौरान दो बार गजकेसरी योग बनेगा। मान्यता है कि मेष समेत चार राशियों के लिए यह योग अनुकूल प्रभाव डाल सकता है। इस बार शारदीय नवरात्रि के दौरान अक्तूबर में दो बार गजकेसरी योग बनने की बात कही जा रही है। मान्यता है कि इस योग का प्रभाव कुछ राशियों के लिए विशेष रूप से अनुकूल रह सकता है।
+
+### [समुद्री लुटेरों के झंडे से जोकर के मेकअप तक; विरोध में ऐसे प्रतीकों का इस्तेमाल क्यों करते जेन जी?](https://www.amarujala.com/india-news/explainer-from-pirate-flags-to-joker-makeup-why-is-gen-z-using-these-symbols-to-protest-2026-10-12)
+*Amar Ujala National* - Oct 13, 06:25 IST (iso: 2026-10-13T00:55:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/raya-ka-ekasapalnara_d620d42a8fbfde398bc15f343a454e17.jpeg?w=1200&dpr=1.0 -->
+
+प्रतीकों का प्रयोग सामाजिक असंतोष को व्यक्त करने का एक प्रभावी माध्यम है। यह विरोध की भावना को दृश्य रूप देता है और सार्वजनिक चर्चा में शामिल करता है। ऐतिहासिक उदाहरणों से यह स्पष्ट होता है कि प्रतीकवाद राजनीतिक आंदोलनों में महत्वपूर्ण भूमिका निभाता है। एक्सप्लेनर: समुद्री लुटेरों के झंडे से जोकर के मेकअप तक; विरोध में ऐसे प्रतीकों का इस्तेमाल क्यों करते जेन जी?
+
+### [विमान में दो एयर होस्टेस पर हमले का आरोप; एक्टर की सेहत पर क्या पता चला?](https://www.amarujala.com/entertainment/hollywood/usa-selma-blair-arrested-new-york-assault-two-flight-attendants-on-plane-actress-health-issue-hindi-updates-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 06:22 IST (iso: 2026-10-13T00:52:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/11/bugdha-khabra_af450dd548718eca5aa7d1d9015a22fd.jpeg?w=1200&dpr=1.0 -->
+
+अभिनेत्री सेल्मा ब्लेयर को विमान में दो एयर होस्टेस पर हमले के आरोप में गिरफ्तार किया गया है। घटना के बाद उनकी सेहत की स्थिति पर चिंता जताई गई है। पुलिस ने मामले की जांच शुरू कर दी है और आगे की कार्रवाई जारी है। अभिनेत्री सेल्मा ब्लेयर गिरफ्तार: विमान में दो एयर होस्टेस पर हमले का आरोप; एक्टर की सेहत पर क्या पता चला?
+
+### [चीफ जस्टिस सूर्यकांत की पीठ ने कहा- आतिशबाजी पर धार्मिक भावनाओं को ठेस नहीं पहुंचाएगी अदालत](https://www.amarujala.com/india-news/supreme-court-cji-surya-kant-led-bench-on-firecrackers-would-not-hurt-religious-sentiment-delhi-ncr-diwali-air-2026-10-13)
+*Amar Ujala National* - Oct 13, 06:10 IST (iso: 2026-10-13T00:40:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/10/supreme-court_ab3488b6a5fa8751b1488455919f5193.jpeg?w=1200&dpr=1.0 -->
+
+सुप्रीम कोर्ट ने आतिशबाजी पर धार्मिक भावनाओं को ठेस न पहुंचाने का निर्देश दिया है। चीफ जस्टिस सूर्यकांत की पीठ ने यह फैसला सुनाया है। अदालत ने धार्मिक सौहार्द बनाए रखने पर जोर दिया है। सुप्रीम कोर्ट: चीफ जस्टिस सूर्यकांत की पीठ ने कहा- आतिशबाजी पर धार्मिक भावनाओं को ठेस नहीं पहुंचाएगी अदालत।
+
+### [वनप्लस 15 में ऑक्सीजन ओएस 16 या कलरओएस 17: कौन-सा अपडेट है बेहतर? जानें अपग्रेड करना चाहिए या नहीं](https://www.amarujala.com/technology/tech-diary/oneplus-15-coloros-17-vs-oxygenos-16-upgrade-guide-2026-10-12)
+*Amar Ujala National* - Oct 13, 06:02 IST (iso: 2026-10-13T00:32:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/03/oneplus-15_6c92b933ea77c9163709997a3e6da869.jpeg -->
+
+वनप्लस 15 यूजर्स को OxygenOS 16 या ColorOS 17 Beta अपग्रेड का विकल्प मिला है। नए वर्जन में एनिमेशन और AI फीचर्स शामिल हैं। हालांकि बीटा वर्जन में बग की संभावना बनी हुई है। वनप्लस 15 यूजर्स को अब OxygenOS 16 पर बने रहने या नए ColorOS 17 Beta पर जाने का विकल्प मिल रहा है। इस बदलाव के साथ नए एनिमेशन, यूजर इंटरफेस में सुधार और AI फीचर्स आने की उम्मीद है।
+
+### [छह राज्यों में नए राज्यपाल; कर्नाटक में आरक्षण पर बड़ा फैसला; राहुल गांधी की याचिका में खामियां](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-13-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 06:00 IST (iso: 2026-10-13T00:30:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
+
+छह राज्यों में नए राज्यपालों की नियुक्ति की गई है। कर्नाटक में आरक्षण से जुड़ा महत्वपूर्ण फैसला आया है। राहुल गांधी की याचिका में कमी पाई गई है। सुर्खियां: छह राज्यों में नए राज्यपाल; कर्नाटक में आरक्षण पर बड़ा फैसला; राहुल गांधी की याचिका में खामियां।
+
+### [ओजस फिल्म्स बनाएगी ‘मचान बाबा’,जॉर्ज पंचम से इंदिरा गांधी तक के प्रसंग होंगे शामिल](https://www.amarujala.com/uttar-pradesh/mathura/film-to-be-made-on-deoraha-baba-ojas-films-to-produce-machan-baba-will-feature-episodes-ranging-from-king-geo-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 05:44 IST (iso: 2026-10-13T00:14:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/thavaraha-bb-para-bnaga-falma_f0293c669b08c10f54418462732d6364.jpeg?w=1200&dpr=1.0 -->
+
+ओजस फिल्म्स ने 'मचान बाबा' फिल्म की घोषणा की। इसमें जॉर्ज पंचम और इंदिरा गांधी से जुड़े प्रसंग शामिल होंगे। यह निर्णय 'हनुमान अंश' की सफलता के बाद लिया गया। नीब करौरी बाबा से प्रेरित फिल्म ‘हनुमान अंश’ की सफलता के बाद अब एक और रहस्यमयी और महान संत के जीवन को बड़े पर्दे पर उतारने की तैयारी शुरू हो गई है।
+
+---
+
+## यूरोप और रूस
+
+### [चॉइस फिलिंग में कैसे चुनें कॉलेज और कोर्स? चुनाव करते समय ये पांच बातें जरूर चेक करें](https://www.amarujala.com/photo-gallery/education/neet-pg-counselling-2026-5-things-to-check-before-filling-college-and-course-choices-2026-10-12)
+*Amar Ujala National* - Oct 13, 07:05 IST (iso: 2026-10-13T01:35:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/neet-pg-counselling-2026_b152324a9bcdb28fe08cb1984b822529.jpeg?w=1200&dpr=1.0 -->
+
+नीट पीजी 2026 काउंसलिंग में केवल रैंक पर निर्भर न रहें। कटऑफ, फीस, छात्रावास और अस्पताल की सुविधाओं की जांच जरूरी है। नीट पीजी काउंसलिंग 2026 में कॉलेज और कोर्स चुनते समय केवल अपनी रैंक पर निर्भर न रहें। पिछले वर्ष की कटऑफ, पाठ्यक्रम, कॉलेज की मान्यता, पूरी फीस, छात्रावास, अस्पताल में मरीजों की संख्या और प्रशिक्षण की सुविधाएं भी जांचें।
+
+### [पुतिन जेलेंस्की से ज्यादा समझौता चाहते हैं? ट्रंप का दावा; डीजल की आपूर्ति पर क्या कहा?](https://www.amarujala.com/world/putin-wants-to-make-a-deal-more-than-zelenskyy-claims-trump-as-ukraine-alleges-energy-ceasefire-violation-2026-10-13)
+*Amar Ujala World* - Oct 13, 05:41 IST (iso: 2026-10-13T00:11:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/danalda-tarapa_030d047cb9c9fffe12e809c2f3957a2d.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप का दावा है कि पुतिन जेलेंस्की से अधिक समझौता चाहते हैं। उन्होंने डीजल की आपूर्ति से जुड़े मुद्दों पर भी अपनी राय रखी। रूस-यूक्रेन युद्ध: पुतिन जेलेंस्की से ज्यादा समझौता चाहते हैं? ट्रंप का दावा; डीजल की आपूर्ति पर क्या कहा?
+
+---
+
+## एशिया-प्रशांत
+
+### [हांगझोऊ में बेटियों ने पार कराया था 100 पदक का आंकड़ा, अब जापान में भी दम दिखाने की बारी](https://www.amarujala.com/sports/para-asian-games-2026-women-s-athletes-shine-in-hangzhou-asiad-now-it-s-time-to-showcase-power-in-japan-2026-10-12)
+*Amar Ujala National* - Oct 13, 06:25 IST (iso: 2026-10-13T00:55:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/para-asiad_c3a0ace5d0ec8c3a2263ba0efe3216f1.jpeg?w=1200&dpr=1.0 -->
+
+भारतीय महिला पैरा खिलाड़ियों ने हांगझोऊ में 100 पदकों का आंकड़ा पार किया था। अब जापान के आइची-नागोया में होने वाले पैरा एशियन गेम्स में भी वे प्रदर्शन की उम्मीद रखती हैं। पैरा एशियन गेम्स का आयोजन अगले कुछ दिनों में जापान के आइची-नागोया में होगा। पिछली बार भारतीय महिला पैरा खिलाड़ियों ने दमदार प्रदर्शन किया था। इस बार भी महिलाओं से अधिक से अधिक पदक जीतने की उम्मीद होगी।
+
+### [तुर्किये-पाकिस्तान गठजोड़ को मिलेगा भारत का कड़ा जवाब, क्या है पूरा मामला?](https://www.amarujala.com/india-news/special-roadmap-prepared-india-to-give-strong-response-to-t-rkiye-pakistan-alliance-know-geopolitics-story-2026-10-13)
+*Amar Ujala Breaking* - Oct 13, 05:29 IST (iso: 2026-10-12T23:59:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/turkiye-pak-india_aa4b26ae4fde0276495e3367bab0a96d.jpeg?w=1200&dpr=1.0 -->
+
+भारत ने तुर्किये और पाकिस्तान के गठजोड़ के खिलाफ विशेष रोडमैप तैयार किया है। इसका उद्देश्य दोनों देशों के बढ़ते सैन्य और राजनीतिक संबंधों पर कड़ा जवाब देना है। विशेष रोडमैप तैयार: तुर्किये-पाकिस्तान गठजोड़ को मिलेगा भारत का कड़ा जवाब, क्या है पूरा मामला?
 
 ---
 
