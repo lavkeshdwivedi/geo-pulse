@@ -1,160 +1,46 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 14, 2026 11:04 IST
-
----
-
-## दुनिया
-
-### [रात को नाभि में सरसों का तेल लगाने से क्या होता है? त्वचा से लेकर फटे होंठों तक जानें सच](https://www.amarujala.com/photo-gallery/lifestyle/fitness/mustard-oil-in-belly-button-benefits-side-effects-how-to-use-2026-10-14)
-*Amar Ujala National* - Oct 14, 11:03 IST (iso: 2026-10-14T05:33:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/mustard-oil_65c053e027c493b620d5b106c7f46ca1.jpeg?w=1200&dpr=1.0 -->
-
-बुजुर्गों की सलाह पर नाभि में सरसों का तेल लगाने के दावों की जाँच की गई। त्वचा और फटे होंठों से जुड़े लाभों के साथ सावधानियों का भी उल्लेख किया गया है। Mustard Oil in Navel: बड़े बुजुर्ग हमेशा नाभि में सरसों का तेल लगाने की सलाह देते हैं। दादी नानी के इस घरेलू नुस्खे के क्या फायदे हैं, और किन बातों का ध्यान रखना चाहिए, ये भी जान लें।
-
-### [कोलकाता की सड़क पर चल रहे थे लात-घूंसे, तभी हुई ‘सिंघम’ की एंट्री, एक्शन देख शांत हो गया पूरा मामला](https://www.amarujala.com/bizarre-news/kolkata-road-rage-turns-into-street-fight-then-singham-style-police-entry-steals-the-show-2026-10-14)
-*Amar Ujala National* - Oct 14, 11:00 IST (iso: 2026-10-14T05:30:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/saugdhaka-para-ha-shanpr-ha-gaii-marapata_7aa3ff8922c67fc5c370bef5a6621041.jpeg?w=1200&dpr=1.0 -->
-
-कोलकाता की सड़क पर दो पक्षों के बीच मारपीट का वीडियो वायरल हुआ। वीडियो में 'सिंघम' की एंट्री के बाद मामला शांत हो गया है। कोलकाता का बताकर शेयर किए गए एक वायरल वीडियो में सड़क पर दो पक्षों के बीच जमकर मारपीट होती दिख रही है। कोलकाता की सड़क पर चल रहे थे लात-घूंसे, तभी हुई ‘सिंघम’ की एंट्री, एक्शन देख शांत हो गया पूरा मामला।
-
-### [सूर्य की राहु के नक्षत्र में एंट्री: मेष सहित इन राशि के लोगों को होगी परेशानी, नौकरी में दिखेगा](https://www.amarujala.com/photo-gallery/astrology/predictions/surya-swati-nakshatra-parivartan-2026-impact-on-zodiac-sign-2026-10-13)
-*Amar Ujala National* - Oct 14, 10:54 IST (iso: 2026-10-14T05:24:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/surya-swati-nakshatra-parivartan-2026_02e759c77aa2440b086ef4956e9c21a4.jpeg?w=1200&dpr=1.0 -->
-
-सूर्य का राहु के नक्षत्र में प्रवेश तीन राशियों के लिए चिंताजनक है। नौकरी और निवेश से जुड़े फैसलों में देरी या रुकावट का अनुमान है। Surya Swati Nakshatra Parivartan 2026: सूर्य का राहु के नक्षत्र में प्रवेश इन 3 राशि वालों की परेशानियां बढ़ा सकता है। जातकों को अपेक्षित परिणाम मिलने में देरी हो सकती है। निवेश और पैसों से जुड़े फैसलों में भी सावधानी बरतने की जरूरत रह सकती है।
-
-### [कब मनाई जाएगी अष्टमी-नवमी? जानें सही डेट, महत्व और कन्या पूजन का शुभ मुहूर्त](https://www.amarujala.com/photo-gallery/spirituality/festivals/kab-hai-ashtami-or-navami-2026-date-kanya-pujan-time-in-hindi-2026-10-13)
-*Amar Ujala National* - Oct 14, 10:54 IST (iso: 2026-10-14T05:24:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/ashtami-or-navami-2026_b4237dff0e8a49bb6613f18e4f0e4e3f.jpeg?w=1200&dpr=1.0 -->
-
-नवरात्रि के अंतिम दिनों में कन्या पूजन का शुभ मुहूर्त निर्धारित है। इस पूजा के बाद व्रती अपने व्रत का पारण कर सकते हैं। Ashtami or Navami 2026: नवरात्रि में जहां देवी की पूजा-पाठ और उपवास का महत्व होता है, तो वहीं कन्या पूजन भी महत्वपूर्ण माना गया है। नवरात्रि के अंतिम दिनों में साधक द्वारा कन्या पूजन किया जाता है, जिसके बाद व्रती अपने व्रत का पारण कर सकते हैं।
-
-### [सीबीआई ने 14वें आरोपी के खिलाफ दाखिल की चार्जशीट, अब इस दिन होगी सुनवाई](https://www.amarujala.com/education/neet-ug-2026-paper-leak-case-cbi-files-chargesheet-against-14th-accused-hearing-on-october-22-2026-10-14)
-*Amar Ujala National* - Oct 14, 10:54 IST (iso: 2026-10-14T05:24:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/23/cbi-books-ex-dgca-flying-training-director-aviation-firms-for-corruption-favouritism_a44998928187ee7c22160d52d58ddc64.jpeg?w=1200&dpr=1.0 -->
-
-सीबीआई ने नीट पेपर लीक मामले में 14वें आरोपी शेषराव बजरंग सूर्यवंशी के खिलाफ चार्जशीट दाखिल की। राउज एवेन्यू अदालत में सुनवाई तय की गई है। नीट यूजी 2026 पेपर लीक मामले में केंद्रीय जांच ब्यूरो ने आरोपी शेषराव बजरंग सूर्यवंशी के खिलाफ राउज एवेन्यू अदालत में आरोपपत्र दाखिल किया है। इस मामले में वह 14वें आरोपी हैं। इससे पहले अन्य 13 आरोपियों के खिलाफ आरोपपत्र दाखिल किए जा चुके हैं।
-
-### [आज दस्तक देने वाली है नई Toyota Glanza फेसलिफ्ट: वेंटिलेटेड सीट्स व ADAS जैसे फीचर्स से होगी लैस](https://www.amarujala.com/automobiles/toyota-glanza-facelift-launching-october-14-new-features-adas-engine-update-expected-2026-10-14)
-*Amar Ujala National* - Oct 14, 10:44 IST (iso: 2026-10-14T05:14:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/tayata-galja_d26ef778802c4214d0e6e94aa79d3b57.jpeg?w=1200&dpr=1.0 -->
-
-टोयोटा ने भारत में ग्लान्जा फेसलिफ्ट लॉन्च की। इसमें वेंटिलेटेड सीट्स और एडवैंस्ड ड्राइवर असिस्टेंस सिस्टम जैसे नए फीचर्स शामिल हैं। यह अपडेट कंपनी की मध्यम श्रेणी की पिकअप और सेडान रेंज को मजबूत करता है। आज दस्तक देने वाली है नई Toyota Glanza फेसलिफ्ट: वेंटिलेटेड सीट्स व ADAS जैसे फीचर्स से होगी लैस, जानें खासियत।
-
-### [कैबिनेट की बैठक में बोनस पर लग सकती है मुहर, जानिए किसे-कितना मिलेगा फायदा](https://www.amarujala.com/business/business-diary/union-cabinet-likely-to-consider-productivity-linked-bonus-for-railway-employees-2026-10-14)
-*Amar Ujala National* - Oct 14, 10:41 IST (iso: 2026-10-14T05:11:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/indian-railway_9b0efe0db47d06b27139b6392ba39236.jpeg?w=1200&dpr=1.0 -->
-
-केंद्रीय कैबिनेट बुधवार को रेलवे कर्मचारियों के लिए उत्पादकता-आधारित बोनस पर विचार करेगा। मौजूदा बोनस संरचना और कर्मचारी संघों की मांगों पर चर्चा होगी। रेलवे बोर्ड ने फर्जी पत्रों के खिलाफ भी चेतावनी जारी की है। केंद्रीय कैबिनेट बुधवार को रेलवे कर्मचारियों के लिए उत्पादकता-आधारित बोनस (पीएलबी) पर विचार कर सकती है। जानिए मौजूदा बोनस राशि, कर्मचारी संघों की मांगें और फर्जी लेटर पर रेलवे बोर्ड की चेतावनी।
-
-### [दिपके बोले- देश में अघोषित इमरजेंसी, आशुतोष और सौरव के खिलाफ इन धाराओं में दर्ज हुआ मुकदमा](https://www.amarujala.com/live/india-news/sir-controversy-uproar-intensifies-over-cec-resignation-cjp-leaders-to-be-produced-before-magistrate-today-2026-10-14)
-*Amar Ujala National* - Oct 14, 10:37 IST (iso: 2026-10-14T05:07:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/sajapa-va-vapakashha-ka-paratharashana_bb97f970a08ed28179ea566992dcb4f4.gif?w=1200&dpr=1.0 -->
-
-सीजेपी ने आशुतोष और सौरव की न्यायिक हिरासत को चुनौती देने की घोषणा की। दिपके ने देश में अघोषित इमरजेंसी की बात कही। दोनों नेताओं को आज मजिस्ट्रेट के सामने पेश किया जाएगा। दिपके बोले- देश में अघोषित इमरजेंसी, आशुतोष और सौरव के खिलाफ इन धाराओं में दर्ज हुआ मुकदमा।
-
-### [क्या 60 की उम्र में पिता बनेंगे सुपरस्टार? अभिनेता ने दिया ये जवाब; करण के शो में बयां किया खालीपन](https://www.amarujala.com/entertainment/bollywood/salman-khan-says-he-wants-to-become-a-father-in-show-koffee-with-karan-know-the-detail-2026-10-14)
-*Amar Ujala National* - Oct 14, 10:32 IST (iso: 2026-10-14T05:02:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/salmana-khana_d5d92fdfe01acce2258aa9aa80c3e85a.jpeg?w=1200&dpr=1.0 -->
-
-सलमान खान जल्द ही कॉफी विद करण नौ में दिखाई देंगे। वह अपनी निजी जिंदगी और 60 की उम्र में पिता बनने के सवाल पर बात करेंगे। शो में उनके खालीपन के अनुभवों पर भी चर्चा होगी। सलमान खान जल्द ही 'कॉफी विद करण 9' में नजर आएंगे। बताया जाता है कि वह यहां अपनी निजी जिंदगी के बारे में बातचीत करेंगे।
-
-### [पंडाल में सबकी नजरें होंगी आप पर, ऐसे करें दुर्गा पूजा पर साड़ी को स्टाइल](https://www.amarujala.com/photo-gallery/fashion/durga-puja-saree-ideas-stunning-traditional-looks-to-try-on-navratri-2026-10-01)
-*Amar Ujala National* - Oct 14, 10:30 IST (iso: 2026-10-14T05:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/durga-puja-styling-tips_9810f42d4cef38351f694fd816b570fd.jpeg?w=1200&dpr=1.0 -->
-
-दुर्गा पूजा के लिए हल्के और आरामदायक फैब्रिक वाली साड़ी चुनना बेहतर विकल्प है। लंबे समय तक पंडाल घूमने के लिए आराम का ध्यान रखना ज़रूरी है। यह स्टाइल और सुविधा दोनों को संतुलित करता है। Durga Puja Saree Ideas: दुर्गा पूजा में साड़ी चुनते समय आराम का भी ध्यान रखें। लंबे समय तक पूजा पंडाल घूमने के लिए हल्की और आरामदायक फैब्रिक वाली साड़ी बेहतर विकल्प हो सकती है।
-
-### [एअर इंडिया की इंटरनेशनल फ्लाइट में बम का अलर्ट: जयपुर में करानी पड़ी इमरजेंसी लैंडिंग, क्या है](https://www.amarujala.com/india-news/air-india-flight-ai-2030-emergency-landing-at-jaipur-airport-after-bomb-threat-and-hijack-alert-2026-10-14)
-*Amar Ujala National* - Oct 14, 10:29 IST (iso: 2026-10-14T04:59:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/eyara-idaya-falita-ai-2030-ka-imarajasa-ldaga_42309e18b9ccbde2cb17eb25af688304.jpeg?w=1200&dpr=1.0 -->
-
-एअर इंडिया की अंतरराष्ट्रीय उड़ान में बम की चेतावनी मिली। विमान को जयपुर में आपातकालीन उतारा गया। यात्रियों और चालक दल की सुरक्षा सुनिश्चित की गई। एअर इंडिया की इंटरनेशनल फ्लाइट में बम का अलर्ट: जयपुर में करानी पड़ी इमरजेंसी लैंडिंग, क्या है मामला?
-
-### [पालघर में 14 मंजिला इमारत में लगी भीषण आग, दम घुटने से दो महिलाओं की मौत; छह अस्पताल में भर्ती](https://www.amarujala.com/india-news/maharashtra-many-dead-after-fire-breaks-out-in-multi-storey-palghar-building-news-in-hindi-updates-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 09:37 IST (iso: 2026-10-14T04:07:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/two-women-dead-after-fire-breaks-out-in-multi-storey-palghar-building_e7267b9b69357dbcc017c18a5431c9db.jpeg?w=1200&dpr=1.0 -->
-
-पालघर में 14 मंजिला इमारत में आग लगी। दम घुटने से दो महिलाओं की मौत हुई। छह घायलों को अस्पताल में भर्ती कराया गया। पालघर में 14 मंजिला इमारत में लगी भीषण आग, दम घुटने से दो महिलाओं की मौत; छह अस्पताल में भर्ती।
-
-### [मौत का ऐसा मंजर कि रो पड़ीं डीएम, एक घर से सात बच्चों के शव उठे, दूसरे से पांच; मची चीत्कार](https://www.amarujala.com/bihar/muzaffarpur/vaishali-raghopur-boat-accident-13-deaths-rampur-shyamchand-dm-varsha-singh-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 09:30 IST (iso: 2026-10-14T04:00:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/vashal-ma-cakha-pakara-oura-matama_1e01f4099331e0ed672a33f95a5615c1.jpeg?w=1200&dpr=1.0 -->
-
-वैशाली जिले में भोजन लेने जा रही नाव ढाब में पलट गई। हादसे में 13 लोगों की मौत हो गई। घटना मंगलवार रात को हुई। बिहार के वैशाली जिले के राघोपुर थाना क्षेत्र की रामपुर श्यामचंद पंचायत में मंगलवार रात भोज खाने जा रहे लोगों से भरी नाव ढाब में पलट गई। मौत का ऐसा मंजर कि रो पड़ीं डीएम, एक घर से सात बच्चों के शव उठे, दूसरे से पांच; मची चीत्कार।
-
-### [आशुतोष रांका-सौरव दास की न्यायिक हिरासत पर बोले अभिजीत दीपके- 'मोदी जी हिम्मत है तो...'](https://www.abplive.com/news/india/cjp-leaders-ashutosh-ranka-and-saurav-das-judicial-custody-abhijeet-dipke-target-govt-3201784)
-*ABP Live (India)* - Oct 14, 09:15 IST (iso: 2026-10-14T03:45:00+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/14/d0d08b4289a008196e39d8ac87fa922017919503416811200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-सीजेपी नेता आशुतोष रांका और सौरव दास को न्यायिक हिरासत में भेजा गया। अभिजीत दीपके ने सरकार पर प्रश्न उठाया। उन्होंने तिरंगा फहराने को गलती नहीं माना। सीजेपी के फाउंडर अभिजीत दीपके ने कहा कि सीजेपी नेता आशुतोष रांका और सौरव दास को 5 दिन की न्यायिक हिरासत में भेज दिया गया है. सरकार पर निशाना साधते हुए दीपके ने कहा कि उनकी क्या गलती है?
-
----
-
-## यूरोप और रूस
-
-### [ब्रिटेन में हिंदू कितने सुरक्षित? हिंदुओं के खिलाफ नफरत के मामले 15% बढ़े, आंकड़ों पर ही उठे सवाल](https://hindi.news18.com/world/britain-anti-hindu-hate-crimes-in-britain-rose-15-percent-home-ministry-data-muslim-christian-jews-sikh-10908311.html)
-*News18 Hindi (World)* - Oct 14, 11:03 IST (iso: 2026-10-14T05:33:06+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/uk-hindu-hate-crime-2026-10-d9409add24a82571c6503993d3ab22d2-1200x800.jpg -->
-
-इंग्लैंड और वेल्स में मार्च 2025 से मार्च 2026 के बीच हिंदुओं के खिलाफ नफरत अपराधों में 15 प्रतिशत की वृद्धि दर्ज हुई। गृह मंत्रालय के आंकड़ों के अनुसार कुल 1,46,825 हेट क्राइम दर्ज हुए। UK Hindu Hate Crime: ब्रिटेन में हिंदुओं को निशाना बनाने वाले नफरत से जुड़े अपराधों में 15% की बढ़ोतरी दर्ज की गई है. गृह मंत्रालय के मुताबिक, मार्च 2025 से मार्च 2026 के बीच इंग्लैंड और वेल्स में 1,46,825 हेट क्राइम दर्ज हुए.
-
-### [मार्को रुबियो के भारत दौरे पर दुनिया की नजर, उज्बेकिस्तान से दिल्ली तक कूटनीति का बड़ा दांव!](https://www.patrika.com/national-news/marco-rubio-india-visit-2026-uzbekistan-c5-plus-1-meeting-20982293)
-*Patrika (World)* - Oct 14, 09:27 IST (iso: 2026-10-14T03:57:51+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Marco-Rubio-India-Visit-202.webp -->
-
-अमेरिका के विदेश मंत्री मार्को रुबियो 17 से 22 अक्टूबर तक एशिया दौरे पर हैं। वे उज्बेकिस्तान और भारत जाएंगे। चर्चा ऊर्जा और व्यापार पर होगी। US India Relations: अमेरिका के विदेश मंत्री मार्को रुबियो का प्रस्तावित एशियाई दौरा ऐसे समय में हो रहा है, जब वैश्विक राजनीति में नए समीकरण बन रहे हैं और ऊर्जा सुरक्षा से लेकर व्यापार तक कई मुद्दे देशों की प्राथमिकता बने हुए हैं।
-
----
-
-## एशिया-प्रशांत
-
-### ['चीन से व्यापार निष्पक्षता और भू-राजनीतिक स्थिरता के साथ ही संभव', और क्या बोले मंत्री?](https://www.amarujala.com/business/business-diary/piyush-goyal-on-india-china-trade-engagement-only-with-fairness-and-stability-2026-10-14)
-*Amar Ujala National* - Oct 14, 11:02 IST (iso: 2026-10-14T05:32:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/07/19/mumbai-efta-will-come-into-effect-from-1st-october-says-piyush-goyal_5fa93c5ae118527bd371899f4b7d87c1.jpeg?w=1200&dpr=1.0 -->
-
-केंद्रीय मंत्री पीयूष गोयल ने कहा कि भारत चीन के साथ व्यापार के लिए तैयार है। शर्त यह है कि व्यापार निष्पक्ष हो और भू-राजनीतिक स्थिति स्थिर बनी रहे। केंद्रीय मंत्री पीयूष गोयल ने कहा कि भारत चीन सहित सभी देशों के साथ व्यापार के लिए तैयार है, बशर्ते शर्तें निष्पक्ष हों और भू-राजनीतिक स्थिति स्थिर रहे। उन्होंने अमेरिका के साथ मजबूत संबंधों और वैश्विक आपूर्ति शृंखलाओं में सहयोग पर भी जोर दिया।
-
-### ['दोस्त कब दुश्मन बन जाएं, पता नहीं': वैष्णव ने बताया भारत का टेक प्लान, क्या भारत बदलेगा टेक्नोलॉजी](https://www.amarujala.com/business/business-diary/india-semiconductor-materials-tech-sovereignty-ashwini-vaishnaw-2026-10-14)
-*Amar Ujala National* - Oct 14, 10:59 IST (iso: 2026-10-14T05:29:05+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/10/cg-news_b70cf6456b2652c8c43277ec5694f43c.jpeg?w=1200&dpr=1.0 -->
-
-आश्विनी वैष्णव ने भारत के टेक्नोलॉजी और अर्धचालक सामग्री के स्वतंत्रता वाले योजना का विवरण दिया। उन्होंने दोस्तों के दुश्मन बनने की संभावना पर भी टिप्पणी की। 'दोस्त कब दुश्मन बन जाएं, पता नहीं': वैष्णव ने बताया भारत का टेक प्लान, क्या भारत बदलेगा टेक्नोलॉजी का खेल?
-
-### [हिंद महासागर से साइबर सुरक्षा तक: भारत-आसियान मिलकर करेंगे रक्षा की नई तैयारी, रक्षा मंत्री ने रखा](https://www.amarujala.com/india-news/from-indian-ocean-to-cybersecurity-india-and-asean-to-jointly-prepare-for-new-defense-initiatives-2026-10-14)
-*Amar Ujala National* - Oct 14, 10:58 IST (iso: 2026-10-14T05:28:13+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/17/rakashhamatara-rajanatha-saha_58bd4281c72d337d8aacc24b9f3294e0.jpeg?w=1200&dpr=1.0 -->
-
-रक्षा मंत्री ने भारत और आसियान के बीच हिंद महासागर सुरक्षा और साइबर रक्षा के लिए नया रोडमैप पेश किया। दोनों पक्ष मिलकर रक्षा तैयारियों को मजबूत करने पर सहमति जताई। हिंद महासागर से साइबर सुरक्षा तक: भारत-आसियान मिलकर करेंगे रक्षा की नई तैयारी, रक्षा मंत्री ने रखा।
-
-### [दिवाली पर महंगी होगी मिठास! चीनी की सप्लाई ठप, 62 रुपये किलो तक पहुंचा भाव; अभी और बढ़ेगा रेट](https://www.amarujala.com/uttar-pradesh/agra/sugar-shortage-hits-agra-ahead-of-festive-season-prices-rise-to-62-per-kg-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 10:49 IST (iso: 2026-10-14T05:19:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/20/mahaga-haii-cana_4e45eef51df8faa7523348cf4f92b4f1.jpeg?w=1200&dpr=1.0 -->
-
-चीनी की सप्लाई सात दिन से ठप रहने से भाव 62 रुपये प्रति किलो तक पहुंच गया। थोक बाजार और हलवाई कारोबारियों में चिंता व्याप्त है। चीनी का बचा सिर्फ तीन दिन का स्टॉक, थोक बाजार से लेकर हलवाई और पेठा कारोबारी तक हलकान, शुगर मिलों की मनमानी और एजेंट्स की सट्टेबाजी से बिगड़े हालात, सात दिन से सप्लाई ठप।
-
-### [यूएन में भारत ने क्यों जताई नाराजगी?: मानवाधिकार रिपोर्ट को लेकर उठाए सवाल, पूछा- एक जैसा पैमाना](https://www.amarujala.com/world/why-india-express-displeasure-un-raised-questions-regarding-human-rights-report-asked-why-not-uniform-standard-2026-10-14)
-*Amar Ujala World* - Oct 14, 10:15 IST (iso: 2026-10-14T04:45:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/anaja-savanprpa-yaena-ma-sathaya-mashana-ka-parathama-sacava_03b4a29532444edbd31ff31017d1b9f0.jpeg?w=1200&dpr=1.0 -->
-
-संयुक्त राष्ट्र में भारत ने मानवाधिकार रिपोर्ट पर नाराजगी जताई। देश ने एक समान मानदंड लागू करने की मांग की। भारत ने मौजूदा रिपोर्ट की पक्षपाती प्रकृति पर सवाल उठाए। यूएन में भारत ने क्यों जताई नाराजगी?: मानवाधिकार रिपोर्ट को लेकर उठाए सवाल, पूछा- एक जैसा पैमाना।
-
-### [भारतीय शेयर बाजार में उतार-चढ़ाव, सेंसेक्स और निफ्टी में मामूली बदलाव](https://www.amarujala.com/business/business-diary/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 09:48 IST (iso: 2026-10-14T04:18:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0 -->
-
-बुधवार को भारतीय शेयर बाजार में उतार-चढ़ाव रहा। सेंसेक्स और निफ्टी में मामूली बदलाव दर्ज हुआ। कच्चे तेल की कीमतें और विदेशी निवेश की निकासी ने बाजार को प्रभावित किया। सेंसेक्स और निफ्टी मामूली बदलाव के साथ कारोबार कर रहे थे। कच्चे तेल की बढ़ती कीमतें और विदेशी निवेश की निकासी ने बाजार की धारणा को प्रभावित किया। भारतीय शेयर बाजार में उतार-चढ़ाव, सेंसेक्स और निफ्टी में मामूली बदलाव।
+**अपडेट:** October 14, 2026 16:13 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [सऊदी अरब की सबसे कमजोर नस पर हमला, तेल कंपनी अरामको के हेडक्वार्टर पर मिसाइलों की बौछार](https://hindi.news18.com/world/middle-east-saudi-arabia-houthi-war-aramco-attack-riyadh-missile-sanaa-oil-donald-trump-pakistan-turkey-live-updates-livenews-10907717.html)
-*News18 Hindi (World)* - Oct 14, 10:53 IST (iso: 2026-10-14T05:23:28+00:00)
+### [होर्मुज स्ट्रेट में समुद्री बारूदी सुरंग से टकराकर डूबा 2,500 कंटेनर ले जा रहा मालवाहक जहाज](https://www.patrika.com/world-news/container-ship-sinks-after-striking-naval-mine-in-strait-of-hormuz-20983451)
+*Patrika (World)* - Oct 14, 15:52 IST (iso: 2026-10-14T10:22:26+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/ship-accident-in-hormuz.webp -->
+
+होर्मुज स्ट्रेट में समुद्री बारूदी सुरंग से टकराकर एक 2,500 कंटेनर ले जा रहा मालवाहक जहाज डूब गया। ईरान ने जलमार्ग बंद कर रखा है, जबकि अमेरिका नेवी का दावा है कि शिपिंग सामान्य है। दोनों देशों के बीच नियंत्रण पर विवाद जारी है। अमेरिका का कहना है कि उसकी नेवी का इस रणनीतिक जलमार्ग पर पूरा कंट्रोल है और सामान की सामान्य शिपिंग व्यवस्था भी फिर से शुरू कर दी गई है, तो वहीँ ईरान का कहना होर्मुज स्ट्रेट पर हमेशा से ईरान का ही कंट्रोल रहा है और आगे भी ऐसा ही रहेगा।
+
+### [गाजा युद्ध से पहले इजराइल में क्या कर रहे थे इजिप्ट के खुफिया प्रमुख? नेतन्याहू ने इस पर क्यों उठाए](https://hindi.news18.com/world/middle-east-netanyahu-on-egypt-intel-chief-abbas-kamel-secret-israel-visit-before-hamas-attack-10909241.html)
+*News18 Hindi (World)* - Oct 14, 15:40 IST (iso: 2026-10-14T10:10:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/benjamin-netanyahui-2026-07-d814fb2f7ba66615dd2f29dcc920c9d6-1200x800.jpg -->
+
+इजराइल के प्रधानमंत्री नेतन्याहू ने मिस्र के खुफिया प्रमुख कामेल से मुलाकात की बात नकार दी। उन्होंने कहा कि कामेल 50 मिनट इजराइल में रहे, लेकिन किसी अधिकारी से नहीं मिले। नेतन्याहू ने इस मुलाकात के विवरण से इनकार किया है। इजराइल के पीएम बेंजामिन नेतन्याहू ने मिस्र के खुफिया प्रमुख से मुलाकात की बात को फिर नकारा है. उन्होंने कहा है कि खुफया प्रमुख कामेल 50 मिनट तक इजराइल में रहे थे, लेकिन वे यहां क्या कर रहे थे.
+
+### [सऊदी अरब अभी भी सुरक्षित नहीं, रियाद पर फिर दागी गई मिसाइल](https://hindi.news18.com/world/middle-east-saudi-arabia-houthi-war-aramco-attack-riyadh-missile-sanaa-oil-donald-trump-pakistan-turkey-live-updates-livenews-10907717.html)
+*News18 Hindi (World)* - Oct 14, 15:16 IST (iso: 2026-10-14T09:46:18+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/saudi-arabia-live-2026-10-2aa7a7837b7c56c7d7ef248a3bee6b46-1200x800.jpg -->
 
 Houthi militants fired a volley of missiles at an Aramco administrative building in Dhahran, setting the structure ablaze. Saudi air defence intercepted missiles aimed at Riyadh, and the ministry reported no deaths or injuries. Houthi Attack Saudi Arabia: सऊदी अरब के पूर्वी शहर धहरान में सरकारी तेल कंपनी अरामको के एक प्रशासनिक भवन पर हमले के बाद आग लग गई.
+
+### [अमेरिका चाहता है ईरान कर दे सरेंडर और सौंप दे अपना तेल, ईरानी अधिकारी का दावा](https://www.patrika.com/world-news/us-wants-iran-to-surrender-and-seize-oil-iranian-official-claims-20983342)
+*Patrika (World)* - Oct 14, 14:56 IST (iso: 2026-10-14T09:26:03+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/iranian-oil.webp -->
+
+ईरानी अधिकारियों का दावा है कि अमेरिका ईरान से सरेंडर और तेल सौंपने की मांग कर रहा है। दोनों देशों के बीच युद्ध का स्थायी अंत नहीं हुआ है। मध्यस्थ जल्द समझौते के लिए प्रयास कर रहे हैं। युद्ध का अभी भी स्थायी अंत नहीं हुआ है। कुछ मीडिया रिपोर्ट्स के अनुसार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) देश में मिडटर्म चुनाव के बाद ईरान पर फिर हमला करने का आदेश दे सकते हैं।
+
+### [Saudi Airport flight Cancellations Full List: सऊदी अरब में हवाई संकट: रियाद एयरपोर्ट बंद, जेद्दा](https://www.patrika.com/world-news/saudi-airport-flight-cancellations-full-list-14-oct-2026-riyadh-airport-jeddah-flights-cancelled-20983276)
+*Patrika (World)* - Oct 14, 14:43 IST (iso: 2026-10-14T09:13:17+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/flight-cancellation.webp -->
+
+सऊदी अरब में हूती हमलों के बाद रियाद, जेद्दा, दमाम और मदीना के हवाई अड्डों पर उड़ानें रद्द हुईं। इंडिगो, एयर इंडिया और अकासा की 17 अक्टूबर तक की सभी उड़ानें प्रभावित हैं। सऊदी अरब के कई एयरपोर्ट हूतियों के मिसाइल और ड्रोन हमलों का शिकार बने हैं। ऐसे में भारत से सऊदी अरब जाने वाली इंडिगो, एयर इंडिया और अकासा एयर की उड़ानें 17 अक्टूबर तक के लिए रद्द कर दी गई है।
+
+### [OpenAI के ऑफिस में मिला खुफिया रिकॉर्डिंग डिवाइस, FBI ने सऊदी मूल के इंजीनियर को किया अरेस्ट, कंपनी](https://www.patrika.com/world-news/openai-hidden-recording-device-fbi-arrested-saudi-engineer-20983180)
+*Patrika (World)* - Oct 14, 14:11 IST (iso: 2026-10-14T08:41:01+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/openAI_d8de68.webp -->
+
+ओपनएआई के सैन फ्रांसिस्को कार्यालय में छिपा रिकॉर्डिंग डिवाइस मिला। एफबीआई ने 35 वर्षीय सऊदी इंजीनियर अब्दुल रहमान अलफोजान को गिरफ्तार किया। कंपनी ने इसे कॉर्पोरेट जासूसी का मामला बताया। OpenAI employee arrested: आर्टिफिशियल इंटेलिजेंस (AI) सेक्टर की बड़ी कंपनी OpenAI के सैन फ्रांसिस्को हेडक्वार्टर में कॉर्पोरेट जासूसी का एक मामला सामने आया है। कंपनी के एक कॉन्फ्रेंस रूम में एक एडवांस्ड इलेक्ट्रॉनिक रिकॉर्डिंग डिवाइस मिला, जिसे गोपनीय बातचीत सुनने के लिए छिपाकर रखा गया था।
 
 ### [टॉयलेट पेपर में जासूसी का सामान, टीवी के पीछे रिकॉर्डर, OpenAI के अंदर क्या चल रहा था? सऊदी](https://hindi.news18.com/world/america-openai-saudi-arabian-national-engineer-arrested-after-a-hidden-recorder-found-in-a-conference-room-10908046.html)
 *News18 Hindi (World)* - Oct 14, 10:15 IST (iso: 2026-10-14T04:45:22+00:00)
@@ -167,6 +53,124 @@ Houthi militants fired a volley of missiles at an Aramco administrative building
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/netanyahu_d9b763.webp -->
 
 नेतन्याहू ने माना कि हमास हमले से पहले मिस्र के खुफिया प्रमुख इजरायल आए थे। उन्होंने सुरक्षा एजेंसियों पर चूक का आरोप लगाया। यह बयान आगामी विधायी चुनावों के संदर्भ में आया है। Abbas Kamel’s visit to Israel: इजरायल में अक्टूबर महीने के आखिरी हफ्ते में विधायी चुनाव होने हैं। बीते दो दशक से इजरायली सत्ता में धुरी बने बेंजामिन नेतन्याहू अपने सियासी सफर में अब तक के सबसे मुश्किल दौर का सामना कर रहे हैं।
+
+### [सऊदी पर हूती हमलों से भड़के ट्रंप, बोले- विद्रोही बहुत बुरा बर्ताव कर रहे, चुनाव के बाद भी नहीं](https://www.patrika.com/world-news/donald-trump-warning-houthis-saudi-arabia-iran-attacks-us-midterm-20982338)
+*Patrika (World)* - Oct 14, 09:08 IST (iso: 2026-10-14T03:38:50+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/trump-in-court.webp -->
+
+ट्रंप ने हूतियों के सऊदी हमलों पर नाराजगी जताई। उन्होंने ईरान के इशारे पर काम करने का आरोप लगाया। ट्रंप ने तेल की कीमतों पर असर का भी जिक्र किया। Donald Trump warns Houthis: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने यमन के हूती विद्रोहियों द्वारा सऊदी अरब के हवाई अड्डों और आम नागरिकों के रिहायशी इलाकों पर किए गए नए हमलों पर नाराजगी जताई है।
+
+---
+
+## यूरोप और रूस
+
+### [ब्रिटेन हो जाएगा इस्लामिक देश? कभी स्मिथ-जोंस नाम का था दबदबा, अब खान-अहमद-अली टॉप पर](https://hindi.news18.com/world/britain-british-baby-surname-trends-shifted-in-30-years-with-khan-ahmed-ali-singh-and-patel-uk-islamic-country-10908903.html)
+*News18 Hindi (World)* - Oct 14, 15:15 IST (iso: 2026-10-14T09:45:19+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/baby-2026-10-ea90c365859dfd31252fffb39cd1446e-1200x800.jpg -->
+
+ब्रिटेन में नवजात बच्चों के उपनामों की लोकप्रियता में पिछले 30 वर्षों में बदलाव आया है। 2025 की सूची में खान, अहमद और अली जैसे नाम शीर्ष पर हैं। जोंस जैसी पारंपरिक पहचान की लोकप्रियता 43 प्रतिशत घटी है। ब्रिटेन में नवजात बच्चों के उपनामों की लोकप्रियता में पिछले 30 साल में बड़ा बदलाव आया है. 1996 में स्मिथ, जोंस और विलियम्स जैसे पारंपरिक सरनेम टॉप पर थे, लेकिन 2025 की लिस्ट में खान, अहमद, अली, सिंह, पटेल और कौर भी शामिल हैं.
+
+### [अमेरिका-रूस समझौते डीजल समझौते पर यूरोप में खलबली, इटली की पीएम मेलोनी ने कहा- इस डील से यूक्रेन](https://www.patrika.com/world-news/america-russia-diesel-deal-europe-tension-giorgia-meloni-ukraine-war-20983369)
+*Patrika (World)* - Oct 14, 14:58 IST (iso: 2026-10-14T09:28:14+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/meloninews.webp -->
+
+अमेरिका और रूस के बीच डीजल आपूर्ति समझौते ने यूरोप में चिंता बढ़ा दी है। इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने इस डील को खतरनाक फैसला बताया। उन्होंने सभी देशों को इस संबंध में सावधान रहने की चेतावनी दी है। America Russia diesel agreement: अमेरिका और रूस के बीच डीजल समझौते से यूरोप की टेंशन बढ़ गई है। इस बीच, इटली की प्रधानमंत्री जॉर्जिया मेलोनी ने सभी देशों को सावधान किया है।
+
+### ['शबीर को वापस लो, वरना भुगतो', पाकिस्तान पर भड़का UK का नेता, वीजा-फ्लाइट बैन की धमकी](https://hindi.news18.com/world/britain-nigel-farage-pakistan-shabir-ahmed-return-warn-visa-flight-ban-deportation-grooming-gang-10908739.html)
+*News18 Hindi (World)* - Oct 14, 13:11 IST (iso: 2026-10-14T07:41:11+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Nigel-Farage-2026-10-875faa7958330249ae417a2fb234aed4-1200x800.jpg -->
+
+ब्रिटेन के निगेल फराज ने पाकिस्तान से शबीर अहमद की वापसी की मांग की। उन्होंने वीजा बैन और संपत्ति फ्रीज की धमकी दी। यह मामला रोचडेल चाइल्ड ग्रूमिंग गैंग के पूर्व सरगना की रिहाई से जुड़ा है। UK-Pakistan Tension: ब्रिटेन में रोचडेल चाइल्ड ग्रूमिंग गैंग के पूर्व सरगना शबीर अहमद की रिहाई को लेकर विवाद बढ़ गया है. Reform UK के नेता निगेल फराज ने पाकिस्तान से उसे वापस लेने की मांग की है.
+
+### [जश्न US नेवी का, फोटो भारत-रूस के जहाजों की, 251वें बर्थडे पर अमेरिकी नेताओं की इंटरनेशनल बेइज्जती](https://hindi.news18.com/world/america-us-politicians-mistakenly-used-indian-and-russian-warship-photos-to-mark-us-navy-251st-birthday-10908566.html)
+*News18 Hindi (World)* - Oct 14, 12:32 IST (iso: 2026-10-14T07:02:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/us-navy-ships-2026-10-5db4bffc8971419729d32254709bd421-1200x800.jpg -->
+
+अमेरिकी नेवी के 251वें जन्मदिन पर कई नेताओं ने गलती से भारत और रूस के जहाजों की तस्वीरें पोस्ट कीं। जॉर्जिया के गवर्नर ब्रायन केम्प ने भारतीय फ्रिगेट की तस्वीर साझा की। पत्रकार डेव ब्राउन ने इन गलतियों को उजागर किया। अमेरिकी नेवी के 251वें जन्मदिन पर कई अमेरिकी नेताओं और अधिकारियों से बड़ी गलती हो गई. उन्होंने नौसेना को बधाई देने के लिए भारत और रूस के युद्धपोतों की तस्वीरें शेयर कर दीं.
+
+### [अगले हफ्ते भारत आ रहे अमेरिकी विदेश मंत्री मार्को रुबियो, मुंबई और जामनगर का करेंगे दौरा, ऊर्जा](https://hindi.news18.com/news/nation/us-secretary-of-state-marco-rubio-visiting-india-s-mumbai-and-jamnagar-next-week-hope-for-energy-cooperation-ws-l-10908617.html)
+*News18 Hindi (World)* - Oct 14, 12:24 IST (iso: 2026-10-14T06:54:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/3-45-2026-05-f020c389f86dc6bc92f1cf3ff454778e-1200x800.jpg -->
+
+अमेरिकी विदेश मंत्री मार्को रुबियो अगले हफ्ते मुंबई और जामनगर का दौरा करेंगे। वे रणनीतिक साझेदारी और ऊर्जा सहयोग पर चर्चा करेंगे। इस दौरान रूसी ऊर्जा खरीदारों पर जुर्माने की समय सीमा नजदीक है। अमेरिकी विदेश मंत्री मार्को रुबियो अगले हफ्ते मुंबई और जामनगर के दौरे पर आ रहे हैं. इस दौरान रणनीतिक साझेदारी और ऊर्जा सहयोग पर चर्चा होने की उम्मीद है.
+
+### [प्लेन से आया हाईजैको का सिग्नल, जर्मनी में मची खलबली, फाइटर जेट ने विमान को घेरा](https://hindi.news18.com/world/europe-corendon-airlines-flight-accidentally-sent-a-hijack-alert-fighter-jets-scramble-10908437.html)
+*News18 Hindi (World)* - Oct 14, 11:55 IST (iso: 2026-10-14T06:25:33+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/jet-news-2026-10-bd22e3e8556bd3e5489141cd792353bf-1200x800.jpg -->
+
+कोरेन्डन एयरलाइंस की फ्लाइट ने ग्रीस से जर्मनी जाते समय गलती से हाईजैक अलर्ट भेजा। रेडियो संपर्क न होने पर क्रोएशिया और जर्मनी ने फाइटर जेट उड़ाए। नूर्नबर्ग एयरपोर्ट पर उड़ानें रोक दी गईं। ग्रीस के कोर्फू से जर्मनी के नूर्नबर्ग जा रही कोरेन्डन एयरलाइंस की फ्लाइट ने मंगलवार को गलती से हाईजैक अलर्ट भेज दिया. विमान से रेडियो संपर्क नहीं हो पाने के कारण कई यूरोपीय देशों में अलर्ट जारी हुआ.
+
+### [ब्रिटेन में हिंदू कितने सुरक्षित? हिंदुओं के खिलाफ नफरत के मामले 15% बढ़े, आंकड़ों पर ही उठे सवाल](https://hindi.news18.com/world/britain-anti-hindu-hate-crimes-in-britain-rose-15-percent-home-ministry-data-muslim-christian-jews-sikh-10908311.html)
+*News18 Hindi (World)* - Oct 14, 11:03 IST (iso: 2026-10-14T05:33:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/uk-hindu-hate-crime-2026-10-d9409add24a82571c6503993d3ab22d2-1200x800.jpg -->
+
+इंग्लैंड और वेल्स में मार्च 2025 से मार्च 2026 के बीच हिंदुओं के खिलाफ नफरत अपराधों में 15 प्रतिशत की वृद्धि दर्ज हुई। गृह मंत्रालय के आंकड़ों के अनुसार कुल 1,46,825 हेट क्राइम दर्ज हुए। UK Hindu Hate Crime: ब्रिटेन में हिंदुओं को निशाना बनाने वाले नफरत से जुड़े अपराधों में 15% की बढ़ोतरी दर्ज की गई है. गृह मंत्रालय के मुताबिक, मार्च 2025 से मार्च 2026 के बीच इंग्लैंड और वेल्स में 1,46,825 हेट क्राइम दर्ज हुए.
+
+### [रूस में जापानी पत्रकार युकी इमाई गिरफ्तार, सैन्य ठिकानों की जासूसी का आरोप, हो सकती है 20 साल की जेल](https://www.patrika.com/world-news/russia-arrested-japanese-journalist-imai-yuki-espionage-sakhalin-20982566)
+*Patrika (World)* - Oct 14, 10:54 IST (iso: 2026-10-14T05:24:58+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/japnese-journalist-arrested.webp -->
+
+रूस की FSB ने सखालिन में जापानी पत्रकार युकी इमाई को गिरफ्तार किया। उन्हें जासूसी का आरोप दिया गया है। इमाई को 20 साल की सज़ा हो सकती है। Russia arrested Japanese journalist: रूस की फ़ेडरल सिक्योरिटी सर्विस (FSB) ने सखालिन द्वीप पर जासूसी के आरोप में जापानी अखबार होक्काइडो शिंबुन के 34 वर्षीय पत्रकार युकी इमाई को गिरफ्तार किया है।
+
+### [मार्को रुबियो के भारत दौरे पर दुनिया की नजर, उज्बेकिस्तान से दिल्ली तक कूटनीति का बड़ा दांव!](https://www.patrika.com/national-news/marco-rubio-india-visit-2026-uzbekistan-c5-plus-1-meeting-20982293)
+*Patrika (World)* - Oct 14, 09:27 IST (iso: 2026-10-14T03:57:51+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Marco-Rubio-India-Visit-202.webp -->
+
+अमेरिका के विदेश मंत्री मार्को रुबियो 17 से 22 अक्टूबर तक एशिया दौरे पर हैं। वे उज्बेकिस्तान और भारत जाएंगे। चर्चा ऊर्जा और व्यापार पर होगी। US India Relations: अमेरिका के विदेश मंत्री मार्को रुबियो का प्रस्तावित एशियाई दौरा ऐसे समय में हो रहा है, जब वैश्विक राजनीति में नए समीकरण बन रहे हैं और ऊर्जा सुरक्षा से लेकर व्यापार तक कई मुद्दे देशों की प्राथमिकता बने हुए हैं।
+
+---
+
+## एशिया-प्रशांत
+
+### ['दिपके और CJP को अमेरिका से मिल रहा फंड': अमेरिकी गायिका मिलबेन का आरोप](https://hindi.news18.com/world/america-singer-mary-millben-alleges-us-donors-funding-cjp-appeals-to-indian-youth-10908875.html)
+*News18 Hindi (World)* - Oct 14, 13:46 IST (iso: 2026-10-14T08:16:35+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/US-Singer-2026-10-c69a859f9be0994ad7f4e53a6485ce78-1200x800.jpg -->
+
+अमेरिकी गायिका मैरी मिलबेन ने अभिजीत दिपके और सीजेपी पर अमेरिकी डोनर्स से फंडिंग लेने का आरोप लगाया। उन्होंने दावा किया कि यह आंदोलन मोदी सरकार को खतरा मानने वाले समूहों द्वारा संचालित है। अमेरिकी गायिका मैरी मिलबेन ने कॉकरोच जनता पार्टी (CJP) और उसके संस्थापक अभिजीत दिपके पर गंभीर आरोप लगाए हैं. उन्होंने दावा किया कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व को खतरा मानने वाले कुछ अमेरिकी डोनर्स इस आंदोलन को फंडिंग दे रहे हैं.
+
+### [खैबर पख्तूनख्वा में इमरजेंसी पर घिरी शहबाज सरकार, इमरान की PTI ने खोला मोर्चा, अब कोर्ट में होगा](https://hindi.news18.com/world/pakistan-khyber-pakhtunkhwa-governor-rule-imran-khan-pti-announce-to-challenge-in-court-shehbaz-sharif-10908779.html)
+*News18 Hindi (World)* - Oct 14, 13:36 IST (iso: 2026-10-14T08:06:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-imran-khan-2026-10-67fe211bba7d1a69e4ac5ac3b46e2eb5-1200x800.jpg -->
+
+पाकिस्तान के खैबर पख्तूनख्वा में गवर्नर रूल लागू होने पर पीटीआई ने अदालत जाने का ऐलान किया। इमरान खान की पार्टी ने इसे प्रांतीय स्वायत्तता पर हमला बताया। शहबाज शरीफ सरकार ने सुरक्षा स्थिति का हवाला दिया। पाकिस्तान के खैबर पख्तूनख्वा प्रांत में गवर्नर रूल लागू होने के बाद सियासी तनाव बढ़ गया है. प्रधानमंत्री शहबाज शरीफ की सरकार ने आतंकवाद और बिगड़ते सुरक्षा हालात का हवाला देकर यह फैसला लिया.
+
+### ['सीजेपी को अमेरिका से मिल रही फंडिंग': मैरी मिलबेन का आरोप, कहा- भारत में अशांति फैलाने की रची जा](https://www.amarujala.com/world/cjp-receiving-funding-from-the-us-mary-millben-alleges-a-conspiracy-to-incite-unrest-in-india-2026-10-14)
+*Amar Ujala World* - Oct 14, 11:36 IST (iso: 2026-10-14T06:06:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/mara-malbna_fe934fa1e485a99ce2887c94cc0fc4d7.jpeg?w=1200&dpr=1.0 -->
+
+मैरी मिलबेन ने आरोप लगाया कि अमेरिका सीजेपी को फंडिंग दे रहा है। उनका दावा है कि इसका उद्देश्य भारत में अशांति फैलाना है। 'सीजेपी को अमेरिका से मिल रही फंडिंग': मैरी मिलबेन का आरोप, कहा- भारत में अशांति फैलाने की रची जा।
+
+### [यूएन में भारत ने क्यों जताई नाराजगी?: मानवाधिकार रिपोर्ट को लेकर उठाए सवाल, पूछा- एक जैसा पैमाना](https://www.amarujala.com/world/why-india-express-displeasure-un-raised-questions-regarding-human-rights-report-asked-why-not-uniform-standard-2026-10-14)
+*Amar Ujala World* - Oct 14, 10:15 IST (iso: 2026-10-14T04:45:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/anaja-savanprpa-yaena-ma-sathaya-mashana-ka-parathama-sacava_03b4a29532444edbd31ff31017d1b9f0.jpeg?w=1200&dpr=1.0 -->
+
+संयुक्त राष्ट्र में भारत ने मानवाधिकार रिपोर्ट पर नाराजगी जताई। देश ने एक समान मानदंड लागू करने की मांग की। भारत ने मौजूदा रिपोर्ट की पक्षपाती प्रकृति पर सवाल उठाए। यूएन में भारत ने क्यों जताई नाराजगी?: मानवाधिकार रिपोर्ट को लेकर उठाए सवाल, पूछा- एक जैसा पैमाना।
+
+---
+
+## दुनिया
+
+### [‘हेरा फेरी 3’ का इंतजार कर रहे फैंस के लिए बुरी खबर, निर्देशक ने दिया बड़ा बयान; जानें क्या बोले](https://www.amarujala.com/entertainment/bollywood/priyadarshan-revealed-why-he-said-no-bhagam-bhag-2-and-hera-pheri-3-2026-10-14)
+*Amar Ujala Breaking* - Oct 14, 12:36 IST (iso: 2026-10-14T07:06:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/parayatharashana_148fde43f33b174e97f078d9978c7175.jpeg?w=1200&dpr=1.0 -->
+
+प्रियदर्शन ने हाल ही में 'हैवान' के फ्लॉप होने के बाद इंटरव्यू दिया। उन्होंने अपने आगामी प्रोजेक्ट्स के बारे में जानकारी साझा की। दर्शक अब 'हेरा फेरी 3' का इंतजार कर रहे हैं। प्रियदर्शन की कॉमेडी फिल्मों को दर्शक सिनेमाघरों में खूब प्यार देते हैं। हालांकि, निर्देशक की हालिया रिलीज फिल्म 'हैवान' बुरी तरह फ्लॉप रही। अब एक इंटरव्यू में प्रियदर्शन ने अपने आगामी प्रोजेक्ट्स के बारे में बात की।
+
+### [आशुतोष रांका-सौरव दास की न्यायिक हिरासत पर बोले अभिजीत दीपके- 'मोदी जी हिम्मत है तो...'](https://www.abplive.com/news/india/cjp-leaders-ashutosh-ranka-and-saurav-das-judicial-custody-abhijeet-dipke-target-govt-3201784)
+*ABP Live (India)* - Oct 14, 09:15 IST (iso: 2026-10-14T03:45:00+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/14/d0d08b4289a008196e39d8ac87fa922017919503416811200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+सीजेपी नेता आशुतोष रांका और सौरव दास को न्यायिक हिरासत में भेजा गया। अभिजीत दीपके ने सरकार पर प्रश्न उठाया। उन्होंने तिरंगा फहराने को गलती नहीं माना। सीजेपी के फाउंडर अभिजीत दीपके ने कहा कि सीजेपी नेता आशुतोष रांका और सौरव दास को 5 दिन की न्यायिक हिरासत में भेज दिया गया है. सरकार पर निशाना साधते हुए दीपके ने कहा कि उनकी क्या गलती है?
+
+---
+
+## अमेरिका
+
+### [ग्रीनलैंड में तेल-गैस के खनन की तैयारी, डोनाल्ड ट्रंप बोले- दुनिया में सबसे ज्यादा तेल यहीं](https://www.patrika.com/world-news/donald-trump-announced-greenland-oil-gas-mineral-exploration-20982841)
+*Patrika (World)* - Oct 14, 12:24 IST (iso: 2026-10-14T06:54:09+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump.IANS_.webp -->
+
+डोनाल्ड ट्रंप ने ग्रीनलैंड में तेल और गैस की खोज शुरू होने की घोषणा की। उन्होंने दावा किया कि यहाँ विश्व का सबसे बड़ा कच्चा तेल भंडार है। विशेषज्ञों के हवाले से यह जानकारी दी गई। Donald trump on Greenland: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि ग्रीनलैंड में बड़े पैमाने पर तेल, प्राकृतिक गैस और खनिज संसाधनों की खोज और उन्हें निकालने का काम शुरू होने वाला है।
 
 ---
 
