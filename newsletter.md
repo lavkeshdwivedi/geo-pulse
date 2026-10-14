@@ -1,6 +1,56 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 15, 2026 01:18 IST
+**Updated:** October 15, 2026 04:16 IST
+
+---
+
+## Asia-Pacific
+
+### [They lost loved ones in Nepal’s flood but found a way through grief to help others](https://www.channelnewsasia.com/cna-insider/insider/nepal-flood-wake-china-himalayas-natural-disaster-loss-resilience-6459271)
+*Channel News Asia* - Oct 15, 03:30 IST (iso: 2026-10-14T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--6RlSJdYl--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/nepal_-_the_flood_wake_textless.00_45_40_05.still055.jpg?itok=gJj0hl6j -->
+
+Survivors of Nepal's floods are channeling personal loss into community aid. A Chinese man searches for his missing wife while volunteers assist displaced children. The disaster forced residents to confront tragedy while supporting others. From a Chinese man searching for his wife to volunteers helping displaced children, people have had to confront personal tragedy even as many of them support others devastated by the disaster.
+
+### [Why a remote Philippine island chain near Taiwan is drawing China’s attention](https://www.channelnewsasia.com/east-asia/batanes-philippines-china-taiwan-maritime-tensions-6458206)
+*Channel News Asia* - Oct 15, 03:30 IST (iso: 2026-10-14T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--5oMIL6rY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/000_33lr3kd.jpg?itok=-1guvtR7 -->
+
+China is increasing attention on Batanes, the Philippines' northernmost province. The island chain sits less than 200km south of Taiwan. Manila's deepening defence ties with the US and Japan heighten strategic concerns in the region. Less than 200km south of Taiwan, Batanes is the Philippines' northernmost province. Growing maritime tensions with China and Manila's deepening defence ties with the US and Japan are drawing fresh attention to the strategically located island chain.
+
+### [‘Enormous potential’ for India-Canada ties amidst global uncertainty: Canadian Foreign Minister](https://www.thehindu.com/news/national/pm-modi-meets-canadian-minister-anita-anand-discussions/article71584510.ece)
+*The Hindu (International)* - Oct 14, 22:16 IST (iso: 2026-10-14T16:46:28+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/3w5yqi/article71584546.ece/alternates/LANDSCAPE_1200/HUl8po4a8AAV-kE.jpg -->
+
+Canadian Foreign Minister Anita Anand visited India to discuss bilateral ties. She met with S. Jaishankar and Piyush Goyal. Anand indicated Prime Minister Modi would visit Canada later in December to strengthen diplomatic relations. Minister Anita Anand is in India along with Minister of International Trade Maninder Sidhu for engagements with External Affairs Minister S. Jaishankar and Commerce Minister Piyush Goyal; the Canadian Minister indicated that PM Modi would visit Canada later in December.
+
+### [US Navy’s SSN(X) won’t arrive for years as China closes sub gap](https://asiatimes.com/2026/10/us-navys-ssnx-wont-arrive-for-years-as-china-closes-sub-gap/)
+*Asia Times* - Oct 14, 09:34 IST (iso: 2026-10-14T04:04:27+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/US-Submarines-Shipyards-copy.jpeg -->
+
+The US Navy issued a sources-sought notice for its next-generation SSN(X) attack submarine. This move addresses the aging fleet while China closes the undersea gap. Chinese shipyards now offer superior capacity and acoustic stealth, challenging American naval dominance in the region. As the US Navy lays the groundwork for its next-generation SSN(X) attack submarine to replace its aging fleet, the US’s longstanding undersea supremacy faces an intensifying test against China’s rapid naval buildup, advancing acoustic stealth and superior shipyard capacity.
+
+### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
+*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
+<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
+
+Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
+
+### [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)
+*The Guardian* - Oct 13, 22:04 IST (iso: 2026-10-13T16:34:13+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a933a93c8a95bbdec93acd09d70d5a41 -->
+
+An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bangka Belitung province. Hundreds of residents evacuated as shifting winds drove the blaze toward settlements. The incident adds to the country’s ongoing battle with devastating blazes and haze. Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlementA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitun.
+
+---
+
+## World
+
+### [What happens when the government disagrees with the courts?](https://www.channelnewsasia.com/singapore/government-parliament-judiciary-courts-legislative-changes-disagree-6458426)
+*Channel News Asia* - Oct 15, 03:30 IST (iso: 2026-10-14T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--w6czrYGn--/c_crop,h_1107,w_1969,x_1,y_149/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/high-court-parliament-house.jpg?itok=O8JS07be -->
+
+Singapore's government proposed legal changes after a High Court overturned deterrent sentences for four scam mules. Lawmakers are reviewing constitutional limits on judicial power. The move follows a pattern of executive responses to court rulings. A recent High Court ruling that overturned deterrent sentences for four young scam mules prompted the government to propose changes to the law. CNA looks at similar past cases, how lawmakers responded and the constitutional limits involved.
 
 ---
 
@@ -66,7 +116,7 @@ Demis Hassabis described recent AI security breaches as early warning shots. He 
 
 ### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
 *UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image560x340cropped.jpg -->
 
 The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
 
@@ -110,46 +160,6 @@ Ethiopia and Eritrea are edging closer to direct conflict, threatening stability
 
 Guinea-Bissau approved a controversial trial to withhold hepatitis B vaccines from thousands of newborns. Danish researchers will conduct the study. It aligns with the vaccine vision of US Health and Human Services Secretary Robert F. Kennedy Jr. Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime.
 
-### [How Close Are Ethiopia and Eritrea to All-out War?](https://www.crisisgroup.org/pod/africa/horn-africa/how-close-are-ethiopia-and-eritrea-all-out-war)
-*International Crisis Group* - Oct 09, 21:11 IST (iso: 2026-10-09T15:41:00+00:00)
-<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group’s Alan Boswell discussed the fighting in Ethiopia’s Tigray region on Hold Your Fire. He analyzed the risk of direct war between Ethiopia and Eritrea. The conversation covered factors that might prevent further escalation in the Horn of Africa. In this episode of Hold Your Fire!, Richard is joined by Crisis Group’s Horn of Africa director, Alan Boswell, to discuss the fighting in Ethiopia’s Tigray region, the risk of direct war between Ethiopia and Eritrea and what may prevent further escalation.
-
-### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
-*International Crisis Group* - Oct 09, 05:30 IST (iso: 2026-10-09T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group’s On Our Radar weekly scan highlights global conflicts and crises. Field experts explain why specific hotspots matter or what actions are needed. The report covers both under-reported trends and major developments. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
-
----
-
-## Asia-Pacific
-
-### [US Navy’s SSN(X) won’t arrive for years as China closes sub gap](https://asiatimes.com/2026/10/us-navys-ssnx-wont-arrive-for-years-as-china-closes-sub-gap/)
-*Asia Times* - Oct 14, 09:34 IST (iso: 2026-10-14T04:04:27+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/US-Submarines-Shipyards-copy.jpeg -->
-
-The US Navy issued a sources-sought notice for its next-generation SSN(X) attack submarine. This move addresses the aging fleet while China closes the undersea gap. Chinese shipyards now offer superior capacity and acoustic stealth, challenging American naval dominance in the region. As the US Navy lays the groundwork for its next-generation SSN(X) attack submarine to replace its aging fleet, the US’s longstanding undersea supremacy faces an intensifying test against China’s rapid naval buildup, advancing acoustic stealth and superior shipyard capacity.
-
-### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
-*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
-<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
-
-Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
-
-### [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)
-*The Guardian* - Oct 13, 22:04 IST (iso: 2026-10-13T16:34:13+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a933a93c8a95bbdec93acd09d70d5a41 -->
-
-An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bangka Belitung province. Hundreds of residents evacuated as shifting winds drove the blaze toward settlements. The incident adds to the country’s ongoing battle with devastating blazes and haze. Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlementA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitun.
-
-### [Toward a Thaw in the Cambodia-Thailand Border Conflict](https://www.crisisgroup.org/rpt/asia-pacific/thailand-cambodia/359-toward-thaw-cambodia-thailand-border-conflict)
-*International Crisis Group* - Oct 09, 05:30 IST (iso: 2026-10-09T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/19525920/pexels-photo-19525920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Hostilities between Cambodia and Thailand ceased in late 2025 after two rounds of combat. The truce now faces growing strain. To prevent further war, both nations should restore normal diplomatic ties. They must also resume work on demarcating their shared border. Hostilities between Cambodia and Thailand ceased in late 2025, after two rounds of combat along the frontier. But the truce is under growing strain.
-
 ---
 
 ## Americas
@@ -165,12 +175,6 @@ António Guterres proposed a $3.3 billion budget for 2027. This represents a $40
 <!-- image: https://i.guim.co.uk/img/media/57e7f305b45a8239d1cf708aecf66c3d5870ebd9/265_0_3242_2593/master/3242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd9e8ce19424589c213f8e9b8b991551 -->
 
 Latin American organised crime groups may now operate in sixteen European countries. A Guardian investigation links the fivefold rise in cocaine seizures to these expanding networks. Cartels have established deep roots across the continent over the last decade. Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shiftA four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged.
-
-### [Colombia peace deal must endure as insecurity grows, Security Council hears](https://news.un.org/feed/view/en/story/2026/10/1168580)
-*UN News* - Oct 12, 17:30 IST (iso: 2026-10-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image560x340cropped.jpg -->
-
-The UN representative in Colombia stated the peace deal must endure despite growing insecurity. The agreement ended a decades-long insurgency nearly ten years ago. Rising violence threatens the stability of the accord. The official emphasized the need to prevent the deal from faltering. Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.
 
 ---
 
