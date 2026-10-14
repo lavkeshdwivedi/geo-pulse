@@ -1,180 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 14, 2026 06:12 IST
+**अपडेट:** October 14, 2026 11:04 IST
 
 ---
 
 ## दुनिया
 
-### [सौरभ के टुकड़े करने वाली पत्नी मुस्कान और उसके प्रेमी को आज मिलेगी सजा, देशभर की लगी निगाहें](https://www.amarujala.com/uttar-pradesh/meerut/blue-drum-case-muskan-who-chopped-up-her-husband-saurabh-and-her-lover-to-be-sentenced-today-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 12:11 IST (iso: 2026-10-14T06:41:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/05/13/sarabha-ka-fail-fata-va-masakana-oura-sahal_bc450c7ae36ddb22cb80ff25bce596a4.jpeg?w=1200&dpr=1.0 -->
+### [रात को नाभि में सरसों का तेल लगाने से क्या होता है? त्वचा से लेकर फटे होंठों तक जानें सच](https://www.amarujala.com/photo-gallery/lifestyle/fitness/mustard-oil-in-belly-button-benefits-side-effects-how-to-use-2026-10-14)
+*Amar Ujala National* - Oct 14, 11:03 IST (iso: 2026-10-14T05:33:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/mustard-oil_65c053e027c493b620d5b106c7f46ca1.jpeg?w=1200&dpr=1.0 -->
 
-ब्रह्मपुरी निवासी मुस्कान रस्तोगी और उसके प्रेमी साहिल शुक्ला को आज सजा सुनाई जाएगी। दोनों ने मिलकर पति सौरभ राजपूत की हत्या कर दी थी। कोर्ट ने पहले ही दोनों को दोषी ठहरा दिया था। यह मामला देशभर में नीले ड्रम के नाम से चर्चित रहा है। Meerut News: ब्रह्मपुरी निवासी मुस्कान रस्तोगी ने अपने प्रेमी साहिल शुक्ला के साथ मिलकर पति सौरभ राजपूत की हत्या कर दी थी।
+बुजुर्गों की सलाह पर नाभि में सरसों का तेल लगाने के दावों की जाँच की गई। त्वचा और फटे होंठों से जुड़े लाभों के साथ सावधानियों का भी उल्लेख किया गया है। Mustard Oil in Navel: बड़े बुजुर्ग हमेशा नाभि में सरसों का तेल लगाने की सलाह देते हैं। दादी नानी के इस घरेलू नुस्खे के क्या फायदे हैं, और किन बातों का ध्यान रखना चाहिए, ये भी जान लें।
 
-### [बुरे दौर ने स्कूल में कर दिया था अलग-थलग, अब दूसरों को लड़ना सिखा रही 15 वर्षीय छात्रा](https://www.amarujala.com/world/once-isolated-at-school-bullying-15-year-old-girl-now-teaches-others-to-fight-back-2026-10-14)
-*Amar Ujala World* - Oct 14, 06:11 IST (iso: 2026-10-14T00:41:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/bullying_64cc06423c7b7967e342c92021a3c6a7.jpeg?w=1200&dpr=1.0 -->
+### [कोलकाता की सड़क पर चल रहे थे लात-घूंसे, तभी हुई ‘सिंघम’ की एंट्री, एक्शन देख शांत हो गया पूरा मामला](https://www.amarujala.com/bizarre-news/kolkata-road-rage-turns-into-street-fight-then-singham-style-police-entry-steals-the-show-2026-10-14)
+*Amar Ujala National* - Oct 14, 11:00 IST (iso: 2026-10-14T05:30:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/saugdhaka-para-ha-shanpr-ha-gaii-marapata_7aa3ff8922c67fc5c370bef5a6621041.jpeg?w=1200&dpr=1.0 -->
 
-पंजाब की 15 वर्षीय छात्रा ने स्कूल में अनुभव की गई नरसंहार के बाद अन्य बच्चों को आत्मरक्षा सिखाने का निर्णय लिया। उसने अपने अनुभवों को साझा करते हुए पीड़ितों को आत्मविश्वास और सुरक्षा कौशल प्रदान करने पर जोर दिया। यह पहल स्थानीय स्तर पर बच्चों के बीच जागरूकता बढ़ाने का उदाहरण है। बुलिंग: बुरे दौर ने स्कूल में कर दिया था अलग-थलग, अब दूसरों को लड़ना सिखा रही 15 वर्षीय छात्रा।
+कोलकाता की सड़क पर दो पक्षों के बीच मारपीट का वीडियो वायरल हुआ। वीडियो में 'सिंघम' की एंट्री के बाद मामला शांत हो गया है। कोलकाता का बताकर शेयर किए गए एक वायरल वीडियो में सड़क पर दो पक्षों के बीच जमकर मारपीट होती दिख रही है। कोलकाता की सड़क पर चल रहे थे लात-घूंसे, तभी हुई ‘सिंघम’ की एंट्री, एक्शन देख शांत हो गया पूरा मामला।
 
-### [Weather Forecast 14 October 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-14-october-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-10-14)
-*Amar Ujala National* - Oct 14, 06:00 IST (iso: 2026-10-14T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/weather-forecast_2193809dac00566151fd48ee83c7f38a.jpeg?w=1200&dpr=1.0 -->
+### [सूर्य की राहु के नक्षत्र में एंट्री: मेष सहित इन राशि के लोगों को होगी परेशानी, नौकरी में दिखेगा](https://www.amarujala.com/photo-gallery/astrology/predictions/surya-swati-nakshatra-parivartan-2026-impact-on-zodiac-sign-2026-10-13)
+*Amar Ujala National* - Oct 14, 10:54 IST (iso: 2026-10-14T05:24:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/surya-swati-nakshatra-parivartan-2026_02e759c77aa2440b086ef4956e9c21a4.jpeg?w=1200&dpr=1.0 -->
 
-भारत मौसम विज्ञान विभाग ने 14 अक्टूबर 2026 के लिए देशभर में सामान्य मौसम की भविष्यवाणी जारी की है। अधिकांश क्षेत्रों में आसमान साफ या हल्का बादल छाया रहने की संभावना है। उत्तर-पूर्वी राज्यों में हल्की बारिश की संभावना जताई गई है। तापमान सामान्य सीमा में बना रहेगा।
+सूर्य का राहु के नक्षत्र में प्रवेश तीन राशियों के लिए चिंताजनक है। नौकरी और निवेश से जुड़े फैसलों में देरी या रुकावट का अनुमान है। Surya Swati Nakshatra Parivartan 2026: सूर्य का राहु के नक्षत्र में प्रवेश इन 3 राशि वालों की परेशानियां बढ़ा सकता है। जातकों को अपेक्षित परिणाम मिलने में देरी हो सकती है। निवेश और पैसों से जुड़े फैसलों में भी सावधानी बरतने की जरूरत रह सकती है।
 
-### [ऑल इंडिया कोटा और स्टेट कोटा में क्या अंतर है? पंजीकरण करने से पहले जानें जरूरी बातें](https://www.amarujala.com/education/neet-pg-counselling-2026-difference-between-all-india-quota-and-state-quota-know-here-2026-10-13)
-*Amar Ujala National* - Oct 14, 06:00 IST (iso: 2026-10-14T00:30:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/12/neet-pg-counselling-2026_06d4a5838e7e5fa5c2206a940a682155.jpeg?w=1200&dpr=1.0 -->
+### [कब मनाई जाएगी अष्टमी-नवमी? जानें सही डेट, महत्व और कन्या पूजन का शुभ मुहूर्त](https://www.amarujala.com/photo-gallery/spirituality/festivals/kab-hai-ashtami-or-navami-2026-date-kanya-pujan-time-in-hindi-2026-10-13)
+*Amar Ujala National* - Oct 14, 10:54 IST (iso: 2026-10-14T05:24:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/ashtami-or-navami-2026_b4237dff0e8a49bb6613f18e4f0e4e3f.jpeg?w=1200&dpr=1.0 -->
 
-नीट पीजी काउंसलिंग में ऑल इंडिया और स्टेट कोटा अलग नियमों पर चलते हैं। दोनों में सीटों की संख्या, पात्रता और प्रक्रिया में अंतर है। दाखिले से पहले इन नियमों को समझना जरूरी है। नीट पीजी काउंसलिंग में ऑल इंडिया कोटा और स्टेट कोटा के तहत अलग-अलग सीटों पर दाखिला मिलता है। दोनों की पात्रता, काउंसलिंग प्रक्रिया और नियमों में अंतर होता है।
+नवरात्रि के अंतिम दिनों में कन्या पूजन का शुभ मुहूर्त निर्धारित है। इस पूजा के बाद व्रती अपने व्रत का पारण कर सकते हैं। Ashtami or Navami 2026: नवरात्रि में जहां देवी की पूजा-पाठ और उपवास का महत्व होता है, तो वहीं कन्या पूजन भी महत्वपूर्ण माना गया है। नवरात्रि के अंतिम दिनों में साधक द्वारा कन्या पूजन किया जाता है, जिसके बाद व्रती अपने व्रत का पारण कर सकते हैं।
 
-### [वैशाली में 13 बच्चों की मौत, पीएम मोदी ने जताया दुख; मृतकों के परिजनों को छह लाख रुपये की मदद](https://www.amarujala.com/india-news/bihar-vaishali-boat-accident-several-children-dead-pm-modi-announces-financial-aid-updates-hindi-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 05:49 IST (iso: 2026-10-14T00:19:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/bhara-nava-hathasa_ed22d46cbf9bcfb37215c2fde5404848.gif?w=1200&dpr=1.0 -->
+### [सीबीआई ने 14वें आरोपी के खिलाफ दाखिल की चार्जशीट, अब इस दिन होगी सुनवाई](https://www.amarujala.com/education/neet-ug-2026-paper-leak-case-cbi-files-chargesheet-against-14th-accused-hearing-on-october-22-2026-10-14)
+*Amar Ujala National* - Oct 14, 10:54 IST (iso: 2026-10-14T05:24:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/23/cbi-books-ex-dgca-flying-training-director-aviation-firms-for-corruption-favouritism_a44998928187ee7c22160d52d58ddc64.jpeg?w=1200&dpr=1.0 -->
 
-वैशाली में नाव हादसे में 13 बच्चों की मौत हुई। पीएम मोदी ने दुख जताया और परिजनों को छह लाख रुपये की मदद घोषित की। वैशाली में 13 बच्चों की मौत, पीएम मोदी ने जताया दुख; मृतकों के परिजनों को छह लाख रुपये की मदद।
+सीबीआई ने नीट पेपर लीक मामले में 14वें आरोपी शेषराव बजरंग सूर्यवंशी के खिलाफ चार्जशीट दाखिल की। राउज एवेन्यू अदालत में सुनवाई तय की गई है। नीट यूजी 2026 पेपर लीक मामले में केंद्रीय जांच ब्यूरो ने आरोपी शेषराव बजरंग सूर्यवंशी के खिलाफ राउज एवेन्यू अदालत में आरोपपत्र दाखिल किया है। इस मामले में वह 14वें आरोपी हैं। इससे पहले अन्य 13 आरोपियों के खिलाफ आरोपपत्र दाखिल किए जा चुके हैं।
 
-### [आपने क्या सहा होगा..., पुरानी पीढ़ी के संघर्ष को इतना भी कम न आंकें](https://www.amarujala.com/world/advice-do-not-underestimate-the-struggles-of-the-older-generation-2026-10-14)
-*Amar Ujala World* - Oct 14, 05:24 IST (iso: 2026-10-13T23:54:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/08/09/senior-citizen-old-people-nee_dc4ec0e6819d9ce5f5522d0146c3a6ae.jpeg?w=1200&dpr=1.0 -->
+### [आज दस्तक देने वाली है नई Toyota Glanza फेसलिफ्ट: वेंटिलेटेड सीट्स व ADAS जैसे फीचर्स से होगी लैस](https://www.amarujala.com/automobiles/toyota-glanza-facelift-launching-october-14-new-features-adas-engine-update-expected-2026-10-14)
+*Amar Ujala National* - Oct 14, 10:44 IST (iso: 2026-10-14T05:14:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/tayata-galja_d26ef778802c4214d0e6e94aa79d3b57.jpeg?w=1200&dpr=1.0 -->
 
-पुरानी पीढ़ी के संघर्ष को कम न आंकें। उनका अनुभव और कठिनाइयां समझें। उनकी सलाह और दृष्टिकोण को गंभीरता से लें। यह संबंध मजबूत करने में मददगार है। सलाह: आपने क्या सहा होगा, पुरानी पीढ़ी के संघर्ष को इतना भी कम न आंकें।
+टोयोटा ने भारत में ग्लान्जा फेसलिफ्ट लॉन्च की। इसमें वेंटिलेटेड सीट्स और एडवैंस्ड ड्राइवर असिस्टेंस सिस्टम जैसे नए फीचर्स शामिल हैं। यह अपडेट कंपनी की मध्यम श्रेणी की पिकअप और सेडान रेंज को मजबूत करता है। आज दस्तक देने वाली है नई Toyota Glanza फेसलिफ्ट: वेंटिलेटेड सीट्स व ADAS जैसे फीचर्स से होगी लैस, जानें खासियत।
 
-### [चेन्नई के जल संकट पर विजय की पहल: नायडू से अतिरिक्त पानी मांगा; क्या गोदावरी-कावेरी परियोजना बनेगी](https://www.amarujala.com/india-news/tamil-nadu-cm-vijay-meets-chandrababu-naidu-seeks-more-krishna-water-for-chennai-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 01:36 IST (iso: 2026-10-13T20:06:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/vijay-meets-chandrababu-naidu_554d919142609a09a0956563bb54030f.gif?w=1200&dpr=1.0 -->
+### [कैबिनेट की बैठक में बोनस पर लग सकती है मुहर, जानिए किसे-कितना मिलेगा फायदा](https://www.amarujala.com/business/business-diary/union-cabinet-likely-to-consider-productivity-linked-bonus-for-railway-employees-2026-10-14)
+*Amar Ujala National* - Oct 14, 10:41 IST (iso: 2026-10-14T05:11:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/indian-railway_9b0efe0db47d06b27139b6392ba39236.jpeg?w=1200&dpr=1.0 -->
 
-तमिलनाडु मुख्यमंत्री विजय ने आंध्र प्रदेश के मुख्यमंत्री चंद्रबाबू नायडू से मुलाकात कर चेन्नई के बढ़ते जल संकट के लिए कृष्णा नदी से अतिरिक्त पानी की आपूर्ति का अनुरोध किया। दोनों ने गोदावरी-कावेरी लिंक परियोजना की संभावनाओं पर भी चर्चा की, जिससे चेन्नई को दीर्घकालिक जल स्रोत मिल सकता है। यह कदम तब उठाया गया जब शहर में मौजूदा जल भंडार कम हो रहे हैं और भविष्य की मांग को पूरा करने के लिए नए स्रोतों की आवश्यकता है।
+केंद्रीय कैबिनेट बुधवार को रेलवे कर्मचारियों के लिए उत्पादकता-आधारित बोनस पर विचार करेगा। मौजूदा बोनस संरचना और कर्मचारी संघों की मांगों पर चर्चा होगी। रेलवे बोर्ड ने फर्जी पत्रों के खिलाफ भी चेतावनी जारी की है। केंद्रीय कैबिनेट बुधवार को रेलवे कर्मचारियों के लिए उत्पादकता-आधारित बोनस (पीएलबी) पर विचार कर सकती है। जानिए मौजूदा बोनस राशि, कर्मचारी संघों की मांगें और फर्जी लेटर पर रेलवे बोर्ड की चेतावनी।
 
-### [खुतबों के विषय तय करने के प्रस्ताव पर घमासान, विरोध पर वक्फ बोर्ड का यू-टर्न; अंद्राबी ने दी सफाई](https://www.amarujala.com/jammu-and-kashmir/srinagar/srinagar-uproar-over-proposal-to-determine-topics-for-sermons-waqf-board-makes-a-u-turn-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 01:24 IST (iso: 2026-10-13T19:54:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/1_f8cee5f75b7d3ecfad08b2379263fcf2.jpeg?w=1200&dpr=1.0 -->
+### [दिपके बोले- देश में अघोषित इमरजेंसी, आशुतोष और सौरव के खिलाफ इन धाराओं में दर्ज हुआ मुकदमा](https://www.amarujala.com/live/india-news/sir-controversy-uproar-intensifies-over-cec-resignation-cjp-leaders-to-be-produced-before-magistrate-today-2026-10-14)
+*Amar Ujala National* - Oct 14, 10:37 IST (iso: 2026-10-14T05:07:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/sajapa-va-vapakashha-ka-paratharashana_bb97f970a08ed28179ea566992dcb4f4.gif?w=1200&dpr=1.0 -->
 
-जम्मू-कश्मीर वक्फ बोर्ड ने जुमे की नमाज के खुतबों के साझा विषय तय करने का प्रस्ताव वापस ले लिया। इस प्रस्ताव पर विरोध होने के बाद बोर्ड ने यू-टर्न लिया। जम्मू-कश्मीर वक्फ बोर्ड से जुड़ी मस्जिदों और अन्य धार्मिक स्थलों में जुमे की नमाज के दौरान दिए जाने वाले के खुतबों (उपदेशों) के साझा विषय तय करने और इनमें समन्वय का प्रस्ताव विवादों में घिर गया है।
+सीजेपी ने आशुतोष और सौरव की न्यायिक हिरासत को चुनौती देने की घोषणा की। दिपके ने देश में अघोषित इमरजेंसी की बात कही। दोनों नेताओं को आज मजिस्ट्रेट के सामने पेश किया जाएगा। दिपके बोले- देश में अघोषित इमरजेंसी, आशुतोष और सौरव के खिलाफ इन धाराओं में दर्ज हुआ मुकदमा।
+
+### [क्या 60 की उम्र में पिता बनेंगे सुपरस्टार? अभिनेता ने दिया ये जवाब; करण के शो में बयां किया खालीपन](https://www.amarujala.com/entertainment/bollywood/salman-khan-says-he-wants-to-become-a-father-in-show-koffee-with-karan-know-the-detail-2026-10-14)
+*Amar Ujala National* - Oct 14, 10:32 IST (iso: 2026-10-14T05:02:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/salmana-khana_d5d92fdfe01acce2258aa9aa80c3e85a.jpeg?w=1200&dpr=1.0 -->
+
+सलमान खान जल्द ही कॉफी विद करण नौ में दिखाई देंगे। वह अपनी निजी जिंदगी और 60 की उम्र में पिता बनने के सवाल पर बात करेंगे। शो में उनके खालीपन के अनुभवों पर भी चर्चा होगी। सलमान खान जल्द ही 'कॉफी विद करण 9' में नजर आएंगे। बताया जाता है कि वह यहां अपनी निजी जिंदगी के बारे में बातचीत करेंगे।
+
+### [पंडाल में सबकी नजरें होंगी आप पर, ऐसे करें दुर्गा पूजा पर साड़ी को स्टाइल](https://www.amarujala.com/photo-gallery/fashion/durga-puja-saree-ideas-stunning-traditional-looks-to-try-on-navratri-2026-10-01)
+*Amar Ujala National* - Oct 14, 10:30 IST (iso: 2026-10-14T05:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/13/durga-puja-styling-tips_9810f42d4cef38351f694fd816b570fd.jpeg?w=1200&dpr=1.0 -->
+
+दुर्गा पूजा के लिए हल्के और आरामदायक फैब्रिक वाली साड़ी चुनना बेहतर विकल्प है। लंबे समय तक पंडाल घूमने के लिए आराम का ध्यान रखना ज़रूरी है। यह स्टाइल और सुविधा दोनों को संतुलित करता है। Durga Puja Saree Ideas: दुर्गा पूजा में साड़ी चुनते समय आराम का भी ध्यान रखें। लंबे समय तक पूजा पंडाल घूमने के लिए हल्की और आरामदायक फैब्रिक वाली साड़ी बेहतर विकल्प हो सकती है।
+
+### [एअर इंडिया की इंटरनेशनल फ्लाइट में बम का अलर्ट: जयपुर में करानी पड़ी इमरजेंसी लैंडिंग, क्या है](https://www.amarujala.com/india-news/air-india-flight-ai-2030-emergency-landing-at-jaipur-airport-after-bomb-threat-and-hijack-alert-2026-10-14)
+*Amar Ujala National* - Oct 14, 10:29 IST (iso: 2026-10-14T04:59:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/eyara-idaya-falita-ai-2030-ka-imarajasa-ldaga_42309e18b9ccbde2cb17eb25af688304.jpeg?w=1200&dpr=1.0 -->
+
+एअर इंडिया की अंतरराष्ट्रीय उड़ान में बम की चेतावनी मिली। विमान को जयपुर में आपातकालीन उतारा गया। यात्रियों और चालक दल की सुरक्षा सुनिश्चित की गई। एअर इंडिया की इंटरनेशनल फ्लाइट में बम का अलर्ट: जयपुर में करानी पड़ी इमरजेंसी लैंडिंग, क्या है मामला?
+
+### [पालघर में 14 मंजिला इमारत में लगी भीषण आग, दम घुटने से दो महिलाओं की मौत; छह अस्पताल में भर्ती](https://www.amarujala.com/india-news/maharashtra-many-dead-after-fire-breaks-out-in-multi-storey-palghar-building-news-in-hindi-updates-2026-10-14)
+*Amar Ujala Breaking* - Oct 14, 09:37 IST (iso: 2026-10-14T04:07:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/two-women-dead-after-fire-breaks-out-in-multi-storey-palghar-building_e7267b9b69357dbcc017c18a5431c9db.jpeg?w=1200&dpr=1.0 -->
+
+पालघर में 14 मंजिला इमारत में आग लगी। दम घुटने से दो महिलाओं की मौत हुई। छह घायलों को अस्पताल में भर्ती कराया गया। पालघर में 14 मंजिला इमारत में लगी भीषण आग, दम घुटने से दो महिलाओं की मौत; छह अस्पताल में भर्ती।
+
+### [मौत का ऐसा मंजर कि रो पड़ीं डीएम, एक घर से सात बच्चों के शव उठे, दूसरे से पांच; मची चीत्कार](https://www.amarujala.com/bihar/muzaffarpur/vaishali-raghopur-boat-accident-13-deaths-rampur-shyamchand-dm-varsha-singh-2026-10-14)
+*Amar Ujala Breaking* - Oct 14, 09:30 IST (iso: 2026-10-14T04:00:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/vashal-ma-cakha-pakara-oura-matama_1e01f4099331e0ed672a33f95a5615c1.jpeg?w=1200&dpr=1.0 -->
+
+वैशाली जिले में भोजन लेने जा रही नाव ढाब में पलट गई। हादसे में 13 लोगों की मौत हो गई। घटना मंगलवार रात को हुई। बिहार के वैशाली जिले के राघोपुर थाना क्षेत्र की रामपुर श्यामचंद पंचायत में मंगलवार रात भोज खाने जा रहे लोगों से भरी नाव ढाब में पलट गई। मौत का ऐसा मंजर कि रो पड़ीं डीएम, एक घर से सात बच्चों के शव उठे, दूसरे से पांच; मची चीत्कार।
+
+### [आशुतोष रांका-सौरव दास की न्यायिक हिरासत पर बोले अभिजीत दीपके- 'मोदी जी हिम्मत है तो...'](https://www.abplive.com/news/india/cjp-leaders-ashutosh-ranka-and-saurav-das-judicial-custody-abhijeet-dipke-target-govt-3201784)
+*ABP Live (India)* - Oct 14, 09:15 IST (iso: 2026-10-14T03:45:00+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/14/d0d08b4289a008196e39d8ac87fa922017919503416811200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+सीजेपी नेता आशुतोष रांका और सौरव दास को न्यायिक हिरासत में भेजा गया। अभिजीत दीपके ने सरकार पर प्रश्न उठाया। उन्होंने तिरंगा फहराने को गलती नहीं माना। सीजेपी के फाउंडर अभिजीत दीपके ने कहा कि सीजेपी नेता आशुतोष रांका और सौरव दास को 5 दिन की न्यायिक हिरासत में भेज दिया गया है. सरकार पर निशाना साधते हुए दीपके ने कहा कि उनकी क्या गलती है?
+
+---
+
+## यूरोप और रूस
+
+### [ब्रिटेन में हिंदू कितने सुरक्षित? हिंदुओं के खिलाफ नफरत के मामले 15% बढ़े, आंकड़ों पर ही उठे सवाल](https://hindi.news18.com/world/britain-anti-hindu-hate-crimes-in-britain-rose-15-percent-home-ministry-data-muslim-christian-jews-sikh-10908311.html)
+*News18 Hindi (World)* - Oct 14, 11:03 IST (iso: 2026-10-14T05:33:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/uk-hindu-hate-crime-2026-10-d9409add24a82571c6503993d3ab22d2-1200x800.jpg -->
+
+इंग्लैंड और वेल्स में मार्च 2025 से मार्च 2026 के बीच हिंदुओं के खिलाफ नफरत अपराधों में 15 प्रतिशत की वृद्धि दर्ज हुई। गृह मंत्रालय के आंकड़ों के अनुसार कुल 1,46,825 हेट क्राइम दर्ज हुए। UK Hindu Hate Crime: ब्रिटेन में हिंदुओं को निशाना बनाने वाले नफरत से जुड़े अपराधों में 15% की बढ़ोतरी दर्ज की गई है. गृह मंत्रालय के मुताबिक, मार्च 2025 से मार्च 2026 के बीच इंग्लैंड और वेल्स में 1,46,825 हेट क्राइम दर्ज हुए.
+
+### [मार्को रुबियो के भारत दौरे पर दुनिया की नजर, उज्बेकिस्तान से दिल्ली तक कूटनीति का बड़ा दांव!](https://www.patrika.com/national-news/marco-rubio-india-visit-2026-uzbekistan-c5-plus-1-meeting-20982293)
+*Patrika (World)* - Oct 14, 09:27 IST (iso: 2026-10-14T03:57:51+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Marco-Rubio-India-Visit-202.webp -->
+
+अमेरिका के विदेश मंत्री मार्को रुबियो 17 से 22 अक्टूबर तक एशिया दौरे पर हैं। वे उज्बेकिस्तान और भारत जाएंगे। चर्चा ऊर्जा और व्यापार पर होगी। US India Relations: अमेरिका के विदेश मंत्री मार्को रुबियो का प्रस्तावित एशियाई दौरा ऐसे समय में हो रहा है, जब वैश्विक राजनीति में नए समीकरण बन रहे हैं और ऊर्जा सुरक्षा से लेकर व्यापार तक कई मुद्दे देशों की प्राथमिकता बने हुए हैं।
+
+---
+
+## एशिया-प्रशांत
+
+### ['चीन से व्यापार निष्पक्षता और भू-राजनीतिक स्थिरता के साथ ही संभव', और क्या बोले मंत्री?](https://www.amarujala.com/business/business-diary/piyush-goyal-on-india-china-trade-engagement-only-with-fairness-and-stability-2026-10-14)
+*Amar Ujala National* - Oct 14, 11:02 IST (iso: 2026-10-14T05:32:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/07/19/mumbai-efta-will-come-into-effect-from-1st-october-says-piyush-goyal_5fa93c5ae118527bd371899f4b7d87c1.jpeg?w=1200&dpr=1.0 -->
+
+केंद्रीय मंत्री पीयूष गोयल ने कहा कि भारत चीन के साथ व्यापार के लिए तैयार है। शर्त यह है कि व्यापार निष्पक्ष हो और भू-राजनीतिक स्थिति स्थिर बनी रहे। केंद्रीय मंत्री पीयूष गोयल ने कहा कि भारत चीन सहित सभी देशों के साथ व्यापार के लिए तैयार है, बशर्ते शर्तें निष्पक्ष हों और भू-राजनीतिक स्थिति स्थिर रहे। उन्होंने अमेरिका के साथ मजबूत संबंधों और वैश्विक आपूर्ति शृंखलाओं में सहयोग पर भी जोर दिया।
+
+### ['दोस्त कब दुश्मन बन जाएं, पता नहीं': वैष्णव ने बताया भारत का टेक प्लान, क्या भारत बदलेगा टेक्नोलॉजी](https://www.amarujala.com/business/business-diary/india-semiconductor-materials-tech-sovereignty-ashwini-vaishnaw-2026-10-14)
+*Amar Ujala National* - Oct 14, 10:59 IST (iso: 2026-10-14T05:29:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/10/cg-news_b70cf6456b2652c8c43277ec5694f43c.jpeg?w=1200&dpr=1.0 -->
+
+आश्विनी वैष्णव ने भारत के टेक्नोलॉजी और अर्धचालक सामग्री के स्वतंत्रता वाले योजना का विवरण दिया। उन्होंने दोस्तों के दुश्मन बनने की संभावना पर भी टिप्पणी की। 'दोस्त कब दुश्मन बन जाएं, पता नहीं': वैष्णव ने बताया भारत का टेक प्लान, क्या भारत बदलेगा टेक्नोलॉजी का खेल?
+
+### [हिंद महासागर से साइबर सुरक्षा तक: भारत-आसियान मिलकर करेंगे रक्षा की नई तैयारी, रक्षा मंत्री ने रखा](https://www.amarujala.com/india-news/from-indian-ocean-to-cybersecurity-india-and-asean-to-jointly-prepare-for-new-defense-initiatives-2026-10-14)
+*Amar Ujala National* - Oct 14, 10:58 IST (iso: 2026-10-14T05:28:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/17/rakashhamatara-rajanatha-saha_58bd4281c72d337d8aacc24b9f3294e0.jpeg?w=1200&dpr=1.0 -->
+
+रक्षा मंत्री ने भारत और आसियान के बीच हिंद महासागर सुरक्षा और साइबर रक्षा के लिए नया रोडमैप पेश किया। दोनों पक्ष मिलकर रक्षा तैयारियों को मजबूत करने पर सहमति जताई। हिंद महासागर से साइबर सुरक्षा तक: भारत-आसियान मिलकर करेंगे रक्षा की नई तैयारी, रक्षा मंत्री ने रखा।
+
+### [दिवाली पर महंगी होगी मिठास! चीनी की सप्लाई ठप, 62 रुपये किलो तक पहुंचा भाव; अभी और बढ़ेगा रेट](https://www.amarujala.com/uttar-pradesh/agra/sugar-shortage-hits-agra-ahead-of-festive-season-prices-rise-to-62-per-kg-2026-10-14)
+*Amar Ujala Breaking* - Oct 14, 10:49 IST (iso: 2026-10-14T05:19:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/20/mahaga-haii-cana_4e45eef51df8faa7523348cf4f92b4f1.jpeg?w=1200&dpr=1.0 -->
+
+चीनी की सप्लाई सात दिन से ठप रहने से भाव 62 रुपये प्रति किलो तक पहुंच गया। थोक बाजार और हलवाई कारोबारियों में चिंता व्याप्त है। चीनी का बचा सिर्फ तीन दिन का स्टॉक, थोक बाजार से लेकर हलवाई और पेठा कारोबारी तक हलकान, शुगर मिलों की मनमानी और एजेंट्स की सट्टेबाजी से बिगड़े हालात, सात दिन से सप्लाई ठप।
+
+### [यूएन में भारत ने क्यों जताई नाराजगी?: मानवाधिकार रिपोर्ट को लेकर उठाए सवाल, पूछा- एक जैसा पैमाना](https://www.amarujala.com/world/why-india-express-displeasure-un-raised-questions-regarding-human-rights-report-asked-why-not-uniform-standard-2026-10-14)
+*Amar Ujala World* - Oct 14, 10:15 IST (iso: 2026-10-14T04:45:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/anaja-savanprpa-yaena-ma-sathaya-mashana-ka-parathama-sacava_03b4a29532444edbd31ff31017d1b9f0.jpeg?w=1200&dpr=1.0 -->
+
+संयुक्त राष्ट्र में भारत ने मानवाधिकार रिपोर्ट पर नाराजगी जताई। देश ने एक समान मानदंड लागू करने की मांग की। भारत ने मौजूदा रिपोर्ट की पक्षपाती प्रकृति पर सवाल उठाए। यूएन में भारत ने क्यों जताई नाराजगी?: मानवाधिकार रिपोर्ट को लेकर उठाए सवाल, पूछा- एक जैसा पैमाना।
+
+### [भारतीय शेयर बाजार में उतार-चढ़ाव, सेंसेक्स और निफ्टी में मामूली बदलाव](https://www.amarujala.com/business/business-diary/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-10-14)
+*Amar Ujala Breaking* - Oct 14, 09:48 IST (iso: 2026-10-14T04:18:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0 -->
+
+बुधवार को भारतीय शेयर बाजार में उतार-चढ़ाव रहा। सेंसेक्स और निफ्टी में मामूली बदलाव दर्ज हुआ। कच्चे तेल की कीमतें और विदेशी निवेश की निकासी ने बाजार को प्रभावित किया। सेंसेक्स और निफ्टी मामूली बदलाव के साथ कारोबार कर रहे थे। कच्चे तेल की बढ़ती कीमतें और विदेशी निवेश की निकासी ने बाजार की धारणा को प्रभावित किया। भारतीय शेयर बाजार में उतार-चढ़ाव, सेंसेक्स और निफ्टी में मामूली बदलाव।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
 ### [सऊदी अरब की सबसे कमजोर नस पर हमला, तेल कंपनी अरामको के हेडक्वार्टर पर मिसाइलों की बौछार](https://hindi.news18.com/world/middle-east-saudi-arabia-houthi-war-aramco-attack-riyadh-missile-sanaa-oil-donald-trump-pakistan-turkey-live-updates-livenews-10907717.html)
-*News18 Hindi (World)* - Oct 14, 06:05 IST (iso: 2026-10-14T00:35:06+00:00)
+*News18 Hindi (World)* - Oct 14, 10:53 IST (iso: 2026-10-14T05:23:28+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/saudi-arabia-live-2026-10-2aa7a7837b7c56c7d7ef248a3bee6b46-1200x800.jpg -->
 
 Houthi militants fired a volley of missiles at an Aramco administrative building in Dhahran, setting the structure ablaze. Saudi air defence intercepted missiles aimed at Riyadh, and the ministry reported no deaths or injuries. Houthi Attack Saudi Arabia: सऊदी अरब के पूर्वी शहर धहरान में सरकारी तेल कंपनी अरामको के एक प्रशासनिक भवन पर हमले के बाद आग लग गई.
 
-### [दुनिया में चल रहे 130 युद्ध: तेजी से तबाह हो रहे शहर, 1945 के बाद सबसे बड़ा संकट](https://www.amarujala.com/world/report-130-conflicts-raging-worldwide-cities-being-ravaged-worst-crisis-since-second-world-war-2026-10-14)
-*Amar Ujala World* - Oct 14, 06:01 IST (iso: 2026-10-14T00:31:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/10/iran-israel-war-opinion_e571678e5b9f7fa0a2ab36d9bf0fda09.jpeg?w=1200&dpr=1.0 -->
+### [टॉयलेट पेपर में जासूसी का सामान, टीवी के पीछे रिकॉर्डर, OpenAI के अंदर क्या चल रहा था? सऊदी](https://hindi.news18.com/world/america-openai-saudi-arabian-national-engineer-arrested-after-a-hidden-recorder-found-in-a-conference-room-10908046.html)
+*News18 Hindi (World)* - Oct 14, 10:15 IST (iso: 2026-10-14T04:45:22+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/open-ai-2026-10-1b8706a7b3e920f16db707c57b68da0c-1200x800.jpg -->
 
-A UN‑commissioned report released on 12 October 2026 identified 130 active armed conflicts spanning 78 countries. The report notes that urban centres in 45 of those wars have seen infrastructure loss exceeding 30 percent, marking the most severe post‑World II crisis. दुनिया में चल रहे 130 युद्ध: तेजी से तबाह हो रहे शहर, 1945 के बाद सबसे बड़ा संकट।
+सैन फ्रांसिस्को में ओपनएआई के दफ्तर से छिपा रिकॉर्डर मिला। सऊदी इंजीनियर अब्दुलरहमान अलफोजान को गिरफ्तार किया गया। डिवाइस टॉयलेट पेपर में छिपाकर टीवी के पीछे जोड़ा गया था। OpenAI के सैन फ्रांसिस्को दफ्तर में सीक्रेट रिकॉर्डिंग डिवाइस मिला है. अमेरिकी अधिकारियों के मुताबिक, डिवाइस टॉयलेट पेपर में छिपाकर टीवी के पीछे USB पोर्ट से जोड़ा गया था. जांच में रिकॉर्डर बनाने और छिपाने से जुड़े AI चैटबॉट सवालों की भी पड़ताल की जा रही है.
 
-### [ट्रंप प्रशासन को अदालत से झटका, ऐतिहासिक गोल्फ कोर्स में काम रोकने का आदेश](https://www.amarujala.com/world/world-news-updates-usa-congo-ebola-virus-cases-death-toll-2026-10-14)
-*Amar Ujala World* - Oct 14, 03:44 IST (iso: 2026-10-13T22:14:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
+### [नेतन्याहू ने भी माना हमास के हमले से पहले मिस्र के खुफिया प्रमुख आए थे इजरायल, फिर कहां हुई चूक?](https://www.patrika.com/world-news/netanyahu-admits-egypt-intelligence-chief-visit-before-oct-7-attack-20982467)
+*Patrika (World)* - Oct 14, 09:56 IST (iso: 2026-10-14T04:26:32+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/netanyahu_d9b763.webp -->
 
-अदालत ने ट्रंप प्रशासन को झटका देते हुए ऐतिहासिक गोल्फ कोर्स में काम रोकने का आदेश दिया। दुनिया की खबरें: कांगो में इबोला के मामले 9,000 के पार, संक्रमण रोकने की कोशिशें बेअसर। ट्रंप प्रशासन को अदालत से झटका, ऐतिहासिक गोल्फ कोर्स में काम रोकने का आदेश।
-
-### [यमन के तेल ठिकानों पर सऊदी नेतृत्व वाले गठबंधन का हवाई हमला, जानिए क्या है लड़ाई](https://www.amarujala.com/world/saudi-led-coalition-struck-oil-facilities-houthi-controlled-west-of-yemen-capital-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 01:56 IST (iso: 2026-10-13T20:26:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/25/houthi_3ecf4d8337ed235affb496d4e49d98c7.jpeg?w=1200&dpr=1.0 -->
-
-सऊदी अरब के नेतृत्व वाले गठबंधन ने यमन के तेल संयंत्रों पर हवाई हमला किया है। हूती मीडिया ने यह दावा किया है। यह कार्रवाई पश्चिम एशिया में बढ़ते तनाव के बीच हुई है। हमले के बाद क्षेत्रीय सुरक्षा स्थिति और जटिल हो गई है। पश्चिम एशिया में बढ़ा तनाव: यमन के तेल ठिकानों पर सऊदी नेतृत्व वाले गठबंधन का हवाई हमला, हूती मीडिया का दावा।
-
-### [यमन में बड़ा धमाका, होदेदा के तेल ठिकानों पर जोरदार एयरस्ट्राइक, शुरू हो गई एनर्जी वॉर!](https://hindi.news18.com/world/middle-east-massive-explosion-at-yemen-ras-issa-air-strikes-at-hodeidah-oil-port-risk-of-severe-oil-crisis-energy-war-start-10907500.html)
-*News18 Hindi (World)* - Oct 13, 22:39 IST (iso: 2026-10-13T17:09:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Yemen-Sanaa-Attack-2026-10-c38701e58827f7310ccf006b1c442d3d-1200x800.jpg -->
-
-यमन के होदेदा में रास ईसा पोर्ट और तेल ठिकानों पर एयरस्ट्राइक हुई। हूतियों के कब्जे वाले इस इलाके में तनाव बढ़ गया। लाल सागर में जहाजों की सुरक्षा पर संकट आया। ग्लोबल तेल सप्लाई रुकने का खतरा मंडराने लगा। यमन के होदेदा में रास ईसा पोर्ट और तेल ठिकानों पर खौफनाक एयरस्ट्राइक हुई है. इससे मिडिल ईस्ट में तनाव बहुत ज्यादा बढ़ गया है.
-
-### [हूती से परेशान सऊदी का सबसे खतरनाक ऐलान, नहीं बचेंगी यमन की ऑयल साइट्स, अब छिड़ेगा एनर्जी महायुद्ध](https://hindi.news18.com/world/middle-east-saudi-coalition-threatens-strikes-on-yemen-oil-sites-massive-energy-war-risk-amid-houthis-attack-10907309.html)
-*News18 Hindi (World)* - Oct 13, 21:08 IST (iso: 2026-10-13T15:38:00+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-Yemen-Oil-Attack-2026-10-414e2ba222ffdfe9b9cddf389f4b6cc6-1200x800.jpg -->
-
-सऊदी गठबंधन ने यमन की राजधानी सना में तेल ठिकानों पर हमले की चेतावनी दी है। हूती विद्रोहियों का जवाबी हमला सऊदी तेल संयंत्रों पर हो सकता है। सऊदी गठबंधन ने यमन की राजधानी सना में तेल ठिकानों को तबाह करने की चेतावनी दी है. इससे पश्चिम एशिया में एक नया और खतरनाक ऊर्जा युद्ध छिड़ने का खतरा पैदा हो गया है.
-
-### [सना में धमाकों से दहला इलाका, अल-सबाहा में तेल सुविधा केंद्र पर हवाई हमले का दावा](https://www.patrika.com/world-news/sanaa-al-sabaha-oil-facility-airstrike-houthi-saudi-backed-forces-20981975)
-*Patrika (World)* - Oct 13, 20:39 IST (iso: 2026-10-13T15:09:39+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Sanaa-explosions.webp -->
-
-सऊदी समर्थित सेनाओं ने यमन की सना में अल-सबाहा इलाके के तेल सुविधा केंद्र पर हवाई हमला किया। हुती समर्थित मीडिया ने धमाकों की पुष्टि की है। Sanaa Airstrikes: यमन की राजधानी सना में मंगलवार को धमाकों की आवाजें सुनी गईं। यह शहर हुती विद्रोहियों के कब्जे में है। हुती-समर्थक मीडिया ने भी धमाकों की पुष्टि की है। अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त सरकार की ओर से लड़ रही सऊदी-समर्थित सेनाओं ने हवाई हमले करके सना के अल-सबाहा इलाके में एक तेल सुविधा केंद्र को निशाना बनाया।
-
----
-
-## यूरोप और रूस
-
-### [हैकरों ने फ्रिज ही हैक कर लिया, रातों-रात सड़ गया पूरे देश का खाना, दुनिया में पहली हुआ बार ऐसा](https://hindi.news18.com/world/europe-bizarre-cyber-attack-in-france-hackers-hack-400-supermarket-freezers-spoil-tons-of-food-by-raising-temperature-to-50-degrees-celsius-10907558.html)
-*News18 Hindi (World)* - Oct 14, 05:31 IST (iso: 2026-10-14T00:01:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Bizarre-Cyber-Attack-in-France-Hackers-Hack-400-Supermarket-Freezers-2026-10-7a563be1f4eaa843cd80715f7d6677ae-1200x800.jpg -->
-
-फ्रांस में हैकरों ने सुपरमार्केट के फ्रीजर हैक कर तापमान 50 डिग्री तक बढ़ा दिया। रातभर में मांस और आइसक्रीम सड़ गई। इससे करोड़ों का नुकसान हुआ। यह पहला ऐसा साइबर हमला है। दुनिया में पहली बार हैकरों ने बैंक अकाउंट या लॉकर नहीं बल्कि एक देश के फ्रीजर हैक कर लिए हैं. फ्रांस में एक बहुत ही खतरनाक और अजीबोगरीब साइबर हमला हुआ है.
-
-### [मशीन के पीछे था इंसानी दिमाग?: जर्मनी में लड़की से छेड़छाड़ के आरोप में रोबोट जब्त, जांच के घेरे](https://www.amarujala.com/world/germany-seizes-robot-after-alleged-sexual-harassment-of-16-year-old-girl-2026-10-14)
-*Amar Ujala World* - Oct 14, 02:11 IST (iso: 2026-10-13T20:41:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/germany-robot-incident_b7add1ce43b803e179c148370cc5d1ff.jpeg?w=1200&dpr=1.0 -->
-
-जर्मनी में 16 वर्षीय लड़की से छेड़छाड़ के आरोप में एक रोबोट जब्त किया गया। जांच में दो युवक घेरे में हैं। मशीन के पीछे था इंसानी दिमाग?: जर्मनी में लड़की से छेड़छाड़ के आरोप में रोबोट जब्त, जांच के घेरे।
-
----
-
-## अमेरिका
-
-### [दुनिया से ड्रोन वॉरफेयर का ‘द एंड’, लॉन्च हुआ स्टीलफिन इंटरसेप्टर, 4900 KMPH की स्पीड से झुंड पर](https://hindi.news18.com/news/defence/3-times-cheaper-than-patriot-missiles-steelfin-hypersonic-interceptor-missile-to-counter-drone-swarms-10907615.html)
-*News18 Hindi (World)* - Oct 14, 05:31 IST (iso: 2026-10-14T00:01:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Anduril-Industries-has-unveiled-the-Steelfin-family-of-surface-to-air-missile-2026-10-8d891cba4d2201bcf45666e2ee0be800-1200x800.jpg -->
-
-अमेरिकी कंपनी एंडुरिल ने स्टीलफिन इंटरसेप्टर मिसाइल लॉन्च की है। यह 4,900 किमी प्रति घंटे की रफ्तार से उड़ती है। यह पैट्रियट मिसाइल से तीन गुना सस्ती है। इसका डिजाइन मॉड्यूलर है। दुनिया भर में सस्ते ड्रोन्स के खतरनाक झुंड और मिसाइल हमलों का खतरा बढ़ रहा है. इससे निपटने के लिए अमेरिकी डिफेंस टेक कंपनी एंडुरिल ने 'स्टीलफिन' (Steelfin) नाम का नया इंटरसेप्टर मिसाइल सिस्टम पेश किया है.
-
-### [मतदान का पेपर ट्रेल सबसे बड़ा सुरक्षा कवच, क्या कहते हैं विशेषज्ञ?](https://www.amarujala.com/world/usa-midterm-election-vote-theft-impossible-in-the-america-paper-trail-of-ballots-provides-safeguard-2026-10-14)
-*Amar Ujala World* - Oct 14, 05:01 IST (iso: 2026-10-13T23:31:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/10/donald-trump_fb8e9e07540c713332d1e4b548a4708e.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका में वोट चोरी को असंभव माना जाता है क्योंकि पेपर ट्रेल सबसे बड़ा सुरक्षा कवच है। विशेषज्ञों का कहना है कि भौतिक रिकॉर्ड की उपस्थिति में डिजिटल हेराफेरी का कोई रास्ता नहीं बचा। अमेरिका में वोट चोरी असंभव: मतदान का पेपर ट्रेल सबसे बड़ा सुरक्षा कवच, क्या कहते हैं विशेषज्ञ?
-
----
-
-## वैश्विक / बहुपक्षीय
-
-### [एआई में निवेश घटा तो दुनिया के बाजारों में मच सकती है उथल-पुथल, आम निवेशकों पर पड़ेगा असर?](https://www.amarujala.com/business/business-diary/ai-investment-slowdown-could-trigger-global-market-turmoil-imf-warns-2026-10-14)
-*Amar Ujala National* - Oct 14, 05:20 IST (iso: 2026-10-13T23:50:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/16/imf_f8af847b51ee3306dd0a92ac1c6d4567.jpeg?w=1200&dpr=1.0 -->
-
-आईएमएफ ने चेतावनी दी है कि एआई में निवेश घटने से बाजार उथल-पुथल हो सकती है। इसका असर आम निवेशकों पर भी पड़ेगा। रिपोर्ट में वैश्विक अस्थिरता का जोखिम उठाया गया है। एआई में निवेश घटा तो दुनिया के बाजारों में मच सकती है उथल-पुथल, आम निवेशकों पर पड़ेगा असर?
-
----
-
-## एशिया-प्रशांत
-
-### [त्योहारों पर महंगाई का डबल झटका: महीनेभर में 18 फीसदी महंगा हुआ चना, दिल्ली-नोएडा में 80 रुपये किलो](https://www.amarujala.com/india-news/festival-inflation-chickpea-prices-rise-18-onion-costs-up-to-rs-80-per-kg-in-delhi-ncr-2026-10-14)
-*Amar Ujala National* - Oct 14, 05:11 IST (iso: 2026-10-13T23:41:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/24/mahagaii-ka-mara_05ee6b2b0926d93a01a2020a6b65d6f9.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली-नोएडा में त्योहारों से पहले चने के दाम महीनेभर में 18 फीसदी बढ़कर 80 रुपये प्रति किलो तक पहुंच गए। प्याज के दाम भी उतने ही हैं। यह वृद्धि त्योहारी खरीदारी के दौरान उपभोक्ताओं पर भारी पड़ रही है। त्योहारों पर महंगाई का डबल झटका: महीनेभर में 18 फीसदी महंगा हुआ चना, दिल्ली-नोएडा में 80 रुपये किलो।
-
-### [नालासोपारा की हाईराइज में भीषण आग: जान बचाने के लिए बाहरी हिस्सों पर लटके लोग, क्रेन से रेस्क्यू](https://www.amarujala.com/india-news/maharashtra-massive-fire-at-imperial-heights-building-in-nalasopar-updates-in-hindi-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 04:18 IST (iso: 2026-10-13T22:48:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/nalasopara-high-rise-fire_719a2a3f36af8372d5b4c7c6e50c1e59.jpeg?w=1200&dpr=1.0 -->
-
-मुंबई के नालासोपारा में हाईराइज इमारत में भयंकर आग लग गई। बालकनी पर फंसे लोगों को क्रेन से बचाया गया। एक महिला की मौत की खबर मिली है। नालासोपारा की हाईराइज में भीषण आग: जान बचाने के लिए बाहरी हिस्सों पर लटके लोग, क्रेन से रेस्क्यू।
-
-### [अमेरिका से रिश्ते आसान नहीं, चीन को भी संभालना जरूरी; एफटीए पर क्या बोले विदेश मंत्री?](https://www.amarujala.com/india-news/s-jaishankar-on-india-us-relations-china-border-trade-deal-and-ai-regulation-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 03:03 IST (iso: 2026-10-13T21:33:25+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/esa-jayashakara-vathasha-matara_b5ff4d21d42109ede017a159166047a9.jpeg?w=1200&dpr=1.0 -->
-
-विदेश मंत्री जयशंकर ने कहा कि अमेरिका से संबंध आसान नहीं हैं। चीन के साथ रिश्ते को भी संभालना जरूरी है। जयशंकर का दो टूक संदेश: अमेरिका से रिश्ते आसान नहीं, चीन को भी संभालना जरूरी; एफटीए पर क्या बोले विदेश मंत्री?
-
-### [डिजिटल अरेस्ट कर सेवानिवृत्त वैज्ञानिक से 1.25 करोड़ ठगे, अंतरराष्ट्रीय गिरोह का भंडाफोड़; 11](https://www.amarujala.com/delhi-ncr/delhi-retired-scientist-swindled-out-of-1-25-crore-via-digital-arrest-2026-10-14)
-*Amar Ujala Breaking* - Oct 14, 02:09 IST (iso: 2026-10-13T20:39:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/06/digital-arrest_658535a4cbcfaefb6b446f833a84e783.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली पुलिस ने डिजिटल अरेस्ट के नाम पर 1.25 करोड़ रुपये ठगने वाले अंतरराष्ट्रीय गिरोह का भंडाफोड़ किया। इस गिरोह ने सेवानिवृत्त वैज्ञानिकों को निशाना बनाया था। दिल्ली पुलिस ने डिजिटल अरेस्ट के नाम पर 1.25 करोड़ रुपये की ठगी के मामले में बड़ी कार्रवाई की है। डिजिटल अरेस्ट कर सेवानिवृत्त वैज्ञानिक से 1.25 करोड़ ठगे, अंतरराष्ट्रीय गिरोह का भंडाफोड़; 11।
-
-### [चीन-तालिबान बना रहे लद्दाख-PoK का 'चोर दरवाजा’, वाखान कॉरिडोर बनेगा भारत के जी का जंजाल?](https://hindi.news18.com/world/south-asia-china-taliban-new-wakhan-corridor-road-near-ladakh-and-pok-why-it-is-major-security-threat-for-india-10907478.html)
-*News18 Hindi (World)* - Oct 13, 21:45 IST (iso: 2026-10-13T16:15:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/China-Taliban-New-Wakhan-Corridor-Road-Near-Ladakh-and-PoK-2026-10-e969059772dcbab5817064e57125ac89-1200x800.jpg -->
-
-चीन और तालिबान लद्दाख और पाकिस्तान के कब्जे वाले कश्मीर के पास वाखान कॉरिडोर में सड़क निर्माण कर रहे हैं। यह परियोजना भारत की सीमा सुरक्षा के लिए नई चुनौती पैदा करती है। चीन अब अफगानिस्ता में एक ऐसा प्रोजेक्ट तैयार कर रहा है, जो ऊपर से देखने पर बस एक आम सड़क लगती है. लेकिन अगर नक्शा और सुरक्षा देखें, तो खेल अलग है.
+नेतन्याहू ने माना कि हमास हमले से पहले मिस्र के खुफिया प्रमुख इजरायल आए थे। उन्होंने सुरक्षा एजेंसियों पर चूक का आरोप लगाया। यह बयान आगामी विधायी चुनावों के संदर्भ में आया है। Abbas Kamel’s visit to Israel: इजरायल में अक्टूबर महीने के आखिरी हफ्ते में विधायी चुनाव होने हैं। बीते दो दशक से इजरायली सत्ता में धुरी बने बेंजामिन नेतन्याहू अपने सियासी सफर में अब तक के सबसे मुश्किल दौर का सामना कर रहे हैं।
 
 ---
 

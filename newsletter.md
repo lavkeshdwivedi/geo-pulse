@@ -1,26 +1,62 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 14, 2026 06:12 IST
+**Updated:** October 14, 2026 11:04 IST
 
 ---
 
-## World
+## Asia-Pacific
 
-### [Why words like these can fail when a loved one is going through the worst](https://www.channelnewsasia.com/women/support-someone-cancer-grief-6423496)
-*Channel News Asia* - Oct 14, 05:06 IST (iso: 2026-10-13T23:36:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Cm5ghREw--/c_crop,h_1125,w_2000,x_0,y_20/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/01/saying-the-right-thing.jpg?itok=rItxH0WB -->
+### [US Navy’s SSN(X) won’t arrive for years as China closes sub gap](https://asiatimes.com/2026/10/us-navys-ssnx-wont-arrive-for-years-as-china-closes-sub-gap/)
+*Asia Times* - Oct 14, 09:34 IST (iso: 2026-10-14T04:04:27+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/US-Submarines-Shipyards-copy.jpeg -->
 
-Michelle Bong Lejtenyi found that perfect words often fail during grief. Her experience with cancer and loss taught her that sincerity matters more than precision. She now prioritizes honest presence over scripted responses when supporting loved ones through difficult times. Michelle Bong Lejtenyi has spent her career finding the right words, but when people she loved faced cancer and grief, she struggled with knowing what to say.
+The US Navy issued a sources-sought notice for its next-generation SSN(X) attack submarine. This move addresses the aging fleet while China closes the undersea gap. Chinese shipyards now offer superior capacity and acoustic stealth, challenging American naval dominance in the region. As the US Navy lays the groundwork for its next-generation SSN(X) attack submarine to replace its aging fleet, the US’s longstanding undersea supremacy faces an intensifying test against China’s rapid naval buildup, advancing acoustic stealth and superior shipyard capacity.
+
+### [Elon Musk and Mukesh Ambani’s feud over Starlink](https://www.thehindu.com/sci-tech/technology/elon-musk-and-mukesh-ambanis-feud-over-starlink-explained/article71577979.ece)
+*The Hindu (International)* - Oct 14, 08:08 IST (iso: 2026-10-14T02:38:53+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/wzwh3t/article71578006.ece/alternates/LANDSCAPE_1200/Film_-_Musk_14315.jpg -->
+
+Elon Musk argues India’s mobile internet market unfairly favors the Ambani family. He claims Starlink deserves a fair chance to compete in the country. Critics counter that allowing the service raises significant sovereignty and security concerns for the Indian government. Elon Musk believes that India’s mobile internet market is skewed to favour the Ambani family and that his Starlink service deserves a fair chance in the country.
+
+### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
+*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
+<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
+
+Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
+
+### [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)
+*The Guardian* - Oct 13, 22:04 IST (iso: 2026-10-13T16:34:13+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a933a93c8a95bbdec93acd09d70d5a41 -->
+
+An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bangka Belitung province. Hundreds of residents evacuated as shifting winds drove the blaze toward settlements. The incident adds to the country’s ongoing battle with devastating blazes and haze. Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlementA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitun.
+
+### [US turning B-52 bomber into long-range China ship killer](https://asiatimes.com/2026/10/us-turning-b-52-bomber-into-long-range-china-ship-killer/)
+*Asia Times* - Oct 13, 09:24 IST (iso: 2026-10-13T03:54:07+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/B-52-Bomber.jpeg -->
+
+The US Navy plans to equip B-52 bombers with AGM-158C Long-Range Anti-Ship Missiles to counter China's navy. Lockheed Martin will integrate the weapons under a sole-source contract. However, severe munition shortages and operational vulnerabilities may limit the strategic impact of this upgrade. While the US is arming its long-serving B-52 with potent ship-killing missiles to take on China’s expanding navy, severe munition constraints and operational vulnerabilities could undermine its strategic impact.
+
+### [Toward a Thaw in the Cambodia-Thailand Border Conflict](https://www.crisisgroup.org/rpt/asia-pacific/thailand-cambodia/359-toward-thaw-cambodia-thailand-border-conflict)
+*International Crisis Group* - Oct 09, 05:30 IST (iso: 2026-10-09T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/19525920/pexels-photo-19525920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Hostilities between Cambodia and Thailand ceased in late 2025 after two rounds of combat. The truce now faces growing strain. To prevent further war, both nations should restore normal diplomatic ties. They must also resume work on demarcating their shared border. Hostilities between Cambodia and Thailand ceased in late 2025, after two rounds of combat along the frontier. But the truce is under growing strain.
 
 ---
 
 ## Europe & Russia
 
+### [Trump's Ambassador to Greece resigns after allegations of improper conduct](https://www.thehindu.com/news/international/trumps-ambassador-to-greece-resigns-after-allegations-of-improper-conduct/article71582055.ece)
+*The Hindu (International)* - Oct 14, 08:12 IST (iso: 2026-10-14T02:42:11+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/uqjcpj/article71582056.ece/alternates/LANDSCAPE_1200/Trump_Guilfoyle_42837.jpg -->
+
+The Trump administration asked its ambassador to Greece to resign on October 13. She faced severe criticism over allegations of improper and possibly illegal conduct. The allegations covered actions taken before and during her tenure in Athens, prompting the immediate request for her departure. Mr. Trump's administration said on Tuesday (October 13) it had asked her to leave her post after she faced severe criticism over allegations she engaged in improper and possibly illegal conduct before and during her tenure in Athens.
+
 ### [Zelenskyy to visit Britain as Burnham pledges fresh support for Ukraine](https://www.thehindu.com/news/international/zelenskyy-to-visit-britain-as-burnham-pledges-fresh-support-for-ukraine/article71581319.ece)
 *The Hindu (International)* - Oct 14, 04:01 IST (iso: 2026-10-13T22:31:42+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/f2n4na/article71581320.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_Germany_51484.jpg -->
 
-Zelenskyy visits Britain as Andy Burnham pledges new support for Ukraine. The trip follows a U. S. deal with Russia on diesel exports. Trump recently suggested replacing Zelenskyy as Ukraine’s leader, adding pressure to the diplomatic visit. The meeting comes at a difficult time for the Ukrainian President, days after the U. S. made a deal with Russia for diesel exports and U. S.
+Zelenskyy visits Britain as Andy Burnham pledges new support for Ukraine. The trip follows a U. S. deal with Russia on diesel exports. Trump recently suggested replacing Zelenskyy as Ukraine’s leader, adding pressure to the diplomatic visit. The meeting comes at a difficult time for the Ukrainian President, days after the U. made a deal with Russia for diesel exports and U.
 
 ### [How Ukraine's Strikes On Data Centers Disrupted Taxis, Shopping, And Business In Russia And Beyond](https://www.rferl.org/a/ukraine-strikes-data-centers-disruption-shopping-business-russia/33875869.html)
 *Radio Free Europe / Liberty* - Oct 13, 20:48 IST (iso: 2026-10-13T15:18:22+00:00)
@@ -57,46 +93,6 @@ Donald Trump announced that Russia and Ukraine agreed to an energy cease-fire. T
 <!-- image: https://gdb.rferl.org/23916078-5be6-4e6d-aec4-7a9f8dd90033_cx0_cy6_cw0_w1200_h630.jpg -->
 
 Representative Brian Fitzpatrick is forcing a House vote on legislation to block Russian oil purchases. This move directly challenges President Donald Trump's decision to ease restrictions on Russian diesel exports. Lawmakers warn the policy shift could help finance Moscow's war against Ukraine. The procedural maneuver tests the limits of congressional authority over executive trade decisions. Republican Representative Brian Fitzpatrick plans to force a House vote on legislation blocking Russian oil purchases, challenging President Donald Trump's decision to ease restrictions on Russian diesel exports as lawmakers warn the move could help finance Moscow's war against Ukraine.
-
----
-
-## Asia-Pacific
-
-### [Malaysia’s haze-related school closures leave parents scrambling to keep children on track for exams](https://www.channelnewsasia.com/asia/malaysia-haze-school-closures-parents-exams-6455371)
-*Channel News Asia* - Oct 14, 03:30 IST (iso: 2026-10-13T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--ngbNsqsT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/dsc_0343_copy.jpg?itok=lJBOjXGt -->
-
-Haze-related school closures in Malaysia leave parents scrambling for exam preparation. Uncertainty over reopening dates creates significant inconvenience for families. Experts recommend prioritizing device loans for low-income households and offering flexible work arrangements to support students. Uncertainty over when schools in Malaysia would reopen has caused inconvenience, parents tell CNA. The authorities can help by prioritising device loans for low-income families and having flexible work arrangements for parents, says an expert.
-
-### [LVMH’s luxury recovery falters as Louis Vuitton and Dior owner hit by China slowdown](https://www.channelnewsasia.com/obsessions/lvmh-sales-fall-china-luxury-slowdown-6454711)
-*Channel News Asia* - Oct 14, 03:26 IST (iso: 2026-10-13T21:56:03+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--nPrvZl1c--/c_crop,h_1125,w_2000,x_0,y_163/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/louis_vuitton_spring_summer_2027_finale.jpg?itok=S4sDTHPI -->
-
-LVMH’s luxury recovery stalls as China demand weakens again. Fashion and leather goods sales fell five percent. The downturn raises questions about when the sector will stabilize. The slowdown hits Louis Vuitton and Dior owners just as recovery seemed likely. Just as the luxury industry appeared to be turning a corner, demand in China has weakened again. LVMH’s fashion and leather goods sales fell 5 per cent, raising fresh questions about when the downturn will end.
-
-### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
-*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
-<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
-
-Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
-
-### [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)
-*The Guardian* - Oct 13, 22:04 IST (iso: 2026-10-13T16:34:13+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a933a93c8a95bbdec93acd09d70d5a41 -->
-
-An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bangka Belitung province. Hundreds of residents evacuated as shifting winds drove the blaze toward settlements. The incident adds to the country’s ongoing battle with devastating blazes and haze. Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlementA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitun.
-
-### [US turning B-52 bomber into long-range China ship killer](https://asiatimes.com/2026/10/us-turning-b-52-bomber-into-long-range-china-ship-killer/)
-*Asia Times* - Oct 13, 09:24 IST (iso: 2026-10-13T03:54:07+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/B-52-Bomber.jpeg -->
-
-The US Navy plans to equip B-52 bombers with AGM-158C Long-Range Anti-Ship Missiles to counter China's navy. Lockheed Martin will integrate the weapons under a sole-source contract. However, severe munition shortages and operational vulnerabilities may limit the strategic impact of this upgrade. While the US is arming its long-serving B-52 with potent ship-killing missiles to take on China’s expanding navy, severe munition constraints and operational vulnerabilities could undermine its strategic impact.
-
-### [One freed American doesn’t equal US policy shift on Myanmar](https://asiatimes.com/2026/10/one-freed-american-doesnt-equal-us-policy-shift-on-myanmar/)
-*Asia Times* - Oct 12, 15:55 IST (iso: 2026-10-12T10:25:21+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/07/Myanmar-Min-Aung-Hlaing-June-2021.jpg -->
-
-The United States opened direct talks with Myanmar’s military junta. This follows the release of an American citizen. The move reverses years of diplomatic isolation. It does not signal a victory for the generals or a defeat for the revolution. The recent Reuters headline, “US opens direct talks with Myanmar’s generals, reversing years of isolation,” describes a consequential diplomatic change.
 
 ---
 
