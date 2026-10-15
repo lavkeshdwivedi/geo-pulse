@@ -1,66 +1,32 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 15, 2026 12:06 IST
+**Updated:** October 15, 2026 17:43 IST
 
 ---
 
-## Americas
+## Global / Multilateral
 
-### [Oil prices retreat as investors weigh supply outlook, West Asia tensions](https://www.thehindu.com/business/oil-prices-dip-as-supply-risks-from-west-asia-tensions-clash/article71586615.ece)
-*The Hindu (International)* - Oct 15, 10:01 IST (iso: 2026-10-15T04:31:55+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/y59rnj/article71586627.ece/alternates/LANDSCAPE_1200/iStock-2200761999.jpg -->
+### [Small states must have say as world shapes new compact with tech giants: Vivian Balakrishnan](https://www.channelnewsasia.com/singapore/small-states-say-compact-tech-giants-balakrishnan-6461956)
+*Channel News Asia* - Oct 15, 17:24 IST (iso: 2026-10-15T11:54:34+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--qKXj-dnL--/c_crop,h_275,w_489,x_1,y_53/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/vivian.png?itok=oqqJmSor -->
 
-Brent crude dropped 1.6 percent to 104.42 dollars a barrel. West Texas Intermediate fell one percent to 94.11 dollars. Investors reassessed global supply risks. The retreat reversed previous session gains. Brent crude futures fell $1.64, or 1.6%, to $104.42 a barrel by 0337 GMT, while U. S. West Texas Intermediate crude futures were down 98 cents, or 1%, to $94.11, reversing gains from the ‌previous session.
+Singapore's foreign minister Vivian Balakrishnan urged small states to secure a voice in a new global compact with tech giants. He called for shared norms and guardrails to accelerate technology adoption while managing associated risks. The proposal seeks to balance innovation speed with broader international stability. Dr Balakrishnan called for a compact between governments, tech firms and the wider international community to "develop common norms and guardrails so that we can accelerate the pace of technology and reap its benefits, but also deal with the risks".
 
-### [‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027](https://news.un.org/feed/view/en/story/2026/10/1168586)
+### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
 *UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/25-09-2026-UN-Photo-UNGA81-behind-scenes-03.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image560x340cropped.jpg -->
 
-António Guterres proposed a $3.3 billion budget for 2027. This represents a $40.8 million cut from previous plans. He cited climate disruption, AI, war, and hunger as drivers for the need. Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.
-
----
-
-## Asia-Pacific
-
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
-
-### [North Korea says it tested cruise missiles designed to be fired from submarines](https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece)
-*The Hindu (International)* - Oct 15, 08:46 IST (iso: 2026-10-15T03:16:33+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/69dezo/article71586565.ece/alternates/LANDSCAPE_1200/iStock-1153689138.jpg -->
-
-North Korea announced submarine-launched cruise missile tests. State media cited readiness assessments. The tests aimed to improve naval strategic capabilities. Officials highlighted the reliability of the nuclear deterrent. North Korean state media said the tests were aimed at assessing the readiness of the country's underwater combat systems, improving the Navy's ability to carry out strategic missions and demonstrating the reliability of its nuclear deterrent.
-
-### [‘Enormous potential’ for India-Canada ties amidst global uncertainty: Canadian Foreign Minister](https://www.thehindu.com/news/national/pm-modi-meets-canadian-minister-anita-anand-discussions/article71584510.ece)
-*The Hindu (International)* - Oct 14, 22:16 IST (iso: 2026-10-14T16:46:28+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/3w5yqi/article71584546.ece/alternates/LANDSCAPE_1200/HUl8po4a8AAV-kE.jpg -->
-
-Canadian Foreign Minister Anita Anand visited India to discuss bilateral ties. She met with S. Jaishankar and Piyush Goyal. Anand indicated Prime Minister Modi would visit Canada later in December to strengthen diplomatic relations. Minister Anita Anand is in India along with Minister of International Trade Maninder Sidhu for engagements with External Affairs Minister S. Jaishankar and Commerce Minister Piyush Goyal; the Canadian Minister indicated that PM Modi would visit Canada later in December.
-
-### [US Navy’s SSN(X) won’t arrive for years as China closes sub gap](https://asiatimes.com/2026/10/us-navys-ssnx-wont-arrive-for-years-as-china-closes-sub-gap/)
-*Asia Times* - Oct 14, 09:34 IST (iso: 2026-10-14T04:04:27+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/US-Submarines-Shipyards-copy.jpeg -->
-
-The US Navy issued a sources-sought notice for its next-generation SSN(X) attack submarine. This move addresses the aging fleet while China closes the undersea gap. Chinese shipyards now offer superior capacity and acoustic stealth, challenging American naval dominance in the region. As the US Navy lays the groundwork for its next-generation SSN(X) attack submarine to replace its aging fleet, the US’s longstanding undersea supremacy faces an intensifying test against China’s rapid naval buildup, advancing acoustic stealth and superior shipyard capacity.
-
-### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
-*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
-<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
-
-Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
-
-### [Indonesia wildfire fuelled by El Niño razes almost 300 homes](https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung)
-*The Guardian* - Oct 13, 22:04 IST (iso: 2026-10-13T16:34:13+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e4c27d536a0b1b6f81b2a36d1cce1eea34e0eb4/455_0_4408_3526/master/4408.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a933a93c8a95bbdec93acd09d70d5a41 -->
-
-An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bangka Belitung province. Hundreds of residents evacuated as shifting winds drove the blaze toward settlements. The incident adds to the country’s ongoing battle with devastating blazes and haze. Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlementA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitun.
+The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
 
 ---
 
 ## Europe & Russia
+
+### [Zelenskyy Vows Refinery Strikes, Expresses Anger At US Intel Disruption](https://www.rferl.org/a/zelenskyy-vows-refinery-strikes-us-intel-disruption-russia/33877090.html)
+*Radio Free Europe / Liberty* - Oct 15, 17:17 IST (iso: 2026-10-15T11:47:24+00:00)
+<!-- image: https://gdb.rferl.org/57b250f6-00d2-4105-6775-08df13a87200_cx0_cy0_cw99_w1200_h630.jpg -->
+
+Ukrainian forces struck an oil refinery in Russia's Ryazan region. President Volodymyr Zelenskyy confirmed the resumption of attacks on Russian energy facilities. He also expressed anger over a dangerous disruption of US satellite intelligence that hindered Ukrainian operations. Ukrainian forces have struck an oil refinery in Russia's Ryazan region, Russian officials said, hours after President Volodymyr Zelenskyy said Ukraine would resume attacks on Russian energy facilities and voiced anger over a "dangerous" disruption of satellite intelligence from the United States.
 
 ### [Ukrainian gain on a drone-filled battlefield](https://asiatimes.com/2026/10/operation-vivaldi-ukrainian-gain-on-a-drone-filled-battlefield/)
 *Asia Times* - Oct 15, 06:57 IST (iso: 2026-10-15T01:27:37+00:00)
@@ -110,25 +76,77 @@ Ukrainian drones hit three Yandex data centers. Repairs will take months. The st
 
 German prosecutors will begin a war crime trial regarding the Nord Stream pipeline explosions. The case marks the first public, sworn testimony on the incident after years of speculation. Prosecutors are blaming Ukrainian state actors for the sabotage. After four years of speculation, leaks, and briefings by anonymous sources, the world is finally about to hear evidence given publicly under oath in a German courtroom about how the Nord Stream gas pipelines were blown up -- in a case that could prove politically explosive.
 
-### [Zelenskyy Accuses Russia Of Breaking Trump's Cease-Fire On Energy Strikes](https://www.rferl.org/a/trump-russia-diesel-deal-ukraine-cease-fire/33875531.html)
-*Radio Free Europe / Liberty* - Oct 13, 05:39 IST (iso: 2026-10-13T00:09:16+00:00)
-<!-- image: https://gdb.rferl.org/ef720e57-c6b8-4baa-afca-4249eb5f6530_w1200_h630.jpg -->
+---
 
-Trump defended allowing Russian diesel exports despite criticism from Ukraine, Europe, and Republicans. He claimed an energy cease-fire exists between Kyiv and Moscow. Neither side has confirmed the arrangement. The move drew sharp backlash from allied governments and domestic opponents. US President Donald Trump, in the face of sharp criticism from officials in Ukraine, Europe, and even his Republican party, defended his decision to allow Russian diesel exports and insisted an energy cease-fire between Kyiv and Moscow is in place despite a lack of confirmation from either side.
+## Americas
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 16:08 IST (iso: 2026-10-15T10:38:26+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
+
+### [Oil prices retreat as investors weigh supply outlook, West Asia tensions](https://www.thehindu.com/business/oil-prices-dip-as-supply-risks-from-west-asia-tensions-clash/article71586615.ece)
+*The Hindu (International)* - Oct 15, 10:01 IST (iso: 2026-10-15T04:31:55+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/y59rnj/article71586627.ece/alternates/LANDSCAPE_1200/iStock-2200761999.jpg -->
+
+Brent crude dropped 1.6 percent to 104.42 dollars a barrel. West Texas Intermediate fell one percent to 94.11 dollars. Investors reassessed global supply risks. The retreat reversed previous session gains. Brent crude futures fell $1.64, or 1.6%, to $104.42 a barrel by 0337 GMT, while U. S. West Texas Intermediate crude futures were down 98 cents, or 1%, to $94.11, reversing gains from the ‌previous session.
+
+### [‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027](https://news.un.org/feed/view/en/story/2026/10/1168586)
+*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/25-09-2026-UN-Photo-UNGA81-behind-scenes-03.jpg/image560x340cropped.jpg -->
+
+António Guterres proposed a $3.3 billion budget for 2027. This represents a $40.8 million cut from previous plans. He cited climate disruption, AI, war, and hunger as drivers for the need. Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.
 
 ---
 
-## World
+## Asia-Pacific
 
-### [Why the debate between Keynesian and orthodox economics matters](https://www.thehindu.com/news/international/why-the-debate-between-keynesian-and-orthodox-economics-matters/article71583919.ece)
-*The Hindu (International)* - Oct 14, 22:41 IST (iso: 2026-10-14T17:11:43+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/33v8mr/article71585260.ece/alternates/LANDSCAPE_1200/iStock-2268429404.jpg -->
+### [North Korea says it tested cruise missiles designed to be fired from submarines](https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece)
+*The Hindu (International)* - Oct 15, 15:20 IST (iso: 2026-10-15T09:50:28+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/69dezo/article71586565.ece/alternates/LANDSCAPE_1200/iStock-1153689138.jpg -->
 
-Keynesian economics prioritizes demand for growth. Orthodox models focus on supply. Inflation targeting shifted burdens to workers. Wage shares have fallen under this framework. Keynes-Kalecki framework holds that demand, in particular private investment, shapes short-term fluctuations as well as long-term growth, unlike orthodox approaches that see supply as determining long-term growth; shift towards inflation targeting coincided with falling wage shares and greater burden on workers.
+North Korea announced submarine-launched cruise missile tests. State media cited readiness assessments. The tests aimed to improve naval strategic capabilities. Officials highlighted the reliability of the nuclear deterrent. North Korean state media said the tests were aimed at assessing the readiness of the country's underwater combat systems, improving the Navy's ability to carry out strategic missions and demonstrating the reliability of its nuclear deterrent.
+
+### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
+*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
+
+Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
+
+### [US Navy’s SSN(X) won’t arrive for years as China closes sub gap](https://asiatimes.com/2026/10/us-navys-ssnx-wont-arrive-for-years-as-china-closes-sub-gap/)
+*Asia Times* - Oct 14, 09:34 IST (iso: 2026-10-14T04:04:27+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/US-Submarines-Shipyards-copy.jpeg -->
+
+The US Navy issued a sources-sought notice for its next-generation SSN(X) attack submarine. This move addresses the aging fleet while China closes the undersea gap. Chinese shipyards now offer superior capacity and acoustic stealth, challenging American naval dominance in the region. As the US Navy lays the groundwork for its next-generation SSN(X) attack submarine to replace its aging fleet, the US’s longstanding undersea supremacy faces an intensifying test against China’s rapid naval buildup, advancing acoustic stealth and superior shipyard capacity.
+
+### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
+*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
+<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
+
+Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
 
 ---
 
 ## Middle East & Africa
+
+### [Houthi attack on Saudi oil giant raises global energy concerns](https://www.thehindu.com/videos/houthi-attack-on-saudi-oil-giant-raises-global-energy-concerns/article71587462.ece)
+*The Hindu (International)* - Oct 15, 15:17 IST (iso: 2026-10-15T09:47:58+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ppoo1r/article71587459.ece/alternates/LANDSCAPE_1200/TeMEN.jpg.jpeg -->
+
+Iran-backed Houthis targeted the headquarters of Saudi oil giant Aramco in Dhahran. The strike damaged parts of the facility but caused no fatalities. The attack highlights the rebels' growing ability to hit strategic targets deep inside Saudi Arabia. The conflict in Yemen has entered a dangerous new phase after Iran-backed Houthi rebels targeted the headquarters of Saudi oil giant Aramco in Dhahran.
+
+### [US banks on bunker-busting Tomahawks to crack China’s missile wall](https://asiatimes.com/2026/10/us-banks-on-bunker-busting-tomahawks-to-crack-chinas-missile-wall/)
+*Asia Times* - Oct 15, 14:37 IST (iso: 2026-10-15T09:07:53+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Tomahawks-1.jpeg -->
+
+The US Navy plans to award Raytheon a sole-source contract for bunker-busting Tomahawk missiles. The move aims to counter deeply buried missile sites protected by robust air defenses. However, the system faces significant logistical and escalation challenges if deployed against China. The US Navy’s bunker-busting Tomahawk push reflects growing recognition from the Iran war that striking deeply buried missile sites protected by robust air defenses requires long-range standoff weapons.
+
+### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
+*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
+
+Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
 
 ### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial)
 *The Guardian* - Oct 14, 18:46 IST (iso: 2026-10-14T13:16:30+00:00)
@@ -153,28 +171,6 @@ The WHO reported over 125,000 suspected cholera cases in the Democratic Republic
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image770x420cropped.jpg -->
 
 The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.
-
-### [Pulling Ethiopia and Eritrea Back from War](https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war)
-*International Crisis Group* - Oct 13, 03:14 IST (iso: 2026-10-12T21:44:00+00:00)
-<!-- image: https://images.pexels.com/photos/20865956/pexels-photo-20865956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Ethiopia and Eritrea are edging closer to direct conflict, threatening stability in the Horn of Africa and Red Sea basin. Diplomatic efforts remain active to avert disaster. The situation risks escalating regional mayhem if tensions between Addis Ababa and Asmara continue to intensify. Addis Ababa and Asmara are edging closer to a direct conflict, which would cause further mayhem in the troubled Horn of Africa and the Red Sea basin.
-
-### [Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau](https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr)
-*The Guardian* - Oct 10, 03:06 IST (iso: 2026-10-09T21:36:18+00:00)
-<!-- image: https://i.guim.co.uk/img/media/13d3a4f2328095370b529ac27978a47a800ac111/428_0_4250_3400/master/4250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70af779be14ee568d6b9cd1795ad7da2 -->
-
-Guinea-Bissau approved a controversial trial to withhold hepatitis B vaccines from thousands of newborns. Danish researchers will conduct the study. It aligns with the vaccine vision of US Health and Human Services Secretary Robert F. Kennedy Jr. Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward this week. It is a central part of the vaccine vision for Robert F Kennedy Jr, the secretary of the US Department of Health and Human Services (HHS) and a longtime.
-
----
-
-## Global / Multilateral
-
-### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
-*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image560x340cropped.jpg -->
-
-The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
 
 ---
 
