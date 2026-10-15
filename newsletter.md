@@ -1,12 +1,12 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 15, 2026 04:16 IST
+**Updated:** October 15, 2026 06:32 IST
 
 ---
 
 ## Asia-Pacific
 
-### [They lost loved ones in Nepal’s flood but found a way through grief to help others](https://www.channelnewsasia.com/cna-insider/insider/nepal-flood-wake-china-himalayas-natural-disaster-loss-resilience-6459271)
+### [In the wake of Nepal’s devastating flood, stories of loss and resilience](https://www.channelnewsasia.com/cna-insider/insider/nepal-flood-wake-china-himalayas-natural-disaster-loss-resilience-6459271)
 *Channel News Asia* - Oct 15, 03:30 IST (iso: 2026-10-14T22:00:00+00:00)
 <!-- image: https://dam.mediacorp.sg/image/upload/s--6RlSJdYl--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/nepal_-_the_flood_wake_textless.00_45_40_05.still055.jpg?itok=gJj0hl6j -->
 
