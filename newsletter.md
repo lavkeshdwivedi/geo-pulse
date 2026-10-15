@@ -1,26 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 15, 2026 17:43 IST
-
----
-
-## Global / Multilateral
-
-### [Small states must have say as world shapes new compact with tech giants: Vivian Balakrishnan](https://www.channelnewsasia.com/singapore/small-states-say-compact-tech-giants-balakrishnan-6461956)
-*Channel News Asia* - Oct 15, 17:24 IST (iso: 2026-10-15T11:54:34+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--qKXj-dnL--/c_crop,h_275,w_489,x_1,y_53/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/vivian.png?itok=oqqJmSor -->
-
-Singapore's foreign minister Vivian Balakrishnan urged small states to secure a voice in a new global compact with tech giants. He called for shared norms and guardrails to accelerate technology adoption while managing associated risks. The proposal seeks to balance innovation speed with broader international stability. Dr Balakrishnan called for a compact between governments, tech firms and the wider international community to "develop common norms and guardrails so that we can accelerate the pace of technology and reap its benefits, but also deal with the risks".
-
-### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
-*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image560x340cropped.jpg -->
-
-The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
+**Updated:** October 15, 2026 22:56 IST
 
 ---
 
 ## Europe & Russia
+
+### [U.S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report](https://www.thehindu.com/news/international/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-report/article71541486.ece)
+*The Hindu (International)* - Oct 15, 22:46 IST (iso: 2026-10-15T17:16:55+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/a0blxh/article71541509.ece/alternates/LANDSCAPE_1200/2026-09-23T215100Z_460740872_RC2Z7GA62BPA_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-G20.JPG -->
+
+U. S.-Russia Ukraine talks include a multi-billion dollar oil deal. The agreement covers Lukoil's global oil fields, refineries, and gas stations. It remains contingent on approval from both the U. S. government and the Kremlin. The deal, ‌which ⁠is contingent on approval from ⁠the U. S. U. S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report.
+
+### [Ukraine resumes attacks on Russian oil refineries as U.S. relations teeter](https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece)
+*The Hindu (International)* - Oct 15, 22:32 IST (iso: 2026-10-15T17:02:48+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/9jk8u1/article71589704.ece/alternates/LANDSCAPE_1200/2026-10-15T112352Z_665012958_RC2M3OA45VAX_RTRMADP_3_UKRAINE-CRISIS-ATTACK-AIRCRAFT.JPG -->
+
+Ukraine resumed attacks on Russian oil refineries. President Zelenskyy stated the country is losing a strong partner in the United States. He expressed pain over President Trump choosing another side but accepted the current diplomatic position. Ukraine President Zekenskyy said “we are losing a strong partner” in the United States. He said that “it's painful when President Trump chooses one side, not our side.
+
+### [Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows](https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina)
+*The Guardian* - Oct 15, 20:30 IST (iso: 2026-10-15T15:00:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/7a3051eb83a4d608d022486b58f9cbc9b2df1160/807_0_7913_6328/master/7913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=630f9edf71b0fc3f9db267657df7860d -->
+
+Santiago Caputo, adviser to Argentine President Milei, claimed the UK is being colonized by Islam. He cited the election of MP Sagal Abdi-Wali as evidence. The post supports Argentina's push for sovereignty over the Falkland Islands. Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s presidentThe chief adviser to Argentina’s president, Javier Milei, has cited the election of Sagal Abdi-Wali to the UK parliament as evidence of the Islamisation of Britain and further reason for Argentina to take sovereignty over the Falkland Islands. In a post on social media, S.
 
 ### [Zelenskyy Vows Refinery Strikes, Expresses Anger At US Intel Disruption](https://www.rferl.org/a/zelenskyy-vows-refinery-strikes-us-intel-disruption-russia/33877090.html)
 *Radio Free Europe / Liberty* - Oct 15, 17:17 IST (iso: 2026-10-15T11:47:24+00:00)
@@ -70,43 +72,15 @@ Russia continues its aerial campaign against Ukrainian infrastructure, targeting
 
 Ukrainian drones hit three Yandex data centers. Repairs will take months. The strikes disrupted taxi services, online shopping, and business operations across Russia and other countries where the tech firm operates. Ukrainian drone strikes on three data centers operated by Russia’s Yandex will reportedly take months to repair and have caused widespread disruption in everyday life across Russia and other countries the sprawling tech company operates in.
 
-### [Germany Starts Nord Stream 'War Crime' Trial With Prosecutors Blaming Ukrainian 'State Authorities'](https://www.rferl.org/a/germany-trial-nord-stream-gas-pipeline-russia-ukraine/33873494.html)
-*Radio Free Europe / Liberty* - Oct 13, 12:39 IST (iso: 2026-10-13T07:09:17+00:00)
-<!-- image: https://gdb.rferl.org/405a0b3f-ead9-4b0d-02ec-08de3bed1b27_cx8_cy9_cw91_w1200_h630.jpg -->
-
-German prosecutors will begin a war crime trial regarding the Nord Stream pipeline explosions. The case marks the first public, sworn testimony on the incident after years of speculation. Prosecutors are blaming Ukrainian state actors for the sabotage. After four years of speculation, leaks, and briefings by anonymous sources, the world is finally about to hear evidence given publicly under oath in a German courtroom about how the Nord Stream gas pipelines were blown up -- in a case that could prove politically explosive.
-
----
-
-## Americas
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 16:08 IST (iso: 2026-10-15T10:38:26+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
-
-### [Oil prices retreat as investors weigh supply outlook, West Asia tensions](https://www.thehindu.com/business/oil-prices-dip-as-supply-risks-from-west-asia-tensions-clash/article71586615.ece)
-*The Hindu (International)* - Oct 15, 10:01 IST (iso: 2026-10-15T04:31:55+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/y59rnj/article71586627.ece/alternates/LANDSCAPE_1200/iStock-2200761999.jpg -->
-
-Brent crude dropped 1.6 percent to 104.42 dollars a barrel. West Texas Intermediate fell one percent to 94.11 dollars. Investors reassessed global supply risks. The retreat reversed previous session gains. Brent crude futures fell $1.64, or 1.6%, to $104.42 a barrel by 0337 GMT, while U. S. West Texas Intermediate crude futures were down 98 cents, or 1%, to $94.11, reversing gains from the ‌previous session.
-
-### [‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027](https://news.un.org/feed/view/en/story/2026/10/1168586)
-*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/25-09-2026-UN-Photo-UNGA81-behind-scenes-03.jpg/image560x340cropped.jpg -->
-
-António Guterres proposed a $3.3 billion budget for 2027. This represents a $40.8 million cut from previous plans. He cited climate disruption, AI, war, and hunger as drivers for the need. Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.
-
 ---
 
 ## Asia-Pacific
 
-### [North Korea says it tested cruise missiles designed to be fired from submarines](https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece)
-*The Hindu (International)* - Oct 15, 15:20 IST (iso: 2026-10-15T09:50:28+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/69dezo/article71586565.ece/alternates/LANDSCAPE_1200/iStock-1153689138.jpg -->
+### [New China-North Korea bridge opens after more than a decade of delay](https://www.thehindu.com/news/international/new-china-north-korea-bridge-opens-after-more-than-a-decade-of-delay/article71589742.ece)
+*The Hindu (International)* - Oct 15, 22:46 IST (iso: 2026-10-15T17:16:23+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ymsc4p/article71589750.ece/alternates/LANDSCAPE_1200/2026-10-15T103925Z_834472537_RC2L3OAE1W1Q_RTRMADP_3_CHINA-NORTHKOREA-BRIDGE.JPG -->
 
-North Korea announced submarine-launched cruise missile tests. State media cited readiness assessments. The tests aimed to improve naval strategic capabilities. Officials highlighted the reliability of the nuclear deterrent. North Korean state media said the tests were aimed at assessing the readiness of the country's underwater combat systems, improving the Navy's ability to carry out strategic missions and demonstrating the reliability of its nuclear deterrent.
+The New Yalu River Bridge connecting China and North Korea has opened. Construction began years ago, with China completing its side by 2014. North Korea delayed the project for over a decade before finishing its portion. The New Yalu River Bridge initially was expected to enter use in 2014, when China had apparently completed construction on its side. But North Korea had not done corresponding work on its side at the time.
 
 ### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
 *The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
@@ -128,13 +102,33 @@ Satellite imagery confirms the Taliban completed a road to the China-Afghanistan
 
 ---
 
+## Americas
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
+
+---
+
+## Global / Multilateral
+
+### [WHO urges faster action to end lead exposure which kills 3.5 million annually](https://news.un.org/feed/view/en/story/2026/10/1168600)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image770x420cropped.jpg -->
+
+The World Health Organization urged countries to accelerate efforts to prevent lead exposure. The toxic metal causes more than 3.5 million deaths globally each year. It also affects hundreds of millions of children worldwide. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
+
+### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
+*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image560x340cropped.jpg -->
+
+The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
+
+---
+
 ## Middle East & Africa
-
-### [Houthi attack on Saudi oil giant raises global energy concerns](https://www.thehindu.com/videos/houthi-attack-on-saudi-oil-giant-raises-global-energy-concerns/article71587462.ece)
-*The Hindu (International)* - Oct 15, 15:17 IST (iso: 2026-10-15T09:47:58+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ppoo1r/article71587459.ece/alternates/LANDSCAPE_1200/TeMEN.jpg.jpeg -->
-
-Iran-backed Houthis targeted the headquarters of Saudi oil giant Aramco in Dhahran. The strike damaged parts of the facility but caused no fatalities. The attack highlights the rebels' growing ability to hit strategic targets deep inside Saudi Arabia. The conflict in Yemen has entered a dangerous new phase after Iran-backed Houthi rebels targeted the headquarters of Saudi oil giant Aramco in Dhahran.
 
 ### [US banks on bunker-busting Tomahawks to crack China’s missile wall](https://asiatimes.com/2026/10/us-banks-on-bunker-busting-tomahawks-to-crack-chinas-missile-wall/)
 *Asia Times* - Oct 15, 14:37 IST (iso: 2026-10-15T09:07:53+00:00)
@@ -168,9 +162,15 @@ The WHO reported over 125,000 suspected cholera cases in the Democratic Republic
 
 ### [WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery](https://news.un.org/feed/view/en/story/2026/10/1168591)
 *UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg -->
 
 The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.
+
+### [Pulling Ethiopia and Eritrea Back from War](https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war)
+*International Crisis Group* - Oct 13, 03:14 IST (iso: 2026-10-12T21:44:00+00:00)
+<!-- image: https://images.pexels.com/photos/20865956/pexels-photo-20865956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Ethiopia and Eritrea are edging closer to direct conflict, threatening the Horn of Africa and Red Sea basin. The two nations face a potential war that could destabilize the region further. Diplomatic efforts remain active to avert this disaster. The situation requires immediate intervention to prevent escalation. Addis Ababa and Asmara are edging closer to a direct conflict, which would cause further mayhem in the troubled Horn of Africa and the Red Sea basin.
 
 ---
 
