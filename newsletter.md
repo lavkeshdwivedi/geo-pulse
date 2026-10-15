@@ -1,16 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 15, 2026 22:56 IST
+**Updated:** October 16, 2026 02:07 IST
 
 ---
 
 ## Europe & Russia
 
+### [Germany warns against bringing Russia back into G20 fold](https://www.channelnewsasia.com/world/germany-russia-g20-us-bangkok-meeting-6463326)
+*Channel News Asia* - Oct 15, 23:52 IST (iso: 2026-10-15T18:22:27+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--SOQ79vUe--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-15T055333Z_1_LYNXMPEM9E0DV_RTROPTP_3_GERMANY-ECONOMY-MERZ.JPG?itok=aEsqDoZu -->
+
+German Finance Minister Lars Klingbeil rejected Russia's return to the G20 at a Bangkok meeting. He stated Europe would not treat Moscow as a normal member. The warning came as finance ministers discussed global economic stability and sanctions enforcement. At a G20 finance ministers’ meeting in Bangkok, German Finance Minister Lars Klingbeil said, “There will be no pretending that Russia is now returning as a normal member of the G20 and simply taking its seat at the table again - not with me, and not with the other Europeans.”.
+
 ### [U.S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report](https://www.thehindu.com/news/international/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-report/article71541486.ece)
 *The Hindu (International)* - Oct 15, 22:46 IST (iso: 2026-10-15T17:16:55+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/a0blxh/article71541509.ece/alternates/LANDSCAPE_1200/2026-09-23T215100Z_460740872_RC2Z7GA62BPA_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-G20.JPG -->
 
-U. S.-Russia Ukraine talks include a multi-billion dollar oil deal. The agreement covers Lukoil's global oil fields, refineries, and gas stations. It remains contingent on approval from both the U. S. government and the Kremlin. The deal, ‌which ⁠is contingent on approval from ⁠the U. S. U. S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report.
+U. S.-Russia Ukraine talks include a multi-billion dollar oil deal. The agreement covers Lukoil's global oil fields, refineries, and gas stations. It remains contingent on approval from both the U. S. government and the Kremlin. The deal, ‌which ⁠is contingent on approval from ⁠the U. S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report.
 
 ### [Ukraine resumes attacks on Russian oil refineries as U.S. relations teeter](https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece)
 *The Hindu (International)* - Oct 15, 22:32 IST (iso: 2026-10-15T17:02:48+00:00)
@@ -23,6 +29,12 @@ Ukraine resumed attacks on Russian oil refineries. President Zelenskyy stated th
 <!-- image: https://i.guim.co.uk/img/media/7a3051eb83a4d608d022486b58f9cbc9b2df1160/807_0_7913_6328/master/7913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=630f9edf71b0fc3f9db267657df7860d -->
 
 Santiago Caputo, adviser to Argentine President Milei, claimed the UK is being colonized by Islam. He cited the election of MP Sagal Abdi-Wali as evidence. The post supports Argentina's push for sovereignty over the Falkland Islands. Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s presidentThe chief adviser to Argentina’s president, Javier Milei, has cited the election of Sagal Abdi-Wali to the UK parliament as evidence of the Islamisation of Britain and further reason for Argentina to take sovereignty over the Falkland Islands. In a post on social media, S.
+
+### [The world is waging a ‘war on nature’ as progress on biodiversity targets lags](https://news.un.org/feed/view/en/story/2026/10/1168607)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image770x420cropped.jpg -->
+
+The UN warns fewer than half of national biodiversity targets are on track. This report arrives days before the COP17 conference in Yerevan, Armenia. The assessment highlights a significant gap in global efforts to protect plants, animals, and ecosystems from further degradation. Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.
 
 ### [Zelenskyy Vows Refinery Strikes, Expresses Anger At US Intel Disruption](https://www.rferl.org/a/zelenskyy-vows-refinery-strikes-us-intel-disruption-russia/33877090.html)
 *Radio Free Europe / Liberty* - Oct 15, 17:17 IST (iso: 2026-10-15T11:47:24+00:00)
@@ -66,12 +78,6 @@ Russian ballistic missiles struck Kyiv overnight, killing three people and injur
 
 Russia continues its aerial campaign against Ukrainian infrastructure, targeting apartment buildings, bridges, and power plants. As winter approaches, Kyiv residents are preparing for potential outages. The sustained attacks on the electricity grid aim to degrade civilian resilience during the colder months. Russia shows no sign of letting up on its escalating aerial campaign against Ukraine’s apartment buildings, bridges, power plants, electricity grid, and other targets.
 
-### [How Ukraine's Strikes On Data Centers Disrupted Taxis, Shopping, And Business In Russia And Beyond](https://www.rferl.org/a/ukraine-strikes-data-centers-disruption-shopping-business-russia/33875869.html)
-*Radio Free Europe / Liberty* - Oct 13, 20:48 IST (iso: 2026-10-13T15:18:22+00:00)
-<!-- image: https://gdb.rferl.org/ACE18C82-6BF4-4550-9549-C3154D22D2ED.jpg -->
-
-Ukrainian drones hit three Yandex data centers. Repairs will take months. The strikes disrupted taxi services, online shopping, and business operations across Russia and other countries where the tech firm operates. Ukrainian drone strikes on three data centers operated by Russia’s Yandex will reportedly take months to repair and have caused widespread disruption in everyday life across Russia and other countries the sprawling tech company operates in.
-
 ---
 
 ## Asia-Pacific
@@ -82,17 +88,17 @@ Ukrainian drones hit three Yandex data centers. Repairs will take months. The st
 
 The New Yalu River Bridge connecting China and North Korea has opened. Construction began years ago, with China completing its side by 2014. North Korea delayed the project for over a decade before finishing its portion. The New Yalu River Bridge initially was expected to enter use in 2014, when China had apparently completed construction on its side. But North Korea had not done corresponding work on its side at the time.
 
+### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg -->
+
+Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
+
 ### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
 *The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
 <!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
 
 Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
-
-### [US Navy’s SSN(X) won’t arrive for years as China closes sub gap](https://asiatimes.com/2026/10/us-navys-ssnx-wont-arrive-for-years-as-china-closes-sub-gap/)
-*Asia Times* - Oct 14, 09:34 IST (iso: 2026-10-14T04:04:27+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/US-Submarines-Shipyards-copy.jpeg -->
-
-The US Navy issued a sources-sought notice for its next-generation SSN(X) attack submarine. This move addresses the aging fleet while China closes the undersea gap. Chinese shipyards now offer superior capacity and acoustic stealth, challenging American naval dominance in the region. As the US Navy lays the groundwork for its next-generation SSN(X) attack submarine to replace its aging fleet, the US’s longstanding undersea supremacy faces an intensifying test against China’s rapid naval buildup, advancing acoustic stealth and superior shipyard capacity.
 
 ### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
 *Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
@@ -114,17 +120,17 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 
 ## Global / Multilateral
 
+### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
+
+A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
+
 ### [WHO urges faster action to end lead exposure which kills 3.5 million annually](https://news.un.org/feed/view/en/story/2026/10/1168600)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image770x420cropped.jpg -->
 
 The World Health Organization urged countries to accelerate efforts to prevent lead exposure. The toxic metal causes more than 3.5 million deaths globally each year. It also affects hundreds of millions of children worldwide. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
-
-### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
-*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image560x340cropped.jpg -->
-
-The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
 
 ---
 
@@ -148,29 +154,23 @@ Senegal authorities detained more than 320 LGBTQ+ individuals since February aft
 
 Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
 
-### [Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable](https://news.un.org/feed/view/en/story/2026/10/1168596)
-*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-02-2026-WFP-Gaza-02.jpg/image770x420cropped.jpg -->
-
-The UN and partners are preparing for winter in Gaza despite ongoing attacks on civilians. OCHA highlighted the urgent need for cold and rainy season support. Humanitarian efforts continue amid persistent violence and displacement in the territory. The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.
-
-### [Cholera cases spike amid fight against Ebola](https://news.un.org/feed/view/en/story/2026/10/1168595)
-*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image770x420cropped.jpg -->
-
-The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.
-
 ### [WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery](https://news.un.org/feed/view/en/story/2026/10/1168591)
 *UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg -->
 
 The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.
 
-### [Pulling Ethiopia and Eritrea Back from War](https://www.crisisgroup.org/alr/africa/ethiopia-eritrea/pulling-ethiopia-and-eritrea-back-war)
-*International Crisis Group* - Oct 13, 03:14 IST (iso: 2026-10-12T21:44:00+00:00)
-<!-- image: https://images.pexels.com/photos/20865956/pexels-photo-20865956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+### [Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable](https://news.un.org/feed/view/en/story/2026/10/1168596)
+*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-02-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg -->
 
-Ethiopia and Eritrea are edging closer to direct conflict, threatening the Horn of Africa and Red Sea basin. The two nations face a potential war that could destabilize the region further. Diplomatic efforts remain active to avert this disaster. The situation requires immediate intervention to prevent escalation. Addis Ababa and Asmara are edging closer to a direct conflict, which would cause further mayhem in the troubled Horn of Africa and the Red Sea basin.
+The UN and partners are preparing for winter in Gaza despite ongoing attacks on civilians. OCHA highlighted the urgent need for cold and rainy season support. Humanitarian efforts continue amid persistent violence and displacement in the territory. The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.
+
+### [Cholera cases spike amid fight against Ebola](https://news.un.org/feed/view/en/story/2026/10/1168595)
+*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg -->
+
+The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.
 
 ---
 
