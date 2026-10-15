@@ -1,28 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 16, 2026 02:07 IST
+**Updated:** October 16, 2026 04:52 IST
+
+---
+
+## Asia-Pacific
+
+### [‘AI lowers the capital needed’: India’s drug discovery push faces test of human trials](https://www.channelnewsasia.com/asia/ai-lowers-capital-needed-indias-drug-discovery-push-faces-test-human-trials-6462176)
+*Channel News Asia* - Oct 16, 03:30 IST (iso: 2026-10-15T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--vxjMcuNU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/indian_pharma_vaccine_-_afp.jpg?itok=lwq2nrs- -->
+
+Indian biopharmaceutical firms use artificial intelligence to identify drug candidates faster and cheaper. However, industry experts warn the technology only addresses part of the lengthy development process. Human trials remain the critical bottleneck for these AI-assisted discoveries. Indian scientists and biopharmaceutical firms are using artificial intelligence to identify promising drug candidates faster and at lower cost. But industry experts tell CNA the technology can address only part of a lengthy and risky development process.
+
+### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg -->
+
+Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
+
+### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
+*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
+
+Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
+
+### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
+*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
+<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
+
+Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
 
 ---
 
 ## Europe & Russia
 
-### [Germany warns against bringing Russia back into G20 fold](https://www.channelnewsasia.com/world/germany-russia-g20-us-bangkok-meeting-6463326)
-*Channel News Asia* - Oct 15, 23:52 IST (iso: 2026-10-15T18:22:27+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--SOQ79vUe--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-15T055333Z_1_LYNXMPEM9E0DV_RTROPTP_3_GERMANY-ECONOMY-MERZ.JPG?itok=aEsqDoZu -->
+### [Attacking Trump, Zelensky showed lack of judgment](https://asiatimes.com/2026/10/attacking-trump-zelensky-showed-lack-of-judgment/)
+*Asia Times* - Oct 16, 02:53 IST (iso: 2026-10-15T21:23:34+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/b6565b19-a102-4f43-9a7c-abda64481139_1014x676-copy.jpg -->
 
-German Finance Minister Lars Klingbeil rejected Russia's return to the G20 at a Bangkok meeting. He stated Europe would not treat Moscow as a normal member. The warning came as finance ministers discussed global economic stability and sanctions enforcement. At a G20 finance ministers’ meeting in Bangkok, German Finance Minister Lars Klingbeil said, “There will be no pretending that Russia is now returning as a normal member of the G20 and simply taking its seat at the table again - not with me, and not with the other Europeans.”.
-
-### [U.S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report](https://www.thehindu.com/news/international/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-report/article71541486.ece)
-*The Hindu (International)* - Oct 15, 22:46 IST (iso: 2026-10-15T17:16:55+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/a0blxh/article71541509.ece/alternates/LANDSCAPE_1200/2026-09-23T215100Z_460740872_RC2Z7GA62BPA_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-G20.JPG -->
-
-U. S.-Russia Ukraine talks include a multi-billion dollar oil deal. The agreement covers Lukoil's global oil fields, refineries, and gas stations. It remains contingent on approval from both the U. S. government and the Kremlin. The deal, ‌which ⁠is contingent on approval from ⁠the U. S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report.
-
-### [Ukraine resumes attacks on Russian oil refineries as U.S. relations teeter](https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece)
-*The Hindu (International)* - Oct 15, 22:32 IST (iso: 2026-10-15T17:02:48+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/9jk8u1/article71589704.ece/alternates/LANDSCAPE_1200/2026-10-15T112352Z_665012958_RC2M3OA45VAX_RTRMADP_3_UKRAINE-CRISIS-ATTACK-AIRCRAFT.JPG -->
-
-Ukraine resumed attacks on Russian oil refineries. President Zelenskyy stated the country is losing a strong partner in the United States. He expressed pain over President Trump choosing another side but accepted the current diplomatic position. Ukraine President Zekenskyy said “we are losing a strong partner” in the United States. He said that “it's painful when President Trump chooses one side, not our side.
+Volodymyr Zelensky criticized Donald Trump after Ukraine struck two Russian oil refineries. Russian Deputy Prime Minister Aleksandr Novak confirmed the attacks on the facilities. Zelensky had previously thwarted a US request to avoid targeting Russian energy infrastructure. Ukrainian President Volodymyr Zelensky’s harsh words about US President Donald Trump were an emotional response after Zelensky deliberately thwarted Trump’s request that Ukraine not strike Russian refineries.
 
 ### [Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows](https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina)
 *The Guardian* - Oct 15, 20:30 IST (iso: 2026-10-15T15:00:23+00:00)
@@ -78,33 +94,11 @@ Russian ballistic missiles struck Kyiv overnight, killing three people and injur
 
 Russia continues its aerial campaign against Ukrainian infrastructure, targeting apartment buildings, bridges, and power plants. As winter approaches, Kyiv residents are preparing for potential outages. The sustained attacks on the electricity grid aim to degrade civilian resilience during the colder months. Russia shows no sign of letting up on its escalating aerial campaign against Ukraine’s apartment buildings, bridges, power plants, electricity grid, and other targets.
 
----
+### [How Ukraine's Strikes On Data Centers Disrupted Taxis, Shopping, And Business In Russia And Beyond](https://www.rferl.org/a/ukraine-strikes-data-centers-disruption-shopping-business-russia/33875869.html)
+*Radio Free Europe / Liberty* - Oct 13, 20:48 IST (iso: 2026-10-13T15:18:22+00:00)
+<!-- image: https://gdb.rferl.org/ACE18C82-6BF4-4550-9549-C3154D22D2ED.jpg -->
 
-## Asia-Pacific
-
-### [New China-North Korea bridge opens after more than a decade of delay](https://www.thehindu.com/news/international/new-china-north-korea-bridge-opens-after-more-than-a-decade-of-delay/article71589742.ece)
-*The Hindu (International)* - Oct 15, 22:46 IST (iso: 2026-10-15T17:16:23+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ymsc4p/article71589750.ece/alternates/LANDSCAPE_1200/2026-10-15T103925Z_834472537_RC2L3OAE1W1Q_RTRMADP_3_CHINA-NORTHKOREA-BRIDGE.JPG -->
-
-The New Yalu River Bridge connecting China and North Korea has opened. Construction began years ago, with China completing its side by 2014. North Korea delayed the project for over a decade before finishing its portion. The New Yalu River Bridge initially was expected to enter use in 2014, when China had apparently completed construction on its side. But North Korea had not done corresponding work on its side at the time.
-
-### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg -->
-
-Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
-
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
-
-### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
-*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
-<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
-
-Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
+Ukrainian drone strikes damaged three Yandex data centers in Russia. Repairs will reportedly take months, causing widespread disruption to taxis, shopping, and business. The outages affect operations across Russia and other countries where the tech company operates. Ukrainian drone strikes on three data centers operated by Russia’s Yandex will reportedly take months to repair and have caused widespread disruption in everyday life across Russia and other countries the sprawling tech company operates in.
 
 ---
 
@@ -119,6 +113,12 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 ---
 
 ## Global / Multilateral
+
+### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
+
+A new UN report warns that neurotechnology is outpacing human rights protections. Brain signals from gaming headsets or wellness gadgets could potentially be used as evidence against individuals in court. The report calls for limits on the use of such data. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
@@ -154,12 +154,6 @@ Senegal authorities detained more than 320 LGBTQ+ individuals since February aft
 
 Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
 
-### [WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery](https://news.un.org/feed/view/en/story/2026/10/1168591)
-*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg -->
-
-The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.
-
 ### [Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable](https://news.un.org/feed/view/en/story/2026/10/1168596)
 *UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-02-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg -->
@@ -171,6 +165,12 @@ The UN and partners are preparing for winter in Gaza despite ongoing attacks on 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg -->
 
 The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.
+
+### [WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery](https://news.un.org/feed/view/en/story/2026/10/1168591)
+*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg -->
+
+The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.
 
 ---
 

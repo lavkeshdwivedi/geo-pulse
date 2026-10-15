@@ -1,6 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 16, 2026 02:07 IST
+**अपडेट:** October 16, 2026 04:52 IST
 
 ---
 
@@ -24,6 +24,36 @@
 
 भारतीय राष्ट्रवादी पार्टी ने डॉ. नवजोत कौर सिद्धू को सभी संगठनात्मक जिम्मेदारियों से हटा दिया है। पार्टी ने पंजाब प्रभार ग्रेवाल को सौंपा है। यह फैसला संगठन के भीतर शीर्ष स्तर पर लिया गया है। भारतीय राष्ट्रवादी पार्टी (बीआरपी) ने डॉ. नवजोत कौर सिद्धू को संगठन की सभी जिम्मेदारियों से मुक्त कर दिया है। नवजोत कौर सिद्धू को बीआरपी ने सभी संगठनात्मक जिम्मेदारियों से हटाया, ग्रेवाल को मिला पंजाब का प्रभार।
 
+### [आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद](https://www.amarujala.com/live/india-news/abhijeet-dipke-lehra-do-tiranga-march-live-updates-connaught-place-delhi-police-cjp-mumbai-azad-maidan-news-2026-10-16)
+*Amar Ujala Breaking* - Oct 16, 04:33 IST (iso: 2026-10-15T23:03:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-dipke-kakaraca-janata-parata-ka-sasathapaka-abhajata-thapaka-fail_0267af707453841e4d431938ca62e0eb.png?w=1200&dpr=1.0 -->
+
+सीजेपी समर्थक आज कनॉट पैलेस के पास तिरंगा मार्च के लिए जुटेंगे। दिल्ली से मुंबई तक पुलिस मुस्तैद है। अभिजीत दिपके ने गिरफ्तारी का डर जताया है। तिरंगा फहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद।
+
+### [आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट](https://www.amarujala.com/india-news/national-updates-16th-oct-andhra-pak-link-spy-arrest-assam-bhutan-north-east-west-south-politics-crime-news-2026-10-16)
+*Amar Ujala National* - Oct 16, 04:04 IST (iso: 2026-10-15T22:34:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/01/thasha-ka-bugdha-khabra_a958fa8f7db8bd488dbdb63c54596b0a.jpeg?w=1200&dpr=1.0 -->
+
+आंध्र प्रदेश में पाकिस्तान से जुड़े दो जासूसों को गिरफ्तार किया गया है। साथ ही असम में भूटान के लिए अस्थायी आव्रजन पोस्ट बनाया जाएगा। न्यूज डायरी: आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट।
+
+### [सफेद स्कॉर्पियो कर रही दिपके का पीछा? तिरंगा मार्च से पहले अभिजीत ने किया गिरफ्तारी का दावा](https://www.amarujala.com/video/india-news/is-a-white-scorpio-tailing-dipke-abhijit-claims-an-arrest-took-place-ahead-of-the-tiranga-march-2026-10-16)
+*Amar Ujala National* - Oct 16, 03:53 IST (iso: 2026-10-15T22:23:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-lehra-do-tiranga-march-safatha-sakarapaya-kara-raha-pachha-abhijeet-dipke-haga-garafatara-b-thava_a56282fdd32fcaf5b177c7ca9c114a95.jpeg?w=1200&dpr=1.0 -->
+
+अभिजीत दिपके ने दावा किया कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है। सफेद स्कॉर्पियो वाहन उनका पीछा कर रहा है। तिरंगा फहराने की जिद, गिरफ्तारी का डर और दिल्ली में पुलिस की चौकसी! कॉकरोच जनता पार्टी यानी सीजेपी के संस्थापक अभिजीत दिपके ने दावा किया है कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है।
+
+### [CJP के समर्थन में क्या बोलीं अमेरिकी सांसद? भारतीय राजदूत क्वात्रा ने जताई कड़ी आपत्ति](https://www.amarujala.com/video/world/what-did-the-us-lawmaker-say-in-support-of-cjp-indian-ambassador-kwatra-expresses-strong-objection-2026-10-16)
+*Amar Ujala World* - Oct 16, 03:48 IST (iso: 2026-10-15T22:18:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/vinay-mohan-kwatra-slams-us-lawmaker-pramila-jayapal-cjp-ka-samarathana-ma-kaya-bl-amaraka-sasathasir_e4c11edc5a711d4a7474d0bf990dcd2e.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी सांसद प्रमिला जयपाल ने भारतीय मतदाता सूची में बदलाव पर चिंता जताई। भारतीय राजदूत विनय मोहन क्वात्रा ने इसे अंदरूनी मामलों में दखलअंदाजी करार दिया। अमेरिकी सांसद प्रमिला जयपाल ने भारत की मतदाता सूची से करोड़ों नाम हटाए जाने पर चिंता जताई, तो अमेरिका में भारत के राजदूत विनय मोहन क्वात्रा ने इसे भारत के अंदरूनी मामलों में अस्वीकार्य दखलअंदाजी करार दिया।
+
+### [दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त](https://www.amarujala.com/india-news/maharashtra-updates-bombay-high-court-crackers-mumbai-police-durga-idol-immersion-recording-nagpur-politics-2026-10-16)
+*Amar Ujala National* - Oct 16, 03:42 IST (iso: 2026-10-15T22:12:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0 -->
+
+मुंबई पुलिस ने दुर्गा प्रतिमा विसर्जन की फोटो और वीडियो शेयर करने पर रोक लगा दी है। महाराष्ट्र हाईकोर्ट ने सड़कों पर पटाखे जलाने के मामले में सख्त रुख अपनाया है। यह निर्देश महाराष्ट्र में लागू है। महाराष्ट्र: दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त।
+
 ### [आते ही कांड में फंस गईं ट्रंप की प्रेस सेक्रेटरी, वकालत की चीनी डिग्री पर उठे सवाल, कहीं इस्तीफा न](https://hindi.news18.com/world/america-katie-zacharia-law-degree-row-white-house-press-secretary-face-resignation-pressure-over-failed-us-bar-exam-china-law-degree-claim-10912603.html)
 *News18 Hindi (World)* - Oct 15, 22:38 IST (iso: 2026-10-15T17:08:32+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Katie-Zacharia-Bar-Exam-Row-2026-10-2e2864c3de0271ef2d3c7818165ee397-1200x800.jpg -->
@@ -36,45 +66,27 @@
 
 अफगानिस्तान के बदगीस में सूखे और भुखमरी ने लोगों को बेटियों बेचने पर मजबूर कर दिया है। खेती और पशुपालन बंद हो चुका है। जलवायु परिवर्तन और भयंकर सूखे ने अफगानिस्तान के बदगीस समेत कई इलाकों को तबाह कर दिया है. यहां चारों तरफ भुखमरी फैली हुई है. खेती और मवेशी पालना पूरी तरह बंद हो चुका है, जिससे गांव के लोग भारी कर्ज में डूब गए हैं.
 
-### [खिलाफत का सपना? बांग्लादेश में नया चरमपंथी गुट सामने आया, सेना अलर्ट](https://www.patrika.com/world-news/bangladesh-new-extremist-group-ittihadul-ummah-tejgaon-arrests-terror-threat-20987240)
-*Patrika (World)* - Oct 15, 21:27 IST (iso: 2026-10-15T15:57:53+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Bangladesh-Army.webp -->
-
-बांग्लादेश में 'इत्तिहादुल उम्माह' नाम का नया उग्रवादी गुट सामने आया है। खुफिया एजेंसियां इसके विदेशी संबंधों की जांच कर रही हैं। हाल ही में तेजगांव कॉलेज की मस्जिद से हिरासत में लिए गए लोगों से पूछताछ के बाद, खुफिया एजेंसियां ​​इस गुट के विदेशी उग्रवादी संगठनों से संभावित संबंधों की जांच कर रही हैं। खिलाफत का सपना? बांग्लादेश में नया चरमपंथी गुट सामने आया, सेना अलर्ट।
-
-### [पाकिस्तान में एक और सैन्य तख्तापलट? बिना टैंक सड़क पर उतारे सेना ने पलटी बाजी](https://www.patrika.com/world-news/pakistan-khyber-pakhtunkhwa-emergency-military-coup-allegation-20987193)
-*Patrika (World)* - Oct 15, 20:49 IST (iso: 2026-10-15T15:19:38+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Khyber-Pakhtunkhwa-crisis.webp -->
-
-पाकिस्तान के खैबर पख्तूनख्वा में आपातकाल लागू कर दिया गया है। इससे नागरिक सरकार और सेना के बीच तनाव बढ़ गया है। Khyber Pakhtunkhwa Emergency: पाकिस्तान के खैबर पख्तूनख्वा में आपातकाल लागू करने और तख्तापलट से, पाकिस्तान की नागरिक सरकार और सेना के बीच संबंधों पर सवाल खड़े हो गए हैं। इस प्रांत में लंबे समय तक पाकिस्तान तहरीक-ए-इंसाफ (PTI) की सरकार रही है।
-
-### [‘एलन मस्क के इशारे पर हो रहा देश के खिलाफ साजिश’, विपक्ष के विरोध पर क्या बोल गए बृजभूषण सिंह?](https://hindi.news18.com/news/uttar-pradesh/unnao-foreign-powers-and-elon-musk-behind-opposition-protest-brij-bhushan-sharan-singh-claims-local18-10912166.html)
-*News18 Hindi (World)* - Oct 15, 18:11 IST (iso: 2026-10-15T12:41:52+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Brijbhushan-Singh-2026-10-dc007df07698875944589506aa16c575-1200x800.jpg -->
-
-पूर्व सांसद बृजभूषण शरण सिंह ने उन्नाव में विदेशी ताकतों और एलन मस्क के इशारे पर देश के खिलाफ षड्यंत्र चलने का आरोप लगाया। उन्होंने देश में चल रहे आंदोलनों को इस साजिश का हिस्सा बताया और भारत की तुलना पाकिस्तान से की। Brij Bhushan Sharan Singh On Opposition Protest: उन्नाव के पुरवा विधानसभा क्षेत्र के सरवई गांव में एक मंदिर के लोकार्पण कार्यक्रम में पहुंचे पूर्व सांसद बृजभूषण शरण सिंह ने देश में हो रहे आंदोलनों को लेकर बड़ा बयान दिया है.
-
-### [मिलिट्री एक्सरसाइज में खाली हाथ पहुंचे भिखमंगे पाकिस्तान के सैनिक, फिर जिनपिंग ने खोल दिया पूरा](https://hindi.news18.com/world/china-china-pakistan-karakoram-2026-military-exercise-why-pak-army-showed-up-with-zero-weapons-in-korla-base-2-10912141.html)
-*News18 Hindi (World)* - Oct 15, 17:42 IST (iso: 2026-10-15T12:12:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/China-Pakistan-Flop-Military-Exercise-2026-10-530aa885637d8c752d962aca2f2b5105-1200x800.jpg -->
-
-शिनजियांग में काराकोरम 2026 अभ्यास के दौरान पाकिस्तानी सैनिकों को चीन ने टाइप 191 राइफल और टाइप 11 बख्तरबंद गाड़ियां प्रदान कीं। पाकिस्तानी सेना के पास अपने हथियार नहीं थे। चीन ने उन्हें पूर्णतः सैन्य उपकरणों से लैस किया। चीन के शिनजियांग में 'काराकोरम 2026' सैन्य अभ्यास चल रहा है. इस ड्रिल ने पाकिस्तानी सेना की कंगाली और चीन की नापाक चाल को एक्सपोज कर दिया है.
-
 ---
 
 ## अमेरिका
 
 ### [नौकरी से निकाले गए एफबीआई कर्मी अदालत पहुंचे, बहाली की गुहार; ट्रंप के मामले की जांच से क्या](https://www.amarujala.com/world/fbi-agents-and-analysts-fired-for-roles-in-trump-classified-files-probe-sue-to-get-their-jobs-back-2026-10-16)
-*Amar Ujala Breaking* - Oct 16, 12:41 IST (iso: 2026-10-16T07:11:41+00:00)
+*Amar Ujala World* - Oct 16, 12:41 IST (iso: 2026-10-16T07:11:41+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/07/05/donald-trump_6cd9f31c5164dfd89353b8917c647963.jpeg?w=1200&dpr=1.0 -->
 
 अमेरिका में नौकरी से निकाले गए एफबीआई कर्मियों ने बहाली के लिए अदालत का दरवाजा खटखटाया है। उनका दावा है कि ट्रंप से जुड़े मामलों की जांच में शामिल होने के कारण उन्हें निकाला गया। अमेरिका: नौकरी से निकाले गए एफबीआई कर्मी अदालत पहुंचे, बहाली की गुहार; ट्रंप के मामले की जांच से क्या कनेक्शन?
 
-### [कॉलेज के बाथरूम में लड़की के साथ हैवानियत, अमेरिकी फ्रैट पार्टी की एक और हॉरर स्टोरी, दोस्त न आती](https://hindi.news18.com/world/america-uchicago-fraternal-party-horror-drunk-woman-assaulted-in-bathroom-while-crowd-cheers-outside-campus-protests-over-safety-10912411.html)
-*News18 Hindi (World)* - Oct 15, 20:46 IST (iso: 2026-10-15T15:16:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/US-frat-party-crime-2026-10-a4887fa171ad65b283588f1f5c0a5fdd-1200x800.jpg -->
+### ['डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या](https://www.amarujala.com/world/bbc-asks-judge-to-force-trump-to-sit-for-deposition-in-his-own-lawsuit-against-the-channel-2026-10-16)
+*Amar Ujala World* - Oct 16, 04:42 IST (iso: 2026-10-15T23:12:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/02/talks-with-iran-continuing-at-rapid-pace-trump_0e72b0876ddb8e5772cddf41a29d5862.jpeg?w=1200&dpr=1.0 -->
 
-शिकागो यूनिवर्सिटी के फ्रैट हाउस में एक 21 वर्षीय छात्रा बेसमेंट में बेहोश मिली। बाहर खड़े छात्रों ने मदद के बजाय जश्न मनाया। यह घटना अमेरिकी विश्वविद्यालयों में छात्र सुरक्षा पर सवाल खड़े करती है। शिकागो यूनिवर्सिटी के फ्रैट हाउस में एक पार्टी के दौरान एक 21 साल की लड़की के साथ बहुत बुरा हाल हुआ. जब लड़की बेसमेंट के एक बंद बाथरूम में बेसुध और अर्धनग्न हालत में मिली, तो बाहर खड़े लड़के शर्मनाक हरकतें कर रहे थे.
+बीबीसी ने अमेरिकी अदालत से डोनाल्ड ट्रंप से बयान लेने की अनुमति मांगी है। मीडिया हाउस ने दावा किया कि अदालत के आदेश के बिना वह नहीं बोलेंगे। 'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या है?
+
+### [मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?](https://www.amarujala.com/world/hindu-organisation-and-mps-voices-concern-over-attempted-mass-shooting-at-us-temple-2026-10-16)
+*Amar Ujala Breaking* - Oct 16, 02:29 IST (iso: 2026-10-15T20:59:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/us-temple-attacker_ae07b7388d635e58f28f5f636f55e8cc.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित है। स्थानीय संगठनों ने सुरक्षा बढ़ाने की मांग की है। सांसदों ने इस घटना पर अपनी प्रतिक्रिया दी है। अमेरिका: मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?
 
 ---
 
@@ -91,6 +103,12 @@
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/mathana-raghabra-thasa_34792b75672d531ff4caeaad10df27ab.jpeg?w=1200&dpr=1.0 -->
 
 मंथन ने अपना नया गाना 'बदरा' रिलीज किया है। इसमें अंग्रेजी ऑल्ट-पॉप और बुंदेली लोक संगीत का संगम हुआ है। दिग्गज कलाकार रघुबीर यादव ने इसमें अपनी आवाज दी है। इसमें इंग्लिश ऑल्ट-पॉप और बुंदेली लोक संगीत को एक साथ पिरोया गया है। इसमें दिग्गज कलाकार रघुबीर यादव भी शामिल हैं। रघुबीर यादव की आवाज में रिलीज हुआ मंथन का गाना, अंग्रेजी के साथ पिरोया गया बुंदेली लोक संगीत।
+
+### [सीजेपी प्रोटेस्ट के बीच चुनाव आयोग का एलान, यूपी समेत17 राज्यों की वोटर लिस्ट में होगा विशेष संशोधन](https://www.amarujala.com/video/india-news/amid-cjp-protests-the-election-commission-announces-a-special-revision-of-electoral-rolls-in-17-states-inclu-2026-10-16)
+*Amar Ujala National* - Oct 16, 03:44 IST (iso: 2026-10-15T22:14:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ec-ssr-in-17-states-cjp-protest-ka-bca-ec-ka-naya-elna-ssr-ma-kaya-haga-2027-voter-list-update_ffd6b73420feea414261b794fd20eebf.jpeg?w=1200&dpr=1.0 -->
+
+चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची का विशेष संक्षिप्त पुनरीक्षण करने का ऐलान किया है। यूपी समेत इन इलाकों में वोटर लिस्ट में विशेष संशोधन होगा। यह कदम सीजेपी प्रोटेस्ट के बीच उठा गया है। चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची के विशेष संक्षिप्त पुनरीक्षण यानी एसएसआर कराने का एलान कर दिया है।
 
 ### [तिहाड़ जेल की रंजिश का सड़क पर बदला: कालिंदी में दिनदहाड़े चाकू मारकर हत्या, निहाल विहार में पत्नी](https://www.amarujala.com/delhi/tihar-jail-rivalry-spills-onto-the-streets-man-stabbed-to-death-in-broad-daylight-in-kalindi-2026-10-16)
 *Amar Ujala Breaking* - Oct 16, 01:50 IST (iso: 2026-10-15T20:20:28+00:00)
@@ -114,11 +132,17 @@
 
 सऊदी अरब में हूती विद्रोहियों के हमलों के कारण भारतीय दूतावास ने उड़ानों और उमराह यात्राओं की स्थिति पर जानकारी दी है। दूतावास ने स्थिति की निगरानी जारी रखी है। सऊदी अरब तनाव: हूती विद्रोहियों के हमलों से चिंता गहराई, उड़ानों की स्थिति और उमराह पर भारतीय दूतावास ने क्या कहा? हूती विद्रोहियों के हमलों से चिंता, उड़ानों की स्थिति और उमराह पर भारतीय दूतावास ने क्या कहा?
 
-### [नशा करके लुढ़क गई शाही परिवार की बहू, सड़क पर नंगे पैर दौड़ा 3 साल बच्चा, होश में आई तो और बड़ा](https://hindi.news18.com/world/britain-abu-dhabi-royal-family-daughter-in-law-passed-out-on-london-street-on-cocaine-binge-with-3-year-old-child-in-danger-pleads-guilty-in-court-10912764.html)
-*News18 Hindi (World)* - Oct 15, 23:52 IST (iso: 2026-10-15T18:22:27+00:00)
+### [नशा करके लुढ़क गई शाही परिवार की बहू, सड़क पर नंगे पैर दौड़ा बच्चा, होश में आई तो और बड़ा ड्रामा](https://hindi.news18.com/world/britain-abu-dhabi-royal-family-daughter-in-law-passed-out-on-london-street-on-cocaine-binge-with-3-year-old-child-in-danger-pleads-guilty-in-court-10912764.html)
+*News18 Hindi (World)* - Oct 16, 02:54 IST (iso: 2026-10-15T21:24:15+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Abu-Dhabi-Royal-Family-daughter-in-law-Passed-Out-on-Cocaine-Binge-2026-10-8dcdc098b5fb33db8eba569817b57e6e-1200x800.jpg -->
 
 लंदन की साउथवार्क क्राउन कोर्ट ने 32 वर्षीय महरा अल नहयान को बच्चे की लापरवाही के दोषी माना। कोकीन के नशे में बेहोश होने पर उनका तीन वर्षीय बच्चा सड़क पर नंगे पैर घूम रहा था। अदालत ने उन्हें दो साल की सजा सुनाई। अबू धाबी के शाही परिवार की बहू, 32 साल की महरा अल नहयान, लंदन की एक व्यस्त सड़क पर कोकीन के नशे में पूरी तरह बेहोश मिलीं.
+
+### [सऊदी में 2 बांग्लादेशियों को फांसी, जानें ऐसा क्या किया था मक्का की मस्जिद में](https://www.abplive.com/news/world/saudi-arabia-executed-2-bangladeshi-mecca-mosque-not-even-inform-dhaka-3202651)
+*ABP Live (World)* - Oct 15, 22:46 IST (iso: 2026-10-15T17:16:35+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/d392dce70017d48a2054b5dd86b52d9c1792084511910708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+सऊदी अरब ने मक्का की मस्जिद में धार्मिक मर्यादा उल्लंघन के आरोप में दो बांग्लादेशियों को फांसी दी है। नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर की सजा 14 अक्टूबर 2026 को संपादित की गई। ढाका दूतावास को सूचना पहले से नहीं दी गई थी। सऊदी अरब में पवित्र शहर मक्का की एक मस्जिद में कथित रूप से धार्मिक मर्यादा का उल्लंघन करने के आरोप में दो बांग्लादेशी नागरिकों नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर को मौत की सजा दे दी गई है.
 
 ### [यमन में राष्ट्रपति भवन परिसर पर हूती विद्रोहियों का मिसाइल हमला, अदन में 6 धमाके, सरकार के अधिकारी](https://www.patrika.com/world-news/yemen-houthi-missile-attack-aden-presidential-palace-20987274)
 *Patrika (World)* - Oct 15, 22:34 IST (iso: 2026-10-15T17:04:12+00:00)
@@ -126,51 +150,27 @@
 
 यमन के अदन में हूती विद्रोहियों ने राष्ट्रपति भवन परिसर पर मिसाइल हमला किया। कम से कम छह धमाकों की आवाज सुनाई दी। Aden Missile Attack: यमन के दक्षिणी शहर अदन में राष्ट्रपति भवन परिसर को निशाना बनाकर हूती विद्रोहियों ने कई मिसाइलें दागीं। गुरुवार को हुए इस हमले की जानकारी यमन सरकार के दो अधिकारियों ने समाचार एजेंसी रॉयटर्स को दी।
 
-### [‘नागरिकों पर हमले तुरंत बंद करें हूती विद्रोही’, तुर्की अल-मलिकी ने की मांग](https://www.patrika.com/world-news/houthis-must-immediately-cease-attacks-on-civilians-saudi-led-coalition-spokesperson-turki-al-maliki-demands-20987125)
-*Patrika (World)* - Oct 15, 20:20 IST (iso: 2026-10-15T14:50:28+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/houthis-attack-badr-camp.webp -->
+### ['गोली मार देना...', अमेरिकी हमलों की जानकारी लीक करने वालों पर ट्रंप की चेतावनी](https://www.abplive.com/news/world/shoot-them-donald-trump-warn-those-leak-information-about-us-operations-3202646)
+*ABP Live (World)* - Oct 15, 22:02 IST (iso: 2026-10-15T16:32:55+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/f28cf60e07c8991d90d360a9ac7cb62117920812612391324_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-तुर्की अल-मलिकी ने हूती विद्रोहियों से नागरिकों पर हमले बंद करने की मांग की। सऊदी अरब में तेल की सुविधाओं और हवाई अड्डों पर हमले जारी हैं। दोनों पक्ष एक-दूसरे के ठिकानों पर हमले कर रहे हैं। यमन (Yemen) में गंभीर होती जंग के बीच हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच भी तनाव काफी बढ़ चुका है।
-
-### [ईरान की चेतावनी नहीं मानने की कीमत चुकानी पड़ी, होर्मुज स्ट्रेट में तेल के जहाज पर हमला](https://www.patrika.com/world-news/iran-warning-oil-tanker-attack-strait-of-hormuz-us-iran-war-20987002)
-*Patrika (World)* - Oct 15, 20:05 IST (iso: 2026-10-15T14:35:37+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Strait-of-Hormuz-1.webp -->
-
-होर्मुज स्ट्रेट में एक तेल टैंकर पर हमले के बाद आग लग गई। ईरानी नौसेना ने कहा कि जहाज ने ट्रैकिंग बंद कर प्रतिबंधित क्षेत्र पार किया। ईरान की चेतावनी न मानने का यह परिणाम निकला। US-Iran War: ईरान द्वारा दी गई चेतावनी के बाद होर्मुज स्ट्रेट (Strait of Hormuz) के पूर्वी हिस्से में एक तेल टैंकर पर हमले के बाद आग लग गई।
-
-### [हूती विद्रोहियों ने 1 अक्टूबर से सऊदी अरब के किंग खालिद इंटरनेशनल एयरपोर्ट पर किए 20 हमले](https://www.patrika.com/world-news/king-khalid-international-airport-in-saudi-arabia-attacked-20-times-by-houthis-since-1-october-20987068)
-*Patrika (World)* - Oct 15, 20:00 IST (iso: 2026-10-15T14:30:18+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/houthis-missile-strike.webp -->
-
-हूती विद्रोहियों ने 1 अक्टूबर से सऊदी अरब के किंग खालिद एयरपोर्ट पर 20 हमले किए। यमन में बढ़ते संघर्ष के जवाब में सऊदी सेना कार्रवाई कर रही है। हूतियों ने रियाद स्थित हवाई अड्डे को निशाना बनाया। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग काफी गंभीर रूप ले चुकी है। सऊदी अरब (Saudi Arabia) की सेना भी हूतियों के खिलाफ कार्रवाई कर रही है, जिसके जवाब में हूती विद्रोही भी सऊदी अरब पर हमले कर रहे हैं।
-
-### [समंदर का पेट चीरकर निकली 4700 साल प्राचीन ‘चिपचिपी चीज’, जिसके हाथ लगी उसकी 7 पुश्तें मालामाल!](https://hindi.news18.com/world/middle-east-4700-year-old-shipwreck-discovered-off-turkey-coast-ancient-sticky-substance-found-intact-inside-jars-10912295.html)
-*News18 Hindi (World)* - Oct 15, 19:49 IST (iso: 2026-10-15T14:19:07+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/4700-Year-Old-Shipwreck-2026-10-aaa8140e7f7fc5201b054c3cd1ff572e-1200x800.jpg -->
-
-तुर्की के एंटाल्या के पास समंदर से 4700 वर्ष पुराना डूबा व्यापारिक जहाज मिला। इसमें से सुरक्षित मिट्टी के बर्तन और एक चिपचिपा पदार्थ निकला। यह खोज प्राचीन काल के व्यापार के बारे में जानकारी देती है। तुर्की में एंटाल्या के पास केकोवा द्वीप के करीब समंदर में एक बहुत बड़ी खोज हुई है. यहां करीब 4700 साल पुराना डूबा हुआ व्यापारिक जहाज मिला है, जिसे दुनिया का सबसे पुराना जहाज माना जा रहा है.
-
-### [फ्री में चाहिए iPhone 18? तो यहां लगानी पड़ेगी डुबकी, सामने आया वीडियो](https://hindi.news18.com/world/middle-east-free-iphones-floating-in-sea-cargo-ship-hits-naval-mine-in-strait-of-hormuz-locals-grab-free-apple-devices-luxury-perfumes-10912163.html)
-*News18 Hindi (World)* - Oct 15, 18:40 IST (iso: 2026-10-15T13:10:39+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Hormuz-iphone-2026-10-e8310615f7b89b5786bf74533d6e52ce-1200x800.jpg -->
-
-ओमान के पास होर्मुज की खाड़ी में एक मालवाहक जहाज समुद्री बारूद से टकराकर डूब गया। जहाज से निकले हजारों आईफोन समंदर में तैरते दिखे और स्थानीय लोग इन्हें बटोरते हुए वीडियो में नजर आए। सभी 21 कर्मचारियों को सुरक्षित बचा लिया गया। ओमान के पास होर्मुज की खाड़ी में एक बड़ा मालवाहक जहाज डूब गया. ये हादसा समुद्री बारूद से टकराने की वजह से हुआ.
+Donald Trump told a campaign rally that anyone leaking media about a planned US strike on Iranian nuclear facilities should be shot by a firing squad. He framed the warning as a deterrent against leaks. The comment came as Houthi attacks on Saudi targets continued. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि जो भी ईरान के परमाणु सुविधाओं पर अमेरिकी सेना के हमले की योजना की जानकारी मीडिया में लीक कर रहा है, उसे गोली मार देना चाहिए.
 
 ---
 
 ## यूरोप और रूस
-
-### [प्रदर्शन के चलते आज इन रास्तों पर रहेगा असर, परेशानी से बचने को अपडेट जानकर ही निकलें](https://www.amarujala.com/delhi-ncr/delhi-police-issued-traffic-advisory-yesterday-regarding-cjp-s-tiranga-march-2026-10-15)
-*Amar Ujala Breaking* - Oct 16, 12:04 IST (iso: 2026-10-16T06:34:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/thall-tarafaka-edavaijara_b99ac2af0627532cc8f2a74412f11ea3.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली पुलिस ने कनॉट प्लेस और सेंट्रल पार्क क्षेत्र में ट्रैफिक एडवाइजरी जारी की है। शुक्रवार को कॉकरोच जनता पार्टी के तिरंगा मार्च के कारण रास्तों पर असर पड़ेगा। यात्रियों को अपडेट देखकर ही निकलने की सलाह दी गई है। सेंट्रल पार्क, कनॉट प्लेस में शुक्रवार को कॉकरोच जनता पार्टी (सीजेपी) के प्रस्तावित तिरंगा मार्च को लेकर दिल्ली पुलिस ने ट्रैफिक एडवाइजरी जारी की है।
 
 ### [‘नहीं मानूंगा ट्रंप का एनर्जी सीजफायर’, जेलेंस्की ने पुतिन को 6 जगह से किया घायल, SU-34 के दर्द से](https://hindi.news18.com/world/europe-ukraine-reject-trump-ceasefire-zelenskyy-claim-strike-on-6-russian-su-34-fighter-jets-in-massive-airfield-attack-10912683.html)
 *News18 Hindi (World)* - Oct 15, 23:25 IST (iso: 2026-10-15T17:55:41+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Ukraine-Su-34-Jet-Strike-2026-10-71b51e4db70d69b444cbf6b15fd7c939-1200x800.jpg -->
 
 वोलोडिमिर जेलेंस्की ने ट्रंप के एनर्जी सीजफायर प्रस्ताव को अस्वीकार कर दिया। यूक्रेनी सेना ने नेपच्यून मिसाइल से वोरोनिश के बोरिसोविए्स्क एयरफील्ड पर हमला किया। इसमें चार सु-34 विमान तबाह हुए और दो जेट्स को भारी नुकसान पहुंचा। यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के 'एनर्जी सीजफायर' का प्रस्ताव ठुकरा दिया है. उन्होंने रूस के खिलाफ हमले और तेज कर दिए हैं.
+
+### [यूक्रेन ने रूस को पहुंचाया बड़ा नुकसान, जेलेंस्की का दावा- चार फाइटर बॉम्बर विमान तबाह](https://www.abplive.com/news/world/zelenskyy-claims-four-su-34-fighter-bomber-aircraft-destroyed-ukraine-russia-war-3202662)
+*ABP Live (World)* - Oct 15, 23:05 IST (iso: 2026-10-15T17:35:43+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/90332e8e19c14ff32645ad8905177f1117920840609811324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+वोलोदिमीर जेलेंस्की का दावा है कि यूक्रेन ने रूस के चार एसयू-34 फाइटर बॉम्बर विमानों को नष्ट कर दिया है। यह हमला वोरोनिश इलाके के बोरिसोग्लेब्स्क एयरफील्ड पर किया गया। दो अन्य विमानों को भी नुकसान पहुंचाया गया है। यह दावा राष्ट्रपति वोलोदिमीर जेलेंस्की ने किया है. उन्होंने बताया कि यूक्रेन ने रूस के वोरोनिश इलाके में बोरिसोग्लेब्स्क एयरफील्ड पर रातभर हमले किए.
 
 ---
 

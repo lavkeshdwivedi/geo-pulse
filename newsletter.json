@@ -1,56 +1,32 @@
 {
-  "generated_at": "2026-10-15T20:37:16.091818+00:00",
+  "generated_at": "2026-10-15T23:22:43.408292+00:00",
   "article_count": 50,
-  "total_unique_count": 256,
+  "total_unique_count": 257,
   "digest": {
-    "en": "Berlin blocks Russia's G20 return while Kyiv hits refineries. Washington's oil talks with Moscow complicate the battlefield. The tech sell-off adds financial pressure to the geopolitical chaos.",
-    "hi": "आज मलेशिया में चीनी इलेक्ट्रिक कार निर्माता चेरी की ओमोडा 5 का पिछला एक्सल टूटकर गिरा, जिससे स्थानीय ईवी बिक्री पर प्रतिबंध लगा दिया गया। इसी दौरान स्टेलेंटिस ने भारत में 4,000 करोड़ रुपये का नया निवेश घोषित किया, जिसमें जीप और सिट्रोएन की बारह नई मॉडल लॉन्च होंगी।"
+    "en": "Tech sell-offs deepen as AI debt fears collide with US inflation data. Meanwhile, Zelensky’s refinery strike vows clash with US intelligence disruptions in Europe. India’s drug discovery push faces its first major human trial test.",
+    "hi": "स्टेलेंटिस ने भारत में ₹4,000 करोड़ का निवेश घोषित किया, जहाँ जीप और सिट्रोएन की 12 नई इलेक्ट्रिक मॉडल्स का लॉन्च होगा। इसी दौरान, मलयेशिया में चीनी कार चेरी ओमोडा 5 का एक्सल टूटने से ईवी बिक्री पर प्रतिबंध लगा, जिससे क्षेत्रीय बाजार में अस्थिरता बढ़ी।"
   },
   "articles": [
     {
-      "title": "Germany warns against bringing Russia back into G20 fold",
-      "url": "https://www.channelnewsasia.com/world/germany-russia-g20-us-bangkok-meeting-6463326",
+      "title": "‘AI lowers the capital needed’: India’s drug discovery push faces test of human trials",
+      "url": "https://www.channelnewsasia.com/asia/ai-lowers-capital-needed-indias-drug-discovery-push-faces-test-human-trials-6462176",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-10-15T18:22:27+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--SOQ79vUe--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-15T055333Z_1_LYNXMPEM9E0DV_RTROPTP_3_GERMANY-ECONOMY-MERZ.JPG?itok=aEsqDoZu",
-      "summary": "German Finance Minister Lars Klingbeil rejected Russia's return to the G20 at a Bangkok meeting. He stated Europe would not treat Moscow as a normal member. The warning came as finance ministers discussed global economic stability and sanctions enforcement. At a G20 finance ministers’ meeting in Bangkok, German Finance Minister Lars Klingbeil said, “There will be no pretending that Russia is now returning as a normal member of the G20 and simply taking its seat at the table again - not with me, and not with the other Europeans.”.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "U.S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report",
-      "url": "https://www.thehindu.com/news/international/us-russia-talks-on-ukraine-involve-multi-billion-dollar-oil-deal-report/article71541486.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-15T17:16:55+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/a0blxh/article71541509.ece/alternates/LANDSCAPE_1200/2026-09-23T215100Z_460740872_RC2Z7GA62BPA_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-G20.JPG",
-      "summary": "U. S.-Russia Ukraine talks include a multi-billion dollar oil deal. The agreement covers Lukoil's global oil fields, refineries, and gas stations. It remains contingent on approval from both the U. S. government and the Kremlin. The deal, ‌which ⁠is contingent on approval from ⁠the U. S.-Russia talks on Ukraine involve multi-billion dollar oil deal: report.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "New China-North Korea bridge opens after more than a decade of delay",
-      "url": "https://www.thehindu.com/news/international/new-china-north-korea-bridge-opens-after-more-than-a-decade-of-delay/article71589742.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-15T17:16:23+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ymsc4p/article71589750.ece/alternates/LANDSCAPE_1200/2026-10-15T103925Z_834472537_RC2L3OAE1W1Q_RTRMADP_3_CHINA-NORTHKOREA-BRIDGE.JPG",
-      "summary": "The New Yalu River Bridge connecting China and North Korea has opened. Construction began years ago, with China completing its side by 2014. North Korea delayed the project for over a decade before finishing its portion. The New Yalu River Bridge initially was expected to enter use in 2014, when China had apparently completed construction on its side. But North Korea had not done corresponding work on its side at the time.",
+      "published_at": "2026-10-15T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--vxjMcuNU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/indian_pharma_vaccine_-_afp.jpg?itok=lwq2nrs-",
+      "summary": "Indian biopharmaceutical firms use artificial intelligence to identify drug candidates faster and cheaper. However, industry experts warn the technology only addresses part of the lengthy development process. Human trials remain the critical bottleneck for these AI-assisted discoveries. Indian scientists and biopharmaceutical firms are using artificial intelligence to identify promising drug candidates faster and at lower cost. But industry experts tell CNA the technology can address only part of a lengthy and risky development process.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Ukraine resumes attacks on Russian oil refineries as U.S. relations teeter",
-      "url": "https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece",
-      "source": "The Hindu (International)",
+      "title": "Attacking Trump, Zelensky showed lack of judgment",
+      "url": "https://asiatimes.com/2026/10/attacking-trump-zelensky-showed-lack-of-judgment/",
+      "source": "Asia Times",
       "sources": [],
-      "published_at": "2026-10-15T17:02:48+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/9jk8u1/article71589704.ece/alternates/LANDSCAPE_1200/2026-10-15T112352Z_665012958_RC2M3OA45VAX_RTRMADP_3_UKRAINE-CRISIS-ATTACK-AIRCRAFT.JPG",
-      "summary": "Ukraine resumed attacks on Russian oil refineries. President Zelenskyy stated the country is losing a strong partner in the United States. He expressed pain over President Trump choosing another side but accepted the current diplomatic position. Ukraine President Zekenskyy said “we are losing a strong partner” in the United States. He said that “it's painful when President Trump chooses one side, not our side.",
+      "published_at": "2026-10-15T21:23:34+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/b6565b19-a102-4f43-9a7c-abda64481139_1014x676-copy.jpg",
+      "summary": "Volodymyr Zelensky criticized Donald Trump after Ukraine struck two Russian oil refineries. Russian Deputy Prime Minister Aleksandr Novak confirmed the attacks on the facilities. Zelensky had previously thwarted a US request to avoid targeting Russian energy infrastructure. Ukrainian President Volodymyr Zelensky’s harsh words about US President Donald Trump were an emotional response after Zelensky deliberately thwarted Trump’s request that Ukraine not strike Russian refineries.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -80,14 +56,14 @@
       "translations": {}
     },
     {
-      "title": "Afghanistan faces record hunger levels amid rampant rights violations",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+      "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg",
-      "summary": "Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
-      "region": "Asia-Pacific",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg",
+      "summary": "A new UN report warns that neurotechnology is outpacing human rights protections. Brain signals from gaming headsets or wellness gadgets could potentially be used as evidence against individuals in court. The report calls for limits on the use of such data. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -112,6 +88,18 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg",
       "summary": "A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.",
       "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Afghanistan faces record hunger levels amid rampant rights violations",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg",
+      "summary": "Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -236,18 +224,6 @@
       "translations": {}
     },
     {
-      "title": "WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-14T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg",
-      "summary": "The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168596",
       "source": "UN News",
@@ -267,6 +243,18 @@
       "published_at": "2026-10-14T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg",
       "summary": "The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-14T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg",
+      "summary": "The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -308,6 +296,18 @@
       "translations": {}
     },
     {
+      "title": "How Ukraine's Strikes On Data Centers Disrupted Taxis, Shopping, And Business In Russia And Beyond",
+      "url": "https://www.rferl.org/a/ukraine-strikes-data-centers-disruption-shopping-business-russia/33875869.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-13T15:18:22+00:00",
+      "image_url": "https://gdb.rferl.org/ACE18C82-6BF4-4550-9549-C3154D22D2ED.jpg",
+      "summary": "Ukrainian drone strikes damaged three Yandex data centers in Russia. Repairs will reportedly take months, causing widespread disruption to taxis, shopping, and business. The outages affect operations across Russia and other countries where the tech company operates. Ukrainian drone strikes on three data centers operated by Russia’s Yandex will reportedly take months to repair and have caused widespread disruption in everyday life across Russia and other countries the sprawling tech company operates in.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "चीनी कार चेरी ओमोडा 5 का पिछला एक्सल टूटकर गिरा: मलयेशिया में ईवी की बिक्री पर लगी रोक, कंपनी ने दी",
       "url": "https://www.amarujala.com/automobiles/chery-omoda-5-sales-suspended-in-malaysia-after-rear-axle-and-wheels-detach-check-details-2026-10-15",
       "source": "Amar Ujala National",
@@ -328,7 +328,7 @@
     {
       "title": "नौकरी से निकाले गए एफबीआई कर्मी अदालत पहुंचे, बहाली की गुहार; ट्रंप के मामले की जांच से क्या",
       "url": "https://www.amarujala.com/world/fbi-agents-and-analysts-fired-for-roles-in-trump-classified-files-probe-sue-to-get-their-jobs-back-2026-10-16",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-10-16T07:11:41+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/donald-trump_6cd9f31c5164dfd89353b8917c647963.jpeg?w=1200&dpr=1.0",
@@ -416,24 +416,6 @@
       }
     },
     {
-      "title": "प्रदर्शन के चलते आज इन रास्तों पर रहेगा असर, परेशानी से बचने को अपडेट जानकर ही निकलें",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-police-issued-traffic-advisory-yesterday-regarding-cjp-s-tiranga-march-2026-10-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-16T06:34:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/thall-tarafaka-edavaijara_b99ac2af0627532cc8f2a74412f11ea3.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली पुलिस ने कनॉट प्लेस और सेंट्रल पार्क क्षेत्र में ट्रैफिक एडवाइजरी जारी की है। शुक्रवार को कॉकरोच जनता पार्टी के तिरंगा मार्च के कारण रास्तों पर असर पड़ेगा। यात्रियों को अपडेट देखकर ही निकलने की सलाह दी गई है। सेंट्रल पार्क, कनॉट प्लेस में शुक्रवार को कॉकरोच जनता पार्टी (सीजेपी) के प्रस्तावित तिरंगा मार्च को लेकर दिल्ली पुलिस ने ट्रैफिक एडवाइजरी जारी की है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "प्रदर्शन के चलते आज इन रास्तों पर रहेगा असर, परेशानी से बचने को अपडेट जानकर ही निकलें",
-          "summary": "दिल्ली पुलिस ने कनॉट प्लेस और सेंट्रल पार्क क्षेत्र में ट्रैफिक एडवाइजरी जारी की है। शुक्रवार को कॉकरोच जनता पार्टी के तिरंगा मार्च के कारण रास्तों पर असर पड़ेगा। यात्रियों को अपडेट देखकर ही निकलने की सलाह दी गई है। सेंट्रल पार्क, कनॉट प्लेस में शुक्रवार को कॉकरोच जनता पार्टी (सीजेपी) के प्रस्तावित तिरंगा मार्च को लेकर दिल्ली पुलिस ने ट्रैफिक एडवाइजरी जारी की है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "रघुबीर यादव की आवाज में रिलीज हुआ मंथन का गाना, अंग्रेजी के साथ पिरोया गया बुंदेली लोक संगीत",
       "url": "https://www.amarujala.com/entertainment/manthan-song-badra-released-raghubir-das-gave-voice-to-english-song-with-bundeli-music-2026-10-15",
       "source": "Amar Ujala National",
@@ -448,6 +430,168 @@
           "title": "रघुबीर यादव की आवाज में रिलीज हुआ मंथन का गाना, अंग्रेजी के साथ पिरोया गया बुंदेली लोक संगीत",
           "summary": "मंथन ने अपना नया गाना 'बदरा' रिलीज किया है। इसमें अंग्रेजी ऑल्ट-पॉप और बुंदेली लोक संगीत का संगम हुआ है। दिग्गज कलाकार रघुबीर यादव ने इसमें अपनी आवाज दी है। इसमें इंग्लिश ऑल्ट-पॉप और बुंदेली लोक संगीत को एक साथ पिरोया गया है। इसमें दिग्गज कलाकार रघुबीर यादव भी शामिल हैं। रघुबीर यादव की आवाज में रिलीज हुआ मंथन का गाना, अंग्रेजी के साथ पिरोया गया बुंदेली लोक संगीत।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या",
+      "url": "https://www.amarujala.com/world/bbc-asks-judge-to-force-trump-to-sit-for-deposition-in-his-own-lawsuit-against-the-channel-2026-10-16",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-15T23:12:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/talks-with-iran-continuing-at-rapid-pace-trump_0e72b0876ddb8e5772cddf41a29d5862.jpeg?w=1200&dpr=1.0",
+      "summary": "बीबीसी ने अमेरिकी अदालत से डोनाल्ड ट्रंप से बयान लेने की अनुमति मांगी है। मीडिया हाउस ने दावा किया कि अदालत के आदेश के बिना वह नहीं बोलेंगे। 'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या है?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या",
+          "summary": "बीबीसी ने अमेरिकी अदालत से डोनाल्ड ट्रंप से बयान लेने की अनुमति मांगी है। मीडिया हाउस ने दावा किया कि अदालत के आदेश के बिना वह नहीं बोलेंगे। 'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या है?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद",
+      "url": "https://www.amarujala.com/live/india-news/abhijeet-dipke-lehra-do-tiranga-march-live-updates-connaught-place-delhi-police-cjp-mumbai-azad-maidan-news-2026-10-16",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-15T23:03:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-dipke-kakaraca-janata-parata-ka-sasathapaka-abhajata-thapaka-fail_0267af707453841e4d431938ca62e0eb.png?w=1200&dpr=1.0",
+      "summary": "सीजेपी समर्थक आज कनॉट पैलेस के पास तिरंगा मार्च के लिए जुटेंगे। दिल्ली से मुंबई तक पुलिस मुस्तैद है। अभिजीत दिपके ने गिरफ्तारी का डर जताया है। तिरंगा फहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद",
+          "summary": "सीजेपी समर्थक आज कनॉट पैलेस के पास तिरंगा मार्च के लिए जुटेंगे। दिल्ली से मुंबई तक पुलिस मुस्तैद है। अभिजीत दिपके ने गिरफ्तारी का डर जताया है। तिरंगा फहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट",
+      "url": "https://www.amarujala.com/india-news/national-updates-16th-oct-andhra-pak-link-spy-arrest-assam-bhutan-north-east-west-south-politics-crime-news-2026-10-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-15T22:34:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/01/thasha-ka-bugdha-khabra_a958fa8f7db8bd488dbdb63c54596b0a.jpeg?w=1200&dpr=1.0",
+      "summary": "आंध्र प्रदेश में पाकिस्तान से जुड़े दो जासूसों को गिरफ्तार किया गया है। साथ ही असम में भूटान के लिए अस्थायी आव्रजन पोस्ट बनाया जाएगा। न्यूज डायरी: आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट",
+          "summary": "आंध्र प्रदेश में पाकिस्तान से जुड़े दो जासूसों को गिरफ्तार किया गया है। साथ ही असम में भूटान के लिए अस्थायी आव्रजन पोस्ट बनाया जाएगा। न्यूज डायरी: आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सफेद स्कॉर्पियो कर रही दिपके का पीछा? तिरंगा मार्च से पहले अभिजीत ने किया गिरफ्तारी का दावा",
+      "url": "https://www.amarujala.com/video/india-news/is-a-white-scorpio-tailing-dipke-abhijit-claims-an-arrest-took-place-ahead-of-the-tiranga-march-2026-10-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-15T22:23:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-lehra-do-tiranga-march-safatha-sakarapaya-kara-raha-pachha-abhijeet-dipke-haga-garafatara-b-thava_a56282fdd32fcaf5b177c7ca9c114a95.jpeg?w=1200&dpr=1.0",
+      "summary": "अभिजीत दिपके ने दावा किया कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है। सफेद स्कॉर्पियो वाहन उनका पीछा कर रहा है। तिरंगा फहराने की जिद, गिरफ्तारी का डर और दिल्ली में पुलिस की चौकसी! कॉकरोच जनता पार्टी यानी सीजेपी के संस्थापक अभिजीत दिपके ने दावा किया है कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सफेद स्कॉर्पियो कर रही दिपके का पीछा? तिरंगा मार्च से पहले अभिजीत ने किया गिरफ्तारी का दावा",
+          "summary": "अभिजीत दिपके ने दावा किया कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है। सफेद स्कॉर्पियो वाहन उनका पीछा कर रहा है। तिरंगा फहराने की जिद, गिरफ्तारी का डर और दिल्ली में पुलिस की चौकसी! कॉकरोच जनता पार्टी यानी सीजेपी के संस्थापक अभिजीत दिपके ने दावा किया है कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "CJP के समर्थन में क्या बोलीं अमेरिकी सांसद? भारतीय राजदूत क्वात्रा ने जताई कड़ी आपत्ति",
+      "url": "https://www.amarujala.com/video/world/what-did-the-us-lawmaker-say-in-support-of-cjp-indian-ambassador-kwatra-expresses-strong-objection-2026-10-16",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-15T22:18:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/vinay-mohan-kwatra-slams-us-lawmaker-pramila-jayapal-cjp-ka-samarathana-ma-kaya-bl-amaraka-sasathasir_e4c11edc5a711d4a7474d0bf990dcd2e.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सांसद प्रमिला जयपाल ने भारतीय मतदाता सूची में बदलाव पर चिंता जताई। भारतीय राजदूत विनय मोहन क्वात्रा ने इसे अंदरूनी मामलों में दखलअंदाजी करार दिया। अमेरिकी सांसद प्रमिला जयपाल ने भारत की मतदाता सूची से करोड़ों नाम हटाए जाने पर चिंता जताई, तो अमेरिका में भारत के राजदूत विनय मोहन क्वात्रा ने इसे भारत के अंदरूनी मामलों में अस्वीकार्य दखलअंदाजी करार दिया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CJP के समर्थन में क्या बोलीं अमेरिकी सांसद? भारतीय राजदूत क्वात्रा ने जताई कड़ी आपत्ति",
+          "summary": "अमेरिकी सांसद प्रमिला जयपाल ने भारतीय मतदाता सूची में बदलाव पर चिंता जताई। भारतीय राजदूत विनय मोहन क्वात्रा ने इसे अंदरूनी मामलों में दखलअंदाजी करार दिया। अमेरिकी सांसद प्रमिला जयपाल ने भारत की मतदाता सूची से करोड़ों नाम हटाए जाने पर चिंता जताई, तो अमेरिका में भारत के राजदूत विनय मोहन क्वात्रा ने इसे भारत के अंदरूनी मामलों में अस्वीकार्य दखलअंदाजी करार दिया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सीजेपी प्रोटेस्ट के बीच चुनाव आयोग का एलान, यूपी समेत17 राज्यों की वोटर लिस्ट में होगा विशेष संशोधन",
+      "url": "https://www.amarujala.com/video/india-news/amid-cjp-protests-the-election-commission-announces-a-special-revision-of-electoral-rolls-in-17-states-inclu-2026-10-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-15T22:14:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/ec-ssr-in-17-states-cjp-protest-ka-bca-ec-ka-naya-elna-ssr-ma-kaya-haga-2027-voter-list-update_ffd6b73420feea414261b794fd20eebf.jpeg?w=1200&dpr=1.0",
+      "summary": "चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची का विशेष संक्षिप्त पुनरीक्षण करने का ऐलान किया है। यूपी समेत इन इलाकों में वोटर लिस्ट में विशेष संशोधन होगा। यह कदम सीजेपी प्रोटेस्ट के बीच उठा गया है। चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची के विशेष संक्षिप्त पुनरीक्षण यानी एसएसआर कराने का एलान कर दिया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीजेपी प्रोटेस्ट के बीच चुनाव आयोग का एलान, यूपी समेत17 राज्यों की वोटर लिस्ट में होगा विशेष संशोधन",
+          "summary": "चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची का विशेष संक्षिप्त पुनरीक्षण करने का ऐलान किया है। यूपी समेत इन इलाकों में वोटर लिस्ट में विशेष संशोधन होगा। यह कदम सीजेपी प्रोटेस्ट के बीच उठा गया है। चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची के विशेष संक्षिप्त पुनरीक्षण यानी एसएसआर कराने का एलान कर दिया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त",
+      "url": "https://www.amarujala.com/india-news/maharashtra-updates-bombay-high-court-crackers-mumbai-police-durga-idol-immersion-recording-nagpur-politics-2026-10-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-15T22:12:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
+      "summary": "मुंबई पुलिस ने दुर्गा प्रतिमा विसर्जन की फोटो और वीडियो शेयर करने पर रोक लगा दी है। महाराष्ट्र हाईकोर्ट ने सड़कों पर पटाखे जलाने के मामले में सख्त रुख अपनाया है। यह निर्देश महाराष्ट्र में लागू है। महाराष्ट्र: दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त",
+          "summary": "मुंबई पुलिस ने दुर्गा प्रतिमा विसर्जन की फोटो और वीडियो शेयर करने पर रोक लगा दी है। महाराष्ट्र हाईकोर्ट ने सड़कों पर पटाखे जलाने के मामले में सख्त रुख अपनाया है। यह निर्देश महाराष्ट्र में लागू है। महाराष्ट्र: दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नशा करके लुढ़क गई शाही परिवार की बहू, सड़क पर नंगे पैर दौड़ा बच्चा, होश में आई तो और बड़ा ड्रामा",
+      "url": "https://hindi.news18.com/world/britain-abu-dhabi-royal-family-daughter-in-law-passed-out-on-london-street-on-cocaine-binge-with-3-year-old-child-in-danger-pleads-guilty-in-court-10912764.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-15T21:24:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Abu-Dhabi-Royal-Family-daughter-in-law-Passed-Out-on-Cocaine-Binge-2026-10-8dcdc098b5fb33db8eba569817b57e6e-1200x800.jpg",
+      "summary": "लंदन की साउथवार्क क्राउन कोर्ट ने 32 वर्षीय महरा अल नहयान को बच्चे की लापरवाही के दोषी माना। कोकीन के नशे में बेहोश होने पर उनका तीन वर्षीय बच्चा सड़क पर नंगे पैर घूम रहा था। अदालत ने उन्हें दो साल की सजा सुनाई। अबू धाबी के शाही परिवार की बहू, 32 साल की महरा अल नहयान, लंदन की एक व्यस्त सड़क पर कोकीन के नशे में पूरी तरह बेहोश मिलीं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नशा करके लुढ़क गई शाही परिवार की बहू, सड़क पर नंगे पैर दौड़ा बच्चा, होश में आई तो और बड़ा ड्रामा",
+          "summary": "लंदन की साउथवार्क क्राउन कोर्ट ने 32 वर्षीय महरा अल नहयान को बच्चे की लापरवाही के दोषी माना। कोकीन के नशे में बेहोश होने पर उनका तीन वर्षीय बच्चा सड़क पर नंगे पैर घूम रहा था। अदालत ने उन्हें दो साल की सजा सुनाई। अबू धाबी के शाही परिवार की बहू, 32 साल की महरा अल नहयान, लंदन की एक व्यस्त सड़क पर कोकीन के नशे में पूरी तरह बेहोश मिलीं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?",
+      "url": "https://www.amarujala.com/world/hindu-organisation-and-mps-voices-concern-over-attempted-mass-shooting-at-us-temple-2026-10-16",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-15T20:59:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/us-temple-attacker_ae07b7388d635e58f28f5f636f55e8cc.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका में मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित है। स्थानीय संगठनों ने सुरक्षा बढ़ाने की मांग की है। सांसदों ने इस घटना पर अपनी प्रतिक्रिया दी है। अमेरिका: मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?",
+          "summary": "अमेरिका में मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित है। स्थानीय संगठनों ने सुरक्षा बढ़ाने की मांग की है। सांसदों ने इस घटना पर अपनी प्रतिक्रिया दी है। अमेरिका: मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?",
+          "region": "अमेरिका"
         }
       }
     },
@@ -488,24 +632,6 @@
       }
     },
     {
-      "title": "नशा करके लुढ़क गई शाही परिवार की बहू, सड़क पर नंगे पैर दौड़ा 3 साल बच्चा, होश में आई तो और बड़ा",
-      "url": "https://hindi.news18.com/world/britain-abu-dhabi-royal-family-daughter-in-law-passed-out-on-london-street-on-cocaine-binge-with-3-year-old-child-in-danger-pleads-guilty-in-court-10912764.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T18:22:27+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Abu-Dhabi-Royal-Family-daughter-in-law-Passed-Out-on-Cocaine-Binge-2026-10-8dcdc098b5fb33db8eba569817b57e6e-1200x800.jpg",
-      "summary": "लंदन की साउथवार्क क्राउन कोर्ट ने 32 वर्षीय महरा अल नहयान को बच्चे की लापरवाही के दोषी माना। कोकीन के नशे में बेहोश होने पर उनका तीन वर्षीय बच्चा सड़क पर नंगे पैर घूम रहा था। अदालत ने उन्हें दो साल की सजा सुनाई। अबू धाबी के शाही परिवार की बहू, 32 साल की महरा अल नहयान, लंदन की एक व्यस्त सड़क पर कोकीन के नशे में पूरी तरह बेहोश मिलीं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नशा करके लुढ़क गई शाही परिवार की बहू, सड़क पर नंगे पैर दौड़ा 3 साल बच्चा, होश में आई तो और बड़ा",
-          "summary": "लंदन की साउथवार्क क्राउन कोर्ट ने 32 वर्षीय महरा अल नहयान को बच्चे की लापरवाही के दोषी माना। कोकीन के नशे में बेहोश होने पर उनका तीन वर्षीय बच्चा सड़क पर नंगे पैर घूम रहा था। अदालत ने उन्हें दो साल की सजा सुनाई। अबू धाबी के शाही परिवार की बहू, 32 साल की महरा अल नहयान, लंदन की एक व्यस्त सड़क पर कोकीन के नशे में पूरी तरह बेहोश मिलीं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "‘नहीं मानूंगा ट्रंप का एनर्जी सीजफायर’, जेलेंस्की ने पुतिन को 6 जगह से किया घायल, SU-34 के दर्द से",
       "url": "https://hindi.news18.com/world/europe-ukraine-reject-trump-ceasefire-zelenskyy-claim-strike-on-6-russian-su-34-fighter-jets-in-massive-airfield-attack-10912683.html",
       "source": "News18 Hindi (World)",
@@ -520,6 +646,42 @@
           "title": "‘नहीं मानूंगा ट्रंप का एनर्जी सीजफायर’, जेलेंस्की ने पुतिन को 6 जगह से किया घायल, SU-34 के दर्द से",
           "summary": "वोलोडिमिर जेलेंस्की ने ट्रंप के एनर्जी सीजफायर प्रस्ताव को अस्वीकार कर दिया। यूक्रेनी सेना ने नेपच्यून मिसाइल से वोरोनिश के बोरिसोविए्स्क एयरफील्ड पर हमला किया। इसमें चार सु-34 विमान तबाह हुए और दो जेट्स को भारी नुकसान पहुंचा। यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के 'एनर्जी सीजफायर' का प्रस्ताव ठुकरा दिया है. उन्होंने रूस के खिलाफ हमले और तेज कर दिए हैं.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेन ने रूस को पहुंचाया बड़ा नुकसान, जेलेंस्की का दावा- चार फाइटर बॉम्बर विमान तबाह",
+      "url": "https://www.abplive.com/news/world/zelenskyy-claims-four-su-34-fighter-bomber-aircraft-destroyed-ukraine-russia-war-3202662",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-10-15T17:35:43+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/90332e8e19c14ff32645ad8905177f1117920840609811324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "वोलोदिमीर जेलेंस्की का दावा है कि यूक्रेन ने रूस के चार एसयू-34 फाइटर बॉम्बर विमानों को नष्ट कर दिया है। यह हमला वोरोनिश इलाके के बोरिसोग्लेब्स्क एयरफील्ड पर किया गया। दो अन्य विमानों को भी नुकसान पहुंचाया गया है। यह दावा राष्ट्रपति वोलोदिमीर जेलेंस्की ने किया है. उन्होंने बताया कि यूक्रेन ने रूस के वोरोनिश इलाके में बोरिसोग्लेब्स्क एयरफील्ड पर रातभर हमले किए.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन ने रूस को पहुंचाया बड़ा नुकसान, जेलेंस्की का दावा- चार फाइटर बॉम्बर विमान तबाह",
+          "summary": "वोलोदिमीर जेलेंस्की का दावा है कि यूक्रेन ने रूस के चार एसयू-34 फाइटर बॉम्बर विमानों को नष्ट कर दिया है। यह हमला वोरोनिश इलाके के बोरिसोग्लेब्स्क एयरफील्ड पर किया गया। दो अन्य विमानों को भी नुकसान पहुंचाया गया है। यह दावा राष्ट्रपति वोलोदिमीर जेलेंस्की ने किया है. उन्होंने बताया कि यूक्रेन ने रूस के वोरोनिश इलाके में बोरिसोग्लेब्स्क एयरफील्ड पर रातभर हमले किए.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सऊदी में 2 बांग्लादेशियों को फांसी, जानें ऐसा क्या किया था मक्का की मस्जिद में",
+      "url": "https://www.abplive.com/news/world/saudi-arabia-executed-2-bangladeshi-mecca-mosque-not-even-inform-dhaka-3202651",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-10-15T17:16:35+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/d392dce70017d48a2054b5dd86b52d9c1792084511910708_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सऊदी अरब ने मक्का की मस्जिद में धार्मिक मर्यादा उल्लंघन के आरोप में दो बांग्लादेशियों को फांसी दी है। नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर की सजा 14 अक्टूबर 2026 को संपादित की गई। ढाका दूतावास को सूचना पहले से नहीं दी गई थी। सऊदी अरब में पवित्र शहर मक्का की एक मस्जिद में कथित रूप से धार्मिक मर्यादा का उल्लंघन करने के आरोप में दो बांग्लादेशी नागरिकों नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर को मौत की सजा दे दी गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी में 2 बांग्लादेशियों को फांसी, जानें ऐसा क्या किया था मक्का की मस्जिद में",
+          "summary": "सऊदी अरब ने मक्का की मस्जिद में धार्मिक मर्यादा उल्लंघन के आरोप में दो बांग्लादेशियों को फांसी दी है। नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर की सजा 14 अक्टूबर 2026 को संपादित की गई। ढाका दूतावास को सूचना पहले से नहीं दी गई थी। सऊदी अरब में पवित्र शहर मक्का की एक मस्जिद में कथित रूप से धार्मिक मर्यादा का उल्लंघन करने के आरोप में दो बांग्लादेशी नागरिकों नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर को मौत की सजा दे दी गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -560,6 +722,24 @@
       }
     },
     {
+      "title": "'गोली मार देना...', अमेरिकी हमलों की जानकारी लीक करने वालों पर ट्रंप की चेतावनी",
+      "url": "https://www.abplive.com/news/world/shoot-them-donald-trump-warn-those-leak-information-about-us-operations-3202646",
+      "source": "ABP Live (World)",
+      "sources": [],
+      "published_at": "2026-10-15T16:32:55+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/f28cf60e07c8991d90d360a9ac7cb62117920812612391324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "Donald Trump told a campaign rally that anyone leaking media about a planned US strike on Iranian nuclear facilities should be shot by a firing squad. He framed the warning as a deterrent against leaks. The comment came as Houthi attacks on Saudi targets continued. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि जो भी ईरान के परमाणु सुविधाओं पर अमेरिकी सेना के हमले की योजना की जानकारी मीडिया में लीक कर रहा है, उसे गोली मार देना चाहिए.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'गोली मार देना...', अमेरिकी हमलों की जानकारी लीक करने वालों पर ट्रंप की चेतावनी",
+          "summary": "Donald Trump told a campaign rally that anyone leaking media about a planned US strike on Iranian nuclear facilities should be shot by a firing squad. He framed the warning as a deterrent against leaks. The comment came as Houthi attacks on Saudi targets continued. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि जो भी ईरान के परमाणु सुविधाओं पर अमेरिकी सेना के हमले की योजना की जानकारी मीडिया में लीक कर रहा है, उसे गोली मार देना चाहिए.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "यहां बेटियां बेचकर राशन खरीदते हैं बाप, घर चलाने को एक-एक अंग भी बिकता है, कुदरत के कोड़े खाकर",
       "url": "https://hindi.news18.com/world/south-asia-afghanistan-crisis-parents-forced-to-sell-young-daughters-for-food-child-brides-to-pay-debts-10912564.html",
       "source": "News18 Hindi (World)",
@@ -573,186 +753,6 @@
         "hi": {
           "title": "यहां बेटियां बेचकर राशन खरीदते हैं बाप, घर चलाने को एक-एक अंग भी बिकता है, कुदरत के कोड़े खाकर",
           "summary": "अफगानिस्तान के बदगीस में सूखे और भुखमरी ने लोगों को बेटियों बेचने पर मजबूर कर दिया है। खेती और पशुपालन बंद हो चुका है। जलवायु परिवर्तन और भयंकर सूखे ने अफगानिस्तान के बदगीस समेत कई इलाकों को तबाह कर दिया है. यहां चारों तरफ भुखमरी फैली हुई है. खेती और मवेशी पालना पूरी तरह बंद हो चुका है, जिससे गांव के लोग भारी कर्ज में डूब गए हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "खिलाफत का सपना? बांग्लादेश में नया चरमपंथी गुट सामने आया, सेना अलर्ट",
-      "url": "https://www.patrika.com/world-news/bangladesh-new-extremist-group-ittihadul-ummah-tejgaon-arrests-terror-threat-20987240",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-15T15:57:53+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Bangladesh-Army.webp",
-      "summary": "बांग्लादेश में 'इत्तिहादुल उम्माह' नाम का नया उग्रवादी गुट सामने आया है। खुफिया एजेंसियां इसके विदेशी संबंधों की जांच कर रही हैं। हाल ही में तेजगांव कॉलेज की मस्जिद से हिरासत में लिए गए लोगों से पूछताछ के बाद, खुफिया एजेंसियां ​​इस गुट के विदेशी उग्रवादी संगठनों से संभावित संबंधों की जांच कर रही हैं। खिलाफत का सपना? बांग्लादेश में नया चरमपंथी गुट सामने आया, सेना अलर्ट।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खिलाफत का सपना? बांग्लादेश में नया चरमपंथी गुट सामने आया, सेना अलर्ट",
-          "summary": "बांग्लादेश में 'इत्तिहादुल उम्माह' नाम का नया उग्रवादी गुट सामने आया है। खुफिया एजेंसियां इसके विदेशी संबंधों की जांच कर रही हैं। हाल ही में तेजगांव कॉलेज की मस्जिद से हिरासत में लिए गए लोगों से पूछताछ के बाद, खुफिया एजेंसियां ​​इस गुट के विदेशी उग्रवादी संगठनों से संभावित संबंधों की जांच कर रही हैं। खिलाफत का सपना? बांग्लादेश में नया चरमपंथी गुट सामने आया, सेना अलर्ट।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान में एक और सैन्य तख्तापलट? बिना टैंक सड़क पर उतारे सेना ने पलटी बाजी",
-      "url": "https://www.patrika.com/world-news/pakistan-khyber-pakhtunkhwa-emergency-military-coup-allegation-20987193",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-15T15:19:38+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Khyber-Pakhtunkhwa-crisis.webp",
-      "summary": "पाकिस्तान के खैबर पख्तूनख्वा में आपातकाल लागू कर दिया गया है। इससे नागरिक सरकार और सेना के बीच तनाव बढ़ गया है। Khyber Pakhtunkhwa Emergency: पाकिस्तान के खैबर पख्तूनख्वा में आपातकाल लागू करने और तख्तापलट से, पाकिस्तान की नागरिक सरकार और सेना के बीच संबंधों पर सवाल खड़े हो गए हैं। इस प्रांत में लंबे समय तक पाकिस्तान तहरीक-ए-इंसाफ (PTI) की सरकार रही है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान में एक और सैन्य तख्तापलट? बिना टैंक सड़क पर उतारे सेना ने पलटी बाजी",
-          "summary": "पाकिस्तान के खैबर पख्तूनख्वा में आपातकाल लागू कर दिया गया है। इससे नागरिक सरकार और सेना के बीच तनाव बढ़ गया है। Khyber Pakhtunkhwa Emergency: पाकिस्तान के खैबर पख्तूनख्वा में आपातकाल लागू करने और तख्तापलट से, पाकिस्तान की नागरिक सरकार और सेना के बीच संबंधों पर सवाल खड़े हो गए हैं। इस प्रांत में लंबे समय तक पाकिस्तान तहरीक-ए-इंसाफ (PTI) की सरकार रही है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कॉलेज के बाथरूम में लड़की के साथ हैवानियत, अमेरिकी फ्रैट पार्टी की एक और हॉरर स्टोरी, दोस्त न आती",
-      "url": "https://hindi.news18.com/world/america-uchicago-fraternal-party-horror-drunk-woman-assaulted-in-bathroom-while-crowd-cheers-outside-campus-protests-over-safety-10912411.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T15:16:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/US-frat-party-crime-2026-10-a4887fa171ad65b283588f1f5c0a5fdd-1200x800.jpg",
-      "summary": "शिकागो यूनिवर्सिटी के फ्रैट हाउस में एक 21 वर्षीय छात्रा बेसमेंट में बेहोश मिली। बाहर खड़े छात्रों ने मदद के बजाय जश्न मनाया। यह घटना अमेरिकी विश्वविद्यालयों में छात्र सुरक्षा पर सवाल खड़े करती है। शिकागो यूनिवर्सिटी के फ्रैट हाउस में एक पार्टी के दौरान एक 21 साल की लड़की के साथ बहुत बुरा हाल हुआ. जब लड़की बेसमेंट के एक बंद बाथरूम में बेसुध और अर्धनग्न हालत में मिली, तो बाहर खड़े लड़के शर्मनाक हरकतें कर रहे थे.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कॉलेज के बाथरूम में लड़की के साथ हैवानियत, अमेरिकी फ्रैट पार्टी की एक और हॉरर स्टोरी, दोस्त न आती",
-          "summary": "शिकागो यूनिवर्सिटी के फ्रैट हाउस में एक 21 वर्षीय छात्रा बेसमेंट में बेहोश मिली। बाहर खड़े छात्रों ने मदद के बजाय जश्न मनाया। यह घटना अमेरिकी विश्वविद्यालयों में छात्र सुरक्षा पर सवाल खड़े करती है। शिकागो यूनिवर्सिटी के फ्रैट हाउस में एक पार्टी के दौरान एक 21 साल की लड़की के साथ बहुत बुरा हाल हुआ. जब लड़की बेसमेंट के एक बंद बाथरूम में बेसुध और अर्धनग्न हालत में मिली, तो बाहर खड़े लड़के शर्मनाक हरकतें कर रहे थे.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "‘नागरिकों पर हमले तुरंत बंद करें हूती विद्रोही’, तुर्की अल-मलिकी ने की मांग",
-      "url": "https://www.patrika.com/world-news/houthis-must-immediately-cease-attacks-on-civilians-saudi-led-coalition-spokesperson-turki-al-maliki-demands-20987125",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-15T14:50:28+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/houthis-attack-badr-camp.webp",
-      "summary": "तुर्की अल-मलिकी ने हूती विद्रोहियों से नागरिकों पर हमले बंद करने की मांग की। सऊदी अरब में तेल की सुविधाओं और हवाई अड्डों पर हमले जारी हैं। दोनों पक्ष एक-दूसरे के ठिकानों पर हमले कर रहे हैं। यमन (Yemen) में गंभीर होती जंग के बीच हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच भी तनाव काफी बढ़ चुका है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘नागरिकों पर हमले तुरंत बंद करें हूती विद्रोही’, तुर्की अल-मलिकी ने की मांग",
-          "summary": "तुर्की अल-मलिकी ने हूती विद्रोहियों से नागरिकों पर हमले बंद करने की मांग की। सऊदी अरब में तेल की सुविधाओं और हवाई अड्डों पर हमले जारी हैं। दोनों पक्ष एक-दूसरे के ठिकानों पर हमले कर रहे हैं। यमन (Yemen) में गंभीर होती जंग के बीच हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच भी तनाव काफी बढ़ चुका है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ईरान की चेतावनी नहीं मानने की कीमत चुकानी पड़ी, होर्मुज स्ट्रेट में तेल के जहाज पर हमला",
-      "url": "https://www.patrika.com/world-news/iran-warning-oil-tanker-attack-strait-of-hormuz-us-iran-war-20987002",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-15T14:35:37+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Strait-of-Hormuz-1.webp",
-      "summary": "होर्मुज स्ट्रेट में एक तेल टैंकर पर हमले के बाद आग लग गई। ईरानी नौसेना ने कहा कि जहाज ने ट्रैकिंग बंद कर प्रतिबंधित क्षेत्र पार किया। ईरान की चेतावनी न मानने का यह परिणाम निकला। US-Iran War: ईरान द्वारा दी गई चेतावनी के बाद होर्मुज स्ट्रेट (Strait of Hormuz) के पूर्वी हिस्से में एक तेल टैंकर पर हमले के बाद आग लग गई।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान की चेतावनी नहीं मानने की कीमत चुकानी पड़ी, होर्मुज स्ट्रेट में तेल के जहाज पर हमला",
-          "summary": "होर्मुज स्ट्रेट में एक तेल टैंकर पर हमले के बाद आग लग गई। ईरानी नौसेना ने कहा कि जहाज ने ट्रैकिंग बंद कर प्रतिबंधित क्षेत्र पार किया। ईरान की चेतावनी न मानने का यह परिणाम निकला। US-Iran War: ईरान द्वारा दी गई चेतावनी के बाद होर्मुज स्ट्रेट (Strait of Hormuz) के पूर्वी हिस्से में एक तेल टैंकर पर हमले के बाद आग लग गई।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हूती विद्रोहियों ने 1 अक्टूबर से सऊदी अरब के किंग खालिद इंटरनेशनल एयरपोर्ट पर किए 20 हमले",
-      "url": "https://www.patrika.com/world-news/king-khalid-international-airport-in-saudi-arabia-attacked-20-times-by-houthis-since-1-october-20987068",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-15T14:30:18+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/houthis-missile-strike.webp",
-      "summary": "हूती विद्रोहियों ने 1 अक्टूबर से सऊदी अरब के किंग खालिद एयरपोर्ट पर 20 हमले किए। यमन में बढ़ते संघर्ष के जवाब में सऊदी सेना कार्रवाई कर रही है। हूतियों ने रियाद स्थित हवाई अड्डे को निशाना बनाया। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग काफी गंभीर रूप ले चुकी है। सऊदी अरब (Saudi Arabia) की सेना भी हूतियों के खिलाफ कार्रवाई कर रही है, जिसके जवाब में हूती विद्रोही भी सऊदी अरब पर हमले कर रहे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूती विद्रोहियों ने 1 अक्टूबर से सऊदी अरब के किंग खालिद इंटरनेशनल एयरपोर्ट पर किए 20 हमले",
-          "summary": "हूती विद्रोहियों ने 1 अक्टूबर से सऊदी अरब के किंग खालिद एयरपोर्ट पर 20 हमले किए। यमन में बढ़ते संघर्ष के जवाब में सऊदी सेना कार्रवाई कर रही है। हूतियों ने रियाद स्थित हवाई अड्डे को निशाना बनाया। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग काफी गंभीर रूप ले चुकी है। सऊदी अरब (Saudi Arabia) की सेना भी हूतियों के खिलाफ कार्रवाई कर रही है, जिसके जवाब में हूती विद्रोही भी सऊदी अरब पर हमले कर रहे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "समंदर का पेट चीरकर निकली 4700 साल प्राचीन ‘चिपचिपी चीज’, जिसके हाथ लगी उसकी 7 पुश्तें मालामाल!",
-      "url": "https://hindi.news18.com/world/middle-east-4700-year-old-shipwreck-discovered-off-turkey-coast-ancient-sticky-substance-found-intact-inside-jars-10912295.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T14:19:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/4700-Year-Old-Shipwreck-2026-10-aaa8140e7f7fc5201b054c3cd1ff572e-1200x800.jpg",
-      "summary": "तुर्की के एंटाल्या के पास समंदर से 4700 वर्ष पुराना डूबा व्यापारिक जहाज मिला। इसमें से सुरक्षित मिट्टी के बर्तन और एक चिपचिपा पदार्थ निकला। यह खोज प्राचीन काल के व्यापार के बारे में जानकारी देती है। तुर्की में एंटाल्या के पास केकोवा द्वीप के करीब समंदर में एक बहुत बड़ी खोज हुई है. यहां करीब 4700 साल पुराना डूबा हुआ व्यापारिक जहाज मिला है, जिसे दुनिया का सबसे पुराना जहाज माना जा रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "समंदर का पेट चीरकर निकली 4700 साल प्राचीन ‘चिपचिपी चीज’, जिसके हाथ लगी उसकी 7 पुश्तें मालामाल!",
-          "summary": "तुर्की के एंटाल्या के पास समंदर से 4700 वर्ष पुराना डूबा व्यापारिक जहाज मिला। इसमें से सुरक्षित मिट्टी के बर्तन और एक चिपचिपा पदार्थ निकला। यह खोज प्राचीन काल के व्यापार के बारे में जानकारी देती है। तुर्की में एंटाल्या के पास केकोवा द्वीप के करीब समंदर में एक बहुत बड़ी खोज हुई है. यहां करीब 4700 साल पुराना डूबा हुआ व्यापारिक जहाज मिला है, जिसे दुनिया का सबसे पुराना जहाज माना जा रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "फ्री में चाहिए iPhone 18? तो यहां लगानी पड़ेगी डुबकी, सामने आया वीडियो",
-      "url": "https://hindi.news18.com/world/middle-east-free-iphones-floating-in-sea-cargo-ship-hits-naval-mine-in-strait-of-hormuz-locals-grab-free-apple-devices-luxury-perfumes-10912163.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T13:10:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Hormuz-iphone-2026-10-e8310615f7b89b5786bf74533d6e52ce-1200x800.jpg",
-      "summary": "ओमान के पास होर्मुज की खाड़ी में एक मालवाहक जहाज समुद्री बारूद से टकराकर डूब गया। जहाज से निकले हजारों आईफोन समंदर में तैरते दिखे और स्थानीय लोग इन्हें बटोरते हुए वीडियो में नजर आए। सभी 21 कर्मचारियों को सुरक्षित बचा लिया गया। ओमान के पास होर्मुज की खाड़ी में एक बड़ा मालवाहक जहाज डूब गया. ये हादसा समुद्री बारूद से टकराने की वजह से हुआ.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्री में चाहिए iPhone 18? तो यहां लगानी पड़ेगी डुबकी, सामने आया वीडियो",
-          "summary": "ओमान के पास होर्मुज की खाड़ी में एक मालवाहक जहाज समुद्री बारूद से टकराकर डूब गया। जहाज से निकले हजारों आईफोन समंदर में तैरते दिखे और स्थानीय लोग इन्हें बटोरते हुए वीडियो में नजर आए। सभी 21 कर्मचारियों को सुरक्षित बचा लिया गया। ओमान के पास होर्मुज की खाड़ी में एक बड़ा मालवाहक जहाज डूब गया. ये हादसा समुद्री बारूद से टकराने की वजह से हुआ.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘एलन मस्क के इशारे पर हो रहा देश के खिलाफ साजिश’, विपक्ष के विरोध पर क्या बोल गए बृजभूषण सिंह?",
-      "url": "https://hindi.news18.com/news/uttar-pradesh/unnao-foreign-powers-and-elon-musk-behind-opposition-protest-brij-bhushan-sharan-singh-claims-local18-10912166.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T12:41:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Brijbhushan-Singh-2026-10-dc007df07698875944589506aa16c575-1200x800.jpg",
-      "summary": "पूर्व सांसद बृजभूषण शरण सिंह ने उन्नाव में विदेशी ताकतों और एलन मस्क के इशारे पर देश के खिलाफ षड्यंत्र चलने का आरोप लगाया। उन्होंने देश में चल रहे आंदोलनों को इस साजिश का हिस्सा बताया और भारत की तुलना पाकिस्तान से की। Brij Bhushan Sharan Singh On Opposition Protest: उन्नाव के पुरवा विधानसभा क्षेत्र के सरवई गांव में एक मंदिर के लोकार्पण कार्यक्रम में पहुंचे पूर्व सांसद बृजभूषण शरण सिंह ने देश में हो रहे आंदोलनों को लेकर बड़ा बयान दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘एलन मस्क के इशारे पर हो रहा देश के खिलाफ साजिश’, विपक्ष के विरोध पर क्या बोल गए बृजभूषण सिंह?",
-          "summary": "पूर्व सांसद बृजभूषण शरण सिंह ने उन्नाव में विदेशी ताकतों और एलन मस्क के इशारे पर देश के खिलाफ षड्यंत्र चलने का आरोप लगाया। उन्होंने देश में चल रहे आंदोलनों को इस साजिश का हिस्सा बताया और भारत की तुलना पाकिस्तान से की। Brij Bhushan Sharan Singh On Opposition Protest: उन्नाव के पुरवा विधानसभा क्षेत्र के सरवई गांव में एक मंदिर के लोकार्पण कार्यक्रम में पहुंचे पूर्व सांसद बृजभूषण शरण सिंह ने देश में हो रहे आंदोलनों को लेकर बड़ा बयान दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मिलिट्री एक्सरसाइज में खाली हाथ पहुंचे भिखमंगे पाकिस्तान के सैनिक, फिर जिनपिंग ने खोल दिया पूरा",
-      "url": "https://hindi.news18.com/world/china-china-pakistan-karakoram-2026-military-exercise-why-pak-army-showed-up-with-zero-weapons-in-korla-base-2-10912141.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T12:12:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/China-Pakistan-Flop-Military-Exercise-2026-10-530aa885637d8c752d962aca2f2b5105-1200x800.jpg",
-      "summary": "शिनजियांग में काराकोरम 2026 अभ्यास के दौरान पाकिस्तानी सैनिकों को चीन ने टाइप 191 राइफल और टाइप 11 बख्तरबंद गाड़ियां प्रदान कीं। पाकिस्तानी सेना के पास अपने हथियार नहीं थे। चीन ने उन्हें पूर्णतः सैन्य उपकरणों से लैस किया। चीन के शिनजियांग में 'काराकोरम 2026' सैन्य अभ्यास चल रहा है. इस ड्रिल ने पाकिस्तानी सेना की कंगाली और चीन की नापाक चाल को एक्सपोज कर दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिलिट्री एक्सरसाइज में खाली हाथ पहुंचे भिखमंगे पाकिस्तान के सैनिक, फिर जिनपिंग ने खोल दिया पूरा",
-          "summary": "शिनजियांग में काराकोरम 2026 अभ्यास के दौरान पाकिस्तानी सैनिकों को चीन ने टाइप 191 राइफल और टाइप 11 बख्तरबंद गाड़ियां प्रदान कीं। पाकिस्तानी सेना के पास अपने हथियार नहीं थे। चीन ने उन्हें पूर्णतः सैन्य उपकरणों से लैस किया। चीन के शिनजियांग में 'काराकोरम 2026' सैन्य अभ्यास चल रहा है. इस ड्रिल ने पाकिस्तानी सेना की कंगाली और चीन की नापाक चाल को एक्सपोज कर दिया है.",
           "region": "एशिया-प्रशांत"
         }
       }
