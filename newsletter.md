@@ -1,22 +1,38 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 15, 2026 06:32 IST
+**Updated:** October 15, 2026 12:06 IST
+
+---
+
+## Americas
+
+### [Oil prices retreat as investors weigh supply outlook, West Asia tensions](https://www.thehindu.com/business/oil-prices-dip-as-supply-risks-from-west-asia-tensions-clash/article71586615.ece)
+*The Hindu (International)* - Oct 15, 10:01 IST (iso: 2026-10-15T04:31:55+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/y59rnj/article71586627.ece/alternates/LANDSCAPE_1200/iStock-2200761999.jpg -->
+
+Brent crude dropped 1.6 percent to 104.42 dollars a barrel. West Texas Intermediate fell one percent to 94.11 dollars. Investors reassessed global supply risks. The retreat reversed previous session gains. Brent crude futures fell $1.64, or 1.6%, to $104.42 a barrel by 0337 GMT, while U. S. West Texas Intermediate crude futures were down 98 cents, or 1%, to $94.11, reversing gains from the ‌previous session.
+
+### [‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027](https://news.un.org/feed/view/en/story/2026/10/1168586)
+*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/25-09-2026-UN-Photo-UNGA81-behind-scenes-03.jpg/image560x340cropped.jpg -->
+
+António Guterres proposed a $3.3 billion budget for 2027. This represents a $40.8 million cut from previous plans. He cited climate disruption, AI, war, and hunger as drivers for the need. Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.
 
 ---
 
 ## Asia-Pacific
 
-### [In the wake of Nepal’s devastating flood, stories of loss and resilience](https://www.channelnewsasia.com/cna-insider/insider/nepal-flood-wake-china-himalayas-natural-disaster-loss-resilience-6459271)
-*Channel News Asia* - Oct 15, 03:30 IST (iso: 2026-10-14T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--6RlSJdYl--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/nepal_-_the_flood_wake_textless.00_45_40_05.still055.jpg?itok=gJj0hl6j -->
+### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
+*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
 
-Survivors of Nepal's floods are channeling personal loss into community aid. A Chinese man searches for his missing wife while volunteers assist displaced children. The disaster forced residents to confront tragedy while supporting others. From a Chinese man searching for his wife to volunteers helping displaced children, people have had to confront personal tragedy even as many of them support others devastated by the disaster.
+Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
 
-### [Why a remote Philippine island chain near Taiwan is drawing China’s attention](https://www.channelnewsasia.com/east-asia/batanes-philippines-china-taiwan-maritime-tensions-6458206)
-*Channel News Asia* - Oct 15, 03:30 IST (iso: 2026-10-14T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--5oMIL6rY--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/000_33lr3kd.jpg?itok=-1guvtR7 -->
+### [North Korea says it tested cruise missiles designed to be fired from submarines](https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece)
+*The Hindu (International)* - Oct 15, 08:46 IST (iso: 2026-10-15T03:16:33+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/69dezo/article71586565.ece/alternates/LANDSCAPE_1200/iStock-1153689138.jpg -->
 
-China is increasing attention on Batanes, the Philippines' northernmost province. The island chain sits less than 200km south of Taiwan. Manila's deepening defence ties with the US and Japan heighten strategic concerns in the region. Less than 200km south of Taiwan, Batanes is the Philippines' northernmost province. Growing maritime tensions with China and Manila's deepening defence ties with the US and Japan are drawing fresh attention to the strategically located island chain.
+North Korea announced submarine-launched cruise missile tests. State media cited readiness assessments. The tests aimed to improve naval strategic capabilities. Officials highlighted the reliability of the nuclear deterrent. North Korean state media said the tests were aimed at assessing the readiness of the country's underwater combat systems, improving the Navy's ability to carry out strategic missions and demonstrating the reliability of its nuclear deterrent.
 
 ### [‘Enormous potential’ for India-Canada ties amidst global uncertainty: Canadian Foreign Minister](https://www.thehindu.com/news/national/pm-modi-meets-canadian-minister-anita-anand-discussions/article71584510.ece)
 *The Hindu (International)* - Oct 14, 22:16 IST (iso: 2026-10-14T16:46:28+00:00)
@@ -44,17 +60,13 @@ An El Niño-fueled wildfire on Sumatra island destroyed nearly 300 homes in Bang
 
 ---
 
-## World
-
-### [What happens when the government disagrees with the courts?](https://www.channelnewsasia.com/singapore/government-parliament-judiciary-courts-legislative-changes-disagree-6458426)
-*Channel News Asia* - Oct 15, 03:30 IST (iso: 2026-10-14T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--w6czrYGn--/c_crop,h_1107,w_1969,x_1,y_149/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/high-court-parliament-house.jpg?itok=O8JS07be -->
-
-Singapore's government proposed legal changes after a High Court overturned deterrent sentences for four scam mules. Lawmakers are reviewing constitutional limits on judicial power. The move follows a pattern of executive responses to court rulings. A recent High Court ruling that overturned deterrent sentences for four young scam mules prompted the government to propose changes to the law. CNA looks at similar past cases, how lawmakers responded and the constitutional limits involved.
-
----
-
 ## Europe & Russia
+
+### [Ukrainian gain on a drone-filled battlefield](https://asiatimes.com/2026/10/operation-vivaldi-ukrainian-gain-on-a-drone-filled-battlefield/)
+*Asia Times* - Oct 15, 06:57 IST (iso: 2026-10-15T01:27:37+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-War-Artillery.jpg -->
+
+Ukraine announced Operation Vivaldi in mid-September. Forces retaken territory near Lyman. The offensive disrupted Russian advances. Gains remain limited despite heavy drone activity. Russia’s drone and missile attacks on Ukraine’s population and infrastructure continue to dominate coverage of the conflict. But on the ground, Ukraine has been making significant, if still limited, gains. In mid-September, Ukraine formally announced the existence of Operation Vivaldi, which has retaken territory near Lyman and disrupted a Russian advance toward the fortified cities [] The post O.
 
 ### [Girls In Hijabs Turned Away From Azerbaijani Schools Amid Protests Over Dress Code](https://www.rferl.org/a/azerbaijan-hijab-ban-school-religion-education/33876714.html)
 *Radio Free Europe / Liberty* - Oct 14, 23:52 IST (iso: 2026-10-14T18:22:25+00:00)
@@ -106,19 +118,13 @@ Trump defended allowing Russian diesel exports despite criticism from Ukraine, E
 
 ---
 
-## Global / Multilateral
+## World
 
-### [Google DeepMind’s Hassabis calls AI hacks ‘early warning shots’](https://www.thehindu.com/news/international/google-deepminds-hassabis-calls-ai-hacks-early-warning-shots/article71585010.ece)
-*The Hindu (International)* - Oct 14, 21:35 IST (iso: 2026-10-14T16:05:48+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/uaueaz/article71585047.ece/alternates/LANDSCAPE_1200/2026-09-18T084246Z_849335589_RC20LNA58KM9_RTRMADP_3_BRITAIN-ROYALS-KING-AI.JPG -->
+### [Why the debate between Keynesian and orthodox economics matters](https://www.thehindu.com/news/international/why-the-debate-between-keynesian-and-orthodox-economics-matters/article71583919.ece)
+*The Hindu (International)* - Oct 14, 22:41 IST (iso: 2026-10-14T17:11:43+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/33v8mr/article71585260.ece/alternates/LANDSCAPE_1200/iStock-2268429404.jpg -->
 
-Demis Hassabis described recent AI security breaches as early warning shots. He argued the field needs best practices similar to those in biology or nuclear sectors. He also called for an international standards body to secure critical AI systems. Demis Hassabis said there ⁠was “a lot of work to do” to adopt the kind of best practices that other fields such as biology or the nuclear sector use to secure critical ​systems and that some sort of ‌international standards body would eventually be needed.
-
-### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
-*UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image560x340cropped.jpg -->
-
-The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
+Keynesian economics prioritizes demand for growth. Orthodox models focus on supply. Inflation targeting shifted burdens to workers. Wage shares have fallen under this framework. Keynes-Kalecki framework holds that demand, in particular private investment, shapes short-term fluctuations as well as long-term growth, unlike orthodox approaches that see supply as determining long-term growth; shift towards inflation targeting coincided with falling wage shares and greater burden on workers.
 
 ---
 
@@ -162,19 +168,13 @@ Guinea-Bissau approved a controversial trial to withhold hepatitis B vaccines fr
 
 ---
 
-## Americas
+## Global / Multilateral
 
-### [‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027](https://news.un.org/feed/view/en/story/2026/10/1168586)
+### [800 million young people face a future without jobs](https://news.un.org/feed/view/en/story/2026/10/1168588)
 *UN News* - Oct 13, 17:30 IST (iso: 2026-10-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/25-09-2026-UN-Photo-UNGA81-behind-scenes-03.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-02-2026-UNICEF-Syria-02.jpg/image560x340cropped.jpg -->
 
-António Guterres proposed a $3.3 billion budget for 2027. This represents a $40.8 million cut from previous plans. He cited climate disruption, AI, war, and hunger as drivers for the need. Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.
-
-### [Latin American organised crime ‘may operate in 16 European countries’](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)
-*The Guardian* - Oct 13, 12:30 IST (iso: 2026-10-13T07:00:18+00:00)
-<!-- image: https://i.guim.co.uk/img/media/57e7f305b45a8239d1cf708aecf66c3d5870ebd9/265_0_3242_2593/master/3242.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd9e8ce19424589c213f8e9b8b991551 -->
-
-Latin American organised crime groups may now operate in sixteen European countries. A Guardian investigation links the fivefold rise in cocaine seizures to these expanding networks. Cartels have established deep roots across the continent over the last decade. Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root. A four-month Guardian investigation reveals the true scale of a continent-wide shiftA four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged.
+The UNDP head warned 800 million young people in developing economies will lack jobs. This projection covers the coming years without immediate action. The agency launched two initiatives to boost investment and employment. 800 million young people face a future without jobs.
 
 ---
 
