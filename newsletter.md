@@ -1,22 +1,68 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 16, 2026 17:29 IST
+**Updated:** October 16, 2026 21:27 IST
+
+---
+
+## Middle East & Africa
+
+### [Yemen presidency announces military drive to retake all Houthi territory](https://www.thehindu.com/news/international/yemen-presidency-announces-military-drive-to-retake-all-houthi-territory/article71544431.ece)
+*The Hindu (International)* - Oct 16, 19:35 IST (iso: 2026-10-16T14:05:16+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/mjxx71/article71544437.ece/alternates/LANDSCAPE_1200/2026-10-04T135416Z_2043846249_RC2DWNAEDWQD_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG -->
+
+Rashad al-Alimi, head of Yemen's presidential council, announced the start of military operations to retake all Houthi-held territory. The move aims to extend state authority across the entire national territory. This marks a formal declaration of a comprehensive counteroffensive. I announce today the start of military operations to retake the remaining territories of the republic and extend the authority of the state and its institutions across the entire national territory, says Rashad al-Alimi, the head of Yemen's presidential council.
+
+### [Yemen, Saudi Arabia strike Houthis as counteroffensive gets underway](https://www.thehindu.com/news/international/yemen-saudi-arabia-strike-houthis-as-counteroffensive-gets-underway/article71548348.ece)
+*The Hindu (International)* - Oct 16, 19:33 IST (iso: 2026-10-16T14:03:54+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/2xvzb2/article71548457.ece/alternates/LANDSCAPE_1200/2026-10-05T115125Z_1435469271_RC2ZWNA4FX4H_RTRMADP_3_IRAN-CRISIS-SAUDI-ARAMCO.JPG -->
+
+Yemeni forces executed over 1,000 strikes and launched an offensive toward Sanaa. The Saudi-led coalition simultaneously deployed 100 warplanes for dawn sorties. Both sides targeted Houthi positions as the counteroffensive began. This coordinated effort signals a significant escalation in the regional conflict. The Yemeni military said it carried out more than 1,000 strikes and began an offensive against the Houthi-held capital, Sanaa, while the Saudi-led coalition supporting the internationally recognised government said 100 warplanes flew sorties at dawn.
+
+### [U.S. envoy holds rare meeting with Sudan’s top general in push to seek end to fighting](https://www.thehindu.com/news/international/us-envoy-holds-rare-meeting-with-sudans-top-general-in-push-to-seek-end-to-fighting/article71549759.ece)
+*The Hindu (International)* - Oct 16, 18:20 IST (iso: 2026-10-16T12:50:09+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/6kheqw/article71549763.ece/alternates/LANDSCAPE_1200/Sudan_Talks_81_19.jpg -->
+
+U. S. envoy Massad Boulos met with Sudanese general Abdel-Fattah Burhan to push for an end to the fighting. The meeting comes as the U. S. and Egypt seek to renew pressure on warring parties. The conflict has already killed at least 59,000 people. Intermediaries aim to force a return to negotiations. The rare meeting between Massad Boulos and Abdel-Fattah Burhan comes as the U. S., Egypt and other intermediaries seek to renew pressure on the warring parties in Sudan to negotiate an end to the fighting that has killed at least 59,000 people.
+
+### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
+*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
+
+Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
+
+### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
+*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
+
+Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
+
+### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial)
+*The Guardian* - Oct 14, 18:46 IST (iso: 2026-10-14T13:16:30+00:00)
+<!-- image: https://i.guim.co.uk/img/media/28120a16f4ee8133901215c24889ae3476e9eeda/663_0_6627_5304/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a60bfd0a06f78c67f25892073437db01 -->
+
+Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
+
+### [Cholera cases spike amid fight against Ebola](https://news.un.org/feed/view/en/story/2026/10/1168595)
+*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg -->
+
+The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.
+
+### [Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable](https://news.un.org/feed/view/en/story/2026/10/1168596)
+*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-02-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg -->
+
+The UN and partners are preparing for winter in Gaza despite ongoing attacks on civilians. OCHA highlighted the urgent need for cold and rainy season support. Humanitarian efforts continue amid persistent violence and displacement in the territory. The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.
 
 ---
 
 ## Asia-Pacific
 
 ### [China considers new export curbs on solar, AI, biotech](https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece)
-*The Hindu (International)* - Oct 16, 17:10 IST (iso: 2026-10-16T11:40:44+00:00)
+*The Hindu (International)* - Oct 16, 18:24 IST (iso: 2026-10-16T12:54:33+00:00)
 <!-- image: https://th-i.thgim.com/public/news/national/cfsytv/article71591945.ece/alternates/LANDSCAPE_1200/2026-06-08T083940Z_683439900_RC2GPLAIKHDA_RTRMADP_3_NORTHKOREA-CHINA.jpg -->
 
 China drafted Announcement No. 48 to ban exports of 14 technologies and restrict 26 others. The measures target next-generation solar tech, AI, and biotech. India faces direct impact as it seeks to reduce reliance on Chinese components for its renewable energy goals. The draft plan, “Announcement No. 48”, proposes a complete export ban on 14 technologies and restrictions on 26 more, including next-generation solar technologies that could affect countries such as India seeking to reduce dependence on China.
-
-### [Pakistan to chair IMF, World Bank boards next year for first time since 1953](https://www.thehindu.com/news/international/pakistan-to-chair-imf-world-bank-boards-next-year-for-first-time-since-1953/article71591760.ece)
-*The Hindu (International)* - Oct 16, 17:01 IST (iso: 2026-10-16T11:31:53+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/70sb0e/article71591795.ece/alternates/LANDSCAPE_1200/2026-10-13T020015Z_927683707_RC2SBBATQB9U_RTRMADP_3_IMF-WORLBANK-OUTLOOK.JPG -->
-
-Pakistan will chair the IMF and World Bank boards next year. Ahad Khan Cheema, the country’s World Bank governor, was announced as incoming chair in Bangkok. This marks the first time since 1953 that Pakistan holds these key institutional leadership roles. Minister for Economic Affairs Ahad Khan Cheema, who is also Pakistan’s governor to the World Bank, was formally announced as the incoming chair during the plenary session of the 2026 WBG-IMF Annual Meetings in Bangkok.
 
 ### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
 *Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
@@ -46,7 +92,13 @@ Indonesia is testing dry ice dispersal in South Sumatra. The government deployed
 
 ## Europe & Russia
 
-### [US Senators Seek Probe Into Starshield Disruptions As Zelenskyy Attends EU Summit](https://www.rferl.org/a/us-senators-probe-starlink-zelenskyy-eu-summit/33877820.html)
+### [Russia's Shadow War On NATO Is 'Bound To Intensify'](https://www.rferl.org/a/russia-shadow-war-nato-europe-christopher-walker-cepa/33877174.html)
+*Radio Free Europe / Liberty* - Oct 16, 17:28 IST (iso: 2026-10-16T11:58:20+00:00)
+<!-- image: https://gdb.rferl.org/6a3ae109-c01c-4d0e-4ad7-08df13aec0bb_cx24_cy7_cw63_w1200_h630.jpg -->
+
+Russia's shadow war against NATO involves drone incursions, sabotage, and assassination attempts. Christopher Walker of the Center for European Policy Analysis says the campaign is approaching a crucial point. The strategy has largely backfired by drawing a resolute response. He predicts the conflict will continue to intensify. Russia's shadow campaign of drone incursions, sabotage, and assassination attempts in NATO countries has largely backfired by drawing a resolute response but is approaching a "crucial point," Christopher Walker, vice president of the Center for European Policy Analysis, tells RFE/RL.
+
+### [Zelenskyy Says US Diesel Deal Will Put Money "Straight Into Putin’s Pocket"](https://www.rferl.org/a/us-senators-probe-starlink-zelenskyy-eu-summit/33877820.html)
 *Radio Free Europe / Liberty* - Oct 16, 15:12 IST (iso: 2026-10-16T09:42:58+00:00)
 <!-- image: https://gdb.rferl.org/d084528b-2136-4827-9ee6-85616994cf0b_cx0_cy2_cw0_w1200_h630.jpg -->
 
@@ -57,12 +109,6 @@ Nine US senators requested an investigation into satellite system disruptions af
 <!-- image: https://gdb.rferl.org/60aef9e8-54a8-4bd0-4a8c-08ddfa9ad0a3_cx12_cy12_cw74_w1200_h630.jpg -->
 
 Marco Rubio travels to Uzbekistan to meet with five Central Asian nations. The Trump administration aims to strengthen commercial ties and expand US strategic presence. The region has historically been dominated by Russian and Chinese influence. US Secretary of State Marco Rubio heads to Uzbekistan this weekend for talks with five Central Asian countries as the Trump administration seeks to strengthen commercial ties and expand Washington's strategic presence in the region.
-
-### [Drone strikes in the Black Sea raise fears of Russian escalation to test NATO's response](https://www.thehindu.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article71591367.ece)
-*The Hindu (International)* - Oct 16, 12:35 IST (iso: 2026-10-16T07:05:30+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/v4d9wg/article71591449.ece/alternates/LANDSCAPE_1200/iStock-1809242492.jpg -->
-
-Drone strikes in the Black Sea killed two people and left 25 missing. The attacks targeted exclusive economic zones, threatening global shipping routes. These incidents raise fears of Russian escalation. The strikes risk drawing other nations directly into the war in Ukraine. The attacks in the two countries' exclusive economic zones threaten a global shipping route and have left two people dead, with at least 25 still missing.
 
 ### [Attacking Trump, Zelensky showed lack of judgment](https://asiatimes.com/2026/10/attacking-trump-zelensky-showed-lack-of-judgment/)
 *Asia Times* - Oct 16, 02:53 IST (iso: 2026-10-15T21:23:34+00:00)
@@ -108,46 +154,6 @@ Russian ballistic missiles struck Kyiv overnight, killing three people and injur
 
 ---
 
-## Middle East & Africa
-
-### [U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack](https://www.thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece)
-*The Hindu (International)* - Oct 16, 12:38 IST (iso: 2026-10-16T07:08:43+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/kfm4e8/article71545019.ece/alternates/LANDSCAPE_1200/2026-09-29T121509Z_481150564_RC2ZSNAGWLWC_RTRMADP_3_BRITAIN-USA-FAIRFORD.JPG -->
-
-The U. S. Air Force withdrew all bombers from RAF Fairford in England. This followed an investigation into a planned terror attack at the base. The facility had been used to launch strikes against Iran. The withdrawal completes the removal of the aircraft. Air Force has brought home its bombers stationed at a U. S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base.
-
-### [US banks on bunker-busting Tomahawks to crack China’s missile wall](https://asiatimes.com/2026/10/us-banks-on-bunker-busting-tomahawks-to-crack-chinas-missile-wall/)
-*Asia Times* - Oct 15, 14:37 IST (iso: 2026-10-15T09:07:53+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Tomahawks-1.jpeg -->
-
-The US Navy plans to award Raytheon a sole-source contract for bunker-busting Tomahawk missiles. The move aims to counter deeply buried missile sites protected by robust air defenses. However, the system faces significant logistical and escalation challenges if deployed against China. The US Navy’s bunker-busting Tomahawk push reflects growing recognition from the Iran war that striking deeply buried missile sites protected by robust air defenses requires long-range standoff weapons.
-
-### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
-*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
-
-Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
-
-### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial)
-*The Guardian* - Oct 14, 18:46 IST (iso: 2026-10-14T13:16:30+00:00)
-<!-- image: https://i.guim.co.uk/img/media/28120a16f4ee8133901215c24889ae3476e9eeda/663_0_6627_5304/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a60bfd0a06f78c67f25892073437db01 -->
-
-Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
-
-### [Cholera cases spike amid fight against Ebola](https://news.un.org/feed/view/en/story/2026/10/1168595)
-*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg -->
-
-The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.
-
-### [Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable](https://news.un.org/feed/view/en/story/2026/10/1168596)
-*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-02-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg -->
-
-The UN and partners are preparing for winter in Gaza despite ongoing attacks on civilians. OCHA highlighted the urgent need for cold and rainy season support. Humanitarian efforts continue amid persistent violence and displacement in the territory. The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.
-
----
-
 ## Americas
 
 ### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
@@ -165,12 +171,6 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
 
 A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
-
-### [WHO urges faster action to end lead exposure which kills 3.5 million annually](https://news.un.org/feed/view/en/story/2026/10/1168600)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image770x420cropped.jpg -->
-
-The World Health Organization urged countries to accelerate efforts to prevent lead exposure. The toxic metal causes more than 3.5 million deaths globally each year. It also affects hundreds of millions of children worldwide. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
 
 ---
 
