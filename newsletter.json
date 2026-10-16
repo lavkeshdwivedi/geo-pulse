@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-16T19:07:37.937295+00:00",
+  "generated_at": "2026-10-16T22:17:31.819937+00:00",
   "article_count": 50,
-  "total_unique_count": 263,
+  "total_unique_count": 260,
   "digest": {
-    "en": "No 10 keeps the door open for Chinese EV tariffs if the UK joins the EU scheme. Meanwhile, Rubio heads to Central Asia as Washington seeks a bigger role in a region dominated by Russia and China.",
-    "hi": "NASA data shows Pacific sea levels rising 40 centimeters as El Nino intensifies. India simultaneously grants Maldives a 30 billion rupee currency swap facility. Washington moves 200 companies to Central Asia to counter Russian and Chinese influence."
+    "en": "Brazilian Amazon deforestation dropped to a historic low in July, just as the Senate prepares a critical vote on the new environmental protection bill. Meanwhile, Russia’s shadow campaign against NATO escalates, signaling a parallel surge in geopolitical tension across Europe.",
+    "hi": "यमन के अदन अंतरराष्ट्रीय हवाई अड्डे पर दो मिसाइलों ने हमला किया, जिससे सऊदी समर्थित सैन्य ठिकाने को निशाना बनाया गया।"
   },
   "articles": [
+    {
+      "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-16T19:37:53+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc",
+      "summary": "Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
       "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
@@ -164,14 +176,14 @@
       "translations": {}
     },
     {
-      "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+      "title": "Afghanistan faces record hunger levels amid rampant rights violations",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg",
-      "summary": "A new UN report warns neurotechnology outpaces human rights laws. Brain data from gaming or wellness devices could become court evidence. The organization called for limits on these technologies. Current legal frameworks fail to protect individuals from misuse. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
-      "region": "Global / Multilateral",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg",
+      "summary": "Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -200,18 +212,6 @@
       "translations": {}
     },
     {
-      "title": "Afghanistan faces record hunger levels amid rampant rights violations",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg",
-      "summary": "Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168600",
       "source": "UN News",
@@ -219,6 +219,18 @@
       "published_at": "2026-10-15T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image560x340cropped.jpg",
       "summary": "The World Health Organization urged nations to accelerate lead exposure prevention efforts. The toxic metal causes over 3.5 million deaths annually. It also affects hundreds of millions of children worldwide. The agency called for faster action to address this persistent public health crisis. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-15T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg",
+      "summary": "A new UN report warns neurotechnology outpaces human rights laws. Brain data from gaming or wellness devices could become court evidence. The organization called for limits on these technologies. Current legal frameworks fail to protect individuals from misuse. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
       "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
@@ -260,18 +272,6 @@
       "translations": {}
     },
     {
-      "title": "Girls In Hijabs Turned Away From Azerbaijani Schools Amid Protests Over Dress Code",
-      "url": "https://www.rferl.org/a/azerbaijan-hijab-ban-school-religion-education/33876714.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-14T18:22:25+00:00",
-      "image_url": "https://gdb.rferl.org/dde5ad3a-3107-456d-680a-08df13a87200_w1200_h630.jpg",
-      "summary": "Azerbaijani parents and students protested after schools turned away girls wearing hijabs. The dispute followed a new ban on clothing deemed incompatible with secular education. The dress code policy triggered immediate backlash from families. Students were denied entry to classes over their headscarves. A new dress-code dispute in Azerbaijan’s public schools has sparked protests by parents and students after reports that girls wearing hijabs, or Islamic headscarf, were turned away from classes.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Ukraine Tests AI-Powered Drones As Debate Grows Over Autonomous Weapons",
       "url": "https://www.rferl.org/a/ukraine-tests-ai-powered-drones-as-debate-grows-over-autonomous-weapons/33876615.html",
       "source": "Radio Free Europe / Liberty",
@@ -306,6 +306,186 @@
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "आईपीएस अधिकारी के मानहानि नोटिस पर भड़के राजद सांसद: सीएम को लिखा खुला पत्र; पूछा- क्या सरकार से ली",
+      "url": "https://www.amarujala.com/bihar/rjd-mp-writes-open-letter-to-bihar-cm-after-getting-defamation-notice-from-ips-officer-2026-10-17",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-17T07:03:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/03/rajatha-sasatha-sathhakara-saha_6c4a1c8777fa556a8e7b4842667587ce.jpeg?w=1200&dpr=1.0",
+      "summary": "राजद सांसद ने आईपीएस अधिकारी के मानहानि नोटिस पर मुख्यमंत्री को खुला पत्र लिखा। उन्होंने सरकार से अनुमति के प्रश्न उठाए। यह कदम प्रशासनिक कार्रवाई पर सार्वजनिक बहस शुरू करता है। आईपीएस अधिकारी के मानहानि नोटिस पर भड़के राजद सांसद: सीएम को लिखा खुला पत्र; पूछा- क्या सरकार से ली थी अनुमति?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईपीएस अधिकारी के मानहानि नोटिस पर भड़के राजद सांसद: सीएम को लिखा खुला पत्र; पूछा- क्या सरकार से ली",
+          "summary": "राजद सांसद ने आईपीएस अधिकारी के मानहानि नोटिस पर मुख्यमंत्री को खुला पत्र लिखा। उन्होंने सरकार से अनुमति के प्रश्न उठाए। यह कदम प्रशासनिक कार्रवाई पर सार्वजनिक बहस शुरू करता है। आईपीएस अधिकारी के मानहानि नोटिस पर भड़के राजद सांसद: सीएम को लिखा खुला पत्र; पूछा- क्या सरकार से ली थी अनुमति?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "UPI से गलत खाते में भेज दिए पैसे? घबराएं नहीं, तुरंत करें ये काम, वापस मिल सकती है रकम",
+      "url": "https://www.amarujala.com/video/technology/tip-of-the-day/sent-money-to-the-wrong-account-via-upi-don-t-panic-take-these-steps-immediately-and-you-might-be-able-to-ge-2026-10-17",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T22:00:02+00:00",
+      "image_url": "https://images.pexels.com/photos/6214372/pexels-photo-6214372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "यूपीआई से गलत खाते में भेजे गए पैसे वापस मिल सकते हैं। तुरंत बैंक या पेमेंट ऐप में रिपोर्ट दर्ज कराना ज़रूरी है। समयबंद शिकायत से रकम रिकवर की संभावना बढ़ती है। UPI से गलत खाते में भेज दिए पैसे? घबराएं नहीं, तुरंत करें ये काम, वापस मिल सकती है रकम।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UPI से गलत खाते में भेज दिए पैसे? घबराएं नहीं, तुरंत करें ये काम, वापस मिल सकती है रकम",
+          "summary": "यूपीआई से गलत खाते में भेजे गए पैसे वापस मिल सकते हैं। तुरंत बैंक या पेमेंट ऐप में रिपोर्ट दर्ज कराना ज़रूरी है। समयबंद शिकायत से रकम रिकवर की संभावना बढ़ती है। UPI से गलत खाते में भेज दिए पैसे? घबराएं नहीं, तुरंत करें ये काम, वापस मिल सकती है रकम।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया",
+      "url": "https://www.amarujala.com/world/missiles-strike-the-airport-in-yemen-s-port-city-of-aden-officials-say-2026-10-17",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-16T20:44:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/17/athana-eyaraparata-para-masail-hamal_13c8e558b7b662491ee48a255def0e5b.jpeg?w=1200&dpr=1.0",
+      "summary": "यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला हुआ। सऊदी समर्थित सैन्य ठिकाना निशाना बना। अधिकारियों ने घटना की पुष्टि की है। यह हमला क्षेत्रीय तनाव को और बढ़ाता है। यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया निशाना?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया",
+          "summary": "यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला हुआ। सऊदी समर्थित सैन्य ठिकाना निशाना बना। अधिकारियों ने घटना की पुष्टि की है। यह हमला क्षेत्रीय तनाव को और बढ़ाता है। यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया निशाना?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की बिगड़ी तबीयत, अस्पताल में कराया गया भर्ती",
+      "url": "https://www.amarujala.com/video/india-news/senior-bjp-leader-lal-krishna-advani-s-health-has-deteriorated-he-has-been-admitted-to-the-hospital-2026-10-17",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T20:35:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/17/lk-advani-health-update_ee3fc5091709d064b1abca7476416d5c.jpeg?w=1200&dpr=1.0",
+      "summary": "भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की तबीयत बिगड़ने पर उन्हें अस्पताल में भर्ती कराया गया। स्वास्थ्य स्थिति पर चिकित्सकों की निगरानी जारी है। पार्टी ने उनके जल्द स्वस्थ होने की कामना की है। भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की बिगड़ी तबीयत, अस्पताल में कराया गया भर्ती।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की बिगड़ी तबीयत, अस्पताल में कराया गया भर्ती",
+          "summary": "भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की तबीयत बिगड़ने पर उन्हें अस्पताल में भर्ती कराया गया। स्वास्थ्य स्थिति पर चिकित्सकों की निगरानी जारी है। पार्टी ने उनके जल्द स्वस्थ होने की कामना की है। भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की बिगड़ी तबीयत, अस्पताल में कराया गया भर्ती।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पोर्शे ने मिशन एस कॉन्सेप्ट से उठाया पर्दा: 911 से ऊपर पोजीशन होगी नई मिड-इंजन सुपरकार, जानें क्या",
+      "url": "https://www.amarujala.com/automobiles/porsche-mission-s-concept-revealed-previews-upcoming-mid-engine-supercar-positioned-above-the-911-2026-10-17",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-16T20:31:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/17/porsche-mission-s_7854faead460d1a25d833b179d1ff483.jpeg?w=1200&dpr=1.0",
+      "summary": "पोर्शे ने मिशन एस कॉन्सेप्ट का अनावरण किया। यह नई मिड-इंजन सुपरकार 911 से ऊपर की श्रेणी में होगी। यह मॉडल ब्रांड के प्रीमियम सेगमेंट को मजबूत करने का प्रयास है। पोर्शे ने मिशन एस कॉन्सेप्ट से उठाया पर्दा: 911 से ऊपर पोजीशन होगी नई मिड-इंजन सुपरकार, जानें क्या।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पोर्शे ने मिशन एस कॉन्सेप्ट से उठाया पर्दा: 911 से ऊपर पोजीशन होगी नई मिड-इंजन सुपरकार, जानें क्या",
+          "summary": "पोर्शे ने मिशन एस कॉन्सेप्ट का अनावरण किया। यह नई मिड-इंजन सुपरकार 911 से ऊपर की श्रेणी में होगी। यह मॉडल ब्रांड के प्रीमियम सेगमेंट को मजबूत करने का प्रयास है। पोर्शे ने मिशन एस कॉन्सेप्ट से उठाया पर्दा: 911 से ऊपर पोजीशन होगी नई मिड-इंजन सुपरकार, जानें क्या।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता",
+      "url": "https://www.amarujala.com/world/russia-attacks-ukrainian-regions-civilian-deaths-surge-85-percent-zelenskyy-concerns-2026-10-17",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-16T20:12:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/02/russia-ukraine-war-america-is-afraid-of-these-weapons-of-russia-russia-nuclear-weapons_caf8a34addef2a2fa474a9c664812551.jpeg?w=1200&dpr=1.0",
+      "summary": "रूसी सेना ने यूक्रेन के नौ क्षेत्रों पर हमला किया। इससे नागरिकों की मौतों में 85 प्रतिशत की वृद्धि हुई। जेलेंस्की ने इस बढ़ते संकट पर चिंता जताई। यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता रही चिंता?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता",
+          "summary": "रूसी सेना ने यूक्रेन के नौ क्षेत्रों पर हमला किया। इससे नागरिकों की मौतों में 85 प्रतिशत की वृद्धि हुई। जेलेंस्की ने इस बढ़ते संकट पर चिंता जताई। यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता रही चिंता?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "CRPF में 'लांस नायक', 'नायक' रैंक को दोबारा शुरू करने का प्रस्ताव, 48 घंटे में देने होंगे सुझाव",
+      "url": "https://www.amarujala.com/india-news/crpf-personnel-ranks-proposal-lance-naik-and-naik-ranks-in-the-suggestions-to-be-submitted-within-48-hours-2026-10-17",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T20:12:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/17/crpf-ranking_ea586cc855863f638853d7b3d7da5edd.jpeg?w=1200&dpr=1.0",
+      "summary": "सीआरपीएफ ने लांस नायक और नायक रैंक पुनः शुरू करने का प्रस्ताव रखा है। अधिकारियों को 48 घंटे के भीतर अपने सुझाव देने होंगे। अफसरों के पद: CRPF में 'लांस नायक', 'नायक' रैंक को दोबारा शुरू करने का प्रस्ताव, 48 घंटे में देने होंगे सुझाव।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CRPF में 'लांस नायक', 'नायक' रैंक को दोबारा शुरू करने का प्रस्ताव, 48 घंटे में देने होंगे सुझाव",
+          "summary": "सीआरपीएफ ने लांस नायक और नायक रैंक पुनः शुरू करने का प्रस्ताव रखा है। अधिकारियों को 48 घंटे के भीतर अपने सुझाव देने होंगे। अफसरों के पद: CRPF में 'लांस नायक', 'नायक' रैंक को दोबारा शुरू करने का प्रस्ताव, 48 घंटे में देने होंगे सुझाव।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला",
+      "url": "https://www.amarujala.com/world/world-updates-us-illegal-voting-indian-arrested-hormuz-romania-tankers-attacks-west-asia-russia-ukraine-news-2026-10-17",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-16T19:46:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_ada29d0698ac05730f42b55e98101cbe.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका में अवैध मतदान के आरोप में एक भारतीय को गिरफ्तार किया गया। इसके अलावा होर्मुज और रोमानिया में दो टैंकरों पर हमला हुआ। अंतरराष्ट्रीय सुर्खियां: अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला",
+          "summary": "अमेरिका में अवैध मतदान के आरोप में एक भारतीय को गिरफ्तार किया गया। इसके अलावा होर्मुज और रोमानिया में दो टैंकरों पर हमला हुआ। अंतरराष्ट्रीय सुर्खियां: अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "47.56 लाख मतदाताओं की खोज में 10 दिन घर-घर जाएंगे बीएलओ, निर्वाचन कार्यालय ने शुरू किया दोबारा",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-blos-to-conduct-door-to-door-visits-for-10-days-in-search-of-47-56-lakh-voters-2026-10-17",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-16T19:45:10+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/17/1_d1983f07b7227adee7e20491732235ed.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में 47.56 लाख मतदाताओं की खोज के लिए बीएलओ घर-घर जाएंगे। निर्वाचन कार्यालय ने 10 दिवसीय दोबारा सत्यापन अभियान शुरू किया है। दिल्ली में मतदाता सूची से हटाए गए 47.56 लाख नामों को लेकर निर्वाचन कार्यालय ने दोबारा सत्यापन की मुहिम शुरू की है। 47.56 लाख मतदाताओं की खोज में 10 दिन घर-घर जाएंगे बीएलओ, निर्वाचन कार्यालय ने शुरू किया दोबारा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "47.56 लाख मतदाताओं की खोज में 10 दिन घर-घर जाएंगे बीएलओ, निर्वाचन कार्यालय ने शुरू किया दोबारा",
+          "summary": "दिल्ली में 47.56 लाख मतदाताओं की खोज के लिए बीएलओ घर-घर जाएंगे। निर्वाचन कार्यालय ने 10 दिवसीय दोबारा सत्यापन अभियान शुरू किया है। दिल्ली में मतदाता सूची से हटाए गए 47.56 लाख नामों को लेकर निर्वाचन कार्यालय ने दोबारा सत्यापन की मुहिम शुरू की है। 47.56 लाख मतदाताओं की खोज में 10 दिन घर-घर जाएंगे बीएलओ, निर्वाचन कार्यालय ने शुरू किया दोबारा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "राइड-बाय-वायर और क्रूज कंट्रोल से हुई लैस, कीमत और डिलीवरी डिटेल्स क्या है?",
+      "url": "https://www.amarujala.com/automobiles/updated-hero-xtreme-160r-launched-at-rs-1-27-lakh-features-ride-by-wire-cruise-control-riding-modes-2026-10-17",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-16T19:38:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/17/2026-hero-xtreme-160r_6c105f88fe75415fc086bffc6043a526.jpeg?w=1200&dpr=1.0",
+      "summary": "हीरो ने एक्सट्रीम 160R बाइक की लॉन्चिंग की है। इसमें राइड-बाय-वायर और क्रूज कंट्रोल फीचर शामिल हैं। बाइक की कीमत 1.27 लाख रुपये है। राइड-बाय-वायर और क्रूज कंट्रोल से हुई लैस, कीमत और डिलीवरी डिटेल्स क्या है?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राइड-बाय-वायर और क्रूज कंट्रोल से हुई लैस, कीमत और डिलीवरी डिटेल्स क्या है?",
+          "summary": "हीरो ने एक्सट्रीम 160R बाइक की लॉन्चिंग की है। इसमें राइड-बाय-वायर और क्रूज कंट्रोल फीचर शामिल हैं। बाइक की कीमत 1.27 लाख रुपये है। राइड-बाय-वायर और क्रूज कंट्रोल से हुई लैस, कीमत और डिलीवरी डिटेल्स क्या है?",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "40 सेमी तक बढ़ा जलस्तर और प्रशांत महासागर का रंग बदला, नासा ने दिखाया अल नीनो का खौफनाक रूप",
@@ -573,186 +753,6 @@
         "hi": {
           "title": "अभिजीत दीपके को हिरासत में लेने पर भड़कीं ममता बनर्जी, बोलीं- 'आप पूरी पीढ़ी को...'",
           "summary": "ममता बनर्जी ने अभिजीत दीपके की हिरासत पर दिल्ली पुलिस को घेरा। उन्होंने कहा कि तिरंगा थामने के लिए युवाओं को रोका जा रहा है। यह लोकतांत्रिक अधिकारों का दुरुपयोग है। पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी ने अभिजीत दीपके को हिरासत में लेने पर सवाल उठाया है. उन्होंने कहा है कि दिल्ली पुलिस क्या कर रही है? अभिजीत दीपके को सिर्फ इसलिए हिरासत में लिया गया है, क्योंकि उन्होंने भारतीय तिरंगा थाम रखा था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जेल में बंद आशुतोष रांका की टीम का अभिजीत दीपके पर बड़ा बयान, 'क्या देशभक्ति का...'",
-      "url": "https://www.abplive.com/news/india/abhijeet-dipke-detained-ashutosh-ranka-says-does-patriotism-delhi-police-cjp-protest-3203056",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-16T13:22:59+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/95daa717ae6b811af16090e773485a7a1792156556604708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "जेल में बंद आशुतोष रांका की टीम ने अभिजीत दीपके की हिरासत पर सवाल उठाया। उन्होंने पूछा कि तिरंगा फहराने से पहले ही उन्हें क्यों रोका गया। यह देशभक्ति पर हमला है। कॉकरोच जनता पार्टी (CJP) के संस्थापक अभिजीत दिपके को शुक्रवार को एहतियाती हिरासत में ले लिया. उन्हें हिरासत में लिए जाने के बाद जेल में बंद आशुतोष रांका की टीम ने पूछा, 'अभिजीत दिपके के तिरंगा फहराने से पहले ही उन्हें हिरासत में ले लिया गया?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जेल में बंद आशुतोष रांका की टीम का अभिजीत दीपके पर बड़ा बयान, 'क्या देशभक्ति का...'",
-          "summary": "जेल में बंद आशुतोष रांका की टीम ने अभिजीत दीपके की हिरासत पर सवाल उठाया। उन्होंने पूछा कि तिरंगा फहराने से पहले ही उन्हें क्यों रोका गया। यह देशभक्ति पर हमला है। कॉकरोच जनता पार्टी (CJP) के संस्थापक अभिजीत दिपके को शुक्रवार को एहतियाती हिरासत में ले लिया. उन्हें हिरासत में लिए जाने के बाद जेल में बंद आशुतोष रांका की टीम ने पूछा, 'अभिजीत दिपके के तिरंगा फहराने से पहले ही उन्हें हिरासत में ले लिया गया?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत ने बढ़ाया दोस्ती का हाथ, दूसरी तरफ बांग्लादेश में हिंदुओं की भावनाओं पर हमला, क्या रोक सकेंगे",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-jagannath-university-temple-side-beef-event-dhaka-dispute-over-religious-sensitivities-india-return-2-policemen-10914764.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-16T13:01:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/bangladesh-20-2026-10-938fd4931994f1d3886f9435dbcea14f-1200x800.jpg",
-      "summary": "ढाका की जगन्नाथ यूनिवर्सिटी में मंदिर के पास बीफ खिचड़ी बनाने पर विवाद हुआ। हिंदू छात्रों ने आपत्ति जताई। प्रशासन ने पशुओं को काटने पर रोक लगाई। बांग्लादेश की राजधानी ढाका की जगन्नाथ यूनिवर्सिटी में मंदिर के पास बीफ खिचड़ी बनाने को लेकर विवाद बढ़ गया है. हिंदू छात्रों ने आयोजन की जगह पर आपत्ति जताई और धार्मिक भावनाएं आहत होने की बात कही.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत ने बढ़ाया दोस्ती का हाथ, दूसरी तरफ बांग्लादेश में हिंदुओं की भावनाओं पर हमला, क्या रोक सकेंगे",
-          "summary": "ढाका की जगन्नाथ यूनिवर्सिटी में मंदिर के पास बीफ खिचड़ी बनाने पर विवाद हुआ। हिंदू छात्रों ने आपत्ति जताई। प्रशासन ने पशुओं को काटने पर रोक लगाई। बांग्लादेश की राजधानी ढाका की जगन्नाथ यूनिवर्सिटी में मंदिर के पास बीफ खिचड़ी बनाने को लेकर विवाद बढ़ गया है. हिंदू छात्रों ने आयोजन की जगह पर आपत्ति जताई और धार्मिक भावनाएं आहत होने की बात कही.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अभिजीत दीपके को हिरासत में लेने पर CJP का पहला रिएक्शन- 'तिरंगा तो...'",
-      "url": "https://www.abplive.com/news/india/abhijeet-dipke-detained-by-delhi-police-cjp-share-video-reaction-says-govt-afraid-tiranga-yatra-3203040",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-16T12:41:16+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/b89ba36d473d8a9a6d275a0adb1d71fd17921539047801324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दिल्ली पुलिस ने अभिजीत दीपके को लहरा दो तिरंगा रैली में जाते हुए हिरासत में लिया। सीजेपी ने कहा कि तिरंगा लहराता रहेगा। उन्होंने हिरासत का वीडियो जारी किया। दिल्ली पुलिस ने लहरा दो तिरंगा कार्यक्रम में जाते हुए अभिजीत दीपके को डिटेन कर लिया है. सीजेपी संस्थापक दीपके ने 16 अक्टूबर को शाम पांच बजे इस रैली का आह्वान किया था.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अभिजीत दीपके को हिरासत में लेने पर CJP का पहला रिएक्शन- 'तिरंगा तो...'",
-          "summary": "दिल्ली पुलिस ने अभिजीत दीपके को लहरा दो तिरंगा रैली में जाते हुए हिरासत में लिया। सीजेपी ने कहा कि तिरंगा लहराता रहेगा। उन्होंने हिरासत का वीडियो जारी किया। दिल्ली पुलिस ने लहरा दो तिरंगा कार्यक्रम में जाते हुए अभिजीत दीपके को डिटेन कर लिया है. सीजेपी संस्थापक दीपके ने 16 अक्टूबर को शाम पांच बजे इस रैली का आह्वान किया था.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान की सुरक्षा के खिलाफ आर्मेनिया नहीं उठाएगा कोई कदम, अब्बास अराघची को मिला आश्वासन",
-      "url": "https://www.patrika.com/world-news/abbas-araghchi-says-armenia-will-not-act-against-iran-security-20989212",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-16T12:41:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp",
-      "summary": "ईरानी विदेश मंत्री अब्बास अराघची ने कहा कि आर्मेनिया ने आश्वासन दिया है कि वह ईरान की सुरक्षा के खिलाफ कोई कदम नहीं उठाएगा। यह बात अमेरिका समर्थित ट्रंप रूट कॉरिडोर के संदर्भ में कही गई। ईरानी विदेश मंत्री अब्बास अराघची (Abbas Araghchi) का कहना है कि ईरान (Iran) को क्षेत्र में अमेरिकी प्रभाव को लेकर चिंता है, लेकिन उन्हें आश्वासन मिला है कि ईरान की सुरक्षा के खिलाफ आर्मेनिया (Armenia) कोई कदम नहीं उठाएगा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान की सुरक्षा के खिलाफ आर्मेनिया नहीं उठाएगा कोई कदम, अब्बास अराघची को मिला आश्वासन",
-          "summary": "ईरानी विदेश मंत्री अब्बास अराघची ने कहा कि आर्मेनिया ने आश्वासन दिया है कि वह ईरान की सुरक्षा के खिलाफ कोई कदम नहीं उठाएगा। यह बात अमेरिका समर्थित ट्रंप रूट कॉरिडोर के संदर्भ में कही गई। ईरानी विदेश मंत्री अब्बास अराघची (Abbas Araghchi) का कहना है कि ईरान (Iran) को क्षेत्र में अमेरिकी प्रभाव को लेकर चिंता है, लेकिन उन्हें आश्वासन मिला है कि ईरान की सुरक्षा के खिलाफ आर्मेनिया (Armenia) कोई कदम नहीं उठाएगा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "राहुल गांधी ने दिल्ली पुलिस पर साधा निशाना, कहा- 'हड्डियां तोड़ सकते हैं लेकिन...'",
-      "url": "https://www.abplive.com/news/india/rahul-gandhi-share-video-with-student-and-says-delhi-police-not-ragister-fir-3203016",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-16T12:38:36+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/2e546b2bf7f82d82ba0ba67861f3539217921522538241324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "राहुल गांधी ने दिल्ली पुलिस पर छात्रों के पीटने के मामले में एफआईआर दर्ज करने से इनकार करने का आरोप लगाया। उन्होंने केरल और राजस्थान की युवतियों के पीड़ित होने का जिक्र किया। लोकसभा नेता प्रतिपक्ष राहुल गांधी ने दिल्ली पुलिस पर आरोप लगाया है. उन्होंने एक्स पर पोस्ट करते हुए कहा है कि दिल्ली पुलिस हमारे छात्रों पर हमले के मामले में एफआईआर दर्ज करने से इनकार कर रही है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राहुल गांधी ने दिल्ली पुलिस पर साधा निशाना, कहा- 'हड्डियां तोड़ सकते हैं लेकिन...'",
-          "summary": "राहुल गांधी ने दिल्ली पुलिस पर छात्रों के पीटने के मामले में एफआईआर दर्ज करने से इनकार करने का आरोप लगाया। उन्होंने केरल और राजस्थान की युवतियों के पीड़ित होने का जिक्र किया। लोकसभा नेता प्रतिपक्ष राहुल गांधी ने दिल्ली पुलिस पर आरोप लगाया है. उन्होंने एक्स पर पोस्ट करते हुए कहा है कि दिल्ली पुलिस हमारे छात्रों पर हमले के मामले में एफआईआर दर्ज करने से इनकार कर रही है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मोम सा पिघल रहा है कयामत का ग्लेशियर! लील लेगा बड़े-बड़े शहर, वैज्ञानिकों की नई रिपोर्ट ने दी टेंशन",
-      "url": "https://hindi.news18.com/world/rest-of-world-doomsday-glacier-melting-faster-than-scientists-prediction-consequences-are-not-good-for-humanity-science-news-10914694.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-16T12:34:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/doomsday-glacier-2026-10-daf994d584d7fa785595836bcc972c77-1200x800.jpg",
-      "summary": "वैज्ञानिकों की रिपोर्ट के अनुसार, विशाल ग्लेशियर तेजी से पिघल रहा है। इससे बड़े शहरों को बाढ़ का खतरा है। यह प्रक्रिया नेपाल में देखी गई तबाही से कहीं व्यापक है। Doomsday Glacier Melting Fast: कुदरत ने कुछ ऐसी चीजें बनाई हैं, जिन्हें हम समझ ही नहीं पाते और ये हमारे बड़ा खतरा बनते जाते हैं. एक ऐसी कुदरती आपदा बहुत तेजी से आगे बढ़ रही है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मोम सा पिघल रहा है कयामत का ग्लेशियर! लील लेगा बड़े-बड़े शहर, वैज्ञानिकों की नई रिपोर्ट ने दी टेंशन",
-          "summary": "वैज्ञानिकों की रिपोर्ट के अनुसार, विशाल ग्लेशियर तेजी से पिघल रहा है। इससे बड़े शहरों को बाढ़ का खतरा है। यह प्रक्रिया नेपाल में देखी गई तबाही से कहीं व्यापक है। Doomsday Glacier Melting Fast: कुदरत ने कुछ ऐसी चीजें बनाई हैं, जिन्हें हम समझ ही नहीं पाते और ये हमारे बड़ा खतरा बनते जाते हैं. एक ऐसी कुदरती आपदा बहुत तेजी से आगे बढ़ रही है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत के पड़ोस में अमेरिका की चाल, चीन होगा पस्त? म्यांमार के खजाने पर नजर, जापान में सीक्रेट मीटिंग",
-      "url": "https://hindi.news18.com/world/south-asia-us-myanmar-military-secret-meeting-in-japan-rare-earth-minerals-china-india-strategy-10914429.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-16T11:58:16+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/myanmar-us-news-2026-10-54090af929aeec46bd7071e89e0e51b8-1200x800.jpg",
-      "summary": "अमेरिका ने टोक्यो में म्यांमार के सैन्य नेताओं से गुप्त बैठक की। इसका उद्देश्य चीन के प्रभाव से रेयर अर्थ मिनरल्स की आपूर्ति पर नियंत्रण हासिल करना है। गृहयुद्ध और सीमित प्रोसेसिंग क्षमता इस प्रयास में बाधा है। US Myanmar News: भारत के पड़ोसी म्यांमार में अमेरिका ने अचानक दिलचस्पी लेनी शुरू कर दी है. अमेरिकी अधिकारियों ने म्यांमार के मिलिट्री लीडरशिप के साथ टोक्यो में सीक्रेट बातचीत की है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के पड़ोस में अमेरिका की चाल, चीन होगा पस्त? म्यांमार के खजाने पर नजर, जापान में सीक्रेट मीटिंग",
-          "summary": "अमेरिका ने टोक्यो में म्यांमार के सैन्य नेताओं से गुप्त बैठक की। इसका उद्देश्य चीन के प्रभाव से रेयर अर्थ मिनरल्स की आपूर्ति पर नियंत्रण हासिल करना है। गृहयुद्ध और सीमित प्रोसेसिंग क्षमता इस प्रयास में बाधा है। US Myanmar News: भारत के पड़ोसी म्यांमार में अमेरिका ने अचानक दिलचस्पी लेनी शुरू कर दी है. अमेरिकी अधिकारियों ने म्यांमार के मिलिट्री लीडरशिप के साथ टोक्यो में सीक्रेट बातचीत की है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज स्ट्रेट पार करने की कोशिश कर रहा था तेल का जहाज, प्रतिबंधित इलाके से गुज़रते हुए लगी आग",
-      "url": "https://www.patrika.com/world-news/violating-tanker-catches-fire-in-strait-of-hormuz-20989048",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-16T11:44:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/tanker-catches-fire.webp",
-      "summary": "ईरानी नेवी का कहना है कि होर्मुज स्ट्रेट में एक प्रतिबंधित क्षेत्र से गुजरते हुए तेल जहाज में आग लग गई। जहाज ने अपना ट्रैकिंग सिस्टम बंद कर दिया था। ईरान (Iran) की नेवी का कहना है कि होर्मुज स्ट्रेट (Strait of Hormuz) में एक प्रतिबंधित इलाके से गुज़रने की कोशिश कर रहा एक और तेल का जहाज आग की चपेट में आ गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज स्ट्रेट पार करने की कोशिश कर रहा था तेल का जहाज, प्रतिबंधित इलाके से गुज़रते हुए लगी आग",
-          "summary": "ईरानी नेवी का कहना है कि होर्मुज स्ट्रेट में एक प्रतिबंधित क्षेत्र से गुजरते हुए तेल जहाज में आग लग गई। जहाज ने अपना ट्रैकिंग सिस्टम बंद कर दिया था। ईरान (Iran) की नेवी का कहना है कि होर्मुज स्ट्रेट (Strait of Hormuz) में एक प्रतिबंधित इलाके से गुज़रने की कोशिश कर रहा एक और तेल का जहाज आग की चपेट में आ गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अभिजीत दीपके को हिरासत में लिया गया, CJP के तिरंगा मार्च से पहले पुलिस का एक्शन",
-      "url": "https://www.abplive.com/news/india/cockroach-janta-party-reaction-on-abhijit-dipke-detained-delhi-police-3203009",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-16T11:39:49+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/445c6089c4de33e4b126d7126fb23ff41792151043287708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दिल्ली पुलिस ने सीजेपी संस्थापक अभिजीत दीपके को तिरंगा मार्च से पहले कनॉट प्लेस जाने के दौरान हिरासत में लिया। यह एक सप्ताह में उनका दूसरा ऐसा मामला है। दिल्ली पुलिस ने मार्च से पहले सीजेपी संस्थापक अभिजीत दीपके को हिरासत में ले लिया है. वह तिरंगा मार्च के लिए कनॉट प्लेस जा रहे थे, तभी पुलिस ने उन्हें डिटेन कर लिया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अभिजीत दीपके को हिरासत में लिया गया, CJP के तिरंगा मार्च से पहले पुलिस का एक्शन",
-          "summary": "दिल्ली पुलिस ने सीजेपी संस्थापक अभिजीत दीपके को तिरंगा मार्च से पहले कनॉट प्लेस जाने के दौरान हिरासत में लिया। यह एक सप्ताह में उनका दूसरा ऐसा मामला है। दिल्ली पुलिस ने मार्च से पहले सीजेपी संस्थापक अभिजीत दीपके को हिरासत में ले लिया है. वह तिरंगा मार्च के लिए कनॉट प्लेस जा रहे थे, तभी पुलिस ने उन्हें डिटेन कर लिया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "55 साल बाद भी पॉलिसी मेकिंग क्यों मजबूत नहीं कर पाया बांग्लादेश? रिपोर्ट में प्रशासनिक व्यवस्था पर",
-      "url": "https://www.patrika.com/world-news/bangladesh-policy-making-challenges-administrative-reforms-20988730",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-16T11:31:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Bangladesh-Minority-Attack.webp",
-      "summary": "बांग्लादेश ने 55 वर्षों में आर्थिक और सामाजिक प्रगति की है। नई रिपोर्ट का कहना है कि नीति निर्माण और कार्यान्वयन में संस्थागत क्षमता अभी भी कमजोर है। प्रशासनिक व्यवस्था में सुधार की आवश्यकता उभरी है। Bangladesh Governance Latest Update: भारत का पड़ोसी मुल्क बांग्लादेश पिछले 55 सालों में सामाजिक और आर्थिक मोर्चे पर काफी तरक्की की है। देश ने कई क्षेत्रों में अपनी पहचान बनाई है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "55 साल बाद भी पॉलिसी मेकिंग क्यों मजबूत नहीं कर पाया बांग्लादेश? रिपोर्ट में प्रशासनिक व्यवस्था पर",
-          "summary": "बांग्लादेश ने 55 वर्षों में आर्थिक और सामाजिक प्रगति की है। नई रिपोर्ट का कहना है कि नीति निर्माण और कार्यान्वयन में संस्थागत क्षमता अभी भी कमजोर है। प्रशासनिक व्यवस्था में सुधार की आवश्यकता उभरी है। Bangladesh Governance Latest Update: भारत का पड़ोसी मुल्क बांग्लादेश पिछले 55 सालों में सामाजिक और आर्थिक मोर्चे पर काफी तरक्की की है। देश ने कई क्षेत्रों में अपनी पहचान बनाई है।",
           "region": "एशिया-प्रशांत"
         }
       }

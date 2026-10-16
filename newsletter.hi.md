@@ -1,10 +1,46 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 17, 2026 00:37 IST
+**अपडेट:** October 17, 2026 03:47 IST
 
 ---
 
 ## दुनिया
+
+### [आईपीएस अधिकारी के मानहानि नोटिस पर भड़के राजद सांसद: सीएम को लिखा खुला पत्र; पूछा- क्या सरकार से ली](https://www.amarujala.com/bihar/rjd-mp-writes-open-letter-to-bihar-cm-after-getting-defamation-notice-from-ips-officer-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 12:33 IST (iso: 2026-10-17T07:03:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/03/rajatha-sasatha-sathhakara-saha_6c4a1c8777fa556a8e7b4842667587ce.jpeg?w=1200&dpr=1.0 -->
+
+राजद सांसद ने आईपीएस अधिकारी के मानहानि नोटिस पर मुख्यमंत्री को खुला पत्र लिखा। उन्होंने सरकार से अनुमति के प्रश्न उठाए। यह कदम प्रशासनिक कार्रवाई पर सार्वजनिक बहस शुरू करता है। आईपीएस अधिकारी के मानहानि नोटिस पर भड़के राजद सांसद: सीएम को लिखा खुला पत्र; पूछा- क्या सरकार से ली थी अनुमति?
+
+### [UPI से गलत खाते में भेज दिए पैसे? घबराएं नहीं, तुरंत करें ये काम, वापस मिल सकती है रकम](https://www.amarujala.com/video/technology/tip-of-the-day/sent-money-to-the-wrong-account-via-upi-don-t-panic-take-these-steps-immediately-and-you-might-be-able-to-ge-2026-10-17)
+*Amar Ujala National* - Oct 17, 03:30 IST (iso: 2026-10-16T22:00:02+00:00)
+<!-- image: https://images.pexels.com/photos/6214372/pexels-photo-6214372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+यूपीआई से गलत खाते में भेजे गए पैसे वापस मिल सकते हैं। तुरंत बैंक या पेमेंट ऐप में रिपोर्ट दर्ज कराना ज़रूरी है। समयबंद शिकायत से रकम रिकवर की संभावना बढ़ती है। UPI से गलत खाते में भेज दिए पैसे? घबराएं नहीं, तुरंत करें ये काम, वापस मिल सकती है रकम।
+
+### [भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की बिगड़ी तबीयत, अस्पताल में कराया गया भर्ती](https://www.amarujala.com/video/india-news/senior-bjp-leader-lal-krishna-advani-s-health-has-deteriorated-he-has-been-admitted-to-the-hospital-2026-10-17)
+*Amar Ujala National* - Oct 17, 02:05 IST (iso: 2026-10-16T20:35:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/lk-advani-health-update_ee3fc5091709d064b1abca7476416d5c.jpeg?w=1200&dpr=1.0 -->
+
+भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की तबीयत बिगड़ने पर उन्हें अस्पताल में भर्ती कराया गया। स्वास्थ्य स्थिति पर चिकित्सकों की निगरानी जारी है। पार्टी ने उनके जल्द स्वस्थ होने की कामना की है। भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की बिगड़ी तबीयत, अस्पताल में कराया गया भर्ती।
+
+### [पोर्शे ने मिशन एस कॉन्सेप्ट से उठाया पर्दा: 911 से ऊपर पोजीशन होगी नई मिड-इंजन सुपरकार, जानें क्या](https://www.amarujala.com/automobiles/porsche-mission-s-concept-revealed-previews-upcoming-mid-engine-supercar-positioned-above-the-911-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 02:01 IST (iso: 2026-10-16T20:31:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/porsche-mission-s_7854faead460d1a25d833b179d1ff483.jpeg?w=1200&dpr=1.0 -->
+
+पोर्शे ने मिशन एस कॉन्सेप्ट का अनावरण किया। यह नई मिड-इंजन सुपरकार 911 से ऊपर की श्रेणी में होगी। यह मॉडल ब्रांड के प्रीमियम सेगमेंट को मजबूत करने का प्रयास है। पोर्शे ने मिशन एस कॉन्सेप्ट से उठाया पर्दा: 911 से ऊपर पोजीशन होगी नई मिड-इंजन सुपरकार, जानें क्या।
+
+### [CRPF में 'लांस नायक', 'नायक' रैंक को दोबारा शुरू करने का प्रस्ताव, 48 घंटे में देने होंगे सुझाव](https://www.amarujala.com/india-news/crpf-personnel-ranks-proposal-lance-naik-and-naik-ranks-in-the-suggestions-to-be-submitted-within-48-hours-2026-10-17)
+*Amar Ujala National* - Oct 17, 01:42 IST (iso: 2026-10-16T20:12:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/crpf-ranking_ea586cc855863f638853d7b3d7da5edd.jpeg?w=1200&dpr=1.0 -->
+
+सीआरपीएफ ने लांस नायक और नायक रैंक पुनः शुरू करने का प्रस्ताव रखा है। अधिकारियों को 48 घंटे के भीतर अपने सुझाव देने होंगे। अफसरों के पद: CRPF में 'लांस नायक', 'नायक' रैंक को दोबारा शुरू करने का प्रस्ताव, 48 घंटे में देने होंगे सुझाव।
+
+### [राइड-बाय-वायर और क्रूज कंट्रोल से हुई लैस, कीमत और डिलीवरी डिटेल्स क्या है?](https://www.amarujala.com/automobiles/updated-hero-xtreme-160r-launched-at-rs-1-27-lakh-features-ride-by-wire-cruise-control-riding-modes-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 01:08 IST (iso: 2026-10-16T19:38:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/2026-hero-xtreme-160r_6c105f88fe75415fc086bffc6043a526.jpeg?w=1200&dpr=1.0 -->
+
+हीरो ने एक्सट्रीम 160R बाइक की लॉन्चिंग की है। इसमें राइड-बाय-वायर और क्रूज कंट्रोल फीचर शामिल हैं। बाइक की कीमत 1.27 लाख रुपये है। राइड-बाय-वायर और क्रूज कंट्रोल से हुई लैस, कीमत और डिलीवरी डिटेल्स क्या है?
 
 ### [40 सेमी तक बढ़ा जलस्तर और प्रशांत महासागर का रंग बदला, नासा ने दिखाया अल नीनो का खौफनाक रूप](https://hindi.news18.com/news/knowledge/nasa-satellites-track-historic-2026-el-nino-pacific-ocean-climate-10915206.html)
 *News18 Hindi (World)* - Oct 16, 23:31 IST (iso: 2026-10-16T18:01:02+00:00)
@@ -12,15 +48,89 @@
 
 नासा के सैटेलाइट डेटा के अनुसार प्रशांत महासागर में जलस्तर 40 सेंटीमीटर तक बढ़ गया है। नोआ का अनुमान है कि यह 1950 के बाद का सबसे ताकतवर अल नीनो होगा। समंदर का रंग हरे से नीला हो गया है। नासा के सैटेलाइट्स प्रशांत महासागर में बन रहे ऐतिहासिक अल नीनो को ट्रैक कर रहे हैं. नोआ के अनुसार 83 प्रतिशत संभावना है कि यह 1950 के बाद का सबसे ताकतवर अल नीनो होगा.
 
-### [जेल में बंद आशुतोष रांका की टीम का अभिजीत दीपके पर बड़ा बयान, 'क्या देशभक्ति का...'](https://www.abplive.com/news/india/abhijeet-dipke-detained-ashutosh-ranka-says-does-patriotism-delhi-police-cjp-protest-3203056)
-*ABP Live (India)* - Oct 16, 18:52 IST (iso: 2026-10-16T13:22:59+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/95daa717ae6b811af16090e773485a7a1792156556604708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+---
 
-जेल में बंद आशुतोष रांका की टीम ने अभिजीत दीपके की हिरासत पर सवाल उठाया। उन्होंने पूछा कि तिरंगा फहराने से पहले ही उन्हें क्यों रोका गया। यह देशभक्ति पर हमला है। कॉकरोच जनता पार्टी (CJP) के संस्थापक अभिजीत दिपके को शुक्रवार को एहतियाती हिरासत में ले लिया. उन्हें हिरासत में लिए जाने के बाद जेल में बंद आशुतोष रांका की टीम ने पूछा, 'अभिजीत दिपके के तिरंगा फहराने से पहले ही उन्हें हिरासत में ले लिया गया?
+## मध्य पूर्व और अफ्रीका
+
+### [यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया](https://www.amarujala.com/world/missiles-strike-the-airport-in-yemen-s-port-city-of-aden-officials-say-2026-10-17)
+*Amar Ujala World* - Oct 17, 02:14 IST (iso: 2026-10-16T20:44:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/athana-eyaraparata-para-masail-hamal_13c8e558b7b662491ee48a255def0e5b.jpeg?w=1200&dpr=1.0 -->
+
+यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला हुआ। सऊदी समर्थित सैन्य ठिकाना निशाना बना। अधिकारियों ने घटना की पुष्टि की है। यह हमला क्षेत्रीय तनाव को और बढ़ाता है। यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया निशाना?
+
+### [हूती हमलों की आग में ‘मक्का समझौता’: सऊदी की मदद के लिए पाकिस्तान का सधा हुआ डिप्लोमेटिक दांव](https://www.patrika.com/world-news/houthi-attacks-pakistan-military-test-saudi-arabia-diplomatic-plan-20989558)
+*Patrika (World)* - Oct 16, 21:22 IST (iso: 2026-10-16T15:52:18+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Mecca-Joint-Defence-Agreement.webp -->
+
+यमन के हूती विद्रोहियों के सऊदी अरब पर मिसाइल और ड्रोन हमलों ने मक्का संयुक्त रक्षा समझौते को परीक्षा में डाल दिया है। इस त्रिपक्षीय समझौते के तहत सऊदी, पाकिस्तान और तुर्किए में से किसी एक पर हमला तीनों पर हमला माना जाएगा। सऊदी अरब पर यमन के हूती विद्रोहियों के भीषण मिसाइल और ड्रोन हमलों ने अगस्त 2026 में हुए ऐतिहासिक ‘मक्का संयुक्त रक्षा समझौते’ (Mecca Joint Defence Agreement) को बड़ी परीक्षा में डाल दिया है।
+
+### [इस्लामिक स्टेट के खिलाफ तुर्की की कार्रवाई जारी, 59 संदिग्धों को सुरक्षाबलों ने किया गिरफ्तार](https://www.patrika.com/world-news/turkey-arrests-59-suspects-in-anti-islamic-state-operations-20989555)
+*Patrika (World)* - Oct 16, 20:51 IST (iso: 2026-10-16T15:21:29+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/handcuffed.webp -->
+
+तुर्की में इस्लामिक स्टेट के खिलाफ देशव्यापी सुरक्षा अभियान के तहत 59 संदिग्धों को गिरफ्तार किया गया है। सुरक्षाबल आतंकवाद को रोकने के लिए देशभर में कार्रवाई जारी रख रहे हैं और संगठन से जुड़े लोगों को पकड़ रहे हैं। आतंकी संगठन इस्लामिक स्टेट (Islamic State) के खिलाफ तुर्की (Turkey) में देशव्यापी कार्रवाई की जा रही है। आतंकवाद को बढ़ने से रोकने के लिए देशभर में सुरक्षाबल अभियान चला रहे हैं और इस आतंकी संगठन से जुड़े लोगों के खिलाफ कार्रवाई कर रहे हैं।
+
+### [सऊदी अरब के पास सेना ने मार गिराई मिसाइलें और ड्रोन्स, अल-मजज़र जिले में आगे बढ़ी यमनी सेना](https://www.patrika.com/world-news/missiles-and-drones-intercepted-near-saudi-arabia-yemen-army-advances-into-al-majzar-district-20989496)
+*Patrika (World)* - Oct 16, 20:27 IST (iso: 2026-10-16T14:57:46+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/missile-intercepted.webp -->
+
+सऊदी अरब की सेना ने हूती विद्रोहियों की मिसाइलों और ड्रोन को मार गिराया है। यमन की सरकारी सेना ने अल-मजज़र जिले में आगे बढ़कर हूतियों के खिलाफ कार्रवाई की है, जिससे क्षेत्र में संघर्ष तीव्र हो गया है। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग बढ़ती ही जा रही है है। सऊदी अरब (Saudi Arabia) की सेना भी हूतियों के खिलाफ कार्रवाई कर रही है, जिसके जवाब में हूती विद्रोही भी सऊदी अरब पर हमले कर रहे हैं।
+
+### [ईरान के कार्यवाहक तेल मंत्री की चेतावनी – ‘ईरानी ऊर्जा सुविधाओं के खिलाफ अमेरिकी खतरे का दिया जाएगा](https://www.patrika.com/world-news/iran-acting-oil-minister-says-iran-will-respond-immediately-and-appropriately-to-any-us-threat-to-energy-facilities-20989466)
+*Patrika (World)* - Oct 16, 20:04 IST (iso: 2026-10-16T14:34:26+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/iranian-energy-facility.webp -->
+
+ईरान के कार्यवाहक तेल मंत्री ने अमेरिका को चेतावनी दी है कि ईरानी ऊर्जा सुविधाओं पर हमले का जवाब दिया जाएगा। दोनों देशों के बीच युद्ध का स्थायी अंत अभी तक नहीं हुआ है। ईरान बातचीत के लिए तैयार है, लेकिन घुटने नहीं टेकेगा। ईरान (Iran) और अमेरिका (United States of America) के बीच युद्ध का अभी भी स्थायी अंत नहीं हुआ है और कुछ मीडिया रिपोर्ट्स के अनुसार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) देश में मिडटर्म चुनाव के बाद ईरान पर फिर हमला करने का आदेश दे सकते हैं।
+
+### [होर्मुज के गेट पर ट्रंप की सेना मुंह ताकती रही, ईरान के जहाज भारत तक पहुंचे, किस देश ने खरीदा](https://hindi.news18.com/world/middle-east-iran-shipped-limited-lpg-and-jet-fuel-despite-us-naval-blockade-myanmar-china-10914827.html)
+*News18 Hindi (World)* - Oct 16, 19:46 IST (iso: 2026-10-16T14:16:40+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/ian-oil-ship-2026-10-8d8d0a4ecc6372b6b9d5b28f8b73ca6c-1200x800.jpg -->
+
+अमेरिका की समुद्री नाकेबंदी के बावजूद ईरान की आठ गैस टैंकर ओमान से निकलीं। एक जेट फ्यूल टैंकर सितंबर में म्यांमार पहुंचा। शिपिंग इंटेलिजेंस स्रोतों ने यह जानकारी दी। अमेरिका ने ईरान के तेल निर्यात पर रोक लगाने के लिए समुद्र में नाकेबंदी लागू की है. इसके बावजूद शिपिंग इंटेलिजेंस और समुद्री सुरक्षा से जुड़े लोगों के मुताबिक, ईरान की LPG और जेट फ्यूल की कुछ खेपें बाहर पहुंचीं.
+
+---
+
+## यूरोप और रूस
+
+### [यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता](https://www.amarujala.com/world/russia-attacks-ukrainian-regions-civilian-deaths-surge-85-percent-zelenskyy-concerns-2026-10-17)
+*Amar Ujala World* - Oct 17, 01:42 IST (iso: 2026-10-16T20:12:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/06/02/russia-ukraine-war-america-is-afraid-of-these-weapons-of-russia-russia-nuclear-weapons_caf8a34addef2a2fa474a9c664812551.jpeg?w=1200&dpr=1.0 -->
+
+रूसी सेना ने यूक्रेन के नौ क्षेत्रों पर हमला किया। इससे नागरिकों की मौतों में 85 प्रतिशत की वृद्धि हुई। जेलेंस्की ने इस बढ़ते संकट पर चिंता जताई। यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता रही चिंता?
+
+### [अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला](https://www.amarujala.com/world/world-updates-us-illegal-voting-indian-arrested-hormuz-romania-tankers-attacks-west-asia-russia-ukraine-news-2026-10-17)
+*Amar Ujala World* - Oct 17, 01:16 IST (iso: 2026-10-16T19:46:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_ada29d0698ac05730f42b55e98101cbe.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में अवैध मतदान के आरोप में एक भारतीय को गिरफ्तार किया गया। इसके अलावा होर्मुज और रोमानिया में दो टैंकरों पर हमला हुआ। अंतरराष्ट्रीय सुर्खियां: अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला।
+
+### [रूस से तेल का खेल और फंस गई भारत की कंपनी, EU ने लगाया बैन, समझें शैडो फ्लीट कनेक्शन](https://hindi.news18.com/world/europe-eu-sanctions-indian-firm-vigor-marine-services-over-alleged-links-to-russia-shadow-fleet-and-risky-oil-shipping-practices-10915059.html)
+*News18 Hindi (World)* - Oct 16, 20:53 IST (iso: 2026-10-16T15:23:22+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/kaja-kallas-reuters.-2026-10-06d82e112788f4ce60b6529eb9c84860-1200x800.jpg -->
+
+यूरोपीय यूनियन ने रूसी तेल के प्रतिबंधों से बचाने में मदद के आरोप में मुंबई स्थित Vigor Marine Services LLP पर प्रतिबंध लगाया है। EU का दावा है कि कंपनी शैडो फ्लीट के दो जहाजों का प्रबंधन करती है और AIS डेटा में हेरफेर करती है। Why EU Ban Indian Company: यूरोपीय यूनियन ने रूस से जुड़े तेल कारोबार और प्रतिबंधों से बचने में कथित मदद के आरोप में 12 व्यक्तियों और संस्थाओं पर कार्रवाई की है.
+
+### [मध्य एशिया में अमेरिका की बड़ी चाल: रूस-चीन की सीमा पर 200 से ज्यादा कंपनियां ले जाएगा वाशिंगटन](https://www.patrika.com/world-news/us-takes-200-companies-central-asia-rubio-samarkand-c5-plus-1-critical-minerals-20989484)
+*Patrika (World)* - Oct 16, 20:13 IST (iso: 2026-10-16T14:43:17+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Marco-Rubio.webp -->
+
+वाशिंगटन ने मध्य एशिया में 200 से अधिक अमेरिकी कंपनियों के प्रवेश की प्रक्रिया शुरू की है। यह कदम रूस और चीन की सीमाओं के पास स्थित पांच देशों के साथ आर्थिक और सुरक्षा सहयोग को गहरा करने का प्रयास है। इससे महत्वपूर्ण खनिजों तक पहुंच भी सुनिश्चित होगी। Security Cooperation: अमेरिका, मध्य एशिया में 200 से अधिक अमेरिकी कंपनियों को ले जा रहा है।
+
+### [युद्ध खत्म होने के कोई संकेत नहीं: जेलेंस्की ने एंटोनियो कोस्टा और यूरोपीय संघ से मांगी मदद](https://www.patrika.com/world-news/zelensky-meets-antonio-costa-von-der-leyen-brussels-no-sign-russia-end-war-20989450)
+*Patrika (World)* - Oct 16, 19:54 IST (iso: 2026-10-16T14:24:05+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Volodymyr-Zelensky.webp -->
+
+यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने कहा कि रूस युद्ध खत्म करने की इच्छा नहीं दिखा रहा है। उन्होंने एंटोनियो कोस्टा और उर्सुला वॉन डेर लेयेन से मुलाकात कर ऊर्जा, वायु रक्षा और वित्त के लिए मदद मांगी। यह बैठक यूरोपीय संघ से समर्थन बढ़ाने के प्रयास का हिस्सा है। Russia Ukraine War: यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने शुक्रवार को कहा कि रूस ने जारी युद्ध को खत्म करने की कोई इच्छा नहीं दिखाई है।
 
 ---
 
 ## एशिया-प्रशांत
+
+### [47.56 लाख मतदाताओं की खोज में 10 दिन घर-घर जाएंगे बीएलओ, निर्वाचन कार्यालय ने शुरू किया दोबारा](https://www.amarujala.com/delhi-ncr/delhi-blos-to-conduct-door-to-door-visits-for-10-days-in-search-of-47-56-lakh-voters-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 01:15 IST (iso: 2026-10-16T19:45:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/1_d1983f07b7227adee7e20491732235ed.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में 47.56 लाख मतदाताओं की खोज के लिए बीएलओ घर-घर जाएंगे। निर्वाचन कार्यालय ने 10 दिवसीय दोबारा सत्यापन अभियान शुरू किया है। दिल्ली में मतदाता सूची से हटाए गए 47.56 लाख नामों को लेकर निर्वाचन कार्यालय ने दोबारा सत्यापन की मुहिम शुरू की है। 47.56 लाख मतदाताओं की खोज में 10 दिन घर-घर जाएंगे बीएलओ, निर्वाचन कार्यालय ने शुरू किया दोबारा।
 
 ### [35 से ज्यादा ईसाई परिवार बेघर, पाकिस्तान में ईशनिंदा के आरोप का खौफनाक अंजाम, घर-दुकान फूंकी](https://hindi.news18.com/world/pakistan-blasphemy-allegation-in-pakistan-punjab-christian-man-home-and-shop-burned-10915160.html)
 *News18 Hindi (World)* - Oct 16, 22:02 IST (iso: 2026-10-16T16:32:07+00:00)
@@ -57,116 +167,6 @@
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/ede888ca97a62d26ddfea62b9772163c17921559538891324_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
 ममता बनर्जी ने अभिजीत दीपके की हिरासत पर दिल्ली पुलिस को घेरा। उन्होंने कहा कि तिरंगा थामने के लिए युवाओं को रोका जा रहा है। यह लोकतांत्रिक अधिकारों का दुरुपयोग है। पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी ने अभिजीत दीपके को हिरासत में लेने पर सवाल उठाया है. उन्होंने कहा है कि दिल्ली पुलिस क्या कर रही है? अभिजीत दीपके को सिर्फ इसलिए हिरासत में लिया गया है, क्योंकि उन्होंने भारतीय तिरंगा थाम रखा था.
-
-### [भारत ने बढ़ाया दोस्ती का हाथ, दूसरी तरफ बांग्लादेश में हिंदुओं की भावनाओं पर हमला, क्या रोक सकेंगे](https://hindi.news18.com/world/south-asia-bangladesh-jagannath-university-temple-side-beef-event-dhaka-dispute-over-religious-sensitivities-india-return-2-policemen-10914764.html)
-*News18 Hindi (World)* - Oct 16, 18:31 IST (iso: 2026-10-16T13:01:47+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/bangladesh-20-2026-10-938fd4931994f1d3886f9435dbcea14f-1200x800.jpg -->
-
-ढाका की जगन्नाथ यूनिवर्सिटी में मंदिर के पास बीफ खिचड़ी बनाने पर विवाद हुआ। हिंदू छात्रों ने आपत्ति जताई। प्रशासन ने पशुओं को काटने पर रोक लगाई। बांग्लादेश की राजधानी ढाका की जगन्नाथ यूनिवर्सिटी में मंदिर के पास बीफ खिचड़ी बनाने को लेकर विवाद बढ़ गया है. हिंदू छात्रों ने आयोजन की जगह पर आपत्ति जताई और धार्मिक भावनाएं आहत होने की बात कही.
-
-### [राहुल गांधी ने दिल्ली पुलिस पर साधा निशाना, कहा- 'हड्डियां तोड़ सकते हैं लेकिन...'](https://www.abplive.com/news/india/rahul-gandhi-share-video-with-student-and-says-delhi-police-not-ragister-fir-3203016)
-*ABP Live (India)* - Oct 16, 18:08 IST (iso: 2026-10-16T12:38:36+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/2e546b2bf7f82d82ba0ba67861f3539217921522538241324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-राहुल गांधी ने दिल्ली पुलिस पर छात्रों के पीटने के मामले में एफआईआर दर्ज करने से इनकार करने का आरोप लगाया। उन्होंने केरल और राजस्थान की युवतियों के पीड़ित होने का जिक्र किया। लोकसभा नेता प्रतिपक्ष राहुल गांधी ने दिल्ली पुलिस पर आरोप लगाया है. उन्होंने एक्स पर पोस्ट करते हुए कहा है कि दिल्ली पुलिस हमारे छात्रों पर हमले के मामले में एफआईआर दर्ज करने से इनकार कर रही है.
-
-### [मोम सा पिघल रहा है कयामत का ग्लेशियर! लील लेगा बड़े-बड़े शहर, वैज्ञानिकों की नई रिपोर्ट ने दी टेंशन](https://hindi.news18.com/world/rest-of-world-doomsday-glacier-melting-faster-than-scientists-prediction-consequences-are-not-good-for-humanity-science-news-10914694.html)
-*News18 Hindi (World)* - Oct 16, 18:04 IST (iso: 2026-10-16T12:34:47+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/doomsday-glacier-2026-10-daf994d584d7fa785595836bcc972c77-1200x800.jpg -->
-
-वैज्ञानिकों की रिपोर्ट के अनुसार, विशाल ग्लेशियर तेजी से पिघल रहा है। इससे बड़े शहरों को बाढ़ का खतरा है। यह प्रक्रिया नेपाल में देखी गई तबाही से कहीं व्यापक है। Doomsday Glacier Melting Fast: कुदरत ने कुछ ऐसी चीजें बनाई हैं, जिन्हें हम समझ ही नहीं पाते और ये हमारे बड़ा खतरा बनते जाते हैं. एक ऐसी कुदरती आपदा बहुत तेजी से आगे बढ़ रही है.
-
-### [भारत के पड़ोस में अमेरिका की चाल, चीन होगा पस्त? म्यांमार के खजाने पर नजर, जापान में सीक्रेट मीटिंग](https://hindi.news18.com/world/south-asia-us-myanmar-military-secret-meeting-in-japan-rare-earth-minerals-china-india-strategy-10914429.html)
-*News18 Hindi (World)* - Oct 16, 17:28 IST (iso: 2026-10-16T11:58:16+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/myanmar-us-news-2026-10-54090af929aeec46bd7071e89e0e51b8-1200x800.jpg -->
-
-अमेरिका ने टोक्यो में म्यांमार के सैन्य नेताओं से गुप्त बैठक की। इसका उद्देश्य चीन के प्रभाव से रेयर अर्थ मिनरल्स की आपूर्ति पर नियंत्रण हासिल करना है। गृहयुद्ध और सीमित प्रोसेसिंग क्षमता इस प्रयास में बाधा है। US Myanmar News: भारत के पड़ोसी म्यांमार में अमेरिका ने अचानक दिलचस्पी लेनी शुरू कर दी है. अमेरिकी अधिकारियों ने म्यांमार के मिलिट्री लीडरशिप के साथ टोक्यो में सीक्रेट बातचीत की है.
-
-### [अभिजीत दीपके को हिरासत में लिया गया, CJP के तिरंगा मार्च से पहले पुलिस का एक्शन](https://www.abplive.com/news/india/cockroach-janta-party-reaction-on-abhijit-dipke-detained-delhi-police-3203009)
-*ABP Live (India)* - Oct 16, 17:09 IST (iso: 2026-10-16T11:39:49+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/445c6089c4de33e4b126d7126fb23ff41792151043287708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-दिल्ली पुलिस ने सीजेपी संस्थापक अभिजीत दीपके को तिरंगा मार्च से पहले कनॉट प्लेस जाने के दौरान हिरासत में लिया। यह एक सप्ताह में उनका दूसरा ऐसा मामला है। दिल्ली पुलिस ने मार्च से पहले सीजेपी संस्थापक अभिजीत दीपके को हिरासत में ले लिया है. वह तिरंगा मार्च के लिए कनॉट प्लेस जा रहे थे, तभी पुलिस ने उन्हें डिटेन कर लिया.
-
-### [55 साल बाद भी पॉलिसी मेकिंग क्यों मजबूत नहीं कर पाया बांग्लादेश? रिपोर्ट में प्रशासनिक व्यवस्था पर](https://www.patrika.com/world-news/bangladesh-policy-making-challenges-administrative-reforms-20988730)
-*Patrika (World)* - Oct 16, 17:01 IST (iso: 2026-10-16T11:31:52+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Bangladesh-Minority-Attack.webp -->
-
-बांग्लादेश ने 55 वर्षों में आर्थिक और सामाजिक प्रगति की है। नई रिपोर्ट का कहना है कि नीति निर्माण और कार्यान्वयन में संस्थागत क्षमता अभी भी कमजोर है। प्रशासनिक व्यवस्था में सुधार की आवश्यकता उभरी है। Bangladesh Governance Latest Update: भारत का पड़ोसी मुल्क बांग्लादेश पिछले 55 सालों में सामाजिक और आर्थिक मोर्चे पर काफी तरक्की की है। देश ने कई क्षेत्रों में अपनी पहचान बनाई है।
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [हूती हमलों की आग में ‘मक्का समझौता’: सऊदी की मदद के लिए पाकिस्तान का सधा हुआ डिप्लोमेटिक दांव](https://www.patrika.com/world-news/houthi-attacks-pakistan-military-test-saudi-arabia-diplomatic-plan-20989558)
-*Patrika (World)* - Oct 16, 21:22 IST (iso: 2026-10-16T15:52:18+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Mecca-Joint-Defence-Agreement.webp -->
-
-यमन के हूती विद्रोहियों के सऊदी अरब पर मिसाइल और ड्रोन हमलों ने मक्का संयुक्त रक्षा समझौते को परीक्षा में डाल दिया है। इस त्रिपक्षीय समझौते के तहत सऊदी, पाकिस्तान और तुर्किए में से किसी एक पर हमला तीनों पर हमला माना जाएगा। सऊदी अरब पर यमन के हूती विद्रोहियों के भीषण मिसाइल और ड्रोन हमलों ने अगस्त 2026 में हुए ऐतिहासिक ‘मक्का संयुक्त रक्षा समझौते’ (Mecca Joint Defence Agreement) को बड़ी परीक्षा में डाल दिया है।
-
-### [इस्लामिक स्टेट के खिलाफ तुर्की की कार्रवाई जारी, 59 संदिग्धों को सुरक्षाबलों ने किया गिरफ्तार](https://www.patrika.com/world-news/turkey-arrests-59-suspects-in-anti-islamic-state-operations-20989555)
-*Patrika (World)* - Oct 16, 20:51 IST (iso: 2026-10-16T15:21:29+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/handcuffed.webp -->
-
-तुर्की में इस्लामिक स्टेट के खिलाफ देशव्यापी सुरक्षा अभियान के तहत 59 संदिग्धों को गिरफ्तार किया गया है। सुरक्षाबल आतंकवाद को रोकने के लिए देशभर में कार्रवाई जारी रख रहे हैं और संगठन से जुड़े लोगों को पकड़ रहे हैं। आतंकी संगठन इस्लामिक स्टेट (Islamic State) के खिलाफ तुर्की (Turkey) में देशव्यापी कार्रवाई की जा रही है। आतंकवाद को बढ़ने से रोकने के लिए देशभर में सुरक्षाबल अभियान चला रहे हैं और इस आतंकी संगठन से जुड़े लोगों के खिलाफ कार्रवाई कर रहे हैं।
-
-### [सऊदी अरब के पास सेना ने मार गिराई मिसाइलें और ड्रोन्स, अल-मजज़र जिले में आगे बढ़ी यमनी सेना](https://www.patrika.com/world-news/missiles-and-drones-intercepted-near-saudi-arabia-yemen-army-advances-into-al-majzar-district-20989496)
-*Patrika (World)* - Oct 16, 20:27 IST (iso: 2026-10-16T14:57:46+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/missile-intercepted.webp -->
-
-सऊदी अरब की सेना ने हूती विद्रोहियों की मिसाइलों और ड्रोन को मार गिराया है। यमन की सरकारी सेना ने अल-मजज़र जिले में आगे बढ़कर हूतियों के खिलाफ कार्रवाई की है, जिससे क्षेत्र में संघर्ष तीव्र हो गया है। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग बढ़ती ही जा रही है है। सऊदी अरब (Saudi Arabia) की सेना भी हूतियों के खिलाफ कार्रवाई कर रही है, जिसके जवाब में हूती विद्रोही भी सऊदी अरब पर हमले कर रहे हैं।
-
-### [ईरान के कार्यवाहक तेल मंत्री की चेतावनी – ‘ईरानी ऊर्जा सुविधाओं के खिलाफ अमेरिकी खतरे का दिया जाएगा](https://www.patrika.com/world-news/iran-acting-oil-minister-says-iran-will-respond-immediately-and-appropriately-to-any-us-threat-to-energy-facilities-20989466)
-*Patrika (World)* - Oct 16, 20:04 IST (iso: 2026-10-16T14:34:26+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/iranian-energy-facility.webp -->
-
-ईरान के कार्यवाहक तेल मंत्री ने अमेरिका को चेतावनी दी है कि ईरानी ऊर्जा सुविधाओं पर हमले का जवाब दिया जाएगा। दोनों देशों के बीच युद्ध का स्थायी अंत अभी तक नहीं हुआ है। ईरान बातचीत के लिए तैयार है, लेकिन घुटने नहीं टेकेगा। ईरान (Iran) और अमेरिका (United States of America) के बीच युद्ध का अभी भी स्थायी अंत नहीं हुआ है और कुछ मीडिया रिपोर्ट्स के अनुसार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) देश में मिडटर्म चुनाव के बाद ईरान पर फिर हमला करने का आदेश दे सकते हैं।
-
-### [होर्मुज के गेट पर ट्रंप की सेना मुंह ताकती रही, ईरान के जहाज भारत तक पहुंचे, किस देश ने खरीदा](https://hindi.news18.com/world/middle-east-iran-shipped-limited-lpg-and-jet-fuel-despite-us-naval-blockade-myanmar-china-10914827.html)
-*News18 Hindi (World)* - Oct 16, 19:46 IST (iso: 2026-10-16T14:16:40+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/ian-oil-ship-2026-10-8d8d0a4ecc6372b6b9d5b28f8b73ca6c-1200x800.jpg -->
-
-अमेरिका की समुद्री नाकेबंदी के बावजूद ईरान की आठ गैस टैंकर ओमान से निकलीं। एक जेट फ्यूल टैंकर सितंबर में म्यांमार पहुंचा। शिपिंग इंटेलिजेंस स्रोतों ने यह जानकारी दी। अमेरिका ने ईरान के तेल निर्यात पर रोक लगाने के लिए समुद्र में नाकेबंदी लागू की है. इसके बावजूद शिपिंग इंटेलिजेंस और समुद्री सुरक्षा से जुड़े लोगों के मुताबिक, ईरान की LPG और जेट फ्यूल की कुछ खेपें बाहर पहुंचीं.
-
-### [ईरान की सुरक्षा के खिलाफ आर्मेनिया नहीं उठाएगा कोई कदम, अब्बास अराघची को मिला आश्वासन](https://www.patrika.com/world-news/abbas-araghchi-says-armenia-will-not-act-against-iran-security-20989212)
-*Patrika (World)* - Oct 16, 18:11 IST (iso: 2026-10-16T12:41:01+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp -->
-
-ईरानी विदेश मंत्री अब्बास अराघची ने कहा कि आर्मेनिया ने आश्वासन दिया है कि वह ईरान की सुरक्षा के खिलाफ कोई कदम नहीं उठाएगा। यह बात अमेरिका समर्थित ट्रंप रूट कॉरिडोर के संदर्भ में कही गई। ईरानी विदेश मंत्री अब्बास अराघची (Abbas Araghchi) का कहना है कि ईरान (Iran) को क्षेत्र में अमेरिकी प्रभाव को लेकर चिंता है, लेकिन उन्हें आश्वासन मिला है कि ईरान की सुरक्षा के खिलाफ आर्मेनिया (Armenia) कोई कदम नहीं उठाएगा।
-
-### [होर्मुज स्ट्रेट पार करने की कोशिश कर रहा था तेल का जहाज, प्रतिबंधित इलाके से गुज़रते हुए लगी आग](https://www.patrika.com/world-news/violating-tanker-catches-fire-in-strait-of-hormuz-20989048)
-*Patrika (World)* - Oct 16, 17:14 IST (iso: 2026-10-16T11:44:52+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/tanker-catches-fire.webp -->
-
-ईरानी नेवी का कहना है कि होर्मुज स्ट्रेट में एक प्रतिबंधित क्षेत्र से गुजरते हुए तेल जहाज में आग लग गई। जहाज ने अपना ट्रैकिंग सिस्टम बंद कर दिया था। ईरान (Iran) की नेवी का कहना है कि होर्मुज स्ट्रेट (Strait of Hormuz) में एक प्रतिबंधित इलाके से गुज़रने की कोशिश कर रहा एक और तेल का जहाज आग की चपेट में आ गया है।
-
----
-
-## यूरोप और रूस
-
-### [रूस से तेल का खेल और फंस गई भारत की कंपनी, EU ने लगाया बैन, समझें शैडो फ्लीट कनेक्शन](https://hindi.news18.com/world/europe-eu-sanctions-indian-firm-vigor-marine-services-over-alleged-links-to-russia-shadow-fleet-and-risky-oil-shipping-practices-10915059.html)
-*News18 Hindi (World)* - Oct 16, 20:53 IST (iso: 2026-10-16T15:23:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/kaja-kallas-reuters.-2026-10-06d82e112788f4ce60b6529eb9c84860-1200x800.jpg -->
-
-यूरोपीय यूनियन ने रूसी तेल के प्रतिबंधों से बचाने में मदद के आरोप में मुंबई स्थित Vigor Marine Services LLP पर प्रतिबंध लगाया है। EU का दावा है कि कंपनी शैडो फ्लीट के दो जहाजों का प्रबंधन करती है और AIS डेटा में हेरफेर करती है। Why EU Ban Indian Company: यूरोपीय यूनियन ने रूस से जुड़े तेल कारोबार और प्रतिबंधों से बचने में कथित मदद के आरोप में 12 व्यक्तियों और संस्थाओं पर कार्रवाई की है.
-
-### [मध्य एशिया में अमेरिका की बड़ी चाल: रूस-चीन की सीमा पर 200 से ज्यादा कंपनियां ले जाएगा वाशिंगटन](https://www.patrika.com/world-news/us-takes-200-companies-central-asia-rubio-samarkand-c5-plus-1-critical-minerals-20989484)
-*Patrika (World)* - Oct 16, 20:13 IST (iso: 2026-10-16T14:43:17+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Marco-Rubio.webp -->
-
-वाशिंगटन ने मध्य एशिया में 200 से अधिक अमेरिकी कंपनियों के प्रवेश की प्रक्रिया शुरू की है। यह कदम रूस और चीन की सीमाओं के पास स्थित पांच देशों के साथ आर्थिक और सुरक्षा सहयोग को गहरा करने का प्रयास है। इससे महत्वपूर्ण खनिजों तक पहुंच भी सुनिश्चित होगी। Security Cooperation: अमेरिका, मध्य एशिया में 200 से अधिक अमेरिकी कंपनियों को ले जा रहा है।
-
-### [युद्ध खत्म होने के कोई संकेत नहीं: जेलेंस्की ने एंटोनियो कोस्टा और यूरोपीय संघ से मांगी मदद](https://www.patrika.com/world-news/zelensky-meets-antonio-costa-von-der-leyen-brussels-no-sign-russia-end-war-20989450)
-*Patrika (World)* - Oct 16, 19:54 IST (iso: 2026-10-16T14:24:05+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Volodymyr-Zelensky.webp -->
-
-यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने कहा कि रूस युद्ध खत्म करने की इच्छा नहीं दिखा रहा है। उन्होंने एंटोनियो कोस्टा और उर्सुला वॉन डेर लेयेन से मुलाकात कर ऊर्जा, वायु रक्षा और वित्त के लिए मदद मांगी। यह बैठक यूरोपीय संघ से समर्थन बढ़ाने के प्रयास का हिस्सा है। Russia Ukraine War: यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने शुक्रवार को कहा कि रूस ने जारी युद्ध को खत्म करने की कोई इच्छा नहीं दिखाई है।
-
-### [अभिजीत दीपके को हिरासत में लेने पर CJP का पहला रिएक्शन- 'तिरंगा तो...'](https://www.abplive.com/news/india/abhijeet-dipke-detained-by-delhi-police-cjp-share-video-reaction-says-govt-afraid-tiranga-yatra-3203040)
-*ABP Live (India)* - Oct 16, 18:11 IST (iso: 2026-10-16T12:41:16+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/b89ba36d473d8a9a6d275a0adb1d71fd17921539047801324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-दिल्ली पुलिस ने अभिजीत दीपके को लहरा दो तिरंगा रैली में जाते हुए हिरासत में लिया। सीजेपी ने कहा कि तिरंगा लहराता रहेगा। उन्होंने हिरासत का वीडियो जारी किया। दिल्ली पुलिस ने लहरा दो तिरंगा कार्यक्रम में जाते हुए अभिजीत दीपके को डिटेन कर लिया है. सीजेपी संस्थापक दीपके ने 16 अक्टूबर को शाम पांच बजे इस रैली का आह्वान किया था.
 
 ---
 

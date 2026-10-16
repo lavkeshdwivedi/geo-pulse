@@ -1,6 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 17, 2026 00:37 IST
+**Updated:** October 17, 2026 03:47 IST
+
+---
+
+## Americas
+
+### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
+*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
+<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
+
+Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
 
 ---
 
@@ -60,12 +76,6 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 Ukrainian forces struck an oil refinery in Russia's Ryazan region. President Volodymyr Zelenskyy confirmed the resumption of attacks on Russian energy facilities. He also expressed anger over a dangerous disruption of US satellite intelligence that hindered Ukrainian operations. Ukrainian forces have struck an oil refinery in Russia's Ryazan region, Russian officials said, hours after President Volodymyr Zelenskyy said Ukraine would resume attacks on Russian energy facilities and voiced anger over a "dangerous" disruption of satellite intelligence from the United States.
 
-### [Girls In Hijabs Turned Away From Azerbaijani Schools Amid Protests Over Dress Code](https://www.rferl.org/a/azerbaijan-hijab-ban-school-religion-education/33876714.html)
-*Radio Free Europe / Liberty* - Oct 14, 23:52 IST (iso: 2026-10-14T18:22:25+00:00)
-<!-- image: https://gdb.rferl.org/dde5ad3a-3107-456d-680a-08df13a87200_w1200_h630.jpg -->
-
-Azerbaijani parents and students protested after schools turned away girls wearing hijabs. The dispute followed a new ban on clothing deemed incompatible with secular education. The dress code policy triggered immediate backlash from families. Students were denied entry to classes over their headscarves. A new dress-code dispute in Azerbaijan’s public schools has sparked protests by parents and students after reports that girls wearing hijabs, or Islamic headscarf, were turned away from classes.
-
 ### [Ukraine Tests AI-Powered Drones As Debate Grows Over Autonomous Weapons](https://www.rferl.org/a/ukraine-tests-ai-powered-drones-as-debate-grows-over-autonomous-weapons/33876615.html)
 *Radio Free Europe / Liberty* - Oct 14, 20:30 IST (iso: 2026-10-14T15:00:14+00:00)
 <!-- image: https://gdb.rferl.org/29ea34bc-df37-4579-74ed-08df13a869ed_w1200_h630.jpg -->
@@ -108,7 +118,7 @@ North Korea test-fired two types of submarine-launched strategic cruise missiles
 
 ### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
 
 Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
 
@@ -142,23 +152,7 @@ Guinea-Bissau's health minister stated the government did not authorize a Danish
 
 ---
 
-## Americas
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
-
----
-
 ## Global / Multilateral
-
-### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
-
-A new UN report warns neurotechnology outpaces human rights laws. Brain data from gaming or wellness devices could become court evidence. The organization called for limits on these technologies. Current legal frameworks fail to protect individuals from misuse. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
@@ -171,6 +165,12 @@ A new UN report warns rapid transitions in AI, green energy, and demographics ri
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image560x340cropped.jpg -->
 
 The World Health Organization urged nations to accelerate lead exposure prevention efforts. The toxic metal causes over 3.5 million deaths annually. It also affects hundreds of millions of children worldwide. The agency called for faster action to address this persistent public health crisis. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
+
+### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
+
+A new UN report warns neurotechnology outpaces human rights laws. Brain data from gaming or wellness devices could become court evidence. The organization called for limits on these technologies. Current legal frameworks fail to protect individuals from misuse. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 
 ---
 
