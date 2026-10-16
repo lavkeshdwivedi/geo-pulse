@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-15T23:22:43.408292+00:00",
+  "generated_at": "2026-10-16T01:52:08.160803+00:00",
   "article_count": 50,
-  "total_unique_count": 257,
+  "total_unique_count": 260,
   "digest": {
-    "en": "Tech sell-offs deepen as AI debt fears collide with US inflation data. Meanwhile, Zelensky’s refinery strike vows clash with US intelligence disruptions in Europe. India’s drug discovery push faces its first major human trial test.",
-    "hi": "स्टेलेंटिस ने भारत में ₹4,000 करोड़ का निवेश घोषित किया, जहाँ जीप और सिट्रोएन की 12 नई इलेक्ट्रिक मॉडल्स का लॉन्च होगा। इसी दौरान, मलयेशिया में चीनी कार चेरी ओमोडा 5 का एक्सल टूटने से ईवी बिक्री पर प्रतिबंध लगा, जिससे क्षेत्रीय बाजार में अस्थिरता बढ़ी।"
+    "en": "Tech market sell-offs deepen as US inflation fears collide with AI debt. Meanwhile, Zelensky vows refinery strikes while expressing anger at US intelligence disruption. The geopolitical and financial fronts are tightening simultaneously.",
+    "hi": "वॉशिंगटन में निकाले गए एफबीआई कर्मी अदालत में बहाली की गुहार लगा रहे हैं। यमन में हूतियों ने सऊदी सैन्य ठिकानों पर हमले की जिम्मेदारी ली है।"
   },
   "articles": [
+    {
+      "title": "10 years of The Coconut Club: How its S$12.80 nasi lemak challenged the way we value local food",
+      "url": "https://www.channelnewsasia.com/dining/coconut-club-10th-anniversary-nasi-lemak-6459016",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-10-15T23:30:27+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--uuHIPDei--/c_crop,h_1123,w_1997,x_2,y_205/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_west,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/img_5611.jpeg?itok=bJHw6v3q",
+      "summary": "The Coconut Club marked its tenth anniversary in Singapore. The restaurant serves nasi lemak for S$12.80. This price point challenged local norms for traditional food. The owner used an F1 engineer to build a cold-press coconut machine. Staff inspect daily batches of ikan bilis for quality. The decade-long operation focused on specific, high-cost production methods. This approach redefined the perceived value of local dishes. The business model prioritized ingredient sourcing over volume. The restaurant demonstrated that premium pricing could apply to everyday meals.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "‘AI lowers the capital needed’: India’s drug discovery push faces test of human trials",
       "url": "https://www.channelnewsasia.com/asia/ai-lowers-capital-needed-indias-drug-discovery-push-faces-test-human-trials-6462176",
@@ -56,14 +68,14 @@
       "translations": {}
     },
     {
-      "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
+      "title": "Afghanistan faces record hunger levels amid rampant rights violations",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg",
-      "summary": "A new UN report warns that neurotechnology is outpacing human rights protections. Brain signals from gaming headsets or wellness gadgets could potentially be used as evidence against individuals in court. The report calls for limits on the use of such data. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
-      "region": "Global / Multilateral",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg",
+      "summary": "Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -92,14 +104,14 @@
       "translations": {}
     },
     {
-      "title": "Afghanistan faces record hunger levels amid rampant rights violations",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
+      "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image770x420cropped.jpg",
-      "summary": "Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
-      "region": "Asia-Pacific",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg",
+      "summary": "A new UN report warns that neurotechnology is outpacing human rights protections. Brain signals from gaming headsets or wellness gadgets could potentially be used as evidence against individuals in court. The report calls for limits on the use of such data. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -224,6 +236,18 @@
       "translations": {}
     },
     {
+      "title": "WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-14T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg",
+      "summary": "The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168596",
       "source": "UN News",
@@ -243,18 +267,6 @@
       "published_at": "2026-10-14T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg",
       "summary": "The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-14T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg",
-      "summary": "The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -296,42 +308,12 @@
       "translations": {}
     },
     {
-      "title": "How Ukraine's Strikes On Data Centers Disrupted Taxis, Shopping, And Business In Russia And Beyond",
-      "url": "https://www.rferl.org/a/ukraine-strikes-data-centers-disruption-shopping-business-russia/33875869.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-13T15:18:22+00:00",
-      "image_url": "https://gdb.rferl.org/ACE18C82-6BF4-4550-9549-C3154D22D2ED.jpg",
-      "summary": "Ukrainian drone strikes damaged three Yandex data centers in Russia. Repairs will reportedly take months, causing widespread disruption to taxis, shopping, and business. The outages affect operations across Russia and other countries where the tech company operates. Ukrainian drone strikes on three data centers operated by Russia’s Yandex will reportedly take months to repair and have caused widespread disruption in everyday life across Russia and other countries the sprawling tech company operates in.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "चीनी कार चेरी ओमोडा 5 का पिछला एक्सल टूटकर गिरा: मलयेशिया में ईवी की बिक्री पर लगी रोक, कंपनी ने दी",
-      "url": "https://www.amarujala.com/automobiles/chery-omoda-5-sales-suspended-in-malaysia-after-rear-axle-and-wheels-detach-check-details-2026-10-15",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-16T07:12:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/chery-omoda-5-electric-suv_fb468282bad7e452d464dcc1b2d3b944.jpeg?w=1200&dpr=1.0",
-      "summary": "मलेशिया ने चलती गाड़ी से पिछला एक्सल और पहिया अलग होने के बाद चेरी ओमोडा 5 की बिक्री रोक दी। कंपनी ने सुरक्षा जांच के लिए यह कदम उठाया है। चीनी कार चेरी ओमोडा 5 का पिछला एक्सल टूटकर गिरा: मलयेशिया में ईवी की बिक्री पर लगी रोक, कंपनी ने दी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीनी कार चेरी ओमोडा 5 का पिछला एक्सल टूटकर गिरा: मलयेशिया में ईवी की बिक्री पर लगी रोक, कंपनी ने दी",
-          "summary": "मलेशिया ने चलती गाड़ी से पिछला एक्सल और पहिया अलग होने के बाद चेरी ओमोडा 5 की बिक्री रोक दी। कंपनी ने सुरक्षा जांच के लिए यह कदम उठाया है। चीनी कार चेरी ओमोडा 5 का पिछला एक्सल टूटकर गिरा: मलयेशिया में ईवी की बिक्री पर लगी रोक, कंपनी ने दी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "नौकरी से निकाले गए एफबीआई कर्मी अदालत पहुंचे, बहाली की गुहार; ट्रंप के मामले की जांच से क्या",
       "url": "https://www.amarujala.com/world/fbi-agents-and-analysts-fired-for-roles-in-trump-classified-files-probe-sue-to-get-their-jobs-back-2026-10-16",
       "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-10-16T07:11:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/05/donald-trump_6cd9f31c5164dfd89353b8917c647963.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/amaraka-rashhatarapata-danalda-tarapa_8e004913adc16623882c3c3bdcc7dd79.jpeg?w=1200&dpr=1.0",
       "summary": "अमेरिका में नौकरी से निकाले गए एफबीआई कर्मियों ने बहाली के लिए अदालत का दरवाजा खटखटाया है। उनका दावा है कि ट्रंप से जुड़े मामलों की जांच में शामिल होने के कारण उन्हें निकाला गया। अमेरिका: नौकरी से निकाले गए एफबीआई कर्मी अदालत पहुंचे, बहाली की गुहार; ट्रंप के मामले की जांच से क्या कनेक्शन?",
       "region": "Americas",
       "language": "hi",
@@ -344,45 +326,9 @@
       }
     },
     {
-      "title": "'हर जगह मेरा पीछा कर रही सफेद स्कॉर्पियो': दिपके का दावा-पुलिस ने घर के आस-पास चारों ओर से घेर रखा",
-      "url": "https://www.amarujala.com/india-news/cjp-leader-abhijeet-dipke-claims-police-have-surrounded-his-house-2026-10-15",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-16T07:07:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-dipke-kakaraca-janata-parata-ka-sasathapaka-abhajata-thapaka-fail_2ddfff4dc985a423c97e80773576023e.gif?w=1200&dpr=1.0",
-      "summary": "दिपके ने दावा किया है कि पुलिस ने उनके घर के चारों ओर घेरा बना रखा है। उन्होंने कहा कि सफेद स्कॉर्पियो गाड़ी हर जगह उनका पीछा कर रही है। 'हर जगह मेरा पीछा कर रही सफेद स्कॉर्पियो': दिपके का दावा-पुलिस ने घर के आस-पास चारों ओर से घेर रखा है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'हर जगह मेरा पीछा कर रही सफेद स्कॉर्पियो': दिपके का दावा-पुलिस ने घर के आस-पास चारों ओर से घेर रखा",
-          "summary": "दिपके ने दावा किया है कि पुलिस ने उनके घर के चारों ओर घेरा बना रखा है। उन्होंने कहा कि सफेद स्कॉर्पियो गाड़ी हर जगह उनका पीछा कर रही है। 'हर जगह मेरा पीछा कर रही सफेद स्कॉर्पियो': दिपके का दावा-पुलिस ने घर के आस-पास चारों ओर से घेर रखा है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "स्टेलेंटिस भारत में करेगी ₹4,000 करोड़ का नया निवेश: जीप और सिट्रोएन की 12 नई गाड़ियां होंगी लॉन्च",
-      "url": "https://www.amarujala.com/automobiles/stellantis-announces-rs-4000-crore-investment-in-india-12-new-cars-from-jeep-and-citroen-planned-by-2030-2026-10-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-16T07:06:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/jeep-and-citroen-to-launch-12-new-cars_ba6a61d65da1a7277dbeec79d6b8ce3c.jpeg?w=1200&dpr=1.0",
-      "summary": "स्टेलेंटिस ने भारत में 4,000 करोड़ रुपये का निवेश करने की घोषणा की है। इस योजना के तहत जीप और सिट्रोएन के ब्रांड से 12 नई गाड़ियां लॉन्च होंगी। स्टेलेंटिस भारत में करेगी ₹4,000 करोड़ का नया निवेश: जीप और सिट्रोएन की 12 नई गाड़ियां होंगी लॉन्च।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्टेलेंटिस भारत में करेगी ₹4,000 करोड़ का नया निवेश: जीप और सिट्रोएन की 12 नई गाड़ियां होंगी लॉन्च",
-          "summary": "स्टेलेंटिस ने भारत में 4,000 करोड़ रुपये का निवेश करने की घोषणा की है। इस योजना के तहत जीप और सिट्रोएन के ब्रांड से 12 नई गाड़ियां लॉन्च होंगी। स्टेलेंटिस भारत में करेगी ₹4,000 करोड़ का नया निवेश: जीप और सिट्रोएन की 12 नई गाड़ियां होंगी लॉन्च।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "हूती विद्रोहियों के हमलों से चिंता, उड़ानों की स्थिति और उमराह पर भारतीय दूतावास ने क्या कहा?",
       "url": "https://www.amarujala.com/world/saudi-arabia-indian-embassy-message-to-community-helpline-umrah-attacks-in-riyadh-houthi-rebels-hindi-news-2026-10-16",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-10-16T06:53:40+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/saudi-indian-envoy-vipul_76c8edea08cec007b370e9da9e1d1c87.jpeg?w=1200&dpr=1.0",
@@ -398,362 +344,416 @@
       }
     },
     {
-      "title": "नवजोत कौर सिद्धू को बीआरपी ने सभी संगठनात्मक जिम्मेदारियों से हटाया, ग्रेवाल को मिला पंजाब का प्रभार",
-      "url": "https://www.amarujala.com/punjab/amritsar/amritsar-brp-has-removed-navjot-kaur-sidhu-from-all-organizational-responsibilities-2026-10-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-16T06:43:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/1_75e451fcc8292059b977ad3d10666738.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय राष्ट्रवादी पार्टी ने डॉ. नवजोत कौर सिद्धू को सभी संगठनात्मक जिम्मेदारियों से हटा दिया है। पार्टी ने पंजाब प्रभार ग्रेवाल को सौंपा है। यह फैसला संगठन के भीतर शीर्ष स्तर पर लिया गया है। भारतीय राष्ट्रवादी पार्टी (बीआरपी) ने डॉ. नवजोत कौर सिद्धू को संगठन की सभी जिम्मेदारियों से मुक्त कर दिया है। नवजोत कौर सिद्धू को बीआरपी ने सभी संगठनात्मक जिम्मेदारियों से हटाया, ग्रेवाल को मिला पंजाब का प्रभार।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नवजोत कौर सिद्धू को बीआरपी ने सभी संगठनात्मक जिम्मेदारियों से हटाया, ग्रेवाल को मिला पंजाब का प्रभार",
-          "summary": "भारतीय राष्ट्रवादी पार्टी ने डॉ. नवजोत कौर सिद्धू को सभी संगठनात्मक जिम्मेदारियों से हटा दिया है। पार्टी ने पंजाब प्रभार ग्रेवाल को सौंपा है। यह फैसला संगठन के भीतर शीर्ष स्तर पर लिया गया है। भारतीय राष्ट्रवादी पार्टी (बीआरपी) ने डॉ. नवजोत कौर सिद्धू को संगठन की सभी जिम्मेदारियों से मुक्त कर दिया है। नवजोत कौर सिद्धू को बीआरपी ने सभी संगठनात्मक जिम्मेदारियों से हटाया, ग्रेवाल को मिला पंजाब का प्रभार।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रघुबीर यादव की आवाज में रिलीज हुआ मंथन का गाना, अंग्रेजी के साथ पिरोया गया बुंदेली लोक संगीत",
-      "url": "https://www.amarujala.com/entertainment/manthan-song-badra-released-raghubir-das-gave-voice-to-english-song-with-bundeli-music-2026-10-15",
+      "title": "भारत में 23.8 करोड़ लोग आज भी गरीबी से जूझ रहे: बुनियादी सुविधाओं की कमी सबसे बड़ी वजह, क्या कहते",
+      "url": "https://www.amarujala.com/india-news/india-multidimensional-poverty-report-23-8-crore-people-living-in-poverty-2026-10-16",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-16T06:31:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/mathana-raghabra-thasa_34792b75672d531ff4caeaad10df27ab.jpeg?w=1200&dpr=1.0",
-      "summary": "मंथन ने अपना नया गाना 'बदरा' रिलीज किया है। इसमें अंग्रेजी ऑल्ट-पॉप और बुंदेली लोक संगीत का संगम हुआ है। दिग्गज कलाकार रघुबीर यादव ने इसमें अपनी आवाज दी है। इसमें इंग्लिश ऑल्ट-पॉप और बुंदेली लोक संगीत को एक साथ पिरोया गया है। इसमें दिग्गज कलाकार रघुबीर यादव भी शामिल हैं। रघुबीर यादव की आवाज में रिलीज हुआ मंथन का गाना, अंग्रेजी के साथ पिरोया गया बुंदेली लोक संगीत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रघुबीर यादव की आवाज में रिलीज हुआ मंथन का गाना, अंग्रेजी के साथ पिरोया गया बुंदेली लोक संगीत",
-          "summary": "मंथन ने अपना नया गाना 'बदरा' रिलीज किया है। इसमें अंग्रेजी ऑल्ट-पॉप और बुंदेली लोक संगीत का संगम हुआ है। दिग्गज कलाकार रघुबीर यादव ने इसमें अपनी आवाज दी है। इसमें इंग्लिश ऑल्ट-पॉप और बुंदेली लोक संगीत को एक साथ पिरोया गया है। इसमें दिग्गज कलाकार रघुबीर यादव भी शामिल हैं। रघुबीर यादव की आवाज में रिलीज हुआ मंथन का गाना, अंग्रेजी के साथ पिरोया गया बुंदेली लोक संगीत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या",
-      "url": "https://www.amarujala.com/world/bbc-asks-judge-to-force-trump-to-sit-for-deposition-in-his-own-lawsuit-against-the-channel-2026-10-16",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-15T23:12:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/02/talks-with-iran-continuing-at-rapid-pace-trump_0e72b0876ddb8e5772cddf41a29d5862.jpeg?w=1200&dpr=1.0",
-      "summary": "बीबीसी ने अमेरिकी अदालत से डोनाल्ड ट्रंप से बयान लेने की अनुमति मांगी है। मीडिया हाउस ने दावा किया कि अदालत के आदेश के बिना वह नहीं बोलेंगे। 'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या है?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या",
-          "summary": "बीबीसी ने अमेरिकी अदालत से डोनाल्ड ट्रंप से बयान लेने की अनुमति मांगी है। मीडिया हाउस ने दावा किया कि अदालत के आदेश के बिना वह नहीं बोलेंगे। 'डोनाल्ड ट्रंप को बयान देने के लिए मजबूर किया जाए': बीबीसी ने अदालत से लगाई गुहार, पूरा मामला क्या है?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद",
-      "url": "https://www.amarujala.com/live/india-news/abhijeet-dipke-lehra-do-tiranga-march-live-updates-connaught-place-delhi-police-cjp-mumbai-azad-maidan-news-2026-10-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-15T23:03:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-dipke-kakaraca-janata-parata-ka-sasathapaka-abhajata-thapaka-fail_0267af707453841e4d431938ca62e0eb.png?w=1200&dpr=1.0",
-      "summary": "सीजेपी समर्थक आज कनॉट पैलेस के पास तिरंगा मार्च के लिए जुटेंगे। दिल्ली से मुंबई तक पुलिस मुस्तैद है। अभिजीत दिपके ने गिरफ्तारी का डर जताया है। तिरंगा फहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद।",
+      "published_at": "2026-10-16T01:37:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/poverty_5545d0f9e49614271cd3d65a4805a7a2.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत में 23.8 करोड़ लोग बुनियादी सुविधाओं की कमी के कारण गरीबी में हैं। आंकड़े दिखाते हैं कि मूलभूत आवश्यकताओं का अभाव सबसे बड़ी वजह है। यह स्थिति देश के विकास की गति को प्रभावित कर रही है। भारत में 23.8 करोड़ लोग आज भी गरीबी से जूझ रहे: बुनियादी सुविधाओं की कमी सबसे बड़ी वजह, क्या कहते हैं आंकड़े?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद",
-          "summary": "सीजेपी समर्थक आज कनॉट पैलेस के पास तिरंगा मार्च के लिए जुटेंगे। दिल्ली से मुंबई तक पुलिस मुस्तैद है। अभिजीत दिपके ने गिरफ्तारी का डर जताया है। तिरंगा फहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद।",
+          "title": "भारत में 23.8 करोड़ लोग आज भी गरीबी से जूझ रहे: बुनियादी सुविधाओं की कमी सबसे बड़ी वजह, क्या कहते",
+          "summary": "भारत में 23.8 करोड़ लोग बुनियादी सुविधाओं की कमी के कारण गरीबी में हैं। आंकड़े दिखाते हैं कि मूलभूत आवश्यकताओं का अभाव सबसे बड़ी वजह है। यह स्थिति देश के विकास की गति को प्रभावित कर रही है। भारत में 23.8 करोड़ लोग आज भी गरीबी से जूझ रहे: बुनियादी सुविधाओं की कमी सबसे बड़ी वजह, क्या कहते हैं आंकड़े?",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट",
-      "url": "https://www.amarujala.com/india-news/national-updates-16th-oct-andhra-pak-link-spy-arrest-assam-bhutan-north-east-west-south-politics-crime-news-2026-10-16",
+      "title": "आज भारत में दस्तक देने की तैयारी में Tecno का नया 5G फोन: दमदार फीचर्स से लैस होगा Spark 50S, कितनी",
+      "url": "https://www.amarujala.com/technology/tech-diary/tecno-spark-50s-5g-launches-india-today-design-colours-expected-price-2026-10-16",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-15T22:34:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/01/thasha-ka-bugdha-khabra_a958fa8f7db8bd488dbdb63c54596b0a.jpeg?w=1200&dpr=1.0",
-      "summary": "आंध्र प्रदेश में पाकिस्तान से जुड़े दो जासूसों को गिरफ्तार किया गया है। साथ ही असम में भूटान के लिए अस्थायी आव्रजन पोस्ट बनाया जाएगा। न्यूज डायरी: आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट।",
+      "published_at": "2026-10-16T01:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/takana-saparaka-50esa-5g_868f77b4617853e21b31c562e4b02f59.jpeg",
+      "summary": "टेक्नो ने भारत में स्पार्क 50एस 5जी स्मार्टफोन लॉन्च किया है। यह फोन दमदार फीचर्स के साथ आता है। कंपनी ने इसकी कीमत भी घोषित कर दी है। यह मॉडल बजट सेगमेंट में प्रतिस्पर्धा बढ़ाएगा। आज भारत में दस्तक देने की तैयारी में Tecno का नया 5G फोन: दमदार फीचर्स से लैस होगा Spark 50S, कितनी होगी कीमत?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट",
-          "summary": "आंध्र प्रदेश में पाकिस्तान से जुड़े दो जासूसों को गिरफ्तार किया गया है। साथ ही असम में भूटान के लिए अस्थायी आव्रजन पोस्ट बनाया जाएगा। न्यूज डायरी: आंध्र में पाकिस्तान से जुड़े दो जासूस गिरफ्तार; भूटान के लिए असम में बनेगा अस्थायी आव्रजन पोस्ट।",
+          "title": "आज भारत में दस्तक देने की तैयारी में Tecno का नया 5G फोन: दमदार फीचर्स से लैस होगा Spark 50S, कितनी",
+          "summary": "टेक्नो ने भारत में स्पार्क 50एस 5जी स्मार्टफोन लॉन्च किया है। यह फोन दमदार फीचर्स के साथ आता है। कंपनी ने इसकी कीमत भी घोषित कर दी है। यह मॉडल बजट सेगमेंट में प्रतिस्पर्धा बढ़ाएगा। आज भारत में दस्तक देने की तैयारी में Tecno का नया 5G फोन: दमदार फीचर्स से लैस होगा Spark 50S, कितनी होगी कीमत?",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "सफेद स्कॉर्पियो कर रही दिपके का पीछा? तिरंगा मार्च से पहले अभिजीत ने किया गिरफ्तारी का दावा",
-      "url": "https://www.amarujala.com/video/india-news/is-a-white-scorpio-tailing-dipke-abhijit-claims-an-arrest-took-place-ahead-of-the-tiranga-march-2026-10-16",
+      "title": "नवरात्रि के छठे दिन पहनें इस रंग के कपड़े, मां कात्यायनी की पूजा के लिए ऐसे करें स्टाइल",
+      "url": "https://www.amarujala.com/photo-gallery/fashion/navratri-day-6-colour-2026-outfit-ideas-what-to-wear-for-maa-katyayani-puja-2026-10-15",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-15T22:23:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-lehra-do-tiranga-march-safatha-sakarapaya-kara-raha-pachha-abhijeet-dipke-haga-garafatara-b-thava_a56282fdd32fcaf5b177c7ca9c114a95.jpeg?w=1200&dpr=1.0",
-      "summary": "अभिजीत दिपके ने दावा किया कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है। सफेद स्कॉर्पियो वाहन उनका पीछा कर रहा है। तिरंगा फहराने की जिद, गिरफ्तारी का डर और दिल्ली में पुलिस की चौकसी! कॉकरोच जनता पार्टी यानी सीजेपी के संस्थापक अभिजीत दिपके ने दावा किया है कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सफेद स्कॉर्पियो कर रही दिपके का पीछा? तिरंगा मार्च से पहले अभिजीत ने किया गिरफ्तारी का दावा",
-          "summary": "अभिजीत दिपके ने दावा किया कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है। सफेद स्कॉर्पियो वाहन उनका पीछा कर रहा है। तिरंगा फहराने की जिद, गिरफ्तारी का डर और दिल्ली में पुलिस की चौकसी! कॉकरोच जनता पार्टी यानी सीजेपी के संस्थापक अभिजीत दिपके ने दावा किया है कि उन्हें आज रात या शुक्रवार सुबह गिरफ्तार किया जा सकता है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "CJP के समर्थन में क्या बोलीं अमेरिकी सांसद? भारतीय राजदूत क्वात्रा ने जताई कड़ी आपत्ति",
-      "url": "https://www.amarujala.com/video/world/what-did-the-us-lawmaker-say-in-support-of-cjp-indian-ambassador-kwatra-expresses-strong-objection-2026-10-16",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-15T22:18:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/vinay-mohan-kwatra-slams-us-lawmaker-pramila-jayapal-cjp-ka-samarathana-ma-kaya-bl-amaraka-sasathasir_e4c11edc5a711d4a7474d0bf990dcd2e.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी सांसद प्रमिला जयपाल ने भारतीय मतदाता सूची में बदलाव पर चिंता जताई। भारतीय राजदूत विनय मोहन क्वात्रा ने इसे अंदरूनी मामलों में दखलअंदाजी करार दिया। अमेरिकी सांसद प्रमिला जयपाल ने भारत की मतदाता सूची से करोड़ों नाम हटाए जाने पर चिंता जताई, तो अमेरिका में भारत के राजदूत विनय मोहन क्वात्रा ने इसे भारत के अंदरूनी मामलों में अस्वीकार्य दखलअंदाजी करार दिया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "CJP के समर्थन में क्या बोलीं अमेरिकी सांसद? भारतीय राजदूत क्वात्रा ने जताई कड़ी आपत्ति",
-          "summary": "अमेरिकी सांसद प्रमिला जयपाल ने भारतीय मतदाता सूची में बदलाव पर चिंता जताई। भारतीय राजदूत विनय मोहन क्वात्रा ने इसे अंदरूनी मामलों में दखलअंदाजी करार दिया। अमेरिकी सांसद प्रमिला जयपाल ने भारत की मतदाता सूची से करोड़ों नाम हटाए जाने पर चिंता जताई, तो अमेरिका में भारत के राजदूत विनय मोहन क्वात्रा ने इसे भारत के अंदरूनी मामलों में अस्वीकार्य दखलअंदाजी करार दिया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सीजेपी प्रोटेस्ट के बीच चुनाव आयोग का एलान, यूपी समेत17 राज्यों की वोटर लिस्ट में होगा विशेष संशोधन",
-      "url": "https://www.amarujala.com/video/india-news/amid-cjp-protests-the-election-commission-announces-a-special-revision-of-electoral-rolls-in-17-states-inclu-2026-10-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-15T22:14:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/ec-ssr-in-17-states-cjp-protest-ka-bca-ec-ka-naya-elna-ssr-ma-kaya-haga-2027-voter-list-update_ffd6b73420feea414261b794fd20eebf.jpeg?w=1200&dpr=1.0",
-      "summary": "चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची का विशेष संक्षिप्त पुनरीक्षण करने का ऐलान किया है। यूपी समेत इन इलाकों में वोटर लिस्ट में विशेष संशोधन होगा। यह कदम सीजेपी प्रोटेस्ट के बीच उठा गया है। चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची के विशेष संक्षिप्त पुनरीक्षण यानी एसएसआर कराने का एलान कर दिया है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीजेपी प्रोटेस्ट के बीच चुनाव आयोग का एलान, यूपी समेत17 राज्यों की वोटर लिस्ट में होगा विशेष संशोधन",
-          "summary": "चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची का विशेष संक्षिप्त पुनरीक्षण करने का ऐलान किया है। यूपी समेत इन इलाकों में वोटर लिस्ट में विशेष संशोधन होगा। यह कदम सीजेपी प्रोटेस्ट के बीच उठा गया है। चुनाव आयोग ने 17 राज्यों और केंद्र शासित प्रदेशों में मतदाता सूची के विशेष संक्षिप्त पुनरीक्षण यानी एसएसआर कराने का एलान कर दिया है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त",
-      "url": "https://www.amarujala.com/india-news/maharashtra-updates-bombay-high-court-crackers-mumbai-police-durga-idol-immersion-recording-nagpur-politics-2026-10-16",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-15T22:12:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई पुलिस ने दुर्गा प्रतिमा विसर्जन की फोटो और वीडियो शेयर करने पर रोक लगा दी है। महाराष्ट्र हाईकोर्ट ने सड़कों पर पटाखे जलाने के मामले में सख्त रुख अपनाया है। यह निर्देश महाराष्ट्र में लागू है। महाराष्ट्र: दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त",
-          "summary": "मुंबई पुलिस ने दुर्गा प्रतिमा विसर्जन की फोटो और वीडियो शेयर करने पर रोक लगा दी है। महाराष्ट्र हाईकोर्ट ने सड़कों पर पटाखे जलाने के मामले में सख्त रुख अपनाया है। यह निर्देश महाराष्ट्र में लागू है। महाराष्ट्र: दुर्गा प्रतिमा विसर्जन की फोटो-वीडियो पर मुंबई पुलिस की रोक; सड़क पर पटाखे जलाने पर हाईकोर्ट सख्त।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नशा करके लुढ़क गई शाही परिवार की बहू, सड़क पर नंगे पैर दौड़ा बच्चा, होश में आई तो और बड़ा ड्रामा",
-      "url": "https://hindi.news18.com/world/britain-abu-dhabi-royal-family-daughter-in-law-passed-out-on-london-street-on-cocaine-binge-with-3-year-old-child-in-danger-pleads-guilty-in-court-10912764.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T21:24:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Abu-Dhabi-Royal-Family-daughter-in-law-Passed-Out-on-Cocaine-Binge-2026-10-8dcdc098b5fb33db8eba569817b57e6e-1200x800.jpg",
-      "summary": "लंदन की साउथवार्क क्राउन कोर्ट ने 32 वर्षीय महरा अल नहयान को बच्चे की लापरवाही के दोषी माना। कोकीन के नशे में बेहोश होने पर उनका तीन वर्षीय बच्चा सड़क पर नंगे पैर घूम रहा था। अदालत ने उन्हें दो साल की सजा सुनाई। अबू धाबी के शाही परिवार की बहू, 32 साल की महरा अल नहयान, लंदन की एक व्यस्त सड़क पर कोकीन के नशे में पूरी तरह बेहोश मिलीं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नशा करके लुढ़क गई शाही परिवार की बहू, सड़क पर नंगे पैर दौड़ा बच्चा, होश में आई तो और बड़ा ड्रामा",
-          "summary": "लंदन की साउथवार्क क्राउन कोर्ट ने 32 वर्षीय महरा अल नहयान को बच्चे की लापरवाही के दोषी माना। कोकीन के नशे में बेहोश होने पर उनका तीन वर्षीय बच्चा सड़क पर नंगे पैर घूम रहा था। अदालत ने उन्हें दो साल की सजा सुनाई। अबू धाबी के शाही परिवार की बहू, 32 साल की महरा अल नहयान, लंदन की एक व्यस्त सड़क पर कोकीन के नशे में पूरी तरह बेहोश मिलीं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?",
-      "url": "https://www.amarujala.com/world/hindu-organisation-and-mps-voices-concern-over-attempted-mass-shooting-at-us-temple-2026-10-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-15T20:59:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/us-temple-attacker_ae07b7388d635e58f28f5f636f55e8cc.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका में मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित है। स्थानीय संगठनों ने सुरक्षा बढ़ाने की मांग की है। सांसदों ने इस घटना पर अपनी प्रतिक्रिया दी है। अमेरिका: मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?",
-          "summary": "अमेरिका में मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित है। स्थानीय संगठनों ने सुरक्षा बढ़ाने की मांग की है। सांसदों ने इस घटना पर अपनी प्रतिक्रिया दी है। अमेरिका: मंदिर पर हमले की कोशिश से हिंदू समुदाय चिंतित, संगठन ने की सुरक्षा बढ़ाने की मांग; सांसद क्या बोले?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "तिहाड़ जेल की रंजिश का सड़क पर बदला: कालिंदी में दिनदहाड़े चाकू मारकर हत्या, निहाल विहार में पत्नी",
-      "url": "https://www.amarujala.com/delhi/tihar-jail-rivalry-spills-onto-the-streets-man-stabbed-to-death-in-broad-daylight-in-kalindi-2026-10-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-15T20:20:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/1_d4d96ca6a6337f57722ffe045ddc9f66.jpeg?w=1200&dpr=1.0",
-      "summary": "तिहाड़ जेल में शुरू हुई रंजिश का बदला लेते हुए बदमाशों ने शाहिद हुसैन की हत्या कर दी। कालिंदी कुंज थाना इलाके में दिनदहाड़े चाकू मारकर यह कार्य किया गया। निहाल विहार में उसकी पत्नी भी मौजूद थी। तिहाड़ जेल में शुरू हुई रंजिश का बदला लेने के लिए बदमाशों ने कालिंदी कुंज थाना इलाके में दिनदहाड़े शाहिद हुसैन की चाकू से गोदकर हत्या कर दी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तिहाड़ जेल की रंजिश का सड़क पर बदला: कालिंदी में दिनदहाड़े चाकू मारकर हत्या, निहाल विहार में पत्नी",
-          "summary": "तिहाड़ जेल में शुरू हुई रंजिश का बदला लेते हुए बदमाशों ने शाहिद हुसैन की हत्या कर दी। कालिंदी कुंज थाना इलाके में दिनदहाड़े चाकू मारकर यह कार्य किया गया। निहाल विहार में उसकी पत्नी भी मौजूद थी। तिहाड़ जेल में शुरू हुई रंजिश का बदला लेने के लिए बदमाशों ने कालिंदी कुंज थाना इलाके में दिनदहाड़े शाहिद हुसैन की चाकू से गोदकर हत्या कर दी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ओडिशा में आठ साल बाद हुए छात्र संघ चुनाव: 153 कॉलेजों के नतीजे घोषित; उत्कल विश्वविद्यालय में क्यों",
-      "url": "https://www.amarujala.com/india-news/odisha-students-union-polls-held-after-8-yrs-amid-sporadic-tensions-results-of-153-colleges-out-2026-10-16",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-15T19:53:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/thharanathhara-vashavavathayalya-kayajhara-ma-jashana-manata-ebvapa-ka-chhatara-nata_cc00d1dc1bec19c7c01776a48cf406a4.jpeg?w=1200&dpr=1.0",
-      "summary": "ओडिशा में आठ साल बाद छात्र संघ चुनाव हुए हैं। 153 कॉलेजों के नतीजे घोषित कर दिए गए हैं। उत्कल विश्वविद्यालय में गणना रुकी हुई है, जिसका कारण अभी स्पष्ट नहीं है। ओडिशा में आठ साल बाद हुए छात्र संघ चुनाव: 153 कॉलेजों के नतीजे घोषित; उत्कल विश्वविद्यालय में क्यों रुकी गणना?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओडिशा में आठ साल बाद हुए छात्र संघ चुनाव: 153 कॉलेजों के नतीजे घोषित; उत्कल विश्वविद्यालय में क्यों",
-          "summary": "ओडिशा में आठ साल बाद छात्र संघ चुनाव हुए हैं। 153 कॉलेजों के नतीजे घोषित कर दिए गए हैं। उत्कल विश्वविद्यालय में गणना रुकी हुई है, जिसका कारण अभी स्पष्ट नहीं है। ओडिशा में आठ साल बाद हुए छात्र संघ चुनाव: 153 कॉलेजों के नतीजे घोषित; उत्कल विश्वविद्यालय में क्यों रुकी गणना?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘नहीं मानूंगा ट्रंप का एनर्जी सीजफायर’, जेलेंस्की ने पुतिन को 6 जगह से किया घायल, SU-34 के दर्द से",
-      "url": "https://hindi.news18.com/world/europe-ukraine-reject-trump-ceasefire-zelenskyy-claim-strike-on-6-russian-su-34-fighter-jets-in-massive-airfield-attack-10912683.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T17:55:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Ukraine-Su-34-Jet-Strike-2026-10-71b51e4db70d69b444cbf6b15fd7c939-1200x800.jpg",
-      "summary": "वोलोडिमिर जेलेंस्की ने ट्रंप के एनर्जी सीजफायर प्रस्ताव को अस्वीकार कर दिया। यूक्रेनी सेना ने नेपच्यून मिसाइल से वोरोनिश के बोरिसोविए्स्क एयरफील्ड पर हमला किया। इसमें चार सु-34 विमान तबाह हुए और दो जेट्स को भारी नुकसान पहुंचा। यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के 'एनर्जी सीजफायर' का प्रस्ताव ठुकरा दिया है. उन्होंने रूस के खिलाफ हमले और तेज कर दिए हैं.",
+      "published_at": "2026-10-16T01:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/navratri-day-6-colour-maa-katyayni_638e607e5c5af88748b8eee706398246.jpeg?w=1200&dpr=1.0",
+      "summary": "शारदीय नवरात्रि के छठे दिन 16 अक्टूबर को मां कात्यायनी की पूजा होगी। इस दिन हरे रंग के कपड़े पहनने की परंपरा है। भक्त इस रंग में स्टाइल करके पूजा में शामिल होंगे। यह दिन विशेष महत्व रखता है। Maa Katyayani Favourite Colour: 2026 में शारदीय नवरात्रि का छठा दिन 16 अक्टूबर, शुक्रवार को है। इस दिन मां कात्यायनी की पूजा की जाएगी और प्रचलित नवरात्रि कलर ट्रेंड के अनुसार हरा रंग (Green) आउटफिट के लिए खास रहेगा।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘नहीं मानूंगा ट्रंप का एनर्जी सीजफायर’, जेलेंस्की ने पुतिन को 6 जगह से किया घायल, SU-34 के दर्द से",
-          "summary": "वोलोडिमिर जेलेंस्की ने ट्रंप के एनर्जी सीजफायर प्रस्ताव को अस्वीकार कर दिया। यूक्रेनी सेना ने नेपच्यून मिसाइल से वोरोनिश के बोरिसोविए्स्क एयरफील्ड पर हमला किया। इसमें चार सु-34 विमान तबाह हुए और दो जेट्स को भारी नुकसान पहुंचा। यूक्रेन के राष्ट्रपति वोलोडिमिर जेलेंस्की ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के 'एनर्जी सीजफायर' का प्रस्ताव ठुकरा दिया है. उन्होंने रूस के खिलाफ हमले और तेज कर दिए हैं.",
+          "title": "नवरात्रि के छठे दिन पहनें इस रंग के कपड़े, मां कात्यायनी की पूजा के लिए ऐसे करें स्टाइल",
+          "summary": "शारदीय नवरात्रि के छठे दिन 16 अक्टूबर को मां कात्यायनी की पूजा होगी। इस दिन हरे रंग के कपड़े पहनने की परंपरा है। भक्त इस रंग में स्टाइल करके पूजा में शामिल होंगे। यह दिन विशेष महत्व रखता है। Maa Katyayani Favourite Colour: 2026 में शारदीय नवरात्रि का छठा दिन 16 अक्टूबर, शुक्रवार को है। इस दिन मां कात्यायनी की पूजा की जाएगी और प्रचलित नवरात्रि कलर ट्रेंड के अनुसार हरा रंग (Green) आउटफिट के लिए खास रहेगा।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "यूक्रेन ने रूस को पहुंचाया बड़ा नुकसान, जेलेंस्की का दावा- चार फाइटर बॉम्बर विमान तबाह",
-      "url": "https://www.abplive.com/news/world/zelenskyy-claims-four-su-34-fighter-bomber-aircraft-destroyed-ukraine-russia-war-3202662",
-      "source": "ABP Live (World)",
+      "title": "ट्रंप के घर से आया था जेलेंस्की के पर कतरने का आदेश, छूटकू अस्त्रों पर गिरेगी गाज, खुश हुए पुतिन",
+      "url": "https://hindi.news18.com/world/america-white-house-orders-to-slow-ukraine-spacex-starshield-service-inside-reports-suggest-ws-l-10912947.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-15T17:35:43+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/90332e8e19c14ff32645ad8905177f1117920840609811324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "वोलोदिमीर जेलेंस्की का दावा है कि यूक्रेन ने रूस के चार एसयू-34 फाइटर बॉम्बर विमानों को नष्ट कर दिया है। यह हमला वोरोनिश इलाके के बोरिसोग्लेब्स्क एयरफील्ड पर किया गया। दो अन्य विमानों को भी नुकसान पहुंचाया गया है। यह दावा राष्ट्रपति वोलोदिमीर जेलेंस्की ने किया है. उन्होंने बताया कि यूक्रेन ने रूस के वोरोनिश इलाके में बोरिसोग्लेब्स्क एयरफील्ड पर रातभर हमले किए.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन ने रूस को पहुंचाया बड़ा नुकसान, जेलेंस्की का दावा- चार फाइटर बॉम्बर विमान तबाह",
-          "summary": "वोलोदिमीर जेलेंस्की का दावा है कि यूक्रेन ने रूस के चार एसयू-34 फाइटर बॉम्बर विमानों को नष्ट कर दिया है। यह हमला वोरोनिश इलाके के बोरिसोग्लेब्स्क एयरफील्ड पर किया गया। दो अन्य विमानों को भी नुकसान पहुंचाया गया है। यह दावा राष्ट्रपति वोलोदिमीर जेलेंस्की ने किया है. उन्होंने बताया कि यूक्रेन ने रूस के वोरोनिश इलाके में बोरिसोग्लेब्स्क एयरफील्ड पर रातभर हमले किए.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सऊदी में 2 बांग्लादेशियों को फांसी, जानें ऐसा क्या किया था मक्का की मस्जिद में",
-      "url": "https://www.abplive.com/news/world/saudi-arabia-executed-2-bangladeshi-mecca-mosque-not-even-inform-dhaka-3202651",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-10-15T17:16:35+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/d392dce70017d48a2054b5dd86b52d9c1792084511910708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सऊदी अरब ने मक्का की मस्जिद में धार्मिक मर्यादा उल्लंघन के आरोप में दो बांग्लादेशियों को फांसी दी है। नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर की सजा 14 अक्टूबर 2026 को संपादित की गई। ढाका दूतावास को सूचना पहले से नहीं दी गई थी। सऊदी अरब में पवित्र शहर मक्का की एक मस्जिद में कथित रूप से धार्मिक मर्यादा का उल्लंघन करने के आरोप में दो बांग्लादेशी नागरिकों नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर को मौत की सजा दे दी गई है.",
+      "published_at": "2026-10-16T01:23:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Time-For-Ukraine-New-President-Donald-Trump-2026-10-c49c3f04eee9897318d37c4569e1b460-1200x800.jpg",
+      "summary": "अमेरिका ने यूक्रेन के स्टारलिंक उपयोग पर प्रतिबंध लगाया है। यह निर्देश सफाउस से आया है। इससे जेलेंस्की के ड्रोन ऑपरेशन प्रभावित होंगे। पुतिन को इस कदम से राहत मिली है। White House Ukraine Starlink Order: रूस-यूक्रेन युद्ध के दौरान सबसे ज्यादा फायदा यूक्रेन को अपने ड्रोन ऑपरेशन की वजह से हुआ लेकिन अब अमेरिका की ओर से ऐसा कदम उठाया गया है, जिससे जेलेंस्की का ये अस्त्र बेकार हो सकता है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सऊदी में 2 बांग्लादेशियों को फांसी, जानें ऐसा क्या किया था मक्का की मस्जिद में",
-          "summary": "सऊदी अरब ने मक्का की मस्जिद में धार्मिक मर्यादा उल्लंघन के आरोप में दो बांग्लादेशियों को फांसी दी है। नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर की सजा 14 अक्टूबर 2026 को संपादित की गई। ढाका दूतावास को सूचना पहले से नहीं दी गई थी। सऊदी अरब में पवित्र शहर मक्का की एक मस्जिद में कथित रूप से धार्मिक मर्यादा का उल्लंघन करने के आरोप में दो बांग्लादेशी नागरिकों नजरुल इस्लाम अब्दुल बसीर और सिटी अख्तर को मौत की सजा दे दी गई है.",
+          "title": "ट्रंप के घर से आया था जेलेंस्की के पर कतरने का आदेश, छूटकू अस्त्रों पर गिरेगी गाज, खुश हुए पुतिन",
+          "summary": "अमेरिका ने यूक्रेन के स्टारलिंक उपयोग पर प्रतिबंध लगाया है। यह निर्देश सफाउस से आया है। इससे जेलेंस्की के ड्रोन ऑपरेशन प्रभावित होंगे। पुतिन को इस कदम से राहत मिली है। White House Ukraine Starlink Order: रूस-यूक्रेन युद्ध के दौरान सबसे ज्यादा फायदा यूक्रेन को अपने ड्रोन ऑपरेशन की वजह से हुआ लेकिन अब अमेरिका की ओर से ऐसा कदम उठाया गया है, जिससे जेलेंस्की का ये अस्त्र बेकार हो सकता है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "आते ही कांड में फंस गईं ट्रंप की प्रेस सेक्रेटरी, वकालत की चीनी डिग्री पर उठे सवाल, कहीं इस्तीफा न",
-      "url": "https://hindi.news18.com/world/america-katie-zacharia-law-degree-row-white-house-press-secretary-face-resignation-pressure-over-failed-us-bar-exam-china-law-degree-claim-10912603.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-15T17:08:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Katie-Zacharia-Bar-Exam-Row-2026-10-2e2864c3de0271ef2d3c7818165ee397-1200x800.jpg",
-      "summary": "ट्रंप की प्रेस सेक्रेटरी केटी जकारिया पर चीन में बार एग्जाम पास करने का दावा सवाल उठा रहा है। कानूनी विशेषज्ञों ने इसकी पुष्टि नहीं की है। डोनाल्ड ट्रंप की नई व्हाइट हाउस प्रेस सेक्रेटरी केटी जकारिया अपनी वकालत की डिग्री को लेकर विवादों में घिर गई हैं. मीडिया रिपोर्ट्स के मुताबिक, कैलिफोर्निया से लॉ पढ़ने के बाद भी वो अमेरिका का बार एग्जाम पास नहीं कर पाई थीं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आते ही कांड में फंस गईं ट्रंप की प्रेस सेक्रेटरी, वकालत की चीनी डिग्री पर उठे सवाल, कहीं इस्तीफा न",
-          "summary": "ट्रंप की प्रेस सेक्रेटरी केटी जकारिया पर चीन में बार एग्जाम पास करने का दावा सवाल उठा रहा है। कानूनी विशेषज्ञों ने इसकी पुष्टि नहीं की है। डोनाल्ड ट्रंप की नई व्हाइट हाउस प्रेस सेक्रेटरी केटी जकारिया अपनी वकालत की डिग्री को लेकर विवादों में घिर गई हैं. मीडिया रिपोर्ट्स के मुताबिक, कैलिफोर्निया से लॉ पढ़ने के बाद भी वो अमेरिका का बार एग्जाम पास नहीं कर पाई थीं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यमन में राष्ट्रपति भवन परिसर पर हूती विद्रोहियों का मिसाइल हमला, अदन में 6 धमाके, सरकार के अधिकारी",
-      "url": "https://www.patrika.com/world-news/yemen-houthi-missile-attack-aden-presidential-palace-20987274",
+      "title": "‘सऊदी वार रूम को बनाया निशाना’: अदन हमले की हूतियों ने ली जिम्मेदारी, सैन्य ठिकानों पर दी कार्रवाई",
+      "url": "https://www.patrika.com/world-news/houthis-strike-aden-government-headquarters-yemen-pm-safe-20987379",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-15T17:04:12+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Aden-Missile-Attack.webp",
-      "summary": "यमन के अदन में हूती विद्रोहियों ने राष्ट्रपति भवन परिसर पर मिसाइल हमला किया। कम से कम छह धमाकों की आवाज सुनाई दी। Aden Missile Attack: यमन के दक्षिणी शहर अदन में राष्ट्रपति भवन परिसर को निशाना बनाकर हूती विद्रोहियों ने कई मिसाइलें दागीं। गुरुवार को हुए इस हमले की जानकारी यमन सरकार के दो अधिकारियों ने समाचार एजेंसी रॉयटर्स को दी।",
+      "published_at": "2026-10-16T01:20:29+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Yemen-Aden-Attack.webp",
+      "summary": "यमन के अदन में हूतियों ने सरकार के मुख्यालय पर हमला किया। उन्होंने सऊदी युद्ध केंद्र को निशाना बनाने का दावा किया। प्रधानमंत्री सुरक्षित रहे। हूतियों ने इसे राज्य व्यवस्था तोड़ने की साजिश कहा। Houthis Aden Government Headquarters Strike: यमन की दक्षिणी नगरी अदन में अंतरराष्ट्रीय मान्यता प्राप्त सरकार के मुख्यालय पर हुए हमले ने एक बार फिर पूरे क्षेत्र को हिला दिया है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यमन में राष्ट्रपति भवन परिसर पर हूती विद्रोहियों का मिसाइल हमला, अदन में 6 धमाके, सरकार के अधिकारी",
-          "summary": "यमन के अदन में हूती विद्रोहियों ने राष्ट्रपति भवन परिसर पर मिसाइल हमला किया। कम से कम छह धमाकों की आवाज सुनाई दी। Aden Missile Attack: यमन के दक्षिणी शहर अदन में राष्ट्रपति भवन परिसर को निशाना बनाकर हूती विद्रोहियों ने कई मिसाइलें दागीं। गुरुवार को हुए इस हमले की जानकारी यमन सरकार के दो अधिकारियों ने समाचार एजेंसी रॉयटर्स को दी।",
+          "title": "‘सऊदी वार रूम को बनाया निशाना’: अदन हमले की हूतियों ने ली जिम्मेदारी, सैन्य ठिकानों पर दी कार्रवाई",
+          "summary": "यमन के अदन में हूतियों ने सरकार के मुख्यालय पर हमला किया। उन्होंने सऊदी युद्ध केंद्र को निशाना बनाने का दावा किया। प्रधानमंत्री सुरक्षित रहे। हूतियों ने इसे राज्य व्यवस्था तोड़ने की साजिश कहा। Houthis Aden Government Headquarters Strike: यमन की दक्षिणी नगरी अदन में अंतरराष्ट्रीय मान्यता प्राप्त सरकार के मुख्यालय पर हुए हमले ने एक बार फिर पूरे क्षेत्र को हिला दिया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "'गोली मार देना...', अमेरिकी हमलों की जानकारी लीक करने वालों पर ट्रंप की चेतावनी",
-      "url": "https://www.abplive.com/news/world/shoot-them-donald-trump-warn-those-leak-information-about-us-operations-3202646",
-      "source": "ABP Live (World)",
+      "title": "मादुरो ने यातना के आरोपों को बताया झूठा: पत्नी के साथ अमेरिकी अदालत में पेश; क्या दलील दी और क्या",
+      "url": "https://www.amarujala.com/world/ex-venezuelan-president-nicolas-maduro-says-new-torture-allegations-are-false-2026-10-16",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-15T16:32:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/15/f28cf60e07c8991d90d360a9ac7cb62117920812612391324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "Donald Trump told a campaign rally that anyone leaking media about a planned US strike on Iranian nuclear facilities should be shot by a firing squad. He framed the warning as a deterrent against leaks. The comment came as Houthi attacks on Saudi targets continued. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि जो भी ईरान के परमाणु सुविधाओं पर अमेरिकी सेना के हमले की योजना की जानकारी मीडिया में लीक कर रहा है, उसे गोली मार देना चाहिए.",
+      "published_at": "2026-10-16T01:15:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/vanajael-ka-parava-rashhatarapata-nakalsa-mathara_495bb42eb8165bc8a0d7928d75472471.jpeg?w=1200&dpr=1.0",
+      "summary": "वेनेज़ुएला के राष्ट्रपति मादुरो ने अमेरिकी अदालत में पेशी के दौरान यातना के आरोपों को झूठा बताया। उन्होंने अपनी पत्नी के साथ हाज़िर होकर अपनी बरी की दलील पेश की। अगले कदमों के लिए अदालत का फैसला बाकी है। मादुरो ने यातना के आरोपों को बताया झूठा: पत्नी के साथ अमेरिकी अदालत में पेश; क्या दलील दी और क्या होगा आगे?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मादुरो ने यातना के आरोपों को बताया झूठा: पत्नी के साथ अमेरिकी अदालत में पेश; क्या दलील दी और क्या",
+          "summary": "वेनेज़ुएला के राष्ट्रपति मादुरो ने अमेरिकी अदालत में पेशी के दौरान यातना के आरोपों को झूठा बताया। उन्होंने अपनी पत्नी के साथ हाज़िर होकर अपनी बरी की दलील पेश की। अगले कदमों के लिए अदालत का फैसला बाकी है। मादुरो ने यातना के आरोपों को बताया झूठा: पत्नी के साथ अमेरिकी अदालत में पेश; क्या दलील दी और क्या होगा आगे?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी सेना ने ईरान के दावों को बताया झूठा, कहा- सैकड़ों सैनिक नहीं मारे गए, हॉर्मुज पर हमारा",
+      "url": "https://www.patrika.com/world-news/centcom-rejects-iran-claims-strait-of-hormuz-gfs-pride-american-army-20987380",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-16T01:15:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/hormuz.webp",
+      "summary": "अमेरिकी सेंट्रल कमांड ने ईरान के दावों को खारिज कर दिया। जॉर्डन में सैकड़ों सैनिकों की मृत्यु और होर्मुज पर ईरानी नियंत्रण के दावों को गलत बताया गया। अमेरिका ने जलमार्ग को अपने सहयोगियों के सुरक्षित नियंत्रण में बताया। अमेरिकी सेंट्रल कमांड (CENTCOM) ने पिछले ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) द्वारा किए गए तीन बड़े दावों को खारिज कर दिया है।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'गोली मार देना...', अमेरिकी हमलों की जानकारी लीक करने वालों पर ट्रंप की चेतावनी",
-          "summary": "Donald Trump told a campaign rally that anyone leaking media about a planned US strike on Iranian nuclear facilities should be shot by a firing squad. He framed the warning as a deterrent against leaks. The comment came as Houthi attacks on Saudi targets continued. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा है कि जो भी ईरान के परमाणु सुविधाओं पर अमेरिकी सेना के हमले की योजना की जानकारी मीडिया में लीक कर रहा है, उसे गोली मार देना चाहिए.",
+          "title": "अमेरिकी सेना ने ईरान के दावों को बताया झूठा, कहा- सैकड़ों सैनिक नहीं मारे गए, हॉर्मुज पर हमारा",
+          "summary": "अमेरिकी सेंट्रल कमांड ने ईरान के दावों को खारिज कर दिया। जॉर्डन में सैकड़ों सैनिकों की मृत्यु और होर्मुज पर ईरानी नियंत्रण के दावों को गलत बताया गया। अमेरिका ने जलमार्ग को अपने सहयोगियों के सुरक्षित नियंत्रण में बताया। अमेरिकी सेंट्रल कमांड (CENTCOM) ने पिछले ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) द्वारा किए गए तीन बड़े दावों को खारिज कर दिया है।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "यहां बेटियां बेचकर राशन खरीदते हैं बाप, घर चलाने को एक-एक अंग भी बिकता है, कुदरत के कोड़े खाकर",
-      "url": "https://hindi.news18.com/world/south-asia-afghanistan-crisis-parents-forced-to-sell-young-daughters-for-food-child-brides-to-pay-debts-10912564.html",
-      "source": "News18 Hindi (World)",
+      "title": "'घर के काम, मेकअप से वर्किंग-डे में घंटे जुड़े': जापानी PM ताकाइची के बयान पर बवाल, मामला क्या?",
+      "url": "https://www.amarujala.com/world/gender-roles-housework-and-makeup-add-hours-to-workday-japanese-pm-takaichi-remarks-controversy-hindi-updates-2026-10-16",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-15T16:15:26+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Afghanistan-Food-Crisis-2026-10-7344987422b305fa4dd39963443c40ef-1200x800.jpg",
-      "summary": "अफगानिस्तान के बदगीस में सूखे और भुखमरी ने लोगों को बेटियों बेचने पर मजबूर कर दिया है। खेती और पशुपालन बंद हो चुका है। जलवायु परिवर्तन और भयंकर सूखे ने अफगानिस्तान के बदगीस समेत कई इलाकों को तबाह कर दिया है. यहां चारों तरफ भुखमरी फैली हुई है. खेती और मवेशी पालना पूरी तरह बंद हो चुका है, जिससे गांव के लोग भारी कर्ज में डूब गए हैं.",
+      "published_at": "2026-10-16T01:03:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/japana-ka-parathhanamatara-ka-byana-para-vavatha_6ef32dc7e168420627af284a5d693d8d.jpeg?w=1200&dpr=1.0",
+      "summary": "जापान के प्रधानमंत्री ताकाइची के बयान पर विवाद बढ़ गया। उन्होंने कहा कि घर के काम और मेकअप से कार्यदिवस में घंटे जुड़ जाते हैं। इस बयान ने लैंगिक भूमिकाओं पर नए सवाल खड़े कर दिए हैं। लैंगिक भूमिका: 'घर के काम, मेकअप से वर्किंग-डे में घंटे जुड़े': जापानी PM ताकाइची के बयान पर बवाल, मामला क्या?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यहां बेटियां बेचकर राशन खरीदते हैं बाप, घर चलाने को एक-एक अंग भी बिकता है, कुदरत के कोड़े खाकर",
-          "summary": "अफगानिस्तान के बदगीस में सूखे और भुखमरी ने लोगों को बेटियों बेचने पर मजबूर कर दिया है। खेती और पशुपालन बंद हो चुका है। जलवायु परिवर्तन और भयंकर सूखे ने अफगानिस्तान के बदगीस समेत कई इलाकों को तबाह कर दिया है. यहां चारों तरफ भुखमरी फैली हुई है. खेती और मवेशी पालना पूरी तरह बंद हो चुका है, जिससे गांव के लोग भारी कर्ज में डूब गए हैं.",
+          "title": "'घर के काम, मेकअप से वर्किंग-डे में घंटे जुड़े': जापानी PM ताकाइची के बयान पर बवाल, मामला क्या?",
+          "summary": "जापान के प्रधानमंत्री ताकाइची के बयान पर विवाद बढ़ गया। उन्होंने कहा कि घर के काम और मेकअप से कार्यदिवस में घंटे जुड़ जाते हैं। इस बयान ने लैंगिक भूमिकाओं पर नए सवाल खड़े कर दिए हैं। लैंगिक भूमिका: 'घर के काम, मेकअप से वर्किंग-डे में घंटे जुड़े': जापानी PM ताकाइची के बयान पर बवाल, मामला क्या?",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "प्रदर्शन के चलते आज इन रास्तों पर रहेगा असर, परेशानी से बचने को अपडेट जानकर ही निकलें",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-police-issued-traffic-advisory-yesterday-regarding-cjp-s-tiranga-march-2026-10-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-16T01:01:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/thall-tarafaka-edavaijara_b99ac2af0627532cc8f2a74412f11ea3.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली पुलिस ने कनॉट प्लेस और सेंट्रल पार्क के रास्तों पर ट्रैफिक एडवाइजरी जारी की है। शुक्रवार को सीजेपी के तिरंगा मार्च के कारण इन इलाकों में भीड़ और जाम की उम्मीद है। यात्रियों को वैकल्पिक मार्गों का उपयोग करने की सलाह दी गई है। सेंट्रल पार्क, कनॉट प्लेस में शुक्रवार को कॉकरोच जनता पार्टी (सीजेपी) के प्रस्तावित तिरंगा मार्च को लेकर दिल्ली पुलिस ने ट्रैफिक एडवाइजरी जारी की है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "प्रदर्शन के चलते आज इन रास्तों पर रहेगा असर, परेशानी से बचने को अपडेट जानकर ही निकलें",
+          "summary": "दिल्ली पुलिस ने कनॉट प्लेस और सेंट्रल पार्क के रास्तों पर ट्रैफिक एडवाइजरी जारी की है। शुक्रवार को सीजेपी के तिरंगा मार्च के कारण इन इलाकों में भीड़ और जाम की उम्मीद है। यात्रियों को वैकल्पिक मार्गों का उपयोग करने की सलाह दी गई है। सेंट्रल पार्क, कनॉट प्लेस में शुक्रवार को कॉकरोच जनता पार्टी (सीजेपी) के प्रस्तावित तिरंगा मार्च को लेकर दिल्ली पुलिस ने ट्रैफिक एडवाइजरी जारी की है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अभिजीत दिपके सीपी में फहराएंगे तिरंगा, आगरा-गाजियाबाद के दौरे पर उत्तर प्रदेश के मुख्यमंत्री योगी",
+      "url": "https://www.amarujala.com/india-news/16-october-2026-major-event-2026-2026-10-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-16T01:01:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/aaja-ka-khabra_8492f5daa512c5fabc8cb5379142f54b.gif?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ आगरा और गाजियाबाद के दौरे पर हैं। वे अभिजीत दिपके स्मारक पर तिरंगा फहराएंगे। यह दौरा शुक्रवार, 16 अक्टूबर को हो रहा है। नमस्कार! आज है शुक्रवार, 16 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं अभिजीत दिपके सीपी में फहराएंगे तिरंगा, आगरा-गाजियाबाद के दौरे पर उत्तर प्रदेश के मुख्यमंत्री योगी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अभिजीत दिपके सीपी में फहराएंगे तिरंगा, आगरा-गाजियाबाद के दौरे पर उत्तर प्रदेश के मुख्यमंत्री योगी",
+          "summary": "उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ आगरा और गाजियाबाद के दौरे पर हैं। वे अभिजीत दिपके स्मारक पर तिरंगा फहराएंगे। यह दौरा शुक्रवार, 16 अक्टूबर को हो रहा है। नमस्कार! आज है शुक्रवार, 16 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं अभिजीत दिपके सीपी में फहराएंगे तिरंगा, आगरा-गाजियाबाद के दौरे पर उत्तर प्रदेश के मुख्यमंत्री योगी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जानें मां कात्यायनी की पूजा विधि, मंत्र, भोग, कथा और आरती",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/navratri-day-6-2026-maa-katyayani-puja-vidhi-mantra-bhog-katha-aarti-in-hindi-2026-10-15",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-16T00:54:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/maa-katyayani_aac333975654399ee77663aed8901c16.jpeg?w=1200&dpr=1.0",
+      "summary": "नवरात्रि के छठे दिन मां कात्यायनी की आराधना की जाती है। भक्त इस दिन मां को प्रिय पुष्प और भोग अर्पित करते हैं। इस अवसर पर सुख और समृद्धि की कामना की जाती है। पूजा विधि, मंत्र और कथा का पालन किया जाता है। इस दिन भक्त मां को प्रिय पुष्प और भोग अर्पित करके सुख-समृद्धि की कामना करते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जानें मां कात्यायनी की पूजा विधि, मंत्र, भोग, कथा और आरती",
+          "summary": "नवरात्रि के छठे दिन मां कात्यायनी की आराधना की जाती है। भक्त इस दिन मां को प्रिय पुष्प और भोग अर्पित करते हैं। इस अवसर पर सुख और समृद्धि की कामना की जाती है। पूजा विधि, मंत्र और कथा का पालन किया जाता है। इस दिन भक्त मां को प्रिय पुष्प और भोग अर्पित करके सुख-समृद्धि की कामना करते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अक्तूबर में इस दिन रखा जाएगा आखिरी प्रदोष व्रत, जानें शिव पूजा का शुभ समय",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/shukra-pradosh-vrat-october-2026-date-shubh-muhurat-in-hindi-2026-10-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T00:50:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/06/parathashha-varata-2026_06e1b574422dc02999055531a6f5a16f.jpeg?w=1200&dpr=1.0",
+      "summary": "अक्टूबर 2026 में आखिरी प्रदोष व्रत इसी महीने रखा जाएगा। यह व्रत भगवान शिव को समर्पित है। कृष्ण और शुक्ल पक्ष की त्रयोदशी तिथि को इसे मनाया जाता है। मान्यता है कि इससे सुख और खुशहाली मिलती है। Shukra Pradosh Vrat October 2026: प्रदोष व्रत भगवान शिव को समर्पित होता है, जो हर महीने कृष्ण और शुक्ल पक्ष की त्रयोदशी तिथि को रखा जाता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अक्तूबर में इस दिन रखा जाएगा आखिरी प्रदोष व्रत, जानें शिव पूजा का शुभ समय",
+          "summary": "अक्टूबर 2026 में आखिरी प्रदोष व्रत इसी महीने रखा जाएगा। यह व्रत भगवान शिव को समर्पित है। कृष्ण और शुक्ल पक्ष की त्रयोदशी तिथि को इसे मनाया जाता है। मान्यता है कि इससे सुख और खुशहाली मिलती है। Shukra Pradosh Vrat October 2026: प्रदोष व्रत भगवान शिव को समर्पित होता है, जो हर महीने कृष्ण और शुक्ल पक्ष की त्रयोदशी तिथि को रखा जाता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कैसे मिला ड्रीम गर्ल का खिताब? शाहरुख खान को बनाया सुपरस्टार, जानें 10 अनसुनी बातें",
+      "url": "https://www.amarujala.com/entertainment/bollywood/hema-malini-birthday-special-7-lesser-known-facts-about-the-dream-girl-of-bollywood-2026-10-14",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T00:27:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/14/hama-malna_e871036f6a14ab431d950a4a85283832.gif?w=1200&dpr=1.0",
+      "summary": "हेमा मालिनी के जन्मदिन पर उनके जीवन के अनसुने किस्से सामने आ रहे हैं। शाहरुख खान ने उन्हें सुपरस्टार बनाया था। हिंदी सिनेमा की ड्रीम गर्ल के रूप में उनकी पहचान रही है। उनकी खूबसूरती और डांस की तारीफ की जाती है। हिंदी सिनेमा की ड्रीम गर्ल यानी हेमा मालिनी का नाम सुनते ही खूबसूरती, शानदार अदाकारी और बेहतरीन डांस की याद आती है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कैसे मिला ड्रीम गर्ल का खिताब? शाहरुख खान को बनाया सुपरस्टार, जानें 10 अनसुनी बातें",
+          "summary": "हेमा मालिनी के जन्मदिन पर उनके जीवन के अनसुने किस्से सामने आ रहे हैं। शाहरुख खान ने उन्हें सुपरस्टार बनाया था। हिंदी सिनेमा की ड्रीम गर्ल के रूप में उनकी पहचान रही है। उनकी खूबसूरती और डांस की तारीफ की जाती है। हिंदी सिनेमा की ड्रीम गर्ल यानी हेमा मालिनी का नाम सुनते ही खूबसूरती, शानदार अदाकारी और बेहतरीन डांस की याद आती है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मंधाना की कप्तानी में नए युग की शुरुआत करेगी भारतीय महिला टीम, जानें कब-कहां देखें मैच",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ind-w-vs-zim-w-india-women-vs-zimbabwe-women-1st-t20i-squad-and-live-streaming-details-in-hindi-2026-10-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T00:24:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/ind_3d56540135c275d4bc84437ee0de47ab.jpeg?w=1200&dpr=1.0",
+      "summary": "स्मृति मंधाना भारतीय महिला टीम की कप्तानी संभालेंगी। वे शुक्रवार से शुरू होने वाली सीरीज में पहली बार कप्तान होंगी। भारत और जिम्बाब्वे के बीच तीन मैचों की टी20 सीरीज खेली जाएगी। यह सीरीज दोनों टीमों के लिए अहम है। भारत और जिम्बाब्वे की महिला टीमों के बीच शुक्रवार से तीन मैचों की टी20 सीरीज खेली जाएगी। स्मृति मंधाना इस सीरीज से कप्तान के तौर पर नई जिम्मेदारी संभालेंगी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मंधाना की कप्तानी में नए युग की शुरुआत करेगी भारतीय महिला टीम, जानें कब-कहां देखें मैच",
+          "summary": "स्मृति मंधाना भारतीय महिला टीम की कप्तानी संभालेंगी। वे शुक्रवार से शुरू होने वाली सीरीज में पहली बार कप्तान होंगी। भारत और जिम्बाब्वे के बीच तीन मैचों की टी20 सीरीज खेली जाएगी। यह सीरीज दोनों टीमों के लिए अहम है। भारत और जिम्बाब्वे की महिला टीमों के बीच शुक्रवार से तीन मैचों की टी20 सीरीज खेली जाएगी। स्मृति मंधाना इस सीरीज से कप्तान के तौर पर नई जिम्मेदारी संभालेंगी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्या ईरान पर बरसेगा तबाही वाला बम, इसमें क्या खास, ट्रंप क्यों कर रहे तीन नंवबर का इंतजार?",
+      "url": "https://www.amarujala.com/world/explainer-will-the-us-use-the-mother-of-all-bombs-on-iran-what-makes-it-powerful-and-why-wait-until-nov-3-2026-10-15",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-16T00:24:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/raya-ka-ekasapalnara_9f3f340d75e7fb0172560b4ec1103fc8.jpeg?w=1200&dpr=1.0",
+      "summary": "ट्रंप ईरान पर बमबारी के लिए तीन नंबर का इंतजार कर रहे हैं। सवाल यह है कि क्या तबाही वाला बम गिराया जाएगा। इस बम की खासियत और उसके असर पर चर्चा हो रही है। ईरान पर इसका क्या प्रभाव पड़ेगा, यह देखना होगा। एक्सप्लेनर: क्या ईरान पर बरसेगा तबाही वाला बम, इसमें क्या खास, ट्रंप क्यों कर रहे तीन नंवबर का इंतजार?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या ईरान पर बरसेगा तबाही वाला बम, इसमें क्या खास, ट्रंप क्यों कर रहे तीन नंवबर का इंतजार?",
+          "summary": "ट्रंप ईरान पर बमबारी के लिए तीन नंबर का इंतजार कर रहे हैं। सवाल यह है कि क्या तबाही वाला बम गिराया जाएगा। इस बम की खासियत और उसके असर पर चर्चा हो रही है। ईरान पर इसका क्या प्रभाव पड़ेगा, यह देखना होगा। एक्सप्लेनर: क्या ईरान पर बरसेगा तबाही वाला बम, इसमें क्या खास, ट्रंप क्यों कर रहे तीन नंवबर का इंतजार?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली समेत कई राज्यों में बारिश, पांच डिग्री तक गिरा एनसीआर का पारा; पहाड़ों पर बर्फ से रौनक",
+      "url": "https://www.amarujala.com/delhi-ncr/winter-arrives-rain-hits-delhi-and-several-other-states-2026-10-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T00:22:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/1_0d8515a930b3530faea90b0ba26473c1.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर-पश्चिम भारत में मूसलाधार बारिश और ओलावृष्टि ने किसानों को नुकसान पहुंचाया। दिल्ली समेत कई राज्यों में तापमान पांच डिग्री तक गिरा। पहाड़ी इलाकों में बर्फबारी से मौसम बदला। उत्तर-पश्चिम भारत के कई राज्यों में बृहस्पतिवार को हुई मूसलाधार बारिश, ओलावृष्टि व आंधी-तूफान ने किसानों पर आफत ला दी है। दिल्ली समेत कई राज्यों में बारिश, पांच डिग्री तक गिरा एनसीआर का पारा; पहाड़ों पर बर्फ से रौनक।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली समेत कई राज्यों में बारिश, पांच डिग्री तक गिरा एनसीआर का पारा; पहाड़ों पर बर्फ से रौनक",
+          "summary": "उत्तर-पश्चिम भारत में मूसलाधार बारिश और ओलावृष्टि ने किसानों को नुकसान पहुंचाया। दिल्ली समेत कई राज्यों में तापमान पांच डिग्री तक गिरा। पहाड़ी इलाकों में बर्फबारी से मौसम बदला। उत्तर-पश्चिम भारत के कई राज्यों में बृहस्पतिवार को हुई मूसलाधार बारिश, ओलावृष्टि व आंधी-तूफान ने किसानों पर आफत ला दी है। दिल्ली समेत कई राज्यों में बारिश, पांच डिग्री तक गिरा एनसीआर का पारा; पहाड़ों पर बर्फ से रौनक।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ओरेगन के प्राइमरी स्कूल में गोलीबारी, चार लोगों की मौत, हमलावर भी मारा गया; क्या सामने आई वजह?",
+      "url": "https://www.amarujala.com/world/shooting-at-elementary-school-in-oregon-police-investigate-incident-2026-10-16",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-16T00:20:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/galbra_e3dc9c2f31b4ddfc81ab7f8c045735bd.jpeg?w=1200&dpr=1.0",
+      "summary": "ओरेगन के एक प्राइमरी स्कूल में हुई गोलीबारी में चार लोगों की मौत हुई। हमलावर को भी मार दिया गया। घटना की वजह अभी स्पष्ट नहीं है। अमेरिका: ओरेगन के प्राइमरी स्कूल में गोलीबारी, चार लोगों की मौत, हमलावर भी मारा गया; क्या सामने आई वजह?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओरेगन के प्राइमरी स्कूल में गोलीबारी, चार लोगों की मौत, हमलावर भी मारा गया; क्या सामने आई वजह?",
+          "summary": "ओरेगन के एक प्राइमरी स्कूल में हुई गोलीबारी में चार लोगों की मौत हुई। हमलावर को भी मार दिया गया। घटना की वजह अभी स्पष्ट नहीं है। अमेरिका: ओरेगन के प्राइमरी स्कूल में गोलीबारी, चार लोगों की मौत, हमलावर भी मारा गया; क्या सामने आई वजह?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "आज इन रास्तों से बचकर निकलें, प्रदर्शन के चलते इन रास्तों पर रहेगा असर",
+      "url": "https://www.amarujala.com/video/india-news/delhi-traffic-alert-avoid-these-routes-today-traffic-will-be-affected-in-these-areas-due-to-a-protest-2026-10-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T00:15:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/delhi-traffic-advisory-aaja-ina-rasata-sa-bcakara-nakal-cjp-lehra-do-tiranga-march-connaught-place_ec018b5275fa812115957e84fd879607.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली ट्रैफिक पुलिस ने सीजेपी के तिरंगा मार्च को लेकर एडवाइजरी जारी की। प्रदर्शन के चलते कई रास्तों पर असर पड़ेगा। वाहन चालकों को वैकल्पिक मार्गों का उपयोग करने की सलाह दी गई है। दिल्ली में कल तिरंगा मार्च को लेकर हलचल तेज है। कॉकरोच जनता पार्टी यानी सीजेपी के प्रस्तावित तिरंगा मार्च को देखते हुए दिल्ली ट्रैफिक पुलिस ने एडवाइजरी जारी की है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज इन रास्तों से बचकर निकलें, प्रदर्शन के चलते इन रास्तों पर रहेगा असर",
+          "summary": "दिल्ली ट्रैफिक पुलिस ने सीजेपी के तिरंगा मार्च को लेकर एडवाइजरी जारी की। प्रदर्शन के चलते कई रास्तों पर असर पड़ेगा। वाहन चालकों को वैकल्पिक मार्गों का उपयोग करने की सलाह दी गई है। दिल्ली में कल तिरंगा मार्च को लेकर हलचल तेज है। कॉकरोच जनता पार्टी यानी सीजेपी के प्रस्तावित तिरंगा मार्च को देखते हुए दिल्ली ट्रैफिक पुलिस ने एडवाइजरी जारी की है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "आज कनॉट प्लेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद",
+      "url": "https://www.amarujala.com/live/india-news/abhijeet-dipke-lehra-do-tiranga-march-live-updates-connaught-place-delhi-police-cjp-mumbai-azad-maidan-news-2026-10-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-16T00:12:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-dipke-kakaraca-janata-parata-ka-sasathapaka-abhajata-thapaka-fail_0267af707453841e4d431938ca62e0eb.png?w=1200&dpr=1.0",
+      "summary": "सीजेपी समर्थक आज कनॉट पैलेस के पास तिरंगा मार्च के लिए जुटेंगे। दिल्ली से मुंबई तक पुलिस मुस्तैद है। अभिजीत दिपके ने गिरफ्तारी का डर जताया है। तिरंगा फहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद। तिरंगा लहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज कनॉट प्लेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद",
+          "summary": "सीजेपी समर्थक आज कनॉट पैलेस के पास तिरंगा मार्च के लिए जुटेंगे। दिल्ली से मुंबई तक पुलिस मुस्तैद है। अभिजीत दिपके ने गिरफ्तारी का डर जताया है। तिरंगा फहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद। तिरंगा लहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका के प्राइमरी स्कूल में ताबड़तोड़ फायरिंग, बच्चों समेत 5 की मौत, हमलावर भी मारा गया",
+      "url": "https://hindi.news18.com/world/america-us-firing-news-oregon-elementary-school-shooting-five-people-feared-dead-including-children-10912829.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-16T00:09:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/US-Shooting-1-2026-10-0d6804f253cc72ab5311163dcc70ced5-1200x800.jpg",
+      "summary": "ओरेगन के सिल्वर रेल एलीमेंट्री स्कूल में गोलीबारी में पांच लोगों की मौत हुई। हमलावर को मार दिया गया। स्कूल में लॉकडाउन लगाकर पुलिस ने कमरों की जांच शुरू की। US Oregon School Shooting: अमेरिका के ओरेगन स्थित सिल्वर रेल एलीमेंट्री स्कूल में गोलीबारी की घटना हुई है. अधिकारियों के मुताबिक, इस हमले में बच्चों समेत कम से कम पांच लोगों की मौत की आशंका है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के प्राइमरी स्कूल में ताबड़तोड़ फायरिंग, बच्चों समेत 5 की मौत, हमलावर भी मारा गया",
+          "summary": "ओरेगन के सिल्वर रेल एलीमेंट्री स्कूल में गोलीबारी में पांच लोगों की मौत हुई। हमलावर को मार दिया गया। स्कूल में लॉकडाउन लगाकर पुलिस ने कमरों की जांच शुरू की। US Oregon School Shooting: अमेरिका के ओरेगन स्थित सिल्वर रेल एलीमेंट्री स्कूल में गोलीबारी की घटना हुई है. अधिकारियों के मुताबिक, इस हमले में बच्चों समेत कम से कम पांच लोगों की मौत की आशंका है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'भोग से बर्बाद हो जाती है दशकों की मेहनत': विजय माल्या को लेकर कर्नाटक हाईकोर्ट की सख्त टिप्पणी",
+      "url": "https://www.amarujala.com/india-news/karnataka-hc-remark-on-vijay-mallya-pleasure-destroys-decades-of-hard-work-2026-10-16",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-16T00:02:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/16/vajaya-malya_4b8061ce5415977e883ac1445b77fd1b.jpeg?w=1200&dpr=1.0",
+      "summary": "कर्नाटक हाईकोर्ट ने विजय माल्या के मामले में सख्त टिप्पणी की। कोर्ट ने कहा कि भोग से दशकों की मेहनत बर्बाद हो जाती है। यह टिप्पणी माल्या के व्यवहार पर की गई है। 'भोग से बर्बाद हो जाती है दशकों की मेहनत': विजय माल्या को लेकर कर्नाटक हाईकोर्ट की सख्त टिप्पणी; क्या कहा?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'भोग से बर्बाद हो जाती है दशकों की मेहनत': विजय माल्या को लेकर कर्नाटक हाईकोर्ट की सख्त टिप्पणी",
+          "summary": "कर्नाटक हाईकोर्ट ने विजय माल्या के मामले में सख्त टिप्पणी की। कोर्ट ने कहा कि भोग से दशकों की मेहनत बर्बाद हो जाती है। यह टिप्पणी माल्या के व्यवहार पर की गई है। 'भोग से बर्बाद हो जाती है दशकों की मेहनत': विजय माल्या को लेकर कर्नाटक हाईकोर्ट की सख्त टिप्पणी; क्या कहा?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "नेपाल के राजदूतों की भर्ती में बड़ा कांड, सेक्शुअल फेवर और उगाही के आरोप, बालेन शाह फिर फेल!",
+      "url": "https://hindi.news18.com/world/south-asia-nepal-ambassador-appointment-scandal-balen-shah-government-faces-heat-over-sexual-harassment-and-extortion-allegations-10912816.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-16T00:01:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/balen-shah-6-2026-08-0da6eab7d720304f3fc53fb67323483e-1200x800.jpg",
+      "summary": "नेपाल में राजदूत भर्ती प्रक्रिया में गिरि बहादुर सुनार पर यौन उत्पीड़न और 33 लाख रुपये की उगाही के आरोप लगे हैं। सऊदी अरब के लिए चुने गए इस उम्मीदवार के खिलाफ शिकायत दर्ज है। प्रधानमंत्री बालेन शाह की पारदर्शी सरकार की छवि इस घोटाले से प्रभावित हुई है। नेपाल में युवाओं के आंदोलन के बाद प्रधानमंत्री बने बालेन शाह की पारदर्शी सरकार बनाने की मुहिम विवादों में घिर गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नेपाल के राजदूतों की भर्ती में बड़ा कांड, सेक्शुअल फेवर और उगाही के आरोप, बालेन शाह फिर फेल!",
+          "summary": "नेपाल में राजदूत भर्ती प्रक्रिया में गिरि बहादुर सुनार पर यौन उत्पीड़न और 33 लाख रुपये की उगाही के आरोप लगे हैं। सऊदी अरब के लिए चुने गए इस उम्मीदवार के खिलाफ शिकायत दर्ज है। प्रधानमंत्री बालेन शाह की पारदर्शी सरकार की छवि इस घोटाले से प्रभावित हुई है। नेपाल में युवाओं के आंदोलन के बाद प्रधानमंत्री बने बालेन शाह की पारदर्शी सरकार बनाने की मुहिम विवादों में घिर गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सशस्त्र बल न्यायाधिकरण का फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त",
+      "url": "https://www.amarujala.com/india-news/stealing-affection-armed-forces-tribunal-major-dismissed-illicit-relations-with-colleagues-wives-allegation-2026-10-16",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-15T23:59:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/07/court_5f3dd502e4bb33c7fd7add4a71c9b02d.jpeg?w=1200&dpr=1.0",
+      "summary": "सशस्त्र बल न्यायाधिकरण ने एक मेजर को बर्खास्त कर दिया है। अदालत ने पाया कि उसने अपने साथियों की पत्नियों से अवैध संबंध बनाए रखे थे। यह फैसला सैन्य अनुशाहन के उल्लंघन के आधार पर लिया गया है। स्टीलिंग अफेक्शन: सशस्त्र बल न्यायाधिकरण का बड़ा फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त। सशस्त्र बल न्यायाधिकरण का फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सशस्त्र बल न्यायाधिकरण का फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त",
+          "summary": "सशस्त्र बल न्यायाधिकरण ने एक मेजर को बर्खास्त कर दिया है। अदालत ने पाया कि उसने अपने साथियों की पत्नियों से अवैध संबंध बनाए रखे थे। यह फैसला सैन्य अनुशाहन के उल्लंघन के आधार पर लिया गया है। स्टीलिंग अफेक्शन: सशस्त्र बल न्यायाधिकरण का बड़ा फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त। सशस्त्र बल न्यायाधिकरण का फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त।",
+          "region": "दुनिया"
         }
       }
     }

@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 16, 2026 04:52 IST
+**Updated:** October 16, 2026 07:22 IST
 
 ---
 
 ## Asia-Pacific
+
+### [10 years of The Coconut Club: How its S$12.80 nasi lemak challenged the way we value local food](https://www.channelnewsasia.com/dining/coconut-club-10th-anniversary-nasi-lemak-6459016)
+*Channel News Asia* - Oct 16, 05:00 IST (iso: 2026-10-15T23:30:27+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--uuHIPDei--/c_crop,h_1123,w_1997,x_2,y_205/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_west,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/img_5611.jpeg?itok=bJHw6v3q -->
+
+The Coconut Club marked its tenth anniversary in Singapore. The restaurant serves nasi lemak for S$12.80. This price point challenged local norms for traditional food. The owner used an F1 engineer to build a cold-press coconut machine. Staff inspect daily batches of ikan bilis for quality. The decade-long operation focused on specific, high-cost production methods. This approach redefined the perceived value of local dishes. The business model prioritized ingredient sourcing over volume. The restaurant demonstrated that premium pricing could apply to everyday meals.
 
 ### [‘AI lowers the capital needed’: India’s drug discovery push faces test of human trials](https://www.channelnewsasia.com/asia/ai-lowers-capital-needed-indias-drug-discovery-push-faces-test-human-trials-6462176)
 *Channel News Asia* - Oct 16, 03:30 IST (iso: 2026-10-15T22:00:00+00:00)
@@ -94,12 +100,6 @@ Russian ballistic missiles struck Kyiv overnight, killing three people and injur
 
 Russia continues its aerial campaign against Ukrainian infrastructure, targeting apartment buildings, bridges, and power plants. As winter approaches, Kyiv residents are preparing for potential outages. The sustained attacks on the electricity grid aim to degrade civilian resilience during the colder months. Russia shows no sign of letting up on its escalating aerial campaign against Ukraine’s apartment buildings, bridges, power plants, electricity grid, and other targets.
 
-### [How Ukraine's Strikes On Data Centers Disrupted Taxis, Shopping, And Business In Russia And Beyond](https://www.rferl.org/a/ukraine-strikes-data-centers-disruption-shopping-business-russia/33875869.html)
-*Radio Free Europe / Liberty* - Oct 13, 20:48 IST (iso: 2026-10-13T15:18:22+00:00)
-<!-- image: https://gdb.rferl.org/ACE18C82-6BF4-4550-9549-C3154D22D2ED.jpg -->
-
-Ukrainian drone strikes damaged three Yandex data centers in Russia. Repairs will reportedly take months, causing widespread disruption to taxis, shopping, and business. The outages affect operations across Russia and other countries where the tech company operates. Ukrainian drone strikes on three data centers operated by Russia’s Yandex will reportedly take months to repair and have caused widespread disruption in everyday life across Russia and other countries the sprawling tech company operates in.
-
 ---
 
 ## Americas
@@ -114,17 +114,17 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 
 ## Global / Multilateral
 
-### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
-
-A new UN report warns that neurotechnology is outpacing human rights protections. Brain signals from gaming headsets or wellness gadgets could potentially be used as evidence against individuals in court. The report calls for limits on the use of such data. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
-
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
 
 A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
+
+### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
+
+A new UN report warns that neurotechnology is outpacing human rights protections. Brain signals from gaming headsets or wellness gadgets could potentially be used as evidence against individuals in court. The report calls for limits on the use of such data. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 
 ### [WHO urges faster action to end lead exposure which kills 3.5 million annually](https://news.un.org/feed/view/en/story/2026/10/1168600)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
@@ -154,6 +154,12 @@ Senegal authorities detained more than 320 LGBTQ+ individuals since February aft
 
 Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
 
+### [WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery](https://news.un.org/feed/view/en/story/2026/10/1168591)
+*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg -->
+
+The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.
+
 ### [Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable](https://news.un.org/feed/view/en/story/2026/10/1168596)
 *UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-02-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg -->
@@ -165,12 +171,6 @@ The UN and partners are preparing for winter in Gaza despite ongoing attacks on 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg -->
 
 The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.
-
-### [WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery](https://news.un.org/feed/view/en/story/2026/10/1168591)
-*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg -->
-
-The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.
 
 ---
 
