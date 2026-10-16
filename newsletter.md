@@ -1,22 +1,32 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 16, 2026 07:22 IST
+**Updated:** October 16, 2026 12:00 IST
+
+---
+
+## Americas
+
+### [Carney says U.S. trying to break Canada as Alberta votes on separation path](https://www.thehindu.com/news/international/carney-says-us-trying-to-break-canada-as-alberta-votes-on-separation-path/article71591143.ece)
+*The Hindu (International)* - Oct 16, 10:26 IST (iso: 2026-10-16T04:56:53+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/uv8uwn/article71591168.ece/alternates/LANDSCAPE_1200/Canada_Alberta_Separation_94989.jpg -->
+
+Canadian Prime Minister Mark Carney stated that the United States is attempting to break Canada apart. He made these remarks as Alberta prepares to vote on a path toward separation. Carney argued that foreign actors are working to fracture the country so they can control it. He described the current global environment as more dangerous and divided. The referendum in Alberta represents a significant challenge to national unity. Carney framed the issue as an external threat to Canadian sovereignty. The timing of the vote coincides with heightened geopolitical tensions.
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
 
 ---
 
 ## Asia-Pacific
 
-### [10 years of The Coconut Club: How its S$12.80 nasi lemak challenged the way we value local food](https://www.channelnewsasia.com/dining/coconut-club-10th-anniversary-nasi-lemak-6459016)
-*Channel News Asia* - Oct 16, 05:00 IST (iso: 2026-10-15T23:30:27+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--uuHIPDei--/c_crop,h_1123,w_1997,x_2,y_205/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_west,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/14/img_5611.jpeg?itok=bJHw6v3q -->
+### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
+*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
 
-The Coconut Club marked its tenth anniversary in Singapore. The restaurant serves nasi lemak for S$12.80. This price point challenged local norms for traditional food. The owner used an F1 engineer to build a cold-press coconut machine. Staff inspect daily batches of ikan bilis for quality. The decade-long operation focused on specific, high-cost production methods. This approach redefined the perceived value of local dishes. The business model prioritized ingredient sourcing over volume. The restaurant demonstrated that premium pricing could apply to everyday meals.
-
-### [‘AI lowers the capital needed’: India’s drug discovery push faces test of human trials](https://www.channelnewsasia.com/asia/ai-lowers-capital-needed-indias-drug-discovery-push-faces-test-human-trials-6462176)
-*Channel News Asia* - Oct 16, 03:30 IST (iso: 2026-10-15T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--vxjMcuNU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/15/indian_pharma_vaccine_-_afp.jpg?itok=lwq2nrs- -->
-
-Indian biopharmaceutical firms use artificial intelligence to identify drug candidates faster and cheaper. However, industry experts warn the technology only addresses part of the lengthy development process. Human trials remain the critical bottleneck for these AI-assisted discoveries. Indian scientists and biopharmaceutical firms are using artificial intelligence to identify promising drug candidates faster and at lower cost. But industry experts tell CNA the technology can address only part of a lengthy and risky development process.
+North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
 
 ### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
@@ -60,7 +70,7 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 ### [Zelenskyy Vows Refinery Strikes, Expresses Anger At US Intel Disruption](https://www.rferl.org/a/zelenskyy-vows-refinery-strikes-us-intel-disruption-russia/33877090.html)
 *Radio Free Europe / Liberty* - Oct 15, 17:17 IST (iso: 2026-10-15T11:47:24+00:00)
-<!-- image: https://gdb.rferl.org/57b250f6-00d2-4105-6775-08df13a87200_cx0_cy0_cw99_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/64c62395-7fa0-4760-aeed-5afd4c5925aa_cx0_cy10_cw0_w1200_h630.jpg -->
 
 Ukrainian forces struck an oil refinery in Russia's Ryazan region. President Volodymyr Zelenskyy confirmed the resumption of attacks on Russian energy facilities. He also expressed anger over a dangerous disruption of US satellite intelligence that hindered Ukrainian operations. Ukrainian forces have struck an oil refinery in Russia's Ryazan region, Russian officials said, hours after President Volodymyr Zelenskyy said Ukraine would resume attacks on Russian energy facilities and voiced anger over a "dangerous" disruption of satellite intelligence from the United States.
 
@@ -99,16 +109,6 @@ Russian ballistic missiles struck Kyiv overnight, killing three people and injur
 <!-- image: https://gdb.rferl.org/46B28156-DBB9-4670-82AF-603CC76E7C8E.jpg -->
 
 Russia continues its aerial campaign against Ukrainian infrastructure, targeting apartment buildings, bridges, and power plants. As winter approaches, Kyiv residents are preparing for potential outages. The sustained attacks on the electricity grid aim to degrade civilian resilience during the colder months. Russia shows no sign of letting up on its escalating aerial campaign against Ukraine’s apartment buildings, bridges, power plants, electricity grid, and other targets.
-
----
-
-## Americas
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
 
 ---
 

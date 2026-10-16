@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 16, 2026 07:22 IST
-
----
-
-## अमेरिका
-
-### [नौकरी से निकाले गए एफबीआई कर्मी अदालत पहुंचे, बहाली की गुहार; ट्रंप के मामले की जांच से क्या](https://www.amarujala.com/world/fbi-agents-and-analysts-fired-for-roles-in-trump-classified-files-probe-sue-to-get-their-jobs-back-2026-10-16)
-*Amar Ujala World* - Oct 16, 12:41 IST (iso: 2026-10-16T07:11:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/amaraka-rashhatarapata-danalda-tarapa_8e004913adc16623882c3c3bdcc7dd79.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका में नौकरी से निकाले गए एफबीआई कर्मियों ने बहाली के लिए अदालत का दरवाजा खटखटाया है। उनका दावा है कि ट्रंप से जुड़े मामलों की जांच में शामिल होने के कारण उन्हें निकाला गया। अमेरिका: नौकरी से निकाले गए एफबीआई कर्मी अदालत पहुंचे, बहाली की गुहार; ट्रंप के मामले की जांच से क्या कनेक्शन?
-
-### [मादुरो ने यातना के आरोपों को बताया झूठा: पत्नी के साथ अमेरिकी अदालत में पेश; क्या दलील दी और क्या](https://www.amarujala.com/world/ex-venezuelan-president-nicolas-maduro-says-new-torture-allegations-are-false-2026-10-16)
-*Amar Ujala World* - Oct 16, 06:45 IST (iso: 2026-10-16T01:15:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/vanajael-ka-parava-rashhatarapata-nakalsa-mathara_495bb42eb8165bc8a0d7928d75472471.jpeg?w=1200&dpr=1.0 -->
-
-वेनेज़ुएला के राष्ट्रपति मादुरो ने अमेरिकी अदालत में पेशी के दौरान यातना के आरोपों को झूठा बताया। उन्होंने अपनी पत्नी के साथ हाज़िर होकर अपनी बरी की दलील पेश की। अगले कदमों के लिए अदालत का फैसला बाकी है। मादुरो ने यातना के आरोपों को बताया झूठा: पत्नी के साथ अमेरिकी अदालत में पेश; क्या दलील दी और क्या होगा आगे?
-
-### [ओरेगन के प्राइमरी स्कूल में गोलीबारी, चार लोगों की मौत, हमलावर भी मारा गया; क्या सामने आई वजह?](https://www.amarujala.com/world/shooting-at-elementary-school-in-oregon-police-investigate-incident-2026-10-16)
-*Amar Ujala World* - Oct 16, 05:50 IST (iso: 2026-10-16T00:20:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/galbra_e3dc9c2f31b4ddfc81ab7f8c045735bd.jpeg?w=1200&dpr=1.0 -->
-
-ओरेगन के एक प्राइमरी स्कूल में हुई गोलीबारी में चार लोगों की मौत हुई। हमलावर को भी मार दिया गया। घटना की वजह अभी स्पष्ट नहीं है। अमेरिका: ओरेगन के प्राइमरी स्कूल में गोलीबारी, चार लोगों की मौत, हमलावर भी मारा गया; क्या सामने आई वजह?
-
-### [अमेरिका के प्राइमरी स्कूल में ताबड़तोड़ फायरिंग, बच्चों समेत 5 की मौत, हमलावर भी मारा गया](https://hindi.news18.com/world/america-us-firing-news-oregon-elementary-school-shooting-five-people-feared-dead-including-children-10912829.html)
-*News18 Hindi (World)* - Oct 16, 05:39 IST (iso: 2026-10-16T00:09:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/US-Shooting-1-2026-10-0d6804f253cc72ab5311163dcc70ced5-1200x800.jpg -->
-
-ओरेगन के सिल्वर रेल एलीमेंट्री स्कूल में गोलीबारी में पांच लोगों की मौत हुई। हमलावर को मार दिया गया। स्कूल में लॉकडाउन लगाकर पुलिस ने कमरों की जांच शुरू की। US Oregon School Shooting: अमेरिका के ओरेगन स्थित सिल्वर रेल एलीमेंट्री स्कूल में गोलीबारी की घटना हुई है. अधिकारियों के मुताबिक, इस हमले में बच्चों समेत कम से कम पांच लोगों की मौत की आशंका है.
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [हूती विद्रोहियों के हमलों से चिंता, उड़ानों की स्थिति और उमराह पर भारतीय दूतावास ने क्या कहा?](https://www.amarujala.com/world/saudi-arabia-indian-embassy-message-to-community-helpline-umrah-attacks-in-riyadh-houthi-rebels-hindi-news-2026-10-16)
-*Amar Ujala World* - Oct 16, 12:23 IST (iso: 2026-10-16T06:53:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/saudi-indian-envoy-vipul_76c8edea08cec007b370e9da9e1d1c87.jpeg?w=1200&dpr=1.0 -->
-
-सऊदी अरब में हूती विद्रोहियों के हमलों के कारण भारतीय दूतावास ने उड़ानों और उमराह यात्राओं की स्थिति पर जानकारी दी है। दूतावास ने स्थिति की निगरानी जारी रखी है। सऊदी अरब तनाव: हूती विद्रोहियों के हमलों से चिंता गहराई, उड़ानों की स्थिति और उमराह पर भारतीय दूतावास ने क्या कहा? हूती विद्रोहियों के हमलों से चिंता, उड़ानों की स्थिति और उमराह पर भारतीय दूतावास ने क्या कहा?
-
-### [ट्रंप के घर से आया था जेलेंस्की के पर कतरने का आदेश, छूटकू अस्त्रों पर गिरेगी गाज, खुश हुए पुतिन](https://hindi.news18.com/world/america-white-house-orders-to-slow-ukraine-spacex-starshield-service-inside-reports-suggest-ws-l-10912947.html)
-*News18 Hindi (World)* - Oct 16, 06:53 IST (iso: 2026-10-16T01:23:44+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Time-For-Ukraine-New-President-Donald-Trump-2026-10-c49c3f04eee9897318d37c4569e1b460-1200x800.jpg -->
-
-अमेरिका ने यूक्रेन के स्टारलिंक उपयोग पर प्रतिबंध लगाया है। यह निर्देश सफाउस से आया है। इससे जेलेंस्की के ड्रोन ऑपरेशन प्रभावित होंगे। पुतिन को इस कदम से राहत मिली है। White House Ukraine Starlink Order: रूस-यूक्रेन युद्ध के दौरान सबसे ज्यादा फायदा यूक्रेन को अपने ड्रोन ऑपरेशन की वजह से हुआ लेकिन अब अमेरिका की ओर से ऐसा कदम उठाया गया है, जिससे जेलेंस्की का ये अस्त्र बेकार हो सकता है.
-
-### [‘सऊदी वार रूम को बनाया निशाना’: अदन हमले की हूतियों ने ली जिम्मेदारी, सैन्य ठिकानों पर दी कार्रवाई](https://www.patrika.com/world-news/houthis-strike-aden-government-headquarters-yemen-pm-safe-20987379)
-*Patrika (World)* - Oct 16, 06:50 IST (iso: 2026-10-16T01:20:29+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Yemen-Aden-Attack.webp -->
-
-यमन के अदन में हूतियों ने सरकार के मुख्यालय पर हमला किया। उन्होंने सऊदी युद्ध केंद्र को निशाना बनाने का दावा किया। प्रधानमंत्री सुरक्षित रहे। हूतियों ने इसे राज्य व्यवस्था तोड़ने की साजिश कहा। Houthis Aden Government Headquarters Strike: यमन की दक्षिणी नगरी अदन में अंतरराष्ट्रीय मान्यता प्राप्त सरकार के मुख्यालय पर हुए हमले ने एक बार फिर पूरे क्षेत्र को हिला दिया है।
-
-### [अमेरिकी सेना ने ईरान के दावों को बताया झूठा, कहा- सैकड़ों सैनिक नहीं मारे गए, हॉर्मुज पर हमारा](https://www.patrika.com/world-news/centcom-rejects-iran-claims-strait-of-hormuz-gfs-pride-american-army-20987380)
-*Patrika (World)* - Oct 16, 06:45 IST (iso: 2026-10-16T01:15:25+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/hormuz.webp -->
-
-अमेरिकी सेंट्रल कमांड ने ईरान के दावों को खारिज कर दिया। जॉर्डन में सैकड़ों सैनिकों की मृत्यु और होर्मुज पर ईरानी नियंत्रण के दावों को गलत बताया गया। अमेरिका ने जलमार्ग को अपने सहयोगियों के सुरक्षित नियंत्रण में बताया। अमेरिकी सेंट्रल कमांड (CENTCOM) ने पिछले ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) द्वारा किए गए तीन बड़े दावों को खारिज कर दिया है।
-
-### [मंधाना की कप्तानी में नए युग की शुरुआत करेगी भारतीय महिला टीम, जानें कब-कहां देखें मैच](https://www.amarujala.com/cricket/cricket-news/ind-w-vs-zim-w-india-women-vs-zimbabwe-women-1st-t20i-squad-and-live-streaming-details-in-hindi-2026-10-15)
-*Amar Ujala National* - Oct 16, 05:54 IST (iso: 2026-10-16T00:24:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/ind_3d56540135c275d4bc84437ee0de47ab.jpeg?w=1200&dpr=1.0 -->
-
-स्मृति मंधाना भारतीय महिला टीम की कप्तानी संभालेंगी। वे शुक्रवार से शुरू होने वाली सीरीज में पहली बार कप्तान होंगी। भारत और जिम्बाब्वे के बीच तीन मैचों की टी20 सीरीज खेली जाएगी। यह सीरीज दोनों टीमों के लिए अहम है। भारत और जिम्बाब्वे की महिला टीमों के बीच शुक्रवार से तीन मैचों की टी20 सीरीज खेली जाएगी। स्मृति मंधाना इस सीरीज से कप्तान के तौर पर नई जिम्मेदारी संभालेंगी।
-
-### [क्या ईरान पर बरसेगा तबाही वाला बम, इसमें क्या खास, ट्रंप क्यों कर रहे तीन नंवबर का इंतजार?](https://www.amarujala.com/world/explainer-will-the-us-use-the-mother-of-all-bombs-on-iran-what-makes-it-powerful-and-why-wait-until-nov-3-2026-10-15)
-*Amar Ujala World* - Oct 16, 05:54 IST (iso: 2026-10-16T00:24:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/raya-ka-ekasapalnara_9f3f340d75e7fb0172560b4ec1103fc8.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप ईरान पर बमबारी के लिए तीन नंबर का इंतजार कर रहे हैं। सवाल यह है कि क्या तबाही वाला बम गिराया जाएगा। इस बम की खासियत और उसके असर पर चर्चा हो रही है। ईरान पर इसका क्या प्रभाव पड़ेगा, यह देखना होगा। एक्सप्लेनर: क्या ईरान पर बरसेगा तबाही वाला बम, इसमें क्या खास, ट्रंप क्यों कर रहे तीन नंवबर का इंतजार?
-
-### [नेपाल के राजदूतों की भर्ती में बड़ा कांड, सेक्शुअल फेवर और उगाही के आरोप, बालेन शाह फिर फेल!](https://hindi.news18.com/world/south-asia-nepal-ambassador-appointment-scandal-balen-shah-government-faces-heat-over-sexual-harassment-and-extortion-allegations-10912816.html)
-*News18 Hindi (World)* - Oct 16, 05:31 IST (iso: 2026-10-16T00:01:02+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/balen-shah-6-2026-08-0da6eab7d720304f3fc53fb67323483e-1200x800.jpg -->
-
-नेपाल में राजदूत भर्ती प्रक्रिया में गिरि बहादुर सुनार पर यौन उत्पीड़न और 33 लाख रुपये की उगाही के आरोप लगे हैं। सऊदी अरब के लिए चुने गए इस उम्मीदवार के खिलाफ शिकायत दर्ज है। प्रधानमंत्री बालेन शाह की पारदर्शी सरकार की छवि इस घोटाले से प्रभावित हुई है। नेपाल में युवाओं के आंदोलन के बाद प्रधानमंत्री बने बालेन शाह की पारदर्शी सरकार बनाने की मुहिम विवादों में घिर गई है.
-
----
-
-## एशिया-प्रशांत
-
-### [भारत में 23.8 करोड़ लोग आज भी गरीबी से जूझ रहे: बुनियादी सुविधाओं की कमी सबसे बड़ी वजह, क्या कहते](https://www.amarujala.com/india-news/india-multidimensional-poverty-report-23-8-crore-people-living-in-poverty-2026-10-16)
-*Amar Ujala National* - Oct 16, 07:07 IST (iso: 2026-10-16T01:37:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/poverty_5545d0f9e49614271cd3d65a4805a7a2.jpeg?w=1200&dpr=1.0 -->
-
-भारत में 23.8 करोड़ लोग बुनियादी सुविधाओं की कमी के कारण गरीबी में हैं। आंकड़े दिखाते हैं कि मूलभूत आवश्यकताओं का अभाव सबसे बड़ी वजह है। यह स्थिति देश के विकास की गति को प्रभावित कर रही है। भारत में 23.8 करोड़ लोग आज भी गरीबी से जूझ रहे: बुनियादी सुविधाओं की कमी सबसे बड़ी वजह, क्या कहते हैं आंकड़े?
-
-### [आज भारत में दस्तक देने की तैयारी में Tecno का नया 5G फोन: दमदार फीचर्स से लैस होगा Spark 50S, कितनी](https://www.amarujala.com/technology/tech-diary/tecno-spark-50s-5g-launches-india-today-design-colours-expected-price-2026-10-16)
-*Amar Ujala National* - Oct 16, 07:00 IST (iso: 2026-10-16T01:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/takana-saparaka-50esa-5g_868f77b4617853e21b31c562e4b02f59.jpeg -->
-
-टेक्नो ने भारत में स्पार्क 50एस 5जी स्मार्टफोन लॉन्च किया है। यह फोन दमदार फीचर्स के साथ आता है। कंपनी ने इसकी कीमत भी घोषित कर दी है। यह मॉडल बजट सेगमेंट में प्रतिस्पर्धा बढ़ाएगा। आज भारत में दस्तक देने की तैयारी में Tecno का नया 5G फोन: दमदार फीचर्स से लैस होगा Spark 50S, कितनी होगी कीमत?
-
-### ['घर के काम, मेकअप से वर्किंग-डे में घंटे जुड़े': जापानी PM ताकाइची के बयान पर बवाल, मामला क्या?](https://www.amarujala.com/world/gender-roles-housework-and-makeup-add-hours-to-workday-japanese-pm-takaichi-remarks-controversy-hindi-updates-2026-10-16)
-*Amar Ujala World* - Oct 16, 06:33 IST (iso: 2026-10-16T01:03:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/japana-ka-parathhanamatara-ka-byana-para-vavatha_6ef32dc7e168420627af284a5d693d8d.jpeg?w=1200&dpr=1.0 -->
-
-जापान के प्रधानमंत्री ताकाइची के बयान पर विवाद बढ़ गया। उन्होंने कहा कि घर के काम और मेकअप से कार्यदिवस में घंटे जुड़ जाते हैं। इस बयान ने लैंगिक भूमिकाओं पर नए सवाल खड़े कर दिए हैं। लैंगिक भूमिका: 'घर के काम, मेकअप से वर्किंग-डे में घंटे जुड़े': जापानी PM ताकाइची के बयान पर बवाल, मामला क्या?
-
-### [दिल्ली समेत कई राज्यों में बारिश, पांच डिग्री तक गिरा एनसीआर का पारा; पहाड़ों पर बर्फ से रौनक](https://www.amarujala.com/delhi-ncr/winter-arrives-rain-hits-delhi-and-several-other-states-2026-10-16)
-*Amar Ujala National* - Oct 16, 05:52 IST (iso: 2026-10-16T00:22:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/1_0d8515a930b3530faea90b0ba26473c1.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर-पश्चिम भारत में मूसलाधार बारिश और ओलावृष्टि ने किसानों को नुकसान पहुंचाया। दिल्ली समेत कई राज्यों में तापमान पांच डिग्री तक गिरा। पहाड़ी इलाकों में बर्फबारी से मौसम बदला। उत्तर-पश्चिम भारत के कई राज्यों में बृहस्पतिवार को हुई मूसलाधार बारिश, ओलावृष्टि व आंधी-तूफान ने किसानों पर आफत ला दी है। दिल्ली समेत कई राज्यों में बारिश, पांच डिग्री तक गिरा एनसीआर का पारा; पहाड़ों पर बर्फ से रौनक।
-
-### [आज कनॉट प्लेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद](https://www.amarujala.com/live/india-news/abhijeet-dipke-lehra-do-tiranga-march-live-updates-connaught-place-delhi-police-cjp-mumbai-azad-maidan-news-2026-10-16)
-*Amar Ujala National* - Oct 16, 05:42 IST (iso: 2026-10-16T00:12:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/cjp-dipke-kakaraca-janata-parata-ka-sasathapaka-abhajata-thapaka-fail_0267af707453841e4d431938ca62e0eb.png?w=1200&dpr=1.0 -->
-
-सीजेपी समर्थक आज कनॉट पैलेस के पास तिरंगा मार्च के लिए जुटेंगे। दिल्ली से मुंबई तक पुलिस मुस्तैद है। अभिजीत दिपके ने गिरफ्तारी का डर जताया है। तिरंगा फहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद। तिरंगा लहराएंगे दिपके LIVE: आज कनॉट पैलेस के पास जुटेंगे सीजेपी समर्थक, दिल्ली से मुंबई तक हलचल; पुलिस मुस्तैद।
-
----
-
-## यूरोप और रूस
-
-### [नवरात्रि के छठे दिन पहनें इस रंग के कपड़े, मां कात्यायनी की पूजा के लिए ऐसे करें स्टाइल](https://www.amarujala.com/photo-gallery/fashion/navratri-day-6-colour-2026-outfit-ideas-what-to-wear-for-maa-katyayani-puja-2026-10-15)
-*Amar Ujala National* - Oct 16, 07:00 IST (iso: 2026-10-16T01:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/navratri-day-6-colour-maa-katyayni_638e607e5c5af88748b8eee706398246.jpeg?w=1200&dpr=1.0 -->
-
-शारदीय नवरात्रि के छठे दिन 16 अक्टूबर को मां कात्यायनी की पूजा होगी। इस दिन हरे रंग के कपड़े पहनने की परंपरा है। भक्त इस रंग में स्टाइल करके पूजा में शामिल होंगे। यह दिन विशेष महत्व रखता है। Maa Katyayani Favourite Colour: 2026 में शारदीय नवरात्रि का छठा दिन 16 अक्टूबर, शुक्रवार को है। इस दिन मां कात्यायनी की पूजा की जाएगी और प्रचलित नवरात्रि कलर ट्रेंड के अनुसार हरा रंग (Green) आउटफिट के लिए खास रहेगा।
-
-### [प्रदर्शन के चलते आज इन रास्तों पर रहेगा असर, परेशानी से बचने को अपडेट जानकर ही निकलें](https://www.amarujala.com/delhi-ncr/delhi-police-issued-traffic-advisory-yesterday-regarding-cjp-s-tiranga-march-2026-10-15)
-*Amar Ujala Breaking* - Oct 16, 06:31 IST (iso: 2026-10-16T01:01:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/thall-tarafaka-edavaijara_b99ac2af0627532cc8f2a74412f11ea3.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली पुलिस ने कनॉट प्लेस और सेंट्रल पार्क के रास्तों पर ट्रैफिक एडवाइजरी जारी की है। शुक्रवार को सीजेपी के तिरंगा मार्च के कारण इन इलाकों में भीड़ और जाम की उम्मीद है। यात्रियों को वैकल्पिक मार्गों का उपयोग करने की सलाह दी गई है। सेंट्रल पार्क, कनॉट प्लेस में शुक्रवार को कॉकरोच जनता पार्टी (सीजेपी) के प्रस्तावित तिरंगा मार्च को लेकर दिल्ली पुलिस ने ट्रैफिक एडवाइजरी जारी की है।
-
-### [आज इन रास्तों से बचकर निकलें, प्रदर्शन के चलते इन रास्तों पर रहेगा असर](https://www.amarujala.com/video/india-news/delhi-traffic-alert-avoid-these-routes-today-traffic-will-be-affected-in-these-areas-due-to-a-protest-2026-10-16)
-*Amar Ujala National* - Oct 16, 05:45 IST (iso: 2026-10-16T00:15:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/delhi-traffic-advisory-aaja-ina-rasata-sa-bcakara-nakal-cjp-lehra-do-tiranga-march-connaught-place_ec018b5275fa812115957e84fd879607.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली ट्रैफिक पुलिस ने सीजेपी के तिरंगा मार्च को लेकर एडवाइजरी जारी की। प्रदर्शन के चलते कई रास्तों पर असर पड़ेगा। वाहन चालकों को वैकल्पिक मार्गों का उपयोग करने की सलाह दी गई है। दिल्ली में कल तिरंगा मार्च को लेकर हलचल तेज है। कॉकरोच जनता पार्टी यानी सीजेपी के प्रस्तावित तिरंगा मार्च को देखते हुए दिल्ली ट्रैफिक पुलिस ने एडवाइजरी जारी की है।
+**अपडेट:** October 16, 2026 12:00 IST
 
 ---
 
 ## दुनिया
 
-### [अभिजीत दिपके सीपी में फहराएंगे तिरंगा, आगरा-गाजियाबाद के दौरे पर उत्तर प्रदेश के मुख्यमंत्री योगी](https://www.amarujala.com/india-news/16-october-2026-major-event-2026-2026-10-15)
-*Amar Ujala Breaking* - Oct 16, 06:31 IST (iso: 2026-10-16T01:01:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/aaja-ka-khabra_8492f5daa512c5fabc8cb5379142f54b.gif?w=1200&dpr=1.0 -->
+### [एसआईआर विवाद पर राउत बोले- सुप्रीम कोर्ट न्याय की आखिरी उम्मीद, जानें और क्या कहा](https://www.amarujala.com/india-news/sanjay-raut-apologize-on-supreme-court-sir-voter-list-controversy-rahul-gandhi-2026-10-16)
+*Amar Ujala National* - Oct 16, 12:00 IST (iso: 2026-10-16T06:30:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/12/19/shiv-sena-and-rss-bound-by-common-thread-of-hindutva-but-different-ideologically-raut_8b2e61bda46245282c0311e58f625116.jpeg?w=1200&dpr=1.0 -->
 
-उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ आगरा और गाजियाबाद के दौरे पर हैं। वे अभिजीत दिपके स्मारक पर तिरंगा फहराएंगे। यह दौरा शुक्रवार, 16 अक्टूबर को हो रहा है। नमस्कार! आज है शुक्रवार, 16 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं अभिजीत दिपके सीपी में फहराएंगे तिरंगा, आगरा-गाजियाबाद के दौरे पर उत्तर प्रदेश के मुख्यमंत्री योगी।
+संजय राउट ने सुप्रीम कोर्ट को न्याय की अंतिम उम्मीद बताया। उन्होंने सीएनटीसी विवाद पर माफी मांगी। यह कथन न्यायिक प्रक्रिया के संदर्भ में दिया गया। एसआईआर विवाद पर राउत बोले- सुप्रीम कोर्ट न्याय की आखिरी उम्मीद, जानें और क्या कहा।
 
-### [जानें मां कात्यायनी की पूजा विधि, मंत्र, भोग, कथा और आरती](https://www.amarujala.com/photo-gallery/spirituality/festivals/navratri-day-6-2026-maa-katyayani-puja-vidhi-mantra-bhog-katha-aarti-in-hindi-2026-10-15)
-*Amar Ujala Breaking* - Oct 16, 06:24 IST (iso: 2026-10-16T00:54:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/15/maa-katyayani_aac333975654399ee77663aed8901c16.jpeg?w=1200&dpr=1.0 -->
+### [कहीं दामाद तो कहीं पूर्वज! दशहरे पर इन जगहों में रावण की होती है पूजा](https://www.amarujala.com/photo-gallery/lifestyle/travel/dussehra-2026-5-places-in-india-where-ravana-is-not-burnt-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:56 IST (iso: 2026-10-16T06:26:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ravana-dahan-places_c5584d5b3508216cdc22c4145233fee3.jpeg?w=1200&dpr=1.0 -->
 
-नवरात्रि के छठे दिन मां कात्यायनी की आराधना की जाती है। भक्त इस दिन मां को प्रिय पुष्प और भोग अर्पित करते हैं। इस अवसर पर सुख और समृद्धि की कामना की जाती है। पूजा विधि, मंत्र और कथा का पालन किया जाता है। इस दिन भक्त मां को प्रिय पुष्प और भोग अर्पित करके सुख-समृद्धि की कामना करते हैं।
+दशहरा पर बिसरख, मंदसौर और बस्तर में रावण की पूजा की जाती है। इन स्थानों पर रावण दहन की परंपरा अलग है। यह धार्मिक मान्यता स्थानीय संस्कृति से जुड़ी है। Dussehra 2026: जानिए बिसरख, मंदसौर, बस्तर और अन्य जगहों पर रावण दहन की परंपरा क्यों अलग है। पढ़ें दशहरे की अनोखी धार्मिक मान्यताएं। कहीं दामाद तो कहीं पूर्वज! दशहरे पर इन जगहों में रावण की होती है पूजा।
 
-### [अक्तूबर में इस दिन रखा जाएगा आखिरी प्रदोष व्रत, जानें शिव पूजा का शुभ समय](https://www.amarujala.com/photo-gallery/spirituality/festivals/shukra-pradosh-vrat-october-2026-date-shubh-muhurat-in-hindi-2026-10-15)
-*Amar Ujala National* - Oct 16, 06:20 IST (iso: 2026-10-16T00:50:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/06/parathashha-varata-2026_06e1b574422dc02999055531a6f5a16f.jpeg?w=1200&dpr=1.0 -->
+### [9वीं-11वीं में दाखिले की तारीख बढ़ी, अब 22 अक्तूबर तक करें आवेदन; ऐसे भरें फॉर्म](https://www.amarujala.com/education/jnvst-admission-2027-navodaya-vidyalaya-class-9-and-11-application-deadline-extended-to-october-22-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:54 IST (iso: 2026-10-16T06:24:36+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/jnvst-admission-2027_c6ecbb383dde172d51d4ffe515d65c69.jpeg?w=1200&dpr=1.0 -->
 
-अक्टूबर 2026 में आखिरी प्रदोष व्रत इसी महीने रखा जाएगा। यह व्रत भगवान शिव को समर्पित है। कृष्ण और शुक्ल पक्ष की त्रयोदशी तिथि को इसे मनाया जाता है। मान्यता है कि इससे सुख और खुशहाली मिलती है। Shukra Pradosh Vrat October 2026: प्रदोष व्रत भगवान शिव को समर्पित होता है, जो हर महीने कृष्ण और शुक्ल पक्ष की त्रयोदशी तिथि को रखा जाता है।
+जवाहर नवोदय विद्यालयों में नौवीं और ग्यारहवीं कक्षा के लिए आवेदन की अंतिम तिथि बढ़ाई गई है। छात्र अब 22 अक्टूबर 2026 तक ऑनलाइन आवेदन कर सकते हैं। प्रवेश प्रक्रिया पूरी तरह निःशुल्क है। जवाहर नवोदय विद्यालय में कक्षा 9वीं और 11वीं में प्रवेश के लिए आवेदन की अंतिम तिथि बढ़ा दी गई है। शैक्षणिक सत्र 2027-28 के लिए छात्र अब 22 अक्तूबर 2026 तक ऑनलाइन आवेदन कर सकते हैं।
 
-### [कैसे मिला ड्रीम गर्ल का खिताब? शाहरुख खान को बनाया सुपरस्टार, जानें 10 अनसुनी बातें](https://www.amarujala.com/entertainment/bollywood/hema-malini-birthday-special-7-lesser-known-facts-about-the-dream-girl-of-bollywood-2026-10-14)
-*Amar Ujala National* - Oct 16, 05:57 IST (iso: 2026-10-16T00:27:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/hama-malna_e871036f6a14ab431d950a4a85283832.gif?w=1200&dpr=1.0 -->
+### [बार-बार माइग्रेन अटैक के पीछे हो सकते हैं ये ट्रिगर, जानिए इस भयानक सिरदर्द से कैसे बचें](https://www.amarujala.com/photo-gallery/lifestyle/fitness/migraine-pain-triggers-how-to-identify-and-avoid-them-2026-10-15)
+*Amar Ujala National* - Oct 16, 11:53 IST (iso: 2026-10-16T06:23:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/16/migraine_72c96fc92ea360bda34b08508c829b30.jpeg?w=1200&dpr=1.0 -->
 
-हेमा मालिनी के जन्मदिन पर उनके जीवन के अनसुने किस्से सामने आ रहे हैं। शाहरुख खान ने उन्हें सुपरस्टार बनाया था। हिंदी सिनेमा की ड्रीम गर्ल के रूप में उनकी पहचान रही है। उनकी खूबसूरती और डांस की तारीफ की जाती है। हिंदी सिनेमा की ड्रीम गर्ल यानी हेमा मालिनी का नाम सुनते ही खूबसूरती, शानदार अदाकारी और बेहतरीन डांस की याद आती है।
+बार-बार माइग्रेन के पीछे विशिष्ट ट्रिगर हो सकते हैं। शांत कमरे में आराम और ठंडी पट्टी दर्द में राहत देती है। नियमित नींद और ट्रिगर से बचाव आवश्यक है। माइग्रेन एक ऐसा सिरदर्द है जिसमें तेज दर्द, मतली और रोशनी या आवाज के प्रति संवेदनशीलता हो सकती है। शांत कमरे में आराम, ठंडी पट्टी, नियमित नींद और ट्रिगर से बचाव इसमें मददगार हो सकते हैं।
 
-### ['भोग से बर्बाद हो जाती है दशकों की मेहनत': विजय माल्या को लेकर कर्नाटक हाईकोर्ट की सख्त टिप्पणी](https://www.amarujala.com/india-news/karnataka-hc-remark-on-vijay-mallya-pleasure-destroys-decades-of-hard-work-2026-10-16)
-*Amar Ujala Breaking* - Oct 16, 05:32 IST (iso: 2026-10-16T00:02:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/vajaya-malya_4b8061ce5415977e883ac1445b77fd1b.jpeg?w=1200&dpr=1.0 -->
+### [कब मनाई जाएगी अष्टमी-नवमी? जानें सही डेट, महत्व और कन्या पूजन का शुभ मुहूर्त](https://www.amarujala.com/photo-gallery/spirituality/festivals/kab-hai-ashtami-or-navami-2026-date-kanya-pujan-time-in-hindi-2026-10-13)
+*Amar Ujala National* - Oct 16, 11:52 IST (iso: 2026-10-16T06:22:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/shardiya-navratri_c740ebd45d6c946b5588182c216ea924.jpeg?w=1200&dpr=1.0 -->
 
-कर्नाटक हाईकोर्ट ने विजय माल्या के मामले में सख्त टिप्पणी की। कोर्ट ने कहा कि भोग से दशकों की मेहनत बर्बाद हो जाती है। यह टिप्पणी माल्या के व्यवहार पर की गई है। 'भोग से बर्बाद हो जाती है दशकों की मेहनत': विजय माल्या को लेकर कर्नाटक हाईकोर्ट की सख्त टिप्पणी; क्या कहा?
+नवरात्रि में अष्टमी या नवमी को कन्या पूजन किया जाता है। इस दिन व्रती अपने व्रत का पारण करते हैं। यह अनुष्ठान देवी पूजा का अंतिम भाग है। Ashtami or Navami 2026: नवरात्रि में जहां देवी की पूजा-पाठ और उपवास का महत्व होता है, तो वहीं कन्या पूजन भी महत्वपूर्ण माना गया है। नवरात्रि के अंतिम दिनों में साधक द्वारा कन्या पूजन किया जाता है, जिसके बाद व्रती अपने व्रत का पारण कर सकते हैं।
 
-### [सशस्त्र बल न्यायाधिकरण का फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त](https://www.amarujala.com/india-news/stealing-affection-armed-forces-tribunal-major-dismissed-illicit-relations-with-colleagues-wives-allegation-2026-10-16)
-*Amar Ujala National* - Oct 16, 05:29 IST (iso: 2026-10-15T23:59:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/07/court_5f3dd502e4bb33c7fd7add4a71c9b02d.jpeg?w=1200&dpr=1.0 -->
+### [मतदाता सूची से क्यों काटे गए नाम?: घर-घर जाकर बताएगी भाजपा, एसआईआर पर कांग्रेस के हर आरोपों का देगी](https://www.amarujala.com/india-news/bjp-to-conduct-door-to-door-outreach-and-respond-to-every-allegation-made-by-the-congress-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:51 IST (iso: 2026-10-16T06:21:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/esaaaiiaara-para-bhajapa-ka-thashavayapa-abhayana_2cce40a4bfb70248d6b68e7a7a2b6bdb.jpeg?w=1200&dpr=1.0 -->
 
-सशस्त्र बल न्यायाधिकरण ने एक मेजर को बर्खास्त कर दिया है। अदालत ने पाया कि उसने अपने साथियों की पत्नियों से अवैध संबंध बनाए रखे थे। यह फैसला सैन्य अनुशाहन के उल्लंघन के आधार पर लिया गया है। स्टीलिंग अफेक्शन: सशस्त्र बल न्यायाधिकरण का बड़ा फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त। सशस्त्र बल न्यायाधिकरण का फैसला, साथियों की पत्नियों से अवैध संबंध रखने में मेजर बर्खास्त।
+भाजपा ने मतदाता सूची से नाम कटने के आरोपों पर घर-घर जाकर जागरूकता फैलाने का फैसला किया है। पार्टी कांग्रेस के हर आरोप का जवाब देने की तैयारी में है। मतदाता सूची से क्यों काटे गए नाम?: घर-घर जाकर बताएगी भाजपा, एसआईआर पर कांग्रेस के हर आरोपों का देगी।
+
+### [अपने ही शरीर पर अधिकार का संघर्ष](https://www.amarujala.com/photo-gallery/columns/blog/reproductive-rights-the-struggle-for-autonomy-over-one-s-own-body-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:50 IST (iso: 2026-10-16T06:20:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ucaca-nayayalya-na-sabthhata-mahal-ka-garabhapata-ka-anamata-ta-tha-lkana-mamal-ka-najara-naha-manana-ka-tapapanae_0f2beb211e115687425ac41342eb26d8.jpeg?w=1200&dpr=1.0 -->
+
+भारतीय महिलाओं को गर्भ से जुड़े फैसलों के लिए परिवार और अदालतों पर निर्भर रहना पड़ता है। संविधान में समानता के बावजूद यह अधिकार अभी तक पूरी तरह नहीं मिला है। संविधान से मिले समानता और स्वतंत्रता के अधिकारों के बावजूद, गर्भ से जुड़े फैसलों के लिए महिलाओं को परिवार, समाज और अदालतों पर निर्भर रहना पड़ता है। अपने ही शरीर पर अधिकार का संघर्ष।
+
+### [हॉलीवुड पहुंचे विद्युत जामवाल, धालसिम बनकर सिर्फ तीन मिनट का दीदार; कैसी है फिल्म?](https://www.amarujala.com/entertainment/movie-review/vidyut-jamwal-starrer-street-fighter-movie-review-and-rating-in-hindi-hollywood-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:41 IST (iso: 2026-10-16T06:11:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/satarata-faitara_625547c97f35b9159285bbbe2eed1726.jpeg?w=1200&dpr=1.0 -->
+
+विद्युत जामवाल ने 'स्ट्रीट फाइटर' में धालसिम की भूमिका निभाई है। यह हॉलीवुड की पहली फिल्म है जिसमें वह मुख्य भूमिका में हैं। फिल्म में मार्शल आर्ट्स और वीडियो गेम की दुनिया को दर्शाया गया है। विद्युत जामवाल ने ‘स्ट्रीट फाइटर’ से हॉलीवुड में कदम रखा है। फिल्म में मार्शल आर्ट्स, रंगीन किरदार और वीडियो गेम की दुनिया है। लेकिन क्या यह फिल्म अपने एक्शन से दर्शकों का मनोरंजन कर पाती है?
+
+### [यश ने की रणबीर कपूर के समर्पण की तारीफ; फिल्म की रिलीज से पहले दर्शकों से की एकजुट होने की अपील](https://www.amarujala.com/entertainment/yash-praises-ranbir-kapoor-dedication-for-movie-ramayana-actor-urges-fans-to-unite-for-nitesh-tiwari-film-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:31 IST (iso: 2026-10-16T06:01:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ranaebra-kapara-yasha_0a920ed2320a11569c5591a0253e12bd.jpeg?w=1200&dpr=1.0 -->
+
+बंगलूरू में आयोजित प्रमोशनल इवेंट में यश ने रणबीर कपूर के समर्पण की तारीफ की। फिल्म 'रामायण' की रिलीज को कुछ वक्त बाकी है। मेकर्स ने दर्शकों से एकजुट होने की अपील की है। मेकर्स ने इसके प्रमोशन के लिए कमर कस ली है। बीते दिन बंगलूरू में प्रमोशनल इवेंट आयोजित किया गया। यहां एक्टर यश ने रणबीर की जमकर तारीफ की।
+
+### [वायरल होने के चक्कर में फर्स्ट एसी की कहानी गढ़ बैठी महिला, लोगों ने एक झटके में पकड़ लिया झूठ](https://www.amarujala.com/bizarre-news/viral-train-story-raises-questions-over-ac-coach-berths-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:20 IST (iso: 2026-10-16T05:50:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/lugdhaka-na-sata-ka-bthal-maga-3245-rapaya_c8c956d4e9a909dd9892087a2a2aa0e2.jpeg?w=1200&dpr=1.0 -->
+
+सोशल मीडिया पर ट्रेन में सीट विवाद की वायरल हो रही कहानी गलत पाई गई। दावा था कि लड़के ने लड़की को अपनी बर्थ पर जाने को कहा था। लोगों ने तुरंत इस झूठ को पकड़ लिया और कहानी का असली सच सामने आ गया। सोशल मीडिया पर ट्रेन में सीट को लेकर एक लड़की और लड़के के बीच हुए विवाद की कहानी वायरल हो रही है।
+
+### [अमर उजाला शुभ-लाभ महोत्सव का आगाज: त्योहारी सीजन में करें खरीदारी, जीतें कार-बाइक समेत लाखों रुपये](https://www.amarujala.com/business/business-diary/amar-ujala-shubh-labh-mahotsav-begins-shop-during-festive-season-and-win-prizes-worth-lakhs-of-rupees-2026-10-16)
+*Amar Ujala Breaking* - Oct 16, 11:18 IST (iso: 2026-10-16T05:48:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/amara-ujal-shabha-lbha-mahatasava_178527b05cfe1543979f3a4fc5a12644.jpeg?w=1200&dpr=1.0 -->
+
+अमर उजाला ने त्योहारी सीजन के लिए शुभ-लाभ महोत्सव शुरू किया है। इसमें खरीदारी करने वाले ग्राहक कार, बाइक और लाखों रुपये के नकद इनाम जीत सकते हैं। यह प्रमोशनल अभियान त्योहारों के दौरान विशेष रूप से चलाया जा रहा है। अमर उजाला शुभ-लाभ महोत्सव का आगाज: त्योहारी सीजन में करें खरीदारी, जीतें कार-बाइक समेत लाखों रुपये।
+
+### [रामलीला में रावण के साथ जलेगा 30 फुट का 'कॉकरोच' का पुतला, समिति ने बताई क्या है वजह?](https://www.amarujala.com/delhi-ncr/30-foot-tall-effigy-of-a-cockroach-will-be-burnt-alongside-ravana-at-ramlila-in-delhi-2026-10-16)
+*Amar Ujala Breaking* - Oct 16, 10:25 IST (iso: 2026-10-16T04:55:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ravanae-ka-satha-kakaraja-ka-patal-ka-haga-thahana_6feeeb16edc5cf2705f8d495890be8b5.jpeg?w=1200&dpr=1.0 -->
+
+राष्ट्रीय राजधानी की रामलीला में रावण के साथ 30 फुट का कॉकरोच पुतला जलाया जाएगा। समिति ने इसकी वजह बताई। यह प्रतीकात्मक कदम है। राष्ट्रीय राजधानी की एक रामलीला में रावण, कुंभकर्ण और मेघनाद के पुतलों के साथ 30 फुट ऊंचा 'कॉकरोच' का पुतला भी जलाया जाएगा। रामलीला में रावण के साथ जलेगा 30 फुट का 'कॉकरोच' का पुतला, समिति ने बताई क्या है वजह?
+
+### [क्रूरता की हद पार, नरमी बरतने लायक कुछ नहीं; 163 पेज के फैसले में की ये गंभीर टिप्पणियां](https://www.amarujala.com/uttar-pradesh/meerut/court-s-stern-observations-in-163-page-verdict-on-blue-drum-murder-case-2026-10-16)
+*Amar Ujala Breaking* - Oct 16, 09:57 IST (iso: 2026-10-16T04:27:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/aarapa-sahal-oura-masakana-ka-fail-fata_84ef00e532b94fe07676b67d9ecf996f.jpeg?w=1200&dpr=1.0 -->
+
+नीले ड्रम वाले सौरभ हत्याकांड में न्यायाधीश अरविंद कुमार मिश्रा ने 163 पेज का फैसला दिया। उन्होंने गंभीर टिप्पणियां कीं। फैसले में क्रूरता पर जोर दिया गया। बहुचर्चित नीले ड्रम वाले सौरभ हत्याकांड में जिला एवं सत्र न्यायाधीश अरविंद कुमार मिश्रा ने अपने 163 पेज के फैसले में कई गंभीर टिप्पणियां की हैं। क्रूरता की हद पार, नरमी बरतने लायक कुछ नहीं; 163 पेज के फैसले में की ये गंभीर टिप्पणियां।
+
+---
+
+## यूरोप और रूस
+
+### [क्या अमेरिकी सेना के नियंत्रण में मस्क का स्टारलिंक; युद्ध में उलझे यूक्रेन का इंटरनेट कैसे रोका?](https://www.amarujala.com/world/russia-ukraine-war-starlink-service-disruption-elon-musk-star-shield-donald-trump-us-control-explainer-2026-10-16)
+*Amar Ujala World* - Oct 16, 11:52 IST (iso: 2026-10-16T06:22:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/russia-ukraine-war-starlink-service-disruption-elon-musk-star-shield-donald-trump-us-control-explain_0104dcd50a399f17f09d551b4a494d62.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी सेना ने यूक्रेन में स्टारलिंक सेवाओं पर नियंत्रण बढ़ाया है। इससे ड्रोन ऑपरेशन्स और सैन्य संचार प्रभावित हो रहे हैं। कीव को इससे सीधा नुकसान हो रहा है। यूक्रेन युद्ध में स्टारलिंक की क्या भूमिका है? जानें कैसे ड्रोन ऑपरेशन्स, एयर डिफेंस और सैन्य संचार में मस्क की यह सेवा निर्णायक है और इसके रुकने से यूक्रेन को क्या नुकसान हो सकता है?
+
+### [यूक्रेन को मिला धोखा, कीव के सवाल पर मस्क ने झाड़ा पल्ला; क्या है पूरा विवाद?](https://www.amarujala.com/world/starlink-ukraine-service-restrictions-india-national-security-concerns-2026-10-16)
+*Amar Ujala World* - Oct 16, 11:44 IST (iso: 2026-10-16T06:14:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/elna-masaka_6a393c8927764a9454006e9de4b3e481.jpeg?w=1200&dpr=1.0 -->
+
+मस्क ने यूक्रेन के स्टारलिंक सेवा प्रतिबंध के सवाल को नजरअंदाज कर दिया। भारत ने राष्ट्रीय सुरक्षा के हवाले से इस सेवा पर सख्ती की है। यूक्रेन को मिला धोखा, कीव के सवाल पर मस्क ने झाड़ा पल्ला; क्या है पूरा विवाद?
+
+### [ट्रंप बोले- पुतिन से बातचीत आसान, जेलेंस्की से मुश्किल; कीव पर लगाए कई आरोप](https://www.amarujala.com/world/when-will-russia-ukraine-war-end-trump-says-talks-with-putin-would-easy-but-with-zelenskyy-would-be-difficult-2026-10-16)
+*Amar Ujala World* - Oct 16, 10:41 IST (iso: 2026-10-16T05:11:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/danalda-tarapa_404012b665b18f0c26c578665d8182b4.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप ने कहा कि पुतिन से बातचीत आसान है, जेलेंस्की से मुश्किल। उन्होंने कीव पर कई आरोप लगाए। यह टिप्पणी युद्ध समाधान के संदर्भ में आई। ट्रंप बोले- पुतिन से बातचीत आसान, जेलेंस्की से मुश्किल; कीव पर लगाए कई आरोप।
+
+### [दो देशों में एक साथ डोली धरती, हर तरफ मची चीख-पुकार, डर के मारे भागने लगे लोग](https://hindi.news18.com/world/rest-of-world-earthquake-jolts-russia-japan-7-magnitude-kamchatka-no-tsunami-alert-10913328.html)
+*News18 Hindi (World)* - Oct 16, 10:19 IST (iso: 2026-10-16T04:49:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Earthquake_tSunami-alert-2026-07-8bd65ce582c4368ce750792cfa0e05c2-1200x800.jpg -->
+
+रूस के कामचटका में 7 मैग्नीट्यूड का भूकंप आया। जापान में 6.9 मैग्नीट्यूड का भूकंप हुआ। दोनों जगह लोगों ने डर के मारे भागना शुरू किया। Earthquakes Jolts two Countries: आज सुबह दो देशों में धरती के डोलने की खबर आई और दोनों ही जगहों पर इसकी इंटेंसिटी रिक्टर स्केल पर करीब 7 मैग्नीट्यूड रही. दो देशों में एक साथ डोली धरती, हर तरफ मची चीख-पुकार, डर के मारे भागने लगे लोग।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [7 महीने, 84 ठिकाने और 135 से ज्यादा हमले, ईरान ने रखी खाड़ी की गर्दन पर लात, तेल-गैस छोड़ो पानी तक](https://hindi.news18.com/world/middle-east-us-iran-war-precision-iranian-strikes-picked-apart-gulf-infrastructure-destroys-us-war-plan-10913598.html)
+*News18 Hindi (World)* - Oct 16, 11:46 IST (iso: 2026-10-16T06:16:50+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/iran-us-war-2026-10-d191de032c1f2e0355dd28c00645f0c0-1200x800.jpg -->
+
+ईरान ने सात महीने में 84 ठिकानों पर हमले कर खाड़ी की तेल, गैस और पानी की आपूर्ति प्रभावित की है। अमेरिकी सहयोगियों की बुनियादी ढांचे को गंभीर नुकसान हुआ है। US-Iran War Update: ईरान-अमेरिका युद्ध में कुल 7 महीने के अंदर ईरान ने वो रणनीति अपनाई है कि पूरे खाड़ी इलाके को ही थर्रा डाला. हालात ये हो गए कि गल्फ के इंफ्रास्ट्रक्चर को गजब का नुकसान पहुंचाया.
+
+### [ईरान पर परमाणु हथियारों के इस्तेमाल से डोनाल्ड ट्रंप का इनकार, रूस-चीन को लेकर क्या बोले राष्ट्रपति?](https://www.amarujala.com/world/trump-rules-out-nuclear-weapons-against-iran-possible-ground-invasion-2026-10-16)
+*Amar Ujala Breaking* - Oct 16, 11:21 IST (iso: 2026-10-16T05:51:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/21/us-sanctions-10-individuals-in-hezbollah-cash-network-redesignates-group-as-iranian-proxy_5becb66a185fa64f08b013c5f9f7a1be.jpeg?w=1200&dpr=1.0 -->
+
+डोनाल्ड ट्रंप ने ईरान पर परमाणु हथियारों के इस्तेमाल की संभावना को खारिज कर दिया। उन्होंने जमीनी आक्रमण के विकल्प पर भी चर्चा की। रूस और चीन के संबंधों पर भी उनका बयान आया। अमेरिका: ईरान पर परमाणु हथियारों के इस्तेमाल से डोनाल्ड ट्रंप का इनकार, रूस-चीन को लेकर क्या बोले राष्ट्रपति?
+
+---
+
+## एशिया-प्रशांत
+
+### [क्या अगले सीजन में हिस्सा नहीं लेंगे स्टार्क? ऑस्ट्रेलियाई तेज गेंदबाज के खेलने पर संशय क्यों](https://www.amarujala.com/cricket/cricket-news/mitchell-starc-s-availability-for-ipl-2027-remains-uncertain-amid-a-tight-international-schedule-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:36 IST (iso: 2026-10-16T06:06:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ipl_295a1a90cef0e432ab5eb41e1801620e.jpeg?w=1200&dpr=1.0 -->
+
+आईपीएल 2027 के लिए ऑस्ट्रेलियाई तेज गेंदबाज मिचेल स्टार्क के खेलने पर संशय है। वह पहले भी इस टूर्नामेंट से बाहर रह चुके हैं। सीजन शुरू होने से पहले ही इसकी चर्चा शुरू हो गई है। आईपीएल 2027 का सीजन शुरू होने में अभी समय है, लेकिन इससे पहले ही ऑस्ट्रेलियाई तेज गेंदबाज मिचेल स्टार्क के खेलने को लेकर अटकलों का बाजार गर्म हो गया है।
+
+### [आईफोन डुओ के प्री-ऑर्डर्स आज शाम से भारत में शुरू: 2nm चिपसेट और लेटेस्ट A20 प्रो चिपसेट से लैस](https://www.amarujala.com/technology/tech-diary/apple-iphone-duo-foldable-smartphone-pre-orders-begin-india-price-offers-specifications-2026-10-16)
+*Amar Ujala National* - Oct 16, 11:29 IST (iso: 2026-10-16T05:59:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/10/iphone-duo-comparison_05731702055c71617f3083dbc8ffc8bb.jpeg -->
+
+एपल के पहले फोल्डेबल स्मार्टफोन iPhone Duo के प्री-ऑर्डर भारत में शाम 5:30 बजे से शुरू होंगे। इसमें 2nm A20 Pro चिपसेट और डुअल डिस्प्ले मौजूद है। यह प्रीमियम डिवाइस भारतीय बाजार में उतर रहा है। एपल (Apple) के पहले फोल्डेबल स्मार्टफोन iPhone Duo का बेसब्री से इंतजार कर रहे भारतीय ग्राहकों के लिए बड़ी खुशखबरी है। आज शाम 5:30 बजे से भारत में इस प्रीमियम डिवाइस के प्री-ऑर्डर्स शुरू हो रहे हैं।
+
+### [ख्वाजा साहब, सब ठीक? इस्लामाबाद की गर्दन फंसी, रक्षा मंत्री ढूंढ रहे मर्लिन मुनरो की घड़ी](https://hindi.news18.com/world/pakistan-pakistan-defence-minister-trolled-on-social-media-for-solving-merlin-munroe-puzzle-amid-pti-long-protest-10913422.html)
+*News18 Hindi (World)* - Oct 16, 11:08 IST (iso: 2026-10-16T05:38:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/khawaja-asif-2026-10-19f7abae0d4776fd7194f80c5da29c09-1200x800.jpg -->
+
+पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ ने खैबर पख्तूनख्वा में चल रहे हंगामे के बीच मर्लिन मुनरो की घड़ी खोजने में समय बिताया। उनकी यह हरकत सोशल मीडिया पर ट्रोलिंग का शिकार बनी। देश में सुरक्षा स्थिति गंभीर होने के बावजूद उनकी ध्यान भटकाव की आलोचना हो रही है। Pakistan Defence Minister Trolled: पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ आए दिन अपनी किसी न किसी हरकत से सुर्खियों में बने रहते हैं.
+
+### [इंडोनेशिया की आग से सिंगापुर की हवा जहरीली: 16 उड़ानों के रास्ते बदले, कंपनियों पर कार्रवाई की](https://www.amarujala.com/world/singapore-air-turns-toxic-fires-indonesia-16-flights-rerouted-action-prepared-against-companies-responsible-2026-10-16)
+*Amar Ujala World* - Oct 16, 10:45 IST (iso: 2026-10-16T05:15:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/sagapara-ka-hava-haii-jaharal_8b6984ad3c2ec33ba2d2e1d8979668d9.gif?w=1200&dpr=1.0 -->
+
+इंडोनेशिया में जंगल की आगों से सिंगापुर की हवा जहरीली हो गई। इससे 16 उड़ानों के मार्ग बदलने पड़े और हवाई यातायात प्रभावित हुआ। सिंगापुर सरकार ने ज़िम्मेदार कंपनियों के खिलाफ कार्रवाई की तैयारी शुरू कर दी है। इंडोनेशिया की आग से सिंगापुर की हवा जहरीली: 16 उड़ानों के रास्ते बदले, कंपनियों पर कार्रवाई की।
+
+### [अमेरिका में हिंदू मंदिर में गोलीबारी की साजिश का आरोपी निकला नियो नाजी समर्थक, क्या है इसका हिटलर](https://www.patrika.com/world-news/aurora-hindu-temple-shooting-plot-neo-nazi-accused-20987689)
+*Patrika (World)* - Oct 16, 10:21 IST (iso: 2026-10-16T04:51:34+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/US-man-plots-mass-shooting-at-Hindu-temple.webp -->
+
+ऑरोरा हिंदू मंदिर गोलीबारी साजिश का आरोपी नियो नाजी समर्थक निकला। 19 वर्षीय एलेक्जेंड्रोस पापोराकिस को गिरफ्तार किया गया। उसकी विचारधारा चरमपंथी है। Aurora Hindu temple: अमेरिका के इलिनॉय राज्य के ऑरोरा शहर में एक हिंदू मंदिर में भारतीय-अमेरिकियों को निशाना बनाकर सामूहिक गोलीबारी की साजिशकर्ता के नव नाजी और चरमपंथी विचारधारा से जुड़ने की बात सामने आई है। 19 वर्षीय आरोपी एलेक्जेंड्रोस पापोराकिस को अमेरिकी पुलिस ने ऑरोरा के श्री वेंकटेश्वर स्वामी बालाजी मंदिर पर संभावित सामूहिक गोलीबारी की सूचना मिलने के बाद गिरफ्तार किया था।
+
+---
+
+## अमेरिका
+
+### [अमेरिका में हिंदू मंदिर पर हमले के साजिशकर्ता की डायरी में क्या मिला? पुलिस का खुलासा](https://www.amarujala.com/world/illinois-hindu-temple-shooting-plot-foiled-condemnation-white-supremacist-neo-nazi-ideology-2026-10-16)
+*Amar Ujala Breaking* - Oct 16, 10:46 IST (iso: 2026-10-16T05:16:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/02/atlanta-fbi-field-office_e026e6d6dc392bde3f71edb62d5a7505.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में हिंदू मंदिर पर हमले की साजिश रचने वाले व्यक्ति की डायरी में नव-नाजीवाद की विचारधारा मिली। पुलिस ने इस साजिश को नाकाम किया और आरोपी को गिरफ्तार कर लिया। डायरी में सफेद वर्चस्ववाद के विचार स्पष्ट रूप से दर्ज थे। नव-नाजीवाद का पर्दाफाश: अमेरिका में हिंदू मंदिर पर हमले के साजिशकर्ता की डायरी में क्या मिला? पुलिस का खुलासा।
 
 ---
 
