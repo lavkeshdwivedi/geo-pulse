@@ -1,26 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 16, 2026 12:00 IST
-
----
-
-## Americas
-
-### [Carney says U.S. trying to break Canada as Alberta votes on separation path](https://www.thehindu.com/news/international/carney-says-us-trying-to-break-canada-as-alberta-votes-on-separation-path/article71591143.ece)
-*The Hindu (International)* - Oct 16, 10:26 IST (iso: 2026-10-16T04:56:53+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/uv8uwn/article71591168.ece/alternates/LANDSCAPE_1200/Canada_Alberta_Separation_94989.jpg -->
-
-Canadian Prime Minister Mark Carney stated that the United States is attempting to break Canada apart. He made these remarks as Alberta prepares to vote on a path toward separation. Carney argued that foreign actors are working to fracture the country so they can control it. He described the current global environment as more dangerous and divided. The referendum in Alberta represents a significant challenge to national unity. Carney framed the issue as an external threat to Canadian sovereignty. The timing of the vote coincides with heightened geopolitical tensions.
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
+**Updated:** October 16, 2026 17:29 IST
 
 ---
 
 ## Asia-Pacific
+
+### [China considers new export curbs on solar, AI, biotech](https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece)
+*The Hindu (International)* - Oct 16, 17:10 IST (iso: 2026-10-16T11:40:44+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/cfsytv/article71591945.ece/alternates/LANDSCAPE_1200/2026-06-08T083940Z_683439900_RC2GPLAIKHDA_RTRMADP_3_NORTHKOREA-CHINA.jpg -->
+
+China drafted Announcement No. 48 to ban exports of 14 technologies and restrict 26 others. The measures target next-generation solar tech, AI, and biotech. India faces direct impact as it seeks to reduce reliance on Chinese components for its renewable energy goals. The draft plan, “Announcement No. 48”, proposes a complete export ban on 14 technologies and restrictions on 26 more, including next-generation solar technologies that could affect countries such as India seeking to reduce dependence on China.
+
+### [Pakistan to chair IMF, World Bank boards next year for first time since 1953](https://www.thehindu.com/news/international/pakistan-to-chair-imf-world-bank-boards-next-year-for-first-time-since-1953/article71591760.ece)
+*The Hindu (International)* - Oct 16, 17:01 IST (iso: 2026-10-16T11:31:53+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/70sb0e/article71591795.ece/alternates/LANDSCAPE_1200/2026-10-13T020015Z_927683707_RC2SBBATQB9U_RTRMADP_3_IMF-WORLBANK-OUTLOOK.JPG -->
+
+Pakistan will chair the IMF and World Bank boards next year. Ahad Khan Cheema, the country’s World Bank governor, was announced as incoming chair in Bangkok. This marks the first time since 1953 that Pakistan holds these key institutional leadership roles. Minister for Economic Affairs Ahad Khan Cheema, who is also Pakistan’s governor to the World Bank, was formally announced as the incoming chair during the plenary session of the 2026 WBG-IMF Annual Meetings in Bangkok.
+
+### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
+*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
+
+September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
 
 ### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
 *Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
@@ -40,15 +42,27 @@ Afghanistan faces record hunger levels with 15.9 million people facing acute foo
 
 Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
 
-### ['We'll Keep Waiting': Afghanistan's Dead-End Road To China](https://www.rferl.org/a/afghanistan-china-border-road-trade-terrorism/33875730.html)
-*Radio Free Europe / Liberty* - Oct 13, 22:51 IST (iso: 2026-10-13T17:21:49+00:00)
-<!-- image: https://gdb.rferl.org/2fa2984f-0df0-47de-e735-08df13a87301_w1200_h630.jpg -->
-
-Satellite imagery confirms the Taliban completed a road to the China-Afghanistan border. Beijing shows no signs of opening the militarized boundary. The infrastructure project remains a dead end for trade routes. Satellite imagery sourced by RFE/RL confirms Taliban claims they have completed a road that leads up to China's remote border with Afghanistan. However there is no indication Beijing intends to open the militarized boundary any time soon.
-
 ---
 
 ## Europe & Russia
+
+### [US Senators Seek Probe Into Starshield Disruptions As Zelenskyy Attends EU Summit](https://www.rferl.org/a/us-senators-probe-starlink-zelenskyy-eu-summit/33877820.html)
+*Radio Free Europe / Liberty* - Oct 16, 15:12 IST (iso: 2026-10-16T09:42:58+00:00)
+<!-- image: https://gdb.rferl.org/d084528b-2136-4827-9ee6-85616994cf0b_cx0_cy2_cw0_w1200_h630.jpg -->
+
+Nine US senators requested an investigation into satellite system disruptions affecting Ukraine’s military. The bipartisan group acted as European officials rallied around Kyiv. This occurred after President Trump again criticized Ukrainian President Volodymyr Zelenskyy during the EU summit. A bipartisan group of nine US senators has called for an investigation into disruptions to satellite systems supporting Ukraine's military as European officials rallied around Kyiv after President Donald Trump again attacked his Ukrainian counterpart Volodymyr Zelenskyy.
+
+### [Rubio Heads To Central Asia As US Seeks Bigger Role In Region Dominated By Russia, China](https://www.rferl.org/a/rubio-central-asia-russia-china/33876578.html)
+*Radio Free Europe / Liberty* - Oct 16, 15:02 IST (iso: 2026-10-16T09:32:04+00:00)
+<!-- image: https://gdb.rferl.org/60aef9e8-54a8-4bd0-4a8c-08ddfa9ad0a3_cx12_cy12_cw74_w1200_h630.jpg -->
+
+Marco Rubio travels to Uzbekistan to meet with five Central Asian nations. The Trump administration aims to strengthen commercial ties and expand US strategic presence. The region has historically been dominated by Russian and Chinese influence. US Secretary of State Marco Rubio heads to Uzbekistan this weekend for talks with five Central Asian countries as the Trump administration seeks to strengthen commercial ties and expand Washington's strategic presence in the region.
+
+### [Drone strikes in the Black Sea raise fears of Russian escalation to test NATO's response](https://www.thehindu.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article71591367.ece)
+*The Hindu (International)* - Oct 16, 12:35 IST (iso: 2026-10-16T07:05:30+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/v4d9wg/article71591449.ece/alternates/LANDSCAPE_1200/iStock-1809242492.jpg -->
+
+Drone strikes in the Black Sea killed two people and left 25 missing. The attacks targeted exclusive economic zones, threatening global shipping routes. These incidents raise fears of Russian escalation. The strikes risk drawing other nations directly into the war in Ukraine. The attacks in the two countries' exclusive economic zones threaten a global shipping route and have left two people dead, with at least 25 still missing.
 
 ### [Attacking Trump, Zelensky showed lack of judgment](https://asiatimes.com/2026/10/attacking-trump-zelensky-showed-lack-of-judgment/)
 *Asia Times* - Oct 16, 02:53 IST (iso: 2026-10-15T21:23:34+00:00)
@@ -74,18 +88,6 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 Ukrainian forces struck an oil refinery in Russia's Ryazan region. President Volodymyr Zelenskyy confirmed the resumption of attacks on Russian energy facilities. He also expressed anger over a dangerous disruption of US satellite intelligence that hindered Ukrainian operations. Ukrainian forces have struck an oil refinery in Russia's Ryazan region, Russian officials said, hours after President Volodymyr Zelenskyy said Ukraine would resume attacks on Russian energy facilities and voiced anger over a "dangerous" disruption of satellite intelligence from the United States.
 
-### [Ukrainian gain on a drone-filled battlefield](https://asiatimes.com/2026/10/operation-vivaldi-ukrainian-gain-on-a-drone-filled-battlefield/)
-*Asia Times* - Oct 15, 06:57 IST (iso: 2026-10-15T01:27:37+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-War-Artillery.jpg -->
-
-Ukraine announced Operation Vivaldi in mid-September. Forces retaken territory near Lyman. The offensive disrupted Russian advances. Gains remain limited despite heavy drone activity. Russia’s drone and missile attacks on Ukraine’s population and infrastructure continue to dominate coverage of the conflict. But on the ground, Ukraine has been making significant, if still limited, gains. In mid-September, Ukraine formally announced the existence of Operation Vivaldi, which has retaken territory near Lyman and disrupted a Russian advance toward the fortified cities [] The post O.
-
-### [Girls In Hijabs Turned Away From Azerbaijani Schools Amid Protests Over Dress Code](https://www.rferl.org/a/azerbaijan-hijab-ban-school-religion-education/33876714.html)
-*Radio Free Europe / Liberty* - Oct 14, 23:52 IST (iso: 2026-10-14T18:22:25+00:00)
-<!-- image: https://gdb.rferl.org/dde5ad3a-3107-456d-680a-08df13a87200_w1200_h630.jpg -->
-
-Azerbaijani parents and students protested after schools barred girls wearing hijabs from classes. The dispute followed a new ban on clothing deemed incompatible with secular education. The move has intensified friction between religious families and state policy. A new dress-code dispute in Azerbaijan’s public schools has sparked protests by parents and students after reports that girls wearing hijabs, or Islamic headscarf, were turned away from classes.
-
 ### [Ukraine Tests AI-Powered Drones As Debate Grows Over Autonomous Weapons](https://www.rferl.org/a/ukraine-tests-ai-powered-drones-as-debate-grows-over-autonomous-weapons/33876615.html)
 *Radio Free Europe / Liberty* - Oct 14, 20:30 IST (iso: 2026-10-14T15:00:14+00:00)
 <!-- image: https://gdb.rferl.org/29ea34bc-df37-4579-74ed-08df13a869ed_w1200_h630.jpg -->
@@ -104,37 +106,15 @@ The European Union is developing measures to restrict Russian citizens from ente
 
 Russian ballistic missiles struck Kyiv overnight, killing three people and injuring over twenty others. Survivors were rescued from a damaged building. President Volodymyr Zelenskyy stated that Western partners provided no advance warning of the attack, highlighting a gap in intelligence sharing. Moscow launched a wave of ballistic missile attacks on Kyiv overnight, killing at least three people and injuring more than 20.
 
-### [Ukrainians Brace For The Worst Amid Russia's Escalating Air Campaign](https://www.rferl.org/a/ukraine-winter-russian-attacks-preparations-bridges/33874232.html)
-*Radio Free Europe / Liberty* - Oct 14, 15:03 IST (iso: 2026-10-14T09:33:29+00:00)
-<!-- image: https://gdb.rferl.org/46B28156-DBB9-4670-82AF-603CC76E7C8E.jpg -->
-
-Russia continues its aerial campaign against Ukrainian infrastructure, targeting apartment buildings, bridges, and power plants. As winter approaches, Kyiv residents are preparing for potential outages. The sustained attacks on the electricity grid aim to degrade civilian resilience during the colder months. Russia shows no sign of letting up on its escalating aerial campaign against Ukraine’s apartment buildings, bridges, power plants, electricity grid, and other targets.
-
----
-
-## Global / Multilateral
-
-### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
-
-A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
-
-### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
-
-A new UN report warns that neurotechnology is outpacing human rights protections. Brain signals from gaming headsets or wellness gadgets could potentially be used as evidence against individuals in court. The report calls for limits on the use of such data. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
-
-### [WHO urges faster action to end lead exposure which kills 3.5 million annually](https://news.un.org/feed/view/en/story/2026/10/1168600)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image770x420cropped.jpg -->
-
-The World Health Organization urged countries to accelerate efforts to prevent lead exposure. The toxic metal causes more than 3.5 million deaths globally each year. It also affects hundreds of millions of children worldwide. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
-
 ---
 
 ## Middle East & Africa
+
+### [U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack](https://www.thehindu.com/news/international/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/article71544899.ece)
+*The Hindu (International)* - Oct 16, 12:38 IST (iso: 2026-10-16T07:08:43+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/kfm4e8/article71545019.ece/alternates/LANDSCAPE_1200/2026-09-29T121509Z_481150564_RC2ZSNAGWLWC_RTRMADP_3_BRITAIN-USA-FAIRFORD.JPG -->
+
+The U. S. Air Force withdrew all bombers from RAF Fairford in England. This followed an investigation into a planned terror attack at the base. The facility had been used to launch strikes against Iran. The withdrawal completes the removal of the aircraft. Air Force has brought home its bombers stationed at a U. S.-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base.
 
 ### [US banks on bunker-busting Tomahawks to crack China’s missile wall](https://asiatimes.com/2026/10/us-banks-on-bunker-busting-tomahawks-to-crack-chinas-missile-wall/)
 *Asia Times* - Oct 15, 14:37 IST (iso: 2026-10-15T09:07:53+00:00)
@@ -154,11 +134,11 @@ Senegal authorities detained more than 320 LGBTQ+ individuals since February aft
 
 Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
 
-### [WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery](https://news.un.org/feed/view/en/story/2026/10/1168591)
+### [Cholera cases spike amid fight against Ebola](https://news.un.org/feed/view/en/story/2026/10/1168595)
 *UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_Yemen_Food_Distribution_Centre.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg -->
 
-The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Intensifying fighting has cut off life-saving assistance to 800,000 people. Blocked roads and shifting frontlines severely restrict access to Taiz and other conflict zones. Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.
+The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.
 
 ### [Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable](https://news.un.org/feed/view/en/story/2026/10/1168596)
 *UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
@@ -166,11 +146,31 @@ The UN World Food Programme warned of a humanitarian catastrophe in Yemen. Inten
 
 The UN and partners are preparing for winter in Gaza despite ongoing attacks on civilians. OCHA highlighted the urgent need for cold and rainy season support. Humanitarian efforts continue amid persistent violence and displacement in the territory. The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.
 
-### [Cholera cases spike amid fight against Ebola](https://news.un.org/feed/view/en/story/2026/10/1168595)
-*UN News* - Oct 14, 17:30 IST (iso: 2026-10-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/08-12-2025-UNICEF-DR-Congo-02.jpg/image560x340cropped.jpg -->
+---
 
-The WHO reported over 125,000 suspected cholera cases in the Democratic Republic of Congo. The epidemic has caused 3,644 suspected deaths since January 2025. This surge occurs while the country simultaneously battles an ongoing Ebola outbreak. The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.
+## Americas
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
+
+---
+
+## Global / Multilateral
+
+### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
+
+A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
+
+### [WHO urges faster action to end lead exposure which kills 3.5 million annually](https://news.un.org/feed/view/en/story/2026/10/1168600)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image770x420cropped.jpg -->
+
+The World Health Organization urged countries to accelerate efforts to prevent lead exposure. The toxic metal causes more than 3.5 million deaths globally each year. It also affects hundreds of millions of children worldwide. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
 
 ---
 
