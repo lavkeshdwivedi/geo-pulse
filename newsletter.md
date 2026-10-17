@@ -1,48 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 17, 2026 06:23 IST
-
----
-
-## Middle East & Africa
-
-### [Yemen’s Houthis say struck Riyadh airport, other Saudi sites](https://www.thehindu.com/news/international/yemens-houthis-say-struck-riyadh-airport-other-saudi-sites/article71550273.ece)
-*The Hindu (International)* - Oct 17, 06:14 IST (iso: 2026-10-17T00:44:28+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/g7215a/article71550268.ece/alternates/LANDSCAPE_1200/AFP__20260919__C8RQ4WJ__v1__HighRes__SaudiYemenIranUsIsraelWar.jpg -->
-
-Yemen's Houthis claimed attacks on Riyadh airport and other Saudi locations. The United Nations reports the conflict has displaced over 184,000 people. This makes Yemen the region's most active front. The fighting continues to deepen the wider regional crisis. The fighting in Yemen has become the most active front in the West Asia war in recent weeks, displacing more than 1,84,000 people, the United Nations says, and deepening the conflict that has engulfed the wider region.
-
-### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
-*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image560x340cropped.jpg -->
-
-Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
-
-### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
-*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
-
-Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
-
-### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial)
-*The Guardian* - Oct 14, 18:46 IST (iso: 2026-10-14T13:16:30+00:00)
-<!-- image: https://i.guim.co.uk/img/media/28120a16f4ee8133901215c24889ae3476e9eeda/663_0_6627_5304/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a60bfd0a06f78c67f25892073437db01 -->
-
-Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
-
----
-
-## World
-
-### [Reopening Brexit debate a ‘terrible idea’: Conservative leader Badenoch](https://www.thehindu.com/news/international/reopening-brexit-debate-a-terrible-idea-conservative-leader-badenoch/article71556095.ece)
-*The Hindu (International)* - Oct 17, 03:29 IST (iso: 2026-10-16T21:59:40+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/m6td3o/article71556435.ece/alternates/LANDSCAPE_1200/2026-10-07T113723Z_941297990_RC2BYNAMW3A7_RTRMADP_3_BRITAIN-POLITICS-CONSERVATIVES.JPG -->
-
-Conservative leader Kemi Badenoch called reopening the Brexit debate a terrible idea. She argued the process wasted significant time on internal and EU arguments. Badenoch emphasized the need to avoid repeating that circular political process. “Can you imagine having to go through that again?
+**Updated:** October 17, 2026 10:39 IST
 
 ---
 
 ## Americas
+
+### [ICC rejects U.S. sanctions, says 'history will judge this moment'](https://www.thehindu.com/news/international/icc-rejects-us-sanctions-says-history-will-judge-this-moment/article71565060.ece)
+*The Hindu (International)* - Oct 17, 10:14 IST (iso: 2026-10-17T04:44:01+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/bwp8r7/article71565230.ece/alternates/LANDSCAPE_1200/iStock-2218714179.jpg -->
+
+The International Court of Justice rejected U. S. sanctions, calling them an assault on the rule of law. The court stated no one stands above the law. It added that history will judge this moment. The ruling challenges Washington's unilateral legal actions. The sanctions are "an assault on the rule of law and on the very foundations of the international legal order which strikes at the simple principle that no one stands above the law", said the court in a statement.
+
+### [PM Carney says Canadians will decide their future after Elon Musk expresses support for separatism](https://www.thehindu.com/news/international/pm-carney-says-canadians-will-decide-their-future-after-elon-musk-expresses-support-for-separatism/article71562435.ece)
+*The Hindu (International)* - Oct 17, 08:12 IST (iso: 2026-10-17T02:42:16+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/sgaolw/article71562700.ece/alternates/LANDSCAPE_1200/Canada_Energy_Efficiency_52542.jpg -->
+
+Mark Carney said Canadians will decide their future after Elon Musk backed separatism. Alberta votes October 19 on remaining in Canada. Premier Danielle Smith plans to vote to stay. The province may hold a future separation referendum. Alberta is scheduled to hold a vote October 19 on whether the province should remain in Canada or move toward a future referendum on separation; Alberta Premier Danielle Smith has said she will vote to remain in Canada.
 
 ### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
 *The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
@@ -55,6 +29,40 @@ Brazilian Amazon deforestation hit its lowest recorded level since 1988, accordi
 <!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
 
 Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
+
+---
+
+## Asia-Pacific
+
+### [Can cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
+*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
+
+Over 25,000 police officers secured New Delhi to block Cockroach Janta Party protests. Authorities denied permits on public-order grounds. One in six metro stations closed during the operation. The youth-led movement faces heavy state suppression. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
+
+### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
+*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
+
+September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
+
+### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
+*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
+
+North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
+
+### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
+
+Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
+
+### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
+*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
+
+Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
 
 ---
 
@@ -96,12 +104,6 @@ Marco Rubio travels to Uzbekistan to meet with five Central Asian nations. The T
 
 Volodymyr Zelensky criticized Donald Trump after Ukraine struck two Russian oil refineries. Russian Deputy Prime Minister Aleksandr Novak confirmed the attacks on the facilities. Zelensky had previously thwarted a US request to avoid targeting Russian energy infrastructure. Ukrainian President Volodymyr Zelensky’s harsh words about US President Donald Trump were an emotional response after Zelensky deliberately thwarted Trump’s request that Ukraine not strike Russian refineries.
 
-### [Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows](https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina)
-*The Guardian* - Oct 15, 20:30 IST (iso: 2026-10-15T15:00:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/7a3051eb83a4d608d022486b58f9cbc9b2df1160/807_0_7913_6328/master/7913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=630f9edf71b0fc3f9db267657df7860d -->
-
-Santiago Caputo, adviser to Argentine President Milei, claimed the UK is being colonized by Islam. He cited the election of MP Sagal Abdi-Wali as evidence. The post supports Argentina's push for sovereignty over the Falkland Islands. Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s presidentThe chief adviser to Argentina’s president, Javier Milei, has cited the election of Sagal Abdi-Wali to the UK parliament as evidence of the Islamisation of Britain and further reason for Argentina to take sovereignty over the Falkland Islands. In a post on social media, S.
-
 ### [The world is waging a ‘war on nature’ as progress on biodiversity targets lags](https://news.un.org/feed/view/en/story/2026/10/1168607)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image560x340cropped.jpg -->
@@ -128,31 +130,25 @@ Ukraine is deploying artificial intelligence in drones to track and engage targe
 
 ---
 
-## Asia-Pacific
+## Middle East & Africa
 
-### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
-*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
+### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
+*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
 
-September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
+Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
 
-### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
-*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
+### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
+*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
 
-North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
+Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
 
-### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
+### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial)
+*The Guardian* - Oct 14, 18:46 IST (iso: 2026-10-14T13:16:30+00:00)
+<!-- image: https://i.guim.co.uk/img/media/28120a16f4ee8133901215c24889ae3476e9eeda/663_0_6627_5304/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a60bfd0a06f78c67f25892073437db01 -->
 
-Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
-
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
+Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
 
 ---
 
@@ -172,7 +168,7 @@ The World Health Organization urged nations to accelerate lead exposure preventi
 
 ### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
 
 A new UN report warns neurotechnology outpaces human rights laws. Brain data from gaming or wellness devices could become court evidence. The organization called for limits on these technologies. Current legal frameworks fail to protect individuals from misuse. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 
