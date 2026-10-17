@@ -1,13 +1,37 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 17, 2026 18:50 IST
+**अपडेट:** October 17, 2026 22:13 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### ['प्लेन क्रैश करने की थी साजिश, लेकिन मैंने मौत को दी मात', कैप्टन स्मित मच्छर की जुबानी, सामने आई](https://hindi.news18.com/news/nation/captain-smit-machchhar-hospital-interview-uae-media-sky-news-arabia-the-national-10916867.html)
-*News18 Hindi (World)* - Oct 17, 18:47 IST (iso: 2026-10-17T13:17:42+00:00)
+### [यमन के समंदर में खौफनाक मंजर: LNG टैंकर पर स्किफ से फायरिंग, गार्ड्स ने दागे चेतावनी राउंड](https://www.patrika.com/world-news/yaman-tat-lng-tanker-par-firing-ukmto-20991935)
+*Patrika (World)* - Oct 17, 20:53 IST (iso: 2026-10-17T15:23:46+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/skiff-firing-1.webp -->
+
+यमन के अल मुकल्ला से दक्षिण-पूर्व में एक LNG टैंकर पर सात लोगों वाली स्किफ ने दो राउंड फायरिंग की। जहाज के सशस्त्र गार्ड्स ने चेतावनी के तौर पर जवाबी गोलीबारी की। UKMTO ने इस सुरक्षा घटना की पुष्टि की है। Tanker Attack: यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस (UKMTO) ने शनिवार को बताया कि उन्हें यमन के अल मुकल्ला से 140 नॉटिकल मील दक्षिण-पूर्व में मौजूद एक LNG टैंकर से जुड़ी सुरक्षा सेंध की रिपोर्ट मिली है। UKMTO के अनुसार, टैंकर के कैप्टन ने बताया कि सात लोगों से भरी एक छोटी नाव (स्किफ) उनके जहाज के पास आई और उसने जहाज की ओर दो राउंड फायरिंग की।
+
+### [LNG टैंकर पर चली गोलियां, यमन की सेना ने किया हूती हमला नाकाम करने का दावा](https://www.patrika.com/world-news/yemen-conflict-lng-tanker-firing-houthi-attack-prisoners-released-20991859)
+*Patrika (World)* - Oct 17, 20:44 IST (iso: 2026-10-17T15:14:28+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Yemen-Houthi-Conflict.webp -->
+
+यमन की सेना ने दावा किया कि उसने हूती समूह के एक LNG टैंकर पर हमले को नाकाम किया। घटना अल मुकल्ला के पास हुई जहाँ एक छोटी नाव ने जहाज पर फायरिंग की। यमन में चल रहे संघर्ष के बीच यह नया तनाव है। Yemen LNG Tanker Firing: यमन में हूती और यमन की सरकार के बीच होने संघर्ष के बीच कई जगहों से हमले की खबर सामने आ रही है।
+
+### [होर्मुज स्ट्रेट में समुदी बारूदी सुरंग से टकराया 20 लाख बैरल से ज़्यादा कच्चा तेल ले जा रहा](https://www.patrika.com/world-news/supertanker-exploded-after-hitting-naval-mine-in-strait-of-hormuz-20991872)
+*Patrika (World)* - Oct 17, 20:25 IST (iso: 2026-10-17T14:55:20+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/supertanker-explosion-in-hormuz.webp -->
+
+ईरान की IRGC ने बताया कि होर्मुज स्ट्रेट में एक सुपरटैंकर समुद्री बारूद से टकराया। जहाज प्रतिबंधित रास्ते से गुजर रहा था और टक्कर के बाद जोरदार धमाका हुआ। जहाज में 20 लाख बैरल से अधिक कच्चा तेल था। होर्मुज स्ट्रेट (Strait of Hormuz) को अवैध तरीके से पार करने की कोशिश कर रहा एक और जहाज आज समुदी बारूदी सुरंग का शिकार बन गया है।
+
+### [‘अब फैसला अमेरिका के हाथ में’, शांति वार्ता पर ईरान के विदेश मंत्री अब्बास अराघची ने दिया जवाब](https://www.patrika.com/world-news/abbas-araghchi-says-choice-on-peace-negotiations-now-rests-with-us-20991815)
+*Patrika (World)* - Oct 17, 19:47 IST (iso: 2026-10-17T14:17:08+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp -->
+
+ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका के साथ शांति वार्ता पर फैसला अमेरिका के हाथ में होने का दावा किया। दोनों देशों के बीच अभी कोई सहमति नहीं बन पाई है। मध्यस्थों के प्रयास जारी हैं, लेकिन प्रगति की कोई संभावना नहीं दिख रही है। ईरान (Iran) और अमेरिका (United States of America) के बीच शांति वार्ता में अभी ही कोई प्रोग्रेस देखने को नहीं मिल रही है।
+
+### ['मैं ऐसे नहीं मर सकता', कैप्टन स्मित मच्छर की जुबानी, सामने आई फ्लाईदुबई की फ्लाइट FZ1073 की पूरी](https://hindi.news18.com/news/nation/captain-smit-machchhar-hospital-interview-uae-media-sky-news-arabia-the-national-10916867.html)
+*News18 Hindi (World)* - Oct 17, 18:57 IST (iso: 2026-10-17T13:27:04+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Capt-Smit-Machchhar-2026-10-a6416507537a414e578dc6ae267da6cd-1200x800.jpg -->
 
 यूएई में अस्पताल से कैप्टन स्मित मच्छर ने बताया कि को-पायलट ने नमाज के बहाने हमला किया। उन्होंने कॉकपिट का दरवाजा खोल दिया। यात्रियों और सहपायलट ने नियंत्रण संभाला। सैकड़ों लोगों की जान बची। यूएई मीडिया से अस्पताल के बिस्तर से बात करते हुए कैप्टन स्मित मच्छर ने फ्लाइट में हुए उस खौफनाक हादसे की पूरी कहानी बयां की है.
@@ -48,21 +72,61 @@
 
 सऊदी अरब के अल जुबैल से 68 समुद्री मील दूर एक तेल टैंकर पर हमला हुआ। ब्रिटेन की UKMTO ने बताया कि सभी क्रू सुरक्षित बच गए। ओमान के पास हुए हमले में दो भारतीय नाविक अभी भी लापता हैं। सऊदी अरब के अल जुबैल से करीब 68 समुद्री मील उत्तर-पूर्व में एक तेल टैंकर पर हमला हुआ. ब्रिटेन की UKMTO के मुताबिक, जहाज के सभी क्रू सदस्य सुरक्षित हैं और उन्हें बाहर निकाल लिया गया.
 
-### [सऊदी अरब के खिलाफ हूतियों को ईरान की मदद, इजरायल से सहायता लेने पर क्या बोले नेतन्याहू](https://www.patrika.com/world-news/iran-houthis-intelligence-support-saudi-arabia-conflict-20990589)
-*Patrika (World)* - Oct 17, 13:05 IST (iso: 2026-10-17T07:35:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Yemen-Houthi-Conflict.webp -->
+---
 
-वॉल स्ट्रीट जर्नल के अनुसार ईरान ने सऊदी अरब के खिलाफ हूतियों को खुफिया जानकारी दी। ट्रंप ने सऊदी को हूतियों के खिलाफ मदद देने की सलाह दी। नेतन्याहू ने इस पर अपनी प्रतिक्रिया दी। Iran Houthis: मिडिल ईस्ट में बढ़ते तनाव के बीच ईरान, हूती विद्रोहियों और सऊदी अरब के बीच टकराव को लेकर नया दावा सामने आया है।
+## यूरोप और रूस
 
-### [अदन एयरपोर्ट पर हूतियों ने दाग दी मिसाइल, सऊदी अरब ने का दावा, मार गिराए ड्रोन और मिसाइलें](https://hindi.news18.com/world/middle-east-houthi-attack-at-adan-airport-saudi-arabia-claims-to-down-drones-missiles-ws-l-10915921.html)
-*News18 Hindi (World)* - Oct 17, 12:05 IST (iso: 2026-10-17T06:35:53+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/houthi-attack-n-2026-10-01ddf2d6b627ed798963b236a08a69ad-1200x800.jpg -->
+### [फ्रांस में फिर क्रांति की आहट? जल उठा मैक्रों का देश, छात्रों के बाद आम जनता ने किया विद्रोह](https://hindi.news18.com/world/europe-france-new-protests-on-living-costs-public-services-tear-gas-after-student-10917138.html)
+*News18 Hindi (World)* - Oct 17, 20:40 IST (iso: 2026-10-17T15:10:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/france-17-2026-10-8692d440dfff02c79d5e8b6fa4790810-1200x800.jpg -->
 
-यमन में हूती विद्रोहियों ने अदन एयरपोर्ट पर मिसाइलें दागीं। सऊदी अरब ने दावा किया कि उसने ड्रोन और मिसाइलें मार गिराईं। संघर्ष में राष्ट्रपति भवन पर भी हमला हुआ था। Adan Airport hit by Missile-Drones: यमन में हूती विद्रोहियों और सऊदी अरब समर्थित सरकार के बीच चल रहा संघर्ष बढ़ रहा है. पहले तो हूतियों ने राष्ट्रपति भवन की ओर मिसाइलें छोड़ी थीं और अब अदन एयरपोर्ट की ओर हमला किया है.
+फ्रांस में स्कूलों की स्थिति से शुरू हुआ विरोध अब महंगाई और सार्वजनिक सेवाओं तक फैल गया। शनिवार को पेरिस के बाहर 140 प्रदर्शनों में 32,800 लोग शामिल हुए। कई शहरों में पुलिस और प्रदर्शनकारियों के बीच झड़पें हुईं। France News: फ्रांस में स्कूलों की बदहाली और शिक्षकों की कमी से शुरू हुआ विरोध अब महंगाई, आर्थिक असमानता और सार्वजनिक सेवाओं के मुद्दे तक पहुंच गया है.
+
+### [CEC ज्ञानेश कुमार के खिलाफ प्रदर्शन, जवाब में गूंजे ‘मोदी-मोदी’ के नारे](https://www.patrika.com/world-news/cec-gyanesh-kumar-london-protest-counter-protest-modi-supporters-20991849)
+*Patrika (World)* - Oct 17, 20:07 IST (iso: 2026-10-17T14:37:32+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/UK-protest.webp -->
+
+ब्रिटेन में SFI-UK ने लंदन स्थित भारतीय उच्चायोग के बाहर CEC ज्ञानेश कुमार के इस्तीफे की मांग की। प्रदर्शनकारियों ने SIR की विरोध किया। जवाब में समर्थकों ने 'मोदी-मोदी' के नारे लगाए। Indian Diaspora in UK: ब्रिटेन में मुख्य चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ विरोध-प्रदर्शन और उसके विरोध में जवाबी प्रदर्शन हो रहे हैं। ‘स्टूडेंट्स फेडरेशन ऑफ इंडिया-यूके’ (SFI-UK) और अन्य समर्थक लंदन स्थित भारतीय उच्चायोग और पार्लियामेंट स्क्वायर के बाहर एकत्रित हुए।
+
+### [सेब में छिपाया अरबों का हीरा, भूखी नौकरानी ने बिगाड़ा चोरों का खेल, 100 साल बाद फिर होगा दीदार](https://hindi.news18.com/world/europe-grand-conde-pink-diamond-stolen-1926-apple-story-exhibition-after-100-years-10916978.html)
+*News18 Hindi (World)* - Oct 17, 20:00 IST (iso: 2026-10-17T14:30:52+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pink-diamond-2026-10-3dc4a0e8680e91bfa8579a28c0b0dd79-1200x800.jpg -->
+
+फ्रांस का नौ कैरेट का 'ग्रैंड कॉन्डे' गुलाबी हीरा सौ साल बाद फिर प्रदर्शित होगा। 1926 में शांटिली महल से चोरी के बाद इसे खोखले सेब में छिपाया गया था। एक भूखी नौकरानी ने हीरा खाने की कोशिश करके चोरों का खेल बिगाड़ दिया था। France Pink Diamond: फ्रांस का दुर्लभ नौ कैरेट का गुलाबी हीरा 'ग्रैंड कॉन्डे' करीब 100 साल बाद फिर पब्लिक के बीच में दिखाया जाएगा.
+
+### [अमेरिका का यू टर्न और रूस की हुई बल्ले-बल्ले, जेलेंस्की झल्लाए पर रूस ने क्या कहा?](https://hindi.news18.com/world/europe-russia-reacts-after-trump-waives-russia-related-sanctions-shocking-ukraine-ws-l-10916398.html)
+*News18 Hindi (World)* - Oct 17, 14:49 IST (iso: 2026-10-17T09:19:53+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/russia-trump-2026-10-1b66a5c6c94a11ccebbef60d57544d71-1200x800.jpg -->
+
+अमेरिका ने रूस पर नए प्रतिबंधों में छूट दी है। मॉस्को ने इसका स्वागत किया और भविष्य के शांति समझौते में लाभ की उम्मीद जताई। यूक्रेन के राष्ट्रपति जेलेंस्की ने इस फैसले पर असंतोष व्यक्त किया। Russia reaction after US waives Sanctions: अमेरिका ने रूस पर नए प्रतिबंध लगाने वाले कानून में थोड़ी छूट दी है, जिसके बाद रूस की ओर से भी प्रतिक्रिया आई है.
+
+### [अरे गमछा डालिए पहले... किसान के बोलते ही सानी-भूसा करने लगे जर्मन बाबू, हाथों से उठा लिया भैंस का](https://hindi.news18.com/world/south-asia-german-diplomat-feeds-cattle-picks-up-gobar-without-gloves-experiences-village-life-video-goes-viral-10916297.html)
+*News18 Hindi (World)* - Oct 17, 14:15 IST (iso: 2026-10-17T08:45:48+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/germany-man-2026-10-e35d76cccd60f37e5080a667abfb91a6-1200x800.jpg -->
+
+जर्मनी के एक डिप्लोमेट ने गांव में सूट-बूट उतारकर गाय-भैंस का चारा काटा। उन्होंने नंगे हाथों गोबर भी उठाया। किसानों ने उन्हें गमछा पहनने के लिए कहा, जिस पर वे सहम गए। German Diplomat Picks up Gobar in Village: आप क्या कल्पना कर सकते हैं कि कोई विदेशी शख्स गांव में जाकर पशुओं का चारा काटे और नंगे हाथों से गोबर उठा ले?
+
+### ['पुतिन का स्वागत करूंगा', रूसी राष्ट्रपति को खुश करने में यूक्रेन भूल गए ट्रंप, G-20 में बिछाएंगे](https://hindi.news18.com/world/america-donald-trump-ready-to-welcome-vladimir-putin-in-g-20-forgets-about-ukraine-ws-l-10916131.html)
+*News18 Hindi (World)* - Oct 17, 13:13 IST (iso: 2026-10-17T07:43:13+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/cia-chief-john-ratcliffe-moscow-visit-putin-trump-ukraine-war-2026-08-8a5caf60660212b94ae8c11da0908d44-1200x800.jpg -->
+
+डोनाल्ड ट्रंप ने व्लादिमिर पुतिन के साथ अपने रिश्ते को प्राथमिकता दी है। इससे अमेरिका की रूस-यूक्रेन युद्ध में नीति पर सवाल उठ रहे हैं। ट्रंप ने पुतिन का स्वागत करने का संकेत दिया है। Donald Trump- Vladimir Putin Relation: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप इस वक्त कुछ ऐसा कर रहे हैं, जिसके बाद सवाल ये उठ रहा है कि क्या वाकई वो भूल गए हैं कि रूस-यूक्रेन युद्ध में अमेरिका की पॉलिसी क्या थी?
 
 ---
 
 ## एशिया-प्रशांत
+
+### [13,800 साल से अलास्का की बर्फ में दफन था अमेरिका के सबसे पुराने इंसानों का खजाना, मिले हजारों हथियार](https://hindi.news18.com/news/ajab-gajab/viral-archaeologists-discover-oldest-dwelling-13800-year-old-alaska-sheg-xdaltthi-10917020.html)
+*News18 Hindi (World)* - Oct 17, 19:49 IST (iso: 2026-10-17T14:19:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Alaska_Site-2026-10-571d85e84588df739ba7bf724decb2e7-1200x800.jpg -->
+
+अलास्का में 13,800 साल पुरानी 'शैग एक्स्टडाल्थी' बस्ती की खोज हुई है। यहाँ से हजारों पत्थर के हथियार, हड्डी की सुई और पेंडेंट मिले हैं। साथ ही भेड़िए जैसी जानवरों की हड्डियाँ भी मिलीं, जिन्हें अमेरिका के सबसे पुराने पालतू कुत्ते माना जा रहा है। पुरातत्वविदों ने अलास्का में 13,800 साल पुरानी एक इंसानी बस्ती की खोज की है, जिसे पश्चिमी गोलार्ध का सबसे पुराना घर माना जा रहा है.
+
+### [भारत की हुंकार पर पाकिस्तान सेना की गीदड़भभकी, रक्षामंत्री की चेतावनी के बाद परमाणु हथियारों की](https://hindi.news18.com/world/pakistan-rajnath-singh-warning-pakistan-military-commander-response-amer-raza-10916895.html)
+*News18 Hindi (World)* - Oct 17, 19:08 IST (iso: 2026-10-17T13:38:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/asim-munir-7-2026-10-b4ebaa1d355610b5ae2e2dbf6bcc1e93-1200x800.jpg -->
+
+रक्षा मंत्री राजनाथ सिंह की चेतावनी के बाद पाकिस्तान ने कड़ा जवाब देने की धमकी दी है। लेफ्टिनेंट जनरल आमेर रजा ने कहा कि गलत अनुमान का जवाब ऐसा होगा जिसकी कल्पना विरोधी पक्ष नहीं कर सकता। यह बयान सीमा पार आतंकवाद पर नई घटना के संदर्भ में आया है। रक्षा मंत्री राजनाथ सिंह ने सीमा पार आतंकवाद की किसी भी नई घटना पर कड़ा जवाब देने की चेतावनी दी थी.
 
 ### [बांग्लादेश में खसरे से 1,147 मौतें, तारिक रहमान से नहीं सभल रहा, 2 लाख से ज्यादा पर सीधा खतरा](https://hindi.news18.com/world/south-asia-bangladesh-measles-outbreak-1147-deaths-children-falling-vaccination-10916729.html)
 *News18 Hindi (World)* - Oct 17, 18:29 IST (iso: 2026-10-17T12:59:59+00:00)
@@ -99,70 +163,6 @@
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/north-korea-10-2026-10-3e0ff1679f880da893fb7535b38e9c50-1200x800.jpg -->
 
 उत्तर कोरिया ने एआई से लैस जैम-2.0 टॉरपीडो का पानी में परीक्षण किया। गुरुवार को हुए इस परीक्षण में हथियार की क्षमताओं की जांच हुई। दक्षिण कोरिया के विशेषज्ञ इसे सुपरकैविटेटिंग टॉरपीडो मानते हैं। North Korea Navy News: उत्तर कोरिया ने एआई तकनीक से लैस नई ‘जैम-2.0’ टॉरपीडो प्रणाली का पानी के भीतर परीक्षण किया है. सरकारी मीडिया के मुताबिक, गुरुवार को हुए परीक्षण में हथियार की तकनीक और प्रदर्शन से जुड़ी क्षमताओं की जांच की गई.
-
-### [क्या नवाज-बेनजीर की तरह पाकिस्तान छोड़ेंगे इमरान खान? पाकिस्तानी विपक्ष का दावा- जेल में बनाया जा](https://www.patrika.com/world-news/pakistan-former-pm-imran-khan-exile-deal-achakzai-nawaz-benazir-20990445)
-*Patrika (World)* - Oct 17, 12:46 IST (iso: 2026-10-17T07:16:48+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/imran-khan-pakistan.webp -->
-
-पाकिस्तानी विपक्षी नेता महमूद खान अचकजई का दावा है कि इमरान खान पर निर्वासन का दबाव बनाया जा रहा है। यह दावा नवाज शरीफ और बेनजीर भुट्टो के पूर्व निर्वासन की याद दिलाता है। Imran Khan exile: पाकिस्तान की नेशनल असेंबली में विपक्ष के नेता और पख्तूनख्वा मिली अवामी पार्टी (PKMAP) के प्रमुख महमूद खान अचकजई ने दावा किया है कि जेल में बंद पूर्व प्रधानमंत्री और पाकिस्तान तहरीक-ए-इंसाफ (PTI) के संस्थापक इमरान खान पर एक खास राजनीतिक समझौते को मानने के लिए दबाव डाला जा रहा है।
-
-### [पाकिस्तान में डोली धरती, 5.8 मैग्नीट्यूड के भूकंप से सहमे लोग, बलूचिस्तान में था केंद्र](https://hindi.news18.com/world/pakistan-pakistan-jolts-with-earthquake-5-magnitude-update-news-10915813.html)
-*News18 Hindi (World)* - Oct 17, 12:24 IST (iso: 2026-10-17T06:54:01+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-earthquake-2026-10-b86f1711cc3eb08aae8dc1447f07b0db-1200x800.jpg -->
-
-पाकिस्तान के बलूचिस्तान में 5.8 मैग्नीट्यूड का भूकंप आया। केंद्र खुजदार से 48 किलोमीटर दूर था। भारत के कुछ शहरों में हल्के झटके महसूस हुए। Pakistan Earthquake India Termers: पड़ोसी देश पाकिस्तान में लोग तब सहम गए, जब यहां 5.8 तीव्रता का भूकंप महसूस किया गया. पाकिस्तान भूकंप की वजह से भारत के भी कुछ शहरों में झटके आए, हालांकि ये बहुत हल्के थे.
-
-### [उत्तर कोरिया ने एआई-बेस्ड टॉरपीडो सिस्टम का किया परीक्षण, प्योंगयांग ने क्या कहा?](https://www.amarujala.com/world/north-korea-tests-jam-2-ai-guided-torpedo-system-pyongyang-2026-10-17)
-*Amar Ujala World* - Oct 17, 11:45 IST (iso: 2026-10-17T06:15:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/utatara-karayaii-nata-kama-jaga-una_0f53ef0f2d54b4c9b4e5d7fa4d3d3718.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर कोरिया ने एआई-आधारित जैम-2 टॉरपीडो सिस्टम का परीक्षण किया। प्योंगयांग ने इसे अपनी शक्ति का प्रदर्शन बताया। यह नया हथियार समुद्री सुरक्षा के लिए महत्वपूर्ण है। किम जोंग का शक्ति प्रदर्शन: उत्तर कोरिया ने एआई-बेस्ड टॉरपीडो सिस्टम का किया परीक्षण, प्योंगयांग ने क्या कहा?
-
-### [यूएन रिपोर्ट पर भारत का कड़ा ऐतराज: 'अफवाहों को रिपोर्ट का जामा पहनाया', युवाओं को लेकर दावों पर भी](https://www.amarujala.com/world/india-rejects-un-rapporteur-claims-on-youth-protests-calls-report-hearsay-dressed-as-report-2026-10-17)
-*Amar Ujala World* - Oct 17, 10:41 IST (iso: 2026-10-17T05:11:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/anaja-savanprpa-yaena-ma-sathaya-mashana-ka-parathama-sacava_6522c356cff7c4f16c68be9c53cec74e.jpeg?w=1200&dpr=1.0 -->
-
-India lodged a formal protest with the United Nations on 16 October, rejecting a report by a UN special rapporteur on freedom of expression that alleged widespread youth protests over recent policies. New Delhi called the claims hearsay and demanded the document be amended. यूएन रिपोर्ट पर भारत का कड़ा ऐतराज: 'अफवाहों को रिपोर्ट का जामा पहनाया', युवाओं को लेकर दावों पर भी।
-
-### [ऑस्ट्रेलिया में भारतीयों के खिलाफ पोस्टरबाजी, मचा हंगामा, सांसद बोले- नफरत के लिए जगह नहीं](https://hindi.news18.com/world/rest-of-world-anti-indian-racist-poster-in-australia-triggers-outrage-mp-reaction-ws-l-10915755.html)
-*News18 Hindi (World)* - Oct 17, 10:31 IST (iso: 2026-10-17T05:01:23+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/australia-news-2026-10-e6c6cb9aa8c0c171e398cb4419b35285-1200x800.jpg -->
-
-ऑस्ट्रेलिया के सेसनॉक में भारतीयों के खिलाफ नस्लीय पोस्टर चिपकाए गए। स्थानीय सांसद ने इसकी निंदा की। उन्होंने कहा कि नफरत के लिए जगह नहीं है। Anti Indian Racist Poster in Australia: ऑस्ट्रेलिया के न्यू साउथ वेल्स राज्य के सेसनॉक शहर में ऐसी घटना हुई है, जिसने नस्लीय भेदभाव को एक बार फिर से उजागर कर दिया है. यहां भारतीयों और प्रवासियों के खिलाफ भद्दे मैसेज लिखकर पोस्टर चिपकाए गए, जिसके बाद यहां के सांसद को बचाव में उतरना पड़ा.
-
----
-
-## यूरोप और रूस
-
-### [अमेरिका का यू टर्न और रूस की हुई बल्ले-बल्ले, जेलेंस्की झल्लाए पर रूस ने क्या कहा?](https://hindi.news18.com/world/europe-russia-reacts-after-trump-waives-russia-related-sanctions-shocking-ukraine-ws-l-10916398.html)
-*News18 Hindi (World)* - Oct 17, 14:49 IST (iso: 2026-10-17T09:19:53+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/russia-trump-2026-10-1b66a5c6c94a11ccebbef60d57544d71-1200x800.jpg -->
-
-अमेरिका ने रूस पर नए प्रतिबंधों में छूट दी है। मॉस्को ने इसका स्वागत किया और भविष्य के शांति समझौते में लाभ की उम्मीद जताई। यूक्रेन के राष्ट्रपति जेलेंस्की ने इस फैसले पर असंतोष व्यक्त किया। Russia reaction after US waives Sanctions: अमेरिका ने रूस पर नए प्रतिबंध लगाने वाले कानून में थोड़ी छूट दी है, जिसके बाद रूस की ओर से भी प्रतिक्रिया आई है.
-
-### [अरे गमछा डालिए पहले... किसान के बोलते ही सानी-भूसा करने लगे जर्मन बाबू, हाथों से उठा लिया भैंस का](https://hindi.news18.com/world/south-asia-german-diplomat-feeds-cattle-picks-up-gobar-without-gloves-experiences-village-life-video-goes-viral-10916297.html)
-*News18 Hindi (World)* - Oct 17, 14:15 IST (iso: 2026-10-17T08:45:48+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/germany-man-2026-10-e35d76cccd60f37e5080a667abfb91a6-1200x800.jpg -->
-
-जर्मनी के एक डिप्लोमेट ने गांव में सूट-बूट उतारकर गाय-भैंस का चारा काटा। उन्होंने नंगे हाथों गोबर भी उठाया। किसानों ने उन्हें गमछा पहनने के लिए कहा, जिस पर वे सहम गए। German Diplomat Picks up Gobar in Village: आप क्या कल्पना कर सकते हैं कि कोई विदेशी शख्स गांव में जाकर पशुओं का चारा काटे और नंगे हाथों से गोबर उठा ले?
-
-### ['पुतिन का स्वागत करूंगा', रूसी राष्ट्रपति को खुश करने में यूक्रेन भूल गए ट्रंप, G-20 में बिछाएंगे](https://hindi.news18.com/world/america-donald-trump-ready-to-welcome-vladimir-putin-in-g-20-forgets-about-ukraine-ws-l-10916131.html)
-*News18 Hindi (World)* - Oct 17, 13:13 IST (iso: 2026-10-17T07:43:13+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/cia-chief-john-ratcliffe-moscow-visit-putin-trump-ukraine-war-2026-08-8a5caf60660212b94ae8c11da0908d44-1200x800.jpg -->
-
-डोनाल्ड ट्रंप ने व्लादिमिर पुतिन के साथ अपने रिश्ते को प्राथमिकता दी है। इससे अमेरिका की रूस-यूक्रेन युद्ध में नीति पर सवाल उठ रहे हैं। ट्रंप ने पुतिन का स्वागत करने का संकेत दिया है। Donald Trump- Vladimir Putin Relation: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप इस वक्त कुछ ऐसा कर रहे हैं, जिसके बाद सवाल ये उठ रहा है कि क्या वाकई वो भूल गए हैं कि रूस-यूक्रेन युद्ध में अमेरिका की पॉलिसी क्या थी?
-
-### ['भारत को बदनाम करने की हो रही साजिश': लंदन में पीएम मोदी के समर्थन में रैली, सीजेपी के प्रदर्शन पर](https://www.amarujala.com/world/indian-diaspora-rallies-in-london-support-of-pm-modi-outside-high-commission-reach-india-2026-10-17)
-*Amar Ujala World* - Oct 17, 12:17 IST (iso: 2026-10-17T06:47:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/lthana-ma-paema-matha-ka-samarathana-ma-ral_eb1146be37bd6b6b2c61cfc7d104b8ed.jpeg?w=1200&dpr=1.0 -->
-
-लंदन में भारतीय समुदाय ने पीएम मोदी के समर्थन में रैली निकाली। यह प्रदर्शन सीजेपी के प्रदर्शन के जवाब में हुआ। आयोजकों ने इसे भारत को बदनाम करने की साजिश बताया। 'भारत को बदनाम करने की हो रही साजिश': लंदन में पीएम मोदी के समर्थन में रैली, सीजेपी के प्रदर्शन पर क्या कहा?
-
-### [‘खुद खरीद रहा रूसी तेल, चीन को धमकाने की हिम्मत नहीं, भारत पर टैरिफ क्यों?’, पूर्व डिप्लोमैट फैबियन](https://www.patrika.com/world-news/donald-trump-russia-diesel-deal-india-tariffs-kp-fabian-20990287)
-*Patrika (World)* - Oct 17, 11:40 IST (iso: 2026-10-17T06:10:38+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/trump-in-court.webp -->
-
-पूर्व भारतीय डिप्लोमैट केपी फैबियन ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की रूस नीति पर सवाल उठाए हैं। फैबियन का कहना है कि अमेरिका खुद रूस से डीजल खरीदने की कोशिश कर रहा है। इसी वजह से भारत पर टैरिफ लगाने का कोई औचित्य नहीं है। उन्होंने आरोप लगाया कि ट्रंप भारत पर दबाव बनाकर अपने पक्ष में व्यापार समझौता चाहते हैं।
 
 ---
 

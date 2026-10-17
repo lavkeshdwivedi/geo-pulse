@@ -1,90 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 17, 2026 18:50 IST
-
----
-
-## Asia-Pacific
-
-### [Dissanayake highlights ‘good relations’ with India, points to New Delhi’s Katchatheevu stance](https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece)
-*The Hindu (International)* - Oct 17, 17:11 IST (iso: 2026-10-17T11:41:30+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/7udsj7/article71572396.ece/alternates/LANDSCAPE_1200/2025-11-07T095056Z_874635678_RC2JRHA95O3L_RTRMADP_3_SRI-LANKA-BUDGET.JPG -->
-
-Sri Lankan President Dissanayake cited strong bilateral ties, noting India's Supreme Court acknowledgment that Katchatheevu belongs to Sri Lanka. Attorney General R. Venkataramani recently told the court that New Delhi does not intend to reopen the 1974 and 1976 agreements with Colombo. Sri Lankan President says India has acknowledged before its Supreme Court that Katchatheevu belongs to Sri Lanka. Venkataramani told the court that India did not intend reopening the Katchatheevu agreements of 1974 and 1976 with Sri Lanka.
-
-### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
-*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
-
-Over 25,000 police officers deployed across New Delhi to block demonstrations by the Cockroach Janta Party. Authorities denied the youth-led group permission to protest, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
-
-### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
-*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
-
-September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
-
-### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
-*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
-
-North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
-
-### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
-
-Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
-
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
-
----
-
-## Middle East & Africa
-
-### [PM Wong to visit Qatar, UAE in first trip to Middle East since taking office](https://www.channelnewsasia.com/singapore/lawrence-wong-qatar-uae-middle-east-visit-6468046)
-*Channel News Asia* - Oct 17, 14:30 IST (iso: 2026-10-17T09:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Cd1i0l8R--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-23T131214Z_1_LYNXMPEM7M06C_RTROPTP_3_INDONESIA-SINGAPORE.JPG?itok=eTKLWblB -->
-
-Singapore's Prime Minister Wong will visit Qatar and the UAE. This is his first trip to the Middle East since taking office. The visits aim to discuss regional developments and strengthen cooperation. Energy security and economic resilience are key areas of mutual interest. The visits will provide an opportunity for Singapore to exchange views on recent developments in the region and strengthen cooperation with both countries in areas of mutual interest, such as in energy security and economic resilience, said the PMO.
-
-### [Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?](https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html)
-*Radio Free Europe / Liberty* - Oct 17, 13:06 IST (iso: 2026-10-17T07:36:00+00:00)
-<!-- image: https://gdb.rferl.org/db941d25-4d5f-4408-7599-08df13a869ed_w1200_h630.jpg -->
-
-Iran's government has survived war, economic crisis, and widespread protests. Vahid Pourostad of RFE/RL explains the system's endurance. It rests on entrenched networks of power. The opposition remains fractured, preventing a unified challenge to the current regime. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing? Vahid Pourostad of RFE/RL's Negah-e-Farda (Iran Tomorrow) program explains that its survival rests on entrenched networks of power and a fractured opposition.
-
-### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
-*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
-
-Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
-
-### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
-*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
-
-Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
+**Updated:** October 17, 2026 22:13 IST
 
 ---
 
 ## Europe & Russia
+
+### [Indian student groups in London protest against CEC Gyanesh Kumar, SIR; Govt supporters hold](https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece)
+*The Hindu (International)* - Oct 17, 20:55 IST (iso: 2026-10-17T15:25:39+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/qc0lq0/article71597279.ece/alternates/LANDSCAPE_1200/20261017240L.jpg -->
+
+Student groups in London protested against Election Commission of India chief Gyanesh Kumar. A separate group of government supporters held a counter-protest nearby. Metropolitan Police officers kept the two groups apart. The demonstrations took place near the Gandhi statue. While the “Stop Vote Chori” protest cheered for activist Dhruv Rathee as the keynote speaker, chants of “Modi, Modi” rang out from a smaller group across the Gandhi statue, being kept apart by Metropolitan Police officers.
+
+### [Kasparov Says Talks With Putin Pointless, War Is 'Ideological Basis' Of His Rule](https://www.rferl.org/a/kasparov-says-talks-with-putin-pointless-war-is-ideological-basis-of-his-rule/33877974.html)
+*Radio Free Europe / Liberty* - Oct 17, 19:32 IST (iso: 2026-10-17T14:02:23+00:00)
+<!-- image: https://gdb.rferl.org/4c9a5373-3249-41c7-e7af-08df13afe2a0_cx5_cy3_cw94_w1200_h630.jpg -->
+
+Garry Kasparov told RFE/RL that negotiations with Vladimir Putin are pointless. He argued the war serves as the ideological basis of Putin's rule. Kasparov dismissed a proposed US deal to purchase Russian diesel. He stated that a Ukrainian victory would likely end Putin's regime. Russian Chess grandmaster Garry Kasparov tells RFE/RL Putin is set on “liquidating Ukraine” and will not concessions.
 
 ### [Trump Waives Graham Act Sanctions On Russia Before They Take Effect](https://www.rferl.org/a/trump-waives-graham-act-sanctions-on-russia/33878335.html)
 *Radio Free Europe / Liberty* - Oct 17, 13:03 IST (iso: 2026-10-17T07:33:35+00:00)
 <!-- image: https://gdb.rferl.org/5b32fe71-af7f-4c89-bb04-5cebebf97c4a_w1200_h630.jpg -->
 
 Trump waived nearly all sanctions from the Graham Act before they took effect. The bipartisan law aimed to pressure Russia to end its war against Ukraine. The move prompted sharp criticism from Ukraine advocates. Lawmakers from both parties in the US condemned the decision. US President Donald Trump has waived nearly all substantive sanctions, tariffs, and restrictions included in a bipartisan law aimed at pressuring Russia to end its war against Ukraine, prompting sharp criticism from Ukraine advocates and US lawmakers from both parties.
-
-### [Trump waives new Russia sanctions as Ukraine ties slump](https://www.channelnewsasia.com/world/trump-waives-russia-sanctions-oil-gas-energy-6467991)
-*Channel News Asia* - Oct 17, 10:57 IST (iso: 2026-10-17T05:27:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--NT8IBmLg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-06T143239Z_1_LYNXMPEM650Y7_RTROPTP_3_UKRAINE-CRISIS-RUSSIA-USA.JPG?itok=TG8Y_JoY -->
-
-Trump waived new Russia sanctions after striking a deal with Putin. Moscow agreed to release large amounts of diesel into global markets in exchange for the easing of restrictions. The move follows a slump in US-Ukraine ties. US President Donald Trump's reversal on the Russia sanctions comes after he struck a deal with Russia President Vlamidir Putin to ease sanctions on Russia in exchange for Moscow releasing large amounts of diesel into global markets.
 
 ### [China, Russia quietly moving toward a new Arctic axis](https://asiatimes.com/2026/10/china-russia-quietly-moving-toward-a-new-arctic-axis/)
 *Asia Times* - Oct 17, 10:45 IST (iso: 2026-10-17T05:15:49+00:00)
@@ -124,15 +62,77 @@ Marco Rubio travels to Uzbekistan to meet with five Central Asian nations. The T
 
 ### [The world is waging a ‘war on nature’ as progress on biodiversity targets lags](https://news.un.org/feed/view/en/story/2026/10/1168607)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image770x420cropped.jpg -->
 
 The UN warns fewer than half of national biodiversity targets are on track. This report arrives days before the COP17 conference in Yerevan, Armenia. The assessment highlights a significant gap in global efforts to protect plants, animals, and ecosystems from further degradation. Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.
 
-### [Zelenskyy Vows Refinery Strikes, Expresses Anger At US Intel Disruption](https://www.rferl.org/a/zelenskyy-vows-refinery-strikes-us-intel-disruption-russia/33877090.html)
-*Radio Free Europe / Liberty* - Oct 15, 17:17 IST (iso: 2026-10-15T11:47:24+00:00)
-<!-- image: https://gdb.rferl.org/64c62395-7fa0-4760-aeed-5afd4c5925aa_cx0_cy10_cw0_w1200_h630.jpg -->
+---
 
-Ukrainian forces struck an oil refinery in Russia's Ryazan region. President Volodymyr Zelenskyy confirmed the resumption of attacks on Russian energy facilities. He also expressed anger over a dangerous disruption of US satellite intelligence that hindered Ukrainian operations. Ukrainian forces have struck an oil refinery in Russia's Ryazan region, Russian officials said, hours after President Volodymyr Zelenskyy said Ukraine would resume attacks on Russian energy facilities and voiced anger over a "dangerous" disruption of satellite intelligence from the United States.
+## Middle East & Africa
+
+### [Gunmen kill 24 in Nigerian attacks](https://www.thehindu.com/news/international/gunmen-kill-24-in-nigerian-attacks/article71576595.ece)
+*The Hindu (International)* - Oct 17, 19:41 IST (iso: 2026-10-17T14:11:18+00:00)
+<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
+
+Armed attackers killed 24 people in recent strikes across two Nigerian regions. The violence is attributed to local gangs known as bandits. These groups engage in kidnapping for ransom and cattle rustling. Jihadist factions are also implicated in the escalating regional attacks. There has been a recent increase in attacks on communities in the two regions, blamed on gangs engaged in kidnapping for ransom and cattle rustling.
+
+### [PM Wong to visit Qatar, UAE in first trip to Middle East since taking office](https://www.channelnewsasia.com/singapore/lawrence-wong-qatar-uae-middle-east-visit-6468046)
+*Channel News Asia* - Oct 17, 14:30 IST (iso: 2026-10-17T09:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Cd1i0l8R--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-23T131214Z_1_LYNXMPEM7M06C_RTROPTP_3_INDONESIA-SINGAPORE.JPG?itok=eTKLWblB -->
+
+Singapore's Prime Minister Wong will visit Qatar and the UAE. This is his first trip to the Middle East since taking office. The visits aim to discuss regional developments and strengthen cooperation. Energy security and economic resilience are key areas of mutual interest. The visits will provide an opportunity for Singapore to exchange views on recent developments in the region and strengthen cooperation with both countries in areas of mutual interest, such as in energy security and economic resilience, said the PMO.
+
+### [Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?](https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html)
+*Radio Free Europe / Liberty* - Oct 17, 13:06 IST (iso: 2026-10-17T07:36:00+00:00)
+<!-- image: https://gdb.rferl.org/db941d25-4d5f-4408-7599-08df13a869ed_w1200_h630.jpg -->
+
+Iran's government has survived war, economic crisis, and widespread protests. Vahid Pourostad of RFE/RL explains the system's endurance. It rests on entrenched networks of power. The opposition remains fractured, preventing a unified challenge to the current regime. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing? Vahid Pourostad of RFE/RL's Negah-e-Farda (Iran Tomorrow) program explains that its survival rests on entrenched networks of power and a fractured opposition.
+
+### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
+*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
+
+Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
+
+### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
+*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
+
+Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
+
+---
+
+## Asia-Pacific
+
+### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
+*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
+
+Over 25,000 police officers deployed across New Delhi to block demonstrations by the Cockroach Janta Party. Authorities denied the youth-led group permission to protest, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
+
+### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
+*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
+
+September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
+
+### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
+*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
+
+North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
+
+### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
+
+Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
+
+### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
+*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
+
+Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
 
 ---
 
@@ -154,9 +154,15 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 
 ## Global / Multilateral
 
+### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
+
+A new United Nations report warns that brain signals from gaming headsets or wellness gadgets could serve as court evidence. The document states that neurotechnology is advancing faster than the legal frameworks designed to protect human rights and individual privacy. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
+
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
 
 A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
 
@@ -165,12 +171,6 @@ A new UN report warns rapid transitions in AI, green energy, and demographics ri
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image560x340cropped.jpg -->
 
 The World Health Organization urged nations to accelerate lead exposure prevention efforts. The toxic metal causes over 3.5 million deaths annually. It also affects hundreds of millions of children worldwide. The agency called for faster action to address this persistent public health crisis. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
-
-### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image560x340cropped.jpg -->
-
-A new United Nations report warns that brain signals from gaming headsets or wellness gadgets could serve as court evidence. The document states that neurotechnology is advancing faster than the legal frameworks designed to protect human rights and individual privacy. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 
 ---
 
