@@ -1,6 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 17, 2026 03:47 IST
+**Updated:** October 17, 2026 06:23 IST
+
+---
+
+## Middle East & Africa
+
+### [Yemen’s Houthis say struck Riyadh airport, other Saudi sites](https://www.thehindu.com/news/international/yemens-houthis-say-struck-riyadh-airport-other-saudi-sites/article71550273.ece)
+*The Hindu (International)* - Oct 17, 06:14 IST (iso: 2026-10-17T00:44:28+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/g7215a/article71550268.ece/alternates/LANDSCAPE_1200/AFP__20260919__C8RQ4WJ__v1__HighRes__SaudiYemenIranUsIsraelWar.jpg -->
+
+Yemen's Houthis claimed attacks on Riyadh airport and other Saudi locations. The United Nations reports the conflict has displaced over 184,000 people. This makes Yemen the region's most active front. The fighting continues to deepen the wider regional crisis. The fighting in Yemen has become the most active front in the West Asia war in recent weeks, displacing more than 1,84,000 people, the United Nations says, and deepening the conflict that has engulfed the wider region.
+
+### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
+*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image560x340cropped.jpg -->
+
+Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
+
+### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
+*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
+
+Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
+
+### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial)
+*The Guardian* - Oct 14, 18:46 IST (iso: 2026-10-14T13:16:30+00:00)
+<!-- image: https://i.guim.co.uk/img/media/28120a16f4ee8133901215c24889ae3476e9eeda/663_0_6627_5304/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a60bfd0a06f78c67f25892073437db01 -->
+
+Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
+
+---
+
+## World
+
+### [Reopening Brexit debate a ‘terrible idea’: Conservative leader Badenoch](https://www.thehindu.com/news/international/reopening-brexit-debate-a-terrible-idea-conservative-leader-badenoch/article71556095.ece)
+*The Hindu (International)* - Oct 17, 03:29 IST (iso: 2026-10-16T21:59:40+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/m6td3o/article71556435.ece/alternates/LANDSCAPE_1200/2026-10-07T113723Z_941297990_RC2BYNAMW3A7_RTRMADP_3_BRITAIN-POLITICS-CONSERVATIVES.JPG -->
+
+Conservative leader Kemi Badenoch called reopening the Brexit debate a terrible idea. She argued the process wasted significant time on internal and EU arguments. Badenoch emphasized the need to avoid repeating that circular political process. “Can you imagine having to go through that again?
 
 ---
 
@@ -66,7 +104,7 @@ Santiago Caputo, adviser to Argentine President Milei, claimed the UK is being c
 
 ### [The world is waging a ‘war on nature’ as progress on biodiversity targets lags](https://news.un.org/feed/view/en/story/2026/10/1168607)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image560x340cropped.jpg -->
 
 The UN warns fewer than half of national biodiversity targets are on track. This report arrives days before the COP17 conference in Yerevan, Armenia. The assessment highlights a significant gap in global efforts to protect plants, animals, and ecosystems from further degradation. Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.
 
@@ -76,33 +114,21 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 Ukrainian forces struck an oil refinery in Russia's Ryazan region. President Volodymyr Zelenskyy confirmed the resumption of attacks on Russian energy facilities. He also expressed anger over a dangerous disruption of US satellite intelligence that hindered Ukrainian operations. Ukrainian forces have struck an oil refinery in Russia's Ryazan region, Russian officials said, hours after President Volodymyr Zelenskyy said Ukraine would resume attacks on Russian energy facilities and voiced anger over a "dangerous" disruption of satellite intelligence from the United States.
 
+### [Girls In Hijabs Turned Away From Azerbaijani Schools Amid Protests Over Dress Code](https://www.rferl.org/a/azerbaijan-hijab-ban-school-religion-education/33876714.html)
+*Radio Free Europe / Liberty* - Oct 14, 23:52 IST (iso: 2026-10-14T18:22:25+00:00)
+<!-- image: https://gdb.rferl.org/dde5ad3a-3107-456d-680a-08df13a87200_w1200_h630.jpg -->
+
+Azerbaijani parents and students protested after schools turned away girls wearing hijabs. The action followed a new ban on clothing deemed incompatible with secular education. The dispute has sparked public backlash over the dress code enforcement in public schools. A new dress-code dispute in Azerbaijan’s public schools has sparked protests by parents and students after reports that girls wearing hijabs, or Islamic headscarf, were turned away from classes.
+
 ### [Ukraine Tests AI-Powered Drones As Debate Grows Over Autonomous Weapons](https://www.rferl.org/a/ukraine-tests-ai-powered-drones-as-debate-grows-over-autonomous-weapons/33876615.html)
 *Radio Free Europe / Liberty* - Oct 14, 20:30 IST (iso: 2026-10-14T15:00:14+00:00)
 <!-- image: https://gdb.rferl.org/29ea34bc-df37-4579-74ed-08df13a869ed_w1200_h630.jpg -->
 
 Ukraine is deploying artificial intelligence in drones to track and engage targets. Military officials confirm humans retain control over lethal decisions. Developers caution that fully autonomous weapons systems are approaching operational reality on the battlefield. Ukraine is increasingly using artificial intelligence in drones and other battlefield systems to track, identify, and attack targets. Military officials say humans still remain in control of lethal decisions, but developers warn that fully autonomous weapons are moving closer to reality.
 
-### [EU Working On Multiple Fronts To Limit Russians From Entering Bloc](https://www.rferl.org/a/eu-limits-russians-entering-bloc/33876561.html)
-*Radio Free Europe / Liberty* - Oct 14, 18:41 IST (iso: 2026-10-14T13:11:48+00:00)
-<!-- image: https://gdb.rferl.org/0CB8DA98-C0C2-4386-96CC-AC7F48CBA875.jpg -->
-
-The European Union is developing measures to restrict Russian citizens from entering the bloc. Officials are considering a total ban on non-essential travel into the Schengen zone. These efforts aim to limit movement across multiple policy fronts. The European Union is working on multiple fronts to limit the number of Russian citizens that can enter the bloc, including the nuclear option of a total ban on all non-essential travel into the club’s Schengen zone.
-
 ---
 
 ## Asia-Pacific
-
-### [China says ready to address each other’s concerns after FM Sitharaman flags trade barriers](https://www.thehindu.com/news/international/china-says-ready-to-address-each-others-concerns-after-fm-sitharaman-flags-trade-barriers/article71593446.ece)
-*The Hindu (International)* - Oct 16, 23:11 IST (iso: 2026-10-16T17:41:17+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/sm0nn7/article71594063.ece/alternates/LANDSCAPE_1200/CCEA-approves-sG80GLQL0L.4.jpg.jpg -->
-
-Finance Minister Nirmala Sitharaman told China to address India's trade barriers. The bilateral deficit crossed one hundred billion dollars in nine months. India cited persistent restrictions on market access for its products. Beijing said it was ready to resolve these concerns. Reacting to India’s trade deficit with China crossing $100 billion in the first nine months, Nirmala Sitharaman said the growing trade imbalance and persistent restrictions on market access for Indian products remained major concerns, despite years of engagement with Beijing.
-
-### [Ganga Water Treaty is ‘flawed’, needs to be updated: Bangladesh river expert](https://www.thehindu.com/news/international/ganga-water-treaty-is-flawed-needs-to-be-updated-bangladesh-river-expert/article71552590.ece)
-*The Hindu (International)* - Oct 16, 23:06 IST (iso: 2026-10-16T17:36:03+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/vwwvch/article71553000.ece/alternates/LANDSCAPE_1200/iStock-1435404243.jpg -->
-
-Manjur A. Chowdhury called the Ganga Water Treaty flawed. The three-decade-old agreement lacks a guarantee clause. It also ignores ecological and environmental flow requirements. The Bangladesh River Conservation Commission chairman urged an update to the framework. “The Ganga Water Treaty is three decades old and flawed as it does not include a guarantee clause. It also does not have ecological flow and environmental flow considerations,” Manjur A.
 
 ### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
 *Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
@@ -130,33 +156,11 @@ Indonesia is testing dry ice dispersal in South Sumatra. The government deployed
 
 ---
 
-## Middle East & Africa
-
-### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
-*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
-
-Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
-
-### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
-*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
-
-Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
-
-### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial)
-*The Guardian* - Oct 14, 18:46 IST (iso: 2026-10-14T13:16:30+00:00)
-<!-- image: https://i.guim.co.uk/img/media/28120a16f4ee8133901215c24889ae3476e9eeda/663_0_6627_5304/master/6627.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a60bfd0a06f78c67f25892073437db01 -->
-
-Guinea-Bissau's health minister stated the government did not authorize a Danish-led hepatitis B trial in newborns. The study, backed by the US government and private partners, would not test vaccine safety or effectiveness. The ministry denied approval for the controversial research. Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would inst.
-
----
-
 ## Global / Multilateral
 
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg -->
 
 A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
 
@@ -168,7 +172,7 @@ The World Health Organization urged nations to accelerate lead exposure preventi
 
 ### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image560x340cropped.jpg -->
 
 A new UN report warns neurotechnology outpaces human rights laws. Brain data from gaming or wellness devices could become court evidence. The organization called for limits on these technologies. Current legal frameworks fail to protect individuals from misuse. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 

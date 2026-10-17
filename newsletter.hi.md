@@ -1,46 +1,68 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 17, 2026 03:47 IST
+**अपडेट:** October 17, 2026 06:23 IST
+
+---
+
+## अमेरिका
+
+### [किसी का इस्तीफा तो कोई बर्खास्त...: महिलाओं को बाहर कर रहा डोनाल्ड ट्रंप प्रशासन; आखिर इसकी वजह](https://www.amarujala.com/world/trump-administration-removes-women-some-resign-others-fired-questions-over-double-standards-2026-10-17)
+*Amar Ujala World* - Oct 17, 06:20 IST (iso: 2026-10-17T00:50:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/19/trump-attacks-a-news-correspondent-mary-bruce-in-angry-response-to-three-sharp-questions_a86f5361339b76a4afbf0d898ede34ed.jpeg?w=1200&dpr=1.0 -->
+
+डोनाल्ड ट्रंप प्रशासन ने महिला अधिकारियों को हटाने की प्रक्रिया तेज कर दी है। कई महिलाओं ने इस्तीफा दिया, जबकि कुछ को बर्खास्त कर दिया गया। प्रशासन का यह कदम संस्थागत स्तर पर महिलाओं की उपस्थिति को प्रभावित कर रहा है। किसी का इस्तीफा तो कोई बर्खास्त: महिलाओं को बाहर कर रहा डोनाल्ड ट्रंप प्रशासन; आखिर इसकी वजह क्या है?
 
 ---
 
 ## दुनिया
 
-### [आईपीएस अधिकारी के मानहानि नोटिस पर भड़के राजद सांसद: सीएम को लिखा खुला पत्र; पूछा- क्या सरकार से ली](https://www.amarujala.com/bihar/rjd-mp-writes-open-letter-to-bihar-cm-after-getting-defamation-notice-from-ips-officer-2026-10-17)
-*Amar Ujala Breaking* - Oct 17, 12:33 IST (iso: 2026-10-17T07:03:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/03/rajatha-sasatha-sathhakara-saha_6c4a1c8777fa556a8e7b4842667587ce.jpeg?w=1200&dpr=1.0 -->
+### [मेरठ में दो दिन में चार दोषियों को मृत्युदंड, पति की हत्या आरोपी महिलाओं में बढ़ी बेचैनी](https://www.amarujala.com/uttar-pradesh/muzaffarnagar/four-convicts-sentenced-to-death-in-meerut-in-two-days-anxiety-among-women-accused-of-murdering-husbands-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 06:19 IST (iso: 2026-10-17T00:49:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ravata-amata-kashayapa-hatayakada_1f3d118af8b059a2d78b3abef68430fe.jpeg?w=1200&dpr=1.0 -->
 
-राजद सांसद ने आईपीएस अधिकारी के मानहानि नोटिस पर मुख्यमंत्री को खुला पत्र लिखा। उन्होंने सरकार से अनुमति के प्रश्न उठाए। यह कदम प्रशासनिक कार्रवाई पर सार्वजनिक बहस शुरू करता है। आईपीएस अधिकारी के मानहानि नोटिस पर भड़के राजद सांसद: सीएम को लिखा खुला पत्र; पूछा- क्या सरकार से ली थी अनुमति?
+मेरठ में दो दिन के भीतर चार दोषियों को मृत्युदंड सुनाया गया। पश्चिमी उत्तर प्रदेश के दो प्रमुख हत्याकांडों में अदालतों के फैसलों ने कड़ा संदेश दिया है। इससे पति की हत्या के आरोपी महिलाओं में बेचैनी बढ़ गई है। पश्चिमी उत्तर प्रदेश के दो बहुचर्चित हत्याकांडों में अदालतों के फैसलों ने अपराधियों के बीच कड़ा संदेश दिया है। मेरठ में दो दिन में चार दोषियों को मृत्युदंड, पति की हत्या आरोपी महिलाओं में बढ़ी बेचैनी।
 
-### [UPI से गलत खाते में भेज दिए पैसे? घबराएं नहीं, तुरंत करें ये काम, वापस मिल सकती है रकम](https://www.amarujala.com/video/technology/tip-of-the-day/sent-money-to-the-wrong-account-via-upi-don-t-panic-take-these-steps-immediately-and-you-might-be-able-to-ge-2026-10-17)
-*Amar Ujala National* - Oct 17, 03:30 IST (iso: 2026-10-16T22:00:02+00:00)
-<!-- image: https://images.pexels.com/photos/6214372/pexels-photo-6214372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+### [WhatsApp ने दिया बिना अकाउंट वालों के लिए गेस्ट कॉलिंग फीचर , जानें कैसे करें इस्तेमाल](https://www.amarujala.com/video/technology/tech-diary/whatsapp-introduces-a-guest-calling-feature-for-those-without-an-account-here-s-how-to-use-it-2026-10-17)
+*Amar Ujala National* - Oct 17, 06:15 IST (iso: 2026-10-17T00:45:03+00:00)
+<!-- image: https://images.pexels.com/photos/20716657/pexels-photo-20716657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-यूपीआई से गलत खाते में भेजे गए पैसे वापस मिल सकते हैं। तुरंत बैंक या पेमेंट ऐप में रिपोर्ट दर्ज कराना ज़रूरी है। समयबंद शिकायत से रकम रिकवर की संभावना बढ़ती है। UPI से गलत खाते में भेज दिए पैसे? घबराएं नहीं, तुरंत करें ये काम, वापस मिल सकती है रकम।
+व्हाट्सएप ने गेस्ट कॉलिंग फीचर लॉन्च किया है। इससे उपयोगकर्ता बिना अकाउंट बनाए भी कॉल कर सकते हैं। यह सुविधा नए उपयोगकर्ताओं के लिए आसान पहुंच प्रदान करती है और पंजीकरण की ज़रूरत को कम करती है। WhatsApp ने दिया बिना अकाउंट वालों के लिए गेस्ट कॉलिंग फीचर, जानें कैसे करें इस्तेमाल।
 
-### [भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की बिगड़ी तबीयत, अस्पताल में कराया गया भर्ती](https://www.amarujala.com/video/india-news/senior-bjp-leader-lal-krishna-advani-s-health-has-deteriorated-he-has-been-admitted-to-the-hospital-2026-10-17)
-*Amar Ujala National* - Oct 17, 02:05 IST (iso: 2026-10-16T20:35:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/lk-advani-health-update_ee3fc5091709d064b1abca7476416d5c.jpeg?w=1200&dpr=1.0 -->
+### [पश्चिमी यूपी की पांच महिलाओं को मृत्युदंड, आजीवन कारावास पाने वाली स्त्रियों की संख्या भी कम नहीं](https://www.amarujala.com/uttar-pradesh/muzaffarnagar/muzaffarnagar-death-penalty-for-five-women-from-western-up-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 06:12 IST (iso: 2026-10-17T00:42:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ravata-amata-kashayapa-hatayakada_39af2e7f3e918fbfb4c31d839eb2ccd9.jpeg?w=1200&dpr=1.0 -->
 
-भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की तबीयत बिगड़ने पर उन्हें अस्पताल में भर्ती कराया गया। स्वास्थ्य स्थिति पर चिकित्सकों की निगरानी जारी है। पार्टी ने उनके जल्द स्वस्थ होने की कामना की है। भाजपा के वरिष्ठ नेता लालकृष्ण आडवाणी की बिगड़ी तबीयत, अस्पताल में कराया गया भर्ती।
+पिछले ढाई दशक में पश्चिम उत्तर प्रदेश की पांच महिलाओं को मृत्युदंड सुनाया गया है। इन महिलाओं ने अलग-अलग वारदातों में हिस्सा लिया था। आजीवन कारावास की सजा पाने वाली महिलाओं की संख्या भी उल्लेखनीय है। पिछले ढाई दशक में अपराध की अलग-अलग वारदातों में शामिल रही पश्चिम उत्तर प्रदेश की पांच महिलाओं को फांसी की सजा सुनाई जा चुकी है।
 
-### [पोर्शे ने मिशन एस कॉन्सेप्ट से उठाया पर्दा: 911 से ऊपर पोजीशन होगी नई मिड-इंजन सुपरकार, जानें क्या](https://www.amarujala.com/automobiles/porsche-mission-s-concept-revealed-previews-upcoming-mid-engine-supercar-positioned-above-the-911-2026-10-17)
-*Amar Ujala Breaking* - Oct 17, 02:01 IST (iso: 2026-10-16T20:31:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/porsche-mission-s_7854faead460d1a25d833b179d1ff483.jpeg?w=1200&dpr=1.0 -->
+### [60 की उम्र में सिलिकॉन वैली छोड़ अंटार्कटिका पहुंचीं मे ली, क्यों चुनी बर्फीले द्वीप की राह?](https://www.amarujala.com/world/may-lee-leaves-silicon-valley-comfort-to-work-as-broadcast-engineer-in-antarctica-at-60-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 06:10 IST (iso: 2026-10-17T00:40:34+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/ma-l_ae71e56bc828fe2bfed7faba770ebd79.jpeg?w=1200&dpr=1.0 -->
 
-पोर्शे ने मिशन एस कॉन्सेप्ट का अनावरण किया। यह नई मिड-इंजन सुपरकार 911 से ऊपर की श्रेणी में होगी। यह मॉडल ब्रांड के प्रीमियम सेगमेंट को मजबूत करने का प्रयास है। पोर्शे ने मिशन एस कॉन्सेप्ट से उठाया पर्दा: 911 से ऊपर पोजीशन होगी नई मिड-इंजन सुपरकार, जानें क्या।
+मे ली ने 60 की उम्र में सिलिकॉन वैली छोड़कर अंटार्कटिका में बसने का फैसला किया। उन्होंने बर्फीले द्वीप की चुनौती को अपनी जिंदगी का नया लक्ष्य बनाया। यह कदम उनकी जीवनशैली में बड़े बदलाव की ओर इशारा करता है। जिजीविषा: 60 की उम्र में सिलिकॉन वैली छोड़ अंटार्कटिका पहुंचीं मे ली, क्यों चुनी बर्फीले द्वीप की राह?
 
-### [CRPF में 'लांस नायक', 'नायक' रैंक को दोबारा शुरू करने का प्रस्ताव, 48 घंटे में देने होंगे सुझाव](https://www.amarujala.com/india-news/crpf-personnel-ranks-proposal-lance-naik-and-naik-ranks-in-the-suggestions-to-be-submitted-within-48-hours-2026-10-17)
-*Amar Ujala National* - Oct 17, 01:42 IST (iso: 2026-10-16T20:12:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/crpf-ranking_ea586cc855863f638853d7b3d7da5edd.jpeg?w=1200&dpr=1.0 -->
+### [शशि कपूर के साथ बोल्ड सीन देकर मचाया बवाल; 17 की उम्र में पहला प्यार, आज तक है इस बात का अफसोस](https://www.amarujala.com/entertainment/simi-garewal-birthday-actress-career-movies-controversy-net-worth-interesting-facts-raj-kapoor-bold-photoshoot-2026-10-16)
+*Amar Ujala National* - Oct 17, 06:00 IST (iso: 2026-10-17T00:30:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/sama-garaval_f65ac2a48130135611e996011d495483.jpeg?w=1200&dpr=1.0 -->
 
-सीआरपीएफ ने लांस नायक और नायक रैंक पुनः शुरू करने का प्रस्ताव रखा है। अधिकारियों को 48 घंटे के भीतर अपने सुझाव देने होंगे। अफसरों के पद: CRPF में 'लांस नायक', 'नायक' रैंक को दोबारा शुरू करने का प्रस्ताव, 48 घंटे में देने होंगे सुझाव।
+अभिनेत्री सिमी गरेवाल 17 अक्तूबर को अपना 79वां जन्मदिन मना रही हैं। 'टार्जन गोज टु इंडिया' से सिनेमा में कदम रखने वाली इस एक्ट्रेस के बारे में जानते हैं। शशि कपूर के साथ बोल्ड सीन देकर मचाया बवाल; 17 की उम्र में पहला प्यार, आज तक है इस बात का अफसोस।
 
-### [राइड-बाय-वायर और क्रूज कंट्रोल से हुई लैस, कीमत और डिलीवरी डिटेल्स क्या है?](https://www.amarujala.com/automobiles/updated-hero-xtreme-160r-launched-at-rs-1-27-lakh-features-ride-by-wire-cruise-control-riding-modes-2026-10-17)
-*Amar Ujala Breaking* - Oct 17, 01:08 IST (iso: 2026-10-16T19:38:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/2026-hero-xtreme-160r_6c105f88fe75415fc086bffc6043a526.jpeg?w=1200&dpr=1.0 -->
+### [क्या होता है आईपीओ, कंपनियां क्यों लाती हैं; आम लोग कैसे कर सकते हैं इसमें निवेश?](https://www.amarujala.com/business/business-diary/explainer-what-is-an-ipo-why-do-companies-launch-it-and-how-can-ordinary-people-invest-in-the-stock-market-2026-10-16)
+*Amar Ujala National* - Oct 17, 06:00 IST (iso: 2026-10-17T00:30:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/aaiipao_8d51541151b123a60c64e6418f4d418f.jpeg?w=1200&dpr=1.0 -->
 
-हीरो ने एक्सट्रीम 160R बाइक की लॉन्चिंग की है। इसमें राइड-बाय-वायर और क्रूज कंट्रोल फीचर शामिल हैं। बाइक की कीमत 1.27 लाख रुपये है। राइड-बाय-वायर और क्रूज कंट्रोल से हुई लैस, कीमत और डिलीवरी डिटेल्स क्या है?
+एक्सप्लेनर: क्या होता है आईपीओ, कंपनियां क्यों लाती हैं; आम लोग कैसे कर सकते हैं इसमें निवेश?
+
+### [Weather Forecast 17 October 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-for-17-october-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-10-17)
+*Amar Ujala National* - Oct 17, 06:00 IST (iso: 2026-10-17T00:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/weather-forecast_dce53702bb123f50b1d08235b1786b3b.jpeg?w=1200&dpr=1.0 -->
+
+Weather Forecast 17 October 2026: देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today।
+
+### [निजी आस्था व धर्म चुनना मौलिक अधिकार, सुप्रीम कोर्ट का फैसला मील का पत्थर](https://www.amarujala.com/columns/opinion/constitutional-discipline-choose-faith-and-religion-freedom-fundamental-right-supreme-court-verdict-milestone-2026-10-17)
+*Amar Ujala National* - Oct 17, 05:08 IST (iso: 2026-10-16T23:38:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/18/serious-issue-supreme-court-on-cases-of-missing-children_b68a603f7b8f51268d18c7e1c3e2f421.jpeg?w=1200&dpr=1.0 -->
+
+सुप्रीम कोर्ट ने धर्म चुनने को मौलिक अधिकार माना। यह फैसला निजी आस्था के लिए मील का पत्थर है। संवैधानिक अनुशासन को मजबूती मिली है। सामाजिक न्याय और सांविधानिक अनुशासन: निजी आस्था व धर्म चुनने की आजादी मौलिक अधिकार, सुप्रीम कोर्ट का फैसला मील का पत्थर। निजी आस्था व धर्म चुनना मौलिक अधिकार, सुप्रीम कोर्ट का फैसला मील का पत्थर।
 
 ### [40 सेमी तक बढ़ा जलस्तर और प्रशांत महासागर का रंग बदला, नासा ने दिखाया अल नीनो का खौफनाक रूप](https://hindi.news18.com/news/knowledge/nasa-satellites-track-historic-2026-el-nino-pacific-ocean-climate-10915206.html)
 *News18 Hindi (World)* - Oct 16, 23:31 IST (iso: 2026-10-16T18:01:02+00:00)
@@ -50,81 +72,43 @@
 
 ---
 
-## मध्य पूर्व और अफ्रीका
-
-### [यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया](https://www.amarujala.com/world/missiles-strike-the-airport-in-yemen-s-port-city-of-aden-officials-say-2026-10-17)
-*Amar Ujala World* - Oct 17, 02:14 IST (iso: 2026-10-16T20:44:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/athana-eyaraparata-para-masail-hamal_13c8e558b7b662491ee48a255def0e5b.jpeg?w=1200&dpr=1.0 -->
-
-यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला हुआ। सऊदी समर्थित सैन्य ठिकाना निशाना बना। अधिकारियों ने घटना की पुष्टि की है। यह हमला क्षेत्रीय तनाव को और बढ़ाता है। यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया निशाना?
-
-### [हूती हमलों की आग में ‘मक्का समझौता’: सऊदी की मदद के लिए पाकिस्तान का सधा हुआ डिप्लोमेटिक दांव](https://www.patrika.com/world-news/houthi-attacks-pakistan-military-test-saudi-arabia-diplomatic-plan-20989558)
-*Patrika (World)* - Oct 16, 21:22 IST (iso: 2026-10-16T15:52:18+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Mecca-Joint-Defence-Agreement.webp -->
-
-यमन के हूती विद्रोहियों के सऊदी अरब पर मिसाइल और ड्रोन हमलों ने मक्का संयुक्त रक्षा समझौते को परीक्षा में डाल दिया है। इस त्रिपक्षीय समझौते के तहत सऊदी, पाकिस्तान और तुर्किए में से किसी एक पर हमला तीनों पर हमला माना जाएगा। सऊदी अरब पर यमन के हूती विद्रोहियों के भीषण मिसाइल और ड्रोन हमलों ने अगस्त 2026 में हुए ऐतिहासिक ‘मक्का संयुक्त रक्षा समझौते’ (Mecca Joint Defence Agreement) को बड़ी परीक्षा में डाल दिया है।
-
-### [इस्लामिक स्टेट के खिलाफ तुर्की की कार्रवाई जारी, 59 संदिग्धों को सुरक्षाबलों ने किया गिरफ्तार](https://www.patrika.com/world-news/turkey-arrests-59-suspects-in-anti-islamic-state-operations-20989555)
-*Patrika (World)* - Oct 16, 20:51 IST (iso: 2026-10-16T15:21:29+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/handcuffed.webp -->
-
-तुर्की में इस्लामिक स्टेट के खिलाफ देशव्यापी सुरक्षा अभियान के तहत 59 संदिग्धों को गिरफ्तार किया गया है। सुरक्षाबल आतंकवाद को रोकने के लिए देशभर में कार्रवाई जारी रख रहे हैं और संगठन से जुड़े लोगों को पकड़ रहे हैं। आतंकी संगठन इस्लामिक स्टेट (Islamic State) के खिलाफ तुर्की (Turkey) में देशव्यापी कार्रवाई की जा रही है। आतंकवाद को बढ़ने से रोकने के लिए देशभर में सुरक्षाबल अभियान चला रहे हैं और इस आतंकी संगठन से जुड़े लोगों के खिलाफ कार्रवाई कर रहे हैं।
-
-### [सऊदी अरब के पास सेना ने मार गिराई मिसाइलें और ड्रोन्स, अल-मजज़र जिले में आगे बढ़ी यमनी सेना](https://www.patrika.com/world-news/missiles-and-drones-intercepted-near-saudi-arabia-yemen-army-advances-into-al-majzar-district-20989496)
-*Patrika (World)* - Oct 16, 20:27 IST (iso: 2026-10-16T14:57:46+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/missile-intercepted.webp -->
-
-सऊदी अरब की सेना ने हूती विद्रोहियों की मिसाइलों और ड्रोन को मार गिराया है। यमन की सरकारी सेना ने अल-मजज़र जिले में आगे बढ़कर हूतियों के खिलाफ कार्रवाई की है, जिससे क्षेत्र में संघर्ष तीव्र हो गया है। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग बढ़ती ही जा रही है है। सऊदी अरब (Saudi Arabia) की सेना भी हूतियों के खिलाफ कार्रवाई कर रही है, जिसके जवाब में हूती विद्रोही भी सऊदी अरब पर हमले कर रहे हैं।
-
-### [ईरान के कार्यवाहक तेल मंत्री की चेतावनी – ‘ईरानी ऊर्जा सुविधाओं के खिलाफ अमेरिकी खतरे का दिया जाएगा](https://www.patrika.com/world-news/iran-acting-oil-minister-says-iran-will-respond-immediately-and-appropriately-to-any-us-threat-to-energy-facilities-20989466)
-*Patrika (World)* - Oct 16, 20:04 IST (iso: 2026-10-16T14:34:26+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/iranian-energy-facility.webp -->
-
-ईरान के कार्यवाहक तेल मंत्री ने अमेरिका को चेतावनी दी है कि ईरानी ऊर्जा सुविधाओं पर हमले का जवाब दिया जाएगा। दोनों देशों के बीच युद्ध का स्थायी अंत अभी तक नहीं हुआ है। ईरान बातचीत के लिए तैयार है, लेकिन घुटने नहीं टेकेगा। ईरान (Iran) और अमेरिका (United States of America) के बीच युद्ध का अभी भी स्थायी अंत नहीं हुआ है और कुछ मीडिया रिपोर्ट्स के अनुसार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) देश में मिडटर्म चुनाव के बाद ईरान पर फिर हमला करने का आदेश दे सकते हैं।
-
-### [होर्मुज के गेट पर ट्रंप की सेना मुंह ताकती रही, ईरान के जहाज भारत तक पहुंचे, किस देश ने खरीदा](https://hindi.news18.com/world/middle-east-iran-shipped-limited-lpg-and-jet-fuel-despite-us-naval-blockade-myanmar-china-10914827.html)
-*News18 Hindi (World)* - Oct 16, 19:46 IST (iso: 2026-10-16T14:16:40+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/ian-oil-ship-2026-10-8d8d0a4ecc6372b6b9d5b28f8b73ca6c-1200x800.jpg -->
-
-अमेरिका की समुद्री नाकेबंदी के बावजूद ईरान की आठ गैस टैंकर ओमान से निकलीं। एक जेट फ्यूल टैंकर सितंबर में म्यांमार पहुंचा। शिपिंग इंटेलिजेंस स्रोतों ने यह जानकारी दी। अमेरिका ने ईरान के तेल निर्यात पर रोक लगाने के लिए समुद्र में नाकेबंदी लागू की है. इसके बावजूद शिपिंग इंटेलिजेंस और समुद्री सुरक्षा से जुड़े लोगों के मुताबिक, ईरान की LPG और जेट फ्यूल की कुछ खेपें बाहर पहुंचीं.
-
----
-
-## यूरोप और रूस
-
-### [यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता](https://www.amarujala.com/world/russia-attacks-ukrainian-regions-civilian-deaths-surge-85-percent-zelenskyy-concerns-2026-10-17)
-*Amar Ujala World* - Oct 17, 01:42 IST (iso: 2026-10-16T20:12:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/06/02/russia-ukraine-war-america-is-afraid-of-these-weapons-of-russia-russia-nuclear-weapons_caf8a34addef2a2fa474a9c664812551.jpeg?w=1200&dpr=1.0 -->
-
-रूसी सेना ने यूक्रेन के नौ क्षेत्रों पर हमला किया। इससे नागरिकों की मौतों में 85 प्रतिशत की वृद्धि हुई। जेलेंस्की ने इस बढ़ते संकट पर चिंता जताई। यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता रही चिंता?
-
-### [अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला](https://www.amarujala.com/world/world-updates-us-illegal-voting-indian-arrested-hormuz-romania-tankers-attacks-west-asia-russia-ukraine-news-2026-10-17)
-*Amar Ujala World* - Oct 17, 01:16 IST (iso: 2026-10-16T19:46:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_ada29d0698ac05730f42b55e98101cbe.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका में अवैध मतदान के आरोप में एक भारतीय को गिरफ्तार किया गया। इसके अलावा होर्मुज और रोमानिया में दो टैंकरों पर हमला हुआ। अंतरराष्ट्रीय सुर्खियां: अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला।
-
-### [रूस से तेल का खेल और फंस गई भारत की कंपनी, EU ने लगाया बैन, समझें शैडो फ्लीट कनेक्शन](https://hindi.news18.com/world/europe-eu-sanctions-indian-firm-vigor-marine-services-over-alleged-links-to-russia-shadow-fleet-and-risky-oil-shipping-practices-10915059.html)
-*News18 Hindi (World)* - Oct 16, 20:53 IST (iso: 2026-10-16T15:23:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/kaja-kallas-reuters.-2026-10-06d82e112788f4ce60b6529eb9c84860-1200x800.jpg -->
-
-यूरोपीय यूनियन ने रूसी तेल के प्रतिबंधों से बचाने में मदद के आरोप में मुंबई स्थित Vigor Marine Services LLP पर प्रतिबंध लगाया है। EU का दावा है कि कंपनी शैडो फ्लीट के दो जहाजों का प्रबंधन करती है और AIS डेटा में हेरफेर करती है। Why EU Ban Indian Company: यूरोपीय यूनियन ने रूस से जुड़े तेल कारोबार और प्रतिबंधों से बचने में कथित मदद के आरोप में 12 व्यक्तियों और संस्थाओं पर कार्रवाई की है.
-
-### [मध्य एशिया में अमेरिका की बड़ी चाल: रूस-चीन की सीमा पर 200 से ज्यादा कंपनियां ले जाएगा वाशिंगटन](https://www.patrika.com/world-news/us-takes-200-companies-central-asia-rubio-samarkand-c5-plus-1-critical-minerals-20989484)
-*Patrika (World)* - Oct 16, 20:13 IST (iso: 2026-10-16T14:43:17+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Marco-Rubio.webp -->
-
-वाशिंगटन ने मध्य एशिया में 200 से अधिक अमेरिकी कंपनियों के प्रवेश की प्रक्रिया शुरू की है। यह कदम रूस और चीन की सीमाओं के पास स्थित पांच देशों के साथ आर्थिक और सुरक्षा सहयोग को गहरा करने का प्रयास है। इससे महत्वपूर्ण खनिजों तक पहुंच भी सुनिश्चित होगी। Security Cooperation: अमेरिका, मध्य एशिया में 200 से अधिक अमेरिकी कंपनियों को ले जा रहा है।
-
-### [युद्ध खत्म होने के कोई संकेत नहीं: जेलेंस्की ने एंटोनियो कोस्टा और यूरोपीय संघ से मांगी मदद](https://www.patrika.com/world-news/zelensky-meets-antonio-costa-von-der-leyen-brussels-no-sign-russia-end-war-20989450)
-*Patrika (World)* - Oct 16, 19:54 IST (iso: 2026-10-16T14:24:05+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Volodymyr-Zelensky.webp -->
-
-यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने कहा कि रूस युद्ध खत्म करने की इच्छा नहीं दिखा रहा है। उन्होंने एंटोनियो कोस्टा और उर्सुला वॉन डेर लेयेन से मुलाकात कर ऊर्जा, वायु रक्षा और वित्त के लिए मदद मांगी। यह बैठक यूरोपीय संघ से समर्थन बढ़ाने के प्रयास का हिस्सा है। Russia Ukraine War: यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने शुक्रवार को कहा कि रूस ने जारी युद्ध को खत्म करने की कोई इच्छा नहीं दिखाई है।
-
----
-
 ## एशिया-प्रशांत
+
+### [एक कॉलेज से AMU तक का सफर, कैसे बदली भारत में आधुनिक शिक्षा की तस्वीर?](https://www.amarujala.com/education/sir-syed-ahmad-khan-birth-anniversary-from-a-college-to-amu-how-he-shaped-modern-education-in-india-2026-10-16)
+*Amar Ujala Breaking* - Oct 17, 06:05 IST (iso: 2026-10-17T00:35:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/da-epaja-abthal-kalma-jayata_0d4d2c5778d253f5b0c1c795c9abc64b.jpeg?w=1200&dpr=1.0 -->
+
+सर सैयद अहमद खान ने आधुनिक शिक्षा को समाज की तरक्की का माध्यम माना। उनके प्रयासों से 1875 में अलीगढ़ में शुरू हुआ शिक्षण आंदोलन आगे चलकर अलीगढ़ मुस्लिम यूनिवर्सिटी बना। एक कॉलेज से AMU तक का सफर, कैसे बदली भारत में आधुनिक शिक्षा की तस्वीर?
+
+### [भारत के सामने सीरीज बचाने की चुनौती: भुवनेश्वर प्लेइंग-11 में हो सकते हैं शामिल, वैभव-कुलदीप को](https://www.amarujala.com/cricket/cricket-news/ind-vs-wi-5th-t20-2026-playing-11-prediction-captain-vice-captain-player-list-news-in-hindi-2026-10-16)
+*Amar Ujala National* - Oct 17, 06:00 IST (iso: 2026-10-17T00:30:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/16/ind_e301ad82c844c370238017c98e7f664d.jpeg?w=1200&dpr=1.0 -->
+
+भारत और वेस्टइंडीज के बीच पांच मैचों की टी20 सीरीज का निर्णायक मुकाबला शनिवार को खेला जाएगा। वेस्टइंडीज ने 2002 से किसी भी प्रारूप में भारत को उसकी धरती पर नहीं हराया है। भारत के सामने सीरीज बचाने की चुनौती: भुवनेश्वर प्लेइंग-11 में हो सकते हैं शामिल, वैभव-कुलदीप को।
+
+### [पंजाब के अमीर कोकीन ले रहे, गरीब सस्ती गोलियों में डूबे; नशे-अपराध के जाल पर और क्या बोले विर्क?](https://www.amarujala.com/india-news/drugs-and-crime-menace-jagvinder-virk-unmute-bharat-rich-in-punjab-using-cocaine-poor-mired-in-cheap-pills-2026-10-17)
+*Amar Ujala National* - Oct 17, 05:54 IST (iso: 2026-10-17T00:24:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/jagvinder-virk-unmute-bharat_bca4f80d4a1b0b653eef072937f85dee.jpeg?w=1200&dpr=1.0 -->
+
+पंजाब में नशे की समस्या वर्गीय है। अमीर कोकीन का सेवन करते हैं। गरीब सस्ती दवाओं में डूबे हैं। विर्क ने इस जाल पर टिप्पणी की। अनम्यूट भारत: पंजाब के अमीर कोकीन ले रहे, गरीब सस्ती गोलियों में डूबे; नशे-अपराध के जाल पर और क्या बोले विर्क?
+
+### [अमेरिका में बड़ा उलटफेर, ट्रंप की नई प्रेस सचिव केटी जकारिया की 5 दिन में छुट्टी, किस कारण गई](https://hindi.news18.com/world/america-donald-trump-white-house-new-press-secretary-katie-zacharia-fired-after-five-days-amid-credentials-row-10915387.html)
+*News18 Hindi (World)* - Oct 17, 05:35 IST (iso: 2026-10-17T00:05:17+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Katie-Zacharia-Trump-New-White-House-Press-Secretary-5-2026-10-83d1c1ffdcea340e59e181bcfa19eed4-1200x800.jpg -->
+
+ट्रंप ने प्रेस सचिव केटी जकारिया को हटा दिया। पद संभालने के पांच दिन बाद ही यह फैसला हुआ। उनकी पहली प्रेस ब्रीफिंग की प्रतिक्रिया खराब थी। वकील होने के दावे पर भी सवाल उठे। White House Press Secretary Katie Zacharia Fired: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नई प्रेस सचिव केटी जकारिया को पद संभालने के महज पांच दिन बाद ही हटा दिया गया है.
+
+### [एलके आडवाणी अस्पताल में भर्ती; अदन एयरपोर्ट पर मिसाइल हमले; अमेरिका में हमले की साजिश, भारत चिंतित](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-17-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 05:30 IST (iso: 2026-10-17T00:00:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
+
+एलके आडवाणी अस्पताल में भर्ती हैं। अदन एयरपोर्ट पर मिसाइल हमले हुए। अमेरिका में हमले की साजिश के ख़िलाफ़ भारत चिंतित है। एलके आडवाणी अस्पताल में भर्ती; अदन एयरपोर्ट पर मिसाइल हमले; अमेरिका में हमले की साजिश, भारत चिंतित।
+
+### [अमेरिका में हिंदू मंदिर पर हमले की साजिश पर भारत चिंतित: भारतीयों की सुरक्षा सुनिश्चित करने की](https://www.amarujala.com/india-news/call-on-us-side-to-ensure-safety-security-of-indian-nationals-mea-on-illinois-incident-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 04:57 IST (iso: 2026-10-16T23:27:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/ranaethhara-jayasaval-paravakata-vathasha-mataralya_5ca7f0c8ec739f51b4bc2f4b88d0db9c.jpeg?w=1200&dpr=1.0 -->
+
+भारत ने अमेरिका में हिंदू मंदिरों पर हमले की साजिश पर चिंता जताई है। नई दिल्ली ने वहां रहने वाले भारतीय नागरिकों की सुरक्षा सुनिश्चित करने की अपील की है। अमेरिका में हिंदू मंदिर पर हमले की साजिश पर भारत चिंतित: भारतीयों की सुरक्षा सुनिश्चित करने की अपील; क्या कहा?
 
 ### [47.56 लाख मतदाताओं की खोज में 10 दिन घर-घर जाएंगे बीएलओ, निर्वाचन कार्यालय ने शुरू किया दोबारा](https://www.amarujala.com/delhi-ncr/delhi-blos-to-conduct-door-to-door-visits-for-10-days-in-search-of-47-56-lakh-voters-2026-10-17)
 *Amar Ujala Breaking* - Oct 17, 01:15 IST (iso: 2026-10-16T19:45:10+00:00)
@@ -144,29 +128,49 @@
 
 भारत ने नेपाल में सुधाकर दलेला को अगला राजदूत नियुक्त किया है। यह नियुक्ति प्रधानमंत्री बालेन शाह के अगले महीने होने वाले भारत दौरे से ठीक पहले हुई। पहली बार सेक्रेटरी रैंक के अधिकारी को काठमांडू भेजा गया है। विदेश मंत्रालय के सचिव सुधाकर दलेला को नेपाल में भारत का अगला राजदूत नियुक्त किया गया है. दलेला वरिष्ठ राजनयिक नवीन श्रीवास्तव की जगह लेंगे जिनका तीन साल का कार्यकाल पूरा हो चुका है.
 
-### [मंगल के दो चांद आखिर किसकी औलाद? जापान की स्पेस एजेंसी खोलेगी अरबों साल पुरानी गुत्थी](https://hindi.news18.com/world/rest-of-world-japan-mmx-mission-aims-to-bring-back-phobos-samples-secret-of-mars-moons-10915076.html)
-*News18 Hindi (World)* - Oct 16, 21:03 IST (iso: 2026-10-16T15:33:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/moon-1-2026-10-2fe2192ded6b95f9aacfb2b32af06558-1200x800.jpg -->
+---
 
-जापान की JAXA एजेंसी का MMX मिशन 2031 तक मंगल के चंद्रमा फोबोस से 10 ग्राम मिट्टी के नमूने लाने का लक्ष्य रखता है। इन नमूनों की जांच से फोबोस और डीमोस के निर्माण के पीछे की अरबों साल पुरानी रहस्यमयी प्रक्रिया का पता लगाने की कोशिश की जाएगी। जापान की स्पेस एजेंसी JAXA का MMX मिशन मंगल के चांद फोबोस से कम से कम 10 ग्राम मिट्टी के नमूने लाएगा.
+## यूरोप और रूस
 
-### [मालदीव को पैसों की जरूरत, भारत ने खोला खजाना, 30 अरब की करेंसी स्वैप सुविधा को हरी झंडी](https://hindi.news18.com/world/south-asia-india-approved-extending-30-billion-rupee-currency-swap-facility-for-maldives-neighbourhood-first-policy-10914965.html)
-*News18 Hindi (World)* - Oct 16, 20:08 IST (iso: 2026-10-16T14:38:14+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/maldives-1-2026-10-5b762895802d1337bf5111851344a8e1-1200x800.jpg -->
+### [कूटनीति के टर्निंग पॉइंट बनेंगे पीएम के विदेश दौरे: कनाडा-ईयू से व्यापार समझौतों पर रहेगी नजर; क्या](https://www.amarujala.com/india-news/pm-modi-foreign-visits-turning-point-for-indias-trade-diplomacy-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 05:49 IST (iso: 2026-10-17T00:19:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/paema-matha-ka-thasabra-ma-parasatavata-thara-kaya-ahama_5f3a30d463576c43c69a69c8a3bd7753.jpeg?w=1200&dpr=1.0 -->
 
-भारत ने मालदीव सरकार के लिए 30 अरब रुपये की करेंसी स्वैप सुविधा को मंजूरी दे दी है। इससे मालदीव को वित्तीय जरूरतों के लिए भारतीय रुपये उपलब्ध होंगे। यह फैसला पड़ोसी प्रथम नीति के तहत दोनों देशों के आर्थिक रिश्तों को मजबूत करने का हिस्सा है। भारत ने मालदीव सरकार के 30 अरब रुपये की करेंसी स्वैप सुविधा बढ़ाने के अनुरोध को मंजूरी दे दी है.
+प्रधानमंत्री के विदेश दौरे कूटनीतिक मोड़ साबित होंगे। कनाडा और यूरोपीय संघ से व्यापार समझौतों पर चर्चा होगी। तैयारियां तेज हो गई हैं। कूटनीति के टर्निंग पॉइंट बनेंगे पीएम के विदेश दौरे: कनाडा-ईयू से व्यापार समझौतों पर रहेगी नजर; क्या है तैयारी?
 
-### [पाकिस्तान के खूनी बाग में 75 साल बाद भी दफन है 2 गोलियों का राज, पहले PM लियाकत अली को आखिर किसने](https://hindi.news18.com/news/knowledge/story-of-pakistan-first-pm-liaquat-ali-khan-assasination-by-afghan-national-still-secret-reason-10914972.html)
-*News18 Hindi (World)* - Oct 16, 20:06 IST (iso: 2026-10-16T14:36:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-Design-2026-10-16T195758.141-2026-10-5b9574bdd0e8f989cab7f5df4e0a862e-1200x800.jpg -->
+### [यूक्रेन में स्टारलिंक पर 'सर्जिकल स्ट्राइक': ट्रंप ने झाड़ा पल्ला, मस्क ने उठाए थे सवाल; आखिर आदेश](https://www.amarujala.com/world/ukraine-starlink-surgical-strike-trump-denies-involvement-musk-raises-concerns-2026-10-17)
+*Amar Ujala Breaking* - Oct 17, 04:15 IST (iso: 2026-10-16T22:45:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/05/donald-trump_6cd9f31c5164dfd89353b8917c647963.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान के पहले प्रधानमंत्री लियाकत अली खान की 16 अक्टूबर 1951 को रावलपिंडी में हत्या के 75 साल पूरे हो गए। सार्वजनिक सभा के दौरान उन्हें गोली मारी गई थी। आज भी इस हत्या के पीछे का राज और असली कारण पूरी तरह सुलझा नहीं पाया गया है। Liaquat Ali Khan: पाकिस्तान के इतिहास में कुछ घटनाएं ऐसी हैं, जिनके सवाल आज भी पूरी तरह सुलझ नहीं पाए हैं.
+यूक्रेन में स्टारलिंक सेवा पर लगने वाले प्रतिबंध के मूल आदेश को लेकर सवाल उठे हैं। डोनाल्ड ट्रंप ने इस मामले को हल्का साधते हुए एलन मस्क द्वारा उठाए गए सवालों को नजरअंदाज कर दिया। यूक्रेन में स्टारलिंक पर 'सर्जिकल स्ट्राइक': ट्रंप ने झाड़ा पल्ला, मस्क ने उठाए थे सवाल; आखिर आदेश किसने दिया?
 
-### [अभिजीत दीपके को हिरासत में लेने पर भड़कीं ममता बनर्जी, बोलीं- 'आप पूरी पीढ़ी को...'](https://www.abplive.com/news/india/mamata-banerjee-following-abhijeet-dipke-detention-call-as-undeclared-emergency-delhi-police-3203053)
-*ABP Live (India)* - Oct 16, 18:53 IST (iso: 2026-10-16T13:23:34+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/16/ede888ca97a62d26ddfea62b9772163c17921559538891324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता](https://www.amarujala.com/world/russia-attacks-ukrainian-regions-civilian-deaths-surge-85-percent-zelenskyy-concerns-2026-10-17)
+*Amar Ujala World* - Oct 17, 01:42 IST (iso: 2026-10-16T20:12:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/06/02/russia-ukraine-war-america-is-afraid-of-these-weapons-of-russia-russia-nuclear-weapons_caf8a34addef2a2fa474a9c664812551.jpeg?w=1200&dpr=1.0 -->
 
-ममता बनर्जी ने अभिजीत दीपके की हिरासत पर दिल्ली पुलिस को घेरा। उन्होंने कहा कि तिरंगा थामने के लिए युवाओं को रोका जा रहा है। यह लोकतांत्रिक अधिकारों का दुरुपयोग है। पश्चिम बंगाल की पूर्व मुख्यमंत्री ममता बनर्जी ने अभिजीत दीपके को हिरासत में लेने पर सवाल उठाया है. उन्होंने कहा है कि दिल्ली पुलिस क्या कर रही है? अभिजीत दीपके को सिर्फ इसलिए हिरासत में लिया गया है, क्योंकि उन्होंने भारतीय तिरंगा थाम रखा था.
+रूसी सेना ने यूक्रेन के नौ क्षेत्रों पर हमला किया। इससे नागरिकों की मौतों में 85 प्रतिशत की वृद्धि हुई। जेलेंस्की ने इस बढ़ते संकट पर चिंता जताई। यूक्रेन के नौ क्षेत्रों पर रूसी हमले: नागरिकों की मौत में 85% का उछाल; जेलेंस्की को किस बात की सता रही चिंता?
+
+### [अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला](https://www.amarujala.com/world/world-updates-us-illegal-voting-indian-arrested-hormuz-romania-tankers-attacks-west-asia-russia-ukraine-news-2026-10-17)
+*Amar Ujala World* - Oct 17, 01:16 IST (iso: 2026-10-16T19:46:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_ada29d0698ac05730f42b55e98101cbe.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में अवैध मतदान के आरोप में एक भारतीय को गिरफ्तार किया गया। इसके अलावा होर्मुज और रोमानिया में दो टैंकरों पर हमला हुआ। अंतरराष्ट्रीय सुर्खियां: अमेरिका में अवैध मतदान, भारतीय गिरफ्तार; होर्मुज और रोमानिया में दो टैंकरों पर हमला।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया](https://www.amarujala.com/world/missiles-strike-the-airport-in-yemen-s-port-city-of-aden-officials-say-2026-10-17)
+*Amar Ujala World* - Oct 17, 02:14 IST (iso: 2026-10-16T20:44:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/athana-eyaraparata-para-masail-hamal_13c8e558b7b662491ee48a255def0e5b.jpeg?w=1200&dpr=1.0 -->
+
+यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला हुआ। सऊदी समर्थित सैन्य ठिकाना निशाना बना। अधिकारियों ने घटना की पुष्टि की है। यह हमला क्षेत्रीय तनाव को और बढ़ाता है। यमन के अदन एयरपोर्ट पर दो मिसाइलों से हमला: सऊदी समर्थित सैन्य ठिकाना बना निशाना; किसने बनाया निशाना?
+
+### [हूती हमलों की आग में ‘मक्का समझौता’: सऊदी की मदद के लिए पाकिस्तान का सधा हुआ डिप्लोमेटिक दांव](https://www.patrika.com/world-news/houthi-attacks-pakistan-military-test-saudi-arabia-diplomatic-plan-20989558)
+*Patrika (World)* - Oct 16, 21:22 IST (iso: 2026-10-16T15:52:18+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Mecca-Joint-Defence-Agreement.webp -->
+
+यमन के हूती विद्रोहियों के सऊदी अरब पर मिसाइल और ड्रोन हमलों ने मक्का संयुक्त रक्षा समझौते को परीक्षा में डाल दिया है। इस त्रिपक्षीय समझौते के तहत सऊदी, पाकिस्तान और तुर्किए में से किसी एक पर हमला तीनों पर हमला माना जाएगा। सऊदी अरब पर यमन के हूती विद्रोहियों के भीषण मिसाइल और ड्रोन हमलों ने अगस्त 2026 में हुए ऐतिहासिक ‘मक्का संयुक्त रक्षा समझौते’ (Mecca Joint Defence Agreement) को बड़ी परीक्षा में डाल दिया है।
 
 ---
 
