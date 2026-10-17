@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 17, 2026 22:13 IST
+**Updated:** October 18, 2026 00:26 IST
 
 ---
 
 ## Europe & Russia
+
+### [Police and protesters clash in some of France's worst unrest in years](https://www.channelnewsasia.com/world/police-and-protesters-clash-in-some-frances-worst-unrest-in-years-6468581)
+*Channel News Asia* - Oct 17, 23:33 IST (iso: 2026-10-17T18:03:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--cEXANgyi--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-17T134228Z_2_LYNXMPEM9G0C6_RTROPTP_3_FRANCE-PROTEST.JPG?itok=wPuKU_9t -->
+
+Police clashed with protesters across France during some of the country's worst unrest in years. The demonstrations began last month in high schools in Paris' poor northern suburbs. Initial anger over teacher shortages and shabby facilities evolved into a broader movement. Protesters now focus on inequality, public spending, and living standards. The protests in France began last ‌month at high schools in Paris' poor northern suburbs, where anger over teacher shortages and shabby facilities evolved into a broader movement focused on inequality, public spending and living standards.
 
 ### [Indian student groups in London protest against CEC Gyanesh Kumar, SIR; Govt supporters hold](https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece)
 *The Hindu (International)* - Oct 17, 20:55 IST (iso: 2026-10-17T15:25:39+00:00)
@@ -76,11 +82,11 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 Armed attackers killed 24 people in recent strikes across two Nigerian regions. The violence is attributed to local gangs known as bandits. These groups engage in kidnapping for ransom and cattle rustling. Jihadist factions are also implicated in the escalating regional attacks. There has been a recent increase in attacks on communities in the two regions, blamed on gangs engaged in kidnapping for ransom and cattle rustling.
 
-### [PM Wong to visit Qatar, UAE in first trip to Middle East since taking office](https://www.channelnewsasia.com/singapore/lawrence-wong-qatar-uae-middle-east-visit-6468046)
-*Channel News Asia* - Oct 17, 14:30 IST (iso: 2026-10-17T09:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Cd1i0l8R--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-23T131214Z_1_LYNXMPEM7M06C_RTROPTP_3_INDONESIA-SINGAPORE.JPG?itok=eTKLWblB -->
+### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
+*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
 
-Singapore's Prime Minister Wong will visit Qatar and the UAE. This is his first trip to the Middle East since taking office. The visits aim to discuss regional developments and strengthen cooperation. Energy security and economic resilience are key areas of mutual interest. The visits will provide an opportunity for Singapore to exchange views on recent developments in the region and strengthen cooperation with both countries in areas of mutual interest, such as in energy security and economic resilience, said the PMO.
+Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
 
 ### [Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?](https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html)
 *Radio Free Europe / Liberty* - Oct 17, 13:06 IST (iso: 2026-10-17T07:36:00+00:00)
@@ -154,23 +160,17 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 
 ## Global / Multilateral
 
-### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
-
-A new United Nations report warns that brain signals from gaming headsets or wellness gadgets could serve as court evidence. The document states that neurotechnology is advancing faster than the legal frameworks designed to protect human rights and individual privacy. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
-
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
 
 A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
 
-### [WHO urges faster action to end lead exposure which kills 3.5 million annually](https://news.un.org/feed/view/en/story/2026/10/1168600)
+### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
 
-The World Health Organization urged nations to accelerate lead exposure prevention efforts. The toxic metal causes over 3.5 million deaths annually. It also affects hundreds of millions of children worldwide. The agency called for faster action to address this persistent public health crisis. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
+A new United Nations report warns that brain signals from gaming headsets or wellness gadgets could serve as court evidence. The document states that neurotechnology is advancing faster than the legal frameworks designed to protect human rights and individual privacy. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 
 ---
 
