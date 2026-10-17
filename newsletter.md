@@ -1,6 +1,102 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 18, 2026 00:26 IST
+**Updated:** October 18, 2026 02:37 IST
+
+---
+
+## Middle East & Africa
+
+### [France demands Israel act after 'criminal violence' against visiting mayor](https://www.thehindu.com/news/international/france-demands-israel-act-after-criminal-violence-against-visiting-mayor/article71597848.ece)
+*The Hindu (International)* - Oct 18, 02:20 IST (iso: 2026-10-17T20:50:59+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/ds54ll/article71597850.ece/alternates/LANDSCAPE_1200/AFP__20261014__D39T6UY__v1__HighRes__FrancePoliticsParliament.jpg -->
+
+French mayor Bernard Baudoux demanded Israel arrest those responsible for violent attacks on his visit. He called the actions criminal and urged authorities to stop the violence. Baudoux insisted Israel guarantee civilian safety under international law. "The Israeli authorities must arrest those responsible for these revolting acts and take them to justice. They must urgently halt this criminal violence and guarantee the safety of civilian populations, as they are compelled to do under international law,” says Mayor Bernard Baudoux.
+
+### [Houthi attack on Saudi oil giant raises global energy concerns](https://www.thehindu.com/videos/houthi-attack-on-saudi-oil-giant-raises-global-energy-concerns/article71587462.ece)
+*The Hindu (International)* - Oct 18, 01:35 IST (iso: 2026-10-17T20:05:51+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/2lxrnc/article71587459.ece/alternates/LANDSCAPE_1200/TeMEN.jpg.jpeg -->
+
+Houthi rebels struck the Aramco headquarters in Dhahran, Saudi Arabia. The attack damaged parts of the building but caused no fatalities. The incident showed the group can hit strategic targets deep inside the kingdom. This escalation raised global energy security concerns. The conflict in Yemen has entered a dangerous new phase after Iran-backed Houthi rebels targeted the headquarters of Saudi oil giant Aramco in Dhahran.
+
+### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
+*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
+
+Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
+
+### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
+*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
+
+Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
+
+### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
+*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
+
+Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
+
+---
+
+## Asia-Pacific
+
+### [North Korea says it tested cruise missiles designed to be fired from submarines](https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece)
+*The Hindu (International)* - Oct 18, 01:41 IST (iso: 2026-10-17T20:11:51+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/z4503x/article71586565.ece/alternates/LANDSCAPE_1200/iStock-1153689138.jpg -->
+
+North Korea announced it tested submarine-launched cruise missiles. State media said the trials assessed underwater combat readiness. The tests aimed to improve naval strategic capabilities. Officials also highlighted the reliability of the country's nuclear deterrent. North Korean state media said the tests were aimed at assessing the readiness of the country's underwater combat systems, improving the Navy's ability to carry out strategic missions and demonstrating the reliability of its nuclear deterrent.
+
+### [‘Enormous potential’ for India-Canada ties amidst global uncertainty: Canadian Foreign Minister](https://www.thehindu.com/news/national/pm-modi-meets-canadian-minister-anita-anand-discussions/article71584510.ece)
+*The Hindu (International)* - Oct 18, 01:13 IST (iso: 2026-10-17T19:43:07+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/5l6glq/article71584546.ece/alternates/LANDSCAPE_1200/HUl8po4a8AAV-kE.jpg -->
+
+Canadian Foreign Minister Anita Anand visited India to discuss bilateral ties. She met with S. Jaishankar and Piyush Goyal. Anand described the partnership as having enormous potential. She confirmed Prime Minister Modi plans to visit Canada later in December. Minister Anita Anand is in India along with Minister of International Trade Maninder Sidhu for engagements with External Affairs Minister S.
+
+### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
+*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
+
+September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
+
+### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
+*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
+
+North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
+
+### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
+
+Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
+
+### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
+*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
+
+Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
+
+---
+
+## Americas
+
+### [Oil prices retreat as investors weigh supply outlook, West Asia tensions](https://www.thehindu.com/business/oil-prices-dip-as-supply-risks-from-west-asia-tensions-clash/article71586615.ece)
+*The Hindu (International)* - Oct 18, 01:12 IST (iso: 2026-10-17T19:42:40+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/1uocej/article71586627.ece/alternates/LANDSCAPE_1200/iStock-2200761999.jpg -->
+
+Brent crude futures dropped 1.6 percent to 104.42 dollars a barrel. West Texas Intermediate crude fell one percent to 94.11 dollars. Investors reversed previous gains while weighing the global supply outlook. The retreat reflected caution amid ongoing tensions in West Asia. Brent crude futures fell $1.64, or 1.6%, to $104.42 a barrel by 0337 GMT, while U. S. West Texas Intermediate crude futures were down 98 cents, or 1%, to $94.11, reversing gains from the ‌previous session.
+
+### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
+*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
+<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
+
+Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
 
 ---
 
@@ -12,17 +108,17 @@
 
 Police clashed with protesters across France during some of the country's worst unrest in years. The demonstrations began last month in high schools in Paris' poor northern suburbs. Initial anger over teacher shortages and shabby facilities evolved into a broader movement. Protesters now focus on inequality, public spending, and living standards. The protests in France began last ‌month at high schools in Paris' poor northern suburbs, where anger over teacher shortages and shabby facilities evolved into a broader movement focused on inequality, public spending and living standards.
 
-### [Indian student groups in London protest against CEC Gyanesh Kumar, SIR; Govt supporters hold](https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece)
-*The Hindu (International)* - Oct 17, 20:55 IST (iso: 2026-10-17T15:25:39+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/qc0lq0/article71597279.ece/alternates/LANDSCAPE_1200/20261017240L.jpg -->
-
-Student groups in London protested against Election Commission of India chief Gyanesh Kumar. A separate group of government supporters held a counter-protest nearby. Metropolitan Police officers kept the two groups apart. The demonstrations took place near the Gandhi statue. While the “Stop Vote Chori” protest cheered for activist Dhruv Rathee as the keynote speaker, chants of “Modi, Modi” rang out from a smaller group across the Gandhi statue, being kept apart by Metropolitan Police officers.
-
 ### [Kasparov Says Talks With Putin Pointless, War Is 'Ideological Basis' Of His Rule](https://www.rferl.org/a/kasparov-says-talks-with-putin-pointless-war-is-ideological-basis-of-his-rule/33877974.html)
 *Radio Free Europe / Liberty* - Oct 17, 19:32 IST (iso: 2026-10-17T14:02:23+00:00)
 <!-- image: https://gdb.rferl.org/4c9a5373-3249-41c7-e7af-08df13afe2a0_cx5_cy3_cw94_w1200_h630.jpg -->
 
 Garry Kasparov told RFE/RL that negotiations with Vladimir Putin are pointless. He argued the war serves as the ideological basis of Putin's rule. Kasparov dismissed a proposed US deal to purchase Russian diesel. He stated that a Ukrainian victory would likely end Putin's regime. Russian Chess grandmaster Garry Kasparov tells RFE/RL Putin is set on “liquidating Ukraine” and will not concessions.
+
+### [Russia's Deadly Attacks Damage Homes, Energy Sites In Ukraine As Kyiv Says Starlink Restrictions](https://www.rferl.org/a/russia-ukraine-civilians-killed-attack/33878396.html)
+*Radio Free Europe / Liberty* - Oct 17, 15:57 IST (iso: 2026-10-17T10:27:40+00:00)
+<!-- image: https://gdb.rferl.org/4298ebae-54cd-464c-45eb-08df13a884cb_cx0_cy13_cw0_w1200_h630.jpg -->
+
+Russia fired missiles and drones at Ukrainian cities on 17 October, killing at least twelve civilians and damaging residential blocks and power infrastructure. Russia continued to pound Ukraine with missiles and drones, killing civilians and damaging residential buildings and energy sites, as Kyiv described disruptions to the satellite communications of US company SpaceX, crucial to the country's defense, as a deliberate "operation.".
 
 ### [Trump Waives Graham Act Sanctions On Russia Before They Take Effect](https://www.rferl.org/a/trump-waives-graham-act-sanctions-on-russia/33878335.html)
 *Radio Free Europe / Liberty* - Oct 17, 13:03 IST (iso: 2026-10-17T07:33:35+00:00)
@@ -71,106 +167,6 @@ Marco Rubio travels to Uzbekistan to meet with five Central Asian nations. The T
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image770x420cropped.jpg -->
 
 The UN warns fewer than half of national biodiversity targets are on track. This report arrives days before the COP17 conference in Yerevan, Armenia. The assessment highlights a significant gap in global efforts to protect plants, animals, and ecosystems from further degradation. Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.
-
----
-
-## Middle East & Africa
-
-### [Gunmen kill 24 in Nigerian attacks](https://www.thehindu.com/news/international/gunmen-kill-24-in-nigerian-attacks/article71576595.ece)
-*The Hindu (International)* - Oct 17, 19:41 IST (iso: 2026-10-17T14:11:18+00:00)
-<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
-
-Armed attackers killed 24 people in recent strikes across two Nigerian regions. The violence is attributed to local gangs known as bandits. These groups engage in kidnapping for ransom and cattle rustling. Jihadist factions are also implicated in the escalating regional attacks. There has been a recent increase in attacks on communities in the two regions, blamed on gangs engaged in kidnapping for ransom and cattle rustling.
-
-### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
-*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
-
-Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
-
-### [Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?](https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html)
-*Radio Free Europe / Liberty* - Oct 17, 13:06 IST (iso: 2026-10-17T07:36:00+00:00)
-<!-- image: https://gdb.rferl.org/db941d25-4d5f-4408-7599-08df13a869ed_w1200_h630.jpg -->
-
-Iran's government has survived war, economic crisis, and widespread protests. Vahid Pourostad of RFE/RL explains the system's endurance. It rests on entrenched networks of power. The opposition remains fractured, preventing a unified challenge to the current regime. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing? Vahid Pourostad of RFE/RL's Negah-e-Farda (Iran Tomorrow) program explains that its survival rests on entrenched networks of power and a fractured opposition.
-
-### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
-*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
-
-Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
-
-### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
-*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
-
-Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
-
----
-
-## Asia-Pacific
-
-### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
-*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
-
-Over 25,000 police officers deployed across New Delhi to block demonstrations by the Cockroach Janta Party. Authorities denied the youth-led group permission to protest, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
-
-### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
-*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
-
-September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
-
-### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
-*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
-
-North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
-
-### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
-
-Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
-
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
-
----
-
-## Americas
-
-### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
-*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
-<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
-
-Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
-
----
-
-## Global / Multilateral
-
-### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
-
-A new UN report warns rapid transitions in AI, green energy, and demographics risk deepening inequalities. These shifts are reshaping economies worldwide while creating new opportunities. Vulnerable communities face the greatest threat of being left behind by these structural changes. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
-
-### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
-
-A new United Nations report warns that brain signals from gaming headsets or wellness gadgets could serve as court evidence. The document states that neurotechnology is advancing faster than the legal frameworks designed to protect human rights and individual privacy. Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.
 
 ---
 

@@ -1,13 +1,19 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 18, 2026 00:26 IST
+**अपडेट:** October 18, 2026 02:37 IST
 
 ---
 
 ## दुनिया
 
+### [आसनसोल में निर्माणाधीन पावर प्लांट में हादसा, चार की मौत की खबर; कई लोगों के दबे होने की आशंका](https://www.amarujala.com/india-news/several-killed-after-part-of-chimney-collapses-at-power-plant-in-bengal-s-asansol-2026-10-18)
+*Amar Ujala Breaking* - Oct 18, 12:37 IST (iso: 2026-10-18T07:07:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/breaking-news_8c7ec0d22df641cc58a0df6d1fbb416d.jpeg?w=1200&dpr=1.0 -->
+
+आसनसोल में निर्माणाधीन पावर प्लांट में हादसे में चार लोगों की मौत हुई है। अधिकारियों के अनुसार कई अन्य लोग मलबे के नीचे दबे हुए हैं। बचाव कार्य जारी है। पश्चिम बंगाल: आसनसोल में निर्माणाधीन पावर प्लांट में हादसा, चार की मौत की खबर; कई लोगों के दबे होने की आशंका।
+
 ### [कोलकाता भगदड़ में 17+ हताहत, सीएम शुभेंदु ने जांच समिति बनाई; राहुल गांधी क्या बोले?](https://www.amarujala.com/live/india-news/west-bengal-stampede-live-updates-kolkata-chor-bagan-pandal-deaths-cm-suvendu-probe-police-forensic-photo-news-2026-10-18)
-*Amar Ujala National* - Oct 18, 12:21 IST (iso: 2026-10-18T06:51:37+00:00)
+*Amar Ujala Breaking* - Oct 18, 12:21 IST (iso: 2026-10-18T06:51:37+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/bgal-ma-bhagathaugdha_919ac4db80a01bf543553faab166b76e.gif?w=1200&dpr=1.0 -->
 
 कोलकाता में पंडाल हादसे में 17 लोगों की मौत और 35 घायल हुए। मुख्यमंत्री शुभेंदु ने जांच समिति बनाई और अस्पताल पहुंचे। राहुल गांधी ने घटना पर प्रतिक्रिया दी। बंगाल पंडाल हादसा LIVE: कोलकाता भगदड़ में 17+ हताहत, सीएम शुभेंदु ने जांच समिति बनाई; राहुल गांधी क्या बोले?
@@ -18,39 +24,73 @@
 
 बंगाल के कोलकाता में पंडाल हादसे में 17 मृतक और 35 घायल हुए। मुख्यमंत्री ने जांच समिति का गठन किया। घटनास्थल पर प्रशासनिक कार्रवाई शुरू हुई। कोलकाता के पंडाल हादसे में 17 लोगों की मौत, 35 घायल, अस्पताल पहुंचे सीएम।
 
-### ['बारिश हो रही थी, धक्का लगा और...', कोलकाता के चोरबगान पंडाल में भगदड़ की आंखों देखी](https://www.abplive.com/news/india/chorbagan-sarbojanin-kolkata-stampede-eyewitness-says-some-were-being-taken-on-motorcycles-3203504)
-*ABP Live (India)* - Oct 17, 22:48 IST (iso: 2026-10-17T17:18:27+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/f817c21535ee791c0f0b6fa119e8d8441792257451106124_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [छत्तीसगढ़ में उफान पर इंद्रावती नदी, एयरफोर्स के एमआई-17वी5 से एयरलिफ्ट किए गए 12 लोग](https://www.amarujala.com/city-and-states/indian-air-force-jagdalpur-rescue-iaf-mi-17v5-helicopter-distress-call-chhattisgarh-indravati-river-airlift-2026-10-18)
+*Amar Ujala Breaking* - Oct 18, 12:00 IST (iso: 2026-10-18T06:30:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/11/bugdha-khabra_af450dd548718eca5aa7d1d9015a22fd.jpeg?w=1200&dpr=1.0 -->
 
-कोलकाता के चोरबगान पंडाल में बारिश के दौरान भीड़ की भगदड़ में 17 लोगों की मौत हो गई। लगभग 40 लोग घायल हुए। पश्चिम बंगाल के स्वास्थ्य मंत्री अस्पताल पहुंचे हैं। कोलकाता के एक पंडाल में दुर्गा पूजा के दौरान भीड़ बढ़ने से भगदड़ जैसी स्थिति पैदा हो गई. इस हादसे में कम से कम 17 लोगों की मौत हो गई.
+छत्तीसगढ़ में इंद्रावती नदी के उफान पर वायुसेना ने एमआई-17वी5 हेलिकॉप्टर से 12 लोगों को सुरक्षित निकाला। स्थानीय प्रशासन ने यह ऑपरेशन तुरंत शुरू किया। देवदूत बनी वायुसेना: छत्तीसगढ़ में उफान पर इंद्रावती नदी, एयरफोर्स के एमआई-17वी5 से एयरलिफ्ट किए गए 12 लोग।
 
-### [कोलकाता पूजा पंडाल हादसे पर ममता बनर्जी ने जताया दुख- ‘मैं प्रार्थना करती हूं...’](https://www.abplive.com/news/india/mamata-banerjee-expressed-concern-over-stampede-at-chore-bagan-puja-pandal-in-kolkata-3203493)
-*ABP Live (India)* - Oct 17, 22:16 IST (iso: 2026-10-17T16:46:39+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/03634e6d95ef7dd5e7ab764caa900ade17922576202161126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [मां ने बेटे के सामने तोड़ा दम, खुद भीड़ में फंसा रहा युवक; प्रत्यक्षदर्शियों ने क्या बताया?](https://www.amarujala.com/india-news/kolkata-stampede-mother-death-in-front-of-son-young-man-trapped-in-crowd-chorbagan-eyewitnesses-accounts-2026-10-18)
+*Amar Ujala Breaking* - Oct 18, 01:37 IST (iso: 2026-10-17T20:07:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/kolkata-stampede_987115a7c0df18ddd62c81747957d591.gif?w=1200&dpr=1.0 -->
 
-तृणमूल कांग्रेस प्रमुख ममता बनर्जी ने कोलकाता पंडाल हादसे पर दुख जताया। उन्होंने 17 मृतकों और 40 घायलों की जानकारी दी। उन्होंने मां दुर्गा से प्रार्थना की। पश्चिम बंगाल की पूर्व मुख्यमंत्री और तृणमूल कांग्रेस (TMC) की प्रमुख ममता बनर्जी ने कोलकाता के चोर बागान पूजा पंडाल में हुई भगदड़ में 17 लोगों की मौत और कम से कम 40 लोगों के घायल होने पर हैरानी और दुख जताया है.
+कोलकाता में भीड़भाड़ के दौरान एक मां ने अपने बेटे के सामने दम तोड़ दिया। एक युवक भीड़ में फंसा रहा। प्रत्यक्षदर्शियों ने घटना की पुष्टि की है। कोलकाता भगदड़: मां ने बेटे के सामने तोड़ा दम, खुद भीड़ में फंसा रहा युवक; प्रत्यक्षदर्शियों ने क्या बताया?
 
-### [कोलकाता पंडाल हादसे पर PM मोदी ने जताया दुख, मृतकों के परिजनों को 2-2 लाख की आर्थिक मदद](https://www.abplive.com/news/india/kolkata-durga-puja-stampede-live-updates-chorbagan-sarbojanin-puja-pandal-collapes-many-killed-3203494)
-*ABP Live (India)* - Oct 17, 22:03 IST (iso: 2026-10-17T16:33:34+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/e22c96f7dccf191d2e09e4646776db0017922567919401368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [बारिश के चलते पांचवां टी20 मैच हुआ रद्द, सीरीज 2-2 की बराबरी पर हुई खत्म](https://www.amarujala.com/video/cricket/the-fifth-t20-match-was-abandoned-due-to-rain-the-series-ended-in-a-2-2-draw-2026-10-18)
+*Amar Ujala National* - Oct 18, 01:30 IST (iso: 2026-10-17T20:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/brasha-ka-calta-pacava-ta20-maca-haaa-rathatha-saraja-2-2-ka-brabra-para-haii-khatama_5bf51d7e2c09fa63842fa4ab60a267b0.jpeg?w=1200&dpr=1.0 -->
 
-प्रधानमंत्री नरेंद्र मोदी ने कोलकाता पंडाल हादसे पर शोक व्यक्त किया। मृतकों के परिवारों को 2-2 लाख रुपये की आर्थिक सहायता दी जाएगी। 17 लोग मारे गए और 35 घायल हुए। कोलकाता में दुर्गा पूजा के आयोजन के दौरान शनिवार शाम को बड़ा हादसा हो गया. अचानक भीड़ बढ़ जाने के कारण भगदड़ जैसी स्थिति पैदा हो गई, जिसमें अब तक 17 लोगों की मौत की खबर है, जबकि कम से कम 35 लोग घायल हो गए.
+बारिश के कारण पांचवां टी20 मैच रद्द कर दिया गया। इससे सीरीज 2-2 की बराबरी पर समाप्त हो गई। दोनों टीमों के बीच कोई विजेता नहीं निकला। मौसम ने खेल के परिणाम को प्रभावित किया। बारिश के चलते पांचवां टी20 मैच हुआ रद्द, सीरीज 2-2 की बराबरी पर हुई खत्म।
 
-### [पूजा पंडाल हादसे पर TMC नेता कुणाल घोष ने जताया दुख](https://www.abplive.com/news/india/kolkata-durga-puja-stampede-live-updates-many-killed-chorbagan-sarbojanin-puja-pandal-3203492)
-*ABP Live (India)* - Oct 17, 22:00 IST (iso: 2026-10-17T16:30:15+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/3850f1785e9ebe18f66dbe2ac12876cc17922571458371126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [बिहार से बंगाल तक पसरा मातम, कहीं भगदड़ बनी काल, कहीं दुर्घटना में कई मौतें; कहां कैसा मंजर?](https://www.amarujala.com/india-news/saturday-tragedies-grief-kolkata-stampede-bihar-sone-river-kota-accident-bengal-chimney-fire-hyderabad-updates-2026-10-18)
+*Amar Ujala Breaking* - Oct 18, 01:23 IST (iso: 2026-10-17T19:53:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/07/09/accident-demo_4d483ccf1fc0b669aaf0b0386ebdf9c1.jpeg?w=1200&dpr=1.0 -->
 
-तृणमूल कांग्रेस नेता कुणाल घोष ने कोलकाता पंडाल हादसे पर दुख जताया। उन्होंने घटना को अत्यंत दुर्भाग्यपूर्ण बताया। 17 लोगों की मौत और 35 लोगों के घायल होने की पुष्टि हुई। पश्चिम बंगाल की राजधानी कोलकाता में शनिवार (17 अक्टूबर) को दुर्गा पूजा पंडाल के एक हिस्से के ढहने से 17 लोगों की मौत हो गई है, जबकि 35 अन्य लोग घायल भी हुए हैं.
+बिहार से बंगाल तक कई हादसों में दर्जनों लोगों की मौत हुई। कुछ जगहों पर भीड़ में भगदड़ मच गई। अन्य स्थानों पर सड़क दुर्घटनाओं में कई लोग मारे गए। यह शनिवार पूरे क्षेत्र में मातम का दिन रहा। हादसों का शनिवार: बिहार से बंगाल तक पसरा मातम, कहीं भगदड़ बनी काल, कहीं दुर्घटना में कई मौतें; कहां कैसा मंजर?
 
-### [पूजा पंडाल हादसे में 17 लोगों की मौत](https://www.abplive.com/news/india/bengal-kolkata-stampede-chorbagan-sarbojanin-puja-pandal-injured-shifted-to-hospital-update-mamata-banerjee-post-3203486)
-*ABP Live (India)* - Oct 17, 21:44 IST (iso: 2026-10-17T16:14:06+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/6c988ff9854f2cdad9bedf44dae9ceab17922545094511324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+---
 
-कोलकाता के चोरबागान में सप्तमी की शाम दुर्गा पूजा पंडाल का हिस्सा ढह गया। भीड़ की भगदड़ में 17 लोगों की मौत हुई और 25 घायल हुए। मुख्यमंत्री शुवेंदु अधिकारी घटनास्थल पर पहुंचे। कोलकाता में सप्तमी की शाम को भीड़ के चलते चोरबागान सर्वजनीन दुर्गा पूजा पंडाल का हिस्सा ढह गया. इस दौरान भगदड़ की स्थिति बन गई. यह भगदड़ तब मची, जब श्रद्धालु दुर्गा पूजा मनाने के लिए इकट्ठा हुए थे.
+## एशिया-प्रशांत
+
+### [जवाबी कार्रवाई में मारे गए अफगान तालिबान के कई सदस्य; क्यों बढ़ा सीमा पर तनाव?](https://www.amarujala.com/world/several-afghan-taliban-personnel-killed-in-alleged-retaliatory-action-along-border-pak-officials-2026-10-18)
+*Amar Ujala World* - Oct 18, 02:31 IST (iso: 2026-10-17T21:01:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/17/pakistan-afghanistan-war_b38eab538f2030196bccb7b401f232da.jpeg?w=1200&dpr=1.0 -->
+
+पाकिस्तान ने दावा किया कि सीमा पर जवाबी कार्रवाई में अफगान तालिबान के कई सदस्य मारे गए। इस घटना के बाद दोनों देशों के बीच सीमा पर तनाव बढ़ गया है। पाकिस्तानी अधिकारियों का दावा: जवाबी कार्रवाई में मारे गए अफगान तालिबान के कई सदस्य; क्यों बढ़ा सीमा पर तनाव?
+
+### [ट्रैफिक एडवाइजरी जारी, दिन में 11 बजे तक लागू रहेंगे बदले गए यातायात नियम और डायवर्जन](https://www.amarujala.com/delhi-ncr/delhi-half-marathon-today-traffic-advisory-issued-2026-10-18)
+*Amar Ujala Breaking* - Oct 18, 01:35 IST (iso: 2026-10-17T20:05:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/1_6e1d632db06c9ee8efb87bdd16a5af40.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली हाफ मैराथन के कारण शहर के कई इलाकों में यातायात प्रभावित होगा। बदले गए यातायात नियम और डायवर्जन रविवार सुबह 11 बजे तक लागू रहेंगे। दिल्ली हाफ मैराथन के कारण शहर के कई इलाकों में रविवार सुबह यातायात प्रभावित होने की संभावना है। ट्रैफिक एडवाइजरी जारी, दिन में 11 बजे तक लागू रहेंगे बदले गए यातायात नियम और डायवर्जन।
+
+### ['आप इस तरह नहीं मर सकते': भारतीय पायलट स्मित मच्छार ने बताया, कॉकपिट में कैसे हुआ हमला और कैसे बचाई](https://www.amarujala.com/world/you-can-t-die-like-this-indian-pilot-machchhar-recounts-cockpit-attack-fight-to-survive-in-flydubai-flight-2026-10-18)
+*Amar Ujala Breaking* - Oct 18, 01:30 IST (iso: 2026-10-17T20:00:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/02/kapatana-samata-macachhara_39471780dc601fffba5d31865ad2beea.jpeg?w=1200&dpr=1.0 -->
+
+भारतीय वायुसेना के पायलट स्मित मच्छार ने कॉकपिट में हुए हमले का विवरण साझा किया। उन्होंने बताया कि विमान पर हमला कैसे हुआ और उन्होंने अपनी जान कैसे बचाई। यह घटना सुरक्षा प्रोटोकॉल के महत्व को उजागर करती है। 'आप इस तरह नहीं मर सकते': भारतीय पायलट स्मित मच्छार ने बताया, कॉकपिट में कैसे हुआ हमला और कैसे बचाई जान?
+
+### [13,800 साल से अलास्का की बर्फ में दफन था अमेरिका के सबसे पुराने इंसानों का खजाना, मिले हजारों हथियार](https://hindi.news18.com/news/ajab-gajab/viral-archaeologists-discover-oldest-dwelling-13800-year-old-alaska-sheg-xdaltthi-10917020.html)
+*News18 Hindi (World)* - Oct 17, 19:49 IST (iso: 2026-10-17T14:19:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Alaska_Site-2026-10-571d85e84588df739ba7bf724decb2e7-1200x800.jpg -->
+
+अलास्का में 13,800 साल पुरानी 'शैग एक्स्टडाल्थी' बस्ती की खोज हुई है। यहाँ से हजारों पत्थर के हथियार, हड्डी की सुई और पेंडेंट मिले हैं। साथ ही भेड़िए जैसी जानवरों की हड्डियाँ भी मिलीं, जिन्हें अमेरिका के सबसे पुराने पालतू कुत्ते माना जा रहा है। पुरातत्वविदों ने अलास्का में 13,800 साल पुरानी एक इंसानी बस्ती की खोज की है, जिसे पश्चिमी गोलार्ध का सबसे पुराना घर माना जा रहा है.
+
+### [भारत की हुंकार पर पाकिस्तान सेना की गीदड़भभकी, रक्षामंत्री की चेतावनी के बाद परमाणु हथियारों की](https://hindi.news18.com/world/pakistan-rajnath-singh-warning-pakistan-military-commander-response-amer-raza-10916895.html)
+*News18 Hindi (World)* - Oct 17, 19:08 IST (iso: 2026-10-17T13:38:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/asim-munir-7-2026-10-b4ebaa1d355610b5ae2e2dbf6bcc1e93-1200x800.jpg -->
+
+रक्षा मंत्री राजनाथ सिंह की चेतावनी के बाद पाकिस्तान ने कड़ा जवाब देने की धमकी दी है। लेफ्टिनेंट जनरल आमेर रजा ने कहा कि गलत अनुमान का जवाब ऐसा होगा जिसकी कल्पना विरोधी पक्ष नहीं कर सकता। यह बयान सीमा पार आतंकवाद पर नई घटना के संदर्भ में आया है। रक्षा मंत्री राजनाथ सिंह ने सीमा पार आतंकवाद की किसी भी नई घटना पर कड़ा जवाब देने की चेतावनी दी थी.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [आईजीआई एयरपोर्ट पर एमिरेट्स के विमान से टकराया पक्षी, उड़ान रद्द होने से यात्री परेशान](https://www.amarujala.com/delhi-ncr/delhi-bird-hits-emirates-aircraft-at-igi-airport-2026-10-18)
+*Amar Ujala Breaking* - Oct 18, 01:15 IST (iso: 2026-10-17T19:45:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/1_d1e0ba8afb68a6e79b493d9747271016.jpeg?w=1200&dpr=1.0 -->
+
+इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डे पर एमिरेट्स की उड़ान ईके 517 पर पक्षी टकरा गया। इस बर्ड स्ट्राइक के कारण उड़ान रद्द कर दी गई। यात्रियों को परेशानी का सामना करना पड़ा। विमान की जांच के बाद ही आगे की योजना तय होगी। इंदिरा गांधी अंतरराष्ट्रीय एयरपोर्ट (आईजीआई) पर शनिवार को दुबई जाने वाली एमिरेट्स एयरलाइंस की उड़ान ईके 517 के साथ बर्ड स्ट्राइक की घटना सामने आई।
 
 ### [मेडे.. मेडे... 3500 फीट की ऊंचाई पर टूटकर उड़ा प्‍लेन का डोर, आसमान से जमीन तक मचा हड़कंप, आफत में](https://hindi.news18.com/world/rest-of-world-nigeria-plane-lagos-flight-private-jet-door-opens-mid-air-abuja-mayday-alert-nsib-investigation-10917395.html)
 *News18 Hindi (World)* - Oct 17, 23:58 IST (iso: 2026-10-17T18:28:55+00:00)
@@ -96,49 +136,13 @@
 
 ---
 
-## एशिया-प्रशांत
+## अमेरिका
 
-### [‘जब ये बिहार-बंगाल में चुनाव हारते हैं तब...’, नितिन नवीन का विपक्ष पर हमला](https://www.abplive.com/news/india/bjp-national-president-nitin-nabin-attacks-rahul-gandhi-and-opposition-over-vote-chori-row-3203487)
-*ABP Live (India)* - Oct 17, 23:33 IST (iso: 2026-10-17T18:03:48+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/706d9e783b8040899063070d12b1f46817922539848471126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [ट्रंप की लोकप्रियता की परीक्षा, कांग्रेस में बहुमत बचा पाएगी रिपब्लिकन पार्टी?](https://www.patrika.com/world-news/us-midterm-elections-2026-donald-trump-india-impact-20992104)
+*Patrika (World)* - Oct 17, 23:38 IST (iso: 2026-10-17T18:08:19+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-2.webp -->
 
-बीजेपी अध्यक्ष नितिन गडकरी ने विपक्ष पर वोट चोरी के आरोपों का जवाब दिया। उन्होंने कहा कि विपक्ष सिर्फ हार के बाद ही चुनाव आयोग पर सवाल उठाता है। जीत के समय वे चुप रहते हैं। भारतीय जनता पार्टी (BJP) के राष्ट्रीय अध्यक्ष नितिन नबीन ने वोट चोरी और चुनावों में धांधली के आरोपों के बीच विपक्ष पर तीखा हमला किया है.
-
-### [SC की जांच कमेटी ने लॉन्च किया पोर्टल, प्रभावितों से मांगी शिकायतें](https://www.abplive.com/news/india/hpec-enquire-all-aspects-of-incidents-relating-violence-jantar-mantar-delhi-july-student-protest-3203475)
-*ABP Live (India)* - Oct 17, 21:33 IST (iso: 2026-10-17T16:03:20+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/8b30cd03b962db7679d991cf403eb31717922507708581324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-सुप्रीम कोर्ट ने नीट पेपर लीक प्रदर्शन की हिंसा की जांच के लिए हाई पावर एनक्वायरी कमिटी बनाई है। कमेटी ने प्रभावितों से शिकायतें लेने के लिए एक पोर्टल शुरू किया है। इसमें पुलिसकर्मी भी शामिल हैं। नीट पेपर लीक के दौरान जुलाई के महीने में दिल्ली में हुए प्रदर्शन के दौरान जंतर-मंतर और राजधानी के बाहर अन्य जगह हिंसात्मक घटनाओं पर सुप्रीम कोर्ट गंभीर है.
-
-### [हिरासत से रिहा होने के बाद अभिजीत दीपके ने लिखा पोस्ट- ‘मुझे पता था कि...’](https://www.abplive.com/news/india/abhijeet-dipke-remembers-his-decision-to-come-back-to-india-says-i-knew-my-life-would-change-forever-3203477)
-*ABP Live (India)* - Oct 17, 21:21 IST (iso: 2026-10-17T15:51:43+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/0141cc44de4f0f386e1c71989f6d30ef17922511895471126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके को 17 अक्टूबर को दिल्ली पुलिस की हिरासत से रिहा किया गया। उन्होंने सोशल मीडिया पर पोस्ट करके भारत लौटने के फैसले पर अपनी राय साझा की। कॉकरोच जनता पार्टी (CJP) के संस्थापक अभिजीत दीपके ने शनिवार (17 अक्टूबर, 2026) को दिल्ली पुलिस की हिरासत से रिहा होने के बाद एक पोस्ट साझा किया, जिसमें उन्होंने अमेरिका से भारत लौटने के फैसले और अपनी जिंदगी में होने वाले बदलावों का जिक्र किया है.
-
-### ['कार में बैठे, विक्ट्री साइन दिखाया', अभिजीत दीपके की रिहाई के बाद सामने आई पहली तस्वीर](https://www.abplive.com/news/india/cjp-convenor-abhijeet-dipke-shows-victory-sign-after-released-from-delhi-police-detention-3203464)
-*ABP Live (India)* - Oct 17, 20:18 IST (iso: 2026-10-17T14:48:25+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/bda76c1446fe0270efa4725e88ddd47917922483080221126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-अभिजीत दीपके की रिहाई के बाद उनकी पहली तस्वीर सामने आई। इसमें वह कार में बैठे विक्ट्री साइन बनाते दिख रहे हैं। पार्टी ने यह तस्वीर एक्स पर साझा की। कॉकरोच जनता पार्टी (CJP) के संस्थापक अभिजीत दीपके को शनिवार (17 अक्टूबर, 2026) को दिल्ली पुलिस की हिरासत की रिहाई मिल चुकी है. हिरासत से छूटने के बाद अभिजीत दीपके की पहली तस्वीर सामने आई, जिसमें वह कार में बैठे और विक्ट्री साइन बनाते हुए दिखाते दे रहे हैं.
-
-### [राहुल गांधी के खिलाफ महिला पत्रकार ने दर्ज कराई शिकायत, तुरंत FIR की मांग](https://www.abplive.com/news/india/journalist-richa-parashar-files-complaint-against-rahul-gandhi-dcp-delhi-police-demands-immediate-fir-3203458)
-*ABP Live (India)* - Oct 17, 20:13 IST (iso: 2026-10-17T14:43:17+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/17/c91a8f6c8cc0100ac44a58a792e7cd8617922480072021324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-महिला पत्रकार ऋचा पराशर ने राहुल गांधी के खिलाफ नई दिल्ली में शिकायत दर्ज कराई है। उन्होंने 12 अक्टूबर को सुप्रीम कोर्ट मार्च के दौरान हुए दुर्व्यवहार पर तुरंत एफआईआर की मांग की है। राहुल गांधी के खिलाफ महिला पत्रकार ऋचा पराशर ने नई दिल्ली के डीसीपी के पास एक शिकायत दर्ज की है. इसमें लोकसभा नेता प्रतिपक्ष समेत अन्य के खिलाफ तुरंत FIR की मांग की गई है.
-
-### [13,800 साल से अलास्का की बर्फ में दफन था अमेरिका के सबसे पुराने इंसानों का खजाना, मिले हजारों हथियार](https://hindi.news18.com/news/ajab-gajab/viral-archaeologists-discover-oldest-dwelling-13800-year-old-alaska-sheg-xdaltthi-10917020.html)
-*News18 Hindi (World)* - Oct 17, 19:49 IST (iso: 2026-10-17T14:19:01+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Alaska_Site-2026-10-571d85e84588df739ba7bf724decb2e7-1200x800.jpg -->
-
-अलास्का में 13,800 साल पुरानी 'शैग एक्स्टडाल्थी' बस्ती की खोज हुई है। यहाँ से हजारों पत्थर के हथियार, हड्डी की सुई और पेंडेंट मिले हैं। साथ ही भेड़िए जैसी जानवरों की हड्डियाँ भी मिलीं, जिन्हें अमेरिका के सबसे पुराने पालतू कुत्ते माना जा रहा है। पुरातत्वविदों ने अलास्का में 13,800 साल पुरानी एक इंसानी बस्ती की खोज की है, जिसे पश्चिमी गोलार्ध का सबसे पुराना घर माना जा रहा है.
-
-### [भारत की हुंकार पर पाकिस्तान सेना की गीदड़भभकी, रक्षामंत्री की चेतावनी के बाद परमाणु हथियारों की](https://hindi.news18.com/world/pakistan-rajnath-singh-warning-pakistan-military-commander-response-amer-raza-10916895.html)
-*News18 Hindi (World)* - Oct 17, 19:08 IST (iso: 2026-10-17T13:38:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/asim-munir-7-2026-10-b4ebaa1d355610b5ae2e2dbf6bcc1e93-1200x800.jpg -->
-
-रक्षा मंत्री राजनाथ सिंह की चेतावनी के बाद पाकिस्तान ने कड़ा जवाब देने की धमकी दी है। लेफ्टिनेंट जनरल आमेर रजा ने कहा कि गलत अनुमान का जवाब ऐसा होगा जिसकी कल्पना विरोधी पक्ष नहीं कर सकता। यह बयान सीमा पार आतंकवाद पर नई घटना के संदर्भ में आया है। रक्षा मंत्री राजनाथ सिंह ने सीमा पार आतंकवाद की किसी भी नई घटना पर कड़ा जवाब देने की चेतावनी दी थी.
+अमेरिका में 3 नवंबर को मध्यावधि चुनाव होंगे। ये चुनाव ट्रंप की लोकप्रियता और नीतियों पर जनता के रुख का संकेत होंगे। रिपब्लिकन पार्टी को संसद में बहुमत बचाने की चुनौती का सामना करना होगा। मतदाता ट्रंप के शेष कार्यकाल में उनके फैसलों को समर्थन देंगे या नहीं, यह तय करेंगे। Donald Trump Midterm Elections: अमरीका में 3 नवंबर को होने वाले मध्यावधि चुनाव केवल प्रतिनिधि सभा और सीनेट की सीटों का चुनाव नहीं हैं, बल्कि राष्ट्रपति डॉनल्ड ट्रंप की नीतियों, लोकप्रियता और नेतृत्व पर जनता के रुख का भी अहम संकेत होंगे।
 
 ---
 
