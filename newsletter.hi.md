@@ -1,10 +1,40 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 17, 2026 15:18 IST
+**अपडेट:** October 17, 2026 18:50 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### ['प्लेन क्रैश करने की थी साजिश, लेकिन मैंने मौत को दी मात', कैप्टन स्मित मच्छर की जुबानी, सामने आई](https://hindi.news18.com/news/nation/captain-smit-machchhar-hospital-interview-uae-media-sky-news-arabia-the-national-10916867.html)
+*News18 Hindi (World)* - Oct 17, 18:47 IST (iso: 2026-10-17T13:17:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Capt-Smit-Machchhar-2026-10-a6416507537a414e578dc6ae267da6cd-1200x800.jpg -->
+
+यूएई में अस्पताल से कैप्टन स्मित मच्छर ने बताया कि को-पायलट ने नमाज के बहाने हमला किया। उन्होंने कॉकपिट का दरवाजा खोल दिया। यात्रियों और सहपायलट ने नियंत्रण संभाला। सैकड़ों लोगों की जान बची। यूएई मीडिया से अस्पताल के बिस्तर से बात करते हुए कैप्टन स्मित मच्छर ने फ्लाइट में हुए उस खौफनाक हादसे की पूरी कहानी बयां की है.
+
+### [ताइज़ पर हूती विद्रोहियों के हमले में मारे गए 3 नागरिक, 5 घायल](https://www.patrika.com/world-news/houthis-attack-on-taiz-killed-3-civilians-and-injured-5-others-20991324)
+*Patrika (World)* - Oct 17, 17:20 IST (iso: 2026-10-17T11:50:28+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/houthi-rebel.webp -->
+
+यमन के ताइज़ प्रांत में हूती विद्रोहियों ने गोलाबारी की। सबिर अल-मवादिम जिले पर हमला हुआ। तीन नागरिक मारे गए और पांच घायल हुए। सीज अफेयर्स ऑफिस ने घटना की पुष्टि की। यमन (Yemen) में हूती विद्रोहियों (Houthis) और सरकारी सेना के बीच जंग बढ़ती ही जा रही है। दोनों पक्ष लगातार एक-दूसरे के ठिकानों को निशाना बना रहे हैं।
+
+### [एक मोर्चे पर भी जंग तो पूरे क्षेत्र में आग: खतीबजादेह की दो टूक, तेहरान को अस्थायी युद्धविराम कबूल](https://www.patrika.com/world-news/iran-rejects-temporary-ceasefire-khatibzadeh-all-fronts-20991211)
+*Patrika (World)* - Oct 17, 16:28 IST (iso: 2026-10-17T10:58:17+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Khatibzadeh.webp -->
+
+ईरान के उप विदेश मंत्री खतीबजादेह ने तेहरान क्षेत्र में अस्थायी युद्धविराम को खारिज कर दिया। उन्होंने कहा कि शांति के लिए हर मोर्चे पर युद्ध रुकना जरूरी है। किसी एक इलाके में लड़ाई जारी रहने पर पूरे क्षेत्र में युद्ध बना रहेगा। Iran Rejects Ceasefire: ईरान के उप विदेश मंत्री खतीबजादेह ने कहा कि, तेहरान क्षेत्र में किसी भी प्रकार के अस्थायी युद्धविराम को पूरी तरह खारिज करता है।
+
+### [मसूद पेज़ेशकियान का बड़ा बयान – ‘ईरान चाहता है ऐसी तकनीकी बढ़त, जिससे दुश्मन हमला करने की हिम्मत न](https://www.patrika.com/world-news/masoud-pezeshkian-says-iran-wants-technological-advances-that-will-mean-no-enemy-dares-to-attack-20991128)
+*Patrika (World)* - Oct 17, 16:09 IST (iso: 2026-10-17T10:39:45+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/masoud_.webp -->
+
+ईरान के राष्ट्रपति मसूद पेज़ेशकियान ने तकनीकी बढ़त की मांग की है। अमेरिका के साथ युद्ध में तकनीकी अंतर के कारण ईरान को नुकसान झेलना पड़ा। पेज़ेशकियान चाहते हैं कि दुश्मन हमला करने की हिम्मत न कर सके। ईरान (Iran) और अमेरिका (United States of America) के बीच हुए युद्ध में ईरान ने भले ही डटकर अमेरिका का सामना किया, लेकिन तकनीकी रूप से पीछे होने की वजह से उसे काफी नुकसान भी झेलना पड़ा।
+
+### [भारत के 4 पड़ोसी देश भुखमरी से बेहाल, टॉप-10 की लिस्ट में पाकिस्तान भी शामिल](https://www.patrika.com/world-news/india-neighbours-hunger-and-food-crisis-pakistan-top10-20991064)
+*Patrika (World)* - Oct 17, 15:21 IST (iso: 2026-10-17T09:51:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/food-crisis.webp -->
+
+एक्शन अगेंस्ट हंगर की रिपोर्ट में पाकिस्तान दुनिया के दस सबसे भूखे देशों में शामिल हुआ। भारत के चार पड़ोसी देश इस सूची में हैं। गरीबी, जलवायु आपदा और मदद की कमी के कारण पाकिस्तान में भूखमरी बढ़ी है। Hunger Crisis 2026: भारत के चार पड़ोसी देश दुनिया के उन 10 देशों में शामिल हो चुके हैं, जहां भुखमरी की स्थिति सबसे गंभीर है।
 
 ### [सऊदी अरब के तट पर जहाज पर RPG से हमला, सभी नाविकों की बचाई गई जान](https://www.patrika.com/world-news/tanker-struck-by-rpg-off-saudi-arabia-coast-all-crew-members-rescued-20991001)
 *Patrika (World)* - Oct 17, 15:10 IST (iso: 2026-10-17T09:40:52+00:00)
@@ -30,11 +60,75 @@
 
 यमन में हूती विद्रोहियों ने अदन एयरपोर्ट पर मिसाइलें दागीं। सऊदी अरब ने दावा किया कि उसने ड्रोन और मिसाइलें मार गिराईं। संघर्ष में राष्ट्रपति भवन पर भी हमला हुआ था। Adan Airport hit by Missile-Drones: यमन में हूती विद्रोहियों और सऊदी अरब समर्थित सरकार के बीच चल रहा संघर्ष बढ़ रहा है. पहले तो हूतियों ने राष्ट्रपति भवन की ओर मिसाइलें छोड़ी थीं और अब अदन एयरपोर्ट की ओर हमला किया है.
 
-### [ईरान की कमर टूटी? अमेरिकी एडमिरल का दावा, मिलिशिया और IRGC लड़ाकों को नहीं मिल रहा वेतन](https://www.patrika.com/world-news/admiral-brad-cooper-iran-financial-pressure-militia-salary-hormuz-open-20990157)
-*Patrika (World)* - Oct 17, 10:24 IST (iso: 2026-10-17T04:54:28+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/US-IRAN-WAR-UPDATE-1.webp -->
+---
 
-Admiral Brad Cooper, head of U. S. Central Command, said Iran’s economy is in severe distress after nine months of conflict. He cited a $25 billion drop in oil revenue, a $350 million crypto freeze and halted funding for militia groups in Iraq and Lebanon. Admiral Brad Cooper Iran: अमेरिकी सेंट्रल कमांड के प्रमुख एडमिरल ब्रैड कूपर ने कहा कि नौ महीने के युद्ध के बाद ईरान की हालत बहुत ही खराब हो गई है।
+## एशिया-प्रशांत
+
+### [बांग्लादेश में खसरे से 1,147 मौतें, तारिक रहमान से नहीं सभल रहा, 2 लाख से ज्यादा पर सीधा खतरा](https://hindi.news18.com/world/south-asia-bangladesh-measles-outbreak-1147-deaths-children-falling-vaccination-10916729.html)
+*News18 Hindi (World)* - Oct 17, 18:29 IST (iso: 2026-10-17T12:59:59+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/bangladesh-measels-1-2026-10-dd880a0e08164d34e7d5c4ed14d5680d-1200x800.jpg -->
+
+बांग्लादेश में खसरे से 1,147 मौतें हुईं। 2.02 लाख संदिग्ध मामले दर्ज हुए। मृतकों में 94 फीसदी पांच साल से कम उम्र के बच्चे हैं। टीकाकरण दर गिरने से संकट गहराया। तारिक रहमान की सरकार नियंत्रण में विफल रही। बांग्लादेश में खसरे का प्रकोप गंभीर होता जा रहा है. WHO के मुताबिक, मार्च के मध्य से 9 अक्टूबर तक 2.02 लाख संदिग्ध मामले सामने आए और 1,147 लोगों की मौत हुई.
+
+### [मसूद अजहर गायब! ‘अज्ञात हमलावरों’ के खौफ ने तोड़ी आतंकी संगठन की कमर](https://www.patrika.com/world-news/jaish-e-mohammed-crisis-masood-azhar-absence-commanders-killed-20991662)
+*Patrika (World)* - Oct 17, 18:23 IST (iso: 2026-10-17T12:53:13+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Masood-Azhar.webp -->
+
+जैश-ए-मोहम्मद के मुखिया मसूद अजहर गायब हैं। भारतीय खुफिया सूत्रों के अनुसार वे गंभीर बीमारी या छिपे हुए हैं। संगठन के जमीनी कैडरों में असंतोष बढ़ रहा है। पाकिस्तान के भीतर आतंकी गतिविधियां प्रभावित हो रही हैं। Jaish Internal Rift: जैश-ए-मोहम्मद JeM के भीतर इस समय भारी संकट और घमासान की स्थिति बनी हुई है। भारतीय खुफिया सूत्रों और रक्षा विशेषज्ञों के अनुसार, आतंकी संगठन का मुखिया मसूद अजहर गंभीर रूप से बीमार होने या लगातार छिपने के कारण पूरी तरह से मुख्यधारा से गायब हो चुका है, जिसके चलते संगठन के जमीनी स्तर के कैडरों में असंतोष बढ़ रहा है।
+
+### [पाकिस्तान में 20 पुलिसवाले अगवा, घर लौट रहे जवानों को उठा ले गए विद्रोही, मुनीर की फौज के हाथ-पांव](https://hindi.news18.com/world/pakistan-20-police-recruits-abducted-in-pakistan-balochistan-cargo-trucks-ablaze-10916640.html)
+*News18 Hindi (World)* - Oct 17, 17:11 IST (iso: 2026-10-17T11:41:21+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/balochistan-3-2026-10-cb6f664c5d05a109a49f170c9c1299a8-1200x800.jpg -->
+
+पाकिस्तान के बलूचिस्तान में 20 प्रशिक्षु पुलिसकर्मियों को अगवा किया गया। मस्तुंग जिले के गोरगीना इलाके से छुट्टी पर लौटते हुए उन्हें उठाया गया। बलूच अलगाववादियों की संलिप्तता का शक है। सुरक्षा बलों ने तलाशी अभियान शुरू किया। पाकिस्तान के बलूचिस्तान प्रांत में शुक्रवार शाम मस्तुंग जिले के गोरगीना इलाके से 20 प्रशिक्षु पुलिसकर्मियों को अगवा कर लिया गया. सूत्रों के मुताबिक, इस घटना में बलूच अलगाववादियों का हाथ होने का शक है.
+
+### [140 KM की रफ्तार, 170 KM के झोंके, आ रही भयानक तबाही, 'चांपी' तूफान बन रहा सुपर टाइफून](https://hindi.news18.com/world/south-asia-typhoon-champi-super-typhoon-philippines-guam-taiwan-140-km-speed-10916610.html)
+*News18 Hindi (World)* - Oct 17, 16:30 IST (iso: 2026-10-17T11:00:12+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/typhoon-2-2026-10-6c35af7b62367ec71dbb4a7546335083-1200x800.jpg -->
+
+पश्चिमी प्रशांत में तूफान चांपी टाइफून बन गया है। इसके केंद्र में हवाओं की रफ्तार 140 किलोमीटर प्रति घंटा है। गुआम और मारियाना द्वीपों की ओर बढ़ रहा यह तूफान मंगलवार तक सुपर टाइफून बन सकता है। पश्चिमी प्रशांत महासागर में तूफान चांपी ताकतवर होकर टाइफून में बदल गया है. फिलीपींस की मौसम एजेंसी के मुताबिक, इसके केंद्र के पास हवाओं की रफ्तार 140 किलोमीटर प्रति घंटा और तेज झोंकों की रफ्तार 170 किलोमीटर प्रति घंटा तक पहुंच गई है.
+
+### [पाकिस्तान का गजब खेल, अखबार बांटने वाला बाजार ही सील कर दिया, PM-राष्ट्रपति के ऑफिस भी नहीं पहुंचे](https://hindi.news18.com/world/pakistan-newspaper-distribution-stopped-in-islamabad-after-a-market-sealed-over-disputed-dues-10916548.html)
+*News18 Hindi (World)* - Oct 17, 15:55 IST (iso: 2026-10-17T10:25:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-news-paper-2026-10-9d7784490a49a2c409b1aebd84bd7408-1200x800.jpg -->
+
+इस्लामाबाद में अखबारों की सप्लाई थम गई है। प्रशासन ने करीब एक करोड़ रुपये के बकाये का हवाला देते हुए बाजार सील कर दिए। पत्रकारों ने इस कार्रवाई पर सवाल उठाए हैं। जिन बाजारों से अखबार सप्लाई किए जाते थे, वह सील कर दिए गए हैं. प्रशासन का कहना है कि करीब एक करोड़ रुपये के बकाये के कारण ऐसा किया गया है.
+
+### [दुश्मन को भनक तक नहीं लगेगी, उत्तर कोरिया ने बनाई AI वाली टॉरपीडो, पानी के अंदर करेगी शिकार](https://hindi.news18.com/world/rest-of-world-north-korea-tested-its-ai-powered-jam-2-torpedo-tension-south-korea-us-japan-kim-jong-un-navy-power-10916244.html)
+*News18 Hindi (World)* - Oct 17, 14:49 IST (iso: 2026-10-17T09:19:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/north-korea-10-2026-10-3e0ff1679f880da893fb7535b38e9c50-1200x800.jpg -->
+
+उत्तर कोरिया ने एआई से लैस जैम-2.0 टॉरपीडो का पानी में परीक्षण किया। गुरुवार को हुए इस परीक्षण में हथियार की क्षमताओं की जांच हुई। दक्षिण कोरिया के विशेषज्ञ इसे सुपरकैविटेटिंग टॉरपीडो मानते हैं। North Korea Navy News: उत्तर कोरिया ने एआई तकनीक से लैस नई ‘जैम-2.0’ टॉरपीडो प्रणाली का पानी के भीतर परीक्षण किया है. सरकारी मीडिया के मुताबिक, गुरुवार को हुए परीक्षण में हथियार की तकनीक और प्रदर्शन से जुड़ी क्षमताओं की जांच की गई.
+
+### [क्या नवाज-बेनजीर की तरह पाकिस्तान छोड़ेंगे इमरान खान? पाकिस्तानी विपक्ष का दावा- जेल में बनाया जा](https://www.patrika.com/world-news/pakistan-former-pm-imran-khan-exile-deal-achakzai-nawaz-benazir-20990445)
+*Patrika (World)* - Oct 17, 12:46 IST (iso: 2026-10-17T07:16:48+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/imran-khan-pakistan.webp -->
+
+पाकिस्तानी विपक्षी नेता महमूद खान अचकजई का दावा है कि इमरान खान पर निर्वासन का दबाव बनाया जा रहा है। यह दावा नवाज शरीफ और बेनजीर भुट्टो के पूर्व निर्वासन की याद दिलाता है। Imran Khan exile: पाकिस्तान की नेशनल असेंबली में विपक्ष के नेता और पख्तूनख्वा मिली अवामी पार्टी (PKMAP) के प्रमुख महमूद खान अचकजई ने दावा किया है कि जेल में बंद पूर्व प्रधानमंत्री और पाकिस्तान तहरीक-ए-इंसाफ (PTI) के संस्थापक इमरान खान पर एक खास राजनीतिक समझौते को मानने के लिए दबाव डाला जा रहा है।
+
+### [पाकिस्तान में डोली धरती, 5.8 मैग्नीट्यूड के भूकंप से सहमे लोग, बलूचिस्तान में था केंद्र](https://hindi.news18.com/world/pakistan-pakistan-jolts-with-earthquake-5-magnitude-update-news-10915813.html)
+*News18 Hindi (World)* - Oct 17, 12:24 IST (iso: 2026-10-17T06:54:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-earthquake-2026-10-b86f1711cc3eb08aae8dc1447f07b0db-1200x800.jpg -->
+
+पाकिस्तान के बलूचिस्तान में 5.8 मैग्नीट्यूड का भूकंप आया। केंद्र खुजदार से 48 किलोमीटर दूर था। भारत के कुछ शहरों में हल्के झटके महसूस हुए। Pakistan Earthquake India Termers: पड़ोसी देश पाकिस्तान में लोग तब सहम गए, जब यहां 5.8 तीव्रता का भूकंप महसूस किया गया. पाकिस्तान भूकंप की वजह से भारत के भी कुछ शहरों में झटके आए, हालांकि ये बहुत हल्के थे.
+
+### [उत्तर कोरिया ने एआई-बेस्ड टॉरपीडो सिस्टम का किया परीक्षण, प्योंगयांग ने क्या कहा?](https://www.amarujala.com/world/north-korea-tests-jam-2-ai-guided-torpedo-system-pyongyang-2026-10-17)
+*Amar Ujala World* - Oct 17, 11:45 IST (iso: 2026-10-17T06:15:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/utatara-karayaii-nata-kama-jaga-una_0f53ef0f2d54b4c9b4e5d7fa4d3d3718.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर कोरिया ने एआई-आधारित जैम-2 टॉरपीडो सिस्टम का परीक्षण किया। प्योंगयांग ने इसे अपनी शक्ति का प्रदर्शन बताया। यह नया हथियार समुद्री सुरक्षा के लिए महत्वपूर्ण है। किम जोंग का शक्ति प्रदर्शन: उत्तर कोरिया ने एआई-बेस्ड टॉरपीडो सिस्टम का किया परीक्षण, प्योंगयांग ने क्या कहा?
+
+### [यूएन रिपोर्ट पर भारत का कड़ा ऐतराज: 'अफवाहों को रिपोर्ट का जामा पहनाया', युवाओं को लेकर दावों पर भी](https://www.amarujala.com/world/india-rejects-un-rapporteur-claims-on-youth-protests-calls-report-hearsay-dressed-as-report-2026-10-17)
+*Amar Ujala World* - Oct 17, 10:41 IST (iso: 2026-10-17T05:11:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/anaja-savanprpa-yaena-ma-sathaya-mashana-ka-parathama-sacava_6522c356cff7c4f16c68be9c53cec74e.jpeg?w=1200&dpr=1.0 -->
+
+India lodged a formal protest with the United Nations on 16 October, rejecting a report by a UN special rapporteur on freedom of expression that alleged widespread youth protests over recent policies. New Delhi called the claims hearsay and demanded the document be amended. यूएन रिपोर्ट पर भारत का कड़ा ऐतराज: 'अफवाहों को रिपोर्ट का जामा पहनाया', युवाओं को लेकर दावों पर भी।
+
+### [ऑस्ट्रेलिया में भारतीयों के खिलाफ पोस्टरबाजी, मचा हंगामा, सांसद बोले- नफरत के लिए जगह नहीं](https://hindi.news18.com/world/rest-of-world-anti-indian-racist-poster-in-australia-triggers-outrage-mp-reaction-ws-l-10915755.html)
+*News18 Hindi (World)* - Oct 17, 10:31 IST (iso: 2026-10-17T05:01:23+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/australia-news-2026-10-e6c6cb9aa8c0c171e398cb4419b35285-1200x800.jpg -->
+
+ऑस्ट्रेलिया के सेसनॉक में भारतीयों के खिलाफ नस्लीय पोस्टर चिपकाए गए। स्थानीय सांसद ने इसकी निंदा की। उन्होंने कहा कि नफरत के लिए जगह नहीं है। Anti Indian Racist Poster in Australia: ऑस्ट्रेलिया के न्यू साउथ वेल्स राज्य के सेसनॉक शहर में ऐसी घटना हुई है, जिसने नस्लीय भेदभाव को एक बार फिर से उजागर कर दिया है. यहां भारतीयों और प्रवासियों के खिलाफ भद्दे मैसेज लिखकर पोस्टर चिपकाए गए, जिसके बाद यहां के सांसद को बचाव में उतरना पड़ा.
 
 ---
 
@@ -69,104 +163,6 @@ Admiral Brad Cooper, head of U. S. Central Command, said Iran’s economy is in 
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/trump-in-court.webp -->
 
 पूर्व भारतीय डिप्लोमैट केपी फैबियन ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की रूस नीति पर सवाल उठाए हैं। फैबियन का कहना है कि अमेरिका खुद रूस से डीजल खरीदने की कोशिश कर रहा है। इसी वजह से भारत पर टैरिफ लगाने का कोई औचित्य नहीं है। उन्होंने आरोप लगाया कि ट्रंप भारत पर दबाव बनाकर अपने पक्ष में व्यापार समझौता चाहते हैं।
-
-### [रूस से तेल खरीद पर ट्रंप की राहत कितने दिन की?: भारत के लिए खतरा अभी भी बरकरार; जीटीआरआई ने क्यों](https://www.amarujala.com/india-news/us-president-donald-trump-sanctions-waiver-offers-india-temporary-relief-gtri-warns-of-renewed-us-pressure-2026-10-17)
-*Amar Ujala Breaking* - Oct 17, 11:36 IST (iso: 2026-10-17T06:06:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/trump-sanctions-waiver-offers-india_b23f64e611b68b1aa9f0042f49a794fe.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने भारत को रूसी तेल खरीदने के लिए अस्थायी छूट दी है। यह राहत केवल कुछ ही दिनों के लिए है और स्थायी नहीं है। जियो-ट्रेंड्स रिसर्च इंस्टीट्यूट (GTRI) का कहना है कि अमेरिका भविष्य में भारत पर फिर से दबाव डाल सकता है। इसलिए भारत के लिए खतरा अभी भी बरकरार है। रूस से तेल खरीद पर ट्रंप की राहत कितने दिन की?: भारत के लिए खतरा अभी भी बरकरार; जीटीआरआई ने क्यों।
-
-### [भारत ही नहीं, इन 5 देशों को भी राहत, अब नहीं लगेगा 100% टैरिफ, अमेरिका ने क्यों लिया यूटर्न?](https://hindi.news18.com/world/america-why-america-donald-trump-u-turn-on-100-percent-tariff-along-with-5-country-know-reason-10915629.html)
-*News18 Hindi (World)* - Oct 17, 09:04 IST (iso: 2026-10-17T03:34:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/donald-trump-order-2026-10-f0f9389c24e04382bea29db46e095959-1200x800.jpg -->
-
-अमेरिका ने रूस से तेल खरीदने वाले देशों पर टैरिफ की योजना रोक दी। भारत, चीन, स्लोवाकिया, हंगरी और अजरबैजान को राहत मिली। ट्रंप ने इसे राष्ट्रीय हित में बताया। भारत ही नहीं बल्कि चीन, स्लोवाकिया, हंगरी और अजरबैजान को भी अमेरिका के नए फैसले से राहत मिली है. राष्ट्रपति डोनाल्ड ट्रंप ने रूस से तेल खरीदने वाले देशों पर 100 फीसदी तक टैरिफ लगाने की योजना फिलहाल रोक दी है.
-
-### [90 मिनट में पुतिन ने क्या घुट्टी पिलाई, जो जेलेंस्की को बर्बाद करने पर तुले डोनाल्ड ट्रंप, भारत-चीन](https://hindi.news18.com/world/europe-why-donald-trump-favoring-russia-against-ukraine-all-of-sudden-vladimir-putin-zelensky-10915606.html)
-*News18 Hindi (World)* - Oct 17, 09:04 IST (iso: 2026-10-17T03:34:07+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Volodymyr-Zelenskyy-Donald-Trump-2026-08-bff39101b6d444bfcaf3dfcd32441c09-1200x800.jpg -->
-
-ट्रंप ने रूस पर प्रतिबंधों को लेकर रुख बदला। यह फैसला यूक्रेन युद्ध के दौरान जेलेंस्की के लिए चुनौती बना। अमेरिका की नीति में बदलाव ने स्थिति को जटिल कर दिया। Why Donald Trump Waving off Sanction against Russia: जब रूस-यूक्रेन का युद्ध शुरू हुआ था, तब अमेरिका में राष्ट्रपति भी अलग थे और परिस्थितियां भी. डोनाल्ड ट्रंप के सत्ता में आने के बाद से यूक्रेनी राष्ट्रपति के लिए ये युद्ध रोलरकोस्ट बन गया है.
-
----
-
-## एशिया-प्रशांत
-
-### [दुश्मन को भनक तक नहीं लगेगी, उत्तर कोरिया ने बनाई AI वाली टॉरपीडो, पानी के अंदर करेगी शिकार](https://hindi.news18.com/world/rest-of-world-north-korea-tested-its-ai-powered-jam-2-torpedo-tension-south-korea-us-japan-kim-jong-un-navy-power-10916244.html)
-*News18 Hindi (World)* - Oct 17, 14:49 IST (iso: 2026-10-17T09:19:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/north-korea-10-2026-10-3e0ff1679f880da893fb7535b38e9c50-1200x800.jpg -->
-
-उत्तर कोरिया ने एआई से लैस जैम-2.0 टॉरपीडो का पानी में परीक्षण किया। गुरुवार को हुए इस परीक्षण में हथियार की क्षमताओं की जांच हुई। दक्षिण कोरिया के विशेषज्ञ इसे सुपरकैविटेटिंग टॉरपीडो मानते हैं। North Korea Navy News: उत्तर कोरिया ने एआई तकनीक से लैस नई ‘जैम-2.0’ टॉरपीडो प्रणाली का पानी के भीतर परीक्षण किया है. सरकारी मीडिया के मुताबिक, गुरुवार को हुए परीक्षण में हथियार की तकनीक और प्रदर्शन से जुड़ी क्षमताओं की जांच की गई.
-
-### [मुंबई में रेलवे पुल का नाम रखने को लेकर छिड़ा विवाद, भाजपा-शिवसेना नेता भिड़े](https://www.amarujala.com/india-news/vidyavihar-bridge-naming-controversy-nana-patekar-vs-captain-smit-machhar-2026-10-17)
-*Amar Ujala Breaking* - Oct 17, 12:51 IST (iso: 2026-10-17T07:21:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/nana-patakara-oura-samata-macachhara_1d2b5adaa4be8a1eba19cc020962fa28.jpeg?w=1200&dpr=1.0 -->
-
-मुंबई में विद्याविहार रेलवे पुल के नाम पर भाजपा और शिवसेना के नेताओं में विवाद हुआ। एक पक्ष नाना पाटेकर का नाम चाहता है। दूसरा पक्ष कैप्टन स्मित मच्छार का नाम रखना चाहता है। मुंबई में रेलवे पुल का नाम रखने को लेकर छिड़ा विवाद, भाजपा-शिवसेना नेता भिड़े।
-
-### [क्या नवाज-बेनजीर की तरह पाकिस्तान छोड़ेंगे इमरान खान? पाकिस्तानी विपक्ष का दावा- जेल में बनाया जा](https://www.patrika.com/world-news/pakistan-former-pm-imran-khan-exile-deal-achakzai-nawaz-benazir-20990445)
-*Patrika (World)* - Oct 17, 12:46 IST (iso: 2026-10-17T07:16:48+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/imran-khan-pakistan.webp -->
-
-पाकिस्तानी विपक्षी नेता महमूद खान अचकजई का दावा है कि इमरान खान पर निर्वासन का दबाव बनाया जा रहा है। यह दावा नवाज शरीफ और बेनजीर भुट्टो के पूर्व निर्वासन की याद दिलाता है। Imran Khan exile: पाकिस्तान की नेशनल असेंबली में विपक्ष के नेता और पख्तूनख्वा मिली अवामी पार्टी (PKMAP) के प्रमुख महमूद खान अचकजई ने दावा किया है कि जेल में बंद पूर्व प्रधानमंत्री और पाकिस्तान तहरीक-ए-इंसाफ (PTI) के संस्थापक इमरान खान पर एक खास राजनीतिक समझौते को मानने के लिए दबाव डाला जा रहा है।
-
-### [पाकिस्तान में डोली धरती, 5.8 मैग्नीट्यूड के भूकंप से सहमे लोग, बलूचिस्तान में था केंद्र](https://hindi.news18.com/world/pakistan-pakistan-jolts-with-earthquake-5-magnitude-update-news-10915813.html)
-*News18 Hindi (World)* - Oct 17, 12:24 IST (iso: 2026-10-17T06:54:01+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-earthquake-2026-10-b86f1711cc3eb08aae8dc1447f07b0db-1200x800.jpg -->
-
-पाकिस्तान के बलूचिस्तान में 5.8 मैग्नीट्यूड का भूकंप आया। केंद्र खुजदार से 48 किलोमीटर दूर था। भारत के कुछ शहरों में हल्के झटके महसूस हुए। Pakistan Earthquake India Termers: पड़ोसी देश पाकिस्तान में लोग तब सहम गए, जब यहां 5.8 तीव्रता का भूकंप महसूस किया गया. पाकिस्तान भूकंप की वजह से भारत के भी कुछ शहरों में झटके आए, हालांकि ये बहुत हल्के थे.
-
-### [उत्तर कोरिया ने एआई-बेस्ड टॉरपीडो सिस्टम का किया परीक्षण, प्योंगयांग ने क्या कहा?](https://www.amarujala.com/world/north-korea-tests-jam-2-ai-guided-torpedo-system-pyongyang-2026-10-17)
-*Amar Ujala World* - Oct 17, 11:45 IST (iso: 2026-10-17T06:15:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/utatara-karayaii-nata-kama-jaga-una_0f53ef0f2d54b4c9b4e5d7fa4d3d3718.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर कोरिया ने एआई-आधारित जैम-2 टॉरपीडो सिस्टम का परीक्षण किया। प्योंगयांग ने इसे अपनी शक्ति का प्रदर्शन बताया। यह नया हथियार समुद्री सुरक्षा के लिए महत्वपूर्ण है। किम जोंग का शक्ति प्रदर्शन: उत्तर कोरिया ने एआई-बेस्ड टॉरपीडो सिस्टम का किया परीक्षण, प्योंगयांग ने क्या कहा?
-
-### [2022 में खेला था पिछला मैच, चार साल का इंतजार और चोटों से जंग! फिर बनेंगे संकटमोचक?](https://www.amarujala.com/cricket/bhuvneshwar-kumar-s-potential-india-comeback-can-the-swing-king-turn-the-tide-against-west-indies-2026-10-17)
-*Amar Ujala Breaking* - Oct 17, 11:39 IST (iso: 2026-10-17T06:09:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/bhuvneshwar-kumar-india-vs-west-indies-india-t20i-morne-morkel-arshdeep-singh-rcb-ipl-2026-ch_330a097899a5d6c701da87f5cbd980c3.jpeg?w=1200&dpr=1.0 -->
-
-भुवनेश्वर कुमार चार साल के अंतराल के बाद भारतीय टीम में वापसी की उम्मीद लगाए हुए हैं। वेस्टइंडीज के खिलाफ निर्णायक टी20 मैच में उनकी उपस्थिति संभव है। अर्शदीप सिंह की फिटनेस स्थिति पर भुवनेश्वर के खेलने का फैसला निर्भर करेगा। पिछला मैच 2022 में खेला था और चोटों से जूझने के बाद अब वह संकटमोचक बनना चाहते हैं। करीब चार साल बाद भारतीय टीम में वापसी की उम्मीद लगाए भुवनेश्वर कुमार वेस्टइंडीज के खिलाफ निर्णायक टी20 में खेल सकते हैं।
-
-### [यूएन रिपोर्ट पर भारत का कड़ा ऐतराज: 'अफवाहों को रिपोर्ट का जामा पहनाया', युवाओं को लेकर दावों पर भी](https://www.amarujala.com/world/india-rejects-un-rapporteur-claims-on-youth-protests-calls-report-hearsay-dressed-as-report-2026-10-17)
-*Amar Ujala World* - Oct 17, 10:41 IST (iso: 2026-10-17T05:11:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/anaja-savanprpa-yaena-ma-sathaya-mashana-ka-parathama-sacava_6522c356cff7c4f16c68be9c53cec74e.jpeg?w=1200&dpr=1.0 -->
-
-India lodged a formal protest with the United Nations on 16 October, rejecting a report by a UN special rapporteur on freedom of expression that alleged widespread youth protests over recent policies. New Delhi called the claims hearsay and demanded the document be amended. यूएन रिपोर्ट पर भारत का कड़ा ऐतराज: 'अफवाहों को रिपोर्ट का जामा पहनाया', युवाओं को लेकर दावों पर भी।
-
-### [ऑस्ट्रेलिया में भारतीयों के खिलाफ पोस्टरबाजी, मचा हंगामा, सांसद बोले- नफरत के लिए जगह नहीं](https://hindi.news18.com/world/rest-of-world-anti-indian-racist-poster-in-australia-triggers-outrage-mp-reaction-ws-l-10915755.html)
-*News18 Hindi (World)* - Oct 17, 10:31 IST (iso: 2026-10-17T05:01:23+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/australia-news-2026-10-e6c6cb9aa8c0c171e398cb4419b35285-1200x800.jpg -->
-
-ऑस्ट्रेलिया के सेसनॉक में भारतीयों के खिलाफ नस्लीय पोस्टर चिपकाए गए। स्थानीय सांसद ने इसकी निंदा की। उन्होंने कहा कि नफरत के लिए जगह नहीं है। Anti Indian Racist Poster in Australia: ऑस्ट्रेलिया के न्यू साउथ वेल्स राज्य के सेसनॉक शहर में ऐसी घटना हुई है, जिसने नस्लीय भेदभाव को एक बार फिर से उजागर कर दिया है. यहां भारतीयों और प्रवासियों के खिलाफ भद्दे मैसेज लिखकर पोस्टर चिपकाए गए, जिसके बाद यहां के सांसद को बचाव में उतरना पड़ा.
-
-### [रिलायंस की दो-टूक से तिलमिलाई स्टारलिंक, जवाब में सुरक्षित-हाई-स्पीड इंटरनेट पर क्या कहा?](https://www.amarujala.com/world/starlink-responds-to-reliance-says-ready-to-connect-india-with-high-speed-internet-2026-10-17)
-*Amar Ujala World* - Oct 17, 09:01 IST (iso: 2026-10-17T03:31:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/sataralka-vavatha_2f1404003c68d21fbf97c6ab6a1e03bf.jpeg?w=1200&dpr=1.0 -->
-
-स्टारलिंक ने रिलायंस के जवाब पर प्रतिक्रिया दी। कंपनी ने कहा कि वह पांच साल से काम कर रही है। भारत को हाई-स्पीड इंटरनेट से जोड़ने के लिए तैयार है। रिलायंस की दो-टूक से तिलमिलाई स्टारलिंक, जवाब में सुरक्षित-हाई-स्पीड इंटरनेट पर क्या कहा?
-
-### [अमेरिका में एच-1बी कर्मचारियों को झटका: वर्क परमिट की 540 दिन की राहत खत्म, भारतीयों की बढ़ सकती](https://www.amarujala.com/world/us-ends-540-day-automatic-work-permit-extension-h1b-h4-visa-workers-know-impact-on-indians-2026-10-17)
-*Amar Ujala World* - Oct 17, 08:57 IST (iso: 2026-10-17T03:27:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/h1b-visa_045309ab842ad2d89e1b71d9231a2951.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका ने एच-1बी और एच-4 वीज़ाधारकों के लिए 540 दिनों की स्वतः वृद्धि समाप्त कर दी है। इससे भारतीय प्रवासी श्रमिकों को नई वीज़ा प्रक्रिया से गुजरना होगा। अमेरिका में एच-1बी कर्मचारियों को झटका: वर्क परमिट की 540 दिन की राहत खत्म, भारतीयों की बढ़ सकती।
-
----
-
-## दुनिया
-
-### [संदीप घोष को जमानत मिलने पर पीड़िता के पिता नाराज, बोले- फिर सड़क पर उतरूंगा; भाजपा क्या बोली?](https://www.amarujala.com/india-news/rg-kar-case-bail-does-not-prove-sandip-ghosh-innocent-says-bengal-bjp-chief-samik-bhattacharya-2026-10-17)
-*Amar Ujala Breaking* - Oct 17, 12:50 IST (iso: 2026-10-17T07:20:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/samaka-bhatatacaraya-pashacama-bgal-bhajapa-ka-nae-athhayakashha_fc7799fe49ad1f04d78dacea43dd8801.jpeg?w=1200&dpr=1.0 -->
-
-संदीप घोष को जमानत मिलने पर पीड़िता के पिता ने सड़क पर उतरने की धमकी दी। बंगाल भाजपा प्रमुख समीक भट्टाचार्य ने कहा कि जमानत अपराध की माफ़ी नहीं है। संदीप घोष को जमानत मिलने पर पीड़िता के पिता नाराज, बोले- फिर सड़क पर उतरूंगा; भाजपा क्या बोली?
-
-### [लोहिया लॉ यूनिवर्सिटी दीक्षांत समारोह: योगी बोले- 2017 से पहले था रूल ऑफ माफिया, हमने लागू किया](https://www.amarujala.com/uttar-pradesh/balrampur/at-the-lohia-law-university-convocation-ceremony-yogi-stated-before-2017-there-was-a-rule-of-the-mafia-2026-10-17)
-*Amar Ujala Breaking* - Oct 17, 12:20 IST (iso: 2026-10-17T06:50:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/lhaya-l-yanavarasata-ka-thakashhata-samaraha-ma-pahaca-yaga_41fc85d8959ae27fdf22a3c8b595d04a.jpeg?w=1200&dpr=1.0 -->
-
-लखनऊ में लोहिया विधि विश्वविद्यालय के दीक्षांत समारोह में योगी आदित्यनाथ बोल रहे थे। उन्होंने कहा कि 2017 से पहले माफिया का दबदबा था। अब उनकी सरकार ने कानून का राज लागू किया है। लखनऊ में लोहिया विधि विश्वविद्यालय के दीक्षांत समारोह में मुख्यमंत्री योगी आदित्यनाथ ने कहा कि 2017 से पहले उत्तर प्रदेश में माफिया का दबदबा था, लेकिन उनकी सरकार ने कानून का राज लागू किया।
 
 ---
 
