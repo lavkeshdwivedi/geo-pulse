@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 18, 2026 12:13 IST
+**Updated:** October 18, 2026 17:20 IST
 
 ---
 
@@ -12,11 +12,11 @@
 
 India’s trade deficit with China crossed 100 billion dollars in nine months. Finance Minister Sitharaman cited persistent market access barriers as a core concern. Beijing stated it is ready to address these issues through continued bilateral engagement. Reacting to India’s trade deficit with China crossing $100 billion in the first nine months, Nirmala Sitharaman said the growing trade imbalance and persistent restrictions on market access for Indian products remained major concerns, despite years of engagement with Beijing.
 
-### [China considers new export curbs on solar, AI, biotech](https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece)
-*The Hindu (International)* - Oct 18, 08:27 IST (iso: 2026-10-18T02:57:39+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/uzyxwz/article71591945.ece/alternates/LANDSCAPE_1200/2026-06-08T083940Z_683439900_RC2GPLAIKHDA_RTRMADP_3_NORTHKOREA-CHINA.jpg -->
+### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
+*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
 
-China drafted a plan to ban exports of 14 technologies and restrict 26 others. The list includes next-generation solar and AI tools. India and other nations seeking to reduce reliance on Chinese supply chains face new hurdles. The draft plan, “Announcement No. 48”, proposes a complete export ban on 14 technologies and restrictions on 26 more, including next-generation solar technologies that could affect countries such as India seeking to reduce dependence on China.
+More than 25,000 police officers secured New Delhi to block protests by the Cockroach Janta Party. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. Barricades were erected to restrict movement and prevent the planned gatherings. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
 
 ### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
 *Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
@@ -29,12 +29,6 @@ September US inflation hit 3.7% year-on-year, exceeding forecasts. The data sugg
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
 
 Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
-
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
 
 ---
 
@@ -82,7 +76,7 @@ Argentina’s president is targeting the Falklands’ oil and fisheries industri
 
 ### [‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say](https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright)
 *The Guardian* - Oct 18, 08:20 IST (iso: 2026-10-18T02:50:29+00:00)
-<!-- image: https://i.guim.co.uk/img/media/b00577f4dd9c40e89cdaed4dc9d1a17ac22996e0/336_0_3664_2931/master/3664.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc4a92098ab01d11fc87240a5108e77a -->
+<!-- image: https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=271f64adc7ac5def6bec46e906fa8d42 -->
 
 A large fire at the Wainwright military base in Alberta killed and injured multiple people. Hospitals in Edmonton reported being overwhelmed by the influx of casualties. Canada’s defence minister confirmed the incident as serious, with ongoing recovery efforts. Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday.“I’m saddened to share that there have been both fatalities and injuries as a result of an incide.
 
@@ -158,7 +152,7 @@ Marco Rubio travels to Uzbekistan to meet with five Central Asian nations. The T
 
 ### [The world is waging a ‘war on nature’ as progress on biodiversity targets lags](https://news.un.org/feed/view/en/story/2026/10/1168607)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image560x340cropped.jpg -->
 
 The UN warns fewer than half of national biodiversity targets are on track. This report arrives days before the COP17 conference in Yerevan, Armenia. The assessment highlights a significant gap in global efforts to protect plants, animals, and ecosystems from further degradation. Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.
 
@@ -168,9 +162,15 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg -->
 
 A new UN report warns that rapid economic shifts risk leaving vulnerable communities behind. Artificial intelligence and renewable energy transitions are reshaping global economies. These changes create new opportunities but also threaten to deepen socio-economic inequalities. The report highlights the need for inclusive policy frameworks. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
+
+### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
+
+The United Nations issued a report warning that brain data collected by consumer devices could serve as legal evidence against individuals. The document highlights that neurotechnology is advancing faster than existing human rights protections. Current laws do not adequately address the privacy risks of neural data. The UN called for new limits to prevent misuse of these signals in judicial proceedings.
 
 ---
 
