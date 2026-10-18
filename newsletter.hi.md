@@ -1,6 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 19, 2026 03:29 IST
+**अपडेट:** October 19, 2026 05:23 IST
 
 ---
 
@@ -12,23 +12,11 @@
 
 दशहरे पर रावण दहन की राख घर लाने की धार्मिक मान्यताओं पर प्रकाश डाला गया है। यह प्रथा शुभ या अशुभ मानने के लिए विशिष्ट तर्क प्रस्तुत किए गए हैं। दशहरे पर रावण दहन के बाद कई लोग उसकी राख को घर लाने को लेकर असमंजस में रहते हैं। क्या रावण दहन की राख घर में रखना शुभ माना जाता है या अशुभ?
 
-### [PF रिटर्न जमा करने की डेडलाइन बढ़ाई गई , कर्मचारी रखें इन बातों का ध्यान!](https://www.amarujala.com/video/india-news/deadline-for-filing-pf-returns-extended-employees-should-keep-these-points-in-mind-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:42 IST (iso: 2026-10-19T07:12:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/pf-return-deadline-extension_336fdf2899baf50a541bb00d6a606c16.jpeg?w=1200&dpr=1.0 -->
+### [गन्ने वाले इथेनॉल पेट्रोल में मिलाने पर रोक: मक्का, टूटे चावल पर भी निर्णय; केंद्र सरकार के नए](https://www.amarujala.com/business/business-diary/govt-no-to-petrol-sugarcane-ethanol-blending-new-move-with-maize-and-broken-rice-bpcl-tender-fci-role-updates-2026-10-19)
+*Amar Ujala National* - Oct 19, 05:13 IST (iso: 2026-10-18T23:43:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/ithanal-para-sarakara-ka-ahama-fasal_0804884bccf9315433e6c600a1a27c47.jpeg?w=1200&dpr=1.0 -->
 
-प्रोविडेंट फंड रिटर्न जमा करने की अंतिम तिथि बढ़ा दी गई है। कर्मचारियों को इस नई समयसीमा के अनुसार अपनी जमा राशि की जांच करनी चाहिए। PF रिटर्न जमा करने की डेडलाइन बढ़ाई गई, कर्मचारी रखें इन बातों का ध्यान! PF रिटर्न जमा करने की डेडलाइन बढ़ाई गई, कर्मचारी रखें इन बातों का ध्यान!
-
-### [कब है दुर्गा विसर्जन? जानें सही तारीख, शुभ मुहूर्त और विसर्जन की विधि और मंत्र](https://www.amarujala.com/photo-gallery/spirituality/religion/durga-visarjan-2026-know-the-date-auspicious-muhurat-rituals-and-mantras-in-hindi-2026-10-17)
-*Amar Ujala National* - Oct 19, 12:33 IST (iso: 2026-10-19T07:03:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/tharaga-vasarajana_c7299a40c3b881bcae939740ffc4fc0e.jpeg?w=1200&dpr=1.0 -->
-
-विजयादशमी के दिन माता दुर्गा की प्रतिमा का विसर्जन किया जाता है। इस अवसर पर शुभ मुहूर्त, पूजा विधि और मंत्रों का पालन किया जाता है। शारदीय नवरात्रि के समापन के बाद विजयादशमी के दिन मां दुर्गा की प्रतिमा का विसर्जन किया जाता है। इस दिन भक्त विधि-विधान से पूजा करके माता को विदाई देते हैं। जानें दुर्गा विसर्जन की सही तारीख, शुभ मुहूर्त, पूजा विधि और मां दुर्गा के मंत्र।
-
-### [घर पर कैसे करें मां दुर्गा का विसर्जन? जानें कलश विसर्जन की सही विधि](https://www.amarujala.com/photo-gallery/spirituality/religion/maa-durga-visarjan-2026-complete-guide-to-maa-durga-and-kalash-visarjan-at-home-2026-10-18)
-*Amar Ujala National* - Oct 19, 12:19 IST (iso: 2026-10-19T06:49:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/tharaga-vasarajana_c7299a40c3b881bcae939740ffc4fc0e.jpeg?w=1200&dpr=1.0 -->
-
-घर पर कलश स्थापना के बाद माता दुर्गा का विसर्जन करने की विधि बताई गई है। नवरात्रि के समापन पर इस प्रक्रिया के लिए विशिष्ट नियम और मंत्रों का उल्लेख किया गया है। Durga Visarjan 2026: नवरात्रि के समापन पर मां दुर्गा की विदाई पूरे विधि-विधान से की जाती है। अगर आपने घर में कलश स्थापना की है, तो उसका विसर्जन कैसे करें?
+केंद्र सरकार ने गन्ने से बने इथेनॉल को पेट्रोल में मिलाने पर रोक लगाई है। मक्का और टूटे चावल के उपयोग पर भी नए निर्णय लिए गए हैं। यह कृषि उपज की मांग और ऊर्जा नीति को प्रभावित करेगा। गन्ने वाले इथेनॉल पेट्रोल में मिलाने पर रोक: मक्का, टूटे चावल पर भी निर्णय; केंद्र सरकार के नए फैसले में क्या?
 
 ### [रोहतांग में बर्फ देखने के लिए उमड़ रहे सैलानी, 24 तक मौसम साफ, धूप खिली तो दिन में बढ़ सकता है पारा](https://www.amarujala.com/jammu-and-kashmir/srinagar/himachal-tourists-flock-to-rohtang-to-see-snow-weather-to-remain-clear-until-the-24th-2026-10-19)
 *Amar Ujala Breaking* - Oct 19, 02:58 IST (iso: 2026-10-18T21:28:03+00:00)
@@ -78,9 +66,15 @@
 
 ### [2000 गिरफ्तार; सड़कों पर लाखों लोग; राष्ट्रपति मैक्रों ने क्या चेतावनी दी?](https://www.amarujala.com/world/france-s-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic-2026-10-19)
 *Amar Ujala Breaking* - Oct 19, 12:30 IST (iso: 2026-10-19T07:00:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/06/07/emmanual-macron_e2034cdb949c0f0f83c50c919b406b17.jpeg?w=1200&dpr=1.0 -->
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/imanael-makara_8b1e5a77f26f4cdab5701b4453fd5bd3.jpeg?w=1200&dpr=1.0 -->
 
 फ्रांस में हुए प्रदर्शनों के दौरान लगभग दो हज़ार लोगों को गिरफ्तार किया गया है। लाखों लोगों ने सड़कों पर प्रदर्शन किया और राष्ट्रपति मैक्रों ने चेतावनी जारी की। फ्रांस में सबसे बड़ा प्रदर्शन: 2000 गिरफ्तार; सड़कों पर लाखों लोग; राष्ट्रपति मैक्रों ने क्या चेतावनी दी?
+
+### [बुर्का बैन के बाद से ही सुलग रही थी गुस्से की आग, फ्रांस का छात्र आंदोलन कैसे बना उग्र प्रदर्शन?](https://www.amarujala.com/world/explainer-how-france-student-protests-escalated-into-violent-demonstrations-after-burqa-ban-triggered-anger-2026-10-19)
+*Amar Ujala World* - Oct 19, 05:09 IST (iso: 2026-10-18T23:39:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/farasa-paratharashana_b59944126774fd9a054de512e812744f.jpeg?w=1200&dpr=1.0 -->
+
+फ्रांस में बुर्का प्रतिबंध के बाद से छात्रों का गुस्सा बढ़ रहा है। यह आंदोलन अब उग्र प्रदर्शनों में बदल गया है। विरोध की तीव्रता में लगातार वृद्धि देखी जा रही है। एक्सप्लेनर: बुर्का बैन के बाद से ही सुलग रही थी गुस्से की आग, फ्रांस का छात्र आंदोलन कैसे बना उग्र प्रदर्शन?
 
 ### [फ्रांस में जनता का गुस्सा सड़कों पर क्यों फूटा? महंगाई के विरोध से कैसे बिगड़े हालात](https://www.patrika.com/world-news/why-public-anger-spilled-onto-the-streets-in-france-20993975)
 *Patrika (World)* - Oct 19, 00:31 IST (iso: 2026-10-18T19:01:39+00:00)
@@ -98,6 +92,18 @@
 
 मुंबई में बॉलीवुड अभिनेता टाइगर श्रॉफ पर गोलीबारी हुई। बिश्नोई गैंग ने इस घटना की जिम्मेदारी ली है। अभिनेता सुरक्षित हैं और उन्हें कोई चोट नहीं लगी। मुंबई पुलिस ने एक संदिग्ध को हिरासत में लिया है। हालांकि, अभिनेता सुरक्षित हैं। उन्हें चोट नहीं लगी है। मुंबई पुलिस मामले में आगे की जांच कर रही है। टाइगर श्रॉफ पर फायरिंग, बिश्नोई गैंग ने ली जिम्मेदारी; हिरासत में एक संदिग्ध।
 
+### [मुंबई में टाइगर पर फायरिंग; गन्ने वाले इथेनॉल पेट्रोल में मिलाने पर रोक; पुणे में कारोबारी पर हमला](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-19-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-19)
+*Amar Ujala National* - Oct 19, 04:44 IST (iso: 2026-10-18T23:14:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0 -->
+
+मुंबई में एक बाघ पर फायरिंग की गई है। पुणे में एक व्यापारी पर हमला हुआ। साथ ही गन्ने वाले इथेनॉल के पेट्रोल में मिलाने पर रोक का फैसला भी आया। सुर्खियां: मुंबई में टाइगर पर फायरिंग; गन्ने वाले इथेनॉल पेट्रोल में मिलाने पर रोक; पुणे में कारोबारी पर हमला।
+
+### [चीन का सोलर तकनीक पर शिकंजा: 12 तकनीकों के निर्यात पर रोक का प्रस्ताव; भारत के सामने बढ़ेंगी](https://www.amarujala.com/world/china-solar-technology-export-restrictions-india-impact-2026-10-19)
+*Amar Ujala World* - Oct 19, 04:12 IST (iso: 2026-10-18T22:42:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/sara-uuraja-sa-jaugdha-12-takanaka-ka-kasa-ka-satha-sajha-naha-karaga-cana_eb86b090fee9f1d4fc204610d6e212b9.jpeg?w=1200&dpr=1.0 -->
+
+चीन ने 12 सौर तकनीकों के निर्यात पर रोक लगाने का प्रस्ताव रखा है। इससे भारत के सौर ऊर्जा लक्ष्यों के लिए चुनौतियां बढ़ेंगी। तकनीकी निर्भरता का मुद्दा और गहरा होगा। चीन का सोलर तकनीक पर शिकंजा: 12 तकनीकों के निर्यात पर रोक का प्रस्ताव; भारत के सामने बढ़ेंगी चुनौतियां?
+
 ### [दिल्ली में चार साल में पांच गुना बढ़े जानवरों के हमले, अब दो साल की वैक्सीन जुटाएगी एमसीडी](https://www.amarujala.com/delhi-ncr/animal-attacks-in-delhi-have-increased-fivefold-over-four-years-2026-10-19)
 *Amar Ujala Breaking* - Oct 19, 02:47 IST (iso: 2026-10-18T21:17:45+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/1_a5cee6c30233668d2eed1e7d03e2c314.jpeg?w=1200&dpr=1.0 -->
@@ -112,27 +118,21 @@
 
 ### ['अमेरिकी नीति बदली तो क्या करेगा इस्राइल?': चुनाव से पहले नेतन्याहू ने फिर किया भारत का जिक्र; क्या](https://www.amarujala.com/world/israeli-pm-netanyahu-warns-potentially-hostile-future-us-president-calls-alliances-with-india-latin-america-2026-10-19)
 *Amar Ujala Breaking* - Oct 19, 02:02 IST (iso: 2026-10-18T20:32:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/05/20/israeli-pm-netanyahu-slams-uk-france-canada-for-opposing-israels-military-action-in-gaza_aa04a88fcfc3172a00f6b015932c1e75.jpeg?w=1200&dpr=1.0 -->
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/isarail-ka-amaraka-para-shaka-bharata-para-bharasa_42333437954b1a24c4aa45ba1238ac66.jpeg?w=1200&dpr=1.0 -->
 
 चुनाव से पहले नेतन्याहू ने भारत का जिक्र करते हुए अमेरिकी नीति में बदलाव के अपने देश के प्रतिक्रिया पर सवाल उठाया। यह टिप्पणी राजनीतिक संदर्भ में की गई। 'अमेरिकी नीति बदली तो क्या करेगा इस्राइल?': चुनाव से पहले नेतन्याहू ने फिर किया भारत का जिक्र; क्या बोले?
 
-### [KPK में इमरजेंसी से पाकिस्तान में बवाल, आतंकवाद पर नाकामी या लोकतंत्र पर हमला? जानें क्‍या है पूरा](https://hindi.news18.com/world/pakistan-emergency-in-kpk-sparks-uproar-in-pakistan-failure-to-tackle-terrorism-or-an-assault-on-democracy-know-whole-issue-10919403.html)
-*News18 Hindi (World)* - Oct 18, 22:33 IST (iso: 2026-10-18T17:03:12+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/kpk-2026-10-b04b4d517a8ac330e8520a98580b53c8-1200x800.jpg -->
+### [दिल्ली की लव कुश रामलीला में सुरक्षा बढ़ी, एक लाख दर्शक होते ही एंट्री बंद](https://www.abplive.com/news/india/security-tightened-delhi-luv-kush-ramlila-after-kolkata-stampede-3203831)
+*ABP Live (India)* - Oct 18, 23:19 IST (iso: 2026-10-18T17:49:16+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/18/357da97ed8cab413bcbf2a39f44c0d0d17923455586101324_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-पाकिस्तान के खैबर पख्तूनख्वा प्रांत में इमरजेंसी लगा दी गई है। सरकार ने सीधे कंट्रोल हाथ में लिया है। इससे नया राजनीतिक बखेड़ा शुरू हो गया है। स्थानीय हालात खराब होने पर यह कदम उठाया गया है। पाकिस्तान के खैबर पख्तूनख्वा (केपीके) प्रांत में हालात बहुत खराब हो चुके हैं. वहां इमरजेंसी लगाकर सरकार ने सीधे अपने हाथ में कंट्रोल ले लिया है, जिससे नया राजनीतिक बखेड़ा खड़ा हो गया है.
+कोलकाता दुर्गा पूजा पंडाल में हुई भगदड़ के बाद दिल्ली लाल किला मैदान में लव कुश रामलीला की सुरक्षा समीक्षा हुई। रामलीली कमेटी ने दशहरे पर एक लाख दर्शकों के बाद प्रवेश बंद करने का फैसला लिया। अतिरिक्त सीसीटीवी कैमरे और मार्शल तैनात किए गए हैं। कोलकाता के दुर्गा पूजा पंडाल में भगदड़ की घटना के बाद दिल्ली के लाल किला मैदान में आयोजित लव कुश रामलीला में सुरक्षा इंतजामों की समीक्षा की गई है.
 
-### [पाकिस्तान में 200 साल पुराना रामलीला मंदिर निशाने पर, तोड़कर प्लाजा बनाने की कोशिश, विरोध के बाद](https://hindi.news18.com/world/pakistan-200-year-old-hindu-temple-sealed-dera-ismail-khan-ramlila-10919394.html)
-*News18 Hindi (World)* - Oct 18, 22:23 IST (iso: 2026-10-18T16:53:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-dera-ismail-2026-10-5ef0101254ca694eafa7621682c51f4d-1200x800.jpg -->
+### [टाइगर श्रॉफ फायरिंग केस को लेकर अभिजीत दीपके का रिएक्शन- 'यही होता है जब...'](https://www.abplive.com/news/india/cjp-abhijeet-dipke-reaction-on-tiger-shroff-firing-case-target-mumbai-police-amid-cjp-protest-3203830)
+*ABP Live (India)* - Oct 18, 23:02 IST (iso: 2026-10-18T17:32:32+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/18/ef3c3cfdbcc1b17fa0a800e25cc2df1f17923444087511324_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-डेरा इस्माइल खान में 200 साल पुराने रामलीला मंदिर को सील कर दिया गया है। मंदिर तोड़कर प्लाजा बनाने की कोशिश के विरोध के बाद यह कार्रवाई हुई। इवैक्यूई ट्रस्ट प्रॉपर्टी बोर्ड ने मंदिर को अपने कब्जे में ले लिया है। पाकिस्तान के खैबर पख्तूनख्वा प्रांत में करीब 200 साल पुराने रामलीला मंदिर को अधिकारियों ने सील कर दिया है.
-
-### [पाकिस्तान में लश्कर-ए-तैयबा के आतंकी की मौत, नमाज पढ़ने मस्जिद जा रहा था, अचानक गई जान](https://hindi.news18.com/world/pakistan-chaudhry-muhammad-sarwar-death-lashkar-e-taiba-jaish-commander-10919233.html)
-*News18 Hindi (World)* - Oct 18, 22:12 IST (iso: 2026-10-18T16:42:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-lashkar-2026-10-2ee69ae3e65574d5ddb694e7d2f60eee-1200x800.jpg -->
-
-लाहौर में लश्कर-ए-तैयबा से जुड़े चौधरी मुहम्मद सरवर की मौत हो गई। वह नमाज पढ़ने मस्जिद जा रहे थे। अमेरिकी ट्रेजरी विभाग ने उन्हें 2016 में प्रतिबंधित किया था। पाकिस्तान के लाहौर में सेंट्रल मुस्लिम लीग पंजाब के अध्यक्ष चौधरी मुहम्मद सरवर की मौत हो गई. पार्टी के मुताबिक, वह अस्र की नमाज के लिए मस्जिद जा रहा था. अमेरिकी ट्रेजरी विभाग ने उन्हें 2016 में लश्कर-ए-तैयबा से जुड़ा बताते हुए प्रतिबंधित किया था.
+अभिजीत दीपके ने टाइगर श्रॉफ पर फायरिंग केस पर पुलिस की प्राथमिकताओं पर सवाल उठाया। उन्होंने कहा कि पुलिस को असली अपराधियों पर ध्यान देना चाहिए। यह बयान दिल्ली और मुंबई में प्रदर्शनकारियों की गिरफ्तारी के बीच आया है। एक्टर टाइगर श्रॉफ पर हुई फायरिंग पर सीजेपी के फाउंडर अभिजीत दीपके ने कहा कि स्टूडेंट और प्रोटेस्टर्स पर सख्ती करने की बजाय, पुलिस को असली अपराधियों पर ध्यान देना चाहिए.
 
 ---
 
@@ -150,17 +150,17 @@
 
 मध्य पूर्व के सुरक्षा तनाव के कारण अकासा एयर ने सऊदी अरब की उड़ानें रद्द कीं। यह कैंसिलेशन 27 अक्टूबर 2026 तक बढ़ा दिया गया है। प्रभावित यात्रियों को पूरा रिफंड या बिना शुल्क रीशेड्यूल का विकल्प दिया जा रहा है। मध्य पूर्व में लगातार बढ़ते सुरक्षा तनाव को देखते हुए अकासा एयर ने बड़ा कदम उठाया है. एयरलाइन ने सऊदी अरब की अपनी फ्लाइट्स के कैंसिलेशंस को 27 अक्टूबर 2026 तक बढ़ा दिया है.
 
+### ['...तो खोल देंगे होर्मुज', ईरान ने US के सामने रखा '7 दिन वाला प्लान'](https://www.abplive.com/news/world/abbas-araghchi-says-iran-offers-7-days-plan-to-us-which-leads-opening-of-strait-of-hormuz-on-6th-day-3203833)
+*ABP Live (World)* - Oct 18, 23:39 IST (iso: 2026-10-18T18:09:03+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/18/4c2e861947623a48df72b9397b72891b17923465085351126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका के सामने सात दिनों की योजना रखी है। यदि शर्तें पूरी हुईं तो छठे दिन होर्मुज जलडमरूमध्य खुल सकता है। सातवें दिन बातचीत फिर शुरू होगी। पश्चिम एशिया में अमेरिका के साथ जारी तनाव के बीच ईरान के विदेश मंत्री अब्बास अराघची ने अगले सात दिनों में इस संघर्ष को खत्म करने के लिए एक प्लान की घोषणा की है.
+
 ### [बांग्लादेश से नेपाल, केन्या से मेडागास्कर तक क्यों सत्ता को चुनौती दे रही है दुनिया की युवा पीढ़ी?](https://hindi.news18.com/world/rest-of-world-gen-z-global-uprising-from-bangladesh-to-nepal-and-kenya-to-madagascar-why-is-younger-generation-challenging-power-centre-10919481.html)
 *News18 Hindi (World)* - Oct 18, 23:28 IST (iso: 2026-10-18T17:58:56+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Gen-Z-Protest-2026-10-e4834482ef01ee337ca36c99c3810036-1200x800.jpg -->
 
 बांग्लादेश, नेपाल, केन्या और मेडागास्कर समेत कई देशों में युवा पीढ़ी सत्ता को चुनौती दे रही है। इन आंदोलनों के पीछे एक समान असंतोष की आवाज उभर रही है। युवा वर्ग सीधे सरकारों से सवाल पूछ रहा है और सड़कों पर उतर आया है। कई देश, कई सरकारें, कई वजहें लेकिन सड़कों पर उतरती युवा पीढ़ी की तस्वीर लगभग एक जैसी!
-
-### [ईरान ने 'मिसाइल मैन' को बनाया राक्षमंत्री, आते ही अमेरिका को ललकारा, होर्मुज में 7 दिन में 14 जहाज](https://hindi.news18.com/world/middle-east-iran-new-defence-minister-mehrdad-akhlaqi-warn-us-14-ship-attack-in-7-days-hormuz-crisis-10919194.html)
-*News18 Hindi (World)* - Oct 18, 20:26 IST (iso: 2026-10-18T14:56:27+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/hormuz-attazk-2026-10-10d945640ee2989aa0ea4aec84076ef6-1200x800.jpg -->
-
-ईरान की संसद ने मेहरदाद अखलाखी केताबची को रक्षा मंत्री नियुक्त किया। उन्होंने अमेरिका को चेतावनी दी और स्वदेशी लड़ाकू विमानों की उड़ान का ऐलान किया। होर्मुज में एक सप्ताह में 14 जहाजों पर हमले हुए। ईरान की संसद ने मिसाइलों के एक्सपर्ट मेहरदाद अखलाखी केताबची को नया रक्षा मंत्री बनाने की मंजूरी दे दी है. पद संभालते ही उन्होंने अमेरिका को कड़ी चेतावनी दी और दावा किया कि ईरान की रक्षा क्षमताएं पहले से मजबूत हुई हैं.
 
 ---
 
