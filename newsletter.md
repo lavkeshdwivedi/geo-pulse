@@ -1,34 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 18, 2026 23:14 IST
-
----
-
-## Americas
-
-### [Multiple people killed as Canadian authorities tackle active blaze at Alberta military base](https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright)
-*The Guardian* - Oct 18, 21:01 IST (iso: 2026-10-18T15:31:33+00:00)
-<!-- image: https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=271f64adc7ac5def6bec46e906fa8d42 -->
-
-A large fire at the Wainwright military base in Alberta killed and injured multiple people. Hospitals in Edmonton reported being overwhelmed by the influx of casualties. Canada’s defence minister confirmed the incident as serious, with ongoing recovery efforts. Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday.“I’m saddened to share that there have been both fatalities and injuries as a result of an incide.
-
-### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
-*The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
-<!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
-
-Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
-
-### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
-*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
-<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
-
-Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
+**Updated:** October 19, 2026 01:16 IST
 
 ---
 
@@ -42,15 +14,9 @@ Protesters gathered in Albania for a sixth consecutive day, demanding Prime Mini
 
 ### [Zelenskyy Says Russia Seeking Blackout In Ukraine After Latest Onslaught On Energy Facilities](https://www.rferl.org/a/ukraine-russia-drone-attacks-zelenskyy-airports/33878787.html)
 *Radio Free Europe / Liberty* - Oct 18, 15:37 IST (iso: 2026-10-18T10:07:44+00:00)
-<!-- image: https://gdb.rferl.org/42812e3b-6cfa-44c7-8a22-ac3292707874_cx0_cy10_cw0_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/a0333120-5639-4023-8d81-e6f5414fd98d_cx0_cy2_cw90_w1200_h630.jpg -->
 
 Volodymyr Zelenskyy stated that Russian strikes targeted power infrastructure across multiple Ukrainian regions. The attacks left tens of thousands of households without electricity. Officials reported civilian deaths following overnight drone strikes on October 18. Russia appears to be seeking a total blackout. Ukrainian President Volodymyr Zelenskyy said Russian strikes targeted power sites in multiple regions, leaving tens of thousands of households without electricity, as Ukrainian and Russian officials reported civilian deaths following overnight drone attacks on October 18.
-
-### [Kasparov Says Talks With Putin Pointless, War Is 'Ideological Basis' Of His Rule](https://www.rferl.org/a/kasparov-says-talks-with-putin-pointless-war-is-ideological-basis-of-his-rule/33877974.html)
-*Radio Free Europe / Liberty* - Oct 17, 19:32 IST (iso: 2026-10-17T14:02:23+00:00)
-<!-- image: https://gdb.rferl.org/4c9a5373-3249-41c7-e7af-08df13afe2a0_cx5_cy3_cw94_w1200_h630.jpg -->
-
-Garry Kasparov told RFE/RL that negotiations with Vladimir Putin are pointless. He argued the war serves as the ideological basis of Putin's rule. Kasparov dismissed a proposed US deal to purchase Russian diesel. He stated that a Ukrainian victory would likely end Putin's regime. Russian Chess grandmaster Garry Kasparov tells RFE/RL Putin is set on “liquidating Ukraine” and will not concessions.
 
 ### [Russia's Deadly Attacks Damage Homes, Energy Sites In Ukraine As Kyiv Says Starlink Restrictions](https://www.rferl.org/a/russia-ukraine-civilians-killed-attack/33878396.html)
 *Radio Free Europe / Liberty* - Oct 17, 15:57 IST (iso: 2026-10-17T10:27:40+00:00)
@@ -108,6 +74,62 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 ---
 
+## Asia-Pacific
+
+### [10 killed in fire at seaside resort in Bangladesh](https://www.thehindu.com/news/international/many-killed-in-fire-at-seaside-resort-in-bangladesh/article71596020.ece)
+*The Hindu (International)* - Oct 18, 20:29 IST (iso: 2026-10-18T14:59:13+00:00)
+<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
+
+A fire at a seaside resort near Patuartek Beach in Bangladesh killed ten people and injured nine. Fire Service spokesman Talha Bin Zasim confirmed the death toll at 1:30 p. m. local time. The blaze broke out along Marine Drive, leaving the resort damaged. No further details on the cause of the fire were immediately available. Ten people were killed, and nine were injured, Fire Service spokesman Talha Bin Zasim confirmed the death toll around 1:30 p. m., hours after the blaze broke out at the resort near Patuartek Beach along Marine Drive.
+
+### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
+*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
+
+More than 25,000 police officers secured New Delhi to block protests by the Cockroach Janta Party. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. Barricades were erected to restrict movement and prevent the planned gatherings. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
+
+### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
+*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
+
+September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
+
+### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
+
+Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
+
+### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
+*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
+
+Indonesia is testing dry ice dispersal from aircraft across South Sumatra to combat persistent peat fires. The government deployed this method after cloud seeding and water bombing failed to contain the blaze. Toxic smoke from the fires has already spread across the region, drawing complaints from neighboring countries. The pilot project aims to extinguish the fires and halt the production of hazardous haze.
+
+---
+
+## Americas
+
+### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
+*The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
+
+Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
+
+### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
+*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
+<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
+
+Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
+
+---
+
 ## Middle East & Africa
 
 ### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
@@ -133,28 +155,6 @@ Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk i
 <!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
 
 Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
-
----
-
-## Asia-Pacific
-
-### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
-*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
-
-More than 25,000 police officers secured New Delhi to block protests by the Cockroach Janta Party. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. Barricades were erected to restrict movement and prevent the planned gatherings. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
-
-### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
-*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
-
-September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
-
-### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
-
-Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
 
 ---
 
