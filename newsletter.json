@@ -1,33 +1,45 @@
 {
-  "generated_at": "2026-10-18T14:58:58.201729+00:00",
+  "generated_at": "2026-10-18T17:44:25.061028+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 259,
   "digest": {
-    "en": "Trump waived Graham Act sanctions on Russia before they took effect. Simultaneously, he called France shattered by immigration. Meanwhile, a serious incident at an Alberta military base caused deaths and injuries.",
-    "hi": "ईरान ने 7 दिनों में होर्मुज में 14 जहाजों को लक्षित करते हुए 'मिसाइल मैन' का परीक्षण किया, अमेरिकी नौसैनिक बलों को सीधा चुनौती दी।"
+    "en": "A fire at the Canadian Forces Base Edmonton in Alberta has killed multiple people as authorities battle the blaze. Meanwhile, protesters in Tirana mark a sixth day of demonstrations demanding Prime Minister Edi Rama step down.",
+    "hi": "पाकिस्तान में इमरजेंसी घोषित होने के बाद लश्कर-ए-तैयबा के एक आतंकी की अचानक मौत ने स्थिति को और जटिल बना दिया है। इसी बीच ईरान ने नए रक्षा मंत्री को नियुक्त करते ही अमेरिका को सीधे ललकार दिया है। यमन में हूतियों पर ड्रोन हमले की तीव्रता भी बढ़ती जा रही है।"
   },
   "articles": [
     {
-      "title": "Donald Trump says ‘France is burning’, country ‘shattered’ by immigration",
-      "url": "https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece",
+      "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-18T15:31:33+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=271f64adc7ac5def6bec46e906fa8d42",
+      "summary": "A large fire at the Wainwright military base in Alberta killed and injured multiple people. Hospitals in Edmonton reported being overwhelmed by the influx of casualties. Canada’s defence minister confirmed the incident as serious, with ongoing recovery efforts. Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday.“I’m saddened to share that there have been both fatalities and injuries as a result of an incide.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Albania protests continue for sixth straight day demanding Prime Minister’s resignation",
+      "url": "https://www.thehindu.com/news/international/albania-protests-continue-for-sixth-straight-day-demanding-prime-ministers-resignation/article71599909.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-10-18T13:56:37+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/6qbeh/article71600248.ece/alternates/LANDSCAPE_1200/Trump_37_34.jpg",
-      "summary": "Trump described France as burning and shattered by immigration. The comments followed protests that torched a historic town hall. Authorities arrested 1,800 people during the unrest. The incident increased pressure on President Macron ahead of upcoming elections. France is reeling from widespread damage during protests the day before that left a historic town hall torched and led to 1,800 arrests, piling pressure on President Emmanuel Macron six months before elections to replace him.",
+      "published_at": "2026-10-18T15:23:22+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/ar4t5i/article71600222.ece/alternates/LANDSCAPE_1200/2026-10-18T124253Z_75391768_RC2O5OAMHXPW_RTRMADP_3_ALBANIA-PROTEST.JPG",
+      "summary": "Protesters gathered in Albania for a sixth consecutive day, demanding Prime Minister Edi Rama step down. Police deployed water cannons and tear gas to disperse the crowds outside the Education Ministry. The standoff marked the longest sustained challenge to Rama's government in recent years. Hundreds of protesters gathered on Sunday in front of the Education Ministry chanting “Rama, resign” in a tense standoff with the police, who later used water cannons and tear gas to hold back the crowds.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "U.S. lawmakers urge Rubio to question India over handling of CJP protests",
-      "url": "https://www.thehindu.com/news/international/us-lawmakers-urge-rubio-to-question-india-over-handling-of-cjp-protests/article71595407.ece",
-      "source": "The Hindu (International)",
+      "title": "Zelenskyy Says Russia Seeking Blackout In Ukraine After Latest Onslaught On Energy Facilities",
+      "url": "https://www.rferl.org/a/ukraine-russia-drone-attacks-zelenskyy-airports/33878787.html",
+      "source": "Radio Free Europe / Liberty",
       "sources": [],
-      "published_at": "2026-10-18T13:30:18+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/p9qjhc/article71595508.ece/alternates/LANDSCAPE_1200/IMG_bl16_page1promo_2_1_DFGLQJ27.jpg",
-      "summary": "U. S. lawmakers wrote to Secretary Rubio. They urged him to question India on protest handling. The letter cited the CJP demonstrations. It also mentioned protests against Chief Election Commissioner Gyanesh Kumar. Lawmakers alleged excessive force was used. In their letter, the lawmakers cited the CJP protests against then Education Minister Dharmendra Pradhan and the ongoing demonstrations seeking the resignation of Chief Election Commissioner Gyanesh Kumar as examples of alleged use of excessive forces against protesters.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-10-18T10:07:44+00:00",
+      "image_url": "https://gdb.rferl.org/42812e3b-6cfa-44c7-8a22-ac3292707874_cx0_cy10_cw0_w1200_h630.jpg",
+      "summary": "Volodymyr Zelenskyy stated that Russian strikes targeted power infrastructure across multiple Ukrainian regions. The attacks left tens of thousands of households without electricity. Officials reported civilian deaths following overnight drone strikes on October 18. Russia appears to be seeking a total blackout. Ukrainian President Volodymyr Zelenskyy said Russian strikes targeted power sites in multiple regions, leaving tens of thousands of households without electricity, as Ukrainian and Russian officials reported civilian deaths following overnight drone attacks on October 18.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -39,18 +51,6 @@
       "published_at": "2026-10-18T04:00:49+00:00",
       "image_url": "https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711",
       "summary": "Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-18T02:50:29+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=271f64adc7ac5def6bec46e906fa8d42",
-      "summary": "A large fire at the Wainwright military base in Alberta killed and injured multiple people. Hospitals in Edmonton reported being overwhelmed by the influx of casualties. Canada’s defence minister confirmed the incident as serious, with ongoing recovery efforts. Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday.“I’m saddened to share that there have been both fatalities and injuries as a result of an incide.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -88,6 +88,18 @@
       "image_url": "https://gdb.rferl.org/4298ebae-54cd-464c-45eb-08df13a884cb_cx0_cy13_cw0_w1200_h630.jpg",
       "summary": "Russia fired missiles and drones at Ukrainian cities on 17 October, killing at least twelve civilians and damaging residential blocks and power infrastructure. Russia continued to pound Ukraine with missiles and drones, killing civilians and damaging residential buildings and energy sites, as Kyiv described disruptions to the satellite communications of US company SpaceX, crucial to the country's defense, as a deliberate \"operation.\".",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?",
+      "url": "https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-17T07:36:00+00:00",
+      "image_url": "https://gdb.rferl.org/db941d25-4d5f-4408-7599-08df13a869ed_w1200_h630.jpg",
+      "summary": "Iran's government has survived war, economic crisis, and mass protests. Vahid Pourostad attributes this resilience to entrenched power networks. The opposition remains fractured and unable to mount a unified challenge. The Islamic republic continues to hold power despite severe internal and external pressure. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing?",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -296,16 +308,58 @@
       "translations": {}
     },
     {
-      "title": "Indonesia fights fire with dry ice as toxic haze spreads across region",
-      "url": "https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads",
-      "source": "The Guardian",
+      "title": "KPK में इमरजेंसी से पाकिस्तान में बवाल, आतंकवाद पर नाकामी या लोकतंत्र पर हमला? जानें क्‍या है पूरा",
+      "url": "https://hindi.news18.com/world/pakistan-emergency-in-kpk-sparks-uproar-in-pakistan-failure-to-tackle-terrorism-or-an-assault-on-democracy-know-whole-issue-10919403.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-15T04:25:03+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19",
-      "summary": "Indonesia is testing dry ice dispersal to fight fires. The pilot project targets South Sumatra province. Previous cloud seeding and water bombing attempts failed. Toxic haze from the fires has spread across the region. Neighboring countries have expressed anger over the pollution. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.",
+      "published_at": "2026-10-18T17:03:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/kpk-2026-10-b04b4d517a8ac330e8520a98580b53c8-1200x800.jpg",
+      "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में इमरजेंसी लगा दी गई है। सरकार ने सीधे कंट्रोल हाथ में लिया है। इससे नया राजनीतिक बखेड़ा शुरू हो गया है। स्थानीय हालात खराब होने पर यह कदम उठाया गया है। पाकिस्तान के खैबर पख्तूनख्वा (केपीके) प्रांत में हालात बहुत खराब हो चुके हैं. वहां इमरजेंसी लगाकर सरकार ने सीधे अपने हाथ में कंट्रोल ले लिया है, जिससे नया राजनीतिक बखेड़ा खड़ा हो गया है.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "KPK में इमरजेंसी से पाकिस्तान में बवाल, आतंकवाद पर नाकामी या लोकतंत्र पर हमला? जानें क्‍या है पूरा",
+          "summary": "पाकिस्तान के खैबर पख्तूनख्वा प्रांत में इमरजेंसी लगा दी गई है। सरकार ने सीधे कंट्रोल हाथ में लिया है। इससे नया राजनीतिक बखेड़ा शुरू हो गया है। स्थानीय हालात खराब होने पर यह कदम उठाया गया है। पाकिस्तान के खैबर पख्तूनख्वा (केपीके) प्रांत में हालात बहुत खराब हो चुके हैं. वहां इमरजेंसी लगाकर सरकार ने सीधे अपने हाथ में कंट्रोल ले लिया है, जिससे नया राजनीतिक बखेड़ा खड़ा हो गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान में 200 साल पुराना रामलीला मंदिर निशाने पर, तोड़कर प्लाजा बनाने की कोशिश, विरोध के बाद",
+      "url": "https://hindi.news18.com/world/pakistan-200-year-old-hindu-temple-sealed-dera-ismail-khan-ramlila-10919394.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-18T16:53:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-dera-ismail-2026-10-5ef0101254ca694eafa7621682c51f4d-1200x800.jpg",
+      "summary": "डेरा इस्माइल खान में 200 साल पुराने रामलीला मंदिर को सील कर दिया गया है। मंदिर तोड़कर प्लाजा बनाने की कोशिश के विरोध के बाद यह कार्रवाई हुई। इवैक्यूई ट्रस्ट प्रॉपर्टी बोर्ड ने मंदिर को अपने कब्जे में ले लिया है। पाकिस्तान के खैबर पख्तूनख्वा प्रांत में करीब 200 साल पुराने रामलीला मंदिर को अधिकारियों ने सील कर दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में 200 साल पुराना रामलीला मंदिर निशाने पर, तोड़कर प्लाजा बनाने की कोशिश, विरोध के बाद",
+          "summary": "डेरा इस्माइल खान में 200 साल पुराने रामलीला मंदिर को सील कर दिया गया है। मंदिर तोड़कर प्लाजा बनाने की कोशिश के विरोध के बाद यह कार्रवाई हुई। इवैक्यूई ट्रस्ट प्रॉपर्टी बोर्ड ने मंदिर को अपने कब्जे में ले लिया है। पाकिस्तान के खैबर पख्तूनख्वा प्रांत में करीब 200 साल पुराने रामलीला मंदिर को अधिकारियों ने सील कर दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान में लश्कर-ए-तैयबा के आतंकी की मौत, नमाज पढ़ने मस्जिद जा रहा था, अचानक गई जान",
+      "url": "https://hindi.news18.com/world/pakistan-chaudhry-muhammad-sarwar-death-lashkar-e-taiba-jaish-commander-10919233.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-18T16:42:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-lashkar-2026-10-2ee69ae3e65574d5ddb694e7d2f60eee-1200x800.jpg",
+      "summary": "लाहौर में लश्कर-ए-तैयबा से जुड़े चौधरी मुहम्मद सरवर की मौत हो गई। वह नमाज पढ़ने मस्जिद जा रहे थे। अमेरिकी ट्रेजरी विभाग ने उन्हें 2016 में प्रतिबंधित किया था। पाकिस्तान के लाहौर में सेंट्रल मुस्लिम लीग पंजाब के अध्यक्ष चौधरी मुहम्मद सरवर की मौत हो गई. पार्टी के मुताबिक, वह अस्र की नमाज के लिए मस्जिद जा रहा था. अमेरिकी ट्रेजरी विभाग ने उन्हें 2016 में लश्कर-ए-तैयबा से जुड़ा बताते हुए प्रतिबंधित किया था.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में लश्कर-ए-तैयबा के आतंकी की मौत, नमाज पढ़ने मस्जिद जा रहा था, अचानक गई जान",
+          "summary": "लाहौर में लश्कर-ए-तैयबा से जुड़े चौधरी मुहम्मद सरवर की मौत हो गई। वह नमाज पढ़ने मस्जिद जा रहे थे। अमेरिकी ट्रेजरी विभाग ने उन्हें 2016 में प्रतिबंधित किया था। पाकिस्तान के लाहौर में सेंट्रल मुस्लिम लीग पंजाब के अध्यक्ष चौधरी मुहम्मद सरवर की मौत हो गई. पार्टी के मुताबिक, वह अस्र की नमाज के लिए मस्जिद जा रहा था. अमेरिकी ट्रेजरी विभाग ने उन्हें 2016 में लश्कर-ए-तैयबा से जुड़ा बताते हुए प्रतिबंधित किया था.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "ईरान ने 'मिसाइल मैन' को बनाया राक्षमंत्री, आते ही अमेरिका को ललकारा, होर्मुज में 7 दिन में 14 जहाज",
@@ -596,42 +650,6 @@
       }
     },
     {
-      "title": "मेक्सिको के तट के पास समुद्र में पलटी नाव, शार्क ने लोगों पर कर दिया हमला, 11 लापता",
-      "url": "https://hindi.news18.com/world/rest-of-world-boat-capsizes-off-baja-california-coast-leaves-16-injured-11-missing-after-suspected-shark-attack-10918434.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-18T09:04:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/MEXICO-BOAT-2026-10-66381d24544b4a38cc46a1d64ee94363-1200x800.jpg",
-      "summary": "मेक्सिको के बाजा कैलिफोर्निया तट के पास एक नाव समुद्र में पलट गई। इस हादसे में 11 लोग लापता हो गए हैं। बचाए गए 16 लोगों को गंभीर चोटें आई हैं। Boat Capsizes off California Coast: मेक्सिको के बाजा कैलिफोर्निया तट के बाद समंदर में नाव पलट गई. इस घटना के बाद से 11 लोग लापता हो गए हैं. जिन लोगों को बचाया गया है, उनके से 16 को गंभीर चोटें भी आई हैं.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेक्सिको के तट के पास समुद्र में पलटी नाव, शार्क ने लोगों पर कर दिया हमला, 11 लापता",
-          "summary": "मेक्सिको के बाजा कैलिफोर्निया तट के पास एक नाव समुद्र में पलट गई। इस हादसे में 11 लोग लापता हो गए हैं। बचाए गए 16 लोगों को गंभीर चोटें आई हैं। Boat Capsizes off California Coast: मेक्सिको के बाजा कैलिफोर्निया तट के बाद समंदर में नाव पलट गई. इस घटना के बाद से 11 लोग लापता हो गए हैं. जिन लोगों को बचाया गया है, उनके से 16 को गंभीर चोटें भी आई हैं.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "मासूमियत पर गन कल्चर का साया: 'थापी' और बंदूक के इशारे पर घिरे मूसेवाला के परिजन, 'छोटा सिद्धू' के",
-      "url": "https://hindi.news18.com/news/nation/little-sidhu-video-controversy-gun-culture-over-innocence-moose-wala-family-surrounded-by-thapi-and-guns-local18-10918199.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-18T08:33:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Sidhu-Moose-Wala-2026-10-aebead6e43ff338a553ae65dfbccf854-1200x800.jpg",
-      "summary": "सिद्धू मूसेवाला के दो साल के भाई का वीडियो विवाद का विषय बना है। टोरंटो के ट्रिब्यूट कॉन्सर्ट में बच्चे ने बंदूक का इशारा किया। मानवाधिकार संगठनों ने इस घटना पर तीखा ऐतराज जताया है। Sidhu Moose Wala: सिद्धू मूसेवाला के ढाई साल के छोटे भाई सुखदीप सिंह सिद्धू उर्फ 'छोटा सिद्धू' के एक वीडियो ने नया विवाद खड़ा कर दिया है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मासूमियत पर गन कल्चर का साया: 'थापी' और बंदूक के इशारे पर घिरे मूसेवाला के परिजन, 'छोटा सिद्धू' के",
-          "summary": "सिद्धू मूसेवाला के दो साल के भाई का वीडियो विवाद का विषय बना है। टोरंटो के ट्रिब्यूट कॉन्सर्ट में बच्चे ने बंदूक का इशारा किया। मानवाधिकार संगठनों ने इस घटना पर तीखा ऐतराज जताया है। Sidhu Moose Wala: सिद्धू मूसेवाला के ढाई साल के छोटे भाई सुखदीप सिंह सिद्धू उर्फ 'छोटा सिद्धू' के एक वीडियो ने नया विवाद खड़ा कर दिया है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
       "title": "ड्रोन से हथियार-हेरोइन सप्लाई करने वाले सिंडिकेट पर शिकंजा, NIA की सख्त कार्रवाई",
       "url": "https://www.abplive.com/news/india/nia-caught-network-smuggling-weapons-and-heroin-in-india-via-drones-files-charge-sheet-against-2-more-accused-ann-3203588",
       "source": "ABP Live (India)",
@@ -646,24 +664,6 @@
           "title": "ड्रोन से हथियार-हेरोइन सप्लाई करने वाले सिंडिकेट पर शिकंजा, NIA की सख्त कार्रवाई",
           "summary": "NIA ने जयपुर की विशेष अदालत में हथियार और नशा तस्करी केस की तीसरी चार्जशीट दाखिल की। इसमें सत्यनारायण मेघवाल और साहिल गोदारा को आरोपी बनाया गया। दोनों को जुलाई 2026 में गिरफ्तार किया गया था। NIA ने अंतरराष्ट्रीय हथियार और नशा तस्करी के मामले में तीसरी चार्जशीट दाखिल की है. राजस्थान के जयपुर स्थित NIA की विशेष अदालत में दाखिल इस चार्जशीट में दो और आरोपियों सत्यनारायण मेघवाल और साहिल गोदारा के नाम शामिल किए गए हैं.",
           "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
-      "title": "यूरोप का एक और देश सुलग उठा, सड़कों पर उतरे हजारों लोग, महंगाई और घर बने मुद्दा",
-      "url": "https://hindi.news18.com/world/rest-of-world-europe-unrest-portugal-protests-against-inflation-and-high-cost-of-living-ws-l-10918257.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-18T07:55:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/portugal-protest-2026-10-5152a96cd8eafbf7546f81d7d34c7552-1200x800.jpg",
-      "summary": "पुर्तगाल में महंगाई और बढ़ते घर किराए के विरोध में हजारों लोग सड़कों पर उतरे। यह प्रदर्शन इटली और फ्रांस के बाद यूरोप में हुए नए आंदोलनों की श्रृंखला का हिस्सा है। Portugal protests: यूरोप के एक और देश में महंगाई के खिलाफ प्रदर्शन हो रहे हैं. इटली और फ्रांस के प्रदर्शनों के बीच आसमान छूती महंगाई को लेकर एक और देश में प्रदर्शन होने लगे.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूरोप का एक और देश सुलग उठा, सड़कों पर उतरे हजारों लोग, महंगाई और घर बने मुद्दा",
-          "summary": "पुर्तगाल में महंगाई और बढ़ते घर किराए के विरोध में हजारों लोग सड़कों पर उतरे। यह प्रदर्शन इटली और फ्रांस के बाद यूरोप में हुए नए आंदोलनों की श्रृंखला का हिस्सा है। Portugal protests: यूरोप के एक और देश में महंगाई के खिलाफ प्रदर्शन हो रहे हैं. इटली और फ्रांस के प्रदर्शनों के बीच आसमान छूती महंगाई को लेकर एक और देश में प्रदर्शन होने लगे.",
-          "region": "यूरोप और रूस"
         }
       }
     },

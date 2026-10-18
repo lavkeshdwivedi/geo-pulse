@@ -1,16 +1,50 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 18, 2026 20:28 IST
+**Updated:** October 18, 2026 23:14 IST
+
+---
+
+## Americas
+
+### [Multiple people killed as Canadian authorities tackle active blaze at Alberta military base](https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright)
+*The Guardian* - Oct 18, 21:01 IST (iso: 2026-10-18T15:31:33+00:00)
+<!-- image: https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=271f64adc7ac5def6bec46e906fa8d42 -->
+
+A large fire at the Wainwright military base in Alberta killed and injured multiple people. Hospitals in Edmonton reported being overwhelmed by the influx of casualties. Canada’s defence minister confirmed the incident as serious, with ongoing recovery efforts. Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday.“I’m saddened to share that there have been both fatalities and injuries as a result of an incide.
+
+### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
+*The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
+
+Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
+
+### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
+*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
+<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
+
+Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
 
 ---
 
 ## Europe & Russia
 
-### [Donald Trump says ‘France is burning’, country ‘shattered’ by immigration](https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece)
-*The Hindu (International)* - Oct 18, 19:26 IST (iso: 2026-10-18T13:56:37+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/6qbeh/article71600248.ece/alternates/LANDSCAPE_1200/Trump_37_34.jpg -->
+### [Albania protests continue for sixth straight day demanding Prime Minister’s resignation](https://www.thehindu.com/news/international/albania-protests-continue-for-sixth-straight-day-demanding-prime-ministers-resignation/article71599909.ece)
+*The Hindu (International)* - Oct 18, 20:53 IST (iso: 2026-10-18T15:23:22+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ar4t5i/article71600222.ece/alternates/LANDSCAPE_1200/2026-10-18T124253Z_75391768_RC2O5OAMHXPW_RTRMADP_3_ALBANIA-PROTEST.JPG -->
 
-Trump described France as burning and shattered by immigration. The comments followed protests that torched a historic town hall. Authorities arrested 1,800 people during the unrest. The incident increased pressure on President Macron ahead of upcoming elections. France is reeling from widespread damage during protests the day before that left a historic town hall torched and led to 1,800 arrests, piling pressure on President Emmanuel Macron six months before elections to replace him.
+Protesters gathered in Albania for a sixth consecutive day, demanding Prime Minister Edi Rama step down. Police deployed water cannons and tear gas to disperse the crowds outside the Education Ministry. The standoff marked the longest sustained challenge to Rama's government in recent years. Hundreds of protesters gathered on Sunday in front of the Education Ministry chanting “Rama, resign” in a tense standoff with the police, who later used water cannons and tear gas to hold back the crowds.
+
+### [Zelenskyy Says Russia Seeking Blackout In Ukraine After Latest Onslaught On Energy Facilities](https://www.rferl.org/a/ukraine-russia-drone-attacks-zelenskyy-airports/33878787.html)
+*Radio Free Europe / Liberty* - Oct 18, 15:37 IST (iso: 2026-10-18T10:07:44+00:00)
+<!-- image: https://gdb.rferl.org/42812e3b-6cfa-44c7-8a22-ac3292707874_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Volodymyr Zelenskyy stated that Russian strikes targeted power infrastructure across multiple Ukrainian regions. The attacks left tens of thousands of households without electricity. Officials reported civilian deaths following overnight drone strikes on October 18. Russia appears to be seeking a total blackout. Ukrainian President Volodymyr Zelenskyy said Russian strikes targeted power sites in multiple regions, leaving tens of thousands of households without electricity, as Ukrainian and Russian officials reported civilian deaths following overnight drone attacks on October 18.
 
 ### [Kasparov Says Talks With Putin Pointless, War Is 'Ideological Basis' Of His Rule](https://www.rferl.org/a/kasparov-says-talks-with-putin-pointless-war-is-ideological-basis-of-his-rule/33877974.html)
 *Radio Free Europe / Liberty* - Oct 17, 19:32 IST (iso: 2026-10-17T14:02:23+00:00)
@@ -74,13 +108,35 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 ---
 
+## Middle East & Africa
+
+### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
+*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
+
+Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
+
+### [Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?](https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html)
+*Radio Free Europe / Liberty* - Oct 17, 13:06 IST (iso: 2026-10-17T07:36:00+00:00)
+<!-- image: https://gdb.rferl.org/db941d25-4d5f-4408-7599-08df13a869ed_w1200_h630.jpg -->
+
+Iran's government has survived war, economic crisis, and mass protests. Vahid Pourostad attributes this resilience to entrenched power networks. The opposition remains fractured and unable to mount a unified challenge. The Islamic republic continues to hold power despite severe internal and external pressure. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing?
+
+### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
+*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
+
+Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
+
+### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
+*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
+
+Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
+
+---
+
 ## Asia-Pacific
-
-### [U.S. lawmakers urge Rubio to question India over handling of CJP protests](https://www.thehindu.com/news/international/us-lawmakers-urge-rubio-to-question-india-over-handling-of-cjp-protests/article71595407.ece)
-*The Hindu (International)* - Oct 18, 19:00 IST (iso: 2026-10-18T13:30:18+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/p9qjhc/article71595508.ece/alternates/LANDSCAPE_1200/IMG_bl16_page1promo_2_1_DFGLQJ27.jpg -->
-
-U. S. lawmakers wrote to Secretary Rubio. They urged him to question India on protest handling. The letter cited the CJP demonstrations. It also mentioned protests against Chief Election Commissioner Gyanesh Kumar. Lawmakers alleged excessive force was used. In their letter, the lawmakers cited the CJP protests against then Education Minister Dharmendra Pradhan and the ongoing demonstrations seeking the resignation of Chief Election Commissioner Gyanesh Kumar as examples of alleged use of excessive forces against protesters.
 
 ### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
 *Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
@@ -99,62 +155,6 @@ September US inflation hit 3.7% year-on-year, exceeding forecasts. The data sugg
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
 
 Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
-
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal to fight fires. The pilot project targets South Sumatra province. Previous cloud seeding and water bombing attempts failed. Toxic haze from the fires has spread across the region. Neighboring countries have expressed anger over the pollution. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
-
----
-
-## Americas
-
-### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
-*The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
-<!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
-
-Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
-
-### [‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say](https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright)
-*The Guardian* - Oct 18, 08:20 IST (iso: 2026-10-18T02:50:29+00:00)
-<!-- image: https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=271f64adc7ac5def6bec46e906fa8d42 -->
-
-A large fire at the Wainwright military base in Alberta killed and injured multiple people. Hospitals in Edmonton reported being overwhelmed by the influx of casualties. Canada’s defence minister confirmed the incident as serious, with ongoing recovery efforts. Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday.“I’m saddened to share that there have been both fatalities and injuries as a result of an incide.
-
-### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
-*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
-<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
-
-Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
-
----
-
-## Middle East & Africa
-
-### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
-*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
-
-Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
-
-### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
-*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
-
-Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
-
-### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
-*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
-
-Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
 
 ---
 
