@@ -1,16 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 18, 2026 05:04 IST
+**Updated:** October 18, 2026 07:13 IST
 
 ---
 
 ## Europe & Russia
 
-### [Ukraine resumes attacks on Russian oil refineries as U.S. relations teeter](https://www.thehindu.com/news/international/ukraine-resumes-attacks-on-russian-oil-refineries-as-us-relations-teeter/article71589573.ece)
-*The Hindu (International)* - Oct 18, 03:59 IST (iso: 2026-10-17T22:29:48+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/9jk8u1/article71589704.ece/alternates/LANDSCAPE_1200/2026-10-15T112352Z_665012958_RC2M3OA45VAX_RTRMADP_3_UKRAINE-CRISIS-ATTACK-AIRCRAFT.JPG -->
+### [Clashes and fires break out as protesters rally across France, joining students](https://www.thehindu.com/news/international/clashes-and-fires-break-out-as-protesters-rally-across-france-joining-students/article71598941.ece)
+*The Hindu (International)* - Oct 18, 07:05 IST (iso: 2026-10-18T01:35:54+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/b0pzy8/article71598965.ece/alternates/LANDSCAPE_1200/AFP_D3LR764.jpg -->
 
-Ukraine resumed strikes on Russian oil refineries as Kyiv and Washington relations strained. President Zelenskyy stated the country is losing a strong partner. He noted it is painful when President Trump chooses one side. Ukraine accepts the U. S. remaining neutral in the conflict. Ukraine President Zekenskyy said “we are losing a strong partner” in the United States. He said that “it's painful when President Trump chooses one side, not our side.
+Protesters clashed with police in Paris, throwing paving stones and fireworks at officers in the Place de la République. Police responded with tear gas and water cannons. The unrest spread across France as students joined the demonstrations. Police fired tear gas and water cannons to push back people wearing hoods and masks and throwing fireworks, paving stones and other objects at officers in the Place de la République, northeast of the Paris city centre.
+
+### [Drone strikes in the Black Sea raise fears of Russian escalation to test NATO's response](https://www.thehindu.com/news/international/drone-strikes-in-the-black-sea-raise-fears-of-russian-escalation-to-test-natos-response/article71591367.ece)
+*The Hindu (International)* - Oct 18, 06:41 IST (iso: 2026-10-18T01:11:34+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/1lcaj1/article71591449.ece/alternates/LANDSCAPE_1200/iStock-1809242492.jpg -->
+
+Drone strikes in the Black Sea killed two people and left twenty-five missing. The attacks targeted exclusive economic zones, threatening global shipping routes. The incidents raise fears of Russian escalation and potential NATO involvement in the Ukraine war. The attacks in the two countries' exclusive economic zones threaten a global shipping route and have left two people dead, with at least 25 still missing.
 
 ### [Kasparov Says Talks With Putin Pointless, War Is 'Ideological Basis' Of His Rule](https://www.rferl.org/a/kasparov-says-talks-with-putin-pointless-war-is-ideological-basis-of-his-rule/33877974.html)
 *Radio Free Europe / Liberty* - Oct 17, 19:32 IST (iso: 2026-10-17T14:02:23+00:00)
@@ -74,59 +80,19 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 ---
 
-## Asia-Pacific
-
-### [New China-North Korea bridge opens after more than a decade of delay](https://www.thehindu.com/news/international/new-china-north-korea-bridge-opens-after-more-than-a-decade-of-delay/article71589742.ece)
-*The Hindu (International)* - Oct 18, 03:59 IST (iso: 2026-10-17T22:29:36+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ymsc4p/article71589750.ece/alternates/LANDSCAPE_1200/2026-10-15T103925Z_834472537_RC2L3OAE1W1Q_RTRMADP_3_CHINA-NORTHKOREA-BRIDGE.JPG -->
-
-China and North Korea opened the New Yalu River Bridge after a decade of delay. Construction on the Chinese side finished in 2014. North Korea had not completed its corresponding work at that time. The new crossing connects the two nations across the border river. The New Yalu River Bridge initially was expected to enter use in 2014, when China had apparently completed construction on its side.
-
-### [North Korea says it tested cruise missiles designed to be fired from submarines](https://www.thehindu.com/news/international/north-korea-says-it-tested-cruise-missiles-designed-to-be-fired-from-submarines/article71586524.ece)
-*The Hindu (International)* - Oct 18, 01:41 IST (iso: 2026-10-17T20:11:51+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/z4503x/article71586565.ece/alternates/LANDSCAPE_1200/iStock-1153689138.jpg -->
-
-North Korea announced it tested submarine-launched cruise missiles. State media said the trials assessed underwater combat readiness. The tests aimed to improve naval strategic capabilities. Officials also highlighted the reliability of the country's nuclear deterrent. North Korean state media said the tests were aimed at assessing the readiness of the country's underwater combat systems, improving the Navy's ability to carry out strategic missions and demonstrating the reliability of its nuclear deterrent.
-
-### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
-*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
-
-September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
-
-### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
-*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
-
-North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
-
-### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
-
-Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
-
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
-
----
-
 ## Middle East & Africa
-
-### [France demands Israel act after 'criminal violence' against visiting mayor](https://www.thehindu.com/news/international/france-demands-israel-act-after-criminal-violence-against-visiting-mayor/article71597848.ece)
-*The Hindu (International)* - Oct 18, 02:20 IST (iso: 2026-10-17T20:50:59+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/ds54ll/article71597850.ece/alternates/LANDSCAPE_1200/AFP__20261014__D39T6UY__v1__HighRes__FrancePoliticsParliament.jpg -->
-
-French mayor Bernard Baudoux demanded Israel arrest those responsible for violent attacks on his visit. He called the actions criminal and urged authorities to stop the violence. Baudoux insisted Israel guarantee civilian safety under international law. "The Israeli authorities must arrest those responsible for these revolting acts and take them to justice. They must urgently halt this criminal violence and guarantee the safety of civilian populations, as they are compelled to do under international law,” says Mayor Bernard Baudoux.
 
 ### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
 *UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
 
 Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
+
+### [Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?](https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html)
+*Radio Free Europe / Liberty* - Oct 17, 13:06 IST (iso: 2026-10-17T07:36:00+00:00)
+<!-- image: https://gdb.rferl.org/db941d25-4d5f-4408-7599-08df13a869ed_w1200_h630.jpg -->
+
+Iran's government has survived war, economic crisis, and protests due to entrenched power networks. A fractured opposition prevents unified resistance. Vahid Pourostad notes the system remains stable despite severe internal and external pressures. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing? Vahid Pourostad of RFE/RL's Negah-e-Farda (Iran Tomorrow) program explains that its survival rests on entrenched networks of power and a fractured opposition.
 
 ### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
 *UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
@@ -158,6 +124,34 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 
 ---
 
+## Asia-Pacific
+
+### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
+*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
+
+September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
+
+### [What do North Korea’s sub missile tests really prove?](https://asiatimes.com/2026/10/what-do-north-koreas-sub-missile-tests-really-prove/)
+*Asia Times* - Oct 16, 08:49 IST (iso: 2026-10-16T03:19:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/North-Korea-Missile-Test.jpg -->
+
+North Korea test-fired two types of submarine-launched strategic cruise missiles into the Sea of Japan. This marks the country's first public underwater launch of such weapons. The tests demonstrate a push to build a survivable, sea-based nuclear deterrent. However, significant engineering hurdles and platform limitations still constrain its naval capabilities. The exercises highlight a shift toward diversifying its delivery systems beyond land-based missiles.
+
+### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
+
+Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
+
+### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
+*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
+
+Indonesia is testing dry ice dispersal in South Sumatra. The government deployed planes to combat toxic haze. This follows failed cloud seeding attempts. Regional neighbors remain angry over the smoke. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
+
+---
+
 ## Global / Multilateral
 
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
@@ -165,6 +159,12 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg -->
 
 A new UN report warns that rapid economic shifts risk leaving vulnerable communities behind. Artificial intelligence and renewable energy transitions are reshaping global economies. These changes create new opportunities but also threaten to deepen socio-economic inequalities. The report highlights the need for inclusive policy frameworks. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
+
+### [WHO urges faster action to end lead exposure which kills 3.5 million annually](https://news.un.org/feed/view/en/story/2026/10/1168600)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/14-10-2026-WHO-lead-poison.jpg/image560x340cropped.jpg -->
+
+The World Health Organization urged countries to accelerate efforts to prevent lead exposure. The toxic metal causes over 3.5 million deaths annually. It also affects hundreds of millions of children globally, demanding immediate policy action. Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.
 
 ### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
