@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 19, 2026 07:31 IST
-
----
-
-## यूरोप और रूस
-
-### [2000 गिरफ्तार; सड़कों पर लाखों लोग; राष्ट्रपति मैक्रों ने क्या चेतावनी दी?](https://www.amarujala.com/world/france-s-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 12:30 IST (iso: 2026-10-19T07:00:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/imanael-makara_8b1e5a77f26f4cdab5701b4453fd5bd3.jpeg?w=1200&dpr=1.0 -->
-
-फ्रांस में हुए प्रदर्शनों के दौरान लगभग दो हज़ार लोगों को गिरफ्तार किया गया है। लाखों लोगों ने सड़कों पर प्रदर्शन किया और राष्ट्रपति मैक्रों ने चेतावनी जारी की। फ्रांस में सबसे बड़ा प्रदर्शन: 2000 गिरफ्तार; सड़कों पर लाखों लोग; राष्ट्रपति मैक्रों ने क्या चेतावनी दी?
-
-### [कुंभ राशि वालों के लिए आएंगे नए मौके, आय के साधनों में हो सकती है बढ़ोतरी](https://www.amarujala.com/astrology/predictions/aaj-ka-kumbh-rashifal-19-october-2026-aquarius-horoscope-in-hindi-2026-10-18)
-*Amar Ujala National* - Oct 19, 06:41 IST (iso: 2026-10-19T01:11:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/06/aaja-ka-rashafal_8fd52ddbb0573d0a5c29ae44758932ba.jpeg?w=1200&dpr=1.0 -->
-
-कुंभ राशि वालों के लिए नए व्यापारिक अवसर आ रहे हैं। आय के साधनों में वृद्धि की संभावना है। नए निवेश के मामले में सावधानी बरतने की सलाह दी गई है। व्यापार करने वालों को फिलहाल नए निवेश के मामले में सावधानी बरतनी चाहिए। भावनाओं में बहकर कोई फैसला लेने के बजाय परिस्थितियों का आकलन करें। गुस्से पर नियंत्रण रखने से रिश्तों और कामकाज, दोनों में संतुलन बना रहेगा।
-
-### [क्या आज महानवमी के दिन बैंक खुले हैं या नहीं? यहां चेक करें अपने शहर के बारे में](https://www.amarujala.com/photo-gallery/utility/shardiya-navratri-2026-9th-days-are-banks-open-today-on-the-day-of-navami-or-not-bank-aaj-open-hai-ya-band-hai-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 06:38 IST (iso: 2026-10-19T01:08:43+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/navaratara-ka-nava-thana-aaja-bka-khal-ha-ya-btha-ha_94215686dca5bd4431b7263c36244608.jpeg?w=1200&dpr=1.0 -->
-
-नवरात्रि की नवमी पर बैंकों की कार्यवाही शहर के अनुसार भिन्न है। 19 अक्टूबर को बैंक खुले हैं या नहीं, यह स्थानीय स्तर पर निर्भर करता है। ग्राहकों को पहले स्थिति की पुष्टि करनी चाहिए। आप अगर आज यानी 19 अक्तूबर नवरात्रि की नवमी के दिन किसी काम से बैंक जाने का प्लान कर रहे हैं, तो पहले ये जरूर चेक कर लें कि आपके शहर में बैंक खुले हैं या नहीं।
-
-### [बुर्का बैन के बाद से ही सुलग रही थी गुस्से की आग, फ्रांस का छात्र आंदोलन कैसे बना उग्र प्रदर्शन?](https://www.amarujala.com/world/explainer-how-france-student-protests-escalated-into-violent-demonstrations-after-burqa-ban-triggered-anger-2026-10-19)
-*Amar Ujala World* - Oct 19, 05:09 IST (iso: 2026-10-18T23:39:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/farasa-paratharashana_b59944126774fd9a054de512e812744f.jpeg?w=1200&dpr=1.0 -->
-
-फ्रांस में बुर्का प्रतिबंध के बाद से छात्रों का गुस्सा बढ़ रहा है। यह आंदोलन अब उग्र प्रदर्शनों में बदल गया है। विरोध की तीव्रता में लगातार वृद्धि देखी जा रही है। एक्सप्लेनर: बुर्का बैन के बाद से ही सुलग रही थी गुस्से की आग, फ्रांस का छात्र आंदोलन कैसे बना उग्र प्रदर्शन?
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### ['इस्राइल का इससे बड़ा दोस्त नहीं': ट्रंप के समर्थन पर भावुक हुए नेतन्याहू; ईरान से खतरे पर क्या](https://www.amarujala.com/world/netanyahu-trump-endorsement-israel-election-iran-nuclear-threat-2026-10-19)
-*Amar Ujala World* - Oct 19, 07:21 IST (iso: 2026-10-19T01:51:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/bjamana-natanayaha_14af3fad50d648521bce89a87c43d3b5.jpeg?w=1200&dpr=1.0 -->
-
-नेतन्याहू ने ट्रंप के समर्थन पर भावुकता जताई। उन्होंने ईरान से खतरे को गंभीर बताया। दोनों देशों के बीच रणनीतिक साझेदारी मजबूत होती दिख रही है। 'इस्राइल का इससे बड़ा दोस्त नहीं': ट्रंप के समर्थन पर भावुक हुए नेतन्याहू; ईरान से खतरे पर क्या बोले?
-
-### [होर्मुज में फिर फटी बारूदी सुरंद, तेल टैंकर के उड़े परखच्चे, अरागची ने ललकारा- 'आओ स्वागत है'](https://hindi.news18.com/world/middle-east-strait-of-hormuz-oil-tanker-hit-naval-mine-irgc-hit-tugboat-araghchi-mocks-us-west-asia-war-news-10919656.html)
-*News18 Hindi (World)* - Oct 19, 07:17 IST (iso: 2026-10-19T01:47:35+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/hormuz-strait-blast1-2026-10-0200e0c45c695c3ce1d88277a5d4ae8d-1200x800.jpg -->
-
-ओमान तट के पास होर्मुज में तेल टैंकर और टगबोट पर हमला हुआ। बारूदी सुरंग से टकराव के बाद आग लग गई। ईरानी सेना ने टगबोट को निशाना बनाया। दोनों पक्षों के बीच तनाव बढ़ा है। Oil Tanker-Tugboat Hit in Hormuz: स्ट्रेट ऑफ होर्मुज में बारूदी सुरंग से तेल टैंकर के टकराने के बाद एक बार फिर से शोले धधक उठे.
-
-### [यमन में लड़ाई तेज, मिस्र का सऊदी अरब को समर्थन; US में सड़क हादसा, 45+ मवेशियों की मौत](https://www.amarujala.com/world/world-updates-yenem-conflict-saudi-egypt-support-us-truck-fell-cattles-death-west-asia-russia-ukraine-crisis-2026-10-19)
-*Amar Ujala World* - Oct 19, 02:06 IST (iso: 2026-10-18T20:36:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
-
-यमन में संघर्ष तीव्र होता है, जबकि मिस्र ने सऊदी अरब का समर्थन किया। अमेरिका में सड़क हादसे में 45 से अधिक मवेशियों की मौत हो गई। अंतरराष्ट्रीय डायरी: यमन में लड़ाई तेज, मिस्र का सऊदी अरब को समर्थन; US में सड़क हादसा, 45+ मवेशियों की मौत।
-
----
-
-## दुनिया
-
-### [तेज रफ्तार ट्रक ने स्कॉर्पियो में मारी टक्कर, चार लोगों की मौत; चार घायल](https://www.amarujala.com/uttar-pradesh/varanasi/mirzamurad-truck-collided-scorpio-four-people-died-four-injured-police-arrived-scene-varanasi-accident-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 07:17 IST (iso: 2026-10-19T01:47:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/hathasa-ka-btha-maka-para-jata-palsa-oura-bhaugdha_7fb0df7675f317d72511e1bb15646be9.jpeg?w=1200&dpr=1.0 -->
-
-वाराणसी के मिर्जामुराद क्षेत्र में तेज रफ्तार ट्रक ने स्कॉर्पियो को टक्कर मारी। हादसे में चार लोगों की मौत हो गई। चार अन्य घायल हो गए। मौके पर अफरा-तफरी मच गई। वाराणसी के मिर्जामुराद क्षेत्र में रूपापुर ओवरब्रिज पर स्कॉर्पियो को ट्रक ने टक्कर मार दी। तेज रफ्तार ट्रक ने स्कॉर्पियो में मारी टक्कर, चार लोगों की मौत; चार घायल।
-
-### [व्हाट्सएप यूजर्स को जल्द मिल सकता है नया चैट बार: इमोजी से लेकर कैमरा बटन तक बदलेगा लेआउट, जानें](https://www.amarujala.com/technology/mobile-apps/whatsapp-new-chat-bar-design-send-button-relocated-android-beta-update-2026-10-18)
-*Amar Ujala National* - Oct 19, 07:01 IST (iso: 2026-10-19T01:31:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/04/17/whatsapp-update_a1687246daf95d472adba412dd7c9c42.jpeg -->
-
-व्हाट्सएप एंड्रॉयड में नया चैट बार लाने की तैयारी कर रहा है। नए डिजाइन में सेंड बटन चैट बार के अंदर होगा। मैसेज लिखने की जगह ऊपर दिखाई देगी। उपयोगकर्ताओं का अनुभव बदलेगा। व्हाट्सएप एंड्रॉयड एप में चैटिंग का अनुभव बदलने की तैयारी कर रहा है। व्हाट्सएप यूजर्स को जल्द मिल सकता है नया चैट बार: इमोजी से लेकर कैमरा बटन तक बदलेगा लेआउट, जानें।
-
-### [मां सिद्धिदात्री की पूजा का शुभ रंग और आउटफिट आइडियाज, ट्रेडिशनल लुक से जीतें सबका दिल](https://www.amarujala.com/photo-gallery/fashion/navratri-day-9-colour-2026-maa-siddhidatri-puja-look-ethnic-outfit-ideas-on-maha-navami-2026-10-18)
-*Amar Ujala National* - Oct 19, 07:01 IST (iso: 2026-10-19T01:31:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/navami-colour-outfit-ideas_e5d0912624755bb71cfee7f4f4ce8010.jpeg?w=1200&dpr=1.0 -->
-
-महा नवमी पर मां सिद्धिदात्री की पूजा के लिए हरे रंग के कपड़े चुनें। पुराने आउटफिट को चूड़ियों, बिंदी और झुमकों के साथ स्टाइल करें। गजरा पहनकर फेस्टिव लुक पाएं। नए कपड़े खरीदने की जरूरत नहीं है। Maha Navami colour 2026: नवमी के लिए नये कपड़े खरीदने की जरूरत नहीं है। आपके पास हरा दुपट्टा, कुर्ती या साड़ी है, तो उसे किसी कॉन्ट्रास्ट परिधान के साथ स्टाइल करें।
-
-### [एक लाख से कम में मिलते हैं ये पांच इलेक्ट्रिक स्कूटर, जानें रेंज और फीचर्स की पूरी डिटेल](https://www.amarujala.com/technology/tip-of-the-day/smart-ev-buying-guide-high-range-electric-scooters-under-1-lakh-bring-home-this-festive-season-2026-10-18)
-*Amar Ujala National* - Oct 19, 07:00 IST (iso: 2026-10-19T01:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/paratakatamaka-tasavara_31b9e99c770775e5636f31734e592e33.jpeg -->
-
-ओला, बजाज समेत पांच इलेक्ट्रिक स्कूटर एक लाख रुपये से कम की कीमत में उपलब्ध हैं। इनकी रेंज और फीचर्स की विस्तृत जानकारी उपभोक्ताओं के लिए प्रकाशित की गई है। ओला से बजाज तक: एक लाख से कम में मिलते हैं ये पांच इलेक्ट्रिक स्कूटर, जानें रेंज और फीचर्स की पूरी डिटेल।
-
-### [जलगांव में कंटेनर ट्रक से टकराई कार, तीन चचेरे भाइयों की मौत; परिजन ने क्या बताया; कैसे हुआ हादसा?](https://www.amarujala.com/india-news/maharashtra-several-killed-after-a-car-collided-with-a-container-truck-near-bambhori-bridge-in-jalgaon-2026-10-19)
-*Amar Ujala National* - Oct 19, 06:50 IST (iso: 2026-10-19T01:20:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/09/25/tharaghatana-sakataka-tasavara_1a6eda6275ed747a502e94bbeeff23e8.jpeg?w=1200&dpr=1.0 -->
-
-महाराष्ट्र के जलगांव में कार और कंटेनर ट्रक के बीच टक्कर हुई। इस हादसे में तीन चचेरे भाइयों की मौत हो गई। परिजनों ने घटना के विवरण का खुलासा किया। महाराष्ट्र: जलगांव में कंटेनर ट्रक से टकराई कार, तीन चचेरे भाइयों की मौत; परिजन ने क्या बताया; कैसे हुआ हादसा?
-
-### [नेतन्याहू की कुर्सी के लिए खतरा बना अरब किंगमेकर; यहूदी सांसद से क्यों मिलाया हाथ?](https://www.amarujala.com/world/israel-politics-election-arab-kingmaker-threat-to-netanyahu-power-2026-10-19)
-*Amar Ujala World* - Oct 19, 06:50 IST (iso: 2026-10-19T01:20:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/masara-abbsa_e12a06e35c88b00e3591c21b9cdec793.jpeg?w=1200&dpr=1.0 -->
-
-इज़राइल में राजनीतिक स्थिति गंभीर बनी हुई है। अरब सांसद नेतन्याहू की कुर्सी के लिए खतरा बन रहे हैं। उन्होंने एक यहूदी सांसद से गठबंधन किया है। इस्राइल में गरमाई राजनीति: नेतन्याहू की कुर्सी के लिए खतरा बना अरब किंगमेकर; यहूदी सांसद से क्यों मिलाया हाथ?
-
-### [यूपी में महानवमी पर सार्वजनिक अवकाश, तमिलनाडु में आरएसएस के रूट मार्च का समय तय करेगी पुलिस](https://www.amarujala.com/india-news/19-october-2026-major-event-2026-2026-10-17)
-*Amar Ujala National* - Oct 19, 06:33 IST (iso: 2026-10-19T01:03:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/aaja-ka-khabra_8061a16f481c59ae645e8e1ea60ea747.gif?w=1200&dpr=1.0 -->
-
-उत्तर प्रदेश ने महानवमी को सार्वजनिक अवकाश घोषित किया है। तमिलनाडु में पुलिस ने आरएसएस के रूट मार्च का समय तय करने की जिम्मेदारी ली है। नमस्कार! आज है सोमवार, 19 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं यूपी में महानवमी पर सार्वजनिक अवकाश, तमिलनाडु में आरएसएस के रूट मार्च का समय तय करेगी पुलिस।
-
-### [मां सिद्धिदात्री का प्रिय भोग क्या है? नवमी की पूजा में न भूलें ये चीजें](https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/maha-navami-2026-maa-siddhidatri-favourite-bhog-recipe-offer-on-navratri-day-9-2026-10-18)
-*Amar Ujala National* - Oct 19, 06:30 IST (iso: 2026-10-19T01:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/navami-bhog-ideas_fdd8fe3fd5a952e227b2b93fa19d8418.jpeg?w=1200&dpr=1.0 -->
-
-नवरात्रि की नवमी तिथि को मां सिद्धिदात्री का पूजन होता है। इस दिन विशेष भोग बनाकर अर्पित करने की परंपरा है। Maha Navami bhog 2026: नवरात्रि के अंतिम या नवमी तिथि को मां सिद्धिदात्री का पूजन होता है। इस मौके पर उनका प्रिय भोग बनाकर अर्पित करें। मां सिद्धिदात्री का प्रिय भोग क्या है? नवमी की पूजा में न भूलें ये चीजें।
-
-### [57% तक बैक्टीरिया पर बेअसर; क्या अब दवाओं से उपचार होगा मुश्किल?](https://www.amarujala.com/india-news/antibiotic-resistance-bacteria-india-study-online-medicine-data-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 06:16 IST (iso: 2026-10-19T00:46:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/etabyataka-sa-kaya-naha-mara-raha-bkataraya_0894dd5aa5150d8429249145a6545cc6.jpeg?w=1200&dpr=1.0 -->
-
-एंटीबायोटिक दवाओं पर बैक्टीरिया की प्रतिरोधक क्षमता 57 प्रतिशत तक पहुंच गई है। इससे दवाओं से उपचार अब कठिन हो रहा है। धड़ल्ले से बिक रही एंटीबायोटिक: 57% तक बैक्टीरिया पर बेअसर; क्या अब दवाओं से उपचार होगा मुश्किल?
-
-### [अतुल माहेश्वरी छात्रवृत्ति परीक्षा-2026: प्रथम चरण में 35 हजार से अधिक विद्यार्थी शामिल, दिखा](https://www.amarujala.com/education/atul-maheshwari-chhatravritti-2026-exam-35k-plus-students-in-first-phase-enthusiasm-seen-next-paper-on-25-oct-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 06:03 IST (iso: 2026-10-19T00:33:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/amc-atal-mahashavara-chhataravatata-parakashha-2026_a07e3ef93b093983a6336c553f95820a.jpeg?w=1200&dpr=1.0 -->
-
-अतुल माहेश्वरी छात्रवृत्ति परीक्षा 2026 के प्रथम चरण में 35 हजार से अधिक विद्यार्थी शामिल हुए। परीक्षा में भाग लेने वालों की संख्या उल्लेखनीय रही। अतुल माहेश्वरी छात्रवृत्ति परीक्षा-2026: प्रथम चरण में 35 हजार से अधिक विद्यार्थी शामिल, दिखा जबर्दस्त उत्साह।
-
-### [नई गाड़ी से पहले खरीदें स्क्रैपेज सर्टिफिकेट; पुरानी कार नहीं तब भी रियायत का फायदा?](https://www.amarujala.com/business/bonus/scrappage-certificate-buy-new-car-discount-without-old-vehicle-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 05:53 IST (iso: 2026-10-19T00:23:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/kama-kharaca-ma-naii-kara-kasa-malga-fayatha_4541605bb13eaeb386c424e55731455b.jpeg?w=1200&dpr=1.0 -->
-
-नई गाड़ी खरीदने से पहले स्क्रैपेज सर्टिफिकेट लेना ज़रूरी है। पुरानी कार न हो तो भी रियायत का फायदा मिल सकता है। यह नियम खरीदारों के लिए लाभदायक है। फायदे की बात: नई गाड़ी से पहले खरीदें स्क्रैपेज सर्टिफिकेट; पुरानी कार नहीं तब भी रियायत का फायदा?
-
-### [पुणे में कारोबारी राणा सूर्यवंशी पर हमला: बारामती एयरपोर्ट के पास हुई वारदात; सुप्रिया सुले ने सवाल](https://www.amarujala.com/india-news/pune-businessman-rana-suryavanshi-attack-near-baramati-airport-hindi-news-updates-ncp-supriya-sule-question-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 02:40 IST (iso: 2026-10-18T21:10:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/01/08/aparathha-sakataka-tasavara_a61c1da56f3b1ac2558f18debe818a7c.jpeg?w=1200&dpr=1.0 -->
-
-पुणे के बारामती एयरपोर्ट के पास कारोबारी राणा सूर्यवंशी पर हमला किया गया। सुप्रिया सुले ने इस घटना को लेकर सवाल उठाए और सुरक्षा की मांग की। पुणे में कारोबारी राणा सूर्यवंशी पर हमला: बारामती एयरपोर्ट के पास हुई वारदात; सुप्रिया सुले ने सवाल उठाए।
+**अपडेट:** October 19, 2026 12:54 IST
 
 ---
 
 ## एशिया-प्रशांत
 
-### [घटना के बाद सामने आई टाइगर श्रॉफ की पहली तस्वीर, मिलने पहुंचीं दिशा पाटनी](https://www.amarujala.com/live/entertainment/firing-incident-on-tiger-shroff-mumbai-police-says-actor-is-safe-further-investigation-is-underway-2026-10-18)
-*Amar Ujala Breaking* - Oct 19, 06:31 IST (iso: 2026-10-19T01:01:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/taigara-sharafa_f6350a39787696608912e87744b16bfa.jpeg?w=1200&dpr=1.0 -->
+### [सिर्फ 5 मिनट में जीतें 5,000 रुपये, 30 अक्तूबर से पहले ऐसे करें ऑनलाइन आवेदन](https://www.amarujala.com/education/jago-grahak-jago-quiz-2026-registration-open-win-rs-5000-apply-online-before-october-30-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:50 IST (iso: 2026-10-19T07:20:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/jago-grahak-jago-quiz-2026_d44c1bce83bafe82f1992848faa0b9cf.jpeg?w=1200&dpr=1.0 -->
 
-मुंबई में बॉलीवुड अभिनेता टाइगर श्रॉफ पर गोलीबारी हुई। बिश्नोई गैंग ने इस घटना की जिम्मेदारी ली है। अभिनेता सुरक्षित हैं और उन्हें कोई चोट नहीं लगी। मुंबई पुलिस ने एक संदिग्ध को हिरासत में लिया है। हालांकि, अभिनेता सुरक्षित हैं। उन्हें चोट नहीं लगी है। मुंबई पुलिस मामले में आगे की जांच कर रही है। टाइगर श्रॉफ पर फायरिंग, बिश्नोई गैंग ने ली जिम्मेदारी; हिरासत में एक संदिग्ध।
+जागो ग्राहक जागो क्विज 2026 के लिए ऑनलाइन पंजीकरण शुरू हो गया है। भारत के नागरिक उपभोक्ता अधिकारों और शिकायत निवारण से जुड़े प्रश्नों का उत्तर देकर 5,000 रुपये जीत सकते हैं। आवेदन 30 अक्टूबर तक खुले रहेंगे। भारत का कोई भी नागरिक इस प्रश्नोत्तरी में हिस्सा लेकर उपभोक्ता अधिकारों, शिकायत निवारण और सरकारी पहलों की जानकारी बढ़ा सकता है।
 
-### [आशुतोष रांका और सौरव दास की जमानत मामले में मंदिर मार्ग एसईएम को धमकी, अज्ञात लोगों पर प्राथमिकी](https://www.amarujala.com/delhi-ncr/delhi-police-has-lodged-an-fir-against-unknown-persons-for-threatening-the-special-executive-magistrate-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 06:24 IST (iso: 2026-10-19T00:54:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/17/dehradun-fir_8b0de261de59f1a25699ce3a931deb3f.jpeg?w=1200&dpr=1.0 -->
+### [कैसी है अभिनेता की हालत, कार पर कितनी चलीं गोलियां? जानें कब-कहां हुई वारदात](https://www.amarujala.com/entertainment/tiger-shroff-firing-case-updates-actor-health-full-details-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:38 IST (iso: 2026-10-19T07:08:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/taigara-sharafa_b091a32e8a16d8e6c3f0d88e55d4af3b.jpeg?w=1200&dpr=1.0 -->
 
-दिल्ली पुलिस ने मंदिर मार्ग के एसईएम को धमकी देने पर प्राथमिकी दर्ज की है। यह मामला आशुतोष रांका और सौरव दास की जमानत से जुड़ा है। दिल्ली पुलिस ने आशुतोष रांका और सौरव दास से जुड़े जमानत मामले में मंदिर मार्ग के विशेष कार्यपालक मजिस्ट्रेट (एसईएम) को धमकी देने के आरोप में अज्ञात लोगों के खिलाफ प्राथमिकी दर्ज की है।
+रविवार शाम मुंबई में बॉलीवुड अभिनेता टाइगर श्रॉफ पर जानलेवा हमला हुआ। वे इस घटना में बाल-बाल बच गए। पुलिस ने कार पर गोलियां चलने की पुष्टि की है। अभिनेता की हालत स्थिर है। बॉलीवुड अभिनेता टाइगर श्रॉफ पर रविवार शाम मुंबई में जानलेवा हमला हुआ, जिसमें वे बाल-बाल बच गए। अब एक्टर कैसे हैं, यह हमला किस जगह हुआ।
 
-### [कटोरा और थाली की चोरी पर 165 साल पहले हुई थी पहली प्राथमिकी, तब पंजाब का हिस्सा थी दिल्ली!](https://www.amarujala.com/delhi-ncr/sabzi-mandi-police-station-the-first-fir-was-registered-165-years-ago-over-the-theft-of-a-bowl-and-a-plate-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 05:58 IST (iso: 2026-10-19T00:28:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/1_a5e2b125da2703ed98665815106433cb.jpeg?w=1200&dpr=1.0 -->
+### [लॉरेंस बिश्नोई को ‘साहब’ कहने पर घिरी दिल्ली पुलिस: दिपके ने उठाए सवाल, पूछा- गैंगस्टरों के लिए](https://www.amarujala.com/india-news/delhi-police-under-fire-addressing-lawrence-bishnoi-as-sahab-dipke-raises-question-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:35 IST (iso: 2026-10-19T07:05:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/abhajata-thapaka-sajapa-ka-sasathapaka_e91398e067838519da9bb1eab5aa0885.jpeg?w=1200&dpr=1.0 -->
 
-18 अक्टूबर 1861 को दिल्ली के सब्जी मंडी थाने में घरेलू सामान की चोरी की पहली प्राथमिकी दर्ज हुई। तब दिल्ली पंजाब का हिस्सा थी। यह इतिहास में एक महत्वपूर्ण घटना थी। आज से 165 साल पहले, 18 अक्तूबर 1861 को दिल्ली के सब्जी मंडी थाने में घरेलू सामान की चोरी की पहली प्राथमिकी दर्ज की गई थी। कटोरा और थाली की चोरी पर 165 साल पहले हुई थी पहली प्राथमिकी, तब पंजाब का हिस्सा थी दिल्ली!
+दिल्ली पुलिस पर लॉरेंस बिश्नोई को 'साहब' कहने का सवाल उठा। दिपके ने गैंगस्टरों के लिए इतने सम्मान का कारण पूछा। लॉरेंस बिश्नोई को ‘साहब’ कहने पर घिरी दिल्ली पुलिस: दिपके ने उठाए सवाल, पूछा- गैंगस्टरों के लिए इतना सम्मान?
 
-### [मुंबई में टाइगर पर फायरिंग; गन्ने वाले इथेनॉल पेट्रोल में मिलाने पर रोक; पुणे में कारोबारी पर हमला](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-19-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 04:44 IST (iso: 2026-10-18T23:14:15+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0 -->
+### [वरिष्ठ भाजपा नेता लालकृष्ण आडवाणी को अस्पताल से मिली छुट्टी, सीने में संक्रमण की वजह से हुए थे](https://www.amarujala.com/india-news/veteran-bjp-leader-lk-advani-discharged-from-apollo-hospital-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:24 IST (iso: 2026-10-19T06:54:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/bhajapa-nata-llkashhanae-aadavanae_090306ea877d2b4e2847b787150eb956.jpeg?w=1200&dpr=1.0 -->
 
-मुंबई में एक बाघ पर फायरिंग की गई है। पुणे में एक व्यापारी पर हमला हुआ। साथ ही गन्ने वाले इथेनॉल के पेट्रोल में मिलाने पर रोक का फैसला भी आया। सुर्खियां: मुंबई में टाइगर पर फायरिंग; गन्ने वाले इथेनॉल पेट्रोल में मिलाने पर रोक; पुणे में कारोबारी पर हमला।
+वरिष्ठ भाजपा नेता लालकृष्ण आडवाणी को अस्पताल से छुट्टी मिली। वे सीने में संक्रमण के कारण भर्ती थे। दिल्ली: वरिष्ठ भाजपा नेता लालकृष्ण आडवाणी को अस्पताल से मिली छुट्टी, सीने में संक्रमण की वजह से हुए थे भर्ती? veteran bjp leader lk advani discharged from apollo hospital।
 
-### [चीन का सोलर तकनीक पर शिकंजा: 12 तकनीकों के निर्यात पर रोक का प्रस्ताव; भारत के सामने बढ़ेंगी](https://www.amarujala.com/world/china-solar-technology-export-restrictions-india-impact-2026-10-19)
-*Amar Ujala World* - Oct 19, 04:12 IST (iso: 2026-10-18T22:42:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/sara-uuraja-sa-jaugdha-12-takanaka-ka-kasa-ka-satha-sajha-naha-karaga-cana_eb86b090fee9f1d4fc204610d6e212b9.jpeg?w=1200&dpr=1.0 -->
+### [पति ने काम पर जाने का किया नाटक, घर में प्रेमी संग पत्नी को देख खोया आपा, फिर जो हुआ...](https://www.amarujala.com/bizarre-news/husband-pretends-to-go-to-work-catches-wife-with-her-lover-at-home-in-viral-video-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:07 IST (iso: 2026-10-19T06:37:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/cana-ma-patana-ka-parama-saga-raga-hatha-pakaugdhana-pahaca-pata_4c1a15e85fdda96576bd709e50b44deb.jpeg?w=1200&dpr=1.0 -->
 
-चीन ने 12 सौर तकनीकों के निर्यात पर रोक लगाने का प्रस्ताव रखा है। इससे भारत के सौर ऊर्जा लक्ष्यों के लिए चुनौतियां बढ़ेंगी। तकनीकी निर्भरता का मुद्दा और गहरा होगा। चीन का सोलर तकनीक पर शिकंजा: 12 तकनीकों के निर्यात पर रोक का प्रस्ताव; भारत के सामने बढ़ेंगी चुनौतियां?
+सोशल मीडिया पर चीन का वीडियो वायरल हुआ। उसमें पत्नी को प्रेमी के साथ पकड़ने का दृश्य दिखा। चीन का बताकर सोशल मीडिया पर वायरल हो रहे एक वीडियो में पति अपनी पत्नी को उसके प्रेमी के साथ पकड़ता नजर आ रहा है।
+
+### [छात्रों को मिलेगा सस्ता आवास, खाली स्टाफ क्वार्टर बनेंगे छात्रावास; दो नवंबर से मिल सकते हैं कमरे](https://www.amarujala.com/education/delhi-university-plans-to-convert-vacant-staff-quarters-into-hostels-for-students-six-units-ready-2026-10-19)
+*Amar Ujala National* - Oct 19, 11:58 IST (iso: 2026-10-19T06:28:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/delhi-university_e17c2f64cdbe27cb1e3dd5c2ae6ade9f.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली विश्वविद्यालय दूसरे राज्यों से आने वाले विद्यार्थियों के लिए खाली स्टाफ क्वार्टर को छात्रावास में बदल रहा है। पोस्ट ग्रेजुएट पुरुष छात्रावास में छह क्वार्टर का नवीनीकरण पूरा हो चुका है। दिल्ली विश्वविद्यालय दूसरे राज्यों से आने वाले विद्यार्थियों को सस्ता आवास उपलब्ध कराने के लिए खाली स्टाफ क्वार्टर को छात्रावास में बदलने की तैयारी कर रहा है। छात्रों को मिलेगा सस्ता आवास, खाली स्टाफ क्वार्टर बनेंगे छात्रावास; दो नवंबर से मिल सकते हैं कमरे।
 
 ---
 
-## अमेरिका
+## यूरोप और रूस
 
-### [चार सैनिकों ने गंवाई जान, 39 अस्पताल में भर्ती, 19 की हालत गंभीर; किस वजह लगी आग?](https://www.amarujala.com/world/massive-fire-at-canadian-military-base-kills-four-soldiers-dozens-injured-pm-mark-carney-says-probe-continue-2026-10-18)
-*Amar Ujala World* - Oct 19, 05:38 IST (iso: 2026-10-19T00:08:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/paema-karana-na-btaya-kanada-ka-sanaya-adada-para-aaga-sa-cara-sanaka-ka-mata_724452fa7b4671fcec9bc868383b36f5.jpeg?w=1200&dpr=1.0 -->
+### [सोसायटी में फ्लैट खरीदने से पहले सिर्फ घर मत देखें, ये 4 जगहें भी देखकर आएं](https://www.amarujala.com/photo-gallery/utility/8-places-to-check-before-buying-a-flat-in-a-housing-society-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:49 IST (iso: 2026-10-19T07:19:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/falta-kharathata-samaya-kaya-caja-thakha_ac37a95ed293ac96c7df2cf37136c0c9.jpeg?w=1200&dpr=1.0 -->
 
-कनाडा के सैन्य अड्डे में आग लगने से चार सैनिकों की मौत हो गई। 39 जख्मी अस्पताल में भर्ती हैं। इनमें 19 की हालत गंभीर बनी हुई है। कनाडा सैन्य अड्डा अग्निकांड: चार सैनिकों ने गंवाई जान, 39 अस्पताल में भर्ती, 19 की हालत गंभीर; किस वजह लगी आग?
+सोसायटी में फ्लैट खरीदने से पहले पार्किंग, पानी, सुरक्षा और लिफ्ट की स्थिति जांचना जरूरी है। केवल घर की बनावट और कीमत पर ध्यान देना पर्याप्त नहीं है। आसपास की सुविधाओं का मूल्यांकन भी आवश्यक है। सोसायटी में फ्लैट खरीदते समय सिर्फ घर की बनावट, कमरों और कीमत पर ध्यान देना काफी नहीं है। पार्किंग, पानी, सुरक्षा, लिफ्ट और आसपास की सुविधाओं को चेक करना भी जरूरी है।
+
+### [सलमान के दोस्तों पर 8 साल से हमले, लॉरेंस बिश्नोई गैंग का अगला टारगेट कौन?](https://www.amarujala.com/video/india-news/salman-khan-friends-targeted-since-8-years-by-lawrence-bishnoi-gang-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:21 IST (iso: 2026-10-19T06:51:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/salman-khan_cef39e8b38079acb7907676fb3ba89f9.jpeg?w=1200&dpr=1.0 -->
+
+लॉरेंस बिश्नोई गैंग ने सलमान खान के दोस्तों को टारगेट करने की धमकी दी। टाइगर श्रॉफ पर हमले के बाद यह ऑडियो जारी हुई। टाइगर श्रॉफ पर हमले के बाद लॉरेंस बिश्नोई गैंग ने एक ऑडियो जारी करके बताया कि जो भी सलमान के साथ रहेगा उसको टारगेट कर लेंगे। लेकिन क्या वाकई लॉरेंस गैंग ने इससे पहले भी सलमान के करीबियों को टारगेट किया है।
+
+### [स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना](https://www.amarujala.com/world/starlink-satellite-internet-dependence-national-security-zelensky-allegation-us-donald-trump-why-concern-india-2026-10-19)
+*Amar Ujala World* - Oct 19, 12:21 IST (iso: 2026-10-19T06:51:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/starlink_7b1192c29e2da4cef3d59ab7e3bacacb.jpeg?w=1200&dpr=1.0 -->
+
+जेलेंस्की के आरोपों ने स्टारलिंक की सुरक्षा को लेकर बहस छेड़ी। भारत ने इस पर सख्त रुख अपनाया है। स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना।
+
+### [10 साल बाद पाकिस्तान जाएंगे मालदीव के राष्ट्रपति, शहबाज शरीफ से मुलाकात करेंगे मुइज्जू, भारत की](https://hindi.news18.com/world/pakistan-maldives-president-muhammad-muizzu-pakistan-visit-india-security-concerns-10920260.html)
+*News18 Hindi (World)* - Oct 19, 12:13 IST (iso: 2026-10-19T06:43:37+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/muizzu-2026-10-6f4224ecbbb3109488443f4cf6fab98d-1200x800.jpg -->
+
+मालदीव के राष्ट्रपति मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान जाएंगे। यह दशक बाद पहली यात्रा है। वे शरीफ और जरदारी से मिलेंगे। मालदीव के राष्ट्रपति मोहम्मद मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान के दौरे पर रहेंगे. यह एक दशक बाद मालदीव के किसी राष्ट्रपति की पाकिस्तान यात्रा है. मुइज्जू प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी से मुलाकात करेंगे.
+
+### [फ्रांस हिंसा के बीच इंटीरियर मिनिस्टर ने की इस्तीफे की पेशकश, राष्ट्रपति मैक्रों ने ठुकराया](https://www.patrika.com/world-news/france-riots-president-macron-rejects-interior-minister-resignation-20994462)
+*Patrika (World)* - Oct 19, 11:44 IST (iso: 2026-10-19T06:14:19+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/france-interior-minister-with-president.webp -->
+
+फ्रांस में हिंसा के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने इस्तीफे की पेशकश की, जिसे राष्ट्रपति मैक्रों ने ठुकरा दिया। एलीसी पैलेस ने सोमवार को इस बात की पुष्टि की। France riots: फ्रांस में भड़की हिंसा और आगजनी के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने सुरक्षा बलों की विफलता की जिम्मेदारी लेते हुए राष्ट्रपति इमैनुएल मैक्रों को अपने इस्तीफे की पेशकश की थी।
+
+---
+
+## दुनिया
+
+### [सर्दियों में एसी को बनाएं एयर प्यूरीफायर: किस मोड पर इस्तेमाल करने से साफ होगी हवा? जानें सस्ता](https://www.amarujala.com/technology/tech-diary/how-to-use-your-ac-as-an-air-purifier-in-winter-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:46 IST (iso: 2026-10-19T07:16:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/use-your-ac-as-an-air-purifier-in-winter_13d4f8c4e4830253521afee6410035d1.jpeg -->
+
+सर्दियों में एसी को एयर प्यूरीफायर की तरह इस्तेमाल कर कमरे की हवा साफ की जा सकती है। इस प्रक्रिया का खर्च लगभग सौ रुपये आता है। यह विधि वायु प्रदूषण से बचाव का सस्ता विकल्प प्रदान करती है। सर्दियों में सिर्फ सौ रुपये में कमरे की हवा साफ की जा सकती है। आइए जानते हैं कि प्रदूषण से बचने के लिए एसी को एयर प्यूरीफायर की तरह कैसे इस्तेमाल किया जा सकता है।
+
+### [न स्मार्टवॉच, न फिटनेस बैंड; आ गया कनपटी पर पहनने वाला डिवाइस! 1 नवंबर से शुरू होगी बुकिंग, जानें](https://www.amarujala.com/technology/gadgets/deepinder-goyal-temple-wearable-pre-order-date-price-brainflow-colours-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:42 IST (iso: 2026-10-19T07:12:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/temple-wearable-device_d606c5ec40fd8215819369ab17e6f38c.jpeg -->
+
+जोमैटो के संस्थापक दीपिंदर गोयल ने कनपटी पर पहनने वाला हेल्थ-टेक डिवाइस 'टेंपल' लॉन्च किया है। यह डिवाइस दिमाग में रक्त प्रवाह को ट्रैक करता है। इसकी बुकिंग 1 नवंबर से शुरू होगी। Temple Wearable Device: जोमैटो के फाउंडर दीपिंदर गोयल एक अनोखा हेल्थ-टेक वियरेबल 'टेंपल' लेकर आ रहे हैं। स्मार्टवॉच से अलग, इस डिवाइस को कनपटी पर पहना जाता है, जो दिमाग में ब्लड फ्लो को ट्रैक करता है।
+
+### [गोवा में राहुल गांधी ने ज्ञानेश कुमार को घेरा, बेरोजगारी जैसे मुद्दे भी उठाए](https://www.amarujala.com/video/india-news/in-goa-rahul-gandhi-targeted-gyanesh-kumar-and-also-raised-issues-such-as-unemployment-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:16 IST (iso: 2026-10-19T06:46:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/rahul-gandhi_7b1adfb09269e778780c38efa6b2c72e.jpeg?w=1200&dpr=1.0 -->
+
+गोवा में राहुल गांधी ने ज्ञानेश कुमार से मुकाबला किया। उन्होंने बेरोजगारी जैसे मुद्दे उठाए। गोवा में राहुल गांधी ने ज्ञानेश कुमार को घेरा, बेरोजगारी जैसे मुद्दे भी उठाए।
+
+### [मां बनने के बाद थामी राइफल; चुनौतियों से लड़कर मोना ने इस तरह जीता एशियाड का स्वर्ण](https://www.amarujala.com/sports/who-is-mona-agarwal-from-childhood-polio-to-asian-para-games-gold-a-mother-s-inspiring-journey-2026-10-19)
+*Amar Ujala Breaking* - Oct 19, 12:15 IST (iso: 2026-10-19T06:45:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/asian-para-games-2026-para-shooting-mona-agarwal-gold-medal-avani-lekhara-mona-agarwal-paris_d70cd5fc875d27d7d6f1d825d40d8a02.jpeg?w=1200&dpr=1.0 -->
+
+सीकर की मोना अग्रवाल ने पोलियो के बावजूद एशियाड में स्वर्ण जीता। उन्होंने 2021 में निशानेबाजी शुरू की थी। राजस्थान के सीकर में जन्मी मोना अग्रवाल नौ महीने की उम्र में पोलियो से प्रभावित हो गई थीं। उन्होंने पैरा एथलेटिक्स और सिटिंग वॉलीबॉल के बाद दिसंबर 2021 में निशानेबाजी शुरू की। मां बनने के बाद थामी राइफल; चुनौतियों से लड़कर मोना ने इस तरह जीता एशियाड का स्वर्ण।
+
+### [दस नवंबर को शीतकाल के लिए बंद होंगे गंगोत्री धाम के कपाट, फिर मुखबा में होंगे मां गंगा के दर्शन](https://www.amarujala.com/uttarakhand/uttarkashi/gangotri-dham-temple-doors-to-close-on-november-10-at-12-05-pm-for-winter-uttarakhand-news-2026-10-19)
+*Amar Ujala Breaking* - Oct 19, 12:10 IST (iso: 2026-10-19T06:40:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/11/gangotri-dham_f5906c72d280d5ce02332d22e5fc687f.jpeg?w=1200&dpr=1.0 -->
+
+गंगोत्री धाम के कपाट 10 नवंबर को दोपहर 12:05 बजे बंद होंगे। शीतकाल के लिए दर्शन स्थल बंद रहेगा। विश्व प्रसिद्ध गंगोत्री धाम के कपाट आगामी 10 नवंबर को दोपहर 12 बजकर पांच मिनट पर शीतकाल के लिए बंद कर दिए जाएंगे। दस नवंबर को शीतकाल के लिए बंद होंगे गंगोत्री धाम के कपाट, फिर मुखबा में होंगे मां गंगा के दर्शन।
+
+### ['सुरक्षा को नहीं दी गई प्राथमिकता': दुर्गा पूजा पंडाल में भगदड़ पर ममता गुट का सवाल, कौन से असली](https://www.amarujala.com/india-news/mamata-tmc-questions-government-over-chorbagan-puja-stampede-and-awards-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:03 IST (iso: 2026-10-19T06:33:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/mamata-bnaraja-parava-makhayamatara-pashacama-bgal_b9cfea7c34be51f5aecf34cd404dca0e.jpeg?w=1200&dpr=1.0 -->
+
+तृणमूल कांग्रेस ने चोरबागन भगदड़ पर सरकार को घेर लिया। ममता बनर्जी ने सुरक्षा की प्राथमिकता पर सवाल उठाया। 'सुरक्षा को नहीं दी गई प्राथमिकता': दुर्गा पूजा पंडाल में भगदड़ पर ममता गुट का सवाल, कौन से असली गुनहगार?
+
+### [मनस्वी की कहानी, जो बेटियों को अपने सपने जीना सिखाती है](https://www.amarujala.com/columns/blog/dr-manasvi-agarwal-first-civilian-woman-from-rajasthan-to-successfully-summit-mount-everest-in-may-2026-2026-10-19)
+*Amar Ujala National* - Oct 19, 12:03 IST (iso: 2026-10-19T06:33:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/da-manasava-agaraval_7230dbe0ab7c4298568a4dbea6ced724.jpeg?w=1200&dpr=1.0 -->
+
+मनस्वी की कहानी माता-पिता को बेटियों की सुरक्षा और स्वतंत्रता के बीच संतुलन बनाने पर विचार करने का अवसर देती है। यह कहानी घरों में बच्चों के भविष्य और पसंदों को लेकर चर्चा को प्रोत्साहित करती है। मनस्वी की कहानी परिवारों को भी अपने नजरिए पर विचार करने का अवसर देती है। माता-पिता बच्चों की सुरक्षा और भविष्य को लेकर चिंतित रहते हैं।
+
+### [मृत साथी की याद में दफन स्थल पर पहुंचा 25 हाथियों का दल, बांधवगढ़ से 30 और हाथियों के आने से हलचल](https://www.amarujala.com/madhya-pradesh/a-remarkable-bond-25-elephants-visit-dead-companion-s-burial-site-as-30-more-arrive-from-bandhavgarh-2026-10-19)
+*Amar Ujala Breaking* - Oct 19, 11:22 IST (iso: 2026-10-19T05:52:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2026/04/03/kataranayaghata-vanakashhatara-ma-hathaya-ka-jhada-fail-fata_5aef3bbc626f50f751d3e410a59b7518.jpeg?w=1200&dpr=1.0 -->
+
+चंदौली में बिजली से मरे हाथी के दफन स्थल पर 25 हाथियों का दल पहुंचा। डीएफओ ने बताया कि यह दल अपने साथी की याद में आया था। चंदौली में करंट से हाथी की मौत के बाद उसके दफन स्थल पर 25 हाथियों का दल पहुंचा और कुछ देर रुकने के बाद आगे बढ़ गया। डीएफओ के मुताबिक हाथियों का यह दल अपने साथी की याद में यहां पहुंचा था।
+
+### ['यह क्या हो रहा है', हमले की खबर सुनकर हैरान हुए शत्रुघ्न सिन्हा, सुरक्षा को लेकर जताई चिंता](https://www.amarujala.com/entertainment/shatrughan-sinha-reacts-tiger-shroff-firing-incident-calls-it-shocking-2026-10-19)
+*Amar Ujala Breaking* - Oct 19, 11:08 IST (iso: 2026-10-19T05:38:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/shataraghana-sanaha_cc1f450a7b5a411be5df8e8ef63fb7e7.jpeg?w=1200&dpr=1.0 -->
+
+शत्रुघ्न सिन्हा ने टाइगर श्रॉफ पर फायरिंग की घटना पर प्रतिक्रिया दी। उन्होंने अपने पोस्ट में सुरक्षा व्यवस्था को लेकर गंभीर चिंता जताई। शत्रुघ्न सिन्हा ने टाइगर श्रॉफ पर हुई फायरिंग की घटना को लेकर प्रतिक्रिया देते हुए एक पोस्ट किया और उसमें सुरक्षा को लेकर चिंता जाहिर की है। 'यह क्या हो रहा है', हमले की खबर सुनकर हैरान हुए शत्रुघ्न सिन्हा, सुरक्षा को लेकर जताई चिंता।
+
+### [225 की रफ्तार वाली आफत गई तो 155 KMPH की स्‍पीड से आई नई मुसीबत, घर-मकान सब उड़ जाएंगे, दहशत से](https://hindi.news18.com/world/rest-of-world-hurricane-trudy-category-2-storm-155-kmph-wind-speed-lashed-mexico-pacific-coast-enormous-destruction-international-weather-10919647.html)
+*News18 Hindi (World)* - Oct 19, 10:46 IST (iso: 2026-10-19T05:16:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Hurricane-Trudy-2026-10-4b747d99c37ded0f6cdf98f02134920d-1200x800.jpg -->
+
+अल नीनो के प्रभाव से समुद्री तापमान बढ़ने से तूफानों की संभावना बढ़ी है। दक्षिण पूर्व एशिया और प्रशांत तटों पर पिछले तीन महीनों में कई तूफान आए। मौसम विज्ञानियों ने इसके कई दुष्‍प्रभाव बताए हैं. अल नीनो की वजह से समंदर की सत‍ह सामान्‍य से काफी गर्म हो जाती है. वेदर एक्‍सपर्ट की मानें तो मौसम में इस बदलाव की वजह से बेहद शक्तिशाली तूफान आने की आशंका भी बढ़ गई है.
+
+### ['पर्दे के पीछे के आकाओं को भी नहीं छोड़ेंगे': टाइगर श्रॉफ फायरिंग मामले पर बोले सीएम फडणवीस, और](https://www.amarujala.com/india-news/tiger-shroff-firing-case-devendra-fadnavis-assure-accused-arrest-police-lawrence-bishnoi-gang-anil-pandit-2026-10-19)
+*Amar Ujala Breaking* - Oct 19, 10:43 IST (iso: 2026-10-19T05:13:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/devendra-fadnavis_64430105a0b2fc0fc7ddf760d8a00ab3.jpeg?w=1200&dpr=1.0 -->
+
+महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस ने टाइगर श्रॉफ फायरिंग मामले में आरोपियों की गिरफ्तारी का आश्वासन दिया। उन्होंने पर्दे के पीछे के आकाओं को भी नहीं छोड़ने का वादा किया। 'पर्दे के पीछे के आकाओं को भी नहीं छोड़ेंगे': टाइगर श्रॉफ फायरिंग मामले पर बोले सीएम फडणवीस, और क्या कहा?
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [भारत में फ्यूचर देख रहा अमेरिका के 'जिगर का छल्ला', खूब निभाई यारी, अब सता रहा कैसा डर?](https://hindi.news18.com/world/middle-east-israeli-pm-wants-alliances-with-india-latin-america-warns-of-potentially-hostile-future-us-president-ws-l-10920221.html)
+*News18 Hindi (World)* - Oct 19, 12:02 IST (iso: 2026-10-19T06:32:05+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/India-Israel-Deal-2026-07-7bb5c2a67d6dcabf42e733e3e78147de-1200x800.jpg -->
+
+ट्रंप के दूसरी बार सत्ता में आने के बाद भी इजरायल भारत के साथ अपने संबंधों को और मजबूत करने की कोशिश कर रहा है। यह कदम दोनों देशों की रणनीतिक साझेदारी को गहरा करने का प्रयास है। Israel wants Close Alliance with India: जब से अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप दुबारा सत्ता में आए हैं, इजरायली पीएम के साथ उनकी दोस्ती के किस्से खूब छपे.
+
+### [यमन ने लिया बदला, 24 घंटे में ताबड़तोड़ 1326 हमले, 370 हूती विद्रोहियों को मारने का दावा](https://hindi.news18.com/world/middle-east-yemen-attack-on-houthi-1326-attack-in-24-hours-gcc-condemns-ws-l-10920152.html)
+*News18 Hindi (World)* - Oct 19, 11:29 IST (iso: 2026-10-19T05:59:55+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/yemen-attack-2026-10-4d6bcfde9be9ae0821b0fdd18690865a-1200x800.jpg -->
+
+यमनी सेना ने अदन में हूती हमलों के जवाब में 24 घंटों में 1326 हमले किए। सेना का दावा है कि इस कार्रवाई में 370 विद्रोहियों को मार गिराया गया। Yemen-Houthi Attack: यमन की सेना की ओर से हूती विद्रोहियों पर बड़ी कार्रवाई की गई है. जिस तरह से अदन के इलाकों को हूती विद्रोही टार्गेट कर रहे थे, उसके बाद अब यमनी सेना ने बड़ा एक्शन करते हुए कुल 370 हूती विद्रोहियों को मार गिराया है.
+
+---
+
+## वैश्विक / बहुपक्षीय
+
+### [कर्मचारियों के मुख्यालय छोड़ने पर होगी कार्रवाई, अब कर्तव्य एप से लगेगी हाजिरी](https://www.amarujala.com/india-news/karnataka-government-action-taken-against-employees-who-leave-headquarters-attendance-will-marked-via-app-2026-10-19)
+*Amar Ujala Breaking* - Oct 19, 11:39 IST (iso: 2026-10-19T06:09:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/daka-shavakamara-makhayamatara-karanataka_39ad7f4900e39d3c80094ed0196015bd.jpeg?w=1200&dpr=1.0 -->
+
+कर्नाटक सरकार ने कर्मचारियों के मुख्यालय छोड़ने पर कार्रवाई का फैसला लिया है। अब कर्तव्य एप के जरिए हाजिरी लगाने का नया नियम लागू होगा। कर्मचारियों के मुख्यालय छोड़ने पर होगी कार्रवाई, अब कर्तव्य एप से लगेगी हाजिरी।
 
 ---
 

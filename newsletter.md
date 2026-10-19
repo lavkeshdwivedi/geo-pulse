@@ -1,26 +1,42 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 19, 2026 07:31 IST
+**Updated:** October 19, 2026 12:54 IST
+
+---
+
+## Asia-Pacific
+
+### [Strategy trumps scandal as West goes easy on India](https://asiatimes.com/2026/10/strategy-trumps-scandal-as-west-goes-easy-on-india/)
+*Asia Times* - Oct 19, 09:49 IST (iso: 2026-10-19T04:19:25+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Canada-Modi-Carney-2026.jpg -->
+
+Canada and India reaffirmed plans to expand trade and security cooperation on October 13. This move occurred despite ongoing Western accusations of Indian foreign interference and intelligence operations. Prime Minister Mark Carney and Prime Minister Narendra Modi prioritized strategic alignment over diplomatic friction. The decision signals that geopolitical utility outweighs security concerns for Western partners. Western governments are rebuilding ties with India even as they accuse it of foreign interference and of running intelligence operations against people on their soil.
+
+### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
+*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
+
+More than 25,000 police officers secured New Delhi to block protests by the Cockroach Janta Party. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. Barricades were erected to restrict movement and prevent the planned gatherings. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
+
+### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
+*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
+
+September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
+
+### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
+
+Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
 
 ---
 
 ## Europe & Russia
 
-### [Donald Trump says ‘France is burning’, country ‘shattered’ by immigration](https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece)
-*The Hindu (International)* - Oct 19, 06:58 IST (iso: 2026-10-19T01:28:16+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/6qbeh/article71600248.ece/alternates/LANDSCAPE_1200/Trump_37_34.jpg -->
-
-Donald Trump claimed France is burning and shattered by immigration. He made these remarks after widespread protests in the country. The demonstrations left a historic town hall torched. Police arrested 1,800 people during the unrest. The events are piling pressure on President Emmanuel Macron. He faces elections in six months to replace him. France is reeling from widespread damage during protests the day before that left a historic town hall torched and led to 1,800 arrests, piling pressure on President Emmanuel Macron six months before elections to replace him.
-
-### [Indian student groups in London protest against CEC Gyanesh Kumar, SIR; Govt supporters hold](https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece)
-*The Hindu (International)* - Oct 19, 05:19 IST (iso: 2026-10-18T23:49:59+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/qc0lq0/article71597279.ece/alternates/LANDSCAPE_1200/20261017240L.jpg -->
-
-Student groups in London protested against Election Commission chief Gyanesh Kumar and the Supreme Court. A separate group of government supporters chanted for Prime Minister Modi. Metropolitan Police officers kept the two crowds apart near the Gandhi statue. While the “Stop Vote Chori” protest cheered for activist Dhruv Rathee as the keynote speaker, chants of “Modi, Modi” rang out from a smaller group across the Gandhi statue, being kept apart by Metropolitan Police officers.
-
-### [Trump Defends Russia Sanctions Waivers, Zelenskyy Warns Of Consequences](https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html)
+### [Trump Defends Russia Sanctions Waivers, Zelenskyy Warns Of Impact](https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html)
 *Radio Free Europe / Liberty* - Oct 19, 04:22 IST (iso: 2026-10-18T22:52:20+00:00)
-<!-- image: https://gdb.rferl.org/7965f6e1-8427-4fd3-94c5-400906d60e37_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/64b2e613-1a72-4d4e-ba1b-94bd8cba2843_w1200_h630.jpg -->
 
 Donald Trump defended waiving planned sanctions against Russia to maintain negotiations. Kyiv and some US lawmakers criticized the move. They argued it sends the wrong message to the Kremlin. The decision drew strong opposition from allies. President Donald Trump defended his decision to waive sweeping sanctions planned against Russia as an effort to keep Moscow at the negotiating table amid strong criticism from Kyiv and some US lawmakers that it sends the wrong message to the Kremlin.
 
@@ -110,6 +126,12 @@ Global tech markets suffered a deep sell-off driven by inflation fears and AI se
 
 ## Middle East & Africa
 
+### [Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
+*The Guardian* - Oct 18, 14:30 IST (iso: 2026-10-18T09:00:55+00:00)
+<!-- image: https://i.guim.co.uk/img/media/99c40d26cbdbdca2b0abb4f3ee9ba91e4e235c6a/625_0_4419_3535/master/4419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b18e4e307d53bcc32f3592e6969df8b6 -->
+
+A high-energy, ad-libbed vocal style known as hyping has become a defining feature of Afrobeats performances. This approach relies on improvisation and direct audience interaction rather than rigid lyrical structures. The trend gained traction through social media clips that highlight performers' ability to command large crowds. Artists now use these spontaneous quips to build momentum during live shows. The style has shifted audience expectations from passive listening to active participation.
+
 ### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
 *UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
@@ -136,41 +158,19 @@ Senegal authorities detained more than 320 LGBTQ+ individuals since February aft
 
 ---
 
-## Asia-Pacific
-
-### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
-*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
-
-More than 25,000 police officers secured New Delhi to block protests by the Cockroach Janta Party. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. Barricades were erected to restrict movement and prevent the planned gatherings. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
-
-### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
-*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
-
-September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
-
-### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
-
-Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
-
----
-
 ## Global / Multilateral
-
-### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg -->
-
-A new UN report warns that rapid economic shifts risk leaving vulnerable communities behind. Artificial intelligence and renewable energy transitions are reshaping global economies. These changes create new opportunities but also threaten to deepen socio-economic inequalities. The report highlights the need for inclusive policy frameworks. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
 
 ### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
 
 The United Nations issued a report warning that brain data collected by consumer devices could serve as legal evidence against individuals. The document highlights that neurotechnology is advancing faster than existing human rights protections. Current laws do not adequately address the privacy risks of neural data. The UN called for new limits to prevent misuse of these signals in judicial proceedings.
+
+### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg -->
+
+A new UN report warns that rapid economic shifts risk leaving vulnerable communities behind. Artificial intelligence and renewable energy transitions are reshaping global economies. These changes create new opportunities but also threaten to deepen socio-economic inequalities. The report highlights the need for inclusive policy frameworks. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
 
 ---
 
