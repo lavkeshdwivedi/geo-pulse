@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-10-19T15:05:00.748702+00:00",
+  "generated_at": "2026-10-19T20:47:22.636466+00:00",
   "article_count": 50,
-  "total_unique_count": 267,
+  "total_unique_count": 260,
   "digest": {
-    "en": "China’s export controls on tunnel-boring machines and its AI-fueled economic growth dominate the board. Rubio pushes for Ukraine peace while defending Russia sanctions waivers. Argentina’s hostile stance toward the Falklands adds a new flashpoint to the mix.",
-    "hi": "होर्मुज स्ट्रेट में ईरान ने अमेरिका को तनाव के लिए ज़िम्मेदार ठहराया। इसी वक्त लेबनान के पांचवें हिस्से पर इज़राइली कब्जा और गांवों की तबाही जारी है।"
+    "en": "A court filing links a former OpenAI employee to Saudi backing in a device planting accusation. Meanwhile, China withdraws from a Sri Lankan port logistics venture. Rubio pushes for Ukraine peace while deepening US ties in Central Asia.",
+    "hi": "A Portuguese footballer faces a 30-day suspension but will still play for the national team. This regulatory loophole highlights the disconnect between disciplinary rules and international fixtures."
   },
   "articles": [
+    {
+      "title": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
+      "url": "https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-19T15:51:27+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/v60ojr/article71602975.ece/alternates/LANDSCAPE_1200/2026-10-19T152058Z_1186120503_RC2F2OAHBK9X_RTRMADP_3_OPENAI-SPYING-SAUDI.JPG",
+      "summary": "U. S. prosecutors allege Abdulrahman Alfozan, a former OpenAI employee, received Saudi backing. A court filing states he communicated with a royal family member. A Saudi military official paid for his family's return flight to the kingdom. prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in ​frequent communication ‌with an unnamed member of the Saudi Royal family and that a ‌member of the ​Saudi military paid for a one-way plane ⁠ticket for Mr.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A growing national crisis and a strategic warning",
+      "url": "https://asiatimes.com/2026/10/south-korea-a-growing-national-crisis-and-a-strategic-warning/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-10-19T15:29:22+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/extrawide_3x1-e1792418247678.jpg",
+      "summary": "South Korea's per capita GDP is projected to surpass Japan's by 2027. The International Monetary Fund estimates Korea will reach $49,000. Japan is expected to sit between $37,000 and $38,000. This shift highlights Korea's semiconductor strength. Recent media reports projecting South Korea’s per capita GDP to surpass Japan’s have generated considerable excitement across the regional countries that see Korea as a role model.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China pulls out of key investment in Sri Lanka port logistics venture",
+      "url": "https://www.thehindu.com/news/international/china-pulls-out-of-key-investment-in-sri-lanka-port-logistics-venture/article71602799.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-19T15:09:35+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/glnuk2/article71602941.ece/alternates/LANDSCAPE_1200/AFP__20260918__C8PA9GV__v2__HighRes__SriLankaEconomyPort.jpg",
+      "summary": "China Merchants withdrew its investment from a Sri Lankan port logistics venture. The 2023 pledge was the first major foreign direct investment after Sri Lanka's debt default. The pullback signals reduced Chinese commitment to the island's infrastructure recovery. When China Merchants pledged the investment in 2023, it was touted as the “first major Foreign Direct Investment” to enter Sri Lanka after the country defaulted on its foreign debt the previous year amid a crushing economic crisis.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Russian Military Satellite Gets Very, Very Close To One Used By Ukraine",
+      "url": "https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-19T15:02:14+00:00",
+      "image_url": "https://gdb.rferl.org/459A5069-D10C-4972-B087-263CEDDB03F5_w1200_h630.jpg",
+      "summary": "A Russian military satellite passed exceptionally close to a Finnish-operated satellite. The Finnish satellite provides intelligence to Ukraine. Officials described the maneuver as concerning and aggressive. They noted it may serve as a signal of hostile intent. Last week, a Russian military satellite came “exceptionally close” to another Finnish-operated satellite that provides intelligence to Ukraine. “It’s concerning and aggressive with potential hostile intent – but I also think cooler heads believe it is signaling on the part of the Russians.”.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A Warm Welcome for US Secretary of State in Central Asia",
+      "url": "https://thediplomat.com/2026/10/a-warm-welcome-for-us-secretary-of-state-in-central-asia/",
+      "source": "The Diplomat",
+      "sources": [],
+      "published_at": "2026-10-19T14:24:00+00:00",
+      "image_url": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-19-233125.jpg",
+      "summary": "U. S. Secretary of State Marco Rubio traveled to Central Asia. The region offered a warm welcome to the Trump administration. This trip allowed Rubio to bypass other pressing international crises. The visit secured diplomatic goodwill in the area. Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Prime Minister calls for localised curfews in cities to curb rioting, looting",
+      "url": "https://www.thehindu.com/news/international/france-protest-prime-minister-calls-for-localised-curfews-in-cities-to-curb-rioting-looting/article71602727.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-19T13:08:04+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/fvu0wt/article71602729.ece/alternates/LANDSCAPE_1200/2026-10-19T122103Z_1048790696_RC2C6OAWWFB4_RTRMADP_3_FRANCE-PROTEST-LUXURY.JPG",
+      "summary": "France's Prime Minister defended police actions during October riots, noting no fatalities despite severe violence and property damage. He described the lack of deaths as a miracle while acknowledging the challenges officers faced against violent groups. On October 17, 2026, ‘despite scenes of severe violence and extensive property damage, no one was killed, and that is a miracle,’ said the French PM as he defended the work of police officers faced with violent groups of people.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "'We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In",
       "url": "https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html",
@@ -25,33 +97,21 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg",
       "summary": "The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
+      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image770x420cropped.jpg",
-      "summary": "UN officials at the Yerevan Biodiversity Conference warned that ongoing biodiversity losses threaten the prosperity of billions. They urged nations to take urgent action to protect the planet and secure future economic stability. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’",
-      "url": "https://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-19T10:53:05+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/s4n7i3/article71602543.ece/alternates/LANDSCAPE_1200/iStock-187348194.jpg",
-      "summary": "China imposed export controls on tunnel-boring machines and certain dredgers on October 19. The Commerce Ministry cited national security concerns, directly impacting India's infrastructure procurement plans for large-scale tunneling projects. The Chinese Commerce Ministry said on Monday, October 19, in an announcement that, it was “introducing export controls on tunnel-boring machines and related items and optimising and adjusting export-control measures for certain dredgers and related items.”.",
-      "region": "Asia-Pacific",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image770x420cropped.jpg",
+      "summary": "UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -85,7 +145,7 @@
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-10-19T09:29:21+00:00",
-      "image_url": "https://gdb.rferl.org/31f8d64c-ecef-4597-4b88-08df13aec0bb_cx0_cy10_cw0_w1200_h630.jpg",
+      "image_url": "https://gdb.rferl.org/78a73995-a608-4139-a1d3-fbc3e391216b_cx0_cy9_cw0_w1200_h630.jpg",
       "summary": "Marco Rubio stated the United States will continue pushing for a Ukraine peace deal. He warned the conflict risks escalating beyond Russia and Ukraine. The Secretary of State made these remarks while meeting Central Asian officials in Uzbekistan. US Secretary of State Marco Rubio said Washington would continue efforts to end Russia's war against Ukraine, warning that the conflict risks escalating beyond the two countries as he met with Central Asian officials in Uzbekistan.",
       "region": "Europe & Russia",
       "language": "en",
@@ -169,7 +229,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-17T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg",
       "summary": "Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -224,6 +284,18 @@
       "translations": {}
     },
     {
+      "title": "Can a cockroach movement reverse India’s democratic decline?",
+      "url": "https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-10-17T04:13:03+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg",
+      "summary": "India deployed over 25,000 police officers in New Delhi to stop Cockroach Janta Party protests. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation resulted in the closure of one in six metro stations. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
       "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
       "source": "The Guardian",
@@ -236,76 +308,364 @@
       "translations": {}
     },
     {
-      "title": "Russia Still Needs More Soldiers. The Kremlin Is Still Desperate To Avoid Mobilization",
-      "url": "https://www.rferl.org/a/russia-mobilization-fears-creeping-coercion-war/33878063.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "191 हत्याओं के मामले में धर्मगुरु दोषी, अनुयायियों को भूखे रहकर जान देने का दिया था आदेश; कब होगी",
+      "url": "https://www.amarujala.com/world/leader-of-kenyan-doomsday-cult-that-left-more-than-400-followers-dead-convicted-of-191-murders-2026-10-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-16T16:48:29+00:00",
-      "image_url": "https://gdb.rferl.org/034d0000-0aff-0242-53ea-08dadf5db6ee_cx0_cy3_cw0_w1200_h630.jpg",
-      "summary": "Russia continues quiet mobilization to replace losses in Ukraine. The Kremlin avoided a formal national draft order after recent elections. Coercive recruiting tactics persist across the country. Military forces remain depleted despite ongoing combat operations. Many Russians feared the Kremlin would order a new mobilization after last month’s elections: to replenish decimated forces fighting in Ukraine. That hasn’t happened. But creative and coercive recruiting tactics – called “quiet” or “creeping” mobilization by some – continue nationwide.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Sudan’s war spreads as drones and hunger take a deadly toll",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-16T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg",
-      "summary": "Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.",
+      "published_at": "2026-10-20T07:21:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/08/court-order_cb69ba76e1275d20968e758454c151ca.jpeg?w=1200&dpr=1.0",
+      "summary": "केन्या में एक धर्मगुरु को 191 हत्याओं के मामले में दोषी ठहराया गया है। उसने अनुयायियों को भूखे रहकर जान देने का आदेश दिया था। अदालत ने सजा की तारीख तय की है। केन्या: 191 हत्याओं के मामले में धर्मगुरु दोषी, अनुयायियों को भूखे रहकर जान देने का दिया था आदेश; कब होगी सजा?",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "191 हत्याओं के मामले में धर्मगुरु दोषी, अनुयायियों को भूखे रहकर जान देने का दिया था आदेश; कब होगी",
+          "summary": "केन्या में एक धर्मगुरु को 191 हत्याओं के मामले में दोषी ठहराया गया है। उसने अनुयायियों को भूखे रहकर जान देने का आदेश दिया था। अदालत ने सजा की तारीख तय की है। केन्या: 191 हत्याओं के मामले में धर्मगुरु दोषी, अनुयायियों को भूखे रहकर जान देने का दिया था आदेश; कब होगी सजा?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Afghanistan faces record hunger levels amid rampant rights violations",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
-      "source": "UN News",
+      "title": "भारत में जगुआर लैंड रोवर की बिक्री में बढ़ोतरी की वजह क्या है?: बिक्री में 11 प्रतिशत उछाल, जानें",
+      "url": "https://www.amarujala.com/automobiles/jlr-india-expands-retail-network-new-facilities-amid-strong-sales-growth-2026-10-20",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg",
-      "summary": "Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
+      "published_at": "2026-10-20T07:12:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/26/tata-jlr_84067202851a141e0bdc687c0814c923.jpeg?w=1200&dpr=1.0",
+      "summary": "जगुआर लैंड रोवर की भारत में बिक्री 11 प्रतिशत बढ़ी है। कंपनी ने दिल्ली और गुरुग्राम में नए रिटेल केंद्र खोले हैं। यह विस्तार बिक्री की मजबूत वृद्धि के बीच हुआ है। भारत में जगुआर लैंड रोवर की बिक्री में बढ़ोतरी की वजह क्या है?: बिक्री में 11 प्रतिशत उछाल, जानें।",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत में जगुआर लैंड रोवर की बिक्री में बढ़ोतरी की वजह क्या है?: बिक्री में 11 प्रतिशत उछाल, जानें",
+          "summary": "जगुआर लैंड रोवर की भारत में बिक्री 11 प्रतिशत बढ़ी है। कंपनी ने दिल्ली और गुरुग्राम में नए रिटेल केंद्र खोले हैं। यह विस्तार बिक्री की मजबूत वृद्धि के बीच हुआ है। भारत में जगुआर लैंड रोवर की बिक्री में बढ़ोतरी की वजह क्या है?: बिक्री में 11 प्रतिशत उछाल, जानें।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
-      "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168607",
-      "source": "UN News",
+      "title": "30 दिन के निलंबन के बावजूद पुर्तगाल के लिए खेल सकेंगे! क्या हैं नियम और समीकरण?",
+      "url": "https://www.amarujala.com/sports/football/portugal-suspends-cristiano-ronaldo-following-dispute-with-coach-2026-10-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image560x340cropped.jpg",
-      "summary": "The UN warns fewer than half of national biodiversity targets are on track. This report arrives days before the COP17 conference in Yerevan, Armenia. The assessment highlights a significant gap in global efforts to protect plants, animals, and ecosystems from further degradation. Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.",
+      "published_at": "2026-10-20T07:05:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/ranalda_30cfa33243f18d77448be3da46d032bb.jpeg?w=1200&dpr=1.0",
+      "summary": "क्रिस्टियानो रोनाल्डो को राष्ट्रीय टीम के कैंप छोड़ने पर 30 दिन का निलंबन मिला है। पुर्तगाली फुटबॉल महासंघ ने 255 यूरो का जुर्माना भी लगाया है। नियमों के अनुसार वह पुर्तगाल के लिए खेल सकते हैं। पुर्तगाली फुटबॉल महासंघ ने राष्ट्रीय टीम का कैंप छोड़ने के मामले में क्रिस्टियानो रोनाल्डो पर 30 दिन का निलंबन और 255 यूरो का जुर्माना लगाया है।",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "30 दिन के निलंबन के बावजूद पुर्तगाल के लिए खेल सकेंगे! क्या हैं नियम और समीकरण?",
+          "summary": "क्रिस्टियानो रोनाल्डो को राष्ट्रीय टीम के कैंप छोड़ने पर 30 दिन का निलंबन मिला है। पुर्तगाली फुटबॉल महासंघ ने 255 यूरो का जुर्माना भी लगाया है। नियमों के अनुसार वह पुर्तगाल के लिए खेल सकते हैं। पुर्तगाली फुटबॉल महासंघ ने राष्ट्रीय टीम का कैंप छोड़ने के मामले में क्रिस्टियानो रोनाल्डो पर 30 दिन का निलंबन और 255 यूरो का जुर्माना लगाया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
-      "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168604",
-      "source": "UN News",
+      "title": "30 दिन के लिए निलंबित, पुर्तगाल फुटबॉल फेडरेशन ने कहा- नेशनल टीम का कैंप छोड़ने की सजा",
+      "url": "https://www.amarujala.com/sports/football/cristiano-ronaldo-suspension-portugal-football-federation-30-day-punishment-for-leaving-national-team-camp-2026-10-20",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg",
-      "summary": "A new UN report warns that rapid economic shifts risk leaving vulnerable communities behind. Artificial intelligence and renewable energy transitions are reshaping global economies. These changes create new opportunities but also threaten to deepen socio-economic inequalities. The report highlights the need for inclusive policy frameworks. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-10-20T06:48:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/10/jaraja-jasasa-oura-ranalda_ee5cb37d5a4744c594cc3c916a8d7912.jpeg?w=1200&dpr=1.0",
+      "summary": "पुर्तगाल फुटबॉल फेडरेशन ने क्रिस्टियानो रोनाल्डो को 30 दिन के लिए निलंबित किया है। यह सजा राष्ट्रीय टीम के कैंप छोड़ने के लिए है। साथ ही 255 यूरो का जुर्माना भी लगाया गया है। रोनाल्डो पर गिरी गाज: 30 दिन के लिए निलंबित, पुर्तगाल फुटबॉल फेडरेशन ने कहा- नेशनल टीम का कैंप छोड़ने की सजा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "30 दिन के लिए निलंबित, पुर्तगाल फुटबॉल फेडरेशन ने कहा- नेशनल टीम का कैंप छोड़ने की सजा",
+          "summary": "पुर्तगाल फुटबॉल फेडरेशन ने क्रिस्टियानो रोनाल्डो को 30 दिन के लिए निलंबित किया है। यह सजा राष्ट्रीय टीम के कैंप छोड़ने के लिए है। साथ ही 255 यूरो का जुर्माना भी लगाया गया है। रोनाल्डो पर गिरी गाज: 30 दिन के लिए निलंबित, पुर्तगाल फुटबॉल फेडरेशन ने कहा- नेशनल टीम का कैंप छोड़ने की सजा।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
-      "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
-      "source": "UN News",
+      "title": "दशहरा का मेला घूमने जा रहे हैं, तो किन बातों का रखें ध्यान? एक छोटी सी गलती दिक्कत में डाल सकती है",
+      "url": "https://www.amarujala.com/photo-gallery/utility/dussehra-fair-safety-tips-things-to-keep-in-mind-while-visiting-the-mela-2026-10-09",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-15T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image560x340cropped.jpg",
-      "summary": "The United Nations issued a report warning that brain data collected by consumer devices could serve as legal evidence against individuals. The document highlights that neurotechnology is advancing faster than existing human rights protections. Current laws do not adequately address the privacy risks of neural data. The UN called for new limits to prevent misuse of these signals in judicial proceedings.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-10-20T06:45:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/09/thashahara-ka-mal-ja-raha-ha-ta-ya-galtaya-na-kara_a00cec740b65f462bc6637008fc14cc0.jpeg?w=1200&dpr=1.0",
+      "summary": "दशहरा मेले में बच्चों, मोबाइल, पर्स और खाने-पीने की चीजों की सुरक्षा का ध्यान रखें। भीड़ में छोटी गलती दिक्कत में डाल सकती है। सावधानी बरतने से अनुभव बेहतर होगा। दशहरा का मेला घूमते समय बच्चों, मोबाइल, पर्स और खाने-पीने की चीजों की सुरक्षा का ध्यान रखें। इसलिए अगर आप भी मेला घूमने जाने वाले हैं, तो आप यहां जान सकते हैं कि आपको किन बातों का ध्यान रखना चाहिए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशहरा का मेला घूमने जा रहे हैं, तो किन बातों का रखें ध्यान? एक छोटी सी गलती दिक्कत में डाल सकती है",
+          "summary": "दशहरा मेले में बच्चों, मोबाइल, पर्स और खाने-पीने की चीजों की सुरक्षा का ध्यान रखें। भीड़ में छोटी गलती दिक्कत में डाल सकती है। सावधानी बरतने से अनुभव बेहतर होगा। दशहरा का मेला घूमते समय बच्चों, मोबाइल, पर्स और खाने-पीने की चीजों की सुरक्षा का ध्यान रखें। इसलिए अगर आप भी मेला घूमने जाने वाले हैं, तो आप यहां जान सकते हैं कि आपको किन बातों का ध्यान रखना चाहिए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दशहरा सेल के नाम पर कहीं आप न हो जाएं ठगी का शिकार, जानें कैसे बचें",
+      "url": "https://www.amarujala.com/photo-gallery/utility/dussehra-sale-scam-how-to-stay-safe-from-online-shopping-fraud-se-kaise-bachein-2026-10-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T06:45:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/13/faka-thashahara-sal-sa-kasa-bca_7d19f94874a653f83ad8ceaea519a57e.jpeg?w=1200&dpr=1.0",
+      "summary": "दशहरा सेल के दौरान अनजान लिंक या फर्जी वेबसाइट पर पेमेंट करने से बचें। खरीदारी से पहले वेबसाइट की सत्यता जांचें और बैंकिंग जानकारी किसी के साथ साझा न करें। दशहरा सेल में भारी छूट के लालच में किसी अनजान लिंक या संदिग्ध वेबसाइट पर पेमेंट करने से बचें। खरीदारी से पहले चेक करें कि वेबसाइट असली है या स्कैमर्स द्वारा बनाई गई फेक वेबसाइट।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशहरा सेल के नाम पर कहीं आप न हो जाएं ठगी का शिकार, जानें कैसे बचें",
+          "summary": "दशहरा सेल के दौरान अनजान लिंक या फर्जी वेबसाइट पर पेमेंट करने से बचें। खरीदारी से पहले वेबसाइट की सत्यता जांचें और बैंकिंग जानकारी किसी के साथ साझा न करें। दशहरा सेल में भारी छूट के लालच में किसी अनजान लिंक या संदिग्ध वेबसाइट पर पेमेंट करने से बचें। खरीदारी से पहले चेक करें कि वेबसाइट असली है या स्कैमर्स द्वारा बनाई गई फेक वेबसाइट।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "दशहरे के मेले में कहीं आपका मोबाइल न हो जाए चोरी, जानें ऐसे में क्या करें",
+      "url": "https://www.amarujala.com/photo-gallery/utility/lost-your-mobile-phone-at-a-dussehra-fair-here-s-what-to-do-immediately-2026-10-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T06:44:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/13/mal-ma-mabil-cara-hana-para-kaya-kara_1c643d6b3580946165dc640d10e873bf.jpeg?w=1200&dpr=1.0",
+      "summary": "मेले में मोबाइल चोरी होने पर दूसरे फोन से कॉल कर लोकेशन पता करें। तुरंत पुलिस में शिकायत दर्ज कराएं और अपना सिम कार्ड ब्लॉक करवाएं। मोबाइल खोने पर सबसे पहले दूसरे फोन से अपने नंबर पर कॉल करें और सुरक्षित तरीके से फोन की लोकेशन पता करने की कोशिश करें। चोरी की आशंका होने पर पुलिस में शिकायत करें, सिम कार्ड ब्लॉक कराएं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशहरे के मेले में कहीं आपका मोबाइल न हो जाए चोरी, जानें ऐसे में क्या करें",
+          "summary": "मेले में मोबाइल चोरी होने पर दूसरे फोन से कॉल कर लोकेशन पता करें। तुरंत पुलिस में शिकायत दर्ज कराएं और अपना सिम कार्ड ब्लॉक करवाएं। मोबाइल खोने पर सबसे पहले दूसरे फोन से अपने नंबर पर कॉल करें और सुरक्षित तरीके से फोन की लोकेशन पता करने की कोशिश करें। चोरी की आशंका होने पर पुलिस में शिकायत करें, सिम कार्ड ब्लॉक कराएं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रावण दहन देखने जा रहे हैं तो बच्चों के साथ किन बातों का रखें ध्यान? यहां जानें ये 4 काम की बात",
+      "url": "https://www.amarujala.com/photo-gallery/utility/dussehra-ravan-dahan-safety-tips-for-children-mele-mein-bachon-ka-dhyan-kaise-rakhein-2026-10-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T06:44:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/13/thashahara-mal-ma-bcaca-ka-thhayana-kasa-rakha_6facf743ccf31c273858bd9dc09d355c.jpeg?w=1200&dpr=1.0",
+      "summary": "रावण दहन के दौरान बच्चों को आग, आतिशबाजी और भीड़ से दूर रखें। उन्हें अकेला न छोड़ें और बिछड़ने पर क्या करना है, यह पहले से समझा दें। रावण दहन के दौरान बच्चों को आग, आतिशबाजी और भीड़ से सुरक्षित दूरी पर रखें। बच्चों को अकेला न छोड़ें और बिछड़ने की स्थिति में क्या करना है, यह पहले ही समझा दें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रावण दहन देखने जा रहे हैं तो बच्चों के साथ किन बातों का रखें ध्यान? यहां जानें ये 4 काम की बात",
+          "summary": "रावण दहन के दौरान बच्चों को आग, आतिशबाजी और भीड़ से दूर रखें। उन्हें अकेला न छोड़ें और बिछड़ने पर क्या करना है, यह पहले से समझा दें। रावण दहन के दौरान बच्चों को आग, आतिशबाजी और भीड़ से सुरक्षित दूरी पर रखें। बच्चों को अकेला न छोड़ें और बिछड़ने की स्थिति में क्या करना है, यह पहले ही समझा दें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दशहरे पर ऑनलाइन शॉपिंग में फर्जी ऑफर और नकली वेबसाइट की पहचान कैसे करें? तरीके जानें",
+      "url": "https://www.amarujala.com/photo-gallery/utility/how-to-identify-fake-offers-and-shopping-websites-during-dussehra-fraud-se-kaise-bachein-2026-10-15",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T06:43:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/thashahara-alrata-faka-oifara-ka-kasa-pahacana_6da413a1c06cfeca1358294a4c2c8cef.jpeg?w=1200&dpr=1.0",
+      "summary": "दशहरे की ऑनलाइन खरीदारी में फर्जी ऑफर और नकली वेबसाइट का खतरा रहता है। भारी छूट के लालच में फर्जी पेमेंट लिंक पर क्लिक करने से बचें। दशहरे पर ऑनलाइन खरीदारी करते समय भारी छूट, नकली वेबसाइट और फर्जी पेमेंट लिंक के नाम पर ठगी हो सकती है। इसलिए ऑनलाइन शॉपिंग करने से पहले कुछ चीजों को चेक करना जरूरी हो जाता है जिनके बारे में आप यहां जानेंगे।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशहरे पर ऑनलाइन शॉपिंग में फर्जी ऑफर और नकली वेबसाइट की पहचान कैसे करें? तरीके जानें",
+          "summary": "दशहरे की ऑनलाइन खरीदारी में फर्जी ऑफर और नकली वेबसाइट का खतरा रहता है। भारी छूट के लालच में फर्जी पेमेंट लिंक पर क्लिक करने से बचें। दशहरे पर ऑनलाइन खरीदारी करते समय भारी छूट, नकली वेबसाइट और फर्जी पेमेंट लिंक के नाम पर ठगी हो सकती है। इसलिए ऑनलाइन शॉपिंग करने से पहले कुछ चीजों को चेक करना जरूरी हो जाता है जिनके बारे में आप यहां जानेंगे।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "दशहरे पर घर से बाहर निकलने से पहले गाड़ी में किन चीजों को चेक करें? यहां जानें",
+      "url": "https://www.amarujala.com/photo-gallery/utility/dussehra-travel-guide-four-things-to-check-in-your-car-before-leaving-home-2026-10-17",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T06:43:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/17/thashahara-para-gaugdha-lkara-jana-sa-pahal-kaya-caja-caka-kara_a7c782b3e7b614cc226888c63daef561.jpeg?w=1200&dpr=1.0",
+      "summary": "दशहरे पर सफर से पहले टायर, ब्रेक, लाइट, इंजन ऑयल, ईंधन और बैटरी की जांच करें। जरूरी दस्तावेजों को भी साथ रखें ताकि रास्ते में परेशानी न हो। दशहरे पर सफर शुरू करने से पहले टायर, ब्रेक, लाइट, इंजन ऑयल, ईंधन, बैटरी और जरूरी दस्तावेजों को जरूर चेक करें। थोड़ी सी सावधानी आपको रास्ते की परेशानियों से बचाने और परिवार के सफर को सुरक्षित बनाने में मदद कर सकती है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशहरे पर घर से बाहर निकलने से पहले गाड़ी में किन चीजों को चेक करें? यहां जानें",
+          "summary": "दशहरे पर सफर से पहले टायर, ब्रेक, लाइट, इंजन ऑयल, ईंधन और बैटरी की जांच करें। जरूरी दस्तावेजों को भी साथ रखें ताकि रास्ते में परेशानी न हो। दशहरे पर सफर शुरू करने से पहले टायर, ब्रेक, लाइट, इंजन ऑयल, ईंधन, बैटरी और जरूरी दस्तावेजों को जरूर चेक करें। थोड़ी सी सावधानी आपको रास्ते की परेशानियों से बचाने और परिवार के सफर को सुरक्षित बनाने में मदद कर सकती है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "भारत में कब से लागू हो सकते हैं बीएस-7 उत्सर्जन मानक?: ईवी बैटरी, प्रदूषण सीमा और तीन चरणों की पूरी",
+      "url": "https://www.amarujala.com/automobiles/india-proposes-bs-vii-emission-norms-starting-april-2029-check-phases-ev-rules-fuel-limits-and-details-2026-10-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T06:36:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/bs-7-emission-norms_404f16d5bcfec114cea5686a9151d399.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत सरकार ने अप्रैल 2029 से बीएस-7 उत्सर्जन मानक लागू करने का प्रस्ताव रखा है। इसमें ईवी बैटरी नियम और ईंधन सीमाओं के तीन चरण शामिल हैं। नई गाड़ियों के लिए प्रदूषण सीमाएं और सख्त होंगी। भारत में कब से लागू हो सकते हैं बीएस-7 उत्सर्जन मानक?: ईवी बैटरी, प्रदूषण सीमा और तीन चरणों की पूरी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत में कब से लागू हो सकते हैं बीएस-7 उत्सर्जन मानक?: ईवी बैटरी, प्रदूषण सीमा और तीन चरणों की पूरी",
+          "summary": "भारत सरकार ने अप्रैल 2029 से बीएस-7 उत्सर्जन मानक लागू करने का प्रस्ताव रखा है। इसमें ईवी बैटरी नियम और ईंधन सीमाओं के तीन चरण शामिल हैं। नई गाड़ियों के लिए प्रदूषण सीमाएं और सख्त होंगी। भारत में कब से लागू हो सकते हैं बीएस-7 उत्सर्जन मानक?: ईवी बैटरी, प्रदूषण सीमा और तीन चरणों की पूरी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दशहरे पर पूजा का शुभ मुहूर्त कब से कब तक? शहर के हिसाब से नोट करें मुहूर्त",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/dussehra-2026-shubh-muhurat-check-the-auspicious-time-for-worship-in-major-indian-cities-2026-10-19",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T06:35:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/19/thashahara-paja-maharata_8814832aa4aab29a3e98a9fa89b3975e.jpeg?w=1200&dpr=1.0",
+      "summary": "दशहरा 2026 पर विजयादशमी पूजा के मुहूर्त शहर के अनुसार अलग-अलग हैं। दिल्ली, मुंबई और लखनऊ में शुभ समय की विस्तृत जानकारी उपलब्ध है। प्रत्येक स्थान पर पूजा का समय स्थानीय सूर्योदय और अस्त पर निर्भर करता है। Dussehra 2026 Puja Muhurat: विजयादशमी पर पूजा के लिए कितना समय मिलेगा? जानें दिल्ली, मुंबई, लखनऊ समेत प्रमुख शहरों में दशहरा पूजा का शुभ मुहूर्त और विजय मुहूर्त की टाइमिंग।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशहरे पर पूजा का शुभ मुहूर्त कब से कब तक? शहर के हिसाब से नोट करें मुहूर्त",
+          "summary": "दशहरा 2026 पर विजयादशमी पूजा के मुहूर्त शहर के अनुसार अलग-अलग हैं। दिल्ली, मुंबई और लखनऊ में शुभ समय की विस्तृत जानकारी उपलब्ध है। प्रत्येक स्थान पर पूजा का समय स्थानीय सूर्योदय और अस्त पर निर्भर करता है। Dussehra 2026 Puja Muhurat: विजयादशमी पर पूजा के लिए कितना समय मिलेगा? जानें दिल्ली, मुंबई, लखनऊ समेत प्रमुख शहरों में दशहरा पूजा का शुभ मुहूर्त और विजय मुहूर्त की टाइमिंग।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आशुतोष रांका और सौरभ दास की मुश्किलें बढ़ीं, हिरासत बढ़ने के बाद अब क्राइम ब्रांच के हवाले केस",
+      "url": "https://www.amarujala.com/video/india-news/troubles-mount-for-ashutosh-ranka-and-saurabh-das-following-an-extension-of-their-custody-the-case-has-now-b-2026-10-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-19T20:00:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/cjp-leaders-case_943669bf61b511cfe99427d78db7d5ee.jpeg?w=1200&dpr=1.0",
+      "summary": "आशुतोष रांका और सौरभ दास की हिरासत बढ़ाई गई है। अब पुलिस ने मामला क्राइम ब्रांच को सौंप दिया है। इस कदम से दोनों के लिए कानूनी मुश्किलें और गहरी हो गई हैं। आशुतोष रांका और सौरभ दास की मुश्किलें बढ़ीं, हिरासत बढ़ने के बाद अब क्राइम ब्रांच के हवाले केस।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आशुतोष रांका और सौरभ दास की मुश्किलें बढ़ीं, हिरासत बढ़ने के बाद अब क्राइम ब्रांच के हवाले केस",
+          "summary": "आशुतोष रांका और सौरभ दास की हिरासत बढ़ाई गई है। अब पुलिस ने मामला क्राइम ब्रांच को सौंप दिया है। इस कदम से दोनों के लिए कानूनी मुश्किलें और गहरी हो गई हैं। आशुतोष रांका और सौरभ दास की मुश्किलें बढ़ीं, हिरासत बढ़ने के बाद अब क्राइम ब्रांच के हवाले केस।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हूती विद्रोहियों ने सैन्य शिविर पर दागीं बैलिस्टिक मिसाइलें; 53 सैनिकों की मौत, 200 घायल",
+      "url": "https://www.amarujala.com/world/houthi-rebels-attack-yemen-military-camp-strike-ballistic-missile-many-soldiers-killed-and-injured-2026-10-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-19T19:47:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/19/hata-vatharahaya-na-yamana-ma-ha-chhaugdha-yathathha_fbe1b0d352a96efdb29fff60b11224a3.jpeg?w=1200&dpr=1.0",
+      "summary": "यमन में हूती विद्रोहियों ने सैन्य शिविर पर बैलिस्टिक मिसाइलें दागीं। इस हमले में 53 सैनिकों की मौत हुई और 200 घायल हुए। घटना के बाद क्षेत्र में हिंसा भड़क उठी है। यमन में भड़की हिंसा: हूती विद्रोहियों ने सैन्य शिविर पर दागीं बैलिस्टिक मिसाइलें; 53 सैनिकों की मौत, 200 घायल।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूती विद्रोहियों ने सैन्य शिविर पर दागीं बैलिस्टिक मिसाइलें; 53 सैनिकों की मौत, 200 घायल",
+          "summary": "यमन में हूती विद्रोहियों ने सैन्य शिविर पर बैलिस्टिक मिसाइलें दागीं। इस हमले में 53 सैनिकों की मौत हुई और 200 घायल हुए। घटना के बाद क्षेत्र में हिंसा भड़क उठी है। यमन में भड़की हिंसा: हूती विद्रोहियों ने सैन्य शिविर पर दागीं बैलिस्टिक मिसाइलें; 53 सैनिकों की मौत, 200 घायल।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस से अल्बानिया तक आगजनी-जनाक्रोश; किन-किन देशों में प्रदर्शन, क्यों बढ़ रहा गुस्सा?",
+      "url": "https://www.amarujala.com/world/from-france-to-albania-social-unrest-is-setting-europe-s-streets-ablaze-2026-10-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-19T19:38:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/yarapa-ma-bval_d5ae6dce89450ed04063389b514220a1.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्रांस से अल्बानिया तक यूरोप के कई देशों में आगजनी और जनाक्रोश देखने को मिल रहा है। प्रदर्शनकारियों का गुस्सा लगातार बढ़ रहा है। विभिन्न देशों में प्रदर्शन के कारण और स्थिति अलग-अलग है। सुलगते यूरोप का मंजर: फ्रांस से अल्बानिया तक आगजनी-जनाक्रोश; किन-किन देशों में प्रदर्शन, क्यों बढ़ रहा गुस्सा?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्रांस से अल्बानिया तक आगजनी-जनाक्रोश; किन-किन देशों में प्रदर्शन, क्यों बढ़ रहा गुस्सा?",
+          "summary": "फ्रांस से अल्बानिया तक यूरोप के कई देशों में आगजनी और जनाक्रोश देखने को मिल रहा है। प्रदर्शनकारियों का गुस्सा लगातार बढ़ रहा है। विभिन्न देशों में प्रदर्शन के कारण और स्थिति अलग-अलग है। सुलगते यूरोप का मंजर: फ्रांस से अल्बानिया तक आगजनी-जनाक्रोश; किन-किन देशों में प्रदर्शन, क्यों बढ़ रहा गुस्सा?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "पहचान भारत की, सियासत कनाडा की: कैसे स्थानीय राजनीति में मजबूत हुए भारतीय मूल के नेता",
+      "url": "https://www.patrika.com/world-news/leaders-of-indian-origin-in-canada-indian-roots-canadian-politics-20996122",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-19T17:43:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Indian-Origin-Leaders-in-Canada.webp",
+      "summary": "ब्रिटिश कोलंबिया के स्थानीय चुनावों में भारतीय मूल के दो नेता मेयर बने। हर्षन रामदास फर्नी ने फर्नी शहर जीता, जबकि सुरिंदरपाल राठौर ने विलियम्स लेक में दूसरी बार जीत दर्ज की। यह जीत स्थानीय राजनीति में भारतीय समुदाय की बढ़ती ताकत को दर्शाती है। Indian Origin Leaders in Canada: कनाडा के ब्रिटिश कोलंबिया प्रांत में हुए स्थानीय चुनावों में भारतीय मूल के दो नेताओं ने मेयर पद पर जीत हासिल कर अपनी राजनीतिक ताकत का अहसास कराया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहचान भारत की, सियासत कनाडा की: कैसे स्थानीय राजनीति में मजबूत हुए भारतीय मूल के नेता",
+          "summary": "ब्रिटिश कोलंबिया के स्थानीय चुनावों में भारतीय मूल के दो नेता मेयर बने। हर्षन रामदास फर्नी ने फर्नी शहर जीता, जबकि सुरिंदरपाल राठौर ने विलियम्स लेक में दूसरी बार जीत दर्ज की। यह जीत स्थानीय राजनीति में भारतीय समुदाय की बढ़ती ताकत को दर्शाती है। Indian Origin Leaders in Canada: कनाडा के ब्रिटिश कोलंबिया प्रांत में हुए स्थानीय चुनावों में भारतीय मूल के दो नेताओं ने मेयर पद पर जीत हासिल कर अपनी राजनीतिक ताकत का अहसास कराया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "यमन में संघर्ष ने फिर लिया खतरनाक मोड़, सैन्य ठिकाने पर हमले से बढ़ा क्षेत्रीय तनाव",
+      "url": "https://www.patrika.com/world-news/conflict-in-yemen-takes-a-dangerous-turn-attack-on-military-base-20996108",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-19T17:35:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Yemen-Missile-Strike.webp",
+      "summary": "यमन के शबवा प्रांत में सरकारी सैन्य प्रशिक्षण केंद्र पर मिसाइल हमला हुआ। कम से कम 25 सैनिक मारे गए और 30 से अधिक घायल हुए। स्थानीय स्रोतों के अनुसार मृतकों की संख्या बढ़ने की आशंका है। यह हमला क्षेत्रीय तनाव को और गहरा करता है। Yemen News: यमन में सैन्य ठिकाने पर मिसाइल हमले में कम से कम 25 सैनिकों की मौत हो गई, जबकि 30 से अधिक लोग घायल हुए हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यमन में संघर्ष ने फिर लिया खतरनाक मोड़, सैन्य ठिकाने पर हमले से बढ़ा क्षेत्रीय तनाव",
+          "summary": "यमन के शबवा प्रांत में सरकारी सैन्य प्रशिक्षण केंद्र पर मिसाइल हमला हुआ। कम से कम 25 सैनिक मारे गए और 30 से अधिक घायल हुए। स्थानीय स्रोतों के अनुसार मृतकों की संख्या बढ़ने की आशंका है। यह हमला क्षेत्रीय तनाव को और गहरा करता है। Yemen News: यमन में सैन्य ठिकाने पर मिसाइल हमले में कम से कम 25 सैनिकों की मौत हो गई, जबकि 30 से अधिक लोग घायल हुए हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सऊदी के आगे भीगी बिल्ली बना बांग्लादेश, अपने नागरिकों के लिए भी नहीं उठा पा रहा आवाज, श्रीलंका ने",
+      "url": "https://hindi.news18.com/world/south-asia-saudi-arabia-bangladeshi-couple-execution-diplomatic-tension-sri-lanka-death-sentence-10921655.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-19T16:45:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/bangladesh-news-16-2026-10-7f119a5e419fc6c9415c972b3a5d1e4b-1200x800.jpg",
+      "summary": "सऊदी अरब के मक्का में बांग्लादेशी कपल को मस्जिद में अनुचित कृत्य के आरोप में मौत की सजा दी गई। बांग्लादेश सरकार ने स्पष्टीकरण मांगा है, जबकि श्रीलंका ने इसी महीने अपने नागरिक की सजा पलटवाई। दोनों मामलों में सऊदी के बर्ताव पर सवाल उठ रहे हैं। सऊदी अरब के मक्का में बांग्लादेशी कपल को मस्जिद के अंदर अनुचित कृत्य के मामले में मौत की सजा दी गई.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी के आगे भीगी बिल्ली बना बांग्लादेश, अपने नागरिकों के लिए भी नहीं उठा पा रहा आवाज, श्रीलंका ने",
+          "summary": "सऊदी अरब के मक्का में बांग्लादेशी कपल को मस्जिद में अनुचित कृत्य के आरोप में मौत की सजा दी गई। बांग्लादेश सरकार ने स्पष्टीकरण मांगा है, जबकि श्रीलंका ने इसी महीने अपने नागरिक की सजा पलटवाई। दोनों मामलों में सऊदी के बर्ताव पर सवाल उठ रहे हैं। सऊदी अरब के मक्का में बांग्लादेशी कपल को मस्जिद के अंदर अनुचित कृत्य के मामले में मौत की सजा दी गई.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यमन में हूतियों का खूनी हमला, 3 बैलिस्टिक मिसाइलों से मिलिट्री कैंप तबाह, 53 सैनिकों की मौत, 200",
+      "url": "https://hindi.news18.com/world/middle-east-yemen-houthi-attack-shabwa-military-camp-53-soldiers-killed-10921851.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-19T15:53:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/houthi-8-2026-10-c75a4108e870709a026c626c65ba4ae7-1200x800.jpg",
+      "summary": "यमन के शबवा प्रांत में हूती विद्रोहियों ने अल-अलम सैन्य शिविर पर तीन बैलिस्टिक मिसाइलों से हमला किया। 53 सैनिक मारे गए और 200 से अधिक घायल हुए। राष्ट्रपति नेतृत्व परिषद के प्रमुख राशद अल-अलीमी ने कड़ा जवाब देने का संकल्प जताया है। यमन के दक्षिणी शबवा प्रांत में ईरान समर्थित हूती विद्रोहियों ने अल-अलम सैन्य शिविर पर तीन बैलिस्टिक मिसाइलों से हमला किया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यमन में हूतियों का खूनी हमला, 3 बैलिस्टिक मिसाइलों से मिलिट्री कैंप तबाह, 53 सैनिकों की मौत, 200",
+          "summary": "यमन के शबवा प्रांत में हूती विद्रोहियों ने अल-अलम सैन्य शिविर पर तीन बैलिस्टिक मिसाइलों से हमला किया। 53 सैनिक मारे गए और 200 से अधिक घायल हुए। राष्ट्रपति नेतृत्व परिषद के प्रमुख राशद अल-अलीमी ने कड़ा जवाब देने का संकल्प जताया है। यमन के दक्षिणी शबवा प्रांत में ईरान समर्थित हूती विद्रोहियों ने अल-अलम सैन्य शिविर पर तीन बैलिस्टिक मिसाइलों से हमला किया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सऊदी के लिए हूतियों से भिड़ेगा पाकिस्तान? मुनीर की सेना सीधी जंग के लिए तैयार, ईरान पर भी नजर",
+      "url": "https://hindi.news18.com/world/pakistan-saudi-arabia-defence-support-against-houthi-attacks-10921821.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-19T15:39:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-dg-ispr-2026-10-cf0577e4693b5de45e95096ce4b7e2d3-1200x800.jpg",
+      "summary": "पाकिस्तान ने यमन में हूती हमलों के बीच सऊदी अरब की सुरक्षा के लिए मदद देने की घोषणा की। सेना के प्रवक्ता ने सऊदी की संप्रभुता और धार्मिक स्थलों की रक्षा को सर्वोच्च प्राथमिकता बताया। यह बयान अगस्त में हुए पाकिस्तान, सऊदी और तुर्किये के रक्षा समझौते के बाद आया है। यमन के हूतियों के बढ़ते हमलों के बीच पाकिस्तान ने सऊदी अरब की सुरक्षा के लिए हर जरूरी मदद देने की बात कही है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी के लिए हूतियों से भिड़ेगा पाकिस्तान? मुनीर की सेना सीधी जंग के लिए तैयार, ईरान पर भी नजर",
+          "summary": "पाकिस्तान ने यमन में हूती हमलों के बीच सऊदी अरब की सुरक्षा के लिए मदद देने की घोषणा की। सेना के प्रवक्ता ने सऊदी की संप्रभुता और धार्मिक स्थलों की रक्षा को सर्वोच्च प्राथमिकता बताया। यह बयान अगस्त में हुए पाकिस्तान, सऊदी और तुर्किये के रक्षा समझौते के बाद आया है। यमन के हूतियों के बढ़ते हमलों के बीच पाकिस्तान ने सऊदी अरब की सुरक्षा के लिए हर जरूरी मदद देने की बात कही है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "होर्मुज स्ट्रेट में असुरक्षा और तनाव के लिए ईरान ने अमेरिका को ठहराया ज़िम्मेदार",
@@ -362,6 +722,24 @@
       }
     },
     {
+      "title": "महिला आरक्षण-परिसीमन पर चर्चा-समर्थन की मांग, किरेन रिजिजू ने लिखा खरगे को पत्र",
+      "url": "https://www.abplive.com/news/india/kiren-rijiju-letter-mallikarjun-kharge-urges-support-women-reservation-and-delimitation-bill-3204161",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-19T13:13:02+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/19/eb24bbe32d45e0fb61db4df1e83f35c017924136717051324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "Central Minister of State for Parliamentary Affairs Kiran Rijiju sent a letter to Congress president Mallikarjun Kharge urging discussion and backing for केंद्रीय राज्यमंत्री किरेन रिजिजू ने राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे को पत्र लिखा. इसमें महिला आरक्षण और परिसीमन बिल पर चर्चा करने और समर्थन की अपील की. पत्र PM मोदी को लिखे पत्र के जवाब में है. केंद्रीय संसदीय कार्यमंत्री किरेन रिजिजू ने कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे को पत्र लिखा है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महिला आरक्षण-परिसीमन पर चर्चा-समर्थन की मांग, किरेन रिजिजू ने लिखा खरगे को पत्र",
+          "summary": "Central Minister of State for Parliamentary Affairs Kiran Rijiju sent a letter to Congress president Mallikarjun Kharge urging discussion and backing for केंद्रीय राज्यमंत्री किरेन रिजिजू ने राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे को पत्र लिखा. इसमें महिला आरक्षण और परिसीमन बिल पर चर्चा करने और समर्थन की अपील की. पत्र PM मोदी को लिखे पत्र के जवाब में है. केंद्रीय संसदीय कार्यमंत्री किरेन रिजिजू ने कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे को पत्र लिखा है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "यहूदी नेताओं को मारने की योजना, जर्मनी ने ईरान के राजदूत को किया तलब",
       "url": "https://www.patrika.com/world-news/germany-summons-iran-ambassador-jewish-leaders-assassination-plot-20995664",
       "source": "Patrika (World)",
@@ -376,384 +754,6 @@
           "title": "यहूदी नेताओं को मारने की योजना, जर्मनी ने ईरान के राजदूत को किया तलब",
           "summary": "जर्मनी ने ईरानी राजदूत को तलब किया है। अदालत ने दो लोगों को जेल दिया जो यहूदी नेताओं की हत्या की साजिश रच रहे थे। जर्मन सरकार का कहना है कि यह साजिश ईरान की तरफ से रची गई थी। पिछले हफ्ते जर्मनी की अदालत ने दो लोगों को जेल की सजा सुनाई है। ये लोग जर्मनी में यहूदी समुदाय के प्रमुख नेताओं की हत्या की योजना बना रहे थे।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ऑस्ट्रेलिया में सांसद को SUV से कुचलने की कोशिश? PM बोले- ‘यह हादसा नहीं’, आतंकी एंगल से जांच",
-      "url": "https://hindi.news18.com/world/rest-of-world-australia-mp-helen-haines-car-attack-anthony-albanese-investigation-10921147.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T12:31:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/albanese-2-2026-10-d5c2a7cfddb13747c35a99aaf879ed52-1200x800.jpg",
-      "summary": "ऑस्ट्रेलिया में सांसद हेलेन हेन्स को SUV से कुचलने की कोशिश की गई। वांगाराटा में घटना के बाद उन्हें गंभीर रूप से घायल किया गया। पीएम अल्बनीज ने इसे आतंकी घटना मानते हुए राष्ट्रीय जांच शुरू करवाई है। ऑस्ट्रेलिया के विक्टोरिया प्रांत के वांगाराटा में सांसद हेलेन हेन्स को उनके चुनावी जिला कार्यालय के बाहर टोयोटा लैंड क्रूजर एसयूवी ने टक्कर मार दी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऑस्ट्रेलिया में सांसद को SUV से कुचलने की कोशिश? PM बोले- ‘यह हादसा नहीं’, आतंकी एंगल से जांच",
-          "summary": "ऑस्ट्रेलिया में सांसद हेलेन हेन्स को SUV से कुचलने की कोशिश की गई। वांगाराटा में घटना के बाद उन्हें गंभीर रूप से घायल किया गया। पीएम अल्बनीज ने इसे आतंकी घटना मानते हुए राष्ट्रीय जांच शुरू करवाई है। ऑस्ट्रेलिया के विक्टोरिया प्रांत के वांगाराटा में सांसद हेलेन हेन्स को उनके चुनावी जिला कार्यालय के बाहर टोयोटा लैंड क्रूजर एसयूवी ने टक्कर मार दी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चीन ने धरती से 400 KM ऊपर उगाया चावल, अंतरिक्ष में लहलहाई फसल, बिना मिट्टी तियांगोंग स्टेशन पर किया",
-      "url": "https://hindi.news18.com/world/china-tiangong-space-station-rice-harvest-second-generation-experiment-400-km-above-earth-10921119.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T12:27:20+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/china-13-2026-10-b6ce9f54f848e13254569bcb3cb06657-1200x800.jpg",
-      "summary": "चीन के तियांगोंग स्टेशन पर अंतरिक्ष यात्रियों ने चावल की कटाई पूरी की। अब कम गुरुत्वाकर्षण में बीजों से दूसरी पीढ़ी की फसल उगाई जा रही है। वैज्ञानिक जीन और प्रजनन पर असर जांच रहे हैं। China Tiangong Space Station: चीन के तियांगोंग स्पेस स्टेशन पर अंतरिक्ष यात्रियों ने चावल की फसल की कटाई कर एक अहम प्रयोग पूरा किया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन ने धरती से 400 KM ऊपर उगाया चावल, अंतरिक्ष में लहलहाई फसल, बिना मिट्टी तियांगोंग स्टेशन पर किया",
-          "summary": "चीन के तियांगोंग स्टेशन पर अंतरिक्ष यात्रियों ने चावल की कटाई पूरी की। अब कम गुरुत्वाकर्षण में बीजों से दूसरी पीढ़ी की फसल उगाई जा रही है। वैज्ञानिक जीन और प्रजनन पर असर जांच रहे हैं। China Tiangong Space Station: चीन के तियांगोंग स्पेस स्टेशन पर अंतरिक्ष यात्रियों ने चावल की फसल की कटाई कर एक अहम प्रयोग पूरा किया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यमनी सेना ने हूती विद्रोहियों पर किया हमला, वाहनों और हथियारों को भी बनाया निशाना",
-      "url": "https://www.patrika.com/world-news/yemen-army-attack-houthis-in-al-aqroudh-al-shaqab-and-al-sarari-south-of-taiz-20995504",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T12:04:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/yemen-army-airstrikes.webp",
-      "summary": "यमनी सेना ने हूती विद्रोहियों के ठिकानों पर हमला किया। वाहनों और हथियारों को निशाना बनाया गया। यह कार्रवाई हूतियों के ट्रेनिंग कैंप पर हमले के जवाब में हुई। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग बढ़ी ही जा रही है। दोनों पक्ष लगातार एक-दूसरे के ठिकानों पर हमले कर रहे हैं। आज हूतियों ने यमनी सेना और पुलिस के ट्रेनिंग कैंप पर हमला किया, जिसमें कई सैनिक और पुलिसकर्मी मारे गए।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यमनी सेना ने हूती विद्रोहियों पर किया हमला, वाहनों और हथियारों को भी बनाया निशाना",
-          "summary": "यमनी सेना ने हूती विद्रोहियों के ठिकानों पर हमला किया। वाहनों और हथियारों को निशाना बनाया गया। यह कार्रवाई हूतियों के ट्रेनिंग कैंप पर हमले के जवाब में हुई। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग बढ़ी ही जा रही है। दोनों पक्ष लगातार एक-दूसरे के ठिकानों पर हमले कर रहे हैं। आज हूतियों ने यमनी सेना और पुलिस के ट्रेनिंग कैंप पर हमला किया, जिसमें कई सैनिक और पुलिसकर्मी मारे गए।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "लेबनान के करीब पांचवें हिस्से तक कब्जा, दर्जनों गांव तबाह, इजराइल से परेशान हुए लेबनानी राष्ट्रपति",
-      "url": "https://www.patrika.com/world-news/lebanon-president-israel-occupation-southern-lebanon-framework-agreement-20995461",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T11:40:45+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/netanyahu_-.webp",
-      "summary": "लेबनान के राष्ट्रपति जोसेफ आउन ने इजराइल पर फ्रेमवर्क समझौते का उल्लंघन करने का आरोप लगाया। दक्षिणी लेबनान में रोजाना हो रहे हमले सरकार के लिए मुश्किलें बढ़ा रहे हैं। लेबनान के राष्ट्रपति जोसेफ आउन अब इजराइल से तंग आ चुके हैं। उन्होंने कहा है कि इजराइल जून में हुए फ्रेमवर्क समझौते का पालन नहीं कर रहा। राष्ट्रपति ने कहा कि दक्षिणी लेबनान में रोजाना हो रहे उल्लंघन लेबनानी सरकार के लिए मुश्किलें बढ़ा रहे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लेबनान के करीब पांचवें हिस्से तक कब्जा, दर्जनों गांव तबाह, इजराइल से परेशान हुए लेबनानी राष्ट्रपति",
-          "summary": "लेबनान के राष्ट्रपति जोसेफ आउन ने इजराइल पर फ्रेमवर्क समझौते का उल्लंघन करने का आरोप लगाया। दक्षिणी लेबनान में रोजाना हो रहे हमले सरकार के लिए मुश्किलें बढ़ा रहे हैं। लेबनान के राष्ट्रपति जोसेफ आउन अब इजराइल से तंग आ चुके हैं। उन्होंने कहा है कि इजराइल जून में हुए फ्रेमवर्क समझौते का पालन नहीं कर रहा। राष्ट्रपति ने कहा कि दक्षिणी लेबनान में रोजाना हो रहे उल्लंघन लेबनानी सरकार के लिए मुश्किलें बढ़ा रहे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पेरिस के दंगाइयों से निपटने का योगी आदित्यनाथ मॉडल, खूब मचाई तोड़-फोड़, लो तैयार हो गई वसूली की",
-      "url": "https://hindi.news18.com/world/europe-up-cm-yogi-adityanath-riot-model-payback-formulae-on-paris-rioters-macron-announcement-over-france-protest-10920888.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T11:33:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/FRANE-UP-2026-10-6516b87ffc4a6ffbc808e2548018d497-1200x800.jpg",
-      "summary": "पेरिस में दंगों के बाद फ्रांसीसी राष्ट्रपति ने नुकसान की वसूली का ऐलान किया। यह कदम उत्तर प्रदेश के सीएम योगी आदित्यनाथ के मॉडल पर आधारित है। Yogi Adityanath Treatment in Paris Riots: दंगाइयों से निपटने का यूपी के सीएम योगी आदित्यनाथ का प्लान इतना हिट हुआ कि अब यूरोप में भी इसे लागू किया जा रहा है. फ्रांस की राजधानी पेरिस में हुए बवाल के बाद अब राष्ट्रपति ने स्पष्ट शब्दों में कह दिया है कि हिसाब उन्हीं से लिया जाएगा, जिन्होंने नुकसान किया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेरिस के दंगाइयों से निपटने का योगी आदित्यनाथ मॉडल, खूब मचाई तोड़-फोड़, लो तैयार हो गई वसूली की",
-          "summary": "पेरिस में दंगों के बाद फ्रांसीसी राष्ट्रपति ने नुकसान की वसूली का ऐलान किया। यह कदम उत्तर प्रदेश के सीएम योगी आदित्यनाथ के मॉडल पर आधारित है। Yogi Adityanath Treatment in Paris Riots: दंगाइयों से निपटने का यूपी के सीएम योगी आदित्यनाथ का प्लान इतना हिट हुआ कि अब यूरोप में भी इसे लागू किया जा रहा है. फ्रांस की राजधानी पेरिस में हुए बवाल के बाद अब राष्ट्रपति ने स्पष्ट शब्दों में कह दिया है कि हिसाब उन्हीं से लिया जाएगा, जिन्होंने नुकसान किया है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "इज़रायली सेना ने मार गिराए 3 हमास आतंकी",
-      "url": "https://www.patrika.com/world-news/israel-army-eliminates-three-hamas-terrorists-20995374",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T11:29:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/israel-strike-on-gaza.webp",
-      "summary": "इजरायली सेना ने गाज़ा में तीन हमास आतंकियों को मार गिराया। यह कार्रवाई जारी युद्ध के दौरान हुई। सेना लगातार फिलिस्तीनी इलाकों पर हमले कर रही है। इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में युद्ध जारी है। हमास को खत्म करने के लिए इज़रायली सेना गाज़ा और आसपास के फिलिस्तीनी इलाकों पर लगातार हमले कर रही है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इज़रायली सेना ने मार गिराए 3 हमास आतंकी",
-          "summary": "इजरायली सेना ने गाज़ा में तीन हमास आतंकियों को मार गिराया। यह कार्रवाई जारी युद्ध के दौरान हुई। सेना लगातार फिलिस्तीनी इलाकों पर हमले कर रही है। इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में युद्ध जारी है। हमास को खत्म करने के लिए इज़रायली सेना गाज़ा और आसपास के फिलिस्तीनी इलाकों पर लगातार हमले कर रही है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कोलकाता जा रही थी एयर एंबुलेस, 12000 फीट हवा में खुला दरवाजा, बांग्लादेश में करानी पड़ी लैंडिंग",
-      "url": "https://hindi.news18.com/world/south-asia-india-air-ambulance-door-open-mid-air-bangladesh-emergency-landing-woman-dies-10920819.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T11:23:44+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/air-ambulance-2026-10-d95defcd0fed1d4942cf90f8295a5862-1200x800.jpg",
-      "summary": "अगरतला से कोलकाता जा रही एयर एंबुलेंस का दरवाजा 12000 फीट पर खुल गया। विमान को ढाका में उतारना पड़ा। 56 वर्षीय अंजना भौमिक की मौत हो गई। बाकी छह यात्री सुरक्षित हैं। अगरतला से कोलकाता जा रही भारतीय एयर एंबुलेंस को उड़ान के दौरान तकनीकी खराबी के कारण बांग्लादेश की राजधानी ढाका में उतारना पड़ा. करीब 12 हजार फीट की ऊंचाई पर विमान का दरवाजा आंशिक रूप से खुल गया था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोलकाता जा रही थी एयर एंबुलेस, 12000 फीट हवा में खुला दरवाजा, बांग्लादेश में करानी पड़ी लैंडिंग",
-          "summary": "अगरतला से कोलकाता जा रही एयर एंबुलेंस का दरवाजा 12000 फीट पर खुल गया। विमान को ढाका में उतारना पड़ा। 56 वर्षीय अंजना भौमिक की मौत हो गई। बाकी छह यात्री सुरक्षित हैं। अगरतला से कोलकाता जा रही भारतीय एयर एंबुलेंस को उड़ान के दौरान तकनीकी खराबी के कारण बांग्लादेश की राजधानी ढाका में उतारना पड़ा. करीब 12 हजार फीट की ऊंचाई पर विमान का दरवाजा आंशिक रूप से खुल गया था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ग्रीक कोस्ट गार्ड के जहाज से टकराई प्रवासियों की नाव, 6 लोगों की मौत",
-      "url": "https://www.patrika.com/world-news/6-people-killed-after-migrant-boat-collides-with-greek-coast-guard-vessel-20995102",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T10:53:57+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/boat-accident.webp",
-      "summary": "लेस्वोस के पास प्रवासियों की नाव और ग्रीक कोस्ट गार्ड जहाज की टक्कर हुई। छह लोगों की मौत हुई। मृतकों में चार पुरुष, एक महिला और एक शिशु शामिल हैं। सभी शव बरामद कर लिए गए। ग्रीस (Greece) के लेस्वोस आइलैंड (Lesvos Island) पास आज, सोमवार, 19 अक्टूबर को प्रवासियों की एक नाव और ग्रीक कोस्ट गार्ड के जहाज की जोर की टक्कर हो गई।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ग्रीक कोस्ट गार्ड के जहाज से टकराई प्रवासियों की नाव, 6 लोगों की मौत",
-          "summary": "लेस्वोस के पास प्रवासियों की नाव और ग्रीक कोस्ट गार्ड जहाज की टक्कर हुई। छह लोगों की मौत हुई। मृतकों में चार पुरुष, एक महिला और एक शिशु शामिल हैं। सभी शव बरामद कर लिए गए। ग्रीस (Greece) के लेस्वोस आइलैंड (Lesvos Island) पास आज, सोमवार, 19 अक्टूबर को प्रवासियों की एक नाव और ग्रीक कोस्ट गार्ड के जहाज की जोर की टक्कर हो गई।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "दक्षिण कोरिया के साथ युद्ध की तैयारी में उत्तर कोरिया, सीमा पर हथियार की तैनाती, किम जोंग की बहन ने",
-      "url": "https://www.patrika.com/world-news/north-korea-kim-yo-jong-warns-south-korea-border-weapons-deployment-dmz-tension-20995296",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T10:47:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/North-Korea.webp",
-      "summary": "किम यो जोंग ने दक्षिण कोरिया को धमकी दी है। सीमा पर अतिरिक्त सामरिक हथियार तैनात किए जा रहे हैं। लाउडस्पीकर प्रसारण फिर शुरू करने पर भी विचार चल रहा है। उत्तर कोरिया के तानाशाह किम जोंग उन की बहन किम यो जोंग ने दक्षिण कोरिया को खुली धमकी दी है। उन्होंने कहा कि दक्षिण कोरिया की सीमा पर अतिरिक्त सामरिक हथियार तैनात करने का काम चल रहा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दक्षिण कोरिया के साथ युद्ध की तैयारी में उत्तर कोरिया, सीमा पर हथियार की तैनाती, किम जोंग की बहन ने",
-          "summary": "किम यो जोंग ने दक्षिण कोरिया को धमकी दी है। सीमा पर अतिरिक्त सामरिक हथियार तैनात किए जा रहे हैं। लाउडस्पीकर प्रसारण फिर शुरू करने पर भी विचार चल रहा है। उत्तर कोरिया के तानाशाह किम जोंग उन की बहन किम यो जोंग ने दक्षिण कोरिया को खुली धमकी दी है। उन्होंने कहा कि दक्षिण कोरिया की सीमा पर अतिरिक्त सामरिक हथियार तैनात करने का काम चल रहा है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के लिए पाकिस्तान में इमरजेंसी? खैबर पख्तूनख्वा की खदानों पर नजर, क्या बिकेगी 7 ट्रिलियन डॉलर",
-      "url": "https://hindi.news18.com/world/pakistan-khyber-pakhtunkhwa-emergency-plane-for-mineral-resources-extraction-donald-trump-connection-10920676.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T10:11:16+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-news-28-2026-10-eb0763b7c04a044439a8de90460bda71-1200x800.jpg",
-      "summary": "पाकिस्तान में इमरजेंसी के बाद खैबर पख्तूनख्वा के खनिजों पर सवाल उठे। शहबाज शरीफ ने पीटीआई सरकार भंग की। सरकार ने विदेशी कंपनियों को निवेश का न्योता दिया है। Pakistan Khyber Pakhtunkhwa Minerals: पाकिस्तान के खैबर पख्तूनख्वा प्रांत में इमरजेंसी लागू होने के बाद वहां के खनिज संसाधनों को लेकर सवाल उठ रहे हैं. इमरान खान की पार्टी PTI की चुनी हुई सरकार को शहबाज शरीफ ने भंग कर दिया था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप के लिए पाकिस्तान में इमरजेंसी? खैबर पख्तूनख्वा की खदानों पर नजर, क्या बिकेगी 7 ट्रिलियन डॉलर",
-          "summary": "पाकिस्तान में इमरजेंसी के बाद खैबर पख्तूनख्वा के खनिजों पर सवाल उठे। शहबाज शरीफ ने पीटीआई सरकार भंग की। सरकार ने विदेशी कंपनियों को निवेश का न्योता दिया है। Pakistan Khyber Pakhtunkhwa Minerals: पाकिस्तान के खैबर पख्तूनख्वा प्रांत में इमरजेंसी लागू होने के बाद वहां के खनिज संसाधनों को लेकर सवाल उठ रहे हैं. इमरान खान की पार्टी PTI की चुनी हुई सरकार को शहबाज शरीफ ने भंग कर दिया था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यमन में सेना के ट्रेनिंग कैंप पर ईरान समर्थित हूतियों का बड़ा हमला, 18 जवानों की मौत",
-      "url": "https://www.patrika.com/world-news/houthis-attack-on-yemen-army-training-camp-18-dead-20995145",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T10:05:15+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Yemen-Houthis-Revenue-Sources.webp",
-      "summary": "यमन के शबवा प्रांत में हूतियों ने सेना के ट्रेनिंग कैंप पर हमला किया। 18 जवानों की मौत हो गई। यह घटना सोमवार को हुई। येमन के शबवा प्रांत में सोमवार को ईरान समर्थित हूतियों ने बड़ा हमला कर दिया। इसमें 18 जवानों की जान चली गई है। यह हमला यमन में सेना के एक ट्रेनिंग कैंप पर हुआ। यमन में सेना के ट्रेनिंग कैंप पर ईरान समर्थित हूतियों का बड़ा हमला, 18 जवानों की मौत।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यमन में सेना के ट्रेनिंग कैंप पर ईरान समर्थित हूतियों का बड़ा हमला, 18 जवानों की मौत",
-          "summary": "यमन के शबवा प्रांत में हूतियों ने सेना के ट्रेनिंग कैंप पर हमला किया। 18 जवानों की मौत हो गई। यह घटना सोमवार को हुई। येमन के शबवा प्रांत में सोमवार को ईरान समर्थित हूतियों ने बड़ा हमला कर दिया। इसमें 18 जवानों की जान चली गई है। यह हमला यमन में सेना के एक ट्रेनिंग कैंप पर हुआ। यमन में सेना के ट्रेनिंग कैंप पर ईरान समर्थित हूतियों का बड़ा हमला, 18 जवानों की मौत।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "होर्मुज स्ट्रेट में एक और तेल के जहाज में हुआ धमाका, अवैध रास्ते पर समुदी बारूदी सुरंग से टकराने पर",
-      "url": "https://www.patrika.com/world-news/another-oil-tanker-explodes-in-strait-of-hormuz-after-hitting-naval-mine-20995056",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T09:36:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/ship-accident-in-hormuz.webp",
-      "summary": "ईरान की आईआरजीसी ने कहा कि होर्मुज स्ट्रेट में अवैध मार्ग से गुजरते एक तेल जहाज ने समुद्री बारूदी सुरंग से टक्कर मारी। इससे जहाज में धमाका हुआ और आग लग गई। होर्मुज स्ट्रेट (Strait of Hormuz) में एक और तेल का जहाज समुदी बारूदी सुरंग का शिकार बन गया है। ईरान (Iran) की आईआरजीसी – इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC – Islamic Revolutionary Guard Corps) ने जानकारी दी कि अवैध रास्ते से गुज़र रहे तेल के एक जहाज की समुदी बारूदी सुरंग से टक्कर हो गई, जिससे जहाज में धमाका हुआ और फिर आग लग गई।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज स्ट्रेट में एक और तेल के जहाज में हुआ धमाका, अवैध रास्ते पर समुदी बारूदी सुरंग से टकराने पर",
-          "summary": "ईरान की आईआरजीसी ने कहा कि होर्मुज स्ट्रेट में अवैध मार्ग से गुजरते एक तेल जहाज ने समुद्री बारूदी सुरंग से टक्कर मारी। इससे जहाज में धमाका हुआ और आग लग गई। होर्मुज स्ट्रेट (Strait of Hormuz) में एक और तेल का जहाज समुदी बारूदी सुरंग का शिकार बन गया है। ईरान (Iran) की आईआरजीसी – इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC – Islamic Revolutionary Guard Corps) ने जानकारी दी कि अवैध रास्ते से गुज़र रहे तेल के एक जहाज की समुदी बारूदी सुरंग से टक्कर हो गई, जिससे जहाज में धमाका हुआ और फिर आग लग गई।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "IED ब्लास्ट में पाकिस्तानी मेजर की मौत, ग्वादर में चला रहा था सर्च ऑपरेशन, मुनीर को झटका",
-      "url": "https://hindi.news18.com/world/rest-of-world-balochistan-ied-blast-major-wajahat-waheed-killed-4-terrorists-10920581.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T09:18:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-army-4-2026-10-0b3b89fd24f7425e32f6be4f6e041741-1200x800.jpg",
-      "summary": "बलूचिस्तान के ग्वादर जिले में आतंकवाद विरोधी अभियान के दौरान आईईडी विस्फोट में मेजर वजाहात वहीद की मौत हो गई। वहीं कलात जिले में सुरक्षा बलों ने चार आतंकियों को मार गिराया। पाकिस्तान के बलूचिस्तान प्रांत में आतंकियों के खिलाफ अभियान के दौरान IED ब्लास्ट में 34 वर्षीय मेजर वजाहात वहीद की मौत हो गई. यह घटना ग्वादर जिले के पसनी स्थित शादिकौर इलाके में हुई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "IED ब्लास्ट में पाकिस्तानी मेजर की मौत, ग्वादर में चला रहा था सर्च ऑपरेशन, मुनीर को झटका",
-          "summary": "बलूचिस्तान के ग्वादर जिले में आतंकवाद विरोधी अभियान के दौरान आईईडी विस्फोट में मेजर वजाहात वहीद की मौत हो गई। वहीं कलात जिले में सुरक्षा बलों ने चार आतंकियों को मार गिराया। पाकिस्तान के बलूचिस्तान प्रांत में आतंकियों के खिलाफ अभियान के दौरान IED ब्लास्ट में 34 वर्षीय मेजर वजाहात वहीद की मौत हो गई. यह घटना ग्वादर जिले के पसनी स्थित शादिकौर इलाके में हुई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सीढ़ियों पर किसी ने तेल डाल दिया? पाकिस्तान में भारत के दुश्मन की मौत पर उठे सवाल, कर्नल अजय रैना",
-      "url": "https://hindi.news18.com/world/pakistan-lashkar-terrorist-chaudhry-muhammad-sarwar-death-ajay-raina-reaction-oil-on-stairs-ws-b-10920409.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T08:59:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/oil-stairs-2026-10-9b595a310f2f14eb2b64d1edb08cd3b6-1200x800.jpg",
-      "summary": "लाहौर में लश्कर-ए-तैयबा के वरिष्ठ आतंकी अबू हाशिम की सीढ़ियों से गिरने के बाद मौत हो गई। अमेरिकी वित्त मंत्रालय ने 2016 में उसे फंडिंग जुटाने के आरोप में प्रतिबंधित किया था। पाकिस्तान के लाहौर में लश्कर-ए-तैयबा के वरिष्ठ आतंकी चौधरी मुहम्मद सरवर उर्फ अबू हाशिम की मौत हो गई. पाकिस्तानी मीडिया के मुताबिक, वह सीढ़ियों से गिरने के बाद गंभीर रूप से घायल हुआ था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सीढ़ियों पर किसी ने तेल डाल दिया? पाकिस्तान में भारत के दुश्मन की मौत पर उठे सवाल, कर्नल अजय रैना",
-          "summary": "लाहौर में लश्कर-ए-तैयबा के वरिष्ठ आतंकी अबू हाशिम की सीढ़ियों से गिरने के बाद मौत हो गई। अमेरिकी वित्त मंत्रालय ने 2016 में उसे फंडिंग जुटाने के आरोप में प्रतिबंधित किया था। पाकिस्तान के लाहौर में लश्कर-ए-तैयबा के वरिष्ठ आतंकी चौधरी मुहम्मद सरवर उर्फ अबू हाशिम की मौत हो गई. पाकिस्तानी मीडिया के मुताबिक, वह सीढ़ियों से गिरने के बाद गंभीर रूप से घायल हुआ था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान से हाथ मिलाएंगे मुइज्जू, भारत की बढ़ेगी टेंशन? 10 साल बाद मालदीव के राष्ट्रपति का दौरा",
-      "url": "https://hindi.news18.com/world/pakistan-maldives-president-muhammad-muizzu-pakistan-visit-india-security-concerns-10920260.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T07:45:14+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/muizzu-2026-10-6f4224ecbbb3109488443f4cf6fab98d-1200x800.jpg",
-      "summary": "मालदीव के राष्ट्रपति मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान जाएंगे। यह दशक बाद पहली यात्रा है। वे शरीफ और जरदारी से मिलेंगे। मालदीव के राष्ट्रपति मोहम्मद मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान के दौरे पर रहेंगे. यह एक दशक बाद मालदीव के किसी राष्ट्रपति की पाकिस्तान यात्रा है. मुइज्जू प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी से मुलाकात करेंगे.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान से हाथ मिलाएंगे मुइज्जू, भारत की बढ़ेगी टेंशन? 10 साल बाद मालदीव के राष्ट्रपति का दौरा",
-          "summary": "मालदीव के राष्ट्रपति मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान जाएंगे। यह दशक बाद पहली यात्रा है। वे शरीफ और जरदारी से मिलेंगे। मालदीव के राष्ट्रपति मोहम्मद मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान के दौरे पर रहेंगे. यह एक दशक बाद मालदीव के किसी राष्ट्रपति की पाकिस्तान यात्रा है. मुइज्जू प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी से मुलाकात करेंगे.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना",
-      "url": "https://www.amarujala.com/world/starlink-satellite-internet-dependence-national-security-zelensky-allegation-us-donald-trump-why-concern-india-2026-10-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-19T06:51:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/19/starlink_7b1192c29e2da4cef3d59ab7e3bacacb.jpeg?w=1200&dpr=1.0",
-      "summary": "जेलेंस्की के आरोपों ने स्टारलिंक की सुरक्षा को लेकर बहस छेड़ी। भारत ने इस पर सख्त रुख अपनाया है। स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना",
-          "summary": "जेलेंस्की के आरोपों ने स्टारलिंक की सुरक्षा को लेकर बहस छेड़ी। भारत ने इस पर सख्त रुख अपनाया है। स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "‘भारत-अमेरिका समझौते के बेहद करीब’, ट्रेड डील पर बोले मार्को रुबियो, रूसी तेल पर छूट की भी बताई वजह",
-      "url": "https://www.patrika.com/world-news/marco-rubio-india-us-trade-deal-russian-oil-ukraine-war-20994548",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T06:43:05+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/rubio-.webp",
-      "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने कहा कि भारत और अमेरिका द्विपक्षीय व्यापार समझौते को अंतिम रूप देने के बहुत करीब हैं। उन्होंने रूसी ऊर्जा पर लगे प्रतिबंधों की छूट का भी बचाव किया। India-US Trade Deal: अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत और अमेरिका के बीच द्विपक्षीय व्यापार और वैश्विक ऊर्जा आपूर्ति को लेकर एक महत्वपूर्ण बयान दिया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘भारत-अमेरिका समझौते के बेहद करीब’, ट्रेड डील पर बोले मार्को रुबियो, रूसी तेल पर छूट की भी बताई वजह",
-          "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने कहा कि भारत और अमेरिका द्विपक्षीय व्यापार समझौते को अंतिम रूप देने के बहुत करीब हैं। उन्होंने रूसी ऊर्जा पर लगे प्रतिबंधों की छूट का भी बचाव किया। India-US Trade Deal: अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत और अमेरिका के बीच द्विपक्षीय व्यापार और वैश्विक ऊर्जा आपूर्ति को लेकर एक महत्वपूर्ण बयान दिया है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "भारत में फ्यूचर देख रहा अमेरिका के 'जिगर का छल्ला', खूब निभाई यारी, अब सता रहा कैसा डर?",
-      "url": "https://hindi.news18.com/world/middle-east-israeli-pm-wants-alliances-with-india-latin-america-warns-of-potentially-hostile-future-us-president-ws-l-10920221.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T06:32:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/India-Israel-Deal-2026-07-7bb5c2a67d6dcabf42e733e3e78147de-1200x800.jpg",
-      "summary": "ट्रंप के दूसरी बार सत्ता में आने के बाद भी इजरायल भारत के साथ अपने संबंधों को और मजबूत करने की कोशिश कर रहा है। यह कदम दोनों देशों की रणनीतिक साझेदारी को गहरा करने का प्रयास है। Israel wants Close Alliance with India: जब से अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप दुबारा सत्ता में आए हैं, इजरायली पीएम के साथ उनकी दोस्ती के किस्से खूब छपे.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत में फ्यूचर देख रहा अमेरिका के 'जिगर का छल्ला', खूब निभाई यारी, अब सता रहा कैसा डर?",
-          "summary": "ट्रंप के दूसरी बार सत्ता में आने के बाद भी इजरायल भारत के साथ अपने संबंधों को और मजबूत करने की कोशिश कर रहा है। यह कदम दोनों देशों की रणनीतिक साझेदारी को गहरा करने का प्रयास है। Israel wants Close Alliance with India: जब से अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप दुबारा सत्ता में आए हैं, इजरायली पीएम के साथ उनकी दोस्ती के किस्से खूब छपे.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "फ्रांस हिंसा के बीच इंटीरियर मिनिस्टर ने की इस्तीफे की पेशकश, राष्ट्रपति मैक्रों ने ठुकराया",
-      "url": "https://www.patrika.com/world-news/france-riots-president-macron-rejects-interior-minister-resignation-20994462",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-19T06:19:54+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/france-interior-minister-with-president.webp",
-      "summary": "फ्रांस में हिंसा के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने इस्तीफे की पेशकश की, जिसे राष्ट्रपति मैक्रों ने ठुकरा दिया। एलीसी पैलेस ने सोमवार को इस बात की पुष्टि की। France riots: फ्रांस में भड़की हिंसा और आगजनी के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने सुरक्षा बलों की विफलता की जिम्मेदारी लेते हुए राष्ट्रपति इमैनुएल मैक्रों को अपने इस्तीफे की पेशकश की थी।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्रांस हिंसा के बीच इंटीरियर मिनिस्टर ने की इस्तीफे की पेशकश, राष्ट्रपति मैक्रों ने ठुकराया",
-          "summary": "फ्रांस में हिंसा के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने इस्तीफे की पेशकश की, जिसे राष्ट्रपति मैक्रों ने ठुकरा दिया। एलीसी पैलेस ने सोमवार को इस बात की पुष्टि की। France riots: फ्रांस में भड़की हिंसा और आगजनी के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने सुरक्षा बलों की विफलता की जिम्मेदारी लेते हुए राष्ट्रपति इमैनुएल मैक्रों को अपने इस्तीफे की पेशकश की थी।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "यमन ने लिया बदला, 24 घंटे में ताबड़तोड़ 1326 हमले, 370 हूती विद्रोहियों को मारने का दावा",
-      "url": "https://hindi.news18.com/world/middle-east-yemen-attack-on-houthi-1326-attack-in-24-hours-gcc-condemns-ws-l-10920152.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T05:59:55+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/yemen-attack-2026-10-4d6bcfde9be9ae0821b0fdd18690865a-1200x800.jpg",
-      "summary": "यमनी सेना ने अदन में हूती हमलों के जवाब में 24 घंटों में 1326 हमले किए। सेना का दावा है कि इस कार्रवाई में 370 विद्रोहियों को मार गिराया गया। Yemen-Houthi Attack: यमन की सेना की ओर से हूती विद्रोहियों पर बड़ी कार्रवाई की गई है. जिस तरह से अदन के इलाकों को हूती विद्रोही टार्गेट कर रहे थे, उसके बाद अब यमनी सेना ने बड़ा एक्शन करते हुए कुल 370 हूती विद्रोहियों को मार गिराया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यमन ने लिया बदला, 24 घंटे में ताबड़तोड़ 1326 हमले, 370 हूती विद्रोहियों को मारने का दावा",
-          "summary": "यमनी सेना ने अदन में हूती हमलों के जवाब में 24 घंटों में 1326 हमले किए। सेना का दावा है कि इस कार्रवाई में 370 विद्रोहियों को मार गिराया गया। Yemen-Houthi Attack: यमन की सेना की ओर से हूती विद्रोहियों पर बड़ी कार्रवाई की गई है. जिस तरह से अदन के इलाकों को हूती विद्रोही टार्गेट कर रहे थे, उसके बाद अब यमनी सेना ने बड़ा एक्शन करते हुए कुल 370 हूती विद्रोहियों को मार गिराया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "225 की रफ्तार वाली आफत गई तो 155 KMPH की स्‍पीड से आई नई मुसीबत, घर-मकान सब उड़ जाएंगे, दहशत से",
-      "url": "https://hindi.news18.com/world/rest-of-world-hurricane-trudy-category-2-storm-155-kmph-wind-speed-lashed-mexico-pacific-coast-enormous-destruction-international-weather-10919647.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-19T05:16:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Hurricane-Trudy-2026-10-4b747d99c37ded0f6cdf98f02134920d-1200x800.jpg",
-      "summary": "अल नीनो के प्रभाव से समुद्री तापमान बढ़ने से तूफानों की संभावना बढ़ी है। दक्षिण पूर्व एशिया और प्रशांत तटों पर पिछले तीन महीनों में कई तूफान आए। मौसम विज्ञानियों ने इसके कई दुष्‍प्रभाव बताए हैं. अल नीनो की वजह से समंदर की सत‍ह सामान्‍य से काफी गर्म हो जाती है. वेदर एक्‍सपर्ट की मानें तो मौसम में इस बदलाव की वजह से बेहद शक्तिशाली तूफान आने की आशंका भी बढ़ गई है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "225 की रफ्तार वाली आफत गई तो 155 KMPH की स्‍पीड से आई नई मुसीबत, घर-मकान सब उड़ जाएंगे, दहशत से",
-          "summary": "अल नीनो के प्रभाव से समुद्री तापमान बढ़ने से तूफानों की संभावना बढ़ी है। दक्षिण पूर्व एशिया और प्रशांत तटों पर पिछले तीन महीनों में कई तूफान आए। मौसम विज्ञानियों ने इसके कई दुष्‍प्रभाव बताए हैं. अल नीनो की वजह से समंदर की सत‍ह सामान्‍य से काफी गर्म हो जाती है. वेदर एक्‍सपर्ट की मानें तो मौसम में इस बदलाव की वजह से बेहद शक्तिशाली तूफान आने की आशंका भी बढ़ गई है.",
-          "region": "दुनिया"
         }
       }
     }

@@ -1,66 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 19, 2026 20:35 IST
-
----
-
-## Asia-Pacific
-
-### ['We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In](https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html)
-*Radio Free Europe / Liberty* - Oct 19, 18:12 IST (iso: 2026-10-19T12:42:59+00:00)
-<!-- image: https://gdb.rferl.org/8A1507F1-461D-4A8A-8AFE-4242DBCAA259.jpg -->
-
-Daniel Rosenblum, a former US ambassador, warns that American business efforts in Central Asia face significant hurdles. He argues the United States will not become a major regional player despite recent diplomatic outreach. Marco Rubio has brought nearly 300 American business representatives to Uzbekistan for a meeting with representatives of the five states of Central Asia. But Daniel N. Rosenblum, a former US ambassador to Uzbekistan and Kazakhstan, cautions that investment faces major obstacles.
-
-### [China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’](https://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece)
-*The Hindu (International)* - Oct 19, 16:23 IST (iso: 2026-10-19T10:53:05+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/s4n7i3/article71602543.ece/alternates/LANDSCAPE_1200/iStock-187348194.jpg -->
-
-China imposed export controls on tunnel-boring machines and certain dredgers on October 19. The Commerce Ministry cited national security concerns, directly impacting India's infrastructure procurement plans for large-scale tunneling projects. The Chinese Commerce Ministry said on Monday, October 19, in an announcement that, it was “introducing export controls on tunnel-boring machines and related items and optimising and adjusting export-control measures for certain dredgers and related items.”.
-
-### [Owner or owned? Indonesia’s Chinese battery chain dilemma](https://asiatimes.com/2026/10/owner-or-owned-indonesias-chinese-battery-chain-dilemma/)
-*Asia Times* - Oct 19, 15:51 IST (iso: 2026-10-19T10:21:06+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Battery-EVs-copy.jpg -->
-
-Indonesia seeks to transform raw nickel exports into high-value EV batteries. The strategy relies heavily on Chinese investment and technology, raising questions about whether Indonesia controls its supply chain or remains dependent on foreign partners. Indonesia has spent a decade trying to turn its mineral wealth into something more valuable than raw commodity exports. The strategy is ambitious: restrict raw nickel exports, attract investment, build processing capacity and move downstream into electric-vehicle (EV) batteries that will power the next generation of transport and energy storage.
-
-### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
-*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
-<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
-
-China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
-
-### [Strategy trumps scandal as West goes easy on India](https://asiatimes.com/2026/10/strategy-trumps-scandal-as-west-goes-easy-on-india/)
-*Asia Times* - Oct 19, 09:49 IST (iso: 2026-10-19T04:19:25+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Canada-Modi-Carney-2026.jpg -->
-
-Canada and India reaffirmed plans to expand trade and security cooperation on October 13. This move occurred despite ongoing Western accusations of Indian foreign interference and intelligence operations. Prime Minister Mark Carney and Prime Minister Narendra Modi prioritized strategic alignment over diplomatic friction. The decision signals that geopolitical utility outweighs security concerns for Western partners. Western governments are rebuilding ties with India even as they accuse it of foreign interference and of running intelligence operations against people on their soil.
-
-### [What Australia could learn from SE Asia about managing China](https://asiatimes.com/2026/10/what-australia-could-learn-from-se-asia-about-managing-china/)
-*Asia Times* - Oct 19, 08:31 IST (iso: 2026-10-19T03:01:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/ASEAN.jpg -->
-
-Australian governments have tightened foreign interference laws to counter Chinese influence. They also regulated university collaborations and foreign investment. Officials launched a Pacific Step-Up plan. These measures aim to strengthen trade ties with Southeast Asia. Successive Australian governments have reacted with alarm at China’s influence-building activities in Southeast Asia and the Pacific. They have passed foreign interference laws, tightened foreign investment regulations, and regulated university collaborations with institutions overseas.
-
-### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-06-2025-WFP-Afghanistan-02.jpg/image560x340cropped.jpg -->
-
-Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
+**Updated:** October 20, 2026 02:17 IST
 
 ---
 
 ## Middle East & Africa
 
+### [Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows](https://www.thehindu.com/news/international/ex-openai-employee-accused-of-planting-device-appears-to-have-saudi-backing-court-filing-shows/article71602972.ece)
+*The Hindu (International)* - Oct 19, 21:21 IST (iso: 2026-10-19T15:51:27+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/v60ojr/article71602975.ece/alternates/LANDSCAPE_1200/2026-10-19T152058Z_1186120503_RC2F2OAHBK9X_RTRMADP_3_OPENAI-SPYING-SAUDI.JPG -->
+
+U. S. prosecutors allege Abdulrahman Alfozan, a former OpenAI employee, received Saudi backing. A court filing states he communicated with a royal family member. A Saudi military official paid for his family's return flight to the kingdom. prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in ​frequent communication ‌with an unnamed member of the Saudi Royal family and that a ‌member of the ​Saudi military paid for a one-way plane ⁠ticket for Mr.
+
+### [A growing national crisis and a strategic warning](https://asiatimes.com/2026/10/south-korea-a-growing-national-crisis-and-a-strategic-warning/)
+*Asia Times* - Oct 19, 20:59 IST (iso: 2026-10-19T15:29:22+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/extrawide_3x1-e1792418247678.jpg -->
+
+South Korea's per capita GDP is projected to surpass Japan's by 2027. The International Monetary Fund estimates Korea will reach $49,000. Japan is expected to sit between $37,000 and $38,000. This shift highlights Korea's semiconductor strength. Recent media reports projecting South Korea’s per capita GDP to surpass Japan’s have generated considerable excitement across the regional countries that see Korea as a role model.
+
+### [China pulls out of key investment in Sri Lanka port logistics venture](https://www.thehindu.com/news/international/china-pulls-out-of-key-investment-in-sri-lanka-port-logistics-venture/article71602799.ece)
+*The Hindu (International)* - Oct 19, 20:39 IST (iso: 2026-10-19T15:09:35+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/glnuk2/article71602941.ece/alternates/LANDSCAPE_1200/AFP__20260918__C8PA9GV__v2__HighRes__SriLankaEconomyPort.jpg -->
+
+China Merchants withdrew its investment from a Sri Lankan port logistics venture. The 2023 pledge was the first major foreign direct investment after Sri Lanka's debt default. The pullback signals reduced Chinese commitment to the island's infrastructure recovery. When China Merchants pledged the investment in 2023, it was touted as the “first major Foreign Direct Investment” to enter Sri Lanka after the country defaulted on its foreign debt the previous year amid a crushing economic crisis.
+
 ### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
 *UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg -->
 
 The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
 
+### [Guterres honours Indonesian troops who paid ‘ultimate sacrifice’](https://news.un.org/feed/view/en/story/2026/10/1168623)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image770x420cropped.jpg -->
+
+UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
+
 ### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
 *UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg -->
 
 Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
 
@@ -70,21 +48,21 @@ Families in the Gaza Strip are bracing for a winter of severe cold and rain that
 
 Iran's government has survived war, economic crisis, and mass protests. Vahid Pourostad attributes this resilience to entrenched power networks. The opposition remains fractured and unable to mount a unified challenge. The Islamic republic continues to hold power despite severe internal and external pressure. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing?
 
-### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
-*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
-
-Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
-
 ---
 
 ## Europe & Russia
 
-### [Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks](https://news.un.org/feed/view/en/story/2026/10/1168620)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image770x420cropped.jpg -->
+### [A Russian Military Satellite Gets Very, Very Close To One Used By Ukraine](https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html)
+*Radio Free Europe / Liberty* - Oct 19, 20:32 IST (iso: 2026-10-19T15:02:14+00:00)
+<!-- image: https://gdb.rferl.org/459A5069-D10C-4972-B087-263CEDDB03F5_w1200_h630.jpg -->
 
-UN officials at the Yerevan Biodiversity Conference warned that ongoing biodiversity losses threaten the prosperity of billions. They urged nations to take urgent action to protect the planet and secure future economic stability. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.
+A Russian military satellite passed exceptionally close to a Finnish-operated satellite. The Finnish satellite provides intelligence to Ukraine. Officials described the maneuver as concerning and aggressive. They noted it may serve as a signal of hostile intent. Last week, a Russian military satellite came “exceptionally close” to another Finnish-operated satellite that provides intelligence to Ukraine. “It’s concerning and aggressive with potential hostile intent – but I also think cooler heads believe it is signaling on the part of the Russians.”.
+
+### [Prime Minister calls for localised curfews in cities to curb rioting, looting](https://www.thehindu.com/news/international/france-protest-prime-minister-calls-for-localised-curfews-in-cities-to-curb-rioting-looting/article71602727.ece)
+*The Hindu (International)* - Oct 19, 18:38 IST (iso: 2026-10-19T13:08:04+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/fvu0wt/article71602729.ece/alternates/LANDSCAPE_1200/2026-10-19T122103Z_1048790696_RC2C6OAWWFB4_RTRMADP_3_FRANCE-PROTEST-LUXURY.JPG -->
+
+France's Prime Minister defended police actions during October riots, noting no fatalities despite severe violence and property damage. He described the lack of deaths as a miracle while acknowledging the challenges officers faced against violent groups. On October 17, 2026, ‘despite scenes of severe violence and extensive property damage, no one was killed, and that is a miracle,’ said the French PM as he defended the work of police officers faced with violent groups of people.
 
 ### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
 *The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
@@ -94,7 +72,7 @@ Hurricane Trudy weakened to a tropical storm after threatening Mexico's Pacific 
 
 ### [Rubio Vows To Keep Pushing For Ukraine Peace, Seeks Deeper US Ties In Central Asia](https://www.rferl.org/a/rubio-ukraine-peace-us-ties-central-asia/33879304.html)
 *Radio Free Europe / Liberty* - Oct 19, 14:59 IST (iso: 2026-10-19T09:29:21+00:00)
-<!-- image: https://gdb.rferl.org/31f8d64c-ecef-4597-4b88-08df13aec0bb_cx0_cy10_cw0_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/78a73995-a608-4139-a1d3-fbc3e391216b_cx0_cy9_cw0_w1200_h630.jpg -->
 
 Marco Rubio stated the United States will continue pushing for a Ukraine peace deal. He warned the conflict risks escalating beyond Russia and Ukraine. The Secretary of State made these remarks while meeting Central Asian officials in Uzbekistan. US Secretary of State Marco Rubio said Washington would continue efforts to end Russia's war against Ukraine, warning that the conflict risks escalating beyond the two countries as he met with Central Asian officials in Uzbekistan.
 
@@ -134,21 +112,15 @@ Putin’s advisor Nikolai Patrushev visited China to advance Arctic cooperation.
 
 Downing Street confirmed the UK may impose tariffs on Chinese electric vehicles if it joins the EU's Made in Europe package. Beijing warned the measure would be discriminatory. France dropped its opposition to British participation in the scheme. The decision remains pending final negotiations. Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK inclu.
 
-### [Russia Still Needs More Soldiers. The Kremlin Is Still Desperate To Avoid Mobilization](https://www.rferl.org/a/russia-mobilization-fears-creeping-coercion-war/33878063.html)
-*Radio Free Europe / Liberty* - Oct 16, 22:18 IST (iso: 2026-10-16T16:48:29+00:00)
-<!-- image: https://gdb.rferl.org/034d0000-0aff-0242-53ea-08dadf5db6ee_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Russia continues quiet mobilization to replace losses in Ukraine. The Kremlin avoided a formal national draft order after recent elections. Coercive recruiting tactics persist across the country. Military forces remain depleted despite ongoing combat operations. Many Russians feared the Kremlin would order a new mobilization after last month’s elections: to replenish decimated forces fighting in Ukraine. That hasn’t happened. But creative and coercive recruiting tactics – called “quiet” or “creeping” mobilization by some – continue nationwide.
-
-### [The world is waging a ‘war on nature’ as progress on biodiversity targets lags](https://news.un.org/feed/view/en/story/2026/10/1168607)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image560x340cropped.jpg -->
-
-The UN warns fewer than half of national biodiversity targets are on track. This report arrives days before the COP17 conference in Yerevan, Armenia. The assessment highlights a significant gap in global efforts to protect plants, animals, and ecosystems from further degradation. Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yerevan, Armenia, for the COP17 biodiversity conference.
-
 ---
 
 ## Americas
+
+### [A Warm Welcome for US Secretary of State in Central Asia](https://thediplomat.com/2026/10/a-warm-welcome-for-us-secretary-of-state-in-central-asia/)
+*The Diplomat* - Oct 19, 19:54 IST (iso: 2026-10-19T14:24:00+00:00)
+<!-- image: https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-19-233125.jpg -->
+
+U. S. Secretary of State Marco Rubio traveled to Central Asia. The region offered a warm welcome to the Trump administration. This trip allowed Rubio to bypass other pressing international crises. The visit secured diplomatic goodwill in the area. Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.
 
 ### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
 *The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
@@ -158,19 +130,43 @@ Argentina’s president is targeting the Falklands’ oil and fisheries industri
 
 ---
 
-## Global / Multilateral
+## Asia-Pacific
 
-### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg -->
+### ['We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In](https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html)
+*Radio Free Europe / Liberty* - Oct 19, 18:12 IST (iso: 2026-10-19T12:42:59+00:00)
+<!-- image: https://gdb.rferl.org/8A1507F1-461D-4A8A-8AFE-4242DBCAA259.jpg -->
 
-A new UN report warns that rapid economic shifts risk leaving vulnerable communities behind. Artificial intelligence and renewable energy transitions are reshaping global economies. These changes create new opportunities but also threaten to deepen socio-economic inequalities. The report highlights the need for inclusive policy frameworks. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
+Daniel Rosenblum, a former US ambassador, warns that American business efforts in Central Asia face significant hurdles. He argues the United States will not become a major regional player despite recent diplomatic outreach. Marco Rubio has brought nearly 300 American business representatives to Uzbekistan for a meeting with representatives of the five states of Central Asia. But Daniel N. Rosenblum, a former US ambassador to Uzbekistan and Kazakhstan, cautions that investment faces major obstacles.
 
-### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image560x340cropped.jpg -->
+### [Owner or owned? Indonesia’s Chinese battery chain dilemma](https://asiatimes.com/2026/10/owner-or-owned-indonesias-chinese-battery-chain-dilemma/)
+*Asia Times* - Oct 19, 15:51 IST (iso: 2026-10-19T10:21:06+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Battery-EVs-copy.jpg -->
 
-The United Nations issued a report warning that brain data collected by consumer devices could serve as legal evidence against individuals. The document highlights that neurotechnology is advancing faster than existing human rights protections. Current laws do not adequately address the privacy risks of neural data. The UN called for new limits to prevent misuse of these signals in judicial proceedings.
+Indonesia seeks to transform raw nickel exports into high-value EV batteries. The strategy relies heavily on Chinese investment and technology, raising questions about whether Indonesia controls its supply chain or remains dependent on foreign partners. Indonesia has spent a decade trying to turn its mineral wealth into something more valuable than raw commodity exports. The strategy is ambitious: restrict raw nickel exports, attract investment, build processing capacity and move downstream into electric-vehicle (EV) batteries that will power the next generation of transport and energy storage.
+
+### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
+*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
+<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
+
+China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
+
+### [Strategy trumps scandal as West goes easy on India](https://asiatimes.com/2026/10/strategy-trumps-scandal-as-west-goes-easy-on-india/)
+*Asia Times* - Oct 19, 09:49 IST (iso: 2026-10-19T04:19:25+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Canada-Modi-Carney-2026.jpg -->
+
+Canada and India reaffirmed plans to expand trade and security cooperation on October 13. This move occurred despite ongoing Western accusations of Indian foreign interference and intelligence operations. Prime Minister Mark Carney and Prime Minister Narendra Modi prioritized strategic alignment over diplomatic friction. The decision signals that geopolitical utility outweighs security concerns for Western partners. Western governments are rebuilding ties with India even as they accuse it of foreign interference and of running intelligence operations against people on their soil.
+
+### [What Australia could learn from SE Asia about managing China](https://asiatimes.com/2026/10/what-australia-could-learn-from-se-asia-about-managing-china/)
+*Asia Times* - Oct 19, 08:31 IST (iso: 2026-10-19T03:01:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/ASEAN.jpg -->
+
+Australian governments have tightened foreign interference laws to counter Chinese influence. They also regulated university collaborations and foreign investment. Officials launched a Pacific Step-Up plan. These measures aim to strengthen trade ties with Southeast Asia. Successive Australian governments have reacted with alarm at China’s influence-building activities in Southeast Asia and the Pacific. They have passed foreign interference laws, tightened foreign investment regulations, and regulated university collaborations with institutions overseas.
+
+### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
+*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
+
+India deployed over 25,000 police officers in New Delhi to stop Cockroach Janta Party protests. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation resulted in the closure of one in six metro stations. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
 
 ---
 
