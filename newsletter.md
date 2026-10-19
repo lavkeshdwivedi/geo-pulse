@@ -1,10 +1,34 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 19, 2026 12:54 IST
+**Updated:** October 19, 2026 20:35 IST
 
 ---
 
 ## Asia-Pacific
+
+### ['We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In](https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html)
+*Radio Free Europe / Liberty* - Oct 19, 18:12 IST (iso: 2026-10-19T12:42:59+00:00)
+<!-- image: https://gdb.rferl.org/8A1507F1-461D-4A8A-8AFE-4242DBCAA259.jpg -->
+
+Daniel Rosenblum, a former US ambassador, warns that American business efforts in Central Asia face significant hurdles. He argues the United States will not become a major regional player despite recent diplomatic outreach. Marco Rubio has brought nearly 300 American business representatives to Uzbekistan for a meeting with representatives of the five states of Central Asia. But Daniel N. Rosenblum, a former US ambassador to Uzbekistan and Kazakhstan, cautions that investment faces major obstacles.
+
+### [China imposes export controls on tunnel-boring machines sought by India, citing ‘national security’](https://www.thehindu.com/news/international/china-imposes-export-controls-on-tunnel-boring-machines-sought-by-india-citing-national-security/article71602536.ece)
+*The Hindu (International)* - Oct 19, 16:23 IST (iso: 2026-10-19T10:53:05+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/s4n7i3/article71602543.ece/alternates/LANDSCAPE_1200/iStock-187348194.jpg -->
+
+China imposed export controls on tunnel-boring machines and certain dredgers on October 19. The Commerce Ministry cited national security concerns, directly impacting India's infrastructure procurement plans for large-scale tunneling projects. The Chinese Commerce Ministry said on Monday, October 19, in an announcement that, it was “introducing export controls on tunnel-boring machines and related items and optimising and adjusting export-control measures for certain dredgers and related items.”.
+
+### [Owner or owned? Indonesia’s Chinese battery chain dilemma](https://asiatimes.com/2026/10/owner-or-owned-indonesias-chinese-battery-chain-dilemma/)
+*Asia Times* - Oct 19, 15:51 IST (iso: 2026-10-19T10:21:06+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Battery-EVs-copy.jpg -->
+
+Indonesia seeks to transform raw nickel exports into high-value EV batteries. The strategy relies heavily on Chinese investment and technology, raising questions about whether Indonesia controls its supply chain or remains dependent on foreign partners. Indonesia has spent a decade trying to turn its mineral wealth into something more valuable than raw commodity exports. The strategy is ambitious: restrict raw nickel exports, attract investment, build processing capacity and move downstream into electric-vehicle (EV) batteries that will power the next generation of transport and energy storage.
+
+### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
+*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
+<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
+
+China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
 
 ### [Strategy trumps scandal as West goes easy on India](https://asiatimes.com/2026/10/strategy-trumps-scandal-as-west-goes-easy-on-india/)
 *Asia Times* - Oct 19, 09:49 IST (iso: 2026-10-19T04:19:25+00:00)
@@ -12,17 +36,11 @@
 
 Canada and India reaffirmed plans to expand trade and security cooperation on October 13. This move occurred despite ongoing Western accusations of Indian foreign interference and intelligence operations. Prime Minister Mark Carney and Prime Minister Narendra Modi prioritized strategic alignment over diplomatic friction. The decision signals that geopolitical utility outweighs security concerns for Western partners. Western governments are rebuilding ties with India even as they accuse it of foreign interference and of running intelligence operations against people on their soil.
 
-### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
-*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
+### [What Australia could learn from SE Asia about managing China](https://asiatimes.com/2026/10/what-australia-could-learn-from-se-asia-about-managing-china/)
+*Asia Times* - Oct 19, 08:31 IST (iso: 2026-10-19T03:01:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/ASEAN.jpg -->
 
-More than 25,000 police officers secured New Delhi to block protests by the Cockroach Janta Party. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation forced the closure of one in six metro stations in the capital. Barricades were erected to restrict movement and prevent the planned gatherings. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
-
-### [Hot US inflation singes Asia as higher-for-longer Fed rates loom](https://asiatimes.com/2026/10/hot-us-inflation-singes-asia-as-higher-for-longer-fed-rates-loom/)
-*Asia Times* - Oct 16, 15:24 IST (iso: 2026-10-16T09:54:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/06/c2ee9214b10cc686386a5c5e77e3a0ac.jpeg -->
-
-September US inflation hit 3.7% year-on-year, exceeding forecasts. The data suggests the Federal Reserve will keep interest rates higher for longer. Asian markets face renewed pressure on currencies, capital flows, and economic growth from this sustained monetary tightening. TOKYO. An unwelcome blast of US inflation is blowing across Asia’s markets. September’s hotter-than-expected price data revived concerns that the Federal Reserve will keep rates higher for longer, threatening fresh pressure on currencies, capital flows and economic growth across the region.
+Australian governments have tightened foreign interference laws to counter Chinese influence. They also regulated university collaborations and foreign investment. Officials launched a Pacific Step-Up plan. These measures aim to strengthen trade ties with Southeast Asia. Successive Australian governments have reacted with alarm at China’s influence-building activities in Southeast Asia and the Pacific. They have passed foreign interference laws, tightened foreign investment regulations, and regulated university collaborations with institutions overseas.
 
 ### [Afghanistan faces record hunger levels amid rampant rights violations](https://news.un.org/feed/view/en/story/2026/10/1168605)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
@@ -32,9 +50,55 @@ Afghanistan faces record hunger levels with 15.9 million people facing acute foo
 
 ---
 
+## Middle East & Africa
+
+### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg -->
+
+The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
+
+### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
+*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
+
+Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
+
+### [Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?](https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html)
+*Radio Free Europe / Liberty* - Oct 17, 13:06 IST (iso: 2026-10-17T07:36:00+00:00)
+<!-- image: https://gdb.rferl.org/db941d25-4d5f-4408-7599-08df13a869ed_w1200_h630.jpg -->
+
+Iran's government has survived war, economic crisis, and mass protests. Vahid Pourostad attributes this resilience to entrenched power networks. The opposition remains fractured and unable to mount a unified challenge. The Islamic republic continues to hold power despite severe internal and external pressure. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing?
+
+### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
+*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
+
+Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
+
+---
+
 ## Europe & Russia
 
-### [Trump Defends Russia Sanctions Waivers, Zelenskyy Warns Of Impact](https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html)
+### [Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks](https://news.un.org/feed/view/en/story/2026/10/1168620)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image770x420cropped.jpg -->
+
+UN officials at the Yerevan Biodiversity Conference warned that ongoing biodiversity losses threaten the prosperity of billions. They urged nations to take urgent action to protect the planet and secure future economic stability. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.
+
+### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
+*The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
+<!-- image: https://i.guim.co.uk/img/media/70eac97d7dd3289ac3b0e22b1638ee5d18d2b9fa/733_0_5413_4333/master/5413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e30bdf7a1381872da21cdda4a14abc20 -->
+
+Hurricane Trudy weakened to a tropical storm after threatening Mexico's Pacific coast. The system remained 160 kilometers southwest of the shore. Meanwhile, deadly floods in Greece killed one person. The Pacific season saw 22 named systems this year. Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system.
+
+### [Rubio Vows To Keep Pushing For Ukraine Peace, Seeks Deeper US Ties In Central Asia](https://www.rferl.org/a/rubio-ukraine-peace-us-ties-central-asia/33879304.html)
+*Radio Free Europe / Liberty* - Oct 19, 14:59 IST (iso: 2026-10-19T09:29:21+00:00)
+<!-- image: https://gdb.rferl.org/31f8d64c-ecef-4597-4b88-08df13aec0bb_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Marco Rubio stated the United States will continue pushing for a Ukraine peace deal. He warned the conflict risks escalating beyond Russia and Ukraine. The Secretary of State made these remarks while meeting Central Asian officials in Uzbekistan. US Secretary of State Marco Rubio said Washington would continue efforts to end Russia's war against Ukraine, warning that the conflict risks escalating beyond the two countries as he met with Central Asian officials in Uzbekistan.
+
+### [Trump Defends Russia Sanctions Waivers, Zelenskyy Says Kyiv Attacked Without Early Warning From](https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html)
 *Radio Free Europe / Liberty* - Oct 19, 04:22 IST (iso: 2026-10-18T22:52:20+00:00)
 <!-- image: https://gdb.rferl.org/64b2e613-1a72-4d4e-ba1b-94bd8cba2843_w1200_h630.jpg -->
 
@@ -76,18 +140,6 @@ Downing Street confirmed the UK may impose tariffs on Chinese electric vehicles 
 
 Russia continues quiet mobilization to replace losses in Ukraine. The Kremlin avoided a formal national draft order after recent elections. Coercive recruiting tactics persist across the country. Military forces remain depleted despite ongoing combat operations. Many Russians feared the Kremlin would order a new mobilization after last month’s elections: to replenish decimated forces fighting in Ukraine. That hasn’t happened. But creative and coercive recruiting tactics – called “quiet” or “creeping” mobilization by some – continue nationwide.
 
-### [Russia's Shadow War On NATO Is 'Bound To Intensify'](https://www.rferl.org/a/russia-shadow-war-nato-europe-christopher-walker-cepa/33877174.html)
-*Radio Free Europe / Liberty* - Oct 16, 17:28 IST (iso: 2026-10-16T11:58:20+00:00)
-<!-- image: https://gdb.rferl.org/6a3ae109-c01c-4d0e-4ad7-08df13aec0bb_cx24_cy7_cw63_w1200_h630.jpg -->
-
-Russia's shadow war against NATO involves drone incursions, sabotage, and assassination attempts. Christopher Walker of the Center for European Policy Analysis says the campaign is approaching a crucial point. The strategy has largely backfired by drawing a resolute response. He predicts the conflict will continue to intensify. Russia's shadow campaign of drone incursions, sabotage, and assassination attempts in NATO countries has largely backfired by drawing a resolute response but is approaching a "crucial point," Christopher Walker, vice president of the Center for European Policy Analysis, tells RFE/RL.
-
-### [Zelenskyy Says US Diesel Deal Will Put Money 'Straight Into Putin's Pocket'](https://www.rferl.org/a/us-senators-probe-starlink-zelenskyy-eu-summit/33877820.html)
-*Radio Free Europe / Liberty* - Oct 16, 15:12 IST (iso: 2026-10-16T09:42:58+00:00)
-<!-- image: https://gdb.rferl.org/d084528b-2136-4827-9ee6-85616994cf0b_cx0_cy2_cw0_w1200_h630.jpg -->
-
-Nine US senators requested an investigation into satellite system disruptions affecting Ukraine’s military. The bipartisan group acted as European officials rallied around Kyiv. This occurred after President Trump again criticized Ukrainian President Volodymyr Zelenskyy during the EU summit. A bipartisan group of nine US senators has called for an investigation into disruptions to satellite systems supporting Ukraine's military as European officials rallied around Kyiv after President Donald Trump again attacked his Ukrainian counterpart Volodymyr Zelenskyy.
-
 ### [The world is waging a ‘war on nature’ as progress on biodiversity targets lags](https://news.un.org/feed/view/en/story/2026/10/1168607)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-08-2021-UNDP-Myanmar-livelihoods.jpg/image560x340cropped.jpg -->
@@ -98,79 +150,27 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 ## Americas
 
-### [Inside the New York ‘time machine’ racing to save a century of sound and film](https://news.un.org/feed/view/en/story/2026/10/1168608)
-*UN News* - Oct 18, 17:30 IST (iso: 2026-10-18T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image770x420cropped.jpg -->
-
-Rhony Dostaly works in a basement beneath Lincoln Center, where he rescues a century of sound and film recordings. The media preservation engineer describes his job as operating a time machine, grabbing elements from the past to make them available for modern audiences. He focuses on restoring fragile media that would otherwise be lost to decay. This effort preserves historical audio and video archives for future generations.
-
 ### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
 *The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
 <!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
 
 Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
 
-### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
-*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
-<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
-
-Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
-
----
-
-## Middle East & Africa
-
-### [Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
-*The Guardian* - Oct 18, 14:30 IST (iso: 2026-10-18T09:00:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/99c40d26cbdbdca2b0abb4f3ee9ba91e4e235c6a/625_0_4419_3535/master/4419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b18e4e307d53bcc32f3592e6969df8b6 -->
-
-A high-energy, ad-libbed vocal style known as hyping has become a defining feature of Afrobeats performances. This approach relies on improvisation and direct audience interaction rather than rigid lyrical structures. The trend gained traction through social media clips that highlight performers' ability to command large crowds. Artists now use these spontaneous quips to build momentum during live shows. The style has shifted audience expectations from passive listening to active participation.
-
-### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
-*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
-
-Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
-
-### [Sanctions, War, Isolation: Why Hasn't Iran's Hard-Line Government Collapsed?](https://www.rferl.org/a/iran-islamic-republic-protests-opposition/33878108.html)
-*Radio Free Europe / Liberty* - Oct 17, 13:06 IST (iso: 2026-10-17T07:36:00+00:00)
-<!-- image: https://gdb.rferl.org/db941d25-4d5f-4408-7599-08df13a869ed_w1200_h630.jpg -->
-
-Iran's government has survived war, economic crisis, and mass protests. Vahid Pourostad attributes this resilience to entrenched power networks. The opposition remains fractured and unable to mount a unified challenge. The Islamic republic continues to hold power despite severe internal and external pressure. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing?
-
-### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
-*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image770x420cropped.jpg -->
-
-Drone strikes are killing civilians across El Obeid and Blue Nile. Famine risk is spreading through Darfur and Kordofan. The Security Council met to address the world's largest hunger and displacement crisis. Ambassadors pressed for a ceasefire, safe aid access, and a halt to weapons flows. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
-
-### [LGBTQ+ people go into hiding in Senegal as hundreds are arrested](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
-*The Guardian* - Oct 15, 13:30 IST (iso: 2026-10-15T08:00:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d08247e565b832f183d37b676fe7def25b19c25/213_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9fbf1d37911cfb1c25251335e79fc351 -->
-
-Senegal authorities detained more than 320 LGBTQ+ individuals since February after the government tightened its law criminalising homosexuality. The arrests triggered forced HIV testing and limited access to legal representation, according to a Human Rights Watch report. The crackdown signals a broader clamp At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ people in Senegal, according to a new report. More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February, accor.
-
 ---
 
 ## Global / Multilateral
-
-### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
-*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
-
-The United Nations issued a report warning that brain data collected by consumer devices could serve as legal evidence against individuals. The document highlights that neurotechnology is advancing faster than existing human rights protections. Current laws do not adequately address the privacy risks of neural data. The UN called for new limits to prevent misuse of these signals in judicial proceedings.
 
 ### [AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168604)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-09-2024-UNICEF-India.jpg/image560x340cropped.jpg -->
 
 A new UN report warns that rapid economic shifts risk leaving vulnerable communities behind. Artificial intelligence and renewable energy transitions are reshaping global economies. These changes create new opportunities but also threaten to deepen socio-economic inequalities. The report highlights the need for inclusive policy frameworks. Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportunities but also threatening to deepen socio-economic inequalities, a new UN report warned on Thursday.
+
+### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
+*UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image560x340cropped.jpg -->
+
+The United Nations issued a report warning that brain data collected by consumer devices could serve as legal evidence against individuals. The document highlights that neurotechnology is advancing faster than existing human rights protections. Current laws do not adequately address the privacy risks of neural data. The UN called for new limits to prevent misuse of these signals in judicial proceedings.
 
 ---
 

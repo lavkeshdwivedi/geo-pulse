@@ -1,154 +1,58 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 19, 2026 12:54 IST
-
----
-
-## एशिया-प्रशांत
-
-### [सिर्फ 5 मिनट में जीतें 5,000 रुपये, 30 अक्तूबर से पहले ऐसे करें ऑनलाइन आवेदन](https://www.amarujala.com/education/jago-grahak-jago-quiz-2026-registration-open-win-rs-5000-apply-online-before-october-30-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:50 IST (iso: 2026-10-19T07:20:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/jago-grahak-jago-quiz-2026_d44c1bce83bafe82f1992848faa0b9cf.jpeg?w=1200&dpr=1.0 -->
-
-जागो ग्राहक जागो क्विज 2026 के लिए ऑनलाइन पंजीकरण शुरू हो गया है। भारत के नागरिक उपभोक्ता अधिकारों और शिकायत निवारण से जुड़े प्रश्नों का उत्तर देकर 5,000 रुपये जीत सकते हैं। आवेदन 30 अक्टूबर तक खुले रहेंगे। भारत का कोई भी नागरिक इस प्रश्नोत्तरी में हिस्सा लेकर उपभोक्ता अधिकारों, शिकायत निवारण और सरकारी पहलों की जानकारी बढ़ा सकता है।
-
-### [कैसी है अभिनेता की हालत, कार पर कितनी चलीं गोलियां? जानें कब-कहां हुई वारदात](https://www.amarujala.com/entertainment/tiger-shroff-firing-case-updates-actor-health-full-details-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:38 IST (iso: 2026-10-19T07:08:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/taigara-sharafa_b091a32e8a16d8e6c3f0d88e55d4af3b.jpeg?w=1200&dpr=1.0 -->
-
-रविवार शाम मुंबई में बॉलीवुड अभिनेता टाइगर श्रॉफ पर जानलेवा हमला हुआ। वे इस घटना में बाल-बाल बच गए। पुलिस ने कार पर गोलियां चलने की पुष्टि की है। अभिनेता की हालत स्थिर है। बॉलीवुड अभिनेता टाइगर श्रॉफ पर रविवार शाम मुंबई में जानलेवा हमला हुआ, जिसमें वे बाल-बाल बच गए। अब एक्टर कैसे हैं, यह हमला किस जगह हुआ।
-
-### [लॉरेंस बिश्नोई को ‘साहब’ कहने पर घिरी दिल्ली पुलिस: दिपके ने उठाए सवाल, पूछा- गैंगस्टरों के लिए](https://www.amarujala.com/india-news/delhi-police-under-fire-addressing-lawrence-bishnoi-as-sahab-dipke-raises-question-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:35 IST (iso: 2026-10-19T07:05:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/abhajata-thapaka-sajapa-ka-sasathapaka_e91398e067838519da9bb1eab5aa0885.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली पुलिस पर लॉरेंस बिश्नोई को 'साहब' कहने का सवाल उठा। दिपके ने गैंगस्टरों के लिए इतने सम्मान का कारण पूछा। लॉरेंस बिश्नोई को ‘साहब’ कहने पर घिरी दिल्ली पुलिस: दिपके ने उठाए सवाल, पूछा- गैंगस्टरों के लिए इतना सम्मान?
-
-### [वरिष्ठ भाजपा नेता लालकृष्ण आडवाणी को अस्पताल से मिली छुट्टी, सीने में संक्रमण की वजह से हुए थे](https://www.amarujala.com/india-news/veteran-bjp-leader-lk-advani-discharged-from-apollo-hospital-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:24 IST (iso: 2026-10-19T06:54:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/bhajapa-nata-llkashhanae-aadavanae_090306ea877d2b4e2847b787150eb956.jpeg?w=1200&dpr=1.0 -->
-
-वरिष्ठ भाजपा नेता लालकृष्ण आडवाणी को अस्पताल से छुट्टी मिली। वे सीने में संक्रमण के कारण भर्ती थे। दिल्ली: वरिष्ठ भाजपा नेता लालकृष्ण आडवाणी को अस्पताल से मिली छुट्टी, सीने में संक्रमण की वजह से हुए थे भर्ती? veteran bjp leader lk advani discharged from apollo hospital।
-
-### [पति ने काम पर जाने का किया नाटक, घर में प्रेमी संग पत्नी को देख खोया आपा, फिर जो हुआ...](https://www.amarujala.com/bizarre-news/husband-pretends-to-go-to-work-catches-wife-with-her-lover-at-home-in-viral-video-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:07 IST (iso: 2026-10-19T06:37:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/cana-ma-patana-ka-parama-saga-raga-hatha-pakaugdhana-pahaca-pata_4c1a15e85fdda96576bd709e50b44deb.jpeg?w=1200&dpr=1.0 -->
-
-सोशल मीडिया पर चीन का वीडियो वायरल हुआ। उसमें पत्नी को प्रेमी के साथ पकड़ने का दृश्य दिखा। चीन का बताकर सोशल मीडिया पर वायरल हो रहे एक वीडियो में पति अपनी पत्नी को उसके प्रेमी के साथ पकड़ता नजर आ रहा है।
-
-### [छात्रों को मिलेगा सस्ता आवास, खाली स्टाफ क्वार्टर बनेंगे छात्रावास; दो नवंबर से मिल सकते हैं कमरे](https://www.amarujala.com/education/delhi-university-plans-to-convert-vacant-staff-quarters-into-hostels-for-students-six-units-ready-2026-10-19)
-*Amar Ujala National* - Oct 19, 11:58 IST (iso: 2026-10-19T06:28:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/delhi-university_e17c2f64cdbe27cb1e3dd5c2ae6ade9f.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली विश्वविद्यालय दूसरे राज्यों से आने वाले विद्यार्थियों के लिए खाली स्टाफ क्वार्टर को छात्रावास में बदल रहा है। पोस्ट ग्रेजुएट पुरुष छात्रावास में छह क्वार्टर का नवीनीकरण पूरा हो चुका है। दिल्ली विश्वविद्यालय दूसरे राज्यों से आने वाले विद्यार्थियों को सस्ता आवास उपलब्ध कराने के लिए खाली स्टाफ क्वार्टर को छात्रावास में बदलने की तैयारी कर रहा है। छात्रों को मिलेगा सस्ता आवास, खाली स्टाफ क्वार्टर बनेंगे छात्रावास; दो नवंबर से मिल सकते हैं कमरे।
-
----
-
-## यूरोप और रूस
-
-### [सोसायटी में फ्लैट खरीदने से पहले सिर्फ घर मत देखें, ये 4 जगहें भी देखकर आएं](https://www.amarujala.com/photo-gallery/utility/8-places-to-check-before-buying-a-flat-in-a-housing-society-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:49 IST (iso: 2026-10-19T07:19:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/falta-kharathata-samaya-kaya-caja-thakha_ac37a95ed293ac96c7df2cf37136c0c9.jpeg?w=1200&dpr=1.0 -->
-
-सोसायटी में फ्लैट खरीदने से पहले पार्किंग, पानी, सुरक्षा और लिफ्ट की स्थिति जांचना जरूरी है। केवल घर की बनावट और कीमत पर ध्यान देना पर्याप्त नहीं है। आसपास की सुविधाओं का मूल्यांकन भी आवश्यक है। सोसायटी में फ्लैट खरीदते समय सिर्फ घर की बनावट, कमरों और कीमत पर ध्यान देना काफी नहीं है। पार्किंग, पानी, सुरक्षा, लिफ्ट और आसपास की सुविधाओं को चेक करना भी जरूरी है।
-
-### [सलमान के दोस्तों पर 8 साल से हमले, लॉरेंस बिश्नोई गैंग का अगला टारगेट कौन?](https://www.amarujala.com/video/india-news/salman-khan-friends-targeted-since-8-years-by-lawrence-bishnoi-gang-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:21 IST (iso: 2026-10-19T06:51:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/salman-khan_cef39e8b38079acb7907676fb3ba89f9.jpeg?w=1200&dpr=1.0 -->
-
-लॉरेंस बिश्नोई गैंग ने सलमान खान के दोस्तों को टारगेट करने की धमकी दी। टाइगर श्रॉफ पर हमले के बाद यह ऑडियो जारी हुई। टाइगर श्रॉफ पर हमले के बाद लॉरेंस बिश्नोई गैंग ने एक ऑडियो जारी करके बताया कि जो भी सलमान के साथ रहेगा उसको टारगेट कर लेंगे। लेकिन क्या वाकई लॉरेंस गैंग ने इससे पहले भी सलमान के करीबियों को टारगेट किया है।
-
-### [स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना](https://www.amarujala.com/world/starlink-satellite-internet-dependence-national-security-zelensky-allegation-us-donald-trump-why-concern-india-2026-10-19)
-*Amar Ujala World* - Oct 19, 12:21 IST (iso: 2026-10-19T06:51:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/starlink_7b1192c29e2da4cef3d59ab7e3bacacb.jpeg?w=1200&dpr=1.0 -->
-
-जेलेंस्की के आरोपों ने स्टारलिंक की सुरक्षा को लेकर बहस छेड़ी। भारत ने इस पर सख्त रुख अपनाया है। स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना।
-
-### [10 साल बाद पाकिस्तान जाएंगे मालदीव के राष्ट्रपति, शहबाज शरीफ से मुलाकात करेंगे मुइज्जू, भारत की](https://hindi.news18.com/world/pakistan-maldives-president-muhammad-muizzu-pakistan-visit-india-security-concerns-10920260.html)
-*News18 Hindi (World)* - Oct 19, 12:13 IST (iso: 2026-10-19T06:43:37+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/muizzu-2026-10-6f4224ecbbb3109488443f4cf6fab98d-1200x800.jpg -->
-
-मालदीव के राष्ट्रपति मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान जाएंगे। यह दशक बाद पहली यात्रा है। वे शरीफ और जरदारी से मिलेंगे। मालदीव के राष्ट्रपति मोहम्मद मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान के दौरे पर रहेंगे. यह एक दशक बाद मालदीव के किसी राष्ट्रपति की पाकिस्तान यात्रा है. मुइज्जू प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी से मुलाकात करेंगे.
-
-### [फ्रांस हिंसा के बीच इंटीरियर मिनिस्टर ने की इस्तीफे की पेशकश, राष्ट्रपति मैक्रों ने ठुकराया](https://www.patrika.com/world-news/france-riots-president-macron-rejects-interior-minister-resignation-20994462)
-*Patrika (World)* - Oct 19, 11:44 IST (iso: 2026-10-19T06:14:19+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/france-interior-minister-with-president.webp -->
-
-फ्रांस में हिंसा के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने इस्तीफे की पेशकश की, जिसे राष्ट्रपति मैक्रों ने ठुकरा दिया। एलीसी पैलेस ने सोमवार को इस बात की पुष्टि की। France riots: फ्रांस में भड़की हिंसा और आगजनी के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने सुरक्षा बलों की विफलता की जिम्मेदारी लेते हुए राष्ट्रपति इमैनुएल मैक्रों को अपने इस्तीफे की पेशकश की थी।
-
----
-
-## दुनिया
-
-### [सर्दियों में एसी को बनाएं एयर प्यूरीफायर: किस मोड पर इस्तेमाल करने से साफ होगी हवा? जानें सस्ता](https://www.amarujala.com/technology/tech-diary/how-to-use-your-ac-as-an-air-purifier-in-winter-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:46 IST (iso: 2026-10-19T07:16:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/use-your-ac-as-an-air-purifier-in-winter_13d4f8c4e4830253521afee6410035d1.jpeg -->
-
-सर्दियों में एसी को एयर प्यूरीफायर की तरह इस्तेमाल कर कमरे की हवा साफ की जा सकती है। इस प्रक्रिया का खर्च लगभग सौ रुपये आता है। यह विधि वायु प्रदूषण से बचाव का सस्ता विकल्प प्रदान करती है। सर्दियों में सिर्फ सौ रुपये में कमरे की हवा साफ की जा सकती है। आइए जानते हैं कि प्रदूषण से बचने के लिए एसी को एयर प्यूरीफायर की तरह कैसे इस्तेमाल किया जा सकता है।
-
-### [न स्मार्टवॉच, न फिटनेस बैंड; आ गया कनपटी पर पहनने वाला डिवाइस! 1 नवंबर से शुरू होगी बुकिंग, जानें](https://www.amarujala.com/technology/gadgets/deepinder-goyal-temple-wearable-pre-order-date-price-brainflow-colours-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:42 IST (iso: 2026-10-19T07:12:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/temple-wearable-device_d606c5ec40fd8215819369ab17e6f38c.jpeg -->
-
-जोमैटो के संस्थापक दीपिंदर गोयल ने कनपटी पर पहनने वाला हेल्थ-टेक डिवाइस 'टेंपल' लॉन्च किया है। यह डिवाइस दिमाग में रक्त प्रवाह को ट्रैक करता है। इसकी बुकिंग 1 नवंबर से शुरू होगी। Temple Wearable Device: जोमैटो के फाउंडर दीपिंदर गोयल एक अनोखा हेल्थ-टेक वियरेबल 'टेंपल' लेकर आ रहे हैं। स्मार्टवॉच से अलग, इस डिवाइस को कनपटी पर पहना जाता है, जो दिमाग में ब्लड फ्लो को ट्रैक करता है।
-
-### [गोवा में राहुल गांधी ने ज्ञानेश कुमार को घेरा, बेरोजगारी जैसे मुद्दे भी उठाए](https://www.amarujala.com/video/india-news/in-goa-rahul-gandhi-targeted-gyanesh-kumar-and-also-raised-issues-such-as-unemployment-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:16 IST (iso: 2026-10-19T06:46:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/rahul-gandhi_7b1adfb09269e778780c38efa6b2c72e.jpeg?w=1200&dpr=1.0 -->
-
-गोवा में राहुल गांधी ने ज्ञानेश कुमार से मुकाबला किया। उन्होंने बेरोजगारी जैसे मुद्दे उठाए। गोवा में राहुल गांधी ने ज्ञानेश कुमार को घेरा, बेरोजगारी जैसे मुद्दे भी उठाए।
-
-### [मां बनने के बाद थामी राइफल; चुनौतियों से लड़कर मोना ने इस तरह जीता एशियाड का स्वर्ण](https://www.amarujala.com/sports/who-is-mona-agarwal-from-childhood-polio-to-asian-para-games-gold-a-mother-s-inspiring-journey-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 12:15 IST (iso: 2026-10-19T06:45:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/asian-para-games-2026-para-shooting-mona-agarwal-gold-medal-avani-lekhara-mona-agarwal-paris_d70cd5fc875d27d7d6f1d825d40d8a02.jpeg?w=1200&dpr=1.0 -->
-
-सीकर की मोना अग्रवाल ने पोलियो के बावजूद एशियाड में स्वर्ण जीता। उन्होंने 2021 में निशानेबाजी शुरू की थी। राजस्थान के सीकर में जन्मी मोना अग्रवाल नौ महीने की उम्र में पोलियो से प्रभावित हो गई थीं। उन्होंने पैरा एथलेटिक्स और सिटिंग वॉलीबॉल के बाद दिसंबर 2021 में निशानेबाजी शुरू की। मां बनने के बाद थामी राइफल; चुनौतियों से लड़कर मोना ने इस तरह जीता एशियाड का स्वर्ण।
-
-### [दस नवंबर को शीतकाल के लिए बंद होंगे गंगोत्री धाम के कपाट, फिर मुखबा में होंगे मां गंगा के दर्शन](https://www.amarujala.com/uttarakhand/uttarkashi/gangotri-dham-temple-doors-to-close-on-november-10-at-12-05-pm-for-winter-uttarakhand-news-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 12:10 IST (iso: 2026-10-19T06:40:53+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/11/gangotri-dham_f5906c72d280d5ce02332d22e5fc687f.jpeg?w=1200&dpr=1.0 -->
-
-गंगोत्री धाम के कपाट 10 नवंबर को दोपहर 12:05 बजे बंद होंगे। शीतकाल के लिए दर्शन स्थल बंद रहेगा। विश्व प्रसिद्ध गंगोत्री धाम के कपाट आगामी 10 नवंबर को दोपहर 12 बजकर पांच मिनट पर शीतकाल के लिए बंद कर दिए जाएंगे। दस नवंबर को शीतकाल के लिए बंद होंगे गंगोत्री धाम के कपाट, फिर मुखबा में होंगे मां गंगा के दर्शन।
-
-### ['सुरक्षा को नहीं दी गई प्राथमिकता': दुर्गा पूजा पंडाल में भगदड़ पर ममता गुट का सवाल, कौन से असली](https://www.amarujala.com/india-news/mamata-tmc-questions-government-over-chorbagan-puja-stampede-and-awards-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:03 IST (iso: 2026-10-19T06:33:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/mamata-bnaraja-parava-makhayamatara-pashacama-bgal_b9cfea7c34be51f5aecf34cd404dca0e.jpeg?w=1200&dpr=1.0 -->
-
-तृणमूल कांग्रेस ने चोरबागन भगदड़ पर सरकार को घेर लिया। ममता बनर्जी ने सुरक्षा की प्राथमिकता पर सवाल उठाया। 'सुरक्षा को नहीं दी गई प्राथमिकता': दुर्गा पूजा पंडाल में भगदड़ पर ममता गुट का सवाल, कौन से असली गुनहगार?
-
-### [मनस्वी की कहानी, जो बेटियों को अपने सपने जीना सिखाती है](https://www.amarujala.com/columns/blog/dr-manasvi-agarwal-first-civilian-woman-from-rajasthan-to-successfully-summit-mount-everest-in-may-2026-2026-10-19)
-*Amar Ujala National* - Oct 19, 12:03 IST (iso: 2026-10-19T06:33:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/da-manasava-agaraval_7230dbe0ab7c4298568a4dbea6ced724.jpeg?w=1200&dpr=1.0 -->
-
-मनस्वी की कहानी माता-पिता को बेटियों की सुरक्षा और स्वतंत्रता के बीच संतुलन बनाने पर विचार करने का अवसर देती है। यह कहानी घरों में बच्चों के भविष्य और पसंदों को लेकर चर्चा को प्रोत्साहित करती है। मनस्वी की कहानी परिवारों को भी अपने नजरिए पर विचार करने का अवसर देती है। माता-पिता बच्चों की सुरक्षा और भविष्य को लेकर चिंतित रहते हैं।
-
-### [मृत साथी की याद में दफन स्थल पर पहुंचा 25 हाथियों का दल, बांधवगढ़ से 30 और हाथियों के आने से हलचल](https://www.amarujala.com/madhya-pradesh/a-remarkable-bond-25-elephants-visit-dead-companion-s-burial-site-as-30-more-arrive-from-bandhavgarh-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 11:22 IST (iso: 2026-10-19T05:52:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2026/04/03/kataranayaghata-vanakashhatara-ma-hathaya-ka-jhada-fail-fata_5aef3bbc626f50f751d3e410a59b7518.jpeg?w=1200&dpr=1.0 -->
-
-चंदौली में बिजली से मरे हाथी के दफन स्थल पर 25 हाथियों का दल पहुंचा। डीएफओ ने बताया कि यह दल अपने साथी की याद में आया था। चंदौली में करंट से हाथी की मौत के बाद उसके दफन स्थल पर 25 हाथियों का दल पहुंचा और कुछ देर रुकने के बाद आगे बढ़ गया। डीएफओ के मुताबिक हाथियों का यह दल अपने साथी की याद में यहां पहुंचा था।
-
-### ['यह क्या हो रहा है', हमले की खबर सुनकर हैरान हुए शत्रुघ्न सिन्हा, सुरक्षा को लेकर जताई चिंता](https://www.amarujala.com/entertainment/shatrughan-sinha-reacts-tiger-shroff-firing-incident-calls-it-shocking-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 11:08 IST (iso: 2026-10-19T05:38:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/shataraghana-sanaha_cc1f450a7b5a411be5df8e8ef63fb7e7.jpeg?w=1200&dpr=1.0 -->
-
-शत्रुघ्न सिन्हा ने टाइगर श्रॉफ पर फायरिंग की घटना पर प्रतिक्रिया दी। उन्होंने अपने पोस्ट में सुरक्षा व्यवस्था को लेकर गंभीर चिंता जताई। शत्रुघ्न सिन्हा ने टाइगर श्रॉफ पर हुई फायरिंग की घटना को लेकर प्रतिक्रिया देते हुए एक पोस्ट किया और उसमें सुरक्षा को लेकर चिंता जाहिर की है। 'यह क्या हो रहा है', हमले की खबर सुनकर हैरान हुए शत्रुघ्न सिन्हा, सुरक्षा को लेकर जताई चिंता।
-
-### [225 की रफ्तार वाली आफत गई तो 155 KMPH की स्‍पीड से आई नई मुसीबत, घर-मकान सब उड़ जाएंगे, दहशत से](https://hindi.news18.com/world/rest-of-world-hurricane-trudy-category-2-storm-155-kmph-wind-speed-lashed-mexico-pacific-coast-enormous-destruction-international-weather-10919647.html)
-*News18 Hindi (World)* - Oct 19, 10:46 IST (iso: 2026-10-19T05:16:06+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Hurricane-Trudy-2026-10-4b747d99c37ded0f6cdf98f02134920d-1200x800.jpg -->
-
-अल नीनो के प्रभाव से समुद्री तापमान बढ़ने से तूफानों की संभावना बढ़ी है। दक्षिण पूर्व एशिया और प्रशांत तटों पर पिछले तीन महीनों में कई तूफान आए। मौसम विज्ञानियों ने इसके कई दुष्‍प्रभाव बताए हैं. अल नीनो की वजह से समंदर की सत‍ह सामान्‍य से काफी गर्म हो जाती है. वेदर एक्‍सपर्ट की मानें तो मौसम में इस बदलाव की वजह से बेहद शक्तिशाली तूफान आने की आशंका भी बढ़ गई है.
-
-### ['पर्दे के पीछे के आकाओं को भी नहीं छोड़ेंगे': टाइगर श्रॉफ फायरिंग मामले पर बोले सीएम फडणवीस, और](https://www.amarujala.com/india-news/tiger-shroff-firing-case-devendra-fadnavis-assure-accused-arrest-police-lawrence-bishnoi-gang-anil-pandit-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 10:43 IST (iso: 2026-10-19T05:13:33+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/devendra-fadnavis_64430105a0b2fc0fc7ddf760d8a00ab3.jpeg?w=1200&dpr=1.0 -->
-
-महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस ने टाइगर श्रॉफ फायरिंग मामले में आरोपियों की गिरफ्तारी का आश्वासन दिया। उन्होंने पर्दे के पीछे के आकाओं को भी नहीं छोड़ने का वादा किया। 'पर्दे के पीछे के आकाओं को भी नहीं छोड़ेंगे': टाइगर श्रॉफ फायरिंग मामले पर बोले सीएम फडणवीस, और क्या कहा?
+**अपडेट:** October 19, 2026 20:35 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [होर्मुज स्ट्रेट में असुरक्षा और तनाव के लिए ईरान ने अमेरिका को ठहराया ज़िम्मेदार](https://www.patrika.com/world-news/iran-blames-us-for-insecurity-and-tensions-in-strait-of-hormuz-20995858)
+*Patrika (World)* - Oct 19, 20:05 IST (iso: 2026-10-19T14:35:15+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi-.webp -->
+
+ईरान ने होर्मुज स्ट्रेट में बढ़ते तनाव के लिए अमेरिका को ज़िम्मेदार ठहराया। ट्रंप ने इस जलमार्ग को अपने नाम पर बुलाकर अमेरिकी नियंत्रण का दावा किया। ईरान ने इस दावे को खारिज करते हुए क्षेत्रीय सुरक्षा के लिए अमेरिकी हस्तक्षेप को मुख्य कारण बताया। इस रणनीतिक जलमार्ग पर हमेशा से ही ईरान का कंट्रोल रहा है, लेकिन अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) पिछले कुछ समय से इसे ‘ट्रंप स्ट्रेट’ (Strait of Trump) बता रहे हैं और दावा कर रहे हैं कि इस पर अमेरिकी नेवी का कंट्रोल है।
+
+### [ईरानी विदेश मंत्री अब्बास अराघची ने इज़रायल के विस्तार को बताया खतरनाक, रोकने की उठाई मांग](https://www.patrika.com/world-news/abbas-araghchi-calls-for-dangerous-expansion-of-israel-to-be-stopped-20995788)
+*Patrika (World)* - Oct 19, 19:32 IST (iso: 2026-10-19T14:02:55+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp -->
+
+ईरानी विदेश मंत्री अब्बास अराघची ने इज़रायल के विस्तार को खतरनाक बताया। उन्होंने दावा किया कि इज़रायल फिलिस्तीन और लेबनान में सैन्य कार्रवाई के बहाने इलाकों पर कब्ज़ा कर रहा है। अराघची ने इस विस्तारवादी नीति को तुरंत रोकने की मांग उठाई है। ईरान (Iran) के विदेश मंत्री अब्बास अराघची (Abbas Araghchi) ने हाल ही में इज़रायल (Israel) के विस्तार पर बयान देते हुए इसे खतरनाक बताया।
+
+### [यहूदी नेताओं को मारने की योजना, जर्मनी ने ईरान के राजदूत को किया तलब](https://www.patrika.com/world-news/germany-summons-iran-ambassador-jewish-leaders-assassination-plot-20995664)
+*Patrika (World)* - Oct 19, 18:21 IST (iso: 2026-10-19T12:51:01+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/germanychancellor.webp -->
+
+जर्मनी ने ईरानी राजदूत को तलब किया है। अदालत ने दो लोगों को जेल दिया जो यहूदी नेताओं की हत्या की साजिश रच रहे थे। जर्मन सरकार का कहना है कि यह साजिश ईरान की तरफ से रची गई थी। पिछले हफ्ते जर्मनी की अदालत ने दो लोगों को जेल की सजा सुनाई है। ये लोग जर्मनी में यहूदी समुदाय के प्रमुख नेताओं की हत्या की योजना बना रहे थे।
+
+### [यमनी सेना ने हूती विद्रोहियों पर किया हमला, वाहनों और हथियारों को भी बनाया निशाना](https://www.patrika.com/world-news/yemen-army-attack-houthis-in-al-aqroudh-al-shaqab-and-al-sarari-south-of-taiz-20995504)
+*Patrika (World)* - Oct 19, 17:34 IST (iso: 2026-10-19T12:04:27+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/yemen-army-airstrikes.webp -->
+
+यमनी सेना ने हूती विद्रोहियों के ठिकानों पर हमला किया। वाहनों और हथियारों को निशाना बनाया गया। यह कार्रवाई हूतियों के ट्रेनिंग कैंप पर हमले के जवाब में हुई। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग बढ़ी ही जा रही है। दोनों पक्ष लगातार एक-दूसरे के ठिकानों पर हमले कर रहे हैं। आज हूतियों ने यमनी सेना और पुलिस के ट्रेनिंग कैंप पर हमला किया, जिसमें कई सैनिक और पुलिसकर्मी मारे गए।
+
+### [लेबनान के करीब पांचवें हिस्से तक कब्जा, दर्जनों गांव तबाह, इजराइल से परेशान हुए लेबनानी राष्ट्रपति](https://www.patrika.com/world-news/lebanon-president-israel-occupation-southern-lebanon-framework-agreement-20995461)
+*Patrika (World)* - Oct 19, 17:10 IST (iso: 2026-10-19T11:40:45+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/netanyahu_-.webp -->
+
+लेबनान के राष्ट्रपति जोसेफ आउन ने इजराइल पर फ्रेमवर्क समझौते का उल्लंघन करने का आरोप लगाया। दक्षिणी लेबनान में रोजाना हो रहे हमले सरकार के लिए मुश्किलें बढ़ा रहे हैं। लेबनान के राष्ट्रपति जोसेफ आउन अब इजराइल से तंग आ चुके हैं। उन्होंने कहा है कि इजराइल जून में हुए फ्रेमवर्क समझौते का पालन नहीं कर रहा। राष्ट्रपति ने कहा कि दक्षिणी लेबनान में रोजाना हो रहे उल्लंघन लेबनानी सरकार के लिए मुश्किलें बढ़ा रहे हैं।
+
+### [इज़रायली सेना ने मार गिराए 3 हमास आतंकी](https://www.patrika.com/world-news/israel-army-eliminates-three-hamas-terrorists-20995374)
+*Patrika (World)* - Oct 19, 16:59 IST (iso: 2026-10-19T11:29:52+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/israel-strike-on-gaza.webp -->
+
+इजरायली सेना ने गाज़ा में तीन हमास आतंकियों को मार गिराया। यह कार्रवाई जारी युद्ध के दौरान हुई। सेना लगातार फिलिस्तीनी इलाकों पर हमले कर रही है। इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच गाज़ा (Gaza) में युद्ध जारी है। हमास को खत्म करने के लिए इज़रायली सेना गाज़ा और आसपास के फिलिस्तीनी इलाकों पर लगातार हमले कर रही है।
+
+### [यमन में सेना के ट्रेनिंग कैंप पर ईरान समर्थित हूतियों का बड़ा हमला, 18 जवानों की मौत](https://www.patrika.com/world-news/houthis-attack-on-yemen-army-training-camp-18-dead-20995145)
+*Patrika (World)* - Oct 19, 15:35 IST (iso: 2026-10-19T10:05:15+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Yemen-Houthis-Revenue-Sources.webp -->
+
+यमन के शबवा प्रांत में हूतियों ने सेना के ट्रेनिंग कैंप पर हमला किया। 18 जवानों की मौत हो गई। यह घटना सोमवार को हुई। येमन के शबवा प्रांत में सोमवार को ईरान समर्थित हूतियों ने बड़ा हमला कर दिया। इसमें 18 जवानों की जान चली गई है। यह हमला यमन में सेना के एक ट्रेनिंग कैंप पर हुआ। यमन में सेना के ट्रेनिंग कैंप पर ईरान समर्थित हूतियों का बड़ा हमला, 18 जवानों की मौत।
+
+### [होर्मुज स्ट्रेट में एक और तेल के जहाज में हुआ धमाका, अवैध रास्ते पर समुदी बारूदी सुरंग से टकराने पर](https://www.patrika.com/world-news/another-oil-tanker-explodes-in-strait-of-hormuz-after-hitting-naval-mine-20995056)
+*Patrika (World)* - Oct 19, 15:06 IST (iso: 2026-10-19T09:36:27+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/ship-accident-in-hormuz.webp -->
+
+ईरान की आईआरजीसी ने कहा कि होर्मुज स्ट्रेट में अवैध मार्ग से गुजरते एक तेल जहाज ने समुद्री बारूदी सुरंग से टक्कर मारी। इससे जहाज में धमाका हुआ और आग लग गई। होर्मुज स्ट्रेट (Strait of Hormuz) में एक और तेल का जहाज समुदी बारूदी सुरंग का शिकार बन गया है। ईरान (Iran) की आईआरजीसी – इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC – Islamic Revolutionary Guard Corps) ने जानकारी दी कि अवैध रास्ते से गुज़र रहे तेल के एक जहाज की समुदी बारूदी सुरंग से टक्कर हो गई, जिससे जहाज में धमाका हुआ और फिर आग लग गई।
 
 ### [भारत में फ्यूचर देख रहा अमेरिका के 'जिगर का छल्ला', खूब निभाई यारी, अब सता रहा कैसा डर?](https://hindi.news18.com/world/middle-east-israeli-pm-wants-alliances-with-india-latin-america-warns-of-potentially-hostile-future-us-president-ws-l-10920221.html)
 *News18 Hindi (World)* - Oct 19, 12:02 IST (iso: 2026-10-19T06:32:05+00:00)
@@ -164,13 +68,105 @@
 
 ---
 
-## वैश्विक / बहुपक्षीय
+## यूरोप और रूस
 
-### [कर्मचारियों के मुख्यालय छोड़ने पर होगी कार्रवाई, अब कर्तव्य एप से लगेगी हाजिरी](https://www.amarujala.com/india-news/karnataka-government-action-taken-against-employees-who-leave-headquarters-attendance-will-marked-via-app-2026-10-19)
-*Amar Ujala Breaking* - Oct 19, 11:39 IST (iso: 2026-10-19T06:09:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/daka-shavakamara-makhayamatara-karanataka_39ad7f4900e39d3c80094ed0196015bd.jpeg?w=1200&dpr=1.0 -->
+### [होर्मुज-लाल सागर की रूस-चीन को नहीं पड़ेगी जरूरत, बिना गोली समुद्री ताकत पलटने का प्लान, समझें](https://hindi.news18.com/world/china-russia-china-arctic-sea-route-maritime-trade-hormuz-red-sea-10921500.html)
+*News18 Hindi (World)* - Oct 19, 19:37 IST (iso: 2026-10-19T14:07:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/jinping-putin-1-2026-10-e7546eedfee9ab6e7e78cd62ce6d04c8-1200x800.jpg -->
 
-कर्नाटक सरकार ने कर्मचारियों के मुख्यालय छोड़ने पर कार्रवाई का फैसला लिया है। अब कर्तव्य एप के जरिए हाजिरी लगाने का नया नियम लागू होगा। कर्मचारियों के मुख्यालय छोड़ने पर होगी कार्रवाई, अब कर्तव्य एप से लगेगी हाजिरी।
+रूस और चीन समुद्री व्यापार के लिए वैकल्पिक नेटवर्क विकसित कर रहे हैं। पात्रुशेव की चीन यात्रा में आर्कटिक मार्ग और बंदरगाह निवेश पर सहयोग के प्रस्ताव आए। यह कदम होर्मुज और लाल सागर की रणनीतिक जलमार्गों पर निर्भरता घटाने की दिशा में है। Russia-China News: रूस और चीन समुद्री व्यापार के लिए वैकल्पिक नेटवर्क विकसित करने की दिशा में काम कर रहे हैं.
+
+### [पेरिस के दंगाइयों से निपटने का योगी आदित्यनाथ मॉडल, खूब मचाई तोड़-फोड़, लो तैयार हो गई वसूली की](https://hindi.news18.com/world/europe-up-cm-yogi-adityanath-riot-model-payback-formulae-on-paris-rioters-macron-announcement-over-france-protest-10920888.html)
+*News18 Hindi (World)* - Oct 19, 17:03 IST (iso: 2026-10-19T11:33:59+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/FRANE-UP-2026-10-6516b87ffc4a6ffbc808e2548018d497-1200x800.jpg -->
+
+पेरिस में दंगों के बाद फ्रांसीसी राष्ट्रपति ने नुकसान की वसूली का ऐलान किया। यह कदम उत्तर प्रदेश के सीएम योगी आदित्यनाथ के मॉडल पर आधारित है। Yogi Adityanath Treatment in Paris Riots: दंगाइयों से निपटने का यूपी के सीएम योगी आदित्यनाथ का प्लान इतना हिट हुआ कि अब यूरोप में भी इसे लागू किया जा रहा है. फ्रांस की राजधानी पेरिस में हुए बवाल के बाद अब राष्ट्रपति ने स्पष्ट शब्दों में कह दिया है कि हिसाब उन्हीं से लिया जाएगा, जिन्होंने नुकसान किया है.
+
+### [ग्रीक कोस्ट गार्ड के जहाज से टकराई प्रवासियों की नाव, 6 लोगों की मौत](https://www.patrika.com/world-news/6-people-killed-after-migrant-boat-collides-with-greek-coast-guard-vessel-20995102)
+*Patrika (World)* - Oct 19, 16:23 IST (iso: 2026-10-19T10:53:57+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/boat-accident.webp -->
+
+लेस्वोस के पास प्रवासियों की नाव और ग्रीक कोस्ट गार्ड जहाज की टक्कर हुई। छह लोगों की मौत हुई। मृतकों में चार पुरुष, एक महिला और एक शिशु शामिल हैं। सभी शव बरामद कर लिए गए। ग्रीस (Greece) के लेस्वोस आइलैंड (Lesvos Island) पास आज, सोमवार, 19 अक्टूबर को प्रवासियों की एक नाव और ग्रीक कोस्ट गार्ड के जहाज की जोर की टक्कर हो गई।
+
+### [स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना](https://www.amarujala.com/world/starlink-satellite-internet-dependence-national-security-zelensky-allegation-us-donald-trump-why-concern-india-2026-10-19)
+*Amar Ujala World* - Oct 19, 12:21 IST (iso: 2026-10-19T06:51:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/19/starlink_7b1192c29e2da4cef3d59ab7e3bacacb.jpeg?w=1200&dpr=1.0 -->
+
+जेलेंस्की के आरोपों ने स्टारलिंक की सुरक्षा को लेकर बहस छेड़ी। भारत ने इस पर सख्त रुख अपनाया है। स्टारलिंक सुरक्षा के लिए खतरा क्यों?: जेलेंस्की के आरोपों ने छेड़ी नई बहस, भारत यूं ही नहीं अपना।
+
+### [‘भारत-अमेरिका समझौते के बेहद करीब’, ट्रेड डील पर बोले मार्को रुबियो, रूसी तेल पर छूट की भी बताई वजह](https://www.patrika.com/world-news/marco-rubio-india-us-trade-deal-russian-oil-ukraine-war-20994548)
+*Patrika (World)* - Oct 19, 12:13 IST (iso: 2026-10-19T06:43:05+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/rubio-.webp -->
+
+अमेरिकी विदेश मंत्री मार्को रुबियो ने कहा कि भारत और अमेरिका द्विपक्षीय व्यापार समझौते को अंतिम रूप देने के बहुत करीब हैं। उन्होंने रूसी ऊर्जा पर लगे प्रतिबंधों की छूट का भी बचाव किया। India-US Trade Deal: अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत और अमेरिका के बीच द्विपक्षीय व्यापार और वैश्विक ऊर्जा आपूर्ति को लेकर एक महत्वपूर्ण बयान दिया है।
+
+### [फ्रांस हिंसा के बीच इंटीरियर मिनिस्टर ने की इस्तीफे की पेशकश, राष्ट्रपति मैक्रों ने ठुकराया](https://www.patrika.com/world-news/france-riots-president-macron-rejects-interior-minister-resignation-20994462)
+*Patrika (World)* - Oct 19, 11:49 IST (iso: 2026-10-19T06:19:54+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/france-interior-minister-with-president.webp -->
+
+फ्रांस में हिंसा के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने इस्तीफे की पेशकश की, जिसे राष्ट्रपति मैक्रों ने ठुकरा दिया। एलीसी पैलेस ने सोमवार को इस बात की पुष्टि की। France riots: फ्रांस में भड़की हिंसा और आगजनी के बाद इंटीरियर मिनिस्टर लॉरेंट नुनेज ने सुरक्षा बलों की विफलता की जिम्मेदारी लेते हुए राष्ट्रपति इमैनुएल मैक्रों को अपने इस्तीफे की पेशकश की थी।
+
+---
+
+## एशिया-प्रशांत
+
+### [ऑस्ट्रेलिया में सांसद को SUV से कुचलने की कोशिश? PM बोले- ‘यह हादसा नहीं’, आतंकी एंगल से जांच](https://hindi.news18.com/world/rest-of-world-australia-mp-helen-haines-car-attack-anthony-albanese-investigation-10921147.html)
+*News18 Hindi (World)* - Oct 19, 18:01 IST (iso: 2026-10-19T12:31:50+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/albanese-2-2026-10-d5c2a7cfddb13747c35a99aaf879ed52-1200x800.jpg -->
+
+ऑस्ट्रेलिया में सांसद हेलेन हेन्स को SUV से कुचलने की कोशिश की गई। वांगाराटा में घटना के बाद उन्हें गंभीर रूप से घायल किया गया। पीएम अल्बनीज ने इसे आतंकी घटना मानते हुए राष्ट्रीय जांच शुरू करवाई है। ऑस्ट्रेलिया के विक्टोरिया प्रांत के वांगाराटा में सांसद हेलेन हेन्स को उनके चुनावी जिला कार्यालय के बाहर टोयोटा लैंड क्रूजर एसयूवी ने टक्कर मार दी.
+
+### [चीन ने धरती से 400 KM ऊपर उगाया चावल, अंतरिक्ष में लहलहाई फसल, बिना मिट्टी तियांगोंग स्टेशन पर किया](https://hindi.news18.com/world/china-tiangong-space-station-rice-harvest-second-generation-experiment-400-km-above-earth-10921119.html)
+*News18 Hindi (World)* - Oct 19, 17:57 IST (iso: 2026-10-19T12:27:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/china-13-2026-10-b6ce9f54f848e13254569bcb3cb06657-1200x800.jpg -->
+
+चीन के तियांगोंग स्टेशन पर अंतरिक्ष यात्रियों ने चावल की कटाई पूरी की। अब कम गुरुत्वाकर्षण में बीजों से दूसरी पीढ़ी की फसल उगाई जा रही है। वैज्ञानिक जीन और प्रजनन पर असर जांच रहे हैं। China Tiangong Space Station: चीन के तियांगोंग स्पेस स्टेशन पर अंतरिक्ष यात्रियों ने चावल की फसल की कटाई कर एक अहम प्रयोग पूरा किया है.
+
+### [कोलकाता जा रही थी एयर एंबुलेस, 12000 फीट हवा में खुला दरवाजा, बांग्लादेश में करानी पड़ी लैंडिंग](https://hindi.news18.com/world/south-asia-india-air-ambulance-door-open-mid-air-bangladesh-emergency-landing-woman-dies-10920819.html)
+*News18 Hindi (World)* - Oct 19, 16:53 IST (iso: 2026-10-19T11:23:44+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/air-ambulance-2026-10-d95defcd0fed1d4942cf90f8295a5862-1200x800.jpg -->
+
+अगरतला से कोलकाता जा रही एयर एंबुलेंस का दरवाजा 12000 फीट पर खुल गया। विमान को ढाका में उतारना पड़ा। 56 वर्षीय अंजना भौमिक की मौत हो गई। बाकी छह यात्री सुरक्षित हैं। अगरतला से कोलकाता जा रही भारतीय एयर एंबुलेंस को उड़ान के दौरान तकनीकी खराबी के कारण बांग्लादेश की राजधानी ढाका में उतारना पड़ा. करीब 12 हजार फीट की ऊंचाई पर विमान का दरवाजा आंशिक रूप से खुल गया था.
+
+### [दक्षिण कोरिया के साथ युद्ध की तैयारी में उत्तर कोरिया, सीमा पर हथियार की तैनाती, किम जोंग की बहन ने](https://www.patrika.com/world-news/north-korea-kim-yo-jong-warns-south-korea-border-weapons-deployment-dmz-tension-20995296)
+*Patrika (World)* - Oct 19, 16:17 IST (iso: 2026-10-19T10:47:52+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/North-Korea.webp -->
+
+किम यो जोंग ने दक्षिण कोरिया को धमकी दी है। सीमा पर अतिरिक्त सामरिक हथियार तैनात किए जा रहे हैं। लाउडस्पीकर प्रसारण फिर शुरू करने पर भी विचार चल रहा है। उत्तर कोरिया के तानाशाह किम जोंग उन की बहन किम यो जोंग ने दक्षिण कोरिया को खुली धमकी दी है। उन्होंने कहा कि दक्षिण कोरिया की सीमा पर अतिरिक्त सामरिक हथियार तैनात करने का काम चल रहा है।
+
+### [ट्रंप के लिए पाकिस्तान में इमरजेंसी? खैबर पख्तूनख्वा की खदानों पर नजर, क्या बिकेगी 7 ट्रिलियन डॉलर](https://hindi.news18.com/world/pakistan-khyber-pakhtunkhwa-emergency-plane-for-mineral-resources-extraction-donald-trump-connection-10920676.html)
+*News18 Hindi (World)* - Oct 19, 15:41 IST (iso: 2026-10-19T10:11:16+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-news-28-2026-10-eb0763b7c04a044439a8de90460bda71-1200x800.jpg -->
+
+पाकिस्तान में इमरजेंसी के बाद खैबर पख्तूनख्वा के खनिजों पर सवाल उठे। शहबाज शरीफ ने पीटीआई सरकार भंग की। सरकार ने विदेशी कंपनियों को निवेश का न्योता दिया है। Pakistan Khyber Pakhtunkhwa Minerals: पाकिस्तान के खैबर पख्तूनख्वा प्रांत में इमरजेंसी लागू होने के बाद वहां के खनिज संसाधनों को लेकर सवाल उठ रहे हैं. इमरान खान की पार्टी PTI की चुनी हुई सरकार को शहबाज शरीफ ने भंग कर दिया था.
+
+### [IED ब्लास्ट में पाकिस्तानी मेजर की मौत, ग्वादर में चला रहा था सर्च ऑपरेशन, मुनीर को झटका](https://hindi.news18.com/world/rest-of-world-balochistan-ied-blast-major-wajahat-waheed-killed-4-terrorists-10920581.html)
+*News18 Hindi (World)* - Oct 19, 14:48 IST (iso: 2026-10-19T09:18:50+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-army-4-2026-10-0b3b89fd24f7425e32f6be4f6e041741-1200x800.jpg -->
+
+बलूचिस्तान के ग्वादर जिले में आतंकवाद विरोधी अभियान के दौरान आईईडी विस्फोट में मेजर वजाहात वहीद की मौत हो गई। वहीं कलात जिले में सुरक्षा बलों ने चार आतंकियों को मार गिराया। पाकिस्तान के बलूचिस्तान प्रांत में आतंकियों के खिलाफ अभियान के दौरान IED ब्लास्ट में 34 वर्षीय मेजर वजाहात वहीद की मौत हो गई. यह घटना ग्वादर जिले के पसनी स्थित शादिकौर इलाके में हुई.
+
+### [सीढ़ियों पर किसी ने तेल डाल दिया? पाकिस्तान में भारत के दुश्मन की मौत पर उठे सवाल, कर्नल अजय रैना](https://hindi.news18.com/world/pakistan-lashkar-terrorist-chaudhry-muhammad-sarwar-death-ajay-raina-reaction-oil-on-stairs-ws-b-10920409.html)
+*News18 Hindi (World)* - Oct 19, 14:29 IST (iso: 2026-10-19T08:59:36+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/oil-stairs-2026-10-9b595a310f2f14eb2b64d1edb08cd3b6-1200x800.jpg -->
+
+लाहौर में लश्कर-ए-तैयबा के वरिष्ठ आतंकी अबू हाशिम की सीढ़ियों से गिरने के बाद मौत हो गई। अमेरिकी वित्त मंत्रालय ने 2016 में उसे फंडिंग जुटाने के आरोप में प्रतिबंधित किया था। पाकिस्तान के लाहौर में लश्कर-ए-तैयबा के वरिष्ठ आतंकी चौधरी मुहम्मद सरवर उर्फ अबू हाशिम की मौत हो गई. पाकिस्तानी मीडिया के मुताबिक, वह सीढ़ियों से गिरने के बाद गंभीर रूप से घायल हुआ था.
+
+### [पाकिस्तान से हाथ मिलाएंगे मुइज्जू, भारत की बढ़ेगी टेंशन? 10 साल बाद मालदीव के राष्ट्रपति का दौरा](https://hindi.news18.com/world/pakistan-maldives-president-muhammad-muizzu-pakistan-visit-india-security-concerns-10920260.html)
+*News18 Hindi (World)* - Oct 19, 13:15 IST (iso: 2026-10-19T07:45:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/muizzu-2026-10-6f4224ecbbb3109488443f4cf6fab98d-1200x800.jpg -->
+
+मालदीव के राष्ट्रपति मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान जाएंगे। यह दशक बाद पहली यात्रा है। वे शरीफ और जरदारी से मिलेंगे। मालदीव के राष्ट्रपति मोहम्मद मुइज्जू 20 से 22 अक्टूबर तक पाकिस्तान के दौरे पर रहेंगे. यह एक दशक बाद मालदीव के किसी राष्ट्रपति की पाकिस्तान यात्रा है. मुइज्जू प्रधानमंत्री शहबाज शरीफ और राष्ट्रपति आसिफ अली जरदारी से मुलाकात करेंगे.
+
+---
+
+## दुनिया
+
+### [225 की रफ्तार वाली आफत गई तो 155 KMPH की स्‍पीड से आई नई मुसीबत, घर-मकान सब उड़ जाएंगे, दहशत से](https://hindi.news18.com/world/rest-of-world-hurricane-trudy-category-2-storm-155-kmph-wind-speed-lashed-mexico-pacific-coast-enormous-destruction-international-weather-10919647.html)
+*News18 Hindi (World)* - Oct 19, 10:46 IST (iso: 2026-10-19T05:16:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Hurricane-Trudy-2026-10-4b747d99c37ded0f6cdf98f02134920d-1200x800.jpg -->
+
+अल नीनो के प्रभाव से समुद्री तापमान बढ़ने से तूफानों की संभावना बढ़ी है। दक्षिण पूर्व एशिया और प्रशांत तटों पर पिछले तीन महीनों में कई तूफान आए। मौसम विज्ञानियों ने इसके कई दुष्‍प्रभाव बताए हैं. अल नीनो की वजह से समंदर की सत‍ह सामान्‍य से काफी गर्म हो जाती है. वेदर एक्‍सपर्ट की मानें तो मौसम में इस बदलाव की वजह से बेहद शक्तिशाली तूफान आने की आशंका भी बढ़ गई है.
 
 ---
 
