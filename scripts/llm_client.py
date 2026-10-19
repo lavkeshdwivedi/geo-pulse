@@ -31,7 +31,8 @@ from typing import Any
 log = logging.getLogger(__name__)
 
 try:
-    from kognios.models.chain import free_tier_chain, _collect_keys, _GEMINI_MODELS, _GROQ_MODELS
+    from kognios import collect_keys, free_tier_chain
+    from kognios.models.chain import _GEMINI_MODELS, _GROQ_MODELS
     _KOGNIOS_OK = True
 except ImportError:
     _KOGNIOS_OK = False
@@ -40,7 +41,7 @@ except ImportError:
 def any_key_present() -> bool:
     if not _KOGNIOS_OK:
         return False
-    return bool(_collect_keys("GEMINI_API_KEY") or _collect_keys("GROQ_API_KEY"))
+    return bool(collect_keys("GEMINI_API_KEY") or collect_keys("GROQ_API_KEY"))
 
 
 def llm_complete(

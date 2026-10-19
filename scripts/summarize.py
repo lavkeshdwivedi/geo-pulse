@@ -944,7 +944,7 @@ def translate_texts_to_hindi(texts: list[str]) -> list[str]:
 _STYLE_GUIDE = load_style_guide()
 
 try:
-    from kognios.models.chain import free_tier_chain as _free_tier_chain, _collect_keys as _collect_llm_keys
+    from kognios.models.chain import free_tier_chain as _free_tier_chain
 
     # Single chain shared across all _llm_complete() calls so pacing, cooldowns,
     # and dead-model tracking persist for the entire summarize run.
