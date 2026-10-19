@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 19, 2026 05:23 IST
+**Updated:** October 19, 2026 07:31 IST
 
 ---
 
 ## Europe & Russia
+
+### [Donald Trump says ‘France is burning’, country ‘shattered’ by immigration](https://www.thehindu.com/news/international/donald-trump-says-france-is-burning-country-shattered-by-immigration/article71600252.ece)
+*The Hindu (International)* - Oct 19, 06:58 IST (iso: 2026-10-19T01:28:16+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/6qbeh/article71600248.ece/alternates/LANDSCAPE_1200/Trump_37_34.jpg -->
+
+Donald Trump claimed France is burning and shattered by immigration. He made these remarks after widespread protests in the country. The demonstrations left a historic town hall torched. Police arrested 1,800 people during the unrest. The events are piling pressure on President Emmanuel Macron. He faces elections in six months to replace him. France is reeling from widespread damage during protests the day before that left a historic town hall torched and led to 1,800 arrests, piling pressure on President Emmanuel Macron six months before elections to replace him.
 
 ### [Indian student groups in London protest against CEC Gyanesh Kumar, SIR; Govt supporters hold](https://www.thehindu.com/news/international/indian-student-groups-in-london-protest-against-cec-gyanesh-kumar-sir-govt-supporters-hold-counter-protest/article71597243.ece)
 *The Hindu (International)* - Oct 19, 05:19 IST (iso: 2026-10-18T23:49:59+00:00)
@@ -74,13 +80,35 @@ The UN warns fewer than half of national biodiversity targets are on track. This
 
 ---
 
+## Americas
+
+### [Inside the New York ‘time machine’ racing to save a century of sound and film](https://news.un.org/feed/view/en/story/2026/10/1168608)
+*UN News* - Oct 18, 17:30 IST (iso: 2026-10-18T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image770x420cropped.jpg -->
+
+Rhony Dostaly works in a basement beneath Lincoln Center, where he rescues a century of sound and film recordings. The media preservation engineer describes his job as operating a time machine, grabbing elements from the past to make them available for modern audiences. He focuses on restoring fragile media that would otherwise be lost to decay. This effort preserves historical audio and video archives for future generations.
+
+### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
+*The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
+
+Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
+
+### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
+*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
+<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
+
+Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
+
+### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
+
+Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
+
+---
+
 ## Middle East & Africa
-
-### [France demands Israel act after 'criminal violence' against visiting mayor](https://www.thehindu.com/news/international/france-demands-israel-act-after-criminal-violence-against-visiting-mayor/article71597848.ece)
-*The Hindu (International)* - Oct 19, 03:01 IST (iso: 2026-10-18T21:31:06+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/fdde5a/article71597850.ece/alternates/LANDSCAPE_1200/AFP__20261014__D39T6UY__v1__HighRes__FrancePoliticsParliament.jpg -->
-
-France demanded Israel arrest those responsible for violence against a visiting mayor. Mayor Bernard Baudoux called the acts criminal. He urged authorities to halt the violence. He also demanded they guarantee civilian safety under international law. "The Israeli authorities must arrest those responsible for these revolting acts and take them to justice. They must urgently halt this criminal violence and guarantee the safety of civilian populations, as they are compelled to do under international law,” says Mayor Bernard Baudoux.
 
 ### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
 *UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
@@ -108,28 +136,6 @@ Senegal authorities detained more than 320 LGBTQ+ individuals since February aft
 
 ---
 
-## Americas
-
-### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
-*The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
-<!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
-
-Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
-
-### [Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms](https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election)
-*The Guardian* - Oct 17, 01:07 IST (iso: 2026-10-16T19:37:53+00:00)
-<!-- image: https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a774ddc4d27f9a182dc4732cd9bb3fc -->
-
-Brazilian Amazon deforestation hit its lowest recorded level since 1988, according to new government data. This decline marks a significant policy win for President Lula ahead of the 25 October presidential run-off. The sustainability of this progress remains uncertain as voters choose between candidates with diverging environmental stances. The election outcome will directly determine whether these conservation gains hold or reverse.
-
-### [Tech market sell-off deepens amid fears over US inflation and AI debt](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
-*The Guardian* - Oct 15, 20:03 IST (iso: 2026-10-15T14:33:12+00:00)
-<!-- image: https://i.guim.co.uk/img/media/db77d2497ad333f58b03bc024b156cdce2973b96/1166_0_4632_3706/master/4632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26f439c39962e1c5d649ac0c857b9a3b -->
-
-Global tech markets suffered a deep sell-off driven by inflation fears and AI sector debt. Shares in Samsung and SoftBank plunged as traders worried about potential interest rate hikes. The decline reflects growing anxiety over the heavy borrowing underpinning current artificial intelligence infrastructure. Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through.
-
----
-
 ## Asia-Pacific
 
 ### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
@@ -150,12 +156,6 @@ September US inflation hit 3.7% year-on-year, exceeding forecasts. The data sugg
 
 Afghanistan faces record hunger levels with 15.9 million people facing acute food insecurity. A global hunger monitor report released Thursday confirmed these are the highest levels ever recorded. Conditions are expected to worsen significantly in the coming months due to ongoing rights violations. Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.
 
-### [Indonesia fights fire with dry ice as toxic haze spreads across region](https://www.theguardian.com/world/2026/oct/15/indonesia-fires-dry-ice-dropped-toxic-haze-spreads)
-*The Guardian* - Oct 15, 09:55 IST (iso: 2026-10-15T04:25:03+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f91346dbfc3a74a003e6aeb4789749685a84ac60/328_0_4558_3646/master/4558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=005dfb27ad279a79407390d749a50c19 -->
-
-Indonesia is testing dry ice dispersal to fight fires in South Sumatra. The toxic haze has spread across the region. Officials previously tried cloud seeding and water bombing. Army personnel are also deployed to combat the blazes. Having tried cloud seeding and water bombing, one pilot project will see dry ice dispersed by plane across the province of South SumatraAs fires ravage Indonesia, emitting a toxic smoke that has drawn the ire of regional neighbours, the government is testing an unusual new approach to tackle the haze: dry ice. Having tried cloud seeding, water bombing and sending in army personnel to fight the fire.
-
 ---
 
 ## Global / Multilateral
@@ -168,7 +168,7 @@ A new UN report warns that rapid economic shifts risk leaving vulnerable communi
 
 ### [Could your brain data be used against you? UN calls for limits on neurotechnology](https://news.un.org/feed/view/en/story/2026/10/1168609)
 *UN News* - Oct 15, 17:30 IST (iso: 2026-10-15T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-03-21-WIPO-Assistive-Technology-Video-Screengrab.jpg/image770x420cropped.jpg -->
 
 The United Nations issued a report warning that brain data collected by consumer devices could serve as legal evidence against individuals. The document highlights that neurotechnology is advancing faster than existing human rights protections. Current laws do not adequately address the privacy risks of neural data. The UN called for new limits to prevent misuse of these signals in judicial proceedings.
 
