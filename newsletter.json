@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-20T13:58:52.595338+00:00",
+  "generated_at": "2026-10-20T18:15:11.412722+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 264,
   "digest": {
-    "en": "Moldova opens a probe into Russian data harvesting after an RFE/RL investigation, while Starshield bandwidth cuts slow Ukrainian satellite operations. Dhaka remains silent on Saudi executions, prioritizing remittance flows over diplomatic pressure.",
-    "hi": "जयशंकर और रूबियो ने भारत-अमेरिका साझेदारी के लिए हाथ मिलाया, जिससे दिल्ली और वाशिंगटन के बीच नई रणनीतिक दिशा खुली। फेडरल रिजर्व के दिसंबर के ब्याज दर निर्णय से वैश्विक बाजारों में महंगाई की लहर बढ़ रही है।"
+    "en": "Alberta voters just rejected a plan to leave Canada, a decisive check on separatist momentum. Meanwhile, Iranian officials openly call for a nuclear bomb as the regional war stalls. The contrast between domestic consolidation and strategic escalation defines this hour.",
+    "hi": "रूबियो ने पाकिस्तान को सऊदी अरब में तैनाती की पेशकश करते हुए QUAD और होर्मुज पर बातचीत का रास्ता खोला। इसी दौरान चीन ने DeepSeek पर अमेरिकी बैन को ट्रंप-जिनपिंग समझौते का उल्लंघन करार दिया।"
   },
   "articles": [
+    {
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-20T16:24:05+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f",
+      "summary": "Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins",
+      "url": "https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-20T16:19:21+00:00",
+      "image_url": "https://gdb.rferl.org/67889eaf-352c-4b60-e8c1-08df13a87301_w1200_h630.jpg",
+      "summary": "Ukrainian forces retaken 26 settlements in the Dnipropetrovsk region. The villages are largely destroyed and uninhabitable. Russian troops are being pushed back, but Ukrainian forces face challenges holding the reclaimed territory under constant drone threat. As Russian troops are pushed back, Ukrainian forces face the challenge of holding the reclaimed territory under constant threat from drones. Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb",
+      "url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-20T16:03:23+00:00",
+      "image_url": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
+      "summary": "Influential Iranian officials are openly calling for a nuclear bomb. The death of Ali Khamenei has weakened the political taboo surrounding the weapon. Debate is growing over whether the Islamic republic should abandon its long-standing position against developing nukes. Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties",
+      "url": "https://www.rferl.org/a/georgia-faces-new-test-as-court-weighs-ban-on-five-opposition-parties/33880171.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-20T15:19:04+00:00",
+      "image_url": "https://gdb.rferl.org/c4530fce-93a8-4573-7515-08df13a869ed_w1200_h630.jpeg",
+      "summary": "Georgia’s Constitutional Court will begin hearings on October 21 regarding a ban on five opposition parties. These parties have collectively won hundreds of thousands of votes. The proceedings mark another critical test for the country’s multiparty democracy, with a final ruling potentially to come later. Georgia’s Constitutional Court will begin hearings on October 21 on a case seeking to ban five opposition parties that together have won hundreds of thousands of votes.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Yemen war continues to force families from homes amid hunger and disease",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168629",
@@ -56,6 +104,18 @@
       "translations": {}
     },
     {
+      "title": "In Delhi or Paris, restoring order cannot replace public trust",
+      "url": "https://asiatimes.com/2026/10/in-delhi-or-paris-restoring-order-cannot-replace-public-trust/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-10-19T21:35:11+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/images-4-copy-e1792516749106.jpeg",
+      "summary": "Protests often evolve from specific grievances into broader challenges to political authority. When citizens believe their concerns are ignored, demands for correction become questions of accountability. Restoring order alone cannot replace the need for public trust in governance. Protests rarely remain confined to the grievances that first bring people into the streets. When the citizens believe their concerns are being ignored, a grievance over a particular policy or administrative decision can evolve into a broader challenge to the political authority.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "A growing national crisis and a strategic warning",
       "url": "https://asiatimes.com/2026/10/south-korea-a-growing-national-crisis-and-a-strategic-warning/",
       "source": "Asia Times",
@@ -80,18 +140,6 @@
       "translations": {}
     },
     {
-      "title": "A Warm Welcome for US Secretary of State in Central Asia",
-      "url": "https://thediplomat.com/2026/10/a-warm-welcome-for-us-secretary-of-state-in-central-asia/",
-      "source": "The Diplomat",
-      "sources": [],
-      "published_at": "2026-10-19T14:24:00+00:00",
-      "image_url": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-19-233125.jpg",
-      "summary": "U. S. Secretary of State Marco Rubio traveled to Central Asia. The region offered a warm welcome to the Trump administration. This trip allowed Rubio to bypass other pressing international crises. The visit secured diplomatic goodwill in the area. Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "'We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In",
       "url": "https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html",
       "source": "Radio Free Europe / Liberty",
@@ -104,18 +152,6 @@
       "translations": {}
     },
     {
-      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image770x420cropped.jpg",
-      "summary": "UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Funding cuts leave half a million without food assistance",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
       "source": "UN News",
@@ -123,6 +159,18 @@
       "published_at": "2026-10-19T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg",
       "summary": "The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image770x420cropped.jpg",
+      "summary": "UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -200,18 +248,6 @@
       "translations": {}
     },
     {
-      "title": "Strategy trumps scandal as West goes easy on India",
-      "url": "https://asiatimes.com/2026/10/strategy-trumps-scandal-as-west-goes-easy-on-india/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-10-19T04:19:25+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/India-Canada-Modi-Carney-2026.jpg",
-      "summary": "Canada and India reaffirmed plans to expand trade and security cooperation on October 13. This move occurred despite ongoing Western accusations of Indian foreign interference and intelligence operations. Prime Minister Mark Carney and Prime Minister Narendra Modi prioritized strategic alignment over diplomatic friction. The decision signals that geopolitical utility outweighs security concerns for Western partners. Western governments are rebuilding ties with India even as they accuse it of foreign interference and of running intelligence operations against people on their soil.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Trump Again Criticizes Zelenskyy, Says Open To Meeting With Putin And Xi",
       "url": "https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html",
       "source": "Radio Free Europe / Liberty",
@@ -272,47 +308,173 @@
       "translations": {}
     },
     {
-      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-      "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-      "source": "The Guardian",
+      "title": "'मुंगेरीलाल के हसीन सपने' देख रहा पाकिस्तान, मक्का पैक्ट के आर्टिकल-2 से उड़ेंगे तोते",
+      "url": "https://hindi.news18.com/world/middle-east-mecca-defence-pact-article-2-pakistan-saudi-arabia-turkey-analysis-india-safe-10924459.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-16T18:09:34+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d50e0bb4a5fc6d77b7f869e6a131ef2969dbc048/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df846db4654f171badd8e783969f6519",
-      "summary": "Downing Street confirmed the UK may impose tariffs on Chinese electric vehicles if it joins the EU's Made in Europe scheme. Beijing warned the move would be discriminatory. France dropped its opposition to British participation in the package. The decision remains pending final negotiations. Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK inclu.",
+      "published_at": "2026-10-20T18:13:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Mecca_Pact_News-2026-10-a96d3081b1e9f55b17e3dde8cd0db8d6-1200x800.jpg",
+      "summary": "पाकिस्तान मक्का रक्षा समझौते के आर्टिकल-2 को अपनी कूटनीतिक जीत बता रहा है। इसमें हमले पर तीनों देशों की मदद का प्रावधान है, पर सैन्य गारंटी नहीं। भारत इसे कागजी शब्दों तक सीमित मानता है। सऊदी और तुर्की अपने हितों के लिए भारत के खिलाफ नहीं उतरेंगे। मक्का डिफेंस पैक्ट के आर्टिकल-2 को लेकर पाकिस्तान अपनी कूटनीतिक जीत का ढोल पीट रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मुंगेरीलाल के हसीन सपने' देख रहा पाकिस्तान, मक्का पैक्ट के आर्टिकल-2 से उड़ेंगे तोते",
+          "summary": "पाकिस्तान मक्का रक्षा समझौते के आर्टिकल-2 को अपनी कूटनीतिक जीत बता रहा है। इसमें हमले पर तीनों देशों की मदद का प्रावधान है, पर सैन्य गारंटी नहीं। भारत इसे कागजी शब्दों तक सीमित मानता है। सऊदी और तुर्की अपने हितों के लिए भारत के खिलाफ नहीं उतरेंगे। मक्का डिफेंस पैक्ट के आर्टिकल-2 को लेकर पाकिस्तान अपनी कूटनीतिक जीत का ढोल पीट रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रेड डील से लेकर QUAD और पाकिस्तान से लेकर होर्मुज तक, अमेरिकी विदेश मंत्री मार्को रूबियो का पूरा",
+      "url": "https://hindi.news18.com/news/nation/marco-rubio-exclusive-interview-india-us-trade-deal-pakistan-rahul-joshi-10924059.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-20T17:48:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Marco_Rubio_Interview2-2026-10-684d4b87be460fe3425e03cca4727527-1200x800.jpg",
+      "summary": "अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा कि भारत-अमेरिका ट्रेड डील कुछ हफ्तों में पूरी होगी। इससे टैरिफ दरों में राहत मिलेगी। उन्होंने रूसी तेल खरीद और पाकिस्तान संबंधों पर अपनी रणनीति भी साझा की। क्वाड समिट को लेकर भी अहम संकेत दिए गए। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर-इन-चीफ राहुल जोशी से खास बातचीत की है.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रेड डील से लेकर QUAD और पाकिस्तान से लेकर होर्मुज तक, अमेरिकी विदेश मंत्री मार्को रूबियो का पूरा",
+          "summary": "अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा कि भारत-अमेरिका ट्रेड डील कुछ हफ्तों में पूरी होगी। इससे टैरिफ दरों में राहत मिलेगी। उन्होंने रूसी तेल खरीद और पाकिस्तान संबंधों पर अपनी रणनीति भी साझा की। क्वाड समिट को लेकर भी अहम संकेत दिए गए। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर-इन-चीफ राहुल जोशी से खास बातचीत की है.",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
-      "title": "Sudan’s war spreads as drones and hunger take a deadly toll",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168612",
-      "source": "UN News",
+      "title": "सऊदी अरब में तैनात रहेगी पाकिस्तानी सेना, 10 साल तक कोई नहीं छोड़ सकेगा इस्लामिक नाटो... मक्का",
+      "url": "https://hindi.news18.com/world/middle-east-pakistan-forces-to-remain-in-saudi-arabia-no-one-can-leave-islamic-nato-before-10-years-turkey-presents-makkah-pact-draft-know-important-details-10924436.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-16T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image560x340cropped.jpg",
-      "summary": "Drone strikes killed civilians across El Obeid and Blue Nile states. Famine risk now spreads through Darfur and Kordofan regions. The Security Council met to demand a ceasefire and safe aid access. Ambassadors pressed for an end to weapons flows fueling the conflict. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.",
+      "published_at": "2026-10-20T17:33:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Mecca-Pact-2026-10-0a23f00b515a5e8f31958226144364e5-1200x800.jpg",
+      "summary": "सऊदी अरब, पाकिस्तान और तुर्की के बीच मक्का रक्षा समझौते का ड्राफ्ट सामने आया है। तुर्की ने इसे संसद में मंजूरी के लिए पेश किया है। किसी एक सदस्य पर हमले को तीनों पर हमला माना जाएगा। बाकी दो देश तुरंत मदद करेंगे। Mecca Defence Pact: सऊदी अरब, पाकिस्तान और तुर्की के बीच मक्का रक्षा समझौते का पूरा ड्राफ्ट सामने आ गया है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी अरब में तैनात रहेगी पाकिस्तानी सेना, 10 साल तक कोई नहीं छोड़ सकेगा इस्लामिक नाटो... मक्का",
+          "summary": "सऊदी अरब, पाकिस्तान और तुर्की के बीच मक्का रक्षा समझौते का ड्राफ्ट सामने आया है। तुर्की ने इसे संसद में मंजूरी के लिए पेश किया है। किसी एक सदस्य पर हमले को तीनों पर हमला माना जाएगा। बाकी दो देश तुरंत मदद करेंगे। Mecca Defence Pact: सऊदी अरब, पाकिस्तान और तुर्की के बीच मक्का रक्षा समझौते का पूरा ड्राफ्ट सामने आ गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Multiplying Crises, Fraying Consensus at the 2026 UN General Assembly",
-      "url": "https://www.crisisgroup.org/vis/global/multiplying-crises-fraying-consensus-2026-un-general-assembly",
-      "source": "International Crisis Group",
+      "title": "'पाकिस्तान से अमेरिका के रिश्ते भारत के हित में' अमेरिकी विदेश मंत्री मार्को रूबियो ने समझाई पूरी",
+      "url": "https://hindi.news18.com/news/nation/marco-rubio-exclusive-america-relations-with-pakistan-is-in-india-interest-us-secretary-of-state-explains-how-10924126.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-16T00:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/14045562/pexels-photo-14045562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Leaders at the 2026 UN General Assembly raised multiple peace and security concerns. No single issue dominated the speeches. Crisis Group experts noted competing priorities among member states. The assembly highlighted a fraying consensus on global security challenges. World leaders raised an array of peace and security concerns in their speeches at the 2026UN General Assembly, with no single issue standing out.",
+      "published_at": "2026-10-20T16:10:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Marco-Rubio-1-2026-10-c9ee00e049fe6aa20ebcec0de364e33f-1200x800.jpg",
+      "summary": "मार्को रूबियो ने पाकिस्तान से अमेरिका के रिश्तों को भारत के हित में बताया। उन्होंने कहा कि इससे अमेरिका पाकिस्तान को ऐसे कामों से रोक सकता है, जिनसे भारत चिंतित है। यह बयान उनके हालिया इंटरव्यू में दिया गया। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटर्वक18 के एडिटर इन चीफ राहुल जोशी को दिए एक्सक्लूसिव इंटरव्यू में पाकिस्तान के साथ अमेरिका के रिश्तों को लेकर बड़ा बयान दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'पाकिस्तान से अमेरिका के रिश्ते भारत के हित में' अमेरिकी विदेश मंत्री मार्को रूबियो ने समझाई पूरी",
+          "summary": "मार्को रूबियो ने पाकिस्तान से अमेरिका के रिश्तों को भारत के हित में बताया। उन्होंने कहा कि इससे अमेरिका पाकिस्तान को ऐसे कामों से रोक सकता है, जिनसे भारत चिंतित है। यह बयान उनके हालिया इंटरव्यू में दिया गया। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटर्वक18 के एडिटर इन चीफ राहुल जोशी को दिए एक्सक्लूसिव इंटरव्यू में पाकिस्तान के साथ अमेरिका के रिश्तों को लेकर बड़ा बयान दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "क्वाड की मीटिंग कब होगी, क्या भारत आएंगे डोनाल्ड ट्रंप? अमेरिकी विदेश मंत्री ने दिया जवाब",
+      "url": "https://hindi.news18.com/world/america-marco-rubio-exclusive-interview-with-rahul-joshi-on-quad-summit-donald-trump-india-visit-asean-manila-10924271.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-20T15:49:42+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/marco-rubio-2-2026-10-fd3e84687f5914ab1905171a4a61c365-1200x800.jpg",
+      "summary": "मार्को रूबियो ने क्वाड शिखर सम्मेलन के समय और ट्रंप की उपस्थिति पर सवाल का जवाब दिया। यह बातचीत न्यूज-18 इंडिया के एडिटर-इन-चीफ राहुल जोशी के साथ हुई। रूबियो इस साल भारत की दूसरी यात्रा पर आए हैं। इस दौरान उन्होंने न्यूज-18 इंडिया के एडिटर-इन-चीफ राहुल जोशी के साथ Exclusive बातचीत की. इस दौरान उनसे क्वाड शिखर सम्मेलन को लेकर सवाल किया गया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्वाड की मीटिंग कब होगी, क्या भारत आएंगे डोनाल्ड ट्रंप? अमेरिकी विदेश मंत्री ने दिया जवाब",
+          "summary": "मार्को रूबियो ने क्वाड शिखर सम्मेलन के समय और ट्रंप की उपस्थिति पर सवाल का जवाब दिया। यह बातचीत न्यूज-18 इंडिया के एडिटर-इन-चीफ राहुल जोशी के साथ हुई। रूबियो इस साल भारत की दूसरी यात्रा पर आए हैं। इस दौरान उन्होंने न्यूज-18 इंडिया के एडिटर-इन-चीफ राहुल जोशी के साथ Exclusive बातचीत की. इस दौरान उनसे क्वाड शिखर सम्मेलन को लेकर सवाल किया गया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हिंदू मंदिर पर हमले की साजिश, भारतीयों से नफरत पर क्या बोले मार्को रूबियो? कहा- कुछ लोग स्टूपिड",
+      "url": "https://hindi.news18.com/world/america-marco-rubio-rahul-joshi-exclusive-interview-anti-indian-hate-us-hindu-temple-attack-plot-illinois-10924104.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-20T15:45:21+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/rahul-joshi-marco-rubio-2026-10-5d8830334ee5317b21c5a6d557bdc512-1200x800.jpg",
+      "summary": "मार्को रूबियो ने नेटवर्क18 के साथ बातचीत में कहा कि अमेरिका में भारतीयों के खिलाफ नफरत व्यापक नहीं है। उन्होंने इलिनॉय के मंदिर पर हमले की साजिश पर टिप्पणी करते हुए माना कि कुछ लोग नफरत फैलाते हैं। अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर इन चीफ राहुल जोशी के साथ एक्सक्लूसिव इंटरव्यू में कहा कि अमेरिका में भारतीयों के खिलाफ नफरत की भावना व्यापक या गहरी नहीं है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिंदू मंदिर पर हमले की साजिश, भारतीयों से नफरत पर क्या बोले मार्को रूबियो? कहा- कुछ लोग स्टूपिड",
+          "summary": "मार्को रूबियो ने नेटवर्क18 के साथ बातचीत में कहा कि अमेरिका में भारतीयों के खिलाफ नफरत व्यापक नहीं है। उन्होंने इलिनॉय के मंदिर पर हमले की साजिश पर टिप्पणी करते हुए माना कि कुछ लोग नफरत फैलाते हैं। अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर इन चीफ राहुल जोशी के साथ एक्सक्लूसिव इंटरव्यू में कहा कि अमेरिका में भारतीयों के खिलाफ नफरत की भावना व्यापक या गहरी नहीं है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "DeepSeek पर अमेरिका के बैन से भड़का चीन, कहा- ट्रंप-जिनपिंग की सहमति के बावजूद पाबंदी लगाना गलत, अब",
+      "url": "https://www.patrika.com/world-news/china-opposes-us-deepseek-ban-donald-trump-xi-jinping-meeting-20997655",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-20T14:25:59+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/trumo.webp",
+      "summary": "अमेरिका ने डीपसीक पर बैन लगाया, जिससे चीन ने प्रतिक्रिया दी। चीन का कहना है कि ट्रंप और शी जिनपिंग की सहमति के बावजूद यह पाबंदी गलत है। इससे दोनों देशों के बीच एआई को लेकर तनाव फिर बढ़ा है। कुछ ही दिनों पहले अमेरिका में राष्ट्रपति डोनाल्ड ट्रंप और उनके समकक्ष चीनी राष्ट्रपति शी जिनपिंग की मुलाकात हुई थी।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "DeepSeek पर अमेरिका के बैन से भड़का चीन, कहा- ट्रंप-जिनपिंग की सहमति के बावजूद पाबंदी लगाना गलत, अब",
+          "summary": "अमेरिका ने डीपसीक पर बैन लगाया, जिससे चीन ने प्रतिक्रिया दी। चीन का कहना है कि ट्रंप और शी जिनपिंग की सहमति के बावजूद यह पाबंदी गलत है। इससे दोनों देशों के बीच एआई को लेकर तनाव फिर बढ़ा है। कुछ ही दिनों पहले अमेरिका में राष्ट्रपति डोनाल्ड ट्रंप और उनके समकक्ष चीनी राष्ट्रपति शी जिनपिंग की मुलाकात हुई थी।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जयशंकर-रूबियो की मीटिंग में तीसरा विदेश मंत्री कौन? क्या अमेरिका-भारत-UAE ने बनाया बड़ा गेमप्लान?",
+      "url": "https://hindi.news18.com/world/middle-east-s-jaishankar-marco-rubio-uae-foreign-minister-tripartite-meeting-mumbai-energy-security-10924040.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-20T14:18:33+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/marco-rubio-news-2026-10-3b4293ad918cd49a6641c3d717a3cc6e-1200x800.jpg",
+      "summary": "मुंबई में जयशंकर, रूबियो और शेख अब्दुल्ला बिन जायद अल नाहयान ने त्रिपक्षीय बैठक की। चर्चा ऊर्जा सुरक्षा, कनेक्टिविटी और क्षेत्रीय स्थिति पर हुई। इसके बाद जयशंकर और रूबियो ने द्विपक्षीय बातचीत में व्यापार और रक्षा साझेदारी पर चर्चा की। मुंबई में भारत के विदेश मंत्री एस जयशंकर, अमेरिकी विदेश मंत्री मार्को रूबियो और UAE के विदेश मंत्री शेख अब्दुल्ला बिन जायद अल नाहयान ने त्रिपक्षीय बैठक की.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जयशंकर-रूबियो की मीटिंग में तीसरा विदेश मंत्री कौन? क्या अमेरिका-भारत-UAE ने बनाया बड़ा गेमप्लान?",
+          "summary": "मुंबई में जयशंकर, रूबियो और शेख अब्दुल्ला बिन जायद अल नाहयान ने त्रिपक्षीय बैठक की। चर्चा ऊर्जा सुरक्षा, कनेक्टिविटी और क्षेत्रीय स्थिति पर हुई। इसके बाद जयशंकर और रूबियो ने द्विपक्षीय बातचीत में व्यापार और रक्षा साझेदारी पर चर्चा की। मुंबई में भारत के विदेश मंत्री एस जयशंकर, अमेरिकी विदेश मंत्री मार्को रूबियो और UAE के विदेश मंत्री शेख अब्दुल्ला बिन जायद अल नाहयान ने त्रिपक्षीय बैठक की.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान का दम घोटेगी गले में फंसी होर्मुज की हड्डी! सर्दियों में LNG संकट, बिजली और जहरीली हवा का",
+      "url": "https://hindi.news18.com/news/knowledge/pakistan-lng-gas-shortage-due-to-hormuz-strait-air-pollution-smog-electricity-crisis-10924042.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-20T14:17:53+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-design-2026-10-20T192220.352-2026-10-57728ea2039a43f5497a08847cbe6ae1-1200x800.jpg",
+      "summary": "अमेरिका और ईरान के संघर्ष से होर्मुज जलडमरूमध्य की गैस आपूर्ति प्रभावित हुई है। पाकिस्तान को सर्दियों में गैस की कमी का सामना करना पड़ रहा है। देश को अंतरराष्ट्रीय बाजार से महंगी कीमतों पर एलएनजी खरीदना पड़ सकता है। अमेरिका-ईरान के बीच जारी संघर्ष के साथ ही स्ट्रेट ऑफ होर्मुज से गैस की सप्लाई प्रभावित होने की वजह से पाकिस्तान को लिक्विफाइड नेचुरल गैस की कमी का सामना करना पड़ रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान का दम घोटेगी गले में फंसी होर्मुज की हड्डी! सर्दियों में LNG संकट, बिजली और जहरीली हवा का",
+          "summary": "अमेरिका और ईरान के संघर्ष से होर्मुज जलडमरूमध्य की गैस आपूर्ति प्रभावित हुई है। पाकिस्तान को सर्दियों में गैस की कमी का सामना करना पड़ रहा है। देश को अंतरराष्ट्रीय बाजार से महंगी कीमतों पर एलएनजी खरीदना पड़ सकता है। अमेरिका-ईरान के बीच जारी संघर्ष के साथ ही स्ट्रेट ऑफ होर्मुज से गैस की सप्लाई प्रभावित होने की वजह से पाकिस्तान को लिक्विफाइड नेचुरल गैस की कमी का सामना करना पड़ रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "जयशंकर और रूबियो ने मिलाया साझेदारी का हाथ, भारत-अमेरिका रिश्ते को मिली नई धार",
       "url": "https://hindi.news18.com/news/nation/trade-technology-arms-jaishankar-and-marco-rubio-join-hands-in-partnership-new-momentum-to-india-us-relations-10923937.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-20T13:53:36+00:00",
+      "published_at": "2026-10-20T14:10:40+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Marco-Rubio-S-Jaishankar-2026-10-1830ad12b386e48888454bfdaa0204db-1200x800.jpg",
       "summary": "विदेश मंत्री जयशंकर और अमेरिकी सचिव रूबियो ने 20 अक्टूबर को मुंबई में द्विपक्षीय बैठक की। दोनों देशों ने रणनीतिक साझेदारी को मजबूत करने के लिए नए पहलुओं पर सहमति जताई। यह वार्ता वैश्विक स्थिति में दोनों देशों के संबंधों को नई दिशा देती है। Jaishankar Marco Rubio Meeting: ग्लोबल मंच पर जारी भारी भू-राजनीतिक उथल-पुथल के बीच भारत और अमेरिका की दोस्ती को नई रफ्तार देने के लिए मुंबई में एक बेहद अहम कूटनीतिक बैठक संपन्न हुई.",
       "region": "Asia-Pacific",
@@ -506,42 +668,6 @@
       }
     },
     {
-      "title": "ईरान ने भारत को दी दशहरे की बधाई, मौके पर मारा चौका, ट्रंप को बना दिया रावण",
-      "url": "https://hindi.news18.com/world/middle-east-iran-wishes-happy-dussehra-to-india-in-special-way-shows-trump-as-ravan-10923305.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T10:07:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/iran-dussehra-2026-10-9c0de49f6274983d205f3813fe66be97-1200x800.jpg",
-      "summary": "ईरान ने भारत को दशहरे की बधाई दी। उसने अमेरिकी राष्ट्रपति ट्रंप को त्योहार के खलनायक रावण के रूप में चित्रित किया। Iran wishes for India on Dussehra: भारत में आज दशहरा का त्यौहार मनाया जा रहा है, जिसमें रावण का पुतला जलाया जाता है. ईरान ने अपने दोस्त भारत को इस मौके पर बधाई तो दी है लेकिन अमेरिकी राष्ट्रपति पर ऐसा तंज कसा है कि वो देखकर तिलमिला जाएं.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने भारत को दी दशहरे की बधाई, मौके पर मारा चौका, ट्रंप को बना दिया रावण",
-          "summary": "ईरान ने भारत को दशहरे की बधाई दी। उसने अमेरिकी राष्ट्रपति ट्रंप को त्योहार के खलनायक रावण के रूप में चित्रित किया। Iran wishes for India on Dussehra: भारत में आज दशहरा का त्यौहार मनाया जा रहा है, जिसमें रावण का पुतला जलाया जाता है. ईरान ने अपने दोस्त भारत को इस मौके पर बधाई तो दी है लेकिन अमेरिकी राष्ट्रपति पर ऐसा तंज कसा है कि वो देखकर तिलमिला जाएं.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'सिर्फ मीटिंग करने से कुछ नहीं होगा': SCO समिट में राजनाथ सिंह ने दी विनाशकारी आर्थिक मंदी और टकराव",
-      "url": "https://hindi.news18.com/news/nation/technology-is-widening-gap-between-nations-rajnath-singh-warns-at-sco-summit-world-supply-chain-threat-10922945.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T09:43:27+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Rajnath-Singh-2026-10-3b5a6c3516eb3f946358949ca4304a6d-1200x800.jpg",
-      "summary": "राजनाथ सिंह ने SCO शिखर सम्मेलन में वैश्विक आर्थिक अनिश्चितता और बढ़ते तनाव पर चिंता जताई। उन्होंने कहा कि संघर्षों का असर सप्लाई चेन पर पड़ रहा है। केवल बैठकें करने से यह समस्या नहीं हल होगी। Rajnath Singh in SCO Summit: राजनाथ सिंह ने कहा कि आज दुनिया ऐसे दौर से गुजर रही है, जहां वैश्विक आर्थिक माहौल लगातार अनिश्चित होता जा रहा है.",
-      "region": "Global / Multilateral",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'सिर्फ मीटिंग करने से कुछ नहीं होगा': SCO समिट में राजनाथ सिंह ने दी विनाशकारी आर्थिक मंदी और टकराव",
-          "summary": "राजनाथ सिंह ने SCO शिखर सम्मेलन में वैश्विक आर्थिक अनिश्चितता और बढ़ते तनाव पर चिंता जताई। उन्होंने कहा कि संघर्षों का असर सप्लाई चेन पर पड़ रहा है। केवल बैठकें करने से यह समस्या नहीं हल होगी। Rajnath Singh in SCO Summit: राजनाथ सिंह ने कहा कि आज दुनिया ऐसे दौर से गुजर रही है, जहां वैश्विक आर्थिक माहौल लगातार अनिश्चित होता जा रहा है.",
-          "region": "वैश्विक / बहुपक्षीय"
-        }
-      }
-    },
-    {
       "title": "राष्ट्रपति चुनाव में मोबाइल चोरी बना सबसे बड़ा मुद्दा, ब्राजील में जीत दर्ज करने के लिए पक्ष-विपक्ष",
       "url": "https://www.patrika.com/world-news/brazil-presidential-election-mobile-theft-issue-20997059",
       "source": "Patrika (World)",
@@ -560,60 +686,6 @@
       }
     },
     {
-      "title": "पेरिस दंगों के 54 गुनहगार कौन? यूरोप में भी फसाद की वही टूलकिट, आया एक भारतीय का भी नाम",
-      "url": "https://hindi.news18.com/world/europe-which-54-groups-unleashes-paris-violence-report-suggests-muslims-pro-palastine-international-amplifiers-ws-l-10923269.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T09:37:24+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/france-protest-2026-10-3d660e69c00c72804864b3ddc477d123-1200x800.jpg",
-      "summary": "फॉक्स न्यूज की रिपोर्ट के अनुसार पेरिस दंगों को भड़काने में 54 संगठनों का हाथ था। इनमें एक भारतीय नागरिक का भी नाम शामिल है। France Riots Violence Report: फ्रांस में सरकार के खिलाफ हो रहे प्रदर्शनों ने कब अपना रुख बदलकर इसे दंगे-फसाद में तब्दील कर दिया, पता ही नहीं चला. राजधानी पेरिस जल उठी और तस्वीरें पूरी दुनिया ने देखीं.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेरिस दंगों के 54 गुनहगार कौन? यूरोप में भी फसाद की वही टूलकिट, आया एक भारतीय का भी नाम",
-          "summary": "फॉक्स न्यूज की रिपोर्ट के अनुसार पेरिस दंगों को भड़काने में 54 संगठनों का हाथ था। इनमें एक भारतीय नागरिक का भी नाम शामिल है। France Riots Violence Report: फ्रांस में सरकार के खिलाफ हो रहे प्रदर्शनों ने कब अपना रुख बदलकर इसे दंगे-फसाद में तब्दील कर दिया, पता ही नहीं चला. राजधानी पेरिस जल उठी और तस्वीरें पूरी दुनिया ने देखीं.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सूडान में ड्रोन हमलों में 160 से ज्यादा मौतें, बच्चों से लेकर आम लोग बने निशाना, गृहयुद्ध हुआ खतरनाक",
-      "url": "https://hindi.news18.com/world/rest-of-world-sudan-drone-attacks-160-killed-market-civilians-10923159.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T09:01:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/sudan-4-2026-10-aa8d78af9444e9ce98b6ebffde3a431a-1200x800.jpg",
-      "summary": "सूडान में सेना और RSF के बीच ड्रोन हमलों में 160 से अधिक लोग मारे गए। अल-दिबाब के बाजार में 80 और खार्तूम में तीन बच्चों की मौत हुई। सूडान में सेना और अर्धसैनिक संगठन रैपिड सपोर्ट फोर्सेज (RSF) के बीच जंग जारी है. इस दौरान अलग-अलग ड्रोन हमलों में 160 से ज्यादा लोगों की मौत की खबर है. वेस्ट कोर्डोफान के अल-दिबाब में बाजार के पास हुए हमले में 80 लोगों की जान गई.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सूडान में ड्रोन हमलों में 160 से ज्यादा मौतें, बच्चों से लेकर आम लोग बने निशाना, गृहयुद्ध हुआ खतरनाक",
-          "summary": "सूडान में सेना और RSF के बीच ड्रोन हमलों में 160 से अधिक लोग मारे गए। अल-दिबाब के बाजार में 80 और खार्तूम में तीन बच्चों की मौत हुई। सूडान में सेना और अर्धसैनिक संगठन रैपिड सपोर्ट फोर्सेज (RSF) के बीच जंग जारी है. इस दौरान अलग-अलग ड्रोन हमलों में 160 से ज्यादा लोगों की मौत की खबर है. वेस्ट कोर्डोफान के अल-दिबाब में बाजार के पास हुए हमले में 80 लोगों की जान गई.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "फ्रांस से इटली ने लिया सबक, लग्जरी शोरूम के बाहर तैनात हुई पुलिस, छावनी बना मिलान",
-      "url": "https://hindi.news18.com/world/europe-italy-deploys-extra-police-for-luxury-show-room-safety-in-milan-after-france-riots-ws-l-10923156.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T08:42:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/italy-news-2026-10-e67572cbd7285641a5199c5d26569aa0-1200x800.jpg",
-      "summary": "इटली ने फ्रांस में हुए दंगों के जवाब में मिलान के लग्जरी शोरूम के बाहर पुलिस तैनात कर दी है। यह कदम लूटपाट को रोकने के लिए उठा गया है। स्थानीय प्रशासन ने सुरक्षा को बढ़ावा देने के लिए यह फुल प्रूफ प्लान लागू किया है। Italy Extra Police Deployment: फ्रांस में प्रदर्शनों के नाम पर जिस तरह का हंगामा और दंगा हुआ, उसे देखते हुए इटली ने सबक लिया और अपने लिए फुल प्रूफ प्लान तैयार कर लिया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्रांस से इटली ने लिया सबक, लग्जरी शोरूम के बाहर तैनात हुई पुलिस, छावनी बना मिलान",
-          "summary": "इटली ने फ्रांस में हुए दंगों के जवाब में मिलान के लग्जरी शोरूम के बाहर पुलिस तैनात कर दी है। यह कदम लूटपाट को रोकने के लिए उठा गया है। स्थानीय प्रशासन ने सुरक्षा को बढ़ावा देने के लिए यह फुल प्रूफ प्लान लागू किया है। Italy Extra Police Deployment: फ्रांस में प्रदर्शनों के नाम पर जिस तरह का हंगामा और दंगा हुआ, उसे देखते हुए इटली ने सबक लिया और अपने लिए फुल प्रूफ प्लान तैयार कर लिया है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "कनाडा से अलग होने का प्रस्ताव अल्बर्टा में खारिज, पीएम कार्नी बोले- लोगों ने कनाडा को चुना",
       "url": "https://www.patrika.com/world-news/alberta-rejects-canada-separation-proposal-referendum-pm-mark-carney-20996881",
       "source": "Patrika (World)",
@@ -628,42 +700,6 @@
           "title": "कनाडा से अलग होने का प्रस्ताव अल्बर्टा में खारिज, पीएम कार्नी बोले- लोगों ने कनाडा को चुना",
           "summary": "अल्बर्टा में कनाडा से अलगाव के प्रस्ताव को प्रारंभिक परिणामों में खारिज कर दिया गया है। प्रधानमंत्री मार्क कार्नी ने यह फैसला राष्ट्रीय एकता के पक्ष में बताया। उन्होंने कहा कि लोगों ने कनाडा के साथ साझा भविष्य चुना है। ओटावा। कनाडा के प्रधानमंत्री मार्क कार्नी ने अल्बर्टा प्रांत के कनाडा से अलग होने के प्रस्ताव को शुरुआती जनमत संग्रह परिणामों में खारिज किए जाने का स्वागत किया है।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की कनाडा को तोड़ने वाली चाल फेल, अल्बर्टा ने दिखाया दम, अलग देश बनाने का सपना टूटा",
-      "url": "https://hindi.news18.com/world/rest-of-world-alberta-voters-reject-move-toward-separation-from-canada-donald-trump-mark-carney-10922991.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T07:55:11+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/alberta-2026-10-ad0b04ced0563336eaa08a308bcb6abb-1200x800.jpg",
-      "summary": "अल्बर्टा में 76 प्रतिशत मतदाताओं ने कनाडा से जुड़े रहने का समर्थन किया। इससे अलगाव प्रक्रिया शुरू करने का प्रस्ताव खारिज हो गया। यह परिणाम ट्रंप की कनाडा को अमेरिका का 51वां राज्य बनाने की उम्मीदों पर प्रभाव डालता है। कनाडा के अल्बर्टा प्रांत में अलगाव की प्रक्रिया शुरू करने के प्रस्ताव को शुरुआती मतगणना में बड़ा झटका लगा है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की कनाडा को तोड़ने वाली चाल फेल, अल्बर्टा ने दिखाया दम, अलग देश बनाने का सपना टूटा",
-          "summary": "अल्बर्टा में 76 प्रतिशत मतदाताओं ने कनाडा से जुड़े रहने का समर्थन किया। इससे अलगाव प्रक्रिया शुरू करने का प्रस्ताव खारिज हो गया। यह परिणाम ट्रंप की कनाडा को अमेरिका का 51वां राज्य बनाने की उम्मीदों पर प्रभाव डालता है। कनाडा के अल्बर्टा प्रांत में अलगाव की प्रक्रिया शुरू करने के प्रस्ताव को शुरुआती मतगणना में बड़ा झटका लगा है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "सांसद को कार से कुचलने की कोशिश, बचाने के लिए काटना पड़ा पैर, हालत अब भी गंभीर",
-      "url": "https://hindi.news18.com/world/rest-of-world-australia-mp-helen-haines-car-attack-loses-one-limb-critical-condition-ws-l-10922951.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T07:29:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/australia-mp-2026-10-3467c1953c3e517ef94b3aa327653ff6-1200x800.jpg",
-      "summary": "ऑस्ट्रेलिया की निर्दलीय सांसद हेलेन हेंस पर कार से कुचलने की कोशिश की गई। इस हमले में उनका एक पैर काटना पड़ा। उनकी हालत अभी भी गंभीर है और हमलावर की मंशा स्पष्ट नहीं हुई है। Australia MP Critical Condition: ऑस्ट्रेलिया की निर्दलीय सांसद हेलेन हेंस पर जानलेवा हमला किया गया है. इससे वे गंभीर रूप से जख्मी हो गई हैं और उनका एक पैर काटना पड़ गया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सांसद को कार से कुचलने की कोशिश, बचाने के लिए काटना पड़ा पैर, हालत अब भी गंभीर",
-          "summary": "ऑस्ट्रेलिया की निर्दलीय सांसद हेलेन हेंस पर कार से कुचलने की कोशिश की गई। इस हमले में उनका एक पैर काटना पड़ा। उनकी हालत अभी भी गंभीर है और हमलावर की मंशा स्पष्ट नहीं हुई है। Australia MP Critical Condition: ऑस्ट्रेलिया की निर्दलीय सांसद हेलेन हेंस पर जानलेवा हमला किया गया है. इससे वे गंभीर रूप से जख्मी हो गई हैं और उनका एक पैर काटना पड़ गया है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -704,56 +740,20 @@
       }
     },
     {
-      "title": "खार्किव के पार्क में गिरा रूसी ड्रोन, बच्चों समेत 6 की गई जान, जेलेंस्की ने 'शाहेद' को ठहराया",
-      "url": "https://hindi.news18.com/world/europe-russian-drone-targets-park-in-kharkiv-killing-6-including-children-ws-l-10922812.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T06:23:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/zelensky-putin-2026-10-32854cc5a53d6976aedb5050f0cf034b-1200x800.jpg",
-      "summary": "यूक्रेन के खार्किव शहर में रूसी ड्रोन ने एक पार्क पर हमला किया। इस घटना में बच्चों समेत छह लोगों की मौत हो गई। जेलेंस्की ने इसे शाहेद ड्रोन का कार्य बताया। Russian Drone Targets Park in Ukraine: रूस-यूक्रेन युद्ध के लिए समझौते की बातें हो रही हैं, उधर दोनों देशों का हमला एक-दूसरे पर जारी है. इसी बीच रूसी ड्रोन की जद में यूक्रेन का एक पार्क आ गया, जिसमे बच्चों समेत 6 लोगों की जान चली गई.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खार्किव के पार्क में गिरा रूसी ड्रोन, बच्चों समेत 6 की गई जान, जेलेंस्की ने 'शाहेद' को ठहराया",
-          "summary": "यूक्रेन के खार्किव शहर में रूसी ड्रोन ने एक पार्क पर हमला किया। इस घटना में बच्चों समेत छह लोगों की मौत हो गई। जेलेंस्की ने इसे शाहेद ड्रोन का कार्य बताया। Russian Drone Targets Park in Ukraine: रूस-यूक्रेन युद्ध के लिए समझौते की बातें हो रही हैं, उधर दोनों देशों का हमला एक-दूसरे पर जारी है. इसी बीच रूसी ड्रोन की जद में यूक्रेन का एक पार्क आ गया, जिसमे बच्चों समेत 6 लोगों की जान चली गई.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पेंगुइन की बीट से हरी हो रही अंटार्कटिका की बर्फ, बढ़ सकता है पिघलने का खतरा",
-      "url": "https://www.amarujala.com/world/climate-change-penguin-poop-is-turning-antarctic-ice-green-raising-melting-risks-2026-10-20",
+      "title": "'7.8% से बढ़ रही भारत की अर्थव्यवस्था, वैश्विक वृद्धि में 16% योगदान'; राजनाथ सिंह ने क्या कहा?",
+      "url": "https://www.amarujala.com/world/india-growing-at-7-8-even-as-several-major-economies-face-slowdown-rajnath-singh-2026-10-20",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-20T06:13:47+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/pagaina_2bb1e88c540d8b793e386c73537b737c.jpeg?w=1200&dpr=1.0",
-      "summary": "अंटार्कटिका में पेंगुइन के कचरे से बर्फ पर हरा रंग आ रहा है। यह परिवर्तन बर्फ के पिघलने के खतरे को बढ़ा रहा है। जलवायु परिवर्तन के इस प्रभाव पर वैज्ञानिकों का ध्यान केंद्रित है। पेंगुइन की बीट से हरी हो रही अंटार्कटिका की बर्फ, बढ़ सकता है पिघलने का खतरा।",
-      "region": "Americas",
+      "published_at": "2026-10-20T06:13:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/rajnath-singh_02e03df5ddf57d544d17c9012aaa2813.jpeg?w=1200&dpr=1.0",
+      "summary": "राजनाथ सिंह ने ताजिकिस्तान में कहा कि भारत की अर्थव्यवस्था 7.8 प्रतिशत की दर से बढ़ रही है। उन्होंने दावा किया कि भारत वैश्विक वृद्धि में 16 प्रतिशत का योगदान दे रहा है। यह बयान उनकी विदेश यात्रा के दौरान दिया गया। ताजिकिस्तान: '7.8% से बढ़ रही भारत की अर्थव्यवस्था, वैश्विक वृद्धि में 16% योगदान'; राजनाथ सिंह ने क्या कहा?",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पेंगुइन की बीट से हरी हो रही अंटार्कटिका की बर्फ, बढ़ सकता है पिघलने का खतरा",
-          "summary": "अंटार्कटिका में पेंगुइन के कचरे से बर्फ पर हरा रंग आ रहा है। यह परिवर्तन बर्फ के पिघलने के खतरे को बढ़ा रहा है। जलवायु परिवर्तन के इस प्रभाव पर वैज्ञानिकों का ध्यान केंद्रित है। पेंगुइन की बीट से हरी हो रही अंटार्कटिका की बर्फ, बढ़ सकता है पिघलने का खतरा।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप ने दोहराई न्यू मैक्सिको का नाम बदलने की मांग, कहा- बढ़ेगी प्रतिष्ठा",
-      "url": "https://www.amarujala.com/world/us-president-donald-trump-new-mexico-name-change-new-america-gulf-of-america-2026-10-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-20T06:02:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/donald-trump_19f8abefda91e0f9e85a6cf8e10cafd7.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने न्यू मैक्सिको का नाम बदलने की मांग दोहराई। उन्होंने कहा कि नया नाम देश की प्रतिष्ठा को बढ़ाएगा। यह कदम उनकी अमेरिका पहली नीति का हिस्सा है। ट्रंप ने दोहराई न्यू मैक्सिको का नाम बदलने की मांग, कहा- बढ़ेगी प्रतिष्ठा।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप ने दोहराई न्यू मैक्सिको का नाम बदलने की मांग, कहा- बढ़ेगी प्रतिष्ठा",
-          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने न्यू मैक्सिको का नाम बदलने की मांग दोहराई। उन्होंने कहा कि नया नाम देश की प्रतिष्ठा को बढ़ाएगा। यह कदम उनकी अमेरिका पहली नीति का हिस्सा है। ट्रंप ने दोहराई न्यू मैक्सिको का नाम बदलने की मांग, कहा- बढ़ेगी प्रतिष्ठा।",
-          "region": "अमेरिका"
+          "title": "'7.8% से बढ़ रही भारत की अर्थव्यवस्था, वैश्विक वृद्धि में 16% योगदान'; राजनाथ सिंह ने क्या कहा?",
+          "summary": "राजनाथ सिंह ने ताजिकिस्तान में कहा कि भारत की अर्थव्यवस्था 7.8 प्रतिशत की दर से बढ़ रही है। उन्होंने दावा किया कि भारत वैश्विक वृद्धि में 16 प्रतिशत का योगदान दे रहा है। यह बयान उनकी विदेश यात्रा के दौरान दिया गया। ताजिकिस्तान: '7.8% से बढ़ रही भारत की अर्थव्यवस्था, वैश्विक वृद्धि में 16% योगदान'; राजनाथ सिंह ने क्या कहा?",
+          "region": "एशिया-प्रशांत"
         }
       }
     }

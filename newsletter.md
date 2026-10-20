@@ -1,74 +1,38 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 20, 2026 19:28 IST
+**Updated:** October 20, 2026 23:45 IST
 
 ---
 
-## Middle East & Africa
+## Americas
 
-### [Yemen war continues to force families from homes amid hunger and disease](https://news.un.org/feed/view/en/story/2026/10/1168629)
-*UN News* - Oct 20, 17:30 IST (iso: 2026-10-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image770x420cropped.jpg -->
+### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
 
-Over 250,000 people have fled renewed fighting in Yemen, the United Nations reported. Access to the southwestern city of Taiz is essentially blocked. This has trapped residents in areas facing severe hunger and disease. The displacement continues to strain local humanitarian resources. More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.
+Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
 
-### [Dhaka’s silence on Saudi executions puts remittances over lives](https://asiatimes.com/2026/10/dhakas-silence-on-saudi-executions-puts-remittances-over-lives/)
-*Asia Times* - Oct 20, 14:14 IST (iso: 2026-10-20T08:44:17+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Mecca-Saudi-Arabia.jpg -->
+### [Inside the New York ‘time machine’ racing to save a century of sound and film](https://news.un.org/feed/view/en/story/2026/10/1168608)
+*UN News* - Oct 18, 17:30 IST (iso: 2026-10-18T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image560x340cropped.jpg -->
 
-Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.
-
-### [A growing national crisis and a strategic warning](https://asiatimes.com/2026/10/south-korea-a-growing-national-crisis-and-a-strategic-warning/)
-*Asia Times* - Oct 19, 20:59 IST (iso: 2026-10-19T15:29:22+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/extrawide_3x1-e1792418247678.jpg -->
-
-South Korea's per capita GDP is projected to surpass Japan's by 2027. The International Monetary Fund estimates Korea will reach $49,000. Japan is expected to sit between $37,000 and $38,000. This shift highlights Korea's semiconductor strength. Recent media reports projecting South Korea’s per capita GDP to surpass Japan’s have generated considerable excitement across the regional countries that see Korea as a role model.
-
-### [Guterres honours Indonesian troops who paid ‘ultimate sacrifice’](https://news.un.org/feed/view/en/story/2026/10/1168623)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image770x420cropped.jpg -->
-
-UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
-
-### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg -->
-
-The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
-
-### [Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
-*The Guardian* - Oct 18, 14:30 IST (iso: 2026-10-18T09:00:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/99c40d26cbdbdca2b0abb4f3ee9ba91e4e235c6a/625_0_4419_3535/master/4419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b18e4e307d53bcc32f3592e6969df8b6 -->
-
-A high-octane, ad-libbed vocal style is redefining Afrobeats music. Known as hypemen, these performers captivate crowds with energetic quips. The trend gained traction through university presentations and live performances. This unique approach to emceeing has flourished across the genre. Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowdsFor the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on. His crowd engagement that day h.
-
-### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
-*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg -->
-
-Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
-
-### [How War is Reshaping Iran’s “Axis of Resistance”](https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance)
-*International Crisis Group* - Oct 16, 23:43 IST (iso: 2026-10-16T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Three years of hostilities have fundamentally altered Iran’s regional alliance network. Tehran now relies more heavily on its own military capabilities. While partner states have diminished military utility, Iran maintains its commitment to their protection. This shift reflects a pragmatic adaptation to the changing security environment in the Middle East. Three years of hostilities have transformed Tehran’s network of allies in the Middle East.
-
-### [Sudan’s war spreads as drones and hunger take a deadly toll](https://news.un.org/feed/view/en/story/2026/10/1168612)
-*UN News* - Oct 16, 17:30 IST (iso: 2026-10-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-07.jpg/image560x340cropped.jpg -->
-
-Drone strikes killed civilians across El Obeid and Blue Nile states. Famine risk now spreads through Darfur and Kordofan regions. The Security Council met to demand a ceasefire and safe aid access. Ambassadors pressed for an end to weapons flows fueling the conflict. As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis.
-
-### [Multiplying Crises, Fraying Consensus at the 2026 UN General Assembly](https://www.crisisgroup.org/vis/global/multiplying-crises-fraying-consensus-2026-un-general-assembly)
-*International Crisis Group* - Oct 16, 05:30 IST (iso: 2026-10-16T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/14045562/pexels-photo-14045562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Leaders at the 2026 UN General Assembly raised multiple peace and security concerns. No single issue dominated the speeches. Crisis Group experts noted competing priorities among member states. The assembly highlighted a fraying consensus on global security challenges. World leaders raised an array of peace and security concerns in their speeches at the 2026UN General Assembly, with no single issue standing out.
+Media preservation engineer Rhony Dostaly works in a basement beneath Lincoln Center. He rescues century-old sound and film recordings from decay. His team makes these historical elements available to modern audiences. The project functions as a digital archive for at-risk cultural media. “I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past.
 
 ---
 
 ## Europe & Russia
+
+### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
+*Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
+<!-- image: https://gdb.rferl.org/67889eaf-352c-4b60-e8c1-08df13a87301_w1200_h630.jpg -->
+
+Ukrainian forces retaken 26 settlements in the Dnipropetrovsk region. The villages are largely destroyed and uninhabitable. Russian troops are being pushed back, but Ukrainian forces face challenges holding the reclaimed territory under constant drone threat. As Russian troops are pushed back, Ukrainian forces face the challenge of holding the reclaimed territory under constant threat from drones. Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins.
+
+### [Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties](https://www.rferl.org/a/georgia-faces-new-test-as-court-weighs-ban-on-five-opposition-parties/33880171.html)
+*Radio Free Europe / Liberty* - Oct 20, 20:49 IST (iso: 2026-10-20T15:19:04+00:00)
+<!-- image: https://gdb.rferl.org/c4530fce-93a8-4573-7515-08df13a869ed_w1200_h630.jpeg -->
+
+Georgia’s Constitutional Court will begin hearings on October 21 regarding a ban on five opposition parties. These parties have collectively won hundreds of thousands of votes. The proceedings mark another critical test for the country’s multiparty democracy, with a final ruling potentially to come later. Georgia’s Constitutional Court will begin hearings on October 21 on a case seeking to ban five opposition parties that together have won hundreds of thousands of votes.
 
 ### [Moldova To Probe Possible Russian Data-Harvesting After RFE/RL Investigation](https://www.rferl.org/a/moldova-russian-data-harvesting-yandex/33879343.html)
 *Radio Free Europe / Liberty* - Oct 20, 15:43 IST (iso: 2026-10-20T10:13:51+00:00)
@@ -81,6 +45,12 @@ Moldova launched an investigation into Yandex for allegedly harvesting citizen d
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-Drones-Drone-Warfare.jpg -->
 
 SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces. This slowdown has raised serious concerns in Kyiv and among its allies. The military-grade service supports critical battlefield communications. The disruption highlights Ukraine’s dependence on external satellite infrastructure. Reports that SpaceX temporarily restricted its satellite internet service for Ukraine’s armed forces have generated serious concern in Kyiv and among the country’s allies.
+
+### [In Delhi or Paris, restoring order cannot replace public trust](https://asiatimes.com/2026/10/in-delhi-or-paris-restoring-order-cannot-replace-public-trust/)
+*Asia Times* - Oct 20, 03:05 IST (iso: 2026-10-19T21:35:11+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/images-4-copy-e1792516749106.jpeg -->
+
+Protests often evolve from specific grievances into broader challenges to political authority. When citizens believe their concerns are ignored, demands for correction become questions of accountability. Restoring order alone cannot replace the need for public trust in governance. Protests rarely remain confined to the grievances that first bring people into the streets. When the citizens believe their concerns are being ignored, a grievance over a particular policy or administrative decision can evolve into a broader challenge to the political authority.
 
 ### [A Russian Military Satellite Gets Very, Very Close To One Used By Ukraine](https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html)
 *Radio Free Europe / Liberty* - Oct 19, 20:32 IST (iso: 2026-10-19T15:02:14+00:00)
@@ -112,27 +82,63 @@ Marco Rubio stated the United States will continue pushing for a Ukraine peace d
 
 Donald Trump defended waiving planned sanctions against Russia to maintain negotiations. Kyiv and some US lawmakers criticized the move. They argued it sends the wrong message to the Kremlin. The decision drew strong opposition from allies. President Donald Trump defended his decision to waive sweeping sanctions planned against Russia as an effort to keep Moscow at the negotiating table amid strong criticism from Kyiv and some US lawmakers that it sends the wrong message to the Kremlin.
 
-### [No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme](https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme)
-*The Guardian* - Oct 16, 23:39 IST (iso: 2026-10-16T18:09:34+00:00)
-<!-- image: https://i.guim.co.uk/img/media/d50e0bb4a5fc6d77b7f869e6a131ef2969dbc048/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df846db4654f171badd8e783969f6519 -->
-
-Downing Street confirmed the UK may impose tariffs on Chinese electric vehicles if it joins the EU's Made in Europe scheme. Beijing warned the move would be discriminatory. France dropped its opposition to British participation in the package. The decision remains pending final negotiations. Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK inclu.
-
 ---
 
-## Americas
+## Middle East & Africa
 
-### [A Warm Welcome for US Secretary of State in Central Asia](https://thediplomat.com/2026/10/a-warm-welcome-for-us-secretary-of-state-in-central-asia/)
-*The Diplomat* - Oct 19, 19:54 IST (iso: 2026-10-19T14:24:00+00:00)
-<!-- image: https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-19-233125.jpg -->
+### [With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb](https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html)
+*Radio Free Europe / Liberty* - Oct 20, 21:33 IST (iso: 2026-10-20T16:03:23+00:00)
+<!-- image: https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg -->
 
-U. S. Secretary of State Marco Rubio traveled to Central Asia. The region offered a warm welcome to the Trump administration. This trip allowed Rubio to bypass other pressing international crises. The visit secured diplomatic goodwill in the area. Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.
+Influential Iranian officials are openly calling for a nuclear bomb. The death of Ali Khamenei has weakened the political taboo surrounding the weapon. Debate is growing over whether the Islamic republic should abandon its long-standing position against developing nukes. Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.
 
-### [Inside the New York ‘time machine’ racing to save a century of sound and film](https://news.un.org/feed/view/en/story/2026/10/1168608)
-*UN News* - Oct 18, 17:30 IST (iso: 2026-10-18T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image560x340cropped.jpg -->
+### [Yemen war continues to force families from homes amid hunger and disease](https://news.un.org/feed/view/en/story/2026/10/1168629)
+*UN News* - Oct 20, 17:30 IST (iso: 2026-10-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image770x420cropped.jpg -->
 
-Media preservation engineer Rhony Dostaly works in a basement beneath Lincoln Center. He rescues century-old sound and film recordings from decay. His team makes these historical elements available to modern audiences. The project functions as a digital archive for at-risk cultural media. “I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past.
+Over 250,000 people have fled renewed fighting in Yemen, the United Nations reported. Access to the southwestern city of Taiz is essentially blocked. This has trapped residents in areas facing severe hunger and disease. The displacement continues to strain local humanitarian resources. More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.
+
+### [Dhaka’s silence on Saudi executions puts remittances over lives](https://asiatimes.com/2026/10/dhakas-silence-on-saudi-executions-puts-remittances-over-lives/)
+*Asia Times* - Oct 20, 14:14 IST (iso: 2026-10-20T08:44:17+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Mecca-Saudi-Arabia.jpg -->
+
+Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.
+
+### [A growing national crisis and a strategic warning](https://asiatimes.com/2026/10/south-korea-a-growing-national-crisis-and-a-strategic-warning/)
+*Asia Times* - Oct 19, 20:59 IST (iso: 2026-10-19T15:29:22+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/extrawide_3x1-e1792418247678.jpg -->
+
+South Korea's per capita GDP is projected to surpass Japan's by 2027. The International Monetary Fund estimates Korea will reach $49,000. Japan is expected to sit between $37,000 and $38,000. This shift highlights Korea's semiconductor strength. Recent media reports projecting South Korea’s per capita GDP to surpass Japan’s have generated considerable excitement across the regional countries that see Korea as a role model.
+
+### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg -->
+
+The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
+
+### [Guterres honours Indonesian troops who paid ‘ultimate sacrifice’](https://news.un.org/feed/view/en/story/2026/10/1168623)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image770x420cropped.jpg -->
+
+UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
+
+### [Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
+*The Guardian* - Oct 18, 14:30 IST (iso: 2026-10-18T09:00:55+00:00)
+<!-- image: https://i.guim.co.uk/img/media/99c40d26cbdbdca2b0abb4f3ee9ba91e4e235c6a/625_0_4419_3535/master/4419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b18e4e307d53bcc32f3592e6969df8b6 -->
+
+A high-octane, ad-libbed vocal style is redefining Afrobeats music. Known as hypemen, these performers captivate crowds with energetic quips. The trend gained traction through university presentations and live performances. This unique approach to emceeing has flourished across the genre. Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowdsFor the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on. His crowd engagement that day h.
+
+### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
+*UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg -->
+
+Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
+
+### [How War is Reshaping Iran’s “Axis of Resistance”](https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance)
+*International Crisis Group* - Oct 16, 23:43 IST (iso: 2026-10-16T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Three years of hostilities have fundamentally altered Iran’s regional alliance network. Tehran now relies more heavily on its own military capabilities. While partner states have diminished military utility, Iran maintains its commitment to their protection. This shift reflects a pragmatic adaptation to the changing security environment in the Middle East. Three years of hostilities have transformed Tehran’s network of allies in the Middle East.
 
 ---
 
@@ -161,12 +167,6 @@ China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded 
 <!-- image: https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db -->
 
 Three people died in separate float crush incidents during Japanese festivals this weekend. Akihiro Nabae, deputy mayor of Saijo, died after becoming trapped beneath a float. Two other men died in similar accidents elsewhere in the country. The cluster of fatalities has raised urgent safety concerns regarding traditional festival operations. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.
-
-### [Strategy trumps scandal as West goes easy on India](https://asiatimes.com/2026/10/strategy-trumps-scandal-as-west-goes-easy-on-india/)
-*Asia Times* - Oct 19, 09:49 IST (iso: 2026-10-19T04:19:25+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Canada-Modi-Carney-2026.jpg -->
-
-Canada and India reaffirmed plans to expand trade and security cooperation on October 13. This move occurred despite ongoing Western accusations of Indian foreign interference and intelligence operations. Prime Minister Mark Carney and Prime Minister Narendra Modi prioritized strategic alignment over diplomatic friction. The decision signals that geopolitical utility outweighs security concerns for Western partners. Western governments are rebuilding ties with India even as they accuse it of foreign interference and of running intelligence operations against people on their soil.
 
 ---
 
