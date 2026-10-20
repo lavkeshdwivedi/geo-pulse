@@ -1,16 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 20, 2026 05:30 IST
+**Updated:** October 20, 2026 08:53 IST
 
 ---
 
 ## Asia-Pacific
 
-### [ASEAN’s quiet work before the next deadly disaster](https://www.channelnewsasia.com/commentary/exercise-disaster-response-asean-singapore-earthquake-tsunami-6471441)
-*Channel News Asia* - Oct 20, 03:30 IST (iso: 2026-10-19T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--VEygEeNo--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-07T094446Z_1_LYNXMPEM860OJ_RTROPTP_3_INDONESIA-VOLCANO.JPG?itok=4PiNDtMR -->
+### [Malaysia has made no commitment to provide financing support to AirAsia, ministry says](https://www.channelnewsasia.com/asia/airasia-malaysia-financing-support-ministry-6474051)
+*Channel News Asia* - Oct 20, 07:35 IST (iso: 2026-10-20T02:05:09+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--pOOXuONe--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-20T012154Z_1_LYNXMPEM9J02C_RTROPTP_3_AIRASIA-AVIATION.JPG?itok=GNLp0PIi -->
 
-ASEAN officials highlight the bloc's behind-the-scenes disaster preparedness efforts. This work often goes unnoticed compared to its political failures. The authors argue this quiet coordination is critical for regional resilience. ASEAN often gets criticised for the political crises it cannot resolve. The work it puts into preparing for major disasters is less visible, say Lim Junli and Ian Li from the S Rajaratnam School of International Studies.
+Malaysia's finance ministry stated it has not committed to funding AirAsia. Any support request will be evaluated against national interests and fiscal sustainability. The decision follows applicable laws and procedures to protect public funds. Any request for support from companies in any sector "will be considered based on the interests of the country and the people, the fiscal sustainability of the government and the protection of public funds, in accordance with applicable laws and procedures," said Malaysia's finance ministry.
+
+### [Japan successfully launches probe in historic Mars moon mission](https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece)
+*The Hindu (International)* - Oct 20, 04:25 IST (iso: 2026-10-19T22:55:01+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/otstwa/article71603096.ece/alternates/LANDSCAPE_1200/2026-10-19T194848Z_1156234402_RC286OAF2VVK_RTRMADP_3_JAPAN-SPACE-PHOBOS-ROCKET.JPG -->
+
+Japan launched the MMX probe toward Mars on Monday. The H3 rocket lifted off from Tanegashima Space Center at 4:41 a. m. local time. The mission targets the Martian moons Phobos and Deimos for scientific study. The flagship H3 rocket carrying the unmanned Martian Moons eXploration (MMX) probe blasted off into a pitch black sky from the Tanegashima Space Center at 4:41 a. m.
 
 ### ['We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In](https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html)
 *Radio Free Europe / Liberty* - Oct 19, 18:12 IST (iso: 2026-10-19T12:42:59+00:00)
@@ -42,12 +48,6 @@ Canada and India reaffirmed plans to expand trade and security cooperation on Oc
 
 Australian governments have tightened foreign interference laws to counter Chinese influence. They also regulated university collaborations and foreign investment. Officials launched a Pacific Step-Up plan. These measures aim to strengthen trade ties with Southeast Asia. Successive Australian governments have reacted with alarm at China’s influence-building activities in Southeast Asia and the Pacific. They have passed foreign interference laws, tightened foreign investment regulations, and regulated university collaborations with institutions overseas.
 
-### [Can a cockroach movement reverse India’s democratic decline?](https://asiatimes.com/2026/10/can-cockroach-movement-reverse-indias-democratic-decline/)
-*Asia Times* - Oct 17, 09:43 IST (iso: 2026-10-17T04:13:03+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Cockroach-Protests.jpg -->
-
-India deployed over 25,000 police officers in New Delhi to stop Cockroach Janta Party protests. Authorities denied the youth-led group permission to demonstrate, citing public order concerns. The security operation resulted in the closure of one in six metro stations. More than 25,000 police officers were deployed across New Delhi recently to prevent demonstrations led by India’s new youth-led political movement, the Cockroach Janta Party (CJP).
-
 ---
 
 ## Middle East & Africa
@@ -63,12 +63,6 @@ A Saudi envoy met the Pakistan Army chief in Rawalpindi. They reviewed progress 
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/extrawide_3x1-e1792418247678.jpg -->
 
 South Korea's per capita GDP is projected to surpass Japan's by 2027. The International Monetary Fund estimates Korea will reach $49,000. Japan is expected to sit between $37,000 and $38,000. This shift highlights Korea's semiconductor strength. Recent media reports projecting South Korea’s per capita GDP to surpass Japan’s have generated considerable excitement across the regional countries that see Korea as a role model.
-
-### [China pulls out of key investment in Sri Lanka port logistics venture](https://www.thehindu.com/news/international/china-pulls-out-of-key-investment-in-sri-lanka-port-logistics-venture/article71602799.ece)
-*The Hindu (International)* - Oct 19, 20:39 IST (iso: 2026-10-19T15:09:35+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/glnuk2/article71602941.ece/alternates/LANDSCAPE_1200/AFP__20260918__C8PA9GV__v2__HighRes__SriLankaEconomyPort.jpg -->
-
-China Merchants withdrew its investment from a Sri Lankan port logistics venture. The 2023 pledge was the first major foreign direct investment after Sri Lanka's debt default. The pullback signals reduced Chinese commitment to the island's infrastructure recovery. When China Merchants pledged the investment in 2023, it was touted as the “first major Foreign Direct Investment” to enter Sri Lanka after the country defaulted on its foreign debt the previous year amid a crushing economic crisis.
 
 ### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
 *UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
@@ -110,6 +104,12 @@ Donald Trump held a rally near Wichita with 15 days left in the election. He aim
 
 A Russian military satellite passed exceptionally close to a Finnish-operated satellite. The Finnish satellite provides intelligence to Ukraine. Officials described the maneuver as concerning and aggressive. They noted it may serve as a signal of hostile intent. Last week, a Russian military satellite came “exceptionally close” to another Finnish-operated satellite that provides intelligence to Ukraine. “It’s concerning and aggressive with potential hostile intent – but I also think cooler heads believe it is signaling on the part of the Russians.”.
 
+### [Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks](https://news.un.org/feed/view/en/story/2026/10/1168620)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image770x420cropped.jpg -->
+
+UN officials in Yerevan warned that biodiversity loss threatens billions of people. The conference emphasized the urgent need for national action. Leaders discussed how protecting ecosystems is critical for future global prosperity and stability. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.
+
 ### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
 *The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
 <!-- image: https://i.guim.co.uk/img/media/70eac97d7dd3289ac3b0e22b1638ee5d18d2b9fa/733_0_5413_4333/master/5413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e30bdf7a1381872da21cdda4a14abc20 -->
@@ -122,7 +122,7 @@ Hurricane Trudy weakened to a tropical storm after threatening Mexico's Pacific 
 
 Marco Rubio stated the United States will continue pushing for a Ukraine peace deal. He warned the conflict risks escalating beyond Russia and Ukraine. The Secretary of State made these remarks while meeting Central Asian officials in Uzbekistan. US Secretary of State Marco Rubio said Washington would continue efforts to end Russia's war against Ukraine, warning that the conflict risks escalating beyond the two countries as he met with Central Asian officials in Uzbekistan.
 
-### [Trump Says Zelenskyy Should 'Get Somebody Else To Negotiate'](https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html)
+### [Trump Again Criticizes Zelenskyy, Says Open To Meeting With Putin And Xi](https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html)
 *Radio Free Europe / Liberty* - Oct 19, 04:22 IST (iso: 2026-10-18T22:52:20+00:00)
 <!-- image: https://gdb.rferl.org/64b2e613-1a72-4d4e-ba1b-94bd8cba2843_w1200_h630.jpg -->
 
