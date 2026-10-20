@@ -1,62 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 20, 2026 08:53 IST
-
----
-
-## Asia-Pacific
-
-### [Malaysia has made no commitment to provide financing support to AirAsia, ministry says](https://www.channelnewsasia.com/asia/airasia-malaysia-financing-support-ministry-6474051)
-*Channel News Asia* - Oct 20, 07:35 IST (iso: 2026-10-20T02:05:09+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--pOOXuONe--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-20T012154Z_1_LYNXMPEM9J02C_RTROPTP_3_AIRASIA-AVIATION.JPG?itok=GNLp0PIi -->
-
-Malaysia's finance ministry stated it has not committed to funding AirAsia. Any support request will be evaluated against national interests and fiscal sustainability. The decision follows applicable laws and procedures to protect public funds. Any request for support from companies in any sector "will be considered based on the interests of the country and the people, the fiscal sustainability of the government and the protection of public funds, in accordance with applicable laws and procedures," said Malaysia's finance ministry.
-
-### [Japan successfully launches probe in historic Mars moon mission](https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece)
-*The Hindu (International)* - Oct 20, 04:25 IST (iso: 2026-10-19T22:55:01+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/otstwa/article71603096.ece/alternates/LANDSCAPE_1200/2026-10-19T194848Z_1156234402_RC286OAF2VVK_RTRMADP_3_JAPAN-SPACE-PHOBOS-ROCKET.JPG -->
-
-Japan launched the MMX probe toward Mars on Monday. The H3 rocket lifted off from Tanegashima Space Center at 4:41 a. m. local time. The mission targets the Martian moons Phobos and Deimos for scientific study. The flagship H3 rocket carrying the unmanned Martian Moons eXploration (MMX) probe blasted off into a pitch black sky from the Tanegashima Space Center at 4:41 a. m.
-
-### ['We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In](https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html)
-*Radio Free Europe / Liberty* - Oct 19, 18:12 IST (iso: 2026-10-19T12:42:59+00:00)
-<!-- image: https://gdb.rferl.org/8A1507F1-461D-4A8A-8AFE-4242DBCAA259.jpg -->
-
-Daniel Rosenblum, a former US ambassador, warns that American business efforts in Central Asia face significant hurdles. He argues the United States will not become a major regional player despite recent diplomatic outreach. Marco Rubio has brought nearly 300 American business representatives to Uzbekistan for a meeting with representatives of the five states of Central Asia. But Daniel N. Rosenblum, a former US ambassador to Uzbekistan and Kazakhstan, cautions that investment faces major obstacles.
-
-### [Owner or owned? Indonesia’s Chinese battery chain dilemma](https://asiatimes.com/2026/10/owner-or-owned-indonesias-chinese-battery-chain-dilemma/)
-*Asia Times* - Oct 19, 15:51 IST (iso: 2026-10-19T10:21:06+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Battery-EVs-copy.jpg -->
-
-Indonesia seeks to transform raw nickel exports into high-value EV batteries. The strategy relies heavily on Chinese investment and technology, raising questions about whether Indonesia controls its supply chain or remains dependent on foreign partners. Indonesia has spent a decade trying to turn its mineral wealth into something more valuable than raw commodity exports. The strategy is ambitious: restrict raw nickel exports, attract investment, build processing capacity and move downstream into electric-vehicle (EV) batteries that will power the next generation of transport and energy storage.
-
-### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
-*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
-<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
-
-China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
-
-### [Strategy trumps scandal as West goes easy on India](https://asiatimes.com/2026/10/strategy-trumps-scandal-as-west-goes-easy-on-india/)
-*Asia Times* - Oct 19, 09:49 IST (iso: 2026-10-19T04:19:25+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Canada-Modi-Carney-2026.jpg -->
-
-Canada and India reaffirmed plans to expand trade and security cooperation on October 13. This move occurred despite ongoing Western accusations of Indian foreign interference and intelligence operations. Prime Minister Mark Carney and Prime Minister Narendra Modi prioritized strategic alignment over diplomatic friction. The decision signals that geopolitical utility outweighs security concerns for Western partners. Western governments are rebuilding ties with India even as they accuse it of foreign interference and of running intelligence operations against people on their soil.
-
-### [What Australia could learn from SE Asia about managing China](https://asiatimes.com/2026/10/what-australia-could-learn-from-se-asia-about-managing-china/)
-*Asia Times* - Oct 19, 08:31 IST (iso: 2026-10-19T03:01:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/ASEAN.jpg -->
-
-Australian governments have tightened foreign interference laws to counter Chinese influence. They also regulated university collaborations and foreign investment. Officials launched a Pacific Step-Up plan. These measures aim to strengthen trade ties with Southeast Asia. Successive Australian governments have reacted with alarm at China’s influence-building activities in Southeast Asia and the Pacific. They have passed foreign interference laws, tightened foreign investment regulations, and regulated university collaborations with institutions overseas.
+**Updated:** October 20, 2026 14:27 IST
 
 ---
 
 ## Middle East & Africa
 
-### [Saudi envoy meets Pakistan Army chief, discusses regional security dynamics](https://www.thehindu.com/news/international/saudi-envoy-meets-pakistan-army-chief-discusses-regional-security-dynamics/article71603090.ece)
-*The Hindu (International)* - Oct 20, 02:18 IST (iso: 2026-10-19T20:48:00+00:00)
-<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
+### [Dhaka’s silence on Saudi executions puts remittances over lives](https://asiatimes.com/2026/10/dhakas-silence-on-saudi-executions-puts-remittances-over-lives/)
+*Asia Times* - Oct 20, 14:14 IST (iso: 2026-10-20T08:44:17+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Mecca-Saudi-Arabia.jpg -->
 
-A Saudi envoy met the Pakistan Army chief in Rawalpindi. They reviewed progress under the Makkah Joint Defence Agreement. Both sides emphasized strengthening defense collaboration and strategic coordination for regional security. During the meeting at General Headquarters in Rawalpindi, both sides expressed satisfaction over the progress made under the framework of the Makkah Joint Defence Agreement and underscored the importance of strengthening defence collaboration, institutional linkages and strategic coordination, the army said in a statement.
+Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.
 
 ### [A growing national crisis and a strategic warning](https://asiatimes.com/2026/10/south-korea-a-growing-national-crisis-and-a-strategic-warning/)
 *Asia Times* - Oct 19, 20:59 IST (iso: 2026-10-19T15:29:22+00:00)
@@ -78,7 +32,7 @@ UN Secretary-General António Guterres honored four Indonesian peacekeepers kill
 
 ### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
 *UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image770x420cropped.jpg -->
 
 Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
 
@@ -88,15 +42,83 @@ Families in the Gaza Strip are bracing for a winter of severe cold and rain that
 
 Iran's government has survived war, economic crisis, and mass protests. Vahid Pourostad attributes this resilience to entrenched power networks. The opposition remains fractured and unable to mount a unified challenge. The Islamic republic continues to hold power despite severe internal and external pressure. Iran’s Islamic republic has survived war, economic crisis, and widespread protests. So why is the system still standing?
 
+### [How War is Reshaping Iran’s “Axis of Resistance”](https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance)
+*International Crisis Group* - Oct 16, 23:43 IST (iso: 2026-10-16T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Three years of hostilities have fundamentally altered Iran’s regional alliance network. Tehran now relies more heavily on its own military capabilities. While partner states have diminished military utility, Iran maintains its commitment to their protection. This shift reflects a pragmatic adaptation to the changing security environment in the Middle East. Three years of hostilities have transformed Tehran’s network of allies in the Middle East.
+
+---
+
+## Asia-Pacific
+
+### [China flags APEC's role as key for a challenged global economy](https://www.channelnewsasia.com/east-asia/china-apec-role-global-economy-6474826)
+*Channel News Asia* - Oct 20, 13:51 IST (iso: 2026-10-20T08:21:58+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Gq32YyLy--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-20T072426Z_1_LYNXMPEM9J0DE_RTROPTP_3_APEC-SUMMIT.JPG?itok=VRsCr50Q -->
+
+China’s Finance Minister Lan Foan urged APEC members to strengthen cooperation to stimulate economic growth. He cited rapid global changes and geopolitical conflicts as primary drivers of current instability. The call for closer regional collaboration aims to mitigate the broader economic fallout affecting the Asia-Pacific bloc. China's Finance Minister Lan Foan called on APEC members to work more closely together to boost growth at a time when the global economy has been rocked by rapid change and the fallout from geopolitical conflicts.
+
+### ['We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In](https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html)
+*Radio Free Europe / Liberty* - Oct 19, 18:12 IST (iso: 2026-10-19T12:42:59+00:00)
+<!-- image: https://gdb.rferl.org/8A1507F1-461D-4A8A-8AFE-4242DBCAA259.jpg -->
+
+Daniel Rosenblum, a former US ambassador, warns that American business efforts in Central Asia face significant hurdles. He argues the United States will not become a major regional player despite recent diplomatic outreach. Marco Rubio has brought nearly 300 American business representatives to Uzbekistan for a meeting with representatives of the five states of Central Asia. But Daniel N. Rosenblum, a former US ambassador to Uzbekistan and Kazakhstan, cautions that investment faces major obstacles.
+
+### [Owner or owned? Indonesia’s Chinese battery chain dilemma](https://asiatimes.com/2026/10/owner-or-owned-indonesias-chinese-battery-chain-dilemma/)
+*Asia Times* - Oct 19, 15:51 IST (iso: 2026-10-19T10:21:06+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Battery-EVs-copy.jpg -->
+
+Indonesia seeks to transform raw nickel exports into high-value EV batteries. The strategy relies heavily on Chinese investment and technology, raising questions about whether Indonesia controls its supply chain or remains dependent on foreign partners. Indonesia has spent a decade trying to turn its mineral wealth into something more valuable than raw commodity exports. The strategy is ambitious: restrict raw nickel exports, attract investment, build processing capacity and move downstream into electric-vehicle (EV) batteries that will power the next generation of transport and energy storage.
+
+### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
+*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
+<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
+
+China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
+
+### [Three deaths from float crushes raise safety concerns over Japanese festivals](https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents)
+*The Guardian* - Oct 19, 14:38 IST (iso: 2026-10-19T09:08:34+00:00)
+<!-- image: https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db -->
+
+Three people died in separate float crush incidents during Japanese festivals this weekend. Akihiro Nabae, deputy mayor of Saijo, died after becoming trapped beneath a float. Two other men died in similar accidents elsewhere in the country. The cluster of fatalities has raised urgent safety concerns regarding traditional festival operations. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.
+
+### [Strategy trumps scandal as West goes easy on India](https://asiatimes.com/2026/10/strategy-trumps-scandal-as-west-goes-easy-on-india/)
+*Asia Times* - Oct 19, 09:49 IST (iso: 2026-10-19T04:19:25+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/India-Canada-Modi-Carney-2026.jpg -->
+
+Canada and India reaffirmed plans to expand trade and security cooperation on October 13. This move occurred despite ongoing Western accusations of Indian foreign interference and intelligence operations. Prime Minister Mark Carney and Prime Minister Narendra Modi prioritized strategic alignment over diplomatic friction. The decision signals that geopolitical utility outweighs security concerns for Western partners. Western governments are rebuilding ties with India even as they accuse it of foreign interference and of running intelligence operations against people on their soil.
+
+### [What Australia could learn from SE Asia about managing China](https://asiatimes.com/2026/10/what-australia-could-learn-from-se-asia-about-managing-china/)
+*Asia Times* - Oct 19, 08:31 IST (iso: 2026-10-19T03:01:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/ASEAN.jpg -->
+
+Australian governments have tightened foreign interference laws to counter Chinese influence. They also regulated university collaborations and foreign investment. Officials launched a Pacific Step-Up plan. These measures aim to strengthen trade ties with Southeast Asia. Successive Australian governments have reacted with alarm at China’s influence-building activities in Southeast Asia and the Pacific. They have passed foreign interference laws, tightened foreign investment regulations, and regulated university collaborations with institutions overseas.
+
+---
+
+## Americas
+
+### [Alberta voters reject plan for referendum to leave Canada, CBC projects](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+*The Guardian* - Oct 20, 11:20 IST (iso: 2026-10-20T05:50:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/6585f11300e7b962eb4456637c4e063b6ea81148/625_0_3345_2678/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba0f8b74d2009b445bc208dfdbdda841 -->
+
+Alberta voters overwhelmingly rejected a proposal to begin a process toward Canadian independence, according to CBC projections. With over one million votes counted, approximately 76 percent supported maintaining the status quo. The result delivers a significant political victory for Prime Minister Mark Carney and advocates of national unity. Projection delivers a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process toward independence, the national broadcaster CBC has projected, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1m votes counted early on Tuesday, about 76% suppo.
+
+### [A Warm Welcome for US Secretary of State in Central Asia](https://thediplomat.com/2026/10/a-warm-welcome-for-us-secretary-of-state-in-central-asia/)
+*The Diplomat* - Oct 19, 19:54 IST (iso: 2026-10-19T14:24:00+00:00)
+<!-- image: https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-19-233125.jpg -->
+
+U. S. Secretary of State Marco Rubio traveled to Central Asia. The region offered a warm welcome to the Trump administration. This trip allowed Rubio to bypass other pressing international crises. The visit secured diplomatic goodwill in the area. Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.
+
+### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
+*The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
+
+Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
+
 ---
 
 ## Europe & Russia
-
-### [Donald Trump rallies on Republican turf as midterm fears mount](https://www.thehindu.com/news/international/donald-trump-rallies-on-republican-turf-as-midterm-fears-mount/article71603048.ece)
-*The Hindu (International)* - Oct 19, 22:48 IST (iso: 2026-10-19T17:18:34+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/wwm0yz/article71603047.ece/alternates/LANDSCAPE_1200/Trump_13626.jpg -->
-
-Donald Trump held a rally near Wichita with 15 days left in the election. He aimed to support Senator Roger Marshall. Marshall is tied with a Methodist pastor in a tight race for the Senate seat. With 15 days until the November 3 vote, Donald Trump’s rally on the outskirts of Wichita aims to shore up Senator Roger Marshall, who is locked in a dead heat with a Methodist megachurch pastor.
 
 ### [A Russian Military Satellite Gets Very, Very Close To One Used By Ukraine](https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html)
 *Radio Free Europe / Liberty* - Oct 19, 20:32 IST (iso: 2026-10-19T15:02:14+00:00)
@@ -145,28 +167,6 @@ Russia fired missiles and drones at Ukrainian cities on 17 October, killing at l
 <!-- image: https://gdb.rferl.org/5b32fe71-af7f-4c89-bb04-5cebebf97c4a_w1200_h630.jpg -->
 
 Trump waived nearly all sanctions from the Graham Act before they took effect. The bipartisan law aimed to pressure Russia to end its war against Ukraine. The move prompted sharp criticism from Ukraine advocates. Lawmakers from both parties in the US condemned the decision. US President Donald Trump has waived nearly all substantive sanctions, tariffs, and restrictions included in a bipartisan law aimed at pressuring Russia to end its war against Ukraine, prompting sharp criticism from Ukraine advocates and US lawmakers from both parties.
-
-### [China, Russia quietly moving toward a new Arctic axis](https://asiatimes.com/2026/10/china-russia-quietly-moving-toward-a-new-arctic-axis/)
-*Asia Times* - Oct 17, 10:45 IST (iso: 2026-10-17T05:15:49+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Arctic-Shipping.jpg -->
-
-Putin’s advisor Nikolai Patrushev visited China to advance Arctic cooperation. The talks focused on converting maritime agreements into durable infrastructure and logistics. This shift aims to build a resilient axis that can withstand ongoing geopolitical pressure. Russian President Vladimir Putin’s advisor Nikolai Patrushev’s recent visit to China points to something more consequential than another round of Russia-China strategic rhetoric: Moscow is trying to turn maritime cooperation with Beijing into infrastructure, technology and logistics that can survive geopolitical pressure.
-
----
-
-## Americas
-
-### [A Warm Welcome for US Secretary of State in Central Asia](https://thediplomat.com/2026/10/a-warm-welcome-for-us-secretary-of-state-in-central-asia/)
-*The Diplomat* - Oct 19, 19:54 IST (iso: 2026-10-19T14:24:00+00:00)
-<!-- image: https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-19-233125.jpg -->
-
-U. S. Secretary of State Marco Rubio traveled to Central Asia. The region offered a warm welcome to the Trump administration. This trip allowed Rubio to bypass other pressing international crises. The visit secured diplomatic goodwill in the area. Not only can Rubio avoid the most pressing international crises by jetting off to Central Asia, but he – and the Trump administration more broadly – were guaranteed to receive a warm welcome in the region.
-
-### [‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina](https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina)
-*The Guardian* - Oct 18, 09:30 IST (iso: 2026-10-18T04:00:49+00:00)
-<!-- image: https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711 -->
-
-Argentina’s president is targeting the Falklands’ oil and fisheries industries amid declining poll numbers. Local residents and military police gathered in the islands’ legislative assembly. The move signals renewed hostility toward the British territory after four decades. Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.
 
 ---
 
