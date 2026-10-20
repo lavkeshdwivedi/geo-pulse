@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-10-20T18:15:11.412722+00:00",
+  "generated_at": "2026-10-20T21:59:37.884548+00:00",
   "article_count": 50,
-  "total_unique_count": 264,
+  "total_unique_count": 256,
   "digest": {
-    "en": "Alberta voters just rejected a plan to leave Canada, a decisive check on separatist momentum. Meanwhile, Iranian officials openly call for a nuclear bomb as the regional war stalls. The contrast between domestic consolidation and strategic escalation defines this hour.",
-    "hi": "रूबियो ने पाकिस्तान को सऊदी अरब में तैनाती की पेशकश करते हुए QUAD और होर्मुज पर बातचीत का रास्ता खोला। इसी दौरान चीन ने DeepSeek पर अमेरिकी बैन को ट्रंप-जिनपिंग समझौते का उल्लंघन करार दिया।"
+    "en": "An aerial drone rescued a wounded Ukrainian soldier near Bakhmut, marking the first combat extraction of its kind in the war.",
+    "hi": "सूडान और दक्षिण सूडान के सीमा क्षेत्र में ड्रोन हमला हुआ, जिससे 153 लोगों की मौत हुई और कई घायल हुए, लक्ष्य का निर्धारण अभी अनिश्चित है। उसी समय यूक्रेन को रूसी मिसाइल हमलों की पहले से सूचना मिलने की पुष्टि हुई, जिससे रक्षा तैयारियों में बदलाव की उम्मीद है।"
   },
   "articles": [
+    {
+      "title": "Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone",
+      "url": "https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-20T19:52:44+00:00",
+      "image_url": "https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg",
+      "summary": "Ukrainian forces used a hexacopter drone to evacuate a soldier with leg injuries from the front lines. The military described the operation as a first. Fellow servicemen called the rescued soldier a hero for strapping himself to the aircraft. He returned safely to his unit. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump Says Ukraine Has To Want To Settle War",
+      "url": "https://www.ndtv.com/world-news/donald-trump-says-ukraine-has-to-want-to-settle-war-12212527#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-10-20T19:16:25+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-10/jrajsh1k_donald-trump_625x300_01_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "summary": "Trump claimed Russia holds the advantage in the war. He described the country as a big machine that keeps grinding forward. He noted that Moscow has already captured a very large piece of land. This framing suggests Ukraine must seek a settlement. Trump suggested Moscow had the upper hand in the fight because \"Russia is a big machine - they just keep grinding forward, and that's what they've done.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
       "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
@@ -40,6 +64,18 @@
       "image_url": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
       "summary": "Influential Iranian officials are openly calling for a nuclear bomb. The death of Ali Khamenei has weakened the political taboo surrounding the weapon. Debate is growing over whether the Islamic republic should abandon its long-standing position against developing nukes. Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-20T15:41:44+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/693b685efa99890c59fcc2ef30cf05e163c53c8a/307_256_1170_936/master/1170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39ee72c08e3ea1b650967af3ff0b3d36",
+      "summary": "Flávio Bolsonaro’s debate comment calling his rival corrupt backfired. Social media users quickly turned the moment into a viral meme. The stunt was meant to highlight alleged crookedness before the election runoff. Instead, it became a widespread parody online. Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election. But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Lu.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -87,6 +123,18 @@
       "published_at": "2026-10-20T09:37:26+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-Drones-Drone-Warfare.jpg",
       "summary": "SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces. This slowdown has raised serious concerns in Kyiv and among its allies. The military-grade service supports critical battlefield communications. The disruption highlights Ukraine’s dependence on external satellite infrastructure. Reports that SpaceX temporarily restricted its satellite internet service for Ukraine’s armed forces have generated serious concern in Kyiv and among the country’s allies.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "After Oslo Talks, Zelenskyy Thanks US As Missile Intelligence 'Works Now'",
+      "url": "https://www.rferl.org/a/ukraine-russia-attack-zelenskyy-oslo-meeting/33880037.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-20T09:25:25+00:00",
+      "image_url": "https://gdb.rferl.org/9447997b-440f-4e91-8294-ad127b254418_cx5_cy12_cw86_w1200_h630.jpg",
+      "summary": "Zelenskyy thanked the United States after Oslo talks. He said missile intelligence now works effectively. US envoys Steve Witkoff and Jared Kushner joined the meetings. Russia continues to bomb Ukraine while tensions between Kyiv and Washington grow. US special envoys Steve Witkoff and Jared Kushner will take part in meetings in Oslo to discuss the situation in Ukraine with President Volodymyr Zelenskyy as Russia continues to pound the country amid growing tensions between Kyiv and Washington.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -157,7 +205,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg",
       "summary": "The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -184,18 +232,6 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image560x340cropped.jpg",
       "summary": "UN officials in Yerevan warned that biodiversity loss threatens billions of people. The conference emphasized the urgent need for national action. Leaders discussed how protecting ecosystems is critical for future global prosperity and stability. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Owner or owned? Indonesia’s Chinese battery chain dilemma",
-      "url": "https://asiatimes.com/2026/10/owner-or-owned-indonesias-chinese-battery-chain-dilemma/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-10-19T10:21:06+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Battery-EVs-copy.jpg",
-      "summary": "Indonesia seeks to transform raw nickel exports into high-value EV batteries. The strategy relies heavily on Chinese investment and technology, raising questions about whether Indonesia controls its supply chain or remains dependent on foreign partners. Indonesia has spent a decade trying to turn its mineral wealth into something more valuable than raw commodity exports. The strategy is ambitious: restrict raw nickel exports, attract investment, build processing capacity and move downstream into electric-vehicle (EV) batteries that will power the next generation of transport and energy storage.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -260,30 +296,6 @@
       "translations": {}
     },
     {
-      "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168608",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-18T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image560x340cropped.jpg",
-      "summary": "Media preservation engineer Rhony Dostaly works in a basement beneath Lincoln Center. He rescues century-old sound and film recordings from decay. His team makes these historical elements available to modern audiences. The project functions as a digital archive for at-risk cultural media. “I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
-      "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-18T09:00:55+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/99c40d26cbdbdca2b0abb4f3ee9ba91e4e235c6a/625_0_4419_3535/master/4419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b18e4e307d53bcc32f3592e6969df8b6",
-      "summary": "A high-octane, ad-libbed vocal style is redefining Afrobeats music. Known as hypemen, these performers captivate crowds with energetic quips. The trend gained traction through university presentations and live performances. This unique approach to emceeing has flourished across the genre. Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowdsFor the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on. His crowd engagement that day h.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
       "source": "UN News",
@@ -296,16 +308,238 @@
       "translations": {}
     },
     {
-      "title": "How War is Reshaping Iran’s “Axis of Resistance”",
-      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance",
-      "source": "International Crisis Group",
+      "title": "अहोई माता की पूजा कब करें? जानें सही तारीख, शुभ मुहूर्त और व्रत का महत्व",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/ahoi-ashtami-2026-know-the-date-auspicious-muhurat-and-significance-of-the-fast-in-hindi-2026-10-17",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-16T18:13:00+00:00",
-      "image_url": "https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Three years of hostilities have fundamentally altered Iran’s regional alliance network. Tehran now relies more heavily on its own military capabilities. While partner states have diminished military utility, Iran maintains its commitment to their protection. This shift reflects a pragmatic adaptation to the changing security environment in the Middle East. Three years of hostilities have transformed Tehran’s network of allies in the Middle East.",
+      "published_at": "2026-10-21T07:16:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/05/ahaii-ashhatama_6743215d002a4f23178880d0e2e98e82.jpeg?w=1200&dpr=1.0",
+      "summary": "अहोई अष्टमी पर माताएं संतान की लंबी उम्र और स्वास्थ्य की कामना से व्रत रखती हैं। इस दिन अहोई माता की पूजा और तारों के दर्शन किए जाते हैं। अहोई अष्टमी का व्रत संतान की लंबी उम्र, अच्छे स्वास्थ्य और सुख-समृद्धि की कामना से रखा जाता है। इस दिन माताएं अहोई माता की पूजा करती हैं। जानें अहोई अष्टमी की सही तारीख, शुभ मुहूर्त, पूजा विधि और तारों के दर्शन का समय।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अहोई माता की पूजा कब करें? जानें सही तारीख, शुभ मुहूर्त और व्रत का महत्व",
+          "summary": "अहोई अष्टमी पर माताएं संतान की लंबी उम्र और स्वास्थ्य की कामना से व्रत रखती हैं। इस दिन अहोई माता की पूजा और तारों के दर्शन किए जाते हैं। अहोई अष्टमी का व्रत संतान की लंबी उम्र, अच्छे स्वास्थ्य और सुख-समृद्धि की कामना से रखा जाता है। इस दिन माताएं अहोई माता की पूजा करती हैं। जानें अहोई अष्टमी की सही तारीख, शुभ मुहूर्त, पूजा विधि और तारों के दर्शन का समय।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
+      "url": "https://www.amarujala.com/world/drone-strike-market-disputed-african-region-abyei-sudan-south-sudan-attack-2026-10-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-21T07:08:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/24/south-sudan_da87d6652c2ec6c88430b3de2ac79daf.jpeg?w=1200&dpr=1.0",
+      "summary": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमले में 153 लोगों की मौत हो गई। अभी तक हमले के जिम्मेदार की पहचान नहीं हुई है। अफ्रीका: सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
+          "summary": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमले में 153 लोगों की मौत हो गई। अभी तक हमले के जिम्मेदार की पहचान नहीं हुई है। अफ्रीका: सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद",
+      "url": "https://www.amarujala.com/uttar-pradesh/moradabad/farmer-kuldeep-shot-dead-in-moradabad-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T06:57:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/kasana-ka-gal-marakara-hataya_ff56c260f4c6cba23b0997734dad7ac7.jpeg?w=1200&dpr=1.0",
+      "summary": "मुरादाबाद के गोविंदपुर गांव में शराब पीने के बाद हुए विवाद में दोस्तों ने किसान कुलदीप सिंह की गोली मारकर हत्या कर दी। घटना मंगलवार की रात हुई। मुरादाबाद के डिलारी थाना क्षेत्र के गोविंदपुर गांव में मंगलवार की रात करीब साढ़े आठ बजे किसान कुलदीप सिंह (38) की गोली मारकर हत्या कर दी गई। मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद",
+          "summary": "मुरादाबाद के गोविंदपुर गांव में शराब पीने के बाद हुए विवाद में दोस्तों ने किसान कुलदीप सिंह की गोली मारकर हत्या कर दी। घटना मंगलवार की रात हुई। मुरादाबाद के डिलारी थाना क्षेत्र के गोविंदपुर गांव में मंगलवार की रात करीब साढ़े आठ बजे किसान कुलदीप सिंह (38) की गोली मारकर हत्या कर दी गई। मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
+      "url": "https://www.amarujala.com/world/zelenskyy-says-early-warning-system-resumes-following-rubio-call-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T06:53:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/02/ukraine-peace-talk_98df1a44776d32f040991391558de92c.jpeg?w=1200&dpr=1.0",
+      "summary": "रुबियो से बातचीत के बाद यूक्रेन को रूसी मिसाइल हमलों की पूर्व सूचना फिर मिलेगी। जेलेंस्की ने इस बातचीत के नतीजों पर अपनी प्रतिक्रिया दी है। रुबियो से बातचीत का असर: यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
+          "summary": "रुबियो से बातचीत के बाद यूक्रेन को रूसी मिसाइल हमलों की पूर्व सूचना फिर मिलेगी। जेलेंस्की ने इस बातचीत के नतीजों पर अपनी प्रतिक्रिया दी है। रुबियो से बातचीत का असर: यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेठी ने पिछले पांच चुनाव में तीन अलग-अलग दलों को चुना, दो-दो बार भाजपा-सपा के नाम रही जीत",
+      "url": "https://www.amarujala.com/election/uttar-pradesh-election-2027-amethi-assembly-seat-history-bjp-sp-bsp-congress-political-equation-2026-10-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T06:41:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/14/amatha-sata-ka-samakaranae_a27c2d5adc8b2f6fa3d71ad1b577b5bd.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेठी विधानसभा सीट पर पिछले पांच चुनावों में तीन अलग दलों की जीत हुई है। भाजपा और सपा ने दो-दो बार जीत दर्ज की है। अमेठी ने पिछले पांच चुनाव में तीन अलग-अलग दलों को चुना, दो-दो बार भाजपा-सपा के नाम रही जीत।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेठी ने पिछले पांच चुनाव में तीन अलग-अलग दलों को चुना, दो-दो बार भाजपा-सपा के नाम रही जीत",
+          "summary": "अमेठी विधानसभा सीट पर पिछले पांच चुनावों में तीन अलग दलों की जीत हुई है। भाजपा और सपा ने दो-दो बार जीत दर्ज की है। अमेठी ने पिछले पांच चुनाव में तीन अलग-अलग दलों को चुना, दो-दो बार भाजपा-सपा के नाम रही जीत।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली की रामलीला में शामिल हुईं यामी, आलिया-काजोल समेत दुर्गा पूजा में पहुंचे कई सितारे",
+      "url": "https://www.amarujala.com/entertainment/bollywood/yami-gautam-at-delhi-ram-leela-performed-ravan-dahan-alia-bhatta-and-kajol-were-at-duraga-pandal-2026-10-20",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T06:37:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/salbsa-ka-tayahara_213907a4e4a14122ea845e6d67ad812e.jpeg?w=1200&dpr=1.0",
+      "summary": "यामी गौतम ने दिल्ली के लाल किले में आयोजित रामलीला में भाग लिया। विक्की कौशल, राजकुमार राव और अन्य बॉलीवुड कलाकारों ने दुर्गा पूजा पंडाल में शिरकत की। यह सार्वजनिक उत्सवों में सेलिब्रिटी उपस्थिति का एक सामान्य दृश्य था। Celebs Festival: अभिनेत्री यामी गौतम दिल्ली के लाल किले पर हुई रामलीला में शामिल हुई हैं। वहीं विक्की कौशल, राजकुमार राव और बॉलीवुड के कई कलाकार दुर्गा पूजा पंडाल में नजर आए।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली की रामलीला में शामिल हुईं यामी, आलिया-काजोल समेत दुर्गा पूजा में पहुंचे कई सितारे",
+          "summary": "यामी गौतम ने दिल्ली के लाल किले में आयोजित रामलीला में भाग लिया। विक्की कौशल, राजकुमार राव और अन्य बॉलीवुड कलाकारों ने दुर्गा पूजा पंडाल में शिरकत की। यह सार्वजनिक उत्सवों में सेलिब्रिटी उपस्थिति का एक सामान्य दृश्य था। Celebs Festival: अभिनेत्री यामी गौतम दिल्ली के लाल किले पर हुई रामलीला में शामिल हुई हैं। वहीं विक्की कौशल, राजकुमार राव और बॉलीवुड के कई कलाकार दुर्गा पूजा पंडाल में नजर आए।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी? किया खुलासा",
+      "url": "https://www.amarujala.com/world/prince-harry-says-he-wants-to-work-out-relationship-with-brother-and-father-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T20:45:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/12/parasa-hara_5e2f06751bd9dc91cf2d0afbdcf6d2a4.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रिंस हैरी के पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारने की इच्छा का खुलासा हुआ है। ब्रिटेन के रॉयल फैमिली के भीतर यह संभावित बदलाव ध्यान खींच रहा है। स्रोत में इसकी पुष्टि के लिए कोई और विवरण उपलब्ध नहीं है। ब्रिटेन: पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी? किया खुलासा",
+          "summary": "प्रिंस हैरी के पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारने की इच्छा का खुलासा हुआ है। ब्रिटेन के रॉयल फैमिली के भीतर यह संभावित बदलाव ध्यान खींच रहा है। स्रोत में इसकी पुष्टि के लिए कोई और विवरण उपलब्ध नहीं है। ब्रिटेन: पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "लातूर के सूखा पीड़ितों के लिए पूरे वर्ष की सैलरी देंगे पूर्व मंत्री; ठाणे में गोलीबारी, एक की मौत",
+      "url": "https://www.amarujala.com/india-news/maharashtra-updates-latur-drought-ex-min-one-yr-salary-thane-mumbai-nagpur-pune-politics-crime-other-news-2026-10-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T20:30:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
+      "summary": "महाराष्ट्र के लातूर में सूखा पीड़ितों के लिए पूर्व मंत्री ने पूरे वर्ष की सैलरी देने का वादा किया। इसी राज्य के ठाणे में हुई गोलीबारी में एक व्यक्ति की मौत हो गई। दोनों घटनाओं ने राज्य में स्थिति को प्रभावित किया है। महाराष्ट्र: लातूर के सूखा पीड़ितों के लिए पूरे वर्ष की सैलरी देंगे पूर्व मंत्री; ठाणे में गोलीबारी, एक की मौत।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लातूर के सूखा पीड़ितों के लिए पूरे वर्ष की सैलरी देंगे पूर्व मंत्री; ठाणे में गोलीबारी, एक की मौत",
+          "summary": "महाराष्ट्र के लातूर में सूखा पीड़ितों के लिए पूर्व मंत्री ने पूरे वर्ष की सैलरी देने का वादा किया। इसी राज्य के ठाणे में हुई गोलीबारी में एक व्यक्ति की मौत हो गई। दोनों घटनाओं ने राज्य में स्थिति को प्रभावित किया है। महाराष्ट्र: लातूर के सूखा पीड़ितों के लिए पूरे वर्ष की सैलरी देंगे पूर्व मंत्री; ठाणे में गोलीबारी, एक की मौत।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "CJP के समर्थन में BJP छोड़ चुके पूर्व अध्यक्ष अन्नामलाई; असम में बाढ़ पीड़ितों के लिए घर बनेंगे",
+      "url": "https://www.amarujala.com/india-news/national-updates-21st-oct-cjp-annamalai-tamil-nadu-assam-flood-house-north-east-west-south-politics-crime-news-2026-10-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T20:16:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_16003c2ba7e0cb7e22366c606b634689.jpeg?w=1200&dpr=1.0",
+      "summary": "पूर्व बीजेपी अध्यक्ष अन्नामलाई ने सीजेपी के समर्थन में पार्टी छोड़ दी है। असम में बाढ़ से प्रभावित लोगों के लिए नए घर बनाने की योजना शुरू की गई है। ये दोनों घटनाएं राजनीतिक और सामाजिक स्तर पर नोटिस की जा रही हैं। न्यूज डायरी: CJP के समर्थन में BJP छोड़ चुके पूर्व अध्यक्ष अन्नामलाई; असम में बाढ़ पीड़ितों के लिए घर बनेंगे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "CJP के समर्थन में BJP छोड़ चुके पूर्व अध्यक्ष अन्नामलाई; असम में बाढ़ पीड़ितों के लिए घर बनेंगे",
+          "summary": "पूर्व बीजेपी अध्यक्ष अन्नामलाई ने सीजेपी के समर्थन में पार्टी छोड़ दी है। असम में बाढ़ से प्रभावित लोगों के लिए नए घर बनाने की योजना शुरू की गई है। ये दोनों घटनाएं राजनीतिक और सामाजिक स्तर पर नोटिस की जा रही हैं। न्यूज डायरी: CJP के समर्थन में BJP छोड़ चुके पूर्व अध्यक्ष अन्नामलाई; असम में बाढ़ पीड़ितों के लिए घर बनेंगे।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
+      "url": "https://www.amarujala.com/world/italy-s-meloni-approves-tougher-measures-to-crack-down-on-protests-after-milan-riots-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T20:13:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/09/giorgia-meloni_f5eaa24101002f06c3737edc1ac554b4.jpeg?w=1200&dpr=1.0",
+      "summary": "इटली की सरकार ने दंगों के बाद हिंसक प्रदर्शन पर पांच साल की जेल की सख्त सजा लागू की है। नाबालिगों के लिए कानून में संभावित बदलावों पर भी चर्चा हो रही है। यह कदम सार्वजनिक व्यवस्था को सुदृढ़ करने के उद्देश्य से उठाया गया है। इटली: दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
+          "summary": "इटली की सरकार ने दंगों के बाद हिंसक प्रदर्शन पर पांच साल की जेल की सख्त सजा लागू की है। नाबालिगों के लिए कानून में संभावित बदलावों पर भी चर्चा हो रही है। यह कदम सार्वजनिक व्यवस्था को सुदृढ़ करने के उद्देश्य से उठाया गया है। इटली: दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार",
+      "url": "https://www.amarujala.com/world/world-updates-asim-munir-iran-visit-west-asia-russia-ukraine-tension-nepal-bangladesh-politics-crime-news-2026-10-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-20T20:00:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान के शीर्ष नेताओं ने पाकिस्तानी आईएसआई प्रमुख आसिम मुनीर से मुलाकात की। इसी दौरान ब्रिटेन ने जासूसी के दो आरोपियों को फिर से गिरफ्तार किया। दोनों घटनाएँ अलग-अलग क्षेत्रों में हुईं। वर्ल्ड डायरी: ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार",
+          "summary": "ईरान के शीर्ष नेताओं ने पाकिस्तानी आईएसआई प्रमुख आसिम मुनीर से मुलाकात की। इसी दौरान ब्रिटेन ने जासूसी के दो आरोपियों को फिर से गिरफ्तार किया। दोनों घटनाएँ अलग-अलग क्षेत्रों में हुईं। वर्ल्ड डायरी: ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत ने 92 रनों से जीता तीसरा टी20 मैच, जिम्बाब्वे के खिलाफ किया क्लीन स्वीप",
+      "url": "https://www.amarujala.com/video/cricket/india-won-the-third-t20-match-by-92-runs-completing-a-clean-sweep-against-zimbabwe-2026-10-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T19:57:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/ind-w-vs-zim-w-t20-2026_39bf4ecbe07212797d52e6916a3b91df.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत ने जिम्बाब्वे के खिलाफ तीसरा टी20 मैच 92 रनों से जीता। टीम ने सीरीज में क्लीन स्वीप हासिल किया। यह जीत सीरीज के अंतिम मुकाबले में दर्ज की गई। भारत ने 92 रनों से जीता तीसरा टी20 मैच, जिम्बाब्वे के खिलाफ किया क्लीन स्वीप।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत ने 92 रनों से जीता तीसरा टी20 मैच, जिम्बाब्वे के खिलाफ किया क्लीन स्वीप",
+          "summary": "भारत ने जिम्बाब्वे के खिलाफ तीसरा टी20 मैच 92 रनों से जीता। टीम ने सीरीज में क्लीन स्वीप हासिल किया। यह जीत सीरीज के अंतिम मुकाबले में दर्ज की गई। भारत ने 92 रनों से जीता तीसरा टी20 मैच, जिम्बाब्वे के खिलाफ किया क्लीन स्वीप।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान की सत्ता बदलने की चाह से हिजबुल्लाह तक, नेतन्याहू की रणनीति में ट्रंप की भूमिका कितनी अहम?",
+      "url": "https://www.patrika.com/world-news/israel-iran-conflict-benjamin-netanyahu-donald-trump-20997845",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-20T18:22:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp",
+      "summary": "नेतन्याहू ने ईरान की सरकार को सत्ता से हटाने के लक्ष्य की पुष्टि की। उन्होंने ट्रंप के साथ इस विषय पर चर्चा का उल्लेख किया। यह बयान उत्तरी इजरायल के एक यूनिवर्सिटी में दिया गया। Israel-Iran Conflict: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा है कि उनका देश ईरान की सरकार को सत्ता से हटाने के लक्ष्य के लिए प्रतिबद्ध है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान की सत्ता बदलने की चाह से हिजबुल्लाह तक, नेतन्याहू की रणनीति में ट्रंप की भूमिका कितनी अहम?",
+          "summary": "नेतन्याहू ने ईरान की सरकार को सत्ता से हटाने के लक्ष्य की पुष्टि की। उन्होंने ट्रंप के साथ इस विषय पर चर्चा का उल्लेख किया। यह बयान उत्तरी इजरायल के एक यूनिवर्सिटी में दिया गया। Israel-Iran Conflict: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा है कि उनका देश ईरान की सरकार को सत्ता से हटाने के लक्ष्य के लिए प्रतिबद्ध है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "'मुंगेरीलाल के हसीन सपने' देख रहा पाकिस्तान, मक्का पैक्ट के आर्टिकल-2 से उड़ेंगे तोते",
@@ -326,6 +560,78 @@
       }
     },
     {
+      "title": "‘डबल इंजन कुछ और नहीं...’, यूसुफ पठान का प्लॉट विवाद खत्म होते ही TMC का BJP पर हमला",
+      "url": "https://www.abplive.com/news/india/tmc-attacks-bjp-after-gujarat-government-approved-allotment-of-vadodara-disputed-plot-to-yusuf-pathan-3204613",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-20T18:13:22+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/238a74ed7b84dc57febd94c5b179692b17925156152701126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "टीएमसी ने बीजेपी पर यूसुफ पठान के जमीन विवाद को लेकर हमला किया। पार्टी ने गुजरात की सरकार को वॉशिंग मशीन कहा। यह टिप्पणी सोशल मीडिया पर साझा की गई। पश्चिम बंगाल की पूर्व CM ममता बनर्जी की नेतृत्व वाली पार्टी तृणमूल कांग्रेस (TMC) ने बागी सांसद यूसुफ पठान के गुजरात में जमीन विवाद के खत्म होने को लेकर BJP पर हमला किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘डबल इंजन कुछ और नहीं...’, यूसुफ पठान का प्लॉट विवाद खत्म होते ही TMC का BJP पर हमला",
+          "summary": "टीएमसी ने बीजेपी पर यूसुफ पठान के जमीन विवाद को लेकर हमला किया। पार्टी ने गुजरात की सरकार को वॉशिंग मशीन कहा। यह टिप्पणी सोशल मीडिया पर साझा की गई। पश्चिम बंगाल की पूर्व CM ममता बनर्जी की नेतृत्व वाली पार्टी तृणमूल कांग्रेस (TMC) ने बागी सांसद यूसुफ पठान के गुजरात में जमीन विवाद के खत्म होने को लेकर BJP पर हमला किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नवीन पटनायक ने की सौरव-आशुतोष की रिहाई की मांग, बोले- ‘राष्ट्रीय झंडा फहराना...’",
+      "url": "https://www.abplive.com/news/india/bjd-chief-naveen-patnaik-demands-immediate-release-of-cjp-leaders-saurav-das-and-ashutosh-ranka-3204602",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-20T18:13:16+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/ef373d532cee1448c8fc00fd14a0d88817925119146151126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "नवीन पटनायक ने सौरव दास और आशुतोष रांका की रिहाई की मांग की। उन्होंने न्यायिक हिरासत की तुरंत समीक्षा की अपील की। यह बयान कॉकरोच जनता पार्टी के समर्थन में दिया गया। ओडिशा के पूर्व मुख्यमंत्री और मुख्य विपक्षी पार्टी बीजू जनता दल (BJD) के प्रमुख नवीन पटनायक ने मंगलवार (20 अक्टूबर, 2026) को कॉकरोच जनता पार्टी (CJP) के समर्थन में मांग उठाई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नवीन पटनायक ने की सौरव-आशुतोष की रिहाई की मांग, बोले- ‘राष्ट्रीय झंडा फहराना...’",
+          "summary": "नवीन पटनायक ने सौरव दास और आशुतोष रांका की रिहाई की मांग की। उन्होंने न्यायिक हिरासत की तुरंत समीक्षा की अपील की। यह बयान कॉकरोच जनता पार्टी के समर्थन में दिया गया। ओडिशा के पूर्व मुख्यमंत्री और मुख्य विपक्षी पार्टी बीजू जनता दल (BJD) के प्रमुख नवीन पटनायक ने मंगलवार (20 अक्टूबर, 2026) को कॉकरोच जनता पार्टी (CJP) के समर्थन में मांग उठाई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'कभी बर्फ से हुई थी व्यापार की शुरुआत...', भारत-US संबंधों पर बोले एस. जयशंकर",
+      "url": "https://www.abplive.com/news/india/indian-foreign-minister-s-jaishankar-india-usa-realtions-trades-marco-rubio-visit-mumbai-3204621",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-20T18:12:37+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/cd30f7caa27ec093ff6b3fe7407b918817925185063211484_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "एस. जयशंकर ने मुंबई में कहा कि बदलती वैश्विक व्यवस्था में भारत और अमेरिका को व्यापार, प्रौद्योगिकी और ऊर्जा क्षेत्रों में साझेदारी गहरी करनी चाहिए। उन्होंने हिंद-प्रशांत क्षेत्र में शांति और स्थिरता को दोनों देशों का साझा हित बताया। भारत के विदेश मंत्री एस. जयशंकर ने कहा है कि \"बदलती वैश्विक व्यवस्था में भारत और अमेरिका के संबंधों को और मजबूत करने के लिए साझा हितों का विस्तार करना जरूरी है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'कभी बर्फ से हुई थी व्यापार की शुरुआत...', भारत-US संबंधों पर बोले एस. जयशंकर",
+          "summary": "एस. जयशंकर ने मुंबई में कहा कि बदलती वैश्विक व्यवस्था में भारत और अमेरिका को व्यापार, प्रौद्योगिकी और ऊर्जा क्षेत्रों में साझेदारी गहरी करनी चाहिए। उन्होंने हिंद-प्रशांत क्षेत्र में शांति और स्थिरता को दोनों देशों का साझा हित बताया। भारत के विदेश मंत्री एस. जयशंकर ने कहा है कि \"बदलती वैश्विक व्यवस्था में भारत और अमेरिका के संबंधों को और मजबूत करने के लिए साझा हितों का विस्तार करना जरूरी है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बंगाल की खाड़ी में एक चक्रवात की संभावना!, तमिलनाडु में लौटता मानसून सक्रिय",
+      "url": "https://www.abplive.com/news/india/imd-cyclone-possibility-in-the-bay-of-bengal-northeast-monsoon-active-in-tamil-nadu-and-south-india-3204610",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-20T17:52:27+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/adff419b7e5748b8f54d5e9d43c6c9f217925147738431484_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "भारतीय मौसम विभाग ने 23 अक्टूबर को दक्षिण-पूर्वी बंगाल की खाड़ी में कम दबाव के क्षेत्र बनने की संभावना जताई है। यह पूर्वानुमान तमिलनाडु में पूर्वोत्तर मानसून के सक्रिय हो जाने और कावेरी डेल्टा में भारी बारिश के बीच आया है। भारत मौसम विभाग (IMD) ने तमिलनाडु में पूर्वोत्तर मानसून के जोर पकड़ने के साथ ही 23 अक्टूबर को दक्षिण-पूर्वी बंगाल की खाड़ी और उससे सटे समुद्र के मध्य हिस्सों में कम दबाव का क्षेत्र बनने की संभावना जताई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल की खाड़ी में एक चक्रवात की संभावना!, तमिलनाडु में लौटता मानसून सक्रिय",
+          "summary": "भारतीय मौसम विभाग ने 23 अक्टूबर को दक्षिण-पूर्वी बंगाल की खाड़ी में कम दबाव के क्षेत्र बनने की संभावना जताई है। यह पूर्वानुमान तमिलनाडु में पूर्वोत्तर मानसून के सक्रिय हो जाने और कावेरी डेल्टा में भारी बारिश के बीच आया है। भारत मौसम विभाग (IMD) ने तमिलनाडु में पूर्वोत्तर मानसून के जोर पकड़ने के साथ ही 23 अक्टूबर को दक्षिण-पूर्वी बंगाल की खाड़ी और उससे सटे समुद्र के मध्य हिस्सों में कम दबाव का क्षेत्र बनने की संभावना जताई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "ट्रेड डील से लेकर QUAD और पाकिस्तान से लेकर होर्मुज तक, अमेरिकी विदेश मंत्री मार्को रूबियो का पूरा",
       "url": "https://hindi.news18.com/news/nation/marco-rubio-exclusive-interview-india-us-trade-deal-pakistan-rahul-joshi-10924059.html",
       "source": "News18 Hindi (World)",
@@ -339,6 +645,24 @@
         "hi": {
           "title": "ट्रेड डील से लेकर QUAD और पाकिस्तान से लेकर होर्मुज तक, अमेरिकी विदेश मंत्री मार्को रूबियो का पूरा",
           "summary": "अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा कि भारत-अमेरिका ट्रेड डील कुछ हफ्तों में पूरी होगी। इससे टैरिफ दरों में राहत मिलेगी। उन्होंने रूसी तेल खरीद और पाकिस्तान संबंधों पर अपनी रणनीति भी साझा की। क्वाड समिट को लेकर भी अहम संकेत दिए गए। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर-इन-चीफ राहुल जोशी से खास बातचीत की है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अल्बानिया में विरोध प्रदर्शन पर भिड़े शिवसेना नेता, राउत के बयान पर प्रियंका का पलटवार",
+      "url": "https://www.abplive.com/news/india/shiv-sena-ubt-leaders-clash-over-protests-in-albania-priyanka-chaturvedi-hits-back-sanjay-raut-remark-3204620",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-20T17:35:33+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/760c4ad1bf4fd51b501c54baadfdd5f617925174609101324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अल्बानिया में विद्यार्थी प्रदर्शन को लेकर शिवसेना के संजय राउत और प्रियंका चतुर्वेदी के बीच मतभेद सामने आए। राउत ने भारत को इससे सबक लेने की सलाह दी, जबकि चतुर्वेदी ने हिंसक प्रदर्शन से तुलना को खारिज कर दिया। अल्बानिया में स्टूडेंट प्रोटेस्ट को लेकर शिवसेना नेता (UBT) के बीच जुबानी जंग छिड़ गई है. जहां एक तरफ संजय राउत ने सुझाव दिया है कि भारत को इस अशांति से सबक लेना चाहिए.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अल्बानिया में विरोध प्रदर्शन पर भिड़े शिवसेना नेता, राउत के बयान पर प्रियंका का पलटवार",
+          "summary": "अल्बानिया में विद्यार्थी प्रदर्शन को लेकर शिवसेना के संजय राउत और प्रियंका चतुर्वेदी के बीच मतभेद सामने आए। राउत ने भारत को इससे सबक लेने की सलाह दी, जबकि चतुर्वेदी ने हिंसक प्रदर्शन से तुलना को खारिज कर दिया। अल्बानिया में स्टूडेंट प्रोटेस्ट को लेकर शिवसेना नेता (UBT) के बीच जुबानी जंग छिड़ गई है. जहां एक तरफ संजय राउत ने सुझाव दिया है कि भारत को इस अशांति से सबक लेना चाहिए.",
           "region": "यूरोप और रूस"
         }
       }
@@ -362,398 +686,74 @@
       }
     },
     {
-      "title": "'पाकिस्तान से अमेरिका के रिश्ते भारत के हित में' अमेरिकी विदेश मंत्री मार्को रूबियो ने समझाई पूरी",
-      "url": "https://hindi.news18.com/news/nation/marco-rubio-exclusive-america-relations-with-pakistan-is-in-india-interest-us-secretary-of-state-explains-how-10924126.html",
-      "source": "News18 Hindi (World)",
+      "title": "विजयादशमी पर उपराष्ट्रपति सीपी राधाकृष्णन का संदेश, ‘अधर्म पर धर्म की होती है जीत’",
+      "url": "https://www.abplive.com/news/india/vice-president-cp-radhakrishnan-message-to-people-on-dussehra-says-dharma-triumphs-over-adharma-3204618",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-10-20T16:10:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Marco-Rubio-1-2026-10-c9ee00e049fe6aa20ebcec0de364e33f-1200x800.jpg",
-      "summary": "मार्को रूबियो ने पाकिस्तान से अमेरिका के रिश्तों को भारत के हित में बताया। उन्होंने कहा कि इससे अमेरिका पाकिस्तान को ऐसे कामों से रोक सकता है, जिनसे भारत चिंतित है। यह बयान उनके हालिया इंटरव्यू में दिया गया। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटर्वक18 के एडिटर इन चीफ राहुल जोशी को दिए एक्सक्लूसिव इंटरव्यू में पाकिस्तान के साथ अमेरिका के रिश्तों को लेकर बड़ा बयान दिया है.",
+      "published_at": "2026-10-20T17:32:37+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/0177d6ecf1a4a229020f972152d0971f17925174090761126_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "उपराष्ट्रपति सीपी राधाकृष्णन ने दिल्ली के लाल किला मैदान में आयोजित रामलीला कार्यक्रम में दशहरे की शुभकामनाएं दीं। उन्होंने रावण दहन के मौके पर अधर्म पर धर्म की जीत का संदेश देते हुए देशवासियों को बधाई दी। दिल्ली में मंगलवार (20 अक्टूबर, 2026) को दशहरे के मौके पर लव-कुश रामलीला कमेटी की ओर से लाल किला मैदान में रामलीला का मंचन किया गया और रावण दहन किया गया.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'पाकिस्तान से अमेरिका के रिश्ते भारत के हित में' अमेरिकी विदेश मंत्री मार्को रूबियो ने समझाई पूरी",
-          "summary": "मार्को रूबियो ने पाकिस्तान से अमेरिका के रिश्तों को भारत के हित में बताया। उन्होंने कहा कि इससे अमेरिका पाकिस्तान को ऐसे कामों से रोक सकता है, जिनसे भारत चिंतित है। यह बयान उनके हालिया इंटरव्यू में दिया गया। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटर्वक18 के एडिटर इन चीफ राहुल जोशी को दिए एक्सक्लूसिव इंटरव्यू में पाकिस्तान के साथ अमेरिका के रिश्तों को लेकर बड़ा बयान दिया है.",
+          "title": "विजयादशमी पर उपराष्ट्रपति सीपी राधाकृष्णन का संदेश, ‘अधर्म पर धर्म की होती है जीत’",
+          "summary": "उपराष्ट्रपति सीपी राधाकृष्णन ने दिल्ली के लाल किला मैदान में आयोजित रामलीला कार्यक्रम में दशहरे की शुभकामनाएं दीं। उन्होंने रावण दहन के मौके पर अधर्म पर धर्म की जीत का संदेश देते हुए देशवासियों को बधाई दी। दिल्ली में मंगलवार (20 अक्टूबर, 2026) को दशहरे के मौके पर लव-कुश रामलीला कमेटी की ओर से लाल किला मैदान में रामलीला का मंचन किया गया और रावण दहन किया गया.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "क्वाड की मीटिंग कब होगी, क्या भारत आएंगे डोनाल्ड ट्रंप? अमेरिकी विदेश मंत्री ने दिया जवाब",
-      "url": "https://hindi.news18.com/world/america-marco-rubio-exclusive-interview-with-rahul-joshi-on-quad-summit-donald-trump-india-visit-asean-manila-10924271.html",
-      "source": "News18 Hindi (World)",
+      "title": "नहीं हुई सौरव-आशुतोष की याचिका दिल्ली HC में लिस्ट, कल सुनवाई की मांग करेगी लीगल टीम",
+      "url": "https://www.abplive.com/news/india/cjp-saurav-das-and-ashutosh-ranka-petition-will-not-be-listed-tonight-in-delhi-high-court-3204609",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-10-20T15:49:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/marco-rubio-2-2026-10-fd3e84687f5914ab1905171a4a61c365-1200x800.jpg",
-      "summary": "मार्को रूबियो ने क्वाड शिखर सम्मेलन के समय और ट्रंप की उपस्थिति पर सवाल का जवाब दिया। यह बातचीत न्यूज-18 इंडिया के एडिटर-इन-चीफ राहुल जोशी के साथ हुई। रूबियो इस साल भारत की दूसरी यात्रा पर आए हैं। इस दौरान उन्होंने न्यूज-18 इंडिया के एडिटर-इन-चीफ राहुल जोशी के साथ Exclusive बातचीत की. इस दौरान उनसे क्वाड शिखर सम्मेलन को लेकर सवाल किया गया.",
+      "published_at": "2026-10-20T16:46:35+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/6a64a96407e78bf2b8292d74fdc66dcc17925143929371324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सीजेपी नेता सौरव दास और आशुतोष रांका की याचिका दिल्ली हाईकोर्ट में मंगलवार को लिस्ट नहीं हुई। उनकी कानूनी टीम बुधवार 21 अक्टूबर को न्यायिक हिरासत बढ़ाने के एसईएम कोर्ट के आदेश के खिलाफ सुनवाई की मांग करेगी। सौरव दास और आशुतोष रांका की याचिका को मंगलवार को दिल्ली हाईकोर्ट में लिस्ट नहीं किया गया है. उनकी कानूनी टीम कल इस मामले पर सुनवाई की मांग करेगी.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्वाड की मीटिंग कब होगी, क्या भारत आएंगे डोनाल्ड ट्रंप? अमेरिकी विदेश मंत्री ने दिया जवाब",
-          "summary": "मार्को रूबियो ने क्वाड शिखर सम्मेलन के समय और ट्रंप की उपस्थिति पर सवाल का जवाब दिया। यह बातचीत न्यूज-18 इंडिया के एडिटर-इन-चीफ राहुल जोशी के साथ हुई। रूबियो इस साल भारत की दूसरी यात्रा पर आए हैं। इस दौरान उन्होंने न्यूज-18 इंडिया के एडिटर-इन-चीफ राहुल जोशी के साथ Exclusive बातचीत की. इस दौरान उनसे क्वाड शिखर सम्मेलन को लेकर सवाल किया गया.",
+          "title": "नहीं हुई सौरव-आशुतोष की याचिका दिल्ली HC में लिस्ट, कल सुनवाई की मांग करेगी लीगल टीम",
+          "summary": "सीजेपी नेता सौरव दास और आशुतोष रांका की याचिका दिल्ली हाईकोर्ट में मंगलवार को लिस्ट नहीं हुई। उनकी कानूनी टीम बुधवार 21 अक्टूबर को न्यायिक हिरासत बढ़ाने के एसईएम कोर्ट के आदेश के खिलाफ सुनवाई की मांग करेगी। सौरव दास और आशुतोष रांका की याचिका को मंगलवार को दिल्ली हाईकोर्ट में लिस्ट नहीं किया गया है. उनकी कानूनी टीम कल इस मामले पर सुनवाई की मांग करेगी.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "हिंदू मंदिर पर हमले की साजिश, भारतीयों से नफरत पर क्या बोले मार्को रूबियो? कहा- कुछ लोग स्टूपिड",
-      "url": "https://hindi.news18.com/world/america-marco-rubio-rahul-joshi-exclusive-interview-anti-indian-hate-us-hindu-temple-attack-plot-illinois-10924104.html",
-      "source": "News18 Hindi (World)",
+      "title": "'विरोध प्रदर्शन के जरिए एकजुट किया जाता है, लेकिन...', मोहन भागवत बोले- जब यही लोग",
+      "url": "https://www.abplive.com/news/india/rss-chief-mohan-bhagwat-sharp-response-on-vijayadashami-cec-ec-protest-3204548",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-10-20T15:45:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/rahul-joshi-marco-rubio-2026-10-5d8830334ee5317b21c5a6d557bdc512-1200x800.jpg",
-      "summary": "मार्को रूबियो ने नेटवर्क18 के साथ बातचीत में कहा कि अमेरिका में भारतीयों के खिलाफ नफरत व्यापक नहीं है। उन्होंने इलिनॉय के मंदिर पर हमले की साजिश पर टिप्पणी करते हुए माना कि कुछ लोग नफरत फैलाते हैं। अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर इन चीफ राहुल जोशी के साथ एक्सक्लूसिव इंटरव्यू में कहा कि अमेरिका में भारतीयों के खिलाफ नफरत की भावना व्यापक या गहरी नहीं है.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-10-20T16:44:37+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/fc556162a59c0e685525d1e43e53c57417924999872431324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "आरएसएस प्रमुख मोहन भागवत ने नागपुर में विजयादशमी पर कहा कि विरोध प्रदर्शन लोगों को एकजुट करता है, परंतु फूट डालने का कारण भी बन सकता है। उन्होंने लोकतंत्र में आंदोलन को स्वाभाविक मानते हुए समस्या समाधान के उद्देश्य पर जोर दिया। आरएसएस चीफ मोहन भागवत ने नागपुर में विजयादशमी के मौके पर संबोधन दिया. इस दौरान उन्होंने देश में चल रहे प्रदर्शन पर कड़ी प्रतिक्रिया देते हुए कई सवाल उठाए.",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हिंदू मंदिर पर हमले की साजिश, भारतीयों से नफरत पर क्या बोले मार्को रूबियो? कहा- कुछ लोग स्टूपिड",
-          "summary": "मार्को रूबियो ने नेटवर्क18 के साथ बातचीत में कहा कि अमेरिका में भारतीयों के खिलाफ नफरत व्यापक नहीं है। उन्होंने इलिनॉय के मंदिर पर हमले की साजिश पर टिप्पणी करते हुए माना कि कुछ लोग नफरत फैलाते हैं। अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर इन चीफ राहुल जोशी के साथ एक्सक्लूसिव इंटरव्यू में कहा कि अमेरिका में भारतीयों के खिलाफ नफरत की भावना व्यापक या गहरी नहीं है.",
-          "region": "एशिया-प्रशांत"
+          "title": "'विरोध प्रदर्शन के जरिए एकजुट किया जाता है, लेकिन...', मोहन भागवत बोले- जब यही लोग",
+          "summary": "आरएसएस प्रमुख मोहन भागवत ने नागपुर में विजयादशमी पर कहा कि विरोध प्रदर्शन लोगों को एकजुट करता है, परंतु फूट डालने का कारण भी बन सकता है। उन्होंने लोकतंत्र में आंदोलन को स्वाभाविक मानते हुए समस्या समाधान के उद्देश्य पर जोर दिया। आरएसएस चीफ मोहन भागवत ने नागपुर में विजयादशमी के मौके पर संबोधन दिया. इस दौरान उन्होंने देश में चल रहे प्रदर्शन पर कड़ी प्रतिक्रिया देते हुए कई सवाल उठाए.",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "DeepSeek पर अमेरिका के बैन से भड़का चीन, कहा- ट्रंप-जिनपिंग की सहमति के बावजूद पाबंदी लगाना गलत, अब",
-      "url": "https://www.patrika.com/world-news/china-opposes-us-deepseek-ban-donald-trump-xi-jinping-meeting-20997655",
-      "source": "Patrika (World)",
+      "title": "'हमारा रास्ता अहिंसा का', दीपके ने कहा- फ्रांस या बांग्लादेश से नहीं कोई संबंध",
+      "url": "https://www.abplive.com/news/india/our-path-is-non-violence-abhijeet-dipke-said-we-have-no-connection-to-france-or-bangladesh-violence-3204603",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-10-20T14:25:59+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/trumo.webp",
-      "summary": "अमेरिका ने डीपसीक पर बैन लगाया, जिससे चीन ने प्रतिक्रिया दी। चीन का कहना है कि ट्रंप और शी जिनपिंग की सहमति के बावजूद यह पाबंदी गलत है। इससे दोनों देशों के बीच एआई को लेकर तनाव फिर बढ़ा है। कुछ ही दिनों पहले अमेरिका में राष्ट्रपति डोनाल्ड ट्रंप और उनके समकक्ष चीनी राष्ट्रपति शी जिनपिंग की मुलाकात हुई थी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "DeepSeek पर अमेरिका के बैन से भड़का चीन, कहा- ट्रंप-जिनपिंग की सहमति के बावजूद पाबंदी लगाना गलत, अब",
-          "summary": "अमेरिका ने डीपसीक पर बैन लगाया, जिससे चीन ने प्रतिक्रिया दी। चीन का कहना है कि ट्रंप और शी जिनपिंग की सहमति के बावजूद यह पाबंदी गलत है। इससे दोनों देशों के बीच एआई को लेकर तनाव फिर बढ़ा है। कुछ ही दिनों पहले अमेरिका में राष्ट्रपति डोनाल्ड ट्रंप और उनके समकक्ष चीनी राष्ट्रपति शी जिनपिंग की मुलाकात हुई थी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जयशंकर-रूबियो की मीटिंग में तीसरा विदेश मंत्री कौन? क्या अमेरिका-भारत-UAE ने बनाया बड़ा गेमप्लान?",
-      "url": "https://hindi.news18.com/world/middle-east-s-jaishankar-marco-rubio-uae-foreign-minister-tripartite-meeting-mumbai-energy-security-10924040.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T14:18:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/marco-rubio-news-2026-10-3b4293ad918cd49a6641c3d717a3cc6e-1200x800.jpg",
-      "summary": "मुंबई में जयशंकर, रूबियो और शेख अब्दुल्ला बिन जायद अल नाहयान ने त्रिपक्षीय बैठक की। चर्चा ऊर्जा सुरक्षा, कनेक्टिविटी और क्षेत्रीय स्थिति पर हुई। इसके बाद जयशंकर और रूबियो ने द्विपक्षीय बातचीत में व्यापार और रक्षा साझेदारी पर चर्चा की। मुंबई में भारत के विदेश मंत्री एस जयशंकर, अमेरिकी विदेश मंत्री मार्को रूबियो और UAE के विदेश मंत्री शेख अब्दुल्ला बिन जायद अल नाहयान ने त्रिपक्षीय बैठक की.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जयशंकर-रूबियो की मीटिंग में तीसरा विदेश मंत्री कौन? क्या अमेरिका-भारत-UAE ने बनाया बड़ा गेमप्लान?",
-          "summary": "मुंबई में जयशंकर, रूबियो और शेख अब्दुल्ला बिन जायद अल नाहयान ने त्रिपक्षीय बैठक की। चर्चा ऊर्जा सुरक्षा, कनेक्टिविटी और क्षेत्रीय स्थिति पर हुई। इसके बाद जयशंकर और रूबियो ने द्विपक्षीय बातचीत में व्यापार और रक्षा साझेदारी पर चर्चा की। मुंबई में भारत के विदेश मंत्री एस जयशंकर, अमेरिकी विदेश मंत्री मार्को रूबियो और UAE के विदेश मंत्री शेख अब्दुल्ला बिन जायद अल नाहयान ने त्रिपक्षीय बैठक की.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान का दम घोटेगी गले में फंसी होर्मुज की हड्डी! सर्दियों में LNG संकट, बिजली और जहरीली हवा का",
-      "url": "https://hindi.news18.com/news/knowledge/pakistan-lng-gas-shortage-due-to-hormuz-strait-air-pollution-smog-electricity-crisis-10924042.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T14:17:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-design-2026-10-20T192220.352-2026-10-57728ea2039a43f5497a08847cbe6ae1-1200x800.jpg",
-      "summary": "अमेरिका और ईरान के संघर्ष से होर्मुज जलडमरूमध्य की गैस आपूर्ति प्रभावित हुई है। पाकिस्तान को सर्दियों में गैस की कमी का सामना करना पड़ रहा है। देश को अंतरराष्ट्रीय बाजार से महंगी कीमतों पर एलएनजी खरीदना पड़ सकता है। अमेरिका-ईरान के बीच जारी संघर्ष के साथ ही स्ट्रेट ऑफ होर्मुज से गैस की सप्लाई प्रभावित होने की वजह से पाकिस्तान को लिक्विफाइड नेचुरल गैस की कमी का सामना करना पड़ रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान का दम घोटेगी गले में फंसी होर्मुज की हड्डी! सर्दियों में LNG संकट, बिजली और जहरीली हवा का",
-          "summary": "अमेरिका और ईरान के संघर्ष से होर्मुज जलडमरूमध्य की गैस आपूर्ति प्रभावित हुई है। पाकिस्तान को सर्दियों में गैस की कमी का सामना करना पड़ रहा है। देश को अंतरराष्ट्रीय बाजार से महंगी कीमतों पर एलएनजी खरीदना पड़ सकता है। अमेरिका-ईरान के बीच जारी संघर्ष के साथ ही स्ट्रेट ऑफ होर्मुज से गैस की सप्लाई प्रभावित होने की वजह से पाकिस्तान को लिक्विफाइड नेचुरल गैस की कमी का सामना करना पड़ रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जयशंकर और रूबियो ने मिलाया साझेदारी का हाथ, भारत-अमेरिका रिश्ते को मिली नई धार",
-      "url": "https://hindi.news18.com/news/nation/trade-technology-arms-jaishankar-and-marco-rubio-join-hands-in-partnership-new-momentum-to-india-us-relations-10923937.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T14:10:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Marco-Rubio-S-Jaishankar-2026-10-1830ad12b386e48888454bfdaa0204db-1200x800.jpg",
-      "summary": "विदेश मंत्री जयशंकर और अमेरिकी सचिव रूबियो ने 20 अक्टूबर को मुंबई में द्विपक्षीय बैठक की। दोनों देशों ने रणनीतिक साझेदारी को मजबूत करने के लिए नए पहलुओं पर सहमति जताई। यह वार्ता वैश्विक स्थिति में दोनों देशों के संबंधों को नई दिशा देती है। Jaishankar Marco Rubio Meeting: ग्लोबल मंच पर जारी भारी भू-राजनीतिक उथल-पुथल के बीच भारत और अमेरिका की दोस्ती को नई रफ्तार देने के लिए मुंबई में एक बेहद अहम कूटनीतिक बैठक संपन्न हुई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जयशंकर और रूबियो ने मिलाया साझेदारी का हाथ, भारत-अमेरिका रिश्ते को मिली नई धार",
-          "summary": "विदेश मंत्री जयशंकर और अमेरिकी सचिव रूबियो ने 20 अक्टूबर को मुंबई में द्विपक्षीय बैठक की। दोनों देशों ने रणनीतिक साझेदारी को मजबूत करने के लिए नए पहलुओं पर सहमति जताई। यह वार्ता वैश्विक स्थिति में दोनों देशों के संबंधों को नई दिशा देती है। Jaishankar Marco Rubio Meeting: ग्लोबल मंच पर जारी भारी भू-राजनीतिक उथल-पुथल के बीच भारत और अमेरिका की दोस्ती को नई रफ्तार देने के लिए मुंबई में एक बेहद अहम कूटनीतिक बैठक संपन्न हुई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में दिसंबर से फिर बढ़ेंगी ब्याज दरें? फेड के फैसले से दुनिया भर के बाजारों में महंगाई बढ़ने",
-      "url": "https://www.patrika.com/world-news/us-fed-interest-rate-hike-december-2026-20997589",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-20T13:53:18+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-2.webp",
-      "summary": "अमेरिका में तेल की कीमतें 100 डॉलर प्रति बैरल से ऊपर हैं। महंगाई फेडरल रिजर्व के लक्ष्य से काफी आगे है। इन कारणों से दिसंबर में ब्याज दरें फिर बढ़ सकती हैं। इससे दुनिया भर के वित्तीय बाजारों पर प्रभाव पड़ेगा। अमेरिका में महंगाई पर काबू पाने की कोशिशों के बीच केंद्रीय बैंक फेडरल रिजर्व के सामने अब ब्याज दरों को लेकर नई चुनौती खड़ी हो गई है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में दिसंबर से फिर बढ़ेंगी ब्याज दरें? फेड के फैसले से दुनिया भर के बाजारों में महंगाई बढ़ने",
-          "summary": "अमेरिका में तेल की कीमतें 100 डॉलर प्रति बैरल से ऊपर हैं। महंगाई फेडरल रिजर्व के लक्ष्य से काफी आगे है। इन कारणों से दिसंबर में ब्याज दरें फिर बढ़ सकती हैं। इससे दुनिया भर के वित्तीय बाजारों पर प्रभाव पड़ेगा। अमेरिका में महंगाई पर काबू पाने की कोशिशों के बीच केंद्रीय बैंक फेडरल रिजर्व के सामने अब ब्याज दरों को लेकर नई चुनौती खड़ी हो गई है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "नेपाल में बैन हुआ भारत का प्रियागोल्ड बिस्किट, FSSAI की जांच में मिलीं खामियां, कंपनी का लाइसेंस भी",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-bans-priyagold-biscuits-india-surya-food-agro-fssai-food-safety-violations-10923988.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T13:41:54+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/nepal-india-priyagold-biscuit-ban-2026-10-7248652cb062b40b34a81e8729e7c380-1200x800.jpg",
-      "summary": "नेपाल ने सूर्या फूड के प्रियागोल्ड बिस्किटों के आयात पर रोक लगा दी है। FSSAI की जांच में खाद्य सुरक्षा और साफ-सफाई से जुड़ी गंभीर खामियां मिलीं। कंपनी का लाइसेंस निलंबित कर कानूनी कार्रवाई शुरू कर दी गई है। नेपाल ने भारत की सूर्या फूड एंड एग्रो लिमिटेड के बनाए प्रियागोल्ड बिस्किटों के आयात, बिक्री और वितरण पर रोक लगा दी है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल में बैन हुआ भारत का प्रियागोल्ड बिस्किट, FSSAI की जांच में मिलीं खामियां, कंपनी का लाइसेंस भी",
-          "summary": "नेपाल ने सूर्या फूड के प्रियागोल्ड बिस्किटों के आयात पर रोक लगा दी है। FSSAI की जांच में खाद्य सुरक्षा और साफ-सफाई से जुड़ी गंभीर खामियां मिलीं। कंपनी का लाइसेंस निलंबित कर कानूनी कार्रवाई शुरू कर दी गई है। नेपाल ने भारत की सूर्या फूड एंड एग्रो लिमिटेड के बनाए प्रियागोल्ड बिस्किटों के आयात, बिक्री और वितरण पर रोक लगा दी है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "घाटे में चल रही पाकिस्तानी एयरलाइन को कैसे लगाया चूना? 20 कर्मचारियों ने किया खेल, अब सैलरी से कट",
-      "url": "https://hindi.news18.com/world/pakistan-pia-premium-seat-booking-scam-lahore-airport-50-lakh-rupees-20-employees-10923919.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T13:19:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pia-airlines-2026-10-90cb2b0bab17946fe2c2b2855ee0d2eb-1200x800.jpg",
-      "summary": "पाकिस्तान इंटरनेशनल एयरलाइंस में प्रीमियम सीट बुकिंग घोटाला सामने आया है। लाहौर एयरपोर्ट पर 20 कर्मचारियों ने यात्रियों से अतिरिक्त शुल्क वसूला। रिकॉर्ड में सीटों को सामान्य दिखाकर रकम एयरलाइन के खाते में जमा नहीं की गई। पाकिस्तान की सरकारी एयरलाइन पाकिस्तान इंटरनेशनल एयरलाइंस (PIA) में प्रीमियम सीटों की बुकिंग में घोटाला हुआ है. रिपोर्ट के मुताबिक, लाहौर एयरपोर्ट पर 20 से ज्यादा कर्मचारियों और अधिकारियों ने यात्रियों से अतिरिक्त शुल्क वसूला, लेकिन रिकॉर्ड में सीटों को सामान्य दिखाकर रकम एयरलाइन के खाते में जमा नहीं की.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "घाटे में चल रही पाकिस्तानी एयरलाइन को कैसे लगाया चूना? 20 कर्मचारियों ने किया खेल, अब सैलरी से कट",
-          "summary": "पाकिस्तान इंटरनेशनल एयरलाइंस में प्रीमियम सीट बुकिंग घोटाला सामने आया है। लाहौर एयरपोर्ट पर 20 कर्मचारियों ने यात्रियों से अतिरिक्त शुल्क वसूला। रिकॉर्ड में सीटों को सामान्य दिखाकर रकम एयरलाइन के खाते में जमा नहीं की गई। पाकिस्तान की सरकारी एयरलाइन पाकिस्तान इंटरनेशनल एयरलाइंस (PIA) में प्रीमियम सीटों की बुकिंग में घोटाला हुआ है. रिपोर्ट के मुताबिक, लाहौर एयरपोर्ट पर 20 से ज्यादा कर्मचारियों और अधिकारियों ने यात्रियों से अतिरिक्त शुल्क वसूला, लेकिन रिकॉर्ड में सीटों को सामान्य दिखाकर रकम एयरलाइन के खाते में जमा नहीं की.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन ने छुटंकू हथियार से फोड़ी रूस की आंखें, ड्रोन अटैक से कैसे बिगड़ेगा एयर डिफेंस का खेल?",
-      "url": "https://hindi.news18.com/news/knowledge/ukraine-drone-strike-destroy-50-million-price-radar-by-russia-s400-air-defence-system-10923905.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T12:57:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-Design-2026-10-20T182138.531-2026-10-cdbb3b7b7ee58a2ba79539c567e8f26e-1200x800.jpg",
-      "summary": "यूक्रेनी सेना ने रूस के S-400 एयर डिफेंस सिस्टम के रडार को ड्रोन हमले में तबाह कर दिया है। इस रडार की कीमत 50 मिलियन डॉलर बताई जा रही है। यह हमला रूसी सेना की हवाई सुरक्षा प्रणाली को तगड़ा झटका देता है। यूक्रेनी सेना ने एक सटीक और खतरनाक ड्रोन हमले में रूस के बेहद आधुनिक और महंगे S-400 एयर डिफेंस सिस्टम के रडार को तबाह कर दिया है.",
+      "published_at": "2026-10-20T16:23:55+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/c085fb71ac1716e49b149e7674cf679217925121841681484_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने SIR विरोध प्रदर्शन को फ्रांस या बांग्लादेश की हिंसा से जोड़ने का दावा खारिज किया। उन्होंने सत्याग्रह और अहिंसा के मार्ग पर चलने का दावा किया, जबकि उनके दो सहयोगी जेल में हैं। ‘कॉकरोच जनता पार्टी’ (CJP) के संस्थापक अभिजीत दीपके ने इस बात को खारिज कर दिया कि मतदाता सूची के ‘विशेष गहन पुनरीक्षण’ (SIR) के खिलाफ उनके संगठन का प्रदर्शन फ्रांस, नेपाल और बांग्लादेश में हुई हिंसक अशांति जैसा है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यूक्रेन ने छुटंकू हथियार से फोड़ी रूस की आंखें, ड्रोन अटैक से कैसे बिगड़ेगा एयर डिफेंस का खेल?",
-          "summary": "यूक्रेनी सेना ने रूस के S-400 एयर डिफेंस सिस्टम के रडार को ड्रोन हमले में तबाह कर दिया है। इस रडार की कीमत 50 मिलियन डॉलर बताई जा रही है। यह हमला रूसी सेना की हवाई सुरक्षा प्रणाली को तगड़ा झटका देता है। यूक्रेनी सेना ने एक सटीक और खतरनाक ड्रोन हमले में रूस के बेहद आधुनिक और महंगे S-400 एयर डिफेंस सिस्टम के रडार को तबाह कर दिया है.",
+          "title": "'हमारा रास्ता अहिंसा का', दीपके ने कहा- फ्रांस या बांग्लादेश से नहीं कोई संबंध",
+          "summary": "कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने SIR विरोध प्रदर्शन को फ्रांस या बांग्लादेश की हिंसा से जोड़ने का दावा खारिज किया। उन्होंने सत्याग्रह और अहिंसा के मार्ग पर चलने का दावा किया, जबकि उनके दो सहयोगी जेल में हैं। ‘कॉकरोच जनता पार्टी’ (CJP) के संस्थापक अभिजीत दीपके ने इस बात को खारिज कर दिया कि मतदाता सूची के ‘विशेष गहन पुनरीक्षण’ (SIR) के खिलाफ उनके संगठन का प्रदर्शन फ्रांस, नेपाल और बांग्लादेश में हुई हिंसक अशांति जैसा है.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "जन्मदिन पर मां ने बंदूक किया गिफ्ट, बेटे ने स्कूल में कर दी 4 लोगों की हत्या, ओरेगन शूटआउट में नया",
-      "url": "https://hindi.news18.com/world/america-oregon-school-shooting-mother-gifted-gun-teenager-10923853.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T12:36:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/us-oregon-2026-10-bdefb78218bf1f71ebc7ff7c46876666-1200x800.jpg",
-      "summary": "ओरेगन के बेंड में सिल्वर रेल स्कूल में 16 वर्षीय ग्रिफिन जॉन ने गोलीबारी कर तीन बच्चों और एक शिक्षक को मार गिराया। उसने अपनी मां से मिली शॉटगन का उपयोग किया। एक राहगीर ने उसे गोली मारकर रोक दिया। अमेरिका के ओरेगन राज्य के बेंड शहर में 16 साल के ग्रिफिन जे. जॉन II ने सिल्वर रेल एलीमेंट्री स्कूल में गोलीबारी कर तीन बच्चों और एक टीचर की हत्या कर दी.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जन्मदिन पर मां ने बंदूक किया गिफ्ट, बेटे ने स्कूल में कर दी 4 लोगों की हत्या, ओरेगन शूटआउट में नया",
-          "summary": "ओरेगन के बेंड में सिल्वर रेल स्कूल में 16 वर्षीय ग्रिफिन जॉन ने गोलीबारी कर तीन बच्चों और एक शिक्षक को मार गिराया। उसने अपनी मां से मिली शॉटगन का उपयोग किया। एक राहगीर ने उसे गोली मारकर रोक दिया। अमेरिका के ओरेगन राज्य के बेंड शहर में 16 साल के ग्रिफिन जे. जॉन II ने सिल्वर रेल एलीमेंट्री स्कूल में गोलीबारी कर तीन बच्चों और एक टीचर की हत्या कर दी.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ओमान के पास तेल टैंकर से सैन्य बलों की भिड़ंत, समुद्र में फिर जहाजों की बढ़ी चिंता",
-      "url": "https://www.patrika.com/world-news/oman-coast-tanker-military-incident-20997392",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-20T11:59:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Iran-Hormuz-Strait.webp",
-      "summary": "ओमान के तट से 121 समुद्री मील पूर्व में एक तेल टैंकर और सैन्य बलों के बीच मंगलवार को भिड़ंत हुई। यूकेएमटीओ की रिपोर्ट के अनुसार यह घटना समुद्री सुरक्षा को लेकर चिंता बढ़ाने वाली है। ओमान के तट के पास समुद्र में एक तेल टैंकर और सैन्य बलों के बीच मंगलवार को भिड़ंत हो गई। ताजा घटना के बाद समुद्र में जहाजों की चिंता बढ़ गई है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओमान के पास तेल टैंकर से सैन्य बलों की भिड़ंत, समुद्र में फिर जहाजों की बढ़ी चिंता",
-          "summary": "ओमान के तट से 121 समुद्री मील पूर्व में एक तेल टैंकर और सैन्य बलों के बीच मंगलवार को भिड़ंत हुई। यूकेएमटीओ की रिपोर्ट के अनुसार यह घटना समुद्री सुरक्षा को लेकर चिंता बढ़ाने वाली है। ओमान के तट के पास समुद्र में एक तेल टैंकर और सैन्य बलों के बीच मंगलवार को भिड़ंत हो गई। ताजा घटना के बाद समुद्र में जहाजों की चिंता बढ़ गई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कतर से डिफेंस डील करने जा रहे पाकिस्तान-तुर्की, भारत का दोस्त इंडोनेशिया भी साथ, सऊदी बाहर, हम पर",
-      "url": "https://hindi.news18.com/world/middle-east-turkiye-pakistan-qatar-indonesia-defence-deal-india-impact-10923556.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T11:54:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/turkey-pakistna-defence-deal-2026-10-167440de4f6e8def5ede46a7d6e85244-1200x800.jpg",
-      "summary": "दोहा में तुर्किये, पाकिस्तान, कतर और इंडोनेशिया के बीच रक्षा सहयोग समझौते पर हस्ताक्षर होने की उम्मीद है। इस पहल में सऊदी अरब शामिल नहीं है। कतर मिसाइल और ड्रोन रक्षा क्षमता बढ़ाने की तैयारी कर रहा है। Pakistan-Turkiye-Qatar Indonesia: कतर की राजधानी दोहा में तुर्किये, पाकिस्तान, कतर और इंडोनेशिया के बीच रक्षा उद्योग में सहयोग के समझौते पर हस्ताक्षर होने की उम्मीद है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कतर से डिफेंस डील करने जा रहे पाकिस्तान-तुर्की, भारत का दोस्त इंडोनेशिया भी साथ, सऊदी बाहर, हम पर",
-          "summary": "दोहा में तुर्किये, पाकिस्तान, कतर और इंडोनेशिया के बीच रक्षा सहयोग समझौते पर हस्ताक्षर होने की उम्मीद है। इस पहल में सऊदी अरब शामिल नहीं है। कतर मिसाइल और ड्रोन रक्षा क्षमता बढ़ाने की तैयारी कर रहा है। Pakistan-Turkiye-Qatar Indonesia: कतर की राजधानी दोहा में तुर्किये, पाकिस्तान, कतर और इंडोनेशिया के बीच रक्षा उद्योग में सहयोग के समझौते पर हस्ताक्षर होने की उम्मीद है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सऊदी अरब को बचाने के लिए खुलकर आगे आया ब्रिटेन, हूती हमलों का जवाब देने के लिए भेज रहा लड़ाकू विमान",
-      "url": "https://www.patrika.com/world-news/uk-raf-fighter-jets-saudi-arabia-houthi-attacks-20997298",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-20T11:29:46+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/F-16-fighter-jet-crash.webp",
-      "summary": "सऊदी अरब में हूती विद्रोहियों के बढ़ते हमलों के जवाब में ब्रिटेन ने अपनी सैन्य मदद बढ़ाने का निर्णय लिया है। लंदन ने सऊदी की रक्षा के लिए लड़ाकू विमान भेजने की घोषणा की है। सऊदी अरब में हूती विद्रोहियों के बढ़ते हमलों के बीच ब्रिटेन ने बड़ा कदम उठाया है। सऊदी अरब को बचाने के लिए ब्रिटेन ने अपनी सैन्य मदद बढ़ाने का निर्णय लिया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी अरब को बचाने के लिए खुलकर आगे आया ब्रिटेन, हूती हमलों का जवाब देने के लिए भेज रहा लड़ाकू विमान",
-          "summary": "सऊदी अरब में हूती विद्रोहियों के बढ़ते हमलों के जवाब में ब्रिटेन ने अपनी सैन्य मदद बढ़ाने का निर्णय लिया है। लंदन ने सऊदी की रक्षा के लिए लड़ाकू विमान भेजने की घोषणा की है। सऊदी अरब में हूती विद्रोहियों के बढ़ते हमलों के बीच ब्रिटेन ने बड़ा कदम उठाया है। सऊदी अरब को बचाने के लिए ब्रिटेन ने अपनी सैन्य मदद बढ़ाने का निर्णय लिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्ट्रेट ऑफ हॉर्मुज में हमले बंद करे ईरान, कतर की नई चेतावनी से फिर बढ़ा मिडिल ईस्ट में तनाव",
-      "url": "https://www.patrika.com/world-news/qatar-iran-hormuz-strait-attacks-us-crisis-20997196",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-20T10:38:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/iran-us-latest-update-.webp",
-      "summary": "कतर ने ईरान से स्ट्रेट ऑफ हॉर्मुज में हमले बंद करने की अपील की है। दौहाने ईरान से अंतरराष्ट्रीय कानूनों का पालन करने और समुद्री रास्ते तुरंत खोलने की मांग की है। कतर की नई चेतावनी के बाद मिडिल ईस्ट में तनाव फिर बढ़ गया है। कतर ने ईरान से स्ट्रेट ऑफ हॉर्मुज में हमले बंद करने और अंतरराष्ट्रीय कानूनों का पालन करने की अपील की है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्ट्रेट ऑफ हॉर्मुज में हमले बंद करे ईरान, कतर की नई चेतावनी से फिर बढ़ा मिडिल ईस्ट में तनाव",
-          "summary": "कतर ने ईरान से स्ट्रेट ऑफ हॉर्मुज में हमले बंद करने की अपील की है। दौहाने ईरान से अंतरराष्ट्रीय कानूनों का पालन करने और समुद्री रास्ते तुरंत खोलने की मांग की है। कतर की नई चेतावनी के बाद मिडिल ईस्ट में तनाव फिर बढ़ गया है। कतर ने ईरान से स्ट्रेट ऑफ हॉर्मुज में हमले बंद करने और अंतरराष्ट्रीय कानूनों का पालन करने की अपील की है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "किम जोंग उन की बहन ने दिखाई आंखें, दक्षिण कोरिया ने भी ठोकी ताल, बोला- दुश्मन उकसाए तो तुरंत जवाब दो",
-      "url": "https://hindi.news18.com/world/rest-of-world-north-korea-warns-of-more-weapons-near-the-border-prompting-south-korea-to-order-troops-to-respond-10923234.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T10:26:58+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/north-korea-border-2026-10-eca2b140cfc35a4af76bd28b76762f3b-1200x800.jpg",
-      "summary": "उत्तर कोरियाई नेता की बहन किम यो जोंग ने सीमा पर हथियार तैनात करने की चेतावनी दी। दक्षिण कोरिया के जनरल जिन योंग-सुंग ने सैनिकों को तुरंत जवाब देने का निर्देश दिया। उत्तर कोरिया और दक्षिण कोरिया के बीच सीमा पर तनाव बढ़ गया है. उत्तर कोरियाई नेता किम जोंग उन की बहन किम यो जोंग ने सीमा पर अधिक सामरिक हथियार तैनात करने और प्रोपेगेंडा अभियान दोबारा शुरू करने की चेतावनी दी है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किम जोंग उन की बहन ने दिखाई आंखें, दक्षिण कोरिया ने भी ठोकी ताल, बोला- दुश्मन उकसाए तो तुरंत जवाब दो",
-          "summary": "उत्तर कोरियाई नेता की बहन किम यो जोंग ने सीमा पर हथियार तैनात करने की चेतावनी दी। दक्षिण कोरिया के जनरल जिन योंग-सुंग ने सैनिकों को तुरंत जवाब देने का निर्देश दिया। उत्तर कोरिया और दक्षिण कोरिया के बीच सीमा पर तनाव बढ़ गया है. उत्तर कोरियाई नेता किम जोंग उन की बहन किम यो जोंग ने सीमा पर अधिक सामरिक हथियार तैनात करने और प्रोपेगेंडा अभियान दोबारा शुरू करने की चेतावनी दी है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "राष्ट्रपति चुनाव में मोबाइल चोरी बना सबसे बड़ा मुद्दा, ब्राजील में जीत दर्ज करने के लिए पक्ष-विपक्ष",
-      "url": "https://www.patrika.com/world-news/brazil-presidential-election-mobile-theft-issue-20997059",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-20T09:40:02+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/brazilelectionnews.webp",
-      "summary": "ब्राजील में आगामी राष्ट्रपति चुनाव में मोबाइल चोरी सबसे बड़ा मुद्दा बन गया है। सभी राजनीतिक दल जीत के लिए इस विषय पर जोर दे रहे हैं। ब्राजील में राष्ट्रपति चुनाव अब काफी नजदीक हैं। इसको लेकर सभी पार्टियां जीत दर्ज करने के लिए पूरा दम-खम लगा रही है। दिलचस्प बात यह है कि इस चुनाव में सबसे बड़ा मुद्दा मोबाइल चोरी बन गया है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राष्ट्रपति चुनाव में मोबाइल चोरी बना सबसे बड़ा मुद्दा, ब्राजील में जीत दर्ज करने के लिए पक्ष-विपक्ष",
-          "summary": "ब्राजील में आगामी राष्ट्रपति चुनाव में मोबाइल चोरी सबसे बड़ा मुद्दा बन गया है। सभी राजनीतिक दल जीत के लिए इस विषय पर जोर दे रहे हैं। ब्राजील में राष्ट्रपति चुनाव अब काफी नजदीक हैं। इसको लेकर सभी पार्टियां जीत दर्ज करने के लिए पूरा दम-खम लगा रही है। दिलचस्प बात यह है कि इस चुनाव में सबसे बड़ा मुद्दा मोबाइल चोरी बन गया है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "कनाडा से अलग होने का प्रस्ताव अल्बर्टा में खारिज, पीएम कार्नी बोले- लोगों ने कनाडा को चुना",
-      "url": "https://www.patrika.com/world-news/alberta-rejects-canada-separation-proposal-referendum-pm-mark-carney-20996881",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-20T08:24:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Mark-Carney-1.webp",
-      "summary": "अल्बर्टा में कनाडा से अलगाव के प्रस्ताव को प्रारंभिक परिणामों में खारिज कर दिया गया है। प्रधानमंत्री मार्क कार्नी ने यह फैसला राष्ट्रीय एकता के पक्ष में बताया। उन्होंने कहा कि लोगों ने कनाडा के साथ साझा भविष्य चुना है। ओटावा। कनाडा के प्रधानमंत्री मार्क कार्नी ने अल्बर्टा प्रांत के कनाडा से अलग होने के प्रस्ताव को शुरुआती जनमत संग्रह परिणामों में खारिज किए जाने का स्वागत किया है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कनाडा से अलग होने का प्रस्ताव अल्बर्टा में खारिज, पीएम कार्नी बोले- लोगों ने कनाडा को चुना",
-          "summary": "अल्बर्टा में कनाडा से अलगाव के प्रस्ताव को प्रारंभिक परिणामों में खारिज कर दिया गया है। प्रधानमंत्री मार्क कार्नी ने यह फैसला राष्ट्रीय एकता के पक्ष में बताया। उन्होंने कहा कि लोगों ने कनाडा के साथ साझा भविष्य चुना है। ओटावा। कनाडा के प्रधानमंत्री मार्क कार्नी ने अल्बर्टा प्रांत के कनाडा से अलग होने के प्रस्ताव को शुरुआती जनमत संग्रह परिणामों में खारिज किए जाने का स्वागत किया है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'आतंकियों को मदद देने वालों की खैर नहीं': एससीओ बैठक से भारत का पाकिस्तान को दो टूक, और क्या बोले",
-      "url": "https://www.amarujala.com/world/india-blunt-message-pakistan-at-sco-meeting-who-aid-terrorists-will-not-spared-what-else-rajnath-singh-say-2026-10-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-20T06:56:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/rajanatha-saha-rakashha-matara_6980fe2e37b7ad8280f7b3badb6122c7.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत ने एससीओ बैठक में पाकिस्तान को स्पष्ट संदेश दिया। आतंकवादियों को मदद करने वालों को बख्शा नहीं जाएगा। राजनाथ सिंह ने इस कड़ी चेतावनी का ऐलान किया। 'आतंकियों को मदद देने वालों की खैर नहीं': एससीओ बैठक से भारत का पाकिस्तान को दो टूक, और क्या बोले राजनाथ सिंह?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'आतंकियों को मदद देने वालों की खैर नहीं': एससीओ बैठक से भारत का पाकिस्तान को दो टूक, और क्या बोले",
-          "summary": "भारत ने एससीओ बैठक में पाकिस्तान को स्पष्ट संदेश दिया। आतंकवादियों को मदद करने वालों को बख्शा नहीं जाएगा। राजनाथ सिंह ने इस कड़ी चेतावनी का ऐलान किया। 'आतंकियों को मदद देने वालों की खैर नहीं': एससीओ बैठक से भारत का पाकिस्तान को दो टूक, और क्या बोले राजनाथ सिंह?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कनाडा से अलग नहीं होगा अल्बर्टा?: 76 प्रतिशत लोगों ने एकजुटता पर लगाई मुहर, अलगाव का प्रस्ताव",
-      "url": "https://www.amarujala.com/world/alberta-voters-reject-independence-proposal-76-percent-support-canada-unity-2026-10-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-20T06:53:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/albrata-ma-janamata-sagaraha_d4734fd0fbd2c4e028844d7d54ae4a6b.jpeg?w=1200&dpr=1.0",
-      "summary": "अल्बर्टा के वोटर्स ने कनाडा से अलगाव के प्रस्ताव को ठुकरा दिया। 76 प्रतिशत लोगों ने देश की एकजुटता का समर्थन किया। इससे अलगाववादी आंदोलन पर बड़ा प्रहार हुआ। कनाडा से अलग नहीं होगा अल्बर्टा?: 76 प्रतिशत लोगों ने एकजुटता पर लगाई मुहर, अलगाव का प्रस्ताव।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कनाडा से अलग नहीं होगा अल्बर्टा?: 76 प्रतिशत लोगों ने एकजुटता पर लगाई मुहर, अलगाव का प्रस्ताव",
-          "summary": "अल्बर्टा के वोटर्स ने कनाडा से अलगाव के प्रस्ताव को ठुकरा दिया। 76 प्रतिशत लोगों ने देश की एकजुटता का समर्थन किया। इससे अलगाववादी आंदोलन पर बड़ा प्रहार हुआ। कनाडा से अलग नहीं होगा अल्बर्टा?: 76 प्रतिशत लोगों ने एकजुटता पर लगाई मुहर, अलगाव का प्रस्ताव।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'7.8% से बढ़ रही भारत की अर्थव्यवस्था, वैश्विक वृद्धि में 16% योगदान'; राजनाथ सिंह ने क्या कहा?",
-      "url": "https://www.amarujala.com/world/india-growing-at-7-8-even-as-several-major-economies-face-slowdown-rajnath-singh-2026-10-20",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-20T06:13:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/16/rajnath-singh_02e03df5ddf57d544d17c9012aaa2813.jpeg?w=1200&dpr=1.0",
-      "summary": "राजनाथ सिंह ने ताजिकिस्तान में कहा कि भारत की अर्थव्यवस्था 7.8 प्रतिशत की दर से बढ़ रही है। उन्होंने दावा किया कि भारत वैश्विक वृद्धि में 16 प्रतिशत का योगदान दे रहा है। यह बयान उनकी विदेश यात्रा के दौरान दिया गया। ताजिकिस्तान: '7.8% से बढ़ रही भारत की अर्थव्यवस्था, वैश्विक वृद्धि में 16% योगदान'; राजनाथ सिंह ने क्या कहा?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'7.8% से बढ़ रही भारत की अर्थव्यवस्था, वैश्विक वृद्धि में 16% योगदान'; राजनाथ सिंह ने क्या कहा?",
-          "summary": "राजनाथ सिंह ने ताजिकिस्तान में कहा कि भारत की अर्थव्यवस्था 7.8 प्रतिशत की दर से बढ़ रही है। उन्होंने दावा किया कि भारत वैश्विक वृद्धि में 16 प्रतिशत का योगदान दे रहा है। यह बयान उनकी विदेश यात्रा के दौरान दिया गया। ताजिकिस्तान: '7.8% से बढ़ रही भारत की अर्थव्यवस्था, वैश्विक वृद्धि में 16% योगदान'; राजनाथ सिंह ने क्या कहा?",
-          "region": "एशिया-प्रशांत"
         }
       }
     }

@@ -1,26 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 20, 2026 23:45 IST
-
----
-
-## Americas
-
-### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
-*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
-
-Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
-
-### [Inside the New York ‘time machine’ racing to save a century of sound and film](https://news.un.org/feed/view/en/story/2026/10/1168608)
-*UN News* - Oct 18, 17:30 IST (iso: 2026-10-18T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image560x340cropped.jpg -->
-
-Media preservation engineer Rhony Dostaly works in a basement beneath Lincoln Center. He rescues century-old sound and film recordings from decay. His team makes these historical elements available to modern audiences. The project functions as a digital archive for at-risk cultural media. “I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past.
+**Updated:** October 21, 2026 03:29 IST
 
 ---
 
 ## Europe & Russia
+
+### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
+*Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
+<!-- image: https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg -->
+
+Ukrainian forces used a hexacopter drone to evacuate a soldier with leg injuries from the front lines. The military described the operation as a first. Fellow servicemen called the rescued soldier a hero for strapping himself to the aircraft. He returned safely to his unit. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.
+
+### [Trump Says Ukraine Has To Want To Settle War](https://www.ndtv.com/world-news/donald-trump-says-ukraine-has-to-want-to-settle-war-12212527#publisher=newsstand)
+*NDTV World* - Oct 21, 00:46 IST (iso: 2026-10-20T19:16:25+00:00)
+<!-- image: https://c.ndtvimg.com/2026-10/jrajsh1k_donald-trump_625x300_01_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720 -->
+
+Trump claimed Russia holds the advantage in the war. He described the country as a big machine that keeps grinding forward. He noted that Moscow has already captured a very large piece of land. This framing suggests Ukraine must seek a settlement. Trump suggested Moscow had the upper hand in the fight because "Russia is a big machine - they just keep grinding forward, and that's what they've done.
 
 ### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
 *Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
@@ -45,6 +41,12 @@ Moldova launched an investigation into Yandex for allegedly harvesting citizen d
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-Drones-Drone-Warfare.jpg -->
 
 SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces. This slowdown has raised serious concerns in Kyiv and among its allies. The military-grade service supports critical battlefield communications. The disruption highlights Ukraine’s dependence on external satellite infrastructure. Reports that SpaceX temporarily restricted its satellite internet service for Ukraine’s armed forces have generated serious concern in Kyiv and among the country’s allies.
+
+### [After Oslo Talks, Zelenskyy Thanks US As Missile Intelligence 'Works Now'](https://www.rferl.org/a/ukraine-russia-attack-zelenskyy-oslo-meeting/33880037.html)
+*Radio Free Europe / Liberty* - Oct 20, 14:55 IST (iso: 2026-10-20T09:25:25+00:00)
+<!-- image: https://gdb.rferl.org/9447997b-440f-4e91-8294-ad127b254418_cx5_cy12_cw86_w1200_h630.jpg -->
+
+Zelenskyy thanked the United States after Oslo talks. He said missile intelligence now works effectively. US envoys Steve Witkoff and Jared Kushner joined the meetings. Russia continues to bomb Ukraine while tensions between Kyiv and Washington grow. US special envoys Steve Witkoff and Jared Kushner will take part in meetings in Oslo to discuss the situation in Ukraine with President Volodymyr Zelenskyy as Russia continues to pound the country amid growing tensions between Kyiv and Washington.
 
 ### [In Delhi or Paris, restoring order cannot replace public trust](https://asiatimes.com/2026/10/in-delhi-or-paris-restoring-order-cannot-replace-public-trust/)
 *Asia Times* - Oct 20, 03:05 IST (iso: 2026-10-19T21:35:11+00:00)
@@ -84,6 +86,22 @@ Donald Trump defended waiving planned sanctions against Russia to maintain negot
 
 ---
 
+## Americas
+
+### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
+
+Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
+
+### [Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff](https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff)
+*The Guardian* - Oct 20, 21:11 IST (iso: 2026-10-20T15:41:44+00:00)
+<!-- image: https://i.guim.co.uk/img/media/693b685efa99890c59fcc2ef30cf05e163c53c8a/307_256_1170_936/master/1170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39ee72c08e3ea1b650967af3ff0b3d36 -->
+
+Flávio Bolsonaro’s debate comment calling his rival corrupt backfired. Social media users quickly turned the moment into a viral meme. The stunt was meant to highlight alleged crookedness before the election runoff. Instead, it became a widespread parody online. Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election. But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Lu.
+
+---
+
 ## Middle East & Africa
 
 ### [With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb](https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html)
@@ -112,7 +130,7 @@ South Korea's per capita GDP is projected to surpass Japan's by 2027. The Intern
 
 ### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
 *UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg -->
 
 The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
 
@@ -122,23 +140,11 @@ The World Food Programme cut Gaza aid by one third due to funding shortages. The
 
 UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
 
-### [Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
-*The Guardian* - Oct 18, 14:30 IST (iso: 2026-10-18T09:00:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/99c40d26cbdbdca2b0abb4f3ee9ba91e4e235c6a/625_0_4419_3535/master/4419.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b18e4e307d53bcc32f3592e6969df8b6 -->
-
-A high-octane, ad-libbed vocal style is redefining Afrobeats music. Known as hypemen, these performers captivate crowds with energetic quips. The trend gained traction through university presentations and live performances. This unique approach to emceeing has flourished across the genre. Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowdsFor the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on. His crowd engagement that day h.
-
 ### [Flour sacks turned flood barriers: Gaza faces another winter without safe shelter](https://news.un.org/feed/view/en/story/2026/10/1168619)
 *UN News* - Oct 17, 17:30 IST (iso: 2026-10-17T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg -->
 
 Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.
-
-### [How War is Reshaping Iran’s “Axis of Resistance”](https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance)
-*International Crisis Group* - Oct 16, 23:43 IST (iso: 2026-10-16T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Three years of hostilities have fundamentally altered Iran’s regional alliance network. Tehran now relies more heavily on its own military capabilities. While partner states have diminished military utility, Iran maintains its commitment to their protection. This shift reflects a pragmatic adaptation to the changing security environment in the Middle East. Three years of hostilities have transformed Tehran’s network of allies in the Middle East.
 
 ---
 
@@ -149,12 +155,6 @@ Three years of hostilities have fundamentally altered Iran’s regional alliance
 <!-- image: https://gdb.rferl.org/8A1507F1-461D-4A8A-8AFE-4242DBCAA259.jpg -->
 
 Daniel Rosenblum, a former US ambassador, warns that American business efforts in Central Asia face significant hurdles. He argues the United States will not become a major regional player despite recent diplomatic outreach. Marco Rubio has brought nearly 300 American business representatives to Uzbekistan for a meeting with representatives of the five states of Central Asia. But Daniel N. Rosenblum, a former US ambassador to Uzbekistan and Kazakhstan, cautions that investment faces major obstacles.
-
-### [Owner or owned? Indonesia’s Chinese battery chain dilemma](https://asiatimes.com/2026/10/owner-or-owned-indonesias-chinese-battery-chain-dilemma/)
-*Asia Times* - Oct 19, 15:51 IST (iso: 2026-10-19T10:21:06+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Battery-EVs-copy.jpg -->
-
-Indonesia seeks to transform raw nickel exports into high-value EV batteries. The strategy relies heavily on Chinese investment and technology, raising questions about whether Indonesia controls its supply chain or remains dependent on foreign partners. Indonesia has spent a decade trying to turn its mineral wealth into something more valuable than raw commodity exports. The strategy is ambitious: restrict raw nickel exports, attract investment, build processing capacity and move downstream into electric-vehicle (EV) batteries that will power the next generation of transport and energy storage.
 
 ### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
 *The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
