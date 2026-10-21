@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-10-21T15:42:57.992982+00:00",
+  "generated_at": "2026-10-21T19:44:26.109153+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 258,
   "digest": {
-    "en": "Nigeria’s confirmed Ebola case signals a widening outbreak across western Africa. Simultaneously, influential Iranian officials openly advocate for nuclear weapons as regional peace efforts stall. These two developments define the current security and health landscape.",
-    "hi": "रूस का Su-30SM लड़ाकू विमान कलिनिनग्राद में क्रैश हो गया और दोनों पायलटों ने बचाई अपनी जान। इसी समय ट्रंप के दूत मॉस्को पहुंचे हैं और पुतिन ने पहले ही सौदा कर लिया है।"
+    "en": "Tajikistan is raising the world's tallest dam while Nigeria confirms its first Ebola case. Kenya is deploying Big Tech for state control as Ukraine rescues a soldier by drone.",
+    "hi": "रुबियो की क्वाड लौटने की घोषणा और पुतिन के युद्ध वार्ता के लिए तैयार होने की खबरें आज की प्रमुख घटनाएं हैं। इसी बीच, ट्रंप से जुड़े डेटा लीक केस में अदालत ने 25 बिलियन डॉलर का जुर्माना लगाया है।"
   },
   "articles": [
+    {
+      "title": "'World's Tallest' Dam Takes Shape In Tajikistan",
+      "url": "https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-21T16:23:02+00:00",
+      "image_url": "https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg",
+      "summary": "Tajikistan is advancing the Soviet-era Roghun Dam project after securing major funding tranches. The development aims to reshape Central Asia's energy supply. The construction will displace tens of thousands of local villagers from their homes. The Soviet-era Roghun Dam project has endured decades of uncertainty and opposition. Now major funding tranches appear to have the project on track to transform Central Asia's energy landscape -- and displace tens of thousands of Tajik villagers.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes",
+      "url": "https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-21T16:13:53+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/58b66aaef4e26d60886b5c0c15befc257deb5d69/363_156_721_577/master/721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5118a8e46e914a164bcd919cf04fac54",
+      "summary": "New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "When Big Tech becomes a tool of state control in Kenya",
       "url": "https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/",
@@ -20,18 +44,6 @@
       "translations": {}
     },
     {
-      "title": "Singapore and the UAE to launch economic partnership negotiations to further trade, investment links",
-      "url": "https://www.channelnewsasia.com/singapore/uae-lawrence-wong-bilateral-agreement-6479141",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-10-21T14:27:31+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--mJCMHtzA--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/21/mddi_03.jpeg?itok=HatV0n0y",
-      "summary": "Singapore and the UAE began economic partnership talks in Abu Dhabi. Leaders signed three agreements covering energy, water, and disease control. The moves aim to deepen trade and investment links between the two nations. During their meeting in Abu Dhabi, Prime Minister Lawrence Wong and United Arab Emirates President Sheikh Mohamed Zayed Al Nahyan witnessed the inking of three agreements on energy cooperation, water cooperation and disease vector control.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
       "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
       "source": "The Guardian",
@@ -40,6 +52,18 @@
       "image_url": "https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8",
       "summary": "Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168642",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg",
+      "summary": "The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -64,6 +88,18 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image770x420cropped.jpg",
       "summary": "Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels. Nations must implement deep, rapid emissions cuts to minimize this overshoot. The goal is returning to the agreed threshold by century's end. Urgent action is required to limit the duration of this breach. With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
       "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Shark trapped for a month in South Korean canal is finally freed",
+      "url": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-21T11:41:48+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/19fbd10bc74cee193b7c558e29bd0dd821dc131c/229_0_4520_3618/master/4520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9402c60a195f2030f413b52cfc3fe244",
+      "summary": "A shark named Bukang-i was freed from a South Korean canal after being trapped for a month. The animal attracted 1.6 million visitors during its confinement. Local volunteers monitored its condition daily. Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubersIn South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vigilante group and neighbourhood watch.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -181,7 +217,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-20T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image560x340cropped.jpg",
       "summary": "Over 250,000 people have fled renewed fighting in Yemen, the United Nations reported. Access to the southwestern city of Taiz is essentially blocked. This has trapped residents in areas facing severe hunger and disease. The displacement continues to strain local humanitarian resources. More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -236,54 +272,6 @@
       "translations": {}
     },
     {
-      "title": "A Russian Military Satellite Gets Very, Very Close To One Used By Ukraine",
-      "url": "https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-19T15:02:14+00:00",
-      "image_url": "https://gdb.rferl.org/459A5069-D10C-4972-B087-263CEDDB03F5_w1200_h630.jpg",
-      "summary": "A Russian military satellite passed exceptionally close to a Finnish-operated satellite. The Finnish satellite provides intelligence to Ukraine. Officials described the maneuver as concerning and aggressive. They noted it may serve as a signal of hostile intent. Last week, a Russian military satellite came “exceptionally close” to another Finnish-operated satellite that provides intelligence to Ukraine. “It’s concerning and aggressive with potential hostile intent – but I also think cooler heads believe it is signaling on the part of the Russians.”.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Funding cuts leave half a million without food assistance",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg",
-      "summary": "The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Guterres honours Indonesian troops who paid ‘ultimate sacrifice’",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168623",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image560x340cropped.jpg",
-      "summary": "UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image560x340cropped.jpg",
-      "summary": "The UN Biodiversity Conference opened in Yerevan, Armenia. The top UN official warned that ongoing biodiversity losses threaten the prosperity of billions. He urged nations to take immediate action to protect the planet. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
       "source": "The Guardian",
@@ -306,6 +294,216 @@
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
+      "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-19T09:08:34+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db",
+      "summary": "Three people died from float crushes at Japanese festivals this weekend. Deputy mayor Akihiro Nabae was killed in Saijo. Two other men died in similar incidents elsewhere in the country. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "अंतरिक्ष का कचरा बदल सकता है आसमान में बर्फ बनने का तरीका, मौसम पर भी होगा असर",
+      "url": "https://www.amarujala.com/india-news/changes-sign-space-debris-could-alter-how-ice-forms-in-the-sky-potential-impacts-on-weather-also-know-details-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T07:29:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/01/02/space-debris_945014f1064d5ff4470668994cd19d14.jpeg?w=1200&dpr=1.0",
+      "summary": "अंतरिक्ष कचरे के कणों से बर्फ के क्रिस्टल बनने की प्रक्रिया बदल सकती है। इससे बादलों का व्यवहार और मौसम पैटर्न पर असर पड़ने का अनुमान है। वैज्ञानिक इस प्रभाव की गहराई से जांच कर रहे हैं। बड़े बदलाव के आसार: अंतरिक्ष का कचरा बदल सकता है आसमान में बर्फ बनने का तरीका, मौसम पर भी होगा असर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अंतरिक्ष का कचरा बदल सकता है आसमान में बर्फ बनने का तरीका, मौसम पर भी होगा असर",
+          "summary": "अंतरिक्ष कचरे के कणों से बर्फ के क्रिस्टल बनने की प्रक्रिया बदल सकती है। इससे बादलों का व्यवहार और मौसम पैटर्न पर असर पड़ने का अनुमान है। वैज्ञानिक इस प्रभाव की गहराई से जांच कर रहे हैं। बड़े बदलाव के आसार: अंतरिक्ष का कचरा बदल सकता है आसमान में बर्फ बनने का तरीका, मौसम पर भी होगा असर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
+      "url": "https://www.amarujala.com/world/pakistan-high-court-seeks-report-on-missing-former-kpk-chief-minister-sohail-afridi-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T07:16:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/14/pataaaii-natao-para-kararavaii-ka-bca-parava-saema-harasata-ma_c4e4b69b9b10f6a1db2f3e0f907138ce.jpeg?w=1200&dpr=1.0",
+      "summary": "पाकिस्तान के पूर्व मुख्यमंत्री सोहेल अफरीदी लापता हैं। पेशावर हाई कोर्ट ने पुलिस को दस दिन में रिपोर्ट जमा करने का निर्देश दिया है। अदालत ने मामले की त्वरित जांच पर जोर दिया है। पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
+          "summary": "पाकिस्तान के पूर्व मुख्यमंत्री सोहेल अफरीदी लापता हैं। पेशावर हाई कोर्ट ने पुलिस को दस दिन में रिपोर्ट जमा करने का निर्देश दिया है। अदालत ने मामले की त्वरित जांच पर जोर दिया है। पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "लद्दाख में अब आठ हिल काउंसिल, 100 सीटों पर होगा चुनाव; शासन ने जारी की निर्वाचन क्षेत्रों की",
+      "url": "https://www.amarujala.com/jammu/jammu-ladakh-to-now-have-eight-hill-councils-elections-to-be-held-for-100-seats-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-22T07:07:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/1_4abb4dd11198d8c027cd2c3bc37983be.jpeg?w=1200&dpr=1.0",
+      "summary": "लद्दाख प्रशासन ने आठ हिल काउंसिलों के चुनावों की घोषणा की है। कुल सौ सीटों के लिए मतदान होगा। यह स्थानीय शासन संरचना में एक महत्वपूर्ण बदलाव है। लद्दाख में स्थानीय सत्ता के समीकरण बदलने की तैयारी है। लद्दाख में अब आठ हिल काउंसिल, 100 सीटों पर होगा चुनाव; शासन ने जारी की निर्वाचन क्षेत्रों की।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लद्दाख में अब आठ हिल काउंसिल, 100 सीटों पर होगा चुनाव; शासन ने जारी की निर्वाचन क्षेत्रों की",
+          "summary": "लद्दाख प्रशासन ने आठ हिल काउंसिलों के चुनावों की घोषणा की है। कुल सौ सीटों के लिए मतदान होगा। यह स्थानीय शासन संरचना में एक महत्वपूर्ण बदलाव है। लद्दाख में स्थानीय सत्ता के समीकरण बदलने की तैयारी है। लद्दाख में अब आठ हिल काउंसिल, 100 सीटों पर होगा चुनाव; शासन ने जारी की निर्वाचन क्षेत्रों की।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "100 मिनट में पूरा सब्सक्राइब हुआ इश्यू, देश के 10 बड़े आईपीओ का पहले दिन कैसा प्रदर्शन रहा?",
+      "url": "https://www.amarujala.com/business/business-diary/jio-platforms-ipo-issue-subscribed-within-100-minutes-how-did-10-major-ipos-perform-on-first-day-know-details-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-22T07:05:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/ipo-records_2e41b6eaf06a98a65bb7fc0c65358252.jpeg?w=1200&dpr=1.0",
+      "summary": "जियो प्लेटफॉर्म्स का आईपीओ सौ मिनट में पूरा सब्सक्राइब हो गया। यह देश के दस बड़े आईपीओ में से एक है। पहले दिन के प्रदर्शन में तेजी दर्ज की गई। Jio Platforms IPO: 100 मिनट में पूरा सब्सक्राइब हुआ इश्यू, देश के 10 बड़े आईपीओ का पहले दिन कैसा प्रदर्शन रहा?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "100 मिनट में पूरा सब्सक्राइब हुआ इश्यू, देश के 10 बड़े आईपीओ का पहले दिन कैसा प्रदर्शन रहा?",
+          "summary": "जियो प्लेटफॉर्म्स का आईपीओ सौ मिनट में पूरा सब्सक्राइब हो गया। यह देश के दस बड़े आईपीओ में से एक है। पहले दिन के प्रदर्शन में तेजी दर्ज की गई। Jio Platforms IPO: 100 मिनट में पूरा सब्सक्राइब हुआ इश्यू, देश के 10 बड़े आईपीओ का पहले दिन कैसा प्रदर्शन रहा?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सौरव दास-आशुतोष रांका 7 दिन बाद तिहाड़ जेल से आए बाहर, CJP कार्यकर्ताओं में खुशी",
+      "url": "https://www.amarujala.com/video/india-news/sourav-das-and-ashutosh-ranka-released-from-tihar-jail-after-7-days-cjp-activists-rejoice-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T06:54:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/saurabh-das-ashutosh-ranka-released_7953ce70e965261eab56d073a7eea007.jpeg?w=1200&dpr=1.0",
+      "summary": "सौरव दास और आशुतोष रांका को तिहाड़ जेल से रिहा कर दिया गया। दोनों सात दिन से जेल में बंद थे। सीजेपी कार्यकर्ताओं ने इस रिहाई पर खुशी जताई। सौरव दास-आशुतोष रांका 7 दिन बाद तिहाड़ जेल से आए बाहर, CJP कार्यकर्ताओं में खुशी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सौरव दास-आशुतोष रांका 7 दिन बाद तिहाड़ जेल से आए बाहर, CJP कार्यकर्ताओं में खुशी",
+          "summary": "सौरव दास और आशुतोष रांका को तिहाड़ जेल से रिहा कर दिया गया। दोनों सात दिन से जेल में बंद थे। सीजेपी कार्यकर्ताओं ने इस रिहाई पर खुशी जताई। सौरव दास-आशुतोष रांका 7 दिन बाद तिहाड़ जेल से आए बाहर, CJP कार्यकर्ताओं में खुशी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "इंटरनेट की परेशानी से दुनिया भर में सरकारी वेबसाइटें ठप हुईं, तकनीक में गंभीर खामियां उजागर",
+      "url": "https://www.amarujala.com/technology/tech-diary/government-websites-go-offline-after-ai-discovers-critical-php-security-flaws-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-22T06:39:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/government-websites-go-offline-after-ai-discovers-critical-php-security-flaws_fa55f23f11fc81da0a147dc191376a4e.jpeg",
+      "summary": "वैश्विक इंटरनेट विफलता ने कई देशों की सरकारी वेबसाइटों को ठप कर दिया। इस घटना ने डिजिटल बुनियादी ढांचे में मौजूद तकनीकी कमियों को उजागर किया है। रिपोर्ट में दावा: इंटरनेट की परेशानी से दुनिया भर में सरकारी वेबसाइटें ठप हुईं, तकनीक में गंभीर खामियां उजागर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इंटरनेट की परेशानी से दुनिया भर में सरकारी वेबसाइटें ठप हुईं, तकनीक में गंभीर खामियां उजागर",
+          "summary": "वैश्विक इंटरनेट विफलता ने कई देशों की सरकारी वेबसाइटों को ठप कर दिया। इस घटना ने डिजिटल बुनियादी ढांचे में मौजूद तकनीकी कमियों को उजागर किया है। रिपोर्ट में दावा: इंटरनेट की परेशानी से दुनिया भर में सरकारी वेबसाइटें ठप हुईं, तकनीक में गंभीर खामियां उजागर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अदालत के आदेश पर चुकाने होंगे 25 बिलियन डॉलर, ट्रंप से जुड़े डाटा 'लीक' का मामला क्या?",
+      "url": "https://www.amarujala.com/world/meta-new-mexico-fine-25-bn-usd-jury-company-misled-consumers-trump-2016-campaign-facebook-user-data-no-consent-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-22T06:38:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/mata-ka-cakana-haga-jaramana_8f9c4b5acbcf2160fbd95132322de6c9.jpeg?w=1200&dpr=1.0",
+      "summary": "अदालत के आदेश के तहत मेटा को 25 बिलियन डॉलर का जुर्माना भरना होगा। यह राशि ट्रंप से जुड़े डेटा लीक मामले से संबंधित है। मेटा पर जुर्माना: अदालत के आदेश पर चुकाने होंगे 25 बिलियन डॉलर, ट्रंप से जुड़े डाटा 'लीक' का मामला क्या?",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अदालत के आदेश पर चुकाने होंगे 25 बिलियन डॉलर, ट्रंप से जुड़े डाटा 'लीक' का मामला क्या?",
+          "summary": "अदालत के आदेश के तहत मेटा को 25 बिलियन डॉलर का जुर्माना भरना होगा। यह राशि ट्रंप से जुड़े डेटा लीक मामले से संबंधित है। मेटा पर जुर्माना: अदालत के आदेश पर चुकाने होंगे 25 बिलियन डॉलर, ट्रंप से जुड़े डाटा 'लीक' का मामला क्या?",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान की विदेश नीति पर फौज का कब्जा, 9 आर्मी अफसर बने राजदूत, रिटायरमेंट के बाद भी काटेंगे चांदी",
+      "url": "https://hindi.news18.com/world/pakistan-9-retired-military-officers-ambassadors-appointments-total-17-without-diplomatic-experience-10925957.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-21T17:52:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/shehbaz-sharif-2-2026-10-1e0a0df6867c729c9b1528d6c1a929e8-1200x800.jpg",
+      "summary": "पाकिस्तान के विदेश मंत्री ने सीनेट में बताया कि 17 गैर-सिविलियन अधिकारियों को राजनयिक पद दिए गए। इनमें नौ रिटायर्ड सैन्य अधिकारी शामिल हैं। सेना का प्रभाव अब डिप्लोमेसी तक फैल गया है। पाकिस्तान की ओर से विदेशों में राजदूतों और हाई कमिश्नरों की नियुक्ति को लेकर सवाल उठ रहे हैं. विदेश मंत्री मोहम्मद इशाक डार ने सीनेट में बताया कि 17 ऐसे लोगों को विदेशी मिशनों में जिम्मेदारी दी गई है, जो नियमित विदेश सेवा से नहीं आते.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान की विदेश नीति पर फौज का कब्जा, 9 आर्मी अफसर बने राजदूत, रिटायरमेंट के बाद भी काटेंगे चांदी",
+          "summary": "पाकिस्तान के विदेश मंत्री ने सीनेट में बताया कि 17 गैर-सिविलियन अधिकारियों को राजनयिक पद दिए गए। इनमें नौ रिटायर्ड सैन्य अधिकारी शामिल हैं। सेना का प्रभाव अब डिप्लोमेसी तक फैल गया है। पाकिस्तान की ओर से विदेशों में राजदूतों और हाई कमिश्नरों की नियुक्ति को लेकर सवाल उठ रहे हैं. विदेश मंत्री मोहम्मद इशाक डार ने सीनेट में बताया कि 17 ऐसे लोगों को विदेशी मिशनों में जिम्मेदारी दी गई है, जो नियमित विदेश सेवा से नहीं आते.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "F-35 को ये क्या हुआ? 5th जेन स्टील्थ फाइटर जेट ने भेजा कोड 7600, होर्मुज के पास मच गई खलबली",
+      "url": "https://hindi.news18.com/world/middle-east-us-5th-gen-stealth-fighter-jet-f-35-declares-emergency-over-strait-of-hormuz-diverts-to-uae-amid-tension-with-iran-10926672.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-21T17:38:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/US-F35-2026-10-9e187684ba3820a20aa8f0a03bc7b3ce-1200x800.jpg",
+      "summary": "होर्मुज स्ट्रेट के पास अमेरिकी F-35 विमान ने 7600 कोड भेजा। इसके बाद विमान ने दिशा बदलकर संयुक्त अरब अमीरात की ओर मुड़ लिया। होर्मुज स्ट्रेट के पास उड़ान भर रहा एक अमेरिकी F-35 लड़ाकू विमान अचानक से मुसीबत में घिर गया. इस ताकतवर 5th जेन फाइटर जेट ने अपने ट्रांसपॉन्डर पर 7600 कोड भेजा और फिर अपना रास्ता बदलकर संयुक्त अरब अमीरात (UAE) की ओर रुख कर लिया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "F-35 को ये क्या हुआ? 5th जेन स्टील्थ फाइटर जेट ने भेजा कोड 7600, होर्मुज के पास मच गई खलबली",
+          "summary": "होर्मुज स्ट्रेट के पास अमेरिकी F-35 विमान ने 7600 कोड भेजा। इसके बाद विमान ने दिशा बदलकर संयुक्त अरब अमीरात की ओर मुड़ लिया। होर्मुज स्ट्रेट के पास उड़ान भर रहा एक अमेरिकी F-35 लड़ाकू विमान अचानक से मुसीबत में घिर गया. इस ताकतवर 5th जेन फाइटर जेट ने अपने ट्रांसपॉन्डर पर 7600 कोड भेजा और फिर अपना रास्ता बदलकर संयुक्त अरब अमीरात (UAE) की ओर रुख कर लिया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "क्‍वाड इज बैक... अमेरिका को समझ आ गई भारत की अहमियत, चीन-पाक के लिए इशारा हैं मार्को रूबियो की ये",
+      "url": "https://hindi.news18.com/news/nation/quad-back-in-scheme-of-things-us-grasped-india-importance-marco-rubio-remarks-serve-signal-to-china-and-pakistan-10926582.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-21T16:47:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/marco-rubio-2-2026-10-fd3e84687f5914ab1905171a4a61c365-1200x800.jpg",
+      "summary": "मार्को रूबियो ने कहा कि क्वाड शिखर सम्मेलन 2026 के अंत से पहले मनीला में होगा। उन्होंने भारत-अमेरिका व्यापार समझौते के कुछ हफ्तों में पूरा होने की उम्मीद जताई। अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर-इन-चीफ राहुल जोशी को दिए एक्सक्लूसिव इंटरव्यू में भारत-अमेरिका संबंधों को लेकर कई अहम संकेत दिए. उन्होंने उम्मीद जताई कि क्वाड नेताओं की बैठक 2026 के अंत से पहले मनीला में होगी और दोनों देशों की ट्रेड डील कुछ हफ्तों में पूरी हो सकती है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्‍वाड इज बैक... अमेरिका को समझ आ गई भारत की अहमियत, चीन-पाक के लिए इशारा हैं मार्को रूबियो की ये",
+          "summary": "मार्को रूबियो ने कहा कि क्वाड शिखर सम्मेलन 2026 के अंत से पहले मनीला में होगा। उन्होंने भारत-अमेरिका व्यापार समझौते के कुछ हफ्तों में पूरा होने की उम्मीद जताई। अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर-इन-चीफ राहुल जोशी को दिए एक्सक्लूसिव इंटरव्यू में भारत-अमेरिका संबंधों को लेकर कई अहम संकेत दिए. उन्होंने उम्मीद जताई कि क्वाड नेताओं की बैठक 2026 के अंत से पहले मनीला में होगी और दोनों देशों की ट्रेड डील कुछ हफ्तों में पूरी हो सकती है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप के दबाव का असर? युद्ध पर बातचीत को तैयार हुए पुतिन, रूस-यूक्रेन-अमेरिका कब से करेंगे बात?",
+      "url": "https://hindi.news18.com/world/europe-vladimir-putin-donald-trump-russia-ukraine-war-trilateral-talks-after-november-10-10926529.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-21T15:47:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/putin-29-2026-10-58fdfa0d9b553622116663bd455c35c5-1200x800.jpg",
+      "summary": "पुतिन ने यूक्रेन युद्ध समाधान के लिए अमेरिका और यूक्रेन के साथ त्रिपक्षीय वार्ता शुरू करने पर सहमति दी। बातचीत 10 नवंबर के बाद शुरू हो सकती है। रूसी राष्ट्रपति व्लादिमीर पुतिन ने यूक्रेन युद्ध खत्म करने के लिए अमेरिका और यूक्रेन के साथ त्रिपक्षीय वार्ता फिर शुरू करने पर सैद्धांतिक सहमति दी है. सेंट पीटर्सबर्ग में पुतिन और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दूत स्टीव विटकॉफ के बीच करीब तीन घंटे बैठक हुई.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप के दबाव का असर? युद्ध पर बातचीत को तैयार हुए पुतिन, रूस-यूक्रेन-अमेरिका कब से करेंगे बात?",
+          "summary": "पुतिन ने यूक्रेन युद्ध समाधान के लिए अमेरिका और यूक्रेन के साथ त्रिपक्षीय वार्ता शुरू करने पर सहमति दी। बातचीत 10 नवंबर के बाद शुरू हो सकती है। रूसी राष्ट्रपति व्लादिमीर पुतिन ने यूक्रेन युद्ध खत्म करने के लिए अमेरिका और यूक्रेन के साथ त्रिपक्षीय वार्ता फिर शुरू करने पर सैद्धांतिक सहमति दी है. सेंट पीटर्सबर्ग में पुतिन और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दूत स्टीव विटकॉफ के बीच करीब तीन घंटे बैठक हुई.",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "रूस का SU-30 फाइटर जेट क्रैश, पुतिन का आसमानी शिकारी जमीन पर धड़ाम, कलिनिनग्राद में हादसा",
@@ -506,24 +704,6 @@
       }
     },
     {
-      "title": "पाकिस्तान की विदेश पर फौज का कब्जा, 9 आर्मी अफसर बने राजदूत, रिटायरमेंट के बाद भी काटेंगे चांदी",
-      "url": "https://hindi.news18.com/world/pakistan-9-retired-military-officers-ambassadors-appointments-total-17-without-diplomatic-experience-10925957.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T11:22:18+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/shehbaz-sharif-2-2026-10-1e0a0df6867c729c9b1528d6c1a929e8-1200x800.jpg",
-      "summary": "पाकिस्तान के विदेश मंत्री ने सीनेट में बताया कि 17 गैर-सिविलियन अधिकारियों को राजनयिक पद दिए गए। इनमें नौ रिटायर्ड सैन्य अधिकारी शामिल हैं। सेना का प्रभाव अब डिप्लोमेसी तक फैल गया है। पाकिस्तान की ओर से विदेशों में राजदूतों और हाई कमिश्नरों की नियुक्ति को लेकर सवाल उठ रहे हैं. विदेश मंत्री मोहम्मद इशाक डार ने सीनेट में बताया कि 17 ऐसे लोगों को विदेशी मिशनों में जिम्मेदारी दी गई है, जो नियमित विदेश सेवा से नहीं आते.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान की विदेश पर फौज का कब्जा, 9 आर्मी अफसर बने राजदूत, रिटायरमेंट के बाद भी काटेंगे चांदी",
-          "summary": "पाकिस्तान के विदेश मंत्री ने सीनेट में बताया कि 17 गैर-सिविलियन अधिकारियों को राजनयिक पद दिए गए। इनमें नौ रिटायर्ड सैन्य अधिकारी शामिल हैं। सेना का प्रभाव अब डिप्लोमेसी तक फैल गया है। पाकिस्तान की ओर से विदेशों में राजदूतों और हाई कमिश्नरों की नियुक्ति को लेकर सवाल उठ रहे हैं. विदेश मंत्री मोहम्मद इशाक डार ने सीनेट में बताया कि 17 ऐसे लोगों को विदेशी मिशनों में जिम्मेदारी दी गई है, जो नियमित विदेश सेवा से नहीं आते.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "हवा में खंभे से टकराया प्लेन, टूटा पंख, धड़धड़ाकर मुंह के बल हुआ धराशायी, खौफनाक अंजाम",
       "url": "https://hindi.news18.com/world/america-horrifying-plane-crash-on-san-jose-highway-fell-amid-traffic-watch-video-10925640.html",
       "source": "News18 Hindi (World)",
@@ -574,186 +754,6 @@
           "title": "अमेरिकी संसद उम्मीदवार सहित 70 से ज्यादा लोगों को इजराइली फौज ने पकड़ा, क्या है पूरा मामला?",
           "summary": "इजराइली सेना ने वेस्ट बैंक में जैतून की फसल काटने वाले 70 से अधिक लोगों को पकड़ा। इनमें अमेरिकी संसद के एक उम्मीदवार भी शामिल थे। सुरक्षा बलों ने उन्हें घेर लिया। इजराइली सुरक्षा बलों ने अमेरकी संसद चुनाव के उम्मीदवार सहित 70 से ज्यादा लोगों को पकड़ लिया है। इजराइली फौज ने वेस्ट बैंक के एक गांव में जैतून की फसल काटने के दौरान इन लोगों को घेर लिया।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बांग्लादेश की सेना में क्यों सुलग रही नाराजगी? अंदर सबकुछ ठीक नहीं, सरकार से ही चल रहा विवाद",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-army-internal-discontent-pakistan-military-academy-gold-medal-waker-uz-zaman-10925671.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T10:38:25+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/tarique-rahman-6-2026-10-b1aa0732d9232f95aa2c2f4d1bc4d8ef-1200x800.jpg",
-      "summary": "बांग्लादेश की सेना में नाराजगी बढ़ रही है। एक कैडेट को पाकिस्तान मिलिट्री एकेडमी में गोल्ड मेडल मिलने पर विवाद हुआ। आर्मी चीफ को हटाने की कोशिशें भी सामने आईं। बांग्लादेश की सेना में सबकुछ ठीक नहीं चल रहा. अलग-अलग मामलों को लेकर सेना के अंदरखाने में नाराजगी देखने को मिलती रहती है. बांग्लादेश के एक कैडेट को पाकिस्तान मिलिट्री एकेडमी में चीफ ऑफ ओवरसीज गोल्ड मेडल दिया गया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश की सेना में क्यों सुलग रही नाराजगी? अंदर सबकुछ ठीक नहीं, सरकार से ही चल रहा विवाद",
-          "summary": "बांग्लादेश की सेना में नाराजगी बढ़ रही है। एक कैडेट को पाकिस्तान मिलिट्री एकेडमी में गोल्ड मेडल मिलने पर विवाद हुआ। आर्मी चीफ को हटाने की कोशिशें भी सामने आईं। बांग्लादेश की सेना में सबकुछ ठीक नहीं चल रहा. अलग-अलग मामलों को लेकर सेना के अंदरखाने में नाराजगी देखने को मिलती रहती है. बांग्लादेश के एक कैडेट को पाकिस्तान मिलिट्री एकेडमी में चीफ ऑफ ओवरसीज गोल्ड मेडल दिया गया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप पुतिन की डील का दिखा असर, अमेरिका को 40 हजार टन डीजल भेजेगा रूस, 22 अक्टूबर को रवाना होगा",
-      "url": "https://www.patrika.com/world-news/us-russia-diesel-deal-putin-send-40000-tonnes-diesel-to-us-20999146",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T10:29:49+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump-and-putin.webp",
-      "summary": "रूस ने अमेरिका के लिए पहला डीजल टैंकर रवाना किया। उप प्रधानमंत्री अलेक्जेंडर नोवाक ने 22 अक्टूबर को यह जानकारी दी। यह ट्रंप-पुतिन डील का पहला परिणाम है। Russia US Relations: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और रूसी राष्ट्रपति व्लादिमीर पुतिन के बीच डीजल सप्लाई को लेकर हुई डील के बाद बड़ी खबर सामने आ रही है। रूस का दावा है कि डोनाल्ड ट्रंप द्वारा घोषित सौदे के बाद रूसी डीजल ले जाने वाला पहला टैंकर गुरुवार, 22 अक्टूबर को अमेरिका के लिए रवाना होगा।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप पुतिन की डील का दिखा असर, अमेरिका को 40 हजार टन डीजल भेजेगा रूस, 22 अक्टूबर को रवाना होगा",
-          "summary": "रूस ने अमेरिका के लिए पहला डीजल टैंकर रवाना किया। उप प्रधानमंत्री अलेक्जेंडर नोवाक ने 22 अक्टूबर को यह जानकारी दी। यह ट्रंप-पुतिन डील का पहला परिणाम है। Russia US Relations: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप और रूसी राष्ट्रपति व्लादिमीर पुतिन के बीच डीजल सप्लाई को लेकर हुई डील के बाद बड़ी खबर सामने आ रही है। रूस का दावा है कि डोनाल्ड ट्रंप द्वारा घोषित सौदे के बाद रूसी डीजल ले जाने वाला पहला टैंकर गुरुवार, 22 अक्टूबर को अमेरिका के लिए रवाना होगा।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सऊदी के पवित्र ‘मदीना’ पर फिर ड्रोन अटैक, ईरान समर्थित हूतियों ने हमले से किया इनकार",
-      "url": "https://www.patrika.com/world-news/saudi-medina-drone-attack-houthis-deny-claim-20999247",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T10:08:23+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/houthi-rebel.webp",
-      "summary": "सऊदी सेना ने मदीना पर ड्रोन हमले का दावा किया। उन्होंने कहा कि ड्रोन को हवा में ही नष्ट कर दिया गया। हूतियों ने इस हमले की जिम्मेदारी स्वीकार नहीं की। ईरान समर्थित हूतियों का हमला लगातार जारी है। वह होर रोज यमन और उसे खुलकर सपोर्ट करने वाले सऊदी अरब को निशाना बना रहे हैं। सऊदी की सेना ने बुधवार को दावा किया कि मदीना शहर और पूर्वी इलाके पर ड्रोन अटैक हुआ, लेकिन उस ड्रोन को हवा में ही तबाह कर दिया गया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी के पवित्र ‘मदीना’ पर फिर ड्रोन अटैक, ईरान समर्थित हूतियों ने हमले से किया इनकार",
-          "summary": "सऊदी सेना ने मदीना पर ड्रोन हमले का दावा किया। उन्होंने कहा कि ड्रोन को हवा में ही नष्ट कर दिया गया। हूतियों ने इस हमले की जिम्मेदारी स्वीकार नहीं की। ईरान समर्थित हूतियों का हमला लगातार जारी है। वह होर रोज यमन और उसे खुलकर सपोर्ट करने वाले सऊदी अरब को निशाना बना रहे हैं। सऊदी की सेना ने बुधवार को दावा किया कि मदीना शहर और पूर्वी इलाके पर ड्रोन अटैक हुआ, लेकिन उस ड्रोन को हवा में ही तबाह कर दिया गया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सऊदी अरब में बांग्लादेशी महिला-पुरुष को मृत्युदंड, Ta’zir Law क्या है? महिला के परिवार ने क्या कहा?",
-      "url": "https://www.patrika.com/world-news/bangladeshi-couple-mecca-execution-taazir-law-saudi-arabia-explained-20998797",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T09:40:13+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/bangladeshi-couple-mecca.webp",
-      "summary": "सऊदी अरब ने मक्का में दो बांग्लादेशी नागरिकों को मृत्युदंड दिया। उन्हें मस्जिद में अशोभनीय कृत्य के दोषी ठहराया गया। सजा ताजीर कानून के तहत सुनाई गई। नई दिल्ली। सऊदी अरब ने मक्का क्षेत्र में एक मस्जिद के भीतर ‘अशोभनीय कृत्य’ के मामले में दोषी ठहराए गए बांग्लादेशी महिला और पुरुष को 14 अक्टूबर को मृत्युदंड दे दिया। सऊदी अरब के गृह मंत्रालय के अनुसार, अदालत ने उन्हे ‘ताजीर’ के तहत मौत की सजा सुनाई थी।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी अरब में बांग्लादेशी महिला-पुरुष को मृत्युदंड, Ta’zir Law क्या है? महिला के परिवार ने क्या कहा?",
-          "summary": "सऊदी अरब ने मक्का में दो बांग्लादेशी नागरिकों को मृत्युदंड दिया। उन्हें मस्जिद में अशोभनीय कृत्य के दोषी ठहराया गया। सजा ताजीर कानून के तहत सुनाई गई। नई दिल्ली। सऊदी अरब ने मक्का क्षेत्र में एक मस्जिद के भीतर ‘अशोभनीय कृत्य’ के मामले में दोषी ठहराए गए बांग्लादेशी महिला और पुरुष को 14 अक्टूबर को मृत्युदंड दे दिया। सऊदी अरब के गृह मंत्रालय के अनुसार, अदालत ने उन्हे ‘ताजीर’ के तहत मौत की सजा सुनाई थी।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ओमान के पास तेल टैंकर में फिर लगी आग, ईरान का 24 घंटे में तीन जहाजों पर हमले का दावा",
-      "url": "https://www.patrika.com/world-news/oman-oil-tanker-attack-strait-of-hormuz-us-iran-war-20999035",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T09:28:12+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Strait-of-Hormuz-Attack.ANI_.webp",
-      "summary": "ओमान के बुका से पश्चिम में एक तेल टैंकर पर अज्ञात वस्तु से हमला हुआ। आग बुझा दी गई और चालक दल सुरक्षित है। ईरान ने 24 घंटों में तीन जहाजों पर हमले का दावा किया है। Oman Tanker Incident: ओमान के पास तेल टैंकरों में आग लगने की घटनाओं ने समुद्री सुरक्षा को लेकर चिंता बढ़ा दी है। यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस (UKMTO) के मुताबिक, ओमान के बुका इलाके से करीब 11 नॉटिकल मील पश्चिम में एक टैंकर पर अज्ञात चीज से हमला हुआ।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ओमान के पास तेल टैंकर में फिर लगी आग, ईरान का 24 घंटे में तीन जहाजों पर हमले का दावा",
-          "summary": "ओमान के बुका से पश्चिम में एक तेल टैंकर पर अज्ञात वस्तु से हमला हुआ। आग बुझा दी गई और चालक दल सुरक्षित है। ईरान ने 24 घंटों में तीन जहाजों पर हमले का दावा किया है। Oman Tanker Incident: ओमान के पास तेल टैंकरों में आग लगने की घटनाओं ने समुद्री सुरक्षा को लेकर चिंता बढ़ा दी है। यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस (UKMTO) के मुताबिक, ओमान के बुका इलाके से करीब 11 नॉटिकल मील पश्चिम में एक टैंकर पर अज्ञात चीज से हमला हुआ।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "शी जिनपिंग का उड़ाया था मजाक, चीन ने दूसरे देश में घुसकर कमेडियन से लिया बदला!",
-      "url": "https://www.patrika.com/world-news/taiwan-comedian-car-attack-xi-jinping-china-transnational-repression-20999071",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T09:18:46+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Xi-Jinping-1.webp",
-      "summary": "ताइवान के एक कॉमेडियन ने शी जिनपिंग का मजाक उड़ाया। चीन ने दूसरे देश में घुसकर उससे बदला लिया। यह घटना चीन की सीमा पार कार्रवाई को दर्शाती है। ताइवान के एक कमेडियन को चीनी राष्ट्रपति शी जिनपिंग के खिलाफ बोलना भारी पड़ गया है। चीन ने दूसरे देश में घुसकर इस अपमान के लिए कमेडियन से बदला लिया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शी जिनपिंग का उड़ाया था मजाक, चीन ने दूसरे देश में घुसकर कमेडियन से लिया बदला!",
-          "summary": "ताइवान के एक कॉमेडियन ने शी जिनपिंग का मजाक उड़ाया। चीन ने दूसरे देश में घुसकर उससे बदला लिया। यह घटना चीन की सीमा पार कार्रवाई को दर्शाती है। ताइवान के एक कमेडियन को चीनी राष्ट्रपति शी जिनपिंग के खिलाफ बोलना भारी पड़ गया है। चीन ने दूसरे देश में घुसकर इस अपमान के लिए कमेडियन से बदला लिया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी जनरलों को पैसे देकर बुला रहा ताइवान, चीन की नाक के नीचे क्या खतरनाक खेल चल रहा है?",
-      "url": "https://hindi.news18.com/world/china-taiwan-us-military-cooperation-han-kuang-drills-china-tension-10925525.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T09:08:41+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/taiwan-4-2026-10-6d8632870bbf5b7938b4cb1c08307147-1200x800.jpg",
-      "summary": "ताइवान ने अमेरिकी रिटायर्ड जनरलों को हान कुआंग युद्धाभ्यास में पर्यवेक्षक के रूप में शामिल किया। 2026-27 के लिए 82.4 मिलियन डॉलर का बजट रखा गया। यह चीन को रणनीतिक संदेश देता है। ताइवान के रक्षा मंत्रालय ने माना है कि अमेरिकी इंडो-पैसिफिक कमांड के रिटायर्ड जनरल और अन्य कर्मी ताइवान के हान कुआंग युद्धाभ्यास में पर्यवेक्षक के तौर पर शामिल होते हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी जनरलों को पैसे देकर बुला रहा ताइवान, चीन की नाक के नीचे क्या खतरनाक खेल चल रहा है?",
-          "summary": "ताइवान ने अमेरिकी रिटायर्ड जनरलों को हान कुआंग युद्धाभ्यास में पर्यवेक्षक के रूप में शामिल किया। 2026-27 के लिए 82.4 मिलियन डॉलर का बजट रखा गया। यह चीन को रणनीतिक संदेश देता है। ताइवान के रक्षा मंत्रालय ने माना है कि अमेरिकी इंडो-पैसिफिक कमांड के रिटायर्ड जनरल और अन्य कर्मी ताइवान के हान कुआंग युद्धाभ्यास में पर्यवेक्षक के तौर पर शामिल होते हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या जल्द थमेगी रूस-यूक्रेन जंग? पुतिन से मिलेंगे अमेरिकी दूत स्टीव विटकोफ, जेलेंस्की ने मांगी मदद",
-      "url": "https://www.patrika.com/world-news/russia-ukraine-war-witkoff-putin-meeting-st-petersburg-peace-signal-20998994",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T09:04:56+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Steve-Witkoff.webp",
-      "summary": "अमेरिकी दूत स्टीव विटकोफ पुतिन से मिलने सेंट पीटर्सबर्ग पहुंचे। जेलेंस्की ने युद्ध समाप्त करने की अपील की। उन्होंने अमेरिका और यूरोप से शांति प्रयासों में मदद मांगी। Russia Ukraine War: अमेरिकी विशेष दूत स्टीव विटकोफ, रूसी राष्ट्रपति व्लादिमीर पुतिन के साथ एक निर्धारित बैठक के लिए सेंट पीटर्सबर्ग पहुंच गए हैं। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने रूस-यूक्रेन युद्ध को जल्द खत्म करने की अपील की है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या जल्द थमेगी रूस-यूक्रेन जंग? पुतिन से मिलेंगे अमेरिकी दूत स्टीव विटकोफ, जेलेंस्की ने मांगी मदद",
-          "summary": "अमेरिकी दूत स्टीव विटकोफ पुतिन से मिलने सेंट पीटर्सबर्ग पहुंचे। जेलेंस्की ने युद्ध समाप्त करने की अपील की। उन्होंने अमेरिका और यूरोप से शांति प्रयासों में मदद मांगी। Russia Ukraine War: अमेरिकी विशेष दूत स्टीव विटकोफ, रूसी राष्ट्रपति व्लादिमीर पुतिन के साथ एक निर्धारित बैठक के लिए सेंट पीटर्सबर्ग पहुंच गए हैं। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने रूस-यूक्रेन युद्ध को जल्द खत्म करने की अपील की है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "कार से बार-बार कुचला, दोनों पैर कटे, अपाहिज हो गईं सांसद, ऑस्ट्रेलिया में नेता भी नहीं सुरक्षित?",
-      "url": "https://hindi.news18.com/world/rest-of-world-australian-mp-helen-haines-lost-both-legs-after-car-attack-multiple-times-ws-l-10925603.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T09:01:11+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/australia-mp-2026-10-3467c1953c3e517ef94b3aa327653ff6-1200x800.jpg",
-      "summary": "ऑस्ट्रेलिया में एक सांसद पर कार से हमला हुआ। उन्हें बार-बार कुचला गया और दोनों पैर कट गए। वह अपाहिज हो गईं। यह घटना राजनेताओं की सुरक्षा पर सवाल खड़े करती है। Australian MP Lost Both Legs: आमतौर पर सांसदों और विधायकों की इतनी सुरक्षा होती है कि कोई उन्हें यूं ही छू नहीं सकता लेकिन ऑस्ट्रेलिया में कुछ अलग ही घटना हुई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कार से बार-बार कुचला, दोनों पैर कटे, अपाहिज हो गईं सांसद, ऑस्ट्रेलिया में नेता भी नहीं सुरक्षित?",
-          "summary": "ऑस्ट्रेलिया में एक सांसद पर कार से हमला हुआ। उन्हें बार-बार कुचला गया और दोनों पैर कट गए। वह अपाहिज हो गईं। यह घटना राजनेताओं की सुरक्षा पर सवाल खड़े करती है। Australian MP Lost Both Legs: आमतौर पर सांसदों और विधायकों की इतनी सुरक्षा होती है कि कोई उन्हें यूं ही छू नहीं सकता लेकिन ऑस्ट्रेलिया में कुछ अलग ही घटना हुई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ऐसे प्रदर्शन तो रोज होते हैं... CJP प्रोटेस्ट पर पूछा गया सवाल, मार्को रुबियो के जवाब ने चौंकाया?",
-      "url": "https://hindi.news18.com/world/south-asia-what-marco-rubio-answers-over-cjp-protest-question-calls-indias-internal-matter-ws-l-10925524.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T08:33:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Marco_Rubio_Interview2-2026-10-684d4b87be460fe3425e03cca4727527-1200x800.jpg",
-      "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत में सीजेपी प्रदर्शनों पर टिप्पणी करते हुए कहा कि अमेरिका में ऐसे प्रदर्शन रोज होते हैं। उन्होंने भारत सरकार की आलोचना को खारिज कर दिया। यहां आने से पहले ही उनसे पूछा गया कि वे भारत में चल रहे प्रदर्शनों पर क्या कहना चाहेंगे, जब यूएन ने इसे लेकर टिप्पणी की है. किसी ने नहीं सोचा था कि मार्को रुबियो ऐसा जवाब देंगे, जैसा उन्होंने दिया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऐसे प्रदर्शन तो रोज होते हैं... CJP प्रोटेस्ट पर पूछा गया सवाल, मार्को रुबियो के जवाब ने चौंकाया?",
-          "summary": "अमेरिकी विदेश मंत्री मार्को रुबियो ने भारत में सीजेपी प्रदर्शनों पर टिप्पणी करते हुए कहा कि अमेरिका में ऐसे प्रदर्शन रोज होते हैं। उन्होंने भारत सरकार की आलोचना को खारिज कर दिया। यहां आने से पहले ही उनसे पूछा गया कि वे भारत में चल रहे प्रदर्शनों पर क्या कहना चाहेंगे, जब यूएन ने इसे लेकर टिप्पणी की है. किसी ने नहीं सोचा था कि मार्को रुबियो ऐसा जवाब देंगे, जैसा उन्होंने दिया.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }

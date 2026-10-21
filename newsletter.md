@@ -1,6 +1,40 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 21, 2026 21:12 IST
+**Updated:** October 22, 2026 01:14 IST
+
+---
+
+## Asia-Pacific
+
+### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
+*Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
+<!-- image: https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg -->
+
+Tajikistan is advancing the Soviet-era Roghun Dam project after securing major funding tranches. The development aims to reshape Central Asia's energy supply. The construction will displace tens of thousands of local villagers from their homes. The Soviet-era Roghun Dam project has endured decades of uncertainty and opposition. Now major funding tranches appear to have the project on track to transform Central Asia's energy landscape -- and displace tens of thousands of Tajik villagers.
+
+### [Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes](https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes)
+*The Guardian* - Oct 21, 21:43 IST (iso: 2026-10-21T16:13:53+00:00)
+<!-- image: https://i.guim.co.uk/img/media/58b66aaef4e26d60886b5c0c15befc257deb5d69/363_156_721_577/master/721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5118a8e46e914a164bcd919cf04fac54 -->
+
+New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.
+
+### [Shark trapped for a month in South Korean canal is finally freed](https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i)
+*The Guardian* - Oct 21, 17:11 IST (iso: 2026-10-21T11:41:48+00:00)
+<!-- image: https://i.guim.co.uk/img/media/19fbd10bc74cee193b7c558e29bd0dd821dc131c/229_0_4520_3618/master/4520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9402c60a195f2030f413b52cfc3fe244 -->
+
+A shark named Bukang-i was freed from a South Korean canal after being trapped for a month. The animal attracted 1.6 million visitors during its confinement. Local volunteers monitored its condition daily. Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubersIn South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vigilante group and neighbourhood watch.
+
+### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
+*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
+<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
+
+China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
+
+### [Three deaths from float crushes raise safety concerns over Japanese festivals](https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents)
+*The Guardian* - Oct 19, 14:38 IST (iso: 2026-10-19T09:08:34+00:00)
+<!-- image: https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db -->
+
+Three people died from float crushes at Japanese festivals this weekend. Deputy mayor Akihiro Nabae was killed in Saijo. Two other men died in similar incidents elsewhere in the country. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.
 
 ---
 
@@ -11,12 +45,6 @@
 <!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
 
 Access Now reported 313 global internet shutdowns in 2025. Africa saw 30 outages across 15 countries. Protests triggered most cuts. Elections followed as the second leading cause for these digital blackouts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
-
-### [Singapore and the UAE to launch economic partnership negotiations to further trade, investment links](https://www.channelnewsasia.com/singapore/uae-lawrence-wong-bilateral-agreement-6479141)
-*Channel News Asia* - Oct 21, 19:57 IST (iso: 2026-10-21T14:27:31+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--mJCMHtzA--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/21/mddi_03.jpeg?itok=HatV0n0y -->
-
-Singapore and the UAE began economic partnership talks in Abu Dhabi. Leaders signed three agreements covering energy, water, and disease control. The moves aim to deepen trade and investment links between the two nations. During their meeting in Abu Dhabi, Prime Minister Lawrence Wong and United Arab Emirates President Sheikh Mohamed Zayed Al Nahyan witnessed the inking of three agreements on energy cooperation, water cooperation and disease vector control.
 
 ### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
 *The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
@@ -44,7 +72,7 @@ Influential Iranian officials are openly calling for a nuclear bomb. The death o
 
 ### [Yemen war continues to force families from homes amid hunger and disease](https://news.un.org/feed/view/en/story/2026/10/1168629)
 *UN News* - Oct 20, 17:30 IST (iso: 2026-10-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image560x340cropped.jpg -->
 
 Over 250,000 people have fled renewed fighting in Yemen, the United Nations reported. Access to the southwestern city of Taiz is essentially blocked. This has trapped residents in areas facing severe hunger and disease. The displacement continues to strain local humanitarian resources. More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.
 
@@ -54,21 +82,15 @@ Over 250,000 people have fled renewed fighting in Yemen, the United Nations repo
 
 Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.
 
-### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg -->
-
-The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
-
-### [Guterres honours Indonesian troops who paid ‘ultimate sacrifice’](https://news.un.org/feed/view/en/story/2026/10/1168623)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image560x340cropped.jpg -->
-
-UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
-
 ---
 
 ## Global / Multilateral
+
+### [Migrants paid up to $500 million in smuggling fees on European sea routes](https://news.un.org/feed/view/en/story/2026/10/1168642)
+*UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg -->
+
+The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.
 
 ### [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/feed/view/en/story/2026/10/1168634)
 *UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
@@ -128,18 +150,6 @@ SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces
 
 Zelenskyy thanked the United States after Oslo talks. He said missile intelligence now works effectively. US envoys Steve Witkoff and Jared Kushner joined the meetings. Russia continues to bomb Ukraine while tensions between Kyiv and Washington grow. US special envoys Steve Witkoff and Jared Kushner will take part in meetings in Oslo to discuss the situation in Ukraine with President Volodymyr Zelenskyy as Russia continues to pound the country amid growing tensions between Kyiv and Washington.
 
-### [A Russian Military Satellite Gets Very, Very Close To One Used By Ukraine](https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html)
-*Radio Free Europe / Liberty* - Oct 19, 20:32 IST (iso: 2026-10-19T15:02:14+00:00)
-<!-- image: https://gdb.rferl.org/459A5069-D10C-4972-B087-263CEDDB03F5_w1200_h630.jpg -->
-
-A Russian military satellite passed exceptionally close to a Finnish-operated satellite. The Finnish satellite provides intelligence to Ukraine. Officials described the maneuver as concerning and aggressive. They noted it may serve as a signal of hostile intent. Last week, a Russian military satellite came “exceptionally close” to another Finnish-operated satellite that provides intelligence to Ukraine. “It’s concerning and aggressive with potential hostile intent – but I also think cooler heads believe it is signaling on the part of the Russians.”.
-
-### [Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks](https://news.un.org/feed/view/en/story/2026/10/1168620)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image560x340cropped.jpg -->
-
-The UN Biodiversity Conference opened in Yerevan, Armenia. The top UN official warned that ongoing biodiversity losses threaten the prosperity of billions. He urged nations to take immediate action to protect the planet. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.
-
 ### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
 *The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
 <!-- image: https://i.guim.co.uk/img/media/70eac97d7dd3289ac3b0e22b1638ee5d18d2b9fa/733_0_5413_4333/master/5413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e30bdf7a1381872da21cdda4a14abc20 -->
@@ -161,16 +171,6 @@ Alberta voters rejected a proposal to begin the independence process by a wide m
 <!-- image: https://i.guim.co.uk/img/media/693b685efa99890c59fcc2ef30cf05e163c53c8a/307_256_1170_936/master/1170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39ee72c08e3ea1b650967af3ff0b3d36 -->
 
 Flávio Bolsonaro’s debate comment calling his rival corrupt backfired. Social media users quickly turned the moment into a viral meme. The stunt was meant to highlight alleged crookedness before the election runoff. Instead, it became a widespread parody online. Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election. But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Lu.
-
----
-
-## Asia-Pacific
-
-### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
-*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
-<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
-
-China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
 
 ---
 
