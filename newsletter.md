@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 22, 2026 01:14 IST
+**Updated:** October 22, 2026 04:21 IST
 
 ---
 
 ## Asia-Pacific
+
+### [North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days](https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece)
+*The Hindu (International)* - Oct 22, 03:30 IST (iso: 2026-10-21T22:00:58+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/1yfq6b/article71609152.ece/alternates/LANDSCAPE_1200/North_Korea_Koreas_Tensions_6_542.jpg -->
+
+Kim Yo Jong warned South Korea that border loudspeakers would be operational within days. The North Korean leader responded to a special adviser to President Lee who accused Pyongyang of planting mines that wounded South Korean soldiers. The adviser had also urged the North to avoid escalating tensions through loudspeaker broadcasts. Kim framed the threat as a direct reply to these accusations and warnings.
 
 ### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
 *Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
@@ -18,23 +24,75 @@ Tajikistan is advancing the Soviet-era Roghun Dam project after securing major f
 
 New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.
 
-### [Shark trapped for a month in South Korean canal is finally freed](https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i)
-*The Guardian* - Oct 21, 17:11 IST (iso: 2026-10-21T11:41:48+00:00)
-<!-- image: https://i.guim.co.uk/img/media/19fbd10bc74cee193b7c558e29bd0dd821dc131c/229_0_4520_3618/master/4520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9402c60a195f2030f413b52cfc3fe244 -->
-
-A shark named Bukang-i was freed from a South Korean canal after being trapped for a month. The animal attracted 1.6 million visitors during its confinement. Local volunteers monitored its condition daily. Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubersIn South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vigilante group and neighbourhood watch.
-
 ### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
 *The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
 <!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
 
 China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
 
-### [Three deaths from float crushes raise safety concerns over Japanese festivals](https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents)
-*The Guardian* - Oct 19, 14:38 IST (iso: 2026-10-19T09:08:34+00:00)
-<!-- image: https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db -->
+---
 
-Three people died from float crushes at Japanese festivals this weekend. Deputy mayor Akihiro Nabae was killed in Saijo. Two other men died in similar incidents elsewhere in the country. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.
+## Europe & Russia
+
+### [American Stephen Hubbard Freed After More Than 4 Years In Russian Custody](https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html)
+*Radio Free Europe / Liberty* - Oct 22, 01:27 IST (iso: 2026-10-21T19:57:46+00:00)
+<!-- image: https://gdb.rferl.org/910b612f-ed88-4aa5-e8cb-08df13afe2a0_cx0_cy1_cw0_w1200_h630.jpg -->
+
+Russian authorities released Stephen Hubbard, a 74‑year‑old American, after more than four years in custody. Russia has released 74-year-old US citizen Stephen Hubbard, who had been detained since 2022. He had been sentenced to prison for allegedly acting as a mercenary in Ukraine, charges his family disputed. President Vladimir Putin announced Hubbard’s release during talks with US envoy Steve Witkoff.
+
+### [US Citizen Accused By Moscow Of Fighting For Ukraine Released From Russian Prison](https://www.rferl.org/a/stephen-hubbard-russia-us-prisoner-release-trump/33880760.html)
+*Radio Free Europe / Liberty* - Oct 21, 15:23 IST (iso: 2026-10-21T09:53:03+00:00)
+<!-- image: https://gdb.rferl.org/dbab1883-4624-440f-98a2-e494656e233c_cx0_cy19_cw0_w1200_h630.jpg -->
+
+Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
+
+### [Vladimir Putin’s Neighbors: Two Parallel Worlds On Lake Valdai](https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html)
+*Radio Free Europe / Liberty* - Oct 21, 13:13 IST (iso: 2026-10-21T07:43:41+00:00)
+<!-- image: https://gdb.rferl.org/9ae7e62f-3e02-4141-42b6-08df13a884cb_w1200_h630.jpg -->
+
+Vladimir Putin's residence near Lake Valdai features heavy security and air defenses. Locals nearby face restricted access to the lake and forests. Families in the region bear the economic costs of Russia's war against Ukraine. The area exists as two parallel worlds of privilege and restriction. Vladimir Putin’s secluded residence near Russia’s Lake Valdai is surrounded by fences, security forces, and air defenses.
+
+### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
+*Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
+<!-- image: https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg -->
+
+Ukraine's military rescued a wounded soldier from the front lines using an aerial drone. The soldier, injured in both legs, strapped himself to a hexacopter for evacuation. Fellow servicemen described the act as heroic. This marks the first recorded instance of such a drone-based battlefield rescue. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.
+
+### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
+*Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
+<!-- image: https://gdb.rferl.org/67889eaf-352c-4b60-e8c1-08df13a87301_w1200_h630.jpg -->
+
+Ukrainian forces retaken 26 settlements in the Dnipropetrovsk region. The villages are largely destroyed and uninhabitable. Russian troops are being pushed back, but Ukrainian forces face challenges holding the reclaimed territory under constant drone threat. As Russian troops are pushed back, Ukrainian forces face the challenge of holding the reclaimed territory under constant threat from drones. Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins.
+
+### [Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties](https://www.rferl.org/a/georgia-faces-new-test-as-court-weighs-ban-on-five-opposition-parties/33880171.html)
+*Radio Free Europe / Liberty* - Oct 20, 20:49 IST (iso: 2026-10-20T15:19:04+00:00)
+<!-- image: https://gdb.rferl.org/c4530fce-93a8-4573-7515-08df13a869ed_w1200_h630.jpeg -->
+
+Georgia’s Constitutional Court will begin hearings on October 21 regarding a ban on five opposition parties. These parties have collectively won hundreds of thousands of votes. The proceedings mark another critical test for the country’s multiparty democracy, with a final ruling potentially to come later. Georgia’s Constitutional Court will begin hearings on October 21 on a case seeking to ban five opposition parties that together have won hundreds of thousands of votes.
+
+### [Moldova To Probe Possible Russian Data-Harvesting After RFE/RL Investigation](https://www.rferl.org/a/moldova-russian-data-harvesting-yandex/33879343.html)
+*Radio Free Europe / Liberty* - Oct 20, 15:43 IST (iso: 2026-10-20T10:13:51+00:00)
+<!-- image: https://gdb.rferl.org/131fffd7-5cf1-49d4-8ed3-08debadc418c_w1200_h630.jpg -->
+
+Moldova launched an investigation into Yandex for allegedly harvesting citizen data. The company reportedly sent personal information to Russian servers instead of the Netherlands. This contradicts previous data storage agreements. The probe follows an investigation by Radio Free Europe/Radio Liberty. Moldova has announced an investigation into concerns that Russian tech giant Yandex has been harvesting the personal data of its citizens by sending it directly to servers in Russia rather than storing it in the Netherlands as previously believed.
+
+### [Why Starshield’s slowdown really hurts Ukraine](https://asiatimes.com/2026/10/why-starshields-slowdown-really-hurts-ukraine/)
+*Asia Times* - Oct 20, 15:07 IST (iso: 2026-10-20T09:37:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-Drones-Drone-Warfare.jpg -->
+
+SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces. This slowdown has raised serious concerns in Kyiv and among its allies. The military-grade service supports critical battlefield communications. The disruption highlights Ukraine’s dependence on external satellite infrastructure. Reports that SpaceX temporarily restricted its satellite internet service for Ukraine’s armed forces have generated serious concern in Kyiv and among the country’s allies.
+
+### [After Oslo Talks, Zelenskyy Thanks US As Missile Intelligence 'Works Now'](https://www.rferl.org/a/ukraine-russia-attack-zelenskyy-oslo-meeting/33880037.html)
+*Radio Free Europe / Liberty* - Oct 20, 14:55 IST (iso: 2026-10-20T09:25:25+00:00)
+<!-- image: https://gdb.rferl.org/9447997b-440f-4e91-8294-ad127b254418_cx5_cy12_cw86_w1200_h630.jpg -->
+
+Zelenskyy thanked the United States after Oslo talks. He said missile intelligence now works effectively. US envoys Steve Witkoff and Jared Kushner joined the meetings. Russia continues to bomb Ukraine while tensions between Kyiv and Washington grow. US special envoys Steve Witkoff and Jared Kushner will take part in meetings in Oslo to discuss the situation in Ukraine with President Volodymyr Zelenskyy as Russia continues to pound the country amid growing tensions between Kyiv and Washington.
+
+### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
+*The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
+<!-- image: https://i.guim.co.uk/img/media/70eac97d7dd3289ac3b0e22b1638ee5d18d2b9fa/733_0_5413_4333/master/5413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e30bdf7a1381872da21cdda4a14abc20 -->
+
+Hurricane Trudy weakened to a tropical storm after threatening Mexico's Pacific coast. The system remained 160 kilometers southwest of the shore. Meanwhile, deadly floods in Greece killed one person. The Pacific season saw 22 named systems this year. Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system.
 
 ---
 
@@ -97,64 +155,6 @@ The UN reported that migrants paid up to 500 million dollars in smuggling fees o
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image770x420cropped.jpg -->
 
 Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels. Nations must implement deep, rapid emissions cuts to minimize this overshoot. The goal is returning to the agreed threshold by century's end. Urgent action is required to limit the duration of this breach. With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.
-
----
-
-## Europe & Russia
-
-### [US Citizen Accused By Moscow Of Fighting For Ukraine Released From Russian Prison](https://www.rferl.org/a/stephen-hubbard-russia-us-prisoner-release-trump/33880760.html)
-*Radio Free Europe / Liberty* - Oct 21, 15:23 IST (iso: 2026-10-21T09:53:03+00:00)
-<!-- image: https://gdb.rferl.org/dbab1883-4624-440f-98a2-e494656e233c_cx0_cy19_cw0_w1200_h630.jpg -->
-
-Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
-
-### [Vladimir Putin’s Neighbors: Two Parallel Worlds On Lake Valdai](https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html)
-*Radio Free Europe / Liberty* - Oct 21, 13:13 IST (iso: 2026-10-21T07:43:41+00:00)
-<!-- image: https://gdb.rferl.org/9ae7e62f-3e02-4141-42b6-08df13a884cb_w1200_h630.jpg -->
-
-Vladimir Putin's residence near Lake Valdai features heavy security and air defenses. Locals nearby face restricted access to the lake and forests. Families in the region bear the economic costs of Russia's war against Ukraine. The area exists as two parallel worlds of privilege and restriction. Vladimir Putin’s secluded residence near Russia’s Lake Valdai is surrounded by fences, security forces, and air defenses.
-
-### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
-*Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
-<!-- image: https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg -->
-
-Ukraine's military rescued a wounded soldier from the front lines using an aerial drone. The soldier, injured in both legs, strapped himself to a hexacopter for evacuation. Fellow servicemen described the act as heroic. This marks the first recorded instance of such a drone-based battlefield rescue. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.
-
-### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
-*Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
-<!-- image: https://gdb.rferl.org/67889eaf-352c-4b60-e8c1-08df13a87301_w1200_h630.jpg -->
-
-Ukrainian forces retaken 26 settlements in the Dnipropetrovsk region. The villages are largely destroyed and uninhabitable. Russian troops are being pushed back, but Ukrainian forces face challenges holding the reclaimed territory under constant drone threat. As Russian troops are pushed back, Ukrainian forces face the challenge of holding the reclaimed territory under constant threat from drones. Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins.
-
-### [Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties](https://www.rferl.org/a/georgia-faces-new-test-as-court-weighs-ban-on-five-opposition-parties/33880171.html)
-*Radio Free Europe / Liberty* - Oct 20, 20:49 IST (iso: 2026-10-20T15:19:04+00:00)
-<!-- image: https://gdb.rferl.org/c4530fce-93a8-4573-7515-08df13a869ed_w1200_h630.jpeg -->
-
-Georgia’s Constitutional Court will begin hearings on October 21 regarding a ban on five opposition parties. These parties have collectively won hundreds of thousands of votes. The proceedings mark another critical test for the country’s multiparty democracy, with a final ruling potentially to come later. Georgia’s Constitutional Court will begin hearings on October 21 on a case seeking to ban five opposition parties that together have won hundreds of thousands of votes.
-
-### [Moldova To Probe Possible Russian Data-Harvesting After RFE/RL Investigation](https://www.rferl.org/a/moldova-russian-data-harvesting-yandex/33879343.html)
-*Radio Free Europe / Liberty* - Oct 20, 15:43 IST (iso: 2026-10-20T10:13:51+00:00)
-<!-- image: https://gdb.rferl.org/131fffd7-5cf1-49d4-8ed3-08debadc418c_w1200_h630.jpg -->
-
-Moldova launched an investigation into Yandex for allegedly harvesting citizen data. The company reportedly sent personal information to Russian servers instead of the Netherlands. This contradicts previous data storage agreements. The probe follows an investigation by Radio Free Europe/Radio Liberty. Moldova has announced an investigation into concerns that Russian tech giant Yandex has been harvesting the personal data of its citizens by sending it directly to servers in Russia rather than storing it in the Netherlands as previously believed.
-
-### [Why Starshield’s slowdown really hurts Ukraine](https://asiatimes.com/2026/10/why-starshields-slowdown-really-hurts-ukraine/)
-*Asia Times* - Oct 20, 15:07 IST (iso: 2026-10-20T09:37:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-Drones-Drone-Warfare.jpg -->
-
-SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces. This slowdown has raised serious concerns in Kyiv and among its allies. The military-grade service supports critical battlefield communications. The disruption highlights Ukraine’s dependence on external satellite infrastructure. Reports that SpaceX temporarily restricted its satellite internet service for Ukraine’s armed forces have generated serious concern in Kyiv and among the country’s allies.
-
-### [After Oslo Talks, Zelenskyy Thanks US As Missile Intelligence 'Works Now'](https://www.rferl.org/a/ukraine-russia-attack-zelenskyy-oslo-meeting/33880037.html)
-*Radio Free Europe / Liberty* - Oct 20, 14:55 IST (iso: 2026-10-20T09:25:25+00:00)
-<!-- image: https://gdb.rferl.org/9447997b-440f-4e91-8294-ad127b254418_cx5_cy12_cw86_w1200_h630.jpg -->
-
-Zelenskyy thanked the United States after Oslo talks. He said missile intelligence now works effectively. US envoys Steve Witkoff and Jared Kushner joined the meetings. Russia continues to bomb Ukraine while tensions between Kyiv and Washington grow. US special envoys Steve Witkoff and Jared Kushner will take part in meetings in Oslo to discuss the situation in Ukraine with President Volodymyr Zelenskyy as Russia continues to pound the country amid growing tensions between Kyiv and Washington.
-
-### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
-*The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
-<!-- image: https://i.guim.co.uk/img/media/70eac97d7dd3289ac3b0e22b1638ee5d18d2b9fa/733_0_5413_4333/master/5413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e30bdf7a1381872da21cdda4a14abc20 -->
-
-Hurricane Trudy weakened to a tropical storm after threatening Mexico's Pacific coast. The system remained 160 kilometers southwest of the shore. Meanwhile, deadly floods in Greece killed one person. The Pacific season saw 22 named systems this year. Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system.
 
 ---
 

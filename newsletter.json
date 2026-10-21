@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-10-21T19:44:26.109153+00:00",
+  "generated_at": "2026-10-21T22:51:58.237260+00:00",
   "article_count": 50,
-  "total_unique_count": 258,
+  "total_unique_count": 257,
   "digest": {
-    "en": "Tajikistan is raising the world's tallest dam while Nigeria confirms its first Ebola case. Kenya is deploying Big Tech for state control as Ukraine rescues a soldier by drone.",
-    "hi": "रुबियो की क्वाड लौटने की घोषणा और पुतिन के युद्ध वार्ता के लिए तैयार होने की खबरें आज की प्रमुख घटनाएं हैं। इसी बीच, ट्रंप से जुड़े डेटा लीक केस में अदालत ने 25 बिलियन डॉलर का जुर्माना लगाया है।"
+    "en": "North Korea’s Kim Yo Jong warned South Korea on Thursday, saying border loudspeakers will be ready within days. Meanwhile in Moscow, American Stephen Hubbard walked free after more than four years in a Russian prison.",
+    "hi": "रिजर्व बैंक ऑफ इंडिया ने महंगाई को नियंत्रित करने के लिए रेपो दर बढ़ाई है। इस फैसले से दिसंबर में ब्याज दरों में और वृद्धि की संभावना मजबूत हो गई है।"
   },
   "articles": [
+    {
+      "title": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days",
+      "url": "https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-21T22:00:58+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/1yfq6b/article71609152.ece/alternates/LANDSCAPE_1200/North_Korea_Koreas_Tensions_6_542.jpg",
+      "summary": "Kim Yo Jong warned South Korea that border loudspeakers would be operational within days. The North Korean leader responded to a special adviser to President Lee who accused Pyongyang of planting mines that wounded South Korean soldiers. The adviser had also urged the North to avoid escalating tensions through loudspeaker broadcasts. Kim framed the threat as a direct reply to these accusations and warnings.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "American Stephen Hubbard Freed After More Than 4 Years In Russian Custody",
+      "url": "https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-21T19:57:46+00:00",
+      "image_url": "https://gdb.rferl.org/910b612f-ed88-4aa5-e8cb-08df13afe2a0_cx0_cy1_cw0_w1200_h630.jpg",
+      "summary": "Russian authorities released Stephen Hubbard, a 74‑year‑old American, after more than four years in custody. Russia has released 74-year-old US citizen Stephen Hubbard, who had been detained since 2022. He had been sentenced to prison for allegedly acting as a mercenary in Ukraine, charges his family disputed. President Vladimir Putin announced Hubbard’s release during talks with US envoy Steve Witkoff.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "'World's Tallest' Dam Takes Shape In Tajikistan",
       "url": "https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html",
@@ -56,18 +80,6 @@
       "translations": {}
     },
     {
-      "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168642",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-21T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg",
-      "summary": "The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168638",
       "source": "UN News",
@@ -80,6 +92,18 @@
       "translations": {}
     },
     {
+      "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168642",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg",
+      "summary": "The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168634",
       "source": "UN News",
@@ -88,18 +112,6 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image770x420cropped.jpg",
       "summary": "Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels. Nations must implement deep, rapid emissions cuts to minimize this overshoot. The goal is returning to the agreed threshold by century's end. Urgent action is required to limit the duration of this breach. With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
       "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Shark trapped for a month in South Korean canal is finally freed",
-      "url": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-21T11:41:48+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/19fbd10bc74cee193b7c558e29bd0dd821dc131c/229_0_4520_3618/master/4520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9402c60a195f2030f413b52cfc3fe244",
-      "summary": "A shark named Bukang-i was freed from a South Korean canal after being trapped for a month. The animal attracted 1.6 million visitors during its confinement. Local volunteers monitored its condition daily. Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubersIn South Korea, they call them jagyeongdan, a word whose meaning sits somewhere between vigilante group and neighbourhood watch.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -296,18 +308,6 @@
       "translations": {}
     },
     {
-      "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
-      "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-19T09:08:34+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db",
-      "summary": "Three people died from float crushes at Japanese festivals this weekend. Deputy mayor Akihiro Nabae was killed in Saijo. Two other men died in similar incidents elsewhere in the country. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "अंतरिक्ष का कचरा बदल सकता है आसमान में बर्फ बनने का तरीका, मौसम पर भी होगा असर",
       "url": "https://www.amarujala.com/india-news/changes-sign-space-debris-could-alter-how-ice-forms-in-the-sky-potential-impacts-on-weather-also-know-details-2026-10-22",
       "source": "Amar Ujala National",
@@ -328,7 +328,7 @@
     {
       "title": "पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
       "url": "https://www.amarujala.com/world/pakistan-high-court-seeks-report-on-missing-former-kpk-chief-minister-sohail-afridi-2026-10-22",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-10-22T07:16:11+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/14/pataaaii-natao-para-kararavaii-ka-bca-parava-saema-harasata-ma_c4e4b69b9b10f6a1db2f3e0f907138ce.jpeg?w=1200&dpr=1.0",
@@ -434,6 +434,132 @@
       }
     },
     {
+      "title": "असंतुलित खानपान और जींस के मेल से बढ़ रहा है कोलेस्ट्रॉल का खतरा, बचाव के उपाय क्या?",
+      "url": "https://www.amarujala.com/india-news/heart-health-combination-of-unbalanced-diet-and-genetics-increasing-risk-of-high-cholesterol-know-precautions-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T22:47:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/02/heart-health_fc72a98602b353a155072e8bb40c89b2.jpeg?w=1200&dpr=1.0",
+      "summary": "असंतुलित आहार और आनुवंशिक कारकों के संयोजन से कोलेस्ट्रॉल स्तर बढ़ रहा है। विशेषज्ञ नियमित व्यायाम और संतुलित भोजन की सलाह देते हैं। यह स्वास्थ्य जोखिम बढ़ रहा है। सेहत से जुड़ी बात: असंतुलित खानपान और जींस के मेल से बढ़ रहा है कोलेस्ट्रॉल का खतरा, बचाव के उपाय क्या?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "असंतुलित खानपान और जींस के मेल से बढ़ रहा है कोलेस्ट्रॉल का खतरा, बचाव के उपाय क्या?",
+          "summary": "असंतुलित आहार और आनुवंशिक कारकों के संयोजन से कोलेस्ट्रॉल स्तर बढ़ रहा है। विशेषज्ञ नियमित व्यायाम और संतुलित भोजन की सलाह देते हैं। यह स्वास्थ्य जोखिम बढ़ रहा है। सेहत से जुड़ी बात: असंतुलित खानपान और जींस के मेल से बढ़ रहा है कोलेस्ट्रॉल का खतरा, बचाव के उपाय क्या?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमर उजाला से विशेष बातचीत में बोले सीएम नायब सैनी- युवाओं से आप ने धोखा किया, कांग्रेस कर रही गुमराह",
+      "url": "https://www.amarujala.com/chandigarh/in-an-exclusive-conversation-with-amar-ujala-cm-nayab-saini-said-you-have-betrayed-the-youth-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T22:00:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/1_215b12e03be99b2e5a8f166309aaa282.jpeg?w=1200&dpr=1.0",
+      "summary": "हरियाणा के मुख्यमंत्री नायब सिंह सैनी ने आम आदमी पार्टी पर पंजाब के युवाओं के साथ धोखा करने का आरोप लगाया। उन्होंने कांग्रेस को देश के युवाओं को गुमराह करने का भी दोषी बताया। हरियाणा के मुख्यमंत्री नायब सिंह सैनी ने कहा कि आम आदमी पार्टी (आप) ने पंजाब के युवाओं के साथ धोखा किया है और कांग्रेस देश के युवाओं को गुमराह कर रही है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमर उजाला से विशेष बातचीत में बोले सीएम नायब सैनी- युवाओं से आप ने धोखा किया, कांग्रेस कर रही गुमराह",
+          "summary": "हरियाणा के मुख्यमंत्री नायब सिंह सैनी ने आम आदमी पार्टी पर पंजाब के युवाओं के साथ धोखा करने का आरोप लगाया। उन्होंने कांग्रेस को देश के युवाओं को गुमराह करने का भी दोषी बताया। हरियाणा के मुख्यमंत्री नायब सिंह सैनी ने कहा कि आम आदमी पार्टी (आप) ने पंजाब के युवाओं के साथ धोखा किया है और कांग्रेस देश के युवाओं को गुमराह कर रही है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सहमति संबंध में रहेंगी ननद-भाभी, परिवार से अलग रहने का निर्णय; काउंसिलिंग के बावजूद अपने फैसले पर",
+      "url": "https://www.amarujala.com/haryana/sirsa/sirsa-sister-in-laws-to-live-together-by-mutual-consent-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T21:50:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/11_d59b6505a665f4664739ee80ec5ff427.jpeg?w=1200&dpr=1.0",
+      "summary": "सिरसा की 26 वर्षीय विवाहित महिला और 18 वर्षीय ननद ने परिवार से अलग रहने का फैसला किया। काउंसिलिंग के बाद भी वे अपने निर्णय पर अडिग हैं। दोनों सहमति से साथ रहेंगी। सिरसा जिले की 26 वर्षीय विवाहित महिला और 18 वर्षीय उसकी ननद ने परिवार से अलग होकर साथ रहने का फैसला किया है। सहमति संबंध में रहेंगी ननद-भाभी, परिवार से अलग रहने का निर्णय; काउंसिलिंग के बावजूद अपने फैसले पर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सहमति संबंध में रहेंगी ननद-भाभी, परिवार से अलग रहने का निर्णय; काउंसिलिंग के बावजूद अपने फैसले पर",
+          "summary": "सिरसा की 26 वर्षीय विवाहित महिला और 18 वर्षीय ननद ने परिवार से अलग रहने का फैसला किया। काउंसिलिंग के बाद भी वे अपने निर्णय पर अडिग हैं। दोनों सहमति से साथ रहेंगी। सिरसा जिले की 26 वर्षीय विवाहित महिला और 18 वर्षीय उसकी ननद ने परिवार से अलग होकर साथ रहने का फैसला किया है। सहमति संबंध में रहेंगी ननद-भाभी, परिवार से अलग रहने का निर्णय; काउंसिलिंग के बावजूद अपने फैसले पर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "महंगाई के चलते आरबीआई ने बढ़ाई रेपो दर, दिसंबर में फिर बढ़ सकती हैं ब्याज दरें",
+      "url": "https://www.amarujala.com/video/business/business-diary/rbi-has-raised-the-repo-rate-due-to-inflation-interest-rates-may-rise-further-in-december-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T21:00:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/rbi-repo-rate-policy-outlook_890b622e3a27226bd76732e5b239f1f5.jpeg?w=1200&dpr=1.0",
+      "summary": "बढ़ती महंगाई को नियंत्रित करने के लिए आरबीआई ने रेपो दर बढ़ाई है। अगले महीने दिसंबर में भी ब्याज दरों में वृद्धि की संभावना जताई गई है। महंगाई के चलते आरबीआई ने बढ़ाई रेपो दर, दिसंबर में फिर बढ़ सकती हैं ब्याज दरें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महंगाई के चलते आरबीआई ने बढ़ाई रेपो दर, दिसंबर में फिर बढ़ सकती हैं ब्याज दरें",
+          "summary": "बढ़ती महंगाई को नियंत्रित करने के लिए आरबीआई ने रेपो दर बढ़ाई है। अगले महीने दिसंबर में भी ब्याज दरों में वृद्धि की संभावना जताई गई है। महंगाई के चलते आरबीआई ने बढ़ाई रेपो दर, दिसंबर में फिर बढ़ सकती हैं ब्याज दरें।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत-पोलैंड साझेदारी को मिलेगी नई गति: आज पीएम मोदी और डोनाल्ड टस्क की अहम बैठक, व्यापार मंच पर भी",
+      "url": "https://www.amarujala.com/india-news/pm-modi-and-polish-pm-donald-tusk-to-hold-key-talks-today-india-poland-business-forum-on-agenda-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T20:31:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/pm-modi-donald-tusk-meeting-donald-tusk-india-visit_ef62fadefe20160f17db06e0edaccb94.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी और पोलैंड के पीएम डोनाल्ड टस्क आज बैठक करेंगे। दोनों देशों के बीच व्यापार मंच पर भी चर्चा होगी। यह बैठक द्विपक्षीय साझेदारी को नई गति देगी। भारत-पोलैंड साझेदारी को मिलेगी नई गति: आज पीएम मोदी और डोनाल्ड टस्क की अहम बैठक, व्यापार मंच पर भी।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत-पोलैंड साझेदारी को मिलेगी नई गति: आज पीएम मोदी और डोनाल्ड टस्क की अहम बैठक, व्यापार मंच पर भी",
+          "summary": "प्रधानमंत्री मोदी और पोलैंड के पीएम डोनाल्ड टस्क आज बैठक करेंगे। दोनों देशों के बीच व्यापार मंच पर भी चर्चा होगी। यह बैठक द्विपक्षीय साझेदारी को नई गति देगी। भारत-पोलैंड साझेदारी को मिलेगी नई गति: आज पीएम मोदी और डोनाल्ड टस्क की अहम बैठक, व्यापार मंच पर भी।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "वकील और अकाउंटेंट पर यौन शोषण छिपाने का आरोप, न्यू मैक्सिको के अटॉर्नी जनरल ने किया मुकदमा",
+      "url": "https://www.amarujala.com/world/new-mexico-attorney-general-sues-epstein-lawyer-and-accountant-over-abuse-cover-up-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T20:04:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/new-mexico-attorney-general-sues-epstein-lawyer-and-accountant-over-abuse-cover-up_97c92fa358ecb8288c9257b51bae4074.jpeg?w=1200&dpr=1.0",
+      "summary": "न्यू मैक्सिको के अटॉर्नी जनरल ने एपस्टीन केस में यौन शोषण छिपाने के आरोप में एक वकील और अकाउंटेंट के खिलाफ मुकदमा दर्ज किया है। यह कानूनी कार्रवाई अभियोजन की ओर से की गई है। वकील और अकाउंटेंट पर यौन शोषण छिपाने का आरोप, न्यू मैक्सिको के अटॉर्नी जनरल ने किया मुकदमा।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वकील और अकाउंटेंट पर यौन शोषण छिपाने का आरोप, न्यू मैक्सिको के अटॉर्नी जनरल ने किया मुकदमा",
+          "summary": "न्यू मैक्सिको के अटॉर्नी जनरल ने एपस्टीन केस में यौन शोषण छिपाने के आरोप में एक वकील और अकाउंटेंट के खिलाफ मुकदमा दर्ज किया है। यह कानूनी कार्रवाई अभियोजन की ओर से की गई है। वकील और अकाउंटेंट पर यौन शोषण छिपाने का आरोप, न्यू मैक्सिको के अटॉर्नी जनरल ने किया मुकदमा।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "पापांकुशा एकादशी पर भगवान विष्णु की पूजा क्यों की जाती है? जानें पूजा विधि और महत्व",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/papankusha-ekadashi-2026-date-puja-vidhi-significance-and-vishnu-worship-in-hindi-2026-10-17",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T19:55:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/14/ekadashi-2026_30cd72690365bb51361634617565f73f.jpeg?w=1200&dpr=1.0",
+      "summary": "पापांकुशा एकादशी 2026 पर भगवान विष्णु की पूजा की जाती है। इस दिन श्रीहरि की आराधना का विशेष धार्मिक महत्व माना जाता है। व्रत के नियम और पूजा विधि का पालन किया जाता है। पापांकुशा एकादशी 2026: इस दिन भगवान विष्णु के किस स्वरूप की पूजा की जाती है और क्या है इसका धार्मिक महत्व? जानें पापांकुशा एकादशी की पूजा विधि, व्रत के नियम और श्रीहरि की आराधना से जुड़ी खास मान्यताएं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पापांकुशा एकादशी पर भगवान विष्णु की पूजा क्यों की जाती है? जानें पूजा विधि और महत्व",
+          "summary": "पापांकुशा एकादशी 2026 पर भगवान विष्णु की पूजा की जाती है। इस दिन श्रीहरि की आराधना का विशेष धार्मिक महत्व माना जाता है। व्रत के नियम और पूजा विधि का पालन किया जाता है। पापांकुशा एकादशी 2026: इस दिन भगवान विष्णु के किस स्वरूप की पूजा की जाती है और क्या है इसका धार्मिक महत्व? जानें पापांकुशा एकादशी की पूजा विधि, व्रत के नियम और श्रीहरि की आराधना से जुड़ी खास मान्यताएं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "पाकिस्तान की विदेश नीति पर फौज का कब्जा, 9 आर्मी अफसर बने राजदूत, रिटायरमेंट के बाद भी काटेंगे चांदी",
       "url": "https://hindi.news18.com/world/pakistan-9-retired-military-officers-ambassadors-appointments-total-17-without-diplomatic-experience-10925957.html",
       "source": "News18 Hindi (World)",
@@ -488,6 +614,24 @@
       }
     },
     {
+      "title": "अमेरिका में निवेश के लिए भारत की ओर देख रहे ट्रंप, कई भारतीय कंपनियां कर चुकी निवेश का ऐलान",
+      "url": "https://www.patrika.com/world-news/trump-india-investment-reliance-us-diesel-crisis-21000073",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-21T16:17:02+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/India-US-economic-ties.webp",
+      "summary": "ट्रंप प्रशासन भारतीय कंपनियों से अमेरिका में निवेश करने के लिए आग्रह कर रहा है। डीजल की उपलब्धता सुनिश्चित करने के लिए भी भारत का रुख किया गया है। कई कंपनियों ने पहले ही निवेश का ऐलान कर दिया है। Trump India Investment: एक समय होता था जब भारत निवेश के लिए विदेशी कंपनियों की ओर देखता था। आज भी कई बड़ी विदेशी कंपनियां भारत में बड़ा निवेश कर रही हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में निवेश के लिए भारत की ओर देख रहे ट्रंप, कई भारतीय कंपनियां कर चुकी निवेश का ऐलान",
+          "summary": "ट्रंप प्रशासन भारतीय कंपनियों से अमेरिका में निवेश करने के लिए आग्रह कर रहा है। डीजल की उपलब्धता सुनिश्चित करने के लिए भी भारत का रुख किया गया है। कई कंपनियों ने पहले ही निवेश का ऐलान कर दिया है। Trump India Investment: एक समय होता था जब भारत निवेश के लिए विदेशी कंपनियों की ओर देखता था। आज भी कई बड़ी विदेशी कंपनियां भारत में बड़ा निवेश कर रही हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "ट्रंप के दबाव का असर? युद्ध पर बातचीत को तैयार हुए पुतिन, रूस-यूक्रेन-अमेरिका कब से करेंगे बात?",
       "url": "https://hindi.news18.com/world/europe-vladimir-putin-donald-trump-russia-ukraine-war-trilateral-talks-after-november-10-10926529.html",
       "source": "News18 Hindi (World)",
@@ -502,6 +646,42 @@
           "title": "ट्रंप के दबाव का असर? युद्ध पर बातचीत को तैयार हुए पुतिन, रूस-यूक्रेन-अमेरिका कब से करेंगे बात?",
           "summary": "पुतिन ने यूक्रेन युद्ध समाधान के लिए अमेरिका और यूक्रेन के साथ त्रिपक्षीय वार्ता शुरू करने पर सहमति दी। बातचीत 10 नवंबर के बाद शुरू हो सकती है। रूसी राष्ट्रपति व्लादिमीर पुतिन ने यूक्रेन युद्ध खत्म करने के लिए अमेरिका और यूक्रेन के साथ त्रिपक्षीय वार्ता फिर शुरू करने पर सैद्धांतिक सहमति दी है. सेंट पीटर्सबर्ग में पुतिन और अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दूत स्टीव विटकॉफ के बीच करीब तीन घंटे बैठक हुई.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "Explainer: सऊदी अरब जाने वाले रहें सावधान! ड्रग्स तस्करी से लेकर आतंकवाद तक, किन अपराधों में मिलती",
+      "url": "https://www.patrika.com/world-news/saudi-arabia-death-penalty-2026-executions-explainer-21000010",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-21T15:43:54+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Saudi-Arabia-Death-Penalty.webp",
+      "summary": "सऊदी अरब में 14 अक्टूबर को दो बांग्लादेशी नागरिकों को फांसी दी गई। मस्जिद में कथित अनैतिक कृत्य के मामले में यह सजा दी गई। विदेशी कामगारों के अधिकारों पर सवाल उठे हैं। Saudi Arabia Death Penalty: विदेश में नौकरी कर परिवार का भविष्य संवारने का सपना लेकर सऊदी अरब जाने वाले प्रवासी अब वहां के सख्त कानूनों और न्यायिक प्रक्रिया को लेकर चर्चा में हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Explainer: सऊदी अरब जाने वाले रहें सावधान! ड्रग्स तस्करी से लेकर आतंकवाद तक, किन अपराधों में मिलती",
+          "summary": "सऊदी अरब में 14 अक्टूबर को दो बांग्लादेशी नागरिकों को फांसी दी गई। मस्जिद में कथित अनैतिक कृत्य के मामले में यह सजा दी गई। विदेशी कामगारों के अधिकारों पर सवाल उठे हैं। Saudi Arabia Death Penalty: विदेश में नौकरी कर परिवार का भविष्य संवारने का सपना लेकर सऊदी अरब जाने वाले प्रवासी अब वहां के सख्त कानूनों और न्यायिक प्रक्रिया को लेकर चर्चा में हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चेहरा देखकर बताएगा AI कितनी है जिंदगी की डोर: आंखों के आसपास छिपे हैं सेहत के राज",
+      "url": "https://www.patrika.com/world-news/ai-face-photo-survival-prediction-cancer-patients-21000030",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-21T15:36:14+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/face-survival-AI.webp",
+      "summary": "अमेरिकी शोधकर्ताओं ने 'फेस सर्वाइवल' नामक एआइ मॉडल विकसित किया है। यह मरीज के चेहरे की एक तस्वीर से बीमारी की गंभीरता का अनुमान लगाता है। मॉडल को 35,000 कैंसर रोगियों की तस्वीरों पर प्रशिक्षित किया गया है। Face Survival AI: एक एआइ टूल डॉक्टरों को मरीज के चेहरे की एक ही तस्वीर का उपयोग करके यह आंकने में मदद कर सकता है कि मरीज कितना बीमार है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चेहरा देखकर बताएगा AI कितनी है जिंदगी की डोर: आंखों के आसपास छिपे हैं सेहत के राज",
+          "summary": "अमेरिकी शोधकर्ताओं ने 'फेस सर्वाइवल' नामक एआइ मॉडल विकसित किया है। यह मरीज के चेहरे की एक तस्वीर से बीमारी की गंभीरता का अनुमान लगाता है। मॉडल को 35,000 कैंसर रोगियों की तस्वीरों पर प्रशिक्षित किया गया है। Face Survival AI: एक एआइ टूल डॉक्टरों को मरीज के चेहरे की एक ही तस्वीर का उपयोग करके यह आंकने में मदद कर सकता है कि मरीज कितना बीमार है।",
+          "region": "दुनिया"
         }
       }
     },
@@ -574,186 +754,6 @@
           "title": "‘पूरी ताकत से निकालो तेल-गैस, फिर अमीर बनेगा देश’, ब्रिटेन के फैसले पर ट्रंप ने क्यों दी पवन",
           "summary": "ब्रिटेन ने उत्तरी सागर में जैकडॉ गैस फील्ड से गैस निकालने की मंजूरी दे दी है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इस फैसले का स्वागत किया और ब्रिटेन को गैस उत्पादन बढ़ाने की सलाह दी। उन्होंने महंगी पवन चक्कियों को हटाने की भी अपील की। North Sea Oil and Gas: ब्रिटेन ने उत्तरी सागर (North Sea) में जैकडॉ गैस फील्ड से गैस निकालने की मंजूरी दे दी है।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "रूस पहुंचे ट्रंप के दूत, उससे पहले ही पुतिन ने दिया तोहफा, क्या अब खत्म होगी यूक्रेन की जंग?",
-      "url": "https://hindi.news18.com/world/europe-putin-trump-envoy-steve-witkoff-meeting-ukraine-peace-talks-stephen-hubbard-released-10926209.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T13:29:43+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/putin-27-2026-10-3110dfb5f0c0af51bdfa98a7fb15956e-1200x800.jpg",
-      "summary": "अमेरिकी दूत स्टीव विटकॉफ ने मॉस्को में व्लादिमिर पुतिन से मुलाकात की और यूक्रेन युद्ध समाधान के लिए बातचीत शुरू करने की अपील की। इससे पहले रूस ने चार साल से जेल में बंद 74 वर्षीय अमेरिकी नागरिक स्टीफन हबार्ड को रिहा कर दिया। रूस के राष्ट्रपति व्लादिमीर पुतिन से अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दूत स्टीव विटकॉफ मिले. उन्होंने यूक्रेन युद्ध खत्म करने के लिए रूस, यूक्रेन और अमेरिका के बीच बातचीत फिर शुरू करने की अपील की.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस पहुंचे ट्रंप के दूत, उससे पहले ही पुतिन ने दिया तोहफा, क्या अब खत्म होगी यूक्रेन की जंग?",
-          "summary": "अमेरिकी दूत स्टीव विटकॉफ ने मॉस्को में व्लादिमिर पुतिन से मुलाकात की और यूक्रेन युद्ध समाधान के लिए बातचीत शुरू करने की अपील की। इससे पहले रूस ने चार साल से जेल में बंद 74 वर्षीय अमेरिकी नागरिक स्टीफन हबार्ड को रिहा कर दिया। रूस के राष्ट्रपति व्लादिमीर पुतिन से अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के दूत स्टीव विटकॉफ मिले. उन्होंने यूक्रेन युद्ध खत्म करने के लिए रूस, यूक्रेन और अमेरिका के बीच बातचीत फिर शुरू करने की अपील की.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बलूचिस्तान में पाक सेना के कथित ड्रोन हमले से हड़कंप, तीन नागरिकों की मौत, कई घायल",
-      "url": "https://www.patrika.com/world-news/balochistan-drone-attack-ziarat-kech-three-civilians-killed-20999671",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T12:35:11+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Balochistan-drone-attack.webp",
-      "summary": "बलूचिस्तान के जियारत और केच जिलों में ड्रोन हमलों में तीन नागरिकों की मौत हुई। दो अन्य गंभीर रूप से घायल हुए। स्थानीय प्रशासन ने शवों की पुष्टि की है। Balochistan Drone Attack: बलूचिस्तान के जियारत और केच जिलों में अलग-अलग ड्रोन हमलों में तीन आम नागरिकों की मौत हो गई और दो अन्य गंभीर रूप से घायल हो गए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बलूचिस्तान में पाक सेना के कथित ड्रोन हमले से हड़कंप, तीन नागरिकों की मौत, कई घायल",
-          "summary": "बलूचिस्तान के जियारत और केच जिलों में ड्रोन हमलों में तीन नागरिकों की मौत हुई। दो अन्य गंभीर रूप से घायल हुए। स्थानीय प्रशासन ने शवों की पुष्टि की है। Balochistan Drone Attack: बलूचिस्तान के जियारत और केच जिलों में अलग-अलग ड्रोन हमलों में तीन आम नागरिकों की मौत हो गई और दो अन्य गंभीर रूप से घायल हो गए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान के साथ गलबहियां कर रहा मालदीव, 20 समझौते किए, भारत के लिए नई चुनौती तो नहीं?",
-      "url": "https://hindi.news18.com/world/pakistan-maldives-sign-20-mous-on-security-trade-defence-cooperation-vice-admiral-faisal-rasul-lodhi-envoy-10926035.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T12:30:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/maldives-2-2026-10-55ae06845013a7caca7786a0091c218d-1200x800.jpg",
-      "summary": "मालदीव और पाकिस्तान ने रक्षा, समुद्री सुरक्षा और व्यापार सहित 20 समझौतों पर हस्ताक्षर किए। दोनों देशों ने दो वर्षों में व्यापार को 200 मिलियन डॉलर तक पहुंचाने का लक्ष्य रखा है। मालदीव के राष्ट्रपति मोहम्मद मुइज्जू के पाकिस्तान दौरे के दौरान दोनों देशों ने रक्षा सहयोग, समुद्री सुरक्षा, साइबर सुरक्षा और व्यापार सहित 20 समझौतों पर हस्ताक्षर किए. दोनों देशों ने अगले दो साल में व्यापार को 200 मिलियन डॉलर तक पहुंचाने का लक्ष्य रखा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान के साथ गलबहियां कर रहा मालदीव, 20 समझौते किए, भारत के लिए नई चुनौती तो नहीं?",
-          "summary": "मालदीव और पाकिस्तान ने रक्षा, समुद्री सुरक्षा और व्यापार सहित 20 समझौतों पर हस्ताक्षर किए। दोनों देशों ने दो वर्षों में व्यापार को 200 मिलियन डॉलर तक पहुंचाने का लक्ष्य रखा है। मालदीव के राष्ट्रपति मोहम्मद मुइज्जू के पाकिस्तान दौरे के दौरान दोनों देशों ने रक्षा सहयोग, समुद्री सुरक्षा, साइबर सुरक्षा और व्यापार सहित 20 समझौतों पर हस्ताक्षर किए. दोनों देशों ने अगले दो साल में व्यापार को 200 मिलियन डॉलर तक पहुंचाने का लक्ष्य रखा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "296km स्पीड वाली हवाएं, कैटेगरी-5 का सुपर टाइफून, प्रलय का दूत है 'चांपी', रास्ते में जो आया लपेट",
-      "url": "https://hindi.news18.com/world/rest-of-world-super-typhoon-champi-2026-strongest-storm-296-kmph-strong-winds-falls-in-category-5-alert-in-east-asia-10926065.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T12:08:43+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/typhoon-champi-2026-10-106fbb4e2912d15bd402c7e040daba1c-1200x800.jpg",
-      "summary": "प्रशांत महासागर में सुपर टाइफून चांपी 296 किलोमीटर प्रति घंटे की रफ्तार से बढ़ रहा है। यह इस वर्ष का सबसे खतरनाक तूफान है। वैज्ञानिकों ने इसकी तीव्रता की पुष्टि की है। Super Typhoon Champi 2026: इस साल का सबसे खतरनाक तूफान तेजी से प्रशांत महासागर में बढ़ रहा है. इस तूफान के दौरान इतनी तेज हवाएं चल रही हैं कि वैज्ञानिकों के होश उड़े हुए हैं.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "296km स्पीड वाली हवाएं, कैटेगरी-5 का सुपर टाइफून, प्रलय का दूत है 'चांपी', रास्ते में जो आया लपेट",
-          "summary": "प्रशांत महासागर में सुपर टाइफून चांपी 296 किलोमीटर प्रति घंटे की रफ्तार से बढ़ रहा है। यह इस वर्ष का सबसे खतरनाक तूफान है। वैज्ञानिकों ने इसकी तीव्रता की पुष्टि की है। Super Typhoon Champi 2026: इस साल का सबसे खतरनाक तूफान तेजी से प्रशांत महासागर में बढ़ रहा है. इस तूफान के दौरान इतनी तेज हवाएं चल रही हैं कि वैज्ञानिकों के होश उड़े हुए हैं.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "META, GOOGLE और X को पोलैंड ने बताया रूस का ‘साइलेंट’ एजेंट, 65 हजार शिकायतों के बाद दे डाली खुली",
-      "url": "https://www.patrika.com/world-news/poland-threatens-meta-google-x-russia-disinfo-20999618",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T12:01:29+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Meta-India.webp",
-      "summary": "पोलैंड ने मेटा, गूगल और एक्स को रूस का साइलेंट एजेंट घोषित किया। यह निर्णय 65 हजार शिकायतों के बाद लिया गया है। देश ने इन कंपनियों पर बड़ा आरोप लगाया है। पोलैंड ने सोशल मीडिया कंपनियों पर बड़ा आरोप लगाया है। यूरोपियन देश ने मेटा, गूगल और एक्स को रूस का साइलेंट एजेंट तक बता दिया है। META, GOOGLE और X को पोलैंड ने बताया रूस का ‘साइलेंट’ एजेंट, 65 हजार शिकायतों के बाद दे डाली खुली।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "META, GOOGLE और X को पोलैंड ने बताया रूस का ‘साइलेंट’ एजेंट, 65 हजार शिकायतों के बाद दे डाली खुली",
-          "summary": "पोलैंड ने मेटा, गूगल और एक्स को रूस का साइलेंट एजेंट घोषित किया। यह निर्णय 65 हजार शिकायतों के बाद लिया गया है। देश ने इन कंपनियों पर बड़ा आरोप लगाया है। पोलैंड ने सोशल मीडिया कंपनियों पर बड़ा आरोप लगाया है। यूरोपियन देश ने मेटा, गूगल और एक्स को रूस का साइलेंट एजेंट तक बता दिया है। META, GOOGLE और X को पोलैंड ने बताया रूस का ‘साइलेंट’ एजेंट, 65 हजार शिकायतों के बाद दे डाली खुली।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान की अमेरिका को दो टूक, ‘धमकी देकर बातचीत नहीं हो सकती’, राष्ट्रपति पेजेशकियन ने कही बड़ी बात",
-      "url": "https://www.patrika.com/world-news/iran-president-masoud-pezeshkian-warns-donald-trump-over-talks-and-sanctions-20999477",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T11:35:28+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Masoud-Pezeshkian-and-Donald-Trump.webp",
-      "summary": "ईरान के राष्ट्रपति मसूद पेजेशकियन ने अमेरिका को धमकियों के बिना बातचीत का संदेश दिया। उन्होंने कहा कि अमेरिका एक तरफ घेराबंदी कर रहा है और दूसरी तरफ वार्ता की उम्मीद लगाए बैठा है। Iran US War: अमेरिका और ईरान के बीच तनाव कम होने के बजाय बयानबाजी तेज होती जा रही है। इसी बीच ईरान के राष्ट्रपति मसूद पेजेशकियन ने अमेरिका को स्पष्ट संदेश दिया है कि धमकियां देकर बातचीत नहीं की जा सकती।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान की अमेरिका को दो टूक, ‘धमकी देकर बातचीत नहीं हो सकती’, राष्ट्रपति पेजेशकियन ने कही बड़ी बात",
-          "summary": "ईरान के राष्ट्रपति मसूद पेजेशकियन ने अमेरिका को धमकियों के बिना बातचीत का संदेश दिया। उन्होंने कहा कि अमेरिका एक तरफ घेराबंदी कर रहा है और दूसरी तरफ वार्ता की उम्मीद लगाए बैठा है। Iran US War: अमेरिका और ईरान के बीच तनाव कम होने के बजाय बयानबाजी तेज होती जा रही है। इसी बीच ईरान के राष्ट्रपति मसूद पेजेशकियन ने अमेरिका को स्पष्ट संदेश दिया है कि धमकियां देकर बातचीत नहीं की जा सकती।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "12वीं मंजिल से लटकी थी 3 साल की बच्‍ची, फ्लैट के गेट पर लगा था ताला, रेस्‍क्‍यू तक हलक में अटकी",
-      "url": "https://hindi.news18.com/world/china-3-year-old-girl-left-hanging-from-12th-floor-flat-door-locked-everyone-held-their-breath-in-anxiety-until-rescue-complete-video-2-10925987.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T11:23:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Rescue-opration-2026-10-52ea2fda8eddb44584a1c5a7b788a113-1200x800.jpg",
-      "summary": "फुजियान में 12वीं मंजिल से लटकी तीन साल की बच्ची को रेस्क्यू किया गया। फ्लैट का गेट ताले से बंद था, जिससे बच्ची हवा में लटकी रही। रेस्क्यू दल ने उसे सुरक्षित उतारा। चीन के फुजियान से बेहद खौफनाक वीडियो सामना आया है. यह वीडियो 12 मंजिल से लटकी एक 3 साल की बच्‍ची के रेस्‍क्‍यू ऑपरेशन का है. जानिए, कैसे इस हालात में पहुंची बच्‍ची और किसी तरह पूरा किया गया उसका रेस्‍क्‍यू ऑपरेशन.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "12वीं मंजिल से लटकी थी 3 साल की बच्‍ची, फ्लैट के गेट पर लगा था ताला, रेस्‍क्‍यू तक हलक में अटकी",
-          "summary": "फुजियान में 12वीं मंजिल से लटकी तीन साल की बच्ची को रेस्क्यू किया गया। फ्लैट का गेट ताले से बंद था, जिससे बच्ची हवा में लटकी रही। रेस्क्यू दल ने उसे सुरक्षित उतारा। चीन के फुजियान से बेहद खौफनाक वीडियो सामना आया है. यह वीडियो 12 मंजिल से लटकी एक 3 साल की बच्‍ची के रेस्‍क्‍यू ऑपरेशन का है. जानिए, कैसे इस हालात में पहुंची बच्‍ची और किसी तरह पूरा किया गया उसका रेस्‍क्‍यू ऑपरेशन.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "हवा में खंभे से टकराया प्लेन, टूटा पंख, धड़धड़ाकर मुंह के बल हुआ धराशायी, खौफनाक अंजाम",
-      "url": "https://hindi.news18.com/world/america-horrifying-plane-crash-on-san-jose-highway-fell-amid-traffic-watch-video-10925640.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-21T11:18:26+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/plane-california-2026-10-bc381562b81c25d03e7ecfc24dfd80d6-1200x800.jpg",
-      "summary": "सैन जोस हाईवे पर एक विमान ट्रैफिक के बीच गिरा। विमान हवा में लड़खड़ाया और धड़धड़ाकर जमीन पर आ गिरा। इस घटना में खौफनाक अंजाम हुआ। Plane Crash Video: हवा में उड़ते प्लेन को कंट्रोल रूम के साथ कोऑर्डिनेट करके चलना होता है. थोड़ी भी गलती हो जाए, तो इसके क्रैश के चांस बढ़ जाते हैं. कुछ ऐसा ही हुआ सैन जोस हाईवे पर, जहां एक प्लेन लड़खड़ाते हुए ट्रैफिक के बीच में ही आकर धराशायी हो गया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हवा में खंभे से टकराया प्लेन, टूटा पंख, धड़धड़ाकर मुंह के बल हुआ धराशायी, खौफनाक अंजाम",
-          "summary": "सैन जोस हाईवे पर एक विमान ट्रैफिक के बीच गिरा। विमान हवा में लड़खड़ाया और धड़धड़ाकर जमीन पर आ गिरा। इस घटना में खौफनाक अंजाम हुआ। Plane Crash Video: हवा में उड़ते प्लेन को कंट्रोल रूम के साथ कोऑर्डिनेट करके चलना होता है. थोड़ी भी गलती हो जाए, तो इसके क्रैश के चांस बढ़ जाते हैं. कुछ ऐसा ही हुआ सैन जोस हाईवे पर, जहां एक प्लेन लड़खड़ाते हुए ट्रैफिक के बीच में ही आकर धराशायी हो गया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "किम जोंग उन की बहन ने सीमा पर संभाला मोर्चा, दक्षिण कोरिया को दी चेतावनी",
-      "url": "https://www.patrika.com/world-news/north-korea-south-korea-tensions-kim-jong-un-inspects-border-20999429",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T11:14:03+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Kim-Yo-jong.webp",
-      "summary": "किम यो जोंग ने दक्षिण कोरियाई सीमा पर सैन्य किलेबंदी का निरीक्षण किया। उन्होंने दक्षिण कोरिया को किसी भी उकसावे पर कड़ी जवाबी कार्रवाई की चेतावनी दी। सीमा पर तनाव बढ़ रहा है। नई दिल्ली। उत्तर कोरिया और दक्षिण कोरिया के बीच तनाव एक बार फिर बढ़ता नजर आ रहा है। उत्तर कोरियाई नेता किम जोंग उन की बहन किम यो जोंग ने दक्षिण कोरिया से लगी सीमा के अग्रिम क्षेत्रों का दौरा कर वहां चल रहे सैन्य किलेबंदी के कार्यों का निरीक्षण किया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किम जोंग उन की बहन ने सीमा पर संभाला मोर्चा, दक्षिण कोरिया को दी चेतावनी",
-          "summary": "किम यो जोंग ने दक्षिण कोरियाई सीमा पर सैन्य किलेबंदी का निरीक्षण किया। उन्होंने दक्षिण कोरिया को किसी भी उकसावे पर कड़ी जवाबी कार्रवाई की चेतावनी दी। सीमा पर तनाव बढ़ रहा है। नई दिल्ली। उत्तर कोरिया और दक्षिण कोरिया के बीच तनाव एक बार फिर बढ़ता नजर आ रहा है। उत्तर कोरियाई नेता किम जोंग उन की बहन किम यो जोंग ने दक्षिण कोरिया से लगी सीमा के अग्रिम क्षेत्रों का दौरा कर वहां चल रहे सैन्य किलेबंदी के कार्यों का निरीक्षण किया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी संसद उम्मीदवार सहित 70 से ज्यादा लोगों को इजराइली फौज ने पकड़ा, क्या है पूरा मामला?",
-      "url": "https://www.patrika.com/world-news/american-candidate-detained-israeli-forces-olive-harvest-20999453",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-21T11:07:22+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/US-News.webp",
-      "summary": "इजराइली सेना ने वेस्ट बैंक में जैतून की फसल काटने वाले 70 से अधिक लोगों को पकड़ा। इनमें अमेरिकी संसद के एक उम्मीदवार भी शामिल थे। सुरक्षा बलों ने उन्हें घेर लिया। इजराइली सुरक्षा बलों ने अमेरकी संसद चुनाव के उम्मीदवार सहित 70 से ज्यादा लोगों को पकड़ लिया है। इजराइली फौज ने वेस्ट बैंक के एक गांव में जैतून की फसल काटने के दौरान इन लोगों को घेर लिया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी संसद उम्मीदवार सहित 70 से ज्यादा लोगों को इजराइली फौज ने पकड़ा, क्या है पूरा मामला?",
-          "summary": "इजराइली सेना ने वेस्ट बैंक में जैतून की फसल काटने वाले 70 से अधिक लोगों को पकड़ा। इनमें अमेरिकी संसद के एक उम्मीदवार भी शामिल थे। सुरक्षा बलों ने उन्हें घेर लिया। इजराइली सुरक्षा बलों ने अमेरकी संसद चुनाव के उम्मीदवार सहित 70 से ज्यादा लोगों को पकड़ लिया है। इजराइली फौज ने वेस्ट बैंक के एक गांव में जैतून की फसल काटने के दौरान इन लोगों को घेर लिया।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
