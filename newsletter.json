@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-10-20T21:59:37.884548+00:00",
+  "generated_at": "2026-10-21T00:22:24.694030+00:00",
   "article_count": 50,
-  "total_unique_count": 256,
+  "total_unique_count": 255,
   "digest": {
-    "en": "An aerial drone rescued a wounded Ukrainian soldier near Bakhmut, marking the first combat extraction of its kind in the war.",
-    "hi": "सूडान और दक्षिण सूडान के सीमा क्षेत्र में ड्रोन हमला हुआ, जिससे 153 लोगों की मौत हुई और कई घायल हुए, लक्ष्य का निर्धारण अभी अनिश्चित है। उसी समय यूक्रेन को रूसी मिसाइल हमलों की पहले से सूचना मिलने की पुष्टि हुई, जिससे रक्षा तैयारियों में बदलाव की उम्मीद है।"
+    "en": "Nigeria confirmed its first Ebola case as the outbreak spreads into western Africa. Iran’s security chief simultaneously rejected moving enriched uranium abroad while officials openly call for a nuclear bomb.",
+    "hi": "सूडान और दक्षिण सूडान के सीमावर्ती क्षेत्र में ड्रोन हमले से 153 लोगों की मौत हुई है। यूक्रेन को रूसी मिसाइल हमलों की सूचना मिलने का प्रोटोकॉल फिर से शुरू हो गया है। ईरान और अमेरिका के बीच छह अरब डॉलर के फंड पर सहमति की संभावनाएं मजबूत हो रही हैं।"
   },
   "articles": [
+    {
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-21T00:14:55+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168",
+      "summary": "Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "She pioneered breast care nursing in Singapore and, at 74, still cares for breast cancer patients",
+      "url": "https://www.channelnewsasia.com/women/singapore-first-breast-care-nurse-nagalingam-saraswathi-sgh-6445601",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-10-20T23:27:08+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--QcgXQgPt--/c_crop,h_478,w_850,x_0,y_92/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/09/nagalingam-saraswathi-first-breast-care-nurse-singapore-sgh_0.jpg?itok=0IWNTGVw",
+      "summary": "Nagalingam Saraswathi established breast care services at Singapore General Hospital in 1992. She trained nurses from other facilities and launched a patient support group. At 74, she continues to care for breast cancer patients directly. After establishing breast care services at Singapore General Hospital in 1992, Nagalingam Saraswathi trained nurses from other hospitals and started a support group for breast cancer patients.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Iran security chief rejects moving enriched uranium out of country",
+      "url": "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-20T22:02:49+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/s96w10/article71605649.ece/alternates/LANDSCAPE_1200/2026-08-10T075525Z_2037129379_RC2A6MAKWMCJ_RTRMADP_3_IRAN-CRISIS-REZAEI.JPG",
+      "summary": "Iran's Supreme National Security Council secretary rejected moving enriched uranium abroad. Rezaei stated the material is a national asset intended for domestic use. No enriched nuclear material will leave the country, he declared. \"Not even a tiny bit of enriched nuclear material will leave Iran; such materials constitute a major asset and national wealth for the Iranian people, intended for use within the country,\" says Mr.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone",
       "url": "https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html",
@@ -217,21 +253,9 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image560x340cropped.jpg",
       "summary": "UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168620",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image560x340cropped.jpg",
-      "summary": "UN officials in Yerevan warned that biodiversity loss threatens billions of people. The conference emphasized the urgent need for national action. Leaders discussed how protecting ecosystems is critical for future global prosperity and stability. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -272,18 +296,6 @@
       "translations": {}
     },
     {
-      "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
-      "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-19T09:08:34+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db",
-      "summary": "Three people died in separate float crush incidents during Japanese festivals this weekend. Akihiro Nabae, deputy mayor of Saijo, died after becoming trapped beneath a float. Two other men died in similar accidents elsewhere in the country. The cluster of fatalities has raised urgent safety concerns regarding traditional festival operations. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Trump Again Criticizes Zelenskyy, Says Open To Meeting With Putin And Xi",
       "url": "https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html",
       "source": "Radio Free Europe / Liberty",
@@ -294,36 +306,6 @@
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
-    },
-    {
-      "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-17T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/15-10-2026_UNNews_Gaza_Winter_Preparation_01.jpg/image560x340cropped.jpg",
-      "summary": "Families in the Gaza Strip are bracing for a winter of severe cold and rain that threatens to flood their remaining shelters. Ahmed Al-Omari and others are repurposing flour sacks as makeshift barriers against rising water. These improvised defenses highlight the lack of safe, durable housing in the war-ravaged territory. Residents continue to live in tattered tents and damaged buildings with no reliable protection from the elements. The situation underscores the ongoing humanitarian crisis as winter approaches.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "अहोई माता की पूजा कब करें? जानें सही तारीख, शुभ मुहूर्त और व्रत का महत्व",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/ahoi-ashtami-2026-know-the-date-auspicious-muhurat-and-significance-of-the-fast-in-hindi-2026-10-17",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-21T07:16:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/05/ahaii-ashhatama_6743215d002a4f23178880d0e2e98e82.jpeg?w=1200&dpr=1.0",
-      "summary": "अहोई अष्टमी पर माताएं संतान की लंबी उम्र और स्वास्थ्य की कामना से व्रत रखती हैं। इस दिन अहोई माता की पूजा और तारों के दर्शन किए जाते हैं। अहोई अष्टमी का व्रत संतान की लंबी उम्र, अच्छे स्वास्थ्य और सुख-समृद्धि की कामना से रखा जाता है। इस दिन माताएं अहोई माता की पूजा करती हैं। जानें अहोई अष्टमी की सही तारीख, शुभ मुहूर्त, पूजा विधि और तारों के दर्शन का समय।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अहोई माता की पूजा कब करें? जानें सही तारीख, शुभ मुहूर्त और व्रत का महत्व",
-          "summary": "अहोई अष्टमी पर माताएं संतान की लंबी उम्र और स्वास्थ्य की कामना से व्रत रखती हैं। इस दिन अहोई माता की पूजा और तारों के दर्शन किए जाते हैं। अहोई अष्टमी का व्रत संतान की लंबी उम्र, अच्छे स्वास्थ्य और सुख-समृद्धि की कामना से रखा जाता है। इस दिन माताएं अहोई माता की पूजा करती हैं। जानें अहोई अष्टमी की सही तारीख, शुभ मुहूर्त, पूजा विधि और तारों के दर्शन का समय।",
-          "region": "दुनिया"
-        }
-      }
     },
     {
       "title": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
@@ -344,27 +326,9 @@
       }
     },
     {
-      "title": "मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद",
-      "url": "https://www.amarujala.com/uttar-pradesh/moradabad/farmer-kuldeep-shot-dead-in-moradabad-2026-10-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-21T06:57:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/kasana-ka-gal-marakara-hataya_ff56c260f4c6cba23b0997734dad7ac7.jpeg?w=1200&dpr=1.0",
-      "summary": "मुरादाबाद के गोविंदपुर गांव में शराब पीने के बाद हुए विवाद में दोस्तों ने किसान कुलदीप सिंह की गोली मारकर हत्या कर दी। घटना मंगलवार की रात हुई। मुरादाबाद के डिलारी थाना क्षेत्र के गोविंदपुर गांव में मंगलवार की रात करीब साढ़े आठ बजे किसान कुलदीप सिंह (38) की गोली मारकर हत्या कर दी गई। मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद",
-          "summary": "मुरादाबाद के गोविंदपुर गांव में शराब पीने के बाद हुए विवाद में दोस्तों ने किसान कुलदीप सिंह की गोली मारकर हत्या कर दी। घटना मंगलवार की रात हुई। मुरादाबाद के डिलारी थाना क्षेत्र के गोविंदपुर गांव में मंगलवार की रात करीब साढ़े आठ बजे किसान कुलदीप सिंह (38) की गोली मारकर हत्या कर दी गई। मुरादाबाद में दोस्तों ने ली जान: किसान कुलदीप की गोली मारकर हत्या, शराब पीने के बाद हुआ विवाद।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
       "url": "https://www.amarujala.com/world/zelenskyy-says-early-warning-system-resumes-following-rubio-call-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-10-21T06:53:40+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/02/ukraine-peace-talk_98df1a44776d32f040991391558de92c.jpeg?w=1200&dpr=1.0",
@@ -380,37 +344,235 @@
       }
     },
     {
-      "title": "अमेठी ने पिछले पांच चुनाव में तीन अलग-अलग दलों को चुना, दो-दो बार भाजपा-सपा के नाम रही जीत",
-      "url": "https://www.amarujala.com/election/uttar-pradesh-election-2027-amethi-assembly-seat-history-bjp-sp-bsp-congress-political-equation-2026-10-13",
+      "title": "बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद; किन बाधाओं को दूर करना होगा?",
+      "url": "https://www.amarujala.com/business/business-diary/digital-gold-market-growth-170-billion-dollar-by-2031-wgc-bcg-report-2026-10-21",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-21T06:41:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/14/amatha-sata-ka-samakaranae_a27c2d5adc8b2f6fa3d71ad1b577b5bd.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेठी विधानसभा सीट पर पिछले पांच चुनावों में तीन अलग दलों की जीत हुई है। भाजपा और सपा ने दो-दो बार जीत दर्ज की है। अमेठी ने पिछले पांच चुनाव में तीन अलग-अलग दलों को चुना, दो-दो बार भाजपा-सपा के नाम रही जीत।",
+      "published_at": "2026-10-21T00:16:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/16/gold_e804ae2e0c9366b7825c8beb11316525.jpeg?w=1200&dpr=1.0",
+      "summary": "डिजिटल गोल्ड बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद है। इस वृद्धि के लिए मौजूदा बाधाओं को दूर करना आवश्यक है। डिजिटल गोल्ड की बढ़ती मांग: बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद; किन बाधाओं को दूर करना होगा?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेठी ने पिछले पांच चुनाव में तीन अलग-अलग दलों को चुना, दो-दो बार भाजपा-सपा के नाम रही जीत",
-          "summary": "अमेठी विधानसभा सीट पर पिछले पांच चुनावों में तीन अलग दलों की जीत हुई है। भाजपा और सपा ने दो-दो बार जीत दर्ज की है। अमेठी ने पिछले पांच चुनाव में तीन अलग-अलग दलों को चुना, दो-दो बार भाजपा-सपा के नाम रही जीत।",
+          "title": "बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद; किन बाधाओं को दूर करना होगा?",
+          "summary": "डिजिटल गोल्ड बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद है। इस वृद्धि के लिए मौजूदा बाधाओं को दूर करना आवश्यक है। डिजिटल गोल्ड की बढ़ती मांग: बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद; किन बाधाओं को दूर करना होगा?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "दिल्ली की रामलीला में शामिल हुईं यामी, आलिया-काजोल समेत दुर्गा पूजा में पहुंचे कई सितारे",
-      "url": "https://www.amarujala.com/entertainment/bollywood/yami-gautam-at-delhi-ram-leela-performed-ravan-dahan-alia-bhatta-and-kajol-were-at-duraga-pandal-2026-10-20",
+      "title": "ऑनलाइन खरीद बढ़ी, 90 अरब डॉलर के पार होगा कारोबार; पहली छमाही में कितनी रही बिक्री?",
+      "url": "https://www.amarujala.com/business/business-diary/redseer-report-online-shopping-growth-ecommerce-business-90-billion-dollar-2026-10-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T00:09:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/06/online-shopping_52cbd5ee306c269be93eb8142eec3642.jpeg?w=1200&dpr=1.0",
+      "summary": "रेडसीर रिपोर्ट के अनुसार ऑनलाइन खरीदारी बढ़ी है। पहली छमाही की बिक्री के आंकड़ों से पता चलता है कि कारोबार 90 अरब डॉलर के पार होगा। रेडसीर रिपोर्ट: ऑनलाइन खरीद बढ़ी, 90 अरब डॉलर के पार होगा कारोबार; पहली छमाही में कितनी रही बिक्री?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ऑनलाइन खरीद बढ़ी, 90 अरब डॉलर के पार होगा कारोबार; पहली छमाही में कितनी रही बिक्री?",
+          "summary": "रेडसीर रिपोर्ट के अनुसार ऑनलाइन खरीदारी बढ़ी है। पहली छमाही की बिक्री के आंकड़ों से पता चलता है कि कारोबार 90 अरब डॉलर के पार होगा। रेडसीर रिपोर्ट: ऑनलाइन खरीद बढ़ी, 90 अरब डॉलर के पार होगा कारोबार; पहली छमाही में कितनी रही बिक्री?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बाबागंज में अब तक तीन चुनाव, हर बार जीते विनोद सरोज, ऐसा है यहां का सियासी इतिहास",
+      "url": "https://www.amarujala.com/election/uttar-pradesh-election-2027-pratapgarh-babaganj-assembly-seat-history-bjp-sp-bsp-congress-political-equation-2026-10-13",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T00:08:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/13/bbgaja-sata-ka-samakaranae_b018872455877d9efba3d8da7601d1f8.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश के प्रतापगढ़ जिले में बाबागंज विधानसभा सीट पर अब तक तीन चुनाव हुए हैं। हर बार विनोद सरोज ने जीत दर्ज की है। बाबागंज में अब तक तीन चुनाव, हर बार जीते विनोद सरोज, ऐसा है यहां का सियासी इतिहास।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बाबागंज में अब तक तीन चुनाव, हर बार जीते विनोद सरोज, ऐसा है यहां का सियासी इतिहास",
+          "summary": "उत्तर प्रदेश के प्रतापगढ़ जिले में बाबागंज विधानसभा सीट पर अब तक तीन चुनाव हुए हैं। हर बार विनोद सरोज ने जीत दर्ज की है। बाबागंज में अब तक तीन चुनाव, हर बार जीते विनोद सरोज, ऐसा है यहां का सियासी इतिहास।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "टाइगर श्रॉफ पर हमले के 4 और आरोपी पकड़े गए; जियो का मेगा IPO; हरियाणा में उधार पर चल रहा मिड-डे मील",
+      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-21-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-21",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-21T06:37:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/salbsa-ka-tayahara_213907a4e4a14122ea845e6d67ad812e.jpeg?w=1200&dpr=1.0",
-      "summary": "यामी गौतम ने दिल्ली के लाल किले में आयोजित रामलीला में भाग लिया। विक्की कौशल, राजकुमार राव और अन्य बॉलीवुड कलाकारों ने दुर्गा पूजा पंडाल में शिरकत की। यह सार्वजनिक उत्सवों में सेलिब्रिटी उपस्थिति का एक सामान्य दृश्य था। Celebs Festival: अभिनेत्री यामी गौतम दिल्ली के लाल किले पर हुई रामलीला में शामिल हुई हैं। वहीं विक्की कौशल, राजकुमार राव और बॉलीवुड के कई कलाकार दुर्गा पूजा पंडाल में नजर आए।",
+      "published_at": "2026-10-20T23:58:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0",
+      "summary": "टाइगर श्रॉफ पर हमले के मामले में चार और आरोपी गिरफ्तार किए गए हैं। जियो का मेगा आईपीओ भी प्रमुख खबर है। सुर्खियां: टाइगर श्रॉफ पर हमले के 4 और आरोपी पकड़े गए; जियो का मेगा IPO; हरियाणा में उधार पर चल रहा मिड-डे मील।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "टाइगर श्रॉफ पर हमले के 4 और आरोपी पकड़े गए; जियो का मेगा IPO; हरियाणा में उधार पर चल रहा मिड-डे मील",
+          "summary": "टाइगर श्रॉफ पर हमले के मामले में चार और आरोपी गिरफ्तार किए गए हैं। जियो का मेगा आईपीओ भी प्रमुख खबर है। सुर्खियां: टाइगर श्रॉफ पर हमले के 4 और आरोपी पकड़े गए; जियो का मेगा IPO; हरियाणा में उधार पर चल रहा मिड-डे मील।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "खनिज नीति की समीक्षा करेगी केंद्र सरकार; भारत में एपल का कारोबार एक लाख करोड़ पार",
+      "url": "https://www.amarujala.com/business/business-diary/business-updates-mineral-policy-review-apple-india-business-one-lakh-crore-plus-rbi-sebi-forex-crude-oil-rates-2026-10-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-20T23:38:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0",
+      "summary": "केंद्र सरकार खनिज नीति की समीक्षा करेगी। भारत में एपल का कारोबार एक लाख करोड़ रुपये के पार हो गया है। बिजनेस अपडेट्स: खनिज नीति की समीक्षा करेगी केंद्र सरकार; भारत में एपल का कारोबार एक लाख करोड़ पार।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दिल्ली की रामलीला में शामिल हुईं यामी, आलिया-काजोल समेत दुर्गा पूजा में पहुंचे कई सितारे",
-          "summary": "यामी गौतम ने दिल्ली के लाल किले में आयोजित रामलीला में भाग लिया। विक्की कौशल, राजकुमार राव और अन्य बॉलीवुड कलाकारों ने दुर्गा पूजा पंडाल में शिरकत की। यह सार्वजनिक उत्सवों में सेलिब्रिटी उपस्थिति का एक सामान्य दृश्य था। Celebs Festival: अभिनेत्री यामी गौतम दिल्ली के लाल किले पर हुई रामलीला में शामिल हुई हैं। वहीं विक्की कौशल, राजकुमार राव और बॉलीवुड के कई कलाकार दुर्गा पूजा पंडाल में नजर आए।",
+          "title": "खनिज नीति की समीक्षा करेगी केंद्र सरकार; भारत में एपल का कारोबार एक लाख करोड़ पार",
+          "summary": "केंद्र सरकार खनिज नीति की समीक्षा करेगी। भारत में एपल का कारोबार एक लाख करोड़ रुपये के पार हो गया है। बिजनेस अपडेट्स: खनिज नीति की समीक्षा करेगी केंद्र सरकार; भारत में एपल का कारोबार एक लाख करोड़ पार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "चीन की पांच कंपनियों पर अमेरिकी प्रतिबंध: गूगल के पूर्व इंजीनियर से क्या है कनेक्शन, बीजिंग ने जताई",
+      "url": "https://www.amarujala.com/business/business-diary/beijing-blasts-us-sanctions-on-5-chinese-firms-tied-to-ex-google-engineer-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T23:38:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/12/google-search-computer-laptop_8c849f70eb7a82658cb6a6867f507457.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका ने चीन की पांच कंपनियों पर प्रतिबंध लगाए। बीजिंग ने इससे नाराजगी जताई। गूगल के पूर्व इंजीनियर से इन कंपनियों का कनेक्शन बताया गया। चीन की पांच कंपनियों पर अमेरिकी प्रतिबंध: गूगल के पूर्व इंजीनियर से क्या है कनेक्शन, बीजिंग ने जताई नाराजगी?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन की पांच कंपनियों पर अमेरिकी प्रतिबंध: गूगल के पूर्व इंजीनियर से क्या है कनेक्शन, बीजिंग ने जताई",
+          "summary": "अमेरिका ने चीन की पांच कंपनियों पर प्रतिबंध लगाए। बीजिंग ने इससे नाराजगी जताई। गूगल के पूर्व इंजीनियर से इन कंपनियों का कनेक्शन बताया गया। चीन की पांच कंपनियों पर अमेरिकी प्रतिबंध: गूगल के पूर्व इंजीनियर से क्या है कनेक्शन, बीजिंग ने जताई नाराजगी?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दर्शन के लिए उमड़ रही भीड़, बना नया रिकॉर्ड, श्रद्धालुओं का आंकड़ा 60 लाख पार",
+      "url": "https://www.amarujala.com/dehradun/char-dham-yatra-2026-crowds-throng-for-darshan-number-of-pilgrims-crosses-60-lakh-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T23:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/24/carathhama-yatara-ma-bhaugdha_4aa38d15ffbeb7c82655c1732ee1f1ce.jpeg?w=1200&dpr=1.0",
+      "summary": "चारधाम यात्रा के अंतिम चरण में श्रद्धालुओं की संख्या 60 लाख पार हो गई। केदारनाथ और बदरीनाथ में दर्शन के लिए भारी भीड़ उमड़ रही है। चारधाम यात्रा अंतिम चरण में है। केदारनाथ व बदरीनाथ धाम में दर्शन के लिए श्रद्धालुओं की काफी भीड़ है। दर्शन के लिए उमड़ रही भीड़, बना नया रिकॉर्ड, श्रद्धालुओं का आंकड़ा 60 लाख पार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दर्शन के लिए उमड़ रही भीड़, बना नया रिकॉर्ड, श्रद्धालुओं का आंकड़ा 60 लाख पार",
+          "summary": "चारधाम यात्रा के अंतिम चरण में श्रद्धालुओं की संख्या 60 लाख पार हो गई। केदारनाथ और बदरीनाथ में दर्शन के लिए भारी भीड़ उमड़ रही है। चारधाम यात्रा अंतिम चरण में है। केदारनाथ व बदरीनाथ धाम में दर्शन के लिए श्रद्धालुओं की काफी भीड़ है। दर्शन के लिए उमड़ रही भीड़, बना नया रिकॉर्ड, श्रद्धालुओं का आंकड़ा 60 लाख पार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रात के नौ बजते ही बिगड़ने लगती है हवा, पीएम 10 का स्तर 428 पहुंचा, हवा की सुस्त रफ्तार ने बढ़ाई",
+      "url": "https://www.amarujala.com/delhi/air-quality-begins-to-deteriorate-as-soon-as-9-pm-pm10-levels-reach-428-while-sluggish-wind-speeds-exacerbate-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T23:24:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/10/thall-ka-hava-ma-ghal-paral-ka-thhaaa_95bd7186dc0b3f1002ecffe0b6036695.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में रात नौ बजे के बाद हवा की गुणवत्ता बिगड़ने लगती है। सीपीसीबी के आंकड़ों के अनुसार पीएम 10 का स्तर 428 तक पहुंच गया। दिल्ली में रात के 9 बजते ही हवा की गुणवत्ता बिगड़ने का रुझान सामने आया है। केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी) के अलीपुर निगरानी केंद्र के 16 से 20 अक्तूबर तक के आंकड़ों में रात 9 बजे के आसपास पीएम 10 के स्तर में काफी उतार-चढ़ाव दिखा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रात के नौ बजते ही बिगड़ने लगती है हवा, पीएम 10 का स्तर 428 पहुंचा, हवा की सुस्त रफ्तार ने बढ़ाई",
+          "summary": "दिल्ली में रात नौ बजे के बाद हवा की गुणवत्ता बिगड़ने लगती है। सीपीसीबी के आंकड़ों के अनुसार पीएम 10 का स्तर 428 तक पहुंच गया। दिल्ली में रात के 9 बजते ही हवा की गुणवत्ता बिगड़ने का रुझान सामने आया है। केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी) के अलीपुर निगरानी केंद्र के 16 से 20 अक्तूबर तक के आंकड़ों में रात 9 बजे के आसपास पीएम 10 के स्तर में काफी उतार-चढ़ाव दिखा।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार",
+      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/monitoring-systems-to-be-installed-at-20-locations-in-lahaul-spiti-water-levels-will-indicate-the-rate-of-glac-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T23:24:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/galshayara-para-madarata-khatara-ka-haga-pakhata-taha_9dad35d8819735a10d3a37366b2e59c5.jpeg?w=1200&dpr=1.0",
+      "summary": "लाहौल-स्पीति में 20 स्थानों पर मॉनिटरिंग सिस्टम लगाए जाएंगे। पानी के स्तर और तापमान से ग्लेशियर पिघलने की रफ्तार का पता चलेगा। हिमालयी क्षेत्रों में ग्लेशियरों के पिघलने से होने वाले बदलावों का आकलन अब भूजल स्तर, तापमान और पानी के बहाव से जुड़े आंकड़ों के आधार पर भी किया जाएगा। लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार",
+          "summary": "लाहौल-स्पीति में 20 स्थानों पर मॉनिटरिंग सिस्टम लगाए जाएंगे। पानी के स्तर और तापमान से ग्लेशियर पिघलने की रफ्तार का पता चलेगा। हिमालयी क्षेत्रों में ग्लेशियरों के पिघलने से होने वाले बदलावों का आकलन अब भूजल स्तर, तापमान और पानी के बहाव से जुड़े आंकड़ों के आधार पर भी किया जाएगा। लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
+      "url": "https://www.amarujala.com/world/iran-us-peace-proposal-agreement-possible-this-week-six-billion-dollar-fund-relief-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T23:04:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/14/us-iran-nuclear-deal_8d54ac9508f628be26709be7ce7368eb.jpeg?w=1200&dpr=1.0",
+      "summary": "ईरान और अमेरिका के बीच इस हफ्ते सहमति बनेगी। छह अरब डॉलर के फंड में रियायत मिलने की संभावना है। शांति प्रस्ताव पर चर्चा जारी है।: ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
+          "summary": "ईरान और अमेरिका के बीच इस हफ्ते सहमति बनेगी। छह अरब डॉलर के फंड में रियायत मिलने की संभावना है। शांति प्रस्ताव पर चर्चा जारी है।: ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दशहरा से बढ़ी ठंड, 24-25 अक्तूबर को वेस्टर्न डिस्टर्बेंस से होगी बादलों की आवाजाही, बारिश की आशंका",
+      "url": "https://www.amarujala.com/delhi/cold-weather-has-intensified-since-dussehra-a-western-disturbance-is-expected-to-bring-cloud-cover-on-october-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T22:54:20+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/20/thall-ma-kahara-oura-thada_5d25f74443baa2c95da59455b5f61075.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में 24 और 25 अक्टूबर को वेस्टर्न डिस्टर्बेंस के कारण बादल और बारिश की संभावना है। पिछले सप्ताह से अधिकतम तापमान 30 डिग्री सेल्सियस के आसपास बना हुआ है। अक्तूबर के द्वितीय पाक्षिक में गुलाबी सर्दी राजधानीवासियों को सुबह-शाम की ठंड का अहसास कराने लगी है। पिछले एक सप्ताह से दिन में अधिकतम तापमान जहां 30 डिग्री सेल्सियस के आसपास बना हुआ है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दशहरा से बढ़ी ठंड, 24-25 अक्तूबर को वेस्टर्न डिस्टर्बेंस से होगी बादलों की आवाजाही, बारिश की आशंका",
+          "summary": "दिल्ली में 24 और 25 अक्टूबर को वेस्टर्न डिस्टर्बेंस के कारण बादल और बारिश की संभावना है। पिछले सप्ताह से अधिकतम तापमान 30 डिग्री सेल्सियस के आसपास बना हुआ है। अक्तूबर के द्वितीय पाक्षिक में गुलाबी सर्दी राजधानीवासियों को सुबह-शाम की ठंड का अहसास कराने लगी है। पिछले एक सप्ताह से दिन में अधिकतम तापमान जहां 30 डिग्री सेल्सियस के आसपास बना हुआ है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "छह माह से 12 हजार स्कूलों की करीब 70 करोड़ रुपये की पोषण राशि बकाया, उधारी से चल रहा मिड-डे मील",
+      "url": "https://www.amarujala.com/chandigarh/nutrition-funds-amounting-to-approximately-70-crore-remain-unpaid-to-12000-schools-for-past-six-months-mid-day-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T22:44:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/uthhara-sa-cal-raha-mada-da-mal_f5e9364d889712fb0d520c0430e48d88.jpeg?w=1200&dpr=1.0",
+      "summary": "छह माह से 12 हजार स्कूलों की 70 करोड़ रुपये की पोषण राशि बकाया है। रसोइयों को मासिक मानदेय और सामग्री खरीदने के लिए उधार पर निर्भर रहना पड़ रहा है। रसोइयों को छह हजार रुपये मासिक मानदेय राज्य सरकार और एक हजार रुपये केंद्र सरकार की ओर से मिलता है। स्कूलों को सब्जी, गैस, दूध, दही और गुड़ जैसी चीजें भी खरीदनी पड़ती हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "छह माह से 12 हजार स्कूलों की करीब 70 करोड़ रुपये की पोषण राशि बकाया, उधारी से चल रहा मिड-डे मील",
+          "summary": "छह माह से 12 हजार स्कूलों की 70 करोड़ रुपये की पोषण राशि बकाया है। रसोइयों को मासिक मानदेय और सामग्री खरीदने के लिए उधार पर निर्भर रहना पड़ रहा है। रसोइयों को छह हजार रुपये मासिक मानदेय राज्य सरकार और एक हजार रुपये केंद्र सरकार की ओर से मिलता है। स्कूलों को सब्जी, गैस, दूध, दही और गुड़ जैसी चीजें भी खरीदनी पड़ती हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कन्याकुमारी से जम्मू तक धार्मिक एकता का महाकुंभ: आठ राज्यों से गुजरी मोरारी बापू की स्वस्तिक रामकथा",
+      "url": "https://www.amarujala.com/jammu/grand-confluence-of-religious-unity-from-kanyakumari-to-jammu-morari-bapu-swastik-ramkatha-yatra-traversed-ei-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-20T22:30:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/marara-bpa_f09bf89707ac26705f58684e345ed8f5.jpeg?w=1200&dpr=1.0",
+      "summary": "मोरारी बापू की स्वस्तिक रामकथा यात्रा मंगलवार को जम्मू पहुंची। यह यात्रा कन्याकुमारी से शुरू होकर आठ राज्यों के धार्मिक स्थलों से गुजरी। दक्षिण से उत्तर भारत तक आठ राज्यों के धार्मिक और ऐतिहासिक स्थलों से गुजर रही यात्रा ने देश की विविध धार्मिक और सांस्कृतिक परंपराओं को जोड़ने का संदेश दिया। कन्याकुमारी से जम्मू तक धार्मिक एकता का महाकुंभ: आठ राज्यों से गुजरी मोरारी बापू की स्वस्तिक रामकथा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कन्याकुमारी से जम्मू तक धार्मिक एकता का महाकुंभ: आठ राज्यों से गुजरी मोरारी बापू की स्वस्तिक रामकथा",
+          "summary": "मोरारी बापू की स्वस्तिक रामकथा यात्रा मंगलवार को जम्मू पहुंची। यह यात्रा कन्याकुमारी से शुरू होकर आठ राज्यों के धार्मिक स्थलों से गुजरी। दक्षिण से उत्तर भारत तक आठ राज्यों के धार्मिक और ऐतिहासिक स्थलों से गुजर रही यात्रा ने देश की विविध धार्मिक और सांस्कृतिक परंपराओं को जोड़ने का संदेश दिया। कन्याकुमारी से जम्मू तक धार्मिक एकता का महाकुंभ: आठ राज्यों से गुजरी मोरारी बापू की स्वस्तिक रामकथा।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -418,7 +580,7 @@
     {
       "title": "पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी? किया खुलासा",
       "url": "https://www.amarujala.com/world/prince-harry-says-he-wants-to-work-out-relationship-with-brother-and-father-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-10-20T20:45:18+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/12/parasa-hara_5e2f06751bd9dc91cf2d0afbdcf6d2a4.jpeg?w=1200&dpr=1.0",
@@ -434,45 +596,9 @@
       }
     },
     {
-      "title": "लातूर के सूखा पीड़ितों के लिए पूरे वर्ष की सैलरी देंगे पूर्व मंत्री; ठाणे में गोलीबारी, एक की मौत",
-      "url": "https://www.amarujala.com/india-news/maharashtra-updates-latur-drought-ex-min-one-yr-salary-thane-mumbai-nagpur-pune-politics-crime-other-news-2026-10-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-20T20:30:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0",
-      "summary": "महाराष्ट्र के लातूर में सूखा पीड़ितों के लिए पूर्व मंत्री ने पूरे वर्ष की सैलरी देने का वादा किया। इसी राज्य के ठाणे में हुई गोलीबारी में एक व्यक्ति की मौत हो गई। दोनों घटनाओं ने राज्य में स्थिति को प्रभावित किया है। महाराष्ट्र: लातूर के सूखा पीड़ितों के लिए पूरे वर्ष की सैलरी देंगे पूर्व मंत्री; ठाणे में गोलीबारी, एक की मौत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लातूर के सूखा पीड़ितों के लिए पूरे वर्ष की सैलरी देंगे पूर्व मंत्री; ठाणे में गोलीबारी, एक की मौत",
-          "summary": "महाराष्ट्र के लातूर में सूखा पीड़ितों के लिए पूर्व मंत्री ने पूरे वर्ष की सैलरी देने का वादा किया। इसी राज्य के ठाणे में हुई गोलीबारी में एक व्यक्ति की मौत हो गई। दोनों घटनाओं ने राज्य में स्थिति को प्रभावित किया है। महाराष्ट्र: लातूर के सूखा पीड़ितों के लिए पूरे वर्ष की सैलरी देंगे पूर्व मंत्री; ठाणे में गोलीबारी, एक की मौत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "CJP के समर्थन में BJP छोड़ चुके पूर्व अध्यक्ष अन्नामलाई; असम में बाढ़ पीड़ितों के लिए घर बनेंगे",
-      "url": "https://www.amarujala.com/india-news/national-updates-21st-oct-cjp-annamalai-tamil-nadu-assam-flood-house-north-east-west-south-politics-crime-news-2026-10-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-20T20:16:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_16003c2ba7e0cb7e22366c606b634689.jpeg?w=1200&dpr=1.0",
-      "summary": "पूर्व बीजेपी अध्यक्ष अन्नामलाई ने सीजेपी के समर्थन में पार्टी छोड़ दी है। असम में बाढ़ से प्रभावित लोगों के लिए नए घर बनाने की योजना शुरू की गई है। ये दोनों घटनाएं राजनीतिक और सामाजिक स्तर पर नोटिस की जा रही हैं। न्यूज डायरी: CJP के समर्थन में BJP छोड़ चुके पूर्व अध्यक्ष अन्नामलाई; असम में बाढ़ पीड़ितों के लिए घर बनेंगे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "CJP के समर्थन में BJP छोड़ चुके पूर्व अध्यक्ष अन्नामलाई; असम में बाढ़ पीड़ितों के लिए घर बनेंगे",
-          "summary": "पूर्व बीजेपी अध्यक्ष अन्नामलाई ने सीजेपी के समर्थन में पार्टी छोड़ दी है। असम में बाढ़ से प्रभावित लोगों के लिए नए घर बनाने की योजना शुरू की गई है। ये दोनों घटनाएं राजनीतिक और सामाजिक स्तर पर नोटिस की जा रही हैं। न्यूज डायरी: CJP के समर्थन में BJP छोड़ चुके पूर्व अध्यक्ष अन्नामलाई; असम में बाढ़ पीड़ितों के लिए घर बनेंगे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
       "url": "https://www.amarujala.com/world/italy-s-meloni-approves-tougher-measures-to-crack-down-on-protests-after-milan-riots-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-10-20T20:13:04+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/09/giorgia-meloni_f5eaa24101002f06c3737edc1ac554b4.jpeg?w=1200&dpr=1.0",
@@ -501,24 +627,6 @@
         "hi": {
           "title": "ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार",
           "summary": "ईरान के शीर्ष नेताओं ने पाकिस्तानी आईएसआई प्रमुख आसिम मुनीर से मुलाकात की। इसी दौरान ब्रिटेन ने जासूसी के दो आरोपियों को फिर से गिरफ्तार किया। दोनों घटनाएँ अलग-अलग क्षेत्रों में हुईं। वर्ल्ड डायरी: ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "भारत ने 92 रनों से जीता तीसरा टी20 मैच, जिम्बाब्वे के खिलाफ किया क्लीन स्वीप",
-      "url": "https://www.amarujala.com/video/cricket/india-won-the-third-t20-match-by-92-runs-completing-a-clean-sweep-against-zimbabwe-2026-10-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-20T19:57:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/ind-w-vs-zim-w-t20-2026_39bf4ecbe07212797d52e6916a3b91df.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत ने जिम्बाब्वे के खिलाफ तीसरा टी20 मैच 92 रनों से जीता। टीम ने सीरीज में क्लीन स्वीप हासिल किया। यह जीत सीरीज के अंतिम मुकाबले में दर्ज की गई। भारत ने 92 रनों से जीता तीसरा टी20 मैच, जिम्बाब्वे के खिलाफ किया क्लीन स्वीप।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत ने 92 रनों से जीता तीसरा टी20 मैच, जिम्बाब्वे के खिलाफ किया क्लीन स्वीप",
-          "summary": "भारत ने जिम्बाब्वे के खिलाफ तीसरा टी20 मैच 92 रनों से जीता। टीम ने सीरीज में क्लीन स्वीप हासिल किया। यह जीत सीरीज के अंतिम मुकाबले में दर्ज की गई। भारत ने 92 रनों से जीता तीसरा टी20 मैच, जिम्बाब्वे के खिलाफ किया क्लीन स्वीप।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -645,114 +753,6 @@
         "hi": {
           "title": "ट्रेड डील से लेकर QUAD और पाकिस्तान से लेकर होर्मुज तक, अमेरिकी विदेश मंत्री मार्को रूबियो का पूरा",
           "summary": "अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा कि भारत-अमेरिका ट्रेड डील कुछ हफ्तों में पूरी होगी। इससे टैरिफ दरों में राहत मिलेगी। उन्होंने रूसी तेल खरीद और पाकिस्तान संबंधों पर अपनी रणनीति भी साझा की। क्वाड समिट को लेकर भी अहम संकेत दिए गए। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर-इन-चीफ राहुल जोशी से खास बातचीत की है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अल्बानिया में विरोध प्रदर्शन पर भिड़े शिवसेना नेता, राउत के बयान पर प्रियंका का पलटवार",
-      "url": "https://www.abplive.com/news/india/shiv-sena-ubt-leaders-clash-over-protests-in-albania-priyanka-chaturvedi-hits-back-sanjay-raut-remark-3204620",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-20T17:35:33+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/760c4ad1bf4fd51b501c54baadfdd5f617925174609101324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अल्बानिया में विद्यार्थी प्रदर्शन को लेकर शिवसेना के संजय राउत और प्रियंका चतुर्वेदी के बीच मतभेद सामने आए। राउत ने भारत को इससे सबक लेने की सलाह दी, जबकि चतुर्वेदी ने हिंसक प्रदर्शन से तुलना को खारिज कर दिया। अल्बानिया में स्टूडेंट प्रोटेस्ट को लेकर शिवसेना नेता (UBT) के बीच जुबानी जंग छिड़ गई है. जहां एक तरफ संजय राउत ने सुझाव दिया है कि भारत को इस अशांति से सबक लेना चाहिए.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अल्बानिया में विरोध प्रदर्शन पर भिड़े शिवसेना नेता, राउत के बयान पर प्रियंका का पलटवार",
-          "summary": "अल्बानिया में विद्यार्थी प्रदर्शन को लेकर शिवसेना के संजय राउत और प्रियंका चतुर्वेदी के बीच मतभेद सामने आए। राउत ने भारत को इससे सबक लेने की सलाह दी, जबकि चतुर्वेदी ने हिंसक प्रदर्शन से तुलना को खारिज कर दिया। अल्बानिया में स्टूडेंट प्रोटेस्ट को लेकर शिवसेना नेता (UBT) के बीच जुबानी जंग छिड़ गई है. जहां एक तरफ संजय राउत ने सुझाव दिया है कि भारत को इस अशांति से सबक लेना चाहिए.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सऊदी अरब में तैनात रहेगी पाकिस्तानी सेना, 10 साल तक कोई नहीं छोड़ सकेगा इस्लामिक नाटो... मक्का",
-      "url": "https://hindi.news18.com/world/middle-east-pakistan-forces-to-remain-in-saudi-arabia-no-one-can-leave-islamic-nato-before-10-years-turkey-presents-makkah-pact-draft-know-important-details-10924436.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T17:33:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Mecca-Pact-2026-10-0a23f00b515a5e8f31958226144364e5-1200x800.jpg",
-      "summary": "सऊदी अरब, पाकिस्तान और तुर्की के बीच मक्का रक्षा समझौते का ड्राफ्ट सामने आया है। तुर्की ने इसे संसद में मंजूरी के लिए पेश किया है। किसी एक सदस्य पर हमले को तीनों पर हमला माना जाएगा। बाकी दो देश तुरंत मदद करेंगे। Mecca Defence Pact: सऊदी अरब, पाकिस्तान और तुर्की के बीच मक्का रक्षा समझौते का पूरा ड्राफ्ट सामने आ गया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी अरब में तैनात रहेगी पाकिस्तानी सेना, 10 साल तक कोई नहीं छोड़ सकेगा इस्लामिक नाटो... मक्का",
-          "summary": "सऊदी अरब, पाकिस्तान और तुर्की के बीच मक्का रक्षा समझौते का ड्राफ्ट सामने आया है। तुर्की ने इसे संसद में मंजूरी के लिए पेश किया है। किसी एक सदस्य पर हमले को तीनों पर हमला माना जाएगा। बाकी दो देश तुरंत मदद करेंगे। Mecca Defence Pact: सऊदी अरब, पाकिस्तान और तुर्की के बीच मक्का रक्षा समझौते का पूरा ड्राफ्ट सामने आ गया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "विजयादशमी पर उपराष्ट्रपति सीपी राधाकृष्णन का संदेश, ‘अधर्म पर धर्म की होती है जीत’",
-      "url": "https://www.abplive.com/news/india/vice-president-cp-radhakrishnan-message-to-people-on-dussehra-says-dharma-triumphs-over-adharma-3204618",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-20T17:32:37+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/0177d6ecf1a4a229020f972152d0971f17925174090761126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "उपराष्ट्रपति सीपी राधाकृष्णन ने दिल्ली के लाल किला मैदान में आयोजित रामलीला कार्यक्रम में दशहरे की शुभकामनाएं दीं। उन्होंने रावण दहन के मौके पर अधर्म पर धर्म की जीत का संदेश देते हुए देशवासियों को बधाई दी। दिल्ली में मंगलवार (20 अक्टूबर, 2026) को दशहरे के मौके पर लव-कुश रामलीला कमेटी की ओर से लाल किला मैदान में रामलीला का मंचन किया गया और रावण दहन किया गया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विजयादशमी पर उपराष्ट्रपति सीपी राधाकृष्णन का संदेश, ‘अधर्म पर धर्म की होती है जीत’",
-          "summary": "उपराष्ट्रपति सीपी राधाकृष्णन ने दिल्ली के लाल किला मैदान में आयोजित रामलीला कार्यक्रम में दशहरे की शुभकामनाएं दीं। उन्होंने रावण दहन के मौके पर अधर्म पर धर्म की जीत का संदेश देते हुए देशवासियों को बधाई दी। दिल्ली में मंगलवार (20 अक्टूबर, 2026) को दशहरे के मौके पर लव-कुश रामलीला कमेटी की ओर से लाल किला मैदान में रामलीला का मंचन किया गया और रावण दहन किया गया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नहीं हुई सौरव-आशुतोष की याचिका दिल्ली HC में लिस्ट, कल सुनवाई की मांग करेगी लीगल टीम",
-      "url": "https://www.abplive.com/news/india/cjp-saurav-das-and-ashutosh-ranka-petition-will-not-be-listed-tonight-in-delhi-high-court-3204609",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-20T16:46:35+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/6a64a96407e78bf2b8292d74fdc66dcc17925143929371324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सीजेपी नेता सौरव दास और आशुतोष रांका की याचिका दिल्ली हाईकोर्ट में मंगलवार को लिस्ट नहीं हुई। उनकी कानूनी टीम बुधवार 21 अक्टूबर को न्यायिक हिरासत बढ़ाने के एसईएम कोर्ट के आदेश के खिलाफ सुनवाई की मांग करेगी। सौरव दास और आशुतोष रांका की याचिका को मंगलवार को दिल्ली हाईकोर्ट में लिस्ट नहीं किया गया है. उनकी कानूनी टीम कल इस मामले पर सुनवाई की मांग करेगी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नहीं हुई सौरव-आशुतोष की याचिका दिल्ली HC में लिस्ट, कल सुनवाई की मांग करेगी लीगल टीम",
-          "summary": "सीजेपी नेता सौरव दास और आशुतोष रांका की याचिका दिल्ली हाईकोर्ट में मंगलवार को लिस्ट नहीं हुई। उनकी कानूनी टीम बुधवार 21 अक्टूबर को न्यायिक हिरासत बढ़ाने के एसईएम कोर्ट के आदेश के खिलाफ सुनवाई की मांग करेगी। सौरव दास और आशुतोष रांका की याचिका को मंगलवार को दिल्ली हाईकोर्ट में लिस्ट नहीं किया गया है. उनकी कानूनी टीम कल इस मामले पर सुनवाई की मांग करेगी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'विरोध प्रदर्शन के जरिए एकजुट किया जाता है, लेकिन...', मोहन भागवत बोले- जब यही लोग",
-      "url": "https://www.abplive.com/news/india/rss-chief-mohan-bhagwat-sharp-response-on-vijayadashami-cec-ec-protest-3204548",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-20T16:44:37+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/fc556162a59c0e685525d1e43e53c57417924999872431324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "आरएसएस प्रमुख मोहन भागवत ने नागपुर में विजयादशमी पर कहा कि विरोध प्रदर्शन लोगों को एकजुट करता है, परंतु फूट डालने का कारण भी बन सकता है। उन्होंने लोकतंत्र में आंदोलन को स्वाभाविक मानते हुए समस्या समाधान के उद्देश्य पर जोर दिया। आरएसएस चीफ मोहन भागवत ने नागपुर में विजयादशमी के मौके पर संबोधन दिया. इस दौरान उन्होंने देश में चल रहे प्रदर्शन पर कड़ी प्रतिक्रिया देते हुए कई सवाल उठाए.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'विरोध प्रदर्शन के जरिए एकजुट किया जाता है, लेकिन...', मोहन भागवत बोले- जब यही लोग",
-          "summary": "आरएसएस प्रमुख मोहन भागवत ने नागपुर में विजयादशमी पर कहा कि विरोध प्रदर्शन लोगों को एकजुट करता है, परंतु फूट डालने का कारण भी बन सकता है। उन्होंने लोकतंत्र में आंदोलन को स्वाभाविक मानते हुए समस्या समाधान के उद्देश्य पर जोर दिया। आरएसएस चीफ मोहन भागवत ने नागपुर में विजयादशमी के मौके पर संबोधन दिया. इस दौरान उन्होंने देश में चल रहे प्रदर्शन पर कड़ी प्रतिक्रिया देते हुए कई सवाल उठाए.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'हमारा रास्ता अहिंसा का', दीपके ने कहा- फ्रांस या बांग्लादेश से नहीं कोई संबंध",
-      "url": "https://www.abplive.com/news/india/our-path-is-non-violence-abhijeet-dipke-said-we-have-no-connection-to-france-or-bangladesh-violence-3204603",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-20T16:23:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/c085fb71ac1716e49b149e7674cf679217925121841681484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने SIR विरोध प्रदर्शन को फ्रांस या बांग्लादेश की हिंसा से जोड़ने का दावा खारिज किया। उन्होंने सत्याग्रह और अहिंसा के मार्ग पर चलने का दावा किया, जबकि उनके दो सहयोगी जेल में हैं। ‘कॉकरोच जनता पार्टी’ (CJP) के संस्थापक अभिजीत दीपके ने इस बात को खारिज कर दिया कि मतदाता सूची के ‘विशेष गहन पुनरीक्षण’ (SIR) के खिलाफ उनके संगठन का प्रदर्शन फ्रांस, नेपाल और बांग्लादेश में हुई हिंसक अशांति जैसा है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'हमारा रास्ता अहिंसा का', दीपके ने कहा- फ्रांस या बांग्लादेश से नहीं कोई संबंध",
-          "summary": "कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने SIR विरोध प्रदर्शन को फ्रांस या बांग्लादेश की हिंसा से जोड़ने का दावा खारिज किया। उन्होंने सत्याग्रह और अहिंसा के मार्ग पर चलने का दावा किया, जबकि उनके दो सहयोगी जेल में हैं। ‘कॉकरोच जनता पार्टी’ (CJP) के संस्थापक अभिजीत दीपके ने इस बात को खारिज कर दिया कि मतदाता सूची के ‘विशेष गहन पुनरीक्षण’ (SIR) के खिलाफ उनके संगठन का प्रदर्शन फ्रांस, नेपाल और बांग्लादेश में हुई हिंसक अशांति जैसा है.",
           "region": "यूरोप और रूस"
         }
       }
