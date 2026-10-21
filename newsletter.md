@@ -1,16 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 21, 2026 10:58 IST
+**Updated:** October 21, 2026 16:13 IST
+
+---
+
+## Global / Multilateral
+
+### [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/feed/view/en/story/2026/10/1168634)
+*UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image770x420cropped.jpg -->
+
+Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels. Nations must implement deep, rapid emissions cuts to minimize this overshoot. The goal is returning to the agreed threshold by century's end. Urgent action is required to limit the duration of this breach. With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.
 
 ---
 
 ## Europe & Russia
+
+### [US Citizen Accused By Moscow Of Fighting For Ukraine Released From Russian Prison](https://www.rferl.org/a/stephen-hubbard-russia-us-prisoner-release-trump/33880760.html)
+*Radio Free Europe / Liberty* - Oct 21, 15:23 IST (iso: 2026-10-21T09:53:03+00:00)
+<!-- image: https://gdb.rferl.org/dbab1883-4624-440f-98a2-e494656e233c_cx0_cy19_cw0_w1200_h630.jpg -->
+
+Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
+
+### [Vladimir Putin’s Neighbors: Two Parallel Worlds On Lake Valdai](https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html)
+*Radio Free Europe / Liberty* - Oct 21, 13:13 IST (iso: 2026-10-21T07:43:41+00:00)
+<!-- image: https://gdb.rferl.org/9ae7e62f-3e02-4141-42b6-08df13a884cb_w1200_h630.jpg -->
+
+Vladimir Putin's residence near Lake Valdai features heavy security and air defenses. Locals nearby face restricted access to the lake and forests. Families in the region bear the economic costs of Russia's war against Ukraine. The area exists as two parallel worlds of privilege and restriction. Vladimir Putin’s secluded residence near Russia’s Lake Valdai is surrounded by fences, security forces, and air defenses.
 
 ### [France arrests man, calls in anti-terror police over town hall protest fire](https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece)
 *The Hindu (International)* - Oct 21, 08:37 IST (iso: 2026-10-21T03:07:32+00:00)
 <!-- image: https://th-i.thgim.com/public/news/national/uczx10/article71606137.ece/alternates/LANDSCAPE_1200/AFP__20261018__D3MB6G9__v4__HighRes__TopshotFranceSocialDemoBestOf.jpg -->
 
 French anti-terror police investigated a fire at the Limoges town hall on October 17. The 1883 building suffered roof and belfry collapse. Authorities arrested a man in connection with the suspected arson incident. Anti-terror police have been called in to investigate the suspected arson of the town hall in the central city of Limoges, a listed building dating back to 1883 whose roof and belfry collapsed when it was engulfed by fire on October 17.
+
+### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
+*Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
+<!-- image: https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg -->
+
+Ukraine's military rescued a wounded soldier from the front lines using an aerial drone. The soldier, injured in both legs, strapped himself to a hexacopter for evacuation. Fellow servicemen described the act as heroic. This marks the first recorded instance of such a drone-based battlefield rescue. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.
 
 ### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
 *Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
@@ -42,17 +70,17 @@ SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces
 
 Zelenskyy thanked the United States after Oslo talks. He said missile intelligence now works effectively. US envoys Steve Witkoff and Jared Kushner joined the meetings. Russia continues to bomb Ukraine while tensions between Kyiv and Washington grow. US special envoys Steve Witkoff and Jared Kushner will take part in meetings in Oslo to discuss the situation in Ukraine with President Volodymyr Zelenskyy as Russia continues to pound the country amid growing tensions between Kyiv and Washington.
 
-### [In Delhi or Paris, restoring order cannot replace public trust](https://asiatimes.com/2026/10/in-delhi-or-paris-restoring-order-cannot-replace-public-trust/)
-*Asia Times* - Oct 20, 03:05 IST (iso: 2026-10-19T21:35:11+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/images-4-copy-e1792516749106.jpeg -->
-
-Protests often evolve from specific grievances into broader challenges to political authority. When citizens believe their concerns are ignored, demands for correction become questions of accountability. Restoring order alone cannot replace the need for public trust in governance. Protests rarely remain confined to the grievances that first bring people into the streets. When the citizens believe their concerns are being ignored, a grievance over a particular policy or administrative decision can evolve into a broader challenge to the political authority.
-
 ### [A Russian Military Satellite Gets Very, Very Close To One Used By Ukraine](https://www.rferl.org/a/russia-space-satellite-ukraine-finland/33879458.html)
 *Radio Free Europe / Liberty* - Oct 19, 20:32 IST (iso: 2026-10-19T15:02:14+00:00)
 <!-- image: https://gdb.rferl.org/459A5069-D10C-4972-B087-263CEDDB03F5_w1200_h630.jpg -->
 
 A Russian military satellite passed exceptionally close to a Finnish-operated satellite. The Finnish satellite provides intelligence to Ukraine. Officials described the maneuver as concerning and aggressive. They noted it may serve as a signal of hostile intent. Last week, a Russian military satellite came “exceptionally close” to another Finnish-operated satellite that provides intelligence to Ukraine. “It’s concerning and aggressive with potential hostile intent – but I also think cooler heads believe it is signaling on the part of the Russians.”.
+
+### [Protecting Earth’s fragile biodiversity takes spotlight at Armenia talks](https://news.un.org/feed/view/en/story/2026/10/1168620)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/14-12-2021-UNEP-Earth-Champions-Gladys-Kalema-02.jpg/image560x340cropped.jpg -->
+
+The UN Biodiversity Conference opened in Yerevan, Armenia. The top UN official warned that ongoing biodiversity losses threaten the prosperity of billions. He urged nations to take immediate action to protect the planet. Biodiversity losses continue to upend the lives of billions of people whose future prosperity depends on countries taking urgent action to protect our planet, the top UN official leading talks at the UN Biodiversity Conference in Yerevan, said on Monday.
 
 ### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
 *The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
@@ -60,27 +88,27 @@ A Russian military satellite passed exceptionally close to a Finnish-operated sa
 
 Hurricane Trudy weakened to a tropical storm after threatening Mexico's Pacific coast. The system remained 160 kilometers southwest of the shore. Meanwhile, deadly floods in Greece killed one person. The Pacific season saw 22 named systems this year. Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system.
 
-### [Rubio Vows To Keep Pushing For Ukraine Peace, Seeks Deeper US Ties In Central Asia](https://www.rferl.org/a/rubio-ukraine-peace-us-ties-central-asia/33879304.html)
-*Radio Free Europe / Liberty* - Oct 19, 14:59 IST (iso: 2026-10-19T09:29:21+00:00)
-<!-- image: https://gdb.rferl.org/78a73995-a608-4139-a1d3-fbc3e391216b_cx0_cy9_cw0_w1200_h630.jpg -->
-
-Marco Rubio stated the United States will continue pushing for a Ukraine peace deal. He warned the conflict risks escalating beyond Russia and Ukraine. The Secretary of State made these remarks while meeting Central Asian officials in Uzbekistan. US Secretary of State Marco Rubio said Washington would continue efforts to end Russia's war against Ukraine, warning that the conflict risks escalating beyond the two countries as he met with Central Asian officials in Uzbekistan.
-
-### [Trump Again Criticizes Zelenskyy, Says Open To Meeting With Putin And Xi](https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html)
-*Radio Free Europe / Liberty* - Oct 19, 04:22 IST (iso: 2026-10-18T22:52:20+00:00)
-<!-- image: https://gdb.rferl.org/64b2e613-1a72-4d4e-ba1b-94bd8cba2843_w1200_h630.jpg -->
-
-Donald Trump defended waiving planned sanctions against Russia to maintain negotiations. Kyiv and some US lawmakers criticized the move. They argued it sends the wrong message to the Kremlin. The decision drew strong opposition from allies. President Donald Trump defended his decision to waive sweeping sanctions planned against Russia as an effort to keep Moscow at the negotiating table amid strong criticism from Kyiv and some US lawmakers that it sends the wrong message to the Kremlin.
-
 ---
 
-## World
+## Asia-Pacific
 
-### [IEA chief sees little chance of oil market 'normalisation' next year](https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece)
-*The Hindu (International)* - Oct 21, 07:54 IST (iso: 2026-10-21T02:24:16+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/4gyenb/article71606082.ece/alternates/LANDSCAPE_1200/iStock-924697738.jpg -->
+### [Singapore must promote its strengths or risk being overlooked globally: METI permanent secretary](https://www.channelnewsasia.com/singapore/refreshed-when-youre-ready-international-branding-campaign-meti-beh-swan-gin-dbs-tan-su-shan-6478331)
+*Channel News Asia* - Oct 21, 14:54 IST (iso: 2026-10-21T09:24:14+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--RHHJ-OGg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/21/permanent_secretary_for_energy_trade_industry_beh_swan_gin_dbs_ceo_tan_su_shan.png?itok=Aq8XGLZg -->
 
-The IEA chief expects little oil market normalisation next year. Prices surged past $100 a barrel from under $70 before the war. Gulf refinery damage also pushed diesel prices to record highs. The war sparked by the attacks has sent oil prices to over $100 a barrel compared with below $70 a barrel before hostilities began, while damage to Gulf refineries has helped push diesel prices to record highs.
+Singapore must actively promote its strengths to avoid being overlooked globally. Permanent Secretary Beh Swan Gin stated that relying solely on stability is insufficient. Intensifying competition for investment and talent demands proactive storytelling. The nation needs to articulate its value proposition clearly to remain competitive. As global competition for investments, businesses and talent intensifies, Singapore must actively tell its own story rather than rely solely on its reputation for stability and reliability, says Permanent Secretary for Energy, Trade and Industry Beh Swan Gin.
+
+### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
+*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
+<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
+
+China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
+
+### [Three deaths from float crushes raise safety concerns over Japanese festivals](https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents)
+*The Guardian* - Oct 19, 14:38 IST (iso: 2026-10-19T09:08:34+00:00)
+<!-- image: https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db -->
+
+Three people died in Japanese float crushes this weekend. Akihiro Nabae, deputy mayor of Saijo, was trapped under a float. Two other men died in similar incidents elsewhere in the country. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.
 
 ---
 
@@ -91,12 +119,6 @@ The IEA chief expects little oil market normalisation next year. Prices surged p
 <!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
 
 Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
-
-### [Iran security chief rejects moving enriched uranium out of country](https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece)
-*The Hindu (International)* - Oct 21, 03:32 IST (iso: 2026-10-20T22:02:49+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/s96w10/article71605649.ece/alternates/LANDSCAPE_1200/2026-08-10T075525Z_2037129379_RC2A6MAKWMCJ_RTRMADP_3_IRAN-CRISIS-REZAEI.JPG -->
-
-Iran's Supreme National Security Council secretary rejected moving enriched uranium abroad. Rezaei stated the material is a national asset intended for domestic use. No enriched nuclear material will leave the country, he declared. "Not even a tiny bit of enriched nuclear material will leave Iran; such materials constitute a major asset and national wealth for the Iranian people, intended for use within the country," says Mr.
 
 ### [With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb](https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html)
 *Radio Free Europe / Liberty* - Oct 20, 21:33 IST (iso: 2026-10-20T16:03:23+00:00)
@@ -116,23 +138,17 @@ Over 250,000 people have fled renewed fighting in Yemen, the United Nations repo
 
 Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.
 
-### [A growing national crisis and a strategic warning](https://asiatimes.com/2026/10/south-korea-a-growing-national-crisis-and-a-strategic-warning/)
-*Asia Times* - Oct 19, 20:59 IST (iso: 2026-10-19T15:29:22+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/extrawide_3x1-e1792418247678.jpg -->
+### [Guterres honours Indonesian troops who paid ‘ultimate sacrifice’](https://news.un.org/feed/view/en/story/2026/10/1168623)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image560x340cropped.jpg -->
 
-South Korea's per capita GDP is projected to surpass Japan's by 2027. The International Monetary Fund estimates Korea will reach $49,000. Japan is expected to sit between $37,000 and $38,000. This shift highlights Korea's semiconductor strength. Recent media reports projecting South Korea’s per capita GDP to surpass Japan’s have generated considerable excitement across the regional countries that see Korea as a role model.
+UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
 
 ### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
 *UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg -->
 
 The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
-
-### [Guterres honours Indonesian troops who paid ‘ultimate sacrifice’](https://news.un.org/feed/view/en/story/2026/10/1168623)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image560x340cropped.jpg -->
-
-UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
 
 ---
 
@@ -150,27 +166,11 @@ Alberta voters rejected a proposal to begin the independence process by a wide m
 
 Flávio Bolsonaro’s debate comment calling his rival corrupt backfired. Social media users quickly turned the moment into a viral meme. The stunt was meant to highlight alleged crookedness before the election runoff. Instead, it became a widespread parody online. Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election. But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Lu.
 
----
+### [Inside the New York ‘time machine’ racing to save a century of sound and film](https://news.un.org/feed/view/en/story/2026/10/1168608)
+*UN News* - Oct 18, 17:30 IST (iso: 2026-10-18T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image560x340cropped.jpg -->
 
-## Asia-Pacific
-
-### ['We're Never Going To Be The Major Player': Former Diplomat's Reality Check On US Ambitions In](https://www.rferl.org/a/we-re-never-going-to-be-the-major-player-former-diplomat-s-reality-check-on-us-ambitions-in-central-asia/33879471.html)
-*Radio Free Europe / Liberty* - Oct 19, 18:12 IST (iso: 2026-10-19T12:42:59+00:00)
-<!-- image: https://gdb.rferl.org/8A1507F1-461D-4A8A-8AFE-4242DBCAA259.jpg -->
-
-Daniel Rosenblum, a former US ambassador, warns that American business efforts in Central Asia face significant hurdles. He argues the United States will not become a major regional player despite recent diplomatic outreach. Marco Rubio has brought nearly 300 American business representatives to Uzbekistan for a meeting with representatives of the five states of Central Asia. But Daniel N. Rosenblum, a former US ambassador to Uzbekistan and Kazakhstan, cautions that investment faces major obstacles.
-
-### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
-*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
-<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
-
-China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
-
-### [Three deaths from float crushes raise safety concerns over Japanese festivals](https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents)
-*The Guardian* - Oct 19, 14:38 IST (iso: 2026-10-19T09:08:34+00:00)
-<!-- image: https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db -->
-
-Three people died in Japanese float crushes this weekend. Akihiro Nabae, deputy mayor of Saijo, was trapped under a float. Two other men died in similar incidents elsewhere in the country. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.
+Rhony Dostaly works as a media preservation engineer in a basement beneath Lincoln Center. He rescues a century of sound and film from decay. His team makes these historical elements available for modern audiences. “I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past.
 
 ---
 
