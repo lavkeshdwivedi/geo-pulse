@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-10-21T00:22:24.694030+00:00",
+  "generated_at": "2026-10-21T05:28:13.456864+00:00",
   "article_count": 50,
-  "total_unique_count": 255,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Nigeria confirmed its first Ebola case as the outbreak spreads into western Africa. Iran’s security chief simultaneously rejected moving enriched uranium abroad while officials openly call for a nuclear bomb.",
-    "hi": "सूडान और दक्षिण सूडान के सीमावर्ती क्षेत्र में ड्रोन हमले से 153 लोगों की मौत हुई है। यूक्रेन को रूसी मिसाइल हमलों की सूचना मिलने का प्रोटोकॉल फिर से शुरू हो गया है। ईरान और अमेरिका के बीच छह अरब डॉलर के फंड पर सहमति की संभावनाएं मजबूत हो रही हैं।"
+    "en": "Iran rejects moving enriched uranium while officials openly call for a nuclear bomb. Nigeria confirms an Ebola case as the outbreak spreads into western Africa. France arrests a man over a town hall protest fire and calls in anti-terror police.",
+    "hi": "अमेरिका में हिंदू मंदिर पर हमले की साजिश के संदर्भ में 105 सांसदों ने FBI से जवाब मांगा है। इसी बीच अमित शाह ने नशा-मुक्त भारत के लिए एक विशिष्ट तिथि निर्धारित की है।"
   },
   "articles": [
+    {
+      "title": "France arrests man, calls in anti-terror police over town hall protest fire",
+      "url": "https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-21T03:07:32+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/uczx10/article71606137.ece/alternates/LANDSCAPE_1200/AFP__20261018__D3MB6G9__v4__HighRes__TopshotFranceSocialDemoBestOf.jpg",
+      "summary": "French anti-terror police investigated a fire at the Limoges town hall on October 17. The 1883 building suffered roof and belfry collapse. Authorities arrested a man in connection with the suspected arson incident. Anti-terror police have been called in to investigate the suspected arson of the town hall in the central city of Limoges, a listed building dating back to 1883 whose roof and belfry collapsed when it was engulfed by fire on October 17.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "IEA chief sees little chance of oil market 'normalisation' next year",
+      "url": "https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-21T02:24:16+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/4gyenb/article71606082.ece/alternates/LANDSCAPE_1200/iStock-924697738.jpg",
+      "summary": "The IEA chief expects little oil market normalisation next year. Prices surged past $100 a barrel from under $70 before the war. Gulf refinery damage also pushed diesel prices to record highs. The war sparked by the attacks has sent oil prices to over $100 a barrel compared with below $70 a barrel before hostilities began, while damage to Gulf refineries has helped push diesel prices to record highs.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
       "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
@@ -20,18 +44,6 @@
       "translations": {}
     },
     {
-      "title": "She pioneered breast care nursing in Singapore and, at 74, still cares for breast cancer patients",
-      "url": "https://www.channelnewsasia.com/women/singapore-first-breast-care-nurse-nagalingam-saraswathi-sgh-6445601",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-10-20T23:27:08+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--QcgXQgPt--/c_crop,h_478,w_850,x_0,y_92/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/09/nagalingam-saraswathi-first-breast-care-nurse-singapore-sgh_0.jpg?itok=0IWNTGVw",
-      "summary": "Nagalingam Saraswathi established breast care services at Singapore General Hospital in 1992. She trained nurses from other facilities and launched a patient support group. At 74, she continues to care for breast cancer patients directly. After establishing breast care services at Singapore General Hospital in 1992, Nagalingam Saraswathi trained nurses from other hospitals and started a support group for breast cancer patients.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Iran security chief rejects moving enriched uranium out of country",
       "url": "https://www.thehindu.com/news/international/iran-security-chief-rejects-moving-enriched-uranium-out-of-country/article71605648.ece",
       "source": "The Hindu (International)",
@@ -40,30 +52,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/s96w10/article71605649.ece/alternates/LANDSCAPE_1200/2026-08-10T075525Z_2037129379_RC2A6MAKWMCJ_RTRMADP_3_IRAN-CRISIS-REZAEI.JPG",
       "summary": "Iran's Supreme National Security Council secretary rejected moving enriched uranium abroad. Rezaei stated the material is a national asset intended for domestic use. No enriched nuclear material will leave the country, he declared. \"Not even a tiny bit of enriched nuclear material will leave Iran; such materials constitute a major asset and national wealth for the Iranian people, intended for use within the country,\" says Mr.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone",
-      "url": "https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-20T19:52:44+00:00",
-      "image_url": "https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg",
-      "summary": "Ukrainian forces used a hexacopter drone to evacuate a soldier with leg injuries from the front lines. The military described the operation as a first. Fellow servicemen called the rescued soldier a hero for strapping himself to the aircraft. He returned safely to his unit. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump Says Ukraine Has To Want To Settle War",
-      "url": "https://www.ndtv.com/world-news/donald-trump-says-ukraine-has-to-want-to-settle-war-12212527#publisher=newsstand",
-      "source": "NDTV World",
-      "sources": [],
-      "published_at": "2026-10-20T19:16:25+00:00",
-      "image_url": "https://c.ndtvimg.com/2026-10/jrajsh1k_donald-trump_625x300_01_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "summary": "Trump claimed Russia holds the advantage in the war. He described the country as a big machine that keeps grinding forward. He noted that Moscow has already captured a very large piece of land. This framing suggests Ukraine must seek a settlement. Trump suggested Moscow had the upper hand in the fight because \"Russia is a big machine - they just keep grinding forward, and that's what they've done.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -296,6 +284,18 @@
       "translations": {}
     },
     {
+      "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
+      "url": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-19T09:08:34+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db",
+      "summary": "Three people died in Japanese float crushes this weekend. Akihiro Nabae, deputy mayor of Saijo, was trapped under a float. Two other men died in similar incidents elsewhere in the country. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Trump Again Criticizes Zelenskyy, Says Open To Meeting With Putin And Xi",
       "url": "https://www.rferl.org/a/ukraine-russia-trump-putin-zelenskyy-war/33878954.html",
       "source": "Radio Free Europe / Liberty",
@@ -308,452 +308,452 @@
       "translations": {}
     },
     {
-      "title": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
-      "url": "https://www.amarujala.com/world/drone-strike-market-disputed-african-region-abyei-sudan-south-sudan-attack-2026-10-21",
+      "title": "एसआईआर के खिलाफ प्रदर्शनों का विदेशी कनेक्शन?: सिंघम की फंडिंग पर अमेरिकी जांच, रिपोर्ट में भारत का",
+      "url": "https://www.amarujala.com/world/foreign-connection-in-protests-against-sir-us-probe-into-singham-funding-india-also-mentioned-in-the-report-2026-10-21",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-21T07:08:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/24/south-sudan_da87d6652c2ec6c88430b3de2ac79daf.jpeg?w=1200&dpr=1.0",
-      "summary": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमले में 153 लोगों की मौत हो गई। अभी तक हमले के जिम्मेदार की पहचान नहीं हुई है। अफ्रीका: सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
-          "summary": "सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमले में 153 लोगों की मौत हो गई। अभी तक हमले के जिम्मेदार की पहचान नहीं हुई है। अफ्रीका: सूडान और दक्षिण सूडान के बीच विवादित क्षेत्र में ड्रोन हमला, 153 लोगों की मौत; किसने बनाया निशाना?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
-      "url": "https://www.amarujala.com/world/zelenskyy-says-early-warning-system-resumes-following-rubio-call-2026-10-21",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-21T06:53:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/02/ukraine-peace-talk_98df1a44776d32f040991391558de92c.jpeg?w=1200&dpr=1.0",
-      "summary": "रुबियो से बातचीत के बाद यूक्रेन को रूसी मिसाइल हमलों की पूर्व सूचना फिर मिलेगी। जेलेंस्की ने इस बातचीत के नतीजों पर अपनी प्रतिक्रिया दी है। रुबियो से बातचीत का असर: यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
-          "summary": "रुबियो से बातचीत के बाद यूक्रेन को रूसी मिसाइल हमलों की पूर्व सूचना फिर मिलेगी। जेलेंस्की ने इस बातचीत के नतीजों पर अपनी प्रतिक्रिया दी है। रुबियो से बातचीत का असर: यूक्रेन को अब फिर मिलेगी रूसी मिसाइल हमलों की पहले से सूचना; जेलेंस्की ने क्या कहा?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद; किन बाधाओं को दूर करना होगा?",
-      "url": "https://www.amarujala.com/business/business-diary/digital-gold-market-growth-170-billion-dollar-by-2031-wgc-bcg-report-2026-10-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-21T00:16:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/16/gold_e804ae2e0c9366b7825c8beb11316525.jpeg?w=1200&dpr=1.0",
-      "summary": "डिजिटल गोल्ड बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद है। इस वृद्धि के लिए मौजूदा बाधाओं को दूर करना आवश्यक है। डिजिटल गोल्ड की बढ़ती मांग: बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद; किन बाधाओं को दूर करना होगा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद; किन बाधाओं को दूर करना होगा?",
-          "summary": "डिजिटल गोल्ड बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद है। इस वृद्धि के लिए मौजूदा बाधाओं को दूर करना आवश्यक है। डिजिटल गोल्ड की बढ़ती मांग: बाजार 2031 तक 170 अरब डॉलर तक पहुंचने की उम्मीद; किन बाधाओं को दूर करना होगा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ऑनलाइन खरीद बढ़ी, 90 अरब डॉलर के पार होगा कारोबार; पहली छमाही में कितनी रही बिक्री?",
-      "url": "https://www.amarujala.com/business/business-diary/redseer-report-online-shopping-growth-ecommerce-business-90-billion-dollar-2026-10-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-21T00:09:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/06/06/online-shopping_52cbd5ee306c269be93eb8142eec3642.jpeg?w=1200&dpr=1.0",
-      "summary": "रेडसीर रिपोर्ट के अनुसार ऑनलाइन खरीदारी बढ़ी है। पहली छमाही की बिक्री के आंकड़ों से पता चलता है कि कारोबार 90 अरब डॉलर के पार होगा। रेडसीर रिपोर्ट: ऑनलाइन खरीद बढ़ी, 90 अरब डॉलर के पार होगा कारोबार; पहली छमाही में कितनी रही बिक्री?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऑनलाइन खरीद बढ़ी, 90 अरब डॉलर के पार होगा कारोबार; पहली छमाही में कितनी रही बिक्री?",
-          "summary": "रेडसीर रिपोर्ट के अनुसार ऑनलाइन खरीदारी बढ़ी है। पहली छमाही की बिक्री के आंकड़ों से पता चलता है कि कारोबार 90 अरब डॉलर के पार होगा। रेडसीर रिपोर्ट: ऑनलाइन खरीद बढ़ी, 90 अरब डॉलर के पार होगा कारोबार; पहली छमाही में कितनी रही बिक्री?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बाबागंज में अब तक तीन चुनाव, हर बार जीते विनोद सरोज, ऐसा है यहां का सियासी इतिहास",
-      "url": "https://www.amarujala.com/election/uttar-pradesh-election-2027-pratapgarh-babaganj-assembly-seat-history-bjp-sp-bsp-congress-political-equation-2026-10-13",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-21T00:08:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/13/bbgaja-sata-ka-samakaranae_b018872455877d9efba3d8da7601d1f8.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश के प्रतापगढ़ जिले में बाबागंज विधानसभा सीट पर अब तक तीन चुनाव हुए हैं। हर बार विनोद सरोज ने जीत दर्ज की है। बाबागंज में अब तक तीन चुनाव, हर बार जीते विनोद सरोज, ऐसा है यहां का सियासी इतिहास।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बाबागंज में अब तक तीन चुनाव, हर बार जीते विनोद सरोज, ऐसा है यहां का सियासी इतिहास",
-          "summary": "उत्तर प्रदेश के प्रतापगढ़ जिले में बाबागंज विधानसभा सीट पर अब तक तीन चुनाव हुए हैं। हर बार विनोद सरोज ने जीत दर्ज की है। बाबागंज में अब तक तीन चुनाव, हर बार जीते विनोद सरोज, ऐसा है यहां का सियासी इतिहास।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "टाइगर श्रॉफ पर हमले के 4 और आरोपी पकड़े गए; जियो का मेगा IPO; हरियाणा में उधार पर चल रहा मिड-डे मील",
-      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-21-october-2026-updates-on-amar-ujala-news-in-hindi-2026-10-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-20T23:58:49+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0",
-      "summary": "टाइगर श्रॉफ पर हमले के मामले में चार और आरोपी गिरफ्तार किए गए हैं। जियो का मेगा आईपीओ भी प्रमुख खबर है। सुर्खियां: टाइगर श्रॉफ पर हमले के 4 और आरोपी पकड़े गए; जियो का मेगा IPO; हरियाणा में उधार पर चल रहा मिड-डे मील।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "टाइगर श्रॉफ पर हमले के 4 और आरोपी पकड़े गए; जियो का मेगा IPO; हरियाणा में उधार पर चल रहा मिड-डे मील",
-          "summary": "टाइगर श्रॉफ पर हमले के मामले में चार और आरोपी गिरफ्तार किए गए हैं। जियो का मेगा आईपीओ भी प्रमुख खबर है। सुर्खियां: टाइगर श्रॉफ पर हमले के 4 और आरोपी पकड़े गए; जियो का मेगा IPO; हरियाणा में उधार पर चल रहा मिड-डे मील।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "खनिज नीति की समीक्षा करेगी केंद्र सरकार; भारत में एपल का कारोबार एक लाख करोड़ पार",
-      "url": "https://www.amarujala.com/business/business-diary/business-updates-mineral-policy-review-apple-india-business-one-lakh-crore-plus-rbi-sebi-forex-crude-oil-rates-2026-10-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-20T23:38:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0",
-      "summary": "केंद्र सरकार खनिज नीति की समीक्षा करेगी। भारत में एपल का कारोबार एक लाख करोड़ रुपये के पार हो गया है। बिजनेस अपडेट्स: खनिज नीति की समीक्षा करेगी केंद्र सरकार; भारत में एपल का कारोबार एक लाख करोड़ पार।",
+      "published_at": "2026-10-21T05:22:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/esaaaiiaara-varathha-para-vathasha-sagathana-ka-najara_6e61134c466057c02b9faa1e20b76807.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका ने सिंघम संगठन की वित्तीय गतिविधियों की जांच शुरू की है। रिपोर्ट में भारत के संदर्भ का भी उल्लेख किया गया है। यह जांच विदेशी फंडिंग के संदेह पर आधारित है। एसआईआर के खिलाफ प्रदर्शनों में विदेशी कनेक्शन?: सिंघम की फंडिंग पर अमेरिकी जांच, रिपोर्ट में भारत का भी जिक्र। एसआईआर के खिलाफ प्रदर्शनों का विदेशी कनेक्शन?: सिंघम की फंडिंग पर अमेरिकी जांच, रिपोर्ट में भारत का।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "खनिज नीति की समीक्षा करेगी केंद्र सरकार; भारत में एपल का कारोबार एक लाख करोड़ पार",
-          "summary": "केंद्र सरकार खनिज नीति की समीक्षा करेगी। भारत में एपल का कारोबार एक लाख करोड़ रुपये के पार हो गया है। बिजनेस अपडेट्स: खनिज नीति की समीक्षा करेगी केंद्र सरकार; भारत में एपल का कारोबार एक लाख करोड़ पार।",
+          "title": "एसआईआर के खिलाफ प्रदर्शनों का विदेशी कनेक्शन?: सिंघम की फंडिंग पर अमेरिकी जांच, रिपोर्ट में भारत का",
+          "summary": "अमेरिका ने सिंघम संगठन की वित्तीय गतिविधियों की जांच शुरू की है। रिपोर्ट में भारत के संदर्भ का भी उल्लेख किया गया है। यह जांच विदेशी फंडिंग के संदेह पर आधारित है। एसआईआर के खिलाफ प्रदर्शनों में विदेशी कनेक्शन?: सिंघम की फंडिंग पर अमेरिकी जांच, रिपोर्ट में भारत का भी जिक्र। एसआईआर के खिलाफ प्रदर्शनों का विदेशी कनेक्शन?: सिंघम की फंडिंग पर अमेरिकी जांच, रिपोर्ट में भारत का।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "चीन की पांच कंपनियों पर अमेरिकी प्रतिबंध: गूगल के पूर्व इंजीनियर से क्या है कनेक्शन, बीजिंग ने जताई",
-      "url": "https://www.amarujala.com/business/business-diary/beijing-blasts-us-sanctions-on-5-chinese-firms-tied-to-ex-google-engineer-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "title": "महिंद्रा XUV 3XO CNG की बुकिंग शुरू: माइलेज से लेकर फीचर्स तक जानें पूरी डिटेल, क्या है बुकिंग का",
+      "url": "https://www.amarujala.com/automobiles/mahindra-xuv-3xo-cng-bookings-open-india-with-24-7-km-kg-mileage-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T23:38:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/03/12/google-search-computer-laptop_8c849f70eb7a82658cb6a6867f507457.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका ने चीन की पांच कंपनियों पर प्रतिबंध लगाए। बीजिंग ने इससे नाराजगी जताई। गूगल के पूर्व इंजीनियर से इन कंपनियों का कनेक्शन बताया गया। चीन की पांच कंपनियों पर अमेरिकी प्रतिबंध: गूगल के पूर्व इंजीनियर से क्या है कनेक्शन, बीजिंग ने जताई नाराजगी?",
+      "published_at": "2026-10-21T05:22:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/15/mahathara-xuv-3xo-cng_16046a1b553daa66eaed8bba72aa7456.jpeg?w=1200&dpr=1.0",
+      "summary": "महिंद्रा ने XUV 3XO के CNG मॉडल की बुकिंग भारत में शुरू की है। कंपनी ने माइलेज और फीचर्स की पूरी जानकारी प्रकाशित की है। यह कॉम्पैक्ट एसयूवी श्रेणी में नया विकल्प है। महिंद्रा ने भारतीय बाजार में अपनी कॉम्पैक्ट एसयूवी XUV 3XO के सीएनजी मॉडल की बुकिंग आधिकारिक तौर पर शुरू कर दी है। महिंद्रा XUV 3XO CNG की बुकिंग शुरू: माइलेज से लेकर फीचर्स तक जानें पूरी डिटेल, क्या है बुकिंग का।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चीन की पांच कंपनियों पर अमेरिकी प्रतिबंध: गूगल के पूर्व इंजीनियर से क्या है कनेक्शन, बीजिंग ने जताई",
-          "summary": "अमेरिका ने चीन की पांच कंपनियों पर प्रतिबंध लगाए। बीजिंग ने इससे नाराजगी जताई। गूगल के पूर्व इंजीनियर से इन कंपनियों का कनेक्शन बताया गया। चीन की पांच कंपनियों पर अमेरिकी प्रतिबंध: गूगल के पूर्व इंजीनियर से क्या है कनेक्शन, बीजिंग ने जताई नाराजगी?",
+          "title": "महिंद्रा XUV 3XO CNG की बुकिंग शुरू: माइलेज से लेकर फीचर्स तक जानें पूरी डिटेल, क्या है बुकिंग का",
+          "summary": "महिंद्रा ने XUV 3XO के CNG मॉडल की बुकिंग भारत में शुरू की है। कंपनी ने माइलेज और फीचर्स की पूरी जानकारी प्रकाशित की है। यह कॉम्पैक्ट एसयूवी श्रेणी में नया विकल्प है। महिंद्रा ने भारतीय बाजार में अपनी कॉम्पैक्ट एसयूवी XUV 3XO के सीएनजी मॉडल की बुकिंग आधिकारिक तौर पर शुरू कर दी है। महिंद्रा XUV 3XO CNG की बुकिंग शुरू: माइलेज से लेकर फीचर्स तक जानें पूरी डिटेल, क्या है बुकिंग का।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "दर्शन के लिए उमड़ रही भीड़, बना नया रिकॉर्ड, श्रद्धालुओं का आंकड़ा 60 लाख पार",
-      "url": "https://www.amarujala.com/dehradun/char-dham-yatra-2026-crowds-throng-for-darshan-number-of-pilgrims-crosses-60-lakh-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "title": "'जेलर 2' बनी तीसरी सबसे ज्यादा कमाई करने वाली भारतीय फिल्म,जानें 'नई नवेली' और 'प्रहार' का कलेक्शन",
+      "url": "https://www.amarujala.com/entertainment/box-office-collection-jailer-2-worldwide-3rd-biggest-indian-hit-of-2026-nayyi-navelli-prahaar-drishyam-3-ranab-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T23:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/24/carathhama-yatara-ma-bhaugdha_4aa38d15ffbeb7c82655c1732ee1f1ce.jpeg?w=1200&dpr=1.0",
-      "summary": "चारधाम यात्रा के अंतिम चरण में श्रद्धालुओं की संख्या 60 लाख पार हो गई। केदारनाथ और बदरीनाथ में दर्शन के लिए भारी भीड़ उमड़ रही है। चारधाम यात्रा अंतिम चरण में है। केदारनाथ व बदरीनाथ धाम में दर्शन के लिए श्रद्धालुओं की काफी भीड़ है। दर्शन के लिए उमड़ रही भीड़, बना नया रिकॉर्ड, श्रद्धालुओं का आंकड़ा 60 लाख पार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दर्शन के लिए उमड़ रही भीड़, बना नया रिकॉर्ड, श्रद्धालुओं का आंकड़ा 60 लाख पार",
-          "summary": "चारधाम यात्रा के अंतिम चरण में श्रद्धालुओं की संख्या 60 लाख पार हो गई। केदारनाथ और बदरीनाथ में दर्शन के लिए भारी भीड़ उमड़ रही है। चारधाम यात्रा अंतिम चरण में है। केदारनाथ व बदरीनाथ धाम में दर्शन के लिए श्रद्धालुओं की काफी भीड़ है। दर्शन के लिए उमड़ रही भीड़, बना नया रिकॉर्ड, श्रद्धालुओं का आंकड़ा 60 लाख पार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रात के नौ बजते ही बिगड़ने लगती है हवा, पीएम 10 का स्तर 428 पहुंचा, हवा की सुस्त रफ्तार ने बढ़ाई",
-      "url": "https://www.amarujala.com/delhi/air-quality-begins-to-deteriorate-as-soon-as-9-pm-pm10-levels-reach-428-while-sluggish-wind-speeds-exacerbate-2026-10-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-20T23:24:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/10/thall-ka-hava-ma-ghal-paral-ka-thhaaa_95bd7186dc0b3f1002ecffe0b6036695.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली में रात नौ बजे के बाद हवा की गुणवत्ता बिगड़ने लगती है। सीपीसीबी के आंकड़ों के अनुसार पीएम 10 का स्तर 428 तक पहुंच गया। दिल्ली में रात के 9 बजते ही हवा की गुणवत्ता बिगड़ने का रुझान सामने आया है। केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी) के अलीपुर निगरानी केंद्र के 16 से 20 अक्तूबर तक के आंकड़ों में रात 9 बजे के आसपास पीएम 10 के स्तर में काफी उतार-चढ़ाव दिखा।",
+      "published_at": "2026-10-21T05:21:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/17/bkasa-oifasa-raparata_50b978ee70cf80b9408b4052e323a967.jpeg?w=1200&dpr=1.0",
+      "summary": "रजनीकांत अभिनीत 'जेलर 2' ने विश्वव्यापी स्तर पर 500 करोड़ रुपये की कमाई की है। यह अब तीसरी सबसे अधिक कमाई करने वाली भारतीय फिल्म बन गई है। दशहरा छुट्टियों ने इसकी बॉक्स ऑफिस कमाई में मदद की। दशहरा की छुट्टी का सबसे ज्यादा जिस फिल्म को फायदा हुआ है वह रजनीकांत स्टारर 'जेलर 2' है। इस मूवी ने दुनियाभर में 500 करोड़ का आंकड़ा पार कर लिया है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रात के नौ बजते ही बिगड़ने लगती है हवा, पीएम 10 का स्तर 428 पहुंचा, हवा की सुस्त रफ्तार ने बढ़ाई",
-          "summary": "दिल्ली में रात नौ बजे के बाद हवा की गुणवत्ता बिगड़ने लगती है। सीपीसीबी के आंकड़ों के अनुसार पीएम 10 का स्तर 428 तक पहुंच गया। दिल्ली में रात के 9 बजते ही हवा की गुणवत्ता बिगड़ने का रुझान सामने आया है। केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी) के अलीपुर निगरानी केंद्र के 16 से 20 अक्तूबर तक के आंकड़ों में रात 9 बजे के आसपास पीएम 10 के स्तर में काफी उतार-चढ़ाव दिखा।",
+          "title": "'जेलर 2' बनी तीसरी सबसे ज्यादा कमाई करने वाली भारतीय फिल्म,जानें 'नई नवेली' और 'प्रहार' का कलेक्शन",
+          "summary": "रजनीकांत अभिनीत 'जेलर 2' ने विश्वव्यापी स्तर पर 500 करोड़ रुपये की कमाई की है। यह अब तीसरी सबसे अधिक कमाई करने वाली भारतीय फिल्म बन गई है। दशहरा छुट्टियों ने इसकी बॉक्स ऑफिस कमाई में मदद की। दशहरा की छुट्टी का सबसे ज्यादा जिस फिल्म को फायदा हुआ है वह रजनीकांत स्टारर 'जेलर 2' है। इस मूवी ने दुनियाभर में 500 करोड़ का आंकड़ा पार कर लिया है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार",
-      "url": "https://www.amarujala.com/himachal-pradesh/hamirpur-hp/monitoring-systems-to-be-installed-at-20-locations-in-lahaul-spiti-water-levels-will-indicate-the-rate-of-glac-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "title": "अनुपम ने किया सिंगर का समर्थन, शेयर किया पोस्ट; सोना महापात्रा ने सामने रखा दूसरा पक्ष",
+      "url": "https://www.amarujala.com/entertainment/bollywood/anupam-kher-supported-daler-mehndi-amid-uttarakhand-show-controversy-sona-mahapatra-also-shared-an-insta-post-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T23:24:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/galshayara-para-madarata-khatara-ka-haga-pakhata-taha_9dad35d8819735a10d3a37366b2e59c5.jpeg?w=1200&dpr=1.0",
-      "summary": "लाहौल-स्पीति में 20 स्थानों पर मॉनिटरिंग सिस्टम लगाए जाएंगे। पानी के स्तर और तापमान से ग्लेशियर पिघलने की रफ्तार का पता चलेगा। हिमालयी क्षेत्रों में ग्लेशियरों के पिघलने से होने वाले बदलावों का आकलन अब भूजल स्तर, तापमान और पानी के बहाव से जुड़े आंकड़ों के आधार पर भी किया जाएगा। लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार।",
+      "published_at": "2026-10-21T05:18:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/thalra-mahatha-anapama-khara_2a58147fe1483c8700136d42df0db299.jpeg?w=1200&dpr=1.0",
+      "summary": "अनुपम खेर ने सोशल मीडिया पर सिंगर दलेर मेहंदी का समर्थन किया है। सोना महापात्रा ने इस मामले में दूसरा पक्ष प्रस्तुत किया है। प्रदर्शन के दौरान लगे आरोपों के बाद यह बयान आया है। सिंगर दलेर मेहंदी पर प्रदर्शन के दौरान लगे आरोपों के बाद फिल्मी दुनिया के कई सितारों ने उनका साथ दिया है। एक्टर अनुपम खेर ने उनका समर्थन देते हुए सोशल मीडिया पर अपने विचार व्यक्त किया।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार",
-          "summary": "लाहौल-स्पीति में 20 स्थानों पर मॉनिटरिंग सिस्टम लगाए जाएंगे। पानी के स्तर और तापमान से ग्लेशियर पिघलने की रफ्तार का पता चलेगा। हिमालयी क्षेत्रों में ग्लेशियरों के पिघलने से होने वाले बदलावों का आकलन अब भूजल स्तर, तापमान और पानी के बहाव से जुड़े आंकड़ों के आधार पर भी किया जाएगा। लाहौल-स्पीति में 20 जगह लगेंगे मॉनिटरिंग सिस्टम, पानी के स्तर से पता चलेगी ग्लेशियर पिघलने की रफ्तार।",
+          "title": "अनुपम ने किया सिंगर का समर्थन, शेयर किया पोस्ट; सोना महापात्रा ने सामने रखा दूसरा पक्ष",
+          "summary": "अनुपम खेर ने सोशल मीडिया पर सिंगर दलेर मेहंदी का समर्थन किया है। सोना महापात्रा ने इस मामले में दूसरा पक्ष प्रस्तुत किया है। प्रदर्शन के दौरान लगे आरोपों के बाद यह बयान आया है। सिंगर दलेर मेहंदी पर प्रदर्शन के दौरान लगे आरोपों के बाद फिल्मी दुनिया के कई सितारों ने उनका साथ दिया है। एक्टर अनुपम खेर ने उनका समर्थन देते हुए सोशल मीडिया पर अपने विचार व्यक्त किया।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
-      "url": "https://www.amarujala.com/world/iran-us-peace-proposal-agreement-possible-this-week-six-billion-dollar-fund-relief-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "title": "कभी कांग्रेस का गढ़ रही सलोन सीट पर अब भाजपा का दबदबा, ऐसा है यहां का सियासी इतिहास",
+      "url": "https://www.amarujala.com/election/uttar-pradesh-election-2027-raebareli-salon-assembly-seat-history-bjp-sp-bsp-congress-political-equation-2026-10-14",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T23:04:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/14/us-iran-nuclear-deal_8d54ac9508f628be26709be7ce7368eb.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान और अमेरिका के बीच इस हफ्ते सहमति बनेगी। छह अरब डॉलर के फंड में रियायत मिलने की संभावना है। शांति प्रस्ताव पर चर्चा जारी है।: ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
-          "summary": "ईरान और अमेरिका के बीच इस हफ्ते सहमति बनेगी। छह अरब डॉलर के फंड में रियायत मिलने की संभावना है। शांति प्रस्ताव पर चर्चा जारी है।: ईरान-अमेरिका में इस हफ्ते सहमति संभव, छह अरब डॉलर के फंड में मिल सकती है रियायत?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दशहरा से बढ़ी ठंड, 24-25 अक्तूबर को वेस्टर्न डिस्टर्बेंस से होगी बादलों की आवाजाही, बारिश की आशंका",
-      "url": "https://www.amarujala.com/delhi/cold-weather-has-intensified-since-dussehra-a-western-disturbance-is-expected-to-bring-cloud-cover-on-october-2026-10-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-20T22:54:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/12/20/thall-ma-kahara-oura-thada_5d25f74443baa2c95da59455b5f61075.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली में 24 और 25 अक्टूबर को वेस्टर्न डिस्टर्बेंस के कारण बादल और बारिश की संभावना है। पिछले सप्ताह से अधिकतम तापमान 30 डिग्री सेल्सियस के आसपास बना हुआ है। अक्तूबर के द्वितीय पाक्षिक में गुलाबी सर्दी राजधानीवासियों को सुबह-शाम की ठंड का अहसास कराने लगी है। पिछले एक सप्ताह से दिन में अधिकतम तापमान जहां 30 डिग्री सेल्सियस के आसपास बना हुआ है।",
+      "published_at": "2026-10-21T05:08:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/14/salna-sata-ka-samakaranae_68535b805e73eddaa8cadbe43bdd6f07.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश की सलोन विधानसभा सीट पर भाजपा का दबदबा बढ़ा है। यह सीट पहले कांग्रेस का गढ़ मानी जाती थी। 2027 चुनावों के लिए राजनीतिक समीकरण बदल रहे हैं। कभी कांग्रेस का गढ़ रही सलोन सीट पर अब भाजपा का दबदबा, ऐसा है यहां का सियासी इतिहास।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दशहरा से बढ़ी ठंड, 24-25 अक्तूबर को वेस्टर्न डिस्टर्बेंस से होगी बादलों की आवाजाही, बारिश की आशंका",
-          "summary": "दिल्ली में 24 और 25 अक्टूबर को वेस्टर्न डिस्टर्बेंस के कारण बादल और बारिश की संभावना है। पिछले सप्ताह से अधिकतम तापमान 30 डिग्री सेल्सियस के आसपास बना हुआ है। अक्तूबर के द्वितीय पाक्षिक में गुलाबी सर्दी राजधानीवासियों को सुबह-शाम की ठंड का अहसास कराने लगी है। पिछले एक सप्ताह से दिन में अधिकतम तापमान जहां 30 डिग्री सेल्सियस के आसपास बना हुआ है।",
+          "title": "कभी कांग्रेस का गढ़ रही सलोन सीट पर अब भाजपा का दबदबा, ऐसा है यहां का सियासी इतिहास",
+          "summary": "उत्तर प्रदेश की सलोन विधानसभा सीट पर भाजपा का दबदबा बढ़ा है। यह सीट पहले कांग्रेस का गढ़ मानी जाती थी। 2027 चुनावों के लिए राजनीतिक समीकरण बदल रहे हैं। कभी कांग्रेस का गढ़ रही सलोन सीट पर अब भाजपा का दबदबा, ऐसा है यहां का सियासी इतिहास।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "छह माह से 12 हजार स्कूलों की करीब 70 करोड़ रुपये की पोषण राशि बकाया, उधारी से चल रहा मिड-डे मील",
-      "url": "https://www.amarujala.com/chandigarh/nutrition-funds-amounting-to-approximately-70-crore-remain-unpaid-to-12000-schools-for-past-six-months-mid-day-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "title": "'ड्रग्स की समस्या को करेंगे खत्म': गृह मंत्री अमित शाह ने लिया नशा-मुक्त भारत का संकल्प, तारीख भी",
+      "url": "https://www.amarujala.com/india-news/amit-shah-announces-drug-free-india-by-2029-police-commemoration-day-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T22:44:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/uthhara-sa-cal-raha-mada-da-mal_f5e9364d889712fb0d520c0430e48d88.jpeg?w=1200&dpr=1.0",
-      "summary": "छह माह से 12 हजार स्कूलों की 70 करोड़ रुपये की पोषण राशि बकाया है। रसोइयों को मासिक मानदेय और सामग्री खरीदने के लिए उधार पर निर्भर रहना पड़ रहा है। रसोइयों को छह हजार रुपये मासिक मानदेय राज्य सरकार और एक हजार रुपये केंद्र सरकार की ओर से मिलता है। स्कूलों को सब्जी, गैस, दूध, दही और गुड़ जैसी चीजें भी खरीदनी पड़ती हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छह माह से 12 हजार स्कूलों की करीब 70 करोड़ रुपये की पोषण राशि बकाया, उधारी से चल रहा मिड-डे मील",
-          "summary": "छह माह से 12 हजार स्कूलों की 70 करोड़ रुपये की पोषण राशि बकाया है। रसोइयों को मासिक मानदेय और सामग्री खरीदने के लिए उधार पर निर्भर रहना पड़ रहा है। रसोइयों को छह हजार रुपये मासिक मानदेय राज्य सरकार और एक हजार रुपये केंद्र सरकार की ओर से मिलता है। स्कूलों को सब्जी, गैस, दूध, दही और गुड़ जैसी चीजें भी खरीदनी पड़ती हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कन्याकुमारी से जम्मू तक धार्मिक एकता का महाकुंभ: आठ राज्यों से गुजरी मोरारी बापू की स्वस्तिक रामकथा",
-      "url": "https://www.amarujala.com/jammu/grand-confluence-of-religious-unity-from-kanyakumari-to-jammu-morari-bapu-swastik-ramkatha-yatra-traversed-ei-2026-10-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-20T22:30:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/marara-bpa_f09bf89707ac26705f58684e345ed8f5.jpeg?w=1200&dpr=1.0",
-      "summary": "मोरारी बापू की स्वस्तिक रामकथा यात्रा मंगलवार को जम्मू पहुंची। यह यात्रा कन्याकुमारी से शुरू होकर आठ राज्यों के धार्मिक स्थलों से गुजरी। दक्षिण से उत्तर भारत तक आठ राज्यों के धार्मिक और ऐतिहासिक स्थलों से गुजर रही यात्रा ने देश की विविध धार्मिक और सांस्कृतिक परंपराओं को जोड़ने का संदेश दिया। कन्याकुमारी से जम्मू तक धार्मिक एकता का महाकुंभ: आठ राज्यों से गुजरी मोरारी बापू की स्वस्तिक रामकथा।",
+      "published_at": "2026-10-21T05:07:55+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/amata-shaha-katharaya-gaha-matara_fde4b4e962be6eb1db1bb9eb2f4fa2c1.jpeg?w=1200&dpr=1.0",
+      "summary": "गृह मंत्री अमित शाह ने 2029 तक नशा-मुक्त भारत का लक्ष्य घोषित किया। यह संकल्प पुलिस स्मृति दिवस पर लिया गया। इस पहल का उद्देश्य देश में ड्रग्स की समस्या को समाप्त करना है। 'ड्रग्स की समस्या को करेंगे खत्म': गृह मंत्री अमित शाह ने लिया नशा-मुक्त भारत का संकल्प, तारीख भी।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कन्याकुमारी से जम्मू तक धार्मिक एकता का महाकुंभ: आठ राज्यों से गुजरी मोरारी बापू की स्वस्तिक रामकथा",
-          "summary": "मोरारी बापू की स्वस्तिक रामकथा यात्रा मंगलवार को जम्मू पहुंची। यह यात्रा कन्याकुमारी से शुरू होकर आठ राज्यों के धार्मिक स्थलों से गुजरी। दक्षिण से उत्तर भारत तक आठ राज्यों के धार्मिक और ऐतिहासिक स्थलों से गुजर रही यात्रा ने देश की विविध धार्मिक और सांस्कृतिक परंपराओं को जोड़ने का संदेश दिया। कन्याकुमारी से जम्मू तक धार्मिक एकता का महाकुंभ: आठ राज्यों से गुजरी मोरारी बापू की स्वस्तिक रामकथा।",
+          "title": "'ड्रग्स की समस्या को करेंगे खत्म': गृह मंत्री अमित शाह ने लिया नशा-मुक्त भारत का संकल्प, तारीख भी",
+          "summary": "गृह मंत्री अमित शाह ने 2029 तक नशा-मुक्त भारत का लक्ष्य घोषित किया। यह संकल्प पुलिस स्मृति दिवस पर लिया गया। इस पहल का उद्देश्य देश में ड्रग्स की समस्या को समाप्त करना है। 'ड्रग्स की समस्या को करेंगे खत्म': गृह मंत्री अमित शाह ने लिया नशा-मुक्त भारत का संकल्प, तारीख भी।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी? किया खुलासा",
-      "url": "https://www.amarujala.com/world/prince-harry-says-he-wants-to-work-out-relationship-with-brother-and-father-2026-10-21",
-      "source": "Amar Ujala World",
+      "title": "खूब पानी पीने के बाद भी सूखता है गला? शरीर में इन 6 कारणों से हो सकती है परेशानी",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/why-does-your-mouth-feel-dry-even-after-drinking-plenty-of-water-6-possible-causes-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T20:45:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/12/parasa-hara_5e2f06751bd9dc91cf2d0afbdcf6d2a4.jpeg?w=1200&dpr=1.0",
-      "summary": "प्रिंस हैरी के पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारने की इच्छा का खुलासा हुआ है। ब्रिटेन के रॉयल फैमिली के भीतर यह संभावित बदलाव ध्यान खींच रहा है। स्रोत में इसकी पुष्टि के लिए कोई और विवरण उपलब्ध नहीं है। ब्रिटेन: पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी?",
-      "region": "Europe & Russia",
+      "published_at": "2026-10-21T05:04:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/dry-throat-causes_4eec9d0db25bc2c687bf6a6ef61d473c.jpeg?w=1200&dpr=1.0",
+      "summary": "लगातार प्यास और सूखा गला केवल मौसम या दवाओं का असर नहीं हो सकता। यह कुछ गंभीर स्वास्थ्य समस्याओं का संकेत भी दे सकता है। शरीर में इन छह कारणों की जांच जरूरी है। Dry Throat Symptoms: कई बार गले में सूखापन मौसम में बदलाव, मुंह से सांस लेने, अधिक चाय-कॉफी पीने या कुछ दवाओं के सेवन के कारण हो सकता है।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी? किया खुलासा",
-          "summary": "प्रिंस हैरी के पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारने की इच्छा का खुलासा हुआ है। ब्रिटेन के रॉयल फैमिली के भीतर यह संभावित बदलाव ध्यान खींच रहा है। स्रोत में इसकी पुष्टि के लिए कोई और विवरण उपलब्ध नहीं है। ब्रिटेन: पिता किंग चार्ल्स तृतीय और भाई प्रिंस विलियम से संबंध सुधारना चाहते हैं प्रिंस हैरी?",
-          "region": "यूरोप और रूस"
+          "title": "खूब पानी पीने के बाद भी सूखता है गला? शरीर में इन 6 कारणों से हो सकती है परेशानी",
+          "summary": "लगातार प्यास और सूखा गला केवल मौसम या दवाओं का असर नहीं हो सकता। यह कुछ गंभीर स्वास्थ्य समस्याओं का संकेत भी दे सकता है। शरीर में इन छह कारणों की जांच जरूरी है। Dry Throat Symptoms: कई बार गले में सूखापन मौसम में बदलाव, मुंह से सांस लेने, अधिक चाय-कॉफी पीने या कुछ दवाओं के सेवन के कारण हो सकता है।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
-      "url": "https://www.amarujala.com/world/italy-s-meloni-approves-tougher-measures-to-crack-down-on-protests-after-milan-riots-2026-10-21",
-      "source": "Amar Ujala World",
+      "title": "पहली करवाचौथ की शाम को बनाएं यादगार, इन जगहों पर मिलेगा चांद का खूबसूरत नजारा",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/travel/make-your-first-kkarwa-chauth-special-must-visit-here-unique-spots-with-partner-view-the-moon-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T20:13:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/01/09/giorgia-meloni_f5eaa24101002f06c3737edc1ac554b4.jpeg?w=1200&dpr=1.0",
-      "summary": "इटली की सरकार ने दंगों के बाद हिंसक प्रदर्शन पर पांच साल की जेल की सख्त सजा लागू की है। नाबालिगों के लिए कानून में संभावित बदलावों पर भी चर्चा हो रही है। यह कदम सार्वजनिक व्यवस्था को सुदृढ़ करने के उद्देश्य से उठाया गया है। इटली: दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
-      "region": "Europe & Russia",
+      "published_at": "2026-10-21T05:03:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/catha-thakhana-ka-le-bsata-ha-ya-jagaha_ce53938cd35e75e0cd8016e2fbf6e0ff.jpeg?w=1200&dpr=1.0",
+      "summary": "पहली करवा चौथ पर चांद देखने के लिए विशेष स्थानों की सूची जारी हुई है। इन जगहों से नजारा अधिक खूबसूरत होगा। यह सूची त्योहार की तैयारी में मददगार साबित होगी। पहली करवा चौथ पर चांद देखने के लिए चुनें ये खास जगहें। पहली करवाचौथ की शाम को बनाएं यादगार, इन जगहों पर मिलेगा चांद का खूबसूरत नजारा।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
-          "summary": "इटली की सरकार ने दंगों के बाद हिंसक प्रदर्शन पर पांच साल की जेल की सख्त सजा लागू की है। नाबालिगों के लिए कानून में संभावित बदलावों पर भी चर्चा हो रही है। यह कदम सार्वजनिक व्यवस्था को सुदृढ़ करने के उद्देश्य से उठाया गया है। इटली: दंगों के बाद सरकार सख्त, हिंसक प्रदर्शन पर पांच साल की जेल; नाबालिगों के लिए क्या बदलेगा कानून?",
-          "region": "यूरोप और रूस"
+          "title": "पहली करवाचौथ की शाम को बनाएं यादगार, इन जगहों पर मिलेगा चांद का खूबसूरत नजारा",
+          "summary": "पहली करवा चौथ पर चांद देखने के लिए विशेष स्थानों की सूची जारी हुई है। इन जगहों से नजारा अधिक खूबसूरत होगा। यह सूची त्योहार की तैयारी में मददगार साबित होगी। पहली करवा चौथ पर चांद देखने के लिए चुनें ये खास जगहें। पहली करवाचौथ की शाम को बनाएं यादगार, इन जगहों पर मिलेगा चांद का खूबसूरत नजारा।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार",
-      "url": "https://www.amarujala.com/world/world-updates-asim-munir-iran-visit-west-asia-russia-ukraine-tension-nepal-bangladesh-politics-crime-news-2026-10-21",
-      "source": "Amar Ujala World",
+      "title": "अब गाड़ी चलाते समय खुद हर जानकारी निकालेगा जेमिनी: एंड्रॉयड ऑटो पर आया पर्सनल इंटेलिजेंस फीचर, कैसे",
+      "url": "https://www.amarujala.com/technology/tech-diary/google-gemini-comes-android-auto-personal-intelligence-check-flights-more-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T20:00:41+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान के शीर्ष नेताओं ने पाकिस्तानी आईएसआई प्रमुख आसिम मुनीर से मुलाकात की। इसी दौरान ब्रिटेन ने जासूसी के दो आरोपियों को फिर से गिरफ्तार किया। दोनों घटनाएँ अलग-अलग क्षेत्रों में हुईं। वर्ल्ड डायरी: ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-10-21T04:58:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/edarayada-oita-para-aaya-parasanal-italjasa-facara_8d5e4ad60cc27b8c0e3fdb7405305f76.jpeg",
+      "summary": "एंड्रॉयड ऑटो में जेमिनी का पर्सनल इंटेलिजेंस फीचर शामिल किया गया है। अब गाड़ी चलाते समय यह स्वतः आवश्यक जानकारी प्रदान करेगा। यह सुविधा ड्राइविंग के दौरान उपयोगी होगी। अब गाड़ी चलाते समय खुद हर जानकारी निकालेगा जेमिनी: एंड्रॉयड ऑटो पर आया पर्सनल इंटेलिजेंस फीचर, कैसे करेगा काम?",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार",
-          "summary": "ईरान के शीर्ष नेताओं ने पाकिस्तानी आईएसआई प्रमुख आसिम मुनीर से मुलाकात की। इसी दौरान ब्रिटेन ने जासूसी के दो आरोपियों को फिर से गिरफ्तार किया। दोनों घटनाएँ अलग-अलग क्षेत्रों में हुईं। वर्ल्ड डायरी: ईरान के शीर्ष नेताओं और आसिम मुनीर की मुलाकात; ब्रिटेन में जासूसी के दो आरोपी फिर गिरफ्तार।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "अब गाड़ी चलाते समय खुद हर जानकारी निकालेगा जेमिनी: एंड्रॉयड ऑटो पर आया पर्सनल इंटेलिजेंस फीचर, कैसे",
+          "summary": "एंड्रॉयड ऑटो में जेमिनी का पर्सनल इंटेलिजेंस फीचर शामिल किया गया है। अब गाड़ी चलाते समय यह स्वतः आवश्यक जानकारी प्रदान करेगा। यह सुविधा ड्राइविंग के दौरान उपयोगी होगी। अब गाड़ी चलाते समय खुद हर जानकारी निकालेगा जेमिनी: एंड्रॉयड ऑटो पर आया पर्सनल इंटेलिजेंस फीचर, कैसे करेगा काम?",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ईरान की सत्ता बदलने की चाह से हिजबुल्लाह तक, नेतन्याहू की रणनीति में ट्रंप की भूमिका कितनी अहम?",
-      "url": "https://www.patrika.com/world-news/israel-iran-conflict-benjamin-netanyahu-donald-trump-20997845",
+      "title": "US के हिंदू मंदिर में मास शूटिंग की साजिश: 105 सांसदों ने FBI से मांगा जवाब, पूछा- क्या हेट क्राइम",
+      "url": "https://www.patrika.com/world-news/america-aurora-hindu-temple-attack-fbi-hate-crime-investigation-congressmen-20998114",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-20T18:22:28+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp",
-      "summary": "नेतन्याहू ने ईरान की सरकार को सत्ता से हटाने के लक्ष्य की पुष्टि की। उन्होंने ट्रंप के साथ इस विषय पर चर्चा का उल्लेख किया। यह बयान उत्तरी इजरायल के एक यूनिवर्सिटी में दिया गया। Israel-Iran Conflict: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा है कि उनका देश ईरान की सरकार को सत्ता से हटाने के लक्ष्य के लिए प्रतिबद्ध है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान की सत्ता बदलने की चाह से हिजबुल्लाह तक, नेतन्याहू की रणनीति में ट्रंप की भूमिका कितनी अहम?",
-          "summary": "नेतन्याहू ने ईरान की सरकार को सत्ता से हटाने के लक्ष्य की पुष्टि की। उन्होंने ट्रंप के साथ इस विषय पर चर्चा का उल्लेख किया। यह बयान उत्तरी इजरायल के एक यूनिवर्सिटी में दिया गया। Israel-Iran Conflict: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा है कि उनका देश ईरान की सरकार को सत्ता से हटाने के लक्ष्य के लिए प्रतिबद्ध है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'मुंगेरीलाल के हसीन सपने' देख रहा पाकिस्तान, मक्का पैक्ट के आर्टिकल-2 से उड़ेंगे तोते",
-      "url": "https://hindi.news18.com/world/middle-east-mecca-defence-pact-article-2-pakistan-saudi-arabia-turkey-analysis-india-safe-10924459.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-20T18:13:28+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Mecca_Pact_News-2026-10-a96d3081b1e9f55b17e3dde8cd0db8d6-1200x800.jpg",
-      "summary": "पाकिस्तान मक्का रक्षा समझौते के आर्टिकल-2 को अपनी कूटनीतिक जीत बता रहा है। इसमें हमले पर तीनों देशों की मदद का प्रावधान है, पर सैन्य गारंटी नहीं। भारत इसे कागजी शब्दों तक सीमित मानता है। सऊदी और तुर्की अपने हितों के लिए भारत के खिलाफ नहीं उतरेंगे। मक्का डिफेंस पैक्ट के आर्टिकल-2 को लेकर पाकिस्तान अपनी कूटनीतिक जीत का ढोल पीट रहा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मुंगेरीलाल के हसीन सपने' देख रहा पाकिस्तान, मक्का पैक्ट के आर्टिकल-2 से उड़ेंगे तोते",
-          "summary": "पाकिस्तान मक्का रक्षा समझौते के आर्टिकल-2 को अपनी कूटनीतिक जीत बता रहा है। इसमें हमले पर तीनों देशों की मदद का प्रावधान है, पर सैन्य गारंटी नहीं। भारत इसे कागजी शब्दों तक सीमित मानता है। सऊदी और तुर्की अपने हितों के लिए भारत के खिलाफ नहीं उतरेंगे। मक्का डिफेंस पैक्ट के आर्टिकल-2 को लेकर पाकिस्तान अपनी कूटनीतिक जीत का ढोल पीट रहा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "‘डबल इंजन कुछ और नहीं...’, यूसुफ पठान का प्लॉट विवाद खत्म होते ही TMC का BJP पर हमला",
-      "url": "https://www.abplive.com/news/india/tmc-attacks-bjp-after-gujarat-government-approved-allotment-of-vadodara-disputed-plot-to-yusuf-pathan-3204613",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-20T18:13:22+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/238a74ed7b84dc57febd94c5b179692b17925156152701126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "टीएमसी ने बीजेपी पर यूसुफ पठान के जमीन विवाद को लेकर हमला किया। पार्टी ने गुजरात की सरकार को वॉशिंग मशीन कहा। यह टिप्पणी सोशल मीडिया पर साझा की गई। पश्चिम बंगाल की पूर्व CM ममता बनर्जी की नेतृत्व वाली पार्टी तृणमूल कांग्रेस (TMC) ने बागी सांसद यूसुफ पठान के गुजरात में जमीन विवाद के खत्म होने को लेकर BJP पर हमला किया है.",
+      "published_at": "2026-10-21T04:55:33+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Aurora-Hindu-temple-balaji.webp",
+      "summary": "इलिनोइस के ऑरोरा में हिंदू मंदिर पर हमले की साजिश के बाद 105 अमेरिकी सांसदों ने FBI को पत्र लिखा। उन्होंने इसे संभावित हेट क्राइम मानते हुए निष्पक्ष जांच की मांग की। राजा कृष्णमूर्ति ने इस पहल का नेतृत्व किया। America Hindu temple attack: इलिनोइस के ऑरोरा में स्थित श्री वेंकटेश्वर स्वामी (बालाजी) हिंदू मंदिर में मास शूटिंग की साजिश नाकाम होने के बाद अमेरिकी कांग्रेस में आक्रोश है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘डबल इंजन कुछ और नहीं...’, यूसुफ पठान का प्लॉट विवाद खत्म होते ही TMC का BJP पर हमला",
-          "summary": "टीएमसी ने बीजेपी पर यूसुफ पठान के जमीन विवाद को लेकर हमला किया। पार्टी ने गुजरात की सरकार को वॉशिंग मशीन कहा। यह टिप्पणी सोशल मीडिया पर साझा की गई। पश्चिम बंगाल की पूर्व CM ममता बनर्जी की नेतृत्व वाली पार्टी तृणमूल कांग्रेस (TMC) ने बागी सांसद यूसुफ पठान के गुजरात में जमीन विवाद के खत्म होने को लेकर BJP पर हमला किया है.",
+          "title": "US के हिंदू मंदिर में मास शूटिंग की साजिश: 105 सांसदों ने FBI से मांगा जवाब, पूछा- क्या हेट क्राइम",
+          "summary": "इलिनोइस के ऑरोरा में हिंदू मंदिर पर हमले की साजिश के बाद 105 अमेरिकी सांसदों ने FBI को पत्र लिखा। उन्होंने इसे संभावित हेट क्राइम मानते हुए निष्पक्ष जांच की मांग की। राजा कृष्णमूर्ति ने इस पहल का नेतृत्व किया। America Hindu temple attack: इलिनोइस के ऑरोरा में स्थित श्री वेंकटेश्वर स्वामी (बालाजी) हिंदू मंदिर में मास शूटिंग की साजिश नाकाम होने के बाद अमेरिकी कांग्रेस में आक्रोश है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "नवीन पटनायक ने की सौरव-आशुतोष की रिहाई की मांग, बोले- ‘राष्ट्रीय झंडा फहराना...’",
-      "url": "https://www.abplive.com/news/india/bjd-chief-naveen-patnaik-demands-immediate-release-of-cjp-leaders-saurav-das-and-ashutosh-ranka-3204602",
-      "source": "ABP Live (India)",
+      "title": "किचन में अचानक भड़क उठीं आग की लपटें, घबराईं डॉक्टर तो डिलीवरी बॉय ने किया कुछ ऐसा, बन गया हीरो",
+      "url": "https://www.amarujala.com/bizarre-news/delivery-boy-turns-hero-after-fire-breaks-out-in-doctors-kitchen-video-goes-viral-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T18:13:16+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/ef373d532cee1448c8fc00fd14a0d88817925119146151126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "नवीन पटनायक ने सौरव दास और आशुतोष रांका की रिहाई की मांग की। उन्होंने न्यायिक हिरासत की तुरंत समीक्षा की अपील की। यह बयान कॉकरोच जनता पार्टी के समर्थन में दिया गया। ओडिशा के पूर्व मुख्यमंत्री और मुख्य विपक्षी पार्टी बीजू जनता दल (BJD) के प्रमुख नवीन पटनायक ने मंगलवार (20 अक्टूबर, 2026) को कॉकरोच जनता पार्टी (CJP) के समर्थन में मांग उठाई है.",
+      "published_at": "2026-10-21T04:54:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/kacana-ma-acanaka-bhaugdhaka-utha-aaga-ka-lpata_42fe4870864deff6d6432f969b7757c9.jpeg?w=1200&dpr=1.0",
+      "summary": "एक डॉक्टर की रसोई में अचानक आग लग गई। मौजूद डिलीवरी बॉय ने हिम्मत दिखाकर आग बुझाने में मदद की। घटना का सीसीटीवी वीडियो सोशल मीडिया पर वायरल हो रहा है। डॉक्टर के घर की रसोई में अचानक आग लगने से महिला घबरा गईं। इसी दौरान वहां मौजूद डिलीवरी बॉय ने हिम्मत दिखाई और आग बुझाने में मदद की। किचन में अचानक भड़क उठीं आग की लपटें, घबराईं डॉक्टर तो डिलीवरी बॉय ने किया कुछ ऐसा, बन गया हीरो।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नवीन पटनायक ने की सौरव-आशुतोष की रिहाई की मांग, बोले- ‘राष्ट्रीय झंडा फहराना...’",
-          "summary": "नवीन पटनायक ने सौरव दास और आशुतोष रांका की रिहाई की मांग की। उन्होंने न्यायिक हिरासत की तुरंत समीक्षा की अपील की। यह बयान कॉकरोच जनता पार्टी के समर्थन में दिया गया। ओडिशा के पूर्व मुख्यमंत्री और मुख्य विपक्षी पार्टी बीजू जनता दल (BJD) के प्रमुख नवीन पटनायक ने मंगलवार (20 अक्टूबर, 2026) को कॉकरोच जनता पार्टी (CJP) के समर्थन में मांग उठाई है.",
+          "title": "किचन में अचानक भड़क उठीं आग की लपटें, घबराईं डॉक्टर तो डिलीवरी बॉय ने किया कुछ ऐसा, बन गया हीरो",
+          "summary": "एक डॉक्टर की रसोई में अचानक आग लग गई। मौजूद डिलीवरी बॉय ने हिम्मत दिखाकर आग बुझाने में मदद की। घटना का सीसीटीवी वीडियो सोशल मीडिया पर वायरल हो रहा है। डॉक्टर के घर की रसोई में अचानक आग लगने से महिला घबरा गईं। इसी दौरान वहां मौजूद डिलीवरी बॉय ने हिम्मत दिखाई और आग बुझाने में मदद की। किचन में अचानक भड़क उठीं आग की लपटें, घबराईं डॉक्टर तो डिलीवरी बॉय ने किया कुछ ऐसा, बन गया हीरो।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "'कभी बर्फ से हुई थी व्यापार की शुरुआत...', भारत-US संबंधों पर बोले एस. जयशंकर",
-      "url": "https://www.abplive.com/news/india/indian-foreign-minister-s-jaishankar-india-usa-realtions-trades-marco-rubio-visit-mumbai-3204621",
-      "source": "ABP Live (India)",
+      "title": "दिल्ली एसओएल को मिलेगा नया कैंपस: ताहिरपुर में बनेगा नया परिसर, 50 एकड़ जमीन आवंटित; जानें क्या",
+      "url": "https://www.amarujala.com/education/delhi-sol-to-get-new-campus-in-tahirpur-50-acres-allocated-construction-planned-in-two-years-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T18:12:37+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/cd30f7caa27ec093ff6b3fe7407b918817925185063211484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "एस. जयशंकर ने मुंबई में कहा कि बदलती वैश्विक व्यवस्था में भारत और अमेरिका को व्यापार, प्रौद्योगिकी और ऊर्जा क्षेत्रों में साझेदारी गहरी करनी चाहिए। उन्होंने हिंद-प्रशांत क्षेत्र में शांति और स्थिरता को दोनों देशों का साझा हित बताया। भारत के विदेश मंत्री एस. जयशंकर ने कहा है कि \"बदलती वैश्विक व्यवस्था में भारत और अमेरिका के संबंधों को और मजबूत करने के लिए साझा हितों का विस्तार करना जरूरी है.",
+      "published_at": "2026-10-21T04:48:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/delhi-sol-new-campus_2a674ed1b8486b7fb60211fb402bc26d.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली विश्वविद्यालय के स्कूल ऑफ ओपन लर्निंग के लिए ताहिरपुर में नया परिसर बन रहा है। दिल्ली विकास प्राधिकरण ने इसके लिए 50 एकड़ जमीन आवंटित की है। परिसर दो साल में तैयार होगा। दिल्ली विश्वविद्यालय के स्कूल ऑफ ओपन लर्निंग के छात्रों के लिए ताहिरपुर में नया परिसर बनाया जाएगा। दो साल में तैयार होने वाले इस परिसर में बड़े हॉल बनाए जाएंगे।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'कभी बर्फ से हुई थी व्यापार की शुरुआत...', भारत-US संबंधों पर बोले एस. जयशंकर",
-          "summary": "एस. जयशंकर ने मुंबई में कहा कि बदलती वैश्विक व्यवस्था में भारत और अमेरिका को व्यापार, प्रौद्योगिकी और ऊर्जा क्षेत्रों में साझेदारी गहरी करनी चाहिए। उन्होंने हिंद-प्रशांत क्षेत्र में शांति और स्थिरता को दोनों देशों का साझा हित बताया। भारत के विदेश मंत्री एस. जयशंकर ने कहा है कि \"बदलती वैश्विक व्यवस्था में भारत और अमेरिका के संबंधों को और मजबूत करने के लिए साझा हितों का विस्तार करना जरूरी है.",
+          "title": "दिल्ली एसओएल को मिलेगा नया कैंपस: ताहिरपुर में बनेगा नया परिसर, 50 एकड़ जमीन आवंटित; जानें क्या",
+          "summary": "दिल्ली विश्वविद्यालय के स्कूल ऑफ ओपन लर्निंग के लिए ताहिरपुर में नया परिसर बन रहा है। दिल्ली विकास प्राधिकरण ने इसके लिए 50 एकड़ जमीन आवंटित की है। परिसर दो साल में तैयार होगा। दिल्ली विश्वविद्यालय के स्कूल ऑफ ओपन लर्निंग के छात्रों के लिए ताहिरपुर में नया परिसर बनाया जाएगा। दो साल में तैयार होने वाले इस परिसर में बड़े हॉल बनाए जाएंगे।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "बंगाल की खाड़ी में एक चक्रवात की संभावना!, तमिलनाडु में लौटता मानसून सक्रिय",
-      "url": "https://www.abplive.com/news/india/imd-cyclone-possibility-in-the-bay-of-bengal-northeast-monsoon-active-in-tamil-nadu-and-south-india-3204610",
-      "source": "ABP Live (India)",
+      "title": "पीएम और गृह मंत्री ने वीर जवानों को दी श्रद्धांजलि, बोले- देश नहीं भूलेगा बलिदान",
+      "url": "https://www.amarujala.com/india-news/national-police-commemoration-day-pm-modi-amit-shah-tribute-2026-10-21",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-20T17:52:27+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/20/adff419b7e5748b8f54d5e9d43c6c9f217925147738431484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारतीय मौसम विभाग ने 23 अक्टूबर को दक्षिण-पूर्वी बंगाल की खाड़ी में कम दबाव के क्षेत्र बनने की संभावना जताई है। यह पूर्वानुमान तमिलनाडु में पूर्वोत्तर मानसून के सक्रिय हो जाने और कावेरी डेल्टा में भारी बारिश के बीच आया है। भारत मौसम विभाग (IMD) ने तमिलनाडु में पूर्वोत्तर मानसून के जोर पकड़ने के साथ ही 23 अक्टूबर को दक्षिण-पूर्वी बंगाल की खाड़ी और उससे सटे समुद्र के मध्य हिस्सों में कम दबाव का क्षेत्र बनने की संभावना जताई है.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-10-21T04:48:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/rashhataraya-palsa-samata-thavasa_37953795d6a6f4c6f8694e59e51801b3.jpeg?w=1200&dpr=1.0",
+      "summary": "राष्ट्रीय पुलिस स्मृति दिवस पर प्रधानमंत्री और गृह मंत्री ने वीर जवानों को श्रद्धांजलि दी। उन्होंने कहा कि देश उनका बलिदान नहीं भूलेगा। यह कार्यक्रम देशभर में आयोजित किया गया। राष्ट्रीय पुलिस स्मृति दिवस: पीएम और गृह मंत्री ने वीर जवानों को दी श्रद्धांजलि, बोले- देश नहीं भूलेगा बलिदान national police commemoration day pm modi amit shah tribute।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बंगाल की खाड़ी में एक चक्रवात की संभावना!, तमिलनाडु में लौटता मानसून सक्रिय",
-          "summary": "भारतीय मौसम विभाग ने 23 अक्टूबर को दक्षिण-पूर्वी बंगाल की खाड़ी में कम दबाव के क्षेत्र बनने की संभावना जताई है। यह पूर्वानुमान तमिलनाडु में पूर्वोत्तर मानसून के सक्रिय हो जाने और कावेरी डेल्टा में भारी बारिश के बीच आया है। भारत मौसम विभाग (IMD) ने तमिलनाडु में पूर्वोत्तर मानसून के जोर पकड़ने के साथ ही 23 अक्टूबर को दक्षिण-पूर्वी बंगाल की खाड़ी और उससे सटे समुद्र के मध्य हिस्सों में कम दबाव का क्षेत्र बनने की संभावना जताई है.",
-          "region": "एशिया-प्रशांत"
+          "title": "पीएम और गृह मंत्री ने वीर जवानों को दी श्रद्धांजलि, बोले- देश नहीं भूलेगा बलिदान",
+          "summary": "राष्ट्रीय पुलिस स्मृति दिवस पर प्रधानमंत्री और गृह मंत्री ने वीर जवानों को श्रद्धांजलि दी। उन्होंने कहा कि देश उनका बलिदान नहीं भूलेगा। यह कार्यक्रम देशभर में आयोजित किया गया। राष्ट्रीय पुलिस स्मृति दिवस: पीएम और गृह मंत्री ने वीर जवानों को दी श्रद्धांजलि, बोले- देश नहीं भूलेगा बलिदान national police commemoration day pm modi amit shah tribute।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ट्रेड डील से लेकर QUAD और पाकिस्तान से लेकर होर्मुज तक, अमेरिकी विदेश मंत्री मार्को रूबियो का पूरा",
-      "url": "https://hindi.news18.com/news/nation/marco-rubio-exclusive-interview-india-us-trade-deal-pakistan-rahul-joshi-10924059.html",
+      "title": "'राहुल गांधी ने मेरा बटुआ मार लिया', अमेरिकी राइटर ने दी प्रदर्शन की धमकी, लोग बोले- करवा ली",
+      "url": "https://hindi.news18.com/world/south-asia-us-human-rights-activist-renee-lynn-sarcastic-video-goes-viral-jokingly-accuses-rahul-gandhi-of-theft-ws-l-10924929.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-20T17:48:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Marco_Rubio_Interview2-2026-10-684d4b87be460fe3425e03cca4727527-1200x800.jpg",
-      "summary": "अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा कि भारत-अमेरिका ट्रेड डील कुछ हफ्तों में पूरी होगी। इससे टैरिफ दरों में राहत मिलेगी। उन्होंने रूसी तेल खरीद और पाकिस्तान संबंधों पर अपनी रणनीति भी साझा की। क्वाड समिट को लेकर भी अहम संकेत दिए गए। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर-इन-चीफ राहुल जोशी से खास बातचीत की है.",
+      "published_at": "2026-10-21T04:45:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/rahul-gandhi-2026-10-97c725ec81cdbf1e894d3f4882bdab3f-1200x800.jpg",
+      "summary": "एक अमेरिकी लेखक ने राहुल गांधी पर तंज कसते हुए प्रदर्शन की धमकी दी। उसका वीडियो सोशल मीडिया पर वायरल हो गया। कई लोगों ने इसे अंतरराष्ट्रीय बेइज्जती बताया। US Author on Rahul Gandhi Viral Video: विपक्ष के नेता राहुल गांधी को लेकर एक अमेरिकी राइटर ने दिलचस्प वीडियो डाला है. उन्होंने प्रदर्शनों और इस्तीफे की मांग को लेकर ऐसा तंज कसा है कि लोग इसे लेकर खूब बातें कर रहे हैं.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'राहुल गांधी ने मेरा बटुआ मार लिया', अमेरिकी राइटर ने दी प्रदर्शन की धमकी, लोग बोले- करवा ली",
+          "summary": "एक अमेरिकी लेखक ने राहुल गांधी पर तंज कसते हुए प्रदर्शन की धमकी दी। उसका वीडियो सोशल मीडिया पर वायरल हो गया। कई लोगों ने इसे अंतरराष्ट्रीय बेइज्जती बताया। US Author on Rahul Gandhi Viral Video: विपक्ष के नेता राहुल गांधी को लेकर एक अमेरिकी राइटर ने दिलचस्प वीडियो डाला है. उन्होंने प्रदर्शनों और इस्तीफे की मांग को लेकर ऐसा तंज कसा है कि लोग इसे लेकर खूब बातें कर रहे हैं.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "कार-टेंपो की जोरदार भिड़ंत, तीन लोगों की मौत, 16 घायल; चीखों से दहला इलाका",
+      "url": "https://www.amarujala.com/uttar-pradesh/sonebhadra/car-tempo-collision-at-nadhira-mor-in-sonbhadra-three-dead-16-injured-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T04:43:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/bhashhanae-saugdhaka-hathasa_a1a445947a87f8e0edfb46979dcecb57.jpeg?w=1200&dpr=1.0",
+      "summary": "बभनी और म्योरपुर में कार और टेंपो की भिड़ंत हुई। इस हादसे में तीन लोगों की मौत हो गई और 16 घायल हुए। घायलों को स्थानीय स्वास्थ्य केंद्रों में भर्ती कराया गया। बभनी और म्योरपुर पुलिस ने स्थानीय लोगों की मदद से घायलों को एंबुलेंस के जरिए बभनी और म्योरपुर सामुदायिक स्वास्थ्य केंद्र पहुंचाया। वहां उनका उपचार चल रहा है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कार-टेंपो की जोरदार भिड़ंत, तीन लोगों की मौत, 16 घायल; चीखों से दहला इलाका",
+          "summary": "बभनी और म्योरपुर में कार और टेंपो की भिड़ंत हुई। इस हादसे में तीन लोगों की मौत हो गई और 16 घायल हुए। घायलों को स्थानीय स्वास्थ्य केंद्रों में भर्ती कराया गया। बभनी और म्योरपुर पुलिस ने स्थानीय लोगों की मदद से घायलों को एंबुलेंस के जरिए बभनी और म्योरपुर सामुदायिक स्वास्थ्य केंद्र पहुंचाया। वहां उनका उपचार चल रहा है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "करवा चौथ पर महिलाएं साड़ी खरीदते समय किन चार बातों का ध्यान रखें? एक छोटी सी गलती पड़ सकती है भारी",
+      "url": "https://www.amarujala.com/photo-gallery/utility/karwa-chauth-saree-shopping-4-important-things-women-should-check-before-buying-2026-10-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T04:37:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/karava-catha-ka-le-saugdha-kharathata-samaya-kaya-kaya-bta-thhayana-rakha_90c2c38e2f07ab667742c70405acf135.jpeg?w=1200&dpr=1.0",
+      "summary": "करवा चौथ पर साड़ी खरीदते समय केवल रंग और डिजाइन पर ध्यान न दें। कपड़े की गुणवत्ता, सिलाई और पतलून की जांच जरूरी है। छोटी गलती महंगी पड़ सकती है। करवा चौथ पर साड़ी खरीदते समय केवल रंग और डिजाइन देखकर फैसला न करें। साड़ी खरीदते समय आपको कुछ बातों का विशेष ध्यान देना चाहिए जिनके बारे में आप यहां जान सकते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "करवा चौथ पर महिलाएं साड़ी खरीदते समय किन चार बातों का ध्यान रखें? एक छोटी सी गलती पड़ सकती है भारी",
+          "summary": "करवा चौथ पर साड़ी खरीदते समय केवल रंग और डिजाइन पर ध्यान न दें। कपड़े की गुणवत्ता, सिलाई और पतलून की जांच जरूरी है। छोटी गलती महंगी पड़ सकती है। करवा चौथ पर साड़ी खरीदते समय केवल रंग और डिजाइन देखकर फैसला न करें। साड़ी खरीदते समय आपको कुछ बातों का विशेष ध्यान देना चाहिए जिनके बारे में आप यहां जान सकते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अल्बानिया में आठवें दिन भी झड़पें, इटली में सख्त कानून; फ्रांस में कर्फ्यू बढ़ा",
+      "url": "https://www.amarujala.com/world/europe-protests-albania-italy-france-violence-fuel-prices-housing-crisis-clashes-continue-strict-laws-curfew-2026-10-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-21T04:33:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/18/france-protest_220b816d3ec660abca2492eade0ebe5d.gif?w=1200&dpr=1.0",
+      "summary": "यूरोप में विरोध प्रदर्शन जारी हैं। अल्बानिया में आठवें दिन भी झड़पें हुईं। इटली ने सख्त कानून लागू किए। फ्रांस में कर्फ्यू का दायरा बढ़ाया गया। अल्बानिया में आठवें दिन भी झड़पें, इटली में सख्त कानून; फ्रांस में कर्फ्यू बढ़ा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अल्बानिया में आठवें दिन भी झड़पें, इटली में सख्त कानून; फ्रांस में कर्फ्यू बढ़ा",
+          "summary": "यूरोप में विरोध प्रदर्शन जारी हैं। अल्बानिया में आठवें दिन भी झड़पें हुईं। इटली ने सख्त कानून लागू किए। फ्रांस में कर्फ्यू का दायरा बढ़ाया गया। अल्बानिया में आठवें दिन भी झड़पें, इटली में सख्त कानून; फ्रांस में कर्फ्यू बढ़ा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "शांत बैल को लट्ठ मारना चाचा को पड़ा भारी, पलटकर ऐसे लिया बदला कि देखते रह गए लोग",
+      "url": "https://www.amarujala.com/bizarre-news/man-hits-a-calm-bull-with-a-stick-gets-a-shocking-reply-2026-10-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T04:33:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/shata-bl-ka-thakhata-ha-caca-na-cal-thaya-ltatha_bec8906b6eca6ee9a0fcd1d12ec93327.jpeg?w=1200&dpr=1.0",
+      "summary": "सोशल मीडिया पर एक वीडियो वायरल हुआ। एक बुजुर्ग ने शांत बैल को लट्ठ मारा। बैल ने पलटकर उस पर हमला कर दिया। लोग इस घटना पर चर्चा कर रहे हैं। सोशल मीडिया पर एक वीडियो वायरल हो रहा है, जिसमें एक बुजुर्ग शख्स शांत होकर गुजर रहे बैल को लट्ठ मार देता है। इसके बाद बैल पलटकर उस पर हमला कर देता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शांत बैल को लट्ठ मारना चाचा को पड़ा भारी, पलटकर ऐसे लिया बदला कि देखते रह गए लोग",
+          "summary": "सोशल मीडिया पर एक वीडियो वायरल हुआ। एक बुजुर्ग ने शांत बैल को लट्ठ मारा। बैल ने पलटकर उस पर हमला कर दिया। लोग इस घटना पर चर्चा कर रहे हैं। सोशल मीडिया पर एक वीडियो वायरल हो रहा है, जिसमें एक बुजुर्ग शख्स शांत होकर गुजर रहे बैल को लट्ठ मार देता है। इसके बाद बैल पलटकर उस पर हमला कर देता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "यूएन में भारत ने उठाया सुरक्षा का मुद्दा, हथियारों की होड़ रोकने के लिए मांगा कानून",
+      "url": "https://www.amarujala.com/world/india-raises-security-issue-at-the-un-calls-for-a-law-to-curb-the-arms-race-say-space-belongs-to-all-of-us-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T04:27:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/sathha-marata-sasatha_98b7e137bbbac5ef66377beb3737bbc6.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत ने संयुक्त राष्ट्र में अंतरिक्ष सुरक्षा का मुद्दा उठाया। देश ने हथियारों की होड़ रोकने के लिए नया कानून बनाने की मांग की। भारत का मानना है कि अंतरिक्ष सभी का है। यूएन में भारत ने उठाया सुरक्षा का मुद्दा, हथियारों की होड़ रोकने के लिए मांगा कानून।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूएन में भारत ने उठाया सुरक्षा का मुद्दा, हथियारों की होड़ रोकने के लिए मांगा कानून",
+          "summary": "भारत ने संयुक्त राष्ट्र में अंतरिक्ष सुरक्षा का मुद्दा उठाया। देश ने हथियारों की होड़ रोकने के लिए नया कानून बनाने की मांग की। भारत का मानना है कि अंतरिक्ष सभी का है। यूएन में भारत ने उठाया सुरक्षा का मुद्दा, हथियारों की होड़ रोकने के लिए मांगा कानून।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "लॉरेंस गैंग के लिए कुरियर का काम करती हैं राधा और बबीता, दोनों यूपी के इन जिलों की रहने वाली",
+      "url": "https://www.amarujala.com/photo-gallery/haryana/sonipat/tiger-shroff-firing-case-two-women-held-for-allegedly-carrying-weapons-for-lawrence-gang-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T04:23:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/tiger-shroff-firing-case_4c8569d772f4ad10852643bec985cca0.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली पुलिस ने टाइगर श्रॉफ की कार पर गोलीबारी मामले में चार आरोपियों को गिरफ्तार किया। मुंबई में हुई इस घटना में सोनीपत की दो युवतियां शामिल थीं। वे लॉरेंस गैंग के लिए कुरियर का काम करती थीं। दिल्ली पुलिस की स्पेशल सेल ने मुंबई में अभिनेता टाइगर श्रॉफ की कार पर हुई गोलीबारी के मामले में सोनीपत की दो युवतियों समेत चार आरोपियों को गिरफ्तार कर लिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लॉरेंस गैंग के लिए कुरियर का काम करती हैं राधा और बबीता, दोनों यूपी के इन जिलों की रहने वाली",
+          "summary": "दिल्ली पुलिस ने टाइगर श्रॉफ की कार पर गोलीबारी मामले में चार आरोपियों को गिरफ्तार किया। मुंबई में हुई इस घटना में सोनीपत की दो युवतियां शामिल थीं। वे लॉरेंस गैंग के लिए कुरियर का काम करती थीं। दिल्ली पुलिस की स्पेशल सेल ने मुंबई में अभिनेता टाइगर श्रॉफ की कार पर हुई गोलीबारी के मामले में सोनीपत की दो युवतियों समेत चार आरोपियों को गिरफ्तार कर लिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "निक जोनस और बेटी के साथ पूजा करके अभिनेत्री ने मनाया दशहरा, मालती के दुपट्टे ने खींचा ध्यान",
+      "url": "https://www.amarujala.com/photo-gallery/entertainment/priyanka-chopra-celebrate-dussehra-with-nick-jonas-and-daughter-malti-marie-share-photos-2026-10-21",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-21T04:22:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/parayaka-capaugdha_987a7631e6a32201e9327dbba05dd93f.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रियंका चोपड़ा ने सोशल मीडिया पर परिवार के साथ दशहरा पूजा की तस्वीरें साझा कीं। इन तस्वीरों में उनकी बेटी भी नजर आई। मालती के दुपट्टे ने विशेष ध्यान खींचा। बॉलीवुड अभिनेत्री प्रियंका चोपड़ा ने सोशल मीडिया पर कुछ तस्वीरें शेयर की है, जिसमें वह अपने परिवार के साथ पूजा करते हुए नजर आ रही हैं। निक जोनस और बेटी के साथ पूजा करके अभिनेत्री ने मनाया दशहरा, मालती के दुपट्टे ने खींचा ध्यान।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "निक जोनस और बेटी के साथ पूजा करके अभिनेत्री ने मनाया दशहरा, मालती के दुपट्टे ने खींचा ध्यान",
+          "summary": "प्रियंका चोपड़ा ने सोशल मीडिया पर परिवार के साथ दशहरा पूजा की तस्वीरें साझा कीं। इन तस्वीरों में उनकी बेटी भी नजर आई। मालती के दुपट्टे ने विशेष ध्यान खींचा। बॉलीवुड अभिनेत्री प्रियंका चोपड़ा ने सोशल मीडिया पर कुछ तस्वीरें शेयर की है, जिसमें वह अपने परिवार के साथ पूजा करते हुए नजर आ रही हैं। निक जोनस और बेटी के साथ पूजा करके अभिनेत्री ने मनाया दशहरा, मालती के दुपट्टे ने खींचा ध्यान।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप की जेलेंस्की को चेतावनी, कहा- बोले- समझौता नहीं किया तो गंभीर नतीजे भुगतने होंगे",
+      "url": "https://www.amarujala.com/world/donald-trump-warns-zelenskyy-ukraine-war-settlement-russia-territorial-gains-putin-xi-meeting-2026-10-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-21T04:15:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/donald-trump_ff95bcd569e8de95ab84249e8b527b9b.jpeg?w=1200&dpr=1.0",
+      "summary": "डोनाल्ड ट्रंप ने वोलोदिमिर जेलेंस्की को चेतावनी दी है। उन्होंने कहा कि समझौता नहीं होने पर गंभीर परिणाम सामने आएंगे। यह टिप्पणी रूस-यूक्रेन युद्ध के संदर्भ में आई है। ट्रंप की जेलेंस्की को चेतावनी, कहा- बोले- समझौता नहीं किया तो गंभीर नतीजे भुगतने होंगे।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रेड डील से लेकर QUAD और पाकिस्तान से लेकर होर्मुज तक, अमेरिकी विदेश मंत्री मार्को रूबियो का पूरा",
-          "summary": "अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा कि भारत-अमेरिका ट्रेड डील कुछ हफ्तों में पूरी होगी। इससे टैरिफ दरों में राहत मिलेगी। उन्होंने रूसी तेल खरीद और पाकिस्तान संबंधों पर अपनी रणनीति भी साझा की। क्वाड समिट को लेकर भी अहम संकेत दिए गए। Marco Rubio Exclusive Interview: अमेरिकी विदेश मंत्री मार्को रूबियो ने नेटवर्क18 के एडिटर-इन-चीफ राहुल जोशी से खास बातचीत की है.",
+          "title": "ट्रंप की जेलेंस्की को चेतावनी, कहा- बोले- समझौता नहीं किया तो गंभीर नतीजे भुगतने होंगे",
+          "summary": "डोनाल्ड ट्रंप ने वोलोदिमिर जेलेंस्की को चेतावनी दी है। उन्होंने कहा कि समझौता नहीं होने पर गंभीर परिणाम सामने आएंगे। यह टिप्पणी रूस-यूक्रेन युद्ध के संदर्भ में आई है। ट्रंप की जेलेंस्की को चेतावनी, कहा- बोले- समझौता नहीं किया तो गंभीर नतीजे भुगतने होंगे।",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अल्बानिया, फ्रांस, इटली के बाद अब इंडोनेशिया में प्रदर्शन, छात्रों ने राष्ट्रपति प्रबोवो सरकार की",
+      "url": "https://www.patrika.com/world-news/indonesia-student-protest-prabowo-government-forest-fire-20998117",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-21T04:14:43+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Copy-of-Logo-Banner-7-1.webp",
+      "summary": "इंडोनेशिया में छात्रों ने प्रबोवो सुबियांतो सरकार के खिलाफ प्रदर्शन किया। जकार्ता, योग्यकर्ता और पश्चिम जवा में जुटे विरोधियों ने महंगाई और जंगल की आग पर सवाल उठाए। यह प्रदर्शन सरकार के दो वर्ष पूरे होने पर हुआ। दुनिया के हर हिस्से में इन दिनों विरोध की चिंगारी जल रही है। पश्चिम में फ्रांस, इटली और अल्बानिया से लेकर पूर्व में इंडोनेशिया भी अब विरोध प्रदर्शन की आग का ताप महसूस कर रहा है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अल्बानिया, फ्रांस, इटली के बाद अब इंडोनेशिया में प्रदर्शन, छात्रों ने राष्ट्रपति प्रबोवो सरकार की",
+          "summary": "इंडोनेशिया में छात्रों ने प्रबोवो सुबियांतो सरकार के खिलाफ प्रदर्शन किया। जकार्ता, योग्यकर्ता और पश्चिम जवा में जुटे विरोधियों ने महंगाई और जंगल की आग पर सवाल उठाए। यह प्रदर्शन सरकार के दो वर्ष पूरे होने पर हुआ। दुनिया के हर हिस्से में इन दिनों विरोध की चिंगारी जल रही है। पश्चिम में फ्रांस, इटली और अल्बानिया से लेकर पूर्व में इंडोनेशिया भी अब विरोध प्रदर्शन की आग का ताप महसूस कर रहा है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "साकी नाका में कबाड़ गोदाम में लगी भीषण आग, दो लोगों की जिंदा जलकर मौत; चार झुलसे",
+      "url": "https://www.amarujala.com/india-news/maharashtra-two-persons-killed-in-fire-at-scrap-godown-in-mumbai-civic-officials-news-in-hindi-updates-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T04:01:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/telangana-hospital-fire-infants-toll-rises-to-five_9dba50d18a1d1495d7daaa3f8f07c625.jpeg?w=1200&dpr=1.0",
+      "summary": "मुंबई के साकी नाका में कबाड़ गोदाम में भीषण आग लगी। इस हादसे में दो लोगों की मौत हो गई। चार अन्य व्यक्ति गंभीर रूप से झुलसे। स्थानीय प्रशासन ने इसकी पुष्टि की है। साकी नाका में कबाड़ गोदाम में लगी भीषण आग, दो लोगों की जिंदा जलकर मौत; चार झुलसे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "साकी नाका में कबाड़ गोदाम में लगी भीषण आग, दो लोगों की जिंदा जलकर मौत; चार झुलसे",
+          "summary": "मुंबई के साकी नाका में कबाड़ गोदाम में भीषण आग लगी। इस हादसे में दो लोगों की मौत हो गई। चार अन्य व्यक्ति गंभीर रूप से झुलसे। स्थानीय प्रशासन ने इसकी पुष्टि की है। साकी नाका में कबाड़ गोदाम में लगी भीषण आग, दो लोगों की जिंदा जलकर मौत; चार झुलसे।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शेयर बाजार में उछाल, सेंसेक्स 550 अंक चढ़ा, निफ्टी 23,000 के पार पहुंचा",
+      "url": "https://www.amarujala.com/business/business-diary/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-opening-sensex-nifty-share-market-news-2026-10-21",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-21T04:01:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय शेयर बाजार में जोरदार तेजी आई। सेंसेक्स 550 अंक चढ़ा और निफ्टी 23,000 के स्तर के पार पहुंच गया। अल्ट्राटेक और आईसीआईसीआई बैंक के शेयरों में दो फीसदी तक की वृद्धि दर्ज की गई। शेयर बाजार में जोरदार उछाल। सेंसेक्स 550 अंक चढ़ा, निफ्टी 23,000 के पार। अल्ट्राटेक और आईसीआईसीआई बैंक के शेयरों में 2 फीसदी तक की वृद्धि।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेयर बाजार में उछाल, सेंसेक्स 550 अंक चढ़ा, निफ्टी 23,000 के पार पहुंचा",
+          "summary": "भारतीय शेयर बाजार में जोरदार तेजी आई। सेंसेक्स 550 अंक चढ़ा और निफ्टी 23,000 के स्तर के पार पहुंच गया। अल्ट्राटेक और आईसीआईसीआई बैंक के शेयरों में दो फीसदी तक की वृद्धि दर्ज की गई। शेयर बाजार में जोरदार उछाल। सेंसेक्स 550 अंक चढ़ा, निफ्टी 23,000 के पार। अल्ट्राटेक और आईसीआईसीआई बैंक के शेयरों में 2 फीसदी तक की वृद्धि।",
+          "region": "दुनिया"
         }
       }
     }
