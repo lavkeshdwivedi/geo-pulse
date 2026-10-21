@@ -1,6 +1,70 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 21, 2026 16:13 IST
+**Updated:** October 21, 2026 21:12 IST
+
+---
+
+## Middle East & Africa
+
+### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
+*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
+
+Access Now reported 313 global internet shutdowns in 2025. Africa saw 30 outages across 15 countries. Protests triggered most cuts. Elections followed as the second leading cause for these digital blackouts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
+
+### [Singapore and the UAE to launch economic partnership negotiations to further trade, investment links](https://www.channelnewsasia.com/singapore/uae-lawrence-wong-bilateral-agreement-6479141)
+*Channel News Asia* - Oct 21, 19:57 IST (iso: 2026-10-21T14:27:31+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--mJCMHtzA--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/21/mddi_03.jpeg?itok=HatV0n0y -->
+
+Singapore and the UAE began economic partnership talks in Abu Dhabi. Leaders signed three agreements covering energy, water, and disease control. The moves aim to deepen trade and investment links between the two nations. During their meeting in Abu Dhabi, Prime Minister Lawrence Wong and United Arab Emirates President Sheikh Mohamed Zayed Al Nahyan witnessed the inking of three agreements on energy cooperation, water cooperation and disease vector control.
+
+### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
+*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
+
+Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
+
+### [Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis](https://news.un.org/feed/view/en/story/2026/10/1168638)
+*UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image770x420cropped.jpg -->
+
+Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met to discuss a ceasefire. The goal is a transition to peaceful governance that represents all Sudanese people amid the ongoing drone war. Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.
+
+### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
+*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
+<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
+
+Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
+
+### [With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb](https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html)
+*Radio Free Europe / Liberty* - Oct 20, 21:33 IST (iso: 2026-10-20T16:03:23+00:00)
+<!-- image: https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg -->
+
+Influential Iranian officials are openly calling for a nuclear bomb. The death of Ali Khamenei has weakened the political taboo surrounding the weapon. Debate is growing over whether the Islamic republic should abandon its long-standing position against developing nukes. Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.
+
+### [Yemen war continues to force families from homes amid hunger and disease](https://news.un.org/feed/view/en/story/2026/10/1168629)
+*UN News* - Oct 20, 17:30 IST (iso: 2026-10-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image770x420cropped.jpg -->
+
+Over 250,000 people have fled renewed fighting in Yemen, the United Nations reported. Access to the southwestern city of Taiz is essentially blocked. This has trapped residents in areas facing severe hunger and disease. The displacement continues to strain local humanitarian resources. More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.
+
+### [Dhaka’s silence on Saudi executions puts remittances over lives](https://asiatimes.com/2026/10/dhakas-silence-on-saudi-executions-puts-remittances-over-lives/)
+*Asia Times* - Oct 20, 14:14 IST (iso: 2026-10-20T08:44:17+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Mecca-Saudi-Arabia.jpg -->
+
+Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.
+
+### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg -->
+
+The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
+
+### [Guterres honours Indonesian troops who paid ‘ultimate sacrifice’](https://news.un.org/feed/view/en/story/2026/10/1168623)
+*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image560x340cropped.jpg -->
+
+UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
 
 ---
 
@@ -27,12 +91,6 @@ Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russi
 <!-- image: https://gdb.rferl.org/9ae7e62f-3e02-4141-42b6-08df13a884cb_w1200_h630.jpg -->
 
 Vladimir Putin's residence near Lake Valdai features heavy security and air defenses. Locals nearby face restricted access to the lake and forests. Families in the region bear the economic costs of Russia's war against Ukraine. The area exists as two parallel worlds of privilege and restriction. Vladimir Putin’s secluded residence near Russia’s Lake Valdai is surrounded by fences, security forces, and air defenses.
-
-### [France arrests man, calls in anti-terror police over town hall protest fire](https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece)
-*The Hindu (International)* - Oct 21, 08:37 IST (iso: 2026-10-21T03:07:32+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/uczx10/article71606137.ece/alternates/LANDSCAPE_1200/AFP__20261018__D3MB6G9__v4__HighRes__TopshotFranceSocialDemoBestOf.jpg -->
-
-French anti-terror police investigated a fire at the Limoges town hall on October 17. The 1883 building suffered roof and belfry collapse. Authorities arrested a man in connection with the suspected arson incident. Anti-terror police have been called in to investigate the suspected arson of the town hall in the central city of Limoges, a listed building dating back to 1883 whose roof and belfry collapsed when it was engulfed by fire on October 17.
 
 ### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
 *Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
@@ -90,68 +148,6 @@ Hurricane Trudy weakened to a tropical storm after threatening Mexico's Pacific 
 
 ---
 
-## Asia-Pacific
-
-### [Singapore must promote its strengths or risk being overlooked globally: METI permanent secretary](https://www.channelnewsasia.com/singapore/refreshed-when-youre-ready-international-branding-campaign-meti-beh-swan-gin-dbs-tan-su-shan-6478331)
-*Channel News Asia* - Oct 21, 14:54 IST (iso: 2026-10-21T09:24:14+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--RHHJ-OGg--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/21/permanent_secretary_for_energy_trade_industry_beh_swan_gin_dbs_ceo_tan_su_shan.png?itok=Aq8XGLZg -->
-
-Singapore must actively promote its strengths to avoid being overlooked globally. Permanent Secretary Beh Swan Gin stated that relying solely on stability is insufficient. Intensifying competition for investment and talent demands proactive storytelling. The nation needs to articulate its value proposition clearly to remain competitive. As global competition for investments, businesses and talent intensifies, Singapore must actively tell its own story rather than rely solely on its reputation for stability and reliability, says Permanent Secretary for Energy, Trade and Industry Beh Swan Gin.
-
-### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
-*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
-<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
-
-China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
-
-### [Three deaths from float crushes raise safety concerns over Japanese festivals](https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents)
-*The Guardian* - Oct 19, 14:38 IST (iso: 2026-10-19T09:08:34+00:00)
-<!-- image: https://i.guim.co.uk/img/media/d1442f8f6b1cdfc93c4871e0d4dc8d777de3f6c9/227_0_4641_3712/master/4641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1341bacf3d69e4cc755c7a1dbc533db -->
-
-Three people died in Japanese float crushes this weekend. Akihiro Nabae, deputy mayor of Saijo, was trapped under a float. Two other men died in similar incidents elsewhere in the country. Deputy mayor of Saijo died after becoming trapped under float, days after two similar incidents elsewhereThere is mounting concern over the safety of Japan’s traditional festivals after the death of a senior local official who was reportedly crushed beneath a float at the weekend, days after two men died in similar incidents in another part of the country. Akihiro Nabae, the deputy mayor of Saijo,.
-
----
-
-## Middle East & Africa
-
-### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
-*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
-
-Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
-
-### [With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb](https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html)
-*Radio Free Europe / Liberty* - Oct 20, 21:33 IST (iso: 2026-10-20T16:03:23+00:00)
-<!-- image: https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg -->
-
-Influential Iranian officials are openly calling for a nuclear bomb. The death of Ali Khamenei has weakened the political taboo surrounding the weapon. Debate is growing over whether the Islamic republic should abandon its long-standing position against developing nukes. Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.
-
-### [Yemen war continues to force families from homes amid hunger and disease](https://news.un.org/feed/view/en/story/2026/10/1168629)
-*UN News* - Oct 20, 17:30 IST (iso: 2026-10-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image770x420cropped.jpg -->
-
-Over 250,000 people have fled renewed fighting in Yemen, the United Nations reported. Access to the southwestern city of Taiz is essentially blocked. This has trapped residents in areas facing severe hunger and disease. The displacement continues to strain local humanitarian resources. More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.
-
-### [Dhaka’s silence on Saudi executions puts remittances over lives](https://asiatimes.com/2026/10/dhakas-silence-on-saudi-executions-puts-remittances-over-lives/)
-*Asia Times* - Oct 20, 14:14 IST (iso: 2026-10-20T08:44:17+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Mecca-Saudi-Arabia.jpg -->
-
-Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.
-
-### [Guterres honours Indonesian troops who paid ‘ultimate sacrifice’](https://news.un.org/feed/view/en/story/2026/10/1168623)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/19-10-2026-Guterres-Indonesia.jpg/image560x340cropped.jpg -->
-
-UN Secretary-General António Guterres honored four Indonesian peacekeepers killed in Lebanon. He laid a wreath in their memory and defended the organization's peacekeeping mission during what he described as testing times for global stability. UN Secretary-General António Guterres paid tribute to Indonesian peacekeepers on Monday, laying a wreath in honour of four who recently lost their lives in Lebanon and offering a robust defence of UN peacekeeping in what he called “testing times for peace”.
-
-### [Funding cuts leave half a million without food assistance](https://news.un.org/feed/view/en/story/2026/10/1168622)
-*UN News* - Oct 19, 17:30 IST (iso: 2026-10-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg -->
-
-The World Food Programme cut Gaza aid by one third due to funding shortages. The reduction leaves roughly 500,000 people without food assistance as winter approaches, the UN agency announced on Monday. Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.
-
----
-
 ## Americas
 
 ### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
@@ -166,11 +162,15 @@ Alberta voters rejected a proposal to begin the independence process by a wide m
 
 Flávio Bolsonaro’s debate comment calling his rival corrupt backfired. Social media users quickly turned the moment into a viral meme. The stunt was meant to highlight alleged crookedness before the election runoff. Instead, it became a widespread parody online. Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election. But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Lu.
 
-### [Inside the New York ‘time machine’ racing to save a century of sound and film](https://news.un.org/feed/view/en/story/2026/10/1168608)
-*UN News* - Oct 18, 17:30 IST (iso: 2026-10-18T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/13-10-2026_Media%20Preservation%209.jpg/image560x340cropped.jpg -->
+---
 
-Rhony Dostaly works as a media preservation engineer in a basement beneath Lincoln Center. He rescues a century of sound and film from decay. His team makes these historical elements available for modern audiences. “I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the media preservation engineer rescues moments from the past.
+## Asia-Pacific
+
+### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
+*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
+<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
+
+China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
 
 ---
 
