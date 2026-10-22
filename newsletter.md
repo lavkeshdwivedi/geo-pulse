@@ -1,50 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 23, 2026 02:25 IST
-
----
-
-## Asia-Pacific
-
-### [UN climate damages fund earmarks $20 million to Nepal for August disaster](https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-damages-fund-earmarks-20-million-to-nepal-for-august-disaster/article71612344.ece)
-*The Hindu (International)* - Oct 22, 23:10 IST (iso: 2026-10-22T17:40:28+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/h07sfl/article71613180.ece/alternates/LANDSCAPE_1200/2026-10-20T100319Z_1470784485_RC268NA06SCB_RTRMADP_3_CLIMATE-HEAT-STORMS-SCIENCE.JPG -->
-
-The UN climate damages fund allocated $20 million to Nepal for August disasters. This marks the first country-specific payout since the fund launched in 2022. The sum covers a small fraction of Nepal's estimated $5 billion loss. Total pledges stand at $820 million against $2.8 billion in requests. This is the first time that the Fund, set up in 2022, has allocated money to a specific country; amount is a fraction of Nepal’s own $5 billion loss estimate; so far, Fund has pledges for $820 million while fielding requests worth $2.8 billion.
-
-### [China’s new drone mothership targets US undersea edge](https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/)
-*Asia Times* - Oct 22, 11:41 IST (iso: 2026-10-22T06:11:09+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg -->
-
-China built a second drone mothership to launch submarine-sized uncrewed vessels. The platform targets US undersea dominance in the Western Pacific. This capability extends autonomous power beyond the First Island Chain. It systematically challenges American submarine operations in the region. China’s development of specialized naval auxiliaries designed to transport, launch and recover submarine-sized uncrewed vessels signals an assertive push to project autonomous undersea power beyond the First Island Chain and systematically challenge US submarine dominance in the Western Pacific.
-
-### [Don’t mistake Indonesia’s MSCI scare for economic weakness](https://asiatimes.com/2026/10/dont-mistake-indonesias-msci-scare-for-economic-weakness/)
-*Asia Times* - Oct 22, 11:14 IST (iso: 2026-10-22T05:44:08+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Bank-Indonesia-Rupiah-Indonesia-Economy.jpg -->
-
-MSCI proposed downgrading Indonesia to a Standalone Market. Jakarta’s financial community reacted with anxiety and capital flight. Regulators moved to calm investors. The market tremor does not reflect the country’s overall economic health or structural stability. When MSCI floated the idea of downgrading Indonesia to a Standalone Market, anxiety quickly swept through Jakarta’s financial community. Predictably, alarming headlines immediately pointed to foreign capital flight, stock prices dropped and local regulators quickly moved to calm jittery investors.
-
-### [North Korea prepares to restart propaganda loudspeakers as ties sour with South](https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea)
-*The Guardian* - Oct 22, 09:26 IST (iso: 2026-10-22T03:56:46+00:00)
-<!-- image: https://i.guim.co.uk/img/media/713bcd9ff1654fe9c89a51939a324229100d3767/0_125_3728_2984/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e37089bb178a354486cf3ff0ec3898 -->
-
-Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.
-
-### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
-*Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
-<!-- image: https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg -->
-
-Tajikistan is advancing the Soviet-era Roghun Dam project after securing major funding tranches. The development aims to reshape Central Asia's energy supply. The construction will displace tens of thousands of local villagers from their homes. The Soviet-era Roghun Dam project has endured decades of uncertainty and opposition. Now major funding tranches appear to have the project on track to transform Central Asia's energy landscape -- and displace tens of thousands of Tajik villagers.
-
-### [Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes](https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes)
-*The Guardian* - Oct 21, 21:43 IST (iso: 2026-10-21T16:13:53+00:00)
-<!-- image: https://i.guim.co.uk/img/media/58b66aaef4e26d60886b5c0c15befc257deb5d69/363_156_721_577/master/721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5118a8e46e914a164bcd919cf04fac54 -->
-
-New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.
+**Updated:** October 23, 2026 05:14 IST
 
 ---
 
 ## Europe & Russia
+
+### [Russia ready for talks on plans for final Ukraine deal, not truce: Putin](https://www.thehindu.com/news/international/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin/article71613329.ece)
+*The Hindu (International)* - Oct 23, 03:14 IST (iso: 2026-10-22T21:44:51+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/pkr4t4/article71613330.ece/alternates/LANDSCAPE_1200/2026-10-22T192121Z_1485514791_RC2I8OAGF185_RTRMADP_3_RUSSIA-PUTIN.JPG -->
+
+Vladimir Putin stated that Russia is prepared to negotiate a final settlement for the Ukraine conflict rather than a temporary ceasefire. The Russian president told state television that discussions should focus on establishing long-term security guarantees for both nations. He explicitly rejected the idea of a short pause in fighting as a sufficient outcome. This position clarifies Moscow's current diplomatic stance on the war's endgame.
+
+### [Women are protesting around Poland for free access to legal abortions](https://www.thehindu.com/news/international/women-are-protesting-around-poland-for-free-access-to-legal-abortions/article71613261.ece)
+*The Hindu (International)* - Oct 23, 00:07 IST (iso: 2026-10-22T18:37:49+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/9co660/article71613275.ece/alternates/LANDSCAPE_1200/Poland_Abortion_86771.jpg -->
+
+Polish women are protesting across the country to demand free access to legal abortions. The demonstrations target new draft laws that activists argue offer only token gestures rather than genuine reform. Zofia Marcinek of the Abortion Dream Team in Warsaw criticized the timing of the legislation. She noted the bills are being passed a year before the next parliamentary election. Critics view the move as a political maneuver rather than a substantive change to reproductive rights.
 
 ### [American detained in Russia arrives in U.S.: lawyer](https://www.thehindu.com/news/international/american-detained-in-russia-arrives-in-us-lawyer/article71613018.ece)
 *The Hindu (International)* - Oct 22, 23:00 IST (iso: 2026-10-22T17:30:14+00:00)
@@ -70,9 +42,9 @@ Ukraine has sharply reduced its reliance on Chinese drone components since 2022.
 
 Australia’s NextDC stock collapse signals a shift in data center investment. AI’s high computing demands have disrupted the sector’s traditional stability. Investors now face heightened risk as infrastructure costs surge to meet new requirements. For two decades, data centers were relatively safe, lucrative real estate investments. They attracted investors because they served as digital infrastructure. the essential plumbing that keeps the internet running.
 
-### [Ukraine Still Awaiting US Answers On Starlink Restrictions As Lawmakers Demand Probe](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
+### [Trump Says Musk Has Lifted Starlink Restrictions On Ukraine After Kyiv Reported Ongoing Issues](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
 *Radio Free Europe / Liberty* - Oct 22, 11:07 IST (iso: 2026-10-22T05:37:19+00:00)
-<!-- image: https://gdb.rferl.org/1f67313a-da77-4024-75cb-08df13a869ed_cx0_cy4_cw0_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/688e1952-5546-44cd-a900-7da2c0584cab_w1200_h630.jpg -->
 
 Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.
 
@@ -108,25 +80,43 @@ Ukrainian forces retaken 26 settlements in the Dnipropetrovsk region. The villag
 
 ---
 
-## Americas
+## Asia-Pacific
 
-### [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)
-*The Guardian* - Oct 22, 20:30 IST (iso: 2026-10-22T15:00:29+00:00)
-<!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
+### [UN climate damages fund earmarks $20 million to Nepal for August disaster](https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-damages-fund-earmarks-20-million-to-nepal-for-august-disaster/article71612344.ece)
+*The Hindu (International)* - Oct 22, 23:10 IST (iso: 2026-10-22T17:40:28+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/h07sfl/article71613180.ece/alternates/LANDSCAPE_1200/2026-10-20T100319Z_1470784485_RC268NA06SCB_RTRMADP_3_CLIMATE-HEAT-STORMS-SCIENCE.JPG -->
 
-Alberta officials plan to restrict rights for migrant workers despite initial welcoming policies. Vanesa Ortiz, a resident from Mexico, argues that scapegoating non-permanent residents will not lower living costs. The province previously relied on these workers for its economy. New regulations aim to limit their legal protections. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
+The UN climate damages fund allocated $20 million to Nepal for August disasters. This marks the first country-specific payout since the fund launched in 2022. The sum covers a small fraction of Nepal's estimated $5 billion loss. Total pledges stand at $820 million against $2.8 billion in requests. This is the first time that the Fund, set up in 2022, has allocated money to a specific country; amount is a fraction of Nepal’s own $5 billion loss estimate; so far, Fund has pledges for $820 million while fielding requests worth $2.8 billion.
 
-### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
-*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
+### [China’s new drone mothership targets US undersea edge](https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/)
+*Asia Times* - Oct 22, 11:41 IST (iso: 2026-10-22T06:11:09+00:00)
+<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg?fit=1024%2C683&amp;ssl=1 -->
 
-Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
+China built a second drone mothership to launch submarine-sized uncrewed vessels. The platform targets US undersea dominance in the Western Pacific. This capability extends autonomous power beyond the First Island Chain. It systematically challenges American submarine operations in the region. China’s development of specialized naval auxiliaries designed to transport, launch and recover submarine-sized uncrewed vessels signals an assertive push to project autonomous undersea power beyond the First Island Chain and systematically challenge US submarine dominance in the Western Pacific.
 
-### [Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff](https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff)
-*The Guardian* - Oct 20, 21:11 IST (iso: 2026-10-20T15:41:44+00:00)
-<!-- image: https://i.guim.co.uk/img/media/693b685efa99890c59fcc2ef30cf05e163c53c8a/307_256_1170_936/master/1170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39ee72c08e3ea1b650967af3ff0b3d36 -->
+### [Don’t mistake Indonesia’s MSCI scare for economic weakness](https://asiatimes.com/2026/10/dont-mistake-indonesias-msci-scare-for-economic-weakness/)
+*Asia Times* - Oct 22, 11:14 IST (iso: 2026-10-22T05:44:08+00:00)
+<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/10/Bank-Indonesia-Rupiah-Indonesia-Economy.jpg?fit=1024%2C683&amp;ssl=1 -->
 
-Flavio Bolsonaro's debate swipe at his rival backfired before Brazil's election runoff. Social media users parodied his "corrupto" comment into a viral meme. The stunt failed to expose his opponent's alleged crookedness as intended. Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election. But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Lu.
+MSCI proposed downgrading Indonesia to a Standalone Market. Jakarta’s financial community reacted with anxiety and capital flight. Regulators moved to calm investors. The market tremor does not reflect the country’s overall economic health or structural stability. When MSCI floated the idea of downgrading Indonesia to a Standalone Market, anxiety quickly swept through Jakarta’s financial community. Predictably, alarming headlines immediately pointed to foreign capital flight, stock prices dropped and local regulators quickly moved to calm jittery investors.
+
+### [North Korea prepares to restart propaganda loudspeakers as ties sour with South](https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea)
+*The Guardian* - Oct 22, 09:26 IST (iso: 2026-10-22T03:56:46+00:00)
+<!-- image: https://i.guim.co.uk/img/media/713bcd9ff1654fe9c89a51939a324229100d3767/0_125_3728_2984/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e37089bb178a354486cf3ff0ec3898 -->
+
+Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.
+
+### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
+*Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
+<!-- image: https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg -->
+
+Tajikistan is advancing the Soviet-era Roghun Dam project after securing major funding tranches. The development aims to reshape Central Asia's energy supply. The construction will displace tens of thousands of local villagers from their homes. The Soviet-era Roghun Dam project has endured decades of uncertainty and opposition. Now major funding tranches appear to have the project on track to transform Central Asia's energy landscape -- and displace tens of thousands of Tajik villagers.
+
+### [Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes](https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes)
+*The Guardian* - Oct 21, 21:43 IST (iso: 2026-10-21T16:13:53+00:00)
+<!-- image: https://i.guim.co.uk/img/media/58b66aaef4e26d60886b5c0c15befc257deb5d69/363_156_721_577/master/721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5118a8e46e914a164bcd919cf04fac54 -->
+
+New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.
 
 ---
 
@@ -171,6 +161,16 @@ Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels.
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg -->
 
 The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.
+
+---
+
+## Americas
+
+### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
+
+Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
 
 ---
 
