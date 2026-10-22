@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 22, 2026 23:13 IST
+**Updated:** October 23, 2026 02:25 IST
 
 ---
 
@@ -52,7 +52,7 @@ New Taipei prosecutors charged five men with plotting to injure comedian Huang Y
 
 Stephen Hubbard, an American detained in Russia, has arrived in the United States. His lawyers confirmed his release after a seven-year prison sentence. He was accused of acting as a mercenary for Ukraine. Hubbard was captured in the Ukrainian city of Izium in 2022. Stephen Hubbard’s family and lawyers have said he was living in the Ukrainian city of Izium when he was taken captive by Russia in 2022.
 
-### [Tajik Dissidents Feel Abandoned By West After Deportation, Imprisonment Of Activists](https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html)
+### [Deportations And Jail Terms Leave Tajik Dissidents In Europe Fearing For Their Future](https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html)
 *Radio Free Europe / Liberty* - Oct 22, 22:32 IST (iso: 2026-10-22T17:02:05+00:00)
 <!-- image: https://gdb.rferl.org/01000000-0aff-0242-7582-08dc4438eca6_cx0_cy0_cw99_w1200_h630.png -->
 
@@ -87,6 +87,12 @@ Russian authorities released Stephen Hubbard, a 74‑year‑old American, after 
 <!-- image: https://gdb.rferl.org/dbab1883-4624-440f-98a2-e494656e233c_cx0_cy19_cw0_w1200_h630.jpg -->
 
 Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
+
+### [Vladimir Putin's Neighbors: Two Parallel Worlds On Lake Valdai](https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html)
+*Radio Free Europe / Liberty* - Oct 21, 13:13 IST (iso: 2026-10-21T07:43:41+00:00)
+<!-- image: https://gdb.rferl.org/9ae7e62f-3e02-4141-42b6-08df13a884cb_w1200_h630.jpg -->
+
+Residents near Lake Valdai in Russia’s Tver region face restricted access to the lake and surrounding forests due to the security perimeter around Vladimir Putin’s residence. The area is fortified with fences, security forces, and air defense systems. Local families bear the economic costs of the war against Ukraine while their recreational access is curtailed. This creates a stark contrast between the protected leadership enclave and the constrained daily lives of nearby citizens.
 
 ### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
 *Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
@@ -140,7 +146,7 @@ Families report ICE is deporting severely ill detainees from Florida jails. Flig
 
 ### [Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis](https://news.un.org/feed/view/en/story/2026/10/1168638)
 *UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image770x420cropped.jpg -->
 
 Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met to discuss a ceasefire. The goal is a transition to peaceful governance that represents all Sudanese people amid the ongoing drone war. Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.
 
@@ -149,12 +155,6 @@ Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met
 <!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
 
 Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
-
-### [With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb](https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html)
-*Radio Free Europe / Liberty* - Oct 20, 21:33 IST (iso: 2026-10-20T16:03:23+00:00)
-<!-- image: https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg -->
-
-Influential Iranian officials are openly calling for a nuclear bomb. The death of Ali Khamenei has weakened the political taboo surrounding the weapon. Debate is growing over whether the Islamic republic should abandon its long-standing position against developing nukes. Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.
 
 ---
 
@@ -168,7 +168,7 @@ Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels.
 
 ### [Migrants paid up to $500 million in smuggling fees on European sea routes](https://news.un.org/feed/view/en/story/2026/10/1168642)
 *UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg -->
 
 The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.
 

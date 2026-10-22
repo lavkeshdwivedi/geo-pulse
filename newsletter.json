@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-22T17:43:49.254678+00:00",
+  "generated_at": "2026-10-22T20:55:39.974160+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 259,
   "digest": {
-    "en": "The UN climate damages fund earmarked $20 million for Nepal’s August disaster. Meanwhile, Stephen Hubbard walked free from Russian custody after four years. Australia’s NextDC stock collapse is also sending a global AI warning.",
-    "hi": "लाल सागर में भारतीय नागरिकों पर हमले और सऊदी अरब के डिफेंस हेडक्वार्टर पर हूती मिसाइल अटैक ने क्षेत्रीय सुरक्षा को नई चुनौती दी है। यूरोपियन यूनियन ने हूतियों को आतंकी संगठन घोषित करने का प्रस्ताव पारित करते हुए इस संकट का जवाब दिया है।"
+    "en": "The United Nations climate damages fund has allocated $20 million to Nepal to support recovery from the August landslide disaster. Meanwhile Ukraine announced a reduction in Chinese drone purchases, highlighting lingering capability gaps as it seeks alternative suppliers.",
+    "hi": "तिब्बत के ल्हासा जिले में आज सुबह 7.0 रिक्टर तीव्रता वाला भूकंप आया, जिससे चार घंटे में 15 अतिरिक्त झटके दर्ज हुए। इसी दौरान लाल सागर में भारतीय नौका पर फिर हमला हुआ, जिसमें दूतावास ने 14 नागरिकों को बचाने की कोशिश की।"
   },
   "articles": [
     {
@@ -32,7 +32,7 @@
       "translations": {}
     },
     {
-      "title": "Tajik Dissidents Feel Abandoned By West After Deportation, Imprisonment Of Activists",
+      "title": "Deportations And Jail Terms Leave Tajik Dissidents In Europe Fearing For Their Future",
       "url": "https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
@@ -193,7 +193,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-21T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image770x420cropped.jpg",
       "summary": "Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met to discuss a ceasefire. The goal is a transition to peaceful governance that represents all Sudanese people amid the ongoing drone war. Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -217,7 +217,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-21T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg",
       "summary": "The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
       "region": "Global / Multilateral",
       "language": "en",
@@ -231,6 +231,18 @@
       "published_at": "2026-10-21T09:53:03+00:00",
       "image_url": "https://gdb.rferl.org/dbab1883-4624-440f-98a2-e494656e233c_cx0_cy19_cw0_w1200_h630.jpg",
       "summary": "Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Vladimir Putin's Neighbors: Two Parallel Worlds On Lake Valdai",
+      "url": "https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-21T07:43:41+00:00",
+      "image_url": "https://gdb.rferl.org/9ae7e62f-3e02-4141-42b6-08df13a884cb_w1200_h630.jpg",
+      "summary": "Residents near Lake Valdai in Russia’s Tver region face restricted access to the lake and surrounding forests due to the security perimeter around Vladimir Putin’s residence. The area is fortified with fences, security forces, and air defense systems. Local families bear the economic costs of the war against Ukraine while their recreational access is curtailed. This creates a stark contrast between the protected leadership enclave and the constrained daily lives of nearby citizens.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -284,18 +296,6 @@
       "translations": {}
     },
     {
-      "title": "With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb",
-      "url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-20T16:03:23+00:00",
-      "image_url": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
-      "summary": "Influential Iranian officials are openly calling for a nuclear bomb. The death of Ali Khamenei has weakened the political taboo surrounding the weapon. Debate is growing over whether the Islamic republic should abandon its long-standing position against developing nukes. Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
       "url": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
       "source": "The Guardian",
@@ -306,6 +306,78 @@
       "region": "Americas",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "तिब्बत में भूकंप से कांपी धरती: रिक्टर पैमाने पर 7.0 तीव्रता के बाद चार घंटे में लगे 15 और झटके",
+      "url": "https://www.amarujala.com/world/strong-7-0-magnitude-earthquake-hits-tibet-epicentre-173-km-deep-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-23T07:28:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/18/bhakapa_d100e4e5fef7c95c7372002281edca2a.jpeg?w=1200&dpr=1.0",
+      "summary": "तिब्बत में रिक्टर स्केल पर 7.0 तीव्रता का भूकंप आया। चार घंटे के अंदर 15 अफ्टershocks दर्ज हुए। क्षेत्र में भारी अस्थिरता का माहौल बना हुआ है। तिब्बत में भूकंप से कांपी धरती: रिक्टर पैमाने पर 7.0 तीव्रता के बाद चार घंटे में लगे 15 और झटके, दहशत का माहौल।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तिब्बत में भूकंप से कांपी धरती: रिक्टर पैमाने पर 7.0 तीव्रता के बाद चार घंटे में लगे 15 और झटके",
+          "summary": "तिब्बत में रिक्टर स्केल पर 7.0 तीव्रता का भूकंप आया। चार घंटे के अंदर 15 अफ्टershocks दर्ज हुए। क्षेत्र में भारी अस्थिरता का माहौल बना हुआ है। तिब्बत में भूकंप से कांपी धरती: रिक्टर पैमाने पर 7.0 तीव्रता के बाद चार घंटे में लगे 15 और झटके, दहशत का माहौल।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मौत के बाद लिंडसे ग्राहम पर गंभीर आरोप: डॉक्यूमेंट्री में यौन संबंधों को लेकर दावे, पैसे देकर किया",
+      "url": "https://www.amarujala.com/world/late-south-carolina-senator-lindsey-graham-physical-relations-allegations-male-escorts-documentary-russian-oil-2026-10-23",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-23T07:18:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/23/lindsey-graham_e20555910438fb37166b0b00bd2d2a91.jpeg?w=1200&dpr=1.0",
+      "summary": "मृत सांसद लिंडसे ग्राहम पर डॉक्यूमेंट्री में यौन शोषण के आरोप लगे। दावा है कि उन्होंने पैसे देकर पुरुष एस्कॉर्ट से संबंध बनाए। यह मामला उनके मृत्यु के बाद सामने आया है। मौत के बाद लिंडसे ग्राहम पर गंभीर आरोप: डॉक्यूमेंट्री में यौन संबंधों को लेकर दावे, पैसे देकर किया।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मौत के बाद लिंडसे ग्राहम पर गंभीर आरोप: डॉक्यूमेंट्री में यौन संबंधों को लेकर दावे, पैसे देकर किया",
+          "summary": "मृत सांसद लिंडसे ग्राहम पर डॉक्यूमेंट्री में यौन शोषण के आरोप लगे। दावा है कि उन्होंने पैसे देकर पुरुष एस्कॉर्ट से संबंध बनाए। यह मामला उनके मृत्यु के बाद सामने आया है। मौत के बाद लिंडसे ग्राहम पर गंभीर आरोप: डॉक्यूमेंट्री में यौन संबंधों को लेकर दावे, पैसे देकर किया।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "महिला से दुर्व्यवहार के आरोप पर बवाल, पड़ोसी के मुक्के से डीआरडीओ कर्मचारी की मौत; दो मामले दर्ज",
+      "url": "https://www.amarujala.com/india-news/drdo-employee-dies-after-neighbour-allegedly-punches-him-following-misbehaviour-allegation-2026-10-23",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-23T07:03:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/23/crime-demo_d0bbd18cebf573dd3fb6772a278f776b.jpeg?w=1200&dpr=1.0",
+      "summary": "हैदराबाद में डीआरडीओ कर्मचारी की पड़ोसी के मुक्के से मौत हो गई। महिला से दुर्व्यवहार के आरोप पर विवाद हुआ था। पुलिस ने दोनों मामलों की जांच शुरू कर दी है। महिला से दुर्व्यवहार के आरोप पर बवाल, पड़ोसी के मुक्के से डीआरडीओ कर्मचारी की मौत; दो मामले दर्ज।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महिला से दुर्व्यवहार के आरोप पर बवाल, पड़ोसी के मुक्के से डीआरडीओ कर्मचारी की मौत; दो मामले दर्ज",
+          "summary": "हैदराबाद में डीआरडीओ कर्मचारी की पड़ोसी के मुक्के से मौत हो गई। महिला से दुर्व्यवहार के आरोप पर विवाद हुआ था। पुलिस ने दोनों मामलों की जांच शुरू कर दी है। महिला से दुर्व्यवहार के आरोप पर बवाल, पड़ोसी के मुक्के से डीआरडीओ कर्मचारी की मौत; दो मामले दर्ज।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "विधान परिषद की 11 सीटों के लिए वोटिंग आज, 72 जिलों में 14.81 लाख मतदाता करेंगे अपने मताधिकार का",
+      "url": "https://www.amarujala.com/lucknow/up-14-81-lakh-voters-will-cast-their-votes-for-11-legislative-council-seats-on-friday-voting-will-take-place-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-23T06:35:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/yapa-ma-vathhana-parashhatha-ka-canava_ee0f237fd415d0dc431722422f98779b.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश विधान परिषद की 11 सीटों के लिए वोटिंग हुई। 72 जिलों में 14.81 लाख मतदाता ने भाग लिया। पांच सीटें स्नातक और छह शिक्षक खंड के लिए थीं। इनमें से पांच खंड स्नातक और छह खंड शिक्षक की सीटें हैं। विधान परिषद की 11 सीटों के लिए वोटिंग आज, 72 जिलों में 14.81 लाख मतदाता करेंगे अपने मताधिकार का।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विधान परिषद की 11 सीटों के लिए वोटिंग आज, 72 जिलों में 14.81 लाख मतदाता करेंगे अपने मताधिकार का",
+          "summary": "उत्तर प्रदेश विधान परिषद की 11 सीटों के लिए वोटिंग हुई। 72 जिलों में 14.81 लाख मतदाता ने भाग लिया। पांच सीटें स्नातक और छह शिक्षक खंड के लिए थीं। इनमें से पांच खंड स्नातक और छह खंड शिक्षक की सीटें हैं। विधान परिषद की 11 सीटों के लिए वोटिंग आज, 72 जिलों में 14.81 लाख मतदाता करेंगे अपने मताधिकार का।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "लाल सागर में फिर हुआ भारतीयों की बोट पर हमला, 14 नागरिकों की जान बचाने में जुटा दूतावास",
@@ -578,6 +650,24 @@
       }
     },
     {
+      "title": "PM आवास के पास 'रेस कोर्स मस्जिद' को नोटिस, जानें वक्फ बोर्ड में कब से दर्ज और अभी क्या स्थिति?",
+      "url": "https://www.abplive.com/news/india/delhi-race-course-mosque-controversy-l-do-notice-aimplb-asaduddin-owaisi-expressed-concern-ann-3205439",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-22T13:14:10+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/22/68b9d0732fe271e7bc048f43ba5a35ff17926748387771368_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "दिल्ली की रेस कोर्स मस्जिद को छह दिन में खाली करने का नोटिस मिला। वक्फ बोर्ड में दर्ज मस्जिद पर विवाद बढ़ा। ओवैसी और मुस्लिम पर्सनल लॉ बोर्ड ने कार्रवाई रोकने की मांग की। दिल्ली की ऐतिहासिक 'रेस कोर्स मस्जिद' को 6 दिन के भीतर खाली कराने को लेकर दिए गए नोटिस पर विवाद खड़ा हो गया है. ऑल इंडिया मुस्लिम पर्सनल लॉ बोर्ड (AIMPLB) से लेकर AIMIM प्रमुख असदुद्दीन ओवैसी ने इस पर चिंता जताई है और सरकार के कार्रवाई रोकने की मांग की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM आवास के पास 'रेस कोर्स मस्जिद' को नोटिस, जानें वक्फ बोर्ड में कब से दर्ज और अभी क्या स्थिति?",
+          "summary": "दिल्ली की रेस कोर्स मस्जिद को छह दिन में खाली करने का नोटिस मिला। वक्फ बोर्ड में दर्ज मस्जिद पर विवाद बढ़ा। ओवैसी और मुस्लिम पर्सनल लॉ बोर्ड ने कार्रवाई रोकने की मांग की। दिल्ली की ऐतिहासिक 'रेस कोर्स मस्जिद' को 6 दिन के भीतर खाली कराने को लेकर दिए गए नोटिस पर विवाद खड़ा हो गया है. ऑल इंडिया मुस्लिम पर्सनल लॉ बोर्ड (AIMPLB) से लेकर AIMIM प्रमुख असदुद्दीन ओवैसी ने इस पर चिंता जताई है और सरकार के कार्रवाई रोकने की मांग की है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "लंदन में भारतीय मूल के कारोबारी का कांड, क्यों छिना ब्रिटिश शाही सम्मान? किराए पर मचा हंगामा",
       "url": "https://hindi.news18.com/news/knowledge/indian-origin-businessman-nirpal-singh-riat-revoked-british-royal-honour-know-reason-10928904.html",
       "source": "News18 Hindi (World)",
@@ -614,6 +704,24 @@
       }
     },
     {
+      "title": "SIR को लेकर जयराम रमेश का फिर CEC-PM पर हमला, बोले- 'Form 6 में गैरकानूनी...'",
+      "url": "https://www.abplive.com/news/india/jairam-ramesh-targets-cec-pm-modi-hm-shah-over-sir-alleging-illegal-changes-to-form-6-3205406",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-10-22T12:27:54+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/22/c17f7e001f19b61f1a20009df9869cd817926697006981484_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "Congress general secretary and Rajya Sabha member J कांग्रेस के महासचिव और राज्यसभा सांसद जयराम रमेश ने एक बार फिर SIR और मुख्य चुनाव आयुक्त मामले में भाजपा और प्रधानमंत्री मोदी पर निशाना साधा है. सोशल मीडिया प्लेटफॉर्म 'X' पर पोस्ट करते हुए उन्होंने लिखा है कि \"वोट चोरी अब एक साबित हो चुकी सच्चाई है. ECI के अपने आंकड़ों के मुताबिक, 10 करोड़ से अधिक भारतीयों के वोट देने के संवैधानिक अधिकार पर खतरा मंडरा रहा है.\" जयराम ने कहा है कि \"ECI ने नए मतदाताओ।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "SIR को लेकर जयराम रमेश का फिर CEC-PM पर हमला, बोले- 'Form 6 में गैरकानूनी...'",
+          "summary": "Congress general secretary and Rajya Sabha member J कांग्रेस के महासचिव और राज्यसभा सांसद जयराम रमेश ने एक बार फिर SIR और मुख्य चुनाव आयुक्त मामले में भाजपा और प्रधानमंत्री मोदी पर निशाना साधा है. सोशल मीडिया प्लेटफॉर्म 'X' पर पोस्ट करते हुए उन्होंने लिखा है कि \"वोट चोरी अब एक साबित हो चुकी सच्चाई है. ECI के अपने आंकड़ों के मुताबिक, 10 करोड़ से अधिक भारतीयों के वोट देने के संवैधानिक अधिकार पर खतरा मंडरा रहा है.\" जयराम ने कहा है कि \"ECI ने नए मतदाताओ।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "पेट्रोल पंप पर कार की टंकी फुल कराई और बिना पैसे दिए भागे नेताजी, अगले दिन दरवाजे पर आ धमकी पुलिस",
       "url": "https://hindi.news18.com/world/rest-of-world-australian-premier-ben-carroll-petrol-pump-bill-police-notice-10928775.html",
       "source": "News18 Hindi (World)",
@@ -646,114 +754,6 @@
           "title": "गाजा में चलती गाड़ी पर इजराइल ने कर दिया एयर स्ट्राइक, 2 फिलिस्तीनियों की मौत के बाद इलाके में सनसनी",
           "summary": "इजराइल ने गाजा शहर में चलती एक गाड़ी पर हवाई हमला किया। इस घटना में सवार दो फिलिस्तीनी नागरिकों की मौके पर ही मौत हो गई। अल-जजीरा ने मेडिकल सूत्रों के हवाले से इसकी पुष्टि की है। गाजा शहर में एक चलती गाड़ी पर इजराइल ने एयर स्ट्राइक कर दिया। इसमें सवार दो फिलिस्तीनी नागरिकों की मौत हो गई है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "विलय दिवस से पहले UK संसद में गूंजा ‘जम्मू-कश्मीर भारत का’: अर्ली डे मोशन में संप्रभुता की पुष्टि",
-      "url": "https://www.patrika.com/world-news/uk-parliament-early-day-motion-jammu-kashmir-accession-day-india-sovereignty-21001814",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-22T11:56:24+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/UK-Parliament.webp",
-      "summary": "यूके संसद में जम्मू-कश्मीर विलय दिवस से पहले प्रस्ताव पेश किया गया। इसमें भारत की संप्रभुता और क्षेत्रीय अखंडता की पुष्टि की गई। साथ ही क्षेत्र में आतंकवाद को लेकर गंभीर चिंता भी जताई गई। Jammu Kashmir Accession Day: जम्मू-कश्मीर विलय दिवस (Accession Day) से पहले UK संसद में पेश किए गए एक प्रस्ताव में, जम्मू-कश्मीर पर भारत गणराज्य की संप्रभुता और क्षेत्रीय अखंडता को फिर से दोहराया गया है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विलय दिवस से पहले UK संसद में गूंजा ‘जम्मू-कश्मीर भारत का’: अर्ली डे मोशन में संप्रभुता की पुष्टि",
-          "summary": "यूके संसद में जम्मू-कश्मीर विलय दिवस से पहले प्रस्ताव पेश किया गया। इसमें भारत की संप्रभुता और क्षेत्रीय अखंडता की पुष्टि की गई। साथ ही क्षेत्र में आतंकवाद को लेकर गंभीर चिंता भी जताई गई। Jammu Kashmir Accession Day: जम्मू-कश्मीर विलय दिवस (Accession Day) से पहले UK संसद में पेश किए गए एक प्रस्ताव में, जम्मू-कश्मीर पर भारत गणराज्य की संप्रभुता और क्षेत्रीय अखंडता को फिर से दोहराया गया है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सऊदी अरब में खून-खराबे पर भारत का तीखा बयान, अमन की उठाई मांग",
-      "url": "https://hindi.news18.com/news/nation/from-aramco-to-king-fahd-airport-india-sharp-statement-on-bloodshed-in-saudi-arabia-calls-for-peace-10928611.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-22T11:53:37+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Randhir-Jaiswal-2026-10-3bd683d43cfd24874a485ab7e0ebf543-1200x800.jpg",
-      "summary": "दम्माम के हवाई अड्डे और शायबा तेल क्षेत्र पर हमले के बाद भारत ने सख्त रुख अपनाया। हमले में एक भारतीय की मौत और तीन के घायल होने की जानकारी मिली है। भारत ने अमन की मांग उठाई है। सऊदी अरब के नागरिक ठिकानों और रणनीतिक ऊर्जा इंफ्रास्ट्रक्चर पर हुए घातक हमलों में एक भारतीय नागरिक की मौत और तीन अन्य के घायल होने के बाद भारत ने बेहद कड़ा और सख्त रुख अख्तियार किया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी अरब में खून-खराबे पर भारत का तीखा बयान, अमन की उठाई मांग",
-          "summary": "दम्माम के हवाई अड्डे और शायबा तेल क्षेत्र पर हमले के बाद भारत ने सख्त रुख अपनाया। हमले में एक भारतीय की मौत और तीन के घायल होने की जानकारी मिली है। भारत ने अमन की मांग उठाई है। सऊदी अरब के नागरिक ठिकानों और रणनीतिक ऊर्जा इंफ्रास्ट्रक्चर पर हुए घातक हमलों में एक भारतीय नागरिक की मौत और तीन अन्य के घायल होने के बाद भारत ने बेहद कड़ा और सख्त रुख अख्तियार किया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "लाल सागर में भारतीयों से भरी नाव पर सऊदी अरब के हमले का दावा, हूतियों ने 14 भारतीयों को बचाया",
-      "url": "https://www.patrika.com/world-news/red-sea-saudi-arabia-targets-indian-boat-houthis-rescue-14-indians-21001644",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-22T11:32:24+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/YAHYA-SAREE.webp",
-      "summary": "हूती प्रवक्ता याह्या सरी का दावा है कि सऊदी अरब ने लाल सागर में भारतीय नागरिकों की नाव पर हमला किया। जूकर द्वीप के पास स्थित नाव से 14 भारतीयों को हूती लड़ाकों ने बचाया। यह घटना बाब-अल-मंदेब जलडमरूमध्य में हुई। Indian Citizens: लाल सागर में 14 भारतीय नागरिकों से भरी एक नाव को सऊदी अरब की ओर से निशाना बनाए जाने का दावा किया गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लाल सागर में भारतीयों से भरी नाव पर सऊदी अरब के हमले का दावा, हूतियों ने 14 भारतीयों को बचाया",
-          "summary": "हूती प्रवक्ता याह्या सरी का दावा है कि सऊदी अरब ने लाल सागर में भारतीय नागरिकों की नाव पर हमला किया। जूकर द्वीप के पास स्थित नाव से 14 भारतीयों को हूती लड़ाकों ने बचाया। यह घटना बाब-अल-मंदेब जलडमरूमध्य में हुई। Indian Citizens: लाल सागर में 14 भारतीय नागरिकों से भरी एक नाव को सऊदी अरब की ओर से निशाना बनाए जाने का दावा किया गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हूती का दावा- 14 भारतीयों को लेकर जा रहे नाव पर सऊदी का हमला, रेस्क्यू ऑपरेशन लॉन्च",
-      "url": "https://www.abplive.com/news/world/yemen-houthi-rebel-claims-saudi-arabia-target-boat-carrying-fourteen-indians-3205385",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-10-22T11:17:44+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/22/2d44ac635920808ae262d144e0313a871792667721309120_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "हूतियों का दावा है कि लाल सागर में जुकार द्वीप के पास सऊदी अरब ने 14 भारतीयों को ले जा रही नाव पर हमला किया। यमनी सेना ने भारतीय नागरिकों को बचा लिया। हूतियों ने सऊदी को दुश्मन बताते हुए इस घटना की पुष्टि की। यमन के विद्रोही हूतियों ने दावा किया है कि लाल सागर में जुकार द्वीप के पास 14 भारतीयों को ले जा रही एक नाव पर सऊदी अरब की ओर से हमला किया गया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूती का दावा- 14 भारतीयों को लेकर जा रहे नाव पर सऊदी का हमला, रेस्क्यू ऑपरेशन लॉन्च",
-          "summary": "हूतियों का दावा है कि लाल सागर में जुकार द्वीप के पास सऊदी अरब ने 14 भारतीयों को ले जा रही नाव पर हमला किया। यमनी सेना ने भारतीय नागरिकों को बचा लिया। हूतियों ने सऊदी को दुश्मन बताते हुए इस घटना की पुष्टि की। यमन के विद्रोही हूतियों ने दावा किया है कि लाल सागर में जुकार द्वीप के पास 14 भारतीयों को ले जा रही एक नाव पर सऊदी अरब की ओर से हमला किया गया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "शहबाज-मुनीर कान खोलकर सुन लें अपने जनरल की बात, ईरान-अमेरिका छोड़ो, भारत से विवाद सुलझाओ",
-      "url": "https://hindi.news18.com/world/pakistan-ex-pakistani-general-zubair-mahmood-hayat-warns-future-india-pakistan-clashes-stressing-dialogue-10928581.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-22T11:14:30+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/asim-munir-8-2026-10-5e1652c814dc4fbcbe9ad33a5f243e21-1200x800.jpg",
-      "summary": "पाकिस्तान के पूर्व जनरल जुबैर महमूद हयात ने भारत-पाकिस्तान के बीच बड़े टकराव की चेतावनी दी। उन्होंने कश्मीर मुद्दे के समाधान और सिंधु जल संधि की बहाली की मांग की। हयात का कहना है कि मूल कारणों को दूर किए बिना संकट गहराता जाएगा। पाकिस्तान की ज्वाइंट चीफ्स ऑफ स्टाफ कमेटी के पूर्व अध्यक्ष जनरल (सेवानिवृत्त) जुबैर महमूद हयात ने भारत और पाकिस्तान के बीच भविष्य में बड़े टकराव की आशंका जताई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शहबाज-मुनीर कान खोलकर सुन लें अपने जनरल की बात, ईरान-अमेरिका छोड़ो, भारत से विवाद सुलझाओ",
-          "summary": "पाकिस्तान के पूर्व जनरल जुबैर महमूद हयात ने भारत-पाकिस्तान के बीच बड़े टकराव की चेतावनी दी। उन्होंने कश्मीर मुद्दे के समाधान और सिंधु जल संधि की बहाली की मांग की। हयात का कहना है कि मूल कारणों को दूर किए बिना संकट गहराता जाएगा। पाकिस्तान की ज्वाइंट चीफ्स ऑफ स्टाफ कमेटी के पूर्व अध्यक्ष जनरल (सेवानिवृत्त) जुबैर महमूद हयात ने भारत और पाकिस्तान के बीच भविष्य में बड़े टकराव की आशंका जताई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "लॉन्चपैड पर 500 आतंकी इंतजार में: खुफिया सूत्रों का दावा,पाकिस्तान के नए ISI चीफ खान की BAT योजना",
-      "url": "https://www.patrika.com/world-news/isi-chief-shamraz-khan-bat-teams-jammu-kashmir-infiltration-plan-21001611",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-22T11:07:37+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Jammu-Kashmir-infiltration.webp",
-      "summary": "नए आईएसआई प्रमुख मेजर जनरल मुहम्मद शमरेज खान की नियुक्ति के बाद पाकिस्तान में घुसपैठ की रणनीति बदली जा रही है। खुफिया सूत्रों का दावा है कि पाकिस्तान कब्जे वाले कश्मीर में बने लॉन्चपैड से 500 आतंकियों को भेजने की तैयारी कर रहा है। मेजर जनरल मुहम्मद शमरेज खान को पाकिस्तान की खुफिया एजेंसी, इंटर-सर्विसेज इंटेलिजेंस (ISI) का प्रमुख नियुक्त करते ही देश में बीते एक महीने में बड़ा बदलाव हुआ है। उनकी नियुक्ति ऐसे समय में हुई है जब पाकिस्तान को पाकिस्तान के कब्जे वाले कश्मीर (PoK) में बने लॉन्चपैड से घुसपैठ कराने में काफी मुश्किलों का सामना करना पड़ रहा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लॉन्चपैड पर 500 आतंकी इंतजार में: खुफिया सूत्रों का दावा,पाकिस्तान के नए ISI चीफ खान की BAT योजना",
-          "summary": "नए आईएसआई प्रमुख मेजर जनरल मुहम्मद शमरेज खान की नियुक्ति के बाद पाकिस्तान में घुसपैठ की रणनीति बदली जा रही है। खुफिया सूत्रों का दावा है कि पाकिस्तान कब्जे वाले कश्मीर में बने लॉन्चपैड से 500 आतंकियों को भेजने की तैयारी कर रहा है। मेजर जनरल मुहम्मद शमरेज खान को पाकिस्तान की खुफिया एजेंसी, इंटर-सर्विसेज इंटेलिजेंस (ISI) का प्रमुख नियुक्त करते ही देश में बीते एक महीने में बड़ा बदलाव हुआ है। उनकी नियुक्ति ऐसे समय में हुई है जब पाकिस्तान को पाकिस्तान के कब्जे वाले कश्मीर (PoK) में बने लॉन्चपैड से घुसपैठ कराने में काफी मुश्किलों का सामना करना पड़ रहा है।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
