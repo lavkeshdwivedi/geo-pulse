@@ -1,80 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 22, 2026 18:05 IST
-
----
-
-## Europe & Russia
-
-### [Ukraine Cuts Chinese Drone Dependence, But Critical Gaps Remain](https://www.rferl.org/a/ukraine-cuts-chinese-drone-dependence-but-critical-gaps-remain/33881578.html)
-*Radio Free Europe / Liberty* - Oct 22, 16:35 IST (iso: 2026-10-22T11:05:20+00:00)
-<!-- image: https://gdb.rferl.org/465d222a-0fdd-4c63-7433-08df13a869ed_w1200_h630.jpg -->
-
-Ukraine has sharply reduced its reliance on Chinese drone components since 2022. However, critical parts remain difficult to replace at scale and cost. This leaves a persistent dependency on Beijing for essential military hardware. In 2022, Ukraine relied almost entirely on Chinese components for its military drones. While that dependency has now been drastically reduced, Ukraine still relies on Beijing for essential parts that remain difficult to replace at the necessary scale and cost.
-
-### [Australia’s NextDC stock collapse fires a global AI warning](https://asiatimes.com/2026/10/australias-nextdc-stock-collapse-fires-a-global-ai-warning/)
-*Asia Times* - Oct 22, 12:38 IST (iso: 2026-10-22T07:08:33+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/NextDC-AI-Data-Centers.jpg -->
-
-Australia’s NextDC stock collapse signals a shift in data center investment. AI’s high computing demands have disrupted the sector’s traditional stability. Investors now face heightened risk as infrastructure costs surge to meet new requirements. For two decades, data centers were relatively safe, lucrative real estate investments. They attracted investors because they served as digital infrastructure. the essential plumbing that keeps the internet running.
-
-### [Ukraine Still Awaiting US Answers On Starlink Restrictions As Lawmakers Demand Probe](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
-*Radio Free Europe / Liberty* - Oct 22, 11:07 IST (iso: 2026-10-22T05:37:19+00:00)
-<!-- image: https://gdb.rferl.org/1f67313a-da77-4024-75cb-08df13a869ed_cx0_cy4_cw0_w1200_h630.jpg -->
-
-Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.
-
-### [After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?](https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece)
-*The Hindu (International)* - Oct 22, 10:52 IST (iso: 2026-10-22T05:22:49+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/55v76z/article71608768.ece/alternates/LANDSCAPE_1200/iStock-1558220804.jpg -->
-
-Musk’s restrictions on satellite services to Ukraine highlight India’s dependence on foreign technology. Gaps in domestic capabilities expose critical infrastructure to external pressure. This includes satellite navigation, cloud computing, and military equipment. Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure.
-
-### [Missiles strike Ukraine's capital after U.S. envoy visits Russia](https://www.thehindu.com/news/international/missiles-strike-ukraines-capital-after-us-envoy-visits-russia/article71609868.ece)
-*The Hindu (International)* - Oct 22, 07:36 IST (iso: 2026-10-22T02:06:37+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ot8l50/article71609903.ece/alternates/LANDSCAPE_1200/AFP__20261022__D4292ZR__v1__HighRes__UkraineRussiaConflictWar.jpg -->
-
-Russian missiles struck Kyiv shortly after U. S. envoy Steve Witkoff met Vladimir Putin in Saint Petersburg. Witkoff praised Putin for releasing American prisoner Stephen Hubbard. The Kremlin stated it was willing to restart talks but found little substance in the peace proposals delivered by the U. diplomat. Mr. Witkoff praised Mr. Putin as a "humanitarian" for freeing U. citizen Stephen Hubbard, but the Kremlin warned after the meeting in Saint Petersburg that while Moscow was "in principle" willing to restart talks there was little "substance" in Ukrainian and European peace proposals the U.
-
-### [American Stephen Hubbard Freed After More Than 4 Years In Russian Custody](https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html)
-*Radio Free Europe / Liberty* - Oct 22, 01:27 IST (iso: 2026-10-21T19:57:46+00:00)
-<!-- image: https://gdb.rferl.org/910b612f-ed88-4aa5-e8cb-08df13afe2a0_cx0_cy1_cw0_w1200_h630.jpg -->
-
-Russian authorities released Stephen Hubbard, a 74‑year‑old American, after more than four years in custody. Russia has released 74-year-old US citizen Stephen Hubbard, who had been detained since 2022. He had been sentenced to prison for allegedly acting as a mercenary in Ukraine, charges his family disputed. President Vladimir Putin announced Hubbard’s release during talks with US envoy Steve Witkoff.
-
-### [US Citizen Accused By Moscow Of Fighting For Ukraine Released From Russian Prison](https://www.rferl.org/a/stephen-hubbard-russia-us-prisoner-release-trump/33880760.html)
-*Radio Free Europe / Liberty* - Oct 21, 15:23 IST (iso: 2026-10-21T09:53:03+00:00)
-<!-- image: https://gdb.rferl.org/dbab1883-4624-440f-98a2-e494656e233c_cx0_cy19_cw0_w1200_h630.jpg -->
-
-Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
-
-### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
-*Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
-<!-- image: https://gdb.rferl.org/67889eaf-352c-4b60-e8c1-08df13a87301_w1200_h630.jpg -->
-
-Ukrainian forces retaken 26 settlements in the Dnipropetrovsk region. The villages are largely destroyed and uninhabitable. Russian troops are being pushed back, but Ukrainian forces face challenges holding the reclaimed territory under constant drone threat. As Russian troops are pushed back, Ukrainian forces face the challenge of holding the reclaimed territory under constant threat from drones. Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins.
-
-### [Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties](https://www.rferl.org/a/georgia-faces-new-test-as-court-weighs-ban-on-five-opposition-parties/33880171.html)
-*Radio Free Europe / Liberty* - Oct 20, 20:49 IST (iso: 2026-10-20T15:19:04+00:00)
-<!-- image: https://gdb.rferl.org/c4530fce-93a8-4573-7515-08df13a869ed_w1200_h630.jpeg -->
-
-Georgia’s Constitutional Court will begin hearings on October 21 regarding a ban on five opposition parties. These parties have collectively won hundreds of thousands of votes. The proceedings mark another critical test for the country’s multiparty democracy, with a final ruling potentially to come later. Georgia’s Constitutional Court will begin hearings on October 21 on a case seeking to ban five opposition parties that together have won hundreds of thousands of votes.
-
-### [Moldova To Probe Possible Russian Data-Harvesting After RFE/RL Investigation](https://www.rferl.org/a/moldova-russian-data-harvesting-yandex/33879343.html)
-*Radio Free Europe / Liberty* - Oct 20, 15:43 IST (iso: 2026-10-20T10:13:51+00:00)
-<!-- image: https://gdb.rferl.org/131fffd7-5cf1-49d4-8ed3-08debadc418c_w1200_h630.jpg -->
-
-Moldova launched an investigation into Yandex for allegedly harvesting citizen data. The company reportedly sent personal information to Russian servers instead of the Netherlands. This contradicts previous data storage agreements. The probe follows an investigation by Radio Free Europe/Radio Liberty. Moldova has announced an investigation into concerns that Russian tech giant Yandex has been harvesting the personal data of its citizens by sending it directly to servers in Russia rather than storing it in the Netherlands as previously believed.
-
-### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
-*The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
-<!-- image: https://i.guim.co.uk/img/media/70eac97d7dd3289ac3b0e22b1638ee5d18d2b9fa/733_0_5413_4333/master/5413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e30bdf7a1381872da21cdda4a14abc20 -->
-
-Hurricane Trudy weakened to a tropical storm after threatening Mexico's Pacific coast. The system remained 160 kilometers southwest of the shore. Meanwhile, deadly floods in Greece killed one person. The Pacific season saw 22 named systems this year. Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in GreeceIn contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system.
+**Updated:** October 22, 2026 23:13 IST
 
 ---
 
 ## Asia-Pacific
+
+### [UN climate damages fund earmarks $20 million to Nepal for August disaster](https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-damages-fund-earmarks-20-million-to-nepal-for-august-disaster/article71612344.ece)
+*The Hindu (International)* - Oct 22, 23:10 IST (iso: 2026-10-22T17:40:28+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/h07sfl/article71613180.ece/alternates/LANDSCAPE_1200/2026-10-20T100319Z_1470784485_RC268NA06SCB_RTRMADP_3_CLIMATE-HEAT-STORMS-SCIENCE.JPG -->
+
+The UN climate damages fund allocated $20 million to Nepal for August disasters. This marks the first country-specific payout since the fund launched in 2022. The sum covers a small fraction of Nepal's estimated $5 billion loss. Total pledges stand at $820 million against $2.8 billion in requests. This is the first time that the Fund, set up in 2022, has allocated money to a specific country; amount is a fraction of Nepal’s own $5 billion loss estimate; so far, Fund has pledges for $820 million while fielding requests worth $2.8 billion.
 
 ### [China’s new drone mothership targets US undersea edge](https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/)
 *Asia Times* - Oct 22, 11:41 IST (iso: 2026-10-22T06:11:09+00:00)
@@ -94,12 +30,6 @@ MSCI proposed downgrading Indonesia to a Standalone Market. Jakarta’s financia
 
 Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.
 
-### [North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days](https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece)
-*The Hindu (International)* - Oct 22, 03:30 IST (iso: 2026-10-21T22:00:58+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/1yfq6b/article71609152.ece/alternates/LANDSCAPE_1200/North_Korea_Koreas_Tensions_6_542.jpg -->
-
-Kim Yo Jong warned South Korea via state media KCNA. She responded to accusations of mine planting by South Korean officials. North Korea stated border loudspeakers would be ready within days to escalate tensions. In a statement carried by state media KCNA, Ms. Kim ​said she was responding to ‌a special adviser to President Lee on defence policy, who accused North Korea of planting mines that wounded South Korean soldiers and told it not ‌to escalate tensions with loudspeaker broadcasts.
-
 ### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
 *Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
 <!-- image: https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg -->
@@ -114,7 +44,93 @@ New Taipei prosecutors charged five men with plotting to injure comedian Huang Y
 
 ---
 
+## Europe & Russia
+
+### [American detained in Russia arrives in U.S.: lawyer](https://www.thehindu.com/news/international/american-detained-in-russia-arrives-in-us-lawyer/article71613018.ece)
+*The Hindu (International)* - Oct 22, 23:00 IST (iso: 2026-10-22T17:30:14+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/3q2f7i/article71613151.ece/alternates/LANDSCAPE_1200/2026-10-21T125452Z_1224147023_RC2O7OAA6KJD_RTRMADP_3_RUSSIA-USA-HUBBARD.JPG -->
+
+Stephen Hubbard, an American detained in Russia, has arrived in the United States. His lawyers confirmed his release after a seven-year prison sentence. He was accused of acting as a mercenary for Ukraine. Hubbard was captured in the Ukrainian city of Izium in 2022. Stephen Hubbard’s family and lawyers have said he was living in the Ukrainian city of Izium when he was taken captive by Russia in 2022.
+
+### [Tajik Dissidents Feel Abandoned By West After Deportation, Imprisonment Of Activists](https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html)
+*Radio Free Europe / Liberty* - Oct 22, 22:32 IST (iso: 2026-10-22T17:02:05+00:00)
+<!-- image: https://gdb.rferl.org/01000000-0aff-0242-7582-08dc4438eca6_cx0_cy0_cw99_w1200_h630.png -->
+
+Tajik dissidents report feeling abandoned by Western nations following recent deportations. Several opposition figures were expelled from Germany and other European countries. They face imprisonment upon returning to Tajikistan. Exiled activists now fear losing the diplomatic support they previously relied on for protection. The deportation of several Tajik opposition figures from Germany and other European countries, and their subsequent imprisonment, have heightened fears among Tajik oppositionists in exile.
+
+### [Ukraine Cuts Chinese Drone Dependence, But Critical Gaps Remain](https://www.rferl.org/a/ukraine-cuts-chinese-drone-dependence-but-critical-gaps-remain/33881578.html)
+*Radio Free Europe / Liberty* - Oct 22, 16:35 IST (iso: 2026-10-22T11:05:20+00:00)
+<!-- image: https://gdb.rferl.org/465d222a-0fdd-4c63-7433-08df13a869ed_w1200_h630.jpg -->
+
+Ukraine has sharply reduced its reliance on Chinese drone components since 2022. However, critical parts remain difficult to replace at scale and cost. This leaves a persistent dependency on Beijing for essential military hardware. In 2022, Ukraine relied almost entirely on Chinese components for its military drones. While that dependency has now been drastically reduced, Ukraine still relies on Beijing for essential parts that remain difficult to replace at the necessary scale and cost.
+
+### [Australia’s NextDC stock collapse fires a global AI warning](https://asiatimes.com/2026/10/australias-nextdc-stock-collapse-fires-a-global-ai-warning/)
+*Asia Times* - Oct 22, 12:38 IST (iso: 2026-10-22T07:08:33+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/NextDC-AI-Data-Centers.jpg -->
+
+Australia’s NextDC stock collapse signals a shift in data center investment. AI’s high computing demands have disrupted the sector’s traditional stability. Investors now face heightened risk as infrastructure costs surge to meet new requirements. For two decades, data centers were relatively safe, lucrative real estate investments. They attracted investors because they served as digital infrastructure. the essential plumbing that keeps the internet running.
+
+### [Ukraine Still Awaiting US Answers On Starlink Restrictions As Lawmakers Demand Probe](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
+*Radio Free Europe / Liberty* - Oct 22, 11:07 IST (iso: 2026-10-22T05:37:19+00:00)
+<!-- image: https://gdb.rferl.org/1f67313a-da77-4024-75cb-08df13a869ed_cx0_cy4_cw0_w1200_h630.jpg -->
+
+Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.
+
+### [American Stephen Hubbard Freed After More Than 4 Years In Russian Custody](https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html)
+*Radio Free Europe / Liberty* - Oct 22, 01:27 IST (iso: 2026-10-21T19:57:46+00:00)
+<!-- image: https://gdb.rferl.org/910b612f-ed88-4aa5-e8cb-08df13afe2a0_cx0_cy1_cw0_w1200_h630.jpg -->
+
+Russian authorities released Stephen Hubbard, a 74‑year‑old American, after more than four years in custody. Russia has released 74-year-old US citizen Stephen Hubbard, who had been detained since 2022. He had been sentenced to prison for allegedly acting as a mercenary in Ukraine, charges his family disputed. President Vladimir Putin announced Hubbard’s release during talks with US envoy Steve Witkoff.
+
+### [US Citizen Accused By Moscow Of Fighting For Ukraine Released From Russian Prison](https://www.rferl.org/a/stephen-hubbard-russia-us-prisoner-release-trump/33880760.html)
+*Radio Free Europe / Liberty* - Oct 21, 15:23 IST (iso: 2026-10-21T09:53:03+00:00)
+<!-- image: https://gdb.rferl.org/dbab1883-4624-440f-98a2-e494656e233c_cx0_cy19_cw0_w1200_h630.jpg -->
+
+Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
+
+### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
+*Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
+<!-- image: https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg -->
+
+Ukrainian forces used a hexacopter drone to evacuate a soldier with leg injuries from the front lines. The military described the operation as a first. Fellow servicemen noted the soldier strapped himself to the aircraft and returned to his unit. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.
+
+### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
+*Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
+<!-- image: https://gdb.rferl.org/67889eaf-352c-4b60-e8c1-08df13a87301_w1200_h630.jpg -->
+
+Ukrainian forces retaken 26 settlements in the Dnipropetrovsk region. The villages are largely destroyed and uninhabitable. Russian troops are being pushed back, but Ukrainian forces face challenges holding the reclaimed territory under constant drone threat. As Russian troops are pushed back, Ukrainian forces face the challenge of holding the reclaimed territory under constant threat from drones. Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins.
+
+---
+
+## Americas
+
+### [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)
+*The Guardian* - Oct 22, 20:30 IST (iso: 2026-10-22T15:00:29+00:00)
+<!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
+
+Alberta officials plan to restrict rights for migrant workers despite initial welcoming policies. Vanesa Ortiz, a resident from Mexico, argues that scapegoating non-permanent residents will not lower living costs. The province previously relied on these workers for its economy. New regulations aim to limit their legal protections. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
+
+### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
+
+Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
+
+### [Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff](https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff)
+*The Guardian* - Oct 20, 21:11 IST (iso: 2026-10-20T15:41:44+00:00)
+<!-- image: https://i.guim.co.uk/img/media/693b685efa99890c59fcc2ef30cf05e163c53c8a/307_256_1170_936/master/1170.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39ee72c08e3ea1b650967af3ff0b3d36 -->
+
+Flavio Bolsonaro's debate swipe at his rival backfired before Brazil's election runoff. Social media users parodied his "corrupto" comment into a viral meme. The stunt failed to expose his opponent's alleged crookedness as intended. Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody itTo Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election. But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Lu.
+
+---
+
 ## Middle East & Africa
+
+### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
+*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
+
+Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
 
 ### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
 *The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
@@ -140,12 +156,6 @@ Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Ugand
 
 Influential Iranian officials are openly calling for a nuclear bomb. The death of Ali Khamenei has weakened the political taboo surrounding the weapon. Debate is growing over whether the Islamic republic should abandon its long-standing position against developing nukes. Ali Khamenei's death may not have invalidated his nuclear fatwa, but it has weakened the political taboo surrounding the bomb. Debate is now growing over whether the Islamic republic should abandon its long-standing position against developing nukes.
 
-### [Yemen war continues to force families from homes amid hunger and disease](https://news.un.org/feed/view/en/story/2026/10/1168629)
-*UN News* - Oct 20, 17:30 IST (iso: 2026-10-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen.jpg/image560x340cropped.jpg -->
-
-Over 250,000 people have fled renewed fighting in Yemen, the United Nations reported. Access to the southwestern city of Taiz is essentially blocked. This has trapped residents in areas facing severe hunger and disease. The displacement continues to strain local humanitarian resources. More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.
-
 ---
 
 ## Global / Multilateral
@@ -158,19 +168,9 @@ Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels.
 
 ### [Migrants paid up to $500 million in smuggling fees on European sea routes](https://news.un.org/feed/view/en/story/2026/10/1168642)
 *UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image560x340cropped.jpg -->
 
 The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.
-
----
-
-## Americas
-
-### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
-*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
-
-Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
 
 ---
 
