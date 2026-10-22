@@ -1,16 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 22, 2026 06:33 IST
+**Updated:** October 22, 2026 12:14 IST
 
 ---
 
 ## Asia-Pacific
 
-### [North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days](https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece)
-*The Hindu (International)* - Oct 22, 03:30 IST (iso: 2026-10-21T22:00:58+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/1yfq6b/article71609152.ece/alternates/LANDSCAPE_1200/North_Korea_Koreas_Tensions_6_542.jpg -->
+### [China’s new drone mothership targets US undersea edge](https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/)
+*Asia Times* - Oct 22, 11:41 IST (iso: 2026-10-22T06:11:09+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg -->
 
-Kim Yo Jong warned South Korea that border loudspeakers would be operational within days. The North Korean leader responded to a special adviser to President Lee who accused Pyongyang of planting mines that wounded South Korean soldiers. The adviser had also urged the North to avoid escalating tensions through loudspeaker broadcasts. Kim framed the threat as a direct reply to these accusations and warnings.
+China built a second drone mothership to launch submarine-sized uncrewed vessels. The platform targets US undersea dominance in the Western Pacific. This capability extends autonomous power beyond the First Island Chain. It systematically challenges American submarine operations in the region. China’s development of specialized naval auxiliaries designed to transport, launch and recover submarine-sized uncrewed vessels signals an assertive push to project autonomous undersea power beyond the First Island Chain and systematically challenge US submarine dominance in the Western Pacific.
+
+### [Don’t mistake Indonesia’s MSCI scare for economic weakness](https://asiatimes.com/2026/10/dont-mistake-indonesias-msci-scare-for-economic-weakness/)
+*Asia Times* - Oct 22, 11:14 IST (iso: 2026-10-22T05:44:08+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Bank-Indonesia-Rupiah-Indonesia-Economy.jpg -->
+
+MSCI proposed downgrading Indonesia to a Standalone Market. Jakarta’s financial community reacted with anxiety and capital flight. Regulators moved to calm investors. The market tremor does not reflect the country’s overall economic health or structural stability. When MSCI floated the idea of downgrading Indonesia to a Standalone Market, anxiety quickly swept through Jakarta’s financial community. Predictably, alarming headlines immediately pointed to foreign capital flight, stock prices dropped and local regulators quickly moved to calm jittery investors.
+
+### [North Korea prepares to restart propaganda loudspeakers as ties sour with South](https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea)
+*The Guardian* - Oct 22, 09:26 IST (iso: 2026-10-22T03:56:46+00:00)
+<!-- image: https://i.guim.co.uk/img/media/713bcd9ff1654fe9c89a51939a324229100d3767/0_125_3728_2984/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e37089bb178a354486cf3ff0ec3898 -->
+
+Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.
 
 ### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
 *Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
@@ -24,15 +36,27 @@ Tajikistan is advancing the Soviet-era Roghun Dam project after securing major f
 
 New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.
 
-### [China’s economy grows faster than forecast after AI boom boosts exports](https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports)
-*The Guardian* - Oct 19, 14:57 IST (iso: 2026-10-19T09:27:04+00:00)
-<!-- image: https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab -->
-
-China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.
-
 ---
 
 ## Europe & Russia
+
+### [Ukraine Still Awaiting US Answers On Starlink Restrictions As Lawmakers Demand Probe](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
+*Radio Free Europe / Liberty* - Oct 22, 11:07 IST (iso: 2026-10-22T05:37:19+00:00)
+<!-- image: https://gdb.rferl.org/1f67313a-da77-4024-75cb-08df13a869ed_cx0_cy4_cw0_w1200_h630.jpg -->
+
+Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.
+
+### [After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?](https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece)
+*The Hindu (International)* - Oct 22, 10:52 IST (iso: 2026-10-22T05:22:49+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/55v76z/article71608768.ece/alternates/LANDSCAPE_1200/iStock-1558220804.jpg -->
+
+Musk’s restrictions on satellite services to Ukraine highlight India’s dependence on foreign technology. Gaps in domestic capabilities expose critical infrastructure to external pressure. This includes satellite navigation, cloud computing, and military equipment. Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure.
+
+### [Missiles strike Ukraine's capital after U.S. envoy visits Russia](https://www.thehindu.com/news/international/missiles-strike-ukraines-capital-after-us-envoy-visits-russia/article71609868.ece)
+*The Hindu (International)* - Oct 22, 07:36 IST (iso: 2026-10-22T02:06:37+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ot8l50/article71609903.ece/alternates/LANDSCAPE_1200/AFP__20261022__D4292ZR__v1__HighRes__UkraineRussiaConflictWar.jpg -->
+
+Russian missiles struck Kyiv shortly after U. S. envoy Steve Witkoff met Vladimir Putin in Saint Petersburg. Witkoff praised Putin for releasing American prisoner Stephen Hubbard. The Kremlin stated it was willing to restart talks but found little substance in the peace proposals delivered by the U. S. diplomat. Mr. Witkoff praised Mr. Putin as a "humanitarian" for freeing U. S. citizen Stephen Hubbard, but the Kremlin warned after the meeting in Saint Petersburg that while Moscow was "in principle" willing to restart talks there was little "substance" in Ukrainian and European peace proposals the U. S.
 
 ### [American Stephen Hubbard Freed After More Than 4 Years In Russian Custody](https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html)
 *Radio Free Europe / Liberty* - Oct 22, 01:27 IST (iso: 2026-10-21T19:57:46+00:00)
@@ -46,17 +70,11 @@ Russian authorities released Stephen Hubbard, a 74‑year‑old American, after 
 
 Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
 
-### [Vladimir Putin’s Neighbors: Two Parallel Worlds On Lake Valdai](https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html)
+### [Vladimir Putin's Neighbors: Two Parallel Worlds On Lake Valdai](https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html)
 *Radio Free Europe / Liberty* - Oct 21, 13:13 IST (iso: 2026-10-21T07:43:41+00:00)
 <!-- image: https://gdb.rferl.org/9ae7e62f-3e02-4141-42b6-08df13a884cb_w1200_h630.jpg -->
 
 Vladimir Putin's residence near Lake Valdai features heavy security and air defenses. Locals nearby face restricted access to the lake and forests. Families in the region bear the economic costs of Russia's war against Ukraine. The area exists as two parallel worlds of privilege and restriction. Vladimir Putin’s secluded residence near Russia’s Lake Valdai is surrounded by fences, security forces, and air defenses.
-
-### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
-*Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
-<!-- image: https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg -->
-
-Ukraine's military rescued a wounded soldier from the front lines using an aerial drone. The soldier, injured in both legs, strapped himself to a hexacopter for evacuation. Fellow servicemen described the act as heroic. This marks the first recorded instance of such a drone-based battlefield rescue. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.
 
 ### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
 *Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
@@ -75,18 +93,6 @@ Georgia’s Constitutional Court will begin hearings on October 21 regarding a b
 <!-- image: https://gdb.rferl.org/131fffd7-5cf1-49d4-8ed3-08debadc418c_w1200_h630.jpg -->
 
 Moldova launched an investigation into Yandex for allegedly harvesting citizen data. The company reportedly sent personal information to Russian servers instead of the Netherlands. This contradicts previous data storage agreements. The probe follows an investigation by Radio Free Europe/Radio Liberty. Moldova has announced an investigation into concerns that Russian tech giant Yandex has been harvesting the personal data of its citizens by sending it directly to servers in Russia rather than storing it in the Netherlands as previously believed.
-
-### [Why Starshield’s slowdown really hurts Ukraine](https://asiatimes.com/2026/10/why-starshields-slowdown-really-hurts-ukraine/)
-*Asia Times* - Oct 20, 15:07 IST (iso: 2026-10-20T09:37:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-Drones-Drone-Warfare.jpg -->
-
-SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces. This slowdown has raised serious concerns in Kyiv and among its allies. The military-grade service supports critical battlefield communications. The disruption highlights Ukraine’s dependence on external satellite infrastructure. Reports that SpaceX temporarily restricted its satellite internet service for Ukraine’s armed forces have generated serious concern in Kyiv and among the country’s allies.
-
-### [After Oslo Talks, Zelenskyy Thanks US As Missile Intelligence 'Works Now'](https://www.rferl.org/a/ukraine-russia-attack-zelenskyy-oslo-meeting/33880037.html)
-*Radio Free Europe / Liberty* - Oct 20, 14:55 IST (iso: 2026-10-20T09:25:25+00:00)
-<!-- image: https://gdb.rferl.org/9447997b-440f-4e91-8294-ad127b254418_cx5_cy12_cw86_w1200_h630.jpg -->
-
-Zelenskyy thanked the United States after Oslo talks. He said missile intelligence now works effectively. US envoys Steve Witkoff and Jared Kushner joined the meetings. Russia continues to bomb Ukraine while tensions between Kyiv and Washington grow. US special envoys Steve Witkoff and Jared Kushner will take part in meetings in Oslo to discuss the situation in Ukraine with President Volodymyr Zelenskyy as Russia continues to pound the country amid growing tensions between Kyiv and Washington.
 
 ### [Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods](https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods)
 *The Guardian* - Oct 19, 15:37 IST (iso: 2026-10-19T10:07:09+00:00)
@@ -112,7 +118,7 @@ Families report ICE is deporting severely ill detainees from Florida jails. Flig
 
 ### [Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis](https://news.un.org/feed/view/en/story/2026/10/1168638)
 *UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image770x420cropped.jpg -->
 
 Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met to discuss a ceasefire. The goal is a transition to peaceful governance that represents all Sudanese people amid the ongoing drone war. Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.
 
@@ -134,25 +140,19 @@ Influential Iranian officials are openly calling for a nuclear bomb. The death o
 
 Over 250,000 people have fled renewed fighting in Yemen, the United Nations reported. Access to the southwestern city of Taiz is essentially blocked. This has trapped residents in areas facing severe hunger and disease. The displacement continues to strain local humanitarian resources. More than 250,000 people have now fled renewed fighting in Yemen, the UN said on Tuesday, citing particular concern for those sheltering in the southwestern city of Taiz and the wider governorate, where access is “essentially blocked”.
 
-### [Dhaka’s silence on Saudi executions puts remittances over lives](https://asiatimes.com/2026/10/dhakas-silence-on-saudi-executions-puts-remittances-over-lives/)
-*Asia Times* - Oct 20, 14:14 IST (iso: 2026-10-20T08:44:17+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Mecca-Saudi-Arabia.jpg -->
-
-Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.
-
 ---
 
 ## Global / Multilateral
 
 ### [Migrants paid up to $500 million in smuggling fees on European sea routes](https://news.un.org/feed/view/en/story/2026/10/1168642)
 *UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg -->
 
 The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.
 
 ### [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/feed/view/en/story/2026/10/1168634)
 *UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image770x420cropped.jpg -->
 
 Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels. Nations must implement deep, rapid emissions cuts to minimize this overshoot. The goal is returning to the agreed threshold by century's end. Urgent action is required to limit the duration of this breach. With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.
 

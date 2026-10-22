@@ -1,21 +1,81 @@
 {
-  "generated_at": "2026-10-22T01:03:48.971071+00:00",
+  "generated_at": "2026-10-22T06:44:34.051730+00:00",
   "article_count": 50,
-  "total_unique_count": 258,
+  "total_unique_count": 265,
   "digest": {
-    "en": "Kim Yo Jong threatens South Korea with border loudspeakers within days. Meanwhile, Stephen Hubbard walks free after four years in Russian custody. The contrast between escalating regional threats and quiet diplomatic releases defines the current geopolitical mood.",
-    "hi": "सऊदी अरब के एयरपोर्ट और अरामको तेल ठिकानों पर हुए हमलों में तीन की मौत हुई है। इसी घंटे रूस के डीजल निर्यात पर यूक्रेन के ड्रोन हमलों ने 77 प्रतिशत की गिरावट लाई है।"
+    "en": "Missiles hit Kyiv hours after the US envoy visited Moscow. China is simultaneously testing a drone mothership to challenge American undersea dominance. The pressure on Ukraine and the Pacific is tightening at the same time.",
+    "hi": "वॉशिंगटन ने आज ईरान पर नए सैन्य ऑपरेशन की तैयारी की घोषणा की, ट्रम्प ने कहा कोई बातचीत नहीं चल रही।"
   },
   "articles": [
     {
-      "title": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days",
-      "url": "https://www.thehindu.com/news/international/north-koreas-kim-yo-jong-warns-south-korea-says-border-loudspeakers-to-be-ready-within-days/article71609150.ece",
+      "title": "China’s new drone mothership targets US undersea edge",
+      "url": "https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-10-22T06:11:09+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg",
+      "summary": "China built a second drone mothership to launch submarine-sized uncrewed vessels. The platform targets US undersea dominance in the Western Pacific. This capability extends autonomous power beyond the First Island Chain. It systematically challenges American submarine operations in the region. China’s development of specialized naval auxiliaries designed to transport, launch and recover submarine-sized uncrewed vessels signals an assertive push to project autonomous undersea power beyond the First Island Chain and systematically challenge US submarine dominance in the Western Pacific.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Don’t mistake Indonesia’s MSCI scare for economic weakness",
+      "url": "https://asiatimes.com/2026/10/dont-mistake-indonesias-msci-scare-for-economic-weakness/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-10-22T05:44:08+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Bank-Indonesia-Rupiah-Indonesia-Economy.jpg",
+      "summary": "MSCI proposed downgrading Indonesia to a Standalone Market. Jakarta’s financial community reacted with anxiety and capital flight. Regulators moved to calm investors. The market tremor does not reflect the country’s overall economic health or structural stability. When MSCI floated the idea of downgrading Indonesia to a Standalone Market, anxiety quickly swept through Jakarta’s financial community. Predictably, alarming headlines immediately pointed to foreign capital flight, stock prices dropped and local regulators quickly moved to calm jittery investors.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine Still Awaiting US Answers On Starlink Restrictions As Lawmakers Demand Probe",
+      "url": "https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-22T05:37:19+00:00",
+      "image_url": "https://gdb.rferl.org/1f67313a-da77-4024-75cb-08df13a869ed_cx0_cy4_cw0_w1200_h630.jpg",
+      "summary": "Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
+      "url": "https://www.thehindu.com/sci-tech/science/musk-punishes-ukraine-how-exposed-is-india-to-foreign-tech-explained/article71607362.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-10-21T22:00:58+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/1yfq6b/article71609152.ece/alternates/LANDSCAPE_1200/North_Korea_Koreas_Tensions_6_542.jpg",
-      "summary": "Kim Yo Jong warned South Korea that border loudspeakers would be operational within days. The North Korean leader responded to a special adviser to President Lee who accused Pyongyang of planting mines that wounded South Korean soldiers. The adviser had also urged the North to avoid escalating tensions through loudspeaker broadcasts. Kim framed the threat as a direct reply to these accusations and warnings.",
+      "published_at": "2026-10-22T05:22:49+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/55v76z/article71608768.ece/alternates/LANDSCAPE_1200/iStock-1558220804.jpg",
+      "summary": "Musk’s restrictions on satellite services to Ukraine highlight India’s dependence on foreign technology. Gaps in domestic capabilities expose critical infrastructure to external pressure. This includes satellite navigation, cloud computing, and military equipment. Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in domestic capabilities can leave critical infrastructure exposed to external pressure.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+      "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-22T03:56:46+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/713bcd9ff1654fe9c89a51939a324229100d3767/0_125_3728_2984/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e37089bb178a354486cf3ff0ec3898",
+      "summary": "Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Missiles strike Ukraine's capital after U.S. envoy visits Russia",
+      "url": "https://www.thehindu.com/news/international/missiles-strike-ukraines-capital-after-us-envoy-visits-russia/article71609868.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-22T02:06:37+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/ot8l50/article71609903.ece/alternates/LANDSCAPE_1200/AFP__20261022__D4292ZR__v1__HighRes__UkraineRussiaConflictWar.jpg",
+      "summary": "Russian missiles struck Kyiv shortly after U. S. envoy Steve Witkoff met Vladimir Putin in Saint Petersburg. Witkoff praised Putin for releasing American prisoner Stephen Hubbard. The Kremlin stated it was willing to restart talks but found little substance in the peace proposals delivered by the U. S. diplomat. Mr. Witkoff praised Mr. Putin as a \"humanitarian\" for freeing U. S. citizen Stephen Hubbard, but the Kremlin warned after the meeting in Saint Petersburg that while Moscow was \"in principle\" willing to restart talks there was little \"substance\" in Ukrainian and European peace proposals the U. S.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -85,7 +145,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-21T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image770x420cropped.jpg",
       "summary": "Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met to discuss a ceasefire. The goal is a transition to peaceful governance that represents all Sudanese people amid the ongoing drone war. Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -97,7 +157,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-21T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg",
       "summary": "The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
       "region": "Global / Multilateral",
       "language": "en",
@@ -109,7 +169,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-21T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image770x420cropped.jpg",
       "summary": "Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels. Nations must implement deep, rapid emissions cuts to minimize this overshoot. The goal is returning to the agreed threshold by century's end. Urgent action is required to limit the duration of this breach. With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.",
       "region": "Global / Multilateral",
       "language": "en",
@@ -128,7 +188,7 @@
       "translations": {}
     },
     {
-      "title": "Vladimir Putin’s Neighbors: Two Parallel Worlds On Lake Valdai",
+      "title": "Vladimir Putin's Neighbors: Two Parallel Worlds On Lake Valdai",
       "url": "https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
@@ -148,18 +208,6 @@
       "image_url": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168",
       "summary": "Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone",
-      "url": "https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-20T19:52:44+00:00",
-      "image_url": "https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg",
-      "summary": "Ukraine's military rescued a wounded soldier from the front lines using an aerial drone. The soldier, injured in both legs, strapped himself to a hexacopter for evacuation. Fellow servicemen described the act as heroic. This marks the first recorded instance of such a drone-based battlefield rescue. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -248,42 +296,6 @@
       "translations": {}
     },
     {
-      "title": "Why Starshield’s slowdown really hurts Ukraine",
-      "url": "https://asiatimes.com/2026/10/why-starshields-slowdown-really-hurts-ukraine/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-10-20T09:37:26+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Ukraine-Drones-Drone-Warfare.jpg",
-      "summary": "SpaceX temporarily restricted Starshield satellite internet for Ukrainian forces. This slowdown has raised serious concerns in Kyiv and among its allies. The military-grade service supports critical battlefield communications. The disruption highlights Ukraine’s dependence on external satellite infrastructure. Reports that SpaceX temporarily restricted its satellite internet service for Ukraine’s armed forces have generated serious concern in Kyiv and among the country’s allies.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "After Oslo Talks, Zelenskyy Thanks US As Missile Intelligence 'Works Now'",
-      "url": "https://www.rferl.org/a/ukraine-russia-attack-zelenskyy-oslo-meeting/33880037.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-20T09:25:25+00:00",
-      "image_url": "https://gdb.rferl.org/9447997b-440f-4e91-8294-ad127b254418_cx5_cy12_cw86_w1200_h630.jpg",
-      "summary": "Zelenskyy thanked the United States after Oslo talks. He said missile intelligence now works effectively. US envoys Steve Witkoff and Jared Kushner joined the meetings. Russia continues to bomb Ukraine while tensions between Kyiv and Washington grow. US special envoys Steve Witkoff and Jared Kushner will take part in meetings in Oslo to discuss the situation in Ukraine with President Volodymyr Zelenskyy as Russia continues to pound the country amid growing tensions between Kyiv and Washington.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Dhaka’s silence on Saudi executions puts remittances over lives",
-      "url": "https://asiatimes.com/2026/10/dhakas-silence-on-saudi-executions-puts-remittances-over-lives/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-10-20T08:44:17+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Mecca-Saudi-Arabia.jpg",
-      "summary": "Saudi Arabia executed two Bangladeshis on October 14, prompting minimal diplomatic reaction from Dhaka. The foreign ministry requested details but assured Riyadh that bilateral relations would remain unaffected. This restrained official response contrasts sharply with widespread public anger on social media, highlighting a preference for remittance stability over immediate political protest. Saudi Arabia executed two Bangladeshis on October 14 but Dhaka’s response was conspicuously restrained.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
       "source": "The Guardian",
@@ -296,464 +308,452 @@
       "translations": {}
     },
     {
-      "title": "China’s economy grows faster than forecast after AI boom boosts exports",
-      "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-19T09:27:04+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/892bb878342a5fcbb68c7a85fb2b553e42c94669/495_0_4953_3962/master/4953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bd93bdedc7ef2dd117591adb07e0cab",
-      "summary": "China's third-quarter GDP grew by 4.5 percent year-on-year. The figure exceeded previous forecasts. Strong electronics demand boosted industrial output and exports. Factory growth significantly outpaced consumer spending during the July to September period. Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5% year-on-year between July and September, the National Bureau of Statistics of China reported on.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
-      "url": "https://www.amarujala.com/world/pakistan-high-court-seeks-report-on-missing-former-kpk-chief-minister-sohail-afridi-2026-10-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-22T07:16:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/14/pataaaii-natao-para-kararavaii-ka-bca-parava-saema-harasata-ma_c4e4b69b9b10f6a1db2f3e0f907138ce.jpeg?w=1200&dpr=1.0",
-      "summary": "पाकिस्तान के पूर्व मुख्यमंत्री सोहेल अफरीदी लापता हैं। पेशावर हाई कोर्ट ने पुलिस को दस दिन में रिपोर्ट जमा करने का निर्देश दिया है। अदालत ने मामले की त्वरित जांच पर जोर दिया है। पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
-          "summary": "पाकिस्तान के पूर्व मुख्यमंत्री सोहेल अफरीदी लापता हैं। पेशावर हाई कोर्ट ने पुलिस को दस दिन में रिपोर्ट जमा करने का निर्देश दिया है। अदालत ने मामले की त्वरित जांच पर जोर दिया है। पूर्व सीएम सोहेल अफरीदी लापता, हाईकोर्ट सख्त; पुलिस से 10 दिन में मांगी रिपोर्ट; क्या है मामला?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अदालत के आदेश पर चुकाने होंगे 25 बिलियन डॉलर, ट्रंप से जुड़े डाटा 'लीक' का मामला क्या?",
-      "url": "https://www.amarujala.com/world/meta-new-mexico-fine-25-bn-usd-jury-company-misled-consumers-trump-2016-campaign-facebook-user-data-no-consent-2026-10-22",
+      "title": "शीतल-तोमन की जोड़ी ने तीरंदाजी में जीता स्वर्ण, सुवर्णा को डिस्कस थ्रो में मिला गोल्ड",
+      "url": "https://www.amarujala.com/live/sports/asian-para-games-2026-live-updates-india-medal-tally-results-scores-and-highlights-from-day-4-2026-10-22",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-22T06:38:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/mata-ka-cakana-haga-jaramana_8f9c4b5acbcf2160fbd95132322de6c9.jpeg?w=1200&dpr=1.0",
-      "summary": "अदालत के आदेश के तहत मेटा को 25 बिलियन डॉलर का जुर्माना भरना होगा। यह राशि ट्रंप से जुड़े डेटा लीक मामले से संबंधित है। मेटा पर जुर्माना: अदालत के आदेश पर चुकाने होंगे 25 बिलियन डॉलर, ट्रंप से जुड़े डाटा 'लीक' का मामला क्या?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अदालत के आदेश पर चुकाने होंगे 25 बिलियन डॉलर, ट्रंप से जुड़े डाटा 'लीक' का मामला क्या?",
-          "summary": "अदालत के आदेश के तहत मेटा को 25 बिलियन डॉलर का जुर्माना भरना होगा। यह राशि ट्रंप से जुड़े डेटा लीक मामले से संबंधित है। मेटा पर जुर्माना: अदालत के आदेश पर चुकाने होंगे 25 बिलियन डॉलर, ट्रंप से जुड़े डाटा 'लीक' का मामला क्या?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "45 शहरों में लागू होगी एमएलएफएफ तकनीक: अब टोल प्लाजा पर रुकने की जरूरत नहीं, 90 की रफ्तार से",
-      "url": "https://www.amarujala.com/india-news/mlff-technology-in-45-indian-cities-no-stopping-at-toll-plazas-vehicles-to-pass-at-90-kmph-2026-10-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-22T01:03:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/04/toll-tax-toll-plaza-fastag_a6018f1a6248f09571abc4e13fe53fb4.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत सरकार ने 45 शहरों में एमएलएफएफ तकनीक लागू करने का फैसला लिया है। इससे वाहन टोल प्लाजा पर रुके बिना 90 किमी प्रति घंटे की रफ्तार से गुजर सकेंगे। यह प्रणाली यातायात की गति बढ़ाएगी। 45 शहरों में लागू होगी एमएलएफएफ तकनीक: अब टोल प्लाजा पर रुकने की जरूरत नहीं, 90 की रफ्तार से।",
+      "published_at": "2026-10-22T06:37:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/28/shatal-thava_7eab57cf1e399bd1737fb77a445cbb00.jpeg?w=1200&dpr=1.0",
+      "summary": "एशियन पैरा गेम्स 2026 के चौथे दिन भारत ने सुवर्णा राज के स्वर्ण और स्वाति चौधरी के रजत के साथ शानदार प्रदर्शन किया। सुवर्णा ने महिला डिस्कस थ्रो एफ54 में 15.66 मीटर के थ्रो से स्वर्ण पदक जीता। एशियन पैरा गेम्स 2026 के चौथे दिन भारत ने सुवर्णा राज के स्वर्ण और स्वाति चौधरी के ऐतिहासिक रजत के साथ शानदार शुरुआत की।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "45 शहरों में लागू होगी एमएलएफएफ तकनीक: अब टोल प्लाजा पर रुकने की जरूरत नहीं, 90 की रफ्तार से",
-          "summary": "भारत सरकार ने 45 शहरों में एमएलएफएफ तकनीक लागू करने का फैसला लिया है। इससे वाहन टोल प्लाजा पर रुके बिना 90 किमी प्रति घंटे की रफ्तार से गुजर सकेंगे। यह प्रणाली यातायात की गति बढ़ाएगी। 45 शहरों में लागू होगी एमएलएफएफ तकनीक: अब टोल प्लाजा पर रुकने की जरूरत नहीं, 90 की रफ्तार से।",
+          "title": "शीतल-तोमन की जोड़ी ने तीरंदाजी में जीता स्वर्ण, सुवर्णा को डिस्कस थ्रो में मिला गोल्ड",
+          "summary": "एशियन पैरा गेम्स 2026 के चौथे दिन भारत ने सुवर्णा राज के स्वर्ण और स्वाति चौधरी के रजत के साथ शानदार प्रदर्शन किया। सुवर्णा ने महिला डिस्कस थ्रो एफ54 में 15.66 मीटर के थ्रो से स्वर्ण पदक जीता। एशियन पैरा गेम्स 2026 के चौथे दिन भारत ने सुवर्णा राज के स्वर्ण और स्वाति चौधरी के ऐतिहासिक रजत के साथ शानदार शुरुआत की।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "इत्तू सी डिवाइस, पढ़ लेगी दिमाग की हर खुराफात, 8500 न्यूरॉन्स की हरकतों पर होगी पैनी नजर",
-      "url": "https://hindi.news18.com/world/china-world-smallest-wearable-brain-monitor-developed-by-china-with-can-look-8500-neurons-ws-l-10926267.html",
-      "source": "News18 Hindi (World)",
+      "title": "जुहू में फायरिंग से पहले कहां चली थी गोली? सलमान-आमिर ही नहीं, इस अभिनेता के घर भी हुई रेकी",
+      "url": "https://www.amarujala.com/india-news/tiger-shroff-case-where-were-firing-before-incident-in-juhu-not-just-salman-aamir-ranbir-was-also-target-2026-10-22",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-22T01:01:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/brain-monitor-2026-10-d97aec40a46c9dfd7caffccb32968588-1200x800.jpg",
-      "summary": "वैज्ञानिकों ने एक छोटी पहनने योग्य डिवाइस विकसित की है। यह दिमाग के भीतर 8500 न्यूरॉन्स की गतिविधियों को रिकॉर्ड करती है। यह उपकरण मस्तिष्क के कार्यप्रणाली को समझने में मदद करेगा। Smallest Wearable Brain Monitor: हम सभी सोचते हैं कि आखिर हमारा दिमाग काम कैसे करता है, तो इसी पहेली को सुलझाने का काम किया है वैज्ञानिकों ने. उन्होंने एक ऐसी माइक्रो मिनी डिवाइस बनाई है, जो दिमाग के अंदर चलने वाली हर हलचल को रिकॉर्ड कर सकती है.",
+      "published_at": "2026-10-22T06:35:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/tiger-shroff-firing-case_affd8db32689eae201c265adaa6b1fe5.jpeg?w=1200&dpr=1.0",
+      "summary": "टाइगर श्रॉफ केस में जुहू की फायरिंग से पहले सलमान खान, आमिर खान और रणबीर कपूर के घरों की रेकी हुई थी। पुलिस ने घटना से पहले इन स्थानों पर चली गई गोली की जांच शुरू कर दी है। सलमान-आमिर ही नहीं, इस अभिनेता के घर भी हुई रेकी। जुहू में फायरिंग से पहले कहां चली थी गोली?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इत्तू सी डिवाइस, पढ़ लेगी दिमाग की हर खुराफात, 8500 न्यूरॉन्स की हरकतों पर होगी पैनी नजर",
-          "summary": "वैज्ञानिकों ने एक छोटी पहनने योग्य डिवाइस विकसित की है। यह दिमाग के भीतर 8500 न्यूरॉन्स की गतिविधियों को रिकॉर्ड करती है। यह उपकरण मस्तिष्क के कार्यप्रणाली को समझने में मदद करेगा। Smallest Wearable Brain Monitor: हम सभी सोचते हैं कि आखिर हमारा दिमाग काम कैसे करता है, तो इसी पहेली को सुलझाने का काम किया है वैज्ञानिकों ने. उन्होंने एक ऐसी माइक्रो मिनी डिवाइस बनाई है, जो दिमाग के अंदर चलने वाली हर हलचल को रिकॉर्ड कर सकती है.",
+          "title": "जुहू में फायरिंग से पहले कहां चली थी गोली? सलमान-आमिर ही नहीं, इस अभिनेता के घर भी हुई रेकी",
+          "summary": "टाइगर श्रॉफ केस में जुहू की फायरिंग से पहले सलमान खान, आमिर खान और रणबीर कपूर के घरों की रेकी हुई थी। पुलिस ने घटना से पहले इन स्थानों पर चली गई गोली की जांच शुरू कर दी है। सलमान-आमिर ही नहीं, इस अभिनेता के घर भी हुई रेकी। जुहू में फायरिंग से पहले कहां चली थी गोली?",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "सऊदी अरब में एयरपोर्ट पर हमला, अरामको तेल ठिकाने पर भी अटैक, अब तक 3 की मौत, भारतीय भी घायल",
-      "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-airport-aramco-oil-field-attacks-kill-three-injure-foreigners-10926894.html",
-      "source": "News18 Hindi (World)",
+      "title": "पड़ोसी- बहनजी, कल आपके घर कौन आया था? महिला ने दिया ऐसा जवाब कि पड़ोसी बेहोश",
+      "url": "https://www.amarujala.com/photo-gallery/humour/funny-neighbor-jokes-woman-witty-replies-will-make-you-laugh-2026-10-22",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-22T00:58:16+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-3-2026-10-5b0eaa687106e5f3ae5f71b04eb1ddc1-1200x800.jpg",
-      "summary": "सऊदी अरब के दम्माम में किंग फहद एयरपोर्ट पर हमला हुआ। एक व्यक्ति की मौत हुई और आठ लोग घायल हुए। बाद में शायबा तेल क्षेत्र पर ड्रोन हमला किया गया, जिसमें तीन लोगों की मौत हुई। Attack on King Fahd International Airport in Saudi Arabia's Dammam: सऊदी अरब में बुधवार को दम्माम के किंग फहद इंटरनेशनल एयरपोर्ट पर हुए हमले में एक व्यक्ति की मौत हो गई और आठ लोग घायल हो गए.",
+      "published_at": "2026-10-22T06:34:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/paugdhasa-oura-mahal-ka-majathara-nakajhaka_568936b72fc8995c94396a5936d2a7a8.jpeg?w=1200&dpr=1.0",
+      "summary": "यह समाचार आइटम वास्तविक घटना नहीं है, बल्कि पड़ोसी और महिला के बीच हाजिरजवाबी पर आधारित एक मजेदार जोक है। इसमें पड़ोसी की जिज्ञासा और महिला के चुटकीलौकिक जवाब का वर्णन किया गया है। पड़ोसी और महिला के ये मजेदार जोक्स रोजमर्रा की जिंदगी की छोटी-छोटी बातों पर आधारित हैं। कहीं पड़ोसी की जरूरत से ज्यादा जिज्ञासा है, तो कहीं महिला की हाजिरजवाबी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पड़ोसी- बहनजी, कल आपके घर कौन आया था? महिला ने दिया ऐसा जवाब कि पड़ोसी बेहोश",
+          "summary": "यह समाचार आइटम वास्तविक घटना नहीं है, बल्कि पड़ोसी और महिला के बीच हाजिरजवाबी पर आधारित एक मजेदार जोक है। इसमें पड़ोसी की जिज्ञासा और महिला के चुटकीलौकिक जवाब का वर्णन किया गया है। पड़ोसी और महिला के ये मजेदार जोक्स रोजमर्रा की जिंदगी की छोटी-छोटी बातों पर आधारित हैं। कहीं पड़ोसी की जरूरत से ज्यादा जिज्ञासा है, तो कहीं महिला की हाजिरजवाबी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सीबीएसई बोर्ड की डेटशीट कब आएगी? पिछले वर्ष इसी महीने हुई थी जारी, जानें पांच वर्षों का ट्रेंड",
+      "url": "https://www.amarujala.com/education/cbse-board-exam-2027-date-sheet-expected-release-date-and-5-years-trends-download-cbse-2027-date-sheet-pdf-2026-10-20",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T06:33:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/20/cbse-date-sheet-2027_e26eda3dcc410c8f2da453f378f301c6.jpeg?w=1200&dpr=1.0",
+      "summary": "सीबीएसई ने 2026 की बोर्ड परीक्षाओं के लिए पहली बार अस्थायी डेटशीट 24 सितंबर 2025 को जारी की थी। इसके बाद अंतिम डेटशीट अक्तूबर 2025 में जारी हुई, जबकि 2027 के विद्यार्थियों को अब नई डेटशीट का इंतजार है। इसके बाद अंतिम डेटशीट अक्तूबर 2025 को जारी की गई थी। 2027 की बोर्ड परीक्षा में शामिल होने वाले विद्यार्थियों को डेटशीट का बेसब्री से इंतजार है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सीबीएसई बोर्ड की डेटशीट कब आएगी? पिछले वर्ष इसी महीने हुई थी जारी, जानें पांच वर्षों का ट्रेंड",
+          "summary": "सीबीएसई ने 2026 की बोर्ड परीक्षाओं के लिए पहली बार अस्थायी डेटशीट 24 सितंबर 2025 को जारी की थी। इसके बाद अंतिम डेटशीट अक्तूबर 2025 में जारी हुई, जबकि 2027 के विद्यार्थियों को अब नई डेटशीट का इंतजार है। इसके बाद अंतिम डेटशीट अक्तूबर 2025 को जारी की गई थी। 2027 की बोर्ड परीक्षा में शामिल होने वाले विद्यार्थियों को डेटशीट का बेसब्री से इंतजार है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गायक के पक्ष में आया FWICE, प्रधानमंत्री मोदी और उत्तराखंड के मुख्यमंत्री को लिखी चिट्ठी",
+      "url": "https://www.amarujala.com/entertainment/fwice-writes-to-prime-minister-modi-and-uttarakhand-cm-pushkar-singh-dhami-over-daler-mehndi-controversy-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T06:31:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/thalra-mahatha_fb9c19d6d638162917de98bac61aef50.jpeg?w=1200&dpr=1.0",
+      "summary": "फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज ने दलेर मेहंदी से जुड़े विवाद में सिंगर का पक्ष लिया है। संघ ने इस मामले में प्रधानमंत्री नरेंद्र मोदी और उत्तराखंड के मुख्यमंत्री को चिट्ठी लिखी है। दलेर मेहंदी से जुड़े विवाद पर फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज ने सिंगर का पक्ष लिया है। इस संबंध में फिल्म बॉडी ने प्रधानमंत्री नरेंद्र मोदी को चिट्ठी लिखी है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गायक के पक्ष में आया FWICE, प्रधानमंत्री मोदी और उत्तराखंड के मुख्यमंत्री को लिखी चिट्ठी",
+          "summary": "फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज ने दलेर मेहंदी से जुड़े विवाद में सिंगर का पक्ष लिया है। संघ ने इस मामले में प्रधानमंत्री नरेंद्र मोदी और उत्तराखंड के मुख्यमंत्री को चिट्ठी लिखी है। दलेर मेहंदी से जुड़े विवाद पर फेडरेशन ऑफ वेस्टर्न इंडिया सिने एम्प्लॉइज ने सिंगर का पक्ष लिया है। इस संबंध में फिल्म बॉडी ने प्रधानमंत्री नरेंद्र मोदी को चिट्ठी लिखी है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लड़की- मुझे शाहजहां जैसा प्यार करते हो तो ताजमहल बनवाओ, लड़के ने दिया झन्नाटेदार जवाब",
+      "url": "https://www.amarujala.com/photo-gallery/humour/girlfriend-boyfriend-jokes-desi-chutkule-in-hindi-social-media-viral-jokes-comedy-jokes-whatsapp-new-jokes-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T06:25:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/21/funny-jokes_847c03299785667105dde3e01c6ec232.jpeg?w=1200&dpr=1.0",
+      "summary": "सोशल मीडिया पर एक व्यंग्यात्मक संवाद वायरल हुआ। इसमें लड़की ने शाहजहाँ जैसा प्यार माँगा। लड़के ने ताजमहल बनाने की चुनौती का मज़ाकिया जवाब दिया। तनाव से बचने में हंसी भी मदद करती है। हंसाने में जोक्स और चुटकुले काफी मदद करते हैं। हम आपके लिए सोशल मीडिया पर वायरल हो रहे मजेदार चुटकुले लेकर आए हैं, जिन्हें पढ़कर आप हंस सकते हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लड़की- मुझे शाहजहां जैसा प्यार करते हो तो ताजमहल बनवाओ, लड़के ने दिया झन्नाटेदार जवाब",
+          "summary": "सोशल मीडिया पर एक व्यंग्यात्मक संवाद वायरल हुआ। इसमें लड़की ने शाहजहाँ जैसा प्यार माँगा। लड़के ने ताजमहल बनाने की चुनौती का मज़ाकिया जवाब दिया। तनाव से बचने में हंसी भी मदद करती है। हंसाने में जोक्स और चुटकुले काफी मदद करते हैं। हम आपके लिए सोशल मीडिया पर वायरल हो रहे मजेदार चुटकुले लेकर आए हैं, जिन्हें पढ़कर आप हंस सकते हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मां के सामने प्रेमी ने घोंट दिया था बच्ची की गला, तीन साल बाद गिरफ्तार; कैसे खुली पोल?",
+      "url": "https://www.amarujala.com/india-news/keralam-eight-month-old-girl-murder-case-mother-arrested-pathanamthitta-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T06:25:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/18/garafatara-sakataka-tasavara_5bf4d468e6241970d88e6550bb2b2a34.jpeg?w=1200&dpr=1.0",
+      "summary": "केरल के पथनमथिट्टा में तीन साल पुराने हत्याकांड का खुलासा हुआ। माँ के सामने आठ माह की बच्ची का गला घोंटने के आरोपी प्रेमी को गिरफ्तार किया गया। केरलम में ममता शर्मसार: मां के सामने प्रेमी ने घोंट दिया था बच्ची की गला, तीन साल बाद गिरफ्तार; कैसे खुली पोल?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मां के सामने प्रेमी ने घोंट दिया था बच्ची की गला, तीन साल बाद गिरफ्तार; कैसे खुली पोल?",
+          "summary": "केरल के पथनमथिट्टा में तीन साल पुराने हत्याकांड का खुलासा हुआ। माँ के सामने आठ माह की बच्ची का गला घोंटने के आरोपी प्रेमी को गिरफ्तार किया गया। केरलम में ममता शर्मसार: मां के सामने प्रेमी ने घोंट दिया था बच्ची की गला, तीन साल बाद गिरफ्तार; कैसे खुली पोल?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बिना टूटे बाजरे की रोटी कैसे बनाएं? आजमाएं ये देसी नुस्खा",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/how-to-make-bajra-roti-without-breaking-bajra-roti-bnanae-ki-recipe-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T06:15:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/ghara-ma-bjara-ka-rata-bnana-ka-aasana-taraka_4557e0b75699731076ed15b3b864c540.jpeg?w=1200&dpr=1.0",
+      "summary": "बाजरे की रोटी को टूटे बिना बनाने का एक लोकप्रिय देसी नुस्खा सामने आया है। यह विधि घर पर आसानी से आजमाई जा सकती है। बिना टूटे ऐसे बनाएं बाजरे की रोटी। बिना टूटे बाजरे की रोटी कैसे बनाएं? आजमाएं ये देसी नुस्खा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बिना टूटे बाजरे की रोटी कैसे बनाएं? आजमाएं ये देसी नुस्खा",
+          "summary": "बाजरे की रोटी को टूटे बिना बनाने का एक लोकप्रिय देसी नुस्खा सामने आया है। यह विधि घर पर आसानी से आजमाई जा सकती है। बिना टूटे ऐसे बनाएं बाजरे की रोटी। बिना टूटे बाजरे की रोटी कैसे बनाएं? आजमाएं ये देसी नुस्खा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रणबीर की फिल्म ने कमाए 7 करोड़ रुपये, फिर भी 'जेलर 2' और 'धुरंधर 2' से है इतना पीछे",
+      "url": "https://www.amarujala.com/entertainment/bollywood/ramayana-advance-booking-88259-tickets-sold-in-india-delhi-and-maharashtra-is-on-the-top-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T06:15:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/01/falma-ramayanae_90f771513a1c97b1f781979bd6f96bf2.jpeg?w=1200&dpr=1.0",
+      "summary": "रणबीर कपूर की फिल्म ने एडवांस बुकिंग में सात करोड़ रुपये कमाए। महाराष्ट्र में बुकिंग सबसे आगे है। यह रिकॉर्ड 'जेलर 2' और 'धुरंधर 2' से पीछे है। रिलीज से पहले फिल्म 'रामायण' एडवांस बुकिंग में अच्छी कमाई कर रही है। एडवांस बुकिंग के मामले में सबसे आगे महाराष्ट्र है। इस खबर में जानिए अब तक कितने शो के लिए टिकटें बुक हुई हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रणबीर की फिल्म ने कमाए 7 करोड़ रुपये, फिर भी 'जेलर 2' और 'धुरंधर 2' से है इतना पीछे",
+          "summary": "रणबीर कपूर की फिल्म ने एडवांस बुकिंग में सात करोड़ रुपये कमाए। महाराष्ट्र में बुकिंग सबसे आगे है। यह रिकॉर्ड 'जेलर 2' और 'धुरंधर 2' से पीछे है। रिलीज से पहले फिल्म 'रामायण' एडवांस बुकिंग में अच्छी कमाई कर रही है। एडवांस बुकिंग के मामले में सबसे आगे महाराष्ट्र है। इस खबर में जानिए अब तक कितने शो के लिए टिकटें बुक हुई हैं।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान पर नए हमले की तैयारी में अमेरिका: ट्रंप बोले- कोई बातचीत नहीं हो रही, तेहरान के साथ जल्द कुछ",
+      "url": "https://www.amarujala.com/world/us-preparing-new-strike-iran-trump-says-no-talks-are-taking-place-something-is-set-happen-with-tehran-soon-2026-10-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-22T06:14:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/amaraka-rashhatarapata-danalda-tarapa_c1c42b8d45a86b5ad14239d258757b91.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका ने ईरान पर नए हमले की तैयारी शुरू कर दी है। ट्रंप ने कहा कि तेहरान के साथ कोई बातचीत नहीं हो रही। जल्द कुछ होने वाला है। ईरान पर नए हमले की तैयारी में अमेरिका: ट्रंप बोले- कोई बातचीत नहीं हो रही, तेहरान के साथ जल्द कुछ।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सऊदी अरब में एयरपोर्ट पर हमला, अरामको तेल ठिकाने पर भी अटैक, अब तक 3 की मौत, भारतीय भी घायल",
-          "summary": "सऊदी अरब के दम्माम में किंग फहद एयरपोर्ट पर हमला हुआ। एक व्यक्ति की मौत हुई और आठ लोग घायल हुए। बाद में शायबा तेल क्षेत्र पर ड्रोन हमला किया गया, जिसमें तीन लोगों की मौत हुई। Attack on King Fahd International Airport in Saudi Arabia's Dammam: सऊदी अरब में बुधवार को दम्माम के किंग फहद इंटरनेशनल एयरपोर्ट पर हुए हमले में एक व्यक्ति की मौत हो गई और आठ लोग घायल हो गए.",
+          "title": "ईरान पर नए हमले की तैयारी में अमेरिका: ट्रंप बोले- कोई बातचीत नहीं हो रही, तेहरान के साथ जल्द कुछ",
+          "summary": "अमेरिका ने ईरान पर नए हमले की तैयारी शुरू कर दी है। ट्रंप ने कहा कि तेहरान के साथ कोई बातचीत नहीं हो रही। जल्द कुछ होने वाला है। ईरान पर नए हमले की तैयारी में अमेरिका: ट्रंप बोले- कोई बातचीत नहीं हो रही, तेहरान के साथ जल्द कुछ।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "रूस के डीजल कारोबार पर यूक्रेन के ड्रोन हमलों की मार: निर्यात में 77% गिरावट, दुनिया में बढ़ सकता",
-      "url": "https://www.amarujala.com/business/business-diary/ukraine-drone-attacks-hit-russian-diesel-exports-global-fuel-supply-faces-pressure-2026-10-22",
+      "title": "सीए इंटर सितंबर 2026 की टॉपर लिस्ट जारी: मुंबई के नील राजेश शाह और नासिक की साक्षी अव्वल, देखें",
+      "url": "https://www.amarujala.com/education/ca-inter-toppers-2026-neel-rajesh-shah-and-chandak-sakshi-jointly-secure-air-1-2026-10-22",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-22T00:57:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/06/29/ukraines-drone-set-another-russian-oil-refinery-ablaze-as-putin-admits-fuel-shortages_c7f02a0e80c2e405e86a17d884086090.jpeg?w=1200&dpr=1.0",
-      "summary": "यूक्रेन के ड्रोन हमलों से रूस के डीजल निर्यात पर गहरा प्रभाव पड़ा है। निर्यात में 77 प्रतिशत की गिरावट दर्ज की गई है। इससे वैश्विक ईंधन आपूर्ति पर दबाव बढ़ रहा है। रूस के डीजल कारोबार पर यूक्रेन के ड्रोन हमलों की मार: निर्यात में 77% गिरावट, दुनिया में बढ़ सकता।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रूस के डीजल कारोबार पर यूक्रेन के ड्रोन हमलों की मार: निर्यात में 77% गिरावट, दुनिया में बढ़ सकता",
-          "summary": "यूक्रेन के ड्रोन हमलों से रूस के डीजल निर्यात पर गहरा प्रभाव पड़ा है। निर्यात में 77 प्रतिशत की गिरावट दर्ज की गई है। इससे वैश्विक ईंधन आपूर्ति पर दबाव बढ़ रहा है। रूस के डीजल कारोबार पर यूक्रेन के ड्रोन हमलों की मार: निर्यात में 77% गिरावट, दुनिया में बढ़ सकता।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "जंगलों से जहाजों तक होगी गिनती, बेघर आबादी की रात में गणना; दुर्गम इलाकों तक भी पहुंचेंगे कर्मी",
-      "url": "https://www.amarujala.com/india-news/census-india-from-forests-to-ships-census-workers-to-count-every-citizen-2026-10-22",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-22T00:46:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/17/utatarakhada-ma-janaganaena-census-in-uttarakhand_38212ab99fc1b6dbc04aeaeba2e7dbdb.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत की जनगणना में बेघर आबादी की रात में गणना होगी। कर्मी जंगलों और जहाजों तक पहुंचेंगे। दुर्गम इलाकों में भी जनगणना के लिए विशेष टीमों को भेजा जाएगा। जंगलों से जहाजों तक होगी गिनती, बेघर आबादी की रात में गणना; दुर्गम इलाकों तक भी पहुंचेंगे कर्मी।",
+      "published_at": "2026-10-22T06:11:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/icai-ca-inter-result-2026_cf42cfc4c80a7a342d35e2713c6b4190.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय सनदी लेखाकार संस्थान ने सीए इंटरमीडिएट सितंबर 2026 परीक्षा के टॉपर्स की सूची जारी की। मुंबई के नील राजेश शाह और नासिक की साक्षी चांडक ने 600 में से 502 अंक प्राप्त कर संयुक्त रूप से पहला स्थान प्राप्त किया। भारतीय सनदी लेखाकार संस्थान ने सीए इंटरमीडिएट सितंबर 2026 परीक्षा के टॉपर्स की सूची जारी कर दी है। मुंबई के नील राजेश शाह और नासिक की साक्षी चांडक ने 600 में से 502 अंक हासिल कर संयुक्त रूप से पहला स्थान प्राप्त किया।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जंगलों से जहाजों तक होगी गिनती, बेघर आबादी की रात में गणना; दुर्गम इलाकों तक भी पहुंचेंगे कर्मी",
-          "summary": "भारत की जनगणना में बेघर आबादी की रात में गणना होगी। कर्मी जंगलों और जहाजों तक पहुंचेंगे। दुर्गम इलाकों में भी जनगणना के लिए विशेष टीमों को भेजा जाएगा। जंगलों से जहाजों तक होगी गिनती, बेघर आबादी की रात में गणना; दुर्गम इलाकों तक भी पहुंचेंगे कर्मी।",
+          "title": "सीए इंटर सितंबर 2026 की टॉपर लिस्ट जारी: मुंबई के नील राजेश शाह और नासिक की साक्षी अव्वल, देखें",
+          "summary": "भारतीय सनदी लेखाकार संस्थान ने सीए इंटरमीडिएट सितंबर 2026 परीक्षा के टॉपर्स की सूची जारी की। मुंबई के नील राजेश शाह और नासिक की साक्षी चांडक ने 600 में से 502 अंक प्राप्त कर संयुक्त रूप से पहला स्थान प्राप्त किया। भारतीय सनदी लेखाकार संस्थान ने सीए इंटरमीडिएट सितंबर 2026 परीक्षा के टॉपर्स की सूची जारी कर दी है। मुंबई के नील राजेश शाह और नासिक की साक्षी चांडक ने 600 में से 502 अंक हासिल कर संयुक्त रूप से पहला स्थान प्राप्त किया।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "पोलैंड के प्रधानमंत्री टस्क से पीएम मोदी की मुलाकात, भारत-न्यूजीलैंड टी20 सीरीज का आगाज",
-      "url": "https://www.amarujala.com/india-news/22-october-2026-major-event-2026-2026-10-21",
-      "source": "Amar Ujala Breaking",
+      "title": "खाने में नखरे करता है बच्चा? थाली में करें ये बदलाव, खुशी-खुशी खाएगा खाना!",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/kids-food-ideas-5-easy-ways-to-encourage-picky-eaters-2026-10-22",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-22T00:45:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/aaja-ka-khabra_7067155f6e27460c48a4523dac584488.gif?w=1200&dpr=1.0",
-      "summary": "प्रधानमंत्री मोदी ने पोलैंड के प्रधानमंत्री टस्क से मुलाकात की। साथ ही भारत और न्यूजीलैंड के बीच टी20 सीरीज का आगाज हुआ। दोनों घटनाएं 22 अक्टूबर को सामने आईं। नमस्कार! आज है गुरुवार, 22 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं पोलैंड के प्रधानमंत्री टस्क से पीएम मोदी की मुलाकात, भारत-न्यूजीलैंड टी20 सीरीज का आगाज।",
+      "published_at": "2026-10-22T06:09:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/kids-food-ideas_6404fface2320c161f46c6135a63393b.jpeg?w=1200&dpr=1.0",
+      "summary": "बच्चों को पौष्टिक भोजन परोसने और खाने की आदतें सुधारने के लिए थाली में बदलाव करने की सलाह दी गई है। यह विधि बच्चों को खुशी-खुशी खाना खाने में मदद करती है और हेल्दी स्नैक्स चुनने के तरीके भी बताए गए हैं। जानें बच्चों को पौष्टिक भोजन खिलाने, हेल्दी स्नैक्स चुनने और खाने की आदतें सुधारने के 5 आसान तरीके।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खाने में नखरे करता है बच्चा? थाली में करें ये बदलाव, खुशी-खुशी खाएगा खाना!",
+          "summary": "बच्चों को पौष्टिक भोजन परोसने और खाने की आदतें सुधारने के लिए थाली में बदलाव करने की सलाह दी गई है। यह विधि बच्चों को खुशी-खुशी खाना खाने में मदद करती है और हेल्दी स्नैक्स चुनने के तरीके भी बताए गए हैं। जानें बच्चों को पौष्टिक भोजन खिलाने, हेल्दी स्नैक्स चुनने और खाने की आदतें सुधारने के 5 आसान तरीके।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या एक्सटेंशन बोर्ड के सभी सॉकेट पर एक साथ प्लग नहीं लगाने चाहिए? यहां समझें",
+      "url": "https://www.amarujala.com/photo-gallery/utility/can-you-use-all-sockets-on-an-extension-board-at-once-know-the-safety-rules-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T06:04:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/extension-board_9fab35bbc1dbaa80ef9a161089b0ddc0.jpeg?w=1200&dpr=1.0",
+      "summary": "एक्सटेंशन बोर्ड के सभी सॉकेट एक साथ इस्तेमाल करना हमेशा गलत नहीं है। हालांकि, एक साथ अधिक बिजली खींचने वाले उपकरण चलाने से ओवरलोडिंग का खतरा बढ़ जाता है, जिससे बिजली की आपूर्ति प्रभावित हो सकती है। एक्सटेंशन बोर्ड के सभी सॉकेट इस्तेमाल करना हमेशा गलत नहीं है, लेकिन एक साथ ज्यादा बिजली खींचने वाले उपकरण चलाने से ओवरलोडिंग का खतरा हो सकता है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या एक्सटेंशन बोर्ड के सभी सॉकेट पर एक साथ प्लग नहीं लगाने चाहिए? यहां समझें",
+          "summary": "एक्सटेंशन बोर्ड के सभी सॉकेट एक साथ इस्तेमाल करना हमेशा गलत नहीं है। हालांकि, एक साथ अधिक बिजली खींचने वाले उपकरण चलाने से ओवरलोडिंग का खतरा बढ़ जाता है, जिससे बिजली की आपूर्ति प्रभावित हो सकती है। एक्सटेंशन बोर्ड के सभी सॉकेट इस्तेमाल करना हमेशा गलत नहीं है, लेकिन एक साथ ज्यादा बिजली खींचने वाले उपकरण चलाने से ओवरलोडिंग का खतरा हो सकता है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस में कर्फ्यू के बीच भारतीय दूतावास की सलाह: कहा- सतर्क रहें, भीड़भाड़ वाली जगहों से बचें",
+      "url": "https://www.amarujala.com/world/france-unrest-india-advisory-curfew-protests-2026-10-22",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-22T06:02:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/18/france-protest_220b816d3ec660abca2492eade0ebe5d.gif?w=1200&dpr=1.0",
+      "summary": "फ्रांस में कर्फ्यू के बीच भारतीय दूतावास ने अपने नागरिकों को सतर्क रहने की सलाह दी है। अधिकारियों ने भीड़भाड़ वाली जगहों से बचने और स्थानीय परिस्थितियों पर नजर रखने का निर्देश दिया है। फ्रांस में कर्फ्यू के बीच भारतीय दूतावास की सलाह: कहा- सतर्क रहें, भीड़भाड़ वाली जगहों से बचें; बवाल क्यों?",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पोलैंड के प्रधानमंत्री टस्क से पीएम मोदी की मुलाकात, भारत-न्यूजीलैंड टी20 सीरीज का आगाज",
-          "summary": "प्रधानमंत्री मोदी ने पोलैंड के प्रधानमंत्री टस्क से मुलाकात की। साथ ही भारत और न्यूजीलैंड के बीच टी20 सीरीज का आगाज हुआ। दोनों घटनाएं 22 अक्टूबर को सामने आईं। नमस्कार! आज है गुरुवार, 22 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं पोलैंड के प्रधानमंत्री टस्क से पीएम मोदी की मुलाकात, भारत-न्यूजीलैंड टी20 सीरीज का आगाज।",
+          "title": "फ्रांस में कर्फ्यू के बीच भारतीय दूतावास की सलाह: कहा- सतर्क रहें, भीड़भाड़ वाली जगहों से बचें",
+          "summary": "फ्रांस में कर्फ्यू के बीच भारतीय दूतावास ने अपने नागरिकों को सतर्क रहने की सलाह दी है। अधिकारियों ने भीड़भाड़ वाली जगहों से बचने और स्थानीय परिस्थितियों पर नजर रखने का निर्देश दिया है। फ्रांस में कर्फ्यू के बीच भारतीय दूतावास की सलाह: कहा- सतर्क रहें, भीड़भाड़ वाली जगहों से बचें; बवाल क्यों?",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "हीरो, होंडा, बजाज और यामाहा दे रहे ₹12000 तक के फायदे; किस कंपनी में क्या मिल रहा?",
-      "url": "https://www.amarujala.com/automobiles/festive-offers-on-bikes-and-scooters-hero-honda-bajaj-and-yamaha-discounts-2026-10-22",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-22T00:45:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/festive-offers-on-bikes-and-scooters-hero-honda-bajaj-and-yamaha-discounts_aebe539ccc2a73344b284124d1d53625.jpeg?w=1200&dpr=1.0",
-      "summary": "हीरो, होंडा, बजाज और यामाहा ने त्योहारी सीजन में दोपहिया वाहनों पर ऑफर शुरू किए। इन कंपनियों ने 12,000 रुपये तक की छूट प्रदान की है। खरीदारों को इससे सीधे लाभ मिल रहा है। हीरो, होंडा, बजाज और यामाहा दे रहे ₹12000 तक के फायदे; किस कंपनी में क्या मिल रहा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हीरो, होंडा, बजाज और यामाहा दे रहे ₹12000 तक के फायदे; किस कंपनी में क्या मिल रहा?",
-          "summary": "हीरो, होंडा, बजाज और यामाहा ने त्योहारी सीजन में दोपहिया वाहनों पर ऑफर शुरू किए। इन कंपनियों ने 12,000 रुपये तक की छूट प्रदान की है। खरीदारों को इससे सीधे लाभ मिल रहा है। हीरो, होंडा, बजाज और यामाहा दे रहे ₹12000 तक के फायदे; किस कंपनी में क्या मिल रहा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पापांकुशा एकादशी पर इन चीजों का दान होगा लाभकारी, विवाह योग बनने से लेकर मिलेगी बड़ी सफलता",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/papankusha-ekadashi-2026-shubh-yog-and-daan-niyam-benefits-in-hindi-know-ekadashi-par-kya-daan-kare-2026-10-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-22T00:41:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/19/papankusha-ekadashi-2026_b2015ceabe8a1457fe9c800b47f4af21.jpeg?w=1200&dpr=1.0",
-      "summary": "22 अक्टूबर को पापांकुशा एकादशी का व्रत रखा गया। इस दिन भगवान विष्णु की पूजा और दान की विशेष महत्व माना जाता है। मान्यता है कि अन्न, फल और वस्त्रों का दान सुख और समृद्धि लाता है। Papankusha Ekadashi 2026: पापांकुशा एकादशी का व्रत 22 अक्तूबर को रखा जाएगा। यह दिन भगवान विष्णु की पूजा और दान-पुण्य के लिए विशेष माना जाता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पापांकुशा एकादशी पर इन चीजों का दान होगा लाभकारी, विवाह योग बनने से लेकर मिलेगी बड़ी सफलता",
-          "summary": "22 अक्टूबर को पापांकुशा एकादशी का व्रत रखा गया। इस दिन भगवान विष्णु की पूजा और दान की विशेष महत्व माना जाता है। मान्यता है कि अन्न, फल और वस्त्रों का दान सुख और समृद्धि लाता है। Papankusha Ekadashi 2026: पापांकुशा एकादशी का व्रत 22 अक्तूबर को रखा जाएगा। यह दिन भगवान विष्णु की पूजा और दान-पुण्य के लिए विशेष माना जाता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कब्रिस्तान से शुरू हुआ एक्टिंग का सफर, अमिताभ के लिए लिखे डायलॉग; अभिनेता के अनसुने किस्से",
-      "url": "https://www.amarujala.com/entertainment/kader-khan-birth-anniversary-actor-movies-career-family-net-worth-interesting-facts-son-2026-10-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-22T00:40:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/kathara-khana_bd77ded55f327a20f5b916ac3fb67e61.jpeg?w=1200&dpr=1.0",
-      "summary": "बॉलीवुड अभिनेता कादर खान की जयंती पर उनकी कुछ अनसुनी कहानियों का जिक्र किया गया। उन्होंने कई फिल्मों में काम किया और दर्शकों को हंसाया। उनके करियर की शुरुआत और डायलॉग लेखन के किस्से सामने आए। बॉलीवुड के दिग्गज और मंझे हुए कलाकारों में से एक रहे कादर खान ने कई फिल्मों में काम किया और दर्शकों को खूब हंसाया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कब्रिस्तान से शुरू हुआ एक्टिंग का सफर, अमिताभ के लिए लिखे डायलॉग; अभिनेता के अनसुने किस्से",
-          "summary": "बॉलीवुड अभिनेता कादर खान की जयंती पर उनकी कुछ अनसुनी कहानियों का जिक्र किया गया। उन्होंने कई फिल्मों में काम किया और दर्शकों को हंसाया। उनके करियर की शुरुआत और डायलॉग लेखन के किस्से सामने आए। बॉलीवुड के दिग्गज और मंझे हुए कलाकारों में से एक रहे कादर खान ने कई फिल्मों में काम किया और दर्शकों को खूब हंसाया।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सर्दी की आहट के साथ ही दिल्ली-एनसीआर में बढ़ने लगा एक्यूआई, इस बार सरकार कौन सी बंदिशें लेकर आई?",
-      "url": "https://www.amarujala.com/india-news/explainer-delhi-ncr-aqi-rises-as-winter-approaches-what-new-restrictions-has-the-government-introduced-2026-10-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-22T00:38:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/parathashhanae_d4c5cc24a7c98276c3eb9f61950e52e6.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली-एनसीआर में सर्दियों की शुरुआत के साथ एयर क्वालिटी इंडेक्स बढ़ने लगा है। सरकार ने इस बार नई बंदिशें लागू करने का फैसला लिया है। इन कदमों का उद्देश्य प्रदूषण को नियंत्रित करना है। एक्सप्लेनर: सर्दी की आहट के साथ ही दिल्ली-एनसीआर में बढ़ने लगा एक्यूआई, इस बार सरकार कौन सी बंदिशें लेकर आई?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सर्दी की आहट के साथ ही दिल्ली-एनसीआर में बढ़ने लगा एक्यूआई, इस बार सरकार कौन सी बंदिशें लेकर आई?",
-          "summary": "दिल्ली-एनसीआर में सर्दियों की शुरुआत के साथ एयर क्वालिटी इंडेक्स बढ़ने लगा है। सरकार ने इस बार नई बंदिशें लागू करने का फैसला लिया है। इन कदमों का उद्देश्य प्रदूषण को नियंत्रित करना है। एक्सप्लेनर: सर्दी की आहट के साथ ही दिल्ली-एनसीआर में बढ़ने लगा एक्यूआई, इस बार सरकार कौन सी बंदिशें लेकर आई?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "फेसबुक-इंस्टा को अब तक का सबसे तगड़ा झटका, META को 2.2 लाख करोड़ का जुर्माना, डेटा से खेल का क्या",
-      "url": "https://hindi.news18.com/world/rest-of-world-meta-faces-25-billion-dollar-fine-over-facebook-user-privacy-by-new-mexico-court-10926866.html",
+      "title": "फ्रांस घूमने जाने वालों के लिए अलर्ट, भारतीय दूतावास ने जारी की एडवाइजरी, प्रदर्शनों से दूर रहने का",
+      "url": "https://hindi.news18.com/world/europe-india-advised-its-citizens-in-france-to-stay-alert-avoid-protest-sites-10927496.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-22T00:31:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Meta-Facebook-2026-08-197d663886f91b89d14ea3a96022ad57-1200x800.jpg",
-      "summary": "न्यू मैक्सिको की अदालत ने मेटा को 25 अरब डॉलर का जुर्माना लगाया। जूरी ने पाया कि कंपनी ने यूजर्स के डेटा सुरक्षा को लेकर गुमराह किया। यह 2019 के 5 अरब डॉलर के जुर्माने से कहीं बड़ा है। META News: अमेरिका के न्यू मैक्सिको की एक अदालत ने फेसबुक और इंस्टाग्राम की पैरेंट कंपनी मेटा को 25 अरब डॉलर का भुगतान करने का आदेश दिया है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फेसबुक-इंस्टा को अब तक का सबसे तगड़ा झटका, META को 2.2 लाख करोड़ का जुर्माना, डेटा से खेल का क्या",
-          "summary": "न्यू मैक्सिको की अदालत ने मेटा को 25 अरब डॉलर का जुर्माना लगाया। जूरी ने पाया कि कंपनी ने यूजर्स के डेटा सुरक्षा को लेकर गुमराह किया। यह 2019 के 5 अरब डॉलर के जुर्माने से कहीं बड़ा है। META News: अमेरिका के न्यू मैक्सिको की एक अदालत ने फेसबुक और इंस्टाग्राम की पैरेंट कंपनी मेटा को 25 अरब डॉलर का भुगतान करने का आदेश दिया है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "जब सरकारी खजाना ले रही ट्रेन को ही लूट लिया गया, क्या था काकोरी कांड? पढ़ें इतिहास",
-      "url": "https://www.amarujala.com/education/ashfaqulla-khan-jayanti-kakori-train-action-1925-history-bismil-connection-and-freedom-struggle-2026-10-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-22T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/ashafaka-ull-kha-oura-kakara-kada_8dc3d88beda6caab268e7abdc6199c60.jpeg?w=1200&dpr=1.0",
-      "summary": "काकोरी कांड में क्रांतिकारियों ने सरकारी खजाना ले जा रही ट्रेन को रोका। अशफाक उल्ला खां इस घटना से जुड़े प्रमुख नाम हैं। यह घटना भारतीय स्वतंत्रता संग्राम का हिस्सा थी। अशफाक उल्ला खां का जन्म 22 अक्तूबर 1900 को हुआ था। काकोरी कांड का नाम आते ही उनका नाम प्रमुखता से लिया जाता है। काकोरी कांड क्या था? सरकारी खजाना ले जा रही ट्रेन को क्रांतिकारियों ने क्यों रोका?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जब सरकारी खजाना ले रही ट्रेन को ही लूट लिया गया, क्या था काकोरी कांड? पढ़ें इतिहास",
-          "summary": "काकोरी कांड में क्रांतिकारियों ने सरकारी खजाना ले जा रही ट्रेन को रोका। अशफाक उल्ला खां इस घटना से जुड़े प्रमुख नाम हैं। यह घटना भारतीय स्वतंत्रता संग्राम का हिस्सा थी। अशफाक उल्ला खां का जन्म 22 अक्तूबर 1900 को हुआ था। काकोरी कांड का नाम आते ही उनका नाम प्रमुखता से लिया जाता है। काकोरी कांड क्या था? सरकारी खजाना ले जा रही ट्रेन को क्रांतिकारियों ने क्यों रोका?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Weather Forecast 22 October 2026: देखिए क्या है आपके यहां मौसम का हाल",
-      "url": "https://www.amarujala.com/video/india-news/weather-forecast-for-22-october-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-10-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-22T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/weather-forecast_ea76a121edd4c85c4715f3da53756914.jpeg?w=1200&dpr=1.0",
-      "summary": "22 अक्टूबर 2026 के लिए मौसम पूर्वानुमान जारी किया गया है। यह रिपोर्ट स्थानीय तापमान और मौसम की स्थिति पर आधारित है। विवरण में क्षेत्रवार जानकारी शामिल है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Weather Forecast 22 October 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "22 अक्टूबर 2026 के लिए मौसम पूर्वानुमान जारी किया गया है। यह रिपोर्ट स्थानीय तापमान और मौसम की स्थिति पर आधारित है। विवरण में क्षेत्रवार जानकारी शामिल है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "टेक्सास सीमा दीवार के लिए सुप्रीम कोर्ट में ट्रंप प्रशासन की अपील; पनामा, ग्रीस की फर्म पर बैन",
-      "url": "https://www.amarujala.com/world/world-updates-texas-wall-trump-admin-supreme-court-appeal-panama-greece-firms-ban-west-asia-russia-ukraine-2026-10-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-22T00:28:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0",
-      "summary": "ट्रंप प्रशासन ने टेक्सास सीमा दीवार के लिए सुप्रीम कोर्ट में अपील की है। साथ ही पनामा और ग्रीस की कंपनियों पर बैन लगाया गया है। यह कदम सीमा सुरक्षा से जुड़ा है। वर्ल्ड डायरी: टेक्सास सीमा दीवार के लिए सुप्रीम कोर्ट में ट्रंप प्रशासन की अपील; पनामा, ग्रीस की फर्म पर बैन।",
+      "published_at": "2026-10-22T05:54:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/france-12-2026-10-6d27d2b6b340930e184c7a9a6d9c2826-1200x800.jpg",
+      "summary": "फ्रांस में हिंसक झड़पों और कर्फ्यू के बीच भारतीय दूतावास ने नागरिकों के लिए एडवाइजरी जारी की है। पेरिस और मार्सेई में प्रदर्शन स्थलों से दूर रहने और स्थानीय अधिकारियों के निर्देशों का पालन करने की सलाह दी गई है। फ्रांस में हिंसक झड़पों, विरोध प्रदर्शनों और स्थानीय स्तर पर लगाए गए कर्फ्यू के बीच भारतीय दूतावास ने अपने नागरिकों के लिए एडवाइजरी जारी की है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "टेक्सास सीमा दीवार के लिए सुप्रीम कोर्ट में ट्रंप प्रशासन की अपील; पनामा, ग्रीस की फर्म पर बैन",
-          "summary": "ट्रंप प्रशासन ने टेक्सास सीमा दीवार के लिए सुप्रीम कोर्ट में अपील की है। साथ ही पनामा और ग्रीस की कंपनियों पर बैन लगाया गया है। यह कदम सीमा सुरक्षा से जुड़ा है। वर्ल्ड डायरी: टेक्सास सीमा दीवार के लिए सुप्रीम कोर्ट में ट्रंप प्रशासन की अपील; पनामा, ग्रीस की फर्म पर बैन।",
+          "title": "फ्रांस घूमने जाने वालों के लिए अलर्ट, भारतीय दूतावास ने जारी की एडवाइजरी, प्रदर्शनों से दूर रहने का",
+          "summary": "फ्रांस में हिंसक झड़पों और कर्फ्यू के बीच भारतीय दूतावास ने नागरिकों के लिए एडवाइजरी जारी की है। पेरिस और मार्सेई में प्रदर्शन स्थलों से दूर रहने और स्थानीय अधिकारियों के निर्देशों का पालन करने की सलाह दी गई है। फ्रांस में हिंसक झड़पों, विरोध प्रदर्शनों और स्थानीय स्तर पर लगाए गए कर्फ्यू के बीच भारतीय दूतावास ने अपने नागरिकों के लिए एडवाइजरी जारी की है.",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "कर्नाटक के दशहरा जुलूस में हाथी बेकाबू; सरकार बोली- सोमनाथ मंदिर से 500 मीटर तक नॉनवेज पर रोक सही",
-      "url": "https://www.amarujala.com/india-news/national-updates-22-oct-karnataka-elephant-out-of-control-gujarat-somnath-non-veg-ban-justified-politics-crime-2026-10-22",
+      "title": "गंगा में आस्था के नाम पर ये क्या कर रहे हैं लोग? घाटों पर दिखने लगा कचरा; हरिद्वार की तस्वीरें",
+      "url": "https://www.amarujala.com/bizarre-news/ganga-river-pollution-waste-and-old-clothes-surface-in-haridwar-after-ganga-canal-closure-2026-10-22",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-22T00:22:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0",
-      "summary": "कर्नाटक के दशहरा जुलूस में एक हाथी बेकाबू हो गया। सरकार ने सोमनाथ मंदिर से 500 मीटर के दायरे में नॉनवेज पर रोक को सही बताया। यह फैसला स्थानीय प्रशासन द्वारा लिया गया है। न्यूज डायरी: कर्नाटक के दशहरा जुलूस में हाथी बेकाबू; सरकार बोली- सोमनाथ मंदिर से 500 मीटर तक नॉनवेज पर रोक सही।",
+      "published_at": "2026-10-22T05:51:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/gaga-ma-aasatha-ya-gathaga_691a9a2b3546df7c60adb211bd133710.jpeg?w=1200&dpr=1.0",
+      "summary": "हरिद्वार में गंगनहर की वार्षिक बंदी के बाद गंगा घाटों पर कचरा बढ़ गया है। कपड़े और प्लास्टिक की उपस्थिति से जलीय जीवों की सुरक्षा को लेकर चिंता बढ़ी है। स्थानीय प्रशासन को सफाई व्यवस्था को तुरंत सुधारने की आवश्यकता है। हरिद्वार में गंगनहर की वार्षिक बंदी के बाद गंगा घाटों पर कपड़े, प्लास्टिक और पॉलीथीन नजर आने लगी हैं।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कर्नाटक के दशहरा जुलूस में हाथी बेकाबू; सरकार बोली- सोमनाथ मंदिर से 500 मीटर तक नॉनवेज पर रोक सही",
-          "summary": "कर्नाटक के दशहरा जुलूस में एक हाथी बेकाबू हो गया। सरकार ने सोमनाथ मंदिर से 500 मीटर के दायरे में नॉनवेज पर रोक को सही बताया। यह फैसला स्थानीय प्रशासन द्वारा लिया गया है। न्यूज डायरी: कर्नाटक के दशहरा जुलूस में हाथी बेकाबू; सरकार बोली- सोमनाथ मंदिर से 500 मीटर तक नॉनवेज पर रोक सही।",
+          "title": "गंगा में आस्था के नाम पर ये क्या कर रहे हैं लोग? घाटों पर दिखने लगा कचरा; हरिद्वार की तस्वीरें",
+          "summary": "हरिद्वार में गंगनहर की वार्षिक बंदी के बाद गंगा घाटों पर कचरा बढ़ गया है। कपड़े और प्लास्टिक की उपस्थिति से जलीय जीवों की सुरक्षा को लेकर चिंता बढ़ी है। स्थानीय प्रशासन को सफाई व्यवस्था को तुरंत सुधारने की आवश्यकता है। हरिद्वार में गंगनहर की वार्षिक बंदी के बाद गंगा घाटों पर कपड़े, प्लास्टिक और पॉलीथीन नजर आने लगी हैं।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "मेटा पर 2.35 लाख करोड़ फाइन; दिल्ली-NCR की हवा खराब; भारत आए पोलिश पीएम; दिल्ली में जल संकट की आहट",
-      "url": "https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-22-october-2026-updates-on-amar-ujala-2026-10-22",
+      "title": "अपनी किताब 'बिलॉन्गिंग' के साथ शेयर किया पहला पोस्ट; किस-किस को कर रहीं फॉलो?",
+      "url": "https://www.amarujala.com/india-news/congress-mp-sonia-gandhi-opens-an-instagram-account-shares-first-post-featuring-her-book-belonging-2026-10-22",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-22T05:48:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/isatagarama-para-aaii-sanaya-gathha_c8423c451622398bcbb1916219acaab4.gif?w=1200&dpr=1.0",
+      "summary": "सोनिया गांधी ने इंस्टाग्राम पर अपना पहला पोस्ट साझा किया है। इसमें उनकी किताब 'बिलॉन्गिंग' की तस्वीर शामिल है। उन्होंने कुछ प्रमुख राजनेताओं को फॉलो भी किया है। यह उनकी डिजिटल उपस्थिति का नया मोड़ है। अपनी किताब 'बिलॉन्गिंग' के साथ शेयर किया पहला पोस्ट; किस-किस को कर रहीं फॉलो?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अपनी किताब 'बिलॉन्गिंग' के साथ शेयर किया पहला पोस्ट; किस-किस को कर रहीं फॉलो?",
+          "summary": "सोनिया गांधी ने इंस्टाग्राम पर अपना पहला पोस्ट साझा किया है। इसमें उनकी किताब 'बिलॉन्गिंग' की तस्वीर शामिल है। उन्होंने कुछ प्रमुख राजनेताओं को फॉलो भी किया है। यह उनकी डिजिटल उपस्थिति का नया मोड़ है। अपनी किताब 'बिलॉन्गिंग' के साथ शेयर किया पहला पोस्ट; किस-किस को कर रहीं फॉलो?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "किम जोंग उन की बहन ने दी चेतावनी, उत्तर कोरिया के खिलाफ फिर गूंजेंगे प्रचार संदेश",
+      "url": "https://www.amarujala.com/world/north-korea-resumes-psychological-warfare-loudspeakers-south-korea-kim-yo-jong-2026-10-22",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-22T00:20:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय नियामक ने मेटा पर 2.35 लाख करोड़ रुपये का जुर्माना लगाया है। यह कार्रवाई कंपनी के नियमों के उल्लंघन पर की गई है। मेटा पर 2.35 लाख करोड़ फाइन; दिल्ली-NCR की हवा खराब; भारत आए पोलिश पीएम; दिल्ली में जल संकट की आहट।",
+      "published_at": "2026-10-22T05:46:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/kama-ya-jaga-utatara-karaya-ka-tanashaha-kama-jaga-ka-bhana_431585a193ec33aaae9920ab37b2117d.jpeg?w=1200&dpr=1.0",
+      "summary": "किम यो जोंग ने दक्षिण कोरिया को चेतावनी दी है। उत्तर कोरिया सीमा पर मनोवैज्ञानिक युद्ध के लिए लूडस्पीकर फिर से चालू करेगा। यह कदम दोनों देशों के बीच बढ़ते तनाव का परिणाम है। किम जोंग उन की बहन ने दी चेतावनी, उत्तर कोरिया के खिलाफ फिर गूंजेंगे प्रचार संदेश।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मेटा पर 2.35 लाख करोड़ फाइन; दिल्ली-NCR की हवा खराब; भारत आए पोलिश पीएम; दिल्ली में जल संकट की आहट",
-          "summary": "भारतीय नियामक ने मेटा पर 2.35 लाख करोड़ रुपये का जुर्माना लगाया है। यह कार्रवाई कंपनी के नियमों के उल्लंघन पर की गई है। मेटा पर 2.35 लाख करोड़ फाइन; दिल्ली-NCR की हवा खराब; भारत आए पोलिश पीएम; दिल्ली में जल संकट की आहट।",
+          "title": "किम जोंग उन की बहन ने दी चेतावनी, उत्तर कोरिया के खिलाफ फिर गूंजेंगे प्रचार संदेश",
+          "summary": "किम यो जोंग ने दक्षिण कोरिया को चेतावनी दी है। उत्तर कोरिया सीमा पर मनोवैज्ञानिक युद्ध के लिए लूडस्पीकर फिर से चालू करेगा। यह कदम दोनों देशों के बीच बढ़ते तनाव का परिणाम है। किम जोंग उन की बहन ने दी चेतावनी, उत्तर कोरिया के खिलाफ फिर गूंजेंगे प्रचार संदेश।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "भारतीय वैज्ञानिकों ने तैयार की नई तकनीक, 540 मरीजों पर हुई जांच में मिले अच्छे नतीजे; कितना लाभ?",
-      "url": "https://www.amarujala.com/india-news/simultaneous-testing-indian-scientists-developed-new-technique-trials-on-540-patients-positive-know-benefits-2026-10-22",
+      "title": "ईरान पर फिर महायुद्ध की आहट, इजरायल के फाइटर जेट्स ने दिखाई ताकत, सऊदी से लोगों को निकालने लगे ट्रंप",
+      "url": "https://hindi.news18.com/world/middle-east-us-israel-iran-attack-plans-midterm-elections-saudi-arabia-new-war-explained-10927342.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-22T05:31:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/israel-9-2026-10-27a877fa84a39387b44fd62e60b48cbe-1200x800.jpg",
+      "summary": "इजरायली लड़ाकू विमानों ने ईरान की सीमा के पास उड़ान भरी है। अमेरिका ने हूती हमलों के खतरे को देखते हुए सऊदी अरब से अपने कर्मचारियों को निकलने का आदेश दिया है। क्षेत्र में तनाव बढ़ रहा है। पश्चिम एशिया में एक बड़ी जंग का खतरा मंडरा रहा है. अमेरिका में 3 नवंबर के बाद होने वाले मिडटर्म चुनाव के बाद ईरान पर नया हमला हो सकता है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान पर फिर महायुद्ध की आहट, इजरायल के फाइटर जेट्स ने दिखाई ताकत, सऊदी से लोगों को निकालने लगे ट्रंप",
+          "summary": "इजरायली लड़ाकू विमानों ने ईरान की सीमा के पास उड़ान भरी है। अमेरिका ने हूती हमलों के खतरे को देखते हुए सऊदी अरब से अपने कर्मचारियों को निकलने का आदेश दिया है। क्षेत्र में तनाव बढ़ रहा है। पश्चिम एशिया में एक बड़ी जंग का खतरा मंडरा रहा है. अमेरिका में 3 नवंबर के बाद होने वाले मिडटर्म चुनाव के बाद ईरान पर नया हमला हो सकता है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "डिजिटल प्लेटफॉर्म पर कहां धमाका करेगी मेगा बजट फिल्म? देखने के लिए करनी होगी जेब ढीली",
+      "url": "https://www.amarujala.com/entertainment/ramayana-movie-ott-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-movie-digital-platform-streaming-details-2026-10-22",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-22T00:06:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/pgimer-bharataya-vajanianaka-na-tayara-ka-naii-takanaka_7650c9377e5dba7e538cdddaa4ea5b1a.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय वैज्ञानिकों ने नई चिकित्सा तकनीक विकसित की है। 540 मरीजों पर की गई जांच में इसके सकारात्मक परिणाम मिले हैं। एक साथ जांच: भारतीय वैज्ञानिकों ने तैयार की नई तकनीक, 540 मरीजों पर हुई जांच में मिले अच्छे नतीजे; कितना लाभ?",
+      "published_at": "2026-10-22T05:17:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/ramayanae-falma_2393a24b5297267d8ede7dddbf7bc699.jpeg?w=1200&dpr=1.0",
+      "summary": "रणबीर कपूर और साई पल्लवी अभिनीत फिल्म 'रामायण' जल्द रिलीज होगी। फिल्म का बजट लगभग 400 करोड़ रुपये है। दर्शकों को इसे देखने के लिए उच्च टिकट कीमतों का सामना करना होगा। Ramayana Movie OTT Release: रणबीर कपूर और साई पल्लवी अभिनीत फिल्म 'रामायण' की थिएटर रिलीज को अब ज्यादा वक्त नहीं बचा है। करीब 400 करोड़ के भारी-भरकम बजट में बनी फिल्म का दर्शकों के बीच इंतजार है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डिजिटल प्लेटफॉर्म पर कहां धमाका करेगी मेगा बजट फिल्म? देखने के लिए करनी होगी जेब ढीली",
+          "summary": "रणबीर कपूर और साई पल्लवी अभिनीत फिल्म 'रामायण' जल्द रिलीज होगी। फिल्म का बजट लगभग 400 करोड़ रुपये है। दर्शकों को इसे देखने के लिए उच्च टिकट कीमतों का सामना करना होगा। Ramayana Movie OTT Release: रणबीर कपूर और साई पल्लवी अभिनीत फिल्म 'रामायण' की थिएटर रिलीज को अब ज्यादा वक्त नहीं बचा है। करीब 400 करोड़ के भारी-भरकम बजट में बनी फिल्म का दर्शकों के बीच इंतजार है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बदायूं में भाजपा को बड़ा झटका: पूर्व विधायक कुशाग्र सागर ने दिया इस्तीफा, आठ पन्नों में लिखी दिल की",
+      "url": "https://www.amarujala.com/uttar-pradesh/budaun/former-mla-kushagra-sagar-resigns-from-bjp-in-budaun-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-22T05:15:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/former-mla_52898daa0428c98044d621eecc703d78.jpeg?w=1200&dpr=1.0",
+      "summary": "बदायूं से पूर्व विधायक कुशाग्र सागर ने भाजपा से इस्तीफा दे दिया। उन्होंने आठ पन्ने के पत्र में पार्टी के मंचों पर अपमान का आरोप लगाया। यह निर्णय जिले में पार्टी के लिए बड़ा झटका माना जा रहा है। पूर्व विधायक कुशाग्र सागर ने दिया भाजपा से इस्तीफा, पत्र में भाजपा के मंचों पर अपमानित करने का आरोप लगाया। बदायूं में भाजपा को बड़ा झटका: पूर्व विधायक कुशाग्र सागर ने दिया इस्तीफा, आठ पन्नों में लिखी दिल की।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बदायूं में भाजपा को बड़ा झटका: पूर्व विधायक कुशाग्र सागर ने दिया इस्तीफा, आठ पन्नों में लिखी दिल की",
+          "summary": "बदायूं से पूर्व विधायक कुशाग्र सागर ने भाजपा से इस्तीफा दे दिया। उन्होंने आठ पन्ने के पत्र में पार्टी के मंचों पर अपमान का आरोप लगाया। यह निर्णय जिले में पार्टी के लिए बड़ा झटका माना जा रहा है। पूर्व विधायक कुशाग्र सागर ने दिया भाजपा से इस्तीफा, पत्र में भाजपा के मंचों पर अपमानित करने का आरोप लगाया। बदायूं में भाजपा को बड़ा झटका: पूर्व विधायक कुशाग्र सागर ने दिया इस्तीफा, आठ पन्नों में लिखी दिल की।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "शैंपेन टोस्ट करते हुए विदेश मंत्री जयशंकर ने दिखाए भारतीय संस्कार, सोशल मीडिया पर जमकर हो रही तारीफ",
+      "url": "https://hindi.news18.com/news/nation/people-praising-external-affairs-minister-s-jaishankar-s-indian-cultured-image-with-champagne-toast-video-goes-viral-ws-l-10927391.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-22T05:08:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/s-jaishankar-toast-viral-video-2026-10-cd0cfd12f6d3d9f5f08830e55aa0e153-1200x800.jpg",
+      "summary": "विदेश मंत्री जयशंकर ने अमेरिकी समकक्ष मार्को रुबियो के साथ शैम्पेन टोस्ट किया। उन्होंने गिलास उठाया लेकिन बिना पिए उसे टेबल पर रख दिया। इस वीडियो ने सोशल मीडिया पर भारतीय संस्कारों की तारीफ जताई है। विदेश मंत्री एस जयशंकर का एक वीडियो वायरल हो रहा है, जिसमें वह अमेरिकी विदेश मंत्री मार्को रुबियो के साथ फ्रीडम 250 रिसेप्शन में शैम्पेन टोस्ट करते नजर आए, लेकिन बिना पिए उन्‍होंने गिलास को टेबल पर रख दिया.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारतीय वैज्ञानिकों ने तैयार की नई तकनीक, 540 मरीजों पर हुई जांच में मिले अच्छे नतीजे; कितना लाभ?",
-          "summary": "भारतीय वैज्ञानिकों ने नई चिकित्सा तकनीक विकसित की है। 540 मरीजों पर की गई जांच में इसके सकारात्मक परिणाम मिले हैं। एक साथ जांच: भारतीय वैज्ञानिकों ने तैयार की नई तकनीक, 540 मरीजों पर हुई जांच में मिले अच्छे नतीजे; कितना लाभ?",
+          "title": "शैंपेन टोस्ट करते हुए विदेश मंत्री जयशंकर ने दिखाए भारतीय संस्कार, सोशल मीडिया पर जमकर हो रही तारीफ",
+          "summary": "विदेश मंत्री जयशंकर ने अमेरिकी समकक्ष मार्को रुबियो के साथ शैम्पेन टोस्ट किया। उन्होंने गिलास उठाया लेकिन बिना पिए उसे टेबल पर रख दिया। इस वीडियो ने सोशल मीडिया पर भारतीय संस्कारों की तारीफ जताई है। विदेश मंत्री एस जयशंकर का एक वीडियो वायरल हो रहा है, जिसमें वह अमेरिकी विदेश मंत्री मार्को रुबियो के साथ फ्रीडम 250 रिसेप्शन में शैम्पेन टोस्ट करते नजर आए, लेकिन बिना पिए उन्‍होंने गिलास को टेबल पर रख दिया.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "फ्रांस में 'बिस्मिल्लाह, से ले तेनब्र' नारे पर विवाद: मुस्लिम प्रवासियों पर बहस; आरोपों पर मैक्रों",
-      "url": "https://www.amarujala.com/world/france-protest-slogan-controversy-macron-hits-back-at-trump-and-netanyahu-2026-10-22",
+      "title": "'दाऊद 2003 से पहले भारत छोड़ चुका था': भारत ने यूएन की रिपोर्ट पर जताई कड़ी आपत्ति, गंभीर गलतियां",
+      "url": "https://www.amarujala.com/india-news/india-slams-un-counter-terrorism-report-bias-dawood-ibrahim-pakistan-2026-10-22",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-21T23:57:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/france-protest_2623e206f33d860b077fb29bcb583fb3.jpeg?w=1200&dpr=1.0",
-      "summary": "फ्रांस में 'बिस्मिल्लाह, से ले तेनब्र' नारे पर राजनीतिक विवाद बढ़ा है। प्रेसिडेंट मैक्रों ने ट्रंप और नेतन्याहू के आरोपों का पलटवार किया है। फ्रांस में 'बिस्मिल्लाह, से ले तेनब्र' नारे पर विवाद: मुस्लिम प्रवासियों पर बहस; आरोपों पर मैक्रों।",
+      "published_at": "2026-10-22T05:06:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/ragha-para-bharataya-rajanayaka_0ac8938452629f14c41eb0fbf03965af.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत ने संयुक्त राष्ट्र की प्रतिरिपोर्ट पर कड़ी आपत्ति जताई है। सरकार का कहना है कि दाऊद इब्राहिम 2003 से पहले ही भारत छोड़ चुके थे। रिपोर्ट में गंभीर तथ्यात्मक गलतियों का उल्लेख किया गया है। 'दाऊद 2003 से पहले भारत छोड़ चुका था': भारत ने यूएन की रिपोर्ट पर जताई कड़ी आपत्ति, गंभीर गलतियां।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'दाऊद 2003 से पहले भारत छोड़ चुका था': भारत ने यूएन की रिपोर्ट पर जताई कड़ी आपत्ति, गंभीर गलतियां",
+          "summary": "भारत ने संयुक्त राष्ट्र की प्रतिरिपोर्ट पर कड़ी आपत्ति जताई है। सरकार का कहना है कि दाऊद इब्राहिम 2003 से पहले ही भारत छोड़ चुके थे। रिपोर्ट में गंभीर तथ्यात्मक गलतियों का उल्लेख किया गया है। 'दाऊद 2003 से पहले भारत छोड़ चुका था': भारत ने यूएन की रिपोर्ट पर जताई कड़ी आपत्ति, गंभीर गलतियां।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सितंबर सत्र के नतीजे घोषित, कैसे चेक करें परिणाम? टॉपर लिस्ट में कितनों ने बनाई जगह?",
+      "url": "https://www.amarujala.com/education/ca-inter-result-2026-out-icai-september-results-released-check-marks-and-toppers-list-2026-10-22",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-22T05:01:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/ca-inter-result-2026-out_a3b5e4d9da46f8975321372b34aef614.jpeg?w=1200&dpr=1.0",
+      "summary": "इंस्टीट्यूट ऑफ चार्टर्ड अकाउंटेंट्स ऑफ इंडिया ने सीए इंटरमीडिएट सितंबर 2026 परीक्षा का परिणाम जारी किया है। अभ्यर्थी आधिकारिक वेबसाइट पर पंजीकरण संख्या और अनुक्रमांक से परिणाम देख सकते हैं। टॉपर लिस्ट में कई छात्रों ने जगह बनाई है। इंस्टीट्यूट ऑफ चार्टर्ड अकाउंटेंट्स ऑफ इंडिया ने सीए इंटरमीडिएट सितंबर 2026 परीक्षा का परिणाम जारी कर दिया है। परीक्षा में शामिल अभ्यर्थी आधिकारिक वेबसाइट पर अपना परिणाम पंजीकरण संख्या और अनुक्रमांक की मदद से देख सकते हैं।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फ्रांस में 'बिस्मिल्लाह, से ले तेनब्र' नारे पर विवाद: मुस्लिम प्रवासियों पर बहस; आरोपों पर मैक्रों",
-          "summary": "फ्रांस में 'बिस्मिल्लाह, से ले तेनब्र' नारे पर राजनीतिक विवाद बढ़ा है। प्रेसिडेंट मैक्रों ने ट्रंप और नेतन्याहू के आरोपों का पलटवार किया है। फ्रांस में 'बिस्मिल्लाह, से ले तेनब्र' नारे पर विवाद: मुस्लिम प्रवासियों पर बहस; आरोपों पर मैक्रों।",
+          "title": "सितंबर सत्र के नतीजे घोषित, कैसे चेक करें परिणाम? टॉपर लिस्ट में कितनों ने बनाई जगह?",
+          "summary": "इंस्टीट्यूट ऑफ चार्टर्ड अकाउंटेंट्स ऑफ इंडिया ने सीए इंटरमीडिएट सितंबर 2026 परीक्षा का परिणाम जारी किया है। अभ्यर्थी आधिकारिक वेबसाइट पर पंजीकरण संख्या और अनुक्रमांक से परिणाम देख सकते हैं। टॉपर लिस्ट में कई छात्रों ने जगह बनाई है। इंस्टीट्यूट ऑफ चार्टर्ड अकाउंटेंट्स ऑफ इंडिया ने सीए इंटरमीडिएट सितंबर 2026 परीक्षा का परिणाम जारी कर दिया है। परीक्षा में शामिल अभ्यर्थी आधिकारिक वेबसाइट पर अपना परिणाम पंजीकरण संख्या और अनुक्रमांक की मदद से देख सकते हैं।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "भाजपा-शिअद साथ, पर नशे के खिलाफ अभियान की चिंता",
-      "url": "https://www.amarujala.com/india-news/punjab-politics-bjp-and-sad-looking-together-concern-regarding-campaign-against-drugs-amid-assembly-polls-buzz-2026-10-22",
+      "title": "Q3 के मुनाफे में आई गिरवाट, फिर भी कैश फ्लो ने चौंकाया; स्पेसएक्स मर्जर को लेकर क्या है चर्चा?",
+      "url": "https://www.amarujala.com/automobiles/tesla-q3-profit-falls-44-cash-flow-surges-spacex-merger-talks-gather-pace-2026-10-22",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-21T23:56:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/punjab_f43e5d1a2deb825d8b1fbdc70444298c.jpeg?w=1200&dpr=1.0",
-      "summary": "पंजाब में भाजपा और शिअद के बीच गठबंधन बना है। दोनों दलों को नशे के खिलाफ अभियान की प्रभावशीलता की चिंता है। पंजाब की सियासत: भाजपा-शिअद साथ, पर नशे के खिलाफ अभियान की चिंता।",
+      "published_at": "2026-10-22T04:53:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/paratakatamaka-tasavara_7188b60dae2edf61a2521f0c5991fa4b.jpeg?w=1200&dpr=1.0",
+      "summary": "टेस्ला के तीसरे तिमाही मुनाफे में गिरावट आई है। हालांकि, कंपनी की कैश फ्लो ने बाजार को चौंका दिया। इस बीच स्पेसएक्स के साथ संभावित मर्जर को लेकर चर्चा तेज हो गई है। टेस्ला को झटका: Q3 के मुनाफे में आई गिरवाट, फिर भी कैश फ्लो ने चौंकाया; स्पेसएक्स मर्जर को लेकर क्या है चर्चा?",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भाजपा-शिअद साथ, पर नशे के खिलाफ अभियान की चिंता",
-          "summary": "पंजाब में भाजपा और शिअद के बीच गठबंधन बना है। दोनों दलों को नशे के खिलाफ अभियान की प्रभावशीलता की चिंता है। पंजाब की सियासत: भाजपा-शिअद साथ, पर नशे के खिलाफ अभियान की चिंता।",
+          "title": "Q3 के मुनाफे में आई गिरवाट, फिर भी कैश फ्लो ने चौंकाया; स्पेसएक्स मर्जर को लेकर क्या है चर्चा?",
+          "summary": "टेस्ला के तीसरे तिमाही मुनाफे में गिरावट आई है। हालांकि, कंपनी की कैश फ्लो ने बाजार को चौंका दिया। इस बीच स्पेसएक्स के साथ संभावित मर्जर को लेकर चर्चा तेज हो गई है। टेस्ला को झटका: Q3 के मुनाफे में आई गिरवाट, फिर भी कैश फ्लो ने चौंकाया; स्पेसएक्स मर्जर को लेकर क्या है चर्चा?",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रिपब्लिकन उम्मीदवारों के प्रचार पर ₹26 हजार करोड़ खर्च; क्या बहुमत बचा पाएंगे ट्रंप?",
-      "url": "https://www.amarujala.com/world/us-midterm-elections-trump-linked-groups-spend-277-million-on-republican-campaigns-2026-10-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-21T23:21:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/danalda-tarapa_0b626af131de96019b7ad3c821ad70cb.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका के मध्यावधि चुनावों में रिपब्लिकन प्रचार पर 26 हजार करोड़ रुपये खर्च हुए हैं। ट्रंप समर्थित समूहों ने इस खर्च में बड़ी हिस्सेदारी ली है। रिपब्लिकन उम्मीदवारों के प्रचार पर ₹26 हजार करोड़ खर्च; क्या बहुमत बचा पाएंगे ट्रंप?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रिपब्लिकन उम्मीदवारों के प्रचार पर ₹26 हजार करोड़ खर्च; क्या बहुमत बचा पाएंगे ट्रंप?",
-          "summary": "अमेरिका के मध्यावधि चुनावों में रिपब्लिकन प्रचार पर 26 हजार करोड़ रुपये खर्च हुए हैं। ट्रंप समर्थित समूहों ने इस खर्च में बड़ी हिस्सेदारी ली है। रिपब्लिकन उम्मीदवारों के प्रचार पर ₹26 हजार करोड़ खर्च; क्या बहुमत बचा पाएंगे ट्रंप?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "वकील और अकाउंटेंट पर यौन शोषण छिपाने का आरोप, न्यू मैक्सिको के अटॉर्नी जनरल ने किया मुकदमा",
-      "url": "https://www.amarujala.com/world/new-mexico-attorney-general-sues-epstein-lawyer-and-accountant-over-abuse-cover-up-2026-10-22",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-21T20:04:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/22/new-mexico-attorney-general-sues-epstein-lawyer-and-accountant-over-abuse-cover-up_97c92fa358ecb8288c9257b51bae4074.jpeg?w=1200&dpr=1.0",
-      "summary": "न्यू मैक्सिको के अटॉर्नी जनरल ने एपस्टीन केस में यौन शोषण छिपाने के आरोप में एक वकील और अकाउंटेंट के खिलाफ मुकदमा दर्ज किया है। यह कानूनी कार्रवाई अभियोजन की ओर से की गई है। वकील और अकाउंटेंट पर यौन शोषण छिपाने का आरोप, न्यू मैक्सिको के अटॉर्नी जनरल ने किया मुकदमा।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वकील और अकाउंटेंट पर यौन शोषण छिपाने का आरोप, न्यू मैक्सिको के अटॉर्नी जनरल ने किया मुकदमा",
-          "summary": "न्यू मैक्सिको के अटॉर्नी जनरल ने एपस्टीन केस में यौन शोषण छिपाने के आरोप में एक वकील और अकाउंटेंट के खिलाफ मुकदमा दर्ज किया है। यह कानूनी कार्रवाई अभियोजन की ओर से की गई है। वकील और अकाउंटेंट पर यौन शोषण छिपाने का आरोप, न्यू मैक्सिको के अटॉर्नी जनरल ने किया मुकदमा।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान छोड़ विदेश भागने की तैयारी में सरकारी अधिकारी! ख्वाजा आसिफ का बड़ा आरोप",
-      "url": "https://www.abplive.com/news/world/defence-minister-khawaja-asif-accused-pakistani-bureaucrats-alleged-permanently-residency-plans-abroad-3204909",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-10-21T19:29:00+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/21/9e9995af026668061cc8d096e34f239a17925796913061126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ ने वरिष्ठ अधिकारियों पर देश छोड़कर विदेश में बसने की योजना बनाने का आरोप लगाया है। उन्होंने इन अधिकारियों की निष्ठा पर सवाल उठाया है। यह आरोप एक्सप्रेस ट्रिब्यून की रिपोर्ट में सामने आया है। पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ ने अपने देश के वरिष्ठ अधिकारियों (Senior Bureaucrats) की निष्ठा पर सवाल उठाते हुए बड़ा आरोप लगाया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान छोड़ विदेश भागने की तैयारी में सरकारी अधिकारी! ख्वाजा आसिफ का बड़ा आरोप",
-          "summary": "पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ ने वरिष्ठ अधिकारियों पर देश छोड़कर विदेश में बसने की योजना बनाने का आरोप लगाया है। उन्होंने इन अधिकारियों की निष्ठा पर सवाल उठाया है। यह आरोप एक्सप्रेस ट्रिब्यून की रिपोर्ट में सामने आया है। पाकिस्तान के रक्षा मंत्री ख्वाजा आसिफ ने अपने देश के वरिष्ठ अधिकारियों (Senior Bureaucrats) की निष्ठा पर सवाल उठाते हुए बड़ा आरोप लगाया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "न्यूयॉर्क में महिला ने बेटी को मार डाला, भारतीय मूल के पिता बोले- ‘मेरी दुनिया उजड़ गई’",
-      "url": "https://www.abplive.com/news/world/indian-origin-father-said-he-lost-his-world-after-psychologically-ill-wife-killed-5-yrs-daughter-in-new-york-3204967",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-10-21T19:28:55+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/21/0109d55ddb51dacdf9790f4d6c7cd1ff17925858774911126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "न्यूयॉर्क में पांच साल की फैबियाना कैबेलो की हत्या उसकी मां ने की। भारतीय मूल के पिता कुलदीप सिंह ने इस घटना पर गहरा दुख जताया। न्यूयॉर्क टाइम्स की रिपोर्ट के अनुसार पिता ने कहा कि उनकी दुनिया उजड़ गई है। अमेरिका के न्यूयॉर्क शहर में रहने वाले एक भारतीय मूल के व्यक्ति कुलदीप सिंह ने अपनी पांच साल की बच्ची की मौत पर दुख जताया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "न्यूयॉर्क में महिला ने बेटी को मार डाला, भारतीय मूल के पिता बोले- ‘मेरी दुनिया उजड़ गई’",
-          "summary": "न्यूयॉर्क में पांच साल की फैबियाना कैबेलो की हत्या उसकी मां ने की। भारतीय मूल के पिता कुलदीप सिंह ने इस घटना पर गहरा दुख जताया। न्यूयॉर्क टाइम्स की रिपोर्ट के अनुसार पिता ने कहा कि उनकी दुनिया उजड़ गई है। अमेरिका के न्यूयॉर्क शहर में रहने वाले एक भारतीय मूल के व्यक्ति कुलदीप सिंह ने अपनी पांच साल की बच्ची की मौत पर दुख जताया है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
