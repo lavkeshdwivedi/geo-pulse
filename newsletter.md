@@ -1,6 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 24, 2026 02:31 IST
+**Updated:** October 24, 2026 05:16 IST
+
+---
+
+## Americas
+
+### [Trump lifts some Canada tariffs ahead of midterms](https://www.channelnewsasia.com/world/trump-canada-tariffs-midterms-6488081)
+*Channel News Asia* - Oct 24, 03:01 IST (iso: 2026-10-23T21:31:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--GQyaa9CS--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Canada_Carney_Nobel_Time_58858.jpg?itok=HdCk2y8B -->
+
+Trump lifted some tariffs on Canadian goods ahead of the midterm elections. The decision followed lobbying by a vulnerable Republican candidate in Maine. She argued that local farmers depend on specialist equipment from Canada. American alternatives for these products are difficult to source or too expensive. The policy shift targets agricultural imports specifically. This move aims to ease pressure on Republican voters in key states.
+
+### [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)
+*The Guardian* - Oct 22, 20:30 IST (iso: 2026-10-22T15:00:29+00:00)
+<!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
+
+Alberta plans to restrict rights for migrant workers despite previously welcoming them. Vanesa Ortiz, a Mexican resident in Calgary, criticized the move as scapegoating. She argued such measures will not lower the cost of living. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
+
+### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
+
+Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
 
 ---
 
@@ -145,32 +167,6 @@ Families report ICE is deporting severely ill detainees from Florida jails. Flig
 <!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
 
 Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
-
----
-
-## Americas
-
-### [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)
-*The Guardian* - Oct 22, 20:30 IST (iso: 2026-10-22T15:00:29+00:00)
-<!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
-
-Alberta plans to restrict rights for migrant workers despite previously welcoming them. Vanesa Ortiz, a Mexican resident in Calgary, criticized the move as scapegoating. She argued such measures will not lower the cost of living. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
-
-### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
-*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
-
-Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
-
----
-
-## Global / Multilateral
-
-### [Migrants paid up to $500 million in smuggling fees on European sea routes](https://news.un.org/feed/view/en/story/2026/10/1168642)
-*UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image560x340cropped.jpg -->
-
-The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.
 
 ---
 
