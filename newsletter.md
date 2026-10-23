@@ -1,6 +1,50 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 23, 2026 05:14 IST
+**Updated:** October 23, 2026 07:41 IST
+
+---
+
+## World
+
+### [Tibet earthquake LIVE | At least sixteen dead, 32 injured after 7.0 quake strikes Tibet](https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece)
+*The Hindu (International)* - Oct 23, 07:20 IST (iso: 2026-10-23T01:50:03+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/o7iygr/article71614378.ece/alternates/LANDSCAPE_1200/China_Earthquake__4552.jpg -->
+
+A 7.0 magnitude earthquake struck Tibet, killing at least sixteen people and injuring thirty-two. Rescue teams searched for survivors after three hundred and thirty-nine homes collapsed. The epicenter lay one hundred and ninety kilometers east of Nagqu. Search and rescue efforts continued following the collapse of at least 339 homes, the Nagqu media office said, citing city government officials. Among the injured, 11 people were in serious condition, and the other 21 sustained minor injuries, the media office said.
+
+---
+
+## Middle East & Africa
+
+### [Venezuelans call for elections in first national protest in nearly two years](https://www.thehindu.com/news/international/thousands-of-venezuelans-protest-nationwide-calling-for-free-elections/article71614359.ece)
+*The Hindu (International)* - Oct 23, 06:39 IST (iso: 2026-10-23T01:09:31+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/uqfjti/article71614362.ece/alternates/LANDSCAPE_1200/2026-10-22T213707Z_706391074_RC2K8OAP9LEG_RTRMADP_3_VENEZUELA-PROTEST.JPG -->
+
+Venezuelans staged their first national protest in nearly two years, demanding new elections. Opposition leader Maria Corina Machado called for a vote by July 2027. She has remained in exile since the contested 2024 election. Opposition leader and Nobel Peace Prize winner Maria Corina Machado, who has been outside the country for nearly a ‌year after living in hiding following a contested 2024 election, has said elections must take place by July 2027.
+
+### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
+*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
+
+Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
+
+### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
+*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
+
+Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
+
+### [Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis](https://news.un.org/feed/view/en/story/2026/10/1168638)
+*UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image770x420cropped.jpg -->
+
+Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met to discuss a ceasefire. The goal is a transition to peaceful governance that represents all Sudanese people amid the ongoing drone war. Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.
+
+### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
+*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
+<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
+
+Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
 
 ---
 
@@ -11,12 +55,6 @@
 <!-- image: https://th-i.thgim.com/public/incoming/pkr4t4/article71613330.ece/alternates/LANDSCAPE_1200/2026-10-22T192121Z_1485514791_RC2I8OAGF185_RTRMADP_3_RUSSIA-PUTIN.JPG -->
 
 Vladimir Putin stated that Russia is prepared to negotiate a final settlement for the Ukraine conflict rather than a temporary ceasefire. The Russian president told state television that discussions should focus on establishing long-term security guarantees for both nations. He explicitly rejected the idea of a short pause in fighting as a sufficient outcome. This position clarifies Moscow's current diplomatic stance on the war's endgame.
-
-### [Women are protesting around Poland for free access to legal abortions](https://www.thehindu.com/news/international/women-are-protesting-around-poland-for-free-access-to-legal-abortions/article71613261.ece)
-*The Hindu (International)* - Oct 23, 00:07 IST (iso: 2026-10-22T18:37:49+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/9co660/article71613275.ece/alternates/LANDSCAPE_1200/Poland_Abortion_86771.jpg -->
-
-Polish women are protesting across the country to demand free access to legal abortions. The demonstrations target new draft laws that activists argue offer only token gestures rather than genuine reform. Zofia Marcinek of the Abortion Dream Team in Warsaw criticized the timing of the legislation. She noted the bills are being passed a year before the next parliamentary election. Critics view the move as a political maneuver rather than a substantive change to reproductive rights.
 
 ### [American detained in Russia arrives in U.S.: lawyer](https://www.thehindu.com/news/international/american-detained-in-russia-arrives-in-us-lawyer/article71613018.ece)
 *The Hindu (International)* - Oct 22, 23:00 IST (iso: 2026-10-22T17:30:14+00:00)
@@ -60,27 +98,15 @@ Russian authorities released Stephen Hubbard, a 74‑year‑old American, after 
 
 Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
 
-### [Vladimir Putin's Neighbors: Two Parallel Worlds On Lake Valdai](https://www.rferl.org/a/vladimir-putin-s-neighbors-two-parallel-worlds-on-valdai/33880243.html)
-*Radio Free Europe / Liberty* - Oct 21, 13:13 IST (iso: 2026-10-21T07:43:41+00:00)
-<!-- image: https://gdb.rferl.org/9ae7e62f-3e02-4141-42b6-08df13a884cb_w1200_h630.jpg -->
-
-Residents near Lake Valdai in Russia’s Tver region face restricted access to the lake and surrounding forests due to the security perimeter around Vladimir Putin’s residence. The area is fortified with fences, security forces, and air defense systems. Local families bear the economic costs of the war against Ukraine while their recreational access is curtailed. This creates a stark contrast between the protected leadership enclave and the constrained daily lives of nearby citizens.
-
-### [Wounded Ukrainian Soldier Rescued From Front Lines By Aerial Drone](https://www.rferl.org/a/ukraine-aerial-drone-battlefield-rescue-front-lines/33880389.html)
-*Radio Free Europe / Liberty* - Oct 21, 01:22 IST (iso: 2026-10-20T19:52:44+00:00)
-<!-- image: https://gdb.rferl.org/a4897844-c692-45e9-e89a-08df13afe2a0_w1200_h630.jpg -->
-
-Ukrainian forces used a hexacopter drone to evacuate a soldier with leg injuries from the front lines. The military described the operation as a first. Fellow servicemen noted the soldier strapped himself to the aircraft and returned to his unit. In what Ukraine's military is calling a historic first, a soldier who suffered injuries to both legs on the battlefield was evacuated by an unmanned aerial drone.
-
-### [Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins](https://www.rferl.org/a/everything-is-dead-ukraine-liberates-dnipropetrovsk-settlements-but-villages-lie-in-ruins/33880295.html)
-*Radio Free Europe / Liberty* - Oct 20, 21:49 IST (iso: 2026-10-20T16:19:21+00:00)
-<!-- image: https://gdb.rferl.org/67889eaf-352c-4b60-e8c1-08df13a87301_w1200_h630.jpg -->
-
-Ukrainian forces retaken 26 settlements in the Dnipropetrovsk region. The villages are largely destroyed and uninhabitable. Russian troops are being pushed back, but Ukrainian forces face challenges holding the reclaimed territory under constant drone threat. As Russian troops are pushed back, Ukrainian forces face the challenge of holding the reclaimed territory under constant threat from drones. Ukraine Liberates Dnipropetrovsk Settlements, But Villages Lie In Ruins.
-
 ---
 
 ## Asia-Pacific
+
+### [At least sixteen dead, 32 injured after 7.0 quake strikes China’s Tibet: State media](https://www.thehindu.com/news/international/tibet-earthquake-nagqu-updates-october-22-2026/article71612585.ece)
+*The Hindu (International)* - Oct 23, 02:16 IST (iso: 2026-10-22T20:46:31+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/6pxdbu/article71612625.ece/alternates/LANDSCAPE_1200/iStock-2172126887%201.jpg -->
+
+A 7.0 magnitude earthquake hit China’s Tibet, killing at least sixteen people. The quake struck at 10:33 p. m., with the epicenter near Nagqu. Thirty-two people were injured, with eleven in serious condition. The epicentre of the quake, which struck at 10:33 p. m. (1433 GMT), was located in a mountainous area about 190 kilometres (120 miles) east-northeast of Nagqu, and 390 kilometres northeast of the regional capital Lhasa, says U. S.
 
 ### [UN climate damages fund earmarks $20 million to Nepal for August disaster](https://www.thehindu.com/sci-tech/energy-and-environment/un-climate-damages-fund-earmarks-20-million-to-nepal-for-august-disaster/article71612344.ece)
 *The Hindu (International)* - Oct 22, 23:10 IST (iso: 2026-10-22T17:40:28+00:00)
@@ -90,13 +116,13 @@ The UN climate damages fund allocated $20 million to Nepal for August disasters.
 
 ### [China’s new drone mothership targets US undersea edge](https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/)
 *Asia Times* - Oct 22, 11:41 IST (iso: 2026-10-22T06:11:09+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg?fit=1024%2C683&amp;ssl=1 -->
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg -->
 
 China built a second drone mothership to launch submarine-sized uncrewed vessels. The platform targets US undersea dominance in the Western Pacific. This capability extends autonomous power beyond the First Island Chain. It systematically challenges American submarine operations in the region. China’s development of specialized naval auxiliaries designed to transport, launch and recover submarine-sized uncrewed vessels signals an assertive push to project autonomous undersea power beyond the First Island Chain and systematically challenge US submarine dominance in the Western Pacific.
 
 ### [Don’t mistake Indonesia’s MSCI scare for economic weakness](https://asiatimes.com/2026/10/dont-mistake-indonesias-msci-scare-for-economic-weakness/)
 *Asia Times* - Oct 22, 11:14 IST (iso: 2026-10-22T05:44:08+00:00)
-<!-- image: https://i0.wp.com/asiatimes.com/wp-content/uploads/2026/10/Bank-Indonesia-Rupiah-Indonesia-Economy.jpg?fit=1024%2C683&amp;ssl=1 -->
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Bank-Indonesia-Rupiah-Indonesia-Economy.jpg -->
 
 MSCI proposed downgrading Indonesia to a Standalone Market. Jakarta’s financial community reacted with anxiety and capital flight. Regulators moved to calm investors. The market tremor does not reflect the country’s overall economic health or structural stability. When MSCI floated the idea of downgrading Indonesia to a Standalone Market, anxiety quickly swept through Jakarta’s financial community. Predictably, alarming headlines immediately pointed to foreign capital flight, stock prices dropped and local regulators quickly moved to calm jittery investors.
 
@@ -120,31 +146,19 @@ New Taipei prosecutors charged five men with plotting to injure comedian Huang Y
 
 ---
 
-## Middle East & Africa
+## Americas
 
-### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
-*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
+### [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)
+*The Guardian* - Oct 22, 20:30 IST (iso: 2026-10-22T15:00:29+00:00)
+<!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
 
-Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
+Alberta plans to restrict rights for migrant workers despite previously welcoming them. Vanesa Ortiz, a Mexican resident in Calgary, criticized the move as scapegoating. She argued such measures will not lower the cost of living. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
 
-### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
-*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
+### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
 
-Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
-
-### [Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis](https://news.un.org/feed/view/en/story/2026/10/1168638)
-*UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image770x420cropped.jpg -->
-
-Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met to discuss a ceasefire. The goal is a transition to peaceful governance that represents all Sudanese people amid the ongoing drone war. Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.
-
-### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
-*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
-
-Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
+Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
 
 ---
 
@@ -161,16 +175,6 @@ Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels.
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg -->
 
 The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.
-
----
-
-## Americas
-
-### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
-*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
-
-Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
 
 ---
 
