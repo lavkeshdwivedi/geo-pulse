@@ -1,6 +1,46 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 23, 2026 23:30 IST
+**Updated:** October 24, 2026 02:31 IST
+
+---
+
+## Asia-Pacific
+
+### [Taiwan says China using militia boats to expand 'battlefield preparation' in western Pacific](https://www.thehindu.com/news/international/taiwan-says-china-using-militia-boats-to-expand-battlefield-preparation-in-western-pacific/article71617717.ece)
+*The Hindu (International)* - Oct 24, 00:37 IST (iso: 2026-10-23T19:07:15+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/xzz98z/article71617751.ece/alternates/LANDSCAPE_1200/2026-07-09T073648Z_295346332_RC22AMA0FXI8_RTRMADP_3_TAIWAN-CHINA-SECURITY.JPG -->
+
+Taiwan’s coast guard identified a suspected Chinese militia fishing boat, Minfudingyu 07902, operating within 2.7 nautical miles of its restricted waters on August 16. The vessel’s proximity marks a significant escalation in what Taipei describes as Beijing’s battlefield preparation in the western Pacific. This incident highlights the increasing use of non-military assets to test boundaries and project influence. The development underscores the shifting dynamics of maritime security in the region.
+
+### [US-China AI race turning ASEAN neutrality into a liability](https://asiatimes.com/2026/10/us-china-ai-race-turning-asean-neutrality-into-a-liability/)
+*Asia Times* - Oct 23, 11:16 IST (iso: 2026-10-23T05:46:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/05/China-Data-Centers-Guizhou-Province.jpg -->
+
+The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Southeast Asian nations previously leveraged ties with both powers for economic gain. Competing technology networks now force governments to choose sides, reducing their diplomatic flexibility and strategic room for maneuver. For decades, Southeast Asia has turned great-power rivalry to an economic advantage. By maintaining healthy ties with Washington and Beijing, ASEAN governments attracted investment, expanded trade and preserved room for diplomatic maneuver.
+
+### [China’s new drone mothership targets US undersea edge](https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/)
+*Asia Times* - Oct 22, 11:41 IST (iso: 2026-10-22T06:11:09+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg -->
+
+China built a second drone mothership to launch submarine-sized uncrewed vessels. The platform targets US undersea dominance in the Western Pacific. This capability extends autonomous power beyond the First Island Chain. It systematically challenges American submarine operations in the region. China’s development of specialized naval auxiliaries designed to transport, launch and recover submarine-sized uncrewed vessels signals an assertive push to project autonomous undersea power beyond the First Island Chain and systematically challenge US submarine dominance in the Western Pacific.
+
+### [North Korea prepares to restart propaganda loudspeakers as ties sour with South](https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea)
+*The Guardian* - Oct 22, 09:26 IST (iso: 2026-10-22T03:56:46+00:00)
+<!-- image: https://i.guim.co.uk/img/media/713bcd9ff1654fe9c89a51939a324229100d3767/0_125_3728_2984/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e37089bb178a354486cf3ff0ec3898 -->
+
+Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.
+
+### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
+*Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
+<!-- image: https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg -->
+
+Tajikistan is advancing the Soviet-era Roghun Dam project after securing major funding tranches. The development aims to reshape Central Asia's energy supply. The construction will displace tens of thousands of local villagers from their homes. The Soviet-era Roghun Dam project has endured decades of uncertainty and opposition. Now major funding tranches appear to have the project on track to transform Central Asia's energy landscape -- and displace tens of thousands of Tajik villagers.
+
+### [Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes](https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes)
+*The Guardian* - Oct 21, 21:43 IST (iso: 2026-10-21T16:13:53+00:00)
+<!-- image: https://i.guim.co.uk/img/media/58b66aaef4e26d60886b5c0c15befc257deb5d69/363_156_721_577/master/721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5118a8e46e914a164bcd919cf04fac54 -->
+
+New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.
 
 ---
 
@@ -105,46 +145,6 @@ Families report ICE is deporting severely ill detainees from Florida jails. Flig
 <!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
 
 Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
-
----
-
-## Asia-Pacific
-
-### [US-China AI race turning ASEAN neutrality into a liability](https://asiatimes.com/2026/10/us-china-ai-race-turning-asean-neutrality-into-a-liability/)
-*Asia Times* - Oct 23, 11:16 IST (iso: 2026-10-23T05:46:45+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/05/China-Data-Centers-Guizhou-Province.jpg -->
-
-The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Southeast Asian nations previously leveraged ties with both powers for economic gain. Competing technology networks now force governments to choose sides, reducing their diplomatic flexibility and strategic room for maneuver. For decades, Southeast Asia has turned great-power rivalry to an economic advantage. By maintaining healthy ties with Washington and Beijing, ASEAN governments attracted investment, expanded trade and preserved room for diplomatic maneuver.
-
-### [China’s new drone mothership targets US undersea edge](https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/)
-*Asia Times* - Oct 22, 11:41 IST (iso: 2026-10-22T06:11:09+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg -->
-
-China built a second drone mothership to launch submarine-sized uncrewed vessels. The platform targets US undersea dominance in the Western Pacific. This capability extends autonomous power beyond the First Island Chain. It systematically challenges American submarine operations in the region. China’s development of specialized naval auxiliaries designed to transport, launch and recover submarine-sized uncrewed vessels signals an assertive push to project autonomous undersea power beyond the First Island Chain and systematically challenge US submarine dominance in the Western Pacific.
-
-### [Don’t mistake Indonesia’s MSCI scare for economic weakness](https://asiatimes.com/2026/10/dont-mistake-indonesias-msci-scare-for-economic-weakness/)
-*Asia Times* - Oct 22, 11:14 IST (iso: 2026-10-22T05:44:08+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Bank-Indonesia-Rupiah-Indonesia-Economy.jpg -->
-
-MSCI proposed downgrading Indonesia to a Standalone Market. Jakarta’s financial community reacted with anxiety and capital flight. Regulators moved to calm investors. The market tremor does not reflect the country’s overall economic health or structural stability. When MSCI floated the idea of downgrading Indonesia to a Standalone Market, anxiety quickly swept through Jakarta’s financial community. Predictably, alarming headlines immediately pointed to foreign capital flight, stock prices dropped and local regulators quickly moved to calm jittery investors.
-
-### [North Korea prepares to restart propaganda loudspeakers as ties sour with South](https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea)
-*The Guardian* - Oct 22, 09:26 IST (iso: 2026-10-22T03:56:46+00:00)
-<!-- image: https://i.guim.co.uk/img/media/713bcd9ff1654fe9c89a51939a324229100d3767/0_125_3728_2984/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e37089bb178a354486cf3ff0ec3898 -->
-
-Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.
-
-### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
-*Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
-<!-- image: https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg -->
-
-Tajikistan is advancing the Soviet-era Roghun Dam project after securing major funding tranches. The development aims to reshape Central Asia's energy supply. The construction will displace tens of thousands of local villagers from their homes. The Soviet-era Roghun Dam project has endured decades of uncertainty and opposition. Now major funding tranches appear to have the project on track to transform Central Asia's energy landscape -- and displace tens of thousands of Tajik villagers.
-
-### [Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes](https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes)
-*The Guardian* - Oct 21, 21:43 IST (iso: 2026-10-21T16:13:53+00:00)
-<!-- image: https://i.guim.co.uk/img/media/58b66aaef4e26d60886b5c0c15befc257deb5d69/363_156_721_577/master/721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5118a8e46e914a164bcd919cf04fac54 -->
-
-New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.
 
 ---
 

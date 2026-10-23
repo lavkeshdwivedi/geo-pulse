@@ -1,78 +1,142 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 23, 2026 23:30 IST
+**अपडेट:** October 24, 2026 02:31 IST
 
 ---
 
-## अमेरिका
+## दुनिया
 
-### [रेलवे ट्रैक पर फंसी इलेक्ट्रिक व्हीलचेयर, सामने से आ गई मौत... बचाने दौड़े 2 लोग, आई बुरी खबर](https://hindi.news18.com/world/america-washington-train-accident-kills-59-year-old-man-after-his-electric-wheelchair-gets-stuck-on-railroad-tracks-in-puyallup-10931993.html)
-*News18 Hindi (World)* - Oct 23, 22:25 IST (iso: 2026-10-23T16:55:42+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Train-Railway-2026-10-5de56f155a9489b41d31bd8a4040cca9-1200x800.jpg -->
+### [होंडा और मित्सुबिशी के बीच क्या ऐतिहासिक समझौता हुआ?: मित्सुबिशी ट्रिटन पर आधारित होगी होंडा की नई](https://www.amarujala.com/automobiles/honda-and-mitsubishi-sign-mou-for-strategic-vehicle-supply-upcoming-honda-pickup-based-on-mitsubishi-triton-e-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:38 IST (iso: 2026-10-24T07:08:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/honda-mitsubishi-partnership_56307fe600c9ee0a33dee570b0af5a37.jpeg?w=1200&dpr=1.0 -->
 
-वॉशिंगटन के पुयालप में 59 वर्षीय रिचर्ड गाइगर की रेलवे ट्रैक पर मौत हो गई। उनका इलेक्ट्रिक व्हीलचेयर फंसा हुआ था। दो लोगों ने बचाव की कोशिश की, लेकिन मालगाड़ी की टक्कर से वे मारे गए। पुलिस जांच कर रही है। America News Today: अमेरिका के वॉशिंगटन राज्य में रेलवे ट्रैक पर इलेक्ट्रिक व्हीलचेयर फंसने से 59 वर्षीय रिचर्ड गाइगर की मौत हो गई.
+होंडा और मित्सुबिशी ने वाहन आपूर्ति के लिए समझौता किया है। होंडा की नई पिकअप ट्रक मित्सुबिशी ट्रिटन पर आधारित होगी। यह सहयोग दोनों कंपनियों के उत्पादन और वितरण नेटवर्क को मजबूत करेगा। होंडा और मित्सुबिशी के बीच क्या ऐतिहासिक समझौता हुआ?: मित्सुबिशी ट्रिटन पर आधारित होगी होंडा की नई।
 
-### [बर्फ के अंदर कैद हैं सफेद मोतियों की लड़ियां, कनाडा की झील का रहस्य कर देगा हैरान?](https://hindi.news18.com/world/rest-of-world-lake-abraham-frozen-bubbles-mystery-canada-news-hindi-photogallery-10931460.html)
-*News18 Hindi (World)* - Oct 23, 17:56 IST (iso: 2026-10-23T12:26:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/New-Project-2026-10-23T175324.167-2026-10-99fda3319c14d8e7c0864b02bcd0b6e4-1200x800.jpg -->
+### [पुलिस और जवानों के लिए बनेगा खास ब्रॉडबैंड नेटवर्क, देशभर के 30 लाख कर्मियों को मिलेगी सुविधा](https://www.amarujala.com/india-news/mha-seeks-public-opinion-on-dedicated-broadband-network-for-police-and-disaster-response-personnel-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 12:14 IST (iso: 2026-10-24T06:44:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/02/21/centre-constitutes-empowered-committee-for-citizenship-applications-in-west-bengal_6503ffa5892cb5e53286d506e79193b2.jpeg?w=1200&dpr=1.0 -->
 
-कनाडा की लेक अब्राहम में बर्फ के नीचे मीथेन गैस के बुलबुले फंस जाते हैं। ये सफेद मोतियों जैसी आकृतियां बनाते हैं। यह नजारा जैविक पदार्थों के टूटने से पैदा होती गैस के कारण बनता है। कनाडा की लेक अब्राहम सर्दियों में बर्फ के भीतर दिखाई देने वाले सफेद बुलबुलों की कतारों के लिए मशहूर है. ये आकृतियां पानी के नीचे जैविक पदार्थों के टूटने से पैदा होने वाली मीथेन गैस के बुलबुलों के बर्फ में फंसने से बनती हैं.
+गृह मंत्रालय पुलिस और आपदा प्रतिक्रिया कर्मियों के लिए विशेष ब्रॉडबैंड नेटवर्क बनाने पर विचार कर रहा है। इससे 30 लाख कर्मियों को सुविधा मिलेगी। मंत्रालय ने जनता की राय मांगी है। पुलिस और जवानों के लिए बनेगा खास ब्रॉडबैंड नेटवर्क, देशभर के 30 लाख कर्मियों को मिलेगी सुविधा।
 
-### [साल में 300 दिन आसमान में बिजली का तांडव, वेनेजुएला की इस जगह का रहस्य जानकर चौंक जाएंगे?](https://hindi.news18.com/world/rest-of-world-catatumbo-lightning-in-venezuela-nighttime-lightning-lake-maracaibo-why-this-happens-photogallery-10931103.html)
-*News18 Hindi (World)* - Oct 23, 16:18 IST (iso: 2026-10-23T10:48:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/lightning-2026-10-daa8d44620c1b0101c16d0ecb8c3e21d-1200x800.jpg -->
+### [निकाय चुनाव नामांकन में हिंसा, 54 नामजद; सुप्रीम कोर्ट के दखल से रुके चुनाव; पूरा मामला क्या?](https://www.amarujala.com/india-news/andhra-pradesh-violence-during-local-body-election-nominations-supreme-court-intervene-poll-process-halt-news-2026-10-24)
+*Amar Ujala National* - Oct 24, 02:30 IST (iso: 2026-10-23T21:00:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/12/12/supreme-court-karur-stampede-case_c075b42194998d57f591d85291e50a5d.jpeg?w=1200&dpr=1.0 -->
 
-वेनेजुएला के कैटाटुम्बो में साल में 300 दिन बिजली चमकती है। यह गरज वाले तूफानों से जुड़ी घटना है। दूर से आवाज नहीं सुनाई देती। वैज्ञानिक मौसम और नमी के आधार पर अनुमान लगाते हैं। क्या यहां बिना गरज और बारिश के बिजली चमकती है? यह धारणा पूरी तरह सही नहीं है. कैटाटुम्बो लाइटनिंग गरज वाले तूफानों से जुड़ी घटना है.
+आंध्र प्रदेश में निकाय चुनावों के नामांकन के दौरान हुई हिंसा में 54 लोगों के खिलाफ मामला दर्ज किया गया है। सुप्रीम कोर्ट के हस्तक्षेप के बाद चुनाव प्रक्रिया स्थगित कर दी गई है। आंध्र प्रदेश: निकाय चुनाव नामांकन में हिंसा, 54 नामजद; सुप्रीम कोर्ट के दखल से रुके चुनाव; पूरा मामला क्या?
+
+### [धूम्रपान नहीं करते, फिर भी फेफड़ों में पहुंच रहा 3.8 सिगरेट जितना घातक 'धुआं'](https://www.amarujala.com/delhi-ncr/delhi-air-even-if-you-don-t-smoke-your-lungs-are-still-exposed-to-smoke-as-harmful-as-3-8-cigarette-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 01:41 IST (iso: 2026-10-23T20:11:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/1_4b2c6cd031654a28082dc6e1c252e057.jpeg?w=1200&dpr=1.0 -->
+
+नॉन-स्मोकिंग व्यक्तियों के फेफड़ों में प्रतिदिन 3.8 सिगरेट के बराबर घातक प्रदूषण पहुंच रहा है। यह खतरा वायु प्रदूषण के कारण हर सांस के साथ शरीर में प्रवेश कर रहा है। सिगरेट नहीं पीते, लेकिन हर सांस के साथ प्रदूषण शरीर में पहुंच रहा है। धूम्रपान नहीं करते, फिर भी फेफड़ों में पहुंच रहा 3.8 सिगरेट जितना घातक 'धुआं'।
+
+### [दिवाली पर खरीदें ये छह सबसे ज्यादा माइलेज वाली हाइब्रिड कारें: जानें कौन देती है सबसे ज्यादा माइलेज?](https://www.amarujala.com/automobiles/top-6-best-mileage-hybrid-cars-to-buy-this-diwali-2026-check-price-features-specs-2026-10-24)
+*Amar Ujala National* - Oct 24, 01:25 IST (iso: 2026-10-23T19:55:35+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/hybrid-cars-in-india_2f24c427a9afb4b83b6427348a9a8c69.jpeg?w=1200&dpr=1.0 -->
+
+दिवाली 2026 से पहले छह हाइब्रिड कारों की सूची जारी हुई है। ये वाहन उच्च माइलेज प्रदान करते हैं। खरीदारों को कीमत और फीचर्स की तुलना करनी होगी। यह सूची बाजार में उपलब्ध विकल्पों पर आधारित है। दिवाली पर खरीदें ये छह सबसे ज्यादा माइलेज वाली हाइब्रिड कारें: जानें कौन देती है सबसे ज्यादा माइलेज?
+
+### [वैष्णव बोले- एआई पर बनेगा कानून तैयार हो रहा मसौदा; फ्लाइट से उतारी गईं कारोबारी वीरमणि की बेटी](https://www.amarujala.com/india-news/national-updates-vaishnaw-ai-law-draft-preparation-veeramani-daughter-plane-deboard-north-east-west-south-news-2026-10-24)
+*Amar Ujala National* - Oct 24, 01:10 IST (iso: 2026-10-23T19:40:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0 -->
+
+एआई पर कानून बनाने का मसौदा तैयार हो रहा है। इसकी घोषणा वैष्णव ने की है। साथ ही, कारोबारी वीरमणि की बेटी को फ्लाइट से उतारा गया। ये दोनों घटनाएं अलग-अलग संदर्भ में हुईं। न्यूज डायरी: वैष्णव बोले- एआई पर बनेगा कानून तैयार हो रहा मसौदा; फ्लाइट से उतारी गईं कारोबारी वीरमणि की बेटी।
+
+### [CBI ने ED के दो अधिकारियों को दबोचा, क्या है दिलचस्प केस?](https://www.abplive.com/news/india/cbi-apprehends-two-officials-enforcement-directorate-rs-five-lakh-bribery-case-3205976)
+*ABP Live (India)* - Oct 23, 22:26 IST (iso: 2026-10-23T16:56:05+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/449a049ed52ffa43163bdfb69e71950e17927748305751324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+CBI ने लखनऊ ED के दो अधिकारियों को 5 लाख रुपये की रिश्वत लेते पकड़ा। दीपक कुमार और मनोज द्विवेदी को 23 अक्टूबर को गिरफ्तार किया गया। रिश्वत ED केस में मदद के बदले मांगी गई थी। CBI ने ED के दो अधिकारियों को ₹5 लाख रिश्वत मामले में पकड़ा है. लखनऊ ED जोन के इनफोर्समेंट अफसर दीपक कुमार और हेड कॉन्स्टेबल मनोज द्विवेदी गिरफ्तार हुए हैं.
 
 ---
 
 ## एशिया-प्रशांत
 
+### ['सड़क से सदन तक देंगे जवाब': रांची पहुंचे नितिन नवीन ने राहुल गांधी को घेरा; बोले- देश में अराजकता](https://www.amarujala.com/jharkhand/nitin-nabin-visit-jharkhand-attacks-rahul-gandhi-says-no-place-for-anarchy-in-india-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 12:36 IST (iso: 2026-10-24T07:06:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/bhajapa-ka-rashhataraya-athhayakashha-natana-navana_b61b5e46694c06de6fd9893a10455138.jpeg?w=1200&dpr=1.0 -->
+
+नितिन गडकरी ने रांची में राहुल गांधी पर हमला किया। उन्होंने कहा कि देश में अराजकता की जगह नहीं है। गडकरी ने सड़क से सदन तक जवाब देने का वादा किया। 'सड़क से सदन तक देंगे जवाब': रांची पहुंचे नितिन नवीन ने राहुल गांधी को घेरा; बोले- देश में अराजकता।
+
+### [एशियन पैरा गेम्स में भारत का सर्वश्रेष्ठ प्रदर्शन: कितने पदक जीते, किस स्थान पर मौजूद; कब होगा](https://www.amarujala.com/sports/asian-para-games-2026-india-s-record-breaking-campaign-ends-with-114-medals-closing-ceremony-details-2026-10-23)
+*Amar Ujala Breaking* - Oct 24, 12:18 IST (iso: 2026-10-24T06:48:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/para-asiad_54757b89e790517fb3624ab07d3ab56c.jpeg?w=1200&dpr=1.0 -->
+
+भारत ने एशियन पैरा गेम्स में अपना सर्वश्रेष्ठ प्रदर्शन किया। देश ने कुल 132 पदक जीते। समापन समारोह 6 अक्टूबर को होगा। एशियन पैरा गेम्स में भारत का सर्वश्रेष्ठ प्रदर्शन: कितने पदक जीते, किस स्थान पर रहा देश; कब होगा समापन समारोह? एशियन पैरा गेम्स में भारत का सर्वश्रेष्ठ प्रदर्शन: कितने पदक जीते, किस स्थान पर मौजूद; कब होगा।
+
+### [कौन से वाहन दिल्ली में प्रदूषण नियमों की उड़ा रहे धज्जियां?: PUCC चालानों में 75% से ज्यादा है इनकी](https://www.amarujala.com/automobiles/two-wheelers-account-for-over-75-per-cent-of-pucc-violations-amid-strict-winter-action-plan-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 02:01 IST (iso: 2026-10-23T20:31:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/pucc-violations_5a3ec1474316e0cbf709a3693b782063.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में प्रदूषण नियंत्रण प्राधिकरण के अनुसार दो पहिया वाहन PUCC उल्लंघन चालानों में 75 प्रतिशत से अधिक हिस्सेदारी रखते हैं। यह तथ्य सख्त शीतकालीन कार्रवाई योजना के बीच सामने आया है। कौन से वाहन दिल्ली में प्रदूषण नियमों की उड़ा रहे धज्जियां?: PUCC चालानों में 75% से ज्यादा है इनकी।
+
+### ['दाहिने हाथ में बहुत दर्द', किस बीमारी से जूझ रहीं 81 वर्षीय सू की; फोन पर बात कर बेटे से क्या कहा?](https://www.amarujala.com/world/myanmar-detained-leader-aung-san-suu-kyi-speaks-to-son-after-five-years-raises-health-concerns-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 01:54 IST (iso: 2026-10-23T20:24:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/aaga-sana-sa-ca-sa-bta-ka-paca-sal-btha-btacata_ab312e25ee182f4320cb6202c68e8e88.jpeg?w=1200&dpr=1.0 -->
+
+म्यांमार की गिरफ्तार नेता अंग सान सू की ने पांच वर्षों के बाद अपने बेटे से फोन पर बात की। उन्होंने अपने दाहिने हाथ में होने वाले तीव्र दर्द और स्वास्थ्य संबंधी चिंताओं का जिक्र किया। 'दाहिने हाथ में बहुत दर्द', किस बीमारी से जूझ रहीं 81 वर्षीय सू की; फोन पर बात कर बेटे से क्या कहा?
+
+### [ताज एक्सप्रेस अब नई दिल्ली के बजाय हजरत निजामुद्दीन से चलेगी, 1 नवंबर से बदलेगा ट्रेन का टर्मिनल](https://www.amarujala.com/delhi-ncr/taj-express-will-now-depart-from-hazrat-nizamuddin-instead-of-new-delhi-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 01:35 IST (iso: 2026-10-23T20:05:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/1_ac16f66e1dc6e8fe689f96435da9675f.jpeg?w=1200&dpr=1.0 -->
+
+1 नवंबर से ताज एक्सप्रेस का टर्मिनल नई दिल्ली से हजरत निजामुद्दीन स्थानांतरित हो रहा है। इस बदलाव से यात्रियों को नया स्टेशन जाना होगा। ट्रेन का शेड्यूल इसी नए टर्मिनल से शुरू होगा। ताज एक्सप्रेस से यात्रा करने वाले यात्रियों के लिए जरूरी खबर है। ताज एक्सप्रेस अब नई दिल्ली के बजाय हजरत निजामुद्दीन से चलेगी, 1 नवंबर से बदलेगा ट्रेन का टर्मिनल।
+
+### [कच्ची चीनी के आयात को दो महीने की मोहलत,त्योहारी सीजन से पहले ग्राहकों को बड़ी राहत](https://www.amarujala.com/video/india-news/two-month-reprieve-granted-for-raw-sugar-imports-major-relief-for-consumers-ahead-of-the-festive-season-2026-10-24)
+*Amar Ujala National* - Oct 24, 01:17 IST (iso: 2026-10-23T19:47:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/sugar-price-falls_be39f666acb408e3ec69a463d1ffc896.jpeg?w=1200&dpr=1.0 -->
+
+कच्ची चीनी के आयात पर दो महीने की मोहलत दी गई है। यह फैसला त्योहारी सीजन से पहले लिया गया है। ग्राहकों को इससे राहत मिलेगी। आयात नीति में यह बदलाव लागू हो गया है। कच्ची चीनी के आयात को दो महीने की मोहलत, त्योहारी सीजन से पहले ग्राहकों को बड़ी राहत।
+
+### ['क्या चीन सीमा बचाने में सक्षम है सरकार?' ITBP डीजे के बयान पर ओवैसी ने मोदी सरकार से पूछे सवाल](https://www.abplive.com/news/india/asaduddin-owaisi-react-on-itbp-dg-shatrujit-kapoor-china-arunachal-border-tension-3205992)
+*ABP Live (India)* - Oct 23, 23:27 IST (iso: 2026-10-23T17:57:33+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/666f4cc9b16af0a04af8756aa0942a0f1792778054281708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+असदुद्दीन ओवैसी ने केंद्र से अरुणाचल प्रदेश में चीनी घुसपैठ की जगहों की सूची मांगी। यह प्रश्न ITBP महानिदेशक शत्रुजीत कपूर के बयान के बाद उठा। ओवैसी ने सरकार से स्पष्टीकरण की मांग की। भारत-चीन सीमा पर आईटीबीपी के महानिदेशक शत्रुजीत कपूर की हालिया टिप्पणी को लेकर देश में राजनीति गरमा गई है. AIMIM चीफ असदुद्दीन ओवैसी ने इस मुद्दे को लेकर केंद्र सरकार पर निशना साधा है.
+
+### [गरजेगा सुखोई-राफेल, 94 फाइटर्स जेट एक साथ दिखाएंगे ताकत, नमो घाट से चीन-पाक को संदेश](https://www.abplive.com/news/india/varanasi-wings-over-ganges-air-show-fighter-jets-aircraft-strengths-indian-air-force-94th-foundation-day-ann-3205995)
+*ABP Live (India)* - Oct 23, 23:21 IST (iso: 2026-10-23T17:51:57+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/38ceb55f8b117d47af6da146a264a00917927770368661368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+भारतीय वायुसेना ने 25 अक्टूबर को काशी के नमो घाट पर 94 फाइटर जेट दिखाए। यह 94वें स्थापना दिवस पर पहली बार हुआ। प्रदर्शन का उद्देश्य चीन और पाकिस्तान को संदेश देना था। भारतीय वायुसेना इस महीने अपना 94वां स्थापना दिवस मना रही है. इस मौके पर रविवार (25 अक्टूबर) को पहली बार काशी के नमो घाट और मां गंगा के आसमान में भारतीय वायुसेना के 94 फाइटर जेट और मिलिट्री ट्रांसपोर्ट एयरक्राफ्ट एक साथ अपनी ताकत का दमखम दिखाने जा रहे हैं.
+
+### [पहाड़ों पर बर्फबारी के बाद पाक से घुसपैठ के पारंपरिक रास्ते बंद, अंतरराष्ट्रीय सीमा पर नजर](https://www.abplive.com/news/india/after-snowfall-in-jammu-kashmir-now-infiltrators-focus-on-international-border-ann-3205981)
+*ABP Live (India)* - Oct 23, 22:34 IST (iso: 2026-10-23T17:04:57+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/ebffb94be9af856adc21ee80a6cd03231792774911171120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+जम्मू कश्मीर में बर्फबारी से पाकिस्तान के पहाड़ी घुसपैठ रास्ते बंद हो गए। सुरक्षा बलों ने अब पूरा ध्यान अंतर्राष्ट्रीय सीमा पर केंद्रित किया। विंटर बॉर्डर मैनेजमेंट प्रोग्राम लागू किया गया। जम्मू कश्मीर में पहाड़ों पर बर्फबारी होने के साथ ही पाकिस्तान के घुसपैठ के पारंपरिक रास्ते बंद हो चुके हैं. ऐसे में अब घुसपैठ का सारा फोकस अंतर्राष्ट्रीय सीमा पर आ गया है, इसके बाद सुरक्षा बलों ने सीमा पर विंटर बॉर्डर मैनेजमेंट प्रोग्राम बना लिया है.
+
 ### [लाहौर दुनिया का सबसे प्रदूषित शहर, दिल्ली के भी हालात बुरे](https://www.abplive.com/news/lahore-world-most-polluted-city-conditions-in-delhi-are-poor-3205972)
-*ABP Live (World)* - Oct 23, 22:18 IST (iso: 2026-10-23T16:48:23+00:00)
+*ABP Live (India)* - Oct 23, 22:18 IST (iso: 2026-10-23T16:48:23+00:00)
 <!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/b4fe225e0caa6bcdbc1d3e9f170dad0117927739100461324_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
 पाकिस्तान का लाहौर अब दुनिया का सबसे प्रदूषित शहर बन गया है। शहर का एयर क्वालिटी इंडेक्स 410 तक पहुंच गया। यह रीडिंग खतरनाक श्रेणी में आती है। विश्व स्वास्थ्य संगठन के मानकों से यह स्तर बहुत ऊपर है। पाकिस्तान का लाहौर दुनिया का सबसे प्रदूषित शहर बन गया है. यहां का एयर क्वालिटी इंकेक्स 410 तक पहुंच गया है.
 
-### [ग्वादर में बलूच विद्रोहियों ने सैन्य कैंप पर किया कब्जा, कई अफसर ढेर, पाक-चीन की नब्‍ज दबाने का दावा](https://hindi.news18.com/world/pakistan-blf-claims-operation-almas-targeted-pakistan-gwadar-military-camp-and-police-posts-while-pakistani-sources-report-repelling-attacks-10931525.html)
-*News18 Hindi (World)* - Oct 23, 18:42 IST (iso: 2026-10-23T13:12:57+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/BLA-reuters-2026-10-3cdfe64d81734896d387c6bb699a4a6c-1200x800.jpg -->
+### ['फ्री कश्मीर, फ्री शरजील...', जामिया में आपत्तिजनक नारे-प्रदर्शन, इमरान मसूद डिटेन](https://www.abplive.com/news/india/jamia-millia-islamia-free-kashmir-slogans-imran-masood-detained-vhp-reaction-3205963)
+*ABP Live (India)* - Oct 23, 21:49 IST (iso: 2026-10-23T16:19:38+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/a76f636cd7378569da6f9dadf22b0e241792773734991708_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
 
-बलूच लिबरेशन फ्रंट ने पाकिस्तान के ग्वादर में सैन्य कैंप और पुलिस स्टेशन पर हमला करने का दावा किया। सुरक्षा बलों ने तीन हमलावरों को मार गिराया। दोनों पक्षों के दावों की स्वतंत्र पुष्टि नहीं हुई है। BLF Attack in Gawadar: पाकिस्तान के बलूचिस्तान में BLF ने ऑपरेशन अलमास के तहत ग्वादर में सैन्य ठिकानों पर हमले करने का दावा किया है.
+दिल्ली पुलिस ने कांग्रेस सांसद इमरान मसूद को जामिया में हिरासत में लिया। छात्र कैंपस दीवारों पर लिखे गए नारों का विरोध कर रहे थे। मसूद ने कहा कि कश्मीर भारत का अभिन्न अंग है। जामिया मिल्लिया इस्लामिया में प्रदर्शन कर रहे छात्रों को समर्थन के लिए पहुंचे कांग्रेस सांसद इमरान मसूद को दिल्ली पुलिस ने हिरासत में ले लिया है.
 
-### [पाकिस्तानी सेना ने 10 आतंकियों को किया ढेर, आतंकी साजिश को किया नाकाम](https://www.patrika.com/world-news/pakistan-army-killed-10-terrorists-21004111)
-*Patrika (World)* - Oct 23, 18:00 IST (iso: 2026-10-23T12:30:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/pakistan-army-deployed.webp -->
+---
 
-पाकिस्तानी सेना ने बलूचिस्तान में एक सैन्य अभियान के दौरान दस आतंकवादियों को मार गिराया। यह कार्रवाई बढ़ते आतंकवाद और कमजोर होती कानून व्यवस्था को नियंत्रित करने के लिए की गई। पाकिस्तान (Pakistan) के बलूचिस्तान (Balochistan) प्रांत में आतंकवाद तेज़ी से बढ़ रहा है और कानून व्यवस्था कमजोर होती जा रही है। प्रांत में स्थिति को काबू में लाने के लिए सेना लगातार आतंकियों के खिलाफ एक्टिव है और समय-समय पर सैन्य अभियानों को भी अंजाम देती है।
+## वैश्विक / बहुपक्षीय
 
-### [LNG होता क्या है, जिसने पाकिस्तान की सांसें रोक दी? दुनिया में सबसे बड़ा सप्लायर कौन है?](https://hindi.news18.com/news/knowledge/know-all-about-liquefied-natural-gas-pakistan-crisis-lng-use-world-supplier-news-10931332.html)
-*News18 Hindi (World)* - Oct 23, 17:26 IST (iso: 2026-10-23T11:56:02+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-Design-2026-10-23T165941.492-2026-10-0edb8629f8a64dc59eb9ed38cc8f2f52-1200x800.jpg -->
+### [हल्दी में मिला कपड़ा-चमड़ा रंगने वाला प्रतिबंधित रसायन, जांच रिपोर्ट के बाद भंडारण और वितरण पर रोक](https://www.amarujala.com/jammu/jammu-banned-chemical-used-for-dyeing-textiles-and-leather-found-in-turmeric-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 12:08 IST (iso: 2026-10-24T06:38:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/15/fake-vs-real-turmeric_6a50be433f5ce14ceb32b91041cf8fc2.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान में बिजली कटौती और गैस की किल्लत का मुख्य कारण एलएनजी की कमी है। देश में ब्लैकआउट और घरेलू गैस की भारी किल्लत से जनजीवन प्रभावित हुआ है। यह संकट ऊर्जा आपूर्ति की कमी से जुड़ा है। पाकिस्तान में बिजली कटौती, ब्लैकआउट और घरेलू गैस की भारी किल्लत के चलते हाहाकार मचा हुआ है. इस पूरे संकट के केंद्र में है LNG यानी लिक्विफाइड नैचुरल गैस.
-
-### [नेपाल के हिमालय में दो जापानी क्लाइंबर की मौत, 7140 मीटर ऊंची चोटी से शव बरामद](https://www.patrika.com/world-news/nepal-himalaya-japanese-climbers-death-gangapurna-west-7140m-21003987)
-*Patrika (World)* - Oct 23, 17:12 IST (iso: 2026-10-23T11:42:43+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/nepalhimalay1.webp -->
-
-नेपाल के हिमालय में दो जापानी पर्वतारोहियों के शव बरामद हुए। वे 15 अक्टूबर से लापता थे। शुक्रवार को अधिकारियों ने गंगापूर्णा वेस्ट चोटी से शवों को रिकवर किया। नेपाल के हिमालय में दो जापानी पर्वतारोहियों की मौत हो गई है। ये दोनों 15 अक्टूबर से लापता थे, लेकिन शुक्रवार को अधिकारियों ने बताया कि गंगापूर्णा वेस्ट चोटी से दोनों पर्वतारोहियों के शव बरामद कर लिए गए हैं।
-
-### [ऑपरेशन सिंदूर की हार नहीं पचा पा रहे मुनीर, कहा- 'पाकिस्तानी सेना भारत को...'](https://www.abplive.com/news/world/pakistan-field-marshal-asim-munir-on-anti-terror-campaign-vigorously-hit-india-3205821)
-*ABP Live (World)* - Oct 23, 16:14 IST (iso: 2026-10-23T10:44:11+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/91cc3c42d7f10b231d71f188e01786f91792751650450708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-पाकिस्तानी आर्मी चीफ आसिम मुनीर ने खैबर पख्तूनख्वा की स्थिति पर भड़काऊ बयान दिया। देश में सीमा, पीओके और बलूचिस्तान में तनाव बढ़ा है। मुनीर ने ऑपरेशन सिंदूर के बाद की स्थिति पर भारत के खिलाफ रवैया अपनाया। पाकिस्तान में इस वक्त कई मोर्चों पर हिंसक घटनाएं देखने को मिल रही हैं. एक मोर्चे पर सीमा पार अफगानिस्तान के साथ तनाव, दूसरे मोर्चे पर पीओके (PoK) और तीसरे मोर्चे पर बलूचिस्तान में बलूच लोगों के साथ पाकिस्तानी सेना के टकराव की स्थिति बनी हुई है.
-
-### [बलूचिस्तान में BLF का बड़ा दावा: ऑपरेशन अलमास में मारे गए MI कैप्टन और कई SSG कमांडो](https://www.patrika.com/world-news/blf-claims-mi-captain-ssg-personnel-killed-operation-almas-21003766)
-*Patrika (World)* - Oct 23, 16:09 IST (iso: 2026-10-23T10:39:22+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Operation-Almas.webp -->
-
-बलूचिस्तान लिबरेशन फ्रंट ने ऑपरेशन अलमास में जीत का दावा किया। उसने कहा कि एमआई के एक कैप्टन और कई एसएसजी कमांडो मारे गए। प्रवक्ता मेजर ग्वहराम बलूच ने यह जानकारी दी। Operation Almas: बलूचिस्तान लिबरेशन फ्रंट (BLF) ने दावा किया है कि उसके लड़ाकों ने अपने चल रहे ‘ऑपरेशन अलमास’ के दौरान मिलिट्री इंटेलिजेंस (MI) के एक कैप्टन और पाकिस्तान सेना के स्पेशल सर्विसेज ग्रुप (SSG) के कई जवानों को मार गिराया है।
+बांदीपोरा में बंसल ब्रांड के हल्दी पाउडर में मेटानिल यलो मिली। यह रसायन कपड़ा और चमड़ा रंगने में इस्तेमाल होता है। जांच रिपोर्ट के बाद भंडारण और वितरण पर रोक लगाई गई है। कश्मीर संभाग के बांदीपोरा में बंसल ब्रांड के हल्दी पाउडर में चमड़े, कागज व कपड़े की रंगाई में इस्तेमाल होने वाली सिंथेटिक डाई मेटानिल यलो की पुष्टि हुई है।
 
 ---
 
 ## यूरोप और रूस
+
+### [56 माह बाद शांति के संकेत: यूक्रेन और रूस के बीच 27 अक्तूबर से सीजफायर, मानवीय आधार पर किन बिंदुओं](https://www.amarujala.com/world/russia-ukraine-ceasefire-27-oct-senior-ukrainian-negotiator-humanitarian-truce-to-last-several-days-reports-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 01:45 IST (iso: 2026-10-23T20:15:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/25/russia-ukraine-war-zelensky-ready-to-meet-putin-efforts-to-reach-a-compromise-amid-russi-ukraine-c_6894bfcdd17e1ea6e761cca2b7ce3a86.jpeg?w=1200&dpr=1.0 -->
+
+यूक्रेन और रूस के बीच 27 अक्टूबर से मानवीय आधार पर सीजफायर की सहमति बनी है। यह 56 महीनों के बाद शांति की ओर迈का पहला बड़ा कदम माना जा रहा है। 56 माह बाद शांति के संकेत: यूक्रेन और रूस के बीच 27 अक्तूबर से सीजफायर, मानवीय आधार पर किन बिंदुओं पर सहमति?
 
 ### [पाकिस्तान छोड़कर भाग रहे सरकारी अफसर? 2,500 अधिकारियों के पास दोहरी नागरिकता, पुर्तगाल ही क्‍यों](https://hindi.news18.com/world/pakistan-over-2500-pakistani-officials-plan-foreign-settlement-as-portugal-emerges-top-destination-amid-country-crisis-khawaja-asif-claim-10931966.html)
 *News18 Hindi (World)* - Oct 23, 22:00 IST (iso: 2026-10-23T16:30:47+00:00)
@@ -86,21 +150,15 @@
 
 मेलानिया ट्रंप ने रूस और यूक्रेन के बीच लिमिटेड सीजफायर करवाया। यह संधि केवल ओलेशकी क्षेत्र तक सीमित है। डोनाल्ड ट्रंप की पिछली कोशिशें असफल रही थीं। मेलानिया ने कहा कि उनकी पहल के बिना यह नामुमकिन था। Russia Ukraine War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप अपनी तमाम कोशिशों के बावजूद रूस और यूक्रेन की जंग नहीं रुकवा सके. वहीं, फर्स्ट लेडी मेलानिया ट्रंप ने दोनों देशों के बीच लिमिटेड सीजफायर करवा दिया है.
 
-### [मेलानिया ट्रंप ने कराया रूस-यूक्रेन में सीजफायर, व्हाइट हाउस ने क्या बताया?](https://www.abplive.com/news/white-house-says-melania-trump-brokered-ceasefire-between-russia-and-ukraine-oleshky-city-vladimir-putin-volodymyr-zelenskyy-3205945)
-*ABP Live (World)* - Oct 23, 20:08 IST (iso: 2026-10-23T14:38:29+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/10e9902d4bf28ddb23822397ef2f524a17927662654581324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-व्हाइट हाउस ने दावा किया कि मेलानिया ट्रंप ने दक्षिणी यूक्रेन के ओलेश्की शहर में स्थानीय युद्धविराम का प्रबंधन किया। इससे मानवीय सहायता पहुंचाने और नागरिकों को सुरक्षित निकलने का रास्ता खुला। रूस और यूक्रेन के बीच ओलेश्की शहर तक युद्धविराम अमेरिका की फर्स्ट लेडी मेलानिया ट्रंप ने कराया है, यह बयान व्हाइट हाउस ने दिया है. फॉक्स न्यूज के मुताबिक, मेलानिया ट्रंप ने घोषणा की है कि उन्होंने व्यक्तिगत रूप से दक्षिणी यूक्रेन के एक शहर में स्थानीय स्तर पर युद्धविराम करवाया है.
-
-### [रूस-यूक्रेन युद्ध के बीच रोमानिया के पास काला सागर में जलकर डूबा मालवाहक जहाज, एक की मौत, 3 लापता](https://www.patrika.com/world-news/romania-black-sea-cargo-ship-fire-sinking-ukraine-crew-21003774)
-*Patrika (World)* - Oct 23, 16:00 IST (iso: 2026-10-23T10:30:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Black-Sea-drone-attack.webp -->
-
-काला सागर में रोमानिया के पास एक मालवाहक जहाज जलकर डूब गया। इस हादसे में एक व्यक्ति की मौत हुई और तीन अन्य लापता हैं। यह घटना रूस-यूक्रेन युद्ध के दौरान हुई। रूस-यूक्रेन युद्ध का असर अक्सर काला सागर में भी देखने को मिलता है। आए दिन रूस या यूक्रेन की ओर से जहाजों को निशाना बनाया है। आज यानी कि शुक्रवार को काला सागर में एक और बड़ी दुर्घटना हुई है।
-
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [रियाद के लिए इंडिगो की उड़ानें 31 अक्तूबर तक रद्द; अलास्का सीनेट चुनाव से पहले मुकदमा](https://www.amarujala.com/world/world-updates-indigo-riyadh-flights-cancel-lawsuit-alaska-senate-election-west-asia-russia-ukraine-headlines-2026-10-24)
+*Amar Ujala World* - Oct 24, 01:10 IST (iso: 2026-10-23T19:40:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0 -->
+
+इंडिगो ने रियाद के लिए उड़ानें 31 अक्तूबर तक रद्द कर दी हैं। अलास्का में सीनेट चुनाव से पहले एक मुकदमा चल रहा है। यह विवाद उड़ानों के निर्णय से जुड़ा है। यात्रियों को वैकल्पिक व्यवस्था का इंतजार करना होगा। अंतरराष्ट्रीय सुर्खियां: रियाद के लिए इंडिगो की उड़ानें 31 अक्तूबर तक रद्द; अलास्का सीनेट चुनाव से पहले मुकदमा।
 
 ### [हाई अलर्ट पर ईरानी सेना, ग्राउंड फोर्सेज़ के कमांडर ने सभी यूनिट्स को सबसे उच्च स्तर पर युद्ध की](https://www.patrika.com/world-news/iran-army-ground-forces-commander-urges-all-units-for-highest-level-of-combat-readiness-21004399)
 *Patrika (World)* - Oct 23, 21:07 IST (iso: 2026-10-23T15:37:16+00:00)
@@ -108,69 +166,15 @@
 
 ईरानी सेना के ग्राउंड फोर्सेज़ कमांडर ने सभी यूनिट्स को सर्वोच्च युद्ध तैयारी का आदेश दिया। अमेरिका और ईरान के बीच तनाव जारी है। ट्रंप ने मिडटर्म चुनाव के बाद सैन्य कार्रवाई की संभावना जताई है। ईरान इस संभावित हमले के लिए तैयार हो रहा है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव की स्थिति बरकरार है।
 
-### [जॉर्डन के ऐतिहासिक चर्च में कत्लेआम: गाड़ी से उतरे और तान दी एके-47, गोलीबारी में 7 की मौत और](https://hindi.news18.com/world/middle-east-jordan-karak-church-shooting-funeral-attack-many-dead-and-injured-10931649.html)
-*News18 Hindi (World)* - Oct 23, 19:33 IST (iso: 2026-10-23T14:03:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Jordan_Reuters-2026-10-af74255e42b71c143481b0c7e10f0176-1200x800.jpg -->
-
-जॉर्डन के कराक प्रांत में हमूद कस्बे के ग्रीक ऑर्थोडॉक्स चर्च में अंतिम संस्कार के दौरान गोलीबारी हुई। दो अज्ञात हमलावरों ने एके-47 से ताबड़तोड़ फायरिंग की जिसमें सात लोगों की मौत हुई। दस अन्य घायल हो गए। Jordan Church Attack: जॉर्डन के कराक प्रांत में एक चर्च में अंतिम संस्कार के दौरान अंधाधुंध गोलीबारी में कम से कम 7 लोगों की मौत हो गई और 10 अन्य घायल हो गए.
-
-### [ईरान ने मिडिल ईस्ट के देशों को दी चेतावनी, अमेरिका का समर्थन माना जाएगा ईरान के खिलाफ दुश्मनी का कदम](https://www.patrika.com/world-news/iran-warns-middle-east-countries-that-support-for-us-to-be-seen-as-hostile-act-toward-iran-21004160)
-*Patrika (World)* - Oct 23, 18:36 IST (iso: 2026-10-23T13:06:47+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/maleki.webp -->
-
-ईरान ने मिडिल ईस्ट के देशों को चेतावनी दी है कि अमेरिका का समर्थन दुश्मनी माना जाएगा। ट्रंप ने संकेत दिया कि मिडटर्म चुनाव के बाद ईरान पर हमले फिर शुरू हो सकते हैं। ईरान ने जवाब देने की तैयारी जताई है। ईरान (Iran) और अमेरिका (United States of America) के बीच हुए युद्ध में फिलहाल हमले रुके हुए हैं, लेकिन अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने कई मौकों पर संकेत दिया है कि देश में मिडटर्म चुनाव के बाद फिर से ईरान पर हमले शुरू किए जा सकते हैं।
-
-### [भड़के नेतन्याहू ने पूरे वेस्ट बैंक में लगाया लॉकडाउन, गाजा जैसे एक्शन की तैयारी](https://hindi.news18.com/world/middle-east-netanyahu-orders-west-bank-lockdown-hebron-shooting-smotrich-gaza-offensive-10931390.html)
-*News18 Hindi (World)* - Oct 23, 18:22 IST (iso: 2026-10-23T12:52:12+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/West_Bank_Gaza_Israel-2026-10-7c8e53b11cf37277df7ffc12411bda3c-1200x800.jpg -->
-
-हेब्रोन के चेकपोस्ट पर गोलीबारी में एक इजरायली सैनिक की मौत हो गई। प्रधानमंत्री नेतन्याहू ने पूरे वेस्ट बैंक में लॉकडाउन के निर्देश दिए। सेना ने जवाबी कार्रवाई में दोनों हमलावरों को मार गिराया। वेस्ट बैंक के हेब्रोन में एक चेकपोस्ट पर हुई गोलीबारी में 23 साल के इजरायली सैनिक की मौत हो गई है. चार इजरायली नागरिक घायल हो गए.
-
-### [जॉर्डन के चर्च में फायरिंग, अंतिम संस्कार के दौरान अचानक गोली चलने से सनसनी, कई लोगों की मौत](https://www.patrika.com/world-news/shooting-at-church-in-jordan-gunfire-during-funeral-causes-multiple-deaths-21004155)
-*Patrika (World)* - Oct 23, 18:13 IST (iso: 2026-10-23T12:43:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/churchshooting.webp -->
-
-जॉर्डन के कराक प्रांत में शुक्रवार को एक चर्च के अंदर अंतिम संस्कार के दौरान अज्ञात बंदूकधारियों ने गोलीबारी शुरू कर दी। इस अचानक हमले में कई लोगों की मौत हो गई और स्थिति में सनसनी फैली। जॉर्डन के कराक प्रांत में शुक्रवार को एक चर्च के अंदर अंतिम संस्कार के दौरान जमकर गोलीबारी हुई। अज्ञात बंदूकधारियों ने वहां अचानक फायरिंग कर दी।
-
-### [जॉर्डन में चर्च के अंदर अंधाधुंध फायरिंग, सात लोगों की मौत](https://www.abplive.com/news/world/jordan-gunmen-open-firing-inside-church-killed-many-people-3205890)
-*ABP Live (World)* - Oct 23, 18:00 IST (iso: 2026-10-23T12:30:05+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/f30e7fb8c06de9be37bd1d1778f4b4a11792758936492708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-जॉर्डन के कराक में एक चर्च पर दो अज्ञात बंदूकधारियों ने हमला किया। अंतिम संस्कार के दौरान हुई इस फायरिंग में सात लोग मारे गए और दस घायल हुए। हमलावर एक गाड़ी से उतरकर अंदर घुसे। जॉर्डन के कराक क्षेत्र में एक चर्च के अंदर अंधाधुंध फायरिंग में कम से कम सात लोगों की मौत की खबर सामने आई है.
-
-### [ईरान में अचानक आई बाढ़, 3 लोगों की मौत](https://www.patrika.com/world-news/flash-floods-killed-3-people-in-iran-21003900)
-*Patrika (World)* - Oct 23, 17:39 IST (iso: 2026-10-23T12:09:55+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/iran-flash-floods.webp -->
-
-ईरान के वेस्ट अज़रबैजान प्रांत में भारी बारिश से अचानक बाढ़ आई। सलमास जिले में तीन लोगों की मौत हुई, जिनमें एक दस साल की बच्ची शामिल है। कई गांव प्रभावित हुए और एक शव 14 घंटे बाद मिला। ईरान (Iran) में कई जगह इस समय लोग मौसम की मार झेल रहे हैं। उत्तर-पश्चिमी प्रांत वेस्ट अज़रबैजान (West Azerbaijan) के सलमास (Salmas) जिले में भारी बारिश के कारण अचानक बाढ़ आने से हाहाकार मच गया।
-
-### [वेस्ट बैंक बंद करने की तैयारी, सेना ने मार गिराए दो शूटर्स, नेतन्याहू ने क्या कहा?](https://www.abplive.com/news/world/israel-prepares-total-closure-west-bank-five-injured-shooting-near-hebron-3205877)
-*ABP Live (World)* - Oct 23, 17:25 IST (iso: 2026-10-23T11:55:31+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/de9db7e2976d0fe1a40aa261b27c09a417927564242321324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-हेब्रोन के पास फायरिंग के बाद इजरायल ने वेस्ट बैंक बंद करने का ऐलान किया। सेना ने दो शूटर्स को मार गिराया और पांच लोगों के घायल होने की खबर मिली। नेतन्याहू ने इसे हमास से जुड़ा आतंकी हमला बताया। इजरायल ने हेब्रोन के पास फायरिंग की घटना के बाद वेस्ट बैंक को पूरी तरह बंद करने का ऐलान किया है.
-
-### [मुनीर के इशारे पर खैबर पख्तूनख्वा में लगी इमरजेंसी बनी सिरदर्द, TTP की धमकी से हिला शहबाज सरकार का](https://www.patrika.com/world-news/pakistan-khyber-pakhtunkhwa-emergency-backfires-ttp-threatens-deadlier-attacks-21003861)
-*Patrika (World)* - Oct 23, 17:16 IST (iso: 2026-10-23T11:46:17+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Pakistan-security-crisis.webp -->
-
-पाकिस्तान ने फील्ड मार्शल आसिम मुनीर के निर्देश पर खैबर पख्तूनख्वा में आपातकाल लागू किया। टीटीपी ने और घातक हमलों की धमकी दी है। शहबाज शरीफ सरकार ने सुरक्षा कारणों का हवाला देकर इस फैसले को सही ठहराया। Pakistan Security Crisis: पाकिस्तान सरकार ने सुरक्षा कारणों का हवाला देते हुए खैबर पख्तूनख्वा (KP) में आपातकाल और गवर्नर शासन लागू करने के अपने फैसले को सही ठहराया है।
-
-### [क्या रुकेगा रूस-यूक्रेन युद्ध? अमेरिका की मौजूदगी में अगले महीने होगी यूएई में शांति-वार्ता](https://www.patrika.com/world-news/russia-ukraine-and-us-to-hold-talks-in-uae-in-november-21003789)
-*Patrika (World)* - Oct 23, 16:25 IST (iso: 2026-10-23T10:55:42+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/peskov.webp -->
-
-अगले महीने यूएई में रूस-यूक्रेन शांति वार्ता होगी। अमेरिका इसमें मौजूद रहेगा। युद्ध 56 महीने से चल रहा है। दोनों देश एक-दूसरे पर हमले जारी रख रहे हैं। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 56 महीने पूरे होने वाले हैं। दोनों देश एक-दूसरे पर हमले कर रहे हैं। फिलहाल युद्ध खत्म होने के आसार नज़र नहीं आ रहे हैं, क्योंकि रूस जहाँ लगातार यूक्रेन को दहला रहा है, तो यूक्रेन भी डटा हुआ है और समय-समय पर रूस के सैन्य और ऊर्जा ठिकानों को निशाना बना रहा है।
-
 ---
 
-## दुनिया
+## अमेरिका
 
-### [सर्दियों में यूरोप पर गैस आपूर्ति संकट का खतरा, सिर्फ इतना रह गया 'एनर्जी स्टोरेज'](https://www.abplive.com/news/world/iea-warns-europe-lowest-gas-reserve-entering-in-winter-middle-east-crisis-3205852)
-*ABP Live (World)* - Oct 23, 17:26 IST (iso: 2026-10-23T11:56:07+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/23/ff0ead53ba1b2d71b8f39f9a8394c36517927535998731324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [रेलवे ट्रैक पर फंसी इलेक्ट्रिक व्हीलचेयर, सामने से आ गई मौत... बचाने दौड़े 2 लोग, आई बुरी खबर](https://hindi.news18.com/world/america-washington-train-accident-kills-59-year-old-man-after-his-electric-wheelchair-gets-stuck-on-railroad-tracks-in-puyallup-10931993.html)
+*News18 Hindi (World)* - Oct 23, 22:25 IST (iso: 2026-10-23T16:55:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Train-Railway-2026-10-5de56f155a9489b41d31bd8a4040cca9-1200x800.jpg -->
 
-इंटरनेशनल एनर्जी एजेंसी के चीफ फतिह बिरोल ने चेतावनी दी है। यूरोप कम गैस भंडार के साथ सर्दियों में प्रवेश कर रहा है। किसी भी आपूर्ति रुकावट से पूरे क्षेत्र में ऊर्जा संकट खड़ा हो सकता है। यूरोप को लेकर एक गंभीर खतरे की चेतावनी जारी की गई है. इसकी वजह है, कि आने वाले समय में अगर किसी तरह भी एनर्जी सप्लाई में रुकावट आती है, तो पूरे यूरोप के लिए संकट खड़ा हो जाएगा.
+वॉशिंगटन के पुयालप में 59 वर्षीय रिचर्ड गाइगर की रेलवे ट्रैक पर मौत हो गई। उनका इलेक्ट्रिक व्हीलचेयर फंसा हुआ था। दो लोगों ने बचाव की कोशिश की, लेकिन मालगाड़ी की टक्कर से वे मारे गए। पुलिस जांच कर रही है। America News Today: अमेरिका के वॉशिंगटन राज्य में रेलवे ट्रैक पर इलेक्ट्रिक व्हीलचेयर फंसने से 59 वर्षीय रिचर्ड गाइगर की मौत हो गई.
 
 ---
 
