@@ -1,22 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 23, 2026 18:38 IST
+**Updated:** October 23, 2026 23:30 IST
 
 ---
 
 ## Europe & Russia
+
+### [White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City](https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html)
+*Radio Free Europe / Liberty* - Oct 23, 22:02 IST (iso: 2026-10-23T16:32:19+00:00)
+<!-- image: https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg -->
+
+Melania Trump brokered a localized cease-fire for Oleshky, a Russian-occupied Ukrainian city. Kyiv confirmed preparations for humanitarian corridors. Non-military teams will visit residents to coordinate civilian evacuations. An American media organization will document the process. US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilians.
+
+### [Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says](https://www.thehindu.com/news/international/russia-ukraine-agree-to-oleshky-ceasefire-brokered-by-melania-trump-white-house-says/article71616736.ece)
+*The Hindu (International)* - Oct 23, 20:49 IST (iso: 2026-10-23T15:19:29+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ei9fml/article71617084.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_Melania_Trump_1154_.jpg -->
+
+Russia and Ukraine agreed to a cease-fire in Oleshky, brokered by Melania Trump. Non-military teams will visit residents to coordinate evacuations to either side. An American media organization will accompany the teams to document the humanitarian operation. The ceasefire will allow non-military teams from both countries to visit residents in their ⁠homes and coordinate transportation for those wishing to evacuate to either Russia or Ukraine, with an unnamed American media organisation accompanying the teams ‌to document the process, Melania Trump said.
 
 ### [An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China](https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html)
 *Radio Free Europe / Liberty* - Oct 23, 18:04 IST (iso: 2026-10-23T12:34:21+00:00)
 <!-- image: https://gdb.rferl.org/f5107528-9ca2-4411-8276-08ddd95ee7ae_cx0_cy10_cw0_w1200_h630.jpg -->
 
 Russian officials face growing doubts about the Northern Sea Route's viability as a reliable trade corridor to China. The Kremlin invested heavily in the route, betting that retreating Arctic ice would open a path beyond Ukrainian drone strikes and European naval interdiction. Recent traffic congestion along the waterway has exposed the practical difficulties of navigating through remaining ice. The route remains a strategic priority, but operational challenges are complicating the timeline for consistent commercial use.
-
-### [Trump says Starshield restored in Ukraine, declines to say if he contacted Musk](https://www.thehindu.com/news/international/trump-claims-starshield-is-back-in-ukraine/article71614563.ece)
-*The Hindu (International)* - Oct 23, 12:20 IST (iso: 2026-10-23T06:50:51+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/l4mydc/article71614585.ece/alternates/LANDSCAPE_1200/2026-10-23T043220Z_1890310979_RC2S8OAE5FPM_RTRMADP_3_USA-TRUMP.JPG -->
-
-Trump confirmed Starshield systems are operational in Ukraine. He declined to state whether he personally contacted Elon Musk regarding the restoration. Musk previously noted that usage limits are determined by the U. S. military and the president. Musk had previously said that "any limits on speed or usage" of Starshield systems. which are operated by his SpaceX company. were "decided by the U.
 
 ### [Serbia's Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears](https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html)
 *Radio Free Europe / Liberty* - Oct 23, 11:19 IST (iso: 2026-10-23T05:49:50+00:00)
@@ -54,21 +60,51 @@ Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communic
 
 Russian authorities released Stephen Hubbard, a 74‑year‑old American, after more than four years in custody. Russia has released 74-year-old US citizen Stephen Hubbard, who had been detained since 2022. He had been sentenced to prison for allegedly acting as a mercenary in Ukraine, charges his family disputed. President Vladimir Putin announced Hubbard’s release during talks with US envoy Steve Witkoff.
 
-### [US Citizen Accused By Moscow Of Fighting For Ukraine Released From Russian Prison](https://www.rferl.org/a/stephen-hubbard-russia-us-prisoner-release-trump/33880760.html)
-*Radio Free Europe / Liberty* - Oct 21, 15:23 IST (iso: 2026-10-21T09:53:03+00:00)
-<!-- image: https://gdb.rferl.org/dbab1883-4624-440f-98a2-e494656e233c_cx0_cy19_cw0_w1200_h630.jpg -->
-
-Stephen Hubbard, a 74-year-old retired Michigan teacher, was released from Russian custody. He had been detained since 2022 on charges of joining Ukraine's armed forces. The Kremlin framed his release as a goodwill gesture. His freedom marks a significant shift in the ongoing diplomatic standoff. Stephen Hubbard, a 74-year-old retired teacher from Michigan held by Russia since 2022 on accusations of joining Ukraine's armed forces, has been freed in what is being framed as a goodwill gesture by the Kremlin.
-
 ---
 
-## World
+## Middle East & Africa
 
-### [Tibet earthquake updates | Injuries in Tibet rise to 65 after 7.0 earthquake, death toll at 16](https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece)
-*The Hindu (International)* - Oct 23, 12:32 IST (iso: 2026-10-23T07:02:34+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/8zlxib/article71614567.ece/alternates/LANDSCAPE_1200/2026-10-23T034539Z_2027044078_RC2R8OA7WZF7_RTRMADP_3_CHINA-QUAKE.JPG -->
+### [Every Day We 'Wake Up Poorer': Iranians Battle Economic Woes](https://www.rferl.org/a/iran-economy-war-sanctions-cost-living-inflation/33882913.html)
+*Radio Free Europe / Liberty* - Oct 23, 20:58 IST (iso: 2026-10-23T15:28:39+00:00)
+<!-- image: https://gdb.rferl.org/b8be4b6e-0fe9-49c2-76af-08df13a869ed_cx0_cy3_cw0_w1200_h630.jpg -->
 
-A 7.0 magnitude earthquake struck Tibet, killing at least sixteen people and injuring thirty-two. Rescue teams searched for survivors after three hundred and thirty-nine homes collapsed. The epicenter lay one hundred and ninety kilometers east of Nagqu. Search and rescue efforts continued following the collapse of at least 339 homes, the Nagqu media office said, citing city government officials. Among the injured, 11 people were in serious condition, and the other 21 sustained minor injuries, the media office said.
+Iran’s economy faces severe strain from mismanagement, sanctions, and war. Citizens report waking up poorer daily. The cost-of-living crisis forces changes in diet, social habits, and life choices. Basic affordability is eroding across the population. Battered by mismanagement, sanctions, and war, Iran’s economy is in deep trouble. The cost-of-living crisis is forcing people to change what they eat, how they socialize, and what they can afford to do with their lives.
+
+### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
+*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
+<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
+
+Health officials are investigating how Nigeria’s first Ebola patient in over a decade contracted the virus. The patient is the wife of a Swiss diplomat who traveled in Uganda. The outbreak has reached a fourth African country, raising concerns about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
+
+### [Iran’s mountain shelters offer Taiwan a China survival playbook](https://asiatimes.com/2026/10/irans-mountain-shelters-offer-taiwan-a-china-survival-playbook/)
+*Asia Times* - Oct 23, 14:35 IST (iso: 2026-10-23T09:05:16+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Iran-Air-Force.jpeg -->
+
+Iran is repairing its Eagle 44 airbase in Hormozgan province after recent strikes. The subterranean facility demonstrates the value of hardened mountain shelters against precision firepower. This recovery offers a survival playbook for air forces facing superior adversaries. Iran’s rapid post-strike recovery of its Eagle 44 airbase proves that hardened mountain shelters remain a decisive shield against precision firepower, transforming how inferior air forces survive and deter superior adversaries.
+
+### [Xi’s peace principles offer little cover for China in Africa](https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa/)
+*Asia Times* - Oct 23, 10:16 IST (iso: 2026-10-23T04:46:38+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Togo_Faure-Gnassingbe_China_Xi-Jinping_October-13_2026.jpg -->
+
+Jihadist factions JNIM and ISSP clashed near Gonadaouri in Burkina Faso on October 9. The fight occurred in Oudalan province close to the Malian border. This violence highlights the limits of China’s peace principles in the region. Beijing’s diplomatic framework offers little practical cover for its interests there. The conflict underscores the persistent instability in the Sahel. On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.
+
+### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
+*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
+
+Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
+
+### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
+*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
+
+Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
+
+### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
+*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
+<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
+
+Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
 
 ---
 
@@ -112,40 +148,6 @@ New Taipei prosecutors charged five men with plotting to injure comedian Huang Y
 
 ---
 
-## Middle East & Africa
-
-### [Xi’s peace principles offer little cover for China in Africa](https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa/)
-*Asia Times* - Oct 23, 10:16 IST (iso: 2026-10-23T04:46:38+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Togo_Faure-Gnassingbe_China_Xi-Jinping_October-13_2026.jpg -->
-
-Jihadist factions JNIM and ISSP clashed near Gonadaouri in Burkina Faso on October 9. The fight occurred in Oudalan province close to the Malian border. This violence highlights the limits of China’s peace principles in the region. Beijing’s diplomatic framework offers little practical cover for its interests there. The conflict underscores the persistent instability in the Sahel. On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.
-
-### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
-*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
-
-Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
-
-### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
-*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
-
-Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
-
-### [Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis](https://news.un.org/feed/view/en/story/2026/10/1168638)
-*UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/21_10_26_UNOG_Sudan_meeting_1.jpg/image560x340cropped.jpg -->
-
-Sudan peace talks resumed in Geneva on Wednesday. Nearly two dozen countries met to discuss a ceasefire. The goal is a transition to peaceful governance that represents all Sudanese people amid the ongoing drone war. Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.
-
-### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
-*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
-
-Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
-
----
-
 ## Americas
 
 ### [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)
@@ -166,15 +168,9 @@ Alberta voters rejected a proposal to begin the independence process by a wide m
 
 ### [Migrants paid up to $500 million in smuggling fees on European sea routes](https://news.un.org/feed/view/en/story/2026/10/1168642)
 *UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-10-2015-SOS-mediterranean-12.jpg/image560x340cropped.jpg -->
 
 The UN reported that migrants paid up to 500 million dollars in smuggling fees on European sea routes last year. The figures come from a joint report by UNODC and the International Organization for Migration. The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.
-
-### [Global warming will breach 1.5°C – but deep, fast cuts can still bring it back](https://news.un.org/feed/view/en/story/2026/10/1168634)
-*UN News* - Oct 21, 17:30 IST (iso: 2026-10-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-11-2023_Unsplash_Moldova.jpg/image560x340cropped.jpg -->
-
-Global temperatures will exceed 1.5 degrees Celsius above pre-industrial levels. Nations must implement deep, rapid emissions cuts to minimize this overshoot. The goal is returning to the agreed threshold by century's end. Urgent action is required to limit the duration of this breach. With global temperature rise set to exceed 1.5°C above pre-industrial levels, countries “must pull out all the stops” and urgently cut emissions to minimize the overshoot and return to the internationally agreed threshold by the end of this century.
 
 ---
 
