@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 24, 2026 13:11 IST
+**Updated:** October 24, 2026 17:48 IST
 
 ---
 
@@ -17,12 +17,6 @@ Leaked documents reveal Harita Group paid for goodwill on Obi island to secure n
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
 
 China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
-
-### [Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past](https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446)
-*Channel News Asia* - Oct 24, 09:04 IST (iso: 2026-10-24T03:34:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Dvdxmchh--/c_crop,h_450,w_800,x_0,y_38/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-24T022116Z_3_LYNXMPEM9N01D_RTROPTP_3_ASIA-WEATHER-CHAMPI.JPG?itok=SkJy80nG -->
-
-Typhoon Champi struck Taiwan, killing one person and injuring 527 others. The storm weakened from super typhoon status but still produces wind gusts of 126 kilometres per hour near its centre. Taiwan's Central Weather Administration confirmed the damage and ongoing severe weather conditions across the island. Once a super typhoon and one of the strongest storms in the Pacific this year, Champi has weakened but continues to pack wind gusts of around 126 kilometres per hour near its centre, according to Taiwan's Central Weather Administration.
 
 ### [US-China AI race turning ASEAN neutrality into a liability](https://asiatimes.com/2026/10/us-china-ai-race-turning-asean-neutrality-into-a-liability/)
 *Asia Times* - Oct 23, 11:16 IST (iso: 2026-10-23T05:46:45+00:00)
@@ -41,12 +35,6 @@ Kim Yo-jong said propaganda loudspeakers will restart along the entire border wi
 <!-- image: https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg -->
 
 Tajikistan is advancing the Soviet-era Roghun Dam project after securing major funding tranches. The development aims to reshape Central Asia's energy supply. The construction will displace tens of thousands of local villagers from their homes. The Soviet-era Roghun Dam project has endured decades of uncertainty and opposition. Now major funding tranches appear to have the project on track to transform Central Asia's energy landscape -- and displace tens of thousands of Tajik villagers.
-
-### [Taiwan charges five men over plot to run over comedian for his Xi Jinping jokes](https://www.theguardian.com/world/2026/oct/21/taiwan-five-men-plot-run-over-comedian-huang-yi-hao-xi-jinping-jokes)
-*The Guardian* - Oct 21, 21:43 IST (iso: 2026-10-21T16:13:53+00:00)
-<!-- image: https://i.guim.co.uk/img/media/58b66aaef4e26d60886b5c0c15befc257deb5d69/363_156_721_577/master/721.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5118a8e46e914a164bcd919cf04fac54 -->
-
-New Taipei prosecutors charged five men with plotting to injure comedian Huang Yi-hao. A Chinese national allegedly paid them to ram a car into him. Huang had mocked Xi Jinping and the Chinese Communist party. Person named ‘K’ from China paid five defendants to injure Huang Yi-hao, New Taipei prosecutors sayTaiwanese prosecutors have charged five men over a plot to ram a car into a comedian who made fun of the Chinese Communist party and Xi Jinping. Taiwan has repeatedly accused China of transnational repression to silence critics on the self-governed island, which Beijing claims as its territory and has.
 
 ---
 
@@ -67,12 +55,6 @@ A fire broke out at the Eagle's Nest, Hitler's mountain retreat built between 19
 <!-- image: https://dam.mediacorp.sg/image/upload/s--2LtXtu8U--/c_crop,h_450,w_800,x_0,y_27/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-23T144053Z_2_LYNXMPEM9M1A8_RTROPTP_3_ISRAEL-PALESTINIANS-HEBRON-SETTLERS.JPG?itok=ggM4O9Xg -->
 
 Israel launched a days-long military operation in the occupied West Bank on Friday. The campaign involved searches and demolitions after gunmen killed two soldiers. The attack occurred just days before national elections where security is a central issue. Israel's military forces launched a days-long operation on Friday (Oct 23) involving searches and demolitions in the occupied West Bank after gunmen killed two soldiers, just days before elections in which security is a key issue.
-
-### [As Israeli election nears, campaign turns ugly](https://www.thehindu.com/news/international/as-israeli-election-nears-campaign-turns-ugly/article71618997.ece)
-*The Hindu (International)* - Oct 24, 10:55 IST (iso: 2026-10-24T05:25:55+00:00)
-<!-- image: https://th-i.thgim.com/public/news/international/b8qfj2/article71618998.ece/alternates/LANDSCAPE_1200/Israelelections.jpg -->
-
-The Israeli election campaign has turned ugly as candidates flood social media with AI-generated images. Activists portray opponents as weak or untrustworthy to sway public opinion. The strategy relies on stereotypes and fears to influence voters during the final days of the race. Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion.
 
 ### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
 *Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
@@ -115,6 +97,18 @@ Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30
 <!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
 
 Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
+
+### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
+*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
+<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
+
+Nigeria confirmed an Ebola case in Abuja after a woman arriving from Uganda tested positive. She developed symptoms on 7 October and was hospitalized four days later. The diagnosis marks the first confirmed case in Africa's most populous country. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
+
+### [How War is Reshaping Iran’s “Axis of Resistance”](https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance)
+*International Crisis Group* - Oct 16, 23:43 IST (iso: 2026-10-16T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Three years of hostilities have transformed Tehran's network of Middle Eastern allies. Iran now relies more heavily on itself while adapting relationships with partners. Their diminished military utility has not reduced Tehran's commitment to protecting them. Three years of hostilities have transformed Tehran’s network of allies in the Middle East. The Islamic Republic is now relying more heavily on itself, while adapting its relationships with partners whose diminished military utility has not necessarily reduced its commitment to their protection.
 
 ---
 
@@ -171,6 +165,12 @@ Russian authorities released Stephen Hubbard, a 74‑year‑old American, after 
 <!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
 
 Alberta plans to restrict rights for migrant workers despite previously welcoming them. Vanesa Ortiz, a Mexican resident in Calgary, criticized the move as scapegoating. She argued such measures will not lower the cost of living. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
+
+### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
+
+Alberta voters rejected a proposal to begin the independence process from Canada. With nearly 1.9 million votes counted, roughly 76 percent supported remaining in the federation. The result delivered a decisive victory for Prime Minister Mark Carney and unity supporters. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
 
 ---
 
