@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-24T19:08:38.895865+00:00",
+  "generated_at": "2026-10-24T22:03:20.706849+00:00",
   "article_count": 50,
-  "total_unique_count": 254,
+  "total_unique_count": 251,
   "digest": {
-    "en": "Iran vows apocalyptic war if the U.S. strikes again while its speaker skips BRICS to secure an Indian air route. In Brazil, tens of thousands rally for Lula ahead of the runoff.",
-    "hi": "पेरिस में टैंक और इटली में सेना तैनाती के साथ चार देशों में बगावत भड़क रही है। इसी बीच ईरान के अधिकारी अंतिम युद्ध की धमकी दे रहे हैं।"
+    "en": "Zelenskyy confirms Starlink satellite communications are fully operational in Ukraine, stabilizing battlefield connectivity. Simultaneously, Iran vows apocalyptic retaliation if the U.S. strikes again, while its speaker skips the BRICS summit.",
+    "hi": "Air India ने 7 नवंबर तक रियाद और दम्माम के लिए अपनी उड़ानें निलंबित कर दी हैं। इसी दौरान बंगाल की खाड़ी में बन रहा चक्रवात 28 अक्टूबर को आंध्र प्रदेश के तट पर पहुँचने की ओर बढ़ रहा है।"
   },
   "articles": [
+    {
+      "title": "After Starshield Disruptions, Zelenskyy Says Satellite Communications Now Fully Functional",
+      "url": "https://www.rferl.org/a/ukraine-zelenskyy-musk-starlink-starshield-satellite/33883630.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-24T19:52:47+00:00",
+      "image_url": "https://gdb.rferl.org/cccb30c8-94c0-41cb-7738-08df13a869ed_w1200_h630.jpg",
+      "summary": "Volodymyr Zelenskyy confirmed on October 24 that Starshield and Starlink systems are fully operational. The satellite communications, developed by SpaceX, had been disrupted for over a week. This outage limited Ukraine's defensive operations during the period. Ukrainian President Volodymyr Zelenskyy said on October 24 that the Starshield and Starlink satellite systems were back to normal operations. Disruptions in the communications systems, developed by Elon Musk's SpaceX company, had limited Ukraine's defensive operations for over a week.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Iran vows ‘apocalyptic war’ if U.S. strikes again",
       "url": "https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece",
@@ -20,25 +32,13 @@
       "translations": {}
     },
     {
-      "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
-      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-24T18:11:44+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/0ba994ba5bb361aee178bf93d77a0ef20ea9f1ee/407_0_4928_3943/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1988723b6b0684a11980fd1ef786a152",
-      "summary": "Tens of thousands of Lula supporters gathered on Rio de Janeiro beach ahead of Sunday's runoff. Nearly 159 million Brazilians will vote in the contest between the incumbent and Flávio Bolsonaro. The rally seeks to boost turnout for the leftwing president's campaign. Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio BolsonaroTens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro. Nearly 159m Brazilians wi.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Iran Speaker to skip BRICS meet, as Iran seeks bilateral air route for ‘humanitarian aid’ from India",
       "url": "https://www.thehindu.com/news/national/irans-ghalibaf-will-not-attend-brics-parliamentary-forum-in-delhi-embassy/article71619999.ece",
       "source": "The Hindu (International)",
       "sources": [],
       "published_at": "2026-10-24T17:09:33+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/wir7cd/article71619994.ece/alternates/LANDSCAPE_1200/2026-06-21T100721Z_7779319_RC2WXLAGFUXI_RTRMADP_3_IRAN-CRISIS.JPG",
-      "summary": "Iran's parliament speaker will skip the upcoming BRICS summit. Tehran is negotiating a bilateral air route with India for medical supplies. Iranian authorities claim humanitarian aid is exempt from U. S. sanctions, while New Delhi suggests routing cargo through a third country. Iran Air not allowed to fly medicines directly from India to Tehran, due to fear of U. S. sanctions; India says medicines can be taken through a third country; Tehran says humanitarian aid is exempted from sanctions.",
+      "summary": "Iran's parliament speaker will skip the upcoming BRICS summit. Tehran is negotiating a bilateral air route with India for medical supplies. Iranian authorities claim humanitarian aid is exempt from U. S. sanctions, while New Delhi suggests routing cargo through a third country. Iran Air not allowed to fly medicines directly from India to Tehran, due to fear of U. sanctions; India says medicines can be taken through a third country; Tehran says humanitarian aid is exempted from sanctions.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -64,18 +64,6 @@
       "image_url": "https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e909d961099f6bf8027f885e3cf422a",
       "summary": "North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Why bosses find 'I'm sorry' so hard to say, and how to do it properly",
-      "url": "https://www.channelnewsasia.com/cna-insider/adulting/boss-apologise-staff-responsibility-trust-6481746",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-10-24T13:30:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--FTGWnN-v--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/22/adult1.jpg?itok=o7pyq-9i",
-      "summary": "Business founder Kelvin Kao argues that leaders should apologize to staff when they make mistakes. Many executives hesitate due to fears of reputational damage or legal liability. Kao suggests that reluctance stems from a misplaced sense of authority rather than a genuine concern for team morale or operational clarity. Business founder Kelvin Kao says bosses should be willing to apologise to their staff if they get something wrong, but many seem reluctant to do so for reasons such as fear of reputational damage or even legal liability.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -260,18 +248,6 @@
       "translations": {}
     },
     {
-      "title": "Trump Says Musk Has Lifted Starlink Restrictions On Ukraine While Kyiv Reports Ongoing Issues",
-      "url": "https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-22T05:37:19+00:00",
-      "image_url": "https://gdb.rferl.org/99d92bba-85d1-439e-4563-08df13a884cb_cx0_cy3_cw0_w1200_h630.jpg",
-      "summary": "Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
       "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
       "source": "The Guardian",
@@ -308,20 +284,80 @@
       "translations": {}
     },
     {
-      "title": "डाबड़ी में झंडा चौक के पास युवक की चाकू घोंपकर हत्या, हमलावरों की तलाश में जुटी पुलिस",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-young-man-stabbed-to-death-near-jhanda-chowk-in-dabri-2026-10-25",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-10-21T00:14:55+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168",
+      "summary": "Nigeria confirmed an Ebola case in Abuja after a woman from Uganda tested positive. She developed symptoms on 7 October and was hospitalized four days later. The diagnosis marks the spread of the outbreak into western Africa. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How War is Reshaping Iran’s “Axis of Resistance”",
+      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-10-16T18:13:00+00:00",
+      "image_url": "https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Three years of hostilities have reshaped Iran's Axis of Resistance. Tehran now relies more heavily on its own military capabilities. The Islamic Republic continues protecting partners despite their diminished military utility in the region. Three years of hostilities have transformed Tehran’s network of allies in the Middle East. The Islamic Republic is now relying more heavily on itself, while adapting its relationships with partners whose diminished military utility has not necessarily reduced its commitment to their protection.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित",
+      "url": "https://www.amarujala.com/india-news/west-asia-tension-air-india-and-ai-express-riyadh-dammam-flights-cancel-other-airlines-news-update-2026-10-25",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-25T07:01:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/10/16/sharab-ka-nasha-ma-rasasa-sa-gal-kasakara-patana-ka-hataya_a8d5c168304d0586436ae4d5bb1b26fd.jpeg?w=1200&dpr=1.0",
-      "summary": "डाबड़ी के झंडा चौक के पास शनिवार रात एक युवक की चाकू से हत्या कर दी गई। पुलिस ने हमलावरों की तलाश शुरू कर दी है। डाबड़ी इलाके में झंडा चौक के नजदीक शनिवार देर रात एक युवक की चाकू से गोदकर हत्या कर दी गई। डाबड़ी में झंडा चौक के पास युवक की चाकू घोंपकर हत्या, हमलावरों की तलाश में जुटी पुलिस।",
+      "published_at": "2026-10-25T07:22:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/09/saudi-flights-cancel_cf65a61cb2082faf8cdde82343d12978.jpeg?w=1200&dpr=1.0",
+      "summary": "एअर इंडिया ने पश्चिम एशिया के तनाव के कारण रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित कर दी हैं। इससे यात्रियों को 14 दिन तक वैकल्पिक मार्ग खोजने होंगे। पश्चिम एशिया तनाव: 14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित",
+          "summary": "एअर इंडिया ने पश्चिम एशिया के तनाव के कारण रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित कर दी हैं। इससे यात्रियों को 14 दिन तक वैकल्पिक मार्ग खोजने होंगे। पश्चिम एशिया तनाव: 14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "परीक्षार्थियों को राहत देने के लिए चलेंगी अतिरिक्त बस और ट्रेनें; जानिए कब... कहां से",
+      "url": "https://www.amarujala.com/lucknow/up-pet-exam-on-sunday-additional-buses-and-trains-will-run-to-provide-relief-to-candidates-know-the-details-2026-10-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T07:16:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/24/pata-parakashha-ravavara-ka_cc56ada1d53d11682cdf9c4aaab20b6d.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश प्री-एंट्रेंस टेस्ट के लिए रेलवे रविवार को विशेष ट्रेनें चलाएगा। परीक्षार्थियों की सुविधा के लिए अतिरिक्त बसें भी संचालित होंगी। UP PET Exam: परीक्षार्थियों की सुविधा के लिए रेलवे प्रशासन रविवार को स्पेशल ट्रेनों का संचालन करेगा। इसके अलावा अतिरक्ति बसें भी चलाई जाएंगी। परीक्षार्थियों को राहत देने के लिए चलेंगी अतिरिक्त बस और ट्रेनें; जानिए कब कहां से।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "डाबड़ी में झंडा चौक के पास युवक की चाकू घोंपकर हत्या, हमलावरों की तलाश में जुटी पुलिस",
-          "summary": "डाबड़ी के झंडा चौक के पास शनिवार रात एक युवक की चाकू से हत्या कर दी गई। पुलिस ने हमलावरों की तलाश शुरू कर दी है। डाबड़ी इलाके में झंडा चौक के नजदीक शनिवार देर रात एक युवक की चाकू से गोदकर हत्या कर दी गई। डाबड़ी में झंडा चौक के पास युवक की चाकू घोंपकर हत्या, हमलावरों की तलाश में जुटी पुलिस।",
+          "title": "परीक्षार्थियों को राहत देने के लिए चलेंगी अतिरिक्त बस और ट्रेनें; जानिए कब... कहां से",
+          "summary": "उत्तर प्रदेश प्री-एंट्रेंस टेस्ट के लिए रेलवे रविवार को विशेष ट्रेनें चलाएगा। परीक्षार्थियों की सुविधा के लिए अतिरिक्त बसें भी संचालित होंगी। UP PET Exam: परीक्षार्थियों की सुविधा के लिए रेलवे प्रशासन रविवार को स्पेशल ट्रेनों का संचालन करेगा। इसके अलावा अतिरक्ति बसें भी चलाई जाएंगी। परीक्षार्थियों को राहत देने के लिए चलेंगी अतिरिक्त बस और ट्रेनें; जानिए कब कहां से।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "9 किमी में 13 जगहों पर होगा स्वागत, 1000 महिलाओं को रोजगार देने की योजना; बजेंगे ढोल",
+      "url": "https://www.amarujala.com/uttar-pradesh/chandauli/pm-modi-kashi-welcomed-13-locations-plan-to-provide-employment-1000-women-drums-played-bjp-politics-air-show-2026-10-24",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T07:09:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/23/eyara-sha-ka-lkara-varanaesa-ma-tayara-para_2ce0ca3604927396a09a9cf563da5553.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय वायुसेना की 94वीं वर्षगांठ पर गंगा के ऊपर हवाई प्रदर्शन होगा। 9 किलोमीटर के मार्ग में 13 स्थानों पर स्वागत होगा और 1000 महिलाओं को रोजगार मिलेगा। भारतीय वायुसेना की 94वीं वर्षगांठ के अवसर पर आयोजित ‘एयर फोर्स डे एरियल डिस्प्ले-2026’ के अंतिम दिन होने वाले इस प्रदर्शन में गंगा के ऊपर भारतीय वायुसेना के लड़ाकू विमानों, हेलीकॉप्टरों और अन्य विमानों के हवाई करतब देखने को मिलेंगे।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "9 किमी में 13 जगहों पर होगा स्वागत, 1000 महिलाओं को रोजगार देने की योजना; बजेंगे ढोल",
+          "summary": "भारतीय वायुसेना की 94वीं वर्षगांठ पर गंगा के ऊपर हवाई प्रदर्शन होगा। 9 किलोमीटर के मार्ग में 13 स्थानों पर स्वागत होगा और 1000 महिलाओं को रोजगार मिलेगा। भारतीय वायुसेना की 94वीं वर्षगांठ के अवसर पर आयोजित ‘एयर फोर्स डे एरियल डिस्प्ले-2026’ के अंतिम दिन होने वाले इस प्रदर्शन में गंगा के ऊपर भारतीय वायुसेना के लड़ाकू विमानों, हेलीकॉप्टरों और अन्य विमानों के हवाई करतब देखने को मिलेंगे।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -364,7 +400,7 @@
     {
       "title": "धोनी खेलेंगे या लेंगे संन्यास, दिसंबर से पहले होगा फैसला; फिटनेस और CSK के खिताबी सूखे पर क्या बोले",
       "url": "https://www.amarujala.com/cricket/cricket-news/ms-dhoni-ipl-future-csk-legend-to-decide-on-playing-another-season-before-december-2026-10-25",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-10-25T06:38:18+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/ema-esa-thhana_75039156e3d03452e7da9bff4e60b3e3.jpeg?w=1200&dpr=1.0",
@@ -375,6 +411,150 @@
         "hi": {
           "title": "धोनी खेलेंगे या लेंगे संन्यास, दिसंबर से पहले होगा फैसला; फिटनेस और CSK के खिताबी सूखे पर क्या बोले",
           "summary": "एमएस धोनी दिसंबर से पहले आईपीएल में खेलने या संन्यास लेने का फैसला करेंगे। यह निर्णय उनकी फिटनेस और सीएसके के प्रदर्शन पर निर्भर करेगा। धोनी खेलेंगे या लेंगे संन्यास, दिसंबर से पहले होगा फैसला; फिटनेस और CSK के खिताबी सूखे पर क्या बोले।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "त्योहारी सीजन में बादाम, पिस्ता, अखरोट के दाम बढ़े,कारोबारियों ने बनाया ये शानदार प्लान!",
+      "url": "https://www.amarujala.com/video/business/business-diary/prices-of-almonds-pistachios-and-walnuts-have-risen-during-the-festive-season-traders-have-come-up-with-a-b-2026-10-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-24T22:00:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/dry-fruits-market_7ebccd2516a0dfce13c43817499cf8e5.jpeg?w=1200&dpr=1.0",
+      "summary": "त्योहारी सीजन में बादाम, पिस्ता और अखरोट के दाम बढ़ गए हैं। कारोबारियों ने इसकी भरपाई के लिए नए व्यापारिक योजनाएं बनाई हैं। त्योहारी सीजन में बादाम, पिस्ता, अखरोट के दाम बढ़े, कारोबारियों ने बनाया ये शानदार प्लान!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "त्योहारी सीजन में बादाम, पिस्ता, अखरोट के दाम बढ़े,कारोबारियों ने बनाया ये शानदार प्लान!",
+          "summary": "त्योहारी सीजन में बादाम, पिस्ता और अखरोट के दाम बढ़ गए हैं। कारोबारियों ने इसकी भरपाई के लिए नए व्यापारिक योजनाएं बनाई हैं। त्योहारी सीजन में बादाम, पिस्ता, अखरोट के दाम बढ़े, कारोबारियों ने बनाया ये शानदार प्लान!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बंगाल की खाड़ी में चक्रवात का खतरा: 28 अक्तूबर को आंध्र तट पहुंचने का अनुमान, राष्ट्रपति का ओडिशा",
+      "url": "https://www.amarujala.com/india-news/bay-of-bengal-cyclone-threat-andhra-pradesh-coast-on-alert-president-murmu-odisha-visit-postponed-2026-10-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-24T20:45:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/10/26/cyclone_b71d7e25ce38bc8c778555eab75d4398.jpeg?w=1200&dpr=1.0",
+      "summary": "बंगाल की खाड़ी में चक्रवात 28 अक्टूबर को आंध्र प्रदेश के तट पर पहुंचने का अनुमान है। इसी वजह से राष्ट्रपति द्रौपदी मुर्मु का ओडिशा दौरा टल गया है। बंगाल की खाड़ी में चक्रवात का खतरा: 28 अक्तूबर को आंध्र तट पहुंचने का अनुमान, राष्ट्रपति का ओडिशा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंगाल की खाड़ी में चक्रवात का खतरा: 28 अक्तूबर को आंध्र तट पहुंचने का अनुमान, राष्ट्रपति का ओडिशा",
+          "summary": "बंगाल की खाड़ी में चक्रवात 28 अक्टूबर को आंध्र प्रदेश के तट पर पहुंचने का अनुमान है। इसी वजह से राष्ट्रपति द्रौपदी मुर्मु का ओडिशा दौरा टल गया है। बंगाल की खाड़ी में चक्रवात का खतरा: 28 अक्तूबर को आंध्र तट पहुंचने का अनुमान, राष्ट्रपति का ओडिशा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "तेज हवाओं और गरज-चमक के साथ झमाझम बारिश, कई इलाकों में गिरे ओले, बढ़ी ठंडक",
+      "url": "https://www.amarujala.com/delhi-ncr/weather-changes-in-delhi-ncr-heavy-rain-accompanied-by-strong-winds-thunder-and-lightning-2026-10-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-24T20:42:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/1_afb8d7a0f3a09f18b56811d0f9cb44e8.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली-एनसीआर में तेज हवाओं और गरज-चमक के साथ झमाझम बारिश हुई। कई इलाकों में ओले गिरे और तापमान में गिरावट आई। मौसम में अचानक बदलाव दर्ज किया गया। दिल्ली-एनसीआर में मौसम बदल गया है। तेज हवाओं और गरज-चमक के साथ झमाझम बारिश, कई इलाकों में गिरे ओले, बढ़ी ठंडक।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तेज हवाओं और गरज-चमक के साथ झमाझम बारिश, कई इलाकों में गिरे ओले, बढ़ी ठंडक",
+          "summary": "दिल्ली-एनसीआर में तेज हवाओं और गरज-चमक के साथ झमाझम बारिश हुई। कई इलाकों में ओले गिरे और तापमान में गिरावट आई। मौसम में अचानक बदलाव दर्ज किया गया। दिल्ली-एनसीआर में मौसम बदल गया है। तेज हवाओं और गरज-चमक के साथ झमाझम बारिश, कई इलाकों में गिरे ओले, बढ़ी ठंडक।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'पिता के घर में बच्चों के यौन शोषण से जुड़ी तस्वीरें'; इस पत्र पर ब्रिटिश पुलिस का रुख क्या?",
+      "url": "https://www.amarujala.com/world/uk-police-review-handling-of-allegations-against-meghan-markle-father-2026-10-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-24T20:25:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/magana-marakal_baedd19ff414435434f28b5bd687a365.jpeg?w=1200&dpr=1.0",
+      "summary": "ब्रिटिश पुलिस ने मेघन मार्कल के पिता के खिलाफ यौन शोषण के आरोपों की जांच की समीक्षा शुरू की है। यह कदम पिता के घर से जुड़ी तस्वीरों के मामले में उठाया गया है। 'पिता के घर में बच्चों के यौन शोषण से जुड़ी तस्वीरें'; इस पत्र पर ब्रिटिश पुलिस का रुख क्या?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'पिता के घर में बच्चों के यौन शोषण से जुड़ी तस्वीरें'; इस पत्र पर ब्रिटिश पुलिस का रुख क्या?",
+          "summary": "ब्रिटिश पुलिस ने मेघन मार्कल के पिता के खिलाफ यौन शोषण के आरोपों की जांच की समीक्षा शुरू की है। यह कदम पिता के घर से जुड़ी तस्वीरों के मामले में उठाया गया है। 'पिता के घर में बच्चों के यौन शोषण से जुड़ी तस्वीरें'; इस पत्र पर ब्रिटिश पुलिस का रुख क्या?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "इस दिन से लागू होगी सिम बाइंडिग, साइबर फ्रॉड रोकने के लिए सरकार की कवायद!",
+      "url": "https://www.amarujala.com/video/technology/tip-of-the-day/sim-binding-to-come-into-effect-from-this-date-a-government-initiative-to-curb-cyber-fraud-2026-10-25",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-24T20:16:42+00:00",
+      "image_url": "https://images.pexels.com/photos/12925433/pexels-photo-12925433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "सरकार ने साइबर फ्रॉड रोकने के लिए सिम बाइंडिंग नियम लागू करने का फैसला किया है। यह कदम डिजिटल सुरक्षा को मजबूत करने के उद्देश्य से लिया गया है। इस दिन से लागू होगी सिम बाइंडिग, साइबर फ्रॉड रोकने के लिए सरकार की कवायद!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इस दिन से लागू होगी सिम बाइंडिग, साइबर फ्रॉड रोकने के लिए सरकार की कवायद!",
+          "summary": "सरकार ने साइबर फ्रॉड रोकने के लिए सिम बाइंडिंग नियम लागू करने का फैसला किया है। यह कदम डिजिटल सुरक्षा को मजबूत करने के उद्देश्य से लिया गया है। इस दिन से लागू होगी सिम बाइंडिग, साइबर फ्रॉड रोकने के लिए सरकार की कवायद!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ग्रैप लागू, फिर भी धूल के हवाले दिल्ली की सड़कें, उतारी जाएंगी चार नई एंटी-स्मोक गन",
+      "url": "https://www.amarujala.com/delhi-ncr/crisis-deepens-grap-is-in-force-yet-delhi-s-streets-remain-choked-with-dust-2026-10-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-24T20:15:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/1_27e7ec2d693dd3cbce32bac142f6d4f2.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में ग्रैप-1 लागू होने के बावजूद सड़कों पर धूल और निर्माण मलबा पड़ा है। प्रशासन ने नियमों का पालन न होने पर चार नई एंटी-स्मोक गन लगाने का निर्देश दिया है। प्रदूषण से निपटने के लिए ग्रैप-1 लागू है, लेकिन सड़कों पर धूल, महीनों से पड़ा निर्माण मलबा और खुले में पड़ी निर्माण सामग्री बता रही है कि नियमों का पालन नहीं हो रहा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ग्रैप लागू, फिर भी धूल के हवाले दिल्ली की सड़कें, उतारी जाएंगी चार नई एंटी-स्मोक गन",
+          "summary": "दिल्ली में ग्रैप-1 लागू होने के बावजूद सड़कों पर धूल और निर्माण मलबा पड़ा है। प्रशासन ने नियमों का पालन न होने पर चार नई एंटी-स्मोक गन लगाने का निर्देश दिया है। प्रदूषण से निपटने के लिए ग्रैप-1 लागू है, लेकिन सड़कों पर धूल, महीनों से पड़ा निर्माण मलबा और खुले में पड़ी निर्माण सामग्री बता रही है कि नियमों का पालन नहीं हो रहा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मासूम राजदीप का सपना CM संग सेल्फी: मुख्यमंत्री शुभेंदु बोले- पढ़ाई पर ध्यान दो, मोबाइल कम चलाओ; और",
+      "url": "https://www.amarujala.com/india-news/howrah-rajdeep-selfie-with-cm-suvendu-west-bengal-chief-minister-says-focus-on-studies-use-mobile-less-2026-10-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-24T20:00:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/suvendu-rajdeep-selfie_f3e2419165487da646230f71f4562a09.jpeg?w=1200&dpr=1.0",
+      "summary": "मुख्यमंत्री शुभेंदु अधिकारी ने राजदीप से सेल्फी ली और उसे पढ़ाई पर ध्यान देने की सलाह दी। उन्होंने मोबाइल का कम उपयोग करने की भी अपील की। मासूम राजदीप का सपना CM संग सेल्फी: मुख्यमंत्री शुभेंदु बोले- पढ़ाई पर ध्यान दो, मोबाइल कम चलाओ; और क्या कहा?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मासूम राजदीप का सपना CM संग सेल्फी: मुख्यमंत्री शुभेंदु बोले- पढ़ाई पर ध्यान दो, मोबाइल कम चलाओ; और",
+          "summary": "मुख्यमंत्री शुभेंदु अधिकारी ने राजदीप से सेल्फी ली और उसे पढ़ाई पर ध्यान देने की सलाह दी। उन्होंने मोबाइल का कम उपयोग करने की भी अपील की। मासूम राजदीप का सपना CM संग सेल्फी: मुख्यमंत्री शुभेंदु बोले- पढ़ाई पर ध्यान दो, मोबाइल कम चलाओ; और क्या कहा?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "1984 दंगा पीड़ित विरोध में शाह को लिखेंगे पत्र; 1 नवंबर को रामलीला मैदान में क्या होगा?",
+      "url": "https://www.amarujala.com/india-news/1984-anti-sikh-riot-victims-to-protest-against-rahul-gandhi-rally-on-november-1-alka-lamba-react-2026-10-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-24T19:44:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/rahal-gathha-ka-ral-para-1984-thaga-paugdhata-ka-varathha_c047a5141c0cd5d13a9bb92977943188.jpeg?w=1200&dpr=1.0",
+      "summary": "1984 के सिख विरोधी दंगों के पीड़ित परिवारों ने 1 नवंबर को दिल्ली के रामलीला मैदान में होने वाली राहुल गांधी की सभा का विरोध करने का फैसला किया है। पीड़ितों ने इस सभा को अपने पीड़ा के घावों को छेड़ने वाला कदम बताते हुए केंद्रीय गृह मंत्री अमित शाह को पत्र लिखने की घोषणा की है। इस पत्र में वे सभा के दौरान संभावित हिंसा और सुरक्षा व्यवस्था की कमी पर चिंता व्यक्त करेंगे। पीड़ितों का मानना है कि ऐसी सभाएं उनके दर्द को नजरअंदाज करती हैं और स्थिति को और बिगाड़ सकती हैं।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "1984 दंगा पीड़ित विरोध में शाह को लिखेंगे पत्र; 1 नवंबर को रामलीला मैदान में क्या होगा?",
+          "summary": "1984 के सिख विरोधी दंगों के पीड़ित परिवारों ने 1 नवंबर को दिल्ली के रामलीला मैदान में होने वाली राहुल गांधी की सभा का विरोध करने का फैसला किया है। पीड़ितों ने इस सभा को अपने पीड़ा के घावों को छेड़ने वाला कदम बताते हुए केंद्रीय गृह मंत्री अमित शाह को पत्र लिखने की घोषणा की है। इस पत्र में वे सभा के दौरान संभावित हिंसा और सुरक्षा व्यवस्था की कमी पर चिंता व्यक्त करेंगे। पीड़ितों का मानना है कि ऐसी सभाएं उनके दर्द को नजरअंदाज करती हैं और स्थिति को और बिगाड़ सकती हैं।",
           "region": "दुनिया"
         }
       }
@@ -574,186 +754,6 @@
           "title": "'फ्रांस खत्म हो चुका है, इंग्लैंड भी...' यूरोपीय सांसद ने उगला जहर, मुस्लिमों की एंट्री बैन करने की",
           "summary": "पोलिश यूरोपीय संसद सदस्य डोमिनिक तारचिंस्की ने पीयर्स मॉर्गन के साथ बातचीत में पोलैंड में सभी मुस्लिमों के प्रवेश पर प्रतिबंध लगाने का वादा किया। उन्होंने कतर में ईसाई गिरजाघरों की अनुमति तक यूरोप में नई मस्जिदों के निर्माण के विरोध का भी समर्थन किया। Europe Protest: यूरोपीय संसद सदस्य डोमिनिक तारचिंस्की ने ब्रिटिश ब्रॉडकास्टर पीयर्स मॉर्गन के साथ इंटरव्यू में मुस्लिम प्रवासियों को लेकर बेहद विवादित बयान दिया.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी सैन्य ठिकानों पर काली परछाई किसकी? 2896KMPH की स्पीड से उड़ रही थी तिकोनी चीज, पेंटागन-CIA",
-      "url": "https://hindi.news18.com/world/america-mysterious-triangular-objects-with-2896-kmph-speed-spotted-over-us-military-bases-inside-story-ws-l-10933793.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-24T12:20:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/ufo-files-2026-10-44aea5ee88c01b701773b1ed6cec5ff6-1200x800.jpg",
-      "summary": "अमेरिकी सैन्य ठिकानों के ऊपर 2896 किमी प्रति घंटे की गति से उड़ती त्रिकोणीय काली परछाईं देखी गई। पेंटागन और सीआईए इस रहस्यमय वस्तु की पहचान करने में असमर्थ हैं। सुरक्षा एजेंसियां अभी तक इसकी प्रकृति पर स्पष्टता नहीं दे पाई हैं। Mysterious objects spotted over us Military Bases: दुनिया के सबसे ताकतवर देश के सैन्य बेस के आसपास अगर कोई परिंदा भी पर मारता है, तो उसकी जांच शुरू हो जाती है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी सैन्य ठिकानों पर काली परछाई किसकी? 2896KMPH की स्पीड से उड़ रही थी तिकोनी चीज, पेंटागन-CIA",
-          "summary": "अमेरिकी सैन्य ठिकानों के ऊपर 2896 किमी प्रति घंटे की गति से उड़ती त्रिकोणीय काली परछाईं देखी गई। पेंटागन और सीआईए इस रहस्यमय वस्तु की पहचान करने में असमर्थ हैं। सुरक्षा एजेंसियां अभी तक इसकी प्रकृति पर स्पष्टता नहीं दे पाई हैं। Mysterious objects spotted over us Military Bases: दुनिया के सबसे ताकतवर देश के सैन्य बेस के आसपास अगर कोई परिंदा भी पर मारता है, तो उसकी जांच शुरू हो जाती है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन के ड्रोन हमले में तबाह हुआ रूस का सबसे बड़ा पेट्रोकेमिकल प्लांट, मिसाइल के पुर्जे बनाने वाले",
-      "url": "https://www.patrika.com/world-news/ukraine-drone-attack-tolyatti-petrochemical-plant-proton-electronics-21005997",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-24T11:48:42+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Russiaattacknews.webp",
-      "summary": "यूक्रेन ने रूस के तोलियाट्टी स्थित बड़े पेट्रोकेमिकल प्लांट पर ड्रोन हमला किया। यह संरचना सिंथेटिक रबर उत्पादन के लिए महत्वपूर्ण थी। हमले से प्लांट तबाह हो गया। रूस के तोलियाट्टी शहर में एक बड़े पेट्रोकेमिकल प्लांट पर हमला हुआ है। यूक्रेन ने इस प्लांट पर हमला करने का दावा किया है। यह प्लांट सिंथेटिक रबर बनाने वाले रूस के सबसे बड़े कारखानों में से एक माना जाता है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन के ड्रोन हमले में तबाह हुआ रूस का सबसे बड़ा पेट्रोकेमिकल प्लांट, मिसाइल के पुर्जे बनाने वाले",
-          "summary": "यूक्रेन ने रूस के तोलियाट्टी स्थित बड़े पेट्रोकेमिकल प्लांट पर ड्रोन हमला किया। यह संरचना सिंथेटिक रबर उत्पादन के लिए महत्वपूर्ण थी। हमले से प्लांट तबाह हो गया। रूस के तोलियाट्टी शहर में एक बड़े पेट्रोकेमिकल प्लांट पर हमला हुआ है। यूक्रेन ने इस प्लांट पर हमला करने का दावा किया है। यह प्लांट सिंथेटिक रबर बनाने वाले रूस के सबसे बड़े कारखानों में से एक माना जाता है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "जॉर्डन में चर्च पर आतंकी हमले की भारत ने की निंदा, आतंकवाद के खिलाफ लड़ाई जारी रखने का संकल्प",
-      "url": "https://www.patrika.com/world-news/india-condemns-terrorist-attack-on-church-in-jordan-21005885",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-24T11:40:08+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/jaiswal.webp",
-      "summary": "जॉर्डन के करक में चर्च पर हुए हमले में आठ लोग मारे गए। चालीस लोग घायल हुए। भारत ने इस घटना की कड़ी निंदा की। विदेश मंत्रालय ने आतंकवाद के खिलाफ संकल्प दोहराया। जॉर्डन (Jordan) में शुक्रवार को एक चर्च पर हुए आतंकी हमले (Terrorist Attack) में 8 लोगों की मौत हो गई और 40 लोग घायल हो गए। इस आतंकी हमले की भारत (India) ने निंदा की है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जॉर्डन में चर्च पर आतंकी हमले की भारत ने की निंदा, आतंकवाद के खिलाफ लड़ाई जारी रखने का संकल्प",
-          "summary": "जॉर्डन के करक में चर्च पर हुए हमले में आठ लोग मारे गए। चालीस लोग घायल हुए। भारत ने इस घटना की कड़ी निंदा की। विदेश मंत्रालय ने आतंकवाद के खिलाफ संकल्प दोहराया। जॉर्डन (Jordan) में शुक्रवार को एक चर्च पर हुए आतंकी हमले (Terrorist Attack) में 8 लोगों की मौत हो गई और 40 लोग घायल हो गए। इस आतंकी हमले की भारत (India) ने निंदा की है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "जहां से हिटलर ने देखे थे दुनिया जीतने के सपने, वो ईगल्स नेस्ट जलकर खाक, 6000 फीट ऊपर मलबे में बदली",
-      "url": "https://hindi.news18.com/world/europe-hitler-eagles-nest-mountain-retreat-fire-bavaria-germany-suspect-arrested-10933682.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-24T11:39:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Eagle_Nest_Hitler_AP-2026-10-c91fb06439075fe80401a4fa6e37af91-1200x800.jpg",
-      "summary": "जर्मनी के बवेरिया में हिटलर का ऐतिहासिक ठिकाना ईगल्स नेस्ट आग में जल गया। षट्शत फीट ऊंचाई पर स्थित इमारत पूरी तरह नष्ट हो गई। पुलिस ने एक संदिग्ध बाइक सवार को हिरासत में लिया। जर्मनी के बवेरिया में नाजी तानाशाह एडोल्फ हिटलर का ऐतिहासिक माउंटेन ठिकाना ईगल्स नेस्ट भीषण आग में जलकर खाक हो गया है. करीब 6000 फीट की ऊंचाई पर ओबरसाल्जबर्ग पहाड़ी पर स्थित केहलस्टीनहाउस इमारत आग की लपटों में पूरी तरह घिर गई.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जहां से हिटलर ने देखे थे दुनिया जीतने के सपने, वो ईगल्स नेस्ट जलकर खाक, 6000 फीट ऊपर मलबे में बदली",
-          "summary": "जर्मनी के बवेरिया में हिटलर का ऐतिहासिक ठिकाना ईगल्स नेस्ट आग में जल गया। षट्शत फीट ऊंचाई पर स्थित इमारत पूरी तरह नष्ट हो गई। पुलिस ने एक संदिग्ध बाइक सवार को हिरासत में लिया। जर्मनी के बवेरिया में नाजी तानाशाह एडोल्फ हिटलर का ऐतिहासिक माउंटेन ठिकाना ईगल्स नेस्ट भीषण आग में जलकर खाक हो गया है. करीब 6000 फीट की ऊंचाई पर ओबरसाल्जबर्ग पहाड़ी पर स्थित केहलस्टीनहाउस इमारत आग की लपटों में पूरी तरह घिर गई.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "15 महीने में विनाश देखेगी दुनिया, अमेरिकी नास्त्रेदमस की भविष्यवाणी से हड़कंप, जो सोचा भी नहीं है",
-      "url": "https://hindi.news18.com/world/america-american-nostradamus-predicted-apocalypse-terrifying-nuke-attacks-global-war-collapse-of-us-prediction-2028-10933611.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-24T11:30:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/APOCALYPSE-PREDICTION-2026-10-332b8d483eddbcfc21496aff801bfe72-1200x800.jpg",
-      "summary": "अमेरिका के एक भविष्यवक्ता ने अगले पंद्रह महीनों को खतरनाक बताया। उन्हें अमेरिकी नास्त्रेदमस कहा जाता है। उन्होंने मानवता के लिए गंभीर जोखिम की चेतावनी दी है। ऐसे ही एक भविष्यवक्ता ने बताया है कि आने वाले 15 महीने इंसानियत के लिए खतरनाक होने वाले हैं. इन्हें अमेरिका का नास्त्रेदमस भी कहा जाता है. 15 महीने में विनाश देखेगी दुनिया, अमेरिकी नास्त्रेदमस की भविष्यवाणी से हड़कंप, जो सोचा भी नहीं है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "15 महीने में विनाश देखेगी दुनिया, अमेरिकी नास्त्रेदमस की भविष्यवाणी से हड़कंप, जो सोचा भी नहीं है",
-          "summary": "अमेरिका के एक भविष्यवक्ता ने अगले पंद्रह महीनों को खतरनाक बताया। उन्हें अमेरिकी नास्त्रेदमस कहा जाता है। उन्होंने मानवता के लिए गंभीर जोखिम की चेतावनी दी है। ऐसे ही एक भविष्यवक्ता ने बताया है कि आने वाले 15 महीने इंसानियत के लिए खतरनाक होने वाले हैं. इन्हें अमेरिका का नास्त्रेदमस भी कहा जाता है. 15 महीने में विनाश देखेगी दुनिया, अमेरिकी नास्त्रेदमस की भविष्यवाणी से हड़कंप, जो सोचा भी नहीं है।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप से होनी थी मुलाकात, उधर बिन बताए चीन पहुंचे किम जोंग उन, दक्षिण कोरिया की बढ़ी टेंशन",
-      "url": "https://hindi.news18.com/world/rest-of-world-north-korea-kim-jong-un-makes-unannounced-visit-to-chinese-border-city-ws-l-10933603.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-24T10:55:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Kim-Jong-Un-Reuters-2026-08-40960f4ef68b392739b83803f3304adc-1200x800.jpg",
-      "summary": "किम जोंग उन बिना घोषणा के चीन पहुंच गए। वे नई यालू नदी सेतु से प्रवेश किए। अमेरिका से मुलाकात की उम्मीदों के बीच यह कदम दक्षिण कोरिया में चिंता बढ़ा रहा है। Kim Jong Un China Visit: कहां किम जोंग उन से अमेरिकी राष्ट्रपति की मुलाकात को लेकर अटकलें लगाई जा रही थीं और कहां वो बिना किसी घोषणा के ही चीन पहुंच गए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप से होनी थी मुलाकात, उधर बिन बताए चीन पहुंचे किम जोंग उन, दक्षिण कोरिया की बढ़ी टेंशन",
-          "summary": "किम जोंग उन बिना घोषणा के चीन पहुंच गए। वे नई यालू नदी सेतु से प्रवेश किए। अमेरिका से मुलाकात की उम्मीदों के बीच यह कदम दक्षिण कोरिया में चिंता बढ़ा रहा है। Kim Jong Un China Visit: कहां किम जोंग उन से अमेरिकी राष्ट्रपति की मुलाकात को लेकर अटकलें लगाई जा रही थीं और कहां वो बिना किसी घोषणा के ही चीन पहुंच गए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सत्ता बचाने के लिए चुनाव से पहले कोई बड़ा कदम उठा सकते हैं पीएम नेतन्याहू, इजराइली विश्लेषक का दावा",
-      "url": "https://www.patrika.com/world-news/benjamin-netanyahu-election-big-step-israel-politics-survey-21005692",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-24T10:06:00+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp",
-      "summary": "इजराइल में आगामी चुनावों से पहले प्रधानमंत्री बेंजामिन नेतन्याहू सत्ता बचाने के लिए बड़ा कदम उठा सकते हैं। स्थानीय विश्लेषकों का दावा है कि राजनीतिक हलचल तेज हो गई है। इजराइल में कुछ ही दिनों बाद चुनाव है। जिसको लेकर राजनीति हलचल तेज है। इस बीच, प्रधानमंत्री बेंजामिन नेतन्याहू के सामने सत्ता बचाने की चुनौती है। सत्ता बचाने के लिए चुनाव से पहले कोई बड़ा कदम उठा सकते हैं पीएम नेतन्याहू, इजराइली विश्लेषक का दावा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सत्ता बचाने के लिए चुनाव से पहले कोई बड़ा कदम उठा सकते हैं पीएम नेतन्याहू, इजराइली विश्लेषक का दावा",
-          "summary": "इजराइल में आगामी चुनावों से पहले प्रधानमंत्री बेंजामिन नेतन्याहू सत्ता बचाने के लिए बड़ा कदम उठा सकते हैं। स्थानीय विश्लेषकों का दावा है कि राजनीतिक हलचल तेज हो गई है। इजराइल में कुछ ही दिनों बाद चुनाव है। जिसको लेकर राजनीति हलचल तेज है। इस बीच, प्रधानमंत्री बेंजामिन नेतन्याहू के सामने सत्ता बचाने की चुनौती है। सत्ता बचाने के लिए चुनाव से पहले कोई बड़ा कदम उठा सकते हैं पीएम नेतन्याहू, इजराइली विश्लेषक का दावा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "7000 रुपये में LPG, 377 रुपये में तेल, ईरान ने लगाई ऐसी लंका, हलाल ही हो गया दलाल पाकिस्तान",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-cylinder-rates-hike-upto-7000-rupees-iran-has-cut-off-lpg-10933237.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-24T10:04:13+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/lpg-pakistan-2026-10-a19815d148bd729c179a077c9fbddef7-1200x800.jpg",
-      "summary": "अमेरिका और ईरान के बीच तनाव के कारण पाकिस्तान में एक LPG सिलेंडर की कीमत 7000 रुपये तक पहुंच गई है। तेल की कीमत 377 रुपये प्रति लीटर हो गई है। Pakistan Cylinder Rates 7000: युद्ध अमेरिका और ईरान के बीच हो रहा है और पिस गया पाकिस्तान. पहले शांतिदूत बना घूम रहा था और अब वो ऐसा फंसा है कि कूटनीति तो फेल हो ही रही है, जनता को लकड़ियां बीननी पड़ रही हैं क्योंकि एक सिलेंडर की कीमत 7000 रुपये तक पहुंच गई है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "7000 रुपये में LPG, 377 रुपये में तेल, ईरान ने लगाई ऐसी लंका, हलाल ही हो गया दलाल पाकिस्तान",
-          "summary": "अमेरिका और ईरान के बीच तनाव के कारण पाकिस्तान में एक LPG सिलेंडर की कीमत 7000 रुपये तक पहुंच गई है। तेल की कीमत 377 रुपये प्रति लीटर हो गई है। Pakistan Cylinder Rates 7000: युद्ध अमेरिका और ईरान के बीच हो रहा है और पिस गया पाकिस्तान. पहले शांतिदूत बना घूम रहा था और अब वो ऐसा फंसा है कि कूटनीति तो फेल हो ही रही है, जनता को लकड़ियां बीननी पड़ रही हैं क्योंकि एक सिलेंडर की कीमत 7000 रुपये तक पहुंच गई है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हूती विद्रोहियों ने सऊदी अरब पर दागीं दो बैलिस्टिक मिसाइलें, सऊदी-नेतृत्व वाले गठबंधन की सेना ने",
-      "url": "https://www.patrika.com/world-news/saudi-led-coalition-intercepts-two-houthi-ballistic-missiles-headed-for-taif-and-yanbu-21005654",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-24T10:01:10+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/houthis-missile-strike.webp",
-      "summary": "यमन के हूती विद्रोहियों ने सऊदी अरब पर दो बैलिस्टिक मिसाइलें दागीं। सऊदी-नेतृत्व वाले गठबंधन की सेना ने इन मिसाइलों का सामना किया। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इस बीच सऊदी अरब (Saudi Arabia) और हूती विद्रोही भी समय-समय पर एक-दूसरे के खिलाफ कार्रवाई कर रहे हैं। दोनों पक्ष पिछले करीब एक महीने में एक-दूसरे पर कई हमले कर चुके हैं और अभी भी हमलों का सिलसिला थमा नहीं है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूती विद्रोहियों ने सऊदी अरब पर दागीं दो बैलिस्टिक मिसाइलें, सऊदी-नेतृत्व वाले गठबंधन की सेना ने",
-          "summary": "यमन के हूती विद्रोहियों ने सऊदी अरब पर दो बैलिस्टिक मिसाइलें दागीं। सऊदी-नेतृत्व वाले गठबंधन की सेना ने इन मिसाइलों का सामना किया। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इस बीच सऊदी अरब (Saudi Arabia) और हूती विद्रोही भी समय-समय पर एक-दूसरे के खिलाफ कार्रवाई कर रहे हैं। दोनों पक्ष पिछले करीब एक महीने में एक-दूसरे पर कई हमले कर चुके हैं और अभी भी हमलों का सिलसिला थमा नहीं है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "70000 पुलिसकर्मी, SWAT टीम, वॉटर कैनन तैयार, प्रदर्शन हिंसक हुए तो बख्शेगी नहीं फ्रांस सरकार",
-      "url": "https://hindi.news18.com/world/europe-france-protest-second-round-in-paris-70000-policemen-deployed-museums-closed-ws-l-10933223.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-24T09:51:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/france-16-2026-10-a1bf8343bf3d58672fc08d3226d58c6d-1200x800.jpg",
-      "summary": "फ्रांस में प्रदर्शनों को देखते हुए 70000 पुलिसकर्मियों की तैनाती की गई है। SWAT टीम और वॉटर कैनन भी तैयार रखी गई हैं। हालांकि इस बार पुलिस और प्रशासन भी बिल्कुल तैयार नजर आ रहा है. कुल 70000 पुलिसकर्मी तैनात हैं, ताकि पिछली बार की तरह राजधानी जल न उठे. 70000 पुलिसकर्मी, SWAT टीम, वॉटर कैनन तैयार, प्रदर्शन हिंसक हुए तो बख्शेगी नहीं फ्रांस सरकार।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "70000 पुलिसकर्मी, SWAT टीम, वॉटर कैनन तैयार, प्रदर्शन हिंसक हुए तो बख्शेगी नहीं फ्रांस सरकार",
-          "summary": "फ्रांस में प्रदर्शनों को देखते हुए 70000 पुलिसकर्मियों की तैनाती की गई है। SWAT टीम और वॉटर कैनन भी तैयार रखी गई हैं। हालांकि इस बार पुलिस और प्रशासन भी बिल्कुल तैयार नजर आ रहा है. कुल 70000 पुलिसकर्मी तैनात हैं, ताकि पिछली बार की तरह राजधानी जल न उठे. 70000 पुलिसकर्मी, SWAT टीम, वॉटर कैनन तैयार, प्रदर्शन हिंसक हुए तो बख्शेगी नहीं फ्रांस सरकार।",
-          "region": "यूरोप और रूस"
         }
       }
     }

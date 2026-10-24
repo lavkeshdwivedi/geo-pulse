@@ -1,78 +1,16 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 25, 2026 00:38 IST
-
----
-
-## दुनिया
-
-### [डाबड़ी में झंडा चौक के पास युवक की चाकू घोंपकर हत्या, हमलावरों की तलाश में जुटी पुलिस](https://www.amarujala.com/delhi-ncr/delhi-young-man-stabbed-to-death-near-jhanda-chowk-in-dabri-2026-10-25)
-*Amar Ujala Breaking* - Oct 25, 12:31 IST (iso: 2026-10-25T07:01:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2026/10/16/sharab-ka-nasha-ma-rasasa-sa-gal-kasakara-patana-ka-hataya_a8d5c168304d0586436ae4d5bb1b26fd.jpeg?w=1200&dpr=1.0 -->
-
-डाबड़ी के झंडा चौक के पास शनिवार रात एक युवक की चाकू से हत्या कर दी गई। पुलिस ने हमलावरों की तलाश शुरू कर दी है। डाबड़ी इलाके में झंडा चौक के नजदीक शनिवार देर रात एक युवक की चाकू से गोदकर हत्या कर दी गई। डाबड़ी में झंडा चौक के पास युवक की चाकू घोंपकर हत्या, हमलावरों की तलाश में जुटी पुलिस।
-
-### [गेट बंद करने के आदेश पर छात्रों का फूटा गुस्सा, बोले- हिंसक तरीके से दबाया जा रहा आंदोलन](https://www.amarujala.com/delhi-ncr/uproar-at-jamia-students-express-outrage-over-order-to-close-gates-2026-10-25)
-*Amar Ujala Breaking* - Oct 25, 12:27 IST (iso: 2026-10-25T06:57:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/1_0e88c0363284332853a53e5fa7eb581e.jpeg?w=1200&dpr=1.0 -->
-
-जामिया मिलिया इस्लामिया में छात्र संघ की मांगों को लेकर 15 दिनों से चल रहा प्रदर्शन तेज हो गया है। छात्रों ने गेट बंद करने के आदेश का विरोध किया। जामिया मिलिया इस्लामिया में छात्र संघ की मांग को लेकर पिछले 14-15 दिनों से चल रहा छात्रों का विरोध प्रदर्शन तेज हो गया है। गेट बंद करने के आदेश पर छात्रों का फूटा गुस्सा, बोले- हिंसक तरीके से दबाया जा रहा आंदोलन।
-
-### [काशी में देखेंगे वायुसेना का एयर शो, भुवनेश्वर में आरबीआई के डेटा सेंटर का करेंगे उद्घाटन](https://www.amarujala.com/india-news/pm-modi-two-state-visit-will-witness-iaf-air-show-in-kashi-and-inaugurate-an-rbi-data-center-in-bhubaneswar-2026-10-24)
-*Amar Ujala National* - Oct 25, 12:11 IST (iso: 2026-10-25T06:41:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/yapa-oura-odasha-ka-thara-para-rahaga-paema-matha_7cfe3e4df580c9c019b1fdda8c4b6c2e.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री मोदी काशी में वायुसेना के एयर शो को देखेंगे। इसके बाद वे भुवनेश्वर में आरबीआई के नए डेटा सेंटर का उद्घाटन करेंगे। काशी में देखेंगे वायुसेना का एयर शो, भुवनेश्वर में आरबीआई के डेटा सेंटर का करेंगे उद्घाटन।
-
-### [धोनी खेलेंगे या लेंगे संन्यास, दिसंबर से पहले होगा फैसला; फिटनेस और CSK के खिताबी सूखे पर क्या बोले](https://www.amarujala.com/cricket/cricket-news/ms-dhoni-ipl-future-csk-legend-to-decide-on-playing-another-season-before-december-2026-10-25)
-*Amar Ujala National* - Oct 25, 12:08 IST (iso: 2026-10-25T06:38:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/ema-esa-thhana_75039156e3d03452e7da9bff4e60b3e3.jpeg?w=1200&dpr=1.0 -->
-
-एमएस धोनी दिसंबर से पहले आईपीएल में खेलने या संन्यास लेने का फैसला करेंगे। यह निर्णय उनकी फिटनेस और सीएसके के प्रदर्शन पर निर्भर करेगा। धोनी खेलेंगे या लेंगे संन्यास, दिसंबर से पहले होगा फैसला; फिटनेस और CSK के खिताबी सूखे पर क्या बोले।
-
-### [cbse.gov.in पर कभी भी आ सकती है सीबीएसई बोर्ड परीक्षा की डेटशीट, जानें विदेशी बच्चे कब देंगे Exam](https://hindi.news18.com/news/career/education-cbse-board-exam-2027-date-sheet-download-cbse-10-12-pattern-marking-scheme-explainer-cbse-gov-in-10933911.html)
-*News18 Hindi (World)* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:19+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/CBSE-10-12-Date-Sheet-2027-2026-10-0b0036786dd4af6cf57649f9e125cfbc-1200x800.jpg -->
-
-सीबीएसई बोर्ड परीक्षा 2027 की डेटशीट जल्द जारी होगी। यह दसवीं और बारहवीं कक्षाओं के लिए लागू होगी। विदेशी स्कूलों के लिए अलग टाइम-टेबल तय किया जाएगा। नया मार्किंग स्कीम पैटर्न भी इसी के साथ सामने आएगा। CBSE Board Exam 2027 Date Sheet: देश-विदेश के लाखों स्टूडेंट्स सीबीएसई बोर्ड परीक्षा 2027 की डेटशीट जारी होने का इंतजार कर रहे हैं.
-
----
-
-## यूरोप और रूस
-
-### [पेरिस में टैंक तो इटली में सेना तैनात, 4 देशों में आखिर क्यों भड़की बगावत?](https://hindi.news18.com/world/europe-europe-protests-france-italy-spain-albania-pictures-cost-of-living-pension-crisis-photogallery-10934203.html)
-*News18 Hindi (World)* - Oct 24, 22:42 IST (iso: 2026-10-24T17:12:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Europe_Protests_AI-2026-10-d9150e9f4d4efc9337996c4ac20c9e33-1200x800.jpg -->
-
-यूरोप में स्पेन, फ्रांस और इटली सहित चार देशों में लाखों नागरिकों ने प्रदर्शन किए। महंगाई, पेंशन कटौती और बढ़ते सैन्य खर्च के खिलाफ यह आंदोलन पेरिस, मैड्रिड और मिलान में देखने को मिला। सरकारों की नीतियों पर आम जनता का असंतोष उभर रहा है। यूरोप की सड़कों पर गुस्सा उबल रहा है. कहीं पेंशन और महंगाई के खिलाफ बुजुर्ग मोर्चा संभाले हैं तो कहीं छात्र, मजदूर और युवा सरकारों की नीतियों पर सवाल उठा रहे हैं.
-
-### [ट्रेन और मिनीबस में हुई टक्कर, रूस में 6 लोगों की मौत](https://www.patrika.com/world-news/train-minibus-collision-killed-6-people-in-russia-21006324)
-*Patrika (World)* - Oct 24, 20:17 IST (iso: 2026-10-24T14:47:04+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/accident-_4cfac6.webp -->
-
-रूस के यहूदी स्वायत्त ओब्लास्ट में ट्रेन और मिनीबस की टक्कर हो गई। हादसा बिरोबिद्जान के पास निकोलायेवका-देझनेवका रेलवे सेक्शन पर हुआ। मिनीबस ने रेड लाइट पार करने की कोशिश की। इसमें छह लोगों की मौत हो गई। रूस (Russia) में आज, शनिवार, 24 अक्टूबर को एक ट्रेन और मिनीबस की टक्कर हो गई। यह हादसा दूर के पूर्वी यहूदी स्वायत्त ओब्लास्ट में हुआ।
-
-### [यूक्रेन के ड्रोन हमले में तबाह हुआ रूस का सबसे बड़ा पेट्रोकेमिकल प्लांट, मिसाइल के पुर्जे बनाने वाले](https://www.patrika.com/world-news/ukraine-drone-attack-tolyatti-petrochemical-plant-proton-electronics-21005997)
-*Patrika (World)* - Oct 24, 17:18 IST (iso: 2026-10-24T11:48:42+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Russiaattacknews.webp -->
-
-यूक्रेन ने रूस के तोलियाट्टी स्थित बड़े पेट्रोकेमिकल प्लांट पर ड्रोन हमला किया। यह संरचना सिंथेटिक रबर उत्पादन के लिए महत्वपूर्ण थी। हमले से प्लांट तबाह हो गया। रूस के तोलियाट्टी शहर में एक बड़े पेट्रोकेमिकल प्लांट पर हमला हुआ है। यूक्रेन ने इस प्लांट पर हमला करने का दावा किया है। यह प्लांट सिंथेटिक रबर बनाने वाले रूस के सबसे बड़े कारखानों में से एक माना जाता है।
-
-### [जहां से हिटलर ने देखे थे दुनिया जीतने के सपने, वो ईगल्स नेस्ट जलकर खाक, 6000 फीट ऊपर मलबे में बदली](https://hindi.news18.com/world/europe-hitler-eagles-nest-mountain-retreat-fire-bavaria-germany-suspect-arrested-10933682.html)
-*News18 Hindi (World)* - Oct 24, 17:09 IST (iso: 2026-10-24T11:39:48+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Eagle_Nest_Hitler_AP-2026-10-c91fb06439075fe80401a4fa6e37af91-1200x800.jpg -->
-
-जर्मनी के बवेरिया में हिटलर का ऐतिहासिक ठिकाना ईगल्स नेस्ट आग में जल गया। षट्शत फीट ऊंचाई पर स्थित इमारत पूरी तरह नष्ट हो गई। पुलिस ने एक संदिग्ध बाइक सवार को हिरासत में लिया। जर्मनी के बवेरिया में नाजी तानाशाह एडोल्फ हिटलर का ऐतिहासिक माउंटेन ठिकाना ईगल्स नेस्ट भीषण आग में जलकर खाक हो गया है. करीब 6000 फीट की ऊंचाई पर ओबरसाल्जबर्ग पहाड़ी पर स्थित केहलस्टीनहाउस इमारत आग की लपटों में पूरी तरह घिर गई.
-
-### [70000 पुलिसकर्मी, SWAT टीम, वॉटर कैनन तैयार, प्रदर्शन हिंसक हुए तो बख्शेगी नहीं फ्रांस सरकार](https://hindi.news18.com/world/europe-france-protest-second-round-in-paris-70000-policemen-deployed-museums-closed-ws-l-10933223.html)
-*News18 Hindi (World)* - Oct 24, 15:21 IST (iso: 2026-10-24T09:51:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/france-16-2026-10-a1bf8343bf3d58672fc08d3226d58c6d-1200x800.jpg -->
-
-फ्रांस में प्रदर्शनों को देखते हुए 70000 पुलिसकर्मियों की तैनाती की गई है। SWAT टीम और वॉटर कैनन भी तैयार रखी गई हैं। हालांकि इस बार पुलिस और प्रशासन भी बिल्कुल तैयार नजर आ रहा है. कुल 70000 पुलिसकर्मी तैनात हैं, ताकि पिछली बार की तरह राजधानी जल न उठे. 70000 पुलिसकर्मी, SWAT टीम, वॉटर कैनन तैयार, प्रदर्शन हिंसक हुए तो बख्शेगी नहीं फ्रांस सरकार।
+**अपडेट:** October 25, 2026 03:33 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित](https://www.amarujala.com/india-news/west-asia-tension-air-india-and-ai-express-riyadh-dammam-flights-cancel-other-airlines-news-update-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 12:52 IST (iso: 2026-10-25T07:22:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/09/saudi-flights-cancel_cf65a61cb2082faf8cdde82343d12978.jpeg?w=1200&dpr=1.0 -->
+
+एअर इंडिया ने पश्चिम एशिया के तनाव के कारण रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित कर दी हैं। इससे यात्रियों को 14 दिन तक वैकल्पिक मार्ग खोजने होंगे। पश्चिम एशिया तनाव: 14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित।
 
 ### [ईरान के सैन्य अधिकारी ने कही बड़ी बात, ‘अल्लाह ने चाहा तो अंतिम युद्ध में हम बनेंगे दुनिया की](https://www.patrika.com/world-news/irgc-spokesperson-says-god-willing-in-final-war-iran-will-become-absolute-superpower-of-world-21006360)
 *Patrika (World)* - Oct 24, 21:06 IST (iso: 2026-10-24T15:36:06+00:00)
@@ -110,33 +48,97 @@
 
 पोलिश यूरोपीय संसद सदस्य डोमिनिक तारचिंस्की ने पीयर्स मॉर्गन के साथ बातचीत में पोलैंड में सभी मुस्लिमों के प्रवेश पर प्रतिबंध लगाने का वादा किया। उन्होंने कतर में ईसाई गिरजाघरों की अनुमति तक यूरोप में नई मस्जिदों के निर्माण के विरोध का भी समर्थन किया। Europe Protest: यूरोपीय संसद सदस्य डोमिनिक तारचिंस्की ने ब्रिटिश ब्रॉडकास्टर पीयर्स मॉर्गन के साथ इंटरव्यू में मुस्लिम प्रवासियों को लेकर बेहद विवादित बयान दिया.
 
-### [जॉर्डन में चर्च पर आतंकी हमले की भारत ने की निंदा, आतंकवाद के खिलाफ लड़ाई जारी रखने का संकल्प](https://www.patrika.com/world-news/india-condemns-terrorist-attack-on-church-in-jordan-21005885)
-*Patrika (World)* - Oct 24, 17:10 IST (iso: 2026-10-24T11:40:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/jaiswal.webp -->
+---
 
-जॉर्डन के करक में चर्च पर हुए हमले में आठ लोग मारे गए। चालीस लोग घायल हुए। भारत ने इस घटना की कड़ी निंदा की। विदेश मंत्रालय ने आतंकवाद के खिलाफ संकल्प दोहराया। जॉर्डन (Jordan) में शुक्रवार को एक चर्च पर हुए आतंकी हमले (Terrorist Attack) में 8 लोगों की मौत हो गई और 40 लोग घायल हो गए। इस आतंकी हमले की भारत (India) ने निंदा की है।
+## दुनिया
 
-### [सत्ता बचाने के लिए चुनाव से पहले कोई बड़ा कदम उठा सकते हैं पीएम नेतन्याहू, इजराइली विश्लेषक का दावा](https://www.patrika.com/world-news/benjamin-netanyahu-election-big-step-israel-politics-survey-21005692)
-*Patrika (World)* - Oct 24, 15:36 IST (iso: 2026-10-24T10:06:00+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp -->
+### [परीक्षार्थियों को राहत देने के लिए चलेंगी अतिरिक्त बस और ट्रेनें; जानिए कब... कहां से](https://www.amarujala.com/lucknow/up-pet-exam-on-sunday-additional-buses-and-trains-will-run-to-provide-relief-to-candidates-know-the-details-2026-10-24)
+*Amar Ujala Breaking* - Oct 25, 12:46 IST (iso: 2026-10-25T07:16:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/pata-parakashha-ravavara-ka_cc56ada1d53d11682cdf9c4aaab20b6d.jpeg?w=1200&dpr=1.0 -->
 
-इजराइल में आगामी चुनावों से पहले प्रधानमंत्री बेंजामिन नेतन्याहू सत्ता बचाने के लिए बड़ा कदम उठा सकते हैं। स्थानीय विश्लेषकों का दावा है कि राजनीतिक हलचल तेज हो गई है। इजराइल में कुछ ही दिनों बाद चुनाव है। जिसको लेकर राजनीति हलचल तेज है। इस बीच, प्रधानमंत्री बेंजामिन नेतन्याहू के सामने सत्ता बचाने की चुनौती है। सत्ता बचाने के लिए चुनाव से पहले कोई बड़ा कदम उठा सकते हैं पीएम नेतन्याहू, इजराइली विश्लेषक का दावा।
+उत्तर प्रदेश प्री-एंट्रेंस टेस्ट के लिए रेलवे रविवार को विशेष ट्रेनें चलाएगा। परीक्षार्थियों की सुविधा के लिए अतिरिक्त बसें भी संचालित होंगी। UP PET Exam: परीक्षार्थियों की सुविधा के लिए रेलवे प्रशासन रविवार को स्पेशल ट्रेनों का संचालन करेगा। इसके अलावा अतिरक्ति बसें भी चलाई जाएंगी। परीक्षार्थियों को राहत देने के लिए चलेंगी अतिरिक्त बस और ट्रेनें; जानिए कब कहां से।
 
-### [7000 रुपये में LPG, 377 रुपये में तेल, ईरान ने लगाई ऐसी लंका, हलाल ही हो गया दलाल पाकिस्तान](https://hindi.news18.com/world/pakistan-pakistan-cylinder-rates-hike-upto-7000-rupees-iran-has-cut-off-lpg-10933237.html)
-*News18 Hindi (World)* - Oct 24, 15:34 IST (iso: 2026-10-24T10:04:13+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/lpg-pakistan-2026-10-a19815d148bd729c179a077c9fbddef7-1200x800.jpg -->
+### [गेट बंद करने के आदेश पर छात्रों का फूटा गुस्सा, बोले- हिंसक तरीके से दबाया जा रहा आंदोलन](https://www.amarujala.com/delhi-ncr/uproar-at-jamia-students-express-outrage-over-order-to-close-gates-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 12:27 IST (iso: 2026-10-25T06:57:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/1_0e88c0363284332853a53e5fa7eb581e.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका और ईरान के बीच तनाव के कारण पाकिस्तान में एक LPG सिलेंडर की कीमत 7000 रुपये तक पहुंच गई है। तेल की कीमत 377 रुपये प्रति लीटर हो गई है। Pakistan Cylinder Rates 7000: युद्ध अमेरिका और ईरान के बीच हो रहा है और पिस गया पाकिस्तान. पहले शांतिदूत बना घूम रहा था और अब वो ऐसा फंसा है कि कूटनीति तो फेल हो ही रही है, जनता को लकड़ियां बीननी पड़ रही हैं क्योंकि एक सिलेंडर की कीमत 7000 रुपये तक पहुंच गई है.
+जामिया मिलिया इस्लामिया में छात्र संघ की मांगों को लेकर 15 दिनों से चल रहा प्रदर्शन तेज हो गया है। छात्रों ने गेट बंद करने के आदेश का विरोध किया। जामिया मिलिया इस्लामिया में छात्र संघ की मांग को लेकर पिछले 14-15 दिनों से चल रहा छात्रों का विरोध प्रदर्शन तेज हो गया है। गेट बंद करने के आदेश पर छात्रों का फूटा गुस्सा, बोले- हिंसक तरीके से दबाया जा रहा आंदोलन।
 
-### [हूती विद्रोहियों ने सऊदी अरब पर दागीं दो बैलिस्टिक मिसाइलें, सऊदी-नेतृत्व वाले गठबंधन की सेना ने](https://www.patrika.com/world-news/saudi-led-coalition-intercepts-two-houthi-ballistic-missiles-headed-for-taif-and-yanbu-21005654)
-*Patrika (World)* - Oct 24, 15:31 IST (iso: 2026-10-24T10:01:10+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/houthis-missile-strike.webp -->
+### [काशी में देखेंगे वायुसेना का एयर शो, भुवनेश्वर में आरबीआई के डेटा सेंटर का करेंगे उद्घाटन](https://www.amarujala.com/india-news/pm-modi-two-state-visit-will-witness-iaf-air-show-in-kashi-and-inaugurate-an-rbi-data-center-in-bhubaneswar-2026-10-24)
+*Amar Ujala National* - Oct 25, 12:11 IST (iso: 2026-10-25T06:41:35+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/yapa-oura-odasha-ka-thara-para-rahaga-paema-matha_7cfe3e4df580c9c019b1fdda8c4b6c2e.jpeg?w=1200&dpr=1.0 -->
 
-यमन के हूती विद्रोहियों ने सऊदी अरब पर दो बैलिस्टिक मिसाइलें दागीं। सऊदी-नेतृत्व वाले गठबंधन की सेना ने इन मिसाइलों का सामना किया। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इस बीच सऊदी अरब (Saudi Arabia) और हूती विद्रोही भी समय-समय पर एक-दूसरे के खिलाफ कार्रवाई कर रहे हैं। दोनों पक्ष पिछले करीब एक महीने में एक-दूसरे पर कई हमले कर चुके हैं और अभी भी हमलों का सिलसिला थमा नहीं है।
+प्रधानमंत्री मोदी काशी में वायुसेना के एयर शो को देखेंगे। इसके बाद वे भुवनेश्वर में आरबीआई के नए डेटा सेंटर का उद्घाटन करेंगे। काशी में देखेंगे वायुसेना का एयर शो, भुवनेश्वर में आरबीआई के डेटा सेंटर का करेंगे उद्घाटन।
+
+### [धोनी खेलेंगे या लेंगे संन्यास, दिसंबर से पहले होगा फैसला; फिटनेस और CSK के खिताबी सूखे पर क्या बोले](https://www.amarujala.com/cricket/cricket-news/ms-dhoni-ipl-future-csk-legend-to-decide-on-playing-another-season-before-december-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 12:08 IST (iso: 2026-10-25T06:38:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/ema-esa-thhana_75039156e3d03452e7da9bff4e60b3e3.jpeg?w=1200&dpr=1.0 -->
+
+एमएस धोनी दिसंबर से पहले आईपीएल में खेलने या संन्यास लेने का फैसला करेंगे। यह निर्णय उनकी फिटनेस और सीएसके के प्रदर्शन पर निर्भर करेगा। धोनी खेलेंगे या लेंगे संन्यास, दिसंबर से पहले होगा फैसला; फिटनेस और CSK के खिताबी सूखे पर क्या बोले।
+
+### [त्योहारी सीजन में बादाम, पिस्ता, अखरोट के दाम बढ़े,कारोबारियों ने बनाया ये शानदार प्लान!](https://www.amarujala.com/video/business/business-diary/prices-of-almonds-pistachios-and-walnuts-have-risen-during-the-festive-season-traders-have-come-up-with-a-b-2026-10-25)
+*Amar Ujala National* - Oct 25, 03:30 IST (iso: 2026-10-24T22:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/dry-fruits-market_7ebccd2516a0dfce13c43817499cf8e5.jpeg?w=1200&dpr=1.0 -->
+
+त्योहारी सीजन में बादाम, पिस्ता और अखरोट के दाम बढ़ गए हैं। कारोबारियों ने इसकी भरपाई के लिए नए व्यापारिक योजनाएं बनाई हैं। त्योहारी सीजन में बादाम, पिस्ता, अखरोट के दाम बढ़े, कारोबारियों ने बनाया ये शानदार प्लान!
+
+### [बंगाल की खाड़ी में चक्रवात का खतरा: 28 अक्तूबर को आंध्र तट पहुंचने का अनुमान, राष्ट्रपति का ओडिशा](https://www.amarujala.com/india-news/bay-of-bengal-cyclone-threat-andhra-pradesh-coast-on-alert-president-murmu-odisha-visit-postponed-2026-10-25)
+*Amar Ujala National* - Oct 25, 02:15 IST (iso: 2026-10-24T20:45:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/10/26/cyclone_b71d7e25ce38bc8c778555eab75d4398.jpeg?w=1200&dpr=1.0 -->
+
+बंगाल की खाड़ी में चक्रवात 28 अक्टूबर को आंध्र प्रदेश के तट पर पहुंचने का अनुमान है। इसी वजह से राष्ट्रपति द्रौपदी मुर्मु का ओडिशा दौरा टल गया है। बंगाल की खाड़ी में चक्रवात का खतरा: 28 अक्तूबर को आंध्र तट पहुंचने का अनुमान, राष्ट्रपति का ओडिशा।
+
+### ['पिता के घर में बच्चों के यौन शोषण से जुड़ी तस्वीरें'; इस पत्र पर ब्रिटिश पुलिस का रुख क्या?](https://www.amarujala.com/world/uk-police-review-handling-of-allegations-against-meghan-markle-father-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 01:55 IST (iso: 2026-10-24T20:25:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/magana-marakal_baedd19ff414435434f28b5bd687a365.jpeg?w=1200&dpr=1.0 -->
+
+ब्रिटिश पुलिस ने मेघन मार्कल के पिता के खिलाफ यौन शोषण के आरोपों की जांच की समीक्षा शुरू की है। यह कदम पिता के घर से जुड़ी तस्वीरों के मामले में उठाया गया है। 'पिता के घर में बच्चों के यौन शोषण से जुड़ी तस्वीरें'; इस पत्र पर ब्रिटिश पुलिस का रुख क्या?
+
+### [इस दिन से लागू होगी सिम बाइंडिग, साइबर फ्रॉड रोकने के लिए सरकार की कवायद!](https://www.amarujala.com/video/technology/tip-of-the-day/sim-binding-to-come-into-effect-from-this-date-a-government-initiative-to-curb-cyber-fraud-2026-10-25)
+*Amar Ujala National* - Oct 25, 01:46 IST (iso: 2026-10-24T20:16:42+00:00)
+<!-- image: https://images.pexels.com/photos/12925433/pexels-photo-12925433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+सरकार ने साइबर फ्रॉड रोकने के लिए सिम बाइंडिंग नियम लागू करने का फैसला किया है। यह कदम डिजिटल सुरक्षा को मजबूत करने के उद्देश्य से लिया गया है। इस दिन से लागू होगी सिम बाइंडिग, साइबर फ्रॉड रोकने के लिए सरकार की कवायद!
+
+### [मासूम राजदीप का सपना CM संग सेल्फी: मुख्यमंत्री शुभेंदु बोले- पढ़ाई पर ध्यान दो, मोबाइल कम चलाओ; और](https://www.amarujala.com/india-news/howrah-rajdeep-selfie-with-cm-suvendu-west-bengal-chief-minister-says-focus-on-studies-use-mobile-less-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 01:30 IST (iso: 2026-10-24T20:00:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/suvendu-rajdeep-selfie_f3e2419165487da646230f71f4562a09.jpeg?w=1200&dpr=1.0 -->
+
+मुख्यमंत्री शुभेंदु अधिकारी ने राजदीप से सेल्फी ली और उसे पढ़ाई पर ध्यान देने की सलाह दी। उन्होंने मोबाइल का कम उपयोग करने की भी अपील की। मासूम राजदीप का सपना CM संग सेल्फी: मुख्यमंत्री शुभेंदु बोले- पढ़ाई पर ध्यान दो, मोबाइल कम चलाओ; और क्या कहा?
+
+### [1984 दंगा पीड़ित विरोध में शाह को लिखेंगे पत्र; 1 नवंबर को रामलीला मैदान में क्या होगा?](https://www.amarujala.com/india-news/1984-anti-sikh-riot-victims-to-protest-against-rahul-gandhi-rally-on-november-1-alka-lamba-react-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 01:14 IST (iso: 2026-10-24T19:44:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/rahal-gathha-ka-ral-para-1984-thaga-paugdhata-ka-varathha_c047a5141c0cd5d13a9bb92977943188.jpeg?w=1200&dpr=1.0 -->
+
+1984 के सिख विरोधी दंगों के पीड़ित परिवारों ने 1 नवंबर को दिल्ली के रामलीला मैदान में होने वाली राहुल गांधी की सभा का विरोध करने का फैसला किया है। पीड़ितों ने इस सभा को अपने पीड़ा के घावों को छेड़ने वाला कदम बताते हुए केंद्रीय गृह मंत्री अमित शाह को पत्र लिखने की घोषणा की है। इस पत्र में वे सभा के दौरान संभावित हिंसा और सुरक्षा व्यवस्था की कमी पर चिंता व्यक्त करेंगे। पीड़ितों का मानना है कि ऐसी सभाएं उनके दर्द को नजरअंदाज करती हैं और स्थिति को और बिगाड़ सकती हैं।
+
+### [cbse.gov.in पर कभी भी आ सकती है सीबीएसई बोर्ड परीक्षा की डेटशीट, जानें विदेशी बच्चे कब देंगे Exam](https://hindi.news18.com/news/career/education-cbse-board-exam-2027-date-sheet-download-cbse-10-12-pattern-marking-scheme-explainer-cbse-gov-in-10933911.html)
+*News18 Hindi (World)* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:19+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/CBSE-10-12-Date-Sheet-2027-2026-10-0b0036786dd4af6cf57649f9e125cfbc-1200x800.jpg -->
+
+सीबीएसई बोर्ड परीक्षा 2027 की डेटशीट जल्द जारी होगी। यह दसवीं और बारहवीं कक्षाओं के लिए लागू होगी। विदेशी स्कूलों के लिए अलग टाइम-टेबल तय किया जाएगा। नया मार्किंग स्कीम पैटर्न भी इसी के साथ सामने आएगा। CBSE Board Exam 2027 Date Sheet: देश-विदेश के लाखों स्टूडेंट्स सीबीएसई बोर्ड परीक्षा 2027 की डेटशीट जारी होने का इंतजार कर रहे हैं.
 
 ---
 
 ## एशिया-प्रशांत
+
+### [9 किमी में 13 जगहों पर होगा स्वागत, 1000 महिलाओं को रोजगार देने की योजना; बजेंगे ढोल](https://www.amarujala.com/uttar-pradesh/chandauli/pm-modi-kashi-welcomed-13-locations-plan-to-provide-employment-1000-women-drums-played-bjp-politics-air-show-2026-10-24)
+*Amar Ujala Breaking* - Oct 25, 12:39 IST (iso: 2026-10-25T07:09:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/eyara-sha-ka-lkara-varanaesa-ma-tayara-para_2ce0ca3604927396a09a9cf563da5553.jpeg?w=1200&dpr=1.0 -->
+
+भारतीय वायुसेना की 94वीं वर्षगांठ पर गंगा के ऊपर हवाई प्रदर्शन होगा। 9 किलोमीटर के मार्ग में 13 स्थानों पर स्वागत होगा और 1000 महिलाओं को रोजगार मिलेगा। भारतीय वायुसेना की 94वीं वर्षगांठ के अवसर पर आयोजित ‘एयर फोर्स डे एरियल डिस्प्ले-2026’ के अंतिम दिन होने वाले इस प्रदर्शन में गंगा के ऊपर भारतीय वायुसेना के लड़ाकू विमानों, हेलीकॉप्टरों और अन्य विमानों के हवाई करतब देखने को मिलेंगे।
+
+### [तेज हवाओं और गरज-चमक के साथ झमाझम बारिश, कई इलाकों में गिरे ओले, बढ़ी ठंडक](https://www.amarujala.com/delhi-ncr/weather-changes-in-delhi-ncr-heavy-rain-accompanied-by-strong-winds-thunder-and-lightning-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 02:12 IST (iso: 2026-10-24T20:42:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/1_afb8d7a0f3a09f18b56811d0f9cb44e8.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली-एनसीआर में तेज हवाओं और गरज-चमक के साथ झमाझम बारिश हुई। कई इलाकों में ओले गिरे और तापमान में गिरावट आई। मौसम में अचानक बदलाव दर्ज किया गया। दिल्ली-एनसीआर में मौसम बदल गया है। तेज हवाओं और गरज-चमक के साथ झमाझम बारिश, कई इलाकों में गिरे ओले, बढ़ी ठंडक।
+
+### [ग्रैप लागू, फिर भी धूल के हवाले दिल्ली की सड़कें, उतारी जाएंगी चार नई एंटी-स्मोक गन](https://www.amarujala.com/delhi-ncr/crisis-deepens-grap-is-in-force-yet-delhi-s-streets-remain-choked-with-dust-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 01:45 IST (iso: 2026-10-24T20:15:47+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/1_27e7ec2d693dd3cbce32bac142f6d4f2.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में ग्रैप-1 लागू होने के बावजूद सड़कों पर धूल और निर्माण मलबा पड़ा है। प्रशासन ने नियमों का पालन न होने पर चार नई एंटी-स्मोक गन लगाने का निर्देश दिया है। प्रदूषण से निपटने के लिए ग्रैप-1 लागू है, लेकिन सड़कों पर धूल, महीनों से पड़ा निर्माण मलबा और खुले में पड़ी निर्माण सामग्री बता रही है कि नियमों का पालन नहीं हो रहा है।
 
 ### ['गैंगरेप पीड़िता को 2 करोड़, जज को भी दी रिश्वत' मरियम नवाज का फूटा गुस्सा, बेल पाकर भी आरोपी](https://hindi.news18.com/world/pakistan-2-crore-pkr-to-azerbaijan-gang-rape-victim-bribe-also-paid-to-the-judge-for-bail-maryam-nawaz-lashes-out-accused-arrested-out-of-court-10933983.html)
 *News18 Hindi (World)* - Oct 24, 19:16 IST (iso: 2026-10-24T13:46:24+00:00)
@@ -150,27 +152,21 @@
 
 पाकिस्तान में इस साल अब तक 55 से अधिक गंभीर ट्रेन हादसे हुए हैं। खराब ट्रैक और पुरानी ट्रेनों की वजह से यह स्थिति बनी। रेलवे मंत्री हनीफ अब्बासी ने तीन महीने की इमरजेंसी लगाई है। सभी फील्ड अफसरों की छुट्टियां 31 दिसंबर तक रद्द कर दी गई हैं। पाकिस्तान में खस्ताहाल रेलवे ट्रैक और कबाड़ ट्रेनों की वजह से आए दिन हो रहे हादसों ने पूरे मुल्क को हिलाकर रख दिया है.
 
-### [ट्रंप से होनी थी मुलाकात, उधर बिन बताए चीन पहुंचे किम जोंग उन, दक्षिण कोरिया की बढ़ी टेंशन](https://hindi.news18.com/world/rest-of-world-north-korea-kim-jong-un-makes-unannounced-visit-to-chinese-border-city-ws-l-10933603.html)
-*News18 Hindi (World)* - Oct 24, 16:25 IST (iso: 2026-10-24T10:55:35+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Kim-Jong-Un-Reuters-2026-08-40960f4ef68b392739b83803f3304adc-1200x800.jpg -->
-
-किम जोंग उन बिना घोषणा के चीन पहुंच गए। वे नई यालू नदी सेतु से प्रवेश किए। अमेरिका से मुलाकात की उम्मीदों के बीच यह कदम दक्षिण कोरिया में चिंता बढ़ा रहा है। Kim Jong Un China Visit: कहां किम जोंग उन से अमेरिकी राष्ट्रपति की मुलाकात को लेकर अटकलें लगाई जा रही थीं और कहां वो बिना किसी घोषणा के ही चीन पहुंच गए.
-
 ---
 
-## अमेरिका
+## यूरोप और रूस
 
-### [अमेरिकी सैन्य ठिकानों पर काली परछाई किसकी? 2896KMPH की स्पीड से उड़ रही थी तिकोनी चीज, पेंटागन-CIA](https://hindi.news18.com/world/america-mysterious-triangular-objects-with-2896-kmph-speed-spotted-over-us-military-bases-inside-story-ws-l-10933793.html)
-*News18 Hindi (World)* - Oct 24, 17:50 IST (iso: 2026-10-24T12:20:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/ufo-files-2026-10-44aea5ee88c01b701773b1ed6cec5ff6-1200x800.jpg -->
+### [पेरिस में टैंक तो इटली में सेना तैनात, 4 देशों में आखिर क्यों भड़की बगावत?](https://hindi.news18.com/world/europe-europe-protests-france-italy-spain-albania-pictures-cost-of-living-pension-crisis-photogallery-10934203.html)
+*News18 Hindi (World)* - Oct 24, 22:42 IST (iso: 2026-10-24T17:12:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Europe_Protests_AI-2026-10-d9150e9f4d4efc9337996c4ac20c9e33-1200x800.jpg -->
 
-अमेरिकी सैन्य ठिकानों के ऊपर 2896 किमी प्रति घंटे की गति से उड़ती त्रिकोणीय काली परछाईं देखी गई। पेंटागन और सीआईए इस रहस्यमय वस्तु की पहचान करने में असमर्थ हैं। सुरक्षा एजेंसियां अभी तक इसकी प्रकृति पर स्पष्टता नहीं दे पाई हैं। Mysterious objects spotted over us Military Bases: दुनिया के सबसे ताकतवर देश के सैन्य बेस के आसपास अगर कोई परिंदा भी पर मारता है, तो उसकी जांच शुरू हो जाती है.
+यूरोप में स्पेन, फ्रांस और इटली सहित चार देशों में लाखों नागरिकों ने प्रदर्शन किए। महंगाई, पेंशन कटौती और बढ़ते सैन्य खर्च के खिलाफ यह आंदोलन पेरिस, मैड्रिड और मिलान में देखने को मिला। सरकारों की नीतियों पर आम जनता का असंतोष उभर रहा है। यूरोप की सड़कों पर गुस्सा उबल रहा है. कहीं पेंशन और महंगाई के खिलाफ बुजुर्ग मोर्चा संभाले हैं तो कहीं छात्र, मजदूर और युवा सरकारों की नीतियों पर सवाल उठा रहे हैं.
 
-### [15 महीने में विनाश देखेगी दुनिया, अमेरिकी नास्त्रेदमस की भविष्यवाणी से हड़कंप, जो सोचा भी नहीं है](https://hindi.news18.com/world/america-american-nostradamus-predicted-apocalypse-terrifying-nuke-attacks-global-war-collapse-of-us-prediction-2028-10933611.html)
-*News18 Hindi (World)* - Oct 24, 17:00 IST (iso: 2026-10-24T11:30:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/APOCALYPSE-PREDICTION-2026-10-332b8d483eddbcfc21496aff801bfe72-1200x800.jpg -->
+### [ट्रेन और मिनीबस में हुई टक्कर, रूस में 6 लोगों की मौत](https://www.patrika.com/world-news/train-minibus-collision-killed-6-people-in-russia-21006324)
+*Patrika (World)* - Oct 24, 20:17 IST (iso: 2026-10-24T14:47:04+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/accident-_4cfac6.webp -->
 
-अमेरिका के एक भविष्यवक्ता ने अगले पंद्रह महीनों को खतरनाक बताया। उन्हें अमेरिकी नास्त्रेदमस कहा जाता है। उन्होंने मानवता के लिए गंभीर जोखिम की चेतावनी दी है। ऐसे ही एक भविष्यवक्ता ने बताया है कि आने वाले 15 महीने इंसानियत के लिए खतरनाक होने वाले हैं. इन्हें अमेरिका का नास्त्रेदमस भी कहा जाता है. 15 महीने में विनाश देखेगी दुनिया, अमेरिकी नास्त्रेदमस की भविष्यवाणी से हड़कंप, जो सोचा भी नहीं है।
+रूस के यहूदी स्वायत्त ओब्लास्ट में ट्रेन और मिनीबस की टक्कर हो गई। हादसा बिरोबिद्जान के पास निकोलायेवका-देझनेवका रेलवे सेक्शन पर हुआ। मिनीबस ने रेड लाइट पार करने की कोशिश की। इसमें छह लोगों की मौत हो गई। रूस (Russia) में आज, शनिवार, 24 अक्टूबर को एक ट्रेन और मिनीबस की टक्कर हो गई। यह हादसा दूर के पूर्वी यहूदी स्वायत्त ओब्लास्ट में हुआ।
 
 ---
 
