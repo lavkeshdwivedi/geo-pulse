@@ -1,92 +1,34 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 24, 2026 07:39 IST
-
----
-
-## Europe & Russia
-
-### [Shooting in Paris suburbs kills one, wounds 5 in suspected racist attack](https://www.thehindu.com/news/international/suspect-arrested-after-one-killed-several-wounded-in-paris-suburb-shooting/article71616087.ece)
-*The Hindu (International)* - Oct 24, 06:36 IST (iso: 2026-10-24T01:06:36+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/39dkfy/article71616161.ece/alternates/LANDSCAPE_1200/2026-10-23T122345Z_1677841562_RC209OA9ZGTG_RTRMADP_3_FRANCE-SECURITY-SHOOTING.JPG -->
-
-Police arrested Kévin T, a 38-year-old man, in the Paris suburbs less than 20 minutes after he opened fire. The attack left one person dead and five others wounded. French authorities are investigating the incident as a suspected racist crime. The National Anti-Terrorism Prosecutor's office confirmed the suspect's identity but withheld his surname. The suspect, who was arrested by police less than 20 minutes after he first started shooting, has been identified only as Kévin T, born in 1987, the National Anti-Terrorism Prosecutor's office said.
-
-### [Asian football endorses Infantino re-election in apparent U-turn](https://www.thehindu.com/sport/asian-football-endorses-infantino-re-election-in-apparent-u-turn/article71617950.ece)
-*The Hindu (International)* - Oct 24, 03:25 IST (iso: 2026-10-23T21:55:32+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/rqzn65/article71617951.ece/alternates/LANDSCAPE_1200/2026-10-23T214632Z_953935094_RC2Z6MAXLC31_RTRMADP_3_MOROCCO-ECONOMY.JPG -->
-
-Gianni Infantino received explicit support from Asian football leaders during a Tokyo meeting of the Asian Football Confederation. President Sheikh Salman bin Ebrahim al-Khalifa offered unequivocal backing for the Swiss official’s re-election bid. This endorsement marks a notable shift in regional sentiment. The move significantly strengthens Infantino’s position as he seeks to extend his tenure at the head of world football.
-
-### [White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City](https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html)
-*Radio Free Europe / Liberty* - Oct 23, 22:02 IST (iso: 2026-10-23T16:32:19+00:00)
-<!-- image: https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg -->
-
-Melania Trump brokered a localized cease-fire for Oleshky, a Russian-occupied Ukrainian city. Kyiv confirmed preparations for humanitarian corridors. Non-military teams will visit residents to coordinate civilian evacuations. An American media organization will document the process. US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilians.
-
-### [An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China](https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html)
-*Radio Free Europe / Liberty* - Oct 23, 18:04 IST (iso: 2026-10-23T12:34:21+00:00)
-<!-- image: https://gdb.rferl.org/f5107528-9ca2-4411-8276-08ddd95ee7ae_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Russian officials face growing doubts about the Northern Sea Route's viability as a reliable trade corridor to China. The Kremlin invested heavily in the route, betting that retreating Arctic ice would open a path beyond Ukrainian drone strikes and European naval interdiction. Recent traffic congestion along the waterway has exposed the practical difficulties of navigating through remaining ice. The route remains a strategic priority, but operational challenges are complicating the timeline for consistent commercial use.
-
-### [Serbia's Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears](https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html)
-*Radio Free Europe / Liberty* - Oct 23, 11:19 IST (iso: 2026-10-23T05:49:50+00:00)
-<!-- image: https://gdb.rferl.org/75d53c8b-2b55-4562-e8e3-08df13a87301_w1200_h630.jpg -->
-
-Aleksandar Vucic faces his toughest parliamentary election challenge in fourteen years on October 25. An opposition movement born from student protests threatens his long-standing dominance. Growing concerns persist over whether the voting process will be conducted fairly. After 14 years dominating Serbian politics, Aleksandar Vucic faces the biggest challenge to his rule in parliamentary elections on October 25 from an opposition movement that has sprung from mass student protests.
-
-### [Deportations And Jail Terms Leave Tajik Dissidents In Europe Fearing For Their Future](https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html)
-*Radio Free Europe / Liberty* - Oct 22, 22:32 IST (iso: 2026-10-22T17:02:05+00:00)
-<!-- image: https://gdb.rferl.org/01000000-0aff-0242-7582-08dc4438eca6_cx0_cy0_cw99_w1200_h630.png -->
-
-Tajik dissidents report feeling abandoned by Western nations following recent deportations. Several opposition figures were expelled from Germany and other European countries. They face imprisonment upon returning to Tajikistan. Exiled activists now fear losing the diplomatic support they previously relied on for protection. The deportation of several Tajik opposition figures from Germany and other European countries, and their subsequent imprisonment, have heightened fears among Tajik oppositionists in exile.
-
-### [Ukraine Cuts Chinese Drone Dependence, But Critical Gaps Remain](https://www.rferl.org/a/ukraine-cuts-chinese-drone-dependence-but-critical-gaps-remain/33881578.html)
-*Radio Free Europe / Liberty* - Oct 22, 16:35 IST (iso: 2026-10-22T11:05:20+00:00)
-<!-- image: https://gdb.rferl.org/465d222a-0fdd-4c63-7433-08df13a869ed_w1200_h630.jpg -->
-
-Ukraine has sharply reduced its reliance on Chinese drone components since 2022. However, critical parts remain difficult to replace at scale and cost. This leaves a persistent dependency on Beijing for essential military hardware. In 2022, Ukraine relied almost entirely on Chinese components for its military drones. While that dependency has now been drastically reduced, Ukraine still relies on Beijing for essential parts that remain difficult to replace at the necessary scale and cost.
-
-### [Australia’s NextDC stock collapse fires a global AI warning](https://asiatimes.com/2026/10/australias-nextdc-stock-collapse-fires-a-global-ai-warning/)
-*Asia Times* - Oct 22, 12:38 IST (iso: 2026-10-22T07:08:33+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/NextDC-AI-Data-Centers.jpg -->
-
-Australia’s NextDC stock collapse signals a shift in data center investment. AI’s high computing demands have disrupted the sector’s traditional stability. Investors now face heightened risk as infrastructure costs surge to meet new requirements. For two decades, data centers were relatively safe, lucrative real estate investments. They attracted investors because they served as digital infrastructure. the essential plumbing that keeps the internet running.
-
-### [Trump Says Musk Has Lifted Starlink Restrictions On Ukraine While Kyiv Reports Ongoing Issues](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
-*Radio Free Europe / Liberty* - Oct 22, 11:07 IST (iso: 2026-10-22T05:37:19+00:00)
-<!-- image: https://gdb.rferl.org/99d92bba-85d1-439e-4563-08df13a884cb_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.
-
-### [American Stephen Hubbard Freed After More Than 4 Years In Russian Custody](https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html)
-*Radio Free Europe / Liberty* - Oct 22, 01:27 IST (iso: 2026-10-21T19:57:46+00:00)
-<!-- image: https://gdb.rferl.org/910b612f-ed88-4aa5-e8cb-08df13afe2a0_cx0_cy1_cw0_w1200_h630.jpg -->
-
-Russian authorities released Stephen Hubbard, a 74‑year‑old American, after more than four years in custody. Russia has released 74-year-old US citizen Stephen Hubbard, who had been detained since 2022. He had been sentenced to prison for allegedly acting as a mercenary in Ukraine, charges his family disputed. President Vladimir Putin announced Hubbard’s release during talks with US envoy Steve Witkoff.
+**Updated:** October 24, 2026 13:11 IST
 
 ---
 
 ## Asia-Pacific
 
-### [Taiwan says China using militia boats to expand 'battlefield preparation' in western Pacific](https://www.thehindu.com/news/international/taiwan-says-china-using-militia-boats-to-expand-battlefield-preparation-in-western-pacific/article71617717.ece)
-*The Hindu (International)* - Oct 24, 00:37 IST (iso: 2026-10-23T19:07:15+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/xzz98z/article71617751.ece/alternates/LANDSCAPE_1200/2026-07-09T073648Z_295346332_RC22AMA0FXI8_RTRMADP_3_TAIWAN-CHINA-SECURITY.JPG -->
+### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
+*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
 
-Taiwan’s coast guard identified a suspected Chinese militia fishing boat, Minfudingyu 07902, operating within 2.7 nautical miles of its restricted waters on August 16. The vessel’s proximity marks a significant escalation in what Taipei describes as Beijing’s battlefield preparation in the western Pacific. This incident highlights the increasing use of non-military assets to test boundaries and project influence. The development underscores the shifting dynamics of maritime security in the region.
+Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
+
+### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
+*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
+
+China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
+
+### [Taiwan counts 1 dead and 527 injured after Typhoon Champi sweeps past](https://www.channelnewsasia.com/east-asia/taiwan-counts-1-dead-and-527-injured-after-typhoon-champi-sweeps-past-6488446)
+*Channel News Asia* - Oct 24, 09:04 IST (iso: 2026-10-24T03:34:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Dvdxmchh--/c_crop,h_450,w_800,x_0,y_38/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-24T022116Z_3_LYNXMPEM9N01D_RTROPTP_3_ASIA-WEATHER-CHAMPI.JPG?itok=SkJy80nG -->
+
+Typhoon Champi struck Taiwan, killing one person and injuring 527 others. The storm weakened from super typhoon status but still produces wind gusts of 126 kilometres per hour near its centre. Taiwan's Central Weather Administration confirmed the damage and ongoing severe weather conditions across the island. Once a super typhoon and one of the strongest storms in the Pacific this year, Champi has weakened but continues to pack wind gusts of around 126 kilometres per hour near its centre, according to Taiwan's Central Weather Administration.
 
 ### [US-China AI race turning ASEAN neutrality into a liability](https://asiatimes.com/2026/10/us-china-ai-race-turning-asean-neutrality-into-a-liability/)
 *Asia Times* - Oct 23, 11:16 IST (iso: 2026-10-23T05:46:45+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2021/05/China-Data-Centers-Guizhou-Province.jpg -->
 
 The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Southeast Asian nations previously leveraged ties with both powers for economic gain. Competing technology networks now force governments to choose sides, reducing their diplomatic flexibility and strategic room for maneuver. For decades, Southeast Asia has turned great-power rivalry to an economic advantage. By maintaining healthy ties with Washington and Beijing, ASEAN governments attracted investment, expanded trade and preserved room for diplomatic maneuver.
-
-### [China’s new drone mothership targets US undersea edge](https://asiatimes.com/2026/10/chinas-new-drone-mothership-targets-us-undersea-edge/)
-*Asia Times* - Oct 22, 11:41 IST (iso: 2026-10-22T06:11:09+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-mothership-UUVs.jpg -->
-
-China built a second drone mothership to launch submarine-sized uncrewed vessels. The platform targets US undersea dominance in the Western Pacific. This capability extends autonomous power beyond the First Island Chain. It systematically challenges American submarine operations in the region. China’s development of specialized naval auxiliaries designed to transport, launch and recover submarine-sized uncrewed vessels signals an assertive push to project autonomous undersea power beyond the First Island Chain and systematically challenge US submarine dominance in the Western Pacific.
 
 ### [North Korea prepares to restart propaganda loudspeakers as ties sour with South](https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea)
 *The Guardian* - Oct 22, 09:26 IST (iso: 2026-10-22T03:56:46+00:00)
@@ -108,7 +50,35 @@ New Taipei prosecutors charged five men with plotting to injure comedian Huang Y
 
 ---
 
+## World
+
+### [Fire breaks out at Hitler's mountain retreat, suspect arrested](https://www.thehindu.com/news/international/fire-breaks-out-at-hitlers-mountain-retreat-suspect-arrested/article71619208.ece)
+*The Hindu (International)* - Oct 24, 11:57 IST (iso: 2026-10-24T06:27:00+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/xik5jj/article71619262.ece/alternates/LANDSCAPE_1200/AFP__20261024__D4AB46N__v2__HighRes__TopshotGermanyHistoryPoliceFireHitler.jpg -->
+
+A fire broke out at the Eagle's Nest, Hitler's mountain retreat built between 1937 and 1938. Authorities arrested a suspect in connection with the incident. The site remains a toxic legacy of the Third Reich and its mass atrocities. Built between 1937 and 1938, the Eagle's Nest forms part of the toxic legacy of Hitler's Third Reich, which was responsible for the deaths of millions of Jews along with Roma, LGBTQ people and Communists in the Holocaust.
+
+---
+
 ## Middle East & Africa
+
+### [Israel launches West Bank operation after attack days before election](https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581)
+*Channel News Asia* - Oct 24, 11:01 IST (iso: 2026-10-24T05:31:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--2LtXtu8U--/c_crop,h_450,w_800,x_0,y_27/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-23T144053Z_2_LYNXMPEM9M1A8_RTROPTP_3_ISRAEL-PALESTINIANS-HEBRON-SETTLERS.JPG?itok=ggM4O9Xg -->
+
+Israel launched a days-long military operation in the occupied West Bank on Friday. The campaign involved searches and demolitions after gunmen killed two soldiers. The attack occurred just days before national elections where security is a central issue. Israel's military forces launched a days-long operation on Friday (Oct 23) involving searches and demolitions in the occupied West Bank after gunmen killed two soldiers, just days before elections in which security is a key issue.
+
+### [As Israeli election nears, campaign turns ugly](https://www.thehindu.com/news/international/as-israeli-election-nears-campaign-turns-ugly/article71618997.ece)
+*The Hindu (International)* - Oct 24, 10:55 IST (iso: 2026-10-24T05:25:55+00:00)
+<!-- image: https://th-i.thgim.com/public/news/international/b8qfj2/article71618998.ece/alternates/LANDSCAPE_1200/Israelelections.jpg -->
+
+The Israeli election campaign has turned ugly as candidates flood social media with AI-generated images. Activists portray opponents as weak or untrustworthy to sway public opinion. The strategy relies on stereotypes and fears to influence voters during the final days of the race. Fuelled in part by a boom in AI-generated images flooding social media, candidates and activists are seeking to portray their opponents as weak, untrustworthy or damaging for the country as they play on stereotypes and fears to sway public opinion.
+
+### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
+*Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Israel-Orthodox-Jews.jpg -->
+
+Israeli authorities detained dozens of Haredi men on 20 October 2026, a week before national elections. Prime Minister Benjamin Netanyahu condemned the draft evasion arrests as unacceptable. The incident highlights the political leverage ultra-Orthodox parties hold over Netanyahu's electoral prospects following a 2024 court ruling on military service exemptions. On October 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable.” The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis.
 
 ### [Every Day We 'Wake Up Poorer': Iranians Battle Economic Woes](https://www.rferl.org/a/iran-economy-war-sanctions-cost-living-inflation/33882913.html)
 *Radio Free Europe / Liberty* - Oct 23, 20:58 IST (iso: 2026-10-23T15:28:39+00:00)
@@ -146,11 +116,51 @@ Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30
 
 Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
 
-### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
-*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
+---
 
-Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The diagnosis marks the outbreak's spread into West Africa's most populous nation. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
+## Europe & Russia
+
+### [White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City](https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html)
+*Radio Free Europe / Liberty* - Oct 23, 22:02 IST (iso: 2026-10-23T16:32:19+00:00)
+<!-- image: https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg -->
+
+Melania Trump brokered a localized cease-fire for Oleshky, a Russian-occupied Ukrainian city. Kyiv confirmed preparations for humanitarian corridors. Non-military teams will visit residents to coordinate civilian evacuations. An American media organization will document the process. US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilians.
+
+### [An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China](https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html)
+*Radio Free Europe / Liberty* - Oct 23, 18:04 IST (iso: 2026-10-23T12:34:21+00:00)
+<!-- image: https://gdb.rferl.org/f5107528-9ca2-4411-8276-08ddd95ee7ae_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Russian officials face growing doubts about the Northern Sea Route's viability as a reliable trade corridor to China. The Kremlin invested heavily in the route, betting that retreating Arctic ice would open a path beyond Ukrainian drone strikes and European naval interdiction. Recent traffic congestion along the waterway has exposed the practical difficulties of navigating through remaining ice. The route remains a strategic priority, but operational challenges are complicating the timeline for consistent commercial use.
+
+### [Serbia's Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears](https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html)
+*Radio Free Europe / Liberty* - Oct 23, 11:19 IST (iso: 2026-10-23T05:49:50+00:00)
+<!-- image: https://gdb.rferl.org/75d53c8b-2b55-4562-e8e3-08df13a87301_w1200_h630.jpg -->
+
+Aleksandar Vucic faces his toughest parliamentary election challenge in fourteen years on October 25. An opposition movement born from student protests threatens his long-standing dominance. Growing concerns persist over whether the voting process will be conducted fairly. After 14 years dominating Serbian politics, Aleksandar Vucic faces the biggest challenge to his rule in parliamentary elections on October 25 from an opposition movement that has sprung from mass student protests.
+
+### [Deportations And Jail Terms Leave Tajik Dissidents In Europe Fearing For Their Future](https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html)
+*Radio Free Europe / Liberty* - Oct 22, 22:32 IST (iso: 2026-10-22T17:02:05+00:00)
+<!-- image: https://gdb.rferl.org/01000000-0aff-0242-7582-08dc4438eca6_cx0_cy0_cw99_w1200_h630.png -->
+
+Tajik dissidents report feeling abandoned by Western nations following recent deportations. Several opposition figures were expelled from Germany and other European countries. They face imprisonment upon returning to Tajikistan. Exiled activists now fear losing the diplomatic support they previously relied on for protection. The deportation of several Tajik opposition figures from Germany and other European countries, and their subsequent imprisonment, have heightened fears among Tajik oppositionists in exile.
+
+### [Ukraine Cuts Chinese Drone Dependence, But Critical Gaps Remain](https://www.rferl.org/a/ukraine-cuts-chinese-drone-dependence-but-critical-gaps-remain/33881578.html)
+*Radio Free Europe / Liberty* - Oct 22, 16:35 IST (iso: 2026-10-22T11:05:20+00:00)
+<!-- image: https://gdb.rferl.org/465d222a-0fdd-4c63-7433-08df13a869ed_w1200_h630.jpg -->
+
+Ukraine has sharply reduced its reliance on Chinese drone components since 2022. However, critical parts remain difficult to replace at scale and cost. This leaves a persistent dependency on Beijing for essential military hardware. In 2022, Ukraine relied almost entirely on Chinese components for its military drones. While that dependency has now been drastically reduced, Ukraine still relies on Beijing for essential parts that remain difficult to replace at the necessary scale and cost.
+
+### [Trump Says Musk Has Lifted Starlink Restrictions On Ukraine While Kyiv Reports Ongoing Issues](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
+*Radio Free Europe / Liberty* - Oct 22, 11:07 IST (iso: 2026-10-22T05:37:19+00:00)
+<!-- image: https://gdb.rferl.org/99d92bba-85d1-439e-4563-08df13a884cb_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.
+
+### [American Stephen Hubbard Freed After More Than 4 Years In Russian Custody](https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html)
+*Radio Free Europe / Liberty* - Oct 22, 01:27 IST (iso: 2026-10-21T19:57:46+00:00)
+<!-- image: https://gdb.rferl.org/910b612f-ed88-4aa5-e8cb-08df13afe2a0_cx0_cy1_cw0_w1200_h630.jpg -->
+
+Russian authorities released Stephen Hubbard, a 74‑year‑old American, after more than four years in custody. Russia has released 74-year-old US citizen Stephen Hubbard, who had been detained since 2022. He had been sentenced to prison for allegedly acting as a mercenary in Ukraine, charges his family disputed. President Vladimir Putin announced Hubbard’s release during talks with US envoy Steve Witkoff.
 
 ---
 
@@ -161,12 +171,6 @@ Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Ugand
 <!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
 
 Alberta plans to restrict rights for migrant workers despite previously welcoming them. Vanesa Ortiz, a Mexican resident in Calgary, criticized the move as scapegoating. She argued such measures will not lower the cost of living. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
-
-### [Alberta voters overwhelmingly reject plan to leave Canada in referendum](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
-*The Guardian* - Oct 20, 21:54 IST (iso: 2026-10-20T16:24:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f -->
-
-Alberta voters rejected a proposal to begin the independence process by a wide margin. Nearly 1.9 million votes were counted, with 76 percent supporting remaining in Canada. The result delivered a decisive victory for Prime Minister Mark Carney and supporters of Canadian unity. Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% ba.
 
 ---
 

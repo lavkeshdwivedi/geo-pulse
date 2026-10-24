@@ -1,176 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 24, 2026 07:39 IST
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [ईरान के निशाने पर अमेरिकी राजनयिक: खुफिया रिपोर्ट में जारी की गई चेतावनी, क्या पश्चिम एशिया में](https://www.amarujala.com/world/us-diplomats-in-iran-s-crosshairs-warning-issued-in-intelligence-report-will-conflict-in-west-asia-escalate-2026-10-24)
-*Amar Ujala World* - Oct 24, 07:37 IST (iso: 2026-10-24T02:07:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/12/us-iran-war_20b220cfbfa9ac73f8442a1db5b31793.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी खुफिया रिपोर्ट ने चेतावनी दी है कि ईरान अमेरिकी राजनयिकों को निशाने पर रख सकता है। यह रिपोर्ट पश्चिम एशिया में संभावित टकराव के बढ़ते जोखिम पर प्रकाश डालती है। ईरान के निशाने पर अमेरिकी राजनयिक: खुफिया रिपोर्ट में जारी की गई चेतावनी, क्या पश्चिम एशिया में बढ़ेगा टकराव?
-
-### [नेतन्याहू को टक्कर दे रहे पूर्व सेना प्रमुख गादी, भाषण नहीं, सीधे मुद्दों से बढ़ाई मुश्किलें](https://www.amarujala.com/world/israel-elections-2026-former-military-chief-gadi-eisenkot-challenges-netanyahu-with-a-direct-campaign-style-2026-10-24)
-*Amar Ujala National* - Oct 24, 07:24 IST (iso: 2026-10-24T01:54:53+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/israel-elections-2026-explained-benjamin-netanyahu-know-how-voting-system-works-and-who-are-contende_5c128f64c86f69a55a7fe82126dd6168.jpeg?w=1200&dpr=1.0 -->
-
-पूर्व सेना प्रमुख गादी आइज़ेनकोट ने सीधे मुद्दों पर चर्चा कर नेतन्याहू को चुनौती दी। इस रणनीति ने 2026 के चुनावों में उनके प्रतिद्वंद्वी की मुश्किलें बढ़ा दी हैं। नेतन्याहू को टक्कर दे रहे पूर्व सेना प्रमुख गादी, भाषण नहीं, सीधे मुद्दों से बढ़ाई मुश्किलें।
-
-### [‘Iran के बाद क्यूबा की बारी’, Trump ने फिर कर दिया ऐलान, कहा- अमेरिकी युद्धपोत क्यूबा के तट के पास](https://www.patrika.com/world-news/trump-says-cuba-next-after-iran-us-warships-may-stop-near-coast-21004566)
-*Patrika (World)* - Oct 24, 07:14 IST (iso: 2026-10-24T01:44:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump.IANS_.webp -->
-
-ट्रंप ने कहा कि ईरान से लौटते अमेरिकी युद्धपोत क्यूबा के तट पर रुक सकते हैं। उन्होंने इसे फ्लोरिडा रैली में मध्यावधि चुनावों से पहले घोषित किया। Trump statement on Cuba: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एकबार फिर क्यूबा पर कब्जे जैसी बात कही है। ट्रंप ने बीते शुक्रवार को कहा कि ईरान युद्ध से लौट रहे अमेरिकी युद्धपोत क्यूबा के पास कुछ देर के लिए रुक सकते हैं।
-
-### [ट्रंप को पिंजरे में दिखा अपना गुस्सा जता रहे ईरानी; बिलबोर्ड पर दिखाए जा रहे हमलों के दृश्य](https://www.amarujala.com/world/iran-unique-protest-against-trump-lookalike-of-us-president-confined-in-iron-cage-in-tehran-2026-10-24)
-*Amar Ujala Breaking* - Oct 24, 07:07 IST (iso: 2026-10-24T01:37:25+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/pajara-ma-amaraka-rashhatarapata-ka-hamashakal_7272f0d33e40654d7d8eedfc34687b62.jpeg?w=1200&dpr=1.0 -->
-
-तेहरान में ट्रंप के समान व्यक्ति को लोहे के पिंजरे में बंद करके प्रदर्शन किया गया। बिलबोर्ड पर अमेरिकी हमलों के दृश्य दिखाए जा रहे हैं। ट्रंप को पिंजरे में दिखा अपना गुस्सा जता रहे ईरानी; बिलबोर्ड पर दिखाए जा रहे हमलों के दृश्य।
+**अपडेट:** October 24, 2026 13:11 IST
 
 ---
 
 ## दुनिया
 
-### [पीएम किसान योजना की 24वीं किस्त की आ गई तारीख, जानें किस दिन आपके खाते में आएंगे 2-2 हजार रुपये](https://www.amarujala.com/photo-gallery/utility/pm-kisan-yojana-24th-installment-will-be-released-on-30-october-2026-ko-24-kist-release-hogi-2026-10-24)
-*Amar Ujala National* - Oct 24, 07:34 IST (iso: 2026-10-24T02:04:43+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/paema-kasana-yajana-ka-24va-kasata-jara-hana-ka-data-aa-gaii-ha_3ac3326de30385a8aec214a294b38e25.jpeg?w=1200&dpr=1.0 -->
+### [करीना कपूर ने अभिनेता को बताया 'सबसे कूल पति', छोटे नवाब के जवाब ने खींचा फैंस का ध्यान](https://www.amarujala.com/entertainment/kareena-kapoor-calls-saif-ali-khan-the-coolest-husband-his-response-catch-attention-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:59 IST (iso: 2026-10-24T07:29:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/safa-al-khana-karana-kapara_251881ba55c9d39d6a3b04829a796145.jpeg?w=1200&dpr=1.0 -->
 
-सरकार ने पीएम किसान योजना की 24वीं किस्त जारी करने की तारीख घोषित कर दी है। करोड़ों पात्र किसानों के बैंक खातों में 2-2 हजार रुपये जमा होंगे। पीएम किसान योजना की इस बार 24वीं किस्त जारी होनी है जिसका करोड़ों पात्र किसानों को इंतजार है वहीं, अब 24वीं किस्त का इंतजार खत्म हो गया है क्योंकि सरकार ने बता दिया है कि वो किस दिन किसानों के बैंक खाते में 2-2 हजार रुपये भेजेगी।
+सैफ अली खान ने इंस्टाग्राम पर म्यूजिक बजाते हुए वीडियो शेयर किया। करीना कपूर ने उन्हें सबसे कूल पति बताया। इस बातचीत ने सोशल मीडिया पर फैंस का ध्यान खींचा। Saif Ali Khan: हाल ही में सैफ अली खान ने सोशल मीडिया प्लेटफॉर्म इंस्टाग्राम पर अपना अकाउंट बनाया है। यहां उन्होंने म्यूजिक बजाते हुए अपना एक शानदार वीडियो शेयर किया है।
 
-### [सुबह उठकर सिर्फ 10 मिनट करें योग, दिन की शुरुआत हो सकती है बेहतर](https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/10-minute-morning-yoga-simple-benefits-for-your-body-and-mind-2026-10-23)
-*Amar Ujala National* - Oct 24, 07:30 IST (iso: 2026-10-24T02:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/10-minute-yoga-benefits_5f3a51b81731a585b9875802d7fb12be.jpeg?w=1200&dpr=1.0 -->
+### [दिवाली से पहले आ सकता है परिणाम, 82 हजार से ज्यादा अभ्यर्थी हुए थे शामिल](https://www.amarujala.com/jobs/government-jobs/rssb-women-supervisor-result-2026-expected-before-diwali-check-merit-list-and-latest-updates-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:56 IST (iso: 2026-10-24T07:26:36+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/07/26/rssb_918e5b1e842da8ef40a1d46f5d3af669.jpeg?w=1200&dpr=1.0 -->
 
-रोजाना सुबह 10 मिनट योग करने से शरीर का लचीलापन और सक्रियता बढ़ सकती है। यह छोटा रूटीन तनाव कम करने में भी सहायक माना जाता है। जानें शरीर के लचीलेपन, तनाव और सक्रियता पर इसके संभावित फायदे और शुरुआती योग रूटीन। सुबह उठकर सिर्फ 10 मिनट करें योग, दिन की शुरुआत हो सकती है बेहतर।
+राजस्थान महिला सुपरवाइजर भर्ती 2026 का परिणाम दिवाली से पहले आ सकता है। आरएसएसबी चेयरमैन आलोक राज ने जल्द घोषणा की संभावना बताई। कुल 82,882 अभ्यर्थी इस परीक्षा में शामिल हुए थे। राजस्थान महिला सुपरवाइजर भर्ती परीक्षा 2026 का रिजल्ट दिवाली से पहले जारी होने की संभावना है। आरएसएसबी चेयरमैन आलोक राज के मुताबिक, परिणाम जल्द जारी किया जा सकता है।
 
-### [तिब्‍बत में फिर डोली धरती, 4.5 की तीव्रता वाले झटके से सहमे लोग, कड़कड़ाती ठंड में घरों से बाहर](https://hindi.news18.com/world/china-earthquake-struck-tibet-in-early-morning-people-in-panic-lef-home-national-center-for-seismology-10932279.html)
-*News18 Hindi (World)* - Oct 24, 07:27 IST (iso: 2026-10-24T01:57:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/tibet-earthquake-2026-10-6fc7a4e5ab02088897bc848f2b729c58-1200x800.jpg -->
+### [बंगाल की खाड़ी में उठेगा चक्रवाती तूफान: 28 अक्तूबर को तट से टकराने की आशंका, स्कूल-कॉलेज बंद करने](https://www.amarujala.com/india-news/cyclonic-storm-to-form-in-bay-of-bengal-expected-to-make-landfall-on-october-28-odisha-government-issues-alert-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:36 IST (iso: 2026-10-24T07:06:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/sakataka-tasavara_d2b1d7df555c6176a6e4a21bcadc0e5d.jpeg?w=1200&dpr=1.0 -->
 
-तिब्बत में 4.5 तीव्रता का भूकंप आया है। कड़कड़ाती ठंड में लोग घरों से बाहर निकल गए। दो दिन में लगातार झटके लोगों को डरा रहे हैं। Earthquake News: तिब्‍बत पहाड़-पठार की गोद में स्थित है. इसकी भौगोलिक स्थिति इसे भूकंप के लिहाज से संवेदनशील बनाता है. दो दिन से भी कम समय में भूकंप के ताबड़तोड़ झटके लगने से स्‍थानीय लोग दहशत में आ गए हैं.
+बंगाल की खाड़ी में चक्रवाती तूफान बनने की संभावना है। 28 अक्टूबर को तट से टकराने की आशंका जताई गई है। ओडिशा सरकार ने स्कूल और कॉलेज बंद करने का निर्देश दिया है। बंगाल की खाड़ी में उठेगा चक्रवाती तूफान: 28 अक्तूबर को तट से टकराने की आशंका, स्कूल-कॉलेज बंद करने।
 
-### [ताकि बनी रहे डिजिटल बढ़त, अर्थव्यवस्था में मौजूदा योगदान 12 से 13%, आगामी दशक में 20% होने का अनुमान](https://www.amarujala.com/columns/opinion/sustaining-digital-advantage-in-economy-current-contribution-12-to-13-pc-projected-rise-20-pc-in-coming-decade-2026-10-24)
-*Amar Ujala National* - Oct 24, 07:15 IST (iso: 2026-10-24T01:45:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/05/gdp-numbers_f7340f11d6129a66a9e6a8436c640786.png?w=1200&dpr=1.0 -->
+### [किराना दुकानदार को लिफाफे में भेजा कटा हाथ, दी धमकी; लुधियाना में फैली सनसनी](https://www.amarujala.com/punjab/ludhiana/crime/severed-hand-sent-in-envelope-to-grocery-store-owner-along-with-threat-in-ludhiana-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 12:16 IST (iso: 2026-10-24T06:46:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/punjab_a880ce9b775f95d75778ed087f8402b2.jpeg?w=1200&dpr=1.0 -->
 
-डिजिटल अर्थव्यवस्था का मौजूदा योगदान 12 से 13 प्रतिशत है। आगामी दशक में यह अनुपात 20 प्रतिशत तक पहुंचने का अनुमान है। मुद्दा: ताकि बनी रहे डिजिटल बढ़त, अर्थव्यवस्था में मौजूदा योगदान 12 से 13%, आगामी दशक में 20% होने का अनुमान।
+लुधियाना के बागी स्टैंड में एक किराना दुकानदार को लिफाफे में कटा हाथ भेजा गया। साथ में धमकी भी दी गई। घटना शनिवार सुबह हुई और इलाके में सनसनी फैली। लुधियाना के थाना डाबा क्षेत्र के अंतर्गत आने वाले बागी स्टैंड इलाके में शनिवार सुबह एक रोंगटे खड़े कर देने वाली घटना सामने आई। किराना दुकानदार को लिफाफे में भेजा कटा हाथ, दी धमकी; लुधियाना में फैली सनसनी।
 
-### [सोने के गहनों पर मेकिंग चार्ज में छूट, 50 करोड़ तक के इनाम भी; किस ब्रांड में कितनी बचत?](https://www.amarujala.com/business/business-diary/dhanteras-diwali-2026-jewellery-brands-offer-up-to-40-off-making-charges-and-rewards-worth-50-crore-2026-10-24)
-*Amar Ujala Breaking* - Oct 24, 07:02 IST (iso: 2026-10-24T01:32:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/08/sana_021cd54eff482cfd10e8fd31a003aaf5.jpeg?w=1200&dpr=1.0 -->
+### [यूपी होमगार्ड भर्ती के अंतिम अंक जारी, कैसे डाउनलोड करें स्कोर कार्ड? सिर्फ इस दिन तक देख पाएंगे](https://www.amarujala.com/jobs/government-jobs/up-home-guard-final-score-2026-released-check-marks-at-uppbpb-gov-in-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 12:08 IST (iso: 2026-10-24T06:38:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/yapa-hamagarada-bharata-2025_5e3b731add80cbdf674b1bcd29557ad3.jpeg?w=1200&dpr=1.0 -->
 
-धनतेरस और दिवाली 2026 के मौके पर ज्वेलरी ब्रांड्स ने मेकिंग चार्ज में 40 प्रतिशत तक छूट दी है। इन ऑफर्स में 50 करोड़ रुपये तक के इनाम भी शामिल हैं। ग्राहक ब्रांड के आधार पर अलग-अलग बचत पा रहे हैं। सोने के गहनों पर मेकिंग चार्ज में छूट, 50 करोड़ तक के इनाम भी; किस ब्रांड में कितनी बचत?
+यूपीपीआरपीबी ने होमगार्ड भर्ती 2025 के अंतिम अंक जारी किए। 41,424 पदों के लिए स्कोरकार्ड वेबसाइट पर उपलब्ध हैं। उम्मीदवार 23 नवंबर 2026 तक अपना स्कोर देख सकते हैं। यूपीपीआरपीबी ने होमगार्ड्स भर्ती 2025 के अंतिम अंक प्रकाशित कर दिए हैं। 41,424 पदों वाली इस भर्ती के स्कोरकार्ड वेबसाइट पर उपलब्ध करा दिए गए हैं। उम्मीदवार 23 नवंबर 2026 तक रजिस्ट्रेशन नंबर और जन्म तिथि के जरिए अपना स्कोर देख सकते हैं।
 
-### [बैंक से लेकर पुलिस डेटा तक लीक: नाम और जन्मतिथि बताने वाला भी हो सकता है साइबर अपराधी, जानें ठगी से](https://www.amarujala.com/photo-gallery/technology/tech-diary/your-data-new-weapon-what-six-days-cyber-alerts-reveal-2026-10-23)
-*Amar Ujala National* - Oct 24, 07:00 IST (iso: 2026-10-24T01:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/data-lkasa-ka-mamal_8139e4425a1f75bd9879ce18d61cbbb6.jpeg -->
+### [दिवाली पर पड़ोसियों संग पटाखों की होड़ लगाते थे अमिताभ बच्चन, 'रामायण' की कास्ट को सुनाया मजेदार](https://www.amarujala.com/entertainment/kbc-amitabh-bachchan-compete-with-neighbors-bursting-firecrackers-during-diwali-ramayana-ranbir-kapoor-sai-pal-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 11:24 IST (iso: 2026-10-24T05:54:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/amatabha-bcacana_2b51e3ca2857755cc0b17b330125bb70.jpeg?w=1200&dpr=1.0 -->
 
-बैंक और पुलिस डेटा लीक से साइबर अपराध बढ़े हैं। स्कैमर्स अब लोन विवरण तक पहुंच जाते हैं। नाम और जन्मतिथि देने वाला भी ठगी का शिकार हो सकता है। सुरक्षा के लिए सतर्कता जरूरी है। आपके लोन की डिटेल स्कैमर्स तक कैसे पहुंची?: बैंक से लेकर पुलिस के डेटा तक में सेंध, जानें ठगी से कैसे बचें आप। बैंक से लेकर पुलिस डेटा तक लीक: नाम और जन्मतिथि बताने वाला भी हो सकता है साइबर अपराधी, जानें ठगी से।
+केबीसी 18 में रणबीर कपूर, साई पल्लवी और रवि दुबे आएंगे। तीनों ने अमिताभ बच्चन के साथ बातें शेयर कीं। अमिताभ ने दिवाली पर पटाखों की होड़ लगाने की कहानी सुनाई। केबीसी 18 में फिल्म 'रामायण' की कास्ट आने वाली है। शो में रणबीर कपूर, साई पल्लवी और रवि दुबे नजर आएंगे। तीनों ने मिलकर होस्ट अमिताभ बच्चन के साथ खूब सारी बातें शेयर कीं।
 
-### [फ्लेक्सी-कैप फंडों का चौंकाने वाला प्रदर्शन; सिर्फ चार का रिटर्न आठ फीसदी के पार; समझें जोखिम](https://www.amarujala.com/business/business-diary/mutual-fund-returns-only-4-of-37-flexi-cap-schemes-delivered-over-8-sip-returns-in-three-years-2026-10-24)
-*Amar Ujala National* - Oct 24, 06:06 IST (iso: 2026-10-24T00:36:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/30/mayacaal-fada_02439bc7a64c101dfdacbe39743914ec.jpeg?w=1200&dpr=1.0 -->
+### [छह मेडिकल कॉलेजों में 320 नई पीजी सीटों को मंजूरी, नड्डा बोले- 415 करोड़ का अनुदान देगी केंद्र सरकार](https://www.amarujala.com/shimla/320-new-pg-seats-approved-across-six-medical-colleges-nadda-says-the-central-govt-will-provide-a-grant-of-rs-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 10:48 IST (iso: 2026-10-24T05:18:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/himachal-medical-pg-seats_7991336fe46c9623a8a16849ce6f95e2.jpeg?w=1200&dpr=1.0 -->
 
-तीन वर्षों में 37 फ्लेक्सी-कैप फंडों में से केवल चार ने 8 प्रतिशत से अधिक रिटर्न दिया। बाकी फंडों का प्रदर्शन इससे कम रहा। फ्लेक्सी-कैप फंडों का चौंकाने वाला प्रदर्शन; सिर्फ चार का रिटर्न आठ फीसदी के पार; समझें जोखिम।
+केंद्र सरकार ने हिमाचल प्रदेश के छह सरकारी मेडिकल कॉलेजों में 320 नई पीजी सीटों को मंजूरी दी है। इस योजना के लिए 415 करोड़ रुपये का अनुदान जारी किया जाएगा। केंद्र सरकार ने हिमाचल प्रदेश के छह सरकारी मेडिकल कॉलेजों में 320 नई पोस्ट ग्रेजुएट (पीजी) मेडिकल सीटों के प्रस्ताव को स्वीकृति प्रदान कर दी है। छह मेडिकल कॉलेजों में 320 नई पीजी सीटों को मंजूरी, नड्डा बोले- 415 करोड़ का अनुदान देगी केंद्र सरकार।
 
-### [मौत की सजा नहीं रहा फेफड़ों का कैंसर: मरीज की स्थिति के आधार पर बनी वैक्सीन; ट्यूमर को जड़ से खत्म](https://www.amarujala.com/world/lung-cancer-is-no-longer-a-death-sentence-personalized-vaccines-and-advanced-therapies-offer-new-hope-2026-10-24)
-*Amar Ujala World* - Oct 24, 04:35 IST (iso: 2026-10-23T23:05:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/11/lungs-lungs-cancer_39e158b781218b9473a537b8a293ff8f.jpeg?w=1200&dpr=1.0 -->
+### [अब केरलम लोकभवन में नहीं बनेगा नॉनवेज: नए राज्यपाल के आदेश पर बवाल, विपक्ष बोला- संघ का एजेंडा थोप](https://www.amarujala.com/india-news/venugopal-lashes-out-at-governor-s-directive-on-vegetarian-food-calls-it-an-agenda-of-the-sangh-parivar-2026-10-23)
+*Amar Ujala Breaking* - Oct 24, 10:39 IST (iso: 2026-10-24T05:09:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/kasa-vanaegapal-kagarasa-ka-mahasacava_090ff51f787888bba3f61b234874b663.jpeg?w=1200&dpr=1.0 -->
 
-फेफड़ों के कैंसर के इलाज में व्यक्तिगत वैक्सीन विकसित की गई है। यह मरीज के ट्यूमर के आधार पर बनाई जाती है। इम्यून सिस्टम ट्यूमर को जड़ से खत्म करता है। यह नई चिकित्सा विधि मरीजों को नई उम्मीद देती है। फेफड़ों के कैंसर के इलाज में नई उम्मीद: मरीज के ट्यूमर के हिसाब से बनेगी वैक्सीन, इम्यून सिस्टम करेगा खुद वार--Lung Cancer Is No Longer a Death Sentence?
-
-### [देशभर के 31 जल संरक्षकों को मिला जल प्रहरी सम्मान, विनय दास ने जीता राष्ट्रीय पुरस्कार](https://www.amarujala.com/delhi-ncr/delhi-31-water-conservationists-from-across-the-country-receive-the-jal-prahari-samman-2026-10-24)
-*Amar Ujala Breaking* - Oct 24, 03:50 IST (iso: 2026-10-23T22:20:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/1_d9515412c1a2648fdd227bc3f6aa5ca7.jpeg?w=1200&dpr=1.0 -->
-
-देशभर के 31 जल संरक्षकों को जल प्रहरी सम्मान-2026 से सम्मानित किया गया। विनय दास ने राष्ट्रीय पुरस्कार जीता। यह सम्मान तालाबों और नदियों के संरक्षण के लिए दिया गया है। जल संरक्षण में उनके योगदान को मान्यता मिली। जल संरक्षण, तालाबों और नदियों को बचाने के लिए देशभर के 31 जल संरक्षकों को ‘जल प्रहरी सम्मान-2026’ से सम्मानित किया गया।
+केरल के नए राज्यपाल ने लोकभवन में नॉनवेज खाने पर रोक लगा दी है। विपक्ष ने इसे संघ परिवार का एजेंडा थोपने की कोशिश बताया है। अब केरलम लोकभवन में नहीं बनेगा नॉनवेज: नए राज्यपाल के आदेश पर बवाल, विपक्ष बोला- संघ का एजेंडा थोप।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [प्रभास की फिल्म की पहली झलक, हिटलर से लेकर बोस तक का जिक्र; किलर अंदाज में दिखे रिबेल स्टार](https://www.amarujala.com/entertainment/south-cinema/fauzi-teaser-released-on-prabhas-birthday-actor-in-a-patriotic-role-in-film-2026-10-24)
-*Amar Ujala National* - Oct 24, 07:30 IST (iso: 2026-10-24T02:00:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/faja_601ff1741ea856717ecdc960a0752587.jpeg?w=1200&dpr=1.0 -->
+### [कैनवा से चैटजीपीटी तक कई एप्स यूज करने में आई परेशानी: अमेरिका में आउटेज की बढ़ीं रिपोर्ट्स, जानें](https://www.amarujala.com/technology/tech-diary/chatgpt-to-reddit-users-report-issues-across-popular-platforms-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:51 IST (iso: 2026-10-24T07:21:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/paratakatamaka-tasavara_bf9fa85e8d63b6e961fcce384c5b9e3d.jpeg -->
 
-प्रभास की फिल्म 'फौजी' का टीजर रिलीज हो गया है। फिल्म भारत के स्वतंत्रता संग्राम पर आधारित है और हनु राघवपुडी ने इसका निर्देशन किया है। Fauzi Teaser: प्रभास की अपकमिंग फिल्म 'फौजी' का टीजर रिलीज हो चुका है। यह फिल्म भारत के स्वतंत्रता संग्राम की पृष्ठभूमि पर आधारित है। इसके निर्देशक हनु राघवपुडी हैं और इसका निर्माण 'मैथरी मूवी मेकर्स' ने किया है।
+अमेरिका में कैनवा और चैटजीपीटी समेत कई ऐप्स में सेवा विच्छेद की रिपोर्ट्स मिलीं। यूजर्स को एप्लिकेशन उपयोग में परेशानी का सामना करना पड़ा। तकनीकी खराबी के कारण डिजिटल सेवाएं प्रभावित हुईं। कैनवा से चैटजीपीटी तक कई एप्स यूज करने में आई परेशानी: अमेरिका में आउटेज की बढ़ीं रिपोर्ट्स, जानें भारत का हाल।
 
-### [भारत-पाकिस्तान संघर्ष पर डोनाल्ड ट्रंप का फिर बड़ा दावा, बोले- व्यापार बंद करने की धमकी से रुकवाई](https://www.patrika.com/world-news/donald-trump-250-percent-tariff-threat-india-pakistan-conflict-21004554)
-*Patrika (World)* - Oct 24, 06:38 IST (iso: 2026-10-24T01:08:20+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/donald-trump-5.webp -->
+### [मारुति सुजुकी विक्टोरिस ऑरम एडिशन भारत में लॉन्च: जानें क्या है इसमें खास और कितनी है कीमत?](https://www.amarujala.com/automobiles/maruti-suzuki-victoris-aurum-edition-launched-in-india-check-price-features-powertrain-details-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:39 IST (iso: 2026-10-24T07:09:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/maruti-suzuki-victoris-aurum-edition_bad623cb3359622ebaa41a24c79ca9e6.jpeg?w=1200&dpr=1.0 -->
 
-ट्रंप ने दावा किया कि 250 प्रतिशत टैरिफ की धमकी से भारत-पाकिस्तान संघर्ष रुका। उन्होंने फ्लोरिडा रैली में यह बात कही। दोनों देशों ने सैन्य गतिविधियां तुरंत बंद कर दीं। Donald Trump Claim on India-Pakistan Conflict: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक बार फिर दावा किया है कि भारत और पाकिस्तान के बीच सैन्य संघर्ष को रोकने में उनकी भूमिका थी।
+मारुति सुजुकी ने भारत में विक्टोरिस ऑरम एडिशन लॉन्च किया है। इसमें खास बदलाव और नई कीमत शामिल है। कंपनी ने इस मॉडल की विस्तृत जानकारी जारी की है। मारुति सुजुकी विक्टोरिस ऑरम एडिशन भारत में लॉन्च: जानें क्या है इसमें खास और कितनी है कीमत?
 
-### [कुछ घंटों में तीन बार आया भूकंप; 4.6 रही सबसे तेज तीव्रता; चीन में भी लगे झटके](https://www.amarujala.com/world/earthquakes-hit-tibet-within-hours-strongest-tremor-recorded-at-magnitude-4-6-2026-10-24)
-*Amar Ujala National* - Oct 24, 06:32 IST (iso: 2026-10-24T01:02:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/07/10/earthquake-bhakapa_f505256c64869c3e798cb2eae07c5634.jpeg?w=1200&dpr=1.0 -->
+### [कब शुरू होंगी डीयू में सेमेस्टर परीक्षाएं? छह लाख से अधिक छात्र बैठेंगे, नोट करें तारीख](https://www.amarujala.com/education/campus-diaries-du-semester-exam-dates-2026-out-exams-from-dec-4-check-details-here-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:31 IST (iso: 2026-10-24T07:01:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/20/delhi-university-du_76e6c1dcd928c20b6091597d1548e0e7.jpeg?w=1200&dpr=1.0 -->
 
-तिब्बत में कुछ घंटों के अंदर तीन बार भूकंप आया। सबसे तेज तीव्रता 4.6 मापी गई। चीन के कुछ हिस्सों में भी झटके महसूस किए गए। कुछ घंटों में तीन बार आया भूकंप; 4.6 रही सबसे तेज तीव्रता; चीन में भी लगे झटके।
+दिल्ली विश्वविद्यालय की सेमेस्टर परीक्षाएं 4 दिसंबर से शुरू होंगी। छह लाख से अधिक छात्र इन परीक्षाओं में शामिल होंगे। नियमित छात्रों के लिए फॉर्म भरने की अंतिम तिथि 15 नवंबर तय है। दिल्ली विश्वविद्यालय में यूजी और पीजी की सेमेस्टर परीक्षाएं 4 दिसंबर से शुरू होंगी। 6 लाख से अधिक छात्र इसमें बैठेंगे। नियमित छात्रों के लिए बिना लेट फीस परीक्षा फॉर्म भरने की अंतिम तिथि 15 नवंबर और लेट फीस के साथ 22 नवंबर तय की गई है।
 
-### [17 साल से पोलियो मुक्त है दिल्ली, अगले महीने लाखों बच्चों को पिलाई जाएगी दो बूंद जिंदगी की](https://www.amarujala.com/delhi-ncr/world-polio-day-delhi-has-been-polio-free-for-17-years-next-month-2026-10-24)
-*Amar Ujala Breaking* - Oct 24, 06:30 IST (iso: 2026-10-24T01:00:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/11_7289b4c82bc0d3324503dd056218eb3c.jpeg?w=1200&dpr=1.0 -->
+### [दूसरे मैच में वैभव सूर्यवंशी को मिला मौका, किस स्थान पर खेलेंगे? टीम इंडिया में दो बदलाव](https://www.amarujala.com/cricket/cricket-news/ind-vs-nz-india-vs-new-zealand-2nd-t20i-playing-11-and-team-news-vaibhav-sooryavanshi-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 12:19 IST (iso: 2026-10-24T06:49:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/ind_f2911acbf16880c6ff432a1c54f23c41.jpeg?w=1200&dpr=1.0 -->
 
-दिल्ली में अगले महीने लाखों बच्चों को पोलियो वैक्सीन दी जाएगी। यह पहल शहर को 17 वर्षों से पोलियो मुक्त रखने के अभियान का हिस्सा है। पल्स पोलियो अभियान का दो बूंद जिंदगी की का नारा पिछले 17 साल से दिल्ली को पोलियो की बीमारी से मुक्त बनाए हुए है। 17 साल से पोलियो मुक्त है दिल्ली, अगले महीने लाखों बच्चों को पिलाई जाएगी दो बूंद जिंदगी की।
+भारत और न्यूजीलैंड के बीच क्राइस्टचर्च में दूसरा टी20 मैच खेला जा रहा है। टीम इंडिया ने प्लेइंग-11 में दो बदलाव किए हैं। वैभव सूर्यवंशी और प्रिंस यादव को टीम में शामिल किया गया है। भारत और न्यूजीलैंड के बीच क्राइस्टचर्च में पांच मैचों की टी20 सीरीज का दूसरा मुकाबला खेला जा रहा है। भारत ने इस मैच के लिए प्लेइंग-11 में दो बदलाव किए हैं।
 
-### [कभी पहलवान बनने का था सपना पर बने गायक, रफी साहब तक थे इनके फैन; कैसे जेल पहुंचे मन्ना डे?](https://www.amarujala.com/entertainment/manna-dey-death-anniversary-famous-singer-song-career-life-family-and-unknown-facts-2026-10-23)
-*Amar Ujala National* - Oct 24, 06:30 IST (iso: 2026-10-24T01:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/manana-da_596cd50d6a8b0069908becdfcd1793ed.jpeg?w=1200&dpr=1.0 -->
+### ['बॉलीवुड में एक ही टाइगर है और वह है सलमान खान': जैकी श्रॉफ के बेटे को भारी पड़ गई यह तारीफ, जांच](https://www.amarujala.com/india-news/tiger-shroff-praise-salman-khan-once-mumbai-police-said-that-is-why-he-targeted-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 11:37 IST (iso: 2026-10-24T06:07:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/21/taigara-sharafa-fayaraga-kasa-ma-apadata_b1dc6633c008825a0ed1f21fb9fa51d5.jpeg?w=1200&dpr=1.0 -->
 
-मन्ना डे 50-60 के दशक में प्रमुख पार्श्व गायक थे। 24 अक्टूबर को उनकी 13वीं पुण्यतिथि मनाई जाएगी। मन्ना डे एक भारतीय पार्श्व गायक, संगीत निर्देशक और संगीतकार थे। जिन्होंने 50-60 के दशक में कई बड़े स्टारों को आवाज दी। 24 अक्तूबर को उनकी 13वीं पुण्यतिथि है और इस मौके पर जानते हैं उनकी जिंदगी से जुड़ी कुछ खास बातें।
+मुंबई पुलिस की जांच में खुलासा हुआ कि टाइगर श्रॉफ ने सलमान खान की तारीफ की थी। पुलिस का कहना है कि इसी वजह से उन्होंने निशाना साधा। जांच में यह बात सामने आई। 'बॉलीवुड में एक ही टाइगर है और वह है सलमान खान': जैकी श्रॉफ के बेटे को भारी पड़ गई यह तारीफ, जांच।
 
-### [दिल्ली में सांसों पर दोहरा संकट: स्थानीय कारणों से होने वाला प्रदूषण घटा, पड़ोसी राज्यों का धुआं](https://www.amarujala.com/delhi-ncr/air-pollution-a-double-crisis-for-breathing-in-delhi-2026-10-24)
-*Amar Ujala Breaking* - Oct 24, 03:27 IST (iso: 2026-10-23T21:57:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/1_f1dc008507c260a119533fe9d7138013.jpeg?w=1200&dpr=1.0 -->
+### [महारैली स्थगित करने की अपील, कहा- त्योहार का सीजन है, व्यापार प्रभावित होगा](https://www.amarujala.com/delhi-ncr/delhi-traders-association-cti-has-written-a-letter-to-congress-leader-rahul-gandhi-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 10:38 IST (iso: 2026-10-24T05:08:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/rahal-gathha-ka-sataaaii-ka-patara_b99610ac403ea010b826b09f379e21dc.jpeg?w=1200&dpr=1.0 -->
 
-दिल्ली में स्थानीय प्रदूषण घटा है, पर पड़ोसी राज्यों से आ रहा धुआं हवा की गुणवत्ता को खराब कर रहा है। यह दोहरा दबाव शहरवासियों के लिए सांस लेने की समस्या बना हुआ है। दिल्ली की हवा पर दोहरा दबाव है। दिल्ली में सांसों पर दोहरा संकट: स्थानीय कारणों से होने वाला प्रदूषण घटा, पड़ोसी राज्यों का धुआं।
+दिल्ली के व्यापारी संगठन सीटीआई ने राहुल गांधी को पत्र लिखकर महारैली स्थगित करने की अपील की है। संगठन का कहना है कि त्योहार के मौसम में यह कार्यक्रम व्यापार को प्रभावित करेगा। दिल्ली के व्यापारी संगठन 'चैंबर ऑफ ट्रेड एंड इंडस्ट्री' (सीटीआई) ने कांग्रेस नेता राहुल गांधी को पत्र लिखा है। महारैली स्थगित करने की अपील, कहा- त्योहार का सीजन है, व्यापार प्रभावित होगा।
+
+### [डेमोक्रेट को वोट देना पड़ा भारी: भारतीयों के समर्थन पर पत्रकार पर कार्रवाई, कंपनी ने नौकरी से निकाला](https://www.amarujala.com/world/voting-democrats-proves-costly-student-journalist-faces-action-support-for-party-company-terminates-employment-2026-10-24)
+*Amar Ujala World* - Oct 24, 09:57 IST (iso: 2026-10-24T04:27:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/damakarata-ka-thaya-vata-ta-gaii-nakara_1dfa449be42c6126ab912ecf12f6720d.jpeg?w=1200&dpr=1.0 -->
+
+एक भारतीय छात्र पत्रकार को नौकरी से निकाल दिया गया। कंपनी ने यह कार्रवाई डेमोक्रेटिक पार्टी के समर्थन के लिए की। डेमोक्रेट को वोट देना पड़ा भारी: भारतीयों के समर्थन पर पत्रकार पर कार्रवाई, कंपनी ने नौकरी से निकाला।
 
 ---
 
 ## यूरोप और रूस
 
-### [आज शनिवार को बैंक खुले हैं या बंद हैं? ब्रांच जाने से पहले यहां करें चेक](https://www.amarujala.com/photo-gallery/utility/are-the-banks-open-today-saturday-ko-bank-aaj-khule-hain-yan-nahi-2026-10-24)
-*Amar Ujala Breaking* - Oct 24, 07:03 IST (iso: 2026-10-24T01:33:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/bka-shanavara-ka-kaha-btha-ha-oura-kaha-khal-ha_f3ff866f7ce9b252c6db53f7cfd68965.jpeg?w=1200&dpr=1.0 -->
+### [मुस्लिम देश में भी 'शिव-गणेश' मंदिर पहुंच गए जयशंकर, सदियों पुरानी जड़ें, संस्कृत में लिखे हैं श्लोक](https://hindi.news18.com/world/rest-of-world-jaishankar-visits-ateshgah-temple-of-fire-in-baku-connected-to-hindu-sikh-routes-ws-l-10932767.html)
+*News18 Hindi (World)* - Oct 24, 12:50 IST (iso: 2026-10-24T07:20:32+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/jaishankar-temple-2026-10-f80d605a3fac702ff7f184b39cece486-1200x800.jpg -->
 
-24 अक्टूबर शनिवार को बैंक शाखाओं की स्थिति अलग-अलग है। ग्राहकों को शाखा जाने से पहले खुलने की पुष्टि करनी चाहिए। क्या आप आज शनिवार यानी 24 अक्तूबर के दिन बैंक जाने वाले हैं? बैंक जाने से पहले एक बार ये जरूर चेक कर लें कि आपका जिस ब्रांच में अकाउंट है, वो ब्रांच आज खुली है या नहीं। आज शनिवार को बैंक खुले हैं या बंद हैं?
+विदेश मंत्री एस. जयशंकर ने अजरबैजान के अग्निमंदिर का दौरा किया। यह मंदिर सदियों पुराना है और संस्कृत श्लोकों से सजा हुआ है। देश में 97 फीसदी आबादी मुस्लिम है। जयशंकर अजरबैजान के दौरे पर पहुंचे, तो उन्होंने अग्निमंदिर का भी दौरा किया. इस मंदिर का खास नाता भारत से है और अजरबैजान वो देश है, जहां 97 फीसदी मुस्लिम आबादी रहती है.
 
-### [फ्रांस के युवा फिर आक्रोशित; 27 से यूक्रेन-रूस सीजफायर; पैरा एशियाड में भारत का सबसे अच्छा प्रदर्शन](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-24-october-2026-updates-on-amar-ujala-2026-10-24)
-*Amar Ujala Breaking* - Oct 24, 05:52 IST (iso: 2026-10-24T00:22:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0 -->
+### [समुद्र के खतरों के बारे में बता रहा था पत्रकार, तभी पीछे से आई ऐसी लहर कि बंद हो गया लाइव प्रसारण](https://www.amarujala.com/bizarre-news/giant-wave-hits-reporter-during-live-broadcast-in-spain-video-goes-viral-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:39 IST (iso: 2026-10-24T07:09:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/samathara-ka-khatara-ka-bra-ma-bta-raha-tha-patarakara_39a81ec249f066625ccf4712ac08394e.jpeg?w=1200&dpr=1.0 -->
 
-फ्रांस में युवाओं ने फिर प्रदर्शन किए। यूक्रेन-रूस युद्ध में 27 अक्टूबर से अग्निविराम लागू होगा। फ्रांस के युवा फिर आक्रोशित; 27 से यूक्रेन-रूस सीजफायर; पैरा एशियाड में भारत का सबसे अच्छा प्रदर्शन।
+स्पेन के ओन्डारोआ में पत्रकार सर्जियो ओवेखेरो लाइव रिपोर्टिंग कर रहे थे। अचानक आई तेज समुद्री लहर ने उन्हें और कैमरावुमन राकेल को घेर लिया। प्रसारण तुरंत बंद हो गया। स्पेन के ओन्डारोआ शहर में लाइव रिपोर्टिंग कर रहे पत्रकार सर्जियो ओवेखेरो और उनकी कैमरावुमन राकेल अचानक समुद्र की तेज लहर की चपेट में आ गए। समुद्र के खतरों के बारे में बता रहा था पत्रकार, तभी पीछे से आई ऐसी लहर कि बंद हो गया लाइव प्रसारण।
 
-### [आज फिर सड़कों पर उतरेंगे लाखों लोग, 70 हजार पुलिसकर्मी तैनात; चेहरा ढककर प्रदर्शन करने पर लगी रोक](https://www.amarujala.com/world/france-braces-for-massive-protests-as-70-000-police-officers-deploy-face-coverings-banned-2026-10-24)
-*Amar Ujala World* - Oct 24, 04:41 IST (iso: 2026-10-23T23:11:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/farasa-varathha-paratharashana_e3f270f7f01acd628be97661a6d69e88.jpeg?w=1200&dpr=1.0 -->
+### [क्या आप जुड़ सकते हैं पीएम विश्वकर्मा योजना से? मिलते हैं कई लाभ, यहां चेक करें पात्रता](https://www.amarujala.com/photo-gallery/utility/pm-vishwakarma-yojana-eligibility-who-can-apply-and-what-benefits-are-available-2026-10-24)
+*Amar Ujala National* - Oct 24, 12:26 IST (iso: 2026-10-24T06:56:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/08/02/pm-vishwakarma-new_57f1e24668ce1d2a3809a66175011521.jpeg?w=1200&dpr=1.0 -->
 
-फ्रांस में 70 हजार पुलिसकर्मी तैनात किए गए हैं। लाखों लोग सड़कों पर प्रदर्शन के लिए उतरेंगे। चेहरा ढककर प्रदर्शन करने पर कड़ी रोक लगाई गई है। यह कड़ी सुरक्षा व्यवस्था प्रदर्शनों को नियंत्रित करने के लिए है। आज फिर सड़कों पर उतरेंगे लाखों लोग, 70 हजार पुलिसकर्मी तैनात; चेहरा ढककर प्रदर्शन करने पर लगी रोक।
+पीएम विश्वकर्मा योजना पारंपरिक कारीगरों को प्रशिक्षण और आधुनिक औजार खरीदने की आर्थिक मदद देती है। इस योजना का लाभ केवल पात्र व्यक्तियों को दिया जाता है। पात्रता की जाँच की जा सकती है। पीएम विश्वकर्मा योजना के तहत पारंपरिक काम करने वाले कारीगरों और शिल्पकारों को प्रशिक्षण, आधुनिक औजार खरीदने के लिए आर्थिक मदद जैसे लाभ दिए जाते हैं वहीं, इस योजना का लाभ सिर्फ उन लोगों को मिलता है जो पात्र होते हैं।
 
-### [पेरिस में एक की मौत और पांच घायल, कौन है संदिग्ध और कैसे हुई गिरफ्तारी?](https://www.amarujala.com/world/france-paris-suburbs-racist-attack-dead-wounded-reports-hindi-news-updates-2026-10-24)
-*Amar Ujala World* - Oct 24, 02:48 IST (iso: 2026-10-23T21:18:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/02/crime-demo_94bf9dfe0e5ce188b44d930d673074f5.jpeg?w=1200&dpr=1.0 -->
+### ['3 दिन का राशन-पानी जमा कर लो', खुद सरकार ने किया ऐलान, आखिर क्यों मचा ब्रिटेन में हड़कंप?](https://hindi.news18.com/world/britain-be-ready-for-next-72-hours-why-britain-government-gives-advisory-to-citizens-10932605.html)
+*News18 Hindi (World)* - Oct 24, 11:10 IST (iso: 2026-10-24T05:40:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/uk-alert-2026-10-56060ce1d993e82dbe6796976d28651a-1200x800.jpg -->
 
-पेरिस में एक व्यक्ति की मौत हुई और पांच घायल हुए। नस्लीय आतंकी हमला करने वाले संदिग्ध को गिरफ्तार कर लिया गया है। नस्लीय आतंकी हमला: पेरिस में एक की मौत और पांच घायल, कौन है संदिग्ध और कैसे हुई गिरफ्तारी?
+ब्रिटेन सरकार ने नागरिकों को अगले 72 घंटों के लिए राशन और पानी जमा करने का निर्देश दिया है। इस आकस्मिक तैयारी के आदेश ने देश में चिंता की लहर दौड़ा दी है। Government Announces be ready for 72 hours: सोचिए, बैठे-बैठे सरकार की ओर से अगर ये ऐलान कर दिया जाए कि अगले 72 घंटों के लिए आपको राशन-पानी का इंतजाम कर लेना है, तो ये कितना डरावना होगा?
+
+### ['भारत को सिर्फ बाजार नहीं मानतीं जर्मन कंपनियां': गोयल बोले- रिसर्च और मैन्युफैक्चरिंग में साथ](https://www.amarujala.com/india-news/german-companies-don-t-view-india-as-market-piyush-goyal-says-prepared-to-grow-together-research-manufacturing-2026-10-24)
+*Amar Ujala Breaking* - Oct 24, 11:05 IST (iso: 2026-10-24T05:35:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/payashha-gayal_b0d93b0e24a3b039c5a23f9777c199a2.jpeg?w=1200&dpr=1.0 -->
+
+पियूष गोयल ने कहा कि जर्मन कंपनियां भारत को केवल बाजार नहीं मानतीं। दोनों देश शोध और निर्माण क्षेत्र में सहयोग बढ़ाने के लिए तैयार हैं। 'भारत को सिर्फ बाजार नहीं मानतीं जर्मन कंपनियां': गोयल बोले- रिसर्च और मैन्युफैक्चरिंग में साथ।
+
+### [डोनाल्ड ट्रंप की मुराद पूरी, भारत के यार ने भर दी झोली, 3 साल बाद अमेरिका पहुंचा 'दिवाली गिफ्ट'](https://hindi.news18.com/world/rest-of-world-good-news-for-trump-as-russia-sends-first-diesel-shipment-to-us-since-2023-three-tankers-carry-40000-tonnes-10932588.html)
+*News18 Hindi (World)* - Oct 24, 10:28 IST (iso: 2026-10-24T04:58:36+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/donald-trump-un-speech-fact-check-india-pakistan-war-iran-war-republican-revolt-america-midterm-election-2026-09-1a4167c4b06b728ef59264d5e4eea8ad-1200x800.jpg -->
+
+रूस से तीन टैंकर अमेरिका के लिए रवाना हो गए हैं। इनमें 40 हजार टन डीजल है। यह 2023 के बाद पहली बार है जब रूसी डीजल अमेरिका जा रहा है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की रूस के साथ डीजल डील अब आगे बढ़ती दिख रही है. रूस से 40 हजार टन डीजल लेकर तीन टैंकर अमेरिका के लिए रवाना हो गए हैं.
+
+### [जर्मनी में इंटरनेशनल ट्रेड हब खोलेगा भारत? पीयूष गोयल ने प्‍लान का किया सपोर्ट, पर कही यह बात](https://hindi.news18.com/world/europe-piyush-goyal-calls-on-indian-diaspora-in-germany-to-drive-investments-support-overseas-warehouse-concept-10932524.html)
+*News18 Hindi (World)* - Oct 24, 09:36 IST (iso: 2026-10-24T04:06:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/piyush-goyal-germany-2026-10-f44252d152f83a00e29ebb3bd162f5f0-1200x800.jpg -->
+
+पीयूष गोयल ने जर्मनी में इंटरनेशनल ट्रेड हब बनाने के प्रस्ताव का समर्थन किया। उन्होंने निजी क्षेत्र की भागीदारी को आर्थिक विकास के लिए अहम बताया। पीयूष गोयल ने आर्थिक विकास में निजी क्षेत्र की भागीदारी को भी अहम बताया. उन्होंने भारत के सूचना प्रौद्योगिकी उद्योग का उदाहरण देते हुए कहा कि सरकार की भूमिका सुविधाएं उपलब्ध कराने की होनी चाहिए, न कि कारोबार में अनावश्यक हस्तक्षेप करने की.
 
 ---
 
-## अमेरिका
+## मध्य पूर्व और अफ्रीका
 
-### [50% लोगों को ट्रंप की पार्टी पर नतीजों में हेरफेर का शक; रामास्वामी भी विवादों में](https://www.amarujala.com/world/us-midterm-elections-50-fear-election-manipulation-by-trump-republicans-as-controversies-intensify-2026-10-24)
-*Amar Ujala Breaking* - Oct 24, 06:50 IST (iso: 2026-10-24T01:20:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/amaraka-canava-ma-bharasa-ka-sakata_583ccf3df4e4575ee841322eb1569a91.jpeg?w=1200&dpr=1.0 -->
+### [पाकिस्‍तान-तुर्की...सबने छोड़ा साथ, तब भारत ने थामा दुश्‍मन के यार का हाथ, जयशंकर ने कैसे मारा मौके](https://hindi.news18.com/news/nation/s-jaishankar-historical-azerbaijan-visit-give-big-boost-to-central-asia-diplomacy-setback-to-pakistan-turkey-10932665.html)
+*News18 Hindi (World)* - Oct 24, 11:53 IST (iso: 2026-10-24T06:23:17+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/s-jaishankar-Azerbaijan-2026-10-a85fd9a4e61d1ae7fc311088b06f3da0-1200x800.jpg -->
 
-अमेरिका के मध्यावधि चुनावों में 50 प्रतिशत लोगों को ट्रंप की पार्टी पर नतीजों में हेरफेर का शक है। विवादों के बीच रामास्वामी भी चर्चा में हैं। चुनावी प्रक्रिया पर विश्वास कम हो रहा है। 50% लोगों को ट्रंप की पार्टी पर नतीजों में हेरफेर का शक; रामास्वामी भी विवादों में।
+विदेश मंत्री एस. जयशंकर ने अजरबैजान का दौरा किया। भारत ने अजरबैजान का साथ दिया जब पाकिस्तान और तुर्की ने नहीं दिया। इससे दोनों देशों के संबंध और मजबूत हुए। S Jaishankar Azerbaijan Visit: ऑपरेशन सिंदूर के दौरान जिस अजरबैजान ने पाकिस्‍तान के सपोर्ट में बयान दिया था, आज वह भारत का मुरीद बन गया है. भारत ने अजरबैजान का UN से लेकर बाकू तक साथ दिया, जब पाकिस्‍तान और तुर्की जैसे दोस्‍तों ने छोड़ दिया तब भारत ने उसका दामन थामा.
 
-### [₹7100000000000 फूंककर 850 F-35 फाइटर जेट खरीदेगा अमेरिका, पेंटागन ने लॉकहीड मार्टिन से की महाडील](https://hindi.news18.com/news/defence/us-850-f35-stealth-fighter-jets-78-billion-dollar-deal-2035-air-force-plan-10932023.html)
-*News18 Hindi (World)* - Oct 24, 04:41 IST (iso: 2026-10-23T23:11:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/F-35B_Jet-2026-10-32a46873c9d02dca040d8e643a3f5902-1200x800.jpg -->
+### ['या तो समझौता करो या हमले के लिए तैयार रहो': क्या ईरान पर फिर हमले की तैयारी कर रहे ट्रंप? रिपोर्ट](https://www.amarujala.com/world/donald-trump-iran-military-action-epic-fury-warning-florida-rally-usa-2026-10-24)
+*Amar Ujala World* - Oct 24, 10:56 IST (iso: 2026-10-24T05:26:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/danalda-tarapa-amaraka-rashhatarapata_202fc711bd69c0028c366db3bc0f643b.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका ने लॉकहीड मार्टिन से 850 एफ-35 विमान खरीदने का फ्रेमवर्क तैयार किया है। अनुमानित लागत 78.2 अरब डॉलर है। इसमें स्पेयर पार्ट्स और मरम्मत का समर्थन भी शामिल है। संसद की मंजूरी और फंडिंग की आवश्यकता होगी। US Pentagon Lockheed Martin F-35 Mega Deal: अमेरिका ने लॉकहीड मार्टिन के साथ अगले 10 साल में कम से कम 850 एफ-35 स्टेल्थ लड़ाकू विमान खरीदने का फ्रेमवर्क तैयार किया है.
+रिपोर्ट के अनुसार ट्रंप ने ईरान को समझौते या सैन्य कार्रवाई के लिए तैयार रहने की चेतावनी दी है। फ्लोरिडा में रैली के दौरान यह बयान सामने आया। 'या तो समझौता करो या हमले के लिए तैयार रहो': क्या ईरान पर फिर हमले की तैयारी कर रहे ट्रंप? रिपोर्ट।
+
+### [ईरान पर फिर हमला करेगा अमेरिका? ट्रंप के ऐलान ने बढ़ाई टेंशन, चुनावी स्टंट या सच?](https://hindi.news18.com/world/america-donald-trump-threatens-iran-with-another-epic-fury-amid-mid-term-election-ws-l-10932602.html)
+*News18 Hindi (World)* - Oct 24, 10:21 IST (iso: 2026-10-24T04:51:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/donald-trump-1-2026-09-f174d8e10723d24108feb45cd6d99329-1200x800.jpg -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान पर ऑपरेशन एपिक फयूरी की चेतावनी दी है। इस बयान से दोनों देशों के बीच का तनाव और बढ़ गया है। Donald Trump Planning Another Attack on Iran: अमेरिका-ईरान के बीच का तनाव अभी कम भी नहीं हुआ था कि अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की ओर से ऐसा बयान आ गया, जो इसे और भड़काने वाला है.
 
 ---
 
