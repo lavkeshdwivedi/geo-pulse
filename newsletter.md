@@ -1,10 +1,68 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 24, 2026 17:48 IST
+**Updated:** October 24, 2026 21:50 IST
+
+---
+
+## Europe & Russia
+
+### [Bipartisan US Lawmakers Push Back On Trump's Russia Policy, Vow Support For Ukraine](https://www.rferl.org/a/us-lawmakers-trump-russia-policy-ukraine-bipartisan-pushback/33883500.html)
+*Radio Free Europe / Liberty* - Oct 24, 20:21 IST (iso: 2026-10-24T14:51:22+00:00)
+<!-- image: https://gdb.rferl.org/d4aed848-9c01-40f1-8ccb-0e4b313f1fb4_cx0_cy3_cw0_w1200_h630.jpg -->
+
+A bipartisan group of US lawmakers challenged President Trump's easing of Russian energy import restrictions. They demanded guarantees that Ukraine retains access to critical American military and intelligence support. The move signals growing congressional resistance to the administration's shifting foreign policy stance on the conflict. A bipartisan group of US lawmakers is stepping up efforts to defend Ukraine, challenging President Donald Trump’s decision to ease restrictions on Russian energy imports and demanding guarantees that Kyiv will retain access to critical American military and intelligence support.
+
+### [Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says](https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095)
+*Sky News World* - Oct 24, 18:59 IST (iso: 2026-10-24T13:29:00+00:00)
+<!-- image: https://e3.365dm.com/26/10/1920x1080/skynews-volodymyr-zelenskyy_7385610.jpg?20261024144157 -->
+
+President Volodymyr Zelenskyy stated that the Starlink satellite system has returned to the operational speed Ukraine requires. The network had slowed for over a week, which impaired Kyiv's ability to defend against Russian attacks. The restoration of full bandwidth is critical for maintaining Ukraine's air defense and communications infrastructure. The Starlink satellite system is back to operating at the speed Ukraine needs after slowing down for more than a week, damaging Kyiv's ability to defend itself from Russian attacks, Ukraine's President Volodymyr Zelenskyy said.
+
+### [White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City](https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html)
+*Radio Free Europe / Liberty* - Oct 23, 22:02 IST (iso: 2026-10-23T16:32:19+00:00)
+<!-- image: https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg -->
+
+Melania Trump brokered a localized cease-fire for Oleshky, a Russian-occupied Ukrainian city. Kyiv confirmed preparations for humanitarian corridors. Non-military teams will visit residents to coordinate civilian evacuations. An American media organization will document the process. US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilians.
+
+### [An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China](https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html)
+*Radio Free Europe / Liberty* - Oct 23, 18:04 IST (iso: 2026-10-23T12:34:21+00:00)
+<!-- image: https://gdb.rferl.org/f5107528-9ca2-4411-8276-08ddd95ee7ae_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Russian officials face growing doubts about the Northern Sea Route's viability as a reliable trade corridor to China. The Kremlin invested heavily in the route, betting that retreating Arctic ice would open a path beyond Ukrainian drone strikes and European naval interdiction. Recent traffic congestion along the waterway has exposed the practical difficulties of navigating through remaining ice. The route remains a strategic priority, but operational challenges are complicating the timeline for consistent commercial use.
+
+### [Serbia's Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears](https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html)
+*Radio Free Europe / Liberty* - Oct 23, 11:19 IST (iso: 2026-10-23T05:49:50+00:00)
+<!-- image: https://gdb.rferl.org/75d53c8b-2b55-4562-e8e3-08df13a87301_w1200_h630.jpg -->
+
+Aleksandar Vucic faces his toughest parliamentary election challenge in fourteen years on October 25. An opposition movement born from student protests threatens his long-standing dominance. Growing concerns persist over whether the voting process will be conducted fairly. After 14 years dominating Serbian politics, Aleksandar Vucic faces the biggest challenge to his rule in parliamentary elections on October 25 from an opposition movement that has sprung from mass student protests.
+
+### [Deportations And Jail Terms Leave Tajik Dissidents In Europe Fearing For Their Future](https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html)
+*Radio Free Europe / Liberty* - Oct 22, 22:32 IST (iso: 2026-10-22T17:02:05+00:00)
+<!-- image: https://gdb.rferl.org/01000000-0aff-0242-7582-08dc4438eca6_cx0_cy0_cw99_w1200_h630.png -->
+
+Tajik dissidents report feeling abandoned by Western nations following recent deportations. Several opposition figures were expelled from Germany and other European countries. They face imprisonment upon returning to Tajikistan. Exiled activists now fear losing the diplomatic support they previously relied on for protection. The deportation of several Tajik opposition figures from Germany and other European countries, and their subsequent imprisonment, have heightened fears among Tajik oppositionists in exile.
+
+### [Ukraine Cuts Chinese Drone Dependence, But Critical Gaps Remain](https://www.rferl.org/a/ukraine-cuts-chinese-drone-dependence-but-critical-gaps-remain/33881578.html)
+*Radio Free Europe / Liberty* - Oct 22, 16:35 IST (iso: 2026-10-22T11:05:20+00:00)
+<!-- image: https://gdb.rferl.org/465d222a-0fdd-4c63-7433-08df13a869ed_w1200_h630.jpg -->
+
+Ukraine has sharply reduced its reliance on Chinese drone components since 2022. However, critical parts remain difficult to replace at scale and cost. This leaves a persistent dependency on Beijing for essential military hardware. In 2022, Ukraine relied almost entirely on Chinese components for its military drones. While that dependency has now been drastically reduced, Ukraine still relies on Beijing for essential parts that remain difficult to replace at the necessary scale and cost.
+
+### [Trump Says Musk Has Lifted Starlink Restrictions On Ukraine While Kyiv Reports Ongoing Issues](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
+*Radio Free Europe / Liberty* - Oct 22, 11:07 IST (iso: 2026-10-22T05:37:19+00:00)
+<!-- image: https://gdb.rferl.org/99d92bba-85d1-439e-4563-08df13a884cb_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.
 
 ---
 
 ## Asia-Pacific
+
+### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
+*The Guardian* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:56+00:00)
+<!-- image: https://i.guim.co.uk/img/media/70aba9653c376fb7740a63f99ee1a6474668c259/44_0_3934_3148/master/3934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7a36d698a6c05afab021f7ac3c67c7a -->
+
+North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.
 
 ### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
 *Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
@@ -30,31 +88,19 @@ The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Sout
 
 Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.
 
-### ['World's Tallest' Dam Takes Shape In Tajikistan](https://www.rferl.org/a/roghun-dam-tajikistan-tallest-in-world-soviet-infrastructure/33880952.html)
-*Radio Free Europe / Liberty* - Oct 21, 21:53 IST (iso: 2026-10-21T16:23:02+00:00)
-<!-- image: https://gdb.rferl.org/8E644F6D-3834-4CF4-80FD-549E33466120.jpg -->
-
-Tajikistan is advancing the Soviet-era Roghun Dam project after securing major funding tranches. The development aims to reshape Central Asia's energy supply. The construction will displace tens of thousands of local villagers from their homes. The Soviet-era Roghun Dam project has endured decades of uncertainty and opposition. Now major funding tranches appear to have the project on track to transform Central Asia's energy landscape -- and displace tens of thousands of Tajik villagers.
-
 ---
 
 ## World
 
-### [Fire breaks out at Hitler's mountain retreat, suspect arrested](https://www.thehindu.com/news/international/fire-breaks-out-at-hitlers-mountain-retreat-suspect-arrested/article71619208.ece)
-*The Hindu (International)* - Oct 24, 11:57 IST (iso: 2026-10-24T06:27:00+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/xik5jj/article71619262.ece/alternates/LANDSCAPE_1200/AFP__20261024__D4AB46N__v2__HighRes__TopshotGermanyHistoryPoliceFireHitler.jpg -->
+### [Why bosses find 'I'm sorry' so hard to say, and how to do it properly](https://www.channelnewsasia.com/cna-insider/adulting/boss-apologise-staff-responsibility-trust-6481746)
+*Channel News Asia* - Oct 24, 19:00 IST (iso: 2026-10-24T13:30:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--FTGWnN-v--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/22/adult1.jpg?itok=o7pyq-9i -->
 
-A fire broke out at the Eagle's Nest, Hitler's mountain retreat built between 1937 and 1938. Authorities arrested a suspect in connection with the incident. The site remains a toxic legacy of the Third Reich and its mass atrocities. Built between 1937 and 1938, the Eagle's Nest forms part of the toxic legacy of Hitler's Third Reich, which was responsible for the deaths of millions of Jews along with Roma, LGBTQ people and Communists in the Holocaust.
+Business founder Kelvin Kao argues that leaders should apologize to staff when they make mistakes. Many executives hesitate due to fears of reputational damage or legal liability. Kao suggests that reluctance stems from a misplaced sense of authority rather than a genuine concern for team morale or operational clarity. Business founder Kelvin Kao says bosses should be willing to apologise to their staff if they get something wrong, but many seem reluctant to do so for reasons such as fear of reputational damage or even legal liability.
 
 ---
 
 ## Middle East & Africa
-
-### [Israel launches West Bank operation after attack days before election](https://www.channelnewsasia.com/world/israel-launches-west-bank-operation-after-attack-days-election-6488581)
-*Channel News Asia* - Oct 24, 11:01 IST (iso: 2026-10-24T05:31:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--2LtXtu8U--/c_crop,h_450,w_800,x_0,y_27/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-23T144053Z_2_LYNXMPEM9M1A8_RTROPTP_3_ISRAEL-PALESTINIANS-HEBRON-SETTLERS.JPG?itok=ggM4O9Xg -->
-
-Israel launched a days-long military operation in the occupied West Bank on Friday. The campaign involved searches and demolitions after gunmen killed two soldiers. The attack occurred just days before national elections where security is a central issue. Israel's military forces launched a days-long operation on Friday (Oct 23) involving searches and demolitions in the occupied West Bank after gunmen killed two soldiers, just days before elections in which security is a key issue.
 
 ### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
 *Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
@@ -109,52 +155,6 @@ Nigeria confirmed an Ebola case in Abuja after a woman arriving from Uganda test
 <!-- image: https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Three years of hostilities have transformed Tehran's network of Middle Eastern allies. Iran now relies more heavily on itself while adapting relationships with partners. Their diminished military utility has not reduced Tehran's commitment to protecting them. Three years of hostilities have transformed Tehran’s network of allies in the Middle East. The Islamic Republic is now relying more heavily on itself, while adapting its relationships with partners whose diminished military utility has not necessarily reduced its commitment to their protection.
-
----
-
-## Europe & Russia
-
-### [White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City](https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html)
-*Radio Free Europe / Liberty* - Oct 23, 22:02 IST (iso: 2026-10-23T16:32:19+00:00)
-<!-- image: https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg -->
-
-Melania Trump brokered a localized cease-fire for Oleshky, a Russian-occupied Ukrainian city. Kyiv confirmed preparations for humanitarian corridors. Non-military teams will visit residents to coordinate civilian evacuations. An American media organization will document the process. US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilians.
-
-### [An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China](https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html)
-*Radio Free Europe / Liberty* - Oct 23, 18:04 IST (iso: 2026-10-23T12:34:21+00:00)
-<!-- image: https://gdb.rferl.org/f5107528-9ca2-4411-8276-08ddd95ee7ae_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Russian officials face growing doubts about the Northern Sea Route's viability as a reliable trade corridor to China. The Kremlin invested heavily in the route, betting that retreating Arctic ice would open a path beyond Ukrainian drone strikes and European naval interdiction. Recent traffic congestion along the waterway has exposed the practical difficulties of navigating through remaining ice. The route remains a strategic priority, but operational challenges are complicating the timeline for consistent commercial use.
-
-### [Serbia's Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears](https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html)
-*Radio Free Europe / Liberty* - Oct 23, 11:19 IST (iso: 2026-10-23T05:49:50+00:00)
-<!-- image: https://gdb.rferl.org/75d53c8b-2b55-4562-e8e3-08df13a87301_w1200_h630.jpg -->
-
-Aleksandar Vucic faces his toughest parliamentary election challenge in fourteen years on October 25. An opposition movement born from student protests threatens his long-standing dominance. Growing concerns persist over whether the voting process will be conducted fairly. After 14 years dominating Serbian politics, Aleksandar Vucic faces the biggest challenge to his rule in parliamentary elections on October 25 from an opposition movement that has sprung from mass student protests.
-
-### [Deportations And Jail Terms Leave Tajik Dissidents In Europe Fearing For Their Future](https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html)
-*Radio Free Europe / Liberty* - Oct 22, 22:32 IST (iso: 2026-10-22T17:02:05+00:00)
-<!-- image: https://gdb.rferl.org/01000000-0aff-0242-7582-08dc4438eca6_cx0_cy0_cw99_w1200_h630.png -->
-
-Tajik dissidents report feeling abandoned by Western nations following recent deportations. Several opposition figures were expelled from Germany and other European countries. They face imprisonment upon returning to Tajikistan. Exiled activists now fear losing the diplomatic support they previously relied on for protection. The deportation of several Tajik opposition figures from Germany and other European countries, and their subsequent imprisonment, have heightened fears among Tajik oppositionists in exile.
-
-### [Ukraine Cuts Chinese Drone Dependence, But Critical Gaps Remain](https://www.rferl.org/a/ukraine-cuts-chinese-drone-dependence-but-critical-gaps-remain/33881578.html)
-*Radio Free Europe / Liberty* - Oct 22, 16:35 IST (iso: 2026-10-22T11:05:20+00:00)
-<!-- image: https://gdb.rferl.org/465d222a-0fdd-4c63-7433-08df13a869ed_w1200_h630.jpg -->
-
-Ukraine has sharply reduced its reliance on Chinese drone components since 2022. However, critical parts remain difficult to replace at scale and cost. This leaves a persistent dependency on Beijing for essential military hardware. In 2022, Ukraine relied almost entirely on Chinese components for its military drones. While that dependency has now been drastically reduced, Ukraine still relies on Beijing for essential parts that remain difficult to replace at the necessary scale and cost.
-
-### [Trump Says Musk Has Lifted Starlink Restrictions On Ukraine While Kyiv Reports Ongoing Issues](https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html)
-*Radio Free Europe / Liberty* - Oct 22, 11:07 IST (iso: 2026-10-22T05:37:19+00:00)
-<!-- image: https://gdb.rferl.org/99d92bba-85d1-439e-4563-08df13a884cb_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Ukraine awaits answers from the Pentagon and SpaceX regarding satellite communication restrictions. Kyiv’s top diplomat in Washington confirmed the lack of clarity. A bipartisan congressional push for an investigation into the restrictions has intensified. Ukraine has yet to receive answers from the Pentagon or Elon Musk's SpaceX over restrictions on satellite communications used by its military, Kyiv's top diplomat in Washington told RFE/RL, as a growing bipartisan push for a congressional investigation intensified.
-
-### [American Stephen Hubbard Freed After More Than 4 Years In Russian Custody](https://www.rferl.org/a/russia-american-citizen-released-prison/33881147.html)
-*Radio Free Europe / Liberty* - Oct 22, 01:27 IST (iso: 2026-10-21T19:57:46+00:00)
-<!-- image: https://gdb.rferl.org/910b612f-ed88-4aa5-e8cb-08df13afe2a0_cx0_cy1_cw0_w1200_h630.jpg -->
-
-Russian authorities released Stephen Hubbard, a 74‑year‑old American, after more than four years in custody. Russia has released 74-year-old US citizen Stephen Hubbard, who had been detained since 2022. He had been sentenced to prison for allegedly acting as a mercenary in Ukraine, charges his family disputed. President Vladimir Putin announced Hubbard’s release during talks with US envoy Steve Witkoff.
 
 ---
 
