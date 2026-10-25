@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-25T20:05:17.990820+00:00",
+  "generated_at": "2026-10-25T22:53:21.409278+00:00",
   "article_count": 50,
-  "total_unique_count": 252,
+  "total_unique_count": 256,
   "digest": {
-    "en": "Brazil’s second round pits Lula against Bolsonaro while U.S. influence over Latin America hangs in the balance. In Ukraine, Zelenskyy confirms Starlink is fully functional after recent Starshield disruptions. Meanwhile, Russian strikes continue driving civilians out of Kramatorsk.",
-    "hi": "इरानी संसद अध्यक्ष ने अमेरिका को सीधे बाहर निकलने की चेतावनी दी है। इसी घंटे असम में बिहू कलाकारों पर हुए हमले के बाद 13 आरोपी गिरफ्तार हुए हैं।"
+    "en": "Brazilians cast ballots in a tense runoff between Lula and Bolsonaro, with U.S. influence over Latin America hanging in the balance. Meanwhile, Russian strikes continue to displace civilians from Kramatorsk, forcing Zelenskyy to confirm Starlink is back to full operational capacity.",
+    "hi": "वायुसेना के लड़ाकू विमानों ने काशी में 20 लाख दर्शकों के सामने फुल ऑपरेशनल लोड के साथ पहली बार एयर शो किया। इसी घंटे पंजाब के 30 गांवों में बीमारी की रिपोर्ट शादियों का निर्णायक बन गई है।"
   },
   "articles": [
     {
@@ -12,10 +12,22 @@
       "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-10-25T19:37:49+00:00",
+      "published_at": "2026-10-25T22:11:16+00:00",
       "image_url": "https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5",
       "summary": "Brazilian voters cast ballots on 25 October 2026 for the second round of the presidential election. Incumbent President Luiz Inácio Lula da Silva faces Flávio Bolsonaro in a runoff. Polls closed at 17:00 BRT, with initial results expected shortly after. The contest follows Lula’s first-round performance against the son of his convicted predecessor. After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessorPolls close at 17.00 BRT, 20.00 GMT, with first results expected within the hour.",
       "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why work from home doesn’t mean work from anywhere",
+      "url": "https://www.channelnewsasia.com/commentary/work-home-not-anywhere-employers-policy-6487366",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-10-25T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--big4T1LH--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/24/woman_work_with_laptop_airport_istock-1344870959.jpg?itok=VjTdrJtJ",
+      "summary": "A Sydney-based employee was dismissed after secretly working from Singapore, highlighting a critical gap in remote work policies. The incident forces companies to define the geographic boundaries of \"work from home\" arrangements. Victor Seah of the Singapore University of Social Sciences argues that employers must provide explicit clarity on permissible locations. Without clear rules, workers face termination risks for operating outside their designated home jurisdiction. This case underscores the need for precise contractual terms regarding remote work geography.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -28,18 +40,6 @@
       "image_url": "https://th-i.thgim.com/public/incoming/3sv516/article71624402.ece/alternates/LANDSCAPE_1200/AFP_D4D87CC.jpg",
       "summary": "Israeli drone strikes killed several people in Gaza City on 12 April 2026. Al Shifa hospital received three bodies and treated eight wounded. Islamic University sources confirmed the dead were administrative staff. The injured included students. Al Shifa hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "How people’s genes are revealing why some languages are so unique",
-      "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-25T14:09:33+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/b6r7ed/article71218689.ece/alternates/LANDSCAPE_1200/iStock-2236164423.jpg",
-      "summary": "A new study measured linguistic differences between neighbouring languages. Researchers found hotspots where languages diverged significantly. These areas offer insights into pre-migration language variety. Population movements later reshaped global linguistic patterns. A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and population movements reshaped much of the world.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -362,37 +362,217 @@
       }
     },
     {
-      "title": "यूपी में सार्वजनिक अवकाश की घोषणा, बंद रहेंगे स्कूल-कार्यालय; सीएम योगी करेंगे पूजा-पाठ",
-      "url": "https://www.amarujala.com/lucknow/up-public-holiday-announced-in-the-state-for-valmiki-jayanti-schools-and-offices-to-remain-closed-on-monday-2026-10-25",
+      "title": "पहली बार फुल ऑपरेशनल लोड के साथ गरजे वायुसेना के लड़ाकू विमान, काशी में 20 लाख ने देखा एयर शो",
+      "url": "https://www.amarujala.com/uttar-pradesh/varanasi/air-force-fighter-jets-roar-with-full-operational-load-2-million-people-witness-air-show-in-kashi-2026-10-26",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-26T06:38:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/yogi-adityanath_7e70720815e2b565d23a677c1f4c8995.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश में 26 अक्टूबर को वाल्मीकि जयंती के अवसर पर सार्वजनिक अवकाश घोषित किया गया। इस दिन स्कूल और कार्यालय बंद रहेंगे, जबकि मुख्यमंत्री योगी आदित्यनाथ पूजा-पाठ करेंगे। यूपी में सोमवार यानी 26 अक्तूबर को वाल्मीकि जयंती के अवसर पर सार्वजनिक अवकाश की घोषणा की गई है। इस संबंध में आदेश जारी कर दिया गया है। यूपी में सार्वजनिक अवकाश की घोषणा, बंद रहेंगे स्कूल-कार्यालय; सीएम योगी करेंगे पूजा-पाठ।",
+      "published_at": "2026-10-25T22:30:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/1_a0a69b2985eb505ada3f2fd135753fb4.jpeg?w=1200&dpr=1.0",
+      "summary": "काशी में गंगा के ऊपर आयोजित एयर शो में वायुसेना के लड़ाकू विमानों ने पहली बार फुल ऑपरेशनल लोड के साथ उड़ान भरी। करीब 20 लाख दर्शकों ने यह प्रदर्शन देखा। गंगा की लहरों के ऊपर आयोजित वायुसेना के फ्लाईपास्ट में लड़ाकू विमानों ने पहली बार प्रचंड फॉर्मेशन में फुल ऑपरेशनल लोड के साथ उड़ान भरी। पहली बार फुल ऑपरेशनल लोड के साथ गरजे वायुसेना के लड़ाकू विमान, काशी में 20 लाख ने देखा एयर शो।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यूपी में सार्वजनिक अवकाश की घोषणा, बंद रहेंगे स्कूल-कार्यालय; सीएम योगी करेंगे पूजा-पाठ",
-          "summary": "उत्तर प्रदेश में 26 अक्टूबर को वाल्मीकि जयंती के अवसर पर सार्वजनिक अवकाश घोषित किया गया। इस दिन स्कूल और कार्यालय बंद रहेंगे, जबकि मुख्यमंत्री योगी आदित्यनाथ पूजा-पाठ करेंगे। यूपी में सोमवार यानी 26 अक्तूबर को वाल्मीकि जयंती के अवसर पर सार्वजनिक अवकाश की घोषणा की गई है। इस संबंध में आदेश जारी कर दिया गया है। यूपी में सार्वजनिक अवकाश की घोषणा, बंद रहेंगे स्कूल-कार्यालय; सीएम योगी करेंगे पूजा-पाठ।",
+          "title": "पहली बार फुल ऑपरेशनल लोड के साथ गरजे वायुसेना के लड़ाकू विमान, काशी में 20 लाख ने देखा एयर शो",
+          "summary": "काशी में गंगा के ऊपर आयोजित एयर शो में वायुसेना के लड़ाकू विमानों ने पहली बार फुल ऑपरेशनल लोड के साथ उड़ान भरी। करीब 20 लाख दर्शकों ने यह प्रदर्शन देखा। गंगा की लहरों के ऊपर आयोजित वायुसेना के फ्लाईपास्ट में लड़ाकू विमानों ने पहली बार प्रचंड फॉर्मेशन में फुल ऑपरेशनल लोड के साथ उड़ान भरी। पहली बार फुल ऑपरेशनल लोड के साथ गरजे वायुसेना के लड़ाकू विमान, काशी में 20 लाख ने देखा एयर शो।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "एक साथ 517 लोगों के शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी नदी के तट पर आयोजन",
+      "title": "पंजाब में 30 गांव ऐसे जहां बीमारी की रिपोर्ट देखकर तय होती हैं शादियां, बहिष्कार झेल रहे हैं ग्रामीण",
+      "url": "https://www.amarujala.com/delhi-ncr/in-punjab-there-are-30-villages-where-marriages-are-decided-based-on-health-reports-2026-10-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T22:20:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/1_bff948bdeb34f639cc0d93bddf353c5e.jpeg?w=1200&dpr=1.0",
+      "summary": "पंजाब के करीब 30 गांवों में शादियों से पहले कैंसर और हेपेटाइटिस की रिपोर्ट देखी जाती है। इस प्रथा के कारण ग्रामीण बहिष्कार का शिकार बन रहे हैं। पंजाब के करीब 30 गांव आज भी ऐसे हैं जहां बेटे और बेटियों की शादी से पहले कैंसर और हेपेटाइटिस की रिपोर्ट देखी जाती है। पंजाब में 30 गांव ऐसे जहां बीमारी की रिपोर्ट देखकर तय होती हैं शादियां, बहिष्कार झेल रहे हैं ग्रामीण।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पंजाब में 30 गांव ऐसे जहां बीमारी की रिपोर्ट देखकर तय होती हैं शादियां, बहिष्कार झेल रहे हैं ग्रामीण",
+          "summary": "पंजाब के करीब 30 गांवों में शादियों से पहले कैंसर और हेपेटाइटिस की रिपोर्ट देखी जाती है। इस प्रथा के कारण ग्रामीण बहिष्कार का शिकार बन रहे हैं। पंजाब के करीब 30 गांव आज भी ऐसे हैं जहां बेटे और बेटियों की शादी से पहले कैंसर और हेपेटाइटिस की रिपोर्ट देखी जाती है। पंजाब में 30 गांव ऐसे जहां बीमारी की रिपोर्ट देखकर तय होती हैं शादियां, बहिष्कार झेल रहे हैं ग्रामीण।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चेक गणराज्य में 'स्वतंत्र मीडिया' मुद्दे पर आक्रोश; बुल्गारिया राष्ट्रपति चुनाव के नतीजे अस्पष्ट",
+      "url": "https://www.amarujala.com/world/world-updates-europe-unrest-prague-protest-west-asia-russia-ukraine-tension-china-pak-nepal-bangladesh-news-2026-10-26",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-25T22:08:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
+      "summary": "चेक गणराज्य में स्वतंत्र मीडिया को लेकर आक्रोश फैला हुआ है। बुल्गारिया में राष्ट्रपति चुनाव के नतीजे अभी तक स्पष्ट नहीं हुए हैं। वर्ल्ड डायरी: चेक गणराज्य में 'स्वतंत्र मीडिया' मुद्दे पर आक्रोश; बुल्गारिया राष्ट्रपति चुनाव के नतीजे अस्पष्ट।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चेक गणराज्य में 'स्वतंत्र मीडिया' मुद्दे पर आक्रोश; बुल्गारिया राष्ट्रपति चुनाव के नतीजे अस्पष्ट",
+          "summary": "चेक गणराज्य में स्वतंत्र मीडिया को लेकर आक्रोश फैला हुआ है। बुल्गारिया में राष्ट्रपति चुनाव के नतीजे अभी तक स्पष्ट नहीं हुए हैं। वर्ल्ड डायरी: चेक गणराज्य में 'स्वतंत्र मीडिया' मुद्दे पर आक्रोश; बुल्गारिया राष्ट्रपति चुनाव के नतीजे अस्पष्ट।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "जामिया प्रशासन की शिकायत पर मसूद और प्रतापगढ़ी समेत तीन सांसदों पर केस, माहौल खराब करने का आरोप",
+      "url": "https://www.amarujala.com/delhi-ncr/case-against-three-mps-including-masood-and-pratapgarhi-following-a-complaint-by-the-jamia-administration-2026-10-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T21:57:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/1_a8ec1a8b207c76ef6f4f1ecf818f4fac.jpeg?w=1200&dpr=1.0",
+      "summary": "जामिया मिल्लिया इस्लामिया प्रशासन की शिकायत पर पुलिस ने तीन सांसदों के खिलाफ प्राथमिकी दर्ज की है। आरोप है कि उन्होंने माहौल खराब किया। जामिया मिल्लिया इस्लामिया विश्वविद्यालय प्रशासन की शिकायत पर पुलिस ने तीन सांसदों के खिलाफ प्राथमिकी दर्ज की है। जामिया प्रशासन की शिकायत पर मसूद और प्रतापगढ़ी समेत तीन सांसदों पर केस, माहौल खराब करने का आरोप।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जामिया प्रशासन की शिकायत पर मसूद और प्रतापगढ़ी समेत तीन सांसदों पर केस, माहौल खराब करने का आरोप",
+          "summary": "जामिया मिल्लिया इस्लामिया प्रशासन की शिकायत पर पुलिस ने तीन सांसदों के खिलाफ प्राथमिकी दर्ज की है। आरोप है कि उन्होंने माहौल खराब किया। जामिया मिल्लिया इस्लामिया विश्वविद्यालय प्रशासन की शिकायत पर पुलिस ने तीन सांसदों के खिलाफ प्राथमिकी दर्ज की है। जामिया प्रशासन की शिकायत पर मसूद और प्रतापगढ़ी समेत तीन सांसदों पर केस, माहौल खराब करने का आरोप।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठग चुका विक्रांत तोमर, न्यायिक हिरासत",
+      "url": "https://www.amarujala.com/delhi-ncr/vikrant-tomar-has-swindled-over-50-female-police-constables-from-delhi-up-and-haryana-2026-10-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T21:46:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/1_ddd43e14aedff96412a78d60de82bf75.jpeg?w=1200&dpr=1.0",
+      "summary": "बागपत के विक्रांत तोमर ने कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठगा। उसे न्यायिक हिरासत में भेज दिया गया है। यूपी के बागपत का 23 वर्ष का विक्रांत तोमर उर्फ विक्की तोमर अब तक दिल्ली, यूपी व हरियाणा में 50 से ज्यादा महिला सिपाहियों को ठग चुका है। कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठग चुका विक्रांत तोमर, न्यायिक हिरासत।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठग चुका विक्रांत तोमर, न्यायिक हिरासत",
+          "summary": "बागपत के विक्रांत तोमर ने कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठगा। उसे न्यायिक हिरासत में भेज दिया गया है। यूपी के बागपत का 23 वर्ष का विक्रांत तोमर उर्फ विक्की तोमर अब तक दिल्ली, यूपी व हरियाणा में 50 से ज्यादा महिला सिपाहियों को ठग चुका है। कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठग चुका विक्रांत तोमर, न्यायिक हिरासत।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कांग्रेस नेता एचके पाटिल की मांग- CEC ज्ञानेश कुमार पद छोड़ें; झारखंड में आदिवासी महिला की हत्या",
+      "url": "https://www.amarujala.com/india-news/national-updates-26-oct-congress-demand-cec-step-down-jharkhand-tribal-woman-murder-north-east-west-south-news-2026-10-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-25T21:45:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0",
+      "summary": "कांग्रेस नेता एचके पाटिल ने चुनाव आयोग के मुख्य चुनाव अधिकारी ज्ञानेश कुमार से पद छोड़ने की मांग की है। झारखंड में एक आदिवासी महिला की हत्या के बाद यह राजनीतिक दबाव बना है। न्यूज डायरी: कांग्रेस नेता एचके पाटिल की मांग- CEC ज्ञानेश कुमार पद छोड़ें; झारखंड में आदिवासी महिला की हत्या।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कांग्रेस नेता एचके पाटिल की मांग- CEC ज्ञानेश कुमार पद छोड़ें; झारखंड में आदिवासी महिला की हत्या",
+          "summary": "कांग्रेस नेता एचके पाटिल ने चुनाव आयोग के मुख्य चुनाव अधिकारी ज्ञानेश कुमार से पद छोड़ने की मांग की है। झारखंड में एक आदिवासी महिला की हत्या के बाद यह राजनीतिक दबाव बना है। न्यूज डायरी: कांग्रेस नेता एचके पाटिल की मांग- CEC ज्ञानेश कुमार पद छोड़ें; झारखंड में आदिवासी महिला की हत्या।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रेलवे स्टेशन के सामने शिव मार्केट में लगी भीषण आग, कई दुकानें चपेट में; बुझाने के प्रयास जारी",
+      "url": "https://www.amarujala.com/jammu/massive-fire-broke-out-at-shiv-market-opposite-jammu-railway-station-2026-10-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T21:30:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/bhapal-ma-bsa-ma-aaga_c7aab8bd436f9f4c3ba4908d85f5a4f6.jpeg?w=1200&dpr=1.0",
+      "summary": "जम्मू रेलवे स्टेशन के सामने शिव मार्केट में भीषण आग लग गई है। कई दुकानें चपेट में आ गईं और बुझाने के प्रयास जारी हैं। स्थानीय प्रशासन ने राहत कार्य शुरू किया है। जम्मू रेलवे स्टेशन के सामने स्थित शिव मार्केट में भीषण आग लग गई है। रेलवे स्टेशन के सामने शिव मार्केट में लगी भीषण आग, कई दुकानें चपेट में; बुझाने के प्रयास जारी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रेलवे स्टेशन के सामने शिव मार्केट में लगी भीषण आग, कई दुकानें चपेट में; बुझाने के प्रयास जारी",
+          "summary": "जम्मू रेलवे स्टेशन के सामने शिव मार्केट में भीषण आग लग गई है। कई दुकानें चपेट में आ गईं और बुझाने के प्रयास जारी हैं। स्थानीय प्रशासन ने राहत कार्य शुरू किया है। जम्मू रेलवे स्टेशन के सामने स्थित शिव मार्केट में भीषण आग लग गई है। रेलवे स्टेशन के सामने शिव मार्केट में लगी भीषण आग, कई दुकानें चपेट में; बुझाने के प्रयास जारी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी के पिता पर अपमानजनक टिप्पणी कर फंसे मल्लिकार्जुन खरगे पटना में FIR दर्ज!",
+      "url": "https://www.amarujala.com/video/india-news/mallikarjun-kharge-lands-in-trouble-for-making-derogatory-remarks-about-pm-modi-s-father-fir-registered-in-pa-2026-10-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-25T20:35:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/fir-filed-in-patna_36cd4a223bcb3cd9cfe7592b1665853f.jpeg?w=1200&dpr=1.0",
+      "summary": "पटना में मल्लिकार्जुन खरगे पर प्रधानमंत्री मोदी के पिता के अपमान के आरोप में एफआईआर दर्ज की गई है। यह मामला राजनीतिक विवाद को नए मोड़ पर ले गया है। पीएम मोदी के पिता पर अपमानजनक टिप्पणी कर फंसे मल्लिकार्जुन खरगे पटना में FIR दर्ज!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी के पिता पर अपमानजनक टिप्पणी कर फंसे मल्लिकार्जुन खरगे पटना में FIR दर्ज!",
+          "summary": "पटना में मल्लिकार्जुन खरगे पर प्रधानमंत्री मोदी के पिता के अपमान के आरोप में एफआईआर दर्ज की गई है। यह मामला राजनीतिक विवाद को नए मोड़ पर ले गया है। पीएम मोदी के पिता पर अपमानजनक टिप्पणी कर फंसे मल्लिकार्जुन खरगे पटना में FIR दर्ज!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आईआईटी छात्र साहिल वाकोडे की याद में कैंडल मार्च, कॉमेडियन मासूम राजवानी हिरासत में; 140 लोग पकड़े",
+      "url": "https://www.amarujala.com/india-news/comedian-masoom-rajwani-detained-in-mumbai-during-candlelight-vigil-for-iit-bombay-student-sahil-wakode-2026-10-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T20:34:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/masoom-rajwani-sahil-wakode-iit-bombay_8c5199b39102f562a33b5f1299238652.jpeg?w=1200&dpr=1.0",
+      "summary": "मुंबई में आईआईटी छात्र साहिल वाकोडे की याद में कैंडल मार्च निकाला गया। कॉमेडियन मासूम राजवानी को हिरासत में लिया गया और कुल 140 लोगों को गिरफ्तार किया गया। आईआईटी छात्र साहिल वाकोडे की याद में कैंडल मार्च, कॉमेडियन मासूम राजवानी हिरासत में; 140 लोग पकड़े।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईआईटी छात्र साहिल वाकोडे की याद में कैंडल मार्च, कॉमेडियन मासूम राजवानी हिरासत में; 140 लोग पकड़े",
+          "summary": "मुंबई में आईआईटी छात्र साहिल वाकोडे की याद में कैंडल मार्च निकाला गया। कॉमेडियन मासूम राजवानी को हिरासत में लिया गया और कुल 140 लोगों को गिरफ्तार किया गया। आईआईटी छात्र साहिल वाकोडे की याद में कैंडल मार्च, कॉमेडियन मासूम राजवानी हिरासत में; 140 लोग पकड़े।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "10 हजार के कर्ज के लिए किसान को बनाया बंधक? फाइनेंस कंपनी के दफ्तर में मिला शव, तीन लोग हिरासत में",
+      "url": "https://www.amarujala.com/india-news/nanded-farmer-found-dead-in-finance-company-office-over-rs-10-000-loan-three-detained-2026-10-26",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-25T20:12:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/14/crime_007f8ff9301f825174d907940832ec4d.jpeg?w=1200&dpr=1.0",
+      "summary": "नासिक में एक किसान का शव फाइनेंस कंपनी के दफ्तर में मिला है। दस हजार रुपये के कर्ज को लेकर उसे बंधक बनाया गया था। तीन लोगों को हिरासत में लिया गया है। महाराष्ट्र: 10 हजार के कर्ज के लिए किसान को बनाया बंधक? फाइनेंस कंपनी के दफ्तर में मिला शव, तीन लोग हिरासत में।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "10 हजार के कर्ज के लिए किसान को बनाया बंधक? फाइनेंस कंपनी के दफ्तर में मिला शव, तीन लोग हिरासत में",
+          "summary": "नासिक में एक किसान का शव फाइनेंस कंपनी के दफ्तर में मिला है। दस हजार रुपये के कर्ज को लेकर उसे बंधक बनाया गया था। तीन लोगों को हिरासत में लिया गया है। महाराष्ट्र: 10 हजार के कर्ज के लिए किसान को बनाया बंधक? फाइनेंस कंपनी के दफ्तर में मिला शव, तीन लोग हिरासत में।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "तिहाड़ के हाई सिक्योरिटी वार्ड में गैंगस्टर नफे सिंह की संदिग्ध हालत में मौत, हार्ट अटैक की आशंका",
+      "url": "https://www.amarujala.com/delhi-ncr/gangster-nafe-singh-dies-under-suspicious-circumstances-in-tihar-s-high-security-ward-2026-10-26",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T19:57:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/1_cb605915f57648e08e44f6c9603e4fb3.jpeg?w=1200&dpr=1.0",
+      "summary": "बाहरी दिल्ली के नामी गैंगस्टर नफे सिंह की तिहाड़ जेल के हाई सिक्योरिटी वार्ड में संदिग्ध हालत में मौत हो गई। प्रारंभिक जांच में हार्ट अटैक की आशंका जताई जा रही है। बाहरी दिल्ली के नामी गैंगस्टर नफे सिंह उर्फ मंत्री की देश की सबसे बड़ी तिहाड़ जेल की हाई सिक्यूरिटी वार्ड में संदिग्ध हालत में मौत होने का सामने आया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तिहाड़ के हाई सिक्योरिटी वार्ड में गैंगस्टर नफे सिंह की संदिग्ध हालत में मौत, हार्ट अटैक की आशंका",
+          "summary": "बाहरी दिल्ली के नामी गैंगस्टर नफे सिंह की तिहाड़ जेल के हाई सिक्योरिटी वार्ड में संदिग्ध हालत में मौत हो गई। प्रारंभिक जांच में हार्ट अटैक की आशंका जताई जा रही है। बाहरी दिल्ली के नामी गैंगस्टर नफे सिंह उर्फ मंत्री की देश की सबसे बड़ी तिहाड़ जेल की हाई सिक्यूरिटी वार्ड में संदिग्ध हालत में मौत होने का सामने आया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "एक साथ 517 लोगों ने किया शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी के तट पर आयोजन",
       "url": "https://www.amarujala.com/india-news/nashik-guinness-world-record-517-conch-shells-blow-godavari-river-bank-simhastha-kumbh-world-record-shankhnaad-2026-10-26",
       "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-10-25T19:46:12+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/nasaka-ma-bna-shakhanatha-ka-varalda-rakarada_9da18e51ea221abeae670c7476d42d8e.gif?w=1200&dpr=1.0",
-      "summary": "नासिक में गोदावरी नदी के तट पर 517 लोगों ने एक साथ शंखनाद किया। यह आयोजन सिंहस्थ कुंभ से पहले गिनीज वर्ल्ड रिकॉर्ड के लिए किया गया था। नासिक में गिनीज वर्ल्ड रिकॉर्ड: एक साथ 517 लोगों के शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी नदी के तट पर आयोजन।",
+      "summary": "नासिक में गोदावरी नदी के तट पर 517 लोगों ने एक साथ शंखनाद किया। यह आयोजन सिंहस्थ कुंभ से पहले गिनीज वर्ल्ड रिकॉर्ड के लिए किया गया था। नासिक में गिनीज वर्ल्ड रिकॉर्ड: एक साथ 517 लोगों के शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी नदी के तट पर आयोजन। एक साथ 517 लोगों ने किया शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी के तट पर आयोजन।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एक साथ 517 लोगों के शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी नदी के तट पर आयोजन",
-          "summary": "नासिक में गोदावरी नदी के तट पर 517 लोगों ने एक साथ शंखनाद किया। यह आयोजन सिंहस्थ कुंभ से पहले गिनीज वर्ल्ड रिकॉर्ड के लिए किया गया था। नासिक में गिनीज वर्ल्ड रिकॉर्ड: एक साथ 517 लोगों के शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी नदी के तट पर आयोजन।",
+          "title": "एक साथ 517 लोगों ने किया शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी के तट पर आयोजन",
+          "summary": "नासिक में गोदावरी नदी के तट पर 517 लोगों ने एक साथ शंखनाद किया। यह आयोजन सिंहस्थ कुंभ से पहले गिनीज वर्ल्ड रिकॉर्ड के लिए किया गया था। नासिक में गिनीज वर्ल्ड रिकॉर्ड: एक साथ 517 लोगों के शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी नदी के तट पर आयोजन। एक साथ 517 लोगों ने किया शंखनाद, सिंहस्थ कुंभ से पहले गोदावरी के तट पर आयोजन।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
@@ -430,6 +610,24 @@
           "title": "जंग छिड़ी तो 90 दिन तक नहीं थमेगी अमेरिकी सेना, पेंटागन ने बनाया परमाणु रिएक्टर वाला प्लान",
           "summary": "पेंटागन ने FORTRESS योजना के तहत सैन्य अड्डों को 90 दिन तक स्वतंत्र रूप से चलाने की तैयारी की है। इसमें बैटरी स्टोरेज, छोटे परमाणु रिएक्टर और स्थानीय फैक्ट्रियों से सैन्य सामान की आपूर्ति शामिल है। इसका उद्देश्य युद्ध के दौरान सप्लाई चेन बाधित होने पर सेना की कार्यक्षमता बनाए रखना है। अमेरिका का रक्षा विभाग पेंटागन FORTRESS योजना के तहत अपने सैन्य अड्डों को कम से कम 90 दिन तक अपने दम पर चलाने की तैयारी कर रहा है.",
           "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "इजरायल की राजनीति में नेतन्याहू का भविष्य: गादी आइजेनकोट से लेकर नफ्ताली बेनेट तक, कौन हैं प्रमुख",
+      "url": "https://www.patrika.com/world-news/israel-politics-benjamin-netanyahu-opposition-coalition-government-21008242",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-25T17:59:14+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp",
+      "summary": "इजरायल में मंगलवार को आम चुनाव हुए, जिनमें प्रधानमंत्री नेतन्याहू का राजनीतिक भविष्य परखने का मौका मिला। पूर्व सेना प्रमुख गादी आइजेनकोट की याशार पार्टी सर्वेक्षणों में बढ़त बनाए हुए है। Israel Politics: हमास के 7 अक्टूबर 2023 के हमले के तीन साल बाद इजरायल में मंगलवार को आम चुनाव के लिए मतदान होगा। यह चुनाव इजरायल के सबसे लंबे समय तक प्रधानमंत्री रहे बेंजामिन नेतन्याहू के लंबे राजनीतिक वर्चस्व की परीक्षा माना जा रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजरायल की राजनीति में नेतन्याहू का भविष्य: गादी आइजेनकोट से लेकर नफ्ताली बेनेट तक, कौन हैं प्रमुख",
+          "summary": "इजरायल में मंगलवार को आम चुनाव हुए, जिनमें प्रधानमंत्री नेतन्याहू का राजनीतिक भविष्य परखने का मौका मिला। पूर्व सेना प्रमुख गादी आइजेनकोट की याशार पार्टी सर्वेक्षणों में बढ़त बनाए हुए है। Israel Politics: हमास के 7 अक्टूबर 2023 के हमले के तीन साल बाद इजरायल में मंगलवार को आम चुनाव के लिए मतदान होगा। यह चुनाव इजरायल के सबसे लंबे समय तक प्रधानमंत्री रहे बेंजामिन नेतन्याहू के लंबे राजनीतिक वर्चस्व की परीक्षा माना जा रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -556,204 +754,6 @@
           "title": "रियाद का किंग खालिद एयरपोर्ट आंशिक रूप से फिर खुला, दो टर्मिनलों से शुरू हुईं उड़ानें",
           "summary": "सऊदी अधिकारियों ने रविवार को बताया कि रियाद के किंग खालिद अंतरराष्ट्रीय हवाई अड्डे को आंशिक रूप से फिर खोला जा रहा है। टर्मिनल 1 घरेलू उड़ानों के लिए और टर्मिनल 2 राष्ट्रीय विमानन कंपनियों की अंतरराष्ट्रीय उड़ानों के लिए उपयोग में आएगा। Airport Attacks: सऊदी अरब अधिकारियों ने रविवार को बताया कि सऊदी अरब की राजधानी रियाद में स्थित किंग खालिद अंतरराष्ट्रीय हवाई अड्डे को आंशिक रूप से फिर से खोला जा रहा है।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "नीतीश कुमार पर मल्लिकार्जुन खरगे का बड़ा बयान, 'मुझे दुख हुआ कि ऐसे नेता...'",
-      "url": "https://www.abplive.com/news/india/mallikarjun-kharge-in-patna-says-i-am-pained-nitish-kumar-joined-hands-with-people-believe-in-rss-ideology-3206676",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-25T13:13:04+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/9cd995c354129806c410d06a44768aa617929335130291126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने 25 अक्टूबर 2026 को नीतीश कुमार पर हमला किया। उन्होंने कहा कि समाजवादी सोच वाले नेता के RSS विचारधारा वाले लोगों के साथ हाथ मिलाने से उन्हें दुख हुआ। खरगे ने इस गठबंधन को गलत बताया। कांग्रेस पार्टी के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे ने रविवार (25 अक्टूबर, 2026) को बिहार के पूर्व मुख्यमंत्री नीतीश कुमार को लेकर बड़ा बयान दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नीतीश कुमार पर मल्लिकार्जुन खरगे का बड़ा बयान, 'मुझे दुख हुआ कि ऐसे नेता...'",
-          "summary": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने 25 अक्टूबर 2026 को नीतीश कुमार पर हमला किया। उन्होंने कहा कि समाजवादी सोच वाले नेता के RSS विचारधारा वाले लोगों के साथ हाथ मिलाने से उन्हें दुख हुआ। खरगे ने इस गठबंधन को गलत बताया। कांग्रेस पार्टी के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे ने रविवार (25 अक्टूबर, 2026) को बिहार के पूर्व मुख्यमंत्री नीतीश कुमार को लेकर बड़ा बयान दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'गरीबों को सम्मान देना असल मकसद', PM मोदी ने RBI के डेटा सेंटर का किया उद्घाटन",
-      "url": "https://www.abplive.com/news/india/pm-modi-inaugurated-rbi-data-centre-and-cybersecurity-training-institute-bhubaneshwar-odisha-3206677",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-25T13:04:05+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/ab388a9ee3b003463b60c8b1fcf84d9917929333049011324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "प्रधानमंत्री नरेंद्र मोदी ने भुवनेश्वर में भारतीय रिजर्व बैंक के नए डेटा सेंटर का उद्घाटन किया। साथ ही साइबर सिक्योरिटी ट्रेनिंग इंस्टीट्यूट भी शुरू हुआ। मोदी ने इसे नए भारत के लिए एक महत्वपूर्ण संस्थात्मक कदम बताया। भारतीय रिजर्व बैंंक के नए डेटा सेटर और साइबर सिक्योरिटी ट्रेनिंग इंस्टीट्यूट का उद्घाटन करते हुए पीएम मोदी ने कहा, 'भुवनेश्वर नए भारत को एक नया संस्थान दे रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'गरीबों को सम्मान देना असल मकसद', PM मोदी ने RBI के डेटा सेंटर का किया उद्घाटन",
-          "summary": "प्रधानमंत्री नरेंद्र मोदी ने भुवनेश्वर में भारतीय रिजर्व बैंक के नए डेटा सेंटर का उद्घाटन किया। साथ ही साइबर सिक्योरिटी ट्रेनिंग इंस्टीट्यूट भी शुरू हुआ। मोदी ने इसे नए भारत के लिए एक महत्वपूर्ण संस्थात्मक कदम बताया। भारतीय रिजर्व बैंंक के नए डेटा सेटर और साइबर सिक्योरिटी ट्रेनिंग इंस्टीट्यूट का उद्घाटन करते हुए पीएम मोदी ने कहा, 'भुवनेश्वर नए भारत को एक नया संस्थान दे रहा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी प्रतिबंधों का असर, समंदर में खड़े ईरान के 12 टैंकर, 27 नाविक बीमार, श्रीलंका ने बढ़ाया मदद",
-      "url": "https://hindi.news18.com/world/south-asia-iran-oil-tankers-27-sailors-ill-sri-lanka-10936066.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-25T12:54:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/hormuz-12-2026-10-908357a32a82c7ccc86056b8b00030bd-1200x800.jpg",
-      "summary": "श्रीलंका के गाले बंदरगाह के पास खड़े ईरानी टैंकरों पर सवार 27 नाविक बीमार पड़ गए। श्रीलंकाई नौसेना ने उन्हें बचाकर कोलंबो के निजी अस्पताल भेजा। वहां करीब एक दर्जन खाली ईरानी तेल टैंकर अभी भी खड़े हैं। श्रीलंका के दक्षिणी तट के पास खड़े ईरानी कच्चे तेल के टैंकरों पर सवार 27 चालक दल के सदस्य बीमार पड़ गए.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी प्रतिबंधों का असर, समंदर में खड़े ईरान के 12 टैंकर, 27 नाविक बीमार, श्रीलंका ने बढ़ाया मदद",
-          "summary": "श्रीलंका के गाले बंदरगाह के पास खड़े ईरानी टैंकरों पर सवार 27 नाविक बीमार पड़ गए। श्रीलंकाई नौसेना ने उन्हें बचाकर कोलंबो के निजी अस्पताल भेजा। वहां करीब एक दर्जन खाली ईरानी तेल टैंकर अभी भी खड़े हैं। श्रीलंका के दक्षिणी तट के पास खड़े ईरानी कच्चे तेल के टैंकरों पर सवार 27 चालक दल के सदस्य बीमार पड़ गए.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सऊदी अरब पर 10 मिसाइलों से हमला, भारत ने दी चेतावनी, हूतियों ने मक्का-मदीना अटैक के आरोपों पर दी",
-      "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-10-missile-attack-on-houthi-rebel-mecca-medina-10935934.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-25T12:17:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/saudi-arabia-news-2-2026-10-1a80cb80fdfbaaeb6830e43c306afebc-1200x800.jpg",
-      "summary": "सऊदी अरब ने दावा किया कि उसकी एयर डिफेंस ने दक्षिण से दागी गई 10 बैलिस्टिक मिसाइलों को रोक दिया। एक और मिसाइल व दो ड्रोन भी इंटरसेप्ट किए गए। हूतियों ने मक्का-मदीना पर हमले के आरोपों को खारिज किया। Saudi Arabia: सऊदी अरब ने दावा किया कि उसके एयर डिफेंस सिस्टम ने दक्षिणी क्षेत्र की ओर दागी गई 10 बैलिस्टिक मिसाइलों को रोक दिया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी अरब पर 10 मिसाइलों से हमला, भारत ने दी चेतावनी, हूतियों ने मक्का-मदीना अटैक के आरोपों पर दी",
-          "summary": "सऊदी अरब ने दावा किया कि उसकी एयर डिफेंस ने दक्षिण से दागी गई 10 बैलिस्टिक मिसाइलों को रोक दिया। एक और मिसाइल व दो ड्रोन भी इंटरसेप्ट किए गए। हूतियों ने मक्का-मदीना पर हमले के आरोपों को खारिज किया। Saudi Arabia: सऊदी अरब ने दावा किया कि उसके एयर डिफेंस सिस्टम ने दक्षिणी क्षेत्र की ओर दागी गई 10 बैलिस्टिक मिसाइलों को रोक दिया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इंडिया गठबंधन की 1 नवंबर की रैली पर गिरिराज सिंह का निशाना, 'अर्बन-नक्सल...'",
-      "url": "https://www.abplive.com/news/india/giriraj-singh-took-aim-at-rahul-gandhi-congress-saying-urban-naxal-3206648",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-25T12:14:06+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/ec24e3c285498cb932329ac304c7646c17929297303911484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केंद्रीय मंत्री गिरिराज सिंह ने 1 नवंबर की इंडिया ब्लॉक रैली पर कांग्रेस और विपक्ष पर हमला किया। उन्होंने राहुल गांधी पर राजनीतिक विश्वसनीयता खोने का आरोप लगाया। सिंह ने इसे देश में अराजकता फैलाने की कोशिश बताया। केंद्रीय मंत्री गिरिराज सिंह ने 1 नवंबर को प्रस्तावित इंडिया ब्लॉक की रैली को लेकर कांग्रेस नेता राहुल गांधी और विपक्षी गठबंधन पर तीखा हमला बोला है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इंडिया गठबंधन की 1 नवंबर की रैली पर गिरिराज सिंह का निशाना, 'अर्बन-नक्सल...'",
-          "summary": "केंद्रीय मंत्री गिरिराज सिंह ने 1 नवंबर की इंडिया ब्लॉक रैली पर कांग्रेस और विपक्ष पर हमला किया। उन्होंने राहुल गांधी पर राजनीतिक विश्वसनीयता खोने का आरोप लगाया। सिंह ने इसे देश में अराजकता फैलाने की कोशिश बताया। केंद्रीय मंत्री गिरिराज सिंह ने 1 नवंबर को प्रस्तावित इंडिया ब्लॉक की रैली को लेकर कांग्रेस नेता राहुल गांधी और विपक्षी गठबंधन पर तीखा हमला बोला है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘यही है रूस का जवाब?’ हफ्तेभर में 1,600 बम, 48 मिसाइलें और 2,300 ड्रोन, जेलेंस्की ने उठाई पैट्रियट",
-      "url": "https://www.patrika.com/world-news/zelensky-slams-russia-attacks-patriot-air-defence-demand-21007755",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-25T12:09:48+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Volodymyr-Zelensky.webp",
-      "summary": "यूक्रेन के राष्ट्रपति जेलेंस्की ने रूस के हालिया हमलों की निंदा की। एक हफ्ते में 1,600 बम, 48 मिसाइलें और 2,300 ड्रोन गिराए गए। जेलेंस्की ने सर्दियों से पहले पैट्रियट इंटरसेप्टर की आपूर्ति की मांग दोहराई। Russian Attacks on Ukraine: यूक्रेन के राष्ट्रपति वोलोदिमीर जेलेंस्की ने रविवार को यूक्रेन पर रूस के हालिया हमलों की निंदा की। उन्होंने बताया कि इन हमलों में कई लोगों की जान गई, कई लोग घायल हुए और बुनियादी ढांचे को भारी नुकसान पहुंचा।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘यही है रूस का जवाब?’ हफ्तेभर में 1,600 बम, 48 मिसाइलें और 2,300 ड्रोन, जेलेंस्की ने उठाई पैट्रियट",
-          "summary": "यूक्रेन के राष्ट्रपति जेलेंस्की ने रूस के हालिया हमलों की निंदा की। एक हफ्ते में 1,600 बम, 48 मिसाइलें और 2,300 ड्रोन गिराए गए। जेलेंस्की ने सर्दियों से पहले पैट्रियट इंटरसेप्टर की आपूर्ति की मांग दोहराई। Russian Attacks on Ukraine: यूक्रेन के राष्ट्रपति वोलोदिमीर जेलेंस्की ने रविवार को यूक्रेन पर रूस के हालिया हमलों की निंदा की। उन्होंने बताया कि इन हमलों में कई लोगों की जान गई, कई लोग घायल हुए और बुनियादी ढांचे को भारी नुकसान पहुंचा।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "बांग्लादेशी नागरिकों के लिए आखिरकार खड़े हुए तारिक रहमान, सऊदी से मांगे 6 सवालों के जवाब",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-seeks-answers-saudi-arabia-death-penalty-two-citizens-10935927.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-25T11:59:25+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/bangladesh-2026-10-6b0693db669d4b0ddc6a7d05bee36ba4-1200x800.jpg",
-      "summary": "बांग्लादेश ने सऊदी अरब से 14 अक्टूबर को मृत्युदंड पाए दो नागरिकों के मामले में छह सवालों के जवाब मांगे हैं। तारिक रहमान ने आरोपों, अदालत के फैसले, कानूनी मदद और सजा देने की प्रक्रिया की जानकारी मांगी है। दोनों के शवों के संभालने के तरीके पर भी सवाल उठाए गए हैं। यह कूटनीतिक पहल मक्का की मस्जिद में गलत हरकत के मामले के बाद की गई है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेशी नागरिकों के लिए आखिरकार खड़े हुए तारिक रहमान, सऊदी से मांगे 6 सवालों के जवाब",
-          "summary": "बांग्लादेश ने सऊदी अरब से 14 अक्टूबर को मृत्युदंड पाए दो नागरिकों के मामले में छह सवालों के जवाब मांगे हैं। तारिक रहमान ने आरोपों, अदालत के फैसले, कानूनी मदद और सजा देने की प्रक्रिया की जानकारी मांगी है। दोनों के शवों के संभालने के तरीके पर भी सवाल उठाए गए हैं। यह कूटनीतिक पहल मक्का की मस्जिद में गलत हरकत के मामले के बाद की गई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "छोटी सी गलती पड़ जाएगी भारी! भारत ने सऊदी में नागरिकों के लिए जारी की एडवाइजरी",
-      "url": "https://www.abplive.com/news/world/indian-embassy-issued-instructions-to-indians-stranded-in-saudi-arabia-dont-make-videos-3206603",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-10-25T11:56:42+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/7eab93cf2211d1b9846cecd70a7dcbf317929254448521484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "भारत के सऊदी अरब स्थित दूतावास ने 25 अक्टूबर 2026 को भारतीय नागरिकों को स्थानीय नियमों का कड़ाई से पालन करने का निर्देश दिया। सऊदी सिविल डिफेंस ने विदेशियों से मिसाइल या ड्रोन घटनाओं का वीडियो बनाने और उसकी जानकारी प्रसारित करने से बचने की सलाह दी है। यह निर्देश क्षेत्र में बढ़ती सुरक्षा चिंताओं के बीच जारी किया गया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "छोटी सी गलती पड़ जाएगी भारी! भारत ने सऊदी में नागरिकों के लिए जारी की एडवाइजरी",
-          "summary": "भारत के सऊदी अरब स्थित दूतावास ने 25 अक्टूबर 2026 को भारतीय नागरिकों को स्थानीय नियमों का कड़ाई से पालन करने का निर्देश दिया। सऊदी सिविल डिफेंस ने विदेशियों से मिसाइल या ड्रोन घटनाओं का वीडियो बनाने और उसकी जानकारी प्रसारित करने से बचने की सलाह दी है। यह निर्देश क्षेत्र में बढ़ती सुरक्षा चिंताओं के बीच जारी किया गया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'विजय थलापति नहीं बना पाते सरकार अगर...', दिनाकरन का बड़ा खुलासा",
-      "url": "https://www.abplive.com/news/india/ttv-dhinakaran-reveals-aiadmk-eps-plan-b-if-tvk-chief-vijay-would-have-failed-to-form-government-in-tamil-nadu-3206616",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-25T11:43:25+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/44df57f40f9fb6d11691330bbe48bc1217929267711621126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तमिलनाडु में अगली सरकार बनाने की संभावनाओं पर राजनीतिक गणित बदल गया है। अम्मा मक्कल मुनेत्र कझगम के महासचिव टीटीवी दिनाकरन ने खुलासा किया कि एआईएडीएमके के नेताओं ने विजय की असफलता के बाद थोल थिरुमावलवन को सहयोग देने पर चर्चा की थी। इस बातचीत का उद्देश्य राज्य में सत्ता संतुलन बनाए रखना था। यह प्रस्ताव तब तैयार किया गया था जब विजय की पार्टी की स्थिति अस्थिर मानी जा रही थी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'विजय थलापति नहीं बना पाते सरकार अगर...', दिनाकरन का बड़ा खुलासा",
-          "summary": "तमिलनाडु में अगली सरकार बनाने की संभावनाओं पर राजनीतिक गणित बदल गया है। अम्मा मक्कल मुनेत्र कझगम के महासचिव टीटीवी दिनाकरन ने खुलासा किया कि एआईएडीएमके के नेताओं ने विजय की असफलता के बाद थोल थिरुमावलवन को सहयोग देने पर चर्चा की थी। इस बातचीत का उद्देश्य राज्य में सत्ता संतुलन बनाए रखना था। यह प्रस्ताव तब तैयार किया गया था जब विजय की पार्टी की स्थिति अस्थिर मानी जा रही थी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'युद्ध हुआ तो भी नहीं झुकेगा ईरान', अमेरिका को अराघची की दो टूक, बोले- अब सब बदल चुका है",
-      "url": "https://hindi.news18.com/world/middle-east-iran-foreign-minister-abbas-araghchi-warns-us-against-new-attacks-10935918.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-25T11:24:07+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/iran-2026-10-32bcc58eb8be66928d8e336093647e56-1200x800.jpg",
-      "summary": "ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका को नए हमले की धमकी देते हुए साफ कहा कि युद्ध की खतरे से ईरान की नीतियां नहीं बदलेंगी। उन्होंने दावा किया कि हालिया संघर्ष के बाद मध्य पूर्व की स्थिति पहले जैसी नहीं रही है। अराघची का यह बयान क्षेत्रीय तनाव को और बढ़ा सकता है। पड़ोसी देशों के साथ सहयोग या आगे के संघर्ष का रास्ता अब अज्ञात है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'युद्ध हुआ तो भी नहीं झुकेगा ईरान', अमेरिका को अराघची की दो टूक, बोले- अब सब बदल चुका है",
-          "summary": "ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका को नए हमले की धमकी देते हुए साफ कहा कि युद्ध की खतरे से ईरान की नीतियां नहीं बदलेंगी। उन्होंने दावा किया कि हालिया संघर्ष के बाद मध्य पूर्व की स्थिति पहले जैसी नहीं रही है। अराघची का यह बयान क्षेत्रीय तनाव को और बढ़ा सकता है। पड़ोसी देशों के साथ सहयोग या आगे के संघर्ष का रास्ता अब अज्ञात है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'मोदी का बाप भी जाएगा', प्रधानमंत्री पर खरगे का विवादित बयान, कार्यक्रम में हंगामा",
-      "url": "https://www.abplive.com/news/india/mallikarjun-kharge-controversial-statement-on-pm-modi-in-patna-rally-3206624",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-25T11:18:30+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/25/df9db20f7feca2577b30400d7e08a58117929268620781324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "पटना के बापू सभागार में कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने बंगाल, बिहार, महाराष्ट्र और हरियाणा की सरकारों को वोट चोरी की सरकार कहकर विवाद खड़ा कर दिया। कार्यक्रम में एक व्यक्ति ने मोदी कभी नहीं जाएगा, का बचाव किया। खरगे ने मंच से जवाब देते हुए कहा कि मोदी का बाप भी जाएगा। इस बयान के बाद वहां हंगामे की स्थिति बन गई।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मोदी का बाप भी जाएगा', प्रधानमंत्री पर खरगे का विवादित बयान, कार्यक्रम में हंगामा",
-          "summary": "पटना के बापू सभागार में कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने बंगाल, बिहार, महाराष्ट्र और हरियाणा की सरकारों को वोट चोरी की सरकार कहकर विवाद खड़ा कर दिया। कार्यक्रम में एक व्यक्ति ने मोदी कभी नहीं जाएगा, का बचाव किया। खरगे ने मंच से जवाब देते हुए कहा कि मोदी का बाप भी जाएगा। इस बयान के बाद वहां हंगामे की स्थिति बन गई।",
-          "region": "दुनिया"
         }
       }
     }
