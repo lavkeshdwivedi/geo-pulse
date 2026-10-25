@@ -1,6 +1,80 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 25, 2026 20:09 IST
+**Updated:** October 25, 2026 23:26 IST
+
+---
+
+## Middle East & Africa
+
+### [Israeli air strikes kill several across Gaza Strip: local authorities](https://www.thehindu.com/news/international/israeli-air-strikes-kill-several-across-gaza-strip-local-authorities/article71624332.ece)
+*The Hindu (International)* - Oct 25, 22:27 IST (iso: 2026-10-25T16:57:12+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/3sv516/article71624402.ece/alternates/LANDSCAPE_1200/AFP_D4D87CC.jpg -->
+
+Israeli drone strikes killed several people in Gaza City on 12 April 2026. Al Shifa hospital received three bodies and treated eight wounded. Islamic University sources confirmed the dead were administrative staff. The injured included students. Al Shifa hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students.
+
+### [Beyond national interest: role of ethics and emotions in world politics](https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece)
+*The Hindu (International)* - Oct 25, 22:25 IST (iso: 2026-10-25T16:55:15+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/7w603w/article71278488.ece/alternates/LANDSCAPE_1200/_DSC8206.JPG -->
+
+Foreign policy decisions are shaped by moral perceptions and collective emotions, not just strategic calculation. Historical examples show ethics influencing international relations. The shifting public view of the Israel-Palestine conflict illustrates this dynamic. History offers numerous examples of ethics shaping international politics. Foreign policy is not merely an exercise in strategic calculation; it is also shaped by moral perceptions and collective emotions, as illustrated by the change in public perception towards the Israel-Palestine conflict.
+
+### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
+*UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image770x420cropped.jpg -->
+
+Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
+
+### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
+*Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Israel-Orthodox-Jews.jpg -->
+
+Israeli authorities detained dozens of Haredi men on 20 October 2026, a week before national elections. Prime Minister Benjamin Netanyahu condemned the draft evasion arrests as unacceptable. The incident highlights the political leverage ultra-Orthodox parties hold over Netanyahu's electoral prospects following a 2024 court ruling on military service exemptions. On October 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable.” The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis.
+
+### [Every Day We 'Wake Up Poorer': Iranians Battle Economic Woes](https://www.rferl.org/a/iran-economy-war-sanctions-cost-living-inflation/33882913.html)
+*Radio Free Europe / Liberty* - Oct 23, 20:58 IST (iso: 2026-10-23T15:28:39+00:00)
+<!-- image: https://gdb.rferl.org/b8be4b6e-0fe9-49c2-76af-08df13a869ed_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Iran’s economy faces severe strain from mismanagement, sanctions, and war. Citizens report waking up poorer daily. The cost-of-living crisis forces changes in diet, social habits, and life choices. Basic affordability is eroding across the population. Battered by mismanagement, sanctions, and war, Iran’s economy is in deep trouble. The cost-of-living crisis is forcing people to change what they eat, how they socialize, and what they can afford to do with their lives.
+
+### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
+*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
+<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
+
+Health officials are investigating how Nigeria’s first Ebola patient in over a decade contracted the virus. The patient is the wife of a Swiss diplomat who traveled in Uganda. The outbreak has reached a fourth African country, raising concerns about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
+
+### [Iran’s mountain shelters offer Taiwan a China survival playbook](https://asiatimes.com/2026/10/irans-mountain-shelters-offer-taiwan-a-china-survival-playbook/)
+*Asia Times* - Oct 23, 14:35 IST (iso: 2026-10-23T09:05:16+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Iran-Air-Force.jpeg -->
+
+Iran is repairing its Eagle 44 airbase in Hormozgan province after recent strikes. The subterranean facility demonstrates the value of hardened mountain shelters against precision firepower. This recovery offers a survival playbook for air forces facing superior adversaries. Iran’s rapid post-strike recovery of its Eagle 44 airbase proves that hardened mountain shelters remain a decisive shield against precision firepower, transforming how inferior air forces survive and deter superior adversaries.
+
+### [Xi’s peace principles offer little cover for China in Africa](https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa/)
+*Asia Times* - Oct 23, 10:16 IST (iso: 2026-10-23T04:46:38+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Togo_Faure-Gnassingbe_China_Xi-Jinping_October-13_2026.jpg -->
+
+Jihadist factions JNIM and ISSP clashed near Gonadaouri in Burkina Faso on October 9. The fight occurred in Oudalan province close to the Malian border. This violence highlights the limits of China’s peace principles in the region. Beijing’s diplomatic framework offers little practical cover for its interests there. The conflict underscores the persistent instability in the Sahel. On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.
+
+### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
+*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
+
+Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
+
+### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
+*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
+
+Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
+
+---
+
+## World
+
+### [How people’s genes are revealing why some languages are so unique](https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece)
+*The Hindu (International)* - Oct 25, 19:39 IST (iso: 2026-10-25T14:09:33+00:00)
+<!-- image: https://th-i.thgim.com/public/news/b6r7ed/article71218689.ece/alternates/LANDSCAPE_1200/iStock-2236164423.jpg -->
+
+A new study measured linguistic differences between neighbouring languages. Researchers found hotspots where languages diverged significantly. These areas offer insights into pre-migration language variety. Population movements later reshaped global linguistic patterns. A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and population movements reshaped much of the world.
 
 ---
 
@@ -97,76 +171,6 @@ China is refitting older destroyers to maintain fleet mass against the United St
 <!-- image: https://asiatimes.com/wp-content/uploads/2021/05/China-Data-Centers-Guizhou-Province.jpg -->
 
 The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Southeast Asian nations previously leveraged ties with both powers for economic gain. Competing technology networks now force governments to choose sides, reducing their diplomatic flexibility and strategic room for maneuver. For decades, Southeast Asia has turned great-power rivalry to an economic advantage. By maintaining healthy ties with Washington and Beijing, ASEAN governments attracted investment, expanded trade and preserved room for diplomatic maneuver.
-
----
-
-## Middle East & Africa
-
-### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
-*UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image770x420cropped.jpg -->
-
-Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
-
-### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
-*Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Israel-Orthodox-Jews.jpg -->
-
-Israeli authorities detained dozens of Haredi men on 20 October 2026, a week before national elections. Prime Minister Benjamin Netanyahu condemned the draft evasion arrests as unacceptable. The incident highlights the political leverage ultra-Orthodox parties hold over Netanyahu's electoral prospects following a 2024 court ruling on military service exemptions. On October 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable.” The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis.
-
-### [Every Day We 'Wake Up Poorer': Iranians Battle Economic Woes](https://www.rferl.org/a/iran-economy-war-sanctions-cost-living-inflation/33882913.html)
-*Radio Free Europe / Liberty* - Oct 23, 20:58 IST (iso: 2026-10-23T15:28:39+00:00)
-<!-- image: https://gdb.rferl.org/b8be4b6e-0fe9-49c2-76af-08df13a869ed_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Iran’s economy faces severe strain from mismanagement, sanctions, and war. Citizens report waking up poorer daily. The cost-of-living crisis forces changes in diet, social habits, and life choices. Basic affordability is eroding across the population. Battered by mismanagement, sanctions, and war, Iran’s economy is in deep trouble. The cost-of-living crisis is forcing people to change what they eat, how they socialize, and what they can afford to do with their lives.
-
-### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
-*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
-<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
-
-Health officials are investigating how Nigeria’s first Ebola patient in over a decade contracted the virus. The patient is the wife of a Swiss diplomat who traveled in Uganda. The outbreak has reached a fourth African country, raising concerns about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
-
-### [Iran’s mountain shelters offer Taiwan a China survival playbook](https://asiatimes.com/2026/10/irans-mountain-shelters-offer-taiwan-a-china-survival-playbook/)
-*Asia Times* - Oct 23, 14:35 IST (iso: 2026-10-23T09:05:16+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Iran-Air-Force.jpeg -->
-
-Iran is repairing its Eagle 44 airbase in Hormozgan province after recent strikes. The subterranean facility demonstrates the value of hardened mountain shelters against precision firepower. This recovery offers a survival playbook for air forces facing superior adversaries. Iran’s rapid post-strike recovery of its Eagle 44 airbase proves that hardened mountain shelters remain a decisive shield against precision firepower, transforming how inferior air forces survive and deter superior adversaries.
-
-### [Xi’s peace principles offer little cover for China in Africa](https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa/)
-*Asia Times* - Oct 23, 10:16 IST (iso: 2026-10-23T04:46:38+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Togo_Faure-Gnassingbe_China_Xi-Jinping_October-13_2026.jpg -->
-
-Jihadist factions JNIM and ISSP clashed near Gonadaouri in Burkina Faso on October 9. The fight occurred in Oudalan province close to the Malian border. This violence highlights the limits of China’s peace principles in the region. Beijing’s diplomatic framework offers little practical cover for its interests there. The conflict underscores the persistent instability in the Sahel. On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.
-
-### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
-*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
-
-Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
-
-### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
-*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
-
-Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
-
-### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
-*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
-
-Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The outbreak has now spread into western Africa, marking a significant regional health concern. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
-
-### [How War is Reshaping Iran’s “Axis of Resistance”](https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance)
-*International Crisis Group* - Oct 16, 23:43 IST (iso: 2026-10-16T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Three years of hostilities have reshaped Iran’s Axis of Resistance. Tehran now relies more heavily on its own military capabilities. It continues to protect partners whose diminished utility has not reduced its strategic commitment to them. Three years of hostilities have transformed Tehran’s network of allies in the Middle East. The Islamic Republic is now relying more heavily on itself, while adapting its relationships with partners whose diminished military utility has not necessarily reduced its commitment to their protection.
-
-### [Multiplying Crises, Fraying Consensus at the 2026 UN General Assembly](https://www.crisisgroup.org/vis/global/multiplying-crises-fraying-consensus-2026-un-general-assembly)
-*International Crisis Group* - Oct 16, 05:30 IST (iso: 2026-10-16T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/14045562/pexels-photo-14045562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-At the 2026 UN General Assembly in New York, leaders addressed a broad range of peace and security concerns, none of which dominated the agenda. Crisis Group experts dissect the competing priorities of member states, highlighting how overlapping crises dilute consensus and complicate collective action. World leaders raised an array of peace and security concerns in their speeches at the 2026UN General Assembly, with no single issue standing out.
 
 ---
 
