@@ -1,10 +1,32 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 25, 2026 15:46 IST
+**Updated:** October 25, 2026 20:09 IST
+
+---
+
+## Americas
+
+### [Brazil votes in tense Lula vs Bolsonaro runoff with U.S. influence over Latin America at stake](https://www.thehindu.com/news/international/brazil-votes-in-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake/article71623468.ece)
+*The Hindu (International)* - Oct 25, 19:07 IST (iso: 2026-10-25T13:37:13+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/qbs4x9/article71623490.ece/alternates/LANDSCAPE_1200/2026-10-25T131221Z_1931470015_RC2CAOAEK1Y2_RTRMADP_3_BRAZIL-ELECTION.JPG -->
+
+Flávio Bolsonaro leads Lula by 2.2 million votes after the first round. Over 33 million of 160 million eligible voters abstained. The runoff determines U. S. influence across Latin America. Brazil faces a decisive contest with significant voter apathy. Flávio Bolsonaro bested Mr. Lula by more than 2.2 million votes in the first round of the election earlier this month, although more than 33 million voters out of nearly 160 million did not turn out.
 
 ---
 
 ## Europe & Russia
+
+### [French protest groups demand more rallies as Macron faces tough choices](https://www.thehindu.com/news/international/french-protest-groups-demand-more-rallies-as-macron-faces-tough-choices/article71623327.ece)
+*The Hindu (International)* - Oct 25, 18:50 IST (iso: 2026-10-25T13:20:37+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/a4szb1/article71623454.ece/alternates/LANDSCAPE_1200/2026-10-24T193741Z_215892420_RC2R9OA54ABW_RTRMADP_3_FRANCE-PROTEST.JPG -->
+
+French labour leaders called for rallies on November 31 and a strike on November 5. Frustration over wages and public services has spread beyond the initial student movement. Macron faces escalating pressure to address living costs. The protests mark a broadening of social unrest. Labour ‌leaders urged further protests next Saturday, November 31, and a nationwide strike on November 5, saying frustration over wages, living costs and public services was spreading ‌far beyond the student movement that first mobilised last month.
+
+### [Demand for UK government action 10 months after British man’s death in Grenada](https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada)
+*The Guardian* - Oct 25, 16:30 IST (iso: 2026-10-25T11:00:01+00:00)
+<!-- image: https://i.guim.co.uk/img/media/41857771d6b7e99a163e8d99af363e9bbd9ff452/628_0_5398_4319/master/5398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80aacac78857539bbb7b847c20d6ab68 -->
+
+Police closed the case of Andrew Frederick despite a homicide ruling. Diplomatic delays between the UK and Grenada stalled the investigation. Charity workers demand immediate government intervention. Ten months have passed since the British father’s death in a ransacked property. Police closed case of Andrew Frederick despite autopsy report ruling his death a homicideA time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two countries. Charity workers supporting the family of Andrew Frederick are demanding immediate government interv.
 
 ### [Relentless Russian Strikes Drive Civilians From Ukraine's Kramatorsk](https://www.rferl.org/a/relentless-russian-strikes-drive-civilians-from-ukraine-s-kramatorsk/33883080.html)
 *Radio Free Europe / Liberty* - Oct 25, 13:54 IST (iso: 2026-10-25T08:24:41+00:00)
@@ -50,13 +72,35 @@ Aleksandar Vucic faces his toughest parliamentary election challenge in fourteen
 
 ---
 
+## Asia-Pacific
+
+### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
+*The Guardian* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:56+00:00)
+<!-- image: https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e909d961099f6bf8027f885e3cf422a -->
+
+North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.
+
+### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
+*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
+
+Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
+
+### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
+*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
+
+China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
+
+### [US-China AI race turning ASEAN neutrality into a liability](https://asiatimes.com/2026/10/us-china-ai-race-turning-asean-neutrality-into-a-liability/)
+*Asia Times* - Oct 23, 11:16 IST (iso: 2026-10-23T05:46:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/05/China-Data-Centers-Guizhou-Province.jpg -->
+
+The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Southeast Asian nations previously leveraged ties with both powers for economic gain. Competing technology networks now force governments to choose sides, reducing their diplomatic flexibility and strategic room for maneuver. For decades, Southeast Asia has turned great-power rivalry to an economic advantage. By maintaining healthy ties with Washington and Beijing, ASEAN governments attracted investment, expanded trade and preserved room for diplomatic maneuver.
+
+---
+
 ## Middle East & Africa
-
-### [Israel to close all land crossings with West Bank on election day](https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece)
-*The Hindu (International)* - Oct 25, 11:34 IST (iso: 2026-10-25T06:04:15+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/2mj4zi/article71622533.ece/alternates/LANDSCAPE_1200/2026-10-24T113907Z_87772642_RC2H9OAL4RWV_RTRMADP_3_ISRAEL-PALESTINIANS-ATTACK-WEST-BANK.JPG -->
-
-The Israeli Army announced that all land crossings into the West Bank will close on Sunday, October 25. Palestinians will be barred from entering Israeli communities in Judea and Samaria and the Jordan Valley for work during the election. The military cited security concerns for the measure. This restriction halts daily commuting for thousands of workers who rely on these crossings for their livelihoods.
 
 ### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
 *UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
@@ -123,50 +167,6 @@ Three years of hostilities have reshaped Iran’s Axis of Resistance. Tehran now
 <!-- image: https://images.pexels.com/photos/14045562/pexels-photo-14045562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 At the 2026 UN General Assembly in New York, leaders addressed a broad range of peace and security concerns, none of which dominated the agenda. Crisis Group experts dissect the competing priorities of member states, highlighting how overlapping crises dilute consensus and complicate collective action. World leaders raised an array of peace and security concerns in their speeches at the 2026UN General Assembly, with no single issue standing out.
-
----
-
-## World
-
-### [Air quality improves as 24-hour PSI readings in three regions drop out of unhealthy band](https://www.channelnewsasia.com/singapore/haze-psi-pm25-air-quality-oct-25-6489876)
-*Channel News Asia* - Oct 25, 04:29 IST (iso: 2026-10-24T22:59:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--zAmEfc6S--/c_crop,h_1125,w_2000,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/obk_7499.jpg?itok=l0rBrg6i -->
-
-Air quality improved in three regions as 24-hour PSI readings dropped out of the unhealthy band. The National Environment Agency noted that smoke haze may persist in areas with prolonged dry weather. Transboundary haze remains a continued risk. Though the hotspot and smoke haze situation may improve in areas experiencing showers, it may continue to stay elevated in areas experiencing prolonged periods of dry weather, "with a continued risk of transboundary haze occurrence", NEA said on Sunday.
-
-### [This nurse has cared for more than 100 dying patients – what they taught her about having a ‘happy](https://www.channelnewsasia.com/women/home-palliative-care-nurse-dying-patients-happy-death-6432916)
-*Channel News Asia* - Oct 25, 04:15 IST (iso: 2026-10-24T22:45:46+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--UYYynoey--/c_crop,h_720,w_1280,x_0,y_81/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/05/home-palliative-care-nurse-mariam-jumaat-home-nursing-foundation.jpg?itok=P_U15eba -->
-
-Mariam Jumaat now provides home palliative care to dying patients. She has cared for more than 100 individuals in their final days. Her role focuses on ensuring comfort at home, surrounded by loved ones, rather than seeking a cure. Mariam Jumaat once believed good nursing meant helping patients get better and did not want to work with dying patients. Now, the home palliative care nurse helps them spend their final days comfortably at home, surrounded by the people they love.
-
----
-
-## Asia-Pacific
-
-### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
-*The Guardian* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e909d961099f6bf8027f885e3cf422a -->
-
-North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.
-
-### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
-*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
-
-Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
-
-### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
-*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
-
-China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
-
-### [US-China AI race turning ASEAN neutrality into a liability](https://asiatimes.com/2026/10/us-china-ai-race-turning-asean-neutrality-into-a-liability/)
-*Asia Times* - Oct 23, 11:16 IST (iso: 2026-10-23T05:46:45+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/05/China-Data-Centers-Guizhou-Province.jpg -->
-
-The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Southeast Asian nations previously leveraged ties with both powers for economic gain. Competing technology networks now force governments to choose sides, reducing their diplomatic flexibility and strategic room for maneuver. For decades, Southeast Asia has turned great-power rivalry to an economic advantage. By maintaining healthy ties with Washington and Beijing, ASEAN governments attracted investment, expanded trade and preserved room for diplomatic maneuver.
 
 ---
 
