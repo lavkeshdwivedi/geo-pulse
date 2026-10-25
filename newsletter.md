@@ -1,6 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 25, 2026 23:26 IST
+**Updated:** October 26, 2026 01:35 IST
+
+---
+
+## Americas
+
+### [Brazil election 2026: Live second round results](https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results)
+*The Guardian* - Oct 26, 01:07 IST (iso: 2026-10-25T19:37:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5 -->
+
+Brazilian voters cast ballots on 25 October 2026 for the second round of the presidential election. Incumbent President Luiz Inácio Lula da Silva faces Flávio Bolsonaro in a runoff. Polls closed at 17:00 BRT, with initial results expected shortly after. The contest follows Lula’s first-round performance against the son of his convicted predecessor. After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessorPolls close at 17.00 BRT, 20.00 GMT, with first results expected within the hour.
+
+### [Brazil votes in tense Lula vs Bolsonaro runoff with U.S. influence over Latin America at stake](https://www.thehindu.com/news/international/brazil-votes-in-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake/article71623468.ece)
+*The Hindu (International)* - Oct 25, 19:07 IST (iso: 2026-10-25T13:37:13+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/qbs4x9/article71623490.ece/alternates/LANDSCAPE_1200/2026-10-25T131221Z_1931470015_RC2CAOAEK1Y2_RTRMADP_3_BRAZIL-ELECTION.JPG -->
+
+Flávio Bolsonaro leads Lula by 2.2 million votes after the first round. Over 33 million of 160 million eligible voters abstained. The runoff determines U. S. influence across Latin America. Brazil faces a decisive contest with significant voter apathy. Flávio Bolsonaro bested Mr. Lula by more than 2.2 million votes in the first round of the election earlier this month, although more than 33 million voters out of nearly 160 million did not turn out.
 
 ---
 
@@ -11,12 +27,6 @@
 <!-- image: https://th-i.thgim.com/public/incoming/3sv516/article71624402.ece/alternates/LANDSCAPE_1200/AFP_D4D87CC.jpg -->
 
 Israeli drone strikes killed several people in Gaza City on 12 April 2026. Al Shifa hospital received three bodies and treated eight wounded. Islamic University sources confirmed the dead were administrative staff. The injured included students. Al Shifa hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students.
-
-### [Beyond national interest: role of ethics and emotions in world politics](https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece)
-*The Hindu (International)* - Oct 25, 22:25 IST (iso: 2026-10-25T16:55:15+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/7w603w/article71278488.ece/alternates/LANDSCAPE_1200/_DSC8206.JPG -->
-
-Foreign policy decisions are shaped by moral perceptions and collective emotions, not just strategic calculation. Historical examples show ethics influencing international relations. The shifting public view of the Israel-Palestine conflict illustrates this dynamic. History offers numerous examples of ethics shaping international politics. Foreign policy is not merely an exercise in strategic calculation; it is also shaped by moral perceptions and collective emotions, as illustrated by the change in public perception towards the Israel-Palestine conflict.
 
 ### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
 *UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
@@ -75,16 +85,6 @@ Families report ICE is deporting severely ill detainees from Florida jails. Flig
 <!-- image: https://th-i.thgim.com/public/news/b6r7ed/article71218689.ece/alternates/LANDSCAPE_1200/iStock-2236164423.jpg -->
 
 A new study measured linguistic differences between neighbouring languages. Researchers found hotspots where languages diverged significantly. These areas offer insights into pre-migration language variety. Population movements later reshaped global linguistic patterns. A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and population movements reshaped much of the world.
-
----
-
-## Americas
-
-### [Brazil votes in tense Lula vs Bolsonaro runoff with U.S. influence over Latin America at stake](https://www.thehindu.com/news/international/brazil-votes-in-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake/article71623468.ece)
-*The Hindu (International)* - Oct 25, 19:07 IST (iso: 2026-10-25T13:37:13+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/qbs4x9/article71623490.ece/alternates/LANDSCAPE_1200/2026-10-25T131221Z_1931470015_RC2CAOAEK1Y2_RTRMADP_3_BRAZIL-ELECTION.JPG -->
-
-Flávio Bolsonaro leads Lula by 2.2 million votes after the first round. Over 33 million of 160 million eligible voters abstained. The runoff determines U. S. influence across Latin America. Brazil faces a decisive contest with significant voter apathy. Flávio Bolsonaro bested Mr. Lula by more than 2.2 million votes in the first round of the election earlier this month, although more than 33 million voters out of nearly 160 million did not turn out.
 
 ---
 
