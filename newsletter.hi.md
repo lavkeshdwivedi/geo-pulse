@@ -1,16 +1,40 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 25, 2026 10:57 IST
+**अपडेट:** October 25, 2026 15:46 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित](https://www.amarujala.com/india-news/west-asia-tension-air-india-and-ai-express-riyadh-dammam-flights-cancel-other-airlines-news-update-2026-10-25)
-*Amar Ujala World* - Oct 25, 12:52 IST (iso: 2026-10-25T07:22:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/09/saudi-flights-cancel_cf65a61cb2082faf8cdde82343d12978.jpeg?w=1200&dpr=1.0 -->
+### [ईरान से बॉर्डर बंद कर अकड़ दिखा रहा था पाकिस्तान, हफ्तेभर में उतर गया सारा भौकाल, अब खुद खोला रास्ता](https://hindi.news18.com/world/pakistan-gabd-rimdan-border-reopen-with-iran-after-a-week-lpg-shortage-10935514.html)
+*News18 Hindi (World)* - Oct 25, 15:08 IST (iso: 2026-10-25T09:38:12+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/iran-pak-border-2026-10-c9fd3f878f23c0bab48da9d6b86a943a-1200x800.jpg -->
 
-एअर इंडिया ने पश्चिम एशिया तनाव के कारण रियाद और दम्माम के लिए उड़ानें निलंबित की हैं। सेवा 7 नवंबर तक बंद रहेगी। यह निर्णय 14 दिन के लिए लिया गया है। पश्चिम एशिया तनाव: 14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित।
+पाकिस्तान ने शनिवार को ईरान से गब्ड-रिमदान सीमा को एक हफ्ते बाद खोल दिया। इससे पहले गुरुवार को सीमा पर ट्रकों पर हमले में दर्जनों वाहन जल गए थे। बंदी के दौरान LPG और खाद्य सामग्री से भरे ट्रक दोनों तरफ फंसे रह गए थे। Pakistan-Iran Border: पाकिस्तान ने शनिवार सुबह ईरान से लगे गब्ड-रिमदान बॉर्डर को एक हफ्ते बाद दोबारा खोल दिया.
+
+### [अमेरिका-ईरान तनाव के बीच अराघची का ऐलान: ‘जंग हो या न हो, अपनी राह पर कायम रहेंगे’](https://www.patrika.com/world-news/araghchi-iran-policies-unchanged-war-or-no-war-us-iran-tension-21007359)
+*Patrika (World)* - Oct 25, 14:44 IST (iso: 2026-10-25T09:14:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Iran-US-Tensions_e90be9.webp -->
+
+ईरान के विदेश मंत्री अब्बास अराघची ने कहा कि युद्ध हो या न हो, ईरान की नीतियां अपरिवर्तित रहेंगी। उन्होंने चेतावनी दी कि तेहरान के खिलाफ कोई और सैन्य कार्रवाई तर्कहीन होगी। यह बयान अमेरिका-ईरान तनाव के बीच आया है। Middl East Tensions: ईरानी समाचार एजेंसी ISNA के अनुसार, ईरान के विदेश मंत्री अब्बास अराघची ने कहा है कि चाहे कोई और युद्ध छिड़े या न छिड़े, ईरान की नीतियां वैसी ही बनी रहेंगी।
+
+### [इजरायल को 1 घंटे में मिट्टी में मिला देगा ईरान, जारी किया तबाही का नक्शा, प्यासा मारने का प्लान](https://hindi.news18.com/world/middle-east-iran-threatens-israel-with-rapid-retaliation-naming-water-power-oil-and-transport-infrastructure-targets-10935420.html)
+*News18 Hindi (World)* - Oct 25, 13:58 IST (iso: 2026-10-25T08:28:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/israel-10-2026-10-4fbe8e59b3f30a6a0fdbc49a81703b28-1200x800.jpg -->
+
+ईरानी संसद के प्रमुख इब्राहिम अजीजी ने चेतावनी दी कि सुरक्षा पर हमले पर इजरायल को एक घंटे में रहने लायक नहीं छोड़ा जाएगा। उन्होंने पानी शुद्धिकरण प्लांट, बिजलीघर और डिमोना परमाणु केंद्र जैसे ठिकानों का नक्शा साझा किया। ईरान की संसद की राष्ट्रीय सुरक्षा और विदेश नीति समिति के प्रमुख इब्राहिम अजीजी ने चेतावनी दी है कि ईरान की सुरक्षा पर हमला होने पर इजरायल को एक घंटे से कम समय में रहने लायक नहीं छोड़ा जाएगा.
+
+### [ईरान के परमाणु प्लांट से अपने लोगों को नहीं हटा रहा रूस, दूतावास ने चल रही अटकलों पर दिया जवाब](https://www.patrika.com/world-news/russia-denies-iran-bushehr-nuclear-plant-evacuation-21006800)
+*Patrika (World)* - Oct 25, 10:30 IST (iso: 2026-10-25T05:00:57+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Vladimir-Putin.webp -->
+
+रूस ने ईरान के बुशहर परमाणु संयंत्र से अपने कर्मचारियों को हटाने की अटकलों को खारिज किया। अमेरिका और इजराइल के साथ तनाव के बावजूद वहां काम जारी है। संयंत्र पर पहले भी हमले हो चुके हैं। अमेरिका-इजराइल के साथ गंभीर तनाव के बावजूद में ईरान ने अपने बुशहर परमाणु संयंत्र में काम जारी रखा है। बता दें कि ईरान के इस ठिकाने पर पहले कई हमले हो चुके हैं।
+
+### [BRICS संसदीय मंच में शामिल नहीं होंगे ईरान के स्पीकर गालिबाफ, दूतावास ने बताई वजह](https://www.patrika.com/world-news/iran-speaker-ghalibaf-to-skip-brics-parliamentary-forum-delhi-21006669)
+*Patrika (World)* - Oct 25, 10:01 IST (iso: 2026-10-25T04:31:41+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Mohammad-Bagher-Ghalibaf.webp -->
+
+ईरान के संसद स्पीकर मोहम्मद बाघेर गालिबाफ नई दिल्ली में होने वाले 12वें BRICS संसदीय मंच में शामिल नहीं होंगे। दूतावास ने अनुपस्थिति का कारण अप्रत्याशित परिस्थितियां बताया है। ईरान का संसदीय प्रतिनिधिमंडल बैठक में हिस्सा लेगा। BRICS Summit: ईरान की संसद के स्पीकर और मुख्य वार्ताकार मोहम्मद बाघेर गालिबाफ नई दिल्ली में 26-27 अक्टूबर को होने वाले 12वें BRICS संसदीय मंच में शामिल नहीं होंगे।
 
 ### [सऊदी अरब में हूतियों का तांडव, उधर इजरायल का चीनी एयर डिफेंस सिस्‍टम वाले गोदाम पर अटैक, होर्मुज](https://hindi.news18.com/world/middle-east-iran-war-houthis-massive-attack-saudi-arabia-israel-airstrike-china-made-manpad-warehouse-in-iraq-hormuz-strait-clash-10934825.html)
 *News18 Hindi (World)* - Oct 25, 09:23 IST (iso: 2026-10-25T03:53:32+00:00)
@@ -18,9 +42,67 @@
 
 इजरायल ने ईरान में चीनी हथियारों के गोदाम पर एयर स्ट्राइक की। यमन के हूतियों ने सऊदी अरब पर हमला किया। होर्मुज स्ट्रेट में GPS जामिंग ने नौवहन और हवाई यातायात को प्रभावित किया। Iran War: पश्चिम एशिया में जंग की आग ठंडी पड़ने के बजाय और भड़कती ही जा रही है. युद्ध की चपेट में नए-नए इलाके आ रहे हैं.
 
+### [इजरायल में चुनाव से 3 दिन पहले नेतन्याहू के खिलाफ क्यों फूटा गुस्सा? तेल अवीव में जुटे हजारों](https://www.patrika.com/world-news/israel-protests-before-election-against-benjamin-netanyahu-for-independent-inquiry-21006625)
+*Patrika (World)* - Oct 25, 09:01 IST (iso: 2026-10-25T03:31:53+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/israel-protest-1.webp -->
+
+इजरायल में मंगलवार के चुनाव से तीन दिन पहले तेल अवीव समेत कई शहरों में नेतन्याहू के खिलाफ प्रदर्शन हुए। हजारों नागरिक, बंधकों के परिवार और युद्ध पीड़ित सड़कों पर उतरे। यह गाजा युद्ध के बाद का पहला आम चुनाव है। Israel Protests: इजरायल में मंगलवार को होने वाले चुनाव से तीन दिन पहले राजधानी तेल अवीव समेत देश के कई शहरों में प्रधानमंत्री बेंजामिन नेतन्याहू की सरकार के खिलाफ भारी जन आक्रोश देखने को मिला है।
+
+### [सऊदी और हूती विद्रोहियों के बीच संघर्ष तेज, रियाद समेत कई शहरों पर मिसाइल-ड्रोन हमले; सना में 8 की](https://www.amarujala.com/world/yemen-houthis-saudi-led-coalition-heavy-strikes-missile-drone-attacks-casualties-2026-10-25)
+*Amar Ujala World* - Oct 25, 08:32 IST (iso: 2026-10-25T03:02:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/yeman_8cd65c55e2add32eca3a2ea90a59e6ba.jpeg?w=1200&dpr=1.0 -->
+
+सऊदी अरब और यमनी हूती विद्रोहियों के बीच संघर्ष तेज हो गया है। रियाद समेत कई शहरों पर मिसाइल और ड्रोन हमले किए गए। सना में हमलों में आठ लोगों की मौत हुई है। सऊदी और हूती विद्रोहियों के बीच संघर्ष तेज, रियाद समेत कई शहरों पर मिसाइल-ड्रोन हमले; सना में 8 की।
+
+---
+
+## एशिया-प्रशांत
+
+### [समंदर से 3 देशों को लीलने निकली तबाही, चलीं 300kmph की महाबली हवाएं, पेड़ उखड़े-बिजली गुल, उड़ानें](https://hindi.news18.com/world/china-super-typhoon-champi-2026-lowers-speed-nears-china-after-battering-taiwan-japan-with-300kmph-winds-heavy-rains-10935665.html)
+*News18 Hindi (World)* - Oct 25, 15:04 IST (iso: 2026-10-25T09:34:50+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/champi-storm-2026-10-73819c48c4678d2d6cfb1978d12cb90d-1200x800.jpg -->
+
+सुपर टाइफून चांपी ने 300 किलोमीटर प्रति घंटे की रफ्तार से पूर्वी एशिया में तबाही मचाई। अब यह तूफान दक्षिण की ओर चीन की तरफ बढ़ रहा है। इसने पेड़ उखाड़ दिए, बिजली की लाइनें तोड़ीं और उड़ानें रद्द कर दीं। Super Typhoon Champi 2026: इस सीजन के सबसे ताकतवर तूफानों की लिस्ट में नाम जुड़ गया है चांपी का.
+
+### [एक सुनसान गांव, सैकड़ों पुतले और वीरान गलियां, हंसते-खेलते बच्चे हो गए गुम, पसरा है सिर्फ सन्नाटा](https://hindi.news18.com/world/rest-of-world-mysterious-japanese-childless-village-nagoro-where-creepy-dolls-take-over-humans-amazing-places-of-world-photogallery-10935419.html)
+*News18 Hindi (World)* - Oct 25, 13:59 IST (iso: 2026-10-25T08:29:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/cover-nagoro-2026-10-97b9c63318bfb00c0c91fce6d79bfb39-1200x800.jpg -->
+
+जापान के नागोरो गांव में अब इंसानों से ज्यादा पुतले दिखते हैं। बंद स्कूल और सुनसान गलियों में कपड़े पहने डरावनी गुड़ियां रखी हैं। एक समय चहल-पहल से भरा यह गांव अब सन्नाटे में डूबा हुआ है। अगर इनकी कहानी सुनाई जाए, तो दिमाग झन्ना जाएगा. जापान का नागोरो गांव ऐसा ही है. चहल-पहल से गुलजार रहने वाले इस गांव में अब इंसानों से ज्यादा पुतले ही पुतले दिखाई देते हैं.
+
+### [यूएन में भारत ने पाकिस्तान को घेरा: कहा- सेना ही असली हुक्मरान, सरकार के पास अपने फैसले लेने की](https://www.amarujala.com/world/india-corners-pakistan-at-un-states-that-army-real-ruler-government-lacks-courage-to-make-its-own-decisions-2026-10-25)
+*Amar Ujala World* - Oct 25, 12:30 IST (iso: 2026-10-25T07:00:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/ragha-para-sacava-bharata_b5f18a4b64895aff6cb39ea7205a84cc.jpeg?w=1200&dpr=1.0 -->
+
+संयुक्त राष्ट्र में भारत ने पाकिस्तान पर सैन्य प्रभुत्व का आरोप लगाया। भारतीय पक्ष ने कहा कि पाकिस्तानी सरकार को स्वतंत्र निर्णय लेने की हिम्मत नहीं है। यह टिप्पणी द्विपक्षीय तनाव को उजागर करती है। यूएन में भारत ने पाकिस्तान को घेरा: कहा- सेना ही असली हुक्मरान, सरकार के पास अपने फैसले लेने की।
+
+### [थरथराकर डोल गई धरती, समंदर से उठा 6.5 तीव्रता का भूकंप, घर छोड़कर सड़कों पर उतरे लोग](https://hindi.news18.com/world/south-asia-japan-bonin-island-hit-by-7-magnitude-earth-quake-epicenter-in-sea-10934762.html)
+*News18 Hindi (World)* - Oct 25, 09:30 IST (iso: 2026-10-25T04:00:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/japan-quake-2026-10-d9e8c46bf410d994169711202285b32d-1200x800.jpg -->
+
+जापान के बोनिन द्वीप समूह में 6.5 तीव्रता का भूकंप आया। टोक्यो से लगभग 1000 किलोमीटर दूर यह झटका हुआ। स्थानीय लोगों ने घर छोड़कर सड़कों पर आश्रय लिया। Japan Earthquake News: सुबह-सुबह एशियाई देश जापान की धरती कांप गई. अमेरिकी भूवैज्ञानिक सर्वेक्षण (USGS) के मुताबिक जापान की राजधानी टोक्यो से लगभग 1000 किलोमीटर दक्षिण-दक्षिणपूर्व में स्थित बोनिन द्वीप समूह में करीब 7 मैग्नीट्यूड का भूकंप आया है.
+
 ---
 
 ## यूरोप और रूस
+
+### [‘हम असहाय दर्शक बनकर नहीं रह सकते’, यूक्रेन और मिडिल ईस्ट के युद्ध पर जयशंकर का बयान](https://www.patrika.com/world-news/jaishankar-ukraine-west-asia-war-dialogue-diplomacy-21007176)
+*Patrika (World)* - Oct 25, 13:30 IST (iso: 2026-10-25T08:00:19+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/jaishankar-in-ukraine.webp -->
+
+विदेश मंत्री एस. जयशंकर ने संयुक्त राष्ट्र दिवस पर कहा कि यूक्रेन और पश्चिम एशिया के संघर्ष वैश्विक शांति के लिए खतरा हैं। उन्होंने अंतरराष्ट्रीय समुदाय से सक्रिय भूमिका अपेक्षा की। जयशंकर ने वैश्विक शांति और सुरक्षा को लेकर बेहद अहम बाते कहीं। उन्होंने यूक्रेन और पश्चिम एशिया में जारी संघर्षों पर गहरी चिंता जताते हुए कहा कि आज दुनिया के किसी भी कोने में होने वाला युद्ध हर जगह की शांति के लिए एक बड़ा खतरा बन चुका है।
+
+### [इटली में बेकाबू हुए प्रदर्शन, हिंसा की खबरों के बीच बोलीं मेलोनी- अव्यवस्था के लिए जगह नहीं](https://hindi.news18.com/world/europe-italy-anti-government-protest-meloni-appreciated-police-for-management-ws-l-10935276.html)
+*News18 Hindi (World)* - Oct 25, 13:07 IST (iso: 2026-10-25T07:37:32+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/italy-pm-2026-09-f76da7b9248b2bb2689c6d8493c6f5cc-1200x800.jpg -->
+
+इटली के रोम, बोलोग्ना और ट्यूरिन में प्रदर्शनकारियों और पुलिस के बीच झड़पें हुईं। प्रधानमंत्री जॉर्जिया मेलोनी ने हिंसा की निंदा करते हुए सुरक्षा बलों की सराहना की। Italy Anti Government Protest: इटली में सरकार की नीतियों के खिलाफ कई शहरों में प्रदर्शन हुए. हालात संभालने के लिए पुलिस ने आंसू गैस और पानी की बौछारों का इस्तेमाल किया. इटली में बेकाबू हुए प्रदर्शन, हिंसा की खबरों के बीच बोलीं मेलोनी- अव्यवस्था के लिए जगह नहीं।
+
+### [130 किमी की रफ्तार से आ रही तबाही, बिजली गुल और हर तरफ मलबा, तूफान बोएलो से मचेगी तबाही?](https://hindi.news18.com/world/britain-storm-boelo-brings-winds-of-up-to-130-km-across-parts-of-the-uk-raising-risks-of-power-cuts-10935369.html)
+*News18 Hindi (World)* - Oct 25, 13:01 IST (iso: 2026-10-25T07:31:50+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/hurricane-1-2026-10-408230d6081400fc5332969fcf3eb2ff-1200x800.jpg -->
+
+ब्रिटेन में तूफान बोएलो ने स्कॉटलैंड और उत्तरी इंग्लैंड में 130 किमी प्रति घंटे की हवाएं लाई। बिजली, सड़क और समुद्री यातायात प्रभावित हुआ है। ब्रिटेन में तूफान बोएलो के चलते स्कॉटलैंड, उत्तरी आयरलैंड और उत्तरी इंग्लैंड के कई इलाकों में मौसम संबंधी चेतावनी जारी की गई है. सबसे प्रभावित क्षेत्रों में हवाओं की रफ्तार करीब 130 किलोमीटर प्रति घंटे तक पहुंचने का अनुमान है.
 
 ### [ट्रंप ने बताई वजह, प्रदर्शनों पर बोले- शिक्षा के लिए नहीं हो रहा विरोध; और क्या कहा](https://www.amarujala.com/world/donald-trump-on-france-protests-immigration-policy-border-open-hate-country-2026-10-25)
 *Amar Ujala World* - Oct 25, 10:52 IST (iso: 2026-10-25T05:22:40+00:00)
@@ -44,129 +126,51 @@
 
 ## दुनिया
 
-### [शरद पूर्णिमा पर अपनों के जीवन में आए सुख-समृद्धि और खुशहाली, इन खूबसूरत संदेशों से दें पर्व की बधाई](https://www.amarujala.com/photo-gallery/spirituality/religion/sharad-purnima-2026-wishes-in-hindi-greetings-messages-wishes-quotes-and-images-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:45 IST (iso: 2026-10-25T05:15:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/sharatha-paranaema-ka-harathaka-shabhakamanae_a02af39ea0a91c9bb6d02db34c466c6a.jpeg?w=1200&dpr=1.0 -->
+### [अंतरिक्ष मिशनों की क्या है योजना?: इसरो चीफ ने बताया रोडमैप, बनेंगे एसएसएलवी कॉम्प्लेक्स से लॉन्च](https://www.amarujala.com/india-news/isro-four-functional-launch-pads-by-2029-sslv-gaganyaan-chandrayaan-5-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 12:53 IST (iso: 2026-10-25T07:23:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/isro_718fb78f22ee023f700070953937b290.jpeg?w=1200&dpr=1.0 -->
 
-शरद पूर्णिमा का पर्व सुख, समृद्धि और आस्था का प्रतीक माना जाता है। इस मौके पर अपनों को शुभकामना संदेश भेजे जाते हैं। पर्व की बधाई देने के लिए विशेष कोट्स प्रचलित हैं। शरद पूर्णिमा का पावन पर्व सुख-समृद्धि, खुशहाली और आस्था का प्रतीक है। इस खास मौके पर अपनों को भेजें दिल छू लेने वाले शुभकामना संदेश, खूबसूरत कोट्स और बधाई मैसेज।
+इसरो चीफ ने 2029 तक चार कार्यात्मक लॉन्च पैड बनाने की योजना बताई। एसएसएलवी, गगनयान और चंद्रयान-5 मिशन इन पैड्स से लॉन्च होंगे। अंतरिक्ष मिशनों की क्या है योजना?: इसरो चीफ ने बताया रोडमैप, बनेंगे एसएसएलवी कॉम्प्लेक्स से लॉन्च।
 
-### [शरद पूर्णिमा पर मां लक्ष्मी को प्रसन्न करने के लिए करें ये खास उपाय, जानें पूजा का महत्व](https://www.amarujala.com/spirituality/religion/follow-these-special-remedies-on-sharad-purnima-to-seek-goddess-lakshmi-s-blessings-and-attract-prosperity-2026-10-24)
-*Amar Ujala National* - Oct 25, 10:44 IST (iso: 2026-10-25T05:14:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/21/sharad-purnima-2026_ed669895068cd634f2ea3d610db45aad.jpeg?w=1200&dpr=1.0 -->
+### ['स्पाइसजेट सस्ता है, इसलिए आए हो!': इतना सुनते ही भड़क उठे यात्री, कर्मचारियों से नोकझोंक का वीडियो](https://www.amarujala.com/delhi-ncr/argument-between-spicejet-staff-and-passengers-at-delhi-airport-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 12:31 IST (iso: 2026-10-25T07:01:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/thall-eyaraparata-para-sapaisajata-karamacaraya-oura-yataraya-ma-nakajhaka_99a54bb47a242048e140ab70fbdaa825.jpeg?w=1200&dpr=1.0 -->
 
-शरद पूर्णिमा को मां लक्ष्मी की पूजा और समृद्धि की कामना के लिए विशेष माना जाता है। इस दिन विशेष उपाय किए जाते हैं। पूजा विधि और खीर बनाने का धार्मिक महत्व बताया गया है। शरद पूर्णिमा मां लक्ष्मी की पूजा और सुख-समृद्धि की कामना के लिए विशेष मानी जाती है। जानिए इस दिन किए जाने वाले खास उपाय, पूजा विधि और खीर बनाने का धार्मिक महत्व।
+सोशल मीडिया पर वायरल वीडियो में यात्री स्पाइसजेट कर्मचारियों से बहस करते नजर आए। उन्होंने 'शेम ऑन स्पाइसजेट' के नारे लगाए। घटना का वीडियो विवाद का कारण बना। कथित तौर पर सोशल मीडिया पर वायरल हो रहे एक वीडियो में यात्री एयरलाइन के कर्मचारियों से बहस करते और ‘शेम ऑन स्पाइसजेट’ के नारे लगाते दिखाई दे रहे हैं। 'स्पाइसजेट सस्ता है, इसलिए आए हो!': इतना सुनते ही भड़क उठे यात्री, कर्मचारियों से नोकझोंक का वीडियो।
 
-### [शरद पूर्णिमा पर जरूर करें मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की आरती, जानें पूजा का महत्व](https://www.amarujala.com/photo-gallery/spirituality/religion/sharad-purnima-2026-these-3-aartis-to-seek-the-blessings-of-goddess-lakshmi-and-lord-vishnu-2026-10-24)
-*Amar Ujala National* - Oct 25, 10:42 IST (iso: 2026-10-25T05:12:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/sharatha-paranaema-2026_b4dc206f30464bfd3ab59a5da5c580e3.jpeg?w=1200&dpr=1.0 -->
+### [आज से बदलेगा मौसम, पहाड़ों पर बारिश-बर्फबारी के आसार, मैदानों में बढ़ेगी ठंड](https://www.amarujala.com/uttarakhand/uttarakhand-weather-update-today-rain-expected-in-mountains-cold-to-intensify-in-plains-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 12:17 IST (iso: 2026-10-25T06:47:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/utatarakhada-ma-masama_34921fff203c7832ed10d58b0e7fed52.jpeg?w=1200&dpr=1.0 -->
 
-शरद पूर्णिमा पर मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की आरती का विशेष महत्व है। पूजा को पूर्ण करने के लिए इन तीनों की आरती की जाती है। इस दिन के धार्मिक अनुष्ठानों का विस्तार से वर्णन किया गया है। शरद पूर्णिमा पर मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की पूजा का विशेष महत्व है। जानिए इस दिन पूजा को पूर्ण करने के लिए इन तीनों देवी-देवताओं की आरती और उनका धार्मिक महत्व।
-
-### [कोजागरी पूजा आज , जानें शुभ मुहूर्त, महत्व और मां लक्ष्मी को प्रसन्न करने की विधि](https://www.amarujala.com/spirituality/religion/kojagari-lakshmi-puja-2026-date-significance-puja-vidhi-and-rituals-to-attract-prosperity-2026-10-24)
-*Amar Ujala National* - Oct 25, 10:42 IST (iso: 2026-10-25T05:12:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/kajagara-paja-2026_b44278096809b504b8cec822caa2d18e.jpeg?w=1200&dpr=1.0 -->
-
-कोजागरी लक्ष्मी पूजा 25 अक्टूबर 2026 को शरद पूर्णिमा पर मनाई जाएगी। इस दिन मां लक्ष्मी की पूजा, रात्रि जागरण और खीर का भोग लगाने की परंपरा है। यह दिन धार्मिक महत्व के साथ पारिवारिक एकता का प्रतीक भी माना जाता है। कोजागरी लक्ष्मी पूजा 25 अक्तूबर 2026 को शरद पूर्णिमा के अवसर पर मनाई जाएगी। जानिए पूजा की विधि, महत्व और प्रमुख नियम।
-
-### [फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल](https://hindi.news18.com/world/america-us-firing-florida-11-people-shot-during-event-near-university-safety-alerts-10935023.html)
-*News18 Hindi (World)* - Oct 25, 10:33 IST (iso: 2026-10-25T05:03:26+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg -->
-
-फ्लोरिडा में यूनिवर्सिटी के पास हुई फायरिंग में 11 लोगों को गोली लगी है। घायलों में छह बच्चे भी शामिल हैं। स्थानीय पुलिस ने घटनास्थल पर सुरक्षा कड़ी कर दी है और जांच जारी है। फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल।
+उत्तराखंड के पर्वतीय जिलों में हल्की बारिश की संभावना बनी है। मौसम विभाग के अनुसार यह बारिश मैदानी क्षेत्रों के तापमान को भी प्रभावित करेगी। ठंड बढ़ने की उम्मीद है। उत्तराखंड के पर्वतीय जिलों के कुछ हिस्सों में हल्की बारिश होने की संभावना है। मौसम वैज्ञानिकों का कहना है कि पर्वतीय इलाकों में होने वाली बारिश का असर मैदानी क्षेत्रों के तापमान पर भी देखने को मिलेगा।
 
 ### ['तनाव में हैं', पिता के साथ हुई बदसलूकी पर बेटे गुरदीप ने तोड़ी चुप्पी, कही ये बात](https://www.amarujala.com/entertainment/daler-mehndi-s-son-gurdeep-opens-up-on-stage-row-controversy-he-says-we-are-stressed-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:28 IST (iso: 2026-10-25T04:58:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/thalra-mahatha-oura-garathapa_1e6b9b937e7ac4d04b90e1e4d10c9223.jpeg?w=1200&dpr=1.0 -->
+*Amar Ujala Breaking* - Oct 25, 10:28 IST (iso: 2026-10-25T04:58:00+00:00)
+<!-- image: https://images.pexels.com/photos/4971026/pexels-photo-4971026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 गुरदीप मेहंदी ने पिता दलेर मेहंदी के साथ हुई बदसलूकी पर चुप्पी तोड़ी है। उन्होंने कहा कि वे तनाव में हैं। यह बयान सुबोध उनियाल के साथ हुए विवाद के बाद आया है। दलेर मेहंदी पिछले कुछ दिनों से चर्चा में बने हुए हैं। दरअसल, एक इवेंट में गायक और उत्तराखंड के कैबिनेट मंत्री सुबोध उनियाल के बीच हुए विवाद हो गया था।
 
-### [शरद पूर्णिमा पर भोग के लिए खीर कैसे बनाएं? ये आसान विधि करें नोट](https://www.amarujala.com/lifestyle/healthy-food/sharad-purnima-kheer-recipe-make-delicious-kheer-in-just-30-minutes-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:25 IST (iso: 2026-10-25T04:55:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/sharad-purnima-kheer-recipe_496da45eb9f5a4d9199714f3df7dcfa8.jpeg?w=1200&dpr=1.0 -->
-
-शरद पूर्णिमा पर खीर बनाने की आसान विधि उपलब्ध है। यह रेसिपी 30 मिनट में तैयार हो जाती है। इसमें चावल, दूध और चीनी का उपयोग किया जाता है। Sharad Purnima 2026: शरद पूर्णिमा पर बनाएं बाजार जैसी गाढ़ी और मलाईदार खीर। जानें सिर्फ 30 मिनट में चावल की खीर बनाने की आसान विधि, सामग्री और खास टिप्स। शरद पूर्णिमा पर भोग के लिए खीर कैसे बनाएं?
-
-### [कल को दस्तक दे सकती है ह्यूंदै बेयॉन: लॉन्च से पहले लीक हुई वैरिएंट की लिस्ट, मिल सकते हैं ये](https://www.amarujala.com/automobiles/hyundai-bayon-set-india-launch-october-26-leaked-variants-features-revealed-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:21 IST (iso: 2026-10-25T04:51:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/hayatha-byana_45dea9dea86f98c783ed94bbbf8b2b87.jpeg?w=1200&dpr=1.0 -->
-
-ह्यूंदै बेयॉन की लॉन्च से पहले वैरिएंट सूची लीक हो गई है। इसमें संभावित फीचर्स और मॉडल विवरण शामिल हैं। वाहन की आधिकारिक घोषणा कल हो सकती है। कल को दस्तक दे सकती है ह्यूंदै बेयॉन: लॉन्च से पहले लीक हुई वैरिएंट की लिस्ट, मिल सकते हैं ये संभावित फीचर्स।
-
-### [12वीं पास छात्रों को मौका, 13 भाषाओं में होगी परीक्षा; जानें पूरी प्रक्रिया](https://www.amarujala.com/education/jee-main-2027-session-1-registration-begins-check-last-date-fees-eligibility-and-exam-schedule-2026-10-25)
-*Amar Ujala Breaking* - Oct 25, 10:17 IST (iso: 2026-10-25T04:47:05+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/jee-main-2027_2419f18f22937440554caae72ed9cfd3.jpeg?w=1200&dpr=1.0 -->
-
-जेईई मेन 2027 के पहले सत्र के लिए आवेदन प्रक्रिया शुरू हो गई है। राष्ट्रीय परीक्षा एजेंसी ने आखिरी तारीख 22 नवंबर 2026 तय की है। परीक्षा जनवरी 2027 में आयोजित होगी। राष्ट्रीय परीक्षा एजेंसी ने आवेदन की आखिरी तारीख 22 नवंबर 2026 तय की है। उम्मीदवार आधिकारिक वेबसाइट पर जाकर फॉर्म भर सकते हैं। परीक्षा जनवरी 2027 में होगी।
-
-### [सात जगहों पर आज आरएसएस का रूट मार्च, मद्रास हाईकोर्ट से मिली अनुमति; दो नवंबर को भी कई कार्यक्रम](https://www.amarujala.com/india-news/rss-route-marches-tamil-nadu-madras-high-court-permission-october-25-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:16 IST (iso: 2026-10-25T04:46:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/rss-route-march_d1144e36d4fd53136f06440778e913df.jpeg?w=1200&dpr=1.0 -->
-
-तमिलनाडु में आरएसएस के सात रूट मार्चों के लिए मद्रास हाईकोर्ट ने अनुमति दी है। ये मार्च आज आयोजित होंगे। दो नवंबर को भी कई कार्यक्रमों की योजना बनाई गई है। तमिलनाडु: सात जगहों पर आज आरएसएस का रूट मार्च, मद्रास हाईकोर्ट से मिली अनुमति; दो नवंबर को भी कई कार्यक्रम rss-route-marches-tamil-nadu-madras-high-court-permission-october-25।
-
-### ['कीमती जल निकाय असुरक्षित, तो मूकदर्शक नहीं बैठ सकते'; राज्यों-केंद्र शासित प्रदेशों से अदालत](https://www.amarujala.com/india-news/supreme-court-updates-wetlands-issue-guidelines-for-personal-data-collection-during-probe-cji-surya-kant-news-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:16 IST (iso: 2026-10-25T04:46:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/06/supreme-court-updates_37693db95c8fb536899fb1003ed3c7c2.jpeg?w=1200&dpr=1.0 -->
-
-सुप्रीम कोर्ट ने राज्यों और केंद्र शासित प्रदेशों से जल निकायों की सुरक्षा के लिए कदम उठाने को कहा है। अदालत ने कहा कि मूकदर्शक नहीं बैठ सकते। यह निर्देश जल संसाधनों की सुरक्षा से जुड़ा है। सुप्रीम कोर्ट: 'कीमती जल निकाय असुरक्षित, तो मूकदर्शक नहीं बैठ सकते'; राज्यों-केंद्र शासित प्रदेशों से अदालत।
-
-### [सोसाइटी में इलेक्ट्रिक कार चार्ज करने के लिए क्या अपने पार्किंग स्लॉट में लगवा सकते हैं चार्जर?](https://www.amarujala.com/photo-gallery/utility/can-you-install-an-electric-car-charger-in-your-own-parking-slot-in-a-housing-society-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:12 IST (iso: 2026-10-25T04:42:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/electric-car-charger-charging-society_726065f9d06bba2b32c84d92115b856f.jpeg?w=1200&dpr=1.0 -->
-
-सोसाइटी में पार्किंग स्लॉट पर इलेक्ट्रिक कार चार्जर लगाने के लिए निवासियों को स्थानीय नियमों और मालिकाना अधिकारों की जांच करनी चाहिए। यह प्रक्रिया अक्सर जटिल होती है और समुदाय की सहमति आवश्यक होती है। क्या आप भी अपनी सोसाइटी के अपने पार्किंग स्लॉट पर इलेक्ट्रिक कार का चार्जर लगवाना चाहते हैं? इसके लिए आपको नियमों के बारे में जानना जरूरी हो जाता है।
-
-### [आज है शरद पूर्णिमा, खूबसूरत संदेशों से अपनों पर करें शुभकामनाओं की वर्षा](https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-sharad-purnima-2026-wishes-in-hindi-images-quotes-messages-whatsapp-status-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:00 IST (iso: 2026-10-25T04:30:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/sharad-purnima-wishes-2026_8f02ac6449b9b5704d01d33c679ea350.jpeg?w=1200&dpr=1.0 -->
-
-शरद पूर्णिमा 2026 का पर्व आज मनाया जा रहा है। इस दिन पूर्णिमा का चांद दिखता है और मान्यता है कि आकाश से अमृत की वर्षा होती है। लोग अपने प्रियजनों को शुभकामनाएं भेजते हैं। आज रात पूर्णिमा का चांद दिखेगा। मान्यता है कि इस दिन आकाश से अमृत वर्षा होती है। इस मौके पर अपने प्रियजनों पर शुभकामनाओं का वर्षा करें।
-
-### [पति की हत्या में कटी अंगुली बनी सबसे बड़ा सबूत, पत्नी और प्रेमी समेत तीन को उम्रकैद](https://www.amarujala.com/madhya-pradesh/shajapur/shajapur-husband-murder-illicit-relationship-wife-lover-life-imprisonment-2026-10-25)
-*Amar Ujala Breaking* - Oct 25, 09:36 IST (iso: 2026-10-25T04:06:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/08/karata-ka-fasal_6c2b3472ddf9930c2ca781f2f7065d6a.jpeg?w=1200&dpr=1.0 -->
-
-मध्य प्रदेश के शाजापुर में पति की हत्या के मामले में अदालत ने तीन आरोपियों को उम्रकैद की सजा सुनाई। पत्नी, उसके प्रेमी और सहयोगी को दोषी ठहराया गया। कटी अंगुली को मुख्य सबूत माना गया। मध्य प्रदेश के शाजापुर में अवैध संबंध का विरोध करने पर पति की हत्या के मामले में अदालत ने पत्नी, उसके प्रेमी और सहयोगी को आजीवन कारावास की सजा सुनाई है।
-
-### [वीकएंड पर 'उड़ता तीर' की कमाई में आया उछाल, 350 करोड़ के पार हुआ 'जेलर 2' का कलेक्शन](https://www.amarujala.com/entertainment/bollywood/udta-teer-vs-jailer-2-box-office-collection-on-saturday-total-earning-of-nayi-navelli-and-prahaar-2026-10-25)
-*Amar Ujala Breaking* - Oct 25, 09:11 IST (iso: 2026-10-25T03:41:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/bkasa-oifasa-kalkashana_f023ecfce2b0b582a2a084e7299df476.jpeg?w=1200&dpr=1.0 -->
-
-रजनीकांत की फिल्म जेलर 2 का कलेक्शन 350 करोड़ रुपये के पार पहुंच गया। वीकेंड पर इसकी कमाई में उल्लेखनीय वृद्धि हुई। उड़ता तीर और दृश्यम 3 जैसी अन्य फिल्मों की कमाई भी बढ़ी। रजनीकांत की फिल्म 'जेलर 2' के कलेक्शन में वीकएंड पर उछाल आया है। 'उड़ता तीर', 'पहला प्यार दूसरी बार', 'नई नवेली', 'प्रहार' और 'दृश्यम 3' की कमाई में भी इजाफा हुआ है।
-
-### [हनुमान बेनीवाल की छोटी भाभी बनीं सरपंच, बड़ी भाभी को 149 वोटों से हराया](https://www.amarujala.com/rajasthan/nagaur/nagaur-hanuman-beniwal-village-sarpanch-election-rajbala-beniwal-defeats-meera-beniwal-2026-10-25)
-*Amar Ujala Breaking* - Oct 25, 08:57 IST (iso: 2026-10-25T03:27:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/sasatha-hanamana-bnaval_39f893f2c43c4a301446e2037a41df5a.jpeg?w=1200&dpr=1.0 -->
-
-राजस्थान के नागौर जिले में हनुमान बेनीवाल की छोटी भाभी सरपंच बनीं। उन्होंने बड़ी भाभी को 149 वोटों के अंतर से हराया। दोनों सगी बहनें और एक ही परिवार की देवरानी-जेठानी थीं। राजस्थान के नागौर जिले के बरणगांव में सरपंच पद के चुनाव में राष्ट्रीय लोकतांत्रिक पार्टी (आरएलपी) के सांसद हनुमान बेनीवाल की दो भाभियां आमने-सामने थीं। दोनों देवरानी-जेठानी होने के साथ सगी बहनें भी हैं।
-
-### [रंगदारी नहीं देने पर सुनाता था मौत का फरमान, आगे बढ़कर लॉरेंस को देता था टक्कर](https://www.amarujala.com/delhi-ncr/himanshu-bhau-would-issue-a-death-sentence-if-extortion-money-was-not-paid-2026-10-25)
-*Amar Ujala Breaking* - Oct 25, 08:45 IST (iso: 2026-10-25T03:15:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/hamasha-bhauu_2bfdf08f1c328aa4b1292f3830864cd1.jpeg?w=1200&dpr=1.0 -->
-
-हिमांशु भाऊ ने 2020 से लॉरेंस बिश्नोई के खिलाफ कार्रवाई शुरू की। उन्होंने रंगदारी नहीं देने पर मौत की धमकियों का सामना किया। दो साल में उन्होंने देश के कुख्यात गैंगस्टर को सीधे टक्कर दी। हिमांशु भाऊ सिंस 2020। महज दो साल में उसने देश के कुख्यात गैंगस्टर लॉरेंस बिश्नोई को चुनौती दी। रंगदारी नहीं देने पर सुनाता था मौत का फरमान, आगे बढ़कर लॉरेंस को देता था टक्कर।
-
 ---
 
-## एशिया-प्रशांत
+## अमेरिका
 
-### [बीच में रुकी सिंगर शिल्पा राव की आवाज, अनु मलिक की बेटी के डांस परफॉर्मेंस पर उठे सवाल](https://www.amarujala.com/entertainment/bollywood/did-anu-malik-daughter-ada-performances-lead-to-shilpa-rao-set-being-cut-short-2026-10-25)
-*Amar Ujala National* - Oct 25, 10:30 IST (iso: 2026-10-25T05:00:15+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/atha-malka-shalpa-rava_b747742dcdf34a4f1b317d677266a886.jpeg?w=1200&dpr=1.0 -->
+### [अमेरिका में पार्टी के बीच अचानक चली गोलियां, 11 लोगों को लगी गोली, घायलों में मासूम बच्चे भी](https://www.patrika.com/world-news/florida-university-shooting-11-injured-children-among-victims-21006970)
+*Patrika (World)* - Oct 25, 12:51 IST (iso: 2026-10-25T07:21:47+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Florida-AM-University.webp -->
 
-मुंबई में एक इवेंट में शिल्पा राव का गाना बीच में रोक दिया गया। अनु मलिक और उनकी बेटी अदा का प्रदर्शन जारी रहा। इस घटना ने सोशल मीडिया पर विवाद को जन्म दिया है। Viral Video: मुंबई में हुए एक इवेंट में सिंगर शिल्पा के परफॉर्मेंस को बीच में रोक दिया गया। सिंगर अनु मलिक और उनकी बेटी अदा की परफॉर्मेंस जारी रही।
+फ्लोरिडा एग्रीकल्चरल एंड मैकेनिकल यूनिवर्सिटी के पास पार्टी में गोलीबारी हुई। 11 लोगों, जिनमें 11 साल का बच्चा शामिल है, को गोली लगी। तीन घायलों की हालत गंभीर है। तल्हासी स्थित फ्लोरिडा एग्रीकल्चरल एंड मैकेनिकल यूनिवर्सिटी (FAMU) कैंपस के पास शनिवार रात एक पार्टी के दौरान भीषण गोलीबारी हो गई। इस वारदात में 11 साल के मासूम बच्चे समेत 11 लोगों को गोली लगी है, जबकि एक अन्य व्यक्ति झड़प के दौरान घायल हो गया।
 
-### [रहाणे ने चुनी टेस्ट की ऑल टाइम प्लेइंग-11: टीम में रोहित-कोहली और बुमराह को नहीं दी जगह, किसे बनाया](https://www.amarujala.com/photo-gallery/cricket/cricket-news/ajinkya-rahane-picked-his-all-time-india-test-xi-left-out-virat-kohli-rohit-sharma-and-jasprit-bumrah-2026-10-25)
-*Amar Ujala Breaking* - Oct 25, 10:17 IST (iso: 2026-10-25T04:47:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/rahane_66f68469ce3fa6e9ad526e8d844f4319.jpeg?w=1200&dpr=1.0 -->
+### [फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल](https://hindi.news18.com/world/america-us-firing-florida-11-people-shot-during-event-near-university-safety-alerts-10935023.html)
+*News18 Hindi (World)* - Oct 25, 11:39 IST (iso: 2026-10-25T06:09:11+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/florida-shooting-2026-10-cc6a951a6d1ea21d9d99b222ff566e51-1200x800.jpg -->
 
-अजिंक्य रहाणे ने भारत की सर्वकालिक टेस्ट प्लेइंग-11 चुनी है। इस टीम में विराट कोहली, रोहित शर्मा और जसप्रीत बुमराह को जगह नहीं मिली। रहाणे ने अन्य खिलाड़ियों को प्राथमिकता दी। हैरान करने वाली बात यह है कि रहाणे की इस टीम में विराट कोहली, रोहित शर्मा और जसप्रीत बुमराह जैसे खिलाड़ियों को जगह नहीं मिली है। रहाणे ने चुनी टेस्ट की ऑल टाइम प्लेइंग-11: टीम में रोहित-कोहली और बुमराह को नहीं दी जगह, किसे बनाया।
+फ्लोरिडा में यूनिवर्सिटी के पास हुई फायरिंग में 11 लोगों को गोली लगी है। घायलों में छह बच्चे भी शामिल हैं। स्थानीय पुलिस ने घटनास्थल पर सुरक्षा कड़ी कर दी है और जांच जारी है। फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल। Florida Firing 11 people shot: अमेरिका के फ्लोरिडा राज्य के टालाहासी शहर में एक दर्दनाक घटना सामने आई है.
 
-### [थरथराकर डोल गई धरती, समंदर से उठा 6.5 तीव्रता का भूकंप, घर छोड़कर सड़कों पर उतरे लोग](https://hindi.news18.com/world/south-asia-japan-bonin-island-hit-by-7-magnitude-earth-quake-epicenter-in-sea-10934762.html)
-*News18 Hindi (World)* - Oct 25, 09:30 IST (iso: 2026-10-25T04:00:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/japan-quake-2026-10-d9e8c46bf410d994169711202285b32d-1200x800.jpg -->
+### [फ्लोरिडा यूनिवर्सिटी में चली गोलियां, छह बच्चों समेत 12 घायल; तीन की हालत गंभीर](https://www.amarujala.com/world/florida-am-university-shooting-tallahassee-many-injured-including-six-children-2026-10-25)
+*Amar Ujala World* - Oct 25, 10:57 IST (iso: 2026-10-25T05:27:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/florida-university-shooting_fe27231e40a26ff88a11dbba5104039c.jpeg?w=1200&dpr=1.0 -->
 
-जापान के बोनिन द्वीप समूह में 6.5 तीव्रता का भूकंप आया। टोक्यो से लगभग 1000 किलोमीटर दूर यह झटका हुआ। स्थानीय लोगों ने घर छोड़कर सड़कों पर आश्रय लिया। Japan Earthquake News: सुबह-सुबह एशियाई देश जापान की धरती कांप गई. अमेरिकी भूवैज्ञानिक सर्वेक्षण (USGS) के मुताबिक जापान की राजधानी टोक्यो से लगभग 1000 किलोमीटर दक्षिण-दक्षिणपूर्व में स्थित बोनिन द्वीप समूह में करीब 7 मैग्नीट्यूड का भूकंप आया है.
+फ्लोरिडा विश्वविद्यालय में हुई गोलीबारी में 12 लोग घायल हुए। इनमें छह बच्चे शामिल हैं। तीन घायलों की हालत गंभीर बताई जा रही है। घटना ने अमेरिका में चिंता बढ़ा दी। फ्लोरिडा यूनिवर्सिटी में चली गोलियां, छह बच्चों समेत 12 घायल; तीन की हालत गंभीर।
 
 ---
 

@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-10-25T05:27:08.949180+00:00",
+  "generated_at": "2026-10-25T10:16:17.996840+00:00",
   "article_count": 50,
   "total_unique_count": 261,
   "digest": {
-    "en": "Israel will close all land crossings with the West Bank on election day, halting movement across the contested corridor. Meanwhile in Brazil, a runoff between Lula and Bolsonaro hangs in the balance, leaving the country's political direction undecided.",
-    "hi": "Air India has suspended its Riyadh and Dammam flights until November 7. Meanwhile, a shooting near a Florida university left eleven people wounded."
+    "en": "Relentless Russian air strikes on Kramatorsk have forced thousands of civilians to flee the city in eastern Ukraine. At the same time Israel announced the closure of every West Bank land crossing for the upcoming election day, tightening movement controls.",
+    "hi": "पाकिस्तान ने हफ्तेभर के तनाव के बाद ईरान सीमा खोल दी, जबकि अरगची ने युद्ध के बावजूद अपनी राह पर कायम रहने की बात कही। यूएन में भारत ने पाकिस्तान की सेना को असली हुक्मरान घोषित कर दिया। यूरोप में तूफान बोएलो और इटली की हिंसा ने स्थिति और जटिल बना दी है।"
   },
   "articles": [
+    {
+      "title": "Relentless Russian Strikes Drive Civilians From Ukraine's Kramatorsk",
+      "url": "https://www.rferl.org/a/relentless-russian-strikes-drive-civilians-from-ukraine-s-kramatorsk/33883080.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-25T08:24:41+00:00",
+      "image_url": "https://gdb.rferl.org/f99e187e-b84d-457f-4cbb-08df13aec0bb_w1200_h630.jpg",
+      "summary": "Ukraine ordered mandatory evacuations for families with children in Kramatorsk and Slovyansk. Russian forces intensified strikes across the Donetsk region. The move aims to protect civilians as Moscow pushes to seize the entire area. As Russian forces intensify attacks on Ukraine’s Donetsk region, evacuations are accelerating in Kramatorsk, a key city still held by Kyiv. As Moscow seeks to seize all of the Donetsk region, Ukraine has issued a mandatory evacuation order for families with children in Kramatorsk and Slovyansk.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Israel to close all land crossings with West Bank on election day",
       "url": "https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-10-25T03:56:08+00:00",
+      "published_at": "2026-10-25T06:04:15+00:00",
       "image_url": "https://th-i.thgim.com/public/incoming/2mj4zi/article71622533.ece/alternates/LANDSCAPE_1200/2026-10-24T113907Z_87772642_RC2H9OAL4RWV_RTRMADP_3_ISRAEL-PALESTINIANS-ATTACK-WEST-BANK.JPG",
       "summary": "The Israeli Army announced that all land crossings into the West Bank will close on Sunday, October 25. Palestinians will be barred from entering Israeli communities in Judea and Samaria and the Jordan Valley for work during the election. The military cited security concerns for the measure. This restriction halts daily commuting for thousands of workers who rely on these crossings for their livelihoods.",
       "region": "Middle East & Africa",
@@ -20,14 +32,26 @@
       "translations": {}
     },
     {
-      "title": "More Lula, or back to the Bolsonaros? Brazil votes in cliffhanger",
-      "url": "https://www.thehindu.com/news/international/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger/article71622490.ece",
-      "source": "The Hindu (International)",
+      "title": "Air quality improves as 24-hour PSI readings in three regions drop out of unhealthy band",
+      "url": "https://www.channelnewsasia.com/singapore/haze-psi-pm25-air-quality-oct-25-6489876",
+      "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-10-25T03:33:25+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/qb0r89/article71622498.ece/alternates/LANDSCAPE_1200/2026-10-25T000806Z_1342637823_RC2V9OAEVS1A_RTRMADP_3_BRAZIL-ELECTION-LULA.JPG",
-      "summary": "Brazilian voters head to the polls for a decisive runoff that will determine the country's political direction. The contest pits incumbent President Luiz Inacio Lula da Silva against a right-wing challenger. This election marks a critical test for the regional left, which has faced a significant swing toward conservative governments. U. S. President Donald Trump has not openly endorsed the son of his ally, leaving the international stakes ambiguous. The outcome will define whether Brazil remains a leftist anchor in Latin America or joins the broader rightward shift.",
-      "region": "Americas",
+      "published_at": "2026-10-24T22:59:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--zAmEfc6S--/c_crop,h_1125,w_2000,x_0,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/obk_7499.jpg?itok=l0rBrg6i",
+      "summary": "Air quality improved in three regions as 24-hour PSI readings dropped out of the unhealthy band. The National Environment Agency noted that smoke haze may persist in areas with prolonged dry weather. Transboundary haze remains a continued risk. Though the hotspot and smoke haze situation may improve in areas experiencing showers, it may continue to stay elevated in areas experiencing prolonged periods of dry weather, \"with a continued risk of transboundary haze occurrence\", NEA said on Sunday.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "This nurse has cared for more than 100 dying patients – what they taught her about having a ‘happy",
+      "url": "https://www.channelnewsasia.com/women/home-palliative-care-nurse-dying-patients-happy-death-6432916",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-10-24T22:45:46+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--UYYynoey--/c_crop,h_720,w_1280,x_0,y_81/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/05/home-palliative-care-nurse-mariam-jumaat-home-nursing-foundation.jpg?itok=P_U15eba",
+      "summary": "Mariam Jumaat now provides home palliative care to dying patients. She has cared for more than 100 individuals in their final days. Her role focuses on ensuring comfort at home, surrounded by loved ones, rather than seeking a cure. Mariam Jumaat once believed good nursing meant helping patients get better and did not want to work with dying patients. Now, the home palliative care nurse helps them spend their final days comfortably at home, surrounded by the people they love.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -40,18 +64,6 @@
       "image_url": "https://gdb.rferl.org/cccb30c8-94c0-41cb-7738-08df13a869ed_w1200_h630.jpg",
       "summary": "Volodymyr Zelenskyy confirmed on October 24 that Starshield and Starlink systems are fully operational. The satellite communications, developed by SpaceX, had been disrupted for over a week. This outage limited Ukraine's defensive operations during the period. Ukrainian President Volodymyr Zelenskyy said on October 24 that the Starshield and Starlink satellite systems were back to normal operations. Disruptions in the communications systems, developed by Elon Musk's SpaceX company, had limited Ukraine's defensive operations for over a week.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran vows ‘apocalyptic war’ if U.S. strikes again",
-      "url": "https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-24T19:02:40+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/g9i6fm/article71621250.ece/alternates/LANDSCAPE_1200/APTOPIX_Iran_War_87885.jpg",
-      "summary": "Iranian officials warned they would target Persian Gulf states if the United States launches new strikes. Previous retaliatory phases saw Iran hit American military bases and regional energy infrastructure. The threat aims to deter further escalation in the ongoing conflict. Iranian officials have warned in recent days that they would retaliate by targeting Persian Gulf countries in the event of renewed U. S.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -236,54 +248,6 @@
       "translations": {}
     },
     {
-      "title": "Deportations And Jail Terms Leave Tajik Dissidents In Europe Fearing For Their Future",
-      "url": "https://www.rferl.org/a/tajikistan-asadullo-boboev-deportation-activists-germany-austria-democracy/33881765.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-22T17:02:05+00:00",
-      "image_url": "https://gdb.rferl.org/01000000-0aff-0242-7582-08dc4438eca6_cx0_cy0_cw99_w1200_h630.png",
-      "summary": "Tajik dissidents report feeling abandoned by Western nations following recent deportations. Several opposition figures were expelled from Germany and other European countries. They face imprisonment upon returning to Tajikistan. Exiled activists now fear losing the diplomatic support they previously relied on for protection. The deportation of several Tajik opposition figures from Germany and other European countries, and their subsequent imprisonment, have heightened fears among Tajik oppositionists in exile.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
-      "url": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-22T15:00:29+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e",
-      "summary": "Alberta plans to restrict rights for migrant workers despite previously welcoming them. Vanesa Ortiz, a Mexican resident in Calgary, criticized the move as scapegoating. She argued such measures will not lower the cost of living. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ukraine Cuts Chinese Drone Dependence, But Critical Gaps Remain",
-      "url": "https://www.rferl.org/a/ukraine-cuts-chinese-drone-dependence-but-critical-gaps-remain/33881578.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-22T11:05:20+00:00",
-      "image_url": "https://gdb.rferl.org/465d222a-0fdd-4c63-7433-08df13a869ed_w1200_h630.jpg",
-      "summary": "Ukraine has sharply reduced its reliance on Chinese drone components since 2022. However, critical parts remain difficult to replace at scale and cost. This leaves a persistent dependency on Beijing for essential military hardware. In 2022, Ukraine relied almost entirely on Chinese components for its military drones. While that dependency has now been drastically reduced, Ukraine still relies on Beijing for essential parts that remain difficult to replace at the necessary scale and cost.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
-      "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-22T03:56:46+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/713bcd9ff1654fe9c89a51939a324229100d3767/0_125_3728_2984/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e37089bb178a354486cf3ff0ec3898",
-      "summary": "Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "When Big Tech becomes a tool of state control in Kenya",
       "url": "https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/",
       "source": "Global Voices",
@@ -308,20 +272,308 @@
       "translations": {}
     },
     {
-      "title": "14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित",
-      "url": "https://www.amarujala.com/india-news/west-asia-tension-air-india-and-ai-express-riyadh-dammam-flights-cancel-other-airlines-news-update-2026-10-25",
-      "source": "Amar Ujala World",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-10-25T07:22:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/09/saudi-flights-cancel_cf65a61cb2082faf8cdde82343d12978.jpeg?w=1200&dpr=1.0",
-      "summary": "एअर इंडिया ने पश्चिम एशिया तनाव के कारण रियाद और दम्माम के लिए उड़ानें निलंबित की हैं। सेवा 7 नवंबर तक बंद रहेगी। यह निर्णय 14 दिन के लिए लिया गया है। पश्चिम एशिया तनाव: 14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित।",
+      "published_at": "2026-10-21T00:14:55+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168",
+      "summary": "Nigeria confirmed its first Ebola case in Abuja. A woman who traveled from Uganda tested positive after showing symptoms on 7 October. The outbreak has now spread into western Africa, marking a significant regional health concern. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How War is Reshaping Iran’s “Axis of Resistance”",
+      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-10-16T18:13:00+00:00",
+      "image_url": "https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Three years of hostilities have reshaped Iran’s Axis of Resistance. Tehran now relies more heavily on its own military capabilities. It continues to protect partners whose diminished utility has not reduced its strategic commitment to them. Three years of hostilities have transformed Tehran’s network of allies in the Middle East. The Islamic Republic is now relying more heavily on itself, while adapting its relationships with partners whose diminished military utility has not necessarily reduced its commitment to their protection.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Multiplying Crises, Fraying Consensus at the 2026 UN General Assembly",
+      "url": "https://www.crisisgroup.org/vis/global/multiplying-crises-fraying-consensus-2026-un-general-assembly",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14045562/pexels-photo-14045562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "At the 2026 UN General Assembly in New York, leaders addressed a broad range of peace and security concerns, none of which dominated the agenda. Crisis Group experts dissect the competing priorities of member states, highlighting how overlapping crises dilute consensus and complicate collective action. World leaders raised an array of peace and security concerns in their speeches at the 2026UN General Assembly, with no single issue standing out.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "ईरान से बॉर्डर बंद कर अकड़ दिखा रहा था पाकिस्तान, हफ्तेभर में उतर गया सारा भौकाल, अब खुद खोला रास्ता",
+      "url": "https://hindi.news18.com/world/pakistan-gabd-rimdan-border-reopen-with-iran-after-a-week-lpg-shortage-10935514.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-25T09:38:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/iran-pak-border-2026-10-c9fd3f878f23c0bab48da9d6b86a943a-1200x800.jpg",
+      "summary": "पाकिस्तान ने शनिवार को ईरान से गब्ड-रिमदान सीमा को एक हफ्ते बाद खोल दिया। इससे पहले गुरुवार को सीमा पर ट्रकों पर हमले में दर्जनों वाहन जल गए थे। बंदी के दौरान LPG और खाद्य सामग्री से भरे ट्रक दोनों तरफ फंसे रह गए थे। Pakistan-Iran Border: पाकिस्तान ने शनिवार सुबह ईरान से लगे गब्ड-रिमदान बॉर्डर को एक हफ्ते बाद दोबारा खोल दिया.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित",
-          "summary": "एअर इंडिया ने पश्चिम एशिया तनाव के कारण रियाद और दम्माम के लिए उड़ानें निलंबित की हैं। सेवा 7 नवंबर तक बंद रहेगी। यह निर्णय 14 दिन के लिए लिया गया है। पश्चिम एशिया तनाव: 14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित।",
+          "title": "ईरान से बॉर्डर बंद कर अकड़ दिखा रहा था पाकिस्तान, हफ्तेभर में उतर गया सारा भौकाल, अब खुद खोला रास्ता",
+          "summary": "पाकिस्तान ने शनिवार को ईरान से गब्ड-रिमदान सीमा को एक हफ्ते बाद खोल दिया। इससे पहले गुरुवार को सीमा पर ट्रकों पर हमले में दर्जनों वाहन जल गए थे। बंदी के दौरान LPG और खाद्य सामग्री से भरे ट्रक दोनों तरफ फंसे रह गए थे। Pakistan-Iran Border: पाकिस्तान ने शनिवार सुबह ईरान से लगे गब्ड-रिमदान बॉर्डर को एक हफ्ते बाद दोबारा खोल दिया.",
           "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "समंदर से 3 देशों को लीलने निकली तबाही, चलीं 300kmph की महाबली हवाएं, पेड़ उखड़े-बिजली गुल, उड़ानें",
+      "url": "https://hindi.news18.com/world/china-super-typhoon-champi-2026-lowers-speed-nears-china-after-battering-taiwan-japan-with-300kmph-winds-heavy-rains-10935665.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-25T09:34:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/champi-storm-2026-10-73819c48c4678d2d6cfb1978d12cb90d-1200x800.jpg",
+      "summary": "सुपर टाइफून चांपी ने 300 किलोमीटर प्रति घंटे की रफ्तार से पूर्वी एशिया में तबाही मचाई। अब यह तूफान दक्षिण की ओर चीन की तरफ बढ़ रहा है। इसने पेड़ उखाड़ दिए, बिजली की लाइनें तोड़ीं और उड़ानें रद्द कर दीं। Super Typhoon Champi 2026: इस सीजन के सबसे ताकतवर तूफानों की लिस्ट में नाम जुड़ गया है चांपी का.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "समंदर से 3 देशों को लीलने निकली तबाही, चलीं 300kmph की महाबली हवाएं, पेड़ उखड़े-बिजली गुल, उड़ानें",
+          "summary": "सुपर टाइफून चांपी ने 300 किलोमीटर प्रति घंटे की रफ्तार से पूर्वी एशिया में तबाही मचाई। अब यह तूफान दक्षिण की ओर चीन की तरफ बढ़ रहा है। इसने पेड़ उखाड़ दिए, बिजली की लाइनें तोड़ीं और उड़ानें रद्द कर दीं। Super Typhoon Champi 2026: इस सीजन के सबसे ताकतवर तूफानों की लिस्ट में नाम जुड़ गया है चांपी का.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका-ईरान तनाव के बीच अराघची का ऐलान: ‘जंग हो या न हो, अपनी राह पर कायम रहेंगे’",
+      "url": "https://www.patrika.com/world-news/araghchi-iran-policies-unchanged-war-or-no-war-us-iran-tension-21007359",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-25T09:14:21+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Iran-US-Tensions_e90be9.webp",
+      "summary": "ईरान के विदेश मंत्री अब्बास अराघची ने कहा कि युद्ध हो या न हो, ईरान की नीतियां अपरिवर्तित रहेंगी। उन्होंने चेतावनी दी कि तेहरान के खिलाफ कोई और सैन्य कार्रवाई तर्कहीन होगी। यह बयान अमेरिका-ईरान तनाव के बीच आया है। Middl East Tensions: ईरानी समाचार एजेंसी ISNA के अनुसार, ईरान के विदेश मंत्री अब्बास अराघची ने कहा है कि चाहे कोई और युद्ध छिड़े या न छिड़े, ईरान की नीतियां वैसी ही बनी रहेंगी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-ईरान तनाव के बीच अराघची का ऐलान: ‘जंग हो या न हो, अपनी राह पर कायम रहेंगे’",
+          "summary": "ईरान के विदेश मंत्री अब्बास अराघची ने कहा कि युद्ध हो या न हो, ईरान की नीतियां अपरिवर्तित रहेंगी। उन्होंने चेतावनी दी कि तेहरान के खिलाफ कोई और सैन्य कार्रवाई तर्कहीन होगी। यह बयान अमेरिका-ईरान तनाव के बीच आया है। Middl East Tensions: ईरानी समाचार एजेंसी ISNA के अनुसार, ईरान के विदेश मंत्री अब्बास अराघची ने कहा है कि चाहे कोई और युद्ध छिड़े या न छिड़े, ईरान की नीतियां वैसी ही बनी रहेंगी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "एक सुनसान गांव, सैकड़ों पुतले और वीरान गलियां, हंसते-खेलते बच्चे हो गए गुम, पसरा है सिर्फ सन्नाटा",
+      "url": "https://hindi.news18.com/world/rest-of-world-mysterious-japanese-childless-village-nagoro-where-creepy-dolls-take-over-humans-amazing-places-of-world-photogallery-10935419.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-25T08:29:24+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/cover-nagoro-2026-10-97b9c63318bfb00c0c91fce6d79bfb39-1200x800.jpg",
+      "summary": "जापान के नागोरो गांव में अब इंसानों से ज्यादा पुतले दिखते हैं। बंद स्कूल और सुनसान गलियों में कपड़े पहने डरावनी गुड़ियां रखी हैं। एक समय चहल-पहल से भरा यह गांव अब सन्नाटे में डूबा हुआ है। अगर इनकी कहानी सुनाई जाए, तो दिमाग झन्ना जाएगा. जापान का नागोरो गांव ऐसा ही है. चहल-पहल से गुलजार रहने वाले इस गांव में अब इंसानों से ज्यादा पुतले ही पुतले दिखाई देते हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एक सुनसान गांव, सैकड़ों पुतले और वीरान गलियां, हंसते-खेलते बच्चे हो गए गुम, पसरा है सिर्फ सन्नाटा",
+          "summary": "जापान के नागोरो गांव में अब इंसानों से ज्यादा पुतले दिखते हैं। बंद स्कूल और सुनसान गलियों में कपड़े पहने डरावनी गुड़ियां रखी हैं। एक समय चहल-पहल से भरा यह गांव अब सन्नाटे में डूबा हुआ है। अगर इनकी कहानी सुनाई जाए, तो दिमाग झन्ना जाएगा. जापान का नागोरो गांव ऐसा ही है. चहल-पहल से गुलजार रहने वाले इस गांव में अब इंसानों से ज्यादा पुतले ही पुतले दिखाई देते हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इजरायल को 1 घंटे में मिट्टी में मिला देगा ईरान, जारी किया तबाही का नक्शा, प्यासा मारने का प्लान",
+      "url": "https://hindi.news18.com/world/middle-east-iran-threatens-israel-with-rapid-retaliation-naming-water-power-oil-and-transport-infrastructure-targets-10935420.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-25T08:28:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/israel-10-2026-10-4fbe8e59b3f30a6a0fdbc49a81703b28-1200x800.jpg",
+      "summary": "ईरानी संसद के प्रमुख इब्राहिम अजीजी ने चेतावनी दी कि सुरक्षा पर हमले पर इजरायल को एक घंटे में रहने लायक नहीं छोड़ा जाएगा। उन्होंने पानी शुद्धिकरण प्लांट, बिजलीघर और डिमोना परमाणु केंद्र जैसे ठिकानों का नक्शा साझा किया। ईरान की संसद की राष्ट्रीय सुरक्षा और विदेश नीति समिति के प्रमुख इब्राहिम अजीजी ने चेतावनी दी है कि ईरान की सुरक्षा पर हमला होने पर इजरायल को एक घंटे से कम समय में रहने लायक नहीं छोड़ा जाएगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजरायल को 1 घंटे में मिट्टी में मिला देगा ईरान, जारी किया तबाही का नक्शा, प्यासा मारने का प्लान",
+          "summary": "ईरानी संसद के प्रमुख इब्राहिम अजीजी ने चेतावनी दी कि सुरक्षा पर हमले पर इजरायल को एक घंटे में रहने लायक नहीं छोड़ा जाएगा। उन्होंने पानी शुद्धिकरण प्लांट, बिजलीघर और डिमोना परमाणु केंद्र जैसे ठिकानों का नक्शा साझा किया। ईरान की संसद की राष्ट्रीय सुरक्षा और विदेश नीति समिति के प्रमुख इब्राहिम अजीजी ने चेतावनी दी है कि ईरान की सुरक्षा पर हमला होने पर इजरायल को एक घंटे से कम समय में रहने लायक नहीं छोड़ा जाएगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘हम असहाय दर्शक बनकर नहीं रह सकते’, यूक्रेन और मिडिल ईस्ट के युद्ध पर जयशंकर का बयान",
+      "url": "https://www.patrika.com/world-news/jaishankar-ukraine-west-asia-war-dialogue-diplomacy-21007176",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-25T08:00:19+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/jaishankar-in-ukraine.webp",
+      "summary": "विदेश मंत्री एस. जयशंकर ने संयुक्त राष्ट्र दिवस पर कहा कि यूक्रेन और पश्चिम एशिया के संघर्ष वैश्विक शांति के लिए खतरा हैं। उन्होंने अंतरराष्ट्रीय समुदाय से सक्रिय भूमिका अपेक्षा की। जयशंकर ने वैश्विक शांति और सुरक्षा को लेकर बेहद अहम बाते कहीं। उन्होंने यूक्रेन और पश्चिम एशिया में जारी संघर्षों पर गहरी चिंता जताते हुए कहा कि आज दुनिया के किसी भी कोने में होने वाला युद्ध हर जगह की शांति के लिए एक बड़ा खतरा बन चुका है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘हम असहाय दर्शक बनकर नहीं रह सकते’, यूक्रेन और मिडिल ईस्ट के युद्ध पर जयशंकर का बयान",
+          "summary": "विदेश मंत्री एस. जयशंकर ने संयुक्त राष्ट्र दिवस पर कहा कि यूक्रेन और पश्चिम एशिया के संघर्ष वैश्विक शांति के लिए खतरा हैं। उन्होंने अंतरराष्ट्रीय समुदाय से सक्रिय भूमिका अपेक्षा की। जयशंकर ने वैश्विक शांति और सुरक्षा को लेकर बेहद अहम बाते कहीं। उन्होंने यूक्रेन और पश्चिम एशिया में जारी संघर्षों पर गहरी चिंता जताते हुए कहा कि आज दुनिया के किसी भी कोने में होने वाला युद्ध हर जगह की शांति के लिए एक बड़ा खतरा बन चुका है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "इटली में बेकाबू हुए प्रदर्शन, हिंसा की खबरों के बीच बोलीं मेलोनी- अव्यवस्था के लिए जगह नहीं",
+      "url": "https://hindi.news18.com/world/europe-italy-anti-government-protest-meloni-appreciated-police-for-management-ws-l-10935276.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-25T07:37:32+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/italy-pm-2026-09-f76da7b9248b2bb2689c6d8493c6f5cc-1200x800.jpg",
+      "summary": "इटली के रोम, बोलोग्ना और ट्यूरिन में प्रदर्शनकारियों और पुलिस के बीच झड़पें हुईं। प्रधानमंत्री जॉर्जिया मेलोनी ने हिंसा की निंदा करते हुए सुरक्षा बलों की सराहना की। Italy Anti Government Protest: इटली में सरकार की नीतियों के खिलाफ कई शहरों में प्रदर्शन हुए. हालात संभालने के लिए पुलिस ने आंसू गैस और पानी की बौछारों का इस्तेमाल किया. इटली में बेकाबू हुए प्रदर्शन, हिंसा की खबरों के बीच बोलीं मेलोनी- अव्यवस्था के लिए जगह नहीं।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इटली में बेकाबू हुए प्रदर्शन, हिंसा की खबरों के बीच बोलीं मेलोनी- अव्यवस्था के लिए जगह नहीं",
+          "summary": "इटली के रोम, बोलोग्ना और ट्यूरिन में प्रदर्शनकारियों और पुलिस के बीच झड़पें हुईं। प्रधानमंत्री जॉर्जिया मेलोनी ने हिंसा की निंदा करते हुए सुरक्षा बलों की सराहना की। Italy Anti Government Protest: इटली में सरकार की नीतियों के खिलाफ कई शहरों में प्रदर्शन हुए. हालात संभालने के लिए पुलिस ने आंसू गैस और पानी की बौछारों का इस्तेमाल किया. इटली में बेकाबू हुए प्रदर्शन, हिंसा की खबरों के बीच बोलीं मेलोनी- अव्यवस्था के लिए जगह नहीं।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "130 किमी की रफ्तार से आ रही तबाही, बिजली गुल और हर तरफ मलबा, तूफान बोएलो से मचेगी तबाही?",
+      "url": "https://hindi.news18.com/world/britain-storm-boelo-brings-winds-of-up-to-130-km-across-parts-of-the-uk-raising-risks-of-power-cuts-10935369.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-25T07:31:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/hurricane-1-2026-10-408230d6081400fc5332969fcf3eb2ff-1200x800.jpg",
+      "summary": "ब्रिटेन में तूफान बोएलो ने स्कॉटलैंड और उत्तरी इंग्लैंड में 130 किमी प्रति घंटे की हवाएं लाई। बिजली, सड़क और समुद्री यातायात प्रभावित हुआ है। ब्रिटेन में तूफान बोएलो के चलते स्कॉटलैंड, उत्तरी आयरलैंड और उत्तरी इंग्लैंड के कई इलाकों में मौसम संबंधी चेतावनी जारी की गई है. सबसे प्रभावित क्षेत्रों में हवाओं की रफ्तार करीब 130 किलोमीटर प्रति घंटे तक पहुंचने का अनुमान है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "130 किमी की रफ्तार से आ रही तबाही, बिजली गुल और हर तरफ मलबा, तूफान बोएलो से मचेगी तबाही?",
+          "summary": "ब्रिटेन में तूफान बोएलो ने स्कॉटलैंड और उत्तरी इंग्लैंड में 130 किमी प्रति घंटे की हवाएं लाई। बिजली, सड़क और समुद्री यातायात प्रभावित हुआ है। ब्रिटेन में तूफान बोएलो के चलते स्कॉटलैंड, उत्तरी आयरलैंड और उत्तरी इंग्लैंड के कई इलाकों में मौसम संबंधी चेतावनी जारी की गई है. सबसे प्रभावित क्षेत्रों में हवाओं की रफ्तार करीब 130 किलोमीटर प्रति घंटे तक पहुंचने का अनुमान है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अंतरिक्ष मिशनों की क्या है योजना?: इसरो चीफ ने बताया रोडमैप, बनेंगे एसएसएलवी कॉम्प्लेक्स से लॉन्च",
+      "url": "https://www.amarujala.com/india-news/isro-four-functional-launch-pads-by-2029-sslv-gaganyaan-chandrayaan-5-2026-10-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T07:23:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/isro_718fb78f22ee023f700070953937b290.jpeg?w=1200&dpr=1.0",
+      "summary": "इसरो चीफ ने 2029 तक चार कार्यात्मक लॉन्च पैड बनाने की योजना बताई। एसएसएलवी, गगनयान और चंद्रयान-5 मिशन इन पैड्स से लॉन्च होंगे। अंतरिक्ष मिशनों की क्या है योजना?: इसरो चीफ ने बताया रोडमैप, बनेंगे एसएसएलवी कॉम्प्लेक्स से लॉन्च।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अंतरिक्ष मिशनों की क्या है योजना?: इसरो चीफ ने बताया रोडमैप, बनेंगे एसएसएलवी कॉम्प्लेक्स से लॉन्च",
+          "summary": "इसरो चीफ ने 2029 तक चार कार्यात्मक लॉन्च पैड बनाने की योजना बताई। एसएसएलवी, गगनयान और चंद्रयान-5 मिशन इन पैड्स से लॉन्च होंगे। अंतरिक्ष मिशनों की क्या है योजना?: इसरो चीफ ने बताया रोडमैप, बनेंगे एसएसएलवी कॉम्प्लेक्स से लॉन्च।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में पार्टी के बीच अचानक चली गोलियां, 11 लोगों को लगी गोली, घायलों में मासूम बच्चे भी",
+      "url": "https://www.patrika.com/world-news/florida-university-shooting-11-injured-children-among-victims-21006970",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-25T07:21:47+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Florida-AM-University.webp",
+      "summary": "फ्लोरिडा एग्रीकल्चरल एंड मैकेनिकल यूनिवर्सिटी के पास पार्टी में गोलीबारी हुई। 11 लोगों, जिनमें 11 साल का बच्चा शामिल है, को गोली लगी। तीन घायलों की हालत गंभीर है। तल्हासी स्थित फ्लोरिडा एग्रीकल्चरल एंड मैकेनिकल यूनिवर्सिटी (FAMU) कैंपस के पास शनिवार रात एक पार्टी के दौरान भीषण गोलीबारी हो गई। इस वारदात में 11 साल के मासूम बच्चे समेत 11 लोगों को गोली लगी है, जबकि एक अन्य व्यक्ति झड़प के दौरान घायल हो गया।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में पार्टी के बीच अचानक चली गोलियां, 11 लोगों को लगी गोली, घायलों में मासूम बच्चे भी",
+          "summary": "फ्लोरिडा एग्रीकल्चरल एंड मैकेनिकल यूनिवर्सिटी के पास पार्टी में गोलीबारी हुई। 11 लोगों, जिनमें 11 साल का बच्चा शामिल है, को गोली लगी। तीन घायलों की हालत गंभीर है। तल्हासी स्थित फ्लोरिडा एग्रीकल्चरल एंड मैकेनिकल यूनिवर्सिटी (FAMU) कैंपस के पास शनिवार रात एक पार्टी के दौरान भीषण गोलीबारी हो गई। इस वारदात में 11 साल के मासूम बच्चे समेत 11 लोगों को गोली लगी है, जबकि एक अन्य व्यक्ति झड़प के दौरान घायल हो गया।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'स्पाइसजेट सस्ता है, इसलिए आए हो!': इतना सुनते ही भड़क उठे यात्री, कर्मचारियों से नोकझोंक का वीडियो",
+      "url": "https://www.amarujala.com/delhi-ncr/argument-between-spicejet-staff-and-passengers-at-delhi-airport-2026-10-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T07:01:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/thall-eyaraparata-para-sapaisajata-karamacaraya-oura-yataraya-ma-nakajhaka_99a54bb47a242048e140ab70fbdaa825.jpeg?w=1200&dpr=1.0",
+      "summary": "सोशल मीडिया पर वायरल वीडियो में यात्री स्पाइसजेट कर्मचारियों से बहस करते नजर आए। उन्होंने 'शेम ऑन स्पाइसजेट' के नारे लगाए। घटना का वीडियो विवाद का कारण बना। कथित तौर पर सोशल मीडिया पर वायरल हो रहे एक वीडियो में यात्री एयरलाइन के कर्मचारियों से बहस करते और ‘शेम ऑन स्पाइसजेट’ के नारे लगाते दिखाई दे रहे हैं। 'स्पाइसजेट सस्ता है, इसलिए आए हो!': इतना सुनते ही भड़क उठे यात्री, कर्मचारियों से नोकझोंक का वीडियो।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'स्पाइसजेट सस्ता है, इसलिए आए हो!': इतना सुनते ही भड़क उठे यात्री, कर्मचारियों से नोकझोंक का वीडियो",
+          "summary": "सोशल मीडिया पर वायरल वीडियो में यात्री स्पाइसजेट कर्मचारियों से बहस करते नजर आए। उन्होंने 'शेम ऑन स्पाइसजेट' के नारे लगाए। घटना का वीडियो विवाद का कारण बना। कथित तौर पर सोशल मीडिया पर वायरल हो रहे एक वीडियो में यात्री एयरलाइन के कर्मचारियों से बहस करते और ‘शेम ऑन स्पाइसजेट’ के नारे लगाते दिखाई दे रहे हैं। 'स्पाइसजेट सस्ता है, इसलिए आए हो!': इतना सुनते ही भड़क उठे यात्री, कर्मचारियों से नोकझोंक का वीडियो।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "यूएन में भारत ने पाकिस्तान को घेरा: कहा- सेना ही असली हुक्मरान, सरकार के पास अपने फैसले लेने की",
+      "url": "https://www.amarujala.com/world/india-corners-pakistan-at-un-states-that-army-real-ruler-government-lacks-courage-to-make-its-own-decisions-2026-10-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-25T07:00:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/ragha-para-sacava-bharata_b5f18a4b64895aff6cb39ea7205a84cc.jpeg?w=1200&dpr=1.0",
+      "summary": "संयुक्त राष्ट्र में भारत ने पाकिस्तान पर सैन्य प्रभुत्व का आरोप लगाया। भारतीय पक्ष ने कहा कि पाकिस्तानी सरकार को स्वतंत्र निर्णय लेने की हिम्मत नहीं है। यह टिप्पणी द्विपक्षीय तनाव को उजागर करती है। यूएन में भारत ने पाकिस्तान को घेरा: कहा- सेना ही असली हुक्मरान, सरकार के पास अपने फैसले लेने की।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूएन में भारत ने पाकिस्तान को घेरा: कहा- सेना ही असली हुक्मरान, सरकार के पास अपने फैसले लेने की",
+          "summary": "संयुक्त राष्ट्र में भारत ने पाकिस्तान पर सैन्य प्रभुत्व का आरोप लगाया। भारतीय पक्ष ने कहा कि पाकिस्तानी सरकार को स्वतंत्र निर्णय लेने की हिम्मत नहीं है। यह टिप्पणी द्विपक्षीय तनाव को उजागर करती है। यूएन में भारत ने पाकिस्तान को घेरा: कहा- सेना ही असली हुक्मरान, सरकार के पास अपने फैसले लेने की।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "आज से बदलेगा मौसम, पहाड़ों पर बारिश-बर्फबारी के आसार, मैदानों में बढ़ेगी ठंड",
+      "url": "https://www.amarujala.com/uttarakhand/uttarakhand-weather-update-today-rain-expected-in-mountains-cold-to-intensify-in-plains-2026-10-25",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-10-25T06:47:46+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/utatarakhada-ma-masama_34921fff203c7832ed10d58b0e7fed52.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तराखंड के पर्वतीय जिलों में हल्की बारिश की संभावना बनी है। मौसम विभाग के अनुसार यह बारिश मैदानी क्षेत्रों के तापमान को भी प्रभावित करेगी। ठंड बढ़ने की उम्मीद है। उत्तराखंड के पर्वतीय जिलों के कुछ हिस्सों में हल्की बारिश होने की संभावना है। मौसम वैज्ञानिकों का कहना है कि पर्वतीय इलाकों में होने वाली बारिश का असर मैदानी क्षेत्रों के तापमान पर भी देखने को मिलेगा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज से बदलेगा मौसम, पहाड़ों पर बारिश-बर्फबारी के आसार, मैदानों में बढ़ेगी ठंड",
+          "summary": "उत्तराखंड के पर्वतीय जिलों में हल्की बारिश की संभावना बनी है। मौसम विभाग के अनुसार यह बारिश मैदानी क्षेत्रों के तापमान को भी प्रभावित करेगी। ठंड बढ़ने की उम्मीद है। उत्तराखंड के पर्वतीय जिलों के कुछ हिस्सों में हल्की बारिश होने की संभावना है। मौसम वैज्ञानिकों का कहना है कि पर्वतीय इलाकों में होने वाली बारिश का असर मैदानी क्षेत्रों के तापमान पर भी देखने को मिलेगा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल",
+      "url": "https://hindi.news18.com/world/america-us-firing-florida-11-people-shot-during-event-near-university-safety-alerts-10935023.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-25T06:09:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/florida-shooting-2026-10-cc6a951a6d1ea21d9d99b222ff566e51-1200x800.jpg",
+      "summary": "फ्लोरिडा में यूनिवर्सिटी के पास हुई फायरिंग में 11 लोगों को गोली लगी है। घायलों में छह बच्चे भी शामिल हैं। स्थानीय पुलिस ने घटनास्थल पर सुरक्षा कड़ी कर दी है और जांच जारी है। फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल। Florida Firing 11 people shot: अमेरिका के फ्लोरिडा राज्य के टालाहासी शहर में एक दर्दनाक घटना सामने आई है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल",
+          "summary": "फ्लोरिडा में यूनिवर्सिटी के पास हुई फायरिंग में 11 लोगों को गोली लगी है। घायलों में छह बच्चे भी शामिल हैं। स्थानीय पुलिस ने घटनास्थल पर सुरक्षा कड़ी कर दी है और जांच जारी है। फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल। Florida Firing 11 people shot: अमेरिका के फ्लोरिडा राज्य के टालाहासी शहर में एक दर्दनाक घटना सामने आई है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "फ्लोरिडा यूनिवर्सिटी में चली गोलियां, छह बच्चों समेत 12 घायल; तीन की हालत गंभीर",
+      "url": "https://www.amarujala.com/world/florida-am-university-shooting-tallahassee-many-injured-including-six-children-2026-10-25",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-25T05:27:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/florida-university-shooting_fe27231e40a26ff88a11dbba5104039c.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्लोरिडा विश्वविद्यालय में हुई गोलीबारी में 12 लोग घायल हुए। इनमें छह बच्चे शामिल हैं। तीन घायलों की हालत गंभीर बताई जा रही है। घटना ने अमेरिका में चिंता बढ़ा दी। फ्लोरिडा यूनिवर्सिटी में चली गोलियां, छह बच्चों समेत 12 घायल; तीन की हालत गंभीर।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्लोरिडा यूनिवर्सिटी में चली गोलियां, छह बच्चों समेत 12 घायल; तीन की हालत गंभीर",
+          "summary": "फ्लोरिडा विश्वविद्यालय में हुई गोलीबारी में 12 लोग घायल हुए। इनमें छह बच्चे शामिल हैं। तीन घायलों की हालत गंभीर बताई जा रही है। घटना ने अमेरिका में चिंता बढ़ा दी। फ्लोरिडा यूनिवर्सिटी में चली गोलियां, छह बच्चों समेत 12 घायल; तीन की हालत गंभीर।",
+          "region": "अमेरिका"
         }
       }
     },
@@ -344,120 +596,30 @@
       }
     },
     {
-      "title": "शरद पूर्णिमा पर अपनों के जीवन में आए सुख-समृद्धि और खुशहाली, इन खूबसूरत संदेशों से दें पर्व की बधाई",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/sharad-purnima-2026-wishes-in-hindi-greetings-messages-wishes-quotes-and-images-2026-10-25",
-      "source": "Amar Ujala National",
+      "title": "ईरान के परमाणु प्लांट से अपने लोगों को नहीं हटा रहा रूस, दूतावास ने चल रही अटकलों पर दिया जवाब",
+      "url": "https://www.patrika.com/world-news/russia-denies-iran-bushehr-nuclear-plant-evacuation-21006800",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-25T05:15:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/sharatha-paranaema-ka-harathaka-shabhakamanae_a02af39ea0a91c9bb6d02db34c466c6a.jpeg?w=1200&dpr=1.0",
-      "summary": "शरद पूर्णिमा का पर्व सुख, समृद्धि और आस्था का प्रतीक माना जाता है। इस मौके पर अपनों को शुभकामना संदेश भेजे जाते हैं। पर्व की बधाई देने के लिए विशेष कोट्स प्रचलित हैं। शरद पूर्णिमा का पावन पर्व सुख-समृद्धि, खुशहाली और आस्था का प्रतीक है। इस खास मौके पर अपनों को भेजें दिल छू लेने वाले शुभकामना संदेश, खूबसूरत कोट्स और बधाई मैसेज।",
-      "region": "World",
+      "published_at": "2026-10-25T05:00:57+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Vladimir-Putin.webp",
+      "summary": "रूस ने ईरान के बुशहर परमाणु संयंत्र से अपने कर्मचारियों को हटाने की अटकलों को खारिज किया। अमेरिका और इजराइल के साथ तनाव के बावजूद वहां काम जारी है। संयंत्र पर पहले भी हमले हो चुके हैं। अमेरिका-इजराइल के साथ गंभीर तनाव के बावजूद में ईरान ने अपने बुशहर परमाणु संयंत्र में काम जारी रखा है। बता दें कि ईरान के इस ठिकाने पर पहले कई हमले हो चुके हैं।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "शरद पूर्णिमा पर अपनों के जीवन में आए सुख-समृद्धि और खुशहाली, इन खूबसूरत संदेशों से दें पर्व की बधाई",
-          "summary": "शरद पूर्णिमा का पर्व सुख, समृद्धि और आस्था का प्रतीक माना जाता है। इस मौके पर अपनों को शुभकामना संदेश भेजे जाते हैं। पर्व की बधाई देने के लिए विशेष कोट्स प्रचलित हैं। शरद पूर्णिमा का पावन पर्व सुख-समृद्धि, खुशहाली और आस्था का प्रतीक है। इस खास मौके पर अपनों को भेजें दिल छू लेने वाले शुभकामना संदेश, खूबसूरत कोट्स और बधाई मैसेज।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शरद पूर्णिमा पर मां लक्ष्मी को प्रसन्न करने के लिए करें ये खास उपाय, जानें पूजा का महत्व",
-      "url": "https://www.amarujala.com/spirituality/religion/follow-these-special-remedies-on-sharad-purnima-to-seek-goddess-lakshmi-s-blessings-and-attract-prosperity-2026-10-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T05:14:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/21/sharad-purnima-2026_ed669895068cd634f2ea3d610db45aad.jpeg?w=1200&dpr=1.0",
-      "summary": "शरद पूर्णिमा को मां लक्ष्मी की पूजा और समृद्धि की कामना के लिए विशेष माना जाता है। इस दिन विशेष उपाय किए जाते हैं। पूजा विधि और खीर बनाने का धार्मिक महत्व बताया गया है। शरद पूर्णिमा मां लक्ष्मी की पूजा और सुख-समृद्धि की कामना के लिए विशेष मानी जाती है। जानिए इस दिन किए जाने वाले खास उपाय, पूजा विधि और खीर बनाने का धार्मिक महत्व।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शरद पूर्णिमा पर मां लक्ष्मी को प्रसन्न करने के लिए करें ये खास उपाय, जानें पूजा का महत्व",
-          "summary": "शरद पूर्णिमा को मां लक्ष्मी की पूजा और समृद्धि की कामना के लिए विशेष माना जाता है। इस दिन विशेष उपाय किए जाते हैं। पूजा विधि और खीर बनाने का धार्मिक महत्व बताया गया है। शरद पूर्णिमा मां लक्ष्मी की पूजा और सुख-समृद्धि की कामना के लिए विशेष मानी जाती है। जानिए इस दिन किए जाने वाले खास उपाय, पूजा विधि और खीर बनाने का धार्मिक महत्व।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "शरद पूर्णिमा पर जरूर करें मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की आरती, जानें पूजा का महत्व",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/religion/sharad-purnima-2026-these-3-aartis-to-seek-the-blessings-of-goddess-lakshmi-and-lord-vishnu-2026-10-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T05:12:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/24/sharatha-paranaema-2026_b4dc206f30464bfd3ab59a5da5c580e3.jpeg?w=1200&dpr=1.0",
-      "summary": "शरद पूर्णिमा पर मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की आरती का विशेष महत्व है। पूजा को पूर्ण करने के लिए इन तीनों की आरती की जाती है। इस दिन के धार्मिक अनुष्ठानों का विस्तार से वर्णन किया गया है। शरद पूर्णिमा पर मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की पूजा का विशेष महत्व है। जानिए इस दिन पूजा को पूर्ण करने के लिए इन तीनों देवी-देवताओं की आरती और उनका धार्मिक महत्व।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शरद पूर्णिमा पर जरूर करें मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की आरती, जानें पूजा का महत्व",
-          "summary": "शरद पूर्णिमा पर मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की आरती का विशेष महत्व है। पूजा को पूर्ण करने के लिए इन तीनों की आरती की जाती है। इस दिन के धार्मिक अनुष्ठानों का विस्तार से वर्णन किया गया है। शरद पूर्णिमा पर मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की पूजा का विशेष महत्व है। जानिए इस दिन पूजा को पूर्ण करने के लिए इन तीनों देवी-देवताओं की आरती और उनका धार्मिक महत्व।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कोजागरी पूजा आज , जानें शुभ मुहूर्त, महत्व और मां लक्ष्मी को प्रसन्न करने की विधि",
-      "url": "https://www.amarujala.com/spirituality/religion/kojagari-lakshmi-puja-2026-date-significance-puja-vidhi-and-rituals-to-attract-prosperity-2026-10-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T05:12:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/23/kajagara-paja-2026_b44278096809b504b8cec822caa2d18e.jpeg?w=1200&dpr=1.0",
-      "summary": "कोजागरी लक्ष्मी पूजा 25 अक्टूबर 2026 को शरद पूर्णिमा पर मनाई जाएगी। इस दिन मां लक्ष्मी की पूजा, रात्रि जागरण और खीर का भोग लगाने की परंपरा है। यह दिन धार्मिक महत्व के साथ पारिवारिक एकता का प्रतीक भी माना जाता है। कोजागरी लक्ष्मी पूजा 25 अक्तूबर 2026 को शरद पूर्णिमा के अवसर पर मनाई जाएगी। जानिए पूजा की विधि, महत्व और प्रमुख नियम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कोजागरी पूजा आज , जानें शुभ मुहूर्त, महत्व और मां लक्ष्मी को प्रसन्न करने की विधि",
-          "summary": "कोजागरी लक्ष्मी पूजा 25 अक्टूबर 2026 को शरद पूर्णिमा पर मनाई जाएगी। इस दिन मां लक्ष्मी की पूजा, रात्रि जागरण और खीर का भोग लगाने की परंपरा है। यह दिन धार्मिक महत्व के साथ पारिवारिक एकता का प्रतीक भी माना जाता है। कोजागरी लक्ष्मी पूजा 25 अक्तूबर 2026 को शरद पूर्णिमा के अवसर पर मनाई जाएगी। जानिए पूजा की विधि, महत्व और प्रमुख नियम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल",
-      "url": "https://hindi.news18.com/world/america-us-firing-florida-11-people-shot-during-event-near-university-safety-alerts-10935023.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-25T05:03:26+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg",
-      "summary": "फ्लोरिडा में यूनिवर्सिटी के पास हुई फायरिंग में 11 लोगों को गोली लगी है। घायलों में छह बच्चे भी शामिल हैं। स्थानीय पुलिस ने घटनास्थल पर सुरक्षा कड़ी कर दी है और जांच जारी है। फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल",
-          "summary": "फ्लोरिडा में यूनिवर्सिटी के पास हुई फायरिंग में 11 लोगों को गोली लगी है। घायलों में छह बच्चे भी शामिल हैं। स्थानीय पुलिस ने घटनास्थल पर सुरक्षा कड़ी कर दी है और जांच जारी है। फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "बीच में रुकी सिंगर शिल्पा राव की आवाज, अनु मलिक की बेटी के डांस परफॉर्मेंस पर उठे सवाल",
-      "url": "https://www.amarujala.com/entertainment/bollywood/did-anu-malik-daughter-ada-performances-lead-to-shilpa-rao-set-being-cut-short-2026-10-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T05:00:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/atha-malka-shalpa-rava_b747742dcdf34a4f1b317d677266a886.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई में एक इवेंट में शिल्पा राव का गाना बीच में रोक दिया गया। अनु मलिक और उनकी बेटी अदा का प्रदर्शन जारी रहा। इस घटना ने सोशल मीडिया पर विवाद को जन्म दिया है। Viral Video: मुंबई में हुए एक इवेंट में सिंगर शिल्पा के परफॉर्मेंस को बीच में रोक दिया गया। सिंगर अनु मलिक और उनकी बेटी अदा की परफॉर्मेंस जारी रही।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बीच में रुकी सिंगर शिल्पा राव की आवाज, अनु मलिक की बेटी के डांस परफॉर्मेंस पर उठे सवाल",
-          "summary": "मुंबई में एक इवेंट में शिल्पा राव का गाना बीच में रोक दिया गया। अनु मलिक और उनकी बेटी अदा का प्रदर्शन जारी रहा। इस घटना ने सोशल मीडिया पर विवाद को जन्म दिया है। Viral Video: मुंबई में हुए एक इवेंट में सिंगर शिल्पा के परफॉर्मेंस को बीच में रोक दिया गया। सिंगर अनु मलिक और उनकी बेटी अदा की परफॉर्मेंस जारी रही।",
-          "region": "एशिया-प्रशांत"
+          "title": "ईरान के परमाणु प्लांट से अपने लोगों को नहीं हटा रहा रूस, दूतावास ने चल रही अटकलों पर दिया जवाब",
+          "summary": "रूस ने ईरान के बुशहर परमाणु संयंत्र से अपने कर्मचारियों को हटाने की अटकलों को खारिज किया। अमेरिका और इजराइल के साथ तनाव के बावजूद वहां काम जारी है। संयंत्र पर पहले भी हमले हो चुके हैं। अमेरिका-इजराइल के साथ गंभीर तनाव के बावजूद में ईरान ने अपने बुशहर परमाणु संयंत्र में काम जारी रखा है। बता दें कि ईरान के इस ठिकाने पर पहले कई हमले हो चुके हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
       "title": "'तनाव में हैं', पिता के साथ हुई बदसलूकी पर बेटे गुरदीप ने तोड़ी चुप्पी, कही ये बात",
       "url": "https://www.amarujala.com/entertainment/daler-mehndi-s-son-gurdeep-opens-up-on-stage-row-controversy-he-says-we-are-stressed-2026-10-25",
-      "source": "Amar Ujala National",
+      "source": "Amar Ujala Breaking",
       "sources": [],
       "published_at": "2026-10-25T04:58:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/thalra-mahatha-oura-garathapa_1e6b9b937e7ac4d04b90e1e4d10c9223.jpeg?w=1200&dpr=1.0",
+      "image_url": "https://images.pexels.com/photos/4971026/pexels-photo-4971026.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "गुरदीप मेहंदी ने पिता दलेर मेहंदी के साथ हुई बदसलूकी पर चुप्पी तोड़ी है। उन्होंने कहा कि वे तनाव में हैं। यह बयान सुबोध उनियाल के साथ हुए विवाद के बाद आया है। दलेर मेहंदी पिछले कुछ दिनों से चर्चा में बने हुए हैं। दरअसल, एक इवेंट में गायक और उत्तराखंड के कैबिनेट मंत्री सुबोध उनियाल के बीच हुए विवाद हो गया था।",
       "region": "World",
       "language": "hi",
@@ -470,146 +632,20 @@
       }
     },
     {
-      "title": "शरद पूर्णिमा पर भोग के लिए खीर कैसे बनाएं? ये आसान विधि करें नोट",
-      "url": "https://www.amarujala.com/lifestyle/healthy-food/sharad-purnima-kheer-recipe-make-delicious-kheer-in-just-30-minutes-2026-10-25",
-      "source": "Amar Ujala National",
+      "title": "BRICS संसदीय मंच में शामिल नहीं होंगे ईरान के स्पीकर गालिबाफ, दूतावास ने बताई वजह",
+      "url": "https://www.patrika.com/world-news/iran-speaker-ghalibaf-to-skip-brics-parliamentary-forum-delhi-21006669",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-25T04:55:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/sharad-purnima-kheer-recipe_496da45eb9f5a4d9199714f3df7dcfa8.jpeg?w=1200&dpr=1.0",
-      "summary": "शरद पूर्णिमा पर खीर बनाने की आसान विधि उपलब्ध है। यह रेसिपी 30 मिनट में तैयार हो जाती है। इसमें चावल, दूध और चीनी का उपयोग किया जाता है। Sharad Purnima 2026: शरद पूर्णिमा पर बनाएं बाजार जैसी गाढ़ी और मलाईदार खीर। जानें सिर्फ 30 मिनट में चावल की खीर बनाने की आसान विधि, सामग्री और खास टिप्स। शरद पूर्णिमा पर भोग के लिए खीर कैसे बनाएं?",
-      "region": "World",
+      "published_at": "2026-10-25T04:31:41+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Mohammad-Bagher-Ghalibaf.webp",
+      "summary": "ईरान के संसद स्पीकर मोहम्मद बाघेर गालिबाफ नई दिल्ली में होने वाले 12वें BRICS संसदीय मंच में शामिल नहीं होंगे। दूतावास ने अनुपस्थिति का कारण अप्रत्याशित परिस्थितियां बताया है। ईरान का संसदीय प्रतिनिधिमंडल बैठक में हिस्सा लेगा। BRICS Summit: ईरान की संसद के स्पीकर और मुख्य वार्ताकार मोहम्मद बाघेर गालिबाफ नई दिल्ली में 26-27 अक्टूबर को होने वाले 12वें BRICS संसदीय मंच में शामिल नहीं होंगे।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "शरद पूर्णिमा पर भोग के लिए खीर कैसे बनाएं? ये आसान विधि करें नोट",
-          "summary": "शरद पूर्णिमा पर खीर बनाने की आसान विधि उपलब्ध है। यह रेसिपी 30 मिनट में तैयार हो जाती है। इसमें चावल, दूध और चीनी का उपयोग किया जाता है। Sharad Purnima 2026: शरद पूर्णिमा पर बनाएं बाजार जैसी गाढ़ी और मलाईदार खीर। जानें सिर्फ 30 मिनट में चावल की खीर बनाने की आसान विधि, सामग्री और खास टिप्स। शरद पूर्णिमा पर भोग के लिए खीर कैसे बनाएं?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कल को दस्तक दे सकती है ह्यूंदै बेयॉन: लॉन्च से पहले लीक हुई वैरिएंट की लिस्ट, मिल सकते हैं ये",
-      "url": "https://www.amarujala.com/automobiles/hyundai-bayon-set-india-launch-october-26-leaked-variants-features-revealed-2026-10-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T04:51:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/hayatha-byana_45dea9dea86f98c783ed94bbbf8b2b87.jpeg?w=1200&dpr=1.0",
-      "summary": "ह्यूंदै बेयॉन की लॉन्च से पहले वैरिएंट सूची लीक हो गई है। इसमें संभावित फीचर्स और मॉडल विवरण शामिल हैं। वाहन की आधिकारिक घोषणा कल हो सकती है। कल को दस्तक दे सकती है ह्यूंदै बेयॉन: लॉन्च से पहले लीक हुई वैरिएंट की लिस्ट, मिल सकते हैं ये संभावित फीचर्स।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कल को दस्तक दे सकती है ह्यूंदै बेयॉन: लॉन्च से पहले लीक हुई वैरिएंट की लिस्ट, मिल सकते हैं ये",
-          "summary": "ह्यूंदै बेयॉन की लॉन्च से पहले वैरिएंट सूची लीक हो गई है। इसमें संभावित फीचर्स और मॉडल विवरण शामिल हैं। वाहन की आधिकारिक घोषणा कल हो सकती है। कल को दस्तक दे सकती है ह्यूंदै बेयॉन: लॉन्च से पहले लीक हुई वैरिएंट की लिस्ट, मिल सकते हैं ये संभावित फीचर्स।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रहाणे ने चुनी टेस्ट की ऑल टाइम प्लेइंग-11: टीम में रोहित-कोहली और बुमराह को नहीं दी जगह, किसे बनाया",
-      "url": "https://www.amarujala.com/photo-gallery/cricket/cricket-news/ajinkya-rahane-picked-his-all-time-india-test-xi-left-out-virat-kohli-rohit-sharma-and-jasprit-bumrah-2026-10-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-25T04:47:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/rahane_66f68469ce3fa6e9ad526e8d844f4319.jpeg?w=1200&dpr=1.0",
-      "summary": "अजिंक्य रहाणे ने भारत की सर्वकालिक टेस्ट प्लेइंग-11 चुनी है। इस टीम में विराट कोहली, रोहित शर्मा और जसप्रीत बुमराह को जगह नहीं मिली। रहाणे ने अन्य खिलाड़ियों को प्राथमिकता दी। हैरान करने वाली बात यह है कि रहाणे की इस टीम में विराट कोहली, रोहित शर्मा और जसप्रीत बुमराह जैसे खिलाड़ियों को जगह नहीं मिली है। रहाणे ने चुनी टेस्ट की ऑल टाइम प्लेइंग-11: टीम में रोहित-कोहली और बुमराह को नहीं दी जगह, किसे बनाया।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रहाणे ने चुनी टेस्ट की ऑल टाइम प्लेइंग-11: टीम में रोहित-कोहली और बुमराह को नहीं दी जगह, किसे बनाया",
-          "summary": "अजिंक्य रहाणे ने भारत की सर्वकालिक टेस्ट प्लेइंग-11 चुनी है। इस टीम में विराट कोहली, रोहित शर्मा और जसप्रीत बुमराह को जगह नहीं मिली। रहाणे ने अन्य खिलाड़ियों को प्राथमिकता दी। हैरान करने वाली बात यह है कि रहाणे की इस टीम में विराट कोहली, रोहित शर्मा और जसप्रीत बुमराह जैसे खिलाड़ियों को जगह नहीं मिली है। रहाणे ने चुनी टेस्ट की ऑल टाइम प्लेइंग-11: टीम में रोहित-कोहली और बुमराह को नहीं दी जगह, किसे बनाया।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "12वीं पास छात्रों को मौका, 13 भाषाओं में होगी परीक्षा; जानें पूरी प्रक्रिया",
-      "url": "https://www.amarujala.com/education/jee-main-2027-session-1-registration-begins-check-last-date-fees-eligibility-and-exam-schedule-2026-10-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-25T04:47:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/jee-main-2027_2419f18f22937440554caae72ed9cfd3.jpeg?w=1200&dpr=1.0",
-      "summary": "जेईई मेन 2027 के पहले सत्र के लिए आवेदन प्रक्रिया शुरू हो गई है। राष्ट्रीय परीक्षा एजेंसी ने आखिरी तारीख 22 नवंबर 2026 तय की है। परीक्षा जनवरी 2027 में आयोजित होगी। राष्ट्रीय परीक्षा एजेंसी ने आवेदन की आखिरी तारीख 22 नवंबर 2026 तय की है। उम्मीदवार आधिकारिक वेबसाइट पर जाकर फॉर्म भर सकते हैं। परीक्षा जनवरी 2027 में होगी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "12वीं पास छात्रों को मौका, 13 भाषाओं में होगी परीक्षा; जानें पूरी प्रक्रिया",
-          "summary": "जेईई मेन 2027 के पहले सत्र के लिए आवेदन प्रक्रिया शुरू हो गई है। राष्ट्रीय परीक्षा एजेंसी ने आखिरी तारीख 22 नवंबर 2026 तय की है। परीक्षा जनवरी 2027 में आयोजित होगी। राष्ट्रीय परीक्षा एजेंसी ने आवेदन की आखिरी तारीख 22 नवंबर 2026 तय की है। उम्मीदवार आधिकारिक वेबसाइट पर जाकर फॉर्म भर सकते हैं। परीक्षा जनवरी 2027 में होगी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सात जगहों पर आज आरएसएस का रूट मार्च, मद्रास हाईकोर्ट से मिली अनुमति; दो नवंबर को भी कई कार्यक्रम",
-      "url": "https://www.amarujala.com/india-news/rss-route-marches-tamil-nadu-madras-high-court-permission-october-25-2026-10-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T04:46:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/rss-route-march_d1144e36d4fd53136f06440778e913df.jpeg?w=1200&dpr=1.0",
-      "summary": "तमिलनाडु में आरएसएस के सात रूट मार्चों के लिए मद्रास हाईकोर्ट ने अनुमति दी है। ये मार्च आज आयोजित होंगे। दो नवंबर को भी कई कार्यक्रमों की योजना बनाई गई है। तमिलनाडु: सात जगहों पर आज आरएसएस का रूट मार्च, मद्रास हाईकोर्ट से मिली अनुमति; दो नवंबर को भी कई कार्यक्रम rss-route-marches-tamil-nadu-madras-high-court-permission-october-25।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सात जगहों पर आज आरएसएस का रूट मार्च, मद्रास हाईकोर्ट से मिली अनुमति; दो नवंबर को भी कई कार्यक्रम",
-          "summary": "तमिलनाडु में आरएसएस के सात रूट मार्चों के लिए मद्रास हाईकोर्ट ने अनुमति दी है। ये मार्च आज आयोजित होंगे। दो नवंबर को भी कई कार्यक्रमों की योजना बनाई गई है। तमिलनाडु: सात जगहों पर आज आरएसएस का रूट मार्च, मद्रास हाईकोर्ट से मिली अनुमति; दो नवंबर को भी कई कार्यक्रम rss-route-marches-tamil-nadu-madras-high-court-permission-october-25।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'कीमती जल निकाय असुरक्षित, तो मूकदर्शक नहीं बैठ सकते'; राज्यों-केंद्र शासित प्रदेशों से अदालत",
-      "url": "https://www.amarujala.com/india-news/supreme-court-updates-wetlands-issue-guidelines-for-personal-data-collection-during-probe-cji-surya-kant-news-2026-10-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T04:46:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/supreme-court-updates_37693db95c8fb536899fb1003ed3c7c2.jpeg?w=1200&dpr=1.0",
-      "summary": "सुप्रीम कोर्ट ने राज्यों और केंद्र शासित प्रदेशों से जल निकायों की सुरक्षा के लिए कदम उठाने को कहा है। अदालत ने कहा कि मूकदर्शक नहीं बैठ सकते। यह निर्देश जल संसाधनों की सुरक्षा से जुड़ा है। सुप्रीम कोर्ट: 'कीमती जल निकाय असुरक्षित, तो मूकदर्शक नहीं बैठ सकते'; राज्यों-केंद्र शासित प्रदेशों से अदालत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'कीमती जल निकाय असुरक्षित, तो मूकदर्शक नहीं बैठ सकते'; राज्यों-केंद्र शासित प्रदेशों से अदालत",
-          "summary": "सुप्रीम कोर्ट ने राज्यों और केंद्र शासित प्रदेशों से जल निकायों की सुरक्षा के लिए कदम उठाने को कहा है। अदालत ने कहा कि मूकदर्शक नहीं बैठ सकते। यह निर्देश जल संसाधनों की सुरक्षा से जुड़ा है। सुप्रीम कोर्ट: 'कीमती जल निकाय असुरक्षित, तो मूकदर्शक नहीं बैठ सकते'; राज्यों-केंद्र शासित प्रदेशों से अदालत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सोसाइटी में इलेक्ट्रिक कार चार्ज करने के लिए क्या अपने पार्किंग स्लॉट में लगवा सकते हैं चार्जर?",
-      "url": "https://www.amarujala.com/photo-gallery/utility/can-you-install-an-electric-car-charger-in-your-own-parking-slot-in-a-housing-society-2026-10-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T04:42:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/electric-car-charger-charging-society_726065f9d06bba2b32c84d92115b856f.jpeg?w=1200&dpr=1.0",
-      "summary": "सोसाइटी में पार्किंग स्लॉट पर इलेक्ट्रिक कार चार्जर लगाने के लिए निवासियों को स्थानीय नियमों और मालिकाना अधिकारों की जांच करनी चाहिए। यह प्रक्रिया अक्सर जटिल होती है और समुदाय की सहमति आवश्यक होती है। क्या आप भी अपनी सोसाइटी के अपने पार्किंग स्लॉट पर इलेक्ट्रिक कार का चार्जर लगवाना चाहते हैं? इसके लिए आपको नियमों के बारे में जानना जरूरी हो जाता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सोसाइटी में इलेक्ट्रिक कार चार्ज करने के लिए क्या अपने पार्किंग स्लॉट में लगवा सकते हैं चार्जर?",
-          "summary": "सोसाइटी में पार्किंग स्लॉट पर इलेक्ट्रिक कार चार्जर लगाने के लिए निवासियों को स्थानीय नियमों और मालिकाना अधिकारों की जांच करनी चाहिए। यह प्रक्रिया अक्सर जटिल होती है और समुदाय की सहमति आवश्यक होती है। क्या आप भी अपनी सोसाइटी के अपने पार्किंग स्लॉट पर इलेक्ट्रिक कार का चार्जर लगवाना चाहते हैं? इसके लिए आपको नियमों के बारे में जानना जरूरी हो जाता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आज है शरद पूर्णिमा, खूबसूरत संदेशों से अपनों पर करें शुभकामनाओं की वर्षा",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-sharad-purnima-2026-wishes-in-hindi-images-quotes-messages-whatsapp-status-2026-10-25",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-10-25T04:30:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/sharad-purnima-wishes-2026_8f02ac6449b9b5704d01d33c679ea350.jpeg?w=1200&dpr=1.0",
-      "summary": "शरद पूर्णिमा 2026 का पर्व आज मनाया जा रहा है। इस दिन पूर्णिमा का चांद दिखता है और मान्यता है कि आकाश से अमृत की वर्षा होती है। लोग अपने प्रियजनों को शुभकामनाएं भेजते हैं। आज रात पूर्णिमा का चांद दिखेगा। मान्यता है कि इस दिन आकाश से अमृत वर्षा होती है। इस मौके पर अपने प्रियजनों पर शुभकामनाओं का वर्षा करें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज है शरद पूर्णिमा, खूबसूरत संदेशों से अपनों पर करें शुभकामनाओं की वर्षा",
-          "summary": "शरद पूर्णिमा 2026 का पर्व आज मनाया जा रहा है। इस दिन पूर्णिमा का चांद दिखता है और मान्यता है कि आकाश से अमृत की वर्षा होती है। लोग अपने प्रियजनों को शुभकामनाएं भेजते हैं। आज रात पूर्णिमा का चांद दिखेगा। मान्यता है कि इस दिन आकाश से अमृत वर्षा होती है। इस मौके पर अपने प्रियजनों पर शुभकामनाओं का वर्षा करें।",
-          "region": "दुनिया"
+          "title": "BRICS संसदीय मंच में शामिल नहीं होंगे ईरान के स्पीकर गालिबाफ, दूतावास ने बताई वजह",
+          "summary": "ईरान के संसद स्पीकर मोहम्मद बाघेर गालिबाफ नई दिल्ली में होने वाले 12वें BRICS संसदीय मंच में शामिल नहीं होंगे। दूतावास ने अनुपस्थिति का कारण अप्रत्याशित परिस्थितियां बताया है। ईरान का संसदीय प्रतिनिधिमंडल बैठक में हिस्सा लेगा। BRICS Summit: ईरान की संसद के स्पीकर और मुख्य वार्ताकार मोहम्मद बाघेर गालिबाफ नई दिल्ली में 26-27 अक्टूबर को होने वाले 12वें BRICS संसदीय मंच में शामिल नहीं होंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -650,24 +686,6 @@
       }
     },
     {
-      "title": "पति की हत्या में कटी अंगुली बनी सबसे बड़ा सबूत, पत्नी और प्रेमी समेत तीन को उम्रकैद",
-      "url": "https://www.amarujala.com/madhya-pradesh/shajapur/shajapur-husband-murder-illicit-relationship-wife-lover-life-imprisonment-2026-10-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-25T04:06:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/08/karata-ka-fasal_6c2b3472ddf9930c2ca781f2f7065d6a.jpeg?w=1200&dpr=1.0",
-      "summary": "मध्य प्रदेश के शाजापुर में पति की हत्या के मामले में अदालत ने तीन आरोपियों को उम्रकैद की सजा सुनाई। पत्नी, उसके प्रेमी और सहयोगी को दोषी ठहराया गया। कटी अंगुली को मुख्य सबूत माना गया। मध्य प्रदेश के शाजापुर में अवैध संबंध का विरोध करने पर पति की हत्या के मामले में अदालत ने पत्नी, उसके प्रेमी और सहयोगी को आजीवन कारावास की सजा सुनाई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पति की हत्या में कटी अंगुली बनी सबसे बड़ा सबूत, पत्नी और प्रेमी समेत तीन को उम्रकैद",
-          "summary": "मध्य प्रदेश के शाजापुर में पति की हत्या के मामले में अदालत ने तीन आरोपियों को उम्रकैद की सजा सुनाई। पत्नी, उसके प्रेमी और सहयोगी को दोषी ठहराया गया। कटी अंगुली को मुख्य सबूत माना गया। मध्य प्रदेश के शाजापुर में अवैध संबंध का विरोध करने पर पति की हत्या के मामले में अदालत ने पत्नी, उसके प्रेमी और सहयोगी को आजीवन कारावास की सजा सुनाई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "थरथराकर डोल गई धरती, समंदर से उठा 6.5 तीव्रता का भूकंप, घर छोड़कर सड़कों पर उतरे लोग",
       "url": "https://hindi.news18.com/world/south-asia-japan-bonin-island-hit-by-7-magnitude-earth-quake-epicenter-in-sea-10934762.html",
       "source": "News18 Hindi (World)",
@@ -704,56 +722,38 @@
       }
     },
     {
-      "title": "वीकएंड पर 'उड़ता तीर' की कमाई में आया उछाल, 350 करोड़ के पार हुआ 'जेलर 2' का कलेक्शन",
-      "url": "https://www.amarujala.com/entertainment/bollywood/udta-teer-vs-jailer-2-box-office-collection-on-saturday-total-earning-of-nayi-navelli-and-prahaar-2026-10-25",
-      "source": "Amar Ujala Breaking",
+      "title": "इजरायल में चुनाव से 3 दिन पहले नेतन्याहू के खिलाफ क्यों फूटा गुस्सा? तेल अवीव में जुटे हजारों",
+      "url": "https://www.patrika.com/world-news/israel-protests-before-election-against-benjamin-netanyahu-for-independent-inquiry-21006625",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-25T03:41:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/bkasa-oifasa-kalkashana_f023ecfce2b0b582a2a084e7299df476.jpeg?w=1200&dpr=1.0",
-      "summary": "रजनीकांत की फिल्म जेलर 2 का कलेक्शन 350 करोड़ रुपये के पार पहुंच गया। वीकेंड पर इसकी कमाई में उल्लेखनीय वृद्धि हुई। उड़ता तीर और दृश्यम 3 जैसी अन्य फिल्मों की कमाई भी बढ़ी। रजनीकांत की फिल्म 'जेलर 2' के कलेक्शन में वीकएंड पर उछाल आया है। 'उड़ता तीर', 'पहला प्यार दूसरी बार', 'नई नवेली', 'प्रहार' और 'दृश्यम 3' की कमाई में भी इजाफा हुआ है।",
-      "region": "World",
+      "published_at": "2026-10-25T03:31:53+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/israel-protest-1.webp",
+      "summary": "इजरायल में मंगलवार के चुनाव से तीन दिन पहले तेल अवीव समेत कई शहरों में नेतन्याहू के खिलाफ प्रदर्शन हुए। हजारों नागरिक, बंधकों के परिवार और युद्ध पीड़ित सड़कों पर उतरे। यह गाजा युद्ध के बाद का पहला आम चुनाव है। Israel Protests: इजरायल में मंगलवार को होने वाले चुनाव से तीन दिन पहले राजधानी तेल अवीव समेत देश के कई शहरों में प्रधानमंत्री बेंजामिन नेतन्याहू की सरकार के खिलाफ भारी जन आक्रोश देखने को मिला है।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वीकएंड पर 'उड़ता तीर' की कमाई में आया उछाल, 350 करोड़ के पार हुआ 'जेलर 2' का कलेक्शन",
-          "summary": "रजनीकांत की फिल्म जेलर 2 का कलेक्शन 350 करोड़ रुपये के पार पहुंच गया। वीकेंड पर इसकी कमाई में उल्लेखनीय वृद्धि हुई। उड़ता तीर और दृश्यम 3 जैसी अन्य फिल्मों की कमाई भी बढ़ी। रजनीकांत की फिल्म 'जेलर 2' के कलेक्शन में वीकएंड पर उछाल आया है। 'उड़ता तीर', 'पहला प्यार दूसरी बार', 'नई नवेली', 'प्रहार' और 'दृश्यम 3' की कमाई में भी इजाफा हुआ है।",
-          "region": "दुनिया"
+          "title": "इजरायल में चुनाव से 3 दिन पहले नेतन्याहू के खिलाफ क्यों फूटा गुस्सा? तेल अवीव में जुटे हजारों",
+          "summary": "इजरायल में मंगलवार के चुनाव से तीन दिन पहले तेल अवीव समेत कई शहरों में नेतन्याहू के खिलाफ प्रदर्शन हुए। हजारों नागरिक, बंधकों के परिवार और युद्ध पीड़ित सड़कों पर उतरे। यह गाजा युद्ध के बाद का पहला आम चुनाव है। Israel Protests: इजरायल में मंगलवार को होने वाले चुनाव से तीन दिन पहले राजधानी तेल अवीव समेत देश के कई शहरों में प्रधानमंत्री बेंजामिन नेतन्याहू की सरकार के खिलाफ भारी जन आक्रोश देखने को मिला है।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "हनुमान बेनीवाल की छोटी भाभी बनीं सरपंच, बड़ी भाभी को 149 वोटों से हराया",
-      "url": "https://www.amarujala.com/rajasthan/nagaur/nagaur-hanuman-beniwal-village-sarpanch-election-rajbala-beniwal-defeats-meera-beniwal-2026-10-25",
-      "source": "Amar Ujala Breaking",
+      "title": "सऊदी और हूती विद्रोहियों के बीच संघर्ष तेज, रियाद समेत कई शहरों पर मिसाइल-ड्रोन हमले; सना में 8 की",
+      "url": "https://www.amarujala.com/world/yemen-houthis-saudi-led-coalition-heavy-strikes-missile-drone-attacks-casualties-2026-10-25",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-10-25T03:27:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/sasatha-hanamana-bnaval_39f893f2c43c4a301446e2037a41df5a.jpeg?w=1200&dpr=1.0",
-      "summary": "राजस्थान के नागौर जिले में हनुमान बेनीवाल की छोटी भाभी सरपंच बनीं। उन्होंने बड़ी भाभी को 149 वोटों के अंतर से हराया। दोनों सगी बहनें और एक ही परिवार की देवरानी-जेठानी थीं। राजस्थान के नागौर जिले के बरणगांव में सरपंच पद के चुनाव में राष्ट्रीय लोकतांत्रिक पार्टी (आरएलपी) के सांसद हनुमान बेनीवाल की दो भाभियां आमने-सामने थीं। दोनों देवरानी-जेठानी होने के साथ सगी बहनें भी हैं।",
-      "region": "World",
+      "published_at": "2026-10-25T03:02:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/yeman_8cd65c55e2add32eca3a2ea90a59e6ba.jpeg?w=1200&dpr=1.0",
+      "summary": "सऊदी अरब और यमनी हूती विद्रोहियों के बीच संघर्ष तेज हो गया है। रियाद समेत कई शहरों पर मिसाइल और ड्रोन हमले किए गए। सना में हमलों में आठ लोगों की मौत हुई है। सऊदी और हूती विद्रोहियों के बीच संघर्ष तेज, रियाद समेत कई शहरों पर मिसाइल-ड्रोन हमले; सना में 8 की।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हनुमान बेनीवाल की छोटी भाभी बनीं सरपंच, बड़ी भाभी को 149 वोटों से हराया",
-          "summary": "राजस्थान के नागौर जिले में हनुमान बेनीवाल की छोटी भाभी सरपंच बनीं। उन्होंने बड़ी भाभी को 149 वोटों के अंतर से हराया। दोनों सगी बहनें और एक ही परिवार की देवरानी-जेठानी थीं। राजस्थान के नागौर जिले के बरणगांव में सरपंच पद के चुनाव में राष्ट्रीय लोकतांत्रिक पार्टी (आरएलपी) के सांसद हनुमान बेनीवाल की दो भाभियां आमने-सामने थीं। दोनों देवरानी-जेठानी होने के साथ सगी बहनें भी हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रंगदारी नहीं देने पर सुनाता था मौत का फरमान, आगे बढ़कर लॉरेंस को देता था टक्कर",
-      "url": "https://www.amarujala.com/delhi-ncr/himanshu-bhau-would-issue-a-death-sentence-if-extortion-money-was-not-paid-2026-10-25",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-10-25T03:15:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/25/hamasha-bhauu_2bfdf08f1c328aa4b1292f3830864cd1.jpeg?w=1200&dpr=1.0",
-      "summary": "हिमांशु भाऊ ने 2020 से लॉरेंस बिश्नोई के खिलाफ कार्रवाई शुरू की। उन्होंने रंगदारी नहीं देने पर मौत की धमकियों का सामना किया। दो साल में उन्होंने देश के कुख्यात गैंगस्टर को सीधे टक्कर दी। हिमांशु भाऊ सिंस 2020। महज दो साल में उसने देश के कुख्यात गैंगस्टर लॉरेंस बिश्नोई को चुनौती दी। रंगदारी नहीं देने पर सुनाता था मौत का फरमान, आगे बढ़कर लॉरेंस को देता था टक्कर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रंगदारी नहीं देने पर सुनाता था मौत का फरमान, आगे बढ़कर लॉरेंस को देता था टक्कर",
-          "summary": "हिमांशु भाऊ ने 2020 से लॉरेंस बिश्नोई के खिलाफ कार्रवाई शुरू की। उन्होंने रंगदारी नहीं देने पर मौत की धमकियों का सामना किया। दो साल में उन्होंने देश के कुख्यात गैंगस्टर को सीधे टक्कर दी। हिमांशु भाऊ सिंस 2020। महज दो साल में उसने देश के कुख्यात गैंगस्टर लॉरेंस बिश्नोई को चुनौती दी। रंगदारी नहीं देने पर सुनाता था मौत का फरमान, आगे बढ़कर लॉरेंस को देता था टक्कर।",
-          "region": "दुनिया"
+          "title": "सऊदी और हूती विद्रोहियों के बीच संघर्ष तेज, रियाद समेत कई शहरों पर मिसाइल-ड्रोन हमले; सना में 8 की",
+          "summary": "सऊदी अरब और यमनी हूती विद्रोहियों के बीच संघर्ष तेज हो गया है। रियाद समेत कई शहरों पर मिसाइल और ड्रोन हमले किए गए। सना में हमलों में आठ लोगों की मौत हुई है। सऊदी और हूती विद्रोहियों के बीच संघर्ष तेज, रियाद समेत कई शहरों पर मिसाइल-ड्रोन हमले; सना में 8 की।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
