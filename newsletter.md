@@ -1,6 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 25, 2026 03:33 IST
+**Updated:** October 25, 2026 06:08 IST
+
+---
+
+## World
+
+### [This nurse has cared for more than 100 dying patients – what they taught her about having a ‘happy](https://www.channelnewsasia.com/women/home-palliative-care-nurse-dying-patients-happy-death-6432916)
+*Channel News Asia* - Oct 25, 04:15 IST (iso: 2026-10-24T22:45:46+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--UYYynoey--/c_crop,h_720,w_1280,x_0,y_81/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/05/home-palliative-care-nurse-mariam-jumaat-home-nursing-foundation.jpg?itok=P_U15eba -->
+
+Mariam Jumaat, a home palliative care nurse, has cared for over 100 dying patients. She previously believed good nursing meant curing illness and avoided end-of-life care. Now she helps patients spend their final days at home. Her work focuses on comfort and allowing them to be surrounded by loved ones. This shift in perspective redefined her approach to patient care.
 
 ---
 
@@ -70,6 +80,12 @@ Iranian officials warned they would target Persian Gulf states if the United Sta
 
 Iran's parliament speaker will skip the upcoming BRICS summit. Tehran is negotiating a bilateral air route with India for medical supplies. Iranian authorities claim humanitarian aid is exempt from U. S. sanctions, while New Delhi suggests routing cargo through a third country. Iran Air not allowed to fly medicines directly from India to Tehran, due to fear of U. sanctions; India says medicines can be taken through a third country; Tehran says humanitarian aid is exempted from sanctions.
 
+### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
+*UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image770x420cropped.jpg -->
+
+Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
+
 ### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
 *Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Israel-Orthodox-Jews.jpg -->
@@ -111,18 +127,6 @@ Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30
 <!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
 
 Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
-
-### [Nigeria confirms Ebola case as outbreak spreads into western Africa](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
-*The Guardian* - Oct 21, 05:44 IST (iso: 2026-10-21T00:14:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168 -->
-
-Nigeria confirmed an Ebola case in Abuja after a woman from Uganda tested positive. She developed symptoms on 7 October and was hospitalized four days later. The diagnosis marks the spread of the outbreak into western Africa. Case in Africa’s most populous country was detected in a woman who had travelled from UgandaNigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
-
-### [How War is Reshaping Iran’s “Axis of Resistance”](https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance)
-*International Crisis Group* - Oct 16, 23:43 IST (iso: 2026-10-16T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/34889390/pexels-photo-34889390.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Three years of hostilities have reshaped Iran's Axis of Resistance. Tehran now relies more heavily on its own military capabilities. The Islamic Republic continues protecting partners despite their diminished military utility in the region. Three years of hostilities have transformed Tehran’s network of allies in the Middle East. The Islamic Republic is now relying more heavily on itself, while adapting its relationships with partners whose diminished military utility has not necessarily reduced its commitment to their protection.
 
 ---
 
