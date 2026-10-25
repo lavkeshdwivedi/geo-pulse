@@ -1,16 +1,86 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 25, 2026 06:08 IST
+**Updated:** October 25, 2026 10:57 IST
 
 ---
 
-## World
+## Middle East & Africa
 
-### [This nurse has cared for more than 100 dying patients – what they taught her about having a ‘happy](https://www.channelnewsasia.com/women/home-palliative-care-nurse-dying-patients-happy-death-6432916)
-*Channel News Asia* - Oct 25, 04:15 IST (iso: 2026-10-24T22:45:46+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--UYYynoey--/c_crop,h_720,w_1280,x_0,y_81/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/05/home-palliative-care-nurse-mariam-jumaat-home-nursing-foundation.jpg?itok=P_U15eba -->
+### [Israel to close all land crossings with West Bank on election day](https://www.thehindu.com/news/international/israel-to-close-all-land-crossings-with-west-bank-on-election-day/article71622494.ece)
+*The Hindu (International)* - Oct 25, 09:26 IST (iso: 2026-10-25T03:56:08+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/2mj4zi/article71622533.ece/alternates/LANDSCAPE_1200/2026-10-24T113907Z_87772642_RC2H9OAL4RWV_RTRMADP_3_ISRAEL-PALESTINIANS-ATTACK-WEST-BANK.JPG -->
 
-Mariam Jumaat, a home palliative care nurse, has cared for over 100 dying patients. She previously believed good nursing meant curing illness and avoided end-of-life care. Now she helps patients spend their final days at home. Her work focuses on comfort and allowing them to be surrounded by loved ones. This shift in perspective redefined her approach to patient care.
+The Israeli Army announced that all land crossings into the West Bank will close on Sunday, October 25. Palestinians will be barred from entering Israeli communities in Judea and Samaria and the Jordan Valley for work during the election. The military cited security concerns for the measure. This restriction halts daily commuting for thousands of workers who rely on these crossings for their livelihoods.
+
+### [Iran vows ‘apocalyptic war’ if U.S. strikes again](https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece)
+*The Hindu (International)* - Oct 25, 00:32 IST (iso: 2026-10-24T19:02:40+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/g9i6fm/article71621250.ece/alternates/LANDSCAPE_1200/APTOPIX_Iran_War_87885.jpg -->
+
+Iranian officials warned they would target Persian Gulf states if the United States launches new strikes. Previous retaliatory phases saw Iran hit American military bases and regional energy infrastructure. The threat aims to deter further escalation in the ongoing conflict. Iranian officials have warned in recent days that they would retaliate by targeting Persian Gulf countries in the event of renewed U. S.
+
+### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
+*UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image770x420cropped.jpg -->
+
+Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
+
+### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
+*Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Israel-Orthodox-Jews.jpg -->
+
+Israeli authorities detained dozens of Haredi men on 20 October 2026, a week before national elections. Prime Minister Benjamin Netanyahu condemned the draft evasion arrests as unacceptable. The incident highlights the political leverage ultra-Orthodox parties hold over Netanyahu's electoral prospects following a 2024 court ruling on military service exemptions. On October 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable.” The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis.
+
+### [Every Day We 'Wake Up Poorer': Iranians Battle Economic Woes](https://www.rferl.org/a/iran-economy-war-sanctions-cost-living-inflation/33882913.html)
+*Radio Free Europe / Liberty* - Oct 23, 20:58 IST (iso: 2026-10-23T15:28:39+00:00)
+<!-- image: https://gdb.rferl.org/b8be4b6e-0fe9-49c2-76af-08df13a869ed_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Iran’s economy faces severe strain from mismanagement, sanctions, and war. Citizens report waking up poorer daily. The cost-of-living crisis forces changes in diet, social habits, and life choices. Basic affordability is eroding across the population. Battered by mismanagement, sanctions, and war, Iran’s economy is in deep trouble. The cost-of-living crisis is forcing people to change what they eat, how they socialize, and what they can afford to do with their lives.
+
+### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
+*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
+<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
+
+Health officials are investigating how Nigeria’s first Ebola patient in over a decade contracted the virus. The patient is the wife of a Swiss diplomat who traveled in Uganda. The outbreak has reached a fourth African country, raising concerns about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
+
+### [Iran’s mountain shelters offer Taiwan a China survival playbook](https://asiatimes.com/2026/10/irans-mountain-shelters-offer-taiwan-a-china-survival-playbook/)
+*Asia Times* - Oct 23, 14:35 IST (iso: 2026-10-23T09:05:16+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Iran-Air-Force.jpeg -->
+
+Iran is repairing its Eagle 44 airbase in Hormozgan province after recent strikes. The subterranean facility demonstrates the value of hardened mountain shelters against precision firepower. This recovery offers a survival playbook for air forces facing superior adversaries. Iran’s rapid post-strike recovery of its Eagle 44 airbase proves that hardened mountain shelters remain a decisive shield against precision firepower, transforming how inferior air forces survive and deter superior adversaries.
+
+### [Xi’s peace principles offer little cover for China in Africa](https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa/)
+*Asia Times* - Oct 23, 10:16 IST (iso: 2026-10-23T04:46:38+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Togo_Faure-Gnassingbe_China_Xi-Jinping_October-13_2026.jpg -->
+
+Jihadist factions JNIM and ISSP clashed near Gonadaouri in Burkina Faso on October 9. The fight occurred in Oudalan province close to the Malian border. This violence highlights the limits of China’s peace principles in the region. Beijing’s diplomatic framework offers little practical cover for its interests there. The conflict underscores the persistent instability in the Sahel. On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.
+
+### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
+*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
+
+Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
+
+### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
+*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
+
+Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
+
+---
+
+## Americas
+
+### [More Lula, or back to the Bolsonaros? Brazil votes in cliffhanger](https://www.thehindu.com/news/international/more-lula-or-back-to-the-bolsonaros-brazil-votes-in-cliffhanger/article71622490.ece)
+*The Hindu (International)* - Oct 25, 09:03 IST (iso: 2026-10-25T03:33:25+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/qb0r89/article71622498.ece/alternates/LANDSCAPE_1200/2026-10-25T000806Z_1342637823_RC2V9OAEVS1A_RTRMADP_3_BRAZIL-ELECTION-LULA.JPG -->
+
+Brazilian voters head to the polls for a decisive runoff that will determine the country's political direction. The contest pits incumbent President Luiz Inacio Lula da Silva against a right-wing challenger. This election marks a critical test for the regional left, which has faced a significant swing toward conservative governments. U. S. President Donald Trump has not openly endorsed the son of his ally, leaving the international stakes ambiguous. The outcome will define whether Brazil remains a leftist anchor in Latin America or joins the broader rightward shift.
+
+### [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)
+*The Guardian* - Oct 22, 20:30 IST (iso: 2026-10-22T15:00:29+00:00)
+<!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
+
+Alberta plans to restrict rights for migrant workers despite previously welcoming them. Vanesa Ortiz, a Mexican resident in Calgary, criticized the move as scapegoating. She argued such measures will not lower the cost of living. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
 
 ---
 
@@ -66,70 +136,6 @@ Ukraine has sharply reduced its reliance on Chinese drone components since 2022.
 
 ---
 
-## Middle East & Africa
-
-### [Iran vows ‘apocalyptic war’ if U.S. strikes again](https://www.thehindu.com/news/international/iran-warns-of-apocalyptic-war-if-attacked-again/article71620849.ece)
-*The Hindu (International)* - Oct 25, 00:32 IST (iso: 2026-10-24T19:02:40+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/g9i6fm/article71621250.ece/alternates/LANDSCAPE_1200/APTOPIX_Iran_War_87885.jpg -->
-
-Iranian officials warned they would target Persian Gulf states if the United States launches new strikes. Previous retaliatory phases saw Iran hit American military bases and regional energy infrastructure. The threat aims to deter further escalation in the ongoing conflict. Iranian officials have warned in recent days that they would retaliate by targeting Persian Gulf countries in the event of renewed U. S.
-
-### [Iran Speaker to skip BRICS meet, as Iran seeks bilateral air route for ‘humanitarian aid’ from India](https://www.thehindu.com/news/national/irans-ghalibaf-will-not-attend-brics-parliamentary-forum-in-delhi-embassy/article71619999.ece)
-*The Hindu (International)* - Oct 24, 22:39 IST (iso: 2026-10-24T17:09:33+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/wir7cd/article71619994.ece/alternates/LANDSCAPE_1200/2026-06-21T100721Z_7779319_RC2WXLAGFUXI_RTRMADP_3_IRAN-CRISIS.JPG -->
-
-Iran's parliament speaker will skip the upcoming BRICS summit. Tehran is negotiating a bilateral air route with India for medical supplies. Iranian authorities claim humanitarian aid is exempt from U. S. sanctions, while New Delhi suggests routing cargo through a third country. Iran Air not allowed to fly medicines directly from India to Tehran, due to fear of U. sanctions; India says medicines can be taken through a third country; Tehran says humanitarian aid is exempted from sanctions.
-
-### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
-*UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image770x420cropped.jpg -->
-
-Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
-
-### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
-*Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Israel-Orthodox-Jews.jpg -->
-
-Israeli authorities detained dozens of Haredi men on 20 October 2026, a week before national elections. Prime Minister Benjamin Netanyahu condemned the draft evasion arrests as unacceptable. The incident highlights the political leverage ultra-Orthodox parties hold over Netanyahu's electoral prospects following a 2024 court ruling on military service exemptions. On October 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable.” The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis.
-
-### [Every Day We 'Wake Up Poorer': Iranians Battle Economic Woes](https://www.rferl.org/a/iran-economy-war-sanctions-cost-living-inflation/33882913.html)
-*Radio Free Europe / Liberty* - Oct 23, 20:58 IST (iso: 2026-10-23T15:28:39+00:00)
-<!-- image: https://gdb.rferl.org/b8be4b6e-0fe9-49c2-76af-08df13a869ed_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Iran’s economy faces severe strain from mismanagement, sanctions, and war. Citizens report waking up poorer daily. The cost-of-living crisis forces changes in diet, social habits, and life choices. Basic affordability is eroding across the population. Battered by mismanagement, sanctions, and war, Iran’s economy is in deep trouble. The cost-of-living crisis is forcing people to change what they eat, how they socialize, and what they can afford to do with their lives.
-
-### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
-*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
-<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
-
-Health officials are investigating how Nigeria’s first Ebola patient in over a decade contracted the virus. The patient is the wife of a Swiss diplomat who traveled in Uganda. The outbreak has reached a fourth African country, raising concerns about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
-
-### [Iran’s mountain shelters offer Taiwan a China survival playbook](https://asiatimes.com/2026/10/irans-mountain-shelters-offer-taiwan-a-china-survival-playbook/)
-*Asia Times* - Oct 23, 14:35 IST (iso: 2026-10-23T09:05:16+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Iran-Air-Force.jpeg -->
-
-Iran is repairing its Eagle 44 airbase in Hormozgan province after recent strikes. The subterranean facility demonstrates the value of hardened mountain shelters against precision firepower. This recovery offers a survival playbook for air forces facing superior adversaries. Iran’s rapid post-strike recovery of its Eagle 44 airbase proves that hardened mountain shelters remain a decisive shield against precision firepower, transforming how inferior air forces survive and deter superior adversaries.
-
-### [Xi’s peace principles offer little cover for China in Africa](https://asiatimes.com/2026/10/xis-peace-principles-offer-little-cover-for-china-in-africa/)
-*Asia Times* - Oct 23, 10:16 IST (iso: 2026-10-23T04:46:38+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Togo_Faure-Gnassingbe_China_Xi-Jinping_October-13_2026.jpg -->
-
-Jihadist factions JNIM and ISSP clashed near Gonadaouri in Burkina Faso on October 9. The fight occurred in Oudalan province close to the Malian border. This violence highlights the limits of China’s peace principles in the region. Beijing’s diplomatic framework offers little practical cover for its interests there. The conflict underscores the persistent instability in the Sahel. On October 9, fighters from two jihadist groups clashed near Gonadaouri, in Burkina Faso’s Oudalan province, not far from the Malian border.
-
-### [When Big Tech becomes a tool of state control in Kenya](https://globalvoices.org/2026/10/21/when-big-tech-becomes-a-tool-of-state-control-in-kenya/)
-*Global Voices* - Oct 21, 21:01 IST (iso: 2026-10-21T15:31:05+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/10/Global-Voices-Kenya-internet-shutdown-800x450.webp -->
-
-Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30 shutdowns across 15 countries during the period. Protests served as the primary trigger for these outages. Elections followed as the second most common cause for state-imposed connectivity cuts. Access Now's 2025 report found that at least 313 shutdowns were implemented globally, and that in Africa the Internet was shut down 30 times in 15 countries, with protests the leading trigger, followed by elections.
-
-### [Severely ill ICE detainees face imminent deportation to unknown African states, advocates say](https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida)
-*The Guardian* - Oct 21, 19:10 IST (iso: 2026-10-21T13:40:08+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
-
-Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
-
----
-
 ## Asia-Pacific
 
 ### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
@@ -161,16 +167,6 @@ The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Sout
 <!-- image: https://i.guim.co.uk/img/media/713bcd9ff1654fe9c89a51939a324229100d3767/0_125_3728_2984/master/3728.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=17e37089bb178a354486cf3ff0ec3898 -->
 
 Kim Yo-jong said propaganda loudspeakers will restart along the entire border within days. She inspected fortifications amid worsening ties with South Korea. The state news agency carried her warning. This marks a significant escalation in inter-Korean tensions. Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensionsPropaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries. The statement, carried by the state new.
-
----
-
-## Americas
-
-### [Alberta welcomed migrant workers. Now, it wants to restrict their rights](https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers)
-*The Guardian* - Oct 22, 20:30 IST (iso: 2026-10-22T15:00:29+00:00)
-<!-- image: https://i.guim.co.uk/img/media/b7d8666cb5d61b59fe5ddc01f05316099e80a806/458_0_4585_3667/master/4585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d5cc178d6e0814fbd2390615055356e -->
-
-Alberta plans to restrict rights for migrant workers despite previously welcoming them. Vanesa Ortiz, a Mexican resident in Calgary, criticized the move as scapegoating. She argued such measures will not lower the cost of living. ‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz saysWhen Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.
 
 ---
 

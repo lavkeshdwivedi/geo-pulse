@@ -1,172 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 25, 2026 06:08 IST
-
----
-
-## यूरोप और रूस
-
-### [एक महीने से सुलग रहा फ्रांस, पानी-एसी और चूहे के नाम पर शुरू हुए आंदोलन में अब तक क्या-क्या हुआ?](https://www.amarujala.com/world/explainer-france-has-been-protesting-for-a-month-how-water-ac-and-rats-sparked-a-movement-2026-10-24)
-*Amar Ujala World* - Oct 25, 05:57 IST (iso: 2026-10-25T00:27:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/raya-mama-ka-ekasapalnara_085f009fa3dff31be9050f9ba2b3aab8.jpeg?w=1200&dpr=1.0 -->
-
-फ्रांस में महंगाई और शिक्षा निधि की कमी के विरोध में एक महीने से प्रदर्शन जारी हैं। पेरिस में पुलिस ने आंसू गैस और वॉटर कैनन का इस्तेमाल किया। लाखों लोग सड़कों पर उतरे और सुरक्षाबलों से झड़प हुई। एक्सप्लेनर: एक महीने से सुलग रहा फ्रांस, पानी-एसी और चूहे के नाम पर शुरू हुए आंदोलन में अब तक क्या-क्या हुआ?
-
-### [फ्रांस में सड़क पर लाखों प्रदर्शनकारी, पेरिस में झड़प; पुलिस ने वॉटर कैनन-आंसू गैस छोड़े](https://www.abplive.com/news/world/france-protest-4-lakh-people-in-paris-over-cost-of-living-police-deploy-water-cannons-tear-gas-3206391)
-*ABP Live (World)* - Oct 24, 23:17 IST (iso: 2026-10-24T17:47:17+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/24/b1d1695435c89e028c6f6a223838c30517928639032301324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-फ्रांस में बढ़ती महंगाई और शिक्षा फंड की कमी के विरोध में लाखों लोग सड़कों पर उतरे। पेरिस में प्रदर्शनकारियों और पुलिस के बीच झड़प हुई। सुरक्षाबलों ने आंसू गैस और वॉटर कैनन का प्रयोग किया। फ्रांस में प्रदर्शनकारी लगातार बवाल मचाए हुए हैं. यहां सैकड़ों की संख्या में प्रदर्शन हुए हैं. इन सभी का मुद्दा देश में बढ़ती महंगाई और शिक्षा के लिए फंड की कमी है, जिसको लेकर लोगों में गुस्सा पसरा हुआ है.
-
-### [यूक्रेन के ड्रोन हमले में तबाह हुआ रूस का सबसे बड़ा पेट्रोकेमिकल प्लांट, मिसाइल के पुर्जे बनाने वाले](https://www.patrika.com/world-news/ukraine-drone-attack-tolyatti-petrochemical-plant-proton-electronics-21005997)
-*Patrika (World)* - Oct 24, 17:18 IST (iso: 2026-10-24T11:48:42+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Russiaattacknews.webp -->
-
-यूक्रेन के ड्रोन हमले में रूस के तोलियाट्टी शहर का सबसे बड़ा पेट्रोकेमिकल प्लांट तबाह हो गया। यह प्लांट सिंथेटिक रबर और मिसाइल के पुर्जे बनाने में इस्तेमाल होता था। यूक्रेन ने इस हमले का दावा किया है। रूस के तोलियाट्टी शहर में एक बड़े पेट्रोकेमिकल प्लांट पर हमला हुआ है। यूक्रेन ने इस प्लांट पर हमला करने का दावा किया है।
-
-### [400 किमी/घंटे से ज्यादा की रफ्तार में भी ठीक से चलता रहा Starlink का इंटरनेट, युद्ध के बीच यूक्रेन](https://www.patrika.com/world-news/starlink-ukraine-400-kmph-speed-stable-yeven-khmara-21005577)
-*Patrika (World)* - Oct 24, 14:49 IST (iso: 2026-10-24T09:19:48+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/starlinknews-1.webp -->
-
-यूक्रेन के रक्षा मंत्री येवेन खमारा ने बताया कि स्टारलिंक ने 400 किमी प्रति घंटे की रफ्तार पर भी स्थिर कनेक्शन बनाए रखा। यह दावा युद्ध के दौरान संचार की विश्वसनीयता को दर्शाता है। यूक्रेन ने स्टारलिंक के इंटरनेट स्पीड को बड़ा दावा किया है। यूक्रेन के रक्षा मंत्री येवेन खमारा ने शनिवार को बताया कि स्पेसएक्स की सैटेलाइट संचार सेवा को 400 किलोमीटर प्रति घंटे से अधिक की रफ्तार पर भी दोबारा चालू किया गया और इस दौरान कनेक्शन पूरी तरह से स्थिर बना रहा।
-
-### [महंगाई के खिलाफ सड़कों पर उतरे 4.10 लाख लोग, पेरिस में पुलिस ने छोड़े आंसू गैस के गोले और वाटर कैनन](https://www.amarujala.com/world/france-protests-over-410-000-march-against-rising-cost-of-living-clashes-erupt-in-paris-2026-10-24)
-*Amar Ujala World* - Oct 24, 11:42 IST (iso: 2026-10-24T06:12:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/18/public-outrage-on-streets-of-france-violence-looting-erupt-amidst-student-protests-masked-groups-c_7031a512b79a3bc90242a7f7bba95163.gif?w=1200&dpr=1.0 -->
-
-फ्रांस में महंगाई के विरोध में 4.10 लाख लोग सड़कों पर उतरे। पेरिस में पुलिस ने आंसू गैस और वाटर कैनन का इस्तेमाल किया, जिससे झड़पें हुईं। महंगाई के खिलाफ सड़कों पर उतरे 4.10 लाख लोग, पेरिस में पुलिस ने छोड़े आंसू गैस के गोले और वाटर कैनन।
-
-### [फ्रांस में फिर प्रोटेस्ट, हिंसा रोकने के लिए 70 हजार सुरक्षाकर्मी तैनात](https://www.abplive.com/news/world/france-protests-70000-police-officers-deployed-to-prevent-more-civil-unrest-3206041)
-*ABP Live (World)* - Oct 24, 09:00 IST (iso: 2026-10-24T03:30:43+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/24/fff4aa39f401d3026db5c478cacd91311792812278955425_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-फ्रांस में महंगाई विरोधी प्रदर्शनों के लिए 70 हजार सुरक्षाकर्मी तैनात किए गए हैं। सरकार पिछले सप्ताह हुई हिंसा और लूटपाट को रोकना चाहती है। बख्तरबंद वाहन और ड्रोन भी इस्तेमाल किए जाएंगे। फ्रांस में महंगाई और बढ़ते खर्च के खिलाफ शनिवार को होने वाले विरोध प्रदर्शनों को देखते हुए देशभर में करीब 70 हजार पुलिसकर्मियों और जेंडरमेरी जवानों को तैनात किया गया है.
-
-### [फ्रांस में फिर बड़े प्रदर्शन की तैयारी: हजारों पुलिसकर्मी तैनात, नए मार्च का मार्ग बदला; क्यों बढ़](https://www.amarujala.com/world/france-deploys-thousands-of-police-as-paris-march-is-restricted-to-city-s-edge-2026-10-24)
-*Amar Ujala World* - Oct 24, 06:12 IST (iso: 2026-10-24T00:42:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/farasa_b51ad67b5f67f9b2d7be9923d7612f77.jpeg?w=1200&dpr=1.0 -->
-
-French police deployed roughly three thousand officers फ्रांस में फिर बड़े प्रदर्शन की तैयारी: हजारों पुलिसकर्मी तैनात, नए मार्च का मार्ग बदला; क्यों बढ़ रहा विरोध?
+**अपडेट:** October 25, 2026 10:57 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [ईरान से गाजा तक सख्त सैन्य कार्रवाई के दम पर वोट मांग रहे नेतन्याहू, दांव पर सियासी साख](https://www.amarujala.com/world/israel-election-2026-netanyahu-bets-on-military-action-and-security-image-2026-10-25)
-*Amar Ujala World* - Oct 25, 04:53 IST (iso: 2026-10-24T23:23:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/benjamin-netanyahu_c3d34042208ccd57491805be8f0e49fc.jpeg?w=1200&dpr=1.0 -->
+### [14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित](https://www.amarujala.com/india-news/west-asia-tension-air-india-and-ai-express-riyadh-dammam-flights-cancel-other-airlines-news-update-2026-10-25)
+*Amar Ujala World* - Oct 25, 12:52 IST (iso: 2026-10-25T07:22:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/09/saudi-flights-cancel_cf65a61cb2082faf8cdde82343d12978.jpeg?w=1200&dpr=1.0 -->
 
-नेतन्याहू 2026 के चुनावों में ईरान और गाजा पर सैन्य कार्रवाई को अपना मुख्य मुद्दा बना रहे हैं। वे अपनी सुरक्षा इमेज के दम पर वोट मांग रहे हैं। इस दांव पर उनकी राजनीतिक साख जुटा है। ईरान से गाजा तक सख्त सैन्य कार्रवाई के दम पर वोट मांग रहे नेतन्याहू, दांव पर सियासी साख।
+एअर इंडिया ने पश्चिम एशिया तनाव के कारण रियाद और दम्माम के लिए उड़ानें निलंबित की हैं। सेवा 7 नवंबर तक बंद रहेगी। यह निर्णय 14 दिन के लिए लिया गया है। पश्चिम एशिया तनाव: 14 दिन और रद्द रहेगी एअर इंडिया की सेवा, रियाद और दम्माम के लिए उड़ानें 7 नवंबर तक निलंबित।
 
-### [मौत की सजा वापस, ब्यूटी कॉन्टेस्ट पर बैन! बुर्किना फासो में हो क्या रहा है? सैन्य सरकार के नए](https://hindi.news18.com/photogallery/knowledge/death-penalty-reinstated-beauty-pageants-banned-what-is-happening-in-burkina-faso-new-rules-spark-uproar-10934184.html)
-*News18 Hindi (World)* - Oct 24, 21:02 IST (iso: 2026-10-24T15:32:12+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-design-2026-10-24T204356.811-2026-10-8cedc19d726855e08f409001e032d22d-1200x800.jpg -->
+### [सऊदी अरब में हूतियों का तांडव, उधर इजरायल का चीनी एयर डिफेंस सिस्‍टम वाले गोदाम पर अटैक, होर्मुज](https://hindi.news18.com/world/middle-east-iran-war-houthis-massive-attack-saudi-arabia-israel-airstrike-china-made-manpad-warehouse-in-iraq-hormuz-strait-clash-10934825.html)
+*News18 Hindi (World)* - Oct 25, 09:23 IST (iso: 2026-10-25T03:53:32+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/saudi-arabia-attack-2026-10-a697fe61dbd2e72de372dd238c4e6827-1200x800.jpg -->
 
-बुर्किना फासो की सैन्य सरकार ने गंभीर अपराधों के लिए मृत्युदंड बहाल किया। साथ ही राष्ट्रीय स्तर पर ब्यूटी कॉन्टेस्ट पर भी रोक लगाई गई। सरकार ने इसे सांस्कृतिक मूल्यों की रक्षा के लिए आवश्यक बताया। कई अफ्रीकी देशों में इसका विरोध हुआ। Burkina Faso:पश्चिम अफ्रीकी देश बुर्किना फासो की सैन्य सरकार ने देश में नियमों को कड़ा करते हुए गंभीर अपराधों के लिए मृत्युदंड को बहाल कर दिया है.
+इजरायल ने ईरान में चीनी हथियारों के गोदाम पर एयर स्ट्राइक की। यमन के हूतियों ने सऊदी अरब पर हमला किया। होर्मुज स्ट्रेट में GPS जामिंग ने नौवहन और हवाई यातायात को प्रभावित किया। Iran War: पश्चिम एशिया में जंग की आग ठंडी पड़ने के बजाय और भड़कती ही जा रही है. युद्ध की चपेट में नए-नए इलाके आ रहे हैं.
 
-### [ईरान के राष्ट्रपति का अमेरिका पर हमला, बोले- बातचीत बिगाड़ दी, अब फिर हो समझौते की कोशिश](https://www.patrika.com/world-news/iran-us-interim-deal-talks-failure-president-new-offer-21006303)
-*Patrika (World)* - Oct 24, 19:34 IST (iso: 2026-10-24T14:04:12+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Masoud-Pezeshkian.webp -->
+---
 
-ईरान के राष्ट्रपति मसूद पेजेशकियान ने अमेरिका पर शांति समझौते को नाकाम करने का आरोप लगाया। उन्होंने बातचीत का रास्ता बंद करने के बजाय नई कोशिश की अपील की। दोनों देशों के बीच वार्ता प्रक्रिया पर असर पड़ रहा है। ईरान के राष्ट्रपति मसूद पेजेशकियान ने अमेरिका पर शांति को लेकर अंतरिम समझौते को नाकाम करने का आरोप लगाया है।
+## यूरोप और रूस
 
-### [अमेरिका के खतरे के बीच आईआरजीसी ने किया होर्मुज स्ट्रेट पर पूरे कंट्रोल का दावा](https://www.patrika.com/world-news/irgc-claims-full-control-of-strait-of-hormuz-as-us-contemplates-new-strikes-on-iran-21006185)
-*Patrika (World)* - Oct 24, 18:54 IST (iso: 2026-10-24T13:24:13+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/strait-of-hormuz-.webp -->
+### [ट्रंप ने बताई वजह, प्रदर्शनों पर बोले- शिक्षा के लिए नहीं हो रहा विरोध; और क्या कहा](https://www.amarujala.com/world/donald-trump-on-france-protests-immigration-policy-border-open-hate-country-2026-10-25)
+*Amar Ujala World* - Oct 25, 10:52 IST (iso: 2026-10-25T05:22:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/donald-trump_f046ac20f255f1894f3dcf980252c073.jpeg?w=1200&dpr=1.0 -->
 
-ईरान की आईआरजीसी ने दावा किया कि उसने होर्मुज स्ट्रेट पर पूरा नियंत्रण हासिल कर लिया है। यह बयान अमेरिका के संभावित हमले के खतरे के बीच आया है। ट्रंप मिडटर्म चुनाव के बाद फिर से हमले शुरू कर सकते हैं। दोनों देशों के बीच तनाव अभी भी जारी है। ईरान (Iran) और अमेरिका (United States of America) के बीच भले ही हमले रुके हुए हैं, लेकिन युद्ध अभी भी खत्म नहीं हुआ है।
+ट्रंप ने फ्रांस में चल रहे प्रदर्शनों को शिक्षा से जोड़ने से इनकार किया। उन्होंने दावा किया कि विरोध देश से नफरत करने वालों की ओर से है। सीमाओं को खुला रखने का उल्लेख भी किया। ट्रंप ने बताई वजह, प्रदर्शनों पर बोले- शिक्षा के लिए नहीं हो रहा विरोध; और क्या कहा।
 
-### [फिलिस्तीनी शहर में पत्रकार पर इजराइली सेना ने दागा स्टन ग्रेनेड, वेस्ट बैंक को लेकर पीएम नेतन्याहू](https://www.patrika.com/world-news/israeli-forces-fire-stun-grenade-at-al-jazeera-journalists-21006179)
-*Patrika (World)* - Oct 24, 18:18 IST (iso: 2026-10-24T12:48:37+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/netanyahu-.webp -->
+### ['जंग छेड़कर कोई बाल संवार रहा है, कोई तड़ी मार रहा है' ओबामा ने ट्रंप को धो डाला, मिड टर्म इलेक्शन](https://hindi.news18.com/world/america-us-mid-term-election-barak-obama-takes-dig-on-donald-trump-policy-iran-war-pete-hegseth-ws-l-10934936.html)
+*News18 Hindi (World)* - Oct 25, 10:00 IST (iso: 2026-10-25T04:30:16+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/OBAMA-TRUMP-2026-10-d9ed043e3290584a39d1b497db957e03-1200x800.jpg -->
 
-वेस्ट बैंक में इजराइली सेना ने फिलिस्तीनी पत्रकार पर स्टन ग्रेनेड दागा। शुक्रवार से शुरू छापेमारी में करीब 70 लोगों को गिरफ्तार किया गया। ज्यादातर गिरफ्तार लोग पहले भी जेल में रहे हैं। पीएम नेतन्याहू ने इस क्षेत्र पर कड़ी नजर रखी है। वेस्ट बैंक में तनाव फिर बढ़ गया है। इजराइली सुरक्षा बलों ने शुक्रवार से पूरे इलाके में छापेमारी शुरू कर दी है।
+अमेरिकी मिड टर्म इलेक्शन के बीच पूर्व राष्ट्रपति बराक ओबामा ने ट्रंप प्रशासन की नीतियों की आलोचना की। उन्होंने रक्षा मंत्री पीट हेगसेथ और ट्रंप को सीधे लक्ष्य बनाया। ओबामा का कहना है कि वे गंभीर नहीं हैं। Barak Obama Criticizes Donald Trump: अमेरिकी मिड टर्म इलेक्शन को राष्ट्रपति डोनाल्ड ट्रंप की अग्निपरीक्षा के तौर पर देखा जा रहा है.
 
-### [जॉर्डन में चर्च पर आतंकी हमले की भारत ने की निंदा, आतंकवाद के खिलाफ लड़ाई जारी रखने का संकल्प](https://www.patrika.com/world-news/india-condemns-terrorist-attack-on-church-in-jordan-21005885)
-*Patrika (World)* - Oct 24, 17:10 IST (iso: 2026-10-24T11:40:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/jaiswal.webp -->
+### [कई जगह भिड़े पुलिस, उग्र प्रदर्शनकारी; फ्रांस, इटली, स्पेन से ब्रसेल्स तक कैसा मंजर?](https://www.amarujala.com/world/european-nation-unrest-police-protesters-clash-situation-in-france-italy-spain-brussels-albania-photo-and-news-2026-10-25)
+*Amar Ujala World* - Oct 25, 09:56 IST (iso: 2026-10-25T04:26:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/europe-protest_00f068ab3b97258b68147851b8db976d.jpeg?w=1200&dpr=1.0 -->
 
-जॉर्डन के करक में 23 अक्टूबर को चर्च पर हमले में आठ लोग मारे गए और 40 घायल हुए। भारतीय विदेश मंत्रालय ने इस घटना की कड़ी निंदा की। सरकार ने आतंकवाद के खिलाफ लड़ाई जारी रखने का संकल्प दोहराया। जॉर्डन (Jordan) में शुक्रवार को एक चर्च पर हुए आतंकी हमले (Terrorist Attack) में 8 लोगों की मौत हो गई और 40 लोग घायल हो गए।
-
-### [हूती विद्रोहियों ने सऊदी अरब पर दागीं दो बैलिस्टिक मिसाइलें, सऊदी-नेतृत्व वाले गठबंधन की सेना ने](https://www.patrika.com/world-news/saudi-led-coalition-intercepts-two-houthi-ballistic-missiles-headed-for-taif-and-yanbu-21005654)
-*Patrika (World)* - Oct 24, 15:31 IST (iso: 2026-10-24T10:01:10+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/houthis-missile-strike.webp -->
-
-यमन के हूती विद्रोहियों ने सऊदी अरब पर दो बैलिस्टिक मिसाइलें दागीं। सऊदी नेतृत्व वाले गठबंधन की सेना ने इन मिसाइलों को रोक दिया। पिछले महीने से दोनों पक्षों के बीच हमलों का सिलसिला जारी है। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इस बीच सऊदी अरब (Saudi Arabia) और हूती विद्रोही भी समय-समय पर एक-दूसरे के खिलाफ कार्रवाई कर रहे हैं।
-
-### ['जेल की सलाखों के पीछे ट्रंप', ईरान पोस्टर लगाकर अमेरिका पर साधा निशाना](https://www.abplive.com/news/world/tehran-billboard-trump-mock-prison-iran-protest-us-wedding-strike-kuhestak-3206168)
-*ABP Live (World)* - Oct 24, 14:01 IST (iso: 2026-10-24T08:31:42+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/24/9f8b2d709cdaba27da5ca980ce72c5381792829492786425_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-तेहरान में ट्रंप के खिलाफ प्रदर्शन में नकली जेल की कोठरी में उन्हें बंद दिखाया गया। यह संदेश कुहेस्ताक में शादी पर हुए हमले के जवाब में अमेरिका के लिए था। ईरान की राजधानी तेहरान में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के खिलाफ विरोध जताने के लिए एक अनोखा प्रदर्शन किया गया है. यहां एक बड़े होर्डिंग के ऊपर बनाई गई नकली जेल की कोठरी में ट्रंप की वेशभूषा में एक व्यक्ति को बंद दिखाया गया है.
-
-### ['काट देंगे इंटरनेट केबल...', ट्रंप की धमकी के बाद भड़का ईरान, US को दी चेतावनी](https://www.abplive.com/news/world/us-donald-trump-planned-new-attack-over-iran-gave-undersea-internet-cables-destroy-warning-3206032)
-*ABP Live (World)* - Oct 24, 09:07 IST (iso: 2026-10-24T03:37:51+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/24/19599dcdffa36b501281616e5eee162c17928102188031115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-ट्रंप ने ईरान के खिलाफ नए सैन्य अभियान की संभावना जताई। इसके जवाब में ईरानी अधिकारियों ने अमेरिका को इंटरनेट केबल काटने की धमकी दी। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा बयान दिया है. उन्होंने कहा कि वे ईरान के खिलाफ एक और सैन्य अभियान शुरू कर सकते हैं. इससे पहले ट्रंप ने फ्लोरिडा में एक रैली के दौरान कहा था कि हम एक और छोटा 'एपिक फ्यूरी प्लान कर सकते हैं.
-
-### [अमेरिकी राजनयिकों पर खतरे की चेतावनी, ईरान बोला हमला हुआ तो समुद्र के नीचे का इंटरनेट केबल काट देंगे](https://www.patrika.com/world-news/iran-undersea-internet-cables-strait-of-hormuz-us-tensions-21004599)
-*Patrika (World)* - Oct 24, 09:02 IST (iso: 2026-10-24T03:32:50+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Iran-Internet-Cable-Plan.webp -->
-
-ईरान ने खाड़ी में सात इंटरनेट केबल को निशाना बनाने की योजना बनाई है। दो वरिष्ठ सुरक्षा अधिकारियों ने यह जानकारी दी। यह कदम अमेरिका के साथ बढ़ते तनाव के बीच उठाया गया है। अमेरिका और ईरान के बीच बढ़ते तनाव के बीच समुद्र के नीचे बिछी इंटरनेट केबल को निशाना बनाने की योजना सामने आई है। रॉयटर्स के अनुसार, दो वरिष्ठ ईरानी सुरक्षा अधिकारियों ने दावा किया है कि ईरान ने खाड़ी क्षेत्र में संचार केबल को निशाना बनाने की योजना तैयार की है।
-
-### [आतंकवाद के खिलाफ इजरायल का बड़ा ऑपरेशन, 2 सैनिकों की मौत के बाद एक्शन में नेतन्याहू](https://www.abplive.com/news/world/israeli-military-launched-counter-terrorism-operation-idf-soldiers-killed-in-west-bank-hebron-3206025)
-*ABP Live (World)* - Oct 24, 08:19 IST (iso: 2026-10-24T02:49:27+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/24/3a4a9f8adbe154bc8caa88388da9e8ef17928091120631200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-इजरायली सेना ने वेस्ट बैंक के हेब्रोन में सीमित अभियान शुरू किया है। इससे पहले गोलीबारी में दो सैनिकों की मौत हुई थी। सेना हथियारों और बुनियादी ढांचे को नष्ट करने के लिए तलाशी कर रही है। इजरायली सेना ने वेस्ट बैंक के हेब्रोन इलाके में एक सीमित आतंकवाद-रोधी अभियान शुरू किया है. गोलीबारी की एक घटना में 2 इजरायली सैनिकों के मारे जाने के बाद ये अभियान शुरू किया गया है.
-
-### [‘Iran के बाद क्यूबा की बारी’, Trump ने फिर कर दिया ऐलान, कहा- अमेरिकी युद्धपोत क्यूबा के तट के पास](https://www.patrika.com/world-news/trump-says-cuba-next-after-iran-us-warships-may-stop-near-coast-21004566)
-*Patrika (World)* - Oct 24, 07:14 IST (iso: 2026-10-24T01:44:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/Donald-Trump.IANS_.webp -->
-
-ट्रंप ने कहा कि ईरान से लौटते अमेरिकी युद्धपोत क्यूबा के पास रुक सकते हैं। उन्होंने फ्लोरिडा में रैली को संबोधित करते हुए यह बात कही। यह टिप्पणी मध्यावधि चुनावों से पहले की गई। Trump statement on Cuba: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एकबार फिर क्यूबा पर कब्जे जैसी बात कही है। ट्रंप ने बीते शुक्रवार को कहा कि ईरान युद्ध से लौट रहे अमेरिकी युद्धपोत क्यूबा के पास कुछ देर के लिए रुक सकते हैं।
+यूरोप के कई देशों में पुलिस और प्रदर्शनकारियों के बीच भिड़ंत हुई। फ्रांस, इटली, स्पेन और ब्रसेल्स समेत कई शहरों में उग्र प्रदर्शन देखे गए। स्थिति तनावपूर्ण बनी हुई है। यूरोपीय देशों में आंदोलन: कई जगह भिड़े पुलिस, उग्र प्रदर्शनकारी; फ्रांस, इटली, स्पेन से ब्रसेल्स तक कैसा मंजर?
 
 ---
 
 ## दुनिया
 
-### [पंजाब रेलवे लाइन ब्लास्ट केस: NIA ने छह आरोपियों के खिलाफ दाखिल की चार्जशीट](https://www.abplive.com/news/india/nia-filed-charge-sheet-six-accused-in-blast-case-railway-line-between-shambhu-rajpura-railway-stations-in-punjab-ann-3206382)
-*ABP Live (India)* - Oct 24, 22:46 IST (iso: 2026-10-24T17:16:34+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/24/f7669d5ef1a118ddc263ee483c3ce00b17928621293541368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [शरद पूर्णिमा पर अपनों के जीवन में आए सुख-समृद्धि और खुशहाली, इन खूबसूरत संदेशों से दें पर्व की बधाई](https://www.amarujala.com/photo-gallery/spirituality/religion/sharad-purnima-2026-wishes-in-hindi-greetings-messages-wishes-quotes-and-images-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:45 IST (iso: 2026-10-25T05:15:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/sharatha-paranaema-ka-harathaka-shabhakamanae_a02af39ea0a91c9bb6d02db34c466c6a.jpeg?w=1200&dpr=1.0 -->
 
-NIA ने पंजाब में रेलवे लाइन ब्लास्ट केस में छह आरोपियों के खिलाफ चार्जशीट दाखिल की। 27 अप्रैल 2026 को हुए इस धमाके में खालिस्तानी ऑपरेटिव जग रूप सिंह की मौत हुई थी। वह विस्फोटक तैयार कर रहा था। पंजाब में शंभू और राजपुरा रेलवे स्टेशनों के बीच रेलवे लाइन पर हुए ब्लास्ट के मामले में राष्ट्रीय जांच एजेंसी (NIA) ने छह आरोपियों के खिलाफ चार्जशीट दाखिल की है.
+शरद पूर्णिमा का पर्व सुख, समृद्धि और आस्था का प्रतीक माना जाता है। इस मौके पर अपनों को शुभकामना संदेश भेजे जाते हैं। पर्व की बधाई देने के लिए विशेष कोट्स प्रचलित हैं। शरद पूर्णिमा का पावन पर्व सुख-समृद्धि, खुशहाली और आस्था का प्रतीक है। इस खास मौके पर अपनों को भेजें दिल छू लेने वाले शुभकामना संदेश, खूबसूरत कोट्स और बधाई मैसेज।
+
+### [शरद पूर्णिमा पर मां लक्ष्मी को प्रसन्न करने के लिए करें ये खास उपाय, जानें पूजा का महत्व](https://www.amarujala.com/spirituality/religion/follow-these-special-remedies-on-sharad-purnima-to-seek-goddess-lakshmi-s-blessings-and-attract-prosperity-2026-10-24)
+*Amar Ujala National* - Oct 25, 10:44 IST (iso: 2026-10-25T05:14:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/21/sharad-purnima-2026_ed669895068cd634f2ea3d610db45aad.jpeg?w=1200&dpr=1.0 -->
+
+शरद पूर्णिमा को मां लक्ष्मी की पूजा और समृद्धि की कामना के लिए विशेष माना जाता है। इस दिन विशेष उपाय किए जाते हैं। पूजा विधि और खीर बनाने का धार्मिक महत्व बताया गया है। शरद पूर्णिमा मां लक्ष्मी की पूजा और सुख-समृद्धि की कामना के लिए विशेष मानी जाती है। जानिए इस दिन किए जाने वाले खास उपाय, पूजा विधि और खीर बनाने का धार्मिक महत्व।
+
+### [शरद पूर्णिमा पर जरूर करें मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की आरती, जानें पूजा का महत्व](https://www.amarujala.com/photo-gallery/spirituality/religion/sharad-purnima-2026-these-3-aartis-to-seek-the-blessings-of-goddess-lakshmi-and-lord-vishnu-2026-10-24)
+*Amar Ujala National* - Oct 25, 10:42 IST (iso: 2026-10-25T05:12:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/24/sharatha-paranaema-2026_b4dc206f30464bfd3ab59a5da5c580e3.jpeg?w=1200&dpr=1.0 -->
+
+शरद पूर्णिमा पर मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की आरती का विशेष महत्व है। पूजा को पूर्ण करने के लिए इन तीनों की आरती की जाती है। इस दिन के धार्मिक अनुष्ठानों का विस्तार से वर्णन किया गया है। शरद पूर्णिमा पर मां लक्ष्मी, भगवान विष्णु और चंद्रदेव की पूजा का विशेष महत्व है। जानिए इस दिन पूजा को पूर्ण करने के लिए इन तीनों देवी-देवताओं की आरती और उनका धार्मिक महत्व।
+
+### [कोजागरी पूजा आज , जानें शुभ मुहूर्त, महत्व और मां लक्ष्मी को प्रसन्न करने की विधि](https://www.amarujala.com/spirituality/religion/kojagari-lakshmi-puja-2026-date-significance-puja-vidhi-and-rituals-to-attract-prosperity-2026-10-24)
+*Amar Ujala National* - Oct 25, 10:42 IST (iso: 2026-10-25T05:12:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/kajagara-paja-2026_b44278096809b504b8cec822caa2d18e.jpeg?w=1200&dpr=1.0 -->
+
+कोजागरी लक्ष्मी पूजा 25 अक्टूबर 2026 को शरद पूर्णिमा पर मनाई जाएगी। इस दिन मां लक्ष्मी की पूजा, रात्रि जागरण और खीर का भोग लगाने की परंपरा है। यह दिन धार्मिक महत्व के साथ पारिवारिक एकता का प्रतीक भी माना जाता है। कोजागरी लक्ष्मी पूजा 25 अक्तूबर 2026 को शरद पूर्णिमा के अवसर पर मनाई जाएगी। जानिए पूजा की विधि, महत्व और प्रमुख नियम।
+
+### [फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल](https://hindi.news18.com/world/america-us-firing-florida-11-people-shot-during-event-near-university-safety-alerts-10935023.html)
+*News18 Hindi (World)* - Oct 25, 10:33 IST (iso: 2026-10-25T05:03:26+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg -->
+
+फ्लोरिडा में यूनिवर्सिटी के पास हुई फायरिंग में 11 लोगों को गोली लगी है। घायलों में छह बच्चे भी शामिल हैं। स्थानीय पुलिस ने घटनास्थल पर सुरक्षा कड़ी कर दी है और जांच जारी है। फ्लोरिडा में यूनिवर्सिटी के पास फायरिंग, 11 लोगों को लगी गोली, 6 बच्चे भी शामिल।
+
+### ['तनाव में हैं', पिता के साथ हुई बदसलूकी पर बेटे गुरदीप ने तोड़ी चुप्पी, कही ये बात](https://www.amarujala.com/entertainment/daler-mehndi-s-son-gurdeep-opens-up-on-stage-row-controversy-he-says-we-are-stressed-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:28 IST (iso: 2026-10-25T04:58:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/thalra-mahatha-oura-garathapa_1e6b9b937e7ac4d04b90e1e4d10c9223.jpeg?w=1200&dpr=1.0 -->
+
+गुरदीप मेहंदी ने पिता दलेर मेहंदी के साथ हुई बदसलूकी पर चुप्पी तोड़ी है। उन्होंने कहा कि वे तनाव में हैं। यह बयान सुबोध उनियाल के साथ हुए विवाद के बाद आया है। दलेर मेहंदी पिछले कुछ दिनों से चर्चा में बने हुए हैं। दरअसल, एक इवेंट में गायक और उत्तराखंड के कैबिनेट मंत्री सुबोध उनियाल के बीच हुए विवाद हो गया था।
+
+### [शरद पूर्णिमा पर भोग के लिए खीर कैसे बनाएं? ये आसान विधि करें नोट](https://www.amarujala.com/lifestyle/healthy-food/sharad-purnima-kheer-recipe-make-delicious-kheer-in-just-30-minutes-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:25 IST (iso: 2026-10-25T04:55:35+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/sharad-purnima-kheer-recipe_496da45eb9f5a4d9199714f3df7dcfa8.jpeg?w=1200&dpr=1.0 -->
+
+शरद पूर्णिमा पर खीर बनाने की आसान विधि उपलब्ध है। यह रेसिपी 30 मिनट में तैयार हो जाती है। इसमें चावल, दूध और चीनी का उपयोग किया जाता है। Sharad Purnima 2026: शरद पूर्णिमा पर बनाएं बाजार जैसी गाढ़ी और मलाईदार खीर। जानें सिर्फ 30 मिनट में चावल की खीर बनाने की आसान विधि, सामग्री और खास टिप्स। शरद पूर्णिमा पर भोग के लिए खीर कैसे बनाएं?
+
+### [कल को दस्तक दे सकती है ह्यूंदै बेयॉन: लॉन्च से पहले लीक हुई वैरिएंट की लिस्ट, मिल सकते हैं ये](https://www.amarujala.com/automobiles/hyundai-bayon-set-india-launch-october-26-leaked-variants-features-revealed-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:21 IST (iso: 2026-10-25T04:51:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/hayatha-byana_45dea9dea86f98c783ed94bbbf8b2b87.jpeg?w=1200&dpr=1.0 -->
+
+ह्यूंदै बेयॉन की लॉन्च से पहले वैरिएंट सूची लीक हो गई है। इसमें संभावित फीचर्स और मॉडल विवरण शामिल हैं। वाहन की आधिकारिक घोषणा कल हो सकती है। कल को दस्तक दे सकती है ह्यूंदै बेयॉन: लॉन्च से पहले लीक हुई वैरिएंट की लिस्ट, मिल सकते हैं ये संभावित फीचर्स।
+
+### [12वीं पास छात्रों को मौका, 13 भाषाओं में होगी परीक्षा; जानें पूरी प्रक्रिया](https://www.amarujala.com/education/jee-main-2027-session-1-registration-begins-check-last-date-fees-eligibility-and-exam-schedule-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 10:17 IST (iso: 2026-10-25T04:47:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/jee-main-2027_2419f18f22937440554caae72ed9cfd3.jpeg?w=1200&dpr=1.0 -->
+
+जेईई मेन 2027 के पहले सत्र के लिए आवेदन प्रक्रिया शुरू हो गई है। राष्ट्रीय परीक्षा एजेंसी ने आखिरी तारीख 22 नवंबर 2026 तय की है। परीक्षा जनवरी 2027 में आयोजित होगी। राष्ट्रीय परीक्षा एजेंसी ने आवेदन की आखिरी तारीख 22 नवंबर 2026 तय की है। उम्मीदवार आधिकारिक वेबसाइट पर जाकर फॉर्म भर सकते हैं। परीक्षा जनवरी 2027 में होगी।
+
+### [सात जगहों पर आज आरएसएस का रूट मार्च, मद्रास हाईकोर्ट से मिली अनुमति; दो नवंबर को भी कई कार्यक्रम](https://www.amarujala.com/india-news/rss-route-marches-tamil-nadu-madras-high-court-permission-october-25-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:16 IST (iso: 2026-10-25T04:46:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/rss-route-march_d1144e36d4fd53136f06440778e913df.jpeg?w=1200&dpr=1.0 -->
+
+तमिलनाडु में आरएसएस के सात रूट मार्चों के लिए मद्रास हाईकोर्ट ने अनुमति दी है। ये मार्च आज आयोजित होंगे। दो नवंबर को भी कई कार्यक्रमों की योजना बनाई गई है। तमिलनाडु: सात जगहों पर आज आरएसएस का रूट मार्च, मद्रास हाईकोर्ट से मिली अनुमति; दो नवंबर को भी कई कार्यक्रम rss-route-marches-tamil-nadu-madras-high-court-permission-october-25।
+
+### ['कीमती जल निकाय असुरक्षित, तो मूकदर्शक नहीं बैठ सकते'; राज्यों-केंद्र शासित प्रदेशों से अदालत](https://www.amarujala.com/india-news/supreme-court-updates-wetlands-issue-guidelines-for-personal-data-collection-during-probe-cji-surya-kant-news-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:16 IST (iso: 2026-10-25T04:46:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/06/supreme-court-updates_37693db95c8fb536899fb1003ed3c7c2.jpeg?w=1200&dpr=1.0 -->
+
+सुप्रीम कोर्ट ने राज्यों और केंद्र शासित प्रदेशों से जल निकायों की सुरक्षा के लिए कदम उठाने को कहा है। अदालत ने कहा कि मूकदर्शक नहीं बैठ सकते। यह निर्देश जल संसाधनों की सुरक्षा से जुड़ा है। सुप्रीम कोर्ट: 'कीमती जल निकाय असुरक्षित, तो मूकदर्शक नहीं बैठ सकते'; राज्यों-केंद्र शासित प्रदेशों से अदालत।
+
+### [सोसाइटी में इलेक्ट्रिक कार चार्ज करने के लिए क्या अपने पार्किंग स्लॉट में लगवा सकते हैं चार्जर?](https://www.amarujala.com/photo-gallery/utility/can-you-install-an-electric-car-charger-in-your-own-parking-slot-in-a-housing-society-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:12 IST (iso: 2026-10-25T04:42:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/electric-car-charger-charging-society_726065f9d06bba2b32c84d92115b856f.jpeg?w=1200&dpr=1.0 -->
+
+सोसाइटी में पार्किंग स्लॉट पर इलेक्ट्रिक कार चार्जर लगाने के लिए निवासियों को स्थानीय नियमों और मालिकाना अधिकारों की जांच करनी चाहिए। यह प्रक्रिया अक्सर जटिल होती है और समुदाय की सहमति आवश्यक होती है। क्या आप भी अपनी सोसाइटी के अपने पार्किंग स्लॉट पर इलेक्ट्रिक कार का चार्जर लगवाना चाहते हैं? इसके लिए आपको नियमों के बारे में जानना जरूरी हो जाता है।
+
+### [आज है शरद पूर्णिमा, खूबसूरत संदेशों से अपनों पर करें शुभकामनाओं की वर्षा](https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-sharad-purnima-2026-wishes-in-hindi-images-quotes-messages-whatsapp-status-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:00 IST (iso: 2026-10-25T04:30:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/sharad-purnima-wishes-2026_8f02ac6449b9b5704d01d33c679ea350.jpeg?w=1200&dpr=1.0 -->
+
+शरद पूर्णिमा 2026 का पर्व आज मनाया जा रहा है। इस दिन पूर्णिमा का चांद दिखता है और मान्यता है कि आकाश से अमृत की वर्षा होती है। लोग अपने प्रियजनों को शुभकामनाएं भेजते हैं। आज रात पूर्णिमा का चांद दिखेगा। मान्यता है कि इस दिन आकाश से अमृत वर्षा होती है। इस मौके पर अपने प्रियजनों पर शुभकामनाओं का वर्षा करें।
+
+### [पति की हत्या में कटी अंगुली बनी सबसे बड़ा सबूत, पत्नी और प्रेमी समेत तीन को उम्रकैद](https://www.amarujala.com/madhya-pradesh/shajapur/shajapur-husband-murder-illicit-relationship-wife-lover-life-imprisonment-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 09:36 IST (iso: 2026-10-25T04:06:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/08/karata-ka-fasal_6c2b3472ddf9930c2ca781f2f7065d6a.jpeg?w=1200&dpr=1.0 -->
+
+मध्य प्रदेश के शाजापुर में पति की हत्या के मामले में अदालत ने तीन आरोपियों को उम्रकैद की सजा सुनाई। पत्नी, उसके प्रेमी और सहयोगी को दोषी ठहराया गया। कटी अंगुली को मुख्य सबूत माना गया। मध्य प्रदेश के शाजापुर में अवैध संबंध का विरोध करने पर पति की हत्या के मामले में अदालत ने पत्नी, उसके प्रेमी और सहयोगी को आजीवन कारावास की सजा सुनाई है।
+
+### [वीकएंड पर 'उड़ता तीर' की कमाई में आया उछाल, 350 करोड़ के पार हुआ 'जेलर 2' का कलेक्शन](https://www.amarujala.com/entertainment/bollywood/udta-teer-vs-jailer-2-box-office-collection-on-saturday-total-earning-of-nayi-navelli-and-prahaar-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 09:11 IST (iso: 2026-10-25T03:41:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/bkasa-oifasa-kalkashana_f023ecfce2b0b582a2a084e7299df476.jpeg?w=1200&dpr=1.0 -->
+
+रजनीकांत की फिल्म जेलर 2 का कलेक्शन 350 करोड़ रुपये के पार पहुंच गया। वीकेंड पर इसकी कमाई में उल्लेखनीय वृद्धि हुई। उड़ता तीर और दृश्यम 3 जैसी अन्य फिल्मों की कमाई भी बढ़ी। रजनीकांत की फिल्म 'जेलर 2' के कलेक्शन में वीकएंड पर उछाल आया है। 'उड़ता तीर', 'पहला प्यार दूसरी बार', 'नई नवेली', 'प्रहार' और 'दृश्यम 3' की कमाई में भी इजाफा हुआ है।
+
+### [हनुमान बेनीवाल की छोटी भाभी बनीं सरपंच, बड़ी भाभी को 149 वोटों से हराया](https://www.amarujala.com/rajasthan/nagaur/nagaur-hanuman-beniwal-village-sarpanch-election-rajbala-beniwal-defeats-meera-beniwal-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 08:57 IST (iso: 2026-10-25T03:27:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/sasatha-hanamana-bnaval_39f893f2c43c4a301446e2037a41df5a.jpeg?w=1200&dpr=1.0 -->
+
+राजस्थान के नागौर जिले में हनुमान बेनीवाल की छोटी भाभी सरपंच बनीं। उन्होंने बड़ी भाभी को 149 वोटों के अंतर से हराया। दोनों सगी बहनें और एक ही परिवार की देवरानी-जेठानी थीं। राजस्थान के नागौर जिले के बरणगांव में सरपंच पद के चुनाव में राष्ट्रीय लोकतांत्रिक पार्टी (आरएलपी) के सांसद हनुमान बेनीवाल की दो भाभियां आमने-सामने थीं। दोनों देवरानी-जेठानी होने के साथ सगी बहनें भी हैं।
+
+### [रंगदारी नहीं देने पर सुनाता था मौत का फरमान, आगे बढ़कर लॉरेंस को देता था टक्कर](https://www.amarujala.com/delhi-ncr/himanshu-bhau-would-issue-a-death-sentence-if-extortion-money-was-not-paid-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 08:45 IST (iso: 2026-10-25T03:15:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/hamasha-bhauu_2bfdf08f1c328aa4b1292f3830864cd1.jpeg?w=1200&dpr=1.0 -->
+
+हिमांशु भाऊ ने 2020 से लॉरेंस बिश्नोई के खिलाफ कार्रवाई शुरू की। उन्होंने रंगदारी नहीं देने पर मौत की धमकियों का सामना किया। दो साल में उन्होंने देश के कुख्यात गैंगस्टर को सीधे टक्कर दी। हिमांशु भाऊ सिंस 2020। महज दो साल में उसने देश के कुख्यात गैंगस्टर लॉरेंस बिश्नोई को चुनौती दी। रंगदारी नहीं देने पर सुनाता था मौत का फरमान, आगे बढ़कर लॉरेंस को देता था टक्कर।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [ट्रंप से होनी थी मुलाकात, उधर बिन बताए चीन पहुंचे किम जोंग उन, दक्षिण कोरिया की बढ़ी टेंशन](https://hindi.news18.com/world/rest-of-world-north-korea-kim-jong-un-makes-unannounced-visit-to-chinese-border-city-ws-l-10933603.html)
-*News18 Hindi (World)* - Oct 24, 16:25 IST (iso: 2026-10-24T10:55:35+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Kim-Jong-Un-Reuters-2026-08-40960f4ef68b392739b83803f3304adc-1200x800.jpg -->
+### [बीच में रुकी सिंगर शिल्पा राव की आवाज, अनु मलिक की बेटी के डांस परफॉर्मेंस पर उठे सवाल](https://www.amarujala.com/entertainment/bollywood/did-anu-malik-daughter-ada-performances-lead-to-shilpa-rao-set-being-cut-short-2026-10-25)
+*Amar Ujala National* - Oct 25, 10:30 IST (iso: 2026-10-25T05:00:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/atha-malka-shalpa-rava_b747742dcdf34a4f1b317d677266a886.jpeg?w=1200&dpr=1.0 -->
 
-उत्तर कोरिया के नेता किम जोंग उन बिना घोषणा के यालू नदी से चीन पहुंचे। वे उसी पुल से गए जिसका उद्घाटन 15 अक्टूबर को हुआ था। इससे दक्षिण कोरिया में तनाव बढ़ गया। Kim Jong Un China Visit: कहां किम जोंग उन से अमेरिकी राष्ट्रपति की मुलाकात को लेकर अटकलें लगाई जा रही थीं और कहां वो बिना किसी घोषणा के ही चीन पहुंच गए.
+मुंबई में एक इवेंट में शिल्पा राव का गाना बीच में रोक दिया गया। अनु मलिक और उनकी बेटी अदा का प्रदर्शन जारी रहा। इस घटना ने सोशल मीडिया पर विवाद को जन्म दिया है। Viral Video: मुंबई में हुए एक इवेंट में सिंगर शिल्पा के परफॉर्मेंस को बीच में रोक दिया गया। सिंगर अनु मलिक और उनकी बेटी अदा की परफॉर्मेंस जारी रही।
 
-### [तिब्बत में भूकंप से कांपी धरती, रिक्टर स्केल पर 5.4 मापी गई तीव्रता](https://www.abplive.com/news/world/tibet-earthquake-magnitude-5-4-ncs-report-3206224)
-*ABP Live (World)* - Oct 24, 15:25 IST (iso: 2026-10-24T09:55:37+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/24/42a2bad7dbabf6169906ec10a9bfd5fd17928360871071115_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [रहाणे ने चुनी टेस्ट की ऑल टाइम प्लेइंग-11: टीम में रोहित-कोहली और बुमराह को नहीं दी जगह, किसे बनाया](https://www.amarujala.com/photo-gallery/cricket/cricket-news/ajinkya-rahane-picked-his-all-time-india-test-xi-left-out-virat-kohli-rohit-sharma-and-jasprit-bumrah-2026-10-25)
+*Amar Ujala Breaking* - Oct 25, 10:17 IST (iso: 2026-10-25T04:47:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/rahane_66f68469ce3fa6e9ad526e8d844f4319.jpeg?w=1200&dpr=1.0 -->
 
-तिब्बत में 5.4 तीव्रता का भूकंप दोपहर 2:09 बजे आया। नेशनल सेंटर फॉर सीस्मोलॉजी ने यह जानकारी दी। इससे पहले 22 अक्टूबर को 7.0 तीव्रता के भूकंप में 16 लोग मारे गए थे। तिब्बत में भूकंप के झटके महसूस किए गए हैं. रिक्टर स्केल पर 5.4 तीव्रता मापी गई है. नेशनल सेंटर फॉर सीस्मोलॉजी के अनुसार ये भूकंप दोपहर 2 बजकर 9 बजे आया.
+अजिंक्य रहाणे ने भारत की सर्वकालिक टेस्ट प्लेइंग-11 चुनी है। इस टीम में विराट कोहली, रोहित शर्मा और जसप्रीत बुमराह को जगह नहीं मिली। रहाणे ने अन्य खिलाड़ियों को प्राथमिकता दी। हैरान करने वाली बात यह है कि रहाणे की इस टीम में विराट कोहली, रोहित शर्मा और जसप्रीत बुमराह जैसे खिलाड़ियों को जगह नहीं मिली है। रहाणे ने चुनी टेस्ट की ऑल टाइम प्लेइंग-11: टीम में रोहित-कोहली और बुमराह को नहीं दी जगह, किसे बनाया।
 
-### [फिलीपींस में विमान हादसा, ट्रेनिंग के दौरान वायुसेना के 2 जेट क्रैश, 4 पायलटों की मौत](https://www.patrika.com/world-news/philippines-air-force-jets-crash-four-pilots-killed-21005336)
-*Patrika (World)* - Oct 24, 14:57 IST (iso: 2026-10-24T09:27:16+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Plane-Crash-in-Philippines.webp -->
+### [थरथराकर डोल गई धरती, समंदर से उठा 6.5 तीव्रता का भूकंप, घर छोड़कर सड़कों पर उतरे लोग](https://hindi.news18.com/world/south-asia-japan-bonin-island-hit-by-7-magnitude-earth-quake-epicenter-in-sea-10934762.html)
+*News18 Hindi (World)* - Oct 25, 09:30 IST (iso: 2026-10-25T04:00:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/japan-quake-2026-10-d9e8c46bf410d994169711202285b32d-1200x800.jpg -->
 
-फिलीपींस के फर्नांडो एयर बेस पर दो SF-260 ट्रेनर विमान प्रशिक्षण के दौरान टकरा गए। दोनों विमान बेस के अंदर गिर गए। इस हादसे में चारों पायलटों की मौत हो गई। Plane Crash: फिलीपींस में एक बड़ा विमान हादसा हो गया। नियमित प्रशिक्षण उड़ानों के दौरान एयर फोर्स के दो SF-260 ट्रेनर विमान हवा में ही आपस में टकरा गए।
-
-### [दक्षिण प्रशांत महासागर में आया 7.2 तीव्रता का भूकंप, सुनामी की चेतावनी जारी](https://www.abplive.com/news/world/tsunami-warning-for-vanuatu-released-after-7-2-magnitude-earthquake-struck-3206044)
-*ABP Live (World)* - Oct 24, 09:12 IST (iso: 2026-10-24T03:42:26+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/24/6fc4ad530e1eec827d7a03192d716d211792813767051425_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-वानुअतु के पास 24 अक्टूबर को 7.2 तीव्रता का भूकंप आया। प्रशांत सुनामी चेतावनी केंद्र ने 300 किमी दायरे में खतरनाक लहरों की चेतावनी जारी की। दक्षिण प्रशांत महासागर में स्थित वानुअतु द्वीपसमूह के पास शनिवार, 24 अक्टूबर को 7.2 तीव्रता का शक्तिशाली भूकंप आया. इसके बाद प्रशांत सुनामी चेतावनी केंद्र ने सुनामी की चेतावनी जारी की. केंद्र के अनुसार, भूकंप के केंद्र से 300 किलोमीटर के दायरे में स्थित तटीय इलाकों में खतरनाक समुद्री लहरें उठने की आशंका है.
-
-### [भारत-पाकिस्तान संघर्ष पर डोनाल्ड ट्रंप का फिर बड़ा दावा, बोले- व्यापार बंद करने की धमकी से रुकवाई](https://www.patrika.com/world-news/donald-trump-250-percent-tariff-threat-india-pakistan-conflict-21004554)
-*Patrika (World)* - Oct 24, 06:38 IST (iso: 2026-10-24T01:08:20+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/donald-trump-5.webp -->
-
-ट्रंप ने दावा किया कि 250 प्रतिशत टैरिफ की धमकी ने भारत-पाकिस्तान संघर्ष रोकने में मदद की। उन्होंने फ्लोरिडा में रैली में यह बात कही। दोनों पक्षों ने तुरंत सैन्य गतिविधियां बंद कर दीं। Donald Trump Claim on India-Pakistan Conflict: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक बार फिर दावा किया है कि भारत और पाकिस्तान के बीच सैन्य संघर्ष को रोकने में उनकी भूमिका थी।
+जापान के बोनिन द्वीप समूह में 6.5 तीव्रता का भूकंप आया। टोक्यो से लगभग 1000 किलोमीटर दूर यह झटका हुआ। स्थानीय लोगों ने घर छोड़कर सड़कों पर आश्रय लिया। Japan Earthquake News: सुबह-सुबह एशियाई देश जापान की धरती कांप गई. अमेरिकी भूवैज्ञानिक सर्वेक्षण (USGS) के मुताबिक जापान की राजधानी टोक्यो से लगभग 1000 किलोमीटर दक्षिण-दक्षिणपूर्व में स्थित बोनिन द्वीप समूह में करीब 7 मैग्नीट्यूड का भूकंप आया है.
 
 ---
 
