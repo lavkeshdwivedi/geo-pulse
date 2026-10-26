@@ -1,13 +1,13 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 26, 2026 04:23 IST
+**Updated:** October 26, 2026 06:19 IST
 
 ---
 
 ## Americas
 
-### [Brazil election 2026: Live second round results](https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results)
-*The Guardian* - Oct 26, 03:41 IST (iso: 2026-10-25T22:11:16+00:00)
+### [Full second round results as Lula wins comeback against Flávio Bolsonaro](https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results)
+*The Guardian* - Oct 26, 05:45 IST (iso: 2026-10-26T00:15:36+00:00)
 <!-- image: https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5 -->
 
 Brazilian voters cast ballots on 25 October 2026 for the second round of the presidential election. Incumbent President Luiz Inácio Lula da Silva faces Flávio Bolsonaro in a runoff. Polls closed at 17:00 BRT, with initial results expected shortly after. The contest follows Lula’s first-round performance against the son of his convicted predecessor. After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessorPolls close at 17.00 BRT, 20.00 GMT, with first results expected within the hour.
@@ -20,37 +20,55 @@ Flávio Bolsonaro leads Lula by 2.2 million votes after the first round. Over 33
 
 ---
 
-## Asia-Pacific
+## Europe & Russia
 
-### [Why work from home doesn’t mean work from anywhere](https://www.channelnewsasia.com/commentary/work-home-not-anywhere-employers-policy-6487366)
-*Channel News Asia* - Oct 26, 03:30 IST (iso: 2026-10-25T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--big4T1LH--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/24/woman_work_with_laptop_airport_istock-1344870959.jpg?itok=VjTdrJtJ -->
+### [Student-Led Opposition Celebrates In Serbia After Vucic Concedes Election Defeat](https://www.rferl.org/a/serbia-parliamentary-election-students-list-vucic/33884047.html)
+*Radio Free Europe / Liberty* - Oct 26, 05:20 IST (iso: 2026-10-25T23:50:51+00:00)
+<!-- image: https://gdb.rferl.org/058d3ff5-0438-4e6d-e9a3-08df13afe2a0_w1200_h630.jpg -->
 
-A Sydney-based employee was dismissed after secretly working from Singapore, highlighting a critical gap in remote work policies. The incident forces companies to define the geographic boundaries of "work from home" arrangements. Victor Seah of the Singapore University of Social Sciences argues that employers must provide explicit clarity on permissible locations. Without clear rules, workers face termination risks for operating outside their designated home jurisdiction. This case underscores the need for precise contractual terms regarding remote work geography.
+Aleksandar Vucic conceded defeat in Serbia's October 25 parliamentary elections. The student-led Students' List took a decisive lead in preliminary results. This ends his fourteen-year dominance of Serbian politics. Former President Aleksandar Vucic, who dominated Serbian politics for the past 14 years, conceded defeat in the country's parliamentary elections after polls closed on October 25. Preliminary results showed the movement called Students' List taking a decisive lead.
 
-### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
-*The Guardian* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e909d961099f6bf8027f885e3cf422a -->
+### [Vucic Concedes Electoral Defeat, Setting Stage For New Era Of Serbian Politics, Relations With West](https://www.rferl.org/a/vucic-concession-serbia-parliament-elections-students/33884044.html)
+*Radio Free Europe / Liberty* - Oct 26, 04:45 IST (iso: 2026-10-25T23:15:42+00:00)
+<!-- image: https://gdb.rferl.org/f2f54aba-77f1-47b0-6a6f-08df13a87200_w1200_h630.jpeg -->
 
-North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.
+Vucic admitted defeat to the student-led protest movement in Serbia's parliamentary vote. His concession signals a potential shift toward European alignment. The new government may distance Serbia from Kremlin influence. Aleksandar Vucic, Serbia's former president and dominant political figure for more than a decade, conceded defeat to the student-led protest movement in the country's parliamentary elections, potentially ushering in a new era of politics more closely aligned with Europe and away from the Kremlin.
 
-### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
-*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
+### [Relentless Russian Strikes Drive Civilians From Ukraine's Kramatorsk](https://www.rferl.org/a/relentless-russian-strikes-drive-civilians-from-ukraine-s-kramatorsk/33883080.html)
+*Radio Free Europe / Liberty* - Oct 25, 13:54 IST (iso: 2026-10-25T08:24:41+00:00)
+<!-- image: https://gdb.rferl.org/f99e187e-b84d-457f-4cbb-08df13aec0bb_w1200_h630.jpg -->
 
-Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
+Ukraine ordered mandatory evacuations for families with children in Kramatorsk and Slovyansk. Russian forces intensified strikes across the Donetsk region. The move aims to protect civilians as Moscow pushes to seize the entire area. As Russian forces intensify attacks on Ukraine’s Donetsk region, evacuations are accelerating in Kramatorsk, a key city still held by Kyiv. As Moscow seeks to seize all of the Donetsk region, Ukraine has issued a mandatory evacuation order for families with children in Kramatorsk and Slovyansk.
 
-### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
-*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
+### [After Starshield Disruptions, Zelenskyy Says Satellite Communications Now Fully Functional](https://www.rferl.org/a/ukraine-zelenskyy-musk-starlink-starshield-satellite/33883630.html)
+*Radio Free Europe / Liberty* - Oct 25, 01:22 IST (iso: 2026-10-24T19:52:47+00:00)
+<!-- image: https://gdb.rferl.org/cccb30c8-94c0-41cb-7738-08df13a869ed_w1200_h630.jpg -->
 
-China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
+Volodymyr Zelenskyy confirmed on October 24 that Starshield and Starlink systems are fully operational. The satellite communications, developed by SpaceX, had been disrupted for over a week. This outage limited Ukraine's defensive operations during the period. Ukrainian President Volodymyr Zelenskyy said on October 24 that the Starshield and Starlink satellite systems were back to normal operations. Disruptions in the communications systems, developed by Elon Musk's SpaceX company, had limited Ukraine's defensive operations for over a week.
 
-### [US-China AI race turning ASEAN neutrality into a liability](https://asiatimes.com/2026/10/us-china-ai-race-turning-asean-neutrality-into-a-liability/)
-*Asia Times* - Oct 23, 11:16 IST (iso: 2026-10-23T05:46:45+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/05/China-Data-Centers-Guizhou-Province.jpg -->
+### [Bipartisan US Lawmakers Push Back On Trump's Russia Policy, Vow Support For Ukraine](https://www.rferl.org/a/us-lawmakers-trump-russia-policy-ukraine-bipartisan-pushback/33883500.html)
+*Radio Free Europe / Liberty* - Oct 24, 20:21 IST (iso: 2026-10-24T14:51:22+00:00)
+<!-- image: https://gdb.rferl.org/d4aed848-9c01-40f1-8ccb-0e4b313f1fb4_cx0_cy3_cw0_w1200_h630.jpg -->
 
-The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Southeast Asian nations previously leveraged ties with both powers for economic gain. Competing technology networks now force governments to choose sides, reducing their diplomatic flexibility and strategic room for maneuver. For decades, Southeast Asia has turned great-power rivalry to an economic advantage. By maintaining healthy ties with Washington and Beijing, ASEAN governments attracted investment, expanded trade and preserved room for diplomatic maneuver.
+A bipartisan group of US lawmakers challenged President Trump's easing of Russian energy import restrictions. They demanded guarantees that Ukraine retains access to critical American military and intelligence support. The move signals growing congressional resistance to the administration's shifting foreign policy stance on the conflict. A bipartisan group of US lawmakers is stepping up efforts to defend Ukraine, challenging President Donald Trump’s decision to ease restrictions on Russian energy imports and demanding guarantees that Kyiv will retain access to critical American military and intelligence support.
+
+### [Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says](https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095)
+*Sky News World* - Oct 24, 18:59 IST (iso: 2026-10-24T13:29:00+00:00)
+<!-- image: https://e3.365dm.com/26/10/1920x1080/skynews-volodymyr-zelenskyy_7385610.jpg?20261024144157 -->
+
+President Volodymyr Zelenskyy stated that the Starlink satellite system has returned to the operational speed Ukraine requires. The network had slowed for over a week, which impaired Kyiv's ability to defend against Russian attacks. The restoration of full bandwidth is critical for maintaining Ukraine's air defense and communications infrastructure. The Starlink satellite system is back to operating at the speed Ukraine needs after slowing down for more than a week, damaging Kyiv's ability to defend itself from Russian attacks, Ukraine's President Volodymyr Zelenskyy said.
+
+### [White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City](https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html)
+*Radio Free Europe / Liberty* - Oct 23, 22:02 IST (iso: 2026-10-23T16:32:19+00:00)
+<!-- image: https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg -->
+
+Melania Trump brokered a localized cease-fire for Oleshky, a Russian-occupied Ukrainian city. Kyiv confirmed preparations for humanitarian corridors. Non-military teams will visit residents to coordinate civilian evacuations. An American media organization will document the process. US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilians.
+
+### [An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China](https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html)
+*Radio Free Europe / Liberty* - Oct 23, 18:04 IST (iso: 2026-10-23T12:34:21+00:00)
+<!-- image: https://gdb.rferl.org/f5107528-9ca2-4411-8276-08ddd95ee7ae_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Russian officials face growing doubts about the Northern Sea Route's viability as a reliable trade corridor to China. The Kremlin invested heavily in the route, betting that retreating Arctic ice would open a path beyond Ukrainian drone strikes and European naval interdiction. Recent traffic congestion along the waterway has exposed the practical difficulties of navigating through remaining ice. The route remains a strategic priority, but operational challenges are complicating the timeline for consistent commercial use.
 
 ---
 
@@ -61,6 +79,12 @@ The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Sout
 <!-- image: https://th-i.thgim.com/public/incoming/3sv516/article71624402.ece/alternates/LANDSCAPE_1200/AFP_D4D87CC.jpg -->
 
 Israeli drone strikes killed several people in Gaza City on 12 April 2026. Al Shifa hospital received three bodies and treated eight wounded. Islamic University sources confirmed the dead were administrative staff. The injured included students. Al Shifa hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students.
+
+### [Beyond national interest: role of ethics and emotions in world politics](https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece)
+*The Hindu (International)* - Oct 25, 22:25 IST (iso: 2026-10-25T16:55:15+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/7w603w/article71278488.ece/alternates/LANDSCAPE_1200/_DSC8206.JPG -->
+
+Historical examples show ethics and emotions shape international politics. Foreign policy involves moral perceptions, not just strategic calculation. The Israel-Palestine conflict illustrates how public sentiment influences diplomatic decisions. History offers numerous examples of ethics shaping international politics. Foreign policy is not merely an exercise in strategic calculation; it is also shaped by moral perceptions and collective emotions, as illustrated by the change in public perception towards the Israel-Palestine conflict.
 
 ### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
 *UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
@@ -112,61 +136,41 @@ Families report ICE is deporting severely ill detainees from Florida jails. Flig
 
 ---
 
-## Europe & Russia
+## Global / Multilateral
 
-### [French protest groups demand more rallies as Macron faces tough choices](https://www.thehindu.com/news/international/french-protest-groups-demand-more-rallies-as-macron-faces-tough-choices/article71623327.ece)
-*The Hindu (International)* - Oct 25, 18:50 IST (iso: 2026-10-25T13:20:37+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/a4szb1/article71623454.ece/alternates/LANDSCAPE_1200/2026-10-24T193741Z_215892420_RC2R9OA54ABW_RTRMADP_3_FRANCE-PROTEST.JPG -->
+### [Why do planes keep circling before landing? The UN has a plan to fix it](https://news.un.org/feed/view/en/story/2026/10/1168666)
+*UN News* - Oct 25, 17:30 IST (iso: 2026-10-25T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/16-10-2026-Unsplash-air-traffic-02.jpg/image770x420cropped.jpg -->
 
-French labour leaders called for rallies on November 31 and a strike on November 5. Frustration over wages and public services has spread beyond the initial student movement. Macron faces escalating pressure to address living costs. The protests mark a broadening of social unrest. Labour ‌leaders urged further protests next Saturday, November 31, and a nationwide strike on November 5, saying frustration over wages, living costs and public services was spreading ‌far beyond the student movement that first mobilised last month.
+Air traffic delays cost billions and increase emissions. Some countries use better coordination to save flying hours. The UN aviation agency wants global adoption of these efficiency measures. Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions – and the UN’s aviation agency wants the rest of the world to follow.
 
-### [Demand for UK government action 10 months after British man’s death in Grenada](https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada)
-*The Guardian* - Oct 25, 16:30 IST (iso: 2026-10-25T11:00:01+00:00)
-<!-- image: https://i.guim.co.uk/img/media/41857771d6b7e99a163e8d99af363e9bbd9ff452/628_0_5398_4319/master/5398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80aacac78857539bbb7b847c20d6ab68 -->
+---
 
-Police closed the case of Andrew Frederick despite a homicide ruling. Diplomatic delays between the UK and Grenada stalled the investigation. Charity workers demand immediate government intervention. Ten months have passed since the British father’s death in a ransacked property. Police closed case of Andrew Frederick despite autopsy report ruling his death a homicideA time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two countries. Charity workers supporting the family of Andrew Frederick are demanding immediate government interv.
+## Asia-Pacific
 
-### [Relentless Russian Strikes Drive Civilians From Ukraine's Kramatorsk](https://www.rferl.org/a/relentless-russian-strikes-drive-civilians-from-ukraine-s-kramatorsk/33883080.html)
-*Radio Free Europe / Liberty* - Oct 25, 13:54 IST (iso: 2026-10-25T08:24:41+00:00)
-<!-- image: https://gdb.rferl.org/f99e187e-b84d-457f-4cbb-08df13aec0bb_w1200_h630.jpg -->
+### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
+*The Guardian* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:56+00:00)
+<!-- image: https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e909d961099f6bf8027f885e3cf422a -->
 
-Ukraine ordered mandatory evacuations for families with children in Kramatorsk and Slovyansk. Russian forces intensified strikes across the Donetsk region. The move aims to protect civilians as Moscow pushes to seize the entire area. As Russian forces intensify attacks on Ukraine’s Donetsk region, evacuations are accelerating in Kramatorsk, a key city still held by Kyiv. As Moscow seeks to seize all of the Donetsk region, Ukraine has issued a mandatory evacuation order for families with children in Kramatorsk and Slovyansk.
+North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.
 
-### [After Starshield Disruptions, Zelenskyy Says Satellite Communications Now Fully Functional](https://www.rferl.org/a/ukraine-zelenskyy-musk-starlink-starshield-satellite/33883630.html)
-*Radio Free Europe / Liberty* - Oct 25, 01:22 IST (iso: 2026-10-24T19:52:47+00:00)
-<!-- image: https://gdb.rferl.org/cccb30c8-94c0-41cb-7738-08df13a869ed_w1200_h630.jpg -->
+### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
+*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
 
-Volodymyr Zelenskyy confirmed on October 24 that Starshield and Starlink systems are fully operational. The satellite communications, developed by SpaceX, had been disrupted for over a week. This outage limited Ukraine's defensive operations during the period. Ukrainian President Volodymyr Zelenskyy said on October 24 that the Starshield and Starlink satellite systems were back to normal operations. Disruptions in the communications systems, developed by Elon Musk's SpaceX company, had limited Ukraine's defensive operations for over a week.
+Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
 
-### [Bipartisan US Lawmakers Push Back On Trump's Russia Policy, Vow Support For Ukraine](https://www.rferl.org/a/us-lawmakers-trump-russia-policy-ukraine-bipartisan-pushback/33883500.html)
-*Radio Free Europe / Liberty* - Oct 24, 20:21 IST (iso: 2026-10-24T14:51:22+00:00)
-<!-- image: https://gdb.rferl.org/d4aed848-9c01-40f1-8ccb-0e4b313f1fb4_cx0_cy3_cw0_w1200_h630.jpg -->
+### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
+*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
 
-A bipartisan group of US lawmakers challenged President Trump's easing of Russian energy import restrictions. They demanded guarantees that Ukraine retains access to critical American military and intelligence support. The move signals growing congressional resistance to the administration's shifting foreign policy stance on the conflict. A bipartisan group of US lawmakers is stepping up efforts to defend Ukraine, challenging President Donald Trump’s decision to ease restrictions on Russian energy imports and demanding guarantees that Kyiv will retain access to critical American military and intelligence support.
+China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
 
-### [Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says](https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095)
-*Sky News World* - Oct 24, 18:59 IST (iso: 2026-10-24T13:29:00+00:00)
-<!-- image: https://e3.365dm.com/26/10/1920x1080/skynews-volodymyr-zelenskyy_7385610.jpg?20261024144157 -->
+### [US-China AI race turning ASEAN neutrality into a liability](https://asiatimes.com/2026/10/us-china-ai-race-turning-asean-neutrality-into-a-liability/)
+*Asia Times* - Oct 23, 11:16 IST (iso: 2026-10-23T05:46:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/05/China-Data-Centers-Guizhou-Province.jpg -->
 
-President Volodymyr Zelenskyy stated that the Starlink satellite system has returned to the operational speed Ukraine requires. The network had slowed for over a week, which impaired Kyiv's ability to defend against Russian attacks. The restoration of full bandwidth is critical for maintaining Ukraine's air defense and communications infrastructure. The Starlink satellite system is back to operating at the speed Ukraine needs after slowing down for more than a week, damaging Kyiv's ability to defend itself from Russian attacks, Ukraine's President Volodymyr Zelenskyy said.
-
-### [White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City](https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html)
-*Radio Free Europe / Liberty* - Oct 23, 22:02 IST (iso: 2026-10-23T16:32:19+00:00)
-<!-- image: https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg -->
-
-Melania Trump brokered a localized cease-fire for Oleshky, a Russian-occupied Ukrainian city. Kyiv confirmed preparations for humanitarian corridors. Non-military teams will visit residents to coordinate civilian evacuations. An American media organization will document the process. US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilians.
-
-### [An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China](https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html)
-*Radio Free Europe / Liberty* - Oct 23, 18:04 IST (iso: 2026-10-23T12:34:21+00:00)
-<!-- image: https://gdb.rferl.org/f5107528-9ca2-4411-8276-08ddd95ee7ae_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Russian officials face growing doubts about the Northern Sea Route's viability as a reliable trade corridor to China. The Kremlin invested heavily in the route, betting that retreating Arctic ice would open a path beyond Ukrainian drone strikes and European naval interdiction. Recent traffic congestion along the waterway has exposed the practical difficulties of navigating through remaining ice. The route remains a strategic priority, but operational challenges are complicating the timeline for consistent commercial use.
-
-### [Serbia's Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears](https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html)
-*Radio Free Europe / Liberty* - Oct 23, 11:19 IST (iso: 2026-10-23T05:49:50+00:00)
-<!-- image: https://gdb.rferl.org/75d53c8b-2b55-4562-e8e3-08df13a87301_w1200_h630.jpg -->
-
-Aleksandar Vucic faces his toughest parliamentary election challenge in fourteen years on October 25. An opposition movement born from student protests threatens his long-standing dominance. Growing concerns persist over whether the voting process will be conducted fairly. After 14 years dominating Serbian politics, Aleksandar Vucic faces the biggest challenge to his rule in parliamentary elections on October 25 from an opposition movement that has sprung from mass student protests.
+The U. S.-China AI competition is eroding ASEAN’s traditional neutrality. Southeast Asian nations previously leveraged ties with both powers for economic gain. Competing technology networks now force governments to choose sides, reducing their diplomatic flexibility and strategic room for maneuver. For decades, Southeast Asia has turned great-power rivalry to an economic advantage. By maintaining healthy ties with Washington and Beijing, ASEAN governments attracted investment, expanded trade and preserved room for diplomatic maneuver.
 
 ---
 
