@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-26T11:40:41.479908+00:00",
+  "generated_at": "2026-10-26T17:45:07.737044+00:00",
   "article_count": 50,
-  "total_unique_count": 262,
+  "total_unique_count": 264,
   "digest": {
-    "en": "Lula secures a fourth term in Brazil while Vucic concedes defeat in Serbia. Both outcomes signal a shift away from far-right strongmen in the Global South and Eastern Europe. The geopolitical ripple effects are already reshaping alliances in the Americas and the Balkans.",
-    "hi": "अमेरिकी सेना ट्रंप के आदेश के 96 घंटों के भीतर ईरान पर हमले की तैयारी में है। इसी बीच चीन अरुणाचल बॉर्डर पर समझौते निभाने का दावा कर रहा है।"
+    "en": "Lula’s fourth term in Brasília dominates the board as Bolsonaro refuses to concede. In Belgrade, Vucic’s stunning defeat leaves Serbia’s next move unclear. Tehran hosts Mecca Alliance partners while Gaza’s ceasefire faces fresh UN scrutiny.",
+    "hi": "सऊदी अरब ने सना और लाल सागर के पास हवाई हमले किए, कई जगहों पर विस्फोट हुए। इसी दौरान ट्रम्प ने ईरान पर 96‑घंटे का अल्टीमेटम जारी किया, अमेरिकी सेना को संभावित कार्रवाई की तैयारी में कहा।"
   },
   "articles": [
     {
@@ -12,10 +12,94 @@
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-10-26T11:20:12+00:00",
+      "published_at": "2026-10-26T17:10:31+00:00",
       "image_url": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e32293a3abd038488dbbb9d84056cce1",
       "summary": "Flávio Bolsonaro rejected the Brazilian election results, calling it impossible to concede the loss. Luiz Inácio Lula da Silva secured a fourth non-consecutive term. The far-right senator lost the second round to the leftist president. The electoral court confirmed the final tally. Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president over Flávio BolsonaroLive second round resultsThe local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo S.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Lula defeats far-right Bolsonaro to secure a fourth presidential term",
+      "url": "https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-26T16:21:46+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/lebqve/article71628345.ece/alternates/LANDSCAPE_1200/Oct%2026.png",
+      "summary": "Lula defeated Bolsonaro to win a fourth term as Brazil's president. The result secures his return to power after a contentious campaign. This victory shifts the country's political direction back toward the center-left. Lula wins a historic fourth term in Brazil, Serbia’s ruling party is ousted after student-led protests, and Marine Le Pen launches her presidential bid in France. Meanwhile, Israel votes in parliamentary elections amid uncertainty over Benjamin Netanyahu’s coalition.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "What Now For Serbia After Vucic's Stunning Election Defeat?",
+      "url": "https://www.rferl.org/a/who-is-new-government-serbia-students/33884595.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-26T15:32:21+00:00",
+      "image_url": "https://gdb.rferl.org/1842e1fb-7710-48e3-47e9-08df13a884cb_w1200_h630.jpeg",
+      "summary": "Aleksandar Vucic lost the Serbian parliamentary elections to student-led opposition. The ruling party was ousted from power. The new government must now navigate complex relations with the European Union, Russia, and China. Who will lead the next government of Serbia, after Aleksandar Vucic lost parliamentary elections, can the protest movement turn electoral success into stable rule, and what the result could mean for Serbia’s balancing relations with the European Union, Russia, and China?",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide",
+      "url": "https://www.thehindu.com/news/international/un-commissioned-experts-say-gaza-ceasefire-has-not-stopped-israel-from-committing-genocide/article71627202.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-26T14:30:22+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/7li2t7/article71627288.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_Gaza_59521.jpg",
+      "summary": "UN experts concluded the Gaza ceasefire did not stop Israeli actions constituting genocide. The Commission of Inquiry issued these findings. Prosecutors at the International Criminal Court may use the report to pursue legal action against officials. The findings by the Commission of Inquiry on the Occupied Palestinian Territory could be used by prosecutors at the International Criminal Court or in other jurisdictions to try to bring justice to victims and their relatives.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "With Regional Tensions High, Mecca Alliance Partners Meet In Tehran",
+      "url": "https://www.rferl.org/a/tensions-mecca-alliance-partners-tehran-saudi-turkey-pakistan/33884432.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-26T13:43:05+00:00",
+      "image_url": "https://gdb.rferl.org/5645b16e-aaa6-4f7f-94ae-4d5444b40285_cx0_cy2_cw0_w1200_h630.jpg",
+      "summary": "Mecca Defense Alliance partners met in Tehran to address regional conflicts. The snap meeting focused on stabilizing the Middle East. These tensions are currently disrupting global oil and cargo flows across the region. Officials from the so-called Mecca Defense Alliance have gathered for a snap meeting in Tehran as they look to settle conflicts in the Middle East that have left the region reeling and are impacting global flows of oil and other cargo.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.K. PM Burnham backs principle of ‘earned settlement’ in immigration rules",
+      "url": "https://www.thehindu.com/news/international/uk-pm-burnham-backs-principle-of-earned-settlement-in-immigration-rules/article71626989.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-26T13:00:45+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/txlcz5/article71627102.ece/alternates/LANDSCAPE_1200/BRITAIN-POLITICS__826.jpg",
+      "summary": "U. K. PM Burnham supported the earned settlement principle for immigration. The proposal increases the baseline qualifying period for permanent residency. This change was part of a draft overhaul introduced by Home Secretary Shabana Mahmood. An increase in the baseline qualifying period for settlement, from 5 of 15 years had been proposed by U. K. Home Secretary Shabana Mahmood as part of a draft “earned settlement” immigration overhaul last year, during the Keir Starmer administration.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Investigators find Russia committed war crimes by targeting civilians",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-26T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-10-2025_OCHA_Ukraine.jpg/image770x420cropped.jpg",
+      "summary": "A panel of human rights experts concluded that Russian forces committed war crimes and crimes against humanity during the Ukraine invasion. The findings cite deliberate attacks on civilians and vital energy infrastructure. These actions violate international law. The report details specific violations of protected targets. Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Security Council LIVE: Children and war, ‘each one is a life’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168668",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-26T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-01-2025-UNRWA-Gaza-16.jpg/image560x340cropped.jpg",
+      "summary": "The United Nations Security Council marked thirty years of its mandate to protect children in armed conflict. Officials noted that violations against young people in war reached record levels this year. The session emphasized the human cost of these breaches. Each incident represents a single lost life. With violations against children caught in armed conflict reaching an unprecedented level this year, the Security Council is marking 30 years since it took on the mandate to protect young people caught up in war.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -32,14 +116,14 @@
       "translations": {}
     },
     {
-      "title": "Lula wins a record fourth presidential term as Brazil defeats far-right, defies Trump and Meta",
-      "url": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece",
-      "source": "The Hindu (International)",
+      "title": "Bizarre hobby takes seed among China’s stressed young adults",
+      "url": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+      "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-10-26T08:45:20+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/3j88ut/article71625440.ece/alternates/LANDSCAPE_1200/2026-10-25T214120Z_270635599_RC2KAOAZJ6YN_RTRMADP_3_BRAZIL-ELECTION.JPG",
-      "summary": "Luiz Inácio Lula da Silva won a record fourth term in Brazil. He defeated Flavio Bolsonaro, the son of former president Jair Bolsonaro. Millions rallied to protect public education and healthcare from far-right cuts. The result defied expectations and strengthened democratic institutions. As the prospect of a Bolsonaro presidency caused a major concern among the young, especially about public education, healthcare and transport, millions of people joined weekly rallies across the country, pledging support for Mr.",
-      "region": "Americas",
+      "published_at": "2026-10-26T09:47:14+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129",
+      "summary": "Chinese young adults are increasingly adopting bricks as a low-cost hobby to replace pets or children. This trend stems from a stagnant job market and financial pressure. The practice offers a cheap, low-maintenance outlet for stress. It serves as a symbolic alternative to traditional responsibilities. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -80,30 +164,6 @@
       "translations": {}
     },
     {
-      "title": "Israel markets see upside in Netanyahu defeat after three-year rally",
-      "url": "https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-26T03:57:15+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/92rgzw/article71625576.ece/alternates/LANDSCAPE_1200/iStock-2270287840.jpg",
-      "summary": "Israeli markets rallied on the prospect of a Netanyahu defeat. Opinion polls indicate a tight contest in the upcoming election. Neither the Likud bloc nor the Gadi Eisenkot-led opposition is expected to secure the 61 seats needed to form a government. Opinion polls point to a ‌tight contest, with neither Mr. Netanyahu's ruling Likud bloc nor an opposition alliance centred on former military chief Gadi Eisenkot expected ​to secure the 61 seats in the 120-seat Knesset needed to govern.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Full second round results as Lula wins comeback against Flávio Bolsonaro",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-10-26T00:15:36+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5",
-      "summary": "Brazilian voters cast ballots on 25 October 2026 for the second round of the presidential election. Incumbent President Luiz Inácio Lula da Silva faces Flávio Bolsonaro in a runoff. Polls closed at 17:00 BRT, with initial results expected shortly after. The contest follows Lula’s first-round performance against the son of his convicted predecessor. After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessorPolls close at 17.00 BRT, 20.00 GMT, with first results expected within the hour.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Student-Led Opposition Celebrates In Serbia After Vucic Concedes Election Defeat",
       "url": "https://www.rferl.org/a/serbia-parliamentary-election-students-list-vucic/33884047.html",
       "source": "Radio Free Europe / Liberty",
@@ -128,7 +188,7 @@
       "translations": {}
     },
     {
-      "title": "Why do planes keep circling before landing? The UN has a plan to fix it",
+      "title": "Why do planes keep circling before landing? UN has a plan to fix it",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168666",
       "source": "UN News",
       "sources": [],
@@ -188,18 +248,6 @@
       "translations": {}
     },
     {
-      "title": "Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says",
-      "url": "https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095",
-      "source": "Sky News World",
-      "sources": [],
-      "published_at": "2026-10-24T13:29:00+00:00",
-      "image_url": "https://e3.365dm.com/26/10/1920x1080/skynews-volodymyr-zelenskyy_7385610.jpg?20261024144157",
-      "summary": "Ukraine's President Volodymyr Zelenskyy confirmed Starlink satellite service has returned to full operational speed. The system had slowed for over a week, impairing Kyiv's defense capabilities against Russian attacks. The restoration reestablishes critical communications infrastructure for Ukrainian military operations. The Starlink satellite system is back to operating at the speed Ukraine needs after slowing down for more than a week, damaging Kyiv's ability to defend itself from Russian attacks, Ukraine's President Volodymyr Zelenskyy said.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
       "source": "UN News",
@@ -248,30 +296,6 @@
       "translations": {}
     },
     {
-      "title": "White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City",
-      "url": "https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-23T16:32:19+00:00",
-      "image_url": "https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg",
-      "summary": "Melania Trump brokered a localized cease-fire for Oleshky, a Russian-occupied Ukrainian city. Kyiv confirmed preparations for humanitarian corridors. Non-military teams will visit residents to coordinate civilian evacuations. An American media organization will document the process. US First Lady Melania Trump has brokered a localized cease-fire between Russia and Ukraine for the Russian-occupied southern Ukrainian city of Oleshky, with Kyiv confirming preparations for an operation to establish humanitarian corridors and evacuate civilians.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Every Day We 'Wake Up Poorer': Iranians Battle Economic Woes",
-      "url": "https://www.rferl.org/a/iran-economy-war-sanctions-cost-living-inflation/33882913.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-23T15:28:39+00:00",
-      "image_url": "https://gdb.rferl.org/b8be4b6e-0fe9-49c2-76af-08df13a869ed_cx0_cy3_cw0_w1200_h630.jpg",
-      "summary": "Iran’s economy faces severe strain from mismanagement, sanctions, and war. Citizens report waking up poorer daily. The cost-of-living crisis forces changes in diet, social habits, and life choices. Basic affordability is eroding across the population. Battered by mismanagement, sanctions, and war, Iran’s economy is in deep trouble. The cost-of-living crisis is forcing people to change what they eat, how they socialize, and what they can afford to do with their lives.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
       "url": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
       "source": "The Guardian",
@@ -284,28 +308,148 @@
       "translations": {}
     },
     {
-      "title": "An Arctic Traffic Jam Highlights Doubts Over Russia's Northern Sea Route To China",
-      "url": "https://www.rferl.org/a/arctic-traffic-jam-russia-northern-sea-route-china/33882814.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "सऊदी अरब ने सना और लाल सागर के पास किए हवाई हमले, कई जगह हुए धमाके",
+      "url": "https://www.patrika.com/world-news/saudi-arabia-carries-out-airstrikes-in-sanna-and-coastal-areas-along-red-sea-21010320",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-10-23T12:34:21+00:00",
-      "image_url": "https://gdb.rferl.org/f5107528-9ca2-4411-8276-08ddd95ee7ae_cx0_cy10_cw0_w1200_h630.jpg",
-      "summary": "Russian officials face growing doubts about the Northern Sea Route's viability as a reliable trade corridor to China. The Kremlin invested heavily in the route, betting that retreating Arctic ice would open a path beyond Ukrainian drone strikes and European naval interdiction. Recent traffic congestion along the waterway has exposed the practical difficulties of navigating through remaining ice. The route remains a strategic priority, but operational challenges are complicating the timeline for consistent commercial use.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-10-26T15:05:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/saudi-arabia-attacks-sanaa.webp",
+      "summary": "सऊदी अरब ने यमन के सना और लाल सागर क्षेत्र पर हवाई हमले किए। यह कार्रवाई हूती विद्रोहियों के रियाद के किंग खालिद एयरपोर्ट और तेल पाइपलाइनों पर मिसाइल व ड्रोन हमलों के जवाब में हुई। दोनों पक्षों के बीच तनाव और गहरा हुआ। यमन (Yemen) के हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच तनाव बढ़ता ही जा रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी अरब ने सना और लाल सागर के पास किए हवाई हमले, कई जगह हुए धमाके",
+          "summary": "सऊदी अरब ने यमन के सना और लाल सागर क्षेत्र पर हवाई हमले किए। यह कार्रवाई हूती विद्रोहियों के रियाद के किंग खालिद एयरपोर्ट और तेल पाइपलाइनों पर मिसाइल व ड्रोन हमलों के जवाब में हुई। दोनों पक्षों के बीच तनाव और गहरा हुआ। यमन (Yemen) के हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच तनाव बढ़ता ही जा रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
-      "title": "Iran’s mountain shelters offer Taiwan a China survival playbook",
-      "url": "https://asiatimes.com/2026/10/irans-mountain-shelters-offer-taiwan-a-china-survival-playbook/",
-      "source": "Asia Times",
+      "title": "ट्रंप का इशारा मिलते ही ईरान पर टूटेगी अमेरिकी सेना, 96 घंटे का अल्टीमेटम, फिर भी अटैक से क्यों डरा",
+      "url": "https://hindi.news18.com/world/middle-east-iran-attack-us-military-plan-in-96-hours-israel-donald-trump-10938920.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-10-23T09:05:16+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Iran-Air-Force.jpeg",
-      "summary": "Iran is repairing its Eagle 44 airbase in Hormozgan province after recent strikes. The subterranean facility demonstrates the value of hardened mountain shelters against precision firepower. This recovery offers a survival playbook for air forces facing superior adversaries. Iran’s rapid post-strike recovery of its Eagle 44 airbase proves that hardened mountain shelters remain a decisive shield against precision firepower, transforming how inferior air forces survive and deter superior adversaries.",
+      "published_at": "2026-10-26T14:42:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/us-navy-6-2026-10-a184312e66c9c5ebe42aa626ce1b7a5e-1200x800.jpg",
+      "summary": "अमेरिकी सेना ट्रंप के आदेश पर 96 घंटे में ईरान पर सैन्य अभियान की तैयारी कर रही है। निशानों में ऊर्जा ढांचे, सैन्य ठिकाने और परमाणु संयंत्र शामिल हैं। इजरायल भी नए हमलों की तैयारी में जुटा है, पर अंतिम फैसला अभी बाकी है। अमेरिका और ईरान के बीच तनाव फिर बढ़ता दिख रहा है. अमेरिकी सेना राष्ट्रपति डोनाल्ड ट्रंप का आदेश मिलने के 96 घंटे के अंदर ईरान पर बड़ा सैन्य अभियान शुरू करने की तैयारी में है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप का इशारा मिलते ही ईरान पर टूटेगी अमेरिकी सेना, 96 घंटे का अल्टीमेटम, फिर भी अटैक से क्यों डरा",
+          "summary": "अमेरिकी सेना ट्रंप के आदेश पर 96 घंटे में ईरान पर सैन्य अभियान की तैयारी कर रही है। निशानों में ऊर्जा ढांचे, सैन्य ठिकाने और परमाणु संयंत्र शामिल हैं। इजरायल भी नए हमलों की तैयारी में जुटा है, पर अंतिम फैसला अभी बाकी है। अमेरिका और ईरान के बीच तनाव फिर बढ़ता दिख रहा है. अमेरिकी सेना राष्ट्रपति डोनाल्ड ट्रंप का आदेश मिलने के 96 घंटे के अंदर ईरान पर बड़ा सैन्य अभियान शुरू करने की तैयारी में है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मसूद पेज़ेशकियान ने मुस्लिम देशों से की अपील, अमेरिका-इज़रायल की आक्रामकता के खिलाफ हो एकजुट",
+      "url": "https://www.patrika.com/world-news/masoud-pezeshkian-calls-for-muslim-nations-to-unite-against-us-israel-aggression-21010293",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-26T14:37:11+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/masoud_.webp",
+      "summary": "तेहरान में ईरानी राष्ट्रपति पेज़ेशकियान ने सऊदी, पाकिस्तान और तुर्की के वरिष्ठ अधिकारियों से मुलाकात की। उन्होंने मुस्लिम देशों से अमेरिका और इज़रायल की आक्रामकता के खिलाफ एकजुट होने की अपील की। यह बैठक क्षेत्रीय तनाव के बीच हुई। ईरान (Iran) की राजधानी तेहरान में आज ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) ने सऊदी अरब (Saudi Arabia) के रक्षा मंत्री खालिद बिन सलमान (Khalid bin Salman), पाकिस्तान (Pakistan) के सेना प्रमुख आसिम मुनीर (Asim Munir) और तुर्की (Turkey) के खुफिया प्रमुख इब्राहिम कलिन (Ibrahim Kalin) के साथ मुलाकात की।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मसूद पेज़ेशकियान ने मुस्लिम देशों से की अपील, अमेरिका-इज़रायल की आक्रामकता के खिलाफ हो एकजुट",
+          "summary": "तेहरान में ईरानी राष्ट्रपति पेज़ेशकियान ने सऊदी, पाकिस्तान और तुर्की के वरिष्ठ अधिकारियों से मुलाकात की। उन्होंने मुस्लिम देशों से अमेरिका और इज़रायल की आक्रामकता के खिलाफ एकजुट होने की अपील की। यह बैठक क्षेत्रीय तनाव के बीच हुई। ईरान (Iran) की राजधानी तेहरान में आज ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) ने सऊदी अरब (Saudi Arabia) के रक्षा मंत्री खालिद बिन सलमान (Khalid bin Salman), पाकिस्तान (Pakistan) के सेना प्रमुख आसिम मुनीर (Asim Munir) और तुर्की (Turkey) के खुफिया प्रमुख इब्राहिम कलिन (Ibrahim Kalin) के साथ मुलाकात की।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पहले ईरान से दुश्मनी की, अब उसी के दरबार में क्यों पहुंचा सऊदी अरब? अमेरिका की जंग में हाथ नहीं",
+      "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-defence-minister-prince-khalid-bin-salman-al-saud-iran-us-war-end-tehran-visit-reasons-10938725.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-26T13:57:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/iran-saudi-2026-10-0f07f557479309acaccd2962c61218f0-1200x800.jpg",
+      "summary": "सऊदी अरब ईरान और अमेरिका के बीच युद्ध समाप्त करने के लिए कूटनीतिक प्रयास कर रहा है। रक्षा मंत्री खालिद बिन सलमान का तेहरान दौरा इस प्रयास की गंभीरता दर्शाता है। होर्मुज स्ट्रेट और तेल निर्यात पर दबाव सऊदी की चिंता बढ़ा रहे हैं। सऊदी अरब ईरान और अमेरिका के बीच जारी युद्ध खत्म कराने के लिए कूटनीतिक कोशिशों में जुटा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहले ईरान से दुश्मनी की, अब उसी के दरबार में क्यों पहुंचा सऊदी अरब? अमेरिका की जंग में हाथ नहीं",
+          "summary": "सऊदी अरब ईरान और अमेरिका के बीच युद्ध समाप्त करने के लिए कूटनीतिक प्रयास कर रहा है। रक्षा मंत्री खालिद बिन सलमान का तेहरान दौरा इस प्रयास की गंभीरता दर्शाता है। होर्मुज स्ट्रेट और तेल निर्यात पर दबाव सऊदी की चिंता बढ़ा रहे हैं। सऊदी अरब ईरान और अमेरिका के बीच जारी युद्ध खत्म कराने के लिए कूटनीतिक कोशिशों में जुटा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रूस के खिलाफ युद्ध के बीच यूक्रेन में 90 दिनों के लिए और बढ़ाया गया मार्शल लॉ",
+      "url": "https://www.patrika.com/world-news/martial-law-extended-for-another-90-days-in-ukraine-21010145",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-26T13:20:06+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/zelenskyy.webp",
+      "summary": "यूक्रेन की संसद ने मार्शल लॉ को 90 दिनों के लिए और बढ़ा दिया है। यह कानून 24 फरवरी 2022 से लागू है। रूस-यूक्रेन युद्ध के 56 महीने पूरे होने के बावजूद दोनों देशों के बीच लड़ाई रुकने का नाम नहीं ले रही। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 56 महीने पूरे हो चुके हैं, लेकिन इसके बावजूद युद्ध रुकने का नाम नहीं ले रहा है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस के खिलाफ युद्ध के बीच यूक्रेन में 90 दिनों के लिए और बढ़ाया गया मार्शल लॉ",
+          "summary": "यूक्रेन की संसद ने मार्शल लॉ को 90 दिनों के लिए और बढ़ा दिया है। यह कानून 24 फरवरी 2022 से लागू है। रूस-यूक्रेन युद्ध के 56 महीने पूरे होने के बावजूद दोनों देशों के बीच लड़ाई रुकने का नाम नहीं ले रही। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 56 महीने पूरे हो चुके हैं, लेकिन इसके बावजूद युद्ध रुकने का नाम नहीं ले रहा है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "इज़रायली सेना ने मार गिराए हमास के दो कमांडर",
+      "url": "https://www.patrika.com/world-news/israel-army-eliminated-two-hamas-commanders-21010087",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-26T12:50:57+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/israel-strike-on-gaza.webp",
+      "summary": "इज़रायली सेना ने गाज़ा में हमास के दो कमांडरों को मार गिराया है। यह कार्रवाई जारी हवाई हमलों का हिस्सा है। सेना का लक्ष्य हमास को घुटने टेकने के लिए मजबूर करना है। इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच युद्ध जारी है। इज़रायली सेना लगातार गाज़ा (Gaza) पर हमले कर रही है, जिससे हमास को घुटने टेकने के लिए मजबूर किया जा सके।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इज़रायली सेना ने मार गिराए हमास के दो कमांडर",
+          "summary": "इज़रायली सेना ने गाज़ा में हमास के दो कमांडरों को मार गिराया है। यह कार्रवाई जारी हवाई हमलों का हिस्सा है। सेना का लक्ष्य हमास को घुटने टेकने के लिए मजबूर करना है। इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच युद्ध जारी है। इज़रायली सेना लगातार गाज़ा (Gaza) पर हमले कर रही है, जिससे हमास को घुटने टेकने के लिए मजबूर किया जा सके।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीन से अफगानिस्तान के लिए रवाना हुई पहली मालगाड़ी, क्या-क्या लेकर जा रही, भारत को क्यों रखनी चाहिए",
+      "url": "https://hindi.news18.com/world/south-asia-china-afghanistan-freight-train-shandong-hairatan-pakistan-india-news-10938618.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-26T12:35:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/china-news-8-2026-10-dc1330ffa53645e94f5a64b4b9fbff9f-1200x800.jpg",
+      "summary": "चीन के शेडोंग से अफगानिस्तान के लिए पहली मालगाड़ी रवाना हुई है। इसमें 80 लाख युआन का सामान है। ट्रेन कजाखस्तान और उज्बेकिस्तान से होकर 20 दिनों में हैरातान पहुंचेगी। China-Afghanistan Train: चीन के शेडोंग प्रांत से अफगानिस्तान के हैरातान के लिए पहली मालगाड़ी रवाना हुई है. इसमें करीब 80 लाख युआन यानी लगभग 11.5 करोड़ रुपये का सामान है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन से अफगानिस्तान के लिए रवाना हुई पहली मालगाड़ी, क्या-क्या लेकर जा रही, भारत को क्यों रखनी चाहिए",
+          "summary": "चीन के शेडोंग से अफगानिस्तान के लिए पहली मालगाड़ी रवाना हुई है। इसमें 80 लाख युआन का सामान है। ट्रेन कजाखस्तान और उज्बेकिस्तान से होकर 20 दिनों में हैरातान पहुंचेगी। China-Afghanistan Train: चीन के शेडोंग प्रांत से अफगानिस्तान के हैरातान के लिए पहली मालगाड़ी रवाना हुई है. इसमें करीब 80 लाख युआन यानी लगभग 11.5 करोड़ रुपये का सामान है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "न जलाएंगे, न दफनाएंगे... मौत के बाद इंसानी शरीर से बनेगी खाद, भारत के दोस्त का अजीब फैसला",
+      "url": "https://hindi.news18.com/world/rest-of-world-human-composting-australia-legal-approval-how-it-works-10938602.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-26T12:34:09+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/deadbody-2026-10-35bf34ba0ec245b8236333f529b7b4cb-1200x800.jpg",
+      "summary": "ऑस्ट्रेलिया के न्यू साउथ वेल्स में ह्यूमन कंपोस्टिंग को कानूनी मंजूरी मिली है। इस प्रक्रिया में मृत शरीर को खाद में बदला जाता है। यह दफन या दाह संस्कार का वैकल्पिक तरीका है। मौत के बाद शरीर को दफनाने या दाह संस्कार करने के बजाय खाद में भी बदला जा सकता है. ऑस्ट्रेलिया के न्यू साउथ वेल्स में इस तरीके को कानूनी मंजूरी मिल गई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न जलाएंगे, न दफनाएंगे... मौत के बाद इंसानी शरीर से बनेगी खाद, भारत के दोस्त का अजीब फैसला",
+          "summary": "ऑस्ट्रेलिया के न्यू साउथ वेल्स में ह्यूमन कंपोस्टिंग को कानूनी मंजूरी मिली है। इस प्रक्रिया में मृत शरीर को खाद में बदला जाता है। यह दफन या दाह संस्कार का वैकल्पिक तरीका है। मौत के बाद शरीर को दफनाने या दाह संस्कार करने के बजाय खाद में भी बदला जा सकता है. ऑस्ट्रेलिया के न्यू साउथ वेल्स में इस तरीके को कानूनी मंजूरी मिल गई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
     },
     {
       "title": "अस्पतालों पर बमबारी, डॉक्टरों को धमकी… युद्ध के बीच WMA ने क्या कहा?",
@@ -610,150 +754,6 @@
           "title": "सऊदी अरब, तुर्की और पाकिस्तान के नेता पहुंचेंगे तेहरान, क्या इस बातचीत से निकलेगा जंग खत्म होने का",
           "summary": "सऊदी अरब, तुर्की और पाकिस्तान के शीर्ष अधिकारी सोमवार को तेहरान जाएंगे। वे ईरान के नेताओं से क्षेत्रीय समन्वय पर बात करेंगे। रक्षा मंत्री खालिद बिन सलमान और फील्ड मार्शल असीम मुनीर शामिल होंगे। Mecca Pact: मक्का पैक्ट में शामिल देश सऊदी अरब, तुर्किये और पाकिस्तान के शीर्ष अधिकारी सोमवार को तेहरान में ईरान के सीनियर नेताओं से मुलाकात करेंगे।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ब्राजील में लूला ने रचा इतिहास, पहले दौर में पिछड़ने के बाद हासिल की जीत, पीएम मोदी ने दी बधाई",
-      "url": "https://www.patrika.com/world-news/brazil-election-lula-da-silva-wins-fourth-term-pm-modi-congratulates-21008905",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-26T07:05:30+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Lula-da-Silva.webp",
-      "summary": "लुइज इनासियो लूला डी सिल्वा ने ब्राजील के राष्ट्रपति चुनाव में पहली बार में जीत दर्ज की। प्रधानमंत्री नरेंद्र मोदी ने उन्हें बधाई दी। दोनों देशों के बीच रणनीतिक साझेदारी को गहरा करने का संकेत दिया गया। Lula da Silva Brazil Presidential Election: प्रधानमंत्री नरेंद्र मोदी ने ब्राजील राष्ट्रपति चुनाव में शानदार जीत हासिल करने पर लुइज इनासियो लूला डी सिल्वा को बधाई दी है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्राजील में लूला ने रचा इतिहास, पहले दौर में पिछड़ने के बाद हासिल की जीत, पीएम मोदी ने दी बधाई",
-          "summary": "लुइज इनासियो लूला डी सिल्वा ने ब्राजील के राष्ट्रपति चुनाव में पहली बार में जीत दर्ज की। प्रधानमंत्री नरेंद्र मोदी ने उन्हें बधाई दी। दोनों देशों के बीच रणनीतिक साझेदारी को गहरा करने का संकेत दिया गया। Lula da Silva Brazil Presidential Election: प्रधानमंत्री नरेंद्र मोदी ने ब्राजील राष्ट्रपति चुनाव में शानदार जीत हासिल करने पर लुइज इनासियो लूला डी सिल्वा को बधाई दी है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "8 भारतवंशी उम्मीदवार मैदान में, जानें कौन कहां से ठोक रहा ताल",
-      "url": "https://www.patrika.com/world-news/2026-us-midterm-elections-candidates-update-news-21009013",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-26T06:45:21+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/US-Midterm-Elections-2026.webp",
-      "summary": "अमेरिका के 3 नवंबर के मिड-टर्म चुनावों में आठ भारतीय मूल के उम्मीदवार मैदान में हैं। ये चुनाव ट्रंप के दूसरे कार्यकाल के बीच हो रहे हैं। महंगाई और ऊर्जा की कीमतें प्रमुख मुद्दे बनी हुई हैं। अमरीका में 3 नवंबर को होने वाले मिड-टर्म चुनाव में भारतीय मूल के उम्मीदवारों की मौजूदगी चर्चा में है। राष्ट्रपति डॉनल्ड ट्रंप के दूसरे कार्यकाल के बीच होने वाले इन चुनावों में अर्थव्यवस्था, महंगाई और ऊर्जा की कीमतें प्रमुख मुद्दे हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "8 भारतवंशी उम्मीदवार मैदान में, जानें कौन कहां से ठोक रहा ताल",
-          "summary": "अमेरिका के 3 नवंबर के मिड-टर्म चुनावों में आठ भारतीय मूल के उम्मीदवार मैदान में हैं। ये चुनाव ट्रंप के दूसरे कार्यकाल के बीच हो रहे हैं। महंगाई और ऊर्जा की कीमतें प्रमुख मुद्दे बनी हुई हैं। अमरीका में 3 नवंबर को होने वाले मिड-टर्म चुनाव में भारतीय मूल के उम्मीदवारों की मौजूदगी चर्चा में है। राष्ट्रपति डॉनल्ड ट्रंप के दूसरे कार्यकाल के बीच होने वाले इन चुनावों में अर्थव्यवस्था, महंगाई और ऊर्जा की कीमतें प्रमुख मुद्दे हैं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'प्यारे दोस्त' की वापसी पर भारत का क्या फायदा? बिजनेस से लेकर पॉलिटिक्स तक बल्ले-बल्ले",
-      "url": "https://hindi.news18.com/world/south-asia-why-lula-da-silva-victory-in-brazil-election-is-good-for-india-brics-trade-global-south-ws-l-10937540.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-26T06:39:55+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/lula-modi-n-2026-10-e01cabd0a43ab3f14f266d5b05da0f33-1200x800.jpg",
-      "summary": "लूला की वापसी से भारत-ब्राजील संबंधों को लाभ मिलेगा। पिछले कुछ वर्षों में दोनों देशों के रिश्ते गहरे हुए हैं। व्यापार और राजनीतिक सहयोग के नए अवसर खुलने की उम्मीद है। Brazil Election Result for India: ब्राजील में चुनाव के नतीजे सिर्फ इसी देश के लिए बल्कि वैश्विक राजनीति के लिए भी काफी अहम रहने वाला है. अगर हम बात करें भारत की तो ब्राजील के साथ हमारे रिश्ते पिछले कुछ वर्षों में काफी गहरे हुए हैं, ऐसे में चलिए जानते हैं कि हमें लूला दा सिल्वा की वापसी से क्या फायदा होने वाला है?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'प्यारे दोस्त' की वापसी पर भारत का क्या फायदा? बिजनेस से लेकर पॉलिटिक्स तक बल्ले-बल्ले",
-          "summary": "लूला की वापसी से भारत-ब्राजील संबंधों को लाभ मिलेगा। पिछले कुछ वर्षों में दोनों देशों के रिश्ते गहरे हुए हैं। व्यापार और राजनीतिक सहयोग के नए अवसर खुलने की उम्मीद है। Brazil Election Result for India: ब्राजील में चुनाव के नतीजे सिर्फ इसी देश के लिए बल्कि वैश्विक राजनीति के लिए भी काफी अहम रहने वाला है. अगर हम बात करें भारत की तो ब्राजील के साथ हमारे रिश्ते पिछले कुछ वर्षों में काफी गहरे हुए हैं, ऐसे में चलिए जानते हैं कि हमें लूला दा सिल्वा की वापसी से क्या फायदा होने वाला है?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अफगानिस्तान में कांपी धरती, 5.2 तीव्रता के भूकंप ने दहलाया, घरों से भाग खड़े हुए लोग",
-      "url": "https://hindi.news18.com/world/south-asia-afghanistan-hit-by-5-magnitude-earthquake-midnight-people-scared-ws-l-10937264.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-26T05:39:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/earthquake-news-2026-10-533d9f5b784715b7bcba7e5febf313d6-1200x800.jpg",
-      "summary": "अफगानिस्तान में 25 अक्टूबर की रात 5.2 तीव्रता का भूकंप आया। लोगों ने घबराकर घरों से बाहर निकलना शुरू कर दिया। प्रारंभिक रिपोर्टों के अनुसार इससे जान-माल का कोई बड़ा नुकसान नहीं हुआ है। Afghanistan Earthquake: अफगानिस्तान में एक बार फिर से 25 अक्टूबर की रात में धरती कांप गई. रिक्टर स्केल पर इसकी तीव्रता 5.2 मैग्नीट्यूड दर्ज की गई और लोग घबराकर घरों से बाहर निकल आए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अफगानिस्तान में कांपी धरती, 5.2 तीव्रता के भूकंप ने दहलाया, घरों से भाग खड़े हुए लोग",
-          "summary": "अफगानिस्तान में 25 अक्टूबर की रात 5.2 तीव्रता का भूकंप आया। लोगों ने घबराकर घरों से बाहर निकलना शुरू कर दिया। प्रारंभिक रिपोर्टों के अनुसार इससे जान-माल का कोई बड़ा नुकसान नहीं हुआ है। Afghanistan Earthquake: अफगानिस्तान में एक बार फिर से 25 अक्टूबर की रात में धरती कांप गई. रिक्टर स्केल पर इसकी तीव्रता 5.2 मैग्नीट्यूड दर्ज की गई और लोग घबराकर घरों से बाहर निकल आए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इजरायल में कैसे होते हैं चुनाव? भारत से कितनी अलग है वोटिंग प्रणाली, जानिए सरकार बनाने का पूरा गणित",
-      "url": "https://hindi.news18.com/world/middle-east-what-is-israel-elections-process-how-does-its-voting-system-differ-from-india-learn-full-arithmetic-behind-govt-formation-10937138.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-26T04:57:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Israel-Voting-2026-10-71116d9f28da9780dab50b5f1d644f70-1200x800.jpg",
-      "summary": "इजरायल में 27 अक्टूबर 2026 को आम चुनाव हो रहे हैं। यह मतदान बेंजामिन नेतन्याहू के राजनीतिक भविष्य के साथ-साथ देश की आगे की दिशा तय करेगा। सुरक्षा समीकरणों में बदलाव के बीच यह चुनाव ऐतिहासिक महत्व का माना जा रहा है। Israel Voting System: पश्चिम एशिया में बारूद की गंध, सीमा पार से जारी तनाव और अक्टूबर 2023 के बाद बदले सुरक्षा समीकरणों के बीच इजरायल एक ऐतिहासिक मोड़ पर खड़ा है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायल में कैसे होते हैं चुनाव? भारत से कितनी अलग है वोटिंग प्रणाली, जानिए सरकार बनाने का पूरा गणित",
-          "summary": "इजरायल में 27 अक्टूबर 2026 को आम चुनाव हो रहे हैं। यह मतदान बेंजामिन नेतन्याहू के राजनीतिक भविष्य के साथ-साथ देश की आगे की दिशा तय करेगा। सुरक्षा समीकरणों में बदलाव के बीच यह चुनाव ऐतिहासिक महत्व का माना जा रहा है। Israel Voting System: पश्चिम एशिया में बारूद की गंध, सीमा पार से जारी तनाव और अक्टूबर 2023 के बाद बदले सुरक्षा समीकरणों के बीच इजरायल एक ऐतिहासिक मोड़ पर खड़ा है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'रियाद एयरपोर्ट, सऊदी ठिकानों को हमने ठोका', हूतियों की ललकारा तो यमन ने कर दी एयर स्ट्राइक",
-      "url": "https://hindi.news18.com/world/middle-east-houthi-claim-attack-on-riyad-airport-saudi-arabia-military-base-yemen-retaliates-with-strike-ws-bl-10937192.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-26T04:53:31+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Riyadh-airport-attack-Photo-2026-10-ef7d86f10083cc74f24c14c1364c56c8-1200x800.jpg",
-      "summary": "यमन के हूती विद्रोहियों ने सऊदी अरब की राजधानी रियाद पर बैलिस्टिक मिसाइलों से हमला किया है। उन्होंने किंग खालिद इंटरनेशनल एयरपोर्ट और कई सैन्य ठिकानों को निशाना बनाया है। यह हमला सीमा पार तनाव के बीच हुआ है। Houthi Attack on Saudi Arabia: यमन के हूती विद्रोहियों ने दावा किया है कि उन्होंने सऊदी अरब की राजधानी रियाद में मौजूद किंग खालिद इंटरनेशनल एयरपोर्ट पर हमला किया और सैन्य ठिकानों को भी ठोका है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'रियाद एयरपोर्ट, सऊदी ठिकानों को हमने ठोका', हूतियों की ललकारा तो यमन ने कर दी एयर स्ट्राइक",
-          "summary": "यमन के हूती विद्रोहियों ने सऊदी अरब की राजधानी रियाद पर बैलिस्टिक मिसाइलों से हमला किया है। उन्होंने किंग खालिद इंटरनेशनल एयरपोर्ट और कई सैन्य ठिकानों को निशाना बनाया है। यह हमला सीमा पार तनाव के बीच हुआ है। Houthi Attack on Saudi Arabia: यमन के हूती विद्रोहियों ने दावा किया है कि उन्होंने सऊदी अरब की राजधानी रियाद में मौजूद किंग खालिद इंटरनेशनल एयरपोर्ट पर हमला किया और सैन्य ठिकानों को भी ठोका है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "परदेस में भारतीय महिलाओं का सहारा बनी लेडीज कॉर्नर, सुशीला शर्मा हक की अगुवाई",
-      "url": "https://www.amarujala.com/world/pain-of-loneliness-ladies-corner-becomes-lifeline-for-indian-women-abroad-sushila-sharma-hak-leading-2026-10-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-26T04:30:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/ladies-corner-berlin_cb7810710d8cd51b6ec45c1a8a18789a.jpeg?w=1200&dpr=1.0",
-      "summary": "सुशीला शर्मा हक की अगुवाई में विदेशों में भारतीय महिलाओं के लिए लेडीज कॉर्नर का नेटवर्क सक्रिय है। यह पहल अकेलेपन और कठिनाइयों का सामना करने वाली महिलाओं को सामाजिक सहारा प्रदान करती है। अकेलेपन का दर्द: परदेस में भारतीय महिलाओं का सहारा बनी लेडीज कॉर्नर, सुशीला शर्मा हक की अगुवाई।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "परदेस में भारतीय महिलाओं का सहारा बनी लेडीज कॉर्नर, सुशीला शर्मा हक की अगुवाई",
-          "summary": "सुशीला शर्मा हक की अगुवाई में विदेशों में भारतीय महिलाओं के लिए लेडीज कॉर्नर का नेटवर्क सक्रिय है। यह पहल अकेलेपन और कठिनाइयों का सामना करने वाली महिलाओं को सामाजिक सहारा प्रदान करती है। अकेलेपन का दर्द: परदेस में भारतीय महिलाओं का सहारा बनी लेडीज कॉर्नर, सुशीला शर्मा हक की अगुवाई।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कल मतदान से पहले पीएम नेतन्याहू के तेवर बदले, 7 अक्तूबर 2023 की चूक पर देश की जनता कितनी नाराज?",
-      "url": "https://www.amarujala.com/world/israel-elections-pm-netanyahu-tone-shift-voting-on-27-people-anger-over-of-7-october-2023-security-lapses-2026-10-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-26T04:02:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/26/israel-elections_008ce736259051826511c5cd674c2b20.jpeg?w=1200&dpr=1.0",
-      "summary": "इज़राइल में आगामी चुनाव से पहले प्रधानमंत्री नेतन्याहू की रणनीति बदली। 7 अक्टूबर 2023 की घटनाओं पर जनता का असंतोष बढ़ा है। वोटिंग से पहले उनकी बयानबाज़ी में स्पष्ट बदलाव देखा गया। इस्राइल चुनाव: कल मतदान से पहले पीएम नेतन्याहू के तेवर बदले, 7 अक्तूबर 2023 की चूक पर देश की जनता कितनी नाराज?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कल मतदान से पहले पीएम नेतन्याहू के तेवर बदले, 7 अक्तूबर 2023 की चूक पर देश की जनता कितनी नाराज?",
-          "summary": "इज़राइल में आगामी चुनाव से पहले प्रधानमंत्री नेतन्याहू की रणनीति बदली। 7 अक्टूबर 2023 की घटनाओं पर जनता का असंतोष बढ़ा है। वोटिंग से पहले उनकी बयानबाज़ी में स्पष्ट बदलाव देखा गया। इस्राइल चुनाव: कल मतदान से पहले पीएम नेतन्याहू के तेवर बदले, 7 अक्तूबर 2023 की चूक पर देश की जनता कितनी नाराज?",
-          "region": "दुनिया"
         }
       }
     }
