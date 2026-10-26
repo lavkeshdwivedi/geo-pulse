@@ -1,138 +1,70 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 26, 2026 11:01 IST
-
----
-
-## दुनिया
-
-### [समीक्षा अधिकारी और सहायक समीक्षा अधिकारी के 501 पदों पर भर्ती, आज से आवेदन शुरू; जानें पूरी](https://www.amarujala.com/jobs/uppsc-ro-aro-recruitment-2026-applications-begin-for-501-posts-check-eligibility-age-limit-and-fees-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:54 IST (iso: 2026-10-26T05:24:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/uppsc-ro-aro-recruitment-2026_30f9806d43958e35fa5c1934842381d9.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर प्रदेश लोक सेवा आयोग ने समीक्षा अधिकारी और सहायक समीक्षा अधिकारी के 501 पदों के लिए आवेदन शुरू किए हैं। योग्य उम्मीदवार 26 नवंबर तक ऑनलाइन आवेदन कर सकते हैं। उत्तर प्रदेश लोक सेवा आयोग (UPPSC) ने समीक्षा अधिकारी (RO) और सहायक समीक्षा अधिकारी (ARO) भर्ती 2026 के लिए आवेदन प्रक्रिया शुरू कर दी है। इस भर्ती के तहत कुल 501 पदों पर नियुक्तियां होंगी।
-
-### [रंग-बिरंगी झालरों से बालकनी को बनाएं घर का सबसे खूबसूरत कोना, हर कोई करेगा तारीफ](https://www.amarujala.com/lifestyle/diwali-2026-how-to-decorate-balcony-with-colorful-string-lights-balcony-ko-kaise-sajaen-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:49 IST (iso: 2026-10-26T05:19:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/ragana-jhalra-sa-aisa-sajae-blkana_6f552039f356f8ddf94fc2855e591968.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली के अवसर पर बालकनी को रंग-बिरंगी झालरों और सजावट से घर का आकर्षक कोना बनाया जा सकता है। यह सरल तरीका घर को खूबसूरत बनाता है। दिवाली पर बालकनी सजाने के खूबसूरत तरीके। रंग-बिरंगी झालरों से बालकनी को बनाएं घर का सबसे खूबसूरत कोना, हर कोई करेगा तारीफ।
-
-### ['जेलर 2' का तूफान, 'उड़ता तीर' ने भरी ऊंची उड़ान, जानें 'दृश्यम 3' से लेकर 'नई नवेली' तक का हाल](https://www.amarujala.com/entertainment/box-office-collection-jailer-2-udta-teer-nayyi-navelli-pehla-pyaar-dusri-baar-drishyam-3-report-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:46 IST (iso: 2026-10-26T05:16:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/bkasa-oifasa-kalkashana_f023ecfce2b0b582a2a084e7299df476.jpeg?w=1200&dpr=1.0 -->
-
-सारा अली खान और आयुष्मान खुराना की फिल्म ने बॉक्स ऑफिस पर अपना पहला सप्ताह पूरा किया है। 'जेलर 2' और 'दृश्यम 3' भी अच्छी कमाई कर रही हैं। सिनेमाघरों में इन दिनों कई फिल्में लगी हुई हैं। सारा अली खान और आयुष्मान खुराना की फिल्म ने बॉक्स ऑफिस पर अपना एक हफ्ता पूरा कर लिया है। इसके अलावा 'जेलर 2' और 'दृश्यम 3' जैसी फिल्में भी शानदार कमाई कर रही हैं।
-
-### [त्योहार से पहले हल्का करें कर्ज का बोझ: होम लोन की ईएमआई बढ़ाएं या अवधि, जानें कैसे बचाएं लाखों](https://www.amarujala.com/business/business-diary/home-loan-emi-tips-5-ways-to-reduce-interest-and-repay-your-loan-faster-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:46 IST (iso: 2026-10-26T05:16:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/12/21/karaja-cakana-ka-upaya_ca41219f7b5d4f3e291eee511a122c3e.jpeg?w=1200&dpr=1.0 -->
-
-होम लोन की ईएमआई बढ़ाने या अवधि घटाने से ब्याज का बोझ कम होता है। त्योहारों से पहले यह कदम लाखों रुपये की बचत में मदद कर सकता है। उधारकर्ताओं को अपनी वित्तीय स्थिति के अनुसार विकल्प चुनना चाहिए। त्योहार से पहले हल्का करें कर्ज का बोझ: होम लोन की ईएमआई बढ़ाएं या अवधि, जानें कैसे बचाएं लाखों।
-
-### [इन 3 राशि वालों के शुरू होंगे अच्छे दिन, नवंबर तक बिजनेस में होगा जबरदस्त लाभ](https://www.amarujala.com/photo-gallery/astrology/predictions/surya-nakshatra-gochar-2026-these-zodiac-will-get-benefits-success-and-growth-in-career-2026-10-25)
-*Amar Ujala National* - Oct 26, 10:43 IST (iso: 2026-10-26T05:13:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/surya-nakshatra-gochar-2026_1a83d0e72042abd2559cedfd5492fcf3.jpeg?w=1200&dpr=1.0 -->
-
-सूर्य 24 अक्टूबर को राहु के नक्षत्र स्वाति में प्रवेश कर चुके हैं। वे 6 नवंबर तक इसी नक्षत्र में रहेंगे। Surya Nakshatra Gochar 2026: 24 अक्तूबर 2026 को सूर्य राहु के नक्षत्र स्वाति में प्रवेश कर चुके हैं और 6 नवंबर तक इसी नक्षत्र में रहेंगे। इन 3 राशि वालों के शुरू होंगे अच्छे दिन, नवंबर तक बिजनेस में होगा जबरदस्त लाभ।
-
-### [किन महिलाओं को नहीं रखना चाहिए निर्जला व्रत?](https://www.amarujala.com/photo-gallery/lifestyle/fitness/karwa-chauth-2026-who-should-avoid-fasting-without-water-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:39 IST (iso: 2026-10-26T05:09:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/karwa-chauth-2026_12426a2260ad10fd765aba15007ed7b1.jpeg?w=1200&dpr=1.0 -->
-
-करवाचौथ के व्रत से सेहत बिगड़ सकती है। ऐसे लोगों को व्रत रखने से बचना चाहिए जिनकी तबीयत खराब हो। Karwa Chauth Fasting Tips: हर महिला के लिए करवाचौथ का व्रत काफी अहम होता है। पर, अगर इसकी वजह से आपकी सेहत बिगड़ रही है तो आपको थोड़ा संभलने की जरूरत है। आइए जानते हैं कि किन लोगों को करवाचौथ का व्रत रखने से बचना चाहिए।
-
-### [मल्लिकार्जुन खरगे के बयान पर संग्राम, भाजपा देशभर में कर रही विरोध प्रदर्शन, बिना शर्त माफी की मांग](https://www.amarujala.com/live/india-news/congress-president-mallikarjun-kharge-controversial-statement-bjp-protests-live-remarks-on-pm-modi-father-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:39 IST (iso: 2026-10-26T05:09:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/mallkarajana-kharaga_fd1de8dc3c70d64e50e2851f4bbc0978.jpeg?w=1200&dpr=1.0 -->
-
-कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे के प्रधानमंत्री मोदी के पिता पर बयान के बाद भाजपा ने देशभर में विरोध प्रदर्शन शुरू किए हैं। पार्टी ने बिना शर्त माफी की मांग की है। मल्लिकार्जुन खरगे के बयान पर संग्राम, भाजपा देशभर में कर रही विरोध प्रदर्शन, बिना शर्त माफी की मांग।
-
-### [बच्चे पर आया संकट तो जान की परवाह किए बिना भिड़ गई मां, वायरल वीडियो ने जीता दिल](https://www.amarujala.com/bizarre-news/mother-langur-risks-her-life-to-save-baby-stuck-in-electric-wires-video-goes-viral-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:36 IST (iso: 2026-10-26T05:06:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/bjal-ka-tara-ma-fasa-bcaca-ka-sharara_9b222bcdc19167ecd6b97b6aa8cce666.jpeg?w=1200&dpr=1.0 -->
-
-एक माँ लंगूर ने बिजली के तारों में फंसे अपने बच्चे को बचाने के लिए जोखिम उठाया। बच्चे को सुरक्षित निकालने के बाद उसने उसे सीने से लगा लिया। बिजली के तारों में फंसे नन्हे लंगूर को बचाने के लिए उसकी मां ने हिम्मत दिखाई। बच्चे को बचाने के बाद वह उसे सीने से लगाकर बैठ गई। सोशल मीडिया पर यह भावुक वीडियो लोगों का दिल जीत रहा है।
-
-### [खाना खाते ही पेट फूलता है? जानिए भोजन के बाद कौन सा योगासन करना सही है](https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/which-yoga-is-best-after-eating-benefits-of-vajrasana-and-safety-tips-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:32 IST (iso: 2026-10-26T05:02:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/vajrasana_3e8aadc5bc4672ef28652b477f639e91.jpeg?w=1200&dpr=1.0 -->
-
-भोजन के बाद वज्रासन करने से पाचन में सुधार होता है। यह आसन पेट फूलने की समस्या को कम करने में सहायक माना जाता है। जानिए वज्रासन करने का सही तरीका, फायदे, सावधानियां और भोजन के बाद टहलने के लाभ। खाना खाते ही पेट फूलता है? जानिए भोजन के बाद कौन सा योगासन करना सही है।
-
-### [दो युवकों की हत्या, आज माैके पर जाएंगे डीजीपी गाैरव यादव; पीड़ित परिवारों से करेंगे बात](https://www.amarujala.com/punjab/chandigarh-punjab/moga-firing-two-killed-dgp-gaurav-yadav-visits-spot-all-update-2026-10-26)
-*Amar Ujala Breaking* - Oct 26, 10:30 IST (iso: 2026-10-26T05:00:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/punjab_cf9dcd70b1d25c1c88b571b6a6966f9f.jpeg?w=1200&dpr=1.0 -->
-
-मोगा के अंगदपुरा में दुकान के बाहर बैठे दो युवकों पर स्कॉर्पियो से आकर ताबड़तोड़ फायरिंग की गई। डीजीपी गौरव यादव घटनास्थल पर जाकर जांच करेंगे। मोगा के अंगदपुरा मोहल्ले में रविवार को एक दुकान के बाहर बैठे युवकों पर काले रंग की स्कॉर्पियो में आए कुछ लोगों ने ताबड़तोड़ फायरिंग कर दी थी। दो युवकों की हत्या, आज माैके पर जाएंगे डीजीपी गाैरव यादव; पीड़ित परिवारों से करेंगे बात।
-
-### [निजी अस्पतालों की मनमानी पर लगेगी लगाम, दवाओं से लेकर कई चीजों की कीमतों पर नियंत्रण; सरकार लाएगी](https://www.amarujala.com/india-news/keralam-government-bill-regulate-private-hospital-charges-health-minister-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:30 IST (iso: 2026-10-26T05:00:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/keralam_88885b7ee20036663a7ccd9efe78bc4a.jpeg?w=1200&dpr=1.0 -->
-
-केरल सरकार निजी अस्पतालों की कीमतों पर नियंत्रण के लिए बिल पेश करेगी। इससे दवाओं और अन्य सेवाओं की कीमतों पर सीमा लगेगी। निजी अस्पतालों की मनमानी पर लगेगी लगाम, दवाओं से लेकर कई चीजों की कीमतों पर नियंत्रण; सरकार लाएगी।
-
-### [क्या रोजाना सेब खाने से कम होता है कोलेस्ट्रॉल और हृदय रोगों का खतरा? जान लीजिए ये बातें](https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-eating-apples-daily-may-benefit-your-heart-roj-apple-khane-ke-fayde-2026-10-25)
-*Amar Ujala National* - Oct 26, 10:30 IST (iso: 2026-10-26T05:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/fruits-apple_09e78d2a8284f95e480c4179862b9da6.jpeg?w=1200&dpr=1.0 -->
-
-सेब में मौजूद घुलनशील फाइबर नियमित सेवन पर खराब कोलेस्ट्रॉल और ट्राइग्लिसराइड के स्तर को नियंत्रित रखने में सहायक होता है। यह फल पाचन तंत्र को सुचारू रखने और रक्त शर्करा को संतुलित करने में भी योगदान देता है। सेब पोषक तत्वों और घुलनशील फाइबर से भरपूर फल है। इसका नियमित सेवन बैड कोलेस्ट्रॉल और ट्राइग्लिसराइड के स्तर को बेहतर बनाए रखने में मदद कर सकता है।
-
-### [जामिया में 20 साल बाद होंगे छात्र संघ चुनाव, प्रशासन ने जारी किया आदेश, जानें कब होगी वोटिंग?](https://www.amarujala.com/education/jamia-student-union-election-polls-to-be-held-15-days-after-constitution-approval-administration-issues-orde-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:10 IST (iso: 2026-10-26T04:40:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/jamia-student-union-elections_8a35d3c12395a5f1126e6cc6e11abb11.jpeg?w=1200&dpr=1.0 -->
-
-जामिया मिल्लिया इस्लामिया में लगभग 20 वर्षों के बाद छात्र संघ चुनाव हो सकते हैं। प्रशासन ने संविधान की मंजूरी के 15 दिन बाद मतदान का आदेश जारी किया है। यह निर्णय छात्रों पर लगे निलंबन के बाद आया है। जामिया मिल्लिया इस्लामिया में करीब 20 साल बाद छात्र संघ चुनाव होने की उम्मीद जगी है। विश्वविद्यालय प्रशासन ने आदेश जारी कर कहा है कि छात्र संघ के संविधान को मंजूरी मिलने के 15 दिन बाद चुनाव कराए जाएंगे।
-
-### [कल मतदान से पहले पीएम नेतन्याहू के तेवर बदले, 7 अक्तूबर 2023 की चूक पर देश की जनता कितनी नाराज?](https://www.amarujala.com/world/israel-elections-pm-netanyahu-tone-shift-voting-on-27-people-anger-over-of-7-october-2023-security-lapses-2026-10-26)
-*Amar Ujala World* - Oct 26, 09:32 IST (iso: 2026-10-26T04:02:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/israel-elections_008ce736259051826511c5cd674c2b20.jpeg?w=1200&dpr=1.0 -->
-
-इज़राइल में आगामी चुनाव से पहले प्रधानमंत्री नेतन्याहू की रणनीति बदली। 7 अक्टूबर 2023 की घटनाओं पर जनता का असंतोष बढ़ा है। वोटिंग से पहले उनकी बयानबाज़ी में स्पष्ट बदलाव देखा गया। इस्राइल चुनाव: कल मतदान से पहले पीएम नेतन्याहू के तेवर बदले, 7 अक्तूबर 2023 की चूक पर देश की जनता कितनी नाराज?
-
-### [रायपुर-बिलासपुर हाइवे पर खड़े ट्रक से टकराई तेज रफ्तार बस, 3 यात्रियों की मौत, 10 घायल](https://www.amarujala.com/chhattisgarh/chhattisgarh-road-accident-on-raipur-bilaspur-highway-3-passengers-died-and-10-injured-2026-10-26)
-*Amar Ujala Breaking* - Oct 26, 09:09 IST (iso: 2026-10-26T03:39:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/cg-news_13e681a2b4b43ea2ce7dae392990c64b.jpeg?w=1200&dpr=1.0 -->
-
-रायपुर-बिलासपुर हाइवे पर तेज़ रफ़्तार बस खड़े ट्रक से टकराई। सिमगा थाना क्षेत्र में हुई इस दुर्घटना में तीन यात्रियों की मौत हुई। दस से अधिक लोग घायल हुए। मृतकों की संख्या बढ़ सकती है। 10 से ज्यादा लोग घायल बताए जा रहे हैं। मृतकों और घायलों की संख्या बढ़ भी सकती है। यह सड़क दुर्घटना सिमगा थाना क्षेत्र की है।
-
----
-
-## एशिया-प्रशांत
-
-### [कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठग चुका विक्रांत तोमर, न्यायिक हिरासत](https://www.amarujala.com/delhi-ncr/vikrant-tomar-has-swindled-over-50-female-police-constables-from-delhi-up-and-haryana-2026-10-26)
-*Amar Ujala Breaking* - Oct 26, 10:36 IST (iso: 2026-10-26T05:06:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/1_ddd43e14aedff96412a78d60de82bf75.jpeg?w=1200&dpr=1.0 -->
-
-बागपत के विक्रांत तोमर ने कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठगा। उसे न्यायिक हिरासत में भेज दिया गया है। यूपी के बागपत का 23 वर्ष का विक्रांत तोमर उर्फ विक्की तोमर अब तक दिल्ली, यूपी व हरियाणा में 50 से ज्यादा महिला सिपाहियों को ठग चुका है। कारोबारी बनकर दिल्ली, यूपी और हरियाणा की 50 महिला सिपाहियों को ठग चुका विक्रांत तोमर, न्यायिक हिरासत।
-
-### [ईशान किशन की चोट पर बड़ा अपडेट: तीसरे टी20 में खेलेंगे या नहीं, बीसीसीआई ने क्या बताया? कुशाग्र को](https://www.amarujala.com/cricket/ishan-kishan-ruled-out-of-3rd-t20i-against-new-zealand-as-precaution-india-lead-series-2-0-2026-10-26)
-*Amar Ujala Breaking* - Oct 26, 10:11 IST (iso: 2026-10-26T04:41:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/18/ishan-kishan-biography-ishan-kishan_657165670cb45da862a9548be723a149.jpeg?w=1200&dpr=1.0 -->
-
-ईशान किशन दाएं एडडक्टर मांसपेशी में खिंचाव के कारण न्यूजीलैंड के खिलाफ तीसरे टी20 मैच से बाहर हो गए हैं। बीसीसीआई और मोर्ने मोर्केल ने इस चोट की पुष्टि की है। वे इस मुकाबले में खेल नहीं पाएंगे। ईशान किशन दाएं एडडक्टर मांसपेशी में खिंचाव के कारण न्यूजीलैंड के खिलाफ तीसरे टी20 अंतरराष्ट्रीय मुकाबले से बाहर हो गए हैं। मोर्ने मोर्केल और बीसीसीआई ने इसकी पुष्टि की।
-
-### [परदेस में भारतीय महिलाओं का सहारा बनी लेडीज कॉर्नर, सुशीला शर्मा हक की अगुवाई](https://www.amarujala.com/world/pain-of-loneliness-ladies-corner-becomes-lifeline-for-indian-women-abroad-sushila-sharma-hak-leading-2026-10-26)
-*Amar Ujala World* - Oct 26, 10:00 IST (iso: 2026-10-26T04:30:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/ladies-corner-berlin_cb7810710d8cd51b6ec45c1a8a18789a.jpeg?w=1200&dpr=1.0 -->
-
-सुशीला शर्मा हक की अगुवाई में विदेशों में भारतीय महिलाओं के लिए लेडीज कॉर्नर का नेटवर्क सक्रिय है। यह पहल अकेलेपन और कठिनाइयों का सामना करने वाली महिलाओं को सामाजिक सहारा प्रदान करती है। अकेलेपन का दर्द: परदेस में भारतीय महिलाओं का सहारा बनी लेडीज कॉर्नर, सुशीला शर्मा हक की अगुवाई।
-
-### [आज से 12वां ब्रिक्स संसदीय मंच, 21 देशों के प्रतिनिधिमंडल पहुंचे; पीएम मोदी करेंगे स्पीकर्स से](https://www.amarujala.com/india-news/12th-brics-parliamentary-forum-delhi-delegations-from-21-nations-pm-modi-om-birla-2026-10-26)
-*Amar Ujala Breaking* - Oct 26, 09:54 IST (iso: 2026-10-26T04:24:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/brics-parliamentary-forum_94849f7053814569d8e982cd7d8ac608.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली में 12वां ब्रिक्स संसदीय मंच शुरू हो गया है। 21 देशों के प्रतिनिधिमंडल इस कार्यक्रम में शामिल हुए हैं। प्रधानमंत्री मोदी भी संसद के स्पीकर्स से मुलाकात करेंगे। आज से 12वां ब्रिक्स संसदीय मंच, 21 देशों के प्रतिनिधिमंडल पहुंचे; पीएम मोदी करेंगे स्पीकर्स से।
-
-### [सेंसेक्स 500 अंक से अधिक गिरा, निफ्टी 22450 के नीचे; जानिए बाजार का हाल](https://www.amarujala.com/business/bazaar/sensex-closing-bell-share-market-closing-sensex-nifty-share-market-news-and-updates-2026-10-26)
-*Amar Ujala Breaking* - Oct 26, 09:35 IST (iso: 2026-10-26T04:05:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0 -->
-
-सोमवार को भारतीय शेयर बाजार में भारी गिरावट दर्ज की गई। सेंसेक्स 500 अंक से अधिक गिरा और निफ्टी 22,450 के नीचे बंद हुआ। कच्चे तेल की कीमतें और फेडरल रिजर्व का फैसला चिंता का कारण बने। सोमवार को भारतीय शेयर बाजार में बड़ी गिरावट दर्ज की गई। सेंसेक्स 500 अंक से अधिक लुढ़का, जबकि निफ्टी 22,450 के नीचे बंद हुआ।
+**अपडेट:** October 26, 2026 17:10 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [अस्पतालों पर बमबारी, डॉक्टरों को धमकी… युद्ध के बीच WMA ने क्या कहा?](https://hindi.news18.com/news/defence/war-hospital-attacks-wma-medical-neutrality-declaration-10938433.html)
+*News18 Hindi (World)* - Oct 26, 16:45 IST (iso: 2026-10-26T11:15:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-10-26T163538.376-2026-10-5a1014310ce00aa5c7fd9396e01a31d0-1200x800.jpg -->
+
+वर्ल्ड मेडिकल एसोसिएशन ने गाजा और यूक्रेन में अस्पतालों पर हमलों की जांच की मांग की है। संगठन ने चिकित्सा तटस्थता की रक्षा और जिम्मेदारों के खिलाफ कार्रवाई की अपील की है। गाजा से यूक्रेन तक संघर्ष प्रभावित क्षेत्रों में अस्पतालों, एंबुलेंस और स्वास्थ्यकर्मियों की सुरक्षा पर चिंता बढ़ी है. वर्ल्ड मेडिकल एसोसिएशन ने चिकित्सा तटस्थता की रक्षा, हमलों की जांच और जिम्मेदार लोगों को जवाबदेह ठहराने की मांग की है.
+
+### [डोनाल्ड ट्रंप के आदेश के 96 घंटों के भीतर ईरान पर हमले कर सकती है अमेरिकी सेना!](https://www.patrika.com/world-news/us-army-ready-for-attacks-on-iran-within-96-hours-of-donald-trump-order-21009718)
+*Patrika (World)* - Oct 26, 16:21 IST (iso: 2026-10-26T10:51:49+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/angry-trump-1.webp -->
+
+अमेरिकी सेना ईरान पर हमले के लिए तैयार है। ईरान ने कहा कि उसकी सेना जवाबी कार्रवाई के लिए हर मोर्चे पर तैयार है। ईरान (Iran) और अमेरिका (United States of America) के बीच अमेरिकी मिडटर्म चुनाव के बाद फिर युद्ध शुरू होने की संभावना जताई जा रही है। ईरान ने साफ कर दिया है कि उसकी सेना अमेरिकी हमलों का जवाब देने के लिए हर मोर्चे पर तैयारी कर रही है।
+
+### [इजरायल में कल चुनाव- अगर नेतन्याहू हारे तो भारत पर पड़ेगा क्या असर?](https://www.patrika.com/world-news/israel-election-netanyahu-future-india-israel-relations-middle-east-crisis-21009630)
+*Patrika (World)* - Oct 26, 16:17 IST (iso: 2026-10-26T10:47:27+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu-1.webp -->
+
+इजरायल में 27 अक्टूबर को आम चुनाव हो रहे हैं। बेंजामिन नेतन्याहू का भविष्य मतपेटियों में निर्धारित होगा। गाजा और ईरान संघर्ष ने उन्हें सवालों के घेरे में रखा है। Israel Elections 2026: इजरायल के लिए कल यानी 27 अक्टूबर को दिन अहम है और पूरी दुनिया की तरह भारत की नजरें भी इजरायल पर टिकी हैं। कल इजरायल में आम चुनाव हैं, यानी इस यहूदी देश के सबसे विवादित नेता बेंजामिन नेतन्याहू का भविष्य मतपेटियों में बंद होने वाला है।
+
+### [अपनी चौखट छोड़ सऊदी की पहरेदारी में जुटा पाकिस्तान, मिसाइलें, एयर डिफेंस और ड्रोन भेजा, आखिर माजरा](https://hindi.news18.com/world/pakistan-send-military-help-to-saudi-arabia-missiles-drones-air-defence-systems-troop-deployments-houthi-attack-10938239.html)
+*News18 Hindi (World)* - Oct 26, 16:03 IST (iso: 2026-10-26T10:33:28+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-air-defence-2026-10-cd37e235c9d8afca899015ba9f6e4568-1200x800.jpg -->
+
+पाकिस्तान ने सऊदी अरब को मिसाइलें, ड्रोन और एयर डिफेंस सिस्टम भेजने का दावा किया है। सैनिकों की तैनाती बढ़ाने की भी बात कही गई है। इन दावों की स्वतंत्र पुष्टि नहीं हुई है। Saudi Arabia Pakistan News: सऊदी अरब की सुरक्षा चिंताओं के बीच पाकिस्तान की ओर से सैन्य मदद बढ़ाने का दावा किया गया है. रिपोर्ट के मुताबिक, इस्लामाबाद ने सऊदी अरब को मिसाइलें, रॉकेट, ड्रोन और एयर डिफेंस सिस्टम भेज रहा है.
+
+### [‘इज़रायल में चुनावी नतीजों से ईरान को नहीं पड़ता कोई फर्क’, इस्माइल बघाई की दो-टूक](https://www.patrika.com/world-news/israel-election-results-make-no-difference-to-iran-says-esmaeil-baghaei-21009622)
+*Patrika (World)* - Oct 26, 15:54 IST (iso: 2026-10-26T10:24:27+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/baghaei.webp -->
+
+ईरान के विदेश मंत्रालय प्रवक्ता इस्माइल बघाई ने कहा कि इज़रायल के 27 नवंबर के चुनाव उनके लिए महत्वपूर्ण नहीं हैं। ट्रंप ने नेतन्याहू का समर्थन किया है। ईरान के लिए चुनावी परिणाम कोई फर्क नहीं पड़ते। इज़रायल (Israel) में 27 नवंबर को चुनाव है। अमेरिका (United States of America) के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) खुलकर वर्तमान इज़रायली पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) का समर्थन कर चुके हैं।
+
+### [जॉर्डन में सुरक्षाबलों ने 3 लोगों को किया गिरफ्तार, चर्च में अंतिम संस्कार के दौरान मचाया था कत्लेआम](https://www.patrika.com/world-news/three-people-arrested-in-jordan-for-church-shooting-21009488)
+*Patrika (World)* - Oct 26, 15:11 IST (iso: 2026-10-26T09:41:42+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/handcuffed_0a1832.webp -->
+
+जॉर्डन में चर्च हमले के आरोप में तीन लोगों को गिरफ्तार किया गया। 23 अक्टूबर के हमले में नौ लोग मारे गए थे। चालीस लोग घायल हुए थे। जॉर्डन (Jordan) में शुक्रवार, 23 अक्टूबर को एक चर्च पर हुए आतंकी हमले (Terrorist Attack) में 9 लोगों की मौत हो गई। पहले मृतकों की संख्या 7 बताई जा रही थी, जो बाद में बढ़कर 8 हुई और फिर 9।
+
+### [हूती विद्रोहियों ने रियाद पर किया मिसाइलों और ड्रोन्स से हमला, सऊदी अरब ने सना पर की एयरस्ट्राइक्स](https://www.patrika.com/world-news/houthis-attacks-riyadh-with-missiles-and-drones-saudi-arabia-airstrikes-sanaa-21009416)
+*Patrika (World)* - Oct 26, 14:42 IST (iso: 2026-10-26T09:12:15+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/houthis-missile-attack.webp -->
+
+यमन के हूती विद्रोहियों ने सऊदी अरब की राजधानी रियाद पर मिसाइलों और ड्रोन से हमला किया। जवाब में सऊदी सेना ने यमनी शहर सना पर हवाई हमले किए। पिछले दो महीनों से दोनों पक्षों के बीच ऐसी आपसी सैन्य कार्रवाइयां जारी हैं। यमन (Yemen) के हूती विद्रोहियों (Houthis) न सिर्फ देश की सरकारी सेना से जंग लड़ रहे हैं, बल्कि सऊदी अरब (Saudi Arabia) के खिलाफ भी सैन्य कार्रवाई कर रहे हैं।
+
+### [सऊदी अरब में 1.52 लाख रुपये होगी सैलरी, क्या 27 लाख भारतीयों को मिलेगा फायदा?](https://hindi.news18.com/news/career/jobs-saudi-arabia-new-salary-rules-announced-by-king-salman-royal-decree-2026-minimum-wage-2027-how-much-saudi-arabia-salary-hike-for-indians-10937906.html)
+*News18 Hindi (World)* - Oct 26, 14:34 IST (iso: 2026-10-26T09:04:13+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/NEET-PAPER-LEAK-80-2026-10-d31f45d5e6c67c6fd917002fbb5902f3-1200x800.jpg -->
+
+सऊदी अरब ने प्राइवेट सेक्टर में न्यूनतम वेतन के नियमों में बदलाव किया है। अप्रैल 2027 से न्यूनतम वेतन 5,000 रियाल होगा। यह निर्णय वहां रहने वाले 27.4 लाख भारतीय मजदूरों को प्रभावित करेगा। भारत सरकार के आंकड़ों के मुताबिक अकेले 2025 में 1.36 लाख से ज्यादा भारतीय कामगारों को सऊदी अरब जाने के लिए इमिग्रेशन क्लीयरेंस मिली थी. अब सऊदी अरब के किंग सलमान ने प्राइवेट सेक्टर में वेतन से जुड़े नियमों में बड़ा बदलाव किया है.
+
+### [ईरान का ऐसा डर, मनाने पहुंचे सऊदी-पाकिस्तान-तुर्की, तेहरान में मक्का पैक्ट का दम दिखाएंगे आसिम मुनीर](https://hindi.news18.com/world/america-mecca-pact-saudi-arabia-turkey-and-pakistan-meeting-in-iran-tehran-to-end-war-with-us-houthi-attack-10937617.html)
+*News18 Hindi (World)* - Oct 26, 13:34 IST (iso: 2026-10-26T08:04:19+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-iran-news-2026-10-210c13a145e34119bfa855ec1223e0c2-1200x800.jpg -->
+
+अमेरिका और ईरान के बीच युद्ध की आशंका को देखते हुए सऊदी अरब, तुर्की और पाकिस्तान के अधिकारी तेहरान में बैठक करेंगे। सोमवार को होने वाली इस गोपनीय बैठक में पश्चिम एशिया के तनाव को कम करने के उपायों पर चर्चा होगी। अमेरिका और ईरान के बीच फिर से युद्ध की आशंका बढ़ी हुई है. दोबारा युद्ध न शुरू हो, इसके लिए सऊदी अरब, तुर्की और पाकिस्तान के शीर्ष अधिकारी तेहरान में ईरानी नेतृत्व से बातचीत करने वाले हैं.
+
+### [सऊदी अरब, तुर्की और पाकिस्तान के नेता पहुंचेंगे तेहरान, क्या इस बातचीत से निकलेगा जंग खत्म होने का](https://www.patrika.com/world-news/mecca-pact-saudi-turkey-pakistan-officials-meet-iran-tehran-21009136)
+*Patrika (World)* - Oct 26, 12:54 IST (iso: 2026-10-26T07:24:29+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Pakistan-Terrorism-Allegations.webp -->
+
+सऊदी अरब, तुर्की और पाकिस्तान के शीर्ष अधिकारी सोमवार को तेहरान जाएंगे। वे ईरान के नेताओं से क्षेत्रीय समन्वय पर बात करेंगे। रक्षा मंत्री खालिद बिन सलमान और फील्ड मार्शल असीम मुनीर शामिल होंगे। Mecca Pact: मक्का पैक्ट में शामिल देश सऊदी अरब, तुर्किये और पाकिस्तान के शीर्ष अधिकारी सोमवार को तेहरान में ईरान के सीनियर नेताओं से मुलाकात करेंगे।
 
 ### [इजरायल में कैसे होते हैं चुनाव? भारत से कितनी अलग है वोटिंग प्रणाली, जानिए सरकार बनाने का पूरा गणित](https://hindi.news18.com/world/middle-east-what-is-israel-elections-process-how-does-its-voting-system-differ-from-india-learn-full-arithmetic-behind-govt-formation-10937138.html)
 *News18 Hindi (World)* - Oct 26, 10:27 IST (iso: 2026-10-26T04:57:06+00:00)
@@ -148,29 +80,97 @@
 
 ---
 
-## यूरोप और रूस
+## एशिया-प्रशांत
 
-### [1.5K विजनॉक्स ओएलईडी डिस्प्ले और 64MP कैमरे के साथ आ सकता है फोन, अलग से लगा पाएंगे टेलीफोटो लेंस](https://www.amarujala.com/technology/tech-diary/vivo-s70-oled-display-64mp-periscope-camera-telephoto-converter-leaks-2026-10-26)
-*Amar Ujala National* - Oct 26, 10:10 IST (iso: 2026-10-26T04:40:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/vivo-s70_bb988e13f706d20b37e01753dd9d239e.jpeg -->
+### ['हम तो समझौते निभा रहे हैं' अरुणाचल बॉर्डर को लेकर चीन ने दी सफाई, साथ ही भारत से की अपील](https://hindi.news18.com/world/china-india-border-standoff-china-reaction-on-arunachal-pradesh-itbp-10938436.html)
+*News18 Hindi (World)* - Oct 26, 16:43 IST (iso: 2026-10-26T11:13:09+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/china-india-2026-10-727adddae8685616428d2be6f98f6b84-1200x800.jpg -->
 
-वीवो S70 स्मार्टफोन की लीक हुई जानकारी में 1.5K OLED डिस्प्ले और स्नैपड्रैगन 8s Gen 4 चिपसेट शामिल है। इसमें 64MP पेरिस्कोप कैमरा भी मिलेगा जो 3x ऑप्टिकल जूम की सुविधा देगा। वीवो अपनी S सीरीज में नया स्मार्टफोन Vivo S70 पेश करने की तैयारी कर सकता है। लीक के मुताबिक, इसमें 1.5K OLED डिस्प्ले, Snapdragon 8s Gen 4 चिपसेट और 3x ऑप्टिकल जूम वाला 64MP पेरिस्कोप कैमरा मिल सकता है।
+चीन के प्रवक्ता गुओ जियाकुन ने कहा कि भारत-चीन सीमा पर दोनों देशों के समझौतों का पालन हो रहा है। उन्होंने नियमित गश्त और राजनयिक संपर्क बनाए रखने की बात कही है। भारत-चीन सीमा पर सैनिकों के आमने-सामने आने की खबरों के बीच चीन ने कहा है कि वह दोनों देशों के बीच हुए समझौतों और सहमतियों का पालन कर रहा है.
 
-### [तूफानी हवाओं से लड़खड़ाया विमान, गिरते-पड़ते रनवे पर फिसला, हलक में अटकी यात्रियों की जान](https://hindi.news18.com/world/britain-jet2-airlines-boeing-737-800-skids-on-runway-at-birmingham-as-storm-boelo-crosswinds-hit-uk-ws-l-10937162.html)
-*News18 Hindi (World)* - Oct 26, 09:49 IST (iso: 2026-10-26T04:19:17+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/plane-accident-n-2026-10-30153ab6d45bad8dab42c3e6138a010e-1200x800.jpg -->
+### [इमरान खान की 3 बहनों को अभी नहीं मिलेगी रिहाई, पाकिस्तान सरकार ने 30 दिन और बढ़ाई हिरासत](https://hindi.news18.com/world/pakistan-imran-khan-sisters-aleema-khan-noreen-niazi-uzma-khan-detention-extended-30-days-10938240.html)
+*News18 Hindi (World)* - Oct 26, 15:42 IST (iso: 2026-10-26T10:12:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pak-2026-10-79ef97d5dbec074185f04aaa38c31b32-1200x800.jpg -->
 
-बर्मिंघम एयरपोर्ट पर जेट2 एयरलाइंस का विमान तूफानी हवाओं के कारण रनवे से बाहर निकल गया। पायलट ने विमान को संभालकर सुरक्षित रोक लिया। इस घटना में यात्रियों को कोई चोट नहीं लगी। Jet2 Airlines Plane Leaves Runway: इंग्लैंड के बर्मिंघम एयरपोर्ट पर उस वक्त एक प्लेन हादसा टल गया, जब पायलट ने रनवे से उतर चुके विमान को संभाला और ट्रैक पर लाया.
+पंजाब सरकार ने इमरान खान की तीन बहनों की हिरासत 30 दिन के लिए बढ़ा दी है। अलीमा खान, नोरीन नियाजी और उज्मा खान कोट लखपत जेल में बंद हैं। उन्हें अभी रिहाई नहीं मिलेगी। पाकिस्तान में पूर्व प्रधानमंत्री इमरान खान की तीन बहनों की मुश्किलें बढ़ गई हैं. पंजाब सरकार ने अलीमा खान, नोरीन नियाजी और डॉ. उज्मा खान की हिरासत 30 दिन के लिए और बढ़ा दी है.
+
+### [अंतरिक्ष में चीन का 'डिजिटल चक्रव्यूह', इंटरनेट सैटेलाइट्स की नई खेप लॉन्च, क्या बढ़ेगी एलन मस्क की](https://hindi.news18.com/world/china-launched-28th-group-of-low-orbit-internet-satellites-long-march-8a-rocket-competition-with-starlink-10938094.html)
+*News18 Hindi (World)* - Oct 26, 15:13 IST (iso: 2026-10-26T09:43:41+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/china-satellite-2026-10-001f377795e90bfb6e15dc1fa8ff8fd1-1200x800.jpg -->
+
+चीन ने वाणिज्यिक अंतरिक्ष केंद्र से 28वां इंटरनेट सैटेलाइट समूह लॉन्च किया। लॉन्ग मार्च-8A रॉकेट ने उन्हें कक्षा में पहुँचाया। यह लॉन्ग मार्च सीरीज की 674वीं उड़ान थी। China Internet Satellite Launch: चीन ने रविवार को हैनान के वाणिज्यिक अंतरिक्ष केंद्र से लॉन्ग मार्च-8A रॉकेट के जरिए इंटरनेट सैटेलाइट्स का 28वां ग्रुप लॉन्च किया. ये सैटेलाइट्स अपनी तय कक्षा में पहुंच गए.
+
+### [ऑस्ट्रेलिया में नौकरी तलाश रहे भारतीयों के लिए खबर, बदल गए हैं वीजा आवेदन के नियम, अभी जानें](https://hindi.news18.com/world/rest-of-world-australia-changes-rules-for-visa-implemented-from-today-biometric-information-10937591.html)
+*News18 Hindi (World)* - Oct 26, 12:57 IST (iso: 2026-10-26T07:27:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/australia-visa-2026-10-320fa3d4cd91840a2b8d0157a4098040-1200x800.jpg -->
+
+ऑस्ट्रेलिया ने आज से नए वीजा नियम लागू किए हैं। भारतीय नौकरी तलाशने वालों को आवेदन प्रक्रिया में बदलाव का सामना करना होगा। अनजानगी में आवेदन प्रभावित हो सकते हैं। Australia Visa Rules Change: ऑस्ट्रेलिया में जाकर नौकरी करने का ख्वाब देखने वाले भारतीयों के लिए एक अहम खबर है. इस देश ने अपने वीजा के नियमों में बदलाव किया है और ये नए नियम आज से ही लागू हो गए हैं.
+
+### [ब्राजील में लूला ने रचा इतिहास, पहले दौर में पिछड़ने के बाद हासिल की जीत, पीएम मोदी ने दी बधाई](https://www.patrika.com/world-news/brazil-election-lula-da-silva-wins-fourth-term-pm-modi-congratulates-21008905)
+*Patrika (World)* - Oct 26, 12:35 IST (iso: 2026-10-26T07:05:30+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Lula-da-Silva.webp -->
+
+लुइज इनासियो लूला डी सिल्वा ने ब्राजील के राष्ट्रपति चुनाव में पहली बार में जीत दर्ज की। प्रधानमंत्री नरेंद्र मोदी ने उन्हें बधाई दी। दोनों देशों के बीच रणनीतिक साझेदारी को गहरा करने का संकेत दिया गया। Lula da Silva Brazil Presidential Election: प्रधानमंत्री नरेंद्र मोदी ने ब्राजील राष्ट्रपति चुनाव में शानदार जीत हासिल करने पर लुइज इनासियो लूला डी सिल्वा को बधाई दी है।
+
+### [8 भारतवंशी उम्मीदवार मैदान में, जानें कौन कहां से ठोक रहा ताल](https://www.patrika.com/world-news/2026-us-midterm-elections-candidates-update-news-21009013)
+*Patrika (World)* - Oct 26, 12:15 IST (iso: 2026-10-26T06:45:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/US-Midterm-Elections-2026.webp -->
+
+अमेरिका के 3 नवंबर के मिड-टर्म चुनावों में आठ भारतीय मूल के उम्मीदवार मैदान में हैं। ये चुनाव ट्रंप के दूसरे कार्यकाल के बीच हो रहे हैं। महंगाई और ऊर्जा की कीमतें प्रमुख मुद्दे बनी हुई हैं। अमरीका में 3 नवंबर को होने वाले मिड-टर्म चुनाव में भारतीय मूल के उम्मीदवारों की मौजूदगी चर्चा में है। राष्ट्रपति डॉनल्ड ट्रंप के दूसरे कार्यकाल के बीच होने वाले इन चुनावों में अर्थव्यवस्था, महंगाई और ऊर्जा की कीमतें प्रमुख मुद्दे हैं।
+
+### ['प्यारे दोस्त' की वापसी पर भारत का क्या फायदा? बिजनेस से लेकर पॉलिटिक्स तक बल्ले-बल्ले](https://hindi.news18.com/world/south-asia-why-lula-da-silva-victory-in-brazil-election-is-good-for-india-brics-trade-global-south-ws-l-10937540.html)
+*News18 Hindi (World)* - Oct 26, 12:09 IST (iso: 2026-10-26T06:39:55+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/lula-modi-n-2026-10-e01cabd0a43ab3f14f266d5b05da0f33-1200x800.jpg -->
+
+लूला की वापसी से भारत-ब्राजील संबंधों को लाभ मिलेगा। पिछले कुछ वर्षों में दोनों देशों के रिश्ते गहरे हुए हैं। व्यापार और राजनीतिक सहयोग के नए अवसर खुलने की उम्मीद है। Brazil Election Result for India: ब्राजील में चुनाव के नतीजे सिर्फ इसी देश के लिए बल्कि वैश्विक राजनीति के लिए भी काफी अहम रहने वाला है. अगर हम बात करें भारत की तो ब्राजील के साथ हमारे रिश्ते पिछले कुछ वर्षों में काफी गहरे हुए हैं, ऐसे में चलिए जानते हैं कि हमें लूला दा सिल्वा की वापसी से क्या फायदा होने वाला है?
+
+### [अफगानिस्तान में कांपी धरती, 5.2 तीव्रता के भूकंप ने दहलाया, घरों से भाग खड़े हुए लोग](https://hindi.news18.com/world/south-asia-afghanistan-hit-by-5-magnitude-earthquake-midnight-people-scared-ws-l-10937264.html)
+*News18 Hindi (World)* - Oct 26, 11:09 IST (iso: 2026-10-26T05:39:33+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/earthquake-news-2026-10-533d9f5b784715b7bcba7e5febf313d6-1200x800.jpg -->
+
+अफगानिस्तान में 25 अक्टूबर की रात 5.2 तीव्रता का भूकंप आया। लोगों ने घबराकर घरों से बाहर निकलना शुरू कर दिया। प्रारंभिक रिपोर्टों के अनुसार इससे जान-माल का कोई बड़ा नुकसान नहीं हुआ है। Afghanistan Earthquake: अफगानिस्तान में एक बार फिर से 25 अक्टूबर की रात में धरती कांप गई. रिक्टर स्केल पर इसकी तीव्रता 5.2 मैग्नीट्यूड दर्ज की गई और लोग घबराकर घरों से बाहर निकल आए.
+
+### [परदेस में भारतीय महिलाओं का सहारा बनी लेडीज कॉर्नर, सुशीला शर्मा हक की अगुवाई](https://www.amarujala.com/world/pain-of-loneliness-ladies-corner-becomes-lifeline-for-indian-women-abroad-sushila-sharma-hak-leading-2026-10-26)
+*Amar Ujala World* - Oct 26, 10:00 IST (iso: 2026-10-26T04:30:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/ladies-corner-berlin_cb7810710d8cd51b6ec45c1a8a18789a.jpeg?w=1200&dpr=1.0 -->
+
+सुशीला शर्मा हक की अगुवाई में विदेशों में भारतीय महिलाओं के लिए लेडीज कॉर्नर का नेटवर्क सक्रिय है। यह पहल अकेलेपन और कठिनाइयों का सामना करने वाली महिलाओं को सामाजिक सहारा प्रदान करती है। अकेलेपन का दर्द: परदेस में भारतीय महिलाओं का सहारा बनी लेडीज कॉर्नर, सुशीला शर्मा हक की अगुवाई।
 
 ---
 
 ## अमेरिका
 
-### [ट्रंप के हाथ से निकला दूसरा 'वेनेजुएला', भगवान ने बचा लिया, आखिरी वक्त में बदली बिसात वरना लग गई थी](https://hindi.news18.com/world/rest-of-world-brazil-election-result-disappointing-for-trump-lula-da-silva-credits-god-for-win-ws-l-10936860.html)
-*News18 Hindi (World)* - Oct 26, 09:11 IST (iso: 2026-10-26T03:41:51+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/lula-silva-2026-10-656e11661a2e13d7fae0aadc3cdd3ffd-1200x800.jpg -->
+### [आफत समेटे आ रहा हरीकेन 'वेंस', मैक्सिको में 18000 पुलिसकर्मी मोर्चे पर, उधर बवाली हवाओं के साथ](https://hindi.news18.com/world/rest-of-world-hurricane-vance-is-now-tropical-storm-threatens-mexico-pacific-coast-18000-first-responders-deployed-typhoon-olana-on-way-ws-l-10938189.html)
+*News18 Hindi (World)* - Oct 26, 15:40 IST (iso: 2026-10-26T10:10:41+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Typhoon-Nara-2026-08-738bbe0248668562bd64163257823425-1200x800.jpg -->
 
-ब्राज़ील में 80 वर्षीय लूला दा सिल्वा ने फिर से जीत दर्ज की। ट्रंप प्रशासन को यह परिणाम अप्रत्याशित लगा। दा सिल्वा ने कहा कि भगवान ने उन्हें बचाया। दक्षिणपंथी उम्मीदवार फ्लावियो बोल्सोनारो हार गए। Brazil Election Results 2026: ब्राजील में चुनावों के रिजल्ट के साथ ही व्हाइट हाउस में भी हलचल मच गई होगी. अमेरिका लूला दा सिल्वा की विदाई की खबर सुनने को बेकरार था, लेकिन 80 साल के राजनेता की वापसी ने उसे सदमा दे दिया.
+हरीकेन वेंस मैक्सिको की ओर बढ़ रहा है। सरकार ने 18,000 पुलिसकर्मियों को तैनात किया है। प्रशांत में सुपर टाइफून चांपी और तूफान ओलाना भी सक्रिय हैं। एक बाद एक आफत यहां से बाहर निकल रही है. सुपर टाइफून चांपी हो या हरीकेन वेंस हो, तबाही का संदेश यहीं से बाहर आ रहा है. वेंस उधर मेक्सिको की ओर बढ़ रहा है, तो दूसरा तूफान ओलाना प्रशांत महासागर में तैयार हो चुका है.
+
+### [वो रहस्यमयी जगह, जहां रहते हैं इंसानी मांस पिघलाने वाले सांप, वसीयत बनाकर ही जाएं यहां, लौटने की](https://hindi.news18.com/world/rest-of-world-brazil-snake-island-ilha-da-queimada-grande-deadliest-place-on-earth-venomous-snakes-island-amazing-places-on-earth-2-photogallery-ws-l-10937845.html)
+*News18 Hindi (World)* - Oct 26, 13:35 IST (iso: 2026-10-26T08:05:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/snake-island-5-2026-10-8ee8539562c42f69f809fdf3543b2884-1200x800.jpg -->
+
+ब्राजील के तट के पास स्थित इस द्वीप पर घातक सांपों का राज चलता है। आम लोगों के द्वीप पर जाने पर कड़ी पाबंदी है। वहां जाकर वापस लौटने की कोई गारंटी नहीं है, इसलिए यह दुनिया की सबसे खतरनाक जगहों में गिना जाता है। Brazil Snake Island:दुनिया में एक ऐसी जगह भी है, जहां इंसानों का नहीं सांपों का राज चलता है.
+
+---
+
+## यूरोप और रूस
+
+### [20 दिन की यात्रा पर निकला क्रूज शिप, 20 मिनट में कंटेनर जहाज से भिड़ा, 3350 लोग टाइटैनिक की तरह](https://hindi.news18.com/world/europe-luxury-cruise-ship-mein-schiff-collided-with-container-vessel-msc-victorine-germany-bremerhaven-port-10937874.html)
+*News18 Hindi (World)* - Oct 26, 14:29 IST (iso: 2026-10-26T08:59:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/cruise-ship-2026-10-484002d6f8357728da9effd93d0e414d-1200x800.jpg -->
+
+जर्मनी के ब्रेमरहाफेन से कैनरी द्वीपों के लिए निकले क्रूज जहाज मेइन शिप 3 ने 20 मिनट में कंटेनर जहाज से टकराव का शिकार हुआ। जहाज पर 2,428 यात्री और 922 क्रू सदस्य सवार थे। टक्कर से कई लाइफबोट क्षतिग्रस्त हो गईं और जहाज को वापस बंदरगाह लाना पड़ा। जर्मनी के ब्रेमरहाफेन बंदरगाह से स्पेन के कैनरी द्वीप समूह की यात्रा पर निकला लग्जरी क्रूज जहाज Mein Schiff 3 करीब 20 मिनट बाद कंटेनर जहाज MSC Victorine से टकरा गया.
+
+---
+
+## दुनिया
+
+### [कल मतदान से पहले पीएम नेतन्याहू के तेवर बदले, 7 अक्तूबर 2023 की चूक पर देश की जनता कितनी नाराज?](https://www.amarujala.com/world/israel-elections-pm-netanyahu-tone-shift-voting-on-27-people-anger-over-of-7-october-2023-security-lapses-2026-10-26)
+*Amar Ujala World* - Oct 26, 09:32 IST (iso: 2026-10-26T04:02:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/israel-elections_008ce736259051826511c5cd674c2b20.jpeg?w=1200&dpr=1.0 -->
+
+इज़राइल में आगामी चुनाव से पहले प्रधानमंत्री नेतन्याहू की रणनीति बदली। 7 अक्टूबर 2023 की घटनाओं पर जनता का असंतोष बढ़ा है। वोटिंग से पहले उनकी बयानबाज़ी में स्पष्ट बदलाव देखा गया। इस्राइल चुनाव: कल मतदान से पहले पीएम नेतन्याहू के तेवर बदले, 7 अक्तूबर 2023 की चूक पर देश की जनता कितनी नाराज?
 
 ---
 
