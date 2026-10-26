@@ -1,26 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 26, 2026 06:19 IST
-
----
-
-## Americas
-
-### [Full second round results as Lula wins comeback against Flávio Bolsonaro](https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results)
-*The Guardian* - Oct 26, 05:45 IST (iso: 2026-10-26T00:15:36+00:00)
-<!-- image: https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5 -->
-
-Brazilian voters cast ballots on 25 October 2026 for the second round of the presidential election. Incumbent President Luiz Inácio Lula da Silva faces Flávio Bolsonaro in a runoff. Polls closed at 17:00 BRT, with initial results expected shortly after. The contest follows Lula’s first-round performance against the son of his convicted predecessor. After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessorPolls close at 17.00 BRT, 20.00 GMT, with first results expected within the hour.
-
-### [Brazil votes in tense Lula vs Bolsonaro runoff with U.S. influence over Latin America at stake](https://www.thehindu.com/news/international/brazil-votes-in-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake/article71623468.ece)
-*The Hindu (International)* - Oct 25, 19:07 IST (iso: 2026-10-25T13:37:13+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/qbs4x9/article71623490.ece/alternates/LANDSCAPE_1200/2026-10-25T131221Z_1931470015_RC2CAOAEK1Y2_RTRMADP_3_BRAZIL-ELECTION.JPG -->
-
-Flávio Bolsonaro leads Lula by 2.2 million votes after the first round. Over 33 million of 160 million eligible voters abstained. The runoff determines U. S. influence across Latin America. Brazil faces a decisive contest with significant voter apathy. Flávio Bolsonaro bested Mr. Lula by more than 2.2 million votes in the first round of the election earlier this month, although more than 33 million voters out of nearly 160 million did not turn out.
+**Updated:** October 26, 2026 11:01 IST
 
 ---
 
 ## Europe & Russia
+
+### [Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win](https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula)
+*The Guardian* - Oct 26, 10:40 IST (iso: 2026-10-26T05:10:03+00:00)
+<!-- image: https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e32293a3abd038488dbbb9d84056cce1 -->
+
+Flávio Bolsonaro rejected the Brazilian election results, calling it impossible to concede the loss. Luiz Inácio Lula da Silva secured a fourth non-consecutive term. The far-right senator lost the second round to the leftist president. The electoral court confirmed the final tally. Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive termFull report: Lula wins fourth term as Brazil’s president over Flávio BolsonaroLive second round resultsThe local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo S.
+
+### [Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027](https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research)
+*The Guardian* - Oct 26, 10:30 IST (iso: 2026-10-26T05:00:22+00:00)
+<!-- image: https://i.guim.co.uk/img/media/e4b910342ba76f8b20dec9eadb10a03041a5c598/939_0_4942_3956/master/4942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=235ec786150f193cd6215f5141c40c29 -->
+
+The UK faces a £400 million shortfall in overseas aid funding by 2027. Labour is urged to close the gap. The country is on track to miss its 0.3% national income target. Calculations from the Center for Global Development revealed the projected deficit. Official forecast indicates shortfall below 0.3% of national income in promised official development assistanceThe UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year. Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development assista.
 
 ### [Student-Led Opposition Celebrates In Serbia After Vucic Concedes Election Defeat](https://www.rferl.org/a/serbia-parliamentary-election-students-list-vucic/33884047.html)
 *Radio Free Europe / Liberty* - Oct 26, 05:20 IST (iso: 2026-10-25T23:50:51+00:00)
@@ -52,12 +48,6 @@ Volodymyr Zelenskyy confirmed on October 24 that Starshield and Starlink systems
 
 A bipartisan group of US lawmakers challenged President Trump's easing of Russian energy import restrictions. They demanded guarantees that Ukraine retains access to critical American military and intelligence support. The move signals growing congressional resistance to the administration's shifting foreign policy stance on the conflict. A bipartisan group of US lawmakers is stepping up efforts to defend Ukraine, challenging President Donald Trump’s decision to ease restrictions on Russian energy imports and demanding guarantees that Kyiv will retain access to critical American military and intelligence support.
 
-### [Starlink back to 'the level ⁠we need' in Ukraine, Zelenskyy says](https://news.sky.com/story/starlink-back-to-the-level-we-need-in-ukraine-president-zelenskyy-says-13603095)
-*Sky News World* - Oct 24, 18:59 IST (iso: 2026-10-24T13:29:00+00:00)
-<!-- image: https://e3.365dm.com/26/10/1920x1080/skynews-volodymyr-zelenskyy_7385610.jpg?20261024144157 -->
-
-President Volodymyr Zelenskyy stated that the Starlink satellite system has returned to the operational speed Ukraine requires. The network had slowed for over a week, which impaired Kyiv's ability to defend against Russian attacks. The restoration of full bandwidth is critical for maintaining Ukraine's air defense and communications infrastructure. The Starlink satellite system is back to operating at the speed Ukraine needs after slowing down for more than a week, damaging Kyiv's ability to defend itself from Russian attacks, Ukraine's President Volodymyr Zelenskyy said.
-
 ### [White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City](https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html)
 *Radio Free Europe / Liberty* - Oct 23, 22:02 IST (iso: 2026-10-23T16:32:19+00:00)
 <!-- image: https://gdb.rferl.org/b15285a1-8d57-4563-a47f-86e401129ce3_cx0_cy1_cw0_w1200_h630.jpg -->
@@ -74,17 +64,11 @@ Russian officials face growing doubts about the Northern Sea Route's viability a
 
 ## Middle East & Africa
 
-### [Israeli air strikes kill several across Gaza Strip: local authorities](https://www.thehindu.com/news/international/israeli-air-strikes-kill-several-across-gaza-strip-local-authorities/article71624332.ece)
-*The Hindu (International)* - Oct 25, 22:27 IST (iso: 2026-10-25T16:57:12+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/3sv516/article71624402.ece/alternates/LANDSCAPE_1200/AFP_D4D87CC.jpg -->
+### [Israel markets see upside in Netanyahu defeat after three-year rally](https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece)
+*The Hindu (International)* - Oct 26, 09:27 IST (iso: 2026-10-26T03:57:15+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/92rgzw/article71625576.ece/alternates/LANDSCAPE_1200/iStock-2270287840.jpg -->
 
-Israeli drone strikes killed several people in Gaza City on 12 April 2026. Al Shifa hospital received three bodies and treated eight wounded. Islamic University sources confirmed the dead were administrative staff. The injured included students. Al Shifa hospital said it received three bodies and treated eight people who were wounded in the Gaza City drone strike, with two sources at the Islamic University saying those killed were administrative staff and the injured were students.
-
-### [Beyond national interest: role of ethics and emotions in world politics](https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece)
-*The Hindu (International)* - Oct 25, 22:25 IST (iso: 2026-10-25T16:55:15+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/7w603w/article71278488.ece/alternates/LANDSCAPE_1200/_DSC8206.JPG -->
-
-Historical examples show ethics and emotions shape international politics. Foreign policy involves moral perceptions, not just strategic calculation. The Israel-Palestine conflict illustrates how public sentiment influences diplomatic decisions. History offers numerous examples of ethics shaping international politics. Foreign policy is not merely an exercise in strategic calculation; it is also shaped by moral perceptions and collective emotions, as illustrated by the change in public perception towards the Israel-Palestine conflict.
+Israeli markets rallied on the prospect of a Netanyahu defeat. Opinion polls indicate a tight contest in the upcoming election. Neither the Likud bloc nor the Gadi Eisenkot-led opposition is expected to secure the 61 seats needed to form a government. Opinion polls point to a ‌tight contest, with neither Mr. Netanyahu's ruling Likud bloc nor an opposition alliance centred on former military chief Gadi Eisenkot expected ​to secure the 61 seats in the 120-seat Knesset needed to govern.
 
 ### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
 *UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
@@ -133,6 +117,22 @@ Access Now's 2025 report documented 313 global internet shutdowns. Africa saw 30
 <!-- image: https://i.guim.co.uk/img/media/5a1fa2211f8394d63f3fcf24e563458a5818c40d/197_0_2203_1763/master/2203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f950d6f07889a1df07d2d4e434aa70e8 -->
 
 Families report ICE is deporting severely ill detainees from Florida jails. Flights to unknown African countries are scheduled for Wednesday. Advocates say the detainees have no ties to these destinations despite worsening medical conditions. Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detailRelatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions. Flights are scheduled as early as Wednesday, according to the families and the immigration advocac.
+
+---
+
+## Americas
+
+### [Bolsonaro calls for Brazil election results to be 'annulled' after loss to Lula](https://www.thehindu.com/news/international/bolsonaro-challenges-brazil-election-results-after-lulas-victory/article71625500.ece)
+*The Hindu (International)* - Oct 26, 08:43 IST (iso: 2026-10-26T03:13:04+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/j0jcz2/article71625517.ece/alternates/LANDSCAPE_1200/APTOPIX_Brazil_Election_676_1.jpg -->
+
+Bolsonaro demanded the annulment of Brazil's election results after losing to Lula. The electoral court confirmed Lula's lead of nearly 4.4 million votes. The 81-year-old president won 51.8% of the total vote. Flávio Bolsonaro contested the final outcome. With 100% of the vote counted, Brazil's electoral court announced that the soon-to-be 81-year-old Mr. Lula had a lead of nearly 4.4 million votes.
+
+### [Full second round results as Lula wins comeback against Flávio Bolsonaro](https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results)
+*The Guardian* - Oct 26, 05:45 IST (iso: 2026-10-26T00:15:36+00:00)
+<!-- image: https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5 -->
+
+Brazilian voters cast ballots on 25 October 2026 for the second round of the presidential election. Incumbent President Luiz Inácio Lula da Silva faces Flávio Bolsonaro in a runoff. Polls closed at 17:00 BRT, with initial results expected shortly after. The contest follows Lula’s first-round performance against the son of his convicted predecessor. After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessorPolls close at 17.00 BRT, 20.00 GMT, with first results expected within the hour.
 
 ---
 
