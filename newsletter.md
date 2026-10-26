@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 26, 2026 23:15 IST
+**Updated:** October 27, 2026 03:29 IST
 
 ---
 
@@ -76,7 +76,7 @@ Lula defeated Bolsonaro to win a fourth term as Brazil's president. The result s
 
 UN experts concluded the Gaza ceasefire did not stop Israeli actions constituting genocide. The Commission of Inquiry issued these findings. Prosecutors at the International Criminal Court may use the report to pursue legal action against officials. The findings by the Commission of Inquiry on the Occupied Palestinian Territory could be used by prosecutors at the International Criminal Court or in other jurisdictions to try to bring justice to victims and their relatives.
 
-### [With Regional Tensions High, Mecca Alliance Partners Meet In Tehran](https://www.rferl.org/a/tensions-mecca-alliance-partners-tehran-saudi-turkey-pakistan/33884432.html)
+### [Iran, Regional Countries Agree To Continue Talks After Tehran Meeting](https://www.rferl.org/a/tensions-mecca-alliance-partners-tehran-saudi-turkey-pakistan/33884432.html)
 *Radio Free Europe / Liberty* - Oct 26, 19:13 IST (iso: 2026-10-26T13:43:05+00:00)
 <!-- image: https://gdb.rferl.org/5645b16e-aaa6-4f7f-94ae-4d5444b40285_cx0_cy2_cw0_w1200_h630.jpg -->
 
@@ -114,17 +114,17 @@ Health officials are investigating how Nigeria’s first Ebola patient in over a
 *The Hindu (International)* - Oct 26, 18:30 IST (iso: 2026-10-26T13:00:45+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/txlcz5/article71627102.ece/alternates/LANDSCAPE_1200/BRITAIN-POLITICS__826.jpg -->
 
-U. K. PM Burnham supported the earned settlement principle for immigration. The proposal increases the baseline qualifying period for permanent residency. This change was part of a draft overhaul introduced by Home Secretary Shabana Mahmood. An increase in the baseline qualifying period for settlement, from 5 of 15 years had been proposed by U. K. Home Secretary Shabana Mahmood as part of a draft “earned settlement” immigration overhaul last year, during the Keir Starmer administration.
+U. K. PM Burnham supported the earned settlement principle for immigration. The proposal increases the baseline qualifying period for permanent residency. This change was part of a draft overhaul introduced by Home Secretary Shabana Mahmood. An increase in the baseline qualifying period for settlement, from 5 of 15 years had been proposed by U. Home Secretary Shabana Mahmood as part of a draft “earned settlement” immigration overhaul last year, during the Keir Starmer administration.
 
 ---
 
 ## Global / Multilateral
 
-### [Security Council LIVE: Children and war, ‘each one is a life’](https://news.un.org/feed/view/en/story/2026/10/1168668)
+### [Women and girls’ share of civilian war deaths doubles since 2021](https://news.un.org/feed/view/en/story/2026/10/1168673)
 *UN News* - Oct 26, 17:30 IST (iso: 2026-10-26T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-01-2025-UNRWA-Gaza-16.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image770x420cropped.jpg -->
 
-The United Nations Security Council marked thirty years of its mandate to protect children in armed conflict. Officials noted that violations against young people in war reached record levels this year. The session emphasized the human cost of these breaches. Each incident represents a single lost life. With violations against children caught in armed conflict reaching an unprecedented level this year, the Security Council is marking 30 years since it took on the mandate to protect young people caught up in war.
+The United Nations reported that women and girls accounted for one in four of the more than 37,000 civilians killed in armed conflict last year. This figure represents a doubling of their share compared to 2021. The data highlights a significant shift in the demographic impact of global wars. Civilian casualties have risen sharply during this period. War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.
 
 ### [Why do planes keep circling before landing? UN has a plan to fix it](https://news.un.org/feed/view/en/story/2026/10/1168666)
 *UN News* - Oct 25, 17:30 IST (iso: 2026-10-25T12:00:00+00:00)

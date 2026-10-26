@@ -1,10 +1,116 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 26, 2026 23:15 IST
+**अपडेट:** October 27, 2026 03:29 IST
+
+---
+
+## दुनिया
+
+### ['धार्मिक आजादी पर TMC ने लगाए अंकुश', ममता बनर्जी पर CM शुभेंदु अधिकारी का निशाना; और क्या कहा?](https://www.amarujala.com/india-news/suvendu-adhikari-accuses-previous-tmc-government-of-curtailing-religious-freedom-in-bengal-2026-10-27)
+*Amar Ujala National* - Oct 27, 12:47 IST (iso: 2026-10-27T07:17:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/02/west-bengal-chief-minister-suvendu-adhikari_bf540e76d612b9ffac5aae6c9fe91dfd.jpeg?w=1200&dpr=1.0 -->
+
+पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने टीएमसी सरकार पर धार्मिक स्वतंत्रता को सीमित करने का आरोप लगाया। उन्होंने ममता बनर्जी पर निशाना साधा। यह बयान राजनीतिक तनाव को और बढ़ाता है। 'धार्मिक आजादी पर TMC ने लगाए अंकुश', ममता बनर्जी पर CM शुभेंदु अधिकारी का निशाना; और क्या कहा?
+
+### [नोएल टाटा ने टाटा संस में चंद्रशेखरन की पुनर्नियुक्ति को दी चुनौती, आगे क्या?](https://www.amarujala.com/business/business-diary/tata-sons-dispute-noel-tata-challenges-chandrasekaran-s-reappointment-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 12:00 IST (iso: 2026-10-27T06:30:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/tata-chandrashekharan-noel_474fbf28e3fb0c6bcc5f756014323827.jpeg?w=1200&dpr=1.0 -->
+
+नोएल टाटा ने टाटा संस में चंद्रशेखरन की पुनर्नियुक्ति को चुनौती दी। यह कानूनी संघर्ष को नया मोड़ देता है। टाटा समूह के भीतर शक्ति संघर्ष अब न्यायालय में पहुंच गया है। टाटा में संघर्ष: नोएल टाटा ने टाटा संस में चंद्रशेखरन की पुनर्नियुक्ति को दी चुनौती, आगे क्या?
+
+### [साफ हवा के लिए राजनीति को दोषारोपण से ऊपर उठना पड़ेगा; किन कार्यों में सरकार की सफलता?](https://www.amarujala.com/columns/opinion/stubble-burning-not-only-problem-for-clean-air-politics-must-move-beyond-blame-game-govt-must-stop-self-laud-2026-10-27)
+*Amar Ujala National* - Oct 27, 03:27 IST (iso: 2026-10-26T21:57:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/pravah-page-editorial-27-oct_77cb6efe34298ebeab3b7d4d2ada19db.jpeg?w=1200&dpr=1.0 -->
+
+साफ हवा के लिए राजनीति को दोषारोपण से ऊपर उठना होगा। सरकार ने कुछ कार्यों में सफलता हासिल की है। पराली जलाना समस्या का एकमात्र कारण नहीं है। समस्या केवल पराली नहीं: साफ हवा के लिए राजनीति को दोषारोपण से ऊपर उठना पड़ेगा; किन कार्यों में सरकार की सफलता?
+
+### [आज UP, बिहार, महाराष्ट्र समेत चार राज्यों में मतों की गिनती, किन सीटों पर नजर?](https://www.amarujala.com/live/india-news/mlc-elections-vote-counting-live-update-up-bihar-maharashtra-karnataka-legislative-council-constituencies-news-2026-10-27)
+*Amar Ujala National* - Oct 27, 02:06 IST (iso: 2026-10-26T20:36:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/mlc-elections-vote-counting_2bf8a9ed33320a6dd4d0b304291dbdfd.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश, बिहार, महाराष्ट्र और एक अन्य राज्य में विधान परिषद चुनाव के लिए आज मतगणना होगी। कई सीटों पर परिणाम निकलने का इंतजार है। विधान परिषद चुनाव मतगणना LIVE: आज UP, बिहार, महाराष्ट्र समेत चार राज्यों में मतों की गिनती, किन सीटों पर नजर?
+
+### [100 करोड़ के स्कूल घोटाले में फंसे द्रमुक नेता, पूर्व मंत्री गिरफ्तार, छह नवंबर तक न्यायिक हिरासत](https://www.amarujala.com/india-news/former-tamil-nadu-minister-anbil-mahesh-poyyamozhi-arrested-in-alleged-rs-100-crore-school-approval-scam-2026-10-27)
+*Amar Ujala National* - Oct 27, 01:50 IST (iso: 2026-10-26T20:20:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/former-tamil-nadu-minister-anbil-mahesh-poyyamozhi_1147fe3909b8e8570950223f97e10186.jpeg?w=1200&dpr=1.0 -->
+
+तमिलनाडु में 100 करोड़ रुपये के स्कूल अनुमोदन घोटाले में द्रमुक के पूर्व मंत्री अनबिल महेश पॉयमोजी को गिरफ्तार किया गया है। उन्हें छह नवंबर तक न्यायिक हिरासत में रखा गया है। 100 करोड़ के स्कूल घोटाले में फंसे द्रमुक नेता, पूर्व मंत्री गिरफ्तार, छह नवंबर तक न्यायिक हिरासत।
+
+### [यूपी में 31 अक्तूबर तक अलर्ट, ओडिशा में स्कूल बंद; आंध्र में 27 करोड़ जारी](https://www.amarujala.com/india-news/cyclone-arnab-alert-up-odisha-and-andhra-pradesh-prepare-for-heavy-rain-and-strong-winds-2026-10-27)
+*Amar Ujala National* - Oct 27, 01:31 IST (iso: 2026-10-26T20:01:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/cakaravata_c2b13f537c6b877149a57821fb087b03.jpeg?w=1200&dpr=1.0 -->
+
+चक्रवात अर्नाब के कारण उत्तर प्रदेश में 31 अक्टूबर तक अलर्ट जारी है। ओडिशा में स्कूल बंद किए गए हैं। आंध्र प्रदेश में 27 करोड़ रुपये राहत के लिए जारी किए गए हैं। यूपी में 31 अक्तूबर तक अलर्ट, ओडिशा में स्कूल बंद; आंध्र में 27 करोड़ जारी।
+
+### ['फॉर्म 6 में कोई संशोधन नहीं किया गया', चुनाव आयोग ने सुप्रीम कोर्ट में दिया 15 Points का हलफनामा](https://www.amarujala.com/video/india-news/no-amendments-made-to-form-6-election-commission-submits-15-point-affidavit-to-supreme-court-2026-10-27)
+*Amar Ujala National* - Oct 27, 01:20 IST (iso: 2026-10-26T19:50:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/sir-controversy_09abd3e74b0c9a4bca6ece7e7ea0f15c.jpeg?w=1200&dpr=1.0 -->
+
+चुनाव आयोग ने सुप्रीम कोर्ट में 15 बिंदुओं का हलफनामा जमा किया है। आयोग का दावा है कि फॉर्म 6 में कोई संशोधन नहीं किया गया है। यह स्पष्टीकरण न्यायालय के सामने पेश किया गया है। 'फॉर्म 6 में कोई संशोधन नहीं किया गया', चुनाव आयोग ने सुप्रीम कोर्ट में दिया 15 Points का हलफनामा।
+
+### [भराली परिवार में चार की हत्या का कारण 'होटल का लीज' विवाद! जांच कर रही असम पुलिस क्या बोली?](https://www.amarujala.com/india-news/guwahati-hotel-shooting-assam-police-probe-hotel-lease-dispute-family-members-murder-firing-accused-arrest-2026-10-27)
+*Amar Ujala National* - Oct 27, 01:10 IST (iso: 2026-10-26T19:40:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/gavahata-hatal-galbra_d76724190121f0e0391b0392a3860881.jpeg?w=1200&dpr=1.0 -->
+
+असम पुलिस ने भराली परिवार की चार हत्याओं का कारण होटल का लीज विवाद बताया है। गुवाहाटी में हुए इस गोलीकांड की जांच जारी है। पुलिस ने इस संबंध में अपनी प्रतिक्रिया दी है। गुवाहाटी गोलीकांड: भराली परिवार में चार की हत्या का कारण 'होटल का लीज' विवाद! जांच कर रही असम पुलिस क्या बोली?
+
+### [हैदराबाद में हनी ट्रैप का मामला, आरोपी को चार दिन की पुलिस कस्टडी में भेजा](https://www.abplive.com/news/india/honey-trap-case-in-hyderabad-accused-sent-to-four-day-police-custody-3207250)
+*ABP Live (India)* - Oct 26, 23:31 IST (iso: 2026-10-26T18:01:01+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/63c2f55da0e94fd0de469f610cf8b19217930373305281324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+हैदराबाद में हनी ट्रैप रैकेट का खुलासा हुआ। 23 वर्षीय कोंडाभट्टुला पवन कुमार को चार दिन की पुलिस कस्टडी में भेजा गया। इस रैकेट में पुलिसकर्मियों को निशाना बनाया गया था। हैदराबाद में हनी-ट्रैप और जबरन वसूली (एक्सटॉर्शन) रैकेट का खुलासा हुआ है. यह 23 साल के आरोपी कोंडाभट्टुला पवन कुमार को आगे की जांच के लिए चार दिन की पुलिस हिरासत में भेज दिया गया है.
+
+### ['अगर तीनों मनमानी करेंगे तो क्या', SC में EC के हलफनामे पर कांग्रेस नेता के सवाल](https://www.abplive.com/news/india/imran-masood-raised-questions-on-eci-affidavit-filed-in-supreme-court-over-unanimous-orders-issued-on-sir-3207242)
+*ABP Live (India)* - Oct 26, 22:56 IST (iso: 2026-10-26T17:26:32+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/177332b8609f4214c5375da52cc20e7817930349246601126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+कांग्रेस सांसद इमरान मसूद ने सुप्रीम कोर्ट में चुनाव आयोग के हलफनामे पर सवाल उठाए। उन्होंने कहा कि तीनों आयुक्तों की संयुक्त मनमानी भी नियमों का उल्लंघन है। फॉर्म-6 की वैधता पर चर्चा जारी है। चुनाव आयोग की तरफ से SIR पर लिए गए फैसले और CEC ज्ञानेश कुमार के कामकाज के खिलाफ दायर विपक्ष की याचिका पर सुप्रीम कोर्ट में दाखिल किए गए जवाबी हलफनामा को लेकर कांग्रेस सांसद इमरान मसूद ने सवाल उठाया है.
+
+### [होटल बिलास में अंधाधुंध फायरिंग से 5 की मौत, मौके पर पहुंची पुलिस](https://www.abplive.com/news/india/assam-guwahati-hotel-bilas-firing-5-killed-3207243)
+*ABP Live (India)* - Oct 26, 22:38 IST (iso: 2026-10-26T17:08:54+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/88d91bc496eed59fec28c236975058231793035405866708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+असम की राजधानी गुवाहाटी के होटल बिलास में अंधाधुंध फायरिंग हुई। इसमें पांच लोगों की मौत हुई और कई घायल हो गए। उलुबारी इलाके में पुलिस टीम तुरंत मौके पर पहुंची। असम की राजधानी गुवाहाटी में स्थित होटल बिलास में अंधाधुंध गोलीबारी हुई है, जिसमें 5 लोगों की मौत हुई और कई अन्य घायल हैं. इस घटना के बाद इलाके में दहशत और अफरातफरी का माहौल बन गया.
+
+### [CJP की पूरी टीम से मिले अभिजीत दीपके, कहा- मेरे बिना कोई गार्डन में नहीं घूमेगा](https://www.abplive.com/news/india/abhijeet-deepke-meet-entire-cjp-team-video-of-garden-walk-goes-viral-amid-internal-rift-theory-3207238)
+*ABP Live (India)* - Oct 26, 22:22 IST (iso: 2026-10-26T16:52:26+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/03f7a5c4953dabc347ad2aee922f25ac17930334299021324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+कॉकरोच जनता पार्टी के संस्थापक अभिजीत दीपके ने अपनी पूरी टीम के साथ वीडियो शेयर किया। उन्होंने कहा कि उनके बिना कोई गार्डन में नहीं घूमेगा। यह बयान आंतरिक कलह के बीच सामने आया है। कॉकरोच जनता पार्टी के फाउंडर अभिजीत दीपके ने अपने साथियों के साथ मुलाकात के बाद एक वीडियो शेयर किया है. जिसमें वो सभी से कहते दिख कर रहे हैं कि मेरे बिना कोई भी गार्डन में नहीं घूमेगा.
+
+### [अब केरलम में बुजुर्गों को परेशान करने वालों की खैर नहीं! सरकार ने सदन में पारित किया बिल](https://www.abplive.com/news/india/keralam-assembly-unanimously-passes-bill-to-protect-senior-citizens-from-exploitation-and-abuse-3207223)
+*ABP Live (India)* - Oct 26, 21:48 IST (iso: 2026-10-26T16:18:36+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/7f71fb4508de5e885d8c65c72f5acabd17930312136171126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+केरलम विधानसभा ने बुजुर्गों की सुरक्षा और देखभाल के लिए व्यापक कानून सर्वसम्मति से पारित किया। यह देश का पहला ऐसा राज्य है जिसने वरिष्ठ नागरिकों के शोषण रोकने के लिए विशेष कानून बनाया। मुख्यमंत्री वी. डी. सतीशत ने इस मॉडल की घोषणा की। केरलम सोमवार (26 अक्टूबर, 2026) को देश का पहला ऐसा राज्य बन गया है, जिसने वरिष्ठ नागरिकों को दुर्व्यवहार और शोषण से बचाने, बुजुर्गों की देखभाल करने वाले केंद्रों को विनमयित करने और उन्हें बेहतर स्वास्थ्य सेवा के साथ सामाजिक सुरक्षा उपलब्ध कराने के लिए सर्वसम्मति से एक व्यापक कानून पारित किया है.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [स्पीकर बिरला UAE, चीन, ईरानी नेताओं से मिले; सीमा विवाद, व्यापार समेत कई मुद्दों पर चर्चा](https://www.amarujala.com/india-news/brics-parliamentary-forum-om-birla-meets-uae-china-and-iran-leaders-2026-10-27)
+*Amar Ujala National* - Oct 27, 12:09 IST (iso: 2026-10-27T06:39:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/uae-cana-oura-iirana-ka-natao-sa-mal-oma-bral_a6052e24f482c78a45ff2a369186afcb.gif?w=1200&dpr=1.0 -->
+
+लोकसभा स्पीकर ओम बिरला ने ब्रिक्स संसदीय मंच पर यूएई, चीन और ईरान के नेताओं से मुलाकात की। सीमा विवाद और व्यापार जैसे मुद्दों पर चर्चा हुई। यह द्विपक्षीय संबंधों को मजबूत करने का प्रयास है। स्पीकर बिरला UAE, चीन, ईरानी नेताओं से मिले; सीमा विवाद, व्यापार समेत कई मुद्दों पर चर्चा।
+
+### [जॉर्डन का सीरिया में बड़ा हवाई हमला: चर्च पर हमले का बदला लेने का दावा, कई आतंकियों के मारे जाने की](https://www.amarujala.com/world/jordan-launches-airstrikes-in-syria-over-church-attack-in-karak-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 02:13 IST (iso: 2026-10-26T20:43:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/14/breaking-news_16a24e15d5f3889b1ba90c2db9e93ef0.jpeg?w=1200&dpr=1.0 -->
+
+जॉर्डन ने सीरिया पर हवाई हमले किए हैं। सरकार का दावा है कि यह कार्रवाई करक में चर्च पर हुए हमले के बदले की है। कई आतंकवादियों की मौत की खबर है। जॉर्डन का सीरिया में बड़ा हवाई हमला: चर्च पर हमले का बदला लेने का दावा, कई आतंकियों के मारे जाने की।
+
+### [ईरान युद्ध के बीच यूएई के समुद्र में फैला तेल, लोगों की आवाजाही अस्थायी तौर रोकी गई](https://www.amarujala.com/video/world/amid-the-iran-conflict-oil-has-spread-in-the-waters-off-the-uae-movement-of-people-has-been-temporarily-halt-2026-10-27)
+*Amar Ujala World* - Oct 27, 01:42 IST (iso: 2026-10-26T20:12:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/huti-attack-on-saudi_f268e830db0bbf53881ecf3e06c9a739.jpeg?w=1200&dpr=1.0 -->
+
+ईरान युद्ध के दौरान यूएई के समुद्र में तेल फैल गया है। इससे लोगों की आवाजाही अस्थायी रूप से रोकी गई है। स्थिति पर नज़र रखी जा रही है। ईरान युद्ध के बीच यूएई के समुद्र में फैला तेल, लोगों की आवाजाही अस्थायी तौर रोकी गई।
+
+### ['ईरान इस्लामी देशों के बीच एकजुटता का करता है समर्थन', राष्ट्रपति पेजेश्कियान का बड़ा बयान](https://www.abplive.com/news/world/iran-president-masoud-pezeshkian-says-iran-supports-unity-among-islamic-nations-tehran-meeting-3207225)
+*ABP Live (World)* - Oct 26, 22:08 IST (iso: 2026-10-26T16:38:43+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/9ed658ab218ca87b9ea968f3defdf84417930313250841324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+तेहरान में पाकिस्तान, सऊदी अरब और तुर्की के प्रतिनिधियों ने ईरान के साथ वार्ता शुरू की। सऊदी रक्षामंत्री खालिद बिन सलमान, पाकिस्तान के आसिम मुनीर और तुर्की के इब्राहिम कालीन ने ईरानी विदेश मंत्री अब्बास अराघची से मुलाकात की। इस बैठक का उद्देश्य क्षेत्रीय एकजुटता को मजबूत करना है। ईरान की राजधानी तेहरान में पाकिस्तान, सऊदी अरब और तुर्की के प्रतिनिधियों के बीच वार्ता शुरू हो गई है.
 
 ### [सऊदी अरब ने सना और लाल सागर के पास किए हवाई हमले, कई जगह हुए धमाके](https://www.patrika.com/world-news/saudi-arabia-carries-out-airstrikes-in-sanna-and-coastal-areas-along-red-sea-21010320)
 *Patrika (World)* - Oct 26, 20:35 IST (iso: 2026-10-26T15:05:28+00:00)
@@ -12,161 +118,59 @@
 
 सऊदी अरब ने यमन के सना और लाल सागर क्षेत्र पर हवाई हमले किए। यह कार्रवाई हूती विद्रोहियों के रियाद के किंग खालिद एयरपोर्ट और तेल पाइपलाइनों पर मिसाइल व ड्रोन हमलों के जवाब में हुई। दोनों पक्षों के बीच तनाव और गहरा हुआ। यमन (Yemen) के हूती विद्रोहियों (Houthis) और सऊदी अरब (Saudi Arabia) के बीच तनाव बढ़ता ही जा रहा है।
 
-### [ट्रंप का इशारा मिलते ही ईरान पर टूटेगी अमेरिकी सेना, 96 घंटे का अल्टीमेटम, फिर भी अटैक से क्यों डरा](https://hindi.news18.com/world/middle-east-iran-attack-us-military-plan-in-96-hours-israel-donald-trump-10938920.html)
-*News18 Hindi (World)* - Oct 26, 20:12 IST (iso: 2026-10-26T14:42:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/us-navy-6-2026-10-a184312e66c9c5ebe42aa626ce1b7a5e-1200x800.jpg -->
+### ['SIR के सभी फैसले सर्वसम्मति से लिए, फॉर्म-6 में बदलाव नहीं', विपक्षी दलों की याचिका पर SC में EC](https://www.abplive.com/news/india/eci-on-sir-form-6-and-cec-gyanesh-kumar-eci-affidavit-in-supreme-court-3207202)
+*ABP Live (India)* - Oct 26, 20:33 IST (iso: 2026-10-26T15:03:12+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/3eb46dcbc93f9783c5092b2828b81a9417930274718971324_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-अमेरिकी सेना ट्रंप के आदेश पर 96 घंटे में ईरान पर सैन्य अभियान की तैयारी कर रही है। निशानों में ऊर्जा ढांचे, सैन्य ठिकाने और परमाणु संयंत्र शामिल हैं। इजरायल भी नए हमलों की तैयारी में जुटा है, पर अंतिम फैसला अभी बाकी है। अमेरिका और ईरान के बीच तनाव फिर बढ़ता दिख रहा है. अमेरिकी सेना राष्ट्रपति डोनाल्ड ट्रंप का आदेश मिलने के 96 घंटे के अंदर ईरान पर बड़ा सैन्य अभियान शुरू करने की तैयारी में है.
-
-### [मसूद पेज़ेशकियान ने मुस्लिम देशों से की अपील, अमेरिका-इज़रायल की आक्रामकता के खिलाफ हो एकजुट](https://www.patrika.com/world-news/masoud-pezeshkian-calls-for-muslim-nations-to-unite-against-us-israel-aggression-21010293)
-*Patrika (World)* - Oct 26, 20:07 IST (iso: 2026-10-26T14:37:11+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/masoud_.webp -->
-
-तेहरान में ईरानी राष्ट्रपति पेज़ेशकियान ने सऊदी, पाकिस्तान और तुर्की के वरिष्ठ अधिकारियों से मुलाकात की। उन्होंने मुस्लिम देशों से अमेरिका और इज़रायल की आक्रामकता के खिलाफ एकजुट होने की अपील की। यह बैठक क्षेत्रीय तनाव के बीच हुई। ईरान (Iran) की राजधानी तेहरान में आज ईरानी राष्ट्रपति मसूद पेज़ेशकियान (Masoud Pezeshkian) ने सऊदी अरब (Saudi Arabia) के रक्षा मंत्री खालिद बिन सलमान (Khalid bin Salman), पाकिस्तान (Pakistan) के सेना प्रमुख आसिम मुनीर (Asim Munir) और तुर्की (Turkey) के खुफिया प्रमुख इब्राहिम कलिन (Ibrahim Kalin) के साथ मुलाकात की।
-
-### [पहले ईरान से दुश्मनी की, अब उसी के दरबार में क्यों पहुंचा सऊदी अरब? अमेरिका की जंग में हाथ नहीं](https://hindi.news18.com/world/middle-east-saudi-arabia-defence-minister-prince-khalid-bin-salman-al-saud-iran-us-war-end-tehran-visit-reasons-10938725.html)
-*News18 Hindi (World)* - Oct 26, 19:27 IST (iso: 2026-10-26T13:57:04+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/iran-saudi-2026-10-0f07f557479309acaccd2962c61218f0-1200x800.jpg -->
-
-सऊदी अरब ईरान और अमेरिका के बीच युद्ध समाप्त करने के लिए कूटनीतिक प्रयास कर रहा है। रक्षा मंत्री खालिद बिन सलमान का तेहरान दौरा इस प्रयास की गंभीरता दर्शाता है। होर्मुज स्ट्रेट और तेल निर्यात पर दबाव सऊदी की चिंता बढ़ा रहे हैं। सऊदी अरब ईरान और अमेरिका के बीच जारी युद्ध खत्म कराने के लिए कूटनीतिक कोशिशों में जुटा है.
-
-### [इज़रायली सेना ने मार गिराए हमास के दो कमांडर](https://www.patrika.com/world-news/israel-army-eliminated-two-hamas-commanders-21010087)
-*Patrika (World)* - Oct 26, 18:20 IST (iso: 2026-10-26T12:50:57+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/israel-strike-on-gaza.webp -->
-
-इज़रायली सेना ने गाज़ा में हमास के दो कमांडरों को मार गिराया है। यह कार्रवाई जारी हवाई हमलों का हिस्सा है। सेना का लक्ष्य हमास को घुटने टेकने के लिए मजबूर करना है। इज़रायल (Israel) और फिलिस्तीनी आतंकी संगठन हमास (Hamas) के बीच युद्ध जारी है। इज़रायली सेना लगातार गाज़ा (Gaza) पर हमले कर रही है, जिससे हमास को घुटने टेकने के लिए मजबूर किया जा सके।
-
-### [अस्पतालों पर बमबारी, डॉक्टरों को धमकी… युद्ध के बीच WMA ने क्या कहा?](https://hindi.news18.com/news/defence/war-hospital-attacks-wma-medical-neutrality-declaration-10938433.html)
-*News18 Hindi (World)* - Oct 26, 16:45 IST (iso: 2026-10-26T11:15:14+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-10-26T163538.376-2026-10-5a1014310ce00aa5c7fd9396e01a31d0-1200x800.jpg -->
-
-वर्ल्ड मेडिकल एसोसिएशन ने गाजा और यूक्रेन में अस्पतालों पर हमलों की जांच की मांग की है। संगठन ने चिकित्सा तटस्थता की रक्षा और जिम्मेदारों के खिलाफ कार्रवाई की अपील की है। गाजा से यूक्रेन तक संघर्ष प्रभावित क्षेत्रों में अस्पतालों, एंबुलेंस और स्वास्थ्यकर्मियों की सुरक्षा पर चिंता बढ़ी है. वर्ल्ड मेडिकल एसोसिएशन ने चिकित्सा तटस्थता की रक्षा, हमलों की जांच और जिम्मेदार लोगों को जवाबदेह ठहराने की मांग की है.
-
-### [डोनाल्ड ट्रंप के आदेश के 96 घंटों के भीतर ईरान पर हमले कर सकती है अमेरिकी सेना!](https://www.patrika.com/world-news/us-army-ready-for-attacks-on-iran-within-96-hours-of-donald-trump-order-21009718)
-*Patrika (World)* - Oct 26, 16:21 IST (iso: 2026-10-26T10:51:49+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/angry-trump-1.webp -->
-
-अमेरिकी सेना ईरान पर हमले के लिए तैयार है। ईरान ने कहा कि उसकी सेना जवाबी कार्रवाई के लिए हर मोर्चे पर तैयार है। ईरान (Iran) और अमेरिका (United States of America) के बीच अमेरिकी मिडटर्म चुनाव के बाद फिर युद्ध शुरू होने की संभावना जताई जा रही है। ईरान ने साफ कर दिया है कि उसकी सेना अमेरिकी हमलों का जवाब देने के लिए हर मोर्चे पर तैयारी कर रही है।
-
-### [इजरायल में कल चुनाव- अगर नेतन्याहू हारे तो भारत पर पड़ेगा क्या असर?](https://www.patrika.com/world-news/israel-election-netanyahu-future-india-israel-relations-middle-east-crisis-21009630)
-*Patrika (World)* - Oct 26, 16:17 IST (iso: 2026-10-26T10:47:27+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu-1.webp -->
-
-इजरायल में 27 अक्टूबर को आम चुनाव हो रहे हैं। बेंजामिन नेतन्याहू का भविष्य मतपेटियों में निर्धारित होगा। गाजा और ईरान संघर्ष ने उन्हें सवालों के घेरे में रखा है। Israel Elections 2026: इजरायल के लिए कल यानी 27 अक्टूबर को दिन अहम है और पूरी दुनिया की तरह भारत की नजरें भी इजरायल पर टिकी हैं। कल इजरायल में आम चुनाव हैं, यानी इस यहूदी देश के सबसे विवादित नेता बेंजामिन नेतन्याहू का भविष्य मतपेटियों में बंद होने वाला है।
-
-### [अपनी चौखट छोड़ सऊदी की पहरेदारी में जुटा पाकिस्तान, मिसाइलें, एयर डिफेंस और ड्रोन भेजा, आखिर माजरा](https://hindi.news18.com/world/pakistan-send-military-help-to-saudi-arabia-missiles-drones-air-defence-systems-troop-deployments-houthi-attack-10938239.html)
-*News18 Hindi (World)* - Oct 26, 16:03 IST (iso: 2026-10-26T10:33:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-air-defence-2026-10-cd37e235c9d8afca899015ba9f6e4568-1200x800.jpg -->
-
-पाकिस्तान ने सऊदी अरब को मिसाइलें, ड्रोन और एयर डिफेंस सिस्टम भेजने का दावा किया है। सैनिकों की तैनाती बढ़ाने की भी बात कही गई है। इन दावों की स्वतंत्र पुष्टि नहीं हुई है। Saudi Arabia Pakistan News: सऊदी अरब की सुरक्षा चिंताओं के बीच पाकिस्तान की ओर से सैन्य मदद बढ़ाने का दावा किया गया है. रिपोर्ट के मुताबिक, इस्लामाबाद ने सऊदी अरब को मिसाइलें, रॉकेट, ड्रोन और एयर डिफेंस सिस्टम भेज रहा है.
-
-### [‘इज़रायल में चुनावी नतीजों से ईरान को नहीं पड़ता कोई फर्क’, इस्माइल बघाई की दो-टूक](https://www.patrika.com/world-news/israel-election-results-make-no-difference-to-iran-says-esmaeil-baghaei-21009622)
-*Patrika (World)* - Oct 26, 15:54 IST (iso: 2026-10-26T10:24:27+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/baghaei.webp -->
-
-ईरान के विदेश मंत्रालय प्रवक्ता इस्माइल बघाई ने कहा कि इज़रायल के 27 नवंबर के चुनाव उनके लिए महत्वपूर्ण नहीं हैं। ट्रंप ने नेतन्याहू का समर्थन किया है। ईरान के लिए चुनावी परिणाम कोई फर्क नहीं पड़ते। इज़रायल (Israel) में 27 नवंबर को चुनाव है। अमेरिका (United States of America) के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) खुलकर वर्तमान इज़रायली पीएम बेंजामिन नेतन्याहू (Benjamin Netanyahu) का समर्थन कर चुके हैं।
-
-### [जॉर्डन में सुरक्षाबलों ने 3 लोगों को किया गिरफ्तार, चर्च में अंतिम संस्कार के दौरान मचाया था कत्लेआम](https://www.patrika.com/world-news/three-people-arrested-in-jordan-for-church-shooting-21009488)
-*Patrika (World)* - Oct 26, 15:11 IST (iso: 2026-10-26T09:41:42+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/handcuffed_0a1832.webp -->
-
-जॉर्डन में चर्च हमले के आरोप में तीन लोगों को गिरफ्तार किया गया। 23 अक्टूबर के हमले में नौ लोग मारे गए थे। चालीस लोग घायल हुए थे। जॉर्डन (Jordan) में शुक्रवार, 23 अक्टूबर को एक चर्च पर हुए आतंकी हमले (Terrorist Attack) में 9 लोगों की मौत हो गई। पहले मृतकों की संख्या 7 बताई जा रही थी, जो बाद में बढ़कर 8 हुई और फिर 9।
-
-### [हूती विद्रोहियों ने रियाद पर किया मिसाइलों और ड्रोन्स से हमला, सऊदी अरब ने सना पर की एयरस्ट्राइक्स](https://www.patrika.com/world-news/houthis-attacks-riyadh-with-missiles-and-drones-saudi-arabia-airstrikes-sanaa-21009416)
-*Patrika (World)* - Oct 26, 14:42 IST (iso: 2026-10-26T09:12:15+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/houthis-missile-attack.webp -->
-
-यमन के हूती विद्रोहियों ने सऊदी अरब की राजधानी रियाद पर मिसाइलों और ड्रोन से हमला किया। जवाब में सऊदी सेना ने यमनी शहर सना पर हवाई हमले किए। पिछले दो महीनों से दोनों पक्षों के बीच ऐसी आपसी सैन्य कार्रवाइयां जारी हैं। यमन (Yemen) के हूती विद्रोहियों (Houthis) न सिर्फ देश की सरकारी सेना से जंग लड़ रहे हैं, बल्कि सऊदी अरब (Saudi Arabia) के खिलाफ भी सैन्य कार्रवाई कर रहे हैं।
-
-### [सऊदी अरब में 1.52 लाख रुपये होगी सैलरी, क्या 27 लाख भारतीयों को मिलेगा फायदा?](https://hindi.news18.com/news/career/jobs-saudi-arabia-new-salary-rules-announced-by-king-salman-royal-decree-2026-minimum-wage-2027-how-much-saudi-arabia-salary-hike-for-indians-10937906.html)
-*News18 Hindi (World)* - Oct 26, 14:34 IST (iso: 2026-10-26T09:04:13+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/NEET-PAPER-LEAK-80-2026-10-d31f45d5e6c67c6fd917002fbb5902f3-1200x800.jpg -->
-
-सऊदी अरब ने प्राइवेट सेक्टर में न्यूनतम वेतन के नियमों में बदलाव किया है। अप्रैल 2027 से न्यूनतम वेतन 5,000 रियाल होगा। यह निर्णय वहां रहने वाले 27.4 लाख भारतीय मजदूरों को प्रभावित करेगा। भारत सरकार के आंकड़ों के मुताबिक अकेले 2025 में 1.36 लाख से ज्यादा भारतीय कामगारों को सऊदी अरब जाने के लिए इमिग्रेशन क्लीयरेंस मिली थी. अब सऊदी अरब के किंग सलमान ने प्राइवेट सेक्टर में वेतन से जुड़े नियमों में बड़ा बदलाव किया है.
-
-### [ईरान का ऐसा डर, मनाने पहुंचे सऊदी-पाकिस्तान-तुर्की, तेहरान में मक्का पैक्ट का दम दिखाएंगे आसिम मुनीर](https://hindi.news18.com/world/america-mecca-pact-saudi-arabia-turkey-and-pakistan-meeting-in-iran-tehran-to-end-war-with-us-houthi-attack-10937617.html)
-*News18 Hindi (World)* - Oct 26, 13:34 IST (iso: 2026-10-26T08:04:19+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-iran-news-2026-10-210c13a145e34119bfa855ec1223e0c2-1200x800.jpg -->
-
-अमेरिका और ईरान के बीच युद्ध की आशंका को देखते हुए सऊदी अरब, तुर्की और पाकिस्तान के अधिकारी तेहरान में बैठक करेंगे। सोमवार को होने वाली इस गोपनीय बैठक में पश्चिम एशिया के तनाव को कम करने के उपायों पर चर्चा होगी। अमेरिका और ईरान के बीच फिर से युद्ध की आशंका बढ़ी हुई है. दोबारा युद्ध न शुरू हो, इसके लिए सऊदी अरब, तुर्की और पाकिस्तान के शीर्ष अधिकारी तेहरान में ईरानी नेतृत्व से बातचीत करने वाले हैं.
-
-### [सऊदी अरब, तुर्की और पाकिस्तान के नेता पहुंचेंगे तेहरान, क्या इस बातचीत से निकलेगा जंग खत्म होने का](https://www.patrika.com/world-news/mecca-pact-saudi-turkey-pakistan-officials-meet-iran-tehran-21009136)
-*Patrika (World)* - Oct 26, 12:54 IST (iso: 2026-10-26T07:24:29+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Pakistan-Terrorism-Allegations.webp -->
-
-सऊदी अरब, तुर्की और पाकिस्तान के शीर्ष अधिकारी सोमवार को तेहरान जाएंगे। वे ईरान के नेताओं से क्षेत्रीय समन्वय पर बात करेंगे। रक्षा मंत्री खालिद बिन सलमान और फील्ड मार्शल असीम मुनीर शामिल होंगे। Mecca Pact: मक्का पैक्ट में शामिल देश सऊदी अरब, तुर्किये और पाकिस्तान के शीर्ष अधिकारी सोमवार को तेहरान में ईरान के सीनियर नेताओं से मुलाकात करेंगे।
-
----
-
-## यूरोप और रूस
-
-### [रूस के खिलाफ युद्ध के बीच यूक्रेन में 90 दिनों के लिए और बढ़ाया गया मार्शल लॉ](https://www.patrika.com/world-news/martial-law-extended-for-another-90-days-in-ukraine-21010145)
-*Patrika (World)* - Oct 26, 18:50 IST (iso: 2026-10-26T13:20:06+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/zelenskyy.webp -->
-
-यूक्रेन की संसद ने मार्शल लॉ को 90 दिनों के लिए और बढ़ा दिया है। यह कानून 24 फरवरी 2022 से लागू है। रूस-यूक्रेन युद्ध के 56 महीने पूरे होने के बावजूद दोनों देशों के बीच लड़ाई रुकने का नाम नहीं ले रही। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 56 महीने पूरे हो चुके हैं, लेकिन इसके बावजूद युद्ध रुकने का नाम नहीं ले रहा है।
-
-### [20 दिन की यात्रा पर निकला क्रूज शिप, 20 मिनट में कंटेनर जहाज से भिड़ा, 3350 लोग टाइटैनिक की तरह](https://hindi.news18.com/world/europe-luxury-cruise-ship-mein-schiff-collided-with-container-vessel-msc-victorine-germany-bremerhaven-port-10937874.html)
-*News18 Hindi (World)* - Oct 26, 14:29 IST (iso: 2026-10-26T08:59:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/cruise-ship-2026-10-484002d6f8357728da9effd93d0e414d-1200x800.jpg -->
-
-जर्मनी के ब्रेमरहाफेन से कैनरी द्वीपों के लिए निकले क्रूज जहाज मेइन शिप 3 ने 20 मिनट में कंटेनर जहाज से टकराव का शिकार हुआ। जहाज पर 2,428 यात्री और 922 क्रू सदस्य सवार थे। टक्कर से कई लाइफबोट क्षतिग्रस्त हो गईं और जहाज को वापस बंदरगाह लाना पड़ा। जर्मनी के ब्रेमरहाफेन बंदरगाह से स्पेन के कैनरी द्वीप समूह की यात्रा पर निकला लग्जरी क्रूज जहाज Mein Schiff 3 करीब 20 मिनट बाद कंटेनर जहाज MSC Victorine से टकरा गया.
+सुप्रीम कोर्ट में चुनाव आयोग ने याचिकाओं का जवाब दाखिल किया। आयोग ने स्पष्ट किया कि विशेष पुनरीक्षण के सभी फैसले सर्वसम्मति से लिए गए थे। मुख्य चुनाव आयुक्त के एकतरफा निर्णय के आरोपों को खारिज करते हुए आयोग ने कहा कि ये निर्णय न्यूज़ रिपोर्ट पर आधारित थे। मुख्य चुनाव आयुक्त ज्ञानेश कुमार के कथित एकतरफा फैसलों पर सवाल उठाने वाली याचिकाओं पर चुनाव आयोग ने सुप्रीम कोर्ट में जवाब दाखिल किया है.
 
 ---
 
 ## एशिया-प्रशांत
 
-### [चीन से अफगानिस्तान के लिए रवाना हुई पहली मालगाड़ी, क्या-क्या लेकर जा रही, भारत को क्यों रखनी चाहिए](https://hindi.news18.com/world/south-asia-china-afghanistan-freight-train-shandong-hairatan-pakistan-india-news-10938618.html)
-*News18 Hindi (World)* - Oct 26, 18:05 IST (iso: 2026-10-26T12:35:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/china-news-8-2026-10-dc1330ffa53645e94f5a64b4b9fbff9f-1200x800.jpg -->
+### [मुंबई-पुणे एक्सप्रेसवे पर 1 नवंबर से मालवाहक वाहन प्रतिबंधित; जबरन कर्ज वसूली पर सरकार सख्त](https://www.amarujala.com/india-news/maharashtra-updates-mumbai-pune-expressway-closure-nagpr-rss-bjp-sena-cm-fadnavis-politics-crime-other-news-2026-10-27)
+*Amar Ujala National* - Oct 27, 03:16 IST (iso: 2026-10-26T21:46:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0 -->
 
-चीन के शेडोंग से अफगानिस्तान के लिए पहली मालगाड़ी रवाना हुई है। इसमें 80 लाख युआन का सामान है। ट्रेन कजाखस्तान और उज्बेकिस्तान से होकर 20 दिनों में हैरातान पहुंचेगी। China-Afghanistan Train: चीन के शेडोंग प्रांत से अफगानिस्तान के हैरातान के लिए पहली मालगाड़ी रवाना हुई है. इसमें करीब 80 लाख युआन यानी लगभग 11.5 करोड़ रुपये का सामान है.
+मुंबई-पुणे एक्सप्रेसवे पर 1 नवंबर से मालवाहक वाहन प्रतिबंधित होंगे। महाराष्ट्र सरकार जबरन कर्ज वसूली पर सख्त रुख अपना रही है। यह निर्णय यातायात प्रबंधन को प्रभावित करेगा। महाराष्ट्र डायरी: मुंबई-पुणे एक्सप्रेसवे पर 1 नवंबर से मालवाहक वाहन प्रतिबंधित; जबरन कर्ज वसूली पर सरकार सख्त।
 
-### [न जलाएंगे, न दफनाएंगे... मौत के बाद इंसानी शरीर से बनेगी खाद, भारत के दोस्त का अजीब फैसला](https://hindi.news18.com/world/rest-of-world-human-composting-australia-legal-approval-how-it-works-10938602.html)
-*News18 Hindi (World)* - Oct 26, 18:04 IST (iso: 2026-10-26T12:34:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/deadbody-2026-10-35bf34ba0ec245b8236333f529b7b4cb-1200x800.jpg -->
+### [बंगलूरू में बिहार के युवक की हत्या, तीन गिरफ्तार; आज बंगाल से दिल्ली आएंगे सीएम शुभेंदु अधिकारी](https://www.amarujala.com/india-news/national-updates-27-oct-bengal-bengaluru-bihar-bjp-congress-north-east-west-south-politics-crime-other-news-2026-10-27)
+*Amar Ujala National* - Oct 27, 02:43 IST (iso: 2026-10-26T21:13:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_16003c2ba7e0cb7e22366c606b634689.jpeg?w=1200&dpr=1.0 -->
 
-ऑस्ट्रेलिया के न्यू साउथ वेल्स में ह्यूमन कंपोस्टिंग को कानूनी मंजूरी मिली है। इस प्रक्रिया में मृत शरीर को खाद में बदला जाता है। यह दफन या दाह संस्कार का वैकल्पिक तरीका है। मौत के बाद शरीर को दफनाने या दाह संस्कार करने के बजाय खाद में भी बदला जा सकता है. ऑस्ट्रेलिया के न्यू साउथ वेल्स में इस तरीके को कानूनी मंजूरी मिल गई है.
+बंगलूरू में बिहार के एक युवक की हत्या के मामले में पुलिस ने तीन आरोपियों को गिरफ्तार किया है। इसी दिन सीएम शुभेंदु अधिकारी बंगाल से दिल्ली आएंगे। न्यूज अपडेट्स: बंगलूरू में बिहार के युवक की हत्या, तीन गिरफ्तार; आज बंगाल से दिल्ली आएंगे सीएम शुभेंदु अधिकारी।
 
-### ['हम तो समझौते निभा रहे हैं' अरुणाचल बॉर्डर को लेकर चीन ने दी सफाई, साथ ही भारत से की अपील](https://hindi.news18.com/world/china-india-border-standoff-china-reaction-on-arunachal-pradesh-itbp-10938436.html)
-*News18 Hindi (World)* - Oct 26, 16:43 IST (iso: 2026-10-26T11:13:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/china-india-2026-10-727adddae8685616428d2be6f98f6b84-1200x800.jpg -->
+### [हत्या-चोरी को अंजाम देकर आरोपी नेपाल फरार, ऑपरेशन चला पुलिस ने किया गिरफ्तार](https://www.abplive.com/news/india/telangana-police-arrested-absconded-accused-after-conducting-operation-in-nepal-in-murder-theft-case-ann-3207175)
+*ABP Live (India)* - Oct 26, 22:49 IST (iso: 2026-10-26T17:19:49+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/f51dd5d0e77de7b2de32b4d9b8abee9617930241065031126_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-चीन के प्रवक्ता गुओ जियाकुन ने कहा कि भारत-चीन सीमा पर दोनों देशों के समझौतों का पालन हो रहा है। उन्होंने नियमित गश्त और राजनयिक संपर्क बनाए रखने की बात कही है। भारत-चीन सीमा पर सैनिकों के आमने-सामने आने की खबरों के बीच चीन ने कहा है कि वह दोनों देशों के बीच हुए समझौतों और सहमतियों का पालन कर रहा है.
-
-### [इमरान खान की 3 बहनों को अभी नहीं मिलेगी रिहाई, पाकिस्तान सरकार ने 30 दिन और बढ़ाई हिरासत](https://hindi.news18.com/world/pakistan-imran-khan-sisters-aleema-khan-noreen-niazi-uzma-khan-detention-extended-30-days-10938240.html)
-*News18 Hindi (World)* - Oct 26, 15:42 IST (iso: 2026-10-26T10:12:39+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/pak-2026-10-79ef97d5dbec074185f04aaa38c31b32-1200x800.jpg -->
-
-पंजाब सरकार ने इमरान खान की तीन बहनों की हिरासत 30 दिन के लिए बढ़ा दी है। अलीमा खान, नोरीन नियाजी और उज्मा खान कोट लखपत जेल में बंद हैं। उन्हें अभी रिहाई नहीं मिलेगी। पाकिस्तान में पूर्व प्रधानमंत्री इमरान खान की तीन बहनों की मुश्किलें बढ़ गई हैं. पंजाब सरकार ने अलीमा खान, नोरीन नियाजी और डॉ. उज्मा खान की हिरासत 30 दिन के लिए और बढ़ा दी है.
-
-### [अंतरिक्ष में चीन का 'डिजिटल चक्रव्यूह', इंटरनेट सैटेलाइट्स की नई खेप लॉन्च, क्या बढ़ेगी एलन मस्क की](https://hindi.news18.com/world/china-launched-28th-group-of-low-orbit-internet-satellites-long-march-8a-rocket-competition-with-starlink-10938094.html)
-*News18 Hindi (World)* - Oct 26, 15:13 IST (iso: 2026-10-26T09:43:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/china-satellite-2026-10-001f377795e90bfb6e15dc1fa8ff8fd1-1200x800.jpg -->
-
-चीन ने वाणिज्यिक अंतरिक्ष केंद्र से 28वां इंटरनेट सैटेलाइट समूह लॉन्च किया। लॉन्ग मार्च-8A रॉकेट ने उन्हें कक्षा में पहुँचाया। यह लॉन्ग मार्च सीरीज की 674वीं उड़ान थी। China Internet Satellite Launch: चीन ने रविवार को हैनान के वाणिज्यिक अंतरिक्ष केंद्र से लॉन्ग मार्च-8A रॉकेट के जरिए इंटरनेट सैटेलाइट्स का 28वां ग्रुप लॉन्च किया. ये सैटेलाइट्स अपनी तय कक्षा में पहुंच गए.
-
-### [ऑस्ट्रेलिया में नौकरी तलाश रहे भारतीयों के लिए खबर, बदल गए हैं वीजा आवेदन के नियम, अभी जानें](https://hindi.news18.com/world/rest-of-world-australia-changes-rules-for-visa-implemented-from-today-biometric-information-10937591.html)
-*News18 Hindi (World)* - Oct 26, 12:57 IST (iso: 2026-10-26T07:27:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/australia-visa-2026-10-320fa3d4cd91840a2b8d0157a4098040-1200x800.jpg -->
-
-ऑस्ट्रेलिया ने आज से नए वीजा नियम लागू किए हैं। भारतीय नौकरी तलाशने वालों को आवेदन प्रक्रिया में बदलाव का सामना करना होगा। अनजानगी में आवेदन प्रभावित हो सकते हैं। Australia Visa Rules Change: ऑस्ट्रेलिया में जाकर नौकरी करने का ख्वाब देखने वाले भारतीयों के लिए एक अहम खबर है. इस देश ने अपने वीजा के नियमों में बदलाव किया है और ये नए नियम आज से ही लागू हो गए हैं.
+तेलंगाना पुलिस ने नेपाल में ऑपरेशन चलाकर हत्या और चोरी के आरोपियों को गिरफ्तार किया। ये आरोपी सेवानिवृत आईपीएस अधिकारी की पत्नी की हत्या के बाद फरार थे। छह महीने बाद उन्हें जाल बिछाकर पकड़ा गया। तेलंगाना पुलिस ने सेवानिवृत IPS अधिकारी विनय रंजय राय की 55 वर्षीय पत्नी तनुजा रंजन के हत्या मामले में करीब 6 महीने से फरार कई आरोपियों को गिरफ्तार करने में सफलता हासिल की है.
 
 ---
 
-## अमेरिका
+## वैश्विक / बहुपक्षीय
 
-### [आफत समेटे आ रहा हरीकेन 'वेंस', मैक्सिको में 18000 पुलिसकर्मी मोर्चे पर, उधर बवाली हवाओं के साथ](https://hindi.news18.com/world/rest-of-world-hurricane-vance-is-now-tropical-storm-threatens-mexico-pacific-coast-18000-first-responders-deployed-typhoon-olana-on-way-ws-l-10938189.html)
-*News18 Hindi (World)* - Oct 26, 15:40 IST (iso: 2026-10-26T10:10:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Typhoon-Nara-2026-08-738bbe0248668562bd64163257823425-1200x800.jpg -->
+### [पूर्वोत्तर में नशे के अवैध कारोबार का अंतरराष्ट्रीय नेटवर्क ध्वस्त, ऐसी निरंतरता जरूरी](https://www.amarujala.com/columns/opinion/operation-trident-ncb-other-agencies-action-against-drugs-and-restricted-materials-illegal-trafficking-2026-10-27)
+*Amar Ujala National* - Oct 27, 03:14 IST (iso: 2026-10-26T21:44:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/pravah-page-editorial-27-oct_4de7ac97a997ccf9118a7e84ab9c02e2.jpeg?w=1200&dpr=1.0 -->
 
-हरीकेन वेंस मैक्सिको की ओर बढ़ रहा है। सरकार ने 18,000 पुलिसकर्मियों को तैनात किया है। प्रशांत में सुपर टाइफून चांपी और तूफान ओलाना भी सक्रिय हैं। एक बाद एक आफत यहां से बाहर निकल रही है. सुपर टाइफून चांपी हो या हरीकेन वेंस हो, तबाही का संदेश यहीं से बाहर आ रहा है. वेंस उधर मेक्सिको की ओर बढ़ रहा है, तो दूसरा तूफान ओलाना प्रशांत महासागर में तैयार हो चुका है.
+पूर्वोत्तर भारत में नशे के अंतरराष्ट्रीय कारोबार का एक बड़ा नेटवर्क पुलिस ने ध्वस्त कर दिया है। इस कार्रवाई से क्षेत्रीय सुरक्षा स्थिति में सुधार की उम्मीद जताई गई है। नशे के विरुद्ध त्रिशूल: पूर्वोत्तर में नशे के अवैध कारोबार का अंतरराष्ट्रीय नेटवर्क ध्वस्त, ऐसी निरंतरता जरूरी।
 
-### [वो रहस्यमयी जगह, जहां रहते हैं इंसानी मांस पिघलाने वाले सांप, वसीयत बनाकर ही जाएं यहां, लौटने की](https://hindi.news18.com/world/rest-of-world-brazil-snake-island-ilha-da-queimada-grande-deadliest-place-on-earth-venomous-snakes-island-amazing-places-on-earth-2-photogallery-ws-l-10937845.html)
-*News18 Hindi (World)* - Oct 26, 13:35 IST (iso: 2026-10-26T08:05:01+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/snake-island-5-2026-10-8ee8539562c42f69f809fdf3543b2884-1200x800.jpg -->
+---
 
-ब्राजील के तट के पास स्थित इस द्वीप पर घातक सांपों का राज चलता है। आम लोगों के द्वीप पर जाने पर कड़ी पाबंदी है। वहां जाकर वापस लौटने की कोई गारंटी नहीं है, इसलिए यह दुनिया की सबसे खतरनाक जगहों में गिना जाता है। Brazil Snake Island:दुनिया में एक ऐसी जगह भी है, जहां इंसानों का नहीं सांपों का राज चलता है.
+## यूरोप और रूस
+
+### [राजधानी की सभी जिला अदालतों में आज हड़ताल, वकीलों के कार्य बहिष्कार से ठप रहेगा कामकाज, जानें वजह](https://www.amarujala.com/delhi-ncr/strike-in-all-district-courts-of-capital-today-work-to-remain-stalled-due-to-lawyers-boycott-find-out-why-in-d-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 01:39 IST (iso: 2026-10-26T20:09:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/thall-ma-vakal-ka-haugdhatal_45307ee824e243fc204e592ae05d43c9.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली की सभी जिला अदालतें 27 अक्टूबर 2026 को बंद रहेंगी। वकीलों ने दिल्ली पुलिस के खिलाफ एक दिन की हड़ताल की घोषणा की है। इससे अदालती कामकाज पूरी तरह ठप रहेगा। राष्ट्रीय राजधानी दिल्ली की सभी जिला अदालतें 27 अक्तूबर 2026 को बंद रहेंगी। वकीलों ने दिल्ली पुलिस के खिलाफ एक दिन की हड़ताल का आह्वान किया है। इस हड़ताल के कारण उस दिन अदालती कामकाज पूरी तरह से ठप रहेगा।
+
+### [भारतीय नौसेना की एयर-पावर बनेगा रफाल-M, गोवा में चल रहा ऑपेशनल ट्रायल](https://www.abplive.com/news/india/rafale-m-will-boost-indian-navy-air-power-above-sea-currently-conducting-operational-trials-in-goa-ann-3207195)
+*ABP Live (India)* - Oct 26, 20:28 IST (iso: 2026-10-26T14:58:21+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/b79e973cee742e579977d1f2c46c287c17930265404631126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+भारतीय नौसेना के लिए 26 रफाल-एम विमानों का ऑपरेशनल ट्रायल गोवा में चल रहा है। इस सौदे की कुल कीमत 63 हजार करोड़ रुपये है। फ्रांस की दासो कंपनी इन विमानों का निर्माण कर रही है। यह सौदा 2025 में दोनों देशों के बीच हुए समझौते के तहत किया गया था। पिछले साल यानी 2025 के अप्रैल महीने में भारत और फ्रांस के बीच रफाल फाइटर जेट के 26 मरीन वर्जन का सौदा किया था.
 
 ---
 
