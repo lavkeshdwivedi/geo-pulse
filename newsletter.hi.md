@@ -1,172 +1,168 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 27, 2026 06:34 IST
+**अपडेट:** October 27, 2026 12:25 IST
 
 ---
 
 ## दुनिया
 
-### [प्रदेश की 11 विधान परिषद सीटों के लिए मतगणना आज, इन सात शहरों में होगी गिनती; जानिए कब आएंगे परिणाम](https://www.amarujala.com/lucknow/up-counting-of-votes-for-11-legislative-council-seats-tomorrow-will-take-place-in-these-seven-cities-find-2026-10-26)
-*Amar Ujala Breaking* - Oct 27, 12:17 IST (iso: 2026-10-27T06:47:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/yapa-ma-vata-ka-ganata_6557d37ab96459b4ea28cde5a771e60a.jpeg?w=1200&dpr=1.0 -->
+### [ओडिशा के कई हिस्सों में तेज हवा के साथ भारी बारिश जारी, आंध्र प्रदेश में कैसा है मौसम?](https://www.amarujala.com/india-news/cyclone-arnab-odisha-orange-alert-andhra-pradesh-landfall-heavy-rainfall-2026-10-27)
+*Amar Ujala National* - Oct 27, 12:25 IST (iso: 2026-10-27T06:55:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/cyclone-arnab_7abb441b14b8e159f7a62546833fb821.jpeg?w=1200&dpr=1.0 -->
 
-उत्तर प्रदेश में 27 अक्टूबर को 11 विधान परिषद सीटों के लिए मतगणना होगी। सात शहरों में वोटों की गिनती का काम चालू रहेगा। मुख्य मुकाबला भाजपा और सपा के बीच देखने को मिल रहा है। UP Legislative Council Elections: यूपी में 11 विधान परिषद सीटों के लिए वोटों की गिनती 27 अक्तूबर को होगी। मुख्य मुकाबला भाजपा और सपा के बीच है।
+चक्रवात अर्नब के असर से ओडिशा के कई हिस्सों में तेज हवा के साथ भारी बारिश जारी है। आंध्र प्रदेश में भी मौसम खराब बना हुआ है। प्रशासन ने नारंगी अलर्ट जारी किया है। ओडिशा के कई हिस्सों में तेज हवा के साथ भारी बारिश जारी, आंध्र प्रदेश में कैसा है मौसम?
 
-### [चक्रवात अर्नब कितना खतरनाक; किन राज्यों पर मंडरा रहा खतरा और कब टकराएगा तट से?](https://www.amarujala.com/india-news/explainer-how-dangerous-is-cyclone-arnab-which-states-are-at-risk-and-when-will-it-make-landfall-2026-10-26)
-*Amar Ujala National* - Oct 27, 06:21 IST (iso: 2026-10-27T00:51:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/cakaravata-aranab_dd27695f8be79fede6720956acb4e40f.jpeg?w=1200&dpr=1.0 -->
+### [प्रेग्नेंसी में करवा चौथ का व्रत रखना चाहिए या नहीं? गायनेकोलॉजिस्ट ने दी जानकारी](https://www.amarujala.com/photo-gallery/lifestyle/fitness/karwa-chauth-fasting-during-pregnancy-is-it-safe-gynecologist-explains-risks-and-precautions-2026-10-27)
+*Amar Ujala National* - Oct 27, 12:24 IST (iso: 2026-10-27T06:54:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/karwa-chauth-fasting-during-pregnancy_e8cfb2d6e325375ddadade9856a0dfa8.jpeg?w=1200&dpr=1.0 -->
 
-चक्रवात अर्नब के तटीय राज्यों पर प्रभाव पड़ने की संभावना है। मौसम विभाग ने खतरे के संकेत दिए हैं। तट से टकराव का समय और प्रभावित क्षेत्रों की सूची जारी की गई है। एक्सप्लेनर: चक्रवात अर्नब कितना खतरनाक; किन राज्यों पर मंडरा रहा खतरा और कब टकराएगा तट से?
+गायनेकोलॉजिस्टों के अनुसार गर्भावस्था में करवा चौथ का निर्जला व्रत सुरक्षित नहीं माना जाता है। इससे शरीर में पानी की कमी और अन्य स्वास्थ्य समस्याएं हो सकती हैं। डॉक्टर सुरक्षित विकल्पों की सलाह देते हैं। जानें गायनेकोलॉजिस्ट की सलाह, व्रत रखने के संभावित नुकसान, जरूरी सावधानियां और गर्भवती महिलाओं के लिए सुरक्षित विकल्प। प्रेग्नेंसी में करवा चौथ का व्रत रखना चाहिए या नहीं?
 
-### ['चार-पांच गाने होंगे, दो हीरोइन और एक्शन', पुराने फॉर्मूले पर बोले मनोज बाजपेयी, कहा- सिनेमा बदल गया](https://www.amarujala.com/entertainment/celebs-interviews/manoj-bajpayee-interview-gajab-raat-movie-actor-talks-about-his-movies-career-and-changes-in-cinema-industry-2026-10-26)
-*Amar Ujala National* - Oct 27, 06:20 IST (iso: 2026-10-27T00:50:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/manaja-bjapaya_c8d15e420dee3a37960f99becd1e880c.jpeg?w=1200&dpr=1.0 -->
+### [करवा चौथ पर ऐसे बनाएं पारंपरिक चावल के फर्रे, न टूटेंगे न रहेंगे कड़े!](https://www.amarujala.com/photo-gallery/lifestyle/healthy-food/karwa-chauth-special-rice-farre-recipe-easy-tips-to-make-perfect-pitha-2026-10-27)
+*Amar Ujala National* - Oct 27, 12:16 IST (iso: 2026-10-27T06:46:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/farra-recipe-in-hindi_9274aca9eb97d6bb5f532d3dbb17dd58.jpeg?w=1200&dpr=1.0 -->
 
-मनोज बाजपेयी ने कहा कि पुराने सिनेमा के फॉर्मूले अब काम नहीं करते। उन्होंने नई पीढ़ी के दर्शकों के बदलते रुझानों पर ध्यान आकर्षित किया। फिल्मों की कहानियों में बदलाव जरूरी है। मनोज बाजपेयी अपने करियर में कई बार पुलिस की वर्दी पहन चुके हैं। 'शूल', 'स्पेशल 26', 'ट्रैफिक', 'सत्यमेव जयते', 'डायल 100' और 'इंस्पेक्टर झेंडे' जैसी फिल्मों में वह पुलिस अधिकारी या पुलिसकर्मी के रूप में नजर आए हैं।
+करवा चौथ पर पारंपरिक चावल के फर्रे बनाने के लिए आटा सही तरीके से तैयार करना जरूरी है। भरावन में नमी नियंत्रित रखने से फर्रे न टूटते हैं। उचित समय तक भाप में पकाने से वे नरम रहते हैं। करवा चौथ पर चावल के फर्रे या पिट्ठा बनाकर आप अपनी पारंपरिक रेसिपी को त्योहार की थाली में शामिल कर सकती हैं।
 
-### [विपक्ष की एसआईआर से जुड़ी याचिकाओं पर सुनवाई, इस्राइल में आम चुनाव के लिए डाले जाएंगे वोट](https://www.amarujala.com/india-news/27-october-2026-major-event-2026-2026-10-26)
-*Amar Ujala Breaking* - Oct 27, 06:16 IST (iso: 2026-10-27T00:46:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/aaja-ka-khabra_1cb8bf2a303e3599006e348837453728.gif?w=1200&dpr=1.0 -->
+### [इस्राइल के प्रधानमंत्री को कितना मिलता है वेतन? नेतन्याहू से ज्यादा इस शख्स को मिलती है सैलरी](https://www.amarujala.com/bizarre-news/israel-election-2026-benjamin-netanyahu-salary-details-2026-10-26)
+*Amar Ujala National* - Oct 27, 12:09 IST (iso: 2026-10-27T06:39:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/08/benjamin-netanyahu-trump-call-photo-book-allies-at-war-goes-viral-on-internet_0d36633f8547a7c324679bd012ec21a6.jpeg?w=1200&dpr=1.0 -->
 
-विपक्ष की एसआईआर से जुड़ी याचिकाओं पर सुप्रीम कोर्ट में सुनवाई होगी। इस्राइल में आम चुनाव के लिए मतदान प्रक्रिया शुरू होगी। दोनों ही घटनाक्रमों पर नजर रखी जा रही है। नमस्कार! आज है मंगलवार, 27 अक्तूबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं विपक्ष की एसआईआर से जुड़ी याचिकाओं पर सुनवाई, इस्राइल में आम चुनाव के लिए डाले जाएंगे वोट।
+इस्राइल के प्रधानमंत्री बेंजामिन नेतन्याहू को देश के अन्य वरिष्ठ अधिकारियों की तुलना में कम वेतन मिलता है। उनकी सैलरी के विवरण नेतन्याहू के फैसलों की चर्चा के बीच सामने आए हैं। नेतन्याहू के कई फैसलों की दुनियाभर में चर्चा होती है। लेकिन आपको पता है कि इस्राइल के प्रधानमंत्री नेतन्याहू को कितनी सैलरी मिलती है। वह कई वर्षों से इस्राइल के पीएम पद पर काबिज हैं।
 
-### [हिमाचल में हर दस साल में बढ़ रहे सूखे के चार दिन, जल सुरक्षा-कृषि पर पड़ सकता है असर](https://www.amarujala.com/himachal-pradesh/study-major-revelation-number-of-dry-days-increasing-in-the-western-himalayas-situation-in-himachal-is-conc-2026-10-26)
-*Amar Ujala Breaking* - Oct 27, 06:10 IST (iso: 2026-10-27T00:40:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/himachal-drought-situation_3682f3d87e5ec42182d20039e19c56ae.jpeg?w=1200&dpr=1.0 -->
+### [महिलाओं के लिए कितना खतरनाक है स्ट्रेस, ये रिपोर्ट खोल देगी आपकी आंख; जानलेवा समस्याओं का भी खतरा](https://www.amarujala.com/lifestyle/fitness/why-stress-may-be-more-dangerous-for-women-heart-health-and-heart-attack-risk-2026-10-27)
+*Amar Ujala National* - Oct 27, 12:04 IST (iso: 2026-10-27T06:34:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/stress-heart-attack_dcb62138aec2ae6de09d2966dfcbee0d.jpeg?w=1200&dpr=1.0 -->
 
-पश्चिमी हिमालय में सूखे की स्थिति गंभीर हो रही है। हर दस साल में सूखे के दिन बढ़ रहे हैं। जल सुरक्षा और कृषि उत्पादन पर इसका प्रभाव पड़ सकता है। पश्चिमी हिमालय में सूखे की स्थिति गंभीर होने के संकेत मिल रहे हैं। हिमाचल में हर दस साल में बढ़ रहे सूखे के चार दिन, जल सुरक्षा-कृषि पर पड़ सकता है असर।
+नए अध्ययनों में लगातार तनाव के दौरान महिलाओं में हृदय रक्त प्रवाह में कमी और खून के थक्के बनने का खतरा सामने आया है। यह स्थिति गंभीर हृदय रोग और हार्ट अटैक का कारण बन सकती है। लगातार तनाव महिलाओं के दिल की सेहत को प्रभावित कर सकता है। कुछ अध्ययनों में तनाव के दौरान दिल तक खून का प्रवाह घटने और खून के थक्के बनने की प्रवृत्ति बढ़ने के संकेत मिले हैं।
 
-### [ईएसआई अस्पतालों में बढ़ेंगी सुविधाएं: आईसीयू से लेकर कैंसर के इलाज तक का प्रस्ताव; 14.9 करोड़ लोगों](https://www.amarujala.com/india-news/esic-hospitals-to-expand-medical-facilities-including-icu-and-cancer-treatment-for-14-9-crore-beneficiaries-2026-10-27)
-*Amar Ujala Breaking* - Oct 27, 06:04 IST (iso: 2026-10-27T00:34:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/iiesaaaii-asapatal-ma-bugdhhaga-savathhae_2fd760f9ba07358fe5b10c357baf4185.jpeg?w=1200&dpr=1.0 -->
+### [अब लंबी-चौड़ी थीसिस लिखने का झंझट खत्म: इस आईआईटी में पीएचडी का नया मॉडल हुआ शुरू? जानें कैसे](https://www.amarujala.com/education/iit-ropar-introduces-product-driven-phd-model-scholars-can-pursue-doctorate-through-startups-and-patents-2026-10-27)
+*Amar Ujala National* - Oct 27, 12:00 IST (iso: 2026-10-27T06:30:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/iit-ropar_fcf178902aa2b766cec4ae61b48cf2e3.jpeg?w=1200&dpr=1.0 -->
 
-ईएसआईसी ने 14.9 करोड़ लाभार्थियों के लिए अस्पतालों में आईसीयू और कैंसर उपचार सुविधाओं का विस्तार प्रस्तावित किया है। यह कदम मौजूदा स्वास्थ्य सेवाओं को बेहतर बनाने के उद्देश्य से उठाया गया है। ईएसआई अस्पतालों में बढ़ेंगी सुविधाएं: आईसीयू से लेकर कैंसर के इलाज तक का प्रस्ताव; 14.9 करोड़ लोगों।
+आईआईटी रोपड़ ने पीएचडी के लिए नया मॉडल शुरू किया है। इसमें शोधार्थियों को पारंपरिक थीसिस के बजाय पेटेंट, स्टार्टअप या तकनीक स्थानांतरण जैसी व्यावहारिक उपलब्धियां प्रस्तुत करनी होंगी। आईआईटी रोपड़ ने पीएचडी की पढ़ाई के लिए नया प्रोडक्ट और स्टार्टअप आधारित मॉडल शुरू किया है। इसके तहत शोधार्थियों को पारंपरिक थीसिस के बजाय पेटेंट, अपना स्टार्टअप या तकनीक को किसी कंपनी तक पहुंचाने जैसे।
 
-### [न बर्फ में रंग, न कोई एल्गी, फिर कैसे खूनी पानी उगलता है झरना? हॉरर फिल्म जैसे सीन के पीछे क्या है](https://hindi.news18.com/world/rest-of-world-mysterious-antarctica-blood-falls-secret-how-water-became-red-without-color-amazing-places-on-earth-photogallery-ws-l-10937875.html)
-*News18 Hindi (World)* - Oct 27, 06:01 IST (iso: 2026-10-27T00:31:02+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/blood-falls-2-2026-10-1f6376b6a18f5066e3d05c495aa335d5-1200x800.jpg -->
+### [पैरालिसिस का मरीज बनकर मांग रहा था भीख? इंजेक्शन देखते ही लगा दी ऐसी दौड़, वीडियो देख नहीं रुकेगी](https://www.amarujala.com/bizarre-news/fake-paralysis-patient-runs-away-after-seeing-an-injection-viral-video-leaves-internet-in-splits-2026-10-27)
+*Amar Ujala National* - Oct 27, 11:59 IST (iso: 2026-10-27T06:29:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/ijakashana-lgana-sa-pahal-ha-thaka-ha-gaya-maraja_2ea45b385845b578a038910a70466e95.jpeg?w=1200&dpr=1.0 -->
 
-अंटार्कटिका में स्थित ब्लड फॉल्स झरने से लाल रंग का पानी बहता है। इसका कारण बर्फ में मौजूद विशेष प्रकार के सूक्ष्म जीव हैं, जो आयरन ऑक्साइड के संपर्क में आकर पानी को लाल कर देते हैं। How Water turns Red in Blood Falls: दुनिया में आपने बहुत कुछ देखा होगा लेकिन शायद ही कभी कोई ऐसा झरना देखा हो, जिसमें पानी लाल रंग का हो.
+सोशल मीडिया पर एक वीडियो वायरल हुआ है जिसमें सड़क किनारे पैरालिसिस का नाटक कर भीख मांगते व्यक्ति को इंजेक्शन दिखाने पर भागते देखा गया। इस नजरे ने लोगों को हंसा दिया। सोशल मीडिया पर एक वीडियो तेजी से वायरल हो रहा है। इसमें सड़क किनारे पैरालिसिस का मरीज बनकर भीख मांग रहे एक शख्स के सामने जब इंजेक्शन लगाने की बात कही जाती है, तो वह अचानक उठकर भागने लगता है।
 
-### [Weather Forecast 27 October 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-for-27-october-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-10-27)
-*Amar Ujala National* - Oct 27, 06:00 IST (iso: 2026-10-27T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/weather-forecast_a3247d5fc58a76653faaa2a2f665679c.jpeg?w=1200&dpr=1.0 -->
+### [विधान परिषद की आठ सीटों के लिए मतगणना जारी,अनंत सिंह के घर में भारी इंतजाम](https://www.amarujala.com/video/india-news/bihar-mlc-result-2026-counting-of-votes-begins-for-8-mlc-seats-in-bihar-2026-10-27)
+*Amar Ujala National* - Oct 27, 11:58 IST (iso: 2026-10-27T06:28:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/anant-singh_a61e70f1c90e4fbd5f8d76ac5f69424b.jpeg?w=1200&dpr=1.0 -->
 
-27 अक्टूबर 2026 के लिए मौसम विभाग ने विभिन्न क्षेत्रों का पूर्वानुमान जारी किया है। इसमें तापमान, वर्षा और हवा की दिशा से जुड़ी जानकारी शामिल है, जिससे स्थानीय लोगों को तैयारी में मदद मिलेगी।
+बिहार विधान परिषद की आठ सीटों के लिए मतगणना जारी है। इस दौरान अनंत सिंह के निवास पर भारी सुरक्षा इंतजाम किए गए हैं। बिहार विधान परिषद चुनाव: विधान परिषद की आठ सीटों के लिए मतगणना जारी, अनंत सिंह के घर में भारी इंतजाम।
 
-### [आज आएंगे विधान परिषद चुनाव नतीजे; गुवाहाटी में पांच की हत्या; चक्रवात अर्नब पर कई राज्यों में अलर्ट](https://www.amarujala.com/photo-gallery/india-news/top-headline-today-important-and-big-news-stories-of-27-october-2026-updates-on-amar-ujala-2026-10-27)
-*Amar Ujala Breaking* - Oct 27, 05:59 IST (iso: 2026-10-27T00:29:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0 -->
+### [कब आएगा विठाबाई की बायोपिक का ट्रेलर? मेकर्स ने दी जानकारी; बॉक्स ऑफिस पर तबाही मचाने को तैयार](https://www.amarujala.com/entertainment/bollywood/shraddha-kapoor-and-randeep-hooda-upcoming-film-eetha-trailer-release-date-2026-10-27)
+*Amar Ujala National* - Oct 27, 11:56 IST (iso: 2026-10-27T06:26:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/iitha_c77f96660f45d91d23feb4406a31dee3.jpeg?w=1200&dpr=1.0 -->
 
-आज विधान परिषद चुनाव के नतीजे आने वाले हैं। गुवाहाटी में पांच लोगों की हत्या का मामला सामने आया है। चक्रवात अर्नब के कारण कई राज्यों में हाई अलर्ट जारी किया गया है। सुर्खियां: आज आएंगे विधान परिषद चुनाव नतीजे; गुवाहाटी में पांच की हत्या; चक्रवात अर्नब पर कई राज्यों में अलर्ट।
+श्रद्धा कपूर और रणदीप हुड्डा की फिल्म 'ईठा' जल्द रिलीज होगी। मेकर्स ने फिल्म के ट्रेलर की रिलीज तिथि की जानकारी दे दी है। Eetha Teaser: श्रद्धा कपूर और रणदीप हुड्डा की अपकमिंग फिल्म 'ईठा' सिनेमाघरों में जल्द ही रिलीज होने वाली है। इससे पहले मेकर्स ने जानकारी दी है कि इस फिल्म का ट्रेलर कब जारी किया जाएगा। कब आएगा विठाबाई की बायोपिक का ट्रेलर?
 
-### [कुंभ राशि वालों के लिए नए अवसरों के खुलेंगे द्वार, दोस्तों से मिल सकता है सहयोग](https://www.amarujala.com/astrology/predictions/aaj-ka-kumbh-rashifal-27-october-2026-aquarius-horoscope-in-hindi-2026-10-26)
-*Amar Ujala National* - Oct 27, 05:28 IST (iso: 2026-10-26T23:58:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/06/aaja-ka-rashafal_8fd52ddbb0573d0a5c29ae44758932ba.jpeg?w=1200&dpr=1.0 -->
+### [क्राइम सीन रीक्रिएशन के दौरान पुलिस की छीनी पिस्तौल, भागने के दौरान मुठभेड़ में दुष्कर्म का आरोपी](https://www.amarujala.com/india-news/bengal-accused-snatches-pistol-from-police-crime-scene-reconstruction-killed-encounter-attempting-to-escape-2026-10-27)
+*Amar Ujala National* - Oct 27, 11:53 IST (iso: 2026-10-27T06:23:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/23/hataya-sakataka-tasavara_51f771b841a0c2a55161e963c8d8af1b.jpeg?w=1200&dpr=1.0 -->
 
-The source provides astrological advice for Taurus. It suggests new opportunities and support from friends. No verifiable news event or factual outcome is present in the text. माताजी आपको कोई महत्वपूर्ण जिम्मेदारी सौंप सकती हैं और आप उसे अच्छी तरह निभाने में सफल रहेंगे। अपनी रचनात्मकता के साथ अनुशासन बनाए रखेंगे तो नए अवसरों का पूरा लाभ उठा पाएंगे। कुंभ राशि वालों के लिए नए अवसरों के खुलेंगे द्वार, दोस्तों से मिल सकता है सहयोग।
+बंगाल में एक दुष्कर्म आरोपी ने क्राइम सीन रीक्रिएशन के दौरान पुलिस की पिस्तौल छीन ली। भागने के प्रयास में हुई मुठभेड़ में पुलिस ने उसे मार गिराया। घटना स्थल पर तुरंत सुरक्षा कड़ी कर दी गई। क्राइम सीन रीक्रिएशन के दौरान पुलिस की छीनी पिस्तौल, भागने के दौरान मुठभेड़ में दुष्कर्म का आरोपी।
 
-### [दिवाली-छठ पर रेलवे की बड़ी तैयारी: निजामुद्दीन और आनंद विहार स्टेशन पर बदलेंगी व्यवस्थाएं, ओवरब्रिज](https://www.amarujala.com/delhi-ncr/major-preparations-by-railways-for-diwali-and-chhath-arrangements-at-nizamuddin-and-anand-vihar-stations-to-be-2026-10-27)
-*Amar Ujala Breaking* - Oct 27, 05:15 IST (iso: 2026-10-26T23:45:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/ralva-ka-bugdha-tayara_2455ce91d052ff9191df21bcf8c50a28.jpeg?w=1200&dpr=1.0 -->
+### [लग्जरी कार में मिलेगी 3D कर्व्ड OLED टेललाइट तकनीक, सड़क पर पैदल यात्रियों को कैसे दिखेगा टर्न](https://www.amarujala.com/automobiles/audi-q9-to-debut-3d-oled-tail-lights-with-512-controllable-segments-2026-10-27)
+*Amar Ujala National* - Oct 27, 11:49 IST (iso: 2026-10-27T06:19:35+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/oida-kaya9_76c2953c23da4d0f4af42b191b1b8807.png?w=1200&dpr=1.0 -->
 
-Indian Railways prepares for Diwali and Chhath festival crowds. Northern Railway spends 44 million rupees on lighting at Hazrat Nizamuddin station. Systems at Anand Vihar station also change. दिवाली और छठ पर्व के दौरान यात्रियों की बढ़ती भीड़ को संभालने के लिए रेलवे ने तैयारियां तेज कर दी हैं। हजरत निजामुद्दीन रेलवे स्टेशन पर रोशनी की व्यवस्था बेहतर करने के लिए उत्तर रेलवे करीब सवा चार करोड़ रुपये खर्च करेगा।
+ऑडी ने क्यू9 में 3D OLED टेललाइट तकनीक का पहला उपयोग किया है। इसमें छह पैनल और 512 नियंत्रित सेगमेंट शामिल हैं। यह तकनीक सड़क पर पैदल यात्रियों को टर्न संकेत स्पष्ट रूप से दिखाती है। ऑडी क्यू9 में पहली बार 3D OLED टेललाइट्स। छह पैनलों में 512 कंट्रोल योग्य सेगमेंट। लग्जरी कार में मिलेगी 3D कर्व्ड OLED टेललाइट तकनीक, सड़क पर पैदल यात्रियों को कैसे दिखेगा टर्न।
 
-### [यूपी में 31 अक्तूबर तक अलर्ट, 11 राज्यों में भारी बारिश; ओडिशा में स्कूल बंद](https://www.amarujala.com/india-news/cyclone-arnab-alert-up-odisha-and-andhra-pradesh-prepare-for-heavy-rain-and-strong-winds-2026-10-27)
-*Amar Ujala National* - Oct 27, 05:08 IST (iso: 2026-10-26T23:38:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/cyclone-arnab-alert_4d30157a90478687306af7b01544b1a1.jpeg?w=1200&dpr=1.0 -->
+### [यूपी, बिहार, महाराष्ट्र समेत चार राज्यों में मतगणना शुरू, कब आएगा पहला रुझान?](https://www.amarujala.com/live/india-news/mlc-elections-vote-counting-live-update-up-bihar-maharashtra-karnataka-legislative-council-constituencies-news-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 11:45 IST (iso: 2026-10-27T06:15:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/mlc-elections-vote-counting_2bf8a9ed33320a6dd4d0b304291dbdfd.jpeg?w=1200&dpr=1.0 -->
 
-चक्रवात अर्नाब के कारण उत्तर प्रदेश में 31 अक्टूबर तक अलर्ट जारी है। ओडिशा में स्कूल बंद किए गए हैं। आंध्र प्रदेश में 27 करोड़ रुपये राहत के लिए जारी किए गए हैं। यूपी में 31 अक्तूबर तक अलर्ट, ओडिशा में स्कूल बंद; आंध्र में 27 करोड़ जारी। चक्रवात अर्नब से बिगड़ेगा मौसम: यूपी में 31 अक्तूबर तक अलर्ट, 11 राज्यों में भारी बारिश; ओडिशा में स्कूल बंद।
+उत्तर प्रदेश, बिहार, महाराष्ट्र और एक अन्य राज्य में विधान परिषद चुनाव की मतगणना शुरू हो गई है। प्रमुख सीटों पर नतीजों का पहला रुझान जल्द सामने आने की उम्मीद है। मतगणना प्रक्रिया सुचारू रूप से जारी है। विधान परिषद चुनाव मतगणना LIVE: आज UP, बिहार, महाराष्ट्र समेत चार राज्यों में मतों की गिनती, किन सीटों पर नजर? यूपी, बिहार, महाराष्ट्र समेत चार राज्यों में मतगणना शुरू, कब आएगा पहला रुझान?
 
-### [अफसर से माननीय बनने की होड़: किसी ने बनाई पार्टी, किसी ने बदला दल; क्या वोटों में बदलेगा प्रशासनिक](https://www.amarujala.com/india-news/former-bureaucrats-enter-politics-ahead-of-up-elections-many-struggle-to-find-electoral-success-2026-10-27)
-*Amar Ujala Breaking* - Oct 27, 04:32 IST (iso: 2026-10-26T23:02:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/up-assembly-election_12466ae0d3c170cd263dc6173d1d59a4.jpeg?w=1200&dpr=1.0 -->
+### [दुनिया की सबसे खूबसूरत हैंडराइटिंग वाली लड़की, लिखावट ऐसी, मानो टाइप किए गए हैं एक-एक अक्षर](https://hindi.news18.com/world/south-asia-most-beautiful-handwriting-in-the-world-nepali-girl-prakriti-malla-writes-like-typing-amazing-news-photogallery-10940137.html)
+*News18 Hindi (World)* - Oct 27, 11:29 IST (iso: 2026-10-27T05:59:48+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/prakriti-malla-1-2026-10-3d6f3b143e162d4b24fcabaa8ea0bcb5-1200x800.jpg -->
 
-उत्तर प्रदेश चुनावों से पहले कई पूर्व अधिकारी राजनीति में प्रवेश कर रहे हैं। कुछ ने नई पार्टी बनाई, कुछ ने दल बदला। वोटों में प्रशासनिक रुतबे का असर देखने को मिलेगा। अफसर से माननीय बनने की होड़: किसी ने बनाई पार्टी, किसी ने बदला दल; क्या वोटों में बदलेगा प्रशासनिक।
+एक लड़की की हैंडराइटिंग को दुनिया की सबसे खूबसूरत माना गया है। उसकी लिखावट इतनी सुंदर है कि अक्षर टाइप किए हुए लगते हैं। यह प्रतिभा उसकी पर्सनैलिटी को भी दर्शाती है। World's Beautiful Handwriting: आपने बचपन से यही सुना होगा कि आपकी हैंडराइटिंग बताती है कि आपकी पर्सनालिटी कैसी है. अच्छी लिखावट के लिए डांट भी खूब पड़ी होगी लेकिन क्या आपको पता है कि एक लड़की ऐसी भी है, जिसकी हैंडराइटिंग को दुनिया में सबसे खूबसूरत माना गया है.
 
-### [भाजपा-शिअद गठबंधन पर बातचीत अंतिम दौर में: 40 सीटों पर चुनाव लड़ सकती है भाजपा, दीपावली के बाद](https://www.amarujala.com/india-news/bjp-akali-dal-alliance-talks-in-final-stage-formal-announcement-likely-after-diwali-2026-10-27)
-*Amar Ujala Breaking* - Oct 27, 04:17 IST (iso: 2026-10-26T22:47:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/27/bhajapa-sa-gathabthhana-ka-itajara-ma-shaatha_4843300e066ce30664608cdf5011935e.jpeg?w=1200&dpr=1.0 -->
+### [अनूप बागची ने एमडी और सीईओ पद की संभाली कमान, चुनौतियों से कैसे मिलेगी मुक्ति?](https://www.amarujala.com/business/business-diary/anup-bagchi-takes-helm-as-hdfc-bank-ceo-amidst-challenges-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 11:17 IST (iso: 2026-10-27T05:47:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/anoop-bagachi_756dc6b95c19d616f2deebf145373f13.jpeg?w=1200&dpr=1.0 -->
 
-भाजपा और शिअद के बीच गठबंधन बातचीत अंतिम दौर में है। भाजपा 40 सीटों पर चुनाव लड़ सकती है। आधिकारिक घोषणा दीपावली के बाद संभव है। भाजपा-शिअद गठबंधन पर बातचीत अंतिम दौर में: 40 सीटों पर चुनाव लड़ सकती है भाजपा, दीपावली के बाद।
+आईसीआईसीआई समूह के अनूप बागची ने एचडीएफसी बैंक के प्रबंध निदेशक और सीईओ का पदभार संभाला। बैंक आय वृद्धि और मार्जिन की चुनौतियों से जूझ रहा है। पूर्व प्रमुख शशिधर जगदीश के कार्यकाल में शासन संबंधी कमियां सामने आई थीं। आईसीआईसीआई समूह के अनुभवी अनूप बागची ने एचडीएफसी बैंक के नए प्रबंध निदेशक और मुख्य कार्यकारी का पदभार संभाला है।
 
-### [100 करोड़ के स्कूल घोटाले में फंसे द्रमुक नेता, पूर्व मंत्री गिरफ्तार, छह नवंबर तक न्यायिक हिरासत](https://www.amarujala.com/india-news/former-tamil-nadu-minister-anbil-mahesh-poyyamozhi-arrested-in-alleged-rs-100-crore-school-approval-scam-2026-10-27)
-*Amar Ujala Breaking* - Oct 27, 01:50 IST (iso: 2026-10-26T20:20:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/former-tamil-nadu-minister-anbil-mahesh-poyyamozhi_1147fe3909b8e8570950223f97e10186.jpeg?w=1200&dpr=1.0 -->
+### [ऐसे तय होती है उम्मीदवारों की जीत-हार, जानिए क्या है वरीयता मतों की गिनती का पूरा गणित](https://www.amarujala.com/uttar-pradesh/meerut/mlc-election-how-preferential-voting-determines-the-winner-in-teacher-and-graduate-constituencies-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 11:09 IST (iso: 2026-10-27T05:39:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/maratha-ma-kashha-vashavavathayalya-ma-mataganaena_043d1df5068209a80d5618c68b2407cf.jpeg?w=1200&dpr=1.0 -->
 
-तमिलनाडु में 100 करोड़ रुपये के स्कूल अनुमोदन घोटाले में द्रमुक के पूर्व मंत्री अनबिल महेश पॉयमोजी को गिरफ्तार किया गया है। उन्हें छह नवंबर तक न्यायिक हिरासत में रखा गया है। 100 करोड़ के स्कूल घोटाले में फंसे द्रमुक नेता, पूर्व मंत्री गिरफ्तार, छह नवंबर तक न्यायिक हिरासत।
+एमएलसी चुनावों में वरीयता मतों की गिनती से विजेता तय होता है। इस प्रक्रिया में मतदाताओं की प्राथमिकताओं के आधार पर सीटें आवंटित की जाती हैं। यह गणित जटिल प्रणाली को समझने के लिए आवश्यक है। एमएलसी चुनाव में कैसे तय होता है विजेता? समझें वरीयता मतों की गिनती। ऐसे तय होती है उम्मीदवारों की जीत-हार, जानिए क्या है वरीयता मतों की गिनती का पूरा गणित।
 
-### [हैदराबाद में हनी ट्रैप का मामला, आरोपी को चार दिन की पुलिस कस्टडी में भेजा](https://www.abplive.com/news/india/honey-trap-case-in-hyderabad-accused-sent-to-four-day-police-custody-3207250)
-*ABP Live (India)* - Oct 26, 23:31 IST (iso: 2026-10-26T18:01:01+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/26/63c2f55da0e94fd0de469f610cf8b19217930373305281324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [उमर सरकार में चार नए मंत्रियों की ताजपोशी, विभागों में फेरबदल की तैयारी](https://www.amarujala.com/jammu-and-kashmir/srinagar/cabinet-expansion-in-jammu-and-kashmir-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 10:48 IST (iso: 2026-10-27T05:18:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/altafa-ahamatha-vana-shamama-farathasa-mara-safall-oura-al-mahamamatha-sagara_4d94f6f9ee5b4201c2a356ede2c357d3.jpeg?w=1200&dpr=1.0 -->
 
-हैदराबाद में हनी ट्रैप रैकेट का खुलासा हुआ। 23 वर्षीय कोंडाभट्टुला पवन कुमार को चार दिन की पुलिस कस्टडी में भेजा गया। इस रैकेट में पुलिसकर्मियों को निशाना बनाया गया था। हैदराबाद में हनी-ट्रैप और जबरन वसूली (एक्सटॉर्शन) रैकेट का खुलासा हुआ है. यह 23 साल के आरोपी कोंडाभट्टुला पवन कुमार को आगे की जांच के लिए चार दिन की पुलिस हिरासत में भेज दिया गया है.
+जम्मू-कश्मीर में मीर सैफुल्ला समेत चार नए मंत्रियों ने शपथ ली। विधायक जफर अली खटाना ने विस्तार का स्वागत किया, जबकि मुबारक गुल ने मंत्री पद न मिलने पर निराशा जताई। जम्मू-कश्मीर में मंत्रिमंडल विस्तार के बाद मीर सैफुल्ला समेत नए मंत्रियों ने शपथ ली। विधायक जफर अली खटाना ने विस्तार का स्वागत किया, जबकि मुबारक गुल ने करीब 30 शपथ ग्रहण समारोहों में शामिल होने के बावजूद मंत्री पद न मिलने पर निराशा जताई।
 
----
+### [ओपनएआई ने पेश किया नया GPT-6.1 Terra मॉडल: अब आधी कीमत पर डेली टास्क करने में हुआ माहिर, क्या-क्या](https://www.amarujala.com/technology/tech-diary/openai-launches-gpt-6-1-terra-50-cheaper-pricing-advanced-computer-use-capabilities-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 10:34 IST (iso: 2026-10-27T05:04:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/gpt-61-tara_9c6e329a386195b818095a70cfa52a8d.jpeg -->
 
-## मध्य पूर्व और अफ्रीका
-
-### [पुतिन के घर के बाहर 50 से एयर डिफेंस सिस्टम तैनात, जंग के लिए अफ्रीका तक पहुंचा रूस, क्या सैनिकों](https://hindi.news18.com/world/europe-russia-ukraine-war-air-defenses-near-putin-valdai-residence-moscow-is-recruiting-more-africans-10939114.html)
-*News18 Hindi (World)* - Oct 27, 06:01 IST (iso: 2026-10-27T00:31:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/puin-palace-2026-10-76c45efe9964148cd4fbcc908350b451-1200x800.jpg -->
-
-पुतिन के वाल्दाई आवास के आसपास 50 से अधिक एयर डिफेंस टावर तैनात कर दिए गए हैं। रूस ने यूक्रेन युद्ध के लिए बुरुंडी और जिम्बाब्वे जैसे अफ्रीकी देशों से सैनिक भर्ती भी बढ़ाई है। रूस के राष्ट्रपति व्लादिमीर पुतिन के वाल्दाई आवास के आसपास एयर डिफेंस टावरों की संख्या 50 से ज्यादा हो गई है. उनका आवास अब किसी किले की तरह सुरक्षित है.
-
-### [आज होंगे मतदान, PM नेतन्याहू के सामने पूर्व सैनिक की चुनौती; किन मुद्दों पर वोट करेगी जनता?](https://www.amarujala.com/world/israel-election-day-voting-for-26th-knesset-pm-netanyahu-vs-gadi-eisenkot-likud-vs-yashar-party-news-updates-2026-10-27)
-*Amar Ujala World* - Oct 27, 05:18 IST (iso: 2026-10-26T23:48:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/isarail-ma-matathana-aaja_3926b561b03d3a7c0d52b405c48fd467.jpeg?w=1200&dpr=1.0 -->
-
-Israel holds elections for its 26th Knesset. Prime Minister Benjamin Netanyahu faces a challenge from former soldier Gadi Eisenkot. Voters decide on key national issues today. आज होंगे मतदान, PM नेतन्याहू के सामने पूर्व सैनिक की चुनौती; किन मुद्दों पर वोट करेगी जनता?
-
-### [इजरायल में ‘राम भरोसे’ बनेगी सरकार? वोटिंग आज, नेतन्याहू की कुर्सी अटकाएगी 5 सीटों वाली पार्टी?](https://hindi.news18.com/world/middle-east-israel-election-benjamin-netanyahu-raam-party-government-10938998.html)
-*News18 Hindi (World)* - Oct 27, 05:11 IST (iso: 2026-10-26T23:41:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/netanyahu-4-2026-10-aabdb56b359d0889f266ab979eabaf34-1200x800.jpg -->
-
-Israel votes for the 26th Knesset. The Raam party, led by Mansour Abbas, holds about five seats. Their support is critical for forming a government with 61 seats. इजरायल के चुनाव में बेंजामिन नेतन्याहू की सत्ता बचाने की चुनौती के बीच राअम पार्टी चर्चा में है. देश की संसद नेसेट में 120 सीटें हैं और सरकार बनाने के लिए 61 सांसदों का समर्थन जरूरी है.
-
-### [जॉर्डन का सीरिया में बड़ा हवाई हमला: चर्च पर हमले का बदला लेने का दावा, कई आतंकी मारे गए; तीन](https://www.amarujala.com/world/jordan-launches-airstrikes-in-syria-over-church-attack-in-karak-2026-10-27)
-*Amar Ujala World* - Oct 27, 02:13 IST (iso: 2026-10-26T20:43:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/11/bugdha-khabra_af450dd548718eca5aa7d1d9015a22fd.jpeg?w=1200&dpr=1.0 -->
-
-जॉर्डन ने सीरिया पर हवाई हमले किए हैं। सरकार का दावा है कि यह कार्रवाई करक में चर्च पर हुए हमले के बदले की है। कई आतंकवादियों की मौत की खबर है। जॉर्डन का सीरिया में बड़ा हवाई हमला: चर्च पर हमले का बदला लेने का दावा, कई आतंकियों के मारे जाने की। जॉर्डन का सीरिया में बड़ा हवाई हमला: चर्च पर हमले का बदला लेने का दावा, कई आतंकी मारे गए; तीन संदिग्ध गिरफ्तार--Jordan Launches Airstrikes in Syria Over Church Attack in Karak।
-
-### [ईरान युद्ध के बीच यूएई के समुद्र में फैला तेल, लोगों की आवाजाही अस्थायी तौर रोकी गई](https://www.amarujala.com/video/world/amid-the-iran-conflict-oil-has-spread-in-the-waters-off-the-uae-movement-of-people-has-been-temporarily-halt-2026-10-27)
-*Amar Ujala World* - Oct 27, 01:42 IST (iso: 2026-10-26T20:12:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/huti-attack-on-saudi_f268e830db0bbf53881ecf3e06c9a739.jpeg?w=1200&dpr=1.0 -->
-
-ईरान युद्ध के दौरान यूएई के समुद्र में तेल फैल गया है। इससे लोगों की आवाजाही अस्थायी रूप से रोकी गई है। स्थिति पर नज़र रखी जा रही है। ईरान युद्ध के बीच यूएई के समुद्र में फैला तेल, लोगों की आवाजाही अस्थायी तौर रोकी गई।
+ओपनएआई ने GPT-6.1 Terra मॉडल पेश किया। यह नया मॉडल आधी कीमत पर दैनिक कार्यों को संभालने में सक्षम है। ओपनएआई ने पेश किया नया GPT-6.1 Terra मॉडल: अब आधी कीमत पर डेली टास्क करने में हुआ माहिर, क्या-क्या बदला?
 
 ---
 
 ## एशिया-प्रशांत
 
-### [छोटे कारोबारों पर साइबर हमलों में 52% का उछाल: छह महीने में 4.52 लाख मामले, हर दिन 20650 बार](https://www.amarujala.com/india-news/cyberattacks-on-indian-small-businesses-rise-52-in-first-half-of-2026-kaspersky-report-2026-10-27)
-*Amar Ujala National* - Oct 27, 05:35 IST (iso: 2026-10-27T00:05:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/04/cyber-attack_3559d86805e7ce6f497f7834146e10f6.jpeg?w=1200&dpr=1.0 -->
+### [कोयला खदान में फंसे 14 मजदूरों को निकाला गया, मणिपुर में सुरक्षा बलों ने की बड़ी कार्रवाई](https://www.amarujala.com/india-news/national-updates-27-oct-bengal-bengaluru-bihar-bjp-congress-north-east-west-south-politics-crime-other-news-2026-10-27)
+*Amar Ujala National* - Oct 27, 12:15 IST (iso: 2026-10-27T06:45:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_16003c2ba7e0cb7e22366c606b634689.jpeg?w=1200&dpr=1.0 -->
 
-Kaspersky reports a 52 percent rise in cyberattacks on Indian small businesses in the first half of 2026. The firm recorded 452,000 incidents over six months. This averages to 20,650 attempts daily. छोटे कारोबारों पर साइबर हमलों में 52% का उछाल: छह महीने में 4.52 लाख मामले, हर दिन 20650 बार।
+मणिपुर में सुरक्षा बलों ने कोयला खदान में फंसे 14 मजदूरों को सुरक्षित निकाला है। इसी दिन बंगलूरू में बिहार के एक युवक की हत्या के मामले में तीन लोगों को गिरफ्तार किया गया है। न्यूज अपडेट्स: बंगलूरू में बिहार के युवक की हत्या, तीन गिरफ्तार; आज बंगाल से दिल्ली आएंगे सीएम शुभेंदु अधिकारी। कोयला खदान में फंसे 14 मजदूरों को निकाला गया, मणिपुर में सुरक्षा बलों ने की बड़ी कार्रवाई।
+
+### [सिंगापुर में भारतीयों के खिलाफ नफरत क्यों? पूर्व मंत्री बोले- नस्लभेद अब भी बाकी](https://hindi.news18.com/world/south-asia-singapore-former-minister-s-jayakumar-raises-concerns-over-racist-comments-against-indian-community-online-10939886.html)
+*News18 Hindi (World)* - Oct 27, 11:18 IST (iso: 2026-10-27T05:48:52+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/singapore-2026-10-33678fffe788031a14782c4e2390d23a-1200x800.jpg -->
+
+सिंगापुर के पूर्व मंत्री एस. जयकुमार ने भारतीय समुदाय के खिलाफ ऑनलाइन नस्लभेद पर चिंता जताई। उन्होंने संसद में अल्पसंख्यकों के लिए आरक्षित सीटों की आवश्यकता पर जोर दिया। यह बयान देश में बढ़ते नस्लीय तनाव के बीच आया है। सिंगापुर जैसे अमीर देश में भी नस्लभेद की सोच पूरी तरह खत्म नहीं हुई है. भारतीय समुदाय के खिलाफ इंटरनेट पर की गई अपमानजनक टिप्पणियों पर पूर्व मंत्री एस.
+
+### [आसियान रक्षा मंत्रियों की बैठक में होंगे शामिल, साझेदारी मजबूत करने की होगी कोशिश](https://www.amarujala.com/india-news/rajnath-singh-philippines-asean-defence-ministers-meeting-plus-strategic-partnerships-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 11:05 IST (iso: 2026-10-27T05:35:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/rajnath-singh_3eaf602ecea916cf946d55b6167f577e.jpeg?w=1200&dpr=1.0 -->
+
+भारतीय रक्षा मंत्री राजनाथ सिंह फिलीपींस के लिए रवाना हुए। वे आसियान रक्षा मंत्रियों की बैठक में भाग लेंगे। इस अवसर पर क्षेत्रीय साझेदारी को मजबूत करने की कोशिश की जाएगी। आसियान रक्षा मंत्रियों की बैठक में होंगे शामिल, साझेदारी मजबूत करने की होगी कोशिश।
+
+### [मायावती ने राजनीतिक बयानबाजी पर जताई चिंता, बोलीं- नेताओं के बीच बढ़ती कटुता देशहित में नहीं](https://www.amarujala.com/lucknow/up-mayawati-expresses-concern-over-political-rhetoric-says-the-growing-bitterness-among-leaders-is-not-in-th-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 10:59 IST (iso: 2026-10-27T05:29:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/12/mayavata_f9e590cdfaa7dfc59f0c87847f84ade5.png?w=1200&dpr=1.0 -->
+
+मायावती ने भारतीय राजनीति में बढ़ती कटुता और अमर्यादित बयानबाजी पर चिंता व्यक्त की। उन्होंने नेताओं से सार्वजनिक संवाद में मर्यादा बनाए रखने की अपील की। बसपा प्रमुख मायावती ने भारतीय राजनीति में बढ़ती कटुता, व्यक्तिगत टिप्पणियों और अमर्यादित बयानबाजी पर चिंता जताई है। मायावती ने राजनीतिक बयानबाजी पर जताई चिंता, बोलीं- नेताओं के बीच बढ़ती कटुता देशहित में नहीं।
+
+### [क्या एआई छीन लेगी युवाओं की पहली नौकरी? जानें किन क्षेत्रों पर पड़ेगा असर और क्यों बढ़ेगी चिंता](https://www.amarujala.com/education/iit-madras-warns-ai-could-reshape-entry-level-jobs-in-india-calls-for-employee-reskilling-2026-10-27)
+*Amar Ujala Breaking* - Oct 27, 10:44 IST (iso: 2026-10-27T05:14:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/iit-madras_7975d518dcdaa022f3ddef6c58aa5436.jpeg?w=1200&dpr=1.0 -->
+
+आईआईटी मद्रास का सेंटर फॉर रिस्पॉन्सिबल एआई चेतावनी देता है कि एआई भारत में शुरुआती नौकरियों का स्वरूप बदल सकती है। आईटी, बीपीओ और वित्त में दोहराए जाने वाले काम प्रभावित होंगे। आईआईटी मद्रास के 'सेंटर फॉर रिस्पॉन्सिबल एआई' ने यह चेतावनी दी है कि कृत्रिम बुद्धिमत्ता भारत में शुरुआती नौकरियों का स्वरूप बदल सकती है। आईटी, बीपीओ, वित्त और पेशेवर सेवाओं में दोहराए जाने वाले काम एआई संभाल सकता है।
+
+### [13 नवंबर को दुनिया भर में मनाया जाएगा बलूच राष्ट्रीय शहीद दिवस, रिपब्लिक ऑफ बलूचिस्तान का ऐलान](https://hindi.news18.com/world/pakistan-balochistan-national-martyrs-day-13-november-republic-of-balochistan-10939873.html)
+*News18 Hindi (World)* - Oct 27, 10:41 IST (iso: 2026-10-27T05:11:08+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-10-27T103202.892-2026-10-31f1f5abe01c19adb1318ee1dfecddc0-1200x800.jpg -->
+
+रिपब्लिक ऑफ बलूचिस्तान ने 13 नवंबर को बलूच राष्ट्रीय शहीद दिवस मनाने का ऐलान किया। यह तिथि 1839 में मीर मेहराब खान की मौत से जुड़ी है। पाकिस्तान के बलूचिस्तान में आजादी की मांग का इतिहास 13 नवंबर 1839 की उस लड़ाई से जुड़ा है, जिसमें कलात के शासक मीर मेहराब खान की मौत हुई थी. अब ‘रिपब्लिक ऑफ बलूचिस्तान’ ने इस तारीख को हर साल वैश्विक स्तर पर बलूच राष्ट्रीय शहीद दिवस के रूप में मनाने का ऐलान किया है.
 
 ---
 
-## यूरोप और रूस
+## मध्य पूर्व और अफ्रीका
 
-### [फ्रांस में छात्र आक्रोश, अब बदलेंगे एडमिशन के नियम; ब्राजील चुनाव पर ट्रंप की टिप्पणी](https://www.amarujala.com/world/world-updates-france-student-agitation-europe-unrest-trump-on-brazil-poll-west-asia-russia-ukraine-crisis-news-2026-10-27)
-*Amar Ujala World* - Oct 27, 05:00 IST (iso: 2026-10-26T23:30:21+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0 -->
+### [PM नेतन्याहू पर धोखाधड़ी के 3 केस, जानिए किन-किन आरोपों में घिरे हैं ‘Bibi’](https://www.patrika.com/world-news/benjamin-netanyahu-corruption-cases-icc-arrest-warrant-political-future-21010877)
+*Patrika (World)* - Oct 27, 11:44 IST (iso: 2026-10-27T06:14:14+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp -->
 
-फ्रांस में छात्रों के आंदोलन के बाद सरकार ने एडमिशन नियमों में बदलाव की घोषणा की। ब्राजील के चुनावों पर ट्रंप की टिप्पणी ने स्थानीय राजनीति में नया विवाद खड़ा कर दिया। अंतरराष्ट्रीय सुर्खियां: फ्रांस में छात्र आक्रोश, अब बदलेंगे एडमिशन के नियम; ब्राजील चुनाव पर ट्रंप की टिप्पणी।
+इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के खिलाफ तीन भ्रष्टाचार मामले चल रहे हैं। अंतर्राष्ट्रीय आपराधिक न्यायालय ने उनके खिलाफ गिरफ्तारी वारंट जारी किया है। अंतर्राष्ट्रीय न्यायालय में नरसंहार के आरोपों पर भी मामला विचाराधीन है। Benjamin Netanyahu: इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के सामने राजनीतिक और कानूनी, दोनों मोर्चों पर बड़ी चुनौतियां हैं। देश में भ्रष्टाचार के तीन मामलों में मुकदमा झेल रहे नेतन्याहू के खिलाफ गाजा में कथित युद्ध अपराधों को लेकर अंतरराष्ट्रीय आपराधिक न्यायालय (ICC) का गिरफ्तारी वारंट भी जारी है।
 
-### [लूला समर्थकों का संदेश- ट्रंप का दखल मंजूर नहीं; सर्बिया में आंदोलन से सत्ता बदलने वाले जेन-जी पर](https://www.amarujala.com/world/brazil-election-lula-returns-to-power-student-movement-defeats-serbia-vucic-2026-10-27)
-*Amar Ujala World* - Oct 27, 04:55 IST (iso: 2026-10-26T23:25:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/lula-da-silva-victory_6c76823f0046d9ba3be21a42e20d85f5.jpeg?w=1200&dpr=1.0 -->
+### [क्या सत्ता बचा पाएंगे नेतन्याहू? आइजेनकॉट ने 7 अक्तूबर के हमले की याद दिलाकर मांगे वोट](https://www.amarujala.com/world/voting-begins-in-israel-elections-eisenkot-invokes-october-7-massacre-to-ask-for-votes-netanyahu-projects-st-2026-10-27)
+*Amar Ujala World* - Oct 27, 11:05 IST (iso: 2026-10-27T05:35:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/voting-begins-in-israel-elections_35ddaa239035ae2d66bc85b9aa9e5080.jpeg?w=1200&dpr=1.0 -->
 
-लूला समर्थकों ने ट्रंप के दखल को अस्वीकार कर दिया। सर्बिया में जेन-जी आंदोलन ने वुचिक की सत्ता को चुनौती दी, जिससे क्षेत्रीय राजनीतिक समीकरण बदल गए। लूला समर्थकों का संदेश- ट्रंप का दखल मंजूर नहीं; सर्बिया में आंदोलन से सत्ता बदलने वाले जेन-जी पर।
-
-### [राजधानी की सभी जिला अदालतों में आज हड़ताल, वकीलों के कार्य बहिष्कार से ठप रहेगा कामकाज, जानें वजह](https://www.amarujala.com/delhi-ncr/strike-in-all-district-courts-of-capital-today-work-to-remain-stalled-due-to-lawyers-boycott-find-out-why-in-d-2026-10-27)
-*Amar Ujala Breaking* - Oct 27, 01:39 IST (iso: 2026-10-26T20:09:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/thall-ma-vakal-ka-haugdhatal_45307ee824e243fc204e592ae05d43c9.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली की सभी जिला अदालतें 27 अक्टूबर 2026 को बंद रहेंगी। वकीलों ने दिल्ली पुलिस के खिलाफ एक दिन की हड़ताल की घोषणा की है। इससे अदालती कामकाज पूरी तरह ठप रहेगा। राष्ट्रीय राजधानी दिल्ली की सभी जिला अदालतें 27 अक्तूबर 2026 को बंद रहेंगी। वकीलों ने दिल्ली पुलिस के खिलाफ एक दिन की हड़ताल का आह्वान किया है। इस हड़ताल के कारण उस दिन अदालती कामकाज पूरी तरह से ठप रहेगा।
+इस्राइल में चुनावों के लिए मतदान शुरू हो गया है। बनी एइजेनकॉट ने 7 अक्टूबर के हमले की याद दिलाकर वोट मांगे। नेतन्याहू ने सत्ता बचाने के लिए मजबूत नेता की छवि प्रस्तुत की है। आइजेनकोट ने 7 अक्तूबर के हमले की याद दिलाकर मांगे वोट। क्या सत्ता बचा पाएंगे नेतन्याहू? आइजेनकॉट ने 7 अक्तूबर के हमले की याद दिलाकर मांगे वोट।
 
 ---
 

@@ -1,14 +1,64 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 27, 2026 06:34 IST
+**Updated:** October 27, 2026 12:25 IST
+
+---
+
+## Americas
+
+### [Bolsonaro’s party says it recognises Lula’s election win in Brazil](https://www.thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece)
+*The Hindu (International)* - Oct 27, 10:38 IST (iso: 2026-10-27T05:08:30+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/l8x0oq/article71629618.ece/alternates/LANDSCAPE_1200/Brazil_Election_23_25.jpg -->
+
+Bolsonaro’s party acknowledged Lula’s victory in Brazil. Lula secured a fourth term after a first-round loss to Flávio Bolsonaro. The defeat mobilized the left, driving a dramatic comeback in the final vote. Luiz Inácio Lula da Silva pulled off a dramatic comeback after trailing Flávio Bolsonaro in a first-round vote, a defeat which fired up the left on the streets and social media to secure him a fourth term in office.
+
+### [Why Lula’s ‘miracle’ win matters well beyond Brazil](https://asiatimes.com/2026/10/why-lulas-miracle-win-matters-well-beyond-brazil/)
+*Asia Times* - Oct 26, 12:40 IST (iso: 2026-10-26T07:10:24+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Brazil-Lula-Elections-2026.jpg -->
+
+Lula secured a surprising victory over Flavio Bolsonaro in Brazil. The win reversed a significant first-round deficit. It signals a major shift in global politics. The outcome impacts climate policy and international relations beyond South America. Three weeks ago, Brazilian President Luiz Inacio Lula da Silva’s political obituaries had all been written. The far-right presidential candidate, Flavio Bolsonaro, son of the jailed former President Jair Bolsonaro, had come out of the first round of the presidential election with a lead that looked impossible to overcome.
+
+---
+
+## Asia-Pacific
+
+### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
+*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
+
+Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
+
+### [Does Japan need nuclear subs? The debate is bigger than China](https://asiatimes.com/2026/10/does-japan-need-nuclear-subs-the-debate-is-bigger-than-china/)
+*Asia Times* - Oct 26, 12:04 IST (iso: 2026-10-26T06:34:48+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Japan-Submarines-Navy-Defense.jpg -->
+
+Japan is debating the acquisition of nuclear-powered submarines. Prime Minister Sanae Takaichi opened the discussion in parliament. The decision is part of a 2026 security review. The debate extends beyond countering China to broader strategic autonomy. Japan’s debate over nuclear-powered submarines is gaining momentum, but political deliberation should not be mistaken for a done deal. As Tokyo prepares to revise its three principal national security documents by the end of 2026, Prime Minister Sanae Takaichi has opened the door to a long-politically sensitive capability.
+
+### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
+*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
+
+Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
+
+### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
+*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
+
+China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
 
 ---
 
 ## Europe & Russia
 
-### [Ukraine Says One Dead As Russian Strikes Hit Kyiv Civilian Buildings Including Dormitory](https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html)
+### [Singapore, Germany to expand industrial AI cooperation as part of updated 5-pillar work plan](https://www.channelnewsasia.com/singapore/singapore-germany-ai-cooperation-lawrence-wong-friedrich-merz-6493021)
+*Channel News Asia* - Oct 27, 10:01 IST (iso: 2026-10-27T04:31:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--EQGF5G_p--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/27/img_4146.jpg?itok=8IkSd8S3 -->
+
+Singapore and Germany expanded industrial AI cooperation. Prime Minister Lawrence Wong and Chancellor Friedrich Merz announced an updated five-pillar work plan. They stated there is much more both nations can do under their strategic partnership. At a joint press conference with German Chancellor Friedrich Merz, who is on an official visit to Singapore, Prime Minister Lawrence Wong said that there is “much more” both countries can do together under their strategic partnership.
+
+### [Cease-Fire Takes Effect Near Oleshky As Russian Strikes Hit Kyiv](https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html)
 *Radio Free Europe / Liberty* - Oct 27, 06:24 IST (iso: 2026-10-27T00:54:00+00:00)
-<!-- image: https://gdb.rferl.org/c09c9ac5-66bd-471e-89f1-f1333df65e29_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/731ce53c-9f78-4cce-4c78-08df13aec0bb_cx0_cy0_cw99_w1200_h630.png -->
 
 Russian air strikes hit Kyiv on October 26, targeting a university dormitory and other civilian buildings. At least one person died in the attacks. President Zelenskyy urged international partners to supply Ukraine with adequate defensive capabilities. Russian air attacks struck Kyiv late on October 26, hitting a university dormitory and other civilian sites, leaving at least one dead, as President Volodymyr Zelenskyy called on Ukraine's partners to provide the "proper tools" for the country to defend itself.
 
@@ -62,43 +112,13 @@ A bipartisan group of US lawmakers challenged President Trump's easing of Russia
 
 ---
 
-## Asia-Pacific
+## World
 
-### [India's IT firms face a new dilemma: How to train tomorrow's engineers in the age of AI](https://www.channelnewsasia.com/asia/india-it-ai-reshapes-entry-level-jobs-6485426)
-*Channel News Asia* - Oct 27, 03:30 IST (iso: 2026-10-26T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--m8E7pZy2--/c_crop,h_1125,w_2000,x_0,y_161/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/000_1ad8vw.jpg?itok=EopObUAN -->
+### [U.K. PM Burnham backs principle of ‘earned settlement’ in immigration rules](https://www.thehindu.com/news/international/uk-pm-burnham-backs-principle-of-earned-settlement-in-immigration-rules/article71626989.ece)
+*The Hindu (International)* - Oct 27, 09:38 IST (iso: 2026-10-27T04:08:03+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/txlcz5/article71627102.ece/alternates/LANDSCAPE_1200/BRITAIN-POLITICS__826.jpg -->
 
-Major Indian IT companies are reducing fresh graduate hiring as artificial intelligence alters required skill sets. Industry leaders warn this trend risks a future shortage of experienced engineers. Universities and firms must collaborate to develop new talent pipelines. India’s biggest IT firms are hiring far fewer fresh graduates, as AI changes the skills employers seek. Industry experts tell CNA this could create a shortage of experienced workers in the future unless companies and universities do more to develop young talent.
-
-### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
-*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
-<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
-
-Chinese young adults are increasingly adopting bricks as a low-cost hobby to replace pets or children. This trend stems from a stagnant job market and financial pressure. The practice offers a cheap, low-maintenance outlet for stress. It serves as a symbolic alternative to traditional responsibilities. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
-
-### [Does Japan need nuclear subs? The debate is bigger than China](https://asiatimes.com/2026/10/does-japan-need-nuclear-subs-the-debate-is-bigger-than-china/)
-*Asia Times* - Oct 26, 12:04 IST (iso: 2026-10-26T06:34:48+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Japan-Submarines-Navy-Defense.jpg -->
-
-Japan is debating the acquisition of nuclear-powered submarines. Prime Minister Sanae Takaichi opened the discussion in parliament. The decision is part of a 2026 security review. The debate extends beyond countering China to broader strategic autonomy. Japan’s debate over nuclear-powered submarines is gaining momentum, but political deliberation should not be mistaken for a done deal. As Tokyo prepares to revise its three principal national security documents by the end of 2026, Prime Minister Sanae Takaichi has opened the door to a long-politically sensitive capability.
-
-### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
-*The Guardian* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e909d961099f6bf8027f885e3cf422a -->
-
-North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.
-
-### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
-*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
-
-Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
-
-### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
-*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
-
-China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
+U. K. PM Burnham supported the earned settlement principle for immigration. The proposal increases the baseline qualifying period for permanent residency. This change was part of a draft overhaul introduced by Home Secretary Shabana Mahmood. An increase in the baseline qualifying period for settlement, from 5 of 15 years had been proposed by U. Home Secretary Shabana Mahmood as part of a draft “earned settlement” immigration overhaul last year, during the Keir Starmer administration.
 
 ---
 
@@ -109,18 +129,6 @@ China is refitting older destroyers to maintain fleet mass against the United St
 <!-- image: https://th-i.thgim.com/public/incoming/m3z87o/article71628531.ece/alternates/LANDSCAPE_1200/AFP_D4BH8JH.jpg -->
 
 Israeli Prime Minister Benjamin Netanyahu faces elections while wanted by the International Criminal Court. Public dissatisfaction over the Hamas attack and high living costs has weakened his support. The vote will determine his political future and Likud's standing. Public anger over failure to prevent the Hamas attack, an inconclusive war, and the rising costs of living have eroded Netanyahu’s standing at home and abroad; the outcome of this poll is likely to shape the longest-serving PM’s political future, the fate of Likud and the legal challenges he faces.
-
-### [Lula defeats far-right Bolsonaro to secure a fourth presidential term](https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece)
-*The Hindu (International)* - Oct 26, 21:51 IST (iso: 2026-10-26T16:21:46+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/lebqve/article71628345.ece/alternates/LANDSCAPE_1200/Oct%2026.png -->
-
-Lula defeated Bolsonaro to win a fourth term as Brazil's president. The result secures his return to power after a contentious campaign. This victory shifts the country's political direction back toward the center-left. Lula wins a historic fourth term in Brazil, Serbia’s ruling party is ousted after student-led protests, and Marine Le Pen launches her presidential bid in France. Meanwhile, Israel votes in parliamentary elections amid uncertainty over Benjamin Netanyahu’s coalition.
-
-### [UN-commissioned experts say Gaza ceasefire has not stopped Israel from committing genocide](https://www.thehindu.com/news/international/un-commissioned-experts-say-gaza-ceasefire-has-not-stopped-israel-from-committing-genocide/article71627202.ece)
-*The Hindu (International)* - Oct 26, 20:00 IST (iso: 2026-10-26T14:30:22+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/7li2t7/article71627288.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_Gaza_59521.jpg -->
-
-UN experts concluded the Gaza ceasefire did not stop Israeli actions constituting genocide. The Commission of Inquiry issued these findings. Prosecutors at the International Criminal Court may use the report to pursue legal action against officials. The findings by the Commission of Inquiry on the Occupied Palestinian Territory could be used by prosecutors at the International Criminal Court or in other jurisdictions to try to bring justice to victims and their relatives.
 
 ### [Iran, Regional Countries Agree To Continue Talks After Tehran Meeting](https://www.rferl.org/a/tensions-mecca-alliance-partners-tehran-saudi-turkey-pakistan/33884432.html)
 *Radio Free Europe / Liberty* - Oct 26, 19:13 IST (iso: 2026-10-26T13:43:05+00:00)
@@ -140,21 +148,23 @@ US airstrikes in southern Somalia are pushing civilians toward the rising River 
 
 Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
 
-### [Why ultra‑Orthodox parties will decide Netanyahu’s electoral fate](https://asiatimes.com/2026/10/why-ultra-orthodox-parties-will-decide-netanyahus-electoral-fate/)
-*Asia Times* - Oct 24, 07:31 IST (iso: 2026-10-24T02:01:52+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Israel-Orthodox-Jews.jpg -->
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Israeli authorities detained dozens of Haredi men on 20 October 2026, a week before national elections. Prime Minister Benjamin Netanyahu condemned the draft evasion arrests as unacceptable. The incident highlights the political leverage ultra-Orthodox parties hold over Netanyahu's electoral prospects following a 2024 court ruling on military service exemptions. On October 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable.” The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis.
+Crisis Group experts discussed the rift between Washington and Kyiv. They analyzed Russia’s intensifying attacks on Ukraine. European capitals are working to strengthen Ukraine while facing their own political and economic pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
 
----
+### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
+*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
+<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
 
-## World
+Nigeria confirmed its first Ebola case in over a decade. The patient is the wife of a Swiss diplomat who traveled in Uganda. Health officials are racing to determine the infection source as fears grow about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
 
-### [U.K. PM Burnham backs principle of ‘earned settlement’ in immigration rules](https://www.thehindu.com/news/international/uk-pm-burnham-backs-principle-of-earned-settlement-in-immigration-rules/article71626989.ece)
-*The Hindu (International)* - Oct 26, 18:30 IST (iso: 2026-10-26T13:00:45+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/txlcz5/article71627102.ece/alternates/LANDSCAPE_1200/BRITAIN-POLITICS__826.jpg -->
+### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
+*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
+<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-U. K. PM Burnham supported the earned settlement principle for immigration. The proposal increases the baseline qualifying period for permanent residency. This change was part of a draft overhaul introduced by Home Secretary Shabana Mahmood. An increase in the baseline qualifying period for settlement, from 5 of 15 years had been proposed by U. Home Secretary Shabana Mahmood as part of a draft “earned settlement” immigration overhaul last year, during the Keir Starmer administration.
+Algeria severed diplomatic ties with the United Arab Emirates after years of discord over North African and Sahel crises. The two nations frame the dispute differently, yet the rivalry now threatens regional stability. This rupture marks a significant shift in the geopolitical balance across the broader area. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel.
 
 ---
 
@@ -165,16 +175,6 @@ U. K. PM Burnham supported the earned settlement principle for immigration. The 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image770x420cropped.jpg -->
 
 The United Nations reported that women and girls accounted for one in four of the more than 37,000 civilians killed in armed conflict last year. This figure represents a doubling of their share compared to 2021. The data highlights a significant shift in the demographic impact of global wars. Civilian casualties have risen sharply during this period. War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.
-
----
-
-## Americas
-
-### [Why Lula’s ‘miracle’ win matters well beyond Brazil](https://asiatimes.com/2026/10/why-lulas-miracle-win-matters-well-beyond-brazil/)
-*Asia Times* - Oct 26, 12:40 IST (iso: 2026-10-26T07:10:24+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Brazil-Lula-Elections-2026.jpg -->
-
-Lula secured a surprising victory over Flavio Bolsonaro in Brazil. The win reversed a significant first-round deficit. It signals a major shift in global politics. The outcome impacts climate policy and international relations beyond South America. Three weeks ago, Brazilian President Luiz Inacio Lula da Silva’s political obituaries had all been written. The far-right presidential candidate, Flavio Bolsonaro, son of the jailed former President Jair Bolsonaro, had come out of the first round of the presidential election with a lead that looked impossible to overcome.
 
 ---
 
