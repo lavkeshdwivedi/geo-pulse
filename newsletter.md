@@ -1,26 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 27, 2026 12:25 IST
-
----
-
-## Americas
-
-### [Bolsonaro’s party says it recognises Lula’s election win in Brazil](https://www.thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece)
-*The Hindu (International)* - Oct 27, 10:38 IST (iso: 2026-10-27T05:08:30+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/l8x0oq/article71629618.ece/alternates/LANDSCAPE_1200/Brazil_Election_23_25.jpg -->
-
-Bolsonaro’s party acknowledged Lula’s victory in Brazil. Lula secured a fourth term after a first-round loss to Flávio Bolsonaro. The defeat mobilized the left, driving a dramatic comeback in the final vote. Luiz Inácio Lula da Silva pulled off a dramatic comeback after trailing Flávio Bolsonaro in a first-round vote, a defeat which fired up the left on the streets and social media to secure him a fourth term in office.
-
-### [Why Lula’s ‘miracle’ win matters well beyond Brazil](https://asiatimes.com/2026/10/why-lulas-miracle-win-matters-well-beyond-brazil/)
-*Asia Times* - Oct 26, 12:40 IST (iso: 2026-10-26T07:10:24+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Brazil-Lula-Elections-2026.jpg -->
-
-Lula secured a surprising victory over Flavio Bolsonaro in Brazil. The win reversed a significant first-round deficit. It signals a major shift in global politics. The outcome impacts climate policy and international relations beyond South America. Three weeks ago, Brazilian President Luiz Inacio Lula da Silva’s political obituaries had all been written. The far-right presidential candidate, Flavio Bolsonaro, son of the jailed former President Jair Bolsonaro, had come out of the first round of the presidential election with a lead that looked impossible to overcome.
+**Updated:** October 27, 2026 18:19 IST
 
 ---
 
 ## Asia-Pacific
+
+### [Chasing foreign phantoms in Prabowo’s embattled Indonesia](https://asiatimes.com/2026/10/chasing-foreign-phantoms-in-prabowos-embattled-indonesia/)
+*Asia Times* - Oct 27, 17:50 IST (iso: 2026-10-27T12:20:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Indonesia-Prabowo-Subianto-.jpg -->
+
+Indonesian officials blame foreign actors for market crashes and peatland fires, deflecting from domestic accountability. Critics argue this narrative ignores local corporate ownership and political corruption. The strategy avoids addressing who actually controls listed companies and wins state contracts. Indonesia’s leaders promise that the country will be a world power by 2045, the centennial of its independence. Yet when shares plunge or smoke drifts abroad, officials reflexively blame foreigners.
+
+### [Mbappe dropped by Chinese brands for ‘offending national sentiments’](https://www.thehindu.com/news/international/mbappe-dropped-by-chinese-brands-for-offending-national-sentiments/article71630086.ece)
+*The Hindu (International)* - Oct 27, 14:10 IST (iso: 2026-10-27T08:40:19+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/8ygcd3/article71630238.ece/alternates/LANDSCAPE_1200/AFP__20261027__D4J38CU__v1__HighRes__FblChinaAdvertisingPoliticsMbappe.jpg -->
+
+Chinese brands dropped Kylian Mbappe after a video surfaced online. He joked that a photo-shopped image of his face on a Chinese dictator was the funniest meme he had seen. The comments were deemed offensive to national sentiments, prompting immediate commercial consequences. The announcements came after a video emerged online with Mbappe saying that the funniest internet meme he had seen was of his face photo-shopped onto that of “some guy.
+
+### [New UNSC permanent members without veto would be 'second-class': India](https://www.thehindu.com/news/national/new-unsc-permanent-members-without-veto-would-be-second-class-india/article71630266.ece)
+*The Hindu (International)* - Oct 27, 13:49 IST (iso: 2026-10-27T08:19:25+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/69mu55/article71630301.ece/alternates/LANDSCAPE_1200/20261016152L_vR1uOFN.jpg -->
+
+India stated that new permanent members of the UN Security Council without veto power would be second-class citizens. New Delhi insists that fairness requires all permanent members to hold equal rights and responsibilities. The veto provision must apply uniformly to any reformed council structure. India said the veto must be held by all permanent members of a reformed Council as long as the provision exists, stressing that fairness and justice demand equal rights and responsibilities for all permanent members.
 
 ### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
 *The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
@@ -28,37 +30,71 @@ Lula secured a surprising victory over Flavio Bolsonaro in Brazil. The win rever
 
 Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
 
+### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
+*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
+<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
+
+Young Chinese adults are raising bricks instead of children or pets due to a stagnant job market. Bricks are low-maintenance and cost almost nothing. This hobby offers a cheap alternative to traditional responsibilities, allowing stressed workers to avoid the financial burden of dating or raising offspring. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
+
 ### [Does Japan need nuclear subs? The debate is bigger than China](https://asiatimes.com/2026/10/does-japan-need-nuclear-subs-the-debate-is-bigger-than-china/)
 *Asia Times* - Oct 26, 12:04 IST (iso: 2026-10-26T06:34:48+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Japan-Submarines-Navy-Defense.jpg -->
 
 Japan is debating the acquisition of nuclear-powered submarines. Prime Minister Sanae Takaichi opened the discussion in parliament. The decision is part of a 2026 security review. The debate extends beyond countering China to broader strategic autonomy. Japan’s debate over nuclear-powered submarines is gaining momentum, but political deliberation should not be mistaken for a done deal. As Tokyo prepares to revise its three principal national security documents by the end of 2026, Prime Minister Sanae Takaichi has opened the door to a long-politically sensitive capability.
 
-### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
-*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
+---
 
-Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
+## Middle East & Africa
 
-### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
-*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
+### [Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls](https://www.thehindu.com/news/international/netanyahu-wanted-by-icc-battles-for-political-survival-as-israel-goes-to-the-polls/article71627508.ece)
+*The Hindu (International)* - Oct 27, 13:20 IST (iso: 2026-10-27T07:50:53+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/m3z87o/article71628531.ece/alternates/LANDSCAPE_1200/AFP_D4BH8JH.jpg -->
 
-China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
+Israeli Prime Minister Benjamin Netanyahu faces elections while wanted by the International Criminal Court. Public dissatisfaction over the Hamas attack and high living costs has weakened his support. The vote will determine his political future and Likud's standing. Public anger over failure to prevent the Hamas attack, an inconclusive war, and the rising costs of living have eroded Netanyahu’s standing at home and abroad; the outcome of this poll is likely to shape the longest-serving PM’s political future, the fate of Likud and the legal challenges he faces.
+
+### [Iran, Regional Countries Agree To Continue Talks After Tehran Meeting](https://www.rferl.org/a/tensions-mecca-alliance-partners-tehran-saudi-turkey-pakistan/33884432.html)
+*Radio Free Europe / Liberty* - Oct 26, 19:13 IST (iso: 2026-10-26T13:43:05+00:00)
+<!-- image: https://gdb.rferl.org/5645b16e-aaa6-4f7f-94ae-4d5444b40285_cx0_cy2_cw0_w1200_h630.jpg -->
+
+Mecca Defense Alliance partners met in Tehran to address regional conflicts. The snap meeting focused on stabilizing the Middle East. These tensions are currently disrupting global oil and cargo flows across the region. Officials from the so-called Mecca Defense Alliance have gathered for a snap meeting in Tehran as they look to settle conflicts in the Middle East that have left the region reeling and are impacting global flows of oil and other cargo.
+
+### [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
+*The Guardian* - Oct 26, 16:30 IST (iso: 2026-10-26T11:00:40+00:00)
+<!-- image: https://i.guim.co.uk/img/media/68be86b57a97943a5a7cf6e880f044f52347de5e/0_0_7116_5694/master/7116.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=670b2f8466a6264fef01477ea2e39272 -->
+
+US airstrikes in southern Somalia are pushing civilians toward the rising River Juba. Women and children face drowning risks as they flee al-Shabaab territory. Humanitarian groups accuse the military of weaponizing the flood crisis. The strategy traps vulnerable populations in dangerous waterways. Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.
+
+### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
+*UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image770x420cropped.jpg -->
+
+Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
+
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group experts discussed the rift between Washington and Kyiv. They analyzed Russia’s intensifying attacks on Ukraine. European capitals are working to strengthen Ukraine while facing their own political and economic pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
+
+### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
+*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
+<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
+
+Nigeria confirmed its first Ebola case in over a decade. The patient is the wife of a Swiss diplomat who traveled in Uganda. Health officials are racing to determine the infection source as fears grow about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
+
+### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
+*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
+<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Algeria severed diplomatic ties with the United Arab Emirates after years of discord over North African and Sahel crises. The two nations frame the dispute differently, yet the rivalry now threatens regional stability. This rupture marks a significant shift in the geopolitical balance across the broader area. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel.
 
 ---
 
 ## Europe & Russia
 
-### [Singapore, Germany to expand industrial AI cooperation as part of updated 5-pillar work plan](https://www.channelnewsasia.com/singapore/singapore-germany-ai-cooperation-lawrence-wong-friedrich-merz-6493021)
-*Channel News Asia* - Oct 27, 10:01 IST (iso: 2026-10-27T04:31:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--EQGF5G_p--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/27/img_4146.jpg?itok=8IkSd8S3 -->
-
-Singapore and Germany expanded industrial AI cooperation. Prime Minister Lawrence Wong and Chancellor Friedrich Merz announced an updated five-pillar work plan. They stated there is much more both nations can do under their strategic partnership. At a joint press conference with German Chancellor Friedrich Merz, who is on an official visit to Singapore, Prime Minister Lawrence Wong said that there is “much more” both countries can do together under their strategic partnership.
-
-### [Cease-Fire Takes Effect Near Oleshky As Russian Strikes Hit Kyiv](https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html)
+### [Russian Strikes Hit Kyiv As Oleshky Cease-Fire Takes Effect](https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html)
 *Radio Free Europe / Liberty* - Oct 27, 06:24 IST (iso: 2026-10-27T00:54:00+00:00)
-<!-- image: https://gdb.rferl.org/731ce53c-9f78-4cce-4c78-08df13aec0bb_cx0_cy0_cw99_w1200_h630.png -->
+<!-- image: https://gdb.rferl.org/82fc7e99-345e-407a-6aac-08df13a87200_cx0_cy0_cw99_w1200_h630.jpg -->
 
 Russian air strikes hit Kyiv on October 26, targeting a university dormitory and other civilian buildings. At least one person died in the attacks. President Zelenskyy urged international partners to supply Ukraine with adequate defensive capabilities. Russian air attacks struck Kyiv late on October 26, hitting a university dormitory and other civilian sites, leaving at least one dead, as President Volodymyr Zelenskyy called on Ukraine's partners to provide the "proper tools" for the country to defend itself.
 
@@ -112,62 +148,6 @@ A bipartisan group of US lawmakers challenged President Trump's easing of Russia
 
 ---
 
-## World
-
-### [U.K. PM Burnham backs principle of ‘earned settlement’ in immigration rules](https://www.thehindu.com/news/international/uk-pm-burnham-backs-principle-of-earned-settlement-in-immigration-rules/article71626989.ece)
-*The Hindu (International)* - Oct 27, 09:38 IST (iso: 2026-10-27T04:08:03+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/txlcz5/article71627102.ece/alternates/LANDSCAPE_1200/BRITAIN-POLITICS__826.jpg -->
-
-U. K. PM Burnham supported the earned settlement principle for immigration. The proposal increases the baseline qualifying period for permanent residency. This change was part of a draft overhaul introduced by Home Secretary Shabana Mahmood. An increase in the baseline qualifying period for settlement, from 5 of 15 years had been proposed by U. Home Secretary Shabana Mahmood as part of a draft “earned settlement” immigration overhaul last year, during the Keir Starmer administration.
-
----
-
-## Middle East & Africa
-
-### [Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls](https://www.thehindu.com/news/international/netanyahu-wanted-by-icc-battles-for-political-survival-as-israel-goes-to-the-polls/article71627508.ece)
-*The Hindu (International)* - Oct 27, 02:54 IST (iso: 2026-10-26T21:24:03+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/m3z87o/article71628531.ece/alternates/LANDSCAPE_1200/AFP_D4BH8JH.jpg -->
-
-Israeli Prime Minister Benjamin Netanyahu faces elections while wanted by the International Criminal Court. Public dissatisfaction over the Hamas attack and high living costs has weakened his support. The vote will determine his political future and Likud's standing. Public anger over failure to prevent the Hamas attack, an inconclusive war, and the rising costs of living have eroded Netanyahu’s standing at home and abroad; the outcome of this poll is likely to shape the longest-serving PM’s political future, the fate of Likud and the legal challenges he faces.
-
-### [Iran, Regional Countries Agree To Continue Talks After Tehran Meeting](https://www.rferl.org/a/tensions-mecca-alliance-partners-tehran-saudi-turkey-pakistan/33884432.html)
-*Radio Free Europe / Liberty* - Oct 26, 19:13 IST (iso: 2026-10-26T13:43:05+00:00)
-<!-- image: https://gdb.rferl.org/5645b16e-aaa6-4f7f-94ae-4d5444b40285_cx0_cy2_cw0_w1200_h630.jpg -->
-
-Mecca Defense Alliance partners met in Tehran to address regional conflicts. The snap meeting focused on stabilizing the Middle East. These tensions are currently disrupting global oil and cargo flows across the region. Officials from the so-called Mecca Defense Alliance have gathered for a snap meeting in Tehran as they look to settle conflicts in the Middle East that have left the region reeling and are impacting global flows of oil and other cargo.
-
-### [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
-*The Guardian* - Oct 26, 16:30 IST (iso: 2026-10-26T11:00:40+00:00)
-<!-- image: https://i.guim.co.uk/img/media/68be86b57a97943a5a7cf6e880f044f52347de5e/0_0_7116_5694/master/7116.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=670b2f8466a6264fef01477ea2e39272 -->
-
-US airstrikes in southern Somalia are pushing civilians toward the rising River Juba. Women and children face drowning risks as they flee al-Shabaab territory. Humanitarian groups accuse the military of weaponizing the flood crisis. The strategy traps vulnerable populations in dangerous waterways. Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.
-
-### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
-*UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image770x420cropped.jpg -->
-
-Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
-
-### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
-*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group experts discussed the rift between Washington and Kyiv. They analyzed Russia’s intensifying attacks on Ukraine. European capitals are working to strengthen Ukraine while facing their own political and economic pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
-
-### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
-*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
-<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
-
-Nigeria confirmed its first Ebola case in over a decade. The patient is the wife of a Swiss diplomat who traveled in Uganda. Health officials are racing to determine the infection source as fears grow about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
-
-### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
-*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
-<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Algeria severed diplomatic ties with the United Arab Emirates after years of discord over North African and Sahel crises. The two nations frame the dispute differently, yet the rivalry now threatens regional stability. This rupture marks a significant shift in the geopolitical balance across the broader area. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel.
-
----
-
 ## Global / Multilateral
 
 ### [Women and girls’ share of civilian war deaths doubles since 2021](https://news.un.org/feed/view/en/story/2026/10/1168673)
@@ -175,6 +155,22 @@ Algeria severed diplomatic ties with the United Arab Emirates after years of dis
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image770x420cropped.jpg -->
 
 The United Nations reported that women and girls accounted for one in four of the more than 37,000 civilians killed in armed conflict last year. This figure represents a doubling of their share compared to 2021. The data highlights a significant shift in the demographic impact of global wars. Civilian casualties have risen sharply during this period. War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.
+
+### [Why do planes keep circling before landing? UN has a plan to fix it](https://news.un.org/feed/view/en/story/2026/10/1168666)
+*UN News* - Oct 25, 17:30 IST (iso: 2026-10-25T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/16-10-2026-Unsplash-air-traffic-02.jpg/image770x420cropped.jpg -->
+
+The UN aviation agency is pushing for better air traffic coordination to reduce circling flights. Current delays cost billions and increase emissions. Some countries have already proven that improved coordination saves thousands of flying hours. The agency wants the rest of the world to adopt these proven methods. Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions – and the UN’s aviation agency wants the rest of the world to follow.
+
+---
+
+## Americas
+
+### [Why Lula’s ‘miracle’ win matters well beyond Brazil](https://asiatimes.com/2026/10/why-lulas-miracle-win-matters-well-beyond-brazil/)
+*Asia Times* - Oct 26, 12:40 IST (iso: 2026-10-26T07:10:24+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Brazil-Lula-Elections-2026.jpg -->
+
+Lula secured a surprising victory over Flavio Bolsonaro in Brazil. The win reversed a significant first-round deficit. It signals a major shift in global politics. The outcome impacts climate policy and international relations beyond South America. Three weeks ago, Brazilian President Luiz Inacio Lula da Silva’s political obituaries had all been written. The far-right presidential candidate, Flavio Bolsonaro, son of the jailed former President Jair Bolsonaro, had come out of the first round of the presidential election with a lead that looked impossible to overcome.
 
 ---
 
