@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 27, 2026 03:29 IST
+**Updated:** October 27, 2026 06:34 IST
 
 ---
 
 ## Europe & Russia
+
+### [Ukraine Says One Dead As Russian Strikes Hit Kyiv Civilian Buildings Including Dormitory](https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html)
+*Radio Free Europe / Liberty* - Oct 27, 06:24 IST (iso: 2026-10-27T00:54:00+00:00)
+<!-- image: https://gdb.rferl.org/c09c9ac5-66bd-471e-89f1-f1333df65e29_w1200_h630.jpg -->
+
+Russian air strikes hit Kyiv on October 26, targeting a university dormitory and other civilian buildings. At least one person died in the attacks. President Zelenskyy urged international partners to supply Ukraine with adequate defensive capabilities. Russian air attacks struck Kyiv late on October 26, hitting a university dormitory and other civilian sites, leaving at least one dead, as President Volodymyr Zelenskyy called on Ukraine's partners to provide the "proper tools" for the country to defend itself.
 
 ### [World leaders congratulate Lula on historic election win as Bolsonaro refuses to concede](https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula)
 *The Guardian* - Oct 26, 22:40 IST (iso: 2026-10-26T17:10:31+00:00)
@@ -23,12 +29,6 @@ Aleksandar Vucic lost the Serbian parliamentary elections to student-led opposit
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-10-2025_OCHA_Ukraine.jpg/image770x420cropped.jpg -->
 
 A panel of human rights experts concluded that Russian forces committed war crimes and crimes against humanity during the Ukraine invasion. The findings cite deliberate attacks on civilians and vital energy infrastructure. These actions violate international law. The report details specific violations of protected targets. Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.
-
-### [What Lula’s victory means for his country and beyond](https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro)
-*The Guardian* - Oct 26, 12:14 IST (iso: 2026-10-26T06:44:33+00:00)
-<!-- image: https://i.guim.co.uk/img/media/1106bb4a8ba03a7902cd91e87de8ac9bf5fd7fb3/540_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e171376467444730d04b1b0ca5e86a6a -->
-
-Lula’s election win in Brazil has broad implications. It affects democracy, environmental policy, and international relations. The result counters far-right momentum in the region. It also influences global climate negotiations and trade dynamics. In today’s newsletter: As Luiz Inácio Lula da Silva secured victory in the presidential race, we look the implications for democracy, the environment and international relationsGood morning.
 
 ### [Student-Led Opposition Celebrates In Serbia After Vucic Concedes Election Defeat](https://www.rferl.org/a/serbia-parliamentary-election-students-list-vucic/33884047.html)
 *Radio Free Europe / Liberty* - Oct 26, 05:20 IST (iso: 2026-10-25T23:50:51+00:00)
@@ -62,7 +62,53 @@ A bipartisan group of US lawmakers challenged President Trump's easing of Russia
 
 ---
 
+## Asia-Pacific
+
+### [India's IT firms face a new dilemma: How to train tomorrow's engineers in the age of AI](https://www.channelnewsasia.com/asia/india-it-ai-reshapes-entry-level-jobs-6485426)
+*Channel News Asia* - Oct 27, 03:30 IST (iso: 2026-10-26T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--m8E7pZy2--/c_crop,h_1125,w_2000,x_0,y_161/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/000_1ad8vw.jpg?itok=EopObUAN -->
+
+Major Indian IT companies are reducing fresh graduate hiring as artificial intelligence alters required skill sets. Industry leaders warn this trend risks a future shortage of experienced engineers. Universities and firms must collaborate to develop new talent pipelines. India’s biggest IT firms are hiring far fewer fresh graduates, as AI changes the skills employers seek. Industry experts tell CNA this could create a shortage of experienced workers in the future unless companies and universities do more to develop young talent.
+
+### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
+*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
+<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
+
+Chinese young adults are increasingly adopting bricks as a low-cost hobby to replace pets or children. This trend stems from a stagnant job market and financial pressure. The practice offers a cheap, low-maintenance outlet for stress. It serves as a symbolic alternative to traditional responsibilities. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
+
+### [Does Japan need nuclear subs? The debate is bigger than China](https://asiatimes.com/2026/10/does-japan-need-nuclear-subs-the-debate-is-bigger-than-china/)
+*Asia Times* - Oct 26, 12:04 IST (iso: 2026-10-26T06:34:48+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Japan-Submarines-Navy-Defense.jpg -->
+
+Japan is debating the acquisition of nuclear-powered submarines. Prime Minister Sanae Takaichi opened the discussion in parliament. The decision is part of a 2026 security review. The debate extends beyond countering China to broader strategic autonomy. Japan’s debate over nuclear-powered submarines is gaining momentum, but political deliberation should not be mistaken for a done deal. As Tokyo prepares to revise its three principal national security documents by the end of 2026, Prime Minister Sanae Takaichi has opened the door to a long-politically sensitive capability.
+
+### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
+*The Guardian* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:56+00:00)
+<!-- image: https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e909d961099f6bf8027f885e3cf422a -->
+
+North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.
+
+### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
+*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
+
+Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
+
+### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
+*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
+
+China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
+
+---
+
 ## Middle East & Africa
+
+### [Netanyahu, wanted by ICC, battles for political survival as Israel goes to the polls](https://www.thehindu.com/news/international/netanyahu-wanted-by-icc-battles-for-political-survival-as-israel-goes-to-the-polls/article71627508.ece)
+*The Hindu (International)* - Oct 27, 02:54 IST (iso: 2026-10-26T21:24:03+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/m3z87o/article71628531.ece/alternates/LANDSCAPE_1200/AFP_D4BH8JH.jpg -->
+
+Israeli Prime Minister Benjamin Netanyahu faces elections while wanted by the International Criminal Court. Public dissatisfaction over the Hamas attack and high living costs has weakened his support. The vote will determine his political future and Likud's standing. Public anger over failure to prevent the Hamas attack, an inconclusive war, and the rising costs of living have eroded Netanyahu’s standing at home and abroad; the outcome of this poll is likely to shape the longest-serving PM’s political future, the fate of Likud and the legal challenges he faces.
 
 ### [Lula defeats far-right Bolsonaro to secure a fourth presidential term](https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece)
 *The Hindu (International)* - Oct 26, 21:51 IST (iso: 2026-10-26T16:21:46+00:00)
@@ -100,12 +146,6 @@ Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebra
 
 Israeli authorities detained dozens of Haredi men on 20 October 2026, a week before national elections. Prime Minister Benjamin Netanyahu condemned the draft evasion arrests as unacceptable. The incident highlights the political leverage ultra-Orthodox parties hold over Netanyahu's electoral prospects following a 2024 court ruling on military service exemptions. On October 20, 2026, a week before Israel’s elections, dozens of men were detained on suspicion of evading the draft – arrests that Prime Minister Benjamin Netanyahu called “unacceptable.” The young men attend ultra-Orthodox, or Haredi, religious schools, whose students were long exempt from the military service mandatory for most Israelis.
 
-### [Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus](https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread)
-*The Guardian* - Oct 23, 19:27 IST (iso: 2026-10-23T13:57:11+00:00)
-<!-- image: https://i.guim.co.uk/img/media/795089c147661c73d9d1db1fbfb3b77cf917034c/296_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9841448dbfe505c41f07a973244bb4d -->
-
-Health officials are investigating how Nigeria’s first Ebola patient in over a decade contracted the virus. The patient is the wife of a Swiss diplomat who traveled in Uganda. The outbreak has reached a fourth African country, raising concerns about further spread. Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could spread further after reaching a fourth African country. The Swiss foreign ministry said on Friday the patient in Nigeria, the.
-
 ---
 
 ## World
@@ -125,46 +165,6 @@ U. K. PM Burnham supported the earned settlement principle for immigration. The 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image770x420cropped.jpg -->
 
 The United Nations reported that women and girls accounted for one in four of the more than 37,000 civilians killed in armed conflict last year. This figure represents a doubling of their share compared to 2021. The data highlights a significant shift in the demographic impact of global wars. Civilian casualties have risen sharply during this period. War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.
-
-### [Why do planes keep circling before landing? UN has a plan to fix it](https://news.un.org/feed/view/en/story/2026/10/1168666)
-*UN News* - Oct 25, 17:30 IST (iso: 2026-10-25T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/16-10-2026-Unsplash-air-traffic-02.jpg/image770x420cropped.jpg -->
-
-Air traffic delays cost billions and increase emissions. Some countries use better coordination to save flying hours. The UN aviation agency wants global adoption of these efficiency measures. Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions – and the UN’s aviation agency wants the rest of the world to follow.
-
----
-
-## Asia-Pacific
-
-### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
-*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
-<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
-
-Chinese young adults are increasingly adopting bricks as a low-cost hobby to replace pets or children. This trend stems from a stagnant job market and financial pressure. The practice offers a cheap, low-maintenance outlet for stress. It serves as a symbolic alternative to traditional responsibilities. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
-
-### [Does Japan need nuclear subs? The debate is bigger than China](https://asiatimes.com/2026/10/does-japan-need-nuclear-subs-the-debate-is-bigger-than-china/)
-*Asia Times* - Oct 26, 12:04 IST (iso: 2026-10-26T06:34:48+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Japan-Submarines-Navy-Defense.jpg -->
-
-Japan is debating the acquisition of nuclear-powered submarines. Prime Minister Sanae Takaichi opened the discussion in parliament. The decision is part of a 2026 security review. The debate extends beyond countering China to broader strategic autonomy. Japan’s debate over nuclear-powered submarines is gaining momentum, but political deliberation should not be mistaken for a done deal. As Tokyo prepares to revise its three principal national security documents by the end of 2026, Prime Minister Sanae Takaichi has opened the door to a long-politically sensitive capability.
-
-### [Kim Jong-un crosses newly opened bridge into China](https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china)
-*The Guardian* - Oct 24, 19:04 IST (iso: 2026-10-24T13:34:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/bacc10873965dc231eed0c7066ab2daf07428492/287_0_5753_4600/master/5753.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e909d961099f6bf8027f885e3cf422a -->
-
-North Korean leader Kim Jong-un crossed the newly opened New Yalu River Bridge into China. He arrived in the border city of Dandong to meet senior Communist party officials. The visit marked the inauguration of the new crossing and signaled a push to expand bilateral cooperation between the two nations. North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification.
-
-### [Green batteries built on dirty dealings in Indonesia](https://asiatimes.com/2026/10/green-batteries-built-on-dirty-dealings-in-indonesia/)
-*Asia Times* - Oct 24, 12:04 IST (iso: 2026-10-24T06:34:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Harita-Group-Indonesia.jpg -->
-
-Leaked documents reveal Harita Group paid for goodwill on Obi island to secure nickel for electric vehicle batteries. The Organized Crime and Corruption Reporting Project published the files on October 22. These payments facilitated mining operations that supply a growing share of global battery production. A growing share of the world’s electric-vehicle batteries contains nickel from Obi, an Indonesian island where the mining company Harita Group has long paid for goodwill, according to alleged leaked documents published on October 22 by the Organized Crime and Corruption Reporting Project (OCCRP).
-
-### [China bets refitted destroyers can hold line in US numbers race](https://asiatimes.com/2026/10/china-bets-refitted-destroyers-can-hold-line-in-us-numbers-race/)
-*Asia Times* - Oct 24, 10:44 IST (iso: 2026-10-24T05:14:46+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/China-PLA-Navy-Type-051C-copy.jpeg -->
-
-China is refitting older destroyers to maintain fleet mass against the United States. The People's Liberation Army Navy completed extensive midlife upgrades on surface combatants this month. This approach prioritizes preserving numbers over purely qualitative technological modernization in naval warfare. Recent midlife upgrades to China’s older surface combatants highlight an ongoing debate over whether preserving naval fleet mass provides an operational edge over purely qualitative technological modernization in naval warfare.
 
 ---
 
