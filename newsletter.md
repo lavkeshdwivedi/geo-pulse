@@ -1,10 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 27, 2026 23:57 IST
+**Updated:** October 28, 2026 04:13 IST
 
 ---
 
 ## Europe & Russia
+
+### [Why Russia's Central Crimean Drone Base Is Hard For Ukraine To Destroy](https://www.rferl.org/a/crimea-drone-strike-russia-ukraine-war-shahed/33885309.html)
+*Radio Free Europe / Liberty* - Oct 28, 02:06 IST (iso: 2026-10-27T20:36:41+00:00)
+<!-- image: https://gdb.rferl.org/1a71629a-d978-4cf2-ea01-08df13afe2a0_w1200_h630.jpg -->
+
+Satellite imagery reveals a military airfield in central Crimea now functions as a primary hub for Russian drone launches. A Crimean military insider told RFE/RL that the site’s dispersed layout makes it difficult for Ukrainian forces to target effectively. The base uses multiple, smaller launch pads rather than a single concentrated runway. This fragmentation reduces the impact of any single precision strike. Ukraine has struggled to neutralize the facility despite repeated attempts. The infrastructure remains operational and continues to support Russian drone operations against Ukrainian targets.
+
+### ['Committed To European Integration': Student List's Srdanovic On Serbia's Post-Vucic Future](https://www.rferl.org/a/serbia-srdanovic-student-list-interview-russia-kosovo-vucic-srebrenica/33885299.html)
+*Radio Free Europe / Liberty* - Oct 28, 00:28 IST (iso: 2026-10-27T18:58:08+00:00)
+<!-- image: https://gdb.rferl.org/d372bcd2-4186-4464-8205-0bc4ad169721_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Ilija Srdanovic, the lead candidate for Serbia’s Student List, confirmed the party’s commitment to European integration following Aleksandar Vucic’s defeat. The student-led opposition movement secured victory, ending over a decade of Vucic’s political dominance. Srdanovic outlined the next steps for the country in an interview with RFE/RL’s Balkan Service. The transition marks a significant shift in Serbian political leadership. Aleksandar Vucic’s election defeat has ended more than a decade of political dominance and handed victory to Serbia’s student-led opposition movement.
 
 ### [Norway, Finland leaders hold 'frank and substantive' talk with Putin](https://www.thehindu.com/news/international/norway-finland-leaders-hold-frank-and-substantive-talk-with-putin/article71632960.ece)
 *The Hindu (International)* - Oct 27, 22:57 IST (iso: 2026-10-27T17:27:22+00:00)
@@ -53,12 +65,6 @@ Aleksandar Vucic conceded defeat in Serbia's October 25 parliamentary elections.
 <!-- image: https://gdb.rferl.org/f2f54aba-77f1-47b0-6a6f-08df13a87200_w1200_h630.jpeg -->
 
 Vucic admitted defeat to the student-led protest movement in Serbia's parliamentary vote. His concession signals a potential shift toward European alignment. The new government may distance Serbia from Kremlin influence. Aleksandar Vucic, Serbia's former president and dominant political figure for more than a decade, conceded defeat to the student-led protest movement in the country's parliamentary elections, potentially ushering in a new era of politics more closely aligned with Europe and away from the Kremlin.
-
-### [Relentless Russian Strikes Drive Civilians From Ukraine's Kramatorsk](https://www.rferl.org/a/relentless-russian-strikes-drive-civilians-from-ukraine-s-kramatorsk/33883080.html)
-*Radio Free Europe / Liberty* - Oct 25, 13:54 IST (iso: 2026-10-25T08:24:41+00:00)
-<!-- image: https://gdb.rferl.org/f99e187e-b84d-457f-4cbb-08df13aec0bb_w1200_h630.jpg -->
-
-Ukraine ordered mandatory evacuations for families with children in Kramatorsk and Slovyansk. Russian forces intensified strikes across the Donetsk region. The move aims to protect civilians as Moscow pushes to seize the entire area. As Russian forces intensify attacks on Ukraine’s Donetsk region, evacuations are accelerating in Kramatorsk, a key city still held by Kyiv. As Moscow seeks to seize all of the Donetsk region, Ukraine has issued a mandatory evacuation order for families with children in Kramatorsk and Slovyansk.
 
 ---
 
@@ -143,12 +149,6 @@ Indonesian officials blame foreign actors for market crashes and peatland fires,
 <!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
 
 Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
-
-### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
-*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
-<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
-
-Young Chinese adults are raising bricks instead of children or pets due to a stagnant job market. Bricks are low-maintenance and cost almost nothing. This hobby offers a cheap alternative to traditional responsibilities, allowing stressed workers to avoid the financial burden of dating or raising offspring. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
 
 ### [Does Japan need nuclear subs? The debate is bigger than China](https://asiatimes.com/2026/10/does-japan-need-nuclear-subs-the-debate-is-bigger-than-china/)
 *Asia Times* - Oct 26, 12:04 IST (iso: 2026-10-26T06:34:48+00:00)
