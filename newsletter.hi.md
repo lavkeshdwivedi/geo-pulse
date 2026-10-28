@@ -1,16 +1,22 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** October 29, 2026 01:27 IST
+**अपडेट:** October 29, 2026 05:14 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
 ### [ईरान युद्ध पर 47 अरब डॉलर खर्च, हर छह हफ्ते में 3.5 अरब बढ़ा बोझ; कब तक खिंचेगी जंग?](https://www.amarujala.com/world/us-iran-war-cost-hits-47-1-billion-for-us-taxpayers-as-military-spending-rises-effect-midterm-election-2026-10-29)
-*Amar Ujala World* - Oct 29, 12:59 IST (iso: 2026-10-29T07:29:12+00:00)
+*Amar Ujala Breaking* - Oct 29, 12:59 IST (iso: 2026-10-29T07:29:12+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/10/29/iirana-yathathha_595a46018d52603da9f3f05b9615cf33.jpeg?w=1200&dpr=1.0 -->
 
 अमेरिका ने ईरान के साथ चल रहे सैन्य संघर्ष पर अब तक 47.1 अरब डॉलर खर्च किए हैं। यह राशि हर छह हफ्तों में लगभग 3.5 अरब डॉलर की दर से बढ़ रही है। इस भारी वित्तीय बोझ ने अमेरिकी करदाताओं की जेबों पर गहरा असर डाला है। आगामी मध्यवर्ती चुनावों से ठीक पहले बढ़ती सैन्य खर्चों ने राजनीतिक दबाव को और तीव्र कर दिया है।
+
+### [अमेरिका ने रवांडा के रक्षा मंत्रालय पर लगाए प्रतिबंध, पूर्वी कांगो संघर्ष में दखल का आरोप](https://www.amarujala.com/world/world-news-updates-usa-china-rawanda-ban-west-asia-crisis-russia-2026-10-29)
+*Amar Ujala World* - Oct 29, 02:06 IST (iso: 2026-10-28T20:36:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका ने रवांडा के रक्षा मंत्रालय पर प्रतिबंध लगाए। पूर्वी कांगो संघर्ष में दखल देने का आरोप लगाया गया। दुनिया की खबरें: अमेरिका ने रवांडा के रक्षा मंत्रालय पर लगाए प्रतिबंध, पूर्वी कांगो संघर्ष में दखल देने का आरोप। अमेरिका ने रवांडा के रक्षा मंत्रालय पर लगाए प्रतिबंध, पूर्वी कांगो संघर्ष में दखल का आरोप।
 
 ### [सिर पर टांकों के गहरे निशान और हाथ में प्लास्टर, UAE में दिखे कैप्टन स्मित मच्छर के ‘बैटल स्कार’](https://hindi.news18.com/world/middle-east-indian-pilot-smit-machchhar-battle-scars-tell-tale-as-he-honored-in-uae-after-mid-air-cockpit-terrorist-attack-survival-10945268.html)
 *News18 Hindi (World)* - Oct 28, 23:44 IST (iso: 2026-10-28T18:14:49+00:00)
@@ -23,30 +29,6 @@
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/masoud_.webp -->
 
 ईरान और अमेरिका के बीच अभी शांति नहीं हुई है। ट्रंप मिडटर्म चुनाव के बाद ईरान पर हमले फिर शुरू कर सकते हैं। अमेरिकी सेना ने 96 घंटे के भीतर हमले की तैयारी कर ली है। मीडिया रिपोर्ट के अनुसार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) देश में मिडटर्म चुनाव के बाद फिर से ईरान पर हमले शुरू कर सकते हैं।
-
-### [नेतन्याहू सबसे ज्यादा सीटें जीतकर भी PM नहीं बन पाएंगे? इजरायल में सरकार बनाने का चक्रव्यूह, पूरा](https://hindi.news18.com/news/knowledge/israel-election-news-benjamin-netanyahu-gadi-eisenkot-know-poll-pattern-government-formation-10944553.html)
-*News18 Hindi (World)* - Oct 28, 18:10 IST (iso: 2026-10-28T12:40:52+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-Design-2026-10-28T175958.721-2026-10-a63909c963a3efc24a31692e6235b20f-1200x800.jpg -->
-
-इजरायल में सरकार बनाने के लिए संसद में कम से कम 61 सीटों का समर्थन आवश्यक है। नेतन्याहू की पार्टी सबसे बड़ी हो सकती है, लेकिन अकेले सरकार बनाने में असमर्थ हो सकती है। गठबंधन की आवश्यकता बनी रहती है। इजरायल का चुनाव चर्चा में है. अगर कोई नेता यहां सबसे बड़ी पार्टी के रूप में उभरता है, तो क्या वह आसानी से सरकार बना पाएगा?
-
-### [ईरान, इजरायल और अमेरिका की जंग में भारत को बड़ा जख्म; 14 नाविकों समेत 22 नागरिकों की गई जान](https://hindi.news18.com/news/nation/major-blow-for-india-in-west-asia-conflict-22-citizens-including-14-sailors-lose-their-lives-mea-press-brief-10944458.html)
-*News18 Hindi (World)* - Oct 28, 17:55 IST (iso: 2026-10-28T12:25:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Randhir-Jaiswal-2026-10-3636463c073e31b141744a1373c93352-1200x800.jpg -->
-
-पश्चिम एशिया के संघर्ष में 22 भारतीय नागरिकों की मौत हुई। इनमें 14 नाविक शामिल हैं। विदेश मंत्रालय ने मौतों की पुष्टि की। सरकार ने प्रभावित क्षेत्रों में नागरिकों की सुरक्षा को सर्वोच्च प्राथमिकता बताई। Indians Dead in West Asia Conflict: पश्चिम एशिया में जारी संघर्ष के बीच 22 भारतीय नागरिकों की मौत हुई है. इनमें 14 नाविक भी शामिल हैं.
-
-### [अदन एयरपोर्ट पर हूती विद्रोहियों ने किया हमला, दागीं बैलिस्टिक मिसाइलें](https://www.patrika.com/world-news/houthis-attack-aden-airport-with-ballistic-missiles-21014688)
-*Patrika (World)* - Oct 28, 17:36 IST (iso: 2026-10-28T12:06:32+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/09/houthis-missile-attack.webp -->
-
-यमन के अदन एयरपोर्ट पर हूती विद्रोहियों ने बैलिस्टिक मिसाइलों से हमला किया। सैन्य प्रवक्ता याह्या सरी ने पहले लोगों को एयरपोर्ट खाली करने की अपील की थी। कुछ देर बाद ही मिसाइलें गिराई गईं। हूतियों ने इस हमले की जिम्मेदारी ली। यमन (Yemen) के अदन एयरपोर्ट पर हूती विद्रोहियों (Houthis) ने हमला कर दिया है। हूती विद्रोहियों के सैन्य प्रवक्ता याह्या सरी (Yahya Saree) ने लोगों से तुरंत अदन एयरपोर्ट को खाली करने की अपील की थी और उसके कुछ देर बाद ही हूतियों ने बैलिस्टिक मिसाइलों से अदन के इंटरनेशनल एयरपोर्ट पर हमला कर दिया है।
-
-### [इजराइल की जासूसी कंपनी ने 100 से ज्यादा देशों में स्टारलिंक यूजर्स को बनाया निशाना, चौंका देंगे](https://www.patrika.com/world-news/israeli-spy-company-targeted-starlink-users-21014709)
-*Patrika (World)* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:15+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/starlinknews-2.webp -->
-
-इजरायली जासूसी कंपनी ने 100 से अधिक देशों में स्टारलिंक उपयोगकर्ताओं को निशाना बनाया। यह जानकारी एलान मस्क की सैटेलाइट इंटरनेट सेवा से जुड़ी है। कंपनी ने इन उपयोगकर्ताओं की निगरानी की। यह घटना ग्लोबल स्तर पर चर्चा का विषय बनी। दुनिया के मशहूर बिजनेसमैन एलान मस्क की सैटेलाइट इंटरनेट सेवा देने वाली कंपनी ‘Starlink’ का इस्तेमाल करने वाले यूजर्स को निशाना बनाने की खबर बनाने आई है।
 
 ---
 
@@ -70,6 +52,24 @@ Congress candidate claims victory in Nagpur seat after the 2026 Maharashtra Legi
 
 यूपी में 29 अक्टूबर से चक्रवात अर्नब का प्रभाव शुरू हो जाएगा। इससे प्रदेश में मौसम बदलेगा और कई जिलों में भीषण बारिश और तेज हवाओं का अलर्ट जारी किया गया है। इस दौरान तापमान में गिरावट दर्ज होगी। मौसम विभाग ने लोगों को सावधानी बरतने की सलाह दी है। Weather in UP:यूपी में 29 अक्तूबर से चक्रवात अर्नब का असर दिखना शुरू हो जाएगा।
 
+### [एआई, क्लाउड और स्पेस टेक्नोलॉजी के नाम होगा अगला दशक, आकाश अंबानी ने बताई भविष्य की योजना](https://www.amarujala.com/business/business-diary/jio-ipo-next-decade-will-belong-to-ai-cloud-and-space-technology-says-akash-ambani-2026-10-29)
+*Amar Ujala National* - Oct 29, 05:01 IST (iso: 2026-10-28T23:31:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/29/jio_513d086f35968b4cddff8e8e9f44079b.jpeg?w=1200&dpr=1.0 -->
+
+आकाश अंबानी ने जियो के अगले दशक की रणनीति में कृत्रिम बुद्धिमत्ता, क्लाउड और स्पेस टेक्नोलॉजी को प्राथमिकता दी। कंपनी इन क्षेत्रों में भारी निवेश करेगी। यह कदम जियो की विस्तार की दिशा तय करता है। जियो आईपीओ: एआई, क्लाउड और स्पेस टेक्नोलॉजी के नाम होगा अगला दशक, आकाश अंबानी ने बताई योजना। एआई, क्लाउड और स्पेस टेक्नोलॉजी के नाम होगा अगला दशक, आकाश अंबानी ने बताई भविष्य की योजना।
+
+### [पीएम ग्राम स्वराज योजना को मंजूरी, सात हजार करोड़ से सशक्त होंगी 2.55 लाख पंचायतें](https://www.amarujala.com/india-news/cabinet-approves-rs-7-395-crore-pm-viksit-gram-swaraj-scheme-and-rs-10-000-crore-container-manufacturing-plan-2026-10-29)
+*Amar Ujala National* - Oct 29, 04:55 IST (iso: 2026-10-28T23:25:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/12/12/cabinet-decisions_c62a73756d7bac556313c95bdd1f2fb5.jpeg?w=1200&dpr=1.0 -->
+
+केंद्रीय कैबिनेट ने पीएम ग्राम स्वराज योजना को मंजूरी दी है। सात हजार करोड़ रुपये की इस योजना से 2.55 लाख पंचायतें सशक्त होंगी। यह कदम ग्रामीण प्रशासनिक संरचना को मजबूत करने के लिए है। केंद्रीय कैबिनेट का फैसला: पीएम ग्राम स्वराज योजना को मंजूरी, सात हजार करोड़ से सशक्त होंगी 2.55 लाख पंचायतें।
+
+### [गोवा के वास्को में भीषण आग: कार एक्सेसरीज की दुकान खाक, 150 से अधिक दुकानदार प्रभावित; CM ने मदद का](https://www.amarujala.com/india-news/massive-fire-guts-car-accessories-shop-in-goa-vasco-cm-pramod-sawant-assures-help-2026-10-29)
+*Amar Ujala Breaking* - Oct 29, 03:02 IST (iso: 2026-10-28T21:32:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/14/two-women-dead-after-fire-breaks-out-in-multi-storey-palghar-building_e7267b9b69357dbcc017c18a5431c9db.jpeg?w=1200&dpr=1.0 -->
+
+गोवा के वास्को में कार एक्सेसरीज की दुकान में आग लग गई। 150 से अधिक दुकानदार प्रभावित हुए। मुख्यमंत्री प्रमोद सावंत ने राहत का आश्वासन दिया। गोवा के वास्को में भीषण आग: कार एक्सेसरीज की दुकान खाक, 150 से अधिक दुकानदार प्रभावित; CM ने मदद का।
+
 ### [इंसानों को दोबारा जवान बना सकता है ये जीव, कोशिकाओं में मिली ऐसी चाबी, 4 लाइलाज बीमारियों का इलाज](https://hindi.news18.com/photogallery/knowledge/immortal-jellyfish-secret-how-turritopsis-dohrnii-reverses-aging-and-could-cure-4-major-diseases-10944785.html)
 *News18 Hindi (World)* - Oct 28, 19:33 IST (iso: 2026-10-28T14:03:03+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Jellyfish-Immortal-2026-10-4264cc4b641c69b859f64f7b914327f3-1200x800.jpg -->
@@ -80,11 +80,23 @@ Congress candidate claims victory in Nagpur seat after the 2026 Maharashtra Legi
 
 ## एशिया-प्रशांत
 
-### [Karwa Chauth 2026 Chand Time Lucknow: करवा चौथ पर कितने बजे निकलेगा चांद? जानें पूजा मुहूर्त और](https://www.amarujala.com/photo-gallery/spirituality/festivals/karwa-chauth-2026-moonrise-time-in-lucknow-puja-muhurat-and-vrat-rules-in-hindi-2026-10-28)
-*Amar Ujala National* - Oct 29, 12:26 IST (iso: 2026-10-29T06:56:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/29/karava-catha-2026_8fbb94e2e8870c3508869c98af51328e.jpeg?w=1200&dpr=1.0 -->
+### [यूरोप को भी भारत की उतनी ही जरूरत; गोयल के छह दिन के दौरे से क्या हासिल?](https://www.amarujala.com/world/india-europe-trade-relations-why-europe-needs-india-as-much-as-india-needs-europe-2026-10-29)
+*Amar Ujala World* - Oct 29, 04:46 IST (iso: 2026-10-28T23:16:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/29/india-eu-free-trade-agreement-piyush-goyal-germany-visit_8d556626cd25896385868b1e3410bab9.jpeg?w=1200&dpr=1.0 -->
 
-करवा चौथ का व्रत 29 अक्टूबर 2026 को रखा जाएगा। लखनऊ में चांद रात 8 बजकर 47 मिनट पर निकलेगा। पूजा का शुभ मुहूर्त सुबह 7 बजकर 20 मिनट से शुरू होगा। व्रत खोलने के लिए चांद देखना अनिवार्य है। Karwa Chauth 2026: करवा चौथ का व्रत 29 अक्तूबर को रखा जाएगा। जानें दिल्ली में चांद निकलने का समय, पूजा का शुभ मुहूर्त और व्रत खोलने के जरूरी नियम।
+भारत के विदेश मंत्री एस जयशंकर के छह दिवसीय यूरोप दौरे का उद्देश्य व्यापारिक सहयोग को गहरा करना है। यूरोप को भी भारत की बाजार और स्रोतों की आवश्यकता है। यह दौरा दोनों पक्षों के लिए संभावनाओं पर केंद्रित है। यूरोप को भी भारत की उतनी ही जरूरत; गोयल के छह दिन के दौरे से क्या हासिल?
+
+### [अचानक मुड़ने की ताकत और महीनों अंतरिक्ष में रहने का दम, जानिए चीन के सीक्रेट स्पेसप्लेन की वो](https://hindi.news18.com/news/defence/china-secret-reusable-spaceplane-image-us-dia-report-space-race-10945166.html)
+*News18 Hindi (World)* - Oct 29, 04:43 IST (iso: 2026-10-28T23:13:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/China_Spaceplane_N-2026-10-8c013c93f98ed0b7d91b2d24e8314130-1200x800.jpg -->
+
+अमेरिकी रक्षा खुफिया एजेंसी डीआईए ने चीन के गुप्त रीयूजेबल स्पेसप्लेन की पहली स्पष्ट सैटेलाइट तस्वीर जारी की। यह वाहन अमेरिकी एक्स-37बी जैसा दिखता है। चीन के पास 510 से अधिक जासूसी उपग्रह हैं, जिससे अमेरिका की चिंता बढ़ी है। अमेरिकी रक्षा खुफिया एजेंसी डीआईए ने चीन के गुप्त रीयूजेबल स्पेसप्लेन की पहली साफ सैटेलाइट तस्वीर जारी की है. मैक्सार टेक्नोलॉजीज द्वारा ली गई यह तस्वीर दिखाती है कि यह स्पेसक्राफ्ट अमेरिकी स्पेस फोर्स के एक्स-37बी जैसा दिखता है.
+
+### [पीएम मोदी को भारत रत्न देने की मांग: भाजपा सांसद विक्रमजीत साहनी बोले- देशसेवा के लिए सर्वोच्च](https://www.amarujala.com/india-news/bjp-mp-vikramjit-singh-sahney-demands-bharat-ratna-for-pm-narendra-modi-2026-10-29)
+*Amar Ujala Breaking* - Oct 29, 02:32 IST (iso: 2026-10-28T21:02:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/29/parathhanamatara-narathara-matha_8be142cb3c8a832b3a7beb00bd8b858d.jpeg?w=1200&dpr=1.0 -->
+
+भाजपा सांसद विक्रमजीत सिंह साहनी ने प्रधानमंत्री मोदी को भारत रत्न देने की मांग की। उन्होंने इसे देशसेवा के लिए सर्वोच्च सम्मान बताया। पीएम मोदी को भारत रत्न देने की मांग: भाजपा सांसद विक्रमजीत साहनी बोले- देशसेवा के लिए सर्वोच्च।
 
 ### [ट्रंप के जानी दुश्मन को भारत ने बनाया ‘पार्टनर’, कहीं ये पाकिस्तान का जवाब तो नहीं?](https://hindi.news18.com/news/nation/india-mexico-trade-pact-why-new-delhi-strategic-deal-with-donald-trump-critic-matters-10945156.html)
 *News18 Hindi (World)* - Oct 28, 23:09 IST (iso: 2026-10-28T17:39:06+00:00)
@@ -122,21 +134,21 @@ Congress candidate claims victory in Nagpur seat after the 2026 Maharashtra Legi
 
 लाहौर हाईकोर्ट के जज मोहसिन अख्तर कयानी ने पद से इस्तीफा दे दिया। उन्होंने संविधान संशोधन के जरिए न्यायपालिका पर बढ़ते सरकारी नियंत्रण का विरोध किया। प्रधानमंत्री शहबाज शरीफ और सेना प्रमुख आसिम मुनीर पर अदालतों को नियंत्रित करने के आरोप लगे। यह इस्तीफा पाकिस्तान की न्याय व्यवस्था पर गंभीर प्रभाव डालता है। लाहौर हाईकोर्ट के सीनियर जज न्यायमूर्ति मोहसिन अख्तर कयानी ने अपने पद से इस्तीफा दे दिया है.
 
-### [890 किलोमीटर की वो 'लक्ष्मण रेखा', जिसने अरुणाचल प्रदेश को चीन से बचाया, लाख कोशिशों के बाद क्रॉस](https://hindi.news18.com/news/knowledge/india-china-arunachal-pradesh-dispute-mcmahon-line-890km-border-shield-for-india-why-china-claims-fail-10944563.html)
-*News18 Hindi (World)* - Oct 28, 18:38 IST (iso: 2026-10-28T13:08:11+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/India-China-Arunachal-Pradesh-Dispute-McMahon-Line-2026-10-610cf69a9c0e3ace6a23a80f44bf991e-1200x800.jpg -->
+### [इंडिया गठबंधन की 1 नवंबर की रैली को CJP सपोर्ट करेगी या नहीं? अभिजीत दीपके ने कर दिया ऐलान](https://www.abplive.com/news/india/cjp-will-support-india-alliance-rally-on-november-1st-abhijit-dipke-announced-3208084)
+*ABP Live (India)* - Oct 28, 19:01 IST (iso: 2026-10-28T13:31:39+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/28/263e4e487dd5122e8c7f392d421f973a17931942901071368_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-अरुणाचल प्रदेश और चीन के बीच 890 किलोमीटर लंबी मैकमोहन रेखा स्थित है। यह सीमा 1914 के शिमला समझौते पर आधारित है। हाल ही में चीनी सैनिकों की घुसपैठ को भारतीय सेना ने नाकाम किया। भारत और चीन के बीच अरुणाचल प्रदेश की सीमा पर 890 किलोमीटर लंबी 'मैकमोहन रेखा' बनी हुई है. ये रेखा चीन की हर साजिश और झूठे दावों के खिलाफ एक मजबूत ढाल है.
-
-### [समंदर में बारूदी सुरंगों का काल बनेंगे भारत-जापान, 'वीर गार्जियन' के बाद अब नए मिशन की तैयारी](https://hindi.news18.com/news/nation/japan-india-nemesis-of-sea-mines-after-veer-guardian-rajnath-singh-meet-shinjiro-koizumi-10944417.html)
-*News18 Hindi (World)* - Oct 28, 18:06 IST (iso: 2026-10-28T12:36:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Rajnath-Singh-Shinjiro-Koizumi-2026-10-a0889ed4dab79dd574580d9abb354705-1200x800.jpg -->
-
-फिलीपींस के सेबू में भारत और जापान के रक्षा मंत्रियों ने द्विपक्षीय वार्ता की। दोनों देशों ने जंगी जहाजों के साझा निर्माण पर सहमति जताई। समुद्री बारूदी सुरंगों को निष्क्रिय करने की तकनीक पर भी बातचीत हुई। India Japan Defence Partnership: हिंद-प्रशांत क्षेत्र में समंदर से लेकर आसमान तक रणनीतिक दबदबा कायम करने के लिए भारत और जापान ने अपने रक्षा रिश्तों को नई रफ्तार दे दी है.
+अभिजीत दीपके ने इंडिया गठबंधन की 1 नवंबर की रैली का समर्थन किया। कॉकरोच जनता पार्टी ने दिल्ली में होने वाली इस रैली में भाग लेने का ऐलान किया। इंडिया गठबंधन की एक नवंबर को दिल्ली के रामलीला मैदान में होने वाली रैली को कॉकरोच जनता पार्टी के फाउंडर अभिजीत दीपके ने सपोर्ट करने का ऐलान किया है. उन्होंने एक्स पर पोस्ट कर लिखा, 'कॉकरोच जनता पार्टी, इंडिया ब्लॉक की 1 नवंबर की रैली को अपना समर्थन देती है.' GYANU MUST GO!
 
 ---
 
 ## अमेरिका
+
+### ['मैं ही ब्राजील का असली राष्ट्रपति': फ्लावियो बोल्सोनारो का दावा, लूला की जीत को बताया चुनावी](https://www.amarujala.com/world/flavio-bolsonaro-claims-to-be-brazil-legitimate-president-elect-alleges-electoral-fraud-2026-10-29)
+*Amar Ujala World* - Oct 29, 03:14 IST (iso: 2026-10-28T21:44:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/falvaya-blsanara_31f8607b88ce2d3f239ef658351c727d.jpeg?w=1200&dpr=1.0 -->
+
+फ्लावियो बोल्सोनारो ने दावा किया कि वे ही ब्राजील के असली राष्ट्रपति हैं। उन्होंने लूला की जीत को चुनावी धांधली का परिणाम बताया। यह बयान देश में राजनीतिक विभाजन को और गहरा करता है। 'मैं ही ब्राजील का असली राष्ट्रपति': फ्लावियो बोल्सोनारो का दावा, लूला की जीत को बताया चुनावी।
 
 ### [ड्राइवरलेस मोनोरेल चलते-चलते कैसे हो गई अंधी? ट्रैक से लेकर सड़क तक मचा हड़कंप, इंसानी समझ के आगे](https://hindi.news18.com/world/rest-of-world-monorail-vs-human-understanding-sao-paulo-driverless-monorail-crash-automatic-train-collides-with-crane-raising-safety-concerns-10945088.html)
 *News18 Hindi (World)* - Oct 28, 22:19 IST (iso: 2026-10-28T16:49:31+00:00)
@@ -159,18 +171,6 @@ Congress candidate claims victory in Nagpur seat after the 2026 Maharashtra Legi
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-design-2026-10-28T190741.720-2026-10-411b6633712efc5f34f5647f4f818bdc-1200x800.jpg -->
 
 ब्रिटेन ने समुद्र में एक साथ तीन परमाणु पनडुब्बियां तैनात की हैं। इनमें से तीन बैलिस्टिक मिसाइल पनडुब्बियां सक्रिय हैं। इस तैनाती से सैन्य तैयारी बढ़ाने के सवाल उठ रहे हैं। सामान्य ऑपरेशन या संभावित खतरे का अंदाजा लगाया जा रहा है। ब्रिटेन के पास परमाणु हथियार ले जाने में सक्षम 4 बैलिस्टिक मिसाइल पनडुब्बियों में से 3 इस वक्त समुद्र में मुस्तैद है.
-
-### [बुल्गारिया के पास कंटेनर जहाज से टकराए 3 समुद्री ड्रोन, काला सागर में बार बार बनाया जा रहा जहाजों](https://www.patrika.com/world-news/nato-country-bulgaria-black-sea-container-ship-sea-drone-attack-21014877)
-*Patrika (World)* - Oct 28, 18:45 IST (iso: 2026-10-28T13:15:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Black-Sea-drone-attack.webp -->
-
-बुल्गारिया के रक्षा मंत्री ने बताया कि काला सागर तट पर एक कंटेनर जहाज से तीन नौसैनिक ड्रोन टकराए। यह घटना बुधवार को हुई। रूस-यूक्रेन युद्ध के कारण क्षेत्र में जहाजों के लिए खतरा बढ़ रहा है। Russia Ukraine War: नाटो के सदस्य देश बुल्गारिया के पास एक बार फिर से एक कंटेनर जहाज पर तीन ड्रोन से हमले होने की जानकारी मिली है।
-
-### [रूस को लेकर जेलेंस्की का बड़ा बयान, बोले- पुतिन के इरादे अमेरिका से बेहतर समझते हैं हम](https://www.patrika.com/world-news/zelensky-we-understand-russians-better-than-america-end-war-21014640)
-*Patrika (World)* - Oct 28, 17:45 IST (iso: 2026-10-28T12:15:29+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Russia-Ukraine-war-1.webp -->
-
-जेलेंस्की ने कहा कि वे और ट्रंप युद्ध समाप्त करना चाहते हैं। हालांकि दोनों के तरीके अलग हैं। जेलेंस्की का दावा है कि वे पुतिन के इरादों को अमेरिका से बेहतर समझते हैं। कीव और वाशिंगटन के बीच रणनीति पर चर्चा हुई। यूक्रेन के राष्ट्रपति वोलोदिमीर जेलेंस्की ने बुधवार को ‘रूस के आक्रमण’ को खत्म करने की रणनीतियों को लेकर कीव और वाशिंगटन के बीच संबंधों पर बात की।
 
 ---
 

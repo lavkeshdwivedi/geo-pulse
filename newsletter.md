@@ -1,6 +1,56 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 29, 2026 01:27 IST
+**Updated:** October 29, 2026 05:14 IST
+
+---
+
+## Asia-Pacific
+
+### [GLP-1 weight-loss pills vs injections: How do they compare and why you shouldn't get the pills](https://www.channelnewsasia.com/wellness/wegovy-weight-loss-pill-vs-injection-glp-1-6451926)
+*Channel News Asia* - Oct 29, 04:41 IST (iso: 2026-10-28T23:11:06+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--1EcFow3Y--/c_crop,h_1125,w_2000,x_0,y_25/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/12/wegovy-weight-loss-pill-vs-injection-glp-1_a.jpg?itok=sqC1gewp -->
+
+Singapore offers Wegovy only as a weekly injection. The daily pill version remains unavailable locally. Doctors caution that the medication targets obesity, not casual weight loss. Side effects and dosing differences distinguish the two delivery methods. Wegovy, a GLP-1 weight-loss drug, is already available in Singapore as a once-weekly weight-loss injection. Now offered as a daily pill in several countries but not Singapore, how does it compare with the jab?
+
+### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
+*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
+
+Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
+
+### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
+*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
+<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
+
+Young Chinese adults are increasingly adopting brick collecting as a low-cost hobby. Facing a stagnant job market, many are choosing this over raising children or pets. The trend offers a cheap, low-maintenance alternative to traditional responsibilities in a difficult economic environment. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
+
+---
+
+## Americas
+
+### [US ambassador suggests Trump could blame Canada if midterms don’t go his way](https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms)
+*The Guardian* - Oct 29, 01:45 IST (iso: 2026-10-28T20:15:07+00:00)
+<!-- image: https://i.guim.co.uk/img/media/015f3fc0e56bc4e9bf29447ad4fb910c5a57894d/29_0_2922_2339/master/2922.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d118720bbf60f82d7925c214dcb087c8 -->
+
+US ambassador Pete Hoekstra suggested Canada might face blame if Republicans lose next week's midterms. He previously accused Canadian officials of interfering in American elections. His comments have intensified a bitter dispute between the two nations. Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US electionsThe US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm elections, the latest intervention from a controversial figure who has been accused of inflaming a bitter dispute that has angered and baffled residents of both countries. O.
+
+### [Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168687)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-04-2026-UNDP-Tuvalu-05.jpg/image770x420cropped.jpg -->
+
+A new UN report states the ocean's carbon absorption capacity has dropped by six percent. The sea still takes in 30 percent of human emissions. It also absorbs 90 percent of excess heat. This warning arrives ahead of the November COP31 climate conference. The ocean absorbs around 30 per cent of human-caused carbon dioxide (CO₂) emissions and 90 per cent of excess heat trapped by greenhouse gases.
+
+### [General Assembly weighs US embargo against Cuba ahead of 34th vote](https://news.un.org/feed/view/en/story/2026/10/1168686)
+*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-Unsplash-Havana-Cuba.jpg/image770x420cropped.jpg -->
+
+The United Nations General Assembly began its annual debate on the US economic embargo against Cuba. Member states will vote on Wednesday, 28 October, to end the sanctions. This will be the 34th consecutive annual resolution calling for the immediate termination of the trade restrictions. The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday.
+
+### [Record carbon dioxide levels will impact us for centuries, says UN weather agency](https://news.un.org/feed/view/en/story/2026/10/1168677)
+*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-07-2021_Unsplash_power-plant.jpg/image560x340cropped.jpg -->
+
+The World Meteorological Organization reported that carbon dioxide and other greenhouse gases hit record highs in 2025. Burning fossil fuels drove these levels, locking in additional long-term global warming. The agency warned these atmospheric changes will affect the planet for centuries. Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.
 
 ---
 
@@ -12,17 +62,17 @@
 
 Saudi Arabia, Pakistan, and Turkey sent senior officials to Tehran to negotiate with Iran under the Mecca Joint Defense Agreement. Prince Khalid bin Salman, Field Marshal Asim Munir, and Ibrahim Kalın met President Pezeshkian and security chief Mohsen Rezaei. The unusual diplomatic move aims to prevent regional escalation through direct dialogue. On Monday, the Mecca Joint Defense Agreement did something a defense treaty is not usually built to do.
 
-### [Understanding how Knesset polls work vs India’s system](https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece)
-*The Hindu (International)* - Oct 28, 17:35 IST (iso: 2026-10-28T12:05:04+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/8n5v84/article71634105.ece/alternates/LANDSCAPE_1200/Israel_Elections_69116.jpg -->
+### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image770x420cropped.jpg -->
 
-Israel's October 27 election left the Knesset without a clear majority. Netanyahu and Gadi Eisenkot now compete to form a government. Neither bloc secured the 61 seats needed to rule alone. The political standoff continues as coalition talks begin. Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset.
+UN investigators reported that El Obeid civilians face drone strikes from the Rapid Support Forces. They also endure arbitrary arrests by the Sudanese Armed Forces. Residents live in constant fear of both military threats and state detention. Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.
 
-### [Netanyahu and rival each claim mandate after tight Israel election](https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece)
-*The Hindu (International)* - Oct 28, 17:32 IST (iso: 2026-10-28T12:02:29+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/vgw5a4/article71634324.ece/alternates/LANDSCAPE_1200/2026-10-28T023249Z_2013724371_RC21COA11ZRE_RTRMADP_3_ISRAEL-ELECTION.JPG -->
+### [UN human rights chief urges better protection of civilians in conflicts](https://news.un.org/feed/view/en/story/2026/10/1168695)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image770x420cropped.jpg -->
 
-Israeli exit polls show former military chief Benny Gantz and his opposition bloc trailing slightly behind Benjamin Netanyahu's hard-right camp. Neither side secured a clear mandate, leaving both parties well short of the parliamentary majority threshold. The stalemate forces a complex coalition negotiation. Exit polls showed Mr. Eisenkot, a former military chief and political novice, and his opposition bloc neck and neck with Mr.
+UN human rights chief Volker Türk highlighted youth-led protests in Serbia, Bangladesh, Nepal, and Madagascar. He said these movements show a growing global demand for stronger human rights protections. The protests focus on corruption and inequality. Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.
 
 ### [Under Houthi fire, Saudi Arabia looks to China for missile support](https://asiatimes.com/2026/10/under-houthi-fire-saudi-arabia-looks-to-china-for-missile-support/)
 *Asia Times* - Oct 28, 12:11 IST (iso: 2026-10-28T06:41:52+00:00)
@@ -64,43 +114,9 @@ Algeria severed diplomatic ties with the United Arab Emirates after years of dis
 
 Luke Lindberg, the new head of the UN World Food Programme, stated that ending conflict is the primary solution to global hunger. He noted that war drives two thirds of acute food insecurity affecting 266 million people worldwide. Lindberg emphasized that peace is the most effective tool for reducing starvation. Reducing conflict is the single most effective way to tackle global hunger, the new head of the UN World Food Programme (WFP), Luke Lindberg, said on Wednesday, noting that conflict drives two thirds of the acute food insecurity affecting 266 million people worldwide.
 
-### [Women and girls’ share of civilian war deaths doubles since 2021](https://news.un.org/feed/view/en/story/2026/10/1168673)
-*UN News* - Oct 26, 17:30 IST (iso: 2026-10-26T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image560x340cropped.jpg -->
-
-The United Nations reported that women and girls accounted for one in four of the more than 37,000 civilians killed in armed conflict last year. This figure represents a doubling of their share compared to 2021. The data highlights a significant shift in the demographic impact of global wars. Civilian casualties have risen sharply during this period. War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.
-
----
-
-## Americas
-
-### [Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168687)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-04-2026-UNDP-Tuvalu-05.jpg/image770x420cropped.jpg -->
-
-A new UN report states the ocean's carbon absorption capacity has dropped by six percent. The sea still takes in 30 percent of human emissions. It also absorbs 90 percent of excess heat. This warning arrives ahead of the November COP31 climate conference. The ocean absorbs around 30 per cent of human-caused carbon dioxide (CO₂) emissions and 90 per cent of excess heat trapped by greenhouse gases.
-
-### [General Assembly weighs US embargo against Cuba ahead of 34th vote](https://news.un.org/feed/view/en/story/2026/10/1168686)
-*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-Unsplash-Havana-Cuba.jpg/image770x420cropped.jpg -->
-
-The United Nations General Assembly began its annual debate on the US economic embargo against Cuba. Member states will vote on Wednesday, 28 October, to end the sanctions. This will be the 34th consecutive annual resolution calling for the immediate termination of the trade restrictions. The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday.
-
-### [Record carbon dioxide levels will impact us for centuries, says UN weather agency](https://news.un.org/feed/view/en/story/2026/10/1168677)
-*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-07-2021_Unsplash_power-plant.jpg/image560x340cropped.jpg -->
-
-The World Meteorological Organization reported that carbon dioxide and other greenhouse gases hit record highs in 2025. Burning fossil fuels drove these levels, locking in additional long-term global warming. The agency warned these atmospheric changes will affect the planet for centuries. Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.
-
 ---
 
 ## Europe & Russia
-
-### [Flávio Bolsonaro flees Brazil after presidential election loss, reports say](https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled)
-*The Guardian* - Oct 28, 12:06 IST (iso: 2026-10-28T06:36:14+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3ef222ab0dad82e1fda7dafb6d9e2ec911a85e26/945_122_2901_2320/master/2901.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46bc03a6f28938bc88f49b70a81a94dc -->
-
-Flávio Bolsonaro fled Brazil following his presidential election loss to Luiz Inácio Lula da Silva. He crossed into Argentina before boarding a private plane to Ecuador. Lula called the departure shameful. The senator is reportedly en route to the United States. Far-right senator and his family boarded private plane to Ecuador after crossing border to Argentina, Argentina’s government confirmsThe far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”. A report by the news website Metró.
 
 ### [South Korea’s rich lobbying spree isn’t paying off in DC](https://asiatimes.com/2026/10/south-koreas-rich-lobbying-spree-isnt-paying-off-in-dc/)
 *Asia Times* - Oct 28, 08:01 IST (iso: 2026-10-28T02:31:00+00:00)
@@ -155,22 +171,6 @@ Aleksandar Vucic lost the Serbian parliamentary elections to student-led opposit
 <!-- image: https://gdb.rferl.org/058d3ff5-0438-4e6d-e9a3-08df13afe2a0_w1200_h630.jpg -->
 
 Aleksandar Vucic conceded defeat in Serbia's October 25 parliamentary elections. The student-led Students' List took a decisive lead in preliminary results. This ends his fourteen-year dominance of Serbian politics. Former President Aleksandar Vucic, who dominated Serbian politics for the past 14 years, conceded defeat in the country's parliamentary elections after polls closed on October 25. Preliminary results showed the movement called Students' List taking a decisive lead.
-
----
-
-## Asia-Pacific
-
-### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
-*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
-
-Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
-
-### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
-*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
-<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
-
-Young Chinese adults are increasingly adopting brick collecting as a low-cost hobby. Facing a stagnant job market, many are choosing this over raising children or pets. The trend offers a cheap, low-maintenance alternative to traditional responsibilities in a difficult economic environment. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
 
 ---
 
