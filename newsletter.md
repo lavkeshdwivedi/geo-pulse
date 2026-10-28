@@ -1,10 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 28, 2026 04:13 IST
+**Updated:** October 28, 2026 07:22 IST
+
+---
+
+## Asia-Pacific
+
+### [Does ethnicity affect the type of breast cancer you develop and how easily it's detected?](https://www.channelnewsasia.com/women/breast-cancer-ethnicity-singapore-6474356)
+*Channel News Asia* - Oct 28, 04:44 IST (iso: 2026-10-27T23:14:04+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--1nj6-6bB--/c_crop,h_1055,w_1875,x_63,y_1/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/20/breast-cancer-singapore.jpg?itok=HkAb6Ic2 -->
+
+Asian women in Singapore face denser breast tissue, complicating cancer detection. Research indicates specific breast cancer types cluster within certain ethnic groups. However, clinicians caution that ethnicity alone does not dictate disease progression or clinical outcomes for individual patients. Asian women tend to have denser breasts, which can make cancer harder to detect. Studies also show that certain breast cancer types are more common among some ethnic groups in Singapore.
+
+### [Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain](https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece)
+*The Hindu (International)* - Oct 27, 20:09 IST (iso: 2026-10-27T14:39:05+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/hlot6i/article71632014.ece/alternates/LANDSCAPE_1200/2026-10-09T161516Z_15004819_RC2OZNAN4ONM_RTRMADP_3_BRAZIL-ELECTION.JPG -->
+
+Lula begins his fourth term with the chance to strengthen Brazil's climate role. As Latin America's largest economy and Amazon steward, he can bridge divides among the EU, US, China, and BRICS. His diplomatic reach offers a path to more cohesive global climate agreements. In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon, and its diplomatic relationships with the EU, the U. S., China, the BRICS countries and other devel.
+
+### [Chasing foreign phantoms in Prabowo’s embattled Indonesia](https://asiatimes.com/2026/10/chasing-foreign-phantoms-in-prabowos-embattled-indonesia/)
+*Asia Times* - Oct 27, 17:50 IST (iso: 2026-10-27T12:20:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Indonesia-Prabowo-Subianto-.jpg -->
+
+Indonesian officials blame foreign actors for market crashes and peatland fires, deflecting from domestic accountability. Critics argue this narrative ignores local corporate ownership and political corruption. The strategy avoids addressing who actually controls listed companies and wins state contracts. Indonesia’s leaders promise that the country will be a world power by 2045, the centennial of its independence. Yet when shares plunge or smoke drifts abroad, officials reflexively blame foreigners.
+
+### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
+*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
+
+Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
 
 ---
 
 ## Europe & Russia
+
+### [Scorched earth isn’t driving Ukrainians to sue for peace](https://asiatimes.com/2026/10/polling-scorched-earth-isnt-driving-ukrainians-to-sue-for-peace/)
+*Asia Times* - Oct 28, 04:16 IST (iso: 2026-10-27T22:46:10+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/c20385d88197b0e43aca6c2958ba89431792315970-copy-e1793137909950.jpg -->
+
+Vladimir Putin believes relentless bombing of Ukrainian cities will force Kyiv to sue for peace. This marks his latest shifting theory of victory after earlier land offensives stalled. Polling data suggests this scorched earth strategy is not actually driving Ukrainians toward accepting a negotiated settlement. Vladimir Putin has a theory of victory in Ukraine. It’s not the Russian president’s first theory – that was a quick, dayslong campaign – nor his second or third, which involved different land offensives in the east that quickly petered out.
 
 ### [Why Russia's Central Crimean Drone Base Is Hard For Ukraine To Destroy](https://www.rferl.org/a/crimea-drone-strike-russia-ukraine-war-shahed/33885309.html)
 *Radio Free Europe / Liberty* - Oct 28, 02:06 IST (iso: 2026-10-27T20:36:41+00:00)
@@ -50,7 +84,7 @@ Aleksandar Vucic lost the Serbian parliamentary elections to student-led opposit
 
 ### [Investigators find Russia committed war crimes by targeting civilians](https://news.un.org/feed/view/en/story/2026/10/1168670)
 *UN News* - Oct 26, 17:30 IST (iso: 2026-10-26T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-10-2025_OCHA_Ukraine.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-10-2025_OCHA_Ukraine.jpg/image560x340cropped.jpg -->
 
 A panel of human rights experts concluded that Russian forces committed war crimes and crimes against humanity during the Ukraine invasion. The findings cite deliberate attacks on civilians and vital energy infrastructure. These actions violate international law. The report details specific violations of protected targets. Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.
 
@@ -90,7 +124,7 @@ US airstrikes in southern Somalia are pushing civilians toward the rising River 
 
 ### [Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan](https://news.un.org/feed/view/en/story/2026/10/1168663)
 *UN News* - Oct 24, 17:30 IST (iso: 2026-10-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026-UNICEF-Sudan-03.jpg/image560x340cropped.jpg -->
 
 Tahani Al-Numeiri in Khartoum mistook the initial explosions for wedding celebrations on 15 April 2023. The Rapid Support Forces had just opened fire on the army. Women in Sudan now serve as frontline responders during the siege. They face immediate danger while managing critical aid distribution. The conflict has forced them into roles previously held by men. Their work sustains communities under active bombardment.
 
@@ -110,51 +144,17 @@ Nigeria confirmed its first Ebola case in over a decade. The patient is the wife
 
 ## Americas
 
-### [‘Will Lula’s win end Latin America’s far right turn?’: Our correspondent in Brazil answered your](https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro)
-*The Guardian* - Oct 27, 22:16 IST (iso: 2026-10-27T16:46:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/f7975b381e5fff70c5e117ef42e308e459969785/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3146e4c326ba9a25ffb05fd9c3aca076 -->
-
-Luiz Inácio Lula da Silva won Brazil's presidential election in a second-round victory. He defeated far-right rival Flávio Bolsonaro. The result raised questions about the future of the region's political direction. Market reactions followed the announcement of the outcome. Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second.
-
 ### [Record carbon dioxide levels will impact us for centuries, says UN weather agency](https://news.un.org/feed/view/en/story/2026/10/1168677)
 *UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-07-2021_Unsplash_power-plant.jpg/image770x420cropped.jpg -->
 
 The World Meteorological Organization reported that carbon dioxide and other greenhouse gases hit record highs in 2025. Burning fossil fuels drove these levels, locking in additional long-term global warming. The agency warned these atmospheric changes will affect the planet for centuries. Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.
 
-### [Why Lula’s ‘miracle’ win matters well beyond Brazil](https://asiatimes.com/2026/10/why-lulas-miracle-win-matters-well-beyond-brazil/)
-*Asia Times* - Oct 26, 12:40 IST (iso: 2026-10-26T07:10:24+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Brazil-Lula-Elections-2026.jpg -->
+### [General Assembly weighs US embargo against Cuba ahead of 34th vote](https://news.un.org/feed/view/en/story/2026/10/1168686)
+*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-Unsplash-Havana-Cuba.jpg/image770x420cropped.jpg -->
 
-Lula secured a surprising victory over Flavio Bolsonaro in Brazil. The win reversed a significant first-round deficit. It signals a major shift in global politics. The outcome impacts climate policy and international relations beyond South America. Three weeks ago, Brazilian President Luiz Inacio Lula da Silva’s political obituaries had all been written. The far-right presidential candidate, Flavio Bolsonaro, son of the jailed former President Jair Bolsonaro, had come out of the first round of the presidential election with a lead that looked impossible to overcome.
-
----
-
-## Asia-Pacific
-
-### [Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain](https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece)
-*The Hindu (International)* - Oct 27, 20:09 IST (iso: 2026-10-27T14:39:05+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/hlot6i/article71632014.ece/alternates/LANDSCAPE_1200/2026-10-09T161516Z_15004819_RC2OZNAN4ONM_RTRMADP_3_BRAZIL-ELECTION.JPG -->
-
-Lula begins his fourth term with the chance to strengthen Brazil's climate role. As Latin America's largest economy and Amazon steward, he can bridge divides among the EU, US, China, and BRICS. His diplomatic reach offers a path to more cohesive global climate agreements. In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon, and its diplomatic relationships with the EU, the U. S., China, the BRICS countries and other devel.
-
-### [Chasing foreign phantoms in Prabowo’s embattled Indonesia](https://asiatimes.com/2026/10/chasing-foreign-phantoms-in-prabowos-embattled-indonesia/)
-*Asia Times* - Oct 27, 17:50 IST (iso: 2026-10-27T12:20:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Indonesia-Prabowo-Subianto-.jpg -->
-
-Indonesian officials blame foreign actors for market crashes and peatland fires, deflecting from domestic accountability. Critics argue this narrative ignores local corporate ownership and political corruption. The strategy avoids addressing who actually controls listed companies and wins state contracts. Indonesia’s leaders promise that the country will be a world power by 2045, the centennial of its independence. Yet when shares plunge or smoke drifts abroad, officials reflexively blame foreigners.
-
-### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
-*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
-
-Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
-
-### [Does Japan need nuclear subs? The debate is bigger than China](https://asiatimes.com/2026/10/does-japan-need-nuclear-subs-the-debate-is-bigger-than-china/)
-*Asia Times* - Oct 26, 12:04 IST (iso: 2026-10-26T06:34:48+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Japan-Submarines-Navy-Defense.jpg -->
-
-Japan is debating the acquisition of nuclear-powered submarines. Prime Minister Sanae Takaichi opened the discussion in parliament. The decision is part of a 2026 security review. The debate extends beyond countering China to broader strategic autonomy. Japan’s debate over nuclear-powered submarines is gaining momentum, but political deliberation should not be mistaken for a done deal. As Tokyo prepares to revise its three principal national security documents by the end of 2026, Prime Minister Sanae Takaichi has opened the door to a long-politically sensitive capability.
+The United Nations General Assembly began its annual debate on the US economic embargo against Cuba. Member states will vote on Wednesday, 28 October, to end the sanctions. This will be the 34th consecutive annual resolution calling for the immediate termination of the trade restrictions. The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday.
 
 ---
 
@@ -162,13 +162,13 @@ Japan is debating the acquisition of nuclear-powered submarines. Prime Minister 
 
 ### [Women and girls’ share of civilian war deaths doubles since 2021](https://news.un.org/feed/view/en/story/2026/10/1168673)
 *UN News* - Oct 26, 17:30 IST (iso: 2026-10-26T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image560x340cropped.jpg -->
 
 The United Nations reported that women and girls accounted for one in four of the more than 37,000 civilians killed in armed conflict last year. This figure represents a doubling of their share compared to 2021. The data highlights a significant shift in the demographic impact of global wars. Civilian casualties have risen sharply during this period. War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.
 
 ### [Why do planes keep circling before landing? UN has a plan to fix it](https://news.un.org/feed/view/en/story/2026/10/1168666)
 *UN News* - Oct 25, 17:30 IST (iso: 2026-10-25T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/16-10-2026-Unsplash-air-traffic-02.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/16-10-2026-Unsplash-air-traffic-02.jpg/image560x340cropped.jpg -->
 
 The UN aviation agency is pushing for better air traffic coordination to reduce circling flights. Current delays cost billions and increase emissions. Some countries have already proven that improved coordination saves thousands of flying hours. The agency wants the rest of the world to adopt these proven methods. Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions – and the UN’s aviation agency wants the rest of the world to follow.
 
