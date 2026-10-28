@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 28, 2026 20:06 IST
+**Updated:** October 29, 2026 01:27 IST
 
 ---
 
 ## Middle East & Africa
+
+### [The Mecca pact goes to Tehran. Can it keep the region out of another war?](https://asiatimes.com/2026/10/the-mecca-pact-goes-to-tehran-can-it-keep-the-region-out-of-another-war/)
+*Asia Times* - Oct 28, 20:34 IST (iso: 2026-10-28T15:04:57+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/a-239.jpg -->
+
+Saudi Arabia, Pakistan, and Turkey sent senior officials to Tehran to negotiate with Iran under the Mecca Joint Defense Agreement. Prince Khalid bin Salman, Field Marshal Asim Munir, and Ibrahim Kalın met President Pezeshkian and security chief Mohsen Rezaei. The unusual diplomatic move aims to prevent regional escalation through direct dialogue. On Monday, the Mecca Joint Defense Agreement did something a defense treaty is not usually built to do.
 
 ### [Understanding how Knesset polls work vs India’s system](https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece)
 *The Hindu (International)* - Oct 28, 17:35 IST (iso: 2026-10-28T12:05:04+00:00)
@@ -17,12 +23,6 @@ Israel's October 27 election left the Knesset without a clear majority. Netanyah
 <!-- image: https://th-i.thgim.com/public/incoming/vgw5a4/article71634324.ece/alternates/LANDSCAPE_1200/2026-10-28T023249Z_2013724371_RC21COA11ZRE_RTRMADP_3_ISRAEL-ELECTION.JPG -->
 
 Israeli exit polls show former military chief Benny Gantz and his opposition bloc trailing slightly behind Benjamin Netanyahu's hard-right camp. Neither side secured a clear mandate, leaving both parties well short of the parliamentary majority threshold. The stalemate forces a complex coalition negotiation. Exit polls showed Mr. Eisenkot, a former military chief and political novice, and his opposition bloc neck and neck with Mr.
-
-### [Netanyahu bloc leads after half of Israeli votes counted but no majority](https://www.thehindu.com/news/international/israel-election-results-counting-trends-netanyahu-eisenkot-arab-parties/article71634899.ece)
-*The Hindu (International)* - Oct 28, 17:13 IST (iso: 2026-10-28T11:43:55+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/npg05o/article71634921.ece/alternates/LANDSCAPE_1200/Israel_Elections_53352.jpg -->
-
-Partial results show Netanyahu's bloc holding 55 of 120 Knesset seats. The Eisenkot-led opposition lacks a standalone majority. However, a coalition with Arab parties could give them enough seats to govern. The final count will determine who forms the next government. After 51.8% of ballots were counted, Benjamin Netanyahu's bloc was shown to have 55 of the 120 seats in the parliament; partial results suggest that Eisenkot-led Opposition bloc would have enough seats for a majority if there was a coalition agreement with the Arab parties.
 
 ### [Under Houthi fire, Saudi Arabia looks to China for missile support](https://asiatimes.com/2026/10/under-houthi-fire-saudi-arabia-looks-to-china-for-missile-support/)
 *Asia Times* - Oct 28, 12:11 IST (iso: 2026-10-28T06:41:52+00:00)
@@ -42,6 +42,34 @@ Mecca Defense Alliance partners met in Tehran to address regional conflicts. The
 
 US airstrikes in southern Somalia are pushing civilians toward the rising River Juba. Women and children face drowning risks as they flee al-Shabaab territory. Humanitarian groups accuse the military of weaponizing the flood crisis. The strategy traps vulnerable populations in dangerous waterways. Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.
 
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group experts discussed the widening rift between Washington and Kyiv regarding Ukraine. They analyzed Russia’s intensifying attacks and Europe’s efforts to support Ukraine while facing internal pressure. The conversation explored whether Trump’s administration might inadvertently aid Putin’s objectives in the ongoing conflict. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
+
+### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
+*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
+<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Algeria severed diplomatic ties with the United Arab Emirates after years of disagreement over North Africa and the Sahel. Algiers and Abu Dhabi view the dispute differently, but the rivalry now threatens regional stability. The rupture marks a significant escalation in tensions between the two North African and Gulf powers. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel.
+
+---
+
+## Global / Multilateral
+
+### [Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says](https://news.un.org/feed/view/en/story/2026/10/1168693)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026_WFP_Haiti-10.jpg/image770x420cropped.jpg -->
+
+Luke Lindberg, the new head of the UN World Food Programme, stated that ending conflict is the primary solution to global hunger. He noted that war drives two thirds of acute food insecurity affecting 266 million people worldwide. Lindberg emphasized that peace is the most effective tool for reducing starvation. Reducing conflict is the single most effective way to tackle global hunger, the new head of the UN World Food Programme (WFP), Luke Lindberg, said on Wednesday, noting that conflict drives two thirds of the acute food insecurity affecting 266 million people worldwide.
+
+### [Women and girls’ share of civilian war deaths doubles since 2021](https://news.un.org/feed/view/en/story/2026/10/1168673)
+*UN News* - Oct 26, 17:30 IST (iso: 2026-10-26T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image560x340cropped.jpg -->
+
+The United Nations reported that women and girls accounted for one in four of the more than 37,000 civilians killed in armed conflict last year. This figure represents a doubling of their share compared to 2021. The data highlights a significant shift in the demographic impact of global wars. Civilian casualties have risen sharply during this period. War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.
+
 ---
 
 ## Americas
@@ -52,39 +80,17 @@ US airstrikes in southern Somalia are pushing civilians toward the rising River 
 
 A new UN report states the ocean's carbon absorption capacity has dropped by six percent. The sea still takes in 30 percent of human emissions. It also absorbs 90 percent of excess heat. This warning arrives ahead of the November COP31 climate conference. The ocean absorbs around 30 per cent of human-caused carbon dioxide (CO₂) emissions and 90 per cent of excess heat trapped by greenhouse gases.
 
-### [Record carbon dioxide levels will impact us for centuries, says UN weather agency](https://news.un.org/feed/view/en/story/2026/10/1168677)
-*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-07-2021_Unsplash_power-plant.jpg/image770x420cropped.jpg -->
-
-The World Meteorological Organization reported that carbon dioxide and other greenhouse gases hit record highs in 2025. Burning fossil fuels drove these levels, locking in additional long-term global warming. The agency warned these atmospheric changes will affect the planet for centuries. Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.
-
 ### [General Assembly weighs US embargo against Cuba ahead of 34th vote](https://news.un.org/feed/view/en/story/2026/10/1168686)
 *UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-Unsplash-Havana-Cuba.jpg/image770x420cropped.jpg -->
 
 The United Nations General Assembly began its annual debate on the US economic embargo against Cuba. Member states will vote on Wednesday, 28 October, to end the sanctions. This will be the 34th consecutive annual resolution calling for the immediate termination of the trade restrictions. The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday.
 
----
+### [Record carbon dioxide levels will impact us for centuries, says UN weather agency](https://news.un.org/feed/view/en/story/2026/10/1168677)
+*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-07-2021_Unsplash_power-plant.jpg/image560x340cropped.jpg -->
 
-## Asia-Pacific
-
-### [Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain](https://www.thehindu.com/sci-tech/science/lulas-win-gives-brazil-an-opportunity-to-cement-its-climate-leadership-but-challenges-remain/article71631670.ece)
-*The Hindu (International)* - Oct 28, 15:11 IST (iso: 2026-10-28T09:41:19+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/hlot6i/article71632014.ece/alternates/LANDSCAPE_1200/2026-10-09T161516Z_15004819_RC2OZNAN4ONM_RTRMADP_3_BRAZIL-ELECTION.JPG -->
-
-Lula's fourth term offers Brazil a chance to strengthen its climate leadership. The country hosts most of the Amazon and is Latin America's largest economy. He can negotiate across divides that currently stall agreements. His ties with the EU, US, and China provide diplomatic leverage. In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon, and its diplomatic relationships with the EU, the U. S., China, the BRICS countries and other devel.
-
-### [Hegseth proposes 'ambitious' U.S.-ASEAN defence framework at Philippine summit](https://www.thehindu.com/news/international/hegseth-proposes-ambitious-us-asean-defence-framework-at-philippine-summit/article71634830.ece)
-*The Hindu (International)* - Oct 28, 13:48 IST (iso: 2026-10-28T08:18:53+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/io9w3y/article71634859.ece/alternates/LANDSCAPE_1200/Philippines_ASEAN_Defense_15713.jpg -->
-
-Pete Hegseth proposed a new US-ASEAN defence framework at a Philippine summit. The plan aims to boost regional security partnerships. The US cites the need to uphold a free and open Indo-Pacific. This move responds to China's increasing military activity in the region. The United States has been seeking to boost its regional defence partnerships in recent years, citing the need to uphold what it terms a "free and open Indo-Pacific" as China has increasingly flexed its muscles in the region.
-
-### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
-*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
-
-Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
+The World Meteorological Organization reported that carbon dioxide and other greenhouse gases hit record highs in 2025. Burning fossil fuels drove these levels, locking in additional long-term global warming. The agency warned these atmospheric changes will affect the planet for centuries. Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.
 
 ---
 
@@ -144,33 +150,27 @@ Russian air strikes hit Kyiv on October 26, targeting a university dormitory and
 
 Aleksandar Vucic lost the Serbian parliamentary elections to student-led opposition. The ruling party was ousted from power. The new government must now navigate complex relations with the European Union, Russia, and China. Who will lead the next government of Serbia, after Aleksandar Vucic lost parliamentary elections, can the protest movement turn electoral success into stable rule, and what the result could mean for Serbia’s balancing relations with the European Union, Russia, and China?
 
-### [Investigators find Russia committed war crimes by targeting civilians](https://news.un.org/feed/view/en/story/2026/10/1168670)
-*UN News* - Oct 26, 17:30 IST (iso: 2026-10-26T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-10-2025_OCHA_Ukraine.jpg/image560x340cropped.jpg -->
-
-A panel of human rights experts concluded that Russian forces committed war crimes and crimes against humanity during the Ukraine invasion. The findings cite deliberate attacks on civilians and vital energy infrastructure. These actions violate international law. The report details specific violations of protected targets. Top human rights experts investigating Russia’s full-scale invasion of Ukraine said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international law.
-
 ### [Student-Led Opposition Celebrates In Serbia After Vucic Concedes Election Defeat](https://www.rferl.org/a/serbia-parliamentary-election-students-list-vucic/33884047.html)
 *Radio Free Europe / Liberty* - Oct 26, 05:20 IST (iso: 2026-10-25T23:50:51+00:00)
 <!-- image: https://gdb.rferl.org/058d3ff5-0438-4e6d-e9a3-08df13afe2a0_w1200_h630.jpg -->
 
 Aleksandar Vucic conceded defeat in Serbia's October 25 parliamentary elections. The student-led Students' List took a decisive lead in preliminary results. This ends his fourteen-year dominance of Serbian politics. Former President Aleksandar Vucic, who dominated Serbian politics for the past 14 years, conceded defeat in the country's parliamentary elections after polls closed on October 25. Preliminary results showed the movement called Students' List taking a decisive lead.
 
-### [Vucic Concedes Electoral Defeat, Setting Stage For New Era Of Serbian Politics, Relations With West](https://www.rferl.org/a/vucic-concession-serbia-parliament-elections-students/33884044.html)
-*Radio Free Europe / Liberty* - Oct 26, 04:45 IST (iso: 2026-10-25T23:15:42+00:00)
-<!-- image: https://gdb.rferl.org/f2f54aba-77f1-47b0-6a6f-08df13a87200_w1200_h630.jpeg -->
-
-Vucic admitted defeat to the student-led protest movement in Serbia's parliamentary vote. His concession signals a potential shift toward European alignment. The new government may distance Serbia from Kremlin influence. Aleksandar Vucic, Serbia's former president and dominant political figure for more than a decade, conceded defeat to the student-led protest movement in the country's parliamentary elections, potentially ushering in a new era of politics more closely aligned with Europe and away from the Kremlin.
-
 ---
 
-## Global / Multilateral
+## Asia-Pacific
 
-### [Women and girls’ share of civilian war deaths doubles since 2021](https://news.un.org/feed/view/en/story/2026/10/1168673)
-*UN News* - Oct 26, 17:30 IST (iso: 2026-10-26T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-07-2024-UNRWA-Gaza-05.jpg/image560x340cropped.jpg -->
+### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
+*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
 
-The United Nations reported that women and girls accounted for one in four of the more than 37,000 civilians killed in armed conflict last year. This figure represents a doubling of their share compared to 2021. The data highlights a significant shift in the demographic impact of global wars. Civilian casualties have risen sharply during this period. War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – according to major UN report released Monday.
+Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
+
+### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
+*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
+<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
+
+Young Chinese adults are increasingly adopting brick collecting as a low-cost hobby. Facing a stagnant job market, many are choosing this over raising children or pets. The trend offers a cheap, low-maintenance alternative to traditional responsibilities in a difficult economic environment. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
 
 ---
 
