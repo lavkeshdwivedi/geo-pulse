@@ -1,93 +1,81 @@
 {
-  "generated_at": "2026-10-29T10:30:26.687326+00:00",
+  "generated_at": "2026-10-29T17:09:06.957041+00:00",
   "article_count": 50,
-  "total_unique_count": 263,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Spain’s high-speed rail crash forces a hard look at its safety record. Meanwhile, a U.S. judge blocks Trump administration interference in California midterms. The Oleshky truce holds for a third day, but deportation fears linger.",
-    "hi": "Strait of Hormuz dominates as three ships hit mines and the IRGC snags a US drone. Israel’s parliament hangs in the balance with Netanyahu’s party alleging fraud. Iran’s food prices jump 122% while Yemen displaces 281,000 more."
+    "en": "Russian drones killed fourteen people in Dnipro while the Oleshky truce entered its third day. Simultaneously, a massive data breach forced Moldova’s president to convene an emergency security meeting. The US Senate race is tightening, with Democrats closing in on Republican bastions.",
+    "hi": "ईरान में महंगाई 107% पार कर गई, टेह्रान में एक प्लेट भोजन का खर्च अब लगभग 1,200,000 रियाल है। इसी बीच, अमेरिकी मध्यस्थता प्रयासों को रूस ने स्वीकार किया, जबकि इज़राइल‑फ़िलिस्तीन तनाव में नई कूटनीतिक चालें उभर रही हैं।"
   },
   "articles": [
     {
-      "title": "Spain train crash puts its high-speed rail safety record under scrutiny",
-      "url": "https://www.thehindu.com/news/international/spain-train-crash-high-speed-rail-safety-record-under-scrutiny-explained/article71639891.ece",
+      "title": "Republicans defend their bastions, as senate comes within reach of Democrats",
+      "url": "https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-10-29T10:18:59+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/ok9row/article71640041.ece/alternates/LANDSCAPE_1200/2026-10-29T100704Z_1415013425_RC2WCOAMARGD_RTRMADP_3_SPAIN-ACCIDENT.JPG",
-      "summary": "A Spanish high-speed train crash killed 68 people, ending a 34-year safety record. Authorities cite system failures and human error. The incident marks the first fatal accident on the dedicated network since 1992. Authorities have so far blamed both system issues and human error for the accident which claimed 68 lives; Until this year, Spain had not witnessed such fatal incidents on its dedicated high-speed lines since the network opened in 1992.",
+      "published_at": "2026-10-29T16:28:29+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/wn4hxf/article71642039.ece/alternates/LANDSCAPE_1200/2026-10-29T041300Z_856886983_RC2OCOAN1C2Q_RTRMADP_3_USA-ELECTION-TEXAS.JPG",
+      "summary": "Republicans hold a 53 to 47 Senate majority with 35 seats up for grabs. Seven are toss-ups in Iowa, Arkansas, Kansas, Maine, Michigan, Ohio, and Texas. All but Michigan are currently held by Republicans. Democrats are closing in on a potential majority shift. The GOP has a 53–47 majority in the Senate currently, with 35 seats being contested this year.",
+      "region": "World",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Moldovan President Calls Security Meeting After Massive Data Breach",
+      "url": "https://www.rferl.org/a/moldova-cyberattack-data-breach-750000-sandu/33886733.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-10-29T15:55:21+00:00",
+      "image_url": "https://gdb.rferl.org/f632ed6a-4ca4-482f-462b-08df13aec0bb_cx0_cy0_cw99_w1200_h630.jpeg",
+      "summary": "Moldovan President Maia Sandu convened a national security meeting after a cyberattack exposed data for 750,000 people. Authorities are investigating possible foreign involvement. The attack may have utilized artificial intelligence tools to scale the breach across government systems. Moldovan President Maia Sandu has called a national security meeting after a major cyberattack exposed personal data linked to some 750,000 people.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Coordinated disinformation campaigns target Singapore over Indonesia markets and made-up meeting",
-      "url": "https://www.channelnewsasia.com/singapore/indonesia-disinformation-msci-dino-patti-djalal-6502461",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-10-29T09:00:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--NpyYDS0d--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/indonesia_singapore_disinfo.png?itok=BDlejdvy",
-      "summary": "Coordinated disinformation campaigns targeted Singapore with nearly 400 false posts. The content falsely linked Singapore to Indonesia’s stock market crash and a nonexistent meeting. The coordinated accounts generated nearly 12 million views across social platforms. Across multiple social media platforms, CNA Verify found close to 400 posts pushing falsehoods tying Singapore to Indonesia’s stock market rout and to a secret meeting that never took place.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
-      "url": "https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece",
+      "title": "Palestinian President says hopes for peace talks with new Israeli government",
+      "url": "https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-10-29T07:52:30+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/dge6a9/article71637682.ece/alternates/LANDSCAPE_1200/20261022372L.jpg",
-      "summary": "Poland is pushing to lift bilateral trade with India from six to ten billion dollars. Warsaw seeks to diversify its economic ties as trade imbalances and Beijing's support for Russia strain its relationship with China. Poland and India seek to raise bilateral trade from $6 bn to $10 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as trade imbalance and Beijing’s support for Russia deepen disillusionment with China.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Understanding how Knesset polls work vs India’s system",
-      "url": "https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-10-29T07:47:08+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/8n5v84/article71634105.ece/alternates/LANDSCAPE_1200/Israel_Elections_69116.jpg",
-      "summary": "Israel’s October 27 election left no bloc with a 61-seat majority. Prime Minister Netanyahu and former military chief Gadi Eisenkot now compete to form a government. The 120-seat Knesset remains deadlocked in a neck-and-neck political struggle. Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset.",
+      "published_at": "2026-10-29T14:39:02+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/yaqlm/article71641201.ece/alternates/LANDSCAPE_1200/Cyprus_Palestinians_99691.jpg",
+      "summary": "Palestinian President Mahmoud Abbas expressed hope for peace talks with Israel's new government. Neither Netanyahu nor opposition leader Gadi Eisenkot secured a parliamentary majority. The election result leaves the political landscape fragmented and uncertain for future negotiations. With almost all ballots counted from Israel's pivotal election, neither the bloc of Prime Minister Benjamin Netanyahu nor the opposition bloc led by former military chief Gadi Eisenkot looked able to secure a majority in parliament.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners",
-      "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece",
+      "title": "India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath",
+      "url": "https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-10-29T07:25:21+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/gm5j7x/article71639374.ece/alternates/LANDSCAPE_1200/20261029009L.jpg",
-      "summary": "India’s Defence Minister pledged to share anti-terror expertise with ASEAN partners. He highlighted disruptions in maritime trade routes. India will continue acting as a trusted net security provider in the Indian Ocean and Indo-Pacific regions. The Defence Minister flagged concerns over disruptions in certain maritime trade routes and asserted that India will continue to act as a \"trusted net security provider\" in the Indian Ocean region and the wider Indo-Pacific.",
+      "published_at": "2026-10-29T13:57:50+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/s85xgn/article71640908.ece/alternates/LANDSCAPE_1200/PTI10_29_2026_000042B.jpg",
+      "summary": "Defence Minister Rajnath Singh announced India will share counter-terrorism expertise with ASEAN partners. Speaking in Cebu, he proposed joint exercises and intelligence sharing. He also suggested a dedicated defence Youth Bridge to strengthen regional security ties. Defence Minister Rajnath Singh told the 13th ADMM-Plus in Cebu that India would share its operational experience through joint exercises, capacity-building programmes and intelligence sharing, and proposed a dedicated defence ‘Youth Bridge’ with ASEAN countries.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "U.S. judge rejects Trump administration’s interference in California midterm vote",
-      "url": "https://www.thehindu.com/news/international/us-judge-rejects-donald-trumps-bid-to-purge-20000-california-ballots-safeguarding-voters-rights-ahead-of-the-midterms/article71639192.ece",
-      "source": "The Hindu (International)",
+      "title": "Esports is now geopolitics by other means",
+      "url": "https://asiatimes.com/2026/10/esports-is-now-geopolitics-by-other-means/",
+      "source": "Asia Times",
       "sources": [],
-      "published_at": "2026-10-29T07:21:50+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/qo4e2v/article71639266.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000007B.jpg",
-      "summary": "A U. S. judge blocked the Trump administration’s interference in California midterms. Judge David O. Carter ruled registered voters cannot lose core rights due to procedural errors. The decision protects the integrity of the state’s voter rolls. Those registered on California’s voter roles “must not be deprived of a core right merely because of unfounded allegations stemming from a procedure rife with uncertainty and errors,” U. S.",
-      "region": "Americas",
+      "published_at": "2026-10-29T13:35:13+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Egaming-Russia.jpg",
+      "summary": "The competitive gaming industry has expanded into a global phenomenon. Over three million fans attended the 2025 Esports World Cup in Saudi Arabia. The event highlights how digital entertainment now intersects with international geopolitical influence and soft power. The competitive gaming industry has grown rapidly over the past two decades, transforming from a niche subculture into a global phenomenon watched by millions of spectators worldwide.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Flavio Bolsonaro claims he is Brazil’s true leader after fleeing to U.S.",
-      "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us/article71639212.ece",
-      "source": "The Hindu (International)",
+      "title": "Can new technology keep the world’s sea lanes safe?",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-10-29T06:30:36+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/x1osnc/article71639279.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000004A.jpg",
-      "summary": "Flavio Bolsonaro declared himself Brazil's true leader after fleeing to the United States. He accused election officials of establishing a tyranny. Donald Trump stated he would not get involved in the dispute. “I am the elected president, and the criminals who stole Brazil’s election are part of a criminal organization that has established a tyranny,” Flavio Bolsonaro said; U. S. President Donald Trump said he “won’t get involved” in Mr.",
-      "region": "Americas",
+      "published_at": "2026-10-29T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/29-10-2026_Adobe-_Shipping-lane.jpg/image770x420cropped.jpg",
+      "summary": "The UN Security Council debated how cheap drones, autonomous vessels, and cyberattacks threaten global shipping. Delegates examined how these emerging technologies endanger seafarers and supply chains. They also discussed tools to protect trade and energy flows. Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -104,12 +92,12 @@
       "translations": {}
     },
     {
-      "title": "Oleshky Truce Enters Third Day As Humanitarian Hopes Collide With Russia Deportation Fears",
+      "title": "Russian Drone Attack Kills 14 In Dnipro As Oleshky Truce Enters Third Day",
       "url": "https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-10-29T01:17:39+00:00",
-      "image_url": "https://gdb.rferl.org/f7ac9120-8c27-4643-e929-08df13afe2a0_w1200_h630.jpg",
+      "image_url": "https://gdb.rferl.org/a917df8b-53bd-4c16-48b6-08df13a884cb_cx1_cy9_cw98_w1200_h630.jpg",
       "summary": "The fragile cease-fire around Russian-occupied Oleshky reached its third day on October 29. Civilians face severe shortages and dangerous escape routes. Fears persist that Russia may use the pause to forcibly transfer residents to occupied Crimea. A fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29, offering hope to thousands of civilians facing severe shortages and perilous escape routes, amid fears that Russia could use the pause to forcibly transfer residents to Russia or occupied Crimea.",
       "region": "Europe & Russia",
       "language": "en",
@@ -152,6 +140,18 @@
       "translations": {}
     },
     {
+      "title": "UN human rights chief urges better protection of civilians in conflicts",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168695",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-28T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image770x420cropped.jpg",
+      "summary": "Volker Türk highlighted youth-led protests in Serbia, Bangladesh, Nepal, and Madagascar. He noted these movements demand stronger human rights protections. The UN chief urged better civilian safeguards during conflicts. Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168693",
       "source": "UN News",
@@ -169,7 +169,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-28T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-04-2026-UNDP-Tuvalu-05.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-04-2026-UNDP-Tuvalu-05.jpg/image560x340cropped.jpg",
       "summary": "A new UN report states the ocean's carbon absorption capacity has dropped by six percent. The sea still takes in 30 percent of human emissions. It also absorbs 90 percent of excess heat. This warning arrives ahead of the November COP31 climate conference. The ocean absorbs around 30 per cent of human-caused carbon dioxide (CO₂) emissions and 90 per cent of excess heat trapped by greenhouse gases.",
       "region": "Americas",
       "language": "en",
@@ -184,18 +184,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/Saudi-Missiles.jpg",
       "summary": "Saudi Arabia is expanding a ballistic missile factory near al-Duwadimi to produce longer-range weapons. The facility sits 200 kilometers west of Riyadh. The move aims to bolster strategic deterrence against Houthi attacks. Media reports confirm the shift toward heavier payload capabilities. Saudi Arabia’s rapid expansion of a ballistic missile factory signals a transformative shift in its pursuit of strategic deterrence.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "South Korea’s rich lobbying spree isn’t paying off in DC",
-      "url": "https://asiatimes.com/2026/10/south-koreas-rich-lobbying-spree-isnt-paying-off-in-dc/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-10-28T02:31:00+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/10/US-South-Korea-Flags.jpg",
-      "summary": "A House Judiciary Committee report accuses South Korea of targeting American firms with coercive investigations and excessive fines. The findings suggest Seoul's lobbying efforts in Washington have failed to resolve these trade disputes. The report highlights ongoing friction between the two economies. Republicans on the House Judiciary Committee released in July an interim staff report accusing South Korea of “discriminatory attacks on American-owned businesses.” Seoul’s “practices include coercive investigation tactics, overly burdensome regulatory requirements, and massive fines and penalties intended to punish American businesses and make it harder for them to effectively compete against Kor.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -284,18 +272,6 @@
       "translations": {}
     },
     {
-      "title": "What Now For Serbia After Vucic's Stunning Election Defeat?",
-      "url": "https://www.rferl.org/a/who-is-new-government-serbia-students/33884595.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-10-26T15:32:21+00:00",
-      "image_url": "https://gdb.rferl.org/1842e1fb-7710-48e3-47e9-08df13a884cb_w1200_h630.jpeg",
-      "summary": "Aleksandar Vucic lost the Serbian parliamentary elections to student-led opposition. The ruling party was ousted from power. The new government must now navigate complex relations with the European Union, Russia, and China. Who will lead the next government of Serbia, after Aleksandar Vucic lost parliamentary elections, can the protest movement turn electoral success into stable rule, and what the result could mean for Serbia’s balancing relations with the European Union, Russia, and China?",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of",
       "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
       "source": "The Guardian",
@@ -306,6 +282,408 @@
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "Will Trump Help Putin Win in Ukraine?",
+      "url": "https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-10-23T18:13:00+00:00",
+      "image_url": "https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Crisis Group experts discussed the widening rift between Washington and Kyiv. They analyzed Russia’s intensifying attacks on Ukraine. European capitals are working to strengthen support while facing their own pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How Algeria’s Rupture with the UAE Could Roil the Region",
+      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "2026-10-23T10:58:00+00:00",
+      "image_url": "https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Algeria severed diplomatic ties with the United Arab Emirates. The split follows years of disagreement over North African and Sahel crises. The rivalry now poses a risk to regional stability. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel. The two countries see their dispute very differently, but it has nonetheless become a rivalry that could put regional stability at risk.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "ईरान को खाए जा रही ‘महंगाई डायन’, इनफ्लेशन 107% पार, खाने की एक प्लेट का खर्च सुनकर खत्म हो जाएगी",
+      "url": "https://hindi.news18.com/world/middle-east-iran-inflation-hits-88-and-107-percent-in-rural-areas-soaring-food-costs-and-job-crisis-spark-unrest-10947922.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-29T16:23:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Iran-Inflation-2026-10-c0b9d51a37ca8f2042cc45c05ffd632b-1200x800.jpg",
+      "summary": "ईरान में महंगाई दर 88.7% और ग्रामीण क्षेत्रों में 107% तक पहुंच गई है। तेल, दूध और ब्रेड जैसे मूलभूत खाद्य पदार्थों की कीमतों में भारी वृद्धि हुई है। लाखों नौकरियों पर खतरा मंडरा रहा है और ठंड में गैस की कमी का अंदाजा है। ईरान में महंगाई ने लोगों का जीना मुश्किल कर दिया है. देश में महंगाई दर 88.7% और गांवों में तो 107% तक पहुंच गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान को खाए जा रही ‘महंगाई डायन’, इनफ्लेशन 107% पार, खाने की एक प्लेट का खर्च सुनकर खत्म हो जाएगी",
+          "summary": "ईरान में महंगाई दर 88.7% और ग्रामीण क्षेत्रों में 107% तक पहुंच गई है। तेल, दूध और ब्रेड जैसे मूलभूत खाद्य पदार्थों की कीमतों में भारी वृद्धि हुई है। लाखों नौकरियों पर खतरा मंडरा रहा है और ठंड में गैस की कमी का अंदाजा है। ईरान में महंगाई ने लोगों का जीना मुश्किल कर दिया है. देश में महंगाई दर 88.7% और गांवों में तो 107% तक पहुंच गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘होर्मुज स्ट्रेट को फिर से खोलने में मदद के लिए हम कर रहे हैं पूरी कोशिश’, डोनाल्ड ट्रंप से बातचीत",
+      "url": "https://www.patrika.com/world-news/british-pm-andy-burnham-says-uk-doing-everything-it-can-to-support-full-reopening-of-strait-of-hormuz-21017185",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T15:49:07+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/burnham.webp",
+      "summary": "ईरान और संयुक्त राज्य अमेरिका के बीच तनाव जारी है। ईरान ने होर्मुज जलडमरूमध्य को बंद कर रखा है। इस रणनीतिक जलमार्ग के बंद होने का असर वैश्विक व्यापार पर पड़ रहा है। ब्रिटिश प्रधानमंत्री एंडी बर्नहैम ने इस मामले में बयान दिया है। ऐसे में ईरान ने होर्मुज स्ट्रेट (Strait of Hormuz) को बंद कर रखा है। होर्मुज स्ट्रेट एक अहम और रणनीतिक जलमार्ग है और इसके बंद होने का असर दुनियाभर पर पड़ रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘होर्मुज स्ट्रेट को फिर से खोलने में मदद के लिए हम कर रहे हैं पूरी कोशिश’, डोनाल्ड ट्रंप से बातचीत",
+          "summary": "ईरान और संयुक्त राज्य अमेरिका के बीच तनाव जारी है। ईरान ने होर्मुज जलडमरूमध्य को बंद कर रखा है। इस रणनीतिक जलमार्ग के बंद होने का असर वैश्विक व्यापार पर पड़ रहा है। ब्रिटिश प्रधानमंत्री एंडी बर्नहैम ने इस मामले में बयान दिया है। ऐसे में ईरान ने होर्मुज स्ट्रेट (Strait of Hormuz) को बंद कर रखा है। होर्मुज स्ट्रेट एक अहम और रणनीतिक जलमार्ग है और इसके बंद होने का असर दुनियाभर पर पड़ रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘तो इजरायल का मालिक कतर है’? चुनावों में घुसपैठ के आरोप पर खाड़ी देश ने तोड़ी चुप्पी, नेतन्याहू से",
+      "url": "https://hindi.news18.com/world/middle-east-qatar-denies-interference-in-israel-elections-after-netanyahu-allies-alleged-funding-dispute-10947915.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-29T15:10:23+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/netanyahu-news-2026-10-5ddf71e21ff040599b5604f90e034977-1200x800.jpg",
+      "summary": "इजरायल के नेताओं ने कतर पर अरब मतदाओं को प्रभावित करने का आरोप लगाया है। कतर ने इस आरोप को खारिज करते हुए कहा कि इजरायली नेता अपनी नाकामी छिपाने के लिए उसे बलि का बकरा बना रहे हैं। कतर ने यह भी कहा कि यह आरोप झूठे हैं। इजरायल में हुए बेनतीजा चुनावों के बाद वहां के नेताओं ने कतर पर गंभीर आरोप लगाए हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘तो इजरायल का मालिक कतर है’? चुनावों में घुसपैठ के आरोप पर खाड़ी देश ने तोड़ी चुप्पी, नेतन्याहू से",
+          "summary": "इजरायल के नेताओं ने कतर पर अरब मतदाओं को प्रभावित करने का आरोप लगाया है। कतर ने इस आरोप को खारिज करते हुए कहा कि इजरायली नेता अपनी नाकामी छिपाने के लिए उसे बलि का बकरा बना रहे हैं। कतर ने यह भी कहा कि यह आरोप झूठे हैं। इजरायल में हुए बेनतीजा चुनावों के बाद वहां के नेताओं ने कतर पर गंभीर आरोप लगाए हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "इजराइल में चुनावी धांधली पर बवाल: जॉइंट लिस्ट बोली, “अरब पार्टियों के खिलाफ आरोप नस्लवादी साजिश”",
+      "url": "https://www.patrika.com/world-news/joint-list-netanyahu-lies-election-fraud-claims-racist-israel-knesset-elections-21017208",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T14:51:12+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Israel-Politics-1.webp",
+      "summary": "इजरायल के अरब राजनीतिक गठबंधन जॉइंट लिस्ट ने नेतन्याहू पर चुनाव की वैधता को कमजोर करने का आरोप लगाया है। गठबंधन ने विपक्षी नेताओं से चुनावी धांधली के आरोपों का समर्थन बंद करने की अपील की है। जॉइंट लिस्ट ने इन आरोपों को नस्लवादी साजिश करार दिया है। Israel Election Results: इजराइल के अरब राजनीतिक गठबंधन, ‘जॉइंट लिस्ट’ ने प्रधानमंत्री बेंजामिन नेतन्याहू और दक्षिणपंथी तत्वों पर मंगलवार को हुए ‘नेसेट’ (इजरायली संसद) चुनावों की वैधता को कमजोर करने के लिए एक सुनियोजित अभियान चलाने का आरोप लगाया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजराइल में चुनावी धांधली पर बवाल: जॉइंट लिस्ट बोली, “अरब पार्टियों के खिलाफ आरोप नस्लवादी साजिश”",
+          "summary": "इजरायल के अरब राजनीतिक गठबंधन जॉइंट लिस्ट ने नेतन्याहू पर चुनाव की वैधता को कमजोर करने का आरोप लगाया है। गठबंधन ने विपक्षी नेताओं से चुनावी धांधली के आरोपों का समर्थन बंद करने की अपील की है। जॉइंट लिस्ट ने इन आरोपों को नस्लवादी साजिश करार दिया है। Israel Election Results: इजराइल के अरब राजनीतिक गठबंधन, ‘जॉइंट लिस्ट’ ने प्रधानमंत्री बेंजामिन नेतन्याहू और दक्षिणपंथी तत्वों पर मंगलवार को हुए ‘नेसेट’ (इजरायली संसद) चुनावों की वैधता को कमजोर करने के लिए एक सुनियोजित अभियान चलाने का आरोप लगाया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "इमरान खान के बेटे का सबसे खौफनाक दावा, पाकिस्तान की जेल से क्या लीक हुआ?",
+      "url": "https://hindi.news18.com/world/pakistan-imran-khan-life-in-danger-son-sulaiman-khan-issues-urgent-warning-over-adiala-jail-treatment-and-asim-munir-10947808.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-29T14:47:18+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Imran-Khan-Son-2026-10-c4ace550f9562ba5ce8e3d717fd7066d-1200x800.jpg",
+      "summary": "इमरान खान के बेटे सुलेमान खान ने दावा किया कि उनके पिता के साथ वही किया जा रहा है जो मिस्र के पूर्व राष्ट्रपति के साथ हुआ था। सुलेमान ने इसकी जिम्मेदारी असीम मुनीर पर लगाई है। इमरान खान रावलपिंडी की अदियाला जेल में बंद हैं। रावलपिंडी की अदियाला जेल में बंद पाकिस्तान के पूर्व पीएम इमरान खान की सेहत को लेकर उनके बेटे सुलेमान खान ने डरावना दावा किया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इमरान खान के बेटे का सबसे खौफनाक दावा, पाकिस्तान की जेल से क्या लीक हुआ?",
+          "summary": "इमरान खान के बेटे सुलेमान खान ने दावा किया कि उनके पिता के साथ वही किया जा रहा है जो मिस्र के पूर्व राष्ट्रपति के साथ हुआ था। सुलेमान ने इसकी जिम्मेदारी असीम मुनीर पर लगाई है। इमरान खान रावलपिंडी की अदियाला जेल में बंद हैं। रावलपिंडी की अदियाला जेल में बंद पाकिस्तान के पूर्व पीएम इमरान खान की सेहत को लेकर उनके बेटे सुलेमान खान ने डरावना दावा किया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान पर नए हमले के लिए ट्रंप सबसे ज्यादा बेताब, शांति वार्ता फेल हुई तो 3 नवंबर के बाद बढ़ेगा खतरा",
+      "url": "https://www.patrika.com/world-news/donald-trump-new-attack-on-iran-if-peace-talks-fail-21017096",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T13:58:11+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Iran-US-Tensions.webp",
+      "summary": "ट्रंप प्रशासन के अधिकारी ने सемаफोर को बताया कि ईरान से बातचीत फेल होने पर अमेरिका नवंबर के बाद नए हमले शुरू कर सकता है। यह कदम मिडटर्म चुनावों के बाद उठाया जा सकता है। US Iran War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ईरान के साथ समझौता करना चाहते हैं, लेकिन बातचीत नाकाम रही तो वे जल्द ही एक बार फिर सैन्य कार्रवाई का आदेश दे सकते हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान पर नए हमले के लिए ट्रंप सबसे ज्यादा बेताब, शांति वार्ता फेल हुई तो 3 नवंबर के बाद बढ़ेगा खतरा",
+          "summary": "ट्रंप प्रशासन के अधिकारी ने सемаफोर को बताया कि ईरान से बातचीत फेल होने पर अमेरिका नवंबर के बाद नए हमले शुरू कर सकता है। यह कदम मिडटर्म चुनावों के बाद उठाया जा सकता है। US Iran War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ईरान के साथ समझौता करना चाहते हैं, लेकिन बातचीत नाकाम रही तो वे जल्द ही एक बार फिर सैन्य कार्रवाई का आदेश दे सकते हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "“इजराइली नेता अपनी नाकामी छिपाने के लिए हमें बना रहे बलि का बकरा”",
+      "url": "https://www.patrika.com/world-news/qatar-denies-israel-election-interference-scapegoat-allegations-21017116",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T13:57:08+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Israel-Qatar-tensions.webp",
+      "summary": "कतर ने इजराइल के चुनावों में हस्तक्षेप के दावों को खारिज किया है। दौहा का कहना है कि इजराइली नेता अपनी घरेलू विफलताओं को छिपाने के लिए कतर को बलि का बकरा बना रहे हैं। Middle East Politics: इजराइल में हुए चुनावों में विदेशी दखल के आरोपों के बाद चल रही जांच के बीच, कतर ने इजराइल के चुनावों में हस्तक्षेप करने के दावों का कड़ा खंडन किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "“इजराइली नेता अपनी नाकामी छिपाने के लिए हमें बना रहे बलि का बकरा”",
+          "summary": "कतर ने इजराइल के चुनावों में हस्तक्षेप के दावों को खारिज किया है। दौहा का कहना है कि इजराइली नेता अपनी घरेलू विफलताओं को छिपाने के लिए कतर को बलि का बकरा बना रहे हैं। Middle East Politics: इजराइल में हुए चुनावों में विदेशी दखल के आरोपों के बाद चल रही जांच के बीच, कतर ने इजराइल के चुनावों में हस्तक्षेप करने के दावों का कड़ा खंडन किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ईरान और अमेरिका के बीच मध्यस्थता कराने के लिए रूस तैयार",
+      "url": "https://www.patrika.com/world-news/russia-ready-to-mediate-between-iran-and-us-if-requested-21017108",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T13:55:54+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/mojtaba-putin-trump.webp",
+      "summary": "रूस ईरान और अमेरिका के बीच मध्यस्थता के लिए तैयार है। दोनों देशों के बीच युद्ध का स्थायी समाधान अभी तक नहीं हुआ है। ट्रंप मिडटर्म चुनावों के बाद नए हमले शुरू कर सकते हैं। ईरान (Iran) और अमेरिका (United States of America) के बीच फिलहाल भले ही हमले रुके हुए हैं, लेकिन युद्ध का स्थायी अंत नहीं हुआ है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान और अमेरिका के बीच मध्यस्थता कराने के लिए रूस तैयार",
+          "summary": "रूस ईरान और अमेरिका के बीच मध्यस्थता के लिए तैयार है। दोनों देशों के बीच युद्ध का स्थायी समाधान अभी तक नहीं हुआ है। ट्रंप मिडटर्म चुनावों के बाद नए हमले शुरू कर सकते हैं। ईरान (Iran) और अमेरिका (United States of America) के बीच फिलहाल भले ही हमले रुके हुए हैं, लेकिन युद्ध का स्थायी अंत नहीं हुआ है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "संसद में नेताओं ने चलाए लात-घूंसे...खून तक निकाल लिया, फिर स्पीकर ने दी ऐसी सजा, छुपाना पड़ा मुंह",
+      "url": "https://hindi.news18.com/world/rest-of-world-armenia-parliament-brawl-lawmakers-trade-punches-and-kicks-during-live-broadcast-over-controversial-election-promise-10947716.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-29T13:35:32+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Armenia-Parliament-Brawl-2026-10-72d3529f57c24af9a0c40528fa19ee12-1200x800.jpg",
+      "summary": "आर्मेनिया की संसद में सत्ता और विपक्ष के सांसदों के बीच भिड़ंत हुई। बहस के दौरान लात-घूंसे चले और कई सांसदों के कपड़े फट गए। डिप्टी स्पीकर ने इस मारपीट का लाइव टेलीकास्ट बंद नहीं किया। आर्मेनिया की संसद में गजब ड्रामा हुआ है. बहस के दौरान सत्ता और विपक्ष के सांसद आपस में भिड़ गए और जमकर लात-घूंसे चले.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "संसद में नेताओं ने चलाए लात-घूंसे...खून तक निकाल लिया, फिर स्पीकर ने दी ऐसी सजा, छुपाना पड़ा मुंह",
+          "summary": "आर्मेनिया की संसद में सत्ता और विपक्ष के सांसदों के बीच भिड़ंत हुई। बहस के दौरान लात-घूंसे चले और कई सांसदों के कपड़े फट गए। डिप्टी स्पीकर ने इस मारपीट का लाइव टेलीकास्ट बंद नहीं किया। आर्मेनिया की संसद में गजब ड्रामा हुआ है. बहस के दौरान सत्ता और विपक्ष के सांसद आपस में भिड़ गए और जमकर लात-घूंसे चले.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी सैन्य ठिकानों पर साइबर हमले का शक, फ्रीजर का तापमान बढ़ाकर खराब किया गया खाना",
+      "url": "https://www.patrika.com/world-news/us-military-bases-cyberattack-freezer-food-spoiled-21017101",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T13:29:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/usarmynewas.webp",
+      "summary": "अमेरिका के कई सैन्य ठिकानों पर फ्रीजर का तापमान अचानक बढ़ गया। पेंटागन का मानना है कि इसकी वजह साइबर हमला हो सकता है। इससे बड़ी मात्रा में खाद्य पदार्थ खराब हो गए। अमेरिका के कई सैन्य ठिकानों पर अगस्त में खाने-पीने का सामान रखने वाले फ्रीजर में अचानक खराबी आ गई। इस मामले में पेंटागन को शक है कि इस घटना के पीछे साइबर हमला हो सकता है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी सैन्य ठिकानों पर साइबर हमले का शक, फ्रीजर का तापमान बढ़ाकर खराब किया गया खाना",
+          "summary": "अमेरिका के कई सैन्य ठिकानों पर फ्रीजर का तापमान अचानक बढ़ गया। पेंटागन का मानना है कि इसकी वजह साइबर हमला हो सकता है। इससे बड़ी मात्रा में खाद्य पदार्थ खराब हो गए। अमेरिका के कई सैन्य ठिकानों पर अगस्त में खाने-पीने का सामान रखने वाले फ्रीजर में अचानक खराबी आ गई। इस मामले में पेंटागन को शक है कि इस घटना के पीछे साइबर हमला हो सकता है।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "IRGC ने CENTCOM से मांगा सबूत – ‘साबित करो कि होर्मुज स्ट्रेट से समुद्री बारूदी सुरंगें पूरी तरह से",
+      "url": "https://www.patrika.com/world-news/irgc-asks-for-proof-from-centcom-that-naval-mines-totally-cleared-in-strait-of-hormuz-21016873",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T13:17:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/mohebi.webp",
+      "summary": "ईरानी नौसेना ने अमेरिकी सेना से होर्मुज जलमार्ग में समुद्री मीनों के निष्पादन के लिए सबूत मांगे। ट्रंप ने पहले ही इस जलमार्ग पर अमेरिकी नियंत्रण का दावा किया था। दोनों देशों के बीच इस रणनीतिक रास्ते पर तनाव बढ़ रहा है। इस रणनीतिक जलमार्ग पर जहाँ लंबे समय से ईरान का कंट्रोल रहा है, तो वहीँ अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) भी कई मौकों पर कह चुके हैं कि होर्मुज स्ट्रेट पर अमेरिका का कंट्रोल है और अमेरिकी नेवी की इजाज़त से ही कोई भी जहाज इस जलमार्ग से गुज़र सकता है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "IRGC ने CENTCOM से मांगा सबूत – ‘साबित करो कि होर्मुज स्ट्रेट से समुद्री बारूदी सुरंगें पूरी तरह से",
+          "summary": "ईरानी नौसेना ने अमेरिकी सेना से होर्मुज जलमार्ग में समुद्री मीनों के निष्पादन के लिए सबूत मांगे। ट्रंप ने पहले ही इस जलमार्ग पर अमेरिकी नियंत्रण का दावा किया था। दोनों देशों के बीच इस रणनीतिक रास्ते पर तनाव बढ़ रहा है। इस रणनीतिक जलमार्ग पर जहाँ लंबे समय से ईरान का कंट्रोल रहा है, तो वहीँ अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) भी कई मौकों पर कह चुके हैं कि होर्मुज स्ट्रेट पर अमेरिका का कंट्रोल है और अमेरिकी नेवी की इजाज़त से ही कोई भी जहाज इस जलमार्ग से गुज़र सकता है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "इजराइल में चुनाव नतीजों पर विदेशी हस्तक्षेप का दांव? आइसेनकोट की नेतन्याहू को दो टूक चेतावनी",
+      "url": "https://www.patrika.com/world-news/eisenkot-warns-netanyahu-foreign-interference-claims-election-results-21016986",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T12:39:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Gadi-Eisenkot.webp",
+      "summary": "गादी आइसेनकोट ने बेंजामिन नेतन्याहू पर चुनाव नतीजों को कमजोर करने का आरोप लगाया। उन्होंने कहा कि विदेशी हस्तक्षेप के झूठे दावे 26वीं संसद के गठन में देरी करने के लिए किए जा रहे हैं। यह आरोप इजराइल की राजनीतिक स्थिति को और जटिल बना रहा है। Israel Foreign Interference: इजरायल के विपक्षी नेता और पूर्व सैन्य प्रमुख गादी आइसेनकोट ने गुरुवार (स्थानीय समयानुसार) प्रधानमंत्री बेंजामिन नेतन्याहू पर आरोप लगाया कि वे चुनावों में विदेशी हस्तक्षेप के दावों का इस्तेमाल नतीजों को कमजोर करने और 26वीं नेसेट (इजरायली संसद) के गठन में देरी करने के लिए कर रहे हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजराइल में चुनाव नतीजों पर विदेशी हस्तक्षेप का दांव? आइसेनकोट की नेतन्याहू को दो टूक चेतावनी",
+          "summary": "गादी आइसेनकोट ने बेंजामिन नेतन्याहू पर चुनाव नतीजों को कमजोर करने का आरोप लगाया। उन्होंने कहा कि विदेशी हस्तक्षेप के झूठे दावे 26वीं संसद के गठन में देरी करने के लिए किए जा रहे हैं। यह आरोप इजराइल की राजनीतिक स्थिति को और जटिल बना रहा है। Israel Foreign Interference: इजरायल के विपक्षी नेता और पूर्व सैन्य प्रमुख गादी आइसेनकोट ने गुरुवार (स्थानीय समयानुसार) प्रधानमंत्री बेंजामिन नेतन्याहू पर आरोप लगाया कि वे चुनावों में विदेशी हस्तक्षेप के दावों का इस्तेमाल नतीजों को कमजोर करने और 26वीं नेसेट (इजरायली संसद) के गठन में देरी करने के लिए कर रहे हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान में 7 महीनों से तड़प रहे 6 भारतीय नागरिक, बिना किसी गुनाह के कैसे बने जहाज के कैदी?",
+      "url": "https://hindi.news18.com/world/pakistan-6-indian-seafarers-stranded-on-cargo-ship-at-karachi-port-for-7-months-amid-port-dispute-iranian-cargo-ship-10947524.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-29T12:15:05+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Indian-Stuck-In-Karachi-Port-2026-10-df441c6626879da7643e3ed51bbc77fb-1200x800.jpg",
+      "summary": "कराची बंदरगाह पर एक ईरानी जहाज पर छह भारतीय नाविक सात महीने से फंसे हैं। शिपिंग कंपनी और अधिकारियों के विवाद के कारण जहाज की बिजली बंद है। इनके पासपोर्ट जब्त कर लिए गए हैं और वे अंधेरे में रहने को मजबूर हैं। पाकिस्तान के कराची पोर्ट पर एक ईरानी जहाज खड़ा है. इस पर 6 बेकसूर भारतीय नाविक पिछले 7 महीनों से फंसे हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान में 7 महीनों से तड़प रहे 6 भारतीय नागरिक, बिना किसी गुनाह के कैसे बने जहाज के कैदी?",
+          "summary": "कराची बंदरगाह पर एक ईरानी जहाज पर छह भारतीय नाविक सात महीने से फंसे हैं। शिपिंग कंपनी और अधिकारियों के विवाद के कारण जहाज की बिजली बंद है। इनके पासपोर्ट जब्त कर लिए गए हैं और वे अंधेरे में रहने को मजबूर हैं। पाकिस्तान के कराची पोर्ट पर एक ईरानी जहाज खड़ा है. इस पर 6 बेकसूर भारतीय नाविक पिछले 7 महीनों से फंसे हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पुतिन ने यूक्रेन के रेलवे स्टेशन पर बिछाईं लाशें, सबूत दिखाकर चीख पड़े जेलेंस्की, G7 को खूब सुनाया",
+      "url": "https://hindi.news18.com/world/europe-russian-drone-strike-on-dnipro-railway-station-kills-13-in-ukraine-zelenskyy-slams-g7-america-donald-trump-10947356.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-29T11:38:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Russia-Ukraine-War-2026-10-669fd10444fa46a60cc68f9f1ed7cf3d-1200x800.jpg",
+      "summary": "ड्नीप्रो रेलवे स्टेशन पर रूसी ड्रोन हमले में 13 लोग मारे गए और 10 से अधिक घायल हुए। वोलोडिमिर जेलेंस्की ने इस घटना के सबूत प्रस्तुत करते हुए रूस पर निशाना साधा। उन्होंने अमेरिका, यूरोपीय संघ और जी7 से इसकी कड़ी निंदा की मांग की। यूक्रेन के ड्नीप्रो रेलवे स्टेशन पर एक खतरनाक रूसी ड्रोन हमला हुआ है. इस हमले में 13 लोगों की दर्दनाक मौत हो गई है और 10 से ज्यादा लोग गंभीर रूप से घायल हैं.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पुतिन ने यूक्रेन के रेलवे स्टेशन पर बिछाईं लाशें, सबूत दिखाकर चीख पड़े जेलेंस्की, G7 को खूब सुनाया",
+          "summary": "ड्नीप्रो रेलवे स्टेशन पर रूसी ड्रोन हमले में 13 लोग मारे गए और 10 से अधिक घायल हुए। वोलोडिमिर जेलेंस्की ने इस घटना के सबूत प्रस्तुत करते हुए रूस पर निशाना साधा। उन्होंने अमेरिका, यूरोपीय संघ और जी7 से इसकी कड़ी निंदा की मांग की। यूक्रेन के ड्नीप्रो रेलवे स्टेशन पर एक खतरनाक रूसी ड्रोन हमला हुआ है. इस हमले में 13 लोगों की दर्दनाक मौत हो गई है और 10 से ज्यादा लोग गंभीर रूप से घायल हैं.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "‘न बिबी के साथ, न तिबी के साथ!’ लिबरमैन का बड़ा ऐलान, इजराइल में गठबंधन की राजनीति पर बढ़ा सस्पेंस",
+      "url": "https://www.patrika.com/world-news/liberman-rules-out-coalition-with-likud-arab-parties-21016759",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T11:31:59+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Israel-politics.webp",
+      "summary": "एविग्डोर लिबरमैन ने पार्टी कार्यकर्ताओं को बताया कि वे नेतन्याहू या अहमद तिबी के साथ गठबंधन नहीं बनाएंगे। यह बयान इजराइल में सरकार गठन की राजनीति में नया मोड़ लाया है। अब दोनों पक्षों के साथ काम करने के विकल्प बंद हो गए हैं। Israel Government Formation: ‘यिसराएल बेइतेनु’ (Yisrael Beytenu) के नेता एविग्डोर लिबरमैन ने कथित तौर पर पार्टी कार्यकर्ताओं को बताया है कि वह प्रधानमंत्री बेंजामिन नेतन्याहू या ‘जॉइंट लिस्ट’ (Joint List) के अहमद तिबी के साथ मिलकर कोई गठबंधन नहीं बनाएंगे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘न बिबी के साथ, न तिबी के साथ!’ लिबरमैन का बड़ा ऐलान, इजराइल में गठबंधन की राजनीति पर बढ़ा सस्पेंस",
+          "summary": "एविग्डोर लिबरमैन ने पार्टी कार्यकर्ताओं को बताया कि वे नेतन्याहू या अहमद तिबी के साथ गठबंधन नहीं बनाएंगे। यह बयान इजराइल में सरकार गठन की राजनीति में नया मोड़ लाया है। अब दोनों पक्षों के साथ काम करने के विकल्प बंद हो गए हैं। Israel Government Formation: ‘यिसराएल बेइतेनु’ (Yisrael Beytenu) के नेता एविग्डोर लिबरमैन ने कथित तौर पर पार्टी कार्यकर्ताओं को बताया है कि वह प्रधानमंत्री बेंजामिन नेतन्याहू या ‘जॉइंट लिस्ट’ (Joint List) के अहमद तिबी के साथ मिलकर कोई गठबंधन नहीं बनाएंगे।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "आईआरजीसी की चेतावनी – ‘कभी नहीं खुलेगा होर्मुज स्ट्रेट अगर नहीं मानी ईरान की शर्तें’",
+      "url": "https://www.patrika.com/world-news/irgc-warns-strait-of-hormuz-will-never-open-until-iran-conditions-are-met-21016688",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T11:26:51+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/strait-of-hormuz-.webp",
+      "summary": "ईरान ने अमेरिका को चेतावनी दी है कि होर्मुज स्ट्रेट पर उसका नियंत्रण बना रहेगा। टीआईआईजीसी ने कहा कि अमेरिकी बयानों से कोई असर नहीं होगा। यह रणनीतिक जलमार्ग तेल परिवहन के लिए अत्यंत महत्वपूर्ण है। होर्मुज स्ट्रेट (Strait of Hormuz) पर कंट्रोल के मामले में ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव बरकरार है। इस रणनीतिक जलमार्ग पर हमेशा से ईरान का कंट्रोल रहा है और ईरान ने साफ कर दिया है कि अमेरिका की बयानबाजी से कोई असर नहीं होगा और होर्मुज स्ट्रेट पर हमेशा ईरान का ही कंट्रोल रहेगा।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आईआरजीसी की चेतावनी – ‘कभी नहीं खुलेगा होर्मुज स्ट्रेट अगर नहीं मानी ईरान की शर्तें’",
+          "summary": "ईरान ने अमेरिका को चेतावनी दी है कि होर्मुज स्ट्रेट पर उसका नियंत्रण बना रहेगा। टीआईआईजीसी ने कहा कि अमेरिकी बयानों से कोई असर नहीं होगा। यह रणनीतिक जलमार्ग तेल परिवहन के लिए अत्यंत महत्वपूर्ण है। होर्मुज स्ट्रेट (Strait of Hormuz) पर कंट्रोल के मामले में ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव बरकरार है। इस रणनीतिक जलमार्ग पर हमेशा से ईरान का कंट्रोल रहा है और ईरान ने साफ कर दिया है कि अमेरिका की बयानबाजी से कोई असर नहीं होगा और होर्मुज स्ट्रेट पर हमेशा ईरान का ही कंट्रोल रहेगा।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेनी रेलवे स्टेशन पर रूस का ड्रोन अटैक, 13 लोगों की मौत",
+      "url": "https://www.patrika.com/world-news/russian-drone-attack-on-ukrainian-railway-station-killed-13-people-21016703",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T11:13:05+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/ukraine-railway-station.webp",
+      "summary": "रूसी ड्रोन ने यूक्रेन के एक रेलवे स्टेशन पर हमला किया। इस घटना में 13 लोगों की मौत हो गई। युद्ध के 56 महीने बीतने के बाद भी दोनों देशों के बीच हिंसा जारी है। रूस और यूक्रेन के बीच चल रहा युद्ध (Russia-Ukraine War) 56 महीने बीत जाने के बाद भी रुकने का नाम नहीं ले रहा है। रूस लगातार यूक्रेन पर हमले कर रहा है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेनी रेलवे स्टेशन पर रूस का ड्रोन अटैक, 13 लोगों की मौत",
+          "summary": "रूसी ड्रोन ने यूक्रेन के एक रेलवे स्टेशन पर हमला किया। इस घटना में 13 लोगों की मौत हो गई। युद्ध के 56 महीने बीतने के बाद भी दोनों देशों के बीच हिंसा जारी है। रूस और यूक्रेन के बीच चल रहा युद्ध (Russia-Ukraine War) 56 महीने बीत जाने के बाद भी रुकने का नाम नहीं ले रहा है। रूस लगातार यूक्रेन पर हमले कर रहा है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "तुर्की और मिस्र के बीच आखिर चल क्या रहा है? मिडिल ईस्ट में बढ़ते तनाव के बीच क्या है R4 वाला प्लान",
+      "url": "https://hindi.news18.com/news/knowledge/what-exactly-going-between-turkiye-and-egypt-rising-tensions-in-middle-east-know-r4-plan-10947226.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-29T11:03:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Untitled-Design-2026-10-29T162156.969-2026-10-abedc3d454326c68df65bf3eca83612c-1200x800.jpg",
+      "summary": "तुर्की और मिस्र क्षेत्रीय संकटों पर सहयोग कर रहे हैं। दोनों देश सऊदी अरब और पाकिस्तान के साथ R4 समूह में शामिल हैं। यह समूह बातचीत के जरिए तनाव कम करने की कोशिश कर रहा है। तुर्की और मिस्र अपने मतभेदों के बावजूद क्षेत्रीय संकटों पर साथ मिलकर काम कर रहे हैं. सऊदी अरब और पाकिस्तान के साथ मिलकर दोनों देश R4 नाम के कूटनीतिक समूह में भी शामिल हैं, जो बातचीत और क्षेत्रीय तालमेल के जरिए तनाव कम करने की कोशिश कर रहा है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "तुर्की और मिस्र के बीच आखिर चल क्या रहा है? मिडिल ईस्ट में बढ़ते तनाव के बीच क्या है R4 वाला प्लान",
+          "summary": "तुर्की और मिस्र क्षेत्रीय संकटों पर सहयोग कर रहे हैं। दोनों देश सऊदी अरब और पाकिस्तान के साथ R4 समूह में शामिल हैं। यह समूह बातचीत के जरिए तनाव कम करने की कोशिश कर रहा है। तुर्की और मिस्र अपने मतभेदों के बावजूद क्षेत्रीय संकटों पर साथ मिलकर काम कर रहे हैं. सऊदी अरब और पाकिस्तान के साथ मिलकर दोनों देश R4 नाम के कूटनीतिक समूह में भी शामिल हैं, जो बातचीत और क्षेत्रीय तालमेल के जरिए तनाव कम करने की कोशिश कर रहा है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘मौत के मंत्री इस्तीफा दो’, ट्रांसपोर्ट मिनिस्टर के पीछे हाथ धोकर क्यों पड़ गए यहां के लोग? जगह-जगह",
+      "url": "https://hindi.news18.com/world/europe-spain-rail-disaster-protesters-demand-resignation-of-transport-minister-oscar-puente-after-68-dead-in-toledo-train-crash-10947138.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-10-29T10:58:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Spain-Protest-2026-10-5f1297f46ce8f2047b7b18ede663de48-1200x800.jpg",
+      "summary": "स्पेन के तोलेदो में ट्रेन हादसे में 68 लोगों की मौत हुई। मैड्रिड में प्रदर्शनकारियों ने ट्रांसपोर्ट मंत्री ओस्कार पुएंते का इस्तीफा मांगा। सरकार ने तीन दिन का राष्ट्रीय शोक घोषित किया है। स्पेन के तोलेदो में भयानक ट्रेन हादसे के बाद 68 लोगों की मौत हो गई है. इस बड़ी त्रासदी के बाद राजधानी मैड्रिड में गुस्साए लोगों ने जबरदस्त प्रदर्शन और हंगामा शुरू कर दिया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘मौत के मंत्री इस्तीफा दो’, ट्रांसपोर्ट मिनिस्टर के पीछे हाथ धोकर क्यों पड़ गए यहां के लोग? जगह-जगह",
+          "summary": "स्पेन के तोलेदो में ट्रेन हादसे में 68 लोगों की मौत हुई। मैड्रिड में प्रदर्शनकारियों ने ट्रांसपोर्ट मंत्री ओस्कार पुएंते का इस्तीफा मांगा। सरकार ने तीन दिन का राष्ट्रीय शोक घोषित किया है। स्पेन के तोलेदो में भयानक ट्रेन हादसे के बाद 68 लोगों की मौत हो गई है. इस बड़ी त्रासदी के बाद राजधानी मैड्रिड में गुस्साए लोगों ने जबरदस्त प्रदर्शन और हंगामा शुरू कर दिया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "चीन में जिन 33 अधिकारियों का चलता था सिक्का, अब उन्हें शी जिनपिंग ने निकाला, पूर्व सैन्य प्रमुख",
+      "url": "https://www.patrika.com/world-news/china-xi-jinping-expels-33-officials-21016671",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T10:52:06+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/09/Xi-Jinping-1.webp",
+      "summary": "चीन की कम्युनिस्ट पार्टी ने 33 वरिष्ठ अधिकारियों को बाहर कर दिया। इनमें पूर्व सैन्य प्रमुख भी शामिल हैं। शी जिनपिंग के नेतृत्व में यह बड़ा संगठनात्मक बदलाव हुआ है। चीन की सत्ताधारी कम्युनिस्ट पार्टी ने बड़ा कदम उठाया है। पहले जिन 33 अधिकारियों का पूरे चीन में सिक्का चलता था, अब उन्हें पार्टी से बाहर कर दिया गया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन में जिन 33 अधिकारियों का चलता था सिक्का, अब उन्हें शी जिनपिंग ने निकाला, पूर्व सैन्य प्रमुख",
+          "summary": "चीन की कम्युनिस्ट पार्टी ने 33 वरिष्ठ अधिकारियों को बाहर कर दिया। इनमें पूर्व सैन्य प्रमुख भी शामिल हैं। शी जिनपिंग के नेतृत्व में यह बड़ा संगठनात्मक बदलाव हुआ है। चीन की सत्ताधारी कम्युनिस्ट पार्टी ने बड़ा कदम उठाया है। पहले जिन 33 अधिकारियों का पूरे चीन में सिक्का चलता था, अब उन्हें पार्टी से बाहर कर दिया गया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "होर्मुज स्ट्रेट के पास आईआरजीसी ने पकड़ा अमेरिकी जासूसी ड्रोन",
+      "url": "https://www.patrika.com/world-news/irgc-captures-us-spy-drone-near-strait-of-hormuz-21016491",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-29T10:20:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/irgc-destroys-us-spy-drone.webp",
+      "summary": "ईरान की आईआरजीसी ने होर्मुज स्ट्रेट के पास अमेरिकी जासूसी ड्रोन को पकड़ लिया। दोनों देशों के बीच तनाव बना हुआ है। मीडिया रिपोर्ट्स के अनुसार ट्रंप ईरान पर हमले का आदेश दे सकते हैं, पर अभी इसकी पुष्टि नहीं हुई है। अमेरिका में मिडटर्म चुनाव के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर ईरान पर हमले शुरू करने का आदेश दे सकते हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "होर्मुज स्ट्रेट के पास आईआरजीसी ने पकड़ा अमेरिकी जासूसी ड्रोन",
+          "summary": "ईरान की आईआरजीसी ने होर्मुज स्ट्रेट के पास अमेरिकी जासूसी ड्रोन को पकड़ लिया। दोनों देशों के बीच तनाव बना हुआ है। मीडिया रिपोर्ट्स के अनुसार ट्रंप ईरान पर हमले का आदेश दे सकते हैं, पर अभी इसकी पुष्टि नहीं हुई है। अमेरिका में मिडटर्म चुनाव के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर ईरान पर हमले शुरू करने का आदेश दे सकते हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "इटली में बर्फ की कब्र से निकल रहे मौत के सामान, 100 साल बाद भी जिंदा हैं ये बम",
@@ -326,42 +704,6 @@
       }
     },
     {
-      "title": "होर्मुज स्ट्रेट के पास आईआरजीसी ने अमेरिकी जासूसी ड्रोन को पकड़ा",
-      "url": "https://www.patrika.com/world-news/irgc-captures-us-spy-drone-near-strait-of-hormuz-21016491",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T10:13:40+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/irgc-destroys-us-spy-drone.webp",
-      "summary": "ईरान की आईआरजीसी ने होर्मुज स्ट्रेट के पास अमेरिकी जासूसी ड्रोन को पकड़ लिया। दोनों देशों के बीच तनाव बना हुआ है। मीडिया रिपोर्ट्स के अनुसार ट्रंप ईरान पर हमले का आदेश दे सकते हैं, पर अभी इसकी पुष्टि नहीं हुई है। अमेरिका में मिडटर्म चुनाव के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर ईरान पर हमले शुरू करने का आदेश दे सकते हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "होर्मुज स्ट्रेट के पास आईआरजीसी ने अमेरिकी जासूसी ड्रोन को पकड़ा",
-          "summary": "ईरान की आईआरजीसी ने होर्मुज स्ट्रेट के पास अमेरिकी जासूसी ड्रोन को पकड़ लिया। दोनों देशों के बीच तनाव बना हुआ है। मीडिया रिपोर्ट्स के अनुसार ट्रंप ईरान पर हमले का आदेश दे सकते हैं, पर अभी इसकी पुष्टि नहीं हुई है। अमेरिका में मिडटर्म चुनाव के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप एक बार फिर ईरान पर हमले शुरू करने का आदेश दे सकते हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "PM नेतन्याहू की पार्टी ने वोटिंग में लगाया गड़बड़ी का आरोप, किसी को भी बहुमत नहीं",
-      "url": "https://hindi.news18.com/world/middle-east-israel-election-results-live-update-benjamin-netanyahu-bloc-opposition-arab-parties-90-percent-vote-counted-livenews-10945487.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-29T10:07:51+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/benjamin-netanyahu-1-2026-10-89ba737224a801438431d1bcda6a5bb4-1200x800.jpg",
-      "summary": "इजरायल के 120 सदस्यीय संसद के चुनाव में 90 प्रतिशत वोटों की गिनती के बाद किसी भी गठबंधन को बहुमत के लिए आवश्यक 61 सीटें नहीं मिलीं। प्रधानमंत्री बेंजामिन नेतन्याहू के गठबंधन को 53 सीटें मिलने का अनुमान है, जबकि विपक्षी गठबंधन को 48 सीटें मिलने की संभावना है। अरब दलों को 19 सीटें मिलने की उम्मीद है, जिससे उनकी भूमिका अगली सरकार के गठन में निर्णायक हो सकती है। विपक्षी नेता नई सरकार बनाने के लिए बातचीत की तैयारी में हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "PM नेतन्याहू की पार्टी ने वोटिंग में लगाया गड़बड़ी का आरोप, किसी को भी बहुमत नहीं",
-          "summary": "इजरायल के 120 सदस्यीय संसद के चुनाव में 90 प्रतिशत वोटों की गिनती के बाद किसी भी गठबंधन को बहुमत के लिए आवश्यक 61 सीटें नहीं मिलीं। प्रधानमंत्री बेंजामिन नेतन्याहू के गठबंधन को 53 सीटें मिलने का अनुमान है, जबकि विपक्षी गठबंधन को 48 सीटें मिलने की संभावना है। अरब दलों को 19 सीटें मिलने की उम्मीद है, जिससे उनकी भूमिका अगली सरकार के गठन में निर्णायक हो सकती है। विपक्षी नेता नई सरकार बनाने के लिए बातचीत की तैयारी में हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
       "title": "जिसने रिकॉर्ड किया था शेख हसीना के जलील होने का वीडियो, नदी में मिला उस Ex-एयरफोर्स अधिकारी का शव",
       "url": "https://hindi.news18.com/world/south-asia-bangladesh-ex-air-force-officer-tahsif-sauri-linked-to-sheikh-hasina-fleeing-video-found-dead-in-dhaka-turag-river-10947109.html",
       "source": "News18 Hindi (World)",
@@ -376,24 +718,6 @@
           "title": "जिसने रिकॉर्ड किया था शेख हसीना के जलील होने का वीडियो, नदी में मिला उस Ex-एयरफोर्स अधिकारी का शव",
           "summary": "बांग्लादेश में पूर्व एयरफोर्स अधिकारी तहसीफ सौरी का शव ढाका की तुराग नदी में मिला। उन्होंने शेख हसीना के देश छोड़ने का वीडियो शेयर किया था। उनकी चचेरी बहन ने इसे सीधा हत्या बताया और लगातार परेशान करने का आरोप लगाया। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के देश छोड़कर भागने का वीडियो शेयर करने वाले पूर्व एयरफोर्स अफसर तहसीफ सौरी का शव ढाका की तुराग नदी में मिला है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चार गाड़ियां, गुप्त विमान और ट्रंप की मंजूरी: ब्राजील से अमेरिका तक कैसे पहुंचे बोल्सोनारो?",
-      "url": "https://www.patrika.com/world-news/flavio-bolsonaro-us-escape-trump-approval-miami-brazil-21016089",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T09:56:43+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Flavio-Bolsonaro_ace129.webp",
-      "summary": "ब्राजील के फ्लेवियो बोल्सोनारो ने अदालती पाबंदियों के बावजूद गुप्त रास्तों से अमेरिका का मियामी पहुंचा। चार गाड़ियों और विमानों के जरिए इस यात्रा को अंजाम दिया गया। इस घटना ने अंतरराष्ट्रीय कूटनीति और कानूनी संकट के नए सवाल खड़े कर दिए हैं। Bolsonaro Reaches Miami: ब्राजील की सत्ता की लड़ाई में हार के बाद फ्लेवियो बोल्सोनारो का अमेरिका पहुंचना अब महज एक राजनीतिक घटनाक्रम नहीं, बल्कि अंतरराष्ट्रीय कूटनीति, कानूनी संकट और पर्दे के पीछे चल रही रणनीति का दिलचस्प मामला बन गया है।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चार गाड़ियां, गुप्त विमान और ट्रंप की मंजूरी: ब्राजील से अमेरिका तक कैसे पहुंचे बोल्सोनारो?",
-          "summary": "ब्राजील के फ्लेवियो बोल्सोनारो ने अदालती पाबंदियों के बावजूद गुप्त रास्तों से अमेरिका का मियामी पहुंचा। चार गाड़ियों और विमानों के जरिए इस यात्रा को अंजाम दिया गया। इस घटना ने अंतरराष्ट्रीय कूटनीति और कानूनी संकट के नए सवाल खड़े कर दिए हैं। Bolsonaro Reaches Miami: ब्राजील की सत्ता की लड़ाई में हार के बाद फ्लेवियो बोल्सोनारो का अमेरिका पहुंचना अब महज एक राजनीतिक घटनाक्रम नहीं, बल्कि अंतरराष्ट्रीय कूटनीति, कानूनी संकट और पर्दे के पीछे चल रही रणनीति का दिलचस्प मामला बन गया है।",
-          "region": "अमेरिका"
         }
       }
     },
@@ -430,330 +754,6 @@
           "title": "होर्मुज स्ट्रेट में समुद्री बारूदी सुरंगों से टकराकर तीन जहाजों में हुआ धमाका और लगी आग",
           "summary": "ईरानी नौसेना द्वारा होर्मुज प्रसार में बिछाई गई समुद्री बारूदी सुरंगों से टकराकर तीन जहाजों में धमाका हुआ। इन जहाजों में आग लग गई। यह घटना तब हुई जब कई जहाज ईरान द्वारा अवैध घोषित जलमार्गों से गुजर रहे थे। होर्मुज स्ट्रेट (Strait of Hormuz) को ईरान (Iran) द्वारा बंद करने के बाद भी कई जहाज ईरान द्वारा अवैध घोषित जलमार्गों से गुज़र रहे हैं।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इजरायल में हंग पार्लियामेंट, क्या ‘बाजीगर’ बनेंगे नेतन्याहू!",
-      "url": "https://www.patrika.com/world-news/israel-election-results-netanyahu-arab-parties-kingmaker-21016344",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T09:35:21+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Israel-Election-Results-1.webp",
-      "summary": "इजरायल के संसदीय चुनावों में किसी दल को स्पष्ट बहुमत नहीं मिला। नेतन्याहू के गठबंधन को 53 सीटें मिलीं, जबकि आइजेनकोट के गठबंधन को 48 सीटें मिलीं। 19 सीटें अरब दलों के पास हैं, जिससे वे किंगमेकर बन गए हैं। Israel Election Results: इजरायल के चुनावी नतीजे लगभग वैसे ही दिख रहे हैं, जैसी की उम्मीद थी, किसी को भी स्पष्ट बहुमत नहीं मिला।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायल में हंग पार्लियामेंट, क्या ‘बाजीगर’ बनेंगे नेतन्याहू!",
-          "summary": "इजरायल के संसदीय चुनावों में किसी दल को स्पष्ट बहुमत नहीं मिला। नेतन्याहू के गठबंधन को 53 सीटें मिलीं, जबकि आइजेनकोट के गठबंधन को 48 सीटें मिलीं। 19 सीटें अरब दलों के पास हैं, जिससे वे किंगमेकर बन गए हैं। Israel Election Results: इजरायल के चुनावी नतीजे लगभग वैसे ही दिख रहे हैं, जैसी की उम्मीद थी, किसी को भी स्पष्ट बहुमत नहीं मिला।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इजराइल में चुनावी फंडिंग पर बवाल: नेतन्याहू बोले- ‘राआमगेट भूकंप’, अरब पार्टियों से गठबंधन न करने",
-      "url": "https://www.patrika.com/world-news/israel-election-funding-row-netanyahu-raamgate-arab-parties-probe-21016314",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T09:15:36+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp",
-      "summary": "इजरायल की केंद्रीय चुनाव समिति ने विदेशी वित्तपोषण के आरोपों की जांच के आदेश दिए। नेतन्याहू ने इसे 'राआमगेट' करार दिया। उन्होंने अरब पार्टियों से गठबंधन न करने की बात कही। यह मामला सरकार गठन की प्रक्रिया के बीच उठा। इजरायल में संसदीय चुनावों के बाद सरकार गठन की प्रक्रिया के बीच विदेशी फंडिंग के आरोपों ने राजनीतिक माहौल में बड़ा भूचाल ला दिया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजराइल में चुनावी फंडिंग पर बवाल: नेतन्याहू बोले- ‘राआमगेट भूकंप’, अरब पार्टियों से गठबंधन न करने",
-          "summary": "इजरायल की केंद्रीय चुनाव समिति ने विदेशी वित्तपोषण के आरोपों की जांच के आदेश दिए। नेतन्याहू ने इसे 'राआमगेट' करार दिया। उन्होंने अरब पार्टियों से गठबंधन न करने की बात कही। यह मामला सरकार गठन की प्रक्रिया के बीच उठा। इजरायल में संसदीय चुनावों के बाद सरकार गठन की प्रक्रिया के बीच विदेशी फंडिंग के आरोपों ने राजनीतिक माहौल में बड़ा भूचाल ला दिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "स्पेन में हाई-स्पीड ट्रेन हादसे के बाद भी हड़ताल पर अड़े चालक, अब रेलवे सुरक्षा में बड़े बदलाव की",
-      "url": "https://www.patrika.com/world-news/spain-high-speed-train-crash-railway-safety-strike-21016334",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T09:15:08+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/railwaynews.webp",
-      "summary": "स्पेन में दो हाई-स्पीड ट्रेनों की टक्कर में 68 लोगों की मौत हो गई। बुधवार को हुए इस हादसे के बाद गुरुवार तक बचाव अभियान जारी रहा। राहतकर्मी मलबे में फंसे लोगों की तलाश में जुटे हुए हैं। स्पेन में दो हाई स्पीड ट्रेनों की टक्कर में अब तक 68 लोगों की मौत हो चुकी है। राहतकर्मी अब भी मलबे में फंसे लोगों की तलाश में जुटे हैं।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्पेन में हाई-स्पीड ट्रेन हादसे के बाद भी हड़ताल पर अड़े चालक, अब रेलवे सुरक्षा में बड़े बदलाव की",
-          "summary": "स्पेन में दो हाई-स्पीड ट्रेनों की टक्कर में 68 लोगों की मौत हो गई। बुधवार को हुए इस हादसे के बाद गुरुवार तक बचाव अभियान जारी रहा। राहतकर्मी मलबे में फंसे लोगों की तलाश में जुटे हुए हैं। स्पेन में दो हाई स्पीड ट्रेनों की टक्कर में अब तक 68 लोगों की मौत हो चुकी है। राहतकर्मी अब भी मलबे में फंसे लोगों की तलाश में जुटे हैं।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "यमन में जंग से बिगड़े हालात, 2.81 लाख से ज़्यादा लोग विस्थापित",
-      "url": "https://www.patrika.com/world-news/more-than-281000-people-displaced-by-fighting-in-yemen-21016284",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T09:14:28+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/displaced-people-in-yemen.webp",
-      "summary": "यमन में हूती विद्रोहियों और सरकार के बीच लड़ाई तेज हो गई है। सऊदी अरब भी हूतियों के इलाकों पर हमले कर रहा है। इससे 2.81 लाख से अधिक लोग विस्थापित हो चुके हैं। यमन (Yemen) में चल रही जंग तेज़ बढ़ती जा रही है। हूती विद्रोहियों (Houthis) और यमनी सरकार के बीच कंट्रोल को लेकर जंग चल रही है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यमन में जंग से बिगड़े हालात, 2.81 लाख से ज़्यादा लोग विस्थापित",
-          "summary": "यमन में हूती विद्रोहियों और सरकार के बीच लड़ाई तेज हो गई है। सऊदी अरब भी हूतियों के इलाकों पर हमले कर रहा है। इससे 2.81 लाख से अधिक लोग विस्थापित हो चुके हैं। यमन (Yemen) में चल रही जंग तेज़ बढ़ती जा रही है। हूती विद्रोहियों (Houthis) और यमनी सरकार के बीच कंट्रोल को लेकर जंग चल रही है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इजरायल चुनाव में विदेशी दखल का शक, नेतन्याहू के आरोपों से मचा बवाल; शिन बेट को एक हफ्ते में जांच के",
-      "url": "https://www.patrika.com/world-news/israel-election-foreign-interference-netanyahu-allegations-shin-bet-investigation-21016156",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T08:18:30+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu_b58767.webp",
-      "summary": "नेतन्याहू ने अरब पार्टियों पर चुनावी गड़बड़ी के आरोप लगाए। केंद्रीय समिति ने शिन बेट को विदेशी हस्तक्षेप की जांच के लिए निर्देश दिया। रिपोर्ट एक सप्ताह में जमा करनी होगी। Israel Election Results: इजरायल में चुनावी नतीजों को लेकर विवाद गहरा गया है। प्रधानमंत्री बेंजामिन नेतन्याहू ने अरब पार्टियों पर रिश्वत, धमकी और चुनाव में गड़बड़ी के आरोप लगाए हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायल चुनाव में विदेशी दखल का शक, नेतन्याहू के आरोपों से मचा बवाल; शिन बेट को एक हफ्ते में जांच के",
-          "summary": "नेतन्याहू ने अरब पार्टियों पर चुनावी गड़बड़ी के आरोप लगाए। केंद्रीय समिति ने शिन बेट को विदेशी हस्तक्षेप की जांच के लिए निर्देश दिया। रिपोर्ट एक सप्ताह में जमा करनी होगी। Israel Election Results: इजरायल में चुनावी नतीजों को लेकर विवाद गहरा गया है। प्रधानमंत्री बेंजामिन नेतन्याहू ने अरब पार्टियों पर रिश्वत, धमकी और चुनाव में गड़बड़ी के आरोप लगाए हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "विदेश में पढ़ाई का बदला ट्रेंड, अब डिग्री के बजाय इन 3 फैक्टर्स पर दांव लगा रहे हैं भारतीय",
-      "url": "https://hindi.news18.com/news/career/education-idp-emerging-futures-report-indian-students-overseas-education-trends-2026-10946593.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-29T08:04:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Indian-Students-Overseas-Education-Trends-2026-2026-10-515f4fca71d89f9721c8e79c5981e3ac-1200x800.jpg",
-      "summary": "आईडीपी रिपोर्ट के अनुसार भारतीय छात्रों की प्राथमिकता बदल गई है। अब डिग्री के बजाय पोस्ट-स्टडी नौकरियों और एआई स्किल्स पर ध्यान केंद्रित है। मल्टीपल कंट्री बैकअप भी अब महत्वपूर्ण फैक्टर बन गया है। Indian Students Overseas Education Trends 2026: आईडीपी एजुकेशन की लेटेस्ट 'इमर्जिंग फ्यूचर्स' रिपोर्ट के अनुसार, विदेश में पढ़ाई के लिए भारतीय स्टूडेंट्स की प्रायोरिटी बदल गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विदेश में पढ़ाई का बदला ट्रेंड, अब डिग्री के बजाय इन 3 फैक्टर्स पर दांव लगा रहे हैं भारतीय",
-          "summary": "आईडीपी रिपोर्ट के अनुसार भारतीय छात्रों की प्राथमिकता बदल गई है। अब डिग्री के बजाय पोस्ट-स्टडी नौकरियों और एआई स्किल्स पर ध्यान केंद्रित है। मल्टीपल कंट्री बैकअप भी अब महत्वपूर्ण फैक्टर बन गया है। Indian Students Overseas Education Trends 2026: आईडीपी एजुकेशन की लेटेस्ट 'इमर्जिंग फ्यूचर्स' रिपोर्ट के अनुसार, विदेश में पढ़ाई के लिए भारतीय स्टूडेंट्स की प्रायोरिटी बदल गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान एंबुलेंस में लगी आग, 9 लोगों की मौत, गर्भवती महिला बाहर भी न निकल पाई",
-      "url": "https://hindi.news18.com/world/pakistan-tharparkar-ambulance-fire-oxygen-cylinder-blast-9-dead-10946558.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-29T07:57:44+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-ambulance-2026-10-3e3563c8f0eabf313e3ebefc93cd186c-1200x800.jpg",
-      "summary": "थारपारकर जिले में एंबुलेंस में ऑक्सीजन सिलेंडर बदलते समय धमाका हुआ। आग में नौ लोगों की मौत हुई, जिनमें गर्भवती महिला और चालक शामिल थे। घायलों को कराची भेजा गया। Pakistan News: पाकिस्तान के थारपारकर जिले में एक स्वास्थ्य केंद्र पर खड़ी एंबुलेंस में ऑक्सीजन सिलेंडर बदलने के दौरान धमाका हो गया. आग लगने से गर्भवती महिला, एंबुलेंस चालक और स्वास्थ्य केंद्र के कर्मचारियों समेत 9 लोगों की मौत हो गई.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान एंबुलेंस में लगी आग, 9 लोगों की मौत, गर्भवती महिला बाहर भी न निकल पाई",
-          "summary": "थारपारकर जिले में एंबुलेंस में ऑक्सीजन सिलेंडर बदलते समय धमाका हुआ। आग में नौ लोगों की मौत हुई, जिनमें गर्भवती महिला और चालक शामिल थे। घायलों को कराची भेजा गया। Pakistan News: पाकिस्तान के थारपारकर जिले में एक स्वास्थ्य केंद्र पर खड़ी एंबुलेंस में ऑक्सीजन सिलेंडर बदलने के दौरान धमाका हो गया. आग लगने से गर्भवती महिला, एंबुलेंस चालक और स्वास्थ्य केंद्र के कर्मचारियों समेत 9 लोगों की मौत हो गई.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या जंग की तैयारी कर रहे किम जोंग?: समुद्र की ओर दागीं 10 बैलिस्टिक मिसाइलें, दक्षिण कोरिया की",
-      "url": "https://www.amarujala.com/world/is-kim-jong-preparing-for-war-10-ballistic-missiles-fired-towards-sea-south-korean-military-on-alert-2026-10-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-29T07:26:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/29/kama-jaga-una_882b93a8176525e12c9036cf1dcb3f59.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर कोरिया ने समुद्र की ओर दस बैलिस्टिक मिसाइलें दागीं। दक्षिण कोरिया की सेना अलर्ट मोड पर है। यह घटना क्षेत्रीय सुरक्षा स्थिति को लेकर चिंता बढ़ा रही है। क्या जंग की तैयारी कर रहे किम जोंग?: समुद्र की ओर दागीं 10 बैलिस्टिक मिसाइलें, दक्षिण कोरिया की।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या जंग की तैयारी कर रहे किम जोंग?: समुद्र की ओर दागीं 10 बैलिस्टिक मिसाइलें, दक्षिण कोरिया की",
-          "summary": "उत्तर कोरिया ने समुद्र की ओर दस बैलिस्टिक मिसाइलें दागीं। दक्षिण कोरिया की सेना अलर्ट मोड पर है। यह घटना क्षेत्रीय सुरक्षा स्थिति को लेकर चिंता बढ़ा रही है। क्या जंग की तैयारी कर रहे किम जोंग?: समुद्र की ओर दागीं 10 बैलिस्टिक मिसाइलें, दक्षिण कोरिया की।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'ठीक हो जाओ, फिर लड़ना सिखाऊंगा', स्मित मच्छर के घाव देखने के बाद बोले UAE के राष्ट्रपति",
-      "url": "https://hindi.news18.com/world/middle-east-uae-president-sheikh-mohamed-says-indian-pilot-smit-machchhar-i-will-teach-you-ti-fight-flydubai-10946335.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-29T07:15:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/smit-uae-2026-10-3cbdf6f1c11c5a51e2cda6b6e67b1cb1-1200x800.jpg",
-      "summary": "फ्लाईदुबई पायलट स्मित मच्छर को दुबई में सम्मानित किया गया। राष्ट्रपति शेख मोहम्मद बिन जायद ने उनकी चोटों का हाल पूछा। उन्होंने मजाक में कहा कि ठीक होने पर उन्हें लड़ना सिखाएंगे। Fly Dubai News: दुबई से तेल अवीव जा रही फ्लाईदुबई की उड़ान में हमले के दौरान गंभीर रूप से घायल हुए भारतीय पायलट कैप्टन स्मित मच्छर को UAE में सम्मानित किया गया.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'ठीक हो जाओ, फिर लड़ना सिखाऊंगा', स्मित मच्छर के घाव देखने के बाद बोले UAE के राष्ट्रपति",
-          "summary": "फ्लाईदुबई पायलट स्मित मच्छर को दुबई में सम्मानित किया गया। राष्ट्रपति शेख मोहम्मद बिन जायद ने उनकी चोटों का हाल पूछा। उन्होंने मजाक में कहा कि ठीक होने पर उन्हें लड़ना सिखाएंगे। Fly Dubai News: दुबई से तेल अवीव जा रही फ्लाईदुबई की उड़ान में हमले के दौरान गंभीर रूप से घायल हुए भारतीय पायलट कैप्टन स्मित मच्छर को UAE में सम्मानित किया गया.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इजरायल चुनाव: कौन हैं मंसूर अब्बास? जिनके हाथ में है सत्ता की चाबी, जो बनना चाहते हैं ‘किंगमेकर’",
-      "url": "https://www.patrika.com/world-news/israel-election-results-who-is-mansour-abbas-raam-arab-leader-coalition-government-21015850",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T06:43:44+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Israel-Election-Results.webp",
-      "summary": "इजरायल चुनाव में राअम पार्टी के नेता मंसूर अब्बास की भूमिका अहम बनी है। दोनों प्रमुख खेमों को संसद में बहुमत हासिल करने के लिए अरब दलों की सहयोग की ज़रूरत है। अब्बास सरकार में भागीदारी और समुदाय के हितों के लिए बातचीत कर रहे हैं। Israel Election Results: इजराइल में चुनाव के बाद सरकार गठन को लेकर सियासी समीकरण उलझते नजर आ रहे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायल चुनाव: कौन हैं मंसूर अब्बास? जिनके हाथ में है सत्ता की चाबी, जो बनना चाहते हैं ‘किंगमेकर’",
-          "summary": "इजरायल चुनाव में राअम पार्टी के नेता मंसूर अब्बास की भूमिका अहम बनी है। दोनों प्रमुख खेमों को संसद में बहुमत हासिल करने के लिए अरब दलों की सहयोग की ज़रूरत है। अब्बास सरकार में भागीदारी और समुदाय के हितों के लिए बातचीत कर रहे हैं। Israel Election Results: इजराइल में चुनाव के बाद सरकार गठन को लेकर सियासी समीकरण उलझते नजर आ रहे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन युद्ध से लुटा सरकारी खजाना?: रूस में जनता और कंपनियों पर बढ़ेगा टैक्स का बोझ, पुतिन तलाश",
-      "url": "https://www.amarujala.com/world/ukraine-war-strains-kremlin-finances-russia-putin-new-tax-hikes-war-spending-budget-deficit-2027-2026-10-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-29T06:42:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/29/russia-ukraine-war_85ff914ca3d3861cda9bec9bf8d7b056.jpeg?w=1200&dpr=1.0",
-      "summary": "यूक्रेन युद्ध के खर्चों ने रूस के सरकारी खजाने पर दबाव डाला है। पुतिन प्रशाशन नए करों के माध्यम से राजकोषीय घाटे को पूरा करने की तलाश में है। इससे देश की जनता और कंपनियों पर आर्थिक बोझ और बढ़ने की संभावना है। यूक्रेन युद्ध से लुटा सरकारी खजाना?: रूस में जनता और कंपनियों पर बढ़ेगा टैक्स का बोझ, पुतिन तलाश।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन युद्ध से लुटा सरकारी खजाना?: रूस में जनता और कंपनियों पर बढ़ेगा टैक्स का बोझ, पुतिन तलाश",
-          "summary": "यूक्रेन युद्ध के खर्चों ने रूस के सरकारी खजाने पर दबाव डाला है। पुतिन प्रशाशन नए करों के माध्यम से राजकोषीय घाटे को पूरा करने की तलाश में है। इससे देश की जनता और कंपनियों पर आर्थिक बोझ और बढ़ने की संभावना है। यूक्रेन युद्ध से लुटा सरकारी खजाना?: रूस में जनता और कंपनियों पर बढ़ेगा टैक्स का बोझ, पुतिन तलाश।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तान में आटे के लिए हाहाकार, विदेश से गेहूं लेकर पहुंच रहे जहाज, अपने ही राज्यों ने फेर लिया",
-      "url": "https://hindi.news18.com/world/pakistan-wheat-import-flour-prices-inflation-ship-on-karachi-port-10946247.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-29T06:19:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/pakistan-wheat-1-2026-10-8f175466f74c5a7a9228563c1bf1ed20-1200x800.jpg",
-      "summary": "पाकिस्तान में गेहूं की कमी ने सरकार को विदेशी आयात की ओर धकेला है। कराची बंदरगाह पर 51 हजार मीट्रिक टन गेहूं पहुंच चुका है। दूसरा जहाज 59 हजार मीट्रिक टन से अधिक गेहूं लेकर आ रहा है। देश में महंगाई दर 11.85 फीसदी है। पाकिस्तान में बढ़ती महंगाई के बीच सरकार ने विदेशों से गेहूं मंगाना शुरू कर दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तान में आटे के लिए हाहाकार, विदेश से गेहूं लेकर पहुंच रहे जहाज, अपने ही राज्यों ने फेर लिया",
-          "summary": "पाकिस्तान में गेहूं की कमी ने सरकार को विदेशी आयात की ओर धकेला है। कराची बंदरगाह पर 51 हजार मीट्रिक टन गेहूं पहुंच चुका है। दूसरा जहाज 59 हजार मीट्रिक टन से अधिक गेहूं लेकर आ रहा है। देश में महंगाई दर 11.85 फीसदी है। पाकिस्तान में बढ़ती महंगाई के बीच सरकार ने विदेशों से गेहूं मंगाना शुरू कर दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "Amazon में छंटनी, सुबह-सुबह ईमेल भेजकर 250 कर्मचारियों को नौकरी से निकाला, लोगों ने क्या कहा?",
-      "url": "https://www.patrika.com/world-news/amazon-layoffs-250-employees-devices-services-unit-job-cuts-21015464",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-29T06:16:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Amazon.webp",
-      "summary": "अमेज़न ने अपने डिवाइसेज और सर्विसेज यूनिट में 250 कर्मचारियों की छंटनी की है। कंपनी ने बुधवार सुबह ईमेल और टेक्स्ट के जरिए इसकी सूचना दी। प्रबंधन का कहना है कि यह फैसला कार्यकुशलता बढ़ाने के लिए लिया गया है। Amazon में एक बार फिर कर्मचारियों की नौकरी पर संकट आया है। कंपनी ने अपने डिवाइसेज और सर्विसेज यूनिट में करीब 250 कर्मचारियों की छंटनी की है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Amazon में छंटनी, सुबह-सुबह ईमेल भेजकर 250 कर्मचारियों को नौकरी से निकाला, लोगों ने क्या कहा?",
-          "summary": "अमेज़न ने अपने डिवाइसेज और सर्विसेज यूनिट में 250 कर्मचारियों की छंटनी की है। कंपनी ने बुधवार सुबह ईमेल और टेक्स्ट के जरिए इसकी सूचना दी। प्रबंधन का कहना है कि यह फैसला कार्यकुशलता बढ़ाने के लिए लिया गया है। Amazon में एक बार फिर कर्मचारियों की नौकरी पर संकट आया है। कंपनी ने अपने डिवाइसेज और सर्विसेज यूनिट में करीब 250 कर्मचारियों की छंटनी की है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "क्‍यों ट्रंप के राष्ट्रपति बनते ही बढ़ा ट्रांसजेंडर बच्चों के मम्‍मी-पापा का डिप्रेशन?",
-      "url": "https://hindi.news18.com/news/knowledge/why-are-parents-of-transgender-children-in-the-us-feeling-more-anxious-a-new-study-explains-10946221.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-29T06:06:14+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/trump-transegender-1-2026-10-dbf5fe9d983ecbe8bc5a4eed874ea94b-1200x800.jpg",
-      "summary": "ट्रंप प्रशासन की नीतियों के बाद ट्रांसजेंडर बच्चों के माता-पिता में डिप्रेशन बढ़ा है। Psychological Science में प्रकाशित अध्ययन में जनवरी 2025 के बाद चिंता और सकारात्मक भावनाओं में गिरावट दर्ज की गई। यह वृद्धि सरकारी नीतियों के प्रभाव से जुड़ी है। डोनाल्ड ट्रंप के अमेरिका का राष्ट्रपति बनने के बाद क्या ट्रांसजेंडर बच्चों के माता-पिता की चिंता और डिप्रेशन बढ़ गया है?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्‍यों ट्रंप के राष्ट्रपति बनते ही बढ़ा ट्रांसजेंडर बच्चों के मम्‍मी-पापा का डिप्रेशन?",
-          "summary": "ट्रंप प्रशासन की नीतियों के बाद ट्रांसजेंडर बच्चों के माता-पिता में डिप्रेशन बढ़ा है। Psychological Science में प्रकाशित अध्ययन में जनवरी 2025 के बाद चिंता और सकारात्मक भावनाओं में गिरावट दर्ज की गई। यह वृद्धि सरकारी नीतियों के प्रभाव से जुड़ी है। डोनाल्ड ट्रंप के अमेरिका का राष्ट्रपति बनने के बाद क्या ट्रांसजेंडर बच्चों के माता-पिता की चिंता और डिप्रेशन बढ़ गया है?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका के संभावित हमलों के बीच खामेनेई ने दिया क्या संदेश? पेजेश्कियान ने कही ये बात",
-      "url": "https://www.amarujala.com/world/as-us-israel-mulls-fresh-strikes-iran-mojtaba-khamenei-wants-end-neither-war-nor-peace-talks-2026-10-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-29T05:59:29+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/29/west-asia-conflict_1104c2b13893e0e516332ce058902c71.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान के उच्च अधिकारी मोजताबा खामेनेई ने अमेरिका और इज़राइल के नए हमलों के बीच युद्ध और वार्ता दोनों का अस्वीकार किया। उन्होंने शांति वार्ताओं के बजाय स्थिति को स्थिर रखने पर जोर दिया। पश्चिम एशिया संघर्ष: अमेरिका के संभावित हमलों के बीच खामेनेई ने दिया क्या संदेश? पेजेश्कियान ने कही ये बात।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका के संभावित हमलों के बीच खामेनेई ने दिया क्या संदेश? पेजेश्कियान ने कही ये बात",
-          "summary": "ईरान के उच्च अधिकारी मोजताबा खामेनेई ने अमेरिका और इज़राइल के नए हमलों के बीच युद्ध और वार्ता दोनों का अस्वीकार किया। उन्होंने शांति वार्ताओं के बजाय स्थिति को स्थिर रखने पर जोर दिया। पश्चिम एशिया संघर्ष: अमेरिका के संभावित हमलों के बीच खामेनेई ने दिया क्या संदेश? पेजेश्कियान ने कही ये बात।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "रक्षा मंत्री राजनाथ सिंह की दो टूक- आतंकवाद को जड़ से मिटाना हमारा संकल्प",
-      "url": "https://www.amarujala.com/world/operation-sindoor-resonates-philippines-defence-minister-rajnath-singh-said-eradicating-terrorism-from-roots-2026-10-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-29T05:21:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/29/rajanatha-saha_61404522841394374a9bca510f49894b.jpeg?w=1200&dpr=1.0",
-      "summary": "रक्षा मंत्री राजनाथ सिंह ने फिलीपींस में ऑपरेशन सिंदूर की सफलता का उल्लेख किया। उन्होंने आतंकवाद को जड़ से मिटाने के भारत के संकल्प की पुष्टि की। रक्षा मंत्री राजनाथ सिंह की दो टूक- आतंकवाद को जड़ से मिटाना हमारा संकल्प।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रक्षा मंत्री राजनाथ सिंह की दो टूक- आतंकवाद को जड़ से मिटाना हमारा संकल्प",
-          "summary": "रक्षा मंत्री राजनाथ सिंह ने फिलीपींस में ऑपरेशन सिंदूर की सफलता का उल्लेख किया। उन्होंने आतंकवाद को जड़ से मिटाने के भारत के संकल्प की पुष्टि की। रक्षा मंत्री राजनाथ सिंह की दो टूक- आतंकवाद को जड़ से मिटाना हमारा संकल्प।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इमरान खान की बहन की जेल में तबीयत बिगड़ी, आनन-फानन में अस्पताल ले जाया गया",
-      "url": "https://hindi.news18.com/world/pakistan-imran-khan-sister-noreen-niazi-hospitalised-heart-problem-10945896.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-29T05:19:29+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/noreen-niyazi-2026-10-62ad29bc883cbc8f565d450290b94f63-1200x800.jpg",
-      "summary": "पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की बहन नोरीन नियाजी को कोट लखपत जेल में दिल की समस्या हुई। उन्हें लाहौर के पंजाब इंस्टीट्यूट ऑफ कार्डियोलॉजी अस्पताल में भर्ती कराया गया। उनके वकील के मुताबिक, उन्हें दिल से जुड़ी परेशानी हुई थी और डॉक्टर शुरुआती जांच कर रहे हैं. नोरीन अपनी बहन उज्मा खान के साथ 21 सितंबर से कोट लखपत जेल में बंद हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इमरान खान की बहन की जेल में तबीयत बिगड़ी, आनन-फानन में अस्पताल ले जाया गया",
-          "summary": "पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान की बहन नोरीन नियाजी को कोट लखपत जेल में दिल की समस्या हुई। उन्हें लाहौर के पंजाब इंस्टीट्यूट ऑफ कार्डियोलॉजी अस्पताल में भर्ती कराया गया। उनके वकील के मुताबिक, उन्हें दिल से जुड़ी परेशानी हुई थी और डॉक्टर शुरुआती जांच कर रहे हैं. नोरीन अपनी बहन उज्मा खान के साथ 21 सितंबर से कोट लखपत जेल में बंद हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्यूबा पर अमेरिकी प्रतिबंधों के खिलाफ भारत का मतदान, प्रस्ताव को मिला कितने देशों का समर्थन?",
-      "url": "https://www.amarujala.com/world/india-supports-unga-resolution-calling-for-end-us-embargo-on-cuba-2026-10-29",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-10-29T05:17:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/29/united-nations_12de7c833944fb277082341c1130a319.jpeg?w=1200&dpr=1.0",
-      "summary": "संयुक्त राष्ट्र महासभा में भारत ने क्यूबा पर अमेरिकी प्रतिबंधों को समाप्त करने वाले प्रस्ताव का समर्थन किया। इस प्रस्ताव को विश्व के कई देशों से समर्थन मिला। संयुक्त राष्ट्र: क्यूबा पर अमेरिकी प्रतिबंधों के खिलाफ भारत का मतदान, प्रस्ताव को मिला कितने देशों का समर्थन?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्यूबा पर अमेरिकी प्रतिबंधों के खिलाफ भारत का मतदान, प्रस्ताव को मिला कितने देशों का समर्थन?",
-          "summary": "संयुक्त राष्ट्र महासभा में भारत ने क्यूबा पर अमेरिकी प्रतिबंधों को समाप्त करने वाले प्रस्ताव का समर्थन किया। इस प्रस्ताव को विश्व के कई देशों से समर्थन मिला। संयुक्त राष्ट्र: क्यूबा पर अमेरिकी प्रतिबंधों के खिलाफ भारत का मतदान, प्रस्ताव को मिला कितने देशों का समर्थन?",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
