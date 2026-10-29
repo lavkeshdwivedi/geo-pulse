@@ -1,66 +1,38 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 29, 2026 22:39 IST
+**Updated:** October 30, 2026 03:36 IST
 
 ---
 
-## World
+## Asia-Pacific
 
-### [Republicans defend their bastions, as senate comes within reach of Democrats](https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece)
-*The Hindu (International)* - Oct 29, 21:58 IST (iso: 2026-10-29T16:28:29+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/wn4hxf/article71642039.ece/alternates/LANDSCAPE_1200/2026-10-29T041300Z_856886983_RC2OCOAN1C2Q_RTRMADP_3_USA-ELECTION-TEXAS.JPG -->
+### [Pre-APEC US ban on Chinese genomic giant widens biotech decoupling](https://asiatimes.com/2026/10/pre-apec-us-ban-on-chinese-genomic-giant-widens-biotech-decoupling/)
+*Asia Times* - Oct 30, 02:36 IST (iso: 2026-10-29T21:06:18+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/BGI.jpg -->
 
-Republicans hold a 53 to 47 Senate majority with 35 seats up for grabs. Seven are toss-ups in Iowa, Arkansas, Kansas, Maine, Michigan, Ohio, and Texas. All but Michigan are currently held by Republicans. Democrats are closing in on a potential majority shift. The GOP has a 53–47 majority in the Senate currently, with 35 seats being contested this year.
+Washington added three Shenzhen-based firms to the Uyghur Forced Labor Prevention Act list. The move blocks imports from China's leading genomics group. This extends the trade war into biotechnology. The ban arrived weeks before US and Chinese leaders meet in Shenzhen. Beijing has vowed to defend its firms after Washington blocked imports from China’s leading genomics group, extending the two countries’ trade war into biotechnology weeks before their leaders are due to meet in Shenzhen.
 
----
+### [India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath](https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece)
+*The Hindu (International)* - Oct 29, 19:27 IST (iso: 2026-10-29T13:57:50+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/s85xgn/article71640908.ece/alternates/LANDSCAPE_1200/PTI10_29_2026_000042B.jpg -->
 
-## Europe & Russia
+Defence Minister Rajnath Singh announced India will share counter-terrorism expertise with ASEAN partners. Speaking in Cebu, he proposed joint exercises and intelligence sharing. He also suggested a dedicated defence Youth Bridge to strengthen regional security ties. Defence Minister Rajnath Singh told the 13th ADMM-Plus in Cebu that India would share its operational experience through joint exercises, capacity-building programmes and intelligence sharing, and proposed a dedicated defence ‘Youth Bridge’ with ASEAN countries.
 
-### [Moldovan President Calls Security Meeting After Massive Data Breach](https://www.rferl.org/a/moldova-cyberattack-data-breach-750000-sandu/33886733.html)
-*Radio Free Europe / Liberty* - Oct 29, 21:25 IST (iso: 2026-10-29T15:55:21+00:00)
-<!-- image: https://gdb.rferl.org/f632ed6a-4ca4-482f-462b-08df13aec0bb_cx0_cy0_cw99_w1200_h630.jpeg -->
+### [Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges](https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international)
+*The Guardian* - Oct 29, 11:30 IST (iso: 2026-10-29T06:00:26+00:00)
+<!-- image: https://i.guim.co.uk/img/media/580dc11491b09def5d70dc56cd225158295a3560/1017_0_7212_5773/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=880e62f38d39c5ab71bceaf10d8d2044 -->
 
-Moldovan President Maia Sandu convened a national security meeting after a cyberattack exposed data for 750,000 people. Authorities are investigating possible foreign involvement. The attack may have utilized artificial intelligence tools to scale the breach across government systems. Moldovan President Maia Sandu has called a national security meeting after a major cyberattack exposed personal data linked to some 750,000 people.
-
-### [Russian Drone Attack Kills 14 In Dnipro As Oleshky Truce Enters Third Day](https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html)
-*Radio Free Europe / Liberty* - Oct 29, 06:47 IST (iso: 2026-10-29T01:17:39+00:00)
-<!-- image: https://gdb.rferl.org/a917df8b-53bd-4c16-48b6-08df13a884cb_cx1_cy9_cw98_w1200_h630.jpg -->
-
-The fragile cease-fire around Russian-occupied Oleshky reached its third day on October 29. Civilians face severe shortages and dangerous escape routes. Fears persist that Russia may use the pause to forcibly transfer residents to occupied Crimea. A fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29, offering hope to thousands of civilians facing severe shortages and perilous escape routes, amid fears that Russia could use the pause to forcibly transfer residents to Russia or occupied Crimea.
-
-### [Why Russia's Central Crimean Drone Base Is Hard For Ukraine To Destroy](https://www.rferl.org/a/crimea-drone-strike-russia-ukraine-war-shahed/33885309.html)
-*Radio Free Europe / Liberty* - Oct 28, 02:06 IST (iso: 2026-10-27T20:36:41+00:00)
-<!-- image: https://gdb.rferl.org/1a71629a-d978-4cf2-ea01-08df13afe2a0_w1200_h630.jpg -->
-
-Satellite imagery reveals a military airfield in central Crimea now functions as a primary hub for Russian drone launches. A Crimean military insider told RFE/RL that the site’s dispersed layout makes it difficult for Ukrainian forces to target effectively. The base uses multiple, smaller launch pads rather than a single concentrated runway. This fragmentation reduces the impact of any single precision strike. Ukraine has struggled to neutralize the facility despite repeated attempts. The infrastructure remains operational and continues to support Russian drone operations against Ukrainian targets.
-
-### ['Committed To European Integration': Student List's Srdanovic On Serbia's Post-Vucic Future](https://www.rferl.org/a/serbia-srdanovic-student-list-interview-russia-kosovo-vucic-srebrenica/33885299.html)
-*Radio Free Europe / Liberty* - Oct 28, 00:28 IST (iso: 2026-10-27T18:58:08+00:00)
-<!-- image: https://gdb.rferl.org/d372bcd2-4186-4464-8205-0bc4ad169721_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Ilija Srdanovic, the lead candidate for Serbia’s Student List, confirmed the party’s commitment to European integration following Aleksandar Vucic’s defeat. The student-led opposition movement secured victory, ending over a decade of Vucic’s political dominance. Srdanovic outlined the next steps for the country in an interview with RFE/RL’s Balkan Service. The transition marks a significant shift in Serbian political leadership. Aleksandar Vucic’s election defeat has ended more than a decade of political dominance and handed victory to Serbia’s student-led opposition movement.
-
-### [Serbia Student List Lead Candidate Vows EU Integration, Open Debate On Russia Ties](https://www.rferl.org/a/serbia-student-list-lead-candidate-vows-eu-integration/33885347.html)
-*Radio Free Europe / Liberty* - Oct 27, 22:02 IST (iso: 2026-10-27T16:32:35+00:00)
-<!-- image: https://gdb.rferl.org/01bd24cf-77a1-4253-4d87-08df13aec0bb_w1200_h630.jpg -->
-
-Ilija Srdanovic leads Serbia's Student List party. The group recently ousted Aleksandar Vucic in elections. Srdanovic pledged to pursue EU integration. He also proposed a public debate on reconsidering sanctions against Russia. In an interview with RFE/RL, Ilija Srdanovic, the lead candidate for Serbia's Student List -- which ousted longtime leader Aleksandar Vucic in recent elections -- pledged to pursue EU integration and said Belgrade's stance on sanctions against Russia could be reconsidered through public debate.
-
-### ['Get Killed Or Starve': Life Under Russian Occupation In Oleshky](https://www.rferl.org/a/get-killed-or-starve-life-under-russian-occupation-in-oleshky/33885344.html)
-*Radio Free Europe / Liberty* - Oct 27, 20:57 IST (iso: 2026-10-27T15:27:34+00:00)
-<!-- image: https://gdb.rferl.org/6beb6912-3a2a-42cb-6049-08de3c91433d_w1200_h630.png -->
-
-Residents of Russian-occupied Oleshky face severe food shortages and threats. Civilians risk mines and drone attacks to escape the area. A proposed cease-fire could open a humanitarian corridor. This would allow trapped civilians to leave the Ukrainian city. Residents fleeing Russian-occupied Oleshky describe hunger, soaring food prices, and threats from Russian soldiers. Cut off from supplies, civilians risk mines and drone attacks to escape.
-
-### [Cease-Fire in Ukraine's Oleshky Expanded To Help Flow Of Aid, Safe Passage](https://www.rferl.org/a/ukraine-russia-strike-kyiv-dormitory-us-zelenskyy/33884968.html)
-*Radio Free Europe / Liberty* - Oct 27, 06:24 IST (iso: 2026-10-27T00:54:00+00:00)
-<!-- image: https://gdb.rferl.org/f7ac9120-8c27-4643-e929-08df13afe2a0_w1200_h630.jpg -->
-
-Russian air strikes hit Kyiv on October 26, targeting a university dormitory and other civilian buildings. At least one person died in the attacks. President Zelenskyy urged international partners to supply Ukraine with adequate defensive capabilities. Russian air attacks struck Kyiv late on October 26, hitting a university dormitory and other civilian sites, leaving at least one dead, as President Volodymyr Zelenskyy called on Ukraine's partners to provide the "proper tools" for the country to defend itself.
+Amnesty International reported that Cambodian police and soldiers guarded abusive scam compounds. Survivors described electric shocks and beatings from these officers. The report details a system forcing thousands into online fraud operations. Survivors tell rights group that serving officers who worked as guards administered electric shocks and beatingsCambodian police and military officers worked as private security guards in scam compounds where thousands were forced to work in the online fraud industry, according to a report by Amnesty International. The global rights group alleged they worked for security companies as part of a syst.
 
 ---
 
 ## Middle East & Africa
+
+### ['A Reasonable Price': Inside Iran's Illicit Trade In Babies](https://www.rferl.org/a/iran-selling-babies-telegram-illegal/33886696.html)
+*Radio Free Europe / Liberty* - Oct 29, 23:39 IST (iso: 2026-10-29T18:09:33+00:00)
+<!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
+
+Intermediaries on Iranian Telegram channels sell newborns for up to $1,100. They market the transactions as charitable acts. Some falsify birth records to hide the sales. Others arrange placements with Iranian families living abroad. This occurs despite a national ban on selling babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
 
 ### [Palestinian President says hopes for peace talks with new Israeli government](https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece)
 *The Hindu (International)* - Oct 29, 20:09 IST (iso: 2026-10-29T14:39:02+00:00)
@@ -88,7 +60,7 @@ UN investigators reported that El Obeid civilians face drone strikes from the Ra
 
 ### [UN human rights chief urges better protection of civilians in conflicts](https://news.un.org/feed/view/en/story/2026/10/1168695)
 *UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image560x340cropped.jpg -->
 
 Volker Türk highlighted youth-led protests in Serbia, Bangladesh, Nepal, and Madagascar. He noted these movements demand stronger human rights protections. The UN chief urged better civilian safeguards during conflicts. Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.
 
@@ -118,25 +90,65 @@ Algeria severed diplomatic ties with the United Arab Emirates. The split follows
 
 ---
 
-## Asia-Pacific
+## Europe & Russia
 
-### [India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath](https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece)
-*The Hindu (International)* - Oct 29, 19:27 IST (iso: 2026-10-29T13:57:50+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/s85xgn/article71640908.ece/alternates/LANDSCAPE_1200/PTI10_29_2026_000042B.jpg -->
+### [The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It.](https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html)
+*Radio Free Europe / Liberty* - Oct 29, 23:15 IST (iso: 2026-10-29T17:45:31+00:00)
+<!-- image: https://gdb.rferl.org/9328435A-7CA8-4912-A16F-2101F8913E3E_cx0_cy2_cw0_w1200_h630.jpg -->
 
-Defence Minister Rajnath Singh announced India will share counter-terrorism expertise with ASEAN partners. Speaking in Cebu, he proposed joint exercises and intelligence sharing. He also suggested a dedicated defence Youth Bridge to strengthen regional security ties. Defence Minister Rajnath Singh told the 13th ADMM-Plus in Cebu that India would share its operational experience through joint exercises, capacity-building programmes and intelligence sharing, and proposed a dedicated defence ‘Youth Bridge’ with ASEAN countries.
+Washington is considering lifting sanctions on the Russian Direct Investment Fund. The fund's chief serves as the Kremlin's main negotiator with the White House. This move aims to normalize US-Russian ties. It also supports ongoing efforts to end the Ukraine war. Amid the swirl of efforts to end to the Ukraine war and normalize US-Russian ties, one idea under consideration: lifting sanctions on a massive Russian investment fund, whose chief is the Kremlin’s main go-between with White House negotiators.
 
-### [Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges](https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international)
-*The Guardian* - Oct 29, 11:30 IST (iso: 2026-10-29T06:00:26+00:00)
-<!-- image: https://i.guim.co.uk/img/media/580dc11491b09def5d70dc56cd225158295a3560/1017_0_7212_5773/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=880e62f38d39c5ab71bceaf10d8d2044 -->
+### [Moldovan President Calls Security Meeting After Massive Data Breach](https://www.rferl.org/a/moldova-cyberattack-data-breach-750000-sandu/33886733.html)
+*Radio Free Europe / Liberty* - Oct 29, 21:25 IST (iso: 2026-10-29T15:55:21+00:00)
+<!-- image: https://gdb.rferl.org/f632ed6a-4ca4-482f-462b-08df13aec0bb_cx0_cy0_cw99_w1200_h630.jpeg -->
 
-Amnesty International reported that Cambodian police and soldiers guarded abusive scam compounds. Survivors described electric shocks and beatings from these officers. The report details a system forcing thousands into online fraud operations. Survivors tell rights group that serving officers who worked as guards administered electric shocks and beatingsCambodian police and military officers worked as private security guards in scam compounds where thousands were forced to work in the online fraud industry, according to a report by Amnesty International. The global rights group alleged they worked for security companies as part of a syst.
+Moldovan President Maia Sandu convened a national security meeting after a cyberattack exposed data for 750,000 people. Authorities are investigating possible foreign involvement. The attack may have utilized artificial intelligence tools to scale the breach across government systems. Moldovan President Maia Sandu has called a national security meeting after a major cyberattack exposed personal data linked to some 750,000 people.
 
-### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
-*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
+### [Russian Drone Attack Kills 14 In Dnipro As Oleshky Truce Enters Third Day](https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html)
+*Radio Free Europe / Liberty* - Oct 29, 06:47 IST (iso: 2026-10-29T01:17:39+00:00)
+<!-- image: https://gdb.rferl.org/6d2f9ac8-72e0-4191-874b-47e83bfd878f_cx0_cy2_cw0_w1200_h630.jpg -->
 
-Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
+The fragile cease-fire around Russian-occupied Oleshky reached its third day on October 29. Civilians face severe shortages and dangerous escape routes. Fears persist that Russia may use the pause to forcibly transfer residents to occupied Crimea. A fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29, offering hope to thousands of civilians facing severe shortages and perilous escape routes, amid fears that Russia could use the pause to forcibly transfer residents to Russia or occupied Crimea.
+
+### [Why Russia's Central Crimean Drone Base Is Hard For Ukraine To Destroy](https://www.rferl.org/a/crimea-drone-strike-russia-ukraine-war-shahed/33885309.html)
+*Radio Free Europe / Liberty* - Oct 28, 02:06 IST (iso: 2026-10-27T20:36:41+00:00)
+<!-- image: https://gdb.rferl.org/1a71629a-d978-4cf2-ea01-08df13afe2a0_w1200_h630.jpg -->
+
+Satellite imagery reveals a military airfield in central Crimea now functions as a primary hub for Russian drone launches. A Crimean military insider told RFE/RL that the site’s dispersed layout makes it difficult for Ukrainian forces to target effectively. The base uses multiple, smaller launch pads rather than a single concentrated runway. This fragmentation reduces the impact of any single precision strike. Ukraine has struggled to neutralize the facility despite repeated attempts. The infrastructure remains operational and continues to support Russian drone operations against Ukrainian targets.
+
+### ['Committed To European Integration': Student List's Srdanovic On Serbia's Post-Vucic Future](https://www.rferl.org/a/serbia-srdanovic-student-list-interview-russia-kosovo-vucic-srebrenica/33885299.html)
+*Radio Free Europe / Liberty* - Oct 28, 00:28 IST (iso: 2026-10-27T18:58:08+00:00)
+<!-- image: https://gdb.rferl.org/d372bcd2-4186-4464-8205-0bc4ad169721_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Ilija Srdanovic, the lead candidate for Serbia’s Student List, confirmed the party’s commitment to European integration following Aleksandar Vucic’s defeat. The student-led opposition movement secured victory, ending over a decade of Vucic’s political dominance. Srdanovic outlined the next steps for the country in an interview with RFE/RL’s Balkan Service. The transition marks a significant shift in Serbian political leadership. Aleksandar Vucic’s election defeat has ended more than a decade of political dominance and handed victory to Serbia’s student-led opposition movement.
+
+### [Serbia Student List Lead Candidate Vows EU Integration, Open Debate On Russia Ties](https://www.rferl.org/a/serbia-student-list-lead-candidate-vows-eu-integration/33885347.html)
+*Radio Free Europe / Liberty* - Oct 27, 22:02 IST (iso: 2026-10-27T16:32:35+00:00)
+<!-- image: https://gdb.rferl.org/01bd24cf-77a1-4253-4d87-08df13aec0bb_w1200_h630.jpg -->
+
+Ilija Srdanovic leads Serbia's Student List party. The group recently ousted Aleksandar Vucic in elections. Srdanovic pledged to pursue EU integration. He also proposed a public debate on reconsidering sanctions against Russia. In an interview with RFE/RL, Ilija Srdanovic, the lead candidate for Serbia's Student List -- which ousted longtime leader Aleksandar Vucic in recent elections -- pledged to pursue EU integration and said Belgrade's stance on sanctions against Russia could be reconsidered through public debate.
+
+### ['Get Killed Or Starve': Life Under Russian Occupation In Oleshky](https://www.rferl.org/a/get-killed-or-starve-life-under-russian-occupation-in-oleshky/33885344.html)
+*Radio Free Europe / Liberty* - Oct 27, 20:57 IST (iso: 2026-10-27T15:27:34+00:00)
+<!-- image: https://gdb.rferl.org/6beb6912-3a2a-42cb-6049-08de3c91433d_w1200_h630.png -->
+
+Residents of Russian-occupied Oleshky face severe food shortages and threats. Civilians risk mines and drone attacks to escape the area. A proposed cease-fire could open a humanitarian corridor. This would allow trapped civilians to leave the Ukrainian city. Residents fleeing Russian-occupied Oleshky describe hunger, soaring food prices, and threats from Russian soldiers. Cut off from supplies, civilians risk mines and drone attacks to escape.
+
+---
+
+## World
+
+### [Republicans defend their bastions, as senate comes within reach of Democrats](https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece)
+*The Hindu (International)* - Oct 29, 21:58 IST (iso: 2026-10-29T16:28:29+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/wn4hxf/article71642039.ece/alternates/LANDSCAPE_1200/2026-10-29T041300Z_856886983_RC2OCOAN1C2Q_RTRMADP_3_USA-ELECTION-TEXAS.JPG -->
+
+Republicans hold a 53 to 47 Senate majority with 35 seats up for grabs. Seven are toss-ups in Iowa, Arkansas, Kansas, Maine, Michigan, Ohio, and Texas. All but Michigan are currently held by Republicans. Democrats are closing in on a potential majority shift. The GOP has a 53–47 majority in the Senate currently, with 35 seats being contested this year.
+
+### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
+*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image770x420cropped.jpg -->
+
+Artificial intelligence now writes emails and summarizes reports in seconds. Many users view this capability as a major technological leap. The shift is comparable to the arrival of the internet. The rapid adoption raises questions about how people process information. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
 
 ---
 
@@ -150,7 +162,7 @@ The UN Security Council debated how cheap drones, autonomous vessels, and cybera
 
 ### [Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says](https://news.un.org/feed/view/en/story/2026/10/1168693)
 *UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026_WFP_Haiti-10.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026_WFP_Haiti-10.jpg/image560x340cropped.jpg -->
 
 Luke Lindberg, the new head of the UN World Food Programme, stated that ending conflict is the primary solution to global hunger. He noted that war drives two thirds of acute food insecurity affecting 266 million people worldwide. Lindberg emphasized that peace is the most effective tool for reducing starvation. Reducing conflict is the single most effective way to tackle global hunger, the new head of the UN World Food Programme (WFP), Luke Lindberg, said on Wednesday, noting that conflict drives two thirds of the acute food insecurity affecting 266 million people worldwide.
 
@@ -163,18 +175,6 @@ Luke Lindberg, the new head of the UN World Food Programme, stated that ending c
 <!-- image: https://i.guim.co.uk/img/media/015f3fc0e56bc4e9bf29447ad4fb910c5a57894d/29_0_2922_2339/master/2922.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d118720bbf60f82d7925c214dcb087c8 -->
 
 US ambassador Pete Hoekstra suggested Canada might face blame if Republicans lose next week's midterms. He previously accused Canadian officials of interfering in American elections. His comments have intensified a bitter dispute between the two nations. Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US electionsThe US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm elections, the latest intervention from a controversial figure who has been accused of inflaming a bitter dispute that has angered and baffled residents of both countries. O.
-
-### [Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns](https://news.un.org/feed/view/en/story/2026/10/1168687)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-04-2026-UNDP-Tuvalu-05.jpg/image560x340cropped.jpg -->
-
-A new UN report states the ocean's carbon absorption capacity has dropped by six percent. The sea still takes in 30 percent of human emissions. It also absorbs 90 percent of excess heat. This warning arrives ahead of the November COP31 climate conference. The ocean absorbs around 30 per cent of human-caused carbon dioxide (CO₂) emissions and 90 per cent of excess heat trapped by greenhouse gases.
-
-### [General Assembly weighs US embargo against Cuba ahead of 34th vote](https://news.un.org/feed/view/en/story/2026/10/1168686)
-*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-Unsplash-Havana-Cuba.jpg/image560x340cropped.jpg -->
-
-The United Nations General Assembly began its annual debate on the US economic embargo against Cuba. Member states will vote on Wednesday, 28 October, to end the sanctions. This will be the 34th consecutive annual resolution calling for the immediate termination of the trade restrictions. The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday.
 
 ---
 
