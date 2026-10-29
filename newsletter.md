@@ -1,20 +1,26 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 29, 2026 08:34 IST
+**Updated:** October 29, 2026 16:00 IST
 
 ---
 
 ## Europe & Russia
 
+### [Spain train crash puts its high-speed rail safety record under scrutiny](https://www.thehindu.com/news/international/spain-train-crash-high-speed-rail-safety-record-under-scrutiny-explained/article71639891.ece)
+*The Hindu (International)* - Oct 29, 15:48 IST (iso: 2026-10-29T10:18:59+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ok9row/article71640041.ece/alternates/LANDSCAPE_1200/2026-10-29T100704Z_1415013425_RC2WCOAMARGD_RTRMADP_3_SPAIN-ACCIDENT.JPG -->
+
+A Spanish high-speed train crash killed 68 people, ending a 34-year safety record. Authorities cite system failures and human error. The incident marks the first fatal accident on the dedicated network since 1992. Authorities have so far blamed both system issues and human error for the accident which claimed 68 lives; Until this year, Spain had not witnessed such fatal incidents on its dedicated high-speed lines since the network opened in 1992.
+
 ### [Poland pivots towards India as ‘strategic partnership’ with China develops cracks](https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece)
-*The Hindu (International)* - Oct 29, 07:19 IST (iso: 2026-10-29T01:49:39+00:00)
+*The Hindu (International)* - Oct 29, 13:22 IST (iso: 2026-10-29T07:52:30+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/dge6a9/article71637682.ece/alternates/LANDSCAPE_1200/20261022372L.jpg -->
 
 Poland is pushing to lift bilateral trade with India from six to ten billion dollars. Warsaw seeks to diversify its economic ties as trade imbalances and Beijing's support for Russia strain its relationship with China. Poland and India seek to raise bilateral trade from $6 bn to $10 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as trade imbalance and Beijing’s support for Russia deepen disillusionment with China.
 
 ### [Oleshky Truce Enters Third Day As Humanitarian Hopes Collide With Russia Deportation Fears](https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html)
 *Radio Free Europe / Liberty* - Oct 29, 06:47 IST (iso: 2026-10-29T01:17:39+00:00)
-<!-- image: https://gdb.rferl.org/d897a596-fccd-4683-8a46-d15ec479cd3e_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/f7ac9120-8c27-4643-e929-08df13afe2a0_w1200_h630.jpg -->
 
 The fragile cease-fire around Russian-occupied Oleshky reached its third day on October 29. Civilians face severe shortages and dangerous escape routes. Fears persist that Russia may use the pause to forcibly transfer residents to occupied Crimea. A fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29, offering hope to thousands of civilians facing severe shortages and perilous escape routes, amid fears that Russia could use the pause to forcibly transfer residents to Russia or occupied Crimea.
 
@@ -23,12 +29,6 @@ The fragile cease-fire around Russian-occupied Oleshky reached its third day on 
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/US-South-Korea-Flags.jpg -->
 
 A House Judiciary Committee report accuses South Korea of targeting American firms with coercive investigations and excessive fines. The findings suggest Seoul's lobbying efforts in Washington have failed to resolve these trade disputes. The report highlights ongoing friction between the two economies. Republicans on the House Judiciary Committee released in July an interim staff report accusing South Korea of “discriminatory attacks on American-owned businesses.” Seoul’s “practices include coercive investigation tactics, overly burdensome regulatory requirements, and massive fines and penalties intended to punish American businesses and make it harder for them to effectively compete against Kor.
-
-### [Scorched earth isn’t driving Ukrainians to sue for peace](https://asiatimes.com/2026/10/polling-scorched-earth-isnt-driving-ukrainians-to-sue-for-peace/)
-*Asia Times* - Oct 28, 04:16 IST (iso: 2026-10-27T22:46:10+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/c20385d88197b0e43aca6c2958ba89431792315970-copy-e1793137909950.jpg -->
-
-Vladimir Putin believes relentless bombing of Ukrainian cities will force Kyiv to sue for peace. This marks his latest shifting theory of victory after earlier land offensives stalled. Polling data suggests this scorched earth strategy is not actually driving Ukrainians toward accepting a negotiated settlement. Vladimir Putin has a theory of victory in Ukraine. It’s not the Russian president’s first theory – that was a quick, dayslong campaign – nor his second or third, which involved different land offensives in the east that quickly petered out.
 
 ### [Why Russia's Central Crimean Drone Base Is Hard For Ukraine To Destroy](https://www.rferl.org/a/crimea-drone-strike-russia-ukraine-war-shahed/33885309.html)
 *Radio Free Europe / Liberty* - Oct 28, 02:06 IST (iso: 2026-10-27T20:36:41+00:00)
@@ -68,7 +68,81 @@ Aleksandar Vucic lost the Serbian parliamentary elections to student-led opposit
 
 ---
 
+## Asia-Pacific
+
+### [Coordinated disinformation campaigns target Singapore over Indonesia markets and made-up meeting](https://www.channelnewsasia.com/singapore/indonesia-disinformation-msci-dino-patti-djalal-6502461)
+*Channel News Asia* - Oct 29, 14:30 IST (iso: 2026-10-29T09:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--NpyYDS0d--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/indonesia_singapore_disinfo.png?itok=BDlejdvy -->
+
+Coordinated disinformation campaigns targeted Singapore with nearly 400 false posts. The content falsely linked Singapore to Indonesia’s stock market crash and a nonexistent meeting. The coordinated accounts generated nearly 12 million views across social platforms. Across multiple social media platforms, CNA Verify found close to 400 posts pushing falsehoods tying Singapore to Indonesia’s stock market rout and to a secret meeting that never took place.
+
+### [India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners](https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece)
+*The Hindu (International)* - Oct 29, 12:55 IST (iso: 2026-10-29T07:25:21+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/gm5j7x/article71639374.ece/alternates/LANDSCAPE_1200/20261029009L.jpg -->
+
+India’s Defence Minister pledged to share anti-terror expertise with ASEAN partners. He highlighted disruptions in maritime trade routes. India will continue acting as a trusted net security provider in the Indian Ocean and Indo-Pacific regions. The Defence Minister flagged concerns over disruptions in certain maritime trade routes and asserted that India will continue to act as a "trusted net security provider" in the Indian Ocean region and the wider Indo-Pacific.
+
+### [Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges](https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international)
+*The Guardian* - Oct 29, 11:30 IST (iso: 2026-10-29T06:00:26+00:00)
+<!-- image: https://i.guim.co.uk/img/media/580dc11491b09def5d70dc56cd225158295a3560/1017_0_7212_5773/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=880e62f38d39c5ab71bceaf10d8d2044 -->
+
+Amnesty International reported that Cambodian police and soldiers guarded abusive scam compounds. Survivors described electric shocks and beatings from these officers. The report details a system forcing thousands into online fraud operations. Survivors tell rights group that serving officers who worked as guards administered electric shocks and beatingsCambodian police and military officers worked as private security guards in scam compounds where thousands were forced to work in the online fraud industry, according to a report by Amnesty International. The global rights group alleged they worked for security companies as part of a syst.
+
+### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
+*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
+
+Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
+
+---
+
+## Middle East & Africa
+
+### [Understanding how Knesset polls work vs India’s system](https://www.thehindu.com/news/international/how-israel-elections-work-understanding-knesset-elections-vs-india/article71634802.ece)
+*The Hindu (International)* - Oct 29, 13:17 IST (iso: 2026-10-29T07:47:08+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/8n5v84/article71634105.ece/alternates/LANDSCAPE_1200/Israel_Elections_69116.jpg -->
+
+Israel’s October 27 election left no bloc with a 61-seat majority. Prime Minister Netanyahu and former military chief Gadi Eisenkot now compete to form a government. The 120-seat Knesset remains deadlocked in a neck-and-neck political struggle. Israel’s political clash after the October 27 national vote pits Prime Minister Benjamin Netanyahu against former military chief Gadi Eisenkot in a neck-and-neck fight to form a government, as neither major bloc won a 61-seat majority in the 120-seat Knesset.
+
+### [The Mecca pact goes to Tehran. Can it keep the region out of another war?](https://asiatimes.com/2026/10/the-mecca-pact-goes-to-tehran-can-it-keep-the-region-out-of-another-war/)
+*Asia Times* - Oct 28, 20:34 IST (iso: 2026-10-28T15:04:57+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/a-239.jpg -->
+
+Saudi Arabia, Pakistan, and Turkey sent senior officials to Tehran to negotiate with Iran under the Mecca Joint Defense Agreement. Prince Khalid bin Salman, Field Marshal Asim Munir, and Ibrahim Kalın met President Pezeshkian and security chief Mohsen Rezaei. The unusual diplomatic move aims to prevent regional escalation through direct dialogue. On Monday, the Mecca Joint Defense Agreement did something a defense treaty is not usually built to do.
+
+### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image770x420cropped.jpg -->
+
+UN investigators reported that El Obeid civilians face drone strikes from the Rapid Support Forces. They also endure arbitrary arrests by the Sudanese Armed Forces. Residents live in constant fear of both military threats and state detention. Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.
+
+### [Under Houthi fire, Saudi Arabia looks to China for missile support](https://asiatimes.com/2026/10/under-houthi-fire-saudi-arabia-looks-to-china-for-missile-support/)
+*Asia Times* - Oct 28, 12:11 IST (iso: 2026-10-28T06:41:52+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Saudi-Missiles.jpg -->
+
+Saudi Arabia is expanding a ballistic missile factory near al-Duwadimi to produce longer-range weapons. The facility sits 200 kilometers west of Riyadh. The move aims to bolster strategic deterrence against Houthi attacks. Media reports confirm the shift toward heavier payload capabilities. Saudi Arabia’s rapid expansion of a ballistic missile factory signals a transformative shift in its pursuit of strategic deterrence.
+
+### [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
+*The Guardian* - Oct 26, 16:30 IST (iso: 2026-10-26T11:00:40+00:00)
+<!-- image: https://i.guim.co.uk/img/media/68be86b57a97943a5a7cf6e880f044f52347de5e/0_0_7116_5694/master/7116.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=670b2f8466a6264fef01477ea2e39272 -->
+
+US airstrikes in southern Somalia are pushing civilians toward the rising River Juba. Women and children face drowning risks as they flee al-Shabaab territory. Humanitarian groups accuse the military of weaponizing the flood crisis. The strategy traps vulnerable populations in dangerous waterways. Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.
+
+---
+
 ## Americas
+
+### [U.S. judge rejects Trump administration’s interference in California midterm vote](https://www.thehindu.com/news/international/us-judge-rejects-donald-trumps-bid-to-purge-20000-california-ballots-safeguarding-voters-rights-ahead-of-the-midterms/article71639192.ece)
+*The Hindu (International)* - Oct 29, 12:51 IST (iso: 2026-10-29T07:21:50+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/qo4e2v/article71639266.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000007B.jpg -->
+
+A U. S. judge blocked the Trump administration’s interference in California midterms. Judge David O. Carter ruled registered voters cannot lose core rights due to procedural errors. The decision protects the integrity of the state’s voter rolls. Those registered on California’s voter roles “must not be deprived of a core right merely because of unfounded allegations stemming from a procedure rife with uncertainty and errors,” U. S.
+
+### [Flavio Bolsonaro claims he is Brazil’s true leader after fleeing to U.S.](https://www.thehindu.com/news/international/flavio-bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us/article71639212.ece)
+*The Hindu (International)* - Oct 29, 12:00 IST (iso: 2026-10-29T06:30:36+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/x1osnc/article71639279.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000004A.jpg -->
+
+Flavio Bolsonaro declared himself Brazil's true leader after fleeing to the United States. He accused election officials of establishing a tyranny. Donald Trump stated he would not get involved in the dispute. “I am the elected president, and the criminals who stole Brazil’s election are part of a criminal organization that has established a tyranny,” Flavio Bolsonaro said; U. S. President Donald Trump said he “won’t get involved” in Mr.
 
 ### [US ambassador suggests Trump could blame Canada if midterms don’t go his way](https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms)
 *The Guardian* - Oct 29, 01:45 IST (iso: 2026-10-28T20:15:07+00:00)
@@ -84,61 +158,9 @@ A new UN report states the ocean's carbon absorption capacity has dropped by six
 
 ### [General Assembly weighs US embargo against Cuba ahead of 34th vote](https://news.un.org/feed/view/en/story/2026/10/1168686)
 *UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-Unsplash-Havana-Cuba.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-Unsplash-Havana-Cuba.jpg/image560x340cropped.jpg -->
 
 The United Nations General Assembly began its annual debate on the US economic embargo against Cuba. Member states will vote on Wednesday, 28 October, to end the sanctions. This will be the 34th consecutive annual resolution calling for the immediate termination of the trade restrictions. The General Assembly opened its annual debate on the US economic embargo against Cuba on Tuesday.
-
-### [Record carbon dioxide levels will impact us for centuries, says UN weather agency](https://news.un.org/feed/view/en/story/2026/10/1168677)
-*UN News* - Oct 27, 17:30 IST (iso: 2026-10-27T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/14-07-2021_Unsplash_power-plant.jpg/image560x340cropped.jpg -->
-
-The World Meteorological Organization reported that carbon dioxide and other greenhouse gases hit record highs in 2025. Burning fossil fuels drove these levels, locking in additional long-term global warming. The agency warned these atmospheric changes will affect the planet for centuries. Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warming, the World Meteorological Organization (WMO) said on Tuesday.
-
----
-
-## Middle East & Africa
-
-### [The Mecca pact goes to Tehran. Can it keep the region out of another war?](https://asiatimes.com/2026/10/the-mecca-pact-goes-to-tehran-can-it-keep-the-region-out-of-another-war/)
-*Asia Times* - Oct 28, 20:34 IST (iso: 2026-10-28T15:04:57+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/a-239.jpg -->
-
-Saudi Arabia, Pakistan, and Turkey sent senior officials to Tehran to negotiate with Iran under the Mecca Joint Defense Agreement. Prince Khalid bin Salman, Field Marshal Asim Munir, and Ibrahim Kalın met President Pezeshkian and security chief Mohsen Rezaei. The unusual diplomatic move aims to prevent regional escalation through direct dialogue. On Monday, the Mecca Joint Defense Agreement did something a defense treaty is not usually built to do.
-
-### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image770x420cropped.jpg -->
-
-UN investigators reported that El Obeid civilians face drone strikes from the Rapid Support Forces. They also endure arbitrary arrests by the Sudanese Armed Forces. Residents live in constant fear of both military threats and state detention. Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.
-
-### [UN human rights chief urges better protection of civilians in conflicts](https://news.un.org/feed/view/en/story/2026/10/1168695)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image770x420cropped.jpg -->
-
-UN human rights chief Volker Türk highlighted youth-led protests in Serbia, Bangladesh, Nepal, and Madagascar. He said these movements show a growing global demand for stronger human rights protections. The protests focus on corruption and inequality. Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.
-
-### [Under Houthi fire, Saudi Arabia looks to China for missile support](https://asiatimes.com/2026/10/under-houthi-fire-saudi-arabia-looks-to-china-for-missile-support/)
-*Asia Times* - Oct 28, 12:11 IST (iso: 2026-10-28T06:41:52+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Saudi-Missiles.jpg -->
-
-Saudi Arabia is expanding a ballistic missile factory near al-Duwadimi to produce longer-range weapons. The facility sits 200 kilometers west of Riyadh. The move aims to bolster strategic deterrence against Houthi attacks. Media reports confirm the shift toward heavier payload capabilities. Saudi Arabia’s rapid expansion of a ballistic missile factory signals a transformative shift in its pursuit of strategic deterrence.
-
-### [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
-*The Guardian* - Oct 26, 16:30 IST (iso: 2026-10-26T11:00:40+00:00)
-<!-- image: https://i.guim.co.uk/img/media/68be86b57a97943a5a7cf6e880f044f52347de5e/0_0_7116_5694/master/7116.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=670b2f8466a6264fef01477ea2e39272 -->
-
-US airstrikes in southern Somalia are pushing civilians toward the rising River Juba. Women and children face drowning risks as they flee al-Shabaab territory. Humanitarian groups accuse the military of weaponizing the flood crisis. The strategy traps vulnerable populations in dangerous waterways. Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.
-
-### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
-*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group experts discussed the widening rift between Washington and Kyiv regarding Ukraine. They analyzed Russia’s intensifying attacks and Europe’s efforts to support Ukraine while facing internal pressure. The conversation explored whether Trump’s administration might inadvertently aid Putin’s objectives in the ongoing conflict. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
-
-### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
-*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
-<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Algeria severed diplomatic ties with the United Arab Emirates after years of disagreement over North Africa and the Sahel. Algiers and Abu Dhabi view the dispute differently, but the rivalry now threatens regional stability. The rupture marks a significant escalation in tensions between the two North African and Gulf powers. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel.
 
 ---
 
@@ -149,28 +171,6 @@ Algeria severed diplomatic ties with the United Arab Emirates after years of dis
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026_WFP_Haiti-10.jpg/image770x420cropped.jpg -->
 
 Luke Lindberg, the new head of the UN World Food Programme, stated that ending conflict is the primary solution to global hunger. He noted that war drives two thirds of acute food insecurity affecting 266 million people worldwide. Lindberg emphasized that peace is the most effective tool for reducing starvation. Reducing conflict is the single most effective way to tackle global hunger, the new head of the UN World Food Programme (WFP), Luke Lindberg, said on Wednesday, noting that conflict drives two thirds of the acute food insecurity affecting 266 million people worldwide.
-
----
-
-## Asia-Pacific
-
-### [Chinese markets lose trillions as race for AI supremacy with US takes its toll](https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing)
-*The Guardian* - Oct 27, 10:12 IST (iso: 2026-10-27T04:42:50+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cfc01a875f34c3a329afa6ca8128f820 -->
-
-Chinese stock markets lost trillions of dollars recently. Investors worry about the sustainability of Beijing’s AI boom. The race for supremacy against the United States is straining profits and raising concerns about the sector’s future. Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boomTrillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Beijing races against the United States for dominance in the sector. The STAR 50 Index, which tracks technology and innovatio.
-
-### [Bizarre hobby takes seed among China’s stressed young adults](https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults)
-*The Guardian* - Oct 26, 15:17 IST (iso: 2026-10-26T09:47:14+00:00)
-<!-- image: https://i.guim.co.uk/img/media/405d212f721c7643b5fa0bdbf049d8331dadbd3d/74_406_1051_840/master/1051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8124c82d44ae2c2e2d465bf2d2f2129 -->
-
-Young Chinese adults are increasingly adopting brick collecting as a low-cost hobby. Facing a stagnant job market, many are choosing this over raising children or pets. The trend offers a cheap, low-maintenance alternative to traditional responsibilities in a difficult economic environment. Faced with a stagnant jobs market, many are spurning children or pets in favour of ‘raising bricks’Young adults in China looking for a cheaper, low-maintenance alternative to having children or pets have found an answer: raising bricks. Bricks may not be as cuddly as cats or as life-affirming as human offspring, but they also cost next to nothing.
-
-### [A Trigger in Jammu and Kashmir: Militant Violence under Indian Central Rule](https://www.crisisgroup.org/rpt/asia-pacific/india-pakistan/360-trigger-jammu-and-kashmir-militant-violence-under-indian-central-rule)
-*International Crisis Group* - Oct 23, 05:30 IST (iso: 2026-10-23T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/15498115/pexels-photo-15498115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-India's 2019 governance overhaul in Jammu and Kashmir aimed to quell insurgency. The policy achieved some security gains but also backfired in other areas. New Delhi must adjust its approach to restore lasting peace to the region. In 2019, India made far-reaching changes to governance in Jammu and Kashmir, with the aim of quelling insurgency. Its policy has succeeded in some ways, but backfired in others.
 
 ---
 
