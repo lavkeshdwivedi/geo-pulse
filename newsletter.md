@@ -1,16 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 30, 2026 07:43 IST
+**Updated:** October 30, 2026 14:39 IST
 
 ---
 
 ## Asia-Pacific
 
-### [North Korea displays drones, missiles as Kim urges AI weapons push](https://www.channelnewsasia.com/east-asia/north-korea-drones-missiles-kim-jong-un-6505466)
-*Channel News Asia* - Oct 30, 06:50 IST (iso: 2026-10-30T01:20:22+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--rL3EAJZq--/c_crop,h_576,w_1024,x_0,y_53/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/000_d2xk9dy.jpg?itok=cXoHjjSc -->
+### [What Taiwan can teach South Korea about China’s chip tech theft](https://asiatimes.com/2026/10/what-taiwan-can-teach-south-korea-about-chinas-chip-tech-theft/)
+*Asia Times* - Oct 30, 14:34 IST (iso: 2026-10-30T09:04:06+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Chips-Technology-Semiconductors-AI-chips.jpg -->
 
-North Korea launched roughly a dozen short-range ballistic missiles from the Wonsan area toward the Sea of Japan. South Korea's Joint Chiefs of Staff confirmed the detections. The display occurred as Kim Jong Un pushed for accelerated artificial intelligence integration into weapons systems. The missiles flew over international waters. This latest salvo underscores Pyongyang's continued focus on rapid-fire capabilities. South Korea's Joint Chiefs of Staff said its military detected "around a dozen short-range ballistic missiles fired from the Wonsan area of North Korea towards the East Sea", also known as the Sea of Japan.
+Three South Korean engineers allegedly stole proprietary probe-card designs for a Chinese employer. They used a local firm to modify the technology. The case highlights how talent migration facilitates industrial espionage. China now produces competing components. In November 2023, three engineers left a South Korean semiconductor testing-components company for a Chinese employer offering twice their previous salaries. According to South Korea’s Intellectual Property Office, they allegedly took proprietary probe-card designs, arranged for a Korean design firm to modify them, and used the technology to develop products in China.
+
+### [China ruling party says it 'eliminated dangers' after 33 expelled](https://www.channelnewsasia.com/east-asia/china-communist-party-expels-33-figures-corruption-graft-crackdown-6506306)
+*Channel News Asia* - Oct 30, 13:45 IST (iso: 2026-10-30T08:15:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--flhfs9ti--/c_crop,h_1125,w_1999,x_1,y_59/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/30/2026-10-30t062445z_2028272393_rc2edoabfkif_rtrmadp_3_china-politics-plenum.jpg?itok=Tp6klbL- -->
+
+Xi Jinping announced the expulsion of thirty-three Central Committee members. This follows his long-running anti-corruption campaign. The purge removed dozens of officials and military leaders. The ruling party claims these actions eliminated internal dangers. In more than a decade in charge, President Xi Jinping has cracked down hard on graft, ensnaring thousands of officials and purging dozens of members of the powerful Central Committee and a string of top military brass.
+
+### [North Korea's Kim calls for rapid expansion of drone technology, observes testing of weapons](https://www.thehindu.com/news/international/north-koreas-kim-calls-for-rapid-expansion-of-drone-technology-observes-testing-of-weapons/article71643492.ece)
+*The Hindu (International)* - Oct 30, 09:13 IST (iso: 2026-10-30T03:43:14+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/khho3a/article71643523.ece/alternates/LANDSCAPE_1200/AP10_30_2026_000006B.jpg -->
+
+Kim Jong Un called for rapid expansion of North Korean drone technology. He observed weapons testing at a recent exhibition. The leader demanded absolute superiority in unmanned aeronautics. He announced unspecified steps to strengthen the sector. In a speech at the exhibition, Mr. Kim stressed the need to seize “the absolute superiority in the drone technology” and announced unspecified steps needed to “rapidly expand and strengthen the unmanned aeronautical technology,” says Korean Central News Agency.
 
 ### [Pre-APEC US ban on Chinese genomic giant widens biotech decoupling](https://asiatimes.com/2026/10/pre-apec-us-ban-on-chinese-genomic-giant-widens-biotech-decoupling/)
 *Asia Times* - Oct 30, 02:36 IST (iso: 2026-10-29T21:06:18+00:00)
@@ -18,17 +30,79 @@ North Korea launched roughly a dozen short-range ballistic missiles from the Won
 
 Washington added three Shenzhen-based firms to the Uyghur Forced Labor Prevention Act list. The move blocks imports from China's leading genomics group. This extends the trade war into biotechnology. The ban arrived weeks before US and Chinese leaders meet in Shenzhen. Beijing has vowed to defend its firms after Washington blocked imports from China’s leading genomics group, extending the two countries’ trade war into biotechnology weeks before their leaders are due to meet in Shenzhen.
 
-### [India ready to share battle-tested counter-terrorism expertise with ASEAN partners: Rajnath](https://www.thehindu.com/news/national/india-ready-to-share-battle-tested-counter-terrorism-expertise-with-asean-partners-rajnath/article71640582.ece)
-*The Hindu (International)* - Oct 29, 19:27 IST (iso: 2026-10-29T13:57:50+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/s85xgn/article71640908.ece/alternates/LANDSCAPE_1200/PTI10_29_2026_000042B.jpg -->
+### [A Trigger in Jammu and Kashmir: Militant Violence under Indian Central Rule](https://www.crisisgroup.org/rpt/asia-pacific/india-pakistan/360-trigger-jammu-and-kashmir-militant-violence-under-indian-central-rule)
+*International Crisis Group* - Oct 23, 05:30 IST (iso: 2026-10-23T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/15498115/pexels-photo-15498115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Defence Minister Rajnath Singh announced India will share counter-terrorism expertise with ASEAN partners. Speaking in Cebu, he proposed joint exercises and intelligence sharing. He also suggested a dedicated defence Youth Bridge to strengthen regional security ties. Defence Minister Rajnath Singh told the 13th ADMM-Plus in Cebu that India would share its operational experience through joint exercises, capacity-building programmes and intelligence sharing, and proposed a dedicated defence ‘Youth Bridge’ with ASEAN countries.
+India revoked Jammu and Kashmir's special status in August 2019, replacing its autonomous arrangement with direct central rule. The move reduced some militant activity but sparked new protests and political backlash. New Delhi now faces pressure to revise its approach to restore stability. In 2019, India made far-reaching changes to governance in Jammu and Kashmir, with the aim of quelling insurgency.
 
-### [Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges](https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international)
-*The Guardian* - Oct 29, 11:30 IST (iso: 2026-10-29T06:00:26+00:00)
-<!-- image: https://i.guim.co.uk/img/media/580dc11491b09def5d70dc56cd225158295a3560/1017_0_7212_5773/master/7212.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=880e62f38d39c5ab71bceaf10d8d2044 -->
+---
 
-Amnesty International reported that Cambodian police and soldiers guarded abusive scam compounds. Survivors described electric shocks and beatings from these officers. The report details a system forcing thousands into online fraud operations. Survivors tell rights group that serving officers who worked as guards administered electric shocks and beatingsCambodian police and military officers worked as private security guards in scam compounds where thousands were forced to work in the online fraud industry, according to a report by Amnesty International. The global rights group alleged they worked for security companies as part of a syst.
+## Middle East & Africa
+
+### [Marco Rubio hosts G20 Foreign Ministers as Iran, Ukraine wars divide members](https://www.thehindu.com/news/international/marco-rubio-hosts-g20-foreign-ministers-as-iran-ukraine-wars-divide-members/article71643995.ece)
+*The Hindu (International)* - Oct 30, 13:28 IST (iso: 2026-10-30T07:58:31+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/uetwot/article71644167.ece/alternates/LANDSCAPE_1200/2026-10-21T042313Z_932596227_RC2G7OAWKPW2_RTRMADP_3_USA-RUBIO-INDIA.JPG -->
+
+Marco Rubio hosted G20 foreign ministers in Atlanta. The meeting focused on energy and supply chain challenges. Members remain divided over the wars in Iran and Ukraine. The summit aimed to address geopolitical impacts on economic security. “Conversations in Atlanta will provide an opportunity to discuss energy and supply chain challenges as well as identify ways to collectively address the impact of geopolitical tensions on economic security,” a U. S.
+
+### ['A Reasonable Price': Inside Iran's Illicit Trade In Babies](https://www.rferl.org/a/iran-selling-babies-telegram-illegal/33886696.html)
+*Radio Free Europe / Liberty* - Oct 29, 23:39 IST (iso: 2026-10-29T18:09:33+00:00)
+<!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
+
+Intermediaries on Iranian Telegram channels sell newborns for up to $1,100. They market the transactions as charitable acts. Some falsify birth records to hide the sales. Others arrange placements with Iranian families living abroad. This occurs despite a national ban on selling babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
+
+### [Esports is now geopolitics by other means](https://asiatimes.com/2026/10/esports-is-now-geopolitics-by-other-means/)
+*Asia Times* - Oct 29, 19:05 IST (iso: 2026-10-29T13:35:13+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Egaming-Russia.jpg -->
+
+The competitive gaming industry has expanded into a global phenomenon. Over three million fans attended the 2025 Esports World Cup in Saudi Arabia. The event highlights how digital entertainment now intersects with international geopolitical influence and soft power. The competitive gaming industry has grown rapidly over the past two decades, transforming from a niche subculture into a global phenomenon watched by millions of spectators worldwide.
+
+### [The Mecca pact goes to Tehran. Can it keep the region out of another war?](https://asiatimes.com/2026/10/the-mecca-pact-goes-to-tehran-can-it-keep-the-region-out-of-another-war/)
+*Asia Times* - Oct 28, 20:34 IST (iso: 2026-10-28T15:04:57+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/a-239.jpg -->
+
+Saudi Arabia, Pakistan, and Turkey sent senior officials to Tehran to negotiate with Iran under the Mecca Joint Defense Agreement. Prince Khalid bin Salman, Field Marshal Asim Munir, and Ibrahim Kalın met President Pezeshkian and security chief Mohsen Rezaei. The unusual diplomatic move aims to prevent regional escalation through direct dialogue. On Monday, the Mecca Joint Defense Agreement did something a defense treaty is not usually built to do.
+
+### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image770x420cropped.jpg -->
+
+UN investigators reported that El Obeid civilians face drone strikes from the Rapid Support Forces. They also endure arbitrary arrests by the Sudanese Armed Forces. Residents live in constant fear of both military threats and state detention. Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.
+
+### [UN human rights chief urges better protection of civilians in conflicts](https://news.un.org/feed/view/en/story/2026/10/1168695)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image770x420cropped.jpg -->
+
+Volker Türk highlighted youth-led protests in Serbia, Bangladesh, Nepal, and Madagascar. He noted these movements demand stronger human rights protections. The UN chief urged better civilian safeguards during conflicts. Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.
+
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group experts discussed the widening rift between Washington and Kyiv. They analyzed Russia’s intensifying attacks on Ukraine. European capitals are working to strengthen support while facing their own pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
+
+### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
+*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
+<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Algeria severed diplomatic ties with the United Arab Emirates. The split follows years of discord over North Africa and the Sahel. Both nations view the dispute differently. The rivalry now threatens broader regional stability. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel. The two countries see their dispute very differently, but it has nonetheless become a rivalry that could put regional stability at risk.
+
+---
+
+## World
+
+### [Republicans defend their bastions, as senate comes within reach of Democrats](https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece)
+*The Hindu (International)* - Oct 30, 08:20 IST (iso: 2026-10-30T02:50:52+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/wn4hxf/article71642039.ece/alternates/LANDSCAPE_1200/2026-10-29T041300Z_856886983_RC2OCOAN1C2Q_RTRMADP_3_USA-ELECTION-TEXAS.JPG -->
+
+Republicans hold a 53 to 47 Senate majority with 35 seats up for grabs. Seven are toss-ups in Iowa, Arkansas, Kansas, Maine, Michigan, Ohio, and Texas. All but Michigan are currently held by Republicans. Democrats are closing in on a potential majority shift. The GOP has a 53–47 majority in the Senate currently, with 35 seats being contested this year.
+
+### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
+*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image770x420cropped.jpg -->
+
+Artificial intelligence now writes emails and summarizes reports in seconds. Many users view this capability as a major technological leap. The shift is comparable to the arrival of the internet. The rapid adoption raises questions about how people process information. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
 
 ---
 
@@ -40,7 +114,7 @@ Amnesty International reported that Cambodian police and soldiers guarded abusiv
 
 US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangle while treating the China-India-Pakistan dynamic as a secondary regional issue. This oversight complicates stability in Asia, where nuclear postures are shifting. Washington’s focus on the northern axis leaves gaps in understanding southern Asian deterrence. The article argues that a cohesive approach is needed to address the evolving nuclear hexagon. Originally published by Pacific Forum, this article is republished with permission.
 
-### [The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It.](https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html)
+### [The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It](https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html)
 *Radio Free Europe / Liberty* - Oct 29, 23:15 IST (iso: 2026-10-29T17:45:31+00:00)
 <!-- image: https://gdb.rferl.org/9328435A-7CA8-4912-A16F-2101F8913E3E_cx0_cy2_cw0_w1200_h630.jpg -->
 
@@ -75,80 +149,6 @@ Ilija Srdanovic, the lead candidate for Serbia’s Student List, confirmed the p
 <!-- image: https://gdb.rferl.org/01bd24cf-77a1-4253-4d87-08df13aec0bb_w1200_h630.jpg -->
 
 Ilija Srdanovic leads Serbia's Student List party. The group recently ousted Aleksandar Vucic in elections. Srdanovic pledged to pursue EU integration. He also proposed a public debate on reconsidering sanctions against Russia. In an interview with RFE/RL, Ilija Srdanovic, the lead candidate for Serbia's Student List -- which ousted longtime leader Aleksandar Vucic in recent elections -- pledged to pursue EU integration and said Belgrade's stance on sanctions against Russia could be reconsidered through public debate.
-
-### ['Get Killed Or Starve': Life Under Russian Occupation In Oleshky](https://www.rferl.org/a/get-killed-or-starve-life-under-russian-occupation-in-oleshky/33885344.html)
-*Radio Free Europe / Liberty* - Oct 27, 20:57 IST (iso: 2026-10-27T15:27:34+00:00)
-<!-- image: https://gdb.rferl.org/6beb6912-3a2a-42cb-6049-08de3c91433d_w1200_h630.png -->
-
-Residents of Russian-occupied Oleshky face severe food shortages and threats. Civilians risk mines and drone attacks to escape the area. A proposed cease-fire could open a humanitarian corridor. This would allow trapped civilians to leave the Ukrainian city. Residents fleeing Russian-occupied Oleshky describe hunger, soaring food prices, and threats from Russian soldiers. Cut off from supplies, civilians risk mines and drone attacks to escape.
-
----
-
-## Middle East & Africa
-
-### ['A Reasonable Price': Inside Iran's Illicit Trade In Babies](https://www.rferl.org/a/iran-selling-babies-telegram-illegal/33886696.html)
-*Radio Free Europe / Liberty* - Oct 29, 23:39 IST (iso: 2026-10-29T18:09:33+00:00)
-<!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
-
-Intermediaries on Iranian Telegram channels sell newborns for up to $1,100. They market the transactions as charitable acts. Some falsify birth records to hide the sales. Others arrange placements with Iranian families living abroad. This occurs despite a national ban on selling babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
-
-### [Palestinian President says hopes for peace talks with new Israeli government](https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece)
-*The Hindu (International)* - Oct 29, 20:09 IST (iso: 2026-10-29T14:39:02+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/yaqlm/article71641201.ece/alternates/LANDSCAPE_1200/Cyprus_Palestinians_99691.jpg -->
-
-Palestinian President Mahmoud Abbas expressed hope for peace talks with Israel's new government. Neither Netanyahu nor opposition leader Gadi Eisenkot secured a parliamentary majority. The election result leaves the political landscape fragmented and uncertain for future negotiations. With almost all ballots counted from Israel's pivotal election, neither the bloc of Prime Minister Benjamin Netanyahu nor the opposition bloc led by former military chief Gadi Eisenkot looked able to secure a majority in parliament.
-
-### [Esports is now geopolitics by other means](https://asiatimes.com/2026/10/esports-is-now-geopolitics-by-other-means/)
-*Asia Times* - Oct 29, 19:05 IST (iso: 2026-10-29T13:35:13+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Egaming-Russia.jpg -->
-
-The competitive gaming industry has expanded into a global phenomenon. Over three million fans attended the 2025 Esports World Cup in Saudi Arabia. The event highlights how digital entertainment now intersects with international geopolitical influence and soft power. The competitive gaming industry has grown rapidly over the past two decades, transforming from a niche subculture into a global phenomenon watched by millions of spectators worldwide.
-
-### [The Mecca pact goes to Tehran. Can it keep the region out of another war?](https://asiatimes.com/2026/10/the-mecca-pact-goes-to-tehran-can-it-keep-the-region-out-of-another-war/)
-*Asia Times* - Oct 28, 20:34 IST (iso: 2026-10-28T15:04:57+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/a-239.jpg -->
-
-Saudi Arabia, Pakistan, and Turkey sent senior officials to Tehran to negotiate with Iran under the Mecca Joint Defense Agreement. Prince Khalid bin Salman, Field Marshal Asim Munir, and Ibrahim Kalın met President Pezeshkian and security chief Mohsen Rezaei. The unusual diplomatic move aims to prevent regional escalation through direct dialogue. On Monday, the Mecca Joint Defense Agreement did something a defense treaty is not usually built to do.
-
-### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image770x420cropped.jpg -->
-
-UN investigators reported that El Obeid civilians face drone strikes from the Rapid Support Forces. They also endure arbitrary arrests by the Sudanese Armed Forces. Residents live in constant fear of both military threats and state detention. Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.
-
-### [UN human rights chief urges better protection of civilians in conflicts](https://news.un.org/feed/view/en/story/2026/10/1168695)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image560x340cropped.jpg -->
-
-Volker Türk highlighted youth-led protests in Serbia, Bangladesh, Nepal, and Madagascar. He noted these movements demand stronger human rights protections. The UN chief urged better civilian safeguards during conflicts. Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.
-
-### [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
-*The Guardian* - Oct 26, 16:30 IST (iso: 2026-10-26T11:00:40+00:00)
-<!-- image: https://i.guim.co.uk/img/media/68be86b57a97943a5a7cf6e880f044f52347de5e/0_0_7116_5694/master/7116.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=670b2f8466a6264fef01477ea2e39272 -->
-
-US airstrikes in southern Somalia are pushing civilians toward the rising River Juba. Women and children face drowning risks as they flee al-Shabaab territory. Humanitarian groups accuse the military of weaponizing the flood crisis. The strategy traps vulnerable populations in dangerous waterways. Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.
-
-### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
-*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group experts discussed the widening rift between Washington and Kyiv. They analyzed Russia’s intensifying attacks on Ukraine. European capitals are working to strengthen support while facing their own pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
-
----
-
-## World
-
-### [Republicans defend their bastions, as senate comes within reach of Democrats](https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece)
-*The Hindu (International)* - Oct 29, 21:58 IST (iso: 2026-10-29T16:28:29+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/wn4hxf/article71642039.ece/alternates/LANDSCAPE_1200/2026-10-29T041300Z_856886983_RC2OCOAN1C2Q_RTRMADP_3_USA-ELECTION-TEXAS.JPG -->
-
-Republicans hold a 53 to 47 Senate majority with 35 seats up for grabs. Seven are toss-ups in Iowa, Arkansas, Kansas, Maine, Michigan, Ohio, and Texas. All but Michigan are currently held by Republicans. Democrats are closing in on a potential majority shift. The GOP has a 53–47 majority in the Senate currently, with 35 seats being contested this year.
-
-### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
-*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image770x420cropped.jpg -->
-
-Artificial intelligence now writes emails and summarizes reports in seconds. Many users view this capability as a major technological leap. The shift is comparable to the arrival of the internet. The rapid adoption raises questions about how people process information. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
 
 ---
 
