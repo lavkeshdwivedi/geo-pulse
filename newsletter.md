@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 30, 2026 03:36 IST
+**Updated:** October 30, 2026 07:43 IST
 
 ---
 
 ## Asia-Pacific
+
+### [North Korea displays drones, missiles as Kim urges AI weapons push](https://www.channelnewsasia.com/east-asia/north-korea-drones-missiles-kim-jong-un-6505466)
+*Channel News Asia* - Oct 30, 06:50 IST (iso: 2026-10-30T01:20:22+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--rL3EAJZq--/c_crop,h_576,w_1024,x_0,y_53/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/000_d2xk9dy.jpg?itok=cXoHjjSc -->
+
+North Korea launched roughly a dozen short-range ballistic missiles from the Wonsan area toward the Sea of Japan. South Korea's Joint Chiefs of Staff confirmed the detections. The display occurred as Kim Jong Un pushed for accelerated artificial intelligence integration into weapons systems. The missiles flew over international waters. This latest salvo underscores Pyongyang's continued focus on rapid-fire capabilities. South Korea's Joint Chiefs of Staff said its military detected "around a dozen short-range ballistic missiles fired from the Wonsan area of North Korea towards the East Sea", also known as the Sea of Japan.
 
 ### [Pre-APEC US ban on Chinese genomic giant widens biotech decoupling](https://asiatimes.com/2026/10/pre-apec-us-ban-on-chinese-genomic-giant-widens-biotech-decoupling/)
 *Asia Times* - Oct 30, 02:36 IST (iso: 2026-10-29T21:06:18+00:00)
@@ -26,71 +32,13 @@ Amnesty International reported that Cambodian police and soldiers guarded abusiv
 
 ---
 
-## Middle East & Africa
-
-### ['A Reasonable Price': Inside Iran's Illicit Trade In Babies](https://www.rferl.org/a/iran-selling-babies-telegram-illegal/33886696.html)
-*Radio Free Europe / Liberty* - Oct 29, 23:39 IST (iso: 2026-10-29T18:09:33+00:00)
-<!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
-
-Intermediaries on Iranian Telegram channels sell newborns for up to $1,100. They market the transactions as charitable acts. Some falsify birth records to hide the sales. Others arrange placements with Iranian families living abroad. This occurs despite a national ban on selling babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
-
-### [Palestinian President says hopes for peace talks with new Israeli government](https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece)
-*The Hindu (International)* - Oct 29, 20:09 IST (iso: 2026-10-29T14:39:02+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/yaqlm/article71641201.ece/alternates/LANDSCAPE_1200/Cyprus_Palestinians_99691.jpg -->
-
-Palestinian President Mahmoud Abbas expressed hope for peace talks with Israel's new government. Neither Netanyahu nor opposition leader Gadi Eisenkot secured a parliamentary majority. The election result leaves the political landscape fragmented and uncertain for future negotiations. With almost all ballots counted from Israel's pivotal election, neither the bloc of Prime Minister Benjamin Netanyahu nor the opposition bloc led by former military chief Gadi Eisenkot looked able to secure a majority in parliament.
-
-### [Esports is now geopolitics by other means](https://asiatimes.com/2026/10/esports-is-now-geopolitics-by-other-means/)
-*Asia Times* - Oct 29, 19:05 IST (iso: 2026-10-29T13:35:13+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Egaming-Russia.jpg -->
-
-The competitive gaming industry has expanded into a global phenomenon. Over three million fans attended the 2025 Esports World Cup in Saudi Arabia. The event highlights how digital entertainment now intersects with international geopolitical influence and soft power. The competitive gaming industry has grown rapidly over the past two decades, transforming from a niche subculture into a global phenomenon watched by millions of spectators worldwide.
-
-### [The Mecca pact goes to Tehran. Can it keep the region out of another war?](https://asiatimes.com/2026/10/the-mecca-pact-goes-to-tehran-can-it-keep-the-region-out-of-another-war/)
-*Asia Times* - Oct 28, 20:34 IST (iso: 2026-10-28T15:04:57+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/a-239.jpg -->
-
-Saudi Arabia, Pakistan, and Turkey sent senior officials to Tehran to negotiate with Iran under the Mecca Joint Defense Agreement. Prince Khalid bin Salman, Field Marshal Asim Munir, and Ibrahim Kalın met President Pezeshkian and security chief Mohsen Rezaei. The unusual diplomatic move aims to prevent regional escalation through direct dialogue. On Monday, the Mecca Joint Defense Agreement did something a defense treaty is not usually built to do.
-
-### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image770x420cropped.jpg -->
-
-UN investigators reported that El Obeid civilians face drone strikes from the Rapid Support Forces. They also endure arbitrary arrests by the Sudanese Armed Forces. Residents live in constant fear of both military threats and state detention. Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.
-
-### [UN human rights chief urges better protection of civilians in conflicts](https://news.un.org/feed/view/en/story/2026/10/1168695)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image560x340cropped.jpg -->
-
-Volker Türk highlighted youth-led protests in Serbia, Bangladesh, Nepal, and Madagascar. He noted these movements demand stronger human rights protections. The UN chief urged better civilian safeguards during conflicts. Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.
-
-### [Under Houthi fire, Saudi Arabia looks to China for missile support](https://asiatimes.com/2026/10/under-houthi-fire-saudi-arabia-looks-to-china-for-missile-support/)
-*Asia Times* - Oct 28, 12:11 IST (iso: 2026-10-28T06:41:52+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Saudi-Missiles.jpg -->
-
-Saudi Arabia is expanding a ballistic missile factory near al-Duwadimi to produce longer-range weapons. The facility sits 200 kilometers west of Riyadh. The move aims to bolster strategic deterrence against Houthi attacks. Media reports confirm the shift toward heavier payload capabilities. Saudi Arabia’s rapid expansion of a ballistic missile factory signals a transformative shift in its pursuit of strategic deterrence.
-
-### [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
-*The Guardian* - Oct 26, 16:30 IST (iso: 2026-10-26T11:00:40+00:00)
-<!-- image: https://i.guim.co.uk/img/media/68be86b57a97943a5a7cf6e880f044f52347de5e/0_0_7116_5694/master/7116.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=670b2f8466a6264fef01477ea2e39272 -->
-
-US airstrikes in southern Somalia are pushing civilians toward the rising River Juba. Women and children face drowning risks as they flee al-Shabaab territory. Humanitarian groups accuse the military of weaponizing the flood crisis. The strategy traps vulnerable populations in dangerous waterways. Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.
-
-### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
-*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group experts discussed the widening rift between Washington and Kyiv. They analyzed Russia’s intensifying attacks on Ukraine. European capitals are working to strengthen support while facing their own pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
-
-### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
-*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
-<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Algeria severed diplomatic ties with the United Arab Emirates. The split follows years of disagreement over North African and Sahel crises. The rivalry now poses a risk to regional stability. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel. The two countries see their dispute very differently, but it has nonetheless become a rivalry that could put regional stability at risk.
-
----
-
 ## Europe & Russia
+
+### [The rise of the nuclear hexagon and the future of Asian stability](https://asiatimes.com/2026/10/the-rise-of-the-nuclear-hexagon-and-the-future-of-asian-stability/)
+*Asia Times* - Oct 30, 03:47 IST (iso: 2026-10-29T22:17:18+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/11/India-Missile-Nukes.jpg -->
+
+US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangle while treating the China-India-Pakistan dynamic as a secondary regional issue. This oversight complicates stability in Asia, where nuclear postures are shifting. Washington’s focus on the northern axis leaves gaps in understanding southern Asian deterrence. The article argues that a cohesive approach is needed to address the evolving nuclear hexagon. Originally published by Pacific Forum, this article is republished with permission.
 
 ### [The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It.](https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html)
 *Radio Free Europe / Liberty* - Oct 29, 23:15 IST (iso: 2026-10-29T17:45:31+00:00)
@@ -133,6 +81,58 @@ Ilija Srdanovic leads Serbia's Student List party. The group recently ousted Ale
 <!-- image: https://gdb.rferl.org/6beb6912-3a2a-42cb-6049-08de3c91433d_w1200_h630.png -->
 
 Residents of Russian-occupied Oleshky face severe food shortages and threats. Civilians risk mines and drone attacks to escape the area. A proposed cease-fire could open a humanitarian corridor. This would allow trapped civilians to leave the Ukrainian city. Residents fleeing Russian-occupied Oleshky describe hunger, soaring food prices, and threats from Russian soldiers. Cut off from supplies, civilians risk mines and drone attacks to escape.
+
+---
+
+## Middle East & Africa
+
+### ['A Reasonable Price': Inside Iran's Illicit Trade In Babies](https://www.rferl.org/a/iran-selling-babies-telegram-illegal/33886696.html)
+*Radio Free Europe / Liberty* - Oct 29, 23:39 IST (iso: 2026-10-29T18:09:33+00:00)
+<!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
+
+Intermediaries on Iranian Telegram channels sell newborns for up to $1,100. They market the transactions as charitable acts. Some falsify birth records to hide the sales. Others arrange placements with Iranian families living abroad. This occurs despite a national ban on selling babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
+
+### [Palestinian President says hopes for peace talks with new Israeli government](https://www.thehindu.com/news/international/palestinian-president-says-hopes-for-peace-talks-with-new-israeli-government/article71641117.ece)
+*The Hindu (International)* - Oct 29, 20:09 IST (iso: 2026-10-29T14:39:02+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/yaqlm/article71641201.ece/alternates/LANDSCAPE_1200/Cyprus_Palestinians_99691.jpg -->
+
+Palestinian President Mahmoud Abbas expressed hope for peace talks with Israel's new government. Neither Netanyahu nor opposition leader Gadi Eisenkot secured a parliamentary majority. The election result leaves the political landscape fragmented and uncertain for future negotiations. With almost all ballots counted from Israel's pivotal election, neither the bloc of Prime Minister Benjamin Netanyahu nor the opposition bloc led by former military chief Gadi Eisenkot looked able to secure a majority in parliament.
+
+### [Esports is now geopolitics by other means](https://asiatimes.com/2026/10/esports-is-now-geopolitics-by-other-means/)
+*Asia Times* - Oct 29, 19:05 IST (iso: 2026-10-29T13:35:13+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Egaming-Russia.jpg -->
+
+The competitive gaming industry has expanded into a global phenomenon. Over three million fans attended the 2025 Esports World Cup in Saudi Arabia. The event highlights how digital entertainment now intersects with international geopolitical influence and soft power. The competitive gaming industry has grown rapidly over the past two decades, transforming from a niche subculture into a global phenomenon watched by millions of spectators worldwide.
+
+### [The Mecca pact goes to Tehran. Can it keep the region out of another war?](https://asiatimes.com/2026/10/the-mecca-pact-goes-to-tehran-can-it-keep-the-region-out-of-another-war/)
+*Asia Times* - Oct 28, 20:34 IST (iso: 2026-10-28T15:04:57+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/a-239.jpg -->
+
+Saudi Arabia, Pakistan, and Turkey sent senior officials to Tehran to negotiate with Iran under the Mecca Joint Defense Agreement. Prince Khalid bin Salman, Field Marshal Asim Munir, and Ibrahim Kalın met President Pezeshkian and security chief Mohsen Rezaei. The unusual diplomatic move aims to prevent regional escalation through direct dialogue. On Monday, the Mecca Joint Defense Agreement did something a defense treaty is not usually built to do.
+
+### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image770x420cropped.jpg -->
+
+UN investigators reported that El Obeid civilians face drone strikes from the Rapid Support Forces. They also endure arbitrary arrests by the Sudanese Armed Forces. Residents live in constant fear of both military threats and state detention. Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.
+
+### [UN human rights chief urges better protection of civilians in conflicts](https://news.un.org/feed/view/en/story/2026/10/1168695)
+*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNICEF_Ukraine.jpg/image560x340cropped.jpg -->
+
+Volker Türk highlighted youth-led protests in Serbia, Bangladesh, Nepal, and Madagascar. He noted these movements demand stronger human rights protections. The UN chief urged better civilian safeguards during conflicts. Youth-led protests against corruption and inequality in Serbia, Bangladesh, Nepal and Madagascar reflect a growing demand for reinforcing human rights around the world, UN human rights chief Volker Türk said at a press briefing on Wednesday.
+
+### [US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of](https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino)
+*The Guardian* - Oct 26, 16:30 IST (iso: 2026-10-26T11:00:40+00:00)
+<!-- image: https://i.guim.co.uk/img/media/68be86b57a97943a5a7cf6e880f044f52347de5e/0_0_7116_5694/master/7116.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=670b2f8466a6264fef01477ea2e39272 -->
+
+US airstrikes in southern Somalia are pushing civilians toward the rising River Juba. Women and children face drowning risks as they flee al-Shabaab territory. Humanitarian groups accuse the military of weaponizing the flood crisis. The strategy traps vulnerable populations in dangerous waterways. Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety.
+
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group experts discussed the widening rift between Washington and Kyiv. They analyzed Russia’s intensifying attacks on Ukraine. European capitals are working to strengthen support while facing their own pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
 
 ---
 
