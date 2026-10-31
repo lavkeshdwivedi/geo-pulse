@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 31, 2026 02:41 IST
+**Updated:** October 31, 2026 06:39 IST
 
 ---
 
 ## Asia-Pacific
+
+### [U.S. imprisons two Chinese nationals for spying](https://www.thehindu.com/news/international/us-imprisons-two-chinese-nationals-for-spying/article71648068.ece)
+*The Hindu (International)* - Oct 31, 06:30 IST (iso: 2026-10-31T01:00:41+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ka92k0/article71648075.ece/alternates/LANDSCAPE_1200/2026-10-09T160013Z_293896812_RC26JEA8R5VF_RTRMADP_3_USA-CYBER-SHINYHUNTERS.JPG -->
+
+The U. S. Department of Justice announced the imprisonment of two Chinese nationals for conducting clandestine intelligence operations on American soil. The men facilitated dead drop cash payments in exchange for information related to U. S. national security. This action marks a direct law enforcement response to foreign espionage activities within the country. The arrests highlight ongoing efforts to counter state-sponsored intelligence gathering.
 
 ### [Regardless of psywar campaign, Taiwan shouldn’t rush to surrender](https://asiatimes.com/2026/10/regardless-of-psywar-campaign-taiwan-shouldnt-rush-to-surrender/)
 *Asia Times* - Oct 31, 02:24 IST (iso: 2026-10-30T20:54:20+00:00)
@@ -51,12 +57,6 @@ Washington added three Shenzhen-based firms to the Uyghur Forced Labor Preventio
 <!-- image: https://gdb.rferl.org/8a7cea16-02ec-4e31-eaeb-08df13afe2a0_w1200_h630.jpg -->
 
 Protests spread across Kosovo following the killing of a woman who repeatedly sought police protection. An official investigation revealed multiple institutional failures. A prosecutor refused to act on a specific death threat against the victim. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
-
-### [Israeli forces committed war crimes, genocide even after Gaza ceasefire: UN Commission](https://www.thehindu.com/news/international/israeli-forces-committed-war-crimes-genocide-even-after-gaza-ceasefire-un-commission/article71644883.ece)
-*The Hindu (International)* - Oct 30, 18:08 IST (iso: 2026-10-30T12:38:52+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/y8jqfr/article71644980.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-30%20174139.png -->
-
-A UN Commission found Israeli forces committed war crimes and genocide after the Gaza ceasefire. Justice Srinivasan Muralidhar noted continued expansion of territorial control. Palestinian civilians, including children, were killed or injured near the Yellow Line. The line separates military-controlled areas from Palestinian-ruled zones. In Gaza, Israeli forces have continued expanding their territorial control, resulting in the killing and injuring of Palestinian civilians, including children, who approach or cross the Yellow Line, which separates Israel- military controlled Gaza from the Palestine-ruled parts of the enclave, Justice Srinivasan Muralidhar said.
 
 ### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
@@ -168,7 +168,7 @@ The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians
 
 ### [Can new technology keep the world’s sea lanes safe?](https://news.un.org/feed/view/en/story/2026/10/1168698)
 *UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/29-10-2026_Adobe-_Shipping-lane.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/29-10-2026_Adobe-_Shipping-lane.jpg/image560x340cropped.jpg -->
 
 The UN Security Council debated how cheap drones, autonomous vessels, and cyberattacks threaten global shipping. Delegates examined how these emerging technologies endanger seafarers and supply chains. They also discussed tools to protect trade and energy flows. Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.
 
