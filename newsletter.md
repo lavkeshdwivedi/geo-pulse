@@ -1,6 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 31, 2026 23:34 IST
+**Updated:** November 01, 2026 03:29 IST
+
+---
+
+## Americas
+
+### [Lula da Silva](https://www.thehindu.com/news/international/lula-da-silva-the-pele-of-brazils-politics/article71650597.ece)
+*The Hindu (International)* - Oct 31, 23:10 IST (iso: 2026-10-31T17:40:59+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/bhfnnu/article71650592.ece/alternates/LANDSCAPE_1200/Brazil_lula_artx.jpg -->
+
+secured victory in Brazil after finishing second in the first round. The result reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s. The outcome also signals the declining appeal of Bolsonarismo. This shift marks a significant change in the country’s political alignment. The left-wing leader’s victory in Brazil, after finishing second in the first round, reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s, as well as the declining appeal of Bolsonarismo.
+
+### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
+*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
+<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
+
+Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
 
 ---
 
@@ -12,23 +28,29 @@
 
 The United Nations ended its political mission in Somalia after three decades of operation. UNSOM was established in 2013 to support the country's transition to democracy. The departure marks the conclusion of a long-standing international effort to stabilize the region. UNSOM was established by the UN Security Council in 2013 to support Somali authorities in the transition to democracy and the rule of law after more than two decades of conflict involving militias, Islamist groups and criminal gangs.
 
+### [‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi](https://news.un.org/feed/view/en/story/2026/10/1168716)
+*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image770x420cropped.jpg -->
+
+UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
+
 ### [Kosovo Protests Grow Over Killing Of Woman Who Pleaded For Police Protection](https://www.rferl.org/a/kosovo-domestic-violence-women-protests-police/33887610.html)
 *Radio Free Europe / Liberty* - Oct 31, 00:57 IST (iso: 2026-10-30T19:27:42+00:00)
 <!-- image: https://gdb.rferl.org/8a7cea16-02ec-4e31-eaeb-08df13afe2a0_w1200_h630.jpg -->
 
 Protests spread across Kosovo following the killing of a woman who repeatedly sought police protection. An official investigation revealed multiple institutional failures. A prosecutor refused to act on a specific death threat against the victim. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
 
-### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg -->
-
-Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
-
 ### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image770x420cropped.jpg -->
 
 The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
+
+### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg -->
+
+Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
 
 ### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
@@ -47,18 +69,6 @@ Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain a
 <!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
 
 Intermediaries on Iranian Telegram channels are selling newborns for up to 1,100 dollars. They offer to falsify birth records and arrange placements abroad. This illicit trade continues despite a national ban on the sale of babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
-
-### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
-*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group experts Lucian Kim, Stephen Pomper, and Fabienne Hara discussed the widening rift between Washington and Kyiv. They analyzed Russia's intensifying attacks on Ukrainian infrastructure. The conversation also covered European capitals' efforts to bolster Ukraine while facing their own domestic pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
-
-### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
-*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
-<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Algeria severed diplomatic ties with the United Arab Emirates after years of regional discord. The dispute stems from conflicts in North Africa and the Sahel. The rupture risks destabilizing the broader region. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel. The two countries see their dispute very differently, but it has nonetheless become a rivalry that could put regional stability at risk.
 
 ---
 
@@ -142,16 +152,6 @@ Washington added three Shenzhen-based firms to the Uyghur Forced Labor Preventio
 
 ---
 
-## Americas
-
-### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
-*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
-
-Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
-
----
-
 ## World
 
 ### [Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue](https://news.un.org/feed/view/en/story/2026/10/1168712)
@@ -162,7 +162,7 @@ The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians
 
 ### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
 *UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image560x340cropped.jpg -->
 
 Artificial intelligence tools now handle emails, reports, and complex queries in seconds. Many users perceive this shift as comparable to the internet's arrival. The rapid integration of AI into daily workflows raises questions about how quickly humans will adapt to these cognitive changes. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
 

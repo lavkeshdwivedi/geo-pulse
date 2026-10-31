@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-31T18:04:19.831729+00:00",
+  "generated_at": "2026-10-31T21:59:59.190173+00:00",
   "article_count": 50,
-  "total_unique_count": 261,
+  "total_unique_count": 256,
   "digest": {
-    "en": "The UN ends its three-decade political mission in Somalia while evacuations begin in Russian-occupied Oleshky. Civilians in that Ukrainian city reunite with family as attacks on aid vehicles persist. Hunger deepens across the region amid conflict and climate shocks.",
-    "hi": "वॉशिंगटन और न्यू दिल्ली के बीच रूबियो के आगामी दौरों के संकेत, और क्वाड के 8.5 करोड़ डॉलर के AI फंड की घोषणा, आज की मुख्य घटनाएं हैं। इसी बीच तेहरान ने इजरायल को तीन बार चेतावनी देते हुए युद्ध की धमकी दी है।"
+    "en": "Lula da Silva anchors the Americas agenda while the UN withdraws its political mission from Somalia after thirty years. In Oleshky, Ukrainian evacuees reunite with families as aid convoys face continued attacks.",
+    "hi": "ओडिशा में बाढ़ के हालात सुधरते दिख रहे हैं, जबकि आंध्र प्रदेश में नुकसान का अनुमान 4,764 करोड़ रुपये पर पहुंच गया है। जम्मू एयरपोर्ट से मध्य पूर्व और यूरोप के लिए अंतरराष्ट्रीय उड़ानों की तैयारी भी इसी समय शुरू हो रही है।"
   },
   "articles": [
+    {
+      "title": "Lula da Silva",
+      "url": "https://www.thehindu.com/news/international/lula-da-silva-the-pele-of-brazils-politics/article71650597.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-10-31T17:40:59+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/bhfnnu/article71650592.ece/alternates/LANDSCAPE_1200/Brazil_lula_artx.jpg",
+      "summary": "secured victory in Brazil after finishing second in the first round. The result reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s. The outcome also signals the declining appeal of Bolsonarismo. This shift marks a significant change in the country’s political alignment. The left-wing leader’s victory in Brazil, after finishing second in the first round, reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s, as well as the declining appeal of Bolsonarismo.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "UN ends its Somalia political mission after three decades",
       "url": "https://www.thehindu.com/news/international/un-ends-its-somalia-political-mission-after-three-decades/article71650522.ece",
@@ -40,6 +52,18 @@
       "image_url": "https://gdb.rferl.org/84325cc2-89a7-4ed8-6a79-08df13a87200_cx0_cy7_cw0_w1200_h630.jpg",
       "summary": "Residents of Tura, Siberia, queued for hours in minus 15 degree cold to buy scarce staples at high prices. The shortages stem from geographic isolation and local mismanagement. Russia's ongoing war in Ukraine has further strained the town's supply chains and economic stability. The scene outside Tura's main food store looked like something from the Soviet era: With the mercury at -15 C, residents lined up for hours to pay high prices for staples short supply.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-31T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image770x420cropped.jpg",
+      "summary": "UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -128,18 +152,6 @@
       "translations": {}
     },
     {
-      "title": "Hunger deepens for millions amid conflict, Ebola and climate shocks",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg",
-      "summary": "Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
       "source": "UN News",
@@ -147,6 +159,18 @@
       "published_at": "2026-10-30T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image770x420cropped.jpg",
       "summary": "The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Hunger deepens for millions amid conflict, Ebola and climate shocks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-30T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg",
+      "summary": "Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -260,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "AI is changing the way we think. The question is whether we’ll notice in time",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168704",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-29T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image770x420cropped.jpg",
-      "summary": "Artificial intelligence tools now handle emails, reports, and complex queries in seconds. Many users perceive this shift as comparable to the internet's arrival. The rapid integration of AI into daily workflows raises questions about how quickly humans will adapt to these cognitive changes. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Can new technology keep the world’s sea lanes safe?",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
       "source": "UN News",
@@ -284,28 +296,196 @@
       "translations": {}
     },
     {
-      "title": "Will Trump Help Putin Win in Ukraine?",
-      "url": "https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine",
-      "source": "International Crisis Group",
+      "title": "AI is changing the way we think. The question is whether we’ll notice in time",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168704",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-10-23T18:13:00+00:00",
-      "image_url": "https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Crisis Group experts Lucian Kim, Stephen Pomper, and Fabienne Hara discussed the widening rift between Washington and Kyiv. They analyzed Russia's intensifying attacks on Ukrainian infrastructure. The conversation also covered European capitals' efforts to bolster Ukraine while facing their own domestic pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-10-29T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image560x340cropped.jpg",
+      "summary": "Artificial intelligence tools now handle emails, reports, and complex queries in seconds. Many users perceive this shift as comparable to the internet's arrival. The rapid integration of AI into daily workflows raises questions about how quickly humans will adapt to these cognitive changes. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "How Algeria’s Rupture with the UAE Could Roil the Region",
-      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region",
-      "source": "International Crisis Group",
+      "title": "ओडिशा के गंजम-गजपति में बाढ़ के हालात सुधरे, आंध्र प्रदेश में 4,764 करोड़ के नुकसान का अनुमान",
+      "url": "https://www.amarujala.com/india-news/cyclone-arnab-odisha-andhra-pradesh-flood-damage-relief-operations-2026-11-01",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-10-23T10:58:00+00:00",
-      "image_url": "https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Algeria severed diplomatic ties with the United Arab Emirates after years of regional discord. The dispute stems from conflicts in North Africa and the Sahel. The rupture risks destabilizing the broader region. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel. The two countries see their dispute very differently, but it has nonetheless become a rivalry that could put regional stability at risk.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-11-01T07:04:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/cakaravata-aranab-sa-odasha-aathhara-parathasha-ma-bhara-nakasana_3cfce021ca5ec7f9908172640fb996cb.jpeg?w=1200&dpr=1.0",
+      "summary": "चक्रवात अर्नब के बाद ओडिशा के गंजम और गजपति जिलों में बाढ़ के हालात सामान्य हो रहे हैं। आंध्र प्रदेश में नुकसान का अनुमान 4,764 करोड़ रुपये है। राहत और पुनर्वास कार्य तेज हो गए हैं। ओडिशा के गंजम-गजपति में बाढ़ के हालात सुधरे, आंध्र प्रदेश में 4,764 करोड़ के नुकसान का अनुमान।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओडिशा के गंजम-गजपति में बाढ़ के हालात सुधरे, आंध्र प्रदेश में 4,764 करोड़ के नुकसान का अनुमान",
+          "summary": "चक्रवात अर्नब के बाद ओडिशा के गंजम और गजपति जिलों में बाढ़ के हालात सामान्य हो रहे हैं। आंध्र प्रदेश में नुकसान का अनुमान 4,764 करोड़ रुपये है। राहत और पुनर्वास कार्य तेज हो गए हैं। ओडिशा के गंजम-गजपति में बाढ़ के हालात सुधरे, आंध्र प्रदेश में 4,764 करोड़ के नुकसान का अनुमान।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "जम्मू एयरपोर्ट से शुरू होगी अंतरराष्ट्रीय उड़ान, मध्य पूर्व और यूरोप के लिए सेवाएं देने की तैयारी",
+      "url": "https://www.amarujala.com/jammu/international-flights-to-commence-from-jammu-airport-2026-11-01",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-01T06:56:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/1_4b753c005cecb62c6cf5308a40f721ff.jpeg?w=1200&dpr=1.0",
+      "summary": "जम्मू एयरपोर्ट से अंतरराष्ट्रीय उड़ानों की शुरुआत होगी। मध्य पूर्व और यूरोप के लिए नई सेवाओं की तैयारी चल रही है। यह कनेक्टिविटी बढ़ाने का कदम है। जम्मू एयरपोर्ट से जल्द ही अंतरराष्ट्रीय हवाई सेवा की सुविधा शुरू होगी। जम्मू एयरपोर्ट से शुरू होगी अंतरराष्ट्रीय उड़ान, मध्य पूर्व और यूरोप के लिए सेवाएं देने की तैयारी।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जम्मू एयरपोर्ट से शुरू होगी अंतरराष्ट्रीय उड़ान, मध्य पूर्व और यूरोप के लिए सेवाएं देने की तैयारी",
+          "summary": "जम्मू एयरपोर्ट से अंतरराष्ट्रीय उड़ानों की शुरुआत होगी। मध्य पूर्व और यूरोप के लिए नई सेवाओं की तैयारी चल रही है। यह कनेक्टिविटी बढ़ाने का कदम है। जम्मू एयरपोर्ट से जल्द ही अंतरराष्ट्रीय हवाई सेवा की सुविधा शुरू होगी। जम्मू एयरपोर्ट से शुरू होगी अंतरराष्ट्रीय उड़ान, मध्य पूर्व और यूरोप के लिए सेवाएं देने की तैयारी।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "10 लाख लोगों के जुटने का दावा, पुलिस को 70 हजार का अनुमान; सात हजार जवान तैनात",
+      "url": "https://www.amarujala.com/photo-gallery/delhi-ncr/congress-rally-ramlila-maidan-delhi-security-7000-police-personnel-2026-10-31",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-01T06:36:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/31/ramall-mathana_76c1c220119641658f62e0ca2e95b8e4.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली के रामलीला मैदान में कांग्रेस की महारैली के लिए सुरक्षा व्यवस्था कड़ी कर दी गई है। पार्टी ने 10 लाख लोगों के जुटने का दावा किया है। पुलिस का अनुमान 70 हजार है और सात हजार जवान तैनात हैं। रामलीला मैदान में आज होने वाली कांग्रेस की महारैली को लेकर दिल्ली पुलिस ने सुरक्षा के व्यापक इंतजाम किए हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "10 लाख लोगों के जुटने का दावा, पुलिस को 70 हजार का अनुमान; सात हजार जवान तैनात",
+          "summary": "दिल्ली के रामलीला मैदान में कांग्रेस की महारैली के लिए सुरक्षा व्यवस्था कड़ी कर दी गई है। पार्टी ने 10 लाख लोगों के जुटने का दावा किया है। पुलिस का अनुमान 70 हजार है और सात हजार जवान तैनात हैं। रामलीला मैदान में आज होने वाली कांग्रेस की महारैली को लेकर दिल्ली पुलिस ने सुरक्षा के व्यापक इंतजाम किए हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया",
+      "url": "https://www.amarujala.com/world/s-jaishankar-stronger-and-more-secure-global-supply-chains-global-economy-g20-meeting-2026-11-01",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-10-31T21:59:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/06/vathasha-matara-jayashakara_a031c8715286ea34e5ac232a44097a3a.jpeg?w=1200&dpr=1.0",
+      "summary": "विदेश मंत्री जयशंकर ने जी-20 बैठक में सुरक्षित सप्लाई चेन की ज़रूरत पर जोर दिया। उन्होंने वैश्विक अर्थव्यवस्था के लिए व्यापारिक विकल्पों को बढ़ाने की सलाह दी। यह स्थिरता के लिए महत्वपूर्ण है। जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया",
+          "summary": "विदेश मंत्री जयशंकर ने जी-20 बैठक में सुरक्षित सप्लाई चेन की ज़रूरत पर जोर दिया। उन्होंने वैश्विक अर्थव्यवस्था के लिए व्यापारिक विकल्पों को बढ़ाने की सलाह दी। यह स्थिरता के लिए महत्वपूर्ण है। जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया।",
+          "region": "वैश्विक / बहुपक्षीय"
+        }
+      }
+    },
+    {
+      "title": "WhatsApp ग्रुप में जुड़े 4 नए फीचर्स, एडमिन-मेंबर्स को क्या होगा फायदा?",
+      "url": "https://www.amarujala.com/video/technology/tech-diary/4-new-features-added-to-whatsapp-groups-how-will-admins-and-members-benefit-2026-11-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-31T21:54:13+00:00",
+      "image_url": "https://images.pexels.com/photos/20716657/pexels-photo-20716657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "व्हाट्सएप ने ग्रुप चैट के लिए चार नए फीचर्स पेश किए हैं। ये सुविधाएँ एडमिन और सामान्य सदस्यों दोनों के लिए उपयोगी हैं। ग्रुप प्रबंधन और संचार बेहतर होगा। WhatsApp ग्रुप में जुड़े 4 नए फीचर्स, एडमिन-मेंबर्स को क्या होगा फायदा?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "WhatsApp ग्रुप में जुड़े 4 नए फीचर्स, एडमिन-मेंबर्स को क्या होगा फायदा?",
+          "summary": "व्हाट्सएप ने ग्रुप चैट के लिए चार नए फीचर्स पेश किए हैं। ये सुविधाएँ एडमिन और सामान्य सदस्यों दोनों के लिए उपयोगी हैं। ग्रुप प्रबंधन और संचार बेहतर होगा। WhatsApp ग्रुप में जुड़े 4 नए फीचर्स, एडमिन-मेंबर्स को क्या होगा फायदा?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?",
+      "url": "https://www.amarujala.com/live/india-news/cec-gyanesh-kr-india-bloc-ramlila-maidan-live-delhi-chalo-congress-rahul-cjp-opposition-v-bjp-nda-govt-react-2026-11-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-31T21:51:54+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0",
+      "summary": "दिल्ली के रामलीला मैदान में विपक्षी दलों का सम्मेलन होगा। ज्ञानेश कुमार के पद से हटाने की मांग उठाई जाएगी। सीईसी के खिलाफ एकजुटता का प्रदर्शन किया जाएगा। दिल्ली चलो LIVE: रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?",
+          "summary": "दिल्ली के रामलीला मैदान में विपक्षी दलों का सम्मेलन होगा। ज्ञानेश कुमार के पद से हटाने की मांग उठाई जाएगी। सीईसी के खिलाफ एकजुटता का प्रदर्शन किया जाएगा। दिल्ली चलो LIVE: रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "गंभीर घायल छात्रा को बेहतर इलाज के लिए भेजा गया बंगलूरू, सरकार उठाएगी पूरा खर्च",
+      "url": "https://www.amarujala.com/india-news/andhra-school-chainsaw-attack-girl-shifted-to-bengaluru-for-advanced-treatment-2026-11-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-31T20:49:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/aathhara-parathasha-ma-nablga-bcaca-para-sakal-ka-athara-hamal_9ae5c131c06af3c56d1f2bdbc59ab461.jpeg?w=1200&dpr=1.0",
+      "summary": "आंध्र प्रदेश के स्कूल हमले में घायल छात्रा को बंगलुरु भेजा गया। वहां बेहतर इलाज के लिए विशेषज्ञों की देखरेख रहेगी। राज्य सरकार पूरा खर्च उठाएगी। गंभीर घायल छात्रा को बेहतर इलाज के लिए भेजा गया बंगलूरू, सरकार उठाएगी पूरा खर्च।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गंभीर घायल छात्रा को बेहतर इलाज के लिए भेजा गया बंगलूरू, सरकार उठाएगी पूरा खर्च",
+          "summary": "आंध्र प्रदेश के स्कूल हमले में घायल छात्रा को बंगलुरु भेजा गया। वहां बेहतर इलाज के लिए विशेषज्ञों की देखरेख रहेगी। राज्य सरकार पूरा खर्च उठाएगी। गंभीर घायल छात्रा को बेहतर इलाज के लिए भेजा गया बंगलूरू, सरकार उठाएगी पूरा खर्च।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "रामपुर जेल से रिहा होते ही ED की हिरासत में आजम खान, फूटा गुस्सा खूब सुनाया!",
+      "url": "https://www.amarujala.com/video/india-news/azam-khan-taken-into-ed-custody-immediately-upon-his-release-from-rampur-jail-he-erupted-in-anger-and-gave-th-2026-11-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-31T20:03:41+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/azam-khan-arrested-by-ed_0c2f89c49c522bdc3e2c3bd6491f903d.jpeg?w=1200&dpr=1.0",
+      "summary": "रामपुर जेल से रिहा होते ही आजम खान को ईडी ने हिरासत में लिया। उन्होंने इस कार्रवाई पर प्रतिक्रिया व्यक्त की। उनके गुस्से की बातें सुनाई दीं। रामपुर जेल से रिहा होते ही ED की हिरासत में आजम खान, फूटा गुस्सा खूब सुनाया!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रामपुर जेल से रिहा होते ही ED की हिरासत में आजम खान, फूटा गुस्सा खूब सुनाया!",
+          "summary": "रामपुर जेल से रिहा होते ही आजम खान को ईडी ने हिरासत में लिया। उन्होंने इस कार्रवाई पर प्रतिक्रिया व्यक्त की। उनके गुस्से की बातें सुनाई दीं। रामपुर जेल से रिहा होते ही ED की हिरासत में आजम खान, फूटा गुस्सा खूब सुनाया!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मीरा कुमार पंडित नेहरू की कुर्सी पर बैठीं: CEC के खिलाफ विपक्ष का प्रतीकात्मक महाभियोग, क्या बोले",
+      "url": "https://www.amarujala.com/india-news/ex-ls-speaker-meira-kumar-sat-on-nehru-chair-to-preside-over-public-impeachment-of-cec-2026-11-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-10-31T19:42:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/mara-kamara-parava-lkasabha-athhayakashha_23ae03ef3f41f5c10fa72bdb63219b3e.jpeg?w=1200&dpr=1.0",
+      "summary": "मीरा कुमार ने पंडित नेहरू की कुर्सी पर बैठकर सीईसी के खिलाफ प्रतीकात्मक महाभियोग की अध्यक्षता की। राहुल गांधी ने भी इस कार्यक्रम में भाग लिया। विपक्ष ने इस घटनाक्रम का प्रतीकात्मक महत्व बताया। मीरा कुमार पंडित नेहरू की कुर्सी पर बैठीं: CEC के खिलाफ विपक्ष का प्रतीकात्मक महाभियोग, क्या बोले।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मीरा कुमार पंडित नेहरू की कुर्सी पर बैठीं: CEC के खिलाफ विपक्ष का प्रतीकात्मक महाभियोग, क्या बोले",
+          "summary": "मीरा कुमार ने पंडित नेहरू की कुर्सी पर बैठकर सीईसी के खिलाफ प्रतीकात्मक महाभियोग की अध्यक्षता की। राहुल गांधी ने भी इस कार्यक्रम में भाग लिया। विपक्ष ने इस घटनाक्रम का प्रतीकात्मक महत्व बताया। मीरा कुमार पंडित नेहरू की कुर्सी पर बैठीं: CEC के खिलाफ विपक्ष का प्रतीकात्मक महाभियोग, क्या बोले।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दुनिया के बड़े आर्थिक मंच G20 में पोलैंड को क्यों शामिल देखना चाहता है अमेरिका?",
+      "url": "https://www.patrika.com/world-news/us-supports-polands-role-in-g20-global-economic-forum-21021971",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-10-31T18:55:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-warns-Iran-of-military-action.webp",
+      "summary": "अमेरिका ने जी-20 में पोलैंड की भागीदारी जारी रखने का समर्थन किया। मार्को रुबियो ने कहा कि ट्रंप पोलैंड को इस मंच पर जगह देने का पक्ष में हैं। अगली बैठकों में और देशों को आमंत्रित करने की उम्मीद जताई गई। अमेरिकी विदेश मंत्री मार्को रुबियो ने कहा कि राष्ट्रपति डोनाल्ड ट्रंप का मानना है कि पोलैंड वैश्विक नेताओं के इस मंच पर जगह पाने का हकदार है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दुनिया के बड़े आर्थिक मंच G20 में पोलैंड को क्यों शामिल देखना चाहता है अमेरिका?",
+          "summary": "अमेरिका ने जी-20 में पोलैंड की भागीदारी जारी रखने का समर्थन किया। मार्को रुबियो ने कहा कि ट्रंप पोलैंड को इस मंच पर जगह देने का पक्ष में हैं। अगली बैठकों में और देशों को आमंत्रित करने की उम्मीद जताई गई। अमेरिकी विदेश मंत्री मार्को रुबियो ने कहा कि राष्ट्रपति डोनाल्ड ट्रंप का मानना है कि पोलैंड वैश्विक नेताओं के इस मंच पर जगह पाने का हकदार है।",
+          "region": "यूरोप और रूस"
+        }
+      }
     },
     {
       "title": "बांग्लादेश को कैसे लूट रहा पाकिस्तान? मुस्लिम ब्रदरहुड के पीछे की असलियत हुई लीक, ट्रेड के बहाने हो",
@@ -574,186 +754,6 @@
           "title": "बाढ़ के बाद पाकिस्तान-ऑस्ट्रेलिया जैसे देशों में हुआ चमत्कार, पेड़ों पर बिछ गई ये ‘सफेद चीज’, जो",
           "summary": "ऑस्ट्रेलिया के विक्टोरिया और पाकिस्तान के सिंध में बाढ़ के बाद पेड़ों पर सफेद चीजें बिछ गईं। यह प्राकृतिक घटना स्थानीय जीव-जंतुओं के लिए महत्वपूर्ण प्रभाव डालती है। जब भी आसमान से मूसलाधार बारिश बरसती है और नदियां उफनकर बस्तियों में घुस आती हैं, तो चारों तरफ सिर्फ तबाही और बर्बादी का ही मंजर दिखाई देता है. इंसानों के लिए तो ये किसी बुरे सपने जैसा होता है, लेकिन क्या कभी आपने सोचा है कि उन बेजुबान और छोटे-छोटे जीव-जंतुओं पर क्या गुजरती होगी, जिनका आशियाना पानी में डूब जाता है?",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "एकता दिवस कार्यक्रम में शामिल हुए PM मोदी, थोड़ी देर में करेंगे संबोधित",
-      "url": "https://www.abplive.com/news/india/pm-modi-participate-in-rashtriya-ekta-diwas-celebrations-in-gujarat-sardar-patel-151st-birth-anniversary-3209311",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-31T12:35:17+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/17fb8ff1706f6d0f58bfc5d7ee616d2517934493633451368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "प्रधानमंत्री मोदी ने केवडिया में एकता दिवस समारोह में भाग लिया। उन्होंने सरदार पटेल की जयंती पर शपथ दिलाई। मोदी ने परेड की सलामी भी ली। प्रधानमंत्री नरेंद्र मोदी गुजरात के केवडिया में राष्ट्रीय एकता दिवस समारोह में शामिल हुए. पीएम मोदी ने सरदार वल्लभभाई पटेल की 151वीं जयंती, राष्ट्रीय एकता दिवस के मौके पर एकता की शपथ दिलाई. प्रधानमंत्री परेड की सलामी ले रहे हैं, थोड़ी देर में उनका संबोधन होगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एकता दिवस कार्यक्रम में शामिल हुए PM मोदी, थोड़ी देर में करेंगे संबोधित",
-          "summary": "प्रधानमंत्री मोदी ने केवडिया में एकता दिवस समारोह में भाग लिया। उन्होंने सरदार पटेल की जयंती पर शपथ दिलाई। मोदी ने परेड की सलामी भी ली। प्रधानमंत्री नरेंद्र मोदी गुजरात के केवडिया में राष्ट्रीय एकता दिवस समारोह में शामिल हुए. पीएम मोदी ने सरदार वल्लभभाई पटेल की 151वीं जयंती, राष्ट्रीय एकता दिवस के मौके पर एकता की शपथ दिलाई. प्रधानमंत्री परेड की सलामी ले रहे हैं, थोड़ी देर में उनका संबोधन होगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "खामेनेई ने सेना को दी खुली छूट, किसी भी खतरे का तुरंत और कहीं भी जवाब देने का दिया आदेश",
-      "url": "https://www.patrika.com/world-news/mojtaba-khamenei-orders-unrestricted-immediate-response-iran-army-21021341",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-10-31T12:23:22+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/mojtaba.webp",
-      "summary": "मोजतबा खामेनेई ने सेना के वरिष्ठ कमांडरों को किसी भी खतरे का बिना क्षेत्रीय सीमा के तुरंत जवाब देने का निर्देश दिया। यह जानकारी आईआरएनए समाचार एजेंसी के जरिए सामने आई। US Iran War: ईरान के सर्वोच्च नेता आयतुल्लाह मोजतबा खामेनेई ने सेना को किसी भी खतरे का बिना किसी क्षेत्रीय सीमा की चिंता किए तुरंत जवाब देने का आदेश दिया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "खामेनेई ने सेना को दी खुली छूट, किसी भी खतरे का तुरंत और कहीं भी जवाब देने का दिया आदेश",
-          "summary": "मोजतबा खामेनेई ने सेना के वरिष्ठ कमांडरों को किसी भी खतरे का बिना क्षेत्रीय सीमा के तुरंत जवाब देने का निर्देश दिया। यह जानकारी आईआरएनए समाचार एजेंसी के जरिए सामने आई। US Iran War: ईरान के सर्वोच्च नेता आयतुल्लाह मोजतबा खामेनेई ने सेना को किसी भी खतरे का बिना किसी क्षेत्रीय सीमा की चिंता किए तुरंत जवाब देने का आदेश दिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "JKNC-JUIAK के बीच नगर निकाय चुनावों के लिए कारगिल में गठबंधन, कांग्रेस से रिश्ता खत्म",
-      "url": "https://www.abplive.com/news/india/jknc-juiak-fight-together-17-kargil-municipal-seats-all-candidates-on-nc-symbol-alliance-broken-congress-ann-3209253",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-31T12:05:20+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/77464bbd8d4486588b6bb28333d400fa17934438356291484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "जेकेएनसी ने कारगिल नगर निकाय चुनावों के लिए जेयूआईएके के साथ गठबंधन किया। दोनों पार्टियां 17 सीटों पर सहयोग करेंगी। कांग्रेस से संबंध खत्म कर दिया गया। जम्मू और कश्मीर नेशनल कॉन्फ्रेंस (JKNC) ने कारगिल में होने वाले आगामी नगर निकाय चुनावों के लिए एक नया राजनीतिक गठबंधन किया है. पार्टी ने 'जमीयतुल उलेमा इस्ना अशरिया कारगिल' (JUIAK) - जिसे 'इस्लामिक स्कूल ऑफ कारगिल' के नाम से भी जाना जाता है - के साथ चुनावी तालमेल बिठाया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "JKNC-JUIAK के बीच नगर निकाय चुनावों के लिए कारगिल में गठबंधन, कांग्रेस से रिश्ता खत्म",
-          "summary": "जेकेएनसी ने कारगिल नगर निकाय चुनावों के लिए जेयूआईएके के साथ गठबंधन किया। दोनों पार्टियां 17 सीटों पर सहयोग करेंगी। कांग्रेस से संबंध खत्म कर दिया गया। जम्मू और कश्मीर नेशनल कॉन्फ्रेंस (JKNC) ने कारगिल में होने वाले आगामी नगर निकाय चुनावों के लिए एक नया राजनीतिक गठबंधन किया है. पार्टी ने 'जमीयतुल उलेमा इस्ना अशरिया कारगिल' (JUIAK) - जिसे 'इस्लामिक स्कूल ऑफ कारगिल' के नाम से भी जाना जाता है - के साथ चुनावी तालमेल बिठाया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नागपुर में ED की बड़ी कार्रवाई, बिल्डर के ठिकानों से 1.95 करोड़ रुपये कैश जब्त",
-      "url": "https://www.abplive.com/news/india/action-by-ed-in-nagpur-rs-1-95-crore-in-cash-seized-from-builders-premises-ann-3209290",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-31T12:05:04+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/fdf9e94f3a63ffe0c131095fb72e196717934476909051484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "प्रवर्तन निदेशालय ने नागपुर में बिल्डर शशांक पांडे के ठिकानों पर छापेमारी की। एजेंसी ने 1.95 करोड़ रुपये नकद जब्त किए। 40 लाख रुपये की बैंक रकम भी फ्रीज की गई। प्रवर्तन निदेशालय (ED) के नागपुर कार्यालय ने मनी लॉन्ड्रिंग की जांच के तहत नागपुर जिले में दो ठिकानों पर छापेमारी की. यह कार्रवाई प्रयाग डेवलपर्स एंड बिल्डर्स के मालिक शशांक गोविंद प्रसाद पांडे से जुड़े ठिकानों पर की गई.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नागपुर में ED की बड़ी कार्रवाई, बिल्डर के ठिकानों से 1.95 करोड़ रुपये कैश जब्त",
-          "summary": "प्रवर्तन निदेशालय ने नागपुर में बिल्डर शशांक पांडे के ठिकानों पर छापेमारी की। एजेंसी ने 1.95 करोड़ रुपये नकद जब्त किए। 40 लाख रुपये की बैंक रकम भी फ्रीज की गई। प्रवर्तन निदेशालय (ED) के नागपुर कार्यालय ने मनी लॉन्ड्रिंग की जांच के तहत नागपुर जिले में दो ठिकानों पर छापेमारी की. यह कार्रवाई प्रयाग डेवलपर्स एंड बिल्डर्स के मालिक शशांक गोविंद प्रसाद पांडे से जुड़े ठिकानों पर की गई.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "उमर अब्दुल्ला और निधि राजदान को शादी पर शशि थरूर ने यूं दी बधाई, कहा- 'शानदार खबर'",
-      "url": "https://www.abplive.com/news/india/shashi-tharoor-congratulate-nidhi-razdan-and-omar-abdullah-marriage-3209295",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-31T11:54:21+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/36cc9393dfb8be5c824822b432a9830e17934476145581324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "जम्मू कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने पत्रकार निधि राजदान से शादी की घोषणा की। कांग्रेस नेता शशि थरूर ने इस नई जोड़ी को बधाई दी और उन्हें ढेर सारी खुशियां दी। जम्मू कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने देश की जानी मानी पत्रकार निधि राजदान से शादी कर ली है. उन्होंने इसकी जानकारी सोशल मीडिया के जरिए दी. जैसे ही दोनों की शादी की फोटो वायरल हुई, उस पर शशि थरूर समेत कई नेताओं की प्रतिक्रिया भी सामने आई है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "उमर अब्दुल्ला और निधि राजदान को शादी पर शशि थरूर ने यूं दी बधाई, कहा- 'शानदार खबर'",
-          "summary": "जम्मू कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने पत्रकार निधि राजदान से शादी की घोषणा की। कांग्रेस नेता शशि थरूर ने इस नई जोड़ी को बधाई दी और उन्हें ढेर सारी खुशियां दी। जम्मू कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने देश की जानी मानी पत्रकार निधि राजदान से शादी कर ली है. उन्होंने इसकी जानकारी सोशल मीडिया के जरिए दी. जैसे ही दोनों की शादी की फोटो वायरल हुई, उस पर शशि थरूर समेत कई नेताओं की प्रतिक्रिया भी सामने आई है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'कांग्रेस शासन में 10 बार हुए SIR', संबित पात्रा बोले- 13 करोड़ वोट कटते तो लोग सड़कों पर होते",
-      "url": "https://www.abplive.com/news/india/sambit-patra-attack-congress-jawaharlal-nehru-sardar-patel-vote-theft-remark-3209284",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-31T11:41:31+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/805ab3ac4b7527a08c8f1aa6ff40ec0217934465206341115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "बीजेपी सांसद संबित पात्रा ने कांग्रेस पर वोट चोरी का आरोप लगाया। उन्होंने दावा किया कि नेहरू के समय पहली वोट चोरी हुई थी। पात्रा ने कहा कि 13 करोड़ वोट कटते तो जनता सड़कों पर उतर आती। बीजेपी सांसद संबित पात्रा प्रेस कॉन्फ्रेंस को संबोधित कर रहे हैं. उन्होंने विपक्षी दल पर निशाना साधा है. उन्होंने आरोप लगाते हुए कहा कि नेहरू के समय देश में पहली वोट चोरी हुई थी.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'कांग्रेस शासन में 10 बार हुए SIR', संबित पात्रा बोले- 13 करोड़ वोट कटते तो लोग सड़कों पर होते",
-          "summary": "बीजेपी सांसद संबित पात्रा ने कांग्रेस पर वोट चोरी का आरोप लगाया। उन्होंने दावा किया कि नेहरू के समय पहली वोट चोरी हुई थी। पात्रा ने कहा कि 13 करोड़ वोट कटते तो जनता सड़कों पर उतर आती। बीजेपी सांसद संबित पात्रा प्रेस कॉन्फ्रेंस को संबोधित कर रहे हैं. उन्होंने विपक्षी दल पर निशाना साधा है. उन्होंने आरोप लगाते हुए कहा कि नेहरू के समय देश में पहली वोट चोरी हुई थी.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'वो इंसानों के लिए नहीं था', 2 मिनट की मौत के बाद लौटा शख्स, दूसरी दुनिया से ले आया अभिशाप",
-      "url": "https://hindi.news18.com/news/ajab-gajab/viral-nurse-return-from-death-saw-things-in-afterlife-was-not-meant-for-humans-his-mexico-farms-ruined-in-hurricane-became-bankrupt-10952842.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-31T11:37:09+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Mexico-man-see-afterlife-world-2026-10-bfbb89966b0acc1a5489abcbbe3ac8d8-1200x800.jpg",
-      "summary": "एक पूर्व नर्स ने दावा किया कि सांस थमने के बाद उन्हें परलोक की दुनिया दिखी। उन्होंने ऐसी चीजें देखीं जो इंसानों को नहीं देखनी चाहिए थीं। इस अनुभव ने उनकी व्यक्तिगत जिंदगी को प्रभावित किया। एक पूर्व नर्स जिसकी सासें कुछ मिनटों के लिए थम गई थीं, उन्होंने दावा किया कि मरने के बाद उन्होंने परलोक की एक बहुत ही खूबसूरत दुनिया देखी.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'वो इंसानों के लिए नहीं था', 2 मिनट की मौत के बाद लौटा शख्स, दूसरी दुनिया से ले आया अभिशाप",
-          "summary": "एक पूर्व नर्स ने दावा किया कि सांस थमने के बाद उन्हें परलोक की दुनिया दिखी। उन्होंने ऐसी चीजें देखीं जो इंसानों को नहीं देखनी चाहिए थीं। इस अनुभव ने उनकी व्यक्तिगत जिंदगी को प्रभावित किया। एक पूर्व नर्स जिसकी सासें कुछ मिनटों के लिए थम गई थीं, उन्होंने दावा किया कि मरने के बाद उन्होंने परलोक की एक बहुत ही खूबसूरत दुनिया देखी.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'जन-महाभियोग' प्रस्ताव रख खरगे ने लगाए 6 आरोप, BJP बोली- पहली वोट चोरी नेहरू जी ने की",
-      "url": "https://www.abplive.com/news/india/rss-objected-right-to-vote-mallikarjun-kharge-attack-india-bloc-symbolic-impeachment-programme-3209276",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-31T11:27:04+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/5487fecfe0e166571c97fe69be350d1517934465687431324_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने मॉक पार्लियामेंट में ज्ञानेश कुमार को हटाने का प्रस्ताव रखा। उन्होंने चुनाव चोरी और 13.2 करोड़ वोटर्स के नाम डिलीट करने जैसे छह आरोप लगाए। बीजेपी ने जवाब में नेहरू पर वोट चोरी का आरोप लगाया। कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे ने मॉक पार्लियामेंट में ज्ञानेश कुमार को हटाने के लिए एक प्रस्ताव पेश किया.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'जन-महाभियोग' प्रस्ताव रख खरगे ने लगाए 6 आरोप, BJP बोली- पहली वोट चोरी नेहरू जी ने की",
-          "summary": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने मॉक पार्लियामेंट में ज्ञानेश कुमार को हटाने का प्रस्ताव रखा। उन्होंने चुनाव चोरी और 13.2 करोड़ वोटर्स के नाम डिलीट करने जैसे छह आरोप लगाए। बीजेपी ने जवाब में नेहरू पर वोट चोरी का आरोप लगाया। कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे ने मॉक पार्लियामेंट में ज्ञानेश कुमार को हटाने के लिए एक प्रस्ताव पेश किया.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आसमान में कौन सजा देता है हरे-गुलाबी रंगों के पर्दे? खूबसूरत ऑरोरा के पीछे छिपा है साइंस",
-      "url": "https://hindi.news18.com/world/america-how-aurora-solar-storm-form-earth-danger-india-aurora-visibility-photogallery-10952575.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-10-31T11:05:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/thumb-2026-10-1f155b9d6316a4a38ef5f5901254d6f3-1200x800.jpg",
-      "summary": "Charged particles from solar wind striking ऑरोरा आसमान में दिखने वाली हरे, गुलाबी, लाल और बैंगनी रंगों की खूबसूरत रोशनी है. यह सूरज से आने वाले आवेशित कणों के पृथ्वी के चुंबकीय क्षेत्र और वायुमंडल की गैसों से टकराने पर बनती है. ऑरोरा खुद इंसानों के लिए खतरनाक नहीं है, लेकिन इसके पीछे आने वाला शक्तिशाली सौर तूफान सैटेलाइट, GPS, रेडियो कम्युनिकेशन और बिजली नेटवर्क को प्रभावित कर सकता है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आसमान में कौन सजा देता है हरे-गुलाबी रंगों के पर्दे? खूबसूरत ऑरोरा के पीछे छिपा है साइंस",
-          "summary": "Charged particles from solar wind striking ऑरोरा आसमान में दिखने वाली हरे, गुलाबी, लाल और बैंगनी रंगों की खूबसूरत रोशनी है. यह सूरज से आने वाले आवेशित कणों के पृथ्वी के चुंबकीय क्षेत्र और वायुमंडल की गैसों से टकराने पर बनती है. ऑरोरा खुद इंसानों के लिए खतरनाक नहीं है, लेकिन इसके पीछे आने वाला शक्तिशाली सौर तूफान सैटेलाइट, GPS, रेडियो कम्युनिकेशन और बिजली नेटवर्क को प्रभावित कर सकता है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'दुकानदार जी, नुकसान आपका, रैली हमारी', महारैली पर BJP ने कांग्रेस पर कसा तंज",
-      "url": "https://www.abplive.com/news/india/bjp-dig-congress-over-mega-rally-ramleela-maidan-delhi-sudhanshu-trivedi-rahul-gandhi-3209234",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-10-31T11:05:25+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/74f49380073d416a8ae998b19669f14617934401952031324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "बीजेपी ने 1 नवंबर की कांग्रेस महारैली पर तंज कसा। पार्टी ने कांग्रेस को व्यापारी विरोधी बताया और सोशल मीडिया पर व्यंग्यात्मक पोस्ट शेयर किया। पोस्ट में दुकानदारों के नुकसान और रैली के फायदे का हवाला दिया गया। बीजेपी 1 नवंबर को रामलीला मैदान पर कांग्रेस के नेतृत्व में होने वाली महारैली पर हमलावर है. अब बीजेपी ने अपने सोशल मीडिया पर कांग्रेस को व्यापारी विरोधी बताया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'दुकानदार जी, नुकसान आपका, रैली हमारी', महारैली पर BJP ने कांग्रेस पर कसा तंज",
-          "summary": "बीजेपी ने 1 नवंबर की कांग्रेस महारैली पर तंज कसा। पार्टी ने कांग्रेस को व्यापारी विरोधी बताया और सोशल मीडिया पर व्यंग्यात्मक पोस्ट शेयर किया। पोस्ट में दुकानदारों के नुकसान और रैली के फायदे का हवाला दिया गया। बीजेपी 1 नवंबर को रामलीला मैदान पर कांग्रेस के नेतृत्व में होने वाली महारैली पर हमलावर है. अब बीजेपी ने अपने सोशल मीडिया पर कांग्रेस को व्यापारी विरोधी बताया है.",
-          "region": "दुनिया"
         }
       }
     }
