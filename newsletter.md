@@ -1,14 +1,60 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 31, 2026 13:08 IST
+**Updated:** October 31, 2026 19:27 IST
+
+---
+
+## Europe & Russia
+
+### [The Way They Live Now In A Frigid Siberian Town](https://www.rferl.org/a/russia-food-shortages-war-remote-siberia/33887359.html)
+*Radio Free Europe / Liberty* - Oct 31, 18:15 IST (iso: 2026-10-31T12:45:45+00:00)
+<!-- image: https://gdb.rferl.org/84325cc2-89a7-4ed8-6a79-08df13a87200_cx0_cy7_cw0_w1200_h630.jpg -->
+
+Residents of Tura, Siberia, queued for hours in minus 15 degree cold to buy scarce staples at high prices. The shortages stem from geographic isolation and local mismanagement. Russia's ongoing war in Ukraine has further strained the town's supply chains and economic stability. The scene outside Tura's main food store looked like something from the Soviet era: With the mercury at -15 C, residents lined up for hours to pay high prices for staples short supply.
+
+### [Evacuations, Humanitarian Mission Begin In Russian-Occupied Ukrainian City Of Oleshky](https://www.rferl.org/a/evacuations-humanitarian-mission-begin-in-russian-occupied-ukrainian-city-of-oleshky/33887434.html)
+*Radio Free Europe / Liberty* - Oct 30, 19:10 IST (iso: 2026-10-30T13:40:23+00:00)
+<!-- image: https://gdb.rferl.org/88523f6d-a5dd-40c6-b3c2-75f984e9dc9c_cx12_cy0_cw85_w1200_h630.jpg -->
+
+Humanitarian aid and evacuations began in Russian-occupied Oleshky under a new cease-fire. Ukrainian authorities prepared 25 buses and ambulances to move residents. Delegations from both sides arrived to coordinate the process. Remaining civilians will receive humanitarian assistance. Ukrainian and Russian delegations have arrived in Russian-occupied Oleshky as a cease-fire allows humanitarian aid deliveries and civilian evacuations. Ukraine has prepared 25 buses and ambulances to evacuate residents, while those who remain will receive humanitarian assistance.
+
+### [Evacuation From Oleshky Completed As Buses Head To Ukraine, Russia](https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html)
+*Radio Free Europe / Liberty* - Oct 30, 12:00 IST (iso: 2026-10-30T06:30:17+00:00)
+<!-- image: https://gdb.rferl.org/c50599d3-9b46-4fcf-493b-08df13a884cb_w1200_h630.jpg -->
+
+Ukrainian residents left the Russian‑occupied city of Oleshky on buses for the first time in more than four years. The US‑brokered truce, running until Moscow and Kyiv say the evacuation of residents from the Russian-occupied Ukrainian city of Oleshky was completed "without incident," as buses filled with civilians left the area for the first time in more than four years under a US-brokered truce that is set to remain in effect until November 1.
+
+### [The rise of the nuclear hexagon and the future of Asian stability](https://asiatimes.com/2026/10/the-rise-of-the-nuclear-hexagon-and-the-future-of-asian-stability/)
+*Asia Times* - Oct 30, 03:47 IST (iso: 2026-10-29T22:17:18+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/11/India-Missile-Nukes.jpg -->
+
+US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangle while treating the China-India-Pakistan dynamic as a secondary regional issue. This oversight complicates stability in Asia, where nuclear postures are shifting. Washington’s focus on the northern axis leaves gaps in understanding southern Asian deterrence. The article argues that a cohesive approach is needed to address the evolving nuclear hexagon. Originally published by Pacific Forum, this article is republished with permission.
+
+### [The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It](https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html)
+*Radio Free Europe / Liberty* - Oct 29, 23:15 IST (iso: 2026-10-29T17:45:31+00:00)
+<!-- image: https://gdb.rferl.org/9328435A-7CA8-4912-A16F-2101F8913E3E_cx0_cy2_cw0_w1200_h630.jpg -->
+
+Washington is considering lifting sanctions on the Russian Direct Investment Fund. The fund's chief serves as the Kremlin's main negotiator with the White House. This move aims to normalize US-Russian ties. It also supports ongoing efforts to end the Ukraine war. Amid the swirl of efforts to end to the Ukraine war and normalize US-Russian ties, one idea under consideration: lifting sanctions on a massive Russian investment fund, whose chief is the Kremlin’s main go-between with White House negotiators.
+
+### [Moldovan President Calls Security Meeting After Massive Data Breach](https://www.rferl.org/a/moldova-cyberattack-data-breach-750000-sandu/33886733.html)
+*Radio Free Europe / Liberty* - Oct 29, 21:25 IST (iso: 2026-10-29T15:55:21+00:00)
+<!-- image: https://gdb.rferl.org/f632ed6a-4ca4-482f-462b-08df13aec0bb_cx0_cy0_cw99_w1200_h630.jpeg -->
+
+Moldovan President Maia Sandu convened a national security meeting after a cyberattack exposed data for 750,000 people. Authorities are investigating possible foreign involvement. The attack may have utilized artificial intelligence tools to scale the breach across government systems. Moldovan President Maia Sandu has called a national security meeting after a major cyberattack exposed personal data linked to some 750,000 people.
+
+### [Russian Drone Attack Kills 14 In Dnipro As Oleshky Truce Enters Third Day](https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html)
+*Radio Free Europe / Liberty* - Oct 29, 06:47 IST (iso: 2026-10-29T01:17:39+00:00)
+<!-- image: https://gdb.rferl.org/6d2f9ac8-72e0-4191-874b-47e83bfd878f_cx0_cy2_cw0_w1200_h630.jpg -->
+
+The fragile cease-fire around Russian-occupied Oleshky reached its third day on October 29. Civilians face severe shortages and dangerous escape routes. Fears persist that Russia may use the pause to forcibly transfer residents to occupied Crimea. A fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29, offering hope to thousands of civilians facing severe shortages and perilous escape routes, amid fears that Russia could use the pause to forcibly transfer residents to Russia or occupied Crimea.
 
 ---
 
 ## Global / Multilateral
 
 ### [Nations commit to get nature goals back on track at UN nature summit](https://www.thehindu.com/news/international/nations-commit-to-get-nature-goals-back-on-track-at-un-nature-summit/article71648500.ece)
-*The Hindu (International)* - Oct 31, 12:58 IST (iso: 2026-10-31T07:28:40+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ln63kl/article71648576.ece/alternates/LANDSCAPE_1200/AFP__20261016__D3G93BC__v1__HighRes__ArmeniaUnCop17BiodiversityEnvironment.jpg -->
+*The Hindu (International)* - Oct 31, 13:08 IST (iso: 2026-10-31T07:38:05+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/xdbm72/article71648576.ece/alternates/LANDSCAPE_1200/AFP__20261016__D3G93BC__v1__HighRes__ArmeniaUnCop17BiodiversityEnvironment.jpg -->
 
 Nations pledged to reverse course on biodiversity targets at the UN summit. The 2030 goals require protecting 30 percent of land and oceans. Current progress falls short of pollution and invasive species mandates. Conservation funding remains critically low. The United Nations had warned that progress was insufficient to meet the goals of the 2030 target including protecting 30% of Earth’s land and oceans, tackling pollution and invasive species, and boosting money for conservation.
 
@@ -17,6 +63,28 @@ Nations pledged to reverse course on biodiversity targets at the UN summit. The 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/29-10-2026_Adobe-_Shipping-lane.jpg/image560x340cropped.jpg -->
 
 The UN Security Council debated how cheap drones, autonomous vessels, and cyberattacks threaten global shipping. Delegates examined how these emerging technologies endanger seafarers and supply chains. They also discussed tools to protect trade and energy flows. Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.
+
+---
+
+## World
+
+### [AI giants promise publishers new way to block some scraping](https://www.channelnewsasia.com/world/ai-giants-promise-publishers-new-way-block-some-scraping-6509181)
+*Channel News Asia* - Oct 31, 11:17 IST (iso: 2026-10-31T05:47:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--1z01phZV--/c_crop,h_449,w_799,x_1,y_36/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-28T085527Z_1_LYNXNPEM9R0RI_RTROPTP_3_AI-CADENCE-CHIPS.JPG?itok=xCmgfRPW -->
+
+Major AI companies proposed a single, standardized instruction for publishers to block data scraping. This replaces the current need for multiple, bot-specific blocking commands. The new system aims to simplify content protection for websites facing automated data collection. Publishers currently have to implement multiple blocking commands for every bot that crawls the web to collect data, but the new proposed solution will allow them to enter a single, standardised instruction that's recognised and honoured.
+
+### [Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue](https://news.un.org/feed/view/en/story/2026/10/1168712)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image770x420cropped.jpg -->
+
+The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians. He emphasized that residents must be able to leave safely and voluntarily. Attacks on aid vehicles continue despite the pause in fighting. Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.
+
+### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
+*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image770x420cropped.jpg -->
+
+Artificial intelligence tools now handle emails, reports, and complex queries in seconds. Many users perceive this shift as comparable to the internet's arrival. The rapid integration of AI into daily workflows raises questions about how quickly humans will adapt to these cognitive changes. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
 
 ---
 
@@ -37,18 +105,6 @@ Flavio Bolsonaro fled to the United States after losing the Brazilian election. 
 ---
 
 ## Asia-Pacific
-
-### [U.S., South Korea, Japan vow ‘complete’ North Korea’s denuclearisation](https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece)
-*The Hindu (International)* - Oct 31, 08:58 IST (iso: 2026-10-31T03:28:23+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/njkv9v/article71648164.ece/alternates/LANDSCAPE_1200/2026-10-30T064256Z_417233320_RC29DOACZ2FD_RTRMADP_3_NORTHKOREA-ARMS.JPG -->
-
-The United States, South Korea, and Japan vowed to achieve complete North Korean denuclearisation. Speculation grows over a potential Trump and Kim Jong Un meeting. The APEC summit in China is next month. Trump has made repeated overtures for nuclear talks. Speculation is mounting over a potential meeting between U. S. President Donald Trump and North Korean leader Kim Jong Un at next month’s APEC summit in China, with Mr.
-
-### [U.S. imprisons two Chinese nationals for spying](https://www.thehindu.com/news/international/us-imprisons-two-chinese-nationals-for-spying/article71648068.ece)
-*The Hindu (International)* - Oct 31, 07:59 IST (iso: 2026-10-31T02:29:55+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ka92k0/article71648075.ece/alternates/LANDSCAPE_1200/2026-10-09T160013Z_293896812_RC26JEA8R5VF_RTRMADP_3_USA-CYBER-SHINYHUNTERS.JPG -->
-
-The U. S. Department of Justice announced the imprisonment of two Chinese nationals for conducting clandestine intelligence operations on American soil. The men facilitated dead drop cash payments in exchange for information related to U. national security. This action marks a direct law enforcement response to foreign espionage activities within the country. The arrests highlight ongoing efforts to counter state-sponsored intelligence gathering.
 
 ### [Regardless of psywar campaign, Taiwan shouldn’t rush to surrender](https://asiatimes.com/2026/10/regardless-of-psywar-campaign-taiwan-shouldnt-rush-to-surrender/)
 *Asia Times* - Oct 31, 02:24 IST (iso: 2026-10-30T20:54:20+00:00)
@@ -108,12 +164,6 @@ UNHCR reported that over 280,000 people have been displaced by fighting in Yemen
 
 Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain and strong winds will continue affecting south-eastern Europe and Turkey for several days. A low-pressure system is driving the severe weather across the region. Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.
 
-### ['A Reasonable Price': Inside Iran's Illicit Trade In Babies](https://www.rferl.org/a/iran-selling-babies-telegram-illegal/33886696.html)
-*Radio Free Europe / Liberty* - Oct 29, 23:39 IST (iso: 2026-10-29T18:09:33+00:00)
-<!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
-
-Intermediaries on Iranian Telegram channels sell newborns for up to 1,100 dollars. They disguise the trade as charity work. Some falsify birth records to hide the transactions. Others arrange placements with families abroad. This violates the ban on baby sales. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
-
 ### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
 *UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image560x340cropped.jpg -->
@@ -125,56 +175,6 @@ UN investigators reported that El Obeid civilians face drone strikes from the Ra
 <!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Crisis Group experts Lucian Kim, Stephen Pomper, and Fabienne Hara discussed the widening rift between Washington and Kyiv. They analyzed Russia's intensifying attacks on Ukrainian infrastructure. The conversation also covered European capitals' efforts to bolster Ukraine while facing their own domestic pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
-
----
-
-## Europe & Russia
-
-### [Evacuations, Humanitarian Mission Begin In Russian-Occupied Ukrainian City Of Oleshky](https://www.rferl.org/a/evacuations-humanitarian-mission-begin-in-russian-occupied-ukrainian-city-of-oleshky/33887434.html)
-*Radio Free Europe / Liberty* - Oct 30, 19:10 IST (iso: 2026-10-30T13:40:23+00:00)
-<!-- image: https://gdb.rferl.org/88523f6d-a5dd-40c6-b3c2-75f984e9dc9c_cx12_cy0_cw85_w1200_h630.jpg -->
-
-Humanitarian aid and evacuations began in Russian-occupied Oleshky under a new cease-fire. Ukrainian authorities prepared 25 buses and ambulances to move residents. Delegations from both sides arrived to coordinate the process. Remaining civilians will receive humanitarian assistance. Ukrainian and Russian delegations have arrived in Russian-occupied Oleshky as a cease-fire allows humanitarian aid deliveries and civilian evacuations. Ukraine has prepared 25 buses and ambulances to evacuate residents, while those who remain will receive humanitarian assistance.
-
-### [Evacuation From Oleshky Completed As Buses Head To Ukraine, Russia](https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html)
-*Radio Free Europe / Liberty* - Oct 30, 12:00 IST (iso: 2026-10-30T06:30:17+00:00)
-<!-- image: https://gdb.rferl.org/c50599d3-9b46-4fcf-493b-08df13a884cb_w1200_h630.jpg -->
-
-Ukrainian residents left the Russian‑occupied city of Oleshky on buses for the first time in more than four years. The US‑brokered truce, running until Moscow and Kyiv say the evacuation of residents from the Russian-occupied Ukrainian city of Oleshky was completed "without incident," as buses filled with civilians left the area for the first time in more than four years under a US-brokered truce that is set to remain in effect until November 1.
-
-### [The rise of the nuclear hexagon and the future of Asian stability](https://asiatimes.com/2026/10/the-rise-of-the-nuclear-hexagon-and-the-future-of-asian-stability/)
-*Asia Times* - Oct 30, 03:47 IST (iso: 2026-10-29T22:17:18+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/11/India-Missile-Nukes.jpg -->
-
-US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangle while treating the China-India-Pakistan dynamic as a secondary regional issue. This oversight complicates stability in Asia, where nuclear postures are shifting. Washington’s focus on the northern axis leaves gaps in understanding southern Asian deterrence. The article argues that a cohesive approach is needed to address the evolving nuclear hexagon. Originally published by Pacific Forum, this article is republished with permission.
-
-### [The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It](https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html)
-*Radio Free Europe / Liberty* - Oct 29, 23:15 IST (iso: 2026-10-29T17:45:31+00:00)
-<!-- image: https://gdb.rferl.org/9328435A-7CA8-4912-A16F-2101F8913E3E_cx0_cy2_cw0_w1200_h630.jpg -->
-
-Washington is considering lifting sanctions on the Russian Direct Investment Fund. The fund's chief serves as the Kremlin's main negotiator with the White House. This move aims to normalize US-Russian ties. It also supports ongoing efforts to end the Ukraine war. Amid the swirl of efforts to end to the Ukraine war and normalize US-Russian ties, one idea under consideration: lifting sanctions on a massive Russian investment fund, whose chief is the Kremlin’s main go-between with White House negotiators.
-
-### [Moldovan President Calls Security Meeting After Massive Data Breach](https://www.rferl.org/a/moldova-cyberattack-data-breach-750000-sandu/33886733.html)
-*Radio Free Europe / Liberty* - Oct 29, 21:25 IST (iso: 2026-10-29T15:55:21+00:00)
-<!-- image: https://gdb.rferl.org/f632ed6a-4ca4-482f-462b-08df13aec0bb_cx0_cy0_cw99_w1200_h630.jpeg -->
-
-Moldovan President Maia Sandu convened a national security meeting after a cyberattack exposed data for 750,000 people. Authorities are investigating possible foreign involvement. The attack may have utilized artificial intelligence tools to scale the breach across government systems. Moldovan President Maia Sandu has called a national security meeting after a major cyberattack exposed personal data linked to some 750,000 people.
-
-### [Russian Drone Attack Kills 14 In Dnipro As Oleshky Truce Enters Third Day](https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html)
-*Radio Free Europe / Liberty* - Oct 29, 06:47 IST (iso: 2026-10-29T01:17:39+00:00)
-<!-- image: https://gdb.rferl.org/6d2f9ac8-72e0-4191-874b-47e83bfd878f_cx0_cy2_cw0_w1200_h630.jpg -->
-
-The fragile cease-fire around Russian-occupied Oleshky reached its third day on October 29. Civilians face severe shortages and dangerous escape routes. Fears persist that Russia may use the pause to forcibly transfer residents to occupied Crimea. A fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29, offering hope to thousands of civilians facing severe shortages and perilous escape routes, amid fears that Russia could use the pause to forcibly transfer residents to Russia or occupied Crimea.
-
----
-
-## World
-
-### [Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue](https://news.un.org/feed/view/en/story/2026/10/1168712)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image770x420cropped.jpg -->
-
-The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians. He emphasized that residents must be able to leave safely and voluntarily. Attacks on aid vehicles continue despite the pause in fighting. Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.
 
 ---
 
