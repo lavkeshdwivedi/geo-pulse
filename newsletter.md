@@ -1,10 +1,74 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** October 31, 2026 19:27 IST
+**Updated:** October 31, 2026 23:34 IST
+
+---
+
+## Middle East & Africa
+
+### [UN ends its Somalia political mission after three decades](https://www.thehindu.com/news/international/un-ends-its-somalia-political-mission-after-three-decades/article71650522.ece)
+*The Hindu (International)* - Oct 31, 22:17 IST (iso: 2026-10-31T16:47:33+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/bj6mro/article71650552.ece/alternates/LANDSCAPE_1200/iStock-1404313318%201.jpg -->
+
+The United Nations ended its political mission in Somalia after three decades of operation. UNSOM was established in 2013 to support the country's transition to democracy. The departure marks the conclusion of a long-standing international effort to stabilize the region. UNSOM was established by the UN Security Council in 2013 to support Somali authorities in the transition to democracy and the rule of law after more than two decades of conflict involving militias, Islamist groups and criminal gangs.
+
+### [Kosovo Protests Grow Over Killing Of Woman Who Pleaded For Police Protection](https://www.rferl.org/a/kosovo-domestic-violence-women-protests-police/33887610.html)
+*Radio Free Europe / Liberty* - Oct 31, 00:57 IST (iso: 2026-10-30T19:27:42+00:00)
+<!-- image: https://gdb.rferl.org/8a7cea16-02ec-4e31-eaeb-08df13afe2a0_w1200_h630.jpg -->
+
+Protests spread across Kosovo following the killing of a woman who repeatedly sought police protection. An official investigation revealed multiple institutional failures. A prosecutor refused to act on a specific death threat against the victim. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
+
+### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg -->
+
+Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
+
+### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image770x420cropped.jpg -->
+
+The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
+
+### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image770x420cropped.jpg -->
+
+UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.
+
+### [Severe rainfall and flood warnings issued for central Greece and western Turkey](https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey)
+*The Guardian* - Oct 30, 15:37 IST (iso: 2026-10-30T10:07:16+00:00)
+<!-- image: https://i.guim.co.uk/img/media/e1f1bd4154ea2df2adc895c6066b1f8bd5aa527c/177_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bbef3cbcc8f61488652e5eb9dc56704 -->
+
+Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain and strong winds will continue affecting south-eastern Europe and Turkey for several days. A low-pressure system is driving the severe weather across the region. Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.
+
+### ['A Reasonable Price': Inside Iran's Illicit Trade In Babies](https://www.rferl.org/a/iran-selling-babies-telegram-illegal/33886696.html)
+*Radio Free Europe / Liberty* - Oct 29, 23:39 IST (iso: 2026-10-29T18:09:33+00:00)
+<!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
+
+Intermediaries on Iranian Telegram channels are selling newborns for up to 1,100 dollars. They offer to falsify birth records and arrange placements abroad. This illicit trade continues despite a national ban on the sale of babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
+
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group experts Lucian Kim, Stephen Pomper, and Fabienne Hara discussed the widening rift between Washington and Kyiv. They analyzed Russia's intensifying attacks on Ukrainian infrastructure. The conversation also covered European capitals' efforts to bolster Ukraine while facing their own domestic pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
+
+### [How Algeria’s Rupture with the UAE Could Roil the Region](https://www.crisisgroup.org/cmt/middle-east-north-africa/algeria-united-arab-emirates/how-algerias-rupture-uae-could-roil-region)
+*International Crisis Group* - Oct 23, 16:28 IST (iso: 2026-10-23T10:58:00+00:00)
+<!-- image: https://images.pexels.com/photos/18128696/pexels-photo-18128696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Algeria severed diplomatic ties with the United Arab Emirates after years of regional discord. The dispute stems from conflicts in North Africa and the Sahel. The rupture risks destabilizing the broader region. Algiers has severed diplomatic ties with Abu Dhabi, following years of discord over crises in North Africa and the Sahel. The two countries see their dispute very differently, but it has nonetheless become a rivalry that could put regional stability at risk.
 
 ---
 
 ## Europe & Russia
+
+### [Tears Of Joy As Ukrainians Evacuated From Russian-Occupied Oleshky Reunite With Family](https://www.rferl.org/a/tears-of-joy-as-ukrainians-evacuated-from-russian-occupied-oleshky-reunite-with-family/33888013.html)
+*Radio Free Europe / Liberty* - Oct 31, 20:41 IST (iso: 2026-10-31T15:11:50+00:00)
+<!-- image: https://gdb.rferl.org/250c3973-6568-4c2f-4e59-08df13aec0bb_w1200_h630.jpg -->
+
+Hundreds of residents evacuated from Russian-occupied Oleshky reunited with family in Ukrainian territory. A convoy of 25 buses facilitated the transfer after a US-brokered cease-fire. The residents had lived under occupation for nearly four years. After nearly four years under Russian occupation, hundreds of residents from the southern Ukrainian city of Oleshky have arrived in Ukrainian-controlled territory following a cease-fire brokered by US first lady Melania Trump.
 
 ### [The Way They Live Now In A Frigid Siberian Town](https://www.rferl.org/a/russia-food-shortages-war-remote-siberia/33887359.html)
 *Radio Free Europe / Liberty* - Oct 31, 18:15 IST (iso: 2026-10-31T12:45:45+00:00)
@@ -42,69 +106,15 @@ Washington is considering lifting sanctions on the Russian Direct Investment Fun
 
 Moldovan President Maia Sandu convened a national security meeting after a cyberattack exposed data for 750,000 people. Authorities are investigating possible foreign involvement. The attack may have utilized artificial intelligence tools to scale the breach across government systems. Moldovan President Maia Sandu has called a national security meeting after a major cyberattack exposed personal data linked to some 750,000 people.
 
-### [Russian Drone Attack Kills 14 In Dnipro As Oleshky Truce Enters Third Day](https://www.rferl.org/a/oleshky-ukraine-russia-melania-trump-ceasefire/33886379.html)
-*Radio Free Europe / Liberty* - Oct 29, 06:47 IST (iso: 2026-10-29T01:17:39+00:00)
-<!-- image: https://gdb.rferl.org/6d2f9ac8-72e0-4191-874b-47e83bfd878f_cx0_cy2_cw0_w1200_h630.jpg -->
-
-The fragile cease-fire around Russian-occupied Oleshky reached its third day on October 29. Civilians face severe shortages and dangerous escape routes. Fears persist that Russia may use the pause to forcibly transfer residents to occupied Crimea. A fragile cease-fire around Russian-occupied Oleshky entered its third day on October 29, offering hope to thousands of civilians facing severe shortages and perilous escape routes, amid fears that Russia could use the pause to forcibly transfer residents to Russia or occupied Crimea.
-
----
-
-## Global / Multilateral
-
-### [Nations commit to get nature goals back on track at UN nature summit](https://www.thehindu.com/news/international/nations-commit-to-get-nature-goals-back-on-track-at-un-nature-summit/article71648500.ece)
-*The Hindu (International)* - Oct 31, 13:08 IST (iso: 2026-10-31T07:38:05+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/xdbm72/article71648576.ece/alternates/LANDSCAPE_1200/AFP__20261016__D3G93BC__v1__HighRes__ArmeniaUnCop17BiodiversityEnvironment.jpg -->
-
-Nations pledged to reverse course on biodiversity targets at the UN summit. The 2030 goals require protecting 30 percent of land and oceans. Current progress falls short of pollution and invasive species mandates. Conservation funding remains critically low. The United Nations had warned that progress was insufficient to meet the goals of the 2030 target including protecting 30% of Earth’s land and oceans, tackling pollution and invasive species, and boosting money for conservation.
-
-### [Can new technology keep the world’s sea lanes safe?](https://news.un.org/feed/view/en/story/2026/10/1168698)
-*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/29-10-2026_Adobe-_Shipping-lane.jpg/image560x340cropped.jpg -->
-
-The UN Security Council debated how cheap drones, autonomous vessels, and cyberattacks threaten global shipping. Delegates examined how these emerging technologies endanger seafarers and supply chains. They also discussed tools to protect trade and energy flows. Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.
-
----
-
-## World
-
-### [AI giants promise publishers new way to block some scraping](https://www.channelnewsasia.com/world/ai-giants-promise-publishers-new-way-block-some-scraping-6509181)
-*Channel News Asia* - Oct 31, 11:17 IST (iso: 2026-10-31T05:47:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--1z01phZV--/c_crop,h_449,w_799,x_1,y_36/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-28T085527Z_1_LYNXNPEM9R0RI_RTROPTP_3_AI-CADENCE-CHIPS.JPG?itok=xCmgfRPW -->
-
-Major AI companies proposed a single, standardized instruction for publishers to block data scraping. This replaces the current need for multiple, bot-specific blocking commands. The new system aims to simplify content protection for websites facing automated data collection. Publishers currently have to implement multiple blocking commands for every bot that crawls the web to collect data, but the new proposed solution will allow them to enter a single, standardised instruction that's recognised and honoured.
-
-### [Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue](https://news.un.org/feed/view/en/story/2026/10/1168712)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image770x420cropped.jpg -->
-
-The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians. He emphasized that residents must be able to leave safely and voluntarily. Attacks on aid vehicles continue despite the pause in fighting. Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.
-
-### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
-*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image770x420cropped.jpg -->
-
-Artificial intelligence tools now handle emails, reports, and complex queries in seconds. Many users perceive this shift as comparable to the internet's arrival. The rapid integration of AI into daily workflows raises questions about how quickly humans will adapt to these cognitive changes. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
-
----
-
-## Americas
-
-### [Flavio Bolsonaro says he left Brazil because he is the victim of 'persecution'](https://www.thehindu.com/news/international/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution/article71648100.ece)
-*The Hindu (International)* - Oct 31, 09:59 IST (iso: 2026-10-31T04:29:17+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/8ahhp1/article71648113.ece/alternates/LANDSCAPE_1200/2026-10-30T100011Z_620004563_RC2ECOAK2QK5_RTRMADP_3_USA-TRUMP-BRAZIL-BOLSONARO.JPG -->
-
-Flavio Bolsonaro fled Brazil after his passports were cancelled. He cited a money laundering investigation as the cause. In an Instagram livestream, he claimed he is a victim of political persecution. He stated the harassment began earlier than expected. "The persecution began even sooner than I imagined," Mr. Bolsonaro said during an Instagram livestream in which he discussed his decision to flee after his Brazilian passports were cancelled as part of a money laundering investigation.
-
-### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
-*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
-
-Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
-
 ---
 
 ## Asia-Pacific
+
+### [Isolation deepens even as the country changes, says UN rights official](https://news.un.org/feed/view/en/story/2026/10/1168690)
+*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/26-10-2026_james_heenan.jpg/image770x420cropped.jpg -->
+
+A UN rights official stated North Korea is more isolated than ever despite internal development. The country is building infrastructure and rolling out mobile banking. However, its population remains cut off from the outside world. The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate.
 
 ### [Regardless of psywar campaign, Taiwan shouldn’t rush to surrender](https://asiatimes.com/2026/10/regardless-of-psywar-campaign-taiwan-shouldnt-rush-to-surrender/)
 *Asia Times* - Oct 31, 02:24 IST (iso: 2026-10-30T20:54:20+00:00)
@@ -132,49 +142,39 @@ Washington added three Shenzhen-based firms to the Uyghur Forced Labor Preventio
 
 ---
 
-## Middle East & Africa
+## Americas
 
-### [Kosovo Protests Grow Over Killing Of Woman Who Pleaded For Police Protection](https://www.rferl.org/a/kosovo-domestic-violence-women-protests-police/33887610.html)
-*Radio Free Europe / Liberty* - Oct 31, 00:57 IST (iso: 2026-10-30T19:27:42+00:00)
-<!-- image: https://gdb.rferl.org/8a7cea16-02ec-4e31-eaeb-08df13afe2a0_w1200_h630.jpg -->
+### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
+*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
+<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
 
-Protests spread across Kosovo following the killing of a woman who repeatedly sought police protection. An official investigation revealed multiple institutional failures. A prosecutor refused to act on a specific death threat against the victim. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
+Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
 
-### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
+---
+
+## World
+
+### [Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue](https://news.un.org/feed/view/en/story/2026/10/1168712)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image770x420cropped.jpg -->
 
-The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
+The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians. He emphasized that residents must be able to leave safely and voluntarily. Attacks on aid vehicles continue despite the pause in fighting. Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.
 
-### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg -->
+### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
+*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image770x420cropped.jpg -->
 
-Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
+Artificial intelligence tools now handle emails, reports, and complex queries in seconds. Many users perceive this shift as comparable to the internet's arrival. The rapid integration of AI into daily workflows raises questions about how quickly humans will adapt to these cognitive changes. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
 
-### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image770x420cropped.jpg -->
+---
 
-UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.
+## Global / Multilateral
 
-### [Severe rainfall and flood warnings issued for central Greece and western Turkey](https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey)
-*The Guardian* - Oct 30, 15:37 IST (iso: 2026-10-30T10:07:16+00:00)
-<!-- image: https://i.guim.co.uk/img/media/e1f1bd4154ea2df2adc895c6066b1f8bd5aa527c/177_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bbef3cbcc8f61488652e5eb9dc56704 -->
+### [Can new technology keep the world’s sea lanes safe?](https://news.un.org/feed/view/en/story/2026/10/1168698)
+*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/29-10-2026_Adobe-_Shipping-lane.jpg/image560x340cropped.jpg -->
 
-Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain and strong winds will continue affecting south-eastern Europe and Turkey for several days. A low-pressure system is driving the severe weather across the region. Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.
-
-### [Civilians in Sudan’s El Obeid trapped between drones and incarceration](https://news.un.org/feed/view/en/story/2026/10/1168696)
-*UN News* - Oct 28, 17:30 IST (iso: 2026-10-28T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Sudan-01.jpg/image560x340cropped.jpg -->
-
-UN investigators reported that El Obeid civilians face drone strikes from the Rapid Support Forces. They also endure arbitrary arrests by the Sudanese Armed Forces. Residents live in constant fear of both military threats and state detention. Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.
-
-### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
-*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group experts Lucian Kim, Stephen Pomper, and Fabienne Hara discussed the widening rift between Washington and Kyiv. They analyzed Russia's intensifying attacks on Ukrainian infrastructure. The conversation also covered European capitals' efforts to bolster Ukraine while facing their own domestic pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
+The UN Security Council debated how cheap drones, autonomous vessels, and cyberattacks threaten global shipping. Delegates examined how these emerging technologies endanger seafarers and supply chains. They also discussed tools to protect trade and energy flows. Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.
 
 ---
 
