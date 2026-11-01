@@ -1,6 +1,64 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 02, 2026 00:10 IST
+**Updated:** November 02, 2026 04:00 IST
+
+---
+
+## Middle East & Africa
+
+### [Israel elections chief says inquiry into irregularities will not undermine result](https://www.thehindu.com/news/international/israel-elections-chief-says-inquiry-into-irregularities-will-not-undermine-result/article71654256.ece)
+*The Hindu (International)* - Nov 02, 01:50 IST (iso: 2026-11-01T20:20:59+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/u5z6tp/article71654258.ece/alternates/LANDSCAPE_1200/AFP__20261031__D62D84U__v1__HighRes__IsraelPoliticsElectionGovernmentProtest.jpg -->
+
+Israel’s elections chief stated that a security inquiry into alleged financial irregularities will not alter the final results. The Shin Bet launched the investigation last week at his request to determine if the Arab Israeli party Raam received funding from Qatar. Both the Gulf state and the party deny the accusation. The official emphasized that the probe aims to verify compliance with campaign finance laws without affecting the validity of the vote.
+
+### [UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends](https://news.un.org/feed/view/en/story/2026/11/1168717)
+*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image770x420cropped.jpg -->
+
+António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.
+
+### [‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi](https://news.un.org/feed/view/en/story/2026/10/1168716)
+*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image770x420cropped.jpg -->
+
+UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
+
+### [Kosovo Protests Grow Over Killing Of Woman Who Pleaded For Police Protection](https://www.rferl.org/a/kosovo-domestic-violence-women-protests-police/33887610.html)
+*Radio Free Europe / Liberty* - Oct 31, 00:57 IST (iso: 2026-10-30T19:27:42+00:00)
+<!-- image: https://gdb.rferl.org/8a7cea16-02ec-4e31-eaeb-08df13afe2a0_w1200_h630.jpg -->
+
+A woman in Kosovo was killed by her brother‑in‑law after she repeatedly asked police for protection. The prosecutor declined to act on a death threat, sparking protests across the country. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
+
+### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg -->
+
+Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
+
+### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image770x420cropped.jpg -->
+
+The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
+
+### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image770x420cropped.jpg -->
+
+UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.
+
+### [Severe rainfall and flood warnings issued for central Greece and western Turkey](https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey)
+*The Guardian* - Oct 30, 15:37 IST (iso: 2026-10-30T10:07:16+00:00)
+<!-- image: https://i.guim.co.uk/img/media/e1f1bd4154ea2df2adc895c6066b1f8bd5aa527c/177_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bbef3cbcc8f61488652e5eb9dc56704 -->
+
+Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain and strong winds will continue affecting south-eastern Europe and Turkey for several days. A low-pressure system is driving the severe weather across the region. Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.
+
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group experts discussed the growing rift between Washington and Kyiv. The conversation covered Russia's intensifying attacks on Ukrainian territory. European capitals are working to strengthen Ukraine's defenses. These efforts occur while Europe faces its own internal pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
 
 ---
 
@@ -56,58 +114,6 @@ US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangl
 
 ---
 
-## Middle East & Africa
-
-### [UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends](https://news.un.org/feed/view/en/story/2026/11/1168717)
-*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image770x420cropped.jpg -->
-
-António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.
-
-### [‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi](https://news.un.org/feed/view/en/story/2026/10/1168716)
-*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image770x420cropped.jpg -->
-
-UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
-
-### [Kosovo Protests Grow Over Killing Of Woman Who Pleaded For Police Protection](https://www.rferl.org/a/kosovo-domestic-violence-women-protests-police/33887610.html)
-*Radio Free Europe / Liberty* - Oct 31, 00:57 IST (iso: 2026-10-30T19:27:42+00:00)
-<!-- image: https://gdb.rferl.org/8a7cea16-02ec-4e31-eaeb-08df13afe2a0_w1200_h630.jpg -->
-
-A woman in Kosovo was killed by her brother‑in‑law after she repeatedly asked police for protection. The prosecutor declined to act on a death threat, sparking protests across the country. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
-
-### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image560x340cropped.jpg -->
-
-Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
-
-### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image560x340cropped.jpg -->
-
-The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
-
-### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg -->
-
-UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.
-
-### [Severe rainfall and flood warnings issued for central Greece and western Turkey](https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey)
-*The Guardian* - Oct 30, 15:37 IST (iso: 2026-10-30T10:07:16+00:00)
-<!-- image: https://i.guim.co.uk/img/media/e1f1bd4154ea2df2adc895c6066b1f8bd5aa527c/177_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bbef3cbcc8f61488652e5eb9dc56704 -->
-
-Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain and strong winds will continue affecting south-eastern Europe and Turkey for several days. A low-pressure system is driving the severe weather across the region. Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.
-
-### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
-*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group experts discussed the growing rift between Washington and Kyiv. The conversation covered Russia's intensifying attacks on Ukrainian territory. European capitals are working to strengthen Ukraine's defenses. These efforts occur while Europe faces its own internal pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
-
----
-
 ## Asia-Pacific
 
 ### [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
@@ -115,12 +121,6 @@ Crisis Group experts discussed the growing rift between Washington and Kyiv. The
 <!-- image: https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193 -->
 
 Binance resumed customer withdrawals after a record $6.3 billion hack. The exchange stated that 90 percent of the losses are covered. The FBI attributed the theft to a North Korean state-sponsored group. This marks the largest cryptocurrency heist in history. Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts.
-
-### [Pakistan tells Afghanistan as it warns of action against cross-border threats](https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece)
-*The Hindu (International)* - Nov 01, 14:53 IST (iso: 2026-11-01T09:23:48+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/rs7oi/article71652316.ece/alternates/LANDSCAPE_1200/6C2KKXNVNNPFPGWJNASOZNZK4M.jpg -->
-
-Pakistan accused the Afghan Taliban of ignoring cross-border militancy. Islamabad claimed Kabul shifted blame for deteriorating ties. The Ministry of Information warned of potential action against threats originating from Afghan soil. This marks a significant escalation in bilateral tensions. The Ministry of Information and Broadcasting of Pakistan, on Saturday, accused the Afghan Taliban leadership of refusing to address militancy emanating from Afghan soil and instead shifting blame on Islamabad for the deterioration in bilateral ties.
 
 ### [Isolation deepens even as the country changes, says UN rights official](https://news.un.org/feed/view/en/story/2026/10/1168690)
 *UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
@@ -162,7 +162,7 @@ Flavio Bolsonaro fled to the United States after losing the Brazilian election. 
 
 ### [Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue](https://news.un.org/feed/view/en/story/2026/10/1168712)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image770x420cropped.jpg -->
 
 The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians. He emphasized that residents must be able to leave safely and voluntarily. Attacks on aid vehicles continue despite the pause in fighting. Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.
 
