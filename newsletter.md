@@ -1,50 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 01, 2026 19:25 IST
-
----
-
-## Asia-Pacific
-
-### [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
-*The Guardian* - Nov 01, 17:24 IST (iso: 2026-11-01T11:54:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193 -->
-
-Binance resumed customer withdrawals after a record $6.3 billion hack. The exchange stated that 90 percent of the losses are covered. The FBI attributed the theft to a North Korean state-sponsored group. This marks the largest cryptocurrency heist in history. Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts.
-
-### [Pakistan tells Afghanistan as it warns of action against cross-border threats](https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece)
-*The Hindu (International)* - Nov 01, 14:53 IST (iso: 2026-11-01T09:23:48+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/rs7oi/article71652316.ece/alternates/LANDSCAPE_1200/6C2KKXNVNNPFPGWJNASOZNZK4M.jpg -->
-
-Pakistan accused the Afghan Taliban of ignoring cross-border militancy. Islamabad claimed Kabul shifted blame for deteriorating ties. The Ministry of Information warned of potential action against threats originating from Afghan soil. This marks a significant escalation in bilateral tensions. The Ministry of Information and Broadcasting of Pakistan, on Saturday, accused the Afghan Taliban leadership of refusing to address militancy emanating from Afghan soil and instead shifting blame on Islamabad for the deterioration in bilateral ties.
-
-### [Isolation deepens even as the country changes, says UN rights official](https://news.un.org/feed/view/en/story/2026/10/1168690)
-*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/26-10-2026_james_heenan.jpg/image770x420cropped.jpg -->
-
-A UN rights official stated North Korea is more isolated than ever despite internal development. The country is building infrastructure and rolling out mobile banking. However, its population remains cut off from the outside world. The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate.
-
-### [Regardless of psywar campaign, Taiwan shouldn’t rush to surrender](https://asiatimes.com/2026/10/regardless-of-psywar-campaign-taiwan-shouldnt-rush-to-surrender/)
-*Asia Times* - Oct 31, 02:24 IST (iso: 2026-10-30T20:54:20+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/images-1-1-e1793391799159.jpeg -->
-
-Taiwan faces mounting pressure from China's modernized military and uncertain US backing. The Trump administration prioritizes trade deals with Beijing over security commitments. Analysts argue the island should not capitulate despite the bleak external security environment. Originally published by Pacific Forum, this article is republished with permission. Taiwan’s external security situation is bleak. China, flush with new and modern weaponry, is regularly practicing for a military operation to forcibly annex the island.
-
-### [How crypto hacking funds isolated North Korea’s nuclear programme](https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme)
-*The Guardian* - Oct 30, 23:07 IST (iso: 2026-10-30T17:37:46+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a2ab8c683105476fd958b1420dbb27c30fe2be77/232_0_2883_2307/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee3fa146cb6fa51f05a4e4a8994cdc4 -->
-
-Cryptocurrency theft generates roughly half of North Korea's foreign currency income. The isolated state relies on sophisticated hacking to fund its nuclear program. Experts attribute significant digital thefts to state-sponsored actors. Cryptocurrency theft is estimated to generate half of the country’s foreign currency incomeNorth Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary.
-
-### [What Taiwan can teach South Korea about China’s chip tech theft](https://asiatimes.com/2026/10/what-taiwan-can-teach-south-korea-about-chinas-chip-tech-theft/)
-*Asia Times* - Oct 30, 14:34 IST (iso: 2026-10-30T09:04:06+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Chips-Technology-Semiconductors-AI-chips.jpg -->
-
-Three South Korean engineers allegedly stole proprietary probe-card designs for a Chinese employer. They used a local firm to modify the technology. The case highlights how talent migration facilitates industrial espionage. China now produces competing components. In November 2023, three engineers left a South Korean semiconductor testing-components company for a Chinese employer offering twice their previous salaries. According to South Korea’s Intellectual Property Office, they allegedly took proprietary probe-card designs, arranged for a Korean design firm to modify them, and used the technology to develop products in China.
+**Updated:** November 02, 2026 00:10 IST
 
 ---
 
 ## Europe & Russia
+
+### [Victim's Family Speaks 2 Years After Serbia's Novi Sad Station Collapse](https://www.rferl.org/a/victim-s-family-speaks-two-years-after-serbia-s-novi-sad-station-collapse/33888371.html)
+*Radio Free Europe / Liberty* - Nov 01, 20:07 IST (iso: 2026-11-01T14:37:21+00:00)
+<!-- image: https://gdb.rferl.org/5fab6025-cfa3-47ce-eb95-08df13a87301_w1200_h630.jpg -->
+
+Zorica and Zlatko Ruman spoke to RFE/RL about coping with their daughter's death. Andjela Ruman, twenty, died when the Novi Sad station canopy collapsed. Her boyfriend was waiting for her on November 1, 2024. The couple died together in the incident. On November 1, 2024, 20-year-old Andjela Ruman arrived by train in Novi Sad, where her boyfriend was waiting for her.
 
 ### [China, Russia Deepen Arctic Cooperation In Challenge To US](https://www.rferl.org/a/us-china-competition-in-arctic-intensifies/33888021.html)
 *Radio Free Europe / Liberty* - Nov 01, 13:57 IST (iso: 2026-11-01T08:27:14+00:00)
@@ -92,11 +58,11 @@ US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangl
 
 ## Middle East & Africa
 
-### [Israeli protesters demand opposition ally with Arab parties to oust Netanyahu](https://www.thehindu.com/news/international/israeli-protesters-demand-opposition-ally-with-arab-parties-to-oust-netanyahu/article71652323.ece)
-*The Hindu (International)* - Nov 01, 13:39 IST (iso: 2026-11-01T08:09:32+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/kq4ry6/article71652332.ece/alternates/LANDSCAPE_1200/Israel_Elections_54_3.jpg -->
+### [UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends](https://news.un.org/feed/view/en/story/2026/11/1168717)
+*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image770x420cropped.jpg -->
 
-Israeli opposition leader Gadi Eisenkot has not decided whether to ally with Arab parties. These groups gained significant ground in recent elections. The surge was driven by anger over Netanyahu’s hard-right rhetoric. Protesters are demanding a coalition to oust the current government. Arab-majority parties made major gains in elections, fuelled by anger over rhetoric targeting the community from Mr. Netanyahu’s hard-right government, but opposition chief Gadi Eisenkot has not decided whether to seek a coalition with them.
+António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.
 
 ### [‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi](https://news.un.org/feed/view/en/story/2026/10/1168716)
 *UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
@@ -110,17 +76,17 @@ UN human rights chief Michelle Bachelet demanded an independent probe into the d
 
 A woman in Kosovo was killed by her brother‑in‑law after she repeatedly asked police for protection. The prosecutor declined to act on a death threat, sparking protests across the country. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
 
+### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image560x340cropped.jpg -->
+
+Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
+
 ### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image560x340cropped.jpg -->
 
 The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
-
-### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg -->
-
-Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
 
 ### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
@@ -134,21 +100,55 @@ UNHCR reported that over 280,000 people have been displaced by fighting in Yemen
 
 Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain and strong winds will continue affecting south-eastern Europe and Turkey for several days. A low-pressure system is driving the severe weather across the region. Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.
 
-### ['A Reasonable Price': Inside Iran's Illicit Trade In Babies](https://www.rferl.org/a/iran-selling-babies-telegram-illegal/33886696.html)
-*Radio Free Europe / Liberty* - Oct 29, 23:39 IST (iso: 2026-10-29T18:09:33+00:00)
-<!-- image: https://gdb.rferl.org/f319ccc9-b8ae-4a6e-6b74-08df13a87200_cx6_cy0_cw93_w1200_h630.jpg -->
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Intermediaries on Iranian Telegram channels are selling newborns for up to 1,100 dollars. They offer to falsify birth records and arrange placements abroad. This illicit trade continues despite a national ban on the sale of babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
+Crisis Group experts discussed the growing rift between Washington and Kyiv. The conversation covered Russia's intensifying attacks on Ukrainian territory. European capitals are working to strengthen Ukraine's defenses. These efforts occur while Europe faces its own internal pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
+
+---
+
+## Asia-Pacific
+
+### [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
+*The Guardian* - Nov 01, 17:24 IST (iso: 2026-11-01T11:54:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193 -->
+
+Binance resumed customer withdrawals after a record $6.3 billion hack. The exchange stated that 90 percent of the losses are covered. The FBI attributed the theft to a North Korean state-sponsored group. This marks the largest cryptocurrency heist in history. Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts.
+
+### [Pakistan tells Afghanistan as it warns of action against cross-border threats](https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece)
+*The Hindu (International)* - Nov 01, 14:53 IST (iso: 2026-11-01T09:23:48+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/rs7oi/article71652316.ece/alternates/LANDSCAPE_1200/6C2KKXNVNNPFPGWJNASOZNZK4M.jpg -->
+
+Pakistan accused the Afghan Taliban of ignoring cross-border militancy. Islamabad claimed Kabul shifted blame for deteriorating ties. The Ministry of Information warned of potential action against threats originating from Afghan soil. This marks a significant escalation in bilateral tensions. The Ministry of Information and Broadcasting of Pakistan, on Saturday, accused the Afghan Taliban leadership of refusing to address militancy emanating from Afghan soil and instead shifting blame on Islamabad for the deterioration in bilateral ties.
+
+### [Isolation deepens even as the country changes, says UN rights official](https://news.un.org/feed/view/en/story/2026/10/1168690)
+*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/26-10-2026_james_heenan.jpg/image770x420cropped.jpg -->
+
+A UN rights official stated North Korea is more isolated than ever despite internal development. The country is building infrastructure and rolling out mobile banking. However, its population remains cut off from the outside world. The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate.
+
+### [Regardless of psywar campaign, Taiwan shouldn’t rush to surrender](https://asiatimes.com/2026/10/regardless-of-psywar-campaign-taiwan-shouldnt-rush-to-surrender/)
+*Asia Times* - Oct 31, 02:24 IST (iso: 2026-10-30T20:54:20+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/images-1-1-e1793391799159.jpeg -->
+
+Taiwan faces mounting pressure from China's modernized military and uncertain US backing. The Trump administration prioritizes trade deals with Beijing over security commitments. Analysts argue the island should not capitulate despite the bleak external security environment. Originally published by Pacific Forum, this article is republished with permission. Taiwan’s external security situation is bleak. China, flush with new and modern weaponry, is regularly practicing for a military operation to forcibly annex the island.
+
+### [How crypto hacking funds isolated North Korea’s nuclear programme](https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme)
+*The Guardian* - Oct 30, 23:07 IST (iso: 2026-10-30T17:37:46+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a2ab8c683105476fd958b1420dbb27c30fe2be77/232_0_2883_2307/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee3fa146cb6fa51f05a4e4a8994cdc4 -->
+
+Cryptocurrency theft generates roughly half of North Korea's foreign currency income. The isolated state relies on sophisticated hacking to fund its nuclear program. Experts attribute significant digital thefts to state-sponsored actors. Cryptocurrency theft is estimated to generate half of the country’s foreign currency incomeNorth Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary.
+
+### [What Taiwan can teach South Korea about China’s chip tech theft](https://asiatimes.com/2026/10/what-taiwan-can-teach-south-korea-about-chinas-chip-tech-theft/)
+*Asia Times* - Oct 30, 14:34 IST (iso: 2026-10-30T09:04:06+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Chips-Technology-Semiconductors-AI-chips.jpg -->
+
+Three South Korean engineers allegedly stole proprietary probe-card designs for a Chinese employer. They used a local firm to modify the technology. The case highlights how talent migration facilitates industrial espionage. China now produces competing components. In November 2023, three engineers left a South Korean semiconductor testing-components company for a Chinese employer offering twice their previous salaries. According to South Korea’s Intellectual Property Office, they allegedly took proprietary probe-card designs, arranged for a Korean design firm to modify them, and used the technology to develop products in China.
 
 ---
 
 ## Americas
-
-### [Donald Trump says Flavio Bolsonaro can stay in U.S. as long as he wants amid Brazilian probes](https://www.thehindu.com/news/international/donald-trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants-amid-brazilian-probes/article71652154.ece)
-*The Hindu (International)* - Nov 01, 13:10 IST (iso: 2026-11-01T07:40:31+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/l5gx67/article71652192.ece/alternates/LANDSCAPE_1200/2026-10-31T194527Z_1267910703_RC2ECOAUU8R3_RTRMADP_3_USA-BRAZIL-RUBIO.JPG -->
-
-Donald Trump stated Flavio Bolsonaro can remain in the United States indefinitely. Bolsonaro fled after a Brazilian court revoked his passport. He faces federal money-laundering probes and is considered a flight risk. His departure followed his recent electoral loss in Brazil. Flavio Bolsonaro’s decision to go to the U. S. followed a ruling by a Brazilian Supreme Court Justice to revoke his passport shortly after his loss, as the candidate faces a pair of federal money-laundering probes in Brazil and police there considered him a flight risk.
 
 ### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
 *The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
@@ -162,19 +162,15 @@ Flavio Bolsonaro fled to the United States after losing the Brazilian election. 
 
 ### [Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue](https://news.un.org/feed/view/en/story/2026/10/1168712)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image560x340cropped.jpg -->
 
 The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians. He emphasized that residents must be able to leave safely and voluntarily. Attacks on aid vehicles continue despite the pause in fighting. Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.
 
----
-
-## Global / Multilateral
-
-### [Can new technology keep the world’s sea lanes safe?](https://news.un.org/feed/view/en/story/2026/10/1168698)
+### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
 *UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/29-10-2026_Adobe-_Shipping-lane.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image560x340cropped.jpg -->
 
-The UN Security Council debated how cheap drones, autonomous vessels, and cyberattacks threaten global shipping. Delegates examined how these emerging technologies endanger seafarers and supply chains. They also discussed tools to protect trade and energy flows. Cheap drones, autonomous vessels and cyberattacks are changing the threats to the world’s shipping lanes – and the tools to counter them. At an open debate on Thursday, the Security Council is weighing how emerging technologies could both endanger and protect seafarers, global trade and food and energy supplies.
+Artificial intelligence now handles emails, reports, and complex questions in seconds. Many users view this capability as a major technological leap. The shift is comparable to the arrival of the internet. The rapid adoption is changing how people process daily information. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
 
 ---
 
