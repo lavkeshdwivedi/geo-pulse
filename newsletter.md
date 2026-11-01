@@ -1,6 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 01, 2026 06:10 IST
+**Updated:** November 01, 2026 12:27 IST
+
+---
+
+## Americas
+
+### [Lula da Silva](https://www.thehindu.com/news/international/lula-da-silva-the-pele-of-brazils-politics/article71650597.ece)
+*The Hindu (International)* - Nov 01, 08:36 IST (iso: 2026-11-01T03:06:25+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/bhfnnu/article71650592.ece/alternates/LANDSCAPE_1200/Brazil_lula_artx.jpg -->
+
+secured victory in Brazil after finishing second in the first round. The result reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s. The outcome also signals the declining appeal of Bolsonarismo. This shift marks a significant change in the country’s political alignment. The left-wing leader’s victory in Brazil, after finishing second in the first round, reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s, as well as the declining appeal of Bolsonarismo.
+
+### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
+*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
+<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
+
+Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
 
 ---
 
@@ -17,6 +33,12 @@ Secretary of State Marco Rubio said he was unsure a negotiated end to the war in
 <!-- image: https://gdb.rferl.org/250c3973-6568-4c2f-4e59-08df13aec0bb_w1200_h630.jpg -->
 
 Hundreds of residents evacuated from Russian-occupied Oleshky reunited with family in Ukrainian territory. A convoy of 25 buses facilitated the transfer after a US-brokered cease-fire. The residents had lived under occupation for nearly four years. After nearly four years under Russian occupation, hundreds of residents from the southern Ukrainian city of Oleshky have arrived in Ukrainian-controlled territory following a cease-fire brokered by US first lady Melania Trump.
+
+### [The Way They Live Now In A Frigid Siberian Town](https://www.rferl.org/a/russia-food-shortages-war-remote-siberia/33887359.html)
+*Radio Free Europe / Liberty* - Oct 31, 18:15 IST (iso: 2026-10-31T12:45:45+00:00)
+<!-- image: https://gdb.rferl.org/84325cc2-89a7-4ed8-6a79-08df13a87200_cx0_cy7_cw0_w1200_h630.jpg -->
+
+Residents of Tura, a remote Siberian town, queued for hours in minus fifteen degree cold to buy scarce staples at inflated prices. The food shortages stem from the settlement's geographic isolation and long-standing logistical neglect. Russia's ongoing war in Ukraine has further strained supply chains, compounding the local crisis. The scene outside the main store reflects a broader deterioration in basic services across Russia's remote northern regions.
 
 ### [Evacuations, Humanitarian Mission Begin In Russian-Occupied Ukrainian City Of Oleshky](https://www.rferl.org/a/evacuations-humanitarian-mission-begin-in-russian-occupied-ukrainian-city-of-oleshky/33887434.html)
 *Radio Free Europe / Liberty* - Oct 30, 19:10 IST (iso: 2026-10-30T13:40:23+00:00)
@@ -50,29 +72,7 @@ Moldovan President Maia Sandu convened a national security meeting after a cyber
 
 ---
 
-## Americas
-
-### [Lula da Silva](https://www.thehindu.com/news/international/lula-da-silva-the-pele-of-brazils-politics/article71650597.ece)
-*The Hindu (International)* - Oct 31, 23:10 IST (iso: 2026-10-31T17:40:59+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/bhfnnu/article71650592.ece/alternates/LANDSCAPE_1200/Brazil_lula_artx.jpg -->
-
-secured victory in Brazil after finishing second in the first round. The result reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s. The outcome also signals the declining appeal of Bolsonarismo. This shift marks a significant change in the country’s political alignment. The left-wing leader’s victory in Brazil, after finishing second in the first round, reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s, as well as the declining appeal of Bolsonarismo.
-
-### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
-*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
-
-Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
-
----
-
 ## Middle East & Africa
-
-### [UN ends its Somalia political mission after three decades](https://www.thehindu.com/news/international/un-ends-its-somalia-political-mission-after-three-decades/article71650522.ece)
-*The Hindu (International)* - Oct 31, 22:17 IST (iso: 2026-10-31T16:47:33+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/bj6mro/article71650552.ece/alternates/LANDSCAPE_1200/iStock-1404313318%201.jpg -->
-
-The United Nations ended its political mission in Somalia after three decades of operation. UNSOM was established in 2013 to support the country's transition to democracy. The departure marks the conclusion of a long-standing international effort to stabilize the region. UNSOM was established by the UN Security Council in 2013 to support Somali authorities in the transition to democracy and the rule of law after more than two decades of conflict involving militias, Islamist groups and criminal gangs.
 
 ### [‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi](https://news.un.org/feed/view/en/story/2026/10/1168716)
 *UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
@@ -80,11 +80,11 @@ The United Nations ended its political mission in Somalia after three decades of
 
 UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
 
-### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image560x340cropped.jpg -->
+### [Kosovo Protests Grow Over Killing Of Woman Who Pleaded For Police Protection](https://www.rferl.org/a/kosovo-domestic-violence-women-protests-police/33887610.html)
+*Radio Free Europe / Liberty* - Oct 31, 00:57 IST (iso: 2026-10-30T19:27:42+00:00)
+<!-- image: https://gdb.rferl.org/8a7cea16-02ec-4e31-eaeb-08df13afe2a0_w1200_h630.jpg -->
 
-The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
+A woman in Kosovo was killed by her brother‑in‑law after she repeatedly asked police for protection. The prosecutor declined to act on a death threat, sparking protests across the country. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
 
 ### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
@@ -92,9 +92,15 @@ The UN human rights office warned of a deepening displacement crisis in Gaza. Is
 
 Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
 
+### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image770x420cropped.jpg -->
+
+The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
+
 ### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image770x420cropped.jpg -->
 
 UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.
 
@@ -143,12 +149,6 @@ Cryptocurrency theft generates roughly half of North Korea's foreign currency in
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Chips-Technology-Semiconductors-AI-chips.jpg -->
 
 Three South Korean engineers allegedly stole proprietary probe-card designs for a Chinese employer. They used a local firm to modify the technology. The case highlights how talent migration facilitates industrial espionage. China now produces competing components. In November 2023, three engineers left a South Korean semiconductor testing-components company for a Chinese employer offering twice their previous salaries. According to South Korea’s Intellectual Property Office, they allegedly took proprietary probe-card designs, arranged for a Korean design firm to modify them, and used the technology to develop products in China.
-
-### [Pre-APEC US ban on Chinese genomic giant widens biotech decoupling](https://asiatimes.com/2026/10/pre-apec-us-ban-on-chinese-genomic-giant-widens-biotech-decoupling/)
-*Asia Times* - Oct 30, 02:36 IST (iso: 2026-10-29T21:06:18+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/BGI.jpg -->
-
-Washington added three Shenzhen-based firms to the Uyghur Forced Labor Prevention Act list. The move blocks imports from China's leading genomics group. This extends the trade war into biotechnology. The ban arrived weeks before US and Chinese leaders meet in Shenzhen. Beijing has vowed to defend its firms after Washington blocked imports from China’s leading genomics group, extending the two countries’ trade war into biotechnology weeks before their leaders are due to meet in Shenzhen.
 
 ---
 

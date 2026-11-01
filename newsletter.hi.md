@@ -1,180 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 01, 2026 06:10 IST
+**अपडेट:** November 01, 2026 12:27 IST
 
 ---
 
 ## दुनिया
 
-### [ओडिशा के गंजम-गजपति में बाढ़ के हालात सुधरे, आंध्र प्रदेश में 4,764 करोड़ के नुकसान का अनुमान](https://www.amarujala.com/india-news/cyclone-arnab-odisha-andhra-pradesh-flood-damage-relief-operations-2026-11-01)
-*Amar Ujala Breaking* - Nov 01, 12:34 IST (iso: 2026-11-01T07:04:13+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/cakaravata-aranab-sa-odasha-aathhara-parathasha-ma-bhara-nakasana_3cfce021ca5ec7f9908172640fb996cb.jpeg?w=1200&dpr=1.0 -->
+### [क्या शाहरुख के जन्मदिन पर रिलीज होगा फिल्म का ट्रेलर? निर्देशक के ट्वीट ने बढ़ाई फैंस की धड़कन](https://www.amarujala.com/entertainment/bollywood/king-tease-may-release-on-shah-rukh-khan-birthday-directer-tweet-boosted-enthusiasm-2026-11-01)
+*Amar Ujala National* - Nov 01, 12:27 IST (iso: 2026-11-01T06:57:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/kaga_fe6af9257cb937f67c275db04656aa53.jpeg?w=1200&dpr=1.0 -->
 
-चक्रवात अर्नब के बाद ओडिशा के गंजम और गजपति जिलों में बाढ़ के हालात सामान्य हो रहे हैं। आंध्र प्रदेश में नुकसान का अनुमान 4,764 करोड़ रुपये है। राहत और पुनर्वास कार्य तेज हो गए हैं। ओडिशा के गंजम-गजपति में बाढ़ के हालात सुधरे, आंध्र प्रदेश में 4,764 करोड़ के नुकसान का अनुमान।
+फिल्म किंग का ट्रेलर 2 नवंबर को शाहरुख खान के जन्मदिन पर रिलीज हो सकता है। निर्देशक के ट्वीट ने इस संभावना को मजबूत किया है। शाहरुख अपनी बेटी सुहाना खान के साथ इस फिल्म में काम कर रहे हैं। King Update: फिल्म 'किंग' के मेकर्स शाहरुख खान के जन्मदिन पर एक बड़ा तोहफा दे सकते हैं। शाहरुख खान का 2 नवंबर को जन्मदिन है।
 
-### [Weather Forecast 01 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-01-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-01)
-*Amar Ujala National* - Nov 01, 06:00 IST (iso: 2026-11-01T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/weather-forecast_e1f7bf6639fcfa31b26deb91731ac5d4.jpeg?w=1200&dpr=1.0 -->
+### [डब्बू रत्नानी की बेटी ने कहा- 'पाउट करो', फिर फोटोग्राफर को भी करना पड़ा ऐसा](https://www.amarujala.com/entertainment/celebs-interviews/aishwarya-rai-bachchan-birthday-celebrity-photographer-dabboo-ratnani-shares-working-experience-with-actress-2026-11-01)
+*Amar Ujala National* - Nov 01, 12:24 IST (iso: 2026-11-01T06:54:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/aishavaraya-raya-dabb-ratanana_d723e4cc703606d0f4ff750d6d96c3d7.jpeg?w=1200&dpr=1.0 -->
 
-स्रोत में 1 नवंबर 2026 के लिए मौसम का विस्तृत विवरण उपलब्ध नहीं है। केवल शीर्षक दिया गया है। इसीलिए कोई विशिष्ट तापमान या मौसमी स्थिति का उल्लेख नहीं किया जा सकता।
+फोटोग्राफर डब्बू रत्नानी ने ऐश्वर्या राय बच्चन के जन्मदिन पर फोटो शूट के किस्से साझा किए। उन्होंने बताया कि ऐश्वर्या शूट के दौरान सलाह देती हैं। डब्बू ने भी उनकी सलाह का पालन किया। अभिनेत्री ऐश्वर्या राय बच्चन का आज 01 नवंबर को जन्मदिन है। उनके इस स्पेशल दिन पर मशहूर सेलिब्रिटी फोटोग्राफर डब्बू रत्नानी ने कुछ मजेदार किस्से साझा किए हैं।
 
-### [आरएसएस ने कहा- विरोध करने का हक सबको, देश-विरोधी ताकतों से रहना होगा सावधान](https://www.amarujala.com/india-news/national-updates-rss-sunil-ambekar-indore-north-east-west-south-telangana-karnataka-bengal-politics-crime-news-2026-11-01)
-*Amar Ujala National* - Nov 01, 05:15 IST (iso: 2026-10-31T23:45:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_f989854be53005d7e8cde31bdce9e126.jpeg?w=1200&dpr=1.0 -->
+### [महारैली शुरु करने से ठीक पहले राहुल गांधी ने किसे दी बधाई? खूब हुई चर्चा](https://www.amarujala.com/video/india-news/whom-did-rahul-gandhi-congratulate-just-before-the-start-of-the-mega-rally-2026-11-01)
+*Amar Ujala National* - Nov 01, 12:22 IST (iso: 2026-11-01T06:52:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/rahul-gandhi_9a67534252638bdff00c468c4d055582.jpeg?w=1200&dpr=1.0 -->
 
-आरएसएस ने विरोध के अधिकार को मान्यता दी। संगठन ने देश-विरोधी ताकतों से सावधान रहने की सलाह दी। यह बयान राजनीतिक तनाव के बीच आया है। न्यूज डायरी: आरएसएस ने कहा- विरोध करने का हक सबको, देश-विरोधी ताकतों से रहना होगा सावधान।
+राहुल गांधी ने महारैली शुरू करने से ठीक पहले किसी को बधाई दी। इस घटना पर सोशल मीडिया में चर्चा हुई। स्रोत में बधाई प्राप्तकर्ता का नाम या विवरण उपलब्ध नहीं है। महारैली शुरु करने से ठीक पहले राहुल गांधी ने किसे दी बधाई? खूब हुई चर्चा।
 
-### [केंद्र ने राज्यों को कर हस्तांतरण के फंड जारी किए; अब 31 दिसंबर तक कपास का शुल्क मुक्त आयात](https://www.amarujala.com/business/business-diary/business-news-updates-cotton-import-no-cost-till-31st-dec-rbi-forex-sebi-bse-nse-stocks-gold-silver-crude-rate-2026-11-01)
-*Amar Ujala National* - Nov 01, 05:11 IST (iso: 2026-10-31T23:41:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0 -->
+### [तेल एवं प्राकृतिक गैस निगम में 3047 पदों पर भर्ती: दसवीं पास से स्नातक तक को मौका; बिना लिखित](https://www.amarujala.com/jobs/ongc-apprentice-recruitment-2026-3047-vacancies-eligibility-stipend-and-last-date-to-apply-2026-11-01)
+*Amar Ujala National* - Nov 01, 12:14 IST (iso: 2026-11-01T06:44:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/ongc-apprentice-recruitment_21427613460876b9ec24c363fc1a68a6.jpeg?w=1200&dpr=1.0 -->
 
-केंद्र सरकार ने राज्यों को कर हस्तांतरण के फंड जारी किए। 31 दिसंबर तक कपास का शुल्क मुक्त आयात लागू होगा। यह कृषि क्षेत्र को राहत देगा। बिजनेस अपडेट्स: केंद्र ने राज्यों को कर हस्तांतरण के फंड जारी किए; अब 31 दिसंबर तक कपास का शुल्क मुक्त आयात।
+तेल एवं प्राकृतिक गैस निगम ने 3047 अप्रेंटिस पदों पर भर्ती निकाली है। दसवीं से स्नातक तक के उम्मीदवार आवेदन कर सकते हैं। लिखित परीक्षा के बिना चयन प्रक्रिया होगी। तेल और प्राकृतिक गैस निगम (ONGC) ने 3,047 अप्रेंटिस पदों पर भर्ती निकाली है। इस भर्ती के लिए 10वीं, 12वीं, आईटीआई, डिप्लोमा और स्नातक पास उम्मीदवार अपनी योग्यता के अनुसार आवेदन कर सकते हैं।
 
-### [संतान की खुशहाली के इस पर्व पर अपनों को भेजें ये प्यार भरे मैसेज](https://www.amarujala.com/photo-gallery/spirituality/festivals/happy-ahoi-ashtamoi-2026-wishes-whatsapp-messages-quotes-images-wallpapers-in-hindi-2026-10-31)
-*Amar Ujala National* - Nov 01, 05:06 IST (iso: 2026-10-31T23:36:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/23/happy-ahoi-ashtami-2024_bb57d039ac53cd5fce8f27aa7aacfa37.jpeg?w=1200&dpr=1.0 -->
+### [आईपीयू में अधूरी डिग्री पूरी करने का आखिरी मौका: 6 नवंबर तक करें आवेदन, जानें कितनी देनी होगी फीस](https://www.amarujala.com/jobs/ipu-gives-final-chance-to-complete-pending-degrees-applications-open-till-november-6-2026-11-01)
+*Amar Ujala National* - Nov 01, 11:49 IST (iso: 2026-11-01T06:19:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/ipu-special-examination_b5e56979e30ec5656a24ee613a96ed37.jpeg?w=1200&dpr=1.0 -->
 
-अहोई अष्टमी मां और बच्चों के रिश्ते का प्रतीक है। इस पर्व पर परिवार की महिलाओं को शुभकामनाएं भेजी जाती हैं। यह त्योहार निस्वार्थ प्रेम को दर्शाता है। अहोई अष्टमी का त्योहार मां और बच्चों के बीच के अटूट रिश्ते और निस्वार्थ प्रेम का प्रतीक भी है। इस शुभ अवसर पर आप भी अपनी मां, बहन, सहेली और परिवार की अन्य महिलाओं को प्यार भरे संदेशों के जरिए अहोई अष्टमी की शुभकामनाएं दे सकते हैं।
+गुरु गोबिंद सिंह इंद्रप्रस्थ विश्वविद्यालय ने अधूरी डिग्री वाले छात्रों के लिए विशेष परीक्षा का आयोजन किया है। सभी नियमित अवसर खत्म हो चुके छात्र इस परीक्षा में शामिल हो सकते हैं। आवेदन की अंतिम तिथि 6 नवंबर निर्धारित है। गुरु गोबिंद सिंह इंद्रप्रस्थ विश्वविद्यालय ने अधूरी डिग्री पूरी करने का एक और मौका दिया है। जिन विद्यार्थियों के परीक्षा देने के सभी अवसर खत्म हो चुके हैं, वे इस विशेष परीक्षा में शामिल हो सकते हैं।
 
-### [डॉ. अनीस ने 19 युवतियों से किया दुष्कर्म, वीसी के सचिव भी जांच के घेरे में](https://www.amarujala.com/lucknow/conversion-scandal-unearthed-at-kgmu-dr-anees-molested-19-hindu-girls-2026-11-01)
-*Amar Ujala Breaking* - Nov 01, 03:50 IST (iso: 2026-10-31T22:20:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/1_639c99e8082b82a3a01db0d1338b7fb6.jpeg?w=1200&dpr=1.0 -->
+### [पीएम मोदी ने छह राज्यों की स्थापना दिवस पर दी बधाई, संस्कृति, विरासत के लेकर कही ये बात](https://www.amarujala.com/india-news/pm-modi-extends-greetings-on-the-foundation-days-of-six-states-shares-thoughts-on-culture-and-heritage-2026-11-01)
+*Amar Ujala National* - Nov 01, 11:47 IST (iso: 2026-11-01T06:17:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/paema-matha_e88900f3e7a79ea08aebe00ed1d213dd.jpeg?w=1200&dpr=1.0 -->
 
-लखनऊ के केजीएमयू में एसटीएफ ने डॉ. अनीस को 19 महिलाओं के यौन शोषण के आरोप में पकड़ा। जांच में वीसी के सचिव भी घेरे में आ गए। इस मामले में धर्मांतरण के संकेत भी सामने आए हैं। लखनऊ। किंग जॉर्ज चिकित्सा विश्वविद्यालय (केजीएमयू) में धर्मांतरण और महिला डॉक्टरों के यौन शोषण की जांच में एसटीएफ ने इस्लामिक मेडिकोज समूह से जुड़े एक डॉक्टर को लेकर बड़ा खुलासा किया है।
+प्रधानमंत्री नरेंद्र मोदी ने छह राज्यों के स्थापना दिवस पर बधाई दी है। इस अवसर पर उन्होंने संस्कृति और विरासत के महत्व पर प्रकाश डाला। मध्य प्रदेश से तमिलनाडु तक विभिन्न राज्यों के लोगों को सम्बोधित किया गया। पीएम मोदी ने छह राज्यों की स्थापना दिवस पर दी बधाई, संस्कृति, विरासत के लेकर कही ये बात।
 
-### [मध्य प्रदेश में जहरीली गैस का कहर: उज्जैन में चार होटल कर्मियों की मौत, देवास रोड पर चैंबर सफाई के](https://www.amarujala.com/india-news/madhya-pradesh-toxic-gas-ujjain-hotel-workers-death-updates-dewas-road-underground-chamber-cleaning-news-2026-11-01)
-*Amar Ujala Breaking* - Nov 01, 03:39 IST (iso: 2026-10-31T22:09:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/jaharal-gasa-ka-kahara-ujajana-ma-cara-hatal-karamaya-ka-mata_e8faa8eb38ae637387bd12856ba86b65.jpeg?w=1200&dpr=1.0 -->
+### [ग्रामीणों का भाजपा विधायक पर हमला, प्रशासनिक अनदेखी और बाढ़ राहत में देरी पर भड़के लोग](https://www.amarujala.com/india-news/odisha-bjp-mla-attacked-by-villagers-in-ganjam-district-over-neglect-in-flood-relief-2026-11-01)
+*Amar Ujala National* - Nov 01, 11:45 IST (iso: 2026-11-01T06:15:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/odisha_aa4ac26905f18c23e2c9597f1e469efc.jpeg?w=1200&dpr=1.0 -->
 
-मध्य प्रदेश के उज्जैन में जहरीली गैस से चार होटल कर्मियों की मौत हो गई। देवास रोड पर चैंबर सफाई के दौरान यह हादसा हुआ। स्थानीय प्रशासन ने जांच शुरू कर दी है। मध्य प्रदेश में जहरीली गैस का कहर: उज्जैन में चार होटल कर्मियों की मौत, देवास रोड पर चैंबर सफाई के।
+ओडिशा में ग्रामीणों ने भाजपा विधायक पर हमला कर दिया। प्रशासनिक अनदेखी और बाढ़ राहत में देरी के कारण लोगों में गुस्सा फैला था। इस घटना ने स्थानीय स्तर पर राजनीतिक तनाव को बढ़ा दिया है। ओडिशा: ग्रामीणों का भाजपा विधायक पर हमला, प्रशासनिक अनदेखी और बाढ़ राहत में देरी पर भड़के लोग।
 
-### [गंभीर घायल छात्रा को बेहतर इलाज के लिए भेजा गया बंगलूरू, सरकार उठाएगी पूरा खर्च](https://www.amarujala.com/india-news/andhra-school-chainsaw-attack-girl-shifted-to-bengaluru-for-advanced-treatment-2026-11-01)
-*Amar Ujala Breaking* - Nov 01, 02:19 IST (iso: 2026-10-31T20:49:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/aathhara-parathasha-ma-nablga-bcaca-para-sakal-ka-athara-hamal_9ae5c131c06af3c56d1f2bdbc59ab461.jpeg?w=1200&dpr=1.0 -->
+### [13 साल का रिश्ता और 15 मिनट में रचा ली शादी, कपल ने क्यों लिया था फटाफट विवाह का फैसला?](https://www.amarujala.com/entertainment/hina-khan-reveals-why-she-marry-with-rocky-jaiswal-within-just-15-minutes-after-13-years-of-relationship-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 11:40 IST (iso: 2026-11-01T06:10:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/hana-khana-raka-jayasaval_c2c81b7284e16533a4123d02b7380e11.jpeg?w=1200&dpr=1.0 -->
 
-आंध्र प्रदेश के स्कूल हमले में घायल छात्रा को बंगलुरु भेजा गया। वहां बेहतर इलाज के लिए विशेषज्ञों की देखरेख रहेगी। राज्य सरकार पूरा खर्च उठाएगी। गंभीर घायल छात्रा को बेहतर इलाज के लिए भेजा गया बंगलूरू, सरकार उठाएगी पूरा खर्च।
+अभिनेत्री हिना खान ने रॉकी जायसवाल से शादी रचाई है। दोनों का रिश्ता लगभग 13 साल पुराना था। शादी का निर्णय केवल 15 मिनट के भीतर लिया गया था। यह त्वरित निर्णय दोनों पक्षों की सहमति पर आधारित था। दोनों ने करीब 13 साल के रिलेशनशिप के बाद शादी का फैसला लिया और यह फैसला चंद मिनट में ले लिया था।
 
-### [होटल के कमरे में पहुंचीं जर्नलिस्‍ट, बेड पर पार्टनर के साथ लेटा मिला मंत्री! लॉरा बोलीं- मुझे लगा](https://hindi.news18.com/world/britain-bbc-presenter-laura-kuenssberg-minister-hotel-room-threesome-claim-10953653.html)
-*News18 Hindi (World)* - Oct 31, 22:39 IST (iso: 2026-10-31T17:09:47+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Laura-Kuenssberg-2026-10-2fa845d970c52bb48724d0bbc12ebee1-1200x800.jpg -->
+### [नए वायु सेना प्रमुख से लेकर महेंद्र सिंह धोनी तक: किन-किन हस्तियों के पास है इलेक्ट्रिक वाहन? देखें](https://www.amarujala.com/automobiles/from-ms-dhoni-to-mukesh-ambani-meet-indian-celebrities-driving-electric-cars-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 11:39 IST (iso: 2026-11-01T06:09:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/vaya-sana-paramakha-aashatashha-thakashhata-na-cana-ilkataraka-gaugdha_6647de179d003668bca44634161ed1a7.jpeg?w=1200&dpr=1.0 -->
 
-बीबीसी प्रेजेंटर लॉरा कुएन्सबर्ग ने एक पॉलिटिकल कॉन्फ्रेंस के दौरान मंत्री से मिलने का किस्सा साझा किया। होटल कमरे में मंत्री अपने पार्टनर के साथ बेड पर लेटे थे। लॉरा को लगा कि वे तीन लोगों की मीटिंग चाहते थे। उन्होंने स्थिति को गलतफहमी माना। बीबीसी प्रेजेंटर लॉरा कुएन्सबर्ग ने अपने करियर से जुड़ा एक हैरान करने वाला किस्सा शेयर किया है.
+भारतीय वायु सेना के नए प्रमुख और क्रिकेटर महेंद्र सिंह धोनी समेत कई प्रमुख हस्तियों ने इलेक्ट्रिक वाहन अपनाने का फैसला किया है। यह सूची देश के प्रभावशाली व्यक्तियों के बीच वैकल्पिक ऊर्जा स्रोतों की बढ़ती लोकप्रियता को दर्शाती है। नए वायु सेना प्रमुख से लेकर महेंद्र सिंह धोनी तक: किन-किन हस्तियों के पास है इलेक्ट्रिक वाहन? देखें लिस्ट। देखें।
 
----
+### [सर्वे में आगे निकले, तब आप ने दी विधायकों को टिकट: पिछली बार दिग्गजों को मात दी, इस बार भी मिली](https://www.amarujala.com/punjab/chandigarh-punjab/aap-announces-40-candidates-renominates-sitting-mlas-after-survey-of-popularity-and-public-support-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 11:26 IST (iso: 2026-11-01T05:56:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/aap-announces_791fda357af71ace69467c2f0baef555.jpeg?w=1200&dpr=1.0 -->
 
-## मध्य पूर्व और अफ्रीका
+आम आदमी पार्टी ने 40 सीटों पर उम्मीदवारों की घोषणा कर दी है। पार्टी ने मौजूदा विधायकों को टिकट देने से पहले सर्वे के जरिये उनकी लोकप्रियता परखा। पिछली बार भी पार्टी ने सर्वे के आधार पर दिग्गजों को हराया था। आम आदमी पार्टी ने 40 सीटों पर उम्मीदवारों के नाम घोषित कर चुनाव की तैयारी तेज कर दी है।
 
-### ['ईरान झुकेगा नहीं', ट्रंप की धमकियों के बीच गरजा तेहरान, अमेरिका के सामने रखीं बड़ी शर्तें](https://hindi.news18.com/world/middle-east-iran-us-deal-araghchi-majtaba-khamenei-warn-of-possible-us-attack-amid-talks-ws-l-10953916.html)
-*News18 Hindi (World)* - Nov 01, 06:09 IST (iso: 2026-11-01T00:39:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/IRAN-US-2026-08-185bd7ee333bf8a20d2b1ff65f71a17c-1200x800.jpg -->
+### [नाच गा रहे थे यात्री, चंद मिनटों में मातम में बदली खुशियां, घर भेजा था आखिरी वीडियो](https://www.amarujala.com/photo-gallery/uttarakhand/chamoli/jyotirmath-helicopter-crash-passengers-were-excited-before-boarding-the-helicopter-sent-video-home-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 11:21 IST (iso: 2026-11-01T05:51:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/halkapatara-karasha_ad120afcaf184655ee4c43381d80c8af.jpeg?w=1200&dpr=1.0 -->
 
-ईरान के विदेश मंत्री अरागची और सुप्रीम लीडर खामेनेई ने ट्रंप की धमकियों के बीच स्पष्ट किया कि देश कभी सरेंडर नहीं करेगा। तेहरान ने अमेरिका के सामने अपनी शर्तें रखी हैं। दोनों देशों के बीच बातचीत जारी है, लेकिन तनाव बढ़ रहा है। Iran-US Deal News: ईरान-अमेरिका के बीच एक बार फिर से तनाव बढ़ गया है. एक तरफ तो दोनों देशों के बीच बातचीत चल रही है, वहीं दूसरी ओर ट्रंप लगातार कह रहे हैं कि वो ईरान पर हमला कर सकते हैं.
+कर्नाटक के पांच तीर्थयात्री बदरीनाथ यात्रा के दौरान होटल में खुशी मनाते हुए वीडियो बना रहे थे। उन्होंने उस वीडियो को अपने घरवालों को भेजा। कुछ ही मिनटों बाद उनकी खुशी मातम में बदल गई। बदरीनाथ की यात्रा पर आए कर्नाटक के पांच तीर्थयात्री लौटते समय बेहद खुश थे। बदरीनाथ में बिताए पलों को यादगार बनाने के लिए उन्होंने होटल में खुशी मनाते हुए वीडियो बनाया और उसे अपने घर भी भेजा।
 
-### [बांग्लादेश को कैसे लूट रहा पाकिस्तान? मुस्लिम ब्रदरहुड के पीछे की असलियत हुई लीक, ट्रेड के बहाने हो](https://hindi.news18.com/world/south-asia-pakistan-bangladesh-relations-exposed-truth-behind-muslim-brotherhood-hype-trade-imbalance-exploiting-dhaka-10953701.html)
-*News18 Hindi (World)* - Oct 31, 23:28 IST (iso: 2026-10-31T17:58:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Pakistan-Bangladesh-Relations-2026-10-477195011e18efb25e41fe471dce5081-1200x800.jpg -->
+### [फीस जमा करने की तारीख बढ़ी, आज रात 11:50 बजे तक मौका, जानें पूरी प्रक्रिया](https://www.amarujala.com/education/ugc-net-december-2026-nta-extends-fee-payment-deadline-for-submitted-applications-till-november-1-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 11:05 IST (iso: 2026-11-01T05:35:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/yajasa-nata-thasabra-2026_e360a69c3d22909e810e738101462a3f.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान ने कराची से जहाजों और उड़ानों के जरिए बांग्लादेश के साथ व्यापार बढ़ाया। 11:1 के ट्रेड असंतुलन और जूट पर भारी टैक्स से बांग्लादेश को आर्थिक नुकसान हो रहा है। रिपोर्ट के अनुसार यह खेल मुस्लिम ब्रदरहुड के नाम पर चल रहा है। पाकिस्तान और बांग्लादेश के बीच नजदीकियां बढ़ रही हैं. 'मुस्लिम ब्रदरहुड' के नाम पर चल रहे इस खेल की पोल एक रिपोर्ट ने खोल दी है.
+राष्ट्रीय परीक्षा एजेंसी ने यूजीसी नेट दिसंबर 2026 के लिए फीस जमा करने की अंतिम तिथि बढ़ा दी है। आवेदन कर चुके उम्मीदवार अब 1 नवंबर की रात 11:50 बजे तक शुल्क भर सकते हैं। यूजीसी नेट दिसंबर 2026 के आवेदन की फीस जमा करने से चूक गए उम्मीदवारों के लिए राहत की खबर है। राष्ट्रीय परीक्षा एजेंसी ने शुल्क भुगतान की समय-सीमा बढ़ा दी है।
 
----
+### ['ड्रोन-लंबी दूरी के हथियार बदल रहे लड़ाई का स्वरूप': नए वायुसेना प्रमुख ने कहा- युद्ध जीतने के लिए](https://www.amarujala.com/india-news/air-chief-marshal-ashutosh-dixit-says-drones-long-range-precision-weapons-reshape-war-must-be-ready-to-fight-a-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 10:30 IST (iso: 2026-11-01T05:00:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/iaf-iaf-chief_2f3ec4d33b763e268b2e77a0c5e96075.jpeg?w=1200&dpr=1.0 -->
 
-## यूरोप और रूस
-
-### [नवंबर में नहीं होगा सर्दी का अहसास, सामान्य से ऊपर रहेगा पारा; चक्रवात अर्नब का असर रहेगा बेअसर](https://www.amarujala.com/india-news/imd-forecast-above-normal-temperatures-likely-across-most-of-india-in-november-2026-11-01)
-*Amar Ujala National* - Nov 01, 05:50 IST (iso: 2026-11-01T00:20:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/aaiiemada-ka-paravanamana_ba810263c23a30cf8adc690ce0524934.jpeg?w=1200&dpr=1.0 -->
-
-भारतीय मौसम विज्ञान विभाग के अनुसार नवंबर में भारत के अधिकांश हिस्सों में तापमान सामान्य से ऊपर रहेगा। सर्दी का अहसास नहीं होगा। चक्रवात अर्नब का असर बेअसर रहेगा। नवंबर में नहीं होगा सर्दी का अहसास, सामान्य से ऊपर रहेगा पारा; चक्रवात अर्नब का असर रहेगा बेअसर।
-
-### [लंदन में 'फलस्तीन एक्शन' का समर्थन, 139 गिरफ्तार; ट्रंप की तरफ से दायर मानहानि मुकदमा खारिज](https://www.amarujala.com/world/world-updates-london-protest-palestine-west-asia-russia-ukraine-bhutan-pak-china-politics-crime-and-other-news-2026-11-01)
-*Amar Ujala World* - Nov 01, 05:40 IST (iso: 2026-11-01T00:10:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=1200&dpr=1.0 -->
-
-लंदन में फलस्तीन एक्शन समर्थन प्रदर्शन के दौरान 139 लोगों को गिरफ्तार किया गया। अमेरिका में ट्रंप द्वारा दायर मानहानि मुकदमा खारिज कर दिया गया है। यह फैसला न्यायालय द्वारा लिया गया है। वर्ल्ड अपडेट्स: लंदन में 'फलस्तीन एक्शन' का समर्थन, 139 गिरफ्तार; ट्रंप की तरफ से दायर मानहानि मुकदमा खारिज।
-
-### [विदेश मंत्रियों की बैठक में नहीं बनी सहमति, रूस-यूक्रेन समेत कई मुद्दों पर मतभेद से संयुक्त बयान टला](https://www.amarujala.com/world/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issue-2026-11-01)
-*Amar Ujala Breaking* - Nov 01, 04:06 IST (iso: 2026-10-31T22:36:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/amaraka-ma-ja-20-vathasha-mataraya-ka-bthaka-bnataja_94c01646dd7b3f7fe9efc62e2e1d5376.jpeg?w=1200&dpr=1.0 -->
-
-अटलांटा में जी-20 विदेश मंत्रियों की बैठक बिना संयुक्त बयान के समाप्त हुई। रूस-यूक्रेन युद्ध समेत कई मुद्दों पर सदस्य देशों के बीच गहरे मतभेद बने रहे। इससे सहमति बनाना असंभव हो गया। विदेश मंत्रियों की बैठक में नहीं बनी सहमति, रूस-यूक्रेन समेत कई मुद्दों पर मतभेद से संयुक्त बयान टला।
-
-### [दुनिया के बड़े आर्थिक मंच G20 में पोलैंड को क्यों शामिल देखना चाहता है अमेरिका?](https://www.patrika.com/world-news/us-supports-polands-role-in-g20-global-economic-forum-21021971)
-*Patrika (World)* - Nov 01, 00:25 IST (iso: 2026-10-31T18:55:22+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-warns-Iran-of-military-action.webp -->
-
-अमेरिका ने जी-20 में पोलैंड की भागीदारी जारी रखने का समर्थन किया। मार्को रुबियो ने कहा कि ट्रंप पोलैंड को इस मंच पर जगह देने का पक्ष में हैं। अगली बैठकों में और देशों को आमंत्रित करने की उम्मीद जताई गई। अमेरिकी विदेश मंत्री मार्को रुबियो ने कहा कि राष्ट्रपति डोनाल्ड ट्रंप का मानना है कि पोलैंड वैश्विक नेताओं के इस मंच पर जगह पाने का हकदार है।
-
-### [अंतरिक्ष में परमाणु धमाका! स्पेस विश्‍वयुद्ध के लिए तैयार 2 देश, थर-थर कांप रहा अमेरिका](https://hindi.news18.com/world/america-space-war-why-russia-and-china-advanced-anti-satellite-weapons-and-nuclear-plans-have-pentagon-alarmed-10953428.html)
-*News18 Hindi (World)* - Oct 31, 21:39 IST (iso: 2026-10-31T16:09:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/America-Russia-China-Space-War-2026-10-5cdcd8cf9870cdbb8ac62f4afebe0a08-1200x800.jpg -->
-
-रूस और चीन ने अंतरिक्ष में लेजर बीम और किलर सैटेलाइट्स जैसी तकनीकें विकसित कर ली हैं। रूस अंतरिक्ष में परमाणु हथियार तैनात करने की तैयारी कर रहा है। अमेरिकी खुफिया एजेंसी की रिपोर्ट के अनुसार अंतरिक्ष युद्ध से हजारों सैटेलाइट तबाह हो जाएंगे। जीपीएस और नेविगेशन सिस्टम पूरी तरह बंद हो जाएंगे। रूस और चीन ने अंतरिक्ष में खतरनाक हथियार बना लिए हैं.
-
-### [इनसाइट UK की रिपोर्ट पर बवाल: ब्रिटिश MP बॉब ब्लैकमैन ने पाकिस्तान में हिंदू उत्पीड़न पर सरकार से](https://www.patrika.com/world-news/british-mp-bob-blackman-concern-hindu-persecution-pakistan-21021877)
-*Patrika (World)* - Oct 31, 21:24 IST (iso: 2026-10-31T15:54:14+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Pakistan-Hindu-persecution.webp -->
-
-ब्रिटिश सांसद बॉब ब्लैकमैन ने पाकिस्तान में हिंदू अल्पसंख्यकों के उत्पीड़न पर चिंता जताई। उन्होंने सरकार से सुरक्षात्मक कदमों के विवरण की मांग की। Pakistan Hindu Persecution: UK की कंजर्वेटिव पार्टी के नेता और सांसद बॉब ब्लैकमैन ने पाकिस्तान में हिंदुओं पर लगातार बढ़ रहे अत्याचारों को लेकर गहरी चिंता जताई है। उन्होंने ब्रिटिश सरकार से यह बताने को कहा है कि दक्षिण एशियाई देश में उत्पीड़न का सामना कर रहे धार्मिक अल्पसंख्यकों की सुरक्षा के लिए क्या कदम उठाए गए हैं।
-
----
-
-## अमेरिका
-
-### [चुनाव में हस्तक्षेप और मतपत्र रोकने पर कोर्ट की रोक, 20 हजार मतपत्रों पर था विवाद](https://www.amarujala.com/world/trump-administration-faces-court-setback-over-california-ballot-dispute-2026-11-01)
-*Amar Ujala World* - Nov 01, 05:29 IST (iso: 2026-10-31T23:59:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/21/mp-news_72c67f59a87359680c007c64aaf15b78.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी न्यायालय ने ट्रंप प्रशासन को केलिफोर्निया में चुनाव हस्तक्षेप और मतपत्र रोकने से रोक दिया है। विवाद 20 हजार मतपत्रों पर केंद्रित था। अदालत ने इस कदम को अनुचित माना है। चुनाव में हस्तक्षेप और मतपत्र रोकने पर कोर्ट की रोक, 20 हजार मतपत्रों पर था विवाद।
-
-### ['मैंने अपनी बहनों से शादी करने की नहीं सोची', ट्रंप ने क्यों दिया ऐसा भद्दा बयान? इल्हान ओमर को](https://hindi.news18.com/world/america-trump-sisters-remark-sparks-row-donald-trump-attacks-ilhan-omar-over-brother-marriage-allegations-citizenship-probe-10953632.html)
-*News18 Hindi (World)* - Oct 31, 22:53 IST (iso: 2026-10-31T17:23:43+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Trump-Sister-To-Ilhan-Omar-2026-10-5020dca110240932f345ce9931f2fdb6-1200x800.jpg -->
-
-ट्रंप ने फ्लोरिडा रैली में सांसद इल्हान ओमर पर निशाना साधा। उन्होंने ओमर पर भाई से शादी और फर्जी कागजों से नागरिकता पाने के पुराने आरोप दोहराए। फिलहाल ओमर की इमिग्रेशन पेपर्स की फेडरल जांच चल रही है। रिपब्लिकन पार्टी उन्हें संसद से बाहर करने के कानूनी रास्ते तलाश रही है। डोनाल्ड ट्रंप ने फ्लोरिडा की एक रैली में अपनी सगी बहनों पर अजीबोगरीब बयान दिया.
+नए वायुसेना प्रमुख ने कहा कि ड्रोन और लंबी दूरी के हथियार युद्ध के स्वरूप को बदल रहे हैं। उन्होंने एयरफोर्स को युद्ध लड़ने और जीतने के लिए हमेशा तैयार रहने का निर्देश दिया। ड्रोन और लंबी दूरी के हथियार बदल रहे युद्ध का स्वरूप: नए वायुसेना प्रमुख ने कहा- युद्ध लड़ने और जीतने के लिए हमेशा तैयार रहे एयरफोर्स।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [रामलीला मैदान में INDIA ब्लॉक की दिल्ली चलो रैली; मध्य प्रदेश में चार की मौत; G20 में आम सहमति नहीं](https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-1-november-2026-updates-on-amar-ujala-news-in-hindi-2026-11-01)
-*Amar Ujala National* - Nov 01, 05:04 IST (iso: 2026-10-31T23:34:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
-
-INDIA ब्लॉक ने दिल्ली चलो रैली रामलीला मैदान में निकाली। मध्य प्रदेश में चार लोगों की मौत हुई। G20 बैठक में आम सहमति नहीं बनी। रामलीला मैदान में INDIA ब्लॉक की दिल्ली चलो रैली; मध्य प्रदेश में चार की मौत; G20 में आम सहमति नहीं।
-
-### [रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?](https://www.amarujala.com/live/india-news/cec-gyanesh-kr-india-bloc-ramlila-maidan-live-delhi-chalo-congress-rahul-cjp-opposition-v-bjp-nda-govt-react-2026-11-01)
-*Amar Ujala Breaking* - Nov 01, 04:25 IST (iso: 2026-10-31T22:55:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/chalo-delhi-india-bloc-ramlila-maidan_9312e2503dcc48e867b0bc35ba847fbe.gif?w=1200&dpr=1.0 -->
+### [खरगे के घर पर जुटने लगे विपक्षी सांसद, राहुल का एलान- 12 बजे मार्च कर पहुंचेंगे रामलीला मैदान](https://www.amarujala.com/live/india-news/cec-gyanesh-kr-india-bloc-ramlila-maidan-live-delhi-chalo-congress-rahul-cjp-opposition-v-bjp-nda-govt-react-2026-11-01)
+*Amar Ujala National* - Nov 01, 12:18 IST (iso: 2026-11-01T06:48:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/chalo-dilli-march_fc94c6817e5e88083aa39239a2293bec.gif?w=1200&dpr=1.0 -->
 
 दिल्ली के रामलीला मैदान में विपक्षी दलों का सम्मेलन होगा। ज्ञानेश कुमार के पद से हटाने की मांग उठाई जाएगी। सीईसी के खिलाफ एकजुटता का प्रदर्शन किया जाएगा। दिल्ली चलो LIVE: रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट? चलो दिल्ली LIVE: रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?
 
-### [आज से दिल्ली नहीं जा पाएंगी उत्तराखंड रोडवेज की 200 बसें, नए रूट्स पर वोल्वो चलाने की तैयारी](https://www.amarujala.com/dehradun/dehradun-200-roadways-buses-will-not-be-able-to-enter-delhi-starting-today-2026-11-01)
-*Amar Ujala Breaking* - Nov 01, 04:10 IST (iso: 2026-10-31T22:40:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/1_07944a86188c9261d5f826cf0fcbbe27.jpeg?w=1200&dpr=1.0 -->
+### ['जीतने पर चुप, हारने पर सवाल': रामलीला मैदान में विपक्ष की रैली पर भड़का एनडीए, राहुल गांधी पर कसा](https://www.amarujala.com/india-news/nda-leader-rajiv-ranjan-attack-india-bloc-chalo-delhi-rally-democracy-election-commission-sir-2026-11-01)
+*Amar Ujala National* - Nov 01, 12:12 IST (iso: 2026-11-01T06:42:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/rajava-rajana-rashhataraya-paravakata-jathaya_f5a1877f38109c0af6b5c5dda2687bc2.jpeg?w=1200&dpr=1.0 -->
 
-उत्तराखंड रोडवेज की 200 बसें दिल्ली नहीं जाएंगी। नए रूट्स पर वोल्वो बसें चलाने की तैयारी है। दिल्ली में अब केवल बीएस-छह वाहन प्रवेश कर सकेंगे। दिल्ली में रविवार से बीएस-छह वाहन ही प्रवेश कर सकेंगे। आज से दिल्ली नहीं जा पाएंगी उत्तराखंड रोडवेज की 200 बसें, नए रूट्स पर वोल्वो चलाने की तैयारी।
+एनडीए ने रामलीला मैदान में विपक्ष की रैली को लेकर राहुल गांधी पर हमला किया। उन्होंने विपक्ष को जीत पर चुप और हार पर सवाल उठाने वाला बताया। इस घटनाक्रम ने चुनावी माहौल को और तनावपूर्ण बना दिया। 'जीतने पर चुप, हारने पर सवाल': रामलीला मैदान में विपक्ष की रैली पर भड़का एनडीए, राहुल गांधी पर कसा।
 
-### [क्वाड बैठक में भारत का डंका, 8.5 करोड़ डॉलर के AI फंड से 6G और सेमीकंडक्टर तक हुए 10 बड़े ऐलान](https://hindi.news18.com/news/nation/quad-foreign-ministers-meeting-india-global-leadership-praised-as-quad-unveils-85-million-dollars-ai-fund-6g-and-semiconductor-10-big-initiatives-10953547.html)
-*News18 Hindi (World)* - Oct 31, 22:21 IST (iso: 2026-10-31T16:51:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Quad-Meeting-2026-10-ec5c2e4650bf85a4cc4293fabbca9d55-1200x800.jpg -->
+### [नेपाल में 20 दिन तक चट्टान और उफनती नदी के बीच फंसा रहा कुत्ता, दो नाविकों ने जान जोखिम में डालकर](https://www.patrika.com/world-news/nepal-dog-rescued-after-20-days-trapped-between-cliff-and-raging-river-21022529)
+*Patrika (World)* - Nov 01, 11:54 IST (iso: 2026-11-01T06:24:31+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Nepal-Dog-Rescue.webp -->
 
-अटलांटा में क्वाड विदेश मंत्रियों की बैठक में 10 बड़े ऐलान किए गए। इनमें 8.5 करोड़ डॉलर का AI फंड, 6G तकनीक और सेमीकंडक्टर सप्लाई चेन शामिल हैं। बैठक में संकट के वक्त नेपाल को मदद देने के लिए भारत की तारीफ हुई। चारों देशों ने चीन की नीतियों का विरोध किया। अमेरिका के अटलांटा में क्वाड विदेश मंत्रियों की बड़ी बैठक हुई.
+नेपाल के गोरखा जिले में एक कुत्ता बीस दिन तक चट्टान पर फंसा रहा। दो कयाकर्स ने तेज बहाव के बीच उसे बचाया। स्थानीय प्रशासन ने भी तीन दिन तक बचाव अभियान चलाया। काठमांडू। नेपाल के गोरखा जिले में एक कुत्ता 20 दिनों तक ऊंची चट्टान और उफनती नदी के बीच जमीन के एक संकरे टुकड़े पर फंसा रहा। शुक्रवार शाम दो कयाकर्स ने तेज बहाव और बारिश के बीच नदी पार कर उसे सुरक्षित बाहर निकाल लिया।
 
-### [सेक्रेटरी रूबियो फिर आएंगे भारत, जी20 से पहले दोनों देशों के बीच बड़ी डील के संकेत, गोर ने क्या कहा?](https://hindi.news18.com/world/america-us-ambassador-sergio-gor-india-us-trade-deal-military-exercises-g20-summit-quad-meeting-10953427.html)
-*News18 Hindi (World)* - Oct 31, 21:05 IST (iso: 2026-10-31T15:35:34+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Atlanta_G20-2026-10-9b8b011dd96a559b2ad95bf328185fc3-1200x800.jpg -->
+### [राहुल ने रैली में पहुंचने का किया आह्वान, बोले- दिल्ली, तैयार हो जाओ! वोट बचाओ, देश बचाओ](https://www.amarujala.com/india-news/rahul-gandhi-urges-people-to-join-india-bloc-s-chalo-dilli-march-2026-11-01)
+*Amar Ujala National* - Nov 01, 11:54 IST (iso: 2026-11-01T06:24:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/rahal-gathha_8f06e27df565bcbb09535cff6280d791.jpeg?w=1200&dpr=1.0 -->
 
-भारतीय राजदूत सर्जियो गोर ने अटलांटा में कहा कि अमेरिका के साथ व्यापार समझौता अंतिम चरण में है। रक्षा साझेदारी भी मजबूत हो रही है। भारत और अमेरिका के बीच रणनीतिक और आर्थिक रिश्ते नए मुकाम पर पहुंच रहे हैं. अमेरिका में भारत के राजदूत सर्जियो गोर ने अटलांटा में कहा कि दोनों देश ट्रेड एग्रीमेंट को अंतिम रूप देने के बेहद करीब हैं.
+राहुल गांधी ने इंडिया गठबंधन की चलो दिल्ली रैली में शामिल होने का आह्वान किया। उन्होंने वोट बचाओ, देश बचाओ का नारा दिया। यह रैली दिल्ली में आयोजित की गई। राहुल ने रैली में पहुंचने का किया आह्वान, बोले- दिल्ली, तैयार हो जाओ!
+
+### [QUAD का मेंबर होने पर भी अमेरिका पर क्‍यों भड़का भारत? चीन को भी सुनाई खरी-खरी](https://hindi.news18.com/world/south-asia-india-in-quad-declares-independent-foreign-policy-reacts-over-us-china-ws-l-10954415.html)
+*News18 Hindi (World)* - Nov 01, 11:45 IST (iso: 2026-11-01T06:15:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/S-Jaishankar-PTI-2026-10-53c2700a8b0ae8f6f6e1b311d751b60e-1200x800.jpg -->
+
+भारत ने क्वाड के सदस्य होने के बावजूद अमेरिका पर अपनी आलोचनात्मक राय रखी। चीन के प्रति भी कड़ी भाषा का प्रयोग किया गया। भारत ने स्पष्ट किया कि उसकी विदेश नीति स्वतंत्र है और किसी ब्लॉक से प्रभावित नहीं होती। India QUAD Declares Independent Foreign: भारत वो देश है, जो कई ऐसे इंटरनेशनल ब्लॉक का हिस्सा है, जो एक-दूसरे के खिलाफ बने हुए हैं.
+
+### ['दुकानें बंद रहेंगी तो खरीदारी कहां से होगी?': राहुल गांधी की अपील पर व्यापारियों का तीखा सवाल; फिर](https://www.amarujala.com/india-news/delhi-india-bloc-rally-ramlila-maidan-rahul-gandhi-cti-warns-business-impact-diwali-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 11:33 IST (iso: 2026-11-01T06:03:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/rahal-gathha_8604f6f68c930c0aa633f21aabc708dc.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली के रामलीला मैदान में राहुल गांधी की अपील पर व्यापारियों ने सवाल उठाया कि दुकानें बंद रहें तो खरीदारी कैसे होगी। व्यापारी संगठन ने दीपावली के दौरान व्यापारिक प्रभाव से चिंता जताई और पत्र लिखा। 'दुकानें बंद रहेंगी तो खरीदारी कहां से होगी?': राहुल गांधी की अपील पर व्यापारियों का तीखा सवाल; फिर।
 
 ---
 
-## वैश्विक / बहुपक्षीय
+## यूरोप और रूस
 
-### [जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया](https://www.amarujala.com/world/s-jaishankar-stronger-and-more-secure-global-supply-chains-global-economy-g20-meeting-2026-11-01)
-*Amar Ujala World* - Nov 01, 03:29 IST (iso: 2026-10-31T21:59:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/06/vathasha-matara-jayashakara_a031c8715286ea34e5ac232a44097a3a.jpeg?w=1200&dpr=1.0 -->
+### [सैमसंग, शाओमी और मोटोरोला के प्रीमियम स्मार्टफोन्स पर ऑफर्स की बरसात, अभी चेक करें ऑफर्स](https://www.amarujala.com/photo-gallery/technology/tech-diary/diwali-2026-smartphone-offers-discounts-samsung-xiaomi-motorola-oneplus-2026-11-01)
+*Amar Ujala National* - Nov 01, 12:13 IST (iso: 2026-11-01T06:43:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/diwali-premium-smartphone-discount_f6b14fc2506a6aeffc060573dd146c44.jpeg -->
 
-विदेश मंत्री जयशंकर ने जी-20 बैठक में सुरक्षित सप्लाई चेन की ज़रूरत पर जोर दिया। उन्होंने वैश्विक अर्थव्यवस्था के लिए व्यापारिक विकल्पों को बढ़ाने की सलाह दी। यह स्थिरता के लिए महत्वपूर्ण है। जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया।
+दिवाली 2026 पर सैमसंग, शाओमी और मोटोरोला ने प्रीमियम स्मार्टफोन्स पर भारी छूट दी है। गैलेक्सी S26 अल्ट्रा और शाओमी 17 अल्ट्रा पर विशेष ऑफर्स उपलब्ध हैं। Premium Smartphone Diwali Offer: दिवाली 2026 के मौके पर टेक कंपनियों ने ग्राहकों के लिए ऑफर्स का पिटारा खोल दिया है। सैमसंग के गैलेक्सी S26 अल्ट्रा से लेकर शाओमी 17 अल्ट्रा और मोटोरोला के प्रीमियम स्मार्टफोन्स पर भारी-भरकम डिस्काउंट मिल रहा है।
+
+### [ज्यादा मिठाइयां खाने से पहले आज से करें इन योगासनों की शुरुआत, शरीर रहेगा एक्टिव और पाचन को मिलेगा](https://www.amarujala.com/lifestyle/yoga-and-health/best-yoga-poses-for-digestion-yoga-asanas-to-improve-digestion-and-stay-active-after-eating-sweets-2026-11-01)
+*Amar Ujala National* - Nov 01, 12:08 IST (iso: 2026-11-01T06:38:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/best-yoga-poses-for-digestion_095a4fb69b393d244f20febf0a02cd07.jpeg?w=1200&dpr=1.0 -->
+
+त्योहारों में अधिक मिठाई खाने से पाचन तंत्र पर दबाव पड़ता है। इससे गैस और अपच जैसी समस्याएं हो सकती हैं। ऐसे में योगासन करने से शरीर सक्रिय रहता है और पाचन सुधरता है। त्योहारों के मौसम में मिठाइयां और पकवान खाना आम बात है, लेकिन ज्यादा मीठा और भारी भोजन करने से कुछ लोगों को पेट फूलने, गैस, अपच और सुस्ती जैसी परेशानियां हो सकती हैं।
+
+### [अहोई अष्टमी का व्रत आज, जानें शाम को कितने बजे करें तारों की पूजा और क्या रहेगी विधि](https://www.amarujala.com/photo-gallery/spirituality/festivals/ahoi-ashtami-2026-puja-muhurat-taare-arghya-timings-know-ahoi-ashtami-par-taro-ki-puja-kaise-kare-2026-11-01)
+*Amar Ujala National* - Nov 01, 11:56 IST (iso: 2026-11-01T06:26:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/31/ahoi-ashtami-2026_57d26e6a15b6475d8c2b53419894ca00.jpeg?w=1200&dpr=1.0 -->
+
+एक नवंबर को अहोई अष्टमी का व्रत रखा गया। महिलाओं ने संतान की कल्याण के लिए निर्जला व्रत किया। शाम को तारों की पूजा करके व्रत का पारण किया गया। Ahoi Ashtami 2026: आज 1 नवंबर 2026 को अहोई अष्टमी का पर्व मनाया जा रहा है। इस दिन महिलाएं संतान की सुख-समृद्धि और लंबी उम्र के लिए निर्जला व्रत रखती हैं।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [यमन में तेल ठिकाने पर दो हवाई हमले, 3 नागरिक घायल, सऊदी गठबंधन पर आरोप](https://www.patrika.com/world-news/yemen-hodeidah-oil-facility-airstrikes-21022299)
+*Patrika (World)* - Nov 01, 11:28 IST (iso: 2026-11-01T05:58:28+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Houthi-rebels-fire-at-military-camp-in-yemen.webp -->
+
+यमन के होदेदा प्रांत में सऊदी अरब के नेतृत्व वाले गठबंधन ने दो हवाई हमले किए। इन हमलों में तीन नागरिक घायल हुए। होदी विद्रोहियों ने यह आरोप लगाया, जबकि गठबंधन की ओर से अभी तक कोई आधिकारिक प्रतिक्रिया नहीं आई है। Houthi Rebels: पश्चिम एशिया में जारी तनाव के बीच यमन के होदेदा प्रांत में एक तेल प्रतिष्ठान को निशाना बनाए जाने की खबर सामने आई है।
+
+---
+
+## अमेरिका
+
+### [वेनेजुएला के एक कारोबारी के साथ 50 मिलियन डॉलर का समझौता, अपनी पूर्व वकील पर बुरी तरह भड़के ट्रंप](https://www.patrika.com/world-news/donand-trump-slams-alina-habba-50-million-contract-21022362)
+*Patrika (World)* - Nov 01, 11:00 IST (iso: 2026-11-01T05:30:49+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-warns-Iran-of-military-action.webp -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपनी पूर्व वकील अलीना हब्बा मिल्डन पर नाराजगी जताई है। यह विवाद 50 मिलियन डॉलर के एक कॉन्ट्रैक्ट से जुड़ा है। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने अपनी पूर्व वकील अलीना हब्बा मिल्डन को लेकर कड़ी नाराजगी जताई है। मामला 50 मिलियन डॉलर यानी करीब 440 करोड़ रुपये के एक कॉन्ट्रैक्ट से जुड़ा है। वेनेजुएला के एक कारोबारी के साथ 50 मिलियन डॉलर का समझौता, अपनी पूर्व वकील पर बुरी तरह भड़के ट्रंप।
+
+### [एपस्टीन से जुड़े मामले में डोनाल्ड ट्रंप को झटका, कोर्ट ने हमेशा के लिए खारिज किया 10 अरब डॉलर का](https://www.patrika.com/world-news/donald-trump-10-billion-defamation-lawsuit-dismissed-wsj-epstein-birthday-note-21022325)
+*Patrika (World)* - Nov 01, 10:59 IST (iso: 2026-11-01T05:29:03+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-warns-Iran-of-military-action.webp -->
+
+मियामी के अमेरिकी डिस्ट्रिक्ट कोर्ट ने ट्रंप द्वारा रूपर्ट मर्डोक और वॉल स्ट्रीट जर्नल के खिलाफ दायर 10 अरब डॉलर का मानहानि मुकदमा खारिज कर दिया। जज डैरिन गेल्स ने इसे विद प्रिज्युडिस के आधार पर अस्वीकार किया। Donald Trump Defamation Case: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप को मीडिया इंडस्ट्री के खिलाफ अपनी कानूनी लड़ाई में एक बड़ा झटका लगा है।
 
 ---
 
