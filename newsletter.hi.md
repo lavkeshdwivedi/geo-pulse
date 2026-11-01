@@ -1,6 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 01, 2026 03:29 IST
+**अपडेट:** November 01, 2026 06:10 IST
 
 ---
 
@@ -12,29 +12,47 @@
 
 चक्रवात अर्नब के बाद ओडिशा के गंजम और गजपति जिलों में बाढ़ के हालात सामान्य हो रहे हैं। आंध्र प्रदेश में नुकसान का अनुमान 4,764 करोड़ रुपये है। राहत और पुनर्वास कार्य तेज हो गए हैं। ओडिशा के गंजम-गजपति में बाढ़ के हालात सुधरे, आंध्र प्रदेश में 4,764 करोड़ के नुकसान का अनुमान।
 
-### [WhatsApp ग्रुप में जुड़े 4 नए फीचर्स, एडमिन-मेंबर्स को क्या होगा फायदा?](https://www.amarujala.com/video/technology/tech-diary/4-new-features-added-to-whatsapp-groups-how-will-admins-and-members-benefit-2026-11-01)
-*Amar Ujala National* - Nov 01, 03:24 IST (iso: 2026-10-31T21:54:13+00:00)
-<!-- image: https://images.pexels.com/photos/20716657/pexels-photo-20716657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+### [Weather Forecast 01 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-01-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-01)
+*Amar Ujala National* - Nov 01, 06:00 IST (iso: 2026-11-01T00:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/weather-forecast_e1f7bf6639fcfa31b26deb91731ac5d4.jpeg?w=1200&dpr=1.0 -->
 
-व्हाट्सएप ने ग्रुप चैट के लिए चार नए फीचर्स पेश किए हैं। ये सुविधाएँ एडमिन और सामान्य सदस्यों दोनों के लिए उपयोगी हैं। ग्रुप प्रबंधन और संचार बेहतर होगा। WhatsApp ग्रुप में जुड़े 4 नए फीचर्स, एडमिन-मेंबर्स को क्या होगा फायदा?
+स्रोत में 1 नवंबर 2026 के लिए मौसम का विस्तृत विवरण उपलब्ध नहीं है। केवल शीर्षक दिया गया है। इसीलिए कोई विशिष्ट तापमान या मौसमी स्थिति का उल्लेख नहीं किया जा सकता।
+
+### [आरएसएस ने कहा- विरोध करने का हक सबको, देश-विरोधी ताकतों से रहना होगा सावधान](https://www.amarujala.com/india-news/national-updates-rss-sunil-ambekar-indore-north-east-west-south-telangana-karnataka-bengal-politics-crime-news-2026-11-01)
+*Amar Ujala National* - Nov 01, 05:15 IST (iso: 2026-10-31T23:45:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_f989854be53005d7e8cde31bdce9e126.jpeg?w=1200&dpr=1.0 -->
+
+आरएसएस ने विरोध के अधिकार को मान्यता दी। संगठन ने देश-विरोधी ताकतों से सावधान रहने की सलाह दी। यह बयान राजनीतिक तनाव के बीच आया है। न्यूज डायरी: आरएसएस ने कहा- विरोध करने का हक सबको, देश-विरोधी ताकतों से रहना होगा सावधान।
+
+### [केंद्र ने राज्यों को कर हस्तांतरण के फंड जारी किए; अब 31 दिसंबर तक कपास का शुल्क मुक्त आयात](https://www.amarujala.com/business/business-diary/business-news-updates-cotton-import-no-cost-till-31st-dec-rbi-forex-sebi-bse-nse-stocks-gold-silver-crude-rate-2026-11-01)
+*Amar Ujala National* - Nov 01, 05:11 IST (iso: 2026-10-31T23:41:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0 -->
+
+केंद्र सरकार ने राज्यों को कर हस्तांतरण के फंड जारी किए। 31 दिसंबर तक कपास का शुल्क मुक्त आयात लागू होगा। यह कृषि क्षेत्र को राहत देगा। बिजनेस अपडेट्स: केंद्र ने राज्यों को कर हस्तांतरण के फंड जारी किए; अब 31 दिसंबर तक कपास का शुल्क मुक्त आयात।
+
+### [संतान की खुशहाली के इस पर्व पर अपनों को भेजें ये प्यार भरे मैसेज](https://www.amarujala.com/photo-gallery/spirituality/festivals/happy-ahoi-ashtamoi-2026-wishes-whatsapp-messages-quotes-images-wallpapers-in-hindi-2026-10-31)
+*Amar Ujala National* - Nov 01, 05:06 IST (iso: 2026-10-31T23:36:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/23/happy-ahoi-ashtami-2024_bb57d039ac53cd5fce8f27aa7aacfa37.jpeg?w=1200&dpr=1.0 -->
+
+अहोई अष्टमी मां और बच्चों के रिश्ते का प्रतीक है। इस पर्व पर परिवार की महिलाओं को शुभकामनाएं भेजी जाती हैं। यह त्योहार निस्वार्थ प्रेम को दर्शाता है। अहोई अष्टमी का त्योहार मां और बच्चों के बीच के अटूट रिश्ते और निस्वार्थ प्रेम का प्रतीक भी है। इस शुभ अवसर पर आप भी अपनी मां, बहन, सहेली और परिवार की अन्य महिलाओं को प्यार भरे संदेशों के जरिए अहोई अष्टमी की शुभकामनाएं दे सकते हैं।
+
+### [डॉ. अनीस ने 19 युवतियों से किया दुष्कर्म, वीसी के सचिव भी जांच के घेरे में](https://www.amarujala.com/lucknow/conversion-scandal-unearthed-at-kgmu-dr-anees-molested-19-hindu-girls-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 03:50 IST (iso: 2026-10-31T22:20:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/1_639c99e8082b82a3a01db0d1338b7fb6.jpeg?w=1200&dpr=1.0 -->
+
+लखनऊ के केजीएमयू में एसटीएफ ने डॉ. अनीस को 19 महिलाओं के यौन शोषण के आरोप में पकड़ा। जांच में वीसी के सचिव भी घेरे में आ गए। इस मामले में धर्मांतरण के संकेत भी सामने आए हैं। लखनऊ। किंग जॉर्ज चिकित्सा विश्वविद्यालय (केजीएमयू) में धर्मांतरण और महिला डॉक्टरों के यौन शोषण की जांच में एसटीएफ ने इस्लामिक मेडिकोज समूह से जुड़े एक डॉक्टर को लेकर बड़ा खुलासा किया है।
+
+### [मध्य प्रदेश में जहरीली गैस का कहर: उज्जैन में चार होटल कर्मियों की मौत, देवास रोड पर चैंबर सफाई के](https://www.amarujala.com/india-news/madhya-pradesh-toxic-gas-ujjain-hotel-workers-death-updates-dewas-road-underground-chamber-cleaning-news-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 03:39 IST (iso: 2026-10-31T22:09:35+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/jaharal-gasa-ka-kahara-ujajana-ma-cara-hatal-karamaya-ka-mata_e8faa8eb38ae637387bd12856ba86b65.jpeg?w=1200&dpr=1.0 -->
+
+मध्य प्रदेश के उज्जैन में जहरीली गैस से चार होटल कर्मियों की मौत हो गई। देवास रोड पर चैंबर सफाई के दौरान यह हादसा हुआ। स्थानीय प्रशासन ने जांच शुरू कर दी है। मध्य प्रदेश में जहरीली गैस का कहर: उज्जैन में चार होटल कर्मियों की मौत, देवास रोड पर चैंबर सफाई के।
 
 ### [गंभीर घायल छात्रा को बेहतर इलाज के लिए भेजा गया बंगलूरू, सरकार उठाएगी पूरा खर्च](https://www.amarujala.com/india-news/andhra-school-chainsaw-attack-girl-shifted-to-bengaluru-for-advanced-treatment-2026-11-01)
-*Amar Ujala National* - Nov 01, 02:19 IST (iso: 2026-10-31T20:49:00+00:00)
+*Amar Ujala Breaking* - Nov 01, 02:19 IST (iso: 2026-10-31T20:49:00+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/aathhara-parathasha-ma-nablga-bcaca-para-sakal-ka-athara-hamal_9ae5c131c06af3c56d1f2bdbc59ab461.jpeg?w=1200&dpr=1.0 -->
 
 आंध्र प्रदेश के स्कूल हमले में घायल छात्रा को बंगलुरु भेजा गया। वहां बेहतर इलाज के लिए विशेषज्ञों की देखरेख रहेगी। राज्य सरकार पूरा खर्च उठाएगी। गंभीर घायल छात्रा को बेहतर इलाज के लिए भेजा गया बंगलूरू, सरकार उठाएगी पूरा खर्च।
-
-### [रामपुर जेल से रिहा होते ही ED की हिरासत में आजम खान, फूटा गुस्सा खूब सुनाया!](https://www.amarujala.com/video/india-news/azam-khan-taken-into-ed-custody-immediately-upon-his-release-from-rampur-jail-he-erupted-in-anger-and-gave-th-2026-11-01)
-*Amar Ujala National* - Nov 01, 01:33 IST (iso: 2026-10-31T20:03:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/azam-khan-arrested-by-ed_0c2f89c49c522bdc3e2c3bd6491f903d.jpeg?w=1200&dpr=1.0 -->
-
-रामपुर जेल से रिहा होते ही आजम खान को ईडी ने हिरासत में लिया। उन्होंने इस कार्रवाई पर प्रतिक्रिया व्यक्त की। उनके गुस्से की बातें सुनाई दीं। रामपुर जेल से रिहा होते ही ED की हिरासत में आजम खान, फूटा गुस्सा खूब सुनाया!
-
-### [मीरा कुमार पंडित नेहरू की कुर्सी पर बैठीं: CEC के खिलाफ विपक्ष का प्रतीकात्मक महाभियोग, क्या बोले](https://www.amarujala.com/india-news/ex-ls-speaker-meira-kumar-sat-on-nehru-chair-to-preside-over-public-impeachment-of-cec-2026-11-01)
-*Amar Ujala National* - Nov 01, 01:12 IST (iso: 2026-10-31T19:42:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/mara-kamara-parava-lkasabha-athhayakashha_23ae03ef3f41f5c10fa72bdb63219b3e.jpeg?w=1200&dpr=1.0 -->
-
-मीरा कुमार ने पंडित नेहरू की कुर्सी पर बैठकर सीईसी के खिलाफ प्रतीकात्मक महाभियोग की अध्यक्षता की। राहुल गांधी ने भी इस कार्यक्रम में भाग लिया। विपक्ष ने इस घटनाक्रम का प्रतीकात्मक महत्व बताया। मीरा कुमार पंडित नेहरू की कुर्सी पर बैठीं: CEC के खिलाफ विपक्ष का प्रतीकात्मक महाभियोग, क्या बोले।
 
 ### [होटल के कमरे में पहुंचीं जर्नलिस्‍ट, बेड पर पार्टनर के साथ लेटा मिला मंत्री! लॉरा बोलीं- मुझे लगा](https://hindi.news18.com/world/britain-bbc-presenter-laura-kuenssberg-minister-hotel-room-threesome-claim-10953653.html)
 *News18 Hindi (World)* - Oct 31, 22:39 IST (iso: 2026-10-31T17:09:47+00:00)
@@ -44,69 +62,41 @@
 
 ---
 
-## वैश्विक / बहुपक्षीय
+## मध्य पूर्व और अफ्रीका
 
-### [जम्मू एयरपोर्ट से शुरू होगी अंतरराष्ट्रीय उड़ान, मध्य पूर्व और यूरोप के लिए सेवाएं देने की तैयारी](https://www.amarujala.com/jammu/international-flights-to-commence-from-jammu-airport-2026-11-01)
-*Amar Ujala Breaking* - Nov 01, 12:26 IST (iso: 2026-11-01T06:56:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/1_4b753c005cecb62c6cf5308a40f721ff.jpeg?w=1200&dpr=1.0 -->
+### ['ईरान झुकेगा नहीं', ट्रंप की धमकियों के बीच गरजा तेहरान, अमेरिका के सामने रखीं बड़ी शर्तें](https://hindi.news18.com/world/middle-east-iran-us-deal-araghchi-majtaba-khamenei-warn-of-possible-us-attack-amid-talks-ws-l-10953916.html)
+*News18 Hindi (World)* - Nov 01, 06:09 IST (iso: 2026-11-01T00:39:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/IRAN-US-2026-08-185bd7ee333bf8a20d2b1ff65f71a17c-1200x800.jpg -->
 
-जम्मू एयरपोर्ट से अंतरराष्ट्रीय उड़ानों की शुरुआत होगी। मध्य पूर्व और यूरोप के लिए नई सेवाओं की तैयारी चल रही है। यह कनेक्टिविटी बढ़ाने का कदम है। जम्मू एयरपोर्ट से जल्द ही अंतरराष्ट्रीय हवाई सेवा की सुविधा शुरू होगी। जम्मू एयरपोर्ट से शुरू होगी अंतरराष्ट्रीय उड़ान, मध्य पूर्व और यूरोप के लिए सेवाएं देने की तैयारी।
+ईरान के विदेश मंत्री अरागची और सुप्रीम लीडर खामेनेई ने ट्रंप की धमकियों के बीच स्पष्ट किया कि देश कभी सरेंडर नहीं करेगा। तेहरान ने अमेरिका के सामने अपनी शर्तें रखी हैं। दोनों देशों के बीच बातचीत जारी है, लेकिन तनाव बढ़ रहा है। Iran-US Deal News: ईरान-अमेरिका के बीच एक बार फिर से तनाव बढ़ गया है. एक तरफ तो दोनों देशों के बीच बातचीत चल रही है, वहीं दूसरी ओर ट्रंप लगातार कह रहे हैं कि वो ईरान पर हमला कर सकते हैं.
 
-### [जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया](https://www.amarujala.com/world/s-jaishankar-stronger-and-more-secure-global-supply-chains-global-economy-g20-meeting-2026-11-01)
-*Amar Ujala World* - Nov 01, 03:29 IST (iso: 2026-10-31T21:59:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/06/vathasha-matara-jayashakara_a031c8715286ea34e5ac232a44097a3a.jpeg?w=1200&dpr=1.0 -->
+### [बांग्लादेश को कैसे लूट रहा पाकिस्तान? मुस्लिम ब्रदरहुड के पीछे की असलियत हुई लीक, ट्रेड के बहाने हो](https://hindi.news18.com/world/south-asia-pakistan-bangladesh-relations-exposed-truth-behind-muslim-brotherhood-hype-trade-imbalance-exploiting-dhaka-10953701.html)
+*News18 Hindi (World)* - Oct 31, 23:28 IST (iso: 2026-10-31T17:58:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Pakistan-Bangladesh-Relations-2026-10-477195011e18efb25e41fe471dce5081-1200x800.jpg -->
 
-विदेश मंत्री जयशंकर ने जी-20 बैठक में सुरक्षित सप्लाई चेन की ज़रूरत पर जोर दिया। उन्होंने वैश्विक अर्थव्यवस्था के लिए व्यापारिक विकल्पों को बढ़ाने की सलाह दी। यह स्थिरता के लिए महत्वपूर्ण है। जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया।
-
----
-
-## एशिया-प्रशांत
-
-### [10 लाख लोगों के जुटने का दावा, पुलिस को 70 हजार का अनुमान; सात हजार जवान तैनात](https://www.amarujala.com/photo-gallery/delhi-ncr/congress-rally-ramlila-maidan-delhi-security-7000-police-personnel-2026-10-31)
-*Amar Ujala Breaking* - Nov 01, 12:06 IST (iso: 2026-11-01T06:36:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/31/ramall-mathana_76c1c220119641658f62e0ca2e95b8e4.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली के रामलीला मैदान में कांग्रेस की महारैली के लिए सुरक्षा व्यवस्था कड़ी कर दी गई है। पार्टी ने 10 लाख लोगों के जुटने का दावा किया है। पुलिस का अनुमान 70 हजार है और सात हजार जवान तैनात हैं। रामलीला मैदान में आज होने वाली कांग्रेस की महारैली को लेकर दिल्ली पुलिस ने सुरक्षा के व्यापक इंतजाम किए हैं।
-
-### [रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?](https://www.amarujala.com/live/india-news/cec-gyanesh-kr-india-bloc-ramlila-maidan-live-delhi-chalo-congress-rahul-cjp-opposition-v-bjp-nda-govt-react-2026-11-01)
-*Amar Ujala National* - Nov 01, 03:21 IST (iso: 2026-10-31T21:51:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/original/default_500.png?w=1200&dpr=1.0 -->
-
-दिल्ली के रामलीला मैदान में विपक्षी दलों का सम्मेलन होगा। ज्ञानेश कुमार के पद से हटाने की मांग उठाई जाएगी। सीईसी के खिलाफ एकजुटता का प्रदर्शन किया जाएगा। दिल्ली चलो LIVE: रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?
-
-### [क्वाड बैठक में भारत का डंका, 8.5 करोड़ डॉलर के AI फंड से 6G और सेमीकंडक्टर तक हुए 10 बड़े ऐलान](https://hindi.news18.com/news/nation/quad-foreign-ministers-meeting-india-global-leadership-praised-as-quad-unveils-85-million-dollars-ai-fund-6g-and-semiconductor-10-big-initiatives-10953547.html)
-*News18 Hindi (World)* - Oct 31, 22:21 IST (iso: 2026-10-31T16:51:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Quad-Meeting-2026-10-ec5c2e4650bf85a4cc4293fabbca9d55-1200x800.jpg -->
-
-अटलांटा में क्वाड विदेश मंत्रियों की बैठक में 10 बड़े ऐलान किए गए। इनमें 8.5 करोड़ डॉलर का AI फंड, 6G तकनीक और सेमीकंडक्टर सप्लाई चेन शामिल हैं। बैठक में संकट के वक्त नेपाल को मदद देने के लिए भारत की तारीफ हुई। चारों देशों ने चीन की नीतियों का विरोध किया। अमेरिका के अटलांटा में क्वाड विदेश मंत्रियों की बड़ी बैठक हुई.
-
-### [सेक्रेटरी रूबियो फिर आएंगे भारत, जी20 से पहले दोनों देशों के बीच बड़ी डील के संकेत, गोर ने क्या कहा?](https://hindi.news18.com/world/america-us-ambassador-sergio-gor-india-us-trade-deal-military-exercises-g20-summit-quad-meeting-10953427.html)
-*News18 Hindi (World)* - Oct 31, 21:05 IST (iso: 2026-10-31T15:35:34+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Atlanta_G20-2026-10-9b8b011dd96a559b2ad95bf328185fc3-1200x800.jpg -->
-
-भारतीय राजदूत सर्जियो गोर ने अटलांटा में कहा कि अमेरिका के साथ व्यापार समझौता अंतिम चरण में है। रक्षा साझेदारी भी मजबूत हो रही है। भारत और अमेरिका के बीच रणनीतिक और आर्थिक रिश्ते नए मुकाम पर पहुंच रहे हैं. अमेरिका में भारत के राजदूत सर्जियो गोर ने अटलांटा में कहा कि दोनों देश ट्रेड एग्रीमेंट को अंतिम रूप देने के बेहद करीब हैं.
-
-### [एक और शख्स सागर दास को ED ने किया गिरफ्तार; 3 दिन की कस्टडी में भेजा गया](https://www.abplive.com/news/india/ed-arrest-online-gaming-scammers-sagar-das-arrested-remanded-to-3-day-custody-ann-3209306)
-*ABP Live (India)* - Oct 31, 18:28 IST (iso: 2026-10-31T12:58:10+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/4edcdd5b4c5ace7cc86b04c49ca3148817934497056741484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-प्रवर्तन निदेशालय ने ऑनलाइन गेमिंग स्कैम मामले में सागर दास को गिरफ्तार किया। मुंबई की कोर्ट ने उसे तीन दिन की कस्टडी में भेजा। यह गिरफ्तारी PMLA के तहत हुई। ऑनलाइन गेमिंग और बेटिंग स्कैम के जरिए करोड़ों रुपये की ठगी के मामले में प्रवर्तन निदेशालय (ED) ने एक और गिरफ्तारी की है. ED के मुंबई जोनल ऑफिस-2 ने 27 अक्टूबर 2026 को सागर दास को प्रिवेंशन ऑफ मनी लॉंडरिंग एक्ट (PMLA) के तहत गिरफ्तार किया.
-
-### [1 नवंबर की रैली को लेकर कांग्रेस ने किया BJP पर पलटवार, नितिन नवीन की रैली पर किया ट्रोल](https://www.abplive.com/news/india/congress-hits-back-at-bjp-over-november-1-rally-trolls-nitin-nabin-rally-3209223)
-*ABP Live (India)* - Oct 31, 18:18 IST (iso: 2026-10-31T12:48:08+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/10/31/8e7df8d29525273376def95819549f7e17934399084071484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-कांग्रेस ने बीजेपी की रैली पर पलटवार किया। पवन खेड़ा ने कहा कि दिल्ली की रैली में दस लाख लोग आएंगे। बीजेपी ने व्यापारियों की परेशानी का हवाला दिया था। 1 नवंबर को दिल्ली के रामलीला मैदान में इंडिया ब्लॉक की रैली को लेकर सियासत तेज हो चुकी है. बीजेपी के नेताओं ने रैली के कारण व्यापारियों और आमजन को होने वाली परेशानियों पर सवाल उठाए हैं.
-
-### [बाढ़ के बाद पाकिस्तान-ऑस्ट्रेलिया जैसे देशों में हुआ चमत्कार, पेड़ों पर बिछ गई ये ‘सफेद चीज’, जो](https://hindi.news18.com/world/pakistan-spider-silk-waves-after-floods-why-millions-of-spiders-blanketed-trees-in-australia-and-pakistan-in-a-bizarre-natural-phenomenon-photogallery-10953032.html)
-*News18 Hindi (World)* - Oct 31, 18:13 IST (iso: 2026-10-31T12:43:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Spider-Silk-Waves-2026-10-b9321342a8e01f18e05e736f6c01af31-1200x800.jpg -->
-
-ऑस्ट्रेलिया के विक्टोरिया और पाकिस्तान के सिंध में बाढ़ के बाद पेड़ों पर सफेद चीजें बिछ गईं। यह प्राकृतिक घटना स्थानीय जीव-जंतुओं के लिए महत्वपूर्ण प्रभाव डालती है। जब भी आसमान से मूसलाधार बारिश बरसती है और नदियां उफनकर बस्तियों में घुस आती हैं, तो चारों तरफ सिर्फ तबाही और बर्बादी का ही मंजर दिखाई देता है. इंसानों के लिए तो ये किसी बुरे सपने जैसा होता है, लेकिन क्या कभी आपने सोचा है कि उन बेजुबान और छोटे-छोटे जीव-जंतुओं पर क्या गुजरती होगी, जिनका आशियाना पानी में डूब जाता है?
+पाकिस्तान ने कराची से जहाजों और उड़ानों के जरिए बांग्लादेश के साथ व्यापार बढ़ाया। 11:1 के ट्रेड असंतुलन और जूट पर भारी टैक्स से बांग्लादेश को आर्थिक नुकसान हो रहा है। रिपोर्ट के अनुसार यह खेल मुस्लिम ब्रदरहुड के नाम पर चल रहा है। पाकिस्तान और बांग्लादेश के बीच नजदीकियां बढ़ रही हैं. 'मुस्लिम ब्रदरहुड' के नाम पर चल रहे इस खेल की पोल एक रिपोर्ट ने खोल दी है.
 
 ---
 
 ## यूरोप और रूस
+
+### [नवंबर में नहीं होगा सर्दी का अहसास, सामान्य से ऊपर रहेगा पारा; चक्रवात अर्नब का असर रहेगा बेअसर](https://www.amarujala.com/india-news/imd-forecast-above-normal-temperatures-likely-across-most-of-india-in-november-2026-11-01)
+*Amar Ujala National* - Nov 01, 05:50 IST (iso: 2026-11-01T00:20:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/aaiiemada-ka-paravanamana_ba810263c23a30cf8adc690ce0524934.jpeg?w=1200&dpr=1.0 -->
+
+भारतीय मौसम विज्ञान विभाग के अनुसार नवंबर में भारत के अधिकांश हिस्सों में तापमान सामान्य से ऊपर रहेगा। सर्दी का अहसास नहीं होगा। चक्रवात अर्नब का असर बेअसर रहेगा। नवंबर में नहीं होगा सर्दी का अहसास, सामान्य से ऊपर रहेगा पारा; चक्रवात अर्नब का असर रहेगा बेअसर।
+
+### [लंदन में 'फलस्तीन एक्शन' का समर्थन, 139 गिरफ्तार; ट्रंप की तरफ से दायर मानहानि मुकदमा खारिज](https://www.amarujala.com/world/world-updates-london-protest-palestine-west-asia-russia-ukraine-bhutan-pak-china-politics-crime-and-other-news-2026-11-01)
+*Amar Ujala World* - Nov 01, 05:40 IST (iso: 2026-11-01T00:10:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=1200&dpr=1.0 -->
+
+लंदन में फलस्तीन एक्शन समर्थन प्रदर्शन के दौरान 139 लोगों को गिरफ्तार किया गया। अमेरिका में ट्रंप द्वारा दायर मानहानि मुकदमा खारिज कर दिया गया है। यह फैसला न्यायालय द्वारा लिया गया है। वर्ल्ड अपडेट्स: लंदन में 'फलस्तीन एक्शन' का समर्थन, 139 गिरफ्तार; ट्रंप की तरफ से दायर मानहानि मुकदमा खारिज।
+
+### [विदेश मंत्रियों की बैठक में नहीं बनी सहमति, रूस-यूक्रेन समेत कई मुद्दों पर मतभेद से संयुक्त बयान टला](https://www.amarujala.com/world/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issue-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 04:06 IST (iso: 2026-10-31T22:36:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/amaraka-ma-ja-20-vathasha-mataraya-ka-bthaka-bnataja_94c01646dd7b3f7fe9efc62e2e1d5376.jpeg?w=1200&dpr=1.0 -->
+
+अटलांटा में जी-20 विदेश मंत्रियों की बैठक बिना संयुक्त बयान के समाप्त हुई। रूस-यूक्रेन युद्ध समेत कई मुद्दों पर सदस्य देशों के बीच गहरे मतभेद बने रहे। इससे सहमति बनाना असंभव हो गया। विदेश मंत्रियों की बैठक में नहीं बनी सहमति, रूस-यूक्रेन समेत कई मुद्दों पर मतभेद से संयुक्त बयान टला।
 
 ### [दुनिया के बड़े आर्थिक मंच G20 में पोलैंड को क्यों शामिल देखना चाहता है अमेरिका?](https://www.patrika.com/world-news/us-supports-polands-role-in-g20-global-economic-forum-21021971)
 *Patrika (World)* - Nov 01, 00:25 IST (iso: 2026-10-31T18:55:22+00:00)
@@ -128,53 +118,63 @@
 
 ---
 
-## मध्य पूर्व और अफ्रीका
-
-### [बांग्लादेश को कैसे लूट रहा पाकिस्तान? मुस्लिम ब्रदरहुड के पीछे की असलियत हुई लीक, ट्रेड के बहाने हो](https://hindi.news18.com/world/south-asia-pakistan-bangladesh-relations-exposed-truth-behind-muslim-brotherhood-hype-trade-imbalance-exploiting-dhaka-10953701.html)
-*News18 Hindi (World)* - Oct 31, 23:28 IST (iso: 2026-10-31T17:58:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Pakistan-Bangladesh-Relations-2026-10-477195011e18efb25e41fe471dce5081-1200x800.jpg -->
-
-पाकिस्तान ने कराची से जहाजों और उड़ानों के जरिए बांग्लादेश के साथ व्यापार बढ़ाया। 11:1 के ट्रेड असंतुलन और जूट पर भारी टैक्स से बांग्लादेश को आर्थिक नुकसान हो रहा है। रिपोर्ट के अनुसार यह खेल मुस्लिम ब्रदरहुड के नाम पर चल रहा है। पाकिस्तान और बांग्लादेश के बीच नजदीकियां बढ़ रही हैं. 'मुस्लिम ब्रदरहुड' के नाम पर चल रहे इस खेल की पोल एक रिपोर्ट ने खोल दी है.
-
-### [एक ही दिन में ईरान ने तीन बार US इजरायल को दी चेतावनी, सेना को खुली छूट, आरघची बोले- युद्ध छिड़](https://www.patrika.com/world-news/iran-three-leaders-warning-for-us-and-israel-war-update-21021737)
-*Patrika (World)* - Oct 31, 20:33 IST (iso: 2026-10-31T15:03:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/IRAN-US-WAR-1.webp -->
-
-ईरान ने एक ही दिन में अमेरिका और इजरायल को तीन अलग-अलग चेतावनियां दीं। विदेश मंत्री, सर्वोच्च नेता और IRGC प्रवक्ता ने कड़े बयान दिए। Iran US war: ईरान और अमेरिका के बीच चल रहे संघर्ष को लेकर दी जा रही चेतावनियां लगातार तेज होती जा रही है। आज एक ही दिन में ईरान की ओर से तीन कड़े बयान सामने आए हैं।
-
-### [अमेरिका से मुलाकात की कोई योजना नहीं, बोले- सब मीडिया के कयास](https://www.patrika.com/world-news/araghchi-no-plan-to-meet-us-officials-media-speculation-21021746)
-*Patrika (World)* - Oct 31, 20:22 IST (iso: 2026-10-31T14:52:40+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi-.webp -->
-
-ईरानी विदेश मंत्री अब्बास अराघची ने अमेरिका से मुलाकात की खबरों को मीडिया कयास बताया। उन्होंने कहा कि मौजूदा हालात में बातचीत की जरूरत नहीं है। Iran US Negotiations: ईरान के विदेश मंत्री अब्बास अराघची ने एक साक्षात्कार में कहा कि, फिलहाल अमेरिकी अधिकारियों के साथ मुलाकात की कोई योजना नहीं है। इसके विपरीत आ रही खबरें केवल मीडिया के कयास हैं।
-
-### [कई शादियां करती है ये ‘स्वर्ग की चिड़िया’, नशीले डांस से पार्टनर फंसाती है, बच्चे पैदा होते ही फुर्र](https://hindi.news18.com/photogallery/ajab-gajab/viral-birds-of-paradise-mating-rituals-why-these-exotic-rainforest-birds-use-dazzling-dances-feathers-to-attract-mates-10953323.html)
-*News18 Hindi (World)* - Oct 31, 20:05 IST (iso: 2026-10-31T14:35:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Birds-of-Paradise-2026-10-43fc18ded95346069fc7c9e6dcab582c-1200x800.jpg -->
-
-न्यू गिनी और उत्तरी ऑस्ट्रेलिया के जंगलों में पाई जाने वाली स्वर्ग की चिड़ियाएं नर्तन करके साथी को आकर्षित करती हैं। ये जीव कई बार शादी करती हैं। जब भी प्यार के इजहार की बात आती है, तो इंसानों की दुनिया में तो कई तरीके देखने को मिलते हैं. कुदरत ने कुछ जीवों को ऐसी नायाब कला दी है कि वो अपने पार्टनर को रिझाने के लिए किसी प्रोफेशनल डांसर को भी मात दे दें.
-
-### [‘कोई बॉर्डर लिमिट नहीं होगी’, मोजतबा खामेनेई ने तोड़ दी जंग सीमाएं, अब IRGC किसी की भी गर्दन दबोच](https://hindi.news18.com/world/middle-east-mojtaba-khamenei-orders-geographically-unrestricted-military-response-to-america-israel-attacks-amid-strait-of-hormuz-tensions-10953176.html)
-*News18 Hindi (World)* - Oct 31, 19:06 IST (iso: 2026-10-31T13:36:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Mojtaba-Khamenei-Critical-2026-08-139931f21b8a306412823e353c07d4d3-1200x800.jpg -->
-
-ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने सेना को अमेरिका या इजराइल के हमले पर सीमाओं के बिना तुरंत जवाब देने का आदेश दिया। स्ट्रेट ऑफ होर्मुज में तेल टैंकरों पर हमले बढ़ रहे हैं। ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने अपनी सेना को सख्त आदेश दिया है. उन्होंने कहा है कि अगर अमेरिका या इजराइल ने फिर से हमला किया, तो तुरंत और करारा जवाब दिया जा.
-
-### [अरब दल बने ‘किंगमेकर’, पर यहूदी गुटों ने साथ आने से किया इनकार](https://www.patrika.com/world-news/israel-election-netanyahu-likud-arab-parties-kingmaker-jewish-blocs-reject-support-21021458)
-*Patrika (World)* - Oct 31, 18:45 IST (iso: 2026-10-31T13:15:24+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Arab-voter-turnout.webp -->
-
-इजराइल के संसदीय चुनावों में विपक्षी दलों के गठबंधन को बहुमत नहीं मिला। बेंजामिन नेतन्याहू की लिकुड पार्टी सबसे बड़ी बनी, पर सरकार बनाने के लिए जरूरी सीटें नहीं मिल पाईं। इजराइल के संसदीय चुनावों में खुद को ‘ज़ायोनी’ (Zionist) कहने वाले विपक्षी दलों के गठबंधन को बहुमत नहीं मिल सका है। प्रधानमंत्री बेंजामिन नेतन्याहू की ‘लिकुड’ पार्टी सबसे बड़ी पार्टी बनकर उभरी है, लेकिन उनके गुट को सरकार बनाने के लिए जरूरी सीटें नहीं मिल पाई हैं।
-
----
-
 ## अमेरिका
+
+### [चुनाव में हस्तक्षेप और मतपत्र रोकने पर कोर्ट की रोक, 20 हजार मतपत्रों पर था विवाद](https://www.amarujala.com/world/trump-administration-faces-court-setback-over-california-ballot-dispute-2026-11-01)
+*Amar Ujala World* - Nov 01, 05:29 IST (iso: 2026-10-31T23:59:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/21/mp-news_72c67f59a87359680c007c64aaf15b78.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी न्यायालय ने ट्रंप प्रशासन को केलिफोर्निया में चुनाव हस्तक्षेप और मतपत्र रोकने से रोक दिया है। विवाद 20 हजार मतपत्रों पर केंद्रित था। अदालत ने इस कदम को अनुचित माना है। चुनाव में हस्तक्षेप और मतपत्र रोकने पर कोर्ट की रोक, 20 हजार मतपत्रों पर था विवाद।
 
 ### ['मैंने अपनी बहनों से शादी करने की नहीं सोची', ट्रंप ने क्यों दिया ऐसा भद्दा बयान? इल्हान ओमर को](https://hindi.news18.com/world/america-trump-sisters-remark-sparks-row-donald-trump-attacks-ilhan-omar-over-brother-marriage-allegations-citizenship-probe-10953632.html)
 *News18 Hindi (World)* - Oct 31, 22:53 IST (iso: 2026-10-31T17:23:43+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Trump-Sister-To-Ilhan-Omar-2026-10-5020dca110240932f345ce9931f2fdb6-1200x800.jpg -->
 
 ट्रंप ने फ्लोरिडा रैली में सांसद इल्हान ओमर पर निशाना साधा। उन्होंने ओमर पर भाई से शादी और फर्जी कागजों से नागरिकता पाने के पुराने आरोप दोहराए। फिलहाल ओमर की इमिग्रेशन पेपर्स की फेडरल जांच चल रही है। रिपब्लिकन पार्टी उन्हें संसद से बाहर करने के कानूनी रास्ते तलाश रही है। डोनाल्ड ट्रंप ने फ्लोरिडा की एक रैली में अपनी सगी बहनों पर अजीबोगरीब बयान दिया.
+
+---
+
+## एशिया-प्रशांत
+
+### [रामलीला मैदान में INDIA ब्लॉक की दिल्ली चलो रैली; मध्य प्रदेश में चार की मौत; G20 में आम सहमति नहीं](https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-1-november-2026-updates-on-amar-ujala-news-in-hindi-2026-11-01)
+*Amar Ujala National* - Nov 01, 05:04 IST (iso: 2026-10-31T23:34:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
+
+INDIA ब्लॉक ने दिल्ली चलो रैली रामलीला मैदान में निकाली। मध्य प्रदेश में चार लोगों की मौत हुई। G20 बैठक में आम सहमति नहीं बनी। रामलीला मैदान में INDIA ब्लॉक की दिल्ली चलो रैली; मध्य प्रदेश में चार की मौत; G20 में आम सहमति नहीं।
+
+### [रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?](https://www.amarujala.com/live/india-news/cec-gyanesh-kr-india-bloc-ramlila-maidan-live-delhi-chalo-congress-rahul-cjp-opposition-v-bjp-nda-govt-react-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 04:25 IST (iso: 2026-10-31T22:55:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/chalo-delhi-india-bloc-ramlila-maidan_9312e2503dcc48e867b0bc35ba847fbe.gif?w=1200&dpr=1.0 -->
+
+दिल्ली के रामलीला मैदान में विपक्षी दलों का सम्मेलन होगा। ज्ञानेश कुमार के पद से हटाने की मांग उठाई जाएगी। सीईसी के खिलाफ एकजुटता का प्रदर्शन किया जाएगा। दिल्ली चलो LIVE: रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट? चलो दिल्ली LIVE: रामलीला मैदान में जुटेगा विपक्ष, ज्ञानेश कुमार को हटाने पर जोर; सीईसी के खिलाफ कितने एकजुट?
+
+### [आज से दिल्ली नहीं जा पाएंगी उत्तराखंड रोडवेज की 200 बसें, नए रूट्स पर वोल्वो चलाने की तैयारी](https://www.amarujala.com/dehradun/dehradun-200-roadways-buses-will-not-be-able-to-enter-delhi-starting-today-2026-11-01)
+*Amar Ujala Breaking* - Nov 01, 04:10 IST (iso: 2026-10-31T22:40:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/1_07944a86188c9261d5f826cf0fcbbe27.jpeg?w=1200&dpr=1.0 -->
+
+उत्तराखंड रोडवेज की 200 बसें दिल्ली नहीं जाएंगी। नए रूट्स पर वोल्वो बसें चलाने की तैयारी है। दिल्ली में अब केवल बीएस-छह वाहन प्रवेश कर सकेंगे। दिल्ली में रविवार से बीएस-छह वाहन ही प्रवेश कर सकेंगे। आज से दिल्ली नहीं जा पाएंगी उत्तराखंड रोडवेज की 200 बसें, नए रूट्स पर वोल्वो चलाने की तैयारी।
+
+### [क्वाड बैठक में भारत का डंका, 8.5 करोड़ डॉलर के AI फंड से 6G और सेमीकंडक्टर तक हुए 10 बड़े ऐलान](https://hindi.news18.com/news/nation/quad-foreign-ministers-meeting-india-global-leadership-praised-as-quad-unveils-85-million-dollars-ai-fund-6g-and-semiconductor-10-big-initiatives-10953547.html)
+*News18 Hindi (World)* - Oct 31, 22:21 IST (iso: 2026-10-31T16:51:08+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Quad-Meeting-2026-10-ec5c2e4650bf85a4cc4293fabbca9d55-1200x800.jpg -->
+
+अटलांटा में क्वाड विदेश मंत्रियों की बैठक में 10 बड़े ऐलान किए गए। इनमें 8.5 करोड़ डॉलर का AI फंड, 6G तकनीक और सेमीकंडक्टर सप्लाई चेन शामिल हैं। बैठक में संकट के वक्त नेपाल को मदद देने के लिए भारत की तारीफ हुई। चारों देशों ने चीन की नीतियों का विरोध किया। अमेरिका के अटलांटा में क्वाड विदेश मंत्रियों की बड़ी बैठक हुई.
+
+### [सेक्रेटरी रूबियो फिर आएंगे भारत, जी20 से पहले दोनों देशों के बीच बड़ी डील के संकेत, गोर ने क्या कहा?](https://hindi.news18.com/world/america-us-ambassador-sergio-gor-india-us-trade-deal-military-exercises-g20-summit-quad-meeting-10953427.html)
+*News18 Hindi (World)* - Oct 31, 21:05 IST (iso: 2026-10-31T15:35:34+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Atlanta_G20-2026-10-9b8b011dd96a559b2ad95bf328185fc3-1200x800.jpg -->
+
+भारतीय राजदूत सर्जियो गोर ने अटलांटा में कहा कि अमेरिका के साथ व्यापार समझौता अंतिम चरण में है। रक्षा साझेदारी भी मजबूत हो रही है। भारत और अमेरिका के बीच रणनीतिक और आर्थिक रिश्ते नए मुकाम पर पहुंच रहे हैं. अमेरिका में भारत के राजदूत सर्जियो गोर ने अटलांटा में कहा कि दोनों देश ट्रेड एग्रीमेंट को अंतिम रूप देने के बेहद करीब हैं.
+
+---
+
+## वैश्विक / बहुपक्षीय
+
+### [जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया](https://www.amarujala.com/world/s-jaishankar-stronger-and-more-secure-global-supply-chains-global-economy-g20-meeting-2026-11-01)
+*Amar Ujala World* - Nov 01, 03:29 IST (iso: 2026-10-31T21:59:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/06/vathasha-matara-jayashakara_a031c8715286ea34e5ac232a44097a3a.jpeg?w=1200&dpr=1.0 -->
+
+विदेश मंत्री जयशंकर ने जी-20 बैठक में सुरक्षित सप्लाई चेन की ज़रूरत पर जोर दिया। उन्होंने वैश्विक अर्थव्यवस्था के लिए व्यापारिक विकल्पों को बढ़ाने की सलाह दी। यह स्थिरता के लिए महत्वपूर्ण है। जयशंकर ने सुरक्षित सप्लाई चेन को बताया वैश्विक अर्थव्यवस्था की जरूरत, व्यापार विकल्प बढ़ाने पर दिया।
 
 ---
 

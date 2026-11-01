@@ -1,6 +1,52 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 01, 2026 03:29 IST
+**Updated:** November 01, 2026 06:10 IST
+
+---
+
+## Europe & Russia
+
+### [Rubio Casts Doubts On Quick Deal To End War In Ukraine, Defends Russian Contacts](https://www.rferl.org/a/rubio-atlanta-ukraine-russia-putin-lavrov-20/33888075.html)
+*Radio Free Europe / Liberty* - Nov 01, 04:32 IST (iso: 2026-10-31T23:02:01+00:00)
+<!-- image: https://gdb.rferl.org/e028ce0b-68ed-4bd1-78d3-08df13a869ed_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Secretary of State Marco Rubio said he was unsure a negotiated end to the war in Ukraine is possible and that Russian President Vladimir Putin may skip the December G20 summit in Miami, according to European US Secretary of State Marco Rubio said he was unsure whether a negotiated end to the war in Ukraine was possible, while European officials told RFE/RL the top US diplomat privately expressed doubts that Russian President Vladimir Putin will attend December’s Miami G20 summit.
+
+### [Tears Of Joy As Ukrainians Evacuated From Russian-Occupied Oleshky Reunite With Family](https://www.rferl.org/a/tears-of-joy-as-ukrainians-evacuated-from-russian-occupied-oleshky-reunite-with-family/33888013.html)
+*Radio Free Europe / Liberty* - Oct 31, 20:41 IST (iso: 2026-10-31T15:11:50+00:00)
+<!-- image: https://gdb.rferl.org/250c3973-6568-4c2f-4e59-08df13aec0bb_w1200_h630.jpg -->
+
+Hundreds of residents evacuated from Russian-occupied Oleshky reunited with family in Ukrainian territory. A convoy of 25 buses facilitated the transfer after a US-brokered cease-fire. The residents had lived under occupation for nearly four years. After nearly four years under Russian occupation, hundreds of residents from the southern Ukrainian city of Oleshky have arrived in Ukrainian-controlled territory following a cease-fire brokered by US first lady Melania Trump.
+
+### [Evacuations, Humanitarian Mission Begin In Russian-Occupied Ukrainian City Of Oleshky](https://www.rferl.org/a/evacuations-humanitarian-mission-begin-in-russian-occupied-ukrainian-city-of-oleshky/33887434.html)
+*Radio Free Europe / Liberty* - Oct 30, 19:10 IST (iso: 2026-10-30T13:40:23+00:00)
+<!-- image: https://gdb.rferl.org/88523f6d-a5dd-40c6-b3c2-75f984e9dc9c_cx12_cy0_cw85_w1200_h630.jpg -->
+
+Humanitarian aid and evacuations began in Russian-occupied Oleshky under a new cease-fire. Ukrainian authorities prepared 25 buses and ambulances to move residents. Delegations from both sides arrived to coordinate the process. Remaining civilians will receive humanitarian assistance. Ukrainian and Russian delegations have arrived in Russian-occupied Oleshky as a cease-fire allows humanitarian aid deliveries and civilian evacuations. Ukraine has prepared 25 buses and ambulances to evacuate residents, while those who remain will receive humanitarian assistance.
+
+### [Evacuation From Oleshky Completed As Buses Head To Ukraine, Russia](https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html)
+*Radio Free Europe / Liberty* - Oct 30, 12:00 IST (iso: 2026-10-30T06:30:17+00:00)
+<!-- image: https://gdb.rferl.org/c50599d3-9b46-4fcf-493b-08df13a884cb_w1200_h630.jpg -->
+
+Ukrainian residents left the Russian‑occupied city of Oleshky on buses for the first time in more than four years. The US‑brokered truce, running until Moscow and Kyiv say the evacuation of residents from the Russian-occupied Ukrainian city of Oleshky was completed "without incident," as buses filled with civilians left the area for the first time in more than four years under a US-brokered truce that is set to remain in effect until November 1.
+
+### [The rise of the nuclear hexagon and the future of Asian stability](https://asiatimes.com/2026/10/the-rise-of-the-nuclear-hexagon-and-the-future-of-asian-stability/)
+*Asia Times* - Oct 30, 03:47 IST (iso: 2026-10-29T22:17:18+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/11/India-Missile-Nukes.jpg -->
+
+US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangle while treating the China-India-Pakistan dynamic as a secondary regional issue. This oversight complicates stability in Asia, where nuclear postures are shifting. Washington’s focus on the northern axis leaves gaps in understanding southern Asian deterrence. The article argues that a cohesive approach is needed to address the evolving nuclear hexagon. Originally published by Pacific Forum, this article is republished with permission.
+
+### [The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It](https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html)
+*Radio Free Europe / Liberty* - Oct 29, 23:15 IST (iso: 2026-10-29T17:45:31+00:00)
+<!-- image: https://gdb.rferl.org/9328435A-7CA8-4912-A16F-2101F8913E3E_cx0_cy2_cw0_w1200_h630.jpg -->
+
+Washington is considering lifting sanctions on the Russian Direct Investment Fund. The fund's chief serves as the Kremlin's main negotiator with the White House. This move aims to normalize US-Russian ties. It also supports ongoing efforts to end the Ukraine war. Amid the swirl of efforts to end to the Ukraine war and normalize US-Russian ties, one idea under consideration: lifting sanctions on a massive Russian investment fund, whose chief is the Kremlin’s main go-between with White House negotiators.
+
+### [Moldovan President Calls Security Meeting After Massive Data Breach](https://www.rferl.org/a/moldova-cyberattack-data-breach-750000-sandu/33886733.html)
+*Radio Free Europe / Liberty* - Oct 29, 21:25 IST (iso: 2026-10-29T15:55:21+00:00)
+<!-- image: https://gdb.rferl.org/f632ed6a-4ca4-482f-462b-08df13aec0bb_cx0_cy0_cw99_w1200_h630.jpeg -->
+
+Moldovan President Maia Sandu convened a national security meeting after a cyberattack exposed data for 750,000 people. Authorities are investigating possible foreign involvement. The attack may have utilized artificial intelligence tools to scale the breach across government systems. Moldovan President Maia Sandu has called a national security meeting after a major cyberattack exposed personal data linked to some 750,000 people.
 
 ---
 
@@ -34,15 +80,9 @@ The United Nations ended its political mission in Somalia after three decades of
 
 UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
 
-### [Kosovo Protests Grow Over Killing Of Woman Who Pleaded For Police Protection](https://www.rferl.org/a/kosovo-domestic-violence-women-protests-police/33887610.html)
-*Radio Free Europe / Liberty* - Oct 31, 00:57 IST (iso: 2026-10-30T19:27:42+00:00)
-<!-- image: https://gdb.rferl.org/8a7cea16-02ec-4e31-eaeb-08df13afe2a0_w1200_h630.jpg -->
-
-Protests spread across Kosovo following the killing of a woman who repeatedly sought police protection. An official investigation revealed multiple institutional failures. A prosecutor refused to act on a specific death threat against the victim. Protests are spreading across Kosovo after a woman who repeatedly pleaded for protection was killed, allegedly by her brother-in-law. An official investigation found multiple institutional failures, including a prosecutor's refusal to act on a death threat.
-
 ### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image560x340cropped.jpg -->
 
 The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
 
@@ -54,7 +94,7 @@ Over twenty-eight million people in the Democratic Republic of the Congo face fo
 
 ### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg -->
 
 UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.
 
@@ -70,51 +110,11 @@ Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain a
 
 Intermediaries on Iranian Telegram channels are selling newborns for up to 1,100 dollars. They offer to falsify birth records and arrange placements abroad. This illicit trade continues despite a national ban on the sale of babies. Intermediaries on Iranian Telegram channels are offering newborns for up to $1,100 under the guise of charity, with some promising to falsify birth records and others arranging placements with Iranian families abroad, despite a ban on the sale of babies.
 
----
+### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
+*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
+<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-## Europe & Russia
-
-### [Tears Of Joy As Ukrainians Evacuated From Russian-Occupied Oleshky Reunite With Family](https://www.rferl.org/a/tears-of-joy-as-ukrainians-evacuated-from-russian-occupied-oleshky-reunite-with-family/33888013.html)
-*Radio Free Europe / Liberty* - Oct 31, 20:41 IST (iso: 2026-10-31T15:11:50+00:00)
-<!-- image: https://gdb.rferl.org/250c3973-6568-4c2f-4e59-08df13aec0bb_w1200_h630.jpg -->
-
-Hundreds of residents evacuated from Russian-occupied Oleshky reunited with family in Ukrainian territory. A convoy of 25 buses facilitated the transfer after a US-brokered cease-fire. The residents had lived under occupation for nearly four years. After nearly four years under Russian occupation, hundreds of residents from the southern Ukrainian city of Oleshky have arrived in Ukrainian-controlled territory following a cease-fire brokered by US first lady Melania Trump.
-
-### [The Way They Live Now In A Frigid Siberian Town](https://www.rferl.org/a/russia-food-shortages-war-remote-siberia/33887359.html)
-*Radio Free Europe / Liberty* - Oct 31, 18:15 IST (iso: 2026-10-31T12:45:45+00:00)
-<!-- image: https://gdb.rferl.org/84325cc2-89a7-4ed8-6a79-08df13a87200_cx0_cy7_cw0_w1200_h630.jpg -->
-
-Residents of Tura, Siberia, queued for hours in minus 15 degree cold to buy scarce staples at high prices. The shortages stem from geographic isolation and local mismanagement. Russia's ongoing war in Ukraine has further strained the town's supply chains and economic stability. The scene outside Tura's main food store looked like something from the Soviet era: With the mercury at -15 C, residents lined up for hours to pay high prices for staples short supply.
-
-### [Evacuations, Humanitarian Mission Begin In Russian-Occupied Ukrainian City Of Oleshky](https://www.rferl.org/a/evacuations-humanitarian-mission-begin-in-russian-occupied-ukrainian-city-of-oleshky/33887434.html)
-*Radio Free Europe / Liberty* - Oct 30, 19:10 IST (iso: 2026-10-30T13:40:23+00:00)
-<!-- image: https://gdb.rferl.org/88523f6d-a5dd-40c6-b3c2-75f984e9dc9c_cx12_cy0_cw85_w1200_h630.jpg -->
-
-Humanitarian aid and evacuations began in Russian-occupied Oleshky under a new cease-fire. Ukrainian authorities prepared 25 buses and ambulances to move residents. Delegations from both sides arrived to coordinate the process. Remaining civilians will receive humanitarian assistance. Ukrainian and Russian delegations have arrived in Russian-occupied Oleshky as a cease-fire allows humanitarian aid deliveries and civilian evacuations. Ukraine has prepared 25 buses and ambulances to evacuate residents, while those who remain will receive humanitarian assistance.
-
-### [Evacuation From Oleshky Completed As Buses Head To Ukraine, Russia](https://www.rferl.org/a/ukraine-russia-oleshky-evacuation-melania-trump/33887157.html)
-*Radio Free Europe / Liberty* - Oct 30, 12:00 IST (iso: 2026-10-30T06:30:17+00:00)
-<!-- image: https://gdb.rferl.org/c50599d3-9b46-4fcf-493b-08df13a884cb_w1200_h630.jpg -->
-
-Ukrainian residents left the Russian‑occupied city of Oleshky on buses for the first time in more than four years. The US‑brokered truce, running until Moscow and Kyiv say the evacuation of residents from the Russian-occupied Ukrainian city of Oleshky was completed "without incident," as buses filled with civilians left the area for the first time in more than four years under a US-brokered truce that is set to remain in effect until November 1.
-
-### [The rise of the nuclear hexagon and the future of Asian stability](https://asiatimes.com/2026/10/the-rise-of-the-nuclear-hexagon-and-the-future-of-asian-stability/)
-*Asia Times* - Oct 30, 03:47 IST (iso: 2026-10-29T22:17:18+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/11/India-Missile-Nukes.jpg -->
-
-US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangle while treating the China-India-Pakistan dynamic as a secondary regional issue. This oversight complicates stability in Asia, where nuclear postures are shifting. Washington’s focus on the northern axis leaves gaps in understanding southern Asian deterrence. The article argues that a cohesive approach is needed to address the evolving nuclear hexagon. Originally published by Pacific Forum, this article is republished with permission.
-
-### [The US Once Called It 'A Slush Fund For Putin.' Now Washington May Lift Sanctions On It](https://www.rferl.org/a/russia-rdif-investment-dmitriev-ukraine-negotiations/33886754.html)
-*Radio Free Europe / Liberty* - Oct 29, 23:15 IST (iso: 2026-10-29T17:45:31+00:00)
-<!-- image: https://gdb.rferl.org/9328435A-7CA8-4912-A16F-2101F8913E3E_cx0_cy2_cw0_w1200_h630.jpg -->
-
-Washington is considering lifting sanctions on the Russian Direct Investment Fund. The fund's chief serves as the Kremlin's main negotiator with the White House. This move aims to normalize US-Russian ties. It also supports ongoing efforts to end the Ukraine war. Amid the swirl of efforts to end to the Ukraine war and normalize US-Russian ties, one idea under consideration: lifting sanctions on a massive Russian investment fund, whose chief is the Kremlin’s main go-between with White House negotiators.
-
-### [Moldovan President Calls Security Meeting After Massive Data Breach](https://www.rferl.org/a/moldova-cyberattack-data-breach-750000-sandu/33886733.html)
-*Radio Free Europe / Liberty* - Oct 29, 21:25 IST (iso: 2026-10-29T15:55:21+00:00)
-<!-- image: https://gdb.rferl.org/f632ed6a-4ca4-482f-462b-08df13aec0bb_cx0_cy0_cw99_w1200_h630.jpeg -->
-
-Moldovan President Maia Sandu convened a national security meeting after a cyberattack exposed data for 750,000 people. Authorities are investigating possible foreign involvement. The attack may have utilized artificial intelligence tools to scale the breach across government systems. Moldovan President Maia Sandu has called a national security meeting after a major cyberattack exposed personal data linked to some 750,000 people.
+The latest episode of Hold Your Fire! examines the widening rift between Washington and Kyiv. Crisis Group experts Lucian Kim, Stephen Pomper, and Fabienne Hara discuss how this diplomatic split coincides with Russia’s intensifying attacks on Ukrainian infrastructure. European capitals are simultaneously working to bolster Ukraine’s defense capabilities. These efforts occur while Europe faces its own mounting economic and security pressures. The discussion highlights the complex interplay of US policy shifts and European strategic autonomy.
 
 ---
 
