@@ -1,16 +1,56 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 02, 2026 07:27 IST
+**Updated:** November 02, 2026 14:06 IST
+
+---
+
+## Asia-Pacific
+
+### [Bangladesh garment factories reopen as wage protests keep industry on edge](https://www.thehindu.com/news/international/bangladesh-garment-factories-reopen-as-wage-protests-keep-industry-on-edge/article71655556.ece)
+*The Hindu (International)* - Nov 02, 13:10 IST (iso: 2026-11-02T07:40:05+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/w8g4vk/article71655628.ece/alternates/LANDSCAPE_1200/20261101193L.jpg -->
+
+Bangladesh garment factories resumed operations after wage protests disrupted key manufacturing hubs. Workers demanded a minimum monthly wage of 30,000 taka, up from 12,500. The unrest raised concerns over export shipments and buyer confidence in the world's second-largest apparel exporter. The latest unrest disrupted operations in key manufacturing hubs and raised ‌concerns over export shipments and buyer confidence in Bangladesh, the world’s ‌second-largest apparel exporter after China, as workers demanded a minimum monthly wage of ⁠30,000 taka ($243), up from 12,500 taka.
+
+### [China's Xi Jinping says Middle East should not become battleground for great power rivalry](https://www.channelnewsasia.com/world/china-xi-jinping-middle-east-battleground-great-power-rivalry-6512181)
+*Channel News Asia* - Nov 02, 12:55 IST (iso: 2026-11-02T07:25:34+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--pZ4iGShd--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-02T045622Z_1_LYNXNPEMA10CM_RTROPTP_3_CHINA-OMAN.JPG?itok=B4o0LEmf -->
+
+Chinese President Xi Jinping stated the Middle East should not become an arena for great-power rivalry. He emphasized that regional peace and stability require joint nurturing and protection by all parties. The remarks addressed geopolitical tensions in the Gulf region. "The Middle East Gulf region should not become an arena for great-power rivalry and geopolitical conflict. Peace and stability in the region require joint nurturing and protection by all parties," says Chinese President Xi Jinping.
+
+### [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
+*The Guardian* - Nov 01, 17:24 IST (iso: 2026-11-01T11:54:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193 -->
+
+Binance resumed customer withdrawals after a record $6.3 billion hack. The exchange stated that 90 percent of the losses are covered. The FBI attributed the theft to a North Korean state-sponsored group. This marks the largest cryptocurrency heist in history. Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts.
+
+### [Isolation deepens even as the country changes, says UN rights official](https://news.un.org/feed/view/en/story/2026/10/1168690)
+*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/26-10-2026_james_heenan.jpg/image770x420cropped.jpg -->
+
+A UN rights official stated North Korea is more isolated than ever despite internal development. The country is building infrastructure and rolling out mobile banking. However, its population remains cut off from the outside world. The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate.
+
+### [Regardless of psywar campaign, Taiwan shouldn’t rush to surrender](https://asiatimes.com/2026/10/regardless-of-psywar-campaign-taiwan-shouldnt-rush-to-surrender/)
+*Asia Times* - Oct 31, 02:24 IST (iso: 2026-10-30T20:54:20+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/images-1-1-e1793391799159.jpeg -->
+
+Taiwan faces mounting pressure from China's modernized military and uncertain US backing. The Trump administration prioritizes trade deals with Beijing over security commitments. Analysts argue the island should not capitulate despite the bleak external security environment. Originally published by Pacific Forum, this article is republished with permission. Taiwan’s external security situation is bleak. China, flush with new and modern weaponry, is regularly practicing for a military operation to forcibly annex the island.
+
+### [How crypto hacking funds isolated North Korea’s nuclear programme](https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme)
+*The Guardian* - Oct 30, 23:07 IST (iso: 2026-10-30T17:37:46+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a2ab8c683105476fd958b1420dbb27c30fe2be77/232_0_2883_2307/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee3fa146cb6fa51f05a4e4a8994cdc4 -->
+
+Cryptocurrency theft generates roughly half of North Korea's foreign currency income. The isolated state relies on sophisticated hacking to fund its nuclear program. Experts attribute significant digital thefts to state-sponsored actors. Cryptocurrency theft is estimated to generate half of the country’s foreign currency incomeNorth Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary.
 
 ---
 
 ## Middle East & Africa
 
-### [Israel elections chief says inquiry into irregularities will not undermine result](https://www.thehindu.com/news/international/israel-elections-chief-says-inquiry-into-irregularities-will-not-undermine-result/article71654256.ece)
-*The Hindu (International)* - Nov 02, 01:50 IST (iso: 2026-11-01T20:20:59+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/u5z6tp/article71654258.ece/alternates/LANDSCAPE_1200/AFP__20261031__D62D84U__v1__HighRes__IsraelPoliticsElectionGovernmentProtest.jpg -->
+### [Why is Poland witnessing a judicial crisis? Explained](https://www.thehindu.com/news/international/why-is-poland-witnessing-a-judicial-crisis-explained/article71655400.ece)
+*The Hindu (International)* - Nov 02, 11:16 IST (iso: 2026-11-02T05:46:18+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/run1ej/article71655443.ece/alternates/LANDSCAPE_1200/2026-10-31T120158Z_1233438969_RC2BEOA16XET_RTRMADP_3_POLAND-PRESIDENT-JUDICIARY.JPG -->
 
-Israel’s elections chief stated that a security inquiry into alleged financial irregularities will not alter the final results. The Shin Bet launched the investigation last week at his request to determine if the Arab Israeli party Raam received funding from Qatar. Both the Gulf state and the party deny the accusation. The official emphasized that the probe aims to verify compliance with campaign finance laws without affecting the validity of the vote.
+Polish Prime Minister Tusk struggles to reverse PiS judicial reforms due to presidential vetoes. President Nawrocki declined to swear in four of six judges appointed by the Sejm. He alleged flaws in their selection process, deepening the ongoing judicial crisis in Poland. Mr. Tusk, who came back to power in 2023 promising to undo the PiS reforms, had found it virtually impossible to push any legislation given the veto power held by President Nawrocki and his predecessor Andrzej Duda, both PiS allies.
 
 ### [UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends](https://news.un.org/feed/view/en/story/2026/11/1168717)
 *UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
@@ -36,17 +76,17 @@ A woman in Kosovo was killed by her brother‑in‑law after she repeatedly aske
 
 The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
 
+### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
+*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg -->
+
+Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
+
 ### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg -->
 
 UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.
-
-### [Hunger deepens for millions amid conflict, Ebola and climate shocks](https://news.un.org/feed/view/en/story/2026/10/1168708)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image560x340cropped.jpg -->
-
-Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
 
 ### [Severe rainfall and flood warnings issued for central Greece and western Turkey](https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey)
 *The Guardian* - Oct 30, 15:37 IST (iso: 2026-10-30T10:07:16+00:00)
@@ -59,6 +99,28 @@ Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain a
 <!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Crisis Group experts discussed the growing rift between Washington and Kyiv. The conversation covered Russia's intensifying attacks on Ukrainian territory. European capitals are working to strengthen Ukraine's defenses. These efforts occur while Europe faces its own internal pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
+
+---
+
+## Americas
+
+### [Trump’s Republicans brace for a midterm shellacking](https://asiatimes.com/2026/11/trumps-republicans-brace-for-a-midterm-shellacking/)
+*Asia Times* - Nov 02, 10:56 IST (iso: 2026-11-02T05:26:52+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-MAGA-Election-Rally.jpg -->
+
+US Republicans face a potentially punishing verdict in Tuesday's midterm elections. President Trump's approval rating stands at 32 percent in a recent poll. Democrats lead the national congressional ballot by more than eight percentage points, shifting the electoral map against the administration. WASHINGTON, D. C. US President Donald Trump’s Republicans enter Tuesday’s midterm elections facing a potentially punishing voter verdict. His approval rating stands at just 32% in a recent Reuters/Ipsos poll, while Democrats lead the national congressional ballot by more than eight percentage points.
+
+### [Breaking the silence in Mexico’s barracks](https://news.un.org/feed/view/en/story/2026/11/1168715)
+*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image770x420cropped.jpg -->
+
+Investigative journalist Zorayda Gallegos exposed sexual harassment within Mexico's armed forces. She found that orders from superiors are obeyed without question by many women in uniform. This often includes orders to step into an officer's bedroom, highlighting systemic abuse of power. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.
+
+### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
+*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
+<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
+
+Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
 
 ---
 
@@ -88,12 +150,6 @@ Secretary of State Marco Rubio said he was unsure a negotiated end to the war in
 
 Hundreds of residents evacuated from Russian-occupied Oleshky reunited with family in Ukrainian territory. A convoy of 25 buses facilitated the transfer after a US-brokered cease-fire. The residents had lived under occupation for nearly four years. After nearly four years under Russian occupation, hundreds of residents from the southern Ukrainian city of Oleshky have arrived in Ukrainian-controlled territory following a cease-fire brokered by US first lady Melania Trump.
 
-### [The Way They Live Now In A Frigid Siberian Town](https://www.rferl.org/a/russia-food-shortages-war-remote-siberia/33887359.html)
-*Radio Free Europe / Liberty* - Oct 31, 18:15 IST (iso: 2026-10-31T12:45:45+00:00)
-<!-- image: https://gdb.rferl.org/84325cc2-89a7-4ed8-6a79-08df13a87200_cx0_cy7_cw0_w1200_h630.jpg -->
-
-Residents of Tura, a remote Siberian town, queued for hours in minus fifteen degree cold to buy scarce staples at inflated prices. The food shortages stem from the settlement's geographic isolation and long-standing logistical neglect. Russia's ongoing war in Ukraine has further strained supply chains, compounding the local crisis. The scene outside the main store reflects a broader deterioration in basic services across Russia's remote northern regions.
-
 ### [Evacuations, Humanitarian Mission Begin In Russian-Occupied Ukrainian City Of Oleshky](https://www.rferl.org/a/evacuations-humanitarian-mission-begin-in-russian-occupied-ukrainian-city-of-oleshky/33887434.html)
 *Radio Free Europe / Liberty* - Oct 30, 19:10 IST (iso: 2026-10-30T13:40:23+00:00)
 <!-- image: https://gdb.rferl.org/88523f6d-a5dd-40c6-b3c2-75f984e9dc9c_cx12_cy0_cw85_w1200_h630.jpg -->
@@ -106,71 +162,15 @@ Humanitarian aid and evacuations began in Russian-occupied Oleshky under a new c
 
 Ukrainian residents left the Russian‑occupied city of Oleshky on buses for the first time in more than four years. The US‑brokered truce, running until Moscow and Kyiv say the evacuation of residents from the Russian-occupied Ukrainian city of Oleshky was completed "without incident," as buses filled with civilians left the area for the first time in more than four years under a US-brokered truce that is set to remain in effect until November 1.
 
-### [The rise of the nuclear hexagon and the future of Asian stability](https://asiatimes.com/2026/10/the-rise-of-the-nuclear-hexagon-and-the-future-of-asian-stability/)
-*Asia Times* - Oct 30, 03:47 IST (iso: 2026-10-29T22:17:18+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/11/India-Missile-Nukes.jpg -->
-
-US nuclear strategy remains fragmented, prioritizing the US-Russia-China triangle while treating the China-India-Pakistan dynamic as a secondary regional issue. This oversight complicates stability in Asia, where nuclear postures are shifting. Washington’s focus on the northern axis leaves gaps in understanding southern Asian deterrence. The article argues that a cohesive approach is needed to address the evolving nuclear hexagon. Originally published by Pacific Forum, this article is republished with permission.
-
----
-
-## Asia-Pacific
-
-### [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
-*The Guardian* - Nov 01, 17:24 IST (iso: 2026-11-01T11:54:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193 -->
-
-Binance resumed customer withdrawals after a record $6.3 billion hack. The exchange stated that 90 percent of the losses are covered. The FBI attributed the theft to a North Korean state-sponsored group. This marks the largest cryptocurrency heist in history. Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts.
-
-### [Isolation deepens even as the country changes, says UN rights official](https://news.un.org/feed/view/en/story/2026/10/1168690)
-*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/26-10-2026_james_heenan.jpg/image770x420cropped.jpg -->
-
-A UN rights official stated North Korea is more isolated than ever despite internal development. The country is building infrastructure and rolling out mobile banking. However, its population remains cut off from the outside world. The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate.
-
-### [Regardless of psywar campaign, Taiwan shouldn’t rush to surrender](https://asiatimes.com/2026/10/regardless-of-psywar-campaign-taiwan-shouldnt-rush-to-surrender/)
-*Asia Times* - Oct 31, 02:24 IST (iso: 2026-10-30T20:54:20+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/images-1-1-e1793391799159.jpeg -->
-
-Taiwan faces mounting pressure from China's modernized military and uncertain US backing. The Trump administration prioritizes trade deals with Beijing over security commitments. Analysts argue the island should not capitulate despite the bleak external security environment. Originally published by Pacific Forum, this article is republished with permission. Taiwan’s external security situation is bleak. China, flush with new and modern weaponry, is regularly practicing for a military operation to forcibly annex the island.
-
-### [How crypto hacking funds isolated North Korea’s nuclear programme](https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme)
-*The Guardian* - Oct 30, 23:07 IST (iso: 2026-10-30T17:37:46+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a2ab8c683105476fd958b1420dbb27c30fe2be77/232_0_2883_2307/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee3fa146cb6fa51f05a4e4a8994cdc4 -->
-
-Cryptocurrency theft generates roughly half of North Korea's foreign currency income. The isolated state relies on sophisticated hacking to fund its nuclear program. Experts attribute significant digital thefts to state-sponsored actors. Cryptocurrency theft is estimated to generate half of the country’s foreign currency incomeNorth Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary.
-
-### [What Taiwan can teach South Korea about China’s chip tech theft](https://asiatimes.com/2026/10/what-taiwan-can-teach-south-korea-about-chinas-chip-tech-theft/)
-*Asia Times* - Oct 30, 14:34 IST (iso: 2026-10-30T09:04:06+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/10/Chips-Technology-Semiconductors-AI-chips.jpg -->
-
-Three South Korean engineers allegedly stole proprietary probe-card designs for a Chinese employer. They used a local firm to modify the technology. The case highlights how talent migration facilitates industrial espionage. China now produces competing components. In November 2023, three engineers left a South Korean semiconductor testing-components company for a Chinese employer offering twice their previous salaries. According to South Korea’s Intellectual Property Office, they allegedly took proprietary probe-card designs, arranged for a Korean design firm to modify them, and used the technology to develop products in China.
-
----
-
-## Americas
-
-### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
-*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
-
-Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
-
 ---
 
 ## World
 
 ### [Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue](https://news.un.org/feed/view/en/story/2026/10/1168712)
 *UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image770x420cropped.jpg -->
 
 The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians. He emphasized that residents must be able to leave safely and voluntarily. Attacks on aid vehicles continue despite the pause in fighting. Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.
-
-### [AI is changing the way we think. The question is whether we’ll notice in time](https://news.un.org/feed/view/en/story/2026/10/1168704)
-*UN News* - Oct 29, 17:30 IST (iso: 2026-10-29T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-school-classroom.jpg/image560x340cropped.jpg -->
-
-Artificial intelligence now handles emails, reports, and complex questions in seconds. Many users view this capability as a major technological leap. The shift is comparable to the arrival of the internet. The rapid adoption is changing how people process daily information. Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize reports, generate ideas and answer complex questions in seconds.
 
 ---
 
