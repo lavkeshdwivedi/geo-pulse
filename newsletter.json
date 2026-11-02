@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-01T22:30:57.297453+00:00",
+  "generated_at": "2026-11-02T01:57:32.790872+00:00",
   "article_count": 50,
-  "total_unique_count": 255,
+  "total_unique_count": 258,
   "digest": {
-    "en": "Israel’s elections chief dismisses irregularity probes as the UN wraps its Western Sahara mission. Binance restarts withdrawals after a $6.3 billion hack, while Rubio questions a swift Ukraine peace deal.",
-    "hi": "दिल्ली में विपक्षी रैली ने 80 प्रतिशत दुकानें बंद करा दीं। यूपीआई ने रिकॉर्ड 1 लाख करोड़ रुपये का दैनिक लेनदेन दर्ज किया।"
+    "en": "Binance has resumed withdrawals following a $6.3 billion hack, a massive operational failure for the crypto giant. Meanwhile, Rubio casts doubt on a quick Ukraine peace deal while defending continued Russian contacts. The geopolitical and financial fronts are moving in opposite directions.",
+    "hi": "ट्रंप ने फ्लोरिडा के मार-ए-लागो में निजी विमान दुर्घटना के नौ मृतकों के बीच वीटो की घोषणा कर दी। दिल्ली में अक्षरधाम के आसपास एक्यूआई 349 पर पहुंच गया। चीन और रूस पर ट्रंप ने जासूसी के आरोप लगाए।"
   },
   "articles": [
     {
@@ -193,21 +193,9 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image560x340cropped.jpg",
       "summary": "The UN humanitarian chief stated the Oleshky ceasefire offers hope for civilians. He emphasized that residents must be able to leave safely and voluntarily. Attacks on aid vehicles continue despite the pause in fighting. Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
       "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Hunger deepens for millions amid conflict, Ebola and climate shocks",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image770x420cropped.jpg",
-      "summary": "Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -217,7 +205,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image560x340cropped.jpg",
       "summary": "The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -229,8 +217,20 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-10-30T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg",
       "summary": "UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Hunger deepens for millions amid conflict, Ebola and climate shocks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-10-30T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image560x340cropped.jpg",
+      "summary": "Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -326,434 +326,434 @@
       }
     },
     {
-      "title": "दक्षिण 24 परगना में चर्च उद्घाटन समारोह में तोड़फोड़, पादरी-श्रद्धालुओं पर हमला; ईसाई संगठनों में",
-      "url": "https://www.amarujala.com/india-news/west-bengal-church-attack-priests-and-devotees-assaulted-at-inauguration-ceremony-2026-11-02",
-      "source": "Amar Ujala Breaking",
+      "title": "धनतेरस पर सोना खरीदने का नया तरीका, जानें निवेश के फायदे और नुकसान",
+      "url": "https://www.amarujala.com/business/bonus/dhan-app-gold-vault-a-new-way-to-buy-physical-gold-this-dhanteras-2026-11-02",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-02T07:05:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/07/18/crime-demo_e61cbb445c2df462781ffb434965736d.jpeg?w=1200&dpr=1.0",
-      "summary": "दक्षिण 24 परगना में चर्च उद्घाटन समारोह में तोड़फोड़ हुई। पादरी और श्रद्धालुओं पर हमला किया गया। ईसाई संगठनों ने इस घटना पर प्रतिक्रिया व्यक्त की। दक्षिण 24 परगना में चर्च उद्घाटन समारोह में तोड़फोड़, पादरी-श्रद्धालुओं पर हमला; ईसाई संगठनों में।",
+      "published_at": "2026-11-02T01:56:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/gold_1b3cb13876151f1f08d4ceb82cdbad87.jpeg?w=1200&dpr=1.0",
+      "summary": "धन ऐप ने धनतेरस के लिए गोल्ड वॉल्ट सेवा शुरू की है। इससे उपयोगकर्ता भौतिक सोना खरीद सकते हैं। यह नया विकल्प निवेशकों को सुविधा प्रदान करता है। धनतेरस पर सोना खरीदने का नया तरीका, जानें निवेश के फायदे और नुकसान।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दक्षिण 24 परगना में चर्च उद्घाटन समारोह में तोड़फोड़, पादरी-श्रद्धालुओं पर हमला; ईसाई संगठनों में",
-          "summary": "दक्षिण 24 परगना में चर्च उद्घाटन समारोह में तोड़फोड़ हुई। पादरी और श्रद्धालुओं पर हमला किया गया। ईसाई संगठनों ने इस घटना पर प्रतिक्रिया व्यक्त की। दक्षिण 24 परगना में चर्च उद्घाटन समारोह में तोड़फोड़, पादरी-श्रद्धालुओं पर हमला; ईसाई संगठनों में।",
+          "title": "धनतेरस पर सोना खरीदने का नया तरीका, जानें निवेश के फायदे और नुकसान",
+          "summary": "धन ऐप ने धनतेरस के लिए गोल्ड वॉल्ट सेवा शुरू की है। इससे उपयोगकर्ता भौतिक सोना खरीद सकते हैं। यह नया विकल्प निवेशकों को सुविधा प्रदान करता है। धनतेरस पर सोना खरीदने का नया तरीका, जानें निवेश के फायदे और नुकसान।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "मूलांक 2, 3 और 7 वालों के लिए खास रहेगा सप्ताह, जानें धन और करियर का हाल",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/numerology/weekly-numerology-predictions2-8-november-career-finance-and-love-predictions-for-moolank-1-to-9-2026-11-01",
-      "source": "Amar Ujala National",
+      "title": "दिल्ली पर चढ़ने लगी जहरीली हवाओं की परत, आज सुबह 349 तक पहुंचा अक्षरधाम के आसपास का एक्यूआई",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-the-air-quality-index-aqi-in-the-area-around-akshardham-temple-is-349-2026-11-02",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-11-02T06:59:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/saptahik-ank-jyotish_5aa380afa8a948b85fe9201ea9a3c4f9.jpeg?w=1200&dpr=1.0",
-      "summary": "दो से आठ नवंबर 2026 का सप्ताह मूलांक दो, तीन और सात वालों के लिए खास रहेगा। धन और करियर में सुधार की संभावनाएं हैं। 2 से 8 नवंबर 2026 का सप्ताह मूलांक 1 से 9 तक के जातकों के लिए करियर, कारोबार, आर्थिक स्थिति और प्रेम जीवन के लिहाज से कैसा रहने वाला है? मूलांक 2, 3 और 7 वालों के लिए खास रहेगा सप्ताह, जानें धन और करियर का हाल।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मूलांक 2, 3 और 7 वालों के लिए खास रहेगा सप्ताह, जानें धन और करियर का हाल",
-          "summary": "दो से आठ नवंबर 2026 का सप्ताह मूलांक दो, तीन और सात वालों के लिए खास रहेगा। धन और करियर में सुधार की संभावनाएं हैं। 2 से 8 नवंबर 2026 का सप्ताह मूलांक 1 से 9 तक के जातकों के लिए करियर, कारोबार, आर्थिक स्थिति और प्रेम जीवन के लिहाज से कैसा रहने वाला है? मूलांक 2, 3 और 7 वालों के लिए खास रहेगा सप्ताह, जानें धन और करियर का हाल।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "INDIA ब्लॉक की रैली राहुल-प्रियंका में दरार, बहन को कर रहे दरकिनार!",
-      "url": "https://www.amarujala.com/video/india-news/rift-between-rahul-and-priyanka-at-india-bloc-rally-is-he-sidelining-his-sister-2026-11-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-01T22:23:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/india_c4004f80ebffb5c479f9f555a81b026e.jpeg?w=1200&dpr=1.0",
-      "summary": "इंडिया ब्लॉक की रैली में राहुल और प्रियंका गांधी के बीच दरार दिखाई दे रही है। राहुल अपनी बहन को रैली से दरकिनार कर रहे हैं। INDIA ब्लॉक की रैली राहुल-प्रियंका में दरार, बहन को कर रहे दरकिनार!",
+      "published_at": "2026-11-02T01:53:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/1_58f94ae30b37e5244dea2a43b22a1e52.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में वायु गुणवत्ता सूचकांक 349 तक पहुंच गया है। अक्षरधाम क्षेत्र में जहरीली हवाओं की परत चढ़ी है। यह स्तर स्वास्थ्य के लिए हानिकारक माना जाता है। दिल्ली में वायु प्रदूषण के कारण जहरीली हवाओं की परत चढ़ने लगी है। दिल्ली पर चढ़ने लगी जहरीली हवाओं की परत, आज सुबह 349 तक पहुंचा अक्षरधाम के आसपास का एक्यूआई।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "INDIA ब्लॉक की रैली राहुल-प्रियंका में दरार, बहन को कर रहे दरकिनार!",
-          "summary": "इंडिया ब्लॉक की रैली में राहुल और प्रियंका गांधी के बीच दरार दिखाई दे रही है। राहुल अपनी बहन को रैली से दरकिनार कर रहे हैं। INDIA ब्लॉक की रैली राहुल-प्रियंका में दरार, बहन को कर रहे दरकिनार!",
+          "title": "दिल्ली पर चढ़ने लगी जहरीली हवाओं की परत, आज सुबह 349 तक पहुंचा अक्षरधाम के आसपास का एक्यूआई",
+          "summary": "दिल्ली में वायु गुणवत्ता सूचकांक 349 तक पहुंच गया है। अक्षरधाम क्षेत्र में जहरीली हवाओं की परत चढ़ी है। यह स्तर स्वास्थ्य के लिए हानिकारक माना जाता है। दिल्ली में वायु प्रदूषण के कारण जहरीली हवाओं की परत चढ़ने लगी है। दिल्ली पर चढ़ने लगी जहरीली हवाओं की परत, आज सुबह 349 तक पहुंचा अक्षरधाम के आसपास का एक्यूआई।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "शाह बोले- गायत्री मंत्र से बदल सकता है जीवन, जागृत होती हैं सकारात्मक शक्तियां",
-      "url": "https://www.amarujala.com/india-news/amit-shah-highlights-transformative-benefits-of-gayatri-mantra-akhil-vishwa-gayatri-pariwar-shatabdi-samaroh-2026-11-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-01T22:10:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/katharaya-gaha-matara-amata-shaha_0c8494b41033e065998d73606c7da519.jpeg?w=1200&dpr=1.0",
-      "summary": "अमित शाह ने गायत्री परिवार शताब्दी समारोह में गायत्री मंत्र की महत्ता पर बतौरा। उन्होंने कहा कि यह मंत्र जीवन बदल सकता है। शाह बोले- गायत्री मंत्र से बदल सकता है जीवन, जागृत होती हैं सकारात्मक शक्तियां।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शाह बोले- गायत्री मंत्र से बदल सकता है जीवन, जागृत होती हैं सकारात्मक शक्तियां",
-          "summary": "अमित शाह ने गायत्री परिवार शताब्दी समारोह में गायत्री मंत्र की महत्ता पर बतौरा। उन्होंने कहा कि यह मंत्र जीवन बदल सकता है। शाह बोले- गायत्री मंत्र से बदल सकता है जीवन, जागृत होती हैं सकारात्मक शक्तियां।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कुंभ राशि वालों के लिए आएंगे नए अवसर, आर्थिक मामलों में मिल सकता है लाभ",
-      "url": "https://www.amarujala.com/astrology/predictions/aaj-ka-kumbh-rashifal-2-november-2026-aquarius-horoscope-in-hindi-2026-11-01",
+      "title": "दिवाली पर सोना खरीदते समय रखें इन 5 बातों का ध्यान, बैंक बाजार के सीईओ ने दी सलाह",
+      "url": "https://www.amarujala.com/business/bonus/dhanteras-diwali-gold-buying-tips-five-important-rules-2026-11-02",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-01T22:06:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/06/aaja-ka-rashafal_8fd52ddbb0573d0a5c29ae44758932ba.jpeg?w=1200&dpr=1.0",
-      "summary": "कुंभ राशि वालों के लिए आर्थिक लाभ और नए अवसरों की संभावना है। लंबे समय से रुके कामों में गति आने की उम्मीद जताई गई है। सरकारी कार्यों में सावधानी बरतने की सलाह दी गई है। आपकी कोई पुरानी इच्छा पूरी होने से मन प्रसन्न हो सकता है और आपको लगेगा कि अब परिस्थितियां धीरे-धीरे आपके पक्ष में बदल रही हैं।",
+      "published_at": "2026-11-02T01:38:11+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/sana-kharathana-sa-pahal-jana-l-ya-paca-janprra-nayama_2a73eb24f90f638249173edb11708b6d.jpeg?w=1200&dpr=1.0",
+      "summary": "बैंक बाजार के सीईओ ने दिवाली पर सोना खरीदने की पाँच सलाहें दी हैं। इनमें खरीदारी से पहले ध्यान रखने योग्य मुख्य बातें शामिल हैं। यह मार्गदर्शन निवेशकों के लिए उपयोगी है। dhanteras diwali gold buying tips five important rules- गोल्ड शॉपिंग टिप्स: दिवाली पर सोना खरीदते समय रखें इन 5 बातों का ध्यान, बैंक बाजार के सीईओ ने दी सलाह।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "कुंभ राशि वालों के लिए आएंगे नए अवसर, आर्थिक मामलों में मिल सकता है लाभ",
-          "summary": "कुंभ राशि वालों के लिए आर्थिक लाभ और नए अवसरों की संभावना है। लंबे समय से रुके कामों में गति आने की उम्मीद जताई गई है। सरकारी कार्यों में सावधानी बरतने की सलाह दी गई है। आपकी कोई पुरानी इच्छा पूरी होने से मन प्रसन्न हो सकता है और आपको लगेगा कि अब परिस्थितियां धीरे-धीरे आपके पक्ष में बदल रही हैं।",
+          "title": "दिवाली पर सोना खरीदते समय रखें इन 5 बातों का ध्यान, बैंक बाजार के सीईओ ने दी सलाह",
+          "summary": "बैंक बाजार के सीईओ ने दिवाली पर सोना खरीदने की पाँच सलाहें दी हैं। इनमें खरीदारी से पहले ध्यान रखने योग्य मुख्य बातें शामिल हैं। यह मार्गदर्शन निवेशकों के लिए उपयोगी है। dhanteras diwali gold buying tips five important rules- गोल्ड शॉपिंग टिप्स: दिवाली पर सोना खरीदते समय रखें इन 5 बातों का ध्यान, बैंक बाजार के सीईओ ने दी सलाह।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "रामकथा से सियासी संघर्ष तक... 175 वर्षों का ऐतिहासिक सफर, लोकतंत्र की लंबी यात्रा",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-s-ramlila-maidan-a-175-year-historical-journey-from-the-ramayana-narrative-to-political-struggle-2026-11-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-01T22:00:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/1_31765c7c938fb97e412d7a1285826357.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली का रामलीला मैदान सियासी संघर्ष का केंद्र बना है। यह स्थान 175 वर्षों से लोकतंत्र की लंबी यात्रा का गवाह रहा है। ऐतिहासिक सफर में रामकथा से लेकर राजनीतिक विवाद तक शामिल हैं। दिल्ली का रामलीला मैदान एक बार फिर सियासी संघर्ष का केंद्र बना है। रामकथा से सियासी संघर्ष तक 175 वर्षों का ऐतिहासिक सफर, लोकतंत्र की लंबी यात्रा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रामकथा से सियासी संघर्ष तक... 175 वर्षों का ऐतिहासिक सफर, लोकतंत्र की लंबी यात्रा",
-          "summary": "दिल्ली का रामलीला मैदान सियासी संघर्ष का केंद्र बना है। यह स्थान 175 वर्षों से लोकतंत्र की लंबी यात्रा का गवाह रहा है। ऐतिहासिक सफर में रामकथा से लेकर राजनीतिक विवाद तक शामिल हैं। दिल्ली का रामलीला मैदान एक बार फिर सियासी संघर्ष का केंद्र बना है। रामकथा से सियासी संघर्ष तक 175 वर्षों का ऐतिहासिक सफर, लोकतंत्र की लंबी यात्रा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नेकां की अंदरूनी कलह अब खुली बगावत में तब्दील, विद्रोही विधायक बोले...हम ही असली; सीएम उमर मुसीबत",
-      "url": "https://www.amarujala.com/jammu/jammu-internal-strife-within-the-nc-has-now-turned-into-an-open-rebellion-cm-omar-in-trouble-2026-11-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-01T21:57:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/1_e19489716d756f45168bfd7457452ae9.jpeg?w=1200&dpr=1.0",
-      "summary": "जम्मू-कश्मीर में नेशनल कॉन्फ्रेंस की अंदरूनी कलह खुली बगावत में बदल गई है। विद्रोही विधायकों ने खुद को असली पार्टी का प्रतिनिधित्व करने का दावा किया है। मुख्यमंत्री उमर अब्दुल्ला मुसीबत में हैं। जम्मू-कश्मीर में सत्ताधारी नेशनल कॉन्फ्रेंस (नेकां) की अंदरूनी कलह अब खुली बगावत में तब्दील हो गई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेकां की अंदरूनी कलह अब खुली बगावत में तब्दील, विद्रोही विधायक बोले...हम ही असली; सीएम उमर मुसीबत",
-          "summary": "जम्मू-कश्मीर में नेशनल कॉन्फ्रेंस की अंदरूनी कलह खुली बगावत में बदल गई है। विद्रोही विधायकों ने खुद को असली पार्टी का प्रतिनिधित्व करने का दावा किया है। मुख्यमंत्री उमर अब्दुल्ला मुसीबत में हैं। जम्मू-कश्मीर में सत्ताधारी नेशनल कॉन्फ्रेंस (नेकां) की अंदरूनी कलह अब खुली बगावत में तब्दील हो गई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूपीआई पर शुल्क का कोई डर नहीं, रिकॉर्ड 1 लाख करोड़ पहुंचा डेली ट्रांजेक्शन",
-      "url": "https://www.amarujala.com/video/business/business-diary/no-fear-of-charges-on-upi-daily-transactions-reach-a-record-1-lakh-crore-2026-11-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-01T21:45:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/record-upi-transaction_304d7264e027c7cb8e7afe926b41edb2.jpeg?w=1200&dpr=1.0",
-      "summary": "यूपीआई पर रिकॉर्ड 1 लाख करोड़ का दैनिक लेनदेन दर्ज हुआ है। इससे शुल्क लगाने के डर को खत्म करने की कोशिश की जा रही है। भुगतान प्रणाली की लोकप्रियता में लगातार वृद्धि देखी जा रही है। यूपीआई पर शुल्क का कोई डर नहीं, रिकॉर्ड 1 लाख करोड़ पहुंचा डेली ट्रांजेक्शन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूपीआई पर शुल्क का कोई डर नहीं, रिकॉर्ड 1 लाख करोड़ पहुंचा डेली ट्रांजेक्शन",
-          "summary": "यूपीआई पर रिकॉर्ड 1 लाख करोड़ का दैनिक लेनदेन दर्ज हुआ है। इससे शुल्क लगाने के डर को खत्म करने की कोशिश की जा रही है। भुगतान प्रणाली की लोकप्रियता में लगातार वृद्धि देखी जा रही है। यूपीआई पर शुल्क का कोई डर नहीं, रिकॉर्ड 1 लाख करोड़ पहुंचा डेली ट्रांजेक्शन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सैन्य कार्रवाई नहीं, कूटनीति से निकलेगा समाधान; अमेरिका-ईरान तनाव पर यूएई की अपील",
-      "url": "https://www.amarujala.com/world/uae-says-military-solutions-offer-no-quick-off-ramps-to-crisis-with-iran-west-asia-us-iran-war-2026-11-02",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-01T20:25:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/09/amaraka-iirana-yathathhavarama_f9df26c023e3290d28811d2e3f0cbd31.jpeg?w=1200&dpr=1.0",
-      "summary": "यूएई ने अमेरिका और ईरान के बीच तनाव पर कूटनीतिक समाधान की अपील की है। सैन्य कार्रवाई से संकट का त्वरित समाधान संभव नहीं है। पश्चिम एशिया में स्थिरता के लिए बातचीत की आवश्यकता पर जोर दिया गया है। सैन्य कार्रवाई नहीं, कूटनीति से निकलेगा समाधान; अमेरिका-ईरान तनाव पर यूएई की अपील।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सैन्य कार्रवाई नहीं, कूटनीति से निकलेगा समाधान; अमेरिका-ईरान तनाव पर यूएई की अपील",
-          "summary": "यूएई ने अमेरिका और ईरान के बीच तनाव पर कूटनीतिक समाधान की अपील की है। सैन्य कार्रवाई से संकट का त्वरित समाधान संभव नहीं है। पश्चिम एशिया में स्थिरता के लिए बातचीत की आवश्यकता पर जोर दिया गया है। सैन्य कार्रवाई नहीं, कूटनीति से निकलेगा समाधान; अमेरिका-ईरान तनाव पर यूएई की अपील।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "विपक्ष की रैली से दिल्ली के व्यापारियों को झटका, 80 फीसदी दुकानें रहीं बंद",
-      "url": "https://www.amarujala.com/video/india-news/opposition-rally-deals-a-blow-to-delhi-traders-80-percent-of-shops-remained-closed-2026-11-02",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-01T19:54:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/ramlila-maidan-congress-rally_77e0eff819fe046218470cf5c1a7bc82.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली में विपक्ष की रैली के दौरान 80 फीसदी दुकानें बंद रहीं। व्यापारियों को इससे आर्थिक नुकसान हुआ। शहर के कई इलाकों में व्यापार प्रभावित रहा। विपक्ष की रैली से दिल्ली के व्यापारियों को झटका, 80 फीसदी दुकानें रहीं बंद।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विपक्ष की रैली से दिल्ली के व्यापारियों को झटका, 80 फीसदी दुकानें रहीं बंद",
-          "summary": "दिल्ली में विपक्ष की रैली के दौरान 80 फीसदी दुकानें बंद रहीं। व्यापारियों को इससे आर्थिक नुकसान हुआ। शहर के कई इलाकों में व्यापार प्रभावित रहा। विपक्ष की रैली से दिल्ली के व्यापारियों को झटका, 80 फीसदी दुकानें रहीं बंद।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी चुनावों में भारतीय मूल के नेताओं की बढ़ती ताकत, जानिए कौन-कौन आजमा रहा है किस्मत",
-      "url": "https://www.patrika.com/world-news/indian-origin-candidates-us-midterm-elections-trump-republican-democrats-21024073",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-01T18:19:16+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-2.webp",
-      "summary": "अमेरिका में 3 नवंबर के चुनावों से पहले मतगणना को लेकर विवाद बढ़ा। ट्रंप प्रशासन अलास्का सीनेट सीट पर डेमोक्रेट सहयोगियों की जांच कर रहा है। Donald Trump: अमरीका में 3 नवंबर को होने वाले मध्यावधि चुनाव से पहले चुनाव प्रक्रिया और मतों की गिनती को लेकर विवाद गहरा गया है। राष्ट्रपति डॉनल्ड ट्रंप का प्रशासन अलास्का की सीनेट सीट के मामले में डेमोक्रेट उम्मीदवार मैरी पेल्टोला के सहयोगियों की भूमिका की आपराधिक जांच कर रहा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी चुनावों में भारतीय मूल के नेताओं की बढ़ती ताकत, जानिए कौन-कौन आजमा रहा है किस्मत",
-          "summary": "अमेरिका में 3 नवंबर के चुनावों से पहले मतगणना को लेकर विवाद बढ़ा। ट्रंप प्रशासन अलास्का सीनेट सीट पर डेमोक्रेट सहयोगियों की जांच कर रहा है। Donald Trump: अमरीका में 3 नवंबर को होने वाले मध्यावधि चुनाव से पहले चुनाव प्रक्रिया और मतों की गिनती को लेकर विवाद गहरा गया है। राष्ट्रपति डॉनल्ड ट्रंप का प्रशासन अलास्का की सीनेट सीट के मामले में डेमोक्रेट उम्मीदवार मैरी पेल्टोला के सहयोगियों की भूमिका की आपराधिक जांच कर रहा है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "10वीं की छात्रा पर आरी से हमला करने वाला आरोपी जंगल से पकड़ा गया, पुलिस मुठभेड़ में लगी गोली",
-      "url": "https://www.abplive.com/news/india/accused-attacked-10th-grade-student-with-chainsaw-captured-gunshot-wound-during-encounter-with-the-police-3209794",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-01T18:16:24+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/a58bf4b140b961e30be668c13bcfeb1a17935559823721484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अनंतपुर में दसवीं छात्रा पर हमले का आरोपी जंगल से पकड़ा गया। पुलिस से भागने की कोशिश में मुठभेड़ हुई। आरोपी को गोली लगी। अनंतपुर जिले के राप्ताडु जिला परिषद हाईस्कूल में दसवीं कक्षा की छात्रा गोपिका पर हमले के मामले में एक अहम घटनाक्रम सामने आया है. बताया जा रहा है कि घटना का सीन री-कंस्ट्रक्शन कराने के लिए आरोपी हेमंत को ले जाया गया था.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "10वीं की छात्रा पर आरी से हमला करने वाला आरोपी जंगल से पकड़ा गया, पुलिस मुठभेड़ में लगी गोली",
-          "summary": "अनंतपुर में दसवीं छात्रा पर हमले का आरोपी जंगल से पकड़ा गया। पुलिस से भागने की कोशिश में मुठभेड़ हुई। आरोपी को गोली लगी। अनंतपुर जिले के राप्ताडु जिला परिषद हाईस्कूल में दसवीं कक्षा की छात्रा गोपिका पर हमले के मामले में एक अहम घटनाक्रम सामने आया है. बताया जा रहा है कि घटना का सीन री-कंस्ट्रक्शन कराने के लिए आरोपी हेमंत को ले जाया गया था.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आंध्र प्रदेश पर एक और चक्रवात का खतरा, CM चंद्रबाबू नायडू ने की समीक्षा बैठक",
-      "url": "https://www.abplive.com/news/india/cm-chandrababu-naidu-chaired-high-level-meeting-over-preparations-in-andhra-pradesh-regarding-cyclone-murasu-after-arnab-ann-3209799",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-01T18:13:28+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/44bd6a72b359c8e7eccaa14bd8cdfa8117935567398571126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "आंध्र प्रदेश में नए चक्रवात के खतरे पर मुख्यमंत्री चंद्रबाबू नायडू ने बैठक बुलाई। उन्होंने दिल्ली का दौरा रद्द किया। अधिकारियों से प्रभाव और जलाशय स्थिति की समीक्षा की। आंध्र प्रदेश पर एक और चक्रवात के संभावित प्रभावों को लेकर मुख्यमंत्री चंद्रबाबू नायडू ने रविवार (1 नवंबर, 2026) को उच्च अधिकारियों के साथ समीक्षा बैठक की. उन्होंने राज्य पर चक्रवात के संभावित प्रभाव, बारिश, तेज हवाओं के अनुमान और जलाशयों की स्थिति पर समीक्षा की.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आंध्र प्रदेश पर एक और चक्रवात का खतरा, CM चंद्रबाबू नायडू ने की समीक्षा बैठक",
-          "summary": "आंध्र प्रदेश में नए चक्रवात के खतरे पर मुख्यमंत्री चंद्रबाबू नायडू ने बैठक बुलाई। उन्होंने दिल्ली का दौरा रद्द किया। अधिकारियों से प्रभाव और जलाशय स्थिति की समीक्षा की। आंध्र प्रदेश पर एक और चक्रवात के संभावित प्रभावों को लेकर मुख्यमंत्री चंद्रबाबू नायडू ने रविवार (1 नवंबर, 2026) को उच्च अधिकारियों के साथ समीक्षा बैठक की. उन्होंने राज्य पर चक्रवात के संभावित प्रभाव, बारिश, तेज हवाओं के अनुमान और जलाशयों की स्थिति पर समीक्षा की.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्कूलों में AI टूल्स के इस्तेमाल पर घिरा Google, बच्चों की सुरक्षा को लेकर उठे सवाल",
-      "url": "https://www.patrika.com/world-news/google-ai-tools-children-education-mental-health-sundar-pichai-21024070",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-01T18:13:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Artificial-Intelligence.webp",
-      "summary": "अमेरिकी सीनेटरों ने गूगल के सीईओ सुंदर पिचाई को पत्र लिखा। स्कूलों में एआई टूल्स के बच्चों की मानसिक सुरक्षा पर प्रभाव के सवाल उठाए गए। Artificial Intelligence: बच्चों की पढ़ाई आसान बनाने के लिए स्कूलों में आर्टिफिशियल इंटेलिजेंस (एआइ ) का इस्तेमाल तेजी से बढ़ रहा है। लेकिन क्या यह तकनीक बच्चों को बेहतर सीखने में मदद कर रही है या उनकी सोचने-समझने की क्षमता कमजोर कर रही है?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्कूलों में AI टूल्स के इस्तेमाल पर घिरा Google, बच्चों की सुरक्षा को लेकर उठे सवाल",
-          "summary": "अमेरिकी सीनेटरों ने गूगल के सीईओ सुंदर पिचाई को पत्र लिखा। स्कूलों में एआई टूल्स के बच्चों की मानसिक सुरक्षा पर प्रभाव के सवाल उठाए गए। Artificial Intelligence: बच्चों की पढ़ाई आसान बनाने के लिए स्कूलों में आर्टिफिशियल इंटेलिजेंस (एआइ ) का इस्तेमाल तेजी से बढ़ रहा है। लेकिन क्या यह तकनीक बच्चों को बेहतर सीखने में मदद कर रही है या उनकी सोचने-समझने की क्षमता कमजोर कर रही है?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हैलोवीन पर अमेरिका में खूनी तांडव, डलास से अलबामा तक अंधाधुंध गोलीबारी, 5 की मौत, 23 घायल",
-      "url": "https://hindi.news18.com/world/america-halloween-violence-in-the-us-mass-shootings-in-dallas-and-alabama-leave-5-dead-and-23-injured-suspects-taken-into-custody-10956238.html",
+      "title": "क्या मिडटर्म में हार मान चुके हैं डोनाल्ड ट्रंप? वोटिंग हुई भी नहीं और करने लगे वीटो लगाने की बात",
+      "url": "https://hindi.news18.com/world/america-donald-trump-reveals-veto-would-be-the-weapon-if-democrats-get-control-of-us-congress-in-midterms-ws-l-10956387.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-01T18:12:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/firing-gun-Reuters-2026-11-0417728223e19312fe99b04e7bc2a207-1200x800.jpg",
-      "summary": "अमेरिका के डलास और अलबामा में हैलोवीन वीकेंड की गोलीबारी में पांच लोगों की मौत हुई। डीप एलम में तीन वारदातों में चार मारे गए, जबकि बर्मिंघम में एक। कुल 23 लोग घायल हुए। पुलिस ने संदिग्धों को हिरासत में लिया। America News in Hindi: अमेरिका में हैलोवीन वीकेंड के दौरान हुई गोलीबारी की घटनाओं में कुल 5 लोगों की मौत हो गई और 23 घायल हो गए.",
+      "published_at": "2026-11-02T01:35:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/donald-trump-1-2026-09-f174d8e10723d24108feb45cd6d99329-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने मिडटर्म चुनावों से पहले वीटो लगाने की बात कही है। उनकी टिप्पणी से ऐसा प्रतीत होता है कि वे डेमोक्रेट्स की जीत मान चुके हैं। चुनाव अभी बाकी है। अब थोड़ा ही समय बाकी बचा है लेकिन अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की बातों से ऐसा लग रहा है कि वे पहले ही ये मान चुके हैं कि चुनाव में डेमोक्रेट्स का दबदबा होने वाला है.",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हैलोवीन पर अमेरिका में खूनी तांडव, डलास से अलबामा तक अंधाधुंध गोलीबारी, 5 की मौत, 23 घायल",
-          "summary": "अमेरिका के डलास और अलबामा में हैलोवीन वीकेंड की गोलीबारी में पांच लोगों की मौत हुई। डीप एलम में तीन वारदातों में चार मारे गए, जबकि बर्मिंघम में एक। कुल 23 लोग घायल हुए। पुलिस ने संदिग्धों को हिरासत में लिया। America News in Hindi: अमेरिका में हैलोवीन वीकेंड के दौरान हुई गोलीबारी की घटनाओं में कुल 5 लोगों की मौत हो गई और 23 घायल हो गए.",
+          "title": "क्या मिडटर्म में हार मान चुके हैं डोनाल्ड ट्रंप? वोटिंग हुई भी नहीं और करने लगे वीटो लगाने की बात",
+          "summary": "डोनाल्ड ट्रंप ने मिडटर्म चुनावों से पहले वीटो लगाने की बात कही है। उनकी टिप्पणी से ऐसा प्रतीत होता है कि वे डेमोक्रेट्स की जीत मान चुके हैं। चुनाव अभी बाकी है। अब थोड़ा ही समय बाकी बचा है लेकिन अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की बातों से ऐसा लग रहा है कि वे पहले ही ये मान चुके हैं कि चुनाव में डेमोक्रेट्स का दबदबा होने वाला है.",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "रामलीला मैदान में विपक्ष का प्रदर्शन, राहुल-अखिलेश के निशाने पर CEC और केंद्र, बीजेपी का पलटवार",
-      "url": "https://www.abplive.com/news/india/ramlila-maida-india-alliance-rally-delhi-rahul-gandhi-akhilesh-yadav-3209795",
-      "source": "ABP Live (India)",
+      "title": "30 करोड़ लोगों को जोड़ने वाला सोशल नेटवर्क क्यों हुआ बंद, अब कैसे कर रहा लौटने की तैयारी?",
+      "url": "https://www.amarujala.com/technology/tech-diary/orkut-untold-story-why-it-failed-and-how-it-is-coming-back-explainer-2026-11-01",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-01T18:02:07+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/156a11818db748ebed583180a5a96c8b1793555939913708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "दिल्ली के रामलीला मैदान में इंडिया गठबंधन ने 1 नवंबर को महारैली का आयोजन किया। राहुल गांधी ने केंद्र और चुनाव आयोग पर निशाना साधा। बीजेपी ने इस प्रदर्शन का पलटवार किया। दिल्ली के रामलीला मैदान में इंडिया गठबंधन की महारैली हुई, जिसमें विपक्ष ने केंद्र सरकार और ज्ञानेश कुमार पर जमकर निशाना साधा. 1 नवंबर को संपन्न हुई इस रैली की तैयारी पिछले कई दिनों से चल रही थी.",
+      "published_at": "2026-11-02T01:31:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/orkut-coming-back_b3c3799ba12f058e09e1ce239a7aa360.jpeg",
+      "summary": "ऑर्कुट, जिसने 30 करोड़ उपयोगकर्ताओं को जोड़ा, अब लौटने की तैयारी में है। यह प्लेटफॉर्म फेसबुक से पहले लोकप्रिय था। अब इसे फिर से शुरू किया जा रहा है। Orkut Coming Back: फेसबुक और इंस्टाग्राम से पहले इंटरनेट पर एक दौर ऑर्कुट (Orkut) का था, जिसने भारत समेत दुनियाभर के 30 करोड़ लोगों को सोशल मीडिया का असली चस्का लगाया था।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "रामलीला मैदान में विपक्ष का प्रदर्शन, राहुल-अखिलेश के निशाने पर CEC और केंद्र, बीजेपी का पलटवार",
-          "summary": "दिल्ली के रामलीला मैदान में इंडिया गठबंधन ने 1 नवंबर को महारैली का आयोजन किया। राहुल गांधी ने केंद्र और चुनाव आयोग पर निशाना साधा। बीजेपी ने इस प्रदर्शन का पलटवार किया। दिल्ली के रामलीला मैदान में इंडिया गठबंधन की महारैली हुई, जिसमें विपक्ष ने केंद्र सरकार और ज्ञानेश कुमार पर जमकर निशाना साधा. 1 नवंबर को संपन्न हुई इस रैली की तैयारी पिछले कई दिनों से चल रही थी.",
+          "title": "30 करोड़ लोगों को जोड़ने वाला सोशल नेटवर्क क्यों हुआ बंद, अब कैसे कर रहा लौटने की तैयारी?",
+          "summary": "ऑर्कुट, जिसने 30 करोड़ उपयोगकर्ताओं को जोड़ा, अब लौटने की तैयारी में है। यह प्लेटफॉर्म फेसबुक से पहले लोकप्रिय था। अब इसे फिर से शुरू किया जा रहा है। Orkut Coming Back: फेसबुक और इंस्टाग्राम से पहले इंटरनेट पर एक दौर ऑर्कुट (Orkut) का था, जिसने भारत समेत दुनियाभर के 30 करोड़ लोगों को सोशल मीडिया का असली चस्का लगाया था।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "सौरव दास की दीवाली पार्टी की इनसाइड तस्वीर; केजरीवाल, कपिल सिब्बल भी आए नजर",
-      "url": "https://www.abplive.com/news/india/inside-photos-sourav-das-diwali-party-arvind-kejriwal-and-kapil-sibal-abhijeet-dipke-ashutosh-ranka-spot-3209786",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-01T17:39:26+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/c6043b60941405c87cbbc1a815f681fd17935545294011324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सौरव दास ने दिल्ली में दिवाली पार्टी का आयोजन किया। केजरीवाल, कपिल सिब्बल और शरद पवार समेत कई नेता मौजूद रहे। तृणमूल कांग्रेस और माकपा के प्रतिनिधि भी शामिल हुए। कॉकरोच जनता पार्टी के मुख्य चेहरा सौरव दास ने नई दिल्ली में शनिवार को दिवाली पार्टी का आयोजन किया. इस दौरान तृणमूल कांग्रेस, माकपा और एनसीपी चीफ शरद पवार, केजरीवाल, कपिल सिब्बल समेत कई बड़े नाम शामिल हुए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सौरव दास की दीवाली पार्टी की इनसाइड तस्वीर; केजरीवाल, कपिल सिब्बल भी आए नजर",
-          "summary": "सौरव दास ने दिल्ली में दिवाली पार्टी का आयोजन किया। केजरीवाल, कपिल सिब्बल और शरद पवार समेत कई नेता मौजूद रहे। तृणमूल कांग्रेस और माकपा के प्रतिनिधि भी शामिल हुए। कॉकरोच जनता पार्टी के मुख्य चेहरा सौरव दास ने नई दिल्ली में शनिवार को दिवाली पार्टी का आयोजन किया. इस दौरान तृणमूल कांग्रेस, माकपा और एनसीपी चीफ शरद पवार, केजरीवाल, कपिल सिब्बल समेत कई बड़े नाम शामिल हुए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "280 विश्वविद्यालय, लाखों छात्र और फिर भी बदहाल उच्च शिक्षा, पाकिस्तान में क्या है संकट की वजह?",
-      "url": "https://www.patrika.com/world-news/pakistan-higher-education-universities-financial-crisis-report-21024057",
+      "title": "फ्लोरिडा में ट्रंप के मार-ए-लागे आवास के पास निजी विमान हादसे का शिकार, 9 की मौत",
+      "url": "https://www.patrika.com/world-news/florida-private-plane-crash-near-mar-a-lago-9-dead-21024092",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-01T17:28:04+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Pakistan-Education-System.webp",
-      "summary": "पाकिस्तान की उच्च शिक्षा व्यवस्था गंभीर वित्तीय संकट में है। मुशर्रफ के सुधारों के बावजूद संस्थानों की स्थिति बिगड़ती रही है। लाखों छात्रों के लिए यह संरचनात्मक चुनौती बनी हुई है। Pakistan Education System: पाकिस्तान की उच्च शिक्षा व्यवस्था गंभीर वित्तीय और शैक्षणिक संकट से गुजर रही है। करीब दो दशक पहले तत्कालीन राष्ट्रपति जनरल परवेज मुशर्रफ ने देश के कॉलेजों और विश्वविद्यालयों की स्थिति बदलने के लिए बड़े सुधारों की शुरुआत की थी।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-11-02T01:31:02+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner.webp",
+      "summary": "फ्लोरिडा में टेक्सास से बहामास जा रहे लियरजेट 60 विमान का हादसा हुआ। पायलट समेत नौ लोगों की मौत हुई। विमान संतुलन खोकर जमीन पर गिरा और धमाका हुआ। America plane crash: अमेरिका के फ्लोरिडा में एक विमान हादसे का शिकार हो गया है। अमेरिकी मीडिया रिपोर्ट के मुताबिक इस हादसे में पायलट समेत 9 लोगों मौके पर ही मौत हो गई।",
+      "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "280 विश्वविद्यालय, लाखों छात्र और फिर भी बदहाल उच्च शिक्षा, पाकिस्तान में क्या है संकट की वजह?",
-          "summary": "पाकिस्तान की उच्च शिक्षा व्यवस्था गंभीर वित्तीय संकट में है। मुशर्रफ के सुधारों के बावजूद संस्थानों की स्थिति बिगड़ती रही है। लाखों छात्रों के लिए यह संरचनात्मक चुनौती बनी हुई है। Pakistan Education System: पाकिस्तान की उच्च शिक्षा व्यवस्था गंभीर वित्तीय और शैक्षणिक संकट से गुजर रही है। करीब दो दशक पहले तत्कालीन राष्ट्रपति जनरल परवेज मुशर्रफ ने देश के कॉलेजों और विश्वविद्यालयों की स्थिति बदलने के लिए बड़े सुधारों की शुरुआत की थी।",
-          "region": "एशिया-प्रशांत"
+          "title": "फ्लोरिडा में ट्रंप के मार-ए-लागे आवास के पास निजी विमान हादसे का शिकार, 9 की मौत",
+          "summary": "फ्लोरिडा में टेक्सास से बहामास जा रहे लियरजेट 60 विमान का हादसा हुआ। पायलट समेत नौ लोगों की मौत हुई। विमान संतुलन खोकर जमीन पर गिरा और धमाका हुआ। America plane crash: अमेरिका के फ्लोरिडा में एक विमान हादसे का शिकार हो गया है। अमेरिकी मीडिया रिपोर्ट के मुताबिक इस हादसे में पायलट समेत 9 लोगों मौके पर ही मौत हो गई।",
+          "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "तमिलनाडु के लिए अलग झंडे पर विचार करेगी तमिलनाडु सरकार? विजय के मंत्री का बड़ा बयान",
-      "url": "https://www.abplive.com/news/india/tvk-minister-aadhav-arjuna-demand-another-flag-for-tamil-nadu-bjp-call-sepratist-mindset-3209775",
-      "source": "ABP Live (India)",
+      "title": "कैसे बॉलीवुड के किंग बने शाहरुख?: कभी ‘बाजीगर’ तो कभी ‘डाॅन’ बनकर किया दिलों पर राज; जानें कितनी है",
+      "url": "https://www.amarujala.com/entertainment/bollywood/shah-rukh-khan-net-worth-2026-iconic-roles-awards-and-biggest-career-achievements-2026-11-01",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-01T17:21:31+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/5b35aa15929888161ae2826b73cb350f17935519440951324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "तमिलनाडु के मंत्री आधव अर्जुन ने राज्य के लिए अलग झंडे की मांग उठाई। बीजेपी ने इसे अलगावादी मानसिकता को बढ़ावा देने की कोशिश करार दिया। मुख्यमंत्री विजय को प्रस्ताव पर विचार करने की सलाह दी गई। तिरंगे जितने मान के साथ तमिलनाडु के अलग ध्वज की मांग की गई है. यह मांग तमिलनाडु सरकार में पीडब्ल्यूडी और खेल मंत्री आधव अर्जुन ने की है.",
+      "published_at": "2026-11-02T01:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/shaharakha-khana_f5f2985e70e5bb55322cca1771925009.jpeg?w=1200&dpr=1.0",
+      "summary": "शाहरुख खान ने 61वां जन्मदिन मनाया। बाजीगर और डॉन जैसी फिल्मों से उन्होंने बॉलीवुड में अपनी पहचान बनाई। उनकी नेटवर्थ और पुरस्कारों की जानकारी इस समाचार में दी गई है। बॉलीवुड के किंग शाहरुख खान आज अपना 61वां जन्मदिन मना रहे हैं। शाहरुख खान ने करियर में कई बड़ी फिल्में दी हैं और फैंस के दिलों पर राज किया है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तमिलनाडु के लिए अलग झंडे पर विचार करेगी तमिलनाडु सरकार? विजय के मंत्री का बड़ा बयान",
-          "summary": "तमिलनाडु के मंत्री आधव अर्जुन ने राज्य के लिए अलग झंडे की मांग उठाई। बीजेपी ने इसे अलगावादी मानसिकता को बढ़ावा देने की कोशिश करार दिया। मुख्यमंत्री विजय को प्रस्ताव पर विचार करने की सलाह दी गई। तिरंगे जितने मान के साथ तमिलनाडु के अलग ध्वज की मांग की गई है. यह मांग तमिलनाडु सरकार में पीडब्ल्यूडी और खेल मंत्री आधव अर्जुन ने की है.",
+          "title": "कैसे बॉलीवुड के किंग बने शाहरुख?: कभी ‘बाजीगर’ तो कभी ‘डाॅन’ बनकर किया दिलों पर राज; जानें कितनी है",
+          "summary": "शाहरुख खान ने 61वां जन्मदिन मनाया। बाजीगर और डॉन जैसी फिल्मों से उन्होंने बॉलीवुड में अपनी पहचान बनाई। उनकी नेटवर्थ और पुरस्कारों की जानकारी इस समाचार में दी गई है। बॉलीवुड के किंग शाहरुख खान आज अपना 61वां जन्मदिन मना रहे हैं। शाहरुख खान ने करियर में कई बड़ी फिल्में दी हैं और फैंस के दिलों पर राज किया है।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "करोल बाग से खरीदा गया था मोबाइल, पुलिस के खुलासे से गरमाई कर्नाटक की सियासत",
-      "url": "https://www.abplive.com/news/india/police-find-mobile-phone-in-siddaramaiah-sting-operation-hd-kumaraswamy-social-media-member-3209776",
-      "source": "ABP Live (India)",
+      "title": "कार खरीदने वालों के लिए नवंबर खास: लग्जरी EV, हाइब्रिड MPV समेत लॉन्च हो सकती हैं पांच गाड़ियां",
+      "url": "https://www.amarujala.com/automobiles/5-new-cars-set-arrive-india-this-november-from-mercedes-ev-bmw-m-editions-2026-11-01",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-01T17:13:54+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/e55f7feb227ccc993c8225dd1a00c91217935522632611484_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "बेंगलुरु पुलिस ने सिद्धारमैया के स्टिंग वीडियो में दिल्ली से खरीदे गए फोन की पहचान की। फोन एचडी कुमारस्वामी की सोशल मीडिया टीम से जुड़ा है। इस खुलासे से कर्नाटक में राजनीतिक तनाव बढ़ गया। कर्नाटक के पूर्व मुख्यमंत्री सिद्धारमैया के खिलाफ कथित स्टिंग ऑपरेशन को लेकर एक बड़ा सबूत मिला है, जिसे लेकर राजनीतिक गलियारों में आरोप-प्रत्यारोप भी तेज हो गए हैं.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-11-02T01:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/paratakatamaka-tasavara_56bbf0b8a637442a3f27df7f1a5505de.jpeg?w=1200&dpr=1.0",
+      "summary": "नवंबर में पांच नई कारों के लॉन्च की उम्मीद है। इसमें लग्जरी इलेक्ट्रिक वाहन और हाइब्रिड MPV शामिल हैं। कार खरीदने वालों के लिए यह महीना विशेष है। कार खरीदने वालों के लिए नवंबर खास: लग्जरी EV, हाइब्रिड MPV समेत लॉन्च हो सकती हैं पांच गाड़ियां, देखें लिस्ट।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "करोल बाग से खरीदा गया था मोबाइल, पुलिस के खुलासे से गरमाई कर्नाटक की सियासत",
-          "summary": "बेंगलुरु पुलिस ने सिद्धारमैया के स्टिंग वीडियो में दिल्ली से खरीदे गए फोन की पहचान की। फोन एचडी कुमारस्वामी की सोशल मीडिया टीम से जुड़ा है। इस खुलासे से कर्नाटक में राजनीतिक तनाव बढ़ गया। कर्नाटक के पूर्व मुख्यमंत्री सिद्धारमैया के खिलाफ कथित स्टिंग ऑपरेशन को लेकर एक बड़ा सबूत मिला है, जिसे लेकर राजनीतिक गलियारों में आरोप-प्रत्यारोप भी तेज हो गए हैं.",
-          "region": "एशिया-प्रशांत"
+          "title": "कार खरीदने वालों के लिए नवंबर खास: लग्जरी EV, हाइब्रिड MPV समेत लॉन्च हो सकती हैं पांच गाड़ियां",
+          "summary": "नवंबर में पांच नई कारों के लॉन्च की उम्मीद है। इसमें लग्जरी इलेक्ट्रिक वाहन और हाइब्रिड MPV शामिल हैं। कार खरीदने वालों के लिए यह महीना विशेष है। कार खरीदने वालों के लिए नवंबर खास: लग्जरी EV, हाइब्रिड MPV समेत लॉन्च हो सकती हैं पांच गाड़ियां, देखें लिस्ट।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "विपक्ष की रामलीला मैदान रैली के चलते व्यापारियों को कितना नुकसान? CTI चेयरमैन ने बताया",
-      "url": "https://www.abplive.com/news/india/cti-chairman-brijesh-goyal-says-delhi-traders-estimates-loss-of-over-rs-10000-crore-to-business-due-to-ramlila-maidan-rally-3209769",
-      "source": "ABP Live (India)",
+      "title": "‘हम भी कर रहे जासूसी, और उनसे बेहतर करते हैं’: चीन-रूस पर बोले डोनाल्ड ट्रंप, अमेरिका में दो चीनी",
+      "url": "https://www.patrika.com/world-news/donald-trump-iowa-rally-us-spying-china-russia-chinese-nationals-jailed-21024084",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-01T17:03:26+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/23f005db8cb1cc877242c02a8e0df3a317935503495411126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "रामलीला मैदान रैली के सड़क मार्च ने दिल्ली के व्यापारियों को नुकसान पहुंचाया। सीटीआई चेयरमैन ने इस आर्थिक असर का आंकड़ा प्रस्तुत किया। विपक्षी प्रदर्शन का प्रभाव स्थानीय बाजारों पर स्पष्ट दिखा। दिल्ली के रामलीला मैदान में रविवार (1 नवंबर, 2026) को कांग्रेस सांसद राहुल गांधी के नेतृत्व में इंडिया ब्लॉक की सभी सहयोगी पार्टियों ने महारैली का आयोजन किया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विपक्ष की रामलीला मैदान रैली के चलते व्यापारियों को कितना नुकसान? CTI चेयरमैन ने बताया",
-          "summary": "रामलीला मैदान रैली के सड़क मार्च ने दिल्ली के व्यापारियों को नुकसान पहुंचाया। सीटीआई चेयरमैन ने इस आर्थिक असर का आंकड़ा प्रस्तुत किया। विपक्षी प्रदर्शन का प्रभाव स्थानीय बाजारों पर स्पष्ट दिखा। दिल्ली के रामलीला मैदान में रविवार (1 नवंबर, 2026) को कांग्रेस सांसद राहुल गांधी के नेतृत्व में इंडिया ब्लॉक की सभी सहयोगी पार्टियों ने महारैली का आयोजन किया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान से दोस्ती, सऊदी से डिफेंस डील और अमेरिका से रिश्ते, तीन तरफ फंसे असीम मुनीर, कैसे संभालेंगे",
-      "url": "https://hindi.news18.com/world/pakistan-sim-munir-iran-visit-pakistan-diplomatic-challenges-saudi-us-10956144.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-01T16:57:55+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/asim-munir-9-2026-11-4a4a44f7e0349b335734478007b33e56-1200x800.jpg",
-      "summary": "पाकिस्तान के सैन्य प्रमुख असीम मुनीर की तेहरान यात्रा ने कूटनीतिक दबाव बढ़ाया। सीमा चौकियों पर 2,000 ट्रक फंस गए। सऊदी और अमेरिका के बीच संतुलन बनाए रखना अब कठिन हो गया है। पाकिस्तान के सैन्य प्रमुख फील्ड मार्शल असीम मुनीर की 20 अक्टूबर की तेहरान यात्रा ने इस्लामाबाद की कूटनीतिक चुनौतियों को उजागर किया है. तफ्तान और गबद-रिमदान सीमा चौकियों पर आवाजाही रुकने से करीब 2,000 ट्रक फंस गए.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान से दोस्ती, सऊदी से डिफेंस डील और अमेरिका से रिश्ते, तीन तरफ फंसे असीम मुनीर, कैसे संभालेंगे",
-          "summary": "पाकिस्तान के सैन्य प्रमुख असीम मुनीर की तेहरान यात्रा ने कूटनीतिक दबाव बढ़ाया। सीमा चौकियों पर 2,000 ट्रक फंस गए। सऊदी और अमेरिका के बीच संतुलन बनाए रखना अब कठिन हो गया है। पाकिस्तान के सैन्य प्रमुख फील्ड मार्शल असीम मुनीर की 20 अक्टूबर की तेहरान यात्रा ने इस्लामाबाद की कूटनीतिक चुनौतियों को उजागर किया है. तफ्तान और गबद-रिमदान सीमा चौकियों पर आवाजाही रुकने से करीब 2,000 ट्रक फंस गए.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "यूरोप में जेन-Z का गुस्सा फूटा, महंगाई के खिलाफ लाखों सड़क पर, फ्रांस से जर्मनी तक बवाल, पुलिस पर",
-      "url": "https://hindi.news18.com/world/europe-france-germany-inflation-protests-youth-violence-looting-photos-photogallery-10956119.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-01T16:47:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/europe-protest-2026-11-c4b51c98b594d00cb930f47954685896-1200x800.jpg",
-      "summary": "यूरोप में महंगाई के खिलाफ युवाओं ने बड़े प्रदर्शन किए। फ्रांस में पुलिस पर पेट्रोल बम फेंके गए। जर्मनी में लाखों लोगों ने हिंसात्मक रूप से अपनी मांगें रखीं। पुर्तगाल में भी आवास को लेकर बवाल हुआ। यूरोप के कई देशों में बढ़ती महंगाई और रोजमर्रा की जिंदगी के खर्च के खिलाफ युवाओं ने बड़े प्रदर्शन किए. फ्रांस में पिछले प्रदर्शनों के मुकाबले हिंसा कम रही, लेकिन पेरिस में पुलिस पर पेट्रोल बम फेंके गए.",
+      "published_at": "2026-11-02T01:24:10+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-2.webp",
+      "summary": "डोनाल्ड ट्रंप ने दावा किया कि अमेरिका चीन और रूस से बेहतर जासूसी करता है। उन्होंने यह बात आयोवा में रिपब्लिकन रैली के दौरान कही। यह बयान मिडटर्म इलेक्शन से पहले आया। Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अमेरिका भी चीन और रूस के खिलाफ जासूसी करता है और वह अपने प्रतिद्वंद्वियों से बेहतर तरीके से ऐसा करता है।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यूरोप में जेन-Z का गुस्सा फूटा, महंगाई के खिलाफ लाखों सड़क पर, फ्रांस से जर्मनी तक बवाल, पुलिस पर",
-          "summary": "यूरोप में महंगाई के खिलाफ युवाओं ने बड़े प्रदर्शन किए। फ्रांस में पुलिस पर पेट्रोल बम फेंके गए। जर्मनी में लाखों लोगों ने हिंसात्मक रूप से अपनी मांगें रखीं। पुर्तगाल में भी आवास को लेकर बवाल हुआ। यूरोप के कई देशों में बढ़ती महंगाई और रोजमर्रा की जिंदगी के खर्च के खिलाफ युवाओं ने बड़े प्रदर्शन किए. फ्रांस में पिछले प्रदर्शनों के मुकाबले हिंसा कम रही, लेकिन पेरिस में पुलिस पर पेट्रोल बम फेंके गए.",
+          "title": "‘हम भी कर रहे जासूसी, और उनसे बेहतर करते हैं’: चीन-रूस पर बोले डोनाल्ड ट्रंप, अमेरिका में दो चीनी",
+          "summary": "डोनाल्ड ट्रंप ने दावा किया कि अमेरिका चीन और रूस से बेहतर जासूसी करता है। उन्होंने यह बात आयोवा में रिपब्लिकन रैली के दौरान कही। यह बयान मिडटर्म इलेक्शन से पहले आया। Donald Trump: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने दावा किया है कि अमेरिका भी चीन और रूस के खिलाफ जासूसी करता है और वह अपने प्रतिद्वंद्वियों से बेहतर तरीके से ऐसा करता है।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "क्या बंगाल में लेफ्ट-टीएमसी के बीच होगा गठबंधन? CPM ने कर दिया खुलासा",
-      "url": "https://www.abplive.com/news/india/west-bengal-cpm-tmc-alliance-news-sujan-chakraborty-mamata-banerjee-3209761",
-      "source": "ABP Live (India)",
+      "title": "जौहर यूनिवर्सिटी का सपना बना आजम के जी का जंजाल, विवि में हर विस्तार पर गहराता गया विवाद",
+      "url": "https://www.amarujala.com/uttar-pradesh/rampur/ed-tightens-the-screws-azam-s-dream-of-jauhar-university-becomes-a-major-source-of-trouble-for-him-2026-11-02",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-11-01T15:52:30+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/01/eb2c7f71d326321528645af5458517df1793548155414708_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "CPM leader Sujon Chakraborty stated on 1 November 2026 that the party will not form an alliance with the TMC in West Bengal. This declaration came during a joint India bloc protest in Delhi demanding the Election Commissioner's resignation. The statement intensified political tensions ahead of upcoming elections. दिल्ली के रामलीला मैदान में इंडिया गठबंधन के सभी दलों ने एक सुर में चुनाव आयुक्त (सीईसी) ज्ञानेश कुमार के इस्तीफे की मांग करते हुए केंद्र सरकार पर निशाना साधा.",
+      "published_at": "2026-11-02T01:13:53+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/1_6a4656e3d2868b6ec2f0f19ea5664370.jpeg?w=1200&dpr=1.0",
+      "summary": "आजम खां का जौहर यूनिवर्सिटी प्रोजेक्ट विस्तार के साथ विवादों में घिरता गया। विवि के हर नए विस्तार पर गिरफ्तारी और कानूनी लड़ाई बढ़ी। यह सपना आज जंजाल बनकर रह गया है। जौहर विवि के रूप में आजम खां का ड्रीम प्रोजेक्ट जैसे-जैसे विस्तार लेता गया, विवाद भी गहराते चले गए। जौहर यूनिवर्सिटी का सपना बना आजम के जी का जंजाल, विवि में हर विस्तार पर गहराता गया विवाद।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जौहर यूनिवर्सिटी का सपना बना आजम के जी का जंजाल, विवि में हर विस्तार पर गहराता गया विवाद",
+          "summary": "आजम खां का जौहर यूनिवर्सिटी प्रोजेक्ट विस्तार के साथ विवादों में घिरता गया। विवि के हर नए विस्तार पर गिरफ्तारी और कानूनी लड़ाई बढ़ी। यह सपना आज जंजाल बनकर रह गया है। जौहर विवि के रूप में आजम खां का ड्रीम प्रोजेक्ट जैसे-जैसे विस्तार लेता गया, विवाद भी गहराते चले गए। जौहर यूनिवर्सिटी का सपना बना आजम के जी का जंजाल, विवि में हर विस्तार पर गहराता गया विवाद।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सरकारी स्कूल में बच्ची पर हमले के मामले में शिक्षा विभाग ने की बड़ी कार्रवाई, अब प्रिंसिपल निलंबित",
+      "url": "https://www.amarujala.com/haryana/panchkula/panchkula-principal-suspended-in-connection-with-attack-on-a-girl-child-2026-11-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-02T01:06:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/1_c6688687cd16036b9470de24ad8722dc.jpeg?w=1200&dpr=1.0",
+      "summary": "शिक्षा विभाग ने सरकारी स्कूल में पांच वर्षीय बच्ची पर हमले के मामले में प्रिंसिपल को निलंबित कर दिया है। विभाग ने इस घटना पर त्वरित कार्रवाई करते हुए प्रशासनिक कदम उठाया है। सरकारी स्कूल में पांच वर्षीय बच्ची पर हुए हमले के मामले में शिक्षा विभाग ने बड़ी कार्रवाई की है। सरकारी स्कूल में बच्ची पर हमले के मामले में शिक्षा विभाग ने की बड़ी कार्रवाई, अब प्रिंसिपल निलंबित।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सरकारी स्कूल में बच्ची पर हमले के मामले में शिक्षा विभाग ने की बड़ी कार्रवाई, अब प्रिंसिपल निलंबित",
+          "summary": "शिक्षा विभाग ने सरकारी स्कूल में पांच वर्षीय बच्ची पर हमले के मामले में प्रिंसिपल को निलंबित कर दिया है। विभाग ने इस घटना पर त्वरित कार्रवाई करते हुए प्रशासनिक कदम उठाया है। सरकारी स्कूल में पांच वर्षीय बच्ची पर हुए हमले के मामले में शिक्षा विभाग ने बड़ी कार्रवाई की है। सरकारी स्कूल में बच्ची पर हमले के मामले में शिक्षा विभाग ने की बड़ी कार्रवाई, अब प्रिंसिपल निलंबित।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अब वॉट्सऐप पर मिलेंगी पीएफ सेवाएं, लोगों को लंबी प्रक्रिया से मुक्ति मिलेगी!",
+      "url": "https://www.amarujala.com/video/india-news/pf-services-will-now-be-available-on-whatsapp-no-more-dealing-with-lengthy-procedures-2026-11-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-02T01:00:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/epfo-whatsapp-service_38a880814784535c1be97016a7bb3661.jpeg?w=1200&dpr=1.0",
+      "summary": "पीएफ सेवाएं अब वॉट्सऐप पर उपलब्ध होंगी। यह नया चैनल लोगों को लंबी प्रक्रिया से मुक्ति दिलाएगा और सेवाओं तक पहुंच आसान होगी। अब वॉट्सऐप पर मिलेंगी पीएफ सेवाएं, लोगों को लंबी प्रक्रिया से मुक्ति मिलेगी!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अब वॉट्सऐप पर मिलेंगी पीएफ सेवाएं, लोगों को लंबी प्रक्रिया से मुक्ति मिलेगी!",
+          "summary": "पीएफ सेवाएं अब वॉट्सऐप पर उपलब्ध होंगी। यह नया चैनल लोगों को लंबी प्रक्रिया से मुक्ति दिलाएगा और सेवाओं तक पहुंच आसान होगी। अब वॉट्सऐप पर मिलेंगी पीएफ सेवाएं, लोगों को लंबी प्रक्रिया से मुक्ति मिलेगी!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बच्चों के दूर जाने पर बुजुर्गों का नया सहारा, लेकिन महंगी सेवाएं-ट्रेंड स्टाफ की कमी बनी चुनौती",
+      "url": "https://www.amarujala.com/india-news/startups-are-helping-with-the-care-of-elderly-parents-using-technology-to-monitor-their-health-2026-11-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-02T00:56:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/bcaca-ka-thara-jana-para-bjaraga-ka-le-sahara-bna-satarataapa_b5e836760a82cf6904c6c1e771a0125a.jpeg?w=1200&dpr=1.0",
+      "summary": "स्टार्टअप्स बुजुर्गों की देखभाल के लिए तकनीक का उपयोग कर रहे हैं। हालांकि महंगी सेवाएं और ट्रेन्ड स्टाफ की कमी इस क्षेत्र की बड़ी चुनौती बनी हुई है। बच्चों के दूर जाने पर बुजुर्गों का नया सहारा, लेकिन महंगी सेवाएं-ट्रेंड स्टाफ की कमी बनी चुनौती।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बच्चों के दूर जाने पर बुजुर्गों का नया सहारा, लेकिन महंगी सेवाएं-ट्रेंड स्टाफ की कमी बनी चुनौती",
+          "summary": "स्टार्टअप्स बुजुर्गों की देखभाल के लिए तकनीक का उपयोग कर रहे हैं। हालांकि महंगी सेवाएं और ट्रेन्ड स्टाफ की कमी इस क्षेत्र की बड़ी चुनौती बनी हुई है। बच्चों के दूर जाने पर बुजुर्गों का नया सहारा, लेकिन महंगी सेवाएं-ट्रेंड स्टाफ की कमी बनी चुनौती।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हिमाचल में होटल संचालन सहमति शुल्क 150% बढ़ा, प्रदूषण नियंत्रण बोर्ड ने किया बदलाव; कारोबारी चिंतित",
+      "url": "https://www.amarujala.com/shimla/hotel-operation-consent-fee-in-himachal-increased-by-150-percent-2026-11-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-02T00:56:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/1_3a88d41aae7179b57dfcfd352da97206.jpeg?w=1200&dpr=1.0",
+      "summary": "हिमाचल प्रदेश के प्रदूषण नियंत्रण बोर्ड ने होटलों के संचालन सहमति शुल्क में 150 प्रतिशत की वृद्धि की है। इस बदलाव से कारोबारी चिंतित हैं और होटल संचालन अब महंगा हो गया है। हिमाचल प्रदेश में होटल कारोबार करना अब महंगा हो गया है। राज्य में प्रदूषण नियंत्रण बोर्ड ने होटलों के संचालन सहमति शुल्क (कंसेंट टू ऑपरेट) के ढांचे में बदलाव कर दिया है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिमाचल में होटल संचालन सहमति शुल्क 150% बढ़ा, प्रदूषण नियंत्रण बोर्ड ने किया बदलाव; कारोबारी चिंतित",
+          "summary": "हिमाचल प्रदेश के प्रदूषण नियंत्रण बोर्ड ने होटलों के संचालन सहमति शुल्क में 150 प्रतिशत की वृद्धि की है। इस बदलाव से कारोबारी चिंतित हैं और होटल संचालन अब महंगा हो गया है। हिमाचल प्रदेश में होटल कारोबार करना अब महंगा हो गया है। राज्य में प्रदूषण नियंत्रण बोर्ड ने होटलों के संचालन सहमति शुल्क (कंसेंट टू ऑपरेट) के ढांचे में बदलाव कर दिया है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हैदराबाद में पदयात्रा में हिस्सा लेंगे अमित शाह, यूपी में चुनाव तैयारियां परखेगा निर्वाचन आयोग",
+      "url": "https://www.amarujala.com/india-news/aaj-ke-din-2-november-2026-top-headlines-big-news-today-event-of-the-day-news-updates-2026-11-01",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-02T00:50:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/aaj-ke-din-2-november-2026_2767f327563d9976791e8ba2ed304010.gif?w=1200&dpr=1.0",
+      "summary": "केंद्रीय निर्वाचन आयोग की टीम उत्तर प्रदेश का दौरा करेगी। टीम राज्य में आगामी चुनावों की तैयारियों की समीक्षा करेगी और प्रक्रियाओं का जायजा लेगी। केंद्रीय निर्वाचन आयोग (ईसी) की टीम आज उत्तर प्रदेश का दौरा करेगी और यूपी में चुनाव की तैयारियों को परखेगी। हैदराबाद में पदयात्रा में हिस्सा लेंगे अमित शाह, यूपी में चुनाव तैयारियां परखेगा निर्वाचन आयोग।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हैदराबाद में पदयात्रा में हिस्सा लेंगे अमित शाह, यूपी में चुनाव तैयारियां परखेगा निर्वाचन आयोग",
+          "summary": "केंद्रीय निर्वाचन आयोग की टीम उत्तर प्रदेश का दौरा करेगी। टीम राज्य में आगामी चुनावों की तैयारियों की समीक्षा करेगी और प्रक्रियाओं का जायजा लेगी। केंद्रीय निर्वाचन आयोग (ईसी) की टीम आज उत्तर प्रदेश का दौरा करेगी और यूपी में चुनाव की तैयारियों को परखेगी। हैदराबाद में पदयात्रा में हिस्सा लेंगे अमित शाह, यूपी में चुनाव तैयारियां परखेगा निर्वाचन आयोग।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'टीचर्स का भी क्रश थे शाहरुख', स्कूल के जूनियर ने सुनाए किंग खान के अनसुने किस्से",
+      "url": "https://www.amarujala.com/entertainment/bollywood/shah-rukh-khan-birthday-special-school-junior-ajay-jain-shares-untold-stories-from-srk-school-days-2026-11-01",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-02T00:48:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/shaharakha-khana-ka-sakal-ka-kasasa_e58386469a9a4dd4cd0aed667cec6ba4.jpeg?w=1200&dpr=1.0",
+      "summary": "शाहरुख खान ने 61वां जन्मदिन मनाया। स्कूल के जूनियर ने उनके अनसुने किस्से साझा किए। इनमें टीचर्स के साथ उनकी दोस्ती शामिल है। आज बॉलीवुड के किंग शाहरुख खान अपना 61वां जन्मदिन मना रहे हैं। शाहरुख ने अपने करियर में कई यादगार फिल्में देकर लोगों को अपना दीवाना बनाया है। आज उनके बर्थडे के मौके पर जानिए उनके स्कूल से जुड़े कुछ अनसुने किस्से।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'टीचर्स का भी क्रश थे शाहरुख', स्कूल के जूनियर ने सुनाए किंग खान के अनसुने किस्से",
+          "summary": "शाहरुख खान ने 61वां जन्मदिन मनाया। स्कूल के जूनियर ने उनके अनसुने किस्से साझा किए। इनमें टीचर्स के साथ उनकी दोस्ती शामिल है। आज बॉलीवुड के किंग शाहरुख खान अपना 61वां जन्मदिन मना रहे हैं। शाहरुख ने अपने करियर में कई यादगार फिल्में देकर लोगों को अपना दीवाना बनाया है। आज उनके बर्थडे के मौके पर जानिए उनके स्कूल से जुड़े कुछ अनसुने किस्से।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आंध्र प्रदेश के तट से टकराएगा तूफान; लैंडफॉल पर मौसम विभाग ने क्या कहा, किन राज्यों में अलर्ट?",
+      "url": "https://www.amarujala.com/india-news/imd-cyclonic-storm-murasu-andhra-pradesh-coast-landfall-rain-wind-speed-bay-of-bengal-weather-in-india-news-2026-11-02",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-02T00:47:52+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/01/cyclone-murasu-alert-imd-weather-forecast-2-november-andhra-pradesh-heavy-rain-mausam_9c98f95ebc23723359bebc755cb08ae8.jpeg?w=1200&dpr=1.0",
+      "summary": "चक्रवात मुरासु आंध्र प्रदेश के तट से टकराएगा। मौसम विभाग ने लैंडफॉल की पुष्टि की है। कई राज्यों में अलर्ट जारी किया गया है। चक्रवात मुरासु: आंध्र प्रदेश के तट से टकराएगा तूफान; लैंडफॉल पर मौसम विभाग ने क्या कहा, किन राज्यों में अलर्ट?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आंध्र प्रदेश के तट से टकराएगा तूफान; लैंडफॉल पर मौसम विभाग ने क्या कहा, किन राज्यों में अलर्ट?",
+          "summary": "चक्रवात मुरासु आंध्र प्रदेश के तट से टकराएगा। मौसम विभाग ने लैंडफॉल की पुष्टि की है। कई राज्यों में अलर्ट जारी किया गया है। चक्रवात मुरासु: आंध्र प्रदेश के तट से टकराएगा तूफान; लैंडफॉल पर मौसम विभाग ने क्या कहा, किन राज्यों में अलर्ट?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आज प्रधानमंत्री करेंगे उद्घाटन, 130 देशों के लोग होंगे शामिल; जानिए शेड्यूल",
+      "url": "https://www.amarujala.com/india-news/pm-modi-bharat-renewable-energy-summit-and-expo-2026-inauguration-bharat-mandapam-speech-hindi-news-updates-2026-11-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-02T00:38:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/paema-narathara-matha_82b1e01f1f985326d1cbda25f7452927.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने भारत रिन्यूएबल एनर्जी समिट का उद्घाटन किया। 130 देशों के प्रतिनिधि इस कार्यक्रम में शामिल हुए। आज प्रधानमंत्री करेंगे उद्घाटन, 130 देशों के लोग होंगे शामिल; जानिए शेड्यूल।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या बंगाल में लेफ्ट-टीएमसी के बीच होगा गठबंधन? CPM ने कर दिया खुलासा",
-          "summary": "CPM leader Sujon Chakraborty stated on 1 November 2026 that the party will not form an alliance with the TMC in West Bengal. This declaration came during a joint India bloc protest in Delhi demanding the Election Commissioner's resignation. The statement intensified political tensions ahead of upcoming elections. दिल्ली के रामलीला मैदान में इंडिया गठबंधन के सभी दलों ने एक सुर में चुनाव आयुक्त (सीईसी) ज्ञानेश कुमार के इस्तीफे की मांग करते हुए केंद्र सरकार पर निशाना साधा.",
+          "title": "आज प्रधानमंत्री करेंगे उद्घाटन, 130 देशों के लोग होंगे शामिल; जानिए शेड्यूल",
+          "summary": "प्रधानमंत्री नरेंद्र मोदी ने भारत रिन्यूएबल एनर्जी समिट का उद्घाटन किया। 130 देशों के प्रतिनिधि इस कार्यक्रम में शामिल हुए। आज प्रधानमंत्री करेंगे उद्घाटन, 130 देशों के लोग होंगे शामिल; जानिए शेड्यूल।",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हवा में उड़ते ही धराशाई हुआ प्लेन, सड़क पर गिरते ही हुआ टुकड़े-टुकड़े, 9 लोगों की मौत",
+      "url": "https://hindi.news18.com/world/america-florida-plane-crash-killed-9-business-jet-crashes-on-busy-road-in-us-ws-l-10956316.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-02T00:31:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/florida-crash-2026-11-9035bc1ed5db250194f0aa2c7e69f26a-1200x800.jpg",
+      "summary": "फ्लोरिडा में एक बिजनेस जेट सड़क पर गिरकर धमाका हुआ। हादसे में विमान में सवार नौ लोगों की मौत हो गई। Florida Plane Crash: अमेरिका के फ्लोरिडा में एक बड़ा विमान हादसा हुआ है, जिसमें एक बिजनेस जेट बिजी रोड पर ही आकर धराशायी हो गया. हादसा दक्षिणी फ्लोरिडा में हुआ और प्लेन आग का गोला बनकर इतनी जोर से गिरा कि इसमें बड़ा धमाका हुआ.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हवा में उड़ते ही धराशाई हुआ प्लेन, सड़क पर गिरते ही हुआ टुकड़े-टुकड़े, 9 लोगों की मौत",
+          "summary": "फ्लोरिडा में एक बिजनेस जेट सड़क पर गिरकर धमाका हुआ। हादसे में विमान में सवार नौ लोगों की मौत हो गई। Florida Plane Crash: अमेरिका के फ्लोरिडा में एक बड़ा विमान हादसा हुआ है, जिसमें एक बिजनेस जेट बिजी रोड पर ही आकर धराशायी हो गया. हादसा दक्षिणी फ्लोरिडा में हुआ और प्लेन आग का गोला बनकर इतनी जोर से गिरा कि इसमें बड़ा धमाका हुआ.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "गुलामी प्रथा के लिए माफी मांग सकता है ब्रिटेन, पीएम बर्नहैम ने दिए संकेत; मुआवजा देने से किया इनकार",
+      "url": "https://www.amarujala.com/world/uk-pm-andy-burnham-signals-apology-for-slavery-but-rules-out-financial-reparations-2026-11-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-02T00:13:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/eda-branahama-bratana-ka-parathhanamatara_92f62eda79eb62b9fbf6fac13d1f1f30.jpeg?w=1200&dpr=1.0",
+      "summary": "ब्रिटेन के पीएम एंडी बर्नहैम ने गुलामी के लिए माफी मांगने का संकेत दिया। उन्होंने वित्तीय मुआवजा देने से इनकार कर दिया है। गुलामी प्रथा के लिए माफी मांग सकता है ब्रिटेन, पीएम बर्नहैम ने दिए संकेत; मुआवजा देने से किया इनकार।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गुलामी प्रथा के लिए माफी मांग सकता है ब्रिटेन, पीएम बर्नहैम ने दिए संकेत; मुआवजा देने से किया इनकार",
+          "summary": "ब्रिटेन के पीएम एंडी बर्नहैम ने गुलामी के लिए माफी मांगने का संकेत दिया। उन्होंने वित्तीय मुआवजा देने से इनकार कर दिया है। गुलामी प्रथा के लिए माफी मांग सकता है ब्रिटेन, पीएम बर्नहैम ने दिए संकेत; मुआवजा देने से किया इनकार।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "एयरबस A380 के दीवाने ने अपने घर को बनाया फर्स्ट क्लास केबिन, अनोखी है अरुण की कहानी",
+      "url": "https://www.amarujala.com/world/dubai-aviation-enthusiast-turns-home-into-an-airbus-a380-first-class-cabin-2026-11-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-02T00:02:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/amara-ujal-parata-eaaii-janaradata-imaja_9d4c92181205e48f15c63f7cf0cd9a85.jpeg?w=1200&dpr=1.0",
+      "summary": "दुबई के एक विमान प्रेमिक अरुण ने अपने निवास को एयरबस A380 के फर्स्ट क्लास कैबिन की तरह सजाया है। इस अनोखे डिज़ाइन में वास्तविक विमान के आंतरिक डिज़ाइन तत्वों को शामिल किया गया है। यह प्रोजेक्ट व्यक्तिगत जुनून का प्रतीक है। एयरबस A380 के दीवाने ने अपने घर को बनाया फर्स्ट क्लास केबिन, अनोखी है अरुण की कहानी।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एयरबस A380 के दीवाने ने अपने घर को बनाया फर्स्ट क्लास केबिन, अनोखी है अरुण की कहानी",
+          "summary": "दुबई के एक विमान प्रेमिक अरुण ने अपने निवास को एयरबस A380 के फर्स्ट क्लास कैबिन की तरह सजाया है। इस अनोखे डिज़ाइन में वास्तविक विमान के आंतरिक डिज़ाइन तत्वों को शामिल किया गया है। यह प्रोजेक्ट व्यक्तिगत जुनून का प्रतीक है। एयरबस A380 के दीवाने ने अपने घर को बनाया फर्स्ट क्लास केबिन, अनोखी है अरुण की कहानी।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली-एनसीआर की हवा में घुल रहा जहर; अमेरिका में विमान हादसा; होर्मुज पर गतिरोध दूर होने के संकेत",
+      "url": "https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-2-november-updates-on-amar-ujala-news-in-hindi-2026-11-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-01T23:39:24+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली-एनसीआर में वायु गुणवत्ता खराब होने की खबरें आई हैं। अमेरिका में एक विमान दुर्घटना हुई है। होर्मुज जलडमरूमध्य में तनाव कम होने के संकेत मिल रहे हैं। ये तीन अलग-अलग क्षेत्रों की प्रमुख घटनाएं हैं। दिल्ली-एनसीआर की हवा में घुल रहा जहर; अमेरिका में विमान हादसा; होर्मुज पर गतिरोध दूर होने के संकेत।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली-एनसीआर की हवा में घुल रहा जहर; अमेरिका में विमान हादसा; होर्मुज पर गतिरोध दूर होने के संकेत",
+          "summary": "दिल्ली-एनसीआर में वायु गुणवत्ता खराब होने की खबरें आई हैं। अमेरिका में एक विमान दुर्घटना हुई है। होर्मुज जलडमरूमध्य में तनाव कम होने के संकेत मिल रहे हैं। ये तीन अलग-अलग क्षेत्रों की प्रमुख घटनाएं हैं। दिल्ली-एनसीआर की हवा में घुल रहा जहर; अमेरिका में विमान हादसा; होर्मुज पर गतिरोध दूर होने के संकेत।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शादी का खाना खाने के बाद 27 लोग बीमार, नवविवाहित जोड़ा भी अस्पताल में भर्ती; सभी की हालत स्थिर",
+      "url": "https://www.amarujala.com/india-news/maharashtra-27-people-fall-ill-after-eating-food-at-a-wedding-in-mumbai-newlywed-couple-is-also-hospitalized-2026-11-02",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-01T23:02:58+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/shatha-ka-khana-khana-ka-btha-27-lga-bmara_bc3fa45c64127df8b33b0f7bfafe3b60.jpeg?w=1200&dpr=1.0",
+      "summary": "मुंबई में एक विवाह समारोह के भोजन के बाद 27 लोग बीमार पड़ गए। नवविवाहित जोड़े को भी अस्पताल में भर्ती कराया गया है। सभी प्रभावित व्यक्तियों की हालत स्थिर बनी हुई है। शादी का खाना खाने के बाद 27 लोग बीमार, नवविवाहित जोड़ा भी अस्पताल में भर्ती; सभी की हालत स्थिर।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शादी का खाना खाने के बाद 27 लोग बीमार, नवविवाहित जोड़ा भी अस्पताल में भर्ती; सभी की हालत स्थिर",
+          "summary": "मुंबई में एक विवाह समारोह के भोजन के बाद 27 लोग बीमार पड़ गए। नवविवाहित जोड़े को भी अस्पताल में भर्ती कराया गया है। सभी प्रभावित व्यक्तियों की हालत स्थिर बनी हुई है। शादी का खाना खाने के बाद 27 लोग बीमार, नवविवाहित जोड़ा भी अस्पताल में भर्ती; सभी की हालत स्थिर।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "फ्लोरिडा में बड़ा विमान हादसा, रिहायशी इलाके के पास निजी जेट क्रैश; प्लेन में सवार सभी 9 लोगों की",
+      "url": "https://www.amarujala.com/world/florida-plane-crash-private-business-jet-crashes-near-residential-area-many-people-dead-us-news-2026-11-02",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-01T22:36:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/amaraka-ma-bugdha-vamana-hathasa_bf1934965dd31e959338c52a4ac71e58.jpeg?w=1200&dpr=1.0",
+      "summary": "फ्लोरिडा में एक निजी बिज़नेस जेट रिहायशी क्षेत्र के पास क्रैश हो गई। दुर्घटना में विमान में सवार सभी नौ लोगों की मौत हो गई। स्थानीय अधिकारियों ने घटना की पुष्टि की है। फ्लोरिडा में बड़ा विमान हादसा, रिहायशी इलाके के पास निजी जेट क्रैश; प्लेन में सवार सभी 9 लोगों की।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्लोरिडा में बड़ा विमान हादसा, रिहायशी इलाके के पास निजी जेट क्रैश; प्लेन में सवार सभी 9 लोगों की",
+          "summary": "फ्लोरिडा में एक निजी बिज़नेस जेट रिहायशी क्षेत्र के पास क्रैश हो गई। दुर्घटना में विमान में सवार सभी नौ लोगों की मौत हो गई। स्थानीय अधिकारियों ने घटना की पुष्टि की है। फ्लोरिडा में बड़ा विमान हादसा, रिहायशी इलाके के पास निजी जेट क्रैश; प्लेन में सवार सभी 9 लोगों की।",
+          "region": "अमेरिका"
         }
       }
     }
