@@ -1,10 +1,40 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 03, 2026 14:13 IST
+**Updated:** November 03, 2026 22:12 IST
 
 ---
 
 ## Europe & Russia
+
+### [Clashes Near Kyiv Highlight Tension Over Military Manpower Challenges](https://www.rferl.org/a/clashes-near-kyiv-highlight-tension-over-military-manpower-challenges/33889849.html)
+*Radio Free Europe / Liberty* - Nov 03, 21:51 IST (iso: 2026-11-03T16:21:42+00:00)
+<!-- image: https://gdb.rferl.org/3fcef32f-e1fe-4bf8-6c8e-08df13a87200_w1200_h630.jpg -->
+
+Crowds clashed with Ukrainian riot police in a Kyiv suburb on November 2. The confrontation stemmed from military efforts to apprehend alleged deserters. Authorities are forcibly enlisting men to fight Russia. This incident highlights growing domestic tension over manpower shortages. Crowds clashed with Ukrainian riot police and national guardsmen in a Kyiv suburb on November 2 in the latest tensions over military efforts to catch alleged deserters and enlist men -- sometimes forcibly -- to fight in the war against Russia.
+
+### [Sanctions-evading China-bound billions turn untraceable in Moscow](https://asiatimes.com/2026/11/sanctions-evading-china-bound-billions-turn-untraceable-in-moscow/)
+*Asia Times* - Nov 03, 21:38 IST (iso: 2026-11-03T16:08:12+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Market-copy.jpg -->
+
+Sanctions-evading funds destined for China become untraceable in Moscow. At the Sadovod market, eight distinct teams operate separately from regular vendors. These groups, called departments in confidential records, process a steady stream of customers. The setup obscures the financial trail of sanctioned goods. At the sprawling Sadovod market in southeast Moscow, among the 160 acres of clothing, jewelry and appliance booths, at least eight teams are spotted, working apart from the everyday hustle and bustle of the market.
+
+### [Russia's Poorer Regions Facing Brunt Of Health-Care Cuts As Military Spending Soars](https://www.rferl.org/a/russia-budget-healthcare-regions-military-spending/33889735.html)
+*Radio Free Europe / Liberty* - Nov 03, 20:30 IST (iso: 2026-11-03T15:00:51+00:00)
+<!-- image: https://gdb.rferl.org/c4170000-0aff-0242-2c30-08d9f6846e9f_cx0_cy5_cw0_w1200_h630.jpg -->
+
+Russia plans to cut funding for federal health-care programs in its 2027 budget. Medical services are already hard to access in many regions. The proposed reductions coincide with soaring military spending. Patients in poorer areas face greater obstacles to treatment and essential medicines. Russia plans to reduce funding for key federal health-care programs in its 2027 budget. With medical services already difficult to access in many regions, the proposed cuts are raising fears that patients will face greater obstacles in obtaining treatment and essential medicines.
+
+### [Air raid alerts and attacks on schools: the devastating face of education in Ukraine](https://news.un.org/feed/view/en/story/2026/11/1168724)
+*UN News* - Nov 03, 17:30 IST (iso: 2026-11-03T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-11-2025_UNICEF_Ukraine-school-01.jpg/image770x420cropped.jpg -->
+
+UNICEF reported nearly 2,000 attacks on Ukrainian schools since 2022. Some 270 strikes occurred this year. A recent hit targeted a school distributing aid. The data highlights the severe impact on education infrastructure. Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.
+
+### [Ukrainian Crowd Clashes With Riot Police, Again Highlighting Recruitment Tactics, Military Morale](https://www.rferl.org/a/ukraine-men-soldiers-recruitment-busification/33889589.html)
+*Radio Free Europe / Liberty* - Nov 03, 17:21 IST (iso: 2026-11-03T11:51:57+00:00)
+<!-- image: https://gdb.rferl.org/bc014dea-5206-4bb4-6c65-08df13a87200_tv_w1200_h630.jpg -->
+
+Residents clashed with police in a Kyiv suburb. Allegations of torture in a private house fueled the unrest. The incident underscores tensions over military recruitment tactics. Ukraine continues to manage domestic friction during the war. A crowd clashed with police and National Guard troops in a Kyiv suburb amid allegations that men were being held and tortured in a private house.
 
 ### [Strikes on a school by Russia kills 26, derailing hopes of progress toward peace](https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece)
 *The Hindu (International)* - Nov 03, 12:01 IST (iso: 2026-11-03T06:31:36+00:00)
@@ -36,45 +66,55 @@ The UN World Food Programme is feeding over 400 evacuees from Oleshky in Ukraine
 
 Andjela Ruman died in the Novi Sad station collapse in 2024. She was twenty when the canopy fell. Her parents, Zorica and Zlatko, discuss coping with the loss. Two years have passed since the incident. On November 1, 2024, 20-year-old Andjela Ruman arrived by train in Novi Sad, where her boyfriend was waiting for her. They died together when the station canopy collapsed.
 
-### [China, Russia Deepen Arctic Cooperation In Challenge To US](https://www.rferl.org/a/us-china-competition-in-arctic-intensifies/33888021.html)
-*Radio Free Europe / Liberty* - Nov 01, 13:57 IST (iso: 2026-11-01T08:27:14+00:00)
-<!-- image: https://gdb.rferl.org/5f8841e8-f3a1-4019-faed-08def2b08775_cx5_cy19_cw82_w1200_h630.jpg -->
+---
 
-Chinese and Russian leaders met in St. Petersburg to deepen Arctic cooperation. The summit focused on challenging United States influence in the region. Beijing and Moscow are coordinating to expand their strategic presence. This move directly confronts Western allies in the Arctic. The 31st meeting of the Chinese and Russian heads of government held in St. Petersburg on October 21 was notable for its focus on cooperation in the Arctic, where Beijing and Moscow are increasingly challenging the United States and its allies.
+## Middle East & Africa
 
-### [Rubio Casts Doubts On Quick Deal To End War In Ukraine, Defends Russian Contacts](https://www.rferl.org/a/rubio-atlanta-ukraine-russia-putin-lavrov-20/33888075.html)
-*Radio Free Europe / Liberty* - Nov 01, 04:32 IST (iso: 2026-10-31T23:02:01+00:00)
-<!-- image: https://gdb.rferl.org/e028ce0b-68ed-4bd1-78d3-08df13a869ed_cx0_cy3_cw0_w1200_h630.jpg -->
+### [Trump’s troubles with Iran could open the door to China](https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping)
+*The Guardian* - Nov 03, 18:43 IST (iso: 2026-11-03T13:13:50+00:00)
+<!-- image: https://i.guim.co.uk/img/media/f57112d30a36effbcc3c23525ef1736ef2822ea9/34_0_1981_1584/master/1981.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=401de0ea4fbccede1573966438421992 -->
 
-Secretary of State Marco Rubio said he was unsure a negotiated end to the war in Ukraine is possible and that Russian President Vladimir Putin may skip the December G20 summit in Miami, according to European US Secretary of State Marco Rubio said he was unsure whether a negotiated end to the war in Ukraine was possible, while European officials told RFE/RL the top US diplomat privately expressed doubts that Russian President Vladimir Putin will attend December’s Miami G20 summit.
+China held a series of meetings with Gulf leaders to boost regional influence. This diplomatic push precedes a planned meeting between Donald Trump and Xi Jinping. The US president is expected to attend the Apec conference in Shenzhen. Beijing aims to capitalize on US tensions with Iran. Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the regionChina has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East. The diplomatic salvo comes before a highly anticipated meeting between Donald Trump and Xi Jinping when the US president is expected to attend the Apec conference in Shenzhe.
 
-### [Tears Of Joy As Ukrainians Evacuated From Russian-Occupied Oleshky Reunite With Family](https://www.rferl.org/a/tears-of-joy-as-ukrainians-evacuated-from-russian-occupied-oleshky-reunite-with-family/33888013.html)
-*Radio Free Europe / Liberty* - Oct 31, 20:41 IST (iso: 2026-10-31T15:11:50+00:00)
-<!-- image: https://gdb.rferl.org/250c3973-6568-4c2f-4e59-08df13aec0bb_w1200_h630.jpg -->
+### [Is Europe In Iran's Crosshairs? Tehran Hints At Wider Military Reach](https://www.rferl.org/a/iran-europe-target-missile-range/33888908.html)
+*Radio Free Europe / Liberty* - Nov 02, 18:50 IST (iso: 2026-11-02T13:20:21+00:00)
+<!-- image: https://gdb.rferl.org/83ae586a-0a64-4150-0a0a-08de3bed1b27_cx0_cy6_cw0_w1200_h630.jpg -->
 
-Hundreds of residents evacuated from Russian-occupied Oleshky reunited with family in Ukrainian territory. A convoy of 25 buses facilitated the transfer after a US-brokered cease-fire. The residents had lived under occupation for nearly four years. After nearly four years under Russian occupation, hundreds of residents from the southern Ukrainian city of Oleshky have arrived in Ukrainian-controlled territory following a cease-fire brokered by US first lady Melania Trump.
+Iran's supreme leader stated any future response to an attack would have no geographical limits. The remarks suggest Tehran may abandon its 2,000-kilometer missile range limit. Analysts speculate Europe could now fall within Iran's military reach. A statement attributed to Iran's supreme leader says any future response to an attack would have no geographical limits. The remarks have fueled speculation that Tehran could target Europe and abandon its self-imposed 2,000-kilometer limit on missile range.
 
-### [The Way They Live Now In A Frigid Siberian Town](https://www.rferl.org/a/russia-food-shortages-war-remote-siberia/33887359.html)
-*Radio Free Europe / Liberty* - Oct 31, 18:15 IST (iso: 2026-10-31T12:45:45+00:00)
-<!-- image: https://gdb.rferl.org/84325cc2-89a7-4ed8-6a79-08df13a87200_cx0_cy7_cw0_w1200_h630.jpg -->
+### [UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends](https://news.un.org/feed/view/en/story/2026/11/1168717)
+*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image770x420cropped.jpg -->
 
-Residents of Tura in Siberia face severe food shortages at -15 C. Long lines form outside the main store where staples are scarce and expensive. The crisis stems from poor logistics and the economic strain of Russia’s ongoing war in Ukraine. The scene outside Tura's main food store looked like something from the Soviet era: With the mercury at -15 C, residents lined up for hours to pay high prices for staples short supply.
+António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.
+
+### [‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi](https://news.un.org/feed/view/en/story/2026/10/1168716)
+*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg -->
+
+UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
+
+### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
+*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
+<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Giulia Paravicini reported from Asmara on life in Eritrea. She examined how the isolated nation's leadership calculates its position. Regional turmoil and rising tensions with Ethiopia shape these strategic decisions. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
 
 ---
 
 ## Americas
 
-### [What are U.S. midterm elections?](https://www.thehindu.com/news/international/what-are-united-states-midterm-elections-2026-democrats-vs-republicans-donald-trump-what-it-means-for-india/article71643628.ece)
-*The Hindu (International)* - Nov 03, 11:25 IST (iso: 2026-11-03T05:55:05+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/m63a7j/article71623156.ece/alternates/LANDSCAPE_1200/2026-10-25T100020Z_1074407280_RC299OAF6V9Y_RTRMADP_3_USA-TRUMP-MICHIGAN.JPG -->
+### [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
+*The Guardian* - Nov 03, 18:30 IST (iso: 2026-11-03T13:00:07+00:00)
+<!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
 
-U. S. midterm elections on November 3 determine congressional control. Voters choose all 435 House seats and one-third of the Senate. State governorships are also contested. The outcome shapes the President's legislative agenda. The U. S. midterm elections on November 3 determine control of Congress, with all 435 House seats, about one-third of the 100 Senate seats, and numerous state governorships up for grabs, in a nationwide vote that weakens or strengthens the President’s agenda depending on which party prevails.
+Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
 
-### [U.S. votes for midterm elections, seen as referendum on Trump](https://www.thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece)
-*The Hindu (International)* - Nov 03, 11:06 IST (iso: 2026-11-03T05:36:38+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/7z6def/article71659296.ece/alternates/LANDSCAPE_1200/2026-11-02T210212Z_1507412749_RC2VFOAL1WHC_RTRMADP_3_USA-TRUMP-LINCOLNMEMORIAL.JPG -->
+### [Child dies of measles in New York's first such death in 30 years](https://www.thehindu.com/news/international/child-dies-of-measles-in-new-yorks-first-such-death-in-30-years/article71659832.ece)
+*The Hindu (International)* - Nov 03, 14:14 IST (iso: 2026-11-03T08:44:41+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/dks03/article71659851.ece/alternates/LANDSCAPE_1200/2026-11-03T000637Z_37042556_RC20DDAXVZVS_RTRMADP_3_HEALTH-USA-MEASLES.JPG -->
 
-U. S. voters decide midterm elections as a referendum on Trump. The vote determines House and Senate control. Polls suggest Democrats may take the House. This occurs in the final two years of Trump's second term. The polling will decide whether President Trump’s Republican Party retains control of the House of Representatives and the Senate, the two chambers of the U. S.
+A child died of measles in New York. It is the first such death in 30 years. Vaccination rates have dropped below the 95 percent threshold. This decline has allowed the virus to resurge in the United States. The U. S. stopped the domestic spread of measles in 2000 by maintaining high vaccination rates, but they have fallen in recent years to below the 95% coverage needed to prevent outbreaks of the viral disease.
 
 ### [Energy is America’s real weapon in a multipolar world](https://asiatimes.com/2026/11/energy-is-americas-real-weapon-in-a-multipolar-world/)
 *Asia Times* - Nov 02, 14:31 IST (iso: 2026-11-02T09:01:46+00:00)
@@ -99,50 +139,6 @@ Investigative journalist Zorayda Gallegos documented sexual abuse within the Mex
 <!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
 
 Flávio Bolsonaro fled to the US after losing Brazil's election. He declared himself president-elect for 58 minutes. Brazilian media mocked the move as shameful. His letter also featured the wrong coat of arms. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
-
----
-
-## World
-
-### [Republicans defend their bastions, as senate comes within reach of Democrats](https://www.thehindu.com/news/international/republicans-defend-their-bastions-as-senate-comes-within-reach-of-democrats/article71641257.ece)
-*The Hindu (International)* - Nov 03, 11:25 IST (iso: 2026-11-03T05:55:00+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/wn4hxf/article71642039.ece/alternates/LANDSCAPE_1200/2026-10-29T041300Z_856886983_RC2OCOAN1C2Q_RTRMADP_3_USA-ELECTION-TEXAS.JPG -->
-
-Republicans hold a 53 to 47 Senate majority. Thirty-five seats are contested this year. Seven are considered toss ups. These include Iowa, Arkansas, Kansas, Maine, Michigan, Ohio, and Texas. The GOP has a 53–47 majority in the Senate currently, with 35 seats being contested this year. Of these, seven are “toss ups”, according to a non-partisan election analyser. These seats are in Iowa, Arkansas, Kansas, Maine, Michigan, Ohio and Texas.
-
----
-
-## Middle East & Africa
-
-### [Is Europe In Iran's Crosshairs? Tehran Hints At Wider Military Reach](https://www.rferl.org/a/iran-europe-target-missile-range/33888908.html)
-*Radio Free Europe / Liberty* - Nov 02, 18:50 IST (iso: 2026-11-02T13:20:21+00:00)
-<!-- image: https://gdb.rferl.org/83ae586a-0a64-4150-0a0a-08de3bed1b27_cx0_cy6_cw0_w1200_h630.jpg -->
-
-Iran's supreme leader stated any future response to an attack would have no geographical limits. The remarks suggest Tehran may abandon its 2,000-kilometer missile range limit. Analysts speculate Europe could now fall within Iran's military reach. A statement attributed to Iran's supreme leader says any future response to an attack would have no geographical limits. The remarks have fueled speculation that Tehran could target Europe and abandon its self-imposed 2,000-kilometer limit on missile range.
-
-### [UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends](https://news.un.org/feed/view/en/story/2026/11/1168717)
-*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image770x420cropped.jpg -->
-
-António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.
-
-### [‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi](https://news.un.org/feed/view/en/story/2026/10/1168716)
-*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image770x420cropped.jpg -->
-
-UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
-
-### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
-*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
-<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Giulia Paravicini reported from Asmara on life in Eritrea. She examined how the isolated nation's leadership calculates its position. Regional turmoil and rising tensions with Ethiopia shape these strategic decisions. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
-
-### [UN rights office warns of deepening displacement ‘nightmare’ in Gaza](https://news.un.org/feed/view/en/story/2026/10/1168707)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image560x340cropped.jpg -->
-
-The UN human rights office warned of a deepening displacement crisis in Gaza. Israeli forces are pushing Palestinians into smaller areas while destroying infrastructure. Attacks on displacement sites continue. The office expressed concern over actions resembling ethnic cleansing. Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.
 
 ---
 
