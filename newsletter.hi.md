@@ -1,10 +1,108 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 03, 2026 22:12 IST
+**अपडेट:** November 04, 2026 03:37 IST
+
+---
+
+## दुनिया
+
+### [6 नवंबर को मनाया जाएगा धनतेरस, जानें पूजा का शुभ मुहूर्त और धार्मिक महत्व](https://www.amarujala.com/photo-gallery/spirituality/festivals/dhanteras-2026-on-november-6-know-the-auspicious-puja-muhurat-and-religious-significance-2026-11-03)
+*Amar Ujala National* - Nov 04, 12:32 IST (iso: 2026-11-04T07:02:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/dhanteras-2026_545756cd20c9aa9f1cfb62ba6d55c5cb.jpeg?w=1200&dpr=1.0 -->
+
+धनतेरस 2026 का पर्व 6 नवंबर को मनाया जाएगा। इस दिन भगवान धन्वंतरि, मां लक्ष्मी और कुबेर की पूजा का विशेष महत्व है। शुभ मुहूर्त और पूजा विधि का पालन किया जाएगा। इस दिन भगवान धन्वंतरि, मां लक्ष्मी और कुबेर देव की पूजा का विशेष महत्व है। जानें धनतेरस का शुभ मुहूर्त, पूजा विधि और इस पर्व का धार्मिक महत्व।
+
+### [देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली](https://www.amarujala.com/madhya-pradesh/prime-suspect-in-murder-of-ti-dilip-puri-in-dewas-injured-in-brief-encounter-bullet-hits-suspect-in-leg-2026-11-04)
+*Amar Ujala Breaking* - Nov 04, 12:14 IST (iso: 2026-11-04T06:44:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/enakautara-ma-ghayal-aarapa_11b9b78352d2d65efd7446f3c1bce89c.jpeg?w=1200&dpr=1.0 -->
+
+मध्य प्रदेश के देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर हुआ। पुलिस की गोली से आरोपी के पैर में चोट आई। घटना स्थल पर तनाव बना रहता है। देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली।
+
+### [योगी सरकार ने दिया उज्जवला योजना के तहत दिवाली गिफ्ट, फ्री मिलेगा गैस सिलेंडर!](https://www.amarujala.com/video/india-news/yogi-government-offers-a-diwali-gift-under-the-ujjwala-scheme-get-a-free-gas-cylinder-2026-11-04)
+*Amar Ujala National* - Nov 04, 03:30 IST (iso: 2026-11-03T22:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/ujjwala-yojana-diwali-gift_0740b035c5eaf8513fd32d2f1b8d38ac.jpeg?w=1200&dpr=1.0 -->
+
+योगी आदित्यनाथ सरकार ने उज्जवला योजना के तहत दिवाली पर गैस सिलेंडर उपहार घोषित किया। लाभार्थियों को यह सुविधा मुफ्त मिलेगी। यह पहल ईंधन सुविधा को बढ़ावा देगी। योगी सरकार ने दिया उज्जवला योजना के तहत दिवाली गिफ्ट, फ्री मिलेगा गैस सिलेंडर!
+
+### [चुनाव नतीजे से पहले गरजे गादी: 'नेतन्याहू पर भरोसा नहीं, हटाना ही होगा'; PM पर बरसे पूर्व इस्राइली](https://www.amarujala.com/world/israel-election-results-new-govt-gadi-vs-trust-netanyahu-ex-army-chief-bibi-must-be-removed-prez-isaac-herzog-2026-11-04)
+*Amar Ujala World* - Nov 04, 02:39 IST (iso: 2026-11-03T21:09:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/israel-govt-formation_4f459a4bae545c07820569c2856d3611.jpeg?w=1200&dpr=1.0 -->
+
+पूर्व इस्राइली सेना प्रमुख ने प्रधानमंत्री नेतन्याहू पर भरोसा खो दिया है। उन्होंने कहा कि उसे हटाना ही होगा। यह टिप्पणी चुनाव नतीजों से पहले आई। चुनाव नतीजे से पहले गरजे गादी: 'नेतन्याहू पर भरोसा नहीं, हटाना ही होगा'; PM पर बरसे पूर्व इस्राइली सेना प्रमुख।
+
+### ['सोशल मीडिया पर नहीं, संसद में आइए': एसआईआर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को](https://www.amarujala.com/india-news/come-to-parliament-not-social-media-sitharaman-blunt-challenge-to-rahul-gandhi-for-debate-on-eci-evm-2026-11-04)
+*Amar Ujala Breaking* - Nov 04, 01:43 IST (iso: 2026-11-03T20:13:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/katharaya-vatata-matara-naramal-sataramanae_1e3345447cea622d20f0dadde13936a1.jpeg?w=1200&dpr=1.0 -->
+
+नितिन गडकरी ने राहुल गांधी को चुनौती दी कि वे ईवीएम और चुनाव आयोग पर बहस संसद में करें। उन्होंने सोशल मीडिया पर बहस करने की बजाय संसद में आने की मांग की। 'सोशल मीडिया पर नहीं, संसद में आइए': एसआईआर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को।
+
+### [TI दिलीप पुरी हत्याकांड के मुख्य आरोपी का हुआ शॉर्ट एनकाउंटर,आरोपी के पैर में लगी गोली](https://www.amarujala.com/video/india-news/a-brief-encounter-took-place-involving-the-prime-suspect-in-the-ti-dilip-puri-murder-case-the-suspect-sustain-2026-11-04)
+*Amar Ujala National* - Nov 04, 01:25 IST (iso: 2026-11-03T19:55:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/dews-police-short-encounter_b1df77d100bdcaf0b0230a93b0b240ec.jpeg?w=1200&dpr=1.0 -->
+
+टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी को पुलिस ने शॉर्ट एनकाउंटर में मार गिराया। घटना के दौरान आरोपी के पैर में गोली लगी थी। TI दिलीप पुरी हत्याकांड के मुख्य आरोपी का हुआ शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली।
+
+### [मां-बाप लॉन में बिजी थे उधर खेलते-खेलते हाइवे पर पहुंच गया 1 साल का बच्चा, गाड़ी आई और कुचल डाला](https://hindi.news18.com/world/america-parents-were-busy-in-lawn-a-one-year-old-child-wandered-onto-highway-vehicle-ran-him-over-10961273.html)
+*News18 Hindi (World)* - Nov 03, 20:34 IST (iso: 2026-11-03T15:04:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/road-accident-2026-11-e4450d52ecc319b8c2ba78b3daa0e9c8-1200x800.jpg -->
+
+एक साल का बच्चा खेलते हुए हाईवे पर निकल गया। माता-पिता लॉन में काम में व्यस्त थे। एक कार ने उसे कुचल दिया। अस्पताल में डॉक्टरों ने उसे मृत घोषित कर दिया। मां-बाप लॉन में यार्ड वर्क में बिजी थे, तभी एक साल का बच्‍चा खेलते-खेलते हाईवे पर पहुंच गया. कोई कुछ कर पाता, इससे पहले एक गाड़ी आई और उसे कुचल कर चली गई.
+
+---
+
+## एशिया-प्रशांत
+
+### [भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार](https://www.amarujala.com/technology/tech-diary/ai-will-work-even-without-internet-india-ai-mission-releases-indigenous-foundation-models-eka1-dhir-2b-dhir-5b-2026-11-03)
+*Amar Ujala Breaking* - Nov 04, 12:01 IST (iso: 2026-11-04T06:31:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/kataranakasa-eva-sacana-parathayagaka-mataralya-ka-sacava-esa-kashhanaena-va-anaya_d422366cfba111cd5c31021221bc9f3c.jpeg -->
+
+भारत ने तीन स्वदेशी एआई मॉडल जारी किए हैं। इनमें EKA1, Dhir 2B और Dhir 5B शामिल हैं। ये मॉडल बिना इंटरनेट के भी काम करेंगे। बैंकिंग और सरकारी कामकाज में इनका उपयोग होगा। भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार।
+
+### [दिल्ली मेट्रो और नमो भारत ने बढ़ाए 20-20 फेरे, सार्वजनिक परिवहन को प्रोत्साहित करने के लिए किया उपाय](https://www.amarujala.com/delhi-ncr/delhi-metro-and-namo-bharat-have-each-added-20-trips-2026-11-04)
+*Amar Ujala Breaking* - Nov 04, 02:12 IST (iso: 2026-11-03T20:42:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/1_521afbac9d208b68264fb103d402a34e.jpeg?w=1200&dpr=1.0 -->
+
+वायु प्रदूषण नियंत्रण के लिए दिल्ली मेट्रो और नमो भारत बस सेवाओं में 20-20 फेरे बढ़ाए गए। यह कदम ग्रेडेड रिस्पांस एक्शन प्लान के तहत उठाया गया। राजधानी में वायु प्रदूषण पर नियंत्रण के लिए ग्रेडेड रिस्पांस एक्शन प्लान (ग्रेप)-2 लागू होने के बाद दिल्ली मेट्रो रेल निगम (डीएमआरसी) ने अपनी सेवाओं में इजाफा किया है। दिल्ली मेट्रो और नमो भारत ने बढ़ाए 20-20 फेरे, सार्वजनिक परिवहन को प्रोत्साहित करने के लिए किया उपाय।
+
+### [ट्रैफिक नहीं पराली है खलनायक, दिल्ली की हवा में जहर घोल रहे पड़ोसी; प्रदूषण बढ़ने की आशंका](https://www.amarujala.com/delhi-ncr/it-s-stubble-burning-not-traffic-that-is-the-real-villain-neighboring-states-are-poisoning-delhi-s-air-2026-11-04)
+*Amar Ujala Breaking* - Nov 04, 01:53 IST (iso: 2026-11-03T20:23:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/11_c63a6ccacba6bb5ead439821887d2cd5.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में वायु प्रदूषण का मुख्य कारण अब ट्रैफिक नहीं, बल्कि पड़ोसी राज्यों से आने वाली पराली जलाने का धुआं है। स्थानीय प्रदूषण के साथ बाहरी धुएं की मात्रा तेजी से बढ़ रही है। दिल्ली की हवा में सबसे बड़ा लोकल विलेन तो ट्रैफिक ही है, लेकिन अब बाहर से आने वाला धुआं भी तेजी पकड़ रहा है। ट्रैफिक नहीं पराली है खलनायक, दिल्ली की हवा में जहर घोल रहे पड़ोसी; प्रदूषण बढ़ने की आशंका।
+
+### [राष्ट्रपति सुबियांतो के फोन की हो रही थी जासूसी, पुलिस के तीन जनरल गिरफ्तार; सिस्टम से मिटाए सबूत](https://www.amarujala.com/world/indonesia-president-subianto-phone-being-spied-on-three-police-generals-arrested-evidence-erased-from-system-2026-11-04)
+*Amar Ujala Breaking* - Nov 04, 01:00 IST (iso: 2026-11-03T19:30:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/rashhatarapata-parabva-sabyata_3c3662ebb87936897503c37609ffdf58.jpeg?w=1200&dpr=1.0 -->
+
+इंडोनेशिया की पुलिस ने राष्ट्रपति सुबियांतो के फोन की जासूसी के मामले में तीन जनरल को गिरफ्तार किया है। जांच में सामने आया कि आरोपियों ने डिजिटल सबूतों को सिस्टम से मिटा दिया था। राष्ट्रपति सुबियांतो के फोन की हो रही थी जासूसी, पुलिस के तीन जनरल गिरफ्तार; सिस्टम से मिटाए सबूत।
+
+### [पाकिस्तान 'गैंगरेप' केस में डिप्टी पीएम इशाक डार का रिश्तेदार बरी, 3 छोटे कर्मचारियों को फंसा दिया](https://hindi.news18.com/world/pakistan-pakistan-gangrape-case-ishaq-dar-relative-cleared-in-lahore-extortion-and-assault-investigation-10961420.html)
+*News18 Hindi (World)* - Nov 03, 23:04 IST (iso: 2026-11-03T17:34:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Ishaq-Dar-2026-11-dfdbc178a294798ca481de03966039f0-1200x800.jpg -->
+
+लाहौर के गैंगरेप मामले में पुलिस ने डिप्टी पीएम इशाक डार के रिश्तेदार समेत पांच मुख्य आरोपियों को बरी कर दिया है। पूरा इल्जाम तीन छोटे कर्मचारियों पर लगाया गया है। वकील इसे राजनीतिक दबाव बता रहे हैं। पाकिस्तान के लाहौर में दो विदेशी महिलाओं के साथ गैंगरेप और रंगदारी का केस हुआ था. इस मामले में पुलिस ने कोर्ट में अधूरी रिपोर्ट पेश की है.
+
+### [भूतिया पोशाकों में छिपा सरकार पर तंज? चीन के 3 शहरों में हैलोवीन पर कड़ी सुरक्षा, मास्क-मेकअप पर](https://www.patrika.com/world-news/china-halloween-security-beijing-shanghai-hangzhou-youth-protest-21028441)
+*Patrika (World)* - Nov 03, 20:58 IST (iso: 2026-11-03T15:28:07+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Beijing-Halloween-Security-100kb.webp -->
+
+चीन के तीन शहरों में हैलोवीन पर सुरक्षा बढ़ाई गई। युवाओं ने आर्थिक संकट और बेरोजगारी पर व्यंग्य करने के लिए खास पोशाकें पहनीं। अधिकारियों ने बीजिंग, शंघाई और हांगझू में कड़ी निगरानी लागू की। China Halloween: ‘द एपोच टाइम्स’ (TET) की एक रिपोर्ट के अनुसार, 31 अक्टूबर को हैलोवीन मनाने के लिए बड़ी संख्या में युवा इकट्ठा हुए, जिसके चलते चीनी अधिकारियों ने बीजिंग, शंघाई और हांगझू में सुरक्षा बढ़ा दी।
+
+### [सनकी तानाशाह' ने बनाई पाताल में छेद करने वाली मिसाइल, ट्रेलर देखकर ही कांप गया पड़ोसी](https://hindi.news18.com/world/rest-of-world-north-korea-tests-vertical-strike-cruise-missile-kim-jong-un-new-bunker-busting-weapon-terrifies-south-korea-10961115.html)
+*News18 Hindi (World)* - Nov 03, 20:09 IST (iso: 2026-11-03T14:39:59+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/North-Korea-Tests-Vertical-Strike-Cruise-Missile-2026-11-391f5093c52b202b74414a053465cb33-1200x800.jpg -->
+
+किम जोंग उन ने जमीन के नीचे बंकरों को निशाना बनाने वाली क्रूज मिसाइल का ट्रेलर जारी किया। इसमें सीधे हमले की तकनीक शामिल है। इस प्रदर्शन से पड़ोसी देशों में चिंता बढ़ गई है। उत्तर कोरिया के तानाशाह किम जोंग उन ने एक घातक रणनीतिक क्रूज मिसाइल का ट्रेलर दिखाया है. ये मिसाइल जमीन के नीचे छिपे बंकरों और सैन्य ठिकानों को तबाह करने के लिए बनाई गई है.
 
 ---
 
 ## अमेरिका
+
+### [मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज](https://www.amarujala.com/live/world/us-midterm-elections-2026-live-updates-voting-trump-republicans-democrats-house-senate-2026-11-03)
+*Amar Ujala Breaking* - Nov 04, 02:49 IST (iso: 2026-11-03T21:19:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/26/donald-trump-us-election-india_5981a311d48a6176da9b50a50b8f4fff.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका के मध्यावधि चुनावों में मौसम ने मतदान प्रक्रिया को प्रभावित किया। कई राज्यों में अंतिम घंटे तक वोटिंग जारी रही। डोनाल्ड ट्रंप मीडिया कवरेज से असंतुष्ट हैं। US मध्यावधि चुनाव LIVE: मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज।
 
 ### [चीटियों ने बना डाला पूरा शहर, रानी के लिए खास इंतजाम, यहां किसानी भी करती हैं चीटियां](https://hindi.news18.com/photogallery/ajab-gajab/viral-massive-ant-built-underground-city-discovered-in-brazil-inside-the-26-foot-deep-atta-laevigata-nest-10961345.html)
 *News18 Hindi (World)* - Nov 03, 22:07 IST (iso: 2026-11-03T16:37:42+00:00)
@@ -12,49 +110,27 @@
 
 ब्राजील के सेराडो क्षेत्र में वैज्ञानिकों ने चींटियों की जमीन के नीचे बनी विशाल संरचना का पता लगाया। प्रोफेसर लुइज कार्लोस फोर्टी की टीम ने 10 टन सीमेंट डालकर 26 फीट गहरी इस जटिल नगरी का नक्शा बनाया। ब्राजील के सेराडो क्षेत्र में वैज्ञानिकों ने चींटियों द्वारा जमीन के नीचे बनाई गई एक विशाल और अनोखी 'अंडरग्राउंड सिटी' की खोज की है.
 
-### [मिडटर्म में जीते तो क्या-क्या करेंगे डोनाल्ड ट्रंप, हारे तो छीन ली जाएंगी कौन सी पावर्स?](https://hindi.news18.com/world/america-us-midterm-elections-2026-what-happens-to-donald-trump-powers-if-republicans-lose-congress-10961017.html)
-*News18 Hindi (World)* - Nov 03, 19:27 IST (iso: 2026-11-03T13:57:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/donald-trump-2026-10-f0d3538e2d7dfac440d8bb5d28c325f0-1200x800.jpg -->
-
-अमेरिका में 2026 के मध्यवर्ती चुनावों के नतीजे ट्रंप के दूसरे कार्यकाल की दिशा तय करेंगे। हाउस की 435 और सीनेट की 35 सीटों पर फैसला होना है। डेमोक्रेट्स की जीत पर ट्रंप की नीतियों पर ब्रेक लग सकता है। 2026 के अमेरिकी मिडटर्म चुनावों के लिए वोटिंग जारी है. इस चुनाव में हाउस की सभी 435 सीटों और सीनेट की 35 सीटों पर फैसला होना है.
-
-### [अमेरिका में नवंबर के पहले मंगलवार को ही क्यों डाले जाते हैं वोट? इसके पीछे चर्च की मजबूरी वाला](https://hindi.news18.com/news/knowledge/why-votes-cast-in-united-states-election-specifically-on-first-tuesday-of-november-role-of-church-farmers-10960725.html)
-*News18 Hindi (World)* - Nov 03, 18:04 IST (iso: 2026-11-03T12:34:50+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Untitled-design-2026-11-03T175629.901-2026-11-0ee32d8348a7a09f60905104ca85f052-1200x800.jpg -->
-
-अमेरिका में 3 नवंबर 2026 को मिड टर्म चुनाव हो रहे हैं। वोटिंग की यह परंपरा लगभग 180 साल पुरानी है। इसका चयन खेती, चर्च के समय और सफर की सुविधा के आधार पर किया गया था। अमेरिका में चुनाव की यह परंपरा करीब 180 साल पुरानी है. इसके पीछे खेती-किसानी, चर्च, घोड़ागाड़ी से सफर और चुनाव में धांधली रोकने की कोशिश जैसी कई वजहें जुड़ी हैं.
-
----
-
-## यूरोप और रूस
-
-### [गाइड सिर्फ 5 मिनट के लिए हटा और वो 1500 मीटर गहरी खाई में जा गिरा, 6814 मीटर ऊंची चोटी फतह कर लौट](https://hindi.news18.com/world/rest-of-world-german-climber-dies-in-1500m-fall-from-ama-dablam-peak-in-nepal-10961379.html)
-*News18 Hindi (World)* - Nov 03, 21:59 IST (iso: 2026-11-03T16:29:44+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Nepal_Mountain_Accident2-2026-11-67226301abc245a73fc93c8f960d2e99-1200x800.jpg -->
-
-जर्मन पर्वतारोही वोल्फगैंग वास्चिजेक की अमा डबलाम चोटी से लौटते समय मौत हो गई। कैंप-3 से नीचे उतरते समय वे 1,500 मीटर गहरी खाई में गिर गए। गाइड के पांच मिनट के लिए दूर जाने के दौरान यह हादसा हुआ। हिमालय में स्थित 6,814 मीटर ऊंची अमा डबलाम चोटी फतह करके लौट रहे 57 साल के जर्मन पर्वतारोही वोल्फगैंग वास्चिजेक की दर्दनाक मौत हो गई है.
-
-### [व्हाइट हाउस में 5 नवंबर को रूस और यूक्रेन के प्रतिनिधियों को साथ लाएंगी मेलानिया ट्रंप, सीजफायर पर](https://www.patrika.com/world-news/melania-trump-russia-ukraine-white-house-meeting-november-5-21028277)
-*Patrika (World)* - Nov 03, 19:33 IST (iso: 2026-11-03T14:03:22+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Melania-Trump.webp -->
-
-मेलानिया ट्रंप 5 नवंबर को व्हाइट हाउस में रूस और यूक्रेन के प्रतिनिधियों को बुला रही हैं। वे खेरसॉन क्षेत्र में सीजफायर पर बयान देंगी। कार्यक्रम सुबह ग्यारह बजे अमेरिकी समय पर होगा। Melania Trump: रूस और यूक्रेन के बीच जारी युद्ध के बीच अमेरिका की प्रथम महिला मेलानिया ट्रंप 5 नवंबर 2026 को व्हाइट हाउस में दोनों देशों के प्रतिनिधियों को एक मंच पर लाने जा रही हैं।
-
-### [चेकिंग में रुकवाई कार तो अंदर चिप्स खाता दिखा मेमना, तभी भौंका पुलिस का कुत्ता, तलाशी में खुला](https://hindi.news18.com/world/britain-man-avoids-jail-in-scotland-after-police-find-14k-pound-drugs-in-car-alongside-a-lamb-named-pablo-eating-chips-10961009.html)
-*News18 Hindi (World)* - Nov 03, 18:56 IST (iso: 2026-11-03T13:26:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Scotland-Police-2026-11-4290cd4a8f5fb5768f940294c01207b1-1200x800.jpg -->
-
-स्कॉटलैंड में पुलिस ने 14,000 पाउंड की ड्रग्स के साथ एक कार पकड़ी। पीछे की सीट पर मेमना पाब्लो चिप्स खा रहा था। आरोपियों ने दावा किया कि वे जानवर को बचा रहे थे। कोर्ट ने जेल की बजाय 300 घंटे की सेवा की सजा सुनाई। आरोपी जॉन मैकेनाइल और लिंडसे सांगस्टर ने दावा किया कि उन्होंने सड़क से मेमने को बचाया था.
-
-### [भारत के साथ रिश्तों पर रूसी राजनयिक ने कही दिल छूने वाली बात, बताया कोई तीसरा देश दखल नहीं दे सकता](https://hindi.news18.com/news/nation/russian-diplomat-shares-heartfelt-remarks-on-relations-with-india-says-third-country-cannot-affect-india-russia-friendship-ws-l-10960879.html)
-*News18 Hindi (World)* - Nov 03, 18:37 IST (iso: 2026-11-03T13:07:04+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/India-Russia-Direct-Route-2026-09-1b17f1bc9cdc2c66bb5950b888f209aa-1200x800.jpg -->
-
-रूसी राजनयिक ने कहा कि भारत-रूस संबंधों में किसी तीसरे देश का दखल नहीं हो सकता। यह बयान बदलते वैश्विक परिदृश्य में दोनों देशों के द्विपक्षीय रिश्तों की मजबूती को रेखांकित करता है। भारत-रूस के संबंधों में क्या बड़ा बदलवाल आ गया है? किसने कहा कि भारत के संबंधों को किसी तीसरा देश प्रभावित नहीं कर सकता? कौन है वह राजनयिक जिसने भारत-रूस के संबंध को लेकर कह दी बड़ी बात?
-
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### ['खिड़कियां बंद, AC स्विच ऑफ', न्यूक्लियर अटैक से कैसे बचें? ईरान ने जारी किया वीडियो](https://hindi.news18.com/world/middle-east-iran-releases-survival-guide-for-nuclear-attack-closes-windows-turns-off-ac-amid-america-nuclear-bomb-threat-10961516.html)
+*News18 Hindi (World)* - Nov 04, 00:01 IST (iso: 2026-11-03T18:31:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/nuclear-power-plant-1-2026-09-80d892e368056d8d571173e198962a66-1200x800.jpg -->
+
+ईरान ने न्यूक्लियर हमले से बचाव के लिए आठ मिनट का वीडियो जारी किया है। इसमें लोगों को खिड़कियां बंद रखने और 24 घंटे तक घरों में रहने की सलाह दी गई है। अमेरिका और इजराइल के साथ बढ़ते बवाल के बीच ईरान ने एक चौंकाने वाला वीडियो जारी किया है. ये 8 मिनट का गाइड वीडियो है. इसमें लोगों को न्यूक्लियर अटैक और खतरनाक रेडिएशन से बचने के तरीके बताए गए हैं, लोगों से कहा गया है कि वे खिड़कियां और एसी बंद रखें, बेसमेंट में छुपें और कम से कम 24 घंटे तक घरों से बाहर न निकलें.
+
+### [‘इजरायल को 4 अरब डॉलर की मदद बंद कर देगा अमेरिका’, दोस्त नेतन्याहू को डोनाल्ड ट्रंप का धोखा या कुछ](https://hindi.news18.com/world/america-donald-trump-announces-end-to-4-billion-dollar-annual-us-aid-to-israel-by-end-of-2026-after-deal-with-benjamin-netanyahu-10961490.html)
+*News18 Hindi (World)* - Nov 03, 23:28 IST (iso: 2026-11-03T17:58:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-Announces-End-to-4-Billion-dollar-Annual-US-Aid-to-Israel-by-End-2026-11-04eb5de7fc154cc9a600a845cb0430f3-1200x800.jpg -->
+
+अमेरिकी राष्ट्रपति ट्रंप ने 2026 के अंत तक इजरायल को दी जाने वाली चार अरब डॉलर की वार्षिक सहायता बंद करने का ऐलान किया है। उन्होंने कहा कि नेतन्याहू के साथ इस पर सहमति हो चुकी है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा ऐलान किया है. उन्होंने कहा है कि अमेरिका साल 2026 के अंत तक इज़राइल को मिलने वाली हर साल की 4 अरब डॉलर की मदद बंद कर देगा.
+
+### [पीएम मोदी-नेतन्याहू के बाद भी कायम रहेंगे भारत-इजरायल के रिश्ते? इजरायली रिपोर्ट ने बताई बड़ी चुनौती](https://www.patrika.com/world-news/pm-modi-netanyahu-bond-india-israel-partnership-report-21028573)
+*Patrika (World)* - Nov 03, 22:29 IST (iso: 2026-11-03T16:59:49+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/India-Israel-partnership.webp -->
+
+द टाइम्स ऑफ इजरायल की रिपोर्ट के अनुसार, मोदी और नेतन्याहू के बीच व्यक्तिगत रिश्ते ही दोनों देशों की रणनीतिक साझेदारी को मजबूत रखते हैं। रिपोर्ट ने इसी पर निर्भरता को बड़ी चुनौती बताया है। India Israel Partnership: प्रधानमंत्री नरेंद्र मोदी और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच करीबी संबंधों ने भारत और इजरायल की रणनीतिक साझेदारी को नई मजबूती दी है।
 
 ### [सिर्फ अपनी पार्टी का साथ, बाकी सबने कहा ‘ना’: स्वीडन में प्रधानमंत्री पद पर गतिरोध बरकरार](https://www.patrika.com/world-news/sweden-political-crisis-parliament-rejects-centre-party-leader-prime-minister-21028477)
 *Patrika (World)* - Nov 03, 21:28 IST (iso: 2026-11-03T15:58:55+00:00)
@@ -80,97 +156,21 @@
 
 ट्रंप ने इज़रायल को दी जाने वाली सालाना चार अरब डॉलर की सैन्य सहायता रद्द कर दी। यह फैसला अमेरिकी मिडटर्म चुनावों के दौरान लिया गया। इससे दोनों देशों के बीच रक्षा संबंधों पर असर पड़ेगा। अमेरिका (United States of America) में मिडटर्म चुनाव की शुरुआत हो गई है। देशभर में लोग पोलिंग स्टेशन पर जाकर वोट दे रहे हैं।
 
-### [नेतन्याहू का 'ईरान तबाही' का नया प्लान लीक, इन 4 ईरानियों की जेब में फटने वाले हैं बम](https://hindi.news18.com/world/middle-east-israel-hezbollah-pager-attack-2-point-0-plan-leaked-iran-top-military-generals-in-crosshairs-donald-trump-busy-in-midterms-election-10960880.html)
-*News18 Hindi (World)* - Nov 03, 18:31 IST (iso: 2026-11-03T13:01:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/netanyahu-pager-2026-09-72314aaaa9dc9f10ec04eed8e1bc2d18-1200x800.jpg -->
-
-इजराइल ने ईरान के चार सैन्य जनरलों पर हमले की योजना बनाई है। इस अभियान को पेजर अटैक 2.0 कहा जा रहा है। निशाने पर अहमद वाहिदी, हुसैन तायब, अली अब्दुल्लाही और मोहसेन रजाई हैं। यह प्लान अमेरिकी मिडटर्म चुनावों के बाद कार्यान्वित हो सकता है। अमेरिका में मिडटर्म चुनाव खत्म होते ही पश्चिम एशिया में एक बड़ा धमाका हो सकता है.
-
-### [इजरायल में सत्ता की नई लड़ाई! लापिड ने नेतन्याहू को PMO से बाहर करने का उठाया मुद्दा](https://www.patrika.com/world-news/israel-opposition-leader-yair-lapid-demands-netanyahu-removal-election-results-21028101)
-*Patrika (World)* - Nov 03, 18:09 IST (iso: 2026-11-03T12:39:31+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Yair-Lapid.webp -->
-
-यायर लापिड ने बेंजामिन नेतन्याहू पर चुनाव परिणामों को कमजोर करने का आरोप लगाया। उन्होंने नेतन्याहू को पद से हटाने की मांग की। यह बयान राष्ट्रपति इसाक हर्ज़ोग से बातचीत से पहले आया। विपक्षी दलों के नेता हर्ज़लिया में एकत्र हुए। Israel Coalition Government: इजरायल के विपक्ष के नेता और ‘बीयाचाद’ (B’Yachad) पार्टी के दूसरे सबसे बड़े नेता यायर लापिड ने मंगलवार को प्रधानमंत्री बेंजामिन नेतन्याहू पर चुनाव परिणामों को कमजोर करने की कोशिश करने का आरोप लगाया और उन्हें पद से हटाने की मांग की।
-
-### [तेल के तीन जहाजों में धमाके के बाद लगी आग, होर्मुज स्ट्रेट पार करते समय समुद्री बारूदी सुरंगों से](https://www.patrika.com/world-news/three-tankers-explode-and-catch-fire-in-strait-of-hormuz-after-hitting-naval-mines-21028094)
-*Patrika (World)* - Nov 03, 18:05 IST (iso: 2026-11-03T12:35:59+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/tankers-explosion-in-hormuz.webp -->
-
-होर्मुज स्ट्रेट में तीन जहाजों में समुद्री बारूदी सुरंगों से टकराव हुआ। टक्कर के बाद जहाजों में धमाका और आग लग गई। ईरान ने आधिकारिक जलमार्ग बंद कर रखे हैं। जहाज अवैध मार्गों से गुजरते समय बारूदी सुरंगों का शिकार बन रहे हैं। होर्मुज स्ट्रेट (Strait of Hormuz) में जहाजों की समुद्री बारूदी सुरंगों से टक्कर और उसके बाद उनमें धमाका होने और आग लगने के मामले हर दिन देखने को मिल रहे हैं।
-
-### [बेसमेंट में छिपें, AC बंद करें, खिड़कियों से दूर... परमाणु हमला हो जाए तो कैसे बचे? ईरान ने जारी की](https://hindi.news18.com/world/middle-east-hide-in-basement-turn-off-ac-stay-away-from-windows-how-to-survive-nuclear-attack-iran-issues-video-advisory-10960821.html)
-*News18 Hindi (World)* - Nov 03, 17:51 IST (iso: 2026-11-03T12:21:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Nuclear-Attack-2026-11-11a64cd909219022985e22b8847814f3-1200x800.jpg -->
-
-ईरान ने परमाणु हमले की स्थिति में नागरिकों के लिए सुरक्षा गाइडलाइन जारी की है। आठ मिनट के वीडियो में बेसमेंट में शरण लेने और एसी बंद करने की सलाह दी गई है। धमाके के बाद 24 घंटे सुरक्षित स्थान पर रहने का निर्देश दिया गया है। Iran Nuclear Attack Advisory: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की हमलों की धमकियों के बीच ईरान ने अपने नागरिकों के लिए परमाणु हमले से बचने की गाइडलाइन जारी की है.
-
 ---
 
-## एशिया-प्रशांत
+## यूरोप और रूस
 
-### [भूतिया पोशाकों में छिपा सरकार पर तंज? चीन के 3 शहरों में हैलोवीन पर कड़ी सुरक्षा, मास्क-मेकअप पर](https://www.patrika.com/world-news/china-halloween-security-beijing-shanghai-hangzhou-youth-protest-21028441)
-*Patrika (World)* - Nov 03, 20:58 IST (iso: 2026-11-03T15:28:07+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Beijing-Halloween-Security-100kb.webp -->
+### [गाइड सिर्फ 5 मिनट के लिए हटा और वो 1500 मीटर गहरी खाई में जा गिरा, 6814 मीटर ऊंची चोटी फतह कर लौट](https://hindi.news18.com/world/rest-of-world-german-climber-dies-in-1500m-fall-from-ama-dablam-peak-in-nepal-10961379.html)
+*News18 Hindi (World)* - Nov 03, 21:59 IST (iso: 2026-11-03T16:29:44+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Nepal_Mountain_Accident2-2026-11-67226301abc245a73fc93c8f960d2e99-1200x800.jpg -->
 
-चीन के तीन शहरों में हैलोवीन पर सुरक्षा बढ़ाई गई। युवाओं ने आर्थिक संकट और बेरोजगारी पर व्यंग्य करने के लिए खास पोशाकें पहनीं। अधिकारियों ने बीजिंग, शंघाई और हांगझू में कड़ी निगरानी लागू की। China Halloween: ‘द एपोच टाइम्स’ (TET) की एक रिपोर्ट के अनुसार, 31 अक्टूबर को हैलोवीन मनाने के लिए बड़ी संख्या में युवा इकट्ठा हुए, जिसके चलते चीनी अधिकारियों ने बीजिंग, शंघाई और हांगझू में सुरक्षा बढ़ा दी।
+जर्मन पर्वतारोही वोल्फगैंग वास्चिजेक की अमा डबलाम चोटी से लौटते समय मौत हो गई। कैंप-3 से नीचे उतरते समय वे 1,500 मीटर गहरी खाई में गिर गए। गाइड के पांच मिनट के लिए दूर जाने के दौरान यह हादसा हुआ। हिमालय में स्थित 6,814 मीटर ऊंची अमा डबलाम चोटी फतह करके लौट रहे 57 साल के जर्मन पर्वतारोही वोल्फगैंग वास्चिजेक की दर्दनाक मौत हो गई है.
 
-### [सनकी तानाशाह' ने बनाई पाताल में छेद करने वाली मिसाइल, ट्रेलर देखकर ही कांप गया पड़ोसी](https://hindi.news18.com/world/rest-of-world-north-korea-tests-vertical-strike-cruise-missile-kim-jong-un-new-bunker-busting-weapon-terrifies-south-korea-10961115.html)
-*News18 Hindi (World)* - Nov 03, 20:09 IST (iso: 2026-11-03T14:39:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/North-Korea-Tests-Vertical-Strike-Cruise-Missile-2026-11-391f5093c52b202b74414a053465cb33-1200x800.jpg -->
+### [व्हाइट हाउस में 5 नवंबर को रूस और यूक्रेन के प्रतिनिधियों को साथ लाएंगी मेलानिया ट्रंप, सीजफायर पर](https://www.patrika.com/world-news/melania-trump-russia-ukraine-white-house-meeting-november-5-21028277)
+*Patrika (World)* - Nov 03, 19:33 IST (iso: 2026-11-03T14:03:22+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Melania-Trump.webp -->
 
-किम जोंग उन ने जमीन के नीचे बंकरों को निशाना बनाने वाली क्रूज मिसाइल का ट्रेलर जारी किया। इसमें सीधे हमले की तकनीक शामिल है। इस प्रदर्शन से पड़ोसी देशों में चिंता बढ़ गई है। उत्तर कोरिया के तानाशाह किम जोंग उन ने एक घातक रणनीतिक क्रूज मिसाइल का ट्रेलर दिखाया है. ये मिसाइल जमीन के नीचे छिपे बंकरों और सैन्य ठिकानों को तबाह करने के लिए बनाई गई है.
-
-### ['कदीमी मस्जिद को हटाना होगा', दिल्ली HC में केंद्र सरकार बोली- मलिकाना हक हमारा](https://www.abplive.com/news/india/kadimi-mosque-must-be-removed-central-govt-in-delhi-hc-claim-ownership-right-3210635)
-*ABP Live (India)* - Nov 03, 18:57 IST (iso: 2026-11-03T13:27:12+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/aac10de71b9bb658ecfef9c688990fb517937118244201324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-केंद्र सरकार ने दिल्ली हाईकोर्ट में कदीमी मस्जिद को हटाने की ज़रूरत पर जोर दिया। यह कदम सेंट्रल विस्टा पुनर्विकास मास्टर प्लान के तहत लिया जा रहा है। लक्ष्य सचिवालय इमारतों के पुनर्निर्माण को सुगम बनाना है। केंद्र सरकार ने दिल्ली हाईकोर्ट में जवाब देते हुए कहा है कि सेंट्रल दिल्ली में कृषि भवन परिसर के भीतर कदीमी मस्जिद को हटाना बेहद ही जरूरी है.
-
-### [अर्नब और मुरासु के बाद कतार में कितने तूफान? क्या सर्दियों में ठंड बढ़ेगी या घटेगी](https://www.abplive.com/news/india/arnab-and-murasu-cyclone-after-how-many-queue-and-intense-will-cold-be-flood-weather-update-imd-explained-3210607)
-*ABP Live (India)* - Nov 03, 18:19 IST (iso: 2026-11-03T12:49:22+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/d2bcc37be1c39287fca75382b9b7c43a17937092708461317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-चक्रवात मुरासु आंध्र प्रदेश के तट पर कमजोर पड़ रहा है। इसके बाद भारी बारिश और पेड़ों के गिरने की खबरें आई हैं। यह एक सप्ताह में दूसरा तूफान है। पहले अर्नब का प्रकोप हुआ था। मौसम विभाग आगे के तूफानों की संभावना पर नजर रख रहा है। चक्रवात 'मुरासु' का असर अब कम होने लगा है. आंध्र प्रदेश के तट से टकराने के बाद यह कमजोर पड़ रहा है, लेकिन पीछे भारी बारिश, उखड़े पेड़ और बिजली के खंभों की तबाही छोड़ गया है.
-
-### [पड़ोसी बांग्लादेश में भड़की हिंसा से अलर्ट मोड में भारत, जानें विदेश मंत्रालय ने क्या कहा](https://www.abplive.com/news/india/bangladesh-garment-workers-protest-india-mea-randhir-jaiswal-3210578)
-*ABP Live (India)* - Nov 03, 17:47 IST (iso: 2026-11-03T12:17:14+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/be5c151767da08ccaf94dbb2e501c84c17937061189151115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-बांग्लादेश में कपड़ा मजदूरों के हिंसक प्रदर्शनों के कारण भारत सतर्क है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि वे घटनाक्रम पर नजर बनाए हुए हैं। प्रदर्शनकारियों की मुख्य मांग वेतन में वृद्धि है। पड़ोसी बांग्लादेश में कपड़ा मजदूरों के उग्र विरोध-प्रदर्शन को लेकर भारत काफी सतर्कता बरत रहा है. भारतीय विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने मंगलवार को नियमित प्रेस ब्रीफिंग के दौरान कहा कि बांग्लादेश के घटनाक्रमों को लेकर कहा कि वे लगातार नजर बनाए हुए हैं.
-
-### [लोगों ने हाथ लहराकर बुलाया और फिर...कैसे कटे 2 हेलीकॉप्टरों के धड़? सामने आए वीडियो ने सब साफ कर](https://hindi.news18.com/world/south-asia-mount-everest-helicopter-crash-video-dramatic-footage-shows-mid-air-collision-in-nepal-10960676.html)
-*News18 Hindi (World)* - Nov 03, 17:45 IST (iso: 2026-11-03T12:15:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Mount-Everest-Helicopter-Crash-Video-2026-11-e0dcdfd31fc3eb7a866b2663d0738922-1200x800.jpg -->
-
-नेपाल के माउंट एवरेस्ट क्षेत्र में फेरिचे पर दो हेलीकॉप्टरों के पंखे आपस में टकरा गए। वीडियो में जमीन पर खड़े लोगों ने पहले स्वागत किया, फिर भाग खड़े हुए। इस हादसे में फिशटेल एयर और एयर डायनेस्टी के विमान शामिल थे। नेपाल के माउंट एवरेस्ट इलाके में एक भयानक हेलीकॉप्टर हादसा हो गया. फेरिचे में लैंडिंग के वक्त फिशटेल एयर और एयर डायनेस्टी के दो हेलीकॉप्टरों के पंखे हवा में आपस में टकरा गए.
-
----
-
-## दुनिया
-
-### [मां-बाप लॉन में बिजी थे उधर खेलते-खेलते हाइवे पर पहुंच गया 1 साल का बच्चा, गाड़ी आई और कुचल डाला](https://hindi.news18.com/world/america-parents-were-busy-in-lawn-a-one-year-old-child-wandered-onto-highway-vehicle-ran-him-over-10961273.html)
-*News18 Hindi (World)* - Nov 03, 20:34 IST (iso: 2026-11-03T15:04:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/road-accident-2026-11-e4450d52ecc319b8c2ba78b3daa0e9c8-1200x800.jpg -->
-
-एक साल का बच्चा खेलते हुए हाईवे पर निकल गया। माता-पिता लॉन में काम में व्यस्त थे। एक कार ने उसे कुचल दिया। अस्पताल में डॉक्टरों ने उसे मृत घोषित कर दिया। मां-बाप लॉन में यार्ड वर्क में बिजी थे, तभी एक साल का बच्‍चा खेलते-खेलते हाईवे पर पहुंच गया. कोई कुछ कर पाता, इससे पहले एक गाड़ी आई और उसे कुचल कर चली गई.
-
-### ['सरकार संसद में SIR समेत हर मुद्दे पर चर्चा को तैयार', गृह मंत्री शाह का विपक्ष पर वार](https://www.abplive.com/news/india/union-home-minister-amit-shah-chhattishgarh-rajyotsav-speech-we-are-ready-to-discuss-every-issue-include-sir-3210640)
-*ABP Live (India)* - Nov 03, 19:00 IST (iso: 2026-11-03T13:30:41+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/0722f8b95fd408139dd5a593aa3a536217937125904661324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-गृह मंत्री अमित शाह ने संसद में हर मुद्दे पर चर्चा के लिए तैयारी की घोषणा की। उन्होंने मतदाता सूची पुनरीक्षण समेत विपक्षी मुद्दों पर बहस की चुनौती दी। शाह ने राहुल गांधी पर असंवैधानिक संस्थाओं का समर्थन करने का आरोप लगाया। अमित शाह ने कहा कि मोदी सरकार संसद में हर मुद्दे पर चर्चा करने के लिए तैयार है.
-
-### ['24 घंटे हो गए मोदी जी, मैंने आपको चैलेंज दिया है', प्रधानमंत्री से राहुल गांधी ने किया ये सवाल](https://www.abplive.com/news/india/rahul-gandhi-hits-out-at-pm-modi-asked-if-he-accepts-his-debate-challenge-3210620)
-*ABP Live (India)* - Nov 03, 18:19 IST (iso: 2026-11-03T12:49:49+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/323d941f91242e9030f66000e6950dec17937101418671126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-राहुल गांधी ने लोकसभा में नरेंद्र मोदी को चैलेंज किया। उन्होंने कहा कि 24 घंटे हो गए और बहस का समय आ गया है। गांधी ने विदेशी शक्तियों से कनेक्शन के सवाल उठाए। उन्होंने किसी भी मंच पर बहस करने की पेशकश की है। लोकसभा में विपक्ष के नेता राहुल गांधी ने मंगलवार (3 नवंबर) को एक बार फिर से प्रधानमंत्री नरेंद्र मोदी पर निशाना साधा है.
-
-### [ममता बनर्जी को सुप्रीम कोर्ट से बड़ा झटका, मीडिया ट्रायल पर रोक वाली याचिका खारिज](https://www.abplive.com/news/india/supreme-court-dismissed-mamata-mp-abhishek-banerjee-plea-seeking-ban-on-media-reporting-about-cases-3210599)
-*ABP Live (India)* - Nov 03, 17:45 IST (iso: 2026-11-03T12:15:36+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/2536987ff40236ac80e38db6c890338617937081166791368_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-सुप्रीम कोर्ट ने अभिषेक बनर्जी की याचिका खारिज कर दी। उन्होंने मीडिया रिपोर्टिंग पर रोक लगाने की मांग की थी। कोर्ट ने उन्हें दिवाली के बाद हाई कोर्ट में अंतरिम राहत के लिए जाने को कहा। सुप्रीम कोर्ट ने ममता बनर्जी की पार्टी के सांसद अभिषेक बनर्जी की याचिका खारिज कर दी, जिसमें उन्होंने अपने खिलाफ मामलों की मीडिया रिपोर्टिंग पर रोक लगाने की मांग की थी.
+मेलानिया ट्रंप 5 नवंबर को व्हाइट हाउस में रूस और यूक्रेन के प्रतिनिधियों को बुला रही हैं। वे खेरसॉन क्षेत्र में सीजफायर पर बयान देंगी। कार्यक्रम सुबह ग्यारह बजे अमेरिकी समय पर होगा। Melania Trump: रूस और यूक्रेन के बीच जारी युद्ध के बीच अमेरिका की प्रथम महिला मेलानिया ट्रंप 5 नवंबर 2026 को व्हाइट हाउस में दोनों देशों के प्रतिनिधियों को एक मंच पर लाने जा रही हैं।
 
 ---
 

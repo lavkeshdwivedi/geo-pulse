@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-03T16:42:03.255645+00:00",
+  "generated_at": "2026-11-03T22:07:34.550016+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 254,
   "digest": {
-    "en": "Russia's strike on a Ukrainian school killed twenty-six people, shattering fragile peace hopes. Simultaneously, Serbia's post-election chaos saw Vucic's crushing defeat trigger arrests and resignations. Moscow's military spending also gutted healthcare in poorer regions.",
-    "hi": "Houthi fighters launched coordinated strikes on Saudi Arabia, hitting Abha International Airport and Khmisa Air Base. The attacks come as Riyadh tightens security after a surge in regional tensions. Saudi officials say the raids were a warning to foreign forces stationed in the region."
+    "en": "Melania Trump is set to host Russia-Ukraine talks following the Oleshky Truce. Meanwhile, Poland faces a constitutional crisis as factions battle for control of its tribunal.",
+    "hi": "देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी पर शॉर्ट एनकाउंटर हुआ, गोली उसके पैर में लगी और वह गंभीर स्थिति में है।"
   },
   "articles": [
+    {
+      "title": "Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks",
+      "url": "https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-03T21:18:10+00:00",
+      "image_url": "https://gdb.rferl.org/63be4226-bba4-414e-eb1a-08df13afe2a0_w1200_h630.jpg",
+      "summary": "Melania Trump will host Russian and Ukrainian representatives at the White House on November 5. The meeting focuses on a localized cease-fire in Kherson. A new round of US-mediated peace talks is scheduled for next week. Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Poland plunges into crisis over fight for control of constitutional tribunal",
+      "url": "https://www.thehindu.com/news/international/poland-plunges-into-crisis-over-fight-for-control-of-constitutional-tribunal/article71659570.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-03T17:49:34+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/9w2j1c/article71662578.ece/alternates/LANDSCAPE_1200/2026-10-31T002400Z_2229601_RC2ZDOAA5VX4_RTRMADP_3_POLAND-PRESIDENT-JUDICIARY.JPG",
+      "summary": "Poland faces a constitutional crisis over tribunal appointments. Prime Minister Tusk and President Nawrocki dispute recent selections. Judges are appointed by the lower house. Many call for a constitutional reset with amendments. Ruling bloc led by PM Tusk and Opposition-backed President Nawrocki are at loggerheads over appointments made to the tribunal by each side. Judges to tribunal are appointed by lower house of parliament.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Clashes Near Kyiv Highlight Tension Over Military Manpower Challenges",
       "url": "https://www.rferl.org/a/clashes-near-kyiv-highlight-tension-over-military-manpower-challenges/33889849.html",
@@ -68,6 +92,18 @@
       "translations": {}
     },
     {
+      "title": "In Yemen’s war, women and girls suffer ‘devastating consequences’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168730",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-03T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-WFP-Yemen.jpg/image770x420cropped.jpg",
+      "summary": "Yemeni war drives families to desperate measures. A fourteen-year-old girl named Safa was married to an elderly man. Her father feared she would be unprotected if he died in hostilities. Her mother died earlier this year. Safa is 14. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
       "source": "UN News",
@@ -87,30 +123,6 @@
       "published_at": "2026-11-03T11:51:57+00:00",
       "image_url": "https://gdb.rferl.org/bc014dea-5206-4bb4-6c65-08df13a87200_tv_w1200_h630.jpg",
       "summary": "Residents clashed with police in a Kyiv suburb. Allegations of torture in a private house fueled the unrest. The incident underscores tensions over military recruitment tactics. Ukraine continues to manage domestic friction during the war. A crowd clashed with police and National Guard troops in a Kyiv suburb amid allegations that men were being held and tortured in a private house.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Child dies of measles in New York's first such death in 30 years",
-      "url": "https://www.thehindu.com/news/international/child-dies-of-measles-in-new-yorks-first-such-death-in-30-years/article71659832.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-03T08:44:41+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/dks03/article71659851.ece/alternates/LANDSCAPE_1200/2026-11-03T000637Z_37042556_RC20DDAXVZVS_RTRMADP_3_HEALTH-USA-MEASLES.JPG",
-      "summary": "A child died of measles in New York. It is the first such death in 30 years. Vaccination rates have dropped below the 95 percent threshold. This decline has allowed the virus to resurge in the United States. The U. S. stopped the domestic spread of measles in 2000 by maintaining high vaccination rates, but they have fallen in recent years to below the 95% coverage needed to prevent outbreaks of the viral disease.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Strikes on a school by Russia kills 26, derailing hopes of progress toward peace",
-      "url": "https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-03T06:31:36+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/r9p0pv/article71659535.ece/alternates/LANDSCAPE_1200/2026-11-02T213053Z_3438278_RC2RFOA2ZCQZ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION.JPG",
-      "summary": "Russia resumed strikes on Kherson after a ceasefire ended. A school hit in the southern region killed 26 people. The attack derailed hopes for peace progress. Kyiv confirmed the resumption of hostilities in the area. Russia resumed its strikes on the southern region of Kherson after the end of a ceasefire in the area, the longest truce in the war raging between the neighbours since Russia’s 2022 invasion, Kyiv said.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -217,7 +229,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-01T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg",
       "summary": "Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.",
       "region": "Americas",
       "language": "en",
@@ -229,7 +241,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-01T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image560x340cropped.jpg",
       "summary": "António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -296,16 +308,274 @@
       "translations": {}
     },
     {
-      "title": "Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-      "source": "The Guardian",
+      "title": "6 नवंबर को मनाया जाएगा धनतेरस, जानें पूजा का शुभ मुहूर्त और धार्मिक महत्व",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/dhanteras-2026-on-november-6-know-the-auspicious-puja-muhurat-and-religious-significance-2026-11-03",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-30T14:08:41+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0",
-      "summary": "Flávio Bolsonaro fled to the US after losing Brazil's election. He declared himself president-elect for 58 minutes. Brazilian media mocked the move as shameful. His letter also featured the wrong coat of arms. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.",
+      "published_at": "2026-11-04T07:02:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/03/dhanteras-2026_545756cd20c9aa9f1cfb62ba6d55c5cb.jpeg?w=1200&dpr=1.0",
+      "summary": "धनतेरस 2026 का पर्व 6 नवंबर को मनाया जाएगा। इस दिन भगवान धन्वंतरि, मां लक्ष्मी और कुबेर की पूजा का विशेष महत्व है। शुभ मुहूर्त और पूजा विधि का पालन किया जाएगा। इस दिन भगवान धन्वंतरि, मां लक्ष्मी और कुबेर देव की पूजा का विशेष महत्व है। जानें धनतेरस का शुभ मुहूर्त, पूजा विधि और इस पर्व का धार्मिक महत्व।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "6 नवंबर को मनाया जाएगा धनतेरस, जानें पूजा का शुभ मुहूर्त और धार्मिक महत्व",
+          "summary": "धनतेरस 2026 का पर्व 6 नवंबर को मनाया जाएगा। इस दिन भगवान धन्वंतरि, मां लक्ष्मी और कुबेर की पूजा का विशेष महत्व है। शुभ मुहूर्त और पूजा विधि का पालन किया जाएगा। इस दिन भगवान धन्वंतरि, मां लक्ष्मी और कुबेर देव की पूजा का विशेष महत्व है। जानें धनतेरस का शुभ मुहूर्त, पूजा विधि और इस पर्व का धार्मिक महत्व।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली",
+      "url": "https://www.amarujala.com/madhya-pradesh/prime-suspect-in-murder-of-ti-dilip-puri-in-dewas-injured-in-brief-encounter-bullet-hits-suspect-in-leg-2026-11-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-04T06:44:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/enakautara-ma-ghayal-aarapa_11b9b78352d2d65efd7446f3c1bce89c.jpeg?w=1200&dpr=1.0",
+      "summary": "मध्य प्रदेश के देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर हुआ। पुलिस की गोली से आरोपी के पैर में चोट आई। घटना स्थल पर तनाव बना रहता है। देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली",
+          "summary": "मध्य प्रदेश के देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर हुआ। पुलिस की गोली से आरोपी के पैर में चोट आई। घटना स्थल पर तनाव बना रहता है। देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार",
+      "url": "https://www.amarujala.com/technology/tech-diary/ai-will-work-even-without-internet-india-ai-mission-releases-indigenous-foundation-models-eka1-dhir-2b-dhir-5b-2026-11-03",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-04T06:31:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/03/kataranakasa-eva-sacana-parathayagaka-mataralya-ka-sacava-esa-kashhanaena-va-anaya_d422366cfba111cd5c31021221bc9f3c.jpeg",
+      "summary": "भारत ने तीन स्वदेशी एआई मॉडल जारी किए हैं। इनमें EKA1, Dhir 2B और Dhir 5B शामिल हैं। ये मॉडल बिना इंटरनेट के भी काम करेंगे। बैंकिंग और सरकारी कामकाज में इनका उपयोग होगा। भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार",
+          "summary": "भारत ने तीन स्वदेशी एआई मॉडल जारी किए हैं। इनमें EKA1, Dhir 2B और Dhir 5B शामिल हैं। ये मॉडल बिना इंटरनेट के भी काम करेंगे। बैंकिंग और सरकारी कामकाज में इनका उपयोग होगा। भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "योगी सरकार ने दिया उज्जवला योजना के तहत दिवाली गिफ्ट, फ्री मिलेगा गैस सिलेंडर!",
+      "url": "https://www.amarujala.com/video/india-news/yogi-government-offers-a-diwali-gift-under-the-ujjwala-scheme-get-a-free-gas-cylinder-2026-11-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-03T22:00:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/ujjwala-yojana-diwali-gift_0740b035c5eaf8513fd32d2f1b8d38ac.jpeg?w=1200&dpr=1.0",
+      "summary": "योगी आदित्यनाथ सरकार ने उज्जवला योजना के तहत दिवाली पर गैस सिलेंडर उपहार घोषित किया। लाभार्थियों को यह सुविधा मुफ्त मिलेगी। यह पहल ईंधन सुविधा को बढ़ावा देगी। योगी सरकार ने दिया उज्जवला योजना के तहत दिवाली गिफ्ट, फ्री मिलेगा गैस सिलेंडर!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "योगी सरकार ने दिया उज्जवला योजना के तहत दिवाली गिफ्ट, फ्री मिलेगा गैस सिलेंडर!",
+          "summary": "योगी आदित्यनाथ सरकार ने उज्जवला योजना के तहत दिवाली पर गैस सिलेंडर उपहार घोषित किया। लाभार्थियों को यह सुविधा मुफ्त मिलेगी। यह पहल ईंधन सुविधा को बढ़ावा देगी। योगी सरकार ने दिया उज्जवला योजना के तहत दिवाली गिफ्ट, फ्री मिलेगा गैस सिलेंडर!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज",
+      "url": "https://www.amarujala.com/live/world/us-midterm-elections-2026-live-updates-voting-trump-republicans-democrats-house-senate-2026-11-03",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-03T21:19:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/26/donald-trump-us-election-india_5981a311d48a6176da9b50a50b8f4fff.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका के मध्यावधि चुनावों में मौसम ने मतदान प्रक्रिया को प्रभावित किया। कई राज्यों में अंतिम घंटे तक वोटिंग जारी रही। डोनाल्ड ट्रंप मीडिया कवरेज से असंतुष्ट हैं। US मध्यावधि चुनाव LIVE: मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज।",
       "region": "Americas",
-      "language": "en",
-      "translations": {}
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज",
+          "summary": "अमेरिका के मध्यावधि चुनावों में मौसम ने मतदान प्रक्रिया को प्रभावित किया। कई राज्यों में अंतिम घंटे तक वोटिंग जारी रही। डोनाल्ड ट्रंप मीडिया कवरेज से असंतुष्ट हैं। US मध्यावधि चुनाव LIVE: मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "चुनाव नतीजे से पहले गरजे गादी: 'नेतन्याहू पर भरोसा नहीं, हटाना ही होगा'; PM पर बरसे पूर्व इस्राइली",
+      "url": "https://www.amarujala.com/world/israel-election-results-new-govt-gadi-vs-trust-netanyahu-ex-army-chief-bibi-must-be-removed-prez-isaac-herzog-2026-11-04",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-03T21:09:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/israel-govt-formation_4f459a4bae545c07820569c2856d3611.jpeg?w=1200&dpr=1.0",
+      "summary": "पूर्व इस्राइली सेना प्रमुख ने प्रधानमंत्री नेतन्याहू पर भरोसा खो दिया है। उन्होंने कहा कि उसे हटाना ही होगा। यह टिप्पणी चुनाव नतीजों से पहले आई। चुनाव नतीजे से पहले गरजे गादी: 'नेतन्याहू पर भरोसा नहीं, हटाना ही होगा'; PM पर बरसे पूर्व इस्राइली सेना प्रमुख।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चुनाव नतीजे से पहले गरजे गादी: 'नेतन्याहू पर भरोसा नहीं, हटाना ही होगा'; PM पर बरसे पूर्व इस्राइली",
+          "summary": "पूर्व इस्राइली सेना प्रमुख ने प्रधानमंत्री नेतन्याहू पर भरोसा खो दिया है। उन्होंने कहा कि उसे हटाना ही होगा। यह टिप्पणी चुनाव नतीजों से पहले आई। चुनाव नतीजे से पहले गरजे गादी: 'नेतन्याहू पर भरोसा नहीं, हटाना ही होगा'; PM पर बरसे पूर्व इस्राइली सेना प्रमुख।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली मेट्रो और नमो भारत ने बढ़ाए 20-20 फेरे, सार्वजनिक परिवहन को प्रोत्साहित करने के लिए किया उपाय",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-metro-and-namo-bharat-have-each-added-20-trips-2026-11-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-03T20:42:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/1_521afbac9d208b68264fb103d402a34e.jpeg?w=1200&dpr=1.0",
+      "summary": "वायु प्रदूषण नियंत्रण के लिए दिल्ली मेट्रो और नमो भारत बस सेवाओं में 20-20 फेरे बढ़ाए गए। यह कदम ग्रेडेड रिस्पांस एक्शन प्लान के तहत उठाया गया। राजधानी में वायु प्रदूषण पर नियंत्रण के लिए ग्रेडेड रिस्पांस एक्शन प्लान (ग्रेप)-2 लागू होने के बाद दिल्ली मेट्रो रेल निगम (डीएमआरसी) ने अपनी सेवाओं में इजाफा किया है। दिल्ली मेट्रो और नमो भारत ने बढ़ाए 20-20 फेरे, सार्वजनिक परिवहन को प्रोत्साहित करने के लिए किया उपाय।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली मेट्रो और नमो भारत ने बढ़ाए 20-20 फेरे, सार्वजनिक परिवहन को प्रोत्साहित करने के लिए किया उपाय",
+          "summary": "वायु प्रदूषण नियंत्रण के लिए दिल्ली मेट्रो और नमो भारत बस सेवाओं में 20-20 फेरे बढ़ाए गए। यह कदम ग्रेडेड रिस्पांस एक्शन प्लान के तहत उठाया गया। राजधानी में वायु प्रदूषण पर नियंत्रण के लिए ग्रेडेड रिस्पांस एक्शन प्लान (ग्रेप)-2 लागू होने के बाद दिल्ली मेट्रो रेल निगम (डीएमआरसी) ने अपनी सेवाओं में इजाफा किया है। दिल्ली मेट्रो और नमो भारत ने बढ़ाए 20-20 फेरे, सार्वजनिक परिवहन को प्रोत्साहित करने के लिए किया उपाय।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रैफिक नहीं पराली है खलनायक, दिल्ली की हवा में जहर घोल रहे पड़ोसी; प्रदूषण बढ़ने की आशंका",
+      "url": "https://www.amarujala.com/delhi-ncr/it-s-stubble-burning-not-traffic-that-is-the-real-villain-neighboring-states-are-poisoning-delhi-s-air-2026-11-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-03T20:23:19+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/11_c63a6ccacba6bb5ead439821887d2cd5.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में वायु प्रदूषण का मुख्य कारण अब ट्रैफिक नहीं, बल्कि पड़ोसी राज्यों से आने वाली पराली जलाने का धुआं है। स्थानीय प्रदूषण के साथ बाहरी धुएं की मात्रा तेजी से बढ़ रही है। दिल्ली की हवा में सबसे बड़ा लोकल विलेन तो ट्रैफिक ही है, लेकिन अब बाहर से आने वाला धुआं भी तेजी पकड़ रहा है। ट्रैफिक नहीं पराली है खलनायक, दिल्ली की हवा में जहर घोल रहे पड़ोसी; प्रदूषण बढ़ने की आशंका।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रैफिक नहीं पराली है खलनायक, दिल्ली की हवा में जहर घोल रहे पड़ोसी; प्रदूषण बढ़ने की आशंका",
+          "summary": "दिल्ली में वायु प्रदूषण का मुख्य कारण अब ट्रैफिक नहीं, बल्कि पड़ोसी राज्यों से आने वाली पराली जलाने का धुआं है। स्थानीय प्रदूषण के साथ बाहरी धुएं की मात्रा तेजी से बढ़ रही है। दिल्ली की हवा में सबसे बड़ा लोकल विलेन तो ट्रैफिक ही है, लेकिन अब बाहर से आने वाला धुआं भी तेजी पकड़ रहा है। ट्रैफिक नहीं पराली है खलनायक, दिल्ली की हवा में जहर घोल रहे पड़ोसी; प्रदूषण बढ़ने की आशंका।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'सोशल मीडिया पर नहीं, संसद में आइए': एसआईआर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को",
+      "url": "https://www.amarujala.com/india-news/come-to-parliament-not-social-media-sitharaman-blunt-challenge-to-rahul-gandhi-for-debate-on-eci-evm-2026-11-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-03T20:13:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/katharaya-vatata-matara-naramal-sataramanae_1e3345447cea622d20f0dadde13936a1.jpeg?w=1200&dpr=1.0",
+      "summary": "नितिन गडकरी ने राहुल गांधी को चुनौती दी कि वे ईवीएम और चुनाव आयोग पर बहस संसद में करें। उन्होंने सोशल मीडिया पर बहस करने की बजाय संसद में आने की मांग की। 'सोशल मीडिया पर नहीं, संसद में आइए': एसआईआर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'सोशल मीडिया पर नहीं, संसद में आइए': एसआईआर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को",
+          "summary": "नितिन गडकरी ने राहुल गांधी को चुनौती दी कि वे ईवीएम और चुनाव आयोग पर बहस संसद में करें। उन्होंने सोशल मीडिया पर बहस करने की बजाय संसद में आने की मांग की। 'सोशल मीडिया पर नहीं, संसद में आइए': एसआईआर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "TI दिलीप पुरी हत्याकांड के मुख्य आरोपी का हुआ शॉर्ट एनकाउंटर,आरोपी के पैर में लगी गोली",
+      "url": "https://www.amarujala.com/video/india-news/a-brief-encounter-took-place-involving-the-prime-suspect-in-the-ti-dilip-puri-murder-case-the-suspect-sustain-2026-11-04",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-03T19:55:13+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/dews-police-short-encounter_b1df77d100bdcaf0b0230a93b0b240ec.jpeg?w=1200&dpr=1.0",
+      "summary": "टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी को पुलिस ने शॉर्ट एनकाउंटर में मार गिराया। घटना के दौरान आरोपी के पैर में गोली लगी थी। TI दिलीप पुरी हत्याकांड के मुख्य आरोपी का हुआ शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "TI दिलीप पुरी हत्याकांड के मुख्य आरोपी का हुआ शॉर्ट एनकाउंटर,आरोपी के पैर में लगी गोली",
+          "summary": "टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी को पुलिस ने शॉर्ट एनकाउंटर में मार गिराया। घटना के दौरान आरोपी के पैर में गोली लगी थी। TI दिलीप पुरी हत्याकांड के मुख्य आरोपी का हुआ शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "राष्ट्रपति सुबियांतो के फोन की हो रही थी जासूसी, पुलिस के तीन जनरल गिरफ्तार; सिस्टम से मिटाए सबूत",
+      "url": "https://www.amarujala.com/world/indonesia-president-subianto-phone-being-spied-on-three-police-generals-arrested-evidence-erased-from-system-2026-11-04",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-03T19:30:48+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/rashhatarapata-parabva-sabyata_3c3662ebb87936897503c37609ffdf58.jpeg?w=1200&dpr=1.0",
+      "summary": "इंडोनेशिया की पुलिस ने राष्ट्रपति सुबियांतो के फोन की जासूसी के मामले में तीन जनरल को गिरफ्तार किया है। जांच में सामने आया कि आरोपियों ने डिजिटल सबूतों को सिस्टम से मिटा दिया था। राष्ट्रपति सुबियांतो के फोन की हो रही थी जासूसी, पुलिस के तीन जनरल गिरफ्तार; सिस्टम से मिटाए सबूत।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राष्ट्रपति सुबियांतो के फोन की हो रही थी जासूसी, पुलिस के तीन जनरल गिरफ्तार; सिस्टम से मिटाए सबूत",
+          "summary": "इंडोनेशिया की पुलिस ने राष्ट्रपति सुबियांतो के फोन की जासूसी के मामले में तीन जनरल को गिरफ्तार किया है। जांच में सामने आया कि आरोपियों ने डिजिटल सबूतों को सिस्टम से मिटा दिया था। राष्ट्रपति सुबियांतो के फोन की हो रही थी जासूसी, पुलिस के तीन जनरल गिरफ्तार; सिस्टम से मिटाए सबूत।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'खिड़कियां बंद, AC स्विच ऑफ', न्यूक्लियर अटैक से कैसे बचें? ईरान ने जारी किया वीडियो",
+      "url": "https://hindi.news18.com/world/middle-east-iran-releases-survival-guide-for-nuclear-attack-closes-windows-turns-off-ac-amid-america-nuclear-bomb-threat-10961516.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-03T18:31:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/nuclear-power-plant-1-2026-09-80d892e368056d8d571173e198962a66-1200x800.jpg",
+      "summary": "ईरान ने न्यूक्लियर हमले से बचाव के लिए आठ मिनट का वीडियो जारी किया है। इसमें लोगों को खिड़कियां बंद रखने और 24 घंटे तक घरों में रहने की सलाह दी गई है। अमेरिका और इजराइल के साथ बढ़ते बवाल के बीच ईरान ने एक चौंकाने वाला वीडियो जारी किया है. ये 8 मिनट का गाइड वीडियो है. इसमें लोगों को न्यूक्लियर अटैक और खतरनाक रेडिएशन से बचने के तरीके बताए गए हैं, लोगों से कहा गया है कि वे खिड़कियां और एसी बंद रखें, बेसमेंट में छुपें और कम से कम 24 घंटे तक घरों से बाहर न निकलें.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'खिड़कियां बंद, AC स्विच ऑफ', न्यूक्लियर अटैक से कैसे बचें? ईरान ने जारी किया वीडियो",
+          "summary": "ईरान ने न्यूक्लियर हमले से बचाव के लिए आठ मिनट का वीडियो जारी किया है। इसमें लोगों को खिड़कियां बंद रखने और 24 घंटे तक घरों में रहने की सलाह दी गई है। अमेरिका और इजराइल के साथ बढ़ते बवाल के बीच ईरान ने एक चौंकाने वाला वीडियो जारी किया है. ये 8 मिनट का गाइड वीडियो है. इसमें लोगों को न्यूक्लियर अटैक और खतरनाक रेडिएशन से बचने के तरीके बताए गए हैं, लोगों से कहा गया है कि वे खिड़कियां और एसी बंद रखें, बेसमेंट में छुपें और कम से कम 24 घंटे तक घरों से बाहर न निकलें.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘इजरायल को 4 अरब डॉलर की मदद बंद कर देगा अमेरिका’, दोस्त नेतन्याहू को डोनाल्ड ट्रंप का धोखा या कुछ",
+      "url": "https://hindi.news18.com/world/america-donald-trump-announces-end-to-4-billion-dollar-annual-us-aid-to-israel-by-end-of-2026-after-deal-with-benjamin-netanyahu-10961490.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-03T17:58:14+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-Announces-End-to-4-Billion-dollar-Annual-US-Aid-to-Israel-by-End-2026-11-04eb5de7fc154cc9a600a845cb0430f3-1200x800.jpg",
+      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने 2026 के अंत तक इजरायल को दी जाने वाली चार अरब डॉलर की वार्षिक सहायता बंद करने का ऐलान किया है। उन्होंने कहा कि नेतन्याहू के साथ इस पर सहमति हो चुकी है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा ऐलान किया है. उन्होंने कहा है कि अमेरिका साल 2026 के अंत तक इज़राइल को मिलने वाली हर साल की 4 अरब डॉलर की मदद बंद कर देगा.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘इजरायल को 4 अरब डॉलर की मदद बंद कर देगा अमेरिका’, दोस्त नेतन्याहू को डोनाल्ड ट्रंप का धोखा या कुछ",
+          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने 2026 के अंत तक इजरायल को दी जाने वाली चार अरब डॉलर की वार्षिक सहायता बंद करने का ऐलान किया है। उन्होंने कहा कि नेतन्याहू के साथ इस पर सहमति हो चुकी है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा ऐलान किया है. उन्होंने कहा है कि अमेरिका साल 2026 के अंत तक इज़राइल को मिलने वाली हर साल की 4 अरब डॉलर की मदद बंद कर देगा.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान 'गैंगरेप' केस में डिप्टी पीएम इशाक डार का रिश्तेदार बरी, 3 छोटे कर्मचारियों को फंसा दिया",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-gangrape-case-ishaq-dar-relative-cleared-in-lahore-extortion-and-assault-investigation-10961420.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-03T17:34:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Ishaq-Dar-2026-11-dfdbc178a294798ca481de03966039f0-1200x800.jpg",
+      "summary": "लाहौर के गैंगरेप मामले में पुलिस ने डिप्टी पीएम इशाक डार के रिश्तेदार समेत पांच मुख्य आरोपियों को बरी कर दिया है। पूरा इल्जाम तीन छोटे कर्मचारियों पर लगाया गया है। वकील इसे राजनीतिक दबाव बता रहे हैं। पाकिस्तान के लाहौर में दो विदेशी महिलाओं के साथ गैंगरेप और रंगदारी का केस हुआ था. इस मामले में पुलिस ने कोर्ट में अधूरी रिपोर्ट पेश की है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान 'गैंगरेप' केस में डिप्टी पीएम इशाक डार का रिश्तेदार बरी, 3 छोटे कर्मचारियों को फंसा दिया",
+          "summary": "लाहौर के गैंगरेप मामले में पुलिस ने डिप्टी पीएम इशाक डार के रिश्तेदार समेत पांच मुख्य आरोपियों को बरी कर दिया है। पूरा इल्जाम तीन छोटे कर्मचारियों पर लगाया गया है। वकील इसे राजनीतिक दबाव बता रहे हैं। पाकिस्तान के लाहौर में दो विदेशी महिलाओं के साथ गैंगरेप और रंगदारी का केस हुआ था. इस मामले में पुलिस ने कोर्ट में अधूरी रिपोर्ट पेश की है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी-नेतन्याहू के बाद भी कायम रहेंगे भारत-इजरायल के रिश्ते? इजरायली रिपोर्ट ने बताई बड़ी चुनौती",
+      "url": "https://www.patrika.com/world-news/pm-modi-netanyahu-bond-india-israel-partnership-report-21028573",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-03T16:59:49+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/India-Israel-partnership.webp",
+      "summary": "द टाइम्स ऑफ इजरायल की रिपोर्ट के अनुसार, मोदी और नेतन्याहू के बीच व्यक्तिगत रिश्ते ही दोनों देशों की रणनीतिक साझेदारी को मजबूत रखते हैं। रिपोर्ट ने इसी पर निर्भरता को बड़ी चुनौती बताया है। India Israel Partnership: प्रधानमंत्री नरेंद्र मोदी और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच करीबी संबंधों ने भारत और इजरायल की रणनीतिक साझेदारी को नई मजबूती दी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी-नेतन्याहू के बाद भी कायम रहेंगे भारत-इजरायल के रिश्ते? इजरायली रिपोर्ट ने बताई बड़ी चुनौती",
+          "summary": "द टाइम्स ऑफ इजरायल की रिपोर्ट के अनुसार, मोदी और नेतन्याहू के बीच व्यक्तिगत रिश्ते ही दोनों देशों की रणनीतिक साझेदारी को मजबूत रखते हैं। रिपोर्ट ने इसी पर निर्भरता को बड़ी चुनौती बताया है। India Israel Partnership: प्रधानमंत्री नरेंद्र मोदी और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच करीबी संबंधों ने भारत और इजरायल की रणनीतिक साझेदारी को नई मजबूती दी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
     },
     {
       "title": "चीटियों ने बना डाला पूरा शहर, रानी के लिए खास इंतजाम, यहां किसानी भी करती हैं चीटियां",
@@ -484,276 +754,6 @@
           "title": "व्हाइट हाउस में 5 नवंबर को रूस और यूक्रेन के प्रतिनिधियों को साथ लाएंगी मेलानिया ट्रंप, सीजफायर पर",
           "summary": "मेलानिया ट्रंप 5 नवंबर को व्हाइट हाउस में रूस और यूक्रेन के प्रतिनिधियों को बुला रही हैं। वे खेरसॉन क्षेत्र में सीजफायर पर बयान देंगी। कार्यक्रम सुबह ग्यारह बजे अमेरिकी समय पर होगा। Melania Trump: रूस और यूक्रेन के बीच जारी युद्ध के बीच अमेरिका की प्रथम महिला मेलानिया ट्रंप 5 नवंबर 2026 को व्हाइट हाउस में दोनों देशों के प्रतिनिधियों को एक मंच पर लाने जा रही हैं।",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मिडटर्म में जीते तो क्या-क्या करेंगे डोनाल्ड ट्रंप, हारे तो छीन ली जाएंगी कौन सी पावर्स?",
-      "url": "https://hindi.news18.com/world/america-us-midterm-elections-2026-what-happens-to-donald-trump-powers-if-republicans-lose-congress-10961017.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-03T13:57:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/donald-trump-2026-10-f0d3538e2d7dfac440d8bb5d28c325f0-1200x800.jpg",
-      "summary": "अमेरिका में 2026 के मध्यवर्ती चुनावों के नतीजे ट्रंप के दूसरे कार्यकाल की दिशा तय करेंगे। हाउस की 435 और सीनेट की 35 सीटों पर फैसला होना है। डेमोक्रेट्स की जीत पर ट्रंप की नीतियों पर ब्रेक लग सकता है। 2026 के अमेरिकी मिडटर्म चुनावों के लिए वोटिंग जारी है. इस चुनाव में हाउस की सभी 435 सीटों और सीनेट की 35 सीटों पर फैसला होना है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिडटर्म में जीते तो क्या-क्या करेंगे डोनाल्ड ट्रंप, हारे तो छीन ली जाएंगी कौन सी पावर्स?",
-          "summary": "अमेरिका में 2026 के मध्यवर्ती चुनावों के नतीजे ट्रंप के दूसरे कार्यकाल की दिशा तय करेंगे। हाउस की 435 और सीनेट की 35 सीटों पर फैसला होना है। डेमोक्रेट्स की जीत पर ट्रंप की नीतियों पर ब्रेक लग सकता है। 2026 के अमेरिकी मिडटर्म चुनावों के लिए वोटिंग जारी है. इस चुनाव में हाउस की सभी 435 सीटों और सीनेट की 35 सीटों पर फैसला होना है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'सरकार संसद में SIR समेत हर मुद्दे पर चर्चा को तैयार', गृह मंत्री शाह का विपक्ष पर वार",
-      "url": "https://www.abplive.com/news/india/union-home-minister-amit-shah-chhattishgarh-rajyotsav-speech-we-are-ready-to-discuss-every-issue-include-sir-3210640",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-03T13:30:41+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/0722f8b95fd408139dd5a593aa3a536217937125904661324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "गृह मंत्री अमित शाह ने संसद में हर मुद्दे पर चर्चा के लिए तैयारी की घोषणा की। उन्होंने मतदाता सूची पुनरीक्षण समेत विपक्षी मुद्दों पर बहस की चुनौती दी। शाह ने राहुल गांधी पर असंवैधानिक संस्थाओं का समर्थन करने का आरोप लगाया। अमित शाह ने कहा कि मोदी सरकार संसद में हर मुद्दे पर चर्चा करने के लिए तैयार है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'सरकार संसद में SIR समेत हर मुद्दे पर चर्चा को तैयार', गृह मंत्री शाह का विपक्ष पर वार",
-          "summary": "गृह मंत्री अमित शाह ने संसद में हर मुद्दे पर चर्चा के लिए तैयारी की घोषणा की। उन्होंने मतदाता सूची पुनरीक्षण समेत विपक्षी मुद्दों पर बहस की चुनौती दी। शाह ने राहुल गांधी पर असंवैधानिक संस्थाओं का समर्थन करने का आरोप लगाया। अमित शाह ने कहा कि मोदी सरकार संसद में हर मुद्दे पर चर्चा करने के लिए तैयार है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'कदीमी मस्जिद को हटाना होगा', दिल्ली HC में केंद्र सरकार बोली- मलिकाना हक हमारा",
-      "url": "https://www.abplive.com/news/india/kadimi-mosque-must-be-removed-central-govt-in-delhi-hc-claim-ownership-right-3210635",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-03T13:27:12+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/aac10de71b9bb658ecfef9c688990fb517937118244201324_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "केंद्र सरकार ने दिल्ली हाईकोर्ट में कदीमी मस्जिद को हटाने की ज़रूरत पर जोर दिया। यह कदम सेंट्रल विस्टा पुनर्विकास मास्टर प्लान के तहत लिया जा रहा है। लक्ष्य सचिवालय इमारतों के पुनर्निर्माण को सुगम बनाना है। केंद्र सरकार ने दिल्ली हाईकोर्ट में जवाब देते हुए कहा है कि सेंट्रल दिल्ली में कृषि भवन परिसर के भीतर कदीमी मस्जिद को हटाना बेहद ही जरूरी है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'कदीमी मस्जिद को हटाना होगा', दिल्ली HC में केंद्र सरकार बोली- मलिकाना हक हमारा",
-          "summary": "केंद्र सरकार ने दिल्ली हाईकोर्ट में कदीमी मस्जिद को हटाने की ज़रूरत पर जोर दिया। यह कदम सेंट्रल विस्टा पुनर्विकास मास्टर प्लान के तहत लिया जा रहा है। लक्ष्य सचिवालय इमारतों के पुनर्निर्माण को सुगम बनाना है। केंद्र सरकार ने दिल्ली हाईकोर्ट में जवाब देते हुए कहा है कि सेंट्रल दिल्ली में कृषि भवन परिसर के भीतर कदीमी मस्जिद को हटाना बेहद ही जरूरी है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चेकिंग में रुकवाई कार तो अंदर चिप्स खाता दिखा मेमना, तभी भौंका पुलिस का कुत्ता, तलाशी में खुला",
-      "url": "https://hindi.news18.com/world/britain-man-avoids-jail-in-scotland-after-police-find-14k-pound-drugs-in-car-alongside-a-lamb-named-pablo-eating-chips-10961009.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-03T13:26:22+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Scotland-Police-2026-11-4290cd4a8f5fb5768f940294c01207b1-1200x800.jpg",
-      "summary": "स्कॉटलैंड में पुलिस ने 14,000 पाउंड की ड्रग्स के साथ एक कार पकड़ी। पीछे की सीट पर मेमना पाब्लो चिप्स खा रहा था। आरोपियों ने दावा किया कि वे जानवर को बचा रहे थे। कोर्ट ने जेल की बजाय 300 घंटे की सेवा की सजा सुनाई। आरोपी जॉन मैकेनाइल और लिंडसे सांगस्टर ने दावा किया कि उन्होंने सड़क से मेमने को बचाया था.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चेकिंग में रुकवाई कार तो अंदर चिप्स खाता दिखा मेमना, तभी भौंका पुलिस का कुत्ता, तलाशी में खुला",
-          "summary": "स्कॉटलैंड में पुलिस ने 14,000 पाउंड की ड्रग्स के साथ एक कार पकड़ी। पीछे की सीट पर मेमना पाब्लो चिप्स खा रहा था। आरोपियों ने दावा किया कि वे जानवर को बचा रहे थे। कोर्ट ने जेल की बजाय 300 घंटे की सेवा की सजा सुनाई। आरोपी जॉन मैकेनाइल और लिंडसे सांगस्टर ने दावा किया कि उन्होंने सड़क से मेमने को बचाया था.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "भारत के साथ रिश्तों पर रूसी राजनयिक ने कही दिल छूने वाली बात, बताया कोई तीसरा देश दखल नहीं दे सकता",
-      "url": "https://hindi.news18.com/news/nation/russian-diplomat-shares-heartfelt-remarks-on-relations-with-india-says-third-country-cannot-affect-india-russia-friendship-ws-l-10960879.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-03T13:07:04+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/India-Russia-Direct-Route-2026-09-1b17f1bc9cdc2c66bb5950b888f209aa-1200x800.jpg",
-      "summary": "रूसी राजनयिक ने कहा कि भारत-रूस संबंधों में किसी तीसरे देश का दखल नहीं हो सकता। यह बयान बदलते वैश्विक परिदृश्य में दोनों देशों के द्विपक्षीय रिश्तों की मजबूती को रेखांकित करता है। भारत-रूस के संबंधों में क्या बड़ा बदलवाल आ गया है? किसने कहा कि भारत के संबंधों को किसी तीसरा देश प्रभावित नहीं कर सकता? कौन है वह राजनयिक जिसने भारत-रूस के संबंध को लेकर कह दी बड़ी बात?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत के साथ रिश्तों पर रूसी राजनयिक ने कही दिल छूने वाली बात, बताया कोई तीसरा देश दखल नहीं दे सकता",
-          "summary": "रूसी राजनयिक ने कहा कि भारत-रूस संबंधों में किसी तीसरे देश का दखल नहीं हो सकता। यह बयान बदलते वैश्विक परिदृश्य में दोनों देशों के द्विपक्षीय रिश्तों की मजबूती को रेखांकित करता है। भारत-रूस के संबंधों में क्या बड़ा बदलवाल आ गया है? किसने कहा कि भारत के संबंधों को किसी तीसरा देश प्रभावित नहीं कर सकता? कौन है वह राजनयिक जिसने भारत-रूस के संबंध को लेकर कह दी बड़ी बात?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "नेतन्याहू का 'ईरान तबाही' का नया प्लान लीक, इन 4 ईरानियों की जेब में फटने वाले हैं बम",
-      "url": "https://hindi.news18.com/world/middle-east-israel-hezbollah-pager-attack-2-point-0-plan-leaked-iran-top-military-generals-in-crosshairs-donald-trump-busy-in-midterms-election-10960880.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-03T13:01:38+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/netanyahu-pager-2026-09-72314aaaa9dc9f10ec04eed8e1bc2d18-1200x800.jpg",
-      "summary": "इजराइल ने ईरान के चार सैन्य जनरलों पर हमले की योजना बनाई है। इस अभियान को पेजर अटैक 2.0 कहा जा रहा है। निशाने पर अहमद वाहिदी, हुसैन तायब, अली अब्दुल्लाही और मोहसेन रजाई हैं। यह प्लान अमेरिकी मिडटर्म चुनावों के बाद कार्यान्वित हो सकता है। अमेरिका में मिडटर्म चुनाव खत्म होते ही पश्चिम एशिया में एक बड़ा धमाका हो सकता है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेतन्याहू का 'ईरान तबाही' का नया प्लान लीक, इन 4 ईरानियों की जेब में फटने वाले हैं बम",
-          "summary": "इजराइल ने ईरान के चार सैन्य जनरलों पर हमले की योजना बनाई है। इस अभियान को पेजर अटैक 2.0 कहा जा रहा है। निशाने पर अहमद वाहिदी, हुसैन तायब, अली अब्दुल्लाही और मोहसेन रजाई हैं। यह प्लान अमेरिकी मिडटर्म चुनावों के बाद कार्यान्वित हो सकता है। अमेरिका में मिडटर्म चुनाव खत्म होते ही पश्चिम एशिया में एक बड़ा धमाका हो सकता है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "'24 घंटे हो गए मोदी जी, मैंने आपको चैलेंज दिया है', प्रधानमंत्री से राहुल गांधी ने किया ये सवाल",
-      "url": "https://www.abplive.com/news/india/rahul-gandhi-hits-out-at-pm-modi-asked-if-he-accepts-his-debate-challenge-3210620",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-03T12:49:49+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/323d941f91242e9030f66000e6950dec17937101418671126_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "राहुल गांधी ने लोकसभा में नरेंद्र मोदी को चैलेंज किया। उन्होंने कहा कि 24 घंटे हो गए और बहस का समय आ गया है। गांधी ने विदेशी शक्तियों से कनेक्शन के सवाल उठाए। उन्होंने किसी भी मंच पर बहस करने की पेशकश की है। लोकसभा में विपक्ष के नेता राहुल गांधी ने मंगलवार (3 नवंबर) को एक बार फिर से प्रधानमंत्री नरेंद्र मोदी पर निशाना साधा है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'24 घंटे हो गए मोदी जी, मैंने आपको चैलेंज दिया है', प्रधानमंत्री से राहुल गांधी ने किया ये सवाल",
-          "summary": "राहुल गांधी ने लोकसभा में नरेंद्र मोदी को चैलेंज किया। उन्होंने कहा कि 24 घंटे हो गए और बहस का समय आ गया है। गांधी ने विदेशी शक्तियों से कनेक्शन के सवाल उठाए। उन्होंने किसी भी मंच पर बहस करने की पेशकश की है। लोकसभा में विपक्ष के नेता राहुल गांधी ने मंगलवार (3 नवंबर) को एक बार फिर से प्रधानमंत्री नरेंद्र मोदी पर निशाना साधा है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अर्नब और मुरासु के बाद कतार में कितने तूफान? क्या सर्दियों में ठंड बढ़ेगी या घटेगी",
-      "url": "https://www.abplive.com/news/india/arnab-and-murasu-cyclone-after-how-many-queue-and-intense-will-cold-be-flood-weather-update-imd-explained-3210607",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-03T12:49:22+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/d2bcc37be1c39287fca75382b9b7c43a17937092708461317_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "चक्रवात मुरासु आंध्र प्रदेश के तट पर कमजोर पड़ रहा है। इसके बाद भारी बारिश और पेड़ों के गिरने की खबरें आई हैं। यह एक सप्ताह में दूसरा तूफान है। पहले अर्नब का प्रकोप हुआ था। मौसम विभाग आगे के तूफानों की संभावना पर नजर रख रहा है। चक्रवात 'मुरासु' का असर अब कम होने लगा है. आंध्र प्रदेश के तट से टकराने के बाद यह कमजोर पड़ रहा है, लेकिन पीछे भारी बारिश, उखड़े पेड़ और बिजली के खंभों की तबाही छोड़ गया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अर्नब और मुरासु के बाद कतार में कितने तूफान? क्या सर्दियों में ठंड बढ़ेगी या घटेगी",
-          "summary": "चक्रवात मुरासु आंध्र प्रदेश के तट पर कमजोर पड़ रहा है। इसके बाद भारी बारिश और पेड़ों के गिरने की खबरें आई हैं। यह एक सप्ताह में दूसरा तूफान है। पहले अर्नब का प्रकोप हुआ था। मौसम विभाग आगे के तूफानों की संभावना पर नजर रख रहा है। चक्रवात 'मुरासु' का असर अब कम होने लगा है. आंध्र प्रदेश के तट से टकराने के बाद यह कमजोर पड़ रहा है, लेकिन पीछे भारी बारिश, उखड़े पेड़ और बिजली के खंभों की तबाही छोड़ गया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "इजरायल में सत्ता की नई लड़ाई! लापिड ने नेतन्याहू को PMO से बाहर करने का उठाया मुद्दा",
-      "url": "https://www.patrika.com/world-news/israel-opposition-leader-yair-lapid-demands-netanyahu-removal-election-results-21028101",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-03T12:39:31+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Yair-Lapid.webp",
-      "summary": "यायर लापिड ने बेंजामिन नेतन्याहू पर चुनाव परिणामों को कमजोर करने का आरोप लगाया। उन्होंने नेतन्याहू को पद से हटाने की मांग की। यह बयान राष्ट्रपति इसाक हर्ज़ोग से बातचीत से पहले आया। विपक्षी दलों के नेता हर्ज़लिया में एकत्र हुए। Israel Coalition Government: इजरायल के विपक्ष के नेता और ‘बीयाचाद’ (B’Yachad) पार्टी के दूसरे सबसे बड़े नेता यायर लापिड ने मंगलवार को प्रधानमंत्री बेंजामिन नेतन्याहू पर चुनाव परिणामों को कमजोर करने की कोशिश करने का आरोप लगाया और उन्हें पद से हटाने की मांग की।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इजरायल में सत्ता की नई लड़ाई! लापिड ने नेतन्याहू को PMO से बाहर करने का उठाया मुद्दा",
-          "summary": "यायर लापिड ने बेंजामिन नेतन्याहू पर चुनाव परिणामों को कमजोर करने का आरोप लगाया। उन्होंने नेतन्याहू को पद से हटाने की मांग की। यह बयान राष्ट्रपति इसाक हर्ज़ोग से बातचीत से पहले आया। विपक्षी दलों के नेता हर्ज़लिया में एकत्र हुए। Israel Coalition Government: इजरायल के विपक्ष के नेता और ‘बीयाचाद’ (B’Yachad) पार्टी के दूसरे सबसे बड़े नेता यायर लापिड ने मंगलवार को प्रधानमंत्री बेंजामिन नेतन्याहू पर चुनाव परिणामों को कमजोर करने की कोशिश करने का आरोप लगाया और उन्हें पद से हटाने की मांग की।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "तेल के तीन जहाजों में धमाके के बाद लगी आग, होर्मुज स्ट्रेट पार करते समय समुद्री बारूदी सुरंगों से",
-      "url": "https://www.patrika.com/world-news/three-tankers-explode-and-catch-fire-in-strait-of-hormuz-after-hitting-naval-mines-21028094",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-03T12:35:59+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/tankers-explosion-in-hormuz.webp",
-      "summary": "होर्मुज स्ट्रेट में तीन जहाजों में समुद्री बारूदी सुरंगों से टकराव हुआ। टक्कर के बाद जहाजों में धमाका और आग लग गई। ईरान ने आधिकारिक जलमार्ग बंद कर रखे हैं। जहाज अवैध मार्गों से गुजरते समय बारूदी सुरंगों का शिकार बन रहे हैं। होर्मुज स्ट्रेट (Strait of Hormuz) में जहाजों की समुद्री बारूदी सुरंगों से टक्कर और उसके बाद उनमें धमाका होने और आग लगने के मामले हर दिन देखने को मिल रहे हैं।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेल के तीन जहाजों में धमाके के बाद लगी आग, होर्मुज स्ट्रेट पार करते समय समुद्री बारूदी सुरंगों से",
-          "summary": "होर्मुज स्ट्रेट में तीन जहाजों में समुद्री बारूदी सुरंगों से टकराव हुआ। टक्कर के बाद जहाजों में धमाका और आग लग गई। ईरान ने आधिकारिक जलमार्ग बंद कर रखे हैं। जहाज अवैध मार्गों से गुजरते समय बारूदी सुरंगों का शिकार बन रहे हैं। होर्मुज स्ट्रेट (Strait of Hormuz) में जहाजों की समुद्री बारूदी सुरंगों से टक्कर और उसके बाद उनमें धमाका होने और आग लगने के मामले हर दिन देखने को मिल रहे हैं।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में नवंबर के पहले मंगलवार को ही क्यों डाले जाते हैं वोट? इसके पीछे चर्च की मजबूरी वाला",
-      "url": "https://hindi.news18.com/news/knowledge/why-votes-cast-in-united-states-election-specifically-on-first-tuesday-of-november-role-of-church-farmers-10960725.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-03T12:34:50+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Untitled-design-2026-11-03T175629.901-2026-11-0ee32d8348a7a09f60905104ca85f052-1200x800.jpg",
-      "summary": "अमेरिका में 3 नवंबर 2026 को मिड टर्म चुनाव हो रहे हैं। वोटिंग की यह परंपरा लगभग 180 साल पुरानी है। इसका चयन खेती, चर्च के समय और सफर की सुविधा के आधार पर किया गया था। अमेरिका में चुनाव की यह परंपरा करीब 180 साल पुरानी है. इसके पीछे खेती-किसानी, चर्च, घोड़ागाड़ी से सफर और चुनाव में धांधली रोकने की कोशिश जैसी कई वजहें जुड़ी हैं.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में नवंबर के पहले मंगलवार को ही क्यों डाले जाते हैं वोट? इसके पीछे चर्च की मजबूरी वाला",
-          "summary": "अमेरिका में 3 नवंबर 2026 को मिड टर्म चुनाव हो रहे हैं। वोटिंग की यह परंपरा लगभग 180 साल पुरानी है। इसका चयन खेती, चर्च के समय और सफर की सुविधा के आधार पर किया गया था। अमेरिका में चुनाव की यह परंपरा करीब 180 साल पुरानी है. इसके पीछे खेती-किसानी, चर्च, घोड़ागाड़ी से सफर और चुनाव में धांधली रोकने की कोशिश जैसी कई वजहें जुड़ी हैं.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "बेसमेंट में छिपें, AC बंद करें, खिड़कियों से दूर... परमाणु हमला हो जाए तो कैसे बचे? ईरान ने जारी की",
-      "url": "https://hindi.news18.com/world/middle-east-hide-in-basement-turn-off-ac-stay-away-from-windows-how-to-survive-nuclear-attack-iran-issues-video-advisory-10960821.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-03T12:21:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Nuclear-Attack-2026-11-11a64cd909219022985e22b8847814f3-1200x800.jpg",
-      "summary": "ईरान ने परमाणु हमले की स्थिति में नागरिकों के लिए सुरक्षा गाइडलाइन जारी की है। आठ मिनट के वीडियो में बेसमेंट में शरण लेने और एसी बंद करने की सलाह दी गई है। धमाके के बाद 24 घंटे सुरक्षित स्थान पर रहने का निर्देश दिया गया है। Iran Nuclear Attack Advisory: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की हमलों की धमकियों के बीच ईरान ने अपने नागरिकों के लिए परमाणु हमले से बचने की गाइडलाइन जारी की है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बेसमेंट में छिपें, AC बंद करें, खिड़कियों से दूर... परमाणु हमला हो जाए तो कैसे बचे? ईरान ने जारी की",
-          "summary": "ईरान ने परमाणु हमले की स्थिति में नागरिकों के लिए सुरक्षा गाइडलाइन जारी की है। आठ मिनट के वीडियो में बेसमेंट में शरण लेने और एसी बंद करने की सलाह दी गई है। धमाके के बाद 24 घंटे सुरक्षित स्थान पर रहने का निर्देश दिया गया है। Iran Nuclear Attack Advisory: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की हमलों की धमकियों के बीच ईरान ने अपने नागरिकों के लिए परमाणु हमले से बचने की गाइडलाइन जारी की है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पड़ोसी बांग्लादेश में भड़की हिंसा से अलर्ट मोड में भारत, जानें विदेश मंत्रालय ने क्या कहा",
-      "url": "https://www.abplive.com/news/india/bangladesh-garment-workers-protest-india-mea-randhir-jaiswal-3210578",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-03T12:17:14+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/be5c151767da08ccaf94dbb2e501c84c17937061189151115_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "बांग्लादेश में कपड़ा मजदूरों के हिंसक प्रदर्शनों के कारण भारत सतर्क है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि वे घटनाक्रम पर नजर बनाए हुए हैं। प्रदर्शनकारियों की मुख्य मांग वेतन में वृद्धि है। पड़ोसी बांग्लादेश में कपड़ा मजदूरों के उग्र विरोध-प्रदर्शन को लेकर भारत काफी सतर्कता बरत रहा है. भारतीय विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने मंगलवार को नियमित प्रेस ब्रीफिंग के दौरान कहा कि बांग्लादेश के घटनाक्रमों को लेकर कहा कि वे लगातार नजर बनाए हुए हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पड़ोसी बांग्लादेश में भड़की हिंसा से अलर्ट मोड में भारत, जानें विदेश मंत्रालय ने क्या कहा",
-          "summary": "बांग्लादेश में कपड़ा मजदूरों के हिंसक प्रदर्शनों के कारण भारत सतर्क है। विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने कहा कि वे घटनाक्रम पर नजर बनाए हुए हैं। प्रदर्शनकारियों की मुख्य मांग वेतन में वृद्धि है। पड़ोसी बांग्लादेश में कपड़ा मजदूरों के उग्र विरोध-प्रदर्शन को लेकर भारत काफी सतर्कता बरत रहा है. भारतीय विदेश मंत्रालय के प्रवक्ता रणधीर जायसवाल ने मंगलवार को नियमित प्रेस ब्रीफिंग के दौरान कहा कि बांग्लादेश के घटनाक्रमों को लेकर कहा कि वे लगातार नजर बनाए हुए हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "लोगों ने हाथ लहराकर बुलाया और फिर...कैसे कटे 2 हेलीकॉप्टरों के धड़? सामने आए वीडियो ने सब साफ कर",
-      "url": "https://hindi.news18.com/world/south-asia-mount-everest-helicopter-crash-video-dramatic-footage-shows-mid-air-collision-in-nepal-10960676.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-03T12:15:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Mount-Everest-Helicopter-Crash-Video-2026-11-e0dcdfd31fc3eb7a866b2663d0738922-1200x800.jpg",
-      "summary": "नेपाल के माउंट एवरेस्ट क्षेत्र में फेरिचे पर दो हेलीकॉप्टरों के पंखे आपस में टकरा गए। वीडियो में जमीन पर खड़े लोगों ने पहले स्वागत किया, फिर भाग खड़े हुए। इस हादसे में फिशटेल एयर और एयर डायनेस्टी के विमान शामिल थे। नेपाल के माउंट एवरेस्ट इलाके में एक भयानक हेलीकॉप्टर हादसा हो गया. फेरिचे में लैंडिंग के वक्त फिशटेल एयर और एयर डायनेस्टी के दो हेलीकॉप्टरों के पंखे हवा में आपस में टकरा गए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लोगों ने हाथ लहराकर बुलाया और फिर...कैसे कटे 2 हेलीकॉप्टरों के धड़? सामने आए वीडियो ने सब साफ कर",
-          "summary": "नेपाल के माउंट एवरेस्ट क्षेत्र में फेरिचे पर दो हेलीकॉप्टरों के पंखे आपस में टकरा गए। वीडियो में जमीन पर खड़े लोगों ने पहले स्वागत किया, फिर भाग खड़े हुए। इस हादसे में फिशटेल एयर और एयर डायनेस्टी के विमान शामिल थे। नेपाल के माउंट एवरेस्ट इलाके में एक भयानक हेलीकॉप्टर हादसा हो गया. फेरिचे में लैंडिंग के वक्त फिशटेल एयर और एयर डायनेस्टी के दो हेलीकॉप्टरों के पंखे हवा में आपस में टकरा गए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ममता बनर्जी को सुप्रीम कोर्ट से बड़ा झटका, मीडिया ट्रायल पर रोक वाली याचिका खारिज",
-      "url": "https://www.abplive.com/news/india/supreme-court-dismissed-mamata-mp-abhishek-banerjee-plea-seeking-ban-on-media-reporting-about-cases-3210599",
-      "source": "ABP Live (India)",
-      "sources": [],
-      "published_at": "2026-11-03T12:15:36+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/2536987ff40236ac80e38db6c890338617937081166791368_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "सुप्रीम कोर्ट ने अभिषेक बनर्जी की याचिका खारिज कर दी। उन्होंने मीडिया रिपोर्टिंग पर रोक लगाने की मांग की थी। कोर्ट ने उन्हें दिवाली के बाद हाई कोर्ट में अंतरिम राहत के लिए जाने को कहा। सुप्रीम कोर्ट ने ममता बनर्जी की पार्टी के सांसद अभिषेक बनर्जी की याचिका खारिज कर दी, जिसमें उन्होंने अपने खिलाफ मामलों की मीडिया रिपोर्टिंग पर रोक लगाने की मांग की थी.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ममता बनर्जी को सुप्रीम कोर्ट से बड़ा झटका, मीडिया ट्रायल पर रोक वाली याचिका खारिज",
-          "summary": "सुप्रीम कोर्ट ने अभिषेक बनर्जी की याचिका खारिज कर दी। उन्होंने मीडिया रिपोर्टिंग पर रोक लगाने की मांग की थी। कोर्ट ने उन्हें दिवाली के बाद हाई कोर्ट में अंतरिम राहत के लिए जाने को कहा। सुप्रीम कोर्ट ने ममता बनर्जी की पार्टी के सांसद अभिषेक बनर्जी की याचिका खारिज कर दी, जिसमें उन्होंने अपने खिलाफ मामलों की मीडिया रिपोर्टिंग पर रोक लगाने की मांग की थी.",
-          "region": "दुनिया"
         }
       }
     }

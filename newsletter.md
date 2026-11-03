@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 03, 2026 22:12 IST
+**Updated:** November 04, 2026 03:37 IST
 
 ---
 
 ## Europe & Russia
+
+### [Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks](https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html)
+*Radio Free Europe / Liberty* - Nov 04, 02:48 IST (iso: 2026-11-03T21:18:10+00:00)
+<!-- image: https://gdb.rferl.org/63be4226-bba4-414e-eb1a-08df13afe2a0_w1200_h630.jpg -->
+
+Melania Trump will host Russian and Ukrainian representatives at the White House on November 5. The meeting focuses on a localized cease-fire in Kherson. A new round of US-mediated peace talks is scheduled for next week. Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks.
 
 ### [Clashes Near Kyiv Highlight Tension Over Military Manpower Challenges](https://www.rferl.org/a/clashes-near-kyiv-highlight-tension-over-military-manpower-challenges/33889849.html)
 *Radio Free Europe / Liberty* - Nov 03, 21:51 IST (iso: 2026-11-03T16:21:42+00:00)
@@ -36,12 +42,6 @@ UNICEF reported nearly 2,000 attacks on Ukrainian schools since 2022. Some 270 s
 
 Residents clashed with police in a Kyiv suburb. Allegations of torture in a private house fueled the unrest. The incident underscores tensions over military recruitment tactics. Ukraine continues to manage domestic friction during the war. A crowd clashed with police and National Guard troops in a Kyiv suburb amid allegations that men were being held and tortured in a private house.
 
-### [Strikes on a school by Russia kills 26, derailing hopes of progress toward peace](https://www.thehindu.com/news/international/russia-ukraine-war-strikes-on-a-school-by-russia-kills-26-derailing-hopes-of-progress-toward-peace/article71659505.ece)
-*The Hindu (International)* - Nov 03, 12:01 IST (iso: 2026-11-03T06:31:36+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/r9p0pv/article71659535.ece/alternates/LANDSCAPE_1200/2026-11-02T213053Z_3438278_RC2RFOA2ZCQZ_RTRMADP_3_UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION.JPG -->
-
-Russia resumed strikes on Kherson after a ceasefire ended. A school hit in the southern region killed 26 people. The attack derailed hopes for peace progress. Kyiv confirmed the resumption of hostilities in the area. Russia resumed its strikes on the southern region of Kherson after the end of a ceasefire in the area, the longest truce in the war raging between the neighbours since Russia’s 2022 invasion, Kyiv said.
-
 ### [Arrests, Resignations, Repainting: Here's What's Happening In Postelection Serbia](https://www.rferl.org/a/serbia-post-election-happenings-arrests-resignations-vucic/33888976.html)
 *Radio Free Europe / Liberty* - Nov 02, 21:40 IST (iso: 2026-11-02T16:10:54+00:00)
 <!-- image: https://gdb.rferl.org/2462deca-11d2-4b33-790c-08df13a869ed_cx0_cy5_cw0_w1200_h630.jpg -->
@@ -70,11 +70,23 @@ Andjela Ruman died in the Novi Sad station collapse in 2024. She was twenty when
 
 ## Middle East & Africa
 
+### [Poland plunges into crisis over fight for control of constitutional tribunal](https://www.thehindu.com/news/international/poland-plunges-into-crisis-over-fight-for-control-of-constitutional-tribunal/article71659570.ece)
+*The Hindu (International)* - Nov 03, 23:19 IST (iso: 2026-11-03T17:49:34+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/9w2j1c/article71662578.ece/alternates/LANDSCAPE_1200/2026-10-31T002400Z_2229601_RC2ZDOAA5VX4_RTRMADP_3_POLAND-PRESIDENT-JUDICIARY.JPG -->
+
+Poland faces a constitutional crisis over tribunal appointments. Prime Minister Tusk and President Nawrocki dispute recent selections. Judges are appointed by the lower house. Many call for a constitutional reset with amendments. Ruling bloc led by PM Tusk and Opposition-backed President Nawrocki are at loggerheads over appointments made to the tribunal by each side. Judges to tribunal are appointed by lower house of parliament.
+
 ### [Trump’s troubles with Iran could open the door to China](https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping)
 *The Guardian* - Nov 03, 18:43 IST (iso: 2026-11-03T13:13:50+00:00)
 <!-- image: https://i.guim.co.uk/img/media/f57112d30a36effbcc3c23525ef1736ef2822ea9/34_0_1981_1584/master/1981.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=401de0ea4fbccede1573966438421992 -->
 
 China held a series of meetings with Gulf leaders to boost regional influence. This diplomatic push precedes a planned meeting between Donald Trump and Xi Jinping. The US president is expected to attend the Apec conference in Shenzhen. Beijing aims to capitalize on US tensions with Iran. Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the regionChina has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East. The diplomatic salvo comes before a highly anticipated meeting between Donald Trump and Xi Jinping when the US president is expected to attend the Apec conference in Shenzhe.
+
+### [In Yemen’s war, women and girls suffer ‘devastating consequences’](https://news.un.org/feed/view/en/story/2026/11/1168730)
+*UN News* - Nov 03, 17:30 IST (iso: 2026-11-03T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-WFP-Yemen.jpg/image770x420cropped.jpg -->
+
+Yemeni war drives families to desperate measures. A fourteen-year-old girl named Safa was married to an elderly man. Her father feared she would be unprotected if he died in hostilities. Her mother died earlier this year. Safa is 14. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.
 
 ### [Is Europe In Iran's Crosshairs? Tehran Hints At Wider Military Reach](https://www.rferl.org/a/iran-europe-target-missile-range/33888908.html)
 *Radio Free Europe / Liberty* - Nov 02, 18:50 IST (iso: 2026-11-02T13:20:21+00:00)
@@ -84,7 +96,7 @@ Iran's supreme leader stated any future response to an attack would have no geog
 
 ### [UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends](https://news.un.org/feed/view/en/story/2026/11/1168717)
 *UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image560x340cropped.jpg -->
 
 António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.
 
@@ -110,12 +122,6 @@ Giulia Paravicini reported from Asmara on life in Eritrea. She examined how the 
 
 Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
 
-### [Child dies of measles in New York's first such death in 30 years](https://www.thehindu.com/news/international/child-dies-of-measles-in-new-yorks-first-such-death-in-30-years/article71659832.ece)
-*The Hindu (International)* - Nov 03, 14:14 IST (iso: 2026-11-03T08:44:41+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/dks03/article71659851.ece/alternates/LANDSCAPE_1200/2026-11-03T000637Z_37042556_RC20DDAXVZVS_RTRMADP_3_HEALTH-USA-MEASLES.JPG -->
-
-A child died of measles in New York. It is the first such death in 30 years. Vaccination rates have dropped below the 95 percent threshold. This decline has allowed the virus to resurge in the United States. The U. S. stopped the domestic spread of measles in 2000 by maintaining high vaccination rates, but they have fallen in recent years to below the 95% coverage needed to prevent outbreaks of the viral disease.
-
 ### [Energy is America’s real weapon in a multipolar world](https://asiatimes.com/2026/11/energy-is-americas-real-weapon-in-a-multipolar-world/)
 *Asia Times* - Nov 02, 14:31 IST (iso: 2026-11-02T09:01:46+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/US-Navy-Strait-of-Hormuz.png -->
@@ -130,15 +136,9 @@ US Republicans face a potentially punishing verdict in Tuesday's midterm electio
 
 ### [Breaking the silence in Mexico’s barracks](https://news.un.org/feed/view/en/story/2026/11/1168715)
 *UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg -->
 
 Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.
-
-### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
-*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
-
-Flávio Bolsonaro fled to the US after losing Brazil's election. He declared himself president-elect for 58 minutes. Brazilian media mocked the move as shameful. His letter also featured the wrong coat of arms. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
 
 ---
 
