@@ -1,6 +1,144 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 03, 2026 06:54 IST
+**अपडेट:** November 03, 2026 14:13 IST
+
+---
+
+## एशिया-प्रशांत
+
+### [अफगानिस्तान में तालिबान, देश के अंदर TTP का कहर, अपनी ही रणनीति में कैसे फंस गया पाकिस्तान?](https://hindi.news18.com/world/south-asia-pakistan-diplomacy-seems-fail-how-taliban-in-afghanistan-ttp-in-kpk-troubling-ws-l-10960138.html)
+*News18 Hindi (World)* - Nov 03, 14:03 IST (iso: 2026-11-03T08:33:27+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-news-2026-11-6f316ecf82547d491a34cda4bd7f7eb7-1200x800.jpg -->
+
+पाकिस्तान की अफगानिस्तान नीति अब उसके खिलाफ काम कर रही है। तालिबान के भीतर TTP का बढ़ता प्रभाव पाकिस्तान को घेर रहा है। इसने अपनी ही रणनीति में खुद को फंसा दिया है। Pakistan Diplomacy Fail Over Taliban: भारत और पाकिस्तान जब अलग हुए तो पाकिस्तान के बाद न तो संसाधनों की कमी थी और न ही जमीन की. हालांकि इस देश ने अपने संसाधनों का इस्तेमाल पॉजिटिव तरीके से करने के बजाय दूसरे को गिराने में किया.
+
+### [गृह मंत्रालय के फैसले से भारतीयों को लाभ, केयर वर्कर पर शबाना महमूद का रुख क्या?](https://www.amarujala.com/world/uk-5-year-settlement-right-for-care-workers-benefit-for-indians-shabana-mahmood-immigration-rules-andy-burnham-2026-11-03)
+*Amar Ujala World* - Nov 03, 12:22 IST (iso: 2026-11-03T06:52:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/13/uk-could-make-migrants-wait-up-to-20-years-before-becoming-settled_5a170eb580af93b91986f3ff6a0cc6b2.jpeg?w=1200&dpr=1.0 -->
+
+यूक्रेन के गृह मंत्रालय ने स्थायी निवास नियमों में बदलाव किया है। इससे भारतीय नागरिकों को लाभ होगा। शबाना महमूद केयर वर्कर नीति पर अपना रुख स्पष्ट करने के लिए प्रतीक्षित हैं। यूके में स्थायी निवास नियम: गृह मंत्रालय के फैसले से भारतीयों को लाभ, केयर वर्कर पर शबाना महमूद का रुख क्या?
+
+### [बांग्लादेश में चौथे दिन भी मजदूरों का प्रदर्शन: सड़कों पर उतरे कपड़ा फैक्टरी के कर्मचारी; जगह-जगह](https://www.amarujala.com/world/bangladesh-garment-workers-protest-for-higher-wages-in-dhaka-2026-11-03)
+*Amar Ujala World* - Nov 03, 12:02 IST (iso: 2026-11-03T06:32:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/bgalthasha-ma-paratharashana_9d86893fbb725dc13e661d9642d11a1e.gif?w=1200&dpr=1.0 -->
+
+बांग्लादेश में चौथे दिन भी कपड़ा फैक्ट्री के मजदूरों ने उच्च वेतन की मांग को लेकर प्रदर्शन किया। ढाका सहित कई शहरों में सड़कों पर उतरे कर्मचारी। पुलिस ने स्थिति नियंत्रित करने के लिए जगह-जगह तैनाती की। बांग्लादेश में चौथे दिन भी मजदूरों का प्रदर्शन: सड़कों पर उतरे कपड़ा फैक्टरी के कर्मचारी; जगह-जगह पुलिस तैनात Bangladesh garment workers protest for higher wages in Dhaka।
+
+### [हार्दिक पांड्या की टीम इंडिया में वापसी कब?: शुभमन ने बताई घरेलू क्रिकेट की शर्त; कहा- फिर दूर होगी](https://www.amarujala.com/cricket/shubman-gill-says-hardik-pandya-s-return-will-solve-india-s-no-7-and-8-batting-concerns-2026-11-03)
+*Amar Ujala Breaking* - Nov 03, 12:02 IST (iso: 2026-11-03T06:32:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/shubman-gill-india-vs-new-zealand-odi-series-india-batting-order-rohit-sharma-virat-kohli-shre_c5bd147a9e36b9991fadbdd73d801ed7.jpeg?w=1200&dpr=1.0 -->
+
+शुभमन गिल का मानना है कि हार्दिक पंड्या की वापसी से भारतीय टीम की बल्लेबाजी समस्या दूर होगी। गिल ने कहा कि घरेलू क्रिकेट में अच्छा प्रदर्शन करने पर ही वह टीम में वापसी पाएंगे। शुभमन गिल का मानना है कि हार्दिक पंड्या की वापसी से भारतीय टीम के सातवें और आठवें नंबर की बल्लेबाजी की समस्या दूर हो जाएगी।
+
+### [राहुल गांधी ने कराया बड़वानी की प्रियंका की आंखों का इलाज, दिल्ली से वापस लौटी छात्रा](https://www.amarujala.com/madhya-pradesh/indore/indore-rahul-gandhi-facilitates-eye-treatment-for-priyanka-from-barwani-student-returns-from-delhi-2026-11-03)
+*Amar Ujala Breaking* - Nov 03, 12:01 IST (iso: 2026-11-03T06:31:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/mathhaya-parathasha_d937108ae941678591e161b019366f56.jpeg?w=1200&dpr=1.0 -->
+
+राहुल गांधी ने बड़वानी की छात्रा प्रियंका सेंगर का दिल्ली में मुफ्त आंख का इलाज करवाया। इंदौर के कार्यक्रम में देखी गई उसकी बीमारी के लिए यह वादा पूरा किया गया। छात्रा अब दिल्ली से वापस लौट आई है। कांग्रेस नेता राहुल गांधी ने बड़वानी की छात्रा प्रियंका सेंगर से किया अपना एक और वादा पूरा कर दिया है। इंदौर के 'छात्रों की गूंज' कार्यक्रम में मंच पर प्रियंका की आँख खराब देख राहुल ने दिल्ली में उसके मुफ्त इलाज का आश्वासन दिया था।
+
+### [इन छह भर्तियों की अंतिम तिथि आज; जल्द भर दें अपनी पसंद की नौकरी का फॉर्म](https://www.amarujala.com/jobs/government-jobs-2026-last-date-to-apply-for-32426-vacancies-today-check-details-2026-11-03)
+*Amar Ujala Breaking* - Nov 03, 11:26 IST (iso: 2026-11-03T05:56:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/sarakara-nakara-2026_adfa74fbde18ea9bf79be7fa7ead2489.jpeg?w=1200&dpr=1.0 -->
+
+तीन नवंबर 2026 को आरबीआई, बीपीएससी और अन्य संस्थानों की छह भर्तियों की अंतिम तिथि है। कुल 32,426 पदों के लिए आवेदन आज तक किए जा सकते हैं। उम्मीदवारों को तुरंत फॉर्म भरना चाहिए। आज यानी 3 नवंबर 2026 को आरबीआई, बीपीएससी, आईएलबीएस, भारतीय तटरक्षक बल और पावर फाउंडेशन ऑफ इंडिया की कई भर्तियों के लिए आवेदन की आखिरी तारीख है।
+
+### [नेपाल: आपस में टकराए दो हेलीकॉप्टर, भारतीय पर्यटक की मौत, सामने आया हादसे का वीडियो](https://www.patrika.com/world-news/nepal-helicopter-collision-solukhumbu-foreign-national-killed-21026541)
+*Patrika (World)* - Nov 03, 10:42 IST (iso: 2026-11-03T05:12:47+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Nepal-Helicopter-Crash.webp -->
+
+नेपाल के सोलुखुम्बु जिले में दो हेलीकॉप्टर के रोटर ब्लेड टकरा गए। इस हादसे में एक भारतीय पर्यटक की मौत हुई और तीन अन्य घायल हुए। घटना काठमांडू से 250 किलोमीटर दूर फेरीचे में हुई। नेपाल के सोलुखुम्बु जिले में मंगलवार सुबह एक दर्दनाक हादसा हो गया। लैंडिंग के दौरान दो हेलीकॉप्टरों के रोटर ब्लेड आपस में टकरा गए। हादसे में एक भारतीय पर्यटक की मौत हो गई, जबकि तीन अन्य लोग घायल हो गए।
+
+### [दो हेलीकॉप्टर आपस में टकराए, 1 भारतीय की गई जान, नेपाल में लैंडिंग के वक्त हुआ हादसा](https://hindi.news18.com/world/south-asia-two-helicopters-collide-in-nepal-solukhumbu-during-landing-one-foreigner-killed-10959333.html)
+*News18 Hindi (World)* - Nov 03, 10:36 IST (iso: 2026-11-03T05:06:49+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/helicopter-collision-2026-11-302045e81b872d550dfc04a4d4496722-1200x800.jpg -->
+
+नेपाल के सोलुखुम्बु जिले में दो हेलीकॉप्टर लैंडिंग के दौरान टकरा गए। इस हादसे में एक भारतीय सैलानी की मौत हो गई और एक अन्य यात्री घायल हुआ। घटना मंगलवार सुबह फेरीचे इलाके में हुई। Two Helicopters Collide: नेपाल के सोलुखुम्बु जिले के फेरीचे इलाके में मंगलवार सुबह बड़ा हादसा हो गया. यहां लैंडिंग के दौरान दो हेलिकॉप्टर आपस में टकरा गए.
+
+### [एवरेस्ट बेस कैंप पर आपस में टकराए हेलीकॉप्टर: भारतीय नागरिक की मौत; कैमरे में कैद हुआ खौफनाक मंजर](https://www.amarujala.com/world/nepal-two-helicopter-collision-at-everast-base-camp-death-toll-many-injured-2026-11-03)
+*Amar Ujala World* - Nov 03, 10:00 IST (iso: 2026-11-03T04:30:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/nepal_f289f9df9c1da7a5a19b4bbd0ad0b93e.gif?w=1200&dpr=1.0 -->
+
+एवरेस्ट बेस कैंप पर दो हेलीकॉप्टर आपस में टकरा गए। इस हादसे में एक विदेशी नागरिक की मौत हो गई और एक अन्य गंभीर रूप से घायल हुआ। कैमरे में यह खौफनाक दृश्य कैद हो गया। एवरेस्ट बेस कैंप पर आपस में टकराए हेलीकॉप्टर: भारतीय नागरिक की मौत; कैमरे में कैद हुआ खौफनाक मंजर।
+
+### [120 गरीब देशों के लिए संजीवनी बना भारत: सबसे सस्ता HIV इंजेक्शन किया तैयार, अमेरिकी FDA ने भी लगाई](https://hindi.news18.com/news/nation/india-is-lifeline-for-120-nations-develops-generic-hiv-injection-lenacapavir-us-fda-grants-approval-10959213.html)
+*News18 Hindi (World)* - Nov 03, 09:26 IST (iso: 2026-11-03T03:56:53+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/HIV-Injection-Lenacapavir-2026-11-a899b2ff6050ec3c58deecf4bea186db-1200x800.jpg -->
+
+डॉ. रेड्डीज लैबोरेटरीज द्वारा तैयार किया गया लेनाकापाविर का सस्ता जेनेरिक संस्करण अमेरिकी FDA की मंजूरी प्राप्त कर चुका है। यह साल में दो बार लगने वाला एचआईवी प्रिवेंशन इंजेक्शन 120 गरीब देशों के लिए उपलब्ध होगा। Dr Reddy HIV Injection Lenacapavir: साल में महज दो बार लगने वाले पहले एचआईवी प्रिवेंशन इंजेक्शन 'लेनाकापाविर' के सस्ते भारतीय जेनेरिक वर्जन को अमेरिकी फूड एंड ड्रग एडमिनिस्ट्रेशन ने औपचारिक मंजूरी दे दी है.
+
+### [एफबीआई ने उत्तर कोरिया का लिया नाम, भड़की किम जोंग की बहन; कहा- ये घटिया उकसावा](https://www.amarujala.com/world/north-korea-denies-involvement-binance-6-billion-crypto-hack-fbi-probe-kim-yo-jong-2026-11-03)
+*Amar Ujala World* - Nov 03, 08:34 IST (iso: 2026-11-03T03:04:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/binasa-karapata-cara_dddb9755e23e0f0f6933eb9c28b1b733.jpeg?w=1200&dpr=1.0 -->
+
+एफबीआई ने बाइनेंस के 6 अरब डॉलर के क्रिप्टो हैक में उत्तर कोरिया का नाम लिया। किम यो जोंग ने इसे घटिया उकसावा करार दिया। उत्तर कोरिया ने इस मामले में अपनी संलिप्तता से इनकार किया है। एफबीआई ने उत्तर कोरिया का लिया नाम, भड़की किम जोंग की बहन; कहा- ये घटिया उकसावा।
+
+---
+
+## अमेरिका
+
+### [वोटिंग से पहले ट्रंप के लिए बुरी खबर, सर्वे में आगे डेमोक्रेट्स, घटी लोकप्रियता](https://hindi.news18.com/world/america-us-midterm-elections-2026-live-when-voting-and-result-indian-time-donald-trump-republican-democratic-party-livenews-10958942.html)
+*News18 Hindi (World)* - Nov 03, 13:46 IST (iso: 2026-11-03T08:16:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/us-election-news-2026-11-3274dc9bcc7eb352d0a645719857aa63-1200x800.jpg -->
+
+अमेरिका में 2026 के मिडटर्म चुनावों की वोटिंग शुरू हो रही है। यह चुनाव ट्रंप के कार्यकाल के शेष समय के लिए निर्णायक साबित होगा। डेमोक्रेट्स का अंकुश लगने की संभावना है। US Midterm Elections 2026 Live: अमेरिका में मिडटर्म चुनावों की वोटिंग शुरू होने वाली है, इसके बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के काम-काज से जनता कितनी खुश है और कितनी दुखी, ये पता चल जाएगा.
+
+### [आखिर कैसे हवा में टूटने लगा लियरजेट? NTSB की Florida plane crash की जांच में क्या निकला](https://www.patrika.com/world-news/florida-learjet-60-crash-west-palm-beach-nine-dead-21026519)
+*Patrika (World)* - Nov 03, 10:17 IST (iso: 2026-11-03T04:47:19+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner.webp -->
+
+फ्लोरिडा में हुए लियरजेट हादसे की जांच में NTSB ने पाया कि विमान जमीन से टकराने से पहले हवा में ही टूटने लगा था। इस दुर्घटना में नौ लोगों की मौत हुई थी। जांच समिति ने विमान के टूटने के संकेतों की पुष्टि की है। West Palm Beach plane accident: अमेरिका के फ्लोरिडा में दो नंवबर को हुए विमान हादसे में 9 लोगों की मौत हो गई थी।
+
+### [US मिडटर्म चुनाव से पहले ट्रंप को बड़ा झटका: अप्रूवल रेटिंग गिरकर 32% पर अटकी, सर्वे में](https://www.patrika.com/world-news/us-midterm-election-trump-approval-rating-falls-democrats-lead-21026344)
+*Patrika (World)* - Nov 03, 08:54 IST (iso: 2026-11-03T03:24:06+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Trump-Voter-Data.webp -->
+
+रॉयटर्स और इप्सोस के सर्वे में ट्रंप की अप्रूवल रेटिंग 32 प्रतिशत पर गिर गई। यह आंकड़ा पिछले हफ्ते के 31 प्रतिशत के न्यूनतम स्तर के करीब है। सर्वे में 1,765 अमेरिकी नागरिकों से बात की गई। US Midterm Election: अमेरिका में नई कांग्रेस चुनने के लिए हो रहे मिडटर्म इलेक्शन से पहले राष्ट्रपति डोनाल्ड ट्रंप की लोकप्रियता अपने सबसे निचले स्तर के करीब है।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [ईरान ने भारत को क्यों कहा शुक्रिया? दोस्ती को बताया मिसाल, 48 घंटे समुद्री लुटेरों से जूझती रहीं](https://hindi.news18.com/world/middle-east-iran-thanks-india-for-rescuing-20-irani-citizens-call-friendship-is-commendable-ws-l-10960080.html)
+*News18 Hindi (World)* - Nov 03, 13:37 IST (iso: 2026-11-03T08:07:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Iran-Ask-india-For-Help-2026-08-72e6987377aca0d9826fc1026364cb0f-1200x800.jpg -->
+
+ईरान ने भारत को 20 नागरिकों की मुक्ति के लिए धन्यवाद दिया। भारतीय नौसेना ने समुद्री लुटेरों से इन नागरिकों को बचाया। ईरान ने इस सहयोग को द्विपक्षीय संबंधों की मिसाल बताया। Iran Thanks India for Help: एक तरफ अमेरिका ने ईरान पर हमला कर दिया है, वहीं दूसरी ओर ईरान ने भारत को शुक्रिया कहा है. दरअसल भारत ने ईरान के 20 नागरिकों को समुद्री लुटेरों के चंगुल से छुड़ाया है.
+
+### [ओमान तट में हुआ भारतीय जहाज पर अटैक, एक नाविक की मौत, 13 को बचाया गया](https://hindi.news18.com/world/middle-east-indian-vessel-carrying-hit-by-aerial-object-off-oman-coast-14-crew-a-seafarer-killed-after-ws-l-10959565.html)
+*News18 Hindi (World)* - Nov 03, 12:33 IST (iso: 2026-11-03T07:03:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/oman-attack-2026-11-d8be4f205ab02ce3cdbb48c8ea2e996f-1200x800.jpg -->
+
+ओमान तट पर भारतीय जहाज पर हमला हुआ। 14 नाविकों में से एक की मौत हो गई। शेष 13 नाविकों को सुरक्षित बचाया गया। स्ट्रेट ऑफ होर्मुज में तनाव बना हुआ है। Indian vessel hit at Oman coast: स्ट्रेट ऑफ होर्मुज में एक बार फिर से तनाव का माहौल बना हुआ है. ओमान के समुद्री क्षेत्र से बुरी खबर ये आई है कि यहां पर एक भारतीय जहाज पर हमला हुआ है.
+
+### [ईरान की दो टूक: बातचीत से सुलझाएंगे संकट, लेकिन दुश्मनों के आगे नहीं झुकेंगे; होर्मुज पर भी रखी शर्त](https://www.patrika.com/world-news/iran-us-tension-iran-dialogue-hormuz-strait-news-21026866)
+*Patrika (World)* - Nov 03, 12:28 IST (iso: 2026-11-03T06:58:05+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Masoud-Pezeshkian-and-Donald-Trump.webp -->
+
+ईरान के राष्ट्रपति पेजेशकियन ने बातचीत के जरिए संकट सुलझाने की इच्छा जताई। उन्होंने अमेरिका पर आर्थिक दबाव और व्यापार रोकने का आरोप लगाया। ईरान राष्ट्रीय हितों पर समझौता नहीं करेगा। Iran US War Latest News: मध्य पूर्व में अभी माहौल काफी तनावपूर्ण है, लेकिन ईरान ने अपनी रणनीति बिल्कुल साफ कर दी है। वो बातचीत के जरिए संकट का हल चाहता है, मगर अपने राष्ट्रीय हितों और शर्तों पर कोई समझौता नहीं करने वाला।
+
+### [समुद्र में भारतीय नौसेना का शौर्य: समुद्री लुटेरों के चंगुल से 20 ईरानियों को बचाया; तेहरान ने कहा-](https://www.amarujala.com/world/indian-navy-rescues-20-iranian-crew-members-from-somali-pirates-iran-thanks-india-2026-11-03)
+*Amar Ujala Breaking* - Nov 03, 12:19 IST (iso: 2026-11-03T06:49:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/bharataya-nasana-vayasana-na-iiranaya-ka-bcaya_b410820d76e3267d85f7847cfb64adf6.jpeg?w=1200&dpr=1.0 -->
+
+भारतीय नौसेना ने अरब सागर में समुद्री डाकुओं से 20 ईरानी मछुआरों को बचाया। यह 48 घंटे का अभियान मुंबई से 3000 किलोमीटर दूर पूरा हुआ। ईरान ने इस सफलता के लिए भारत का आभार जताया। समुद्र में भारतीय नौसेना का शौर्य: समुद्री लुटेरों के चंगुल से 20 ईरानियों को बचाया; तेहरान ने कहा-।
+
+### [क्षेत्रीय हथियार नियंत्रण प्रस्ताव के खिलाफ भारत-इस्राइल का मतदान, कहा- सीमा तक सीमित नहीं सुरक्षा](https://www.amarujala.com/world/india-israel-vote-against-pakistan-belarus-un-conventional-arms-control-resolution-unga-2026-11-03)
+*Amar Ujala World* - Nov 03, 12:14 IST (iso: 2026-11-03T06:44:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/unga_faa8b79ed0926a838a1e5db9b7560c2f.jpeg?w=1200&dpr=1.0 -->
+
+संयुक्त राष्ट्र में क्षेत्रीय हथियार नियंत्रण प्रस्ताव पर भारत और इस्राइल ने विरोधी मत दिया। दोनों देशों ने कहा कि सुरक्षा चिंताएं सीमाओं तक सीमित नहीं हैं। यह प्रस्ताव पाकिस्तान और बेलारूस से जुड़ा था। क्षेत्रीय हथियार नियंत्रण प्रस्ताव के खिलाफ भारत-इस्राइल का मतदान, कहा- सीमा तक सीमित नहीं सुरक्षा।
+
+### [सोमालिया के समुद्री डाकुओं से 20 लोगों को बचाया तो ईरान ने भारत को कहा ‘Thank You’, 48 घंटे चला था](https://www.patrika.com/world-news/iran-thanks-india-for-rescuing-20-crew-members-from-pirates-21026759)
+*Patrika (World)* - Nov 03, 12:12 IST (iso: 2026-11-03T06:42:59+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/20-Iranian-crew-members.webp -->
+
+भारतीय नौसेना ने अरब सागर में समुद्री डाकुओं से 20 ईरानी क्रू सदस्यों को सुरक्षित बचाया। यह 48 घंटे का अभियान मुंबई से 3000 किलोमीटर दूर पूरा हुआ। ईरानी दूतावास ने भारत सरकार और नौसेना की सराहना की। Arabian Sea Pirates: अरब सागर में समुद्री डाकुओं के कब्जे से मछली पकड़ने वाले जहाज ‘अजिनी’ के 20 ईरानी क्रू सदस्यों को सुरक्षित बचाने पर ईरान ने भारत का आभार जताया है।
+
+### [मिडटर्म गया भाड़ में, ट्रंप ने पहले ही चीर दिया होर्मुज का दिल? डिफेंस तो बहाना, मकसद है ईरान को](https://hindi.news18.com/world/middle-east-us-attack-on-qeshm-island-before-mid-term-election-call-is-defensive-oil-lpg-prices-rise-ws-l-10959747.html)
+*News18 Hindi (World)* - Nov 03, 11:56 IST (iso: 2026-11-03T06:26:10+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/trump-iran-2026-09-d102dfd6fa2ec31528d86cfd5aa368d6-1200x800.jpg -->
+
+अमेरिका ने ईरान के केश्म द्वीप पर हमला कर सीजफायर तोड़ दिया। इसे रक्षात्मक कार्रवाई बताया गया, लेकिन तेल और गैस के दामों पर असर पड़ने की आशंका है। यह कदम अमेरिका-इजरायल वार्ता के बाद उठा गया। Why US Attack on Qeshm Island: अमेरिका-इजरायल के बीच कई दिनों से इस बात को लेकर वार्ता चल रही थी कि ईरान पर दोबारा से हमले कब शुरू किए जाएं?
 
 ---
 
@@ -12,165 +150,27 @@
 
 रूसी सेना ने यूक्रेन के राहत केंद्रों और शेल्टरों पर बमबारी की। इस हमले में 26 लोगों की मौत हुई। क्षेत्र में परमाणु हमले की अफवाहें भी फैली हैं। राहत केंद्र और शेल्टर पर बरसाए बम, 26 लोगों की मौत; फैली परमाणु हमले की अफवाह।
 
-### [700 साल से पाताल में छिपी दूसरी दुनिया, नमक से बना शहर, इमारतें-झील-चर्च देख वैज्ञानिक दंग](https://hindi.news18.com/world/rest-of-world-700-year-old-underground-salt-mine-is-actually-a-hidden-city-with-all-facilities-amazing-places-on-earth-photogallery-10958708.html)
-*News18 Hindi (World)* - Nov 03, 06:16 IST (iso: 2026-11-03T00:46:02+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/salt-mine-cover-2026-11-cc8c7482106a6f39d0f748294fd35edc-1200x800.jpg -->
+### [यूक्रेन पर परमाणु मिसाइल दागने रहा था रूस? आधी रात मोबाइल पर रेडिएशन अलर्ट से दहले लोग, App पर क्या](https://hindi.news18.com/news/knowledge/how-systems-in-russia-and-ukraine-hacked-false-alert-of-radiation-and-air-attack-on-emergency-app-10959827.html)
+*News18 Hindi (World)* - Nov 03, 12:20 IST (iso: 2026-11-03T06:50:41+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Untitled-design-2026-11-03T121444.666-2026-11-88b89c2429539df5a062a430b304d64c-1200x800.jpg -->
 
-पोलैंड की विएलिज्का नमक खदान में जमीन के नीचे एक विशाल संरचना है। वहां चर्च, झील और हॉल मौजूद हैं। यह सात सौ साल पुरानी खदान अब पर्यटकों का आकर्षण केंद्र बनी है। Underground Mysterious Salt Mine: कल्पना कीजिए कि आप जमीन के नीचे उतरें और वहां आपको एक खूबसूरत चर्च, चमचमाती झील, शानदार मूर्तियां और रोशनी से जगमगाते बड़े-बड़े हॉल दिखाई दें.
-
----
-
-## एशिया-प्रशांत
-
-### [गृह मंत्रालय के फैसले से भारतीयों को लाभ, केयर वर्कर पर शबाना महमूद का रुख क्या?](https://www.amarujala.com/world/uk-5-year-settlement-right-for-care-workers-benefit-for-indians-shabana-mahmood-immigration-rules-andy-burnham-2026-11-03)
-*Amar Ujala World* - Nov 03, 12:22 IST (iso: 2026-11-03T06:52:21+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/13/uk-could-make-migrants-wait-up-to-20-years-before-becoming-settled_5a170eb580af93b91986f3ff6a0cc6b2.jpeg?w=1200&dpr=1.0 -->
-
-यूक्रेन के गृह मंत्रालय ने स्थायी निवास नियमों में बदलाव किया है। इससे भारतीय नागरिकों को लाभ होगा। शबाना महमूद केयर वर्कर नीति पर अपना रुख स्पष्ट करने के लिए प्रतीक्षित हैं। यूके में स्थायी निवास नियम: गृह मंत्रालय के फैसले से भारतीयों को लाभ, केयर वर्कर पर शबाना महमूद का रुख क्या?
-
-### [टी20 सीरीज जीती, अब वनडे की बारी: 50 ओवर के प्रारूप में आसान नहीं राह, दोनों टीमों के बीच है कांटे](https://www.amarujala.com/cricket/cricket-news/ind-vs-nz-odi-team-india-and-new-zealand-head-to-head-record-in-odi-format-details-all-you-need-to-know-2026-11-02)
-*Amar Ujala National* - Nov 03, 06:01 IST (iso: 2026-11-03T00:31:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/02/ind_44ecddcc737eb8ccd76b47a6909b1b0f.jpeg?w=1200&dpr=1.0 -->
-
-भारत ने न्यूजीलैंड के खिलाफ टी20 सीरीज जीत ली है। अब दोनों टीमों के बीच पांच मैचों की वनडे सीरीज खेली जाएगी। वनडे प्रारूप में भारत के लिए राह आसान नहीं होगी। भारत और न्यूजीलैंड के बीच टी20 सीरीज खत्म हो चुकी है और अब बारी पांच मैचों की वनडे सीरीज की है। भारत ने टी20 सीरीज अपने नाम की थी, लेकिन अब उसके सामने वनडे की चुनौती होगी।
-
-### [दिल्ली में फिर जहरीली हुई हवा: पराली-वाहनों के धुएं से बढ़ी मुसीबत, अगले 3 दिनों में हालात और](https://www.amarujala.com/delhi-ncr/air-in-delhi-turns-toxic-again-stubble-burning-and-vehicle-emissions-exacerbate-crisis-conditions-expected-to-2026-11-03)
-*Amar Ujala Breaking* - Nov 03, 04:06 IST (iso: 2026-11-02T22:36:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/jaharal-haii-thall-ka-hava_5ac75fd4c0dfaafd5d48550f7edd9dda.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली में वायु गुणवत्ता खराब हो गई। पड़ोसी राज्यों के 19 जिलों से आने वाले प्रदूषकों और वाहनों के धुएं ने स्थिति बिगाड़ी। अगले तीन दिनों में हालात और बिगड़ने का अनुमान है। मौसमी दशाओं के प्रतिकूल होते ही सोमवार को दिल्ली की हवा एक बार फिर प्रदूषण की चपेट में आ गई। राजधानी में प्रदूषण बढ़ाने में पड़ोसी राज्यों के 19 जिलों से आने वाले प्रदूषकों और वाहनों के धुएं की प्रमुख भूमिका रही।
-
-### [एनएसए डोभाल ने शीर्ष मंत्रियों के साथ की बैठक; व्यापार के साथ-साथ सुरक्षा और मजबूत संबंध पर जोर](https://www.amarujala.com/world/nsa-doval-holds-talks-with-vietnamese-ministers-discusses-ways-boost-security-cooperation-from-security-trade-2026-11-03)
-*Amar Ujala Breaking* - Nov 03, 02:06 IST (iso: 2026-11-02T20:36:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/vayatanama-thara-para-enaesae-dabhal_0438281f96e6775b86f7ddc1a16aa3e0.jpeg?w=1200&dpr=1.0 -->
-
-एनएसए डोभाल ने हनोई में वियतनामी मंत्रियों से मुलाकात की। बैठक में सुरक्षा सहयोग और व्यापार संबंधों को मजबूत करने पर चर्चा हुई। दोनों देशों ने द्विपक्षीय संबंधों को और गहरा करने का संकेत दिया। एनएसए डोभाल ने शीर्ष मंत्रियों के साथ की बैठक; व्यापार के साथ-साथ सुरक्षा और मजबूत संबंध पर जोर।
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [अमेरिका ने ईरान पर किया हमला, मध्यावधि चुनाव के बीच केशम द्वीप पर बरसाए बम](https://www.patrika.com/world-news/us-attack-iran-qeshm-island-midterm-elections-21026253)
-*Patrika (World)* - Nov 03, 06:46 IST (iso: 2026-11-03T01:16:31+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-2.webp -->
-
-अमेरिकी सेना ने ईरान के केशम द्वीप पर बमबारी की। यह हमला अमेरिका के मध्यावधि चुनावों से ठीक पहले हुआ। यह हाल के हफ्तों में सबसे ताजा कार्रवाई है। US-Iran tension: अमेरिका ने ईरान पर बड़ा हमला किया है। अमेरिका में होने वाले मध्यावधि चुनाव से कुछ ही समय पहले अमेरिकी सेना ने बड़ी कार्रवाई की है। अमेरिकी अधिकारियों के अनुसार, सोमवार को अमेरिका ने ईरान के केशम द्वीप पर हमला किया।
-
-### [रूस-यूक्रेन युद्ध खत्म कराने की नई कोशिश, 10-11 नवंबर को अबू धाबी में होगी बातचीत, अमेरिका करेगा](https://www.patrika.com/world-news/us-mediate-russia-ukraine-peace-talks-abu-dhabi-november-10-11-21026249)
-*Patrika (World)* - Nov 03, 06:41 IST (iso: 2026-11-03T01:11:27+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Steve-Witkoff.webp -->
-
-अमेरिका अबू धाबी में रूस-यूक्रेन वार्ता की मध्यस्थता करेगा। कार्य-स्तरीय बैठक 10 और 11 नवंबर को होगी। विशेष दूत स्टीव विटकॉफ ने इसकी पुष्टि की। Russia-Ukraine Peace Talks: अमेरिका ने यूक्रेन और रूस के बीच ढाई साल से अधिक समय से चल रहे युद्ध को समाप्त कराने के लिए एक और राजनयिक पहल शुरू की है। अमेरिका के विशेष दूत स्टीव विटकॉफ ने जानकारी दी कि अमेरिका संयुक्त अरब अमीरात (UAE) की राजधानी अबू धाबी में 10 और 11 नवंबर को यूक्रेन और रूस के बीच होने वाली कार्य-स्तरीय वार्ता में मध्यस्थता करेगा।
-
-### [ईरान के केश्म द्वीप में 5 धमाके, स्ट्रेट ऑफ होर्मुज में भी बढ़ा तनाव, कौन उड़ा रहा है रहस्यमयी जेट?](https://hindi.news18.com/world/middle-east-five-explosions-heard-at-iran-qeshm-island-two-aircrafts-flying-over-amid-trump-signals-deal-ws-l-10959010.html)
-*News18 Hindi (World)* - Nov 03, 06:34 IST (iso: 2026-11-03T01:04:42+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/qeshm-island-2026-11-604083a6db9d3a5d93d97a5bfb3563f3-1200x800.jpg -->
-
-ईरान के केश्म द्वीप पर पांच धमाके हुए और दो अज्ञात विमान देखे गए। होर्मुज जलडमरूमध्य में तनाव बढ़ा है। अभी तक यह स्पष्ट नहीं है कि यह घटना किसने की। Iran Qeshm Island Explosion: ईरान के दक्षिणी केश्म आइलैंड में लगातार पांच धमाकों की आवाज सुनाई दी है. आपको बता दें कि ये धमाके बेहद संवेदनशील इलाके में हुए हैं लेकिन अब तक ये साफ नहीं है कि ये हमले किए किसने हैं.
-
-### [केशम द्वीप पर पांच विस्फोट के साथ दो विमान दिखे, क्या बढ़ेगा ईरान-अमेरिका तनाव?](https://www.amarujala.com/world/explosions-in-iran-near-hormuz-five-blasts-heard-on-qeshm-island-two-aircraft-spotted-will-tensions-rise-again-2026-11-03)
-*Amar Ujala Breaking* - Nov 03, 06:11 IST (iso: 2026-11-03T00:41:33+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/10/kashama-thavapa-ka-pasa-thhamaka-ka-aavaja_f21f524b1b2e7d49e8218bc80b7644e9.jpeg?w=1200&dpr=1.0 -->
-
-ईरान के केश्म द्वीप पर पांच विस्फोट हुए और दो विमान दिखाई दिए। होर्मुज जलडमरूमध्य के पास यह घटना हुई। इससे ईरान और अमेरिका के बीच तनाव बढ़ने का खतरा है। केशम द्वीप पर पांच विस्फोट के साथ दो विमान दिखे, क्या बढ़ेगा ईरान-अमेरिका तनाव?
-
-### [अमेरिका में ट्रंप की साख दांव पर, जानें भारतीय समय के मुताबिक कब है वोटिंग और रिजल्ट?](https://hindi.news18.com/world/america-us-midterm-elections-2026-live-when-voting-and-result-indian-time-donald-trump-republican-democratic-party-livenews-10958942.html)
-*News18 Hindi (World)* - Nov 03, 06:08 IST (iso: 2026-11-03T00:38:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/us-election-news-2026-11-3274dc9bcc7eb352d0a645719857aa63-1200x800.jpg -->
-
-अमेरिका में 2026 के मिडटर्म चुनावों की वोटिंग शुरू हो रही है। यह चुनाव ट्रंप के कार्यकाल के शेष समय के लिए निर्णायक साबित होगा। डेमोक्रेट्स का अंकुश लगने की संभावना है। US Midterm Elections 2026 Live: अमेरिका में मिडटर्म चुनावों की वोटिंग शुरू होने वाली है, इसके बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के काम-काज से जनता कितनी खुश है और कितनी दुखी, ये पता चल जाएगा.
-
-### [वेनेजुएला में चुनाव तैयारियों पर जोर, रुबियो को कमान; अफ्रीका में किसान पर हमला, पांच गिरफ्तार](https://www.amarujala.com/world/world-updates-venezuela-elections-rubio-west-asia-russia-ukraine-tension-africa-bangladesh-china-politics-news-2026-11-03)
-*Amar Ujala World* - Nov 03, 04:24 IST (iso: 2026-11-02T22:54:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0 -->
-
-वेनेजुएला में चुनाव तैयारियां तेज हुईं और रुबियो को कमान सौंपी गई। अफ्रीका में एक किसान पर हमला हुआ। इस घटना के बाद पांच लोगों को गिरफ्तार किया गया। दोनों ही घटनाओं ने स्थानीय स्थिति को प्रभावित किया। वर्ल्ड अपडेट्स: वेनेजुएला में चुनाव तैयारियों पर जोर, रुबियो को कमान; अफ्रीका में किसान पर हमला, पांच गिरफ्तार।
+यूक्रेन और रूस के इमरजेंसी अलर्ट सिस्टम पर साइबर हमला हुआ। लोगों के फोन पर परमाणु हमले के फर्जी संदेश भेजे गए। इससे दोनों देशों में दहशत फैली। दोनों देशों के बीच ऐसा पहली बार नहीं हुआ है. लेकिन यहां सवाल है कि आखिर ये अलर्ट ऐप कैसे काम करते हैं, हैकर्स ने इनमें सेंध कैसे लगाई और इस तरह के फर्जी संदेश किसी देश में कितनी बड़ी दहशत पैदा कर सकते हैं?
 
 ---
 
 ## दुनिया
 
-### [राइट्स में सीनियर टेक्निकल असिस्टेंट के पदों पर भर्ती: कब तक कर सकते हैं आवेदन? जानें चयन प्रक्रिया](https://www.amarujala.com/jobs/rites-senior-technical-assistant-recruitment-2026-apply-online-for-31-posts-check-eligibility-and-salary-2026-11-03)
-*Amar Ujala National* - Nov 03, 06:45 IST (iso: 2026-11-03T01:15:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/12/19/jobs_9769fb83001e98e4fbd865f3888bdd15.jpeg?w=1200&dpr=1.0 -->
+### [452 करोड़ कमाने वाली फिल्म के राइट्स को लेकर मचा बवाल? मेकर्स ने जारी किया स्टेटमेंट](https://www.amarujala.com/entertainment/hanuman-ansh-rift-in-between-director-and-producer-makers-issue-statement-film-rights-2026-11-03)
+*Amar Ujala Breaking* - Nov 03, 11:34 IST (iso: 2026-11-03T06:04:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/hanamana-asha_fa4be5d7e37a27a16613b9cb57eddba2.jpeg?w=1200&dpr=1.0 -->
 
-राइट्स लिमिटेड ने सीनियर टेक्निकल असिस्टेंट के 31 पदों के लिए भर्ती निकाली है। सिविल इंजीनियरिंग डिप्लोमा और दो साल अनुभव वाले उम्मीदवार 22 नवंबर 2026 तक आवेदन कर सकते हैं। रेलवे मंत्रालय के अधीन राइट्स लिमिटेड ने सीनियर टेक्निकल असिस्टेंट के 31 पदों पर भर्ती निकाली है। सिविल इंजीनियरिंग में डिप्लोमा और दो साल का अनुभव रखने वाले उम्मीदवार 22 नवंबर 2026 तक ऑनलाइन आवेदन कर सकते हैं।
+फिल्म 'हनुमान अंश' के राइट्स और प्रचार को लेकर निर्देशक और प्रोड्यूसर के बीच मतभेद सामने आए। फिल्म ने 400 करोड़ रुपये से अधिक की कमाई की थी। मेकर्स ने इस बवाल को लेकर अपना स्टेटमेंट जारी किया है। फिल्म 'हनुमान अंश' नीम करोली बाबा के जीवन पर बनी थी। इस मूवी ने सिनेमाघरों में 400 करोड़ से ज्यादा का कारोबार किया।
 
-### [पुणे मेट्रो से जुड़ी परियोजनाओं का उद्घाटन करेंगे पीएम मोदी, रक्षा मंत्री का जैसलमेर दौरा](https://www.amarujala.com/india-news/03-november2026-major-event-2026-2026-11-02)
-*Amar Ujala National* - Nov 03, 06:42 IST (iso: 2026-11-03T01:12:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/02/aaja-ka-khabra_8f5a80c9343291ec77c65c5d28c4ae54.gif?w=1200&dpr=1.0 -->
+### [को-पायलट ने बॉयफ्रेंड को भेजा था क्या आखिरी संदेश? 17 साल की उम्र में मिला पायलट लाइसेंस](https://www.amarujala.com/world/florida-learjet-crash-20-year-old-co-pilot-nathalia-filgueiras-mayday-call-2026-11-03)
+*Amar Ujala World* - Nov 03, 09:42 IST (iso: 2026-11-03T04:12:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/florida-plane-crash_adcce13cbc569b8a057a9844dc466d77.jpeg?w=1200&dpr=1.0 -->
 
-प्रधानमंत्री मोदी पुणे मेट्रो से जुड़ी परियोजनाओं का उद्घाटन करेंगे। इसी अवसर पर रक्षा मंत्री जैसलमेर का दौरा करेंगे। यह कार्यक्रम 3 नवंबर 2026 को होगा। पुणे मेट्रो से जुड़ी परियोजनाओं का उद्घाटन करेंगे पीएम मोदी, रक्षा मंत्री का जैसलमेर दौरा।
-
-### [आंध्र प्रदेश के तट से टकराया तूफान, लैंडफॉल की प्रक्रिया जारी; कई जगह तेज हवाओं के साथ बारिश](https://www.amarujala.com/live/india-news/cyclone-murasu-landfall-andhra-imd-rainfall-strong-winds-bay-of-bengal-storm-ongole-impact-hindi-news-updates-2026-11-03)
-*Amar Ujala National* - Nov 03, 06:32 IST (iso: 2026-11-03T01:02:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/cakaravata-marasa-tata-sa-takaraya_4aca03acc16335235c3ac65e35ab375f.jpeg?w=1200&dpr=1.0 -->
-
-चक्रवात मुरासु आंध्र प्रदेश के तट पर उतरा। कई जगह तेज हवाओं के साथ भारी बारिश हो रही है। लैंडफॉल की प्रक्रिया जारी है और स्थिति गंभीर बनी हुई है। चक्रवात मुरासु: आंध्र प्रदेश के तट से टकराया तूफान, लैंडफॉल की प्रक्रिया जारी; कई जगह तेज हवाओं के साथ बारिश।
-
-### [तीसरे चरण में 27 जिलों की सियासी परीक्षा, 9 हजार से ज्यादा प्रत्याशी मैदान में](https://www.amarujala.com/rajasthan/jaipur/rajasthan-panchayat-elections-over-9-000-candidates-in-fray-as-27-districts-vote-in-third-phase-2026-11-03)
-*Amar Ujala Breaking* - Nov 03, 06:15 IST (iso: 2026-11-03T00:45:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/pacayata-canava_a6bafc602c2b68412762504d9e18a93b.jpeg?w=1200&dpr=1.0 -->
-
-राजस्थान में पंचायत चुनाव के तीसरे चरण में 27 जिलों में मतदान होगा। 2496 वार्डों के लिए 9094 प्रत्याशी मैदान में हैं। एक करोड़ से अधिक मतदाता इनकी किस्मत तय करेंगे। राजस्थान में पंचायत चुनाव के तीसरे चरण में 27 जिलों के 2496 वार्डों के लिए मतदान होगा। एक करोड़ से अधिक मतदाता 9094 प्रत्याशियों की किस्मत तय करेंगे। भरतपुर, दौसा और हनुमानगढ़ में उम्मीदवारों की संख्या के लिहाज से मुकाबला दिलचस्प है।
-
-### [नवंबर में किन राशि के लोगों को मिलेगी खुशियां और किसे रहना है सावधान, पढ़ें सभी 12 राशियों की](https://www.amarujala.com/photo-gallery/astrology/predictions/november-predictions-2026-for-all-zodiac-sign-in-hindi-know-november-ka-monthly-rashifal-2026-11-01)
-*Amar Ujala National* - Nov 03, 06:09 IST (iso: 2026-11-03T00:39:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/01/november-predictions-2026_71520efe1c35a3785f72a72de2f7d4ac.jpeg?w=1200&dpr=1.0 -->
-
-नवंबर 2026 में ग्रहों की स्थिति बदल रही है। कुछ राशियों को करियर और कारोबार में सफलता मिलेगी। अन्य राशियों के लिए तरक्की और धन लाभ के नए रास्ते खुलेंगे। इस माह ग्रहों की बदलती चाल से कुछ राशि वालों को करियर और कारोबार में सफलता मिल सकती है, तो कुछ के लिए तरक्की और धन लाभ के नए रास्ते खुल सकते हैं।
-
-### [रणबीर कपूर या यश? जानें नितेश तिवारी की स्टारकास्ट में कौन सबसे अमीर](https://www.amarujala.com/entertainment/ramayana-starcast-net-worth-from-ranbir-kapoor-yash-to-sai-pallavi-sunny-deol-2026-11-02)
-*Amar Ujala National* - Nov 03, 06:08 IST (iso: 2026-11-03T00:38:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/02/ramayanae_790abfa94d5cdecf4c275d74c8b38814.jpeg?w=1200&dpr=1.0 -->
-
-नितेश तिवारी की फिल्म 'रामायण' का पहला भाग 5 नवंबर को रिलीज होगा। रणबीर कपूर, यश और साई पल्लवी इसमें मुख्य भूमिकाओं में हैं। फिल्म की स्टारकास्ट में सबसे अमीर कलाकार कौन है, यह जानने के लिए। नितेश तिवारी के निर्देशन में बनी फिल्म 'रामायण' का पहला पार्ट 5 नवंबर को रिलीज होने वाला है। फिल्म में रणबीर कपूर कपूर के साथ यश, साई पल्लवी समेत कई कलाकार नजर आने वाले हैं।
-
-### [Weather Forecast 03 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-03-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-03)
-*Amar Ujala National* - Nov 03, 06:00 IST (iso: 2026-11-03T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/weather-forecast_588b21b653106409410da5cc83d31aee.jpeg?w=1200&dpr=1.0 -->
-
-3 नवंबर 2026 के मौसम का पूर्वानुमान जारी किया गया है। यह रिपोर्ट देश के विभिन्न क्षेत्रों में मौसम की स्थिति बताती है। पाठक अपने स्थान का मौसम जांच सकते हैं।
-
-### [चैरिटी के नाम पर सरकार सख्त: ऑनलाइन शॉपिंग में नहीं चलेगी कंपनियों की मनमानी, बिना पूछे नहीं कटेगा](https://www.amarujala.com/business/bonus/government-takes-strict-stance-regarding-charity-companies-no-longer-allowed-act-arbitrarily-online-shopping-2026-11-03)
-*Amar Ujala National* - Nov 03, 05:58 IST (iso: 2026-11-03T00:28:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/06/oinalina-shapaga-karata-samaya-kaya-bta-thhayana-rakha_198aa008e9c3993f9ceea2d35cb9cd8e.jpeg?w=1200&dpr=1.0 -->
-
-भारत सरकार ने ऑनलाइन शॉपिंग में चैरिटी के नाम पर किए जाने वाले अनधिकृत कटौती पर सख्त रुख अपनाया है। अब कंपनियों को बिना ग्राहक की सहमति के कोई भी राशि नहीं काटनी होगी। यह कदम उपभोक्ताओं की रक्षा के लिए उठाया गया है। चैरिटी के नाम पर सरकार सख्त: ऑनलाइन शॉपिंग में नहीं चलेगी कंपनियों की मनमानी, बिना पूछे नहीं कटेगा।
-
-### [ट्राई ने बदले शिकायत निवारण के नियम: अपील की समयसीमा 30 से घटाकर 15 दिन की; दिव्यांगों के लिए अलग](https://www.amarujala.com/technology/tech-diary/trai-revised-rules-deadline-filing-appeal-reduced-30-to-15-days-separate-helpline-introduced-for-disabilities-2026-11-03)
-*Amar Ujala National* - Nov 03, 05:35 IST (iso: 2026-11-03T00:05:53+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/sakataka-tasavara_5446b05818348819a07388e1e2010c2d.jpeg -->
-
-ट्राई ने टेलीकॉम सेवाओं से जुड़ी शिकायतों की अपील की समयसीमा घटा दी है। अब अपील दाखिल करने की अवधि 30 दिन से घटाकर 15 दिन कर दी गई है। दिव्यांग उपभोक्ताओं के लिए अलग हेल्पलाइन भी शुरू की गई है। ट्राई ने बदले शिकायत निवारण के नियम: अपील की समयसीमा 30 से घटाकर 15 दिन की; दिव्यांगों के लिए अलग।
-
-### [कहीं हुई जमकर बिक्री, कहीं पसरा रहा सन्नाटा, रेहड़ी-पटरी वालों की हुई बंपर कमाई](https://www.amarujala.com/delhi-ncr/impact-of-rally-in-delhi-brisk-sales-in-some-areas-silence-in-others-street-vendors-see-a-windfall-2026-11-03)
-*Amar Ujala Breaking* - Nov 03, 04:26 IST (iso: 2026-11-02T22:56:15+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/thall-ma-ral-ka-asara_045996770ce3b90ad4c6d93d2464df7b.jpeg?w=1200&dpr=1.0 -->
-
-रैली के दौरान स्थानीय विक्रेताओं को बंपर कमाई हुई। एक विक्रेता ने दिनभर में 200 किलो संतरे का रस बेचा। दूसरे ने 20 लीटर दूध वाली चाय की बिक्री की। भीड़ के कारण व्यापार में उल्लेखनीय वृद्धि दर्ज की गई। रैली खत्म हुई तो सड़कों से भीड़ छंटने लगी, लेकिन रविवार की कमाई का हिसाब दुकानदारों के पास रह गया।
-
----
-
-## अमेरिका
-
-### [आंध्र तट से टकराया चक्रवात मुरासु; अमेरिका में आज मध्यावधि चुनाव के मतदान; मैक्सवेल ने लिया संन्यास](https://www.amarujala.com/india-news/top-news-cyclone-murasu-hits-andhra-coast-midterm-elections-voting-in-us-today-maxwell-announces-retirement-2026-11-03)
-*Amar Ujala Breaking* - Nov 03, 05:18 IST (iso: 2026-11-02T23:48:15+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
-
-चक्रवात मुरासु ने आंध्र प्रदेश के तट से टक्कर मारी है। इसी दिन अमेरिका में मध्यावधि चुनाव के लिए मतदान हुआ। क्रिकेटर जेम्स मैक्सवेल ने अंतरराष्ट्रीय क्रिकेट से संन्यास लेने की घोषणा की। आंध्र तट से टकराया चक्रवात मुरासु; अमेरिका में आज मध्यावधि चुनाव के मतदान; मैक्सवेल ने लिया संन्यास।
-
-### [आज होंगे मतदान, प्रतिनिधि सभा की 435 और सीनेट की 35 सीटों के लिए वोटिंग](https://www.amarujala.com/world/us-midterm-elections-voting-updates-house-of-representatives-435-seats-senate-35-battlegrounds-prez-trump-news-2026-11-03)
-*Amar Ujala World* - Nov 03, 05:13 IST (iso: 2026-11-02T23:43:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/02/amaraka-mathhayavathha-canava_ac32ce4610694c468192b19a78d489e4.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका में मध्यावधि चुनाव के लिए मतदान प्रक्रिया शुरू हो गई है। प्रतिनिधि सभा की 435 सीटों के लिए वोटिंग हो रही है। साथ ही सीनेट की 35 सीटों के लिए भी मतदाता बॉक्स के पास पहुंचे हैं। अमेरिका मध्यावधि चुनाव: आज होंगे मतदान, प्रतिनिधि सभा की 435 और सीनेट की 35 सीटों के लिए वोटिंग।
-
-### [प्रचार में ट्रंप का आखिरी दांव; एक और मौके का जिक्र क्यों? 127 वादों की सूची में क्या?](https://www.amarujala.com/world/us-midterm-elections-trump-final-gambit-campaign-trail-mention-another-chance-and-what-his-list-127-promises-2026-11-03)
-*Amar Ujala Breaking* - Nov 03, 04:24 IST (iso: 2026-11-02T22:54:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/rashhatarapata-danalda-tarapa_fa8ee7b58cfd747629ecedd5df9825b8.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप ने अमेरिकी मध्यावधि चुनावों के लिए 127 वादों की सूची जारी की। इसमें नौकरियों और आर्थिक सुधारों पर जोर दिया गया। प्रचार अभियान में यह उनके अंतिम प्रमुख प्रयास के रूप में उभरा। अमेरिका मध्यावधि चुनाव: प्रचार में ट्रंप का आखिरी दांव; एक और मौके का जिक्र क्यों? 127 वादों की सूची में क्या?
+फ्लोरिडा विमान हादसे में मारी गई 20 वर्षीय को-पायलट ने 17 साल की उम्र में पायलट लाइसेंस प्राप्त किया था। जांच में सामने आया कि उसने हादसे से पहले अपने बॉयफ्रेंड को संदेश भेजा था। फ्लोरिडा विमान हादसा: महिला को-पायलट ने बॉयफ्रेंड को भेजा था क्या संदेश? को-पायलट ने बॉयफ्रेंड को भेजा था क्या आखिरी संदेश? 17 साल की उम्र में मिला पायलट लाइसेंस।
 
 ---
 
