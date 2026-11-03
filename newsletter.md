@@ -1,6 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 03, 2026 00:25 IST
+**Updated:** November 03, 2026 06:54 IST
+
+---
+
+## Global / Multilateral
+
+### [Many U.K. social care migrant workers to get PR in five years under softer immigration overhaul](https://www.thehindu.com/news/international/many-uk-social-care-migrant-workers-to-get-pr-in-five-years-under-softer-immigration-overhaul/article71658231.ece)
+*The Hindu (International)* - Nov 03, 00:39 IST (iso: 2026-11-02T19:09:44+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/edavgg/article71658272.ece/alternates/LANDSCAPE_1200/iStock-936420252.jpg -->
+
+The United Kingdom finalized a new immigration rule on November 2. Social care workers earning over £25,000 who arrived before May 2025 can now apply for indefinite leave to remain after five years. This change shortens the path to permanent residency for a specific group of essential workers. Under the scheme, finalised on November 2, social care workers earning at least £25,000 per year, who arrived in the U. K.
+
+### [Six in seven journalist murders go unpunished, UNESCO reports](https://news.un.org/feed/view/en/story/2026/11/1168719)
+*UN News* - Nov 02, 17:30 IST (iso: 2026-11-02T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-journalist.jpg/image770x420cropped.jpg -->
+
+UNESCO reports that six in seven journalist murders go unpunished. Global impunity for these killings has risen for the first time in over a decade. The organization also flags the growing use of drones as an emerging threat to reporters working in active conflict zones. Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.
 
 ---
 
@@ -46,6 +62,12 @@ Serbia's political landscape shifted rapidly after Student List won the October 
 
 Aleksandar Vucic stated he will return to power after his October election defeat. Legal challenges now threaten his political future. Prosecutors may pursue criminal charges against the former leader. His path back to office faces significant judicial hurdles. Former longstanding Serbian leader Aleksandar Vucic has said he’ll “come back” after losing elections in October. But is his future more likely to be in a court dock instead of the court of public opinion?
 
+### [WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter](https://news.un.org/feed/view/en/story/2026/11/1168722)
+*UN News* - Nov 02, 17:30 IST (iso: 2026-11-02T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/UNICEF%20Oleksii%20Filippov%204.jpg/image770x420cropped.jpg -->
+
+The UN World Food Programme is feeding over 400 evacuees from Oleshky in Ukraine. These residents fled the Russian-occupied Kherson region during a brief local ceasefire. The agency is also working to restore power to the area before winter temperatures set in. The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.
+
 ### [China, Russia Deepen Arctic Cooperation In Challenge To US](https://www.rferl.org/a/us-china-competition-in-arctic-intensifies/33888021.html)
 *Radio Free Europe / Liberty* - Nov 01, 13:57 IST (iso: 2026-11-01T08:27:14+00:00)
 <!-- image: https://gdb.rferl.org/5f8841e8-f3a1-4019-faed-08def2b08775_cx5_cy19_cw82_w1200_h630.jpg -->
@@ -63,6 +85,12 @@ Secretary of State Marco Rubio said he was unsure a negotiated end to the war in
 <!-- image: https://gdb.rferl.org/250c3973-6568-4c2f-4e59-08df13aec0bb_w1200_h630.jpg -->
 
 Hundreds of residents evacuated from Russian-occupied Oleshky reunited with family in Ukrainian territory. A convoy of 25 buses facilitated the transfer after a US-brokered cease-fire. The residents had lived under occupation for nearly four years. After nearly four years under Russian occupation, hundreds of residents from the southern Ukrainian city of Oleshky have arrived in Ukrainian-controlled territory following a cease-fire brokered by US first lady Melania Trump.
+
+### [The Way They Live Now In A Frigid Siberian Town](https://www.rferl.org/a/russia-food-shortages-war-remote-siberia/33887359.html)
+*Radio Free Europe / Liberty* - Oct 31, 18:15 IST (iso: 2026-10-31T12:45:45+00:00)
+<!-- image: https://gdb.rferl.org/84325cc2-89a7-4ed8-6a79-08df13a87200_cx0_cy7_cw0_w1200_h630.jpg -->
+
+Residents of Tura in Siberia face severe food shortages at -15 C. Long lines form outside the main store where staples are scarce and expensive. The crisis stems from poor logistics and the economic strain of Russia’s ongoing war in Ukraine. The scene outside Tura's main food store looked like something from the Soviet era: With the mercury at -15 C, residents lined up for hours to pay high prices for staples short supply.
 
 ---
 
@@ -110,43 +138,15 @@ The UN human rights office warned of a deepening displacement crisis in Gaza. Is
 
 Over twenty-eight million people in the Democratic Republic of the Congo face food insecurity. The IPC warns this number will rise in coming months. Conflict, Ebola outbreaks, and climate shocks are driving the deepening hunger crisis. More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat and the number is expected to tick up in the coming months, according to the latest alert from the IPC global food security monitor.
 
-### [Yemen war makes reaching assistance too dangerous for many](https://news.un.org/feed/view/en/story/2026/10/1168706)
-*UN News* - Oct 30, 17:30 IST (iso: 2026-10-30T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg -->
-
-UNHCR reported that over 280,000 people have been displaced by fighting in Yemen. Many vulnerable residents cannot access lifesaving relief because the conflict makes travel too dangerous. The agency highlighted the growing gap between need and delivery in the ongoing crisis. More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.
-
 ### [Severe rainfall and flood warnings issued for central Greece and western Turkey](https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey)
 *The Guardian* - Oct 30, 15:37 IST (iso: 2026-10-30T10:07:16+00:00)
 <!-- image: https://i.guim.co.uk/img/media/e1f1bd4154ea2df2adc895c6066b1f8bd5aa527c/177_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bbef3cbcc8f61488652e5eb9dc56704 -->
 
 Powerful thunderstorms and a fatal tornado struck Turkey this week. Heavy rain and strong winds will continue affecting south-eastern Europe and Turkey for several days. A low-pressure system is driving the severe weather across the region. Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expectedHeavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.
 
-### [Will Trump Help Putin Win in Ukraine?](https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine)
-*International Crisis Group* - Oct 23, 23:43 IST (iso: 2026-10-23T18:13:00+00:00)
-<!-- image: https://images.pexels.com/photos/12321867/pexels-photo-12321867.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group experts discussed the growing rift between Washington and Kyiv. The conversation covered Russia's intensifying attacks on Ukrainian territory. European capitals are working to strengthen Ukraine's defenses. These efforts occur while Europe faces its own internal pressures. This week on Hold Your Fire!, Richard speaks with Crisis Group experts Lucian Kim, Stephen Pomper and Fabienne Hara about the latest rift between Washington and Kyiv, Russia’s intensifying attacks and European capitals’ efforts to strengthen Ukraine while themselves under pressure.
-
----
-
-## Global / Multilateral
-
-### [Six in seven journalist murders go unpunished, UNESCO reports](https://news.un.org/feed/view/en/story/2026/11/1168719)
-*UN News* - Nov 02, 17:30 IST (iso: 2026-11-02T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-journalist.jpg/image770x420cropped.jpg -->
-
-UNESCO reports that six in seven journalist murders go unpunished. Global impunity for these killings has risen for the first time in over a decade. The organization also flags the growing use of drones as an emerging threat to reporters working in active conflict zones. Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.
-
 ---
 
 ## Americas
-
-### [What are U.S. midterm elections?](https://www.thehindu.com/news/international/what-are-united-states-midterm-elections-2026-democrats-vs-republicans-donald-trump-what-it-means-for-india/article71643628.ece)
-*The Hindu (International)* - Nov 02, 15:57 IST (iso: 2026-11-02T10:27:03+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/m63a7j/article71623156.ece/alternates/LANDSCAPE_1200/2026-10-25T100020Z_1074407280_RC299OAF6V9Y_RTRMADP_3_USA-TRUMP-MICHIGAN.JPG -->
-
-The United States holds midterm elections on November 3 to determine control of Congress. Voters decide all 435 House seats, one-third of the Senate, and many governorships. The outcome directly weakens or strengthens the President’s legislative agenda based on which party prevails. The U. S. midterm elections on November 3 determine control of Congress, with all 435 House seats, about one-third of the 100 Senate seats, and numerous state governorships up for grabs, in a nationwide vote that weakens or strengthens the President’s agenda depending on which party prevails.
 
 ### [Energy is America’s real weapon in a multipolar world](https://asiatimes.com/2026/11/energy-is-americas-real-weapon-in-a-multipolar-world/)
 *Asia Times* - Nov 02, 14:31 IST (iso: 2026-11-02T09:01:46+00:00)
@@ -160,11 +160,11 @@ The United States is shifting its strategic focus from broad technological domin
 
 US Republicans face a potentially punishing verdict in Tuesday's midterm elections. President Trump's approval rating stands at 32 percent in a recent poll. Democrats lead the national congressional ballot by more than eight percentage points, shifting the electoral map against the administration. WASHINGTON, D. C. US President Donald Trump’s Republicans enter Tuesday’s midterm elections facing a potentially punishing voter verdict. His approval rating stands at just 32% in a recent Reuters/Ipsos poll, while Democrats lead the national congressional ballot by more than eight percentage points.
 
-### [Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery](https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil)
-*The Guardian* - Oct 30, 19:38 IST (iso: 2026-10-30T14:08:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/c08befb6c1e61651220ef68b5db709a770adcf35/413_0_4001_3202/master/4001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=084316b51e64ee60b9fbdeaaee2958e0 -->
+### [Breaking the silence in Mexico’s barracks](https://news.un.org/feed/view/en/story/2026/11/1168715)
+*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image770x420cropped.jpg -->
 
-Flavio Bolsonaro fled to the United States after losing the Brazilian election. He declared himself president-elect for 58 minutes. Media ridiculed the move as shameful. His letter contained the wrong coat of arms. The stunt ended in mockery. Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of armsFlávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect”, has made him.
+Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.
 
 ---
 
