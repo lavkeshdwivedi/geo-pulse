@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 04, 2026 03:37 IST
+**अपडेट:** November 04, 2026 08:18 IST
 
 ---
 
 ## दुनिया
 
-### [6 नवंबर को मनाया जाएगा धनतेरस, जानें पूजा का शुभ मुहूर्त और धार्मिक महत्व](https://www.amarujala.com/photo-gallery/spirituality/festivals/dhanteras-2026-on-november-6-know-the-auspicious-puja-muhurat-and-religious-significance-2026-11-03)
-*Amar Ujala National* - Nov 04, 12:32 IST (iso: 2026-11-04T07:02:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/dhanteras-2026_545756cd20c9aa9f1cfb62ba6d55c5cb.jpeg?w=1200&dpr=1.0 -->
+### [बीत चुके हैं 5 दिन, क्या अब तक आपके खाते में नहीं आई 24वीं किस्त? यहां जानें क्या करें किसान](https://www.amarujala.com/photo-gallery/utility/pm-kisan-24th-installment-5-days-passed-why-has-the-2000-rupees-not-reached-your-bank-account-yet-2026-11-04)
+*Amar Ujala Breaking* - Nov 04, 08:08 IST (iso: 2026-11-04T02:38:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/kaya-naha-mal-aapaka-24va-kasata_6a9f6f2672a5a1965cd49da9d94ced50.jpeg?w=1200&dpr=1.0 -->
 
-धनतेरस 2026 का पर्व 6 नवंबर को मनाया जाएगा। इस दिन भगवान धन्वंतरि, मां लक्ष्मी और कुबेर की पूजा का विशेष महत्व है। शुभ मुहूर्त और पूजा विधि का पालन किया जाएगा। इस दिन भगवान धन्वंतरि, मां लक्ष्मी और कुबेर देव की पूजा का विशेष महत्व है। जानें धनतेरस का शुभ मुहूर्त, पूजा विधि और इस पर्व का धार्मिक महत्व।
+पीएम किसान योजना की 24वीं किस्त 30 अक्तूबर 2026 को जारी हुई। इसका लाभ 9.34 करोड़ से अधिक किसानों को मिला। खाते में राशि न आने पर किसानों को संबंधित बैंक या पोर्टल से संपर्क करना चाहिए। पीएम किसान योजना की 24वीं किस्त 30 अक्तूबर 2026 को जारी की गई इस किस्त का लाभ 9.34 करोड़ से अधिक किसानों को मिला।
 
-### [देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली](https://www.amarujala.com/madhya-pradesh/prime-suspect-in-murder-of-ti-dilip-puri-in-dewas-injured-in-brief-encounter-bullet-hits-suspect-in-leg-2026-11-04)
-*Amar Ujala Breaking* - Nov 04, 12:14 IST (iso: 2026-11-04T06:44:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/enakautara-ma-ghayal-aarapa_11b9b78352d2d65efd7446f3c1bce89c.jpeg?w=1200&dpr=1.0 -->
+### [श्रीगंगानगर में रेल ट्रैक ब्लास्ट से सुरक्षा एजेंसियों में हड़कंप](https://www.amarujala.com/video/india-news/rail-blast-in-sri-ganganagar-causes-alarm-among-security-agencies-2026-11-04)
+*Amar Ujala National* - Nov 04, 08:04 IST (iso: 2026-11-04T02:34:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/rail-track-blast_670234bc65186da2eafb6831797f2a85.jpeg?w=1200&dpr=1.0 -->
 
-मध्य प्रदेश के देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर हुआ। पुलिस की गोली से आरोपी के पैर में चोट आई। घटना स्थल पर तनाव बना रहता है। देवास में टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी का शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली।
+श्रीगंगानगर में रेलवे ट्रैक पर बम विस्फोट हुआ। इस घटना के बाद सुरक्षा एजेंसियों में हड़कंप मच गया। अधिकारियों ने तुरंत क्षेत्र में सुरक्षा बढ़ा दी और जांच शुरू कर दी। श्रीगंगानगर में रेल ब्लास्ट से सुरक्षा एजेंसियों में हड़कंप। श्रीगंगानगर में रेल ट्रैक ब्लास्ट से सुरक्षा एजेंसियों में हड़कंप।
 
-### [योगी सरकार ने दिया उज्जवला योजना के तहत दिवाली गिफ्ट, फ्री मिलेगा गैस सिलेंडर!](https://www.amarujala.com/video/india-news/yogi-government-offers-a-diwali-gift-under-the-ujjwala-scheme-get-a-free-gas-cylinder-2026-11-04)
-*Amar Ujala National* - Nov 04, 03:30 IST (iso: 2026-11-03T22:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/ujjwala-yojana-diwali-gift_0740b035c5eaf8513fd32d2f1b8d38ac.jpeg?w=1200&dpr=1.0 -->
+### [सितारों ने लगाए चार चांद, सलमान के स्वैग से जमा रंग, पत्नी के साथ पहुंचे बॉबी देओल](https://www.amarujala.com/entertainment/diwali-party-2026-salman-khan-raveena-tandon-ayushmann-bobby-deol-film-celebs-at-ramesh-taurani-diwali-bash-2026-11-04)
+*Amar Ujala National* - Nov 04, 08:03 IST (iso: 2026-11-04T02:33:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/ramasha-tarana-ka-thaval-parata-ma-pahaca-satara_a52e83917e4cb86ce06c96351553e9ca.jpeg?w=1200&dpr=1.0 -->
 
-योगी आदित्यनाथ सरकार ने उज्जवला योजना के तहत दिवाली पर गैस सिलेंडर उपहार घोषित किया। लाभार्थियों को यह सुविधा मुफ्त मिलेगी। यह पहल ईंधन सुविधा को बढ़ावा देगी। योगी सरकार ने दिया उज्जवला योजना के तहत दिवाली गिफ्ट, फ्री मिलेगा गैस सिलेंडर!
+निर्माता रमेश तौरानी ने अपनी वार्षिक दिवाली पार्टी का आयोजन किया। सलमान खान और बॉबी देओल सहित कई बॉलीवुड सितारे इस कार्यक्रम में शामिल हुए। यह पार्टी हर साल बॉलीवुड की चर्चित घटनाओं में से एक है। Ramesh Taurani Diwali Party: निर्माता रमेश तौरानी हर साल दिवाली पार्टी का आयोजन करते हैं। उनकी दिवाली पार्टी बॉलीवुड में मशहूर है और हर साल यहां सितारे रौनक बिखेरते हैं।
 
-### [चुनाव नतीजे से पहले गरजे गादी: 'नेतन्याहू पर भरोसा नहीं, हटाना ही होगा'; PM पर बरसे पूर्व इस्राइली](https://www.amarujala.com/world/israel-election-results-new-govt-gadi-vs-trust-netanyahu-ex-army-chief-bibi-must-be-removed-prez-isaac-herzog-2026-11-04)
-*Amar Ujala World* - Nov 04, 02:39 IST (iso: 2026-11-03T21:09:43+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/israel-govt-formation_4f459a4bae545c07820569c2856d3611.jpeg?w=1200&dpr=1.0 -->
+### [परीक्षा से डेढ़ महीने पहले कैसे करें तैयारी? मॉक टेस्ट से लेकर रिवीजन तक अपनाएं ये तरीका](https://www.amarujala.com/education/ctet-2026-preparation-tips-subject-wise-strategy-exam-pattern-and-important-tips-2026-11-04)
+*Amar Ujala National* - Nov 04, 07:55 IST (iso: 2026-11-04T02:25:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/ctet-2026-preparation-tips_36d9b9d77fb8780ccabe3bec3f426fb9.jpeg?w=1200&dpr=1.0 -->
 
-पूर्व इस्राइली सेना प्रमुख ने प्रधानमंत्री नेतन्याहू पर भरोसा खो दिया है। उन्होंने कहा कि उसे हटाना ही होगा। यह टिप्पणी चुनाव नतीजों से पहले आई। चुनाव नतीजे से पहले गरजे गादी: 'नेतन्याहू पर भरोसा नहीं, हटाना ही होगा'; PM पर बरसे पूर्व इस्राइली सेना प्रमुख।
+सीबीएसई ने 12 और 13 दिसंबर 2026 को सीटीईटी परीक्षा की तिथि तय की है। अभ्यर्थियों के पास अब करीब डेढ़ महीने का समय बचा है। तैयारी के लिए मॉक टेस्ट और नियमित रिवीजन की सलाह दी गई है। CTET 2026 Preparation Tips: सीबीएसई की केंद्रीय शिक्षक पात्रता परीक्षा (सीटीईटी) 12 और 13 दिसंबर 2026 को आयोजित होगी। परीक्षा में अब करीब डेढ़ महीने का समय बचा है।
 
-### ['सोशल मीडिया पर नहीं, संसद में आइए': एसआईआर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को](https://www.amarujala.com/india-news/come-to-parliament-not-social-media-sitharaman-blunt-challenge-to-rahul-gandhi-for-debate-on-eci-evm-2026-11-04)
-*Amar Ujala Breaking* - Nov 04, 01:43 IST (iso: 2026-11-03T20:13:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/katharaya-vatata-matara-naramal-sataramanae_1e3345447cea622d20f0dadde13936a1.jpeg?w=1200&dpr=1.0 -->
+### [सुनेत्रा पवार ने बुलाई विधायकों की बैठक, पार्थ पवार के संगठन पर दबदबे की भी चर्चा](https://www.amarujala.com/india-news/maharashtra-sunetra-pawar-calls-ncp-meeting-amid-internal-rift-concerns-over-parth-pawar-s-role-2026-11-04)
+*Amar Ujala National* - Nov 04, 07:43 IST (iso: 2026-11-04T02:13:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/01/upamakhayamatara-sanatara-pavara_9955db81165939dee538c49dc1263956.jpeg?w=1200&dpr=1.0 -->
 
-नितिन गडकरी ने राहुल गांधी को चुनौती दी कि वे ईवीएम और चुनाव आयोग पर बहस संसद में करें। उन्होंने सोशल मीडिया पर बहस करने की बजाय संसद में आने की मांग की। 'सोशल मीडिया पर नहीं, संसद में आइए': एसआईआर और ईवीएम पर हो जाए आर-पार की बहस, राहुल गांधी को।
+महाराष्ट्र में एनसीपी के अंदरूनी मतभेदों के बीच सुनेत्रा पवार ने विधायकों की बैठक बुलाई है। बैठक में पार्थ पवार के संगठन में दबदबे की चर्चा होगी। पार्टी के भीतर चल रहे विवाद को शांत करने का प्रयास किया जा रहा है। सुनेत्रा पवार ने बुलाई विधायकों की बैठक, पार्थ पवार के संगठन पर दबदबे की भी चर्चा।
 
-### [TI दिलीप पुरी हत्याकांड के मुख्य आरोपी का हुआ शॉर्ट एनकाउंटर,आरोपी के पैर में लगी गोली](https://www.amarujala.com/video/india-news/a-brief-encounter-took-place-involving-the-prime-suspect-in-the-ti-dilip-puri-murder-case-the-suspect-sustain-2026-11-04)
-*Amar Ujala National* - Nov 04, 01:25 IST (iso: 2026-11-03T19:55:13+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/dews-police-short-encounter_b1df77d100bdcaf0b0230a93b0b240ec.jpeg?w=1200&dpr=1.0 -->
+### [एसबीआई में मैनेजर और डिप्टी मैनेजर पदों पर भर्ती: आज से आवेदन शुरू, किस आधार पर होगा चयन? जानें](https://www.amarujala.com/jobs/sbi-so-recruitment-2026-apply-for-60-manager-and-deputy-manager-security-posts-2026-11-04)
+*Amar Ujala National* - Nov 04, 07:24 IST (iso: 2026-11-04T01:54:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/sbi-so-recruitment-2026_f369ff2d60cbca4557530bc33b5550b0.jpeg?w=1200&dpr=1.0 -->
 
-टीआई दिलीप पुरी हत्याकांड के मुख्य आरोपी को पुलिस ने शॉर्ट एनकाउंटर में मार गिराया। घटना के दौरान आरोपी के पैर में गोली लगी थी। TI दिलीप पुरी हत्याकांड के मुख्य आरोपी का हुआ शॉर्ट एनकाउंटर, आरोपी के पैर में लगी गोली।
+स्टेट बैंक ऑफ इंडिया ने 60 मैनेजर और डिप्टी मैनेजर पदों के लिए भर्ती प्रक्रिया शुरू की है। आवेदन 4 नवंबर से 25 नवंबर 2026 तक स्वीकार होंगे। चयन प्रक्रिया की विस्तृत जानकारी नोटिफिकेशन में दी गई है। SBI SO Recruitment 2026: स्टेट बैंक ऑफ इंडिया ने मैनेजर और डिप्टी मैनेजर (सिक्योरिटी) के 60 पदों पर भर्ती का नोटिफिकेशन जारी किया है।
 
-### [मां-बाप लॉन में बिजी थे उधर खेलते-खेलते हाइवे पर पहुंच गया 1 साल का बच्चा, गाड़ी आई और कुचल डाला](https://hindi.news18.com/world/america-parents-were-busy-in-lawn-a-one-year-old-child-wandered-onto-highway-vehicle-ran-him-over-10961273.html)
-*News18 Hindi (World)* - Nov 03, 20:34 IST (iso: 2026-11-03T15:04:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/road-accident-2026-11-e4450d52ecc319b8c2ba78b3daa0e9c8-1200x800.jpg -->
+### [रक्षा मंत्री से चिंता जता गए एपी सिंह, जमीन वायुसेना के नियंत्रण में रखने की मांग](https://www.amarujala.com/india-news/racecourse-sports-complex-ap-singh-conveys-concerns-rajnath-singh-demands-land-remain-under-air-force-control-2026-11-04)
+*Amar Ujala National* - Nov 04, 07:23 IST (iso: 2026-11-04T01:53:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/parava-eyara-cafa-marashal-epa-saha_239c2773d7469a87bcccc98b80b1062a.jpeg?w=1200&dpr=1.0 -->
 
-एक साल का बच्चा खेलते हुए हाईवे पर निकल गया। माता-पिता लॉन में काम में व्यस्त थे। एक कार ने उसे कुचल दिया। अस्पताल में डॉक्टरों ने उसे मृत घोषित कर दिया। मां-बाप लॉन में यार्ड वर्क में बिजी थे, तभी एक साल का बच्‍चा खेलते-खेलते हाईवे पर पहुंच गया. कोई कुछ कर पाता, इससे पहले एक गाड़ी आई और उसे कुचल कर चली गई.
+एपी सिंह ने रक्षा मंत्री राजनाथ सिंह से बात कर चिंता जताई। उन्होंने मांग की कि रेसकोर्स खेल परिसर की जमीन वायुसेना के नियंत्रण में ही रहे। इस मुद्दे पर दोनों पक्षों के बीच संवाद जारी है। रक्षा मंत्री से चिंता जता गए एपी सिंह, जमीन वायुसेना के नियंत्रण में रखने की मांग।
+
+### [राहुल गांधी की बढ़ती सियासी ताकत से भाजपा सतर्क: पहली बार देशभर में खोला इतना बड़ा मोर्चा, जानें](https://www.amarujala.com/india-news/bjp-on-alert-over-rahul-gandhi-growing-political-strength-launches-major-nationwide-offensive-2026-11-04)
+*Amar Ujala National* - Nov 04, 07:09 IST (iso: 2026-11-04T01:39:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/paema-matha-oura-gaha-matara_b7fede715b6bcfbccea220ca4bdd35dc.jpeg?w=1200&dpr=1.0 -->
+
+भाजपा ने राहुल गांधी की बढ़ती सियासी ताकत को देखते हुए देशभर में बड़ा मोर्चा खोला है। यह पहली बार है जब पार्टी ने इतने बड़े पैमाने पर अभियान चलाया है। विपक्षी गठजोड़ को रोकने के उद्देश्य से यह कदम उठाया गया है। राहुल गांधी की बढ़ती सियासी ताकत से भाजपा सतर्क: पहली बार देशभर में खोला इतना बड़ा मोर्चा, जानें।
+
+### [एक्ट्रेस बनने की चाहत पर मिली तेजाब डालने की धमकी? अभिनेत्री ने सुनाई बचपन की दर्दनाक कहानी](https://www.amarujala.com/entertainment/celebs-interviews/sheeba-azhar-samrat-interview-vasudha-fame-actress-talks-about-her-career-and-struggle-journey-2026-11-03)
+*Amar Ujala National* - Nov 04, 07:00 IST (iso: 2026-11-04T01:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/shab-ajahara-samarata_e51a6bdf15f4740522732a2542ae80ab.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश की प्रतापगढ़ से आने वाली टीवी अभिनेत्री शीबा अजहर सम्राट ने बताया कि बचपन में अभिनय की इच्छा के कारण उन्हें मारपीट झेलनी पड़ी थी। टीवी अभिनेत्री शीबा अजहर सम्राट के लिए अभिनय की दुनिया तक पहुंचना आसान नहीं रहा। उत्तर प्रदेश के प्रतापगढ़ से आने वाली शीबा को बचपन में फिल्मों के शौक के लिए मार तक खानी पड़ी।
+
+### [इंसान ही नहीं जानवर भी मनाते हैं अपनों की मौत का शोक, साथी के बिछड़ने पर वर्षों तक नहीं भूलते दर्द](https://www.amarujala.com/world/animals-mourn-death-of-their-own-kind-coyotes-and-chimpanzees-fall-into-depression-when-companion-is-lost-2026-11-04)
+*Amar Ujala World* - Nov 04, 06:53 IST (iso: 2026-11-04T01:23:47+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/sakataka-tasavara_b48ee319189278c3e064a6fece10d6f0.jpeg?w=1200&dpr=1.0 -->
+
+शोध से पता चला है कि कोयोट और चिम्पैंज़ी जैसे जानवर भी अपने साथी की मृत्यु पर शोक मनाते हैं और वर्षों तक उस दर्द को नहीं भूलते। इंसान ही नहीं जानवर भी मनाते हैं अपनों की मौत का शोक, साथी के बिछड़ने पर वर्षों तक नहीं भूलते दर्द।
+
+### [घरेलू हिंसा के आरोप लगाने भर से नहीं मिलेगी राहत, सबूत देना जरूरी; अदालत ने खारिज की महिला की याचिका](https://www.amarujala.com/delhi-ncr/mere-allegations-of-domestic-violence-are-not-enough-for-relief-evidence-is-essential-2026-11-04)
+*Amar Ujala Breaking* - Nov 04, 06:51 IST (iso: 2026-11-04T01:21:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/30/court-ai-content_f88b44fa8487023906e376e4e63c1825.jpeg?w=1200&dpr=1.0 -->
+
+अदालत ने घरेलू हिंसा के मामले में महिला की याचिका खारिज कर दी। कोर्ट ने कहा कि केवल आरोप लगाने से राहत नहीं मिलती, सबूत देना जरूरी है। घरेलू हिंसा के मामले में केवल आरोप लगाने से महिला को कानूनी राहत नहीं मिल सकती। घरेलू हिंसा के आरोप लगाने भर से नहीं मिलेगी राहत, सबूत देना जरूरी; अदालत ने खारिज की महिला की याचिका।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार](https://www.amarujala.com/technology/tech-diary/ai-will-work-even-without-internet-india-ai-mission-releases-indigenous-foundation-models-eka1-dhir-2b-dhir-5b-2026-11-03)
-*Amar Ujala Breaking* - Nov 04, 12:01 IST (iso: 2026-11-04T06:31:21+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/kataranakasa-eva-sacana-parathayagaka-mataralya-ka-sacava-esa-kashhanaena-va-anaya_d422366cfba111cd5c31021221bc9f3c.jpeg -->
+### [वोटिंग खत्म, आने लगे नतीजे, ट्रंप ने किसकी जीत पर दी बधाई; अमेरिकी-भारतीयों का रुख क्या?](https://www.amarujala.com/live/world/us-midterm-elections-2026-live-updates-voting-trump-republicans-democrats-house-senate-2026-11-03)
+*Amar Ujala World* - Nov 04, 08:04 IST (iso: 2026-11-04T02:34:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/amaraka-ma-mathhayavathha-canava_4f8eeeb8ee03d0b7a45d2e2017ea8b39.gif?w=1200&dpr=1.0 -->
 
-भारत ने तीन स्वदेशी एआई मॉडल जारी किए हैं। इनमें EKA1, Dhir 2B और Dhir 5B शामिल हैं। ये मॉडल बिना इंटरनेट के भी काम करेंगे। बैंकिंग और सरकारी कामकाज में इनका उपयोग होगा। भारत ने पेश किए तीन स्वदेशी मॉडल, बैंकिंग से लेकर सरकारी कामकाज तक होंगे मददगार।
+अमेरिका के मध्यावधि चुनावों में मौसम ने मतदान प्रक्रिया को प्रभावित किया। कई राज्यों में अंतिम घंटे तक वोटिंग जारी रही। डोनाल्ड ट्रंप मीडिया कवरेज से असंतुष्ट हैं। US मध्यावधि चुनाव LIVE: मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज। वोटिंग खत्म, आने लगे नतीजे, ट्रंप ने किसकी जीत पर दी बधाई; अमेरिकी-भारतीयों का रुख क्या?
 
-### [दिल्ली मेट्रो और नमो भारत ने बढ़ाए 20-20 फेरे, सार्वजनिक परिवहन को प्रोत्साहित करने के लिए किया उपाय](https://www.amarujala.com/delhi-ncr/delhi-metro-and-namo-bharat-have-each-added-20-trips-2026-11-04)
-*Amar Ujala Breaking* - Nov 04, 02:12 IST (iso: 2026-11-03T20:42:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/1_521afbac9d208b68264fb103d402a34e.jpeg?w=1200&dpr=1.0 -->
+### [प्राचीन इतिहास का प्रतिबिंब है पुराना किला](https://www.amarujala.com/columns/blog/purana-qila-is-a-reflection-of-delhi-ancient-history-2026-11-04)
+*Amar Ujala National* - Nov 04, 07:31 IST (iso: 2026-11-04T02:01:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/thall-ma-sathata-parana-kal_afe6cc1929f6884771da7af7414d159a.jpeg?w=1200&dpr=1.0 -->
 
-वायु प्रदूषण नियंत्रण के लिए दिल्ली मेट्रो और नमो भारत बस सेवाओं में 20-20 फेरे बढ़ाए गए। यह कदम ग्रेडेड रिस्पांस एक्शन प्लान के तहत उठाया गया। राजधानी में वायु प्रदूषण पर नियंत्रण के लिए ग्रेडेड रिस्पांस एक्शन प्लान (ग्रेप)-2 लागू होने के बाद दिल्ली मेट्रो रेल निगम (डीएमआरसी) ने अपनी सेवाओं में इजाफा किया है। दिल्ली मेट्रो और नमो भारत ने बढ़ाए 20-20 फेरे, सार्वजनिक परिवहन को प्रोत्साहित करने के लिए किया उपाय।
+दिल्ली के पुराने किले के क्षेत्र में 2600 वर्ष पुराना इतिहास समेटा हुआ है। अबुल फजल ने लिखा था कि दिल्ली का प्राचीन नाम इंद्रप्रस्थ था। यह स्थान प्राचीन इतिहास का एक महत्वपूर्ण प्रतिबिंब माना जाता है। आज जहां पुराना किला विद्यमान है, वह क्षेत्र अपने भीतर 2600 वर्ष का इतिहास समेटे हुए है। इसी पुराने किले के विषय में अबुल फजल ने लिखा था कि दिल्ली जिसका प्राचीन नाम इंद्रप्रस्थ है।
 
-### [ट्रैफिक नहीं पराली है खलनायक, दिल्ली की हवा में जहर घोल रहे पड़ोसी; प्रदूषण बढ़ने की आशंका](https://www.amarujala.com/delhi-ncr/it-s-stubble-burning-not-traffic-that-is-the-real-villain-neighboring-states-are-poisoning-delhi-s-air-2026-11-04)
-*Amar Ujala Breaking* - Nov 04, 01:53 IST (iso: 2026-11-03T20:23:19+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/11_c63a6ccacba6bb5ead439821887d2cd5.jpeg?w=1200&dpr=1.0 -->
+### [76 मिनट में 6 भूकंप से दहला यह देश, जलजला से बार-बार कांप रहे लोग, क्या आने वाला ही तबाही?](https://hindi.news18.com/world/rest-of-world-earthquake-today-news-tajikistan-earthquake-six-tremors-felt-in-76-minutes-bhukamp-news-10961662.html)
+*News18 Hindi (World)* - Nov 04, 07:22 IST (iso: 2026-11-04T01:52:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Earthquake-17-2026-10-b2eccb94fcb3e45fb6c537267a5f986c-1200x800.jpg -->
 
-दिल्ली में वायु प्रदूषण का मुख्य कारण अब ट्रैफिक नहीं, बल्कि पड़ोसी राज्यों से आने वाली पराली जलाने का धुआं है। स्थानीय प्रदूषण के साथ बाहरी धुएं की मात्रा तेजी से बढ़ रही है। दिल्ली की हवा में सबसे बड़ा लोकल विलेन तो ट्रैफिक ही है, लेकिन अब बाहर से आने वाला धुआं भी तेजी पकड़ रहा है। ट्रैफिक नहीं पराली है खलनायक, दिल्ली की हवा में जहर घोल रहे पड़ोसी; प्रदूषण बढ़ने की आशंका।
+ताजिकिस्तान में बुधवार सुबह 76 मिनट के अंदर छह भूकंप आए। सबसे तीव्र झटका 5.3 रिक्टर स्केल पर दर्ज हुआ। स्थानीय लोगों में दहशत फैली हुई है और निगरानी जारी है। Earthquake News: ताजिकिस्तान में बुधवार सुबह भूकंप के लगातार छह झटके दर्ज किए गए. महज 1 घंटे 16 मिनट के भीतर आए इन भूकंपों की तीव्रता 3.2 से 5.3 के बीच रही.
 
-### [राष्ट्रपति सुबियांतो के फोन की हो रही थी जासूसी, पुलिस के तीन जनरल गिरफ्तार; सिस्टम से मिटाए सबूत](https://www.amarujala.com/world/indonesia-president-subianto-phone-being-spied-on-three-police-generals-arrested-evidence-erased-from-system-2026-11-04)
-*Amar Ujala Breaking* - Nov 04, 01:00 IST (iso: 2026-11-03T19:30:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/rashhatarapata-parabva-sabyata_3c3662ebb87936897503c37609ffdf58.jpeg?w=1200&dpr=1.0 -->
+### [इस्राइल चुनाव के आधिकारिक नतीजे होंगे जारी, न्यूजीलैंड-भारत के बीच पांच मैचों की वनडे सीरीज का आगाज](https://www.amarujala.com/india-news/04-november2026-major-event-2026-2026-11-03)
+*Amar Ujala Breaking* - Nov 04, 06:53 IST (iso: 2026-11-04T01:23:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/aaja-ka-khabra_f3a2fad6de9c55c8ce3daf9164641a9c.gif?w=1200&dpr=1.0 -->
 
-इंडोनेशिया की पुलिस ने राष्ट्रपति सुबियांतो के फोन की जासूसी के मामले में तीन जनरल को गिरफ्तार किया है। जांच में सामने आया कि आरोपियों ने डिजिटल सबूतों को सिस्टम से मिटा दिया था। राष्ट्रपति सुबियांतो के फोन की हो रही थी जासूसी, पुलिस के तीन जनरल गिरफ्तार; सिस्टम से मिटाए सबूत।
+बुधवार 04 नवंबर को इजराइल के चुनाव के आधिकारिक नतीजे जारी होंगे। इसी दिन न्यूजीलैंड और भारत के बीच पांच मैचों की वनडे सीरीज का आगाज होगा। नमस्कार! आज है बुधवार, 04 नवंबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं इस्राइल चुनाव के आधिकारिक नतीजे होंगे जारी, न्यूजीलैंड-भारत के बीच पांच मैचों की वनडे सीरीज का आगाज।
 
-### [पाकिस्तान 'गैंगरेप' केस में डिप्टी पीएम इशाक डार का रिश्तेदार बरी, 3 छोटे कर्मचारियों को फंसा दिया](https://hindi.news18.com/world/pakistan-pakistan-gangrape-case-ishaq-dar-relative-cleared-in-lahore-extortion-and-assault-investigation-10961420.html)
-*News18 Hindi (World)* - Nov 03, 23:04 IST (iso: 2026-11-03T17:34:31+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Ishaq-Dar-2026-11-dfdbc178a294798ca481de03966039f0-1200x800.jpg -->
+### [वनडे में सबसे बड़ी पारी, टी20 में सर्वाधिक शतक; विश्व कप में खेली यादगार पारी](https://www.amarujala.com/cricket/cricket-news/glenn-maxwell-retirement-highest-innings-in-odis-to-most-centuries-in-t20s-check-australian-all-rounder-stats-2026-11-03)
+*Amar Ujala Breaking* - Nov 04, 06:41 IST (iso: 2026-11-04T01:11:34+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/aus_00547f441346e27750707ac383134b13.jpeg?w=1200&dpr=1.0 -->
 
-लाहौर के गैंगरेप मामले में पुलिस ने डिप्टी पीएम इशाक डार के रिश्तेदार समेत पांच मुख्य आरोपियों को बरी कर दिया है। पूरा इल्जाम तीन छोटे कर्मचारियों पर लगाया गया है। वकील इसे राजनीतिक दबाव बता रहे हैं। पाकिस्तान के लाहौर में दो विदेशी महिलाओं के साथ गैंगरेप और रंगदारी का केस हुआ था. इस मामले में पुलिस ने कोर्ट में अधूरी रिपोर्ट पेश की है.
+ऑस्ट्रेलिया के अनुभवी ऑलराउंडर ग्लेन मैक्सवेल ने अंतरराष्ट्रीय क्रिकेट से संन्यास ले लिया है। मैक्सवेल को वनडे में सबसे बड़ी पारी और टी20 में सर्वाधिक शतकों के रिकॉर्ड के लिए जाना जाता है। उन्होंने ऑस्ट्रेलिया के लिए कई यादगार प्रदर्शन किए हैं। मैक्सवेल की पहचान तूफानी बल्लेबाज के रूप में रही है और उन्होंने ऑस्ट्रेलिया के लिए कई यादगार पारियां खेली है।
 
-### [भूतिया पोशाकों में छिपा सरकार पर तंज? चीन के 3 शहरों में हैलोवीन पर कड़ी सुरक्षा, मास्क-मेकअप पर](https://www.patrika.com/world-news/china-halloween-security-beijing-shanghai-hangzhou-youth-protest-21028441)
-*Patrika (World)* - Nov 03, 20:58 IST (iso: 2026-11-03T15:28:07+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Beijing-Halloween-Security-100kb.webp -->
+### [बांग्लादेश में सड़कों पर क्यों उतरे कपड़ा मजदूर, हिंसक प्रदर्शन से कैसे बिगड़े देश के हालात?](https://www.amarujala.com/world/explainer-why-are-garment-workers-protesting-in-bangladesh-and-how-has-the-violence-escalated-2026-11-03)
+*Amar Ujala World* - Nov 04, 06:41 IST (iso: 2026-11-04T01:11:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/bgalthasha-ma-varathha-paratharashana_d0d2f2b5b77085d97f2253a155c9ff6c.jpeg?w=1200&dpr=1.0 -->
 
-चीन के तीन शहरों में हैलोवीन पर सुरक्षा बढ़ाई गई। युवाओं ने आर्थिक संकट और बेरोजगारी पर व्यंग्य करने के लिए खास पोशाकें पहनीं। अधिकारियों ने बीजिंग, शंघाई और हांगझू में कड़ी निगरानी लागू की। China Halloween: ‘द एपोच टाइम्स’ (TET) की एक रिपोर्ट के अनुसार, 31 अक्टूबर को हैलोवीन मनाने के लिए बड़ी संख्या में युवा इकट्ठा हुए, जिसके चलते चीनी अधिकारियों ने बीजिंग, शंघाई और हांगझू में सुरक्षा बढ़ा दी।
+बांग्लादेश में कपड़ा मजदूरों के हिंसक प्रदर्शनों ने देश के हालात बिगाड़ दिए हैं। मजदूरों ने सड़कों पर उतरकर अपनी मांगें रखीं। इन घटनाओं के बाद देश में सामाजिक और राजनीतिक तनाव बढ़ गया है। स्थिति नियंत्रण में लाने के लिए प्रशासन ने कड़ी कार्रवाई शुरू की है। एक्सप्लेनर: बांग्लादेश में सड़कों पर क्यों उतरे कपड़ा मजदूर, हिंसक प्रदर्शन से कैसे बिगड़े देश के हालात?
 
-### [सनकी तानाशाह' ने बनाई पाताल में छेद करने वाली मिसाइल, ट्रेलर देखकर ही कांप गया पड़ोसी](https://hindi.news18.com/world/rest-of-world-north-korea-tests-vertical-strike-cruise-missile-kim-jong-un-new-bunker-busting-weapon-terrifies-south-korea-10961115.html)
-*News18 Hindi (World)* - Nov 03, 20:09 IST (iso: 2026-11-03T14:39:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/North-Korea-Tests-Vertical-Strike-Cruise-Missile-2026-11-391f5093c52b202b74414a053465cb33-1200x800.jpg -->
+### [यमुना रिवर सफारी आज से, सोनिया विहार में दिखेगा गोवा जैसा नजारा; इलाके की साज-सज्जा का काम जारी](https://www.amarujala.com/delhi-ncr/east-delhi-yamuna-river-safari-starts-today-a-goa-like-scene-to-be-seen-in-sonia-vihar-2026-11-04)
+*Amar Ujala Breaking* - Nov 04, 06:38 IST (iso: 2026-11-04T01:08:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/1_be523b6628c067e9bd192a6286e21e50.jpeg?w=1200&dpr=1.0 -->
 
-किम जोंग उन ने जमीन के नीचे बंकरों को निशाना बनाने वाली क्रूज मिसाइल का ट्रेलर जारी किया। इसमें सीधे हमले की तकनीक शामिल है। इस प्रदर्शन से पड़ोसी देशों में चिंता बढ़ गई है। उत्तर कोरिया के तानाशाह किम जोंग उन ने एक घातक रणनीतिक क्रूज मिसाइल का ट्रेलर दिखाया है. ये मिसाइल जमीन के नीचे छिपे बंकरों और सैन्य ठिकानों को तबाह करने के लिए बनाई गई है.
-
----
-
-## अमेरिका
-
-### [मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज](https://www.amarujala.com/live/world/us-midterm-elections-2026-live-updates-voting-trump-republicans-democrats-house-senate-2026-11-03)
-*Amar Ujala Breaking* - Nov 04, 02:49 IST (iso: 2026-11-03T21:19:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/26/donald-trump-us-election-india_5981a311d48a6176da9b50a50b8f4fff.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका के मध्यावधि चुनावों में मौसम ने मतदान प्रक्रिया को प्रभावित किया। कई राज्यों में अंतिम घंटे तक वोटिंग जारी रही। डोनाल्ड ट्रंप मीडिया कवरेज से असंतुष्ट हैं। US मध्यावधि चुनाव LIVE: मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज।
-
-### [चीटियों ने बना डाला पूरा शहर, रानी के लिए खास इंतजाम, यहां किसानी भी करती हैं चीटियां](https://hindi.news18.com/photogallery/ajab-gajab/viral-massive-ant-built-underground-city-discovered-in-brazil-inside-the-26-foot-deep-atta-laevigata-nest-10961345.html)
-*News18 Hindi (World)* - Nov 03, 22:07 IST (iso: 2026-11-03T16:37:42+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Ants-City-2026-11-8eccc0c6612cd7fce89018833d702516-1200x800.jpg -->
-
-ब्राजील के सेराडो क्षेत्र में वैज्ञानिकों ने चींटियों की जमीन के नीचे बनी विशाल संरचना का पता लगाया। प्रोफेसर लुइज कार्लोस फोर्टी की टीम ने 10 टन सीमेंट डालकर 26 फीट गहरी इस जटिल नगरी का नक्शा बनाया। ब्राजील के सेराडो क्षेत्र में वैज्ञानिकों ने चींटियों द्वारा जमीन के नीचे बनाई गई एक विशाल और अनोखी 'अंडरग्राउंड सिटी' की खोज की है.
+दिल्ली के यमुना किनारे सोनिया विहार में बुधवार से नदी सफारी शुरू हो रही है। यह परियोजना स्थानीय पर्यटकों के लिए नया आकर्षण बनने जा रही है। इलाके की साज-सज्जा का काम जारी है। यह सफारी दिल्लीवासियों को गोवा जैसा अनुभव देने का दावा करती है। यमुना किनारे सोनिया विहार में बुधवार से शुरू होने जा रही रिवर सफारी दिल्लीवासियों के लिए पर्यटन का नया आकर्षण बनने जा रही है।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### ['खिड़कियां बंद, AC स्विच ऑफ', न्यूक्लियर अटैक से कैसे बचें? ईरान ने जारी किया वीडियो](https://hindi.news18.com/world/middle-east-iran-releases-survival-guide-for-nuclear-attack-closes-windows-turns-off-ac-amid-america-nuclear-bomb-threat-10961516.html)
-*News18 Hindi (World)* - Nov 04, 00:01 IST (iso: 2026-11-03T18:31:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/nuclear-power-plant-1-2026-09-80d892e368056d8d571173e198962a66-1200x800.jpg -->
+### [गुवाहाटी में पांच लोगों की हत्या के आरोपी का एनकाउंटर; अस्पताल में तोड़ा दम; पिस्तौल छीनने की थी](https://www.amarujala.com/india-news/assam-shooting-case-accused-ghanakanta-gogoi-dies-after-police-firing-in-sivasagar-2026-11-04)
+*Amar Ujala National* - Nov 04, 07:59 IST (iso: 2026-11-04T02:29:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/04/14/aparathha-sakataka-tasavara_cbf5496b7e9147e0086b6af1e5ae8ff4.jpeg?w=1200&dpr=1.0 -->
 
-ईरान ने न्यूक्लियर हमले से बचाव के लिए आठ मिनट का वीडियो जारी किया है। इसमें लोगों को खिड़कियां बंद रखने और 24 घंटे तक घरों में रहने की सलाह दी गई है। अमेरिका और इजराइल के साथ बढ़ते बवाल के बीच ईरान ने एक चौंकाने वाला वीडियो जारी किया है. ये 8 मिनट का गाइड वीडियो है. इसमें लोगों को न्यूक्लियर अटैक और खतरनाक रेडिएशन से बचने के तरीके बताए गए हैं, लोगों से कहा गया है कि वे खिड़कियां और एसी बंद रखें, बेसमेंट में छुपें और कम से कम 24 घंटे तक घरों से बाहर न निकलें.
+असम के सिवसागर में पुलिस ने गणकान्त गोघोई को गोली मारी। वह गुवाहाटी में पांच लोगों की हत्या का आरोपी था। गोघोई ने अस्पताल में ही दम तोड़ दिया। पुलिस का कहना है कि उसने पिस्तौल छीनने की कोशिश की थी। गुवाहाटी में पांच लोगों की हत्या के आरोपी का एनकाउंटर; अस्पताल में तोड़ा दम; पिस्तौल छीनने की थी।
 
-### [‘इजरायल को 4 अरब डॉलर की मदद बंद कर देगा अमेरिका’, दोस्त नेतन्याहू को डोनाल्ड ट्रंप का धोखा या कुछ](https://hindi.news18.com/world/america-donald-trump-announces-end-to-4-billion-dollar-annual-us-aid-to-israel-by-end-of-2026-after-deal-with-benjamin-netanyahu-10961490.html)
-*News18 Hindi (World)* - Nov 03, 23:28 IST (iso: 2026-11-03T17:58:14+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-Announces-End-to-4-Billion-dollar-Annual-US-Aid-to-Israel-by-End-2026-11-04eb5de7fc154cc9a600a845cb0430f3-1200x800.jpg -->
+### [ट्रंप के फैसले से इस्राइल पर संकट?: अमेरिकी मदद बंद होने पर नेतन्याहू घिरे, विपक्ष बोला- सुरक्षा पर](https://www.amarujala.com/world/crisis-for-israel-trump-decision-netanyahu-under-pressure-us-aid-ceases-opposition-warns-major-security-threat-2026-11-04)
+*Amar Ujala World* - Nov 04, 07:41 IST (iso: 2026-11-04T02:11:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/yayara-lpada-vapakashha-ka-nata-isarail_9a4efaeb9231af7741c1538f3071a120.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी राष्ट्रपति ट्रंप ने 2026 के अंत तक इजरायल को दी जाने वाली चार अरब डॉलर की वार्षिक सहायता बंद करने का ऐलान किया है। उन्होंने कहा कि नेतन्याहू के साथ इस पर सहमति हो चुकी है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने बड़ा ऐलान किया है. उन्होंने कहा है कि अमेरिका साल 2026 के अंत तक इज़राइल को मिलने वाली हर साल की 4 अरब डॉलर की मदद बंद कर देगा.
+ट्रंप के फैसले से अमेरिकी सैन्य मदद बंद होने की आशंका ने इस्राइल को घेरा है। प्रधानमंत्री नेतन्याहू पर विपक्ष ने सुरक्षा को लेकर बड़ा खतरा उठाने का आरोप लगाया है। इस्राइल की रक्षा व्यवस्था पर प्रभाव पड़ने की चर्चा है। ट्रंप के फैसले से इस्राइल पर संकट?: अमेरिकी मदद बंद होने पर नेतन्याहू घिरे, विपक्ष बोला- सुरक्षा पर।
 
-### [पीएम मोदी-नेतन्याहू के बाद भी कायम रहेंगे भारत-इजरायल के रिश्ते? इजरायली रिपोर्ट ने बताई बड़ी चुनौती](https://www.patrika.com/world-news/pm-modi-netanyahu-bond-india-israel-partnership-report-21028573)
-*Patrika (World)* - Nov 03, 22:29 IST (iso: 2026-11-03T16:59:49+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/India-Israel-partnership.webp -->
+### ['हम ट्रंप को मार डालेंगे', मिडटर्म चुनावों के बीच ईरान में बवाली होर्डिंग्स, नेतन्याहू को और बुरा](https://hindi.news18.com/world/middle-east-iran-unveils-enormous-hoardings-written-we-will-kill-you-trump-depicted-injured-netanyahu-ws-l-10961677.html)
+*News18 Hindi (World)* - Nov 04, 06:50 IST (iso: 2026-11-04T01:20:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/iran-billboard-2026-11-72726a226434def5390b49c003618447-1200x800.jpg -->
 
-द टाइम्स ऑफ इजरायल की रिपोर्ट के अनुसार, मोदी और नेतन्याहू के बीच व्यक्तिगत रिश्ते ही दोनों देशों की रणनीतिक साझेदारी को मजबूत रखते हैं। रिपोर्ट ने इसी पर निर्भरता को बड़ी चुनौती बताया है। India Israel Partnership: प्रधानमंत्री नरेंद्र मोदी और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच करीबी संबंधों ने भारत और इजरायल की रणनीतिक साझेदारी को नई मजबूती दी है।
+अमेरिका में मिडटर्म चुनावों के बीच ईरान में ट्रंप के खिलाफ नए होर्डिंग्स लगे हैं। इन पर लिखा है कि ईरान ट्रंप को मार डालेगा। Iran Threat to Donald Trump: एक तरफ अमेरिका में मिडटर्म चुनाव चल रहे हैं, वहीं दूसरी ओर ईरान में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के खिलाफ होर्डिंगबाजी जारी है. ईरान के चौक-चौराहों पर ट्रंप की मौत का ऐलान करती हुईं होर्डिंग्स लगाई गई हैं.
 
-### [सिर्फ अपनी पार्टी का साथ, बाकी सबने कहा ‘ना’: स्वीडन में प्रधानमंत्री पद पर गतिरोध बरकरार](https://www.patrika.com/world-news/sweden-political-crisis-parliament-rejects-centre-party-leader-prime-minister-21028477)
-*Patrika (World)* - Nov 03, 21:28 IST (iso: 2026-11-03T15:58:55+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Elisabeth-Thand-Ringqvist-1.webp -->
+### [ट्रंप रोकेंगे 4 अरब डॉलर की सैन्य मदद: इजरायल में मचा सियासी घमासान, विपक्ष बोला- नेतन्याहू ने टेक](https://www.patrika.com/world-news/donald-trump-end-us-aid-to-israel-yair-lapid-netanyahu-criticism-21028627)
+*Patrika (World)* - Nov 04, 06:43 IST (iso: 2026-11-04T01:13:06+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-Endorsement.webp -->
 
-स्वीडिश संसद ने एलिजाबेथ थांड रिंगक्विस्ट को प्रधानमंत्री बनाने के प्रस्ताव को खारिज कर दिया। 324 सांसदों ने उनके खिलाफ वोट डाला, जबकि केवल 25 ने समर्थन किया। आम चुनाव के दो महीने बाद भी देश में राजनीतिक अडचणें बनी हुई हैं। Sweden Political Crisis: स्वीडिश संसद ने मंगलवार को सेंटर पार्टी की नेता एलिजाबेथ थांड रिंगक्विस्ट को देश का नया प्रधानमंत्री बनाने के प्रस्ताव को खारिज कर दिया।
-
-### [हूती विद्रोहियों ने सऊदी अरब पर किए हमले, आभा इंटरनेशनल एयरपोर्ट और खमीस मुशैत एयरबेस को बनाया](https://www.patrika.com/world-news/houthis-attack-saudi-arabia-targeting-abha-international-airport-and-khamis-mushait-air-base-21028447)
-*Patrika (World)* - Nov 03, 21:07 IST (iso: 2026-11-03T15:37:15+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/houthis-missile-attack.webp -->
-
-यमन के हूती विद्रोहियों ने सऊदी अरब पर दो नए हमले किए। आभा इंटरनेशनल एयरपोर्ट और खमीस मुशैत एयरबेस को निशाना बनाया गया। पिछले ढाई महीनों से दोनों देशों के बीच ऐसे ही हमलों का सिलसिला जारी है। यमन (Yemen) के हूती विद्रोहियों (Houthis) की देश की सरकारी सेना के साथ ही सऊदी अरब (Saudi Arabia) से भी जंग चल रही है।
-
-### [नदी के नीचे दबी 2600 साल पुरानी दुनिया, डिफेंस सिस्टम के आगे हारे वैज्ञानिक, जुगाड़ लगाकर झांका तो](https://hindi.news18.com/world/middle-east-ancient-egyptian-complex-found-2600-year-old-buried-city-discovered-using-satellite-radar-and-ert-technology-10961223.html)
-*News18 Hindi (World)* - Nov 03, 20:59 IST (iso: 2026-11-03T15:29:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Ancient-Egyptian-Complex-Found-2600-Year-Old-Buried-City-2026-11-3cdc2a287e61d9080dd373878fb35691-1200x800.jpg -->
-
-मिस्र के नील डेल्टा में 2,600 साल पुराना खंडहर पानी और कीचड़ के नीचे मिला। सैटेलाइट रडार और ईआरटी तकनीक से इसकी खोज हुई। यहाँ प्राचीन इंजीनियरिंग की तकनीक और धार्मिक अवशेष मिले हैं। मिस्र के नील डेल्टा में एक बहुत बड़ा पुराना खंडहर दबा हुआ था. ये करीब 2,600 साल पुराना है और कीचड़ व पानी के नीचे छिपा था.
-
-### [डोनाल्ड ट्रंप का बड़ा फैसला, इज़रायल को अमेरिका की तरफ से दी जाने वाली सालाना 37 हज़ार करोड़ की सैन्य](https://www.patrika.com/world-news/donald-trump-says-us-will-stop-4-billion-annual-military-aid-to-israel-at-end-of-2026-21028400)
-*Patrika (World)* - Nov 03, 20:38 IST (iso: 2026-11-03T15:08:06+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/donald-trump_.webp -->
-
-ट्रंप ने इज़रायल को दी जाने वाली सालाना चार अरब डॉलर की सैन्य सहायता रद्द कर दी। यह फैसला अमेरिकी मिडटर्म चुनावों के दौरान लिया गया। इससे दोनों देशों के बीच रक्षा संबंधों पर असर पड़ेगा। अमेरिका (United States of America) में मिडटर्म चुनाव की शुरुआत हो गई है। देशभर में लोग पोलिंग स्टेशन पर जाकर वोट दे रहे हैं।
+अमेरिका ने इजरायल को दी जाने वाली चार अरब डॉलर की वार्षिक सैन्य सहायता रोकने का ऐलान किया है। इस फैसले ने इजरायल में राजनीतिक अस्थिरता बढ़ा दी है। विपक्षी नेता यायर लैपिड ने इसे सुरक्षा विफलता करार देते हुए प्रधानमंत्री नेतन्याहू पर सवाल उठाए हैं। US Aid to Israel: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के इजरायल को दी जाने वाली लगभग 4 अरब डॉलर की सालाना आर्थिक और सैन्य सहायता बंद करने के ऐलान के बाद वहां की राजनीति में हलचल तेज हो गई है।
 
 ---
 
 ## यूरोप और रूस
 
-### [गाइड सिर्फ 5 मिनट के लिए हटा और वो 1500 मीटर गहरी खाई में जा गिरा, 6814 मीटर ऊंची चोटी फतह कर लौट](https://hindi.news18.com/world/rest-of-world-german-climber-dies-in-1500m-fall-from-ama-dablam-peak-in-nepal-10961379.html)
-*News18 Hindi (World)* - Nov 03, 21:59 IST (iso: 2026-11-03T16:29:44+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Nepal_Mountain_Accident2-2026-11-67226301abc245a73fc93c8f960d2e99-1200x800.jpg -->
+### [जॉर्जिया से सीनेटर जॉन ओसॉफ ने दर्ज की शानदार जीत, रिपब्लिकन पर क्या बोले?](https://www.amarujala.com/world/jon-ossoff-wins-reelection-georgia-defeats-republican-mike-collins-2026-11-04)
+*Amar Ujala World* - Nov 04, 07:58 IST (iso: 2026-11-04T02:28:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/danalda-tarapa-amaraka-rashhatarapata_94092689a3f65aaa95f9d5ea7e785318.jpeg?w=1200&dpr=1.0 -->
 
-जर्मन पर्वतारोही वोल्फगैंग वास्चिजेक की अमा डबलाम चोटी से लौटते समय मौत हो गई। कैंप-3 से नीचे उतरते समय वे 1,500 मीटर गहरी खाई में गिर गए। गाइड के पांच मिनट के लिए दूर जाने के दौरान यह हादसा हुआ। हिमालय में स्थित 6,814 मीटर ऊंची अमा डबलाम चोटी फतह करके लौट रहे 57 साल के जर्मन पर्वतारोही वोल्फगैंग वास्चिजेक की दर्दनाक मौत हो गई है.
+जॉर्जिया में सीनेटर जॉन ओसॉफ ने रिपब्लिकन प्रतिद्वंद्वी माइक कॉलिन्स को हराकर पुनर्चयन जीता। यह जीत डोनाल्ड ट्रंप और रिपब्लिकन पार्टी के लिए एक बड़ा झटका है। ओसॉफ ने अपनी जीत के बाद पार्टी के खिलाफ कड़ी आलोचना की। डोनाल्ड ट्रंप को बड़ा झटका: जॉर्जिया से सीनेटर जॉन ओसॉफ ने दर्ज की शानदार जीत, रिपब्लिकन पर क्या बोले?
 
-### [व्हाइट हाउस में 5 नवंबर को रूस और यूक्रेन के प्रतिनिधियों को साथ लाएंगी मेलानिया ट्रंप, सीजफायर पर](https://www.patrika.com/world-news/melania-trump-russia-ukraine-white-house-meeting-november-5-21028277)
-*Patrika (World)* - Nov 03, 19:33 IST (iso: 2026-11-03T14:03:22+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Melania-Trump.webp -->
+---
 
-मेलानिया ट्रंप 5 नवंबर को व्हाइट हाउस में रूस और यूक्रेन के प्रतिनिधियों को बुला रही हैं। वे खेरसॉन क्षेत्र में सीजफायर पर बयान देंगी। कार्यक्रम सुबह ग्यारह बजे अमेरिकी समय पर होगा। Melania Trump: रूस और यूक्रेन के बीच जारी युद्ध के बीच अमेरिका की प्रथम महिला मेलानिया ट्रंप 5 नवंबर 2026 को व्हाइट हाउस में दोनों देशों के प्रतिनिधियों को एक मंच पर लाने जा रही हैं।
+## अमेरिका
+
+### [US Midterm Election Results 2026 LIVE: ट्रंप को झटके दे रहा मिडटर्म, रिपब्लिकन किले में डेमोक्रेट्स](https://hindi.news18.com/world/america-us-midterm-election-results-2026-live-updates-voting-closed-counting-start-republican-vs-democrats-live-blog-donald-trump-livenews-10961612.html)
+*News18 Hindi (World)* - Nov 04, 07:52 IST (iso: 2026-11-04T02:22:28+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/donald-trump-us-2026-11-406d932ec6f7bd79fa05d36972c856fb-1200x800.jpg -->
+
+अमेरिकी मिडटर्म चुनाव में रिपब्लिकन बहुल राज्यों में डेमोक्रेट्स को बढ़त मिल रही है। राष्ट्रपति डोनाल्ड ट्रंप की लोकप्रियता में गिरावट दर्ज की गई है। वोटों की गिनती जारी है और परिणाम अभी आधिकारिक रूप से घोषित नहीं हुए हैं। खासतौर पर राष्ट्रपति डोनाल्ड ट्रंप के लिए ये किसी लिटमस टेस्ट से कम नहीं है. कुछ राज्यों में क्लोज होने के बाद वोटों की धड़ाधड़ गिनती हो रही है.
+
+### [हाउस-सीनेट में डेमोक्रेट्स को बढ़त, ट्रंप की पार्टी पीछे, रामास्वामी का मुकाबला फंसा](https://www.patrika.com/world-news/us-midterm-election-2026-early-trends-democrats-lead-vivek-ramaswamy-ohio-21028630)
+*Patrika (World)* - Nov 04, 07:01 IST (iso: 2026-11-04T01:31:50+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/donald-trump_.webp -->
+
+अमेरिका के मध्यावधि चुनावों में डेमोक्रेटिक पार्टी को प्रारंभिक बढ़त मिली है। प्रतिनिधि सभा में वे 17 सीटों पर आगे हैं, जबकि रिपब्लिकन 12 सीटों पर हैं। सीनेट में डेमोक्रेट 41 और रिपब्लिकन 31 सीटों पर आगे चल रहे हैं। US Midterm Elections 2026: अमेरिका में मध्यावधि चुनाव खत्म होने के साथ ही मतगणना शुरू हो गई है। शुरुआती रुझान भी सामने आने लगे हैं।
 
 ---
 

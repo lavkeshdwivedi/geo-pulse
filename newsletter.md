@@ -1,6 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 04, 2026 03:37 IST
+**Updated:** November 04, 2026 08:18 IST
+
+---
+
+## Global / Multilateral
+
+### [Celebrity couple Hong Ling and Nick Teo reveal they are having a baby girl](https://www.channelnewsasia.com/entertainment/hong-ling-nick-teo-reveal-baby-gender-girl-6514696)
+*Channel News Asia* - Nov 04, 05:27 IST (iso: 2026-11-03T23:57:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--nayookCa--/c_crop,h_1125,w_2000,x_0,y_68/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/03/hong-ling-nick-teo-reveal-baby-gender_1.jpg?itok=nCDQ_Vfa -->
+
+Singaporean actress Hong Ling and her husband Nick Teo announced the birth of their first child, a girl. The couple had expected a boy based on a traditional Chinese medicine practitioner's prediction. They briefly suspected the family members holding the reveal letter had misread the results. The announcement confirmed the arrival of their daughter. They were so convinced they were having a boy, as predicted by their TCM practitioner, that they wondered if Hong Ling's dad and sister, who were entrusted with the gender reveal results, had “read the letter wrongly”.
+
+### [Six in seven journalist murders go unpunished, UNESCO reports](https://news.un.org/feed/view/en/story/2026/11/1168719)
+*UN News* - Nov 02, 17:30 IST (iso: 2026-11-02T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-journalist.jpg/image770x420cropped.jpg -->
+
+UNESCO reports that six in seven journalist murders go unpunished. Global impunity for these killings has risen for the first time in over a decade. The organization also flags the growing use of drones as an emerging threat to reporters working in active conflict zones. Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.
 
 ---
 
@@ -106,12 +122,6 @@ António Guterres stated the UN remains committed to a political solution in Wes
 
 UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
 
-### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
-*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
-<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Giulia Paravicini reported from Asmara on life in Eritrea. She examined how the isolated nation's leadership calculates its position. Regional turmoil and rising tensions with Ethiopia shape these strategic decisions. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
-
 ---
 
 ## Americas
@@ -139,16 +149,6 @@ US Republicans face a potentially punishing verdict in Tuesday's midterm electio
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg -->
 
 Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.
-
----
-
-## Global / Multilateral
-
-### [Six in seven journalist murders go unpunished, UNESCO reports](https://news.un.org/feed/view/en/story/2026/11/1168719)
-*UN News* - Nov 02, 17:30 IST (iso: 2026-11-02T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-journalist.jpg/image770x420cropped.jpg -->
-
-UNESCO reports that six in seven journalist murders go unpunished. Global impunity for these killings has risen for the first time in over a decade. The organization also flags the growing use of drones as an emerging threat to reporters working in active conflict zones. Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.
 
 ---
 
