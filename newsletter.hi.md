@@ -1,176 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 04, 2026 08:18 IST
-
----
-
-## दुनिया
-
-### [बीत चुके हैं 5 दिन, क्या अब तक आपके खाते में नहीं आई 24वीं किस्त? यहां जानें क्या करें किसान](https://www.amarujala.com/photo-gallery/utility/pm-kisan-24th-installment-5-days-passed-why-has-the-2000-rupees-not-reached-your-bank-account-yet-2026-11-04)
-*Amar Ujala Breaking* - Nov 04, 08:08 IST (iso: 2026-11-04T02:38:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/kaya-naha-mal-aapaka-24va-kasata_6a9f6f2672a5a1965cd49da9d94ced50.jpeg?w=1200&dpr=1.0 -->
-
-पीएम किसान योजना की 24वीं किस्त 30 अक्तूबर 2026 को जारी हुई। इसका लाभ 9.34 करोड़ से अधिक किसानों को मिला। खाते में राशि न आने पर किसानों को संबंधित बैंक या पोर्टल से संपर्क करना चाहिए। पीएम किसान योजना की 24वीं किस्त 30 अक्तूबर 2026 को जारी की गई इस किस्त का लाभ 9.34 करोड़ से अधिक किसानों को मिला।
-
-### [श्रीगंगानगर में रेल ट्रैक ब्लास्ट से सुरक्षा एजेंसियों में हड़कंप](https://www.amarujala.com/video/india-news/rail-blast-in-sri-ganganagar-causes-alarm-among-security-agencies-2026-11-04)
-*Amar Ujala National* - Nov 04, 08:04 IST (iso: 2026-11-04T02:34:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/rail-track-blast_670234bc65186da2eafb6831797f2a85.jpeg?w=1200&dpr=1.0 -->
-
-श्रीगंगानगर में रेलवे ट्रैक पर बम विस्फोट हुआ। इस घटना के बाद सुरक्षा एजेंसियों में हड़कंप मच गया। अधिकारियों ने तुरंत क्षेत्र में सुरक्षा बढ़ा दी और जांच शुरू कर दी। श्रीगंगानगर में रेल ब्लास्ट से सुरक्षा एजेंसियों में हड़कंप। श्रीगंगानगर में रेल ट्रैक ब्लास्ट से सुरक्षा एजेंसियों में हड़कंप।
-
-### [सितारों ने लगाए चार चांद, सलमान के स्वैग से जमा रंग, पत्नी के साथ पहुंचे बॉबी देओल](https://www.amarujala.com/entertainment/diwali-party-2026-salman-khan-raveena-tandon-ayushmann-bobby-deol-film-celebs-at-ramesh-taurani-diwali-bash-2026-11-04)
-*Amar Ujala National* - Nov 04, 08:03 IST (iso: 2026-11-04T02:33:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/ramasha-tarana-ka-thaval-parata-ma-pahaca-satara_a52e83917e4cb86ce06c96351553e9ca.jpeg?w=1200&dpr=1.0 -->
-
-निर्माता रमेश तौरानी ने अपनी वार्षिक दिवाली पार्टी का आयोजन किया। सलमान खान और बॉबी देओल सहित कई बॉलीवुड सितारे इस कार्यक्रम में शामिल हुए। यह पार्टी हर साल बॉलीवुड की चर्चित घटनाओं में से एक है। Ramesh Taurani Diwali Party: निर्माता रमेश तौरानी हर साल दिवाली पार्टी का आयोजन करते हैं। उनकी दिवाली पार्टी बॉलीवुड में मशहूर है और हर साल यहां सितारे रौनक बिखेरते हैं।
-
-### [परीक्षा से डेढ़ महीने पहले कैसे करें तैयारी? मॉक टेस्ट से लेकर रिवीजन तक अपनाएं ये तरीका](https://www.amarujala.com/education/ctet-2026-preparation-tips-subject-wise-strategy-exam-pattern-and-important-tips-2026-11-04)
-*Amar Ujala National* - Nov 04, 07:55 IST (iso: 2026-11-04T02:25:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/ctet-2026-preparation-tips_36d9b9d77fb8780ccabe3bec3f426fb9.jpeg?w=1200&dpr=1.0 -->
-
-सीबीएसई ने 12 और 13 दिसंबर 2026 को सीटीईटी परीक्षा की तिथि तय की है। अभ्यर्थियों के पास अब करीब डेढ़ महीने का समय बचा है। तैयारी के लिए मॉक टेस्ट और नियमित रिवीजन की सलाह दी गई है। CTET 2026 Preparation Tips: सीबीएसई की केंद्रीय शिक्षक पात्रता परीक्षा (सीटीईटी) 12 और 13 दिसंबर 2026 को आयोजित होगी। परीक्षा में अब करीब डेढ़ महीने का समय बचा है।
-
-### [सुनेत्रा पवार ने बुलाई विधायकों की बैठक, पार्थ पवार के संगठन पर दबदबे की भी चर्चा](https://www.amarujala.com/india-news/maharashtra-sunetra-pawar-calls-ncp-meeting-amid-internal-rift-concerns-over-parth-pawar-s-role-2026-11-04)
-*Amar Ujala National* - Nov 04, 07:43 IST (iso: 2026-11-04T02:13:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/01/upamakhayamatara-sanatara-pavara_9955db81165939dee538c49dc1263956.jpeg?w=1200&dpr=1.0 -->
-
-महाराष्ट्र में एनसीपी के अंदरूनी मतभेदों के बीच सुनेत्रा पवार ने विधायकों की बैठक बुलाई है। बैठक में पार्थ पवार के संगठन में दबदबे की चर्चा होगी। पार्टी के भीतर चल रहे विवाद को शांत करने का प्रयास किया जा रहा है। सुनेत्रा पवार ने बुलाई विधायकों की बैठक, पार्थ पवार के संगठन पर दबदबे की भी चर्चा।
-
-### [एसबीआई में मैनेजर और डिप्टी मैनेजर पदों पर भर्ती: आज से आवेदन शुरू, किस आधार पर होगा चयन? जानें](https://www.amarujala.com/jobs/sbi-so-recruitment-2026-apply-for-60-manager-and-deputy-manager-security-posts-2026-11-04)
-*Amar Ujala National* - Nov 04, 07:24 IST (iso: 2026-11-04T01:54:13+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/sbi-so-recruitment-2026_f369ff2d60cbca4557530bc33b5550b0.jpeg?w=1200&dpr=1.0 -->
-
-स्टेट बैंक ऑफ इंडिया ने 60 मैनेजर और डिप्टी मैनेजर पदों के लिए भर्ती प्रक्रिया शुरू की है। आवेदन 4 नवंबर से 25 नवंबर 2026 तक स्वीकार होंगे। चयन प्रक्रिया की विस्तृत जानकारी नोटिफिकेशन में दी गई है। SBI SO Recruitment 2026: स्टेट बैंक ऑफ इंडिया ने मैनेजर और डिप्टी मैनेजर (सिक्योरिटी) के 60 पदों पर भर्ती का नोटिफिकेशन जारी किया है।
-
-### [रक्षा मंत्री से चिंता जता गए एपी सिंह, जमीन वायुसेना के नियंत्रण में रखने की मांग](https://www.amarujala.com/india-news/racecourse-sports-complex-ap-singh-conveys-concerns-rajnath-singh-demands-land-remain-under-air-force-control-2026-11-04)
-*Amar Ujala National* - Nov 04, 07:23 IST (iso: 2026-11-04T01:53:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/parava-eyara-cafa-marashal-epa-saha_239c2773d7469a87bcccc98b80b1062a.jpeg?w=1200&dpr=1.0 -->
-
-एपी सिंह ने रक्षा मंत्री राजनाथ सिंह से बात कर चिंता जताई। उन्होंने मांग की कि रेसकोर्स खेल परिसर की जमीन वायुसेना के नियंत्रण में ही रहे। इस मुद्दे पर दोनों पक्षों के बीच संवाद जारी है। रक्षा मंत्री से चिंता जता गए एपी सिंह, जमीन वायुसेना के नियंत्रण में रखने की मांग।
-
-### [राहुल गांधी की बढ़ती सियासी ताकत से भाजपा सतर्क: पहली बार देशभर में खोला इतना बड़ा मोर्चा, जानें](https://www.amarujala.com/india-news/bjp-on-alert-over-rahul-gandhi-growing-political-strength-launches-major-nationwide-offensive-2026-11-04)
-*Amar Ujala National* - Nov 04, 07:09 IST (iso: 2026-11-04T01:39:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/paema-matha-oura-gaha-matara_b7fede715b6bcfbccea220ca4bdd35dc.jpeg?w=1200&dpr=1.0 -->
-
-भाजपा ने राहुल गांधी की बढ़ती सियासी ताकत को देखते हुए देशभर में बड़ा मोर्चा खोला है। यह पहली बार है जब पार्टी ने इतने बड़े पैमाने पर अभियान चलाया है। विपक्षी गठजोड़ को रोकने के उद्देश्य से यह कदम उठाया गया है। राहुल गांधी की बढ़ती सियासी ताकत से भाजपा सतर्क: पहली बार देशभर में खोला इतना बड़ा मोर्चा, जानें।
-
-### [एक्ट्रेस बनने की चाहत पर मिली तेजाब डालने की धमकी? अभिनेत्री ने सुनाई बचपन की दर्दनाक कहानी](https://www.amarujala.com/entertainment/celebs-interviews/sheeba-azhar-samrat-interview-vasudha-fame-actress-talks-about-her-career-and-struggle-journey-2026-11-03)
-*Amar Ujala National* - Nov 04, 07:00 IST (iso: 2026-11-04T01:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/shab-ajahara-samarata_e51a6bdf15f4740522732a2542ae80ab.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर प्रदेश की प्रतापगढ़ से आने वाली टीवी अभिनेत्री शीबा अजहर सम्राट ने बताया कि बचपन में अभिनय की इच्छा के कारण उन्हें मारपीट झेलनी पड़ी थी। टीवी अभिनेत्री शीबा अजहर सम्राट के लिए अभिनय की दुनिया तक पहुंचना आसान नहीं रहा। उत्तर प्रदेश के प्रतापगढ़ से आने वाली शीबा को बचपन में फिल्मों के शौक के लिए मार तक खानी पड़ी।
-
-### [इंसान ही नहीं जानवर भी मनाते हैं अपनों की मौत का शोक, साथी के बिछड़ने पर वर्षों तक नहीं भूलते दर्द](https://www.amarujala.com/world/animals-mourn-death-of-their-own-kind-coyotes-and-chimpanzees-fall-into-depression-when-companion-is-lost-2026-11-04)
-*Amar Ujala World* - Nov 04, 06:53 IST (iso: 2026-11-04T01:23:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/sakataka-tasavara_b48ee319189278c3e064a6fece10d6f0.jpeg?w=1200&dpr=1.0 -->
-
-शोध से पता चला है कि कोयोट और चिम्पैंज़ी जैसे जानवर भी अपने साथी की मृत्यु पर शोक मनाते हैं और वर्षों तक उस दर्द को नहीं भूलते। इंसान ही नहीं जानवर भी मनाते हैं अपनों की मौत का शोक, साथी के बिछड़ने पर वर्षों तक नहीं भूलते दर्द।
-
-### [घरेलू हिंसा के आरोप लगाने भर से नहीं मिलेगी राहत, सबूत देना जरूरी; अदालत ने खारिज की महिला की याचिका](https://www.amarujala.com/delhi-ncr/mere-allegations-of-domestic-violence-are-not-enough-for-relief-evidence-is-essential-2026-11-04)
-*Amar Ujala Breaking* - Nov 04, 06:51 IST (iso: 2026-11-04T01:21:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/30/court-ai-content_f88b44fa8487023906e376e4e63c1825.jpeg?w=1200&dpr=1.0 -->
-
-अदालत ने घरेलू हिंसा के मामले में महिला की याचिका खारिज कर दी। कोर्ट ने कहा कि केवल आरोप लगाने से राहत नहीं मिलती, सबूत देना जरूरी है। घरेलू हिंसा के मामले में केवल आरोप लगाने से महिला को कानूनी राहत नहीं मिल सकती। घरेलू हिंसा के आरोप लगाने भर से नहीं मिलेगी राहत, सबूत देना जरूरी; अदालत ने खारिज की महिला की याचिका।
-
----
-
-## एशिया-प्रशांत
-
-### [वोटिंग खत्म, आने लगे नतीजे, ट्रंप ने किसकी जीत पर दी बधाई; अमेरिकी-भारतीयों का रुख क्या?](https://www.amarujala.com/live/world/us-midterm-elections-2026-live-updates-voting-trump-republicans-democrats-house-senate-2026-11-03)
-*Amar Ujala World* - Nov 04, 08:04 IST (iso: 2026-11-04T02:34:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/amaraka-ma-mathhayavathha-canava_4f8eeeb8ee03d0b7a45d2e2017ea8b39.gif?w=1200&dpr=1.0 -->
-
-अमेरिका के मध्यावधि चुनावों में मौसम ने मतदान प्रक्रिया को प्रभावित किया। कई राज्यों में अंतिम घंटे तक वोटिंग जारी रही। डोनाल्ड ट्रंप मीडिया कवरेज से असंतुष्ट हैं। US मध्यावधि चुनाव LIVE: मतदान पर मौसम का असर, कई राज्यों में अंतिम घंटे की वोटिंग; ट्रंप मीडिया कवरेज से नाराज। वोटिंग खत्म, आने लगे नतीजे, ट्रंप ने किसकी जीत पर दी बधाई; अमेरिकी-भारतीयों का रुख क्या?
-
-### [प्राचीन इतिहास का प्रतिबिंब है पुराना किला](https://www.amarujala.com/columns/blog/purana-qila-is-a-reflection-of-delhi-ancient-history-2026-11-04)
-*Amar Ujala National* - Nov 04, 07:31 IST (iso: 2026-11-04T02:01:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/thall-ma-sathata-parana-kal_afe6cc1929f6884771da7af7414d159a.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली के पुराने किले के क्षेत्र में 2600 वर्ष पुराना इतिहास समेटा हुआ है। अबुल फजल ने लिखा था कि दिल्ली का प्राचीन नाम इंद्रप्रस्थ था। यह स्थान प्राचीन इतिहास का एक महत्वपूर्ण प्रतिबिंब माना जाता है। आज जहां पुराना किला विद्यमान है, वह क्षेत्र अपने भीतर 2600 वर्ष का इतिहास समेटे हुए है। इसी पुराने किले के विषय में अबुल फजल ने लिखा था कि दिल्ली जिसका प्राचीन नाम इंद्रप्रस्थ है।
-
-### [76 मिनट में 6 भूकंप से दहला यह देश, जलजला से बार-बार कांप रहे लोग, क्या आने वाला ही तबाही?](https://hindi.news18.com/world/rest-of-world-earthquake-today-news-tajikistan-earthquake-six-tremors-felt-in-76-minutes-bhukamp-news-10961662.html)
-*News18 Hindi (World)* - Nov 04, 07:22 IST (iso: 2026-11-04T01:52:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Earthquake-17-2026-10-b2eccb94fcb3e45fb6c537267a5f986c-1200x800.jpg -->
-
-ताजिकिस्तान में बुधवार सुबह 76 मिनट के अंदर छह भूकंप आए। सबसे तीव्र झटका 5.3 रिक्टर स्केल पर दर्ज हुआ। स्थानीय लोगों में दहशत फैली हुई है और निगरानी जारी है। Earthquake News: ताजिकिस्तान में बुधवार सुबह भूकंप के लगातार छह झटके दर्ज किए गए. महज 1 घंटे 16 मिनट के भीतर आए इन भूकंपों की तीव्रता 3.2 से 5.3 के बीच रही.
-
-### [इस्राइल चुनाव के आधिकारिक नतीजे होंगे जारी, न्यूजीलैंड-भारत के बीच पांच मैचों की वनडे सीरीज का आगाज](https://www.amarujala.com/india-news/04-november2026-major-event-2026-2026-11-03)
-*Amar Ujala Breaking* - Nov 04, 06:53 IST (iso: 2026-11-04T01:23:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/aaja-ka-khabra_f3a2fad6de9c55c8ce3daf9164641a9c.gif?w=1200&dpr=1.0 -->
-
-बुधवार 04 नवंबर को इजराइल के चुनाव के आधिकारिक नतीजे जारी होंगे। इसी दिन न्यूजीलैंड और भारत के बीच पांच मैचों की वनडे सीरीज का आगाज होगा। नमस्कार! आज है बुधवार, 04 नवंबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं इस्राइल चुनाव के आधिकारिक नतीजे होंगे जारी, न्यूजीलैंड-भारत के बीच पांच मैचों की वनडे सीरीज का आगाज।
-
-### [वनडे में सबसे बड़ी पारी, टी20 में सर्वाधिक शतक; विश्व कप में खेली यादगार पारी](https://www.amarujala.com/cricket/cricket-news/glenn-maxwell-retirement-highest-innings-in-odis-to-most-centuries-in-t20s-check-australian-all-rounder-stats-2026-11-03)
-*Amar Ujala Breaking* - Nov 04, 06:41 IST (iso: 2026-11-04T01:11:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/aus_00547f441346e27750707ac383134b13.jpeg?w=1200&dpr=1.0 -->
-
-ऑस्ट्रेलिया के अनुभवी ऑलराउंडर ग्लेन मैक्सवेल ने अंतरराष्ट्रीय क्रिकेट से संन्यास ले लिया है। मैक्सवेल को वनडे में सबसे बड़ी पारी और टी20 में सर्वाधिक शतकों के रिकॉर्ड के लिए जाना जाता है। उन्होंने ऑस्ट्रेलिया के लिए कई यादगार प्रदर्शन किए हैं। मैक्सवेल की पहचान तूफानी बल्लेबाज के रूप में रही है और उन्होंने ऑस्ट्रेलिया के लिए कई यादगार पारियां खेली है।
-
-### [बांग्लादेश में सड़कों पर क्यों उतरे कपड़ा मजदूर, हिंसक प्रदर्शन से कैसे बिगड़े देश के हालात?](https://www.amarujala.com/world/explainer-why-are-garment-workers-protesting-in-bangladesh-and-how-has-the-violence-escalated-2026-11-03)
-*Amar Ujala World* - Nov 04, 06:41 IST (iso: 2026-11-04T01:11:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/bgalthasha-ma-varathha-paratharashana_d0d2f2b5b77085d97f2253a155c9ff6c.jpeg?w=1200&dpr=1.0 -->
-
-बांग्लादेश में कपड़ा मजदूरों के हिंसक प्रदर्शनों ने देश के हालात बिगाड़ दिए हैं। मजदूरों ने सड़कों पर उतरकर अपनी मांगें रखीं। इन घटनाओं के बाद देश में सामाजिक और राजनीतिक तनाव बढ़ गया है। स्थिति नियंत्रण में लाने के लिए प्रशासन ने कड़ी कार्रवाई शुरू की है। एक्सप्लेनर: बांग्लादेश में सड़कों पर क्यों उतरे कपड़ा मजदूर, हिंसक प्रदर्शन से कैसे बिगड़े देश के हालात?
-
-### [यमुना रिवर सफारी आज से, सोनिया विहार में दिखेगा गोवा जैसा नजारा; इलाके की साज-सज्जा का काम जारी](https://www.amarujala.com/delhi-ncr/east-delhi-yamuna-river-safari-starts-today-a-goa-like-scene-to-be-seen-in-sonia-vihar-2026-11-04)
-*Amar Ujala Breaking* - Nov 04, 06:38 IST (iso: 2026-11-04T01:08:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/1_be523b6628c067e9bd192a6286e21e50.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली के यमुना किनारे सोनिया विहार में बुधवार से नदी सफारी शुरू हो रही है। यह परियोजना स्थानीय पर्यटकों के लिए नया आकर्षण बनने जा रही है। इलाके की साज-सज्जा का काम जारी है। यह सफारी दिल्लीवासियों को गोवा जैसा अनुभव देने का दावा करती है। यमुना किनारे सोनिया विहार में बुधवार से शुरू होने जा रही रिवर सफारी दिल्लीवासियों के लिए पर्यटन का नया आकर्षण बनने जा रही है।
+**अपडेट:** November 04, 2026 15:32 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [गुवाहाटी में पांच लोगों की हत्या के आरोपी का एनकाउंटर; अस्पताल में तोड़ा दम; पिस्तौल छीनने की थी](https://www.amarujala.com/india-news/assam-shooting-case-accused-ghanakanta-gogoi-dies-after-police-firing-in-sivasagar-2026-11-04)
-*Amar Ujala National* - Nov 04, 07:59 IST (iso: 2026-11-04T02:29:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/04/14/aparathha-sakataka-tasavara_cbf5496b7e9147e0086b6af1e5ae8ff4.jpeg?w=1200&dpr=1.0 -->
+### [होर्मुज स्ट्रेट में तेल के चार जहाज बने समुदी बारूदी सुरंगों का शिकार, ईरानी नेवी को चकमा देने की](https://www.patrika.com/world-news/four-tankers-explode-in-strait-of-hormuz-due-to-naval-mines-while-trying-to-deceive-iran-navy-21029948)
+*Patrika (World)* - Nov 04, 15:06 IST (iso: 2026-11-04T09:36:22+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/ship-accident-in-hormuz.webp -->
 
-असम के सिवसागर में पुलिस ने गणकान्त गोघोई को गोली मारी। वह गुवाहाटी में पांच लोगों की हत्या का आरोपी था। गोघोई ने अस्पताल में ही दम तोड़ दिया। पुलिस का कहना है कि उसने पिस्तौल छीनने की कोशिश की थी। गुवाहाटी में पांच लोगों की हत्या के आरोपी का एनकाउंटर; अस्पताल में तोड़ा दम; पिस्तौल छीनने की थी।
+इरान ने होर्मुज स्ट्रेट को बंद कर दिया है। अमेरिकी नौसेना ने जहाजों को अवैध मार्गों से गुजरने की अनुमति दी। चार तेल जहाज समुद्री मीन के शिकार बने। ईरानी नौसेना ने इन पर हमला किया। होर्मुज स्ट्रेट (Strait of Hormuz) को ईरान (Iran) ने बंद कर रखा है और सभी को यह चेतावनी दी है कि अगर किसी भी जहाज ने ईरान द्वारा घोषित अवैध रास्तों से गुज़रने की कोशिश की, तो उनके लिए सही नहीं होगा।
 
-### [ट्रंप के फैसले से इस्राइल पर संकट?: अमेरिकी मदद बंद होने पर नेतन्याहू घिरे, विपक्ष बोला- सुरक्षा पर](https://www.amarujala.com/world/crisis-for-israel-trump-decision-netanyahu-under-pressure-us-aid-ceases-opposition-warns-major-security-threat-2026-11-04)
-*Amar Ujala World* - Nov 04, 07:41 IST (iso: 2026-11-04T02:11:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/yayara-lpada-vapakashha-ka-nata-isarail_9a4efaeb9231af7741c1538f3071a120.jpeg?w=1200&dpr=1.0 -->
+### [अमेरिका से टकराव की ओर इजरायल? विपक्ष के नेता गोलन ने नेतन्याहू को बताया देश के लिए “नुकसानदेह”](https://www.patrika.com/world-news/netanyahu-harmful-israel-yair-golan-us-midterm-elections-warning-21029837)
+*Patrika (World)* - Nov 04, 15:04 IST (iso: 2026-11-04T09:34:48+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Yair-Golan.webp -->
 
-ट्रंप के फैसले से अमेरिकी सैन्य मदद बंद होने की आशंका ने इस्राइल को घेरा है। प्रधानमंत्री नेतन्याहू पर विपक्ष ने सुरक्षा को लेकर बड़ा खतरा उठाने का आरोप लगाया है। इस्राइल की रक्षा व्यवस्था पर प्रभाव पड़ने की चर्चा है। ट्रंप के फैसले से इस्राइल पर संकट?: अमेरिकी मदद बंद होने पर नेतन्याहू घिरे, विपक्ष बोला- सुरक्षा पर।
+विपक्षी नेता याइर गोलन ने नेतन्याहू को देश के लिए नुकसानदेह बताया। उन्होंने चेतावनी दी कि नेतन्याहू के रहने से इजरायल अंतरराष्ट्रीय स्तर पर अलग-थलग पड़ सकता है। यह टिप्पणी अमेरिकी मध्यावधि चुनाव के बाद आई। Israel Election: इजराइल के डेमोक्रेट्स पार्टी के नेता और विपक्ष के प्रमुख याइर गोलन (Yair Golan) ने हालिया अमेरिकी मध्यावधि चुनावों (US Midterm Elections) के परिणामों और इजराइली राजनीतिक गतिरोध के बाद प्रधानमंत्री बेंजामिन नेतन्याहू की तीखी आलोचना की है। उन्होंने चेतावनी दी है कि नेतन्याहू का नेतृत्व बने रहने से इजरायल को गंभीर राजनयिक नुकसान हो सकता है और वह अंतरराष्ट्रीय स्तर पर अलग-थलग पड़ सकता।
 
-### ['हम ट्रंप को मार डालेंगे', मिडटर्म चुनावों के बीच ईरान में बवाली होर्डिंग्स, नेतन्याहू को और बुरा](https://hindi.news18.com/world/middle-east-iran-unveils-enormous-hoardings-written-we-will-kill-you-trump-depicted-injured-netanyahu-ws-l-10961677.html)
-*News18 Hindi (World)* - Nov 04, 06:50 IST (iso: 2026-11-04T01:20:01+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/iran-billboard-2026-11-72726a226434def5390b49c003618447-1200x800.jpg -->
+### [क्या था ऑस्लो समझौता, जिसकी इजरायली पीएम ने चुकायी कीमत? कट्टरपंथी यहूदी ने ही मारा अपने पीएम को](https://www.patrika.com/world-news/oslo-accords-yitzhak-rabin-assassination-israel-palestine-peace-agreement-1993-21029752)
+*Patrika (World)* - Nov 04, 14:27 IST (iso: 2026-11-04T08:57:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Yitzhak-Rabin.webp -->
 
-अमेरिका में मिडटर्म चुनावों के बीच ईरान में ट्रंप के खिलाफ नए होर्डिंग्स लगे हैं। इन पर लिखा है कि ईरान ट्रंप को मार डालेगा। Iran Threat to Donald Trump: एक तरफ अमेरिका में मिडटर्म चुनाव चल रहे हैं, वहीं दूसरी ओर ईरान में अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के खिलाफ होर्डिंगबाजी जारी है. ईरान के चौक-चौराहों पर ट्रंप की मौत का ऐलान करती हुईं होर्डिंग्स लगाई गई हैं.
+यित्जाक राबिन को ऑस्लो समझौते के विरोध में एक कट्टरपंथी यहूदी ने गोली मारी। यह समझौता इजरायल और फिलिस्तीन के बीच शांति की कोशिश था। राबिन ने इसे अपनाया था। इस घटना ने राजनीतिक विभाजन को गहरा किया। Oslo Agreement: इजरायल और फिलिस्तीन के बीच सालों से चला आ रहा झगड़ा उस वक्त एक नए मोड़ पर पहुंच गया, जब दोनों देशों के बीच शांति कायम करने की कोशिश शुरू हुई।
 
-### [ट्रंप रोकेंगे 4 अरब डॉलर की सैन्य मदद: इजरायल में मचा सियासी घमासान, विपक्ष बोला- नेतन्याहू ने टेक](https://www.patrika.com/world-news/donald-trump-end-us-aid-to-israel-yair-lapid-netanyahu-criticism-21028627)
-*Patrika (World)* - Nov 04, 06:43 IST (iso: 2026-11-04T01:13:06+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-Endorsement.webp -->
+### ['मेरा नाम अब्दुल है', पहले मुस्लिम सांसद बनते ही ट्रंप पर कसा तंज, ईरान युद्ध पर भी मारा ताना](https://hindi.news18.com/world/america-us-midterm-election-abdul-el-sayed-teases-donald-trump-after-michigan-senate-victory-takes-dig-on-religion-and-iran-war-10962749.html)
+*News18 Hindi (World)* - Nov 04, 14:06 IST (iso: 2026-11-04T08:36:25+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/ABDUL-EL-SAYED-2026-11-ed1c857e4e485be32114e7f38c7f5ac5-1200x800.jpg -->
 
-अमेरिका ने इजरायल को दी जाने वाली चार अरब डॉलर की वार्षिक सैन्य सहायता रोकने का ऐलान किया है। इस फैसले ने इजरायल में राजनीतिक अस्थिरता बढ़ा दी है। विपक्षी नेता यायर लैपिड ने इसे सुरक्षा विफलता करार देते हुए प्रधानमंत्री नेतन्याहू पर सवाल उठाए हैं। US Aid to Israel: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के इजरायल को दी जाने वाली लगभग 4 अरब डॉलर की सालाना आर्थिक और सैन्य सहायता बंद करने के ऐलान के बाद वहां की राजनीति में हलचल तेज हो गई है।
+अब्दुल एल-सैयद ने मिशिगन सीनेट चुनाव में माइक रोजर्स को हराकर अमेरिका के पहले मुस्लिम सीनेटर का इतिहास रचा। उन्होंने ट्रंप पर ईरान युद्ध और धार्मिक विरोध के मुद्दों पर तीखी टिप्पणी की। Michigan Senater Abdul el sayed Teases Donald trump: अमेरिका के मिडटर्म इलेक्शन में डेमोक्रेटिक पार्टी के उम्मीदवार अब्दुल अल सैयद ने जीत हासिल करते हुए कुछ ऐसा कहा कि डोनाल्ड ट्रंप सुनकर ही तिलमिला जाएंगे.
+
+### [अमेरिका मिडटर्म इलेक्शन के नतीजों पर ईरान का पहला रिएक्शन, सुनकर तमतमा जाएंगे ट्रंप](https://hindi.news18.com/world/middle-east-iran-first-reaction-after-us-midterm-election-2026-results-message-to-donald-trump-ws-l-10962436.html)
+*News18 Hindi (World)* - Nov 04, 13:43 IST (iso: 2026-11-04T08:13:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Iran-US-War-End-2026-08-07acee18ec5ece1e8e201a973454fbb1-1200x800.jpg -->
+
+ईरान के नेता कालिबाफ ने अमेरिकी मिडटर्म नतीजों पर प्रतिक्रिया दी। उन्होंने कहा कि अमेरिकी जनता ने युद्ध के खिलाफ फैसला सुना दिया। अब इनकार का परिणाम खराब होगा। Iran Reaction On Trump Party Defeat: अमेरिका के मिडटर्म इलेक्शन के रिजल्ट आते ही ईरान की ओर से जो प्रतिक्रिया आई है, वो महत्वपूर्ण है. कालिबाफ ने कहा है कि अमेरिका की जनता अपना फैसला युद्ध को लेकर सुना चुकी है और अब इनकार का अंजाम बुरा होगा.
+
+### [अमेरिका के मध्यावधि चुनाव पर ईरान बोला- वहां के लोग जंग नहीं चाहते हैं](https://www.patrika.com/world-news/iran-ghalibaf-reacts-us-midterm-election-americans-said-no-to-war-21029399)
+*Patrika (World)* - Nov 04, 12:31 IST (iso: 2026-11-04T07:01:56+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Mohammad-Bagher-Ghalibaf.webp -->
+
+ईरानी संसद के स्पीकर मोहम्मद बाघेर गालिबाफ ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया दी। उन्होंने दावा किया कि अमेरिकी जनता ने महंगाई और सैन्य दखल के विरोध में युद्ध को नकार दिया है। Iran-US, Ghalibaf: ईरान की संसद के स्पीकर मोहम्मद बाघेर गालिबाफ ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया दी है। गालिबाफ ने कहा कि नतीजे दिखाते हैं कि अमेरिकी जनता ने युद्ध को नकार दिया है।
+
+### [चुनाव नतीजों के बाद ट्रंप का नया एलान: ट्रंप बोले- अब पॉलिटिकल पंडित बनूंगा, ईरान युद्ध को बताया](https://www.amarujala.com/world/donald-trump-first-reaction-on-us-election-results-says-he-would-have-won-in-a-landslide-2026-11-04)
+*Amar Ujala World* - Nov 04, 10:50 IST (iso: 2026-11-04T05:20:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/danalda-tarapa-amaraka-rashhatarapata_e0becf8e40b6fa1a681896e27029c9f1.jpeg?w=1200&dpr=1.0 -->
+
+चुनाव नतीजों के बाद ट्रंप ने राजनीतिक विश्लेषक बनने का ऐलान किया। उन्होंने जीत और हार के कारणों पर चर्चा करने की घोषणा की है। चुनाव नतीजों के बाद ट्रंप का नया एलान: बोले- अब राजनीतिक विश्लेषक बनूंगा, जीत-हार की वजहों पर करूंगा चर्चा। चुनाव नतीजों के बाद ट्रंप का नया एलान: ट्रंप बोले- अब पॉलिटिकल पंडित बनूंगा, ईरान युद्ध को बताया।
 
 ---
 
-## यूरोप और रूस
+## एशिया-प्रशांत
 
-### [जॉर्जिया से सीनेटर जॉन ओसॉफ ने दर्ज की शानदार जीत, रिपब्लिकन पर क्या बोले?](https://www.amarujala.com/world/jon-ossoff-wins-reelection-georgia-defeats-republican-mike-collins-2026-11-04)
-*Amar Ujala World* - Nov 04, 07:58 IST (iso: 2026-11-04T02:28:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/danalda-tarapa-amaraka-rashhatarapata_94092689a3f65aaa95f9d5ea7e785318.jpeg?w=1200&dpr=1.0 -->
+### [अमेर‍िका के पहले मुस्‍ल‍िम सीनेटर अब्‍दुल का भारत से क्या है र‍िश्‍ता? खुद को मानते हैं पूरी तरह](https://hindi.news18.com/news/knowledge/how-abdul-el-sayed-first-muslim-set-to-enter-senate-has-india-karnataka-connection-us-election-results-10962802.html)
+*News18 Hindi (World)* - Nov 04, 14:24 IST (iso: 2026-11-04T08:54:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Abdul-El-Sayed-2026-11-1d431fd276cdb1a8536b8e4a23daa435-1200x800.jpg -->
 
-जॉर्जिया में सीनेटर जॉन ओसॉफ ने रिपब्लिकन प्रतिद्वंद्वी माइक कॉलिन्स को हराकर पुनर्चयन जीता। यह जीत डोनाल्ड ट्रंप और रिपब्लिकन पार्टी के लिए एक बड़ा झटका है। ओसॉफ ने अपनी जीत के बाद पार्टी के खिलाफ कड़ी आलोचना की। डोनाल्ड ट्रंप को बड़ा झटका: जॉर्जिया से सीनेटर जॉन ओसॉफ ने दर्ज की शानदार जीत, रिपब्लिकन पर क्या बोले?
+अब्दुल अल-सैयद मिसिगन से अमेरिका के पहले मुस्लिम सीनेटर बने। उनकी पत्नी सारा जुकाकू एक डॉक्टर हैं। ट्रंप ने अपनी सोशल मीडिया पोस्ट में उनकी तस्वीर साझा की थी। अब्दुल को भारत से गहरे संबंध मानते हैं। अब्दुल अल-सैयद म‍िश‍िगन से सीनेट पहुंचे हैं और पहले मुस्‍ल‍िम सीनेटर बने हैं. अब्‍दुल की तरह उनकी पत्‍नी सारा जुकाकू भी एक डॉक्‍टर हैं.
+
+### [अमेरिकी सीनेट चुनाव में अब्दुल एल-सैयद की ऐतिहासिक जीत, पहले मुस्लिम सीनेटर बने; जानें क्या है भारत](https://www.patrika.com/world-news/abdul-el-sayed-first-muslim-us-senator-michigan-karnataka-bhatkal-connection-21029584)
+*Patrika (World)* - Nov 04, 13:44 IST (iso: 2026-11-04T08:14:14+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Abdul-El-Sayed.webp -->
+
+डेमोक्रेटिक उम्मीदवार अब्दुल एल-सैयद ने मिशिगन में ऐतिहासिक जीत दर्ज की। वे अमेरिका के पहले मुस्लिम सीनेटर बने हैं। ट्रंप ने चुनाव प्रचार में उनके कड़े विरोध का किया था। अमेरिका के मिशिगन राज्य में डेमोक्रेटिक प्रत्याशी अब्दुल एल-सैयद ने ऐतिहासिक जीत हासिल की है। इसके साथ ही वे पहले मुस्लिम सीनेटर भी बन गए है। अब्दुल एल-सैयद ने रिपब्लिकन प्रत्याशी माइक रोजर्स को हराया है।
+
+### [सुहास सुब्रमण्यन, पिया डांडिया के बाद रो खन्ना की जीत, जानें कौन-कौन भारतवंशी जीते](https://www.amarujala.com/world/indian-origin-american-wins-us-midterm-election-becomes-new-member-of-congress-2026-11-04)
+*Amar Ujala World* - Nov 04, 11:32 IST (iso: 2026-11-04T06:02:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/amaraka-mathhayavathha-canava_52b21b76e31dd3cd80a7aae783fa3107.jpeg?w=1200&dpr=1.0 -->
+
+सुहास सुब्रमण्यन ने अपनी सीट बचाई। पिया डांडिया पहली बार सांसद बनीं। रो खन्ना भी जीत दर्ज की। भारतीय मूल के तीन उम्मीदवार कांग्रेस में शामिल हुए। सुहास सुब्रमण्यन, पिया डांडिया के बाद रो खन्ना की जीत, जानें कौन-कौन भारतवंशी जीते।
+
+### [ट्रंप की पार्टी की हार के भारत के लिए क्या मायने, कैसे सस्ता हो सकता है पेट्रोल?](https://www.amarujala.com/world/us-midterm-elections-2026-how-trump-party-loss-could-impact-india-oil-prices-h-1b-visa-and-pakistan-2026-11-04)
+*Amar Ujala World* - Nov 04, 11:31 IST (iso: 2026-11-04T06:01:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/tarapa-ka-hara-sa-bharata-ka-katana-fayatha_1453298f420b98649de4a9abfcd23965.jpeg?w=1200&dpr=1.0 -->
+
+रिपब्लिकन हार से भारत के लिए पेट्रोल की कीमतें घट सकती हैं। एच-1बी वीजा नीति में बदलाव संभव है। पाकिस्तान के साथ संबंधों पर भी प्रभाव पड़ सकता है। ट्रंप की पार्टी की हार के भारत के लिए क्या मायने, कैसे सस्ता हो सकता है पेट्रोल?
+
+### [भारतवंशी विवेक रामास्वामी गवर्नर चुनाव हारे: ओहायो में एमी एक्टन ने दर्ज की जीत, रिपब्लिकन पार्टी](https://www.amarujala.com/world/amy-acton-defeats-trump-backed-vivek-ramaswamy-ohio-governor-election-2026-11-04)
+*Amar Ujala World* - Nov 04, 11:03 IST (iso: 2026-11-04T05:33:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/vavaka-ramasavama-rapablkana-nata_47be7074625ab343c6e5d9784b32c625.jpeg?w=1200&dpr=1.0 -->
+
+ओहायो के गवर्नर चुनाव में एमी एक्टन ने विवेक रामास्वामी को हराया। ट्रंप समर्थित रामास्वामी की हार ने रिपब्लिकन पार्टी को बड़ा झटका दिया है। भारतवंशी विवेक रामास्वामी गवर्नर चुनाव हारे: ओहायो में एमी एक्टन ने दर्ज की जीत, रिपब्लिकन पार्टी।
+
+### [अमेरिकी चुनाव में भारत वाला तिकड़म, कई सेम नेम वाले कैंडिडेट, राहुल गांधी झेल चुके हैं ये दंश](https://hindi.news18.com/world/america-alaska-dummy-candidate-controversy-investigation-launched-ws-l-10962125.html)
+*News18 Hindi (World)* - Nov 04, 10:50 IST (iso: 2026-11-04T05:20:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Dan-S-Sullivan-2026-11-f85c1a29cbd8f05a1049f2d82ed15f04-1200x800.jpg -->
+
+अलास्का सीनेट चुनाव में डैन सुलिवन के खिलाफ मिलते जुलते नाम वाले उम्मीदवार के उतरने पर जांच शुरू हुई। ट्रंप ने इसे डेमोक्रेट्स की साजिश बताया, पर असर कम माना जाता है। US Mid Term Elections: भारत की तरह अमेरिका के अलास्का सीनेट चुनाव में भी डमी कैंडिडेट उतारने का विवाद सामने आया है. रिपब्लिकन उम्मीदवार डैन सुलिवन के खिलाफ मिलते-जुलते नाम वाले उम्मीदवार के उतरने पर जांच शुरू हो गई है.
+
+### [जयपुर की बेटी पिया डांडिया कौन? अमेरिका में लहराया जीत का परचम, संसद पहुंचने वाली दूसरी](https://hindi.news18.com/news/nation/us-midterm-election-results-2026-jaipur-born-indian-american-pia-dandiya-wins-florida-congressional-election-10961995.html)
+*News18 Hindi (World)* - Nov 04, 10:25 IST (iso: 2026-11-04T04:55:35+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pia-Dandiya-2026-11-2243e958ffd4b4440a4b5bf064fdc0a7-1200x800.jpg -->
+
+फ्लोरिडा के 22वें जिले से पिया दांडिया ने सीट जीत ली। उन्होंने रिपब्लिकन उम्मीदवार केसी असकर को हराया। वह अमेरिकी संसद में चुनी गई दूसरी भारतीय-अमेरिकी महिला बनीं। US Midterm Election Results 2026: राजस्थान के जयपुर से अमेरिका जाकर बसे अप्रवासी भारतीय माता-पिता की बेटी पिया दांडिया ने अमेरिकी मिडटर्म चुनाव में जीत हासिल की है. डेमोक्रेटिक पार्टी की उम्मीदवार दांडिया ने फ्लोरिडा के 22वें कांग्रेसनल डिस्ट्रिक्ट से रिपब्लिकन उम्मीदवार केसी असकर को हराया.
 
 ---
 
 ## अमेरिका
 
-### [US Midterm Election Results 2026 LIVE: ट्रंप को झटके दे रहा मिडटर्म, रिपब्लिकन किले में डेमोक्रेट्स](https://hindi.news18.com/world/america-us-midterm-election-results-2026-live-updates-voting-closed-counting-start-republican-vs-democrats-live-blog-donald-trump-livenews-10961612.html)
-*News18 Hindi (World)* - Nov 04, 07:52 IST (iso: 2026-11-04T02:22:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/donald-trump-us-2026-11-406d932ec6f7bd79fa05d36972c856fb-1200x800.jpg -->
+### [क्या ट्रंप पर तीसरी बार चलेगा महाभियोग? डेमोक्रेट्स की तूफानी जीत ले उड़ेगी कुर्सी? जानिए कहां फंस](https://hindi.news18.com/world/america-us-midterm-election-2026-result-democrates-massive-victory-donald-trump-impeachment-on-cards-after-10962597.html)
+*News18 Hindi (World)* - Nov 04, 14:08 IST (iso: 2026-11-04T08:38:33+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/donald-trump-n-2026-11-3acd05c133e1462de23e06bb24806f0b-1200x800.jpg -->
 
-अमेरिकी मिडटर्म चुनाव में रिपब्लिकन बहुल राज्यों में डेमोक्रेट्स को बढ़त मिल रही है। राष्ट्रपति डोनाल्ड ट्रंप की लोकप्रियता में गिरावट दर्ज की गई है। वोटों की गिनती जारी है और परिणाम अभी आधिकारिक रूप से घोषित नहीं हुए हैं। खासतौर पर राष्ट्रपति डोनाल्ड ट्रंप के लिए ये किसी लिटमस टेस्ट से कम नहीं है. कुछ राज्यों में क्लोज होने के बाद वोटों की धड़ाधड़ गिनती हो रही है.
+डेमोक्रेट्स की मध्यावधि जीत के बाद ट्रंप पर तीसरा महाभियोग संभव है। दोनों सदनों में विरोधियों का कब्जा बढ़ गया है। यह राजनीतिक स्थिति ट्रंप के लिए चुनौती बन रही है। महाभियोग की तैयारियां शुरू हो चुकी हैं। Donald Trump Third Impeachment Preparation: अमेरिका में मिडटर्म इलेक्शन के जो ऐतिहासिक नतीजे सामने आए हैं, वो डेमोक्रेटिक पार्टी के खेमे में तो खुशी लाए हैं लेकिन डोनाल्ड ट्रंप की नींदें उड़ी हुई होंगी.
 
-### [हाउस-सीनेट में डेमोक्रेट्स को बढ़त, ट्रंप की पार्टी पीछे, रामास्वामी का मुकाबला फंसा](https://www.patrika.com/world-news/us-midterm-election-2026-early-trends-democrats-lead-vivek-ramaswamy-ohio-21028630)
-*Patrika (World)* - Nov 04, 07:01 IST (iso: 2026-11-04T01:31:50+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/donald-trump_.webp -->
+### [अब्दुल ने रच दिया इतिहास, ट्रंप ने बताया था 'जिहादी', अब वही बने अमेरिका के पहले मुस्लिम सीनेटर](https://hindi.news18.com/world/america-abdul-el-sayed-wins-michigan-senate-election-first-muslim-us-senator-trump-jihadist-comment-10962208.html)
+*News18 Hindi (World)* - Nov 04, 12:50 IST (iso: 2026-11-04T07:20:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/abdul-el-sayed-wins-michigan-senate-election-2026-11-33ac9555f1210205bb93a5b3ffad206a-1200x800.jpg -->
 
-अमेरिका के मध्यावधि चुनावों में डेमोक्रेटिक पार्टी को प्रारंभिक बढ़त मिली है। प्रतिनिधि सभा में वे 17 सीटों पर आगे हैं, जबकि रिपब्लिकन 12 सीटों पर हैं। सीनेट में डेमोक्रेट 41 और रिपब्लिकन 31 सीटों पर आगे चल रहे हैं। US Midterm Elections 2026: अमेरिका में मध्यावधि चुनाव खत्म होने के साथ ही मतगणना शुरू हो गई है। शुरुआती रुझान भी सामने आने लगे हैं।
+अब्दुल एल-सैयद ने माइक रोजर्स को 1.27 लाख वोटों से हराया। ट्रंप ने उन्हें 'जिहादी' कहकर आतंकियों का समर्थक बताया था। अब वे अमेरिका के पहले मुस्लिम सीनेटर बने हैं। अमेरिका की राजनीति में अब्दुल एल-सैयद ने इतिहास रच दिया है. मिशिगन सीनेट चुनाव में डेमोक्रेटिक उम्मीदवार ने रिपब्लिकन माइक रोजर्स को 1.27 लाख से ज्यादा वोटों से हरा दिया.
+
+### [डेमोक्रेटिक की जीत के बाद भी क्यों खुश हैं ट्रंप, क्या है वीटो पावर जिसका किया जिक्र?](https://www.amarujala.com/world/us-mid-term-election-democrats-take-control-of-senate-and-house-as-trump-warns-of-veto-powers-2026-11-04)
+*Amar Ujala World* - Nov 04, 12:48 IST (iso: 2026-11-04T07:18:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/tarapa-ka-naya-sayasa-thava_75f33434f4631f08b4bd10a58ac1772d.jpeg?w=1200&dpr=1.0 -->
+
+डेमोक्रेटिक पार्टी ने सीनेट और हाउस दोनों पर नियंत्रण हासिल किया। ट्रंप ने वीटो पावर का जिक्र करते हुए अपनी स्थिति की रक्षा की। डेमोक्रेटिक की जीत के बाद भी क्यों खुश हैं ट्रंप, क्या है वीटो पावर जिसका किया जिक्र?
+
+### [रिपब्लिकन केवल हारे नहीं, बेइज्जत भी हुए डोनाल्ड ट्रंप, किसी राष्ट्रपति के साथ नहीं हुआ ऐसा](https://hindi.news18.com/world/america-donald-trump-backed-candidates-suffer-major-setback-in-us-midterm-elections-a-big-humiliation-ws-l-10962420.html)
+*News18 Hindi (World)* - Nov 04, 12:19 IST (iso: 2026-11-04T06:49:08+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/donald-trump-2026-07-10T072401.585-2026-10-b7febf7f879874f615b451b18f56f0fb-1200x800.jpg -->
+
+अमेरिकी मध्यावधि चुनाव में ट्रंप समर्थित रिपब्लिकन उम्मीदवारों की हार ने उनकी राजनीतिक प्रभावशालिता पर सवाल खड़े कर दिए। ट्रंप ने प्रचार में अपनी पसंदीदा उम्मीदवारों को तरजीह दी थी, लेकिन नतीजों ने पार्टी के भीतर उनकी पकड़ को कमजोर कर दिया है। US Mid Term Elections: अमेरिकी मिडटर्म चुनावों में राष्ट्रपति डोनाल्ड ट्रंप समर्थित रिपब्लिकन उम्मीदवारों की हार से उनकी लोकप्रियता और राजनीतिक प्रभाव पर सवाल उठने लगे हैं.
+
+### [डेमोक्रेट्स की जीत से उत्साहित ओबामा बोले- अब अमेरिका को बांटने नहीं, जोड़ने वाली राजनीति चाहिए](https://www.patrika.com/world-news/barack-obama-statement-us-midterm-election-results-trump-democratic-party-news-21029122)
+*Patrika (World)* - Nov 04, 12:16 IST (iso: 2026-11-04T06:46:07+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Barack-Obama.webp -->
+
+बराक ओबामा ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया देते हुए राजनीतिक विभाजन के विरोध में आवाज उठाई। उन्होंने कहा कि अमेरिकी जनता ऐसी राजनीति नहीं चाहती जो देश को बांटती है, बल्कि एकजुटता का मार्ग प्रशस्त करती है। Barack Obama Statement: अमेरिका के मध्यावधि चुनाव का नतीजा आया तो देश फिर बहस में उलझ गया है। डोनाल्ड ट्रंप की राजनीति अब किस ओर जाएगी, और अमेरिका खुद किस रास्ते पर है?
+
+### [अमेरिका में ट्रंप की सत्ता को बड़ा झटका! सीनेट पर डेमोक्रेट्स का कब्जा, चार राज्यों में पलटी बाजी](https://www.patrika.com/world-news/us-midterm-election-results-trump-reaction-texas-senate-james-talarico-democrats-win-21028912)
+*Patrika (World)* - Nov 04, 12:11 IST (iso: 2026-11-04T06:41:37+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump_2509f0.webp -->
+
+अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स ने सीनेट पर कब्जा कर लिया और चार राज्यों में बाजी पलट दी। टेक्सास में जेम्स टालारिको की जीत ने रिपब्लिकन गढ़ को हिलाकर रख दिया और ट्रंप की सत्ता को बड़ा झटका दिया। US Midterm Election Results: अमेरिका के मिडटर्म चुनाव में डेमोक्रेट्स ने ऐसी बढ़त हासिल की, जिसकी शायद ही किसी ने उम्मीद की थी।
+
+### [अमेरिकी मध्यावधि चुनाव में फिर क्यों असफल हुई राष्ट्रपति की पार्टी, बीते चार चुनाव का इतिहास क्या?](https://www.amarujala.com/world/us-midterm-elections-results-history-seat-changes-republicans-vs-democrats-explainer-2026-11-04)
+*Amar Ujala World* - Nov 04, 11:53 IST (iso: 2026-11-04T06:23:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/us-midterm-elections-2026-amarujala-explainerus-midterms-2026-us-elections-2026-us-midterm-electi_d0993892f2c28345b3c2bde9f5c28301.jpeg?w=1200&dpr=1.0 -->
+
+बीते चार मध्यावधि चुनावों का विश्लेषण दर्शाता है कि राष्ट्रपति की पार्टी ने लगातार सीटें खोईं। प्रतिनिधि सभा और सीनेट में नफा-नुकसान का पैटर्न राष्ट्रपति की अप्रूवल रेटिंग के सीधे अनुपात में रहा है। अमेरिका के बीते चार मध्यावधि चुनावों (2010, 2014, 2018, 2022) के नतीजों का पूरा विश्लेषण। जानें प्रतिनिधि सभा, सीनेट में सीटों के नफा-नुकसान और राष्ट्रपति की अप्रूवल रेटिंग का क्या असर रहा।
+
+### [रिपब्लिकन की हार देख ट्रंप ने खोला पत्ता, क्या है प्लान B, डेमोक्रेट्स की जीत पर फेर सकता है पानी?](https://hindi.news18.com/world/america-us-midterm-election-result-2026-favors-democrats-but-donald-trump-has-plan-b-as-veto-power-10962232.html)
+*News18 Hindi (World)* - Nov 04, 11:32 IST (iso: 2026-11-04T06:02:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trump-veto-2026-11-11ed3f7688ed7d9743db2be0c3c5b75c-1200x800.jpg -->
+
+ट्रंप ने डेमोक्रेटिक जीत के बाद वीटो शक्ति का इस्तेमाल करने की बात कही। यह उनका प्लान बी है। सदन में बहुमत बदलने से नीति निर्माण प्रक्रिया पर असर पड़ेगा। Trump Veto Power Plan: अमेरिका के मिड टर्म चुनावों में जिस तरह के रुझान सामने आ रहे हैं, उसके मुताबिक अब डोनाल्ड ट्रंप की बादशाहत को डेमोक्रेटिक पार्टी की ओर से ऐसी चुनौती मिली है कि उनकी रातों की नींद उड़ गई है.
+
+### [रिपब्लिकन विवेक रामास्वामी की हुई हार, डेमोक्रेट एमी एक्टन ने मारी बाजी](https://hindi.news18.com/world/america-us-midterm-election-results-2026-vivek-ramaswamy-loses-ohio-governor-race-to-democrat-amy-acton-10961996.html)
+*News18 Hindi (World)* - Nov 04, 11:23 IST (iso: 2026-11-04T05:53:23+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Vivek-Ramaswamy-2026-11-92214076d2059194168a7fd6dda9993a-1200x800.jpg -->
+
+ओहियो में डेमोक्रेट एमी एक्टन ने विवेक रामास्वामी को हराया। यह 2006 के बाद पहली बार है जब डेमोक्रेट इस पद पर जीत रहे हैं। US Midterm Election Results 2026: अमेरिका के मिडटर्म चुनाव में ओहियो के गवर्नर पद पर डेमोक्रेटिक उम्मीदवार एमी एक्टन ने रिपब्लिकन उम्मीदवार विवेक रामास्वामी को हरा दिया है. एसोसिएटेड प्रेस (AP) ने एमी एक्टन की जीत का अनुमान जताया है.
+
+### [मिडटर्म चुनाव में ट्रंप को बड़ा झटका? शुरुआती नतीजों में डेमोक्रेट्स को बढ़त](https://www.amarujala.com/video/india-news/trump-faces-a-major-setback-in-the-midterm-elections-early-results-give-democrats-an-edge-2026-11-04)
+*Amar Ujala World* - Nov 04, 11:05 IST (iso: 2026-11-04T05:35:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/04/america-election_cddbfff77392822444f4d0f0fa8112d7.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी मिडटर्म चुनाव की शुरुआती रिपोर्ट में डेमोक्रेटिक पार्टी को बढ़त मिली है। इस प्रारंभिक परिणाम ने राष्ट्रपति ट्रंप की राजनीतिक स्थिति को प्रभावित किया है। मिडटर्म चुनाव में ट्रंप को बड़ा झटका? शुरुआती नतीजों में डेमोक्रेट्स को बढ़त।
+
+---
+
+## यूरोप और रूस
+
+### [अमेरिकी मिडटर्म चुनाव में ट्रंप को झटका, रिपब्लिकन पार्टी की करारी हार, सीनेट में डेमोक्रेट्स को](https://hindi.news18.com/world/america-us-midterm-election-results-2026-america-chunav-donald-trump-republicans-lost-democrats-win-majority-us-senate-chunav-result-10961960.html)
+*News18 Hindi (World)* - Nov 04, 11:38 IST (iso: 2026-11-04T06:08:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-midterm-election-results-donad-trump-2026-11-eae8de7c213d5f483abdefd59e725987-1200x800.jpg -->
+
+डेमोक्रेट्स ने 2026 मिडटर्म में सीनेट बहुमत हासिल किया। टेक्सास और नॉर्थ कैरोलिना में उनकी जीत ने रिपब्लिकन गणित बदल दिया। सदन पर भी नियंत्रण वापस आया। अमेरिका के 2026 मिडटर्म चुनाव में डोनाल्ड ट्रंप और रिपब्लिकन पार्टी को बड़ा झटका लगा है. डेमोक्रेट्स ने सीनेट में बहुमत हासिल कर लिया है और 2020 के बाद पहली बार सदन पर नियंत्रण पाया है.
 
 ---
 
