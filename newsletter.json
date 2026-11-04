@@ -1,45 +1,33 @@
 {
-  "generated_at": "2026-11-04T10:02:21.209876+00:00",
+  "generated_at": "2026-11-04T18:18:03.902404+00:00",
   "article_count": 50,
-  "total_unique_count": 260,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Hakeem Jeffries stands on the brink of becoming the first Black Speaker of the U.S. House. Simultaneously, Israel’s President Herzog maneuvers to form a new government amid regional instability. These domestic shifts contrast sharply with the escalating military strain near Kyiv.",
-    "hi": "Strait of Hormuz saw four oil tankers hit by naval mines, a direct challenge to Iranian naval control. Simultaneously, Abdul El-Sayed became the first Muslim US Senator, a stark contrast to Trump’s earlier \"jihadist\" label."
+    "en": "The UN report confirms genocide persists in Gaza while South Africans vote in local elections amid service failures. In Washington, midterm results reshape the Senate and House, with JD Vance absorbing the political fallout. Brazil publishes a global roadmap for phasing out fossil fuels.",
+    "hi": "ट्रंप के लेम डक स्टेटस और जेडी वेंस के ईरान पर टिप्पणी ने अमेरिकी मिडटर्म्स को गहरा कर दिया। इसी बीच शैनजेन APEC समिट में जिनपिंग, पुतिन और ट्रंप की भेंट का खेल शुरू हो गया। हूती के सऊदी पर हमले ने मध्य पूर्व की तनावपूर्ण स्थिति को और बढ़ा दिया।"
   },
   "articles": [
     {
-      "title": "Hakeem Jeffries poised to become first Black Speaker of U.S. House of Representatives",
-      "url": "https://www.thehindu.com/news/international/hakeem-jeffries-poised-to-become-first-black-speaker-of-us-house-of-representatives/article71664413.ece",
+      "title": "United Nations report says genocide continues in Gaza",
+      "url": "https://www.thehindu.com/news/international/united-nations-report-says-genocide-continues-in-gaza/article71666146.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-11-04T08:25:18+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/racj5a/article71664428.ece/alternates/LANDSCAPE_1200/Election_2_26__94_6.jpg",
-      "summary": "Hakeem Jeffries, representing a New York City district, is set to become the first Black Speaker of the U. S. House. He will preside over a new majority sworn in early January. This shift ends four years of Republican control in the chamber. As Speaker, Mr. Jeffries, representing a New York ​City congressional district, would preside over a majority that will be sworn in the first week of January, taking the reins from Republicans ⁠who controlled the House for the past four years.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel's unassuming President Herzog holds keys to next government",
-      "url": "https://www.thehindu.com/news/international/israels-unassuming-president-herzog-holds-keys-to-next-government/article71664315.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-04T07:21:11+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/5iugf9/article71664357.ece/alternates/LANDSCAPE_1200/2026-10-20T110658Z_884158993_RC2Z6OAYB6DS_RTRMADP_3_HUNGARY-ISRAEL.JPG",
-      "summary": "Israeli President Isaac Herzog aims to prevent a fresh election by facilitating a coalition. He is prepared to back a unity government between Benjamin Netanyahu and Benny Gantz. This move seeks to stabilize the political landscape without new voting. Isaac Herzog said he would do everything he could to avoid a fresh election. a possibility if neither camp can cobble together a coalition.",
+      "published_at": "2026-11-04T17:26:00+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/siw/article71667070.ece/alternates/LANDSCAPE_1200/APTOPIX_Israel_Palestinians_Gaza_1_51.jpg",
+      "summary": "A United Nations report confirms ongoing genocide in Gaza. It cites systematic attacks on civilians and state policy. Security forces knowingly participated in these actions. The findings establish intent and widespread harm against the population. The Israeli violations include widespread or systematic attacks directed against the civilian population, state policy, and the fact that the security forces knew the acts constituted part of an attack against the civilian population and so intended them (mens rea).",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Prabowo Subianto",
-      "url": "https://www.thehindu.com/news/international/prabowo-subianto-from-indonesias-strongman-general-to-cute-and-cuddly-presidential-candidate/article67844801.ece",
+      "title": "U.S. midterm election results: Senate, House and Governor shifts before and after",
+      "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-11-04T06:24:05+00:00",
-      "image_url": "https://th-i.thgim.com/public/latest-news/j1sdy6/article67858687.ece/alternates/LANDSCAPE_1200/PrabowoSubianto.jpg",
-      "summary": "a former military leader, is likely to become Indonesia’s next president. He previously faced human rights abuse accusations. His recent campaign focused on a softer public image using social media platforms like Instagram and TikTok. The former military leader and Defence Minister, who is likely to become Indonesia’s new President, was once accused of human rights abuses, but ran a campaign with a softer image of himself using Instagram and TikTok.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-11-04T16:41:17+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/j2s5sp/article71663845.ece/alternates/LANDSCAPE_1200/2026-11-04T030116Z_716209600_RC2QGOA7QDFN_RTRMADP_3_USA-ELECTION-GEORGIA.JPG",
+      "summary": "Democrats took full control of Congress in the November 2026 midterms. They flipped both the Senate and House. The party gained seats in key battlegrounds and Republican strongholds. This marks a significant shift from the 2022 election results. Democrats surged to full control of Congress in the November 2026 U. S. midterm elections, flipping the Senate and House after winning net seats across key battlegrounds and sweeping into Republican strongholds.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -48,10 +36,34 @@
       "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-11-04T04:00:23+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/ab849d0dfce7fca0440c040983efe4e27460cf1e/1440_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4715e064c26da052e5f40fdda2b30d7",
+      "published_at": "2026-11-04T14:50:47+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4c7049d929536059b278f89794a0566",
       "summary": "The African National Congress faces a poor result in South Africa’s local elections. Voters are frustrated by water outages, power cuts, and crumbling infrastructure. The party is expected to secure less than a third of the total vote. Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at th.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Nations Line Up To Boycott Ice Hockey Games Against Russia",
+      "url": "https://www.rferl.org/a/russia-hockey-ukraine-war/33890409.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-04T13:25:42+00:00",
+      "image_url": "https://gdb.rferl.org/ad1ec3ac-27ed-48f4-be90-ff410ce85a9c_cx0_cy6_cw0_w1200_h630.jpg",
+      "summary": "Multiple nations plan to boycott ice hockey events involving Russia. They oppose a court ruling allowing Moscow to rejoin international competitions. The boycott threatens the upcoming World Championships. Countries refuse to play against Russian teams. A growing list of countries are lining up against a court decision allowing Russia to rejoin international ice hockey events, saying they will boycott any team Moscow sends, putting the World Championships next year in jeopardy.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Opinion | Trump's Midterm Rout Has One More Victim: JD Vance",
+      "url": "https://www.ndtv.com/opinion/trumps-midterm-rout-has-one-more-victim-jd-vance-12282706#publisher=newsstand",
+      "source": "NDTV World",
+      "sources": [],
+      "published_at": "2026-11-04T13:13:03+00:00",
+      "image_url": "https://c.ndtvimg.com/2026-10/t3v6t71k_trump-vance-reuters_625x300_29_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "summary": "JD Vance suffered a political setback in the 2026 midterms. Ohio elected a Democratic governor and a Democratic senator. Vance had campaigned heavily and served as RNC finance chair. His home state rejected the Republican ticket he supported. Vance campaigned as hard as the President, served as the Republican National Committee's finance chair. He watched his home state of Ohio elect a Democratic governor and send a Democrat to the Senate seat he gave up to become Vice President.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -217,7 +229,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-02T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/UNICEF%20Oleksii%20Filippov%204.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/UNICEF%20Oleksii%20Filippov%204.jpg/image560x340cropped.jpg",
       "summary": "The UN World Food Programme is feeding over 400 evacuees from Oleshky in Ukraine. These residents fled the Russian-occupied Kherson region during a brief local ceasefire. The agency is also working to restore power to the area before winter temperatures set in. The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
       "region": "Europe & Russia",
       "language": "en",
@@ -272,18 +284,6 @@
       "translations": {}
     },
     {
-      "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-10-31T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg",
-      "summary": "UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
       "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
       "source": "The Guardian",
@@ -308,6 +308,438 @@
       "translations": {}
     },
     {
+      "title": "डोनाल्ड ट्रंप बन गए लेम डक प्रेसिडेंट, खुलने वाला है अरबों की कमाई का हर राज़; दामाद, परिवार, एलन",
+      "url": "https://hindi.news18.com/world/america-donald-trump-become-lame-duck-president-us-midterm-election-result-democrats-win-and-republican-defeat-impact-on-india-sushant-sinha-desh-ki-pathshala-10964131.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T18:09:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Sushant-SInha-Desh-Ki-Pathshala-14-2026-11-442dd3d23817a6a2df8fded67d1d669b-1200x800.jpg",
+      "summary": "अमेरिकी मिडटर्म चुनाव में डेमोक्रेटिक पार्टी ने सीनेट और हाउस ऑफ रिप्रेजेंटेटिव्स दोनों में बहुमत हासिल किया। इससे डोनाल्ड ट्रंप की संसदीय पकड़ पूरी तरह समाप्त हो गई। अब उनके पास कानून बनाने या बजट पारित करने की प्रभावी शक्ति नहीं बची है। Sushant Sinha Desh Ki Pathshala: अमेरिका के मिडटर्म इलेक्शन के रिजल्ट में डोनाल्ड ट्रंप सिर्फ हारे नहीं है, पब्लिक ने वहां पर उनकी पार्टी को बिल्कुल रगड़ दिया है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डोनाल्ड ट्रंप बन गए लेम डक प्रेसिडेंट, खुलने वाला है अरबों की कमाई का हर राज़; दामाद, परिवार, एलन",
+          "summary": "अमेरिकी मिडटर्म चुनाव में डेमोक्रेटिक पार्टी ने सीनेट और हाउस ऑफ रिप्रेजेंटेटिव्स दोनों में बहुमत हासिल किया। इससे डोनाल्ड ट्रंप की संसदीय पकड़ पूरी तरह समाप्त हो गई। अब उनके पास कानून बनाने या बजट पारित करने की प्रभावी शक्ति नहीं बची है। Sushant Sinha Desh Ki Pathshala: अमेरिका के मिडटर्म इलेक्शन के रिजल्ट में डोनाल्ड ट्रंप सिर्फ हारे नहीं है, पब्लिक ने वहां पर उनकी पार्टी को बिल्कुल रगड़ दिया है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "LPG हुआ बेतहाशा महंगा, आधी से कम हो गई गरीब परिवार की कमाई, कब रुकेगी ये तबाही?",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-lpg-crisis-soaring-fuel-prices-force-rickshaw-drivers-to-cut-meals-as-us-iran-conflict-escalates-10964149.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T18:07:57+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/LPG-Expensive-2026-11-2f419d83f6668fb579856fcb0b848f79-1200x800.jpg",
+      "summary": "अमेरिका-ईरान युद्ध के कारण पाकिस्तान में एलपीजी की कीमतें 56 प्रतिशत बढ़ गई हैं। ईरान सीमा बंद होने से रोजाना 7,000 मीट्रिक टन गैस की आपूर्ति रुक गई। लाहौर और कराची के ऑटो चालकों की रोज़ाना की कमाई आधी से भी कम हो गई है। अमेरिका-ईरान युद्ध की वजह से पाकिस्तान में एलपीजी 56% तक महंगी हो गई है. 'गरीबों का ईंधन' कही जाने वाली इस गैस के दाम बढ़ने से लाहौर और कराची के हजारों ऑटो चालकों के सामने रोजी-रोटी का संकट खड़ा हो गया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "LPG हुआ बेतहाशा महंगा, आधी से कम हो गई गरीब परिवार की कमाई, कब रुकेगी ये तबाही?",
+          "summary": "अमेरिका-ईरान युद्ध के कारण पाकिस्तान में एलपीजी की कीमतें 56 प्रतिशत बढ़ गई हैं। ईरान सीमा बंद होने से रोजाना 7,000 मीट्रिक टन गैस की आपूर्ति रुक गई। लाहौर और कराची के ऑटो चालकों की रोज़ाना की कमाई आधी से भी कम हो गई है। अमेरिका-ईरान युद्ध की वजह से पाकिस्तान में एलपीजी 56% तक महंगी हो गई है. 'गरीबों का ईंधन' कही जाने वाली इस गैस के दाम बढ़ने से लाहौर और कराची के हजारों ऑटो चालकों के सामने रोजी-रोटी का संकट खड़ा हो गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमी बेरा कौन हैं? भारतीय मूल के अमेरिकी सांसद का राजनीतिक सफर, लगातार आठवीं जीत और भारत से जुड़ाव",
+      "url": "https://www.patrika.com/world-news/ami-bera-wins-eighth-term-us-congress-california-21031063",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T17:43:39+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Ami-Bera.webp",
+      "summary": "कैलिफोर्निया के तीसरे जिले से अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत दर्ज की। उन्होंने रिपब्लिकन प्रत्याशी रॉब टकर को हराया। बेरा 2013 से सैक्रामेंटो काउंटी का प्रतिनिधित्व कर रहे हैं और भारतीय मूल के प्रमुख नेताओं में शामिल हैं। Who Is Ami Bera: भारतीय मूल के अमेरिकी सांसद अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत हासिल की है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमी बेरा कौन हैं? भारतीय मूल के अमेरिकी सांसद का राजनीतिक सफर, लगातार आठवीं जीत और भारत से जुड़ाव",
+          "summary": "कैलिफोर्निया के तीसरे जिले से अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत दर्ज की। उन्होंने रिपब्लिकन प्रत्याशी रॉब टकर को हराया। बेरा 2013 से सैक्रामेंटो काउंटी का प्रतिनिधित्व कर रहे हैं और भारतीय मूल के प्रमुख नेताओं में शामिल हैं। Who Is Ami Bera: भारतीय मूल के अमेरिकी सांसद अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत हासिल की है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मिडटर्म में हार के बाद बदल गए ट्रंप, टीवी पर लाइव आकर कही ऐसी बातें, सुनने वाले हैरान रह गए",
+      "url": "https://hindi.news18.com/world/america-donald-trump-live-on-tv-after-midterm-defeat-answers-news-reporter-call-republican-defeat-defends-iran-war-10964040.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T17:27:21+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-On-Live-TV-2026-11-76150d53d6714ee8bfdea659db583a2f-1200x800.jpg",
+      "summary": "मिडटर्म हार के बाद डोनाल्ड ट्रंप ने लाइव शो में हार की जिम्मेदारी लेने से इनकार कर दिया। उन्होंने दावा किया कि यदि वे स्वयं चुनाव लड़ते तो पार्टी जीत जाती। ट्रंप ने डेमोक्रेट्स के साथ सहयोग की इच्छा जताई, परंतु ईरान पर अपनी नीति पर कोई बदलाव नहीं किया। मिडटर्म चुनावों में रिपब्लिकन पार्टी की करारी हार हुई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिडटर्म में हार के बाद बदल गए ट्रंप, टीवी पर लाइव आकर कही ऐसी बातें, सुनने वाले हैरान रह गए",
+          "summary": "मिडटर्म हार के बाद डोनाल्ड ट्रंप ने लाइव शो में हार की जिम्मेदारी लेने से इनकार कर दिया। उन्होंने दावा किया कि यदि वे स्वयं चुनाव लड़ते तो पार्टी जीत जाती। ट्रंप ने डेमोक्रेट्स के साथ सहयोग की इच्छा जताई, परंतु ईरान पर अपनी नीति पर कोई बदलाव नहीं किया। मिडटर्म चुनावों में रिपब्लिकन पार्टी की करारी हार हुई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में रिपब्लिकन पार्टी की हार पर जेडी वेंस का बयान, बोले- ईरान युद्ध से नाराज थे ट्रंप के कई",
+      "url": "https://www.patrika.com/world-news/jd-vance-republican-defeat-iran-war-us-midterm-elections-21031042",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T17:05:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/JD-Vance.webp",
+      "summary": "उपराष्ट्रपति जेडी वेंस ने 2026 के मिडटर्म चुनावों में रिपब्लिकन हार का कारण ईरान युद्ध बताया। उन्होंने कहा कि ट्रंप समर्थकों में इस युद्ध के प्रति नाराजगी थी। कई ऐसे मतदाताओं ने इस बार डेमोक्रेटिक पार्टी के उम्मीदवारों का समर्थन किया। JD Vance Statement: अमेरिका के उपराष्ट्रपति जेडी वेंस ने 2026 के मध्यावधि चुनावों में रिपब्लिकन पार्टी के खराब प्रदर्शन के पीछे ईरान युद्ध को एक बड़ी वजह बताया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में रिपब्लिकन पार्टी की हार पर जेडी वेंस का बयान, बोले- ईरान युद्ध से नाराज थे ट्रंप के कई",
+          "summary": "उपराष्ट्रपति जेडी वेंस ने 2026 के मिडटर्म चुनावों में रिपब्लिकन हार का कारण ईरान युद्ध बताया। उन्होंने कहा कि ट्रंप समर्थकों में इस युद्ध के प्रति नाराजगी थी। कई ऐसे मतदाताओं ने इस बार डेमोक्रेटिक पार्टी के उम्मीदवारों का समर्थन किया। JD Vance Statement: अमेरिका के उपराष्ट्रपति जेडी वेंस ने 2026 के मध्यावधि चुनावों में रिपब्लिकन पार्टी के खराब प्रदर्शन के पीछे ईरान युद्ध को एक बड़ी वजह बताया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जिनपिंग, पुतिन और ट्रंप की महा-मुलाकात, क्या है शैनजेन APEC समिट का खेल, 3 सुपरपावर्स पलटने वाले",
+      "url": "https://hindi.news18.com/news/knowledge/apec-summit-2026-xi-jinping-vladimir-putin-and-donald-trump-to-hold-historic-g3-meeting-in-shenzhen-10964023.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T16:52:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-Putin-Jinping-Meet-2026-11-bcce393e7a6a6e1c4092262908f37c08-1200x800.jpg",
+      "summary": "नवंबर 2026 में शैनजेन में APEC शिखर सम्मेलन से पहले ट्रंप, शी और पुतिन की त्रिपक्षीय बैठक की चर्चा है। मॉस्को और वॉशिंगटन इस मुलाकात के पक्ष में हैं। चीन इस प्रस्ताव पर सावधानी बरत रहा है। नवंबर 2026 में चीन के शैनज़ेन शहर में APEC शिखर सम्मेलन होने जा रहा है. इस सम्मेलन से पहले अमेरिका, चीन और रूस के बीच एक ऐतिहासिक त्रिपक्षीय (G3) बैठक की चर्चाएं तेज हो गई हैं.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिनपिंग, पुतिन और ट्रंप की महा-मुलाकात, क्या है शैनजेन APEC समिट का खेल, 3 सुपरपावर्स पलटने वाले",
+          "summary": "नवंबर 2026 में शैनजेन में APEC शिखर सम्मेलन से पहले ट्रंप, शी और पुतिन की त्रिपक्षीय बैठक की चर्चा है। मॉस्को और वॉशिंगटन इस मुलाकात के पक्ष में हैं। चीन इस प्रस्ताव पर सावधानी बरत रहा है। नवंबर 2026 में चीन के शैनज़ेन शहर में APEC शिखर सम्मेलन होने जा रहा है. इस सम्मेलन से पहले अमेरिका, चीन और रूस के बीच एक ऐतिहासिक त्रिपक्षीय (G3) बैठक की चर्चाएं तेज हो गई हैं.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "'ईरान जंग की वजह से हारे हम': आखिरकार फट पड़े जेडी वेंस, ट्रंप के मुंह पर दे मारी सच्चाई",
+      "url": "https://hindi.news18.com/world/america-we-lost-because-of-iran-war-jd-vance-explodes-over-trump-midterm-defeat-and-reveals-major-rift-in-republican-10963920.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T16:40:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/JD-Vance-On-Midterm-Defeat-2026-11-8e75d248209adb6826c7fafa2a9f7e9e-1200x800.jpg",
+      "summary": "रिपब्लिकन पार्टी की मिडटर्म हार के बाद उपराष्ट्रपति जेडी वेंस ने ईरान युद्ध और महंगाई को असली कारण बताया। उन्होंने पार्टी नेताओं को हार के कारणों से ध्यान भटकाने से रोका। अमेरिकी मिडटर्म चुनावों में रिपब्लिकन पार्टी बुरी तरह हार गई है. इस हार के बाद उपराष्ट्रपति जेडी वेंस ने सोशल मीडिया पर एक धमाकेदार पोस्ट लिखा है. उनकी इस पोस्ट से पार्टी के अंदर बड़ा भूचाल आ गया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'ईरान जंग की वजह से हारे हम': आखिरकार फट पड़े जेडी वेंस, ट्रंप के मुंह पर दे मारी सच्चाई",
+          "summary": "रिपब्लिकन पार्टी की मिडटर्म हार के बाद उपराष्ट्रपति जेडी वेंस ने ईरान युद्ध और महंगाई को असली कारण बताया। उन्होंने पार्टी नेताओं को हार के कारणों से ध्यान भटकाने से रोका। अमेरिकी मिडटर्म चुनावों में रिपब्लिकन पार्टी बुरी तरह हार गई है. इस हार के बाद उपराष्ट्रपति जेडी वेंस ने सोशल मीडिया पर एक धमाकेदार पोस्ट लिखा है. उनकी इस पोस्ट से पार्टी के अंदर बड़ा भूचाल आ गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिकी मिडटर्म चुनाव में चमके भारतीय मूल के 7 नेता, आखिरी वाले की किस्मत क्यों खराब निकली?",
+      "url": "https://hindi.news18.com/world/america-pia-dandiya-to-ro-khanna-how-indian-americans-fared-in-the-us-midterms-and-why-vivek-ramaswamy-lost-photogallery-10963808.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T15:21:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/US-Midterms-2026-Indian-American-Leaders-2026-11-38eede172a44de8b5f8e705546292e4b-1200x800.jpg",
+      "summary": "अमेरिकी मिडटर्म चुनाव में भारतीय मूल के सात नेता मैदान में उतरे। इनमें से कुछ ने जीत दर्ज कर इतिहास रचा। एक नेता को हार का सामना करना पड़ा। अमेरिकी मिडटर्म चुनावों के नतीजे सिर्फ अमेरिकी राजनीति के लिए ही नहीं, बल्कि भारतीय-अमेरिकी समुदाय के लिए भी बेहद दिलचस्प रहे हैं. इस बार चुनावी मैदान में कई भारतीय चेहरे उतरे, जिनमें से कुछ ने शानदार जीत दर्ज करके इतिहास रच दिया, तो कुछ को हार का सामना भी करना पड़ा.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिकी मिडटर्म चुनाव में चमके भारतीय मूल के 7 नेता, आखिरी वाले की किस्मत क्यों खराब निकली?",
+          "summary": "अमेरिकी मिडटर्म चुनाव में भारतीय मूल के सात नेता मैदान में उतरे। इनमें से कुछ ने जीत दर्ज कर इतिहास रचा। एक नेता को हार का सामना करना पड़ा। अमेरिकी मिडटर्म चुनावों के नतीजे सिर्फ अमेरिकी राजनीति के लिए ही नहीं, बल्कि भारतीय-अमेरिकी समुदाय के लिए भी बेहद दिलचस्प रहे हैं. इस बार चुनावी मैदान में कई भारतीय चेहरे उतरे, जिनमें से कुछ ने शानदार जीत दर्ज करके इतिहास रच दिया, तो कुछ को हार का सामना भी करना पड़ा.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मिडटर्म चुनाव के नतीजों पर ईरान ने अमेरिका पर साधा निशाना – ‘अमेरिकी जनता ने दिया स्पष्ट मैसेज’",
+      "url": "https://www.patrika.com/world-news/esmaeil-baghaei-says-american-people-have-sent-clear-message-with-midterm-election-results-21030908",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T15:21:32+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/baghaei.webp",
+      "summary": "ईरान ने अमेरिकी मिडटर्म चुनाव के नतीजों पर ट्रंप की पार्टी की हार को जनता का स्पष्ट संदेश बताया। डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों में बहुमत हासिल किया। अमेरिका (United States of America) में 3 नवंबर को हुए मिडटर्म चुनाव (Midterm Election) के नतीजे सामने आ गए हैं और वो ही हुआ जिसका सभी को अंदाजा था। राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की रिपब्लिकन पार्टी को डेमोक्रेटिक पार्टी के खिलाफ हार झेलनी पड़ी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिडटर्म चुनाव के नतीजों पर ईरान ने अमेरिका पर साधा निशाना – ‘अमेरिकी जनता ने दिया स्पष्ट मैसेज’",
+          "summary": "ईरान ने अमेरिकी मिडटर्म चुनाव के नतीजों पर ट्रंप की पार्टी की हार को जनता का स्पष्ट संदेश बताया। डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों में बहुमत हासिल किया। अमेरिका (United States of America) में 3 नवंबर को हुए मिडटर्म चुनाव (Midterm Election) के नतीजे सामने आ गए हैं और वो ही हुआ जिसका सभी को अंदाजा था। राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की रिपब्लिकन पार्टी को डेमोक्रेटिक पार्टी के खिलाफ हार झेलनी पड़ी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हूती विद्रोहियों ने फिर किया सऊदी अरब पर हमला, किंग खालिद इंटरनेशनल एयरपोर्ट पर दागी बैलिस्टिक",
+      "url": "https://www.patrika.com/world-news/houthis-attack-king-khalid-international-airport-with-ballistic-missile-21030853",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T14:51:38+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/yahya.webp",
+      "summary": "यमन के हूती विद्रोहियों ने सऊदी अरब पर बालिस्टिक मिसाइलों से हमला किया। किंग खालिद इंटरनेशनल एयरपोर्ट पर मिसाइलें गिरीं। यमन में सरकारी सेना और विद्रोहियों के बीच संघर्ष जारी है। यमन (Yemen) में चल रही जंग गंभीर होती जा रही है। हूती विद्रोहियों (Houthis) और यमन की सरकारी सेना लगातार एक-दूसरे के इलाकों में हमले कर रहे हैं। वहीँ हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला जारी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हूती विद्रोहियों ने फिर किया सऊदी अरब पर हमला, किंग खालिद इंटरनेशनल एयरपोर्ट पर दागी बैलिस्टिक",
+          "summary": "यमन के हूती विद्रोहियों ने सऊदी अरब पर बालिस्टिक मिसाइलों से हमला किया। किंग खालिद इंटरनेशनल एयरपोर्ट पर मिसाइलें गिरीं। यमन में सरकारी सेना और विद्रोहियों के बीच संघर्ष जारी है। यमन (Yemen) में चल रही जंग गंभीर होती जा रही है। हूती विद्रोहियों (Houthis) और यमन की सरकारी सेना लगातार एक-दूसरे के इलाकों में हमले कर रहे हैं। वहीँ हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला जारी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मोजतबा खामेनेई की दो-टूक – ‘अमेरिका के सामने ईरान ने सरेंडर करने का सोचा भी तो अब तक हासिल की गई",
+      "url": "https://www.patrika.com/world-news/mojtaba-khamenei-says-slightest-inclination-towards-iran-surrendering-to-us-will-squander-enormous-gains-achieved-21030595",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T14:22:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/mojtaba_.webp",
+      "summary": "ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने अमेरिका को चेतावनी दी है। उन्होंने कहा कि ट्रंप की ताकत मिडटर्म हार के बाद कम हो गई है। ईरान अब अमेरिका को बड़ा घाव देने की तैयारी कर रहा है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव अभी भी खत्म नहीं हुआ है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) के आदेश पर अमेरिकी सेना ने देश में मिडटर्म चुनाव से कुछ घंटे पहले ही ईरान पर हमले कर दिए।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोजतबा खामेनेई की दो-टूक – ‘अमेरिका के सामने ईरान ने सरेंडर करने का सोचा भी तो अब तक हासिल की गई",
+          "summary": "ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने अमेरिका को चेतावनी दी है। उन्होंने कहा कि ट्रंप की ताकत मिडटर्म हार के बाद कम हो गई है। ईरान अब अमेरिका को बड़ा घाव देने की तैयारी कर रहा है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव अभी भी खत्म नहीं हुआ है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) के आदेश पर अमेरिकी सेना ने देश में मिडटर्म चुनाव से कुछ घंटे पहले ही ईरान पर हमले कर दिए।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मिडटर्म के बाद अब ईरान खत्म कर देगा ट्रंप की बची-खुची ताकत, मोजतबा खामेनेई ने किया ‘बहुत बड़ा’ ऐलान",
+      "url": "https://hindi.news18.com/world/middle-east-us-midterms-fallout-iran-mojtaba-khamenei-warns-of-far-bigger-response-as-donald-trump-faces-major-political-blow-10963590.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T14:08:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Mojtaba-Khamenei-Threaten-Trump-2026-11-f069b3e8fa4b8e2e9d94e9660e435de1-1200x800.jpg",
+      "summary": "अमेरिकी मिडटर्म चुनावों में डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों पर कंट्रोल हासिल किया। रिपब्लिकन पार्टी को बड़ा राजनीतिक झटका लगा। ट्रंप की पार्टी को उन राज्यों में भी हार का सामना करना पड़ा जो उनके मजबूत गढ़ माने जाते थे। अमेरीकी मिडटर्म चुनावों में रिपब्लिकन पार्टी बुरी तरह हार गई है. इससे राष्ट्रपति डोनाल्ड ट्रंप की ताकत काफी कम हो गई है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिडटर्म के बाद अब ईरान खत्म कर देगा ट्रंप की बची-खुची ताकत, मोजतबा खामेनेई ने किया ‘बहुत बड़ा’ ऐलान",
+          "summary": "अमेरिकी मिडटर्म चुनावों में डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों पर कंट्रोल हासिल किया। रिपब्लिकन पार्टी को बड़ा राजनीतिक झटका लगा। ट्रंप की पार्टी को उन राज्यों में भी हार का सामना करना पड़ा जो उनके मजबूत गढ़ माने जाते थे। अमेरीकी मिडटर्म चुनावों में रिपब्लिकन पार्टी बुरी तरह हार गई है. इससे राष्ट्रपति डोनाल्ड ट्रंप की ताकत काफी कम हो गई है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप मैजिक फुस्स क्यों हुआ? कौन सी गलती रिपब्लिकन पर पड़ी भारी? अमेरिकी जनता में गुस्से की वजह क्या",
+      "url": "https://hindi.news18.com/photogallery/knowledge/why-donald-trump-republican-party-lost-in-us-mid-term-election-iran-war-inflation-tariff-america-first-10963674.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T13:36:58+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Untitled-design-2026-11-04T183304.342-2026-11-5cae98a8905c488412292d2588b97763-1200x800.jpg",
+      "summary": "फ्रांस में दो नवंबर को कई ब्लड बैंकों पर साइबर हमले हुए। स्वास्थ्य सेवाओं से जुड़े संस्थानों को निशाना बनाया गया। इस घटना के बाद स्वास्थ्य विभाग में हड़कंप मच गया। US Mid term Election 2026: अमेरिका के 2026 के मिडटर्म चुनावों ने राष्ट्रपति डोनाल्ड ट्रंप और उनकी रिपब्लिकन पार्टी को बड़ा राजनीतिक झटका लगा है. डेमोक्रेटिक पार्टी ने हाउस ऑफ रिप्रेजेंटेटिव्स और सीनेट, दोनों पर ही कंट्रोल हासिल कर लिया है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप मैजिक फुस्स क्यों हुआ? कौन सी गलती रिपब्लिकन पर पड़ी भारी? अमेरिकी जनता में गुस्से की वजह क्या",
+          "summary": "फ्रांस में दो नवंबर को कई ब्लड बैंकों पर साइबर हमले हुए। स्वास्थ्य सेवाओं से जुड़े संस्थानों को निशाना बनाया गया। इस घटना के बाद स्वास्थ्य विभाग में हड़कंप मच गया। US Mid term Election 2026: अमेरिका के 2026 के मिडटर्म चुनावों ने राष्ट्रपति डोनाल्ड ट्रंप और उनकी रिपब्लिकन पार्टी को बड़ा राजनीतिक झटका लगा है. डेमोक्रेटिक पार्टी ने हाउस ऑफ रिप्रेजेंटेटिव्स और सीनेट, दोनों पर ही कंट्रोल हासिल कर लिया है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "फ्रांस के कई ब्लड बैंक पर साइबर अटैक, स्वास्थ्य मंत्रालय में मचा हड़कंप, क्या-क्या हुआ नुकसान?",
+      "url": "https://www.patrika.com/world-news/france-blood-banks-cyber-attack-health-ministry-21030711",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T13:10:06+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/cyber-fraud.webp",
+      "summary": "पाकिस्तान ने अपनी नई एयर-टू-एयर मिसाइल 'फाज़' का सफल परीक्षण करने का दावा किया। यह लंबी दूरी की मिसाइल है। इसमें एडवांस्ड टर्मिनल गाइडेंस सिस्टम लगा है। फ्रांस में स्वास्थ्य सेवाओं से जुड़े संस्थानों पर साइबर हमले हुए हैं। 2 नवंबर को कई ब्लड बैंकों को साइबर हमलावरों ने निशाना बनाया। इस घटना के बाद स्वास्थ्य विभाग में हड़कंप मच गया है।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फ्रांस के कई ब्लड बैंक पर साइबर अटैक, स्वास्थ्य मंत्रालय में मचा हड़कंप, क्या-क्या हुआ नुकसान?",
+          "summary": "पाकिस्तान ने अपनी नई एयर-टू-एयर मिसाइल 'फाज़' का सफल परीक्षण करने का दावा किया। यह लंबी दूरी की मिसाइल है। इसमें एडवांस्ड टर्मिनल गाइडेंस सिस्टम लगा है। फ्रांस में स्वास्थ्य सेवाओं से जुड़े संस्थानों पर साइबर हमले हुए हैं। 2 नवंबर को कई ब्लड बैंकों को साइबर हमलावरों ने निशाना बनाया। इस घटना के बाद स्वास्थ्य विभाग में हड़कंप मच गया है।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "भारत के 'अस्त्र' को चुनौती देगा पाकिस्तान का ‘फुस्स बम’, क्या है 'फाज' मिसाइल की इकलौती पावर?",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-tests-indigenous-faaz-air-to-air-missile-can-it-really-challenge-india-astra-and-rafale-jets-10963459.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T12:48:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Faaz-Missile-2026-11-39bfa8787e1d1da2518bc9f4bb2353f8-1200x800.jpg",
+      "summary": "पाकिस्तान ने 'फाज़' मिसाइल की रेंज और स्पीड के आंकड़े छुपाए हैं। डिफेंस एक्सपर्ट्स का मानना है कि बिना पुख्ता सबूत के इस मिसाइल का कोई खास मतलब नहीं है। पाकिस्तान ने अपनी नई एयर-टू-एयर मिसाइल 'फाज़' का सफल परीक्षण करने का दावा किया है. उनका कहना है कि ये लंबी दूरी की मिसाइल है और इसमें 'एडवांस्ड टर्मिनल गाइडेंस सिस्टम' लगा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के 'अस्त्र' को चुनौती देगा पाकिस्तान का ‘फुस्स बम’, क्या है 'फाज' मिसाइल की इकलौती पावर?",
+          "summary": "पाकिस्तान ने 'फाज़' मिसाइल की रेंज और स्पीड के आंकड़े छुपाए हैं। डिफेंस एक्सपर्ट्स का मानना है कि बिना पुख्ता सबूत के इस मिसाइल का कोई खास मतलब नहीं है। पाकिस्तान ने अपनी नई एयर-टू-एयर मिसाइल 'फाज़' का सफल परीक्षण करने का दावा किया है. उनका कहना है कि ये लंबी दूरी की मिसाइल है और इसमें 'एडवांस्ड टर्मिनल गाइडेंस सिस्टम' लगा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "जॉर्जिया को मिली पहली अश्वेत महिला गवर्नर, 56 साल की कीशा ने रचा इतिहास, बाइडन की रह चुकी हैं",
+      "url": "https://hindi.news18.com/world/america-us-midterm-election-2026-result-who-is-keisha-lance-bottoms-first-black-governor-of-georgia-ws-l-10963438.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T12:23:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/black-governor-2026-11-e4d08819ce91f86bb9e7c2e22824201a-1200x800.jpg",
+      "summary": "जॉर्जिया में कीशा, 56 वर्षीय पूर्व बाइडन सलाहकार, पहली अश्वेत महिला गवर्नर बनीं। मध्यावधि चुनाव में यह ऐतिहासिक जीत दर्ज हुई। राज्य के नेतृत्व में पहली बार महिला का चयन हुआ। Who is First Black Governor OF Georgia: अमेरिका में हुए मध्यावधि चुनाव में कई ऐसे ऐतिहासिक नतीजे आए हैं, जो अब तक पहली बार हुआ है. कुछ ऐसा ही जॉर्जिया के गवर्नर के पद के साथ हुआ, जहां पर पहली बार जनता ने अश्वेत महिला गवर्नर चुनी है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जॉर्जिया को मिली पहली अश्वेत महिला गवर्नर, 56 साल की कीशा ने रचा इतिहास, बाइडन की रह चुकी हैं",
+          "summary": "जॉर्जिया में कीशा, 56 वर्षीय पूर्व बाइडन सलाहकार, पहली अश्वेत महिला गवर्नर बनीं। मध्यावधि चुनाव में यह ऐतिहासिक जीत दर्ज हुई। राज्य के नेतृत्व में पहली बार महिला का चयन हुआ। Who is First Black Governor OF Georgia: अमेरिका में हुए मध्यावधि चुनाव में कई ऐसे ऐतिहासिक नतीजे आए हैं, जो अब तक पहली बार हुआ है. कुछ ऐसा ही जॉर्जिया के गवर्नर के पद के साथ हुआ, जहां पर पहली बार जनता ने अश्वेत महिला गवर्नर चुनी है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "मोजतबा खामेनेई ने दी अमेरिका को चेतावनी – ‘अगर ईरान के खिलाफ आक्रामकता दोहराई गई, तो दिया जाएगा",
+      "url": "https://www.patrika.com/world-news/mojtaba-khamenei-warns-us-if-aggressions-be-repeated-iran-will-reply-with-much-broader-dimensions-21030486",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T12:13:03+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/mojtaba.webp",
+      "summary": "ईरान के नेतृत्व ने अमेरिका को चेतावनी दी कि आक्रामकता दोहराई जाए तो जवाब दिया जाएगा। ट्रंप ने मध्यावधि चुनाव से पहले केशम द्वीप पर हमला किया था। दोनों देशों के बीच तनाव जारी है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव की स्थिति बरकरार है। मीडिया रिपोर्ट्स के अनुसार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) देश में मिडटर्म चुनाव के बाद ईरान पर फिर से हमले शुरू करने का प्लान बना रहे थे, लेकिन चुनाव से कुछ घंटे पहले ही अमेरिका ने ईरान पर हमले कर दिए।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मोजतबा खामेनेई ने दी अमेरिका को चेतावनी – ‘अगर ईरान के खिलाफ आक्रामकता दोहराई गई, तो दिया जाएगा",
+          "summary": "ईरान के नेतृत्व ने अमेरिका को चेतावनी दी कि आक्रामकता दोहराई जाए तो जवाब दिया जाएगा। ट्रंप ने मध्यावधि चुनाव से पहले केशम द्वीप पर हमला किया था। दोनों देशों के बीच तनाव जारी है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव की स्थिति बरकरार है। मीडिया रिपोर्ट्स के अनुसार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) देश में मिडटर्म चुनाव के बाद ईरान पर फिर से हमले शुरू करने का प्लान बना रहे थे, लेकिन चुनाव से कुछ घंटे पहले ही अमेरिका ने ईरान पर हमले कर दिए।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "‘युद्ध और चुनाव दोनों में डोनाल्ड ट्रंप की हार, हम उन्हें फिर हराएंगे’, ईरान ने दी चेतावनी",
+      "url": "https://www.patrika.com/world-news/donald-trump-defeated-in-war-and-election-iran-warns-to-impose-further-defeats-on-him-21030227",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T12:02:57+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/gholam_d90269.webp",
+      "summary": "ईरान ने कहा कि ट्रंप युद्ध और चुनाव दोनों में हारे हैं और उन्हें फिर हराया जाएगा। अमेरिकी मध्यावधि चुनाव में डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों में बहुमत हासिल की। रिपब्लिकन पार्टी को करारा झटका लगा। राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की रिपब्लिकन पार्टी की हार हुई है। डेमोक्रेटिक पार्टी को शानदार जीत हासिल हुई है। अमेरिकी हाउस ऑफ रिप्रेज़ेन्टेटिव और सीनेट दोनों में ही डेमोक्रेटिक पार्टी को बहुमत हासिल हो गया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘युद्ध और चुनाव दोनों में डोनाल्ड ट्रंप की हार, हम उन्हें फिर हराएंगे’, ईरान ने दी चेतावनी",
+          "summary": "ईरान ने कहा कि ट्रंप युद्ध और चुनाव दोनों में हारे हैं और उन्हें फिर हराया जाएगा। अमेरिकी मध्यावधि चुनाव में डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों में बहुमत हासिल की। रिपब्लिकन पार्टी को करारा झटका लगा। राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की रिपब्लिकन पार्टी की हार हुई है। डेमोक्रेटिक पार्टी को शानदार जीत हासिल हुई है। अमेरिकी हाउस ऑफ रिप्रेज़ेन्टेटिव और सीनेट दोनों में ही डेमोक्रेटिक पार्टी को बहुमत हासिल हो गया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मिशिगन का अब्दुल छोड़ो... इन 4 जगहों से मिले ट्रंप को सबसे गहरे घाव, इतिहास-भूगोल सब बिगड़ गया!",
+      "url": "https://hindi.news18.com/world/america-us-midterms-2026-live-beyond-michigan-how-kansas-texas-south-carolina-delivered-historic-defeats-to-donald-trump-republicans-10963368.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T12:01:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/US-Midterms-2026-2026-11-837fa306724efd5c7321710f7d60c730-1200x800.jpg",
+      "summary": "डेमोक्रेट्स ने कंसास, टेक्सास और साउथ कैरोलिना जैसे रिपब्लिकन गढ़ों में जीत दर्ज की। कंसास में 94 वर्ष बाद और टेक्सास में 38 वर्ष बाद यह पहली बार हुआ। ट्रंप के लिए यह सबसे गहरा राजनीतिक झटका रहा। अमेरिकी मिडटर्म चुनावों ने डेमोक्रैट्स ने ऐतिहासिक जीत हासिल करते हुए संसद के दोनों सदनों पर कंट्रोल हासिल कर लिया है. मिशिगन की जीत के अलावा, कंसास (94 साल बाद), टेक्सास (38 साल बाद) और साउथ कैरोलिना जैसे रिपब्लिकन पार्टी के दशकों पुराने और सबसे सुरक्षित गढ़ों में भी डेमोक्रेट्स ने सेंध लगाकर ट्रंप के पावर को करारा झटका दिया है.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मिशिगन का अब्दुल छोड़ो... इन 4 जगहों से मिले ट्रंप को सबसे गहरे घाव, इतिहास-भूगोल सब बिगड़ गया!",
+          "summary": "डेमोक्रेट्स ने कंसास, टेक्सास और साउथ कैरोलिना जैसे रिपब्लिकन गढ़ों में जीत दर्ज की। कंसास में 94 वर्ष बाद और टेक्सास में 38 वर्ष बाद यह पहली बार हुआ। ट्रंप के लिए यह सबसे गहरा राजनीतिक झटका रहा। अमेरिकी मिडटर्म चुनावों ने डेमोक्रैट्स ने ऐतिहासिक जीत हासिल करते हुए संसद के दोनों सदनों पर कंट्रोल हासिल कर लिया है. मिशिगन की जीत के अलावा, कंसास (94 साल बाद), टेक्सास (38 साल बाद) और साउथ कैरोलिना जैसे रिपब्लिकन पार्टी के दशकों पुराने और सबसे सुरक्षित गढ़ों में भी डेमोक्रेट्स ने सेंध लगाकर ट्रंप के पावर को करारा झटका दिया है.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "यूक्रेन से जंग के 1200 दिन पूरे, रूस ने किया अब तक का सबसे खौफनाक धमाका, बारी-बारी कैसे झुलस रहे",
+      "url": "https://hindi.news18.com/world/europe-russia-ukraine-war-day-1200-russia-launches-biggest-air-strike-on-kharkiv-hospital-power-grids-ahead-of-abu-dhabi-peace-talks-10963007.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T10:47:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Russia-Ukraine-War-2026-11-7665b4235133c790e85e9b2b6b98de81-1200x800.jpg",
+      "summary": "रूस ने यूक्रेन पर 289 ड्रोन और 73 मिसाइलों से अब तक का सबसे बड़ा हमला किया। खारकीव का एक अस्पताल तबाह हुआ और नौ राज्यों की बिजली आपूर्ति ठप हुई। युद्ध के 1200 दिन पूरे हुए हैं। रूस और यूक्रेन जंग को 1200 दिन से ज्यादा हो चुके हैं. अब हालात बहुत बिगड़ चुके हैं. रूस ने यूक्रेन पर अब तक का सबसे बड़ा हमला कर दिया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन से जंग के 1200 दिन पूरे, रूस ने किया अब तक का सबसे खौफनाक धमाका, बारी-बारी कैसे झुलस रहे",
+          "summary": "रूस ने यूक्रेन पर 289 ड्रोन और 73 मिसाइलों से अब तक का सबसे बड़ा हमला किया। खारकीव का एक अस्पताल तबाह हुआ और नौ राज्यों की बिजली आपूर्ति ठप हुई। युद्ध के 1200 दिन पूरे हुए हैं। रूस और यूक्रेन जंग को 1200 दिन से ज्यादा हो चुके हैं. अब हालात बहुत बिगड़ चुके हैं. रूस ने यूक्रेन पर अब तक का सबसे बड़ा हमला कर दिया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका के खिलाफ ईरान का नया प्लान तैयार, अगर फिर हुआ हमला तो दिया जाएगा करारा जवाब",
+      "url": "https://www.patrika.com/world-news/iran-prepares-maximum-deterrence-plan-if-us-attacks-again-21030161",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T10:33:59+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/iran-army.webp",
+      "summary": "अमेरिकी सेना ने ईरान के केशम द्वीप पर सीमित हमले किए। ईरान ने अब नया प्रतिशोध योजना तैयार कर ली है। यह फैसला अगले संभावित हमले के जवाब के लिए लिया गया है। अमेरिका (United States of America) की सेना ने देश में मिडटर्म चुनाव से कुछ घंटे पहले ईरान (Iran) पर फिर से हमले कर दिए। अमेरिकी सेना ने होर्मुज स्ट्रेट (Strait of Hormuz) के पास स्थित केशम आइलैंड (Qeshm Island) पर हमले किए।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका के खिलाफ ईरान का नया प्लान तैयार, अगर फिर हुआ हमला तो दिया जाएगा करारा जवाब",
+          "summary": "अमेरिकी सेना ने ईरान के केशम द्वीप पर सीमित हमले किए। ईरान ने अब नया प्रतिशोध योजना तैयार कर ली है। यह फैसला अगले संभावित हमले के जवाब के लिए लिया गया है। अमेरिका (United States of America) की सेना ने देश में मिडटर्म चुनाव से कुछ घंटे पहले ईरान (Iran) पर फिर से हमले कर दिए। अमेरिकी सेना ने होर्मुज स्ट्रेट (Strait of Hormuz) के पास स्थित केशम आइलैंड (Qeshm Island) पर हमले किए।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ब्लू सुनामी क्या है? अमेरिका के मिड टर्म चुनाव में इसका क्या मतलब, कहां से आया ये टर्म?",
+      "url": "https://hindi.news18.com/news/knowledge/what-is-blue-tsunami-in-usa-what-does-it-signify-in-context-of-us-midterm-elections-from-where-term-originate-10963072.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T10:19:13+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Untitled-design-2026-11-04T153856.871-2026-11-137bdba629f0c6f2cae04210c86adec7-1200x800.jpg",
+      "summary": "अमेरिकी राजनीति में डेमोक्रेटिक पार्टी का रंग नीला है। ब्लू सुनामी का अर्थ है डेमोक्रेट्स की बड़ी जीत। यह शब्द मिडटर्म चुनावों में उनकी संभावित सफलता को दर्शाता है। US Mid term Election: अमेरिका सहित पूरी दुनिया में यूएस मिडटर्म चुनावों की चर्चा जोरों पर है. यहां ब्लू सुनामी आई है. आखिर इसका क्या मतलब है? अमेरिका की राजनीति में दो प्रमुख पार्टियां हैं- डेमोक्रेटिक पार्टी और रिपब्लिकन पार्टी.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्लू सुनामी क्या है? अमेरिका के मिड टर्म चुनाव में इसका क्या मतलब, कहां से आया ये टर्म?",
+          "summary": "अमेरिकी राजनीति में डेमोक्रेटिक पार्टी का रंग नीला है। ब्लू सुनामी का अर्थ है डेमोक्रेट्स की बड़ी जीत। यह शब्द मिडटर्म चुनावों में उनकी संभावित सफलता को दर्शाता है। US Mid term Election: अमेरिका सहित पूरी दुनिया में यूएस मिडटर्म चुनावों की चर्चा जोरों पर है. यहां ब्लू सुनामी आई है. आखिर इसका क्या मतलब है? अमेरिका की राजनीति में दो प्रमुख पार्टियां हैं- डेमोक्रेटिक पार्टी और रिपब्लिकन पार्टी.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "भारत के लिए खुला होर्मुज का गेट, दुनिया में तेल संकट के बीच ईरान ने दी गुड न्यूज; क्या है संदेश?",
+      "url": "https://hindi.news18.com/news/nation/who-gets-passage-through-hormuz-strait-iran-grants-exemptions-to-select-nations-including-india-10962884.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-04T10:12:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Hormuz-Strait-2026-11-12fec81680c6ddf7f92298b637c00066-1200x800.jpg",
+      "summary": "ईरान ने भारत समेत चार देशों को होर्मुज जलडमरूमध्य से गुजरने की छूट दी। यह फैसला भारत के कच्चे तेल आयात के लिए महत्वपूर्ण है। यह रणनीतिक और आर्थिक रास्ता खोलता है। India Iran Relations: पश्चिम एशिया में जारी तनाव के बीच होर्मुज जलडमरूमध्य से जहाजों की आवाजाही को लेकर ईरान के एक फैसले ने भारत के लिए अहम रणनीतिक और आर्थिक रास्ता खोलने का दावा किया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत के लिए खुला होर्मुज का गेट, दुनिया में तेल संकट के बीच ईरान ने दी गुड न्यूज; क्या है संदेश?",
+          "summary": "ईरान ने भारत समेत चार देशों को होर्मुज जलडमरूमध्य से गुजरने की छूट दी। यह फैसला भारत के कच्चे तेल आयात के लिए महत्वपूर्ण है। यह रणनीतिक और आर्थिक रास्ता खोलता है। India Iran Relations: पश्चिम एशिया में जारी तनाव के बीच होर्मुज जलडमरूमध्य से जहाजों की आवाजाही को लेकर ईरान के एक फैसले ने भारत के लिए अहम रणनीतिक और आर्थिक रास्ता खोलने का दावा किया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "यमन में सेना के अल-जुमैमा कैंप पर हूती विद्रोहियों ने किया मिसाइल अटैक, कई नए सैनिकों की मौत",
+      "url": "https://www.patrika.com/world-news/houthis-launch-missile-attack-on-new-recruits-in-al-jumaimah-army-camp-multiple-casualties-reported-21030058",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-04T09:57:40+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/houthis-missile-strike.webp",
+      "summary": "यमन के धले प्रांत में हूतियों ने अल-जुमैमा कैंप पर मिसाइल हमला किया। कई नए सैनिकों की मौत हुई। यह हमला दोनों पक्षों के बीच बढ़ते संघर्ष का हिस्सा है। यमन (Yemen) में हालात काफी बिगड़ गए हैं। हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच चल रही जंग बढ़ती ही जा रही है। दोनों पक्ष एक-दूसरे के कब्ज़े वाले इलाकों पर हमले कर रहे हैं, जिससे एक-दूसरे को कमजोर किया जा सके।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यमन में सेना के अल-जुमैमा कैंप पर हूती विद्रोहियों ने किया मिसाइल अटैक, कई नए सैनिकों की मौत",
+          "summary": "यमन के धले प्रांत में हूतियों ने अल-जुमैमा कैंप पर मिसाइल हमला किया। कई नए सैनिकों की मौत हुई। यह हमला दोनों पक्षों के बीच बढ़ते संघर्ष का हिस्सा है। यमन (Yemen) में हालात काफी बिगड़ गए हैं। हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच चल रही जंग बढ़ती ही जा रही है। दोनों पक्ष एक-दूसरे के कब्ज़े वाले इलाकों पर हमले कर रहे हैं, जिससे एक-दूसरे को कमजोर किया जा सके।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
       "title": "होर्मुज स्ट्रेट में तेल के चार जहाज बने समुदी बारूदी सुरंगों का शिकार, ईरानी नेवी को चकमा देने की",
       "url": "https://www.patrika.com/world-news/four-tankers-explode-in-strait-of-hormuz-due-to-naval-mines-while-trying-to-deceive-iran-navy-21029948",
       "source": "Patrika (World)",
@@ -322,438 +754,6 @@
           "title": "होर्मुज स्ट्रेट में तेल के चार जहाज बने समुदी बारूदी सुरंगों का शिकार, ईरानी नेवी को चकमा देने की",
           "summary": "इरान ने होर्मुज स्ट्रेट को बंद कर दिया है। अमेरिकी नौसेना ने जहाजों को अवैध मार्गों से गुजरने की अनुमति दी। चार तेल जहाज समुद्री मीन के शिकार बने। ईरानी नौसेना ने इन पर हमला किया। होर्मुज स्ट्रेट (Strait of Hormuz) को ईरान (Iran) ने बंद कर रखा है और सभी को यह चेतावनी दी है कि अगर किसी भी जहाज ने ईरान द्वारा घोषित अवैध रास्तों से गुज़रने की कोशिश की, तो उनके लिए सही नहीं होगा।",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका से टकराव की ओर इजरायल? विपक्ष के नेता गोलन ने नेतन्याहू को बताया देश के लिए “नुकसानदेह”",
-      "url": "https://www.patrika.com/world-news/netanyahu-harmful-israel-yair-golan-us-midterm-elections-warning-21029837",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-04T09:34:48+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Yair-Golan.webp",
-      "summary": "विपक्षी नेता याइर गोलन ने नेतन्याहू को देश के लिए नुकसानदेह बताया। उन्होंने चेतावनी दी कि नेतन्याहू के रहने से इजरायल अंतरराष्ट्रीय स्तर पर अलग-थलग पड़ सकता है। यह टिप्पणी अमेरिकी मध्यावधि चुनाव के बाद आई। Israel Election: इजराइल के डेमोक्रेट्स पार्टी के नेता और विपक्ष के प्रमुख याइर गोलन (Yair Golan) ने हालिया अमेरिकी मध्यावधि चुनावों (US Midterm Elections) के परिणामों और इजराइली राजनीतिक गतिरोध के बाद प्रधानमंत्री बेंजामिन नेतन्याहू की तीखी आलोचना की है। उन्होंने चेतावनी दी है कि नेतन्याहू का नेतृत्व बने रहने से इजरायल को गंभीर राजनयिक नुकसान हो सकता है और वह अंतरराष्ट्रीय स्तर पर अलग-थलग पड़ सकता।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका से टकराव की ओर इजरायल? विपक्ष के नेता गोलन ने नेतन्याहू को बताया देश के लिए “नुकसानदेह”",
-          "summary": "विपक्षी नेता याइर गोलन ने नेतन्याहू को देश के लिए नुकसानदेह बताया। उन्होंने चेतावनी दी कि नेतन्याहू के रहने से इजरायल अंतरराष्ट्रीय स्तर पर अलग-थलग पड़ सकता है। यह टिप्पणी अमेरिकी मध्यावधि चुनाव के बाद आई। Israel Election: इजराइल के डेमोक्रेट्स पार्टी के नेता और विपक्ष के प्रमुख याइर गोलन (Yair Golan) ने हालिया अमेरिकी मध्यावधि चुनावों (US Midterm Elections) के परिणामों और इजराइली राजनीतिक गतिरोध के बाद प्रधानमंत्री बेंजामिन नेतन्याहू की तीखी आलोचना की है। उन्होंने चेतावनी दी है कि नेतन्याहू का नेतृत्व बने रहने से इजरायल को गंभीर राजनयिक नुकसान हो सकता है और वह अंतरराष्ट्रीय स्तर पर अलग-थलग पड़ सकता।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "क्या था ऑस्लो समझौता, जिसकी इजरायली पीएम ने चुकायी कीमत? कट्टरपंथी यहूदी ने ही मारा अपने पीएम को",
-      "url": "https://www.patrika.com/world-news/oslo-accords-yitzhak-rabin-assassination-israel-palestine-peace-agreement-1993-21029752",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-04T08:57:21+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Yitzhak-Rabin.webp",
-      "summary": "यित्जाक राबिन को ऑस्लो समझौते के विरोध में एक कट्टरपंथी यहूदी ने गोली मारी। यह समझौता इजरायल और फिलिस्तीन के बीच शांति की कोशिश था। राबिन ने इसे अपनाया था। इस घटना ने राजनीतिक विभाजन को गहरा किया। Oslo Agreement: इजरायल और फिलिस्तीन के बीच सालों से चला आ रहा झगड़ा उस वक्त एक नए मोड़ पर पहुंच गया, जब दोनों देशों के बीच शांति कायम करने की कोशिश शुरू हुई।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या था ऑस्लो समझौता, जिसकी इजरायली पीएम ने चुकायी कीमत? कट्टरपंथी यहूदी ने ही मारा अपने पीएम को",
-          "summary": "यित्जाक राबिन को ऑस्लो समझौते के विरोध में एक कट्टरपंथी यहूदी ने गोली मारी। यह समझौता इजरायल और फिलिस्तीन के बीच शांति की कोशिश था। राबिन ने इसे अपनाया था। इस घटना ने राजनीतिक विभाजन को गहरा किया। Oslo Agreement: इजरायल और फिलिस्तीन के बीच सालों से चला आ रहा झगड़ा उस वक्त एक नए मोड़ पर पहुंच गया, जब दोनों देशों के बीच शांति कायम करने की कोशिश शुरू हुई।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेर‍िका के पहले मुस्‍ल‍िम सीनेटर अब्‍दुल का भारत से क्या है र‍िश्‍ता? खुद को मानते हैं पूरी तरह",
-      "url": "https://hindi.news18.com/news/knowledge/how-abdul-el-sayed-first-muslim-set-to-enter-senate-has-india-karnataka-connection-us-election-results-10962802.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T08:54:54+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Abdul-El-Sayed-2026-11-1d431fd276cdb1a8536b8e4a23daa435-1200x800.jpg",
-      "summary": "अब्दुल अल-सैयद मिसिगन से अमेरिका के पहले मुस्लिम सीनेटर बने। उनकी पत्नी सारा जुकाकू एक डॉक्टर हैं। ट्रंप ने अपनी सोशल मीडिया पोस्ट में उनकी तस्वीर साझा की थी। अब्दुल को भारत से गहरे संबंध मानते हैं। अब्दुल अल-सैयद म‍िश‍िगन से सीनेट पहुंचे हैं और पहले मुस्‍ल‍िम सीनेटर बने हैं. अब्‍दुल की तरह उनकी पत्‍नी सारा जुकाकू भी एक डॉक्‍टर हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेर‍िका के पहले मुस्‍ल‍िम सीनेटर अब्‍दुल का भारत से क्या है र‍िश्‍ता? खुद को मानते हैं पूरी तरह",
-          "summary": "अब्दुल अल-सैयद मिसिगन से अमेरिका के पहले मुस्लिम सीनेटर बने। उनकी पत्नी सारा जुकाकू एक डॉक्टर हैं। ट्रंप ने अपनी सोशल मीडिया पोस्ट में उनकी तस्वीर साझा की थी। अब्दुल को भारत से गहरे संबंध मानते हैं। अब्दुल अल-सैयद म‍िश‍िगन से सीनेट पहुंचे हैं और पहले मुस्‍ल‍िम सीनेटर बने हैं. अब्‍दुल की तरह उनकी पत्‍नी सारा जुकाकू भी एक डॉक्‍टर हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "क्या ट्रंप पर तीसरी बार चलेगा महाभियोग? डेमोक्रेट्स की तूफानी जीत ले उड़ेगी कुर्सी? जानिए कहां फंस",
-      "url": "https://hindi.news18.com/world/america-us-midterm-election-2026-result-democrates-massive-victory-donald-trump-impeachment-on-cards-after-10962597.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T08:38:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/donald-trump-n-2026-11-3acd05c133e1462de23e06bb24806f0b-1200x800.jpg",
-      "summary": "डेमोक्रेट्स की मध्यावधि जीत के बाद ट्रंप पर तीसरा महाभियोग संभव है। दोनों सदनों में विरोधियों का कब्जा बढ़ गया है। यह राजनीतिक स्थिति ट्रंप के लिए चुनौती बन रही है। महाभियोग की तैयारियां शुरू हो चुकी हैं। Donald Trump Third Impeachment Preparation: अमेरिका में मिडटर्म इलेक्शन के जो ऐतिहासिक नतीजे सामने आए हैं, वो डेमोक्रेटिक पार्टी के खेमे में तो खुशी लाए हैं लेकिन डोनाल्ड ट्रंप की नींदें उड़ी हुई होंगी.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या ट्रंप पर तीसरी बार चलेगा महाभियोग? डेमोक्रेट्स की तूफानी जीत ले उड़ेगी कुर्सी? जानिए कहां फंस",
-          "summary": "डेमोक्रेट्स की मध्यावधि जीत के बाद ट्रंप पर तीसरा महाभियोग संभव है। दोनों सदनों में विरोधियों का कब्जा बढ़ गया है। यह राजनीतिक स्थिति ट्रंप के लिए चुनौती बन रही है। महाभियोग की तैयारियां शुरू हो चुकी हैं। Donald Trump Third Impeachment Preparation: अमेरिका में मिडटर्म इलेक्शन के जो ऐतिहासिक नतीजे सामने आए हैं, वो डेमोक्रेटिक पार्टी के खेमे में तो खुशी लाए हैं लेकिन डोनाल्ड ट्रंप की नींदें उड़ी हुई होंगी.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "'मेरा नाम अब्दुल है', पहले मुस्लिम सांसद बनते ही ट्रंप पर कसा तंज, ईरान युद्ध पर भी मारा ताना",
-      "url": "https://hindi.news18.com/world/america-us-midterm-election-abdul-el-sayed-teases-donald-trump-after-michigan-senate-victory-takes-dig-on-religion-and-iran-war-10962749.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T08:36:25+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/ABDUL-EL-SAYED-2026-11-ed1c857e4e485be32114e7f38c7f5ac5-1200x800.jpg",
-      "summary": "अब्दुल एल-सैयद ने मिशिगन सीनेट चुनाव में माइक रोजर्स को हराकर अमेरिका के पहले मुस्लिम सीनेटर का इतिहास रचा। उन्होंने ट्रंप पर ईरान युद्ध और धार्मिक विरोध के मुद्दों पर तीखी टिप्पणी की। Michigan Senater Abdul el sayed Teases Donald trump: अमेरिका के मिडटर्म इलेक्शन में डेमोक्रेटिक पार्टी के उम्मीदवार अब्दुल अल सैयद ने जीत हासिल करते हुए कुछ ऐसा कहा कि डोनाल्ड ट्रंप सुनकर ही तिलमिला जाएंगे.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मेरा नाम अब्दुल है', पहले मुस्लिम सांसद बनते ही ट्रंप पर कसा तंज, ईरान युद्ध पर भी मारा ताना",
-          "summary": "अब्दुल एल-सैयद ने मिशिगन सीनेट चुनाव में माइक रोजर्स को हराकर अमेरिका के पहले मुस्लिम सीनेटर का इतिहास रचा। उन्होंने ट्रंप पर ईरान युद्ध और धार्मिक विरोध के मुद्दों पर तीखी टिप्पणी की। Michigan Senater Abdul el sayed Teases Donald trump: अमेरिका के मिडटर्म इलेक्शन में डेमोक्रेटिक पार्टी के उम्मीदवार अब्दुल अल सैयद ने जीत हासिल करते हुए कुछ ऐसा कहा कि डोनाल्ड ट्रंप सुनकर ही तिलमिला जाएंगे.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी सीनेट चुनाव में अब्दुल एल-सैयद की ऐतिहासिक जीत, पहले मुस्लिम सीनेटर बने; जानें क्या है भारत",
-      "url": "https://www.patrika.com/world-news/abdul-el-sayed-first-muslim-us-senator-michigan-karnataka-bhatkal-connection-21029584",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-04T08:14:14+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Abdul-El-Sayed.webp",
-      "summary": "डेमोक्रेटिक उम्मीदवार अब्दुल एल-सैयद ने मिशिगन में ऐतिहासिक जीत दर्ज की। वे अमेरिका के पहले मुस्लिम सीनेटर बने हैं। ट्रंप ने चुनाव प्रचार में उनके कड़े विरोध का किया था। अमेरिका के मिशिगन राज्य में डेमोक्रेटिक प्रत्याशी अब्दुल एल-सैयद ने ऐतिहासिक जीत हासिल की है। इसके साथ ही वे पहले मुस्लिम सीनेटर भी बन गए है। अब्दुल एल-सैयद ने रिपब्लिकन प्रत्याशी माइक रोजर्स को हराया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी सीनेट चुनाव में अब्दुल एल-सैयद की ऐतिहासिक जीत, पहले मुस्लिम सीनेटर बने; जानें क्या है भारत",
-          "summary": "डेमोक्रेटिक उम्मीदवार अब्दुल एल-सैयद ने मिशिगन में ऐतिहासिक जीत दर्ज की। वे अमेरिका के पहले मुस्लिम सीनेटर बने हैं। ट्रंप ने चुनाव प्रचार में उनके कड़े विरोध का किया था। अमेरिका के मिशिगन राज्य में डेमोक्रेटिक प्रत्याशी अब्दुल एल-सैयद ने ऐतिहासिक जीत हासिल की है। इसके साथ ही वे पहले मुस्लिम सीनेटर भी बन गए है। अब्दुल एल-सैयद ने रिपब्लिकन प्रत्याशी माइक रोजर्स को हराया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका मिडटर्म इलेक्शन के नतीजों पर ईरान का पहला रिएक्शन, सुनकर तमतमा जाएंगे ट्रंप",
-      "url": "https://hindi.news18.com/world/middle-east-iran-first-reaction-after-us-midterm-election-2026-results-message-to-donald-trump-ws-l-10962436.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T08:13:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Iran-US-War-End-2026-08-07acee18ec5ece1e8e201a973454fbb1-1200x800.jpg",
-      "summary": "ईरान के नेता कालिबाफ ने अमेरिकी मिडटर्म नतीजों पर प्रतिक्रिया दी। उन्होंने कहा कि अमेरिकी जनता ने युद्ध के खिलाफ फैसला सुना दिया। अब इनकार का परिणाम खराब होगा। Iran Reaction On Trump Party Defeat: अमेरिका के मिडटर्म इलेक्शन के रिजल्ट आते ही ईरान की ओर से जो प्रतिक्रिया आई है, वो महत्वपूर्ण है. कालिबाफ ने कहा है कि अमेरिका की जनता अपना फैसला युद्ध को लेकर सुना चुकी है और अब इनकार का अंजाम बुरा होगा.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका मिडटर्म इलेक्शन के नतीजों पर ईरान का पहला रिएक्शन, सुनकर तमतमा जाएंगे ट्रंप",
-          "summary": "ईरान के नेता कालिबाफ ने अमेरिकी मिडटर्म नतीजों पर प्रतिक्रिया दी। उन्होंने कहा कि अमेरिकी जनता ने युद्ध के खिलाफ फैसला सुना दिया। अब इनकार का परिणाम खराब होगा। Iran Reaction On Trump Party Defeat: अमेरिका के मिडटर्म इलेक्शन के रिजल्ट आते ही ईरान की ओर से जो प्रतिक्रिया आई है, वो महत्वपूर्ण है. कालिबाफ ने कहा है कि अमेरिका की जनता अपना फैसला युद्ध को लेकर सुना चुकी है और अब इनकार का अंजाम बुरा होगा.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अब्दुल ने रच दिया इतिहास, ट्रंप ने बताया था 'जिहादी', अब वही बने अमेरिका के पहले मुस्लिम सीनेटर",
-      "url": "https://hindi.news18.com/world/america-abdul-el-sayed-wins-michigan-senate-election-first-muslim-us-senator-trump-jihadist-comment-10962208.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T07:20:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/abdul-el-sayed-wins-michigan-senate-election-2026-11-33ac9555f1210205bb93a5b3ffad206a-1200x800.jpg",
-      "summary": "अब्दुल एल-सैयद ने माइक रोजर्स को 1.27 लाख वोटों से हराया। ट्रंप ने उन्हें 'जिहादी' कहकर आतंकियों का समर्थक बताया था। अब वे अमेरिका के पहले मुस्लिम सीनेटर बने हैं। अमेरिका की राजनीति में अब्दुल एल-सैयद ने इतिहास रच दिया है. मिशिगन सीनेट चुनाव में डेमोक्रेटिक उम्मीदवार ने रिपब्लिकन माइक रोजर्स को 1.27 लाख से ज्यादा वोटों से हरा दिया.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब्दुल ने रच दिया इतिहास, ट्रंप ने बताया था 'जिहादी', अब वही बने अमेरिका के पहले मुस्लिम सीनेटर",
-          "summary": "अब्दुल एल-सैयद ने माइक रोजर्स को 1.27 लाख वोटों से हराया। ट्रंप ने उन्हें 'जिहादी' कहकर आतंकियों का समर्थक बताया था। अब वे अमेरिका के पहले मुस्लिम सीनेटर बने हैं। अमेरिका की राजनीति में अब्दुल एल-सैयद ने इतिहास रच दिया है. मिशिगन सीनेट चुनाव में डेमोक्रेटिक उम्मीदवार ने रिपब्लिकन माइक रोजर्स को 1.27 लाख से ज्यादा वोटों से हरा दिया.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "डेमोक्रेटिक की जीत के बाद भी क्यों खुश हैं ट्रंप, क्या है वीटो पावर जिसका किया जिक्र?",
-      "url": "https://www.amarujala.com/world/us-mid-term-election-democrats-take-control-of-senate-and-house-as-trump-warns-of-veto-powers-2026-11-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-04T07:18:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/tarapa-ka-naya-sayasa-thava_75f33434f4631f08b4bd10a58ac1772d.jpeg?w=1200&dpr=1.0",
-      "summary": "डेमोक्रेटिक पार्टी ने सीनेट और हाउस दोनों पर नियंत्रण हासिल किया। ट्रंप ने वीटो पावर का जिक्र करते हुए अपनी स्थिति की रक्षा की। डेमोक्रेटिक की जीत के बाद भी क्यों खुश हैं ट्रंप, क्या है वीटो पावर जिसका किया जिक्र?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डेमोक्रेटिक की जीत के बाद भी क्यों खुश हैं ट्रंप, क्या है वीटो पावर जिसका किया जिक्र?",
-          "summary": "डेमोक्रेटिक पार्टी ने सीनेट और हाउस दोनों पर नियंत्रण हासिल किया। ट्रंप ने वीटो पावर का जिक्र करते हुए अपनी स्थिति की रक्षा की। डेमोक्रेटिक की जीत के बाद भी क्यों खुश हैं ट्रंप, क्या है वीटो पावर जिसका किया जिक्र?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका के मध्यावधि चुनाव पर ईरान बोला- वहां के लोग जंग नहीं चाहते हैं",
-      "url": "https://www.patrika.com/world-news/iran-ghalibaf-reacts-us-midterm-election-americans-said-no-to-war-21029399",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-04T07:01:56+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Mohammad-Bagher-Ghalibaf.webp",
-      "summary": "ईरानी संसद के स्पीकर मोहम्मद बाघेर गालिबाफ ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया दी। उन्होंने दावा किया कि अमेरिकी जनता ने महंगाई और सैन्य दखल के विरोध में युद्ध को नकार दिया है। Iran-US, Ghalibaf: ईरान की संसद के स्पीकर मोहम्मद बाघेर गालिबाफ ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया दी है। गालिबाफ ने कहा कि नतीजे दिखाते हैं कि अमेरिकी जनता ने युद्ध को नकार दिया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका के मध्यावधि चुनाव पर ईरान बोला- वहां के लोग जंग नहीं चाहते हैं",
-          "summary": "ईरानी संसद के स्पीकर मोहम्मद बाघेर गालिबाफ ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया दी। उन्होंने दावा किया कि अमेरिकी जनता ने महंगाई और सैन्य दखल के विरोध में युद्ध को नकार दिया है। Iran-US, Ghalibaf: ईरान की संसद के स्पीकर मोहम्मद बाघेर गालिबाफ ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया दी है। गालिबाफ ने कहा कि नतीजे दिखाते हैं कि अमेरिकी जनता ने युद्ध को नकार दिया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "रिपब्लिकन केवल हारे नहीं, बेइज्जत भी हुए डोनाल्ड ट्रंप, किसी राष्ट्रपति के साथ नहीं हुआ ऐसा",
-      "url": "https://hindi.news18.com/world/america-donald-trump-backed-candidates-suffer-major-setback-in-us-midterm-elections-a-big-humiliation-ws-l-10962420.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T06:49:08+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/donald-trump-2026-07-10T072401.585-2026-10-b7febf7f879874f615b451b18f56f0fb-1200x800.jpg",
-      "summary": "अमेरिकी मध्यावधि चुनाव में ट्रंप समर्थित रिपब्लिकन उम्मीदवारों की हार ने उनकी राजनीतिक प्रभावशालिता पर सवाल खड़े कर दिए। ट्रंप ने प्रचार में अपनी पसंदीदा उम्मीदवारों को तरजीह दी थी, लेकिन नतीजों ने पार्टी के भीतर उनकी पकड़ को कमजोर कर दिया है। US Mid Term Elections: अमेरिकी मिडटर्म चुनावों में राष्ट्रपति डोनाल्ड ट्रंप समर्थित रिपब्लिकन उम्मीदवारों की हार से उनकी लोकप्रियता और राजनीतिक प्रभाव पर सवाल उठने लगे हैं.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रिपब्लिकन केवल हारे नहीं, बेइज्जत भी हुए डोनाल्ड ट्रंप, किसी राष्ट्रपति के साथ नहीं हुआ ऐसा",
-          "summary": "अमेरिकी मध्यावधि चुनाव में ट्रंप समर्थित रिपब्लिकन उम्मीदवारों की हार ने उनकी राजनीतिक प्रभावशालिता पर सवाल खड़े कर दिए। ट्रंप ने प्रचार में अपनी पसंदीदा उम्मीदवारों को तरजीह दी थी, लेकिन नतीजों ने पार्टी के भीतर उनकी पकड़ को कमजोर कर दिया है। US Mid Term Elections: अमेरिकी मिडटर्म चुनावों में राष्ट्रपति डोनाल्ड ट्रंप समर्थित रिपब्लिकन उम्मीदवारों की हार से उनकी लोकप्रियता और राजनीतिक प्रभाव पर सवाल उठने लगे हैं.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "डेमोक्रेट्स की जीत से उत्साहित ओबामा बोले- अब अमेरिका को बांटने नहीं, जोड़ने वाली राजनीति चाहिए",
-      "url": "https://www.patrika.com/world-news/barack-obama-statement-us-midterm-election-results-trump-democratic-party-news-21029122",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-04T06:46:07+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Barack-Obama.webp",
-      "summary": "बराक ओबामा ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया देते हुए राजनीतिक विभाजन के विरोध में आवाज उठाई। उन्होंने कहा कि अमेरिकी जनता ऐसी राजनीति नहीं चाहती जो देश को बांटती है, बल्कि एकजुटता का मार्ग प्रशस्त करती है। Barack Obama Statement: अमेरिका के मध्यावधि चुनाव का नतीजा आया तो देश फिर बहस में उलझ गया है। डोनाल्ड ट्रंप की राजनीति अब किस ओर जाएगी, और अमेरिका खुद किस रास्ते पर है?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डेमोक्रेट्स की जीत से उत्साहित ओबामा बोले- अब अमेरिका को बांटने नहीं, जोड़ने वाली राजनीति चाहिए",
-          "summary": "बराक ओबामा ने अमेरिकी मध्यावधि चुनाव के नतीजों पर प्रतिक्रिया देते हुए राजनीतिक विभाजन के विरोध में आवाज उठाई। उन्होंने कहा कि अमेरिकी जनता ऐसी राजनीति नहीं चाहती जो देश को बांटती है, बल्कि एकजुटता का मार्ग प्रशस्त करती है। Barack Obama Statement: अमेरिका के मध्यावधि चुनाव का नतीजा आया तो देश फिर बहस में उलझ गया है। डोनाल्ड ट्रंप की राजनीति अब किस ओर जाएगी, और अमेरिका खुद किस रास्ते पर है?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में ट्रंप की सत्ता को बड़ा झटका! सीनेट पर डेमोक्रेट्स का कब्जा, चार राज्यों में पलटी बाजी",
-      "url": "https://www.patrika.com/world-news/us-midterm-election-results-trump-reaction-texas-senate-james-talarico-democrats-win-21028912",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-04T06:41:37+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump_2509f0.webp",
-      "summary": "अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स ने सीनेट पर कब्जा कर लिया और चार राज्यों में बाजी पलट दी। टेक्सास में जेम्स टालारिको की जीत ने रिपब्लिकन गढ़ को हिलाकर रख दिया और ट्रंप की सत्ता को बड़ा झटका दिया। US Midterm Election Results: अमेरिका के मिडटर्म चुनाव में डेमोक्रेट्स ने ऐसी बढ़त हासिल की, जिसकी शायद ही किसी ने उम्मीद की थी।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में ट्रंप की सत्ता को बड़ा झटका! सीनेट पर डेमोक्रेट्स का कब्जा, चार राज्यों में पलटी बाजी",
-          "summary": "अमेरिकी मध्यावधि चुनाव में डेमोक्रेट्स ने सीनेट पर कब्जा कर लिया और चार राज्यों में बाजी पलट दी। टेक्सास में जेम्स टालारिको की जीत ने रिपब्लिकन गढ़ को हिलाकर रख दिया और ट्रंप की सत्ता को बड़ा झटका दिया। US Midterm Election Results: अमेरिका के मिडटर्म चुनाव में डेमोक्रेट्स ने ऐसी बढ़त हासिल की, जिसकी शायद ही किसी ने उम्मीद की थी।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी मध्यावधि चुनाव में फिर क्यों असफल हुई राष्ट्रपति की पार्टी, बीते चार चुनाव का इतिहास क्या?",
-      "url": "https://www.amarujala.com/world/us-midterm-elections-results-history-seat-changes-republicans-vs-democrats-explainer-2026-11-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-04T06:23:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/us-midterm-elections-2026-amarujala-explainerus-midterms-2026-us-elections-2026-us-midterm-electi_d0993892f2c28345b3c2bde9f5c28301.jpeg?w=1200&dpr=1.0",
-      "summary": "बीते चार मध्यावधि चुनावों का विश्लेषण दर्शाता है कि राष्ट्रपति की पार्टी ने लगातार सीटें खोईं। प्रतिनिधि सभा और सीनेट में नफा-नुकसान का पैटर्न राष्ट्रपति की अप्रूवल रेटिंग के सीधे अनुपात में रहा है। अमेरिका के बीते चार मध्यावधि चुनावों (2010, 2014, 2018, 2022) के नतीजों का पूरा विश्लेषण। जानें प्रतिनिधि सभा, सीनेट में सीटों के नफा-नुकसान और राष्ट्रपति की अप्रूवल रेटिंग का क्या असर रहा।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी मध्यावधि चुनाव में फिर क्यों असफल हुई राष्ट्रपति की पार्टी, बीते चार चुनाव का इतिहास क्या?",
-          "summary": "बीते चार मध्यावधि चुनावों का विश्लेषण दर्शाता है कि राष्ट्रपति की पार्टी ने लगातार सीटें खोईं। प्रतिनिधि सभा और सीनेट में नफा-नुकसान का पैटर्न राष्ट्रपति की अप्रूवल रेटिंग के सीधे अनुपात में रहा है। अमेरिका के बीते चार मध्यावधि चुनावों (2010, 2014, 2018, 2022) के नतीजों का पूरा विश्लेषण। जानें प्रतिनिधि सभा, सीनेट में सीटों के नफा-नुकसान और राष्ट्रपति की अप्रूवल रेटिंग का क्या असर रहा।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी मिडटर्म चुनाव में ट्रंप को झटका, रिपब्लिकन पार्टी की करारी हार, सीनेट में डेमोक्रेट्स को",
-      "url": "https://hindi.news18.com/world/america-us-midterm-election-results-2026-america-chunav-donald-trump-republicans-lost-democrats-win-majority-us-senate-chunav-result-10961960.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T06:08:01+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/US-midterm-election-results-donad-trump-2026-11-eae8de7c213d5f483abdefd59e725987-1200x800.jpg",
-      "summary": "डेमोक्रेट्स ने 2026 मिडटर्म में सीनेट बहुमत हासिल किया। टेक्सास और नॉर्थ कैरोलिना में उनकी जीत ने रिपब्लिकन गणित बदल दिया। सदन पर भी नियंत्रण वापस आया। अमेरिका के 2026 मिडटर्म चुनाव में डोनाल्ड ट्रंप और रिपब्लिकन पार्टी को बड़ा झटका लगा है. डेमोक्रेट्स ने सीनेट में बहुमत हासिल कर लिया है और 2020 के बाद पहली बार सदन पर नियंत्रण पाया है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी मिडटर्म चुनाव में ट्रंप को झटका, रिपब्लिकन पार्टी की करारी हार, सीनेट में डेमोक्रेट्स को",
-          "summary": "डेमोक्रेट्स ने 2026 मिडटर्म में सीनेट बहुमत हासिल किया। टेक्सास और नॉर्थ कैरोलिना में उनकी जीत ने रिपब्लिकन गणित बदल दिया। सदन पर भी नियंत्रण वापस आया। अमेरिका के 2026 मिडटर्म चुनाव में डोनाल्ड ट्रंप और रिपब्लिकन पार्टी को बड़ा झटका लगा है. डेमोक्रेट्स ने सीनेट में बहुमत हासिल कर लिया है और 2020 के बाद पहली बार सदन पर नियंत्रण पाया है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सुहास सुब्रमण्यन, पिया डांडिया के बाद रो खन्ना की जीत, जानें कौन-कौन भारतवंशी जीते",
-      "url": "https://www.amarujala.com/world/indian-origin-american-wins-us-midterm-election-becomes-new-member-of-congress-2026-11-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-04T06:02:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/amaraka-mathhayavathha-canava_52b21b76e31dd3cd80a7aae783fa3107.jpeg?w=1200&dpr=1.0",
-      "summary": "सुहास सुब्रमण्यन ने अपनी सीट बचाई। पिया डांडिया पहली बार सांसद बनीं। रो खन्ना भी जीत दर्ज की। भारतीय मूल के तीन उम्मीदवार कांग्रेस में शामिल हुए। सुहास सुब्रमण्यन, पिया डांडिया के बाद रो खन्ना की जीत, जानें कौन-कौन भारतवंशी जीते।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सुहास सुब्रमण्यन, पिया डांडिया के बाद रो खन्ना की जीत, जानें कौन-कौन भारतवंशी जीते",
-          "summary": "सुहास सुब्रमण्यन ने अपनी सीट बचाई। पिया डांडिया पहली बार सांसद बनीं। रो खन्ना भी जीत दर्ज की। भारतीय मूल के तीन उम्मीदवार कांग्रेस में शामिल हुए। सुहास सुब्रमण्यन, पिया डांडिया के बाद रो खन्ना की जीत, जानें कौन-कौन भारतवंशी जीते।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रिपब्लिकन की हार देख ट्रंप ने खोला पत्ता, क्या है प्लान B, डेमोक्रेट्स की जीत पर फेर सकता है पानी?",
-      "url": "https://hindi.news18.com/world/america-us-midterm-election-result-2026-favors-democrats-but-donald-trump-has-plan-b-as-veto-power-10962232.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T06:02:01+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/trump-veto-2026-11-11ed3f7688ed7d9743db2be0c3c5b75c-1200x800.jpg",
-      "summary": "ट्रंप ने डेमोक्रेटिक जीत के बाद वीटो शक्ति का इस्तेमाल करने की बात कही। यह उनका प्लान बी है। सदन में बहुमत बदलने से नीति निर्माण प्रक्रिया पर असर पड़ेगा। Trump Veto Power Plan: अमेरिका के मिड टर्म चुनावों में जिस तरह के रुझान सामने आ रहे हैं, उसके मुताबिक अब डोनाल्ड ट्रंप की बादशाहत को डेमोक्रेटिक पार्टी की ओर से ऐसी चुनौती मिली है कि उनकी रातों की नींद उड़ गई है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रिपब्लिकन की हार देख ट्रंप ने खोला पत्ता, क्या है प्लान B, डेमोक्रेट्स की जीत पर फेर सकता है पानी?",
-          "summary": "ट्रंप ने डेमोक्रेटिक जीत के बाद वीटो शक्ति का इस्तेमाल करने की बात कही। यह उनका प्लान बी है। सदन में बहुमत बदलने से नीति निर्माण प्रक्रिया पर असर पड़ेगा। Trump Veto Power Plan: अमेरिका के मिड टर्म चुनावों में जिस तरह के रुझान सामने आ रहे हैं, उसके मुताबिक अब डोनाल्ड ट्रंप की बादशाहत को डेमोक्रेटिक पार्टी की ओर से ऐसी चुनौती मिली है कि उनकी रातों की नींद उड़ गई है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप की पार्टी की हार के भारत के लिए क्या मायने, कैसे सस्ता हो सकता है पेट्रोल?",
-      "url": "https://www.amarujala.com/world/us-midterm-elections-2026-how-trump-party-loss-could-impact-india-oil-prices-h-1b-visa-and-pakistan-2026-11-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-04T06:01:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/tarapa-ka-hara-sa-bharata-ka-katana-fayatha_1453298f420b98649de4a9abfcd23965.jpeg?w=1200&dpr=1.0",
-      "summary": "रिपब्लिकन हार से भारत के लिए पेट्रोल की कीमतें घट सकती हैं। एच-1बी वीजा नीति में बदलाव संभव है। पाकिस्तान के साथ संबंधों पर भी प्रभाव पड़ सकता है। ट्रंप की पार्टी की हार के भारत के लिए क्या मायने, कैसे सस्ता हो सकता है पेट्रोल?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप की पार्टी की हार के भारत के लिए क्या मायने, कैसे सस्ता हो सकता है पेट्रोल?",
-          "summary": "रिपब्लिकन हार से भारत के लिए पेट्रोल की कीमतें घट सकती हैं। एच-1बी वीजा नीति में बदलाव संभव है। पाकिस्तान के साथ संबंधों पर भी प्रभाव पड़ सकता है। ट्रंप की पार्टी की हार के भारत के लिए क्या मायने, कैसे सस्ता हो सकता है पेट्रोल?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "रिपब्लिकन विवेक रामास्वामी की हुई हार, डेमोक्रेट एमी एक्टन ने मारी बाजी",
-      "url": "https://hindi.news18.com/world/america-us-midterm-election-results-2026-vivek-ramaswamy-loses-ohio-governor-race-to-democrat-amy-acton-10961996.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T05:53:23+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Vivek-Ramaswamy-2026-11-92214076d2059194168a7fd6dda9993a-1200x800.jpg",
-      "summary": "ओहियो में डेमोक्रेट एमी एक्टन ने विवेक रामास्वामी को हराया। यह 2006 के बाद पहली बार है जब डेमोक्रेट इस पद पर जीत रहे हैं। US Midterm Election Results 2026: अमेरिका के मिडटर्म चुनाव में ओहियो के गवर्नर पद पर डेमोक्रेटिक उम्मीदवार एमी एक्टन ने रिपब्लिकन उम्मीदवार विवेक रामास्वामी को हरा दिया है. एसोसिएटेड प्रेस (AP) ने एमी एक्टन की जीत का अनुमान जताया है.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रिपब्लिकन विवेक रामास्वामी की हुई हार, डेमोक्रेट एमी एक्टन ने मारी बाजी",
-          "summary": "ओहियो में डेमोक्रेट एमी एक्टन ने विवेक रामास्वामी को हराया। यह 2006 के बाद पहली बार है जब डेमोक्रेट इस पद पर जीत रहे हैं। US Midterm Election Results 2026: अमेरिका के मिडटर्म चुनाव में ओहियो के गवर्नर पद पर डेमोक्रेटिक उम्मीदवार एमी एक्टन ने रिपब्लिकन उम्मीदवार विवेक रामास्वामी को हरा दिया है. एसोसिएटेड प्रेस (AP) ने एमी एक्टन की जीत का अनुमान जताया है.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "मिडटर्म चुनाव में ट्रंप को बड़ा झटका? शुरुआती नतीजों में डेमोक्रेट्स को बढ़त",
-      "url": "https://www.amarujala.com/video/india-news/trump-faces-a-major-setback-in-the-midterm-elections-early-results-give-democrats-an-edge-2026-11-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-04T05:35:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/america-election_cddbfff77392822444f4d0f0fa8112d7.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी मिडटर्म चुनाव की शुरुआती रिपोर्ट में डेमोक्रेटिक पार्टी को बढ़त मिली है। इस प्रारंभिक परिणाम ने राष्ट्रपति ट्रंप की राजनीतिक स्थिति को प्रभावित किया है। मिडटर्म चुनाव में ट्रंप को बड़ा झटका? शुरुआती नतीजों में डेमोक्रेट्स को बढ़त।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिडटर्म चुनाव में ट्रंप को बड़ा झटका? शुरुआती नतीजों में डेमोक्रेट्स को बढ़त",
-          "summary": "अमेरिकी मिडटर्म चुनाव की शुरुआती रिपोर्ट में डेमोक्रेटिक पार्टी को बढ़त मिली है। इस प्रारंभिक परिणाम ने राष्ट्रपति ट्रंप की राजनीतिक स्थिति को प्रभावित किया है। मिडटर्म चुनाव में ट्रंप को बड़ा झटका? शुरुआती नतीजों में डेमोक्रेट्स को बढ़त।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "भारतवंशी विवेक रामास्वामी गवर्नर चुनाव हारे: ओहायो में एमी एक्टन ने दर्ज की जीत, रिपब्लिकन पार्टी",
-      "url": "https://www.amarujala.com/world/amy-acton-defeats-trump-backed-vivek-ramaswamy-ohio-governor-election-2026-11-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-04T05:33:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/vavaka-ramasavama-rapablkana-nata_47be7074625ab343c6e5d9784b32c625.jpeg?w=1200&dpr=1.0",
-      "summary": "ओहायो के गवर्नर चुनाव में एमी एक्टन ने विवेक रामास्वामी को हराया। ट्रंप समर्थित रामास्वामी की हार ने रिपब्लिकन पार्टी को बड़ा झटका दिया है। भारतवंशी विवेक रामास्वामी गवर्नर चुनाव हारे: ओहायो में एमी एक्टन ने दर्ज की जीत, रिपब्लिकन पार्टी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतवंशी विवेक रामास्वामी गवर्नर चुनाव हारे: ओहायो में एमी एक्टन ने दर्ज की जीत, रिपब्लिकन पार्टी",
-          "summary": "ओहायो के गवर्नर चुनाव में एमी एक्टन ने विवेक रामास्वामी को हराया। ट्रंप समर्थित रामास्वामी की हार ने रिपब्लिकन पार्टी को बड़ा झटका दिया है। भारतवंशी विवेक रामास्वामी गवर्नर चुनाव हारे: ओहायो में एमी एक्टन ने दर्ज की जीत, रिपब्लिकन पार्टी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चुनाव नतीजों के बाद ट्रंप का नया एलान: ट्रंप बोले- अब पॉलिटिकल पंडित बनूंगा, ईरान युद्ध को बताया",
-      "url": "https://www.amarujala.com/world/donald-trump-first-reaction-on-us-election-results-says-he-would-have-won-in-a-landslide-2026-11-04",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-04T05:20:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/04/danalda-tarapa-amaraka-rashhatarapata_e0becf8e40b6fa1a681896e27029c9f1.jpeg?w=1200&dpr=1.0",
-      "summary": "चुनाव नतीजों के बाद ट्रंप ने राजनीतिक विश्लेषक बनने का ऐलान किया। उन्होंने जीत और हार के कारणों पर चर्चा करने की घोषणा की है। चुनाव नतीजों के बाद ट्रंप का नया एलान: बोले- अब राजनीतिक विश्लेषक बनूंगा, जीत-हार की वजहों पर करूंगा चर्चा। चुनाव नतीजों के बाद ट्रंप का नया एलान: ट्रंप बोले- अब पॉलिटिकल पंडित बनूंगा, ईरान युद्ध को बताया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चुनाव नतीजों के बाद ट्रंप का नया एलान: ट्रंप बोले- अब पॉलिटिकल पंडित बनूंगा, ईरान युद्ध को बताया",
-          "summary": "चुनाव नतीजों के बाद ट्रंप ने राजनीतिक विश्लेषक बनने का ऐलान किया। उन्होंने जीत और हार के कारणों पर चर्चा करने की घोषणा की है। चुनाव नतीजों के बाद ट्रंप का नया एलान: बोले- अब राजनीतिक विश्लेषक बनूंगा, जीत-हार की वजहों पर करूंगा चर्चा। चुनाव नतीजों के बाद ट्रंप का नया एलान: ट्रंप बोले- अब पॉलिटिकल पंडित बनूंगा, ईरान युद्ध को बताया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी चुनाव में भारत वाला तिकड़म, कई सेम नेम वाले कैंडिडेट, राहुल गांधी झेल चुके हैं ये दंश",
-      "url": "https://hindi.news18.com/world/america-alaska-dummy-candidate-controversy-investigation-launched-ws-l-10962125.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T05:20:15+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Dan-S-Sullivan-2026-11-f85c1a29cbd8f05a1049f2d82ed15f04-1200x800.jpg",
-      "summary": "अलास्का सीनेट चुनाव में डैन सुलिवन के खिलाफ मिलते जुलते नाम वाले उम्मीदवार के उतरने पर जांच शुरू हुई। ट्रंप ने इसे डेमोक्रेट्स की साजिश बताया, पर असर कम माना जाता है। US Mid Term Elections: भारत की तरह अमेरिका के अलास्का सीनेट चुनाव में भी डमी कैंडिडेट उतारने का विवाद सामने आया है. रिपब्लिकन उम्मीदवार डैन सुलिवन के खिलाफ मिलते-जुलते नाम वाले उम्मीदवार के उतरने पर जांच शुरू हो गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी चुनाव में भारत वाला तिकड़म, कई सेम नेम वाले कैंडिडेट, राहुल गांधी झेल चुके हैं ये दंश",
-          "summary": "अलास्का सीनेट चुनाव में डैन सुलिवन के खिलाफ मिलते जुलते नाम वाले उम्मीदवार के उतरने पर जांच शुरू हुई। ट्रंप ने इसे डेमोक्रेट्स की साजिश बताया, पर असर कम माना जाता है। US Mid Term Elections: भारत की तरह अमेरिका के अलास्का सीनेट चुनाव में भी डमी कैंडिडेट उतारने का विवाद सामने आया है. रिपब्लिकन उम्मीदवार डैन सुलिवन के खिलाफ मिलते-जुलते नाम वाले उम्मीदवार के उतरने पर जांच शुरू हो गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जयपुर की बेटी पिया डांडिया कौन? अमेरिका में लहराया जीत का परचम, संसद पहुंचने वाली दूसरी",
-      "url": "https://hindi.news18.com/news/nation/us-midterm-election-results-2026-jaipur-born-indian-american-pia-dandiya-wins-florida-congressional-election-10961995.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-04T04:55:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Pia-Dandiya-2026-11-2243e958ffd4b4440a4b5bf064fdc0a7-1200x800.jpg",
-      "summary": "फ्लोरिडा के 22वें जिले से पिया दांडिया ने सीट जीत ली। उन्होंने रिपब्लिकन उम्मीदवार केसी असकर को हराया। वह अमेरिकी संसद में चुनी गई दूसरी भारतीय-अमेरिकी महिला बनीं। US Midterm Election Results 2026: राजस्थान के जयपुर से अमेरिका जाकर बसे अप्रवासी भारतीय माता-पिता की बेटी पिया दांडिया ने अमेरिकी मिडटर्म चुनाव में जीत हासिल की है. डेमोक्रेटिक पार्टी की उम्मीदवार दांडिया ने फ्लोरिडा के 22वें कांग्रेसनल डिस्ट्रिक्ट से रिपब्लिकन उम्मीदवार केसी असकर को हराया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जयपुर की बेटी पिया डांडिया कौन? अमेरिका में लहराया जीत का परचम, संसद पहुंचने वाली दूसरी",
-          "summary": "फ्लोरिडा के 22वें जिले से पिया दांडिया ने सीट जीत ली। उन्होंने रिपब्लिकन उम्मीदवार केसी असकर को हराया। वह अमेरिकी संसद में चुनी गई दूसरी भारतीय-अमेरिकी महिला बनीं। US Midterm Election Results 2026: राजस्थान के जयपुर से अमेरिका जाकर बसे अप्रवासी भारतीय माता-पिता की बेटी पिया दांडिया ने अमेरिकी मिडटर्म चुनाव में जीत हासिल की है. डेमोक्रेटिक पार्टी की उम्मीदवार दांडिया ने फ्लोरिडा के 22वें कांग्रेसनल डिस्ट्रिक्ट से रिपब्लिकन उम्मीदवार केसी असकर को हराया.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }

@@ -1,42 +1,20 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 04, 2026 15:32 IST
-
----
-
-## Americas
-
-### [Hakeem Jeffries poised to become first Black Speaker of U.S. House of Representatives](https://www.thehindu.com/news/international/hakeem-jeffries-poised-to-become-first-black-speaker-of-us-house-of-representatives/article71664413.ece)
-*The Hindu (International)* - Nov 04, 13:55 IST (iso: 2026-11-04T08:25:18+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/racj5a/article71664428.ece/alternates/LANDSCAPE_1200/Election_2_26__94_6.jpg -->
-
-Hakeem Jeffries, representing a New York City district, is set to become the first Black Speaker of the U. S. House. He will preside over a new majority sworn in early January. This shift ends four years of Republican control in the chamber. As Speaker, Mr. Jeffries, representing a New York ​City congressional district, would preside over a majority that will be sworn in the first week of January, taking the reins from Republicans ⁠who controlled the House for the past four years.
-
-### [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
-*The Guardian* - Nov 03, 18:30 IST (iso: 2026-11-03T13:00:07+00:00)
-<!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
-
-Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
-
-### [Breaking the silence in Mexico’s barracks](https://news.un.org/feed/view/en/story/2026/11/1168715)
-*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg -->
-
-Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.
+**Updated:** November 04, 2026 23:48 IST
 
 ---
 
 ## Middle East & Africa
 
-### [Israel's unassuming President Herzog holds keys to next government](https://www.thehindu.com/news/international/israels-unassuming-president-herzog-holds-keys-to-next-government/article71664315.ece)
-*The Hindu (International)* - Nov 04, 12:51 IST (iso: 2026-11-04T07:21:11+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/5iugf9/article71664357.ece/alternates/LANDSCAPE_1200/2026-10-20T110658Z_884158993_RC2Z6OAYB6DS_RTRMADP_3_HUNGARY-ISRAEL.JPG -->
+### [United Nations report says genocide continues in Gaza](https://www.thehindu.com/news/international/united-nations-report-says-genocide-continues-in-gaza/article71666146.ece)
+*The Hindu (International)* - Nov 04, 22:56 IST (iso: 2026-11-04T17:26:00+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/siw/article71667070.ece/alternates/LANDSCAPE_1200/APTOPIX_Israel_Palestinians_Gaza_1_51.jpg -->
 
-Israeli President Isaac Herzog aims to prevent a fresh election by facilitating a coalition. He is prepared to back a unity government between Benjamin Netanyahu and Benny Gantz. This move seeks to stabilize the political landscape without new voting. Isaac Herzog said he would do everything he could to avoid a fresh election. a possibility if neither camp can cobble together a coalition.
+A United Nations report confirms ongoing genocide in Gaza. It cites systematic attacks on civilians and state policy. Security forces knowingly participated in these actions. The findings establish intent and widespread harm against the population. The Israeli violations include widespread or systematic attacks directed against the civilian population, state policy, and the fact that the security forces knew the acts constituted part of an attack against the civilian population and so intended them (mens rea).
 
 ### [ANC faces anger over poor services as South Africans vote in local elections](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
-*The Guardian* - Nov 04, 09:30 IST (iso: 2026-11-04T04:00:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/ab849d0dfce7fca0440c040983efe4e27460cf1e/1440_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4715e064c26da052e5f40fdda2b30d7 -->
+*The Guardian* - Nov 04, 20:20 IST (iso: 2026-11-04T14:50:47+00:00)
+<!-- image: https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4c7049d929536059b278f89794a0566 -->
 
 The African National Congress faces a poor result in South Africa’s local elections. Voters are frustrated by water outages, power cuts, and crumbling infrastructure. The party is expected to secure less than a third of the total vote. Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at th.
 
@@ -70,12 +48,6 @@ Iran's supreme leader stated any future response to an attack would have no geog
 
 António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.
 
-### [‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi](https://news.un.org/feed/view/en/story/2026/10/1168716)
-*UN News* - Oct 31, 17:30 IST (iso: 2026-10-31T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg -->
-
-UN human rights chief Michelle Bachelet demanded an independent probe into the death of a Yemeni UN staffer held by the Houthis for over two years. The family learned of his death only weeks after it occurred. Bachelet stated the family deserved to know the truth. The incident highlights ongoing detention practices by the Yemeni armed group. The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.
-
 ### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
 *International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
 <!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
@@ -84,29 +56,41 @@ Reuters journalist Giulia Paravicini reported from Asmara about daily life in Er
 
 ---
 
-## Asia-Pacific
+## Americas
 
-### [Prabowo Subianto](https://www.thehindu.com/news/international/prabowo-subianto-from-indonesias-strongman-general-to-cute-and-cuddly-presidential-candidate/article67844801.ece)
-*The Hindu (International)* - Nov 04, 11:54 IST (iso: 2026-11-04T06:24:05+00:00)
-<!-- image: https://th-i.thgim.com/public/latest-news/j1sdy6/article67858687.ece/alternates/LANDSCAPE_1200/PrabowoSubianto.jpg -->
+### [U.S. midterm election results: Senate, House and Governor shifts before and after](https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece)
+*The Hindu (International)* - Nov 04, 22:11 IST (iso: 2026-11-04T16:41:17+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/j2s5sp/article71663845.ece/alternates/LANDSCAPE_1200/2026-11-04T030116Z_716209600_RC2QGOA7QDFN_RTRMADP_3_USA-ELECTION-GEORGIA.JPG -->
 
-a former military leader, is likely to become Indonesia’s next president. He previously faced human rights abuse accusations. His recent campaign focused on a softer public image using social media platforms like Instagram and TikTok. The former military leader and Defence Minister, who is likely to become Indonesia’s new President, was once accused of human rights abuses, but ran a campaign with a softer image of himself using Instagram and TikTok.
+Democrats took full control of Congress in the November 2026 midterms. They flipped both the Senate and House. The party gained seats in key battlegrounds and Republican strongholds. This marks a significant shift from the 2022 election results. Democrats surged to full control of Congress in the November 2026 U. S. midterm elections, flipping the Senate and House after winning net seats across key battlegrounds and sweeping into Republican strongholds.
 
-### [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
-*The Guardian* - Nov 01, 17:24 IST (iso: 2026-11-01T11:54:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193 -->
+### [Opinion | Trump's Midterm Rout Has One More Victim: JD Vance](https://www.ndtv.com/opinion/trumps-midterm-rout-has-one-more-victim-jd-vance-12282706#publisher=newsstand)
+*NDTV World* - Nov 04, 18:43 IST (iso: 2026-11-04T13:13:03+00:00)
+<!-- image: https://c.ndtvimg.com/2026-10/t3v6t71k_trump-vance-reuters_625x300_29_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720 -->
 
-Binance resumed customer withdrawals after a record $6.3 billion hack. The exchange stated that 90 percent of the losses are covered. The FBI attributed the theft to a North Korean state-sponsored group. This marks the largest cryptocurrency heist in history. Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts.
+JD Vance suffered a political setback in the 2026 midterms. Ohio elected a Democratic governor and a Democratic senator. Vance had campaigned heavily and served as RNC finance chair. His home state rejected the Republican ticket he supported. Vance campaigned as hard as the President, served as the Republican National Committee's finance chair. He watched his home state of Ohio elect a Democratic governor and send a Democrat to the Senate seat he gave up to become Vice President.
 
-### [How crypto hacking funds isolated North Korea’s nuclear programme](https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme)
-*The Guardian* - Oct 30, 23:07 IST (iso: 2026-10-30T17:37:46+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a2ab8c683105476fd958b1420dbb27c30fe2be77/232_0_2883_2307/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee3fa146cb6fa51f05a4e4a8994cdc4 -->
+### [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
+*The Guardian* - Nov 03, 18:30 IST (iso: 2026-11-03T13:00:07+00:00)
+<!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
 
-Cryptocurrency theft generates roughly half of North Korea's foreign currency income. The isolated state relies on sophisticated hacking to fund its nuclear program. Experts attribute significant digital thefts to state-sponsored actors. Cryptocurrency theft is estimated to generate half of the country’s foreign currency incomeNorth Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary.
+Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
+
+### [Breaking the silence in Mexico’s barracks](https://news.un.org/feed/view/en/story/2026/11/1168715)
+*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg -->
+
+Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.
 
 ---
 
 ## Europe & Russia
+
+### [Nations Line Up To Boycott Ice Hockey Games Against Russia](https://www.rferl.org/a/russia-hockey-ukraine-war/33890409.html)
+*Radio Free Europe / Liberty* - Nov 04, 18:55 IST (iso: 2026-11-04T13:25:42+00:00)
+<!-- image: https://gdb.rferl.org/ad1ec3ac-27ed-48f4-be90-ff410ce85a9c_cx0_cy6_cw0_w1200_h630.jpg -->
+
+Multiple nations plan to boycott ice hockey events involving Russia. They oppose a court ruling allowing Moscow to rejoin international competitions. The boycott threatens the upcoming World Championships. Countries refuse to play against Russian teams. A growing list of countries are lining up against a court decision allowing Russia to rejoin international ice hockey events, saying they will boycott any team Moscow sends, putting the World Championships next year in jeopardy.
 
 ### [Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks](https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html)
 *Radio Free Europe / Liberty* - Nov 04, 02:48 IST (iso: 2026-11-03T21:18:10+00:00)
@@ -158,7 +142,7 @@ Aleksandar Vucic stated he will return to power after his October election defea
 
 ### [WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter](https://news.un.org/feed/view/en/story/2026/11/1168722)
 *UN News* - Nov 02, 17:30 IST (iso: 2026-11-02T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/UNICEF%20Oleksii%20Filippov%204.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/UNICEF%20Oleksii%20Filippov%204.jpg/image560x340cropped.jpg -->
 
 The UN World Food Programme is feeding over 400 evacuees from Oleshky in Ukraine. These residents fled the Russian-occupied Kherson region during a brief local ceasefire. The agency is also working to restore power to the area before winter temperatures set in. The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.
 
@@ -171,6 +155,22 @@ The UN World Food Programme is feeding over 400 evacuees from Oleshky in Ukraine
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-journalist.jpg/image560x340cropped.jpg -->
 
 UNESCO reports that six in seven journalist murders go unpunished. Global impunity for these killings has risen for the first time in over a decade. The organization also flags the growing use of drones as an emerging threat to reporters working in active conflict zones. Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.
+
+---
+
+## Asia-Pacific
+
+### [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
+*The Guardian* - Nov 01, 17:24 IST (iso: 2026-11-01T11:54:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193 -->
+
+Binance resumed customer withdrawals after a record $6.3 billion hack. The exchange stated that 90 percent of the losses are covered. The FBI attributed the theft to a North Korean state-sponsored group. This marks the largest cryptocurrency heist in history. Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts.
+
+### [How crypto hacking funds isolated North Korea’s nuclear programme](https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme)
+*The Guardian* - Oct 30, 23:07 IST (iso: 2026-10-30T17:37:46+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a2ab8c683105476fd958b1420dbb27c30fe2be77/232_0_2883_2307/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee3fa146cb6fa51f05a4e4a8994cdc4 -->
+
+Cryptocurrency theft generates roughly half of North Korea's foreign currency income. The isolated state relies on sophisticated hacking to fund its nuclear program. Experts attribute significant digital thefts to state-sponsored actors. Cryptocurrency theft is estimated to generate half of the country’s foreign currency incomeNorth Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary.
 
 ---
 
