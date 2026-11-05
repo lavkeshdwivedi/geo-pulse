@@ -1,10 +1,46 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 05, 2026 19:06 IST
+**अपडेट:** November 06, 2026 02:22 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [जंग के बीच ईरान के संपर्क में था अमेरिका?: 100 से ज्यादा लोगों को भेजा तेहरान, कैसे हुआ मामले का](https://www.amarujala.com/world/us-in-contact-with-iran-amidst-conflict-over-100-people-sent-to-tehran-how-did-this-come-to-light-2026-11-06)
+*Amar Ujala Breaking* - Nov 06, 12:49 IST (iso: 2026-11-06T07:19:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/amaraka-rashhatarapata-tarapa_936f874206c6f700da6e5b2cf2b8dbf9.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका ने ईरान के साथ संपर्क बनाए रखने के लिए तेहरान में सौ से अधिक लोगों को भेजा। यह जानकारी संघर्ष के बीच सामने आई। दोनों देशों के बीच तनाव के बावजूद यह कूटनीतिक पहल जारी रही। जंग के बीच ईरान के संपर्क में था अमेरिका?: 100 से ज्यादा लोगों को भेजा तेहरान, कैसे हुआ मामले का।
+
+### [‘उड़ने वाली बकरियां’, कुदरत का करिश्मा नहीं किसानों की मजबूरी, जानें अजूबे की पूरी सच्चाई](https://hindi.news18.com/world/rest-of-world-the-dark-reality-behind-morocco-tree-climbing-goats-animal-cruelty-severe-drought-and-tourist-exploitation-photogallery-10966516.html)
+*News18 Hindi (World)* - Nov 05, 22:37 IST (iso: 2026-11-05T17:07:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Flying-Goats-2026-11-4c1955857a447af4ad434c6d5d62d8ea-1200x800.jpg -->
+
+मोरक्को की पेड़ों पर चढ़ने वाली बकरियां सूखे और भुखमरी के कारण मजबूर हैं। यह दृश्य प्रकृति का अजूबा नहीं, बल्कि किसानों की आर्थिक तंगी का परिणाम है। इन जानवरों का शोषण स्थानीय अर्थव्यवस्था की कमजोरी को दर्शाता है। मोरक्को की 'पेड़ों पर चढ़ने वाली बकरियां' पूरी दुनिया में मशहूर हैं और अक्सर सोशल मीडिया पर छाई रहती हैं. पहली नजर में ये प्रकृति का एक अनोखा अजूबा लगता है, लेकिन इस खूबसूरत तस्वीर के पीछे भुखमरी, भयंकर सूखा और बेजुबानों के शोषण की एक दर्दनाक कहानी छिपी है.
+
+### [मिडटर्म हार की बौखलाहट में ईरान पर न्यूक्लियर अटैक करेंगे ट्रंप? इस पहाड़ पर लॉक होगा टारगेट](https://hindi.news18.com/world/middle-east-us-midterm-meltdown-will-donald-trump-launch-nuclear-strikes-on-iran-pickaxe-mountain-target-locked-amid-military-buildup-10966452.html)
+*News18 Hindi (World)* - Nov 05, 21:54 IST (iso: 2026-11-05T16:24:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Japan-Nuclear-Shift-2026-09-5e565cb950daf101c9eb42a79e65efb8-1200x800.jpg -->
+
+ट्रंप ने ईरान पर न्यूक्लियर हमले की संभावना जताई है। उनका निशाना पिकैक्स माउंटेन का सुरक्षित परमाणु ठिकाना है। यह स्थान पहाड़ों के नीचे छिपा है और आम बम इसे भेद नहीं पा रहे हैं। अमेरिका के मिडटर्म चुनावों में ट्रंप को तगड़ा झटका लगा है. ईरान के साथ चल रही जंग की वजह से जनता में भारी गुस्सा था, जिससे चुनाव में हार का मुंह देखना पड़ा.
+
+### [पहले दिखाया ईगो, अब विक्रम मिस्री से दिल खोलकर मिले बालेन शाह, भारत-नेपाल के बीच होगी 2 बड़ी डील](https://hindi.news18.com/world/south-asia-nepal-pm-balen-shah-meets-indian-foreign-secretary-vikram-misri-in-kathmandu-for-historic-sports-railway-india-nepal-2-deals-10966428.html)
+*News18 Hindi (World)* - Nov 05, 21:11 IST (iso: 2026-11-05T15:41:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Balen-Shah-Vikram-Misri-Meet-2026-11-af09e004a175fddeb852008354b51df3-1200x800.jpg -->
+
+बालेन शाह ने विक्रम मिस्री से काठमांडू में मुलाकात की। इस बैठक में खेल सहयोग और अयोध्या-जनकपुर रेल सेवा पर सहमति बनी। बाढ़ राहत के बाद दोनों देशों के बीच संबंधों में सुधार हुआ है। मई 2026 में बालेन शाह ने प्रोटोकॉल का रोना रोया था. उन्होंने भारत के विदेश सचिव विक्रम मिस्री से मिलने से मना कर दिया था.
+
+### [एक साथ 16 विमानों को बम से उड़ाने की धमकी, बचाने के लिए भेजने पड़े फाइटर जेट्स](https://hindi.news18.com/world/europe-european-aviation-crisis-16-flights-face-bomb-threats-and-fighter-jet-escorts-in-massive-security-scare-russia-iran-hybrid-warfare-10966340.html)
+*News18 Hindi (World)* - Nov 05, 20:39 IST (iso: 2026-11-05T15:09:19+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Ahmedabad-Hyderabad-Flight-2026-10-f939ff43ff8bc83f36e93c3213dd4593-1200x800.jpg -->
+
+पोलैंड, फ्रांस, इटली और चेक गणराज्य की 16 उड़ानों को बम धमकी मिली। कई विमानों की इमरजेंसी लैंडिंग कराई गई और फाइटर जेट्स तैनात किए गए। इसी दौरान सुपरमार्केट्स पर साइबर हमले भी हुए। यूरोप के आसमान में अचानक कोहराम मच गया. पोलैंड, फ्रांस, इटली और चेक गणराज्य की 16 उड़ानों को एक साथ बम से उड़ाने की धमकी मिल गई.
+
+### [तेल के दो जहाजों और एक अन्य नाव में धमाके के बाद लगी आग, होर्मुज स्ट्रेट में हुआ हादसा](https://www.patrika.com/world-news/two-oil-tankers-and-one-tugboat-catch-fire-after-explosion-in-strait-of-hormuz-21032802)
+*Patrika (World)* - Nov 05, 20:05 IST (iso: 2026-11-05T14:35:03+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/tanker-catches-fire.webp -->
+
+होर्मुज स्ट्रेट में दो तेल जहाजों और एक अन्य नाव में धमाके के बाद आग लग गई। ईरान ने अमेरिका से तनाव के बीच इस रणनीतिक जलमार्ग को बंद कर दिया है। अमेरिकी नेवी का दावा है कि जहाजों की सामान्य आवाजाही फिर से शुरू हो चुकी है। होर्मुज स्ट्रेट (Strait of Hormuz) को जब से ईरान (Iran) ने बंद किया है, तब से इस रणनीतिक जलमार्ग की स्थिति पूरी तरह से बदल गई है।
 
 ### [डोनाल्ड ट्रंप के हारते पाकिस्तान ने उठाया कटोरा, सऊदी ने दिया खैरात तभी मिलेगी रोटी](https://hindi.news18.com/world/pakistan-saudi-bails-out-pakistan-with-3-billion-dollar-lifeline-as-us-10-billion-dollar-liquidity-support-remains-uncertain-ws-l-10966126.html)
 *News18 Hindi (World)* - Nov 05, 18:44 IST (iso: 2026-11-05T13:14:33+00:00)
@@ -17,12 +53,6 @@
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Secret-Pakistan-Iran-Nexus-against-Hindu-Jewish-Bond-2026-11-aba4c6f1789e7d0f0b27d1d7334a4b03-1200x800.jpg -->
 
 ईरानी सुरक्षा अधिकारी मोहसिन रजाई ने पाकिस्तान के सेना प्रमुख आसिम मुनीर की बैठक की जानकारी लीक की। मुनीर ने भारत और इजराइल के संबंधों को खतरा बताया। ईरान का दावा है कि पाकिस्तान अर्थव्यवस्था की कमजोरी से ध्यान भटकाने के लिए यह खेल खेल रहा है। ईरान के बड़े सुरक्षा अधिकारी मोहसिन रजाई ने एक बड़ा खुलासा किया है.
-
-### [तेल के दो जहाजों और एक अन्य नाव में धमाके के बाद लगी आग, होर्मुज स्ट्रेट में हुआ हादसा](https://www.patrika.com/world-news/two-oil-tankers-and-one-tugboat-catch-fire-after-explosion-in-strait-of-hormuz-21032802)
-*Patrika (World)* - Nov 05, 18:12 IST (iso: 2026-11-05T12:42:54+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/tanker-catches-fire.webp -->
-
-होर्मुज स्ट्रेट में दो तेल जहाजों और एक अन्य नाव में धमाके के बाद आग लग गई। ईरान ने अमेरिका से तनाव के बीच इस रणनीतिक जलमार्ग को बंद कर दिया है। अमेरिकी नेवी का दावा है कि जहाजों की सामान्य आवाजाही फिर से शुरू हो चुकी है। होर्मुज स्ट्रेट (Strait of Hormuz) को जब से ईरान (Iran) ने बंद किया है, तब से इस रणनीतिक जलमार्ग की स्थिति पूरी तरह से बदल गई है।
 
 ### [सऊदी अरब ने यमन में हूती विद्रोहियों द्वारा नियंत्रित इलाके पर की एयरस्ट्राइक्स, 7 लोगों की मौत और](https://www.patrika.com/world-news/saudi-arabia-carries-out-airstrikes-on-houthis-controlled-saada-in-yemen-7-people-killed-and-6-injured-21032664)
 *Patrika (World)* - Nov 05, 17:47 IST (iso: 2026-11-05T12:17:27+00:00)
@@ -60,33 +90,55 @@
 
 तुर्की के राष्ट्रपति एर्दोगन ने अमेरिकी मिडटर्म चुनाव के नतीजों पर प्रतिक्रिया दी। उन्होंने अमेरिका और तुर्की के बीच मजबूत संबंधों पर जोर दिया। ट्रंप और एर्दोगन के बीच व्यक्तिगत रिश्ते को दोस्ती माना जाता है। ट्रंप ने अंकारा में नाटो शिखर सम्मेलन में भाग लिया था। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) और तुर्की के राष्ट्रपति रेसेप तैयप एर्दोगन (Recep Tayyip Erdoğan) को दोस्त माना जाता है।
 
-### [क्या ईरान के खिलाफ खत्म होगा युद्ध? मिडटर्म चुनाव में जीत के बाद अमेरिकी सीनेट में डेमोक्रेटिक नेता](https://www.patrika.com/world-news/us-senate-democratic-leader-chuck-schumer-says-to-end-war-against-iran-21032114)
-*Patrika (World)* - Nov 05, 15:32 IST (iso: 2026-11-05T10:02:23+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/schumer.webp -->
+---
 
-अमेरिकी मिडटर्म चुनाव में डेमोक्रेटिक पार्टी ने बड़ी जीत दर्ज की। उन्होंने हाउस ऑफ रिप्रेज़ेंटेटिव्स और सीनेट दोनों में बहुमत हासिल किया। रिपब्लिकन पार्टी को करारी हार का सामना करना पड़ा। डेमोक्रेट्स को यह जीत अमेरिका की वापसी मान रहे हैं। राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की रिपब्लिकन पार्टी को करारी हार झेलनी पड़ी है। डेमोक्रेटिक पार्टी ने शानदार जीत हासिल करते हुए अमेरिकी हाउस ऑफ रिप्रेज़ेटेटिव्स और सीनेट दोनों में ही बहुमत हासिल कर लिया है।
+## अमेरिका
 
-### [यूनाइटेड तोराह जुडाइज्म ने किसी भी PM उम्मीदवार का समर्थन करने से किया इनकार](https://www.patrika.com/world-news/united-torah-judaism-refuses-to-back-netanyahu-israel-president-herzog-21032171)
-*Patrika (World)* - Nov 05, 15:23 IST (iso: 2026-11-05T09:53:53+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/United-Torah-Judaism.webp -->
+### [पराग्वे के राष्ट्रपति पेना का इस्तीफा: डिजिटल बैंक यूएनओ डूबा, जनता का पैसा फंसा; दक्षिण अमेरिकी](https://www.amarujala.com/world/paraguay-president-pe-a-resign-digital-bank-ueno-collapse-public-funds-trapped-south-american-nation-crisis-2026-11-06)
+*Amar Ujala Breaking* - Nov 06, 12:46 IST (iso: 2026-11-06T07:16:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/paragava-ma-rashhatarapata-satayaga-pana-na-isatafa-thaya_9c05e183ae5852a70f9e8e5f6729cf9a.jpeg?w=1200&dpr=1.0 -->
 
-इजरायल की यूनाइटेड तोराह जुडाइज्म पार्टी ने किसी भी प्रधानमंत्री उम्मीदवार का समर्थन नहीं किया। पार्टी ने राष्ट्रपति इसाक हर्जोग के साथ परामर्श के बाद यह फैसला लिया। उन्होंने अपने सहयोगी बेंजामिन नेतन्याहू का समर्थन भी नहीं दिया। यह पार्टी की पारंपरिक राजनीतिक स्थिति से विचलन है। Israeli Political Crisis: इजरायल में अति-रूढ़िवादी ‘यूनाइटेड तोराह जुडाइज्म’ पार्टी ने अपनी पारंपरिक राजनीतिक स्थिति से हटते हुए, इजरायल के राष्ट्रपति इसाक हर्जोग के साथ परामर्श के दौरान प्रधानमंत्री पद के लिए किसी भी उम्मीदवार का समर्थन न करने का फैसला किया है।
-
-### [ईरान युद्ध के बाद ट्रंप के रक्षा मंत्री की बढ़ी मुश्किलें, अपनों ने ही मांगा इस्तीफा, महाभियोग की](https://www.patrika.com/world-news/trump-defense-secretary-pete-hegseth-resignation-impeachment-iran-war-21031947)
-*Patrika (World)* - Nov 05, 13:59 IST (iso: 2026-11-05T08:29:40+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Pete-Hegseth-Resignation.webp -->
-
-रिपब्लिकन सांसद थॉमस मैसी ने रक्षा मंत्री पीट हेगसेथ से इस्तीफे की मांग की। उन्होंने कहा कि असरकारी कार्रवाई न होने पर महाभियोग की प्रक्रिया दोबारा शुरू होगी। US Midterm Elections: अमेरिका में मिडटर्म चुनाव में रिपब्लिकन पार्टी को झटका लगने के बाद राष्ट्रपति डोनाल्ड ट्रंप की मुश्किलें बढ़ती नजर आ रही हैं। ईरान युद्ध को लेकर अब उनके रक्षा मंत्री पीट हेगसेथ अपनी ही पार्टी के निशाने पर हैं।
-
-### [चुनावों में हार से दुश्मन खुश, ईरान युद्ध पर ट्रंप और नेतन्याहू क्या करेंगे?](https://hindi.news18.com/world/america-what-will-be-donald-trump-and-benjamin-netanyahu-s-next-move-on-iran-war-after-election-defeat-ws-l-10965221.html)
-*News18 Hindi (World)* - Nov 05, 13:30 IST (iso: 2026-11-05T08:00:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/trump-netanyahu-2026-05-7ecd9fb3b7936e39f7fa0db309a56c04-1200x800.jpg -->
-
-अमेरिका और इजराइल के मध्यावधि चुनावों में ट्रंप और नेतन्याहू को झटका लगा। महंगाई और ईरान युद्ध के बीच ये नतीजे दोनों देशों की रणनीतियों को प्रभावित करेंगे। अमेरिका और इजरायल के मध्यावधि चुनावों में ट्रंप और नेतन्याहू को झटका लगा है. महंगाई और ईरान युद्ध के बीच इन राजनीतिक परिणामों का असर दोनों देशों की रणनीतियों पर पड़ सकता है.
+पराग्वे के राष्ट्रपति पेना ने डिजिटल बैंक यूएनओ के पतन के बाद इस्तीफा दे दिया। बैंक का पतन जनता के पैसों को फंसा दिया। दक्षिण अमेरिकी देश में यह वित्तीय संकट गहरा गया। पराग्वे के राष्ट्रपति पेना का इस्तीफा: डिजिटल बैंक यूएनओ डूबा, जनता का पैसा फंसा; दक्षिण अमेरिकी देश में संकट।
 
 ---
 
 ## एशिया-प्रशांत
+
+### ['घुसपैठियों को वोटर बनाना चाहते हैं राहुल': कांग्रेस पर बरसे सीएम फडणवीस, बांग्लादेशी घुसपैठ पर](https://www.amarujala.com/india-news/rahul-gandhi-wants-to-turn-infiltrators-into-voters-cm-devendra-fadnavis-targets-opposition-over-bangladeshi-2026-11-06)
+*Amar Ujala Breaking* - Nov 06, 12:08 IST (iso: 2026-11-06T06:38:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/makhayamatara-thavathara-fadanaevasa-oura-lkasabha-ma-nata-paratapakashha-rahal-gathha_94bd9898e1b5b518f9ce253037c2141a.jpeg?w=1200&dpr=1.0 -->
+
+महाराष्ट्र के मुख्यमंत्री फडणवीस ने कांग्रेस पर बांग्लादेशी घुसपैठियों को वोटर बनाने का आरोप लगाया। उन्होंने राहुल गांधी और विपक्ष पर इस मामले में सवाल उठाए। यह राजनीतिक बयान सीमा सुरक्षा को लेकर उठा। 'घुसपैठियों को वोटर बनाना चाहते हैं राहुल': कांग्रेस पर बरसे सीएम फडणवीस, बांग्लादेशी घुसपैठ पर।
+
+### [12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?](https://www.amarujala.com/india-news/major-change-at-mumbai-airport-flights-of-12-foreign-airlines-to-be-shifted-will-passengers-be-affected-too-2026-11-06)
+*Amar Ujala National* - Nov 06, 02:17 IST (iso: 2026-11-05T20:47:34+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/sakataka-tasavara_1ab4e45101e6110d93b83c0f502a5b79.jpeg?w=1200&dpr=1.0 -->
+
+मुंबई एयरपोर्ट पर बारह विदेशी एयरलाइनों की उड़ानें शिफ्ट की जाएंगी। यह बदलाव यात्रियों के अनुभव को प्रभावित कर सकता है। हवाई अड्डे की व्यवस्था में यह बड़ा बदलाव लाया गया है। 12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?
+
+### [फिलीपींस का बढ़ा ‘ब्रह्मोस’ वाला लालच, भारत के साथ होगी 6700 करोड़ की महा-डील, कैसे एक तीर से लगे 2](https://hindi.news18.com/world/south-asia-india-philippines-800m-dollars-brahmos-deal-manila-eyes-60-supersonic-missiles-to-counter-china-in-south-china-sea-10966668.html)
+*News18 Hindi (World)* - Nov 05, 23:51 IST (iso: 2026-11-05T18:21:09+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/BRAHMOS-Missile-2026-10-4c40f5e0f6edea58816077618bfef1b9-1200x800.jpg -->
+
+फिलीपींस भारत से लगभग 800 मिलियन डॉलर की रक्षा डील पर सहमति जता रहा है। इसमें 60 ब्रह्मोस मिसाइलों की आपूर्ति शामिल है। यह समझौता दक्षिण चीन सागर में चीन के विस्तारवाद का मुकाबला करने के लिए किया जा रहा है। दक्षिण चीन सागर में चीन की दादागिरी बढ़ रही है. इसका मुकाबला करने के लिए फिलीपींस भारत से बड़ी डील करने जा रहा है.
+
+### [चीन-पाकिस्तान होकर भारत आने वालों पर सख्ती: नेपाल और भूटान सफर से पहले जान लें नए इमिग्रेशन नियम](https://hindi.news18.com/news/nation/immigration-regulations-change-for-those-entering-india-via-china-pakistan-mha-notification-for-traveling-to-nepal-bhutan-10966544.html)
+*News18 Hindi (World)* - Nov 05, 23:00 IST (iso: 2026-11-05T17:30:53+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Flight-2026-11-f1817c254ffd67e05288481e17765334-1200x800.jpg -->
+
+केंद्र सरकार ने नेपाल और भूटान के लिए नए इमिग्रेशन नियम जारी किए हैं। अब सीमा पार करने वाले भारतीय नागरिकों को पहचान दस्तावेजों की कड़ी शर्तें पूरी करनी होंगी। यह बदलाव सड़क और हवाई मार्ग से सीधे यात्रा करने वालों पर लागू होगा। India Nepal Bhutan Immigration Rules: नेपाल और भूटान की यात्रा करने वाले भारतीय नागरिकों के लिए केंद्र सरकार ने सीमा पार आवाजाही से जुड़े नियमों में अहम बदलाव किया है.
+
+### [दशकों की जंग के बाद भारत ने जिसे खदेडा, पड़ोस में फिर आ खड़ा हुआ वही दैत्‍य, लीलने को तैयार है](https://hindi.news18.com/world/pakistan-pakistan-wild-polio-virus-cases-2026-khyber-pakhtunkhwa-health-update-afghanistan-vaccination-campaign-10966291.html)
+*News18 Hindi (World)* - Nov 05, 20:07 IST (iso: 2026-11-05T14:37:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/polio-2026-11-031d339351296702e30f48730ee7398f-1200x800.jpg -->
+
+पाकिस्तान के खैबर पख्तूनख्वा में 7 महीने के शिशु ने पोलियो से संक्रमण का शिकार बना। 2026 में अब तक ऐसे मामलों की संख्या 9 हो गई है। यह बीमारी बच्चों को प्रभावित कर रही है। भारत ने जिस दैत्‍य को दशकों पहले पूरी तरह से खदेड़ दिया था, वहीं अब पड़ोसी पाकिस्‍तान में जिंदगियां लीलने के लिए खड़ा है.
+
+### [PoK की वो चौक...जहां दबे हैं पाकिस्तान के पापों के सबूत, LoC से सिर्फ 45KM दूर, यहीं होने वाला है](https://hindi.news18.com/news/knowledge/pok-rawalakot-d-chowk-700km-from-indian-border-rises-against-pakistani-army-brutality-10966130.html)
+*News18 Hindi (World)* - Nov 05, 19:49 IST (iso: 2026-11-05T14:19:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/PoK-Protest-2026-11-0b6b0d8ebe5da89529e5c0897fa25c78-1200x800.jpg -->
+
+पाकिस्तान के रावलकोट में डी-चौक पर 38 सूत्रीय मांगों के लिए प्रदर्शन जारी है। छात्र और जनता सड़कों पर हैं। ड्रोन हमलों के बावजूद प्रदर्शनकारियों ने पीछे हटने से इनकार किया है। PoK के रावलकोट में डी-चौक पर आजकल कुछ ऐसा हो रहा है, जिसकी गूंज दूर तक है. जनता और छात्र सड़कों पर उतरे हैं. गोलियों और ड्रोन हमलों के बावजूद कोई पीछे हटने को तैयार नहीं है.
 
 ### [हार के बाद मार्को रूबियो आउट! भारत में तैनात ये शख्स लेगा जगह, अमेरिका के विदेश मंत्रालय में हड़कंप?](https://hindi.news18.com/world/america-us-midterm-fallout-marco-rubio-may-replace-by-us-envoy-to-india-sergio-gor-reports-major-change-in-america-state-department-10965839.html)
 *News18 Hindi (World)* - Nov 05, 17:15 IST (iso: 2026-11-05T11:45:52+00:00)
@@ -106,67 +158,15 @@
 
 प्रशांत महासागर रिकॉर्ड स्तर पर गर्म हो गया है। अल नीनो के कारण पूर्वी एशिया में तूफानों का खतरा बढ़ा है। जापान, चीन, ताइवान और फिलीपींस में बाढ़ की संभावना है। सरकारों ने लोगों को राशन और पानी जमा करने की सलाह दी है। प्रशांत महासागर रिकॉर्ड स्तर पर गर्म हो चुका है. भयानक अल नीनो के कारण पूर्वी एशिया पर अब बड़े तूफानों का खतरा मंडरा रहा है.
 
-### [भारतीयों ने डुबोई ट्रंप की लुटिया, मुनीर को हलाल, वीजा पर बवाल, ऐसे नहीं हुआ रिपब्लिकंस ऐसा हाल](https://hindi.news18.com/world/america-how-indian-american-voters-shift-impacted-republican-party-defeat-in-midterm-election-result-2026-ws-l-10965116.html)
-*News18 Hindi (World)* - Nov 05, 12:21 IST (iso: 2026-11-05T06:51:19+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trump-defeat-2026-11-b802fdf4dc1e8a5dda4201cc2dd14d56-1200x800.jpg -->
-
-अमेरिका के मध्यावधि चुनाव में रिपब्लिकन पार्टी को बड़ा झटका लगा। डेमोक्रेटिक पार्टी ने कई अहम सीटों पर जीत दर्ज की। भारतीय मूल के मतदाताओं में भी डेमोक्रेटिक समर्थन बढ़ने के संकेत मिले हैं। Indian American Voters Revenge from Trump: अमेरिका के मध्यावधि चुनाव में डोनाल्ड ट्रंप की रिपब्लिकन पार्टी को बड़ा झटका लगा है. इस चुनाव में डेमोक्रेटिक पार्टी ने कई अहम सीटों पर जीत हासिल की.
-
-### [पीएम मोदी के 'Gen-Z' अंदाज वाले पोस्ट पर CJP के सौरव दास बोले- 'प्लीज आप...'](https://www.abplive.com/news/india/pm-modi-gen-z-style-tweet-saurav-das-reaction-critical-mineral-processing-scheme-3211252)
-*ABP Live (India)* - Nov 05, 12:17 IST (iso: 2026-11-05T06:47:12+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/05/c1dec6360649be7d6569cd5e161def5b1793855581668425_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-पीएम मोदी के सोशल मीडिया पोस्ट के अंदाज पर सौरव दास ने सवाल उठाए। मोदी ने खनिज प्रसंस्करण योजना की जानकारी अनौपचारिक भाषा में दी थी। दास ने इसे जरूरत से ज्यादा जेन-जी अंदाज वाला बताते हुए टिप्पणी की। प्रधानमंत्री नरेंद्र मोदी के सोशल मीडिया पोस्ट करने के अंदाज पर सौरव दास ने सवाल उठाए हैं. पीएम मोदी ने महत्वपूर्ण खनिजों के प्रसंस्करण में भारत की आत्मनिर्भरता को लेकर एक पोस्ट साझा किया था.
-
 ---
 
 ## दुनिया
 
-### [भविष्य देख लौटा रहस्यमयी शख्स, दिखाई 92 साल आगे की तस्वीर, उड़ने वाली कार, रोबोट से इंसान, बदल](https://hindi.news18.com/world/rest-of-world-time-traveler-from-2118-returns-from-future-warns-horrors-that-humanity-would-face-amazing-news-2-ws-l-10965443.html)
-*News18 Hindi (World)* - Nov 05, 14:30 IST (iso: 2026-11-05T09:00:32+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/TIME-TRAVEL-2026-11-30d259558c36c9e5f0e6f323e7932207-1200x800.jpg -->
+### [संकट, शर्त या सुलह...आज होगा फैसला, वार्ता से पहले श्रीनगर में मांगों का सख्त खाका तैयार](https://www.amarujala.com/jammu-and-kashmir/srinagar/strife-in-the-nc-crisis-conditions-or-reconciliation-a-decision-is-expected-today-2026-11-06)
+*Amar Ujala Breaking* - Nov 06, 01:57 IST (iso: 2026-11-05T20:27:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/1_e079abca31fca333a537efedcbb2feaf.jpeg?w=1200&dpr=1.0 -->
 
-एक व्यक्ति ने दावा किया कि वह भविष्य से आया है। उसने 92 साल आगे की तस्वीर दिखाई। उसमें उड़ने वाली कारें और रोबोट दिखे। उसने कहा कि आने वाला समय इंसानियत के लिए मुश्किल होगा। हालांकि कुछ लोग खुद ही दावा करते हैं कि उन्हें भविष्य के बारे में पता है. एक ऐसे ही शख्स ने खुद के टाइम ट्रैवेलर होने का दावा किया और बताया कि आगे आने वाला वक्त इंसानियत के लिए काफी मुश्किल होने वाला है.
-
-### [UGC नियमों के खिलाफ याचिका पर CJI बोले, 'नीति ऐसी होनी चाहिए जिससे...', केंद्र ने क्या कहा?](https://www.abplive.com/news/india/ugc-rule-centre-tells-supremecour-government-is-examining-the-issue-with-students-3211360)
-*ABP Live (India)* - Nov 05, 14:03 IST (iso: 2026-11-05T08:33:21+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/05/2135efd543f1c9fbc51fef10c60db4aa1793867092453124_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-सुप्रीम कोर्ट में केंद्र ने UGC नियमों की समीक्षा और कमिटी गठन का संकेत दिया। CJI सूर्यकांत ने कहा कि नीति सभी युवाओं को संतुष्ट करनी चाहिए। यूजीसी के नए नियमों के खिलाफ दाखिल याचिकाओं पर सुप्रीम कोर्ट में केंद्र सरकार ने कहा कि नियमों पर नए सिरे से विचार किया जा रहा है. एक कमिटी का भी गठन किया जा सकता है.
-
-### ['लाभार्थियों के लिए आधार की जगह जल्द...', मंत्री के बयान को कांग्रेस ने SIR से जोड़ा](https://www.abplive.com/news/india/union-minister-lalan-singh-says-aadhaar-to-be-replaced-by-voter-id-for-benefit-payments-congress-reply-3211335)
-*ABP Live (India)* - Nov 05, 13:23 IST (iso: 2026-11-05T07:53:12+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/05/ee4d9ddc57bf4fd63a7b38711dfbdb571793864945133124_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-मंत्री ललन सिंह ने कहा कि जल्द आधार की जगह बायोमेट्रिक्स और EPIC नंबर से भुगतान होगा। कांग्रेस ने इस बयान को SIR से जोड़कर प्रतिक्रिया दी। केंद्रीय मंत्री और जेडीयू के वरिष्ठ नेता ललन सिंह ने कहा है कि लाभार्थियों को उनके आधार नंबर के आधार पर भुगतान करने की मौजूदा व्यवस्था की जगह जल्द ही एक ऐसी प्रणाली लाई जाएगी, जिसमें बायोमेट्रिक्स और वोटर आईडी (EPIC) नंबर का इस्तेमाल करके भुगतान किया जाएगा.
-
-### [CEC को मिला SC का नोटिस, सौरव दास खुश, बोले- 'ज्ञानेश कुमार का ठिकाना जेल'](https://www.abplive.com/news/india/supreme-court-cec-immunity-against-gyanesh-kumar-saurav-das-cjp-sir-mustafabad-form-7-3211328)
-*ABP Live (India)* - Nov 05, 13:21 IST (iso: 2026-11-05T07:51:55+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/05/bfa4521e4013f40c3eae858936156b8f17938645332091115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-सुप्रीम कोर्ट ने चुनाव आयोग को दी गई पूर्ण छूट को चुनौती देने वाली याचिका पर केंद्र से जवाब मांगा है। कॉकरोच जनता पार्टी के सौरव दास ने ट्वीट कर कहा कि कोर्ट इस छूट को असंवैधानिक करार देगी। दास का दावा है कि इसके बाद ज्ञानेश कुमार का ठिकाना जेल होगा। सुप्रीम कोर्ट ने CEC और चुनाव आयुक्तों को मिली पूर्ण छूट को चुनौती देने वाली याचिका पर केंद्र और ECI से जवाब मांगा है.
-
-### ['अरे राहुल जी, मैं आपको...', पीएम मोदी को डिबेट के चैलेंज के बीच अमित शाह की चुनौती](https://www.abplive.com/news/india/amit-shah-on-rahul-gandhi-on-pm-modi-debate-challenge-3211331)
-*ABP Live (India)* - Nov 05, 13:10 IST (iso: 2026-11-05T07:40:23+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/05/3b4b00da56fb7d66a9ce5d74100d2f341793864775151355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-राहुल गांधी के डिबेट चैलेंज पर अमित शाह ने करनाल रैली में जवाब दिया। शाह ने राहुल गांधी को जय श्री राम का नारा लगाने को कहा। उन्होंने कहा कि जनता ने लगातार तीसरी बार मोदी को समर्थन दिया है। कांग्रेस नेता राहुल गांधी ने पीएम मोदी को डिबेट के लिए चैलेंज किया है. उन्होंने कहा कि वो उनके साथ डिबेट करें.
-
-### [आजम खान को सुप्रीम कोर्ट से नहीं मिली राहत, कपिल सिब्बल की '80 साल का हूं' वाली दलील नहीं आई काम](https://www.abplive.com/news/india/azam-khan-gets-no-relief-from-the-supreme-court-kapil-sibal-age-argument-proves-ineffective-3211305)
-*ABP Live (India)* - Nov 05, 12:22 IST (iso: 2026-11-05T06:52:37+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/05/d9f48888955a11dc6ee9f2972bc453af1793862094979355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-सुप्रीम कोर्ट ने आजम खान की याचिका पर सुनवाई से इनकार कर दिया। कोर्ट ने मामला हाई कोर्ट के पास भेज दिया। वकील कपिल सिब्बल की उम्र आधारित दलील काम नहीं आई। अब 16 नवंबर तक हाई कोर्ट में सुनवाई होगी। समाजवादी पार्टी के नेता आजम खान को बड़ा झटका लगा है. उनकी याचिका पर सुनवाई से सुप्रीम कोर्ट ने मना कर दिया है.
-
----
-
-## अमेरिका
-
-### [बाहें खोलकर बुलाती है स्वर्ग सी गुफा, कदम रखते ही मिलती है दूसरी दुनिया, शीशे सा शहर पर लौटने की](https://hindi.news18.com/world/rest-of-world-beautiful-mysterious-crystal-clear-cave-in-mexico-leads-to-another-world-is-really-dangerous-amazing-places-on-earth-photogallery-10965262.html)
-*News18 Hindi (World)* - Nov 05, 13:28 IST (iso: 2026-11-05T07:58:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/cystal-cave-4-2026-11-c16908692c6f73d243c1db818d8b6cf5-1200x800.jpg -->
-
-मेक्सिको में एक गुफा की खोज हुई है जिसकी दीवारें विशाल क्रिस्टलों से बनी हैं। इनकी ऊंचाई कई मंजिला इमारत के बराबर है। Mysterious Crystal Clear Cave in Mexico: एक ऐसी गुफा, जहां की दीवारें पत्थरों से नहीं, बल्कि विशाल चमकदार क्रिस्टलों से बनी हैं. इनकी लंबाई किसी इमारत की कई मंजिलों जितनी है. देखने में यह जगह किसी दूसरी दुनिया का हिस्सा लगती है, लेकिन इसकी खूबसूरती के पीछे एक खतरनाक रहस्य छिपा है.
+श्रीनगर में नेशनल कॉन्फ्रेंस की अंतर्कलह का फैसला आज सामने आने वाला है। कैबिनेट विस्तार के बाद उठी तकरार का समाधान वार्ता से होना है। स्थानीय मांगों का सख्त खाका तैयार किया गया है। 27 अक्तूबर को कैबिनेट विस्तार से नेशनल कॉन्फ्रेंस में उठी अंतर्कलह का अंत क्या होगा, ये शुक्रवार यानी आज सामने आ जाएगा।
 
 ---
 
