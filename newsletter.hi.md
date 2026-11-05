@@ -1,44 +1,52 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 04, 2026 23:48 IST
-
----
-
-## अमेरिका
-
-### [डोनाल्ड ट्रंप बन गए लेम डक प्रेसिडेंट, खुलने वाला है अरबों की कमाई का हर राज़; दामाद, परिवार, एलन](https://hindi.news18.com/world/america-donald-trump-become-lame-duck-president-us-midterm-election-result-democrats-win-and-republican-defeat-impact-on-india-sushant-sinha-desh-ki-pathshala-10964131.html)
-*News18 Hindi (World)* - Nov 04, 23:39 IST (iso: 2026-11-04T18:09:31+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Sushant-SInha-Desh-Ki-Pathshala-14-2026-11-442dd3d23817a6a2df8fded67d1d669b-1200x800.jpg -->
-
-अमेरिकी मिडटर्म चुनाव में डेमोक्रेटिक पार्टी ने सीनेट और हाउस ऑफ रिप्रेजेंटेटिव्स दोनों में बहुमत हासिल किया। इससे डोनाल्ड ट्रंप की संसदीय पकड़ पूरी तरह समाप्त हो गई। अब उनके पास कानून बनाने या बजट पारित करने की प्रभावी शक्ति नहीं बची है। Sushant Sinha Desh Ki Pathshala: अमेरिका के मिडटर्म इलेक्शन के रिजल्ट में डोनाल्ड ट्रंप सिर्फ हारे नहीं है, पब्लिक ने वहां पर उनकी पार्टी को बिल्कुल रगड़ दिया है.
-
-### [ट्रंप मैजिक फुस्स क्यों हुआ? कौन सी गलती रिपब्लिकन पर पड़ी भारी? अमेरिकी जनता में गुस्से की वजह क्या](https://hindi.news18.com/photogallery/knowledge/why-donald-trump-republican-party-lost-in-us-mid-term-election-iran-war-inflation-tariff-america-first-10963674.html)
-*News18 Hindi (World)* - Nov 04, 19:06 IST (iso: 2026-11-04T13:36:58+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Untitled-design-2026-11-04T183304.342-2026-11-5cae98a8905c488412292d2588b97763-1200x800.jpg -->
-
-फ्रांस में दो नवंबर को कई ब्लड बैंकों पर साइबर हमले हुए। स्वास्थ्य सेवाओं से जुड़े संस्थानों को निशाना बनाया गया। इस घटना के बाद स्वास्थ्य विभाग में हड़कंप मच गया। US Mid term Election 2026: अमेरिका के 2026 के मिडटर्म चुनावों ने राष्ट्रपति डोनाल्ड ट्रंप और उनकी रिपब्लिकन पार्टी को बड़ा राजनीतिक झटका लगा है. डेमोक्रेटिक पार्टी ने हाउस ऑफ रिप्रेजेंटेटिव्स और सीनेट, दोनों पर ही कंट्रोल हासिल कर लिया है.
-
-### [मिशिगन का अब्दुल छोड़ो... इन 4 जगहों से मिले ट्रंप को सबसे गहरे घाव, इतिहास-भूगोल सब बिगड़ गया!](https://hindi.news18.com/world/america-us-midterms-2026-live-beyond-michigan-how-kansas-texas-south-carolina-delivered-historic-defeats-to-donald-trump-republicans-10963368.html)
-*News18 Hindi (World)* - Nov 04, 17:31 IST (iso: 2026-11-04T12:01:37+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-Midterms-2026-2026-11-837fa306724efd5c7321710f7d60c730-1200x800.jpg -->
-
-डेमोक्रेट्स ने कंसास, टेक्सास और साउथ कैरोलिना जैसे रिपब्लिकन गढ़ों में जीत दर्ज की। कंसास में 94 वर्ष बाद और टेक्सास में 38 वर्ष बाद यह पहली बार हुआ। ट्रंप के लिए यह सबसे गहरा राजनीतिक झटका रहा। अमेरिकी मिडटर्म चुनावों ने डेमोक्रैट्स ने ऐतिहासिक जीत हासिल करते हुए संसद के दोनों सदनों पर कंट्रोल हासिल कर लिया है. मिशिगन की जीत के अलावा, कंसास (94 साल बाद), टेक्सास (38 साल बाद) और साउथ कैरोलिना जैसे रिपब्लिकन पार्टी के दशकों पुराने और सबसे सुरक्षित गढ़ों में भी डेमोक्रेट्स ने सेंध लगाकर ट्रंप के पावर को करारा झटका दिया है.
-
-### [ब्लू सुनामी क्या है? अमेरिका के मिड टर्म चुनाव में इसका क्या मतलब, कहां से आया ये टर्म?](https://hindi.news18.com/news/knowledge/what-is-blue-tsunami-in-usa-what-does-it-signify-in-context-of-us-midterm-elections-from-where-term-originate-10963072.html)
-*News18 Hindi (World)* - Nov 04, 15:49 IST (iso: 2026-11-04T10:19:13+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Untitled-design-2026-11-04T153856.871-2026-11-137bdba629f0c6f2cae04210c86adec7-1200x800.jpg -->
-
-अमेरिकी राजनीति में डेमोक्रेटिक पार्टी का रंग नीला है। ब्लू सुनामी का अर्थ है डेमोक्रेट्स की बड़ी जीत। यह शब्द मिडटर्म चुनावों में उनकी संभावित सफलता को दर्शाता है। US Mid term Election: अमेरिका सहित पूरी दुनिया में यूएस मिडटर्म चुनावों की चर्चा जोरों पर है. यहां ब्लू सुनामी आई है. आखिर इसका क्या मतलब है? अमेरिका की राजनीति में दो प्रमुख पार्टियां हैं- डेमोक्रेटिक पार्टी और रिपब्लिकन पार्टी.
+**अपडेट:** November 05, 2026 05:31 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### ['ईरान युद्ध के कारण हारे मध्यावधि चुनाव': ट्रंप ने भी माना वजह, कहा- आगे भी जारी रहेगी कार्रवाई; और](https://www.amarujala.com/world/midterm-elections-lost-due-to-iran-war-trump-acknowledges-says-actions-will-continue-what-else-did-he-say-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 12:38 IST (iso: 2026-11-05T07:08:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/amaraka-rashhatarapata-tarapa_82866ffaed04edf53b0f583f932b6f28.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप ने ईरान युद्ध को अमेरिकी मध्यावधि चुनावों में हार का मुख्य कारण माना। उन्होंने कहा कि कार्रवाई जारी रहेगी। 'ईरान युद्ध के कारण हारे मध्यावधि चुनाव': ट्रंप ने भी माना वजह, कहा- आगे भी जारी रहेगी कार्रवाई; और क्या बोले?
+
+### [नतीजों पर खामेनेई की दो टूक, कहा- समझौते की उम्मीद करना बड़ी भूल, हम नहीं बदलेगें रुख](https://www.amarujala.com/world/mojtaba-khamenei-says-us-midterm-results-will-not-change-irans-stance-defense-policy-2026-11-05)
+*Amar Ujala World* - Nov 05, 12:10 IST (iso: 2026-11-05T06:40:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/mojtaba-khamenei_98ef0b59b3849fd6ce9827bd7b49032a.jpeg?w=1200&dpr=1.0 -->
+
+खामेनेई ने कहा कि अमेरिकी चुनाव परिणाम ईरान की रक्षा नीति नहीं बदलेंगे। उन्होंने समझौते की उम्मीद को बड़ी भूल बताया। नतीजों पर खामेनेई की दो टूक, कहा- समझौते की उम्मीद करना बड़ी भूल, हम नहीं बदलेगें रुख।
+
+### [ईरान को तेल प्रतिबंधों से बचाने का आरोप: अमेरिका ने भारतीय दंपती पर लगाया बैन, स्कॉट बेसेंट ने दी](https://www.amarujala.com/world/us-sanctions-indian-couple-companies-maritime-fraud-iran-oil-trade-scott-bessent-warns-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 04:21 IST (iso: 2026-11-04T22:51:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/us-sanctions_fd69b641bafdb98ba4bea2bc3534ab45.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका ने ईरानी तेल व्यापार में भ्रष्टाचार के आरोप में एक भारतीय दंपति और उनके कंपनियों पर प्रतिबंध लगाए। खजाना मंत्री स्कॉट बेसेंट ने चेतावनी दी कि ऐसे कारोबारियों के खिलाफ कड़ी कार्रवाई होगी। ईरान को तेल प्रतिबंधों से बचाने का आरोप: अमेरिका ने भारतीय दंपती पर लगाया बैन, स्कॉट बेसेंट ने दी।
+
+### ['ईरान युद्ध खत्म करना डेमोक्रेट्स का एजेंडा': मध्यावधि चुनाव में जीत पर बोले चक शूमर, ट्रंप को लेकर](https://www.amarujala.com/world/ending-war-with-iran-is-democrats-agenda-chuck-schumer-on-midterm-election-victory-what-did-he-say-about-trump-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 04:14 IST (iso: 2026-11-04T22:44:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/caka-shamara_b3215aeb974546669d1b6f3bf43e0e50.jpeg?w=1200&dpr=1.0 -->
+
+चक शूमर ने मध्यावधि चुनावों में डेमोक्रेट्स की जीत को ईरान युद्ध समाप्त करने के एजेंडा से जोड़ा। उन्होंने ट्रंप प्रशासन पर आक्रामक विदेश नीति अपनाने का आरोप लगाया और शांति की बात की। 'ईरान युद्ध खत्म करना डेमोक्रेट्स का एजेंडा': मध्यावधि चुनाव में जीत पर बोले चक शूमर, ट्रंप को लेकर।
+
+### [अमेरिका के मियामी में हेलीकॉप्टर दुर्घटनाग्रस्त, एक की मौत और दो गंभीर रूप से घायल](https://www.amarujala.com/world/world-news-updates-hindi-us-helicopter-crash-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-11-05)
+*Amar Ujala World* - Nov 05, 01:29 IST (iso: 2026-11-04T19:59:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका के मियामी में एक हेलीकॉप्टर दुर्घटनाग्रस्त हो गया। इस हादसे में एक व्यक्ति की मौत हो गई। दो अन्य यात्री गंभीर रूप से घायल हुए हैं। अमेरिका के मियामी में हेलीकॉप्टर दुर्घटनाग्रस्त, एक की मौत और दो गंभीर रूप से घायल।
 
 ### [LPG हुआ बेतहाशा महंगा, आधी से कम हो गई गरीब परिवार की कमाई, कब रुकेगी ये तबाही?](https://hindi.news18.com/world/pakistan-pakistan-lpg-crisis-soaring-fuel-prices-force-rickshaw-drivers-to-cut-meals-as-us-iran-conflict-escalates-10964149.html)
 *News18 Hindi (World)* - Nov 04, 23:37 IST (iso: 2026-11-04T18:07:57+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/LPG-Expensive-2026-11-2f419d83f6668fb579856fcb0b848f79-1200x800.jpg -->
 
 अमेरिका-ईरान युद्ध के कारण पाकिस्तान में एलपीजी की कीमतें 56 प्रतिशत बढ़ गई हैं। ईरान सीमा बंद होने से रोजाना 7,000 मीट्रिक टन गैस की आपूर्ति रुक गई। लाहौर और कराची के ऑटो चालकों की रोज़ाना की कमाई आधी से भी कम हो गई है। अमेरिका-ईरान युद्ध की वजह से पाकिस्तान में एलपीजी 56% तक महंगी हो गई है. 'गरीबों का ईंधन' कही जाने वाली इस गैस के दाम बढ़ने से लाहौर और कराची के हजारों ऑटो चालकों के सामने रोजी-रोटी का संकट खड़ा हो गया है.
+
+### ['नतीजों को वैध मानें...', इजरायल के राष्ट्रपति इसाक हर्जोग ने चुनाव को दी कानूनी मान्यता](https://www.abplive.com/news/india/israeli-president-isaac-herzog-grants-legal-recognition-election-3211153)
+*ABP Live (India)* - Nov 04, 23:16 IST (iso: 2026-11-04T17:46:53+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/04/6407f795cd13baccae25fbe2ad04cac517938142237661324_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+इजरायल के राष्ट्रपति इसाक हर्जोग ने संसदीय चुनाव के नतीजों को कानूनी मान्यता दे दी। उन्होंने नई सरकार गठन के लिए विभिन्न दलों से बातचीत करने की घोषणा की। इस कदम से प्रधानमंत्री बेंजामिन नेतन्याहू को बड़ा झटका लगा, जिन्होंने नतीजों को अमान्य करने की कोशिश की थी। इजरायल के राष्ट्रपति इसाक हर्जोग ने संसदीय चुनाव के नतीजों को कानूनी रूप से मान लिया है.
 
 ### [मिडटर्म में हार के बाद बदल गए ट्रंप, टीवी पर लाइव आकर कही ऐसी बातें, सुनने वाले हैरान रह गए](https://hindi.news18.com/world/america-donald-trump-live-on-tv-after-midterm-defeat-answers-news-reporter-call-republican-defeat-defends-iran-war-10964040.html)
 *News18 Hindi (World)* - Nov 04, 22:57 IST (iso: 2026-11-04T17:27:21+00:00)
@@ -58,91 +66,83 @@
 
 रिपब्लिकन पार्टी की मिडटर्म हार के बाद उपराष्ट्रपति जेडी वेंस ने ईरान युद्ध और महंगाई को असली कारण बताया। उन्होंने पार्टी नेताओं को हार के कारणों से ध्यान भटकाने से रोका। अमेरिकी मिडटर्म चुनावों में रिपब्लिकन पार्टी बुरी तरह हार गई है. इस हार के बाद उपराष्ट्रपति जेडी वेंस ने सोशल मीडिया पर एक धमाकेदार पोस्ट लिखा है. उनकी इस पोस्ट से पार्टी के अंदर बड़ा भूचाल आ गया है.
 
-### [मिडटर्म चुनाव के नतीजों पर ईरान ने अमेरिका पर साधा निशाना – ‘अमेरिकी जनता ने दिया स्पष्ट मैसेज’](https://www.patrika.com/world-news/esmaeil-baghaei-says-american-people-have-sent-clear-message-with-midterm-election-results-21030908)
-*Patrika (World)* - Nov 04, 20:51 IST (iso: 2026-11-04T15:21:32+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/baghaei.webp -->
+---
 
-ईरान ने अमेरिकी मिडटर्म चुनाव के नतीजों पर ट्रंप की पार्टी की हार को जनता का स्पष्ट संदेश बताया। डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों में बहुमत हासिल किया। अमेरिका (United States of America) में 3 नवंबर को हुए मिडटर्म चुनाव (Midterm Election) के नतीजे सामने आ गए हैं और वो ही हुआ जिसका सभी को अंदाजा था। राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की रिपब्लिकन पार्टी को डेमोक्रेटिक पार्टी के खिलाफ हार झेलनी पड़ी है।
+## अमेरिका
 
-### [हूती विद्रोहियों ने फिर किया सऊदी अरब पर हमला, किंग खालिद इंटरनेशनल एयरपोर्ट पर दागी बैलिस्टिक](https://www.patrika.com/world-news/houthis-attack-king-khalid-international-airport-with-ballistic-missile-21030853)
-*Patrika (World)* - Nov 04, 20:21 IST (iso: 2026-11-04T14:51:38+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/yahya.webp -->
+### [ट्रंप की अल्टीमेट पावर यानी वीटो क्या है, कैसे राष्ट्रपति कांग्रेस के फैसलों पर लगा सकते हैं रोक?](https://www.amarujala.com/world/what-is-donald-trump-ultimate-power-veto-how-can-president-block-decisions-made-by-congress-2026-11-05)
+*Amar Ujala World* - Nov 05, 05:25 IST (iso: 2026-11-04T23:55:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/tarapa-na-shayara-kaya-pasata_db008acf7e4e42c91bc1d826e7c2f2d5.jpeg?w=1200&dpr=1.0 -->
 
-यमन के हूती विद्रोहियों ने सऊदी अरब पर बालिस्टिक मिसाइलों से हमला किया। किंग खालिद इंटरनेशनल एयरपोर्ट पर मिसाइलें गिरीं। यमन में सरकारी सेना और विद्रोहियों के बीच संघर्ष जारी है। यमन (Yemen) में चल रही जंग गंभीर होती जा रही है। हूती विद्रोहियों (Houthis) और यमन की सरकारी सेना लगातार एक-दूसरे के इलाकों में हमले कर रहे हैं। वहीँ हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला जारी है।
+राष्ट्रपति का वीटो अधिकार उन्हें कांग्रेस के पारित कानूनों को रोकने की अनुमति देता है। यह अमेरिकी संविधान की प्रमुख शक्ति है। ट्रंप की अल्टीमेट पावर यानी वीटो क्या है, कैसे राष्ट्रपति कांग्रेस के फैसलों पर लगा सकते हैं रोक?
 
-### [मोजतबा खामेनेई की दो-टूक – ‘अमेरिका के सामने ईरान ने सरेंडर करने का सोचा भी तो अब तक हासिल की गई](https://www.patrika.com/world-news/mojtaba-khamenei-says-slightest-inclination-towards-iran-surrendering-to-us-will-squander-enormous-gains-achieved-21030595)
-*Patrika (World)* - Nov 04, 19:52 IST (iso: 2026-11-04T14:22:22+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/mojtaba_.webp -->
+### [फ्लोरिडा में सिटीबैंक के ऑफिस कॉम्प्लेक्स में फायरिंग, संदिग्ध समेत दो की मौत](https://www.amarujala.com/world/florida-tampa-citibank-office-complex-shooting-two-dead-suspect-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 01:21 IST (iso: 2026-11-04T19:51:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/tampa-citibank-shooting_efa4f3b808d46f8f74db20ec5d325263.jpeg?w=1200&dpr=1.0 -->
 
-ईरान के सर्वोच्च नेता मोजतबा खामेनेई ने अमेरिका को चेतावनी दी है। उन्होंने कहा कि ट्रंप की ताकत मिडटर्म हार के बाद कम हो गई है। ईरान अब अमेरिका को बड़ा घाव देने की तैयारी कर रहा है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव अभी भी खत्म नहीं हुआ है। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) के आदेश पर अमेरिकी सेना ने देश में मिडटर्म चुनाव से कुछ घंटे पहले ही ईरान पर हमले कर दिए।
+फ्लोरिडा के टैम्पा में सिटीबैंक के कार्यालय परिसर में गोलीबारी हुई। इसमें संदिग्ध समेत दो लोगों की मौत हो गई। घटना के बाद पुलिस ने स्थिति पर नियंत्रण जमा लिया है। फ्लोरिडा में सिटीबैंक के ऑफिस कॉम्प्लेक्स में फायरिंग, संदिग्ध समेत दो की मौत।
 
-### [मिडटर्म के बाद अब ईरान खत्म कर देगा ट्रंप की बची-खुची ताकत, मोजतबा खामेनेई ने किया ‘बहुत बड़ा’ ऐलान](https://hindi.news18.com/world/middle-east-us-midterms-fallout-iran-mojtaba-khamenei-warns-of-far-bigger-response-as-donald-trump-faces-major-political-blow-10963590.html)
-*News18 Hindi (World)* - Nov 04, 19:38 IST (iso: 2026-11-04T14:08:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Mojtaba-Khamenei-Threaten-Trump-2026-11-f069b3e8fa4b8e2e9d94e9660e435de1-1200x800.jpg -->
+### [डोनाल्ड ट्रंप बन गए लेम डक प्रेसिडेंट, खुलने वाला है अरबों की कमाई का हर राज़; दामाद, परिवार, एलन](https://hindi.news18.com/world/america-donald-trump-become-lame-duck-president-us-midterm-election-result-democrats-win-and-republican-defeat-impact-on-india-sushant-sinha-desh-ki-pathshala-10964131.html)
+*News18 Hindi (World)* - Nov 04, 23:39 IST (iso: 2026-11-04T18:09:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Sushant-SInha-Desh-Ki-Pathshala-14-2026-11-442dd3d23817a6a2df8fded67d1d669b-1200x800.jpg -->
 
-अमेरिकी मिडटर्म चुनावों में डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों पर कंट्रोल हासिल किया। रिपब्लिकन पार्टी को बड़ा राजनीतिक झटका लगा। ट्रंप की पार्टी को उन राज्यों में भी हार का सामना करना पड़ा जो उनके मजबूत गढ़ माने जाते थे। अमेरीकी मिडटर्म चुनावों में रिपब्लिकन पार्टी बुरी तरह हार गई है. इससे राष्ट्रपति डोनाल्ड ट्रंप की ताकत काफी कम हो गई है.
-
-### [मोजतबा खामेनेई ने दी अमेरिका को चेतावनी – ‘अगर ईरान के खिलाफ आक्रामकता दोहराई गई, तो दिया जाएगा](https://www.patrika.com/world-news/mojtaba-khamenei-warns-us-if-aggressions-be-repeated-iran-will-reply-with-much-broader-dimensions-21030486)
-*Patrika (World)* - Nov 04, 17:43 IST (iso: 2026-11-04T12:13:03+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/mojtaba.webp -->
-
-ईरान के नेतृत्व ने अमेरिका को चेतावनी दी कि आक्रामकता दोहराई जाए तो जवाब दिया जाएगा। ट्रंप ने मध्यावधि चुनाव से पहले केशम द्वीप पर हमला किया था। दोनों देशों के बीच तनाव जारी है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव की स्थिति बरकरार है। मीडिया रिपोर्ट्स के अनुसार अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) देश में मिडटर्म चुनाव के बाद ईरान पर फिर से हमले शुरू करने का प्लान बना रहे थे, लेकिन चुनाव से कुछ घंटे पहले ही अमेरिका ने ईरान पर हमले कर दिए।
-
-### [‘युद्ध और चुनाव दोनों में डोनाल्ड ट्रंप की हार, हम उन्हें फिर हराएंगे’, ईरान ने दी चेतावनी](https://www.patrika.com/world-news/donald-trump-defeated-in-war-and-election-iran-warns-to-impose-further-defeats-on-him-21030227)
-*Patrika (World)* - Nov 04, 17:32 IST (iso: 2026-11-04T12:02:57+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/gholam_d90269.webp -->
-
-ईरान ने कहा कि ट्रंप युद्ध और चुनाव दोनों में हारे हैं और उन्हें फिर हराया जाएगा। अमेरिकी मध्यावधि चुनाव में डेमोक्रेटिक पार्टी ने हाउस और सीनेट दोनों में बहुमत हासिल की। रिपब्लिकन पार्टी को करारा झटका लगा। राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) की रिपब्लिकन पार्टी की हार हुई है। डेमोक्रेटिक पार्टी को शानदार जीत हासिल हुई है। अमेरिकी हाउस ऑफ रिप्रेज़ेन्टेटिव और सीनेट दोनों में ही डेमोक्रेटिक पार्टी को बहुमत हासिल हो गया है।
-
-### [अमेरिका के खिलाफ ईरान का नया प्लान तैयार, अगर फिर हुआ हमला तो दिया जाएगा करारा जवाब](https://www.patrika.com/world-news/iran-prepares-maximum-deterrence-plan-if-us-attacks-again-21030161)
-*Patrika (World)* - Nov 04, 16:03 IST (iso: 2026-11-04T10:33:59+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/iran-army.webp -->
-
-अमेरिकी सेना ने ईरान के केशम द्वीप पर सीमित हमले किए। ईरान ने अब नया प्रतिशोध योजना तैयार कर ली है। यह फैसला अगले संभावित हमले के जवाब के लिए लिया गया है। अमेरिका (United States of America) की सेना ने देश में मिडटर्म चुनाव से कुछ घंटे पहले ईरान (Iran) पर फिर से हमले कर दिए। अमेरिकी सेना ने होर्मुज स्ट्रेट (Strait of Hormuz) के पास स्थित केशम आइलैंड (Qeshm Island) पर हमले किए।
-
-### [भारत के लिए खुला होर्मुज का गेट, दुनिया में तेल संकट के बीच ईरान ने दी गुड न्यूज; क्या है संदेश?](https://hindi.news18.com/news/nation/who-gets-passage-through-hormuz-strait-iran-grants-exemptions-to-select-nations-including-india-10962884.html)
-*News18 Hindi (World)* - Nov 04, 15:42 IST (iso: 2026-11-04T10:12:27+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Hormuz-Strait-2026-11-12fec81680c6ddf7f92298b637c00066-1200x800.jpg -->
-
-ईरान ने भारत समेत चार देशों को होर्मुज जलडमरूमध्य से गुजरने की छूट दी। यह फैसला भारत के कच्चे तेल आयात के लिए महत्वपूर्ण है। यह रणनीतिक और आर्थिक रास्ता खोलता है। India Iran Relations: पश्चिम एशिया में जारी तनाव के बीच होर्मुज जलडमरूमध्य से जहाजों की आवाजाही को लेकर ईरान के एक फैसले ने भारत के लिए अहम रणनीतिक और आर्थिक रास्ता खोलने का दावा किया है.
-
-### [यमन में सेना के अल-जुमैमा कैंप पर हूती विद्रोहियों ने किया मिसाइल अटैक, कई नए सैनिकों की मौत](https://www.patrika.com/world-news/houthis-launch-missile-attack-on-new-recruits-in-al-jumaimah-army-camp-multiple-casualties-reported-21030058)
-*Patrika (World)* - Nov 04, 15:27 IST (iso: 2026-11-04T09:57:40+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/houthis-missile-strike.webp -->
-
-यमन के धले प्रांत में हूतियों ने अल-जुमैमा कैंप पर मिसाइल हमला किया। कई नए सैनिकों की मौत हुई। यह हमला दोनों पक्षों के बीच बढ़ते संघर्ष का हिस्सा है। यमन (Yemen) में हालात काफी बिगड़ गए हैं। हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच चल रही जंग बढ़ती ही जा रही है। दोनों पक्ष एक-दूसरे के कब्ज़े वाले इलाकों पर हमले कर रहे हैं, जिससे एक-दूसरे को कमजोर किया जा सके।
-
-### [होर्मुज स्ट्रेट में तेल के चार जहाज बने समुदी बारूदी सुरंगों का शिकार, ईरानी नेवी को चकमा देने की](https://www.patrika.com/world-news/four-tankers-explode-in-strait-of-hormuz-due-to-naval-mines-while-trying-to-deceive-iran-navy-21029948)
-*Patrika (World)* - Nov 04, 15:06 IST (iso: 2026-11-04T09:36:22+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/ship-accident-in-hormuz.webp -->
-
-इरान ने होर्मुज स्ट्रेट को बंद कर दिया है। अमेरिकी नौसेना ने जहाजों को अवैध मार्गों से गुजरने की अनुमति दी। चार तेल जहाज समुद्री मीन के शिकार बने। ईरानी नौसेना ने इन पर हमला किया। होर्मुज स्ट्रेट (Strait of Hormuz) को ईरान (Iran) ने बंद कर रखा है और सभी को यह चेतावनी दी है कि अगर किसी भी जहाज ने ईरान द्वारा घोषित अवैध रास्तों से गुज़रने की कोशिश की, तो उनके लिए सही नहीं होगा।
+अमेरिकी मिडटर्म चुनाव में डेमोक्रेटिक पार्टी ने सीनेट और हाउस ऑफ रिप्रेजेंटेटिव्स दोनों में बहुमत हासिल किया। इससे डोनाल्ड ट्रंप की संसदीय पकड़ पूरी तरह समाप्त हो गई। अब उनके पास कानून बनाने या बजट पारित करने की प्रभावी शक्ति नहीं बची है। Sushant Sinha Desh Ki Pathshala: अमेरिका के मिडटर्म इलेक्शन के रिजल्ट में डोनाल्ड ट्रंप सिर्फ हारे नहीं है, पब्लिक ने वहां पर उनकी पार्टी को बिल्कुल रगड़ दिया है.
 
 ---
 
-## एशिया-प्रशांत
+## दुनिया
 
-### [अमी बेरा कौन हैं? भारतीय मूल के अमेरिकी सांसद का राजनीतिक सफर, लगातार आठवीं जीत और भारत से जुड़ाव](https://www.patrika.com/world-news/ami-bera-wins-eighth-term-us-congress-california-21031063)
-*Patrika (World)* - Nov 04, 23:13 IST (iso: 2026-11-04T17:43:39+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Ami-Bera.webp -->
+### [त्योहारी सीजन में ऑनलाइन ठगी से कैसे बचाएं अपना पैसा, एक क्लिक से खाली हो सकता है बैंक खाता](https://www.amarujala.com/business/business-diary/how-to-protect-your-money-from-online-fraud-during-festive-season-single-click-could-empty-your-bank-account-2026-11-05)
+*Amar Ujala National* - Nov 05, 05:03 IST (iso: 2026-11-04T23:33:47+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/24/saibra-thaga-sa-bcana-ka-upaya_fbccc3c0c0f88d4a980ade9ead7aaeb9.jpeg?w=1200&dpr=1.0 -->
 
-कैलिफोर्निया के तीसरे जिले से अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत दर्ज की। उन्होंने रिपब्लिकन प्रत्याशी रॉब टकर को हराया। बेरा 2013 से सैक्रामेंटो काउंटी का प्रतिनिधित्व कर रहे हैं और भारतीय मूल के प्रमुख नेताओं में शामिल हैं। Who Is Ami Bera: भारतीय मूल के अमेरिकी सांसद अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत हासिल की है।
+त्योहारी सीजन में ऑनलाइन ठगी बढ़ रही है। एक गलत क्लिक से बैंक खाता खाली हो सकता है। सावधानी बरतें। त्योहारी सीजन में ऑनलाइन ठगी से कैसे बचाएं अपना पैसा, एक क्लिक से खाली हो सकता है बैंक खाता।
 
-### [अमेरिकी मिडटर्म चुनाव में चमके भारतीय मूल के 7 नेता, आखिरी वाले की किस्मत क्यों खराब निकली?](https://hindi.news18.com/world/america-pia-dandiya-to-ro-khanna-how-indian-americans-fared-in-the-us-midterms-and-why-vivek-ramaswamy-lost-photogallery-10963808.html)
-*News18 Hindi (World)* - Nov 04, 20:51 IST (iso: 2026-11-04T15:21:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-Midterms-2026-Indian-American-Leaders-2026-11-38eede172a44de8b5f8e705546292e4b-1200x800.jpg -->
+### [ऑनलाइन आवेदन प्रक्रिया में बड़ा बदलाव, फॉर्म-6 और घोषणा पत्र को किया अलग; अब इस तरह जुड़ेगा नाम](https://www.amarujala.com/india-news/rules-for-becoming-voter-changed-now-separate-otp-and-e-signatures-will-required-form-6-and-declaration-form-2026-11-05)
+*Amar Ujala National* - Nov 05, 03:53 IST (iso: 2026-11-04T22:23:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/canava-aayaga_bd18721ba3ac6e9fa0b288c81137cc0b.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी मिडटर्म चुनाव में भारतीय मूल के सात नेता मैदान में उतरे। इनमें से कुछ ने जीत दर्ज कर इतिहास रचा। एक नेता को हार का सामना करना पड़ा। अमेरिकी मिडटर्म चुनावों के नतीजे सिर्फ अमेरिकी राजनीति के लिए ही नहीं, बल्कि भारतीय-अमेरिकी समुदाय के लिए भी बेहद दिलचस्प रहे हैं. इस बार चुनावी मैदान में कई भारतीय चेहरे उतरे, जिनमें से कुछ ने शानदार जीत दर्ज करके इतिहास रच दिया, तो कुछ को हार का सामना भी करना पड़ा.
+मतदाता सूची सुधार अभियान में ऑनलाइन आवेदन प्रक्रिया बदली गई है। फॉर्म-6 और घोषणा पत्र अब अलग-अलग हैं और दोनों के लिए अलग ओटीपी और इ-सिग्नेचर ज़रूरी है। एसआईआर: ऑनलाइन आवेदन प्रक्रिया में बड़ा बदलाव, फॉर्म-6 और घोषणा पत्र को किया अलग; अब इस तरह जुड़ेगा नाम- Rules for becoming voter changed!
 
-### [भारत के 'अस्त्र' को चुनौती देगा पाकिस्तान का ‘फुस्स बम’, क्या है 'फाज' मिसाइल की इकलौती पावर?](https://hindi.news18.com/world/pakistan-pakistan-tests-indigenous-faaz-air-to-air-missile-can-it-really-challenge-india-astra-and-rafale-jets-10963459.html)
-*News18 Hindi (World)* - Nov 04, 18:18 IST (iso: 2026-11-04T12:48:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Faaz-Missile-2026-11-39bfa8787e1d1da2518bc9f4bb2353f8-1200x800.jpg -->
+### [दत्तात्रेय होसबाले का विपक्ष पर निशाना, पूछा- मतदाता सूची सुधारने में गलत क्या?](https://www.amarujala.com/india-news/rss-in-support-of-sir-dattatreye-hosabale-targets-opposition-asks-what-is-wrong-with-improving-electoral-roll-2026-11-05)
+*Amar Ujala National* - Nov 05, 03:38 IST (iso: 2026-11-04T22:08:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/thatatataraya-hasabl_11748b49e7fb764dae3077f6e8bf7963.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान ने 'फाज़' मिसाइल की रेंज और स्पीड के आंकड़े छुपाए हैं। डिफेंस एक्सपर्ट्स का मानना है कि बिना पुख्ता सबूत के इस मिसाइल का कोई खास मतलब नहीं है। पाकिस्तान ने अपनी नई एयर-टू-एयर मिसाइल 'फाज़' का सफल परीक्षण करने का दावा किया है. उनका कहना है कि ये लंबी दूरी की मिसाइल है और इसमें 'एडवांस्ड टर्मिनल गाइडेंस सिस्टम' लगा है.
+आरएसएस प्रमुख दत्तात्रेय होसबाले ने विपक्ष पर मतदाता सूची सुधार अभियान के खिलाफ बयान देने का आरोप लगाया। उन्होंने पूछा कि सूची में सुधार लाने में गलत क्या है और प्रक्रिया का समर्थन किया। दत्तात्रेय होसबाले का विपक्ष पर निशाना, पूछा- मतदाता सूची सुधारने में गलत क्या?
+
+### ['विदेश दौरे बंद करें, तभी जीतेंगे': रिजिजू का राहुल पर तंज, कहा- भाजपा को दुश्मन नहीं, सियासी](https://www.amarujala.com/india-news/kiren-rijiju-dig-rahul-gandhi-tells-him-stop-secret-foreign-trips-and-advises-him-view-bjp-political-opponent-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 01:52 IST (iso: 2026-11-04T20:22:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/katharaya-sasathaya-karaya-matara-karana-rajaja_09a7315c1b7100e464a5151d297c747e.jpeg?w=1200&dpr=1.0 -->
+
+किरण रिजिजू ने राहुल गांधी से विदेश दौरे रोकने की सलाह दी। उन्होंने कहा कि भाजपा को दुश्मन नहीं, बल्कि राजनीतिक विरोधी मानना चाहिए। यह टिप्पणी चुनावी रणनीति के संदर्भ में की गई। 'विदेश दौरे बंद करें, तभी जीतेंगे': रिजिजू का राहुल पर तंज, कहा- भाजपा को दुश्मन नहीं, सियासी।
+
+### [हरियाणा की पंजाबी बेल्ट में आज पहुंचेंगे गृह मंत्री शाह, करनाल पदयात्रा में कांग्रेस होगी निशाने पर](https://www.amarujala.com/haryana/karnal/politics-home-minister-shah-to-visit-haryana-s-punjabi-belt-today-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 01:44 IST (iso: 2026-11-04T20:14:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/1_26a78cf2b2c1be2a481ac46668f6f21d.jpeg?w=1200&dpr=1.0 -->
+
+गृह मंत्री अमित शाह 5 नवंबर को हरियाणा की पंजाबी बेल्ट पहुंच रहे हैं। उनका करनाल पदयात्रा में शामिल होने का कार्यक्रम है। इस दौरान कांग्रेस पर राजनीतिक निशाना साधा जाएगा। केंद्रीय गृह मंत्री अमित शाह पांच नवंबर को हरियाणा की उस पंजाबी बेल्ट में होंगे जिसका राजनीतिक और सामाजिक प्रभाव पंजाब तक जाता है। हरियाणा की पंजाबी बेल्ट में आज पहुंचेंगे गृह मंत्री शाह, करनाल पदयात्रा में कांग्रेस होगी निशाने पर।
+
+### ['73% युवाओं ने बुलाया है', PM मोदी को डिबेट के लिए चैलेंज के बाद अब राहुल ने किया ये ट्वीट](https://www.abplive.com/news/india/rahul-gandhi-says-pm-modi-not-going-anywhere-debate-challenge-3211139)
+*ABP Live (India)* - Nov 04, 23:15 IST (iso: 2026-11-04T17:45:55+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/04/94ce1e49e42781da490cd5ad3fdf96a41793811718327708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+राहुल गांधी ने प्रधानमंत्री नरेंद्र मोदी को डिबेट चैलेंज के बाद एक वीडियो शेयर किया। इसमें केंद्रीय मंत्री अर्जुन राम मेघवाल 'मोदी कहीं नहीं जाएंगे' के ऑडियो के साथ दिख रहे हैं। गांधी ने कैप्शन में लिखा कि मोदी डिबेट में आएंगे, जिसमें 73 फीसदी युवाओं ने बुलाया है। लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने प्रधानमंत्री नरेंद्र मोदी को डिबेट चैलेंज देने के बाद एक वीडियो शेयर किया है, जिसमें उन्होंने बीजेपी पर तंज कसा है.
 
 ---
 
 ## यूरोप और रूस
+
+### [एक हफ्ते के भीतर अमेरिका समेत तीनों देशों करेंगे बातचीत, जेलेंस्की ने दी जानकारी](https://www.amarujala.com/world/ukraine-us-russia-trilateral-talks-on-to-end-war-within-week-zelenskyy-witkoff-kushner-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 04:28 IST (iso: 2026-11-04T22:58:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/zelensky_6f64bdb8208c483f454ab9b3b70e8b34.jpeg?w=1200&dpr=1.0 -->
+
+जेलेंस्की ने कहा कि एक हफ्ते के भीतर अमेरिका, रूस और यूक्रेन बातचीत करेंगे। यह युद्ध समाधान की ओर कदम है। रूस-यूक्रेन युद्ध होगा खत्म?: एक हफ्ते के भीतर अमेरिका समेत तीनों देशों करेंगे बातचीत, क्या बोले जेलेंस्की? एक हफ्ते के भीतर अमेरिका समेत तीनों देशों करेंगे बातचीत, जेलेंस्की ने दी जानकारी।
+
+### [यूक्रेन की EU सदस्यता से लेकर पैट्रियट मिसाइलों तक, रूस के साथ युद्ध के बीच कैसे बदल रही है उसकी](https://www.patrika.com/world-news/ukraine-eu-membership-roadmap-patriot-missile-deal-us-21031076)
+*Patrika (World)* - Nov 04, 23:51 IST (iso: 2026-11-04T18:21:52+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Volodymyr-Zelensky.webp -->
+
+यूरोपीय आयोग ने बुधवार को यूक्रेन सहित चार देशों के लिए यूरोपीय संघ की सदस्यता का रोडमैप पेश किया। आयोग ने यूक्रेन से सुधारों की गति बढ़ाने की मांग की है। इससे 2028 के अंत तक सदस्यता वार्ता पूरी करने का लक्ष्य हासिल करने की उम्मीद जताई गई है। Ukraine EU Membership: यूक्रेन की यूरोपीय संघ (EU) की सदस्यता हासिल करने की कोशिशों को नई गति मिली है।
 
 ### [जिनपिंग, पुतिन और ट्रंप की महा-मुलाकात, क्या है शैनजेन APEC समिट का खेल, 3 सुपरपावर्स पलटने वाले](https://hindi.news18.com/news/knowledge/apec-summit-2026-xi-jinping-vladimir-putin-and-donald-trump-to-hold-historic-g3-meeting-in-shenzhen-10964023.html)
 *News18 Hindi (World)* - Nov 04, 22:22 IST (iso: 2026-11-04T16:52:06+00:00)
@@ -150,23 +150,31 @@
 
 नवंबर 2026 में शैनजेन में APEC शिखर सम्मेलन से पहले ट्रंप, शी और पुतिन की त्रिपक्षीय बैठक की चर्चा है। मॉस्को और वॉशिंगटन इस मुलाकात के पक्ष में हैं। चीन इस प्रस्ताव पर सावधानी बरत रहा है। नवंबर 2026 में चीन के शैनज़ेन शहर में APEC शिखर सम्मेलन होने जा रहा है. इस सम्मेलन से पहले अमेरिका, चीन और रूस के बीच एक ऐतिहासिक त्रिपक्षीय (G3) बैठक की चर्चाएं तेज हो गई हैं.
 
-### [फ्रांस के कई ब्लड बैंक पर साइबर अटैक, स्वास्थ्य मंत्रालय में मचा हड़कंप, क्या-क्या हुआ नुकसान?](https://www.patrika.com/world-news/france-blood-banks-cyber-attack-health-ministry-21030711)
-*Patrika (World)* - Nov 04, 18:40 IST (iso: 2026-11-04T13:10:06+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/cyber-fraud.webp -->
+---
 
-पाकिस्तान ने अपनी नई एयर-टू-एयर मिसाइल 'फाज़' का सफल परीक्षण करने का दावा किया। यह लंबी दूरी की मिसाइल है। इसमें एडवांस्ड टर्मिनल गाइडेंस सिस्टम लगा है। फ्रांस में स्वास्थ्य सेवाओं से जुड़े संस्थानों पर साइबर हमले हुए हैं। 2 नवंबर को कई ब्लड बैंकों को साइबर हमलावरों ने निशाना बनाया। इस घटना के बाद स्वास्थ्य विभाग में हड़कंप मच गया है।
+## एशिया-प्रशांत
 
-### [जॉर्जिया को मिली पहली अश्वेत महिला गवर्नर, 56 साल की कीशा ने रचा इतिहास, बाइडन की रह चुकी हैं](https://hindi.news18.com/world/america-us-midterm-election-2026-result-who-is-keisha-lance-bottoms-first-black-governor-of-georgia-ws-l-10963438.html)
-*News18 Hindi (World)* - Nov 04, 17:53 IST (iso: 2026-11-04T12:23:19+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/black-governor-2026-11-e4d08819ce91f86bb9e7c2e22824201a-1200x800.jpg -->
+### [जीडीपी को 84 अरब डॉलर तक बढ़ा सकता है एआई: ट्रेनिंग में भारत दुनिया से आगे, रिपोर्ट में और क्या](https://www.amarujala.com/business/business-diary/india-ai-adoption-gdp-growth-84-billion-productivity-cognizant-study-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 03:53 IST (iso: 2026-11-04T22:23:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/ai_f7af5be97cef574b911ac20cb4363000.jpeg?w=1200&dpr=1.0 -->
 
-जॉर्जिया में कीशा, 56 वर्षीय पूर्व बाइडन सलाहकार, पहली अश्वेत महिला गवर्नर बनीं। मध्यावधि चुनाव में यह ऐतिहासिक जीत दर्ज हुई। राज्य के नेतृत्व में पहली बार महिला का चयन हुआ। Who is First Black Governor OF Georgia: अमेरिका में हुए मध्यावधि चुनाव में कई ऐसे ऐतिहासिक नतीजे आए हैं, जो अब तक पहली बार हुआ है. कुछ ऐसा ही जॉर्जिया के गवर्नर के पद के साथ हुआ, जहां पर पहली बार जनता ने अश्वेत महिला गवर्नर चुनी है.
+कोग्निजेंट की रिपोर्ट के अनुसार एआई से भारत की जीडीपी 84 अरब डॉलर तक बढ़ सकती है। भारत एआई ट्रेनिंग में विश्व स्तर पर आगे है और उत्पादकता में उल्लेखनीय सुधार की उम्मीद है। जीडीपी को 84 अरब डॉलर तक बढ़ा सकता है एआई: ट्रेनिंग में भारत दुनिया से आगे, रिपोर्ट में और क्या खुलासे?
 
-### [यूक्रेन से जंग के 1200 दिन पूरे, रूस ने किया अब तक का सबसे खौफनाक धमाका, बारी-बारी कैसे झुलस रहे](https://hindi.news18.com/world/europe-russia-ukraine-war-day-1200-russia-launches-biggest-air-strike-on-kharkiv-hospital-power-grids-ahead-of-abu-dhabi-peace-talks-10963007.html)
-*News18 Hindi (World)* - Nov 04, 16:17 IST (iso: 2026-11-04T10:47:36+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Russia-Ukraine-War-2026-11-7665b4235133c790e85e9b2b6b98de81-1200x800.jpg -->
+### [अमी बेरा कौन हैं? भारतीय मूल के अमेरिकी सांसद का राजनीतिक सफर, लगातार आठवीं जीत और भारत से जुड़ाव](https://www.patrika.com/world-news/ami-bera-wins-eighth-term-us-congress-california-21031063)
+*Patrika (World)* - Nov 04, 23:13 IST (iso: 2026-11-04T17:43:39+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Ami-Bera.webp -->
 
-रूस ने यूक्रेन पर 289 ड्रोन और 73 मिसाइलों से अब तक का सबसे बड़ा हमला किया। खारकीव का एक अस्पताल तबाह हुआ और नौ राज्यों की बिजली आपूर्ति ठप हुई। युद्ध के 1200 दिन पूरे हुए हैं। रूस और यूक्रेन जंग को 1200 दिन से ज्यादा हो चुके हैं. अब हालात बहुत बिगड़ चुके हैं. रूस ने यूक्रेन पर अब तक का सबसे बड़ा हमला कर दिया है.
+कैलिफोर्निया के तीसरे जिले से अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत दर्ज की। उन्होंने रिपब्लिकन प्रत्याशी रॉब टकर को हराया। बेरा 2013 से सैक्रामेंटो काउंटी का प्रतिनिधित्व कर रहे हैं और भारतीय मूल के प्रमुख नेताओं में शामिल हैं। Who Is Ami Bera: भारतीय मूल के अमेरिकी सांसद अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत हासिल की है।
+
+---
+
+## वैश्विक / बहुपक्षीय
+
+### [अयोध्या में दीपोत्सव आज से, नजर आएगी अंतरराष्ट्रीय संस्कृति की झलक; पांच दिन तक दमकेंगे परंपरा के](https://www.amarujala.com/delhi-ncr/up-deepotsav-begins-today-in-ayodhya-a-glimpse-of-international-culture-to-be-on-display-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 03:13 IST (iso: 2026-11-04T21:43:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/1_406d90dba9eb85de71623980fc9cda13.jpeg?w=1200&dpr=1.0 -->
+
+अयोध्या में पांच दिवसीय दीपोत्सव शुरू हो गया है। इस दौरान अंतरराष्ट्रीय संस्कृति की प्रदर्शनी भी आयोजित की गई है। परंपरागत दीपों की रोशनी से शहर सजा हुआ है। रामनगरी दीपोत्सव के उल्लास में सराबोर होने को तैयार है। अयोध्या में दीपोत्सव आज से, नजर आएगी अंतरराष्ट्रीय संस्कृति की झलक; पांच दिन तक दमकेंगे परंपरा के।
 
 ---
 

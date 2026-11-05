@@ -1,16 +1,38 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 04, 2026 23:48 IST
+**Updated:** November 05, 2026 05:31 IST
+
+---
+
+## Americas
+
+### [Accountability Day](https://asiatimes.com/2026/11/accountability-day/)
+*Asia Times* - Nov 05, 00:52 IST (iso: 2026-11-04T19:22:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/unnamed.jpg -->
+
+Trump campaigned heavily in the final weeks of the midterms, contradicting his earlier dismissal of the race. He delivered a bizarre speech on November 2, marking a sharp shift in his engagement with the electoral process. Let me offer an apology. When I wrote a month ago that “Plainly, Trump does not care about the mid-terms” I was wrong, at least in part.
+
+### [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
+*The Guardian* - Nov 03, 18:30 IST (iso: 2026-11-03T13:00:07+00:00)
+<!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
+
+Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
+
+### [Breaking the silence in Mexico’s barracks](https://news.un.org/feed/view/en/story/2026/11/1168715)
+*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg -->
+
+Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.
 
 ---
 
 ## Middle East & Africa
 
-### [United Nations report says genocide continues in Gaza](https://www.thehindu.com/news/international/united-nations-report-says-genocide-continues-in-gaza/article71666146.ece)
-*The Hindu (International)* - Nov 04, 22:56 IST (iso: 2026-11-04T17:26:00+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/siw/article71667070.ece/alternates/LANDSCAPE_1200/APTOPIX_Israel_Palestinians_Gaza_1_51.jpg -->
+### [Vance tries to distance himself from Iran war after Republican Party’s deep losses in midterm](https://www.thehindu.com/news/international/vance-tries-to-distance-himself-from-iran-war-after-republican-partys-deep-losses-in-midterm-elections/article71667348.ece)
+*The Hindu (International)* - Nov 05, 00:28 IST (iso: 2026-11-04T18:58:19+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/qqs4ai/article71667361.ece/alternates/LANDSCAPE_1200/AFP__20261104__D6FC8KE__v1__HighRes__UsMidtermElections.jpg -->
 
-A United Nations report confirms ongoing genocide in Gaza. It cites systematic attacks on civilians and state policy. Security forces knowingly participated in these actions. The findings establish intent and widespread harm against the population. The Israeli violations include widespread or systematic attacks directed against the civilian population, state policy, and the fact that the security forces knew the acts constituted part of an attack against the civilian population and so intended them (mens rea).
+J. D. Vance blamed the unpopular Iran conflict for the Republican Party's midterm losses. He posted on social media to distance himself from the war, noting he will decide on a 2028 presidential run after the election. Vance, who has said he would decide after the election whether to run for President in 2028, issued a lengthy social media post blaming the unpopular conflict with Iran for the Grand Old Party’s drubbing.
 
 ### [ANC faces anger over poor services as South Africans vote in local elections](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
 *The Guardian* - Nov 04, 20:20 IST (iso: 2026-11-04T14:50:47+00:00)
@@ -54,33 +76,11 @@ António Guterres stated the UN remains committed to a political solution in Wes
 
 Reuters journalist Giulia Paravicini reported from Asmara about daily life in Eritrea. She examined the isolated nation's leadership strategies during regional instability. Her findings highlight the country's complex diplomatic posture amid rising tensions with neighboring Ethiopia. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
 
----
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Oct 30, 05:30 IST (iso: 2026-10-30T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-## Americas
-
-### [U.S. midterm election results: Senate, House and Governor shifts before and after](https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece)
-*The Hindu (International)* - Nov 04, 22:11 IST (iso: 2026-11-04T16:41:17+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/j2s5sp/article71663845.ece/alternates/LANDSCAPE_1200/2026-11-04T030116Z_716209600_RC2QGOA7QDFN_RTRMADP_3_USA-ELECTION-GEORGIA.JPG -->
-
-Democrats took full control of Congress in the November 2026 midterms. They flipped both the Senate and House. The party gained seats in key battlegrounds and Republican strongholds. This marks a significant shift from the 2022 election results. Democrats surged to full control of Congress in the November 2026 U. S. midterm elections, flipping the Senate and House after winning net seats across key battlegrounds and sweeping into Republican strongholds.
-
-### [Opinion | Trump's Midterm Rout Has One More Victim: JD Vance](https://www.ndtv.com/opinion/trumps-midterm-rout-has-one-more-victim-jd-vance-12282706#publisher=newsstand)
-*NDTV World* - Nov 04, 18:43 IST (iso: 2026-11-04T13:13:03+00:00)
-<!-- image: https://c.ndtvimg.com/2026-10/t3v6t71k_trump-vance-reuters_625x300_29_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720 -->
-
-JD Vance suffered a political setback in the 2026 midterms. Ohio elected a Democratic governor and a Democratic senator. Vance had campaigned heavily and served as RNC finance chair. His home state rejected the Republican ticket he supported. Vance campaigned as hard as the President, served as the Republican National Committee's finance chair. He watched his home state of Ohio elect a Democratic governor and send a Democrat to the Senate seat he gave up to become Vice President.
-
-### [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
-*The Guardian* - Nov 03, 18:30 IST (iso: 2026-11-03T13:00:07+00:00)
-<!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
-
-Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
-
-### [Breaking the silence in Mexico’s barracks](https://news.un.org/feed/view/en/story/2026/11/1168715)
-*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg -->
-
-Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.
+Crisis Group publishes a weekly scan of global conflicts and crises. Their field experts highlight under-reported trends and major developments, explaining why specific hotspots matter and what actions should follow. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
 
 ---
 
