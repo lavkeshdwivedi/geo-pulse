@@ -1,180 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 05, 2026 05:31 IST
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### ['ईरान युद्ध के कारण हारे मध्यावधि चुनाव': ट्रंप ने भी माना वजह, कहा- आगे भी जारी रहेगी कार्रवाई; और](https://www.amarujala.com/world/midterm-elections-lost-due-to-iran-war-trump-acknowledges-says-actions-will-continue-what-else-did-he-say-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 12:38 IST (iso: 2026-11-05T07:08:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/amaraka-rashhatarapata-tarapa_82866ffaed04edf53b0f583f932b6f28.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप ने ईरान युद्ध को अमेरिकी मध्यावधि चुनावों में हार का मुख्य कारण माना। उन्होंने कहा कि कार्रवाई जारी रहेगी। 'ईरान युद्ध के कारण हारे मध्यावधि चुनाव': ट्रंप ने भी माना वजह, कहा- आगे भी जारी रहेगी कार्रवाई; और क्या बोले?
-
-### [नतीजों पर खामेनेई की दो टूक, कहा- समझौते की उम्मीद करना बड़ी भूल, हम नहीं बदलेगें रुख](https://www.amarujala.com/world/mojtaba-khamenei-says-us-midterm-results-will-not-change-irans-stance-defense-policy-2026-11-05)
-*Amar Ujala World* - Nov 05, 12:10 IST (iso: 2026-11-05T06:40:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/mojtaba-khamenei_98ef0b59b3849fd6ce9827bd7b49032a.jpeg?w=1200&dpr=1.0 -->
-
-खामेनेई ने कहा कि अमेरिकी चुनाव परिणाम ईरान की रक्षा नीति नहीं बदलेंगे। उन्होंने समझौते की उम्मीद को बड़ी भूल बताया। नतीजों पर खामेनेई की दो टूक, कहा- समझौते की उम्मीद करना बड़ी भूल, हम नहीं बदलेगें रुख।
-
-### [ईरान को तेल प्रतिबंधों से बचाने का आरोप: अमेरिका ने भारतीय दंपती पर लगाया बैन, स्कॉट बेसेंट ने दी](https://www.amarujala.com/world/us-sanctions-indian-couple-companies-maritime-fraud-iran-oil-trade-scott-bessent-warns-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 04:21 IST (iso: 2026-11-04T22:51:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/us-sanctions_fd69b641bafdb98ba4bea2bc3534ab45.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका ने ईरानी तेल व्यापार में भ्रष्टाचार के आरोप में एक भारतीय दंपति और उनके कंपनियों पर प्रतिबंध लगाए। खजाना मंत्री स्कॉट बेसेंट ने चेतावनी दी कि ऐसे कारोबारियों के खिलाफ कड़ी कार्रवाई होगी। ईरान को तेल प्रतिबंधों से बचाने का आरोप: अमेरिका ने भारतीय दंपती पर लगाया बैन, स्कॉट बेसेंट ने दी।
-
-### ['ईरान युद्ध खत्म करना डेमोक्रेट्स का एजेंडा': मध्यावधि चुनाव में जीत पर बोले चक शूमर, ट्रंप को लेकर](https://www.amarujala.com/world/ending-war-with-iran-is-democrats-agenda-chuck-schumer-on-midterm-election-victory-what-did-he-say-about-trump-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 04:14 IST (iso: 2026-11-04T22:44:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/caka-shamara_b3215aeb974546669d1b6f3bf43e0e50.jpeg?w=1200&dpr=1.0 -->
-
-चक शूमर ने मध्यावधि चुनावों में डेमोक्रेट्स की जीत को ईरान युद्ध समाप्त करने के एजेंडा से जोड़ा। उन्होंने ट्रंप प्रशासन पर आक्रामक विदेश नीति अपनाने का आरोप लगाया और शांति की बात की। 'ईरान युद्ध खत्म करना डेमोक्रेट्स का एजेंडा': मध्यावधि चुनाव में जीत पर बोले चक शूमर, ट्रंप को लेकर।
-
-### [अमेरिका के मियामी में हेलीकॉप्टर दुर्घटनाग्रस्त, एक की मौत और दो गंभीर रूप से घायल](https://www.amarujala.com/world/world-news-updates-hindi-us-helicopter-crash-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-11-05)
-*Amar Ujala World* - Nov 05, 01:29 IST (iso: 2026-11-04T19:59:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका के मियामी में एक हेलीकॉप्टर दुर्घटनाग्रस्त हो गया। इस हादसे में एक व्यक्ति की मौत हो गई। दो अन्य यात्री गंभीर रूप से घायल हुए हैं। अमेरिका के मियामी में हेलीकॉप्टर दुर्घटनाग्रस्त, एक की मौत और दो गंभीर रूप से घायल।
-
-### [LPG हुआ बेतहाशा महंगा, आधी से कम हो गई गरीब परिवार की कमाई, कब रुकेगी ये तबाही?](https://hindi.news18.com/world/pakistan-pakistan-lpg-crisis-soaring-fuel-prices-force-rickshaw-drivers-to-cut-meals-as-us-iran-conflict-escalates-10964149.html)
-*News18 Hindi (World)* - Nov 04, 23:37 IST (iso: 2026-11-04T18:07:57+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/LPG-Expensive-2026-11-2f419d83f6668fb579856fcb0b848f79-1200x800.jpg -->
-
-अमेरिका-ईरान युद्ध के कारण पाकिस्तान में एलपीजी की कीमतें 56 प्रतिशत बढ़ गई हैं। ईरान सीमा बंद होने से रोजाना 7,000 मीट्रिक टन गैस की आपूर्ति रुक गई। लाहौर और कराची के ऑटो चालकों की रोज़ाना की कमाई आधी से भी कम हो गई है। अमेरिका-ईरान युद्ध की वजह से पाकिस्तान में एलपीजी 56% तक महंगी हो गई है. 'गरीबों का ईंधन' कही जाने वाली इस गैस के दाम बढ़ने से लाहौर और कराची के हजारों ऑटो चालकों के सामने रोजी-रोटी का संकट खड़ा हो गया है.
-
-### ['नतीजों को वैध मानें...', इजरायल के राष्ट्रपति इसाक हर्जोग ने चुनाव को दी कानूनी मान्यता](https://www.abplive.com/news/india/israeli-president-isaac-herzog-grants-legal-recognition-election-3211153)
-*ABP Live (India)* - Nov 04, 23:16 IST (iso: 2026-11-04T17:46:53+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/04/6407f795cd13baccae25fbe2ad04cac517938142237661324_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-इजरायल के राष्ट्रपति इसाक हर्जोग ने संसदीय चुनाव के नतीजों को कानूनी मान्यता दे दी। उन्होंने नई सरकार गठन के लिए विभिन्न दलों से बातचीत करने की घोषणा की। इस कदम से प्रधानमंत्री बेंजामिन नेतन्याहू को बड़ा झटका लगा, जिन्होंने नतीजों को अमान्य करने की कोशिश की थी। इजरायल के राष्ट्रपति इसाक हर्जोग ने संसदीय चुनाव के नतीजों को कानूनी रूप से मान लिया है.
-
-### [मिडटर्म में हार के बाद बदल गए ट्रंप, टीवी पर लाइव आकर कही ऐसी बातें, सुनने वाले हैरान रह गए](https://hindi.news18.com/world/america-donald-trump-live-on-tv-after-midterm-defeat-answers-news-reporter-call-republican-defeat-defends-iran-war-10964040.html)
-*News18 Hindi (World)* - Nov 04, 22:57 IST (iso: 2026-11-04T17:27:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-On-Live-TV-2026-11-76150d53d6714ee8bfdea659db583a2f-1200x800.jpg -->
-
-मिडटर्म हार के बाद डोनाल्ड ट्रंप ने लाइव शो में हार की जिम्मेदारी लेने से इनकार कर दिया। उन्होंने दावा किया कि यदि वे स्वयं चुनाव लड़ते तो पार्टी जीत जाती। ट्रंप ने डेमोक्रेट्स के साथ सहयोग की इच्छा जताई, परंतु ईरान पर अपनी नीति पर कोई बदलाव नहीं किया। मिडटर्म चुनावों में रिपब्लिकन पार्टी की करारी हार हुई है.
-
-### [अमेरिका में रिपब्लिकन पार्टी की हार पर जेडी वेंस का बयान, बोले- ईरान युद्ध से नाराज थे ट्रंप के कई](https://www.patrika.com/world-news/jd-vance-republican-defeat-iran-war-us-midterm-elections-21031042)
-*Patrika (World)* - Nov 04, 22:35 IST (iso: 2026-11-04T17:05:52+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/JD-Vance.webp -->
-
-उपराष्ट्रपति जेडी वेंस ने 2026 के मिडटर्म चुनावों में रिपब्लिकन हार का कारण ईरान युद्ध बताया। उन्होंने कहा कि ट्रंप समर्थकों में इस युद्ध के प्रति नाराजगी थी। कई ऐसे मतदाताओं ने इस बार डेमोक्रेटिक पार्टी के उम्मीदवारों का समर्थन किया। JD Vance Statement: अमेरिका के उपराष्ट्रपति जेडी वेंस ने 2026 के मध्यावधि चुनावों में रिपब्लिकन पार्टी के खराब प्रदर्शन के पीछे ईरान युद्ध को एक बड़ी वजह बताया है।
-
-### ['ईरान जंग की वजह से हारे हम': आखिरकार फट पड़े जेडी वेंस, ट्रंप के मुंह पर दे मारी सच्चाई](https://hindi.news18.com/world/america-we-lost-because-of-iran-war-jd-vance-explodes-over-trump-midterm-defeat-and-reveals-major-rift-in-republican-10963920.html)
-*News18 Hindi (World)* - Nov 04, 22:10 IST (iso: 2026-11-04T16:40:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/JD-Vance-On-Midterm-Defeat-2026-11-8e75d248209adb6826c7fafa2a9f7e9e-1200x800.jpg -->
-
-रिपब्लिकन पार्टी की मिडटर्म हार के बाद उपराष्ट्रपति जेडी वेंस ने ईरान युद्ध और महंगाई को असली कारण बताया। उन्होंने पार्टी नेताओं को हार के कारणों से ध्यान भटकाने से रोका। अमेरिकी मिडटर्म चुनावों में रिपब्लिकन पार्टी बुरी तरह हार गई है. इस हार के बाद उपराष्ट्रपति जेडी वेंस ने सोशल मीडिया पर एक धमाकेदार पोस्ट लिखा है. उनकी इस पोस्ट से पार्टी के अंदर बड़ा भूचाल आ गया है.
-
----
-
-## अमेरिका
-
-### [ट्रंप की अल्टीमेट पावर यानी वीटो क्या है, कैसे राष्ट्रपति कांग्रेस के फैसलों पर लगा सकते हैं रोक?](https://www.amarujala.com/world/what-is-donald-trump-ultimate-power-veto-how-can-president-block-decisions-made-by-congress-2026-11-05)
-*Amar Ujala World* - Nov 05, 05:25 IST (iso: 2026-11-04T23:55:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/tarapa-na-shayara-kaya-pasata_db008acf7e4e42c91bc1d826e7c2f2d5.jpeg?w=1200&dpr=1.0 -->
-
-राष्ट्रपति का वीटो अधिकार उन्हें कांग्रेस के पारित कानूनों को रोकने की अनुमति देता है। यह अमेरिकी संविधान की प्रमुख शक्ति है। ट्रंप की अल्टीमेट पावर यानी वीटो क्या है, कैसे राष्ट्रपति कांग्रेस के फैसलों पर लगा सकते हैं रोक?
-
-### [फ्लोरिडा में सिटीबैंक के ऑफिस कॉम्प्लेक्स में फायरिंग, संदिग्ध समेत दो की मौत](https://www.amarujala.com/world/florida-tampa-citibank-office-complex-shooting-two-dead-suspect-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 01:21 IST (iso: 2026-11-04T19:51:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/tampa-citibank-shooting_efa4f3b808d46f8f74db20ec5d325263.jpeg?w=1200&dpr=1.0 -->
-
-फ्लोरिडा के टैम्पा में सिटीबैंक के कार्यालय परिसर में गोलीबारी हुई। इसमें संदिग्ध समेत दो लोगों की मौत हो गई। घटना के बाद पुलिस ने स्थिति पर नियंत्रण जमा लिया है। फ्लोरिडा में सिटीबैंक के ऑफिस कॉम्प्लेक्स में फायरिंग, संदिग्ध समेत दो की मौत।
-
-### [डोनाल्ड ट्रंप बन गए लेम डक प्रेसिडेंट, खुलने वाला है अरबों की कमाई का हर राज़; दामाद, परिवार, एलन](https://hindi.news18.com/world/america-donald-trump-become-lame-duck-president-us-midterm-election-result-democrats-win-and-republican-defeat-impact-on-india-sushant-sinha-desh-ki-pathshala-10964131.html)
-*News18 Hindi (World)* - Nov 04, 23:39 IST (iso: 2026-11-04T18:09:31+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Sushant-SInha-Desh-Ki-Pathshala-14-2026-11-442dd3d23817a6a2df8fded67d1d669b-1200x800.jpg -->
-
-अमेरिकी मिडटर्म चुनाव में डेमोक्रेटिक पार्टी ने सीनेट और हाउस ऑफ रिप्रेजेंटेटिव्स दोनों में बहुमत हासिल किया। इससे डोनाल्ड ट्रंप की संसदीय पकड़ पूरी तरह समाप्त हो गई। अब उनके पास कानून बनाने या बजट पारित करने की प्रभावी शक्ति नहीं बची है। Sushant Sinha Desh Ki Pathshala: अमेरिका के मिडटर्म इलेक्शन के रिजल्ट में डोनाल्ड ट्रंप सिर्फ हारे नहीं है, पब्लिक ने वहां पर उनकी पार्टी को बिल्कुल रगड़ दिया है.
+**अपडेट:** November 05, 2026 10:51 IST
 
 ---
 
 ## दुनिया
 
-### [त्योहारी सीजन में ऑनलाइन ठगी से कैसे बचाएं अपना पैसा, एक क्लिक से खाली हो सकता है बैंक खाता](https://www.amarujala.com/business/business-diary/how-to-protect-your-money-from-online-fraud-during-festive-season-single-click-could-empty-your-bank-account-2026-11-05)
-*Amar Ujala National* - Nov 05, 05:03 IST (iso: 2026-11-04T23:33:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/24/saibra-thaga-sa-bcana-ka-upaya_fbccc3c0c0f88d4a980ade9ead7aaeb9.jpeg?w=1200&dpr=1.0 -->
+### [10 में से 8 बार हरे निशान में बंद हुआ बाजार; जानें 8 नवंबर को बाजार में ट्रेडिंग कब?](https://www.amarujala.com/business/business-diary/diwali-muhurat-trading-2026-sensex-nifty-win-8-out-of-10-sessions-in-past-decade-check-date-timings-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:50 IST (iso: 2026-11-05T05:20:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/11/01/muhurat-trading-2024-live_0892a5b41b33714114962ab94bb1ce62.jpeg?w=1200&dpr=1.0 -->
 
-त्योहारी सीजन में ऑनलाइन ठगी बढ़ रही है। एक गलत क्लिक से बैंक खाता खाली हो सकता है। सावधानी बरतें। त्योहारी सीजन में ऑनलाइन ठगी से कैसे बचाएं अपना पैसा, एक क्लिक से खाली हो सकता है बैंक खाता।
+पिछले दशक में मुहूर्त ट्रेडिंग के दस में से आठ सत्रों में शेयर बाजार बढ़त के साथ बंद हुआ। 8 नवंबर 2026 को विशेष ट्रेडिंग सत्र का आयोजन किया जाएगा। ब्रोकरेज फर्मों ने संवत 2083 के लिए अपनी ट्रेडिंग रणनीतियां साझा की हैं। पिछले एक दशक में मुहूर्त ट्रेडिंग के 10 में से 8 सत्रों में शेयर बाजार बढ़त के साथ बंद हुआ है।
 
-### [ऑनलाइन आवेदन प्रक्रिया में बड़ा बदलाव, फॉर्म-6 और घोषणा पत्र को किया अलग; अब इस तरह जुड़ेगा नाम](https://www.amarujala.com/india-news/rules-for-becoming-voter-changed-now-separate-otp-and-e-signatures-will-required-form-6-and-declaration-form-2026-11-05)
-*Amar Ujala National* - Nov 05, 03:53 IST (iso: 2026-11-04T22:23:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/canava-aayaga_bd18721ba3ac6e9fa0b288c81137cc0b.jpeg?w=1200&dpr=1.0 -->
+### [धनतेरस के दिन घर में स्थापित करें इन 3 में से कोई एक यंत्र, करियर और आर्थिक स्थिति में हो सकता है](https://www.amarujala.com/spirituality/festivals/dhanteras-2026-shri-yantra-ganesh-yantra-or-kuber-yantra-know-which-one-to-bring-home-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:46 IST (iso: 2026-11-05T05:16:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/dhanteras-stahpit-yantra_98aaec3dce0269f244a75b59915480df.jpeg?w=1200&dpr=1.0 -->
 
-मतदाता सूची सुधार अभियान में ऑनलाइन आवेदन प्रक्रिया बदली गई है। फॉर्म-6 और घोषणा पत्र अब अलग-अलग हैं और दोनों के लिए अलग ओटीपी और इ-सिग्नेचर ज़रूरी है। एसआईआर: ऑनलाइन आवेदन प्रक्रिया में बड़ा बदलाव, फॉर्म-6 और घोषणा पत्र को किया अलग; अब इस तरह जुड़ेगा नाम- Rules for becoming voter changed!
+धनतेरस 2026 पर घर में श्री यंत्र, गणेश यंत्र या कुबेर यंत्र में से किसी एक की स्थापना करने की सलाह दी गई है। स्रोत में स्थापना की दिशा, मंत्र और धार्मिक महत्व के विवरण शामिल हैं। धनतेरस 2026 पर श्री यंत्र, गणेश यंत्र या कुबेर यंत्र में से कौन सा स्थापित करना शुभ है? जानें स्थापना की सही दिशा, मंत्र और धार्मिक महत्व।
 
-### [दत्तात्रेय होसबाले का विपक्ष पर निशाना, पूछा- मतदाता सूची सुधारने में गलत क्या?](https://www.amarujala.com/india-news/rss-in-support-of-sir-dattatreye-hosabale-targets-opposition-asks-what-is-wrong-with-improving-electoral-roll-2026-11-05)
-*Amar Ujala National* - Nov 05, 03:38 IST (iso: 2026-11-04T22:08:23+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/thatatataraya-hasabl_11748b49e7fb764dae3077f6e8bf7963.jpeg?w=1200&dpr=1.0 -->
+### [नए अवतार में आएगी फॉक्सवैगन वर्टस: टीजर में दिखा बदला लुक, डिजाइन से इंजन तक होंगे ये बदलाव; कब](https://www.amarujala.com/automobiles/volkswagen-virtus-facelift-teased-ahead-expected-december-2026-launch-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:42 IST (iso: 2026-11-05T05:12:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/fakasavagana-varatasa-ka-tajara-jara_09edd8387c94bfbc4e506ce17446ce10.jpeg?w=1200&dpr=1.0 -->
 
-आरएसएस प्रमुख दत्तात्रेय होसबाले ने विपक्ष पर मतदाता सूची सुधार अभियान के खिलाफ बयान देने का आरोप लगाया। उन्होंने पूछा कि सूची में सुधार लाने में गलत क्या है और प्रक्रिया का समर्थन किया। दत्तात्रेय होसबाले का विपक्ष पर निशाना, पूछा- मतदाता सूची सुधारने में गलत क्या?
+फॉक्सवैगन ने वर्टस के नए संस्करण का टीजर जारी किया है। इसमें डिजाइन और इंजन दोनों में बदलाव दिखाए गए हैं। स्रोत में लॉन्च की तारीख का उल्लेख नहीं है। नए अवतार में आएगी फॉक्सवैगन वर्टस: टीजर में दिखा बदला लुक, डिजाइन से इंजन तक होंगे ये बदलाव; कब होगी लॉन्च?
 
-### ['विदेश दौरे बंद करें, तभी जीतेंगे': रिजिजू का राहुल पर तंज, कहा- भाजपा को दुश्मन नहीं, सियासी](https://www.amarujala.com/india-news/kiren-rijiju-dig-rahul-gandhi-tells-him-stop-secret-foreign-trips-and-advises-him-view-bjp-political-opponent-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 01:52 IST (iso: 2026-11-04T20:22:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/katharaya-sasathaya-karaya-matara-karana-rajaja_09a7315c1b7100e464a5151d297c747e.jpeg?w=1200&dpr=1.0 -->
+### [ही मैन ने ज्यादा मेकअप करने को क्यों कहा था? रोहिणी हट्टंगडी ने सुनाया 'हमसे ना टकराना' का किस्सा](https://www.amarujala.com/entertainment/why-dharmendra-asks-rohini-hattangadi-to-wear-more-makeup-on-the-hum-se-na-takrana-set-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:41 IST (iso: 2026-11-05T05:11:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/thharamathara-rahanae-hatatagada_d1edc1508cd35fd8f3c418f0265c48cc.jpeg?w=1200&dpr=1.0 -->
 
-किरण रिजिजू ने राहुल गांधी से विदेश दौरे रोकने की सलाह दी। उन्होंने कहा कि भाजपा को दुश्मन नहीं, बल्कि राजनीतिक विरोधी मानना चाहिए। यह टिप्पणी चुनावी रणनीति के संदर्भ में की गई। 'विदेश दौरे बंद करें, तभी जीतेंगे': रिजिजू का राहुल पर तंज, कहा- भाजपा को दुश्मन नहीं, सियासी।
+रोहिणी हट्टंगडी ने धर्मेंद्र की मां का किरदार निभाया। सेट पर धर्मेंद्र ने उन्हें ज्यादा मेकअप करने को कहा। यह बातचीत फिल्म 'हमसे ना टकराना' के दौरान हुई थी। Dharmendra: फिल्म 'हमसे ना टकराना' में रोहिणी हट्टंगडी ने धर्मेंद्र की मां का रोल किया था। फिल्म के सेट पर धर्मेंद्र ने रोहिणी से ज्यादा मेकअप करने को कहा था। इस फिल्म से जुड़ा एक किस्सा अभिनेत्री रोहिणी ने सुनाया है।
 
-### [हरियाणा की पंजाबी बेल्ट में आज पहुंचेंगे गृह मंत्री शाह, करनाल पदयात्रा में कांग्रेस होगी निशाने पर](https://www.amarujala.com/haryana/karnal/politics-home-minister-shah-to-visit-haryana-s-punjabi-belt-today-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 01:44 IST (iso: 2026-11-04T20:14:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/1_26a78cf2b2c1be2a481ac46668f6f21d.jpeg?w=1200&dpr=1.0 -->
+### [खटमल मारने के चक्कर में हॉस्टल के लड़कों ने लगा दी खाट में आग, फिर जो हुआ उसे देख कांप जाएंगे आप](https://www.amarujala.com/bizarre-news/hostel-boys-set-their-bed-on-fire-to-kill-bed-bugs-what-happened-next-is-shocking-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:40 IST (iso: 2026-11-05T05:10:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/hasatal-ma-khatamal-bhagana-ka-khataranaka-taraka_0f81aa5e9d5a2a748afb4aaa2f924f3d.jpeg?w=1200&dpr=1.0 -->
 
-गृह मंत्री अमित शाह 5 नवंबर को हरियाणा की पंजाबी बेल्ट पहुंच रहे हैं। उनका करनाल पदयात्रा में शामिल होने का कार्यक्रम है। इस दौरान कांग्रेस पर राजनीतिक निशाना साधा जाएगा। केंद्रीय गृह मंत्री अमित शाह पांच नवंबर को हरियाणा की उस पंजाबी बेल्ट में होंगे जिसका राजनीतिक और सामाजिक प्रभाव पंजाब तक जाता है। हरियाणा की पंजाबी बेल्ट में आज पहुंचेंगे गृह मंत्री शाह, करनाल पदयात्रा में कांग्रेस होगी निशाने पर।
+हॉस्टल में लड़कों ने खटमल मारने के लिए पलंग में आग लगाई। लपटों ने उन्हें घेर लिया। उनके हाथ गंभीर रूप से झुलस गए। हॉस्टल में खटमलों से परेशान लड़कों ने रूम फ्रेशनर छिड़ककर लकड़ी के पलंग में आग लगा दी। देखते ही देखते लपटें उठने लगीं और लड़कों के हाथ भी झुलस गए। खटमल मारने के चक्कर में हॉस्टल के लड़कों ने लगा दी खाट में आग, फिर जो हुआ उसे देख कांप जाएंगे आप।
 
-### ['73% युवाओं ने बुलाया है', PM मोदी को डिबेट के लिए चैलेंज के बाद अब राहुल ने किया ये ट्वीट](https://www.abplive.com/news/india/rahul-gandhi-says-pm-modi-not-going-anywhere-debate-challenge-3211139)
-*ABP Live (India)* - Nov 04, 23:15 IST (iso: 2026-11-04T17:45:55+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/04/94ce1e49e42781da490cd5ad3fdf96a41793811718327708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [रणबीर कपूर की फिल्म का दुनियाभर में बजा डंका, एडवांस बुकिंग में 150 करोड़ पार, ओपनिंग पर टिकी](https://www.amarujala.com/entertainment/ramayana-advance-booking-ranbir-kapoor-yash-sai-pallavi-movie-day-1-box-office-collection-prediction-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:34 IST (iso: 2026-11-05T05:04:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/ramayanae-falma-ravaya_1bd729ace69d04356762c66e735e6488.jpeg?w=1200&dpr=1.0 -->
 
-राहुल गांधी ने प्रधानमंत्री नरेंद्र मोदी को डिबेट चैलेंज के बाद एक वीडियो शेयर किया। इसमें केंद्रीय मंत्री अर्जुन राम मेघवाल 'मोदी कहीं नहीं जाएंगे' के ऑडियो के साथ दिख रहे हैं। गांधी ने कैप्शन में लिखा कि मोदी डिबेट में आएंगे, जिसमें 73 फीसदी युवाओं ने बुलाया है। लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने प्रधानमंत्री नरेंद्र मोदी को डिबेट चैलेंज देने के बाद एक वीडियो शेयर किया है, जिसमें उन्होंने बीजेपी पर तंज कसा है.
+फिल्म 'रामायण' की एडवांस बुकिंग 150 करोड़ पार कर गई। नितेश तिवारी की यह फिल्म 5 नवंबर को रिलीज हुई। दर्शक यश के किरदार की तारीफ कर रहे हैं। नितेश तिवारी के निर्देशन में बनी फिल्म 'रामायण' 5 नवंबर को सिनेमाघरों में रिलीज हो गई है। फिल्म देखने के बाद दर्शक यश के किरदार की खूब तारीफ कर रहे हैं।
+
+### [क्लासरूम में 9 साल की बच्ची की मौत: मन्नतों के बाद मिली थी बेटी, मां ने दांव पर लगाया कॅरिअर; घटना](https://www.amarujala.com/photo-gallery/delhi/nine-year-old-girl-dies-in-delhi-school-classroom-cctv-footage-of-incident-surfaces-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 10:28 IST (iso: 2026-11-05T04:58:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/delhi-school-girl-death_f21786b1c6f62475c3e3faf132745d6c.jpeg?w=1200&dpr=1.0 -->
+
+क्लासरूम में नौ साल की बच्ची की मौत हुई। माता-पिता ने आठ साल तक संतान की प्रतीक्षा की थी। मन्नतों के बाद जन्मी बेटी की यह दुर्घटना घटी। आठ साल तक घर में बच्चे की किलकारी गूंजने का इंतजार किया। फिर मन्नतों के बाद बेटी ने जन्म लिया तो माता-पिता की दुनिया ही बदल गई। वह उनके लिए सिर्फ बेटी नहीं, बल्कि बरसों की दुआओं का फल थी।
+
+### [राहुल ने सेट किया कांग्रेस का चुनावी नैरेटिव: आप के खिलाफ नशा-गैंगस्टरवाद बनेंगे सियासी हथियार; ये](https://www.amarujala.com/punjab/chandigarh-punjab/rahul-gandhi-targets-aap-in-punjab-makes-drugs-and-gangsterism-key-congress-election-issues-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 10:22 IST (iso: 2026-11-05T04:52:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/rahul-gandhi_644fff6e40a9d7b9a01b5ebae7336fde.jpeg?w=1200&dpr=1.0 -->
+
+राहुल गांधी ने संगरूर से पंजाब विधानसभा चुनाव का बिगुल फूंक दिया। उन्होंने नशा और गैंगस्टरवाद को मुख्य विषय बनाया। भाषण की अवधि 22 मिनट 14 सेकंड रही। मुख्यमंत्री भगवंत सिंह मान के गृह जिले संगरूर से राहुल गांधी ने पंजाब में विधानसभा चुनाव के मद्देनजर चुनावी बिगुल फूंक दिया है। 22 मिनट 14 सेकंड के भाषण में राहुल ने जहां सूबे के लिए चुनावी नैरेटिव सेट कर दिया।
+
+### [धनतेरस की पूजा में इन चीजों का लगाएं भोग, मां लक्ष्मी से लेकर कुबेर और धन्वंतरि देव को प्रिय हैं ये](https://www.amarujala.com/photo-gallery/spirituality/religion/dhanteras-2026-from-kheer-to-modak-know-the-favourite-bhog-items-of-lakshmi-and-other-deities-2026-11-04)
+*Amar Ujala National* - Nov 05, 10:20 IST (iso: 2026-11-05T04:50:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/dhanteras-puja-bhog_67649f17e0124410577ada5575445589.jpeg?w=1200&dpr=1.0 -->
+
+धनतेरस 2026 पर मां लक्ष्मी, गणेश, कुबेर और धन्वंतरि को भोग अर्पित करें। प्रत्येक देवता के लिए विशिष्ट पकवान चुनना चाहिए। सही विधि से पूजा करें। धनतेरस 2026 पर मां लक्ष्मी, भगवान गणेश, कुबेर देव और धन्वंतरि को क्या भोग लगाएं? जानें चारों देवी-देवताओं के प्रिय पकवान और पूजा में भोग अर्पित करने का सही तरीका। धनतेरस की पूजा में इन चीजों का लगाएं भोग, मां लक्ष्मी से लेकर कुबेर और धन्वंतरि देव को प्रिय हैं ये।
+
+### [ऑफिस और घर की जिम्मेदारियों के बीच बढ़ रहा है स्ट्रेस? इन आसान तरीकों से रखें मानसिक सेहत का ख्याल](https://www.amarujala.com/photo-gallery/lifestyle/fitness/international-stress-awareness-week-2026-how-to-manage-stress-at-work-and-home-easy-steps-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:16 IST (iso: 2026-11-05T04:46:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/international-stress-awareness-week_0940f0adbca221013a1c209b45ad7547.jpeg?w=1200&dpr=1.0 -->
+
+लेख ऑफिस और घर के तनाव के प्रबंधन पर केंद्रित है। यह मानसिक स्वास्थ्य पर असर बताता है। आसान तरीके प्रस्तुत किए गए हैं। How to Manage Stress at Work and Home: इस लेख में जानें कि ऑफिस के काम और घर की जिम्मेदारियों के बीच बढ़ते तनाव (Stress) का मानसिक सेहत पर क्या असर पड़ता है। ऑफिस और घर की जिम्मेदारियों के बीच बढ़ रहा है स्ट्रेस?
+
+### [रणबीर बने राम तो साई माता सीता, नितेश तिवारी की फिल्म में और किसने निभाया कौन-सा किरदार?](https://www.amarujala.com/entertainment/ramayana-full-cast-ranbir-kapoor-yash-sai-arun-govil-ravi-dubey-lara-who-plays-whom-in-nitesh-tiwari-movie-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:11 IST (iso: 2026-11-05T04:41:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/ramayanae-ka-satarakasata_bf5a32127bd1151ef76e4e07120c73a4.jpeg?w=1200&dpr=1.0 -->
+
+नितेश तिवारी की फिल्म रामायण 05 नवंबर को रिलीज हुई। रणबीर कपूर राम और साई पल्लवी सीता बने। फिल्म सिनेमाघरों में प्रदर्शित हो रही है। Ramayana Starcast: नितेश तिवारी निर्देशित फिल्म 'रामायण' आज 05 नवंबर को सिनेमाघरों में रिलीज हो चुकी है। यह तो सभी को पता है कि फिल्म में रणबीर कपूर प्रभु श्रीराम बने हैं। साई पल्लवी माता सीता की भूमिका में हैं।
+
+### [फेरारी की पहली इलेक्ट्रिक सुपरकार का जबरदस्त क्रेज: 2027 तक के सभी ऑर्डर हुए बुक, कब से शुरू होगी](https://www.amarujala.com/automobiles/ferrari-s-first-electric-supercar-sells-out-2027-demand-surges-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 10:06 IST (iso: 2026-11-05T04:36:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/17/ferrari-luce-ferrari-ev-car_fc771027bd25dd6cf5df3b612346125a.jpeg?w=1200&dpr=1.0 -->
+
+फेरारी ने अपनी पहली इलेक्ट्रिक सुपरकार के 2027 तक के सभी ऑर्डर बुक कर लिए हैं। डिलीवरी इसी वर्ष से शुरू होगी। कंपनी ने इस मॉडल की मांग को पूरा करने के लिए उत्पादन क्षमता बढ़ाई है। फेरारी की पहली इलेक्ट्रिक सुपरकार का जबरदस्त क्रेज: 2027 तक के सभी ऑर्डर हुए बुक, कब से शुरू होगी डिलीवरी?
+
+### [राजा कर्ण सिंह के पोते और मनप्रीत बादल की बेटी की हुई शाही शादी, पीएम मोदी ने जोड़े को दिया आशीर्वाद](https://www.amarujala.com/photo-gallery/india-news/jammu-kashmir-king-karan-singh-grandson-wedding-with-punjab-manpreet-badal-daughter-pm-modi-photos-2026-11-05)
+*Amar Ujala Breaking* - Nov 05, 10:05 IST (iso: 2026-11-05T04:35:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/manpreet-badal-karan-singh_6f00d301adce38b928cdbaa28c0c4fdc.gif?w=1200&dpr=1.0 -->
+
+राजा कर्ण सिंह के पोते और मनप्रीत बादल की बेटी की शादी हुई। प्रधानमंत्री नरेंद्र मोदी ने जोड़े को आशीर्वाद दिया। यह शाही विवाह समारोह में कई प्रमुख व्यक्तियों ने भाग लिया। तस्वीरें: राजा कर्ण सिंह के पोते और मनप्रीत बादल की बेटी की हुई शाही शादी, पीएम मोदी ने जोड़े को दिया आशीर्वाद।
 
 ---
 
-## यूरोप और रूस
+## अमेरिका
 
-### [एक हफ्ते के भीतर अमेरिका समेत तीनों देशों करेंगे बातचीत, जेलेंस्की ने दी जानकारी](https://www.amarujala.com/world/ukraine-us-russia-trilateral-talks-on-to-end-war-within-week-zelenskyy-witkoff-kushner-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 04:28 IST (iso: 2026-11-04T22:58:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/zelensky_6f64bdb8208c483f454ab9b3b70e8b34.jpeg?w=1200&dpr=1.0 -->
+### [अमेरिकी चुनाव के बाद गूगल पर छाया ‘Habibi’, जेडी वेंस को कहे इस एक शब्द का मतलब जानने में जुटे लोग](https://www.patrika.com/world-news/habibi-meaning-google-trends-us-midterm-elections-2026-21031330)
+*Patrika (World)* - Nov 05, 10:45 IST (iso: 2026-11-05T05:15:44+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/US-Midterm-Elections-2026.webp -->
 
-जेलेंस्की ने कहा कि एक हफ्ते के भीतर अमेरिका, रूस और यूक्रेन बातचीत करेंगे। यह युद्ध समाधान की ओर कदम है। रूस-यूक्रेन युद्ध होगा खत्म?: एक हफ्ते के भीतर अमेरिका समेत तीनों देशों करेंगे बातचीत, क्या बोले जेलेंस्की? एक हफ्ते के भीतर अमेरिका समेत तीनों देशों करेंगे बातचीत, जेलेंस्की ने दी जानकारी।
+अमेरिकी मिडटर्म चुनाव के बाद अब्दुल एल-सैयद ने उपराष्ट्रपति जेडी वेंस को हबीबी कहकर संबोधित किया। इस वजह से 4 नवंबर को हबीबी Meaning शब्द गूगल के टॉप 10 सर्च में शामिल रहा। Blue Wave 2026: अमेरिका में मिडटर्म चुनाव के नतीजों के बाद गूगल पर एक अरबी शब्द ‘Habibi’ अचानक ट्रेंड करने लगा। इसकी वजह डेमोक्रेटिक नेता अब्दुल एल-सैयद का जीत का भाषण रहा।
 
-### [यूक्रेन की EU सदस्यता से लेकर पैट्रियट मिसाइलों तक, रूस के साथ युद्ध के बीच कैसे बदल रही है उसकी](https://www.patrika.com/world-news/ukraine-eu-membership-roadmap-patriot-missile-deal-us-21031076)
-*Patrika (World)* - Nov 04, 23:51 IST (iso: 2026-11-04T18:21:52+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Volodymyr-Zelensky.webp -->
+### [चुनावी हार के बाद ट्रंप कर सकते हैं बड़ा फेरबदल: रुबियो की जगह लेंगे सर्जियो गोर? अमेरिकी मीडिया](https://www.amarujala.com/world/sergio-gor-tipped-for-big-promotion-after-mid-term-results-report-2026-11-05)
+*Amar Ujala World* - Nov 05, 09:47 IST (iso: 2026-11-05T04:17:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/nprbya-oura-sarajaya-gara_0fcb117a6d84e5f664cffd249ee11f00.jpeg?w=1200&dpr=1.0 -->
 
-यूरोपीय आयोग ने बुधवार को यूक्रेन सहित चार देशों के लिए यूरोपीय संघ की सदस्यता का रोडमैप पेश किया। आयोग ने यूक्रेन से सुधारों की गति बढ़ाने की मांग की है। इससे 2028 के अंत तक सदस्यता वार्ता पूरी करने का लक्ष्य हासिल करने की उम्मीद जताई गई है। Ukraine EU Membership: यूक्रेन की यूरोपीय संघ (EU) की सदस्यता हासिल करने की कोशिशों को नई गति मिली है।
+अमेरिकी मीडिया रिपोर्ट के अनुसार, ट्रंप सर्जियो गोर को चीफ ऑफ स्टाफ बना सकते हैं। यह बदलाव मध्यावधि चुनावों के बाद हो सकता है। रुबियो की जगह गोर को जिम्मेदारी मिलने की संभावना है। अमेरिकी मिडटर्म चुनाव के बाद सर्जियो गोर को मिल सकती है बड़ी जिम्मेदारी, ट्रंप के करीबी का नाम चीफ ऑफ स्टाफ पद की दौड़ में: रिपोर्ट।
 
-### [जिनपिंग, पुतिन और ट्रंप की महा-मुलाकात, क्या है शैनजेन APEC समिट का खेल, 3 सुपरपावर्स पलटने वाले](https://hindi.news18.com/news/knowledge/apec-summit-2026-xi-jinping-vladimir-putin-and-donald-trump-to-hold-historic-g3-meeting-in-shenzhen-10964023.html)
-*News18 Hindi (World)* - Nov 04, 22:22 IST (iso: 2026-11-04T16:52:06+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-Putin-Jinping-Meet-2026-11-bcce393e7a6a6e1c4092262908f37c08-1200x800.jpg -->
+---
 
-नवंबर 2026 में शैनजेन में APEC शिखर सम्मेलन से पहले ट्रंप, शी और पुतिन की त्रिपक्षीय बैठक की चर्चा है। मॉस्को और वॉशिंगटन इस मुलाकात के पक्ष में हैं। चीन इस प्रस्ताव पर सावधानी बरत रहा है। नवंबर 2026 में चीन के शैनज़ेन शहर में APEC शिखर सम्मेलन होने जा रहा है. इस सम्मेलन से पहले अमेरिका, चीन और रूस के बीच एक ऐतिहासिक त्रिपक्षीय (G3) बैठक की चर्चाएं तेज हो गई हैं.
+## मध्य पूर्व और अफ्रीका
+
+### [जिस जंग को बताया जरूरी, उसी ने छीन ली सत्ता की ताकत! ट्रंप की विदेश नीति पर अमेरिकी जनता का बड़ा](https://www.patrika.com/world-news/donald-trump-iran-war-us-midterm-election-results-republican-loss-2026-21031378)
+*Patrika (World)* - Nov 05, 10:44 IST (iso: 2026-11-05T05:14:23+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump_6f2036.webp -->
+
+ट्रंप की ईरान युद्ध नीति ने रिपब्लिकन पार्टी को हालिया चुनावों में हरा दिया। मतदाताओं में महंगाई और ऊंचे ईंधन दामों के कारण गुस्सा फैला था। ट्रंप ने हार के बाद इस बात की स्वीकारोक्ति की। Trump Iran War US Midterm Election Results: अमेरिका के हालिया चुनाव नतीजों ने राष्ट्रपति डोनाल्ड ट्रंप की राजनीति को तगड़ा झटका दे दिया है।
+
+### [हार के बाद ट्रंप की विदेश नीति पर संकट; अब ईरान, इस्राइल और यूक्रेन पर क्या पड़ेगा असर?](https://www.amarujala.com/world/what-trump-midterm-election-setback-could-mean-for-iran-israel-and-ukraine-2026-11-05)
+*Amar Ujala World* - Nov 05, 10:40 IST (iso: 2026-11-05T05:10:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/amaraka-madatarama-canava_c95b5f02068fce8b9c31ab7c3ec41914.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप की मिडटर्म हार ने विदेश नीति को प्रभावित किया। ईरान, इस्राइल और यूक्रेन पर असर पड़ने का अनुमान है। अमेरिकी नीति में बदलाव की संभावना बढ़ी है। हार के बाद ट्रंप की विदेश नीति पर संकट; अब ईरान, इस्राइल और यूक्रेन पर क्या पड़ेगा असर?
+
+### [मिडटर्म चुनाव हारते ही बिखर गया ट्रंप का कुनबा, वेंस ने बनाई दूरी, हेगसेथ पर महाभियोग का साया](https://hindi.news18.com/world/america-midterm-election-result-republicans-shattered-by-defeat-trump-vance-quickly-turn-against-pete-hegseth-impeachment-10964685.html)
+*News18 Hindi (World)* - Nov 05, 10:08 IST (iso: 2026-11-05T04:38:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/us-election-n-2026-11-f482b551047cff01590781f5348fa5b0-1200x800.jpg -->
+
+मिडटर्म चुनाव के बाद रिपब्लिकन पार्टी में अस्थिरता आई। जेडी वेंस ने ट्रंप से दूरी बनाई। हेगसेथ पर महाभियोग का खतरा मंडरा रहा है। Midterm Election Result 2026 Impact on Republican: अमेरिका में मिडटर्म इलेक्शन के रिजल्ट में जिस तरह का उलटफेर हुआ है, उसके बाद रिपब्लिकन पार्टी पूरी तरह से हिल गई है. हर वक्त ट्रंप के साथ खड़े नजर आने वाले जेडी वेंस भी उनसे कतरा रहे हैं और रक्षा मंत्री पीट हेगसेथ पर तो खतरा महाभियोग का भी मंडराने लगा है.
 
 ---
 
 ## एशिया-प्रशांत
 
-### [जीडीपी को 84 अरब डॉलर तक बढ़ा सकता है एआई: ट्रेनिंग में भारत दुनिया से आगे, रिपोर्ट में और क्या](https://www.amarujala.com/business/business-diary/india-ai-adoption-gdp-growth-84-billion-productivity-cognizant-study-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 03:53 IST (iso: 2026-11-04T22:23:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/ai_f7af5be97cef574b911ac20cb4363000.jpeg?w=1200&dpr=1.0 -->
+### [विदेश मंत्री जयशंकर ने गुयाना के राष्ट्रपति से की मुलाकात, जानें किन तीन अहम समझौते पर दोनों देशों](https://www.patrika.com/world-news/india-guyana-500-million-dollar-line-of-credit-jaishankar-meets-guyana-president-chogm-2026-21031377)
+*Patrika (World)* - Nov 05, 10:41 IST (iso: 2026-11-05T05:11:54+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/India-Guyana-Relations.webp -->
 
-कोग्निजेंट की रिपोर्ट के अनुसार एआई से भारत की जीडीपी 84 अरब डॉलर तक बढ़ सकती है। भारत एआई ट्रेनिंग में विश्व स्तर पर आगे है और उत्पादकता में उल्लेखनीय सुधार की उम्मीद है। जीडीपी को 84 अरब डॉलर तक बढ़ा सकता है एआई: ट्रेनिंग में भारत दुनिया से आगे, रिपोर्ट में और क्या खुलासे?
+जयशंकर ने गुयाना के राष्ट्रपति से मुलाकात की। दोनों देशों ने तीन समझौतों पर हस्ताक्षर किए। भारत ने बुनियादी ढांचे के लिए 500 मिलियन डॉलर की क्रेडिट लाइन दी। India Guyana Relations: भारत के विदेश मंत्री एस जयशंकर ने एंटीगुआ और बारबुडा में राष्ट्रमंडल शासनध्यक्षों की बैठक (CHOGM) से इतर गुयाना के राष्ट्रपति डॉ. मोहम्मद इरफान अली से मुलाकात की।
 
-### [अमी बेरा कौन हैं? भारतीय मूल के अमेरिकी सांसद का राजनीतिक सफर, लगातार आठवीं जीत और भारत से जुड़ाव](https://www.patrika.com/world-news/ami-bera-wins-eighth-term-us-congress-california-21031063)
-*Patrika (World)* - Nov 04, 23:13 IST (iso: 2026-11-04T17:43:39+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Ami-Bera.webp -->
+### [कुल स्कोर बढ़ने के बाद भी 11 पायदान क्यों फिसला दिल्ली विश्वविद्यालय? जानें रैंकिंग में गिरावट की](https://www.amarujala.com/education/du-slips-11-places-to-106th-in-qs-asia-rankings-2027-despite-improvement-in-overall-score-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:21 IST (iso: 2026-11-05T04:51:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/thall-vashavavathayalya_536fcd2e9880143c15139bbd32e47bf9.jpeg?w=1200&dpr=1.0 -->
 
-कैलिफोर्निया के तीसरे जिले से अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत दर्ज की। उन्होंने रिपब्लिकन प्रत्याशी रॉब टकर को हराया। बेरा 2013 से सैक्रामेंटो काउंटी का प्रतिनिधित्व कर रहे हैं और भारतीय मूल के प्रमुख नेताओं में शामिल हैं। Who Is Ami Bera: भारतीय मूल के अमेरिकी सांसद अमी बेरा ने अमेरिकी प्रतिनिधि सभा के चुनाव में लगातार आठवीं बार जीत हासिल की है।
+दिल्ली विश्वविद्यालय की रैंकिंग 11 पायदान गिरकर 106वें स्थान पर आई। कुल स्कोर 68.5 से बढ़कर 70 हुआ। नौ मानकों पर सुधार दर्ज हुआ। क्यूएस एशिया यूनिवर्सिटी रैंकिंग 2027 में दिल्ली विश्वविद्यालय 11 स्थान फिसलकर 106वें पायदान पर पहुंच गया है। हालांकि, विश्वविद्यालय का कुल स्कोर 68.5 से बढ़कर 70 हो गया। 11 में से नौ मानकों पर सुधार दर्ज किया गया है।
+
+### [Canva में 1,271 कर्मचारियों पर गिरी गाज, विदाई पैकेज ने जीता दिल, भारत में Layoff पर क्या कहता है](https://www.patrika.com/world-news/canva-layoffs-2026-india-labour-law-layoff-compensation-employee-rights-21031191)
+*Patrika (World)* - Nov 05, 10:12 IST (iso: 2026-11-05T04:42:10+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Canva-Layoffs-2026.webp -->
+
+Canva ने 1,271 कर्मचारियों का पुनर्गठन किया। कंपनी छह महीने वेतन और करियर सहायता देगी। यह कदम चर्चा का विषय बना। Canva 1271 Employees Layoff,: नौकरी जाने की खबर किसी कर्मचारी के लिए सिर्फ सैलरी बंद होने का मामला नहीं, बल्कि परिवार की आर्थिक सुरक्षा से जुड़ा बड़ा सवाल है। दुनिया की लोकप्रिय डिजाइन कंपनी Canva ने 1,271 कर्मचारियों को प्रभावित करने वाले पुनर्गठन का ऐलान किया है।
+
+### [अमेरिका में कांग्रेस का गणित बदला, भारत की कूटनीति को मिलेगा नया मौका या बढ़ेगी ट्रंप की चुनौती?](https://www.patrika.com/world-news/india-us-relations-trump-congress-quad-summit-2026-21031268)
+*Patrika (World)* - Nov 05, 10:05 IST (iso: 2026-11-05T04:35:44+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/India-US-Relations.webp -->
+
+अमेरिका के मध्यावधि चुनावों के बाद कांग्रेस में विपक्ष की मजबूती भारत की कूटनीति को नई चुनौतियां दे सकती है। व्यापार और रक्षा सहयोग पर असर हो सकता है। ट्रंप की विदेश नीति पर भी प्रभाव पड़ेगा। US Congress Midterm Elections 2026: अमेरिका की राजनीति में मध्यावधि चुनाव के बाद बदले सत्ता समीकरणों ने भारत की कूटनीति के सामने नई संभावनाओं और चुनौतियों का दरवाजा खोल दिया है।
+
+### [वेतन बढ़ाने की मांग पर कपड़ा मजदूरों का उग्र प्रदर्शन, पुलिस से झड़प के बाद 100+ फैक्ट्रियां बंद](https://www.amarujala.com/world/bangladesh-garment-factories-shut-down-as-workers-clash-with-police-over-minimum-wage-demands-2026-11-05)
+*Amar Ujala World* - Nov 05, 09:38 IST (iso: 2026-11-05T04:08:47+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/bgalthasha-ma-varathha-paratharashana_d0d2f2b5b77085d97f2253a155c9ff6c.jpeg?w=1200&dpr=1.0 -->
+
+बांग्लादेश में कपड़ा मजदूरों ने वेतन बढ़ाने की मांग पर प्रदर्शन किया। पुलिस से झड़प के बाद 100 से अधिक फैक्ट्रियां बंद हो गईं। उत्पादन प्रभावित हुआ है और स्थिति तनावपूर्ण बनी हुई है। वेतन बढ़ाने की मांग पर कपड़ा मजदूरों का उग्र प्रदर्शन, पुलिस से झड़प के बाद 100+ फैक्ट्रियां बंद।
 
 ---
 
-## वैश्विक / बहुपक्षीय
+## यूरोप और रूस
 
-### [अयोध्या में दीपोत्सव आज से, नजर आएगी अंतरराष्ट्रीय संस्कृति की झलक; पांच दिन तक दमकेंगे परंपरा के](https://www.amarujala.com/delhi-ncr/up-deepotsav-begins-today-in-ayodhya-a-glimpse-of-international-culture-to-be-on-display-2026-11-05)
-*Amar Ujala Breaking* - Nov 05, 03:13 IST (iso: 2026-11-04T21:43:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/1_406d90dba9eb85de71623980fc9cda13.jpeg?w=1200&dpr=1.0 -->
+### [फ्रांस के ब्लड बैंकों पर साइबर हमला: कोल्ड स्टोरेज सिस्टम को बनाया निशाना, आखिर क्या चाहते हैं](https://www.amarujala.com/technology/tech-diary/france-blood-banks-cyberattack-hackers-target-cold-storage-system-europe-news-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:30 IST (iso: 2026-11-05T05:00:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/france-blood-bank-cyber-attack_98604b2ed94111309903d796894dddb9.jpeg -->
 
-अयोध्या में पांच दिवसीय दीपोत्सव शुरू हो गया है। इस दौरान अंतरराष्ट्रीय संस्कृति की प्रदर्शनी भी आयोजित की गई है। परंपरागत दीपों की रोशनी से शहर सजा हुआ है। रामनगरी दीपोत्सव के उल्लास में सराबोर होने को तैयार है। अयोध्या में दीपोत्सव आज से, नजर आएगी अंतरराष्ट्रीय संस्कृति की झलक; पांच दिन तक दमकेंगे परंपरा के।
+फ्रांस के क्षेत्रीय रक्त बैंकों पर 2 नवंबर को साइबर हमला हुआ। हैकर्स ने कोल्ड स्टोरेज रूम के निगरानी और नियंत्रण प्रणालियों को निशाना बनाया। अधिकारियों ने घटना की पुष्टि की है। France Blood Bank Cyber Attack फ्रांस में कई क्षेत्रीय ब्लड बैंकों पर 2 नवंबर को साइबर हमला हुआ। हैकर्स ने फ्रेंच ब्लड बैंक के कुछ कोल्ड स्टोरेज रूम की निगरानी और कंट्रोल करने वाले सिस्टम को निशाना बनाया।
+
+### [इटली से भारत घूमने आए प्रेमी जोड़े को भा गई सनातन परंपरा, आगरा में रचाई हिंदू रीति-रिवाज से शादी](https://www.amarujala.com/bizarre-news/italian-couple-gets-married-in-agra-takes-7-vows-in-traditional-hindu-wedding-2026-11-05)
+*Amar Ujala National* - Nov 05, 10:20 IST (iso: 2026-11-05T04:50:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/harathavara-ma-lgaii-dabka-kasha-ma-kae-tharashana_a75e2f5ba8bac11b6cad0286f9a97e1d.jpeg?w=1200&dpr=1.0 -->
+
+इटली के मत्तेओ और कैटरीना ने आगरा में हिंदू रीति-रिवाजों से विवाह किया। दोनों ने भारतीय संस्कृति को अपनाया। दुल्हन लाल बनारसी जोड़े में थी। इटली से भारत घूमने आए मत्तेओ और कैटरीना को भारतीय संस्कृति और सनातन परंपराएं इतनी पसंद आईं कि दोनों ने आगरा में हिंदू रीति-रिवाज से शादी कर ली। दूल्हा धोती-कुर्ते में तो दुल्हन लाल बनारसी जोड़े में नजर आईं।
 
 ---
 

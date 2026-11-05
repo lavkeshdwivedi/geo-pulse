@@ -1,35 +1,23 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 05, 2026 05:31 IST
+**Updated:** November 05, 2026 10:51 IST
 
 ---
 
-## Americas
+## Asia-Pacific
 
-### [Accountability Day](https://asiatimes.com/2026/11/accountability-day/)
-*Asia Times* - Nov 05, 00:52 IST (iso: 2026-11-04T19:22:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/unnamed.jpg -->
+### [China’s amphibious surge confronts a Taiwan invasion’s hard math](https://asiatimes.com/2026/11/chinas-amphibious-surge-confronts-a-taiwan-invasions-hard-math/)
+*Asia Times* - Nov 05, 10:15 IST (iso: 2026-11-05T04:45:02+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Navy.jpg -->
 
-Trump campaigned heavily in the final weeks of the midterms, contradicting his earlier dismissal of the race. He delivered a bizarre speech on November 2, marking a sharp shift in his engagement with the electoral process. Let me offer an apology. When I wrote a month ago that “Plainly, Trump does not care about the mid-terms” I was wrong, at least in part.
-
-### [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
-*The Guardian* - Nov 03, 18:30 IST (iso: 2026-11-03T13:00:07+00:00)
-<!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
-
-Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
-
-### [Breaking the silence in Mexico’s barracks](https://news.un.org/feed/view/en/story/2026/11/1168715)
-*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-10-26_UN_Human-Rights_Zorayda_Gallegos.jpg/image560x340cropped.jpg -->
-
-Investigative journalist Zorayda Gallegos documented sexual abuse within the Mexican armed forces. Many women in uniform reported that orders to enter an officer’s bedroom were treated as mandatory commands. The findings highlight a culture of unchecked authority and systemic harassment in the military ranks. In Mexico’s armed forces, an order from a superior is meant to be obeyed without question.
+China is rapidly expanding Type 071 amphibious transport dock production to support a potential Taiwan invasion. The strategy relies on industrial mass and converted civilian shipping. Analysts question if this volume can overcome the tactical choke points of a cross-strait military operation. China’s sudden surge in amphibious warship construction has thrust a foundational military question to the forefront: can sheer industrial mass and converted civilian shipping overcome the lethal tactical choke points of a cross-strait invasion?
 
 ---
 
 ## Middle East & Africa
 
 ### [Vance tries to distance himself from Iran war after Republican Party’s deep losses in midterm](https://www.thehindu.com/news/international/vance-tries-to-distance-himself-from-iran-war-after-republican-partys-deep-losses-in-midterm-elections/article71667348.ece)
-*The Hindu (International)* - Nov 05, 00:28 IST (iso: 2026-11-04T18:58:19+00:00)
+*The Hindu (International)* - Nov 05, 08:53 IST (iso: 2026-11-05T03:23:05+00:00)
 <!-- image: https://th-i.thgim.com/public/news/national/qqs4ai/article71667361.ece/alternates/LANDSCAPE_1200/AFP__20261104__D6FC8KE__v1__HighRes__UsMidtermElections.jpg -->
 
 J. D. Vance blamed the unpopular Iran conflict for the Republican Party's midterm losses. He posted on social media to distance himself from the war, noting he will decide on a 2028 presidential run after the election. Vance, who has said he would decide after the election whether to run for President in 2028, issued a lengthy social media post blaming the unpopular conflict with Iran for the Grand Old Party’s drubbing.
@@ -39,6 +27,18 @@ J. D. Vance blamed the unpopular Iran conflict for the Republican Party's midter
 <!-- image: https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/405_0_4412_3530/master/4412.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c4c7049d929536059b278f89794a0566 -->
 
 The African National Congress faces a poor result in South Africa’s local elections. Voters are frustrated by water outages, power cuts, and crumbling infrastructure. The party is expected to secure less than a third of the total vote. Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at th.
+
+### [Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms](https://news.un.org/feed/view/en/story/2026/11/1168740)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-06-2025-UNICEF-Gaza-08.jpg/image770x420cropped.jpg -->
+
+Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesday. The United Nations reported that the incident caused injuries and forced a humanitarian partner to leave the area. Aid teams are now preparing for incoming winter storms in the region. Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.
+
+### [Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers](https://news.un.org/feed/view/en/story/2026/11/1168737)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image770x420cropped.jpg -->
+
+Many children born in Syria since 2011 lack legal identity because nationality passes only through fathers. A United Nations commission member stated that many of these fathers are dead or missing. The current legal framework effectively shuts out mothers from establishing their children's status. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
 
 ### [Trump’s troubles with Iran could open the door to China](https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping)
 *The Guardian* - Nov 03, 18:43 IST (iso: 2026-11-03T13:13:50+00:00)
@@ -54,7 +54,7 @@ The UN warns that intensifying drone strikes in Sudan are disrupting civilian in
 
 ### [In Yemen’s war, women and girls suffer ‘devastating consequences’](https://news.un.org/feed/view/en/story/2026/11/1168730)
 *UN News* - Nov 03, 17:30 IST (iso: 2026-11-03T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-WFP-Yemen.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-WFP-Yemen.jpg/image560x340cropped.jpg -->
 
 Yemeni war drives families to desperate measures. A fourteen-year-old girl named Safa was married to an elderly man. Her father feared she would be unprotected if he died in hostilities. Her mother died earlier this year. Safa is 14. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.
 
@@ -63,12 +63,6 @@ Yemeni war drives families to desperate measures. A fourteen-year-old girl named
 <!-- image: https://gdb.rferl.org/83ae586a-0a64-4150-0a0a-08de3bed1b27_cx0_cy6_cw0_w1200_h630.jpg -->
 
 Iran's supreme leader stated any future response to an attack would have no geographical limits. The remarks suggest Tehran may abandon its 2,000-kilometer missile range limit. Analysts speculate Europe could now fall within Iran's military reach. A statement attributed to Iran's supreme leader says any future response to an attack would have no geographical limits. The remarks have fueled speculation that Tehran could target Europe and abandon its self-imposed 2,000-kilometer limit on missile range.
-
-### [UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends](https://news.un.org/feed/view/en/story/2026/11/1168717)
-*UN News* - Nov 01, 17:30 IST (iso: 2026-11-01T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2018/12/06-12-2018-MINURSO-NICA440800.jpg/image560x340cropped.jpg -->
-
-António Guterres stated the UN remains committed to a political solution in Western Sahara. The organization supports the self-determination of the local population. This statement coincided with the wind-down of the MINURSO peacekeeping mission. The UN signaled continued diplomatic backing for the region. The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretary-General António Guterres said on Sunday, as the UN peacekeeping mission there began to wind down.
 
 ### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
 *International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
@@ -81,6 +75,28 @@ Reuters journalist Giulia Paravicini reported from Asmara about daily life in Er
 <!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Crisis Group publishes a weekly scan of global conflicts and crises. Their field experts highlight under-reported trends and major developments, explaining why specific hotspots matter and what actions should follow. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
+
+---
+
+## Americas
+
+### [Accountability Day](https://asiatimes.com/2026/11/accountability-day/)
+*Asia Times* - Nov 05, 00:52 IST (iso: 2026-11-04T19:22:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/unnamed.jpg -->
+
+Trump campaigned heavily in the final weeks of the midterms, contradicting his earlier dismissal of the race. He delivered a bizarre speech on November 2, marking a sharp shift in his engagement with the electoral process. Let me offer an apology. When I wrote a month ago that “Plainly, Trump does not care about the mid-terms” I was wrong, at least in part.
+
+### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image770x420cropped.jpg -->
+
+COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
+
+### [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
+*The Guardian* - Nov 03, 18:30 IST (iso: 2026-11-03T13:00:07+00:00)
+<!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
+
+Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
 
 ---
 
@@ -118,7 +134,7 @@ Russia plans to cut funding for federal health-care programs in its 2027 budget.
 
 ### [Air raid alerts and attacks on schools: the devastating face of education in Ukraine](https://news.un.org/feed/view/en/story/2026/11/1168724)
 *UN News* - Nov 03, 17:30 IST (iso: 2026-11-03T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-11-2025_UNICEF_Ukraine-school-01.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-11-2025_UNICEF_Ukraine-school-01.jpg/image560x340cropped.jpg -->
 
 UNICEF reported nearly 2,000 attacks on Ukrainian schools since 2022. Some 270 strikes occurred this year. A recent hit targeted a school distributing aid. The data highlights the severe impact on education infrastructure. Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.
 
@@ -150,27 +166,11 @@ The UN World Food Programme is feeding over 400 evacuees from Oleshky in Ukraine
 
 ## Global / Multilateral
 
-### [Six in seven journalist murders go unpunished, UNESCO reports](https://news.un.org/feed/view/en/story/2026/11/1168719)
-*UN News* - Nov 02, 17:30 IST (iso: 2026-11-02T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-Adobe-Stock-journalist.jpg/image560x340cropped.jpg -->
+### [15 years of ‘almost no progress’ in getting young people moving: WHO](https://news.un.org/feed/view/en/story/2026/11/1168736)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image770x420cropped.jpg -->
 
-UNESCO reports that six in seven journalist murders go unpunished. Global impunity for these killings has risen for the first time in over a decade. The organization also flags the growing use of drones as an emerging threat to reporters working in active conflict zones. Global impunity for journalist killings has risen for the first time in more than a decade, while the growing use of drones is an emerging threat for reporters in conflict zones, according to the latest report from UN cultural organization UNESCO.
-
----
-
-## Asia-Pacific
-
-### [Binance resumes customer withdrawals after record $6.3bn hack](https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency)
-*The Guardian* - Nov 01, 17:24 IST (iso: 2026-11-01T11:54:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193 -->
-
-Binance resumed customer withdrawals after a record $6.3 billion hack. The exchange stated that 90 percent of the losses are covered. The FBI attributed the theft to a North Korean state-sponsored group. This marks the largest cryptocurrency heist in history. Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitorThe cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack. The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts.
-
-### [How crypto hacking funds isolated North Korea’s nuclear programme](https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme)
-*The Guardian* - Oct 30, 23:07 IST (iso: 2026-10-30T17:37:46+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a2ab8c683105476fd958b1420dbb27c30fe2be77/232_0_2883_2307/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee3fa146cb6fa51f05a4e4a8994cdc4 -->
-
-Cryptocurrency theft generates roughly half of North Korea's foreign currency income. The isolated state relies on sophisticated hacking to fund its nuclear program. Experts attribute significant digital thefts to state-sponsored actors. Cryptocurrency theft is estimated to generate half of the country’s foreign currency incomeNorth Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking. Experts, such as TRM Labs, quickly attributed the extraordinary.
+The World Health Organization reported that one in four adolescents worldwide does not get sixty minutes of daily physical activity. This data highlights fifteen years of almost no progress in getting young people moving. The new global estimates underscore a persistent public health gap. One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.
 
 ---
 
