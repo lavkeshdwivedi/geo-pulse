@@ -1,10 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 06, 2026 02:22 IST
+**Updated:** November 06, 2026 06:44 IST
+
+---
+
+## Asia-Pacific
+
+### [Her school principal told her football wasn’t for girls – she’s now a doctor for a top women’s club](https://www.channelnewsasia.com/women/singaporean-football-doctor-bethany-koh-england-6485191)
+*Channel News Asia* - Nov 06, 04:44 IST (iso: 2026-11-05T23:14:32+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--iSBWpH-4--/c_crop,h_720,w_1280,x_0,y_54/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/bethany-koh-chelsea-fc-women-football-doctor.jpg?itok=CyiKL3pU -->
+
+Singaporean physician Bethany Koh provides medical cover for over 60 women's football matches in England. She treats injuries and manages return-to-play decisions for top clubs. Her work includes supporting Chelsea FC Women on the pitch. From treating injuries on the pitch to making tough calls about when players can return to action, Singaporean doctor Bethany Koh has provided medical cover at more than 60 women’s football matches in England, including for Chelsea FC Women.
+
+### [US Court Temporarily Blocks Deportation Of Afghan Nationals Over Safety Concerns](https://www.rferl.org/a/us-court-temporarily-blocks-afghans-deportation/33890357.html)
+*Radio Free Europe / Liberty* - Nov 05, 15:42 IST (iso: 2026-11-05T10:12:46+00:00)
+<!-- image: https://gdb.rferl.org/2d1d1574-0892-4aae-232e-08dd9da57ba1_cx0_cy10_cw0_w1200_h630.jpg -->
+
+A New York federal judge temporarily blocked the deportation of dozens of Afghan nationals. Lawmakers and rights groups warned that returning them to Afghanistan or Pakistan could endanger their lives. The court order halts the removal process pending further review of these safety concerns. A reported plan to deport dozens of Afghan nationals has been temporarily halted by a New York-based federal judge following a warning from several US lawmakers and rights groups that sending them home or to neighboring Pakistan could put their lives at risk.
+
+### [India’s $22 billion defense push can’t hide its missing fighter jets](https://asiatimes.com/2026/11/indias-22-billion-defense-push-cant-hide-its-missing-fighter-jets/)
+*Asia Times* - Nov 05, 10:33 IST (iso: 2026-11-05T05:03:59+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/India-Tejas-Mk1A-Fighter.jpg -->
+
+India's $22 billion defense modernization faces a critical gap in fighter jet delivery. The domestic aerospace industry struggles to produce aircraft ordered years ago. This shortfall raises questions about industrial capacity and reliance on foreign technology amid rising regional security pressures. India’s military modernization drive has a core problem. While officials keep approving billions of dollars in new weapons, the country’s aerospace industry is struggling to deliver aircraft ordered years ago The gap raises questions about the country’s industrial capacity, its dependence on foreign technology and its military readiness at a time of regional security pressure.
+
+### [China’s amphibious surge confronts a Taiwan invasion’s hard math](https://asiatimes.com/2026/11/chinas-amphibious-surge-confronts-a-taiwan-invasions-hard-math/)
+*Asia Times* - Nov 05, 10:15 IST (iso: 2026-11-05T04:45:02+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Navy.jpg -->
+
+China is rapidly expanding Type 071 amphibious transport dock production to support a potential Taiwan invasion. The strategy relies on industrial mass and converted civilian shipping. Analysts question if this volume can overcome the tactical choke points of a cross-strait military operation. China’s sudden surge in amphibious warship construction has thrust a foundational military question to the forefront: can sheer industrial mass and converted civilian shipping overcome the lethal tactical choke points of a cross-strait invasion?
 
 ---
 
 ## Middle East & Africa
+
+### [Eisenkot tipped to seek Israel government with backing of Arab lists](https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists/article71671757.ece)
+*The Hindu (International)* - Nov 06, 04:28 IST (iso: 2026-11-05T22:58:13+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/debt5q/article71671761.ece/alternates/LANDSCAPE_1200/AFP__20261028__D4MC79E__v1__HighRes__IsraelVote.jpg -->
+
+Israeli President Isaac Herzog held a second day of consultations with political parties on November 5. He plans to announce on November 8 who will attempt to form a new government. Gideon Eisenkot is tipped to seek the role with Arab list backing. Isaac Herzog held a second day of consultations with political parties on November 5 after the October 27 election; he said he will announce on November 8 whom he will task with trying to form a new government.
 
 ### [Iranians burn giant poster of Trump and allies, demand revenge](https://www.thehindu.com/news/international/iranians-burn-giant-poster-of-trump-and-allies-demand-revenge/article71671250.ece)
 *The Hindu (International)* - Nov 05, 23:17 IST (iso: 2026-11-05T17:47:37+00:00)
@@ -32,7 +66,7 @@ Many children born in Syria since 2011 lack legal identity because nationality p
 
 ### [‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in](https://news.un.org/feed/view/en/story/2026/11/1168731)
 *UN News* - Nov 03, 17:30 IST (iso: 2026-11-03T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNOCHA-Sudan-05.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNOCHA-Sudan-05.jpg/image560x340cropped.jpg -->
 
 The UN warns that intensifying drone strikes in Sudan are disrupting civilian infrastructure. Attacks on electricity, water, and fuel supplies are putting lives at risk. These disruptions are also hampering the delivery of essential humanitarian aid to affected populations. Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN’s top official in the country has warned.
 
@@ -41,24 +75,6 @@ The UN warns that intensifying drone strikes in Sudan are disrupting civilian in
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/03-11-2026-WFP-Yemen.jpg/image560x340cropped.jpg -->
 
 Yemeni war drives families to desperate measures. A fourteen-year-old girl named Safa was married to an elderly man. Her father feared she would be unprotected if he died in hostilities. Her mother died earlier this year. Safa is 14. She has no brothers or sisters. And a few weeks ago, as the crisis took hold, her father married her to an elderly man, afraid that if he were killed in the hostilities, no one would be left to protect her.
-
-### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
-*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
-<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Giulia Paravicini reported from Asmara on life in the isolated nation. She examined the leadership's strategic calculations amid regional instability. The trip highlighted mounting tensions between Eritrea and Ethiopia. Her findings offer insight into the country's internal dynamics and foreign policy posture. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
-
-### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
-*International Crisis Group* - Oct 30, 05:30 IST (iso: 2026-10-30T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group analysts scan global conflicts and crises weekly. They identify under-reported trends and major developments. Field experts explain why specific hotspots matter. The series provides context on what should be done to address emerging security challenges worldwide. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching.
-
-### [A Political Shake-up in Serbia, Business as Usual in Bosnia?](https://www.crisisgroup.org/pod/europe/serbia/political-shake-serbia-business-usual-bosnia)
-*International Crisis Group* - Oct 29, 19:28 IST (iso: 2026-10-29T13:58:00+00:00)
-<!-- image: https://images.pexels.com/photos/31034612/pexels-photo-31034612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Fabienne Hara discussed contrasting election results in Serbia and Bosnia with Marko Prelec. The outcomes signal different political futures for both nations. Shifting approaches from the United States and European Union are reshaping the region. The analysis explores how these changes impact local stability. This week on War & Peace, guest host Fabienne Hara speaks with Crisis Group’s Balkans expert Marko Prelec about contrasting election results in Serbia and Bosnia, what they mean for both countries’ political futures and how shifting U. S.
 
 ---
 
@@ -69,6 +85,12 @@ Fabienne Hara discussed contrasting election results in Serbia and Bosnia with M
 <!-- image: https://gdb.rferl.org/9271105C-C3AC-4144-8FBC-82F111DF36FC_cx2_cy3_cw89_w1200_h630.jpg -->
 
 Russian military recruitment increasingly relies on private companies and intermediaries. These actors operate on the fringes of the legal system to fill depleted ranks. The shift has created a human cost as the state outsources conscription. This commercial approach reflects the strain of the ongoing war against Ukraine on domestic manpower. An increasing number of cases point to the human cost of a recruitment system in Russia that increasingly relies on private companies and intermediaries who often work on the fringes to bolster the ranks of a military depleted by the war against Ukraine.
+
+### [How a Diplomatic Row Ended a Korean Startup’s AI War Test in Ukraine](https://thediplomat.com/2026/11/how-a-diplomatic-row-ended-a-korean-startups-ai-war-test-in-ukraine/)
+*The Diplomat* - Nov 05, 20:09 IST (iso: 2026-11-05T14:39:00+00:00)
+<!-- image: https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-12-221617.jpg -->
+
+A diplomatic dispute between Seoul and Kyiv ended Newtype Industries' AI war test in Ukraine. The Seoul-based defense startup lost all its Ukrainian partners due to the row. South Korea continues supporting Ukraine while managing the diplomatic fallout. Seoul is trying to maintain its support for Ukraine while dealing with a diplomatic dispute with Kyiv. But Newtype Industries, a defense startup in Seoul, says the same dispute has cost the company all of its Ukrainian partners.
 
 ### [A Political Killing, A Seismic Shift, And A 'Vile' Attack](https://www.rferl.org/a/russia-novaya-gazeta-ukraine-war-peace-talks/33890879.html)
 *Radio Free Europe / Liberty* - Nov 05, 16:56 IST (iso: 2026-11-05T11:26:40+00:00)
@@ -100,17 +122,27 @@ Crowds clashed with Ukrainian riot police in a Kyiv suburb on November 2. The co
 
 Russia plans to cut funding for federal health-care programs in its 2027 budget. Medical services are already hard to access in many regions. The proposed reductions coincide with soaring military spending. Patients in poorer areas face greater obstacles to treatment and essential medicines. Russia plans to reduce funding for key federal health-care programs in its 2027 budget. With medical services already difficult to access in many regions, the proposed cuts are raising fears that patients will face greater obstacles in obtaining treatment and essential medicines.
 
-### [Air raid alerts and attacks on schools: the devastating face of education in Ukraine](https://news.un.org/feed/view/en/story/2026/11/1168724)
-*UN News* - Nov 03, 17:30 IST (iso: 2026-11-03T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-11-2025_UNICEF_Ukraine-school-01.jpg/image560x340cropped.jpg -->
-
-UNICEF reported nearly 2,000 attacks on Ukrainian schools since 2022. Some 270 strikes occurred this year. A recent hit targeted a school distributing aid. The data highlights the severe impact on education infrastructure. Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.
-
 ### [Ukrainian Crowd Clashes With Riot Police, Again Highlighting Recruitment Tactics, Military Morale](https://www.rferl.org/a/ukraine-men-soldiers-recruitment-busification/33889589.html)
 *Radio Free Europe / Liberty* - Nov 03, 17:21 IST (iso: 2026-11-03T11:51:57+00:00)
 <!-- image: https://gdb.rferl.org/bc014dea-5206-4bb4-6c65-08df13a87200_tv_w1200_h630.jpg -->
 
 Residents clashed with police in a Kyiv suburb. Allegations of torture in a private house fueled the unrest. The incident underscores tensions over military recruitment tactics. Ukraine continues to manage domestic friction during the war. A crowd clashed with police and National Guard troops in a Kyiv suburb amid allegations that men were being held and tortured in a private house.
+
+---
+
+## Global / Multilateral
+
+### [Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
+*UN News* - Nov 05, 17:30 IST (iso: 2026-11-05T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg -->
+
+UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
+
+### [15 years of ‘almost no progress’ in getting young people moving: WHO](https://news.un.org/feed/view/en/story/2026/11/1168736)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image560x340cropped.jpg -->
+
+The World Health Organization reported that one in four adolescents worldwide does not get sixty minutes of daily physical activity. This data highlights fifteen years of almost no progress in getting young people moving. The new global estimates underscore a persistent public health gap. One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.
 
 ---
 
@@ -139,38 +171,6 @@ COP31 focuses on making advanced clean energy technologies affordable for all na
 <!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
 
 Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
-
----
-
-## Asia-Pacific
-
-### [US Court Temporarily Blocks Deportation Of Afghan Nationals Over Safety Concerns](https://www.rferl.org/a/us-court-temporarily-blocks-afghans-deportation/33890357.html)
-*Radio Free Europe / Liberty* - Nov 05, 15:42 IST (iso: 2026-11-05T10:12:46+00:00)
-<!-- image: https://gdb.rferl.org/2d1d1574-0892-4aae-232e-08dd9da57ba1_cx0_cy10_cw0_w1200_h630.jpg -->
-
-A New York federal judge temporarily blocked the deportation of dozens of Afghan nationals. Lawmakers and rights groups warned that returning them to Afghanistan or Pakistan could endanger their lives. The court order halts the removal process pending further review of these safety concerns. A reported plan to deport dozens of Afghan nationals has been temporarily halted by a New York-based federal judge following a warning from several US lawmakers and rights groups that sending them home or to neighboring Pakistan could put their lives at risk.
-
-### [India’s $22 billion defense push can’t hide its missing fighter jets](https://asiatimes.com/2026/11/indias-22-billion-defense-push-cant-hide-its-missing-fighter-jets/)
-*Asia Times* - Nov 05, 10:33 IST (iso: 2026-11-05T05:03:59+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/India-Tejas-Mk1A-Fighter.jpg -->
-
-India's $22 billion defense modernization faces a critical gap in fighter jet delivery. The domestic aerospace industry struggles to produce aircraft ordered years ago. This shortfall raises questions about industrial capacity and reliance on foreign technology amid rising regional security pressures. India’s military modernization drive has a core problem. While officials keep approving billions of dollars in new weapons, the country’s aerospace industry is struggling to deliver aircraft ordered years ago The gap raises questions about the country’s industrial capacity, its dependence on foreign technology and its military readiness at a time of regional security pressure.
-
-### [China’s amphibious surge confronts a Taiwan invasion’s hard math](https://asiatimes.com/2026/11/chinas-amphibious-surge-confronts-a-taiwan-invasions-hard-math/)
-*Asia Times* - Nov 05, 10:15 IST (iso: 2026-11-05T04:45:02+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Navy.jpg -->
-
-China is rapidly expanding Type 071 amphibious transport dock production to support a potential Taiwan invasion. The strategy relies on industrial mass and converted civilian shipping. Analysts question if this volume can overcome the tactical choke points of a cross-strait military operation. China’s sudden surge in amphibious warship construction has thrust a foundational military question to the forefront: can sheer industrial mass and converted civilian shipping overcome the lethal tactical choke points of a cross-strait invasion?
-
----
-
-## Global / Multilateral
-
-### [15 years of ‘almost no progress’ in getting young people moving: WHO](https://news.un.org/feed/view/en/story/2026/11/1168736)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image770x420cropped.jpg -->
-
-The World Health Organization reported that one in four adolescents worldwide does not get sixty minutes of daily physical activity. This data highlights fifteen years of almost no progress in getting young people moving. The new global estimates underscore a persistent public health gap. One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.
 
 ---
 

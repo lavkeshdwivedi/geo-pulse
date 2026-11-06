@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-05T20:52:34.764858+00:00",
+  "generated_at": "2026-11-06T01:14:00.461562+00:00",
   "article_count": 50,
-  "total_unique_count": 257,
+  "total_unique_count": 258,
   "digest": {
-    "en": "Iranians burn a giant poster of Trump in Tehran while India’s $22 billion defense budget struggles to fill fighter jet gaps. Russia’s war recruitment machine turns into a lucrative business model as nations line up to boycott its ice hockey games.",
-    "hi": "पराग्वे में राष्ट्रपति पेना ने आज इस्तीफा दिया, जिससे देश के डिजिटल बैंक UNOD ने 1.2 बिलियन डॉलर की जमा राशि को फ्रीज कर दिया। बैंकिंग संकट के बीच अर्जेंटीना और ब्राज़ील ने अपने विदेशी निवेश को सुरक्षित करने के लिए अतिरिक्त नियामक उपायों की घोषणा की।"
+    "en": "Russia’s recruitment machine now operates as a private enterprise, while a diplomatic dispute halted a Korean AI test in Ukraine. The UN peacekeeping chief flags drone strikes as a new threat to global security.",
+    "hi": "तेहरान में अमेरिका की 100 से ज्यादा लोगों की मौजूदगी और ट्रंप की नई धमकियों ने मध्य पूर्व की तनावपूर्ण स्थिति को और गहराई दिया है। इसी बीच पराग्वे के राष्ट्रपति पेना का डिजिटल बैंक विवाद के कारण इस्तीफा देना दक्षिण अमेरिका की राजनीतिक अस्थिरता का संकेत देता है।"
   },
   "articles": [
+    {
+      "title": "Her school principal told her football wasn’t for girls – she’s now a doctor for a top women’s club",
+      "url": "https://www.channelnewsasia.com/women/singaporean-football-doctor-bethany-koh-england-6485191",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-11-05T23:14:32+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--iSBWpH-4--/c_crop,h_720,w_1280,x_0,y_54/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/bethany-koh-chelsea-fc-women-football-doctor.jpg?itok=CyiKL3pU",
+      "summary": "Singaporean physician Bethany Koh provides medical cover for over 60 women's football matches in England. She treats injuries and manages return-to-play decisions for top clubs. Her work includes supporting Chelsea FC Women on the pitch. From treating injuries on the pitch to making tough calls about when players can return to action, Singaporean doctor Bethany Koh has provided medical cover at more than 60 women’s football matches in England, including for Chelsea FC Women.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Eisenkot tipped to seek Israel government with backing of Arab lists",
+      "url": "https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists/article71671757.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-05T22:58:13+00:00",
+      "image_url": "https://th-i.thgim.com/public/news/national/debt5q/article71671761.ece/alternates/LANDSCAPE_1200/AFP__20261028__D4MC79E__v1__HighRes__IsraelVote.jpg",
+      "summary": "Israeli President Isaac Herzog held a second day of consultations with political parties on November 5. He plans to announce on November 8 who will attempt to form a new government. Gideon Eisenkot is tipped to seek the role with Arab list backing. Isaac Herzog held a second day of consultations with political parties on November 5 after the October 27 election; he said he will announce on November 8 whom he will task with trying to form a new government.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Iranians burn giant poster of Trump and allies, demand revenge",
       "url": "https://www.thehindu.com/news/international/iranians-burn-giant-poster-of-trump-and-allies-demand-revenge/article71671250.ece",
@@ -28,6 +52,30 @@
       "image_url": "https://gdb.rferl.org/9271105C-C3AC-4144-8FBC-82F111DF36FC_cx2_cy3_cw89_w1200_h630.jpg",
       "summary": "Russian military recruitment increasingly relies on private companies and intermediaries. These actors operate on the fringes of the legal system to fill depleted ranks. The shift has created a human cost as the state outsources conscription. This commercial approach reflects the strain of the ongoing war against Ukraine on domestic manpower. An increasing number of cases point to the human cost of a recruitment system in Russia that increasingly relies on private companies and intermediaries who often work on the fringes to bolster the ranks of a military depleted by the war against Ukraine.",
       "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How a Diplomatic Row Ended a Korean Startup’s AI War Test in Ukraine",
+      "url": "https://thediplomat.com/2026/11/how-a-diplomatic-row-ended-a-korean-startups-ai-war-test-in-ukraine/",
+      "source": "The Diplomat",
+      "sources": [],
+      "published_at": "2026-11-05T14:39:00+00:00",
+      "image_url": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-12-221617.jpg",
+      "summary": "A diplomatic dispute between Seoul and Kyiv ended Newtype Industries' AI war test in Ukraine. The Seoul-based defense startup lost all its Ukrainian partners due to the row. South Korea continues supporting Ukraine while managing the diplomatic fallout. Seoul is trying to maintain its support for Ukraine while dealing with a diplomatic dispute with Kyiv. But Newtype Industries, a defense startup in Seoul, says the same dispute has cost the company all of its Ukrainian partners.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg",
+      "summary": "UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.",
+      "region": "Global / Multilateral",
       "language": "en",
       "translations": {}
     },
@@ -169,7 +217,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-04T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image560x340cropped.jpg",
       "summary": "The World Health Organization reported that one in four adolescents worldwide does not get sixty minutes of daily physical activity. This data highlights fifteen years of almost no progress in getting young people moving. The new global estimates underscore a persistent public health gap. One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.",
       "region": "Global / Multilateral",
       "language": "en",
@@ -229,7 +277,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-03T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNOCHA-Sudan-05.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNOCHA-Sudan-05.jpg/image560x340cropped.jpg",
       "summary": "The UN warns that intensifying drone strikes in Sudan are disrupting civilian infrastructure. Attacks on electricity, water, and fuel supplies are putting lives at risk. These disruptions are also hampering the delivery of essential humanitarian aid to affected populations. Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN’s top official in the country has warned.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -248,18 +296,6 @@
       "translations": {}
     },
     {
-      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-03T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-11-2025_UNICEF_Ukraine-school-01.jpg/image560x340cropped.jpg",
-      "summary": "UNICEF reported nearly 2,000 attacks on Ukrainian schools since 2022. Some 270 strikes occurred this year. A recent hit targeted a school distributing aid. The data highlights the severe impact on education infrastructure. Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Ukrainian Crowd Clashes With Riot Police, Again Highlighting Recruitment Tactics, Military Morale",
       "url": "https://www.rferl.org/a/ukraine-men-soldiers-recruitment-busification/33889589.html",
       "source": "Radio Free Europe / Liberty",
@@ -272,45 +308,9 @@
       "translations": {}
     },
     {
-      "title": "The View from Eritrea",
-      "url": "https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-10-30T16:29:00+00:00",
-      "image_url": "https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Giulia Paravicini reported from Asmara on life in the isolated nation. She examined the leadership's strategic calculations amid regional instability. The trip highlighted mounting tensions between Eritrea and Ethiopia. Her findings offer insight into the country's internal dynamics and foreign policy posture. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "On Our Radar",
-      "url": "https://www.crisisgroup.org/sco/global/our-radar",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-10-30T00:00:00+00:00",
-      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Crisis Group analysts scan global conflicts and crises weekly. They identify under-reported trends and major developments. Field experts explain why specific hotspots matter. The series provides context on what should be done to address emerging security challenges worldwide. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "A Political Shake-up in Serbia, Business as Usual in Bosnia?",
-      "url": "https://www.crisisgroup.org/pod/europe/serbia/political-shake-serbia-business-usual-bosnia",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-10-29T13:58:00+00:00",
-      "image_url": "https://images.pexels.com/photos/31034612/pexels-photo-31034612.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Fabienne Hara discussed contrasting election results in Serbia and Bosnia with Marko Prelec. The outcomes signal different political futures for both nations. Shifting approaches from the United States and European Union are reshaping the region. The analysis explores how these changes impact local stability. This week on War & Peace, guest host Fabienne Hara speaks with Crisis Group’s Balkans expert Marko Prelec about contrasting election results in Serbia and Bosnia, what they mean for both countries’ political futures and how shifting U. S.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "जंग के बीच ईरान के संपर्क में था अमेरिका?: 100 से ज्यादा लोगों को भेजा तेहरान, कैसे हुआ मामले का",
       "url": "https://www.amarujala.com/world/us-in-contact-with-iran-amidst-conflict-over-100-people-sent-to-tehran-how-did-this-come-to-light-2026-11-06",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-11-06T07:19:58+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/amaraka-rashhatarapata-tarapa_936f874206c6f700da6e5b2cf2b8dbf9.jpeg?w=1200&dpr=1.0",
@@ -328,7 +328,7 @@
     {
       "title": "पराग्वे के राष्ट्रपति पेना का इस्तीफा: डिजिटल बैंक यूएनओ डूबा, जनता का पैसा फंसा; दक्षिण अमेरिकी",
       "url": "https://www.amarujala.com/world/paraguay-president-pe-a-resign-digital-bank-ueno-collapse-public-funds-trapped-south-american-nation-crisis-2026-11-06",
-      "source": "Amar Ujala Breaking",
+      "source": "Amar Ujala World",
       "sources": [],
       "published_at": "2026-11-06T07:16:54+00:00",
       "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/paragava-ma-rashhatarapata-satayaga-pana-na-isatafa-thaya_9c05e183ae5852a70f9e8e5f6729cf9a.jpeg?w=1200&dpr=1.0",
@@ -344,416 +344,416 @@
       }
     },
     {
-      "title": "'घुसपैठियों को वोटर बनाना चाहते हैं राहुल': कांग्रेस पर बरसे सीएम फडणवीस, बांग्लादेशी घुसपैठ पर",
-      "url": "https://www.amarujala.com/india-news/rahul-gandhi-wants-to-turn-infiltrators-into-voters-cm-devendra-fadnavis-targets-opposition-over-bangladeshi-2026-11-06",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-06T06:38:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/makhayamatara-thavathara-fadanaevasa-oura-lkasabha-ma-nata-paratapakashha-rahal-gathha_94bd9898e1b5b518f9ce253037c2141a.jpeg?w=1200&dpr=1.0",
-      "summary": "महाराष्ट्र के मुख्यमंत्री फडणवीस ने कांग्रेस पर बांग्लादेशी घुसपैठियों को वोटर बनाने का आरोप लगाया। उन्होंने राहुल गांधी और विपक्ष पर इस मामले में सवाल उठाए। यह राजनीतिक बयान सीमा सुरक्षा को लेकर उठा। 'घुसपैठियों को वोटर बनाना चाहते हैं राहुल': कांग्रेस पर बरसे सीएम फडणवीस, बांग्लादेशी घुसपैठ पर।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'घुसपैठियों को वोटर बनाना चाहते हैं राहुल': कांग्रेस पर बरसे सीएम फडणवीस, बांग्लादेशी घुसपैठ पर",
-          "summary": "महाराष्ट्र के मुख्यमंत्री फडणवीस ने कांग्रेस पर बांग्लादेशी घुसपैठियों को वोटर बनाने का आरोप लगाया। उन्होंने राहुल गांधी और विपक्ष पर इस मामले में सवाल उठाए। यह राजनीतिक बयान सीमा सुरक्षा को लेकर उठा। 'घुसपैठियों को वोटर बनाना चाहते हैं राहुल': कांग्रेस पर बरसे सीएम फडणवीस, बांग्लादेशी घुसपैठ पर।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?",
-      "url": "https://www.amarujala.com/india-news/major-change-at-mumbai-airport-flights-of-12-foreign-airlines-to-be-shifted-will-passengers-be-affected-too-2026-11-06",
+      "title": "राम-हनुमान की मुलाकात से रावण के अंत तक, इन प्रसंगों पर रहेंगी नजरें; 2028 तक करना होगा इंतजार",
+      "url": "https://www.amarujala.com/entertainment/ramayana-part-2-ram-hanuman-meeting-to-ravan-vadh-ranbir-kapoor-movie-second-part-highlights-2026-11-05",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-05T20:47:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/sakataka-tasavara_1ab4e45101e6110d93b83c0f502a5b79.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई एयरपोर्ट पर बारह विदेशी एयरलाइनों की उड़ानें शिफ्ट की जाएंगी। यह बदलाव यात्रियों के अनुभव को प्रभावित कर सकता है। हवाई अड्डे की व्यवस्था में यह बड़ा बदलाव लाया गया है। 12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?",
-          "summary": "मुंबई एयरपोर्ट पर बारह विदेशी एयरलाइनों की उड़ानें शिफ्ट की जाएंगी। यह बदलाव यात्रियों के अनुभव को प्रभावित कर सकता है। हवाई अड्डे की व्यवस्था में यह बड़ा बदलाव लाया गया है। 12 विदेशी एयरलाइनों की उड़ानें होंगी शिफ्ट, क्या यात्रियों पर भी पड़ेगा असर?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "संकट, शर्त या सुलह...आज होगा फैसला, वार्ता से पहले श्रीनगर में मांगों का सख्त खाका तैयार",
-      "url": "https://www.amarujala.com/jammu-and-kashmir/srinagar/strife-in-the-nc-crisis-conditions-or-reconciliation-a-decision-is-expected-today-2026-11-06",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-05T20:27:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/1_e079abca31fca333a537efedcbb2feaf.jpeg?w=1200&dpr=1.0",
-      "summary": "श्रीनगर में नेशनल कॉन्फ्रेंस की अंतर्कलह का फैसला आज सामने आने वाला है। कैबिनेट विस्तार के बाद उठी तकरार का समाधान वार्ता से होना है। स्थानीय मांगों का सख्त खाका तैयार किया गया है। 27 अक्तूबर को कैबिनेट विस्तार से नेशनल कॉन्फ्रेंस में उठी अंतर्कलह का अंत क्या होगा, ये शुक्रवार यानी आज सामने आ जाएगा।",
+      "published_at": "2026-11-06T01:01:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/05/ramayanae_5cd2e6e3509ec17e43effe81a59c64bb.jpeg?w=1200&dpr=1.0",
+      "summary": "राम-हनुमान की मुलाकात और लंका दहन जैसे प्रसंग फिल्म के दूसरे भाग में होंगे। DNEG ने VFX के लिए नया काम किया है। दर्शकों को 2028 तक इंतजार करना होगा। राम-हनुमान की मुलाकात, लंका दहन और रावण से युद्ध जैसे प्रसंग दूसरे भाग के आकर्षण होंगे। नमित ने VFX को लेकर कहा है कि DNEG इस फिल्म में ऐसा काम कर रही है, जैसा उसने पहले कभी नहीं किया।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "संकट, शर्त या सुलह...आज होगा फैसला, वार्ता से पहले श्रीनगर में मांगों का सख्त खाका तैयार",
-          "summary": "श्रीनगर में नेशनल कॉन्फ्रेंस की अंतर्कलह का फैसला आज सामने आने वाला है। कैबिनेट विस्तार के बाद उठी तकरार का समाधान वार्ता से होना है। स्थानीय मांगों का सख्त खाका तैयार किया गया है। 27 अक्तूबर को कैबिनेट विस्तार से नेशनल कॉन्फ्रेंस में उठी अंतर्कलह का अंत क्या होगा, ये शुक्रवार यानी आज सामने आ जाएगा।",
+          "title": "राम-हनुमान की मुलाकात से रावण के अंत तक, इन प्रसंगों पर रहेंगी नजरें; 2028 तक करना होगा इंतजार",
+          "summary": "राम-हनुमान की मुलाकात और लंका दहन जैसे प्रसंग फिल्म के दूसरे भाग में होंगे। DNEG ने VFX के लिए नया काम किया है। दर्शकों को 2028 तक इंतजार करना होगा। राम-हनुमान की मुलाकात, लंका दहन और रावण से युद्ध जैसे प्रसंग दूसरे भाग के आकर्षण होंगे। नमित ने VFX को लेकर कहा है कि DNEG इस फिल्म में ऐसा काम कर रही है, जैसा उसने पहले कभी नहीं किया।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "फिलीपींस का बढ़ा ‘ब्रह्मोस’ वाला लालच, भारत के साथ होगी 6700 करोड़ की महा-डील, कैसे एक तीर से लगे 2",
-      "url": "https://hindi.news18.com/world/south-asia-india-philippines-800m-dollars-brahmos-deal-manila-eyes-60-supersonic-missiles-to-counter-china-in-south-china-sea-10966668.html",
-      "source": "News18 Hindi (World)",
+      "title": "भारत में रह रहे पाकिस्तानियों की बल्ले-बल्ले, जानें किन नियमों में मिली ढील",
+      "url": "https://www.amarujala.com/india-news/centre-amends-passport-visa-rules-big-relief-for-pakistanis-living-in-india-documentation-requirements-relaxed-2026-11-06",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-05T18:21:09+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/BRAHMOS-Missile-2026-10-4c40f5e0f6edea58816077618bfef1b9-1200x800.jpg",
-      "summary": "फिलीपींस भारत से लगभग 800 मिलियन डॉलर की रक्षा डील पर सहमति जता रहा है। इसमें 60 ब्रह्मोस मिसाइलों की आपूर्ति शामिल है। यह समझौता दक्षिण चीन सागर में चीन के विस्तारवाद का मुकाबला करने के लिए किया जा रहा है। दक्षिण चीन सागर में चीन की दादागिरी बढ़ रही है. इसका मुकाबला करने के लिए फिलीपींस भारत से बड़ी डील करने जा रहा है.",
+      "published_at": "2026-11-06T00:57:09+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/sakataka-tasavara_051dab796b872d3907f9fbee000b9944.jpeg?w=1200&dpr=1.0",
+      "summary": "केंद्र सरकार ने भारत में रहने वाले पाकिस्तानियों के लिए पासपोर्ट और वीजा नियमों में ढील दी है। दस्तावेज़ों की आवश्यकताएं अब कम हैं। यह बदलाव मौजूदा निवासियों को लाभ देगा। भारत में रह रहे पाकिस्तानियों की बल्ले-बल्ले, जानें किन नियमों में मिली ढील।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "फिलीपींस का बढ़ा ‘ब्रह्मोस’ वाला लालच, भारत के साथ होगी 6700 करोड़ की महा-डील, कैसे एक तीर से लगे 2",
-          "summary": "फिलीपींस भारत से लगभग 800 मिलियन डॉलर की रक्षा डील पर सहमति जता रहा है। इसमें 60 ब्रह्मोस मिसाइलों की आपूर्ति शामिल है। यह समझौता दक्षिण चीन सागर में चीन के विस्तारवाद का मुकाबला करने के लिए किया जा रहा है। दक्षिण चीन सागर में चीन की दादागिरी बढ़ रही है. इसका मुकाबला करने के लिए फिलीपींस भारत से बड़ी डील करने जा रहा है.",
+          "title": "भारत में रह रहे पाकिस्तानियों की बल्ले-बल्ले, जानें किन नियमों में मिली ढील",
+          "summary": "केंद्र सरकार ने भारत में रहने वाले पाकिस्तानियों के लिए पासपोर्ट और वीजा नियमों में ढील दी है। दस्तावेज़ों की आवश्यकताएं अब कम हैं। यह बदलाव मौजूदा निवासियों को लाभ देगा। भारत में रह रहे पाकिस्तानियों की बल्ले-बल्ले, जानें किन नियमों में मिली ढील।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "चीन-पाकिस्तान होकर भारत आने वालों पर सख्ती: नेपाल और भूटान सफर से पहले जान लें नए इमिग्रेशन नियम",
-      "url": "https://hindi.news18.com/news/nation/immigration-regulations-change-for-those-entering-india-via-china-pakistan-mha-notification-for-traveling-to-nepal-bhutan-10966544.html",
+      "title": "कबाड़ी को बेचने से पहले सोचें: पुराने वाहन स्क्रैप कर नई खरीदने पर मिलेंगे टैक्स छूट समेत कई फायदे",
+      "url": "https://www.amarujala.com/business/bonus/scrappage-policy-think-before-selling-old-vehicle-know-rules-offers-and-benefits-including-tax-exemptions-2026-11-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-06T00:56:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/18/himachal-vehicle-scrap-new-policy_f5b3d5e03eddc0d5a635a764327dce87.jpeg?w=1200&dpr=1.0",
+      "summary": "पुराने वाहन को कबाड़ी को बेचने के बजाय स्क्रैप करने पर नई गाड़ी खरीदने में फायदा है। टैक्स छूट और अन्य लाभ मिलते हैं। यह प्रक्रिया सरकार के नियमों के तहत होती है। कबाड़ी को बेचने से पहले सोचें: पुराने वाहन स्क्रैप कर नई खरीदने पर मिलेंगे टैक्स छूट समेत कई फायदे, नियम क्या?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कबाड़ी को बेचने से पहले सोचें: पुराने वाहन स्क्रैप कर नई खरीदने पर मिलेंगे टैक्स छूट समेत कई फायदे",
+          "summary": "पुराने वाहन को कबाड़ी को बेचने के बजाय स्क्रैप करने पर नई गाड़ी खरीदने में फायदा है। टैक्स छूट और अन्य लाभ मिलते हैं। यह प्रक्रिया सरकार के नियमों के तहत होती है। कबाड़ी को बेचने से पहले सोचें: पुराने वाहन स्क्रैप कर नई खरीदने पर मिलेंगे टैक्स छूट समेत कई फायदे, नियम क्या?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "‘ईरान का बाकी हिस्सा भी तबाह कर दूंगा’, ट्रंप की नई धमकी, उधर पुतिन बन गए तेहरान की ढाल",
+      "url": "https://hindi.news18.com/world/middle-east-donald-trump-iran-threat-putin-support-mohsen-rezaei-meeting-iran-us-tension-war-10966773.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-05T17:30:53+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Flight-2026-11-f1817c254ffd67e05288481e17765334-1200x800.jpg",
-      "summary": "केंद्र सरकार ने नेपाल और भूटान के लिए नए इमिग्रेशन नियम जारी किए हैं। अब सीमा पार करने वाले भारतीय नागरिकों को पहचान दस्तावेजों की कड़ी शर्तें पूरी करनी होंगी। यह बदलाव सड़क और हवाई मार्ग से सीधे यात्रा करने वालों पर लागू होगा। India Nepal Bhutan Immigration Rules: नेपाल और भूटान की यात्रा करने वाले भारतीय नागरिकों के लिए केंद्र सरकार ने सीमा पार आवाजाही से जुड़े नियमों में अहम बदलाव किया है.",
+      "published_at": "2026-11-06T00:55:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/iran-war-10-2026-11-47a59f58e3e80296f539177e58f7ccc3-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने ईरान को चेतावनी दी कि वह देश के बाकी हिस्सों को तबाह कर सकता है। व्लादिमीर पुतिन ने ईरान के सुरक्षा प्रमुख से मिलकर युद्ध समाधान का भरोसा दिया। ईरान ने बातचीत के लिए तैयारी की है। Iran-Putin Meeting: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि जरूरत पड़ी तो वह देश के बाकी हिस्सों को भी तबाह कर सकते हैं.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘ईरान का बाकी हिस्सा भी तबाह कर दूंगा’, ट्रंप की नई धमकी, उधर पुतिन बन गए तेहरान की ढाल",
+          "summary": "डोनाल्ड ट्रंप ने ईरान को चेतावनी दी कि वह देश के बाकी हिस्सों को तबाह कर सकता है। व्लादिमीर पुतिन ने ईरान के सुरक्षा प्रमुख से मिलकर युद्ध समाधान का भरोसा दिया। ईरान ने बातचीत के लिए तैयारी की है। Iran-Putin Meeting: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि जरूरत पड़ी तो वह देश के बाकी हिस्सों को भी तबाह कर सकते हैं.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बच्चों की हर जिद पर न कहें 'हां': आपकी 'ना' उन्हें बनाएगी भावनात्मक रूप से मजबूत, शोध में हुआ खुलासा",
+      "url": "https://www.amarujala.com/world/research-don-t-say-yes-to-every-demand-your-child-makes-saying-no-will-help-them-become-emotionally-stronger-2026-11-06",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-06T00:43:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/sakataka-tasavara_a6c1f9fa89e3ffe14f3c2813889674e3.jpeg?w=1200&dpr=1.0",
+      "summary": "शोध के अनुसार बच्चों की हर जिद पर हां कहना उचित नहीं है। 'ना' कहना उन्हें भावनात्मक रूप से मजबूत बनाता है। यह विधि बच्चों की मानसिक स्थिति को बेहतर बनाती है। बच्चों की हर जिद पर न कहें 'हां': आपकी 'ना' उन्हें बनाएगी भावनात्मक रूप से मजबूत, शोध में हुआ खुलासा।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बच्चों की हर जिद पर न कहें 'हां': आपकी 'ना' उन्हें बनाएगी भावनात्मक रूप से मजबूत, शोध में हुआ खुलासा",
+          "summary": "शोध के अनुसार बच्चों की हर जिद पर हां कहना उचित नहीं है। 'ना' कहना उन्हें भावनात्मक रूप से मजबूत बनाता है। यह विधि बच्चों की मानसिक स्थिति को बेहतर बनाती है। बच्चों की हर जिद पर न कहें 'हां': आपकी 'ना' उन्हें बनाएगी भावनात्मक रूप से मजबूत, शोध में हुआ खुलासा।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बेंजामिन नेतन्याहू या आइसेनकोट? इजरायल में किसकी बनेगी सरकार, संडे को ऐलान, जानिए किसका अधिक चांस?",
+      "url": "https://hindi.news18.com/world/rest-of-world-benjamin-netanyahu-or-gadi-eisenkot-israel-president-isaac-herzogto-decide-who-will-form-next-government-on-sunday-10966758.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-06T00:31:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Israel-2026-11-0d6616f9027c6ea785e20f8a8b585752-1200x800.jpg",
+      "summary": "इजरायल के राष्ट्रपति इसाक हर्जोग रविवार को नई सरकार बनाने का आदेश देंगे। गादी आइसेनकोट के पास 67 सांसदों का समर्थन है, जबकि बेंजामिन नेतन्याहू के पास 46 हैं। आइसेनकोट की सरकार बनने के आसार अधिक मजबूत हैं। Israel News: इजरायल में नई सरकार के गठन को लेकर सियासी तस्वीर रविवार को साफ हो सकती है. राष्ट्रपति इसाक हर्जोग घोषणा करेंगे कि सरकार बनाने की जिम्मेदारी किस सांसद को सौंपी जाएगी.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बेंजामिन नेतन्याहू या आइसेनकोट? इजरायल में किसकी बनेगी सरकार, संडे को ऐलान, जानिए किसका अधिक चांस?",
+          "summary": "इजरायल के राष्ट्रपति इसाक हर्जोग रविवार को नई सरकार बनाने का आदेश देंगे। गादी आइसेनकोट के पास 67 सांसदों का समर्थन है, जबकि बेंजामिन नेतन्याहू के पास 46 हैं। आइसेनकोट की सरकार बनने के आसार अधिक मजबूत हैं। Israel News: इजरायल में नई सरकार के गठन को लेकर सियासी तस्वीर रविवार को साफ हो सकती है. राष्ट्रपति इसाक हर्जोग घोषणा करेंगे कि सरकार बनाने की जिम्मेदारी किस सांसद को सौंपी जाएगी.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हिरासत में लिया तो 24 घंटे में पेश करना होगा मजिस्ट्रेट के सामने, नहीं चलेगी पुलिस की मनमानी",
+      "url": "https://www.amarujala.com/india-news/significant-supreme-court-ruling-anyone-taken-into-custody-must-be-produced-before-magistrate-within-24-hours-2026-11-06",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-06T00:20:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/saparama-karata_a68fe477da308d7ef13366efdea6041c.jpeg?w=1200&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट ने निर्देश दिया कि हिरासत में लिए गए व्यक्ति को 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश किया जाए। यह फैसला पुलिस की मनमानी को रोकने के लिए लिया गया है। हिरासत में लिया तो 24 घंटे में पेश करना होगा मजिस्ट्रेट के सामने, नहीं चलेगी पुलिस की मनमानी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिरासत में लिया तो 24 घंटे में पेश करना होगा मजिस्ट्रेट के सामने, नहीं चलेगी पुलिस की मनमानी",
+          "summary": "सुप्रीम कोर्ट ने निर्देश दिया कि हिरासत में लिए गए व्यक्ति को 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश किया जाए। यह फैसला पुलिस की मनमानी को रोकने के लिए लिया गया है। हिरासत में लिया तो 24 घंटे में पेश करना होगा मजिस्ट्रेट के सामने, नहीं चलेगी पुलिस की मनमानी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "बंदूकधारी ने अंधाधुंध गोलीबारी में 8 लोगों की हत्या की, हमलावर गिरफ्तार",
+      "url": "https://www.amarujala.com/world/western-turkey-mass-shooting-gunman-kills-many-attacker-arrested-police-probe-know-hindi-news-updates-2026-11-06",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-06T00:19:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/11/bugdha-khabra_af450dd548718eca5aa7d1d9015a22fd.jpeg?w=1200&dpr=1.0",
+      "summary": "पश्चिमी तुर्किये में एक बंदूकधारी ने अंधाधुंध गोलीबारी कर आठ लोगों की हत्या कर दी। पुलिस ने हमलावर को गिरफ्तार कर लिया है। घटना स्थल पर भारी सुरक्षा बल तैनात किए गए हैं। पश्चिमी तुर्किये में नरसंहार: बंदूकधारी ने अंधाधुंध गोलीबारी में 8 लोगों की हत्या की, हमलावर गिरफ्तार।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बंदूकधारी ने अंधाधुंध गोलीबारी में 8 लोगों की हत्या की, हमलावर गिरफ्तार",
+          "summary": "पश्चिमी तुर्किये में एक बंदूकधारी ने अंधाधुंध गोलीबारी कर आठ लोगों की हत्या कर दी। पुलिस ने हमलावर को गिरफ्तार कर लिया है। घटना स्थल पर भारी सुरक्षा बल तैनात किए गए हैं। पश्चिमी तुर्किये में नरसंहार: बंदूकधारी ने अंधाधुंध गोलीबारी में 8 लोगों की हत्या की, हमलावर गिरफ्तार।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मेहली मिस्त्री ने न्यासी पद से हटाने को दी चुनौती, नोएल टाटा छोड़ेंगे टाइटन का बोर्ड",
+      "url": "https://www.amarujala.com/business/business-diary/turmoil-at-tata-trusts-mehli-mistry-challenges-his-removal-as-trustee-noel-tata-to-step-down-from-titan-board-2026-11-06",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-06T00:13:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/mahal-masatara_793cafc9ad0adbf4d42e1c7d92394777.jpeg?w=1200&dpr=1.0",
+      "summary": "टाटा ट्रस्ट में मेहली मिस्त्री ने न्यासी पद से हटाने का विरोध किया है। नोएल टाटा टाइटन के बोर्ड से इस्तीफा देने जा रहे हैं। यह घटनाक्रम ट्रस्ट के भीतर चल रहे विवाद को दर्शाता है। मेहली मिस्त्री ने न्यासी पद से हटाने को दी चुनौती, नोएल टाटा छोड़ेंगे टाइटन का बोर्ड।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मेहली मिस्त्री ने न्यासी पद से हटाने को दी चुनौती, नोएल टाटा छोड़ेंगे टाइटन का बोर्ड",
+          "summary": "टाटा ट्रस्ट में मेहली मिस्त्री ने न्यासी पद से हटाने का विरोध किया है। नोएल टाटा टाइटन के बोर्ड से इस्तीफा देने जा रहे हैं। यह घटनाक्रम ट्रस्ट के भीतर चल रहे विवाद को दर्शाता है। मेहली मिस्त्री ने न्यासी पद से हटाने को दी चुनौती, नोएल टाटा छोड़ेंगे टाइटन का बोर्ड।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आज धनतेरस पर खरीदारी का है शुभ संयोग, सोना-चांदी लेने से पहले जानें अपने शहर का पूजा मुहूर्त, देखें",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/dhanteras-2026-check-puja-vidhi-gold-silver-buying-time-and-city-wise-shubh-muhurat-2026-11-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-06T00:11:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/thhanatarasa-para-shabha-maharata_460c92ab6563d1132272d0dce8119a77.jpeg?w=1200&dpr=1.0",
+      "summary": "6 नवंबर को धनतेरस पर सोना और चांदी खरीदने का विशेष महत्व है। लोगों को अपने शहर के अनुसार पूजा मुहूर्त की जानकारी लेनी चाहिए। शुभ समय पर खरीदारी करने की परंपरा कायम है। आज 6 नवंबर को देशभर में धनतेरस का पर्व मनाया जा रहा है। इस दिन सोना-चांदी और अन्य शुभ वस्तुओं की खरीदारी का विशेष महत्व है।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आज धनतेरस पर खरीदारी का है शुभ संयोग, सोना-चांदी लेने से पहले जानें अपने शहर का पूजा मुहूर्त, देखें",
+          "summary": "6 नवंबर को धनतेरस पर सोना और चांदी खरीदने का विशेष महत्व है। लोगों को अपने शहर के अनुसार पूजा मुहूर्त की जानकारी लेनी चाहिए। शुभ समय पर खरीदारी करने की परंपरा कायम है। आज 6 नवंबर को देशभर में धनतेरस का पर्व मनाया जा रहा है। इस दिन सोना-चांदी और अन्य शुभ वस्तुओं की खरीदारी का विशेष महत्व है।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दिवाली के बाद महंगी हो सकती हैं रोजमर्रा की चीजें: पड़ेगी महंगाई की मार, कंपनियां दाम बढ़ाने की",
+      "url": "https://www.amarujala.com/business/business-diary/daily-essentials-may-become-costlier-after-diwali-consumers-face-inflation-companies-prepare-to-raise-prices-2026-11-06",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-06T00:09:33+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/sakataka-tasavara_47be2b8f5d61aec6342bf5469d8446ad.jpeg?w=1200&dpr=1.0",
+      "summary": "दिवाली के बाद भारतीय कंपनियां रोजमर्रा की वस्तुओं के दाम बढ़ाने की तैयारी कर रही हैं। उपभोक्ताओं को महंगाई का सामना करना पड़ेगा। दिवाली के बाद महंगी हो सकती हैं रोजमर्रा की चीजें: पड़ेगी महंगाई की मार, कंपनियां दाम बढ़ाने की।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिवाली के बाद महंगी हो सकती हैं रोजमर्रा की चीजें: पड़ेगी महंगाई की मार, कंपनियां दाम बढ़ाने की",
+          "summary": "दिवाली के बाद भारतीय कंपनियां रोजमर्रा की वस्तुओं के दाम बढ़ाने की तैयारी कर रही हैं। उपभोक्ताओं को महंगाई का सामना करना पड़ेगा। दिवाली के बाद महंगी हो सकती हैं रोजमर्रा की चीजें: पड़ेगी महंगाई की मार, कंपनियां दाम बढ़ाने की।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में चुनावी हार के बाद ट्रंप को पहला बड़ा झटका, चंडीगढ़ की बेटी हरमीत कौर ढिल्लों का इस्तीफा",
+      "url": "https://hindi.news18.com/world/america-harmeet-kaur-dhillon-resigns-donald-trump-administration-civil-rights-division-10966760.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-06T00:09:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Harmeet-Dhillon-2026-11-6bb0423493d356ed992ee79c11ed32bd-1200x800.jpg",
+      "summary": "हरमीत कौर ढिल्लों ने अमेरिकी न्याय विभाग के नागरिक अधिकार प्रभाग के प्रमुख पद से इस्तीफा दे दिया। टॉड ब्लैंच ने इसकी पुष्टि की। अटॉर्नी जनरल टॉड ब्लैंच ने गुरुवार को उनके इस्तीफे की पुष्टि की. ढिल्लों ने कहा कि उन्होंने खुद पद छोड़ने का फैसला किया था. मिडटर्म चुनाव में रिपब्लिकन पार्टी की बड़ी हार के बाद ट्रंप प्रशासन से इस्तीफा देने वाली वह पहली वरिष्ठ अधिकारी हैं.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चीन-पाकिस्तान होकर भारत आने वालों पर सख्ती: नेपाल और भूटान सफर से पहले जान लें नए इमिग्रेशन नियम",
-          "summary": "केंद्र सरकार ने नेपाल और भूटान के लिए नए इमिग्रेशन नियम जारी किए हैं। अब सीमा पार करने वाले भारतीय नागरिकों को पहचान दस्तावेजों की कड़ी शर्तें पूरी करनी होंगी। यह बदलाव सड़क और हवाई मार्ग से सीधे यात्रा करने वालों पर लागू होगा। India Nepal Bhutan Immigration Rules: नेपाल और भूटान की यात्रा करने वाले भारतीय नागरिकों के लिए केंद्र सरकार ने सीमा पार आवाजाही से जुड़े नियमों में अहम बदलाव किया है.",
+          "title": "अमेरिका में चुनावी हार के बाद ट्रंप को पहला बड़ा झटका, चंडीगढ़ की बेटी हरमीत कौर ढिल्लों का इस्तीफा",
+          "summary": "हरमीत कौर ढिल्लों ने अमेरिकी न्याय विभाग के नागरिक अधिकार प्रभाग के प्रमुख पद से इस्तीफा दे दिया। टॉड ब्लैंच ने इसकी पुष्टि की। अटॉर्नी जनरल टॉड ब्लैंच ने गुरुवार को उनके इस्तीफे की पुष्टि की. ढिल्लों ने कहा कि उन्होंने खुद पद छोड़ने का फैसला किया था. मिडटर्म चुनाव में रिपब्लिकन पार्टी की बड़ी हार के बाद ट्रंप प्रशासन से इस्तीफा देने वाली वह पहली वरिष्ठ अधिकारी हैं.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "‘उड़ने वाली बकरियां’, कुदरत का करिश्मा नहीं किसानों की मजबूरी, जानें अजूबे की पूरी सच्चाई",
-      "url": "https://hindi.news18.com/world/rest-of-world-the-dark-reality-behind-morocco-tree-climbing-goats-animal-cruelty-severe-drought-and-tourist-exploitation-photogallery-10966516.html",
-      "source": "News18 Hindi (World)",
+      "title": "धनतेरस पर जूलर्स ने खोला ऑफर्स का पिटारा: मेकिंग चार्ज में 100% तक छूट; खरीदारी पर कार और स्कूटर",
+      "url": "https://www.amarujala.com/business/business-diary/jewellers-unveil-offers-for-dhanteras-up-to-100-discount-on-making-charges-chance-to-win-car-scooter-2026-11-06",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-05T17:07:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Flying-Goats-2026-11-4c1955857a447af4ad434c6d5d62d8ea-1200x800.jpg",
-      "summary": "मोरक्को की पेड़ों पर चढ़ने वाली बकरियां सूखे और भुखमरी के कारण मजबूर हैं। यह दृश्य प्रकृति का अजूबा नहीं, बल्कि किसानों की आर्थिक तंगी का परिणाम है। इन जानवरों का शोषण स्थानीय अर्थव्यवस्था की कमजोरी को दर्शाता है। मोरक्को की 'पेड़ों पर चढ़ने वाली बकरियां' पूरी दुनिया में मशहूर हैं और अक्सर सोशल मीडिया पर छाई रहती हैं. पहली नजर में ये प्रकृति का एक अनोखा अजूबा लगता है, लेकिन इस खूबसूरत तस्वीर के पीछे भुखमरी, भयंकर सूखा और बेजुबानों के शोषण की एक दर्दनाक कहानी छिपी है.",
+      "published_at": "2026-11-05T23:57:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/sakataka-tasavara_224c1ff438d4ab18e057a91d4c4f5919.jpeg?w=1200&dpr=1.0",
+      "summary": "धनतेरस पर ज्वेलर्स ने मेकिंग चार्ज में सौ प्रतिशत तक छूट की पेशकश की। खरीदारी पर कार और स्कूटर जीतने का मौका भी मिला। धनतेरस पर जूलर्स ने खोला ऑफर्स का पिटारा: मेकिंग चार्ज में 100% तक छूट; खरीदारी पर कार और स्कूटर।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धनतेरस पर जूलर्स ने खोला ऑफर्स का पिटारा: मेकिंग चार्ज में 100% तक छूट; खरीदारी पर कार और स्कूटर",
+          "summary": "धनतेरस पर ज्वेलर्स ने मेकिंग चार्ज में सौ प्रतिशत तक छूट की पेशकश की। खरीदारी पर कार और स्कूटर जीतने का मौका भी मिला। धनतेरस पर जूलर्स ने खोला ऑफर्स का पिटारा: मेकिंग चार्ज में 100% तक छूट; खरीदारी पर कार और स्कूटर।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "देहरादून में अमित शाह करेंगे जनसभा; पुरुष अंडर-19 एशिया कप में दिखेगी द्रविड़-सहवाग की अगली पीढ़ी",
+      "url": "https://www.amarujala.com/india-news/6-november-2026-major-event-2026-2026-11-05",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-05T23:56:39+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/05/aaja-ka-thana_2d1f6bf061acefc55a9a33fcb83da6b3.gif?w=1200&dpr=1.0",
+      "summary": "अमित शाह 6 नवंबर को देहरादून में जनसभा को संबोधित करेंगे। उसी दिन पुरुष अंडर-19 एशिया कप में भारतीय टीम उतरेगी। 6 November 2026 Major event 2026- आज के दिन: देहरादून में अमित शाह की जनसभा; मेन्स U-19 एशिया कप में दिखेगी द्रविड़-सहवाग की अगली पीढ़ी। देहरादून में अमित शाह करेंगे जनसभा; पुरुष अंडर-19 एशिया कप में दिखेगी द्रविड़-सहवाग की अगली पीढ़ी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "देहरादून में अमित शाह करेंगे जनसभा; पुरुष अंडर-19 एशिया कप में दिखेगी द्रविड़-सहवाग की अगली पीढ़ी",
+          "summary": "अमित शाह 6 नवंबर को देहरादून में जनसभा को संबोधित करेंगे। उसी दिन पुरुष अंडर-19 एशिया कप में भारतीय टीम उतरेगी। 6 November 2026 Major event 2026- आज के दिन: देहरादून में अमित शाह की जनसभा; मेन्स U-19 एशिया कप में दिखेगी द्रविड़-सहवाग की अगली पीढ़ी। देहरादून में अमित शाह करेंगे जनसभा; पुरुष अंडर-19 एशिया कप में दिखेगी द्रविड़-सहवाग की अगली पीढ़ी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ब्लिंकिट पर एंबुलेंस फ्री नहीं, किराया ₹2500; सेमीकंडक्टर उद्योग में वैश्विक सहयोग अनिवार्य",
+      "url": "https://www.amarujala.com/business/business-diary/business-update-dhanteras-diwali-quick-commerce-platform-ambulance-not-free-sebi-bse-nse-stocks-rbi-forex-news-2026-11-06",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-05T23:51:38+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/16/business-updates_5bd5a4d504c2ee303c82649060be7bf5.jpeg?w=1200&dpr=1.0",
+      "summary": "ब्लिंकिट पर एंबुलेंस सेवा के लिए 2500 रुपये का किराया लगता है। सेमीकंडक्टर उद्योग में वैश्विक सहयोग की आवश्यकता पर बल दिया गया। बिजनेस अपडेट्स: ब्लिंकिट पर एंबुलेंस फ्री नहीं, किराया ₹2500; सेमीकंडक्टर उद्योग में वैश्विक सहयोग अनिवार्य।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ब्लिंकिट पर एंबुलेंस फ्री नहीं, किराया ₹2500; सेमीकंडक्टर उद्योग में वैश्विक सहयोग अनिवार्य",
+          "summary": "ब्लिंकिट पर एंबुलेंस सेवा के लिए 2500 रुपये का किराया लगता है। सेमीकंडक्टर उद्योग में वैश्विक सहयोग की आवश्यकता पर बल दिया गया। बिजनेस अपडेट्स: ब्लिंकिट पर एंबुलेंस फ्री नहीं, किराया ₹2500; सेमीकंडक्टर उद्योग में वैश्विक सहयोग अनिवार्य।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "इस्राइल में नई सरकार पर असमंजस बरकरार; राजस्थान से थाईलैंड पहुंचा हत्या का दोषी; नेकां में अंतर्कलह",
+      "url": "https://www.amarujala.com/india-news/today-headlines-israel-new-govt-confusion-national-conference-infighting-jharkhand-accident-rajasthan-big-news-2026-11-06",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-05T23:50:27+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0",
+      "summary": "इस्राइल में नई सरकार के गठन की प्रक्रिया में असमंजस बरकरार है। राजस्थान से एक हत्या के दोषी को थाईलैंड भेजा गया। नेकां पार्टी में अंतर्कलह की खबरें आ रही हैं। इस्राइल में नई सरकार पर असमंजस बरकरार; राजस्थान से थाईलैंड पहुंचा हत्या का दोषी; नेकां में अंतर्कलह।",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘उड़ने वाली बकरियां’, कुदरत का करिश्मा नहीं किसानों की मजबूरी, जानें अजूबे की पूरी सच्चाई",
-          "summary": "मोरक्को की पेड़ों पर चढ़ने वाली बकरियां सूखे और भुखमरी के कारण मजबूर हैं। यह दृश्य प्रकृति का अजूबा नहीं, बल्कि किसानों की आर्थिक तंगी का परिणाम है। इन जानवरों का शोषण स्थानीय अर्थव्यवस्था की कमजोरी को दर्शाता है। मोरक्को की 'पेड़ों पर चढ़ने वाली बकरियां' पूरी दुनिया में मशहूर हैं और अक्सर सोशल मीडिया पर छाई रहती हैं. पहली नजर में ये प्रकृति का एक अनोखा अजूबा लगता है, लेकिन इस खूबसूरत तस्वीर के पीछे भुखमरी, भयंकर सूखा और बेजुबानों के शोषण की एक दर्दनाक कहानी छिपी है.",
+          "title": "इस्राइल में नई सरकार पर असमंजस बरकरार; राजस्थान से थाईलैंड पहुंचा हत्या का दोषी; नेकां में अंतर्कलह",
+          "summary": "इस्राइल में नई सरकार के गठन की प्रक्रिया में असमंजस बरकरार है। राजस्थान से एक हत्या के दोषी को थाईलैंड भेजा गया। नेकां पार्टी में अंतर्कलह की खबरें आ रही हैं। इस्राइल में नई सरकार पर असमंजस बरकरार; राजस्थान से थाईलैंड पहुंचा हत्या का दोषी; नेकां में अंतर्कलह।",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "मिडटर्म हार की बौखलाहट में ईरान पर न्यूक्लियर अटैक करेंगे ट्रंप? इस पहाड़ पर लॉक होगा टारगेट",
-      "url": "https://hindi.news18.com/world/middle-east-us-midterm-meltdown-will-donald-trump-launch-nuclear-strikes-on-iran-pickaxe-mountain-target-locked-amid-military-buildup-10966452.html",
-      "source": "News18 Hindi (World)",
+      "title": "नौ दिन में 3000 KM पहुंचा हाथी, अदालत चिंतित; स्वतंत्रता सेनानी की पेंशन के दावे पर अहम आदेश",
+      "url": "https://www.amarujala.com/india-news/supreme-court-updates-elephant-3000-km-concern-keralam-16-students-freedom-fighters-pension-cji-bench-news-2026-11-06",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-05T16:24:46+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Japan-Nuclear-Shift-2026-09-5e565cb950daf101c9eb42a79e65efb8-1200x800.jpg",
-      "summary": "ट्रंप ने ईरान पर न्यूक्लियर हमले की संभावना जताई है। उनका निशाना पिकैक्स माउंटेन का सुरक्षित परमाणु ठिकाना है। यह स्थान पहाड़ों के नीचे छिपा है और आम बम इसे भेद नहीं पा रहे हैं। अमेरिका के मिडटर्म चुनावों में ट्रंप को तगड़ा झटका लगा है. ईरान के साथ चल रही जंग की वजह से जनता में भारी गुस्सा था, जिससे चुनाव में हार का मुंह देखना पड़ा.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-11-05T23:46:35+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/06/supreme-court-updates_37693db95c8fb536899fb1003ed3c7c2.jpeg?w=1200&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट ने नौ दिन में 3000 किलोमीटर दूर पहुंचे हाथी के मामले पर चिंता जताई। अदालत ने स्वतंत्रता सेनानियों की पेंशन से जुड़े दावों पर भी महत्वपूर्ण आदेश जारी किए। सुप्रीम कोर्ट: नौ दिन में 3000 KM पहुंचा हाथी, अदालत चिंतित; स्वतंत्रता सेनानी की पेंशन के दावे पर अहम आदेश।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मिडटर्म हार की बौखलाहट में ईरान पर न्यूक्लियर अटैक करेंगे ट्रंप? इस पहाड़ पर लॉक होगा टारगेट",
-          "summary": "ट्रंप ने ईरान पर न्यूक्लियर हमले की संभावना जताई है। उनका निशाना पिकैक्स माउंटेन का सुरक्षित परमाणु ठिकाना है। यह स्थान पहाड़ों के नीचे छिपा है और आम बम इसे भेद नहीं पा रहे हैं। अमेरिका के मिडटर्म चुनावों में ट्रंप को तगड़ा झटका लगा है. ईरान के साथ चल रही जंग की वजह से जनता में भारी गुस्सा था, जिससे चुनाव में हार का मुंह देखना पड़ा.",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "नौ दिन में 3000 KM पहुंचा हाथी, अदालत चिंतित; स्वतंत्रता सेनानी की पेंशन के दावे पर अहम आदेश",
+          "summary": "सुप्रीम कोर्ट ने नौ दिन में 3000 किलोमीटर दूर पहुंचे हाथी के मामले पर चिंता जताई। अदालत ने स्वतंत्रता सेनानियों की पेंशन से जुड़े दावों पर भी महत्वपूर्ण आदेश जारी किए। सुप्रीम कोर्ट: नौ दिन में 3000 KM पहुंचा हाथी, अदालत चिंतित; स्वतंत्रता सेनानी की पेंशन के दावे पर अहम आदेश।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "पहले दिखाया ईगो, अब विक्रम मिस्री से दिल खोलकर मिले बालेन शाह, भारत-नेपाल के बीच होगी 2 बड़ी डील",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-pm-balen-shah-meets-indian-foreign-secretary-vikram-misri-in-kathmandu-for-historic-sports-railway-india-nepal-2-deals-10966428.html",
-      "source": "News18 Hindi (World)",
+      "title": "नौ गायों से खड़ा किया तीन करोड़ का सालाना कारोबार, 15 देशों में घी की मांग; 300 किलो लड्डुओं के",
+      "url": "https://www.amarujala.com/delhi-ncr/haryana-built-a-3-crore-annual-business-from-just-nine-cows-2026-11-06",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-11-05T15:41:20+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Balen-Shah-Vikram-Misri-Meet-2026-11-af09e004a175fddeb852008354b51df3-1200x800.jpg",
-      "summary": "बालेन शाह ने विक्रम मिस्री से काठमांडू में मुलाकात की। इस बैठक में खेल सहयोग और अयोध्या-जनकपुर रेल सेवा पर सहमति बनी। बाढ़ राहत के बाद दोनों देशों के बीच संबंधों में सुधार हुआ है। मई 2026 में बालेन शाह ने प्रोटोकॉल का रोना रोया था. उन्होंने भारत के विदेश सचिव विक्रम मिस्री से मिलने से मना कर दिया था.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-11-05T23:42:25+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/03/06/fata-58-apana-farama-para-thaha-ka-bl-karaka-gha-nakalta-ranae-sagavana-sarata-savaya_032f1ffe18995e27aea22c3fce4d48a1.jpeg?w=1200&dpr=1.0",
+      "summary": "गांव खरमाण की रेणु सांगवान ने नौ गायों से तीन करोड़ रुपये का सालाना कारोबार शुरू किया। बिलौना विधि से बना देसी घी अब 15 देशों में मांग में है। गांव खरमाण की रेणु सांगवान ने कोरोना काल में दूध की बिक्री बंद होने पर बिलौना विधि से देसी घी बनाना शुरू किया। नौ गायों से खड़ा किया तीन करोड़ का सालाना कारोबार, 15 देशों में घी की मांग; 300 किलो लड्डुओं के।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पहले दिखाया ईगो, अब विक्रम मिस्री से दिल खोलकर मिले बालेन शाह, भारत-नेपाल के बीच होगी 2 बड़ी डील",
-          "summary": "बालेन शाह ने विक्रम मिस्री से काठमांडू में मुलाकात की। इस बैठक में खेल सहयोग और अयोध्या-जनकपुर रेल सेवा पर सहमति बनी। बाढ़ राहत के बाद दोनों देशों के बीच संबंधों में सुधार हुआ है। मई 2026 में बालेन शाह ने प्रोटोकॉल का रोना रोया था. उन्होंने भारत के विदेश सचिव विक्रम मिस्री से मिलने से मना कर दिया था.",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "नौ गायों से खड़ा किया तीन करोड़ का सालाना कारोबार, 15 देशों में घी की मांग; 300 किलो लड्डुओं के",
+          "summary": "गांव खरमाण की रेणु सांगवान ने नौ गायों से तीन करोड़ रुपये का सालाना कारोबार शुरू किया। बिलौना विधि से बना देसी घी अब 15 देशों में मांग में है। गांव खरमाण की रेणु सांगवान ने कोरोना काल में दूध की बिक्री बंद होने पर बिलौना विधि से देसी घी बनाना शुरू किया। नौ गायों से खड़ा किया तीन करोड़ का सालाना कारोबार, 15 देशों में घी की मांग; 300 किलो लड्डुओं के।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "एक साथ 16 विमानों को बम से उड़ाने की धमकी, बचाने के लिए भेजने पड़े फाइटर जेट्स",
-      "url": "https://hindi.news18.com/world/europe-european-aviation-crisis-16-flights-face-bomb-threats-and-fighter-jet-escorts-in-massive-security-scare-russia-iran-hybrid-warfare-10966340.html",
-      "source": "News18 Hindi (World)",
+      "title": "US में खसरे से छह मौत, अबतक 1476 मामले; शेख हसीना बोलीं- बांग्लादेश लौटने से कोई रोक नहीं सकता",
+      "url": "https://www.amarujala.com/world/world-updates-measles-in-us-sheikh-hasina-bangladesh-return-west-asia-russia-ukraine-crisis-pak-china-news-2026-11-06",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-05T15:09:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Ahmedabad-Hyderabad-Flight-2026-10-f939ff43ff8bc83f36e93c3213dd4593-1200x800.jpg",
-      "summary": "पोलैंड, फ्रांस, इटली और चेक गणराज्य की 16 उड़ानों को बम धमकी मिली। कई विमानों की इमरजेंसी लैंडिंग कराई गई और फाइटर जेट्स तैनात किए गए। इसी दौरान सुपरमार्केट्स पर साइबर हमले भी हुए। यूरोप के आसमान में अचानक कोहराम मच गया. पोलैंड, फ्रांस, इटली और चेक गणराज्य की 16 उड़ानों को एक साथ बम से उड़ाने की धमकी मिल गई.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एक साथ 16 विमानों को बम से उड़ाने की धमकी, बचाने के लिए भेजने पड़े फाइटर जेट्स",
-          "summary": "पोलैंड, फ्रांस, इटली और चेक गणराज्य की 16 उड़ानों को बम धमकी मिली। कई विमानों की इमरजेंसी लैंडिंग कराई गई और फाइटर जेट्स तैनात किए गए। इसी दौरान सुपरमार्केट्स पर साइबर हमले भी हुए। यूरोप के आसमान में अचानक कोहराम मच गया. पोलैंड, फ्रांस, इटली और चेक गणराज्य की 16 उड़ानों को एक साथ बम से उड़ाने की धमकी मिल गई.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दशकों की जंग के बाद भारत ने जिसे खदेडा, पड़ोस में फिर आ खड़ा हुआ वही दैत्‍य, लीलने को तैयार है",
-      "url": "https://hindi.news18.com/world/pakistan-pakistan-wild-polio-virus-cases-2026-khyber-pakhtunkhwa-health-update-afghanistan-vaccination-campaign-10966291.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-05T14:37:42+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/polio-2026-11-031d339351296702e30f48730ee7398f-1200x800.jpg",
-      "summary": "पाकिस्तान के खैबर पख्तूनख्वा में 7 महीने के शिशु ने पोलियो से संक्रमण का शिकार बना। 2026 में अब तक ऐसे मामलों की संख्या 9 हो गई है। यह बीमारी बच्चों को प्रभावित कर रही है। भारत ने जिस दैत्‍य को दशकों पहले पूरी तरह से खदेड़ दिया था, वहीं अब पड़ोसी पाकिस्‍तान में जिंदगियां लीलने के लिए खड़ा है.",
+      "published_at": "2026-11-05T23:39:15+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
+      "summary": "संयुक्त राज्य अमेरिका में खसरे से छह लोगों की मौत हुई है। अब तक कुल 1476 मामले दर्ज किए गए हैं। शेख हसीना ने कहा कि उन्हें बांग्लादेश लौटने से कोई रोक नहीं सकता। वर्ल्ड अपडेट्स: US में खसरे से छह मौत, अबतक 1476 मामले; शेख हसीना बोलीं- बांग्लादेश लौटने से कोई रोक नहीं सकता।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दशकों की जंग के बाद भारत ने जिसे खदेडा, पड़ोस में फिर आ खड़ा हुआ वही दैत्‍य, लीलने को तैयार है",
-          "summary": "पाकिस्तान के खैबर पख्तूनख्वा में 7 महीने के शिशु ने पोलियो से संक्रमण का शिकार बना। 2026 में अब तक ऐसे मामलों की संख्या 9 हो गई है। यह बीमारी बच्चों को प्रभावित कर रही है। भारत ने जिस दैत्‍य को दशकों पहले पूरी तरह से खदेड़ दिया था, वहीं अब पड़ोसी पाकिस्‍तान में जिंदगियां लीलने के लिए खड़ा है.",
+          "title": "US में खसरे से छह मौत, अबतक 1476 मामले; शेख हसीना बोलीं- बांग्लादेश लौटने से कोई रोक नहीं सकता",
+          "summary": "संयुक्त राज्य अमेरिका में खसरे से छह लोगों की मौत हुई है। अब तक कुल 1476 मामले दर्ज किए गए हैं। शेख हसीना ने कहा कि उन्हें बांग्लादेश लौटने से कोई रोक नहीं सकता। वर्ल्ड अपडेट्स: US में खसरे से छह मौत, अबतक 1476 मामले; शेख हसीना बोलीं- बांग्लादेश लौटने से कोई रोक नहीं सकता।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "तेल के दो जहाजों और एक अन्य नाव में धमाके के बाद लगी आग, होर्मुज स्ट्रेट में हुआ हादसा",
-      "url": "https://www.patrika.com/world-news/two-oil-tankers-and-one-tugboat-catch-fire-after-explosion-in-strait-of-hormuz-21032802",
-      "source": "Patrika (World)",
+      "title": "अपनों को भेजें मां लक्ष्मी और भगवान धन्वंतरि के आशीर्वाद से भरे ये खास संदेश",
+      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/happy-dhanteras-2026-wishes-quotes-images-messages-photos-whatsapp-status-2026-11-05",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-05T14:35:03+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/tanker-catches-fire.webp",
-      "summary": "होर्मुज स्ट्रेट में दो तेल जहाजों और एक अन्य नाव में धमाके के बाद आग लग गई। ईरान ने अमेरिका से तनाव के बीच इस रणनीतिक जलमार्ग को बंद कर दिया है। अमेरिकी नेवी का दावा है कि जहाजों की सामान्य आवाजाही फिर से शुरू हो चुकी है। होर्मुज स्ट्रेट (Strait of Hormuz) को जब से ईरान (Iran) ने बंद किया है, तब से इस रणनीतिक जलमार्ग की स्थिति पूरी तरह से बदल गई है।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-11-05T23:30:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/05/dhanteras-2026-wishes_f4b45d5e7ba7a73d42e47e686dc9e843.jpeg?w=1200&dpr=1.0",
+      "summary": "धनतेरस पर मां लक्ष्मी और भगवान धन्वंतरि के आशीर्वाद से भरे संदेश भेजने का प्रचलन है। परिवार और दोस्तों को शुभकामनाएं देने के लिए विशेष कोट्स और तस्वीरें साझा की जा रही हैं। धनतेरस का त्योहार अपनों के जीवन में खुशियां बांटने का भी खास मौका है। ऐसे में अगर आप भी अपने परिवार, दोस्तों और प्रियजनों को इस पावन पर्व की बधाई देना चाहते हैं, तो यहां दिए गए शुभकामना संदेश, कोट्स और तस्वीरें भेजकर उनके दिन को खास बना सकते हैं।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तेल के दो जहाजों और एक अन्य नाव में धमाके के बाद लगी आग, होर्मुज स्ट्रेट में हुआ हादसा",
-          "summary": "होर्मुज स्ट्रेट में दो तेल जहाजों और एक अन्य नाव में धमाके के बाद आग लग गई। ईरान ने अमेरिका से तनाव के बीच इस रणनीतिक जलमार्ग को बंद कर दिया है। अमेरिकी नेवी का दावा है कि जहाजों की सामान्य आवाजाही फिर से शुरू हो चुकी है। होर्मुज स्ट्रेट (Strait of Hormuz) को जब से ईरान (Iran) ने बंद किया है, तब से इस रणनीतिक जलमार्ग की स्थिति पूरी तरह से बदल गई है।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "अपनों को भेजें मां लक्ष्मी और भगवान धन्वंतरि के आशीर्वाद से भरे ये खास संदेश",
+          "summary": "धनतेरस पर मां लक्ष्मी और भगवान धन्वंतरि के आशीर्वाद से भरे संदेश भेजने का प्रचलन है। परिवार और दोस्तों को शुभकामनाएं देने के लिए विशेष कोट्स और तस्वीरें साझा की जा रही हैं। धनतेरस का त्योहार अपनों के जीवन में खुशियां बांटने का भी खास मौका है। ऐसे में अगर आप भी अपने परिवार, दोस्तों और प्रियजनों को इस पावन पर्व की बधाई देना चाहते हैं, तो यहां दिए गए शुभकामना संदेश, कोट्स और तस्वीरें भेजकर उनके दिन को खास बना सकते हैं।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "PoK की वो चौक...जहां दबे हैं पाकिस्तान के पापों के सबूत, LoC से सिर्फ 45KM दूर, यहीं होने वाला है",
-      "url": "https://hindi.news18.com/news/knowledge/pok-rawalakot-d-chowk-700km-from-indian-border-rises-against-pakistani-army-brutality-10966130.html",
-      "source": "News18 Hindi (World)",
+      "title": "खूंटी में बेकाबू ट्रक ने लोगों को कुचला, एक ही परिवार के सात लोगों की मौत; मासूम गंभीर",
+      "url": "https://www.amarujala.com/jharkhand/road-accident-khunti-truck-family-many-killed-karra-torpa-road-scooty-casualties-jharkhand-police-news-2026-11-06",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-11-05T14:19:39+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/PoK-Protest-2026-11-0b6b0d8ebe5da89529e5c0897fa25c78-1200x800.jpg",
-      "summary": "पाकिस्तान के रावलकोट में डी-चौक पर 38 सूत्रीय मांगों के लिए प्रदर्शन जारी है। छात्र और जनता सड़कों पर हैं। ड्रोन हमलों के बावजूद प्रदर्शनकारियों ने पीछे हटने से इनकार किया है। PoK के रावलकोट में डी-चौक पर आजकल कुछ ऐसा हो रहा है, जिसकी गूंज दूर तक है. जनता और छात्र सड़कों पर उतरे हैं. गोलियों और ड्रोन हमलों के बावजूद कोई पीछे हटने को तैयार नहीं है.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-11-05T21:39:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/09/accident-demo_4d483ccf1fc0b669aaf0b0386ebdf9c1.jpeg?w=1200&dpr=1.0",
+      "summary": "झारखंड के खूंटी में बेकाबू ट्रक ने लोगों को कुचल दिया। एक ही परिवार के सात सदस्य मौके पर ही मारे गए। एक मासूम गंभीर रूप से घायल है और इलाज के लिए अस्पताल भर्ती है। झारखंड में सड़क हादसा: खूंटी में बेकाबू ट्रक ने लोगों को कुचला, एक ही परिवार के सात लोगों की मौत; मासूम गंभीर।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "PoK की वो चौक...जहां दबे हैं पाकिस्तान के पापों के सबूत, LoC से सिर्फ 45KM दूर, यहीं होने वाला है",
-          "summary": "पाकिस्तान के रावलकोट में डी-चौक पर 38 सूत्रीय मांगों के लिए प्रदर्शन जारी है। छात्र और जनता सड़कों पर हैं। ड्रोन हमलों के बावजूद प्रदर्शनकारियों ने पीछे हटने से इनकार किया है। PoK के रावलकोट में डी-चौक पर आजकल कुछ ऐसा हो रहा है, जिसकी गूंज दूर तक है. जनता और छात्र सड़कों पर उतरे हैं. गोलियों और ड्रोन हमलों के बावजूद कोई पीछे हटने को तैयार नहीं है.",
-          "region": "एशिया-प्रशांत"
+          "title": "खूंटी में बेकाबू ट्रक ने लोगों को कुचला, एक ही परिवार के सात लोगों की मौत; मासूम गंभीर",
+          "summary": "झारखंड के खूंटी में बेकाबू ट्रक ने लोगों को कुचल दिया। एक ही परिवार के सात सदस्य मौके पर ही मारे गए। एक मासूम गंभीर रूप से घायल है और इलाज के लिए अस्पताल भर्ती है। झारखंड में सड़क हादसा: खूंटी में बेकाबू ट्रक ने लोगों को कुचला, एक ही परिवार के सात लोगों की मौत; मासूम गंभीर।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "डोनाल्ड ट्रंप के हारते पाकिस्तान ने उठाया कटोरा, सऊदी ने दिया खैरात तभी मिलेगी रोटी",
-      "url": "https://hindi.news18.com/world/pakistan-saudi-bails-out-pakistan-with-3-billion-dollar-lifeline-as-us-10-billion-dollar-liquidity-support-remains-uncertain-ws-l-10966126.html",
-      "source": "News18 Hindi (World)",
+      "title": "अब छात्राएं-महिलाएं थाने जाए बगैर क्यूआर कोड स्कैन कर दे सकेंगी शिकायत, ई-निर्भीक सिस्टम आज से शुरू",
+      "url": "https://www.amarujala.com/delhi-ncr/delhi-file-complaints-by-scanning-a-qr-code-without-needing-to-visit-a-police-station-2026-11-06",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-11-05T13:14:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-us-2026-11-23fda41813b7699c1455dcbbfe308c96-1200x800.jpg",
-      "summary": "सऊदी अरब ने पाकिस्तान को तीन अरब डॉलर के कर्ज की अवधि बढ़ा दी है। वित्त मंत्री मुहम्मद औरंगजेब ने इसे विदेशी मुद्रा भंडार मजबूत करने के लिए महत्वपूर्ण राहत बताया। अमेरिका से दस अरब डॉलर की सहायता पर अभी तक कोई फैसला नहीं हुआ है। Pakistan News: अमेरिका से आर्थिक मदद की उम्मीद टूटने के बीच सऊदी अरब ने पाकिस्तान को 3 अरब डॉलर के कर्ज की अवधि बढ़ा दी है.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-11-05T21:36:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/1_cab5f59e9b89db7eff1341505a70301f.jpeg?w=1200&dpr=1.0",
+      "summary": "ई-निर्भीक सिस्टम आज से शुरू हो गया है। अब महिलाएं और छात्राएं क्यूआर कोड स्कैन कर शिकायत दर्ज करा सकेंगी। उन्हें थाने या पुलिस अधिकारी के पास जाने की अब ज़रूरत नहीं पड़ेगी। स्कूली छात्राओं और महिलाओं को शिकायत दर्ज कराने के लिए अब किसी पुलिस स्टेशन या अधिकारी के पास जाने की जरूरत नहीं। अब छात्राएं-महिलाएं थाने जाए बगैर क्यूआर कोड स्कैन कर दे सकेंगी शिकायत, ई-निर्भीक सिस्टम आज से शुरू।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "डोनाल्ड ट्रंप के हारते पाकिस्तान ने उठाया कटोरा, सऊदी ने दिया खैरात तभी मिलेगी रोटी",
-          "summary": "सऊदी अरब ने पाकिस्तान को तीन अरब डॉलर के कर्ज की अवधि बढ़ा दी है। वित्त मंत्री मुहम्मद औरंगजेब ने इसे विदेशी मुद्रा भंडार मजबूत करने के लिए महत्वपूर्ण राहत बताया। अमेरिका से दस अरब डॉलर की सहायता पर अभी तक कोई फैसला नहीं हुआ है। Pakistan News: अमेरिका से आर्थिक मदद की उम्मीद टूटने के बीच सऊदी अरब ने पाकिस्तान को 3 अरब डॉलर के कर्ज की अवधि बढ़ा दी है.",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "अब छात्राएं-महिलाएं थाने जाए बगैर क्यूआर कोड स्कैन कर दे सकेंगी शिकायत, ई-निर्भीक सिस्टम आज से शुरू",
+          "summary": "ई-निर्भीक सिस्टम आज से शुरू हो गया है। अब महिलाएं और छात्राएं क्यूआर कोड स्कैन कर शिकायत दर्ज करा सकेंगी। उन्हें थाने या पुलिस अधिकारी के पास जाने की अब ज़रूरत नहीं पड़ेगी। स्कूली छात्राओं और महिलाओं को शिकायत दर्ज कराने के लिए अब किसी पुलिस स्टेशन या अधिकारी के पास जाने की जरूरत नहीं। अब छात्राएं-महिलाएं थाने जाए बगैर क्यूआर कोड स्कैन कर दे सकेंगी शिकायत, ई-निर्भीक सिस्टम आज से शुरू।",
+          "region": "दुनिया"
         }
       }
     },
     {
-      "title": "ईरान में पाकिस्तान का सीक्रेट खेल हुआ लीक, ‘हिंदुओं और यहूदियों’ के खिलाफ चल रहा खतरनाक ऑपरेशन!",
-      "url": "https://hindi.news18.com/world/middle-east-secret-pakistan-iran-nexus-against-hindu-jewish-bond-asim-munir-scared-for-india-israel-relations-provoking-muslim-brotherhood-10965982.html",
-      "source": "News18 Hindi (World)",
+      "title": "सरकार गठन पर असमंजस बरकरार, राष्ट्रपति हर्जोग ने कहा- आंकड़ों से स्थिति स्पष्ट नहीं",
+      "url": "https://www.amarujala.com/world/israel-new-govt-formation-president-herzog-unsure-netanyahu-v-eisenkot-likud-vs-arab-parties-who-has-majority-2026-11-06",
+      "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-11-05T12:59:45+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Secret-Pakistan-Iran-Nexus-against-Hindu-Jewish-Bond-2026-11-aba4c6f1789e7d0f0b27d1d7334a4b03-1200x800.jpg",
-      "summary": "ईरानी सुरक्षा अधिकारी मोहसिन रजाई ने पाकिस्तान के सेना प्रमुख आसिम मुनीर की बैठक की जानकारी लीक की। मुनीर ने भारत और इजराइल के संबंधों को खतरा बताया। ईरान का दावा है कि पाकिस्तान अर्थव्यवस्था की कमजोरी से ध्यान भटकाने के लिए यह खेल खेल रहा है। ईरान के बड़े सुरक्षा अधिकारी मोहसिन रजाई ने एक बड़ा खुलासा किया है.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-11-05T21:27:21+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/02/israel-election-new-govt-isarail-ma-naii-sarakara_1c1d39c667958d95dd1afbb2e3b55545.jpeg?w=1200&dpr=1.0",
+      "summary": "इज़राइल में सरकार गठन पर असमंजस बरकरार है। राष्ट्रपति हर्जोग ने कहा कि मौजूदा आंकड़ों से स्थिति स्पष्ट नहीं हो रही है। राजनीतिक समीकरण अभी भी अस्पष्ट बने हुए हैं और कोई तय फैसला नहीं निकला है। इस्राइल के राजनीति समीकरण: सरकार गठन पर असमंजस बरकरार, राष्ट्रपति हर्जोग ने कहा- आंकड़ों से स्थिति स्पष्ट नहीं।",
+      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरान में पाकिस्तान का सीक्रेट खेल हुआ लीक, ‘हिंदुओं और यहूदियों’ के खिलाफ चल रहा खतरनाक ऑपरेशन!",
-          "summary": "ईरानी सुरक्षा अधिकारी मोहसिन रजाई ने पाकिस्तान के सेना प्रमुख आसिम मुनीर की बैठक की जानकारी लीक की। मुनीर ने भारत और इजराइल के संबंधों को खतरा बताया। ईरान का दावा है कि पाकिस्तान अर्थव्यवस्था की कमजोरी से ध्यान भटकाने के लिए यह खेल खेल रहा है। ईरान के बड़े सुरक्षा अधिकारी मोहसिन रजाई ने एक बड़ा खुलासा किया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सऊदी अरब ने यमन में हूती विद्रोहियों द्वारा नियंत्रित इलाके पर की एयरस्ट्राइक्स, 7 लोगों की मौत और",
-      "url": "https://www.patrika.com/world-news/saudi-arabia-carries-out-airstrikes-on-houthis-controlled-saada-in-yemen-7-people-killed-and-6-injured-21032664",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-05T12:17:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/saudi-airstrikes.webp",
-      "summary": "सऊदी अरब ने यमन में हूती विद्रोहियों के नियंत्रित क्षेत्र पर एयरस्ट्राइक्स की हैं। इस हमले में सात लोगों की मौत हो गई है। हूतियों और सऊदी सेना के बीच तनाव बढ़ रहा है, जहाँ दोनों पक्ष एक-दूसरे के क्षेत्रों को निशाना बना रहे हैं। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी अरब ने यमन में हूती विद्रोहियों द्वारा नियंत्रित इलाके पर की एयरस्ट्राइक्स, 7 लोगों की मौत और",
-          "summary": "सऊदी अरब ने यमन में हूती विद्रोहियों के नियंत्रित क्षेत्र पर एयरस्ट्राइक्स की हैं। इस हमले में सात लोगों की मौत हो गई है। हूतियों और सऊदी सेना के बीच तनाव बढ़ रहा है, जहाँ दोनों पक्ष एक-दूसरे के क्षेत्रों को निशाना बना रहे हैं। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "हार के बाद मार्को रूबियो आउट! भारत में तैनात ये शख्स लेगा जगह, अमेरिका के विदेश मंत्रालय में हड़कंप?",
-      "url": "https://hindi.news18.com/world/america-us-midterm-fallout-marco-rubio-may-replace-by-us-envoy-to-india-sergio-gor-reports-major-change-in-america-state-department-10965839.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-05T11:45:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Marco-Rubio-may-replace-by-US-Envoy-to-India-Sergio-Gor-2026-11-577d5ef57cdb5ed2860de3c016e572ac-1200x800.jpg",
-      "summary": "रिपब्लिकन पार्टी के मिडटर्म चुनाव में हार के बाद वाशिंगटन में प्रशासनिक फेरबदल की चर्चा है। रिपोर्ट के अनुसार विदेश मंत्री मार्को रुबियो की जगह भारतीय राजदूत सर्जियो गोर को लाया जा सकता है। गोर और व्हाइट हाउस ने इन दावों को बकवास करार दिया है। अमेरिकी मिडटर्म चुनावों में रिपब्लिकन पार्टी का प्रदर्शन अच्छा नहीं रहा. इसके बाद वाशिंगटन में बड़े प्रशासनिक फेरबदल की चर्चा तेज हो गई है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हार के बाद मार्को रूबियो आउट! भारत में तैनात ये शख्स लेगा जगह, अमेरिका के विदेश मंत्रालय में हड़कंप?",
-          "summary": "रिपब्लिकन पार्टी के मिडटर्म चुनाव में हार के बाद वाशिंगटन में प्रशासनिक फेरबदल की चर्चा है। रिपोर्ट के अनुसार विदेश मंत्री मार्को रुबियो की जगह भारतीय राजदूत सर्जियो गोर को लाया जा सकता है। गोर और व्हाइट हाउस ने इन दावों को बकवास करार दिया है। अमेरिकी मिडटर्म चुनावों में रिपब्लिकन पार्टी का प्रदर्शन अच्छा नहीं रहा. इसके बाद वाशिंगटन में बड़े प्रशासनिक फेरबदल की चर्चा तेज हो गई है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "हूती विद्रोहियों के हमले को यमन की सेना ने किया नाकाम",
-      "url": "https://www.patrika.com/world-news/yemen-army-repels-houthis-attack-in-taiz-21032558",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-05T11:45:12+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/yemen-soldiers.webp",
-      "summary": "यमन की सरकारी सेना ने ताइज़ प्रांत पर हूती विद्रोहियों के नवीनतम हमले को नाकामयाब कर दिया। दोनों पक्षों के बीच जारी संघर्ष में अब तक भारी नुकसान हुआ है। सरकार नियंत्रित क्षेत्रों पर कब्ज़े की कोशिशें जारी हैं। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग रुकने का नाम नहीं ले रही है। दोनों पक्ष लगातार एक-दूसरे के ठिकानों पर हमले कर रहे हैं, जिससे दोनों को ही नुकसान भी हो रहा है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हूती विद्रोहियों के हमले को यमन की सेना ने किया नाकाम",
-          "summary": "यमन की सरकारी सेना ने ताइज़ प्रांत पर हूती विद्रोहियों के नवीनतम हमले को नाकामयाब कर दिया। दोनों पक्षों के बीच जारी संघर्ष में अब तक भारी नुकसान हुआ है। सरकार नियंत्रित क्षेत्रों पर कब्ज़े की कोशिशें जारी हैं। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग रुकने का नाम नहीं ले रही है। दोनों पक्ष लगातार एक-दूसरे के ठिकानों पर हमले कर रहे हैं, जिससे दोनों को ही नुकसान भी हो रहा है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ग्वादर और कराची पोर्ट का सपना अधूरा? अफगानिस्तान ने फंसाया पाकिस्तान का पेंच, तो भारत को मध्य एशिया",
-      "url": "https://hindi.news18.com/world/south-asia-gwadar-and-karachi-ports-falling-short-afghanistan-hurdle-for-pakistan-opportunity-for-india-in-central-asia-10965652.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-05T11:26:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Afghanistan-Tension-2026-11-0ecfe2e4337761031125a73298345a6f-1200x800.jpg",
-      "summary": "अफगानिस्तान के सुरक्षा विवादों ने पाकिस्तान के मध्य एशिया तक व्यापार मार्ग के सपने को बाधित कर दिया है। कराची और ग्वादर बंदरगाहों को जोड़ने की योजना अब अफगान सीमा की दीवार से टकरा रही है। यह स्थिति पाकिस्तान के भू-राजनीतिक प्रभाव को कमजोर कर रही है। Pakistan Afghanistan Crisis: अफगानिस्तान और पाकिस्तान के बीच लगातार गहराते सुरक्षा और सीमा विवाद ने अब इस्लामाबाद के उस बड़े भू-राजनीतिक ख्वाब पर ब्रेक लगा दिया है, जिसके जरिए वह मध्य एशिया के लिए समुद्री व्यापार का इकलौता प्रवेश द्वार बनना चाहता था.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ग्वादर और कराची पोर्ट का सपना अधूरा? अफगानिस्तान ने फंसाया पाकिस्तान का पेंच, तो भारत को मध्य एशिया",
-          "summary": "अफगानिस्तान के सुरक्षा विवादों ने पाकिस्तान के मध्य एशिया तक व्यापार मार्ग के सपने को बाधित कर दिया है। कराची और ग्वादर बंदरगाहों को जोड़ने की योजना अब अफगान सीमा की दीवार से टकरा रही है। यह स्थिति पाकिस्तान के भू-राजनीतिक प्रभाव को कमजोर कर रही है। Pakistan Afghanistan Crisis: अफगानिस्तान और पाकिस्तान के बीच लगातार गहराते सुरक्षा और सीमा विवाद ने अब इस्लामाबाद के उस बड़े भू-राजनीतिक ख्वाब पर ब्रेक लगा दिया है, जिसके जरिए वह मध्य एशिया के लिए समुद्री व्यापार का इकलौता प्रवेश द्वार बनना चाहता था.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "सऊदी अरब पर हमले रोकने के लिए हूती विद्रोहियों ने रख दी 2 बड़ी शर्तें – चाहिए 4.8 लाख करोड़ और यमन के",
-      "url": "https://www.patrika.com/world-news/houthis-demand-51-billion-dollars-from-saudi-arabia-and-official-recognition-as-yemen-rulers-in-exchange-for-stopping-attacks-21032366",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-05T11:13:32+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/al-houthi.webp",
-      "summary": "हूती विद्रोहियों ने सऊदी अरब पर हमले रोकने के लिए दो शर्तें रखी हैं। उन्हें 4.8 लाख करोड़ रुपये की आर्थिक सहायता और यमन में अपनी स्थिति की गारंटी चाहिए। यह मांग मक्का संयुक्त रक्षा समझौते के संदर्भ में उठाई गई है। यमन (Yemen) में हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इस बीच हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला जारी है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सऊदी अरब पर हमले रोकने के लिए हूती विद्रोहियों ने रख दी 2 बड़ी शर्तें – चाहिए 4.8 लाख करोड़ और यमन के",
-          "summary": "हूती विद्रोहियों ने सऊदी अरब पर हमले रोकने के लिए दो शर्तें रखी हैं। उन्हें 4.8 लाख करोड़ रुपये की आर्थिक सहायता और यमन में अपनी स्थिति की गारंटी चाहिए। यह मांग मक्का संयुक्त रक्षा समझौते के संदर्भ में उठाई गई है। यमन (Yemen) में हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इस बीच हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला जारी है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पाकिस्तानी आर्मी ने पार की क्रूरता की हदें, PoK के लोगों पर बरसाए ड्रोन, 7 लोगों की मौत",
-      "url": "https://hindi.news18.com/world/pakistan-pok-crisis-pakistan-army-launches-drone-strikes-on-civilians-in-rawalakot-kills-7-people-protests-escalate-153-death-toll-10965711.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-05T10:58:32+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/PoK-24-seats-2026-08-0061b26df50b80fa0a547bd14d7be4b5-1200x800.jpg",
-      "summary": "पाकिस्तानी सेना ने पश्चिम पंजाब के रावलकोट में नागरिकों पर ड्रोन हमले किए। 7 जून से चल रही हिंसा में अब तक 153 लोगों की मौत हो चुकी है। सरकार ने अवामी एक्शन कमेटी की 38 मांगें दबाने के लिए यह कार्रवाई की है। पाकिस्तानी फौज ने PoK के रावलकोट में हदें पार कर दी हैं. निहत्थे लोगों पर ताबड़तोड़ गोलियां चलाई गईं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पाकिस्तानी आर्मी ने पार की क्रूरता की हदें, PoK के लोगों पर बरसाए ड्रोन, 7 लोगों की मौत",
-          "summary": "पाकिस्तानी सेना ने पश्चिम पंजाब के रावलकोट में नागरिकों पर ड्रोन हमले किए। 7 जून से चल रही हिंसा में अब तक 153 लोगों की मौत हो चुकी है। सरकार ने अवामी एक्शन कमेटी की 38 मांगें दबाने के लिए यह कार्रवाई की है। पाकिस्तानी फौज ने PoK के रावलकोट में हदें पार कर दी हैं. निहत्थे लोगों पर ताबड़तोड़ गोलियां चलाई गईं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के गालिबाफ का अमेरिका पर वार, ‘इजरायल-फर्स्ट’ नीति को बताया खतरनाक मोड़",
-      "url": "https://www.patrika.com/world-news/ghalibaf-slams-us-israel-first-policy-gambler-desperation-21032302",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-05T10:38:13+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Mohammad-Bagher-Ghalibaf-1.webp",
-      "summary": "ईरान के संसद अध्यक्ष मोहम्मद बागेर गालीबाफ ने अमेरिका की 'इजरायल-फर्स्ट' नीति को खतरनाक मोड़ बताया। उन्होंने अमेरिकी अधिकारियों को हारने वाले जुआरी की मानसिकता से बातचीत की आलोचना की। यह टिप्पणी रिपब्लिकन पार्टी की चुनावी हार के बाद आई है। अमेरिका में रिपब्लिकन पार्टी को मिली करारी चुनावी हार के बाद, ईरान के मुख्य वार्ताकार और संसद अध्यक्ष मोहम्मद बागेर गालीबाफ ने अमेरिकी नेतृत्व की तीखी आलोचना की है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के गालिबाफ का अमेरिका पर वार, ‘इजरायल-फर्स्ट’ नीति को बताया खतरनाक मोड़",
-          "summary": "ईरान के संसद अध्यक्ष मोहम्मद बागेर गालीबाफ ने अमेरिका की 'इजरायल-फर्स्ट' नीति को खतरनाक मोड़ बताया। उन्होंने अमेरिकी अधिकारियों को हारने वाले जुआरी की मानसिकता से बातचीत की आलोचना की। यह टिप्पणी रिपब्लिकन पार्टी की चुनावी हार के बाद आई है। अमेरिका में रिपब्लिकन पार्टी को मिली करारी चुनावी हार के बाद, ईरान के मुख्य वार्ताकार और संसद अध्यक्ष मोहम्मद बागेर गालीबाफ ने अमेरिकी नेतृत्व की तीखी आलोचना की है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "राशन-पानी जमा करके रख लो, ‘बुखार’ से तप रहा समंदर, दुनिया पर आने वाली सबसे बड़ी मुसीबत",
-      "url": "https://hindi.news18.com/world/south-asia-el-nino-super-typhoons-2026-pacific-ocean-burning-record-breaking-extreme-weather-in-east-asia-mausam-update-10965594.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-05T10:22:33+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Typhoon-Koguma-Alert-2026-10-0d1e8e805b7d73892d781b2238137576-1200x800.jpg",
-      "summary": "प्रशांत महासागर रिकॉर्ड स्तर पर गर्म हो गया है। अल नीनो के कारण पूर्वी एशिया में तूफानों का खतरा बढ़ा है। जापान, चीन, ताइवान और फिलीपींस में बाढ़ की संभावना है। सरकारों ने लोगों को राशन और पानी जमा करने की सलाह दी है। प्रशांत महासागर रिकॉर्ड स्तर पर गर्म हो चुका है. भयानक अल नीनो के कारण पूर्वी एशिया पर अब बड़े तूफानों का खतरा मंडरा रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राशन-पानी जमा करके रख लो, ‘बुखार’ से तप रहा समंदर, दुनिया पर आने वाली सबसे बड़ी मुसीबत",
-          "summary": "प्रशांत महासागर रिकॉर्ड स्तर पर गर्म हो गया है। अल नीनो के कारण पूर्वी एशिया में तूफानों का खतरा बढ़ा है। जापान, चीन, ताइवान और फिलीपींस में बाढ़ की संभावना है। सरकारों ने लोगों को राशन और पानी जमा करने की सलाह दी है। प्रशांत महासागर रिकॉर्ड स्तर पर गर्म हो चुका है. भयानक अल नीनो के कारण पूर्वी एशिया पर अब बड़े तूफानों का खतरा मंडरा रहा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिकी मिडटर्म चुनाव के नतीजों पर तुर्की के राष्ट्रपति रेसेप तैयप एर्दोगन ने कहा – ‘हम चाहते हैं",
-      "url": "https://www.patrika.com/world-news/recep-tayyip-erdogan-hopes-midterm-election-results-will-contribute-to-regional-peace-21032244",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-05T10:12:05+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/erdogan.webp",
-      "summary": "तुर्की के राष्ट्रपति एर्दोगन ने अमेरिकी मिडटर्म चुनाव के नतीजों पर प्रतिक्रिया दी। उन्होंने अमेरिका और तुर्की के बीच मजबूत संबंधों पर जोर दिया। ट्रंप और एर्दोगन के बीच व्यक्तिगत रिश्ते को दोस्ती माना जाता है। ट्रंप ने अंकारा में नाटो शिखर सम्मेलन में भाग लिया था। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) और तुर्की के राष्ट्रपति रेसेप तैयप एर्दोगन (Recep Tayyip Erdoğan) को दोस्त माना जाता है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिकी मिडटर्म चुनाव के नतीजों पर तुर्की के राष्ट्रपति रेसेप तैयप एर्दोगन ने कहा – ‘हम चाहते हैं",
-          "summary": "तुर्की के राष्ट्रपति एर्दोगन ने अमेरिकी मिडटर्म चुनाव के नतीजों पर प्रतिक्रिया दी। उन्होंने अमेरिका और तुर्की के बीच मजबूत संबंधों पर जोर दिया। ट्रंप और एर्दोगन के बीच व्यक्तिगत रिश्ते को दोस्ती माना जाता है। ट्रंप ने अंकारा में नाटो शिखर सम्मेलन में भाग लिया था। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) और तुर्की के राष्ट्रपति रेसेप तैयप एर्दोगन (Recep Tayyip Erdoğan) को दोस्त माना जाता है।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "सरकार गठन पर असमंजस बरकरार, राष्ट्रपति हर्जोग ने कहा- आंकड़ों से स्थिति स्पष्ट नहीं",
+          "summary": "इज़राइल में सरकार गठन पर असमंजस बरकरार है। राष्ट्रपति हर्जोग ने कहा कि मौजूदा आंकड़ों से स्थिति स्पष्ट नहीं हो रही है। राजनीतिक समीकरण अभी भी अस्पष्ट बने हुए हैं और कोई तय फैसला नहीं निकला है। इस्राइल के राजनीति समीकरण: सरकार गठन पर असमंजस बरकरार, राष्ट्रपति हर्जोग ने कहा- आंकड़ों से स्थिति स्पष्ट नहीं।",
+          "region": "दुनिया"
         }
       }
     }
