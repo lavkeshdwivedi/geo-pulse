@@ -1,10 +1,102 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 06, 2026 21:54 IST
+**अपडेट:** November 07, 2026 03:20 IST
+
+---
+
+## अमेरिका
+
+### [ट्रंप की चीफ ऑफ स्टाफ व्हाइट हाउस से विदा होंगी, उनकी जगह स्टीफन मिलर की नियुक्ति](https://www.amarujala.com/world/trump-admin-changes-susie-wiles-leaves-white-house-longest-serving-chief-of-staff-resigns-stephen-miller-new-2026-11-07)
+*Amar Ujala Breaking* - Nov 07, 12:59 IST (iso: 2026-11-07T07:29:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/08/23/trump_07e726aff743c71f73434ccb770b164b.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप प्रशासन में चीफ ऑफ स्टाफ सुसी वाइल्स ने पद छोड़ा है। स्टीफन मिलर को उनकी जगह नियुक्त किया गया है। यह बदलाव व्हाइट हाउस की अंदروनी संरचना को प्रभावित करता है। सुसी वाइल्स ने छोड़ा पद: ट्रंप की चीफ ऑफ स्टाफ व्हाइट हाउस से विदा होंगी, उनकी जगह स्टीफन मिलर की नियुक्ति।
+
+### [मेगन के 82 वर्षीय पिता थॉमस मर्कल गिरफ्तार, अमेरिका में लगे आरोप कितने गंभीर?](https://www.amarujala.com/world/child-obscene-content-controversy-meghan-father-thomas-markle-arrest-tampa-court-know-us-justice-dept-charges-2026-11-07)
+*Amar Ujala Breaking* - Nov 07, 12:39 IST (iso: 2026-11-07T07:09:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/prince-harry-meghan-father_d86ccb87c19c8da70b1264a63d736942.jpeg?w=1200&dpr=1.0 -->
+
+मेगन के 82 वर्षीय पिता थॉमस मर्कल को अमेरिका में गिरफ्तार किया गया है। उन पर बाल यौन शोषण सामग्री से जुड़े आरोप लगे हैं। यह मामला अमेरिकी कानून के तहत गंभीर माना जाता है। बाल यौन शोषण सामग्री विवाद: मेगन के 82 वर्षीय पिता थॉमस मर्कल गिरफ्तार, अमेरिका में लगे आरोप कितने गंभीर?
+
+### [इसरो प्रमुख ने तमिलनाडु के सीएम विजय से की मुलाकात; हैदराबाद के होटल में अमेरिकी नागरिक मृत मिला](https://www.amarujala.com/india-news/national-updates-6-nov-karnataka-woman-crocodile-tamil-nadu-bengal-manipur-diwali-north-east-west-south-news-2026-11-06)
+*Amar Ujala National* - Nov 07, 12:11 IST (iso: 2026-11-07T06:41:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0 -->
+
+तमिलनाडु मुख्यमंत्री विजय ने इसरो प्रमुख से मुलाकात की। इसी दौरान हैदराबाद के एक होटल में अमेरिकी नागरिक की मौत हुई। कर्नाटक में मगरमच्छ के हमले से एक महिला को बचाया गया। न्यूज अपडेट्स: कर्नाटक में महिला पर मगरमच्छ के हमले से बचाई गई महिला; तमिलनाडु में सीएम, जगन के पोस्टर हटाए गए। इसरो प्रमुख ने तमिलनाडु के सीएम विजय से की मुलाकात; हैदराबाद के होटल में अमेरिकी नागरिक मृत मिला।
+
+---
+
+## दुनिया
+
+### [आज 30 लाख दीयों की रोशनी से नहाएगा पावन सरयू घाट, राम मंदिर में होंगे विशेष आयोजन](https://www.amarujala.com/uttar-pradesh/ayodhya/deepotsav-in-ayodhya-saryu-ghat-to-be-illuminated-by-3-million-earthen-lamps-special-events-to-be-held-at-th-2026-11-06)
+*Amar Ujala Breaking* - Nov 07, 12:53 IST (iso: 2026-11-07T07:23:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/ayathhaya-ma-thapatasava_fd60329f24c63913034d1ea78c71acb7.jpeg?w=1200&dpr=1.0 -->
+
+अयोध्या में दसवें दीपोत्सव पर सरयू के 56 घाटों पर 30 लाख दीप जलेंगे। राम मंदिर में विशेष आयोजन का भी आयोजन किया जाएगा। यह आयोजन शहर की सांस्कृतिक पहचान को दर्शाता है। अयोध्या में दसवें दीपोत्सव पर राम की पैड़ी समेत सरयू के 56 घाटों पर 30 लाख से अधिक दीप जलाए जाएंगे। आज 30 लाख दीयों की रोशनी से नहाएगा पावन सरयू घाट, राम मंदिर में होंगे विशेष आयोजन।
+
+### [अंतरिक्ष से शुभांशु शुक्ला ने देखी धरती की आतिशबाजी; खास अंदाज में दी धनतेरस की बधाई](https://www.amarujala.com/india-news/no-firecrackers-no-sparklers-shubhanshu-shukla-witnessed-earth-fireworks-space-extended-dhanteras-greetings-2026-11-07)
+*Amar Ujala Breaking* - Nov 07, 12:33 IST (iso: 2026-11-07T07:03:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/atarakashha-sa-thakha-thharata-ka-aatashabja_e695f458c52e1b8c11bad6a5d686afc9.jpeg?w=1200&dpr=1.0 -->
+
+अंतरिक्ष यात्री शुभांशु शुक्ला ने धरती से दिखती आतिशबाजी देखी। उन्होंने बिना पटाखों के धनतेरस की बधाई दी। यह दृश्य अंतरिक्ष से पृथ्वी के त्योहारों को दर्शाता है। अंतरिक्ष से शुभांशु शुक्ला ने देखी धरती की आतिशबाजी; खास अंदाज में दी धनतेरस की बधाई।
+
+### [चीफ जस्टिस सूर्यकांत संविधान, जिम्मेदारी का जिक्र कर बोले, समानता पर CJI की राय क्या?](https://www.amarujala.com/india-news/cji-ambedkar-legacy-immortal-supreme-court-chief-justice-surya-kant-on-constitution-responsibility-equality-2026-11-07)
+*Amar Ujala National* - Nov 07, 12:02 IST (iso: 2026-11-07T06:32:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/cji-surya-kant-chief-justice-supreme-court_f6eeb974abf0b84658a04572c015278a.jpeg?w=1200&dpr=1.0 -->
+
+चीफ जस्टिस सूर्यकांत ने संविधान और जिम्मेदारी पर बात की। उन्होंने आंबेडकर की विरासत को अमर बताया। समानता के मुद्दे पर उनकी राय प्रमुख रही। 'आंबेडकर की विरासत अमर': चीफ जस्टिस सूर्यकांत संविधान, जिम्मेदारी का जिक्र कर बोले, समानता पर CJI की राय क्या?
+
+### [सरकार गिराने के लिए 30 करोड़ का ऑफर?: विधायक तोड़ने की कोशिश में अन्नाद्रमुक नेता गिरफ्तार, अदालत](https://www.amarujala.com/india-news/former-madurai-deputy-mayor-and-aiadml-leader-pm-mannan-arrested-for-bribing-tvk-mla-court-orders-his-release-2026-11-07)
+*Amar Ujala Breaking* - Nov 07, 12:01 IST (iso: 2026-11-07T06:31:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/mathara-ka-parava-dapata-mayara-paema-mananana_bda5b08f79acc6c9a4ea1d83e7da7729.jpeg?w=1200&dpr=1.0 -->
+
+अन्नाद्रमुक नेता पीएम मनन को विधायक तोड़ने के लिए रिश्वत देने के आरोप में गिरफ्तार किया गया। अदालत ने बाद में उन्हें रिहा कर दिया। मामला सरकार गिराने की कोशिश से जुड़ा है। सरकार गिराने के लिए 30 करोड़ का ऑफर?: विधायक तोड़ने की कोशिश में अन्नाद्रमुक नेता गिरफ्तार, अदालत।
+
+### [टीम इंडिया में वापसी की टूटी आस, मोहम्मद शमी का संन्यास टेस्ट क्रिकेट को कहा अलविदा](https://www.amarujala.com/video/cricket/hopes-of-a-return-to-team-india-dashed-mohammed-shami-retires-bids-farewell-to-test-cricket-2026-11-07)
+*Amar Ujala National* - Nov 07, 01:26 IST (iso: 2026-11-06T19:56:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/mohammed-shami-test-retirement_ce699f88daefe80b7fdd733b18d3687f.jpeg?w=1200&dpr=1.0 -->
+
+मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास ले लिया। इससे उनकी भारतीय टीम में वापसी की उम्मीदें खत्म हो गईं। उन्होंने अंतरराष्ट्रीय टेस्ट क्रिकेट को अलविदा कहा। टीम इंडिया में वापसी की टूटी आस, मोहम्मद शमी का संन्यास टेस्ट क्रिकेट को कहा अलविदा।
+
+### [रात में इंसान का रूप बदल लेती है ये डॉल्फिन? देखने में खिलौने जैसी, लेकिन समंदर की ‘शातिर चोर’ है](https://hindi.news18.com/photogallery/ajab-gajab/viral-amazon-pink-river-dolphin-the-myth-of-human-transformation-and-story-of-the-ultimate-fish-thief-10969124.html)
+*News18 Hindi (World)* - Nov 06, 23:20 IST (iso: 2026-11-06T17:50:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pink-Dolphins-2026-11-d978b034694fff20d663c31c086c62d8-1200x800.jpg -->
+
+अमेज़न नदियों में पाई जाने वाली गुलाबी डॉल्फिन ने मछुआरों के जाल से मछलियां चुराईं। एक फोटोग्राफर ने इसकी दुर्लभ तस्वीरें पानी के नीचे खींचीं। अमेज़न की नदियों में पाई जाने वाली गुलाबी रंग की 'पिंक रिवर डॉल्फिन' अपने खिलौने जैसे अनोखे रूप और लोककथाओं के लिए पूरी दुनिया में मशहूर है, जहां स्थानीय लोग रात में इसके इंसान का रूप धरकर महिलाओं को किडनैप करने का दावा करते हैं.
+
+### [नशे में लड़खड़ाई महिला, होटल की 7वीं मंजिल से गिरी, सन्न होकर बॉयफ्रेंड देखता रह गया](https://hindi.news18.com/world/rest-of-world-brazil-hotel-tragedy-woman-under-influence-falls-to-death-from-7th-floor-window-as-boyfriend-watches-in-shock-cctv-footage-10969042.html)
+*News18 Hindi (World)* - Nov 06, 22:40 IST (iso: 2026-11-06T17:10:43+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Brazil-Hotel-Accident-CCTV-Video-2026-11-9afb5a626493974a19ed4a6dcf7d08fb-1200x800.jpg -->
+
+26 वर्षीय महिला नशे की हालत में होटल की सातवीं मंजिल से गिर गई। टूटे खिड़की फ्रेम से उसका पैर फिसला। पुलिस ने इसे हादसा माना। एक होटल में छुट्टियां मनाने गई 26 वर्षीय महिला की 7वीं मंजिल की खिड़की से गिर गई. होटल की खिड़की का फ्रेम टूट गया था और महिला का पैर नशे की हालत में फिसल गया.
+
+### [आर्म्स लाइसेंस घोटाला केस: दो IAS अधिकारियों को झटका, HC ने खारिज की याचिका](https://www.abplive.com/news/india/high-court-rejects-plea-two-ias-officers-in-arms-licence-scam-pil-seeks-report-on-prosecution-sanction-ann-3211892)
+*ABP Live (India)* - Nov 06, 18:32 IST (iso: 2026-11-06T13:02:00+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/634cc0601ad760ffc98680ec2653553e17939698677211368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+जम्मू-कश्मीर उच्च न्यायालय ने दो आईएएस अधिकारियों की याचिका खारिज कर दी। अधिकारियों ने आर्म्स लाइसेंस घोटाला मामले में केंद्र सरकार को निर्देश देने की मांग की थी। न्यायालय ने इस हस्तक्षेप की अनुमति नहीं दी, जिससे मामला लंबित रह गया। जम्मू-कश्मीर और लद्दाख उच्च न्यायालय ने दो आईएएस अधिकारियों की एक अर्जी खारिज कर दी है. इन अधिकारियों ने लंबे समय से लंबित 'आर्म्स लाइसेंस घोटाला' जनहित याचिका (PIL) में हस्तक्षेप करने और केंद्र सरकार को यह निर्देश देने की मांग की थी कि उनके खिलाफ मुकदमा चलाने की मंजूरी देने के प्रस्ताव पर फैसला लेने से पहले सरकार उनके पक्ष पर विचार करे.
 
 ---
 
 ## एशिया-प्रशांत
+
+### [शमी के टेस्ट करियर के 5 सर्वश्रेष्ठ स्पेल: उनकी रफ्तार और स्विंग ने बरपाया था कहर; कांप गए थे](https://www.amarujala.com/photo-gallery/cricket/mohammed-shami-retirement-top-5-test-bowling-spells-from-perth-heroics-to-johannesburg-masterclass-2026-11-07)
+*Amar Ujala Breaking* - Nov 07, 12:24 IST (iso: 2026-11-07T06:54:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/mohammed-shami-announced-his-retirement-from-test-cricket_4860a4d20818c3df28d3d0aa97e785ef.jpeg?w=1200&dpr=1.0 -->
+
+मोहम्मद शमी ने 64 टेस्ट में 229 विकेट लेकर संन्यास लिया। पर्थ में ऑस्ट्रेलिया के खिलाफ 6/56 उनका सर्वश्रेष्ठ प्रदर्शन था। उनकी रफ्तार और स्विंग ने कई मैचों में कहर बरपाया। मोहम्मद शमी ने 64 टेस्ट में 229 विकेट लेने के बाद टेस्ट क्रिकेट को अलविदा कह दिया। उनके करियर में पर्थ में ऑस्ट्रेलिया के खिलाफ 6/56 का प्रदर्शन सर्वश्रेष्ठ रहा।
+
+### [भारतवंशी नित्या को यूं ही नहीं मिली सफलता, कभी सरकारी अफसर ने कहा था- जूते और राजनीति बाहर छोड़कर](https://www.amarujala.com/world/kerala-born-nitya-raman-became-mayor-of-los-angeles-government-official-once-told-her-leave-your-shoes-outside-2026-11-07)
+*Amar Ujala World* - Nov 07, 02:02 IST (iso: 2026-11-06T20:32:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/nataya-ramana_2676c984b438b1cdbda38885fe004247.jpeg?w=1200&dpr=1.0 -->
+
+केरल की नित्या रामन लॉस एंजिल्स की मेयर बनीं। एक सरकारी अधिकारी ने उन्हें जूते बाहर छोड़कर आने को कहा था। उन्होंने उसी शहर में राजनीतिक सफलता पाई। भारतवंशी नित्या को यूं ही नहीं मिली सफलता, कभी सरकारी अफसर ने कहा था- जूते और राजनीति बाहर छोड़कर।
+
+### [दिल्ली में दिवाली से पहले हवा हुई और जहरीली, 24 इलाकों में एक्यूआई 400 पार; पंजाबी बाग में 453](https://www.amarujala.com/delhi-ncr/air-in-delhi-turns-even-more-toxic-ahead-of-diwali-aqi-crosses-400-in-24-areas-2026-11-07)
+*Amar Ujala Breaking* - Nov 07, 01:26 IST (iso: 2026-11-06T19:56:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/1_2b5f986d272db96920e9417e9062f22b.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में दिवाली से पहले वायु गुणवत्ता खराब हुई। 24 इलाकों में एक्यूआई 400 पार गया। पंजाबी बाग में यह संख्या 453 तक पहुंची। दिल्ली की हवा लगातार जहरीली होती जा रही है। दिल्ली में दिवाली से पहले हवा हुई और जहरीली, 24 इलाकों में एक्यूआई 400 पार; पंजाबी बाग में 453।
 
 ### [अमेरिका-चीन के क्रिटिकल मिनरल वॉर में भारत को बंपर फायदा! क्या है 16,300 करोड़ का मिशन?](https://hindi.news18.com/world/south-asia-india-master-plan-to-win-the-us-china-critical-mineral-war-rs-16300-crore-mission-explained-10968711.html)
 *News18 Hindi (World)* - Nov 06, 21:38 IST (iso: 2026-11-06T16:08:28+00:00)
@@ -36,57 +128,31 @@
 
 जापान के टोक्यो और आसपास के इलाकों में 6.1 तीव्रता का भूकंप आया। तेज झटकों के बाद लोग घरों और दफ्तरों से बाहर निकल आए। जापान मेट्रोलॉजिकल एजेंसी ने सुनामी का खतरा नहीं बताया और बड़े नुकसान की खबर नहीं मिली। जापान की राजधानी टोक्यो और उसके आस-पास के इलाकों में 6 नवंबर शाम अचानक जोरदार भूकंप आया. रिक्टर स्केल पर इसकी तीव्रता 6.1 मापी गई.
 
-### [इरफान अंसारी के बयान पर चुप्पी क्या आपकी 'मौन' सहमति? नितिन नवीन का राहुल गांधी से सवाल](https://www.abplive.com/news/india/jharkhand-cong-leader-irfan-ansari-remark-bjp-national-president-nitin-nabin-attack-on-rahul-gandhi-silence-3211884)
-*ABP Live (India)* - Nov 06, 17:57 IST (iso: 2026-11-06T12:27:56+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/c126feb03f46455ab040b6fa990f7cb217939680723531324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+---
 
-नितिन गडकरी ने राहुल गांधी से सवाल किया। झारखंड के कांग्रेस मंत्रियों के बयान पर उनकी चुप्पी का मतलब क्या है। क्या यह मौन सहमति है। भाजपा अध्यक्ष ने एक्स पर यह प्रश्न उठाया। भाजपा के राष्ट्रीय अध्यक्ष नितिन नवीन ने इरफान अंसारी के बयान पर राहुल गांधी की चुप्पी पर सवाल खड़े किए हैं. उन्होंने एक्स पर पोस्ट करते हुए पूछा, 'राहुल गांधी जी, झारखंड में आपकी पार्टी के मंत्री खुलेआम कह रहे हैं कि कांग्रेस आपके इशारे पर देश में अस्थिरता पैदा करने और भारत को अराजकता की आग में झोंकने के लिए तैयार है.' उन्होंने कहा, 'इस गंभीर बयान पर आपकी चुप्पी आखिर क्या दर्शाती है?
+## यूरोप और रूस
 
-### [क्राइम ब्रांच ने PLA के वांटेड उग्रवादी को किया गिरफ्तार, फर्जी पहचान से दिल्ली में छिपा था](https://www.abplive.com/news/india/delhi-crime-branch-arrests-wanted-regan-singh-pla-militant-accused-hiding-in-delhi-fake-identity-ann-3211869)
-*ABP Live (India)* - Nov 06, 17:23 IST (iso: 2026-11-06T11:53:51+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/166d623f1fb7b206314bd98e0863105d17939659900021368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [ट्रंप-जिनपिंग और पुतिन पर ड्रैगन ने क्या संकेत दिए; कब-कहां मुलाकात की कवायद?](https://www.amarujala.com/world/xi-jinping-donald-trump-and-putin-might-appear-same-platform-china-hint-find-out-when-meeting-could-take-place-2026-11-07)
+*Amar Ujala World* - Nov 07, 01:14 IST (iso: 2026-11-06T19:44:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/11/07/xi-jinping-donald-trump-vladimir-putin_87f7ae4f106cf5754af6c9de6ac3c900.jpeg?w=1200&dpr=1.0 -->
 
-दिल्ली पुलिस ने पीपुल्स लिबरेशन आर्मी के सदस्य को गिरफ्तार किया। आरके रेगन सिंह दिल्ली में फर्जी पहचान से छिपा था। मणिपुर के थौबल थाने में दो मामलों में वह वांटेड था। उसे मणिपुर पुलिस को सौंप दिया गया। दिल्ली पुलिस की क्राइम ब्रांच ने प्रतिबंधित उग्रवादी संगठन पीपुल्स लिबरेशन आर्मी (PLA) के एक सक्रिय सदस्य को गिरफ्तार किया है.
+चीन ने संकेत दिया कि ट्रंप, जिनपिंग और पुतिन एक ही मंच पर आ सकते हैं। तीनों नेताओं की मुलाकात की तारीख और स्थान पर चर्चा चल रही है। ट्रंप-जिनपिंग और पुतिन पर ड्रैगन ने क्या संकेत दिए; कब-कहां मुलाकात की कवायद?
 
-### ['PoK की तरह चटगांव, सिलहट और नोआखली भी वापस ले भारत', बोले निशिकांत दुबे](https://www.abplive.com/news/india/nishikant-dubey-says-india-should-also-reclaim-chittagong-noakhali-and-sylhet-like-pok-3211863)
-*ABP Live (India)* - Nov 06, 17:17 IST (iso: 2026-11-06T11:47:56+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/890db2d15bbafd41e707590973b0987d1793965504685708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [‘9 विमानों को उड़ा दिया जाएगा’, एयरपोर्ट पर घनघनाने लगे फोन, 2 दिनों से माथा पीट रहीं सिक्योरिटी](https://hindi.news18.com/world/europe-bomb-threat-triggers-panic-at-prague-airport-9-flights-targeted-security-agencies-on-high-alert-10968529.html)
+*News18 Hindi (World)* - Nov 06, 18:44 IST (iso: 2026-11-06T13:14:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Air-France-Bans-Pilots-from-31-nation-including-Pakistan-on-Israel-Flights-2026-10-99ab92f8b9b8f954d477360c67128da0-1200x800.jpg -->
 
-निशिकांत दुबे ने बांग्लादेश से चटगांव, सिलहट और नोआखली वापस लेने की मांग की। उन्होंने कहा कि ये भारत के त्रिपुरा के हिस्से हैं। जवाहरलाल नेहरू के फैसलों पर कांग्रेस को निशाना बनाया। बीजेपी सांसद निशिकांत दुबे ने देश के विभाजन और पहले लिए गए फैसलों को लेकर कांग्रेस और पूर्व प्रधानमंत्री जवाहरलाल नेहरू पर जमकर निशाना साधा. उन्होंने कहा कि पाकिस्तान के अनधिकृत कब्जे में हमारे कश्मीर का कुछ हिस्सा है, उसी तरह से बांग्लादेश के अनधिकृत कब्जे में हमारे त्रिपुरा का कुछ हिस्सा नोआखली, सियालेट और चिटगांव बंदरगाह है.
-
-### [पाकिस्तान का विदेशी कर्ज 10 साल में दोगुना, 135 अरब डॉलर पहुंचा, हर इंसान पर 1.55 लाख की देनदारी](https://hindi.news18.com/world/pakistan-pakistan-foreign-debt-doubles-to-135-billion-dollars-ws-l-10968497.html)
-*News18 Hindi (World)* - Nov 06, 17:13 IST (iso: 2026-11-06T11:43:48+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/dollar-2026-08-eec4488af14315eded21de6ae8904f0f-1200x800.jpg -->
-
-पाकिस्तान का विदेशी कर्ज 135.1 अरब डॉलर हो गया। विश्व बैंक की रिपोर्ट में यह आंकड़ा सामने आया। चीन को 22.4 अरब डॉलर का कर्ज बकाया है। हर व्यक्ति पर 1.55 लाख रुपये का बोझ है। विश्व बैंक की रिपोर्ट के अनुसार पाकिस्तान का विदेशी कर्ज 2025 में बढ़कर 135.1 अरब डॉलर हो गया है. पाकिस्तान पर चीन का सबसे अधिक 22.4 अरब डॉलर का कर्ज बकाया है.
-
-### [अमेरिका से भारतीयों के लिए आई 'गुडन्यूज', बाहें खोलकर बुला रहीं मोटी सैलरी वाली नौकरियां, पूरी करनी](https://hindi.news18.com/world/america-us-job-openings-surge-to-75-lakh-what-the-new-american-labor-market-means-for-indian-job-seekers-10968326.html)
-*News18 Hindi (World)* - Nov 06, 17:10 IST (iso: 2026-11-06T11:40:01+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/American-Job-Offer-For-Indians-2026-11-5679403143251dc3da096796b0e4f345-1200x800.jpg -->
-
-अमेरिका में सितंबर 2026 तक नौकरियों की संख्या 7.52 मिलियन तक पहुंची है। वहीं, कंपनियों में छंटनी एक साल के निचले स्तर पर आ गई है। हालांकि, कड़े वीजा नियमों के कारण भारतीय पेशेवर वापस भारत लौट रहे हैं। इसे रिवर्स माइग्रेशन कहा जा रहा है। अमेरिका के जॉब मार्केट से एक राहत भरी खबर आई है. सितंबर 2026 की रिपोर्ट के मुताबिक वहां नौकरियां बढ़कर 7.52 मिलियन हो गई हैं.
-
-### [दिल्ली, महाराष्ट्र समेत 7 राज्यों में SIR को लेकर चुनाव आयोग का बड़ा फैसला, दिए ये नए आदेश](https://www.abplive.com/news/india/eci-delhi-maharashtra-telangana-7-states-sir-names-left-draft-voter-list-verified-added-again-3211848)
-*ABP Live (India)* - Nov 06, 16:33 IST (iso: 2026-11-06T11:03:35+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/0fb528a1774f6a851bc744950c7e8c0e1793962934256708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-केंद्रीय चुनाव आयोग ने दिल्ली, महाराष्ट्र समेत सात राज्यों में विशेष अभियान चलाए जाने का निर्देश दिया है। इसका उद्देश्य ड्राफ्ट मतदाता सूची से हटाए गए मतदाताओं को पुनः पहचानना है। बूथ लेवल ऑफिसर फिर से घर जाकर जांच करेंगे। यह निर्देश आंध्र प्रदेश, तेलंगाना, झारखंड, हरियाणा और नागालैंड के लिए भी जारी हुआ। केंद्रीय चुनाव आयोग ने निर्देश दिया है कि जिन राज्यों में फिलहाल SIR चल रहा है, वहां ड्राफ्ट मतदाता सूची से हटे मतदाताओं को ढूंढने के लिए एक बार फिर से विशेष अभियान चलाया जाए.
-
-### [26 नवंबर को दिल्ली में संविधान दिवस पर कांग्रेस मार्च, सोनिया- राहुल समेत विपक्षी नेता होंगे शामिल](https://www.abplive.com/news/india/congress-hold-march-delhi-constitution-day-november-26-opposition-leaders-and-rahul-sonia-participate-3211836)
-*ABP Live (India)* - Nov 06, 15:57 IST (iso: 2026-11-06T10:27:29+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/ac987cfdcc20746bdfd6aae3a1b1c27517939608426581324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-कांग्रेस 26 नवंबर को दिल्ली में संविधान बचाओ मार्च निकालेगी। मल्लिकार्जुन खरगे, राहुल और प्रियंका गांधी सहित सभी सांसद शामिल होंगे। विपक्षी सांसदों से बातचीत जारी है। कांग्रेस पार्टी संविधान दिवस पर मार्च निकालेगी. 26 नवंबर को निकलने वाले इस मार्च का नाम संविधान बचाओ मार्च होगा. मार्च में कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे, राहुल गांधी, प्रियंका गांधी, सहित कांग्रेस के सभी सांसद मौजूद रहेंगे.
-
-### [कराची में लश्कर के आतंकी को सीक्रेट ट्रेनिंग दे रहा पाकिस्तान, समुद्री हमले के लिए कर रहा तैयार](https://www.abplive.com/news/world/pakistan-training-let-terrorists-near-karachi-for-sea-ops-posing-as-tourists-3211822)
-*ABP Live (World)* - Nov 06, 15:45 IST (iso: 2026-11-06T10:15:51+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/106f2d1f33bbcd5ab8298f73c83bffe41793959803184708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-पाकिस्तान कराची के पास चारना द्वीप पर लश्कर-ए-तैयबा को समुद्री ट्रेनिंग दे रहा है। पर्यटन की आड़ में स्कूबा डाइविंग और कॉम्बैट स्विमिंग का अभ्यास हो रहा है। पाकिस्तान की सरपरस्ती में पल रहे आतंकी संगठन लश्कर-ए-तैयबा (LeT) का एक नया और खतरनाक चेहरा सामने आया है. कराची से सिर्फ 50 किलोमीटर दूर स्थित 'चारना द्वीप' पर्यटन की आड़ में इन आतंकियों को समुद्री ट्रेनिंग दी जा रही है.
+चेक गणराज्य के प्राग एयरपोर्ट पर नौ विमानों को बम से उड़ाने की धमकी मिली। सुरक्षा एजेंसियों ने सभी विमानों को जमीन पर रोककर जांच शुरू की। प्रारंभिक जांच में ये धमकियां फर्जी पाई गईं, लेकिन यूरोप में इस तरह की घटनाओं ने चिंता बढ़ा दी है। चेक गणराज्य के प्राग एयरपोर्ट पर लगातार दूसरे दिन हड़कंप मच गया है.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [नरम पड़ा ईरान, न्यूक्लियर समझौते के लिए अमेरिका को भेजा पैगाम, कतर ने कैसे पलट दिए हालात?](https://hindi.news18.com/world/middle-east-iran-softens-stance-on-nuclear-program-us-iran-peace-agreement-finally-on-the-horizon-qatar-mediated-10969025.html)
+*News18 Hindi (World)* - Nov 06, 21:56 IST (iso: 2026-11-06T16:26:13+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Iran-US-War-Secret-Deal-2026-09-e99c93d2da07a70085f3f65dc6d9bd00-1200x800.jpg -->
+
+ईरान ने अमेरिका के साथ बातचीत के संकेत दिए। उसने परमाणु कार्यक्रम को लेकर कुछ शर्तों पर पीछे हटने का फैसला किया। कतर की मध्यस्थता इसमें भूमिका निभाई। अमेरिका और ईरान के बीच लंबे समय से जारी भयंकर तनाव के बीच एक बड़ी राहत की खबर सामने आई है. तेहरान के तेवर अचानक नरम पड़ गए हैं. उसने अपने परमाणु कार्यक्रम को लेकर शर्तों पर कुछ कदम पीछे हटाने का फैसला कर लिया है, इस बदले हुए तेवर के साथ ईरान ने अमेरिका के साथ बातचीत के साफ संकेत दिए हैं.
 
 ### [केशम आइलैंड के पास ईरान ने मार गिराया अमेरिकी ड्रोन](https://www.patrika.com/world-news/iran-shoots-down-us-drone-near-qeshm-island-21035048)
 *Patrika (World)* - Nov 06, 20:53 IST (iso: 2026-11-06T15:23:03+00:00)
@@ -105,68 +171,6 @@
 <!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/adf-rebel.webp -->
 
 डीआर कांगो में एडीएफ विद्रोहियों ने हमला करके 30 लोगों को मार गिराया। यह संगठन क्षेत्र में सक्रिय है और अक्सर हिंसा फैलाता है। इस नवीनतम घटना ने स्थानीय सुरक्षा स्थिति को और बिगाड़ दिया है। अफ्रीकी देशों में अपराध बढ़ता जा रहा है। इन देशों में न सिर्फ आतंकी संगठन, बल्कि विद्रोही संगठन भी एक्टिव हैं, जिन्होंने आतंक मचाया हुआ है।
-
-### [होर्मुज स्ट्रेट में समुद्री बारूदी सुरंगों का कहर जारी, तेल के दो जहाज बने शिकार](https://www.patrika.com/world-news/two-oil-tankers-explode-and-catch-fire-in-strait-of-hormuz-after-hitting-naval-mines-21034756)
-*Patrika (World)* - Nov 06, 18:03 IST (iso: 2026-11-06T12:33:32+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/oil-tanker-explosion_.webp -->
-
-ईरान ने होर्मुज स्ट्रेट को बंद कर दिया है। अमेरिका ने जहाजों की आवाजाही सामान्य होने का दावा किया, पर ईरान ने खंडन किया। दो तेल जहाजों पर हमला हुआ। जहाज बिना समन्वय के गुजर रहे हैं। होर्मुज स्ट्रेट (Strait of Hormuz) से गुज़रने के लिए कई जहाज ईरान (Iran) के आदेश का उल्लंघन कर रहे हैं। ईरान ने इस रणनीतिक जलमार्ग को बंद किया हुआ है और किसी को भी बिना समन्वय के इससे न गुज़रने की चेतावनी दी है।
-
-### [आइजेनकोट बनेंगे इजरायल के नए PM? अरब पार्टियों का समर्थन लेकिन फंसा बड़ा पेच!](https://www.abplive.com/news/world/will-eizenkot-become-israel-new-pm-2-arab-parties-back-but-there-a-catch-benjamin-netanyahu-3211842)
-*ABP Live (World)* - Nov 06, 16:10 IST (iso: 2026-11-06T10:40:45+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/358e6ba46951c83bce7768135aa16af217939614763261368_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-इजरायली राष्ट्रपति इसहाक हर्जोग 8 नवंबर को नई सरकार बनाने के लिए जिम्मेदारी सौंपेंगे। विपक्ष के नेता गादी आइजेनकोट को अरब दलों का समर्थन मिला है। हालांकि, बेंजामिन नेतन्याहू की जगह लेने के लिए बड़ी संख्या में सिफारिशें मिली हैं। अगले दो दिनों में सरकार बनने की तस्वीर स्पष्ट हो जाएगी। इजरायल में अगली सरकार किसकी बनेगी, इसकी तस्वीर दो दिन बाद साफ हो जाएगी.
-
-### [रूस या इजरायल, भारतीय किसे मानते हैं सच्चा दोस्त नंबर-1? तीसरे नंबर पर है चीन का सबसे बड़ा दुश्मन](https://hindi.news18.com/world/south-asia-russia-israel-japan-survey-reveals-india-most-trusted-global-friends-in-hindi-heartland-india-top-allies-pm-modi-putin-netanyahu-10968158.html)
-*News18 Hindi (World)* - Nov 06, 15:53 IST (iso: 2026-11-06T10:23:00+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Russia-Israel-Japan-Survey-Reveals-India-Most-Trusted-Global-Friends-2026-11-4f633565cf741eb167099884b73da492-1200x800.jpg -->
-
-इंडिया-इजराइल सेंटर के सर्वे में रूस भारतीय युवाओं का नंबर एक दोस्त बना। इजरायल दूसरे नंबर पर आया और अमेरिका, फ्रांस को पीछे छोड़ दिया। इंडिया-इजराइल सेंटर का एक नया सर्वे सामने आया है. ये सर्वे उत्तर भारत के 5 बड़े राज्यों में 21 से 40 साल के युवाओं के बीच किया गया है. इसके नतीजों से साफ है कि भारतीय युवाओं के लिए रूस आज भी नंबर-1 पक्का दोस्त है.
-
----
-
-## यूरोप और रूस
-
-### [‘9 विमानों को उड़ा दिया जाएगा’, एयरपोर्ट पर घनघनाने लगे फोन, 2 दिनों से माथा पीट रहीं सिक्योरिटी](https://hindi.news18.com/world/europe-bomb-threat-triggers-panic-at-prague-airport-9-flights-targeted-security-agencies-on-high-alert-10968529.html)
-*News18 Hindi (World)* - Nov 06, 18:44 IST (iso: 2026-11-06T13:14:24+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Air-France-Bans-Pilots-from-31-nation-including-Pakistan-on-Israel-Flights-2026-10-99ab92f8b9b8f954d477360c67128da0-1200x800.jpg -->
-
-चेक गणराज्य के प्राग एयरपोर्ट पर नौ विमानों को बम से उड़ाने की धमकी मिली। सुरक्षा एजेंसियों ने सभी विमानों को जमीन पर रोककर जांच शुरू की। प्रारंभिक जांच में ये धमकियां फर्जी पाई गईं, लेकिन यूरोप में इस तरह की घटनाओं ने चिंता बढ़ा दी है। चेक गणराज्य के प्राग एयरपोर्ट पर लगातार दूसरे दिन हड़कंप मच गया है.
-
-### [नेता प्रतिपक्ष का पहला दिवाली मिलन: आवास पर जुटेंगे कांग्रेस नेता, तैयार होगा सियासी प्लान](https://www.abplive.com/news/india/rahul-gandhi-diwali-get-together-congress-leaders-gather-at-residence-political-strategy-will-be-prepared-3211857)
-*ABP Live (India)* - Nov 06, 16:58 IST (iso: 2026-11-06T11:28:08+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/d117a6ff4b89fccce80a14ea9588e9d517939644250671368_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-लोकसभा के नेता प्रतिपक्ष राहुल गांधी ने 6 नवंबर को अपने आवास पर दिवाली मिलन का आयोजन किया। यह उनका इस पद पर आसीन होने के बाद पहला ऐसा कार्यक्रम था। देशभर से कांग्रेस के प्रमुख नेता इस अवसर पर उपस्थित हुए। इस बैठक में पार्टी के आगामी राजनीतिक रोडमैप पर चर्चा हुई। लोकसभा में नेता प्रतिपक्ष राहुल गांधी के आवास पर आज (6 नवंबर) को 'दिवाली मिलन' समारोह का आयोजन होगा.
-
-### [पेड़ से जा टकराई स्कूल बस, फ्रांस में 2 बच्चों की मौत और 16 घायल](https://www.patrika.com/world-news/school-bus-runs-into-tree-in-france-2-children-killed-and-16-others-injured-21034402)
-*Patrika (World)* - Nov 06, 16:12 IST (iso: 2026-11-06T10:42:29+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/accident_.webp -->
-
-फ्रांस के ऐन विभाग में 6 नवंबर को एक स्कूल बस पेड़ से टकरा गई। इस दुर्घटना में दो बच्चों की मौत हो गई। 16 अन्य बच्चे घायल हुए। हादसे का स्थान लेंट के पास बताया गया है। स्थानीय प्रशासन ने तुरंत राहत कार्य शुरू किया। दुनियाभर में अक्सर ही रोड एक्सीडेंट्स (Road Accidents) के कई मामले देखने को मिलते हैं।
-
-### [यूक्रेन पर बातचीत से पहले यूरोप में फूट? रूस ने कसा तंज, कहा- अभी तक तय नहीं कर पाए कौन करेगा](https://www.patrika.com/world-news/russia-taunt-europe-ukraine-peace-talks-21034427)
-*Patrika (World)* - Nov 06, 15:56 IST (iso: 2026-11-06T10:26:50+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/russiaukrainenews.webp -->
-
-क्रेमलिन ने कहा कि यूरोप अभी तक तय नहीं कर पाया है कि यूक्रेन सुरक्षा वार्ता में कौन प्रतिनिधित्व करेगा। रूस ने यूरोपीय देशों की अंतरात्मक फूट पर तंज कसा। रूस और यूक्रेन के बीच संभावित शांति समझौते को लेकर यूरोप की भूमिका पर एक बार फिर सवाल खड़े हो गए हैं। क्रेमलिन ने शुक्रवार को यूरोपीय देशों पर तंज कसते हुए कहा कि वे अभी तक यह भी तय नहीं कर पाए हैं कि यूक्रेन की सुरक्षा और यूरोप के सुरक्षा ढांचे पर होने वाली बातचीत में उनकी तरफ से कौन प्रतिनिधित्व करेगा।
-
----
-
-## दुनिया
-
-### [आर्म्स लाइसेंस घोटाला केस: दो IAS अधिकारियों को झटका, HC ने खारिज की याचिका](https://www.abplive.com/news/india/high-court-rejects-plea-two-ias-officers-in-arms-licence-scam-pil-seeks-report-on-prosecution-sanction-ann-3211892)
-*ABP Live (India)* - Nov 06, 18:32 IST (iso: 2026-11-06T13:02:00+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/634cc0601ad760ffc98680ec2653553e17939698677211368_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-जम्मू-कश्मीर उच्च न्यायालय ने दो आईएएस अधिकारियों की याचिका खारिज कर दी। अधिकारियों ने आर्म्स लाइसेंस घोटाला मामले में केंद्र सरकार को निर्देश देने की मांग की थी। न्यायालय ने इस हस्तक्षेप की अनुमति नहीं दी, जिससे मामला लंबित रह गया। जम्मू-कश्मीर और लद्दाख उच्च न्यायालय ने दो आईएएस अधिकारियों की एक अर्जी खारिज कर दी है. इन अधिकारियों ने लंबे समय से लंबित 'आर्म्स लाइसेंस घोटाला' जनहित याचिका (PIL) में हस्तक्षेप करने और केंद्र सरकार को यह निर्देश देने की मांग की थी कि उनके खिलाफ मुकदमा चलाने की मंजूरी देने के प्रस्ताव पर फैसला लेने से पहले सरकार उनके पक्ष पर विचार करे.
-
-### ['ये राष्ट्र विरोधी बयान है', इरफान अंसारी पर अठावले की कड़ी प्रतिक्रिया; BJP ने राहुल को घेरा](https://www.abplive.com/news/india/anti-national-statement-ramdas-athawale-gaurav-bhatia-on-jharkhand-minister-irfan-ansari-3211821)
-*ABP Live (India)* - Nov 06, 15:41 IST (iso: 2026-11-06T10:11:17+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/06/010e1f69d9c8ecd4ed4dd71c2badfe4517939596971281324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-झारखंड के डॉ. इरफान अंसारी के बयान पर केंद्रीय मंत्री रामदास अठावले ने राष्ट्रविरोधी शब्दों में प्रतिक्रिया दी। बीजेपी ने राहुल गांधी को घेरने की कोशिश की। झारखंड के स्वास्थ्य मंत्री- कांग्रेस के सीनियर नेता डॉ. इरफान अंसारी ने केंद्र सरकार पर विवादित बयान दिया है. उनके इस बयान पर सियासी पारा गरमा गया है. अब इस पर केंद्रीय मंत्री समेत बीजेपी नेताओं ने कड़ी प्रतिक्रिया दी है.
 
 ---
 

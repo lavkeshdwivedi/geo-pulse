@@ -1,71 +1,19 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 06, 2026 21:54 IST
-
----
-
-## Europe & Russia
-
-### [Europe bomb threats 'likely co-ordinated campaign': Irish government](https://www.thehindu.com/news/international/europe-bomb-threats-likely-co-ordinated-campaign-irish-government/article71675060.ece)
-*The Hindu (International)* - Nov 06, 21:43 IST (iso: 2026-11-06T16:13:36+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/vqjy07/article71675107.ece/alternates/LANDSCAPE_1200/2026-11-06T123852Z_121061962_RC2CIOANNUND_RTRMADP_3_EUROPE-SECURITY-IRELAND.JPG -->
-
-The Irish government described recent European bomb threats as a likely coordinated campaign. Dublin hoaxes coincided with disruptions across the continent on November 6. Authorities rerouted flights or deployed fighter jets to escort civilian aircraft through affected airspace. The hoaxes in Dublin came as more European flights were also hit on November 6 by bomb threats, the latest this week forcing authorities to reroute some planes or escort civilian aircraft with fighter jets.
-
-### [Bus carrying kids to school crashes in France, leaving 2 dead and 16 injured](https://www.thehindu.com/news/international/bus-carrying-kids-to-school-crashes-in-france-leaving-2-dead-and-16-injured/article71674197.ece)
-*The Hindu (International)* - Nov 06, 18:53 IST (iso: 2026-11-06T13:23:05+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/d2we8k/article71674212.ece/alternates/LANDSCAPE_1200/2026-11-06T103450Z_32173864_RC2AIOACWE68_RTRMADP_3_FRANCE-ACCIDENT.JPG -->
-
-A school bus crashed into a ditch in France, killing two people and injuring sixteen others. Passengers included children traveling to middle and high schools. BFM TV reported the vehicle veered off the road before landing in the ditch. News broadcaster BFM TV reported that the passengers included children travelling to middle and high schools in the area, with a photo from the scene showing the bus had veered off the road and landed in a ditch.
-
-### [Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks](https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru)
-*The Guardian* - Nov 06, 06:52 IST (iso: 2026-11-06T01:22:49+00:00)
-<!-- image: https://i.guim.co.uk/img/media/c8e02014efcb6621df0185a3b2dd97463db96479/238_75_789_631/master/789.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7ccf5a6d459077ffbe6f9dc90e632e0 -->
-
-Peruvian authorities seized over 3,000 tarantulas at a Lima airport. The spiders were hidden in dirty socks inside three suitcases. Two Germans and a Polish citizen were carrying them. The shipment was bound for Germany, where the spiders could fetch 1.5 million euros. Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5mMore than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestry and Wildlife Service (SERFOR) told Agenc.
-
-### [How Russia's War Recruitment Machine Became Big Business](https://www.rferl.org/a/russia-war-recruitment-big-business-ukraine-military/33891653.html)
-*Radio Free Europe / Liberty* - Nov 05, 20:20 IST (iso: 2026-11-05T14:50:37+00:00)
-<!-- image: https://gdb.rferl.org/9271105C-C3AC-4144-8FBC-82F111DF36FC_cx2_cy3_cw89_w1200_h630.jpg -->
-
-Russian military recruitment increasingly relies on private companies and intermediaries. These actors operate on the fringes of the legal system to fill depleted ranks. The shift has created a human cost as the state outsources conscription. This commercial approach reflects the strain of the ongoing war against Ukraine on domestic manpower. An increasing number of cases point to the human cost of a recruitment system in Russia that increasingly relies on private companies and intermediaries who often work on the fringes to bolster the ranks of a military depleted by the war against Ukraine.
-
-### [How a Diplomatic Row Ended a Korean Startup’s AI War Test in Ukraine](https://thediplomat.com/2026/11/how-a-diplomatic-row-ended-a-korean-startups-ai-war-test-in-ukraine/)
-*The Diplomat* - Nov 05, 20:09 IST (iso: 2026-11-05T14:39:00+00:00)
-<!-- image: https://images.thediplomat.com/v1/td-list-l-2/2026/10/thediplomat_2026-10-12-221617.jpg -->
-
-A diplomatic dispute between Seoul and Kyiv ended Newtype Industries' AI war test in Ukraine. The Seoul-based defense startup lost all its Ukrainian partners due to the row. South Korea continues supporting Ukraine while managing the diplomatic fallout. Seoul is trying to maintain its support for Ukraine while dealing with a diplomatic dispute with Kyiv. But Newtype Industries, a defense startup in Seoul, says the same dispute has cost the company all of its Ukrainian partners.
-
-### [A Political Killing, A Seismic Shift, And A 'Vile' Attack](https://www.rferl.org/a/russia-novaya-gazeta-ukraine-war-peace-talks/33890879.html)
-*Radio Free Europe / Liberty* - Nov 05, 16:56 IST (iso: 2026-11-05T11:26:40+00:00)
-<!-- image: https://gdb.rferl.org/2b4fc504-2d37-44a4-794d-08df13a869ed_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Twenty years after journalist Anna Politikovskaya was killed, her newspaper faces crushing pressure from the Russian state. A small Ukraine cease-fire was followed by a massive attack, while a US political shift precedes new trilateral peace talks. Twenty years after investigative journalist Anna Politikovskaya was shot dead, the paper she worked for is crushed under pressure from the Russian state.
-
-### [Nations Line Up To Boycott Ice Hockey Games Against Russia](https://www.rferl.org/a/russia-hockey-ukraine-war/33890409.html)
-*Radio Free Europe / Liberty* - Nov 04, 18:55 IST (iso: 2026-11-04T13:25:42+00:00)
-<!-- image: https://gdb.rferl.org/ad1ec3ac-27ed-48f4-be90-ff410ce85a9c_cx0_cy6_cw0_w1200_h630.jpg -->
-
-Multiple nations plan to boycott ice hockey events involving Russia. They oppose a court ruling allowing Moscow to rejoin international competitions. The boycott threatens the upcoming World Championships. Countries refuse to play against Russian teams. A growing list of countries are lining up against a court decision allowing Russia to rejoin international ice hockey events, saying they will boycott any team Moscow sends, putting the World Championships next year in jeopardy.
-
-### [Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks](https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html)
-*Radio Free Europe / Liberty* - Nov 04, 02:48 IST (iso: 2026-11-03T21:18:10+00:00)
-<!-- image: https://gdb.rferl.org/63be4226-bba4-414e-eb1a-08df13afe2a0_w1200_h630.jpg -->
-
-Melania Trump will host Russian and Ukrainian representatives at the White House on November 5. The meeting focuses on a localized cease-fire in Kherson. A new round of US-mediated peace talks is scheduled for next week. Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks.
+**Updated:** November 07, 2026 03:20 IST
 
 ---
 
 ## Americas
 
-### [Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
-*The Guardian* - Nov 06, 21:18 IST (iso: 2026-11-06T15:48:36+00:00)
+### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
+*The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
 <!-- image: https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf -->
 
 Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.
 
 ### [Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang](https://www.thehindu.com/news/international/trump-administration-scraps-meeting-of-panel-that-includes-metas-zuckerberg-nvidias-huang/article71675185.ece)
-*The Hindu (International)* - Nov 06, 20:11 IST (iso: 2026-11-06T14:41:31+00:00)
+*The Hindu (International)* - Nov 06, 21:57 IST (iso: 2026-11-06T16:27:44+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/m2malg/article71675212.ece/alternates/LANDSCAPE_1200/2026-11-06T110031Z_797019375_RC2UFOATWYY9_RTRMADP_3_USA-TRUMP-TRUMPMEDIA.JPG -->
 
 The Trump administration canceled a meeting of a technology panel that included Mark Zuckerberg and Jensen Huang. The decision followed a dramatic sell-off in tech shares on November 5. Investors worried a new Congress would slow AI development. Concerns also mounted over insufficient returns on massive capital expenditures. Technology shares sold ‌off ⁠dramatically on November 5 ⁠on growing concerns that a new Congress will slow AI development, and ​also on fears ‌that the massive capital expense of building out AI will not yield sufficient ‌returns.
@@ -76,11 +24,11 @@ The Trump administration canceled a meeting of a technology panel that included 
 
 Flávio Bolsonaro addressed the Conservative Political Action Conference at Mar-a-Lago, claiming his election loss is not the end for Brazil. The far-right politician fled to the US shortly after losing Brazil’s presidential election. He made unsubstantiated claims about election fraud while attempting to maintain political relevance. Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraudFlávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain political relevance after fleeing to the US. Bolsonaro absconded early last week shortly after losing t.
 
-### [How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil](https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro)
-*The Guardian* - Nov 05, 16:30 IST (iso: 2026-11-05T11:00:21+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3cd6d6a16bb0a7da4fb2d4d6f915b10c33ac5788/0_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce7c069b210cf6cdb14ca23d219c7015 -->
+### [From a ship frozen into Arctic ice, a warning to world leaders: Trust the science](https://news.un.org/feed/view/en/story/2026/11/1168751)
+*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-Tara-Polar-Station-02.jpg/image770x420cropped.jpg -->
 
-Elderly voters helped tip Brazil's runoff election in favor of left-wing President Lula against far-right Flávio Bolsonaro. Celia de Oliveira Soares, 101, voted for the first time in nearly a decade, representing a key demographic in the historic result. Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoffIt had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home. But on 25 October, when Brazil held what many considered its most important presidential election in decades, relatives helped Soares into.
+Scientists aboard a ship frozen in Arctic ice are documenting rapid environmental changes. They warn world leaders to trust climate science as sea ice retreats. Oil tankers are increasingly operating in the region, heightening the stakes for polar governance. Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.
 
 ### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
 *UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
@@ -92,11 +40,11 @@ COP31 focuses on making advanced clean energy technologies affordable for all na
 
 ## Middle East & Africa
 
-### [Kenyan doomsday cult leader jailed for 200 years over 191 murders](https://news.sky.com/story/kenyan-doomsday-cult-leader-jailed-for-200-years-over-murder-of-191-people-13608808)
-*Sky News World* - Nov 06, 18:20 IST (iso: 2026-11-06T12:50:00+00:00)
-<!-- image: https://e3.365dm.com/26/11/1920x1080/skynews-paul-mackenzie-good-news-international_7398786.jpg?20261106075250 -->
+### [Iran's Isolation Closes Doors For Young People Hoping To Build A Future Abroad](https://www.rferl.org/a/iran-s-isolation-closes-doors-for-young-people-hoping-to-build-a-future-abroad/33892509.html)
+*Radio Free Europe / Liberty* - Nov 06, 23:34 IST (iso: 2026-11-06T18:04:15+00:00)
+<!-- image: https://gdb.rferl.org/e53f5741-59ff-4ca5-ecdb-08df13a87301_w1200_h630.jpg -->
 
-Paul Mackenzie received a 200-year prison sentence in Kenya. He was convicted of killing 190 children and one adult in the Shakahola Forest. The murders occurred between January 2021 and September 2023. The court imposed the lengthy term for the mass killings. Cult leader Paul Mackenzie has been sentenced to a total of 200 years in prison for the murder of 190 children and one adult in the Shakahola Forest, on the Kenyan coast, between January 2021 and September 2023.
+US and British English testing services have suspended operations in Iran. This move blocks a critical pathway for young Iranians seeking to study abroad. Sanctions and growing isolation continue to restrict their options for international education. Sanctions and growing international isolation are cutting key pathways for young Iranians with dreams of studying abroad. US and British English language-testing services have been suspended in Iran, creating another obstacle for prospective international students.
 
 ### [‘No Escape’ for refugees on the frontlines of the climate crisis](https://news.un.org/feed/view/en/story/2026/11/1168752)
 *UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
@@ -118,7 +66,7 @@ The African National Congress faces a poor result in South Africa’s local elec
 
 ### [Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms](https://news.un.org/feed/view/en/story/2026/11/1168740)
 *UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-06-2025-UNICEF-Gaza-08.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-06-2025-UNICEF-Gaza-08.jpg/image560x340cropped.jpg -->
 
 Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesday. The United Nations reported that the incident caused injuries and forced a humanitarian partner to leave the area. Aid teams are now preparing for incoming winter storms in the region. Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.
 
@@ -127,6 +75,58 @@ Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesd
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image560x340cropped.jpg -->
 
 Many children born in Syria since 2011 lack legal identity because nationality passes only through fathers. A United Nations commission member stated that many of these fathers are dead or missing. The current legal framework effectively shuts out mothers from establishing their children's status. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
+
+### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
+*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
+<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Reuters journalist Giulia Paravicini discusses her recent reporting trip to Asmara, Eritrea. She details life in the isolated nation and its leadership's strategic calculations. The interview highlights mounting regional tensions and the complex dynamics with neighboring Ethiopia. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
+
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Oct 30, 05:30 IST (iso: 2026-10-30T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group analysts provide weekly updates on global conflicts and crises. They highlight under-reported trends and major developments in key hotspots. Field experts explain why specific situations matter and outline potential responses for policymakers. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
+
+---
+
+## Europe & Russia
+
+### [Europe bomb threats 'likely co-ordinated campaign': Irish government](https://www.thehindu.com/news/international/europe-bomb-threats-likely-co-ordinated-campaign-irish-government/article71675060.ece)
+*The Hindu (International)* - Nov 06, 21:43 IST (iso: 2026-11-06T16:13:36+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/vqjy07/article71675107.ece/alternates/LANDSCAPE_1200/2026-11-06T123852Z_121061962_RC2CIOANNUND_RTRMADP_3_EUROPE-SECURITY-IRELAND.JPG -->
+
+The Irish government described recent European bomb threats as a likely coordinated campaign. Dublin hoaxes coincided with disruptions across the continent on November 6. Authorities rerouted flights or deployed fighter jets to escort civilian aircraft through affected airspace. The hoaxes in Dublin came as more European flights were also hit on November 6 by bomb threats, the latest this week forcing authorities to reroute some planes or escort civilian aircraft with fighter jets.
+
+### [Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks](https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru)
+*The Guardian* - Nov 06, 06:52 IST (iso: 2026-11-06T01:22:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/c8e02014efcb6621df0185a3b2dd97463db96479/238_75_789_631/master/789.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7ccf5a6d459077ffbe6f9dc90e632e0 -->
+
+Peruvian authorities seized over 3,000 tarantulas at a Lima airport. The spiders were hidden in dirty socks inside three suitcases. Two Germans and a Polish citizen were carrying them. The shipment was bound for Germany, where the spiders could fetch 1.5 million euros. Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5mMore than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestry and Wildlife Service (SERFOR) told Agenc.
+
+### [How Russia's War Recruitment Machine Became Big Business](https://www.rferl.org/a/russia-war-recruitment-big-business-ukraine-military/33891653.html)
+*Radio Free Europe / Liberty* - Nov 05, 20:20 IST (iso: 2026-11-05T14:50:37+00:00)
+<!-- image: https://gdb.rferl.org/9271105C-C3AC-4144-8FBC-82F111DF36FC_cx2_cy3_cw89_w1200_h630.jpg -->
+
+Russian military recruitment increasingly relies on private companies and intermediaries. These actors operate on the fringes of the legal system to fill depleted ranks. The shift has created a human cost as the state outsources conscription. This commercial approach reflects the strain of the ongoing war against Ukraine on domestic manpower. An increasing number of cases point to the human cost of a recruitment system in Russia that increasingly relies on private companies and intermediaries who often work on the fringes to bolster the ranks of a military depleted by the war against Ukraine.
+
+### [A Political Killing, A Seismic Shift, And A 'Vile' Attack](https://www.rferl.org/a/russia-novaya-gazeta-ukraine-war-peace-talks/33890879.html)
+*Radio Free Europe / Liberty* - Nov 05, 16:56 IST (iso: 2026-11-05T11:26:40+00:00)
+<!-- image: https://gdb.rferl.org/2b4fc504-2d37-44a4-794d-08df13a869ed_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Twenty years after journalist Anna Politikovskaya was killed, her newspaper faces crushing pressure from the Russian state. A small Ukraine cease-fire was followed by a massive attack, while a US political shift precedes new trilateral peace talks. Twenty years after investigative journalist Anna Politikovskaya was shot dead, the paper she worked for is crushed under pressure from the Russian state.
+
+### [Nations Line Up To Boycott Ice Hockey Games Against Russia](https://www.rferl.org/a/russia-hockey-ukraine-war/33890409.html)
+*Radio Free Europe / Liberty* - Nov 04, 18:55 IST (iso: 2026-11-04T13:25:42+00:00)
+<!-- image: https://gdb.rferl.org/ad1ec3ac-27ed-48f4-be90-ff410ce85a9c_cx0_cy6_cw0_w1200_h630.jpg -->
+
+Multiple nations plan to boycott ice hockey events involving Russia. They oppose a court ruling allowing Moscow to rejoin international competitions. The boycott threatens the upcoming World Championships. Countries refuse to play against Russian teams. A growing list of countries are lining up against a court decision allowing Russia to rejoin international ice hockey events, saying they will boycott any team Moscow sends, putting the World Championships next year in jeopardy.
+
+### [Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks](https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html)
+*Radio Free Europe / Liberty* - Nov 04, 02:48 IST (iso: 2026-11-03T21:18:10+00:00)
+<!-- image: https://gdb.rferl.org/63be4226-bba4-414e-eb1a-08df13afe2a0_w1200_h630.jpg -->
+
+Melania Trump will host Russian and Ukrainian representatives at the White House on November 5. The meeting focuses on a localized cease-fire in Kherson. A new round of US-mediated peace talks is scheduled for next week. Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks.
 
 ---
 
