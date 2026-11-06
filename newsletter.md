@@ -1,16 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 06, 2026 06:44 IST
+**Updated:** November 06, 2026 14:09 IST
 
 ---
 
 ## Asia-Pacific
 
-### [Her school principal told her football wasn’t for girls – she’s now a doctor for a top women’s club](https://www.channelnewsasia.com/women/singaporean-football-doctor-bethany-koh-england-6485191)
-*Channel News Asia* - Nov 06, 04:44 IST (iso: 2026-11-05T23:14:32+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--iSBWpH-4--/c_crop,h_720,w_1280,x_0,y_54/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/23/bethany-koh-chelsea-fc-women-football-doctor.jpg?itok=CyiKL3pU -->
+### [Pakistan’s Fa’az missile aims to escape China, US arms traps](https://asiatimes.com/2026/11/pakistans-faaz-missile-aims-to-escape-china-us-arms-traps/)
+*Asia Times* - Nov 06, 10:59 IST (iso: 2026-11-06T05:29:32+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Pakistan-Air-Force-Faaz-Missile-Test-2.jpg -->
 
-Singaporean physician Bethany Koh provides medical cover for over 60 women's football matches in England. She treats injuries and manages return-to-play decisions for top clubs. Her work includes supporting Chelsea FC Women on the pitch. From treating injuries on the pitch to making tough calls about when players can return to action, Singaporean doctor Bethany Koh has provided medical cover at more than 60 women’s football matches in England, including for Chelsea FC Women.
+Pakistan tested its indigenous Fa’az beyond-visual-range missile, marking a shift toward self-reliance in air combat. The move addresses vulnerabilities in relying on foreign defense partners. It responds to operational needs from volatile border clashes with India. Pakistan’s recent maiden test of its indigenous Fa’az beyond-visual-range missile highlights an urgent push toward self-reliance in high-end air combat, driven by the operational imperatives of volatile border clashes with India and the strategic vulnerabilities of relying on foreign defense partners.
 
 ### [US Court Temporarily Blocks Deportation Of Afghan Nationals Over Safety Concerns](https://www.rferl.org/a/us-court-temporarily-blocks-afghans-deportation/33890357.html)
 *Radio Free Europe / Liberty* - Nov 05, 15:42 IST (iso: 2026-11-05T10:12:46+00:00)
@@ -34,17 +34,11 @@ China is rapidly expanding Type 071 amphibious transport dock production to supp
 
 ## Middle East & Africa
 
-### [Eisenkot tipped to seek Israel government with backing of Arab lists](https://www.thehindu.com/news/international/eisenkot-tipped-to-seek-israel-government-with-backing-of-arab-lists/article71671757.ece)
-*The Hindu (International)* - Nov 06, 04:28 IST (iso: 2026-11-05T22:58:13+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/debt5q/article71671761.ece/alternates/LANDSCAPE_1200/AFP__20261028__D4MC79E__v1__HighRes__IsraelVote.jpg -->
+### [Iran’s Hormuz toll regime to punish weakened Trump’s Asian allies](https://asiatimes.com/2026/11/irans-hormuz-toll-regime-to-punish-weakened-trumps-asian-allies/)
+*Asia Times* - Nov 06, 10:06 IST (iso: 2026-11-06T04:36:01+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Iran-Hormuz-Flag-2.jpg -->
 
-Israeli President Isaac Herzog held a second day of consultations with political parties on November 5. He plans to announce on November 8 who will attempt to form a new government. Gideon Eisenkot is tipped to seek the role with Arab list backing. Isaac Herzog held a second day of consultations with political parties on November 5 after the October 27 election; he said he will announce on November 8 whom he will task with trying to form a new government.
-
-### [Iranians burn giant poster of Trump and allies, demand revenge](https://www.thehindu.com/news/international/iranians-burn-giant-poster-of-trump-and-allies-demand-revenge/article71671250.ece)
-*The Hindu (International)* - Nov 05, 23:17 IST (iso: 2026-11-05T17:47:37+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/vm2hx4/article71671271.ece/alternates/LANDSCAPE_1200/Iran_War_US_622_3.jpg -->
-
-Crowds in Tehran's Enghelab square burned a large poster depicting Donald Trump, JD Vance, Steve Witkoff, and Benjamin Netanyahu. The gathering marked a public display of anger against the United States and Israel. Participants demanded retribution for recent attacks. The event highlighted the deepening rift between Iran and its Western adversaries. In the capital's central Enghelab square, crowds gathered to observe the burning of the poster featuring U. S.
+Iran exempted India, China, Iraq, and Qatar from Strait of Hormuz transit restrictions. Tehran announced the exemptions on November 3. The decision targets other Asian allies. It aims to punish states supporting the United States. On November 3, as Americans voted in the midterm elections, Tehran announced which states may use the Strait of Hormuz. Amir Hayat Moqaddam, deputy chairman of the Iranian parliament’s National Security and Foreign Policy Committee, stated that vessels from India, China, Iraq and Qatar are exempt from its transit restrictions.
 
 ### [ANC faces anger over poor services as South Africans vote in local elections](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
 *The Guardian* - Nov 04, 20:20 IST (iso: 2026-11-04T14:50:47+00:00)
@@ -79,6 +73,18 @@ Yemeni war drives families to desperate measures. A fourteen-year-old girl named
 ---
 
 ## Europe & Russia
+
+### [First Muslim U.S. senator’s wife has a Karnataka link](https://www.thehindu.com/news/national/karnataka/sarah-jukaku-first-muslim-us-senator-abdul-el-sayed-wife-karnataka-bhatkal-links/article71667298.ece)
+*The Hindu (International)* - Nov 06, 08:39 IST (iso: 2026-11-06T03:09:39+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/qdxt4w/article71669706.ece/alternates/LANDSCAPE_1200/2026-11-04T064033Z_2019767151_RC2UGOATQ09K_RTRMADP_3_USA-ELECTION-MICHIGAN.JPG -->
+
+Dr. Sarah, wife of the first Muslim U. S. senator, has a Karnataka link. She is the granddaughter of J. H. Shamsuddin Jukaku. He served as Deputy Finance Minister in the Mysore State government. This occurred in the late 1950s and early 1960s. Sarah is the granddaughter of the late J. H. Jatti, in the late 1950s and early 1960s. senator’s wife has a Karnataka link.
+
+### [Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks](https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru)
+*The Guardian* - Nov 06, 06:52 IST (iso: 2026-11-06T01:22:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/c8e02014efcb6621df0185a3b2dd97463db96479/238_75_789_631/master/789.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7ccf5a6d459077ffbe6f9dc90e632e0 -->
+
+Peruvian authorities seized over 3,000 tarantulas at a Lima airport. The spiders were hidden in dirty socks inside three suitcases. Two Germans and a Polish citizen were carrying them. The shipment was bound for Germany, where the spiders could fetch 1.5 million euros. Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5mMore than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestry and Wildlife Service (SERFOR) told Agenc.
 
 ### [How Russia's War Recruitment Machine Became Big Business](https://www.rferl.org/a/russia-war-recruitment-big-business-ukraine-military/33891653.html)
 *Radio Free Europe / Liberty* - Nov 05, 20:20 IST (iso: 2026-11-05T14:50:37+00:00)
@@ -140,7 +146,7 @@ UN peacekeeping chief warned the Security Council that drone strikes in Abyei po
 
 ### [15 years of ‘almost no progress’ in getting young people moving: WHO](https://news.un.org/feed/view/en/story/2026/11/1168736)
 *UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image770x420cropped.jpg -->
 
 The World Health Organization reported that one in four adolescents worldwide does not get sixty minutes of daily physical activity. This data highlights fifteen years of almost no progress in getting young people moving. The new global estimates underscore a persistent public health gap. One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.
 
@@ -165,12 +171,6 @@ Trump campaigned heavily in the final weeks of the midterms, contradicting his e
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image770x420cropped.jpg -->
 
 COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
-
-### [Brazil publishes first global ‘roadmap’ for phasing out fossil fuels](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
-*The Guardian* - Nov 03, 18:30 IST (iso: 2026-11-03T13:00:07+00:00)
-<!-- image: https://i.guim.co.uk/img/media/adcc136be3a039cc686a97e706b24371222bb09e/0_0_2720_2175/master/2720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b11504090f7788b05dec1d0cded339da -->
-
-Brazil published the first global roadmap for phasing out fossil fuels. The Cop30 host outlined steps to break dependence on coal, oil, and gas. The government stated countries can act now without waiting for new technologies. The plan shifts focus from negotiation to implementation. Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit. Brazil, the host of last year’s UN climate conference, set out the world’s first g.
 
 ---
 
