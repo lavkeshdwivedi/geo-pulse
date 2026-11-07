@@ -1,10 +1,74 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 08, 2026 00:38 IST
+**Updated:** November 08, 2026 04:40 IST
+
+---
+
+## Middle East & Africa
+
+### [U.S. military says it disabled cargo vessel in Gulf of Oman](https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece)
+*The Hindu (International)* - Nov 08, 04:33 IST (iso: 2026-11-07T23:03:58+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ye7n7l/article71679591.ece/alternates/LANDSCAPE_1200/2026-11-03T153056Z_1152644980_RC23GOANNFNH_RTRMADP_3_IRAN-CRISIS-GULF-OIL.JPG -->
+
+U. S. Central Command announced it disabled a St. Kitts-flagged cargo vessel in the Gulf of Oman. The ship had recently called at an Iranian port before attempting to leave regional waters. American forces ordered the crew to abandon specific areas of the vessel. A U. S. aircraft then fired precision munitions at the ship's stern. The action followed direct instructions to the crew to clear targeted spaces.
+
+### [Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi](https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html)
+*Radio Free Europe / Liberty* - Nov 07, 15:40 IST (iso: 2026-11-07T10:10:07+00:00)
+<!-- image: https://gdb.rferl.org/cda433c6-484c-458d-9fe1-a6dfccf8e8a5_cx0_cy5_cw0_w1200_h630.jpg -->
+
+Russia launched 172 drones and 36 missiles at Kyiv on November 7. The strikes damaged energy infrastructure, housing, and a major Dnipro River bridge. The attack occurred just before scheduled talks in Abu Dhabi. Kyiv faced widespread damage and disruptions to essential services on November 7 after Russia launched 172 attack drones and 36 ballistic missiles at the Ukrainian capital and other regions, striking energy infrastructure, residential housing, and a major bridge over the Dnipro River.
+
+### [Iran's Isolation Closes Doors For Young People Hoping To Build A Future Abroad](https://www.rferl.org/a/iran-s-isolation-closes-doors-for-young-people-hoping-to-build-a-future-abroad/33892509.html)
+*Radio Free Europe / Liberty* - Nov 06, 23:34 IST (iso: 2026-11-06T18:04:15+00:00)
+<!-- image: https://gdb.rferl.org/e53f5741-59ff-4ca5-ecdb-08df13a87301_w1200_h630.jpg -->
+
+US and British English testing services have suspended operations in Iran. This move blocks a critical pathway for young Iranians seeking to study abroad. Sanctions and growing isolation continue to restrict their options for international education. Sanctions and growing international isolation are cutting key pathways for young Iranians with dreams of studying abroad. US and British English language-testing services have been suspended in Iran, creating another obstacle for prospective international students.
+
+### [Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions](https://news.un.org/feed/view/en/story/2026/11/1168758)
+*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/13-07-2026-UNICEF-Afghanistan-02.jpg/image770x420cropped.jpg -->
+
+A senior UN official called Afghanistan a difficult crossroad. The country faces a fragile economy and rights curbs. Humanitarian needs are acute five years after the Taliban returned. Stability is being undercut by these deepening restrictions. Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need.
+
+### [‘No Escape’ for refugees on the frontlines of the climate crisis](https://news.un.org/feed/view/en/story/2026/11/1168752)
+*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/23-10-2026-IOM-Somalia-flooding-03.jpg/image770x420cropped.jpg -->
+
+Nearly 90 million refugees live in countries facing high climate hazard exposure. Three in four displaced people face drought, floods, or extreme heat. This makes the climate emergency an immediate crisis for displaced populations. They have limited options for safe relocation. The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.
+
+### [Iran’s Hormuz toll regime to punish weakened Trump’s Asian allies](https://asiatimes.com/2026/11/irans-hormuz-toll-regime-to-punish-weakened-trumps-asian-allies/)
+*Asia Times* - Nov 06, 10:06 IST (iso: 2026-11-06T04:36:01+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Iran-Hormuz-Flag-2.jpg -->
+
+Iran exempted India, China, Iraq, and Qatar from Strait of Hormuz transit restrictions. Tehran announced the exemptions on November 3. The decision targets other Asian allies. It aims to punish states supporting the United States. On November 3, as Americans voted in the midterm elections, Tehran announced which states may use the Strait of Hormuz. Amir Hayat Moqaddam, deputy chairman of the Iranian parliament’s National Security and Foreign Policy Committee, stated that vessels from India, China, Iraq and Qatar are exempt from its transit restrictions.
+
+### [ANC faces anger over poor services as South Africans vote in local elections](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
+*The Guardian* - Nov 04, 20:20 IST (iso: 2026-11-04T14:50:47+00:00)
+<!-- image: https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/632_208_4152_3322/master/4152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dda5de08d262ccc1c762290f772aee0c -->
+
+The African National Congress faces a poor result in South Africa’s local elections. Voters are frustrated by water outages, power cuts, and crumbling infrastructure. The party is expected to secure less than a third of the total vote. Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at th.
+
+### [Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms](https://news.un.org/feed/view/en/story/2026/11/1168740)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-06-2025-UNICEF-Gaza-08.jpg/image560x340cropped.jpg -->
+
+Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesday. The United Nations reported that the incident caused injuries and forced a humanitarian partner to leave the area. Aid teams are now preparing for incoming winter storms in the region. Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.
+
+### [Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers](https://news.un.org/feed/view/en/story/2026/11/1168737)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image560x340cropped.jpg -->
+
+A UN commission member stated that many Syrian children lack legal identity because nationality law requires a father's lineage. With many fathers dead or missing since 2011, these minors face exclusion from basic rights. The system effectively punishes mothers and their offspring for the conflict's human toll. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
 
 ---
 
 ## Asia-Pacific
+
+### [China's 'potato capital' cultivates new crop of data centres as AI boom takes root](https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706)
+*Channel News Asia* - Nov 08, 03:30 IST (iso: 2026-11-07T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--bCm1CetU--/c_crop,h_1125,w_2000,x_0,y_270/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/05/ulanqab_data_center_construction_2.png?itok=xyLCNq24 -->
+
+Ulanqab in Inner Mongolia is converting potato fields into large-scale AI data centres. The shift is driven by the region's cold climate, which reduces cooling costs for servers. Local livelihoods are changing as agricultural land gives way to tech infrastructure. The expansion raises concerns about water usage in a drought-prone area. On the windswept plains of China's Inner Mongolia, potato farms are making way for sprawling AI data centres.
 
 ### [New Zealand faces weeks of uncertainty with election ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)
 *The Guardian* - Nov 07, 19:18 IST (iso: 2026-11-07T13:48:18+00:00)
@@ -66,71 +130,7 @@ Twenty years after journalist Anna Politikovskaya was killed, her newspaper face
 
 ---
 
-## Middle East & Africa
-
-### [Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi](https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html)
-*Radio Free Europe / Liberty* - Nov 07, 15:40 IST (iso: 2026-11-07T10:10:07+00:00)
-<!-- image: https://gdb.rferl.org/cda433c6-484c-458d-9fe1-a6dfccf8e8a5_cx0_cy5_cw0_w1200_h630.jpg -->
-
-Russia launched 172 drones and 36 missiles at Kyiv on November 7. The strikes damaged energy infrastructure, housing, and a major Dnipro River bridge. The attack occurred just before scheduled talks in Abu Dhabi. Kyiv faced widespread damage and disruptions to essential services on November 7 after Russia launched 172 attack drones and 36 ballistic missiles at the Ukrainian capital and other regions, striking energy infrastructure, residential housing, and a major bridge over the Dnipro River.
-
-### [Iran's Isolation Closes Doors For Young People Hoping To Build A Future Abroad](https://www.rferl.org/a/iran-s-isolation-closes-doors-for-young-people-hoping-to-build-a-future-abroad/33892509.html)
-*Radio Free Europe / Liberty* - Nov 06, 23:34 IST (iso: 2026-11-06T18:04:15+00:00)
-<!-- image: https://gdb.rferl.org/e53f5741-59ff-4ca5-ecdb-08df13a87301_w1200_h630.jpg -->
-
-US and British English testing services have suspended operations in Iran. This move blocks a critical pathway for young Iranians seeking to study abroad. Sanctions and growing isolation continue to restrict their options for international education. Sanctions and growing international isolation are cutting key pathways for young Iranians with dreams of studying abroad. US and British English language-testing services have been suspended in Iran, creating another obstacle for prospective international students.
-
-### [Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions](https://news.un.org/feed/view/en/story/2026/11/1168758)
-*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/13-07-2026-UNICEF-Afghanistan-02.jpg/image770x420cropped.jpg -->
-
-A senior UN official called Afghanistan a difficult crossroad. The country faces a fragile economy and rights curbs. Humanitarian needs are acute five years after the Taliban returned. Stability is being undercut by these deepening restrictions. Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need.
-
-### [‘No Escape’ for refugees on the frontlines of the climate crisis](https://news.un.org/feed/view/en/story/2026/11/1168752)
-*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/23-10-2026-IOM-Somalia-flooding-03.jpg/image770x420cropped.jpg -->
-
-Nearly 90 million refugees live in countries facing high climate hazard exposure. Three in four displaced people face drought, floods, or extreme heat. This makes the climate emergency an immediate crisis for displaced populations. They have limited options for safe relocation. The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.
-
-### [Iran’s Hormuz toll regime to punish weakened Trump’s Asian allies](https://asiatimes.com/2026/11/irans-hormuz-toll-regime-to-punish-weakened-trumps-asian-allies/)
-*Asia Times* - Nov 06, 10:06 IST (iso: 2026-11-06T04:36:01+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Iran-Hormuz-Flag-2.jpg -->
-
-Iran exempted India, China, Iraq, and Qatar from Strait of Hormuz transit restrictions. Tehran announced the exemptions on November 3. The decision targets other Asian allies. It aims to punish states supporting the United States. On November 3, as Americans voted in the midterm elections, Tehran announced which states may use the Strait of Hormuz. Amir Hayat Moqaddam, deputy chairman of the Iranian parliament’s National Security and Foreign Policy Committee, stated that vessels from India, China, Iraq and Qatar are exempt from its transit restrictions.
-
-### [ANC faces anger over poor services as South Africans vote in local elections](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
-*The Guardian* - Nov 04, 20:20 IST (iso: 2026-11-04T14:50:47+00:00)
-<!-- image: https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/632_208_4152_3322/master/4152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dda5de08d262ccc1c762290f772aee0c -->
-
-The African National Congress faces a poor result in South Africa’s local elections. Voters are frustrated by water outages, power cuts, and crumbling infrastructure. The party is expected to secure less than a third of the total vote. Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at th.
-
-### [Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms](https://news.un.org/feed/view/en/story/2026/11/1168740)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-06-2025-UNICEF-Gaza-08.jpg/image560x340cropped.jpg -->
-
-Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesday. The United Nations reported that the incident caused injuries and forced a humanitarian partner to leave the area. Aid teams are now preparing for incoming winter storms in the region. Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.
-
-### [Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers](https://news.un.org/feed/view/en/story/2026/11/1168737)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image560x340cropped.jpg -->
-
-A UN commission member stated that many Syrian children lack legal identity because nationality law requires a father's lineage. With many fathers dead or missing since 2011, these minors face exclusion from basic rights. The system effectively punishes mothers and their offspring for the conflict's human toll. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
-
-### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
-*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
-<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Reuters journalist Giulia Paravicini discussed her reporting trip to Asmara, the capital of Eritrea. She detailed life in the isolated nation and its leadership's strategic calculations. The conversation addressed how Eritrea navigates regional turmoil and rising tensions with neighboring Ethiopia. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
-
----
-
 ## Americas
-
-### [After Donald Trump’s midterm poll rout, South America breathes easy as far-right feels the heat](https://www.thehindu.com/news/international/after-trumps-midterm-poll-rout-south-america-breathes-easy-as-far-right-feels-the-heat/article71673628.ece)
-*The Hindu (International)* - Nov 07, 14:38 IST (iso: 2026-11-07T09:08:32+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/m7e18g/article71673782.ece/alternates/LANDSCAPE_1200/AP11_06_2026_000002A.jpg -->
-
-A blue wave in U. S. midterms weakened President Trump's administration. This shift eased pressure on South American leaders. The fall of Santiago Pena in Chile signals the far-right is facing significant regional headwinds. Just a day after a blue wave swept across the U. in midterms election shaking President Donald Trump’s administration, the fall of Santiago Pena carries significance beyond the borders of the country of seven million people.
 
 ### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
 *The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)

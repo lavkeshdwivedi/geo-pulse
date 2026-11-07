@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-07T19:08:32.403407+00:00",
+  "generated_at": "2026-11-07T23:10:59.111885+00:00",
   "article_count": 50,
   "total_unique_count": 261,
   "digest": {
-    "en": "New Zealand’s election night in Auckland leaves the coalition balance hanging, with preliminary counts showing a razor‑thin margin between the Labour and National parties.",
-    "hi": "हूती मिसाइलों ने सऊदी अरब के रियाद और अरामको को निशाना बनाया, जिससे यमन में 25 लोग मारे गए। इसी वक्त पोलैंड में एक शख्स ने कार से आकर लोगों पर गोलीबारी की, जिसमें कम से कम 5 की मौत हुई।"
+    "en": "The U.S. Navy disabled a cargo vessel in the Gulf of Oman while Zelenskyy warned of Russian blackouts ahead of Abu Dhabi talks. Global stocks slid on AI anxiety following the Democratic midterm win. New Zealand faces weeks of coalition uncertainty as its election remains too close to call.",
+    "hi": "आज दिल्ली में HDFC Bank के ग्राहकों को बड़े डिस्काउंट धोखाधड़ी के कारण खाता शून्य हो रहा है। इसी दौरान मुंबई में एटीएम से नकद निकालते समय चार सामान्य गलतियों से खातों में कमी देखी जा रही है।"
   },
   "articles": [
+    {
+      "title": "U.S. military says it disabled cargo vessel in Gulf of Oman",
+      "url": "https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-07T23:03:58+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/ye7n7l/article71679591.ece/alternates/LANDSCAPE_1200/2026-11-03T153056Z_1152644980_RC23GOANNFNH_RTRMADP_3_IRAN-CRISIS-GULF-OIL.JPG",
+      "summary": "U. S. Central Command announced it disabled a St. Kitts-flagged cargo vessel in the Gulf of Oman. The ship had recently called at an Iranian port before attempting to leave regional waters. American forces ordered the crew to abandon specific areas of the vessel. A U. S. aircraft then fired precision munitions at the ship's stern. The action followed direct instructions to the crew to clear targeted spaces.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China's 'potato capital' cultivates new crop of data centres as AI boom takes root",
+      "url": "https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-11-07T22:00:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--bCm1CetU--/c_crop,h_1125,w_2000,x_0,y_270/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/05/ulanqab_data_center_construction_2.png?itok=xyLCNq24",
+      "summary": "Ulanqab in Inner Mongolia is converting potato fields into large-scale AI data centres. The shift is driven by the region's cold climate, which reduces cooling costs for servers. Local livelihoods are changing as agricultural land gives way to tech infrastructure. The expansion raises concerns about water usage in a drought-prone area. On the windswept plains of China's Inner Mongolia, potato farms are making way for sprawling AI data centres.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
       "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
@@ -52,18 +76,6 @@
       "image_url": "https://gdb.rferl.org/cda433c6-484c-458d-9fe1-a6dfccf8e8a5_cx0_cy5_cw0_w1200_h630.jpg",
       "summary": "Russia launched 172 drones and 36 missiles at Kyiv on November 7. The strikes damaged energy infrastructure, housing, and a major Dnipro River bridge. The attack occurred just before scheduled talks in Abu Dhabi. Kyiv faced widespread damage and disruptions to essential services on November 7 after Russia launched 172 attack drones and 36 ballistic missiles at the Ukrainian capital and other regions, striking energy infrastructure, residential housing, and a major bridge over the Dnipro River.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "After Donald Trump’s midterm poll rout, South America breathes easy as far-right feels the heat",
-      "url": "https://www.thehindu.com/news/international/after-trumps-midterm-poll-rout-south-america-breathes-easy-as-far-right-feels-the-heat/article71673628.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-07T09:08:32+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/m7e18g/article71673782.ece/alternates/LANDSCAPE_1200/AP11_06_2026_000002A.jpg",
-      "summary": "A blue wave in U. S. midterms weakened President Trump's administration. This shift eased pressure on South American leaders. The fall of Santiago Pena in Chile signals the far-right is facing significant regional headwinds. Just a day after a blue wave swept across the U. in midterms election shaking President Donald Trump’s administration, the fall of Santiago Pena carries significance beyond the borders of the country of seven million people.",
-      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -296,16 +308,22 @@
       "translations": {}
     },
     {
-      "title": "The View from Eritrea",
-      "url": "https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea",
-      "source": "International Crisis Group",
+      "title": "डिस्काउंट के चक्कर में बैंक अकाउंट हो सकता है खाली, यहां जानें कैसे बचें इस फ्रॉड से",
+      "url": "https://www.amarujala.com/photo-gallery/utility/diwali-2026-how-to-avoid-fraud-related-to-discounts-on-diwali-festival-2026-11-07",
+      "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-10-30T16:29:00+00:00",
-      "image_url": "https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Reuters journalist Giulia Paravicini discussed her reporting trip to Asmara, the capital of Eritrea. She detailed life in the isolated nation and its leadership's strategic calculations. The conversation addressed how Eritrea navigates regional turmoil and rising tensions with neighboring Ethiopia. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
+      "published_at": "2026-11-08T07:09:32+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/thaval-2026-farada-sa-bcana-ka-taraka-kaya-ha_6d28e057d9d0663f0600819248a9d101.jpeg?w=1200&dpr=1.0",
+      "summary": "दिवाली के दौरान बैंकिंग फ्रॉड का खतरा बढ़ा है। जालसाज डिस्काउंट का प्रलोभन देकर ग्राहकों से गोपनीय जानकारी मांगते हैं। बैंक कभी भी OTP या पिन नंबर पूछता नहीं है। ऐसे संदेशों पर विश्वास न करें। दिवाली के मौके पर जालसाज आपके साथ ठगी कर सकते हैं इसलिए डिस्काउंट के चक्कर में अपनी बैंकिंग गोपनीय जानकारी किसी को शेयर न करें।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "डिस्काउंट के चक्कर में बैंक अकाउंट हो सकता है खाली, यहां जानें कैसे बचें इस फ्रॉड से",
+          "summary": "दिवाली के दौरान बैंकिंग फ्रॉड का खतरा बढ़ा है। जालसाज डिस्काउंट का प्रलोभन देकर ग्राहकों से गोपनीय जानकारी मांगते हैं। बैंक कभी भी OTP या पिन नंबर पूछता नहीं है। ऐसे संदेशों पर विश्वास न करें। दिवाली के मौके पर जालसाज आपके साथ ठगी कर सकते हैं इसलिए डिस्काउंट के चक्कर में अपनी बैंकिंग गोपनीय जानकारी किसी को शेयर न करें।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "दिवाली के लिए एटीएम से निकाल रहे हैं कैश? तो ये 4 गलतियां भूलकर न करें, वरना खाली हो सकता है बैंक",
@@ -434,6 +452,276 @@
       }
     },
     {
+      "title": "ओडिशा में दिवाली से पहले मातम: जाजपुर में भीषण आग, दो बच्चों समेत परिवार के चार सदस्यों की जलने से",
+      "url": "https://www.amarujala.com/india-news/odisha-jajpur-house-fire-four-of-a-family-charred-to-death-know-details-2026-11-08",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T22:59:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/bugdha-khabra_cedadbbef70ac8906dc3f3179038c8c5.jpeg?w=1200&dpr=1.0",
+      "summary": "ओडिशा के जाजपुर जिले में दिवाली से पहले भीषण आग लग गई। इस हादसे में एक परिवार के चार सदस्यों की मौत हो गई। मृतकों में दो बच्चे भी शामिल हैं। स्थानीय प्रशासन ने शवों को पोस्टमॉर्टम के लिए भेज दिया है। ओडिशा में दिवाली से पहले मातम: जाजपुर में भीषण आग, दो बच्चों समेत परिवार के चार सदस्यों की जलने से मौत।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओडिशा में दिवाली से पहले मातम: जाजपुर में भीषण आग, दो बच्चों समेत परिवार के चार सदस्यों की जलने से",
+          "summary": "ओडिशा के जाजपुर जिले में दिवाली से पहले भीषण आग लग गई। इस हादसे में एक परिवार के चार सदस्यों की मौत हो गई। मृतकों में दो बच्चे भी शामिल हैं। स्थानीय प्रशासन ने शवों को पोस्टमॉर्टम के लिए भेज दिया है। ओडिशा में दिवाली से पहले मातम: जाजपुर में भीषण आग, दो बच्चों समेत परिवार के चार सदस्यों की जलने से मौत।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "देश-दुनिया में दीपावली, सीएम योगी जाएंगे अयोध्या; सरहद पर जवानों संग दिवाली मनाएंगे रक्षा मंत्री",
+      "url": "https://www.amarujala.com/india-news/8-november-2026-major-event-2026-2026-11-07",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T22:45:17+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/aaja-ka-thana_22178f8ad33df666b947b98cae7ff0d5.gif?w=1200&dpr=1.0",
+      "summary": "8 नवंबर 2026 को देशभर में दीपावली मनाई जाएगी। उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ अयोध्या जाएंगे। रक्षा मंत्री सीमा पर तैनात जवानों के साथ त्योहार मनाएंगे। यह दिन देश-दुनिया में विशेष महत्व रखता है। 8 November 2026 Major event 2026- आज के दिन: देश-दुनिया में दीपावली, सीएम योगी जाएंगे अयोध्या; सरहद पर जवानों संग दिवाली मनाएंगे रक्षा मंत्री।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "देश-दुनिया में दीपावली, सीएम योगी जाएंगे अयोध्या; सरहद पर जवानों संग दिवाली मनाएंगे रक्षा मंत्री",
+          "summary": "8 नवंबर 2026 को देशभर में दीपावली मनाई जाएगी। उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ अयोध्या जाएंगे। रक्षा मंत्री सीमा पर तैनात जवानों के साथ त्योहार मनाएंगे। यह दिन देश-दुनिया में विशेष महत्व रखता है। 8 November 2026 Major event 2026- आज के दिन: देश-दुनिया में दीपावली, सीएम योगी जाएंगे अयोध्या; सरहद पर जवानों संग दिवाली मनाएंगे रक्षा मंत्री।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "हरकी पैड़ी पर आईं मां गंगा, आज श्रद्धालु लगाएंगे आस्था की डुबकी; किसानों को भी मिलेगा भरपूर पानी",
+      "url": "https://www.amarujala.com/uttarakhand/haridwar/haridwar-mother-ganga-arrives-at-har-ki-pauri-devotees-will-take-a-holy-dip-today-2026-11-08",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T22:37:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/1_79f94b3ee99f6f6b84a843013813ebd9.jpeg?w=1200&dpr=1.0",
+      "summary": "18 दिन के बाद हरकी पैड़ी पर गंगा जल आ गया है। श्रद्धालु आज यहाँ स्नान करेंगे। किसानों को भी पर्याप्त मात्रा में जल मिलेगा। यह जल प्रवाह स्थानीय कृषि और धार्मिक गतिविधियों को प्रभावित करता है। 18 दिन बाद हरकी पैड़ी पर मां गंगा आ गईं। हरकी पैड़ी पर आईं मां गंगा, आज श्रद्धालु लगाएंगे आस्था की डुबकी; किसानों को भी मिलेगा भरपूर पानी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हरकी पैड़ी पर आईं मां गंगा, आज श्रद्धालु लगाएंगे आस्था की डुबकी; किसानों को भी मिलेगा भरपूर पानी",
+          "summary": "18 दिन के बाद हरकी पैड़ी पर गंगा जल आ गया है। श्रद्धालु आज यहाँ स्नान करेंगे। किसानों को भी पर्याप्त मात्रा में जल मिलेगा। यह जल प्रवाह स्थानीय कृषि और धार्मिक गतिविधियों को प्रभावित करता है। 18 दिन बाद हरकी पैड़ी पर मां गंगा आ गईं। हरकी पैड़ी पर आईं मां गंगा, आज श्रद्धालु लगाएंगे आस्था की डुबकी; किसानों को भी मिलेगा भरपूर पानी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "सुरंग के रास्ते 14 बांग्लादेशी भारत में घुसे: 19 साल बाद हुआ बड़ा खुलासा, आखिर क्यों सभी कर रहे थे",
+      "url": "https://www.amarujala.com/delhi-ncr/gurgaon/gurugram-bangladeshi-infiltration-tunnel-14-arrested-ats-probe-2026-11-07",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T22:36:30+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/etaesa-na-pakaugdha-14-bgalthasha_e879094dea41385015dae89449c126fe.jpeg?w=1200&dpr=1.0",
+      "summary": "एटीएस ने 14 बांग्लादेशी नागरिकों को गिरफ्तार किया है। पूछताछ में पता चला कि दो आरोपी 19 साल पहले सुरंग से भारत आए थे। वे लंबे समय से यहाँ छिपे हुए थे। यह मामला सीमा सुरक्षा के लिए चिंताजनक है। एंटी टेररिस्ट स्क्वॉड (एटीएस) की टीम ने गुरुवार को पकड़े गए 14 बांग्लादेशियों से पूछताछ में बड़े खुलासे हुए है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुरंग के रास्ते 14 बांग्लादेशी भारत में घुसे: 19 साल बाद हुआ बड़ा खुलासा, आखिर क्यों सभी कर रहे थे",
+          "summary": "एटीएस ने 14 बांग्लादेशी नागरिकों को गिरफ्तार किया है। पूछताछ में पता चला कि दो आरोपी 19 साल पहले सुरंग से भारत आए थे। वे लंबे समय से यहाँ छिपे हुए थे। यह मामला सीमा सुरक्षा के लिए चिंताजनक है। एंटी टेररिस्ट स्क्वॉड (एटीएस) की टीम ने गुरुवार को पकड़े गए 14 बांग्लादेशियों से पूछताछ में बड़े खुलासे हुए है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "उत्तरी कोलंबिया में सैन्य अड्डे पर निशाना, तीन सैनिक बलिदान, कई घायल; राष्ट्रपति सख्त",
+      "url": "https://www.amarujala.com/world/colombia-military-base-drone-attack-soldiers-killed-several-wounded-president-abelardo-de-la-espriella-react-2026-11-08",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T22:32:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/sakataka-tasavara_0266502246530d6440660a593a52dc15.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तरी कोलंबिया में सैन्य अड्डे पर ड्रोन हमले में तीन सैनिकों की मौत हुई और कई घायल हुए। राष्ट्रपति अबेलार्डो डे ला एस्प्रीएला ने घटना पर सख्त प्रतिक्रिया व्यक्त की। उत्तरी कोलंबिया में सैन्य अड्डे पर निशाना, तीन सैनिक बलिदान, कई घायल; राष्ट्रपति सख्त।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उत्तरी कोलंबिया में सैन्य अड्डे पर निशाना, तीन सैनिक बलिदान, कई घायल; राष्ट्रपति सख्त",
+          "summary": "उत्तरी कोलंबिया में सैन्य अड्डे पर ड्रोन हमले में तीन सैनिकों की मौत हुई और कई घायल हुए। राष्ट्रपति अबेलार्डो डे ला एस्प्रीएला ने घटना पर सख्त प्रतिक्रिया व्यक्त की। उत्तरी कोलंबिया में सैन्य अड्डे पर निशाना, तीन सैनिक बलिदान, कई घायल; राष्ट्रपति सख्त।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "हमलावर के घर मिले तीन शव, प्रधानमंत्री टस्क बोले- परिवार के करीबी हो सकते हैं मृतक",
+      "url": "https://www.amarujala.com/world/poland-shooting-three-bodies-found-at-attacker-s-home-prime-minister-tusk-says-deceased-may-close-to-family-2026-11-08",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T22:15:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/parathhanamatara-danalda-tasaka_1387c07f3661ea2c992d1236f6d645be.jpeg?w=1200&dpr=1.0",
+      "summary": "पोलैंड में गोलीकांड के हमलावर के घर से तीन शव बरामद हुए। प्रधानमंत्री टस्क का मानना है कि ये मृतक हमलावर के परिवार से जुड़े हुए थे। हमलावर के घर मिले तीन शव, प्रधानमंत्री टस्क बोले- परिवार के करीबी हो सकते हैं मृतक।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हमलावर के घर मिले तीन शव, प्रधानमंत्री टस्क बोले- परिवार के करीबी हो सकते हैं मृतक",
+          "summary": "पोलैंड में गोलीकांड के हमलावर के घर से तीन शव बरामद हुए। प्रधानमंत्री टस्क का मानना है कि ये मृतक हमलावर के परिवार से जुड़े हुए थे। हमलावर के घर मिले तीन शव, प्रधानमंत्री टस्क बोले- परिवार के करीबी हो सकते हैं मृतक।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली में सांसों पर संकट बरकरार: ग्रैप-3 की पाबंदियां भी बेअसर, आज स्थिति गंभीर होने की आशंका",
+      "url": "https://www.amarujala.com/delhi-ncr/crisis-for-breathing-persists-in-delhi-even-grap-3-restrictions-prove-ineffective-2026-11-08",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T21:47:42+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/1_d5ae29ac4da6dd1c0450d99f350c218b.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली में गंभीर स्तर की वायु प्रदूषण की स्थिति बनी हुई है। ग्रैप-3 की पाबंदियों के बावजूद हवा की गुणवत्ता में सुधार नहीं हुआ है। दिल्ली की हवा कई दिनों से खराब चल रही है। दिल्ली में सांसों पर संकट बरकरार: ग्रैप-3 की पाबंदियां भी बेअसर, आज स्थिति गंभीर होने की आशंका।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली में सांसों पर संकट बरकरार: ग्रैप-3 की पाबंदियां भी बेअसर, आज स्थिति गंभीर होने की आशंका",
+          "summary": "दिल्ली में गंभीर स्तर की वायु प्रदूषण की स्थिति बनी हुई है। ग्रैप-3 की पाबंदियों के बावजूद हवा की गुणवत्ता में सुधार नहीं हुआ है। दिल्ली की हवा कई दिनों से खराब चल रही है। दिल्ली में सांसों पर संकट बरकरार: ग्रैप-3 की पाबंदियां भी बेअसर, आज स्थिति गंभीर होने की आशंका।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इस्राइल की सत्ता में बड़ा उलटफेर: नेतन्याहू को हटाने की तैयारी, राष्ट्रपति ने गादी आइजेनकोट पर",
+      "url": "https://www.amarujala.com/world/major-shake-up-in-israeli-power-moves-underway-to-oust-netanyahu-president-places-trust-in-gadi-eizenkot-2026-11-08",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T21:44:59+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/parathhanamatara-bjamana-natanayaha_d4cf00270ebb93acc0f455923c43f824.jpeg?w=1200&dpr=1.0",
+      "summary": "इस्राइल में नेतन्याहू को हटाने की प्रक्रिया शुरू हो गई है। राष्ट्रपति ने गैडी आइजेनकोट पर भरोसा जताया है, जो नई सत्ता संरचना का हिस्सा बन सकते हैं। इस्राइल की सत्ता में बड़ा उलटफेर: नेतन्याहू को हटाने की तैयारी, राष्ट्रपति ने गादी आइजेनकोट पर।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इस्राइल की सत्ता में बड़ा उलटफेर: नेतन्याहू को हटाने की तैयारी, राष्ट्रपति ने गादी आइजेनकोट पर",
+          "summary": "इस्राइल में नेतन्याहू को हटाने की प्रक्रिया शुरू हो गई है। राष्ट्रपति ने गैडी आइजेनकोट पर भरोसा जताया है, जो नई सत्ता संरचना का हिस्सा बन सकते हैं। इस्राइल की सत्ता में बड़ा उलटफेर: नेतन्याहू को हटाने की तैयारी, राष्ट्रपति ने गादी आइजेनकोट पर।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "मौत के मुंह में जाते-जाते बचे दो लोग; किन घटनाओं में, कैसे बची यात्रियों की जान?",
+      "url": "https://www.amarujala.com/india-news/mumbai-local-trains-incident-video-one-falls-during-fight-another-rescued-from-tracks-2026-11-08",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-07T21:42:49+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/05/30/mumbai-local-train_c326caef05813c92c44bd1444971e0e0.jpeg?w=1200&dpr=1.0",
+      "summary": "मुंबई लोकल ट्रेन में दो यात्रियों की जान बच गई। घटना के दौरान वे मौत के मुंह में थे, लेकिन किसी तरह सुरक्षित बच निकले। मुंबई लोकल में विवाद: मौत के मुंह में जाते-जाते बचे दो लोग; किन घटनाओं में, कैसे बची यात्रियों की जान?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मौत के मुंह में जाते-जाते बचे दो लोग; किन घटनाओं में, कैसे बची यात्रियों की जान?",
+          "summary": "मुंबई लोकल ट्रेन में दो यात्रियों की जान बच गई। घटना के दौरान वे मौत के मुंह में थे, लेकिन किसी तरह सुरक्षित बच निकले। मुंबई लोकल में विवाद: मौत के मुंह में जाते-जाते बचे दो लोग; किन घटनाओं में, कैसे बची यात्रियों की जान?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ओमान खाड़ी में अमेरिकी सेना ने पोत पर हमला किया, क्या जंग के बीच फिर बढ़ेगा टकराव और तनाव?",
+      "url": "https://www.amarujala.com/world/west-asia-tension-us-attacks-vessel-in-gulf-of-oman-escalation-of-conflict-iran-hormuz-blockade-middle-east-2026-11-08",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-07T21:42:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/02/omana-ka-tata-para-madara-raha-bugdha-khatara_096a30ea6438258e0b796a8990eba22f.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी सेना ने ओमान खाड़ी में एक पोत पर हमला किया। यह घटना क्षेत्र में तनाव को और बढ़ा सकती है। सटीक परिणाम अभी स्पष्ट नहीं हैं। पश्चिम एशिया तनाव: ओमान खाड़ी में अमेरिकी सेना ने पोत पर हमला किया, क्या जंग के बीच फिर बढ़ेगा टकराव और तनाव?",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ओमान खाड़ी में अमेरिकी सेना ने पोत पर हमला किया, क्या जंग के बीच फिर बढ़ेगा टकराव और तनाव?",
+          "summary": "अमेरिकी सेना ने ओमान खाड़ी में एक पोत पर हमला किया। यह घटना क्षेत्र में तनाव को और बढ़ा सकती है। सटीक परिणाम अभी स्पष्ट नहीं हैं। पश्चिम एशिया तनाव: ओमान खाड़ी में अमेरिकी सेना ने पोत पर हमला किया, क्या जंग के बीच फिर बढ़ेगा टकराव और तनाव?",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "वेटिंग लिस्ट की टेंशन हुई अब खत्म चलेंगी 1000 एक्स्ट्रा ट्रेनें, रेलवे का मेगा प्लान",
+      "url": "https://www.amarujala.com/video/india-news/no-more-worries-about-waiting-lists-1-000-extra-trains-to-run-a-mega-plan-by-the-railways-2026-11-08",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-07T21:39:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/railway-mega-plan_f0f4146b1df30b61f1882d39da1b674a.jpeg?w=1200&dpr=1.0",
+      "summary": "भारतीय रेलवे ने 1000 अतिरिक्त ट्रेनें चलाने का निर्णय लिया। इससे वेटिंग लिस्ट की समस्या कम होगी। यात्रियों को अब अधिक सीटें मिलेंगी। वेटिंग लिस्ट की टेंशन हुई अब खत्म चलेंगी 1000 एक्स्ट्रा ट्रेनें, रेलवे का मेगा प्लान।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वेटिंग लिस्ट की टेंशन हुई अब खत्म चलेंगी 1000 एक्स्ट्रा ट्रेनें, रेलवे का मेगा प्लान",
+          "summary": "भारतीय रेलवे ने 1000 अतिरिक्त ट्रेनें चलाने का निर्णय लिया। इससे वेटिंग लिस्ट की समस्या कम होगी। यात्रियों को अब अधिक सीटें मिलेंगी। वेटिंग लिस्ट की टेंशन हुई अब खत्म चलेंगी 1000 एक्स्ट्रा ट्रेनें, रेलवे का मेगा प्लान।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "अंतरिक्ष पर नजरें, यात्रा का अवसर: चांद पर जाने का सपना होगा साकार, नासा ने मंगाए आवेदन; कौन लोग",
+      "url": "https://www.amarujala.com/world/eyes-on-space-travel-opportunity-dream-of-landing-on-moon-vs-reality-nasa-invites-application-know-eligibility-2026-11-08",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-07T21:29:47+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/27/nasa-unveils-plan-to-build-permanent-moon-base_dca519eea32aad24ee7852955b6a25a2.jpeg?w=1200&dpr=1.0",
+      "summary": "नासा ने चांद पर यात्रा के लिए आवेदन आमंत्रित किए हैं। चयनित उम्मीदवार अंतरिक्ष यात्रा का अनुभव प्राप्त करेंगे। आवेदन प्रक्रिया अब शुरू हो चुकी है। अंतरिक्ष पर नजरें, यात्रा का अवसर: चांद पर जाने का सपना होगा साकार, नासा ने मंगाए आवेदन; कौन लोग पात्र होंगे?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अंतरिक्ष पर नजरें, यात्रा का अवसर: चांद पर जाने का सपना होगा साकार, नासा ने मंगाए आवेदन; कौन लोग",
+          "summary": "नासा ने चांद पर यात्रा के लिए आवेदन आमंत्रित किए हैं। चयनित उम्मीदवार अंतरिक्ष यात्रा का अनुभव प्राप्त करेंगे। आवेदन प्रक्रिया अब शुरू हो चुकी है। अंतरिक्ष पर नजरें, यात्रा का अवसर: चांद पर जाने का सपना होगा साकार, नासा ने मंगाए आवेदन; कौन लोग पात्र होंगे?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दिल्ली में दो जगह लगी आग: मालवीय नगर में बुझाई गई, उत्तम नगर में दमकल की गाड़ियां मौके पर; कोई",
+      "url": "https://www.amarujala.com/delhi-ncr/two-fires-broke-out-in-delhi-malviya-nagar-fire-extinguished-fire-tenders-reached-the-spot-in-uttam-nagar-2026-11-08",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-07T20:06:08+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/1_482ec345ab0756e94c5fee9029b923d3.jpeg?w=1200&dpr=1.0",
+      "summary": "दिल्ली के मालवीय नगर और उत्तम नगर में आग लग गई। मालवीय नगर की आग बुझा दी गई है। उत्तम नगर में दमकल की गाड़ियां मौके पर हैं। दिल्ली में दो जगहों पर आग लगने की खबर है। दिल्ली में दो जगह लगी आग: मालवीय नगर में बुझाई गई, उत्तम नगर में दमकल की गाड़ियां मौके पर; कोई।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्ली में दो जगह लगी आग: मालवीय नगर में बुझाई गई, उत्तम नगर में दमकल की गाड़ियां मौके पर; कोई",
+          "summary": "दिल्ली के मालवीय नगर और उत्तम नगर में आग लग गई। मालवीय नगर की आग बुझा दी गई है। उत्तम नगर में दमकल की गाड़ियां मौके पर हैं। दिल्ली में दो जगहों पर आग लगने की खबर है। दिल्ली में दो जगह लगी आग: मालवीय नगर में बुझाई गई, उत्तम नगर में दमकल की गाड़ियां मौके पर; कोई।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इस बार की दिवाली और धनतेरस पर रिकॉर्डतोड़ बिक्री, इतने लाख करोड़ के बिके सामान!",
+      "url": "https://www.amarujala.com/video/business/diwali-sale-report-record-breaking-sales-this-diwali-and-dhanteras-goods-worth-lakhs-of-crores-sold-2026-11-08",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-07T19:53:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/08/diwali-sale-report_b5d6c020b6f66be1f5c82d75c7af69c9.jpeg?w=1200&dpr=1.0",
+      "summary": "दिवाली और धनतेरस पर रिकॉर्ड बिक्री दर्ज की गई। लाखों करोड़ रुपये के सामान बिके। यह आंकड़ा पिछले वर्षों की तुलना में अधिक है। इस बार की दिवाली और धनतेरस पर रिकॉर्डतोड़ बिक्री, इतने लाख करोड़ के बिके सामान!",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इस बार की दिवाली और धनतेरस पर रिकॉर्डतोड़ बिक्री, इतने लाख करोड़ के बिके सामान!",
+          "summary": "दिवाली और धनतेरस पर रिकॉर्ड बिक्री दर्ज की गई। लाखों करोड़ रुपये के सामान बिके। यह आंकड़ा पिछले वर्षों की तुलना में अधिक है। इस बार की दिवाली और धनतेरस पर रिकॉर्डतोड़ बिक्री, इतने लाख करोड़ के बिके सामान!",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दिवाली पर घर सजाने का खास तरीका: जेमिनी-चैटजीपीटी से मिनटों में बनाएं मनपसंद रंगोली डिजाइन, जानें",
+      "url": "https://www.amarujala.com/technology/tech-diary/ai-rangoli-generator-guide-create-stunning-festive-designs-minutes-using-gemini-chatgpt-2026-11-07",
+      "source": "Amar Ujala National",
+      "sources": [],
+      "published_at": "2026-11-07T19:30:03+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/eaaii-ragal-janaratara-gaida_a8dd65e9e5e8e0c4cdc0588ad38a6d0b.jpeg",
+      "summary": "जेमिनी और चैटजीपीटी जैसे एआई टूल्स का उपयोग करके उपयोगकर्ता मिनटों में व्यक्तिगत रंगोली डिजाइन बना सकते हैं। यह तकनीक दिवाली सजावट के लिए नए प्रॉम्प्ट्स और आइडियाज प्रदान करती है। दिवाली पर घर सजाने का खास तरीका: जेमिनी-चैटजीपीटी से मिनटों में बनाएं मनपसंद रंगोली डिजाइन, जानें प्रॉम्प्ट्स।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिवाली पर घर सजाने का खास तरीका: जेमिनी-चैटजीपीटी से मिनटों में बनाएं मनपसंद रंगोली डिजाइन, जानें",
+          "summary": "जेमिनी और चैटजीपीटी जैसे एआई टूल्स का उपयोग करके उपयोगकर्ता मिनटों में व्यक्तिगत रंगोली डिजाइन बना सकते हैं। यह तकनीक दिवाली सजावट के लिए नए प्रॉम्प्ट्स और आइडियाज प्रदान करती है। दिवाली पर घर सजाने का खास तरीका: जेमिनी-चैटजीपीटी से मिनटों में बनाएं मनपसंद रंगोली डिजाइन, जानें प्रॉम्प्ट्स।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
       "title": "सऊदी अरब के दिल पर हूतियों का मिसाइल अटैक, रियाद से लेकर अरामको तक दहला, यमन में 25 की मौत",
       "url": "https://hindi.news18.com/world/middle-east-houthi-missile-attack-strikes-saudi-arabia-heart-riyadh-airport-aramco-oil-left-shaken-25-dead-in-yemen-10971545.html",
       "source": "News18 Hindi (World)",
@@ -452,308 +740,20 @@
       }
     },
     {
-      "title": "नेतन्याहू का बड़ा सीक्रेट प्लान लीक, ईरान को अमेरिका ने क्यों बचा लिया? ऐन मौके पर मिशन अबॉर्ट",
-      "url": "https://hindi.news18.com/world/middle-east-netanyahu-secret-iran-strike-plan-us-intervention-stopped-mossad-operation-before-israeli-elections-10971434.html",
-      "source": "News18 Hindi (World)",
+      "title": "हमले के बाद अभिषेक बनर्जी ने खाई कसम, कहा- 'तब तक केक नहीं काटूंगा जब तक...'",
+      "url": "https://www.abplive.com/news/india/i-will-not-cut-cake-tmc-mp-abhishek-banerjee-after-alleged-attack-his-residence-on-birthday-3212379",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-11-07T17:13:56+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/09/Israel-PM-Netanyahu-First-Reaction-on-Flydubai-Plane-Attack-2026-09-e114345d168b97cfa0b2199c30aa5283-1200x800.jpg",
-      "summary": "इजराइल ने अक्टूबर चुनावों से पहले ईरान पर हमले की तैयारी की थी। सेना प्रमुख ने इसका विरोध किया था। एक एजेंट की गलती से यह जानकारी अमेरिका तक पहुंच गई। अमेरिका ने तुरंत हस्तक्षेप कर मिशन रद्द कर दिया। इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू और मोसाद ने एक बहुत बड़ा सीक्रेट प्लान बनाया था. अक्टूबर में होने वाले आम चुनावों से ठीक पहले वे ईरान पर हमला करने वाले थे.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेतन्याहू का बड़ा सीक्रेट प्लान लीक, ईरान को अमेरिका ने क्यों बचा लिया? ऐन मौके पर मिशन अबॉर्ट",
-          "summary": "इजराइल ने अक्टूबर चुनावों से पहले ईरान पर हमले की तैयारी की थी। सेना प्रमुख ने इसका विरोध किया था। एक एजेंट की गलती से यह जानकारी अमेरिका तक पहुंच गई। अमेरिका ने तुरंत हस्तक्षेप कर मिशन रद्द कर दिया। इजराइल के प्रधानमंत्री बेंजामिन नेतन्याहू और मोसाद ने एक बहुत बड़ा सीक्रेट प्लान बनाया था. अक्टूबर में होने वाले आम चुनावों से ठीक पहले वे ईरान पर हमला करने वाले थे.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पोलैंड में खूनी शनिवार! कार से पहुंचे शख्स ने लोगों पर बरसाईं गोलियां, कम से कम 5 की मौत, 12 घायल",
-      "url": "https://hindi.news18.com/world/europe-at-least-five-peopl-killed-several-injured-in-shooting-incident-in-poland-krakow-10971361.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T16:18:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Polland-1-2026-11-1a093bd4453941c45a95101de435d690-1200x800.jpg",
-      "summary": "पोलैंड के क्राकोव शहर में मुख्य मार्केट स्क्वायर के पास अंधाधुंध गोलीबारी हुई। कम से कम पांच लोगों की मौत हुई और 12 लोग घायल हुए। प्रधानमंत्री डोनाल्ड टस्क ने घटना की पुष्टि की। हमलावर को पुलिस ने गोली मारकर अस्पताल भेजा। Poland Shooting: पोलैंड के क्राकोव शहर में मुख्य मार्केट स्क्वायर के पास हुई अंधाधुंध गोलीबारी में कम से कम पांच लोगों की मौत हो गई, जबकि करीब 12 लोग घायल बताए जा रहे हैं.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पोलैंड में खूनी शनिवार! कार से पहुंचे शख्स ने लोगों पर बरसाईं गोलियां, कम से कम 5 की मौत, 12 घायल",
-          "summary": "पोलैंड के क्राकोव शहर में मुख्य मार्केट स्क्वायर के पास अंधाधुंध गोलीबारी हुई। कम से कम पांच लोगों की मौत हुई और 12 लोग घायल हुए। प्रधानमंत्री डोनाल्ड टस्क ने घटना की पुष्टि की। हमलावर को पुलिस ने गोली मारकर अस्पताल भेजा। Poland Shooting: पोलैंड के क्राकोव शहर में मुख्य मार्केट स्क्वायर के पास हुई अंधाधुंध गोलीबारी में कम से कम पांच लोगों की मौत हो गई, जबकि करीब 12 लोग घायल बताए जा रहे हैं.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "ईरान में 9 नवंबर की रात होने वाला है कुछ बड़ा? एंटी-रेडिएशन गोलियां बांट रहा तेहरान, अमेरिका ने",
-      "url": "https://hindi.news18.com/world/middle-east-will-us-strike-iran-on-november-9-tehran-distributes-anti-radiation-pills-as-middle-east-high-alert-is-issued-10971250.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T14:55:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-Nuclear-Plant-Attacked-2026-07-6cb996e040822cc71ec96c1d71b8235b-1200x800.jpg",
-      "summary": "तेहरान ने न्यूक्लियर ठिकानों के पास रहने वालों को एंटी-रेडिएशन आयोडिन की गोलियां बांटना शुरू कर दिया है। ट्रंप ने हमले के संकेत दिए हैं। पेंटागन और सेंट्रल कमांड ने खाड़ी क्षेत्र में सैन्य तैयारियां तेज कर दी हैं। मिडिल ईस्ट में अमेरिका और ईरान के बीच तनाव बहुत बढ़ गया है. वहां महायुद्ध जैसे हालात बनने लगे हैं. ईरान ने अपने न्यूक्लियर ठिकानों के पास रहने वाले लोगों को एंटी-रेडिएशन आयोडिन की गोलियां बांटना शुरू कर दिया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान में 9 नवंबर की रात होने वाला है कुछ बड़ा? एंटी-रेडिएशन गोलियां बांट रहा तेहरान, अमेरिका ने",
-          "summary": "तेहरान ने न्यूक्लियर ठिकानों के पास रहने वालों को एंटी-रेडिएशन आयोडिन की गोलियां बांटना शुरू कर दिया है। ट्रंप ने हमले के संकेत दिए हैं। पेंटागन और सेंट्रल कमांड ने खाड़ी क्षेत्र में सैन्य तैयारियां तेज कर दी हैं। मिडिल ईस्ट में अमेरिका और ईरान के बीच तनाव बहुत बढ़ गया है. वहां महायुद्ध जैसे हालात बनने लगे हैं. ईरान ने अपने न्यूक्लियर ठिकानों के पास रहने वाले लोगों को एंटी-रेडिएशन आयोडिन की गोलियां बांटना शुरू कर दिया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "इस देश में 3 महीने से जमी है प्रदूषण की परत, फैल गईं 5 खौफनाक बीमारियां, और बिगड़ेगी हालत",
-      "url": "https://hindi.news18.com/world/rest-of-world-indonesia-wildfires-toxic-haze-crisis-over-400000-respiratory-infections-dangerous-levels-health-emergency-photogallery-10971178.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T14:43:02+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Indonesia-Pollution-2026-11-ff62c954ffbffe59beaf1b79f0990fa4-1200x800.jpg",
-      "summary": "इंडोनेशिया के जंगलों में महीनों से आग लगी है। अगस्त से अब तक चार लाख से ज्यादा लोग सांस की गंभीर बीमारियों का शिकार हुए हैं। बोर्नियो और सुमात्रा में हवा खतरनाक स्तर पर पहुंच गई है। इंडोनेशिया के जंगलों में महीनों से भयानक आग लगी है. इससे चारों तरफ जहरीला धुआं फैल गया है और देश में हेल्थ इमरजेंसी जैसे हालात बन गए हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस देश में 3 महीने से जमी है प्रदूषण की परत, फैल गईं 5 खौफनाक बीमारियां, और बिगड़ेगी हालत",
-          "summary": "इंडोनेशिया के जंगलों में महीनों से आग लगी है। अगस्त से अब तक चार लाख से ज्यादा लोग सांस की गंभीर बीमारियों का शिकार हुए हैं। बोर्नियो और सुमात्रा में हवा खतरनाक स्तर पर पहुंच गई है। इंडोनेशिया के जंगलों में महीनों से भयानक आग लगी है. इससे चारों तरफ जहरीला धुआं फैल गया है और देश में हेल्थ इमरजेंसी जैसे हालात बन गए हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘जॉम्बी इंफेक्शन’ फैलाती है ये फंगस, झड़ने लगते हैं शिकार के हाथ-पैर, फिर सिर फाड़कर निकलती है",
-      "url": "https://hindi.news18.com/photogallery/ajab-gajab/viral-ophiocordyceps-zombie-fungus-how-parasitic-fungi-control-ants-spread-spores-infect-insects-in-tropical-forests-10971091.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T14:08:19+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Ophiocordyceps-Zombie-Fungus-1-2026-11-072292d2b9ac4faa78e6736a845689c0-1200x800.jpg",
-      "summary": "घने जंगलों में ओफियोकोर्डिसेप्स यूनिलैटरलिस नामक फंगस चींटियों के नर्वस सिस्टम पर कब्जा करती है। इससे प्रभावित कीट पेड़ की पत्ती पर कसकर चिपक जाती है। अंत में फंगस शिकार के सिर से बाहर निकलकर अपना प्रजनन पूरा कर लेती है। घने जंगलों में एक अजीबोगरीब फंगस पाई जाती है, जिसका नाम 'ओफियोकोर्डिसेप्स यूनिलैटरलिस' है. ये फंगस चीटियों को अपना शिकार बनाकर उन्हें जिंदा 'जॉम्बी' बना देती है.",
+      "published_at": "2026-11-07T18:11:21+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/07/73bbfb2f1f4fbc9d025cac5a10ce003517940731751831324_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अभिषेक बनर्जी ने अपने आवास पर हुए कथित हमले के बाद वीडियो जारी किया। उन्होंने कहा कि लोकतांत्रिक तरीके से विरोधियों को हराए बिना वे जन्मदिन के केक नहीं काटेंगे। टीएमसी नेता अभिषेक बनर्जी के आवास पर शुक्रवार देर रात उनके जन्मदिन के जश्न के दौरान हुए कथित हमले के बाद मामला थमने का नाम नहीं ले रहा है. अब खुद अभिषेक ने कहा है कि वह तब तक केक नहीं काटेंगे, जब तक कि एंटी डेमोक्रेटिक फोर्सेस को राज्य से बेदखल नहीं कर देते.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘जॉम्बी इंफेक्शन’ फैलाती है ये फंगस, झड़ने लगते हैं शिकार के हाथ-पैर, फिर सिर फाड़कर निकलती है",
-          "summary": "घने जंगलों में ओफियोकोर्डिसेप्स यूनिलैटरलिस नामक फंगस चींटियों के नर्वस सिस्टम पर कब्जा करती है। इससे प्रभावित कीट पेड़ की पत्ती पर कसकर चिपक जाती है। अंत में फंगस शिकार के सिर से बाहर निकलकर अपना प्रजनन पूरा कर लेती है। घने जंगलों में एक अजीबोगरीब फंगस पाई जाती है, जिसका नाम 'ओफियोकोर्डिसेप्स यूनिलैटरलिस' है. ये फंगस चीटियों को अपना शिकार बनाकर उन्हें जिंदा 'जॉम्बी' बना देती है.",
+          "title": "हमले के बाद अभिषेक बनर्जी ने खाई कसम, कहा- 'तब तक केक नहीं काटूंगा जब तक...'",
+          "summary": "अभिषेक बनर्जी ने अपने आवास पर हुए कथित हमले के बाद वीडियो जारी किया। उन्होंने कहा कि लोकतांत्रिक तरीके से विरोधियों को हराए बिना वे जन्मदिन के केक नहीं काटेंगे। टीएमसी नेता अभिषेक बनर्जी के आवास पर शुक्रवार देर रात उनके जन्मदिन के जश्न के दौरान हुए कथित हमले के बाद मामला थमने का नाम नहीं ले रहा है. अब खुद अभिषेक ने कहा है कि वह तब तक केक नहीं काटेंगे, जब तक कि एंटी डेमोक्रेटिक फोर्सेस को राज्य से बेदखल नहीं कर देते.",
           "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यूक्रेन का साथ देना इटली के विदेश मंत्री को पड़ा भारी! रूसी समर्थक हैकर्स ने डार्क वेब पर लीक की",
-      "url": "https://www.patrika.com/world-news/italy-foreign-minister-data-leak-russian-hackers-21036517",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-07T13:28:49+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/cyber-fraud.webp",
-      "summary": "इटली के विदेश मंत्री एंटोनियो ताजानी ने रूस समर्थक हैकर्स पर निजी जानकारी चुराने का आरोप लगाया है। हैकर्स ने डार्क वेब पर यह डेटा सार्वजनिक कर दिया। यह घटना ताजानी के यूक्रेन समर्थन के बाद सामने आई है। इटली के विदेश मंत्री एंटोनियो ताजानी को यूक्रेन का समर्थन करना भारी पड़ रहा है। ताजानी ने आरोप लगाया है कि रूस समर्थक हैकर्स ने उनकी निजी जानकारी चुराकर डार्क वेब पर सार्वजनिक कर दी है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "यूक्रेन का साथ देना इटली के विदेश मंत्री को पड़ा भारी! रूसी समर्थक हैकर्स ने डार्क वेब पर लीक की",
-          "summary": "इटली के विदेश मंत्री एंटोनियो ताजानी ने रूस समर्थक हैकर्स पर निजी जानकारी चुराने का आरोप लगाया है। हैकर्स ने डार्क वेब पर यह डेटा सार्वजनिक कर दिया। यह घटना ताजानी के यूक्रेन समर्थन के बाद सामने आई है। इटली के विदेश मंत्री एंटोनियो ताजानी को यूक्रेन का समर्थन करना भारी पड़ रहा है। ताजानी ने आरोप लगाया है कि रूस समर्थक हैकर्स ने उनकी निजी जानकारी चुराकर डार्क वेब पर सार्वजनिक कर दी है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "डोनाल्ड ट्रंप ने व्हाइट हाउस में मनाई दिवाली, पहुंचे भारतीय मूल के बड़े-बड़े लोग, तोहफे में मिली",
-      "url": "https://hindi.news18.com/world/america-donald-trump-celebrates-diwali-at-white-house-receives-hanuman-chalisa-gift-in-oval-office-with-indian-american-leaders-10970929.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T13:20:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-White-House-Diwali-2026-11-696aca305ce3816721288ddff031e98c-1200x800.jpg",
-      "summary": "डोonald ट्रंप ने व्हाइट हाउस के ओवल ऑफिस में भारतीय-अमेरिकी समुदाय के साथ दिवाली मनाई। एफबीआई निदेशक काश पटेल और आईबीएम सीईओ अरविंद कृष्णा भी मौजूद रहे। विशाल गोंडल ने ट्रंप को हनुमान चालीसा भेंट की। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने वाशिंगटन डीसी स्थित व्हाइट हाउस के 'ओवल ऑफिस' में दिवाली मनाई. उन्होंने भारतीय-अमेरिकी समुदाय के साथ मिलकर इस त्योहार का जश्न मनाया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डोनाल्ड ट्रंप ने व्हाइट हाउस में मनाई दिवाली, पहुंचे भारतीय मूल के बड़े-बड़े लोग, तोहफे में मिली",
-          "summary": "डोonald ट्रंप ने व्हाइट हाउस के ओवल ऑफिस में भारतीय-अमेरिकी समुदाय के साथ दिवाली मनाई। एफबीआई निदेशक काश पटेल और आईबीएम सीईओ अरविंद कृष्णा भी मौजूद रहे। विशाल गोंडल ने ट्रंप को हनुमान चालीसा भेंट की। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने वाशिंगटन डीसी स्थित व्हाइट हाउस के 'ओवल ऑफिस' में दिवाली मनाई. उन्होंने भारतीय-अमेरिकी समुदाय के साथ मिलकर इस त्योहार का जश्न मनाया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "चीन के ‘स्पेस मिशन’ में पाकिस्तान करेगा ‘उधारी की सवारी’, एस्ट्रोनॉट से करवाया जाएगा कौन सा काम?",
-      "url": "https://hindi.news18.com/world/china-pakistani-astronaut-to-join-china-shenzhou-24-mission-how-beijing-space-lift-tiangong-space-station-work-10970841.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T12:28:06+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistani-Astronaut-to-Join-China-Shenzhou-24-Mission-2026-11-93da1bf8c0b26b3cf857f8abeef01655-1200x800.jpg",
-      "summary": "चीन की स्पेस एजेंसी ने शेनझोउ-24 मिशन के लिए एक पाकिस्तानी एस्ट्रोनॉट को चुना है। यह पहला विदेशी नागरिक होगा जो तिआंगोंग स्पेस स्टेशन पर जाएगा। पाकिस्तान इसे अपनी सफलता बता रहा है, जबकि पूरा तकनीकी ढांचा चीन का है। चीन की स्पेस एजेंसी (CMSA) ने अपने 'शेनझोउ-24' मिशन के लिए एक पाकिस्तानी एस्ट्रोनॉट को चुना है. ये एस्ट्रोनॉट 'पेलोड स्पेशलिस्ट' के तौर पर चीन के 'तिआंगोंग' स्पेस स्टेशन जाएगा.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन के ‘स्पेस मिशन’ में पाकिस्तान करेगा ‘उधारी की सवारी’, एस्ट्रोनॉट से करवाया जाएगा कौन सा काम?",
-          "summary": "चीन की स्पेस एजेंसी ने शेनझोउ-24 मिशन के लिए एक पाकिस्तानी एस्ट्रोनॉट को चुना है। यह पहला विदेशी नागरिक होगा जो तिआंगोंग स्पेस स्टेशन पर जाएगा। पाकिस्तान इसे अपनी सफलता बता रहा है, जबकि पूरा तकनीकी ढांचा चीन का है। चीन की स्पेस एजेंसी (CMSA) ने अपने 'शेनझोउ-24' मिशन के लिए एक पाकिस्तानी एस्ट्रोनॉट को चुना है. ये एस्ट्रोनॉट 'पेलोड स्पेशलिस्ट' के तौर पर चीन के 'तिआंगोंग' स्पेस स्टेशन जाएगा.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "‘वो आना चाहते हैं तो..’, भगवंत मान की इच्छा पर पाकिस्तान ने भेजा जवाब, कहां फंसा है पेंच?",
-      "url": "https://hindi.news18.com/world/pakistan-bhagwant-mann-pakistan-visit-islamabad-responds-to-aap-cm-visa-request-for-world-punjabi-conference-in-lahore-10970743.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T11:48:05+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Bhagwant-Mann-2026-10-bfb90f644a92f066fb2f43963c13e4e8-1200x800.jpg",
-      "summary": "पाकिस्तान ने पंजाब के मुख्यमंत्री भगवंत मान को लाहौर की वर्ल्ड पंजाबी कॉन्फ्रेंस के लिए वीजा देने पर विचार करने का संकेत दिया है। पाकिस्तान ने स्पष्ट किया कि अंतिम अनुमति भारत सरकार का फैसला होगी। मान को इस घटनाक्रम में वीजा आवेदन करना होगा। पंजाब के मुख्यमंत्री भगवंत मान को लाहौर की 'वर्ल्ड पंजाबी कॉन्फ्रेंस' में जाने का न्योता मिला है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘वो आना चाहते हैं तो..’, भगवंत मान की इच्छा पर पाकिस्तान ने भेजा जवाब, कहां फंसा है पेंच?",
-          "summary": "पाकिस्तान ने पंजाब के मुख्यमंत्री भगवंत मान को लाहौर की वर्ल्ड पंजाबी कॉन्फ्रेंस के लिए वीजा देने पर विचार करने का संकेत दिया है। पाकिस्तान ने स्पष्ट किया कि अंतिम अनुमति भारत सरकार का फैसला होगी। मान को इस घटनाक्रम में वीजा आवेदन करना होगा। पंजाब के मुख्यमंत्री भगवंत मान को लाहौर की 'वर्ल्ड पंजाबी कॉन्फ्रेंस' में जाने का न्योता मिला है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान के ‘खजाने’ का पता बताने वाले को 188 करोड़ रुपए, परिवार भी उठा लेंगे, अब सुपारी देने पर उतर आया",
-      "url": "https://hindi.news18.com/world/middle-east-us-offers-20-million-dollar-reward-and-free-relocation-for-secrets-on-iran-nuclear-programme-underground-facilities-10970649.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T10:55:27+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/America-Lost-Iran-Nuclear-Addresss-2026-07-545a66aa6e5efd6b6b2b294af2a9a9bc-1200x800.jpg",
-      "summary": "अमेरिका ने ईरान के परमाणु कार्यक्रम की जानकारी देने वालों के लिए 188 करोड़ रुपए का इनाम घोषित किया है। यह राशि सुरक्षित देश में बसने की सुविधा के साथ दी जाएगी। कतर की मदद से ईरान और अमेरिका के बीच शांति डील की बातचीत चल रही थी. इसी बीच अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के स्टेट डिपार्टमेंट ने एक बहुत बड़ा दांव चल दिया है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान के ‘खजाने’ का पता बताने वाले को 188 करोड़ रुपए, परिवार भी उठा लेंगे, अब सुपारी देने पर उतर आया",
-          "summary": "अमेरिका ने ईरान के परमाणु कार्यक्रम की जानकारी देने वालों के लिए 188 करोड़ रुपए का इनाम घोषित किया है। यह राशि सुरक्षित देश में बसने की सुविधा के साथ दी जाएगी। कतर की मदद से ईरान और अमेरिका के बीच शांति डील की बातचीत चल रही थी. इसी बीच अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के स्टेट डिपार्टमेंट ने एक बहुत बड़ा दांव चल दिया है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "बहावलपुर-मुरिदके की तबाही से सबक: ऑपरेशन सिंदूर के झटके के बाद पाकिस्तान की नई आतंकी चाल",
-      "url": "https://www.patrika.com/world-news/isi-multiple-camps-strategy-after-operation-sindoor-21036178",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-07T10:50:27+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Pakistan-terror-camps.webp",
-      "summary": "ऑपरेशन सिंदूर के बाद पाकिस्तान के आतंकी संगठनों ने अपनी कार्यप्रणाली बदली है। जैश-ए-मोहम्मद और लश्कर-ए-तैयबा जैसे समूहों ने नई रणनीति अपनाई है। Operation Sindoor: ‘ऑपरेशन सिंदूर’ ने पाकिस्तान के आतंकी ढांचे को तगड़ा झटका दिया है। जिसके चलते ISI को जैश-ए-मोहम्मद (JeM), लश्कर-ए-तैयबा (LeT) और हिज्बुल मुजाहिदीन जैसे आतंकी संगठनों के काम करने के तरीके में बड़ा बदलाव करना पड़ा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बहावलपुर-मुरिदके की तबाही से सबक: ऑपरेशन सिंदूर के झटके के बाद पाकिस्तान की नई आतंकी चाल",
-          "summary": "ऑपरेशन सिंदूर के बाद पाकिस्तान के आतंकी संगठनों ने अपनी कार्यप्रणाली बदली है। जैश-ए-मोहम्मद और लश्कर-ए-तैयबा जैसे समूहों ने नई रणनीति अपनाई है। Operation Sindoor: ‘ऑपरेशन सिंदूर’ ने पाकिस्तान के आतंकी ढांचे को तगड़ा झटका दिया है। जिसके चलते ISI को जैश-ए-मोहम्मद (JeM), लश्कर-ए-तैयबा (LeT) और हिज्बुल मुजाहिदीन जैसे आतंकी संगठनों के काम करने के तरीके में बड़ा बदलाव करना पड़ा है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भगवान राम की नगरी से माता सीता के मायके तक दौड़ेगा ‘कलियुगी डिब्बा’, 6 शुभ-शगुन लाएगी भारत-नेपाल की",
-      "url": "https://hindi.news18.com/world/south-asia-ayodhya-janakpur-train-run-begins-india-nepal-mega-railway-deal-brings-6-big-benefits-for-ramayana-pilgrims-religious-tourism-10970459.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T10:25:36+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/India-Nepal-Railway-Network-2026-11-8b26ece7004b36af0b66a3317dbbcd7d-1200x800.jpg",
-      "summary": "अयोध्या से जनकपुर तक चलने वाली 17 डिब्बों वाली ट्रेन का सफल परीक्षण पूरा हुआ है। यह सेवा दोनों देशों के धार्मिक और व्यापारिक संबंधों को मजबूत करेगी। भगवान राम की नगरी अयोध्या से लेकर माता सीता के मायके नेपाल के जनकपुर तक का सफर अब बिल्कुल आसान होने वाला है. इसके लिए भारत और नेपाल के बीच एक बहुत बड़ी रेलवे डील पर तेजी से काम चल रहा है और हाल ही में 17 डिब्बों वाली ट्रेन का सफल ट्रायल भी पूरा हो चुका है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भगवान राम की नगरी से माता सीता के मायके तक दौड़ेगा ‘कलियुगी डिब्बा’, 6 शुभ-शगुन लाएगी भारत-नेपाल की",
-          "summary": "अयोध्या से जनकपुर तक चलने वाली 17 डिब्बों वाली ट्रेन का सफल परीक्षण पूरा हुआ है। यह सेवा दोनों देशों के धार्मिक और व्यापारिक संबंधों को मजबूत करेगी। भगवान राम की नगरी अयोध्या से लेकर माता सीता के मायके नेपाल के जनकपुर तक का सफर अब बिल्कुल आसान होने वाला है. इसके लिए भारत और नेपाल के बीच एक बहुत बड़ी रेलवे डील पर तेजी से काम चल रहा है और हाल ही में 17 डिब्बों वाली ट्रेन का सफल ट्रायल भी पूरा हो चुका है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ईरान ने दिखाई अपनी सैन्य ताकत! जमीन के नीचे बना रखे हैं मिसाइल ठिकाने, IRGC ने खोले बड़े राज",
-      "url": "https://www.patrika.com/world-news/iran-irgc-aerospace-force-week-underground-missile-facilities-tehran-21036042",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-07T09:49:46+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Hossein-Mohebbi.webp",
-      "summary": "ईरान के IRGC ने तेहरान में अपने अंडरग्राउंड मिसाइल ठिकानों की जानकारी साझा की। यह प्रेस ब्रीफिंग उनकी क्षेत्रीय रक्षा क्षमताओं और तकनीकी आत्मनिर्भरता पर केंद्रित थी। Underground Missile Base: तेहरान के सरचेश्मेह कल्चरल कॉम्प्लेक्स में आयोजित एक प्रेस ब्रीफिंग में शनिवार को इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) एयरोस्पेस फोर्स ने अपना विशेष स्मृति सप्ताह मनाया। इस दौरान उन्होंने देश की तकनीकी उपलब्धियों, क्षेत्रीय रक्षा क्षमताओं और सैन्य आत्मनिर्भरता पर जोर दिया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान ने दिखाई अपनी सैन्य ताकत! जमीन के नीचे बना रखे हैं मिसाइल ठिकाने, IRGC ने खोले बड़े राज",
-          "summary": "ईरान के IRGC ने तेहरान में अपने अंडरग्राउंड मिसाइल ठिकानों की जानकारी साझा की। यह प्रेस ब्रीफिंग उनकी क्षेत्रीय रक्षा क्षमताओं और तकनीकी आत्मनिर्भरता पर केंद्रित थी। Underground Missile Base: तेहरान के सरचेश्मेह कल्चरल कॉम्प्लेक्स में आयोजित एक प्रेस ब्रीफिंग में शनिवार को इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) एयरोस्पेस फोर्स ने अपना विशेष स्मृति सप्ताह मनाया। इस दौरान उन्होंने देश की तकनीकी उपलब्धियों, क्षेत्रीय रक्षा क्षमताओं और सैन्य आत्मनिर्भरता पर जोर दिया।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका-यूक्रेन से बातचीत के लिए रूस ने उतारी बड़ी टीम, पुतिन के करीबी मेदिंस्की और सैन्य खुफिया",
-      "url": "https://www.patrika.com/world-news/russia-ukraine-trilateral-talks-abu-dhabi-21035984",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-07T09:03:50+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/russiaukrainenews.webp",
-      "summary": "रूस ने यूक्रेन युद्ध समाधान के लिए त्रिपक्षीय बातचीत में अपने प्रतिनिधिमंडल को मजबूत किया है। पुतिन के करीबी मेदिंस्की और सैन्य खुफिया अधिकारियों को इस टीम में शामिल किया गया है। यूक्रेन युद्ध को खत्म करने के लिए होने वाली आगामी त्रिपक्षीय बातचीत से पहले रूस ने अपने प्रतिनिधिमंडल में बड़े अधिकारियों को शामिल किया है। अमेरिका-यूक्रेन से बातचीत के लिए रूस ने उतारी बड़ी टीम, पुतिन के करीबी मेदिंस्की और सैन्य खुफिया।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका-यूक्रेन से बातचीत के लिए रूस ने उतारी बड़ी टीम, पुतिन के करीबी मेदिंस्की और सैन्य खुफिया",
-          "summary": "रूस ने यूक्रेन युद्ध समाधान के लिए त्रिपक्षीय बातचीत में अपने प्रतिनिधिमंडल को मजबूत किया है। पुतिन के करीबी मेदिंस्की और सैन्य खुफिया अधिकारियों को इस टीम में शामिल किया गया है। यूक्रेन युद्ध को खत्म करने के लिए होने वाली आगामी त्रिपक्षीय बातचीत से पहले रूस ने अपने प्रतिनिधिमंडल में बड़े अधिकारियों को शामिल किया है। अमेरिका-यूक्रेन से बातचीत के लिए रूस ने उतारी बड़ी टीम, पुतिन के करीबी मेदिंस्की और सैन्य खुफिया।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "अगले 48 घंटे में दबे पांव आएगा तूफान सेमपाका, अचानक लेगा 108 की स्पीड, इन इलाकों में अलर्ट जारी",
-      "url": "https://hindi.news18.com/world/rest-of-world-typhoon-cempaka-hits-with-108-kmph-winds-heavy-rain-alert-for-next-48-hours-mausam-update-today-10970267.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T08:53:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Typhoon-Kyle-2026-11-ed5013a64c15df1f209e1bde209a157a-1200x800.jpg",
-      "summary": "प्रशांत महासागर में मारियाना द्वीप के पास तूफान सेमपाका ने गति बढ़ाई है। अगले 48 घंटों में इसकी रफ्तार 108 किलोमीटर प्रति घंटा तक पहुंचेगी। ओगासावारा क्षेत्र में भारी बारिश और बिजली कटौती का खतरा बना हुआ है। प्रशासन ने हाई अलर्ट जारी कर लोगों को सतर्क रहने की सलाह दी है। प्रशांत महासागर में मारियाना द्वीप के पास 'टाइफून सेमपाका' नाम का खतरनाक चक्रवाती तूफान आ गया है.",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अगले 48 घंटे में दबे पांव आएगा तूफान सेमपाका, अचानक लेगा 108 की स्पीड, इन इलाकों में अलर्ट जारी",
-          "summary": "प्रशांत महासागर में मारियाना द्वीप के पास तूफान सेमपाका ने गति बढ़ाई है। अगले 48 घंटों में इसकी रफ्तार 108 किलोमीटर प्रति घंटा तक पहुंचेगी। ओगासावारा क्षेत्र में भारी बारिश और बिजली कटौती का खतरा बना हुआ है। प्रशासन ने हाई अलर्ट जारी कर लोगों को सतर्क रहने की सलाह दी है। प्रशांत महासागर में मारियाना द्वीप के पास 'टाइफून सेमपाका' नाम का खतरनाक चक्रवाती तूफान आ गया है.",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नेतन्याहू के सामने सत्ता बचाने की चुनौती, विरोधी खेमे ने जुटाए 67 सांसद, राष्ट्रपति किसे देंगे मौका?",
-      "url": "https://hindi.news18.com/world/middle-east-israel-government-formation-netanyahu-gadi-eisenkot-president-herzog-decision-10970390.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T08:27:01+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/israel-11-2026-11-b3a7b0ae2bdfc47dad2701ff15c94375-1200x800.jpg",
-      "summary": "इजरायल में नई सरकार गठन के लिए राष्ट्रपति इसाक हर्जोग रविवार को फैसला लेंगे। बेंजामिन नेतन्याहू और गादी आइजेनकोट के बीच मुकाबला जारी है। आइजेनकोट को 67 सांसदों का समर्थन मिला है। हालांकि अरब पार्टियों को शामिल करने पर उनकी असहमति बड़ी चुनौती बनी हुई है। इजरायल में नई सरकार के गठन को लेकर प्रधानमंत्री बेंजामिन नेतन्याहू और पूर्व सेना प्रमुख गादी आइजेनकोट के बीच मुकाबला जारी है.",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेतन्याहू के सामने सत्ता बचाने की चुनौती, विरोधी खेमे ने जुटाए 67 सांसद, राष्ट्रपति किसे देंगे मौका?",
-          "summary": "इजरायल में नई सरकार गठन के लिए राष्ट्रपति इसाक हर्जोग रविवार को फैसला लेंगे। बेंजामिन नेतन्याहू और गादी आइजेनकोट के बीच मुकाबला जारी है। आइजेनकोट को 67 सांसदों का समर्थन मिला है। हालांकि अरब पार्टियों को शामिल करने पर उनकी असहमति बड़ी चुनौती बनी हुई है। इजरायल में नई सरकार के गठन को लेकर प्रधानमंत्री बेंजामिन नेतन्याहू और पूर्व सेना प्रमुख गादी आइजेनकोट के बीच मुकाबला जारी है.",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "ढाका में हिंदू महिला को घर में घुसकर पीटने का आरोप, पुलिस पर शिकायत नहीं लिखने का दावा",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-dhaka-hindu-woman-assault-police-refused-to-register-complaint-10970392.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-07T08:14:35+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-12-2026-11-1847d32ed88ce98a9312ca2fef3fe6e4-1200x800.jpg",
-      "summary": "बांग्लादेश की राजधानी ढाका में हिंदू महिला के साथ कथित हिंसा का मामला सामने आया है। आरोप है कि BNP से जुड़े लोगों ने घर में घुसकर उसे पीटा। पुलिस पर शिकायत दर्ज न करने का भी आरोप लगा है। इससे पहले दीपु चंद्र दास की हत्या ने अल्पसंख्यकों की सुरक्षा पर सवाल खड़े किए थे। बांग्लादेश की राजधानी ढाका में हिंदू महिला के साथ कथित बर्बरता का मामला सोशल मीडिया पर वायरल है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ढाका में हिंदू महिला को घर में घुसकर पीटने का आरोप, पुलिस पर शिकायत नहीं लिखने का दावा",
-          "summary": "बांग्लादेश की राजधानी ढाका में हिंदू महिला के साथ कथित हिंसा का मामला सामने आया है। आरोप है कि BNP से जुड़े लोगों ने घर में घुसकर उसे पीटा। पुलिस पर शिकायत दर्ज न करने का भी आरोप लगा है। इससे पहले दीपु चंद्र दास की हत्या ने अल्पसंख्यकों की सुरक्षा पर सवाल खड़े किए थे। बांग्लादेश की राजधानी ढाका में हिंदू महिला के साथ कथित बर्बरता का मामला सोशल मीडिया पर वायरल है.",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
