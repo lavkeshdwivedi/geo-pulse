@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 07, 2026 19:58 IST
+**Updated:** November 08, 2026 00:38 IST
 
 ---
 
@@ -17,12 +17,6 @@ New Zealand's National Party leads parliament, but no coalition has secured a ma
 <!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
 
 New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
-
-### [Malaysia's attorney-general defends halting Najib's house arrest after king's rebuke](https://www.channelnewsasia.com/asia/malaysias-attorney-general-defends-halting-najibs-house-arrest-after-kings-rebuke-6532961)
-*Channel News Asia* - Nov 07, 15:39 IST (iso: 2026-11-07T10:09:25+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--W8-zNkVP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-06T080510Z_1_LYNXNPEMA50L6_RTROPTP_3_MALAYSIA-POLITICS-NAJIB.JPG?itok=Ys2nWbOV -->
-
-Malaysia's attorney-general defended halting Najib Razak's house arrest despite the king's rebuke. He rejected treason accusations, stating he sought legal clarifications. The palace insisted the order must be implemented. Malaysia's attorney-general on Saturday (Nov 7) stood by his decision to seek legal clarifications over former Prime Minister Najib Razak's house arrest order, and rejected accusations of treason after the palace insisted it must be implemented.
 
 ### [Japan, Taiwan, China and the emerging 2028 strategic test](https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/)
 *Asia Times* - Nov 07, 05:29 IST (iso: 2026-11-06T23:59:05+00:00)
@@ -74,7 +68,7 @@ Twenty years after journalist Anna Politikovskaya was killed, her newspaper face
 
 ## Middle East & Africa
 
-### [Russia Strikes Kyiv's Energy Infrastructure, Northern Bridge Ahead Of Abu Dhabi Talks](https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html)
+### [Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi](https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html)
 *Radio Free Europe / Liberty* - Nov 07, 15:40 IST (iso: 2026-11-07T10:10:07+00:00)
 <!-- image: https://gdb.rferl.org/cda433c6-484c-458d-9fe1-a6dfccf8e8a5_cx0_cy5_cw0_w1200_h630.jpg -->
 
@@ -116,6 +110,18 @@ The African National Congress faces a poor result in South Africa’s local elec
 
 Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesday. The United Nations reported that the incident caused injuries and forced a humanitarian partner to leave the area. Aid teams are now preparing for incoming winter storms in the region. Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.
 
+### [Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers](https://news.un.org/feed/view/en/story/2026/11/1168737)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image560x340cropped.jpg -->
+
+A UN commission member stated that many Syrian children lack legal identity because nationality law requires a father's lineage. With many fathers dead or missing since 2011, these minors face exclusion from basic rights. The system effectively punishes mothers and their offspring for the conflict's human toll. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
+
+### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
+*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
+<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Reuters journalist Giulia Paravicini discussed her reporting trip to Asmara, the capital of Eritrea. She detailed life in the isolated nation and its leadership's strategic calculations. The conversation addressed how Eritrea navigates regional turmoil and rising tensions with neighboring Ethiopia. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
+
 ---
 
 ## Americas
@@ -124,13 +130,7 @@ Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesd
 *The Hindu (International)* - Nov 07, 14:38 IST (iso: 2026-11-07T09:08:32+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/m7e18g/article71673782.ece/alternates/LANDSCAPE_1200/AP11_06_2026_000002A.jpg -->
 
-A blue wave in U. S. midterms weakened President Trump's administration. This shift eased pressure on South American leaders. The fall of Santiago Pena in Chile signals the far-right is facing significant regional headwinds. Just a day after a blue wave swept across the U. S. in midterms election shaking President Donald Trump’s administration, the fall of Santiago Pena carries significance beyond the borders of the country of seven million people.
-
-### [U.S. midterm election results: Senate, House and Governor shifts before and after](https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece)
-*The Hindu (International)* - Nov 07, 13:22 IST (iso: 2026-11-07T07:52:54+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/j2s5sp/article71663845.ece/alternates/LANDSCAPE_1200/2026-11-04T030116Z_716209600_RC2QGOA7QDFN_RTRMADP_3_USA-ELECTION-GEORGIA.JPG -->
-
-Democrats secured full control of Congress in the 11 November 2026 midterm elections, flipping both the Senate and the House. The party gained net seats in key battleground states and won in traditionally Republican districts, giving it a Democrats surged to full control of Congress in the November 2026 U. S. midterm elections, flipping the Senate and House after winning net seats across key battlegrounds and sweeping into Republican strongholds.
+A blue wave in U. S. midterms weakened President Trump's administration. This shift eased pressure on South American leaders. The fall of Santiago Pena in Chile signals the far-right is facing significant regional headwinds. Just a day after a blue wave swept across the U. in midterms election shaking President Donald Trump’s administration, the fall of Santiago Pena carries significance beyond the borders of the country of seven million people.
 
 ### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
 *The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
@@ -152,7 +152,7 @@ Scientists aboard a ship frozen in Arctic ice are documenting rapid environmenta
 
 ### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
 *UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image770x420cropped.jpg -->
 
 COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
 
@@ -160,17 +160,17 @@ COP31 focuses on making advanced clean energy technologies affordable for all na
 
 ## Global / Multilateral
 
-### [Stand on either side of escalators? Commuters reluctant to ditch 'keep left' habit in SMRT trial](https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751)
-*Channel News Asia* - Nov 07, 12:37 IST (iso: 2026-11-07T07:07:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Lw4eYqnX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/07/129638.jpg?itok=Q1OBflq8 -->
-
-Singapore's SMRT tested a new escalator rule at City Hall station. Commuters remained reluctant to abandon the keep left habit. Walking up the right side took twenty seconds. Standing still on the left took thirty seconds. CNA's observations at City Hall MRT station found that commuters who walked up the steps on the right took about 20 seconds to complete the ride, compared with 30 seconds for those who stood still on the left.
-
 ### [Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
 *UN News* - Nov 05, 17:30 IST (iso: 2026-11-05T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg -->
 
 UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
+
+### [15 years of ‘almost no progress’ in getting young people moving: WHO](https://news.un.org/feed/view/en/story/2026/11/1168736)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image560x340cropped.jpg -->
+
+The World Health Organization reported that one in four adolescents globally fails to meet daily physical activity guidelines. This statistic highlights a fifteen-year stagnation in youth health outcomes. The data underscores a persistent failure to encourage movement among young people across all regions. One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.
 
 ---
 
