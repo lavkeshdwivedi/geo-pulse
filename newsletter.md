@@ -1,10 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 07, 2026 06:52 IST
+**Updated:** November 07, 2026 13:24 IST
 
 ---
 
 ## Asia-Pacific
+
+### [New Zealand election 2026 live results: Labour draws level with National as count continues in](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
+*The Guardian* - Nov 07, 13:13 IST (iso: 2026-11-07T07:43:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
+
+New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
+
+### [Ahead of Trump-Xi meetings, US presses China on trade pledges](https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561)
+*Channel News Asia* - Nov 07, 07:58 IST (iso: 2026-11-07T02:28:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--nxvW_BzT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T080720Z_2_LYNXNPEMA40M5_RTROPTP_3_USA-ELECTION-CHINA.JPG?itok=tTLzzscf -->
+
+The United States pressed China to honor trade pledges before Trump-Xi meetings. Treasury Secretary Scott Bessent emphasized the need for concrete results. He raised concerns about recent Chinese actions. Progress depends on immediate compliance with existing commitments. "I emphasized the importance of China fully and immediately honouring its commitments, raised concerns about recent Chinese actions and underscored that progress depends on concrete results," Treasury Secretary Scott Bessent said in a social media post.
 
 ### [Japan, Taiwan, China and the emerging 2028 strategic test](https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/)
 *Asia Times* - Nov 07, 05:29 IST (iso: 2026-11-06T23:59:05+00:00)
@@ -30,33 +42,71 @@ Pakistan tested its indigenous Fa’az beyond-visual-range missile, marking a sh
 
 A New York federal judge temporarily blocked the deportation of dozens of Afghan nationals. Lawmakers and rights groups warned that returning them to Afghanistan or Pakistan could endanger their lives. The court order halts the removal process pending further review of these safety concerns. A reported plan to deport dozens of Afghan nationals has been temporarily halted by a New York-based federal judge following a warning from several US lawmakers and rights groups that sending them home or to neighboring Pakistan could put their lives at risk.
 
-### [India’s $22 billion defense push can’t hide its missing fighter jets](https://asiatimes.com/2026/11/indias-22-billion-defense-push-cant-hide-its-missing-fighter-jets/)
-*Asia Times* - Nov 05, 10:33 IST (iso: 2026-11-05T05:03:59+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/India-Tejas-Mk1A-Fighter.jpg -->
+---
 
-India's $22 billion defense modernization faces a critical gap in fighter jet delivery. The domestic aerospace industry struggles to produce aircraft ordered years ago. This shortfall raises questions about industrial capacity and reliance on foreign technology amid rising regional security pressures. India’s military modernization drive has a core problem. While officials keep approving billions of dollars in new weapons, the country’s aerospace industry is struggling to deliver aircraft ordered years ago The gap raises questions about the country’s industrial capacity, its dependence on foreign technology and its military readiness at a time of regional security pressure.
+## Global / Multilateral
 
-### [China’s amphibious surge confronts a Taiwan invasion’s hard math](https://asiatimes.com/2026/11/chinas-amphibious-surge-confronts-a-taiwan-invasions-hard-math/)
-*Asia Times* - Nov 05, 10:15 IST (iso: 2026-11-05T04:45:02+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Navy.jpg -->
+### [Stand on either side of escalators? Commuters reluctant to ditch 'keep left' habit in SMRT trial](https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751)
+*Channel News Asia* - Nov 07, 12:37 IST (iso: 2026-11-07T07:07:48+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Lw4eYqnX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/07/129638.jpg?itok=Q1OBflq8 -->
 
-China is rapidly expanding Type 071 amphibious transport dock production to support a potential Taiwan invasion. The strategy relies on industrial mass and converted civilian shipping. Analysts question if this volume can overcome the tactical choke points of a cross-strait military operation. China’s sudden surge in amphibious warship construction has thrust a foundational military question to the forefront: can sheer industrial mass and converted civilian shipping overcome the lethal tactical choke points of a cross-strait invasion?
+Singapore's SMRT tested a new escalator rule at City Hall station. Commuters remained reluctant to abandon the keep left habit. Walking up the right side took twenty seconds. Standing still on the left took thirty seconds. CNA's observations at City Hall MRT station found that commuters who walked up the steps on the right took about 20 seconds to complete the ride, compared with 30 seconds for those who stood still on the left.
+
+### [Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
+*UN News* - Nov 05, 17:30 IST (iso: 2026-11-05T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg -->
+
+UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
+
+---
+
+## Europe & Russia
+
+### [Malaysia's king says Najib's conditional pardon is unambiguous, warns against disputing it](https://www.channelnewsasia.com/asia/najib-razak-pardon-house-arrest-king-warning-6532831)
+*Channel News Asia* - Nov 07, 11:33 IST (iso: 2026-11-07T06:03:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Ue2_XXvK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-13T020644Z_1_LYNXMPEM9C055_RTROPTP_3_MALAYSIA-EGYPT.JPG?itok=cJ1UdI6V -->
+
+Malaysia's king declared Najib Razak's conditional pardon unambiguous. The royal decree followed a legal challenge from the Attorney-General's Chambers. Officials questioned the pardon's implementation. The king warned against disputing the decision. The royal decree comes a day after the Attorney-General's Chambers called for a temporary suspension of Najib Razak's house arrest, citing legal questions over the implementation of his pardon and its implications for a separate prison sentence.
+
+### [Sheila Sim on her runway return at Chanel in Sydney: ‘I represent women who have forgotten to love](https://www.channelnewsasia.com/style-beauty/sheila-sim-chanel-cruise-show-sydney-6530466)
+*Channel News Asia* - Nov 07, 07:07 IST (iso: 2026-11-07T01:37:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--wGMEIJlY--/c_crop,h_843,w_1500,x_0,y_53/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/06/chanel_cruise-202627-show-in-sydney-chanel52-ld.jpg?itok=n4cItcLS -->
+
+Singaporean model Sheila Sim returned to the runway for Chanel's Cruise 2026/27 show in Sydney. She had been away from modeling for over a decade. Sim discussed how motherhood and age reshaped her confidence. She described representing women who had forgotten to love themselves. After over a decade away from the runway, Singaporean model-actress Sheila Sim makes a memorable return at Chanel’s Cruise 2026/27 show in Sydney, Australia, reflecting on motherhood, newfound confidence and her enduring relationship with the French luxury house.
+
+### [How Russia's War Recruitment Machine Became Big Business](https://www.rferl.org/a/russia-war-recruitment-big-business-ukraine-military/33891653.html)
+*Radio Free Europe / Liberty* - Nov 05, 20:20 IST (iso: 2026-11-05T14:50:37+00:00)
+<!-- image: https://gdb.rferl.org/9271105C-C3AC-4144-8FBC-82F111DF36FC_cx2_cy3_cw89_w1200_h630.jpg -->
+
+Russian military recruitment increasingly relies on private companies and intermediaries. These actors operate on the fringes of the legal system to fill depleted ranks. The shift has created a human cost as the state outsources conscription. This commercial approach reflects the strain of the ongoing war against Ukraine on domestic manpower. An increasing number of cases point to the human cost of a recruitment system in Russia that increasingly relies on private companies and intermediaries who often work on the fringes to bolster the ranks of a military depleted by the war against Ukraine.
+
+### [A Political Killing, A Seismic Shift, And A 'Vile' Attack](https://www.rferl.org/a/russia-novaya-gazeta-ukraine-war-peace-talks/33890879.html)
+*Radio Free Europe / Liberty* - Nov 05, 16:56 IST (iso: 2026-11-05T11:26:40+00:00)
+<!-- image: https://gdb.rferl.org/2b4fc504-2d37-44a4-794d-08df13a869ed_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Twenty years after journalist Anna Politikovskaya was killed, her newspaper faces crushing pressure from the Russian state. A small Ukraine cease-fire was followed by a massive attack, while a US political shift precedes new trilateral peace talks. Twenty years after investigative journalist Anna Politikovskaya was shot dead, the paper she worked for is crushed under pressure from the Russian state.
+
+### [Nations Line Up To Boycott Ice Hockey Games Against Russia](https://www.rferl.org/a/russia-hockey-ukraine-war/33890409.html)
+*Radio Free Europe / Liberty* - Nov 04, 18:55 IST (iso: 2026-11-04T13:25:42+00:00)
+<!-- image: https://gdb.rferl.org/ad1ec3ac-27ed-48f4-be90-ff410ce85a9c_cx0_cy6_cw0_w1200_h630.jpg -->
+
+Multiple nations plan to boycott ice hockey events involving Russia. They oppose a court ruling allowing Moscow to rejoin international competitions. The boycott threatens the upcoming World Championships. Countries refuse to play against Russian teams. A growing list of countries are lining up against a court decision allowing Russia to rejoin international ice hockey events, saying they will boycott any team Moscow sends, putting the World Championships next year in jeopardy.
 
 ---
 
 ## Americas
+
+### [Paraguay president ousted and placed under house arrest, successor sworn in](https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536)
+*Channel News Asia* - Nov 07, 07:16 IST (iso: 2026-11-07T01:46:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--oKKRLIVa--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-06T230011Z_1_LYNXNPEMA523C_RTROPTP_3_PARAGUAY-POLITICS.JPG?itok=38zo2DVY -->
+
+Paraguay's Senate unanimously ousted President Santiago Peña. Lawmakers cited his links to the collapsed digital bank ueno. The bank had served nearly half the population. Peña was placed under house arrest. His successor was sworn in immediately. Santiago Peña was ousted from the presidency about an hour beforehand in a unanimous Senate vote, with lawmakers citing questions over his past links to the collapsed digital bank ueno that had provided accounts for nearly half of Paraguay's population.
 
 ### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
 *The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
 <!-- image: https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf -->
 
 Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.
-
-### [Trump administration scraps meeting of panel that includes Meta's Zuckerberg, Nvidia's Huang](https://www.thehindu.com/news/international/trump-administration-scraps-meeting-of-panel-that-includes-metas-zuckerberg-nvidias-huang/article71675185.ece)
-*The Hindu (International)* - Nov 06, 21:57 IST (iso: 2026-11-06T16:27:44+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/m2malg/article71675212.ece/alternates/LANDSCAPE_1200/2026-11-06T110031Z_797019375_RC2UFOATWYY9_RTRMADP_3_USA-TRUMP-TRUMPMEDIA.JPG -->
-
-The Trump administration canceled a meeting of a technology panel that included Mark Zuckerberg and Jensen Huang. The decision followed a dramatic sell-off in tech shares on November 5. Investors worried a new Congress would slow AI development. Concerns also mounted over insufficient returns on massive capital expenditures. Technology shares sold ‌off ⁠dramatically on November 5 ⁠on growing concerns that a new Congress will slow AI development, and ​also on fears ‌that the massive capital expense of building out AI will not yield sufficient ‌returns.
 
 ### [Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago](https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us)
 *The Guardian* - Nov 06, 18:33 IST (iso: 2026-11-06T13:03:38+00:00)
@@ -72,7 +122,7 @@ Scientists aboard a ship frozen in Arctic ice are documenting rapid environmenta
 
 ### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
 *UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image770x420cropped.jpg -->
 
 COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
 
@@ -121,56 +171,6 @@ Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesd
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image560x340cropped.jpg -->
 
 Many children born in Syria since 2011 lack legal identity because nationality passes only through fathers. A United Nations commission member stated that many of these fathers are dead or missing. The current legal framework effectively shuts out mothers from establishing their children's status. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
-
----
-
-## Europe & Russia
-
-### [Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks](https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru)
-*The Guardian* - Nov 06, 06:52 IST (iso: 2026-11-06T01:22:49+00:00)
-<!-- image: https://i.guim.co.uk/img/media/c8e02014efcb6621df0185a3b2dd97463db96479/238_75_789_631/master/789.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d7ccf5a6d459077ffbe6f9dc90e632e0 -->
-
-Peruvian authorities seized over 3,000 tarantulas at a Lima airport. The spiders were hidden in dirty socks inside three suitcases. Two Germans and a Polish citizen were carrying them. The shipment was bound for Germany, where the spiders could fetch 1.5 million euros. Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5mMore than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestry and Wildlife Service (SERFOR) told Agenc.
-
-### [How Russia's War Recruitment Machine Became Big Business](https://www.rferl.org/a/russia-war-recruitment-big-business-ukraine-military/33891653.html)
-*Radio Free Europe / Liberty* - Nov 05, 20:20 IST (iso: 2026-11-05T14:50:37+00:00)
-<!-- image: https://gdb.rferl.org/9271105C-C3AC-4144-8FBC-82F111DF36FC_cx2_cy3_cw89_w1200_h630.jpg -->
-
-Russian military recruitment increasingly relies on private companies and intermediaries. These actors operate on the fringes of the legal system to fill depleted ranks. The shift has created a human cost as the state outsources conscription. This commercial approach reflects the strain of the ongoing war against Ukraine on domestic manpower. An increasing number of cases point to the human cost of a recruitment system in Russia that increasingly relies on private companies and intermediaries who often work on the fringes to bolster the ranks of a military depleted by the war against Ukraine.
-
-### [A Political Killing, A Seismic Shift, And A 'Vile' Attack](https://www.rferl.org/a/russia-novaya-gazeta-ukraine-war-peace-talks/33890879.html)
-*Radio Free Europe / Liberty* - Nov 05, 16:56 IST (iso: 2026-11-05T11:26:40+00:00)
-<!-- image: https://gdb.rferl.org/2b4fc504-2d37-44a4-794d-08df13a869ed_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Twenty years after journalist Anna Politikovskaya was killed, her newspaper faces crushing pressure from the Russian state. A small Ukraine cease-fire was followed by a massive attack, while a US political shift precedes new trilateral peace talks. Twenty years after investigative journalist Anna Politikovskaya was shot dead, the paper she worked for is crushed under pressure from the Russian state.
-
-### [Nations Line Up To Boycott Ice Hockey Games Against Russia](https://www.rferl.org/a/russia-hockey-ukraine-war/33890409.html)
-*Radio Free Europe / Liberty* - Nov 04, 18:55 IST (iso: 2026-11-04T13:25:42+00:00)
-<!-- image: https://gdb.rferl.org/ad1ec3ac-27ed-48f4-be90-ff410ce85a9c_cx0_cy6_cw0_w1200_h630.jpg -->
-
-Multiple nations plan to boycott ice hockey events involving Russia. They oppose a court ruling allowing Moscow to rejoin international competitions. The boycott threatens the upcoming World Championships. Countries refuse to play against Russian teams. A growing list of countries are lining up against a court decision allowing Russia to rejoin international ice hockey events, saying they will boycott any team Moscow sends, putting the World Championships next year in jeopardy.
-
-### [Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks](https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html)
-*Radio Free Europe / Liberty* - Nov 04, 02:48 IST (iso: 2026-11-03T21:18:10+00:00)
-<!-- image: https://gdb.rferl.org/63be4226-bba4-414e-eb1a-08df13afe2a0_w1200_h630.jpg -->
-
-Melania Trump will host Russian and Ukrainian representatives at the White House on November 5. The meeting focuses on a localized cease-fire in Kherson. A new round of US-mediated peace talks is scheduled for next week. Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks.
-
----
-
-## Global / Multilateral
-
-### [Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
-*UN News* - Nov 05, 17:30 IST (iso: 2026-11-05T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg -->
-
-UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
-
-### [15 years of ‘almost no progress’ in getting young people moving: WHO](https://news.un.org/feed/view/en/story/2026/11/1168736)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image560x340cropped.jpg -->
-
-The World Health Organization reported that one in four adolescents worldwide does not get sixty minutes of daily physical activity. This data highlights fifteen years of almost no progress in getting young people moving. The new global estimates underscore a persistent public health gap. One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.
 
 ---
 
