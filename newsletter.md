@@ -1,6 +1,46 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 07, 2026 03:20 IST
+**Updated:** November 07, 2026 06:52 IST
+
+---
+
+## Asia-Pacific
+
+### [Japan, Taiwan, China and the emerging 2028 strategic test](https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/)
+*Asia Times* - Nov 07, 05:29 IST (iso: 2026-11-06T23:59:05+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/images-2-e1793969068536.jpeg -->
+
+East Asia is shifting toward a 2028 strategic test. Military, economic, and technological factors now intertwine. This convergence is reshaping regional order assumptions. The timing and drivers of this shift are changing. Originally published by Pacific Forum, this article is republished with permission. East Asia is entering an era in which military balance, economic resilience, technological leadership and alliance politics are no longer separate policy domains but interconnected elements of a broader contest over regional order.
+
+### [Here’s why Pyongyang is testing an array of missile capabilities](https://asiatimes.com/2026/11/heres-why-pyongyang-is-testing-an-array-of-missile-capabilities/)
+*Asia Times* - Nov 07, 05:06 IST (iso: 2026-11-06T23:36:59+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Missile-launch-from-North-Korea-copy-e1794008100684.jpg -->
+
+North Korea has conducted roughly 20 missile tests since early 2026. This marks a new phase in its development program. The focus is on capability breadth rather than launch volume. These tests signal a consequential shift in regional security dynamics. North Korea’s accelerating missile development has entered a new and potentially consequential phase. According to media reports available as of November 6, 2026, Pyongyang has conducted approximately 20 missile-related tests and exercises since the beginning of the year.
+
+### [Pakistan’s Fa’az missile aims to escape China, US arms traps](https://asiatimes.com/2026/11/pakistans-faaz-missile-aims-to-escape-china-us-arms-traps/)
+*Asia Times* - Nov 06, 10:59 IST (iso: 2026-11-06T05:29:32+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Pakistan-Air-Force-Faaz-Missile-Test-2.jpg -->
+
+Pakistan tested its indigenous Fa’az beyond-visual-range missile, marking a shift toward self-reliance in air combat. The move addresses vulnerabilities in relying on foreign defense partners. It responds to operational needs from volatile border clashes with India. Pakistan’s recent maiden test of its indigenous Fa’az beyond-visual-range missile highlights an urgent push toward self-reliance in high-end air combat, driven by the operational imperatives of volatile border clashes with India and the strategic vulnerabilities of relying on foreign defense partners.
+
+### [US Court Temporarily Blocks Deportation Of Afghan Nationals Over Safety Concerns](https://www.rferl.org/a/us-court-temporarily-blocks-afghans-deportation/33890357.html)
+*Radio Free Europe / Liberty* - Nov 05, 15:42 IST (iso: 2026-11-05T10:12:46+00:00)
+<!-- image: https://gdb.rferl.org/2d1d1574-0892-4aae-232e-08dd9da57ba1_cx0_cy10_cw0_w1200_h630.jpg -->
+
+A New York federal judge temporarily blocked the deportation of dozens of Afghan nationals. Lawmakers and rights groups warned that returning them to Afghanistan or Pakistan could endanger their lives. The court order halts the removal process pending further review of these safety concerns. A reported plan to deport dozens of Afghan nationals has been temporarily halted by a New York-based federal judge following a warning from several US lawmakers and rights groups that sending them home or to neighboring Pakistan could put their lives at risk.
+
+### [India’s $22 billion defense push can’t hide its missing fighter jets](https://asiatimes.com/2026/11/indias-22-billion-defense-push-cant-hide-its-missing-fighter-jets/)
+*Asia Times* - Nov 05, 10:33 IST (iso: 2026-11-05T05:03:59+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/India-Tejas-Mk1A-Fighter.jpg -->
+
+India's $22 billion defense modernization faces a critical gap in fighter jet delivery. The domestic aerospace industry struggles to produce aircraft ordered years ago. This shortfall raises questions about industrial capacity and reliance on foreign technology amid rising regional security pressures. India’s military modernization drive has a core problem. While officials keep approving billions of dollars in new weapons, the country’s aerospace industry is struggling to deliver aircraft ordered years ago The gap raises questions about the country’s industrial capacity, its dependence on foreign technology and its military readiness at a time of regional security pressure.
+
+### [China’s amphibious surge confronts a Taiwan invasion’s hard math](https://asiatimes.com/2026/11/chinas-amphibious-surge-confronts-a-taiwan-invasions-hard-math/)
+*Asia Times* - Nov 05, 10:15 IST (iso: 2026-11-05T04:45:02+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Navy.jpg -->
+
+China is rapidly expanding Type 071 amphibious transport dock production to support a potential Taiwan invasion. The strategy relies on industrial mass and converted civilian shipping. Analysts question if this volume can overcome the tactical choke points of a cross-strait military operation. China’s sudden surge in amphibious warship construction has thrust a foundational military question to the forefront: can sheer industrial mass and converted civilian shipping overcome the lethal tactical choke points of a cross-strait invasion?
 
 ---
 
@@ -32,7 +72,7 @@ Scientists aboard a ship frozen in Arctic ice are documenting rapid environmenta
 
 ### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
 *UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg -->
 
 COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
 
@@ -45,6 +85,12 @@ COP31 focuses on making advanced clean energy technologies affordable for all na
 <!-- image: https://gdb.rferl.org/e53f5741-59ff-4ca5-ecdb-08df13a87301_w1200_h630.jpg -->
 
 US and British English testing services have suspended operations in Iran. This move blocks a critical pathway for young Iranians seeking to study abroad. Sanctions and growing isolation continue to restrict their options for international education. Sanctions and growing international isolation are cutting key pathways for young Iranians with dreams of studying abroad. US and British English language-testing services have been suspended in Iran, creating another obstacle for prospective international students.
+
+### [Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions](https://news.un.org/feed/view/en/story/2026/11/1168758)
+*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/13-07-2026-UNICEF-Afghanistan-02.jpg/image770x420cropped.jpg -->
+
+A senior UN official called Afghanistan a difficult crossroad. The country faces a fragile economy and rights curbs. Humanitarian needs are acute five years after the Taliban returned. Stability is being undercut by these deepening restrictions. Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need.
 
 ### [‘No Escape’ for refugees on the frontlines of the climate crisis](https://news.un.org/feed/view/en/story/2026/11/1168752)
 *UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
@@ -76,27 +122,9 @@ Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesd
 
 Many children born in Syria since 2011 lack legal identity because nationality passes only through fathers. A United Nations commission member stated that many of these fathers are dead or missing. The current legal framework effectively shuts out mothers from establishing their children's status. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
 
-### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
-*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
-<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Reuters journalist Giulia Paravicini discusses her recent reporting trip to Asmara, Eritrea. She details life in the isolated nation and its leadership's strategic calculations. The interview highlights mounting regional tensions and the complex dynamics with neighboring Ethiopia. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
-
-### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
-*International Crisis Group* - Oct 30, 05:30 IST (iso: 2026-10-30T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group analysts provide weekly updates on global conflicts and crises. They highlight under-reported trends and major developments in key hotspots. Field experts explain why specific situations matter and outline potential responses for policymakers. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
-
 ---
 
 ## Europe & Russia
-
-### [Europe bomb threats 'likely co-ordinated campaign': Irish government](https://www.thehindu.com/news/international/europe-bomb-threats-likely-co-ordinated-campaign-irish-government/article71675060.ece)
-*The Hindu (International)* - Nov 06, 21:43 IST (iso: 2026-11-06T16:13:36+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/vqjy07/article71675107.ece/alternates/LANDSCAPE_1200/2026-11-06T123852Z_121061962_RC2CIOANNUND_RTRMADP_3_EUROPE-SECURITY-IRELAND.JPG -->
-
-The Irish government described recent European bomb threats as a likely coordinated campaign. Dublin hoaxes coincided with disruptions across the continent on November 6. Authorities rerouted flights or deployed fighter jets to escort civilian aircraft through affected airspace. The hoaxes in Dublin came as more European flights were also hit on November 6 by bomb threats, the latest this week forcing authorities to reroute some planes or escort civilian aircraft with fighter jets.
 
 ### [Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks](https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru)
 *The Guardian* - Nov 06, 06:52 IST (iso: 2026-11-06T01:22:49+00:00)
@@ -127,34 +155,6 @@ Multiple nations plan to boycott ice hockey events involving Russia. They oppose
 <!-- image: https://gdb.rferl.org/63be4226-bba4-414e-eb1a-08df13afe2a0_w1200_h630.jpg -->
 
 Melania Trump will host Russian and Ukrainian representatives at the White House on November 5. The meeting focuses on a localized cease-fire in Kherson. A new round of US-mediated peace talks is scheduled for next week. Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks.
-
----
-
-## Asia-Pacific
-
-### [Pakistan’s Fa’az missile aims to escape China, US arms traps](https://asiatimes.com/2026/11/pakistans-faaz-missile-aims-to-escape-china-us-arms-traps/)
-*Asia Times* - Nov 06, 10:59 IST (iso: 2026-11-06T05:29:32+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Pakistan-Air-Force-Faaz-Missile-Test-2.jpg -->
-
-Pakistan tested its indigenous Fa’az beyond-visual-range missile, marking a shift toward self-reliance in air combat. The move addresses vulnerabilities in relying on foreign defense partners. It responds to operational needs from volatile border clashes with India. Pakistan’s recent maiden test of its indigenous Fa’az beyond-visual-range missile highlights an urgent push toward self-reliance in high-end air combat, driven by the operational imperatives of volatile border clashes with India and the strategic vulnerabilities of relying on foreign defense partners.
-
-### [US Court Temporarily Blocks Deportation Of Afghan Nationals Over Safety Concerns](https://www.rferl.org/a/us-court-temporarily-blocks-afghans-deportation/33890357.html)
-*Radio Free Europe / Liberty* - Nov 05, 15:42 IST (iso: 2026-11-05T10:12:46+00:00)
-<!-- image: https://gdb.rferl.org/2d1d1574-0892-4aae-232e-08dd9da57ba1_cx0_cy10_cw0_w1200_h630.jpg -->
-
-A New York federal judge temporarily blocked the deportation of dozens of Afghan nationals. Lawmakers and rights groups warned that returning them to Afghanistan or Pakistan could endanger their lives. The court order halts the removal process pending further review of these safety concerns. A reported plan to deport dozens of Afghan nationals has been temporarily halted by a New York-based federal judge following a warning from several US lawmakers and rights groups that sending them home or to neighboring Pakistan could put their lives at risk.
-
-### [India’s $22 billion defense push can’t hide its missing fighter jets](https://asiatimes.com/2026/11/indias-22-billion-defense-push-cant-hide-its-missing-fighter-jets/)
-*Asia Times* - Nov 05, 10:33 IST (iso: 2026-11-05T05:03:59+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/India-Tejas-Mk1A-Fighter.jpg -->
-
-India's $22 billion defense modernization faces a critical gap in fighter jet delivery. The domestic aerospace industry struggles to produce aircraft ordered years ago. This shortfall raises questions about industrial capacity and reliance on foreign technology amid rising regional security pressures. India’s military modernization drive has a core problem. While officials keep approving billions of dollars in new weapons, the country’s aerospace industry is struggling to deliver aircraft ordered years ago The gap raises questions about the country’s industrial capacity, its dependence on foreign technology and its military readiness at a time of regional security pressure.
-
-### [China’s amphibious surge confronts a Taiwan invasion’s hard math](https://asiatimes.com/2026/11/chinas-amphibious-surge-confronts-a-taiwan-invasions-hard-math/)
-*Asia Times* - Nov 05, 10:15 IST (iso: 2026-11-05T04:45:02+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Navy.jpg -->
-
-China is rapidly expanding Type 071 amphibious transport dock production to support a potential Taiwan invasion. The strategy relies on industrial mass and converted civilian shipping. Analysts question if this volume can overcome the tactical choke points of a cross-strait military operation. China’s sudden surge in amphibious warship construction has thrust a foundational military question to the forefront: can sheer industrial mass and converted civilian shipping overcome the lethal tactical choke points of a cross-strait invasion?
 
 ---
 
