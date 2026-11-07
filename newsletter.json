@@ -1,21 +1,93 @@
 {
-  "generated_at": "2026-11-07T07:54:36.691586+00:00",
+  "generated_at": "2026-11-07T14:28:07.882058+00:00",
   "article_count": 50,
-  "total_unique_count": 261,
+  "total_unique_count": 264,
   "digest": {
-    "en": "Paraguay's president faces house arrest while global stocks slide on AI concerns. In Asia, Washington presses Beijing on trade ahead of Trump-Xi talks. New Zealand's Labour and National parties remain locked in a dead heat.",
-    "hi": "राजनाथ सिंह ने अग्निपथ में बदलाव को दिवाली का तोहफा बताया। वहीं ट्रंप ने ईरान पर हमला किया और परमाणु गुप्त जानकारी देने वाले को दो अरब डॉलर का इनाम घोषित किया।"
+    "en": "Washington faces a divided Congress while global markets wobble on AI anxieties. In Wellington, coalition talks stall, leaving New Zealand in political limbo. Moscow strikes Kyiv energy grids as diplomatic channels remain open.",
+    "hi": "व्हाइट हाउस में दिवाली के जश्न के बीच रूस ने यूक्रेन वार्ता के लिए मेदिंस्की की टीम भेजी। इटली के विदेश मंत्री के डेटा लीक ने यूरोप में सुरक्षा चिंताएं बढ़ा दी हैं। ईरान ने जमीन के नीचे छिपाए मिसाइल ठिकाने खोलकर अपनी सैन्य ताकत का प्रदर्शन किया।"
   },
   "articles": [
     {
-      "title": "New Zealand election 2026 live results: Labour draws level with National as count continues in",
+      "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-11-07T13:48:18+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593",
+      "summary": "New Zealand's National Party leads parliament, but no coalition has secured a majority. The country faces weeks of negotiations to form a government. Neither the right-wing bloc nor the left-wing opposition won a decisive mandate. National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by th.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "New Zealand election coalition talks will likely take weeks – as it happened",
       "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-11-07T07:43:49+00:00",
+      "published_at": "2026-11-07T13:12:22+00:00",
       "image_url": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76",
       "summary": "New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump’s hubris more comedy than tragedy but echoes Greek original",
+      "url": "https://asiatimes.com/2026/11/trumps-hubris/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-07T11:53:38+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Marble-statue-of-Achilles-looking-at-his-heel-copy.jpg",
+      "summary": "Political analysts compare Donald Trump's recent actions to the Greek concept of hubris. They argue his excessive self-confidence mirrors historical patterns of destructive arrogance. This trend reflects a failure to accurately assess America's global power. Recently across the globe, political observers have likened the foibles and subsequent downfalls of presidents of the United States to hubris, the ancient Greek concept of destructive arrogance.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russia Strikes Kyiv's Energy Infrastructure, Northern Bridge Ahead Of Abu Dhabi Talks",
+      "url": "https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-07T10:10:07+00:00",
+      "image_url": "https://gdb.rferl.org/cda433c6-484c-458d-9fe1-a6dfccf8e8a5_cx0_cy5_cw0_w1200_h630.jpg",
+      "summary": "Russia launched 172 drones and 36 missiles at Kyiv on November 7. The strikes damaged energy infrastructure, housing, and a major Dnipro River bridge. The attack occurred just before scheduled talks in Abu Dhabi. Kyiv faced widespread damage and disruptions to essential services on November 7 after Russia launched 172 attack drones and 36 ballistic missiles at the Ukrainian capital and other regions, striking energy infrastructure, residential housing, and a major bridge over the Dnipro River.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Malaysia's attorney-general defends halting Najib's house arrest after king's rebuke",
+      "url": "https://www.channelnewsasia.com/asia/malaysias-attorney-general-defends-halting-najibs-house-arrest-after-kings-rebuke-6532961",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-11-07T10:09:25+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--W8-zNkVP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-06T080510Z_1_LYNXNPEMA50L6_RTROPTP_3_MALAYSIA-POLITICS-NAJIB.JPG?itok=Ys2nWbOV",
+      "summary": "Malaysia's attorney-general defended halting Najib Razak's house arrest despite the king's rebuke. He rejected treason accusations, stating he sought legal clarifications. The palace insisted the order must be implemented. Malaysia's attorney-general on Saturday (Nov 7) stood by his decision to seek legal clarifications over former Prime Minister Najib Razak's house arrest order, and rejected accusations of treason after the palace insisted it must be implemented.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "After Donald Trump’s midterm poll rout, South America breathes easy as far-right feels the heat",
+      "url": "https://www.thehindu.com/news/international/after-trumps-midterm-poll-rout-south-america-breathes-easy-as-far-right-feels-the-heat/article71673628.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-07T09:08:32+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/m7e18g/article71673782.ece/alternates/LANDSCAPE_1200/AP11_06_2026_000002A.jpg",
+      "summary": "A blue wave in U. S. midterms weakened President Trump's administration. This shift eased pressure on South American leaders. The fall of Santiago Pena in Chile signals the far-right is facing significant regional headwinds. Just a day after a blue wave swept across the U. S. in midterms election shaking President Donald Trump’s administration, the fall of Santiago Pena carries significance beyond the borders of the country of seven million people.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "U.S. midterm election results: Senate, House and Governor shifts before and after",
+      "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-07T07:52:54+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/j2s5sp/article71663845.ece/alternates/LANDSCAPE_1200/2026-11-04T030116Z_716209600_RC2QGOA7QDFN_RTRMADP_3_USA-ELECTION-GEORGIA.JPG",
+      "summary": "Democrats secured full control of Congress in the 11 November 2026 midterm elections, flipping both the Senate and the House. The party gained net seats in key battleground states and won in traditionally Republican districts, giving it a Democrats surged to full control of Congress in the November 2026 U. S. midterm elections, flipping the Senate and House after winning net seats across key battlegrounds and sweeping into Republican strongholds.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -24,58 +96,10 @@
       "url": "https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751",
       "source": "Channel News Asia",
       "sources": [],
-      "published_at": "2026-11-07T07:07:48+00:00",
+      "published_at": "2026-11-07T07:07:00+00:00",
       "image_url": "https://dam.mediacorp.sg/image/upload/s--Lw4eYqnX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/07/129638.jpg?itok=Q1OBflq8",
       "summary": "Singapore's SMRT tested a new escalator rule at City Hall station. Commuters remained reluctant to abandon the keep left habit. Walking up the right side took twenty seconds. Standing still on the left took thirty seconds. CNA's observations at City Hall MRT station found that commuters who walked up the steps on the right took about 20 seconds to complete the ride, compared with 30 seconds for those who stood still on the left.",
       "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Malaysia's king says Najib's conditional pardon is unambiguous, warns against disputing it",
-      "url": "https://www.channelnewsasia.com/asia/najib-razak-pardon-house-arrest-king-warning-6532831",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-11-07T06:03:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--Ue2_XXvK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-13T020644Z_1_LYNXMPEM9C055_RTROPTP_3_MALAYSIA-EGYPT.JPG?itok=cJ1UdI6V",
-      "summary": "Malaysia's king declared Najib Razak's conditional pardon unambiguous. The royal decree followed a legal challenge from the Attorney-General's Chambers. Officials questioned the pardon's implementation. The king warned against disputing the decision. The royal decree comes a day after the Attorney-General's Chambers called for a temporary suspension of Najib Razak's house arrest, citing legal questions over the implementation of his pardon and its implications for a separate prison sentence.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ahead of Trump-Xi meetings, US presses China on trade pledges",
-      "url": "https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-11-07T02:28:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--nxvW_BzT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T080720Z_2_LYNXNPEMA40M5_RTROPTP_3_USA-ELECTION-CHINA.JPG?itok=tTLzzscf",
-      "summary": "The United States pressed China to honor trade pledges before Trump-Xi meetings. Treasury Secretary Scott Bessent emphasized the need for concrete results. He raised concerns about recent Chinese actions. Progress depends on immediate compliance with existing commitments. \"I emphasized the importance of China fully and immediately honouring its commitments, raised concerns about recent Chinese actions and underscored that progress depends on concrete results,\" Treasury Secretary Scott Bessent said in a social media post.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Paraguay president ousted and placed under house arrest, successor sworn in",
-      "url": "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-11-07T01:46:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--oKKRLIVa--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-06T230011Z_1_LYNXNPEMA523C_RTROPTP_3_PARAGUAY-POLITICS.JPG?itok=38zo2DVY",
-      "summary": "Paraguay's Senate unanimously ousted President Santiago Peña. Lawmakers cited his links to the collapsed digital bank ueno. The bank had served nearly half the population. Peña was placed under house arrest. His successor was sworn in immediately. Santiago Peña was ousted from the presidency about an hour beforehand in a unanimous Senate vote, with lawmakers citing questions over his past links to the collapsed digital bank ueno that had provided accounts for nearly half of Paraguay's population.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Sheila Sim on her runway return at Chanel in Sydney: ‘I represent women who have forgotten to love",
-      "url": "https://www.channelnewsasia.com/style-beauty/sheila-sim-chanel-cruise-show-sydney-6530466",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-11-07T01:37:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--wGMEIJlY--/c_crop,h_843,w_1500,x_0,y_53/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/06/chanel_cruise-202627-show-in-sydney-chanel52-ld.jpg?itok=n4cItcLS",
-      "summary": "Singaporean model Sheila Sim returned to the runway for Chanel's Cruise 2026/27 show in Sydney. She had been away from modeling for over a decade. Sim discussed how motherhood and age reshaped her confidence. She described representing women who had forgotten to love themselves. After over a decade away from the runway, Singaporean model-actress Sheila Sim makes a memorable return at Chanel’s Cruise 2026/27 show in Sydney, Australia, reflecting on motherhood, newfound confidence and her enduring relationship with the French luxury house.",
-      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -260,24 +284,12 @@
       "translations": {}
     },
     {
-      "title": "Nations Line Up To Boycott Ice Hockey Games Against Russia",
-      "url": "https://www.rferl.org/a/russia-hockey-ukraine-war/33890409.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-11-04T13:25:42+00:00",
-      "image_url": "https://gdb.rferl.org/ad1ec3ac-27ed-48f4-be90-ff410ce85a9c_cx0_cy6_cw0_w1200_h630.jpg",
-      "summary": "Multiple nations plan to boycott ice hockey events involving Russia. They oppose a court ruling allowing Moscow to rejoin international competitions. The boycott threatens the upcoming World Championships. Countries refuse to play against Russian teams. A growing list of countries are lining up against a court decision allowing Russia to rejoin international ice hockey events, saying they will boycott any team Moscow sends, putting the World Championships next year in jeopardy.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "What’s at stake at this year’s UN climate summit?",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168735",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-04T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg",
       "summary": "COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.",
       "region": "Americas",
       "language": "en",
@@ -296,158 +308,254 @@
       "translations": {}
     },
     {
-      "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-      "source": "UN News",
+      "title": "‘जॉम्बी इंफेक्शन’ फैलाती है ये फंगस, झड़ने लगते हैं शिकार के हाथ-पैर, फिर सिर फाड़कर निकलती है",
+      "url": "https://hindi.news18.com/photogallery/ajab-gajab/viral-ophiocordyceps-zombie-fungus-how-parasitic-fungi-control-ants-spread-spores-infect-insects-in-tropical-forests-10971091.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-04T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image560x340cropped.jpg",
-      "summary": "Many children born in Syria since 2011 lack legal identity because nationality passes only through fathers. A United Nations commission member stated that many of these fathers are dead or missing. The current legal framework effectively shuts out mothers from establishing their children's status. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "दीपावली पर इन सात जीवों का दिखना देता है धन लाभ का संकेत, घर में बढ़ती है सुख-समृद्धि",
-      "url": "https://www.amarujala.com/photo-gallery/astrology/predictions/diwali-2026-auspicious-animals-sighting-lord-lakshmi-blessings-diwali-par-chipkali-ka-dikhna-2026-11-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-07T07:29:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/diwali-2026_cec01129affad06c79d7367f2d14f610.jpeg?w=1200&dpr=1.0",
-      "summary": "धार्मिक मान्यताओं के अनुसार, दीपावली पर सात विशिष्ट जीवों का दिखना धन और समृद्धि का संकेत माना जाता है। यह परंपरा शुभ मुहूर्त और आर्थिक तरक्की से जुड़ी है। धार्मिक मान्यताओं के अनुसार, दीपावली के दिन इन जीवों का अचानक नजर आना जीवन में धन, तरक्की और सौभाग्य के आगमन का प्रतीक हो सकता है। आइए जानते हैं कि दिवाली के दिन किन 7 जीवों का दिखना शुभ माना जाता है।",
+      "published_at": "2026-11-07T14:08:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Ophiocordyceps-Zombie-Fungus-1-2026-11-072292d2b9ac4faa78e6736a845689c0-1200x800.jpg",
+      "summary": "घने जंगलों में ओफियोकोर्डिसेप्स यूनिलैटरलिस नामक फंगस चींटियों के नर्वस सिस्टम पर कब्जा करती है। इससे प्रभावित कीट पेड़ की पत्ती पर कसकर चिपक जाती है। अंत में फंगस शिकार के सिर से बाहर निकलकर अपना प्रजनन पूरा कर लेती है। घने जंगलों में एक अजीबोगरीब फंगस पाई जाती है, जिसका नाम 'ओफियोकोर्डिसेप्स यूनिलैटरलिस' है. ये फंगस चीटियों को अपना शिकार बनाकर उन्हें जिंदा 'जॉम्बी' बना देती है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दीपावली पर इन सात जीवों का दिखना देता है धन लाभ का संकेत, घर में बढ़ती है सुख-समृद्धि",
-          "summary": "धार्मिक मान्यताओं के अनुसार, दीपावली पर सात विशिष्ट जीवों का दिखना धन और समृद्धि का संकेत माना जाता है। यह परंपरा शुभ मुहूर्त और आर्थिक तरक्की से जुड़ी है। धार्मिक मान्यताओं के अनुसार, दीपावली के दिन इन जीवों का अचानक नजर आना जीवन में धन, तरक्की और सौभाग्य के आगमन का प्रतीक हो सकता है। आइए जानते हैं कि दिवाली के दिन किन 7 जीवों का दिखना शुभ माना जाता है।",
+          "title": "‘जॉम्बी इंफेक्शन’ फैलाती है ये फंगस, झड़ने लगते हैं शिकार के हाथ-पैर, फिर सिर फाड़कर निकलती है",
+          "summary": "घने जंगलों में ओफियोकोर्डिसेप्स यूनिलैटरलिस नामक फंगस चींटियों के नर्वस सिस्टम पर कब्जा करती है। इससे प्रभावित कीट पेड़ की पत्ती पर कसकर चिपक जाती है। अंत में फंगस शिकार के सिर से बाहर निकलकर अपना प्रजनन पूरा कर लेती है। घने जंगलों में एक अजीबोगरीब फंगस पाई जाती है, जिसका नाम 'ओफियोकोर्डिसेप्स यूनिलैटरलिस' है. ये फंगस चीटियों को अपना शिकार बनाकर उन्हें जिंदा 'जॉम्बी' बना देती है.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "'सैंडपेपर की जानकारी पूरी टीम को थी': बगावत पर उतरा यह कंगारू बल्लेबाज, आठ साल पुरानी घटना पर किए",
-      "url": "https://www.amarujala.com/cricket/cricket-news/usman-khawaja-has-claimed-the-entire-australia-team-was-involved-in-the-sandpaper-plot-in-2018-2026-11-07",
-      "source": "Amar Ujala Breaking",
+      "title": "यूक्रेन का साथ देना इटली के विदेश मंत्री को पड़ा भारी! रूसी समर्थक हैकर्स ने डार्क वेब पर लीक की",
+      "url": "https://www.patrika.com/world-news/italy-foreign-minister-data-leak-russian-hackers-21036517",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-07T07:29:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/aus_aabf593078266f67770c7c0f9b0caf5e.jpeg?w=1200&dpr=1.0",
-      "summary": "उस्मान ख्वाजा ने दावा किया कि 2018 के सैंडपेपर मामले की जानकारी पूरी ऑस्ट्रेलियाई टीम को थी। वह उस समय टीम के सदस्य थे और घटना पर अपना बयान दे रहे हैं। ऑस्ट्रेलिया के पूर्व बल्लेबाज उस्मान ख्वाजा ने दावा किया है कि 2018 में दक्षिण अफ्रीका के खिलाफ सैंडपेपर मामले की जानकारी पूरी कंगारू टीम को थी। ख्वाजा उस वक्त टीम के सदस्य थे।",
-      "region": "Middle East & Africa",
+      "published_at": "2026-11-07T13:28:49+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/cyber-fraud.webp",
+      "summary": "इटली के विदेश मंत्री एंटोनियो ताजानी ने रूस समर्थक हैकर्स पर निजी जानकारी चुराने का आरोप लगाया है। हैकर्स ने डार्क वेब पर यह डेटा सार्वजनिक कर दिया। यह घटना ताजानी के यूक्रेन समर्थन के बाद सामने आई है। इटली के विदेश मंत्री एंटोनियो ताजानी को यूक्रेन का समर्थन करना भारी पड़ रहा है। ताजानी ने आरोप लगाया है कि रूस समर्थक हैकर्स ने उनकी निजी जानकारी चुराकर डार्क वेब पर सार्वजनिक कर दी है।",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'सैंडपेपर की जानकारी पूरी टीम को थी': बगावत पर उतरा यह कंगारू बल्लेबाज, आठ साल पुरानी घटना पर किए",
-          "summary": "उस्मान ख्वाजा ने दावा किया कि 2018 के सैंडपेपर मामले की जानकारी पूरी ऑस्ट्रेलियाई टीम को थी। वह उस समय टीम के सदस्य थे और घटना पर अपना बयान दे रहे हैं। ऑस्ट्रेलिया के पूर्व बल्लेबाज उस्मान ख्वाजा ने दावा किया है कि 2018 में दक्षिण अफ्रीका के खिलाफ सैंडपेपर मामले की जानकारी पूरी कंगारू टीम को थी। ख्वाजा उस वक्त टीम के सदस्य थे।",
-          "region": "मध्य पूर्व और अफ्रीका"
+          "title": "यूक्रेन का साथ देना इटली के विदेश मंत्री को पड़ा भारी! रूसी समर्थक हैकर्स ने डार्क वेब पर लीक की",
+          "summary": "इटली के विदेश मंत्री एंटोनियो ताजानी ने रूस समर्थक हैकर्स पर निजी जानकारी चुराने का आरोप लगाया है। हैकर्स ने डार्क वेब पर यह डेटा सार्वजनिक कर दिया। यह घटना ताजानी के यूक्रेन समर्थन के बाद सामने आई है। इटली के विदेश मंत्री एंटोनियो ताजानी को यूक्रेन का समर्थन करना भारी पड़ रहा है। ताजानी ने आरोप लगाया है कि रूस समर्थक हैकर्स ने उनकी निजी जानकारी चुराकर डार्क वेब पर सार्वजनिक कर दी है।",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "राजनाथ सिंह ने जवानों संग मनाई दिवाली: अग्निपथ योजना में बदलाव को बताया तोहफा, आईएएफ प्रमुख को लेकर",
-      "url": "https://www.amarujala.com/india-news/rajnath-singh-agniveers-additional-two-year-tour-of-duty-diwali-gift-bagdogra-sukna-2026-11-07",
-      "source": "Amar Ujala Breaking",
+      "title": "डोनाल्ड ट्रंप ने व्हाइट हाउस में मनाई दिवाली, पहुंचे भारतीय मूल के बड़े-बड़े लोग, तोहफे में मिली",
+      "url": "https://hindi.news18.com/world/america-donald-trump-celebrates-diwali-at-white-house-receives-hanuman-chalisa-gift-in-oval-office-with-indian-american-leaders-10970929.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-07T07:23:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/rajnath-singh_072949257da17f30c47980670b93d147.jpeg?w=1200&dpr=1.0",
-      "summary": "राजनाथ सिंह ने बागदोरा में अग्निवीरों के साथ दिवाली मनाई। उन्होंने अग्निपथ योजना में दो साल की अतिरिक्त सेवा को तोहफा बताया और आईएएफ प्रमुख पर टिप्पणी की। राजनाथ सिंह ने जवानों संग मनाई दिवाली: अग्निपथ योजना में बदलाव को बताया तोहफा, आईएएफ प्रमुख को लेकर क्या कहा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राजनाथ सिंह ने जवानों संग मनाई दिवाली: अग्निपथ योजना में बदलाव को बताया तोहफा, आईएएफ प्रमुख को लेकर",
-          "summary": "राजनाथ सिंह ने बागदोरा में अग्निवीरों के साथ दिवाली मनाई। उन्होंने अग्निपथ योजना में दो साल की अतिरिक्त सेवा को तोहफा बताया और आईएएफ प्रमुख पर टिप्पणी की। राजनाथ सिंह ने जवानों संग मनाई दिवाली: अग्निपथ योजना में बदलाव को बताया तोहफा, आईएएफ प्रमुख को लेकर क्या कहा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "डिस्काउंट के चक्कर में बैंक अकाउंट हो सकता है खाली, यहां जानें कैसे बचें इस फ्रॉड से",
-      "url": "https://www.amarujala.com/photo-gallery/utility/diwali-2026-how-to-avoid-fraud-related-to-discounts-on-diwali-festival-2026-11-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-07T07:22:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/thaval-2026-farada-sa-bcana-ka-taraka-kaya-ha_6d28e057d9d0663f0600819248a9d101.jpeg?w=1200&dpr=1.0",
-      "summary": "दिवाली के दौरान बैंकिंग फ्रॉड का खतरा बढ़ जाता है। जालसाज डिस्काउंट के बहाने गोपनीय जानकारी मांगते हैं। उपयोगकर्ताओं को अपनी बैंक जानकारी किसी भी संदिग्ध लिंक या कॉल पर शेयर नहीं करनी चाहिए। दिवाली के मौके पर जालसाज आपके साथ ठगी कर सकते हैं इसलिए डिस्काउंट के चक्कर में अपनी बैंकिंग गोपनीय जानकारी किसी को शेयर न करें। डिस्काउंट के चक्कर में बैंक अकाउंट हो सकता है खाली, यहां जानें कैसे बचें इस फ्रॉड से।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डिस्काउंट के चक्कर में बैंक अकाउंट हो सकता है खाली, यहां जानें कैसे बचें इस फ्रॉड से",
-          "summary": "दिवाली के दौरान बैंकिंग फ्रॉड का खतरा बढ़ जाता है। जालसाज डिस्काउंट के बहाने गोपनीय जानकारी मांगते हैं। उपयोगकर्ताओं को अपनी बैंक जानकारी किसी भी संदिग्ध लिंक या कॉल पर शेयर नहीं करनी चाहिए। दिवाली के मौके पर जालसाज आपके साथ ठगी कर सकते हैं इसलिए डिस्काउंट के चक्कर में अपनी बैंकिंग गोपनीय जानकारी किसी को शेयर न करें। डिस्काउंट के चक्कर में बैंक अकाउंट हो सकता है खाली, यहां जानें कैसे बचें इस फ्रॉड से।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत में बंद हुई फॉक्सवैगन टिगुआन आर-लाइन?: कंपनी की वेबसाइट से हटाई गई एसयूवी, अब टायरोन बनी",
-      "url": "https://www.amarujala.com/automobiles/volkswagen-tiguan-r-line-delisted-in-india-official-website-removes-cbu-suv-2026-11-07",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-07T07:20:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/14/volkswagen-tiguan-r-line-suv-car_9fea42ea8727672388395975fb7dcaa3.jpeg?w=1200&dpr=1.0",
-      "summary": "फॉक्सवैगन ने भारत में टिगुआन आर-लाइन की बिक्री बंद कर दी है। कंपनी की वेबसाइट से इस एसयूवी की सूचना हटाई गई है। अब टायरोन को प्रीमियम विकल्प के रूप में प्रोत्साहित किया जा रहा है। भारत में बंद हुई फॉक्सवैगन टिगुआन आर-लाइन?: कंपनी की वेबसाइट से हटाई गई एसयूवी, अब टायरोन बनी।",
+      "published_at": "2026-11-07T13:20:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-White-House-Diwali-2026-11-696aca305ce3816721288ddff031e98c-1200x800.jpg",
+      "summary": "डोonald ट्रंप ने व्हाइट हाउस के ओवल ऑफिस में भारतीय-अमेरिकी समुदाय के साथ दिवाली मनाई। एफबीआई निदेशक काश पटेल और आईबीएम सीईओ अरविंद कृष्णा भी मौजूद रहे। विशाल गोंडल ने ट्रंप को हनुमान चालीसा भेंट की। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने वाशिंगटन डीसी स्थित व्हाइट हाउस के 'ओवल ऑफिस' में दिवाली मनाई. उन्होंने भारतीय-अमेरिकी समुदाय के साथ मिलकर इस त्योहार का जश्न मनाया.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत में बंद हुई फॉक्सवैगन टिगुआन आर-लाइन?: कंपनी की वेबसाइट से हटाई गई एसयूवी, अब टायरोन बनी",
-          "summary": "फॉक्सवैगन ने भारत में टिगुआन आर-लाइन की बिक्री बंद कर दी है। कंपनी की वेबसाइट से इस एसयूवी की सूचना हटाई गई है। अब टायरोन को प्रीमियम विकल्प के रूप में प्रोत्साहित किया जा रहा है। भारत में बंद हुई फॉक्सवैगन टिगुआन आर-लाइन?: कंपनी की वेबसाइट से हटाई गई एसयूवी, अब टायरोन बनी।",
+          "title": "डोनाल्ड ट्रंप ने व्हाइट हाउस में मनाई दिवाली, पहुंचे भारतीय मूल के बड़े-बड़े लोग, तोहफे में मिली",
+          "summary": "डोonald ट्रंप ने व्हाइट हाउस के ओवल ऑफिस में भारतीय-अमेरिकी समुदाय के साथ दिवाली मनाई। एफबीआई निदेशक काश पटेल और आईबीएम सीईओ अरविंद कृष्णा भी मौजूद रहे। विशाल गोंडल ने ट्रंप को हनुमान चालीसा भेंट की। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने वाशिंगटन डीसी स्थित व्हाइट हाउस के 'ओवल ऑफिस' में दिवाली मनाई. उन्होंने भारतीय-अमेरिकी समुदाय के साथ मिलकर इस त्योहार का जश्न मनाया.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "राजस्थान हाईकोर्ट के नाम से फर्जी जमानत आदेश: अदालत सख्त, डीएसपी के नेतृत्व में एसआईटी गठित करने के",
-      "url": "https://www.amarujala.com/rajasthan/jaipur/rajasthan-high-court-fake-bail-order-sit-investigation-jodhpur-2026-11-07",
-      "source": "Amar Ujala Breaking",
+      "title": "चीन के ‘स्पेस मिशन’ में पाकिस्तान करेगा ‘उधारी की सवारी’, एस्ट्रोनॉट से करवाया जाएगा कौन सा काम?",
+      "url": "https://hindi.news18.com/world/china-pakistani-astronaut-to-join-china-shenzhou-24-mission-how-beijing-space-lift-tiangong-space-station-work-10970841.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-07T07:20:01+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/09/rajasathana-haiikarata_2262a99a79cffd0bf5845677b7246441.jpeg?w=1200&dpr=1.0",
-      "summary": "राजस्थान हाईकोर्ट ने अपने नाम से फर्जी जमानत आदेश बनाने के मामले में डीएसपी स्तरीय अधिकारी के नेतृत्व में एसआईटी गठित करने का निर्देश दिया है। टीम साइबर क्राइम विशेषज्ञों की सहायता से जांच करेगी। राजस्थान हाईकोर्ट ने अपने नाम से फर्जी जमानत आदेश तैयार करने के कथित मामले में एसआईटी जांच के निर्देश दिए हैं। डीएसपी स्तर के अधिकारी के नेतृत्व में गठित होने वाली टीम साइबर क्राइम विशेषज्ञों की मदद से जांच करेगी।",
+      "published_at": "2026-11-07T12:28:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistani-Astronaut-to-Join-China-Shenzhou-24-Mission-2026-11-93da1bf8c0b26b3cf857f8abeef01655-1200x800.jpg",
+      "summary": "चीन की स्पेस एजेंसी ने शेनझोउ-24 मिशन के लिए एक पाकिस्तानी एस्ट्रोनॉट को चुना है। यह पहला विदेशी नागरिक होगा जो तिआंगोंग स्पेस स्टेशन पर जाएगा। पाकिस्तान इसे अपनी सफलता बता रहा है, जबकि पूरा तकनीकी ढांचा चीन का है। चीन की स्पेस एजेंसी (CMSA) ने अपने 'शेनझोउ-24' मिशन के लिए एक पाकिस्तानी एस्ट्रोनॉट को चुना है. ये एस्ट्रोनॉट 'पेलोड स्पेशलिस्ट' के तौर पर चीन के 'तिआंगोंग' स्पेस स्टेशन जाएगा.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन के ‘स्पेस मिशन’ में पाकिस्तान करेगा ‘उधारी की सवारी’, एस्ट्रोनॉट से करवाया जाएगा कौन सा काम?",
+          "summary": "चीन की स्पेस एजेंसी ने शेनझोउ-24 मिशन के लिए एक पाकिस्तानी एस्ट्रोनॉट को चुना है। यह पहला विदेशी नागरिक होगा जो तिआंगोंग स्पेस स्टेशन पर जाएगा। पाकिस्तान इसे अपनी सफलता बता रहा है, जबकि पूरा तकनीकी ढांचा चीन का है। चीन की स्पेस एजेंसी (CMSA) ने अपने 'शेनझोउ-24' मिशन के लिए एक पाकिस्तानी एस्ट्रोनॉट को चुना है. ये एस्ट्रोनॉट 'पेलोड स्पेशलिस्ट' के तौर पर चीन के 'तिआंगोंग' स्पेस स्टेशन जाएगा.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘वो आना चाहते हैं तो..’, भगवंत मान की इच्छा पर पाकिस्तान ने भेजा जवाब, कहां फंसा है पेंच?",
+      "url": "https://hindi.news18.com/world/pakistan-bhagwant-mann-pakistan-visit-islamabad-responds-to-aap-cm-visa-request-for-world-punjabi-conference-in-lahore-10970743.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-07T11:48:05+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/Bhagwant-Mann-2026-10-bfb90f644a92f066fb2f43963c13e4e8-1200x800.jpg",
+      "summary": "पाकिस्तान ने पंजाब के मुख्यमंत्री भगवंत मान को लाहौर की वर्ल्ड पंजाबी कॉन्फ्रेंस के लिए वीजा देने पर विचार करने का संकेत दिया है। पाकिस्तान ने स्पष्ट किया कि अंतिम अनुमति भारत सरकार का फैसला होगी। मान को इस घटनाक्रम में वीजा आवेदन करना होगा। पंजाब के मुख्यमंत्री भगवंत मान को लाहौर की 'वर्ल्ड पंजाबी कॉन्फ्रेंस' में जाने का न्योता मिला है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘वो आना चाहते हैं तो..’, भगवंत मान की इच्छा पर पाकिस्तान ने भेजा जवाब, कहां फंसा है पेंच?",
+          "summary": "पाकिस्तान ने पंजाब के मुख्यमंत्री भगवंत मान को लाहौर की वर्ल्ड पंजाबी कॉन्फ्रेंस के लिए वीजा देने पर विचार करने का संकेत दिया है। पाकिस्तान ने स्पष्ट किया कि अंतिम अनुमति भारत सरकार का फैसला होगी। मान को इस घटनाक्रम में वीजा आवेदन करना होगा। पंजाब के मुख्यमंत्री भगवंत मान को लाहौर की 'वर्ल्ड पंजाबी कॉन्फ्रेंस' में जाने का न्योता मिला है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान के ‘खजाने’ का पता बताने वाले को 188 करोड़ रुपए, परिवार भी उठा लेंगे, अब सुपारी देने पर उतर आया",
+      "url": "https://hindi.news18.com/world/middle-east-us-offers-20-million-dollar-reward-and-free-relocation-for-secrets-on-iran-nuclear-programme-underground-facilities-10970649.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-07T10:55:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/America-Lost-Iran-Nuclear-Addresss-2026-07-545a66aa6e5efd6b6b2b294af2a9a9bc-1200x800.jpg",
+      "summary": "अमेरिका ने ईरान के परमाणु कार्यक्रम की जानकारी देने वालों के लिए 188 करोड़ रुपए का इनाम घोषित किया है। यह राशि सुरक्षित देश में बसने की सुविधा के साथ दी जाएगी। कतर की मदद से ईरान और अमेरिका के बीच शांति डील की बातचीत चल रही थी. इसी बीच अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के स्टेट डिपार्टमेंट ने एक बहुत बड़ा दांव चल दिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान के ‘खजाने’ का पता बताने वाले को 188 करोड़ रुपए, परिवार भी उठा लेंगे, अब सुपारी देने पर उतर आया",
+          "summary": "अमेरिका ने ईरान के परमाणु कार्यक्रम की जानकारी देने वालों के लिए 188 करोड़ रुपए का इनाम घोषित किया है। यह राशि सुरक्षित देश में बसने की सुविधा के साथ दी जाएगी। कतर की मदद से ईरान और अमेरिका के बीच शांति डील की बातचीत चल रही थी. इसी बीच अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप के स्टेट डिपार्टमेंट ने एक बहुत बड़ा दांव चल दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "बहावलपुर-मुरिदके की तबाही से सबक: ऑपरेशन सिंदूर के झटके के बाद पाकिस्तान की नई आतंकी चाल",
+      "url": "https://www.patrika.com/world-news/isi-multiple-camps-strategy-after-operation-sindoor-21036178",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-07T10:50:27+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Pakistan-terror-camps.webp",
+      "summary": "ऑपरेशन सिंदूर के बाद पाकिस्तान के आतंकी संगठनों ने अपनी कार्यप्रणाली बदली है। जैश-ए-मोहम्मद और लश्कर-ए-तैयबा जैसे समूहों ने नई रणनीति अपनाई है। Operation Sindoor: ‘ऑपरेशन सिंदूर’ ने पाकिस्तान के आतंकी ढांचे को तगड़ा झटका दिया है। जिसके चलते ISI को जैश-ए-मोहम्मद (JeM), लश्कर-ए-तैयबा (LeT) और हिज्बुल मुजाहिदीन जैसे आतंकी संगठनों के काम करने के तरीके में बड़ा बदलाव करना पड़ा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बहावलपुर-मुरिदके की तबाही से सबक: ऑपरेशन सिंदूर के झटके के बाद पाकिस्तान की नई आतंकी चाल",
+          "summary": "ऑपरेशन सिंदूर के बाद पाकिस्तान के आतंकी संगठनों ने अपनी कार्यप्रणाली बदली है। जैश-ए-मोहम्मद और लश्कर-ए-तैयबा जैसे समूहों ने नई रणनीति अपनाई है। Operation Sindoor: ‘ऑपरेशन सिंदूर’ ने पाकिस्तान के आतंकी ढांचे को तगड़ा झटका दिया है। जिसके चलते ISI को जैश-ए-मोहम्मद (JeM), लश्कर-ए-तैयबा (LeT) और हिज्बुल मुजाहिदीन जैसे आतंकी संगठनों के काम करने के तरीके में बड़ा बदलाव करना पड़ा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भगवान राम की नगरी से माता सीता के मायके तक दौड़ेगा ‘कलियुगी डिब्बा’, 6 शुभ-शगुन लाएगी भारत-नेपाल की",
+      "url": "https://hindi.news18.com/world/south-asia-ayodhya-janakpur-train-run-begins-india-nepal-mega-railway-deal-brings-6-big-benefits-for-ramayana-pilgrims-religious-tourism-10970459.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-07T10:25:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/India-Nepal-Railway-Network-2026-11-8b26ece7004b36af0b66a3317dbbcd7d-1200x800.jpg",
+      "summary": "अयोध्या से जनकपुर तक चलने वाली 17 डिब्बों वाली ट्रेन का सफल परीक्षण पूरा हुआ है। यह सेवा दोनों देशों के धार्मिक और व्यापारिक संबंधों को मजबूत करेगी। भगवान राम की नगरी अयोध्या से लेकर माता सीता के मायके नेपाल के जनकपुर तक का सफर अब बिल्कुल आसान होने वाला है. इसके लिए भारत और नेपाल के बीच एक बहुत बड़ी रेलवे डील पर तेजी से काम चल रहा है और हाल ही में 17 डिब्बों वाली ट्रेन का सफल ट्रायल भी पूरा हो चुका है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भगवान राम की नगरी से माता सीता के मायके तक दौड़ेगा ‘कलियुगी डिब्बा’, 6 शुभ-शगुन लाएगी भारत-नेपाल की",
+          "summary": "अयोध्या से जनकपुर तक चलने वाली 17 डिब्बों वाली ट्रेन का सफल परीक्षण पूरा हुआ है। यह सेवा दोनों देशों के धार्मिक और व्यापारिक संबंधों को मजबूत करेगी। भगवान राम की नगरी अयोध्या से लेकर माता सीता के मायके नेपाल के जनकपुर तक का सफर अब बिल्कुल आसान होने वाला है. इसके लिए भारत और नेपाल के बीच एक बहुत बड़ी रेलवे डील पर तेजी से काम चल रहा है और हाल ही में 17 डिब्बों वाली ट्रेन का सफल ट्रायल भी पूरा हो चुका है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने दिखाई अपनी सैन्य ताकत! जमीन के नीचे बना रखे हैं मिसाइल ठिकाने, IRGC ने खोले बड़े राज",
+      "url": "https://www.patrika.com/world-news/iran-irgc-aerospace-force-week-underground-missile-facilities-tehran-21036042",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-07T09:49:46+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Hossein-Mohebbi.webp",
+      "summary": "ईरान के IRGC ने तेहरान में अपने अंडरग्राउंड मिसाइल ठिकानों की जानकारी साझा की। यह प्रेस ब्रीफिंग उनकी क्षेत्रीय रक्षा क्षमताओं और तकनीकी आत्मनिर्भरता पर केंद्रित थी। Underground Missile Base: तेहरान के सरचेश्मेह कल्चरल कॉम्प्लेक्स में आयोजित एक प्रेस ब्रीफिंग में शनिवार को इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) एयरोस्पेस फोर्स ने अपना विशेष स्मृति सप्ताह मनाया। इस दौरान उन्होंने देश की तकनीकी उपलब्धियों, क्षेत्रीय रक्षा क्षमताओं और सैन्य आत्मनिर्भरता पर जोर दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने दिखाई अपनी सैन्य ताकत! जमीन के नीचे बना रखे हैं मिसाइल ठिकाने, IRGC ने खोले बड़े राज",
+          "summary": "ईरान के IRGC ने तेहरान में अपने अंडरग्राउंड मिसाइल ठिकानों की जानकारी साझा की। यह प्रेस ब्रीफिंग उनकी क्षेत्रीय रक्षा क्षमताओं और तकनीकी आत्मनिर्भरता पर केंद्रित थी। Underground Missile Base: तेहरान के सरचेश्मेह कल्चरल कॉम्प्लेक्स में आयोजित एक प्रेस ब्रीफिंग में शनिवार को इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) एयरोस्पेस फोर्स ने अपना विशेष स्मृति सप्ताह मनाया। इस दौरान उन्होंने देश की तकनीकी उपलब्धियों, क्षेत्रीय रक्षा क्षमताओं और सैन्य आत्मनिर्भरता पर जोर दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका-यूक्रेन से बातचीत के लिए रूस ने उतारी बड़ी टीम, पुतिन के करीबी मेदिंस्की और सैन्य खुफिया",
+      "url": "https://www.patrika.com/world-news/russia-ukraine-trilateral-talks-abu-dhabi-21035984",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-07T09:03:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/russiaukrainenews.webp",
+      "summary": "रूस ने यूक्रेन युद्ध समाधान के लिए त्रिपक्षीय बातचीत में अपने प्रतिनिधिमंडल को मजबूत किया है। पुतिन के करीबी मेदिंस्की और सैन्य खुफिया अधिकारियों को इस टीम में शामिल किया गया है। यूक्रेन युद्ध को खत्म करने के लिए होने वाली आगामी त्रिपक्षीय बातचीत से पहले रूस ने अपने प्रतिनिधिमंडल में बड़े अधिकारियों को शामिल किया है। अमेरिका-यूक्रेन से बातचीत के लिए रूस ने उतारी बड़ी टीम, पुतिन के करीबी मेदिंस्की और सैन्य खुफिया।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका-यूक्रेन से बातचीत के लिए रूस ने उतारी बड़ी टीम, पुतिन के करीबी मेदिंस्की और सैन्य खुफिया",
+          "summary": "रूस ने यूक्रेन युद्ध समाधान के लिए त्रिपक्षीय बातचीत में अपने प्रतिनिधिमंडल को मजबूत किया है। पुतिन के करीबी मेदिंस्की और सैन्य खुफिया अधिकारियों को इस टीम में शामिल किया गया है। यूक्रेन युद्ध को खत्म करने के लिए होने वाली आगामी त्रिपक्षीय बातचीत से पहले रूस ने अपने प्रतिनिधिमंडल में बड़े अधिकारियों को शामिल किया है। अमेरिका-यूक्रेन से बातचीत के लिए रूस ने उतारी बड़ी टीम, पुतिन के करीबी मेदिंस्की और सैन्य खुफिया।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "अगले 48 घंटे में दबे पांव आएगा तूफान सेमपाका, अचानक लेगा 108 की स्पीड, इन इलाकों में अलर्ट जारी",
+      "url": "https://hindi.news18.com/world/rest-of-world-typhoon-cempaka-hits-with-108-kmph-winds-heavy-rain-alert-for-next-48-hours-mausam-update-today-10970267.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-07T08:53:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Typhoon-Kyle-2026-11-ed5013a64c15df1f209e1bde209a157a-1200x800.jpg",
+      "summary": "प्रशांत महासागर में मारियाना द्वीप के पास तूफान सेमपाका ने गति बढ़ाई है। अगले 48 घंटों में इसकी रफ्तार 108 किलोमीटर प्रति घंटा तक पहुंचेगी। ओगासावारा क्षेत्र में भारी बारिश और बिजली कटौती का खतरा बना हुआ है। प्रशासन ने हाई अलर्ट जारी कर लोगों को सतर्क रहने की सलाह दी है। प्रशांत महासागर में मारियाना द्वीप के पास 'टाइफून सेमपाका' नाम का खतरनाक चक्रवाती तूफान आ गया है.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "राजस्थान हाईकोर्ट के नाम से फर्जी जमानत आदेश: अदालत सख्त, डीएसपी के नेतृत्व में एसआईटी गठित करने के",
-          "summary": "राजस्थान हाईकोर्ट ने अपने नाम से फर्जी जमानत आदेश बनाने के मामले में डीएसपी स्तरीय अधिकारी के नेतृत्व में एसआईटी गठित करने का निर्देश दिया है। टीम साइबर क्राइम विशेषज्ञों की सहायता से जांच करेगी। राजस्थान हाईकोर्ट ने अपने नाम से फर्जी जमानत आदेश तैयार करने के कथित मामले में एसआईटी जांच के निर्देश दिए हैं। डीएसपी स्तर के अधिकारी के नेतृत्व में गठित होने वाली टीम साइबर क्राइम विशेषज्ञों की मदद से जांच करेगी।",
+          "title": "अगले 48 घंटे में दबे पांव आएगा तूफान सेमपाका, अचानक लेगा 108 की स्पीड, इन इलाकों में अलर्ट जारी",
+          "summary": "प्रशांत महासागर में मारियाना द्वीप के पास तूफान सेमपाका ने गति बढ़ाई है। अगले 48 घंटों में इसकी रफ्तार 108 किलोमीटर प्रति घंटा तक पहुंचेगी। ओगासावारा क्षेत्र में भारी बारिश और बिजली कटौती का खतरा बना हुआ है। प्रशासन ने हाई अलर्ट जारी कर लोगों को सतर्क रहने की सलाह दी है। प्रशांत महासागर में मारियाना द्वीप के पास 'टाइफून सेमपाका' नाम का खतरनाक चक्रवाती तूफान आ गया है.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "अधिकारों को लेकर मतभेद के बीच ओटीटी पर रिलीज होगी फिल्म, कब देख सकेंगे नीम करोली बाबा की बायोपिक?",
-      "url": "https://www.amarujala.com/entertainment/hanuman-ansh-ott-release-date-and-details-released-by-makers-on-social-media-2026-11-07",
-      "source": "Amar Ujala Breaking",
+      "title": "नेतन्याहू के सामने सत्ता बचाने की चुनौती, विरोधी खेमे ने जुटाए 67 सांसद, राष्ट्रपति किसे देंगे मौका?",
+      "url": "https://hindi.news18.com/world/middle-east-israel-government-formation-netanyahu-gadi-eisenkot-president-herzog-decision-10970390.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-07T07:16:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/23/hanamana-asha_3e7f8f04810a18b7f19ddca6bfa684cd.jpeg?w=1200&dpr=1.0",
-      "summary": "फिल्म हनुमान अंश जल्द ओटीटी प्लेटफॉर्म पर रिलीज होगी। मेकर्स ने इसकी जानकारी सोशल मीडिया पर साझा की है। निर्माताओं के बीच विवाद की खबरों के बीच यह रिलीज हो रही है। फिल्म ‘हनुमान अंश’ जल्द ओटीटी पर स्ट्रीम होने तैयार है। फिल्म के मेकर्स ने इसकी जानकारी सोशल मीडिया पर शेयर की। वहीं फिल्म के निर्माताओं के बीच भी विवाद की खबरें मिल रही हैं।",
-      "region": "World",
+      "published_at": "2026-11-07T08:27:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/israel-11-2026-11-b3a7b0ae2bdfc47dad2701ff15c94375-1200x800.jpg",
+      "summary": "इजरायल में नई सरकार गठन के लिए राष्ट्रपति इसाक हर्जोग रविवार को फैसला लेंगे। बेंजामिन नेतन्याहू और गादी आइजेनकोट के बीच मुकाबला जारी है। आइजेनकोट को 67 सांसदों का समर्थन मिला है। हालांकि अरब पार्टियों को शामिल करने पर उनकी असहमति बड़ी चुनौती बनी हुई है। इजरायल में नई सरकार के गठन को लेकर प्रधानमंत्री बेंजामिन नेतन्याहू और पूर्व सेना प्रमुख गादी आइजेनकोट के बीच मुकाबला जारी है.",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अधिकारों को लेकर मतभेद के बीच ओटीटी पर रिलीज होगी फिल्म, कब देख सकेंगे नीम करोली बाबा की बायोपिक?",
-          "summary": "फिल्म हनुमान अंश जल्द ओटीटी प्लेटफॉर्म पर रिलीज होगी। मेकर्स ने इसकी जानकारी सोशल मीडिया पर साझा की है। निर्माताओं के बीच विवाद की खबरों के बीच यह रिलीज हो रही है। फिल्म ‘हनुमान अंश’ जल्द ओटीटी पर स्ट्रीम होने तैयार है। फिल्म के मेकर्स ने इसकी जानकारी सोशल मीडिया पर शेयर की। वहीं फिल्म के निर्माताओं के बीच भी विवाद की खबरें मिल रही हैं।",
-          "region": "दुनिया"
+          "title": "नेतन्याहू के सामने सत्ता बचाने की चुनौती, विरोधी खेमे ने जुटाए 67 सांसद, राष्ट्रपति किसे देंगे मौका?",
+          "summary": "इजरायल में नई सरकार गठन के लिए राष्ट्रपति इसाक हर्जोग रविवार को फैसला लेंगे। बेंजामिन नेतन्याहू और गादी आइजेनकोट के बीच मुकाबला जारी है। आइजेनकोट को 67 सांसदों का समर्थन मिला है। हालांकि अरब पार्टियों को शामिल करने पर उनकी असहमति बड़ी चुनौती बनी हुई है। इजरायल में नई सरकार के गठन को लेकर प्रधानमंत्री बेंजामिन नेतन्याहू और पूर्व सेना प्रमुख गादी आइजेनकोट के बीच मुकाबला जारी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "चार साल की हुईं आलिया-रणबीर की लाडली, अभिनेत्री ने दिखाई सेलिब्रेशन की अनदेखी तस्वीरें",
-      "url": "https://www.amarujala.com/entertainment/raha-birthday-alia-bhatt-shared-celebration-inside-photos-with-ranbir-kapoor-2026-11-07",
-      "source": "Amar Ujala National",
+      "title": "ढाका में हिंदू महिला को घर में घुसकर पीटने का आरोप, पुलिस पर शिकायत नहीं लिखने का दावा",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-dhaka-hindu-woman-assault-police-refused-to-register-complaint-10970392.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-07T07:13:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/raha_b5dc45f65f5106846d1ec8d61ae0315f.jpeg?w=1200&dpr=1.0",
-      "summary": "आलिया भट्ट और रणबीर कपूर ने अपनी बेटी राहा का चौथा जन्मदिन मनाया। बच्ची का जन्म 6 नवंबर 2022 को हुआ था। कपल ने सादगी के साथ इस अवसर का जश्न मनाया। आलिया और रणबीर की बेटी का जन्म 6 नवंबर, 2022 को हुआ था। बीते दिन दोनों ने अपनी लाडली का चौथा जन्मदिन सेलिब्रेट किया। कपल ने बेहद ही सादगी के साथ राहा का बर्थडे सेलिब्रेट किया।",
-      "region": "World",
+      "published_at": "2026-11-07T08:14:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-12-2026-11-1847d32ed88ce98a9312ca2fef3fe6e4-1200x800.jpg",
+      "summary": "बांग्लादेश की राजधानी ढाका में हिंदू महिला के साथ कथित हिंसा का मामला सामने आया है। आरोप है कि BNP से जुड़े लोगों ने घर में घुसकर उसे पीटा। पुलिस पर शिकायत दर्ज न करने का भी आरोप लगा है। इससे पहले दीपु चंद्र दास की हत्या ने अल्पसंख्यकों की सुरक्षा पर सवाल खड़े किए थे। बांग्लादेश की राजधानी ढाका में हिंदू महिला के साथ कथित बर्बरता का मामला सोशल मीडिया पर वायरल है.",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चार साल की हुईं आलिया-रणबीर की लाडली, अभिनेत्री ने दिखाई सेलिब्रेशन की अनदेखी तस्वीरें",
-          "summary": "आलिया भट्ट और रणबीर कपूर ने अपनी बेटी राहा का चौथा जन्मदिन मनाया। बच्ची का जन्म 6 नवंबर 2022 को हुआ था। कपल ने सादगी के साथ इस अवसर का जश्न मनाया। आलिया और रणबीर की बेटी का जन्म 6 नवंबर, 2022 को हुआ था। बीते दिन दोनों ने अपनी लाडली का चौथा जन्मदिन सेलिब्रेट किया। कपल ने बेहद ही सादगी के साथ राहा का बर्थडे सेलिब्रेट किया।",
-          "region": "दुनिया"
+          "title": "ढाका में हिंदू महिला को घर में घुसकर पीटने का आरोप, पुलिस पर शिकायत नहीं लिखने का दावा",
+          "summary": "बांग्लादेश की राजधानी ढाका में हिंदू महिला के साथ कथित हिंसा का मामला सामने आया है। आरोप है कि BNP से जुड़े लोगों ने घर में घुसकर उसे पीटा। पुलिस पर शिकायत दर्ज न करने का भी आरोप लगा है। इससे पहले दीपु चंद्र दास की हत्या ने अल्पसंख्यकों की सुरक्षा पर सवाल खड़े किए थे। बांग्लादेश की राजधानी ढाका में हिंदू महिला के साथ कथित बर्बरता का मामला सोशल मीडिया पर वायरल है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "समंदर की गोद छोड़ मौत के किनारे पहुंचीं 43 व्हेल, न्यूजीलैंड के तट पर क्यों बिछ गईं लाशें?",
+      "url": "https://hindi.news18.com/world/rest-of-world-new-zealand-pilot-whale-mass-stranding-43-whales-dead-ngawi-coast-photogallery-10970266.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-07T08:06:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/whale-1-2026-11-e1566c41712782b490e91e2a61004681-1200x800.jpg",
+      "summary": "न्यूजीलैंड के नगावी तट पर 43 पायलट व्हेल मरी हुईं। बचावकर्मियों ने उन्हें समुद्र में वापस भेजने की कोशिश की, लेकिन सफलता नहीं मिली। वैज्ञानिकों के अनुसार ये सामाजिक जीव हैं। एक व्हेल के रास्ता भटकने पर पूरा झुंड उसके पीछे चला गया और तट पर फंस गया। न्यूजीलैंड के नॉर्थ आइलैंड के नगावी तट पर पायलट व्हेल के एक झुंड के फंसने से 43 की मौत हो गई.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "समंदर की गोद छोड़ मौत के किनारे पहुंचीं 43 व्हेल, न्यूजीलैंड के तट पर क्यों बिछ गईं लाशें?",
+          "summary": "न्यूजीलैंड के नगावी तट पर 43 पायलट व्हेल मरी हुईं। बचावकर्मियों ने उन्हें समुद्र में वापस भेजने की कोशिश की, लेकिन सफलता नहीं मिली। वैज्ञानिकों के अनुसार ये सामाजिक जीव हैं। एक व्हेल के रास्ता भटकने पर पूरा झुंड उसके पीछे चला गया और तट पर फंस गया। न्यूजीलैंड के नॉर्थ आइलैंड के नगावी तट पर पायलट व्हेल के एक झुंड के फंसने से 43 की मौत हो गई.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -488,42 +596,6 @@
       }
     },
     {
-      "title": "'सब सांविधानिक रूप से किया गया': आपातकाल पर सोनिया ने किया इंदिरा गांधी का बचाव, मोदी सरकार पर लगाए",
-      "url": "https://www.amarujala.com/india-news/sonia-gandhi-on-emergency-indira-gandhi-targets-bjp-democracy-institutions-damage-memoir-belonging-launch-2026-11-07",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-07T06:38:08+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/sonia-gandhi_cba501ab9efe6c62252161e9bcb93173.jpeg?w=1200&dpr=1.0",
-      "summary": "सोनिया गांधी ने अपनी पुस्तक लॉन्चिंग में इंदिरा गांधी के आपातकाल को संवैधानिक बताया। उन्होंने मोदी सरकार पर लोकतांत्रिक संस्थाओं को क्षति पहुँचाने का आरोप लगाया। 'सब सांविधानिक रूप से किया गया': आपातकाल पर सोनिया ने किया इंदिरा गांधी का बचाव, मोदी सरकार पर लगाए क्या आरोप?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'सब सांविधानिक रूप से किया गया': आपातकाल पर सोनिया ने किया इंदिरा गांधी का बचाव, मोदी सरकार पर लगाए",
-          "summary": "सोनिया गांधी ने अपनी पुस्तक लॉन्चिंग में इंदिरा गांधी के आपातकाल को संवैधानिक बताया। उन्होंने मोदी सरकार पर लोकतांत्रिक संस्थाओं को क्षति पहुँचाने का आरोप लगाया। 'सब सांविधानिक रूप से किया गया': आपातकाल पर सोनिया ने किया इंदिरा गांधी का बचाव, मोदी सरकार पर लगाए क्या आरोप?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "दिल्ली की जहरीली हवा पर सियासी सवाल: शशि थरूर बोले- मिलकर बनाएं ठोस योजना; सरकारों की इच्छाशक्ति पर",
-      "url": "https://www.amarujala.com/india-news/shashi-tharoor-calls-for-joint-action-by-centre-and-states-to-tackle-delhi-air-pollution-2026-11-07",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-07T06:35:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/shasha-thanprra-kagarasa-sasatha_8575faed46e3b994e0d314fcacb8ab9e.jpeg?w=1200&dpr=1.0",
-      "summary": "शशि थरूर ने दिल्ली की वायु प्रदूषण समस्या के लिए केंद्र और राज्यों की संयुक्त योजना की मांग की। उन्होंने दोनों स्तरों की सरकारों की कमजोर इच्छाशक्ति पर सवाल उठाया। दिल्ली की जहरीली हवा पर सियासी सवाल: शशि थरूर बोले- मिलकर बनाएं ठोस योजना; सरकारों की इच्छाशक्ति पर।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिल्ली की जहरीली हवा पर सियासी सवाल: शशि थरूर बोले- मिलकर बनाएं ठोस योजना; सरकारों की इच्छाशक्ति पर",
-          "summary": "शशि थरूर ने दिल्ली की वायु प्रदूषण समस्या के लिए केंद्र और राज्यों की संयुक्त योजना की मांग की। उन्होंने दोनों स्तरों की सरकारों की कमजोर इच्छाशक्ति पर सवाल उठाया। दिल्ली की जहरीली हवा पर सियासी सवाल: शशि थरूर बोले- मिलकर बनाएं ठोस योजना; सरकारों की इच्छाशक्ति पर।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
       "title": "लाल सागर के किनारे बनी 'फ्लोटिंग मस्जिद' पहुंचे किरेन रिजिजू, हज 2027 के लिए भारत की तैयारी तेज",
       "url": "https://hindi.news18.com/world/middle-east-kiren-rijiju-saudi-arabia-visit-jeddah-floating-mosque-hajj-2027-10969959.html",
       "source": "News18 Hindi (World)",
@@ -538,42 +610,6 @@
           "title": "लाल सागर के किनारे बनी 'फ्लोटिंग मस्जिद' पहुंचे किरेन रिजिजू, हज 2027 के लिए भारत की तैयारी तेज",
           "summary": "किरेन रिजिजू ने जेद्दा में अल-रहमा मस्जिद का दौरा किया। वे हज 2027 सम्मेलन में भाग लेंगे और भारत-सऊदी हज समझौते पर बात करेंगे। केंद्रीय संसदीय एवं अल्पसंख्यक मामलों के मंत्री किरेन रिजिजू सऊदी अरब के दौरे पर हैं. उन्होंने जेद्दा की मशहूर अल-रहमा मस्जिद का दौरा किया, जिसे फ्लोटिंग मस्जिद भी कहा जाता है. रिजिजू छठे हज सम्मेलन और प्रदर्शनी 2027 में शामिल होंगे और भारत-सऊदी अरब के बीच द्विपक्षीय हज समझौते की प्रक्रिया में हिस्सा लेंगे.",
           "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "मोदीनगर में दर्दनाक हादसा, निर्माणाधीन मकान की शटरिंग गिरी, छह मजदूर दबे; एक की हुई मौत",
-      "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/shuttering-collapses-at-a-house-under-construction-in-modinagar-2026-11-07",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-07T06:14:11+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/naramanaethhana-makana-ka-shataraga-gara_2fd110919e1a6fc171269abce51f6875.jpeg?w=1200&dpr=1.0",
-      "summary": "मोदीनगर के सीकरी खुर्द गाँव में निर्माणाधीन मकान की शटरिंग गिर गई। छह मजदूर दब गए और एक की मौत हो गई। मोदीनगर में एक निर्माणाधीन मकान की शटरिंग गिरने से हड़कंप मच गया। मोदीनगर के गांव सीकरी खुर्द की घटना है। मोदीनगर में दर्दनाक हादसा, निर्माणाधीन मकान की शटरिंग गिरी, छह मजदूर दबे; एक की हुई मौत।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मोदीनगर में दर्दनाक हादसा, निर्माणाधीन मकान की शटरिंग गिरी, छह मजदूर दबे; एक की हुई मौत",
-          "summary": "मोदीनगर के सीकरी खुर्द गाँव में निर्माणाधीन मकान की शटरिंग गिर गई। छह मजदूर दब गए और एक की मौत हो गई। मोदीनगर में एक निर्माणाधीन मकान की शटरिंग गिरने से हड़कंप मच गया। मोदीनगर के गांव सीकरी खुर्द की घटना है। मोदीनगर में दर्दनाक हादसा, निर्माणाधीन मकान की शटरिंग गिरी, छह मजदूर दबे; एक की हुई मौत।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पुलिस चौकी में ब्लास्ट के पीछे किसका हाथ? इस संगठन ने ली जिम्मेदारी",
-      "url": "https://www.amarujala.com/delhi-ncr/ghaziabad/ghaziabad-police-outpost-blast-tehreek-e-mujahideen-claims-responsibility-probe-underway-2026-11-07",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-07T05:46:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/ghaziabad-blast_9d66ffe5631a2ae1458e2ece68210471.jpeg?w=1200&dpr=1.0",
-      "summary": "इंदिरापुरम की वसुंधरा पुलिस चौकी पर हुए धमाके की जिम्मेदारी 'गाजी' नाम के संगठन ने ली। कई जांच एजेंसियां इस मामले की तफ्तीश कर रही हैं। इंदिरापुरम की वसुंधरा पुलिस चौकी पर बीती रात हुए संदिग्ध धमाके के मामले में कई जांच एजेंसियां जांच में जुटी हुई है। वहीं, एक गाजी नाम से बने एक्स हैंडल पर एक पोस्ट डाली गई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पुलिस चौकी में ब्लास्ट के पीछे किसका हाथ? इस संगठन ने ली जिम्मेदारी",
-          "summary": "इंदिरापुरम की वसुंधरा पुलिस चौकी पर हुए धमाके की जिम्मेदारी 'गाजी' नाम के संगठन ने ली। कई जांच एजेंसियां इस मामले की तफ्तीश कर रही हैं। इंदिरापुरम की वसुंधरा पुलिस चौकी पर बीती रात हुए संदिग्ध धमाके के मामले में कई जांच एजेंसियां जांच में जुटी हुई है। वहीं, एक गाजी नाम से बने एक्स हैंडल पर एक पोस्ट डाली गई है।",
-          "region": "दुनिया"
         }
       }
     },
@@ -718,42 +754,6 @@
           "title": "कनाडा पुलिस ने दो लोगों पर तय किए आरोप, जल्द होगी सुनवाई; एक साल चली जांच",
           "summary": "कनाडा पुलिस ने कपिल शर्मा कैफे गोलीबारी मामले में दो लोगों पर आरोप तय किए। एक साल की जांच के बाद जल्द सुनवाई होगी। घटना सरे में हुई थी और पुलिस ने आरोपियों को गिरफ्तार कर लिया है। कनाडा पुलिस ने दो लोगों पर तय किए आरोप, जल्द होगी सुनवाई; एक साल चली जांच।",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "फ्लोरिडा में बनेगा दुनिया का सबसे बड़ा एयरोस्पेस शो, पेरिस एयर शो को भी छोड़ेगा पीछे",
-      "url": "https://www.amarujala.com/world/donald-trump-announces-world-biggest-aerospace-show-in-florida-aims-to-surpass-paris-air-show-2026-11-07",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-07T04:10:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/07/danalda-tarapa_1a26284878f1bf17c38d5fa049496467.jpeg?w=1200&dpr=1.0",
-      "summary": "डोनाल्ड ट्रंप ने फ्लोरिडा में दुनिया का सबसे बड़ा एयरोस्पेस शो आयोजित करने का ऐलान किया। इस शो का लक्ष्य पेरिस एयर शो को पीछे छोड़ना है। यह घोषणा अमेरिकी रक्षा और विमानन क्षेत्र के लिए महत्वपूर्ण कदम है। फ्लोरिडा में बनेगा दुनिया का सबसे बड़ा एयरोस्पेस शो, पेरिस एयर शो को भी छोड़ेगा पीछे।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्लोरिडा में बनेगा दुनिया का सबसे बड़ा एयरोस्पेस शो, पेरिस एयर शो को भी छोड़ेगा पीछे",
-          "summary": "डोनाल्ड ट्रंप ने फ्लोरिडा में दुनिया का सबसे बड़ा एयरोस्पेस शो आयोजित करने का ऐलान किया। इस शो का लक्ष्य पेरिस एयर शो को पीछे छोड़ना है। यह घोषणा अमेरिकी रक्षा और विमानन क्षेत्र के लिए महत्वपूर्ण कदम है। फ्लोरिडा में बनेगा दुनिया का सबसे बड़ा एयरोस्पेस शो, पेरिस एयर शो को भी छोड़ेगा पीछे।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "‘हम रूस के हाथों बंटना नहीं चाहते’, जेलेंस्की की यूरोप को चेतावनी, अबू धाबी वार्ता से पहले बड़ा बयान",
-      "url": "https://www.patrika.com/world-news/zelensky-warns-new-european-security-framework-dangerous-yalta-2-21035324",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-07T03:45:50+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Volodymyr-Zelensky.webp",
-      "summary": "वोलोदिमिर जेलेंस्की ने यूरोप को चेतावनी दी कि युद्ध समाधान पर चर्चा किए बिना नई सुरक्षा व्यवस्था खतरनाक है। उन्होंने CNN को बताया कि ट्रंप के प्रस्ताव के सभी ब्योरे उन्हें नहीं पता। यह बयान अबू धाबी वार्ता से पहले आया। Russia Ukraine War: यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने कहा कि युद्ध खत्म करने के तरीके पर चर्चा किए बिना यूरोप में नई सुरक्षा व्यवस्था की बात करना खतरनाक हो सकता है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘हम रूस के हाथों बंटना नहीं चाहते’, जेलेंस्की की यूरोप को चेतावनी, अबू धाबी वार्ता से पहले बड़ा बयान",
-          "summary": "वोलोदिमिर जेलेंस्की ने यूरोप को चेतावनी दी कि युद्ध समाधान पर चर्चा किए बिना नई सुरक्षा व्यवस्था खतरनाक है। उन्होंने CNN को बताया कि ट्रंप के प्रस्ताव के सभी ब्योरे उन्हें नहीं पता। यह बयान अबू धाबी वार्ता से पहले आया। Russia Ukraine War: यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने कहा कि युद्ध खत्म करने के तरीके पर चर्चा किए बिना यूरोप में नई सुरक्षा व्यवस्था की बात करना खतरनाक हो सकता है।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }

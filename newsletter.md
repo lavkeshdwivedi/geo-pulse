@@ -1,22 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 07, 2026 13:24 IST
+**Updated:** November 07, 2026 19:58 IST
 
 ---
 
 ## Asia-Pacific
 
-### [New Zealand election 2026 live results: Labour draws level with National as count continues in](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
-*The Guardian* - Nov 07, 13:13 IST (iso: 2026-11-07T07:43:49+00:00)
+### [New Zealand faces weeks of uncertainty with election ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)
+*The Guardian* - Nov 07, 19:18 IST (iso: 2026-11-07T13:48:18+00:00)
+<!-- image: https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593 -->
+
+New Zealand's National Party leads parliament, but no coalition has secured a majority. The country faces weeks of negotiations to form a government. Neither the right-wing bloc nor the left-wing opposition won a decisive mandate. National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by th.
+
+### [New Zealand election coalition talks will likely take weeks – as it happened](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
+*The Guardian* - Nov 07, 18:42 IST (iso: 2026-11-07T13:12:22+00:00)
 <!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
 
 New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
 
-### [Ahead of Trump-Xi meetings, US presses China on trade pledges](https://www.channelnewsasia.com/east-asia/ahead-trump-xi-meetings-us-presses-china-trade-pledges-6532561)
-*Channel News Asia* - Nov 07, 07:58 IST (iso: 2026-11-07T02:28:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--nxvW_BzT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-05T080720Z_2_LYNXNPEMA40M5_RTROPTP_3_USA-ELECTION-CHINA.JPG?itok=tTLzzscf -->
+### [Malaysia's attorney-general defends halting Najib's house arrest after king's rebuke](https://www.channelnewsasia.com/asia/malaysias-attorney-general-defends-halting-najibs-house-arrest-after-kings-rebuke-6532961)
+*Channel News Asia* - Nov 07, 15:39 IST (iso: 2026-11-07T10:09:25+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--W8-zNkVP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-06T080510Z_1_LYNXNPEMA50L6_RTROPTP_3_MALAYSIA-POLITICS-NAJIB.JPG?itok=Ys2nWbOV -->
 
-The United States pressed China to honor trade pledges before Trump-Xi meetings. Treasury Secretary Scott Bessent emphasized the need for concrete results. He raised concerns about recent Chinese actions. Progress depends on immediate compliance with existing commitments. "I emphasized the importance of China fully and immediately honouring its commitments, raised concerns about recent Chinese actions and underscored that progress depends on concrete results," Treasury Secretary Scott Bessent said in a social media post.
+Malaysia's attorney-general defended halting Najib Razak's house arrest despite the king's rebuke. He rejected treason accusations, stating he sought legal clarifications. The palace insisted the order must be implemented. Malaysia's attorney-general on Saturday (Nov 7) stood by his decision to seek legal clarifications over former Prime Minister Najib Razak's house arrest order, and rejected accusations of treason after the palace insisted it must be implemented.
 
 ### [Japan, Taiwan, China and the emerging 2028 strategic test](https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/)
 *Asia Times* - Nov 07, 05:29 IST (iso: 2026-11-06T23:59:05+00:00)
@@ -44,35 +50,13 @@ A New York federal judge temporarily blocked the deportation of dozens of Afghan
 
 ---
 
-## Global / Multilateral
-
-### [Stand on either side of escalators? Commuters reluctant to ditch 'keep left' habit in SMRT trial](https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751)
-*Channel News Asia* - Nov 07, 12:37 IST (iso: 2026-11-07T07:07:48+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Lw4eYqnX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/07/129638.jpg?itok=Q1OBflq8 -->
-
-Singapore's SMRT tested a new escalator rule at City Hall station. Commuters remained reluctant to abandon the keep left habit. Walking up the right side took twenty seconds. Standing still on the left took thirty seconds. CNA's observations at City Hall MRT station found that commuters who walked up the steps on the right took about 20 seconds to complete the ride, compared with 30 seconds for those who stood still on the left.
-
-### [Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
-*UN News* - Nov 05, 17:30 IST (iso: 2026-11-05T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg -->
-
-UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
-
----
-
 ## Europe & Russia
 
-### [Malaysia's king says Najib's conditional pardon is unambiguous, warns against disputing it](https://www.channelnewsasia.com/asia/najib-razak-pardon-house-arrest-king-warning-6532831)
-*Channel News Asia* - Nov 07, 11:33 IST (iso: 2026-11-07T06:03:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Ue2_XXvK--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-13T020644Z_1_LYNXMPEM9C055_RTROPTP_3_MALAYSIA-EGYPT.JPG?itok=cJ1UdI6V -->
+### [Trump’s hubris more comedy than tragedy but echoes Greek original](https://asiatimes.com/2026/11/trumps-hubris/)
+*Asia Times* - Nov 07, 17:23 IST (iso: 2026-11-07T11:53:38+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Marble-statue-of-Achilles-looking-at-his-heel-copy.jpg -->
 
-Malaysia's king declared Najib Razak's conditional pardon unambiguous. The royal decree followed a legal challenge from the Attorney-General's Chambers. Officials questioned the pardon's implementation. The king warned against disputing the decision. The royal decree comes a day after the Attorney-General's Chambers called for a temporary suspension of Najib Razak's house arrest, citing legal questions over the implementation of his pardon and its implications for a separate prison sentence.
-
-### [Sheila Sim on her runway return at Chanel in Sydney: ‘I represent women who have forgotten to love](https://www.channelnewsasia.com/style-beauty/sheila-sim-chanel-cruise-show-sydney-6530466)
-*Channel News Asia* - Nov 07, 07:07 IST (iso: 2026-11-07T01:37:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--wGMEIJlY--/c_crop,h_843,w_1500,x_0,y_53/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/06/chanel_cruise-202627-show-in-sydney-chanel52-ld.jpg?itok=n4cItcLS -->
-
-Singaporean model Sheila Sim returned to the runway for Chanel's Cruise 2026/27 show in Sydney. She had been away from modeling for over a decade. Sim discussed how motherhood and age reshaped her confidence. She described representing women who had forgotten to love themselves. After over a decade away from the runway, Singaporean model-actress Sheila Sim makes a memorable return at Chanel’s Cruise 2026/27 show in Sydney, Australia, reflecting on motherhood, newfound confidence and her enduring relationship with the French luxury house.
+Political analysts compare Donald Trump's recent actions to the Greek concept of hubris. They argue his excessive self-confidence mirrors historical patterns of destructive arrogance. This trend reflects a failure to accurately assess America's global power. Recently across the globe, political observers have likened the foibles and subsequent downfalls of presidents of the United States to hubris, the ancient Greek concept of destructive arrogance.
 
 ### [How Russia's War Recruitment Machine Became Big Business](https://www.rferl.org/a/russia-war-recruitment-big-business-ukraine-military/33891653.html)
 *Radio Free Europe / Liberty* - Nov 05, 20:20 IST (iso: 2026-11-05T14:50:37+00:00)
@@ -86,49 +70,15 @@ Russian military recruitment increasingly relies on private companies and interm
 
 Twenty years after journalist Anna Politikovskaya was killed, her newspaper faces crushing pressure from the Russian state. A small Ukraine cease-fire was followed by a massive attack, while a US political shift precedes new trilateral peace talks. Twenty years after investigative journalist Anna Politikovskaya was shot dead, the paper she worked for is crushed under pressure from the Russian state.
 
-### [Nations Line Up To Boycott Ice Hockey Games Against Russia](https://www.rferl.org/a/russia-hockey-ukraine-war/33890409.html)
-*Radio Free Europe / Liberty* - Nov 04, 18:55 IST (iso: 2026-11-04T13:25:42+00:00)
-<!-- image: https://gdb.rferl.org/ad1ec3ac-27ed-48f4-be90-ff410ce85a9c_cx0_cy6_cw0_w1200_h630.jpg -->
-
-Multiple nations plan to boycott ice hockey events involving Russia. They oppose a court ruling allowing Moscow to rejoin international competitions. The boycott threatens the upcoming World Championships. Countries refuse to play against Russian teams. A growing list of countries are lining up against a court decision allowing Russia to rejoin international ice hockey events, saying they will boycott any team Moscow sends, putting the World Championships next year in jeopardy.
-
----
-
-## Americas
-
-### [Paraguay president ousted and placed under house arrest, successor sworn in](https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536)
-*Channel News Asia* - Nov 07, 07:16 IST (iso: 2026-11-07T01:46:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--oKKRLIVa--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-06T230011Z_1_LYNXNPEMA523C_RTROPTP_3_PARAGUAY-POLITICS.JPG?itok=38zo2DVY -->
-
-Paraguay's Senate unanimously ousted President Santiago Peña. Lawmakers cited his links to the collapsed digital bank ueno. The bank had served nearly half the population. Peña was placed under house arrest. His successor was sworn in immediately. Santiago Peña was ousted from the presidency about an hour beforehand in a unanimous Senate vote, with lawmakers citing questions over his past links to the collapsed digital bank ueno that had provided accounts for nearly half of Paraguay's population.
-
-### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
-*The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
-<!-- image: https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf -->
-
-Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.
-
-### [Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago](https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us)
-*The Guardian* - Nov 06, 18:33 IST (iso: 2026-11-06T13:03:38+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3fe8efc901b9158f1c2cd1700fd01110a70a3ecc/1583_790_5453_4362/master/5453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5003242673b8c07058109a40fc929db -->
-
-Flávio Bolsonaro addressed the Conservative Political Action Conference at Mar-a-Lago, claiming his election loss is not the end for Brazil. The far-right politician fled to the US shortly after losing Brazil’s presidential election. He made unsubstantiated claims about election fraud while attempting to maintain political relevance. Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraudFlávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain political relevance after fleeing to the US. Bolsonaro absconded early last week shortly after losing t.
-
-### [From a ship frozen into Arctic ice, a warning to world leaders: Trust the science](https://news.un.org/feed/view/en/story/2026/11/1168751)
-*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-Tara-Polar-Station-02.jpg/image770x420cropped.jpg -->
-
-Scientists aboard a ship frozen in Arctic ice are documenting rapid environmental changes. They warn world leaders to trust climate science as sea ice retreats. Oil tankers are increasingly operating in the region, heightening the stakes for polar governance. Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.
-
-### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image770x420cropped.jpg -->
-
-COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
-
 ---
 
 ## Middle East & Africa
+
+### [Russia Strikes Kyiv's Energy Infrastructure, Northern Bridge Ahead Of Abu Dhabi Talks](https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html)
+*Radio Free Europe / Liberty* - Nov 07, 15:40 IST (iso: 2026-11-07T10:10:07+00:00)
+<!-- image: https://gdb.rferl.org/cda433c6-484c-458d-9fe1-a6dfccf8e8a5_cx0_cy5_cw0_w1200_h630.jpg -->
+
+Russia launched 172 drones and 36 missiles at Kyiv on November 7. The strikes damaged energy infrastructure, housing, and a major Dnipro River bridge. The attack occurred just before scheduled talks in Abu Dhabi. Kyiv faced widespread damage and disruptions to essential services on November 7 after Russia launched 172 attack drones and 36 ballistic missiles at the Ukrainian capital and other regions, striking energy infrastructure, residential housing, and a major bridge over the Dnipro River.
 
 ### [Iran's Isolation Closes Doors For Young People Hoping To Build A Future Abroad](https://www.rferl.org/a/iran-s-isolation-closes-doors-for-young-people-hoping-to-build-a-future-abroad/33892509.html)
 *Radio Free Europe / Liberty* - Nov 06, 23:34 IST (iso: 2026-11-06T18:04:15+00:00)
@@ -166,11 +116,61 @@ The African National Congress faces a poor result in South Africa’s local elec
 
 Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesday. The United Nations reported that the incident caused injuries and forced a humanitarian partner to leave the area. Aid teams are now preparing for incoming winter storms in the region. Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.
 
-### [Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers](https://news.un.org/feed/view/en/story/2026/11/1168737)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image560x340cropped.jpg -->
+---
 
-Many children born in Syria since 2011 lack legal identity because nationality passes only through fathers. A United Nations commission member stated that many of these fathers are dead or missing. The current legal framework effectively shuts out mothers from establishing their children's status. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
+## Americas
+
+### [After Donald Trump’s midterm poll rout, South America breathes easy as far-right feels the heat](https://www.thehindu.com/news/international/after-trumps-midterm-poll-rout-south-america-breathes-easy-as-far-right-feels-the-heat/article71673628.ece)
+*The Hindu (International)* - Nov 07, 14:38 IST (iso: 2026-11-07T09:08:32+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/m7e18g/article71673782.ece/alternates/LANDSCAPE_1200/AP11_06_2026_000002A.jpg -->
+
+A blue wave in U. S. midterms weakened President Trump's administration. This shift eased pressure on South American leaders. The fall of Santiago Pena in Chile signals the far-right is facing significant regional headwinds. Just a day after a blue wave swept across the U. S. in midterms election shaking President Donald Trump’s administration, the fall of Santiago Pena carries significance beyond the borders of the country of seven million people.
+
+### [U.S. midterm election results: Senate, House and Governor shifts before and after](https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece)
+*The Hindu (International)* - Nov 07, 13:22 IST (iso: 2026-11-07T07:52:54+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/j2s5sp/article71663845.ece/alternates/LANDSCAPE_1200/2026-11-04T030116Z_716209600_RC2QGOA7QDFN_RTRMADP_3_USA-ELECTION-GEORGIA.JPG -->
+
+Democrats secured full control of Congress in the 11 November 2026 midterm elections, flipping both the Senate and the House. The party gained net seats in key battleground states and won in traditionally Republican districts, giving it a Democrats surged to full control of Congress in the November 2026 U. S. midterm elections, flipping the Senate and House after winning net seats across key battlegrounds and sweeping into Republican strongholds.
+
+### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
+*The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
+<!-- image: https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf -->
+
+Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.
+
+### [Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago](https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us)
+*The Guardian* - Nov 06, 18:33 IST (iso: 2026-11-06T13:03:38+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3fe8efc901b9158f1c2cd1700fd01110a70a3ecc/1583_790_5453_4362/master/5453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5003242673b8c07058109a40fc929db -->
+
+Flávio Bolsonaro addressed the Conservative Political Action Conference at Mar-a-Lago, claiming his election loss is not the end for Brazil. The far-right politician fled to the US shortly after losing Brazil’s presidential election. He made unsubstantiated claims about election fraud while attempting to maintain political relevance. Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraudFlávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain political relevance after fleeing to the US. Bolsonaro absconded early last week shortly after losing t.
+
+### [From a ship frozen into Arctic ice, a warning to world leaders: Trust the science](https://news.un.org/feed/view/en/story/2026/11/1168751)
+*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-Tara-Polar-Station-02.jpg/image770x420cropped.jpg -->
+
+Scientists aboard a ship frozen in Arctic ice are documenting rapid environmental changes. They warn world leaders to trust climate science as sea ice retreats. Oil tankers are increasingly operating in the region, heightening the stakes for polar governance. Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.
+
+### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg -->
+
+COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
+
+---
+
+## Global / Multilateral
+
+### [Stand on either side of escalators? Commuters reluctant to ditch 'keep left' habit in SMRT trial](https://www.channelnewsasia.com/singapore/smrt-escalator-stand-both-sides-trial-6532751)
+*Channel News Asia* - Nov 07, 12:37 IST (iso: 2026-11-07T07:07:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Lw4eYqnX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/07/129638.jpg?itok=Q1OBflq8 -->
+
+Singapore's SMRT tested a new escalator rule at City Hall station. Commuters remained reluctant to abandon the keep left habit. Walking up the right side took twenty seconds. Standing still on the left took thirty seconds. CNA's observations at City Hall MRT station found that commuters who walked up the steps on the right took about 20 seconds to complete the ride, compared with 30 seconds for those who stood still on the left.
+
+### [Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
+*UN News* - Nov 05, 17:30 IST (iso: 2026-11-05T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg -->
+
+UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
 
 ---
 
