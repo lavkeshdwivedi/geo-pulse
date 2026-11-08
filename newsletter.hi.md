@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 08, 2026 08:24 IST
-
----
-
-## दुनिया
-
-### [सितारों से सजी निधि दत्ता की पार्टी, करीना-वरुण से लेकर शिल्पा शेट्टी ने अपने लुक से खींचा ध्यान](https://www.amarujala.com/entertainment/bollywood/nidhi-dutta-diwali-party-kareena-kapoor-shilpa-shetty-sonakshi-sinha-and-other-celebs-turn-heads-2026-11-08)
-*Amar Ujala National* - Nov 08, 08:13 IST (iso: 2026-11-08T02:43:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/nathha-thatata-ka-thaval-parata_7c04f97d3d7cbd680f8b99b4bdff71ff.jpeg?w=1200&dpr=1.0 -->
-
-जेपी दत्ता की बेटी निधि दत्ता ने मुंबई में दिवाली पार्टी का आयोजन किया। करीना कपूर, वरुण धवन और शिल्पा शेट्टी जैसे बड़े सितारों ने इस कार्यक्रम में हिस्सा लिया। दिवाली हो और बॉलीवुड सितारों की पार्टी की रौनक न दिखे, ऐसा भला कैसे हो सकता है। इन दिनों फिल्मी सितारों के बीच दिवाली पार्टियों का सिलसिला जारी है। इसी कड़ी में फिल्म निर्माता जेपी दत्ता की बेटी निधि दत्ता ने भी दिवाली पार्टी का आयोजन किया।
-
-### [तेलंगाना के सीएम का KTR पर तंज, बोले- दाढ़ी बढ़ाने से कोई रेवंत रेड्डी नहीं बनता](https://www.amarujala.com/india-news/a-fox-cannot-become-a-tiger-telangana-cm-revanth-reddy-takes-a-dig-at-ktr-2026-11-08)
-*Amar Ujala National* - Nov 08, 08:13 IST (iso: 2026-11-08T02:43:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/saema-ravata-radada-na-ktr-ka-ghara_2a87bd78bb5e9c4e9d33efc85da3ed81.jpeg?w=1200&dpr=1.0 -->
-
-तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने के. टी. आर. पर निशाना साधा। उन्होंने कहा कि दाढ़ी बढ़ाने से कोई रेवंत रेड्डी नहीं बन सकता। रेड्डी ने उन्हें लोमड़ी के रूप में भी उल्लेख किया। तेलंगाना के सीएम का KTR पर तंज, बोले- दाढ़ी बढ़ाने से कोई रेवंत रेड्डी नहीं बनता।
-
-### [लक्ष्मी-गणेश की HD तस्वीरें, सबको भेजकर कराएं शुभ दर्शन](https://www.amarujala.com/photo-gallery/lifestyle/happy-diwali-status-ganesha-lakshmi-hd-images-save-and-share-to-everyone-2026-11-08)
-*Amar Ujala National* - Nov 08, 08:13 IST (iso: 2026-11-08T02:43:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/ganesha-lakshmi-hd-image-diwali-special_957173558f6be1bd3ded6849cbb9d21c.jpeg?w=1200&dpr=1.0 -->
-
-सोशल मीडिया पर दिवाली के अवसर पर गणेश और लक्ष्मी की उच्च रिज़ॉल्यूशन तस्वीरें शेयर की जा रही हैं। लोग इन तस्वीरों को अपने प्रियजनों को भेजकर शुभकामनाएं दे रहे हैं। Ganesh Lakshmi HD Image: दिवाली के शुभ अवसर पर अपने प्रियजनों को गणेश लक्ष्मी की तस्वीर भेजकर दिन की शुरुआत करें। सोशल मीडिया पर इन तस्वीरों को आसानी ने शेयर किया जा सकता है।
-
-### [आज दिवाली पर बन रहे हैं कई शुभ संयोग, जानें पूजा मुहूर्त, विधि और मां लक्ष्मी के उपाय](https://www.amarujala.com/live/spirituality/festivals/diwali-2026-live-puja-vidhi-lakshmi-pujan-muhurat-mantra-aarti-and-wishes-city-wise-timings-photos-2026-11-08)
-*Amar Ujala National* - Nov 08, 08:12 IST (iso: 2026-11-08T02:42:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/diwali-2026-lakshmi-puja-muhurat-live-updates_6aea04ac9c16d14758f9f66db10baa43.jpeg?w=1200&dpr=1.0 -->
-
-8 नवंबर को देशभर में दिवाली मनाई जा रही है। इस दिन मां लक्ष्मी और भगवान गणेश की पूजा का विशेष महत्व माना जाता है। विभिन्न मुहूर्तों पर पूजा करने की परंपरा है। इस दिन मां लक्ष्मी और भगवान गणेश की पूजा का विशेष महत्व है। इसके प्रभाव से जीवन में सुख-समृद्धि और खुशहाली आने की मान्यताएं हैं। आज दिवाली पर बन रहे हैं कई शुभ संयोग, जानें पूजा मुहूर्त, विधि और मां लक्ष्मी के उपाय।
-
-### [आखिरी समय में लगाएं ये आसान और खूबसूरत मेहंदी, हाथों की बढ़ेगी रौनक](https://www.amarujala.com/photo-gallery/fashion/diwali-mehndi-designs-2026-10-easy-and-beautiful-designs-for-hands-2026-11-07)
-*Amar Ujala National* - Nov 08, 08:06 IST (iso: 2026-11-08T02:36:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/mehndi-design_5ac06612fe15fa56e30be86a7d97b46a.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली से पहले मेहंदी डिजाइनों की मांग बढ़ गई है। लोग आसान और खूबसूरत पैटर्न खोज रहे हैं। अरेबिक, फ्लोरल और मंडला डिजाइन इस बार लोकप्रिय हैं। Diwali Mehndi Designs 2026: कल है दिवाली और अब तक नहीं लगाई मेहंदी? देखें आसान, लेटेस्ट, अरेबिक, फ्लोरल और मंडला मेहंदी डिजाइन, जिन्हें कम समय में हाथों पर बना सकती हैं। आखिरी समय में लगाएं ये आसान और खूबसूरत मेहंदी, हाथों की बढ़ेगी रौनक।
-
-### ["हर घर में जलें राम नाम के दीप..." दीपावली पर अपनों को भेजें दिल छू लेने वाली शुभकामनाएं](https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-diwali-2026-wishes-love-messages-for-whatsapp-images-diwali-ki-shubhkamnaye-2026-11-08)
-*Amar Ujala National* - Nov 08, 08:03 IST (iso: 2026-11-08T02:33:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/happy-diwali-status_b7c813b50eec5ab128d95c27dbeec070.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली पर लोगों को शुभकामनाएं भेजने के लिए वेबसाइट पर विशेष स्टेट्स और वॉलपेपर उपलब्ध कराए गए हैं। ये सामग्री प्रभु श्रीराम के आगमन की खुशियों को दर्शाती है। Happy Diwali Status: दिवाली के शुभ अवसर पर अपने करीबियों और परिजनों को शुभकामा संदेश भेजकर प्रभु श्रीराम के आगमन की खुशियां मनाएं। यहां से आकर्षक वाॅलपेपर और स्टेट्स डाउनलोड कर सकते हैं।
-
-### [इतिहास का सबसे गर्म अक्तूबर था इस साल, वैश्विक तापमान खतरनाक स्तर पर](https://www.amarujala.com/india-news/warming-earth-this-year-saw-hottest-october-in-history-global-temperatures-reaching-dangerous-levels-2026-11-08)
-*Amar Ujala National* - Nov 08, 08:02 IST (iso: 2026-11-08T02:32:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/08/global-temperature_0dc3a0890d2ad50b33d543453cbe64c0.jpeg?w=1200&dpr=1.0 -->
-
-इस साल अक्टूबर महीने में वैश्विक तापमान इतिहास के सबसे गर्म स्तर पर पहुंच गया है। लगातार बढ़ते तापमान ने जलवायु परिवर्तन की चिंताओं को और गहरा कर दिया है। लगातार गर्म हो रही धरती: इतिहास का सबसे गर्म अक्तूबर था इस साल, वैश्विक तापमान खतरनाक स्तर पर।
-
-### ['धुरंधर' फेम सौम्या टंडन को याद आए दिवाली के वो 400 रुपये, पापा-बहन के साथ रातभर खेलती थीं गेम](https://www.amarujala.com/entertainment/saumya-tandon-exclusive-interview-dhurandhar-fame-actress-shares-childhood-memories-of-diwali-festival-2026-11-07)
-*Amar Ujala National* - Nov 08, 08:00 IST (iso: 2026-11-08T02:30:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/samaya-tadana_066343017b4576d7cefd5cac46c558c0.jpeg?w=1200&dpr=1.0 -->
-
-अभिनेत्री सौम्या टंडन ने बचपन की दिवाली की यादें साझा कीं। उन्होंने बताया कि पिता और बहन के साथ रात भर खेलने की वो शामें आज भी याद हैं। Diwali 2026: त्योहारों पर अक्सर बचपन की यादें याद आ जाया करती हैं। अभिनेत्री सौम्या टंडन को भी अपने बचपन वाली खूबसूरत दिवाली खूब याद है। रोशनी के इस पर्व पर उन्होंने यादों के खजाने से कुछ सिक्के साझा किए हैं।
-
-### [सिर्फ मिठाई और कपड़े ही नहीं: इस दिवाली अपनों को दें ये पांच काम के गैजेट्स, गिफ्ट देखते ही खिल](https://www.amarujala.com/photo-gallery/technology/tech-diary/diwali-tech-gift-guide-2026-5-gadgets-make-perfect-presents-for-your-loved-ones-2026-11-06)
-*Amar Ujala National* - Nov 08, 08:00 IST (iso: 2026-11-08T02:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/thaval-para-gafata-kara-sakata-ha-ya-gajatasa_c9c0da65bf79c99f350e8c85825be8ad.jpeg -->
-
-दिवाली के लिए मिठाई और कपड़ों के अलावा टेक गैजेट्स भी उपहार के रूप में लोकप्रिय हो रहे हैं। ये पांच काम के डिवाइस दोस्तों और परिवार के लिए एक अलग विकल्प प्रस्तुत करते हैं। अगर आप भी इस दिवाली अपने दोस्तों या किसी खास को कुछ अलग हटकर उपहार देना चाहते हैं, तो ये टेक गैजेट्स आपके लिए एक बेहतरीन विकल्प हो सकते हैं।
-
-### [पीएम मोदी ने देशवासियों को दी दीपोत्सव की बधाई, जवानों के साथ मनाएंगे त्योहार](https://www.amarujala.com/india-news/pm-modi-extends-festival-greetings-to-nation-says-diwali-wishes-to-everyone-2026-11-08)
-*Amar Ujala National* - Nov 08, 07:36 IST (iso: 2026-11-08T02:06:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/pm-modi-wishes-countrymen-a-happy-diwali-tells-with-whom-will-he-light-the-lamps-deepawali-2027_ad3c36b0bbd7fdff6eef7dfa8374c1d8.gif?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री नरेंद्र मोदी ने देशवासियों को दिवाली की बधाई दी। उन्होंने कहा कि यह पर्व अंधकार के खिलाफ संकल्प का प्रतीक है। मोदी ने घोषणा की कि वे जवानों के साथ त्योहार मनाएंगे। पीएम मोदी ने देशवासियों को दी दीपोत्सव की बधाई, जवानों के साथ मनाएंगे त्योहार।
-
-### [दिवाली पर पटाखों से गाड़ी को हुआ नुकसान, तो क्या मिलेगा इंश्योरेंस क्लेम? जानें प्रक्रिया और नियम](https://www.amarujala.com/automobiles/diwali-car-insurance-how-claim-firecracker-damage-2026-11-07)
-*Amar Ujala National* - Nov 08, 07:30 IST (iso: 2026-11-08T02:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/aatashabja-sa-vahana-ka-hae-nakasana-ka-le-eshayarasa-kalma-parasasa_f6fb37f8f4c3bd0c4aaf0df3a039e35c.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली पर पटाखों से गाड़ी को नुकसान होने पर इंश्योरेंस क्लेम मिल सकता है। प्रक्रिया और नियमों का पालन करना आवश्यक है। सही दस्तावेजों के साथ दावा दर्ज कराना चाहिए। काम की बात: दिवाली पर पटाखों से गाड़ी को हुआ नुकसान, तो क्या मिलेगा इंश्योरेंस क्लेम? जानें प्रक्रिया और नियम।
-
-### [घर पर लक्ष्मी-गणेश की पूजा कैसे करें? यहां जानें संपूर्ण पूजन विधि और मंत्र](https://www.amarujala.com/photo-gallery/spirituality/festivals/diwali-puja-vidhi-2026-lakshmi-ganesh-puja-mantra-how-to-do-diwali-puja-at-home-step-by-step-2026-11-07)
-*Amar Ujala National* - Nov 08, 07:26 IST (iso: 2026-11-08T01:56:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/diwali-2026-puja-vidhi_7b53cffc2ff23a659a2653982334d777.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली पर लक्ष्मी और गणेश की पूजा विशेष महत्व रखती है। विधि-विधान से पूजा करने पर समृद्धि की प्राप्ति होती है। शुभ दिशा और मंत्रों का पालन करना चाहिए। दीपावली का त्योहार मां लक्ष्मी और भगवान गणेश की आराधना के लिए विशेष माना जाता है। इस दिन विधि-विधान से पूजा करने पर सुख-समृद्धि की प्राप्ति होती है। आइए जानते हैं दिवाली की संपूर्ण पूजा विधि, मंत्र और शुभ दिशा।
-
-### [सुप्रीम कोर्ट के आदेश की उड़ी धज्जियां, बिक रहे हैं पटाखे, लोगों को पता नहीं... दुकानदार को परवाह](https://www.amarujala.com/delhi-ncr/delhi-supreme-court-order-flouted-firecrackers-still-being-sold-despite-expiry-of-the-permitted-period-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 06:09 IST (iso: 2026-11-08T00:39:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_bb8abe00f2c4622b49c22c97ecf69db4.jpeg?w=1200&dpr=1.0 -->
-
-सुप्रीम कोर्ट के आदेश के बावजूद पटाखों की बिक्री जारी है। कोर्ट ने बुधवार से शुक्रवार तक मोहलत दी थी। दुकानदारों को इस आदेश की परवाह नहीं है। सुप्रीम कोर्ट ने पटाखों की बिक्री के लिए बुधवार से शुक्रवार तक की मोहलत दी थी। सुप्रीम कोर्ट के आदेश की उड़ी धज्जियां, बिक रहे हैं पटाखे, लोगों को पता नहीं दुकानदार को परवाह।
-
----
-
-## अमेरिका
-
-### [कौन है डाना व्हाइट, जिन्हें प्रेस सेक्रेटरी बनाना चाहते हैं डोनाल्ड ट्रंप? 25 साल की दोस्ती, फिर भी](https://hindi.news18.com/world/america-who-is-dana-white-donald-trump-offers-press-secretory-job-in-white-house-but-not-confirmed-yet-ws-l-10971730.html)
-*News18 Hindi (World)* - Nov 08, 07:55 IST (iso: 2026-11-08T02:25:51+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/dana-white-2026-11-5a4b69725608144cb552f0c08b50a0cb-1200x800.jpg -->
-
-डोनाल्ड ट्रंप ने डाना व्हाइट को व्हाइट हाउस प्रेस सेक्रेटरी बनाने का इरादा जताया है। दोनों की पच्चीस साल पुरानी दोस्ती है, फिर भी व्हाइट ने इस पद को स्वीकार करने में जल्दबाजी नहीं दिखाई। Who is Dana White: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की गुडलिस्ट में शामिल एक और शख्स का नाम इस वक्त चर्चा में है. ये नाम डाना व्हाइट का है, जिन्हें ट्रंप व्हाइट हाउस के प्रेस सेक्रेटरी का पद देना चाहते हैं.
-
-### ['रिपब्लिकन समर्थकों को धमकाना गैरकानूनी': ट्रंप का डेमोक्रेट्कस पर निशाना, न्याय विभाग को दिए जांच](https://www.amarujala.com/world/donald-trump-accuses-democrats-of-threats-orders-doj-investigation-republican-donors-2026-11-08)
-*Amar Ujala World* - Nov 08, 07:30 IST (iso: 2026-11-08T02:00:23+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/donald-trump_d618115c37f325b02569534fc4b39057.jpeg?w=1200&dpr=1.0 -->
-
-डोनाल्ड ट्रंप ने डेमोक्रेट्स पर रिपब्लिकन समर्थकों को धमकाने का आरोप लगाया। उन्होंने इसे गैरकानूनी बताया। ट्रंप ने न्याय विभाग को जांच के आदेश दिए हैं। 'रिपब्लिकन समर्थकों को धमकाना गैरकानूनी': ट्रंप का डेमोक्रेट्कस पर निशाना, न्याय विभाग को दिए जांच।
-
-### [बैंक घोटाले ने छीनी राष्ट्रपति की कुर्सी: सैंटियागो पेना पर महाभियोग, नजरबंद हुए; पेड्रो ने संभाली](https://www.amarujala.com/world/bank-scandal-costs-president-his-seat-santiago-pena-faces-impeachment-house-arrest-pedro-takes-power-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 05:51 IST (iso: 2026-11-08T00:21:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/satayaga_1d369905e56ad6fe3e7b9444d8df570c.jpeg?w=1200&dpr=1.0 -->
-
-बैंक घोटाले के कारण सैंटियागो पेना पर महाभियोग चलाया गया। उन्हें नजरबंद कर दिया गया। पेड्रो ने अब सत्ता संभाल ली है। बैंक घोटाले ने छीनी राष्ट्रपति की कुर्सी: सैंटियागो पेना पर महाभियोग, नजरबंद हुए; पेड्रो ने संभाली।
+**अपडेट:** November 08, 2026 15:09 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [होर्मुज के पास केशम द्वीप पर धमाके, माइंस से टकराए दो तेल टैंकर; अमेरिका ने भी किया हवाई हमला](https://www.amarujala.com/world/explosions-heard-on-iran-qeshm-island-near-strait-of-hormuz-two-oil-tankers-hit-sea-mines-2026-11-08)
-*Amar Ujala World* - Nov 08, 07:26 IST (iso: 2026-11-08T01:56:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/haramaja-ma-thhamaka-sa-bugdhha-tanava_8122c43b2cd3fae84b429d56acf3e3bf.jpeg?w=1200&dpr=1.0 -->
+### [पहले SU-35 जेट, अब 90 मिसाइल लॉन्चर, ईरान को हथियार देकर अमेरिका से चुन-चुनकर बदला ले रहे पुतिन?](https://hindi.news18.com/world/middle-east-russia-iran-military-deal-90-missile-launchers-us-ukraine-war-10972490.html)
+*News18 Hindi (World)* - Nov 08, 15:07 IST (iso: 2026-11-08T09:37:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/iran-news-30-2026-11-51cce1a4afb23fbea8fdde2f7e89193f-1200x800.jpg -->
 
-होर्मुज प्रवाह के पास केशम द्वीप पर धमाके हुए। दो तेल टैंकर समुद्री माइंस से टकराए। अमेरिका ने भी हवाई हमला किया है। होर्मुज के पास केशम द्वीप पर धमाके, माइंस से टकराए दो तेल टैंकर; अमेरिका ने भी किया हवाई हमला।
+रूसी रक्षा उद्योग के दस्तावेजों के अनुसार, रूस ने ईरान को 90 मिसाइल लॉन्चर सौंपने का अनुबंध किया है। यह सौदा K-10 कोड के तहत हुआ है। यूक्रेनी समूह डलास एनालिटिक्स ने यह जानकारी साझा की है। इससे ईरान की सैन्य क्षमता बढ़ेगी। रूसी रक्षा उद्योग के आंतरिक दस्तावेजों के आधार पर दावा किया गया है कि रूस ने ईरान के लिए 90 मिसाइल लॉन्चर तैयार करने का अनुबंध किया था.
 
-### [ईरान के दक्षिणी इलाकों में फिर धमाके, केश्म से बंदर अब्बास तक गूंजे विस्फोट, क्या फिर भड़क रही है](https://hindi.news18.com/world/middle-east-explosions-heard-on-queshm-island-bandar-abbas-in-strait-of-hormuz-amid-iran-us-war-ws-l-10971686.html)
-*News18 Hindi (World)* - Nov 08, 07:01 IST (iso: 2026-11-08T01:31:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Iran-Nuclear-Attack-Impact-On-India-2026-11-359cddb76575f1feb62736e8bdb5ed65-1200x800.jpg -->
+### [सऊदी ने यमन पर किया जोरदार हमला, हूतियों का दावा- 33 की मौत, मलबे में मिले लाशों के ढेर](https://hindi.news18.com/world/middle-east-yemen-saudi-arabia-airstrike-houthi-claim-33-killed-39-injured-10972371.html)
+*News18 Hindi (World)* - Nov 08, 13:51 IST (iso: 2026-11-08T08:21:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/yemen-5-2026-11-9fe1b839080b9dd4ed73d7d1753bd5c9-1200x800.jpg -->
 
-ईरान के केश्म द्वीप और बंदर अब्बास के पास 7 अक्टूबर की रात धमाके हुए। ईरानी एजेंसी आईआरएनए ने इनकी पुष्टि की। स्थानीय मीडिया ने इसे होर्मुज जलडमरूमध्य में तनाव से जोड़ा। Explosions in Qeshm Island: ईरान-अमेरिका के बीच युद्ध में एक बार फिर से तनाव तब बढ़ गया, जब दक्षिणी ईरान के पास धमाके सुनाई दिए. 7 अक्टूबर की रात ईरान के रणनीति रूप से महत्वपूर्ण केश्म आइलैंड के पास ये धमाके सुने गए, स्ट्रेट ऑफ होर्मुज के पास मौजूद है.
+सऊदी अरब ने यमन के अल-शरियाह पर हवाई हमला किया है। हूती मीडिया के दावे के अनुसार, इसमें 33 लोगों की मौत हुई। 39 लोग घायल हुए। बचावकर्मियों ने मलबे से शव निकाले। हूतियों ने बदले की चेतावनी दी है। Saudi Arabia Attack on Yemen Airstrike: यमन के अल-शरियाह कस्बे में सऊदी अरब के हवाई हमले में महिलाओं और बच्चों समेत 33 लोगों की मौत हो गई.
 
-### [ईरान के केशम द्वीप के पास दो बड़े धमाके, ईरान बोला- माइंस से टकराए दो तेल टैंकर हुए तबाह](https://www.patrika.com/world-news/hormuz-strait-explosions-qeshm-island-iran-tankers-mines-21036684)
-*Patrika (World)* - Nov 08, 07:00 IST (iso: 2026-11-08T01:30:57+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/oil-tanker-explosion_.webp -->
+### [जिसका डर था वही हुआ, चीन निकला असली 'खलनायक', हूतियों को बेच रहा सऊदी अरब को तबाह करने का सामान](https://hindi.news18.com/world/middle-east-chinese-missile-parts-traced-to-houthi-networks-sparking-security-concerns-in-saudi-arabia-iran-war-10972301.html)
+*News18 Hindi (World)* - Nov 08, 13:11 IST (iso: 2026-11-08T07:41:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/houthi-2026-11-43fe9fead2727663c10b734fc3d7a7c5-1200x800.jpg -->
 
-केश्म द्वीप और जास्क बंदरगाह के पास रविवार तड़के दो बड़े धमाके हुए। ईरान ने कहा कि दो तेल टैंकर माइंस से टकराकर तबाह हो गए। अल जजीरा ने इन घटनाओं को होर्मुज में जारी गतिविधियों से जोड़ा। ईरान के रणनीतिक तटीय इलाकों के पास एक के बाद एक दो बड़े धमाकों की आवाज सुनाई दी। ईरानी न्यूज एजेंसी ने बताया कि केशम द्वीप और जास्क बंदरगाह के पास रविवार तड़के दो धमाकों की आवाज सुनाई दी।
+सऊदी अरब ने हूती समूह को चीन निर्मित मिसाइलें बेचने का आरोप लगाया। यह हथियार सऊदी की तबाही के लिए उपयोग किए जा रहे हैं। मध्य पूर्व में तनाव बढ़ने का यह नया कारण सामने आया है। जिसका डर था वही हुआ, चीन निकला असली 'खलनायक', हूतियों को बेच रहा सऊदी अरब को तबाह करने का सामान।
 
-### [इस्राइल में सरकार गठन की पहल: राष्ट्रपति की हरी झंडी पर गादी क्या बोले? पूर्व सेनाध्यक्ष सबकुछ](https://www.amarujala.com/world/move-towards-government-formation-in-israel-what-did-gantz-say-following-the-president-s-green-light-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 06:55 IST (iso: 2026-11-08T01:25:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/rashhatarapata-isaka-harajaga-na-vapakashha-nata-oura-yashara-parata-ka-paramakha-gatha-aaijanakata_03a7e9382190279a0f4c05ec54b1aa6b.jpeg?w=1200&dpr=1.0 -->
+### [हूतियों ने ठोके सऊदी के 6 ठिकाने, अरामको तेल फैसिलिटी समेत रियाद एयरपोर्ट पर भी हमले](https://hindi.news18.com/world/middle-east-houthis-claim-6-attacks-on-saudi-arabia-aramco-facilities-riyadh-airport-again-on-target-10972284.html)
+*News18 Hindi (World)* - Nov 08, 12:53 IST (iso: 2026-11-08T07:23:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-Missile-Attack-2026-10-7ebe1383b9d6a0b883dc3435b44bd9c3-1200x800.jpg -->
 
-इस्राइल के राष्ट्रपति ने सरकार गठन के लिए हरी झंडी दे दी है। पूर्व सेनाध्यक्ष बेंजामिन गादी अब इस प्रक्रिया में शामिल हो रहे हैं। यह चरण नई सरकार बनाने की दिशा में महत्वपूर्ण कदम माना जा रहा है। इस्राइल में सरकार गठन की पहल: राष्ट्रपति की हरी झंडी पर गादी क्या बोले? पूर्व सेनाध्यक्ष सबकुछ।
+यमन के हूती विद्रोहियों ने सऊदी अरब के छह ठिकानों पर हमले किए। अरामको तेल सुविधा और रियाद हवाई अड्डे को भी निशाना बनाया गया। Houthi Attack on Saudi Arabia: एक बार फिर से हूतियों ने सऊदी अरब के सैन्य ठिकानों को निशाना बनाया है. उन्होंने सऊदी की महत्वपूर्ण ऑयल फैसिलिटी अरामको समेत अलग-अलग अड्डों पर हमले किए हैं. एक बार फिर से रियाद हवाई अड्डे पर भी हूती विद्रोहियों ने निशाना साधा है.
 
-### [इजरायल में 'नेतन्याहू युग' का अंत? गैडी आइजेनकोट को सरकार बनाने का न्योता, 28 दिन के सियासी संग्राम](https://hindi.news18.com/world/middle-east-israel-political-twist-benjamin-netanyahu-loses-mandate-gadi-eisenkot-gets-president-invite-10971614.html)
-*News18 Hindi (World)* - Nov 08, 05:48 IST (iso: 2026-11-08T00:18:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Israel-2026-11-0d6616f9027c6ea785e20f8a8b585752-1200x800.jpg -->
+### [अमेरिका को ईरान की दोटूक! बोला- हमला किया तो इतनी कीमत चुकानी होगी कि दोबारा हिम्मत नहीं करेगा](https://www.patrika.com/world-news/iran-navy-warns-us-forces-cost-of-aggression-mohsen-razzaqi-21036917)
+*Patrika (World)* - Nov 08, 12:47 IST (iso: 2026-11-08T07:17:08+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Middle-East-Conflict-2.webp -->
 
-बेंजामिन नेतन्याहू को अपनी गद्दी छोड़नी पड़ेगी। गैडी आइजेनकोट को सरकार बनाने का न्योता दिया गया है। यह बदलाव ईरान युद्ध पर भी असर डाल सकता है। ये पश्चिम एशिया और दुनिया की राजनीति की एक बड़ी घटना है क्योंकि इससे खाड़ी में चल रहे ईरान युद्ध पर भी असर पड़ सकता है. चलिए पहले जानते हैं कि आखिर ये नाटकीय सियासी ड्रामा कैसे खत्म हुआ.
+ईरान के उत्तरी बेड़े के कमांडर ने अमेरिकी सेना को चेतावनी दी। उन्होंने कहा कि नौसैनिक इकाइयां समुद्री सीमाओं की रक्षा के लिए चौबीसों घंटे तैयार हैं। Iran Navy Warning US: ईरान के उत्तरी बेड़े के कमांडर रियर एडमिरल मोहसेन रज्जाकी ने क्षेत्र में मौजूद अमेरिकी सेनाओं को चेतावनी दी है। उन्होंने कहा कि ईरान के सशस्त्र बलों के बीच समन्वय अपने उच्चतम स्तर पर है, और नौसैनिक इकाइयां समुद्री सीमाओं की रक्षा के लिए चौबीसों घंटे तैयार हैं।
+
+### [नेतन्याहू के साथ किया काम, फिर क्यों बने सियासी विरोधी; युद्ध में खो चुके हैं बेटा](https://www.amarujala.com/world/who-is-gadi-eisenkot-netanyahu-main-challenger-israel-election-may-become-first-mizrahi-pm-lost-son-in-war-2026-11-08)
+*Amar Ujala World* - Nov 08, 12:06 IST (iso: 2026-11-08T06:36:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/gadi-eisenkot_ee773f1cc2335c2c29e860d39b034be4.jpeg?w=1200&dpr=1.0 -->
+
+गैडी आइजेनकोट इज़राइल के प्रधानमंत्री नेतन्याहू के प्रमुख विरोधी हैं। वे युद्ध में अपने पुत्र को खो चुके हैं और पहली बार मिजराही पीएम बनने के उम्मीदवार हैं। नेतन्याहू के साथ किया काम, फिर क्यों बने सियासी विरोधी; युद्ध में खो चुके हैं बेटा।
+
+### [विदेश मंत्री अल-जोबा बोलीं- आतंकी नेटवर्क पर मिलकर कसें लगाम](https://www.patrika.com/world-news/yemen-urges-lebanon-stop-hezbollah-military-support-houthis-21036783)
+*Patrika (World)* - Nov 08, 10:18 IST (iso: 2026-11-08T04:48:30+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Yemen-foreign-minister-1.webp -->
+
+यमन ने लेबनान से हिजबुल्लाह की हूथी सैन्य सहायता रोकने का आह्वान किया। विदेश मंत्री ने लेबनान के संप्रभु अधिकारों का समर्थन भी जताया। Yemen Lebanon Hezbollah: यमन ने लेबनान सरकार से आह्वान किया है कि वह हिजबुल्लाह द्वारा हूथी मिलिशिया को दी जा रही सैन्य सहायता को रोकने के लिए ठोस और निर्णायक कदम उठाए। साथ ही, यमन ने अपने क्षेत्र और हथियारों पर लेबनान के संप्रभु अधिकार का पुरजोर समर्थन किया है।
+
+### [यमन में फिर तेज हुई जंग: सऊदी अरब के सना में हवाई हमलों से मची तबाही, 33 लोगों की मौत; 13 बच्चे भी](https://www.amarujala.com/world/saudi-airstrikes-yemen-sanaa-33-killed-13-children-houthi-claim-2026-11-08)
+*Amar Ujala World* - Nov 08, 09:04 IST (iso: 2026-11-08T03:34:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/yemen_531ae9c5a472fc0377feab9543a1f60c.jpeg?w=1200&dpr=1.0 -->
+
+सऊदी अरब के सना में हवाई हमलों से 33 लोगों की मौत हुई। मृतकों में 13 बच्चे शामिल थे। हूथी ने हमले की जिम्मेदारी ली। यमन में फिर तेज हुई जंग: सऊदी अरब के सना में हवाई हमलों से मची तबाही, 33 लोगों की मौत; 13 बच्चे भी।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [सुबह-सुबह डोल गई धरती, गिरते-पड़ते घरों से भागे लोग, 6 तीव्रता के भूकंप ने 22 लोगों को किया जख्मी](https://hindi.news18.com/world/rest-of-world-earthquake-magnitude-5-7-jolts-japan-leaving-many-injured-tremors-continues-tsunami-alert-10971624.html)
-*News18 Hindi (World)* - Nov 08, 06:32 IST (iso: 2026-11-08T01:02:45+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Earthquake_tSunami-alert-2026-07-8bd65ce582c4368ce750792cfa0e05c2-1200x800.jpg -->
+### [पाकिस्तान को याद आई शांति, भारत से बातचीत के लिए बढ़ाया हाथ, बोला- युद्ध समस्या का हल नहीं](https://hindi.news18.com/world/pakistan-minister-azam-nazeer-tarar-india-talks-indus-water-treaty-terrorism-10972429.html)
+*News18 Hindi (World)* - Nov 08, 14:15 IST (iso: 2026-11-08T08:45:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Senator-Azam-Nazeer-Tarar-2026-11-509ac4ea9bbe9f2614f482f3deccfc26-1200x800.jpg -->
 
-जापान में 5.7 तीव्रता का भूकंप आया। इससे 22 लोग जख्मी हुए और कई घरों की खिड़कियां टूट गईं। लोग तेज झटकों के कारण घरों से बाहर भागते हुए चोटिल हुए। 5.7 Magnitude Earthquake Jolts Japan: जहां भारत में लोग दीपावली के त्योहार की खुशी के साथ जागे वहीं जापान में आज की सुबह भूकंप के झटकों के साथ हुई.
+पाकिस्तान के कानून मंत्री आजम नजीर तरार ने भारत से बातचीत की वकालत की है। उन्होंने कहा कि युद्ध से विवाद नहीं सुलझते। तरार ने सिंधु जल संधि, आतंकवाद और कश्मीर पर संवाद की जरूरत बताई। दोनों देशों को स्थायी समाधान के लिए बैठना चाहिए। पाकिस्तान के कानून एवं न्याय मंत्री आजम नजीर तरार ने भारत के साथ बातचीत की जरूरत बताई है.
 
-### [5.7 तीव्रता के भूकंप में 22 घायल, घरों की खिड़कियां टूटीं; राजधानी टोक्यो में कितना असर?](https://www.amarujala.com/world/japan-earthquake-richter-scale-magnitude-casualties-rescue-central-japan-meteorological-agency-usgs-updates-2026-11-08)
-*Amar Ujala World* - Nov 08, 06:29 IST (iso: 2026-11-08T00:59:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/18/bhakapa_d100e4e5fef7c95c7372002281edca2a.jpeg?w=1200&dpr=1.0 -->
+### [रहस्यों से भरे हैं ये पहाड़, गिरगिट की तरह बदलते हैं रंग, चुंबक की तरह खींच लेता है कुदरती तिलिस्म](https://hindi.news18.com/world/china-mysterious-rainbow-mountains-dragging-tourists-science-behing-rainbow-mountains-amazing-places-on-earth-photogallery-10972343.html)
+*News18 Hindi (World)* - Nov 08, 13:26 IST (iso: 2026-11-08T07:56:22+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/mount-rainbow-7-2026-11-7f97e17e978e1e66b94fc4b701f2abaf-1200x800.jpg -->
 
-जापान में 5.7 तीव्रता के भूकंप से 22 लोग घायल हुए। राजधानी टोक्यो सहित कई इलाकों में झटके महसूस किए गए। घरों की खिड़कियां टूटने से स्थानीय निवासियों को बाहर निकलना पड़ा। जापान में कांपी धरती: 5.7 तीव्रता के भूकंप में 22 घायल, घरों की खिड़कियां टूटीं; राजधानी टोक्यो में कितना असर?
+चीन के झांगे डेनशिया नेशनल पार्क में इंद्रधनुषी पहाड़ मौजूद हैं। इन पर लाल, पीले, हरे और बैंगनी रंगों की चादर बिछी है। यह प्राकृतिक दृश्य किसी पेंटिंग जैसा लगता है। यह क्षेत्र पर्यटकों के बीच लोकप्रिय है। Mysterious rainbow mountains: आपने आसमान में इंद्रधनुष तो खूब देखा होगा, लेकिन क्या कभी ऐसे पहाड़ देखे हैं, जिन पर सात रंगों की चादर बिछी हो?
 
-### [अर्थव्यवस्था को भी बीमार कर रही है दिल्ली की जहरीली हवा, घटती कार्यक्षमता की भारी कीमत चुका रहे लोग](https://www.amarujala.com/delhi-ncr/trouble-delhi-s-toxic-air-is-making-the-economy-sick-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 05:57 IST (iso: 2026-11-08T00:27:13+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_4232db578c6f381a9ca64648bbcfdf62.jpeg?w=1200&dpr=1.0 -->
+### [पाकिस्तान से आई 'हिंदुओं' के लिए बधाई, दिवाली पर शहबाज का लंबा-चौड़ा मैसेज, आतंकियों को पालने वाले](https://hindi.news18.com/world/pakistan-pakistani-pm-shehbaz-sharif-wishes-diwali-2026-to-hindus-of-the-world-wrote-long-message-on-social-media-10971845.html)
+*News18 Hindi (World)* - Nov 08, 13:20 IST (iso: 2026-11-08T07:50:19+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-diwali-2026-11-187db58a2927cdfaa8afedf9a9d64789-1200x800.jpg -->
 
-दिल्ली की प्रदूषित हवा शहर की अर्थव्यवस्था को नुकसान पहुंचा रही है। प्रदूषण से लोगों की कार्यक्षमता में गिरावट आई है। यह गिरावट अर्थव्यवस्था की सेहत को बिगाड़ रही है। दिल्ली की हवा अब सिर्फ लोगों का दम नहीं घोंट रही, बल्कि शहर की अर्थव्यवस्था की सेहत भी बिगाड़ रही है। अर्थव्यवस्था को भी बीमार कर रही है दिल्ली की जहरीली हवा, घटती कार्यक्षमता की भारी कीमत चुका रहे लोग।
+पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने हिंदुओं को दिवाली की बधाई दी है। यह बधाई तब आई जब कश्मीर में आतंकवाद का मुद्दा गरम है। पाकिस्तान में अल्पसंख्यक हिंदुओं की संख्या घट रही है। इस बधाई को विरोध का विषय बनाया जा रहा है। Pakistani PM Shehbaz Sharif Wishes Diwali: जिस देश से आने वाले आतंकवादियों ने कश्मीर में लोगों को धर्म पूछ-पूछकर मौत के घाट उतारा, उस देश के मुखिया अब हिंदुओं को दिवाली की बधाई दे रहे हैं.
+
+### [राहुल गांधी-प्रियंका गांधी ने देश को दी दिवाली पर शुभकामनाएं, कहा- 'पूरे भारत में...'](https://www.abplive.com/news/india/rahul-gandhi-priyanka-gandhi-vadra-and-mallikarjun-kharge-wishes-diwali-3212450)
+*ABP Live (India)* - Nov 08, 12:59 IST (iso: 2026-11-08T07:29:46+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/fa2066c6bbaea4c30c0d9c725bcb1fdb17941240880291200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+राहुल गांधी और प्रियंका गांधी ने देशवासियों को दिवाली की शुभकामनाएं दीं। उन्होंने हर घर में समृद्धि और शांति की कामना की। यह संदेश सोशल मीडिया पर वीडियो के माध्यम से साझा किया गया। नेता विपक्ष और कांग्रेस सांसद राहुल गांधी ने देशवासियों को दिवाली की बधाई दी. उन्होंने एक्स पर अपना एक वीडियो पोस्ट कर कहा कि आपको और आपके परिवार को दीपावली की हार्दिक शुभकामनाएं.
+
+### [गैस चेंबर बना दिल्ली- NCR, दिवाली की रात तक और खराब होंगे हालात, कहां कितना है AQI](https://www.abplive.com/news/india/delhi-pollution-diwali-farm-fires-punjab-haryana-worst-aqi-isro-satellite-show-3212440)
+*ABP Live (India)* - Nov 08, 12:58 IST (iso: 2026-11-08T07:28:49+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/116cd634c0bb9112b0bc8db92a31dcd117941141475021200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+दिल्ली में दिवाली की रात को वायु गुणवत्ता और खराब होने का अनुमान है। पंजाब और हरियाणा में पराली जलाने की घटनाएं बढ़ी हैं। शनिवार शाम को एयर क्वालिटी इंडेक्स 369 दर्ज किया गया। दिल्ली में दिवाली की रात (8 नवंबर) को हालात और भी खराब होने के संकेत मिल रहे हैं. शनिवार को पंजाब और हरियाणा में पराली जलाने की घटनाएं इस सीजन के सबसे हाई लेवल पर पहुंच गईं हैं.
+
+### [PoK के पूर्व राष्ट्रपति का निधन, 93 साल की उम्र में इस्लामाबाद में ली अंतिम सांस](https://www.amarujala.com/world/former-pok-president-raja-mohammad-zulqarnain-khan-dies-at-93-in-islamabad-2026-11-08)
+*Amar Ujala World* - Nov 08, 11:39 IST (iso: 2026-11-08T06:09:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/pok-ka-parava-rashhatarapata-ka-nathhana_002151f3203492ef1beec09fd78ea477.jpeg?w=1200&dpr=1.0 -->
+
+पूर्व पश्चिम कश्मीर के राष्ट्रपति राजा मोहम्मद जुलकरनैन खान का निधन हो गया। वे 93 वर्ष की आयु में इस्लामाबाद में अंतिम सांस ली। PoK के पूर्व राष्ट्रपति का निधन, 93 साल की उम्र में इस्लामाबाद में ली अंतिम सांस।
+
+### [पाकिस्तान के PM शहबाज शरीफ के बदले सुर, दिवाली पर खास संदेश; हिंदू समुदाय को बताया देश की ताकत](https://www.patrika.com/world-news/pakistan-pm-shehbaz-sharif-diwali-greetings-hindu-community-national-strength-21036869)
+*Patrika (World)* - Nov 08, 10:22 IST (iso: 2026-11-08T04:52:29+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Shehbaz-Sharif.webp -->
+
+पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने दिवाली पर हिंदू समुदाय को शुभकामनाएं दीं। उन्होंने उन्हें देश की राष्ट्रीय पहचान का अभिन्न हिस्सा बताया और धार्मिक सहिष्णुता की प्रतिबद्धता जताई। इस्लामाबाद। पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने रविवार को दिवाली के अवसर पर पाकिस्तान सहित दुनियाभर के हिंदू समुदाय को शुभकामनाएं दीं। उन्होंने पाकिस्तान में हिंदू समुदाय को देश की राष्ट्रीय पहचान का अभिन्न और महत्वपूर्ण हिस्सा बताया।
+
+---
+
+## दुनिया
+
+### ['सत्ता से जाने वाली है BJP', सरकार पर अभिजीत दीपके का बयान, किस पर कसा तंज?](https://www.abplive.com/news/india/cjp-abhijeet-dipke-predicted-bjp-govt-out-2029-lok-sabha-elections-protest-against-sir-3212477)
+*ABP Live (India)* - Nov 08, 13:03 IST (iso: 2026-11-08T07:33:50+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/fc90f958ca32f4d914aacd23b16d3dda17941226838591200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+अभिजीत दीपके ने भविष्यवाणी की कि 2029 के लोकसभा चुनावों में बीजेपी सत्ता से बाहर हो जाएगी। उन्होंने लोगों को बदलाव के लिए तैयार रहने की सलाह दी। यह बयान चुनाव आयोग के खिलाफ प्रदर्शन के दौरान दिया गया। कॉकरोच जनता पार्टी (CJP) के फाउंडर अभिजीत दिपके ने शनिवार को भविष्यवाणी की कि 2029 के लोकसभा चुनावों में बीजेपी सत्ता से बाहर हो जाएगी.
+
+### [कभी LTTE की बोलती थी तूती, अब वहां BSF फहराएगा तिरंगा, कमांडोज ले रहे स्‍पेशल ट्रेनिंग](https://hindi.news18.com/news/nation/bsf-special-commandos-is-undergoing-special-training-prior-to-deployment-at-indian-high-commission-in-colombo-and-jaffna-10972299.html)
+*News18 Hindi (World)* - Nov 08, 13:01 IST (iso: 2026-11-08T07:31:21+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/BSF-Training_01-2026-11-d94e7a78f33c3aed6fab8cfe8c658aaa-1200x800.jpg -->
+
+बीएसएफ के विशेष कमांडोज की तैयारी शुरू हो गई है। उनका लक्ष्य पूर्व में एलटीटीई के प्रभाव वाले क्षेत्रों में तिरंगा फहराना है। ट्रेनिंग में विभिन्न सेनाओं के विशेषज्ञों का सहयोग लिया जा रहा है। जहां कभी एलटीटीई की तूती बोलती थी और किसी भी देश की सेना वहां घुसने में डरती थी, अब वहां बीएसएफ तिरंगा फहराने जा रही है.
+
+### [50 से अधिक बोरिंग के पानी में मिले हानिकारक ई-कोलाई बैक्टीरिया, एनजीटी ने नगर निगम को दिए सख्त](https://www.amarujala.com/madhya-pradesh/indore-50-private-borewell-water-samples-found-e-coli-bacteria-ngt-strict-directions-2026-11-08)
+*Amar Ujala Breaking* - Nov 08, 12:54 IST (iso: 2026-11-08T07:24:34+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/ithara-ma-pana-ka-namana-fal_fc5be41878e97245757cf45f4ebbcdcc.jpeg?w=1200&dpr=1.0 -->
+
+इंदौर में 50 से अधिक निजी बोरवेल के पानी में हानिकारक ई-कोलाई बैक्टीरिया मिले। एनजीटी ने नगर निगम और प्रदूषण नियंत्रण बोर्ड को जांच, शोधन और कार्रवाई के निर्देश दिए। इंदौर में 50 से अधिक निजी बोरिंग के पानी में ई-कोलाई बैक्टीरिया मिलने पर एनजीटी ने स्वतः संज्ञान लिया है। अधिकरण ने नगर निगम और प्रदूषण नियंत्रण बोर्ड को प्रभावित बोरवेलों की जांच, पानी के शोधन और आवश्यक कार्रवाई के निर्देश दिए हैं।
+
+### [प्रशांत किशोन ने समझाया मुस्लिम-ब्राह्मणों के वोट का फॉर्मूला, दी ये नसीहत](https://www.abplive.com/news/india/prashant-kishor-viral-video-brahmin-muslim-vote-equation-3212475)
+*ABP Live (India)* - Nov 08, 12:46 IST (iso: 2026-11-08T07:16:26+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/4efc2c2695fd2472a2d6454e881aa51417941225783921115_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+प्रशांत किशोर ने बिहार में ब्राह्मण और मुस्लिम वोटों के समीकरण पर वीडियो जारी किया। उन्होंने कांग्रेस के पुराने वोट बैंक और लोकतंत्र की गणना पर टिप्पणी की। बिहार में जनसुराज पार्टी के संस्थापक प्रशांत किशोर का वीडियो वायरल हो रहा है. इसमें वह ब्राह्मण और मुस्लिम वोट के समीकरण पर बात करते नजर आ रहे हैं. वह कह रहे हैं कि मेरे भाई आप के दादा-परदादा पुरखे कांग्रेस के थे.
+
+### [बिग बी ने भगवान से मांगी दुआ; प्रियंका-सिद्धार्थ से रजनीकांत तक ने फैंस को दी शुभकामनाएं](https://www.amarujala.com/entertainment/bollywood/diwali-2026-rajinikanth-amitabh-bachchan-priyanka-chopra-and-other-celebrities-share-festive-wishes-2026-11-08)
+*Amar Ujala Breaking* - Nov 08, 12:38 IST (iso: 2026-11-08T07:08:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/satara-na-aisa-manaya-thaval-ka-tayahara_d2c4b82e663707e5579ac94ac5aae447.gif?w=1200&dpr=1.0 -->
+
+दिवाली पर बॉलीवुड सितारों ने फैंस को शुभकामनाएं दीं। अमिताभ बच्चन, प्रियंका चोपड़ा और रजनीकांत समेत कई कलाकारों ने त्योहार मनाया। दिवाली का त्योहार देशभर में धूमधाम से मनाया जा रहा है। आम लोगों से लेकर बॉलीवुड सितारों तक, हर कोई इस त्योहार को अपने अंदाज में सेलिब्रेट कर रहा है। इस खास मौके पर फिल्मी सितारों ने भी फैंस को दिवाली की शुभकामनाएं दीं।
+
+### ['ये देश आपका ऋणी है', बस्तर में जवानों से बोले PM मोदी, दिवाली पर दी शुभकामनाएं](https://www.abplive.com/news/india/pm-narendra-modi-salute-security-forces-in-bastar-chhattisgarh-diwali-2026-3212470)
+*ABP Live (India)* - Nov 08, 12:33 IST (iso: 2026-11-08T07:03:05+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/19e6849dec973f96fe10d73bd53df2551794121282260344_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+प्रधानमंत्री नरेंद्र मोदी ने दिवाली पर छत्तीसगढ़ के बस्तर में सुरक्षाबलों के साथ समय बिताया। उन्होंने नक्सलवाद के अंत का दावा किया और पूर्व सरकारों पर सुरक्षाबलों की उपेक्षा का आरोप लगाया। प्रधानमंत्री नरेंद्र मोदी ने दिवाली के मौके पर छत्तीसगढ़ के बस्तर में कहा कि आज नक्सल का आतंक खत्म हो चुका है और विकास की बहार शुरू हो गई है.
+
+### [बस्तर में सुरक्षाकर्मियों के साथ दिवाली मनाएंगे PM मोदी, कहा- 'जवानों के त्याग को नमन'](https://www.abplive.com/news/india/pm-modi-heading-to-bastar-chhattisgarh-celebrate-diwali-with-security-forces-3212428)
+*ABP Live (India)* - Nov 08, 09:57 IST (iso: 2026-11-08T04:27:00+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/07/6d1f15763843bf17f800d7883b4a076f1794052266654708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+प्रधानमंत्री नरेंद्र मोदी छत्तीसगढ़ के बस्तर में सुरक्षा बलों के साथ दिवाली मनाएंगे। उन्होंने नक्सल प्रभावित क्षेत्र में विकास की प्रगति पर जोर दिया। प्रधानमंत्री नरेंद्र मोदी दिवाली के शुभ अवसर पर छतीसगढ़ के बस्तर जा रहे हैं. इस बात की जानकारी उन्होंने एक्स पर दी. उन्होंने लिखा कि मैं अपने बहादुर सुरक्षा बलों के साथ दिवाली मनाने के लिए बस्तर जा रहा हूं.
 
 ---
 
 ## यूरोप और रूस
 
-### [99.9% समय पालन से दुनिया भर में छाई नमो भारत, बर्लिन में भी दिखाई परिचालन क्षमता](https://www.amarujala.com/delhi-ncr/namo-bharat-gains-global-recognition-with-a-99-9-punctuality-rate-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 06:24 IST (iso: 2026-11-08T00:54:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_d23d0d25cacb0eb3b5c35ff3470df066.jpeg?w=1200&dpr=1.0 -->
+### [172 ड्रोन, 36 मिसाइलें... कीव पर टूटा रूस का कहर, NATO को दी दो टूक चेतावनी- 'तुम्हारे सैनिक आए तो](https://hindi.news18.com/world/europe-russia-attacks-ukraine-with-172-drones-36-missiles-warns-foreign-soldiers-10972064.html)
+*News18 Hindi (World)* - Nov 08, 11:20 IST (iso: 2026-11-08T05:50:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/russia-ukraine-2026-11-ed49b5a24159db1c1a4663674a1a156e-1200x800.jpg -->
 
-नमो भारत ने बर्लिन में अपनी परिचालन क्षमता प्रदर्शित की। यह प्रणाली दिल्ली-एनसीआर में सफर का समय घटाती है। अब यह अंतरराष्ट्रीय स्तर पर भी अपनी पहचान बना रही है। दिल्ली-एनसीआर में सफर का समय घटाने और सड़क पर यातायात का दबाव कम करने वाली नमो भारत अब अंतरराष्ट्रीय स्तर पर भी अपनी पहचान बना रही है। 99.9% समय पालन से दुनिया भर में छाई नमो भारत, बर्लिन में भी दिखाई परिचालन क्षमता।
+रूस ने कीव पर 172 ड्रोन और 36 मिसाइलों का हमला किया। उसने नाटो को चेतावनी दी कि विदेशी सैनिकों को भी निशाना बनाया जाएगा। एक तरफ तो दोनों के बीच सीजफायर और समझौते पर बात हो रही थी, वहीं दूसरी ओर रूस ने ऐलान कर दिया है कि वो यूक्रेन की ओर से लड़ने वाले विदेशी सैनिकों को भी नहीं छोड़ेगी.
+
+### [पोलैंड में अंधाधुंध फायरिंग में 6 लोगों की मौत, 11 नवंबर तक शोक, जानें पूरा मामला](https://www.abplive.com/news/world/poland-krakow-gunman-killed-six-people-injured-dozen-what-said-polish-police-3212418)
+*ABP Live (World)* - Nov 08, 09:33 IST (iso: 2026-11-08T04:03:23+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/2883aef0a723bbe1e5681e7202be7c3f17941102980641200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+पोलैंड के क्राको में एक गनमैन ने भीड़ पर फायरिंग कर छह लोगों की हत्या कर दी। गाड़ी से टकराने से एक दर्जन से अधिक लोग घायल हुए। पोलैंड के दूसरे सबसे बड़े शहर क्राको के 'मेन मार्केट स्क्वायर' में शनिवार (7 नवंबर) दोपहर को एक गनमैन ने अंधाधुंध फायरिंग कर 6 लोगों की जान ले ली. पुलिस ने बताया कि हमलावर ने भीड़ में अपनी गाड़ी घुसा दी, इस कारण एक दर्जन से ज्यादा लोग घायल हो गए.
+
+---
+
+## अमेरिका
+
+### [अमरीका में ट्रंप की मुश्किलें बढ़ीं, मिडटर्म में हार के बाद डेमोक्रेट्स खोलेंगे मोर्चा; महाभियोग से](https://www.patrika.com/world-news/donald-trump-midterm-election-defeat-democrats-investigation-impeachment-pressure-21036784)
+*Patrika (World)* - Nov 08, 09:16 IST (iso: 2026-11-08T03:46:44+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-warns-Iran-of-military-action.webp -->
+
+मिडटर्म हार के बाद ट्रंप प्रशासन पर डेमोक्रेट्स का दबाव बढ़ा। संसद के नियंत्रण के बाद कारोबारी हितों की जांच शुरू होगी। वाशिंगटन। मिडटर्म चुनाव में करारी हार के बाद अमरीकी राष्ट्रपति डॉनल्ड ट्रंप प्रशासन चौतरफा दबाव में है। संसद के दोनों सदनों (हाउस ऑफ रिप्रेजेंटेटिव्स और सीनेट) का नियंत्रण गंवाने के बाद रिपब्लिकन पार्टी को अब डेमोक्रेट्स की जांच-पड़ताल और जवाबदेही के सवालों का सामना करना पड़ेगा।
 
 ---
 

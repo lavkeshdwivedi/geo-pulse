@@ -1,10 +1,78 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 08, 2026 08:24 IST
+**Updated:** November 08, 2026 15:09 IST
+
+---
+
+## Americas
+
+### [Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei](https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei)
+*The Guardian* - Nov 08, 14:30 IST (iso: 2026-11-08T09:00:35+00:00)
+<!-- image: https://i.guim.co.uk/img/media/69382c7253bd848478bf7c1f031a9d97c2de58fb/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f57a59d2627aa1f189bb4a4bf16ac007 -->
+
+Pope Leo XIV arrives in Argentina on 9 November for a visit that will test his relationship with President Javier Milei. The two men hold sharply opposing views on social and economic policy. Milei previously called the Pope's predecessor the representative of the Evil One. President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’Trees are being planted in the garden.
+
+### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
+*The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
+<!-- image: https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf -->
+
+Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.
+
+### [Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago](https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us)
+*The Guardian* - Nov 06, 18:33 IST (iso: 2026-11-06T13:03:38+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3fe8efc901b9158f1c2cd1700fd01110a70a3ecc/1583_790_5453_4362/master/5453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5003242673b8c07058109a40fc929db -->
+
+Flávio Bolsonaro addressed the Conservative Political Action Conference at Mar-a-Lago, claiming his election loss is not the end for Brazil. The far-right politician fled to the US shortly after losing Brazil’s presidential election. He made unsubstantiated claims about election fraud while attempting to maintain political relevance. Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraudFlávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain political relevance after fleeing to the US. Bolsonaro absconded early last week shortly after losing t.
+
+### [From a ship frozen into Arctic ice, a warning to world leaders: Trust the science](https://news.un.org/feed/view/en/story/2026/11/1168751)
+*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-Tara-Polar-Station-02.jpg/image770x420cropped.jpg -->
+
+Scientists aboard a ship frozen in Arctic ice are documenting rapid environmental changes. They warn world leaders to trust climate science as sea ice retreats. Oil tankers are increasingly operating in the region, heightening the stakes for polar governance. Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.
+
+### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
+*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg -->
+
+COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
+
+---
+
+## Europe & Russia
+
+### [Two women, man found dead in Krakow mass-shooting suspect’s home, says Prime Minister](https://www.thehindu.com/news/international/people-found-dead-in-krakow-mass-shooting-suspects-home-says-prime-minister/article71680538.ece)
+*The Hindu (International)* - Nov 08, 10:28 IST (iso: 2026-11-08T04:58:51+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/tw2xms/article71680553.ece/alternates/LANDSCAPE_1200/Poland_Shooting_15136.jpg -->
+
+Polish Prime Minister Donald Tusk confirmed that two women and one man were found dead in the home of the Krakow mass-shooting suspect. The suspect, a far-right man, killed six people and injured 15 in a central square on 7 November before police shot him. A Polish man with far-right views drove into a busy central square in Krakow on Saturday, November 7, and opened fire, killing six people and injuring 15 others before police shot and wounded him, authorities said.
+
+### [Trump’s hubris more comedy than tragedy but echoes Greek original](https://asiatimes.com/2026/11/trumps-hubris/)
+*Asia Times* - Nov 07, 17:23 IST (iso: 2026-11-07T11:53:38+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Marble-statue-of-Achilles-looking-at-his-heel-copy.jpg -->
+
+Political analysts compare Donald Trump's recent actions to the Greek concept of hubris. They argue his excessive self-confidence mirrors historical patterns of destructive arrogance. This trend reflects a failure to accurately assess America's global power. Recently across the globe, political observers have likened the foibles and subsequent downfalls of presidents of the United States to hubris, the ancient Greek concept of destructive arrogance.
+
+### [How Russia's War Recruitment Machine Became Big Business](https://www.rferl.org/a/russia-war-recruitment-big-business-ukraine-military/33891653.html)
+*Radio Free Europe / Liberty* - Nov 05, 20:20 IST (iso: 2026-11-05T14:50:37+00:00)
+<!-- image: https://gdb.rferl.org/9271105C-C3AC-4144-8FBC-82F111DF36FC_cx2_cy3_cw89_w1200_h630.jpg -->
+
+Russian military recruitment increasingly relies on private companies and intermediaries. These actors operate on the fringes of the legal system to fill depleted ranks. The shift has created a human cost as the state outsources conscription. This commercial approach reflects the strain of the ongoing war against Ukraine on domestic manpower. An increasing number of cases point to the human cost of a recruitment system in Russia that increasingly relies on private companies and intermediaries who often work on the fringes to bolster the ranks of a military depleted by the war against Ukraine.
+
+### [A Political Killing, A Seismic Shift, And A 'Vile' Attack](https://www.rferl.org/a/russia-novaya-gazeta-ukraine-war-peace-talks/33890879.html)
+*Radio Free Europe / Liberty* - Nov 05, 16:56 IST (iso: 2026-11-05T11:26:40+00:00)
+<!-- image: https://gdb.rferl.org/2b4fc504-2d37-44a4-794d-08df13a869ed_cx0_cy10_cw0_w1200_h630.jpg -->
+
+Twenty years after journalist Anna Politikovskaya was killed, her newspaper faces crushing pressure from the Russian state. A small Ukraine cease-fire was followed by a massive attack, while a US political shift precedes new trilateral peace talks. Twenty years after investigative journalist Anna Politikovskaya was shot dead, the paper she worked for is crushed under pressure from the Russian state.
 
 ---
 
 ## Asia-Pacific
+
+### [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)
+*The Guardian* - Nov 08, 08:30 IST (iso: 2026-11-08T03:00:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa1a8b3cf4e2a78849c21902c5dbd10 -->
+
+Activists warn that Thailand is preparing to deport more Uyghurs to China despite documented torture and abuse. One man said he would be like a slave if returned. Thai authorities forcibly deported 40 Uyghurs last year under pressure from Beijing. Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. Last year, Thai authorities forcibly deported 40 Uyghu.
 
 ### [New Zealand faces weeks of uncertainty with results ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)
 *The Guardian* - Nov 08, 06:30 IST (iso: 2026-11-08T01:00:48+00:00)
@@ -46,17 +114,11 @@ A New York federal judge temporarily blocked the deportation of dozens of Afghan
 
 ## Middle East & Africa
 
-### [Explosions heard in areas in southern Iran, Iranian media report](https://www.thehindu.com/news/international/explosions-heard-in-areas-in-southern-iran-iranian-media-report/article71679592.ece)
-*The Hindu (International)* - Nov 08, 05:51 IST (iso: 2026-11-08T00:21:20+00:00)
-<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
+### [‘For the first time I have my own chair’: Gaza siblings find new freedom](https://news.un.org/feed/view/en/story/2026/11/1168759)
+*UN News* - Nov 07, 17:30 IST (iso: 2026-11-07T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/06-11-2026-EducAid-Gaza-03.jpg/image770x420cropped.jpg -->
 
-Explosions were reported across several areas in southern Iran, including Qeshm Island, according to local media. Iranian state television stated that officials had not confirmed any missile strikes in those locations. The semi-official Tasnim news agency cited a source claiming the blasts on Qeshm Island were unrelated to missile activity. No further details on the cause or extent of the explosions were provided by authorities.
-
-### [U.S. military says it disabled cargo vessel in Gulf of Oman](https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece)
-*The Hindu (International)* - Nov 08, 04:33 IST (iso: 2026-11-07T23:03:58+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ye7n7l/article71679591.ece/alternates/LANDSCAPE_1200/2026-11-03T153056Z_1152644980_RC23GOANNFNH_RTRMADP_3_IRAN-CRISIS-GULF-OIL.JPG -->
-
-U. S. Central Command announced it disabled a St. Kitts-flagged cargo vessel in the Gulf of Oman. The ship had recently called at an Iranian port before attempting to leave regional waters. American forces ordered the crew to abandon specific areas of the vessel. A U. aircraft then fired precision munitions at the ship's stern. The action followed direct instructions to the crew to clear targeted spaces.
+Ten-year-old Anas, born without legs and with limited hand function, received his first wheelchair in Gaza. He is one of three siblings who previously struggled to move or eat independently. The chair allows them to perform daily tasks with new freedom. In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands.
 
 ### [Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi](https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html)
 *Radio Free Europe / Liberty* - Nov 07, 15:40 IST (iso: 2026-11-07T10:10:07+00:00)
@@ -99,72 +161,6 @@ The African National Congress faces a poor result in South Africa’s local elec
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-06-2025-UNICEF-Gaza-08.jpg/image560x340cropped.jpg -->
 
 Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesday. The United Nations reported that the incident caused injuries and forced a humanitarian partner to leave the area. Aid teams are now preparing for incoming winter storms in the region. Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.
-
-### [Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers](https://news.un.org/feed/view/en/story/2026/11/1168737)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-01-2026-UNOCHA-Syria-04.jpg/image560x340cropped.jpg -->
-
-A UN commission member stated that many Syrian children lack legal identity because nationality law requires a father's lineage. With many fathers dead or missing since 2011, these minors face exclusion from basic rights. The system effectively punishes mothers and their offspring for the conflict's human toll. Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.
-
----
-
-## World
-
-### [What does eating mustard have to do with stopping muscle cramps during a run? Does it even work?](https://www.channelnewsasia.com/wellness/mustard-muscle-cramps-running-night-6498531)
-*Channel News Asia* - Nov 08, 05:39 IST (iso: 2026-11-08T00:09:09+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Zl4QzpbS--/c_crop,h_1125,w_2000,x_0,y_105/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/mustard-running-night-leg-cramps_1_0.jpg?itok=BvJF_YNh -->
-
-Mustard contains compounds that trigger the trigeminal nerve, sending a signal to the brain that can interrupt the spasm. This neural reflex may stop a cramp without requiring the muscle to relax chemically. Researchers suggest the effect works regardless of whether the eater actually tastes the spice. The mechanism bypasses the need for electrolyte replacement, though it does not address the underlying dehydration or mineral imbalance that caused the cramp in the first place.
-
----
-
-## Europe & Russia
-
-### [Trump’s hubris more comedy than tragedy but echoes Greek original](https://asiatimes.com/2026/11/trumps-hubris/)
-*Asia Times* - Nov 07, 17:23 IST (iso: 2026-11-07T11:53:38+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Marble-statue-of-Achilles-looking-at-his-heel-copy.jpg -->
-
-Political analysts compare Donald Trump's recent actions to the Greek concept of hubris. They argue his excessive self-confidence mirrors historical patterns of destructive arrogance. This trend reflects a failure to accurately assess America's global power. Recently across the globe, political observers have likened the foibles and subsequent downfalls of presidents of the United States to hubris, the ancient Greek concept of destructive arrogance.
-
-### [How Russia's War Recruitment Machine Became Big Business](https://www.rferl.org/a/russia-war-recruitment-big-business-ukraine-military/33891653.html)
-*Radio Free Europe / Liberty* - Nov 05, 20:20 IST (iso: 2026-11-05T14:50:37+00:00)
-<!-- image: https://gdb.rferl.org/9271105C-C3AC-4144-8FBC-82F111DF36FC_cx2_cy3_cw89_w1200_h630.jpg -->
-
-Russian military recruitment increasingly relies on private companies and intermediaries. These actors operate on the fringes of the legal system to fill depleted ranks. The shift has created a human cost as the state outsources conscription. This commercial approach reflects the strain of the ongoing war against Ukraine on domestic manpower. An increasing number of cases point to the human cost of a recruitment system in Russia that increasingly relies on private companies and intermediaries who often work on the fringes to bolster the ranks of a military depleted by the war against Ukraine.
-
-### [A Political Killing, A Seismic Shift, And A 'Vile' Attack](https://www.rferl.org/a/russia-novaya-gazeta-ukraine-war-peace-talks/33890879.html)
-*Radio Free Europe / Liberty* - Nov 05, 16:56 IST (iso: 2026-11-05T11:26:40+00:00)
-<!-- image: https://gdb.rferl.org/2b4fc504-2d37-44a4-794d-08df13a869ed_cx0_cy10_cw0_w1200_h630.jpg -->
-
-Twenty years after journalist Anna Politikovskaya was killed, her newspaper faces crushing pressure from the Russian state. A small Ukraine cease-fire was followed by a massive attack, while a US political shift precedes new trilateral peace talks. Twenty years after investigative journalist Anna Politikovskaya was shot dead, the paper she worked for is crushed under pressure from the Russian state.
-
----
-
-## Americas
-
-### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
-*The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
-<!-- image: https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf -->
-
-Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.
-
-### [Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago](https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us)
-*The Guardian* - Nov 06, 18:33 IST (iso: 2026-11-06T13:03:38+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3fe8efc901b9158f1c2cd1700fd01110a70a3ecc/1583_790_5453_4362/master/5453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c5003242673b8c07058109a40fc929db -->
-
-Flávio Bolsonaro addressed the Conservative Political Action Conference at Mar-a-Lago, claiming his election loss is not the end for Brazil. The far-right politician fled to the US shortly after losing Brazil’s presidential election. He made unsubstantiated claims about election fraud while attempting to maintain political relevance. Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraudFlávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain political relevance after fleeing to the US. Bolsonaro absconded early last week shortly after losing t.
-
-### [From a ship frozen into Arctic ice, a warning to world leaders: Trust the science](https://news.un.org/feed/view/en/story/2026/11/1168751)
-*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-Tara-Polar-Station-02.jpg/image770x420cropped.jpg -->
-
-Scientists aboard a ship frozen in Arctic ice are documenting rapid environmental changes. They warn world leaders to trust climate science as sea ice retreats. Oil tankers are increasingly operating in the region, heightening the stakes for polar governance. Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.
-
-### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg -->
-
-COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
 
 ---
 
