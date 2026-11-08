@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 08, 2026 04:40 IST
+**अपडेट:** November 08, 2026 08:24 IST
 
 ---
 
 ## दुनिया
 
-### [डिस्काउंट के चक्कर में बैंक अकाउंट हो सकता है खाली, यहां जानें कैसे बचें इस फ्रॉड से](https://www.amarujala.com/photo-gallery/utility/diwali-2026-how-to-avoid-fraud-related-to-discounts-on-diwali-festival-2026-11-07)
-*Amar Ujala National* - Nov 08, 12:39 IST (iso: 2026-11-08T07:09:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/thaval-2026-farada-sa-bcana-ka-taraka-kaya-ha_6d28e057d9d0663f0600819248a9d101.jpeg?w=1200&dpr=1.0 -->
+### [सितारों से सजी निधि दत्ता की पार्टी, करीना-वरुण से लेकर शिल्पा शेट्टी ने अपने लुक से खींचा ध्यान](https://www.amarujala.com/entertainment/bollywood/nidhi-dutta-diwali-party-kareena-kapoor-shilpa-shetty-sonakshi-sinha-and-other-celebs-turn-heads-2026-11-08)
+*Amar Ujala National* - Nov 08, 08:13 IST (iso: 2026-11-08T02:43:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/nathha-thatata-ka-thaval-parata_7c04f97d3d7cbd680f8b99b4bdff71ff.jpeg?w=1200&dpr=1.0 -->
 
-दिवाली के दौरान बैंकिंग फ्रॉड का खतरा बढ़ा है। जालसाज डिस्काउंट का प्रलोभन देकर ग्राहकों से गोपनीय जानकारी मांगते हैं। बैंक कभी भी OTP या पिन नंबर पूछता नहीं है। ऐसे संदेशों पर विश्वास न करें। दिवाली के मौके पर जालसाज आपके साथ ठगी कर सकते हैं इसलिए डिस्काउंट के चक्कर में अपनी बैंकिंग गोपनीय जानकारी किसी को शेयर न करें।
+जेपी दत्ता की बेटी निधि दत्ता ने मुंबई में दिवाली पार्टी का आयोजन किया। करीना कपूर, वरुण धवन और शिल्पा शेट्टी जैसे बड़े सितारों ने इस कार्यक्रम में हिस्सा लिया। दिवाली हो और बॉलीवुड सितारों की पार्टी की रौनक न दिखे, ऐसा भला कैसे हो सकता है। इन दिनों फिल्मी सितारों के बीच दिवाली पार्टियों का सिलसिला जारी है। इसी कड़ी में फिल्म निर्माता जेपी दत्ता की बेटी निधि दत्ता ने भी दिवाली पार्टी का आयोजन किया।
 
-### [दिवाली के लिए एटीएम से निकाल रहे हैं कैश? तो ये 4 गलतियां भूलकर न करें, वरना खाली हो सकता है बैंक](https://www.amarujala.com/photo-gallery/utility/diwali-2026-4-atm-mistakes-to-avoid-while-withdrawing-cash-otherwise-your-bank-account-could-be-emptied-2026-11-07)
-*Amar Ujala National* - Nov 08, 12:30 IST (iso: 2026-11-08T07:00:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/thaval-ka-le-atm-sa-kasha-nakalta-samaya-kana-bta-ka-thhayana-rakha_f36aa48bafc4a818d83113d8858c0941.jpeg?w=1200&dpr=1.0 -->
+### [तेलंगाना के सीएम का KTR पर तंज, बोले- दाढ़ी बढ़ाने से कोई रेवंत रेड्डी नहीं बनता](https://www.amarujala.com/india-news/a-fox-cannot-become-a-tiger-telangana-cm-revanth-reddy-takes-a-dig-at-ktr-2026-11-08)
+*Amar Ujala National* - Nov 08, 08:13 IST (iso: 2026-11-08T02:43:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/saema-ravata-radada-na-ktr-ka-ghara_2a87bd78bb5e9c4e9d33efc85da3ed81.jpeg?w=1200&dpr=1.0 -->
 
-दिवाली के लिए एटीएम से नकद निकालते समय कार्ड स्लॉट, पिन और आसपास के लोगों पर ध्यान दें। थोड़ी सावधानी बैंक खाते की रकम गंवाने से बचा सकती है। एटीएम से पैसे निकालते समय कार्ड स्लॉट, पिन और आसपास मौजूद लोगों पर विशेष ध्यान देना जरूरी है थोड़ी सी सावधानी आपको एटीएम फ्रॉड और बैंक खाते में जमा रकम गंवाने से बचा सकती है।
+तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने के. टी. आर. पर निशाना साधा। उन्होंने कहा कि दाढ़ी बढ़ाने से कोई रेवंत रेड्डी नहीं बन सकता। रेड्डी ने उन्हें लोमड़ी के रूप में भी उल्लेख किया। तेलंगाना के सीएम का KTR पर तंज, बोले- दाढ़ी बढ़ाने से कोई रेवंत रेड्डी नहीं बनता।
 
-### [दुकान पर पटाखे खरीदते वक्त कैसे करें असली ग्रीन क्रैकर्स की जांच? ये आसान तरीके बचाएंगे आपको](https://www.amarujala.com/photo-gallery/utility/how-to-identify-real-green-crackers-while-buying-at-shops-these-easy-ways-will-save-you-2026-11-06)
-*Amar Ujala National* - Nov 08, 12:28 IST (iso: 2026-11-08T06:58:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/garana-karakarasa-ka-pahacana-kasa-kara_7200e2c11e50bc37723cf59e2a2f9ef2.jpeg?w=1200&dpr=1.0 -->
+### [लक्ष्मी-गणेश की HD तस्वीरें, सबको भेजकर कराएं शुभ दर्शन](https://www.amarujala.com/photo-gallery/lifestyle/happy-diwali-status-ganesha-lakshmi-hd-images-save-and-share-to-everyone-2026-11-08)
+*Amar Ujala National* - Nov 08, 08:13 IST (iso: 2026-11-08T02:43:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/ganesha-lakshmi-hd-image-diwali-special_957173558f6be1bd3ded6849cbb9d21c.jpeg?w=1200&dpr=1.0 -->
 
-दिवाली के आने पर बाजार में विभिन्न प्रकार के पटाखे बिकने लगते हैं। खरीदारी करते समय असली ग्रीन क्रैकर्स की जांच के आसान तरीके अपनाएं। दिवाली का त्योहार आते ही कई तरह के पटाखे बिकने लगते हैं। दुकान पर पटाखे खरीदते वक्त कैसे करें असली ग्रीन क्रैकर्स की जांच? ये आसान तरीके बचाएंगे आपको।
+सोशल मीडिया पर दिवाली के अवसर पर गणेश और लक्ष्मी की उच्च रिज़ॉल्यूशन तस्वीरें शेयर की जा रही हैं। लोग इन तस्वीरों को अपने प्रियजनों को भेजकर शुभकामनाएं दे रहे हैं। Ganesh Lakshmi HD Image: दिवाली के शुभ अवसर पर अपने प्रियजनों को गणेश लक्ष्मी की तस्वीर भेजकर दिन की शुरुआत करें। सोशल मीडिया पर इन तस्वीरों को आसानी ने शेयर किया जा सकता है।
 
-### [शॉपिंग के दौरान कहीं आपके पास भी तो नहीं आ रहे नकली नोट? ऐसे करें असली और नकली की पहचान](https://www.amarujala.com/photo-gallery/utility/are-fake-notes-reaching-you-during-diwali-shopping-know-how-to-identify-real-and-fake-2026-11-06)
-*Amar Ujala National* - Nov 08, 12:27 IST (iso: 2026-11-08T06:57:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/nakal-nata-ka-pahacana-kasa-kara_e861ea2701a607ade901e6ab2593a4aa.jpeg?w=1200&dpr=1.0 -->
+### [आज दिवाली पर बन रहे हैं कई शुभ संयोग, जानें पूजा मुहूर्त, विधि और मां लक्ष्मी के उपाय](https://www.amarujala.com/live/spirituality/festivals/diwali-2026-live-puja-vidhi-lakshmi-pujan-muhurat-mantra-aarti-and-wishes-city-wise-timings-photos-2026-11-08)
+*Amar Ujala National* - Nov 08, 08:12 IST (iso: 2026-11-08T02:42:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/diwali-2026-lakshmi-puja-muhurat-live-updates_6aea04ac9c16d14758f9f66db10baa43.jpeg?w=1200&dpr=1.0 -->
 
-दिवाली की खरीदारी के दौरान बाजार में जालसाजों द्वारा नकली नोटों का प्रचलन बढ़ सकता है। खरीदारों को असली और नकली नोटों की पहचान करने के तरीके जानना जरूरी है। दिवाली की खरीदारी के दौरान बाजार में जालसाजों द्वारा चलाए जाने वाले नकली नोटों से सावधान रहने की जरूरत है। शॉपिंग के दौरान कहीं आपके पास भी तो नहीं आ रहे नकली नोट?
+8 नवंबर को देशभर में दिवाली मनाई जा रही है। इस दिन मां लक्ष्मी और भगवान गणेश की पूजा का विशेष महत्व माना जाता है। विभिन्न मुहूर्तों पर पूजा करने की परंपरा है। इस दिन मां लक्ष्मी और भगवान गणेश की पूजा का विशेष महत्व है। इसके प्रभाव से जीवन में सुख-समृद्धि और खुशहाली आने की मान्यताएं हैं। आज दिवाली पर बन रहे हैं कई शुभ संयोग, जानें पूजा मुहूर्त, विधि और मां लक्ष्मी के उपाय।
 
-### [साफ-सफाई में मिले फटे-पुराने नोट? जानिए इन्हें कहां बदलने पर मिलेंगे पूरे पैसे](https://www.amarujala.com/photo-gallery/utility/found-torn-and-old-notes-during-diwali-cleaning-know-where-to-exchange-them-for-full-value-or-more-2026-11-06)
-*Amar Ujala National* - Nov 08, 12:27 IST (iso: 2026-11-08T06:57:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/fata-parana-nata-bthalna-ka-nayama_a2e07d2c2b7064b7f8c8fc445c4f3195.jpeg?w=1200&dpr=1.0 -->
+### [आखिरी समय में लगाएं ये आसान और खूबसूरत मेहंदी, हाथों की बढ़ेगी रौनक](https://www.amarujala.com/photo-gallery/fashion/diwali-mehndi-designs-2026-10-easy-and-beautiful-designs-for-hands-2026-11-07)
+*Amar Ujala National* - Nov 08, 08:06 IST (iso: 2026-11-08T02:36:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/mehndi-design_5ac06612fe15fa56e30be86a7d97b46a.jpeg?w=1200&dpr=1.0 -->
 
-दिवाली सफाई में मिले फटे या पुराने नोटों को किसी भी बैंक शाखा में बदला जा सकता है। आरबीआई नियमों के तहत नोट की स्थिति के आधार पर बैंक पूरा मूल्य या नियत एक्सचेंज वैल्यू वापस करता है। दिवाली की सफाई में मिले फटे-पुराने नोटों को किसी भी नजदीकी बैंक शाखा में जाकर आसानी से बदला जा सकता है। आरबीआई नियमों के अनुसार नोट सही सलामत होने पर बैंक उसके पूरे पैसे या पूरी एक्सचेंज वैल्यू वापस देता है।
+दिवाली से पहले मेहंदी डिजाइनों की मांग बढ़ गई है। लोग आसान और खूबसूरत पैटर्न खोज रहे हैं। अरेबिक, फ्लोरल और मंडला डिजाइन इस बार लोकप्रिय हैं। Diwali Mehndi Designs 2026: कल है दिवाली और अब तक नहीं लगाई मेहंदी? देखें आसान, लेटेस्ट, अरेबिक, फ्लोरल और मंडला मेहंदी डिजाइन, जिन्हें कम समय में हाथों पर बना सकती हैं। आखिरी समय में लगाएं ये आसान और खूबसूरत मेहंदी, हाथों की बढ़ेगी रौनक।
 
-### [सूखे से जूझ रहे किसानों के साथ दिवाली मनाएंगे सीएम फडणवीस; नागपुर में ऑनलाइन लूडो गेम के जरिए ठगी](https://www.amarujala.com/india-news/maharashtra-updates-pune-woman-maternity-leave-gadchiroli-attack-plot-mumbai-nagpur-nashik-kumbh-polity-news-2026-11-07)
-*Amar Ujala National* - Nov 08, 12:03 IST (iso: 2026-11-08T06:33:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=1200&dpr=1.0 -->
+### ["हर घर में जलें राम नाम के दीप..." दीपावली पर अपनों को भेजें दिल छू लेने वाली शुभकामनाएं](https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-diwali-2026-wishes-love-messages-for-whatsapp-images-diwali-ki-shubhkamnaye-2026-11-08)
+*Amar Ujala National* - Nov 08, 08:03 IST (iso: 2026-11-08T02:33:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/happy-diwali-status_b7c813b50eec5ab128d95c27dbeec070.jpeg?w=1200&dpr=1.0 -->
 
-महाराष्ट्र के मुख्यमंत्री देवेंद्र फडणवीस सूखे से प्रभावित किसानों के साथ नागपुर में दिवाली मनाएंगे। पुणे में मातृत्व अवकाश पर जाने वाले कर्मचारियों को वेतन मिलेगा। गढ़चिरौली में सुरक्षाबलों पर हमले की साजिश का खुलासा हुआ है। महाराष्ट्र अपडेट्स: पुणे में मातृत्व अवकाश पर गई जॉब, वेतन मिलेगा; गढ़चिरौली में सुरक्षाबलों पर हमले की साजिश। सूखे से जूझ रहे किसानों के साथ दिवाली मनाएंगे सीएम फडणवीस; नागपुर में ऑनलाइन लूडो गेम के जरिए ठगी।
+दिवाली पर लोगों को शुभकामनाएं भेजने के लिए वेबसाइट पर विशेष स्टेट्स और वॉलपेपर उपलब्ध कराए गए हैं। ये सामग्री प्रभु श्रीराम के आगमन की खुशियों को दर्शाती है। Happy Diwali Status: दिवाली के शुभ अवसर पर अपने करीबियों और परिजनों को शुभकामा संदेश भेजकर प्रभु श्रीराम के आगमन की खुशियां मनाएं। यहां से आकर्षक वाॅलपेपर और स्टेट्स डाउनलोड कर सकते हैं।
 
-### [ओडिशा में दिवाली से पहले मातम: जाजपुर में भीषण आग, दो बच्चों समेत परिवार के चार सदस्यों की जलने से](https://www.amarujala.com/india-news/odisha-jajpur-house-fire-four-of-a-family-charred-to-death-know-details-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 04:29 IST (iso: 2026-11-07T22:59:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/bugdha-khabra_cedadbbef70ac8906dc3f3179038c8c5.jpeg?w=1200&dpr=1.0 -->
+### [इतिहास का सबसे गर्म अक्तूबर था इस साल, वैश्विक तापमान खतरनाक स्तर पर](https://www.amarujala.com/india-news/warming-earth-this-year-saw-hottest-october-in-history-global-temperatures-reaching-dangerous-levels-2026-11-08)
+*Amar Ujala National* - Nov 08, 08:02 IST (iso: 2026-11-08T02:32:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/08/global-temperature_0dc3a0890d2ad50b33d543453cbe64c0.jpeg?w=1200&dpr=1.0 -->
 
-ओडिशा के जाजपुर जिले में दिवाली से पहले भीषण आग लग गई। इस हादसे में एक परिवार के चार सदस्यों की मौत हो गई। मृतकों में दो बच्चे भी शामिल हैं। स्थानीय प्रशासन ने शवों को पोस्टमॉर्टम के लिए भेज दिया है। ओडिशा में दिवाली से पहले मातम: जाजपुर में भीषण आग, दो बच्चों समेत परिवार के चार सदस्यों की जलने से मौत।
+इस साल अक्टूबर महीने में वैश्विक तापमान इतिहास के सबसे गर्म स्तर पर पहुंच गया है। लगातार बढ़ते तापमान ने जलवायु परिवर्तन की चिंताओं को और गहरा कर दिया है। लगातार गर्म हो रही धरती: इतिहास का सबसे गर्म अक्तूबर था इस साल, वैश्विक तापमान खतरनाक स्तर पर।
 
-### [देश-दुनिया में दीपावली, सीएम योगी जाएंगे अयोध्या; सरहद पर जवानों संग दिवाली मनाएंगे रक्षा मंत्री](https://www.amarujala.com/india-news/8-november-2026-major-event-2026-2026-11-07)
-*Amar Ujala Breaking* - Nov 08, 04:15 IST (iso: 2026-11-07T22:45:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/aaja-ka-thana_22178f8ad33df666b947b98cae7ff0d5.gif?w=1200&dpr=1.0 -->
+### ['धुरंधर' फेम सौम्या टंडन को याद आए दिवाली के वो 400 रुपये, पापा-बहन के साथ रातभर खेलती थीं गेम](https://www.amarujala.com/entertainment/saumya-tandon-exclusive-interview-dhurandhar-fame-actress-shares-childhood-memories-of-diwali-festival-2026-11-07)
+*Amar Ujala National* - Nov 08, 08:00 IST (iso: 2026-11-08T02:30:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/samaya-tadana_066343017b4576d7cefd5cac46c558c0.jpeg?w=1200&dpr=1.0 -->
 
-8 नवंबर 2026 को देशभर में दीपावली मनाई जाएगी। उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ अयोध्या जाएंगे। रक्षा मंत्री सीमा पर तैनात जवानों के साथ त्योहार मनाएंगे। यह दिन देश-दुनिया में विशेष महत्व रखता है। 8 November 2026 Major event 2026- आज के दिन: देश-दुनिया में दीपावली, सीएम योगी जाएंगे अयोध्या; सरहद पर जवानों संग दिवाली मनाएंगे रक्षा मंत्री।
+अभिनेत्री सौम्या टंडन ने बचपन की दिवाली की यादें साझा कीं। उन्होंने बताया कि पिता और बहन के साथ रात भर खेलने की वो शामें आज भी याद हैं। Diwali 2026: त्योहारों पर अक्सर बचपन की यादें याद आ जाया करती हैं। अभिनेत्री सौम्या टंडन को भी अपने बचपन वाली खूबसूरत दिवाली खूब याद है। रोशनी के इस पर्व पर उन्होंने यादों के खजाने से कुछ सिक्के साझा किए हैं।
 
-### [हरकी पैड़ी पर आईं मां गंगा, आज श्रद्धालु लगाएंगे आस्था की डुबकी; किसानों को भी मिलेगा भरपूर पानी](https://www.amarujala.com/uttarakhand/haridwar/haridwar-mother-ganga-arrives-at-har-ki-pauri-devotees-will-take-a-holy-dip-today-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 04:07 IST (iso: 2026-11-07T22:37:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_79f94b3ee99f6f6b84a843013813ebd9.jpeg?w=1200&dpr=1.0 -->
+### [सिर्फ मिठाई और कपड़े ही नहीं: इस दिवाली अपनों को दें ये पांच काम के गैजेट्स, गिफ्ट देखते ही खिल](https://www.amarujala.com/photo-gallery/technology/tech-diary/diwali-tech-gift-guide-2026-5-gadgets-make-perfect-presents-for-your-loved-ones-2026-11-06)
+*Amar Ujala National* - Nov 08, 08:00 IST (iso: 2026-11-08T02:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/thaval-para-gafata-kara-sakata-ha-ya-gajatasa_c9c0da65bf79c99f350e8c85825be8ad.jpeg -->
 
-18 दिन के बाद हरकी पैड़ी पर गंगा जल आ गया है। श्रद्धालु आज यहाँ स्नान करेंगे। किसानों को भी पर्याप्त मात्रा में जल मिलेगा। यह जल प्रवाह स्थानीय कृषि और धार्मिक गतिविधियों को प्रभावित करता है। 18 दिन बाद हरकी पैड़ी पर मां गंगा आ गईं। हरकी पैड़ी पर आईं मां गंगा, आज श्रद्धालु लगाएंगे आस्था की डुबकी; किसानों को भी मिलेगा भरपूर पानी।
+दिवाली के लिए मिठाई और कपड़ों के अलावा टेक गैजेट्स भी उपहार के रूप में लोकप्रिय हो रहे हैं। ये पांच काम के डिवाइस दोस्तों और परिवार के लिए एक अलग विकल्प प्रस्तुत करते हैं। अगर आप भी इस दिवाली अपने दोस्तों या किसी खास को कुछ अलग हटकर उपहार देना चाहते हैं, तो ये टेक गैजेट्स आपके लिए एक बेहतरीन विकल्प हो सकते हैं।
 
-### [वेटिंग लिस्ट की टेंशन हुई अब खत्म चलेंगी 1000 एक्स्ट्रा ट्रेनें, रेलवे का मेगा प्लान](https://www.amarujala.com/video/india-news/no-more-worries-about-waiting-lists-1-000-extra-trains-to-run-a-mega-plan-by-the-railways-2026-11-08)
-*Amar Ujala National* - Nov 08, 03:09 IST (iso: 2026-11-07T21:39:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/railway-mega-plan_f0f4146b1df30b61f1882d39da1b674a.jpeg?w=1200&dpr=1.0 -->
+### [पीएम मोदी ने देशवासियों को दी दीपोत्सव की बधाई, जवानों के साथ मनाएंगे त्योहार](https://www.amarujala.com/india-news/pm-modi-extends-festival-greetings-to-nation-says-diwali-wishes-to-everyone-2026-11-08)
+*Amar Ujala National* - Nov 08, 07:36 IST (iso: 2026-11-08T02:06:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/pm-modi-wishes-countrymen-a-happy-diwali-tells-with-whom-will-he-light-the-lamps-deepawali-2027_ad3c36b0bbd7fdff6eef7dfa8374c1d8.gif?w=1200&dpr=1.0 -->
 
-भारतीय रेलवे ने 1000 अतिरिक्त ट्रेनें चलाने का निर्णय लिया। इससे वेटिंग लिस्ट की समस्या कम होगी। यात्रियों को अब अधिक सीटें मिलेंगी। वेटिंग लिस्ट की टेंशन हुई अब खत्म चलेंगी 1000 एक्स्ट्रा ट्रेनें, रेलवे का मेगा प्लान।
+प्रधानमंत्री नरेंद्र मोदी ने देशवासियों को दिवाली की बधाई दी। उन्होंने कहा कि यह पर्व अंधकार के खिलाफ संकल्प का प्रतीक है। मोदी ने घोषणा की कि वे जवानों के साथ त्योहार मनाएंगे। पीएम मोदी ने देशवासियों को दी दीपोत्सव की बधाई, जवानों के साथ मनाएंगे त्योहार।
 
-### [अंतरिक्ष पर नजरें, यात्रा का अवसर: चांद पर जाने का सपना होगा साकार, नासा ने मंगाए आवेदन; कौन लोग](https://www.amarujala.com/world/eyes-on-space-travel-opportunity-dream-of-landing-on-moon-vs-reality-nasa-invites-application-know-eligibility-2026-11-08)
-*Amar Ujala World* - Nov 08, 02:59 IST (iso: 2026-11-07T21:29:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/27/nasa-unveils-plan-to-build-permanent-moon-base_dca519eea32aad24ee7852955b6a25a2.jpeg?w=1200&dpr=1.0 -->
+### [दिवाली पर पटाखों से गाड़ी को हुआ नुकसान, तो क्या मिलेगा इंश्योरेंस क्लेम? जानें प्रक्रिया और नियम](https://www.amarujala.com/automobiles/diwali-car-insurance-how-claim-firecracker-damage-2026-11-07)
+*Amar Ujala National* - Nov 08, 07:30 IST (iso: 2026-11-08T02:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/aatashabja-sa-vahana-ka-hae-nakasana-ka-le-eshayarasa-kalma-parasasa_f6fb37f8f4c3bd0c4aaf0df3a039e35c.jpeg?w=1200&dpr=1.0 -->
 
-नासा ने चांद पर यात्रा के लिए आवेदन आमंत्रित किए हैं। चयनित उम्मीदवार अंतरिक्ष यात्रा का अनुभव प्राप्त करेंगे। आवेदन प्रक्रिया अब शुरू हो चुकी है। अंतरिक्ष पर नजरें, यात्रा का अवसर: चांद पर जाने का सपना होगा साकार, नासा ने मंगाए आवेदन; कौन लोग पात्र होंगे?
+दिवाली पर पटाखों से गाड़ी को नुकसान होने पर इंश्योरेंस क्लेम मिल सकता है। प्रक्रिया और नियमों का पालन करना आवश्यक है। सही दस्तावेजों के साथ दावा दर्ज कराना चाहिए। काम की बात: दिवाली पर पटाखों से गाड़ी को हुआ नुकसान, तो क्या मिलेगा इंश्योरेंस क्लेम? जानें प्रक्रिया और नियम।
 
-### [इस बार की दिवाली और धनतेरस पर रिकॉर्डतोड़ बिक्री, इतने लाख करोड़ के बिके सामान!](https://www.amarujala.com/video/business/diwali-sale-report-record-breaking-sales-this-diwali-and-dhanteras-goods-worth-lakhs-of-crores-sold-2026-11-08)
-*Amar Ujala National* - Nov 08, 01:23 IST (iso: 2026-11-07T19:53:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/diwali-sale-report_b5d6c020b6f66be1f5c82d75c7af69c9.jpeg?w=1200&dpr=1.0 -->
+### [घर पर लक्ष्मी-गणेश की पूजा कैसे करें? यहां जानें संपूर्ण पूजन विधि और मंत्र](https://www.amarujala.com/photo-gallery/spirituality/festivals/diwali-puja-vidhi-2026-lakshmi-ganesh-puja-mantra-how-to-do-diwali-puja-at-home-step-by-step-2026-11-07)
+*Amar Ujala National* - Nov 08, 07:26 IST (iso: 2026-11-08T01:56:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/diwali-2026-puja-vidhi_7b53cffc2ff23a659a2653982334d777.jpeg?w=1200&dpr=1.0 -->
 
-दिवाली और धनतेरस पर रिकॉर्ड बिक्री दर्ज की गई। लाखों करोड़ रुपये के सामान बिके। यह आंकड़ा पिछले वर्षों की तुलना में अधिक है। इस बार की दिवाली और धनतेरस पर रिकॉर्डतोड़ बिक्री, इतने लाख करोड़ के बिके सामान!
+दिवाली पर लक्ष्मी और गणेश की पूजा विशेष महत्व रखती है। विधि-विधान से पूजा करने पर समृद्धि की प्राप्ति होती है। शुभ दिशा और मंत्रों का पालन करना चाहिए। दीपावली का त्योहार मां लक्ष्मी और भगवान गणेश की आराधना के लिए विशेष माना जाता है। इस दिन विधि-विधान से पूजा करने पर सुख-समृद्धि की प्राप्ति होती है। आइए जानते हैं दिवाली की संपूर्ण पूजा विधि, मंत्र और शुभ दिशा।
 
-### [दिवाली पर घर सजाने का खास तरीका: जेमिनी-चैटजीपीटी से मिनटों में बनाएं मनपसंद रंगोली डिजाइन, जानें](https://www.amarujala.com/technology/tech-diary/ai-rangoli-generator-guide-create-stunning-festive-designs-minutes-using-gemini-chatgpt-2026-11-07)
-*Amar Ujala National* - Nov 08, 01:00 IST (iso: 2026-11-07T19:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/eaaii-ragal-janaratara-gaida_a8dd65e9e5e8e0c4cdc0588ad38a6d0b.jpeg -->
+### [सुप्रीम कोर्ट के आदेश की उड़ी धज्जियां, बिक रहे हैं पटाखे, लोगों को पता नहीं... दुकानदार को परवाह](https://www.amarujala.com/delhi-ncr/delhi-supreme-court-order-flouted-firecrackers-still-being-sold-despite-expiry-of-the-permitted-period-2026-11-08)
+*Amar Ujala Breaking* - Nov 08, 06:09 IST (iso: 2026-11-08T00:39:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_bb8abe00f2c4622b49c22c97ecf69db4.jpeg?w=1200&dpr=1.0 -->
 
-जेमिनी और चैटजीपीटी जैसे एआई टूल्स का उपयोग करके उपयोगकर्ता मिनटों में व्यक्तिगत रंगोली डिजाइन बना सकते हैं। यह तकनीक दिवाली सजावट के लिए नए प्रॉम्प्ट्स और आइडियाज प्रदान करती है। दिवाली पर घर सजाने का खास तरीका: जेमिनी-चैटजीपीटी से मिनटों में बनाएं मनपसंद रंगोली डिजाइन, जानें प्रॉम्प्ट्स।
-
-### [हमले के बाद अभिषेक बनर्जी ने खाई कसम, कहा- 'तब तक केक नहीं काटूंगा जब तक...'](https://www.abplive.com/news/india/i-will-not-cut-cake-tmc-mp-abhishek-banerjee-after-alleged-attack-his-residence-on-birthday-3212379)
-*ABP Live (India)* - Nov 07, 23:41 IST (iso: 2026-11-07T18:11:21+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/07/73bbfb2f1f4fbc9d025cac5a10ce003517940731751831324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-अभिषेक बनर्जी ने अपने आवास पर हुए कथित हमले के बाद वीडियो जारी किया। उन्होंने कहा कि लोकतांत्रिक तरीके से विरोधियों को हराए बिना वे जन्मदिन के केक नहीं काटेंगे। टीएमसी नेता अभिषेक बनर्जी के आवास पर शुक्रवार देर रात उनके जन्मदिन के जश्न के दौरान हुए कथित हमले के बाद मामला थमने का नाम नहीं ले रहा है. अब खुद अभिषेक ने कहा है कि वह तब तक केक नहीं काटेंगे, जब तक कि एंटी डेमोक्रेटिक फोर्सेस को राज्य से बेदखल नहीं कर देते.
-
----
-
-## एशिया-प्रशांत
-
-### [क्या ट्रेन में साथ ले जा सकते हैं पटाखे? रेलवे के इन सख्त नियमों को जरूर जान लें](https://www.amarujala.com/photo-gallery/utility/can-you-carry-firecrackers-during-train-travel-know-these-strict-railway-rules-2026-11-06)
-*Amar Ujala National* - Nov 08, 12:28 IST (iso: 2026-11-08T06:58:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/tarana-ma-patakha-l-jana-mana_49035227dc4a468e5591a86c2180b8c9.jpeg?w=1200&dpr=1.0 -->
-
-भारतीय रेलवे ने त्योहारों के दौरान ट्रेनों में किसी भी प्रकार के पटाखों और आतिशबाजी को पूरी तरह प्रतिबंधित कर दिया है। यात्रियों को इन सख्त नियमों का पालन करना होगा। त्योहारों के दौरान भारतीय रेलवे की ट्रेनों में किसी भी तरह के पटाखे और आतिशबाजी ले जाना पूरी तरह प्रतिबंधित है। क्या ट्रेन में साथ ले जा सकते हैं पटाखे?
-
-### [सुरंग के रास्ते 14 बांग्लादेशी भारत में घुसे: 19 साल बाद हुआ बड़ा खुलासा, आखिर क्यों सभी कर रहे थे](https://www.amarujala.com/delhi-ncr/gurgaon/gurugram-bangladeshi-infiltration-tunnel-14-arrested-ats-probe-2026-11-07)
-*Amar Ujala Breaking* - Nov 08, 04:06 IST (iso: 2026-11-07T22:36:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/etaesa-na-pakaugdha-14-bgalthasha_e879094dea41385015dae89449c126fe.jpeg?w=1200&dpr=1.0 -->
-
-एटीएस ने 14 बांग्लादेशी नागरिकों को गिरफ्तार किया है। पूछताछ में पता चला कि दो आरोपी 19 साल पहले सुरंग से भारत आए थे। वे लंबे समय से यहाँ छिपे हुए थे। यह मामला सीमा सुरक्षा के लिए चिंताजनक है। एंटी टेररिस्ट स्क्वॉड (एटीएस) की टीम ने गुरुवार को पकड़े गए 14 बांग्लादेशियों से पूछताछ में बड़े खुलासे हुए है।
-
-### [दिल्ली में सांसों पर संकट बरकरार: ग्रैप-3 की पाबंदियां भी बेअसर, आज स्थिति गंभीर होने की आशंका](https://www.amarujala.com/delhi-ncr/crisis-for-breathing-persists-in-delhi-even-grap-3-restrictions-prove-ineffective-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 03:17 IST (iso: 2026-11-07T21:47:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_d5ae29ac4da6dd1c0450d99f350c218b.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली में गंभीर स्तर की वायु प्रदूषण की स्थिति बनी हुई है। ग्रैप-3 की पाबंदियों के बावजूद हवा की गुणवत्ता में सुधार नहीं हुआ है। दिल्ली की हवा कई दिनों से खराब चल रही है। दिल्ली में सांसों पर संकट बरकरार: ग्रैप-3 की पाबंदियां भी बेअसर, आज स्थिति गंभीर होने की आशंका।
-
-### [मौत के मुंह में जाते-जाते बचे दो लोग; किन घटनाओं में, कैसे बची यात्रियों की जान?](https://www.amarujala.com/india-news/mumbai-local-trains-incident-video-one-falls-during-fight-another-rescued-from-tracks-2026-11-08)
-*Amar Ujala National* - Nov 08, 03:12 IST (iso: 2026-11-07T21:42:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/30/mumbai-local-train_c326caef05813c92c44bd1444971e0e0.jpeg?w=1200&dpr=1.0 -->
-
-मुंबई लोकल ट्रेन में दो यात्रियों की जान बच गई। घटना के दौरान वे मौत के मुंह में थे, लेकिन किसी तरह सुरक्षित बच निकले। मुंबई लोकल में विवाद: मौत के मुंह में जाते-जाते बचे दो लोग; किन घटनाओं में, कैसे बची यात्रियों की जान?
-
-### [दिल्ली में दो जगह लगी आग: मालवीय नगर में बुझाई गई, उत्तम नगर में दमकल की गाड़ियां मौके पर; कोई](https://www.amarujala.com/delhi-ncr/two-fires-broke-out-in-delhi-malviya-nagar-fire-extinguished-fire-tenders-reached-the-spot-in-uttam-nagar-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 01:36 IST (iso: 2026-11-07T20:06:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_482ec345ab0756e94c5fee9029b923d3.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली के मालवीय नगर और उत्तम नगर में आग लग गई। मालवीय नगर की आग बुझा दी गई है। उत्तम नगर में दमकल की गाड़ियां मौके पर हैं। दिल्ली में दो जगहों पर आग लगने की खबर है। दिल्ली में दो जगह लगी आग: मालवीय नगर में बुझाई गई, उत्तम नगर में दमकल की गाड़ियां मौके पर; कोई।
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [दिवाली पर मिला है शानदार बोनस? इन जगहों पर निवेश करके पा सकते हैं दोगुना रिटर्न](https://www.amarujala.com/photo-gallery/utility/got-a-diwali-bonus-invest-in-best-mutual-funds-and-fd-schemes-to-double-your-money-safely-2026-11-06)
-*Amar Ujala National* - Nov 08, 12:27 IST (iso: 2026-11-08T06:57:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/thaval-bnasa-navasha_339d356874543cdb71d50a5770853948.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली के मौके पर अधिकांश कंपनियां अपने कर्मचारियों को बोनस देती हैं। इस राशि को निवेश करके दोगुना रिटर्न प्राप्त करने के विकल्प उपलब्ध हैं। दिवाली में अधिकतर कंपनियां अपने कर्मचारियों को शानदार बोनस देती हैं। दिवाली पर मिला है शानदार बोनस? इन जगहों पर निवेश करके पा सकते हैं दोगुना रिटर्न।
-
-### [इस्राइल की सत्ता में बड़ा उलटफेर: नेतन्याहू को हटाने की तैयारी, राष्ट्रपति ने गादी आइजेनकोट पर](https://www.amarujala.com/world/major-shake-up-in-israeli-power-moves-underway-to-oust-netanyahu-president-places-trust-in-gadi-eizenkot-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 03:14 IST (iso: 2026-11-07T21:44:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/parathhanamatara-bjamana-natanayaha_d4cf00270ebb93acc0f455923c43f824.jpeg?w=1200&dpr=1.0 -->
-
-इस्राइल में नेतन्याहू को हटाने की प्रक्रिया शुरू हो गई है। राष्ट्रपति ने गैडी आइजेनकोट पर भरोसा जताया है, जो नई सत्ता संरचना का हिस्सा बन सकते हैं। इस्राइल की सत्ता में बड़ा उलटफेर: नेतन्याहू को हटाने की तैयारी, राष्ट्रपति ने गादी आइजेनकोट पर।
-
-### [ओमान खाड़ी में अमेरिकी सेना ने पोत पर हमला किया, क्या जंग के बीच फिर बढ़ेगा टकराव और तनाव?](https://www.amarujala.com/world/west-asia-tension-us-attacks-vessel-in-gulf-of-oman-escalation-of-conflict-iran-hormuz-blockade-middle-east-2026-11-08)
-*Amar Ujala World* - Nov 08, 03:12 IST (iso: 2026-11-07T21:42:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/02/omana-ka-tata-para-madara-raha-bugdha-khatara_096a30ea6438258e0b796a8990eba22f.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी सेना ने ओमान खाड़ी में एक पोत पर हमला किया। यह घटना क्षेत्र में तनाव को और बढ़ा सकती है। सटीक परिणाम अभी स्पष्ट नहीं हैं। पश्चिम एशिया तनाव: ओमान खाड़ी में अमेरिकी सेना ने पोत पर हमला किया, क्या जंग के बीच फिर बढ़ेगा टकराव और तनाव?
-
-### [सऊदी अरब के दिल पर हूतियों का मिसाइल अटैक, रियाद से लेकर अरामको तक दहला, यमन में 25 की मौत](https://hindi.news18.com/world/middle-east-houthi-missile-attack-strikes-saudi-arabia-heart-riyadh-airport-aramco-oil-left-shaken-25-dead-in-yemen-10971545.html)
-*News18 Hindi (World)* - Nov 07, 23:52 IST (iso: 2026-11-07T18:22:05+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Houthis-AI-Missile-2026-09-9e16c2c1a3c89804ef5fa6fe7370dc50-1200x800.jpg -->
-
-यमन के हूती विद्रोहियों ने सऊदी अरब पर बड़े मिसाइल हमले का दावा किया है। रियाद का हवाई अड्डा, अरामको के तेल संयंत्र और नाजरान का नेशनल गार्ड कैंप निशाने पर थे। सऊदी सरकार ने इन हमलों की पुष्टि नहीं की है। Houthi Attacks Saudi Arabia: यमन के ईरान समर्थित हूती विद्रोहियों ने सऊदी अरब के खिलाफ बड़े हमले का दावा किया है.
+सुप्रीम कोर्ट के आदेश के बावजूद पटाखों की बिक्री जारी है। कोर्ट ने बुधवार से शुक्रवार तक मोहलत दी थी। दुकानदारों को इस आदेश की परवाह नहीं है। सुप्रीम कोर्ट ने पटाखों की बिक्री के लिए बुधवार से शुक्रवार तक की मोहलत दी थी। सुप्रीम कोर्ट के आदेश की उड़ी धज्जियां, बिक रहे हैं पटाखे, लोगों को पता नहीं दुकानदार को परवाह।
 
 ---
 
 ## अमेरिका
 
-### [उत्तरी कोलंबिया में सैन्य अड्डे पर निशाना, तीन सैनिक बलिदान, कई घायल; राष्ट्रपति सख्त](https://www.amarujala.com/world/colombia-military-base-drone-attack-soldiers-killed-several-wounded-president-abelardo-de-la-espriella-react-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 04:02 IST (iso: 2026-11-07T22:32:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/sakataka-tasavara_0266502246530d6440660a593a52dc15.jpeg?w=1200&dpr=1.0 -->
+### [कौन है डाना व्हाइट, जिन्हें प्रेस सेक्रेटरी बनाना चाहते हैं डोनाल्ड ट्रंप? 25 साल की दोस्ती, फिर भी](https://hindi.news18.com/world/america-who-is-dana-white-donald-trump-offers-press-secretory-job-in-white-house-but-not-confirmed-yet-ws-l-10971730.html)
+*News18 Hindi (World)* - Nov 08, 07:55 IST (iso: 2026-11-08T02:25:51+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/dana-white-2026-11-5a4b69725608144cb552f0c08b50a0cb-1200x800.jpg -->
 
-उत्तरी कोलंबिया में सैन्य अड्डे पर ड्रोन हमले में तीन सैनिकों की मौत हुई और कई घायल हुए। राष्ट्रपति अबेलार्डो डे ला एस्प्रीएला ने घटना पर सख्त प्रतिक्रिया व्यक्त की। उत्तरी कोलंबिया में सैन्य अड्डे पर निशाना, तीन सैनिक बलिदान, कई घायल; राष्ट्रपति सख्त।
+डोनाल्ड ट्रंप ने डाना व्हाइट को व्हाइट हाउस प्रेस सेक्रेटरी बनाने का इरादा जताया है। दोनों की पच्चीस साल पुरानी दोस्ती है, फिर भी व्हाइट ने इस पद को स्वीकार करने में जल्दबाजी नहीं दिखाई। Who is Dana White: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की गुडलिस्ट में शामिल एक और शख्स का नाम इस वक्त चर्चा में है. ये नाम डाना व्हाइट का है, जिन्हें ट्रंप व्हाइट हाउस के प्रेस सेक्रेटरी का पद देना चाहते हैं.
+
+### ['रिपब्लिकन समर्थकों को धमकाना गैरकानूनी': ट्रंप का डेमोक्रेट्कस पर निशाना, न्याय विभाग को दिए जांच](https://www.amarujala.com/world/donald-trump-accuses-democrats-of-threats-orders-doj-investigation-republican-donors-2026-11-08)
+*Amar Ujala World* - Nov 08, 07:30 IST (iso: 2026-11-08T02:00:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/donald-trump_d618115c37f325b02569534fc4b39057.jpeg?w=1200&dpr=1.0 -->
+
+डोनाल्ड ट्रंप ने डेमोक्रेट्स पर रिपब्लिकन समर्थकों को धमकाने का आरोप लगाया। उन्होंने इसे गैरकानूनी बताया। ट्रंप ने न्याय विभाग को जांच के आदेश दिए हैं। 'रिपब्लिकन समर्थकों को धमकाना गैरकानूनी': ट्रंप का डेमोक्रेट्कस पर निशाना, न्याय विभाग को दिए जांच।
+
+### [बैंक घोटाले ने छीनी राष्ट्रपति की कुर्सी: सैंटियागो पेना पर महाभियोग, नजरबंद हुए; पेड्रो ने संभाली](https://www.amarujala.com/world/bank-scandal-costs-president-his-seat-santiago-pena-faces-impeachment-house-arrest-pedro-takes-power-2026-11-08)
+*Amar Ujala Breaking* - Nov 08, 05:51 IST (iso: 2026-11-08T00:21:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/satayaga_1d369905e56ad6fe3e7b9444d8df570c.jpeg?w=1200&dpr=1.0 -->
+
+बैंक घोटाले के कारण सैंटियागो पेना पर महाभियोग चलाया गया। उन्हें नजरबंद कर दिया गया। पेड्रो ने अब सत्ता संभाल ली है। बैंक घोटाले ने छीनी राष्ट्रपति की कुर्सी: सैंटियागो पेना पर महाभियोग, नजरबंद हुए; पेड्रो ने संभाली।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [होर्मुज के पास केशम द्वीप पर धमाके, माइंस से टकराए दो तेल टैंकर; अमेरिका ने भी किया हवाई हमला](https://www.amarujala.com/world/explosions-heard-on-iran-qeshm-island-near-strait-of-hormuz-two-oil-tankers-hit-sea-mines-2026-11-08)
+*Amar Ujala World* - Nov 08, 07:26 IST (iso: 2026-11-08T01:56:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/haramaja-ma-thhamaka-sa-bugdhha-tanava_8122c43b2cd3fae84b429d56acf3e3bf.jpeg?w=1200&dpr=1.0 -->
+
+होर्मुज प्रवाह के पास केशम द्वीप पर धमाके हुए। दो तेल टैंकर समुद्री माइंस से टकराए। अमेरिका ने भी हवाई हमला किया है। होर्मुज के पास केशम द्वीप पर धमाके, माइंस से टकराए दो तेल टैंकर; अमेरिका ने भी किया हवाई हमला।
+
+### [ईरान के दक्षिणी इलाकों में फिर धमाके, केश्म से बंदर अब्बास तक गूंजे विस्फोट, क्या फिर भड़क रही है](https://hindi.news18.com/world/middle-east-explosions-heard-on-queshm-island-bandar-abbas-in-strait-of-hormuz-amid-iran-us-war-ws-l-10971686.html)
+*News18 Hindi (World)* - Nov 08, 07:01 IST (iso: 2026-11-08T01:31:59+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Iran-Nuclear-Attack-Impact-On-India-2026-11-359cddb76575f1feb62736e8bdb5ed65-1200x800.jpg -->
+
+ईरान के केश्म द्वीप और बंदर अब्बास के पास 7 अक्टूबर की रात धमाके हुए। ईरानी एजेंसी आईआरएनए ने इनकी पुष्टि की। स्थानीय मीडिया ने इसे होर्मुज जलडमरूमध्य में तनाव से जोड़ा। Explosions in Qeshm Island: ईरान-अमेरिका के बीच युद्ध में एक बार फिर से तनाव तब बढ़ गया, जब दक्षिणी ईरान के पास धमाके सुनाई दिए. 7 अक्टूबर की रात ईरान के रणनीति रूप से महत्वपूर्ण केश्म आइलैंड के पास ये धमाके सुने गए, स्ट्रेट ऑफ होर्मुज के पास मौजूद है.
+
+### [ईरान के केशम द्वीप के पास दो बड़े धमाके, ईरान बोला- माइंस से टकराए दो तेल टैंकर हुए तबाह](https://www.patrika.com/world-news/hormuz-strait-explosions-qeshm-island-iran-tankers-mines-21036684)
+*Patrika (World)* - Nov 08, 07:00 IST (iso: 2026-11-08T01:30:57+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/oil-tanker-explosion_.webp -->
+
+केश्म द्वीप और जास्क बंदरगाह के पास रविवार तड़के दो बड़े धमाके हुए। ईरान ने कहा कि दो तेल टैंकर माइंस से टकराकर तबाह हो गए। अल जजीरा ने इन घटनाओं को होर्मुज में जारी गतिविधियों से जोड़ा। ईरान के रणनीतिक तटीय इलाकों के पास एक के बाद एक दो बड़े धमाकों की आवाज सुनाई दी। ईरानी न्यूज एजेंसी ने बताया कि केशम द्वीप और जास्क बंदरगाह के पास रविवार तड़के दो धमाकों की आवाज सुनाई दी।
+
+### [इस्राइल में सरकार गठन की पहल: राष्ट्रपति की हरी झंडी पर गादी क्या बोले? पूर्व सेनाध्यक्ष सबकुछ](https://www.amarujala.com/world/move-towards-government-formation-in-israel-what-did-gantz-say-following-the-president-s-green-light-2026-11-08)
+*Amar Ujala Breaking* - Nov 08, 06:55 IST (iso: 2026-11-08T01:25:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/rashhatarapata-isaka-harajaga-na-vapakashha-nata-oura-yashara-parata-ka-paramakha-gatha-aaijanakata_03a7e9382190279a0f4c05ec54b1aa6b.jpeg?w=1200&dpr=1.0 -->
+
+इस्राइल के राष्ट्रपति ने सरकार गठन के लिए हरी झंडी दे दी है। पूर्व सेनाध्यक्ष बेंजामिन गादी अब इस प्रक्रिया में शामिल हो रहे हैं। यह चरण नई सरकार बनाने की दिशा में महत्वपूर्ण कदम माना जा रहा है। इस्राइल में सरकार गठन की पहल: राष्ट्रपति की हरी झंडी पर गादी क्या बोले? पूर्व सेनाध्यक्ष सबकुछ।
+
+### [इजरायल में 'नेतन्याहू युग' का अंत? गैडी आइजेनकोट को सरकार बनाने का न्योता, 28 दिन के सियासी संग्राम](https://hindi.news18.com/world/middle-east-israel-political-twist-benjamin-netanyahu-loses-mandate-gadi-eisenkot-gets-president-invite-10971614.html)
+*News18 Hindi (World)* - Nov 08, 05:48 IST (iso: 2026-11-08T00:18:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Israel-2026-11-0d6616f9027c6ea785e20f8a8b585752-1200x800.jpg -->
+
+बेंजामिन नेतन्याहू को अपनी गद्दी छोड़नी पड़ेगी। गैडी आइजेनकोट को सरकार बनाने का न्योता दिया गया है। यह बदलाव ईरान युद्ध पर भी असर डाल सकता है। ये पश्चिम एशिया और दुनिया की राजनीति की एक बड़ी घटना है क्योंकि इससे खाड़ी में चल रहे ईरान युद्ध पर भी असर पड़ सकता है. चलिए पहले जानते हैं कि आखिर ये नाटकीय सियासी ड्रामा कैसे खत्म हुआ.
+
+---
+
+## एशिया-प्रशांत
+
+### [सुबह-सुबह डोल गई धरती, गिरते-पड़ते घरों से भागे लोग, 6 तीव्रता के भूकंप ने 22 लोगों को किया जख्मी](https://hindi.news18.com/world/rest-of-world-earthquake-magnitude-5-7-jolts-japan-leaving-many-injured-tremors-continues-tsunami-alert-10971624.html)
+*News18 Hindi (World)* - Nov 08, 06:32 IST (iso: 2026-11-08T01:02:45+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Earthquake_tSunami-alert-2026-07-8bd65ce582c4368ce750792cfa0e05c2-1200x800.jpg -->
+
+जापान में 5.7 तीव्रता का भूकंप आया। इससे 22 लोग जख्मी हुए और कई घरों की खिड़कियां टूट गईं। लोग तेज झटकों के कारण घरों से बाहर भागते हुए चोटिल हुए। 5.7 Magnitude Earthquake Jolts Japan: जहां भारत में लोग दीपावली के त्योहार की खुशी के साथ जागे वहीं जापान में आज की सुबह भूकंप के झटकों के साथ हुई.
+
+### [5.7 तीव्रता के भूकंप में 22 घायल, घरों की खिड़कियां टूटीं; राजधानी टोक्यो में कितना असर?](https://www.amarujala.com/world/japan-earthquake-richter-scale-magnitude-casualties-rescue-central-japan-meteorological-agency-usgs-updates-2026-11-08)
+*Amar Ujala World* - Nov 08, 06:29 IST (iso: 2026-11-08T00:59:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/18/bhakapa_d100e4e5fef7c95c7372002281edca2a.jpeg?w=1200&dpr=1.0 -->
+
+जापान में 5.7 तीव्रता के भूकंप से 22 लोग घायल हुए। राजधानी टोक्यो सहित कई इलाकों में झटके महसूस किए गए। घरों की खिड़कियां टूटने से स्थानीय निवासियों को बाहर निकलना पड़ा। जापान में कांपी धरती: 5.7 तीव्रता के भूकंप में 22 घायल, घरों की खिड़कियां टूटीं; राजधानी टोक्यो में कितना असर?
+
+### [अर्थव्यवस्था को भी बीमार कर रही है दिल्ली की जहरीली हवा, घटती कार्यक्षमता की भारी कीमत चुका रहे लोग](https://www.amarujala.com/delhi-ncr/trouble-delhi-s-toxic-air-is-making-the-economy-sick-2026-11-08)
+*Amar Ujala Breaking* - Nov 08, 05:57 IST (iso: 2026-11-08T00:27:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_4232db578c6f381a9ca64648bbcfdf62.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली की प्रदूषित हवा शहर की अर्थव्यवस्था को नुकसान पहुंचा रही है। प्रदूषण से लोगों की कार्यक्षमता में गिरावट आई है। यह गिरावट अर्थव्यवस्था की सेहत को बिगाड़ रही है। दिल्ली की हवा अब सिर्फ लोगों का दम नहीं घोंट रही, बल्कि शहर की अर्थव्यवस्था की सेहत भी बिगाड़ रही है। अर्थव्यवस्था को भी बीमार कर रही है दिल्ली की जहरीली हवा, घटती कार्यक्षमता की भारी कीमत चुका रहे लोग।
 
 ---
 
 ## यूरोप और रूस
 
-### [हमलावर के घर मिले तीन शव, प्रधानमंत्री टस्क बोले- परिवार के करीबी हो सकते हैं मृतक](https://www.amarujala.com/world/poland-shooting-three-bodies-found-at-attacker-s-home-prime-minister-tusk-says-deceased-may-close-to-family-2026-11-08)
-*Amar Ujala Breaking* - Nov 08, 03:45 IST (iso: 2026-11-07T22:15:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/parathhanamatara-danalda-tasaka_1387c07f3661ea2c992d1236f6d645be.jpeg?w=1200&dpr=1.0 -->
+### [99.9% समय पालन से दुनिया भर में छाई नमो भारत, बर्लिन में भी दिखाई परिचालन क्षमता](https://www.amarujala.com/delhi-ncr/namo-bharat-gains-global-recognition-with-a-99-9-punctuality-rate-2026-11-08)
+*Amar Ujala Breaking* - Nov 08, 06:24 IST (iso: 2026-11-08T00:54:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/1_d23d0d25cacb0eb3b5c35ff3470df066.jpeg?w=1200&dpr=1.0 -->
 
-पोलैंड में गोलीकांड के हमलावर के घर से तीन शव बरामद हुए। प्रधानमंत्री टस्क का मानना है कि ये मृतक हमलावर के परिवार से जुड़े हुए थे। हमलावर के घर मिले तीन शव, प्रधानमंत्री टस्क बोले- परिवार के करीबी हो सकते हैं मृतक।
+नमो भारत ने बर्लिन में अपनी परिचालन क्षमता प्रदर्शित की। यह प्रणाली दिल्ली-एनसीआर में सफर का समय घटाती है। अब यह अंतरराष्ट्रीय स्तर पर भी अपनी पहचान बना रही है। दिल्ली-एनसीआर में सफर का समय घटाने और सड़क पर यातायात का दबाव कम करने वाली नमो भारत अब अंतरराष्ट्रीय स्तर पर भी अपनी पहचान बना रही है। 99.9% समय पालन से दुनिया भर में छाई नमो भारत, बर्लिन में भी दिखाई परिचालन क्षमता।
 
 ---
 

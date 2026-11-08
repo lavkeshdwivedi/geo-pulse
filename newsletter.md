@@ -1,20 +1,66 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 08, 2026 04:40 IST
+**Updated:** November 08, 2026 08:24 IST
+
+---
+
+## Asia-Pacific
+
+### [New Zealand faces weeks of uncertainty with results ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)
+*The Guardian* - Nov 08, 06:30 IST (iso: 2026-11-08T01:00:48+00:00)
+<!-- image: https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593 -->
+
+New Zealand's National Party leads parliament, but no coalition has secured a majority. The country faces weeks of negotiations to form a government. Neither the right-wing bloc nor the left-wing opposition won a decisive mandate. National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by th.
+
+### [New Zealand election coalition talks will likely take weeks – as it happened](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
+*The Guardian* - Nov 07, 18:42 IST (iso: 2026-11-07T13:12:22+00:00)
+<!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
+
+New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
+
+### [Japan, Taiwan, China and the emerging 2028 strategic test](https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/)
+*Asia Times* - Nov 07, 05:29 IST (iso: 2026-11-06T23:59:05+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/images-2-e1793969068536.jpeg -->
+
+East Asia is shifting toward a 2028 strategic test. Military, economic, and technological factors now intertwine. This convergence is reshaping regional order assumptions. The timing and drivers of this shift are changing. Originally published by Pacific Forum, this article is republished with permission. East Asia is entering an era in which military balance, economic resilience, technological leadership and alliance politics are no longer separate policy domains but interconnected elements of a broader contest over regional order.
+
+### [Here’s why Pyongyang is testing an array of missile capabilities](https://asiatimes.com/2026/11/heres-why-pyongyang-is-testing-an-array-of-missile-capabilities/)
+*Asia Times* - Nov 07, 05:06 IST (iso: 2026-11-06T23:36:59+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Missile-launch-from-North-Korea-copy-e1794008100684.jpg -->
+
+North Korea has conducted roughly 20 missile tests since early 2026. This marks a new phase in its development program. The focus is on capability breadth rather than launch volume. These tests signal a consequential shift in regional security dynamics. North Korea’s accelerating missile development has entered a new and potentially consequential phase. According to media reports available as of November 6, 2026, Pyongyang has conducted approximately 20 missile-related tests and exercises since the beginning of the year.
+
+### [Pakistan’s Fa’az missile aims to escape China, US arms traps](https://asiatimes.com/2026/11/pakistans-faaz-missile-aims-to-escape-china-us-arms-traps/)
+*Asia Times* - Nov 06, 10:59 IST (iso: 2026-11-06T05:29:32+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Pakistan-Air-Force-Faaz-Missile-Test-2.jpg -->
+
+Pakistan tested its indigenous Fa’az beyond-visual-range missile, marking a shift toward self-reliance in air combat. The move addresses vulnerabilities in relying on foreign defense partners. It responds to operational needs from volatile border clashes with India. Pakistan’s recent maiden test of its indigenous Fa’az beyond-visual-range missile highlights an urgent push toward self-reliance in high-end air combat, driven by the operational imperatives of volatile border clashes with India and the strategic vulnerabilities of relying on foreign defense partners.
+
+### [US Court Temporarily Blocks Deportation Of Afghan Nationals Over Safety Concerns](https://www.rferl.org/a/us-court-temporarily-blocks-afghans-deportation/33890357.html)
+*Radio Free Europe / Liberty* - Nov 05, 15:42 IST (iso: 2026-11-05T10:12:46+00:00)
+<!-- image: https://gdb.rferl.org/2d1d1574-0892-4aae-232e-08dd9da57ba1_cx0_cy10_cw0_w1200_h630.jpg -->
+
+A New York federal judge temporarily blocked the deportation of dozens of Afghan nationals. Lawmakers and rights groups warned that returning them to Afghanistan or Pakistan could endanger their lives. The court order halts the removal process pending further review of these safety concerns. A reported plan to deport dozens of Afghan nationals has been temporarily halted by a New York-based federal judge following a warning from several US lawmakers and rights groups that sending them home or to neighboring Pakistan could put their lives at risk.
 
 ---
 
 ## Middle East & Africa
 
+### [Explosions heard in areas in southern Iran, Iranian media report](https://www.thehindu.com/news/international/explosions-heard-in-areas-in-southern-iran-iranian-media-report/article71679592.ece)
+*The Hindu (International)* - Nov 08, 05:51 IST (iso: 2026-11-08T00:21:20+00:00)
+<!-- image: https://www.thehindu.com/theme/images/og-image.png -->
+
+Explosions were reported across several areas in southern Iran, including Qeshm Island, according to local media. Iranian state television stated that officials had not confirmed any missile strikes in those locations. The semi-official Tasnim news agency cited a source claiming the blasts on Qeshm Island were unrelated to missile activity. No further details on the cause or extent of the explosions were provided by authorities.
+
 ### [U.S. military says it disabled cargo vessel in Gulf of Oman](https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman/article71679590.ece)
 *The Hindu (International)* - Nov 08, 04:33 IST (iso: 2026-11-07T23:03:58+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/ye7n7l/article71679591.ece/alternates/LANDSCAPE_1200/2026-11-03T153056Z_1152644980_RC23GOANNFNH_RTRMADP_3_IRAN-CRISIS-GULF-OIL.JPG -->
 
-U. S. Central Command announced it disabled a St. Kitts-flagged cargo vessel in the Gulf of Oman. The ship had recently called at an Iranian port before attempting to leave regional waters. American forces ordered the crew to abandon specific areas of the vessel. A U. S. aircraft then fired precision munitions at the ship's stern. The action followed direct instructions to the crew to clear targeted spaces.
+U. S. Central Command announced it disabled a St. Kitts-flagged cargo vessel in the Gulf of Oman. The ship had recently called at an Iranian port before attempting to leave regional waters. American forces ordered the crew to abandon specific areas of the vessel. A U. aircraft then fired precision munitions at the ship's stern. The action followed direct instructions to the crew to clear targeted spaces.
 
 ### [Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi](https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html)
 *Radio Free Europe / Liberty* - Nov 07, 15:40 IST (iso: 2026-11-07T10:10:07+00:00)
-<!-- image: https://gdb.rferl.org/cda433c6-484c-458d-9fe1-a6dfccf8e8a5_cx0_cy5_cw0_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/f8bcade0-15ce-48fb-9358-04357bfa8d86_cx0_cy10_cw0_w1200_h630.jpg -->
 
 Russia launched 172 drones and 36 missiles at Kyiv on November 7. The strikes damaged energy infrastructure, housing, and a major Dnipro River bridge. The attack occurred just before scheduled talks in Abu Dhabi. Kyiv faced widespread damage and disruptions to essential services on November 7 after Russia launched 172 attack drones and 36 ballistic missiles at the Ukrainian capital and other regions, striking energy infrastructure, residential housing, and a major bridge over the Dnipro River.
 
@@ -62,49 +108,13 @@ A UN commission member stated that many Syrian children lack legal identity beca
 
 ---
 
-## Asia-Pacific
+## World
 
-### [China's 'potato capital' cultivates new crop of data centres as AI boom takes root](https://www.channelnewsasia.com/east-asia/china-ai-data-centre-boom-inner-mongolia-6526706)
-*Channel News Asia* - Nov 08, 03:30 IST (iso: 2026-11-07T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--bCm1CetU--/c_crop,h_1125,w_2000,x_0,y_270/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/05/ulanqab_data_center_construction_2.png?itok=xyLCNq24 -->
+### [What does eating mustard have to do with stopping muscle cramps during a run? Does it even work?](https://www.channelnewsasia.com/wellness/mustard-muscle-cramps-running-night-6498531)
+*Channel News Asia* - Nov 08, 05:39 IST (iso: 2026-11-08T00:09:09+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--Zl4QzpbS--/c_crop,h_1125,w_2000,x_0,y_105/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/mustard-running-night-leg-cramps_1_0.jpg?itok=BvJF_YNh -->
 
-Ulanqab in Inner Mongolia is converting potato fields into large-scale AI data centres. The shift is driven by the region's cold climate, which reduces cooling costs for servers. Local livelihoods are changing as agricultural land gives way to tech infrastructure. The expansion raises concerns about water usage in a drought-prone area. On the windswept plains of China's Inner Mongolia, potato farms are making way for sprawling AI data centres.
-
-### [New Zealand faces weeks of uncertainty with election ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)
-*The Guardian* - Nov 07, 19:18 IST (iso: 2026-11-07T13:48:18+00:00)
-<!-- image: https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593 -->
-
-New Zealand's National Party leads parliament, but no coalition has secured a majority. The country faces weeks of negotiations to form a government. Neither the right-wing bloc nor the left-wing opposition won a decisive mandate. National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by th.
-
-### [New Zealand election coalition talks will likely take weeks – as it happened](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
-*The Guardian* - Nov 07, 18:42 IST (iso: 2026-11-07T13:12:22+00:00)
-<!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
-
-New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
-
-### [Japan, Taiwan, China and the emerging 2028 strategic test](https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/)
-*Asia Times* - Nov 07, 05:29 IST (iso: 2026-11-06T23:59:05+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/images-2-e1793969068536.jpeg -->
-
-East Asia is shifting toward a 2028 strategic test. Military, economic, and technological factors now intertwine. This convergence is reshaping regional order assumptions. The timing and drivers of this shift are changing. Originally published by Pacific Forum, this article is republished with permission. East Asia is entering an era in which military balance, economic resilience, technological leadership and alliance politics are no longer separate policy domains but interconnected elements of a broader contest over regional order.
-
-### [Here’s why Pyongyang is testing an array of missile capabilities](https://asiatimes.com/2026/11/heres-why-pyongyang-is-testing-an-array-of-missile-capabilities/)
-*Asia Times* - Nov 07, 05:06 IST (iso: 2026-11-06T23:36:59+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Missile-launch-from-North-Korea-copy-e1794008100684.jpg -->
-
-North Korea has conducted roughly 20 missile tests since early 2026. This marks a new phase in its development program. The focus is on capability breadth rather than launch volume. These tests signal a consequential shift in regional security dynamics. North Korea’s accelerating missile development has entered a new and potentially consequential phase. According to media reports available as of November 6, 2026, Pyongyang has conducted approximately 20 missile-related tests and exercises since the beginning of the year.
-
-### [Pakistan’s Fa’az missile aims to escape China, US arms traps](https://asiatimes.com/2026/11/pakistans-faaz-missile-aims-to-escape-china-us-arms-traps/)
-*Asia Times* - Nov 06, 10:59 IST (iso: 2026-11-06T05:29:32+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Pakistan-Air-Force-Faaz-Missile-Test-2.jpg -->
-
-Pakistan tested its indigenous Fa’az beyond-visual-range missile, marking a shift toward self-reliance in air combat. The move addresses vulnerabilities in relying on foreign defense partners. It responds to operational needs from volatile border clashes with India. Pakistan’s recent maiden test of its indigenous Fa’az beyond-visual-range missile highlights an urgent push toward self-reliance in high-end air combat, driven by the operational imperatives of volatile border clashes with India and the strategic vulnerabilities of relying on foreign defense partners.
-
-### [US Court Temporarily Blocks Deportation Of Afghan Nationals Over Safety Concerns](https://www.rferl.org/a/us-court-temporarily-blocks-afghans-deportation/33890357.html)
-*Radio Free Europe / Liberty* - Nov 05, 15:42 IST (iso: 2026-11-05T10:12:46+00:00)
-<!-- image: https://gdb.rferl.org/2d1d1574-0892-4aae-232e-08dd9da57ba1_cx0_cy10_cw0_w1200_h630.jpg -->
-
-A New York federal judge temporarily blocked the deportation of dozens of Afghan nationals. Lawmakers and rights groups warned that returning them to Afghanistan or Pakistan could endanger their lives. The court order halts the removal process pending further review of these safety concerns. A reported plan to deport dozens of Afghan nationals has been temporarily halted by a New York-based federal judge following a warning from several US lawmakers and rights groups that sending them home or to neighboring Pakistan could put their lives at risk.
+Mustard contains compounds that trigger the trigeminal nerve, sending a signal to the brain that can interrupt the spasm. This neural reflex may stop a cramp without requiring the muscle to relax chemically. Researchers suggest the effect works regardless of whether the eater actually tastes the spice. The mechanism bypasses the need for electrolyte replacement, though it does not address the underlying dehydration or mineral imbalance that caused the cramp in the first place.
 
 ---
 
@@ -152,7 +162,7 @@ Scientists aboard a ship frozen in Arctic ice are documenting rapid environmenta
 
 ### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
 *UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg -->
 
 COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
 
@@ -165,12 +175,6 @@ COP31 focuses on making advanced clean energy technologies affordable for all na
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg -->
 
 UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
-
-### [15 years of ‘almost no progress’ in getting young people moving: WHO](https://news.un.org/feed/view/en/story/2026/11/1168736)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/07-05-2025-IOM-Yemen-football-02.jpg/image560x340cropped.jpg -->
-
-The World Health Organization reported that one in four adolescents globally fails to meet daily physical activity guidelines. This statistic highlights a fifteen-year stagnation in youth health outcomes. The data underscores a persistent failure to encourage movement among young people across all regions. One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.
 
 ---
 
