@@ -1,10 +1,62 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 08, 2026 21:56 IST
+**अपडेट:** November 09, 2026 02:20 IST
+
+---
+
+## दुनिया
+
+### [सोशल मीडिया से सीखा जल्दी अमीर बनने का तरीका, चार साल के बच्चे की हत्या कर अंग निकालने का आरोप](https://www.amarujala.com/chhattisgarh/bilaspur-chhattisgarh/chhattisgarh-man-allegedly-kills-four-year-old-cousins-son-removes-organs-to-sell-after-social-media-influence-2026-11-09)
+*Amar Ujala Breaking* - Nov 09, 12:46 IST (iso: 2026-11-09T07:16:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/palsa-na-maka-sa-kaya-kaya-bramatha-kaya_f6afe75107dd2ccbd9f18ac5cddcb38b.jpeg?w=1200&dpr=1.0 -->
+
+छत्तीसगढ़ में एक आरोपी ने सोशल मीडिया से सीखा तरीका अपनाकर चार साल के बच्चे की हत्या कर अंग निकालने का प्रयास किया। पुलिस ने उसे गिरफ्तार कर पूछताछ शुरू कर दी है। छत्तीसगढ़: सोशल मीडिया से सीखा जल्दी अमीर बनने का तरीका, चार साल के बच्चे की हत्या कर अंग निकालने का आरोप।
+
+### ['मेरा बंदा तो रब है', 'रामायण' में लक्ष्मण बनकर छाए अभिनेता; पत्नी सरगुन मेहता हुईं भावुक](https://www.amarujala.com/photo-gallery/entertainment/television/sargun-mehta-pens-emotional-note-for-ravie-dubey-he-plays-lakshman-role-in-ramayana-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:10 IST (iso: 2026-11-09T06:40:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/saragana-mahata-ramayanae-ma-rava-thab_fd0fc6a433bfb0b1f851fad3068532a3.jpeg?w=1200&dpr=1.0 -->
+
+रवि दुबे ने रामायण में लक्ष्मण का किरदार निभाकर प्रशंसा कमाई है। उनकी पत्नी सरगुन मेहता ने दिवाली पर इस उपलब्धि पर खुशी जताई। 'रामायण' में लक्ष्मण का किरदार निभाने के लिए रवि दुबे की काफी तारीफ हो रही हैं। इसमें राम के रूप में रणबीर कपूर, सीता के रूप में साई पल्लवी, रावण के रूप में यश हैं। रवि दुबे की पत्नी सरगुन मेहता दिवाली पर काफी खुश हैं।
+
+### [सूखे से प्रभावित किसानों के साथ दिवाली मनाएंगे डिप्टी सीएम एकनाथ शिंदे, आज जालना का करेंगे दौरा](https://www.amarujala.com/india-news/dycm-shinde-to-visit-jalna-on-mon-interact-with-drought-hit-farmers-observe-diwali-with-their-kin-2026-11-08)
+*Amar Ujala National* - Nov 09, 12:00 IST (iso: 2026-11-09T06:30:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/dycm-shinde-to-visit-jalna-on-mon-interact-with-drought-hit-farmers-observe-diwali-with-their-kin_777b0ca145efe07e8cee181a2f4c4e7a.jpeg?w=1200&dpr=1.0 -->
+
+महाराष्ट्र के डिप्टी सीएम एकनाथ शिंदे ने जालना का दौरा किया। उन्होंने सूखे से प्रभावित किसानों के साथ दिवाली मनाई और उनकी समस्याओं पर चर्चा की। सूखे से प्रभावित किसानों के साथ दिवाली मनाएंगे डिप्टी सीएम एकनाथ शिंदे, आज जालना का करेंगे दौरा।
+
+### [देशभर में धूमधाम से मनाई जा रही दीपावली आतिशबाजी और खुशियों के बीच जश्न जारी](https://www.amarujala.com/video/india-news/diwali-is-being-celebrated-with-great-fervor-across-the-country-the-festivities-continue-amidst-fireworks-and-2026-11-09)
+*Amar Ujala National* - Nov 09, 01:42 IST (iso: 2026-11-08T20:12:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/diwali-celebrated-across-india_9ca0322cd9c3d85b0219b0613d3fce10.jpeg?w=1200&dpr=1.0 -->
+
+दीपावली के अवसर पर देशभर में आतिशबाजी और दीप प्रज्वलन के साथ उत्सव मनाए गए। शहरों और गांवों में खुशियों का माहौल रहा। देशभर में धूमधाम से मनाई जा रही दीपावली आतिशबाजी और खुशियों के बीच जश्न जारी।
+
+### ['सत्ता से जाने वाली है BJP', सरकार पर अभिजीत दीपके का बयान, किस पर कसा तंज?](https://www.abplive.com/news/india/cjp-abhijeet-dipke-predicted-bjp-govt-out-2029-lok-sabha-elections-protest-against-sir-3212477)
+*ABP Live (India)* - Nov 08, 13:03 IST (iso: 2026-11-08T07:33:50+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/fc90f958ca32f4d914aacd23b16d3dda17941226838591200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+अभिजीत दीपके ने भविष्यवाणी की कि 2029 के लोकसभा चुनावों में बीजेपी सत्ता से बाहर हो जाएगी। उन्होंने लोगों को बदलाव के लिए तैयार रहने की सलाह दी। यह बयान चुनाव आयोग के खिलाफ प्रदर्शन के दौरान दिया गया। कॉकरोच जनता पार्टी (CJP) के फाउंडर अभिजीत दिपके ने शनिवार को भविष्यवाणी की कि 2029 के लोकसभा चुनावों में बीजेपी सत्ता से बाहर हो जाएगी.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [यमन में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया, दो सप्ताह से होदेइदाह और सना में थे फंसे](https://www.amarujala.com/world/red-sea-19-indian-seafarers-stranded-in-yemen-evacuated-safely-after-two-weeks-in-hodeidah-and-sana-2026-11-09)
+*Amar Ujala Breaking* - Nov 09, 12:27 IST (iso: 2026-11-09T06:57:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/yamana-ma-fasa-sabha-19-bharataya-navaka-sarakashhata-thatavasa-na-tha-janakara_062a04e54f8449aa5667208d1280fcd2.jpeg?w=1200&dpr=1.0 -->
+
+यमन में दो सप्ताह से होदेइदाह और सना में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया। लाल सागर क्षेत्र में जारी तनाव के बीच यह उद्धार अभियान सफल रहा। लाल सागर: यमन में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया, दो सप्ताह से होदेइदाह और सना में थे फंसे।
+
+### [मिस्र के गीजा में बड़ा रेल हादसा, एक ट्रेन ने दूसरी को पीछे से मारी टक्कर; 7 की मौत और करीब 100 लोग](https://hindi.news18.com/world/rest-of-world-at-least-4-killed-88-injured-in-train-collision-in-egypt-giza-10973012.html)
+*News18 Hindi (World)* - Nov 08, 23:23 IST (iso: 2026-11-08T17:53:10+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Egypt-Train-Accident-2026-11-122eb73291f0c53c5f53fe243a2df1e7-1200x800.jpg -->
+
+मिस्र के गीजा में काहिरा-असवान रूट पर दो ट्रेनों की टक्कर हुई। कम से कम सात लोगों की मौत हुई और लगभग सौ यात्री घायल हुए। कई डिब्बे पटरी से उतर गए। Egypt Train Accident: मिस्र के गीजा प्रांत में काहिरा-असवान रेलवे रूट पर बड़ा हादसा हो गया. यहां दो ट्रेनों की टक्कर में कम से कम 7 लोगों की मौत हो गई, जबकि करीब 100 यात्री घायल हुए हैं.
+
+### [होर्मुज स्ट्रेट में फिर भड़की आग, एक और तेल टैंकर में धमाका, ईरान ने दी सख्त चेतावनी](https://hindi.news18.com/world/middle-east-iran-irgc-says-oil-tankers-hit-mines-in-hormuz-strait-10972961.html)
+*News18 Hindi (World)* - Nov 08, 22:04 IST (iso: 2026-11-08T16:34:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-Vs-America-In-Hormuz-2026-07-73f92c1016bf37a70e534ae0cf7dc6d7-1200x800.jpg -->
+
+होर्मुज स्ट्रेट में एक तेल टैंकर में विस्फोट के बाद आग लग गई। ईरानी नौसेना का दावा है कि जहाज बारूदी सुरंगों से टकराया। जहाज ने नेविगेशन सिस्टम बंद कर अनधिकृत रास्ता अपनाया था। Hormuz Strait News: होर्मुज स्ट्रेट में एक और तेल टैंकर में विस्फोट के बाद आग लग गई. ईरान की IRGC नौसेना का दावा है कि यह जहाज नौसैनिक बारूदी सुरंगों से टकराए थे.
 
 ### [सेनेगल के तट पर प्रवासियों से भरी नाव पलटी, 21 की मौत, सिर्फ एक व्यक्ति जिंदा बचा](https://hindi.news18.com/world/rest-of-world-senegal-migrant-boat-capsizes-21-dead-atlantic-route-ws-e-10972882.html)
 *News18 Hindi (World)* - Nov 08, 20:42 IST (iso: 2026-11-08T15:12:24+00:00)
@@ -66,17 +118,15 @@ President Isaac Herzog will hand the mandate to Likud leader Gideon Sa'ar to for
 
 सऊदी अरब ने हूती समूह को चीन निर्मित मिसाइलें बेचने का आरोप लगाया। यह हथियार सऊदी की तबाही के लिए उपयोग किए जा रहे हैं। मध्य पूर्व में तनाव बढ़ने का यह नया कारण सामने आया है। जिसका डर था वही हुआ, चीन निकला असली 'खलनायक', हूतियों को बेच रहा सऊदी अरब को तबाह करने का सामान।
 
-### [हूतियों ने ठोके सऊदी के 6 ठिकाने, अरामको तेल फैसिलिटी समेत रियाद एयरपोर्ट पर भी हमले](https://hindi.news18.com/world/middle-east-houthis-claim-6-attacks-on-saudi-arabia-aramco-facilities-riyadh-airport-again-on-target-10972284.html)
-*News18 Hindi (World)* - Nov 08, 12:53 IST (iso: 2026-11-08T07:23:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-Missile-Attack-2026-10-7ebe1383b9d6a0b883dc3435b44bd9c3-1200x800.jpg -->
+---
 
-यमन के हूती विद्रोहियों ने सऊदी अरब के छह ठिकानों पर हमले किए। अरामको तेल सुविधा और रियाद हवाई अड्डे को भी निशाना बनाया गया। Houthi Attack on Saudi Arabia: एक बार फिर से हूतियों ने सऊदी अरब के सैन्य ठिकानों को निशाना बनाया है. उन्होंने सऊदी की महत्वपूर्ण ऑयल फैसिलिटी अरामको समेत अलग-अलग अड्डों पर हमले किए हैं. एक बार फिर से रियाद हवाई अड्डे पर भी हूती विद्रोहियों ने निशाना साधा है.
+## अमेरिका
 
-### [अमेरिका को ईरान की दोटूक! बोला- हमला किया तो इतनी कीमत चुकानी होगी कि दोबारा हिम्मत नहीं करेगा](https://www.patrika.com/world-news/iran-navy-warns-us-forces-cost-of-aggression-mohsen-razzaqi-21036917)
-*Patrika (World)* - Nov 08, 12:47 IST (iso: 2026-11-08T07:17:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Middle-East-Conflict-2.webp -->
+### [कॉलेज के एक समारोह में गोलीबारी, जश्न के बीच अचानक हुआ हमला, एक की मौत; 20 वर्षीय आरोपी गिरफ्तार](https://www.amarujala.com/world/usa-gunfire-erupts-during-college-celebration-one-killed-20-year-old-suspect-arrested-2026-11-09)
+*Amar Ujala World* - Nov 09, 01:50 IST (iso: 2026-11-08T20:20:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/kalja-parasara-ma-galbra_432d644494e8da8126e3005934ab10c2.jpeg?w=1200&dpr=1.0 -->
 
-ईरान के उत्तरी बेड़े के कमांडर ने अमेरिकी सेना को चेतावनी दी। उन्होंने कहा कि नौसैनिक इकाइयां समुद्री सीमाओं की रक्षा के लिए चौबीसों घंटे तैयार हैं। Iran Navy Warning US: ईरान के उत्तरी बेड़े के कमांडर रियर एडमिरल मोहसेन रज्जाकी ने क्षेत्र में मौजूद अमेरिकी सेनाओं को चेतावनी दी है। उन्होंने कहा कि ईरान के सशस्त्र बलों के बीच समन्वय अपने उच्चतम स्तर पर है, और नौसैनिक इकाइयां समुद्री सीमाओं की रक्षा के लिए चौबीसों घंटे तैयार हैं।
+अमेरिका के एक कॉलेज समारोह में अचानक गोलीबारी हुई जिसमें एक व्यक्ति की मौत हो गई। पुलिस ने 20 वर्षीय आरोपी को घटनास्थल से गिरफ्तार कर लिया है। अमेरिका: कॉलेज के एक समारोह में गोलीबारी, जश्न के बीच अचानक हुआ हमला, एक की मौत; 20 वर्षीय आरोपी गिरफ्तार।
 
 ---
 
@@ -121,52 +171,6 @@ President Isaac Herzog will hand the mandate to Likud leader Gideon Sa'ar to for
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/mount-rainbow-7-2026-11-7f97e17e978e1e66b94fc4b701f2abaf-1200x800.jpg -->
 
 चीन के झांगे डेनशिया नेशनल पार्क में इंद्रधनुषी पहाड़ मौजूद हैं। इन पर लाल, पीले, हरे और बैंगनी रंगों की चादर बिछी है। यह प्राकृतिक दृश्य किसी पेंटिंग जैसा लगता है। यह क्षेत्र पर्यटकों के बीच लोकप्रिय है। Mysterious rainbow mountains: आपने आसमान में इंद्रधनुष तो खूब देखा होगा, लेकिन क्या कभी ऐसे पहाड़ देखे हैं, जिन पर सात रंगों की चादर बिछी हो?
-
-### [पाकिस्तान से आई 'हिंदुओं' के लिए बधाई, दिवाली पर शहबाज का लंबा-चौड़ा मैसेज, आतंकियों को पालने वाले](https://hindi.news18.com/world/pakistan-pakistani-pm-shehbaz-sharif-wishes-diwali-2026-to-hindus-of-the-world-wrote-long-message-on-social-media-10971845.html)
-*News18 Hindi (World)* - Nov 08, 13:20 IST (iso: 2026-11-08T07:50:19+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-diwali-2026-11-187db58a2927cdfaa8afedf9a9d64789-1200x800.jpg -->
-
-पाकिस्तान के प्रधानमंत्री शहबाज शरीफ ने हिंदुओं को दिवाली की बधाई दी है। यह बधाई तब आई जब कश्मीर में आतंकवाद का मुद्दा गरम है। पाकिस्तान में अल्पसंख्यक हिंदुओं की संख्या घट रही है। इस बधाई को विरोध का विषय बनाया जा रहा है। Pakistani PM Shehbaz Sharif Wishes Diwali: जिस देश से आने वाले आतंकवादियों ने कश्मीर में लोगों को धर्म पूछ-पूछकर मौत के घाट उतारा, उस देश के मुखिया अब हिंदुओं को दिवाली की बधाई दे रहे हैं.
-
-### [राहुल गांधी-प्रियंका गांधी ने देश को दी दिवाली पर शुभकामनाएं, कहा- 'पूरे भारत में...'](https://www.abplive.com/news/india/rahul-gandhi-priyanka-gandhi-vadra-and-mallikarjun-kharge-wishes-diwali-3212450)
-*ABP Live (India)* - Nov 08, 12:59 IST (iso: 2026-11-08T07:29:46+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/fa2066c6bbaea4c30c0d9c725bcb1fdb17941240880291200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-राहुल गांधी और प्रियंका गांधी ने देशवासियों को दिवाली की शुभकामनाएं दीं। उन्होंने हर घर में समृद्धि और शांति की कामना की। यह संदेश सोशल मीडिया पर वीडियो के माध्यम से साझा किया गया। नेता विपक्ष और कांग्रेस सांसद राहुल गांधी ने देशवासियों को दिवाली की बधाई दी. उन्होंने एक्स पर अपना एक वीडियो पोस्ट कर कहा कि आपको और आपके परिवार को दीपावली की हार्दिक शुभकामनाएं.
-
-### [गैस चेंबर बना दिल्ली- NCR, दिवाली की रात तक और खराब होंगे हालात, कहां कितना है AQI](https://www.abplive.com/news/india/delhi-pollution-diwali-farm-fires-punjab-haryana-worst-aqi-isro-satellite-show-3212440)
-*ABP Live (India)* - Nov 08, 12:58 IST (iso: 2026-11-08T07:28:49+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/116cd634c0bb9112b0bc8db92a31dcd117941141475021200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-दिल्ली में दिवाली की रात को वायु गुणवत्ता और खराब होने का अनुमान है। पंजाब और हरियाणा में पराली जलाने की घटनाएं बढ़ी हैं। शनिवार शाम को एयर क्वालिटी इंडेक्स 369 दर्ज किया गया। दिल्ली में दिवाली की रात (8 नवंबर) को हालात और भी खराब होने के संकेत मिल रहे हैं. शनिवार को पंजाब और हरियाणा में पराली जलाने की घटनाएं इस सीजन के सबसे हाई लेवल पर पहुंच गईं हैं.
-
----
-
-## दुनिया
-
-### ['सत्ता से जाने वाली है BJP', सरकार पर अभिजीत दीपके का बयान, किस पर कसा तंज?](https://www.abplive.com/news/india/cjp-abhijeet-dipke-predicted-bjp-govt-out-2029-lok-sabha-elections-protest-against-sir-3212477)
-*ABP Live (India)* - Nov 08, 13:03 IST (iso: 2026-11-08T07:33:50+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/fc90f958ca32f4d914aacd23b16d3dda17941226838591200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-अभिजीत दीपके ने भविष्यवाणी की कि 2029 के लोकसभा चुनावों में बीजेपी सत्ता से बाहर हो जाएगी। उन्होंने लोगों को बदलाव के लिए तैयार रहने की सलाह दी। यह बयान चुनाव आयोग के खिलाफ प्रदर्शन के दौरान दिया गया। कॉकरोच जनता पार्टी (CJP) के फाउंडर अभिजीत दिपके ने शनिवार को भविष्यवाणी की कि 2029 के लोकसभा चुनावों में बीजेपी सत्ता से बाहर हो जाएगी.
-
-### [कभी LTTE की बोलती थी तूती, अब वहां BSF फहराएगा तिरंगा, कमांडोज ले रहे स्‍पेशल ट्रेनिंग](https://hindi.news18.com/news/nation/bsf-special-commandos-is-undergoing-special-training-prior-to-deployment-at-indian-high-commission-in-colombo-and-jaffna-10972299.html)
-*News18 Hindi (World)* - Nov 08, 13:01 IST (iso: 2026-11-08T07:31:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/BSF-Training_01-2026-11-d94e7a78f33c3aed6fab8cfe8c658aaa-1200x800.jpg -->
-
-बीएसएफ के विशेष कमांडोज की तैयारी शुरू हो गई है। उनका लक्ष्य पूर्व में एलटीटीई के प्रभाव वाले क्षेत्रों में तिरंगा फहराना है। ट्रेनिंग में विभिन्न सेनाओं के विशेषज्ञों का सहयोग लिया जा रहा है। जहां कभी एलटीटीई की तूती बोलती थी और किसी भी देश की सेना वहां घुसने में डरती थी, अब वहां बीएसएफ तिरंगा फहराने जा रही है.
-
-### [प्रशांत किशोन ने समझाया मुस्लिम-ब्राह्मणों के वोट का फॉर्मूला, दी ये नसीहत](https://www.abplive.com/news/india/prashant-kishor-viral-video-brahmin-muslim-vote-equation-3212475)
-*ABP Live (India)* - Nov 08, 12:46 IST (iso: 2026-11-08T07:16:26+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/4efc2c2695fd2472a2d6454e881aa51417941225783921115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-प्रशांत किशोर ने बिहार में ब्राह्मण और मुस्लिम वोटों के समीकरण पर वीडियो जारी किया। उन्होंने कांग्रेस के पुराने वोट बैंक और लोकतंत्र की गणना पर टिप्पणी की। बिहार में जनसुराज पार्टी के संस्थापक प्रशांत किशोर का वीडियो वायरल हो रहा है. इसमें वह ब्राह्मण और मुस्लिम वोट के समीकरण पर बात करते नजर आ रहे हैं. वह कह रहे हैं कि मेरे भाई आप के दादा-परदादा पुरखे कांग्रेस के थे.
-
-### ['ये देश आपका ऋणी है', बस्तर में जवानों से बोले PM मोदी, दिवाली पर दी शुभकामनाएं](https://www.abplive.com/news/india/pm-narendra-modi-salute-security-forces-in-bastar-chhattisgarh-diwali-2026-3212470)
-*ABP Live (India)* - Nov 08, 12:33 IST (iso: 2026-11-08T07:03:05+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/19e6849dec973f96fe10d73bd53df2551794121282260344_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-प्रधानमंत्री नरेंद्र मोदी ने दिवाली पर छत्तीसगढ़ के बस्तर में सुरक्षाबलों के साथ समय बिताया। उन्होंने नक्सलवाद के अंत का दावा किया और पूर्व सरकारों पर सुरक्षाबलों की उपेक्षा का आरोप लगाया। प्रधानमंत्री नरेंद्र मोदी ने दिवाली के मौके पर छत्तीसगढ़ के बस्तर में कहा कि आज नक्सल का आतंक खत्म हो चुका है और विकास की बहार शुरू हो गई है.
 
 ---
 

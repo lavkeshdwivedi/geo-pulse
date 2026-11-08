@@ -1,16 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 08, 2026 21:56 IST
+**Updated:** November 09, 2026 02:20 IST
 
 ---
 
 ## Middle East & Africa
 
-### [U.S. launches task force to disrupt land transit routes into Iran](https://www.thehindu.com/news/international/us-launches-task-force-to-disrupt-land-transit-routes-into-iran/article71680871.ece)
-*The Hindu (International)* - Nov 08, 17:16 IST (iso: 2026-11-08T11:46:38+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/n72rhs/article71680888.ece/alternates/LANDSCAPE_1200/iStock-1270385173.jpg -->
+### [Eisenkot warns of Israel crisis as he seeks to replace Netanyahu’s government](https://www.thehindu.com/news/international/eisenkot-warns-of-israel-crisis-as-he-seeks-to-replace-netanyahus-government/article71681159.ece)
+*The Hindu (International)* - Nov 08, 23:01 IST (iso: 2026-11-08T17:31:58+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/1mws2d/article71681167.ece/alternates/LANDSCAPE_1200/Israel_Elections_35248.jpg -->
 
-Washington established a task force to disrupt overland transit routes into Iran. This move expands the existing naval blockade of Iranian ports. The restrictions follow an eight-month conflict where Tehran restricted passage through the Strait of Hormuz, choking global energy supplies. The restrictions would expand on a U. S. naval blockade of Iranian ports during the two countries' eight-month war, in which Tehran has also restricted passage through the critical Strait of Hormuz trade route, choking global energy supplies.
+Nathan Eisenkot received a formal mandate from President Isaac Herzog to form a new Israeli government. The 66 year old former military chief has 28 days to build a coalition. His bloc currently lacks a clear majority in the Knesset. Eisenkot aims to bridge deep political polarization under Benjamin Netanyahu. The task is difficult given the fragmented nature of the current parliamentary landscape. He must secure enough seats to command a majority within the strict deadline.
 
 ### [‘For the first time I have my own chair’: Gaza siblings find new freedom](https://news.un.org/feed/view/en/story/2026/11/1168759)
 *UN News* - Nov 07, 17:30 IST (iso: 2026-11-07T12:00:00+00:00)
@@ -48,12 +48,6 @@ Nearly 90 million refugees live in countries facing high climate hazard exposure
 
 Iran exempted India, China, Iraq, and Qatar from Strait of Hormuz transit restrictions. Tehran announced the exemptions on November 3. The decision targets other Asian allies. It aims to punish states supporting the United States. On November 3, as Americans voted in the midterm elections, Tehran announced which states may use the Strait of Hormuz. Amir Hayat Moqaddam, deputy chairman of the Iranian parliament’s National Security and Foreign Policy Committee, stated that vessels from India, China, Iraq and Qatar are exempt from its transit restrictions.
 
-### [ANC faces anger over poor services as South Africans vote in local elections](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
-*The Guardian* - Nov 04, 20:20 IST (iso: 2026-11-04T14:50:47+00:00)
-<!-- image: https://i.guim.co.uk/img/media/e9b250d3d92ad0c01aabfd863c7f2487bcf38208/632_208_4152_3322/master/4152.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dda5de08d262ccc1c762290f772aee0c -->
-
-The African National Congress faces a poor result in South Africa’s local elections. Voters are frustrated by water outages, power cuts, and crumbling infrastructure. The party is expected to secure less than a third of the total vote. Party expected to get less than a third of the vote amid frustration over water outages and power cutsThe African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at th.
-
 ### [Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms](https://news.un.org/feed/view/en/story/2026/11/1168740)
 *UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-06-2025-UNICEF-Gaza-08.jpg/image560x340cropped.jpg -->
@@ -71,6 +65,12 @@ A UN commission member stated that many children born in Syria since 2011 lack l
 <!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Reuters journalist Giulia Paravicini discussed her recent reporting trip to Asmara, the capital of Eritrea. She detailed life in the isolated nation and its leadership's strategic calculations. The conversation covered mounting regional tensions and the country's complex relationship with neighboring Ethiopia. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
+
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Oct 30, 05:30 IST (iso: 2026-10-30T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group published its weekly On Our Radar briefing. The report highlights specific conflicts and crises that their analysts are currently monitoring. Field experts explain why these hotspots matter or what actions are needed. The publication covers both under-reported trends and major developments. It serves as a regular update on global security issues. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching.
 
 ---
 
