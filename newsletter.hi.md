@@ -1,176 +1,180 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 09, 2026 05:42 IST
+**अपडेट:** November 09, 2026 12:50 IST
+
+---
+
+## दुनिया
+
+### [इस गोवर्धन पूजा भगवान को दें खास रूप, घर में ऐसे सजाएं गोवर्धन महाराज](https://www.amarujala.com/lifestyle/govardhan-puja-2026-these-5-simple-methods-decorate-govardhan-maharaj-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:49 IST (iso: 2026-11-09T07:19:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2025/10/23/kapa-sathata-ghara-ma-bnaii-gaii-gavarathhana-maharaja-ka-paratama-savatha_bf6a6db762d36f09c9add0c009f23b25.jpeg?w=1200&dpr=1.0 -->
+
+गोवर्धन पूजा पर घर में भगवान की मूर्ति को विशेष रूप से सजाने के लिए सरल और सुंदर सजावट के सुझाव दिए गए हैं। गोवर्धन महाराज की सजावट के लिए अपनाएं ये आसान और खूबसूरत टिप्स। इस गोवर्धन पूजा भगवान को दें खास रूप, घर में ऐसे सजाएं गोवर्धन महाराज।
+
+### [यूपीआई, बैंकिंग एवं ऑनलाइन व्यापार पर साइबर अपराधियों की नजर, कैसे सुरक्षित होगा डिजिटल भुगतान?](https://www.amarujala.com/india-news/cyber-fraud-cybercriminals-target-upi-banking-and-online-transactions-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:36 IST (iso: 2026-11-09T07:06:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/23/cait_af62b52fd39242097aaaa7dd239d4a5a.jpeg?w=1200&dpr=1.0 -->
+
+साइबर अपराधी यूपीआई, बैंकिंग और ऑनलाइन व्यापार पर नजर रख रहे हैं, जिससे डिजिटल भुगतान की सुरक्षा को चुनौती है। साइबर फ्रॉड: यूपीआई, बैंकिंग एवं ऑनलाइन व्यापार पर साइबर अपराधियों की नजर, कैसे सुरक्षित होगा डिजिटल भुगतान।
+
+### [खूब सारी मिठाई खाकर बढ़ा लिया वजन? अब ऐसे करें डिटॉक्स, जानें वजन घटाने के आसान तरीके](https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-to-lose-weight-after-eating-too-many-sweets-healthy-diet-and-detox-tips-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:22 IST (iso: 2026-11-09T06:52:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/how-to-lose-weight-after-eating-too-many-sweets_04400401c7c996ec81f585107c18cc67.jpeg?w=1200&dpr=1.0 -->
+
+लेख में मिठाई खाने के बाद वजन घटाने के उपाय बताए गए हैं। इसमें डाइट टिप्स और शरीर को स्वस्थ रखने के आसान तरीके शामिल हैं। How to Lose Weight After Eating Too Many Sweets: इस लेख में जानें ज्यादा मिठाई खाने के बाद बढ़े वजन को कैसे कंट्रोल करें, शरीर को स्वस्थ रखने के आसान तरीके, डाइट टिप्स और वजन घटाने के सही उपाय।
+
+### [दिवाली पर करीना कपूर ने दिखाया नवाबी लुक, पगड़ी पर लगी कलगी में छिपा है खानदानी राज](https://www.amarujala.com/entertainment/kareena-kapoor-viral-diwali-look-gushed-on-social-media-for-wearing-pataudi-royal-kalgi-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:20 IST (iso: 2026-11-09T06:50:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/karana-kapara_dfdcf40686af78d7dad9edf2d2f29a1f.jpeg?w=1200&dpr=1.0 -->
+
+करीना कपूर का दिवाली लुक सोशल मीडिया पर वायरल हो रहा है। उनके नवाबी आउटफिट में पगड़ी पर लगी कलगी ने विशेष ध्यान खींचा। करीना कपूर का कथिक दिवाली लुक सोशल मीडिया पर वायरल हो रहा है। इस वीडियो में वह पूरी तरह नवाबी लुक में दिखाई दे रही हैं। उनके आउटफिट में सबसे ज्यादा ध्यान उनकी पगड़ी पर लगी कलगी खींच रही है।
+
+### [जंगल सफारी के दौरान पर्यटकों के सामने आ गया टाइगर, हाथी की तरफ लगाई छलांग, दहशत में मच गई चीख-पुकार](https://www.amarujala.com/bizarre-news/tiger-abruptly-attacked-on-tourist-sitting-on-elephant-in-a-nepal-national-park-animal-video-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:17 IST (iso: 2026-11-09T06:47:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/tiger-abruptly-attacked-on-tourist-sitting-on-elephant-in-a-nepal-national-park-animal-video_6f37ce586b8bd4d25c6480988af37ac5.jpeg?w=1200&dpr=1.0 -->
+
+नेशनल पार्क में हाथी पर सवार पर्यटकों के सामने अचानक टाइगर आ गया। जानवर की फुर्ती देखकर पर्यटकों में दहशत फैल गई और चीख-पुकार मच गई। टाइगर की फुर्ती देखकर पर्यटकों के होश उड़ गए और मौके पर चीख-पुकार मच गई। जंगल सफारी के दौरान पर्यटकों के सामने आ गया टाइगर, हाथी की तरफ लगाई छलांग, दहशत में मच गई चीख-पुकार।
+
+### ['नासमझ हैं, पर इरादे बुरे नहीं': एनवीडिया के सीईओ जेन्सेन हुआंग के समर्थन में आए एलन मस्क, विवाद पर](https://www.amarujala.com/world/elon-musk-defends-nvidia-ceo-jensen-huang-after-affair-confession-2026-11-09)
+*Amar Ujala World* - Nov 09, 12:17 IST (iso: 2026-11-09T06:47:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/elna-masaka-saiio-sapasaekasa_a55f49daab1587258b296fef0da0856d.jpeg?w=1200&dpr=1.0 -->
+
+एलन मस्क ने एनवीडिया के सीईओ जेन्सेन हुआंग के समर्थन में बयान दिया। उन्होंने कहा कि हुआंग की गलतफहमी थी, पर इरादे बुरे नहीं थे। यह टिप्पणी हाल के विवाद के बीच आई। 'नासमझ हैं, पर इरादे बुरे नहीं': एनवीडिया के सीईओ जेन्सेन हुआंग के समर्थन में आए एलन मस्क, विवाद पर क्या बोले?
+
+### [95% से ज्यादा अंक लाने हैं तो अपनाएं ये आसान तरीके, तैयारी होगी मजबूत](https://www.amarujala.com/education/cbse-board-exam-2027-expert-tips-to-score-above-95-in-class-10-and-12-exams-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:06 IST (iso: 2026-11-09T06:36:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/cbse-board-exam-2027_290ad26406beb6df2c4813a35b23e29e.jpeg?w=1200&dpr=1.0 -->
+
+सीबीएसई बोर्ड परीक्षा 2027 में 95 फीसदी से अधिक अंक लाने के लिए विशेष रणनीति जरूरी है। विशेषज्ञों ने एनसीईआरटी किताबों का नियमित अभ्यास करने की सलाह दी है। सही तैयारी से परिणाम बेहतर मिलते हैं। सीबीएसई 10वीं और 12वीं बोर्ड परीक्षा 2027 में 95 फीसदी से ज्यादा अंक लाने के लिए सही तैयारी और पढ़ाई की रणनीति जरूरी है।
+
+### [जेन्सेन हुआंग कैसे बने 14.57 लाख करोड़ के मालिक?: रेस्त्रां में बनी कंपनी की योजना, जानें दौलत](https://www.amarujala.com/world/who-is-jensen-huang-nvidia-ceo-net-worth-155-billion-wealth-ai-boom-success-story-2026-11-09)
+*Amar Ujala Breaking* - Nov 09, 12:00 IST (iso: 2026-11-09T06:30:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/jensen-huang-net-worth_a335710e614d2fa5f60e44c4a1ff3b13.jpeg?w=1200&dpr=1.0 -->
+
+जेन्सेन हुआंग की दौलत 14.57 लाख करोड़ रुपये तक पहुंच गई है। एनवीडिया की स्थापना एक रेस्त्रां में हुई थी। एआई बुम ने कंपनी और उसके सीईओ की संपत्ति को बढ़ावा दिया। जेन्सेन हुआंग कैसे बने 14.57 लाख करोड़ के मालिक?: रेस्त्रां में बनी कंपनी की योजना, जानें दौलत।
+
+### ['सड़क पर भौंकने वाले...', रणबीर की परफॉर्मेंस पर फिदा हुए राम गोपाल वर्मा, आलोचकों के लिए कही ये बात](https://www.amarujala.com/entertainment/ram-gopal-varma-review-ranbir-yash-movie-ramayana-ram-gopal-varma-ram-gopal-varma-review-ramayana-ramayana-ramayana-movie-ramayana-review-who-is-ram-gopal-varma-ranbir-kapoor-yash-sai-pallavi-ramayana-collection-ramayana-box-office-collection-ramayana-box-office-collection-ramayana-worldwide-collection-entertainment-entertainment-news-rama-gapal-varama-rama-gapal-varama-ka-ramayanae-para-ravaya-ramayanae-ramayanae-falma-ramayanae-ka-ravaya-rama-gapal-varama-kana-ha-ranaebra-kapara-yasha-saii-pallva-ramayanae-kalkashana-ramayanae-bkasa-oifasa-kalkashana-ramayanae-ka-varaldavaida-kalkashana-2026-11-09)
+*Amar Ujala National* - Nov 09, 11:59 IST (iso: 2026-11-09T06:29:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/rama-gapal-varama_abf4c7888233006da79a4b06b8351703.jpeg?w=1200&dpr=1.0 -->
+
+रणबीर कपूर की फिल्म 'रामायण' ने रिलीज के चार दिनों में घरेलू बॉक्स ऑफिस पर 250 करोड़ रुपये का बिजनेस किया है। फिल्ममेकर राम गोपाल वर्मा ने रणबीर की परफॉर्मेंस की सराहना की है। रणबीर कपूर स्टारर फिल्म 'रामायण' को रिलीज हुए चार दिन हो गए हैं। इस फिल्म ने घरेलू बॉक्स ऑफिस पर 250 करोड़ से ज्यादा का बिजनेस कर लिया है।
+
+### [क्या टूटने से बचा चीची का रिश्ता? पत्नी सुनीता बोलीं- 40 साल पुरानी शादी क्यों नहीं टिकेगी](https://www.amarujala.com/entertainment/sunita-ahuja-disclosed-her-marriage-with-actor-govinda-cant-dissolve-easily-2026-11-09)
+*Amar Ujala National* - Nov 09, 11:59 IST (iso: 2026-11-09T06:29:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/01/18/gavatha-sanata-aahaja_7da88b937688209c61ffee6e27be6f68.jpeg?w=1200&dpr=1.0 -->
+
+अभिनेत्री सुनीता आहूजा ने कहा कि उनका गोविंदा से 40 साल पुराना रिश्ता टूटने वाला नहीं है। उन्होंने यह भी उल्लेख किया कि गोविंदा को अपना जीवन जीने दिया जाना चाहिए। सुनीता आहूजा ने अभिनेता गोविंदा को लेकर फिर एक अहम बयान दिया है। उन्होंने कहा कि उनकी 40 साल की शादी तोड़ना कोई आसान काम नहीं है। हालांकि बीते दिनों उन्होंने यह कहा था कि गोविंदा को उनका जीवन जीने देना चाहिए।
+
+### [अचानक तेज उठ रही है खांसी तो क्या करें? जानें तुरंत राहत पाने के उपाय और कब डॉक्टर को दिखाना है](https://www.amarujala.com/photo-gallery/lifestyle/fitness/sudden-severe-cough-what-to-do-immediately-causes-home-remedies-and-when-to-see-a-doctor-2026-11-09)
+*Amar Ujala National* - Nov 09, 11:38 IST (iso: 2026-11-09T06:08:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/sudden-severe-cough_bb27e5e7dec3883bfbe7f031e028b230.jpeg?w=1200&dpr=1.0 -->
+
+अचानक तेज खांसी में तुरंत राहत के लिए घरेलू उपाय अपनाए जा सकते हैं। गंभीर लक्षणों के मामले में डॉक्टर से संपर्क करना आवश्यक है। Sudden Severe Cough: इस लेख में जानें अचानक तेज खांसी उठने पर तुरंत क्या करें, खांसी के संभावित कारण, राहत पाने के घरेलू उपाय और किन लक्षणों में डॉक्टर से संपर्क करना जरूरी है। अचानक तेज उठ रही है खांसी तो क्या करें?
+
+### [ऑस्कर ने शेयर किया दीपिका-रणवीर की फिल्म का गाना, यूजर्स ने दिए गजब रिएक्शन; देखें पोस्ट](https://www.amarujala.com/entertainment/the-academy-share-deepika-padukone-ranveer-singh-movie-ramleela-song-nagada-sang-dhol-2026-11-09)
+*Amar Ujala Breaking* - Nov 09, 11:18 IST (iso: 2026-11-09T05:48:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/nagaugdha-saga-dhal_964c595ee1d34bdee658bcebf28fba45.jpeg?w=1200&dpr=1.0 -->
+
+अकादमी ने दीपिका और रणवीर की 2013 की फिल्म रामलीला का गाना शेयर किया। संजय लीला भंसाली ने इसका निर्देशन किया था। दीपिका-रणवीर की फिल्म 'रामलीला' साल 2013 में रिलीज हुई थी। इस फिल्म का निर्देशन संजय लीला भंसाली ने किया था। बता दें कि द अकादमी ने इससे पहले दीपिका-रणबीर की फिल्म 'ये जवानी है दीवानी' का एक सीन भी शेयर किया था।
+
+### [रणथम्भौर में दीपावली पर खुशखबरी: बाघिन सिद्धि शावक के साथ कैमरे में कैद, दूसरी बार बनी मां](https://www.amarujala.com/rajasthan/ranthambore-tigress-t-125-siddhi-spotted-with-cub-camera-trap-2026-11-09)
+*Amar Ujala Breaking* - Nov 09, 11:09 IST (iso: 2026-11-09T05:39:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/bghana-t-125-sathathha_3812a8b59f173cb24c57584ce4aa84a9.jpeg?w=1200&dpr=1.0 -->
+
+रणथम्भौर टाइगर रिजर्व में आठ साल की बाघिन सिद्धि ने दूसरी बार शावक को जन्म दिया। कैमरा ट्रैप में वह अपने शावक के साथ दिखी। राजस्थान के रणथम्भौर टाइगर रिजर्व में करीब आठ साल की बाघिन T-125 सिद्धि कैमरा ट्रैप में अपने शावक के साथ नजर आई है। रणथम्भौर में दीपावली पर खुशखबरी: बाघिन सिद्धि शावक के साथ कैमरे में कैद, दूसरी बार बनी मां।
+
+---
+
+## एशिया-प्रशांत
+
+### [मंत्री कपिल मिश्रा का बड़ा दावा, बोले-पंजाब में दिवाली की रात 1200 जगह जलाई पराली](https://www.amarujala.com/delhi-ncr/kapil-mishra-stated-that-stubble-was-burned-at-1-200-locations-in-punjab-on-night-of-diwali-2026-11-09)
+*Amar Ujala Breaking* - Nov 09, 12:39 IST (iso: 2026-11-09T07:09:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/matara-kapal-mashara_bbb800e881285f5a36dfcdee140413c8.png?w=1200&dpr=1.0 -->
+
+दिल्ली के मंत्री कपिल मिश्रा का दावा है कि पंजाब में दिवाली की रात 1200 जगहों पर पराली जलाई गई। पंजाब में पराली जलाने को लेकर दिल्ली के मंत्री कपिल मिश्रा ने बड़ा आरोप लगाया है। मंत्री कपिल मिश्रा का बड़ा दावा, बोले-पंजाब में दिवाली की रात 1200 जगह जलाई पराली।
+
+### [शेख हसीना की वतन वापसी की तैयारी तेज! नए पासपोर्ट और NID के लिए किया आवेदन](https://hindi.news18.com/world/south-asia-sheikh-hasina-return-bangladesh-new-passport-nid-application-2026-10973774.html)
+*News18 Hindi (World)* - Nov 09, 12:37 IST (iso: 2026-11-09T07:07:28+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-09-28T165518.331-2026-09-66d68b29de9bbb5f851b215a92d04faf-1200x800.jpg -->
+
+शेख हसीना के वकीलों ने नई दिल्ली में बांग्लादेश हाई कमीशन को नया पासपोर्ट और NID जारी करने का पत्र लिखा। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना की वतन वापसी के संकेत तेज हो गए हैं. 9 नवंबर को उनके वकीलों ने नई दिल्ली स्थित बांग्लादेश हाई कमीशन को पत्र लिखकर नया पासपोर्ट और राष्ट्रीय पहचान पत्र (NID) जारी करने की मांग की है.
+
+### [क्या दिसंबर में लौटेंगी शेख हसीना? नए पासपोर्ट के आवेदन से बढ़ी हलचल; वकील ने किया खुलासा](https://www.amarujala.com/world/sheikh-hasina-applies-for-new-passport-plans-bangladesh-return-december-2026-11-09)
+*Amar Ujala World* - Nov 09, 12:26 IST (iso: 2026-11-09T06:56:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/shakha-hasana_fe61d2a03e66934c4a0edf5ad6771175.jpeg?w=1200&dpr=1.0 -->
+
+शेख हसीना के वकील ने बताया कि पूर्व प्रधानमंत्री ने नए पासपोर्ट के लिए आवेदन किया है। यह कदम दिसंबर में बांग्लादेश लौटने की संभावना को मजबूत करता है। बांग्लादेश: क्या दिसंबर में लौटेंगी शेख हसीना? नए पासपोर्ट के आवेदन से बढ़ी हलचल; वकील ने किया खुलासा।
+
+### [दमघोंटू हुई दिल्ली की हवा, प्रदूषण से बचने के लिए घर लाएं ये 5 एयर प्यूरीफायर, कीमत 5,000 से कम](https://www.amarujala.com/technology/gadgets/delhi-aqi-crosses-1700-buy-these-5-air-purifiers-under-rs-5000-eureka-levoit-qubo-other-options-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:24 IST (iso: 2026-11-09T06:54:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/air-purifier_dffd974c6eb0893ab63784f8a8dd96fd.jpeg -->
+
+दिल्ली में दिवाली की रात वायु गुणवत्ता सूचकांक 1,700 के पार चला गया। प्रदूषण से बचाव के लिए 5,000 रुपये से कम कीमत वाले एयर प्यूरीफायर की मांग बढ़ी है। Air Purifier Under 5000: दिवाली की रात दिल्ली का एक्यूआई (AQI) 1,700 के खतरनाक आंकड़े को पार कर गया। इस जहरीली हवा और स्मॉग से खुद को बचाने के लिए एयर प्यूरीफायर बेहद जरूरी है।
+
+### [अपार्टमेंट बिल्डिंग में लगी आग, 14 की झुलसकर मौत, इमारत के नीचे कोचिंग, दुकानें और होटल बने काल](https://hindi.news18.com/world/china-china-high-rise-fire-tragedy-14-killed-dozens-injured-after-blaze-tears-through-mixed-use-building-in-taiyuan-10973745.html)
+*News18 Hindi (World)* - Nov 09, 12:11 IST (iso: 2026-11-09T06:41:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-Apartment-Fire-2026-11-d2c21be08abad34c063edd62a9fb5c61-1200x800.jpg -->
+
+ताइयुआन में एक बहुमंजिला इमारत में रविवार शाम आग लगी। इस हादसे में 14 लोगों की मौत हुई और 30 से अधिक लोग झुलस गए। आग पांचवीं मंजिल से शुरू होकर पूरी इमारत में फैल गई। उत्तरी चीन के शानक्सी प्रांत की राजधानी ताइयुआन में एक बड़ा हादसा हो गया. रविवार शाम एक बहुमंजिला बिल्डिंग में भीषण आग लग गई, जिससे 14 लोगों की मौत हो गई और 30 से ज्यादा लोग बुरी तरह झुलस गए.
+
+### [भारत आई नई बीएमडब्ल्यू एफ 450 जीएस स्पोर्ट: जानें इसमें कौन-से नए फीचर्स और उपकरण जोड़े गए हैं?](https://www.amarujala.com/automobiles/bmw-f-450-gs-sport-launched-in-india-check-upgraded-suspension-features-and-specs-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:08 IST (iso: 2026-11-09T06:38:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/bmw-f-450-gs-sport_886a6e7b5a8d3d6fd5f56aba42affb84.jpeg?w=1200&dpr=1.0 -->
+
+बीएमडब्ल्यू ने भारत में एफ 450 जीएस स्पोर्ट बाइक लॉन्च की। इसमें अपग्रेडेड सस्पेंशन और एडवांस्ड इलेक्ट्रॉनिक्स जैसे नए फीचर्स शामिल हैं। यह मॉडल ऑफ-रोड प्रदर्शन के लिए बेहतर है। भारत आई नई बीएमडब्ल्यू एफ 450 जीएस स्पोर्ट: जानें इसमें कौन-से नए फीचर्स और उपकरण जोड़े गए हैं?
+
+### ['रामायण' ने दुनियाभर में मचाया धमाल, पहले वीकएंड पर कमाए करोड़ों; 'गॉडजिला' से मिली कड़ी टक्कर](https://www.amarujala.com/entertainment/bollywood/ramayana-earns-more-than-500-crore-worldwide-in-opening-weekend-godzilla-minus-zero-leads-2026-11-09)
+*Amar Ujala National* - Nov 09, 11:53 IST (iso: 2026-11-09T06:23:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/falma-gadajal-mainasa-jara-oura-ramayanae_00058e26d4520ceac34de40b96a2f511.jpeg?w=1200&dpr=1.0 -->
+
+रणबीर कपूर और यश की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' ने वैश्विक बॉक्स ऑफिस पर शानदार प्रदर्शन किया है। फिल्म ने पहले वीकेंड पर करोड़ों रुपये कमाए हैं। भारतीय सिनेमा के लिए बॉक्स ऑफिस पर एक बड़ी खुशखबरी सामने आई है। रणबीर कपूर और यश की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' ने दुनियाभर में शानदार शुरुआत की है।
+
+### [बांग्‍लादेश में दिसंबर की सर्दी में मचेगा गदर, शेख हसीना ने पासपोर्ट के लिए किया आवेदन, टेंशन में](https://hindi.news18.com/world/south-asia-sheikh-hasina-application-for-new-bangladeshi-passport-preparation-on-to-return-native-counry-write-to-high-commissioner-10973495.html)
+*News18 Hindi (World)* - Nov 09, 11:47 IST (iso: 2026-11-09T06:17:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina1-2026-11-0df47668c2f36b2c5fa0dea0ce62062c-1200x800.jpg -->
+
+बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना दिसंबर में देश लौटने की तैयारी कर रही हैं। उन्होंने भारत स्थित बांग्लादेशी उच्चायोग से नए पासपोर्ट के लिए आवेदन किया है। Sheikh Hasina News: बांग्‍लादेश में हिंसक विरोध-प्रदर्शन के बाद लोकतांत्रिक तरीके से चुनी हुई शेख हसीना की सरकार को सत्‍ता से बेदखल कर दिया गया था. तत्‍कालीन प्रधानमंत्री शेख हसीना को भारत में शरण लेनी पड़ी थी.
+
+---
+
+## वैश्विक / बहुपक्षीय
+
+### ['स्वयंसेवक ही हैं आरएसएस की पहचान': भागवत ने सुनाया किस्सा, मुस्लिम शख्स ने किया था संघ पर प्रतिबंध](https://www.amarujala.com/india-news/mohan-bhagwat-swayamsevak-rss-identity-pracharak-selfless-service-recounts-anecdote-muslim-man-opposed-ban-2026-11-09)
+*Amar Ujala National* - Nov 09, 12:35 IST (iso: 2026-11-09T07:05:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/mohan-bhagwat_3624dafad4c62f734960f4e2b7ffe670.jpeg?w=1200&dpr=1.0 -->
+
+मोहन भागवत ने बताया कि एक मुस्लिम व्यक्ति ने आरएसएस पर प्रतिबंध लगने के विरोध में आवाज उठाई थी। 'स्वयंसेवक ही हैं आरएसएस की पहचान': भागवत ने सुनाया किस्सा, मुस्लिम शख्स ने किया था संघ पर प्रतिबंध।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
 ### [यमन में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया, दो सप्ताह से होदेइदाह और सना में थे फंसे](https://www.amarujala.com/world/red-sea-19-indian-seafarers-stranded-in-yemen-evacuated-safely-after-two-weeks-in-hodeidah-and-sana-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 12:27 IST (iso: 2026-11-09T06:57:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/yamana-ma-fasa-sabha-19-bharataya-navaka-sarakashhata-thatavasa-na-tha-janakara_062a04e54f8449aa5667208d1280fcd2.jpeg?w=1200&dpr=1.0 -->
+*Amar Ujala World* - Nov 09, 12:27 IST (iso: 2026-11-09T06:57:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/yamana-ma-bcae-gae-19-bharataya_ee1c8aeac74802cdde187b6a686be719.jpeg?w=1200&dpr=1.0 -->
 
 यमन में दो सप्ताह से होदेइदाह और सना में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया। लाल सागर क्षेत्र में जारी तनाव के बीच यह उद्धार अभियान सफल रहा। लाल सागर: यमन में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया, दो सप्ताह से होदेइदाह और सना में थे फंसे।
-
-### [मिस्र के गीजा में बड़ा रेल हादसा, एक ट्रेन ने दूसरी को पीछे से मारी टक्कर; 7 की मौत और करीब 100 लोग](https://hindi.news18.com/world/rest-of-world-at-least-4-killed-88-injured-in-train-collision-in-egypt-giza-10973012.html)
-*News18 Hindi (World)* - Nov 08, 23:23 IST (iso: 2026-11-08T17:53:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Egypt-Train-Accident-2026-11-122eb73291f0c53c5f53fe243a2df1e7-1200x800.jpg -->
-
-मिस्र के गीजा में काहिरा-असवान रूट पर दो ट्रेनों की टक्कर हुई। कम से कम सात लोगों की मौत हुई और लगभग सौ यात्री घायल हुए। कई डिब्बे पटरी से उतर गए। Egypt Train Accident: मिस्र के गीजा प्रांत में काहिरा-असवान रेलवे रूट पर बड़ा हादसा हो गया. यहां दो ट्रेनों की टक्कर में कम से कम 7 लोगों की मौत हो गई, जबकि करीब 100 यात्री घायल हुए हैं.
-
-### [होर्मुज स्ट्रेट में फिर भड़की आग, एक और तेल टैंकर में धमाका, ईरान ने दी सख्त चेतावनी](https://hindi.news18.com/world/middle-east-iran-irgc-says-oil-tankers-hit-mines-in-hormuz-strait-10972961.html)
-*News18 Hindi (World)* - Nov 08, 22:04 IST (iso: 2026-11-08T16:34:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Iran-Vs-America-In-Hormuz-2026-07-73f92c1016bf37a70e534ae0cf7dc6d7-1200x800.jpg -->
-
-होर्मुज स्ट्रेट में एक तेल टैंकर में विस्फोट के बाद आग लग गई। ईरानी नौसेना का दावा है कि जहाज बारूदी सुरंगों से टकराया। जहाज ने नेविगेशन सिस्टम बंद कर अनधिकृत रास्ता अपनाया था। Hormuz Strait News: होर्मुज स्ट्रेट में एक और तेल टैंकर में विस्फोट के बाद आग लग गई. ईरान की IRGC नौसेना का दावा है कि यह जहाज नौसैनिक बारूदी सुरंगों से टकराए थे.
-
-### [नेतन्याहू के प्रतिद्वंद्वी आइजेनकोट को सरकार बनाने का मिलेगा पहला मौका, जानिए 10 बड़ी बातें](https://www.abplive.com/news/world/benjamin-netanyahu-rival-gadi-eisenkot-gets-chance-to-form-new-government-in-israel-know-top-10-points-3212561)
-*ABP Live (World)* - Nov 08, 21:32 IST (iso: 2026-11-08T16:02:00+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/1491834db5b6112215ef1ccb67b4592617941415666121126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-इजरायल के राष्ट्रपति इसाक हर्जोग ने रविवार को गादी आइजेनकोट को सरकार बनाने का औपचारिक न्योता दिया। आइजेनकोट के पास 67 सांसदों का समर्थन है। बेंजामिन नेतन्याहू के गठबंधन के पास 46 सांसदों का समर्थन है। इजरायल में हाल ही में हुए संसदीय चुनावों के नतीजों के सामने आने के बाद देश के राष्ट्रपति इसाक हर्जोग रविवार (8 नवंबर, 2026) को याशर पार्टी के नेता और बेंजामिन नेतन्याहू के प्रतिद्वंद्वी गादी आइजेनकोट को नई सरकार बनाने का औपचारिक न्योता देंगे.
-
-### [सेनेगल के तट पर प्रवासियों से भरी नाव पलटी, 21 की मौत, सिर्फ एक व्यक्ति जिंदा बचा](https://hindi.news18.com/world/rest-of-world-senegal-migrant-boat-capsizes-21-dead-atlantic-route-ws-e-10972882.html)
-*News18 Hindi (World)* - Nov 08, 20:42 IST (iso: 2026-11-08T15:12:24+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/image-2026-11-534d3e6db19dc32646b343ededb80a28-1200x800.jpg -->
-
-सेनेगल के लूमपूल तट पर शनिवार को प्रवासियों से भरी नाव पलटी। हादसे में 21 लोगों की मौत हुई और एक व्यक्ति बचा। अधिकारियों ने यह आंकड़ा शुरुआती बताया है। पश्चिमी अफ्रीकी देश सेनेगल के उत्तर-पश्चिमी तट के पास प्रवासियों से भरी एक छोटी नाव समुद्र में डूब गई. हादसे में कम से कम 21 लोगों की मौत हो गई, जबकि एक व्यक्ति को जिंदा बचाया गया.
-
----
-
-## दुनिया
-
-### ['मेरा बंदा तो रब है', 'रामायण' में लक्ष्मण बनकर छाए अभिनेता; पत्नी सरगुन मेहता हुईं भावुक](https://www.amarujala.com/photo-gallery/entertainment/television/sargun-mehta-pens-emotional-note-for-ravie-dubey-he-plays-lakshman-role-in-ramayana-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:10 IST (iso: 2026-11-09T06:40:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/saragana-mahata-ramayanae-ma-rava-thab_fd0fc6a433bfb0b1f851fad3068532a3.jpeg?w=1200&dpr=1.0 -->
-
-रवि दुबे ने रामायण में लक्ष्मण का किरदार निभाकर प्रशंसा कमाई है। उनकी पत्नी सरगुन मेहता ने दिवाली पर इस उपलब्धि पर खुशी जताई। 'रामायण' में लक्ष्मण का किरदार निभाने के लिए रवि दुबे की काफी तारीफ हो रही हैं। इसमें राम के रूप में रणबीर कपूर, सीता के रूप में साई पल्लवी, रावण के रूप में यश हैं। रवि दुबे की पत्नी सरगुन मेहता दिवाली पर काफी खुश हैं।
-
-### [आतिशबाजी और खुशियों के बीच दीपावली का जश्न: पूर्व राष्ट्रपति कोविंद से मिले पीएम, दिवाली की](https://www.amarujala.com/live/india-news/diwali-2026-live-updates-pm-modi-president-murmu-india-and-world-diwali-2026-celebrations-news-2026-11-08)
-*Amar Ujala Breaking* - Nov 09, 05:24 IST (iso: 2026-11-08T23:54:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/thashabhara-ma-thaval-ka-ullsa_6c9630887378065c331ba107f2c5ac01.gif?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री ने पूर्व राष्ट्रपति रामनाथ कोविंद से मुलाकात कर दिवाली की शुभकामनाएं दीं। यह बैठक उत्सव के दौरान हुई। दोनों ने त्योहार पर बातचीत की। आतिशबाजी और खुशियों के बीच दीपावली का जश्न: पूर्व राष्ट्रपति कोविंद से मिले पीएम, दिवाली की शुभकामनाएं दीं।
-
-### [Weather Forecast 09 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-09-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-09)
-*Amar Ujala National* - Nov 09, 03:24 IST (iso: 2026-11-08T21:54:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/weather-forecast_af3e5428a5c913f035f008c48f6033eb.jpeg?w=1200&dpr=1.0 -->
-
-नवंबर 2026 के नौवें दिन के मौसम का पूर्वानुमान जारी किया गया। विभिन्न शहरों के लिए तापमान और वार्षिकी की जानकारी दी गई।
-
-### [नेतन्याहू के लंबे शासन का होगा अंत?आइजेनकोट को नई सरकार बनाने का मिला मौका](https://www.amarujala.com/video/world/will-netanyahu-s-long-rule-come-to-an-end-eisenkot-gets-a-chance-to-form-a-new-government-2026-11-09)
-*Amar Ujala World* - Nov 09, 03:12 IST (iso: 2026-11-08T21:42:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/israel-new-government_1a746b0a4c5706f9cdbfbdef37295846.jpeg?w=1200&dpr=1.0 -->
-
-इज़राइल में आइजेनकोट को नई सरकार बनाने का मौका मिला। यह निर्णय नेतन्याहू के लंबे शासन को चुनौती देता है। नेतन्याहू के लंबे शासन का होगा अंत? आइजेनकोट को नई सरकार बनाने का मिला मौका।
-
-### [चंद्रबाबू नायडू के गठबंधन का दबदबा, 85 फीसदी जिला परिषद की सीटों पर दर्ज की जीत](https://www.amarujala.com/india-news/andhra-pradesh-tdp-led-alliance-wins-85-of-zptc-seats-and-75-pc-of-mptc-seats-major-setback-for-ysrcp-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 02:29 IST (iso: 2026-11-08T20:59:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/canava-ma-tadapa-gathabthhana-ka-itana-bugdha-jata-kasa-mal_05f99356f580dc75dde74cbcb70855f3.jpeg?w=1200&dpr=1.0 -->
-
-आंध्र प्रदेश में चंद्रबाबू नायडू के गठबंधन ने जिला परिषद चुनावों में 85 फीसदी सीटें जीत लीं। यह नतीजा क्षेत्रीय राजनीति में उनकी मजबूत स्थिति को दर्शाता है। आंध्र प्रदेश निकाय चुनाव: चंद्रबाबू नायडू के गठबंधन का दबदबा, 85 फीसदी जिला परिषद की सीटों पर दर्ज की जीत।
-
-### [देशभर में धूमधाम से मनाई जा रही दीपावली आतिशबाजी और खुशियों के बीच जश्न जारी](https://www.amarujala.com/video/india-news/diwali-is-being-celebrated-with-great-fervor-across-the-country-the-festivities-continue-amidst-fireworks-and-2026-11-09)
-*Amar Ujala National* - Nov 09, 01:42 IST (iso: 2026-11-08T20:12:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/diwali-celebrated-across-india_9ca0322cd9c3d85b0219b0613d3fce10.jpeg?w=1200&dpr=1.0 -->
-
-दीपावली के अवसर पर देशभर में आतिशबाजी और दीप प्रज्वलन के साथ उत्सव मनाए गए। शहरों और गांवों में खुशियों का माहौल रहा। देशभर में धूमधाम से मनाई जा रही दीपावली आतिशबाजी और खुशियों के बीच जश्न जारी।
-
-### [जम्मू कश्मीर में सुरक्षा बलों ने जारी किए 4 आतंकियों के पोस्टर, लोगों से सूचना देने की अपील](https://www.abplive.com/news/india/security-forces-paste-posters-of-4-active-terrorists-in-kashmir-after-announcing-presence-of-only-one-terrorist-ann-3212597)
-*ABP Live (India)* - Nov 08, 21:52 IST (iso: 2026-11-08T16:22:14+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/040ee7223af1fcd0f4220ab9b118b77717941547434101126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-जम्मू कश्मीर में सुरक्षा बलों ने चार सक्रिय आतंकवादियों के पोस्टर जारी किए। लोगों से इनके बारे में सूचना देने की अपील की गई है। कश्मीर घाटी में सिर्फ एक सक्रिय स्थानीय आतंकवादी के मौजूद होने की घोषणा के कुछ ही दिनों बाद, जम्मू-कश्मीर की सुरक्षा एजेंसियों ने 4 सक्रिय और खतरनाक आतंकवादियों के पोस्टर जारी किए हैं, जो इस समय कश्मीर घाटी में सक्रिय हैं.
-
----
-
-## एशिया-प्रशांत
-
-### [दिवाली की रात कई जगह अग्निकांड: मुंबई, उज्जैन से दिल्ली और ओडिशा तक आग; कहां-कैसे हुआ रेस्क्यू](https://www.amarujala.com/india-news/diwali-night-fires-across-multiple-states-blazes-reported-from-maharashtra-delhi-up-mp-odisha-thane-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 05:22 IST (iso: 2026-11-08T23:52:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/thaval-ka-rata-eka-ka-btha-eka-kaii-jagaha-lga-aaga_53b9ab47ab59941249907f5496634f65.gif?w=1200&dpr=1.0 -->
-
-दिवाली की रात महाराष्ट्र, दिल्ली, उत्तर प्रदेश, मध्य प्रदेश और ओडिशा में अग्निकांड हुए। ठाणे में 50 लोगों को बचाया गया। कई राज्यों में आग लगने की खबरें आईं। दिवाली की रात कई जगह अग्निकांड: मुंबई, उज्जैन से दिल्ली और ओडिशा तक आग; कहां-कैसे हुआ रेस्क्यू।
-
-### [दिवाली पर दिल्ली-एनसीआर में जमकर हुई आतिशबाजी, जानें कहां कितना दर्ज किया गया एक्यूआई](https://www.amarujala.com/delhi/pollution-in-delhi-ncr-on-diwali-night-aqi-news-in-hindi-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 05:02 IST (iso: 2026-11-08T23:32:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/thall-ma-thaval-ka-rata-parathashhanae_de62e3f57a85da914996988d414a845a.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली में दिवाली के बाद प्रदूषण स्तर खराब हो गया। सीपीसीबी के अनुसार रात एक बजे एक्यूआई 413 दर्ज हुआ। आतिशबाजी के बाद हवा की गुणवत्ता गिर गई। राष्ट्रीय राजधानी दिल्ली में दिवाली का जश्न के बाद देर रात हवा का स्तर बेहद खराब हो गया। केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी) के रात एक बजे के आंकड़ों के अनुसार, दिल्ली का एक्यूआई 413 दर्ज किया गया।
-
-### [भारत से और ब्रह्मोस मिसाइलें खरीदेगा फिलीपींस, सैन्य जरूरतों के हिसाब से बदलाव की भी मांग](https://www.amarujala.com/india-news/report-philippines-plans-to-buy-more-brahmos-missiles-from-india-seeks-changes-to-meet-its-military-needs-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 04:37 IST (iso: 2026-11-08T23:07:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/brahamasa-ka-kaya-ahama-mana-raha-ha-falpasa_00b7e27bd728e02e68aa7c0eda8b4748.jpeg?w=1200&dpr=1.0 -->
-
-फिलीपींस भारत से और ब्रह्मोस मिसाइलें खरीदने जा रहा है। देश ने सैन्य जरूरतों के अनुसार बदलाव की मांग की है। यह रिपोर्ट के आधार पर है। रिपोर्ट: भारत से और ब्रह्मोस मिसाइलें खरीदेगा फिलीपींस, सैन्य जरूरतों के हिसाब से बदलाव की भी मांग।
-
-### [क्या चीनी खुफिया एजेंसी के निशाने पर हैं CEO हुआंग, निदेशक क्या बोले? जानें पूरा मामला](https://www.amarujala.com/technology/tech-diary/nvidia-launches-probe-ceo-on-chinese-intelligence-target-row-jensen-huang-alice-huang-relation-regret-news-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 04:27 IST (iso: 2026-11-08T22:57:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/15/enavadaya-na-karamacaraya-ka-bta-karaugdha-ka-shayarasa_83a828e7df6bf224afb2827a85f045ef.jpeg -->
-
-एनवीडिया पर जांच शुरू हो गई है। चीनी खुफिया एजेंसी के निशाने पर सीईओ हुआंग हैं। निदेशकों ने इस मामले पर बयान दिया है। एनवीडिया की जांच शुरू: क्या चीनी खुफिया एजेंसी के निशाने पर हैं CEO हुआंग, निदेशक क्या बोले? जानें पूरा मामला।
-
-### [देश के कई राज्यों में आगजनी का तांडव, दिल्ली से सिक्किम तक मचा हड़कंप](https://www.amarujala.com/video/india-news/rampage-of-arson-across-several-states-in-the-country-panic-spreads-from-delhi-to-sikkim-2026-11-09)
-*Amar Ujala National* - Nov 09, 03:44 IST (iso: 2026-11-08T22:14:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/fire-accidents-on-diwali_6bd02b951d03e1debe97e3420dd64fcb.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली से सिक्किम तक कई राज्यों में आगजनी की घटनाएं हुईं। प्रशासन ने हड़कंप की स्थिति घोषित कर नियंत्रण के प्रयास किए। देश के कई राज्यों में आगजनी का तांडव, दिल्ली से सिक्किम तक मचा हड़कंप।
-
-### [दिवाली पर बेहद खराब हुई दिल्ली की हवा, ‘वेरी पुअर’ कैटेगरी में पहुंचा AQI किया 450 पार](https://www.amarujala.com/video/india-news/delhi-s-air-quality-turned-severely-poor-on-diwali-with-the-aqi-reaching-the-very-poor-category-and-crossin-2026-11-09)
-*Amar Ujala National* - Nov 09, 02:52 IST (iso: 2026-11-08T21:22:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/delhi-ncr-pollution_f6a4834e0d630443cbd51a30dbff0f1d.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली पर दिल्ली का वायु गुणवत्ता सूचकांक 450 पार हो गया। हवा की गुणवत्ता 'वेरी पुअर' श्रेणी में आ गई। दिवाली पर बेहद खराब हुई दिल्ली की हवा, ‘वेरी पुअर’ कैटेगरी में पहुंचा AQI किया 450 पार।
-
-### [पांच महीने की लंबी लड़ाई के बाद 700 ग्राम के प्रीमेच्योर बच्चे को मिली नई जिंदगी, अब 3.3 किलो हुआ](https://www.amarujala.com/india-news/mumbai-700-gram-premature-baby-survives-after-five-month-battle-weight-rises-to-3-3-kg-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 02:50 IST (iso: 2026-11-08T21:20:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/paca-mahana-taka-enaaaiisaya-ma-jathaga-ka-jaga-lugdhata-raha-navajata_8cc3a072d5d24fa478dba15d2505d895.jpeg?w=1200&dpr=1.0 -->
-
-मुंबई में 700 ग्राम वजन के प्रीमेच्योर बच्चे को पांच महीने बाद छुट्टी मिली। अब उसका वजन 3.3 किलो हो गया है। मुंबई: पांच महीने की लंबी लड़ाई के बाद 700 ग्राम के प्रीमेच्योर बच्चे को मिली नई जिंदगी, अब 3.3 किलो हुआ वजन।
-
-### [स्तव और सूर्यकांत त्रिपाठी 'निराला' की कविता 'भारति जय विजयकरे'](https://www.amarujala.com/kavya/shabd-sangrah/aaj-ka-shabd-stav-suryalant-tripathi-nirala-hindi-kavita-bharti-jai-vijaykare-2026-11-07)
-*Amar Ujala Breaking* - Nov 09, 02:02 IST (iso: 2026-11-08T20:32:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/aaj-ka-shabd_c5aa2402057f3080bab556d0b7e5530a.jpeg?w=1200&dpr=1.0 -->
-
-पर चर्चा जारी है। यह रचना राष्ट्रभक्ति के भावों को व्यक्त करती है। स्तव और सूर्यकांत त्रिपाठी 'निराला' की कविता 'भारति जय विजयकरे'।
-
-### [जोहरान ममदानी ने दीप जलाकर मनाई दिवाली, शेयर किया सेलिब्रेशन का वीडियो](https://www.abplive.com/news/world/new-york-city-mayor-johran-mamdani-celebrates-diwali-and-extends-greeting-to-people-3212604)
-*ABP Live (World)* - Nov 08, 23:58 IST (iso: 2026-11-08T18:28:45+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/88e491fdda43b1006a743b603ece84b217941610130471126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-न्यूयॉर्क के मेयर जोहरान ममदानी ने अपने आवास पर दीप जलाकर दिवाली मनाई। उन्होंने इस अवसर पर वीडियो शेयर कर भारतीय समुदाय के साथ जुड़ाव दिखाया। भारत के साथ-साथ दुनिया भर के देशों में मौजूद हिंदू समुदाय के लोग और भारतीय नागरिक रविवार (8 नवंबर, 2026) को दीपावली के त्योहार को पूरे धूमधाम और जश्न के साथ मना रहे हैं.
-
-### [लालकृष्ण आडवाणी से आवास पर जाकर मिले PM मोदी, जन्मदिन की दीं शुभकामनाएं](https://www.abplive.com/news/india/pm-modi-visits-former-deputy-pm-lk-advani-residence-wishes-him-as-he-enters-his-100th-year-3212591)
-*ABP Live (India)* - Nov 08, 20:55 IST (iso: 2026-11-08T15:25:30+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/5604fa73ef7068f815ee2b31d76ef5f617941510527851126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-प्रधानमंत्री नरेंद्र मोदी ने रविवार को लालकृष्ण आडवाणी के आवास पर जाकर जन्मदिन की बधाई दी। आडवाणी इस साल 99वें जन्मदिन पर अपने जीवन के 100वें वर्ष में प्रवेश कर रहे हैं। वे भारतीय जनता पार्टी के संस्थापक सदस्य हैं। प्रधानमंत्री नरेंद्र मोदी ने रविवार (8 नवंबर, 2026) को देश के पूर्व उपप्रधानमंत्री लालकृष्ण आडवाणी के आवास पर पहुंचकर उन्हें जन्मदिन की बधाई दी.
-
----
-
-## अमेरिका
-
-### [कॉलेज के एक समारोह में गोलीबारी, जश्न के बीच अचानक हुआ हमला, एक की मौत; 20 वर्षीय आरोपी गिरफ्तार](https://www.amarujala.com/world/usa-gunfire-erupts-during-college-celebration-one-killed-20-year-old-suspect-arrested-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 01:50 IST (iso: 2026-11-08T20:20:13+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/kalja-parasara-ma-galbra_432d644494e8da8126e3005934ab10c2.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका के एक कॉलेज समारोह में अचानक गोलीबारी हुई जिसमें एक व्यक्ति की मौत हो गई। पुलिस ने 20 वर्षीय आरोपी को घटनास्थल से गिरफ्तार कर लिया है। अमेरिका: कॉलेज के एक समारोह में गोलीबारी, जश्न के बीच अचानक हुआ हमला, एक की मौत; 20 वर्षीय आरोपी गिरफ्तार।
-
-### [US मिडटर्म इलेक्शन में मिली हार पर ट्रंप का बड़ा बयान, 'बड़ा झटका लगा है लेकिन...'](https://www.abplive.com/news/world/donald-trump-vows-to-comeback-bigger-and-stronger-after-republican-lost-to-democrats-in-us-midterm-elections-3212601)
-*ABP Live (World)* - Nov 08, 22:48 IST (iso: 2026-11-08T17:18:37+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/ddf9c553128b2e63008de89a5c76254017941579866461126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-डोनाल्ड ट्रंप ने मिडटर्म चुनाव में रिपब्लिकन हार को अमेरिकी इतिहास का बड़ा कदम बताया। डेमोक्रेट्स ने दोनों सदनों पर बढ़त हासिल की है। अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप ने रविवार (8 नवंबर, 2026) को हाल ही में हुए मिडटर्म चुनावों के नतीजों को अमेरिकी इतिहास में पीछे की तरफ एक बहुत बड़ा कदम करार दिया है. दरअसल, मिडटर्म चुनावों में डेमोक्रेटिक पार्टी ने रिपब्लिकन पार्टी को करारी शिकस्त देते हुए कांग्रेस के दोनों सदनों पर अपनी बढ़त हासिल कर ली है.
 
 ---
 
 ## यूरोप और रूस
 
-### [कुलगाम में चीनी पिस्तौल-ग्रेनेड के साथ आतंकियों के दो सहयोगी गिरफ्तार, FIR दर्ज](https://www.abplive.com/news/india/2-suspected-terror-ogws-arrested-in-kulgam-with-chinese-pistol-grenades-and-ammunitions-ann-3212594)
-*ABP Live (India)* - Nov 08, 21:40 IST (iso: 2026-11-08T16:10:19+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/1fb4f4f39db16a2d7a532bce707a63eb17941538443951126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [मैं राष्ट्रपति होता तो युद्ध शुरू ही नहीं होता: जेलेंस्की-पुतिन की दुश्मनी पर ट्रंप का बड़ा बयान](https://www.patrika.com/world-news/trump-ukraine-war-zelensky-putin-hatred-peace-deal-close-21037920)
+*Patrika (World)* - Nov 09, 11:20 IST (iso: 2026-11-09T05:50:01+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Russia-Ukraine-peace-deal.webp -->
 
-जम्मू कश्मीर के कुलगाम में सुरक्षा बलों ने रविवार को दो आतंकी सहयोगियों को गिरफ्तार किया। रूटीन चेकिंग में उनके पास से चीनी पिस्तौल और ग्रेनेड बरामद हुए। कुलगाम पुलिस, 9 राष्ट्रीय राइफल्स और 18वीं सीआरपीएफ बटालियन ने मिलकर यह कार्रवाई की। देश भर में दीपावली के त्योहार के बीच जम्मू कश्मीर के कुलगाम जिले में रविवार (8 नवंबर, 2026) को सुरक्षा बलों ने आतंकवादियों के दो संदिग्ध 'ओवरग्राउंड वर्करों' (OGWs) को गिरफ्तार किया है.
+ट्रंप ने CBS इंटरव्यू में कहा कि जेलेंस्की और पुतिन की दुश्मनी शांति की सबसे बड़ी बाधा है। उन्होंने युद्ध के जल्दी समाधान की उम्मीद जताई। Trump Ukraine Statement: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इस बात पर काफी उम्मीद जताई है कि रूस-यूक्रेन युद्ध का समाधान जल्द ही निकल सकता है। उन्होंने कहा कि यूक्रेन के राष्ट्रपति वोलोदिमीर जेलेंस्की और रूस के राष्ट्रपति व्लादिमीर पुतिन के बीच की गहरी दुश्मनी ही शांति प्रयासों में सबसे बड़ी रुकावट है। CBS न्यूज को दिए एक विस्तृत इंटरव्यू में, अमेरिकी राष्ट्रपति से पूछा गया कि उनके हिसाब से इस संघ।
+
+---
+
+## अमेरिका
+
+### [स्वर्ग या नरक? ट्रंप ने खोला मौत के बाद का राज, बोले- ‘सिद्धांत रूप में स्वर्ग जाऊंगा’](https://www.patrika.com/world-news/trump-60-minutes-interview-heaven-hell-afterlife-religious-beliefs-21037858)
+*Patrika (World)* - Nov 09, 11:06 IST (iso: 2026-11-09T05:36:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Trump-1.webp -->
+
+ट्रंप ने 60 Minutes में कहा कि वह धार्मिक व्यक्ति हैं और सिद्धांत रूप में स्वर्ग जाएंगे। उन्होंने नरक जाने से इनकार किया। Trump Religious Beliefs: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक न्यूज शो ’60 Minutes’ के एक इंटरव्यू के दौरान मृत्यु के बाद के जीवन और अपने धार्मिक विश्वासों पर खुलकर बात की।
 
 ---
 
