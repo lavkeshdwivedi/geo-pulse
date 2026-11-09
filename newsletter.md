@@ -1,22 +1,40 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 09, 2026 12:50 IST
+**Updated:** November 09, 2026 23:24 IST
 
 ---
 
 ## Middle East & Africa
 
-### [Okinawa governor calls for review of US forces pact after murder of Japanese woman](https://www.channelnewsasia.com/east-asia/japan-okinawa-review-united-states-forces-pact-murder-6535351)
-*Channel News Asia* - Nov 09, 12:43 IST (iso: 2026-11-09T07:13:09+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Ln34AtMT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/09/000_d6vc4nr.jpg?itok=7LzuTMi2 -->
+### [Syrian FM says country has no troops in Yemen, won't send any](https://www.thehindu.com/news/international/syrian-fm-says-country-has-no-troops-in-yemen-wont-send-any/article71683136.ece)
+*The Hindu (International)* - Nov 09, 20:11 IST (iso: 2026-11-09T14:41:32+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/m1kr8w/article71683203.ece/alternates/LANDSCAPE_1200/Iraq_47794.jpg -->
 
-A US Marine was indicted for murdering a 39-year-old Japanese woman in Okinawa. The incident sparked local outrage. The Okinawa governor now demands a review of the US forces pact. This case has reignited debate over the military presence on the island. A US Marine was indicted on suspicion of murdering a 39-year-old Japanese woman at a hotel in Okinawa - in a case that triggered outrage and reignited controversy over the US military presence on the island.
+Syria's foreign minister stated the country maintains no military presence in Yemen and will not deploy troops there. He emphasized that the recent accord with Saudi Arabia is essential for rebuilding Syrian state institutions, including the military, following over a decade of civil war. He said the accord with Riyadh, a key backer of Damascus as it seeks to rebuild after more than a decade of civil war, was vital for Syria to rebuild its institutions, including the military.
 
 ### [Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat](https://www.thehindu.com/news/international/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/article71681264.ece)
-*The Hindu (International)* - Nov 09, 09:58 IST (iso: 2026-11-09T04:28:36+00:00)
+*The Hindu (International)* - Nov 09, 18:43 IST (iso: 2026-11-09T13:13:58+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/8vyybh/article71681268.ece/alternates/LANDSCAPE_1200/2026-11-08T221548Z_927214633_RC2YJOAS8LEN_RTRMADP_3_USA-RUBIO.JPG -->
 
 Secretary of State Marco Rubio defended the ongoing war against Iran. He stated the conflict is necessary to stop a nuclear threat. Rubio acknowledged the war is not necessarily popular with voters. Many Americans blame Trump policies for higher energy prices and economic strain. America's top diplomat offered a robust defence of the more than eight-month-old war even as voters blamed Mr.
+
+### [Trump to meet Iran war mediator Qatar, no imminent deal seen to end war](https://www.thehindu.com/news/international/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-war/article71682536.ece)
+*The Hindu (International)* - Nov 09, 18:17 IST (iso: 2026-11-09T12:47:09+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ps6ujk/article71682660.ece/alternates/LANDSCAPE_1200/Trump_84433.jpg -->
+
+Donald Trump plans to meet with Qatari officials to mediate the Iran conflict, though no immediate deal is expected. The U. S. struck Qeshm island while Iran targeted Gulf tankers. Houthi forces also attacked Saudi Arabia, escalating regional tensions despite ongoing diplomatic efforts. Mutual attacks continue, with the U. S. striking Iran's Qeshm island overnight, according to Iranian state media, and Iran attacking tankers in the Gulf and ‌Strait of Hormuz this month while its Yemeni Houthi allies have hit Saudi Arabia.
+
+### [Strikes on Ukraine’s power grid, as peace talks loom](https://news.un.org/feed/view/en/story/2026/11/1168761)
+*UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-UNICEF-Ukraine-01.jpg/image770x420cropped.jpg -->
+
+Russian forces struck Ukrainian energy infrastructure, threatening millions with a cold winter and increasing civilian casualties. The UN Security Council convened in New York to discuss the crisis. These strikes occurred just before US-backed peace talks were scheduled to begin in Abu Dhabi. The Security Council convenes at 10am in New York on Ukraine. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply.
+
+### [Chinese regulatory shadow hangs over Nigeria’s OPay IPO failure](https://asiatimes.com/2026/11/chinese-regulatory-shadow-hangs-over-nigerias-opay-ipo-failure/)
+*Asia Times* - Nov 09, 13:10 IST (iso: 2026-11-09T07:40:57+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/OPay-IPO.png -->
+
+OPay's $304 million New York Stock Exchange listing was halted hours after its opening bell. The Nigeria-focused payments firm priced shares at $19, valuing the company at $4 billion. Trading stopped at 3:30 p. m. with zero shares exchanged, likely due to Chinese regulatory concerns. OPay’s executives rang the bell at the New York Stock Exchange on October 30. A few hours later, their US$304 million flotation was off.
 
 ### [‘For the first time I have my own chair’: Gaza siblings find new freedom](https://news.un.org/feed/view/en/story/2026/11/1168759)
 *UN News* - Nov 07, 17:30 IST (iso: 2026-11-07T12:00:00+00:00)
@@ -44,15 +62,9 @@ A senior UN official called Afghanistan a difficult crossroad. The country faces
 
 ### [‘No Escape’ for refugees on the frontlines of the climate crisis](https://news.un.org/feed/view/en/story/2026/11/1168752)
 *UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/23-10-2026-IOM-Somalia-flooding-03.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/09-11-2026_UNHCR_South-Sudan-01.jpg/image560x340cropped.jpg -->
 
 Nearly 90 million refugees live in countries facing high climate hazard exposure. Three in four displaced people face drought, floods, or extreme heat. This makes the climate emergency an immediate crisis for displaced populations. They have limited options for safe relocation. The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.
-
-### [Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms](https://news.un.org/feed/view/en/story/2026/11/1168740)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-06-2025-UNICEF-Gaza-08.jpg/image560x340cropped.jpg -->
-
-Gunfire damaged multiple tents at a displacement site in northern Rafah on Tuesday. The United Nations reported that the incident caused injuries and forced a humanitarian partner to leave the area. Aid teams are now preparing for incoming winter storms in the region. Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.
 
 ### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
 *International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
@@ -64,15 +76,21 @@ Reuters journalist Giulia Paravicini discussed her recent reporting trip to Asma
 
 ## Europe & Russia
 
+### [High Hurdles To Progress At New US-Ukraine-Russia Talks](https://www.rferl.org/a/war-negotiations-abu-dhab-ukraine-russia-us/33893873.html)
+*Radio Free Europe / Liberty* - Nov 09, 19:55 IST (iso: 2026-11-09T14:25:44+00:00)
+<!-- image: https://gdb.rferl.org/61be2878-4db6-4060-b194-cb55114ae8d3_cx0_cy2_cw0_w1200_h630.jpg -->
+
+The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 for their first talks since February. Analysts expect limited progress on ending the war, citing deep structural disagreements and the lack of a unified negotiating position among the three parties. For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low.
+
 ### [Trump teases ‘big, beautiful agreement’ on Ukraine war and more](https://asiatimes.com/2026/11/trump-teases-big-beautiful-agreement-on-ukraine-war-and-more/)
 *Asia Times* - Nov 09, 10:56 IST (iso: 2026-11-09T05:26:56+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Ukraine-War-Ukraine-Soldiers-Ukraine-Military.jpg -->
 
 Donald Trump met with Kirill Dmitriev, a Russian special representative, on November 5. Dmitriev heads the Russian delegation for a Melania Trump event. The US president teased a significant agreement regarding the Ukraine war. The meeting was unscheduled and took place in Washington. US President Donald Trump held an unscheduled meeting on Thursday, November 5, with Kirill Dmitriev, a special representative of Russian President Vladimir Putin.
 
-### [Ukraine Battles To Restore Power After Russian Attacks, As Trump Hints At Potential Territorial](https://www.rferl.org/a/ukraine-power-restore-russia-zaporizhzhya-abudhabi/33893359.html)
+### [Moscow And Kyiv Trade Air Strikes As Trump Hints At Potential Territorial Changes In Ukraine](https://www.rferl.org/a/ukraine-power-restore-russia-zaporizhzhya-abudhabi/33893359.html)
 *Radio Free Europe / Liberty* - Nov 09, 04:30 IST (iso: 2026-11-08T23:00:35+00:00)
-<!-- image: https://gdb.rferl.org/3a65e7f9-2845-4493-6d82-08df13a87200_cx0_cy10_cw0_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/dc4cc9e2-10f0-4a7b-4ae9-08df13a884cb_cx4_cy11_cw78_w1200_h630.jpg -->
 
 Ukrainian crews worked to restore electricity to hundreds of thousands in the east after Russian airstrikes. Officials confirmed external power reached the Zaporizhzhya nuclear plant. Russian forces currently occupy that facility. Ukrainian authorities battled to restore power to hundreds of thousands of people in the east of the country following Russian air strikes, while officials said external power had been restored to the Zaporizhzhya nuclear plant, which is currently occupied by Russian forces.
 
@@ -110,18 +128,6 @@ New Zealand's National Party leads parliament, but no coalition has secured a ma
 
 New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
 
-### [Japan, Taiwan, China and the emerging 2028 strategic test](https://asiatimes.com/2026/11/japan-taiwan-china-and-the-emerging-2028-strategic-test/)
-*Asia Times* - Nov 07, 05:29 IST (iso: 2026-11-06T23:59:05+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/images-2-e1793969068536.jpeg -->
-
-East Asia is shifting toward a 2028 strategic test. Military, economic, and technological factors now intertwine. This convergence is reshaping regional order assumptions. The timing and drivers of this shift are changing. Originally published by Pacific Forum, this article is republished with permission. East Asia is entering an era in which military balance, economic resilience, technological leadership and alliance politics are no longer separate policy domains but interconnected elements of a broader contest over regional order.
-
-### [Here’s why Pyongyang is testing an array of missile capabilities](https://asiatimes.com/2026/11/heres-why-pyongyang-is-testing-an-array-of-missile-capabilities/)
-*Asia Times* - Nov 07, 05:06 IST (iso: 2026-11-06T23:36:59+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Missile-launch-from-North-Korea-copy-e1794008100684.jpg -->
-
-North Korea has conducted roughly 20 missile tests since early 2026. This marks a new phase in its development program. The focus is on capability breadth rather than launch volume. These tests signal a consequential shift in regional security dynamics. North Korea’s accelerating missile development has entered a new and potentially consequential phase. According to media reports available as of November 6, 2026, Pyongyang has conducted approximately 20 missile-related tests and exercises since the beginning of the year.
-
 ---
 
 ## Americas
@@ -131,12 +137,6 @@ North Korea has conducted roughly 20 missile tests since early 2026. This marks 
 <!-- image: https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=920553499e2d4cef68f79a76ce8f99b1 -->
 
 Pope Leo XIV criticized Javier Milei's austerity measures in Buenos Aires. The pontiff insisted the economy must serve the people. He delivered the speech during a 12-day Latin America tour. The audience in Argentina responded with rapturous applause to the critique. Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.“The economy must be at the service of the people, rather than people being at the service.
-
-### [Pope Leo takes Milei to task as he visits divided Argentina](https://www.thehindu.com/news/international/pope-leo-takes-milei-to-task-as-he-visits-divided-argentina/article71681249.ece)
-*The Hindu (International)* - Nov 09, 07:36 IST (iso: 2026-11-09T02:06:16+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/cqfw1m/article71681253.ece/alternates/LANDSCAPE_1200/2026-11-08T225659Z_799146947_RC2YJOABAI44_RTRMADP_3_POPE-LATAM-ARGENTINA.JPG -->
-
-Pope Leo XVI criticized Argentine President Javier Milei during a visit to the divided nation. The pontiff defended the poor and pensioners, urging particular concern for those affected by illness, dependency, and disability. This statement served as a veiled rebuke of the government's controversial cuts to disability assistance. The remarks highlighted the growing friction between the Vatican and Milei's administration over social welfare policies.
 
 ### [Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei](https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei)
 *The Guardian* - Nov 08, 14:30 IST (iso: 2026-11-08T09:00:35+00:00)
@@ -168,7 +168,7 @@ COP31 focuses on making advanced clean energy technologies affordable for all na
 
 ### [Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
 *UN News* - Nov 05, 17:30 IST (iso: 2026-11-05T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image560x340cropped.jpg -->
 
 UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
 

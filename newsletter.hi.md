@@ -1,180 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 09, 2026 12:50 IST
-
----
-
-## दुनिया
-
-### [इस गोवर्धन पूजा भगवान को दें खास रूप, घर में ऐसे सजाएं गोवर्धन महाराज](https://www.amarujala.com/lifestyle/govardhan-puja-2026-these-5-simple-methods-decorate-govardhan-maharaj-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:49 IST (iso: 2026-11-09T07:19:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2025/10/23/kapa-sathata-ghara-ma-bnaii-gaii-gavarathhana-maharaja-ka-paratama-savatha_bf6a6db762d36f09c9add0c009f23b25.jpeg?w=1200&dpr=1.0 -->
-
-गोवर्धन पूजा पर घर में भगवान की मूर्ति को विशेष रूप से सजाने के लिए सरल और सुंदर सजावट के सुझाव दिए गए हैं। गोवर्धन महाराज की सजावट के लिए अपनाएं ये आसान और खूबसूरत टिप्स। इस गोवर्धन पूजा भगवान को दें खास रूप, घर में ऐसे सजाएं गोवर्धन महाराज।
-
-### [यूपीआई, बैंकिंग एवं ऑनलाइन व्यापार पर साइबर अपराधियों की नजर, कैसे सुरक्षित होगा डिजिटल भुगतान?](https://www.amarujala.com/india-news/cyber-fraud-cybercriminals-target-upi-banking-and-online-transactions-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:36 IST (iso: 2026-11-09T07:06:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/23/cait_af62b52fd39242097aaaa7dd239d4a5a.jpeg?w=1200&dpr=1.0 -->
-
-साइबर अपराधी यूपीआई, बैंकिंग और ऑनलाइन व्यापार पर नजर रख रहे हैं, जिससे डिजिटल भुगतान की सुरक्षा को चुनौती है। साइबर फ्रॉड: यूपीआई, बैंकिंग एवं ऑनलाइन व्यापार पर साइबर अपराधियों की नजर, कैसे सुरक्षित होगा डिजिटल भुगतान।
-
-### [खूब सारी मिठाई खाकर बढ़ा लिया वजन? अब ऐसे करें डिटॉक्स, जानें वजन घटाने के आसान तरीके](https://www.amarujala.com/photo-gallery/lifestyle/fitness/how-to-lose-weight-after-eating-too-many-sweets-healthy-diet-and-detox-tips-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:22 IST (iso: 2026-11-09T06:52:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/how-to-lose-weight-after-eating-too-many-sweets_04400401c7c996ec81f585107c18cc67.jpeg?w=1200&dpr=1.0 -->
-
-लेख में मिठाई खाने के बाद वजन घटाने के उपाय बताए गए हैं। इसमें डाइट टिप्स और शरीर को स्वस्थ रखने के आसान तरीके शामिल हैं। How to Lose Weight After Eating Too Many Sweets: इस लेख में जानें ज्यादा मिठाई खाने के बाद बढ़े वजन को कैसे कंट्रोल करें, शरीर को स्वस्थ रखने के आसान तरीके, डाइट टिप्स और वजन घटाने के सही उपाय।
-
-### [दिवाली पर करीना कपूर ने दिखाया नवाबी लुक, पगड़ी पर लगी कलगी में छिपा है खानदानी राज](https://www.amarujala.com/entertainment/kareena-kapoor-viral-diwali-look-gushed-on-social-media-for-wearing-pataudi-royal-kalgi-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:20 IST (iso: 2026-11-09T06:50:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/karana-kapara_dfdcf40686af78d7dad9edf2d2f29a1f.jpeg?w=1200&dpr=1.0 -->
-
-करीना कपूर का दिवाली लुक सोशल मीडिया पर वायरल हो रहा है। उनके नवाबी आउटफिट में पगड़ी पर लगी कलगी ने विशेष ध्यान खींचा। करीना कपूर का कथिक दिवाली लुक सोशल मीडिया पर वायरल हो रहा है। इस वीडियो में वह पूरी तरह नवाबी लुक में दिखाई दे रही हैं। उनके आउटफिट में सबसे ज्यादा ध्यान उनकी पगड़ी पर लगी कलगी खींच रही है।
-
-### [जंगल सफारी के दौरान पर्यटकों के सामने आ गया टाइगर, हाथी की तरफ लगाई छलांग, दहशत में मच गई चीख-पुकार](https://www.amarujala.com/bizarre-news/tiger-abruptly-attacked-on-tourist-sitting-on-elephant-in-a-nepal-national-park-animal-video-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:17 IST (iso: 2026-11-09T06:47:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/tiger-abruptly-attacked-on-tourist-sitting-on-elephant-in-a-nepal-national-park-animal-video_6f37ce586b8bd4d25c6480988af37ac5.jpeg?w=1200&dpr=1.0 -->
-
-नेशनल पार्क में हाथी पर सवार पर्यटकों के सामने अचानक टाइगर आ गया। जानवर की फुर्ती देखकर पर्यटकों में दहशत फैल गई और चीख-पुकार मच गई। टाइगर की फुर्ती देखकर पर्यटकों के होश उड़ गए और मौके पर चीख-पुकार मच गई। जंगल सफारी के दौरान पर्यटकों के सामने आ गया टाइगर, हाथी की तरफ लगाई छलांग, दहशत में मच गई चीख-पुकार।
-
-### ['नासमझ हैं, पर इरादे बुरे नहीं': एनवीडिया के सीईओ जेन्सेन हुआंग के समर्थन में आए एलन मस्क, विवाद पर](https://www.amarujala.com/world/elon-musk-defends-nvidia-ceo-jensen-huang-after-affair-confession-2026-11-09)
-*Amar Ujala World* - Nov 09, 12:17 IST (iso: 2026-11-09T06:47:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/elna-masaka-saiio-sapasaekasa_a55f49daab1587258b296fef0da0856d.jpeg?w=1200&dpr=1.0 -->
-
-एलन मस्क ने एनवीडिया के सीईओ जेन्सेन हुआंग के समर्थन में बयान दिया। उन्होंने कहा कि हुआंग की गलतफहमी थी, पर इरादे बुरे नहीं थे। यह टिप्पणी हाल के विवाद के बीच आई। 'नासमझ हैं, पर इरादे बुरे नहीं': एनवीडिया के सीईओ जेन्सेन हुआंग के समर्थन में आए एलन मस्क, विवाद पर क्या बोले?
-
-### [95% से ज्यादा अंक लाने हैं तो अपनाएं ये आसान तरीके, तैयारी होगी मजबूत](https://www.amarujala.com/education/cbse-board-exam-2027-expert-tips-to-score-above-95-in-class-10-and-12-exams-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:06 IST (iso: 2026-11-09T06:36:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/cbse-board-exam-2027_290ad26406beb6df2c4813a35b23e29e.jpeg?w=1200&dpr=1.0 -->
-
-सीबीएसई बोर्ड परीक्षा 2027 में 95 फीसदी से अधिक अंक लाने के लिए विशेष रणनीति जरूरी है। विशेषज्ञों ने एनसीईआरटी किताबों का नियमित अभ्यास करने की सलाह दी है। सही तैयारी से परिणाम बेहतर मिलते हैं। सीबीएसई 10वीं और 12वीं बोर्ड परीक्षा 2027 में 95 फीसदी से ज्यादा अंक लाने के लिए सही तैयारी और पढ़ाई की रणनीति जरूरी है।
-
-### [जेन्सेन हुआंग कैसे बने 14.57 लाख करोड़ के मालिक?: रेस्त्रां में बनी कंपनी की योजना, जानें दौलत](https://www.amarujala.com/world/who-is-jensen-huang-nvidia-ceo-net-worth-155-billion-wealth-ai-boom-success-story-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 12:00 IST (iso: 2026-11-09T06:30:33+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/jensen-huang-net-worth_a335710e614d2fa5f60e44c4a1ff3b13.jpeg?w=1200&dpr=1.0 -->
-
-जेन्सेन हुआंग की दौलत 14.57 लाख करोड़ रुपये तक पहुंच गई है। एनवीडिया की स्थापना एक रेस्त्रां में हुई थी। एआई बुम ने कंपनी और उसके सीईओ की संपत्ति को बढ़ावा दिया। जेन्सेन हुआंग कैसे बने 14.57 लाख करोड़ के मालिक?: रेस्त्रां में बनी कंपनी की योजना, जानें दौलत।
-
-### ['सड़क पर भौंकने वाले...', रणबीर की परफॉर्मेंस पर फिदा हुए राम गोपाल वर्मा, आलोचकों के लिए कही ये बात](https://www.amarujala.com/entertainment/ram-gopal-varma-review-ranbir-yash-movie-ramayana-ram-gopal-varma-ram-gopal-varma-review-ramayana-ramayana-ramayana-movie-ramayana-review-who-is-ram-gopal-varma-ranbir-kapoor-yash-sai-pallavi-ramayana-collection-ramayana-box-office-collection-ramayana-box-office-collection-ramayana-worldwide-collection-entertainment-entertainment-news-rama-gapal-varama-rama-gapal-varama-ka-ramayanae-para-ravaya-ramayanae-ramayanae-falma-ramayanae-ka-ravaya-rama-gapal-varama-kana-ha-ranaebra-kapara-yasha-saii-pallva-ramayanae-kalkashana-ramayanae-bkasa-oifasa-kalkashana-ramayanae-ka-varaldavaida-kalkashana-2026-11-09)
-*Amar Ujala National* - Nov 09, 11:59 IST (iso: 2026-11-09T06:29:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/rama-gapal-varama_abf4c7888233006da79a4b06b8351703.jpeg?w=1200&dpr=1.0 -->
-
-रणबीर कपूर की फिल्म 'रामायण' ने रिलीज के चार दिनों में घरेलू बॉक्स ऑफिस पर 250 करोड़ रुपये का बिजनेस किया है। फिल्ममेकर राम गोपाल वर्मा ने रणबीर की परफॉर्मेंस की सराहना की है। रणबीर कपूर स्टारर फिल्म 'रामायण' को रिलीज हुए चार दिन हो गए हैं। इस फिल्म ने घरेलू बॉक्स ऑफिस पर 250 करोड़ से ज्यादा का बिजनेस कर लिया है।
-
-### [क्या टूटने से बचा चीची का रिश्ता? पत्नी सुनीता बोलीं- 40 साल पुरानी शादी क्यों नहीं टिकेगी](https://www.amarujala.com/entertainment/sunita-ahuja-disclosed-her-marriage-with-actor-govinda-cant-dissolve-easily-2026-11-09)
-*Amar Ujala National* - Nov 09, 11:59 IST (iso: 2026-11-09T06:29:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/01/18/gavatha-sanata-aahaja_7da88b937688209c61ffee6e27be6f68.jpeg?w=1200&dpr=1.0 -->
-
-अभिनेत्री सुनीता आहूजा ने कहा कि उनका गोविंदा से 40 साल पुराना रिश्ता टूटने वाला नहीं है। उन्होंने यह भी उल्लेख किया कि गोविंदा को अपना जीवन जीने दिया जाना चाहिए। सुनीता आहूजा ने अभिनेता गोविंदा को लेकर फिर एक अहम बयान दिया है। उन्होंने कहा कि उनकी 40 साल की शादी तोड़ना कोई आसान काम नहीं है। हालांकि बीते दिनों उन्होंने यह कहा था कि गोविंदा को उनका जीवन जीने देना चाहिए।
-
-### [अचानक तेज उठ रही है खांसी तो क्या करें? जानें तुरंत राहत पाने के उपाय और कब डॉक्टर को दिखाना है](https://www.amarujala.com/photo-gallery/lifestyle/fitness/sudden-severe-cough-what-to-do-immediately-causes-home-remedies-and-when-to-see-a-doctor-2026-11-09)
-*Amar Ujala National* - Nov 09, 11:38 IST (iso: 2026-11-09T06:08:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/sudden-severe-cough_bb27e5e7dec3883bfbe7f031e028b230.jpeg?w=1200&dpr=1.0 -->
-
-अचानक तेज खांसी में तुरंत राहत के लिए घरेलू उपाय अपनाए जा सकते हैं। गंभीर लक्षणों के मामले में डॉक्टर से संपर्क करना आवश्यक है। Sudden Severe Cough: इस लेख में जानें अचानक तेज खांसी उठने पर तुरंत क्या करें, खांसी के संभावित कारण, राहत पाने के घरेलू उपाय और किन लक्षणों में डॉक्टर से संपर्क करना जरूरी है। अचानक तेज उठ रही है खांसी तो क्या करें?
-
-### [ऑस्कर ने शेयर किया दीपिका-रणवीर की फिल्म का गाना, यूजर्स ने दिए गजब रिएक्शन; देखें पोस्ट](https://www.amarujala.com/entertainment/the-academy-share-deepika-padukone-ranveer-singh-movie-ramleela-song-nagada-sang-dhol-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 11:18 IST (iso: 2026-11-09T05:48:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/nagaugdha-saga-dhal_964c595ee1d34bdee658bcebf28fba45.jpeg?w=1200&dpr=1.0 -->
-
-अकादमी ने दीपिका और रणवीर की 2013 की फिल्म रामलीला का गाना शेयर किया। संजय लीला भंसाली ने इसका निर्देशन किया था। दीपिका-रणवीर की फिल्म 'रामलीला' साल 2013 में रिलीज हुई थी। इस फिल्म का निर्देशन संजय लीला भंसाली ने किया था। बता दें कि द अकादमी ने इससे पहले दीपिका-रणबीर की फिल्म 'ये जवानी है दीवानी' का एक सीन भी शेयर किया था।
-
-### [रणथम्भौर में दीपावली पर खुशखबरी: बाघिन सिद्धि शावक के साथ कैमरे में कैद, दूसरी बार बनी मां](https://www.amarujala.com/rajasthan/ranthambore-tigress-t-125-siddhi-spotted-with-cub-camera-trap-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 11:09 IST (iso: 2026-11-09T05:39:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/bghana-t-125-sathathha_3812a8b59f173cb24c57584ce4aa84a9.jpeg?w=1200&dpr=1.0 -->
-
-रणथम्भौर टाइगर रिजर्व में आठ साल की बाघिन सिद्धि ने दूसरी बार शावक को जन्म दिया। कैमरा ट्रैप में वह अपने शावक के साथ दिखी। राजस्थान के रणथम्भौर टाइगर रिजर्व में करीब आठ साल की बाघिन T-125 सिद्धि कैमरा ट्रैप में अपने शावक के साथ नजर आई है। रणथम्भौर में दीपावली पर खुशखबरी: बाघिन सिद्धि शावक के साथ कैमरे में कैद, दूसरी बार बनी मां।
-
----
-
-## एशिया-प्रशांत
-
-### [मंत्री कपिल मिश्रा का बड़ा दावा, बोले-पंजाब में दिवाली की रात 1200 जगह जलाई पराली](https://www.amarujala.com/delhi-ncr/kapil-mishra-stated-that-stubble-was-burned-at-1-200-locations-in-punjab-on-night-of-diwali-2026-11-09)
-*Amar Ujala Breaking* - Nov 09, 12:39 IST (iso: 2026-11-09T07:09:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/matara-kapal-mashara_bbb800e881285f5a36dfcdee140413c8.png?w=1200&dpr=1.0 -->
-
-दिल्ली के मंत्री कपिल मिश्रा का दावा है कि पंजाब में दिवाली की रात 1200 जगहों पर पराली जलाई गई। पंजाब में पराली जलाने को लेकर दिल्ली के मंत्री कपिल मिश्रा ने बड़ा आरोप लगाया है। मंत्री कपिल मिश्रा का बड़ा दावा, बोले-पंजाब में दिवाली की रात 1200 जगह जलाई पराली।
-
-### [शेख हसीना की वतन वापसी की तैयारी तेज! नए पासपोर्ट और NID के लिए किया आवेदन](https://hindi.news18.com/world/south-asia-sheikh-hasina-return-bangladesh-new-passport-nid-application-2026-10973774.html)
-*News18 Hindi (World)* - Nov 09, 12:37 IST (iso: 2026-11-09T07:07:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-09-28T165518.331-2026-09-66d68b29de9bbb5f851b215a92d04faf-1200x800.jpg -->
-
-शेख हसीना के वकीलों ने नई दिल्ली में बांग्लादेश हाई कमीशन को नया पासपोर्ट और NID जारी करने का पत्र लिखा। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना की वतन वापसी के संकेत तेज हो गए हैं. 9 नवंबर को उनके वकीलों ने नई दिल्ली स्थित बांग्लादेश हाई कमीशन को पत्र लिखकर नया पासपोर्ट और राष्ट्रीय पहचान पत्र (NID) जारी करने की मांग की है.
-
-### [क्या दिसंबर में लौटेंगी शेख हसीना? नए पासपोर्ट के आवेदन से बढ़ी हलचल; वकील ने किया खुलासा](https://www.amarujala.com/world/sheikh-hasina-applies-for-new-passport-plans-bangladesh-return-december-2026-11-09)
-*Amar Ujala World* - Nov 09, 12:26 IST (iso: 2026-11-09T06:56:21+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/shakha-hasana_fe61d2a03e66934c4a0edf5ad6771175.jpeg?w=1200&dpr=1.0 -->
-
-शेख हसीना के वकील ने बताया कि पूर्व प्रधानमंत्री ने नए पासपोर्ट के लिए आवेदन किया है। यह कदम दिसंबर में बांग्लादेश लौटने की संभावना को मजबूत करता है। बांग्लादेश: क्या दिसंबर में लौटेंगी शेख हसीना? नए पासपोर्ट के आवेदन से बढ़ी हलचल; वकील ने किया खुलासा।
-
-### [दमघोंटू हुई दिल्ली की हवा, प्रदूषण से बचने के लिए घर लाएं ये 5 एयर प्यूरीफायर, कीमत 5,000 से कम](https://www.amarujala.com/technology/gadgets/delhi-aqi-crosses-1700-buy-these-5-air-purifiers-under-rs-5000-eureka-levoit-qubo-other-options-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:24 IST (iso: 2026-11-09T06:54:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/air-purifier_dffd974c6eb0893ab63784f8a8dd96fd.jpeg -->
-
-दिल्ली में दिवाली की रात वायु गुणवत्ता सूचकांक 1,700 के पार चला गया। प्रदूषण से बचाव के लिए 5,000 रुपये से कम कीमत वाले एयर प्यूरीफायर की मांग बढ़ी है। Air Purifier Under 5000: दिवाली की रात दिल्ली का एक्यूआई (AQI) 1,700 के खतरनाक आंकड़े को पार कर गया। इस जहरीली हवा और स्मॉग से खुद को बचाने के लिए एयर प्यूरीफायर बेहद जरूरी है।
-
-### [अपार्टमेंट बिल्डिंग में लगी आग, 14 की झुलसकर मौत, इमारत के नीचे कोचिंग, दुकानें और होटल बने काल](https://hindi.news18.com/world/china-china-high-rise-fire-tragedy-14-killed-dozens-injured-after-blaze-tears-through-mixed-use-building-in-taiyuan-10973745.html)
-*News18 Hindi (World)* - Nov 09, 12:11 IST (iso: 2026-11-09T06:41:31+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-Apartment-Fire-2026-11-d2c21be08abad34c063edd62a9fb5c61-1200x800.jpg -->
-
-ताइयुआन में एक बहुमंजिला इमारत में रविवार शाम आग लगी। इस हादसे में 14 लोगों की मौत हुई और 30 से अधिक लोग झुलस गए। आग पांचवीं मंजिल से शुरू होकर पूरी इमारत में फैल गई। उत्तरी चीन के शानक्सी प्रांत की राजधानी ताइयुआन में एक बड़ा हादसा हो गया. रविवार शाम एक बहुमंजिला बिल्डिंग में भीषण आग लग गई, जिससे 14 लोगों की मौत हो गई और 30 से ज्यादा लोग बुरी तरह झुलस गए.
-
-### [भारत आई नई बीएमडब्ल्यू एफ 450 जीएस स्पोर्ट: जानें इसमें कौन-से नए फीचर्स और उपकरण जोड़े गए हैं?](https://www.amarujala.com/automobiles/bmw-f-450-gs-sport-launched-in-india-check-upgraded-suspension-features-and-specs-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:08 IST (iso: 2026-11-09T06:38:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/bmw-f-450-gs-sport_886a6e7b5a8d3d6fd5f56aba42affb84.jpeg?w=1200&dpr=1.0 -->
-
-बीएमडब्ल्यू ने भारत में एफ 450 जीएस स्पोर्ट बाइक लॉन्च की। इसमें अपग्रेडेड सस्पेंशन और एडवांस्ड इलेक्ट्रॉनिक्स जैसे नए फीचर्स शामिल हैं। यह मॉडल ऑफ-रोड प्रदर्शन के लिए बेहतर है। भारत आई नई बीएमडब्ल्यू एफ 450 जीएस स्पोर्ट: जानें इसमें कौन-से नए फीचर्स और उपकरण जोड़े गए हैं?
-
-### ['रामायण' ने दुनियाभर में मचाया धमाल, पहले वीकएंड पर कमाए करोड़ों; 'गॉडजिला' से मिली कड़ी टक्कर](https://www.amarujala.com/entertainment/bollywood/ramayana-earns-more-than-500-crore-worldwide-in-opening-weekend-godzilla-minus-zero-leads-2026-11-09)
-*Amar Ujala National* - Nov 09, 11:53 IST (iso: 2026-11-09T06:23:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/falma-gadajal-mainasa-jara-oura-ramayanae_00058e26d4520ceac34de40b96a2f511.jpeg?w=1200&dpr=1.0 -->
-
-रणबीर कपूर और यश की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' ने वैश्विक बॉक्स ऑफिस पर शानदार प्रदर्शन किया है। फिल्म ने पहले वीकेंड पर करोड़ों रुपये कमाए हैं। भारतीय सिनेमा के लिए बॉक्स ऑफिस पर एक बड़ी खुशखबरी सामने आई है। रणबीर कपूर और यश की फिल्म 'रामायण: राइज ऑफ ए लेजेंड' ने दुनियाभर में शानदार शुरुआत की है।
-
-### [बांग्‍लादेश में दिसंबर की सर्दी में मचेगा गदर, शेख हसीना ने पासपोर्ट के लिए किया आवेदन, टेंशन में](https://hindi.news18.com/world/south-asia-sheikh-hasina-application-for-new-bangladeshi-passport-preparation-on-to-return-native-counry-write-to-high-commissioner-10973495.html)
-*News18 Hindi (World)* - Nov 09, 11:47 IST (iso: 2026-11-09T06:17:14+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina1-2026-11-0df47668c2f36b2c5fa0dea0ce62062c-1200x800.jpg -->
-
-बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना दिसंबर में देश लौटने की तैयारी कर रही हैं। उन्होंने भारत स्थित बांग्लादेशी उच्चायोग से नए पासपोर्ट के लिए आवेदन किया है। Sheikh Hasina News: बांग्‍लादेश में हिंसक विरोध-प्रदर्शन के बाद लोकतांत्रिक तरीके से चुनी हुई शेख हसीना की सरकार को सत्‍ता से बेदखल कर दिया गया था. तत्‍कालीन प्रधानमंत्री शेख हसीना को भारत में शरण लेनी पड़ी थी.
-
----
-
-## वैश्विक / बहुपक्षीय
-
-### ['स्वयंसेवक ही हैं आरएसएस की पहचान': भागवत ने सुनाया किस्सा, मुस्लिम शख्स ने किया था संघ पर प्रतिबंध](https://www.amarujala.com/india-news/mohan-bhagwat-swayamsevak-rss-identity-pracharak-selfless-service-recounts-anecdote-muslim-man-opposed-ban-2026-11-09)
-*Amar Ujala National* - Nov 09, 12:35 IST (iso: 2026-11-09T07:05:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/mohan-bhagwat_3624dafad4c62f734960f4e2b7ffe670.jpeg?w=1200&dpr=1.0 -->
-
-मोहन भागवत ने बताया कि एक मुस्लिम व्यक्ति ने आरएसएस पर प्रतिबंध लगने के विरोध में आवाज उठाई थी। 'स्वयंसेवक ही हैं आरएसएस की पहचान': भागवत ने सुनाया किस्सा, मुस्लिम शख्स ने किया था संघ पर प्रतिबंध।
+**अपडेट:** November 09, 2026 23:24 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [यमन में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया, दो सप्ताह से होदेइदाह और सना में थे फंसे](https://www.amarujala.com/world/red-sea-19-indian-seafarers-stranded-in-yemen-evacuated-safely-after-two-weeks-in-hodeidah-and-sana-2026-11-09)
-*Amar Ujala World* - Nov 09, 12:27 IST (iso: 2026-11-09T06:57:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/yamana-ma-bcae-gae-19-bharataya_ee1c8aeac74802cdde187b6a686be719.jpeg?w=1200&dpr=1.0 -->
+### [नेतन्याहू ने बदले तेवर, विरोधी आइजेनकोट के साथ सरकार बनाने के संकेत, बोले- एकता जरूरी](https://hindi.news18.com/world/middle-east-benjamin-netanyahu-shifts-stance-hints-at-joining-hands-with-rival-eisenkot-to-form-government-in-israel-10975241.html)
+*News18 Hindi (World)* - Nov 09, 22:02 IST (iso: 2026-11-09T16:32:07+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/netanyahu-4-2026-10-aabdb56b359d0889f266ab979eabaf34-1200x800.jpg -->
 
-यमन में दो सप्ताह से होदेइदाह और सना में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया। लाल सागर क्षेत्र में जारी तनाव के बीच यह उद्धार अभियान सफल रहा। लाल सागर: यमन में फंसे 19 भारतीय नाविकों को सुरक्षित निकाला गया, दो सप्ताह से होदेइदाह और सना में थे फंसे।
+बेंजामिन नेतन्याहू ने गादी आइजेनकोट के प्रस्ताव पर बातचीत के लिए सहमति जताई। लिकुड पार्टी की संभावित सहभागिता पर दोनों पक्षों के बीच राजनीतिक गठबंधन की संभावनाएं मजबूत हुई हैं। इजरायल की राजनीति में नए गठबंधन की संभावनाएं तेज हो गई हैं. बेंजामिन नेतन्याहू ने सोमवार को संकेत दिया कि वह गादी आइजेनकोट के नेतृत्व वाली संभावित सरकार में शामिल होने के प्रस्ताव पर बातचीत के लिए तैयार हैं.
+
+### [अमेरिका ने रूसी सेना के जिस प्लेन पर लगा रखा है बैन, उसने इजरायल में की सीक्रेट लैंडिंग, आखिर किस](https://hindi.news18.com/world/middle-east-russian-military-plane-israel-ben-gurion-airport-us-sanctions-tupolev-tu-154m-10975106.html)
+*News18 Hindi (World)* - Nov 09, 21:12 IST (iso: 2026-11-09T15:42:36+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/russian-plane-2026-11-9d61dfe37bb88a9ffa3b90ec2df74241-1200x800.jpg -->
+
+अमेरिका के प्रतिबंधित तुपोलेव टीयू-154एम विमान ने बेन गुरियन एयरपोर्ट पर उतरा। मॉस्को से काला सागर और तुर्की के रास्ते आया यह विमान किसके लिए था, इसकी जानकारी अभी उपलब्ध नहीं है। Russian Plane In Israel: रूस के रक्षा मंत्रालय का Tupolev Tu-154M विमान रविवार शाम इजरायल के बेन गुरियन एयरपोर्ट पर उतरा. यह विमान अमेरिका की प्रतिबंध सूची में शामिल है.
+
+### [ट्रंप को भी समझ आने लगी जंग की कीमत? ईरान से सुलह की कोशिश तेज, कतर ने संभाला मोर्चा](https://hindi.news18.com/world/middle-east-iran-us-war-end-talks-trump-qatar-mediation-hormuz-deal-10975001.html)
+*News18 Hindi (World)* - Nov 09, 20:25 IST (iso: 2026-11-09T14:55:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/mojtaba-khamenei-1-2026-11-e4a06743c7d38f4a7d2b929a16d8ce7a-1200x800.jpg -->
+
+कतर के मध्यस्थता प्रयासों के बीच अमेरिका और ईरान के बीच युद्ध समाधान की बातचीत जारी है। ट्रंप ने सैन्य विकल्प खुला रखा है, जबकि परमाणु कार्यक्रम और होर्मुज जलडमरूमध्य पर सहमति अभी बाकी है। ईरान और अमेरिका के बीच युद्ध खत्म करने को लेकर पर्दे के पीछे बातचीत जारी है. कतर दोनों देशों के बीच समझौते का रास्ता निकालने में जुटा है.
+
+### [सऊदी को लगा नया झटका, हूतियों से जंग में मुस्लिम देश नहीं देगा साथ, 10 हजार सैनिकों की उम्मीद टूटी](https://hindi.news18.com/world/middle-east-syrian-troops-saudi-arabia-yemen-deployment-denial-houthi-war-10974718.html)
+*News18 Hindi (World)* - Nov 09, 18:39 IST (iso: 2026-11-09T13:09:07+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/syrian-2026-11-9c92bb40ae9f747472b3e792a33e828a-1200x800.jpg -->
+
+सीरिया ने यमन में लड़ाकू सैनिक भेजने से इनकार कर दिया। दमिश्क ने सऊदी के साथ सहयोग को ट्रेनिंग और क्षमता वृद्धि तक सीमित बताया। हूती हमलों के बीच यह फैसला सऊदी के लिए निराशाजनक है। सऊदी अरब पर हूती विद्रोहियों के हमलों के बीच सीरिया की सेना भेजे जाने की खबरों ने हलचल मचा दी थी. कुछ रिपोर्ट्स में 3,000 से 10,000 सैनिकों की तैनाती का दावा किया गया.
+
+### [ईरान-अमेरिका युद्ध पर बड़ा अपडेट, डोनाल्ड ट्रंप से मिलेंगे कतर के प्रधानमंत्री, जानें समझौते को](https://www.patrika.com/world-news/donald-trump-will-meet-qatar-pm-iran-war-peace-talks-21038567)
+*Patrika (World)* - Nov 09, 17:21 IST (iso: 2026-11-09T11:51:59+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-warns-Iran-of-military-action.webp -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप सोमवार को कतर के प्रधानमंत्री शेख मोहम्मद बिन अब्दुल रहमान अल थानी से मिलेंगे। यह बैठक ईरान-अमेरिका युद्ध को खत्म करने की कूटनीतिक कोशिशों का हिस्सा है। कतर दोनों देशों के बीच मध्यस्थ की भूमिका निभा रहा है। ईरान और अमेरिका के बीच आठ महीने से ज्यादा समय से जारी युद्ध को खत्म कराने के लिए कूटनीतिक कोशिशें तेज हो गई हैं।
+
+---
+
+## एशिया-प्रशांत
+
+### [कपड़ा मजदूरों के बाद अब ई-रिक्शा चालकों की हड़ताल, बांग्लादेश में चक्का जाम, ढाका की थमी रफ्तार](https://hindi.news18.com/world/south-asia-bangladesh-dhaka-battery-auto-rickshaw-drivers-strike-10975078.html)
+*News18 Hindi (World)* - Nov 09, 20:40 IST (iso: 2026-11-09T15:10:34+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/rickshaw-2026-11-76896fd74fe77e47b80aff91ed6e0cd7-1200x800.jpg -->
+
+ढाका में ई-रिक्शा चालकों की हड़ताल ने शहर की यातायात प्रणाली को ठप्प कर दिया। लाइसेंस फीस वृद्धि और एक चालक द्वारा पांच से अधिक वाहन चलाने पर प्रतिबंध के विरोध में सेवाएं बंद रही। Bangladesh E-Rickshaw Strike: बांग्लादेश की राजधानी ढाका में 9 नवंबर को बैटरी से चलने वाले ऑटो-रिक्शा चालकों ने अपनी मांगों को लेकर हड़ताल की. चालकों ने सरकार की नई नीति के तहत बढ़ाई गई लाइसेंस फीस और एक चालक को पांच से ज्यादा ऑटो चलाने पर रोक का विरोध किया.
+
+### [पाकिस्तान का तारबेला बांध टूटा, सुरंगों में भरा पानी, चीन के एक और प्रोजेक्ट को झटका](https://hindi.news18.com/world/pakistan-tarbela-dam-broke-t5-project-tunnel-flooded-china-hydropower-10974845.html)
+*News18 Hindi (World)* - Nov 09, 19:28 IST (iso: 2026-11-09T13:58:34+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-dam-2026-11-e2086b0163ce57b5fa36a7d3ed709b95-1200x800.jpg -->
+
+तारबेला बांध के टी-5 प्रोजेक्ट में अस्थायी बांध टूटने से मुख्य सुरंग में पानी भर गया। सभी चीनी इंजीनियरों और मजदूरों को सुरक्षित निकाला गया, जबकि निर्माण कार्य अनिश्चित काल के लिए रोक दिया गया है। Pakistan News Hindi: पाकिस्तान के तारबेला बांध के पांचवें विस्तार प्रोजेक्ट (T-5) में सुरक्षा के लिए बनाया गया अस्थायी बांध टूट गया, जिससे मुख्य सुरंग में पानी भर गया.
+
+### [खरगे के 'खुशियों की ईद' वाले बयान पर पवन खेड़ा ने दी सफाई, 'ईद' शब्द का अर्थ...'](https://www.abplive.com/news/india/congress-pawan-khera-hits-back-at-bjp-over-attacking-mallikarjun-kharge-eid-remark-for-diwali-greeting-3212882)
+*ABP Live (India)* - Nov 09, 18:40 IST (iso: 2026-11-09T13:10:48+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/240aa0a83d4b237f6d0fea2b8f4aeefe17942291642591126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+कांग्रेस प्रवक्ता पवन खेड़ा ने बीजेपी को बौद्धिक दिवालिया करार दिया। उन्होंने खरगे के बयान का बचाव करते हुए ईद शब्द का अर्थ त्योहार बताया। पार्टी ने इस पर कोई और प्रतिक्रिया नहीं दी। कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे के ‘खुशियों की ईद’ वाले बयान पर BJP के हमले के बाद कांग्रेस ने सफाई दी है. कांग्रेस सांसद और प्रवक्ता पवन खेड़ा ने भारतीय जनता पार्टी (BJP) को बौद्धिक रूप से दिवालिया बताते हुए मल्लिकार्जुन खरगे के बयान का बचाव किया और कहा कि ‘ईद’ शब्द का शाब्दिक अर्थ ‘त्योहार’ होता है.
+
+### [रेप के आरोप में TMC विधायक परेशराम एयरपोर्ट से गिरफ्तार, मुंबई भागने की फिराक में थे](https://www.abplive.com/news/india/tmc-mla-pareshram-das-arrested-at-kolkata-airport-on-rape-charges-trying-to-flee-to-mumbai-3212883)
+*ABP Live (India)* - Nov 09, 18:22 IST (iso: 2026-11-09T12:52:25+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/a29861c702b31c3bf0e18696298a05d017942298443481126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+बरुईपुर पुलिस ने कोलकाता एयरपोर्ट से टीएमसी विधायक परेशराम दास को गिरफ्तार किया। उन पर यौन उत्पीड़न का आरोप है। पुलिस का कहना है कि वे मुंबई भागने की कोशिश में थे। पश्चिम बंगाल में सोमवार (9 नवंबर, 2026) को बरुईपुर जिला पुलिस के स्पेशल ऑपरेशन ग्रुप (SOG) ने तृणमूल कांग्रेस के विधायक परेशराम दास को कोलकाता एयरपोर्ट से गिरफ्तार किया है.
+
+### [डिनर पर मुलाकात से अरबों की चिप डील तक, कौन है चीनी 'जासूस' एलिस हुआंग, जिससे जुड़ा Nvidia CEO का](https://hindi.news18.com/world/china-nvidia-ceo-jensen-huang-alice-huang-china-spy-allegations-wife-cheating-chinese-spy-mss-10974313.html)
+*News18 Hindi (World)* - Nov 09, 17:33 IST (iso: 2026-11-09T12:03:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Jensen-Huang-2026-11-5b3038e29e363cc363c83c5a7d0a6c63-1200x800.jpg -->
+
+एनवीडिया सीईओ जेनसन हुआंग ने पत्नी से धोखा देने की बात स्वीकार की। उन्होंने बोर्ड और कर्मचारियों से माफी मांगी। यह मामला एलिस हुआंग से उनके रिश्ते और जासूसी के आरोपों के बाद सामने आया। Jensen Huang News: Nvidia CEO जेनसन हुआंग ने अपनी पत्नी से चीटिंग की बात स्वीकार करते हुए कर्मचारियों और कंपनी के बोर्ड से माफी मांगी है.
+
+### [शेख हसीना की घर वापसी पर बांग्लादेश का ब्रेक, नया पासपोर्ट देने से इनकार, कहा- आतंकियों को नहीं](https://hindi.news18.com/world/south-asia-bangladesh-rejects-sheikh-hasina-new-passport-request-call-it-drama-india-extradition-10974483.html)
+*News18 Hindi (World)* - Nov 09, 17:00 IST (iso: 2026-11-09T11:30:48+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-22-2026-11-ac1443316f2c52c3d70dd3374ee38eed-1200x800.jpg -->
+
+बांग्लादेश ने पूर्व प्रधानमंत्री शेख हसीना को नया पासपोर्ट और राष्ट्रीय पहचान पत्र जारी करने की मांग खारिज कर दी। विदेश राज्य मंत्री हुमायूं कबीर ने इसे 'नाटक' कहा और भारत से प्रत्यर्पण की अपील की। हसीना के वकीलों ने दिल्ली स्थित बांग्लादेशी हाई कमीशन को आवेदन भेजा था। बांग्लादेश ने पूर्व प्रधानमंत्री शेख हसीना को नया पासपोर्ट और राष्ट्रीय पहचान पत्र (NID) जारी करने की मांग खारिज कर दी है.
+
+### ['सिर्फ राजनीतिक ड्रामा', शेख हसीना की बांग्लादेश वापसी की खबरों पर तारिक रहमान सरकार का जवाब](https://www.abplive.com/news/world/sheikh-hasina-return-to-bangladesh-tarique-rahman-govt-dhaka-response-merely-political-posturing-3212818)
+*ABP Live (World)* - Nov 09, 16:08 IST (iso: 2026-11-09T10:38:35+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/e6fea7cb96c135058c2ea28c595ce36b1794220310832708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+तारिक रहमान सरकार ने शेख हसीना की वापसी की खबरों को सिर्फ राजनीतिक ड्रामा बताया। सरकार का कहना है कि हसीना फिलहाल बांग्लादेश लौटने की मंशा नहीं रखतीं। उन्होंने दिल्ली से नया पासपोर्ट मांगा है। शेख हसीना के वापस बांग्लादेश लौटने की अटकलों के बीच तारिक रहमान सरकार ने बड़ा दावा किया है. बांग्लादेश सरकार ने सोमवार (9 नवंबर 2026) को कहा है कि भारत में रह रहीं पूर्व प्रधानमंत्री शेख हसीना की फिलहाल अपने देश लौटने की कोई मंशा नहीं है.
+
+### [अरुणाचल में चीन से तनातनी के बीच वायुसेना ने लद्दाख के करीब LAC पर उतारा 'गजराज', क्यों है खास?](https://www.abplive.com/news/india/china-in-arunachal-pradesh-iaf-deployed-il-76-along-lac-near-eastern-ladakh-nyoma-airfield-ann-3212782)
+*ABP Live (India)* - Nov 09, 15:31 IST (iso: 2026-11-09T10:01:23+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/b8747a7a61d9e2f79ecaf81df835418d17942158622581484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+भारतीय वायुसेना ने पूर्वी लद्दाख की न्योमा एयरफील्ड पर IL-76 विमान की लैंडिंग कराई। यह दुनिया का सबसे ऊंचा एयरबेस है। इससे मिलिट्री एविएशन का नया रिकॉर्ड बना। भारतीय वायुसेना ने पूर्वी लद्दाख की न्योमा एयरफील्ड पर IL-76 एयरक्राफ्ट की लैंडिंग कराकर विश्व कीर्तिमान रच दिया है. करीब 13,700 फीट की ऊंचाई पर न्योमा, दुनिया का सबसे उंचा एयरबेस है.
+
+### [चीनी जासूस मामले में NVIDIA के CEO के बचाव में उतरे ट्रंप, जानें क्या कहा?](https://www.abplive.com/news/us-president-donald-trump-praises-nvidia-ceo-jensen-huang-amid-china-spy-row-3212776)
+*ABP Live (World)* - Nov 09, 14:59 IST (iso: 2026-11-09T09:29:04+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/ffc2a0ef61562fbe69d7018dc56f206717942180968861324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एनवीडिया के सीईओ जेन्सेन हुआंग की तारीफ की। हुआंग का नाम चीनी जासूस एलिस हुआंग के साथ कथित रिश्तों की जांच में जुड़ा है। ट्रंप ने उन्हें सम्मानित व्यक्तित्व बताया। चिप बनाने वाली मशहूर कंपनी एनवीडिया के सीईओ जेन्सेन हुआंग की अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने तारीफ की है. हुआंग का नाम उस विवाद से जुड़ा है, जिसमें एक चीनी जासूस एलिस हुआंग के साथ उनके के कथित रिश्तों की जांच जारी है.
+
+### ['फिल्मी कहानी', चीन ने Nvidia के CEO हुआंग के बयान के बाद दी प्रतिक्रिया, कहा- सब झूठा](https://www.abplive.com/news/world/china-reaction-on-nvidia-ceo-jensen-huang-affair-with-chinese-alice-huang-3212784)
+*ABP Live (World)* - Nov 09, 14:48 IST (iso: 2026-11-09T09:18:35+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/61b8ee74507ff139222d88bc8865f6e517942184478811324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+चीन ने एनवीडिया के सीईओ जेन्सेन हुआंग पर लगे जासूसी के सभी आरोपों को खारिज कर दिया। बीजिंग ने इन दावों को झूठा करार दिया। ग्लोबल टाइम्स ने यह जानकारी दी। चीन ने एनवीडिया के सीईओ जेन्सन हुआंग पर लगे जासूसी से जुड़े सभी आरोपों को खारिज कर दिया. हुआंग का चीन की कथित जासूस एलिस हुआंग के साथ एक्स्ट्रा मैरिटल अफेयर चल रहा था.
+
+### [बाप आतंकी, बेटे की सियासी दुकान, हाफिज सईद के बेटे तल्हा ने भारत के खिलाफ उगला जहर](https://hindi.news18.com/world/pakistan-hafiz-saeed-son-talha-india-remarks-pakistan-markazi-muslim-league-10974103.html)
+*News18 Hindi (World)* - Nov 09, 14:41 IST (iso: 2026-11-09T09:11:16+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/talha-saeed-2026-11-774a3c923d8c900792790366749ba169-1200x800.jpg -->
+
+हाफिज मोहम्मद सईद के बेटे तल्हा सईद ने पाकिस्तान में राजनीतिक सभा को संबोधित किया। उसने भारत को चुनौती बताते हुए लोगों से एकजुट होने की अपील की। यह पाकिस्तान मरकजी मुस्लिम लीग के मंच पर हुआ। मुंबई आतंकी हमले के मास्टरमाइंड हाफिज मोहम्मद सईद के बेटे हाफिज तल्हा सईद ने पाकिस्तान में एक राजनीतिक सभा को संबोधित किया. पाकिस्तान मरकजी मुस्लिम लीग के मंच से उसने पाकिस्तान आंदोलन और मुस्लिम एकता का जिक्र किया.
+
+---
+
+## दुनिया
+
+### [काली पूजा में भावुक हुए कल्याण बनर्जी, हाथ जोड़ रोने का वीडियो वायरल, कहा- मां दानव को खत्म करें](https://www.abplive.com/news/india/kalyan-banerjee-performs-kali-puja-emotional-3212868)
+*ABP Live (India)* - Nov 09, 17:52 IST (iso: 2026-11-09T12:22:10+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/663a321ebb80b7e62f14579633e666511794226610438708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+टीएमसी सांसद कल्याण बनर्जी का काली पूजा में रोते हुए वीडियो वायरल हुआ। बांकुड़ा के उनके पैतृक आवास में आयोजित पूजा में वे भावुक हो गए। उन्होंने मां काली से दानवों को खत्म करने की प्रार्थना की। तृणमूल कांग्रेस (TMC) के सांसद कल्याण बनर्जी का एक वीडियो सोशल मीडिया पर वायरल हो रहा है, जिसमें वे काली पूजा के दौरान बेहद भावुक होकर रोते हुए नजर आ रहे हैं.
+
+### [दिवाली को 'खुशियों की ईद' कहने पर खरगे पर भड़की VHP, कहा- जिहादी तुष्टीकरण...](https://www.abplive.com/news/india/vhp-vinod-bansal-accuses-congress-mallikarjun-kharge-diwali-khushiyon-ki-eid-3212843)
+*ABP Live (India)* - Nov 09, 17:05 IST (iso: 2026-11-09T11:35:25+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/28636f16914b672d00be87846ee659731794223920273708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने दिवाली को 'खुशियों की ईद' कहा, जिस पर विश्व हिंदू परिषद ने भड़क कर माफी की मांग की। वीएचपी के विनोद बंसल ने इसे हिंदू भावनाओं को आहत करने वाला कदम बताया। उन्होंने खरगे पर हिंदू परंपराओं का मजाक उड़ाने का आरोप लगाया। कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे की ओर से दिवाली को 'खुशियों की ईद' कहने पर देश में राजनीति गरमा गई है.
+
+### [CJP के सौरव दास का बड़ा बयान, '...चाहे बीजेपी हो या कांग्रेस-आप'](https://www.abplive.com/news/india/cjp-saurav-das-big-statement-on-bjp-congress-aap-government-free-and-fair-elections-system-3212845)
+*ABP Live (India)* - Nov 09, 17:02 IST (iso: 2026-11-09T11:32:46+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/c3aa4817fefa5577023b033963f4b3ed17942239347751368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+कॉकरोच जनता पार्टी के सह-संयोजक सौरव दास ने महाराष्ट्र के कोल्हापुर में डेयरी फार्मर्स के मार्च पर बयान दिया। उन्होंने भाजपा, कांग्रेस और आम आदमी पार्टी समेत सभी राजनीतिक दलों को निशाने पर लिया। दास का कहना है कि किसी भी सरकार को चुनाव चुराने की छूट नहीं दी जानी चाहिए। कॉकरोच जनता पार्टी (CJP) के सह-संयोजक सौरव दास ने महाराष्ट्र के कोल्हापुर जिले में हो रहे डेयरी फॉर्मर्स के मार्च को लेकर बड़ा बयान दिया है.
+
+### [लद्दाख में 10 नवंबर को पूर्ण बंद का आह्वान, नगर निकाय और अन्य चुनावों को टालने की मांग](https://www.abplive.com/news/india/call-for-complete-shutdown-in-ladakh-on-november-10-demand-to-postpone-municipal-and-other-elections-ann-3212827)
+*ABP Live (India)* - Nov 09, 16:49 IST (iso: 2026-11-09T11:19:21+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/911eeb56b4af028f1fc134d776910acb17942222073781126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+कारगिल डेमोक्रेटिक अलायंस ने 10 नवंबर को पूर्ण बंद का आह्वान किया। इसका उद्देश्य 21 नवंबर के नगर निकाय चुनावों को टालने की मांग उठाना है। स्थानीय धार्मिक और राजनीतिक संगठनों ने इस बंद का समर्थन किया है। लद्दाख क्षेत्र में 21 नवंबर को होने वाले नगर निकाय और अन्य चुनावों को टालने की मांग को लेकर, कारगिल डिवीजन के स्थानीय दलों ने मंगलवार (10 नवंबर, 2026) को पूरे कारगिल में पूर्ण बंद का आह्वान किया है.
+
+### [गोकुल डेयरी चुनाव विवाद पर अभिजीत दीपके का रिएक्शन, 'सोचिए ज्ञानेश कुमार की मदद से...'](https://www.abplive.com/news/india/abhijeet-dipke-attacks-maharashtra-devendra-fadnavis-bjp-government-over-dairy-farmers-march-in-kolhapur-3212815)
+*ABP Live (India)* - Nov 09, 16:28 IST (iso: 2026-11-09T10:58:42+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/e3d90bd80a699e36a319a899fe0cc39017942202488801126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+कोल्हापुर में डेयरी किसानों ने कलेक्टर कार्यालय तक पैदल मार्च निकाला। कॉकरोच जनता पार्टी के अभिजीत दीपके ने फडणवीस सरकार पर निशाना साधा। उन्होंने मुख्यमंत्री को अराजकतावादी कहने का आरोप लगाया। महाराष्ट्र के कोल्हापुर जिले में सोमवार (9 नवंबर, 2026) को हजारों की संख्या में डेयरी फार्मर्स अपने मवेशियों के साथ सड़कों पर उतर आए और जिला कलेक्टर के ऑफिस तक पैदल मार्च निकाला.
+
+### [बस्तर में PM मोदी के 'दिमागी नक्सल' वाले बयान पर राहुल का पलटवार, 'चुनौती कायम है वो मुझसे...'](https://www.abplive.com/news/india/rahul-gandhi-counter-attack-on-pm-narendra-modi-dimagi-naxal-remark-basta-crpf-diwali-celebration-bastar-cg-3212813)
+*ABP Live (India)* - Nov 09, 16:02 IST (iso: 2026-11-09T10:32:52+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/6ac351c97ca0d6f9e9bc322c554b75c417942197332491324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+राहुल गांधी ने मोदी के बस्तर भाषण पर पलटवार किया। उन्होंने सीआरपीएफ जवानों को मोदी के झूठ पर भरोसा न करने का दावा किया। गांधी ने मोदी से किसी भी समय बहस करने की चुनौती दी। राहुल गांधी ने पीएम मोदी के बस्तर में दिए भाषण के जवाब में कड़ी प्रतिक्रिया दी है. उन्होंने कहा है कि प्रिय सीआरपीएफ के जवानों, आपके चेहरों ने सब बता दिया.
+
+### [कैंसर की 137 दवाएं आज से सस्ती, लेकिन कैसे तय होती है किसी दवा की कीमत?](https://www.abplive.com/news/india/cancer-medicines-price-cut-india-after-supreme-court-comment-but-how-price-determined-health-nppa-explained-3212814)
+*ABP Live (India)* - Nov 09, 16:00 IST (iso: 2026-11-09T10:30:20+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/09/b8746bb070c86ee2ab53b853fbef1c7517942200186771317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+9 नवंबर से 137 कैंसर दवाओं की कीमतें कम हो गईं। कंपनियों ने 1,364 फॉर्मूलेशन की नई कीमतें जारी कीं। अनुमान है कि इससे मरीजों को सालाना 3,540 करोड़ रुपए की बचत होगी। आज यानी 9 नवंबर 2026 से कैंसर मरीजों और उनके परिवारों के लिए एक बड़ी राहत की खबर है. 137 जरूरी कैंसर-रोधी दवाओं की कीमतें आज से कम हो गई हैं.
 
 ---
 
 ## यूरोप और रूस
 
-### [मैं राष्ट्रपति होता तो युद्ध शुरू ही नहीं होता: जेलेंस्की-पुतिन की दुश्मनी पर ट्रंप का बड़ा बयान](https://www.patrika.com/world-news/trump-ukraine-war-zelensky-putin-hatred-peace-deal-close-21037920)
-*Patrika (World)* - Nov 09, 11:20 IST (iso: 2026-11-09T05:50:01+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Russia-Ukraine-peace-deal.webp -->
+### [रूसी तेल वाला टैंकर और ब्रिटेन की दादागिरी... कूटनीतिक चक्रव्यूह के बीच जेल में सड़ रहे भारतीय](https://hindi.news18.com/world/britain-indian-merchant-navy-captain-ajay-pant-detained-in-uk-over-russian-oil-transit-legal-defense-to-challenge-interception-in-court-10974592.html)
+*News18 Hindi (World)* - Nov 09, 17:24 IST (iso: 2026-11-09T11:54:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Captain-Ajay-Pant-1-2026-11-516c058df18dc09e035ac8f9d7f032e4-1200x800.jpg -->
 
-ट्रंप ने CBS इंटरव्यू में कहा कि जेलेंस्की और पुतिन की दुश्मनी शांति की सबसे बड़ी बाधा है। उन्होंने युद्ध के जल्दी समाधान की उम्मीद जताई। Trump Ukraine Statement: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने इस बात पर काफी उम्मीद जताई है कि रूस-यूक्रेन युद्ध का समाधान जल्द ही निकल सकता है। उन्होंने कहा कि यूक्रेन के राष्ट्रपति वोलोदिमीर जेलेंस्की और रूस के राष्ट्रपति व्लादिमीर पुतिन के बीच की गहरी दुश्मनी ही शांति प्रयासों में सबसे बड़ी रुकावट है। CBS न्यूज को दिए एक विस्तृत इंटरव्यू में, अमेरिकी राष्ट्रपति से पूछा गया कि उनके हिसाब से इस संघ।
+ब्रिटिश नौसेना ने 14 जून को अंतर्राष्ट्रीय जल क्षेत्र में भारतीय कैप्टन अजय पंत का रूसी तेल वाला टैंकर जब्त किया। पंत अब यूके के रूस प्रतिबंधों के तहत गंभीर आरोपों का सामना कर रहे हैं। उनकी कानूनी टीम 11-13 नवंबर की सुनवाई में इस कार्रवाई की वैधता को चुनौती देगी। रूसी पोर्ट से भारत तेल ला रहे उनके टैंकर को 14 जून को ब्रिटिश सेना ने अंतरराष्ट्रीय समुद्री सीमा में रोककर जब्त कर लिया था.
 
----
+### [पोलैंड में 6 लोगों को गोलियों से भूनने वाले हमलावर की मौत, घर पहुंची पुलिस तो मां-बाप और बहन के शव](https://hindi.news18.com/world/europe-poland-krakow-shooting-suspect-dies-six-killed-family-bodies-found-10974196.html)
+*News18 Hindi (World)* - Nov 09, 15:08 IST (iso: 2026-11-09T09:38:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/poland-news-2026-11-f69597b5651017b3d9238e1c1d0e8bae-1200x800.jpg -->
 
-## अमेरिका
-
-### [स्वर्ग या नरक? ट्रंप ने खोला मौत के बाद का राज, बोले- ‘सिद्धांत रूप में स्वर्ग जाऊंगा’](https://www.patrika.com/world-news/trump-60-minutes-interview-heaven-hell-afterlife-religious-beliefs-21037858)
-*Patrika (World)* - Nov 09, 11:06 IST (iso: 2026-11-09T05:36:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Trump-1.webp -->
-
-ट्रंप ने 60 Minutes में कहा कि वह धार्मिक व्यक्ति हैं और सिद्धांत रूप में स्वर्ग जाएंगे। उन्होंने नरक जाने से इनकार किया। Trump Religious Beliefs: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एक न्यूज शो ’60 Minutes’ के एक इंटरव्यू के दौरान मृत्यु के बाद के जीवन और अपने धार्मिक विश्वासों पर खुलकर बात की।
+पोलैंड के क्राको में गोलीबारी के बाद 24 वर्षीय हमलावर की अस्पताल में मौत हो गई। इसमें छह लोग मारे गए और 15 घायल हुए। उसके घर से मां, पिता और बहन के शव मिले। पोलैंड के क्राको शहर में शनिवार को सरेआम गोलीबारी करने वाले 24 वर्षीय हमलावर की सोमवार सुबह अस्पताल में मौत हो गई. इस हमले में छह लोगों की जान गई और 15 घायल हुए थे.
 
 ---
 
