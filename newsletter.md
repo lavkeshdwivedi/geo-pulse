@@ -1,28 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 09, 2026 23:24 IST
+**Updated:** November 10, 2026 06:25 IST
 
 ---
 
 ## Middle East & Africa
+
+### [Nvidia’s Huang spy scandal signals tighter US chip controls](https://asiatimes.com/2026/11/nvidias-huang-spy-scandal-signals-tighter-us-chip-controls/)
+*Asia Times* - Nov 10, 02:32 IST (iso: 2026-11-09T21:02:25+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen_Alice.jpeg -->
+
+Jensen Huang admitted to an affair with a woman suspected of spying for China. This personal breach may accelerate Washington's efforts to block Chinese firms from accessing advanced AI chips in third countries. The incident adds pressure for stricter export controls. Nvidia chief executive Jensen Huang’s admission of an affair with a businesswoman suspected of spying for Beijing could strengthen Washington’s push to stop Chinese firms from renting advanced artificial intelligence (AI) chips in third countries.
+
+### [Hegseth faces expected U.S. House impeachment vote this week](https://www.thehindu.com/news/international/hegseth-faces-expected-us-house-impeachment-vote-this-week/article71683990.ece)
+*The Hindu (International)* - Nov 10, 01:54 IST (iso: 2026-11-09T20:24:42+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ch8qbv/article71683992.ece/alternates/LANDSCAPE_1200/2026-11-09T195325Z_1319361631_RC20IOAC26VE_RTRMADP_3_USA-TRUMP-HEGSETH.JPG -->
+
+Representative Thomas Massie introduced articles of impeachment against Hegseth on Monday. The move triggers a two-day deadline for a House vote. Charges include waging war against Iran without congressional approval and other abuses of executive power. U. S. Representative Thomas Massie, a Kentucky Republican, introduced articles of impeachment on Monday, setting off a two-day ‌clock for an expected House vote on charges including waging war against Iran without congressional approval and other abuses of power.
 
 ### [Syrian FM says country has no troops in Yemen, won't send any](https://www.thehindu.com/news/international/syrian-fm-says-country-has-no-troops-in-yemen-wont-send-any/article71683136.ece)
 *The Hindu (International)* - Nov 09, 20:11 IST (iso: 2026-11-09T14:41:32+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/m1kr8w/article71683203.ece/alternates/LANDSCAPE_1200/Iraq_47794.jpg -->
 
 Syria's foreign minister stated the country maintains no military presence in Yemen and will not deploy troops there. He emphasized that the recent accord with Saudi Arabia is essential for rebuilding Syrian state institutions, including the military, following over a decade of civil war. He said the accord with Riyadh, a key backer of Damascus as it seeks to rebuild after more than a decade of civil war, was vital for Syria to rebuild its institutions, including the military.
-
-### [Rubio says Trump's war against Iran not 'necessarily popular' but needed to stop a nuclear threat](https://www.thehindu.com/news/international/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/article71681264.ece)
-*The Hindu (International)* - Nov 09, 18:43 IST (iso: 2026-11-09T13:13:58+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/8vyybh/article71681268.ece/alternates/LANDSCAPE_1200/2026-11-08T221548Z_927214633_RC2YJOAS8LEN_RTRMADP_3_USA-RUBIO.JPG -->
-
-Secretary of State Marco Rubio defended the ongoing war against Iran. He stated the conflict is necessary to stop a nuclear threat. Rubio acknowledged the war is not necessarily popular with voters. Many Americans blame Trump policies for higher energy prices and economic strain. America's top diplomat offered a robust defence of the more than eight-month-old war even as voters blamed Mr.
-
-### [Trump to meet Iran war mediator Qatar, no imminent deal seen to end war](https://www.thehindu.com/news/international/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-war/article71682536.ece)
-*The Hindu (International)* - Nov 09, 18:17 IST (iso: 2026-11-09T12:47:09+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ps6ujk/article71682660.ece/alternates/LANDSCAPE_1200/Trump_84433.jpg -->
-
-Donald Trump plans to meet with Qatari officials to mediate the Iran conflict, though no immediate deal is expected. The U. S. struck Qeshm island while Iran targeted Gulf tankers. Houthi forces also attacked Saudi Arabia, escalating regional tensions despite ongoing diplomatic efforts. Mutual attacks continue, with the U. S. striking Iran's Qeshm island overnight, according to Iranian state media, and Iran attacking tankers in the Gulf and ‌Strait of Hormuz this month while its Yemeni Houthi allies have hit Saudi Arabia.
 
 ### [Strikes on Ukraine’s power grid, as peace talks loom](https://news.un.org/feed/view/en/story/2026/11/1168761)
 *UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
@@ -102,6 +102,40 @@ Political analysts compare Donald Trump's recent actions to the Greek concept of
 
 ---
 
+## Americas
+
+### [Can climate promises finally deliver results?](https://news.un.org/feed/view/en/story/2026/11/1168763)
+*UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/9-11-26_COP31-opening-Stiell_UNFCCC.jpg/image770x420cropped.jpg -->
+
+Nearly 200 countries gathered in Türkiye for a climate summit focused on concrete decisions rather than grand declarations. Negotiators face tough questions on finance and clean energy. A powerful El Niño event threatens to worsen extreme weather conditions for vulnerable communities. Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions.
+
+### [Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit](https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity)
+*The Guardian* - Nov 09, 07:41 IST (iso: 2026-11-09T02:11:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=920553499e2d4cef68f79a76ce8f99b1 -->
+
+Pope Leo XIV criticized Javier Milei's austerity measures in Buenos Aires. The pontiff insisted the economy must serve the people. He delivered the speech during a 12-day Latin America tour. The audience in Argentina responded with rapturous applause to the critique. Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.“The economy must be at the service of the people, rather than people being at the service.
+
+### [Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei](https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei)
+*The Guardian* - Nov 08, 14:30 IST (iso: 2026-11-08T09:00:35+00:00)
+<!-- image: https://i.guim.co.uk/img/media/69382c7253bd848478bf7c1f031a9d97c2de58fb/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f57a59d2627aa1f189bb4a4bf16ac007 -->
+
+Pope Leo XIV arrives in Argentina on 9 November for a visit that will test his relationship with President Javier Milei. The two men hold sharply opposing views on social and economic policy. Milei previously called the Pope's predecessor the representative of the Evil One. President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’Trees are being planted in the garden.
+
+### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
+*The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
+<!-- image: https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf -->
+
+Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.
+
+### [From a ship frozen into Arctic ice, a warning to world leaders: Trust the science](https://news.un.org/feed/view/en/story/2026/11/1168751)
+*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-Tara-Polar-Station-02.jpg/image560x340cropped.jpg -->
+
+Scientists aboard a ship frozen in Arctic ice are documenting rapid environmental changes. They warn world leaders to trust climate science as sea ice retreats. Oil tankers are increasingly operating in the region, heightening the stakes for polar governance. Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.
+
+---
+
 ## Asia-Pacific
 
 ### [China’s a green-tech superpower, but not yet a green civilization](https://asiatimes.com/2026/11/chinas-a-green-tech-superpower-but-not-yet-a-green-civilization/)
@@ -127,40 +161,6 @@ New Zealand's National Party leads parliament, but no coalition has secured a ma
 <!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
 
 New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
-
----
-
-## Americas
-
-### [Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit](https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity)
-*The Guardian* - Nov 09, 07:41 IST (iso: 2026-11-09T02:11:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=920553499e2d4cef68f79a76ce8f99b1 -->
-
-Pope Leo XIV criticized Javier Milei's austerity measures in Buenos Aires. The pontiff insisted the economy must serve the people. He delivered the speech during a 12-day Latin America tour. The audience in Argentina responded with rapturous applause to the critique. Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.“The economy must be at the service of the people, rather than people being at the service.
-
-### [Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei](https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei)
-*The Guardian* - Nov 08, 14:30 IST (iso: 2026-11-08T09:00:35+00:00)
-<!-- image: https://i.guim.co.uk/img/media/69382c7253bd848478bf7c1f031a9d97c2de58fb/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f57a59d2627aa1f189bb4a4bf16ac007 -->
-
-Pope Leo XIV arrives in Argentina on 9 November for a visit that will test his relationship with President Javier Milei. The two men hold sharply opposing views on social and economic policy. Milei previously called the Pope's predecessor the representative of the Evil One. President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’Trees are being planted in the garden.
-
-### [Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph)
-*The Guardian* - Nov 07, 02:53 IST (iso: 2026-11-06T21:23:54+00:00)
-<!-- image: https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf -->
-
-Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.
-
-### [From a ship frozen into Arctic ice, a warning to world leaders: Trust the science](https://news.un.org/feed/view/en/story/2026/11/1168751)
-*UN News* - Nov 06, 17:30 IST (iso: 2026-11-06T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-Tara-Polar-Station-02.jpg/image770x420cropped.jpg -->
-
-Scientists aboard a ship frozen in Arctic ice are documenting rapid environmental changes. They warn world leaders to trust climate science as sea ice retreats. Oil tankers are increasingly operating in the region, heightening the stakes for polar governance. Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.
-
-### [What’s at stake at this year’s UN climate summit?](https://news.un.org/feed/view/en/story/2026/11/1168735)
-*UN News* - Nov 04, 17:30 IST (iso: 2026-11-04T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNICEF-Bangladesh-02.jpg/image560x340cropped.jpg -->
-
-COP31 focuses on making advanced clean energy technologies affordable for all nations. The primary challenge is no longer finding solutions. The summit addresses the gap between technological availability and the financial capacity of millions to access these tools. The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.
 
 ---
 
