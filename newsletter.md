@@ -1,28 +1,56 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 10, 2026 06:25 IST
+**Updated:** November 10, 2026 13:21 IST
+
+---
+
+## Asia-Pacific
+
+### [China fast-tracks mobile ICBM to lock down second-strike edge](https://asiatimes.com/2026/11/china-fast-tracks-mobile-icbm-to-lock-down-second-strike-edge/)
+*Asia Times* - Nov 10, 11:38 IST (iso: 2026-11-10T06:08:04+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile.jpeg -->
+
+China has rapidly deployed a new road-mobile intercontinental ballistic missile to strengthen its second-strike capability. The system addresses technical flaws in earlier models and improves survivability. This move accelerates the modernization of its land-based nuclear deterrent against potential adversaries. China’s rapid operational integration of a new type of intercontinental ballistic missile (ICBM) underscores an accelerating push to modernize its land-based deterrent, addressing key technical vulnerabilities of earlier systems while fortifying second-strike survivability amid an unprecedented nuclear expansion.
+
+### [China’s a green-tech superpower, but not yet a green civilization](https://asiatimes.com/2026/11/chinas-a-green-tech-superpower-but-not-yet-a-green-civilization/)
+*Asia Times* - Nov 09, 08:27 IST (iso: 2026-11-09T02:57:35+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2022/01/China-Green-Financing-Environment.jpg -->
+
+China dominates global clean-tech production at the Antalya climate conference. The country manufactures most of the world's solar panels and batteries. Its emissions have stopped rising. However, experts argue it has not yet become a fully green civilization. At the UN climate conference in Antalya, which runs from November 9 to 20, China is the world’s clean-technology superpower. It makes most of the planet’s solar panels, batteries and electric vehicles.
+
+### [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)
+*The Guardian* - Nov 08, 08:30 IST (iso: 2026-11-08T03:00:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa1a8b3cf4e2a78849c21902c5dbd10 -->
+
+Activists warn that Thailand is preparing to deport more Uyghurs to China despite documented torture and abuse. One man said he would be like a slave if returned. Thai authorities forcibly deported 40 Uyghurs last year under pressure from Beijing. Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. Last year, Thai authorities forcibly deported 40 Uyghu.
+
+### [New Zealand faces weeks of uncertainty with results ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)
+*The Guardian* - Nov 08, 06:30 IST (iso: 2026-11-08T01:00:48+00:00)
+<!-- image: https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593 -->
+
+New Zealand's National Party leads parliament, but no coalition has secured a majority. The country faces weeks of negotiations to form a government. Neither the right-wing bloc nor the left-wing opposition won a decisive mandate. National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by th.
+
+### [New Zealand election coalition talks will likely take weeks – as it happened](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
+*The Guardian* - Nov 07, 18:42 IST (iso: 2026-11-07T13:12:22+00:00)
+<!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
+
+New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
 
 ---
 
 ## Middle East & Africa
+
+### [A time to rethink American power](https://asiatimes.com/2026/11/beyond-trump-a-time-to-rethink-american-power/)
+*Asia Times* - Nov 10, 11:03 IST (iso: 2026-11-10T05:33:51+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-White-House.jpg -->
+
+Democrats won both houses of Congress in a decisive defeat for President Trump. Voters rejected rising prices, corruption, and the Iran war. The election results signal a sharp shift in American political power and public sentiment toward the current administration. Last Tuesday’s election was a stunning defeat for President Donald Trump. Democrats won both houses of Congress, including Senate races in states they haven’t won in generations.
 
 ### [Nvidia’s Huang spy scandal signals tighter US chip controls](https://asiatimes.com/2026/11/nvidias-huang-spy-scandal-signals-tighter-us-chip-controls/)
 *Asia Times* - Nov 10, 02:32 IST (iso: 2026-11-09T21:02:25+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen_Alice.jpeg -->
 
 Jensen Huang admitted to an affair with a woman suspected of spying for China. This personal breach may accelerate Washington's efforts to block Chinese firms from accessing advanced AI chips in third countries. The incident adds pressure for stricter export controls. Nvidia chief executive Jensen Huang’s admission of an affair with a businesswoman suspected of spying for Beijing could strengthen Washington’s push to stop Chinese firms from renting advanced artificial intelligence (AI) chips in third countries.
-
-### [Hegseth faces expected U.S. House impeachment vote this week](https://www.thehindu.com/news/international/hegseth-faces-expected-us-house-impeachment-vote-this-week/article71683990.ece)
-*The Hindu (International)* - Nov 10, 01:54 IST (iso: 2026-11-09T20:24:42+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ch8qbv/article71683992.ece/alternates/LANDSCAPE_1200/2026-11-09T195325Z_1319361631_RC20IOAC26VE_RTRMADP_3_USA-TRUMP-HEGSETH.JPG -->
-
-Representative Thomas Massie introduced articles of impeachment against Hegseth on Monday. The move triggers a two-day deadline for a House vote. Charges include waging war against Iran without congressional approval and other abuses of executive power. U. S. Representative Thomas Massie, a Kentucky Republican, introduced articles of impeachment on Monday, setting off a two-day ‌clock for an expected House vote on charges including waging war against Iran without congressional approval and other abuses of power.
-
-### [Syrian FM says country has no troops in Yemen, won't send any](https://www.thehindu.com/news/international/syrian-fm-says-country-has-no-troops-in-yemen-wont-send-any/article71683136.ece)
-*The Hindu (International)* - Nov 09, 20:11 IST (iso: 2026-11-09T14:41:32+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/m1kr8w/article71683203.ece/alternates/LANDSCAPE_1200/Iraq_47794.jpg -->
-
-Syria's foreign minister stated the country maintains no military presence in Yemen and will not deploy troops there. He emphasized that the recent accord with Saudi Arabia is essential for rebuilding Syrian state institutions, including the military, following over a decade of civil war. He said the accord with Riyadh, a key backer of Damascus as it seeks to rebuild after more than a decade of civil war, was vital for Syria to rebuild its institutions, including the military.
 
 ### [Strikes on Ukraine’s power grid, as peace talks loom](https://news.un.org/feed/view/en/story/2026/11/1168761)
 *UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
@@ -74,35 +102,13 @@ Reuters journalist Giulia Paravicini discussed her recent reporting trip to Asma
 
 ---
 
-## Europe & Russia
-
-### [High Hurdles To Progress At New US-Ukraine-Russia Talks](https://www.rferl.org/a/war-negotiations-abu-dhab-ukraine-russia-us/33893873.html)
-*Radio Free Europe / Liberty* - Nov 09, 19:55 IST (iso: 2026-11-09T14:25:44+00:00)
-<!-- image: https://gdb.rferl.org/61be2878-4db6-4060-b194-cb55114ae8d3_cx0_cy2_cw0_w1200_h630.jpg -->
-
-The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 for their first talks since February. Analysts expect limited progress on ending the war, citing deep structural disagreements and the lack of a unified negotiating position among the three parties. For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low.
-
-### [Trump teases ‘big, beautiful agreement’ on Ukraine war and more](https://asiatimes.com/2026/11/trump-teases-big-beautiful-agreement-on-ukraine-war-and-more/)
-*Asia Times* - Nov 09, 10:56 IST (iso: 2026-11-09T05:26:56+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Ukraine-War-Ukraine-Soldiers-Ukraine-Military.jpg -->
-
-Donald Trump met with Kirill Dmitriev, a Russian special representative, on November 5. Dmitriev heads the Russian delegation for a Melania Trump event. The US president teased a significant agreement regarding the Ukraine war. The meeting was unscheduled and took place in Washington. US President Donald Trump held an unscheduled meeting on Thursday, November 5, with Kirill Dmitriev, a special representative of Russian President Vladimir Putin.
-
-### [Moscow And Kyiv Trade Air Strikes As Trump Hints At Potential Territorial Changes In Ukraine](https://www.rferl.org/a/ukraine-power-restore-russia-zaporizhzhya-abudhabi/33893359.html)
-*Radio Free Europe / Liberty* - Nov 09, 04:30 IST (iso: 2026-11-08T23:00:35+00:00)
-<!-- image: https://gdb.rferl.org/dc4cc9e2-10f0-4a7b-4ae9-08df13a884cb_cx4_cy11_cw78_w1200_h630.jpg -->
-
-Ukrainian crews worked to restore electricity to hundreds of thousands in the east after Russian airstrikes. Officials confirmed external power reached the Zaporizhzhya nuclear plant. Russian forces currently occupy that facility. Ukrainian authorities battled to restore power to hundreds of thousands of people in the east of the country following Russian air strikes, while officials said external power had been restored to the Zaporizhzhya nuclear plant, which is currently occupied by Russian forces.
-
-### [Trump’s hubris more comedy than tragedy but echoes Greek original](https://asiatimes.com/2026/11/trumps-hubris/)
-*Asia Times* - Nov 07, 17:23 IST (iso: 2026-11-07T11:53:38+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Marble-statue-of-Achilles-looking-at-his-heel-copy.jpg -->
-
-Political analysts compare Donald Trump's recent actions to the Greek concept of hubris. They argue his excessive self-confidence mirrors historical patterns of destructive arrogance. This trend reflects a failure to accurately assess America's global power. Recently across the globe, political observers have likened the foibles and subsequent downfalls of presidents of the United States to hubris, the ancient Greek concept of destructive arrogance.
-
----
-
 ## Americas
+
+### [Accused Ecuadorian thief agrees to plead guilty in largest U.S. jewelry heist](https://www.thehindu.com/news/international/accused-ecuadorian-thief-agrees-to-plead-guilty-in-largest-us-jewelry-heist/article71684989.ece)
+*The Hindu (International)* - Nov 10, 10:41 IST (iso: 2026-11-10T05:11:19+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/ehy6wg/article71685008.ece/alternates/LANDSCAPE_1200/iStock-1447145892%2030.jpg -->
+
+An accused Ecuadorian thief agreed to plead guilty in the largest U. S. jewelry heist on record. The stolen gold, diamonds, and watches were valued at approximately 100 million dollars. The case is being handled by the U. S. Attorney’s Office in Los Angeles. The stolen collection of fine gold, ​diamonds, rubies, emeralds and luxury watches was valued at approximately $100 million, marking the largest U. S.
 
 ### [Can climate promises finally deliver results?](https://news.un.org/feed/view/en/story/2026/11/1168763)
 *UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
@@ -136,41 +142,31 @@ Scientists aboard a ship frozen in Arctic ice are documenting rapid environmenta
 
 ---
 
-## Asia-Pacific
+## Europe & Russia
 
-### [China’s a green-tech superpower, but not yet a green civilization](https://asiatimes.com/2026/11/chinas-a-green-tech-superpower-but-not-yet-a-green-civilization/)
-*Asia Times* - Nov 09, 08:27 IST (iso: 2026-11-09T02:57:35+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2022/01/China-Green-Financing-Environment.jpg -->
+### [High Hurdles To Progress At New US-Ukraine-Russia Talks](https://www.rferl.org/a/war-negotiations-abu-dhab-ukraine-russia-us/33893873.html)
+*Radio Free Europe / Liberty* - Nov 09, 19:55 IST (iso: 2026-11-09T14:25:44+00:00)
+<!-- image: https://gdb.rferl.org/61be2878-4db6-4060-b194-cb55114ae8d3_cx0_cy2_cw0_w1200_h630.jpg -->
 
-China dominates global clean-tech production at the Antalya climate conference. The country manufactures most of the world's solar panels and batteries. Its emissions have stopped rising. However, experts argue it has not yet become a fully green civilization. At the UN climate conference in Antalya, which runs from November 9 to 20, China is the world’s clean-technology superpower. It makes most of the planet’s solar panels, batteries and electric vehicles.
+The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 for their first talks since February. Analysts expect limited progress on ending the war, citing deep structural disagreements and the lack of a unified negotiating position among the three parties. For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low.
 
-### [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)
-*The Guardian* - Nov 08, 08:30 IST (iso: 2026-11-08T03:00:28+00:00)
-<!-- image: https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa1a8b3cf4e2a78849c21902c5dbd10 -->
+### [Trump teases ‘big, beautiful agreement’ on Ukraine war and more](https://asiatimes.com/2026/11/trump-teases-big-beautiful-agreement-on-ukraine-war-and-more/)
+*Asia Times* - Nov 09, 10:56 IST (iso: 2026-11-09T05:26:56+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Ukraine-War-Ukraine-Soldiers-Ukraine-Military.jpg -->
 
-Activists warn that Thailand is preparing to deport more Uyghurs to China despite documented torture and abuse. One man said he would be like a slave if returned. Thai authorities forcibly deported 40 Uyghurs last year under pressure from Beijing. Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. Last year, Thai authorities forcibly deported 40 Uyghu.
+Donald Trump met with Kirill Dmitriev, a Russian special representative, on November 5. Dmitriev heads the Russian delegation for a Melania Trump event. The US president teased a significant agreement regarding the Ukraine war. The meeting was unscheduled and took place in Washington. US President Donald Trump held an unscheduled meeting on Thursday, November 5, with Kirill Dmitriev, a special representative of Russian President Vladimir Putin.
 
-### [New Zealand faces weeks of uncertainty with results ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)
-*The Guardian* - Nov 08, 06:30 IST (iso: 2026-11-08T01:00:48+00:00)
-<!-- image: https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593 -->
+### [Moscow And Kyiv Trade Air Strikes As Trump Hints At Potential Territorial Changes In Ukraine](https://www.rferl.org/a/ukraine-power-restore-russia-zaporizhzhya-abudhabi/33893359.html)
+*Radio Free Europe / Liberty* - Nov 09, 04:30 IST (iso: 2026-11-08T23:00:35+00:00)
+<!-- image: https://gdb.rferl.org/dc4cc9e2-10f0-4a7b-4ae9-08df13a884cb_cx4_cy11_cw78_w1200_h630.jpg -->
 
-New Zealand's National Party leads parliament, but no coalition has secured a majority. The country faces weeks of negotiations to form a government. Neither the right-wing bloc nor the left-wing opposition won a decisive mandate. National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by th.
+Ukrainian crews worked to restore electricity to hundreds of thousands in the east after Russian airstrikes. Officials confirmed external power reached the Zaporizhzhya nuclear plant. Russian forces currently occupy that facility. Ukrainian authorities battled to restore power to hundreds of thousands of people in the east of the country following Russian air strikes, while officials said external power had been restored to the Zaporizhzhya nuclear plant, which is currently occupied by Russian forces.
 
-### [New Zealand election coalition talks will likely take weeks – as it happened](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
-*The Guardian* - Nov 07, 18:42 IST (iso: 2026-11-07T13:12:22+00:00)
-<!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
+### [Trump’s hubris more comedy than tragedy but echoes Greek original](https://asiatimes.com/2026/11/trumps-hubris/)
+*Asia Times* - Nov 07, 17:23 IST (iso: 2026-11-07T11:53:38+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Marble-statue-of-Achilles-looking-at-his-heel-copy.jpg -->
 
-New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
-
----
-
-## Global / Multilateral
-
-### [Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns](https://news.un.org/feed/view/en/story/2026/11/1168749)
-*UN News* - Nov 05, 17:30 IST (iso: 2026-11-05T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-05-2023-UNISFA-Abyei-Peacekeepers.jpg/image560x340cropped.jpg -->
-
-UN peacekeeping chief warned the Security Council that drone strikes in Abyei pose a new threat. At least 30 people died in the attacks last month. The strikes added a concerning dimension to security in the disputed region. Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.
+Political analysts compare Donald Trump's recent actions to the Greek concept of hubris. They argue his excessive self-confidence mirrors historical patterns of destructive arrogance. This trend reflects a failure to accurately assess America's global power. Recently across the globe, political observers have likened the foibles and subsequent downfalls of presidents of the United States to hubris, the ancient Greek concept of destructive arrogance.
 
 ---
 

@@ -1,172 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 10, 2026 06:25 IST
-
----
-
-## एशिया-प्रशांत
-
-### [भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की](https://www.amarujala.com/world/saba-haider-tells-about-politics-family-ghaziabad-origin-and-on-us-midterm-election-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 12:08 IST (iso: 2026-11-10T06:38:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/mata-pata-sa-mal-sasakara-na-kasa-bthal-sab-ka-jathaga_15982391cd60c99dee8dbcda693bfd1d.jpeg?w=1200&dpr=1.0 -->
-
-गजियाबाद की सबा हैदर ने अमेरिका की राजनीति में अपनी जगह बनाई। उन्होंने अपनी सफलता के पीछे की कहानी खुद साझा की। यह यात्रा एक साधारण शुरुआत से लेकर अंतरराष्ट्रीय मंच तक की है। गाजियाबाद से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की कहानी। भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर?
-
-### [क्या विदेशों के ट्रैफिक मॉडल भारत के लिए फेल हो रहे हैं? 36 हजार वाहनों के अध्ययन से मिला जवाब](https://www.amarujala.com/india-news/why-foreign-traffic-models-failing-to-understand-congestion-on-indian-roads-study-of-36000-vehicles-reveals-2026-11-10)
-*Amar Ujala National* - Nov 10, 06:18 IST (iso: 2026-11-10T00:48:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/bharataya-jama-para-aaiiaaiita-ka-ahama-paugdhatal_b0ed9495dd7d02d693361bddd6ca52e9.jpeg?w=1200&dpr=1.0 -->
-
-एक अध्ययन में 36 हजार वाहनों का विश्लेषण किया गया। पाया गया कि विदेशी ट्रैफिक मॉडल भारत में काम नहीं करते। स्थानीय सड़क परिस्थितियां अलग हैं। नए मॉडल की आवश्यकता स्पष्ट हुई है। खुलासा: क्या विदेशों के ट्रैफिक मॉडल भारत के लिए फेल हो रहे हैं? 36 हजार वाहनों के अध्ययन से मिला जवाब।
-
-### [भाई दूज का पर्व, पटना जाएंगे भाजपा अध्यक्ष नितिन नवीन; भारत-न्यूजीलैंड के बीच तीसरा वनडे मैच](https://www.amarujala.com/india-news/10-november-2026-major-event-2026-2026-11-09)
-*Amar Ujala National* - Nov 10, 06:16 IST (iso: 2026-11-10T00:46:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/aaja-ka-thana_cba413c8d437e73ba85369d4f1c95140.gif?w=1200&dpr=1.0 -->
-
-भाजपा अध्यक्ष नितिन गडकरी पटना जाएंगे। वहां भाई दूज का पर्व मनाया जाएगा। दिल्ली में यमुना नदी पर क्रूज सफारी की शुरुआत भी होगी। यह 10 नवंबर 2026 का दिन है। 10 November 2026 Major event 2026- आज के दिन: भाई दूज का पर्व, पटना जाएंगे भाजपा अध्यक्ष नितिन नवीन; दिल्ली में यमुना क्रूज सफारी की शुरुआत। भाई दूज का पर्व, पटना जाएंगे भाजपा अध्यक्ष नितिन नवीन; भारत-न्यूजीलैंड के बीच तीसरा वनडे मैच।
-
-### [प्रदूषण के आंकड़ों में साफ हुई हवा: गंभीर श्रेणी के स्टेशन 19 से घटकर एक दिखे, 12 केंद्रों का डेटा](https://www.amarujala.com/delhi-ncr/data-indicated-an-improvement-in-delhi-s-air-quality-on-the-day-after-diwali-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 04:14 IST (iso: 2026-11-09T22:44:15+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/01/06/weather-cold-wave-in-north-india-snow-capped-mountains-delhi-ncr-hit-by-cold-air-and-pollution_4ede5138d9888dac7d959729bc5a02ad.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली के दूसरे दिन दिल्ली में वायु गुणवत्ता सूचकांक रविवार से बेहतर रहा। केंद्रीय प्रदूषण नियंत्रण बोर्ड के अनुसार, गंभीर श्रेणी के स्टेशन 19 से घटकर एक रह गए। 12 केंद्रों का डेटा इस सुधार की पुष्टि करता है। दिवाली के दूसरे दिन दिल्ली की हवा में सुधार के आंकड़े सामने आए हैं। केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी) के मुताबिक, रविवार के मुकाबले दिल्ली का एक्यूआई बेहतर रहा।
-
-### [दिल्ली की हवा कितनी जहरीली? एक्यूआई के दो आंकड़ों ने बढ़ाया भ्रम](https://www.amarujala.com/delhi-ncr/two-aqi-figures-in-delhi-have-caused-confusion-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 03:37 IST (iso: 2026-11-09T22:07:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/thall-ma-parathashhanae_92b5f482f279b3ae84bea7ca0485a537.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली के बाद दिल्ली के वायु गुणवत्ता सूचकांक को लेकर लोगों में असमंजस बना रहा। एक आंकड़ा 370 दिखा, जबकि दूसरा 3000 के पार। इस भ्रम ने वायु गुणवत्ता की वास्तविक स्थिति को स्पष्ट नहीं किया। दिवाली के बाद सोमवार को दिल्ली की हवा कितनी प्रदूषित रही, इसे लेकर लोगों के बीच असमंजस की स्थिति बनी रही। सवाल था कि राजधानी का वायु गुणवत्ता सूचकांक (एक्यूआई) 370 है या 3000 के पार?
+**अपडेट:** November 10, 2026 13:21 IST
 
 ---
 
 ## दुनिया
 
-### [इंस्टाग्राम पर बच्चे और किशोर खुद को वयस्क बताकर नहीं चला सकेंगे अकाउंट, एआई पकड़ेगा उम्र](https://www.amarujala.com/technology/tech-diary/instagram-users-not-be-able-to-pose-as-adults-meta-expands-ai-age-detection-globally-to-identify-teenagers-2026-11-10)
-*Amar Ujala National* - Nov 10, 06:24 IST (iso: 2026-11-10T00:54:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/eaaii-kasa-pahacana-karaga-ka-akauta-calna-val-kashara-ha_2e7dbb34c880cad71a13099a1e0c6e4d.jpeg -->
+### [सिर्फ आइडिया बताएं और मैप्स एप होगा तैयार: गूगल एआई स्टूडियो में आया नया टूल, क्या है और कैसे कर](https://www.amarujala.com/technology/tech-diary/google-ai-studio-gets-google-maps-integration-build-interactive-apps-minutes-2026-11-10)
+*Amar Ujala National* - Nov 10, 12:59 IST (iso: 2026-11-10T07:29:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/gagal-eaaii-satadaya-ma-aaya-naya-tal_1ab2b5b2d0d84c87b2b03c3d19e19842.jpeg -->
 
-इंस्टाग्राम ने नई एआई तकनीक लागू की है। यह किशोरों को वयस्क बताकर खाता बनाने से रोकती है। अब उम्र की सटीक पहचान स्वतः होगी। यह कदम बच्चों की सुरक्षा के लिए उठाया गया है। सोशल मीडिया सुरक्षा: इंस्टाग्राम पर बच्चे और किशोर खुद को वयस्क बताकर नहीं चला सकेंगे अकाउंट, एआई पकड़ेगा उम्र।
+Google AI Studio में नया टूल लॉन्च हुआ है। यह टूल उपयोगकर्ता के विवरण से मैप्स ऐप बनाता है। यह फीचर ऐप डेवलपमेंट को सरल बनाता है। सिर्फ आइडिया बताएं और मैप्स एप होगा तैयार: गूगल एआई स्टूडियो में आया नया टूल, क्या है और कैसे कर सकेंगे यूज?
 
-### [बाल दिवस पर दें ये दमदार भाषण, तालियों से गूंज उठेगा मैदान; छोटे और बड़े सभी के लिए आसान स्पीच](https://www.amarujala.com/education/children-day-speech-2026-best-short-and-long-speeches-for-school-students-teachers-and-kids-2026-11-09)
-*Amar Ujala National* - Nov 10, 06:16 IST (iso: 2026-11-10T00:46:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/childrens-day-speech-idea_3108251d8fb8b942fb0142dc70ea5dda.jpeg?w=1200&dpr=1.0 -->
+### ['किताब का नाम बिलॉन्गिंग नहीं व्हाइटवॉशिंग होना चाहिए': सोनिया गांधी की किताब पर भाजपा हमलावर, क्या](https://www.amarujala.com/india-news/bjp-targets-sonia-gandhi-book-belonging-amid-political-row-reactions-2026-11-10)
+*Amar Ujala National* - Nov 10, 12:55 IST (iso: 2026-11-10T07:25:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/saaara-kasavana-bhajapa-ka-rashhataraya-paravakata_e2163a28b33c71c93e5d3e39b5ee8e0f.jpeg?w=1200&dpr=1.0 -->
 
-बाल दिवस 14 नवंबर को मनाया जाता है। स्कूलों में भाषण और सांस्कृतिक कार्यक्रम आयोजित होते हैं। छोटे और बड़े छात्रों के लिए आसान भाषण उपलब्ध हैं। यह दिन बाल अधिकारों पर केंद्रित होता है। बाल दिवस हर साल 14 नवंबर को मनाया जाता है। इस दिन स्कूलों में भाषण, कविता और सांस्कृतिक कार्यक्रम आयोजित किए जाते हैं। अगर आप भी बाल दिवस पर मंच से भाषण देने की तैयारी कर रहे हैं, तो यहां छोटे बच्चों और बड़े छात्रों के लिए।
+भाजपा ने सोनिया गांधी की किताब 'बिलॉन्गिंग' पर हमला किया है। पार्टी का कहना है कि किताब का नाम व्हाइटवॉशिंग होना चाहिए। यह राजनीतिक विवाद गहराता जा रहा है। 'किताब का नाम बिलॉन्गिंग नहीं व्हाइटवॉशिंग होना चाहिए': सोनिया गांधी की किताब पर भाजपा हमलावर, क्या लगाए आरोप?
 
-### [30 हजार की सैलरी पर इतना निवेश करें, 20 साल में बन सकता है 59.9 लाख का फंड](https://www.amarujala.com/business/bonus/how-much-sip-should-you-invest-every-month-invest-this-much-on-a-30-000-salary-to-build-a-59-9-lakh-fund-2026-11-10)
-*Amar Ujala National* - Nov 10, 06:11 IST (iso: 2026-11-10T00:41:21+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/04/mayacaal-fada-esaaaiipa_a239426a5883091e36b812f39f6c4f0f.jpeg?w=1200&dpr=1.0 -->
+### [सर्दियों में अचानक क्यों बढ़ जाता है ब्लड प्रेशर? जानें 6 बड़ी वजहें और बचाव के तरीके](https://www.amarujala.com/photo-gallery/lifestyle/fitness/why-does-blood-pressure-suddenly-increase-in-winter-causes-symptoms-and-prevention-tips-2026-11-10)
+*Amar Ujala National* - Nov 10, 12:52 IST (iso: 2026-11-10T07:22:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/how-to-control-bp-in-winter_6ad792408282851c5facb5ef6227bbe2.jpeg?w=1200&dpr=1.0 -->
 
-एक व्यक्ति 30,000 रुपये की मासिक आय से 20 वर्षों में 59.9 लाख रुपये का निवेश फंड बना सकता है। यह लक्ष्य नियमित मासिक बचत और समय के साथ बढ़ते रिटर्न पर आधारित है। हर महीने कितनी एसआईपी करें?: 30 हजार की सैलरी पर इतना निवेश करें, 20 साल में बन सकता है 59.9 लाख का फंड।
+सर्दियों में ठंडे मौसम से रक्त वाहिकाएं सिकुड़ जाती हैं, जिससे ब्लड प्रेशर बढ़ जाता है। यह वृद्धि हृदय पर अतिरिक्त दबाव डालती है। विशेषज्ञ सलाह देते हैं कि सर्दियों में नमक की मात्रा कम करें और नियमित रूप से दवाएं लें। इस लेख में जानें कि सर्दियों के मौसम में ब्लड प्रेशर अचानक क्यों बढ़ने लगता है और ठंड का असर दिल व रक्त वाहिकाओं पर किस तरह पड़ता है।
 
-### [गोवर्धन पूजा पर करें गिरिराज चालीसा का पाठ, बरसेगी श्रीकृष्ण की कृपा](https://www.amarujala.com/spirituality/festivals/govardhan-puja-2026-giriraj-chalisa-path-to-bring-lord-krishna-s-divine-blessings-2026-11-09)
-*Amar Ujala National* - Nov 10, 06:06 IST (iso: 2026-11-10T00:36:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/gararaja-calsa_f11824d031b7f97bd72bd50ea9810c64.jpeg?w=1200&dpr=1.0 -->
+### [21 की उम्र में थीं करोड़ों की मालकिन, शादी के बाद छोड़ी एक्टिंग; पति के निधन के बाद क्यों की वापसी?](https://www.amarujala.com/entertainment/neetu-kapoor-had-mercedes-and-five-properties-at-the-age-21-but-left-acting-amid-peak-success-2026-11-10)
+*Amar Ujala National* - Nov 10, 12:44 IST (iso: 2026-11-10T07:14:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/11/nata-kapara_22aad80426d5edf0cc96b185f36c7c22.jpeg?w=1200&dpr=1.0 -->
 
-10 नवंबर 2026 को गोवर्धन पूजा मनाई जाएगी। इस दिन गिरिराज चालीसा का पाठ करने से श्रीकृष्ण की कृपा मिलती है। यह पर्व भक्ति और शुभकामनाओं का प्रतीक है। गोवर्धन पूजा का पावन पर्व 10 नवंबर 2026, मंगलवार को मनाया जाएगा। इस शुभ अवसर पर गिरिराज चालीसा का पाठ करना बेहद मंगलकारी माना जाता है। मान्यता है कि श्रद्धापूर्वक चालीसा का पाठ करने से भगवान श्रीकृष्ण और गिरिराज महाराज की कृपा प्राप्त होती है।
+नीतू कपूर ने बाल कलाकार के रूप में फिल्मी करियर की शुरुआत की थी। उन्होंने जल्द ही करोड़ों की संपत्ति बना ली। शादी के बाद उन्होंने एक्टिंग छोड़ दी थी। पति के निधन के बाद उन्होंने फिर से फिल्मों में वापसी का फैसला किया। नीतू कपूर फिल्मी दुनिया की मशहूर अभिनेत्री रही हैं। एक्ट्रेस ने बाल कलाकार के रुप में करियर की शुरुआत की थी।
 
-### [क्रेडिट कार्ड से खरीदारी अब कैसे संभालें बिल?: मिनिमम ड्यू, नो-कॉस्ट ईएमआई और कर्ज से बचने के समझें](https://www.amarujala.com/business/bonus/how-to-manage-your-credit-card-bills-after-festive-shopping-know-how-to-avoid-debt-and-hidden-charges-2026-11-10)
-*Amar Ujala National* - Nov 10, 06:04 IST (iso: 2026-11-10T00:34:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/karadata-karada-ka-bl-cakana-ka-le-parasanal-lna-lna-katana-saha_078037fd323540c41b920641f8252c69.jpeg?w=1200&dpr=1.0 -->
+### [सरकार के खिलाफ टिप्पणी करना पड़ा भारी? कोलकाता पुलिस के इंस्पेक्टर निलंबित; जानें पूरा मामला](https://www.amarujala.com/india-news/kolkata-police-inspector-eklak-ahmed-suspended-social-media-remarks-against-officials-2026-11-10)
+*Amar Ujala National* - Nov 10, 12:42 IST (iso: 2026-11-10T07:12:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/20/nalbna-sakataka-tasavara_14e5bbed01292d282ff81a566c75e682.jpeg?w=1200&dpr=1.0 -->
 
-क्रेडिट कार्ड बिल का प्रबंधन मिनिमम ड्यू और नो-कॉस्ट ईएमआई विकल्पों से किया जा सकता है। समय पर भुगतान करने से ब्याज और कर्ज की समस्या से बचा जा सकता है। क्रेडिट कार्ड से खरीदारी अब कैसे संभालें बिल?: मिनिमम ड्यू, नो-कॉस्ट ईएमआई और कर्ज से बचने के समझें तरीके।
+कोलकाता पुलिस के इंस्पेक्टर एक्लक अहमद को निलंबित कर दिया गया है। उन्हें सोशल मीडिया पर सरकारी अधिकारियों के खिलाफ की गई टिप्पणियों के कारण सस्पेंड किया गया है। पश्चिम बंगाल में यह मामला चर्चा का विषय बना हुआ है। पश्चिम बंगाल: सरकार के खिलाफ टिप्पणी करना पड़ा भारी? कोलकाता पुलिस के इंस्पेक्टर निलंबित; जानें पूरा मामला।
 
-### [Weather Forecast 10 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-for-10-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-10)
-*Amar Ujala National* - Nov 10, 06:00 IST (iso: 2026-11-10T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/weather-forecast_ab646ce6547f2bf4411c9c0a84dd0664.jpeg?w=1200&dpr=1.0 -->
+### [आज शीतकाल के लिए बंद हुए गंगोत्री मंदिर के कपाट, मुखबा के लिए रवाना हुई मां गंगा की डोली](https://www.amarujala.com/uttarakhand/uttarkashi/gangotri-temple-closes-today-for-winter-goddess-ganga-worship-to-continue-at-mukhba-chardham-yatra-2026-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 12:27 IST (iso: 2026-11-10T06:57:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/04/30/gangotri-dham-chardham-yatra-2025_51762ec719fb7c87229a67d8ebbefc48.jpeg?w=1200&dpr=1.0 -->
 
-10 नवंबर 2026 के लिए मौसम का पूर्वानुमान जारी किया गया है। विभिन्न क्षेत्रों में तापमान और वर्षा की संभावनाओं का विवरण उपलब्ध है। स्थानीय मौसम स्थिति के अनुसार तैयारी की जानी चाहिए।
+गंगोत्री धाम के कपाट मंगलवार दोपहर 12:05 बजे छह माह के शीतकाल के लिए बंद कर दिए गए। इस अवसर पर मां गंगा की डोली मुखबा के लिए रवाना हुई। विश्व प्रसिद्ध गंगोत्री धाम के कपाट मंगलवार को अन्नकूट पर्व एवं गोवर्धन पूजा के पावन अवसर पर अभिजीत मुहूर्त में दोपहर 12 बजकर 05 मिनट पर वैदिक मंत्रोच्चार और विधि-विधान के साथ छह माह के शीतकाल के लिए बंद कर दिए गए।
 
-### [त्योहारी सीजन में ऑनलाइन शॉपिंग करते समय रहें सावधान, ये पांच सुरक्षा कवच बचाएंगे आपकी गाढ़ी कमाई](https://www.amarujala.com/business/bonus/alert-stay-safe-while-shopping-online-this-festive-season-5-essential-security-tips-to-protect-your-money-2026-11-10)
-*Amar Ujala National* - Nov 10, 05:59 IST (iso: 2026-11-10T00:29:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/25/online-shopping-aaja-ka-samaya-ma-kapaugdha-jata-mabil-gharal-samana-oura-karana-ka-samana-kharathana-ka-le-lga_f1020e1deabfe586ff327e4e2a231b3a.jpeg?w=1200&dpr=1.0 -->
+### [आज आएगी या करना होगा इंतजार? जानें 10वीं-12वीं की परीक्षा कब से होने की उम्मीद](https://www.amarujala.com/education/icse-isc-date-sheet-2027-when-will-cisce-release-class-10-and-12-timetables-check-expected-exam-dates-2026-11-10)
+*Amar Ujala National* - Nov 10, 12:27 IST (iso: 2026-11-10T06:57:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/aaiisaesaii-datashata-2027_a0cf6e64cac70813ccd9f319b39e92d4.jpeg?w=1200&dpr=1.0 -->
 
-त्योहारी सीजन में ऑनलाइन शॉपिंग के दौरान साइबर ठगी का खतरा बढ़ जाता है। सुरक्षा विशेषज्ञों ने पांच बुनियादी कदमों की सलाह दी है। इनमें सशक्त पासवर्ड और दो-चरणीय प्रमाणीकरण शामिल हैं। सावधान: त्योहारी सीजन में ऑनलाइन शॉपिंग करते समय रहें सावधान, ये पांच सुरक्षा कवच बचाएंगे आपकी गाढ़ी कमाई।
+सीआईएससीई की 2027 बोर्ड परीक्षा की समय-सारणी 10 नवंबर को जारी होने की संभावना है। हालांकि, बोर्ड की ओर से अभी तक आधिकारिक पुष्टि नहीं हुई है। सीआईएससीई की आईसीएसई 10वीं और आईएससी 12वीं की 2027 बोर्ड परीक्षा की समय-सारणी आज 10 नवंबर को जारी होने की संभावना जताई गई थी। हालांकि, बोर्ड की ओर से इसकी आधिकारिक पुष्टि नहीं हुई है।
 
-### [गोवर्धन पूजा पर अपनों को भेजें ये शुभकामना संदेश, बरसेगी श्रीकृष्ण की कृपा](https://www.amarujala.com/photo-gallery/spirituality/festivals/happy-govardhan-puja-wishes-2026-greetings-govardhan-puja-annakut-quotes-messages-shubhkamna-sandesh-2026-11-10)
-*Amar Ujala National* - Nov 10, 05:53 IST (iso: 2026-11-10T00:23:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/11/01/happy-govardhan-puja-2024-wishes_912df206968401bb6fe10e4fafb5e67a.jpeg?w=1200&dpr=1.0 -->
+### ['राष्ट्रीय सुरक्षा में जनता की अहम भूमिका': पूर्व सीडीएस अनिल चौहान बोले- सतर्कता, जागरूकता और](https://www.amarujala.com/india-news/former-cds-anil-chauhan-national-security-aware-citizens-jnu-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 12:13 IST (iso: 2026-11-10T06:43:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/former-cds-anil-chauhan_0d7b84bb4973b83d7e947da72f63847b.jpeg?w=1200&dpr=1.0 -->
 
-गोवर्धन पूजा पर भगवान श्रीकृष्ण की पूजा की जाती है। इस अवसर पर परिवार और मित्रों को शुभकामनाएं भेजने की परंपरा है। यह दिन कृष्ण की कृपा को स्मरण करने का पर्व है। गोवर्धन पूजा का पर्व भगवान श्रीकृष्ण और गोवर्धन महाराज की पूजा-अर्चना के लिए विशेष माना जाता है। इस पावन अवसर पर अपनों को शुभकामनाएं भेजने की भी परंपरा है।
+पूर्व सीडीएस अनिल चौहान ने कहा कि राष्ट्रीय सुरक्षा में जनता की भूमिका अहम है। उन्होंने सतर्कता, जागरूकता और कार्रवाई की आवश्यकता पर जोर दिया। 'राष्ट्रीय सुरक्षा में जनता की अहम भूमिका': पूर्व सीडीएस अनिल चौहान बोले- सतर्कता, जागरूकता और कार्रवाई जरूरी former-cds-anil-chauhan-national-security-aware-citizens-jnu।
 
-### [48 घंटे से ज्यादा न्यायिक हिरासत में रहने पर सरकारी कर्मचारी स्वतः निलंबित, अलग आदेश जरूरी नहीं](https://www.amarujala.com/india-news/supreme-court-government-employees-automatically-suspended-after-48-hours-in-judicial-custody-no-order-require-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 05:52 IST (iso: 2026-11-10T00:22:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/garafatara-ka-btha-48-ghata-jal-ma-raha-sarakara-karamacara-ta-apana-aapa-nalbta_1addf2d7ad563f990c86e7bc8bb7d23d.jpeg?w=1200&dpr=1.0 -->
+### [81 साल की उम्र में तिलोनिया में ली अंतिम सांस; आज शाम होगा अंतिम संस्कार](https://www.amarujala.com/rajasthan/padma-shri-bunker-roy-dies-at-81-barefoot-college-founder-tilonia-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 12:07 IST (iso: 2026-11-10T06:37:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/pathamashara-bkara-raya-ka-nathhana_04a7231f6b26904c69a31742b0bebb1d.jpeg?w=1200&dpr=1.0 -->
 
-सुप्रीम कोर्ट ने सरकारी कर्मचारियों के लिए नया नियम बनाया है। 48 घंटे से अधिक न्यायिक हिरासत में रहने पर कर्मचारी स्वतः निलंबित हो जाएगा। इसके लिए अलग आदेश की आवश्यकता नहीं होगी। सुप्रीम कोर्ट: 48 घंटे से ज्यादा न्यायिक हिरासत में रहने पर सरकारी कर्मचारी स्वतः निलंबित, अलग आदेश जरूरी नहीं।
+सामाजिक कार्यकर्ता संजीत रॉय का मंगलवार सुबह राजस्थान के तिलोनिया में निधन हो गया। वे 81 वर्ष के थे और बेयरफुट कॉलेज के संस्थापक थे। प्रख्यात सामाजिक कार्यकर्ता और बेयरफुट कॉलेज के संस्थापक संजीत 'बंकर' रॉय का मंगलवार सुबह राजस्थान के अजमेर जिले के तिलोनिया में निधन हो गया। उन्होंने सुबह 6:15 बजे अपने आवास पर अंतिम सांस ली। 81 साल की उम्र में तिलोनिया में ली अंतिम सांस; आज शाम होगा अंतिम संस्कार।
 
-### [कन्नौज के पूर्व ब्लॉक प्रमुख नवाब यादव की जमानत रद्द, कहा- आपराधिक पृष्ठभूमि जमानत का आधार नहीं](https://www.amarujala.com/india-news/supreme-court-cancel-bail-of-ex-block-pramukh-nawab-yadav-say-criminal-antecedents-cannot-be-grounds-for-bail-2026-11-10)
-*Amar Ujala National* - Nov 10, 05:45 IST (iso: 2026-11-10T00:15:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/saha-aarapa-ka-jamanata-malna-ka-taraka-kaya-naha-mana-gaya_727956851ab7c9e68a1a1b5df49b76c1.jpeg?w=1200&dpr=1.0 -->
+### [अब एक्सप्रेसवे पर चलने से पहले होगी चालकों की जांच; बिना फिटनेस नहीं मिलेगी एंट्री; हादसों पर सरकार](https://www.amarujala.com/lucknow/drivers-will-now-be-checked-before-traveling-on-expressways-in-up-entry-will-be-denied-without-fitness-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 12:05 IST (iso: 2026-11-10T06:35:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/aagara-lkhanauu-ekasaparasava_17d6663cf31a1a121077301a0e49604c.jpeg?w=1200&dpr=1.0 -->
 
-सुप्रीम कोर्ट ने कन्नौज के पूर्व ब्लॉक प्रमुख नवाब यादव की जमानत रद्द कर दी है। कोर्ट ने कहा कि आपराधिक पृष्ठभूमि जमानत का आधार नहीं बन सकती। यह फैसला अपराध की गंभीरता को देखते हुए लिया गया है। सुप्रीम कोर्ट: कन्नौज के पूर्व ब्लॉक प्रमुख नवाब यादव की जमानत रद्द, कहा- आपराधिक पृष्ठभूमि जमानत का आधार नहीं।
+उत्तर प्रदेश सरकार ने लखनऊ-आगरा एक्सप्रेसवे पर हादसे के बाद सड़क सुरक्षा नियमों में बदलाव किया है। अब चालकों की फिटनेस जांच अनिवार्य होगी। बिना पास होने वाले ड्राइवरों को एंट्री नहीं मिलेगी। लखनऊ-आगरा एक्सप्रेसवे पर हुए भीषण बस हादसे के बाद उत्तर प्रदेश सरकार ने सड़क सुरक्षा को लेकर सख्त रुख अपनाया है। अब एक्सप्रेसवे पर चलने से पहले होगी चालकों की जांच; बिना फिटनेस नहीं मिलेगी एंट्री; हादसों पर सरकार।
 
-### [बच्चों को परफेक्ट बनाने की जिद पड़ सकती है भारी, सामान्य शरारत को भी बीमारी समझने लगे माता-पिता](https://www.amarujala.com/india-news/the-pressure-to-raise-perfect-children-why-parents-are-mistaking-normal-behaviour-for-a-disorder-2026-11-10)
-*Amar Ujala National* - Nov 10, 05:38 IST (iso: 2026-11-10T00:08:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/bcaca-ka-parafakata-bnana-ka-haugdha-kaya-bugdhha-raha-ha_4733d021944ebe20addfb3f8c0ec6328.jpeg?w=1200&dpr=1.0 -->
+### [राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र](https://www.amarujala.com/india-news/sonia-gandhi-memoir-rahul-rajiv-gandhi-assassination-indira-gandhi-temper-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 11:30 IST (iso: 2026-11-10T06:00:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/sonia-gandhi-memoir_b7a285892f3e2b1bf1a29a216c1db25e.jpeg?w=1200&dpr=1.0 -->
 
-नए अध्ययन के अनुसार, माता-पिता की अत्यधिक सख्ती बच्चों को सामान्य व्यवहार को बीमारी मानने की ओर धकेलती है। यह दबाव बच्चों की मानसिक सेहत को गंभीर रूप से प्रभावित करता है। मानसिक सेहत: बच्चों को परफेक्ट बनाने की जिद पड़ सकती है भारी, सामान्य शरारत को भी बीमारी समझने लगे माता-पिता।
+सोनिया गांधी की किताब में राजीव गांधी की हत्या से पहले की घटनाओं का उल्लेख है। इंदिरा गांधी के गुस्से और अनहोनी की आशंका जताने वाले व्यक्ति का जिक्र किया गया है। सोनिया की किताब में खुलासा: राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र।
 
-### [आप भावुक हैं या सख्त मिजाज? जादू की झप्पी के अहसास से खुलेगा आपके अतीत और स्वभाव का राज](https://www.amarujala.com/world/are-you-emotional-or-reserved-how-your-reaction-to-a-hug-reveals-your-personality-and-past-experiences-2026-11-10)
-*Amar Ujala World* - Nov 10, 05:18 IST (iso: 2026-11-09T23:48:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/sahata-ka-le-kaya-janprra-ha-payara-bhara-saparasha_2094f61f5c32976d7fd00929e5ef8693.jpeg?w=1200&dpr=1.0 -->
+### [2022 में फेल रहे, 2026 में चलेगा एआईएमआईएम का जादू? ओवैसी के मेरठ दौरे को लेकर सियासी सरगर्मी तेज](https://www.amarujala.com/uttar-pradesh/meerut/up-election-2027-will-owaisi-aimim-make-an-impact-in-meerut-first-rally-scheduled-for-november-14-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 11:25 IST (iso: 2026-11-10T05:55:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/owaisi_47a28b5b71f33aa1dc13da5662f13182.jpeg?w=1200&dpr=1.0 -->
 
-एक नया अध्ययन बताता है कि जादू की झप्पी का अनुभव व्यक्ति के स्वभाव और अतीत का संकेत देता है। यह अनुभव भावुकता या सख्त मिजाज जैसी विशेषताओं से जुड़ा हुआ है। अध्ययन: आप भावुक हैं या सख्त मिजाज? जादू की झप्पी के अहसास से खुलेगा आपके अतीत और स्वभाव का राज।
+एआईएमआईएम ने उत्तर प्रदेश विधानसभा चुनाव 2027 के लिए अपनी तैयारी शुरू कर दी है। असदुद्दीन ओवैसी के मेरठ दौरे के बाद राजनीतिक गतिविधियां तेज हो गई हैं। पार्टी इस बार मजबूती से मैदान में उतरने का दावा कर रही है। उत्तर प्रदेश विधानसभा चुनाव-2027 को लेकर राजनीतिक दलों की सुगबुगाहट तेज हो गई है। ऑल इंडिया मजलिस-ए-इत्तेहादुल मुस्लिमीन (एआईएमआईएम) इस बार सूबे में पूरी मजबूती के साथ चुनाव मैदान में उतरने का दम भर रही है।
 
-### [जलवायु संकट पर दुनिया को चेतावनी: कॉप-31 में बोले वैश्विक नेता- मौजूदा प्रयास धीमे, तेजी से उठाने](https://www.amarujala.com/world/climate-crisis-global-leaders-warn-of-slow-progress-at-cop31-urge-action-as-2026-may-rank-among-hottest-years-2026-11-10)
-*Amar Ujala World* - Nov 10, 05:13 IST (iso: 2026-11-09T23:43:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/vashavaka-sakata-ka-bca-jalvaya-parayasa-ka-kana-canataya-ka-samana-karana-paugdha-raha-ha_f707dd0d4f99dae2282c79f1380e6908.jpeg?w=1200&dpr=1.0 -->
+### [तेज रफ्तार कार ने बाइक में मारी टक्कर, तीन की मौत और एक गंभीर घायल, फरार चालक की तलाश जारी](https://www.amarujala.com/uttar-pradesh/kanpur/kannauj-speeding-car-hits-motorcycle-three-dead-one-critically-injured-search-underway-for-absconding-driver-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 10:52 IST (iso: 2026-11-10T05:22:34+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/kanpur_0c8b746af83ce8a8017a1702d52f3a50.jpeg?w=1200&dpr=1.0 -->
 
-कॉप-31 सम्मेलन में वैश्विक नेताओं ने चेतावनी दी कि मौजूदा जलवायु प्रयास बहुत धीमे हैं। उन्होंने कहा कि संकट से निपटने के लिए कदमों की गति तेज करनी होगी। जलवायु संकट पर दुनिया को चेतावनी: कॉप-31 में बोले वैश्विक नेता- मौजूदा प्रयास धीमे, तेजी से उठाने होंगे कदम।
-
-### [आसमान में जश्न, जमीन पर बेजुबानों की जंग: दो कुत्तों की पूंछ में पटाखे बांधे, बेजुबान जानवर बुरी](https://www.amarujala.com/delhi-ncr/number-of-injured-animals-and-birds-in-hospitals-increases-after-diwali-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 03:59 IST (iso: 2026-11-09T22:29:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/thaval-ka-btha-asapatal-ma-bugdhha-ghayal-pasha-pakashhaya-ka-sakhaya_9ed2a33bd0ea8416de93b3414edf88d6.jpeg?w=1200&dpr=1.0 -->
-
-दिवाली की आतिशबाजी के बाद झुलसे कुत्ते और बिल्लियां मंगलवार को अस्पतालों में पहुंचीं। पटाखों की आवाज से घबराकर घोंसलों से गिरे परिंदों का भी इलाज शुरू हुआ। जानवरों को अलग-अलग केंद्रों में भर्ती कराया गया। दिवाली पर हुई आतिशबाजी में झुलसे कुत्ते-बिल्लियां और पटाखों की आवाज सुनकर घोंसलों से घबराकर गिरे परिंदे मंगलवार को इलाज के लिए अलग-अलग अस्पतालों में पहुंचे।
-
-### [आज बादलों की आवाजाही के बीच कोहरा करेगा परेशान, तापमान दो डिग्री सेल्सियस तक नीचे आने का अनुमान](https://www.amarujala.com/delhi-ncr/minimum-and-maximum-temperatures-in-delhi-are-expected-to-drop-by-up-to-two-degrees-celsius-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 03:46 IST (iso: 2026-11-09T22:16:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/01/12/delhi-weather_e37d3fe48e070f53d52edb8ac734c747.jpeg?w=1200&dpr=1.0 -->
-
-मंगलवार सुबह दिल्ली में बादलों के बीच कोहरा वाहन चालकों को परेशान करेगा। दिन निकलने पर कोहरा छट जाएगा। न्यूनतम और अधिकतम तापमान में दो डिग्री सेल्सियस की गिरावट दर्ज होगी। राजधानी में मंगलवार सुबह बादलों की आवाजाही के बीच वाहन चालकों को कोहरा परेशान करेगा। हालांकि, दिन निकलते ही कोहरा छट जाएगा। न्यूनतम और अधिकतम तापमान में दो डिग्री सेल्सियस की गिरावट दर्ज की जाएगी।
+कन्नौज के इंदरगढ़ में तेज रफ्तार कार ने बाइक में टक्कर मारी। तीन लोगों की मौत हो गई और एक युवक गंभीर रूप से घायल हुआ। कार चालक मौके से फरार हो गया है। कन्नौज जिले के इंदरगढ़ थाना क्षेत्र में सोमवार देर रात तेज रफ्तार कार की टक्कर से बाइक सवार तीन लोगों की मौत हो गई, जबकि एक युवक गंभीर रूप से घायल हो गया।
 
 ---
 
-## मध्य पूर्व और अफ्रीका
+## एशिया-प्रशांत
 
-### [रूस-यूक्रेन युद्ध खत्म कराने के लिए बैठक से पहले सामने आया ट्रंप का मास्टर प्लान, अब क्या करेंगे](https://www.patrika.com/world-news/russia-ukraine-war-abu-dhabi-peace-talks-donald-trump-21038727)
-*Patrika (World)* - Nov 10, 06:03 IST (iso: 2026-11-10T00:33:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-1.webp -->
+### [बचपन में झेली बुलिंग, 30 की उम्र में बनाई चिप कंपनी; आज 4.5 ट्रिलियन डॉलर की NVIDIA के हैं बॉस](https://www.amarujala.com/technology/tech-diary/jensen-huang-nvidia-ceo-success-story-ai-empire-and-controversy-wife-details-2026-11-10)
+*Amar Ujala National* - Nov 10, 12:58 IST (iso: 2026-11-10T07:28:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/jensen-huang-nvidia-ceo_e8f42b21bde2fa1a2ac15e13fec1903d.jpeg -->
 
-अबू धाबी में रूस और यूक्रेन के प्रतिनिधियों की दो दिवसीय बैठक शुरू होगी। अमेरिका इस वार्ता में मध्यस्थ की भूमिका निभाएगा। यह फरवरी के बाद पहली ऐसी कूटनीतिक प्रक्रिया है। रूस और यूक्रेन के बीच पिछले साढ़े चार साल से जारी युद्ध को खत्म कराने के लिए एक बार फिर कूटनीतिक कोशिशें तेज हो गई हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के एक बड़े शांति समझौते की उम्मीद जताने के बाद मंगलवार से अबू धाबी में रूस और यूक्रेन के प्रतिनिधियों के बीच बातचीत शुरू होने जा रही है।
+जेन्सेन हुआंग ने NVIDIA को 4.5 ट्रिलियन डॉलर की कंपनी बनाया है। वह एआई क्षेत्र में प्रमुख व्यक्ति हैं। ताइवान में जन्मे हुए उन्होंने अमेरिका में करियर बनाया। Jensen Huang Biography: दुनिया की सबसे मूल्यवान कंपनियों में से एक, NVIDIA के सीईओ जेन्सेन हुआंग आज एआई के क्षेत्र में सबसे ताकतवर शख्सियतों में गिने जाते हैं। ताइवान में जन्मे और अमेरिका में पले-बढ़े हुआंग ने एक छोटी सी कंपनी से शुरुआत।
 
-### [तुर्की के स्टील प्लांट में भीषण विस्फोट के बाद लगी आग, 16 लोगों की मौत, 13 घायल](https://hindi.news18.com/world/rest-of-world-turkiye-steel-plant-explosion-fire-kills-16-injures-13-10975519.html)
-*News18 Hindi (World)* - Nov 10, 05:41 IST (iso: 2026-11-10T00:11:51+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Turkey-2026-11-00701d6c94f2c572b2e3bae485137400-1200x800.jpg -->
+### [सीएम रेखा ने किया 'नमो यमुना रिवर सफारी' का शुभारंभ, जानें क्रूज का टिकट और रूट](https://www.amarujala.com/delhi-ncr/double-gift-from-delhi-govt-to-people-of-delhi-this-diwali-yamuna-river-cruise-service-and-free-gas-cylinders-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 12:53 IST (iso: 2026-11-10T07:23:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/makhayamatara-rakha-gapata-na-yamana-safara-ka-kaya-shabharabha_0781525e228caab2fcc8ec285ae6a84b.jpeg?w=1200&dpr=1.0 -->
 
-तुर्की के इजमिर में हाबास स्टील प्लांट में विस्फोट हुआ। इस हादसे में 16 लोगों की मौत और 13 घायल हुए। बॉयलर बदलते समय क्रेन गिरने से यह दुर्घटना हुई। राष्ट्रपति एर्दोआन ने जांच के आदेश दिए हैं। तुर्किये के इजमिर प्रांत के अलीआगा स्थित हाबास स्टील प्लांट में सोमवार को भीषण विस्फोट के बाद आग लग गई. इस हादसे में 16 लोगों की मौत हो गई, जबकि 13 लोग घायल हुए हैं.
+दिल्ली सीएम रेखा गुप्ता ने नमो यमुना रिवर सफारी शुरू की। यह सेवा दिवाली पर जनता के लिए उपलब्ध है। क्रूज के टिकट और रूट की जानकारी जारी की गई है। दिल्ली सरकार ने दिवाली पर दिल्ली की जनता को बड़ा तोहफा दिया। मुख्यमंत्री रेखा गुप्ता ने यमुना रिवर सफारी सेवा का उद्घाटन किया। सीएम रेखा ने किया 'नमो यमुना रिवर सफारी' का शुभारंभ, जानें क्रूज का टिकट और रूट।
+
+### [टाइगर पर हुए हमले का असर: मुंबई पुलिस की अभिनेताओं को सलाह, भीड़-भाड़ वाली जगहों पर जानें से बचें](https://www.amarujala.com/entertainment/mumbai-police-advised-bollywood-actors-to-avoid-public-places-and-interactions-with-fans-amid-security-concern-2026-11-10)
+*Amar Ujala Breaking* - Nov 10, 12:32 IST (iso: 2026-11-10T07:02:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/taigara-sharafa-para-hae-hamal-ka-btha-mabii-palsa-ka-salha_a409178a0fdb67ae4fa3635e5c82969b.jpeg?w=1200&dpr=1.0 -->
+
+टाइगर श्रॉफ पर हुए हमले के बाद मुंबई पुलिस ने अभिनेताओं की सुरक्षा बढ़ाई है। पुलिस ने बॉलीवुड स्टार्स से अपील की है कि वे भीड़-भाड़ वाली जगहों पर जाने से बचें। यह सलाह सुरक्षा जोखिम कम करने के लिए दी गई है। बीते दिनों अभिनेता टाइगर श्रॉफ पर हुए हमले के बाद मुंबई पुलिस लगातार बॉलीवुड अभिनेताओं की सुरक्षा में जुटी हुई है।
+
+### [भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की](https://www.amarujala.com/world/saba-haider-tells-about-politics-family-ghaziabad-origin-and-on-us-midterm-election-2026-11-10)
+*Amar Ujala World* - Nov 10, 12:08 IST (iso: 2026-11-10T06:38:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/mata-pata-sa-mal-sasakara-na-kasa-bthal-sab-ka-jathaga_15982391cd60c99dee8dbcda693bfd1d.jpeg?w=1200&dpr=1.0 -->
+
+गजियाबाद की सबा हैदर ने अमेरिका की राजनीति में अपनी जगह बनाई। उन्होंने अपनी सफलता के पीछे की कहानी खुद साझा की। यह यात्रा एक साधारण शुरुआत से लेकर अंतरराष्ट्रीय मंच तक की है। गाजियाबाद से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की कहानी। भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर?
+
+### [किस 'टेरिबल एक्‍सपीरिएंस' की बात कर रही थीं पाकिस्‍तानी एकंर राबिया, पति मोहरा, कोई और है असली](https://hindi.news18.com/world/pakistan-pakistan-tv-female-news-anchor-rabia-ahsan-whatsapp-account-hacked-before-murder-husband-just-pawn-asim-munir-pakistan-army-photogallery-10975985.html)
+*News18 Hindi (World)* - Nov 10, 11:12 IST (iso: 2026-11-10T05:42:30+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/rabia7-2026-11-db0b78bb0d840d8db25493c0a011883a-1200x800.jpg -->
+
+पाकिस्तान में टीवी एंकर राबिया अहसान की हत्या के बाद स्वतंत्र मीडिया पर प्रतिबंधों की चर्चा है। स्रोतों के अनुसार आर्मी और सरकार स्वतंत्र पत्रकारिता को सहन नहीं करती। राबिया ने सच बताने की कोशिश की थी। पाकिस्‍तान आर्मी और वहां की सरकार स्‍वतंत्र मीडिया को देखना नहीं चाहती है. अगर कोई पत्रकार जनता तक सही खबर पहुंचाने की कोशिश करता है तो उन्‍हें गंभीर परिणाम भुगतना पड़ता है.
+
+### [चीनी जासूसी विवाद में घिरे Nvidia CEO, एक दिन में गंवाए 7.4 अरब डॉलर, तलाक हुआ तो पत्नी को मिल सकती](https://www.patrika.com/world-news/jensen-huang-nvidia-7-billion-loss-chinese-spy-scandal-wife-divorce-21038894)
+*Patrika (World)* - Nov 10, 10:25 IST (iso: 2026-11-10T04:55:35+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Jensen-Huang.webp -->
+
+एनवीडिया के सीईओ जेनसन हुआंग की संपत्ति में 9 नवंबर को 7.4 अरब डॉलर की गिरावट आई। यह गिरावट चीनी जासूसी के संदेह और निजी विवादों के बीच आई। फोर्ब्स ने यह आंकड़ा जारी किया। Jensen Huang Net Worth: दुनिया के बड़े अरबपतियों में शामिल Nvidia के CEO जेनसन हुआंग इन दिनों अपनी निजी जिंदगी को लेकर विवादों में हैं।
 
 ---
 
 ## यूरोप और रूस
 
-### [10% अमीरों में शामिल होना आसान नहीं: ब्रिटेन में चाहिए 17 करोड़ रुपये, अमेरिका में 70 साल की कमाई](https://www.amarujala.com/world/becoming-rich-is-getting-harder-1-3-million-need-to-join-uk-top-10-pc-us-workers-need-70-years-of-savings-2026-11-10)
-*Amar Ujala National* - Nov 10, 05:31 IST (iso: 2026-11-10T00:01:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/bratana-ma-17-karaugdha-rapaya-jatana-ma-52-sal-kaya-lgaga_852e5c5b09208e4eae827882d1d186a1.jpeg?w=1200&dpr=1.0 -->
+### [10 या 11 नवंबर कब मनाई जाएगी भाई दूज? यहां जानें तिलक लगाने का शुभ मुहूर्त और पूजा विधि](https://www.amarujala.com/photo-gallery/spirituality/festivals/bhai-dooj-2026-date-and-time-tilak-shubh-muhurat-puja-vidhi-bhai-dooj-kab-hai-2026-11-09)
+*Amar Ujala National* - Nov 10, 12:56 IST (iso: 2026-11-10T07:26:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/bhai-dooj-2026_45e1338f02a3236dab420c6efe260dfe.jpeg?w=1200&dpr=1.0 -->
 
-ब्रिटेन में शीर्ष दस प्रतिशत अमीरों में शामिल होने के लिए 17 करोड़ रुपये की संपत्ति आवश्यक है। अमेरीका में यह सीमा उतनी ऊंची नहीं है, वहां 70 साल की कमाई भी कम पड़ जाती है। 10% अमीरों में शामिल होना आसान नहीं: ब्रिटेन में चाहिए 17 करोड़ रुपये, अमेरिका में 70 साल की कमाई भी कम।
+भाई दूज 2026 में 10 या 11 नवंबर को मनाई जाएगी। यह कार्तिक मास की द्वितीया तिथि पर पड़ता है। तिलक लगाने का शुभ मुहूर्त तय हो गया है। भाई दूज हर साल कार्तिक मास के शुक्ल पक्ष की द्वितीया तिथि को मनाई जाती है। आइए जानते हैं साल 2026 में भाई दूज किस दिन मनाई जाएगी और तिलक करने के लिए कौन-सा समय शुभ रहेगा।
 
-### [कश्मीर घाटी में अलर्ट; अमेरिकी रक्षा मंत्री हेगसेथ को हटाने की पहल; तुर्किये में 16 लोगों की मौत](https://www.amarujala.com/india-news/top-news-headlines-important-and-big-news-of-10-november-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 04:33 IST (iso: 2026-11-09T23:03:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/12/aaj-ki-badi-khaber-bugdha-khabra_1b68c0416730de290c830e8b2773c8ea.jpeg?w=1200&dpr=1.0 -->
+### [किस अस्पताल में करवा सकते हैं आयुष्मान कार्ड से मुफ्त इलाज? घर बैठे ऐसे करें चेक](https://www.amarujala.com/photo-gallery/utility/ayushman-card-free-treatment-how-to-check-which-hospitals-offer-free-treatment-under-the-scheme-2026-11-10)
+*Amar Ujala National* - Nov 10, 12:43 IST (iso: 2026-11-10T07:13:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/aayashhamana-karada-sa-kana-asapatal-ma-mafata-ilja-karava-sakata-ha_088647a06d0517af63eaad7b376a8df1.jpeg?w=1200&dpr=1.0 -->
 
-कश्मीर घाटी में सुरक्षा अलर्ट जारी किया गया है। अमेरिका में रक्षा मंत्री हेगसेथ को हटाने की पहल चल रही है, जबकि तुर्किये में 16 लोगों की मौत हुई है। सुर्खियां: कश्मीर घाटी में अलर्ट; अमेरिकी रक्षा मंत्री हेगसेथ को हटाने की पहल; तुर्किये में 16 लोगों की मौत।
+आयुष्मान कार्ड धारकों को प्रतिवर्ष पांच लाख रुपये तक का स्वास्थ्य कवर मिलता है। कार्ड से पंजीकृत सरकारी और निजी अस्पतालों में मुफ्त इलाज कराया जा सकता है। लाभार्थी घर बैठे ही अपने शहर के पात्र अस्पतालों की जांच कर सकते हैं। आयुष्मान कार्ड के पात्र लाभार्थियों को हर साल 5 लाख रुपये तक के स्वास्थ्य कवर की सुविधा मिलती है कार्डधारक अपने शहर के पंजीकृत सरकारी और निजी अस्पताल में आयुष्मान कार्ड से मुफ्त इलाज करवा सकता है।
 
-### [आज से दिल्लीवासी कर सकेंगे यमुना में क्रूज का रोमांचक सफर, सीएम रेखा गुप्ता करेंगी सेवा का शुभारंभ](https://www.amarujala.com/delhi-ncr/cm-rekha-gupta-will-inaugurate-the-yamuna-river-cruise-service-in-sonia-vihar-today-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 03:09 IST (iso: 2026-11-09T21:39:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/26/yamana-natha-para-kanprja-sava-ka-tarayal_6a657979b5499576bc50ef0142cfa4ab.jpeg?w=1200&dpr=1.0 -->
+### ['यूरोपीय देशों पर हमला का हमारा कोई इरादा नहीं', उप-विदेश मंत्री बोले- हमला हुआ तो जवाब देंगे](https://www.amarujala.com/world/russia-has-no-intention-or-plans-to-attack-european-countries-says-deputy-fm-2026-11-10)
+*Amar Ujala World* - Nov 10, 10:02 IST (iso: 2026-11-10T04:32:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/russia_bbeaef46808bdb64d924d3d7cb83be71.jpeg?w=1200&dpr=1.0 -->
 
-दिल्ली सरकार मंगलवार से यमुना में नमो यमुना क्रूज सेवा शुरू कर रही है। मुख्यमंत्री रेखा गुप्ता इस सेवा का शुभारंभ करेंगी। यह पर्यटन को बढ़ावा देने और मनोरंजन का नया विकल्प देने के लिए है। यमुना में पर्यटन को बढ़ावा देने और दिल्लीवासियों को मनोरंजन का नया विकल्प उपलब्ध कराने के लिए दिल्ली सरकार मंगलवार से ‘नमो यमुना क्रूज’ सेवा शुरू करने जा रही है।
+रूस के उप-विदेश मंत्री ने कहा कि यूरोपीय देशों पर हमले का इरादा नहीं है। उन्होंने स्पष्ट किया कि यदि हमला हुआ तो जवाब दिया जाएगा। यह बयान युद्ध के दौरान जारी है। रूस: 'यूरोपीय देशों पर हमला का हमारा कोई इरादा नहीं', उप-विदेश मंत्री बोले- हमला हुआ तो जवाब देंगे।
+
+### ['भारत ने रूस से दोस्ती निभाने के लिए पकड़ा', तिहाड़ में बंद रहे अमेरिकी मैथ्यू का पैंतरा- अभी बहुत](https://hindi.news18.com/world/america-us-citizen-matthew-vandyke-calims-his-arrest-in-india-tihar-jail-was-to-help-russia-in-ukraine-war-ws-l-10975841.html)
+*News18 Hindi (World)* - Nov 10, 09:48 IST (iso: 2026-11-10T04:18:44+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/mathew-vandyke-n-2026-11-9c93a1f57f50c961a6c3bb7ae888d6e4-1200x800.jpg -->
+
+अमेरिकी नागरिक मैथ्यू वैनडाइक ने अपनी गिरफ्तारी को भारत-रूस संबंधों से जोड़ा। वह तिहाड़ जेल में छह महीने से बंद है। उसने आरोप लगाया कि उसे दोस्ती निभाने के लिए पकड़ा गया। Matthew Vandyke Claims over Arrest: भारतीय इंवेस्टिगेटिव एजेंसी के हत्थे चढ़ने के बाद अमेरिकी नागरिक मैथ्यू वैनडाइक ने उल्टे-सीधे आरोप लगाने शुरू कर दिए हैं. करीब 6 महीने तिहाड़ में रहने के बाद उसने अपनी गिरफ्तारी को सीधा भारत-रूस की दोस्ती और यूक्रेन युद्ध के साथ जोड़ दिया है.
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [पीट हेगसेथ के सिर पर फूटा ईरान युद्ध का ठींकरा, अपनों ने किया डंप, अकेले क्या कर लेंगे ट्रंप?](https://hindi.news18.com/world/america-pete-hegseth-impeachment-over-iran-war-republican-turns-against-trump-backs-ws-l-10976052.html)
+*News18 Hindi (World)* - Nov 10, 12:08 IST (iso: 2026-11-10T06:38:05+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/Pete-Hegseth-Reuters-2026-05-9a2ac47e4db5d9415a312cf055350829-1200x800.jpg -->
+
+अमेरिकी रक्षा मंत्री पीट हेगसेथ पर ईरान युद्ध को लेकर इस्तीफे की मांग उठी है। उनकी पार्टी के ही सांसद अब उनके खिलाफ आवाज उठा रहे हैं। Pete Hegseth Impeachment Over Iran War: अमेरिकी राजनीति में इस वक्त सबसे ज्यादा चर्चा में जो नाम है- वो पीट हेगसेथ है. थोड़े दिनों पहले तक उनका चेहरा अंतरराष्ट्रीय मीडिया में सबसे ज्यादा चमक रहा था, लेकिन इस वक्त वही अपनी पार्टी के सांसदों के भी निशाने पर हैं.
+
+### [मदीना तक पहुंची हूतियों की मिसाइल, सऊदी की पाइपलाइन टार्गेट पर, कितना नुकसान?](https://hindi.news18.com/world/middle-east-houthi-attack-on-saudi-east-west-oil-pipeline-hit-in-medina-according-to-state-media-10975993.html)
+*News18 Hindi (World)* - Nov 10, 10:38 IST (iso: 2026-11-10T05:08:10+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-3-2026-10-5b0eaa687106e5f3ae5f71b04eb1ddc1-1200x800.jpg -->
+
+यमन के हूती समूह ने सऊदी अरब की मदीना तेल पाइपलाइन पर मिसाइल हमला किया। यह घटना दोनों देशों के बीच तनाव को और बढ़ाती है। पाइपलाइन पर हुए नुकसान का आकलन जारी है। Saudi Madina Oil Pipeline Hit: हूतियों की ताकत का अंदाजा शायद सऊदी अरब को भी नहीं रहा होगा, जब उसने यमन की सरकार के साथ मिलकर उनके अड्डों पर हमले किए थे.
 
 ---
 
