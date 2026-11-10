@@ -1,22 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 10, 2026 21:23 IST
+**Updated:** November 11, 2026 03:01 IST
 
 ---
 
 ## Europe & Russia
+
+### [Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK](https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts)
+*The Guardian* - Nov 11, 00:31 IST (iso: 2026-11-10T19:01:33+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6961005e80797627b18bb63557b07eba -->
+
+Argentina told the Hamburg tribunal that Britain’s approval of the Sea Lion oil project deepened the Falklands sovereignty dispute. The legal clash marks a historic confrontation over drilling rights in the North Falkland basin. The dispute traces back to the war four decades ago. Sea Lion project in the North Falkland basin threatens to deepen sovereignty disputeArgentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war four decades ago. At the start of an historic legal clash at the Hamburg-based International Tribunal for the Law of the Sea (Itlos), an Argent.
 
 ### [Moscow Police Detain Hundreds Of Youths, Pressure Those Of Military Age Into Service](https://www.rferl.org/a/moscow-police-detain-hundreds-of-youths/33894696.html)
 *Radio Free Europe / Liberty* - Nov 10, 20:44 IST (iso: 2026-11-10T15:14:09+00:00)
 <!-- image: https://gdb.rferl.org/36bcad79-18f0-4813-ec84-08df13afe2a0_w1200_h630.jpg -->
 
 Moscow police detained hundreds of youths, including children, during a raid on an alternative gathering. Detainees reported beatings and denial of basic needs. Adults received draft notices or faced pressure to sign army contracts. Police labeled the action a preventive operation. Hundreds, including children, were detained in a raid on an alternative youth gathering in central Moscow. Detainees reported beatings and being denied water and toilets.
-
-### [UK and Argentina clash over Falklands oil project as Hamburg tribunal starts](https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts)
-*The Guardian* - Nov 10, 20:19 IST (iso: 2026-11-10T14:49:32+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6961005e80797627b18bb63557b07eba -->
-
-Argentina told the Hamburg tribunal that Britain’s approval of the Sea Lion oil project deepened the Falklands sovereignty dispute. The legal clash marks a historic confrontation over drilling rights in the North Falkland basin. The dispute traces back to the war four decades ago. Sea Lion project in the North Falkland basin threatens to deepen sovereignty disputeArgentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war four decades ago. At the start of an historic legal clash at the Hamburg-based International Tribunal for the Law of the Sea (Itlos), an Argent.
 
 ### [Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role](https://www.rferl.org/a/russia-ukraine-abu-dhabi-war-peace-talks/33894644.html)
 *Radio Free Europe / Liberty* - Nov 10, 20:05 IST (iso: 2026-11-10T14:35:45+00:00)
@@ -46,6 +46,12 @@ Ukrainian crews worked to restore electricity to hundreds of thousands in the ea
 
 ## Americas
 
+### [EU climate chief Wopke Hoekstra warns 'expectations low' from COP31 summit](https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece)
+*The Hindu (International)* - Nov 10, 21:24 IST (iso: 2026-11-10T15:54:18+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/uqt72k/article71687077.ece/alternates/LANDSCAPE_1200/2025-07-02T100025Z_2115836927_RC29EFA4PMIO_RTRMADP_3_CLIMATE-CHANGE-EU-2040.JPG -->
+
+EU climate chief Wopke Hoekstra stated expectations for COP31 are low. He believes focusing solely on electrification offers a chance for meaningful results. The summit faces skepticism over its potential to deliver concrete climate commitments. "If indeed we manage to make electrification the sole focus, or close to the sole focus of the COP, I think we have a chance to deliver on something that is truly meaningful," Wopke Hoekstra said.
+
 ### [Pete Hegseth to hold first Pentagon briefing since May amid impeachment threat](https://www.thehindu.com/news/international/pete-hegseth-to-hold-first-pentagon-briefing-since-may-amid-impeachment-threat/article71685209.ece)
 *The Hindu (International)* - Nov 10, 19:18 IST (iso: 2026-11-10T13:48:58+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/r9djh2/article71685232.ece/alternates/LANDSCAPE_1200/Hegseth_Impeachment_1_874.jpg -->
@@ -54,7 +60,7 @@ Pete Hegseth will hold his first Pentagon briefing since May. The announcement c
 
 ### [Can climate promises finally deliver results?](https://news.un.org/feed/view/en/story/2026/11/1168763)
 *UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/9-11-26_COP31-opening-Stiell_UNFCCC.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/9-11-26_COP31-opening-Stiell_UNFCCC.jpg/image560x340cropped.jpg -->
 
 Nearly 200 countries gathered in Türkiye for a climate summit focused on concrete decisions rather than grand declarations. Negotiators face tough questions on finance and clean energy. A powerful El Niño event threatens to worsen extreme weather conditions for vulnerable communities. Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions.
 
@@ -72,6 +78,28 @@ Pope Leo XIV arrives in Argentina on 9 November for a visit that will test his r
 
 ---
 
+## Asia-Pacific
+
+### [Social Insurance Could Help China Rebalance, If Beijing Enforces It](https://thediplomat.com/2026/11/social-insurance-could-help-china-rebalance-if-beijing-enforces-it/)
+*The Diplomat* - Nov 10, 18:51 IST (iso: 2026-11-10T13:21:00+00:00)
+<!-- image: https://thediplomat.com/wp-content/uploads/2025/06/sizes/td-story-s-2/thediplomat_2025-06-06-134719.jpg -->
+
+China introduced new penalty standards for unpaid social insurance contributions. Enforcing these rules would protect retiring workers. It would also boost domestic consumption. This shift could reduce the country's heavy reliance on exports for economic growth. China’s new penalty standards for unpaid social insurance contributions are a positive step. Enforcing the law would not only protect workers in retirement but also help boost domestic consumption and reduce China’s dependence on exports.
+
+### [Don’t let Taiwan’s silicon shield become a US silicon trap](https://asiatimes.com/2026/11/dont-let-taiwans-silicon-shield-become-a-us-silicon-trap/)
+*Asia Times* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:58+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/TSMC-Taiwan-China-.jpg -->
+
+TSMC is investing heavily in US semiconductor fabrication. This brings encouraging news for the struggling US economy. However, reliance on a single foreign supplier creates strategic risks for American supply chains. As the midterms loudly demonstrated, there is considerable gloom over the US economy. Cause for economic optimism is in short supply, though there is some encouraging news regarding US-based semiconductor fabrication spurred by enormous investments from the huge Taiwan company TSMC.
+
+### [China fast-tracks mobile ICBM to lock down second-strike edge](https://asiatimes.com/2026/11/china-fast-tracks-mobile-icbm-to-lock-down-second-strike-edge/)
+*Asia Times* - Nov 10, 11:38 IST (iso: 2026-11-10T06:08:04+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile.jpeg -->
+
+China has rapidly deployed a new road-mobile intercontinental ballistic missile to strengthen its second-strike capability. The system addresses technical flaws in earlier models and improves survivability. This move accelerates the modernization of its land-based nuclear deterrent against potential adversaries. China’s rapid operational integration of a new type of intercontinental ballistic missile (ICBM) underscores an accelerating push to modernize its land-based deterrent, addressing key technical vulnerabilities of earlier systems while fortifying second-strike survivability amid an unprecedented nuclear expansion.
+
+---
+
 ## Middle East & Africa
 
 ### [How much will Jensen Huang’s scandal ultimately cost?](https://asiatimes.com/2026/11/how-much-will-jensen-huangs-scandal-ultimately-cost/)
@@ -82,15 +110,27 @@ Nvidia CEO Jensen Huang admitted to an extramarital affair with Alice Huang. She
 
 ### [South Sudan’s first elections loom amid rising violence](https://news.un.org/feed/view/en/story/2026/11/1168774)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/02-11-2026_UNMISS_South_Sudan_Peace.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UNP_Sudan-01.jpg/image770x420cropped.jpg -->
 
 South Sudan faces its first national elections in six weeks as violence escalates. The Security Council meets in New York to demand credible polls. Civilians continue to suffer from fighting, hunger, and displacement. With South Sudan just six weeks away from its first national elections since independence, the Security Council meets in New York Tuesday amid deepening political uncertainty and worsening violence.
 
-### [First suicide bombers, now long-range drone strikes are the norm](https://news.un.org/feed/view/en/story/2026/11/1168771)
+### [First ‘suicide’ drone attacks, now long-range strikes are the norm](https://news.un.org/feed/view/en/story/2026/11/1168771)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image770x420cropped.jpg -->
 
 UNICEF warns that drones and drought are closing in on Sudan. Attackers now use long-range drones traveling up to 1,500 kilometers. These strikes target critical infrastructure across the country. Drones and drought are “closing in” on Sudan, the UN Children’s Fund (UNICEF, said on Tuesday, describing unprecedented attacks on the country’s infrastructure including by drones travelling up to 1,500 kilometres before hitting their target.
+
+### [Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening](https://news.un.org/feed/view/en/story/2026/11/1168779)
+*UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UNHCR_Niger.jpg/image770x420cropped.jpg -->
+
+UNHCR reported 64,000 people fled northern Nigeria for Niger this year. Several hundred also left for Benin. Violence in the region is deepening a humanitarian crisis. Host countries are struggling to cope with the sudden influx of displaced residents. Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since the start of the year, as host countries struggle to cope, the UN’s refugee agency (UNHCR) said on Tuesday.
+
+### [Fact-checking site’s entire newsroom jailed as assault on press freedom widens](https://news.un.org/feed/view/en/story/2026/11/1168778)
+*UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UN-News_Egypt.jpg/image770x420cropped.jpg -->
+
+Six journalists from the Egyptian fact-checking site Matsadash remain in detention. The UN human rights office confirmed their continued imprisonment. This incident highlights a widening assault on press freedom. The government faces criticism for targeting independent media operations. Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of proliferating assaults on press freedom by the Government.
 
 ### [Climate crisis could push 141 million more women into extreme poverty](https://news.un.org/feed/view/en/story/2026/11/1168770)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
@@ -127,46 +167,6 @@ Russian forces struck Ukrainian energy infrastructure, threatening millions with
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/OPay-IPO.png -->
 
 OPay's $304 million New York Stock Exchange listing was halted hours after its opening bell. The Nigeria-focused payments firm priced shares at $19, valuing the company at $4 billion. Trading stopped at 3:30 p. m. with zero shares exchanged, likely due to Chinese regulatory concerns. OPay’s executives rang the bell at the New York Stock Exchange on October 30. A few hours later, their US$304 million flotation was off.
-
-### [‘For the first time I have my own chair’: Gaza siblings find new freedom](https://news.un.org/feed/view/en/story/2026/11/1168759)
-*UN News* - Nov 07, 17:30 IST (iso: 2026-11-07T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/06-11-2026-EducAid-Gaza-03.jpg/image560x340cropped.jpg -->
-
-Ten-year-old Anas, born without legs and with limited hand function, received his first wheelchair in Gaza. He is one of three siblings who previously struggled to move or eat independently. The chair allows them to perform daily tasks with new freedom. In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands.
-
----
-
-## Asia-Pacific
-
-### [Don’t let Taiwan’s silicon shield become a US silicon trap](https://asiatimes.com/2026/11/dont-let-taiwans-silicon-shield-become-a-us-silicon-trap/)
-*Asia Times* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:58+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/TSMC-Taiwan-China-.jpg -->
-
-TSMC is investing heavily in US semiconductor fabrication. This brings encouraging news for the struggling US economy. However, reliance on a single foreign supplier creates strategic risks for American supply chains. As the midterms loudly demonstrated, there is considerable gloom over the US economy. Cause for economic optimism is in short supply, though there is some encouraging news regarding US-based semiconductor fabrication spurred by enormous investments from the huge Taiwan company TSMC.
-
-### [China fast-tracks mobile ICBM to lock down second-strike edge](https://asiatimes.com/2026/11/china-fast-tracks-mobile-icbm-to-lock-down-second-strike-edge/)
-*Asia Times* - Nov 10, 11:38 IST (iso: 2026-11-10T06:08:04+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile.jpeg -->
-
-China has rapidly deployed a new road-mobile intercontinental ballistic missile to strengthen its second-strike capability. The system addresses technical flaws in earlier models and improves survivability. This move accelerates the modernization of its land-based nuclear deterrent against potential adversaries. China’s rapid operational integration of a new type of intercontinental ballistic missile (ICBM) underscores an accelerating push to modernize its land-based deterrent, addressing key technical vulnerabilities of earlier systems while fortifying second-strike survivability amid an unprecedented nuclear expansion.
-
-### [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)
-*The Guardian* - Nov 08, 08:30 IST (iso: 2026-11-08T03:00:28+00:00)
-<!-- image: https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa1a8b3cf4e2a78849c21902c5dbd10 -->
-
-Activists warn that Thailand is preparing to deport more Uyghurs to China despite documented torture and abuse. One man said he would be like a slave if returned. Thai authorities forcibly deported 40 Uyghurs last year under pressure from Beijing. Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. Last year, Thai authorities forcibly deported 40 Uyghu.
-
-### [New Zealand faces weeks of uncertainty with results ‘too close to call’](https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count)
-*The Guardian* - Nov 08, 06:30 IST (iso: 2026-11-08T01:00:48+00:00)
-<!-- image: https://i.guim.co.uk/img/media/7fcb32a817f834d2911af2cc72d2a3a7d313ee0e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac724ffaf852cbf9c87d076af783b593 -->
-
-New Zealand's National Party leads parliament, but no coalition has secured a majority. The country faces weeks of negotiations to form a government. Neither the right-wing bloc nor the left-wing opposition won a decisive mandate. National party will be largest in parliament but ultimate shape of next government won’t be settled for some timeNew Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by th.
-
-### [New Zealand election coalition talks will likely take weeks – as it happened](https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls)
-*The Guardian* - Nov 07, 18:42 IST (iso: 2026-11-07T13:12:22+00:00)
-<!-- image: https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=64aa6b92b52722e1b1ad5dbcf3508c76 -->
-
-New Zealand's 2026 election is heading toward a hung parliament. National and Labour are neck and neck with eight percent of the vote counted. Minor parties hold the balance of power. No single party is expected to secure a majority. Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent historyNew Zealand heads for election cliffhanger with minor party cast as kingmakerIn New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted.
 
 ---
 

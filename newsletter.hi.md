@@ -1,176 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 10, 2026 21:23 IST
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [पीट हेगसेथ के वो 5 गुनाह, जिसकी वजह से पीछे पड़ा इंपीचमेंट का भूत, ट्रंप बचा पाएंगे या नहीं?](https://hindi.news18.com/world/america-pete-hegseth-impeachment-why-us-defense-secretary-faces-5-major-charges-can-donald-trump-save-him-10977799.html)
-*News18 Hindi (World)* - Nov 10, 21:12 IST (iso: 2026-11-10T15:42:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/Pete-Hegseth-Reuters-2-2026-06-63b537d128355cb246f7ee2c9a3aeab6-1200x800.jpg -->
-
-अमेरिकी रक्षा मंत्री पीट हेगसेथ पर ईरान युद्ध और सेना नियमों का उल्लंघन जैसे पांच आरोप लगते हुए संसद में महाभियोग का प्रस्ताव पेश हुआ। ट्रंप ने उनका समर्थन किया, लेकिन राजनीतिक घमासान जारी है। अमेरिकी रक्षा मंत्री पीट हेगसेथ पर मुसीबतों का पहाड़ टूट पड़ा है. ईरान के साथ जंग, सेना के नियमों को ताक पर रखने और बड़े अधिकारियों के प्रमोशन रोकने जैसे पांच गंभीर आरोपों के चलते संसद में उनके खिलाफ महाभियोग का प्रस्ताव आ गया है.
-
-### [एयरबेस छोड़कर रातों-रात भागे अमेरिकी फाइटर जेट, ईरान से ऐसी क्या खबर आई? रातों-रात निकल गई ट्रंप की](https://hindi.news18.com/world/america-us-evacuates-fighter-jets-from-uk-air-base-iran-secret-intel-after-donald-trump-war-over-claim-10977683.html)
-*News18 Hindi (World)* - Nov 10, 19:57 IST (iso: 2026-11-10T14:27:16+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-Evacuates-Fighter-Jets-from-UK-Air-Base-Iran-secret-intel-2026-11-2b24949228a7eee4dac16b778c7dfebb-1200x800.jpg -->
-
-ईरान से मिली खुफिया रिपोर्ट के बाद अमेरिका ने ब्रिटेन के आरएएफ मिल्डेनहॉल एयरबेस से अपने सभी फाइटर जेट और हथियार तुरंत हटा लिए। ट्रंप ने युद्ध समाप्त होने का दावा किया, लेकिन सैन्य तैनाती में बदलाव हुआ। ईरान से एक खतरनाक खुफिया रिपोर्ट मिलने के बाद अमेरिका की रातों-रात हवा टाइट हो गई है. डर के मारे अमेरिका ने ब्रिटेन के आरएएफ मिल्डेनहॉल एयरबेस से अपने सभी फाइटर जेट्स और सैन्य हथियारों को तुरंत सुरक्षित जगह पर शिफ्ट कर दिया है.
-
-### [जो देश पाकिस्तान को बेचता है हथियार, वो भारत के ब्रह्मोस पर हुआ फिदा, कुछ दिनों में फैलाएगा हाथ?](https://hindi.news18.com/world/south-asia-turkey-is-eyeing-india-brahmos-ng-supersonic-missile-why-pakistan-arms-supplier-interest-in-bharat-russia-weapon-power-10977569.html)
-*News18 Hindi (World)* - Nov 10, 19:09 IST (iso: 2026-11-10T13:39:37+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Turkey-is-Eyeing-India-BrahMos-NG-Supersonic-Missile-2026-11-7ee56d91acd83c141ff0ffbc0391e6e2-1200x800.jpg -->
-
-तुर्की के डिफेंस मीडिया ने भारत की ब्रह्मोस-एनजी मिसाइल की तकनीकी क्षमताओं पर विस्तृत चर्चा की। पाकिस्तान को हथियार बेचने वाले इस नाटो सदस्य देश में भारतीय रक्षा तकनीक की मांग बढ़ने के संकेत मिल रहे हैं। तुर्की एक तरफ पाकिस्तान को अपने हथियार बेचता है और दूसरी तरफ नाटो का मेंबर भी है. इसके बावजूद, तुर्की का डिफेंस मीडिया भारत की सुपरसोनिक क्रूज मिसाइल 'ब्रह्मोस-एनजी' की ताकत पर लगातार नजर बनाए हुए है.
-
-### [सऊदी अरब ने यमन में की एयरस्ट्राइक्स, गैस स्टेशन और तेल कंपनी की बिल्डिंग को बनाया निशाना](https://www.patrika.com/world-news/saudi-arabia-airstrikes-hit-gas-facility-and-oil-company-building-in-yemen-21039525)
-*Patrika (World)* - Nov 10, 15:12 IST (iso: 2026-11-10T09:42:55+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/saudi-arabia-attacks-sanaa.webp -->
-
-सऊदी अरब ने यमन की राजधानी सना में हूती नियंत्रित क्षेत्रों पर एयरस्ट्राइक की। हमले में गैस स्टेशन और तेल कंपनी की इमारतें निशाना बनीं। दोनों पक्षों के बीच हमलों का सिलसिला जारी है। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इसके साथ ही हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला थम नहीं रहा है।
-
-### [ईरान ने कर दी डिमांड – ‘युद्ध खत्म करने के लिए अमेरिका करें हमारी 7 शर्तों के सामने सरेंडर’](https://www.patrika.com/world-news/iran-demands-us-surrender-to-its-7-conditions-to-end-war-21039434)
-*Patrika (World)* - Nov 10, 14:49 IST (iso: 2026-11-10T09:19:04+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/rezaei.webp -->
-
-ईरान के सैन्य सलाहकार मोहसेन रेज़ाई ने अमेरिका से युद्ध समाप्त करने की सात शर्तों पर सहमति मांगी। दोनों देशों के बीच तनाव जारी है। शर्तों की विस्तृत जानकारी स्रोत में उपलब्ध नहीं है। युद्ध अभी भी खत्म नहीं हुआ है, क्योंकि दोनों पक्षों के बीच एक-दूसरे की शर्तों पर सहमति नहीं बन पा रही है। इसी बीच अब ईरान के वरिष्ठ सैन्य सलाहकार और ईरानी सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव मोहसेन रेज़ाई (Mohsen Rezaei) ने युद्ध खत्म करने के मामले में बड़ी डिमांड कर दी है।
-
-### [ईरान का बड़ा दावा, कहा- होर्मुज में अमेरिकी मदद वाला नेविगेशन सिस्टम नष्ट, तेल तस्करी पर लगी रोक](https://www.patrika.com/world-news/iran-claims-destruction-of-navigation-systems-in-strait-of-hormuz-21039277)
-*Patrika (World)* - Nov 10, 13:49 IST (iso: 2026-11-10T08:19:28+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/hormuz.webp -->
-
-ईरान ने दावा किया कि उसने ओमान के डिडामार द्वीप पर अमेरिकी नेविगेशन सिस्टम नष्ट किए। इसके बाद होर्मुज से तेल की आवाजाही पूरी तरह रुक गई। स्ट्रेट ऑफ होर्मुज में तनाव के बीच ईरान ने दावा किया है कि उसने अमेरिकी जहाजों की मदद के रहे नेविगेशन सिस्टम को नष्ट कर दिया गया है। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) के एक नौसैनिक अधिकारी ने सरकारी टीवी चैनल IRIB को बताया कि ओमान के डिडामार द्वीप पर इन सिस्टम को नष्ट किए जाने के बाद, कल रात उस रास्ते से कोई जहाज नहीं गुजरा और इस इलाके से तेल की आवाजाही पूरी तरह से रुक गई है।
-
-### [पीट हेगसेथ के सिर पर फूटा ईरान युद्ध का ठींकरा, अपनों ने किया डंप, अकेले क्या कर लेंगे ट्रंप?](https://hindi.news18.com/world/america-pete-hegseth-impeachment-over-iran-war-republican-turns-against-trump-backs-ws-l-10976052.html)
-*News18 Hindi (World)* - Nov 10, 12:08 IST (iso: 2026-11-10T06:38:05+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/Pete-Hegseth-Reuters-2026-05-9a2ac47e4db5d9415a312cf055350829-1200x800.jpg -->
-
-अमेरिकी रक्षा मंत्री पीट हेगसेथ पर ईरान युद्ध को लेकर इस्तीफे की मांग उठी है। उनकी पार्टी के ही सांसद अब उनके खिलाफ आवाज उठा रहे हैं। Pete Hegseth Impeachment Over Iran War: अमेरिकी राजनीति में इस वक्त सबसे ज्यादा चर्चा में जो नाम है- वो पीट हेगसेथ है. थोड़े दिनों पहले तक उनका चेहरा अंतरराष्ट्रीय मीडिया में सबसे ज्यादा चमक रहा था, लेकिन इस वक्त वही अपनी पार्टी के सांसदों के भी निशाने पर हैं.
-
-### [मदीना तक पहुंची हूतियों की मिसाइल, सऊदी की पाइपलाइन टार्गेट पर, कितना नुकसान?](https://hindi.news18.com/world/middle-east-houthi-attack-on-saudi-east-west-oil-pipeline-hit-in-medina-according-to-state-media-10975993.html)
-*News18 Hindi (World)* - Nov 10, 10:38 IST (iso: 2026-11-10T05:08:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-3-2026-10-5b0eaa687106e5f3ae5f71b04eb1ddc1-1200x800.jpg -->
-
-यमन के हूती समूह ने सऊदी अरब की मदीना तेल पाइपलाइन पर मिसाइल हमला किया। यह घटना दोनों देशों के बीच तनाव को और बढ़ाती है। पाइपलाइन पर हुए नुकसान का आकलन जारी है। Saudi Madina Oil Pipeline Hit: हूतियों की ताकत का अंदाजा शायद सऊदी अरब को भी नहीं रहा होगा, जब उसने यमन की सरकार के साथ मिलकर उनके अड्डों पर हमले किए थे.
-
----
-
-## एशिया-प्रशांत
-
-### [अमरीका में चुनावी नतीजों से चीन के साथ बदल सकते हैं व्यापारिक रिश्ते, क्या किसानों को होगा फायदा?](https://www.patrika.com/world-news/us-midterm-election-impact-china-agriculture-trade-soybean-exports-21040081)
-*Patrika (World)* - Nov 10, 19:59 IST (iso: 2026-11-10T14:29:00+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/us-china.webp -->
-
-अमेरिकी मध्यावधि चुनावों के बाद ट्रंप की संभावित हार पर चीन अमेरिकी कृषि उत्पादों पर टैरिफ कम कर सकता है। इससे दोनों देशों के बीच व्यापारिक तनाव में कमी आने की उम्मीद जताई गई है। China-US Trade: अमेरिका के मध्यावधि चुनावों के परिणाम से अब अमेरिका के दूसरे देशों के साथ संबंध में बदलाव आने की संभावना जताई जा रही है।
-
-### [NVIDIA CEO को बड़ी महंगी पड़ सकती है बेवफाई! बीवी ने ठान लिया तो टूट जाएंगे एलिमनी के सब रिकॉर्ड](https://hindi.news18.com/world/america-nvidia-ceo-jensen-huang-wife-lori-divorce-alimony-to-reach-75-billion-dollar-after-affair-scandal-alice-huang-10977434.html)
-*News18 Hindi (World)* - Nov 10, 17:54 IST (iso: 2026-11-10T12:24:26+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/NVIDIA-CEO-Divorce-Alimoney-2026-11-dd0f3dfbf6f358644fca3f2d153a31e2-1200x800.jpg -->
-
-जेन्सेन हुआंग की पत्नी लोरी ने तलाक का फैसला किया तो कैलिफोर्निया कानून के तहत एनवीडिया के भारी शेयर मांग सकती हैं। यह कदम बिल गेट्स और जेफ बेजोस को पीछे छोड़ देगा। एनवीडिया के सीईओ जेन्सेन हुआंग का अफेयर सामने आने के बाद, उनकी गर्लडफ्रेंड एलिस हुआंग के चीनी जासूस होने का शक है. इस खुलासे के बाद उनकी पत्नी लोरी हुआंग चर्चा में आ गई हैं.
-
-### [पाकिस्तान में हाफिज सईद की पार्टी को झटका, उपचुनाव में PML-N ने हराया, मिले 30000 वोट](https://hindi.news18.com/world/pakistan-hafiz-saeed-party-lost-by-election-pml-n-wins-in-punjab-pakistan-ws-l-10977324.html)
-*News18 Hindi (World)* - Nov 10, 17:31 IST (iso: 2026-11-10T12:01:44+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/jammu-court-nbw-hafiz-saeed-pahalgam-terror-attack-trial-in-absentia-2026-07-4337f9768e65e6ba926582aef03fcaa7-1200x800.jpg -->
-
-गुजरांवाला उपचुनाव में हाफिज सईद की पार्टी को करारी हार का सामना करना पड़ा। पीएमएल-एन ने 30,000 वोटों के अंतर से जीत दर्ज की। Pakistan By Election Hafiz Saeed Party Looses: जिस हाफिज सईद को मोस्ट वांटेड अपराधियों में शुमार किया गया है, उसे पाकिस्तान ने न सिर्फ पनाह दी है बल्कि उससे जुड़ी हुई राजनीतिक पार्टी भी है. हालांकि गुजरांवाला के उपचुनाव में आतंकी हाफिज सईद की पार्टी को करारी हार का सामना करना पड़ा है.
-
-### [कौन हैं नैटली बेकर, जिन्हें डोनाल्ड ट्रंप ने पाकिस्तान में अगला राजदूत नामित किया](https://hindi.news18.com/world/pakistan-natalie-baker-becomes-next-us-ambassador-to-pakistan-ws-l-10977373.html)
-*News18 Hindi (World)* - Nov 10, 17:19 IST (iso: 2026-11-10T11:49:51+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Natalie-A.-Baker-1-2026-11-8a75c7b1bd4a8d85475485ac1ae0794d-1200x800.jpg -->
-
-डोनाल्ड ट्रंप ने नैटली बेकर को पाकिस्तान में अमेरिकी राजदूत नामित किया। उन्हें सीनेट की मंजूरी चाहिए। बेकर पहले से ही मिशन प्रमुख के तौर पर वहां तैनात हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने नैटली बेकर को पाकिस्तान में अगला अमेरिकी राजदूत नामित किया है. हालांकि, इस पद को संभालने के लिए उन्हें अभी अमेरिकी सीनेट की मंजूरी लेनी होगी.
-
-### [‘अगर शेख हसीना वापस लौटी तो सज़ा-ए-मौत के अलावा नहीं कोई और ऑप्शन’, बांग्लादेश के अभियोजक का दावा](https://www.patrika.com/world-news/sheikh-hasina-has-no-option-but-death-sentence-if-she-returns-bangladesh-prosecutor-claims-21039801)
-*Patrika (World)* - Nov 10, 17:12 IST (iso: 2026-11-10T11:42:02+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/sheikh-hasina_.webp -->
-
-बांग्लादेश के अभियोजक का दावा है कि शेख हसीना की वापसी पर मौत की सज़ा ही विकल्प है। वह 5 अगस्त 2024 से भारत में शरण में हैं। बांग्लादेश (Bangladesh) में 2024 में बड़ा राजनीतिक उलटफेर हो गया था, जब तत्कालीन प्रधानमंत्री शेख हसीना (Sheikh Hasina) को पीएम पद और देश छोड़कर भागना पड़ा था। बांग्लादेश में राजनीतिक अस्थिरता के चलते 5 अगस्त 2024 को शेख हसीना को अपनी बहन शेख रेहाना (Sheikh Rehana) के साथ बांग्लादेश छोड़ना पड़ा और वह भारत (India) आ गई थीं।
-
-### [समय से पहले हड्डियां कंपा देगी ठंड, 24 घंटों में इन इलाकों का होगा बुरा हाल, मौसम विभाग भी हैरान](https://hindi.news18.com/world/rest-of-world-heavy-snow-warning-japan-hit-by-brutal-midwinter-blizzard-sapporo-temperatures-plunge-to-minus-3-degrees-mausam-in-24-hours-10977152.html)
-*News18 Hindi (World)* - Nov 10, 16:10 IST (iso: 2026-11-10T10:40:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Japan-Winter-2026-11-9d6677edca73c5facd274a0d505e17c7-1200x800.jpg -->
-
-जापान के होक्काइडो में अचानक आई ठंड ने सप्पोरो और बिफुका में रेड अलर्ट जारी कर दिया। तापमान माइनस पांच डिग्री तक गिर गया। शून्य दृश्यता के कारण ट्रेनें और उड़ानें प्रभावित हुईं। जापान के होक्काइडो में ठंड ने कहर ढा दिया है. यहां समय से पहले ही भारी बर्फबारी शुरू हो गई है. सप्पोरो और बिफुका जैसे इलाकों में अगले 24 घंटों के लिए रेड अलर्ट जारी कर दिया गया है.
-
-### [लैंडिंग के दौरान प्लेन की हुई कार से टक्कर, ऑस्ट्रेलिया में दो लोग घायल](https://www.patrika.com/world-news/plane-crashes-into-car-2-people-injured-in-australia-21039568)
-*Patrika (World)* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:46+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/plane-crashes-into-car.webp -->
-
-ऑस्ट्रेलिया में 10 नवंबर को लैंडिंग के दौरान विमान की कार से टक्कर हो गई। इस हादसे में दो लोग घायल हुए। स्रोत में विमान या हवाई अड्डे का नाम नहीं बताया गया। विमान हादसों के मामले दुनियाभर में बढ़ रहे हैं। दुनियाभर में आए दिन कहीं न कहीं विमान हादसों के मामले देखने को मिलते हैं। पिछले दो साल में प्लेन क्रैश (Plane Crash) होने के कई मामले देखे गए हैं।
-
-### [भारत से जाते ही हाजिरी बजाने पाकिस्तान पहुंचे बांग्लादेशी खुफिया प्रमुख, हमारे लिए क्यों है टेंशन](https://hindi.news18.com/world/south-asia-bangladesh-intel-chief-secretly-reaches-pakistan-11-days-after-india-visit-why-tension-for-us-ws-l-10976367.html)
-*News18 Hindi (World)* - Nov 10, 14:21 IST (iso: 2026-11-10T08:51:19+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-news-2026-11-2bfbb2063d7f0dbd31b0215a9fba4c8d-1200x800.jpg -->
-
-बांग्लादेश के खुफिया प्रमुख ने पाकिस्तान का दौरा किया। यह सफर भारत के लिए चिंता का विषय है। देश की नई सरकार पाकिस्तान के निर्देशों पर चल रही है। पहले जो देश निरपेक्ष पॉलिसी लेकर चलता था, वो अब पाकिस्तान की कठपुतली बना हुआ है. एक तरफ तो वो भारत से रिश्ते सुधारना भी चाहता है और वहीं दूसरी तरफ बिना अपने आका पाकिस्तान के एक कदम भी आगे नहीं बढ़ाता.
-
-### [किस 'टेरिबल एक्‍सपीरिएंस' की बात कर रही थीं पाकिस्‍तानी एकंर राबिया, पति मोहरा, कोई और है असली](https://hindi.news18.com/world/pakistan-pakistan-tv-female-news-anchor-rabia-ahsan-whatsapp-account-hacked-before-murder-husband-just-pawn-asim-munir-pakistan-army-photogallery-10975985.html)
-*News18 Hindi (World)* - Nov 10, 11:12 IST (iso: 2026-11-10T05:42:30+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/rabia7-2026-11-db0b78bb0d840d8db25493c0a011883a-1200x800.jpg -->
-
-पाकिस्तान में टीवी एंकर राबिया अहसान की हत्या के बाद स्वतंत्र मीडिया पर प्रतिबंधों की चर्चा है। स्रोतों के अनुसार आर्मी और सरकार स्वतंत्र पत्रकारिता को सहन नहीं करती। राबिया ने सच बताने की कोशिश की थी। पाकिस्‍तान आर्मी और वहां की सरकार स्‍वतंत्र मीडिया को देखना नहीं चाहती है. अगर कोई पत्रकार जनता तक सही खबर पहुंचाने की कोशिश करता है तो उन्‍हें गंभीर परिणाम भुगतना पड़ता है.
-
-### [चीनी जासूसी विवाद में घिरे Nvidia CEO, एक दिन में गंवाए 7.4 अरब डॉलर, तलाक हुआ तो पत्नी को मिल सकती](https://www.patrika.com/world-news/jensen-huang-nvidia-7-billion-loss-chinese-spy-scandal-wife-divorce-21038894)
-*Patrika (World)* - Nov 10, 10:25 IST (iso: 2026-11-10T04:55:35+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Jensen-Huang.webp -->
-
-एनवीडिया के सीईओ जेनसन हुआंग की संपत्ति में 9 नवंबर को 7.4 अरब डॉलर की गिरावट आई। यह गिरावट चीनी जासूसी के संदेह और निजी विवादों के बीच आई। फोर्ब्स ने यह आंकड़ा जारी किया। Jensen Huang Net Worth: दुनिया के बड़े अरबपतियों में शामिल Nvidia के CEO जेनसन हुआंग इन दिनों अपनी निजी जिंदगी को लेकर विवादों में हैं।
-
-### [Nvidia CEO जेनसन हुआंग की मुश्किलें बढ़ीं: चीनी जासूसी विवाद में शेयरधारकों ने ठोका केस, ट्रंप](https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-lawsuit-alice-huang-china-spy-allegations-21038895)
-*Patrika (World)* - Nov 10, 09:39 IST (iso: 2026-11-10T04:09:28+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-8.webp -->
-
-शेयरधारकों ने एनवीडिया और जेन्सेन हुआंग के खिलाफ क्लास-एक्शन मुकदमा दायर किया। आरोप है कि चीनी जासूसी विवाद में निवेशकों को सूचना नहीं दी गई। अमेरिकी निवेशकों ने आर्टिफिशियल इंटेलिजेंस (AI) की दिग्गज कंपनी एनवीडिया (Nvidia) और इसके CEO जेन्सेन हुआंग के खिलाफ कानूनी कार्रवाई शुरू कर दी है। कैलिफोर्निया के सैन होजे में अमेरिकी अदालत में दायर एक क्लास-एक्शन मुकदमे में शेयरधारकों का आरोप है कि कंपनी और हुआंग ने निवेशकों को अंधेरे में रखा।
-
----
-
-## यूरोप और रूस
-
-### [हाइवे पर एक के बाद एक टकराईं 50 गाड़ियां, सड़क बन गई कब्रिस्तान, ड्रोन फुटेज देखकर रेस्क्यू टीम के](https://hindi.news18.com/world/europe-bulgaria-highway-crash-50-vehicles-shocking-drone-footage-pile-up-in-massive-zero-visibility-fog-accident-on-trakia-motorway-10977506.html)
-*News18 Hindi (World)* - Nov 10, 18:28 IST (iso: 2026-11-10T12:58:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Bulgaria-Highway-Accident-2026-11-48cbaac3b761c3338686849a0f067697-1200x800.jpg -->
-
-बुल्गारिया के त्राकिया हाईवे पर कोहरे के कारण 50 से अधिक वाहनों की भिड़ंत हुई। इस हादसे में कम से कम 12 लोगों की मौत हुई और दर्जनों घायल हुए। रेस्क्यू टीम ने कटर से वाहनों को काटकर लोगों को बाहर निकाला। बुल्गारिया के त्राकिया हाईवे पर कोहरे की वजह से बहुत बड़ा हादसा हो गया है. यहां जीरो विजिबिलिटी के कारण 50 से ज्यादा गाड़ियां आपस में जोरदार तरीके से टकरा गईं.
-
-### ['यूरोपीय देशों पर हमला का हमारा कोई इरादा नहीं', उप-विदेश मंत्री बोले- हमला हुआ तो जवाब देंगे](https://www.amarujala.com/world/russia-has-no-intention-or-plans-to-attack-european-countries-says-deputy-fm-2026-11-10)
-*Amar Ujala World* - Nov 10, 10:02 IST (iso: 2026-11-10T04:32:13+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/russia_bbeaef46808bdb64d924d3d7cb83be71.jpeg?w=1200&dpr=1.0 -->
-
-रूस के उप-विदेश मंत्री ने कहा कि यूरोपीय देशों पर हमले का इरादा नहीं है। उन्होंने स्पष्ट किया कि यदि हमला हुआ तो जवाब दिया जाएगा। यह बयान युद्ध के दौरान जारी है। रूस: 'यूरोपीय देशों पर हमला का हमारा कोई इरादा नहीं', उप-विदेश मंत्री बोले- हमला हुआ तो जवाब देंगे।
-
-### ['भारत ने रूस से दोस्ती निभाने के लिए पकड़ा', तिहाड़ में बंद रहे अमेरिकी मैथ्यू का पैंतरा- अभी बहुत](https://hindi.news18.com/world/america-us-citizen-matthew-vandyke-calims-his-arrest-in-india-tihar-jail-was-to-help-russia-in-ukraine-war-ws-l-10975841.html)
-*News18 Hindi (World)* - Nov 10, 09:48 IST (iso: 2026-11-10T04:18:44+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/mathew-vandyke-n-2026-11-9c93a1f57f50c961a6c3bb7ae888d6e4-1200x800.jpg -->
-
-अमेरिकी नागरिक मैथ्यू वैनडाइक ने अपनी गिरफ्तारी को भारत-रूस संबंधों से जोड़ा। वह तिहाड़ जेल में छह महीने से बंद है। उसने आरोप लगाया कि उसे दोस्ती निभाने के लिए पकड़ा गया। Matthew Vandyke Claims over Arrest: भारतीय इंवेस्टिगेटिव एजेंसी के हत्थे चढ़ने के बाद अमेरिकी नागरिक मैथ्यू वैनडाइक ने उल्टे-सीधे आरोप लगाने शुरू कर दिए हैं. करीब 6 महीने तिहाड़ में रहने के बाद उसने अपनी गिरफ्तारी को सीधा भारत-रूस की दोस्ती और यूक्रेन युद्ध के साथ जोड़ दिया है.
+**अपडेट:** November 11, 2026 03:01 IST
 
 ---
 
 ## दुनिया
 
-### [विदेश में अपनों की सुरक्षा संभालेगी BSF, स्‍पेशल कमांडोज को CISF दे रही ट्रेनिंग, LTTE के गढ़ से](https://hindi.news18.com/news/nation/bsf-take-security-charge-of-indian-nationals-abroad-cisf-providing-training-to-special-commandos-initiative-begin-stronghold-of-ltte-10977170.html)
-*News18 Hindi (World)* - Nov 10, 16:17 IST (iso: 2026-11-10T10:47:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/CISF-BSF-2026-11-4892149bee7ff1c58626c9a46c758c28-1200x800.jpg -->
+### [नेतन्याहू की नीतियां पलटने का एलान: इस्राइल में गादी आइजेनकोट ने कसी कमर, नई सरकार पर बवाल क्यों?](https://www.amarujala.com/world/eisenkot-unveils-agenda-to-reverse-netanyahu-policies-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 12:45 IST (iso: 2026-11-11T07:15:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/rashhatarapata-isaka-harajaga-na-vapakashha-nata-oura-yashara-parata-ka-paramakha-gatha-aaijanakata_fcbfa18193da1a859461df0e61dd5700.jpeg?w=1200&dpr=1.0 -->
 
-बीएसएफ ने विदेश में सुरक्षा के लिए 50 स्पेशल कमांडोज की टीम तैयार की। सीआईएसएफ की एसएसजी और एपीएस यूनिट ने इनको ट्रेनिंग दी। विदेश में रह रहे अपनों की सुरक्षा पुख्‍ता करने के लिए बीएसएफ को स्‍पेशल कमांडोज को भेजा जा रहा है. इस तैनाती के लिए फिलहाल 50 कमांडोज की टीम को तैयार किया गया है. साथ ही विदेश में सामने आने वाली चुनौतियों से निपटने के लिए बीएसएफ के इन कमांडोज को सीआईएसएफ की एसएसजी और एपीएस यूनिट में स्‍पेशल ट्रेनिंग भी दी गई है.
+गादी आइजेनकोट ने इस्राइल की नई सरकार बनाई है। उन्होंने नेतन्याहू की मौजूदा नीतियों को बदलने का वादा किया है। इस बदलाव ने देश में राजनीतिक बहस को तेज कर दिया है। नेतन्याहू की नीतियां पलटने का एलान: इस्राइल में गादी आइजेनकोट ने कसी कमर, नई सरकार पर बवाल क्यों?
 
-### [धरती से नीचे बसा पाताल लोक, 35761 फीट गहराई में रहते हैं रहस्यमयी जीव, सूरज की रोशनी भी तोड़ देती](https://hindi.news18.com/world/rest-of-world-deepest-place-in-the-world-mariana-trench-35761-feet-underwater-another-world-amazing-places-on-earth-photogallery-10976865.html)
-*News18 Hindi (World)* - Nov 10, 14:52 IST (iso: 2026-11-10T09:22:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/mariana-trench-5-2026-11-3fcac37342589d01b2414701d76345b9-1200x800.jpg -->
+### [क्यों स्थगित हुआ संगीतकार का गुरुग्राम कॉन्सर्ट? आयोजकों ने बताई वजह; दिया फैंस के सवाल का जवाब](https://www.amarujala.com/entertainment/bollywood/ar-rahman-gurgaon-concert-postponed-for-some-reason-organisers-cite-last-minute-developments-2026-11-11)
+*Amar Ujala National* - Nov 11, 12:13 IST (iso: 2026-11-11T06:43:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/18/sagatakara-eaara-rahamana_fc285bc5d0a07a28411534d452a30410.jpeg?w=1200&dpr=1.0 -->
 
-मारियाना ट्रेंच की 35761 फीट गहराई में रहस्यमयी जीव रहते हैं। वहां सूरज की रोशनी नहीं पहुंचती। यह पृथ्वी का सबसे गहरा समुद्री क्षेत्र है। Mariana Trench Deepest Place: आपने सुना होगा कि धरती के नीचे पाताल लोक है, जहां अंधकार का राज चलता है. हालांकि आप इसका नाम नहीं जानते हैं, तो चलिए हम आपको एक ऐसी ही दूसरी दुनिया के बारे में बताते हैं, जो सूरज की रोशनी को भी अपने इलाके में घुसने नहीं देती.
+ईवा लाइव ने गुरुग्राम में रहमान के कॉन्सर्ट को रद्द कर दिया है। टिकटिंग पार्टनर डिस्ट्रिक्ट बाय जोमैटो ने भी इसकी पुष्टि की है। संगीतकार का कोलकाता दौरा अब 11 अप्रैल तक टाल दिया गया है। रहमान के कॉन्सर्ट के आयोजक ईवा लाइव ने कॉन्सर्ट के रद्द होने को लेकर एक बयान जारी किया है। टिकटिंग पार्टनर डिस्ट्रिक्ट बाय जोमैटो ने भी शो को रद्द करने की जानकारी दी है।
+
+### [त्योहार पर हिमाचल प्रदेश में आज सार्वजनिक अवकाश, स्कूल-कॉलेज सब रहेंगे बंद; अधिसूचना जारी](https://www.amarujala.com/shimla/himachal-pradesh-public-holiday-bhai-dooj-november-11-2026-2026-11-10)
+*Amar Ujala Breaking* - Nov 11, 12:04 IST (iso: 2026-11-11T06:34:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/bhaya-thaja-para-sabha-karamacaraya-ka-chhatata_ed96b4433c3da99cd8f60c22b7379b8b.jpeg?w=1200&dpr=1.0 -->
+
+हिमाचल प्रदेश सरकार ने भैया दूज पर 11 नवंबर 2026 को सार्वजनिक अवकाश घोषित किया है। इस दिन सभी सरकारी विभाग, स्कूल, कॉलेज और विश्वविद्यालय बंद रहेंगे। अधिसूचना के तहत सभी संस्थानों को छुट्टी देनी होगी। हिमाचल प्रदेश सरकार ने भैया दूज के अवसर पर 11 नवंबर 2026, बुधवार को सभी सरकारी विभागों, बोर्डों, निगमों, स्कूलों, कॉलेजों और विश्वविद्यालयों में सार्वजनिक अवकाश घोषित किया है।
+
+### [यूपीआई से भुगतान पर कब लगेगा नया शुल्क? व्यापारियो- ग्राहकों की बढ़ी उलझन!](https://www.amarujala.com/video/india-news/when-will-new-charges-be-applied-to-upi-payments-confusion-grows-among-merchants-and-customers-2026-11-11)
+*Amar Ujala National* - Nov 11, 02:38 IST (iso: 2026-11-10T21:08:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/upi-mdr-charges_5660f8b474b0c97333af27d12c774abc.jpeg?w=1200&dpr=1.0 -->
+
+यूपीआई भुगतान पर नए शुल्क को लेकर व्यापारियों और ग्राहकों में उलझन बढ़ी है। लोगों को यह स्पष्ट नहीं है कि कब से नया चार्ज लागू होगा। इस अनिश्चितता ने बाजार में भुगतान प्रक्रिया को प्रभावित किया है। यूपीआई से भुगतान पर कब लगेगा नया शुल्क? व्यापारियो- ग्राहकों की बढ़ी उलझन!
+
+### [डिजिटल अरेस्ट पर सुप्रीम कोर्ट सख्त, WhatsApp को देना होगा फ्रॉड रोकने का प्लान](https://www.amarujala.com/video/india-news/supreme-court-takes-a-strict-stance-on-digital-arrests-whatsapp-must-provide-a-plan-to-curb-fraud-2026-11-11)
+*Amar Ujala National* - Nov 11, 01:21 IST (iso: 2026-11-10T19:51:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/digital-arrest-scam_46c364c14b7505b0854d2ba8b8375dab.jpeg?w=1200&dpr=1.0 -->
+
+सुप्रीम कोर्ट ने डिजिटल अरेस्ट के खिलाफ सख्त रुख अपनाया। कोर्ट ने व्हाट्सएप को फ्रॉड रोकने का विस्तृत योजना पेश करने का निर्देश दिया। डिजिटल अरेस्ट पर सुप्रीम कोर्ट सख्त, WhatsApp को देना होगा फ्रॉड रोकने का प्लान।
+
+### [तमिलनाडु में लाइब्रेरी की किताबों की खरीद में घोटाला: हाईकोर्ट ने एफआईआर का दिया आदेश, क्या है पूरा](https://www.amarujala.com/india-news/tamil-nadu-library-book-purchase-scam-madras-hc-orders-fir-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 01:04 IST (iso: 2026-11-10T19:34:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/matharasa-haiikarata-ka-bugdha-fasal_26f7b8c10a072b98bb696fbd9e8545fe.jpeg?w=1200&dpr=1.0 -->
+
+तमिलनाडु में लाइब्रेरी किताबों की खरीद में घोटाले का मामला सामने आया। हाईकोर्ट ने इस मामले में एफआईआर दर्ज करने का आदेश दिया। तमिलनाडु में लाइब्रेरी की किताबों की खरीद में घोटाला: हाईकोर्ट ने एफआईआर का दिया आदेश, क्या है पूरा मामला?
+
+### [प्रणब की PM महत्वाकांक्षा से लेकर बच्चे की मौत तक…, सोनिया की आत्मकथा और विपक्ष के उठते सवाल](https://www.abplive.com/news/india/pranab-mukherjee-to-death-of-first-child-sonia-gandhi-belonging-a-journey-of-love-questions-raised-by-opposition-3213379)
+*ABP Live (India)* - Nov 10, 23:21 IST (iso: 2026-11-10T17:51:40+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/660f81d885cd50bc31e00285498156d317943330260001324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+सोनिया गांधी की आत्मकथा 'बिलॉन्गिंग' 10 नवंबर 2026 को लॉन्च हुई। किताब में उनके पहले बच्चे की मौत और प्रणब मुखर्जी की प्रधानमंत्री पद की इच्छा का जिक्र है। लॉन्च के तुरंत बाद किताब की खरीदारी में भारी इज़ाफा दर्ज किया गया। कांग्रेस की नेता और गांधी परिवार की बड़ी बहू सोनिया गांधी की ऑटो-बायोग्राफी बिलॉन्गिंग: अ जर्नी ऑफ लव मंगलवार लॉन्च हुई.
+
+### [इंसान का कंकाल तक चबा जाता है पिद्दी सा जीव! 27 किलो वजन इसके लिए कुछ नहीं, देखकर ही लगेगा डर](https://hindi.news18.com/photogallery/ajab-gajab/viral-coconut-crab-facts-the-giant-land-crabs-that-crack-coconuts-hunt-birds-chew-on-bones-10978089.html)
+*News18 Hindi (World)* - Nov 10, 22:56 IST (iso: 2026-11-10T17:26:11+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Coconut-Crab-2026-11-186df48fb83b0a3d215efed726d7c0e1-1200x800.jpg -->
+
+कोकोनट क्रैब जमीन पर रहने वाला सबसे बड़ा केकड़ा माना जाता है। यह जीव नारियल फोड़ने की क्षमता के लिए जाना जाता है। इसका वजन 27 किलोग्राम तक पहुंच सकता है। यह विश्व के विभिन्न द्वीपों पर पाया जाता है। दुनिया के अलग-अलग महाद्वीपों और शांत द्वीपों पर प्रकृति ने एक से बढ़कर एक अजीबोगरीब जीव बनाए हैं. इन्हीं में से एक है 'कोकोनट क्रैब'.
+
+### [बीजेपी में शामिल होंगे ममता के भाई! बोले- 'शुभेंदु दादा को फिरसे CM बनना चाहिए'](https://www.abplive.com/news/india/mamata-banerjee-brother-to-join-bjp-says-suvendu-adhikari-should-become-cm-again-3213367)
+*ABP Live (India)* - Nov 10, 22:50 IST (iso: 2026-11-10T17:20:45+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/3987c5b61640df450c91cdc98002042317943303597081484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+बाबुन बनर्जी ने शुभेंदु अधिकारी से मुलाकात के बाद बंगाल में फिर से मुख्यमंत्री बनने की मांग की। यह बयान ममता बनर्जी के भाई ने कालीघाट दौरे के दौरान दिया। मुख्यमंत्री शुभेंदु अधिकारी से मिलने के बाद ममता बनर्जी के भाई बाबुन बनर्जी के एक बयान से बंगाल में सियासत फिर गरमा गई है. बाबुन बनर्जी ने अपने क्लब में अधिकारी से मिलने के बाद कहा कि "पिछले छह महीनों में शुभेंदु अधिकारी ने बंगाल के लिए जो काम किया है, उसे देखते हुए मैं उन्हें फिर से मुख्यमंत्री बनते देखना चाहता हूँ." बाबुन का यह बयान तब आया जब मुख्यमंत्री शुभेंदु अधिकारी कालीघाट में दौरे के लिए प।
+
+### [DMK का TVK विधायक के खिलाफ शिकायत, महिला अधिकारी को अश्लील मैसेज भेजने का आरोप](https://www.abplive.com/news/india/dmk-submitted-complaint-to-kallakurichi-sp-over-tvk-mla-alleged-obscene-messages-to-women-district-collector-3213347)
+*ABP Live (India)* - Nov 10, 22:29 IST (iso: 2026-11-10T16:59:04+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/653f6cb30f77831e9944ad3be8cb6fea17943265601681126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+तमिलनाडु में DMK ने TVK विधायक अरुल विग्नेश के खिलाफ शिकायत दर्ज कराई। आरोप है कि उन्होंने कल्लाकुरिची की जिला कलेक्टर को अश्लील संदेश भेजे। तमिलनाडु में मुख्य विपक्षी पार्टी DMK ने सोमवार (9 नवंबर, 2026) को मुख्यमंत्री सी. जोसेफ विजय की सत्तारूढ़ पार्टी TVK के एक विधायक अरुल विग्नेश के खिलाफ कल्लाकुरिची जिले के पुलिस अधीक्षक (SP) से शिकायत की है.
+
+### [छठ महापर्व को देखते हुए उत्तर रेलवे ने लिया बड़ा फैसला, कुछ ट्रेनों में जोड़े अतिरिक्त कोच](https://www.abplive.com/news/india/northern-railways-added-extra-coaches-in-few-trains-for-convenience-of-passengers-during-chhath-puja-ann-3213336)
+*ABP Live (India)* - Nov 10, 22:28 IST (iso: 2026-11-10T16:58:59+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/0512d6c3f316026bcc4971034108bb1917943237255041126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+उत्तर रेलवे जम्मू मंडल ने छठ पर्व के लिए ट्रेन 19224 में अतिरिक्त कोच जोड़े। यह व्यवस्था 10 से 14 नवंबर 2026 तक कटड़ा-साबरमती एक्सप्रेस पर लागू रहेगी। त्योहारों के सीजन के दौरान यात्रियों की संख्या में अप्रत्याशित बढ़ोत्तरी, बढ़ती भीड़ और लंबी प्रतीक्षा सूची को देखते हुए उत्तर रेलवे के जम्मू मंडल की तरफ से यात्रियों की सुविधा के लिए ट्रेन संख्या 19224 में अतिरिक्त कोचों की अस्थायी वृद्धि करने का निर्णय लिया गया है.
+
+### ['फर्जी नेता के नेतृत्व में फेक आंदोलन', इथेनॉल ब्लेंडिंग विवाद, राहुल पर भड़के प्रह्लाद जोशी](https://www.abplive.com/news/india/pralhad-joshi-call-rahul-gandhi-fake-leader-amid-ethanol-blending-row-3213360)
+*ABP Live (India)* - Nov 10, 22:12 IST (iso: 2026-11-10T16:42:13+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/3fe355323f2f588c43a3a1fb4d4663e217943288200361324_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+केंद्रीय मंत्री प्रह्लाद जोशी ने पेट्रोल में इथेनॉल मिलाने के विवाद पर कांग्रेस को फर्जी आंदोलन चलाने का आरोप दिया। उन्होंने राहुल गांधी को फर्जी नेता कहते हुए जनता को गुमराह करने का इल्जाम लगाया। जोशी का कहना है कि यह मुद्दा अल्पसंख्यकों और राहुल को खुश करने की रणनीति है। केंद्रीय मंत्री प्रह्लाद जोशी ने मंगलवार को पेट्रोल में इथेनॉल मिलाने के मुद्दे पर कांग्रेस पर हमला तेज कर दिया.
 
 ---
 
-## अमेरिका
+## यूरोप और रूस
 
-### [अपनी पत्नी को गुडनाइट कह लें: ट्रंप ने AI कंपनी के एक शीर्ष अधिकारी को दी थी गिरफ्तार करने की धमकी](https://www.patrika.com/world-news/trump-threatens-arrest-ai-company-executive-60-minutes-safety-violation-21039202)
-*Patrika (World)* - Nov 10, 12:38 IST (iso: 2026-11-10T07:08:01+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/donald-trump_.webp -->
+### [जर्मनी की ठुकराई नौकरी, भारत के 100वें ग्रैंडमास्टर बने अनुज; ऐसे पाई सफलता](https://www.amarujala.com/uttar-pradesh/agra/software-engineer-chess-grandmaster-anuj-becomes-india-s-100th-grandmaster-at-22-2026-11-10)
+*Amar Ujala Breaking* - Nov 11, 12:05 IST (iso: 2026-11-11T06:35:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/shataraja-khalugdha_ecda5b12e2fc95062fcd4d0a8769dd88.jpeg?w=1200&dpr=1.0 -->
 
-ट्रंप ने एक एआई कंपनी के अधिकारी को गिरफ्तार करने की धमकी दी। उन्होंने सुरक्षा नियमों के उल्लंघन का हवाला दिया। यह घटना 60 मिनट्स शो में सामने आई। Trump Arrest Threat: अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने आर्टिफिशियल इंटेलिजेंस (AI) से जुड़ी एक कंपनी के एक अधिकारी को कड़ी चेतावनी दी थी। ट्रम्प ने सुरक्षा नियमों के कथित उल्लंघन को लेकर उस अधिकारी को तुरंत गिरफ्तार करने की धमकी दी।
+आगरा के 22 वर्षीय अनुज ने भारत के सौवें ग्रैंडमास्टर का खिताब जीता है। उन्होंने जर्मनी से मिली नौकरी की पेशकश ठुकरा दी थी। उनकी यह उपलब्धि स्थानीय युवा खिलाड़ियों के लिए प्रेरणा का स्रोत बनी है। भारत के 100वें ग्रैंडमास्टर बने 22 वर्षीय अनुज, आगरा के युवा खिलाड़ियों को मिली प्रेरणा। जर्मनी की ठुकराई नौकरी, भारत के 100वें ग्रैंडमास्टर बने अनुज; ऐसे पाई सफलता।
+
+---
+
+## एशिया-प्रशांत
+
+### [दो साल से पाकिस्तान में नहीं था अमेरिकी राजदूत: ट्रंप ने नताली बेकर का नाम आगे बढ़ाया, कौन हैं ये](https://www.amarujala.com/world/donald-trump-nominates-natalie-baker-us-ambassador-pakistan-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 02:02 IST (iso: 2026-11-10T20:32:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/anabhava-rajanayaka-natal-bkara_95c76e5d48aa05a0bbee279226c62d06.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप ने पाकिस्तान के अमेरिकी राजदूत के पद के लिए नताली बेकर का नाम आगे बढ़ाया। यह पद पिछले दो सालों से खाली था। बेकर एक अनुभवी राजनयिक हैं। दो साल से पाकिस्तान में नहीं था अमेरिकी राजदूत: ट्रंप ने नताली बेकर का नाम आगे बढ़ाया, कौन हैं ये राजनयिक?
+
+### [सीवर में गिरा चार साल का बच्चा, रेस्क्यू के लिए कई टीमों ने मिलकर चलाया अभियान; तलाश तेज](https://www.amarujala.com/delhi-ncr/delhi-a-rescue-operation-is-underway-after-a-4-year-old-boy-fell-into-a-sewer-near-dass-garden-colony-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 01:59 IST (iso: 2026-11-10T20:29:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/1_bbd42245d0468c036ed0641d847b904c.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली के नांगली विहार में चार साल का बच्चा सीवर में गिर गया। कई रेस्क्यू टीमों ने मिलकर बचाव अभियान शुरू किया। बच्चे की तलाश तेज कर दी गई है। बाहरी दिल्ली के नांगली विहार में दास गार्डन कॉलोनी के पास एक 4 साल का बच्चा सीवर में गिर गया है। सीवर में गिरा चार साल का बच्चा, रेस्क्यू के लिए कई टीमों ने मिलकर चलाया अभियान; तलाश तेज।
+
+### [सरकारी AQI पर 500 का लिमिट क्यों? CPCB ने बयान जारी कर बताई वजह](https://www.abplive.com/news/india/cpcb-explains-why-official-aqi-limits-at-500-whereas-private-app-show-higher-readings-in-delhi-during-diwali-3213380)
+*ABP Live (India)* - Nov 10, 23:36 IST (iso: 2026-11-10T18:06:22+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/f06278092d8228dc4dbe90fcc8340db817943338770051126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+केंद्रीय प्रदूषण नियंत्रण बोर्ड ने 10 नवंबर 2026 को आधिकारिक एयर क्वालिटी इंडेक्स की 500 की अधिकतम सीमा का बचाव किया। बोर्ड ने इसे एक सोची-समझी वैज्ञानिक व्यवस्था बताया। यह सीमा प्राइवेट ऐप्स की उच्च रीडिंग्स से अलग है। केंद्रीय प्रदूषण नियंत्रण बोर्ड (CPCB) ने मंगलवार (10 नवंबर, 2026) को अपने एयर क्वालिटी मॉनिटरिंग के तरीके का बचाव करते हुए जानकारी साझा की कि आखिर आधिकारिक AQI रीडिंग 500 पर क्यों लिमिट हो जाती है, जबकि प्राइवेट मॉनिटरिंग ऐप्स ने दिवाली के बाद दिल्ली में AQI रीडिंग को उससे कहीं ज्यादा बताया था.
+
+### [‘अकेले पैन कार्ड और वोटर ID भारतीय नागरिकता का सबूत नहीं’, गुवाहाटी HC का बड़ी टिप्पणी](https://www.abplive.com/news/india/gauhati-high-says-court-pan-card-voter-id-are-not-enough-to-prove-indian-citizenship-with-supporting-documents-3213373)
+*ABP Live (India)* - Nov 10, 23:36 IST (iso: 2026-11-10T18:06:16+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/cb4f89a1955155314fb7bf9a79d0a01617943317726261126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+गुवाहाटी हाई कोर्ट ने 10 नवंबर 2026 को कहा कि पैन कार्ड और वोटर आईडी अकेले भारतीय नागरिकता का सबूत नहीं हैं। अदालत ने स्पष्ट किया कि इन दस्तावेजों के मूल रिकॉर्ड की औपचारिक जांच आवश्यक है। केवल स्वयं-घोषणा पर आधारित दस्तावेज पर्याप्त नहीं माने जाते। भारत की नागरिकता को लेकर गुवाहाटी हाई कोर्ट ने मंगलवार (10 नवंबर, 2026) को बड़ी टिप्पणी की है.
+
+### [‘कोई और विकल्प नहीं’, बांग्लादेश गईं तो शेख हसीना को मिलेगी मौत! सरकार ने क्या कहा?](https://hindi.news18.com/world/south-asia-sheikh-hasina-return-to-bangladesh-ict-chief-prosecutor-says-ousted-pm-faces-death-penalty-no-passport-10978104.html)
+*News18 Hindi (World)* - Nov 10, 23:20 IST (iso: 2026-11-10T17:50:12+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Sheikh-Hasina-2026-09-c16b391e98da54e5263f1ad544edebc7-1200x800.jpg -->
+
+बांग्लादेश के मुख्य अभियोजक ने 10 नवंबर 2026 को कहा कि पूर्व प्रधानमंत्री शेख हसीना को देश लौटने पर मौत की सजा मिलेगी। कानून के तहत उन्हें नया पासपोर्ट जारी नहीं किया जा सकता। यह बयान देश की राजनीति में बहस का विषय बना है। बांग्लादेश के मुख्य अभियोजक ने साफ कह दिया है कि पूर्व पीएम शेख हसीना अगर देश लौटीं, तो उन्हें मौत की सजा ही मिलेगी.
+
+### [दिल्‍ली से अमृतसर तक चले पटाखे... पाक की मंत्री साहिबा ने लाहौर के पॉल्‍यूशन का बिल भारत पर फाड़](https://hindi.news18.com/world/pakistan-pakistan-minister-marriyum-aurangzeb-blames-india-post-diwali-pollution-for-choking-lahore-ignores-local-failure-10978053.html)
+*News18 Hindi (World)* - Nov 10, 22:49 IST (iso: 2026-11-10T17:19:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Marriyum-Aurangzeb-Air-Pollution-2026-11-d15c3ab3d182da73f58f2f3a29e74e75-1200x800.jpg -->
+
+पाकिस्तान की मंत्री मरियम औरंगजेब ने दिवाली के बाद भारत पर लाहौर के प्रदूषण का आरोप लगाया। उन्होंने पूर्वी हवाओं को जहरीली हवा का कारण बताया। पाकिस्तान के पंजाब की मंत्री मरियम औरंगजेब ने दिवाली के बाद भारत के कई शहरों का बढ़ा हुआ AQI शेयर करते हुए दावा किया है कि पूर्वी हवाओं के कारण लाहौर की हवा जहरीली हो रही है.
+
+### [भारत की छवि बिगाड़ रहे चीनी कंटेन्ट कंटेंट क्रिएटर्स, ढाका की गंदगी को बता दिया दिल्ली](https://www.abplive.com/news/india/chinese-content-creators-tarnishing-india-image-by-portraying-filth-from-bangladesh-as-delhi-3213349)
+*ABP Live (India)* - Nov 10, 22:18 IST (iso: 2026-11-10T16:48:53+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/433ca0b97f16f2928b29361bef8c53b417943263938381484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+150 से अधिक चीनी नागरिकों ने बांग्लादेश के ढाका के गरीब इलाकों के वीडियो बनाकर उन्हें नई दिल्ली बताया। इन वीडियो में भारत की साफ-सफाई और गरीबी पर अपमानजनक टिप्पणियां की गईं। यह कंटेंट सोशल मीडिया पर भारत की छवि बिगाड़ने के उद्देश्य से फैलाया जा रहा है। कई मीडिया रिपोर्टों के अनुसार पता चला है कि कई चीनी नागर‍िक वीडियो रिकॉर्डिंग और लाइवस्ट्रीमिंग के जरिए भारत की छव‍ि को खराब करने की कोशिश में लगे हुए हैं.
+
+### ['दर्दनाक सच', गांधी परिवार के वायरल Video पर कंगना रनौत का निशाना](https://www.abplive.com/news/india/kangana-ranaut-slams-sonia-gandhi-old-maneka-gandhi-video-clip-mysterious-foreigner-became-head-3213351)
+*ABP Live (India)* - Nov 10, 21:33 IST (iso: 2026-11-10T16:03:27+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/2d9b89e1044960b25b3ffbc78cbbb1371794326518055708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+बीजेपी सांसद कंगना रनौत ने एक्स पर गांधी परिवार के पुराने वीडियो को शेयर करते हुए इतिहास पर निशाना साधा। उन्होंने राजीव गांधी के अमेठी से चुनाव जीतने की आर्काइव क्लिप का हवाला दिया। इस क्लिप में संजय गांधी के निधन के बाद के पारिवारिक रिश्तों पर बड़ा दावा किया गया है। भारतीय जनता पार्टी (बीजेपी) की सांसद और एक्ट्रेस कंगना रनौत ने गांधी-नेहरू परिवार के इतिहास पर एक बार फिर निशाना साधा है.
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [नेतन्याहू के साथ बहुत बड़ा खेल, गादी ने 4 लोगों के साथ मिलाया हाथ, तय हो गई इजरायल की किस्मत!](https://hindi.news18.com/world/middle-east-gadi-eisenkot-joins-hands-with-4-opposition-leaders-to-challenge-benjamin-netanyahu-names-key-knesset-speaker-candidate-israel-10978142.html)
+*News18 Hindi (World)* - Nov 10, 23:43 IST (iso: 2026-11-10T18:13:17+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/israel-gadi-eisenkot-and-benjamin-netanyahu-2026-07-f06a4fd728238b2bab3ce607bc5a46f0-1200x800.jpg -->
+
+गादी आइजनकोट ने नेतन्याहू को घेरने के लिए चार विपक्षी नेताओं के साथ गठबंधन किया। इसमें बेनेट, गोलन, लिबरमैन और लापिड शामिल हैं। 27 अक्टूबर के चुनावों के बाद यह नया मोर्चा बना है। गादी आइजनकोट ने देश की राजनीति में बहुत बड़ा दांव खेला है. उन्होंने नेतन्याहू को घेरने के लिए 4 बड़े विपक्षी दिग्गजों, नेफ़ताली बेनेट, यायर गोलन, एविगडोर लिबरमैन और यायर लापिड को एक साथ मिला लिया है.
+
+### [अचानक इजरायल क्यों पहुंचा रूस का मिलिट्री जेट? अंदर से जो शख्स निकला, देखकर कांप गया अमेरिका](https://hindi.news18.com/world/middle-east-russian-gru-chief-igor-kostyukov-lands-sanctioned-military-jet-in-israel-amid-middle-east-tensions-10978009.html)
+*News18 Hindi (World)* - Nov 10, 22:30 IST (iso: 2026-11-10T17:00:41+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Ben-Gurian-Airport-2026-11-0f18b9a832db5b97a5fa6b352e6c77d3-1200x800.jpg -->
+
+रूसी खुफिया एजेंसी GRU के प्रमुख इगोर कोस्त्युकोव अचानक इजरायल पहुंचे। वे अमेरिका की बैन लिस्ट में शामिल विमान से बेन-गुरियन एयरपोर्ट पर उतरे। रूस की खुफिया एजेंसी GRU के चीफ इगोर कोस्त्युकोव अचानक इजरायल पहुंचे हैं. वो अमेरिका की बैन लिस्ट में शामिल मिलिट्री प्लेन 'तुपोलेव Tu-154M' से बेन-गुरियन एयरपोर्ट पर उतरे. मिडिल ईस्ट में ईरान-इजरायल तनाव और रूस-यूक्रेन जंग के बीच रूसी चीफ के इस सरप्राइज विजिट ने अमेरिका और पेंटागन की नींद उड़ा दी है.
+
+### ['इजरायल में नई सरकार के गठन के बाद भारत संग कैसे रहेंगे रिश्ते', MEA ने दिया जवाब](https://www.abplive.com/news/india/mea-says-relations-with-india-fare-following-the-formation-of-new-government-in-israel-3213286)
+*ABP Live (India)* - Nov 10, 22:18 IST (iso: 2026-11-10T16:48:18+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/10/ed57af231a0bb538e383eea83e6ed74617943154033371484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+भारत के विदेश मंत्रालय ने इजरायल में नई सरकार के गठन के बाद भी संबंधों को जारी रखने की इच्छा जताई। प्रवक्ता रणधीर जायसवाल ने साप्ताहिक ब्रीफिंग में कहा कि दोनों देशों के बीच संबंध अच्छे हैं। भारत आगे भी इन द्विपक्षीय रिश्तों को मजबूत करने का इरादा रखता है। भारत के विदेश मंत्रालय ने इजरायल में हुए हालिया चुनावों के बाद हो रही गतिविधियों पर अपना रुख स्पष्ट किया है.
+
+### [तुर्की में मिला ‘काला खजाना’, जहां क्लाइमेट बचाने पहुंची दुनिया, उसी देश ने कर दिया डबल ‘गेम’](https://hindi.news18.com/world/europe-cop31-turkey-oil-shock-erdogan-announces-new-reserves-right-in-the-middle-of-global-climate-talks-10977995.html)
+*News18 Hindi (World)* - Nov 10, 21:49 IST (iso: 2026-11-10T16:19:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/COP31-Turkey-Oil-Shock-Erdogan-Announces-New-Reserves-2026-11-b75b2ab1bec7ba2ce7adf9f3d5b86142-1200x800.jpg -->
+
+तुर्की के अंताल्या में चल रहे COP31 जलवायु सम्मेलन के दौरान राष्ट्रपति एर्दोगन ने गबर इलाके में 13.5 करोड़ बैरल तेल खोजने का ऐलान किया। मेजबान देश की यह घोषणा फॉसिल फ्यूल से छुटकारे के संदेश के विपरीत है। इससे सम्मेलन में चर्चाओं का माहौल तनावपूर्ण हो गया है। तुर्की के अंताल्या में COP31 जलवायु सम्मेलन चल रहा है. दुनिया भर के देश फॉसिल फ्यूल से पीछा छुड़ाने की बात कर रहे हैं.
 
 ---
 
