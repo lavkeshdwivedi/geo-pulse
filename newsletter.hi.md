@@ -1,116 +1,110 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 10, 2026 13:21 IST
+**अपडेट:** November 10, 2026 21:23 IST
 
 ---
 
-## दुनिया
+## मध्य पूर्व और अफ्रीका
 
-### [सिर्फ आइडिया बताएं और मैप्स एप होगा तैयार: गूगल एआई स्टूडियो में आया नया टूल, क्या है और कैसे कर](https://www.amarujala.com/technology/tech-diary/google-ai-studio-gets-google-maps-integration-build-interactive-apps-minutes-2026-11-10)
-*Amar Ujala National* - Nov 10, 12:59 IST (iso: 2026-11-10T07:29:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/gagal-eaaii-satadaya-ma-aaya-naya-tal_1ab2b5b2d0d84c87b2b03c3d19e19842.jpeg -->
+### [पीट हेगसेथ के वो 5 गुनाह, जिसकी वजह से पीछे पड़ा इंपीचमेंट का भूत, ट्रंप बचा पाएंगे या नहीं?](https://hindi.news18.com/world/america-pete-hegseth-impeachment-why-us-defense-secretary-faces-5-major-charges-can-donald-trump-save-him-10977799.html)
+*News18 Hindi (World)* - Nov 10, 21:12 IST (iso: 2026-11-10T15:42:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/Pete-Hegseth-Reuters-2-2026-06-63b537d128355cb246f7ee2c9a3aeab6-1200x800.jpg -->
 
-Google AI Studio में नया टूल लॉन्च हुआ है। यह टूल उपयोगकर्ता के विवरण से मैप्स ऐप बनाता है। यह फीचर ऐप डेवलपमेंट को सरल बनाता है। सिर्फ आइडिया बताएं और मैप्स एप होगा तैयार: गूगल एआई स्टूडियो में आया नया टूल, क्या है और कैसे कर सकेंगे यूज?
+अमेरिकी रक्षा मंत्री पीट हेगसेथ पर ईरान युद्ध और सेना नियमों का उल्लंघन जैसे पांच आरोप लगते हुए संसद में महाभियोग का प्रस्ताव पेश हुआ। ट्रंप ने उनका समर्थन किया, लेकिन राजनीतिक घमासान जारी है। अमेरिकी रक्षा मंत्री पीट हेगसेथ पर मुसीबतों का पहाड़ टूट पड़ा है. ईरान के साथ जंग, सेना के नियमों को ताक पर रखने और बड़े अधिकारियों के प्रमोशन रोकने जैसे पांच गंभीर आरोपों के चलते संसद में उनके खिलाफ महाभियोग का प्रस्ताव आ गया है.
 
-### ['किताब का नाम बिलॉन्गिंग नहीं व्हाइटवॉशिंग होना चाहिए': सोनिया गांधी की किताब पर भाजपा हमलावर, क्या](https://www.amarujala.com/india-news/bjp-targets-sonia-gandhi-book-belonging-amid-political-row-reactions-2026-11-10)
-*Amar Ujala National* - Nov 10, 12:55 IST (iso: 2026-11-10T07:25:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/saaara-kasavana-bhajapa-ka-rashhataraya-paravakata_e2163a28b33c71c93e5d3e39b5ee8e0f.jpeg?w=1200&dpr=1.0 -->
+### [एयरबेस छोड़कर रातों-रात भागे अमेरिकी फाइटर जेट, ईरान से ऐसी क्या खबर आई? रातों-रात निकल गई ट्रंप की](https://hindi.news18.com/world/america-us-evacuates-fighter-jets-from-uk-air-base-iran-secret-intel-after-donald-trump-war-over-claim-10977683.html)
+*News18 Hindi (World)* - Nov 10, 19:57 IST (iso: 2026-11-10T14:27:16+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-Evacuates-Fighter-Jets-from-UK-Air-Base-Iran-secret-intel-2026-11-2b24949228a7eee4dac16b778c7dfebb-1200x800.jpg -->
 
-भाजपा ने सोनिया गांधी की किताब 'बिलॉन्गिंग' पर हमला किया है। पार्टी का कहना है कि किताब का नाम व्हाइटवॉशिंग होना चाहिए। यह राजनीतिक विवाद गहराता जा रहा है। 'किताब का नाम बिलॉन्गिंग नहीं व्हाइटवॉशिंग होना चाहिए': सोनिया गांधी की किताब पर भाजपा हमलावर, क्या लगाए आरोप?
+ईरान से मिली खुफिया रिपोर्ट के बाद अमेरिका ने ब्रिटेन के आरएएफ मिल्डेनहॉल एयरबेस से अपने सभी फाइटर जेट और हथियार तुरंत हटा लिए। ट्रंप ने युद्ध समाप्त होने का दावा किया, लेकिन सैन्य तैनाती में बदलाव हुआ। ईरान से एक खतरनाक खुफिया रिपोर्ट मिलने के बाद अमेरिका की रातों-रात हवा टाइट हो गई है. डर के मारे अमेरिका ने ब्रिटेन के आरएएफ मिल्डेनहॉल एयरबेस से अपने सभी फाइटर जेट्स और सैन्य हथियारों को तुरंत सुरक्षित जगह पर शिफ्ट कर दिया है.
 
-### [सर्दियों में अचानक क्यों बढ़ जाता है ब्लड प्रेशर? जानें 6 बड़ी वजहें और बचाव के तरीके](https://www.amarujala.com/photo-gallery/lifestyle/fitness/why-does-blood-pressure-suddenly-increase-in-winter-causes-symptoms-and-prevention-tips-2026-11-10)
-*Amar Ujala National* - Nov 10, 12:52 IST (iso: 2026-11-10T07:22:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/how-to-control-bp-in-winter_6ad792408282851c5facb5ef6227bbe2.jpeg?w=1200&dpr=1.0 -->
+### [जो देश पाकिस्तान को बेचता है हथियार, वो भारत के ब्रह्मोस पर हुआ फिदा, कुछ दिनों में फैलाएगा हाथ?](https://hindi.news18.com/world/south-asia-turkey-is-eyeing-india-brahmos-ng-supersonic-missile-why-pakistan-arms-supplier-interest-in-bharat-russia-weapon-power-10977569.html)
+*News18 Hindi (World)* - Nov 10, 19:09 IST (iso: 2026-11-10T13:39:37+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Turkey-is-Eyeing-India-BrahMos-NG-Supersonic-Missile-2026-11-7ee56d91acd83c141ff0ffbc0391e6e2-1200x800.jpg -->
 
-सर्दियों में ठंडे मौसम से रक्त वाहिकाएं सिकुड़ जाती हैं, जिससे ब्लड प्रेशर बढ़ जाता है। यह वृद्धि हृदय पर अतिरिक्त दबाव डालती है। विशेषज्ञ सलाह देते हैं कि सर्दियों में नमक की मात्रा कम करें और नियमित रूप से दवाएं लें। इस लेख में जानें कि सर्दियों के मौसम में ब्लड प्रेशर अचानक क्यों बढ़ने लगता है और ठंड का असर दिल व रक्त वाहिकाओं पर किस तरह पड़ता है।
+तुर्की के डिफेंस मीडिया ने भारत की ब्रह्मोस-एनजी मिसाइल की तकनीकी क्षमताओं पर विस्तृत चर्चा की। पाकिस्तान को हथियार बेचने वाले इस नाटो सदस्य देश में भारतीय रक्षा तकनीक की मांग बढ़ने के संकेत मिल रहे हैं। तुर्की एक तरफ पाकिस्तान को अपने हथियार बेचता है और दूसरी तरफ नाटो का मेंबर भी है. इसके बावजूद, तुर्की का डिफेंस मीडिया भारत की सुपरसोनिक क्रूज मिसाइल 'ब्रह्मोस-एनजी' की ताकत पर लगातार नजर बनाए हुए है.
 
-### [21 की उम्र में थीं करोड़ों की मालकिन, शादी के बाद छोड़ी एक्टिंग; पति के निधन के बाद क्यों की वापसी?](https://www.amarujala.com/entertainment/neetu-kapoor-had-mercedes-and-five-properties-at-the-age-21-but-left-acting-amid-peak-success-2026-11-10)
-*Amar Ujala National* - Nov 10, 12:44 IST (iso: 2026-11-10T07:14:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/11/nata-kapara_22aad80426d5edf0cc96b185f36c7c22.jpeg?w=1200&dpr=1.0 -->
+### [सऊदी अरब ने यमन में की एयरस्ट्राइक्स, गैस स्टेशन और तेल कंपनी की बिल्डिंग को बनाया निशाना](https://www.patrika.com/world-news/saudi-arabia-airstrikes-hit-gas-facility-and-oil-company-building-in-yemen-21039525)
+*Patrika (World)* - Nov 10, 15:12 IST (iso: 2026-11-10T09:42:55+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/saudi-arabia-attacks-sanaa.webp -->
 
-नीतू कपूर ने बाल कलाकार के रूप में फिल्मी करियर की शुरुआत की थी। उन्होंने जल्द ही करोड़ों की संपत्ति बना ली। शादी के बाद उन्होंने एक्टिंग छोड़ दी थी। पति के निधन के बाद उन्होंने फिर से फिल्मों में वापसी का फैसला किया। नीतू कपूर फिल्मी दुनिया की मशहूर अभिनेत्री रही हैं। एक्ट्रेस ने बाल कलाकार के रुप में करियर की शुरुआत की थी।
+सऊदी अरब ने यमन की राजधानी सना में हूती नियंत्रित क्षेत्रों पर एयरस्ट्राइक की। हमले में गैस स्टेशन और तेल कंपनी की इमारतें निशाना बनीं। दोनों पक्षों के बीच हमलों का सिलसिला जारी है। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इसके साथ ही हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला थम नहीं रहा है।
 
-### [सरकार के खिलाफ टिप्पणी करना पड़ा भारी? कोलकाता पुलिस के इंस्पेक्टर निलंबित; जानें पूरा मामला](https://www.amarujala.com/india-news/kolkata-police-inspector-eklak-ahmed-suspended-social-media-remarks-against-officials-2026-11-10)
-*Amar Ujala National* - Nov 10, 12:42 IST (iso: 2026-11-10T07:12:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/20/nalbna-sakataka-tasavara_14e5bbed01292d282ff81a566c75e682.jpeg?w=1200&dpr=1.0 -->
+### [ईरान ने कर दी डिमांड – ‘युद्ध खत्म करने के लिए अमेरिका करें हमारी 7 शर्तों के सामने सरेंडर’](https://www.patrika.com/world-news/iran-demands-us-surrender-to-its-7-conditions-to-end-war-21039434)
+*Patrika (World)* - Nov 10, 14:49 IST (iso: 2026-11-10T09:19:04+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/rezaei.webp -->
 
-कोलकाता पुलिस के इंस्पेक्टर एक्लक अहमद को निलंबित कर दिया गया है। उन्हें सोशल मीडिया पर सरकारी अधिकारियों के खिलाफ की गई टिप्पणियों के कारण सस्पेंड किया गया है। पश्चिम बंगाल में यह मामला चर्चा का विषय बना हुआ है। पश्चिम बंगाल: सरकार के खिलाफ टिप्पणी करना पड़ा भारी? कोलकाता पुलिस के इंस्पेक्टर निलंबित; जानें पूरा मामला।
+ईरान के सैन्य सलाहकार मोहसेन रेज़ाई ने अमेरिका से युद्ध समाप्त करने की सात शर्तों पर सहमति मांगी। दोनों देशों के बीच तनाव जारी है। शर्तों की विस्तृत जानकारी स्रोत में उपलब्ध नहीं है। युद्ध अभी भी खत्म नहीं हुआ है, क्योंकि दोनों पक्षों के बीच एक-दूसरे की शर्तों पर सहमति नहीं बन पा रही है। इसी बीच अब ईरान के वरिष्ठ सैन्य सलाहकार और ईरानी सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव मोहसेन रेज़ाई (Mohsen Rezaei) ने युद्ध खत्म करने के मामले में बड़ी डिमांड कर दी है।
 
-### [आज शीतकाल के लिए बंद हुए गंगोत्री मंदिर के कपाट, मुखबा के लिए रवाना हुई मां गंगा की डोली](https://www.amarujala.com/uttarakhand/uttarkashi/gangotri-temple-closes-today-for-winter-goddess-ganga-worship-to-continue-at-mukhba-chardham-yatra-2026-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 12:27 IST (iso: 2026-11-10T06:57:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/04/30/gangotri-dham-chardham-yatra-2025_51762ec719fb7c87229a67d8ebbefc48.jpeg?w=1200&dpr=1.0 -->
+### [ईरान का बड़ा दावा, कहा- होर्मुज में अमेरिकी मदद वाला नेविगेशन सिस्टम नष्ट, तेल तस्करी पर लगी रोक](https://www.patrika.com/world-news/iran-claims-destruction-of-navigation-systems-in-strait-of-hormuz-21039277)
+*Patrika (World)* - Nov 10, 13:49 IST (iso: 2026-11-10T08:19:28+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/hormuz.webp -->
 
-गंगोत्री धाम के कपाट मंगलवार दोपहर 12:05 बजे छह माह के शीतकाल के लिए बंद कर दिए गए। इस अवसर पर मां गंगा की डोली मुखबा के लिए रवाना हुई। विश्व प्रसिद्ध गंगोत्री धाम के कपाट मंगलवार को अन्नकूट पर्व एवं गोवर्धन पूजा के पावन अवसर पर अभिजीत मुहूर्त में दोपहर 12 बजकर 05 मिनट पर वैदिक मंत्रोच्चार और विधि-विधान के साथ छह माह के शीतकाल के लिए बंद कर दिए गए।
+ईरान ने दावा किया कि उसने ओमान के डिडामार द्वीप पर अमेरिकी नेविगेशन सिस्टम नष्ट किए। इसके बाद होर्मुज से तेल की आवाजाही पूरी तरह रुक गई। स्ट्रेट ऑफ होर्मुज में तनाव के बीच ईरान ने दावा किया है कि उसने अमेरिकी जहाजों की मदद के रहे नेविगेशन सिस्टम को नष्ट कर दिया गया है। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) के एक नौसैनिक अधिकारी ने सरकारी टीवी चैनल IRIB को बताया कि ओमान के डिडामार द्वीप पर इन सिस्टम को नष्ट किए जाने के बाद, कल रात उस रास्ते से कोई जहाज नहीं गुजरा और इस इलाके से तेल की आवाजाही पूरी तरह से रुक गई है।
 
-### [आज आएगी या करना होगा इंतजार? जानें 10वीं-12वीं की परीक्षा कब से होने की उम्मीद](https://www.amarujala.com/education/icse-isc-date-sheet-2027-when-will-cisce-release-class-10-and-12-timetables-check-expected-exam-dates-2026-11-10)
-*Amar Ujala National* - Nov 10, 12:27 IST (iso: 2026-11-10T06:57:19+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/aaiisaesaii-datashata-2027_a0cf6e64cac70813ccd9f319b39e92d4.jpeg?w=1200&dpr=1.0 -->
+### [पीट हेगसेथ के सिर पर फूटा ईरान युद्ध का ठींकरा, अपनों ने किया डंप, अकेले क्या कर लेंगे ट्रंप?](https://hindi.news18.com/world/america-pete-hegseth-impeachment-over-iran-war-republican-turns-against-trump-backs-ws-l-10976052.html)
+*News18 Hindi (World)* - Nov 10, 12:08 IST (iso: 2026-11-10T06:38:05+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/Pete-Hegseth-Reuters-2026-05-9a2ac47e4db5d9415a312cf055350829-1200x800.jpg -->
 
-सीआईएससीई की 2027 बोर्ड परीक्षा की समय-सारणी 10 नवंबर को जारी होने की संभावना है। हालांकि, बोर्ड की ओर से अभी तक आधिकारिक पुष्टि नहीं हुई है। सीआईएससीई की आईसीएसई 10वीं और आईएससी 12वीं की 2027 बोर्ड परीक्षा की समय-सारणी आज 10 नवंबर को जारी होने की संभावना जताई गई थी। हालांकि, बोर्ड की ओर से इसकी आधिकारिक पुष्टि नहीं हुई है।
+अमेरिकी रक्षा मंत्री पीट हेगसेथ पर ईरान युद्ध को लेकर इस्तीफे की मांग उठी है। उनकी पार्टी के ही सांसद अब उनके खिलाफ आवाज उठा रहे हैं। Pete Hegseth Impeachment Over Iran War: अमेरिकी राजनीति में इस वक्त सबसे ज्यादा चर्चा में जो नाम है- वो पीट हेगसेथ है. थोड़े दिनों पहले तक उनका चेहरा अंतरराष्ट्रीय मीडिया में सबसे ज्यादा चमक रहा था, लेकिन इस वक्त वही अपनी पार्टी के सांसदों के भी निशाने पर हैं.
 
-### ['राष्ट्रीय सुरक्षा में जनता की अहम भूमिका': पूर्व सीडीएस अनिल चौहान बोले- सतर्कता, जागरूकता और](https://www.amarujala.com/india-news/former-cds-anil-chauhan-national-security-aware-citizens-jnu-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 12:13 IST (iso: 2026-11-10T06:43:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/former-cds-anil-chauhan_0d7b84bb4973b83d7e947da72f63847b.jpeg?w=1200&dpr=1.0 -->
+### [मदीना तक पहुंची हूतियों की मिसाइल, सऊदी की पाइपलाइन टार्गेट पर, कितना नुकसान?](https://hindi.news18.com/world/middle-east-houthi-attack-on-saudi-east-west-oil-pipeline-hit-in-medina-according-to-state-media-10975993.html)
+*News18 Hindi (World)* - Nov 10, 10:38 IST (iso: 2026-11-10T05:08:10+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-3-2026-10-5b0eaa687106e5f3ae5f71b04eb1ddc1-1200x800.jpg -->
 
-पूर्व सीडीएस अनिल चौहान ने कहा कि राष्ट्रीय सुरक्षा में जनता की भूमिका अहम है। उन्होंने सतर्कता, जागरूकता और कार्रवाई की आवश्यकता पर जोर दिया। 'राष्ट्रीय सुरक्षा में जनता की अहम भूमिका': पूर्व सीडीएस अनिल चौहान बोले- सतर्कता, जागरूकता और कार्रवाई जरूरी former-cds-anil-chauhan-national-security-aware-citizens-jnu।
-
-### [81 साल की उम्र में तिलोनिया में ली अंतिम सांस; आज शाम होगा अंतिम संस्कार](https://www.amarujala.com/rajasthan/padma-shri-bunker-roy-dies-at-81-barefoot-college-founder-tilonia-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 12:07 IST (iso: 2026-11-10T06:37:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/pathamashara-bkara-raya-ka-nathhana_04a7231f6b26904c69a31742b0bebb1d.jpeg?w=1200&dpr=1.0 -->
-
-सामाजिक कार्यकर्ता संजीत रॉय का मंगलवार सुबह राजस्थान के तिलोनिया में निधन हो गया। वे 81 वर्ष के थे और बेयरफुट कॉलेज के संस्थापक थे। प्रख्यात सामाजिक कार्यकर्ता और बेयरफुट कॉलेज के संस्थापक संजीत 'बंकर' रॉय का मंगलवार सुबह राजस्थान के अजमेर जिले के तिलोनिया में निधन हो गया। उन्होंने सुबह 6:15 बजे अपने आवास पर अंतिम सांस ली। 81 साल की उम्र में तिलोनिया में ली अंतिम सांस; आज शाम होगा अंतिम संस्कार।
-
-### [अब एक्सप्रेसवे पर चलने से पहले होगी चालकों की जांच; बिना फिटनेस नहीं मिलेगी एंट्री; हादसों पर सरकार](https://www.amarujala.com/lucknow/drivers-will-now-be-checked-before-traveling-on-expressways-in-up-entry-will-be-denied-without-fitness-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 12:05 IST (iso: 2026-11-10T06:35:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/06/aagara-lkhanauu-ekasaparasava_17d6663cf31a1a121077301a0e49604c.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर प्रदेश सरकार ने लखनऊ-आगरा एक्सप्रेसवे पर हादसे के बाद सड़क सुरक्षा नियमों में बदलाव किया है। अब चालकों की फिटनेस जांच अनिवार्य होगी। बिना पास होने वाले ड्राइवरों को एंट्री नहीं मिलेगी। लखनऊ-आगरा एक्सप्रेसवे पर हुए भीषण बस हादसे के बाद उत्तर प्रदेश सरकार ने सड़क सुरक्षा को लेकर सख्त रुख अपनाया है। अब एक्सप्रेसवे पर चलने से पहले होगी चालकों की जांच; बिना फिटनेस नहीं मिलेगी एंट्री; हादसों पर सरकार।
-
-### [राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र](https://www.amarujala.com/india-news/sonia-gandhi-memoir-rahul-rajiv-gandhi-assassination-indira-gandhi-temper-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 11:30 IST (iso: 2026-11-10T06:00:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/sonia-gandhi-memoir_b7a285892f3e2b1bf1a29a216c1db25e.jpeg?w=1200&dpr=1.0 -->
-
-सोनिया गांधी की किताब में राजीव गांधी की हत्या से पहले की घटनाओं का उल्लेख है। इंदिरा गांधी के गुस्से और अनहोनी की आशंका जताने वाले व्यक्ति का जिक्र किया गया है। सोनिया की किताब में खुलासा: राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र।
-
-### [2022 में फेल रहे, 2026 में चलेगा एआईएमआईएम का जादू? ओवैसी के मेरठ दौरे को लेकर सियासी सरगर्मी तेज](https://www.amarujala.com/uttar-pradesh/meerut/up-election-2027-will-owaisi-aimim-make-an-impact-in-meerut-first-rally-scheduled-for-november-14-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 11:25 IST (iso: 2026-11-10T05:55:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/owaisi_47a28b5b71f33aa1dc13da5662f13182.jpeg?w=1200&dpr=1.0 -->
-
-एआईएमआईएम ने उत्तर प्रदेश विधानसभा चुनाव 2027 के लिए अपनी तैयारी शुरू कर दी है। असदुद्दीन ओवैसी के मेरठ दौरे के बाद राजनीतिक गतिविधियां तेज हो गई हैं। पार्टी इस बार मजबूती से मैदान में उतरने का दावा कर रही है। उत्तर प्रदेश विधानसभा चुनाव-2027 को लेकर राजनीतिक दलों की सुगबुगाहट तेज हो गई है। ऑल इंडिया मजलिस-ए-इत्तेहादुल मुस्लिमीन (एआईएमआईएम) इस बार सूबे में पूरी मजबूती के साथ चुनाव मैदान में उतरने का दम भर रही है।
-
-### [तेज रफ्तार कार ने बाइक में मारी टक्कर, तीन की मौत और एक गंभीर घायल, फरार चालक की तलाश जारी](https://www.amarujala.com/uttar-pradesh/kanpur/kannauj-speeding-car-hits-motorcycle-three-dead-one-critically-injured-search-underway-for-absconding-driver-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 10:52 IST (iso: 2026-11-10T05:22:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/kanpur_0c8b746af83ce8a8017a1702d52f3a50.jpeg?w=1200&dpr=1.0 -->
-
-कन्नौज के इंदरगढ़ में तेज रफ्तार कार ने बाइक में टक्कर मारी। तीन लोगों की मौत हो गई और एक युवक गंभीर रूप से घायल हुआ। कार चालक मौके से फरार हो गया है। कन्नौज जिले के इंदरगढ़ थाना क्षेत्र में सोमवार देर रात तेज रफ्तार कार की टक्कर से बाइक सवार तीन लोगों की मौत हो गई, जबकि एक युवक गंभीर रूप से घायल हो गया।
+यमन के हूती समूह ने सऊदी अरब की मदीना तेल पाइपलाइन पर मिसाइल हमला किया। यह घटना दोनों देशों के बीच तनाव को और बढ़ाती है। पाइपलाइन पर हुए नुकसान का आकलन जारी है। Saudi Madina Oil Pipeline Hit: हूतियों की ताकत का अंदाजा शायद सऊदी अरब को भी नहीं रहा होगा, जब उसने यमन की सरकार के साथ मिलकर उनके अड्डों पर हमले किए थे.
 
 ---
 
 ## एशिया-प्रशांत
 
-### [बचपन में झेली बुलिंग, 30 की उम्र में बनाई चिप कंपनी; आज 4.5 ट्रिलियन डॉलर की NVIDIA के हैं बॉस](https://www.amarujala.com/technology/tech-diary/jensen-huang-nvidia-ceo-success-story-ai-empire-and-controversy-wife-details-2026-11-10)
-*Amar Ujala National* - Nov 10, 12:58 IST (iso: 2026-11-10T07:28:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/jensen-huang-nvidia-ceo_e8f42b21bde2fa1a2ac15e13fec1903d.jpeg -->
+### [अमरीका में चुनावी नतीजों से चीन के साथ बदल सकते हैं व्यापारिक रिश्ते, क्या किसानों को होगा फायदा?](https://www.patrika.com/world-news/us-midterm-election-impact-china-agriculture-trade-soybean-exports-21040081)
+*Patrika (World)* - Nov 10, 19:59 IST (iso: 2026-11-10T14:29:00+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/us-china.webp -->
 
-जेन्सेन हुआंग ने NVIDIA को 4.5 ट्रिलियन डॉलर की कंपनी बनाया है। वह एआई क्षेत्र में प्रमुख व्यक्ति हैं। ताइवान में जन्मे हुए उन्होंने अमेरिका में करियर बनाया। Jensen Huang Biography: दुनिया की सबसे मूल्यवान कंपनियों में से एक, NVIDIA के सीईओ जेन्सेन हुआंग आज एआई के क्षेत्र में सबसे ताकतवर शख्सियतों में गिने जाते हैं। ताइवान में जन्मे और अमेरिका में पले-बढ़े हुआंग ने एक छोटी सी कंपनी से शुरुआत।
+अमेरिकी मध्यावधि चुनावों के बाद ट्रंप की संभावित हार पर चीन अमेरिकी कृषि उत्पादों पर टैरिफ कम कर सकता है। इससे दोनों देशों के बीच व्यापारिक तनाव में कमी आने की उम्मीद जताई गई है। China-US Trade: अमेरिका के मध्यावधि चुनावों के परिणाम से अब अमेरिका के दूसरे देशों के साथ संबंध में बदलाव आने की संभावना जताई जा रही है।
 
-### [सीएम रेखा ने किया 'नमो यमुना रिवर सफारी' का शुभारंभ, जानें क्रूज का टिकट और रूट](https://www.amarujala.com/delhi-ncr/double-gift-from-delhi-govt-to-people-of-delhi-this-diwali-yamuna-river-cruise-service-and-free-gas-cylinders-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 12:53 IST (iso: 2026-11-10T07:23:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/makhayamatara-rakha-gapata-na-yamana-safara-ka-kaya-shabharabha_0781525e228caab2fcc8ec285ae6a84b.jpeg?w=1200&dpr=1.0 -->
+### [NVIDIA CEO को बड़ी महंगी पड़ सकती है बेवफाई! बीवी ने ठान लिया तो टूट जाएंगे एलिमनी के सब रिकॉर्ड](https://hindi.news18.com/world/america-nvidia-ceo-jensen-huang-wife-lori-divorce-alimony-to-reach-75-billion-dollar-after-affair-scandal-alice-huang-10977434.html)
+*News18 Hindi (World)* - Nov 10, 17:54 IST (iso: 2026-11-10T12:24:26+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/NVIDIA-CEO-Divorce-Alimoney-2026-11-dd0f3dfbf6f358644fca3f2d153a31e2-1200x800.jpg -->
 
-दिल्ली सीएम रेखा गुप्ता ने नमो यमुना रिवर सफारी शुरू की। यह सेवा दिवाली पर जनता के लिए उपलब्ध है। क्रूज के टिकट और रूट की जानकारी जारी की गई है। दिल्ली सरकार ने दिवाली पर दिल्ली की जनता को बड़ा तोहफा दिया। मुख्यमंत्री रेखा गुप्ता ने यमुना रिवर सफारी सेवा का उद्घाटन किया। सीएम रेखा ने किया 'नमो यमुना रिवर सफारी' का शुभारंभ, जानें क्रूज का टिकट और रूट।
+जेन्सेन हुआंग की पत्नी लोरी ने तलाक का फैसला किया तो कैलिफोर्निया कानून के तहत एनवीडिया के भारी शेयर मांग सकती हैं। यह कदम बिल गेट्स और जेफ बेजोस को पीछे छोड़ देगा। एनवीडिया के सीईओ जेन्सेन हुआंग का अफेयर सामने आने के बाद, उनकी गर्लडफ्रेंड एलिस हुआंग के चीनी जासूस होने का शक है. इस खुलासे के बाद उनकी पत्नी लोरी हुआंग चर्चा में आ गई हैं.
 
-### [टाइगर पर हुए हमले का असर: मुंबई पुलिस की अभिनेताओं को सलाह, भीड़-भाड़ वाली जगहों पर जानें से बचें](https://www.amarujala.com/entertainment/mumbai-police-advised-bollywood-actors-to-avoid-public-places-and-interactions-with-fans-amid-security-concern-2026-11-10)
-*Amar Ujala Breaking* - Nov 10, 12:32 IST (iso: 2026-11-10T07:02:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/taigara-sharafa-para-hae-hamal-ka-btha-mabii-palsa-ka-salha_a409178a0fdb67ae4fa3635e5c82969b.jpeg?w=1200&dpr=1.0 -->
+### [पाकिस्तान में हाफिज सईद की पार्टी को झटका, उपचुनाव में PML-N ने हराया, मिले 30000 वोट](https://hindi.news18.com/world/pakistan-hafiz-saeed-party-lost-by-election-pml-n-wins-in-punjab-pakistan-ws-l-10977324.html)
+*News18 Hindi (World)* - Nov 10, 17:31 IST (iso: 2026-11-10T12:01:44+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/jammu-court-nbw-hafiz-saeed-pahalgam-terror-attack-trial-in-absentia-2026-07-4337f9768e65e6ba926582aef03fcaa7-1200x800.jpg -->
 
-टाइगर श्रॉफ पर हुए हमले के बाद मुंबई पुलिस ने अभिनेताओं की सुरक्षा बढ़ाई है। पुलिस ने बॉलीवुड स्टार्स से अपील की है कि वे भीड़-भाड़ वाली जगहों पर जाने से बचें। यह सलाह सुरक्षा जोखिम कम करने के लिए दी गई है। बीते दिनों अभिनेता टाइगर श्रॉफ पर हुए हमले के बाद मुंबई पुलिस लगातार बॉलीवुड अभिनेताओं की सुरक्षा में जुटी हुई है।
+गुजरांवाला उपचुनाव में हाफिज सईद की पार्टी को करारी हार का सामना करना पड़ा। पीएमएल-एन ने 30,000 वोटों के अंतर से जीत दर्ज की। Pakistan By Election Hafiz Saeed Party Looses: जिस हाफिज सईद को मोस्ट वांटेड अपराधियों में शुमार किया गया है, उसे पाकिस्तान ने न सिर्फ पनाह दी है बल्कि उससे जुड़ी हुई राजनीतिक पार्टी भी है. हालांकि गुजरांवाला के उपचुनाव में आतंकी हाफिज सईद की पार्टी को करारी हार का सामना करना पड़ा है.
 
-### [भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की](https://www.amarujala.com/world/saba-haider-tells-about-politics-family-ghaziabad-origin-and-on-us-midterm-election-2026-11-10)
-*Amar Ujala World* - Nov 10, 12:08 IST (iso: 2026-11-10T06:38:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/mata-pata-sa-mal-sasakara-na-kasa-bthal-sab-ka-jathaga_15982391cd60c99dee8dbcda693bfd1d.jpeg?w=1200&dpr=1.0 -->
+### [कौन हैं नैटली बेकर, जिन्हें डोनाल्ड ट्रंप ने पाकिस्तान में अगला राजदूत नामित किया](https://hindi.news18.com/world/pakistan-natalie-baker-becomes-next-us-ambassador-to-pakistan-ws-l-10977373.html)
+*News18 Hindi (World)* - Nov 10, 17:19 IST (iso: 2026-11-10T11:49:51+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Natalie-A.-Baker-1-2026-11-8a75c7b1bd4a8d85475485ac1ae0794d-1200x800.jpg -->
 
-गजियाबाद की सबा हैदर ने अमेरिका की राजनीति में अपनी जगह बनाई। उन्होंने अपनी सफलता के पीछे की कहानी खुद साझा की। यह यात्रा एक साधारण शुरुआत से लेकर अंतरराष्ट्रीय मंच तक की है। गाजियाबाद से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की कहानी। भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर?
+डोनाल्ड ट्रंप ने नैटली बेकर को पाकिस्तान में अमेरिकी राजदूत नामित किया। उन्हें सीनेट की मंजूरी चाहिए। बेकर पहले से ही मिशन प्रमुख के तौर पर वहां तैनात हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने नैटली बेकर को पाकिस्तान में अगला अमेरिकी राजदूत नामित किया है. हालांकि, इस पद को संभालने के लिए उन्हें अभी अमेरिकी सीनेट की मंजूरी लेनी होगी.
+
+### [‘अगर शेख हसीना वापस लौटी तो सज़ा-ए-मौत के अलावा नहीं कोई और ऑप्शन’, बांग्लादेश के अभियोजक का दावा](https://www.patrika.com/world-news/sheikh-hasina-has-no-option-but-death-sentence-if-she-returns-bangladesh-prosecutor-claims-21039801)
+*Patrika (World)* - Nov 10, 17:12 IST (iso: 2026-11-10T11:42:02+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/sheikh-hasina_.webp -->
+
+बांग्लादेश के अभियोजक का दावा है कि शेख हसीना की वापसी पर मौत की सज़ा ही विकल्प है। वह 5 अगस्त 2024 से भारत में शरण में हैं। बांग्लादेश (Bangladesh) में 2024 में बड़ा राजनीतिक उलटफेर हो गया था, जब तत्कालीन प्रधानमंत्री शेख हसीना (Sheikh Hasina) को पीएम पद और देश छोड़कर भागना पड़ा था। बांग्लादेश में राजनीतिक अस्थिरता के चलते 5 अगस्त 2024 को शेख हसीना को अपनी बहन शेख रेहाना (Sheikh Rehana) के साथ बांग्लादेश छोड़ना पड़ा और वह भारत (India) आ गई थीं।
+
+### [समय से पहले हड्डियां कंपा देगी ठंड, 24 घंटों में इन इलाकों का होगा बुरा हाल, मौसम विभाग भी हैरान](https://hindi.news18.com/world/rest-of-world-heavy-snow-warning-japan-hit-by-brutal-midwinter-blizzard-sapporo-temperatures-plunge-to-minus-3-degrees-mausam-in-24-hours-10977152.html)
+*News18 Hindi (World)* - Nov 10, 16:10 IST (iso: 2026-11-10T10:40:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Japan-Winter-2026-11-9d6677edca73c5facd274a0d505e17c7-1200x800.jpg -->
+
+जापान के होक्काइडो में अचानक आई ठंड ने सप्पोरो और बिफुका में रेड अलर्ट जारी कर दिया। तापमान माइनस पांच डिग्री तक गिर गया। शून्य दृश्यता के कारण ट्रेनें और उड़ानें प्रभावित हुईं। जापान के होक्काइडो में ठंड ने कहर ढा दिया है. यहां समय से पहले ही भारी बर्फबारी शुरू हो गई है. सप्पोरो और बिफुका जैसे इलाकों में अगले 24 घंटों के लिए रेड अलर्ट जारी कर दिया गया है.
+
+### [लैंडिंग के दौरान प्लेन की हुई कार से टक्कर, ऑस्ट्रेलिया में दो लोग घायल](https://www.patrika.com/world-news/plane-crashes-into-car-2-people-injured-in-australia-21039568)
+*Patrika (World)* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:46+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/plane-crashes-into-car.webp -->
+
+ऑस्ट्रेलिया में 10 नवंबर को लैंडिंग के दौरान विमान की कार से टक्कर हो गई। इस हादसे में दो लोग घायल हुए। स्रोत में विमान या हवाई अड्डे का नाम नहीं बताया गया। विमान हादसों के मामले दुनियाभर में बढ़ रहे हैं। दुनियाभर में आए दिन कहीं न कहीं विमान हादसों के मामले देखने को मिलते हैं। पिछले दो साल में प्लेन क्रैश (Plane Crash) होने के कई मामले देखे गए हैं।
+
+### [भारत से जाते ही हाजिरी बजाने पाकिस्तान पहुंचे बांग्लादेशी खुफिया प्रमुख, हमारे लिए क्यों है टेंशन](https://hindi.news18.com/world/south-asia-bangladesh-intel-chief-secretly-reaches-pakistan-11-days-after-india-visit-why-tension-for-us-ws-l-10976367.html)
+*News18 Hindi (World)* - Nov 10, 14:21 IST (iso: 2026-11-10T08:51:19+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-news-2026-11-2bfbb2063d7f0dbd31b0215a9fba4c8d-1200x800.jpg -->
+
+बांग्लादेश के खुफिया प्रमुख ने पाकिस्तान का दौरा किया। यह सफर भारत के लिए चिंता का विषय है। देश की नई सरकार पाकिस्तान के निर्देशों पर चल रही है। पहले जो देश निरपेक्ष पॉलिसी लेकर चलता था, वो अब पाकिस्तान की कठपुतली बना हुआ है. एक तरफ तो वो भारत से रिश्ते सुधारना भी चाहता है और वहीं दूसरी तरफ बिना अपने आका पाकिस्तान के एक कदम भी आगे नहीं बढ़ाता.
 
 ### [किस 'टेरिबल एक्‍सपीरिएंस' की बात कर रही थीं पाकिस्‍तानी एकंर राबिया, पति मोहरा, कोई और है असली](https://hindi.news18.com/world/pakistan-pakistan-tv-female-news-anchor-rabia-ahsan-whatsapp-account-hacked-before-murder-husband-just-pawn-asim-munir-pakistan-army-photogallery-10975985.html)
 *News18 Hindi (World)* - Nov 10, 11:12 IST (iso: 2026-11-10T05:42:30+00:00)
@@ -124,21 +118,21 @@ Google AI Studio में नया टूल लॉन्च हुआ है�
 
 एनवीडिया के सीईओ जेनसन हुआंग की संपत्ति में 9 नवंबर को 7.4 अरब डॉलर की गिरावट आई। यह गिरावट चीनी जासूसी के संदेह और निजी विवादों के बीच आई। फोर्ब्स ने यह आंकड़ा जारी किया। Jensen Huang Net Worth: दुनिया के बड़े अरबपतियों में शामिल Nvidia के CEO जेनसन हुआंग इन दिनों अपनी निजी जिंदगी को लेकर विवादों में हैं।
 
+### [Nvidia CEO जेनसन हुआंग की मुश्किलें बढ़ीं: चीनी जासूसी विवाद में शेयरधारकों ने ठोका केस, ट्रंप](https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-lawsuit-alice-huang-china-spy-allegations-21038895)
+*Patrika (World)* - Nov 10, 09:39 IST (iso: 2026-11-10T04:09:28+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-8.webp -->
+
+शेयरधारकों ने एनवीडिया और जेन्सेन हुआंग के खिलाफ क्लास-एक्शन मुकदमा दायर किया। आरोप है कि चीनी जासूसी विवाद में निवेशकों को सूचना नहीं दी गई। अमेरिकी निवेशकों ने आर्टिफिशियल इंटेलिजेंस (AI) की दिग्गज कंपनी एनवीडिया (Nvidia) और इसके CEO जेन्सेन हुआंग के खिलाफ कानूनी कार्रवाई शुरू कर दी है। कैलिफोर्निया के सैन होजे में अमेरिकी अदालत में दायर एक क्लास-एक्शन मुकदमे में शेयरधारकों का आरोप है कि कंपनी और हुआंग ने निवेशकों को अंधेरे में रखा।
+
 ---
 
 ## यूरोप और रूस
 
-### [10 या 11 नवंबर कब मनाई जाएगी भाई दूज? यहां जानें तिलक लगाने का शुभ मुहूर्त और पूजा विधि](https://www.amarujala.com/photo-gallery/spirituality/festivals/bhai-dooj-2026-date-and-time-tilak-shubh-muhurat-puja-vidhi-bhai-dooj-kab-hai-2026-11-09)
-*Amar Ujala National* - Nov 10, 12:56 IST (iso: 2026-11-10T07:26:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/bhai-dooj-2026_45e1338f02a3236dab420c6efe260dfe.jpeg?w=1200&dpr=1.0 -->
+### [हाइवे पर एक के बाद एक टकराईं 50 गाड़ियां, सड़क बन गई कब्रिस्तान, ड्रोन फुटेज देखकर रेस्क्यू टीम के](https://hindi.news18.com/world/europe-bulgaria-highway-crash-50-vehicles-shocking-drone-footage-pile-up-in-massive-zero-visibility-fog-accident-on-trakia-motorway-10977506.html)
+*News18 Hindi (World)* - Nov 10, 18:28 IST (iso: 2026-11-10T12:58:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Bulgaria-Highway-Accident-2026-11-48cbaac3b761c3338686849a0f067697-1200x800.jpg -->
 
-भाई दूज 2026 में 10 या 11 नवंबर को मनाई जाएगी। यह कार्तिक मास की द्वितीया तिथि पर पड़ता है। तिलक लगाने का शुभ मुहूर्त तय हो गया है। भाई दूज हर साल कार्तिक मास के शुक्ल पक्ष की द्वितीया तिथि को मनाई जाती है। आइए जानते हैं साल 2026 में भाई दूज किस दिन मनाई जाएगी और तिलक करने के लिए कौन-सा समय शुभ रहेगा।
-
-### [किस अस्पताल में करवा सकते हैं आयुष्मान कार्ड से मुफ्त इलाज? घर बैठे ऐसे करें चेक](https://www.amarujala.com/photo-gallery/utility/ayushman-card-free-treatment-how-to-check-which-hospitals-offer-free-treatment-under-the-scheme-2026-11-10)
-*Amar Ujala National* - Nov 10, 12:43 IST (iso: 2026-11-10T07:13:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/aayashhamana-karada-sa-kana-asapatal-ma-mafata-ilja-karava-sakata-ha_088647a06d0517af63eaad7b376a8df1.jpeg?w=1200&dpr=1.0 -->
-
-आयुष्मान कार्ड धारकों को प्रतिवर्ष पांच लाख रुपये तक का स्वास्थ्य कवर मिलता है। कार्ड से पंजीकृत सरकारी और निजी अस्पतालों में मुफ्त इलाज कराया जा सकता है। लाभार्थी घर बैठे ही अपने शहर के पात्र अस्पतालों की जांच कर सकते हैं। आयुष्मान कार्ड के पात्र लाभार्थियों को हर साल 5 लाख रुपये तक के स्वास्थ्य कवर की सुविधा मिलती है कार्डधारक अपने शहर के पंजीकृत सरकारी और निजी अस्पताल में आयुष्मान कार्ड से मुफ्त इलाज करवा सकता है।
+बुल्गारिया के त्राकिया हाईवे पर कोहरे के कारण 50 से अधिक वाहनों की भिड़ंत हुई। इस हादसे में कम से कम 12 लोगों की मौत हुई और दर्जनों घायल हुए। रेस्क्यू टीम ने कटर से वाहनों को काटकर लोगों को बाहर निकाला। बुल्गारिया के त्राकिया हाईवे पर कोहरे की वजह से बहुत बड़ा हादसा हो गया है. यहां जीरो विजिबिलिटी के कारण 50 से ज्यादा गाड़ियां आपस में जोरदार तरीके से टकरा गईं.
 
 ### ['यूरोपीय देशों पर हमला का हमारा कोई इरादा नहीं', उप-विदेश मंत्री बोले- हमला हुआ तो जवाब देंगे](https://www.amarujala.com/world/russia-has-no-intention-or-plans-to-attack-european-countries-says-deputy-fm-2026-11-10)
 *Amar Ujala World* - Nov 10, 10:02 IST (iso: 2026-11-10T04:32:13+00:00)
@@ -154,19 +148,29 @@ Google AI Studio में नया टूल लॉन्च हुआ है�
 
 ---
 
-## मध्य पूर्व और अफ्रीका
+## दुनिया
 
-### [पीट हेगसेथ के सिर पर फूटा ईरान युद्ध का ठींकरा, अपनों ने किया डंप, अकेले क्या कर लेंगे ट्रंप?](https://hindi.news18.com/world/america-pete-hegseth-impeachment-over-iran-war-republican-turns-against-trump-backs-ws-l-10976052.html)
-*News18 Hindi (World)* - Nov 10, 12:08 IST (iso: 2026-11-10T06:38:05+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/05/Pete-Hegseth-Reuters-2026-05-9a2ac47e4db5d9415a312cf055350829-1200x800.jpg -->
+### [विदेश में अपनों की सुरक्षा संभालेगी BSF, स्‍पेशल कमांडोज को CISF दे रही ट्रेनिंग, LTTE के गढ़ से](https://hindi.news18.com/news/nation/bsf-take-security-charge-of-indian-nationals-abroad-cisf-providing-training-to-special-commandos-initiative-begin-stronghold-of-ltte-10977170.html)
+*News18 Hindi (World)* - Nov 10, 16:17 IST (iso: 2026-11-10T10:47:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/CISF-BSF-2026-11-4892149bee7ff1c58626c9a46c758c28-1200x800.jpg -->
 
-अमेरिकी रक्षा मंत्री पीट हेगसेथ पर ईरान युद्ध को लेकर इस्तीफे की मांग उठी है। उनकी पार्टी के ही सांसद अब उनके खिलाफ आवाज उठा रहे हैं। Pete Hegseth Impeachment Over Iran War: अमेरिकी राजनीति में इस वक्त सबसे ज्यादा चर्चा में जो नाम है- वो पीट हेगसेथ है. थोड़े दिनों पहले तक उनका चेहरा अंतरराष्ट्रीय मीडिया में सबसे ज्यादा चमक रहा था, लेकिन इस वक्त वही अपनी पार्टी के सांसदों के भी निशाने पर हैं.
+बीएसएफ ने विदेश में सुरक्षा के लिए 50 स्पेशल कमांडोज की टीम तैयार की। सीआईएसएफ की एसएसजी और एपीएस यूनिट ने इनको ट्रेनिंग दी। विदेश में रह रहे अपनों की सुरक्षा पुख्‍ता करने के लिए बीएसएफ को स्‍पेशल कमांडोज को भेजा जा रहा है. इस तैनाती के लिए फिलहाल 50 कमांडोज की टीम को तैयार किया गया है. साथ ही विदेश में सामने आने वाली चुनौतियों से निपटने के लिए बीएसएफ के इन कमांडोज को सीआईएसएफ की एसएसजी और एपीएस यूनिट में स्‍पेशल ट्रेनिंग भी दी गई है.
 
-### [मदीना तक पहुंची हूतियों की मिसाइल, सऊदी की पाइपलाइन टार्गेट पर, कितना नुकसान?](https://hindi.news18.com/world/middle-east-houthi-attack-on-saudi-east-west-oil-pipeline-hit-in-medina-according-to-state-media-10975993.html)
-*News18 Hindi (World)* - Nov 10, 10:38 IST (iso: 2026-11-10T05:08:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Saudi-Arabia-3-2026-10-5b0eaa687106e5f3ae5f71b04eb1ddc1-1200x800.jpg -->
+### [धरती से नीचे बसा पाताल लोक, 35761 फीट गहराई में रहते हैं रहस्यमयी जीव, सूरज की रोशनी भी तोड़ देती](https://hindi.news18.com/world/rest-of-world-deepest-place-in-the-world-mariana-trench-35761-feet-underwater-another-world-amazing-places-on-earth-photogallery-10976865.html)
+*News18 Hindi (World)* - Nov 10, 14:52 IST (iso: 2026-11-10T09:22:41+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/mariana-trench-5-2026-11-3fcac37342589d01b2414701d76345b9-1200x800.jpg -->
 
-यमन के हूती समूह ने सऊदी अरब की मदीना तेल पाइपलाइन पर मिसाइल हमला किया। यह घटना दोनों देशों के बीच तनाव को और बढ़ाती है। पाइपलाइन पर हुए नुकसान का आकलन जारी है। Saudi Madina Oil Pipeline Hit: हूतियों की ताकत का अंदाजा शायद सऊदी अरब को भी नहीं रहा होगा, जब उसने यमन की सरकार के साथ मिलकर उनके अड्डों पर हमले किए थे.
+मारियाना ट्रेंच की 35761 फीट गहराई में रहस्यमयी जीव रहते हैं। वहां सूरज की रोशनी नहीं पहुंचती। यह पृथ्वी का सबसे गहरा समुद्री क्षेत्र है। Mariana Trench Deepest Place: आपने सुना होगा कि धरती के नीचे पाताल लोक है, जहां अंधकार का राज चलता है. हालांकि आप इसका नाम नहीं जानते हैं, तो चलिए हम आपको एक ऐसी ही दूसरी दुनिया के बारे में बताते हैं, जो सूरज की रोशनी को भी अपने इलाके में घुसने नहीं देती.
+
+---
+
+## अमेरिका
+
+### [अपनी पत्नी को गुडनाइट कह लें: ट्रंप ने AI कंपनी के एक शीर्ष अधिकारी को दी थी गिरफ्तार करने की धमकी](https://www.patrika.com/world-news/trump-threatens-arrest-ai-company-executive-60-minutes-safety-violation-21039202)
+*Patrika (World)* - Nov 10, 12:38 IST (iso: 2026-11-10T07:08:01+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/donald-trump_.webp -->
+
+ट्रंप ने एक एआई कंपनी के अधिकारी को गिरफ्तार करने की धमकी दी। उन्होंने सुरक्षा नियमों के उल्लंघन का हवाला दिया। यह घटना 60 मिनट्स शो में सामने आई। Trump Arrest Threat: अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने आर्टिफिशियल इंटेलिजेंस (AI) से जुड़ी एक कंपनी के एक अधिकारी को कड़ी चेतावनी दी थी। ट्रम्प ने सुरक्षा नियमों के कथित उल्लंघन को लेकर उस अधिकारी को तुरंत गिरफ्तार करने की धमकी दी।
 
 ---
 

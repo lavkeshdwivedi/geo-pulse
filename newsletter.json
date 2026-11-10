@@ -1,12 +1,144 @@
 {
-  "generated_at": "2026-11-10T07:51:58.290147+00:00",
+  "generated_at": "2026-11-10T15:53:08.581099+00:00",
   "article_count": 50,
-  "total_unique_count": 265,
+  "total_unique_count": 261,
   "digest": {
-    "en": "China is accelerating mobile ICBM deployment to secure a second-strike advantage. Simultaneously, Moscow and Kyiv are trading air strikes while Trump hints at territorial changes in Ukraine.",
-    "hi": "Google AI Studio में नया टूल आया है जो सिर्फ आइडिया से मैप्स एप बना देता है। NVIDIA के सीईओ जेन्सन ह्वांग की कहानी आज फिर चर्चा में है।"
+    "en": "Moscow police detain hundreds of youths to force military service while US-led Ukraine peace talks conclude their first day. China fast-tracks mobile ICBMs to secure a second-strike advantage as Europe struggles to find a peace envoy.",
+    "hi": "Hegseth faces impeachment threats while US jets evacuate bases in the Middle East. Trump’s election results may reshape US-China trade terms."
   },
   "articles": [
+    {
+      "title": "Moscow Police Detain Hundreds Of Youths, Pressure Those Of Military Age Into Service",
+      "url": "https://www.rferl.org/a/moscow-police-detain-hundreds-of-youths/33894696.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-10T15:14:09+00:00",
+      "image_url": "https://gdb.rferl.org/36bcad79-18f0-4813-ec84-08df13afe2a0_w1200_h630.jpg",
+      "summary": "Moscow police detained hundreds of youths, including children, during a raid on an alternative gathering. Detainees reported beatings and denial of basic needs. Adults received draft notices or faced pressure to sign army contracts. Police labeled the action a preventive operation. Hundreds, including children, were detained in a raid on an alternative youth gathering in central Moscow. Detainees reported beatings and being denied water and toilets.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
+      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-11-10T14:49:32+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6961005e80797627b18bb63557b07eba",
+      "summary": "Argentina told the Hamburg tribunal that Britain’s approval of the Sea Lion oil project deepened the Falklands sovereignty dispute. The legal clash marks a historic confrontation over drilling rights in the North Falkland basin. The dispute traces back to the war four decades ago. Sea Lion project in the North Falkland basin threatens to deepen sovereignty disputeArgentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war four decades ago. At the start of an historic legal clash at the Hamburg-based International Tribunal for the Law of the Sea (Itlos), an Argent.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role",
+      "url": "https://www.rferl.org/a/russia-ukraine-abu-dhabi-war-peace-talks/33894644.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-10T14:35:45+00:00",
+      "image_url": "https://gdb.rferl.org/2e986cd9-d285-4809-be13-dacc2a100f44_cx4_cy13_cw94_w1200_h630.jpg",
+      "summary": "Ukrainian and Russian negotiators concluded the first day of US-brokered peace talks. The two-day session aims to address Moscow’s ongoing war on Ukraine. It remains unclear if any tangible progress was made during the initial session. Ukrainian and Russian negotiators wrapped up the first of two days of US-brokered talks aimed at untangling Moscow's nearly 5-year-old all-out war on Ukraine, though it was unclear what progress there had been, if any.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Pete Hegseth to hold first Pentagon briefing since May amid impeachment threat",
+      "url": "https://www.thehindu.com/news/international/pete-hegseth-to-hold-first-pentagon-briefing-since-may-amid-impeachment-threat/article71685209.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-10T13:48:58+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/r9djh2/article71685232.ece/alternates/LANDSCAPE_1200/Hegseth_Impeachment_1_874.jpg",
+      "summary": "Pete Hegseth will hold his first Pentagon briefing since May. The announcement comes amid an active impeachment threat against him. The US military continues intermittent operations against Iran and strikes on drug boats in Latin America. The briefing will be Pete Hegseth’s first since May even as the U. S. military has kept up intermittent operations against the Islamic Republic as well as fatal strikes on alleged drug-smuggling boats in Latin America.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How much will Jensen Huang’s scandal ultimately cost?",
+      "url": "https://asiatimes.com/2026/11/how-much-will-jensen-huangs-scandal-ultimately-cost/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-10T12:14:42+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Nvidia.jpg",
+      "summary": "Nvidia CEO Jensen Huang admitted to an extramarital affair with Alice Huang. She has been accused of being a Chinese intelligence agent. The scandal raises concerns about the security of artificial intelligence chip supply chains. Jensen Huang, the chief executive and co-founder of chipmaking company Nvidia, recently admitted to an extramarital affair. However, it’s not just a tabloid story: the woman involved, Alice Huang, has been accused of being a Chinese intelligence agent.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "South Sudan’s first elections loom amid rising violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168774",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/02-11-2026_UNMISS_South_Sudan_Peace.jpg/image770x420cropped.jpg",
+      "summary": "South Sudan faces its first national elections in six weeks as violence escalates. The Security Council meets in New York to demand credible polls. Civilians continue to suffer from fighting, hunger, and displacement. With South Sudan just six weeks away from its first national elections since independence, the Security Council meets in New York Tuesday amid deepening political uncertainty and worsening violence.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "First suicide bombers, now long-range drone strikes are the norm",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168771",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image770x420cropped.jpg",
+      "summary": "UNICEF warns that drones and drought are closing in on Sudan. Attackers now use long-range drones traveling up to 1,500 kilometers. These strikes target critical infrastructure across the country. Drones and drought are “closing in” on Sudan, the UN Children’s Fund (UNICEF, said on Tuesday, describing unprecedented attacks on the country’s infrastructure including by drones travelling up to 1,500 kilometres before hitting their target.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Climate crisis could push 141 million more women into extreme poverty",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168770",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-South-Sudan-02.jpg/image560x340cropped.jpg",
+      "summary": "Over one billion women and girls live in climate hotspots. High hazard exposure combines with insecure jobs and gender inequality. The crisis could push 141 million more into extreme poverty. More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Europe's Fruitless Search For A Ukraine Peace Envoy; EU Safeguards For Montenegro",
+      "url": "https://www.rferl.org/a/eu-ukraine-peace-talks-envoy-montenegro-accession-safeguards/33894502.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-10T11:06:25+00:00",
+      "image_url": "https://gdb.rferl.org/204c8215-d514-4ede-2bdd-08df3eea91f6_cx0_cy18_cw0_w1200_h630.jpg",
+      "summary": "The EU cannot agree on a single envoy for Russia-Ukraine peace talks. Meanwhile, Montenegro faces potential safeguards upon joining the bloc. RFE/RL Europe Editor Rikard Jozwiak analyzes both issues in this week's briefing. In this week's briefing, RFE/RL Europe Editor Rikard Jozwiak is drilling down on two issues: why the EU cannot agree on an envoy for Russia-Ukraine peace talks and what safeguards Montenegro could face when it joins the bloc.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Don’t let Taiwan’s silicon shield become a US silicon trap",
+      "url": "https://asiatimes.com/2026/11/dont-let-taiwans-silicon-shield-become-a-us-silicon-trap/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-10T10:19:58+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/TSMC-Taiwan-China-.jpg",
+      "summary": "TSMC is investing heavily in US semiconductor fabrication. This brings encouraging news for the struggling US economy. However, reliance on a single foreign supplier creates strategic risks for American supply chains. As the midterms loudly demonstrated, there is considerable gloom over the US economy. Cause for economic optimism is in short supply, though there is some encouraging news regarding US-based semiconductor fabrication spurred by enormous investments from the huge Taiwan company TSMC.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why Pakistan’s Trump card isn’t paying off",
+      "url": "https://asiatimes.com/2026/11/transactional-mirage-why-pakistans-trump-card-isnt-paying-off/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-10T10:01:09+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-Shehbaz-Sharif-Pakistan-US.jpg",
+      "summary": "Pakistan’s military-led government failed to secure favorable terms from Donald Trump despite aggressive courting. Prime Minister Shehbaz Sharif promoted cryptocurrency deals and rare-earth minerals at the White House. The strategy prioritized personal praise over structural policy changes. This transactional approach has not yielded the expected diplomatic or economic concessions for Islamabad. Pakistan’s military-led hybrid government did nearly everything it could to woo Donald Trump, from pursuing cryptocurrency deals with members of the Trump family to showcasing the country’s rare-earth mineral potential at the White House.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "China fast-tracks mobile ICBM to lock down second-strike edge",
       "url": "https://asiatimes.com/2026/11/china-fast-tracks-mobile-icbm-to-lock-down-second-strike-edge/",
@@ -32,18 +164,6 @@
       "translations": {}
     },
     {
-      "title": "Accused Ecuadorian thief agrees to plead guilty in largest U.S. jewelry heist",
-      "url": "https://www.thehindu.com/news/international/accused-ecuadorian-thief-agrees-to-plead-guilty-in-largest-us-jewelry-heist/article71684989.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-10T05:11:19+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/national/ehy6wg/article71685008.ece/alternates/LANDSCAPE_1200/iStock-1447145892%2030.jpg",
-      "summary": "An accused Ecuadorian thief agreed to plead guilty in the largest U. S. jewelry heist on record. The stolen gold, diamonds, and watches were valued at approximately 100 million dollars. The case is being handled by the U. S. Attorney’s Office in Los Angeles. The stolen collection of fine gold, ​diamonds, rubies, emeralds and luxury watches was valued at approximately $100 million, marking the largest U. S.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Nvidia’s Huang spy scandal signals tighter US chip controls",
       "url": "https://asiatimes.com/2026/11/nvidias-huang-spy-scandal-signals-tighter-us-chip-controls/",
       "source": "Asia Times",
@@ -61,7 +181,7 @@
       "source": "Radio Free Europe / Liberty",
       "sources": [],
       "published_at": "2026-11-09T14:25:44+00:00",
-      "image_url": "https://gdb.rferl.org/61be2878-4db6-4060-b194-cb55114ae8d3_cx0_cy2_cw0_w1200_h630.jpg",
+      "image_url": "https://gdb.rferl.org/61be2878-4db6-4060-b194-cb55114ae8d3_cx0_cy4_cw0_w1200_h630.jpg",
       "summary": "The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 for their first talks since February. Analysts expect limited progress on ending the war, citing deep structural disagreements and the lack of a unified negotiating position among the three parties. For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low.",
       "region": "Europe & Russia",
       "language": "en",
@@ -85,7 +205,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-09T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-UNICEF-Ukraine-01.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-UNICEF-Ukraine-01.jpg/image560x340cropped.jpg",
       "summary": "Russian forces struck Ukrainian energy infrastructure, threatening millions with a cold winter and increasing civilian casualties. The UN Security Council convened in New York to discuss the crisis. These strikes occurred just before US-backed peace talks were scheduled to begin in Abu Dhabi. The Security Council convenes at 10am in New York on Ukraine. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -100,30 +220,6 @@
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/OPay-IPO.png",
       "summary": "OPay's $304 million New York Stock Exchange listing was halted hours after its opening bell. The Nigeria-focused payments firm priced shares at $19, valuing the company at $4 billion. Trading stopped at 3:30 p. m. with zero shares exchanged, likely due to Chinese regulatory concerns. OPay’s executives rang the bell at the New York Stock Exchange on October 30. A few hours later, their US$304 million flotation was off.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump teases ‘big, beautiful agreement’ on Ukraine war and more",
-      "url": "https://asiatimes.com/2026/11/trump-teases-big-beautiful-agreement-on-ukraine-war-and-more/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-11-09T05:26:56+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Ukraine-War-Ukraine-Soldiers-Ukraine-Military.jpg",
-      "summary": "Donald Trump met with Kirill Dmitriev, a Russian special representative, on November 5. Dmitriev heads the Russian delegation for a Melania Trump event. The US president teased a significant agreement regarding the Ukraine war. The meeting was unscheduled and took place in Washington. US President Donald Trump held an unscheduled meeting on Thursday, November 5, with Kirill Dmitriev, a special representative of Russian President Vladimir Putin.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China’s a green-tech superpower, but not yet a green civilization",
-      "url": "https://asiatimes.com/2026/11/chinas-a-green-tech-superpower-but-not-yet-a-green-civilization/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-11-09T02:57:35+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2022/01/China-Green-Financing-Environment.jpg",
-      "summary": "China dominates global clean-tech production at the Antalya climate conference. The country manufactures most of the world's solar panels and batteries. Its emissions have stopped rising. However, experts argue it has not yet become a fully green civilization. At the UN climate conference in Antalya, which runs from November 9 to 20, China is the world’s clean-technology superpower. It makes most of the planet’s solar panels, batteries and electric vehicles.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -205,357 +301,333 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-07T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/06-11-2026-EducAid-Gaza-03.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/06-11-2026-EducAid-Gaza-03.jpg/image560x340cropped.jpg",
       "summary": "Ten-year-old Anas, born without legs and with limited hand function, received his first wheelchair in Gaza. He is one of three siblings who previously struggled to move or eat independently. The chair allows them to perform daily tasks with new freedom. In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump’s hubris more comedy than tragedy but echoes Greek original",
-      "url": "https://asiatimes.com/2026/11/trumps-hubris/",
-      "source": "Asia Times",
+      "title": "पीट हेगसेथ के वो 5 गुनाह, जिसकी वजह से पीछे पड़ा इंपीचमेंट का भूत, ट्रंप बचा पाएंगे या नहीं?",
+      "url": "https://hindi.news18.com/world/america-pete-hegseth-impeachment-why-us-defense-secretary-faces-5-major-charges-can-donald-trump-save-him-10977799.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-07T11:53:38+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Marble-statue-of-Achilles-looking-at-his-heel-copy.jpg",
-      "summary": "Political analysts compare Donald Trump's recent actions to the Greek concept of hubris. They argue his excessive self-confidence mirrors historical patterns of destructive arrogance. This trend reflects a failure to accurately assess America's global power. Recently across the globe, political observers have likened the foibles and subsequent downfalls of presidents of the United States to hubris, the ancient Greek concept of destructive arrogance.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi",
-      "url": "https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-11-07T10:10:07+00:00",
-      "image_url": "https://gdb.rferl.org/f8bcade0-15ce-48fb-9358-04357bfa8d86_cx0_cy10_cw0_w1200_h630.jpg",
-      "summary": "Russia launched 172 drones and 36 missiles at Kyiv on November 7. The strikes damaged energy infrastructure, housing, and a major Dnipro River bridge. The attack occurred just before scheduled talks in Abu Dhabi. Kyiv faced widespread damage and disruptions to essential services on November 7 after Russia launched 172 attack drones and 36 ballistic missiles at the Ukrainian capital and other regions, striking energy infrastructure, residential housing, and a major bridge over the Dnipro River.",
+      "published_at": "2026-11-10T15:42:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Pete-Hegseth-Reuters-2-2026-06-63b537d128355cb246f7ee2c9a3aeab6-1200x800.jpg",
+      "summary": "अमेरिकी रक्षा मंत्री पीट हेगसेथ पर ईरान युद्ध और सेना नियमों का उल्लंघन जैसे पांच आरोप लगते हुए संसद में महाभियोग का प्रस्ताव पेश हुआ। ट्रंप ने उनका समर्थन किया, लेकिन राजनीतिक घमासान जारी है। अमेरिकी रक्षा मंत्री पीट हेगसेथ पर मुसीबतों का पहाड़ टूट पड़ा है. ईरान के साथ जंग, सेना के नियमों को ताक पर रखने और बड़े अधिकारियों के प्रमोशन रोकने जैसे पांच गंभीर आरोपों के चलते संसद में उनके खिलाफ महाभियोग का प्रस्ताव आ गया है.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-11-06T21:23:54+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1888e60295c293926bcb97047ec36bf",
-      "summary": "Global stock markets plunged as investors feared an AI slowdown following the Democratic midterm victory. Asian and European indices mirrored Wall Street’s sharp decline. The FTSE dropped 1.9 percent on Friday. Tech shares led the sell-off across multiple regions. Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9%Business live – latest updatesEuropean stock markets have fallen sharply as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry. A sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets on Friday.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran's Isolation Closes Doors For Young People Hoping To Build A Future Abroad",
-      "url": "https://www.rferl.org/a/iran-s-isolation-closes-doors-for-young-people-hoping-to-build-a-future-abroad/33892509.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-11-06T18:04:15+00:00",
-      "image_url": "https://gdb.rferl.org/e53f5741-59ff-4ca5-ecdb-08df13a87301_w1200_h630.jpg",
-      "summary": "US and British English testing services have suspended operations in Iran. This move blocks a critical pathway for young Iranians seeking to study abroad. Sanctions and growing isolation continue to restrict their options for international education. Sanctions and growing international isolation are cutting key pathways for young Iranians with dreams of studying abroad. US and British English language-testing services have been suspended in Iran, creating another obstacle for prospective international students.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168758",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-06T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/13-07-2026-UNICEF-Afghanistan-02.jpg/image770x420cropped.jpg",
-      "summary": "A senior UN official called Afghanistan a difficult crossroad. The country faces a fragile economy and rights curbs. Humanitarian needs are acute five years after the Taliban returned. Stability is being undercut by these deepening restrictions. Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168751",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-06T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-Tara-Polar-Station-02.jpg/image560x340cropped.jpg",
-      "summary": "Scientists aboard a ship frozen in Arctic ice are documenting rapid environmental changes. They warn world leaders to trust climate science as sea ice retreats. Oil tankers are increasingly operating in the region, heightening the stakes for polar governance. Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-06T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/09-11-2026_UNHCR_South-Sudan-01.jpg/image560x340cropped.jpg",
-      "summary": "Nearly 90 million refugees live in countries facing high climate hazard exposure. Three in four displaced people face drought, floods, or extreme heat. This makes the climate emergency an immediate crisis for displaced populations. They have limited options for safe relocation. The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "The View from Eritrea",
-      "url": "https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea",
-      "source": "International Crisis Group",
-      "sources": [],
-      "published_at": "2026-10-30T16:29:00+00:00",
-      "image_url": "https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "summary": "Reuters journalist Giulia Paravicini discussed her recent reporting trip to Asmara, the capital of Eritrea. She detailed life in the isolated nation and its leadership's strategic calculations. The conversation covered mounting regional tensions and the country's complex relationship with neighboring Ethiopia. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "सिर्फ आइडिया बताएं और मैप्स एप होगा तैयार: गूगल एआई स्टूडियो में आया नया टूल, क्या है और कैसे कर",
-      "url": "https://www.amarujala.com/technology/tech-diary/google-ai-studio-gets-google-maps-integration-build-interactive-apps-minutes-2026-11-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-10T07:29:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/gagal-eaaii-satadaya-ma-aaya-naya-tal_1ab2b5b2d0d84c87b2b03c3d19e19842.jpeg",
-      "summary": "Google AI Studio में नया टूल लॉन्च हुआ है। यह टूल उपयोगकर्ता के विवरण से मैप्स ऐप बनाता है। यह फीचर ऐप डेवलपमेंट को सरल बनाता है। सिर्फ आइडिया बताएं और मैप्स एप होगा तैयार: गूगल एआई स्टूडियो में आया नया टूल, क्या है और कैसे कर सकेंगे यूज?",
-      "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सिर्फ आइडिया बताएं और मैप्स एप होगा तैयार: गूगल एआई स्टूडियो में आया नया टूल, क्या है और कैसे कर",
-          "summary": "Google AI Studio में नया टूल लॉन्च हुआ है। यह टूल उपयोगकर्ता के विवरण से मैप्स ऐप बनाता है। यह फीचर ऐप डेवलपमेंट को सरल बनाता है। सिर्फ आइडिया बताएं और मैप्स एप होगा तैयार: गूगल एआई स्टूडियो में आया नया टूल, क्या है और कैसे कर सकेंगे यूज?",
-          "region": "दुनिया"
+          "title": "पीट हेगसेथ के वो 5 गुनाह, जिसकी वजह से पीछे पड़ा इंपीचमेंट का भूत, ट्रंप बचा पाएंगे या नहीं?",
+          "summary": "अमेरिकी रक्षा मंत्री पीट हेगसेथ पर ईरान युद्ध और सेना नियमों का उल्लंघन जैसे पांच आरोप लगते हुए संसद में महाभियोग का प्रस्ताव पेश हुआ। ट्रंप ने उनका समर्थन किया, लेकिन राजनीतिक घमासान जारी है। अमेरिकी रक्षा मंत्री पीट हेगसेथ पर मुसीबतों का पहाड़ टूट पड़ा है. ईरान के साथ जंग, सेना के नियमों को ताक पर रखने और बड़े अधिकारियों के प्रमोशन रोकने जैसे पांच गंभीर आरोपों के चलते संसद में उनके खिलाफ महाभियोग का प्रस्ताव आ गया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "बचपन में झेली बुलिंग, 30 की उम्र में बनाई चिप कंपनी; आज 4.5 ट्रिलियन डॉलर की NVIDIA के हैं बॉस",
-      "url": "https://www.amarujala.com/technology/tech-diary/jensen-huang-nvidia-ceo-success-story-ai-empire-and-controversy-wife-details-2026-11-10",
-      "source": "Amar Ujala National",
+      "title": "अमरीका में चुनावी नतीजों से चीन के साथ बदल सकते हैं व्यापारिक रिश्ते, क्या किसानों को होगा फायदा?",
+      "url": "https://www.patrika.com/world-news/us-midterm-election-impact-china-agriculture-trade-soybean-exports-21040081",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-10T07:28:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/jensen-huang-nvidia-ceo_e8f42b21bde2fa1a2ac15e13fec1903d.jpeg",
-      "summary": "जेन्सेन हुआंग ने NVIDIA को 4.5 ट्रिलियन डॉलर की कंपनी बनाया है। वह एआई क्षेत्र में प्रमुख व्यक्ति हैं। ताइवान में जन्मे हुए उन्होंने अमेरिका में करियर बनाया। Jensen Huang Biography: दुनिया की सबसे मूल्यवान कंपनियों में से एक, NVIDIA के सीईओ जेन्सेन हुआंग आज एआई के क्षेत्र में सबसे ताकतवर शख्सियतों में गिने जाते हैं। ताइवान में जन्मे और अमेरिका में पले-बढ़े हुआंग ने एक छोटी सी कंपनी से शुरुआत।",
+      "published_at": "2026-11-10T14:29:00+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/us-china.webp",
+      "summary": "अमेरिकी मध्यावधि चुनावों के बाद ट्रंप की संभावित हार पर चीन अमेरिकी कृषि उत्पादों पर टैरिफ कम कर सकता है। इससे दोनों देशों के बीच व्यापारिक तनाव में कमी आने की उम्मीद जताई गई है। China-US Trade: अमेरिका के मध्यावधि चुनावों के परिणाम से अब अमेरिका के दूसरे देशों के साथ संबंध में बदलाव आने की संभावना जताई जा रही है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बचपन में झेली बुलिंग, 30 की उम्र में बनाई चिप कंपनी; आज 4.5 ट्रिलियन डॉलर की NVIDIA के हैं बॉस",
-          "summary": "जेन्सेन हुआंग ने NVIDIA को 4.5 ट्रिलियन डॉलर की कंपनी बनाया है। वह एआई क्षेत्र में प्रमुख व्यक्ति हैं। ताइवान में जन्मे हुए उन्होंने अमेरिका में करियर बनाया। Jensen Huang Biography: दुनिया की सबसे मूल्यवान कंपनियों में से एक, NVIDIA के सीईओ जेन्सेन हुआंग आज एआई के क्षेत्र में सबसे ताकतवर शख्सियतों में गिने जाते हैं। ताइवान में जन्मे और अमेरिका में पले-बढ़े हुआंग ने एक छोटी सी कंपनी से शुरुआत।",
+          "title": "अमरीका में चुनावी नतीजों से चीन के साथ बदल सकते हैं व्यापारिक रिश्ते, क्या किसानों को होगा फायदा?",
+          "summary": "अमेरिकी मध्यावधि चुनावों के बाद ट्रंप की संभावित हार पर चीन अमेरिकी कृषि उत्पादों पर टैरिफ कम कर सकता है। इससे दोनों देशों के बीच व्यापारिक तनाव में कमी आने की उम्मीद जताई गई है। China-US Trade: अमेरिका के मध्यावधि चुनावों के परिणाम से अब अमेरिका के दूसरे देशों के साथ संबंध में बदलाव आने की संभावना जताई जा रही है।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "10 या 11 नवंबर कब मनाई जाएगी भाई दूज? यहां जानें तिलक लगाने का शुभ मुहूर्त और पूजा विधि",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/bhai-dooj-2026-date-and-time-tilak-shubh-muhurat-puja-vidhi-bhai-dooj-kab-hai-2026-11-09",
-      "source": "Amar Ujala National",
+      "title": "एयरबेस छोड़कर रातों-रात भागे अमेरिकी फाइटर जेट, ईरान से ऐसी क्या खबर आई? रातों-रात निकल गई ट्रंप की",
+      "url": "https://hindi.news18.com/world/america-us-evacuates-fighter-jets-from-uk-air-base-iran-secret-intel-after-donald-trump-war-over-claim-10977683.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-10T07:26:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/09/bhai-dooj-2026_45e1338f02a3236dab420c6efe260dfe.jpeg?w=1200&dpr=1.0",
-      "summary": "भाई दूज 2026 में 10 या 11 नवंबर को मनाई जाएगी। यह कार्तिक मास की द्वितीया तिथि पर पड़ता है। तिलक लगाने का शुभ मुहूर्त तय हो गया है। भाई दूज हर साल कार्तिक मास के शुक्ल पक्ष की द्वितीया तिथि को मनाई जाती है। आइए जानते हैं साल 2026 में भाई दूज किस दिन मनाई जाएगी और तिलक करने के लिए कौन-सा समय शुभ रहेगा।",
+      "published_at": "2026-11-10T14:27:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/US-Evacuates-Fighter-Jets-from-UK-Air-Base-Iran-secret-intel-2026-11-2b24949228a7eee4dac16b778c7dfebb-1200x800.jpg",
+      "summary": "ईरान से मिली खुफिया रिपोर्ट के बाद अमेरिका ने ब्रिटेन के आरएएफ मिल्डेनहॉल एयरबेस से अपने सभी फाइटर जेट और हथियार तुरंत हटा लिए। ट्रंप ने युद्ध समाप्त होने का दावा किया, लेकिन सैन्य तैनाती में बदलाव हुआ। ईरान से एक खतरनाक खुफिया रिपोर्ट मिलने के बाद अमेरिका की रातों-रात हवा टाइट हो गई है. डर के मारे अमेरिका ने ब्रिटेन के आरएएफ मिल्डेनहॉल एयरबेस से अपने सभी फाइटर जेट्स और सैन्य हथियारों को तुरंत सुरक्षित जगह पर शिफ्ट कर दिया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एयरबेस छोड़कर रातों-रात भागे अमेरिकी फाइटर जेट, ईरान से ऐसी क्या खबर आई? रातों-रात निकल गई ट्रंप की",
+          "summary": "ईरान से मिली खुफिया रिपोर्ट के बाद अमेरिका ने ब्रिटेन के आरएएफ मिल्डेनहॉल एयरबेस से अपने सभी फाइटर जेट और हथियार तुरंत हटा लिए। ट्रंप ने युद्ध समाप्त होने का दावा किया, लेकिन सैन्य तैनाती में बदलाव हुआ। ईरान से एक खतरनाक खुफिया रिपोर्ट मिलने के बाद अमेरिका की रातों-रात हवा टाइट हो गई है. डर के मारे अमेरिका ने ब्रिटेन के आरएएफ मिल्डेनहॉल एयरबेस से अपने सभी फाइटर जेट्स और सैन्य हथियारों को तुरंत सुरक्षित जगह पर शिफ्ट कर दिया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जो देश पाकिस्तान को बेचता है हथियार, वो भारत के ब्रह्मोस पर हुआ फिदा, कुछ दिनों में फैलाएगा हाथ?",
+      "url": "https://hindi.news18.com/world/south-asia-turkey-is-eyeing-india-brahmos-ng-supersonic-missile-why-pakistan-arms-supplier-interest-in-bharat-russia-weapon-power-10977569.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-10T13:39:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Turkey-is-Eyeing-India-BrahMos-NG-Supersonic-Missile-2026-11-7ee56d91acd83c141ff0ffbc0391e6e2-1200x800.jpg",
+      "summary": "तुर्की के डिफेंस मीडिया ने भारत की ब्रह्मोस-एनजी मिसाइल की तकनीकी क्षमताओं पर विस्तृत चर्चा की। पाकिस्तान को हथियार बेचने वाले इस नाटो सदस्य देश में भारतीय रक्षा तकनीक की मांग बढ़ने के संकेत मिल रहे हैं। तुर्की एक तरफ पाकिस्तान को अपने हथियार बेचता है और दूसरी तरफ नाटो का मेंबर भी है. इसके बावजूद, तुर्की का डिफेंस मीडिया भारत की सुपरसोनिक क्रूज मिसाइल 'ब्रह्मोस-एनजी' की ताकत पर लगातार नजर बनाए हुए है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जो देश पाकिस्तान को बेचता है हथियार, वो भारत के ब्रह्मोस पर हुआ फिदा, कुछ दिनों में फैलाएगा हाथ?",
+          "summary": "तुर्की के डिफेंस मीडिया ने भारत की ब्रह्मोस-एनजी मिसाइल की तकनीकी क्षमताओं पर विस्तृत चर्चा की। पाकिस्तान को हथियार बेचने वाले इस नाटो सदस्य देश में भारतीय रक्षा तकनीक की मांग बढ़ने के संकेत मिल रहे हैं। तुर्की एक तरफ पाकिस्तान को अपने हथियार बेचता है और दूसरी तरफ नाटो का मेंबर भी है. इसके बावजूद, तुर्की का डिफेंस मीडिया भारत की सुपरसोनिक क्रूज मिसाइल 'ब्रह्मोस-एनजी' की ताकत पर लगातार नजर बनाए हुए है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हाइवे पर एक के बाद एक टकराईं 50 गाड़ियां, सड़क बन गई कब्रिस्तान, ड्रोन फुटेज देखकर रेस्क्यू टीम के",
+      "url": "https://hindi.news18.com/world/europe-bulgaria-highway-crash-50-vehicles-shocking-drone-footage-pile-up-in-massive-zero-visibility-fog-accident-on-trakia-motorway-10977506.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-10T12:58:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Bulgaria-Highway-Accident-2026-11-48cbaac3b761c3338686849a0f067697-1200x800.jpg",
+      "summary": "बुल्गारिया के त्राकिया हाईवे पर कोहरे के कारण 50 से अधिक वाहनों की भिड़ंत हुई। इस हादसे में कम से कम 12 लोगों की मौत हुई और दर्जनों घायल हुए। रेस्क्यू टीम ने कटर से वाहनों को काटकर लोगों को बाहर निकाला। बुल्गारिया के त्राकिया हाईवे पर कोहरे की वजह से बहुत बड़ा हादसा हो गया है. यहां जीरो विजिबिलिटी के कारण 50 से ज्यादा गाड़ियां आपस में जोरदार तरीके से टकरा गईं.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "10 या 11 नवंबर कब मनाई जाएगी भाई दूज? यहां जानें तिलक लगाने का शुभ मुहूर्त और पूजा विधि",
-          "summary": "भाई दूज 2026 में 10 या 11 नवंबर को मनाई जाएगी। यह कार्तिक मास की द्वितीया तिथि पर पड़ता है। तिलक लगाने का शुभ मुहूर्त तय हो गया है। भाई दूज हर साल कार्तिक मास के शुक्ल पक्ष की द्वितीया तिथि को मनाई जाती है। आइए जानते हैं साल 2026 में भाई दूज किस दिन मनाई जाएगी और तिलक करने के लिए कौन-सा समय शुभ रहेगा।",
+          "title": "हाइवे पर एक के बाद एक टकराईं 50 गाड़ियां, सड़क बन गई कब्रिस्तान, ड्रोन फुटेज देखकर रेस्क्यू टीम के",
+          "summary": "बुल्गारिया के त्राकिया हाईवे पर कोहरे के कारण 50 से अधिक वाहनों की भिड़ंत हुई। इस हादसे में कम से कम 12 लोगों की मौत हुई और दर्जनों घायल हुए। रेस्क्यू टीम ने कटर से वाहनों को काटकर लोगों को बाहर निकाला। बुल्गारिया के त्राकिया हाईवे पर कोहरे की वजह से बहुत बड़ा हादसा हो गया है. यहां जीरो विजिबिलिटी के कारण 50 से ज्यादा गाड़ियां आपस में जोरदार तरीके से टकरा गईं.",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "'किताब का नाम बिलॉन्गिंग नहीं व्हाइटवॉशिंग होना चाहिए': सोनिया गांधी की किताब पर भाजपा हमलावर, क्या",
-      "url": "https://www.amarujala.com/india-news/bjp-targets-sonia-gandhi-book-belonging-amid-political-row-reactions-2026-11-10",
-      "source": "Amar Ujala National",
+      "title": "NVIDIA CEO को बड़ी महंगी पड़ सकती है बेवफाई! बीवी ने ठान लिया तो टूट जाएंगे एलिमनी के सब रिकॉर्ड",
+      "url": "https://hindi.news18.com/world/america-nvidia-ceo-jensen-huang-wife-lori-divorce-alimony-to-reach-75-billion-dollar-after-affair-scandal-alice-huang-10977434.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-10T07:25:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/saaara-kasavana-bhajapa-ka-rashhataraya-paravakata_e2163a28b33c71c93e5d3e39b5ee8e0f.jpeg?w=1200&dpr=1.0",
-      "summary": "भाजपा ने सोनिया गांधी की किताब 'बिलॉन्गिंग' पर हमला किया है। पार्टी का कहना है कि किताब का नाम व्हाइटवॉशिंग होना चाहिए। यह राजनीतिक विवाद गहराता जा रहा है। 'किताब का नाम बिलॉन्गिंग नहीं व्हाइटवॉशिंग होना चाहिए': सोनिया गांधी की किताब पर भाजपा हमलावर, क्या लगाए आरोप?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'किताब का नाम बिलॉन्गिंग नहीं व्हाइटवॉशिंग होना चाहिए': सोनिया गांधी की किताब पर भाजपा हमलावर, क्या",
-          "summary": "भाजपा ने सोनिया गांधी की किताब 'बिलॉन्गिंग' पर हमला किया है। पार्टी का कहना है कि किताब का नाम व्हाइटवॉशिंग होना चाहिए। यह राजनीतिक विवाद गहराता जा रहा है। 'किताब का नाम बिलॉन्गिंग नहीं व्हाइटवॉशिंग होना चाहिए': सोनिया गांधी की किताब पर भाजपा हमलावर, क्या लगाए आरोप?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सीएम रेखा ने किया 'नमो यमुना रिवर सफारी' का शुभारंभ, जानें क्रूज का टिकट और रूट",
-      "url": "https://www.amarujala.com/delhi-ncr/double-gift-from-delhi-govt-to-people-of-delhi-this-diwali-yamuna-river-cruise-service-and-free-gas-cylinders-2026-11-10",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-10T07:23:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/makhayamatara-rakha-gapata-na-yamana-safara-ka-kaya-shabharabha_0781525e228caab2fcc8ec285ae6a84b.jpeg?w=1200&dpr=1.0",
-      "summary": "दिल्ली सीएम रेखा गुप्ता ने नमो यमुना रिवर सफारी शुरू की। यह सेवा दिवाली पर जनता के लिए उपलब्ध है। क्रूज के टिकट और रूट की जानकारी जारी की गई है। दिल्ली सरकार ने दिवाली पर दिल्ली की जनता को बड़ा तोहफा दिया। मुख्यमंत्री रेखा गुप्ता ने यमुना रिवर सफारी सेवा का उद्घाटन किया। सीएम रेखा ने किया 'नमो यमुना रिवर सफारी' का शुभारंभ, जानें क्रूज का टिकट और रूट।",
+      "published_at": "2026-11-10T12:24:26+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/NVIDIA-CEO-Divorce-Alimoney-2026-11-dd0f3dfbf6f358644fca3f2d153a31e2-1200x800.jpg",
+      "summary": "जेन्सेन हुआंग की पत्नी लोरी ने तलाक का फैसला किया तो कैलिफोर्निया कानून के तहत एनवीडिया के भारी शेयर मांग सकती हैं। यह कदम बिल गेट्स और जेफ बेजोस को पीछे छोड़ देगा। एनवीडिया के सीईओ जेन्सेन हुआंग का अफेयर सामने आने के बाद, उनकी गर्लडफ्रेंड एलिस हुआंग के चीनी जासूस होने का शक है. इस खुलासे के बाद उनकी पत्नी लोरी हुआंग चर्चा में आ गई हैं.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सीएम रेखा ने किया 'नमो यमुना रिवर सफारी' का शुभारंभ, जानें क्रूज का टिकट और रूट",
-          "summary": "दिल्ली सीएम रेखा गुप्ता ने नमो यमुना रिवर सफारी शुरू की। यह सेवा दिवाली पर जनता के लिए उपलब्ध है। क्रूज के टिकट और रूट की जानकारी जारी की गई है। दिल्ली सरकार ने दिवाली पर दिल्ली की जनता को बड़ा तोहफा दिया। मुख्यमंत्री रेखा गुप्ता ने यमुना रिवर सफारी सेवा का उद्घाटन किया। सीएम रेखा ने किया 'नमो यमुना रिवर सफारी' का शुभारंभ, जानें क्रूज का टिकट और रूट।",
+          "title": "NVIDIA CEO को बड़ी महंगी पड़ सकती है बेवफाई! बीवी ने ठान लिया तो टूट जाएंगे एलिमनी के सब रिकॉर्ड",
+          "summary": "जेन्सेन हुआंग की पत्नी लोरी ने तलाक का फैसला किया तो कैलिफोर्निया कानून के तहत एनवीडिया के भारी शेयर मांग सकती हैं। यह कदम बिल गेट्स और जेफ बेजोस को पीछे छोड़ देगा। एनवीडिया के सीईओ जेन्सेन हुआंग का अफेयर सामने आने के बाद, उनकी गर्लडफ्रेंड एलिस हुआंग के चीनी जासूस होने का शक है. इस खुलासे के बाद उनकी पत्नी लोरी हुआंग चर्चा में आ गई हैं.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "सर्दियों में अचानक क्यों बढ़ जाता है ब्लड प्रेशर? जानें 6 बड़ी वजहें और बचाव के तरीके",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/why-does-blood-pressure-suddenly-increase-in-winter-causes-symptoms-and-prevention-tips-2026-11-10",
-      "source": "Amar Ujala National",
+      "title": "पाकिस्तान में हाफिज सईद की पार्टी को झटका, उपचुनाव में PML-N ने हराया, मिले 30000 वोट",
+      "url": "https://hindi.news18.com/world/pakistan-hafiz-saeed-party-lost-by-election-pml-n-wins-in-punjab-pakistan-ws-l-10977324.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-10T07:22:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/how-to-control-bp-in-winter_6ad792408282851c5facb5ef6227bbe2.jpeg?w=1200&dpr=1.0",
-      "summary": "सर्दियों में ठंडे मौसम से रक्त वाहिकाएं सिकुड़ जाती हैं, जिससे ब्लड प्रेशर बढ़ जाता है। यह वृद्धि हृदय पर अतिरिक्त दबाव डालती है। विशेषज्ञ सलाह देते हैं कि सर्दियों में नमक की मात्रा कम करें और नियमित रूप से दवाएं लें। इस लेख में जानें कि सर्दियों के मौसम में ब्लड प्रेशर अचानक क्यों बढ़ने लगता है और ठंड का असर दिल व रक्त वाहिकाओं पर किस तरह पड़ता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सर्दियों में अचानक क्यों बढ़ जाता है ब्लड प्रेशर? जानें 6 बड़ी वजहें और बचाव के तरीके",
-          "summary": "सर्दियों में ठंडे मौसम से रक्त वाहिकाएं सिकुड़ जाती हैं, जिससे ब्लड प्रेशर बढ़ जाता है। यह वृद्धि हृदय पर अतिरिक्त दबाव डालती है। विशेषज्ञ सलाह देते हैं कि सर्दियों में नमक की मात्रा कम करें और नियमित रूप से दवाएं लें। इस लेख में जानें कि सर्दियों के मौसम में ब्लड प्रेशर अचानक क्यों बढ़ने लगता है और ठंड का असर दिल व रक्त वाहिकाओं पर किस तरह पड़ता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "21 की उम्र में थीं करोड़ों की मालकिन, शादी के बाद छोड़ी एक्टिंग; पति के निधन के बाद क्यों की वापसी?",
-      "url": "https://www.amarujala.com/entertainment/neetu-kapoor-had-mercedes-and-five-properties-at-the-age-21-but-left-acting-amid-peak-success-2026-11-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-10T07:14:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/11/nata-kapara_22aad80426d5edf0cc96b185f36c7c22.jpeg?w=1200&dpr=1.0",
-      "summary": "नीतू कपूर ने बाल कलाकार के रूप में फिल्मी करियर की शुरुआत की थी। उन्होंने जल्द ही करोड़ों की संपत्ति बना ली। शादी के बाद उन्होंने एक्टिंग छोड़ दी थी। पति के निधन के बाद उन्होंने फिर से फिल्मों में वापसी का फैसला किया। नीतू कपूर फिल्मी दुनिया की मशहूर अभिनेत्री रही हैं। एक्ट्रेस ने बाल कलाकार के रुप में करियर की शुरुआत की थी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "21 की उम्र में थीं करोड़ों की मालकिन, शादी के बाद छोड़ी एक्टिंग; पति के निधन के बाद क्यों की वापसी?",
-          "summary": "नीतू कपूर ने बाल कलाकार के रूप में फिल्मी करियर की शुरुआत की थी। उन्होंने जल्द ही करोड़ों की संपत्ति बना ली। शादी के बाद उन्होंने एक्टिंग छोड़ दी थी। पति के निधन के बाद उन्होंने फिर से फिल्मों में वापसी का फैसला किया। नीतू कपूर फिल्मी दुनिया की मशहूर अभिनेत्री रही हैं। एक्ट्रेस ने बाल कलाकार के रुप में करियर की शुरुआत की थी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "किस अस्पताल में करवा सकते हैं आयुष्मान कार्ड से मुफ्त इलाज? घर बैठे ऐसे करें चेक",
-      "url": "https://www.amarujala.com/photo-gallery/utility/ayushman-card-free-treatment-how-to-check-which-hospitals-offer-free-treatment-under-the-scheme-2026-11-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-10T07:13:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/aayashhamana-karada-sa-kana-asapatal-ma-mafata-ilja-karava-sakata-ha_088647a06d0517af63eaad7b376a8df1.jpeg?w=1200&dpr=1.0",
-      "summary": "आयुष्मान कार्ड धारकों को प्रतिवर्ष पांच लाख रुपये तक का स्वास्थ्य कवर मिलता है। कार्ड से पंजीकृत सरकारी और निजी अस्पतालों में मुफ्त इलाज कराया जा सकता है। लाभार्थी घर बैठे ही अपने शहर के पात्र अस्पतालों की जांच कर सकते हैं। आयुष्मान कार्ड के पात्र लाभार्थियों को हर साल 5 लाख रुपये तक के स्वास्थ्य कवर की सुविधा मिलती है कार्डधारक अपने शहर के पंजीकृत सरकारी और निजी अस्पताल में आयुष्मान कार्ड से मुफ्त इलाज करवा सकता है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किस अस्पताल में करवा सकते हैं आयुष्मान कार्ड से मुफ्त इलाज? घर बैठे ऐसे करें चेक",
-          "summary": "आयुष्मान कार्ड धारकों को प्रतिवर्ष पांच लाख रुपये तक का स्वास्थ्य कवर मिलता है। कार्ड से पंजीकृत सरकारी और निजी अस्पतालों में मुफ्त इलाज कराया जा सकता है। लाभार्थी घर बैठे ही अपने शहर के पात्र अस्पतालों की जांच कर सकते हैं। आयुष्मान कार्ड के पात्र लाभार्थियों को हर साल 5 लाख रुपये तक के स्वास्थ्य कवर की सुविधा मिलती है कार्डधारक अपने शहर के पंजीकृत सरकारी और निजी अस्पताल में आयुष्मान कार्ड से मुफ्त इलाज करवा सकता है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "सरकार के खिलाफ टिप्पणी करना पड़ा भारी? कोलकाता पुलिस के इंस्पेक्टर निलंबित; जानें पूरा मामला",
-      "url": "https://www.amarujala.com/india-news/kolkata-police-inspector-eklak-ahmed-suspended-social-media-remarks-against-officials-2026-11-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-10T07:12:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/02/20/nalbna-sakataka-tasavara_14e5bbed01292d282ff81a566c75e682.jpeg?w=1200&dpr=1.0",
-      "summary": "कोलकाता पुलिस के इंस्पेक्टर एक्लक अहमद को निलंबित कर दिया गया है। उन्हें सोशल मीडिया पर सरकारी अधिकारियों के खिलाफ की गई टिप्पणियों के कारण सस्पेंड किया गया है। पश्चिम बंगाल में यह मामला चर्चा का विषय बना हुआ है। पश्चिम बंगाल: सरकार के खिलाफ टिप्पणी करना पड़ा भारी? कोलकाता पुलिस के इंस्पेक्टर निलंबित; जानें पूरा मामला।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सरकार के खिलाफ टिप्पणी करना पड़ा भारी? कोलकाता पुलिस के इंस्पेक्टर निलंबित; जानें पूरा मामला",
-          "summary": "कोलकाता पुलिस के इंस्पेक्टर एक्लक अहमद को निलंबित कर दिया गया है। उन्हें सोशल मीडिया पर सरकारी अधिकारियों के खिलाफ की गई टिप्पणियों के कारण सस्पेंड किया गया है। पश्चिम बंगाल में यह मामला चर्चा का विषय बना हुआ है। पश्चिम बंगाल: सरकार के खिलाफ टिप्पणी करना पड़ा भारी? कोलकाता पुलिस के इंस्पेक्टर निलंबित; जानें पूरा मामला।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "टाइगर पर हुए हमले का असर: मुंबई पुलिस की अभिनेताओं को सलाह, भीड़-भाड़ वाली जगहों पर जानें से बचें",
-      "url": "https://www.amarujala.com/entertainment/mumbai-police-advised-bollywood-actors-to-avoid-public-places-and-interactions-with-fans-amid-security-concern-2026-11-10",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-10T07:02:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/taigara-sharafa-para-hae-hamal-ka-btha-mabii-palsa-ka-salha_a409178a0fdb67ae4fa3635e5c82969b.jpeg?w=1200&dpr=1.0",
-      "summary": "टाइगर श्रॉफ पर हुए हमले के बाद मुंबई पुलिस ने अभिनेताओं की सुरक्षा बढ़ाई है। पुलिस ने बॉलीवुड स्टार्स से अपील की है कि वे भीड़-भाड़ वाली जगहों पर जाने से बचें। यह सलाह सुरक्षा जोखिम कम करने के लिए दी गई है। बीते दिनों अभिनेता टाइगर श्रॉफ पर हुए हमले के बाद मुंबई पुलिस लगातार बॉलीवुड अभिनेताओं की सुरक्षा में जुटी हुई है।",
+      "published_at": "2026-11-10T12:01:44+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/jammu-court-nbw-hafiz-saeed-pahalgam-terror-attack-trial-in-absentia-2026-07-4337f9768e65e6ba926582aef03fcaa7-1200x800.jpg",
+      "summary": "गुजरांवाला उपचुनाव में हाफिज सईद की पार्टी को करारी हार का सामना करना पड़ा। पीएमएल-एन ने 30,000 वोटों के अंतर से जीत दर्ज की। Pakistan By Election Hafiz Saeed Party Looses: जिस हाफिज सईद को मोस्ट वांटेड अपराधियों में शुमार किया गया है, उसे पाकिस्तान ने न सिर्फ पनाह दी है बल्कि उससे जुड़ी हुई राजनीतिक पार्टी भी है. हालांकि गुजरांवाला के उपचुनाव में आतंकी हाफिज सईद की पार्टी को करारी हार का सामना करना पड़ा है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "टाइगर पर हुए हमले का असर: मुंबई पुलिस की अभिनेताओं को सलाह, भीड़-भाड़ वाली जगहों पर जानें से बचें",
-          "summary": "टाइगर श्रॉफ पर हुए हमले के बाद मुंबई पुलिस ने अभिनेताओं की सुरक्षा बढ़ाई है। पुलिस ने बॉलीवुड स्टार्स से अपील की है कि वे भीड़-भाड़ वाली जगहों पर जाने से बचें। यह सलाह सुरक्षा जोखिम कम करने के लिए दी गई है। बीते दिनों अभिनेता टाइगर श्रॉफ पर हुए हमले के बाद मुंबई पुलिस लगातार बॉलीवुड अभिनेताओं की सुरक्षा में जुटी हुई है।",
+          "title": "पाकिस्तान में हाफिज सईद की पार्टी को झटका, उपचुनाव में PML-N ने हराया, मिले 30000 वोट",
+          "summary": "गुजरांवाला उपचुनाव में हाफिज सईद की पार्टी को करारी हार का सामना करना पड़ा। पीएमएल-एन ने 30,000 वोटों के अंतर से जीत दर्ज की। Pakistan By Election Hafiz Saeed Party Looses: जिस हाफिज सईद को मोस्ट वांटेड अपराधियों में शुमार किया गया है, उसे पाकिस्तान ने न सिर्फ पनाह दी है बल्कि उससे जुड़ी हुई राजनीतिक पार्टी भी है. हालांकि गुजरांवाला के उपचुनाव में आतंकी हाफिज सईद की पार्टी को करारी हार का सामना करना पड़ा है.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "आज शीतकाल के लिए बंद हुए गंगोत्री मंदिर के कपाट, मुखबा के लिए रवाना हुई मां गंगा की डोली",
-      "url": "https://www.amarujala.com/uttarakhand/uttarkashi/gangotri-temple-closes-today-for-winter-goddess-ganga-worship-to-continue-at-mukhba-chardham-yatra-2026-2026-11-10",
-      "source": "Amar Ujala Breaking",
+      "title": "कौन हैं नैटली बेकर, जिन्हें डोनाल्ड ट्रंप ने पाकिस्तान में अगला राजदूत नामित किया",
+      "url": "https://hindi.news18.com/world/pakistan-natalie-baker-becomes-next-us-ambassador-to-pakistan-ws-l-10977373.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-10T06:57:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/30/gangotri-dham-chardham-yatra-2025_51762ec719fb7c87229a67d8ebbefc48.jpeg?w=1200&dpr=1.0",
-      "summary": "गंगोत्री धाम के कपाट मंगलवार दोपहर 12:05 बजे छह माह के शीतकाल के लिए बंद कर दिए गए। इस अवसर पर मां गंगा की डोली मुखबा के लिए रवाना हुई। विश्व प्रसिद्ध गंगोत्री धाम के कपाट मंगलवार को अन्नकूट पर्व एवं गोवर्धन पूजा के पावन अवसर पर अभिजीत मुहूर्त में दोपहर 12 बजकर 05 मिनट पर वैदिक मंत्रोच्चार और विधि-विधान के साथ छह माह के शीतकाल के लिए बंद कर दिए गए।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज शीतकाल के लिए बंद हुए गंगोत्री मंदिर के कपाट, मुखबा के लिए रवाना हुई मां गंगा की डोली",
-          "summary": "गंगोत्री धाम के कपाट मंगलवार दोपहर 12:05 बजे छह माह के शीतकाल के लिए बंद कर दिए गए। इस अवसर पर मां गंगा की डोली मुखबा के लिए रवाना हुई। विश्व प्रसिद्ध गंगोत्री धाम के कपाट मंगलवार को अन्नकूट पर्व एवं गोवर्धन पूजा के पावन अवसर पर अभिजीत मुहूर्त में दोपहर 12 बजकर 05 मिनट पर वैदिक मंत्रोच्चार और विधि-विधान के साथ छह माह के शीतकाल के लिए बंद कर दिए गए।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आज आएगी या करना होगा इंतजार? जानें 10वीं-12वीं की परीक्षा कब से होने की उम्मीद",
-      "url": "https://www.amarujala.com/education/icse-isc-date-sheet-2027-when-will-cisce-release-class-10-and-12-timetables-check-expected-exam-dates-2026-11-10",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-10T06:57:19+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/aaiisaesaii-datashata-2027_a0cf6e64cac70813ccd9f319b39e92d4.jpeg?w=1200&dpr=1.0",
-      "summary": "सीआईएससीई की 2027 बोर्ड परीक्षा की समय-सारणी 10 नवंबर को जारी होने की संभावना है। हालांकि, बोर्ड की ओर से अभी तक आधिकारिक पुष्टि नहीं हुई है। सीआईएससीई की आईसीएसई 10वीं और आईएससी 12वीं की 2027 बोर्ड परीक्षा की समय-सारणी आज 10 नवंबर को जारी होने की संभावना जताई गई थी। हालांकि, बोर्ड की ओर से इसकी आधिकारिक पुष्टि नहीं हुई है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज आएगी या करना होगा इंतजार? जानें 10वीं-12वीं की परीक्षा कब से होने की उम्मीद",
-          "summary": "सीआईएससीई की 2027 बोर्ड परीक्षा की समय-सारणी 10 नवंबर को जारी होने की संभावना है। हालांकि, बोर्ड की ओर से अभी तक आधिकारिक पुष्टि नहीं हुई है। सीआईएससीई की आईसीएसई 10वीं और आईएससी 12वीं की 2027 बोर्ड परीक्षा की समय-सारणी आज 10 नवंबर को जारी होने की संभावना जताई गई थी। हालांकि, बोर्ड की ओर से इसकी आधिकारिक पुष्टि नहीं हुई है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'राष्ट्रीय सुरक्षा में जनता की अहम भूमिका': पूर्व सीडीएस अनिल चौहान बोले- सतर्कता, जागरूकता और",
-      "url": "https://www.amarujala.com/india-news/former-cds-anil-chauhan-national-security-aware-citizens-jnu-2026-11-10",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-10T06:43:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/former-cds-anil-chauhan_0d7b84bb4973b83d7e947da72f63847b.jpeg?w=1200&dpr=1.0",
-      "summary": "पूर्व सीडीएस अनिल चौहान ने कहा कि राष्ट्रीय सुरक्षा में जनता की भूमिका अहम है। उन्होंने सतर्कता, जागरूकता और कार्रवाई की आवश्यकता पर जोर दिया। 'राष्ट्रीय सुरक्षा में जनता की अहम भूमिका': पूर्व सीडीएस अनिल चौहान बोले- सतर्कता, जागरूकता और कार्रवाई जरूरी former-cds-anil-chauhan-national-security-aware-citizens-jnu।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'राष्ट्रीय सुरक्षा में जनता की अहम भूमिका': पूर्व सीडीएस अनिल चौहान बोले- सतर्कता, जागरूकता और",
-          "summary": "पूर्व सीडीएस अनिल चौहान ने कहा कि राष्ट्रीय सुरक्षा में जनता की भूमिका अहम है। उन्होंने सतर्कता, जागरूकता और कार्रवाई की आवश्यकता पर जोर दिया। 'राष्ट्रीय सुरक्षा में जनता की अहम भूमिका': पूर्व सीडीएस अनिल चौहान बोले- सतर्कता, जागरूकता और कार्रवाई जरूरी former-cds-anil-chauhan-national-security-aware-citizens-jnu।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की",
-      "url": "https://www.amarujala.com/world/saba-haider-tells-about-politics-family-ghaziabad-origin-and-on-us-midterm-election-2026-11-10",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-10T06:38:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/mata-pata-sa-mal-sasakara-na-kasa-bthal-sab-ka-jathaga_15982391cd60c99dee8dbcda693bfd1d.jpeg?w=1200&dpr=1.0",
-      "summary": "गजियाबाद की सबा हैदर ने अमेरिका की राजनीति में अपनी जगह बनाई। उन्होंने अपनी सफलता के पीछे की कहानी खुद साझा की। यह यात्रा एक साधारण शुरुआत से लेकर अंतरराष्ट्रीय मंच तक की है। गाजियाबाद से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की कहानी। भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर?",
+      "published_at": "2026-11-10T11:49:51+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Natalie-A.-Baker-1-2026-11-8a75c7b1bd4a8d85475485ac1ae0794d-1200x800.jpg",
+      "summary": "डोनाल्ड ट्रंप ने नैटली बेकर को पाकिस्तान में अमेरिकी राजदूत नामित किया। उन्हें सीनेट की मंजूरी चाहिए। बेकर पहले से ही मिशन प्रमुख के तौर पर वहां तैनात हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने नैटली बेकर को पाकिस्तान में अगला अमेरिकी राजदूत नामित किया है. हालांकि, इस पद को संभालने के लिए उन्हें अभी अमेरिकी सीनेट की मंजूरी लेनी होगी.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की",
-          "summary": "गजियाबाद की सबा हैदर ने अमेरिका की राजनीति में अपनी जगह बनाई। उन्होंने अपनी सफलता के पीछे की कहानी खुद साझा की। यह यात्रा एक साधारण शुरुआत से लेकर अंतरराष्ट्रीय मंच तक की है। गाजियाबाद से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर? खुद बताई कामयाबी के पीछे की कहानी। भारत से अमेरिका तक का सफर: यूएस की राजनीति तक कैसे पहुंचीं सबा हैदर?",
+          "title": "कौन हैं नैटली बेकर, जिन्हें डोनाल्ड ट्रंप ने पाकिस्तान में अगला राजदूत नामित किया",
+          "summary": "डोनाल्ड ट्रंप ने नैटली बेकर को पाकिस्तान में अमेरिकी राजदूत नामित किया। उन्हें सीनेट की मंजूरी चाहिए। बेकर पहले से ही मिशन प्रमुख के तौर पर वहां तैनात हैं। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने नैटली बेकर को पाकिस्तान में अगला अमेरिकी राजदूत नामित किया है. हालांकि, इस पद को संभालने के लिए उन्हें अभी अमेरिकी सीनेट की मंजूरी लेनी होगी.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘अगर शेख हसीना वापस लौटी तो सज़ा-ए-मौत के अलावा नहीं कोई और ऑप्शन’, बांग्लादेश के अभियोजक का दावा",
+      "url": "https://www.patrika.com/world-news/sheikh-hasina-has-no-option-but-death-sentence-if-she-returns-bangladesh-prosecutor-claims-21039801",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-10T11:42:02+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/sheikh-hasina_.webp",
+      "summary": "बांग्लादेश के अभियोजक का दावा है कि शेख हसीना की वापसी पर मौत की सज़ा ही विकल्प है। वह 5 अगस्त 2024 से भारत में शरण में हैं। बांग्लादेश (Bangladesh) में 2024 में बड़ा राजनीतिक उलटफेर हो गया था, जब तत्कालीन प्रधानमंत्री शेख हसीना (Sheikh Hasina) को पीएम पद और देश छोड़कर भागना पड़ा था। बांग्लादेश में राजनीतिक अस्थिरता के चलते 5 अगस्त 2024 को शेख हसीना को अपनी बहन शेख रेहाना (Sheikh Rehana) के साथ बांग्लादेश छोड़ना पड़ा और वह भारत (India) आ गई थीं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘अगर शेख हसीना वापस लौटी तो सज़ा-ए-मौत के अलावा नहीं कोई और ऑप्शन’, बांग्लादेश के अभियोजक का दावा",
+          "summary": "बांग्लादेश के अभियोजक का दावा है कि शेख हसीना की वापसी पर मौत की सज़ा ही विकल्प है। वह 5 अगस्त 2024 से भारत में शरण में हैं। बांग्लादेश (Bangladesh) में 2024 में बड़ा राजनीतिक उलटफेर हो गया था, जब तत्कालीन प्रधानमंत्री शेख हसीना (Sheikh Hasina) को पीएम पद और देश छोड़कर भागना पड़ा था। बांग्लादेश में राजनीतिक अस्थिरता के चलते 5 अगस्त 2024 को शेख हसीना को अपनी बहन शेख रेहाना (Sheikh Rehana) के साथ बांग्लादेश छोड़ना पड़ा और वह भारत (India) आ गई थीं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "विदेश में अपनों की सुरक्षा संभालेगी BSF, स्‍पेशल कमांडोज को CISF दे रही ट्रेनिंग, LTTE के गढ़ से",
+      "url": "https://hindi.news18.com/news/nation/bsf-take-security-charge-of-indian-nationals-abroad-cisf-providing-training-to-special-commandos-initiative-begin-stronghold-of-ltte-10977170.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-10T10:47:20+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/CISF-BSF-2026-11-4892149bee7ff1c58626c9a46c758c28-1200x800.jpg",
+      "summary": "बीएसएफ ने विदेश में सुरक्षा के लिए 50 स्पेशल कमांडोज की टीम तैयार की। सीआईएसएफ की एसएसजी और एपीएस यूनिट ने इनको ट्रेनिंग दी। विदेश में रह रहे अपनों की सुरक्षा पुख्‍ता करने के लिए बीएसएफ को स्‍पेशल कमांडोज को भेजा जा रहा है. इस तैनाती के लिए फिलहाल 50 कमांडोज की टीम को तैयार किया गया है. साथ ही विदेश में सामने आने वाली चुनौतियों से निपटने के लिए बीएसएफ के इन कमांडोज को सीआईएसएफ की एसएसजी और एपीएस यूनिट में स्‍पेशल ट्रेनिंग भी दी गई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "विदेश में अपनों की सुरक्षा संभालेगी BSF, स्‍पेशल कमांडोज को CISF दे रही ट्रेनिंग, LTTE के गढ़ से",
+          "summary": "बीएसएफ ने विदेश में सुरक्षा के लिए 50 स्पेशल कमांडोज की टीम तैयार की। सीआईएसएफ की एसएसजी और एपीएस यूनिट ने इनको ट्रेनिंग दी। विदेश में रह रहे अपनों की सुरक्षा पुख्‍ता करने के लिए बीएसएफ को स्‍पेशल कमांडोज को भेजा जा रहा है. इस तैनाती के लिए फिलहाल 50 कमांडोज की टीम को तैयार किया गया है. साथ ही विदेश में सामने आने वाली चुनौतियों से निपटने के लिए बीएसएफ के इन कमांडोज को सीआईएसएफ की एसएसजी और एपीएस यूनिट में स्‍पेशल ट्रेनिंग भी दी गई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "समय से पहले हड्डियां कंपा देगी ठंड, 24 घंटों में इन इलाकों का होगा बुरा हाल, मौसम विभाग भी हैरान",
+      "url": "https://hindi.news18.com/world/rest-of-world-heavy-snow-warning-japan-hit-by-brutal-midwinter-blizzard-sapporo-temperatures-plunge-to-minus-3-degrees-mausam-in-24-hours-10977152.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-10T10:40:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Japan-Winter-2026-11-9d6677edca73c5facd274a0d505e17c7-1200x800.jpg",
+      "summary": "जापान के होक्काइडो में अचानक आई ठंड ने सप्पोरो और बिफुका में रेड अलर्ट जारी कर दिया। तापमान माइनस पांच डिग्री तक गिर गया। शून्य दृश्यता के कारण ट्रेनें और उड़ानें प्रभावित हुईं। जापान के होक्काइडो में ठंड ने कहर ढा दिया है. यहां समय से पहले ही भारी बर्फबारी शुरू हो गई है. सप्पोरो और बिफुका जैसे इलाकों में अगले 24 घंटों के लिए रेड अलर्ट जारी कर दिया गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "समय से पहले हड्डियां कंपा देगी ठंड, 24 घंटों में इन इलाकों का होगा बुरा हाल, मौसम विभाग भी हैरान",
+          "summary": "जापान के होक्काइडो में अचानक आई ठंड ने सप्पोरो और बिफुका में रेड अलर्ट जारी कर दिया। तापमान माइनस पांच डिग्री तक गिर गया। शून्य दृश्यता के कारण ट्रेनें और उड़ानें प्रभावित हुईं। जापान के होक्काइडो में ठंड ने कहर ढा दिया है. यहां समय से पहले ही भारी बर्फबारी शुरू हो गई है. सप्पोरो और बिफुका जैसे इलाकों में अगले 24 घंटों के लिए रेड अलर्ट जारी कर दिया गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "लैंडिंग के दौरान प्लेन की हुई कार से टक्कर, ऑस्ट्रेलिया में दो लोग घायल",
+      "url": "https://www.patrika.com/world-news/plane-crashes-into-car-2-people-injured-in-australia-21039568",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-10T10:19:46+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/plane-crashes-into-car.webp",
+      "summary": "ऑस्ट्रेलिया में 10 नवंबर को लैंडिंग के दौरान विमान की कार से टक्कर हो गई। इस हादसे में दो लोग घायल हुए। स्रोत में विमान या हवाई अड्डे का नाम नहीं बताया गया। विमान हादसों के मामले दुनियाभर में बढ़ रहे हैं। दुनियाभर में आए दिन कहीं न कहीं विमान हादसों के मामले देखने को मिलते हैं। पिछले दो साल में प्लेन क्रैश (Plane Crash) होने के कई मामले देखे गए हैं।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लैंडिंग के दौरान प्लेन की हुई कार से टक्कर, ऑस्ट्रेलिया में दो लोग घायल",
+          "summary": "ऑस्ट्रेलिया में 10 नवंबर को लैंडिंग के दौरान विमान की कार से टक्कर हो गई। इस हादसे में दो लोग घायल हुए। स्रोत में विमान या हवाई अड्डे का नाम नहीं बताया गया। विमान हादसों के मामले दुनियाभर में बढ़ रहे हैं। दुनियाभर में आए दिन कहीं न कहीं विमान हादसों के मामले देखने को मिलते हैं। पिछले दो साल में प्लेन क्रैश (Plane Crash) होने के कई मामले देखे गए हैं।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सऊदी अरब ने यमन में की एयरस्ट्राइक्स, गैस स्टेशन और तेल कंपनी की बिल्डिंग को बनाया निशाना",
+      "url": "https://www.patrika.com/world-news/saudi-arabia-airstrikes-hit-gas-facility-and-oil-company-building-in-yemen-21039525",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-10T09:42:55+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/saudi-arabia-attacks-sanaa.webp",
+      "summary": "सऊदी अरब ने यमन की राजधानी सना में हूती नियंत्रित क्षेत्रों पर एयरस्ट्राइक की। हमले में गैस स्टेशन और तेल कंपनी की इमारतें निशाना बनीं। दोनों पक्षों के बीच हमलों का सिलसिला जारी है। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इसके साथ ही हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला थम नहीं रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी अरब ने यमन में की एयरस्ट्राइक्स, गैस स्टेशन और तेल कंपनी की बिल्डिंग को बनाया निशाना",
+          "summary": "सऊदी अरब ने यमन की राजधानी सना में हूती नियंत्रित क्षेत्रों पर एयरस्ट्राइक की। हमले में गैस स्टेशन और तेल कंपनी की इमारतें निशाना बनीं। दोनों पक्षों के बीच हमलों का सिलसिला जारी है। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। इसके साथ ही हूतियों और सऊदी अरब (Saudi Arabia) के बीच भी हमलों का सिलसिला थम नहीं रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "धरती से नीचे बसा पाताल लोक, 35761 फीट गहराई में रहते हैं रहस्यमयी जीव, सूरज की रोशनी भी तोड़ देती",
+      "url": "https://hindi.news18.com/world/rest-of-world-deepest-place-in-the-world-mariana-trench-35761-feet-underwater-another-world-amazing-places-on-earth-photogallery-10976865.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-10T09:22:41+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/mariana-trench-5-2026-11-3fcac37342589d01b2414701d76345b9-1200x800.jpg",
+      "summary": "मारियाना ट्रेंच की 35761 फीट गहराई में रहस्यमयी जीव रहते हैं। वहां सूरज की रोशनी नहीं पहुंचती। यह पृथ्वी का सबसे गहरा समुद्री क्षेत्र है। Mariana Trench Deepest Place: आपने सुना होगा कि धरती के नीचे पाताल लोक है, जहां अंधकार का राज चलता है. हालांकि आप इसका नाम नहीं जानते हैं, तो चलिए हम आपको एक ऐसी ही दूसरी दुनिया के बारे में बताते हैं, जो सूरज की रोशनी को भी अपने इलाके में घुसने नहीं देती.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धरती से नीचे बसा पाताल लोक, 35761 फीट गहराई में रहते हैं रहस्यमयी जीव, सूरज की रोशनी भी तोड़ देती",
+          "summary": "मारियाना ट्रेंच की 35761 फीट गहराई में रहस्यमयी जीव रहते हैं। वहां सूरज की रोशनी नहीं पहुंचती। यह पृथ्वी का सबसे गहरा समुद्री क्षेत्र है। Mariana Trench Deepest Place: आपने सुना होगा कि धरती के नीचे पाताल लोक है, जहां अंधकार का राज चलता है. हालांकि आप इसका नाम नहीं जानते हैं, तो चलिए हम आपको एक ऐसी ही दूसरी दुनिया के बारे में बताते हैं, जो सूरज की रोशनी को भी अपने इलाके में घुसने नहीं देती.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "ईरान ने कर दी डिमांड – ‘युद्ध खत्म करने के लिए अमेरिका करें हमारी 7 शर्तों के सामने सरेंडर’",
+      "url": "https://www.patrika.com/world-news/iran-demands-us-surrender-to-its-7-conditions-to-end-war-21039434",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-10T09:19:04+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/rezaei.webp",
+      "summary": "ईरान के सैन्य सलाहकार मोहसेन रेज़ाई ने अमेरिका से युद्ध समाप्त करने की सात शर्तों पर सहमति मांगी। दोनों देशों के बीच तनाव जारी है। शर्तों की विस्तृत जानकारी स्रोत में उपलब्ध नहीं है। युद्ध अभी भी खत्म नहीं हुआ है, क्योंकि दोनों पक्षों के बीच एक-दूसरे की शर्तों पर सहमति नहीं बन पा रही है। इसी बीच अब ईरान के वरिष्ठ सैन्य सलाहकार और ईरानी सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव मोहसेन रेज़ाई (Mohsen Rezaei) ने युद्ध खत्म करने के मामले में बड़ी डिमांड कर दी है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान ने कर दी डिमांड – ‘युद्ध खत्म करने के लिए अमेरिका करें हमारी 7 शर्तों के सामने सरेंडर’",
+          "summary": "ईरान के सैन्य सलाहकार मोहसेन रेज़ाई ने अमेरिका से युद्ध समाप्त करने की सात शर्तों पर सहमति मांगी। दोनों देशों के बीच तनाव जारी है। शर्तों की विस्तृत जानकारी स्रोत में उपलब्ध नहीं है। युद्ध अभी भी खत्म नहीं हुआ है, क्योंकि दोनों पक्षों के बीच एक-दूसरे की शर्तों पर सहमति नहीं बन पा रही है। इसी बीच अब ईरान के वरिष्ठ सैन्य सलाहकार और ईरानी सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव मोहसेन रेज़ाई (Mohsen Rezaei) ने युद्ध खत्म करने के मामले में बड़ी डिमांड कर दी है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "भारत से जाते ही हाजिरी बजाने पाकिस्तान पहुंचे बांग्लादेशी खुफिया प्रमुख, हमारे लिए क्यों है टेंशन",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-intel-chief-secretly-reaches-pakistan-11-days-after-india-visit-why-tension-for-us-ws-l-10976367.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-10T08:51:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-news-2026-11-2bfbb2063d7f0dbd31b0215a9fba4c8d-1200x800.jpg",
+      "summary": "बांग्लादेश के खुफिया प्रमुख ने पाकिस्तान का दौरा किया। यह सफर भारत के लिए चिंता का विषय है। देश की नई सरकार पाकिस्तान के निर्देशों पर चल रही है। पहले जो देश निरपेक्ष पॉलिसी लेकर चलता था, वो अब पाकिस्तान की कठपुतली बना हुआ है. एक तरफ तो वो भारत से रिश्ते सुधारना भी चाहता है और वहीं दूसरी तरफ बिना अपने आका पाकिस्तान के एक कदम भी आगे नहीं बढ़ाता.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत से जाते ही हाजिरी बजाने पाकिस्तान पहुंचे बांग्लादेशी खुफिया प्रमुख, हमारे लिए क्यों है टेंशन",
+          "summary": "बांग्लादेश के खुफिया प्रमुख ने पाकिस्तान का दौरा किया। यह सफर भारत के लिए चिंता का विषय है। देश की नई सरकार पाकिस्तान के निर्देशों पर चल रही है। पहले जो देश निरपेक्ष पॉलिसी लेकर चलता था, वो अब पाकिस्तान की कठपुतली बना हुआ है. एक तरफ तो वो भारत से रिश्ते सुधारना भी चाहता है और वहीं दूसरी तरफ बिना अपने आका पाकिस्तान के एक कदम भी आगे नहीं बढ़ाता.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान का बड़ा दावा, कहा- होर्मुज में अमेरिकी मदद वाला नेविगेशन सिस्टम नष्ट, तेल तस्करी पर लगी रोक",
+      "url": "https://www.patrika.com/world-news/iran-claims-destruction-of-navigation-systems-in-strait-of-hormuz-21039277",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-10T08:19:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/hormuz.webp",
+      "summary": "ईरान ने दावा किया कि उसने ओमान के डिडामार द्वीप पर अमेरिकी नेविगेशन सिस्टम नष्ट किए। इसके बाद होर्मुज से तेल की आवाजाही पूरी तरह रुक गई। स्ट्रेट ऑफ होर्मुज में तनाव के बीच ईरान ने दावा किया है कि उसने अमेरिकी जहाजों की मदद के रहे नेविगेशन सिस्टम को नष्ट कर दिया गया है। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) के एक नौसैनिक अधिकारी ने सरकारी टीवी चैनल IRIB को बताया कि ओमान के डिडामार द्वीप पर इन सिस्टम को नष्ट किए जाने के बाद, कल रात उस रास्ते से कोई जहाज नहीं गुजरा और इस इलाके से तेल की आवाजाही पूरी तरह से रुक गई है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान का बड़ा दावा, कहा- होर्मुज में अमेरिकी मदद वाला नेविगेशन सिस्टम नष्ट, तेल तस्करी पर लगी रोक",
+          "summary": "ईरान ने दावा किया कि उसने ओमान के डिडामार द्वीप पर अमेरिकी नेविगेशन सिस्टम नष्ट किए। इसके बाद होर्मुज से तेल की आवाजाही पूरी तरह रुक गई। स्ट्रेट ऑफ होर्मुज में तनाव के बीच ईरान ने दावा किया है कि उसने अमेरिकी जहाजों की मदद के रहे नेविगेशन सिस्टम को नष्ट कर दिया गया है। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) के एक नौसैनिक अधिकारी ने सरकारी टीवी चैनल IRIB को बताया कि ओमान के डिडामार द्वीप पर इन सिस्टम को नष्ट किए जाने के बाद, कल रात उस रास्ते से कोई जहाज नहीं गुजरा और इस इलाके से तेल की आवाजाही पूरी तरह से रुक गई है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अपनी पत्नी को गुडनाइट कह लें: ट्रंप ने AI कंपनी के एक शीर्ष अधिकारी को दी थी गिरफ्तार करने की धमकी",
+      "url": "https://www.patrika.com/world-news/trump-threatens-arrest-ai-company-executive-60-minutes-safety-violation-21039202",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-10T07:08:01+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/donald-trump_.webp",
+      "summary": "ट्रंप ने एक एआई कंपनी के अधिकारी को गिरफ्तार करने की धमकी दी। उन्होंने सुरक्षा नियमों के उल्लंघन का हवाला दिया। यह घटना 60 मिनट्स शो में सामने आई। Trump Arrest Threat: अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने आर्टिफिशियल इंटेलिजेंस (AI) से जुड़ी एक कंपनी के एक अधिकारी को कड़ी चेतावनी दी थी। ट्रम्प ने सुरक्षा नियमों के कथित उल्लंघन को लेकर उस अधिकारी को तुरंत गिरफ्तार करने की धमकी दी।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अपनी पत्नी को गुडनाइट कह लें: ट्रंप ने AI कंपनी के एक शीर्ष अधिकारी को दी थी गिरफ्तार करने की धमकी",
+          "summary": "ट्रंप ने एक एआई कंपनी के अधिकारी को गिरफ्तार करने की धमकी दी। उन्होंने सुरक्षा नियमों के उल्लंघन का हवाला दिया। यह घटना 60 मिनट्स शो में सामने आई। Trump Arrest Threat: अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने आर्टिफिशियल इंटेलिजेंस (AI) से जुड़ी एक कंपनी के एक अधिकारी को कड़ी चेतावनी दी थी। ट्रम्प ने सुरक्षा नियमों के कथित उल्लंघन को लेकर उस अधिकारी को तुरंत गिरफ्तार करने की धमकी दी।",
+          "region": "अमेरिका"
         }
       }
     },
@@ -578,78 +650,6 @@
       }
     },
     {
-      "title": "81 साल की उम्र में तिलोनिया में ली अंतिम सांस; आज शाम होगा अंतिम संस्कार",
-      "url": "https://www.amarujala.com/rajasthan/padma-shri-bunker-roy-dies-at-81-barefoot-college-founder-tilonia-2026-11-10",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-10T06:37:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/pathamashara-bkara-raya-ka-nathhana_04a7231f6b26904c69a31742b0bebb1d.jpeg?w=1200&dpr=1.0",
-      "summary": "सामाजिक कार्यकर्ता संजीत रॉय का मंगलवार सुबह राजस्थान के तिलोनिया में निधन हो गया। वे 81 वर्ष के थे और बेयरफुट कॉलेज के संस्थापक थे। प्रख्यात सामाजिक कार्यकर्ता और बेयरफुट कॉलेज के संस्थापक संजीत 'बंकर' रॉय का मंगलवार सुबह राजस्थान के अजमेर जिले के तिलोनिया में निधन हो गया। उन्होंने सुबह 6:15 बजे अपने आवास पर अंतिम सांस ली। 81 साल की उम्र में तिलोनिया में ली अंतिम सांस; आज शाम होगा अंतिम संस्कार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "81 साल की उम्र में तिलोनिया में ली अंतिम सांस; आज शाम होगा अंतिम संस्कार",
-          "summary": "सामाजिक कार्यकर्ता संजीत रॉय का मंगलवार सुबह राजस्थान के तिलोनिया में निधन हो गया। वे 81 वर्ष के थे और बेयरफुट कॉलेज के संस्थापक थे। प्रख्यात सामाजिक कार्यकर्ता और बेयरफुट कॉलेज के संस्थापक संजीत 'बंकर' रॉय का मंगलवार सुबह राजस्थान के अजमेर जिले के तिलोनिया में निधन हो गया। उन्होंने सुबह 6:15 बजे अपने आवास पर अंतिम सांस ली। 81 साल की उम्र में तिलोनिया में ली अंतिम सांस; आज शाम होगा अंतिम संस्कार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अब एक्सप्रेसवे पर चलने से पहले होगी चालकों की जांच; बिना फिटनेस नहीं मिलेगी एंट्री; हादसों पर सरकार",
-      "url": "https://www.amarujala.com/lucknow/drivers-will-now-be-checked-before-traveling-on-expressways-in-up-entry-will-be-denied-without-fitness-2026-11-10",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-10T06:35:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/06/aagara-lkhanauu-ekasaparasava_17d6663cf31a1a121077301a0e49604c.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश सरकार ने लखनऊ-आगरा एक्सप्रेसवे पर हादसे के बाद सड़क सुरक्षा नियमों में बदलाव किया है। अब चालकों की फिटनेस जांच अनिवार्य होगी। बिना पास होने वाले ड्राइवरों को एंट्री नहीं मिलेगी। लखनऊ-आगरा एक्सप्रेसवे पर हुए भीषण बस हादसे के बाद उत्तर प्रदेश सरकार ने सड़क सुरक्षा को लेकर सख्त रुख अपनाया है। अब एक्सप्रेसवे पर चलने से पहले होगी चालकों की जांच; बिना फिटनेस नहीं मिलेगी एंट्री; हादसों पर सरकार।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब एक्सप्रेसवे पर चलने से पहले होगी चालकों की जांच; बिना फिटनेस नहीं मिलेगी एंट्री; हादसों पर सरकार",
-          "summary": "उत्तर प्रदेश सरकार ने लखनऊ-आगरा एक्सप्रेसवे पर हादसे के बाद सड़क सुरक्षा नियमों में बदलाव किया है। अब चालकों की फिटनेस जांच अनिवार्य होगी। बिना पास होने वाले ड्राइवरों को एंट्री नहीं मिलेगी। लखनऊ-आगरा एक्सप्रेसवे पर हुए भीषण बस हादसे के बाद उत्तर प्रदेश सरकार ने सड़क सुरक्षा को लेकर सख्त रुख अपनाया है। अब एक्सप्रेसवे पर चलने से पहले होगी चालकों की जांच; बिना फिटनेस नहीं मिलेगी एंट्री; हादसों पर सरकार।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र",
-      "url": "https://www.amarujala.com/india-news/sonia-gandhi-memoir-rahul-rajiv-gandhi-assassination-indira-gandhi-temper-2026-11-10",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-10T06:00:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/sonia-gandhi-memoir_b7a285892f3e2b1bf1a29a216c1db25e.jpeg?w=1200&dpr=1.0",
-      "summary": "सोनिया गांधी की किताब में राजीव गांधी की हत्या से पहले की घटनाओं का उल्लेख है। इंदिरा गांधी के गुस्से और अनहोनी की आशंका जताने वाले व्यक्ति का जिक्र किया गया है। सोनिया की किताब में खुलासा: राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र",
-          "summary": "सोनिया गांधी की किताब में राजीव गांधी की हत्या से पहले की घटनाओं का उल्लेख है। इंदिरा गांधी के गुस्से और अनहोनी की आशंका जताने वाले व्यक्ति का जिक्र किया गया है। सोनिया की किताब में खुलासा: राजीव की हत्या से पहले किसने जताई थी अनहोनी की आशंका? इंदिरा के गुस्से का भी जिक्र।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "2022 में फेल रहे, 2026 में चलेगा एआईएमआईएम का जादू? ओवैसी के मेरठ दौरे को लेकर सियासी सरगर्मी तेज",
-      "url": "https://www.amarujala.com/uttar-pradesh/meerut/up-election-2027-will-owaisi-aimim-make-an-impact-in-meerut-first-rally-scheduled-for-november-14-2026-11-10",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-10T05:55:00+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/owaisi_47a28b5b71f33aa1dc13da5662f13182.jpeg?w=1200&dpr=1.0",
-      "summary": "एआईएमआईएम ने उत्तर प्रदेश विधानसभा चुनाव 2027 के लिए अपनी तैयारी शुरू कर दी है। असदुद्दीन ओवैसी के मेरठ दौरे के बाद राजनीतिक गतिविधियां तेज हो गई हैं। पार्टी इस बार मजबूती से मैदान में उतरने का दावा कर रही है। उत्तर प्रदेश विधानसभा चुनाव-2027 को लेकर राजनीतिक दलों की सुगबुगाहट तेज हो गई है। ऑल इंडिया मजलिस-ए-इत्तेहादुल मुस्लिमीन (एआईएमआईएम) इस बार सूबे में पूरी मजबूती के साथ चुनाव मैदान में उतरने का दम भर रही है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "2022 में फेल रहे, 2026 में चलेगा एआईएमआईएम का जादू? ओवैसी के मेरठ दौरे को लेकर सियासी सरगर्मी तेज",
-          "summary": "एआईएमआईएम ने उत्तर प्रदेश विधानसभा चुनाव 2027 के लिए अपनी तैयारी शुरू कर दी है। असदुद्दीन ओवैसी के मेरठ दौरे के बाद राजनीतिक गतिविधियां तेज हो गई हैं। पार्टी इस बार मजबूती से मैदान में उतरने का दावा कर रही है। उत्तर प्रदेश विधानसभा चुनाव-2027 को लेकर राजनीतिक दलों की सुगबुगाहट तेज हो गई है। ऑल इंडिया मजलिस-ए-इत्तेहादुल मुस्लिमीन (एआईएमआईएम) इस बार सूबे में पूरी मजबूती के साथ चुनाव मैदान में उतरने का दम भर रही है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "किस 'टेरिबल एक्‍सपीरिएंस' की बात कर रही थीं पाकिस्‍तानी एकंर राबिया, पति मोहरा, कोई और है असली",
       "url": "https://hindi.news18.com/world/pakistan-pakistan-tv-female-news-anchor-rabia-ahsan-whatsapp-account-hacked-before-murder-husband-just-pawn-asim-munir-pakistan-army-photogallery-10975985.html",
       "source": "News18 Hindi (World)",
@@ -664,24 +664,6 @@
           "title": "किस 'टेरिबल एक्‍सपीरिएंस' की बात कर रही थीं पाकिस्‍तानी एकंर राबिया, पति मोहरा, कोई और है असली",
           "summary": "पाकिस्तान में टीवी एंकर राबिया अहसान की हत्या के बाद स्वतंत्र मीडिया पर प्रतिबंधों की चर्चा है। स्रोतों के अनुसार आर्मी और सरकार स्वतंत्र पत्रकारिता को सहन नहीं करती। राबिया ने सच बताने की कोशिश की थी। पाकिस्‍तान आर्मी और वहां की सरकार स्‍वतंत्र मीडिया को देखना नहीं चाहती है. अगर कोई पत्रकार जनता तक सही खबर पहुंचाने की कोशिश करता है तो उन्‍हें गंभीर परिणाम भुगतना पड़ता है.",
           "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "तेज रफ्तार कार ने बाइक में मारी टक्कर, तीन की मौत और एक गंभीर घायल, फरार चालक की तलाश जारी",
-      "url": "https://www.amarujala.com/uttar-pradesh/kanpur/kannauj-speeding-car-hits-motorcycle-three-dead-one-critically-injured-search-underway-for-absconding-driver-2026-11-10",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-10T05:22:34+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/10/kanpur_0c8b746af83ce8a8017a1702d52f3a50.jpeg?w=1200&dpr=1.0",
-      "summary": "कन्नौज के इंदरगढ़ में तेज रफ्तार कार ने बाइक में टक्कर मारी। तीन लोगों की मौत हो गई और एक युवक गंभीर रूप से घायल हुआ। कार चालक मौके से फरार हो गया है। कन्नौज जिले के इंदरगढ़ थाना क्षेत्र में सोमवार देर रात तेज रफ्तार कार की टक्कर से बाइक सवार तीन लोगों की मौत हो गई, जबकि एक युवक गंभीर रूप से घायल हो गया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेज रफ्तार कार ने बाइक में मारी टक्कर, तीन की मौत और एक गंभीर घायल, फरार चालक की तलाश जारी",
-          "summary": "कन्नौज के इंदरगढ़ में तेज रफ्तार कार ने बाइक में टक्कर मारी। तीन लोगों की मौत हो गई और एक युवक गंभीर रूप से घायल हुआ। कार चालक मौके से फरार हो गया है। कन्नौज जिले के इंदरगढ़ थाना क्षेत्र में सोमवार देर रात तेज रफ्तार कार की टक्कर से बाइक सवार तीन लोगों की मौत हो गई, जबकि एक युवक गंभीर रूप से घायल हो गया।",
-          "region": "दुनिया"
         }
       }
     },
@@ -754,6 +736,24 @@
           "title": "'भारत ने रूस से दोस्ती निभाने के लिए पकड़ा', तिहाड़ में बंद रहे अमेरिकी मैथ्यू का पैंतरा- अभी बहुत",
           "summary": "अमेरिकी नागरिक मैथ्यू वैनडाइक ने अपनी गिरफ्तारी को भारत-रूस संबंधों से जोड़ा। वह तिहाड़ जेल में छह महीने से बंद है। उसने आरोप लगाया कि उसे दोस्ती निभाने के लिए पकड़ा गया। Matthew Vandyke Claims over Arrest: भारतीय इंवेस्टिगेटिव एजेंसी के हत्थे चढ़ने के बाद अमेरिकी नागरिक मैथ्यू वैनडाइक ने उल्टे-सीधे आरोप लगाने शुरू कर दिए हैं. करीब 6 महीने तिहाड़ में रहने के बाद उसने अपनी गिरफ्तारी को सीधा भारत-रूस की दोस्ती और यूक्रेन युद्ध के साथ जोड़ दिया है.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "Nvidia CEO जेनसन हुआंग की मुश्किलें बढ़ीं: चीनी जासूसी विवाद में शेयरधारकों ने ठोका केस, ट्रंप",
+      "url": "https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-lawsuit-alice-huang-china-spy-allegations-21038895",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-10T04:09:28+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-8.webp",
+      "summary": "शेयरधारकों ने एनवीडिया और जेन्सेन हुआंग के खिलाफ क्लास-एक्शन मुकदमा दायर किया। आरोप है कि चीनी जासूसी विवाद में निवेशकों को सूचना नहीं दी गई। अमेरिकी निवेशकों ने आर्टिफिशियल इंटेलिजेंस (AI) की दिग्गज कंपनी एनवीडिया (Nvidia) और इसके CEO जेन्सेन हुआंग के खिलाफ कानूनी कार्रवाई शुरू कर दी है। कैलिफोर्निया के सैन होजे में अमेरिकी अदालत में दायर एक क्लास-एक्शन मुकदमे में शेयरधारकों का आरोप है कि कंपनी और हुआंग ने निवेशकों को अंधेरे में रखा।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "Nvidia CEO जेनसन हुआंग की मुश्किलें बढ़ीं: चीनी जासूसी विवाद में शेयरधारकों ने ठोका केस, ट्रंप",
+          "summary": "शेयरधारकों ने एनवीडिया और जेन्सेन हुआंग के खिलाफ क्लास-एक्शन मुकदमा दायर किया। आरोप है कि चीनी जासूसी विवाद में निवेशकों को सूचना नहीं दी गई। अमेरिकी निवेशकों ने आर्टिफिशियल इंटेलिजेंस (AI) की दिग्गज कंपनी एनवीडिया (Nvidia) और इसके CEO जेन्सेन हुआंग के खिलाफ कानूनी कार्रवाई शुरू कर दी है। कैलिफोर्निया के सैन होजे में अमेरिकी अदालत में दायर एक क्लास-एक्शन मुकदमे में शेयरधारकों का आरोप है कि कंपनी और हुआंग ने निवेशकों को अंधेरे में रखा।",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
