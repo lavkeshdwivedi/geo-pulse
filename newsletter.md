@@ -1,6 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 11, 2026 03:01 IST
+**Updated:** November 11, 2026 07:03 IST
+
+---
+
+## Americas
+
+### [U.S. judge says Trump’s $10 billion BBC defamation case can proceed](https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece)
+*The Hindu (International)* - Nov 11, 06:06 IST (iso: 2026-11-11T00:36:19+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ocesge/article71688098.ece/alternates/LANDSCAPE_1200/2026-10-07T185455Z_1498628222_RC2PHIAD8GCM_RTRMADP_3_BBC-M-A-C4.JPG -->
+
+A federal judge in Florida allowed Donald Trump's $10 billion defamation lawsuit against the BBC to move forward. Judge Jeffrey Kuntz ruled that Trump plausibly alleged the broadcaster damaged his reputation. The court found the BBC knew or should have known the clip was misleading. U. S. District Judge Jeffrey Kuntz in Florida declined to throw out Mr. Trump’s defamation ​claim against the BBC, ‌saying Mr.
+
+### [EU climate chief Wopke Hoekstra warns 'expectations low' from COP31 summit](https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece)
+*The Hindu (International)* - Nov 10, 21:24 IST (iso: 2026-11-10T15:54:18+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/uqt72k/article71687077.ece/alternates/LANDSCAPE_1200/2025-07-02T100025Z_2115836927_RC29EFA4PMIO_RTRMADP_3_CLIMATE-CHANGE-EU-2040.JPG -->
+
+EU climate chief Wopke Hoekstra stated expectations for COP31 are low. He believes focusing solely on electrification offers a chance for meaningful results. The summit faces skepticism over its potential to deliver concrete climate commitments. "If indeed we manage to make electrification the sole focus, or close to the sole focus of the COP, I think we have a chance to deliver on something that is truly meaningful," Wopke Hoekstra said.
+
+### [Can climate promises finally deliver results?](https://news.un.org/feed/view/en/story/2026/11/1168763)
+*UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/9-11-26_COP31-opening-Stiell_UNFCCC.jpg/image560x340cropped.jpg -->
+
+Nearly 200 countries gathered in Türkiye for a climate summit focused on concrete decisions rather than grand declarations. Negotiators face tough questions on finance and clean energy. A powerful El Niño event threatens to worsen extreme weather conditions for vulnerable communities. Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions.
+
+### [Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit](https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity)
+*The Guardian* - Nov 09, 07:41 IST (iso: 2026-11-09T02:11:25+00:00)
+<!-- image: https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=920553499e2d4cef68f79a76ce8f99b1 -->
+
+Pope Leo XIV criticized Javier Milei's austerity measures in Buenos Aires. The pontiff insisted the economy must serve the people. He delivered the speech during a 12-day Latin America tour. The audience in Argentina responded with rapturous applause to the critique. Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.“The economy must be at the service of the people, rather than people being at the service.
+
+---
+
+## World
+
+### [U.S. Republicans derail bid to impeach Hegseth](https://www.thehindu.com/news/international/us-republicans-derail-bid-to-impeach-hegseth/article71687959.ece)
+*The Hindu (International)* - Nov 11, 05:33 IST (iso: 2026-11-11T00:03:39+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/5xee5p/article71688094.ece/alternates/LANDSCAPE_1200/2026-11-10T220533Z_286105116_RC29LOA8PF04_RTRMADP_3_USA-TRUMP-HEGSETH-IMPEACHMENT.JPG -->
+
+House Republicans blocked an immediate impeachment of Pete Hegseth by voting 211 to 204. The resolution was sent to the Judiciary Committee instead of a floor vote. This action halts the current drive but allows Democrats to revive the effort after gaining control of Congress in January. The House voted 211 to 204 to send the impeachment resolution to the Judiciary Committee; this halts the immediate impeachment drive but does not prevent Democrats from reviving the effort after taking control of Congress in January.
 
 ---
 
@@ -41,40 +79,6 @@ The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 f
 <!-- image: https://gdb.rferl.org/dc4cc9e2-10f0-4a7b-4ae9-08df13a884cb_cx4_cy11_cw78_w1200_h630.jpg -->
 
 Ukrainian crews worked to restore electricity to hundreds of thousands in the east after Russian airstrikes. Officials confirmed external power reached the Zaporizhzhya nuclear plant. Russian forces currently occupy that facility. Ukrainian authorities battled to restore power to hundreds of thousands of people in the east of the country following Russian air strikes, while officials said external power had been restored to the Zaporizhzhya nuclear plant, which is currently occupied by Russian forces.
-
----
-
-## Americas
-
-### [EU climate chief Wopke Hoekstra warns 'expectations low' from COP31 summit](https://www.thehindu.com/news/international/eu-climate-chief-wopke-hoekstra-warns-expectations-low-from-cop31-summit/article71686827.ece)
-*The Hindu (International)* - Nov 10, 21:24 IST (iso: 2026-11-10T15:54:18+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/uqt72k/article71687077.ece/alternates/LANDSCAPE_1200/2025-07-02T100025Z_2115836927_RC29EFA4PMIO_RTRMADP_3_CLIMATE-CHANGE-EU-2040.JPG -->
-
-EU climate chief Wopke Hoekstra stated expectations for COP31 are low. He believes focusing solely on electrification offers a chance for meaningful results. The summit faces skepticism over its potential to deliver concrete climate commitments. "If indeed we manage to make electrification the sole focus, or close to the sole focus of the COP, I think we have a chance to deliver on something that is truly meaningful," Wopke Hoekstra said.
-
-### [Pete Hegseth to hold first Pentagon briefing since May amid impeachment threat](https://www.thehindu.com/news/international/pete-hegseth-to-hold-first-pentagon-briefing-since-may-amid-impeachment-threat/article71685209.ece)
-*The Hindu (International)* - Nov 10, 19:18 IST (iso: 2026-11-10T13:48:58+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/r9djh2/article71685232.ece/alternates/LANDSCAPE_1200/Hegseth_Impeachment_1_874.jpg -->
-
-Pete Hegseth will hold his first Pentagon briefing since May. The announcement comes amid an active impeachment threat against him. The US military continues intermittent operations against Iran and strikes on drug boats in Latin America. The briefing will be Pete Hegseth’s first since May even as the U. S. military has kept up intermittent operations against the Islamic Republic as well as fatal strikes on alleged drug-smuggling boats in Latin America.
-
-### [Can climate promises finally deliver results?](https://news.un.org/feed/view/en/story/2026/11/1168763)
-*UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/9-11-26_COP31-opening-Stiell_UNFCCC.jpg/image560x340cropped.jpg -->
-
-Nearly 200 countries gathered in Türkiye for a climate summit focused on concrete decisions rather than grand declarations. Negotiators face tough questions on finance and clean energy. A powerful El Niño event threatens to worsen extreme weather conditions for vulnerable communities. Nearly 200 countries have arrived on Türkiye's Mediterranean coast for a climate summit with a different ambition: fewer grand declarations and more concrete decisions.
-
-### [Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit](https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity)
-*The Guardian* - Nov 09, 07:41 IST (iso: 2026-11-09T02:11:25+00:00)
-<!-- image: https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=920553499e2d4cef68f79a76ce8f99b1 -->
-
-Pope Leo XIV criticized Javier Milei's austerity measures in Buenos Aires. The pontiff insisted the economy must serve the people. He delivered the speech during a 12-day Latin America tour. The audience in Argentina responded with rapturous applause to the critique. Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tourPope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.“The economy must be at the service of the people, rather than people being at the service.
-
-### [Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei](https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei)
-*The Guardian* - Nov 08, 14:30 IST (iso: 2026-11-08T09:00:35+00:00)
-<!-- image: https://i.guim.co.uk/img/media/69382c7253bd848478bf7c1f031a9d97c2de58fb/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f57a59d2627aa1f189bb4a4bf16ac007 -->
-
-Pope Leo XIV arrives in Argentina on 9 November for a visit that will test his relationship with President Javier Milei. The two men hold sharply opposing views on social and economic policy. Milei previously called the Pope's predecessor the representative of the Evil One. President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’Trees are being planted in the garden.
 
 ---
 
@@ -126,6 +130,12 @@ UNICEF warns that drones and drought are closing in on Sudan. Attackers now use 
 
 UNHCR reported 64,000 people fled northern Nigeria for Niger this year. Several hundred also left for Benin. Violence in the region is deepening a humanitarian crisis. Host countries are struggling to cope with the sudden influx of displaced residents. Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since the start of the year, as host countries struggle to cope, the UN’s refugee agency (UNHCR) said on Tuesday.
 
+### [IOM urges wider surveillance beyond formal routes in DR Congo](https://news.un.org/feed/view/en/story/2026/11/1168781)
+*UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_IOM_DRC_Ebola.jpg/image770x420cropped.jpg -->
+
+The International Organization for Migration urged broader surveillance beyond formal routes in the Democratic Republic of the Congo. Seventy-one confirmed Ebola cases were detected along transit routes since the outbreak began six months ago. The agency highlighted the need to monitor movement outside standard health checkpoints. Seventy-one confirmed Ebola cases have been detected along transit routes in the Democratic Republic of the Congo (DRC) since the outbreak began almost six months ago, the International Organization for Migration (IOM) said on Tuesday.
+
 ### [Fact-checking site’s entire newsroom jailed as assault on press freedom widens](https://news.un.org/feed/view/en/story/2026/11/1168778)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UN-News_Egypt.jpg/image770x420cropped.jpg -->
@@ -134,7 +144,7 @@ Six journalists from the Egyptian fact-checking site Matsadash remain in detenti
 
 ### [Climate crisis could push 141 million more women into extreme poverty](https://news.un.org/feed/view/en/story/2026/11/1168770)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-South-Sudan-02.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-South-Sudan-02.jpg/image770x420cropped.jpg -->
 
 Over one billion women and girls live in climate hotspots. High hazard exposure combines with insecure jobs and gender inequality. The crisis could push 141 million more into extreme poverty. More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.
 
@@ -143,12 +153,6 @@ Over one billion women and girls live in climate hotspots. High hazard exposure 
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-Shehbaz-Sharif-Pakistan-US.jpg -->
 
 Pakistan’s military-led government failed to secure favorable terms from Donald Trump despite aggressive courting. Prime Minister Shehbaz Sharif promoted cryptocurrency deals and rare-earth minerals at the White House. The strategy prioritized personal praise over structural policy changes. This transactional approach has not yielded the expected diplomatic or economic concessions for Islamabad. Pakistan’s military-led hybrid government did nearly everything it could to woo Donald Trump, from pursuing cryptocurrency deals with members of the Trump family to showcasing the country’s rare-earth mineral potential at the White House.
-
-### [A time to rethink American power](https://asiatimes.com/2026/11/beyond-trump-a-time-to-rethink-american-power/)
-*Asia Times* - Nov 10, 11:03 IST (iso: 2026-11-10T05:33:51+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-White-House.jpg -->
-
-Democrats won both houses of Congress in a decisive defeat for President Trump. Voters rejected rising prices, corruption, and the Iran war. The election results signal a sharp shift in American political power and public sentiment toward the current administration. Last Tuesday’s election was a stunning defeat for President Donald Trump. Democrats won both houses of Congress, including Senate races in states they haven’t won in generations.
 
 ### [Nvidia’s Huang spy scandal signals tighter US chip controls](https://asiatimes.com/2026/11/nvidias-huang-spy-scandal-signals-tighter-us-chip-controls/)
 *Asia Times* - Nov 10, 02:32 IST (iso: 2026-11-09T21:02:25+00:00)
