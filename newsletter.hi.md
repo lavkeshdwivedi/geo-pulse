@@ -1,10 +1,126 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 11, 2026 22:13 IST
+**अपडेट:** November 12, 2026 04:41 IST
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [कांगो में आईएस से जुड़े विद्रोहियों का खूनी हमला: 22 लोगों की हत्या और 10 का अपहरण; क्या है पूरा](https://www.amarujala.com/world/islamic-state-linked-rebels-kill-22-in-congo-attacks-2026-11-12)
+*Amar Ujala World* - Nov 12, 12:39 IST (iso: 2026-11-12T07:09:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/07/13/kaga-ma-ashata-ka-bca-sarakashha-bl_bb5bdc936668e8ef44b09a8f3bc29042.jpeg?w=1200&dpr=1.0 -->
+
+कांगो में आईएसआईसी-एफ से जुड़े विद्रोहियों ने हमला कर 22 लोगों को मारा और 10 को अपहृत किया। स्थानीय प्रशासन ने सुरक्षा बलों को तैनात किया है। कांगो में आईएस से जुड़े विद्रोहियों का खूनी हमला: 22 लोगों की हत्या और 10 का अपहरण; क्या है पूरा मामला?
+
+### [गैर-मर्द से रिश्ता, फिर बच्चे को जन्म... अब सऊदी अरब में महिला को 100 कोड़ों की सजा](https://hindi.news18.com/world/middle-east-saudi-arabia-court-sentences-kenyan-woman-100-lashes-out-of-wedlock-baby-news-10980246.html)
+*News18 Hindi (World)* - Nov 11, 23:36 IST (iso: 2026-11-11T18:06:43+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Crime-news-2-2026-11-2bd827f12ddd9331dc6b328dc4645940-1200x800.jpg -->
+
+सऊदी अरब में केन्या की महिला एस्थर वांजा को 100 कोड़ों की सजा सुनाई गई। उसने शादी के बाहर बच्चा जन्म दिया था। उसका रिश्ता मिस्र के एक व्यक्ति से था। सऊदी अरब में केन्या की एक महिला को शादी के बाहर बच्चा पैदा करने के मामले में 100 कोड़ों की सजा सुनाई गई है. एस्थर वांजा मुथोनी सऊदी अरब में मेड का काम करती थी.
+
+---
+
+## दुनिया
+
+### [किश्तवाड़ के दच्छन में दो एसपीओ लापता, सेना और पुलिस ने चलाया तलाशी अभियान; मोबाइल भी बंद](https://www.amarujala.com/jammu/two-spos-go-missing-in-kishtwar-army-and-police-launch-a-search-operation-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 12:07 IST (iso: 2026-11-12T06:37:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/1_f604d5539bd3f27222da580ab6eccd3d.jpeg?w=1200&dpr=1.0 -->
+
+जम्मू-कश्मीर के किश्तवाड़ में दो एसपीओ लापता हो गए। सेना और पुलिस ने दच्छन में तलाशी अभियान शुरू किया और मोबाइल सेवा बंद कर दी। जम्मू-कश्मीर के किश्तवाड़ जिले के दुर्गम दच्छन इलाके में बुधवार को दो विशेष पुलिस अधिकारी (एसपीओ) लापता हो गए। किश्तवाड़ के दच्छन में दो एसपीओ लापता, सेना और पुलिस ने चलाया तलाशी अभियान; मोबाइल भी बंद।
+
+### [सोनिया गांधी की किताब पर JDU ने काटा बवाल, क्या बोले पप्पू यादव?](https://www.amarujala.com/video/india-news/jdu-creates-an-uproar-over-sonia-gandhi-s-book-what-did-pappu-yadav-say-2026-11-12)
+*Amar Ujala National* - Nov 12, 04:30 IST (iso: 2026-11-11T23:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/jdu_df1b3de81d761a0d8a7162115e5cb0b1.jpeg?w=1200&dpr=1.0 -->
+
+जेडीयू ने सोनिया गांधी की किताब पर आपत्ति जताई। पप्पू यादव ने इस पर अपनी प्रतिक्रिया दी और राजनीतिक बहस को बढ़ावा दिया। सोनिया गांधी की किताब पर JDU ने काटा बवाल, क्या बोले पप्पू यादव?
+
+### [अगले 10 साल में इतिहास बन जाएगा कैंसर, बीमारियों के इलाज के तरीके पूरी तरह बदल जाएंगे](https://www.amarujala.com/world/anthropic-ceo-cancer-will-become-history-within-next-10-years-complete-transformation-in-disease-treatment-2026-11-12)
+*Amar Ujala National* - Nov 12, 04:14 IST (iso: 2026-11-11T22:44:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/anthropic-ceo-cancer-treatment_f79616954cb79429ee14276a050a3d04.jpeg?w=1200&dpr=1.0 -->
+
+एंथ्रोपिक के सीईओ का दावा है कि दस वर्षों में कैंसर इलाज बदल जाएगा। बीमारियों के उपचार के तरीके पूरी तरह परिवर्तित होंगे। यह तकनीकी प्रगति का परिणाम होगा। एंथ्रोपिक सीईओ का दावा: अगले 10 वर्षों में इतिहास बन जाएगा कैंसर, बीमारियों के इलाज के तरीके पूरी तरह बदल जाएंगे। अगले 10 साल में इतिहास बन जाएगा कैंसर, बीमारियों के इलाज के तरीके पूरी तरह बदल जाएंगे।
+
+### [कुलगाम आतंकी हमले पर रक्षा विशेषज्ञ ने किया बड़ा खुलासा , कौन है असली मास्टर माइंड?](https://www.amarujala.com/video/india-news/defense-expert-makes-a-major-revelation-regarding-the-kulgam-terror-attack-who-is-the-real-mastermind-2026-11-12)
+*Amar Ujala National* - Nov 12, 03:30 IST (iso: 2026-11-11T22:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/kulgam-crpf-terror-attack_df528411d27ed6a959be3941dbb86b90.jpeg?w=1200&dpr=1.0 -->
+
+रक्षा विशेषज्ञ ने कुलगाम आतंकी हमले पर खुलासा किया। उन्होंने असली मास्टर माइंड की पहचान का दावा किया। यह सुरक्षा स्थिति पर प्रभाव डालेगा। कुलगाम आतंकी हमले पर रक्षा विशेषज्ञ ने किया बड़ा खुलासा, कौन है असली मास्टर माइंड?
+
+### [महाराष्ट्र में बच्चों की तबीयत बिगड़ी: अरंडी का बीज खाकर बीमार हुई बच्ची की मौत, सात अस्पताल में](https://www.amarujala.com/india-news/nandurbar-castor-seeds-dhadgaon-food-poisioning-children-medical-officer-dr-sandeep-valvi-hindi-news-updates-2026-11-12)
+*Amar Ujala National* - Nov 12, 03:14 IST (iso: 2026-11-11T21:44:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/nandurbar-food-poisoning_ec7294e289908d075cd86b4320d595b1.jpeg?w=1200&dpr=1.0 -->
+
+महाराष्ट्र में अरंडी बीज से विषाक्तता के मामले सामने आए। एक बच्ची की मौत हुई और सात अन्य अस्पताल में भर्ती हैं। स्थानीय स्वास्थ्य विभाग ने जांच शुरू कर दी है। महाराष्ट्र में बच्चों की तबीयत बिगड़ी: अरंडी का बीज खाकर बीमार हुई बच्ची की मौत, सात अस्पताल में भर्ती कराए गए।
+
+### [दोस्त की सगाई की खुशी में शराब पीने के बाद तीन दोस्तों की मौत, साथ में भांग खाने का भी अंदेशा, जांच](https://www.amarujala.com/uttar-pradesh/etah/etah-three-friends-die-after-consuming-alcohol-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 02:54 IST (iso: 2026-11-11T21:24:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/07/death_a8a73a7b53225258d2e7c6e939c50374.jpeg?w=1200&dpr=1.0 -->
+
+दोस्त की सगाई में शराब पीने से तीन युवकों की मौत हुई। साथ में भांग खाने की संभावना भी जांच में शामिल है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। दोस्त की सगाई की खुशी में शराब पीने के बाद बुधवार की शाम तीन युवकों की हालत बिगड़ गई। दोस्त की सगाई की खुशी में शराब पीने के बाद तीन दोस्तों की मौत, साथ में भांग खाने का भी अंदेशा, जांच।
+
+### [10 साल की इरा ने रचा इतिहास: स्कूबा डाइविंग में बनाए 6 विश्व रिकॉर्ड, महाराष्ट्र के किस सैनिक](https://www.amarujala.com/india-news/ira-aditya-raut-youngest-scuba-diver-six-world-records-shaheed-dweep-andaman-maharashtra-buldhana-10-yr-girl-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 01:03 IST (iso: 2026-11-11T19:33:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/ira-aditya-raut-scooba-diving-record_bc557fb15906a13327ac6661d5793890.jpeg?w=1200&dpr=1.0 -->
+
+महाराष्ट्र के सैनिक परिवार की 10 वर्षीय इरा ने स्कूबा डाइविंग में छह विश्व रिकॉर्ड बनाए। इस उपलब्धि से उसने खेल जगत में नया इतिहास रचा है। 10 साल की इरा ने रचा इतिहास: स्कूबा डाइविंग में बनाए 6 विश्व रिकॉर्ड, महाराष्ट्र के किस सैनिक परिवार की बेटी?
+
+### [जहर का नशा करता है समंदर का ‘टिंगू ड्रैगन’, दिखने में जितना क्यूट उतना ही खतरनाक](https://hindi.news18.com/world/rest-of-world-blue-dragon-sea-slug-glaucus-atlanticus-meet-the-one-inch-ocean-predator-that-steals-venom-and-floats-upside-down-photogallery-10980155.html)
+*News18 Hindi (World)* - Nov 11, 22:56 IST (iso: 2026-11-11T17:26:22+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Blue-Dragon-2026-11-3b8b07ad6109bf8f834d9c5eb7e264e0-1200x800.jpg -->
+
+ब्लू ड्रैगन नाम का एक इंच लंबा समुद्री जीव खतरनाक शिकारियों से टकराता है। इसकी उपस्थिति के दौरान उसकी शक्ति अचानक बढ़ जाती है। यह जीव खुले महासागर में तैरता है। समुद्र की दुनिया जितनी खूबसूरत है, उतनी ही रहस्यों से भी भरी पड़ी है. खुले महासागर में तैरने वाला 'ब्लू ड्रैगन' नाम का ये छोटा सा जीव खूबसूरती, खतरे और जिंदा रहने की कला की एक अनोखी मिसाल है.
 
 ---
 
 ## एशिया-प्रशांत
+
+### [भारत में पहलों की प्रशंसा उत्साहजनक, अभी भी बरकरार हैं कई चुनौतियां](https://www.amarujala.com/columns/opinion/water-management-world-bank-praise-for-initiatives-in-india-encouraging-yet-many-challenges-remain-2026-11-12)
+*Amar Ujala National* - Nov 12, 04:26 IST (iso: 2026-11-11T22:56:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/09/world-bank-vashava-bka_657bdfa14940ba3b3b1c90f5925d70ac.jpeg?w=1200&dpr=1.0 -->
+
+भारत के जल प्रबंधन प्रयासों की अंतरराष्ट्रीय स्तर पर प्रशंसा हो रही है। हालांकि, कई संरचनात्मक चुनौतियां अभी भी बनी हुई हैं। जल प्रबंधन की मिसाल: भारत में पहलों की प्रशंसा उत्साहजनक, अभी भी बरकरार हैं कई चुनौतियां।
+
+### [दिल्ली में AQI के रिकॉर्ड टूटे; स्वच्छता सर्वे में NDMC को दूसरा स्थान; इरा सबसे युवा स्कूबा डाइवर](https://www.amarujala.com/india-news/top-news-12-november-2026-delhi-pollution-3-year-record-ira-scuba-diver-anirudh-wedding-2026-11-12)
+*Amar Ujala National* - Nov 12, 04:18 IST (iso: 2026-11-11T22:48:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में वायु गुणवत्ता सूचकांक के रिकॉर्ड टूट गए। स्वच्छता सर्वे में एनडीएमसी को दूसरा स्थान मिला। इरा को सबसे युवा स्कूबा डाइवर का खिताब मिला। सुर्खियां: दिल्ली में AQI के रिकॉर्ड टूटे; स्वच्छता सर्वे में NDMC को दूसरा स्थान; इरा सबसे युवा स्कूबा डाइवर।
+
+### [विदेश से लौटे 77 फीसदी अभ्यर्थी भारत में फेल, जून के मुकाबले अक्तूबर में 10% अंक का सुधार](https://www.amarujala.com/india-news/medical-profession-77-pc-foreign-return-students-fails-in-india-10-pc-improvement-in-october-compared-to-june-2026-11-12)
+*Amar Ujala National* - Nov 12, 04:14 IST (iso: 2026-11-11T22:44:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/26/doctor-nurse_9f8bbb50d519e01d827211fb5da1e7f9.jpeg?w=1200&dpr=1.0 -->
+
+विदेश से लौटे 77 फीसदी अभ्यर्थी भारत में फेल हुए। अक्तूबर में जून के मुकाबले 10 प्रतिशत अंक में सुधार दर्ज हुआ। यह डॉक्टरी डिग्री परीक्षा का परिणाम है। डॉक्टरी की डिग्री: विदेश से लौटे 77 फीसदी अभ्यर्थी भारत में फेल, जून के मुकाबले अक्तूबर में 10% अंक का सुधार।
+
+### [ट्रंप के टैरिफ पर अमीश शाह का वार: भारतीय कारोबारियों की पैरवी करेंगे, अमेरिकी कांग्रेस में क्या](https://www.amarujala.com/world/amish-shah-us-congress-priorities-donald-trump-tariffs-healthcare-2026-11-12)
+*Amar Ujala World* - Nov 12, 03:38 IST (iso: 2026-11-11T22:08:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/amasha-shaha-amaraka-sasatha_ea5b5b14ca8e02e3845e77dde671f73d.jpeg?w=1200&dpr=1.0 -->
+
+अमीश शाह ने ट्रंप के टैरिफ पर भारतीय कारोबारियों की पैरवाई का वादा किया। अमेरिकी कांग्रेस में इसका एजेंडा बनने की संभावना है। यह वाणिज्यिक तनाव का प्रतिक्रिया है। ट्रंप के टैरिफ पर अमीश शाह का वार: भारतीय कारोबारियों की पैरवी करेंगे, अमेरिकी कांग्रेस में क्या होगा एजेंडा?
+
+### [दिल्ली में 996 स्थानों पर बने 1482 छठ घाट, 74 एजेंसियां संभाल रहीं तैयारियां; अधिकारी-मंत्री मौके पर](https://www.amarujala.com/delhi-ncr/1-482-chhath-ghats-set-up-at-996-locations-in-delhi-74-agencies-overseeing-preparations-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 02:56 IST (iso: 2026-11-11T21:26:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/1_9696a11d53e217086afde455fffe0c1c.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली में छठ महापर्व के लिए 1482 घाट तैयार किए गए हैं। 74 एजेंसियां इन स्थानों की देखभाल कर रही हैं। अधिकारियों ने मौके पर जाकर तैयारियों का जायजा लिया। छठ महापर्व पर श्रद्धालुओं की सुविधा के लिए दिल्ली में व्यापक इंतजाम किए गए हैं। दिल्ली में 996 स्थानों पर बने 1482 छठ घाट, 74 एजेंसियां संभाल रहीं तैयारियां; अधिकारी-मंत्री मौके पर।
+
+### [पाकिस्तान में पुलिस टीम पर आतंकी हमला: 18 हमलावर ढेर, 11 सुरक्षाकर्मियों की मौत; अवैध खनन बना हमले](https://www.amarujala.com/world/pakistan-khyber-pakhtunkhwa-terror-attack-18-killed-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 01:30 IST (iso: 2026-11-11T20:00:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/21/pakasatana-ma-palsa-afasara-ka-hataya_05c7e1c6278dbd2b529a72c3fca614fe.jpeg?w=1200&dpr=1.0 -->
+
+खैबर पख्तूनख्वा में पुलिस टीम पर हमले में 11 सुरक्षाकर्मियों की मौत हुई। 18 आतंकी मारे गए। अवैध खनन पर विवाद इस घटना की प्रमुख वजह माना जा रहा है। पाकिस्तान में पुलिस टीम पर आतंकी हमला: 18 हमलावर ढेर, 11 सुरक्षाकर्मियों की मौत; अवैध खनन बना हमले की वजह?
+
+### [जहरीली हवा ने तोड़ा तीन साल का रिकॉर्ड, पटाखों के धुएं और प्लास्टिक ने बिगाड़ी दिल्ली की फिजा](https://www.amarujala.com/delhi-ncr/delhi-toxic-air-breaks-a-three-year-record-smoke-from-firecrackers-worsens-the-city-s-atmosphere-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 01:13 IST (iso: 2026-11-11T19:43:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/1_eed10ad21124cbd25a18a06d2e4cbad4.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली-एनसीआर में प्रदूषण ने तीन साल पुराने रिकॉर्ड को तोड़ दिया। पटाखों का धुआं और प्लास्टिक जलाने ने हवा की गुणवत्ता को और बिगाड़ दिया है। दिल्ली-एनसीआर की हवा में प्रदूषण का जहर केवल पराली जलाने और दिवाली के पटाखों से नहीं घुल रहा है। जहरीली हवा ने तोड़ा तीन साल का रिकॉर्ड, पटाखों के धुएं और प्लास्टिक ने बिगाड़ी दिल्ली की फिजा।
+
+### [‘8 साल की दो या 4-4 साल की चार लड़कियों से शादी’, बयान पर PAK मौलवी की लगी क्लास](https://www.abplive.com/news/world/pakistani-cleric-child-bride-joke-sparks-outrage-on-social-media-users-criticised-in-post-3213750)
+*ABP Live (World)* - Nov 11, 22:49 IST (iso: 2026-11-11T17:19:28+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/fa7c927863bc5d390f1de0dde51d4c3617944170844791126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+पाकिस्तानी मौलवी मुफ्ती तारिक मसूद ने बाल विवाह का बचाव किया। उन्होंने आठ साल की दो या चार साल की चार लड़कियों से शादी की सलाह दी। इस बयान पर सोशल मीडिया में भारी आलोचना हुई। पाकिस्तान के एक इस्लामिक उपदेशक मुफ्ती तारिक मसूद ने बाल विवाह का बचाव करते हुए कई ऐसी बातें कहीं और उपदेश दिए हैं, जिसके वीडियो सामने आने के बाद सोशल मीडिया पर मुफ्ती की काफी फजीहत हो रही है और उसे आलोचना का सामना करना पड़ रहा है.
 
 ### [बेनजीर के घर डिनर पर अचानक क्यों तेज हो जाता था म्यूजिक? सोनिया गांधी ने बताई पाकिस्तान यात्रा की](https://hindi.news18.com/news/nation/why-music-suddenly-get-louder-during-dinner-at-benazir-butto-house-sonia-gandhi-shares-her-pakistan-visit-story-10980031.html)
 *News18 Hindi (World)* - Nov 11, 22:11 IST (iso: 2026-11-11T16:41:25+00:00)
@@ -12,161 +128,53 @@
 
 सोनिया गांधी की नई किताब में जुलाई 1989 की पाकिस्तान यात्रा का किस्सा सामने आया। राजीव गांधी के साथ इस्लामाबाद पहुंचने पर बेनजीर भुट्टो ने निजी डिनर पर बुलाया था। राजनीतिक बातचीत शुरू होते ही बेनजीर अचानक संगीत की आवाज तेज कर देती थीं। Sonia Gandhi on Pakistan: सोनिया गांधी की नई किताब में पाकिस्तान से जुड़ा एक ऐसा किस्सा सामने आया है, जो वहां की सत्ता व्यवस्था की पोल खोलता है.
 
-### [जिसने NVIDIA CEO को फंसाया, उस ‘गर्लफ्रेंड’ का सीक्रेट पति भी निकल आया, क्या है कहानी में नया](https://hindi.news18.com/world/america-nvidia-ceo-jensen-huang-affair-twist-alleged-chinese-spy-alice-huang-secret-husband-kang-wei-exposed-amid-fbi-probe-10980068.html)
-*News18 Hindi (World)* - Nov 11, 21:53 IST (iso: 2026-11-11T16:23:43+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Nvidia-CEO-Affair-2026-11-b9aa42dd8ddd21600b3ef4d6d36e9198-1200x800.jpg -->
+---
 
-एलिस हुआंग के 'सीक्रेट पति' के रूप में शंघाई के फंड मैनेजर कांग वेई का नाम सामने आया है। कांग वेई पर स्टॉक धांधली और इनसाइडर ट्रेडिंग के आरोप हैं। फिलहाल वे चीनी अधिकारियों की हिरासत में हैं। NVIDIA के सीईओ जेन्सेन हुआंग के साथ अफेयर और चीनी जासूस होने के आरोपों से घिरी एलिस हुआंग की कहानी में नया मोड़ आ गया है.
+## अमेरिका
 
-### [भारत का हिमालय रेल प्रोजेक्ट ब्लूप्रिंट देखकर क्यों कांप गया चीन? 5 जगहों पर पिटेगा ड्रैगन](https://hindi.news18.com/world/south-asia-india-bilaspur-manali-leh-railway-line-world-highest-himalaya-rail-project-blueprint-strikes-fear-in-china-across-5-strategic-fronts-10980003.html)
-*News18 Hindi (World)* - Nov 11, 21:19 IST (iso: 2026-11-11T15:49:44+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Bilaspur-Manali-Leh-Railway-2026-11-2ddb63070aca2467d49b94a0d709fb15-1200x800.jpg -->
+### [एनवीडिया सीईओ हुआंग ने मांगी माफी, जांच के लिए उतारा अमेरिका की दिग्गज लॉ फर्म](https://www.amarujala.com/world/nvidia-hires-top-us-law-firm-to-investigate-jensen-huang-amid-espionage-controversy-2026-11-12)
+*Amar Ujala World* - Nov 12, 04:24 IST (iso: 2026-11-11T22:54:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/02/17/ashavana-vashhanaeva-na-enavadaya-saiio-janasana-haaaga-ka-idaya-eaaii-samata-ma-naha-pahaca-pana-ka-karanae-btaya_9f1726be6cc7d15571b2369ac2b425a4.jpeg?w=1200&dpr=1.0 -->
 
-भारत की बिलासपुर-मनाली-लेह रेलवे लाइन 489 किलोमीटर लंबी होगी। इसमें 17,500 फीट की ऊंचाई पर तांगलांला स्टेशन बनेगा। यह दुनिया का सबसे ऊंचा रेलवे स्टेशन होगा और चीन का मौजूदा रिकॉर्ड तोड़ेगा। भारत दुनिया का सबसे ऊंचा रेलवे नेटवर्क बना रहा है. इस 'बिलासपुर-मनाली-लेह रेलवे लाइन' का ब्लूप्रिंट देखते ही चीन के होश उड़ गए हैं. 489 किलोमीटर लंबे इस प्रोजेक्ट में 17,500 फीट की ऊंचाई पर तांगलांला स्टेशन बनेगा.
+एनवीडिया के सीईओ जेन्सन हुआंग ने जासूसी विवाद पर माफी मांगी। कंपनी ने अमेरिकी लॉ फर्म को जांच के लिए नियुक्त किया है। एनवीडिया सीईओ हुआंग ने मांगी माफी, जांच के लिए उतारा अमेरिका की दिग्गज लॉ फर्म।
 
-### [पाकिस्तान पर डबल अटैक, TTP ने 10 पुलिसवालों को किया आग के हवाले, उधर बलूच लड़ाकों ने काट दी नस](https://hindi.news18.com/world/pakistan-exclusive-pakistan-double-terror-attack-ttp-ambushes-and-kills-10-cops-in-kohat-while-baloch-separatists-blow-up-highway-bridge-10979936.html)
-*News18 Hindi (World)* - Nov 11, 20:33 IST (iso: 2026-11-11T15:03:31+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Double-Terror-Attack-2026-11-eacf67cc6ca3ae4979b74ded58bdf82e-1200x800.jpg -->
+### [कभी खुद के नाम से जोड़ा 250 फीट का आर्च: अब पूर्व सैनिकों के सम्मान का हवाला; ट्रंप की योजना पर](https://www.amarujala.com/world/donald-trump-washington-military-triumphal-arch-veterans-controversy-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 02:07 IST (iso: 2026-11-11T20:37:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/danalda-tarapa_e457486feeac9f2191d0a0bc1fb48b18.jpeg?w=1200&dpr=1.0 -->
 
-खैबर पख्तूनख्वा के कोहाट में टीटीपी ने पुलिस पर हमला कर डीएसपी समेत दस कर्मियों को मार गिराया। उसी दिन बलूचिस्तान में विद्रोहियों ने क्वेटा-कराची हाईवे का मुख्य पुल उड़ा दिया। इससे दोनों शहरों का सड़क संपर्क पूरी तरह ठप हो गया। पाकिस्तान पर एक ही दिन में दो बड़े और दहला देने वाले हमले हुए हैं. खैबर पख्तूनख्वा के कोहाट में टीटीपी के आतंकवादियों ने पाकिस्तान की पुलिस फोर्स पर हमला कर दिया.
-
-### [क्या कनाडा में चल रहे हैं चीन के संपर्क केंद्र? रिपोर्ट के बाद मचा हड़कंप, टोरंटो से मॉन्ट्रियल तक](https://www.patrika.com/world-news/canada-china-liaison-points-safeguard-defenders-report-investigation-21042688)
-*Patrika (World)* - Nov 11, 19:56 IST (iso: 2026-11-11T14:26:32+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Canada-national-security.webp -->
-
-कनाडा के पब्लिक सेफ्टी मंत्री गैरी आनंदसंगरी ने चीन के संपर्क केंद्रों के आरोपों की जांच की घोषणा की। रिपोर्ट के मुताबिक ये केंद्र चीन की पुलिस और सुरक्षा एजेंसियों का प्रतिनिधित्व करते हैं। यह मामला मानवाधिकार संगठन सेफगार्ड डिफेंडर्स की रिपोर्ट के बाद सामने आया। Canada China liaison points: कनाडा के पब्लिक सेफ्टी मंत्री गैरी आनंदसंगरी ने कहा है कि सरकार उन आरोपों की जांच करेगी, जिनमें दावा किया गया है कि चीन ने कनाडा में कई ‘ liaison पॉइंट्स’ यानी संपर्क केंद्र बना रखे हैं।
-
-### [बलूच विद्रोहियों ने आखिरकार काटकर अलग किया पाकिस्तान! नेशनल हाईवे कैसे बना ताबूत की आखिरी कील](https://hindi.news18.com/world/pakistan-balochistan-separatists-blow-up-quetta-karachi-highway-bridge-pakistan-economy-and-strategic-route-cut-off-in-major-blast-10979668.html)
-*News18 Hindi (World)* - Nov 11, 18:03 IST (iso: 2026-11-11T12:33:50+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Balochistan-War-2026-11-e4d81df775c1cf08e58b731ac9d327c1-1200x800.jpg -->
-
-बलूचिस्तान के मस्तुंग जिले में विद्रोहियों ने क्वेटा-कराची नेशनल हाईवे का मुख्य पुल उड़ा दिया। इससे दोनों शहरों का सड़क संपर्क ठप हो गया। पाकिस्तानी सेना का सामान आना-जाना मुश्किल हो गया है। पाकिस्तान के बलूचिस्तान में हालात बहुत खराब हैं. यहां के मस्तुंग जिले में बलूच विद्रोहियों ने क्वेटा-कराची नेशनल हाईवे पर बने एक मुख्य पुल को बम से उड़ा दिया है.
-
-### [ट्रंप को पता थी Nvidia के CEO की 'चाइनीज लव स्टोरी'? CIA को था शक, फिर कैसे आंख में धूल झोंकती रही](https://hindi.news18.com/world/america-trump-was-briefed-on-nvidia-ceo-huang-girlfriend-alice-alleged-spy-links-while-travelling-to-china-ws-l-10979258.html)
-*News18 Hindi (World)* - Nov 11, 14:15 IST (iso: 2026-11-11T08:45:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trump-nividia-2026-11-7a77b9d1505558fda20bbee02e1c8d92-1200x800.jpg -->
-
-निविडिया सीईओ जेनसन हुआंग के चीनी महिला से रिश्ते को लेकर खुलासा हुआ है। रिपोर्ट के अनुसार, राष्ट्रपति डोनाल्ड ट्रंप को चीन दौरे के दौरान इसकी जानकारी थी। Nvidia CEO China Spy Love Story: दुनिया के सबसे पावरफुल देश के हाईप्रोफाइल बिजनेसमैन की वो लव स्टोरी चर्चा में है, जो एक देश की सुरक्षा पर भी खतरा बन सकती है.
-
-### ['शादी कराइए,मुख्य चुनाव आयुक्त बनिए, लेकिन...'निशिकांत दुबे ने क्यों कही ये बात](https://www.abplive.com/news/india/nishikant-dubey-gandhi-family-gyanesh-kumar-vote-chori-row-3213518)
-*ABP Live (India)* - Nov 11, 13:17 IST (iso: 2026-11-11T07:47:31+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/5bbeeaf2de24a84dc79a6feb1025a55d17943822739831115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-निशिकांत दुबे ने एक्स पर संजय और मेनका गांधी की शादी की तस्वीर साझा की। इसमें नवीन चावला भी दिख रहे हैं। दुबे ने इस तस्वीर के जरिए कांग्रेस पर निशाना साधा। भारतीय जनता पार्टी (BJP) के नेता निशिकांत दुबे ने कांग्रेस पार्टी पर निशाना साधा है. उन्होंन एक्स पर एक फोटो पोस्ट किया है, जिसमें संजय और मेनका गांधी शादी के रजिस्टर पर हस्ताक्षर कर रहे हैं.
+ट्रंप की 250 फीट लंबे आर्च की योजना पर विवाद है। पहले इसे उनके नाम पर बनाने की बात थी। अब पूर्व सैनिकों के सम्मान का हवाला दिया जा रहा है। कभी खुद के नाम से जोड़ा 250 फीट का आर्च: अब पूर्व सैनिकों के सम्मान का हवाला; ट्रंप की योजना पर संकट क्यों?
 
 ---
 
-## मध्य पूर्व और अफ्रीका
+## वैश्विक / बहुपक्षीय
 
-### [‘एक कण भी बाहर नहीं जाएगा’: ईरान ने साफ किया, परमाणु भंडार विदेश भेजने का सवाल ही नहीं](https://www.patrika.com/world-news/iran-enriched-nuclear-material-wont-be-sent-abroad-rezaei-21042860)
-*Patrika (World)* - Nov 11, 21:38 IST (iso: 2026-11-11T16:08:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Mohsen-Rezaei.webp -->
+### [एक्सप्रेसवे की टनल में 200 की स्पीड से दौड़ रही कार दीवार से टकराई, लगी आग; हादसे में युवक की मौत](https://www.amarujala.com/delhi-ncr/major-accident-in-dwarka-expressway-tunnel-young-man-dies-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 02:56 IST (iso: 2026-11-11T21:26:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/1_183cea5391b2c8541affffc87c8b81f6.jpeg?w=1200&dpr=1.0 -->
 
-ईरान की सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव मेजर जनरल मोहसेन रेजाई ने एनरिच्ड परमाणु सामग्री को विदेश भेजने की संभावना खारिज कर दी। उन्होंने कहा कि तेहरान पूरा भंडार अपने पास रखेगा। इसका उपयोग केवल घरेलू कार्यों के लिए होगा। Iran Nuclear Programme: ईरानी समाचार एजेंसी ISNA के अनुसार, ईरान की सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव, मेजर जनरल मोहसेन रेजाई ने देश की संवर्धित (एनरिच्ड) परमाणु सामग्री को विदेश भेजने की संभावना को खारिज कर दिया है।
-
-### [नेतन्याहू का यू-टर्न? अरब सांसदों पर हमला, अब बोले- मिलकर सरकार बनाना संभव है](https://www.patrika.com/world-news/netanyahu-national-unity-government-possible-knesset-row-21042787)
-*Patrika (World)* - Nov 11, 20:42 IST (iso: 2026-11-11T15:12:40+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp -->
-
-इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा कि राष्ट्रीय एकता सरकार बनाना अभी भी संभव है। इससे एक दिन पहले उन्होंने संसद में अरब सांसदों पर आतंकवाद का समर्थन करने का आरोप लगाया था। ‘द टाइम्स ऑफ इजरायल’ की रिपोर्ट के अनुसार, इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने बुधवार को कहा कि एक ‘राष्ट्रीय एकता सरकार’ (नेशनल यूनिटी गवर्नमेंट) बनाना अभी भी संभव है।
-
-### [एयरपोर्ट के पास आया भयानक भूकंप, टूटने लगे खिड़की के कांच, जान बचाकर बाहर दौड़े लोग](https://hindi.news18.com/world/middle-east-israel-earthquake-today-4-point-5-magnitude-tremor-hits-eilat-ramon-airport-evacuated-flights-grounded-amid-panic-10979859.html)
-*News18 Hindi (World)* - Nov 11, 19:46 IST (iso: 2026-11-11T14:16:49+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Israel-Earthqualke-2026-11-08b113bef11a4b3240e1d869a185fac2-1200x800.jpg -->
-
-इजरायल के दक्षिणी तटीय शहर ईलात और लाल सागर क्षेत्र में 4.5 तीव्रता का भूकंप आया। झटके के बाद रमन एयरपोर्ट को तुरंत खाली कराया गया और उड़ानें रोक दी गईं। घटना में किसी के घायल होने की खबर नहीं मिली। इजरायल के दक्षिणी तटीय शहर ईलात और लाल सागर के इलाकों में 4.5 तीव्रता का भूकंप आया. झटके महसूस होते ही स्थानीय लोगों और पर्यटकों में भारी अफरा-तफरी मच गई.
-
-### [नेतन्याहू पर अरबों के खिलाफ ‘उकसावे और झूठे आरोपों’ का अभियान चलाने का आरोप, मंसूर अब्बास का बड़ा](https://www.patrika.com/world-news/mansour-abbas-accuses-netanyahu-incitement-campaign-against-arabs-israel-21042183)
-*Patrika (World)* - Nov 11, 17:52 IST (iso: 2026-11-11T12:22:16+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Mansour-Abbas-1.webp -->
-
-मंसूर अब्बास ने नेतन्याहू पर अरब समुदाय के खिलाफ झूठे आरोपों का अभियान चलाने का आरोप लगाया। उन्होंने दावा किया कि प्रधानमंत्री के सहयोगी ने संभावित गठबंधन की जानकारी जुटाने के लिए संपर्क किया था। Israel Politics: राम (Ra’am) पार्टी के नेता मंसूर अब्बास ने बुधवार को इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू पर आरोप लगाया कि वे अपने पद का इस्तेमाल अरब समुदाय के खिलाफ भड़काने के लिए कर रहे हैं।
-
-### [संसद में घेर लिए गए नेतन्याहू, बचाने कूद पड़ीं पत्नी सारा, वीडियो में तेवर देखकर लोग बोले 'बीवी](https://hindi.news18.com/world/middle-east-benjamin-netanyahu-parliament-clash-pm-wife-sara-fights-naftali-bennett-in-heated-knesset-argument-video-israel-politics-live-10979545.html)
-*News18 Hindi (World)* - Nov 11, 16:51 IST (iso: 2026-11-11T11:21:25+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Benjamin-Netanyahu-Parliament-Clash-2026-11-311848d5851258edea1be71491a7fb14-1200x800.jpg -->
-
-Knesset में नेतन्याहू के भाषण के दौरान सारा नेतन्याहू और नफ्ताली बेनेट के बीच बहस हुई। बेनेट ने 7 अक्टूबर की जांच पर सवाल उठाए, जिस पर सारा नेतन्याहू ने उन्हें डपटाया। इजरायली संसद (Knesset) में जबरदस्त हंगामा हो गया. प्रधानमंत्री बेंजामिन नेतन्याहू भाषण दे रहे थे तभी उनकी पत्नी सारा नेतन्याहू और विपक्षी नेता नफ्ताली बेनेट के बीच तीखी बहस हो गई.
-
-### [गोद में बच्चे लेकर असॉल्ट राइफलें चलातीं औरतें, दीवारें फांदने से लेकर जिपलाइन लांघने की ट्रेनिंग](https://hindi.news18.com/world/middle-east-irani-women-with-assault-rifles-in-training-camps-getting-ready-for-war-ws-l-10979301.html)
-*News18 Hindi (World)* - Nov 11, 14:39 IST (iso: 2026-11-11T09:09:01+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/iran-women-2026-11-67e17ee2c8863f01a5515aa7da519e26-1200x800.jpg -->
-
-ईरान में महिलाओं को असॉल्ट राइफल चलाने और दीवारें फांदने की ट्रेनिंग दी जा रही है। यह कदम देश में महिलाओं के लिए युद्ध तैयारी का हिस्सा है। Iran Women Training for War: जिस ईरान में कभी सिर से हिजाब उतर जाए, तो महिलाओं को कड़ी सजा मिलती थी, अब वहां औरतों को खासतौर पर लड़ने की ट्रेनिंग दी जा रही है.
-
-### [‘कौन खतरे में डाल रहा है दुनिया की सुरक्षा?’ तुर्कीए पहुंचते ही पेजेशकियन का अमेरिका पर तीखा हमला](https://www.patrika.com/world-news/iran-president-pezeshkian-arrives-turkey-cop31-accuses-us-global-security-threat-21041451)
-*Patrika (World)* - Nov 11, 14:31 IST (iso: 2026-11-11T09:01:33+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Masoud-Pezeshkian-and-Donald-Trump.webp -->
-
-ईरानी राष्ट्रपति मसूद पेज़ेशकियान ने तुर्की में सीओपी31 के दौरान अमेरिका को वैश्विक शांति और सुरक्षा के लिए खतरा बताया। उन्होंने इस मौके पर वाशिंगटन पर तीखा हमला किया। US Iran Tensions: ईरानी राष्ट्रपति मसूद पेज़ेशकियान 31वें संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन (COP31) में भाग लेने के लिए बुधवार को तुर्कीए पहुंचे। तुर्कीए पहुंचने पर, ईरानी राष्ट्रपति ने अमेरिका को वैश्विक शांति और सुरक्षा के लिए खतरा बताया है।
-
-### [फारस की खाड़ी में तेल टैंकर पर हमला, 4 क्रू मेंबर्स घायल, एक भारतीय भी शामिल](https://www.abplive.com/news/india/persian-gulf-attack-on-an-oil-tanker-one-indian-among-the-4-injured-crew-members-3213549)
-*ABP Live (India)* - Nov 11, 14:01 IST (iso: 2026-11-11T08:31:26+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/9fa6a7dd9ae199c56ee60cdfd1b689a41794385782942355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-फारस की खाड़ी में लाइबेरिया झंडे वाले तेल टैंकर पर प्रोजेक्टाइल से हमला हुआ। चार क्रू सदस्य घायल हुए, जिनमें एक भारतीय नागरिक शामिल था। घटना मंगलवार को हुई। केंद्रीय मंत्री सर्बानंद सोनोवाल ने बुधवार को बताया कि फारस की खाड़ी से दुबई की ओर जा रहे लाइबेरिया के झंडे वाले एक तेल टैंकर पर किसी वस्तु (प्रोजेक्टाइल) से हमला हुआ.
-
-### [ईरान ने घोषित किया अर्जेंटीना की नेवी और एयरफोर्स को आतंकवादी, 8 महीने बाद लिया बदला](https://hindi.news18.com/world/middle-east-iran-declares-terrorist-to-argentina-navy-and-air-force-after-8-months-of-irgc-probe-ws-l-10978993.html)
-*News18 Hindi (World)* - Nov 11, 12:56 IST (iso: 2026-11-11T07:26:39+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/iran-argentina-2026-11-25a80ca6d04bd1efdd1d1b304e661764-1200x800.jpg -->
-
-ईरान ने अर्जेंटीना की नौसेना और वायुसेना को आतंकवादी संगठन घोषित किया है। इस कदम के पीछे 2019 के एक कानून का हवाला दिया गया है। शिया देश की ओर से अर्जेंटीना की नौसेना और वायुसेना को आतंकवादी संगठन घोषित कर दिया है और इसके पीछे 2019 के एक कानून का हवाला दिया है. ईरान ने घोषित किया अर्जेंटीना की नेवी और एयरफोर्स को आतंकवादी, 8 महीने बाद लिया बदला।
+दिल्ली-गुरुग्राम एक्सप्रेसवे की टनल में हादसा हुआ। 200 किमी प्रति घंटे की रफ्तार से दौड़ रही कार दीवार से टकराई। आग लगने से एक युवक की मौत हो गई। द्वारका और यशोभूमि को सीधे इंदिरा गांधी अंतरराष्ट्रीय (आईजीआई) एयरपोर्ट और गुरुग्राम से जोड़ने वाली द्वारका एक्सप्रेसवे की टनल में एक युवक करीब 200 किलोमीटर प्रति घंटे की रफ्तार से कार दौड़ा रहा था।
 
 ---
 
 ## यूरोप और रूस
 
-### [ट्रंप ने पुतिन के पास भेजे 2 आदमी, अगले 48 घंटों में आने वाली है बड़ी खबर, क्या है रूस-यूक्रेन पीस](https://hindi.news18.com/world/europe-donald-trump-peace-deal-mission-jared-kushner-and-steve-witkoff-head-to-moscow-for-high-stakes-putin-talks-on-russia-ukraine-war-10979780.html)
-*News18 Hindi (World)* - Nov 11, 18:49 IST (iso: 2026-11-11T13:19:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Russia-Ukraine-War-2026-11-9cc3f3d0647fbacc269eae56aced8ff5-1200x800.jpg -->
+### [अमेरिका में रूसी राजदूत का निधन: 66 साल की उम्र में अलेक्जेंडर ने ली अंतिम सांस, कैसा रहा कूटनीतिक](https://www.amarujala.com/world/russian-ambassador-alexander-darchiev-dies-at-66-2026-11-12)
+*Amar Ujala World* - Nov 12, 01:07 IST (iso: 2026-11-11T19:37:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/alkajadara-daracaeva-naha-raha_81a30f283235eae140973949851726be.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने जेरेड कुशनर और स्टीव विटकॉफ को मॉस्को भेजा। दोनों व्लादिमीर पुतिन से मिलेंगे। इसके बाद वे डबलिन जाकर वोलोडिमिर ज़ेलेंस्की को बैठक की जानकारी देंगे। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपने दो खास लोगों, दामाद जेरेड कुशनर और स्टीव विटकॉफ को सीधे मॉस्को भेजा है. ये दोनों रूस के राष्ट्रपति व्लादिमीर पुतिन से आमने-सामने बात करेंगे.
+रूस के अमेरिका में राजदूत अलेक्जेंडर डार्चिएव का निधन हो गया। उनकी उम्र 66 वर्ष थी। वे लंबे समय तक कूटनीतिक सेवा में सक्रिय रहे थे। अमेरिका में रूसी राजदूत का निधन: 66 साल की उम्र में अलेक्जेंडर ने ली अंतिम सांस, कैसा रहा कूटनीतिक सफर?
 
-### [यूरोप में फ्रिजों पर साइबर हमला, अब घर के AC-फ्रिज और Wi-Fi राउटर पर मंडरया खतरा! AI ने क्यों बढ़ाई](https://hindi.news18.com/news/knowledge/after-supermarket-fridges-in-europe-could-hackers-target-your-home-appliances-next-europe-new-wave-of-cyberattacks-10979697.html)
-*News18 Hindi (World)* - Nov 11, 17:18 IST (iso: 2026-11-11T11:48:04+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/cyber-europe-2026-11-23cbbe16f9345f6b4eab4c87b0bf7995-1200x800.jpg -->
+### [‘जॉर्जिया मेलोनी की कार में बम फिट है’, इटली में मचा हड़कंप, खाली कराए गए 300 स्कूल](https://hindi.news18.com/world/europe-italy-bomb-threat-300-schools-evacuated-pm-giorgia-meloni-targeted-in-terror-emails-says-bomb-in-car-engine-italians-genocide-threat-10980184.html)
+*News18 Hindi (World)* - Nov 11, 23:33 IST (iso: 2026-11-11T18:03:56+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Italy-Bomb-Threat-2026-11-8cbeeec80299bb9c614fa641f19847f4-1200x800.jpg -->
 
-ENISA की रिपोर्ट में चेतावनी दी गई कि AI के कारण साइबर हमले तेज हो रहे हैं। हैकर्स अब फ्रिज के बाद राउटर और अन्य स्मार्ट उपकरणों को निशाना बनाने जा रहे हैं। यूरोपीय संघ की साइबर सुरक्षा एजेंसी ENISA ने अपनी ताजा रिपोर्ट में चेतावनी दी है कि आर्टिफिशियल इंटेलिजेंस (AI) की वजह से साइबर हमले पहले के मुकाबले कहीं ज्यादा तेज और खतरनाक होते जा रहे हैं.
+इटली में 300 स्कूलों को बम धमकी मिली। धमकी में प्रधानमंत्री जॉर्जिया मेलोनी की कार का जिक्र था। सभी स्कूलों को तुरंत खाली कराया गया। पुलिस और बम स्क्वॉड टीमों ने देशभर में जांच शुरू की। इटली में एक साथ 300 स्कूलों को बम से उड़ाने की धमकी मिली है. इसमें प्रधानमंत्री जॉर्जिया मेलोनी की कार को भी निशाना बनाने की बात कही गई है, जिससे पूरे देश में हड़कंप मच गया है.
 
-### ['उपन्यास से भी ज्यादा रोमांचक', सोनिया गांधी की किताब पर बोले प्रशांत भूषण](https://www.abplive.com/news/india/prashant-bhushan-reaction-on-sonia-gandhi-book-a-journey-of-love-3213485)
-*ABP Live (India)* - Nov 11, 13:52 IST (iso: 2026-11-11T08:22:12+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/e2e03a86245615d54dff208b0e43e83b17943776093771115_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [बजरी की खदान में चल रही थी खुदाई, अचानक अटक गया फावड़ा, फूटा 3000 साल पुराने खजाने का फव्वारा](https://hindi.news18.com/world/rest-of-world-treasure-of-villena-spain-3000-year-old-bronze-age-gold-hoard-contains-rare-meteoritic-iron-forged-from-space-metal-10980100.html)
+*News18 Hindi (World)* - Nov 11, 22:30 IST (iso: 2026-11-11T17:00:00+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Treasure-of-Villena-Spain-2026-11-4367a2589a36b52d9e8c2af145ec1643-1200x800.jpg -->
 
-वकील प्रशांत भूषण ने सोनिया गांधी की किताब 'बिलॉन्गिंग' की प्रशंसा की। उन्होंने एक्स पर लिखा कि यह किताब किसी उपन्यास से भी अधिक रोमांचक होगी। सिनियर वकील प्रशांत भूषण ने कांग्रेस की पूर्व अध्यक्ष सोनिया गांधी के किताब बिलॉन्गिंग: ए जर्नी ऑफ लव को लेकर बड़ा बयान दिया है. उन्होंने एक्स पर पोस्ट कर लिखा कि मैंने सोनिया गांधी के निजी संस्मरण को अभी तक नहीं पढ़ा है, लेकिन मैं अंदाज़ा लगा सकता हूं कि यह किताब इतनी दिलचस्प होगी कि इसे पढ़ते हुए आप इसे नीचे नहीं रख पाएंगे.
-
----
-
-## दुनिया
-
-### [घरों की छतें उड़ाने आ रहा तूफान सेमपाका, 180 की स्पीड और 980 का प्रेशर मचाएगा प्रलय](https://hindi.news18.com/world/rest-of-world-typhoon-cempaka-latest-alert-powerful-180-kmph-storm-threatens-pacific-with-record-32nd-hurricane-mausam-today-update-10979408.html)
-*News18 Hindi (World)* - Nov 11, 15:55 IST (iso: 2026-11-11T10:25:07+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Typhoon-Chempaka-2026-11-ddb3b4cc1cbf2a9dd1fcf552309dda68-1200x800.jpg -->
-
-प्रशांत में तूफान सेमपाका ने 180 किलोमीटर प्रति घंटा की रफ्तार और 980 हेक्टोपास्कल का दबाव बनाया है। मौसम विज्ञान एजेंसी ने हाई अलर्ट जारी कर दिया है। प्रशांत महासागर में कुदरत का बहुत ही डरावना रूप देखने को मिल रहा है. यहां इस साल का 32वां तूफान 'सेमपाका' (Typhoon Cempaka) आ गया है. इस चक्रवात की हवाओं की रफ्तार 180 किलोमीटर प्रति घंटा है.
-
-### [सोनिया गांधी के PM पद छोड़ने पर घमासान, BJP ने कहा- 'मिल्कियत समझती थीं'](https://www.abplive.com/news/india/sonia-gandhi-book-belonging-imran-pratapgarhi-satish-poonia-reaction-3213545)
-*ABP Live (India)* - Nov 11, 14:06 IST (iso: 2026-11-11T08:36:39+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/54c9586d8ebd838b7fca161f2a08011217943864962021115_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-सोनिया गांधी की किताब 'बिलॉन्गिंग' पर बीजेपी ने हमला किया। पार्टी ने दावा किया कि उन्हें पद की मिल्कियत समझ में आती थी। कांग्रेस सांसदों ने इस पर जवाब दिया। सोनिया गांधी की किताब बिलॉन्गिंग: ए जर्नी ऑफ लव को लेकर विवाद शुरू हो गया है. कांग्रेस की पूर्व अध्यक्ष ने किताब में प्रधानमंत्री न बनने की बात तो शामिल किया है.
-
-### [सोनिया गांधी की किताब पर अठावले का बड़ा बयान, '...तब शरद पवार की भूमिका से हम सहमत नहीं थे'](https://www.abplive.com/news/india/ramdas-athawale-on-sonia-gandhi-book-belonging-to-the-journey-of-love-says-3213532)
-*ABP Live (India)* - Nov 11, 13:16 IST (iso: 2026-11-11T07:46:10+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/b4b8fd37d01e5daabe8cdfb092e017d71794383623173355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-रामदास अठावले ने सोनिया गांधी की किताब पर प्रतिक्रिया दी। उन्होंने कहा कि विदेशी मूल के मुद्दे पर शरद पवार की भूमिका से सहमत नहीं थे। यह टिप्पणी किताब के लॉन्च के बाद आई। केंद्रीय मंत्री रामदास अठावले ने कांग्रेस नेता सोनिया गांधी की किताब बिलॉंगिंग टू द जर्नी ऑफ लव को लेकर बड़ा बयान दिया है. ये किताब लॉन्च होने के बाद से सुर्खियों में बनी हुई है.
-
-### [मां की मोहब्बत में बेटा बना रोड़ा, प्रेमी संग मिलकर रची हत्या की साजिश, 6 आरोपी गिरफ्तार](https://www.abplive.com/news/india/karnataka-belagavi-woman-her-boyfriend-kill-her-own-son-police-arrested-6-accused-ann-3213493)
-*ABP Live (India)* - Nov 11, 13:14 IST (iso: 2026-11-11T07:44:49+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/e4f1051999a016e8bc5fe75a24687e9117943784529191200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-बेलगावी में 24 वर्षीय विजय नारायण की हत्या का मामला सामने आया। आरोप है कि मां मीना ने प्रेमी के साथ मिलकर साजिश रची। कुल छह आरोपियों को गिरफ्तार किया गया है। कर्नाटक के बेलगावी से एक चौंकाने वाला मामला सामने आया है, जहां एक मां पर आरोप है कि उसने अपने प्रेमी के लिए अपने ही जवान बेटे की मौत का फरमान सुना दिया.
-
-### [पहले से और हाईटेक होगी CRPF, कामिकेज ड्रोन सिस्टम लेने का प्लान, क्या है खासियत](https://www.abplive.com/news/india/crpf-planning-to-acquire-kamikaze-drone-system-uav-anti-personnel-warheads-3213523)
-*ABP Live (India)* - Nov 11, 13:10 IST (iso: 2026-11-11T07:40:11+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/a5ea6550a92528728924ef647c2dba2517943823838951200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-सीआरपीएफ कामिकेज ड्रोन सिस्टम खरीदने की योजना बना रहा है। इसमें ऑप्टिकल फाइबर और रेडियो फ्रीक्वेंसी तकनीक शामिल होगी। ड्रोन दिन और रात दोनों में काम करेंगे। केंद्रीय रिजर्व पुलिस बल (CRPF) एक ऐसा कामिकेज ड्रोन सिस्टम लेने की योजना बना रहा है, जो ऑप्टिकल फाइबर केबल (OFC) और रेडियो फ्रीक्वेंसी (RF) पर आधारित फर्स्ट पर्सन व्यू (FPV) तकनीक से लैस होगा.
+स्पेन की विलेना खदान में 3000 साल पुराना खजाना मिला। इसमें 60 से अधिक सोने के बर्तन और गहने शामिल हैं। खोज में अंतरिक्ष से गिरे उल्कापिंड के दुर्लभ लोहे के टुकड़े भी मिले। स्पेन की एक खदान में 3,000 साल पुराना खजाना मिला है. इस 'ट्रेजर ऑफ विलेना' ने दुनिया भर के वैज्ञानिकों को हैरान कर दिया है. इस खजाने में 60 से ज्यादा सोने के बर्तन और गहने मिले हैं.
 
 ---
 

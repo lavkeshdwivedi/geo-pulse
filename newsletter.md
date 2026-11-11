@@ -1,13 +1,41 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 11, 2026 22:13 IST
+**Updated:** November 12, 2026 04:41 IST
+
+---
+
+## Asia-Pacific
+
+### [Melaka votes, Putrajaya watches - the hotly contested state polls could be harbinger of next](https://www.channelnewsasia.com/commentary/malaysia-election-melaka-votes-alliance-next-ge-6535331)
+*Channel News Asia* - Nov 12, 03:30 IST (iso: 2026-11-11T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--F0laql1D--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/bn_event_fb_ab_rauf_yusoh.jpeg?itok=6bNxYh6Z -->
+
+Malaysia's Melaka state election serves as a testing ground for political alliances ahead of the next general election. Parties are experimenting with new coalitions in the region. The outcome will likely shape the broader national political landscape and future governance structures. The upcoming state poll is not really about Melaka. It is a testbed where Malaysia’s warring political parties will experiment with new alliances that are set to determine the shape of the next general election, writes CNA’s Leslie Lopez.
+
+### [Don’t let Taiwan’s silicon shield become a US silicon trap](https://asiatimes.com/2026/11/dont-let-taiwans-silicon-shield-become-a-us-silicon-trap/)
+*Asia Times* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:58+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/TSMC-Taiwan-China-.jpg -->
+
+TSMC is investing heavily in US semiconductor fabrication. This brings encouraging news for the struggling US economy. However, reliance on a single foreign supplier creates strategic risks for American supply chains. As the midterms loudly demonstrated, there is considerable gloom over the US economy. Cause for economic optimism is in short supply, though there is some encouraging news regarding US-based semiconductor fabrication spurred by enormous investments from the huge Taiwan company TSMC.
+
+### [China fast-tracks mobile ICBM to lock down second-strike edge](https://asiatimes.com/2026/11/china-fast-tracks-mobile-icbm-to-lock-down-second-strike-edge/)
+*Asia Times* - Nov 10, 11:38 IST (iso: 2026-11-10T06:08:04+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile.jpeg -->
+
+China has rapidly deployed a new road-mobile intercontinental ballistic missile to strengthen its second-strike capability. The system addresses technical flaws in earlier models and improves survivability. This move accelerates the modernization of its land-based nuclear deterrent against potential adversaries. China’s rapid operational integration of a new type of intercontinental ballistic missile (ICBM) underscores an accelerating push to modernize its land-based deterrent, addressing key technical vulnerabilities of earlier systems while fortifying second-strike survivability amid an unprecedented nuclear expansion.
+
+### [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)
+*The Guardian* - Nov 08, 08:30 IST (iso: 2026-11-08T03:00:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa1a8b3cf4e2a78849c21902c5dbd10 -->
+
+Activists warn that Thailand may deport Uyghurs to China under pressure from Beijing. Two men face deportation, with one stating he would be treated like a slave if sent back. Thai authorities forcibly deported 40 Uyghurs last year, raising fears of severe human rights abuses. Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. Last year, Thai authorities forcibly deported 40 Uyghu.
 
 ---
 
 ## Middle East & Africa
 
 ### [COP31 leaders urge focus on climate action despite global conflicts](https://www.thehindu.com/news/international/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31/article71690853.ece)
-*The Hindu (International)* - Nov 11, 21:53 IST (iso: 2026-11-11T16:23:15+00:00)
+*The Hindu (International)* - Nov 11, 22:45 IST (iso: 2026-11-11T17:15:57+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/mwqpmw/article71690880.ece/alternates/LANDSCAPE_1200/Climate_COP31_Turkey_26676.jpg -->
 
 Negotiators from nearly 200 countries are at COP31 seeking agreement on a Turkish proposal. The plan aims to increase electricity's share in global energy use. It also seeks to revive stalled efforts to reduce fossil fuel dependence. Negotiators from nearly 200 countries are seeking agreement at COP31 on a proposal from Turkey to increase the share of electricity in global ‌energy use and revive stalled efforts to move away from fossil fuels.
@@ -18,17 +46,41 @@ Negotiators from nearly 200 countries are at COP31 seeking agreement on a Turkis
 
 Benjamin Netanyahu dismissed claims that Israel is blocking supplies to Gaza. He blamed Hamas for refusing to disarm under the Trump-announced deal. Netanyahu stated the group seizes humanitarian aid for military use. Benjamin Netanyahu said the Palestinian militant group Hamas is to blame because it continues to refuse to disarm, a condition of the deal announced by Donald Trump, and seizes humanitarian aid in order to use it for military purposes.
 
+### [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/feed/view/en/story/2026/11/1168787)
+*UN News* - Nov 11, 17:30 IST (iso: 2026-11-11T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-05-2023-UNDP-Cambodia-EWS.jpg/image770x420cropped.jpg -->
+
+UN Secretary-General António Guterres stated that early warning systems are saving lives globally. However, millions remain unprotected as warnings fail to reach them. He urged the international community to ensure every person on Earth is covered by these systems by the end of 2027. Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.
+
+### [After 48 years patrolling the Blue Line, UN peacekeepers prepare exit](https://news.un.org/feed/view/en/story/2026/11/1168784)
+*UN News* - Nov 11, 17:30 IST (iso: 2026-11-11T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-05-2021-UNIFIL8.jpg/image770x420cropped.jpg -->
+
+UN peacekeepers are preparing to exit southern Lebanon after 48 years of patrolling the Blue Line. Hostilities have decreased following a June agreement between the United States, Lebanon, and Israel. Communities report the situation remains volatile and difficult for those attempting to rebuild their lives. The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.
+
 ### [How much will Jensen Huang’s scandal ultimately cost?](https://asiatimes.com/2026/11/how-much-will-jensen-huangs-scandal-ultimately-cost/)
 *Asia Times* - Nov 10, 17:44 IST (iso: 2026-11-10T12:14:42+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Nvidia.jpg -->
 
 Nvidia CEO Jensen Huang admitted to an extramarital affair with Alice Huang. She has been accused of being a Chinese intelligence agent. The scandal raises concerns about the security of artificial intelligence chip supply chains. Jensen Huang, the chief executive and co-founder of chipmaking company Nvidia, recently admitted to an extramarital affair. However, it’s not just a tabloid story: the woman involved, Alice Huang, has been accused of being a Chinese intelligence agent.
 
+### [IOM urges wider surveillance beyond formal routes in DR Congo](https://news.un.org/feed/view/en/story/2026/11/1168781)
+*UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_IOM_DRC_Ebola.jpg/image770x420cropped.jpg -->
+
+The International Organization for Migration urged broader surveillance beyond formal routes in the Democratic Republic of the Congo. Seventy-one confirmed Ebola cases were detected along transit routes since the outbreak began six months ago. The agency highlighted the need to monitor movement outside standard health checkpoints. Seventy-one confirmed Ebola cases have been detected along transit routes in the Democratic Republic of the Congo (DRC) since the outbreak began almost six months ago, the International Organization for Migration (IOM) said on Tuesday.
+
 ### [Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening](https://news.un.org/feed/view/en/story/2026/11/1168779)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UNHCR_Niger.jpg/image770x420cropped.jpg -->
 
 UNHCR reported 64,000 people fled northern Nigeria for Niger this year. Several hundred also left for Benin. Violence in the region is deepening a humanitarian crisis. Host countries are struggling to cope with the sudden influx of displaced residents. Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since the start of the year, as host countries struggle to cope, the UN’s refugee agency (UNHCR) said on Tuesday.
+
+### [Fact-checking site’s entire newsroom jailed as assault on press freedom widens](https://news.un.org/feed/view/en/story/2026/11/1168778)
+*UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UN-News_Egypt.jpg/image770x420cropped.jpg -->
+
+Six journalists from the Egyptian fact-checking site Matsadash remain in detention. The UN human rights office confirmed their continued imprisonment. This incident highlights a widening assault on press freedom. The government faces criticism for targeting independent media operations. Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of proliferating assaults on press freedom by the Government.
 
 ### [South Sudan’s first elections loom amid rising violence](https://news.un.org/feed/view/en/story/2026/11/1168774)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
@@ -38,25 +90,13 @@ South Sudan faces its first national elections in six weeks as violence escalate
 
 ### [First ‘suicide’ drone attacks, now long-range strikes are the norm](https://news.un.org/feed/view/en/story/2026/11/1168771)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Sudan-01.jpg/image560x340cropped.jpg -->
 
 UNICEF warns that drones and drought are closing in on Sudan. Attackers now use long-range drones traveling up to 1,500 kilometers. These strikes target critical infrastructure across the country. Drones and drought are “closing in” on Sudan, the UN Children’s Fund (UNICEF, said on Tuesday, describing unprecedented attacks on the country’s infrastructure including by drones travelling up to 1,500 kilometres before hitting their target.
 
-### [IOM urges wider surveillance beyond formal routes in DR Congo](https://news.un.org/feed/view/en/story/2026/11/1168781)
-*UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_IOM_DRC_Ebola.jpg/image770x420cropped.jpg -->
-
-The International Organization for Migration urged broader surveillance beyond formal routes in the Democratic Republic of the Congo. Seventy-one confirmed Ebola cases were detected along transit routes since the outbreak began six months ago. The agency highlighted the need to monitor movement outside standard health checkpoints. Seventy-one confirmed Ebola cases have been detected along transit routes in the Democratic Republic of the Congo (DRC) since the outbreak began almost six months ago, the International Organization for Migration (IOM) said on Tuesday.
-
-### [Fact-checking site’s entire newsroom jailed as assault on press freedom widens](https://news.un.org/feed/view/en/story/2026/11/1168778)
-*UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UN-News_Egypt.jpg/image770x420cropped.jpg -->
-
-Six journalists from the Egyptian fact-checking site Matsadash remain in detention. The UN human rights office confirmed their continued imprisonment. This incident highlights a widening assault on press freedom. The government faces criticism for targeting independent media operations. Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of proliferating assaults on press freedom by the Government.
-
 ### [Climate crisis could push 141 million more women into extreme poverty](https://news.un.org/feed/view/en/story/2026/11/1168770)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-South-Sudan-02.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-South-Sudan-02.jpg/image560x340cropped.jpg -->
 
 Over one billion women and girls live in climate hotspots. High hazard exposure combines with insecure jobs and gender inequality. The crisis could push 141 million more into extreme poverty. More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.
 
@@ -71,12 +111,6 @@ Pakistan’s military-led government failed to secure favorable terms from Donal
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-White-House.jpg -->
 
 Democrats won both houses of Congress in a stunning defeat for President Donald Trump. They captured Senate seats in states they had not won in generations. Voters expressed anger over rising prices, government corruption, and the war with Iran. Last Tuesday’s election was a stunning defeat for President Donald Trump. Democrats won both houses of Congress, including Senate races in states they haven’t won in generations.
-
-### [Strikes on Ukraine’s power grid, as peace talks loom](https://news.un.org/feed/view/en/story/2026/11/1168761)
-*UN News* - Nov 09, 17:30 IST (iso: 2026-11-09T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/05-11-2026-UNICEF-Ukraine-01.jpg/image560x340cropped.jpg -->
-
-Russian forces struck Ukrainian energy infrastructure, threatening millions with a cold winter and increasing civilian casualties. The UN Security Council convened in New York to discuss the crisis. These strikes occurred just before US-backed peace talks were scheduled to begin in Abu Dhabi. The Security Council convenes at 10am in New York on Ukraine. Russian strikes on energy infrastructure are threatening millions with another cold, dark winter, and civilian deaths are climbing sharply.
 
 ---
 
@@ -133,40 +167,6 @@ The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 f
 <!-- image: https://i.guim.co.uk/img/media/6f25de25053fd56e3197670b730755eb201a7b05/136_0_623_498/master/623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74c878806b29f8d7333316e5535e0ca2 -->
 
 Ecuadorian journalist Tomás Beltrán was shot dead while parking his car in Calceta. The killing highlights deteriorating security conditions in the country. Gang warfare over drug routes has made the Pacific coastline a key flashpoint. Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violentTomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead. Beltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a key flashpoint in the gang warfare over d.
-
----
-
-## Asia-Pacific
-
-### [How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington](https://www.thehindu.com/news/international/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington/article71688529.ece)
-*The Hindu (International)* - Nov 11, 13:24 IST (iso: 2026-11-11T07:54:08+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/x6fzmv/article71688596.ece/alternates/LANDSCAPE_1200/US_Nvidia_Jensen_Huang_Fallout_83942.jpg -->
-
-Federal investigators probe Nvidia CEO Jensen Huang over an alleged affair and claims a former executive spied for China. The inquiry examines export controls and national security breaches tied to Nvidia chips. These legal and political issues create significant collateral damage in Washington. Nvidia CEO Jensen Huang confronts a widening political and legal storm in Washington over an alleged extramarital affair and claims a former Megaspeed executive spied for China, as federal investigators probe export controls and possible national-security breaches tied to Nvidia’s chips in the high-stakes U. S.-China AI race.
-
-### [U.S. and China should stay clear-eyed on AI cooperation and competition, says Scott Bessent](https://www.thehindu.com/news/international/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-says-scott-bessent/article71688169.ece)
-*The Hindu (International)* - Nov 11, 12:42 IST (iso: 2026-11-11T07:12:20+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/egf4cl/article71688178.ece/alternates/LANDSCAPE_1200/US_China_Relations_3443_.jpg -->
-
-Treasury Secretary Scott Bessent travels to China next week for President Trump’s third meeting with Xi Jinping. He aims to build a constructive relationship based on balance and reciprocity. The visit focuses on maintaining clear-eyed approaches to AI cooperation and competition between the two nations. Bessent, who will travel to China next week for U. S. President Donald Trump’s third meeting this year with Chinese President Xi Jinping, said that he wanted to “build a constructive relationship on the basis of balance and reciprocity”.
-
-### [Social Insurance Could Help China Rebalance, If Beijing Enforces It](https://thediplomat.com/2026/11/social-insurance-could-help-china-rebalance-if-beijing-enforces-it/)
-*The Diplomat* - Nov 10, 18:51 IST (iso: 2026-11-10T13:21:00+00:00)
-<!-- image: https://thediplomat.com/wp-content/uploads/2025/06/sizes/td-story-s-2/thediplomat_2025-06-06-134719.jpg -->
-
-China introduced new penalty standards for unpaid social insurance contributions. Enforcing these rules would protect retiring workers. It would also boost domestic consumption. This shift could reduce the country's heavy reliance on exports for economic growth. China’s new penalty standards for unpaid social insurance contributions are a positive step. Enforcing the law would not only protect workers in retirement but also help boost domestic consumption and reduce China’s dependence on exports.
-
-### [Don’t let Taiwan’s silicon shield become a US silicon trap](https://asiatimes.com/2026/11/dont-let-taiwans-silicon-shield-become-a-us-silicon-trap/)
-*Asia Times* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:58+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/TSMC-Taiwan-China-.jpg -->
-
-TSMC is investing heavily in US semiconductor fabrication. This brings encouraging news for the struggling US economy. However, reliance on a single foreign supplier creates strategic risks for American supply chains. As the midterms loudly demonstrated, there is considerable gloom over the US economy. Cause for economic optimism is in short supply, though there is some encouraging news regarding US-based semiconductor fabrication spurred by enormous investments from the huge Taiwan company TSMC.
-
-### [China fast-tracks mobile ICBM to lock down second-strike edge](https://asiatimes.com/2026/11/china-fast-tracks-mobile-icbm-to-lock-down-second-strike-edge/)
-*Asia Times* - Nov 10, 11:38 IST (iso: 2026-11-10T06:08:04+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile.jpeg -->
-
-China has rapidly deployed a new road-mobile intercontinental ballistic missile to strengthen its second-strike capability. The system addresses technical flaws in earlier models and improves survivability. This move accelerates the modernization of its land-based nuclear deterrent against potential adversaries. China’s rapid operational integration of a new type of intercontinental ballistic missile (ICBM) underscores an accelerating push to modernize its land-based deterrent, addressing key technical vulnerabilities of earlier systems while fortifying second-strike survivability amid an unprecedented nuclear expansion.
 
 ---
 
