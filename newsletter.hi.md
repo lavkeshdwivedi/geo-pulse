@@ -1,168 +1,168 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 11, 2026 07:03 IST
-
----
-
-## दुनिया
-
-### [नेतन्याहू की नीतियां पलटने का एलान: इस्राइल में गादी आइजेनकोट ने कसी कमर, नई सरकार पर बवाल क्यों?](https://www.amarujala.com/world/eisenkot-unveils-agenda-to-reverse-netanyahu-policies-2026-11-11)
-*Amar Ujala World* - Nov 11, 12:45 IST (iso: 2026-11-11T07:15:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/rashhatarapata-isaka-harajaga-na-vapakashha-nata-oura-yashara-parata-ka-paramakha-gatha-aaijanakata_fcbfa18193da1a859461df0e61dd5700.jpeg?w=1200&dpr=1.0 -->
-
-गादी आइजेनकोट ने इस्राइल की नई सरकार बनाई है। उन्होंने नेतन्याहू की मौजूदा नीतियों को बदलने का वादा किया है। इस बदलाव ने देश में राजनीतिक बहस को तेज कर दिया है। नेतन्याहू की नीतियां पलटने का एलान: इस्राइल में गादी आइजेनकोट ने कसी कमर, नई सरकार पर बवाल क्यों?
-
-### [सर्फ एक्सेल से रिन-व्हील तक, एचयूएल के होम केयर उत्पाद 11% तक महंगे](https://www.amarujala.com/business/bonus/hindustan-unilever-raises-prices-of-surf-excel-rin-and-wheel-products-by-up-to-11-percent-2026-11-11)
-*Amar Ujala National* - Nov 11, 06:52 IST (iso: 2026-11-11T01:22:12+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/13/surf-excel_bc589b7ddf6905d867958881377718cf.jpeg?w=1200&dpr=1.0 -->
-
-हिंदुस्तान यूनिलीवर ने सर्फ एक्सेल, रिन और व्हील जैसे होम केयर उत्पादों की कीमतें बढ़ा दी हैं। इन उत्पादों पर अधिकतम 11 प्रतिशत तक की वृद्धि की गई है। सर्फ एक्सेल से रिन-व्हील तक, एचयूएल के होम केयर उत्पाद 11% तक महंगे।
-
-### [सीईओ हुआंग शीर्ष 10 से बाहर, दो दिन में दौलत 1.5 लाख करोड़ घटी; एनवीडिया के शेयर भी गिरे](https://www.amarujala.com/business/business-diary/nvidia-ceo-jensen-huang-loses-billions-as-shares-slide-amid-espionage-investigation-2026-11-11)
-*Amar Ujala National* - Nov 11, 06:43 IST (iso: 2026-11-11T01:13:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/02/17/ashavana-vashhanaeva-na-enavadaya-saiio-janasana-haaaga-ka-idaya-eaaii-samata-ma-naha-pahaca-pana-ka-karanae-btaya_9f1726be6cc7d15571b2369ac2b425a4.jpeg?w=1200&dpr=1.0 -->
-
-जेनसन हुआंग की दौलत में दो दिनों में 1.5 लाख करोड़ रुपये की गिरावट आई है। इस वजह से वह दुनिया के सबसे अमीर 10 लोगों की सूची से बाहर हो गए और एनवीडिया के शेयर भी गिरे। भारी पड़ी बेवफाई: सीईओ हुआंग शीर्ष 10 से बाहर, दो दिन में दौलत 1.5 लाख करोड़ घटी; एनवीडिया के शेयर भी गिरे।
-
-### [घुलित ऑक्सीजन की मात्रा बढ़ी, सुखद संकेत के बीच विकास संबंधी प्राथमिकताएं बदलना जरूरी](https://www.amarujala.com/columns/opinion/ncpor-southern-ocean-dissolved-oxygen-level-surge-positive-sign-shift-in-development-priorities-essential-2026-11-11)
-*Amar Ujala National* - Nov 11, 06:43 IST (iso: 2026-11-11T01:13:25+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/01/indian-ocean-name-in-pakistan-boundaries-history-naming-controversy-hind-mahasagar_da26136a1f15faa953a698ba78758ab1.jpeg?w=1200&dpr=1.0 -->
-
-महासागरों में घुलित ऑक्सीजन की मात्रा में उल्लेखनीय वृद्धि दर्ज की गई है। यह एक सकारात्मक संकेत है, लेकिन जलवायु परिवर्तन से निपटने के लिए विकास संबंधी प्राथमिकताओं में बदलाव की आवश्यकता बनी हुई है। महासागर की सांसें: घुलित ऑक्सीजन की मात्रा में उल्लेखनीय वृद्धि, सुखद संकेत के बीच विकास संबंधी प्राथमिकताएं बदलना जरूरी। घुलित ऑक्सीजन की मात्रा बढ़ी, सुखद संकेत के बीच विकास संबंधी प्राथमिकताएं बदलना जरूरी।
-
-### [चुपके-चुपके धरती का चक्कर लगाता था 'एलियन', ग्रैविटी ने ऐसा खींचा, फंस गया जाल में, रिसर्च में जुटे](https://hindi.news18.com/world/rest-of-world-earth-mysterious-moon-discovered-after-it-was-sucked-in-by-gravity-scientists-started-further-research-science-news-10977536.html)
-*News18 Hindi (World)* - Nov 11, 06:31 IST (iso: 2026-11-11T01:01:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/mini-moon-2026-11-99ed312be2dcb5bceee22a1c2dadfdc1-1200x800.jpg -->
-
-एक अज्ञात खगोलीय पिंड ने धरती के चारों ओर चुपके से कक्षा में घुमकर अपना अस्तित्व प्रकट किया। ग्रैविटी की खिंचाव के कारण यह पिंड पकड़ा गया। वैज्ञानिक अब इस 'मिनी मून' के अध्ययन में जुटे हुए हैं। Earth Mini Moon Discovered: हमारी धरती अंतरिक्ष में सूरज का चक्कर लगाती रहती है. इस दौरान तरह-तरह के उल्कापिंड और चट्टानें उसके आस-पास से गुजरती हैं.
-
-### [12 साल बाद EPFO का बड़ा फैसला न्यूनतम मासिक पेंशन को इतना बढ़ाने की तैयारी?](https://www.amarujala.com/video/india-news/a-major-decision-by-the-epfo-after-12-years-is-there-a-plan-to-increase-the-minimum-monthly-pension-by-this-2026-11-11)
-*Amar Ujala National* - Nov 11, 06:30 IST (iso: 2026-11-11T01:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/epfo_8ed66539edd9ea921b720fd6a96678d8.jpeg?w=1200&dpr=1.0 -->
-
-एपीएफओ ने 12 साल बाद न्यूनतम मासिक पेंशन में वृद्धि की तैयारी शुरू कर दी है। यह फैसला पेंशनधारकों के लिए महत्वपूर्ण बदलाव लाएगा। संस्था ने नई दरों पर काम शुरू कर दिया है। 12 साल बाद EPFO का बड़ा फैसला न्यूनतम मासिक पेंशन को इतना बढ़ाने की तैयारी?
-
-### [सैफ-साेहा से अनन्या-अहान तक, परदे पर छाई भाई-बहनों की यह जोड़ी, कोई सुपरस्टार तो कोई बना डायरेक्टर](https://www.amarujala.com/entertainment/bhai-dooj-2026-from-saif-ali-khan-soha-ali-khan-to-sonam-and-harshvardhan-kapoor-these-brother-sister-due-acti-2026-11-09)
-*Amar Ujala National* - Nov 11, 06:30 IST (iso: 2026-11-11T01:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/bhaii-bhana-ka-jaugdha_aeca8a711594282af4afee6da5e3a1bf.jpeg?w=1200&dpr=1.0 -->
-
-भाई दूज के मौके पर हिंदी फिल्म इंडस्ट्री की प्रसिद्ध भाई-बहन जोड़ियों पर चर्चा हुई। सारा अली खान और इब्राहिम, जोया अख्तर और फरहान अख्तर इस सूची में शामिल हैं। कुछ सुपरस्टार हैं तो कुछ निर्देशक। भाई दूज का त्योहार 11 नवंबर को धूमधाम से मनाया जाएगा। हिंदी फिल्म इंडस्ट्री में भी कई भाई-बहन की जोड़ियां हैं, जो फिल्मों में काम करते हुए अपना नाम बना रही हैं।
-
-### [एआई से बनाएं भाई-बहन की खूबसूरत तस्वीर, क्या है तरीका? जानें दो शानदार प्रॉम्प्ट्स](https://www.amarujala.com/technology/tech-diary/how-create-ai-bhai-dooj-photos-using-gemini-chatgpt-best-prompts-and-steps-2026-11-10)
-*Amar Ujala National* - Nov 11, 06:30 IST (iso: 2026-11-11T01:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/bhaiithaja-para-bhaii-bhana-ka-eaaii-fata-bnae_42c2dc638d088693f1f65f9a8768ec8d.jpeg -->
-
-भाईदूज पर एआई टूल्स का उपयोग करके भाई-बहन की तस्वीरें बनाने के लिए दो प्रॉम्प्ट्स साझा किए गए हैं। यह तकनीक त्योहार की विशेष तस्वीरें तैयार करने में मदद करती है। भाईदूज की बधाई होगी खास: एआई से बनाएं भाई-बहन की खूबसूरत तस्वीर, क्या है तरीका? जानें दो शानदार प्रॉम्प्ट्स।
-
-### [सरकारी बेड़े से पेट्रोल-डीजल कारों की होगी विदाई: अब 20 लाख तक की ईवी को प्राथमिकता; अफसरों को](https://www.amarujala.com/india-news/government-prioritises-electric-cars-for-official-fleets-and-offers-laptops-to-central-employees-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 06:10 IST (iso: 2026-11-11T00:40:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/06/kaaa-sairasa-iiva-bnama-tata-karava-iiva_78520ba116d14d908c0402688833af82.png?w=1200&dpr=1.0 -->
-
-सरकारी बेड़े से पेट्रोल और डीजल कारों को हटाया जाएगा। अब 20 लाख रुपये तक की इलेक्ट्रिक वाहनों को प्राथमिकता दी जाएगी। अधिकारियों को लैपटॉप भी दिए जाएंगे। सरकारी बेड़े से पेट्रोल-डीजल कारों की होगी विदाई: अब 20 लाख तक की ईवी को प्राथमिकता; अफसरों को लैपटॉप भी।
-
-### [वे परिवार के सदस्य थे ऐसे कैसे छोड़ देते; अब अंतिम विदाई भी इंसानों जैसी](https://www.amarujala.com/columns/blog/delhi-ncr-pet-cremation-services-offer-dignified-farewell-to-beloved-family-companions-2026-11-11)
-*Amar Ujala National* - Nov 11, 06:04 IST (iso: 2026-11-11T00:34:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/10/13/chandigarh_f0fce8897322c2b767572b80a388b827.jpeg?w=1200&dpr=1.0 -->
-
-पशुओं की अंतिम विदाई अब मानवों जैसी हो रही है। परिवार के सदस्य के रूप में उन्हें सम्मान दिया जाता है। यह बदलाव पशु-मानव संबंधों में नई गहराई जोड़ रहा है। दूसरा पहलू: वे परिवार के सदस्य थे ऐसे कैसे छोड़ देते; अब अंतिम विदाई भी इंसानों जैसी।
-
-### [Weather Forecast 11 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-for-11-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-11)
-*Amar Ujala National* - Nov 11, 06:00 IST (iso: 2026-11-11T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/weather-forecast_e82c0f527f051850d981f9ba4a707dd1.jpeg?w=1200&dpr=1.0 -->
-
-11 नवंबर 2026 के मौसम का पूर्वानुमान जारी किया गया है। विभिन्न क्षेत्रों में तापमान और वर्षा की संभावनाओं का विवरण उपलब्ध है। स्थानीय मौसम स्थिति के अनुसार तैयारी की सलाह दी गई है।
-
-### ['मुझे राजकुमारी जैसा महसूस कराता है', दिव्या दत्ता ने सुनाए भाई से जुड़े यादगार किस्से](https://www.amarujala.com/entertainment/celebs-interviews/divya-dutta-shared-her-sweet-memories-with-her-brother-on-bhai-dooj-in-recent-interview-2026-11-10)
-*Amar Ujala National* - Nov 11, 06:00 IST (iso: 2026-11-11T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/thavaya-thatata-bhaii-ka-satha_1c1448e314ad4f9601745cde811038e8.jpeg?w=1200&dpr=1.0 -->
-
-अभिनेत्री दिव्या दत्ता ने भाई दूज पर अपने भाई से जुड़ी यादें साझा कीं। उन्होंने बताया कि वह इस दिन को पूरी योजना के साथ मनाती हैं। दिव्या ने अपने छोटे भाई के लिए विशेष नाम का भी उल्लेख किया। अभिनेत्री दिव्या दत्ता ने भाई दूज के त्यौहार से जुड़ी कई यादें साझा कीं। उन्होंने बताया कि इस खास दिन को अपने भाई के साथ पूरी प्लानिंग से मनाती हैं।
-
-### [कौन थे मौलाना अबुल कलाम आजाद? जानें शिक्षा के क्षेत्र में उनका योगदान](https://www.amarujala.com/education/national-education-day-2026-history-significance-and-maulana-abul-kalam-azad-s-contribution-2026-11-10)
-*Amar Ujala National* - Nov 11, 06:00 IST (iso: 2026-11-11T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/national-education-day-2026_d1725771dd28e95797a223edaaff2c0e.jpeg?w=1200&dpr=1.0 -->
-
-मौलाना अबुल कलाम आजाद शिक्षा क्षेत्र में महत्वपूर्ण योगदान दे चुके हैं। इस दिन विद्यालयों में जागरूकता कार्यक्रम आयोजित किए जाते हैं। विद्यार्थियों को शिक्षा के महत्व और समान अवसरों के प्रति सचेत किया जाता है। इस दिन स्कूलों, कॉलेजों और विश्वविद्यालयों में भाषण, निबंध लेखन, वाद-विवाद और जागरूकता कार्यक्रम आयोजित किए जाते हैं। इसका उद्देश्य विद्यार्थियों को शिक्षा के महत्व और समान अवसरों के प्रति जागरूक करना है।
-
-### [कई राज्यों में बैंक बंद, स्वच्छ शहरों को मिलेगा सम्मान; पटना में भाजपा की बैठक करेंगे नितिन नवीन](https://www.amarujala.com/india-news/11-november-2026-major-event-2026-2026-11-10)
-*Amar Ujala Breaking* - Nov 11, 05:31 IST (iso: 2026-11-11T00:01:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/aaja-ka-thana_671abfabf602fcc84134c65c5d546d83.gif?w=1200&dpr=1.0 -->
-
-11 नवंबर को कई राज्यों में बैंक बंद रहेंगे। स्वच्छ शहरों को सम्मानित किया जाएगा। पटना में नितिन गडकरी भाजपा की बैठक करेंगे। 11 November 2026 Major event 2026- आज के दिन: कई राज्यों में बैंक बंद, स्वच्छ शहरों को मिलेगा सम्मान; पटना में भाजपा की बैठक करेंगे नितिन नवीन।
-
-### [नोटिफिकेशन और एल्गोरिदम के जाल में बचपन, डिजिटल मीडिया का मानसिक स्वास्थ्य पर असर](https://www.amarujala.com/india-news/children-health-at-stake-childhood-in-web-of-notifications-and-algorithms-mental-health-digital-media-impact-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 05:06 IST (iso: 2026-11-10T23:36:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/child-mobile-bcaca-ka-mabil-sa-thara-rakhana-ka-salha-para-amal-janprra-sakataka_7f2ea92b82f9b71ac664d9fa36fa7c96.jpeg?w=1200&dpr=1.0 -->
-
-डिजिटल मीडिया के नोटिफिकेशन और एल्गोरिदम बच्चों के मानसिक स्वास्थ्य को प्रभावित कर रहे हैं। स्क्रीन समय बढ़ने से बचपन पर गहरा असर पड़ रहा है। बच्चों की सेहत से खिलवाड़: नोटिफिकेशन और एल्गोरिदम के जाल में बचपन, डिजिटल मीडिया का मानसिक स्वास्थ्य पर असर।
+**अपडेट:** November 11, 2026 14:01 IST
 
 ---
 
 ## एशिया-प्रशांत
 
-### [तुर्किये में कॉप31… भारत ने विकसित देशों से वित्त से जुड़े दायित्व निभाने को कहा, तीन दशक के वादे](https://www.patrika.com/world-news/cop31-india-demands-climate-finance-developed-countries-21040262)
-*Patrika (World)* - Nov 11, 07:02 IST (iso: 2026-11-11T01:32:12+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-10.webp -->
+### [भारत की ये 7 जगहें लगती हैं विदेश जैसी, तस्वीरें देख यकीन नहीं होगा!](https://www.amarujala.com/photo-gallery/lifestyle/travel/7-places-in-india-that-look-just-like-foreign-destinations-2026-10-23)
+*Amar Ujala National* - Nov 11, 12:57 IST (iso: 2026-11-11T07:27:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/places-like-foreign-countries_14a80409ee8eb85f789a1fb61ad9b872.jpeg?w=1200&dpr=1.0 -->
 
-अंतालिया में चली COP31 में भारत ने विकसित देशों से तीन दशक पुराने वित्तीय वादे निभाने की मांग की। जलवायु वित्त में विकासशील देशों को मिलने वाली सहायता अब भी लक्ष्य से काफी पीछे है। COP31: जलवायु परिवर्तन से निपटने के लिए दुनिया के देश तीन दशक से अधिक समय से संयुक्त राष्ट्र के मंच पर जुट रहे हैं। हर साल होने वाले कॉप सम्मेलनों में ग्रीनहाउस गैसों का उत्सर्जन घटाने, वैश्विक तापमान नियंत्रित करने और विकासशील देशों को आर्थिक मदद देने के संकल्प लिए जाते हैं, लेकिन जमीनी कार्रवाई अब भी उम्मीद से काफी पीछे है।
+भारत के सात स्थान विदेशी नजारा प्रदान करते हैं। स्पीति के रेगिस्तान से लेकर कश्मीर की वादियों तक, यहाँ प्राकृतिक सौंदर्य का अनुभव किया जा सकता है। भारत की ये सात जगहें बताती हैं कि शानदार प्राकृतिक नजारों का आनंद लेने के लिए विदेश जाना जरूरी नहीं है। स्पीति के ठंडे रेगिस्तान से लेकर कश्मीर की वादियों और नॉर्थ ईस्ट की नदियों तक, हर जगह की अपनी अलग पहचान है।
 
-### [कैसे काम करती है चीन की खुफिया एजेंसी एमएसएस और कितना बड़ा है इसका जासूसी नेटवर्क?](https://www.amarujala.com/india-news/jensen-huang-honey-trap-inside-china-s-secret-spy-agency-mss-know-how-it-operates-2026-11-10)
-*Amar Ujala National* - Nov 11, 06:52 IST (iso: 2026-11-11T01:22:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/10/china-spy-agency_bef634b4f240402e1f881603fa396bf6.jpeg?w=1200&dpr=1.0 -->
+### [ट्रंप को चीन दौरे से पहले दी गई थी खुफिया जानकारी, फिर भी कर रहे इनकार; किसने उठाए सवाल?](https://www.amarujala.com/world/trump-briefed-on-nvidia-ceo-jensen-huang-girlfriend-alleged-china-spy-links-now-denying-democrates-question-2026-11-11)
+*Amar Ujala World* - Nov 11, 12:56 IST (iso: 2026-11-11T07:26:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/jensen-huang_f6f7f681cbc6f7b914d54cf82232b186.jpeg?w=1200&dpr=1.0 -->
 
-एनवीडिया सीईओ जेनसन हुआंग से जुड़े हनी ट्रैप मामले ने चीन की खुफिया एजेंसी MSS को चर्चा में लाया। यह एजेंसी अपने व्यापक जासूसी नेटवर्क के माध्यम से वैश्विक स्तर पर खुफिया कार्रवाइयां चलाती है। एनवीडिया सीईओ जेनसन हुआंग से जुड़े हनी ट्रैप मामले ने चीन की खुफिया एजेंसी एमएसएस को चर्चा में ला दिया है। आइए जानते हैं यह सीक्रेट एजेंसी कैसे काम करती है और इसका जासूसी नेटवर्क कितना बड़ा है।
+ट्रंप को चीन दौरे से पहले एनवीडिया सीईओ की पत्नी पर खुफिया जानकारी दी गई थी। डेमोक्रेट्स ने इस जानकारी के बावजूद उनके इनकार पर सवाल उठाए हैं। एनवीडिया विवाद: ट्रंप को चीन दौरे से पहले दी गई थी खुफिया जानकारी, फिर भी कर रहे इनकार; किसने उठाए सवाल?
 
-### [देश में बेरोजगारी दर घटकर 5.1% पर आई: महिलाओं की श्रमबल में भागीदारी बढ़ी; गांवों में स्वरोजगार बढ़ा](https://www.amarujala.com/business/indias-unemployment-rate-falls-as-womens-workforce-participation-rises-2026-11-11)
-*Amar Ujala National* - Nov 11, 06:30 IST (iso: 2026-11-11T01:00:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/varanasi-womens-employment_915a9b9330b694f3efe50cf8fef2c8ab.jpeg?w=1200&dpr=1.0 -->
+### [एअर इंडिया की फ्लाइट को हाईजैक करने की धमकी: टॉयलेट के शीशे पर लिखा था संदेश, टेकऑफ से पहले मचा](https://www.amarujala.com/india-news/air-india-issues-flight-hijack-threat-kolkata-airport-mumbai-bound-flight-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 12:24 IST (iso: 2026-11-11T06:54:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/air-india-filght-bomb-threat_3cf0d61bd627d9283691d5431a9b8674.jpeg?w=1200&dpr=1.0 -->
 
-भारत में बेरोजगारी दर घटकर 5.1 प्रतिशत पर आ गई है। महिलाओं की श्रमबल में भागीदारी में उल्लेखनीय वृद्धि दर्ज की गई। ग्रामीण क्षेत्रों में स्वरोजगार के अवसरों में भी बढ़ोतरी हुई है। देश में बेरोजगारी दर घटकर 5.1% पर आई: महिलाओं की श्रमबल में भागीदारी बढ़ी; गांवों में स्वरोजगार बढ़ा।
+कोलकाता से मुंबई जा रही एअर इंडिया फ्लाइट में हाईजैक की धमकी मिली। टॉयलेट के शीशे पर लिखा संदेश टेकऑफ से पहले मिला। हड़कंप मचा और विमान की जांच की गई। एअर इंडिया की फ्लाइट को हाईजैक करने की धमकी: टॉयलेट के शीशे पर लिखा था संदेश, टेकऑफ से पहले मचा।
 
-### [शेख हसीना की वापसी की आहट से बांग्लादेश में हिंसा: बीएनपी का दफ्तर खाक, बसें भी फूंकीं; ड्राइवर](https://www.amarujala.com/world/violence-erupts-in-bangladesh-as-bnp-office-is-torched-and-bus-driver-is-burned-alive-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 06:23 IST (iso: 2026-11-11T00:53:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/09/06/bgalthasha-ma-varathha-paratharashana-ka-tharana-hasa-fail_c562fdbf2b320c640ba18663364ad2ae.jpeg?w=1200&dpr=1.0 -->
+### [पंजाब के हुए हार्दिक, मुंबई ने किस अंदाज में कहा अलविदा? 52 सेकंड में दिखाया पूरा सफर!](https://www.amarujala.com/cricket/mumbai-indians-share-emotional-farewell-video-for-hardik-pandya-after-pbks-trade-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 12:23 IST (iso: 2026-11-11T06:53:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/mumbai-indians-punjab-kings-arshdeep-singh-ipl-2027-mi-farewell-video-hardik-pandya-trade-har_369d3e4a66d9985fedae604844094bd6.jpeg?w=1200&dpr=1.0 -->
 
-शेख हसीना की वापसी की खबर पर बांग्लादेश में हिंसा फैली। बीएनपी के दफ्तर को जला दिया गया और बसें भी आग में लपट गईं। एक ड्राइवर को जिंदा जला दिया गया। शेख हसीना की वापसी की आहट से बांग्लादेश में हिंसा: बीएनपी का दफ्तर खाक, बसें भी फूंकीं; ड्राइवर जिंदा जला।
+हार्दिक पंड्या ने मुंबई के लिए 131 मैचों में 2122 रन और 71 विकेट लिए। मुंबई ने 52 सेकंड के वीडियो में उनके सफर को याद किया। वीडियो में हार्दिक ने कैमरे की ओर देखकर बाय मुंबई कहा। हार्दिक ने मुंबई के लिए 131 मैचों में 2,122 रन और 71 विकेट लिए। मुंबई ने एक खास वीडियो में उनके साथ बिताए खास पलों को दिखाया।
 
-### [गुरुद्वारों पर हमले की अमेरिकी रिपोर्ट पर भड़का भारत, यूएससीआईआरएफ को बताया राजनीतिक एजेंडे वाली](https://www.amarujala.com/india-news/india-rejects-us-commission-report-on-attacks-on-sikh-gurdwaras-as-biased-and-politically-motivated-2026-11-11)
-*Amar Ujala National* - Nov 11, 06:15 IST (iso: 2026-11-11T00:45:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/17/randhir-jaiswal_24fbe3b819276a50401d613f09cc74c6.jpeg?w=1200&dpr=1.0 -->
+### [ट्रंप को पहले ही मिल गया था हुआंग को लेकर सीक्रेट अलर्ट, रिपोर्ट में खुलासा](https://www.abplive.com/news/world/nvidia-ceo-jensen-huang-alice-huang-donald-trump-intelligence-report-3213430)
+*ABP Live (World)* - Nov 11, 12:19 IST (iso: 2026-11-11T06:49:00+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/f75b3e88d1b8d026d0290e7f4ac8364c17943702073621115_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-भारत ने अमेरिकी रिपोर्ट को राजनीतिक एजेंडा वाला बताकर अस्वीकार कर दिया। रिपोर्ट में गुरुद्वारों पर हमलों का जिक्र था। भारत ने इसे पूर्वाग्रहित माना। गुरुद्वारों पर हमले की अमेरिकी रिपोर्ट पर भड़का भारत, यूएससीआईआरएफ को बताया राजनीतिक एजेंडे वाली।
+न्यूयॉर्क टाइम्स की रिपोर्ट के अनुसार ट्रंप को जेन्सेन हुआंग के मामले में महीनों पहले सूचना दी गई थी। मई में चीन यात्रा के दौरान एयर फोर्स वन में यह जानकारी साझा हुई। कंपनी को बाजार में नुकसान उठाना पड़ रहा है। द न्यूयॉर्क टाइम्स की एक नई रिपोर्ट में खुलासा हुआ है कि राष्ट्रपति डोनाल्ड ट्रंप को इस मामले के बारे में महीनों पहले ही बता दिया गया था.
 
-### [सीवर में गिरा चार साल का बच्चा, रेस्क्यू के लिए कई टीमों ने मिलकर चलाया अभियान; तलाश तेज](https://www.amarujala.com/delhi-ncr/delhi-a-rescue-operation-is-underway-after-a-4-year-old-boy-fell-into-a-sewer-near-dass-garden-colony-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 06:00 IST (iso: 2026-11-11T00:30:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/1_bbd42245d0468c036ed0641d847b904c.jpeg?w=1200&dpr=1.0 -->
+### [मदर डेयरी ने दूध के दाम चार रुपये तक बढ़ाए, कब से लागू होंगी नई कीमतें?](https://www.amarujala.com/business/business-diary/mother-dairy-milk-price-hike-rs-2-to-4-per-litre-new-rates-from-november-12-delhi-ncr-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 12:03 IST (iso: 2026-11-11T06:33:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/mother-dairy-price-hike_8908aba45f430224b0124bd1c5964481.jpeg?w=1200&dpr=1.0 -->
 
-दिल्ली के नांगली विहार में चार साल का बच्चा सीवर में गिर गया। कई रेस्क्यू टीमों ने मिलकर बचाव अभियान शुरू किया। बच्चे की तलाश तेज कर दी गई है। बाहरी दिल्ली के नांगली विहार में दास गार्डन कॉलोनी के पास एक 4 साल का बच्चा सीवर में गिर गया है। सीवर में गिरा चार साल का बच्चा, रेस्क्यू के लिए कई टीमों ने मिलकर चलाया अभियान; तलाश तेज।
+दिल्ली एनसीआर में मदर डेयरी ने दूध के दाम प्रति लीटर चार रुपये तक बढ़ा दिए हैं। नई कीमतें 12 नवंबर से लागू होंगी। यह महंगाई का एक और झटका है। मदर डेयरी ने दूध के दाम चार रुपये तक बढ़ाए, कब से लागू होंगी नई कीमतें?
 
-### [कोरोना से फिर खलबली, क्या है नया वेरिएंट PJ.2.1, कितना खतरनाक, कहां-कहां फैला, भारत में भी दस्तक?](https://hindi.news18.com/news/knowledge/coronavirus-update-covid19-news-variant-pj-2-1-spreading-globally-know-symptoms-and-risk-in-india-10978225.html)
-*News18 Hindi (World)* - Nov 11, 05:59 IST (iso: 2026-11-11T00:29:33+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/covid-19-cases-deaths-india-2026-07-bacd2753e9b684be7b9b9e17629c887c-1200x800.jpg -->
+### [चीनी सामानों पर टैरिफ छूट दो महीने और बढ़ी, ड्रैगन को राहत देने के पीछे क्या है वजह?](https://www.amarujala.com/world/major-decision-trump-administration-tariff-exemptions-on-chinese-goods-extended-two-months-why-was-step-taken-2026-11-11)
+*Amar Ujala World* - Nov 11, 11:40 IST (iso: 2026-11-11T06:10:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/danalda-tarapa-amaraka-rashhatarapata_c6e22af2ab5ad65501eecd190abd02a1.jpeg?w=1200&dpr=1.0 -->
 
-कोविड-19 का नया वेरिएंट PJ.2.1 कनाडा में मई 2026 में पहली बार मिला। अब यह अमेरिका, यूरोप और एशिया के कुछ देशों में फैल गया है। अभी तक गंभीर बीमारी या मौत का खतरा बढ़ने के प्रमाण नहीं मिले हैं। Coronavirus News: कोरोना वायरस ने एक बार फिर खलबली मचा दी है. कोविड-19 का नया वैरिएंट PJ.2.1 कनाडा के ओंटारियो में मई 2026 में पहली बार सामने आया था.
+ट्रंप प्रशासन ने चीनी सामानों पर टैरिफ छूट दो महीने के लिए बढ़ा दी है। यह फैसला चीन को राहत देने के उद्देश्य से लिया गया है। ट्रंप प्रशासन का बड़ा फैसला: चीनी सामानों पर टैरिफ छूट दो महीने के लिए बढ़ाई, क्यों लिया गया यह कदम? चीनी सामानों पर टैरिफ छूट दो महीने और बढ़ी, ड्रैगन को राहत देने के पीछे क्या है वजह?
+
+### [Nvidia के CEO जेनसेन हुआंग का ‘जासूस प्रेमिका’ के साथ किस करते हुए वीडियो वायरल, बेटी ने खुद खींचीं](https://www.patrika.com/world-news/jensen-huang-kiss-mistress-daughter-viral-video-nvidia-ceo-affair-21040675)
+*Patrika (World)* - Nov 11, 11:40 IST (iso: 2026-11-11T06:10:07+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Jensen-Huang.webp -->
+
+एनवीडिया के सीईओ जेनसेन हुआंग का ताइवान के रेस्टोरेंट में पुराना वीडियो वायरल हो रहा है। इसमें वह एलिस हुआंग को किस करते दिख रहे हैं, जिन पर जासूस होने का संदेह था। Nvidia के CEO जेनसेन हुआंग एक बार फिर अपनी निजी जिंदगी को लेकर चर्चा में हैं। ताइवान के एक रेस्टोरेंट का उनका पुराना वीडियो सोशल मीडिया पर वायरल हो रहा है।
+
+### [पत्नी की हत्या कर शव के किए टुकड़े, कचरे के बैग में भरकर अलग-अलग जगह फेंका, अब कोर्ट ने ठहराया दोषी](https://www.patrika.com/world-news/nepali-american-naresh-bhatt-convicted-wife-mamta-kafle-murder-us-21040792)
+*Patrika (World)* - Nov 11, 11:34 IST (iso: 2026-11-11T06:04:44+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Naresh-Bhatt-.webp -->
+
+अमेरिकी जूरी ने नरेश भट्ट को पत्नी ममता की हत्या का दोषी ठहराया। भट्ट ने शव के टुकड़े कर अलग-अलग जगह फेंक दिए थे। ममता 2024 में लापता हुई थीं। अमेरिका में एक नेपाली-अमेरिकी व्यक्ति को अपनी पत्नी की हत्या करने, उसके शव के टुकड़े करने और उन्हें कचरे के ढेर में फेंकने का दोषी ठहराया गया है। अमेरिकी जूरी ने मंगलवार को नरेश भट्ट को अपनी पत्नी ममता भट्ट की हत्या के मामले में दोषी पाया।
+
+### [चीनी जासूस स्कैंडल पर Nvidia CEO जेंसन हुआंग ने स्टाफ से मांगी माफी, बोर्ड ने पूर्व अमेरिकी अटॉर्नी](https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-spy-scandal-independent-investigation-21040579)
+*Patrika (World)* - Nov 11, 10:30 IST (iso: 2026-11-11T05:00:45+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-8.webp -->
+
+Nvidia सीईओ जेंसन हुआंग ने जासूसी विवाद पर स्टाफ से माफी मांगी। उन्होंने सांता क्लारा मुख्यालय में वरिष्ठ अधिकारियों के साथ बैठक की। कंपनी का कामकाज सामान्य है। अमेरिकी टेक कंपनी NVIDIA के CEO जेंसन हुआंग कथित जासूसी विवाद के बावजूद कंपनी के कामकाज को हमेशा की तरह संभाल रहे हैं। CNBC की एक रिपोर्ट के अनुसार, हुआंग सोमवार और मंगलवार को कैलिफोर्निया के सांता क्लारा में कंपनी के मुख्यालय पहुंचे, जहां उन्होंने वरिष्ठ अधिकारियों के साथ नियमित बैठकें कीं।
+
+### [लाहौर की जहरीली हवा के ल‍िए भारत की 'द‍िवाली' जिम्‍मेदार? पाकिस्‍तान के आरोप की क्‍या हकीकत](https://hindi.news18.com/news/knowledge/pakistan-blaming-indians-diwali-for-lahore-dangerously-polluted-air-but-data-tells-different-story-10978408.html)
+*News18 Hindi (World)* - Nov 11, 08:43 IST (iso: 2026-11-11T03:13:15+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-aqi-2026-11-5dac7f9134648d8d38a2ad2ae79ff8f0-1200x800.jpg -->
+
+पाकिस्तान की पर्यावरण मंत्री ने लाहौर की खराब हवा के लिए भारत को जिम्मेदार ठहराया। पाकिस्तान एयर क्वालिटी इनिशिएटिव की रिपोर्ट के अनुसार, लाहौर की हवा पूरे साल प्रदूषित रहती है। पाकिस्तान की पंजाब सरकार की पर्यावरण मंत्री मरियम औरंगजेब ने लाहौर का AQI खराब होन के ल‍िए भारत को जिम्मेदार ठहराया है. हालांकि पाकिस्‍तान की जांच और रिपोर्ट ने ही मंत्री मैडम के बयान पर काल‍िख पोत दी है.
 
 ---
 
-## यूरोप और रूस
+## मध्य पूर्व और अफ्रीका
 
-### [अमेरिका में पीट हेगसेथ के महाभियोग की कोशिश नाकाम, 7 वोटों से बची कुर्सी, सदन ने समिति को भेजा](https://www.patrika.com/world-news/republican-blocked-pete-hegseth-impeachment-effort-donald-trump-react-21040251)
-*Patrika (World)* - Nov 11, 06:43 IST (iso: 2026-11-11T01:13:23+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Pete-Hegseth-Resignation.webp -->
+### [ईरान ने घोषित किया अर्जेंटीना की नेवी और एयरफोर्स को आतंकवादी, 8 महीने बाद लिया बदला](https://hindi.news18.com/world/middle-east-iran-declares-terrorist-to-argentina-navy-and-air-force-after-8-months-of-irgc-probe-ws-l-10978993.html)
+*News18 Hindi (World)* - Nov 11, 12:56 IST (iso: 2026-11-11T07:26:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/iran-argentina-2026-11-25a80ca6d04bd1efdd1d1b304e661764-1200x800.jpg -->
 
-अमेरिकी हाउस ऑफ रिप्रेजेंटेटिव्स ने पीट हेगसेथ के खिलाफ महाभियोग प्रस्ताव को समिति के पास भेजने का फैसला किया। सदन ने 211 के मुकाबले 204 वोटों से यह निर्णय लिया। रिपब्लिकन नेताओं ने व्हाइट हाउस के साथ मिलकर प्रस्ताव को अस्वीकार कर दिया। Pete Hegseth Impeachment: अमेरिकी हाउस ऑफ रिप्रेजेंटेटिव्स में रिपब्लिकन नेताओं ने व्हाइट हाउस के साथ मिलकर सेक्रेटरी ऑफ वॉर पीट हेगसेथ के खिलाफ महाभियोग की कोशिश को नाकाम कर दिया।
+ईरान ने अर्जेंटीना की नौसेना और वायुसेना को आतंकवादी संगठन घोषित किया है। इस कदम के पीछे 2019 के एक कानून का हवाला दिया गया है। शिया देश की ओर से अर्जेंटीना की नौसेना और वायुसेना को आतंकवादी संगठन घोषित कर दिया है और इसके पीछे 2019 के एक कानून का हवाला दिया है. ईरान ने घोषित किया अर्जेंटीना की नेवी और एयरफोर्स को आतंकवादी, 8 महीने बाद लिया बदला।
 
-### [पीट हेगसेथ के सिर से टली महाभियोग की तलवार, रिपब्लिकन सांसदों ने बचाई कुर्सी, कैसे पलटी बाजी?](https://hindi.news18.com/world/america-pete-hegseth-impeachment-bid-blocked-by-republicans-know-inside-story-behind-house-vote-donald-trump-10978237.html)
-*News18 Hindi (World)* - Nov 11, 06:08 IST (iso: 2026-11-11T00:38:34+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/Pete-Hegseth-Reuters-2-2026-06-63b537d128355cb246f7ee2c9a3aeab6-1200x800.jpg -->
+### [अमेरिकी प्लेन को पाकिस्तान ने नहीं दी एंट्री, ईरानियों को करना था डिपोर्ट, उल्टे पांव लौट आया](https://hindi.news18.com/world/pakistan-pakistan-rejected-entry-of-ice-deportation-flight-carrying-iranians-turns-back-arizona-ws-l-10978785.html)
+*News18 Hindi (World)* - Nov 11, 12:20 IST (iso: 2026-11-11T06:50:48+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Flight-2026-11-f1817c254ffd67e05288481e17765334-1200x800.jpg -->
 
-रिपब्लिकन सांसदों के समर्थन से पीट हेगसेथ महाभियोग से बच गए। मौजूदा सत्र में यह प्रस्ताव आगे नहीं बढ़ेगा। हालांकि उनके खिलाफ आरोप अभी भी बना हुआ है। Pete Hegseth Impeachment Stops: रिपब्लिकन सांसदों के समर्थन से अमेरिकी रक्षा मंत्री हेगसेथ फिलहाल महाभियोग की कार्रवाई से बच गए हैं. मौजूदा संसदीय सत्र में यह प्रस्ताव आगे नहीं बढ़ पाएगा. हालांकि ये फौरी राहत है और इसका मतलब यह नहीं है कि उनके खिलाफ लगे आरोप खत्म हो गए हैं.
+पाकिस्तान ने ईरानी प्रवासियों को डिपोर्ट करने जा रहे अमेरिकी विमान को एंट्री नहीं दी। विमान एरिजोना लौट आया। यह घटना ट्रंप की हार के बाद पाकिस्तान के कड़े रुख का संकेत है। US Plane Entry Denied by Pakistan: मिडटर्म चुनाव में ट्रंप की हार के बाद पाकिस्तान ने भी अमेरिका को तेवर दिखाने शुरू कर दिए हैं. ईरानी प्रवासियों को डिपोर्ट करने के लिए जा रहा अमेरिकी विमान पाकिस्तान के इस इनकार के बाद उल्टे पांव एरिजोना लौट आया.
 
-### [हेगसेथ पर महाभियोग की कोशिश नाकाम: ट्रंप के सांसदों ने बचाई कुर्सी; जनवरी में फिर घिरेंगे रक्षा](https://www.amarujala.com/world/pete-hegseth-impeachment-bid-defeated-donald-trump-support-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 05:27 IST (iso: 2026-11-10T23:57:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/hagasatha-mahabhayaga-sa-bca_77f36b7562a0acff7ec35ee085704328.jpeg?w=1200&dpr=1.0 -->
+### [अम्मी-आपा को कॉल, कोड लैंग्वेज में बात, जेल से आतंकी ने उड़वा दिया रॉयल मिलिट्री बेस, प्लॉट जानकर](https://hindi.news18.com/world/america-uk-air-base-attack-link-to-new-york-jail-us-charges-3-men-with-plotting-terror-attacks-ws-l-10978525.html)
+*News18 Hindi (World)* - Nov 11, 12:13 IST (iso: 2026-11-11T06:43:40+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/uk-fairford-2026-09-5b9894f5bc70049cc3c5510ba71cb118-1200x800.jpg -->
 
-हेगसेथ के खिलाफ महाभियोग प्रस्ताव अमेरिकी संसद में नाकाम रहा। ट्रंप समर्थक सांसदों ने उन्हें बचाया। जनवरी में रक्षा मंत्रालय पर फिर से दबाव बनने की उम्मीद है। हेगसेथ पर महाभियोग की कोशिश नाकाम: ट्रंप के सांसदों ने बचाई कुर्सी; जनवरी में फिर घिरेंगे रक्षा मंत्री?
+ब्रिटेन के मिलिट्री एयरबेस पर वैन हमले की साजिश के मास्टरमाइंड का कनेक्शन न्यूयॉर्क जेल से सामने आया है। इससे पहले अमेरिका ने अपने बॉम्बर प्लेन्स वहां से हटा दिए थे। UK Airbase Attack US Connection: ब्रिटेन के मिलिट्री एयरबेस पर संदिग्ध वैन से हमले की साजिश ने अमेरिका को अपने बॉम्बर प्लेन्स वहां से हटाने को मजबूर कर दिया था.
+
+### [अमेरिकी वित्त मंत्री स्कॉट बेसेंट को ईरान से मिली जान से मारने की धमकी, मिलिट्री बेस में ली शरण](https://www.patrika.com/world-news/us-treasury-secretary-scott-bessent-iran-threat-military-base-21040455)
+*Patrika (World)* - Nov 11, 11:34 IST (iso: 2026-11-11T06:04:22+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-11.webp -->
+
+वित्त मंत्री स्कॉट बेसेंट को ईरान से जान से मारने की धमकी मिली। इसके बाद उन्होंने एक मिलिट्री बेस में शरण ली। फॉक्स न्यूज ने अधिकारी के हवाले से यह जानकारी दी। इसके बाद उन्होंने मिलिट्री बेस में शरण ले ली। अमेरिकी न्यूज चैनल फॉक्स न्यूज डिजिटल ने एक वरिष्ठ अधिकारी के हवाले से रिपोर्ट किया कि ईरान की ओर से जान से मारने की धमकियां मिलने के बाद, ट्रेजरी सेक्रेटरी स्कॉट बेसेंट एक मिलिट्री बेस पर चले गए हैं।
+
+### [ब्रिटेन में एयरबेस उड़ाने की थी साजिश, ईरान समर्थित नेटवर्क के तीन लोगों पर शिकंजा; और क्या हैं आरोप](https://www.amarujala.com/world/iran-backed-terror-plot-europe-us-british-airbase-attack-three-men-charged-2026-11-11)
+*Amar Ujala World* - Nov 11, 10:49 IST (iso: 2026-11-11T05:19:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/10/24/karata_69acfa3a3a7ba25e81fddcd7ffd20bac.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में तीन लोगों पर ब्रिटेन के एयरबेस पर हमले की साजिश रचने का आरोप लगा। इन्हें ईरान समर्थित नेटवर्क से जोड़ा गया है। तीनों के खिलाफ मुकदमा दर्ज किया गया है। ब्रिटेन में एयरबेस उड़ाने की थी साजिश, ईरान समर्थित नेटवर्क के तीन लोगों पर शिकंजा; और क्या हैं आरोप।
+
+### [क्या स्कॉट बेसेंट को मारने की साजिश रच रहा ईरान?: अमेरिकी वित्त मंत्री ने छोड़ा अपना घर, सैन्य](https://www.amarujala.com/world/us-treasury-secretary-scott-bessent-moves-to-military-base-after-iranian-threats-2026-11-11)
+*Amar Ujala World* - Nov 11, 10:01 IST (iso: 2026-11-11T04:31:41+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/scott-bessent_045f40380e6397d577ec7c3c415ce938.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने ईरानी धमकियों के बाद अपना आवास छोड़ दिया। न्यूयॉर्क टाइम्स के अनुसार, उन्हें एक सैन्य अड्डे पर सुरक्षित स्थान पर शिफ्ट कर दिया गया है। क्या स्कॉट बेसेंट को मारने की साजिश रच रहा ईरान?: अमेरिकी वित्त मंत्री ने छोड़ा अपना घर, सैन्य।
+
+### [घर छोड़कर भागे US वित्त मंत्री, बंकर में ली शरण, क्या ईरान का सीक्रेट अटैक का प्लान?](https://www.abplive.com/news/world/us-iran-war-us-treasury-secretary-scott-bessent-iran-threats-military-base-relocation-3213424)
+*ABP Live (World)* - Nov 11, 09:30 IST (iso: 2026-11-11T04:00:21+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/ed6536b99ef694a9a18141a379ed1cf81794369931070425_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
+
+ईरान से मिली जान के खतरे के बाद स्कॉट बेसेंट को सैन्य अड्डे पर स्थानांतरित किया गया। खुफिया एजेंसियों ने उन्हें टारगेट पर लेने की चेतावनी दी थी। सुरक्षा विवरण सार्वजनिक नहीं किए गए। अमेरिका और ईरान के बीच जारी युद्ध के बीच अमेरिकी वित्त मंत्री स्कॉट बेसेंट की सुरक्षा को लेकर चिंता बढ़ गई है. ईरान से कथित तौर पर जान का खतरा मिलने के बाद बेसेंट ने अपना सरकारी आवास छोड़ दिया है और एक सैन्य अड्डे पर रहने चले गए हैं.
+
+### [ईरान ने किया टार्गेट लॉक, घर छोड़कर बंकर में भागे अमेरिकी वित्त मंत्री, खुफिया एजेंसी ने मिलिट्री](https://hindi.news18.com/world/america-us-treasury-secretary-scott-bessent-shifted-on-military-base-after-iran-threats-cia-informs-10978418.html)
+*News18 Hindi (World)* - Nov 11, 09:09 IST (iso: 2026-11-11T03:39:32+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/scott-bessent-2026-11-cadac2af5e2239f2b1595a9e06e80529-1200x800.jpg -->
+
+अमेरिकी वित्त मंत्री स्कॉट बेसेंट को ईरानी हमले की आशंका के बाद सैन्य अड्डे पर रखा गया। न्यूयॉर्क टाइम्स ने यह जानकारी उन लोगों से ली है जो मामले से वाकिफ हैं। Scott Bessent Shifted on Military Base: ईरान-अमेरिका के बीच हमले भले ही बंद हो रखे हैं लेकिन खतरा अभी टला नहीं है. ईरान की ओर से अमेरिकी वित्त मंत्री स्कॉट बेसेंट को टार्गेट पर लिया गया है, ऐसा खुफिया एजेंसियों का कहना है.
+
+---
+
+## दुनिया
+
+### ['रामायण' के कारण 'पायर' को नहीं मिल रही सिनेमाघरों में जगह? निर्देशक ने की ये अपील](https://www.amarujala.com/entertainment/pyre-vinod-kapri-raised-concerns-over-reduction-screenings-for-his-film-amid-ramayana-theatrical-run-2026-11-11)
+*Amar Ujala National* - Nov 11, 12:55 IST (iso: 2026-11-11T07:25:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/payara_af4da7c7d949324f91c1a8b5c4c30e5c.jpeg?w=1200&dpr=1.0 -->
+
+फिल्म 'पायर' 30 अक्टूबर को रिलीज हुई है। निर्देशक विनोद कापड़ी ने इसकी कम शोस को लेकर चिंता जाहिर की है। फिल्म 'पायर' 30 अक्टूबर को सिनेमाघरों में रिलीज हुई है। इसमें उत्तराखंड के हिमालयी इलाके के एक दूरदराज गांव की कहानी दिखाई गई है। अब फिल्म के निर्देशक विनोद कापड़ी ने इसके शो कम होने को लेकर चिंता जाहिर की है।
+
+### [जहरीली हवा में बाहर जाने की जरूरत नहीं! जानिए घर पर कार्डियो एक्सरसाइज कैसे करें?](https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/how-to-do-cardio-at-home-during-high-pollution-try-these-7-easy-exercises-2026-11-03)
+*Amar Ujala National* - Nov 11, 12:54 IST (iso: 2026-11-11T07:24:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/home-cardio-workout_497bb9ac1f78d07999d5d3fc7b7cd65c.jpeg?w=1200&dpr=1.0 -->
+
+प्रदूषण के दौरान घर पर हल्की कार्डियो एक्सरसाइज की जा सकती है। डांस और लो-इम्पैक्ट वर्कआउट से शारीरिक सक्रियता बनाए रखी जा सकती है। Home Cardio Exercise During Air Pollution: प्रदूषण के दिनों में फिटनेस बनाए रखने के लिए अपनी सेहत को जोखिम में डालना जरूरी नहीं है। जहरीली हवा में बाहर जाने की जरूरत नहीं! जानिए घर पर कार्डियो एक्सरसाइज कैसे करें?
+
+### [यूपी चुनाव के लिए सामने आया नया गठबंधन, 2027 में मिलकर लड़ेंगे ओवैसी और चंद्रशेखर आजाद](https://www.amarujala.com/lucknow/up-politics-new-alliance-emerges-for-up-elections-owaisi-and-chandrashekhar-azad-to-contest-together-in-2027-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 12:49 IST (iso: 2026-11-11T07:19:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/up-politics_454a3fedb3316d44c7cc6238af8c1192.jpeg?w=1200&dpr=1.0 -->
+
+चंद्रशेखर आजाद और असदुद्दीन ओवैसी ने यूपी विधानसभा चुनाव 2027 के लिए गठबंधन किया है। तीसरे मोर्चे की यह एंट्री लखनऊ में घोषित होगी। दोनों नेता मिलकर चुनाव लड़ेंगे। यूपी विधानसभा चुनाव 2027 के लिए तीसरे मोर्चे की एंट्री हो गई। चंद्रशेखर आजाद और असदुद्दीन ओवैसी ने यूपी चुनाव के लिए गठबंधन किया है। बताया जा रहा है कि इसकी घोषणा कल लखनऊ में की जाएगी।
+
+### [ग्वालियर हाईकोर्ट को बम से उड़ाने की धमकी, यूपी एटीएस ने संदिग्ध को दबोचा; लैपटॉप में मिले कई ई-मेल](https://www.amarujala.com/madhya-pradesh/gwalior/threat-to-blow-up-gwalior-high-court-up-ats-nabs-suspect-gwalior-news-c-1-1-noi1227-4923678-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 12:18 IST (iso: 2026-11-11T06:48:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/08/30/mp-news_4ea7eba0acd03b20f7f527b397922889.jpeg?w=1200&dpr=1.0 -->
+
+यूपी एटीएस ने ग्वालियर हाईकोर्ट को बम धमकी भेजने के मामले में एक संदिग्ध को गिरफ्तार किया है। पुलिस ने उसके पास से लैपटॉप बरामद किया है, जिसमें कई ई-मेल मिले हैं। ग्वालियर हाईकोर्ट को बम से उड़ाने की धमकी भरा ई-मेल भेजने के मामले में यूपी एटीएस ने एक संदिग्ध को पकड़ा है। ग्वालियर हाईकोर्ट को बम से उड़ाने की धमकी, यूपी एटीएस ने संदिग्ध को दबोचा; लैपटॉप में मिले कई ई-मेल।
+
+### [एसयूवी कार की टक्कर से लॉस एंजिलिस में तीन की मौत, पुलिस ने शुरू की जांच](https://www.amarujala.com/world/los-angeles-suv-crash-north-hollywood-dead-and-critical-injured-2026-11-11)
+*Amar Ujala World* - Nov 11, 11:39 IST (iso: 2026-11-11T06:09:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/13/ekasadata-sakataka-tasavara_bc7b38826baf8fbe91b5d89649e75ed9.jpeg?w=1200&dpr=1.0 -->
+
+लॉस एंजिलिस के नॉर्थ होलीवुड में एसयूवी की टक्कर से तीन लोगों की मौत हुई। घायलों की स्थिति गंभीर है। पुलिस ने जांच शुरू कर दी है। एसयूवी कार की टक्कर से लॉस एंजिलिस में तीन की मौत, पुलिस ने शुरू की जांच।
+
+### [एनएचएम संविदा कर्मियों के लिए तबादला नीति लागू; हेल्थ बीमा, ईपीएफ व ग्रेच्युटी का प्रस्ताव भी भेजा](https://www.amarujala.com/lucknow/transfer-policy-implemented-for-nhm-contract-workers-in-up-proposals-for-health-insurance-gratuity-will-sent-2026-11-11)
+*Amar Ujala Breaking* - Nov 11, 09:40 IST (iso: 2026-11-11T04:10:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/24/transfer_c79ad08a42bcb1b909750154e847de08.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश में राष्ट्रीय स्वास्थ्य मिशन के संविदा कर्मचारियों के लिए स्थानांतरण नीति लागू हो गई है। प्रशासन ने हेल्थ बीमा, ईपीएफ और ग्रेच्युटी के प्रस्ताव भी भेज दिए हैं। उत्तर प्रदेश में राष्ट्रीय स्वास्थ्य मिशन (एनएचएम) के संविदा कर्मचारियों के लिए स्थानांतरण नीति लागू कर दी गई है। एनएचएम संविदा कर्मियों के लिए तबादला नीति लागू; हेल्थ बीमा, ईपीएफ व ग्रेच्युटी का प्रस्ताव भी भेजा।
 
 ---
 
