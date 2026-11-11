@@ -1,80 +1,110 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 11, 2026 14:01 IST
+**अपडेट:** November 11, 2026 22:13 IST
 
 ---
 
 ## एशिया-प्रशांत
 
-### [भारत की ये 7 जगहें लगती हैं विदेश जैसी, तस्वीरें देख यकीन नहीं होगा!](https://www.amarujala.com/photo-gallery/lifestyle/travel/7-places-in-india-that-look-just-like-foreign-destinations-2026-10-23)
-*Amar Ujala National* - Nov 11, 12:57 IST (iso: 2026-11-11T07:27:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/23/places-like-foreign-countries_14a80409ee8eb85f789a1fb61ad9b872.jpeg?w=1200&dpr=1.0 -->
+### [बेनजीर के घर डिनर पर अचानक क्यों तेज हो जाता था म्यूजिक? सोनिया गांधी ने बताई पाकिस्तान यात्रा की](https://hindi.news18.com/news/nation/why-music-suddenly-get-louder-during-dinner-at-benazir-butto-house-sonia-gandhi-shares-her-pakistan-visit-story-10980031.html)
+*News18 Hindi (World)* - Nov 11, 22:11 IST (iso: 2026-11-11T16:41:25+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Sonia-Gandhi-on-Benazir-2026-11-b57c4e002727aa51841deacdbdd69d5b-1200x800.jpg -->
 
-भारत के सात स्थान विदेशी नजारा प्रदान करते हैं। स्पीति के रेगिस्तान से लेकर कश्मीर की वादियों तक, यहाँ प्राकृतिक सौंदर्य का अनुभव किया जा सकता है। भारत की ये सात जगहें बताती हैं कि शानदार प्राकृतिक नजारों का आनंद लेने के लिए विदेश जाना जरूरी नहीं है। स्पीति के ठंडे रेगिस्तान से लेकर कश्मीर की वादियों और नॉर्थ ईस्ट की नदियों तक, हर जगह की अपनी अलग पहचान है।
+सोनिया गांधी की नई किताब में जुलाई 1989 की पाकिस्तान यात्रा का किस्सा सामने आया। राजीव गांधी के साथ इस्लामाबाद पहुंचने पर बेनजीर भुट्टो ने निजी डिनर पर बुलाया था। राजनीतिक बातचीत शुरू होते ही बेनजीर अचानक संगीत की आवाज तेज कर देती थीं। Sonia Gandhi on Pakistan: सोनिया गांधी की नई किताब में पाकिस्तान से जुड़ा एक ऐसा किस्सा सामने आया है, जो वहां की सत्ता व्यवस्था की पोल खोलता है.
 
-### [ट्रंप को चीन दौरे से पहले दी गई थी खुफिया जानकारी, फिर भी कर रहे इनकार; किसने उठाए सवाल?](https://www.amarujala.com/world/trump-briefed-on-nvidia-ceo-jensen-huang-girlfriend-alleged-china-spy-links-now-denying-democrates-question-2026-11-11)
-*Amar Ujala World* - Nov 11, 12:56 IST (iso: 2026-11-11T07:26:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/jensen-huang_f6f7f681cbc6f7b914d54cf82232b186.jpeg?w=1200&dpr=1.0 -->
+### [जिसने NVIDIA CEO को फंसाया, उस ‘गर्लफ्रेंड’ का सीक्रेट पति भी निकल आया, क्या है कहानी में नया](https://hindi.news18.com/world/america-nvidia-ceo-jensen-huang-affair-twist-alleged-chinese-spy-alice-huang-secret-husband-kang-wei-exposed-amid-fbi-probe-10980068.html)
+*News18 Hindi (World)* - Nov 11, 21:53 IST (iso: 2026-11-11T16:23:43+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Nvidia-CEO-Affair-2026-11-b9aa42dd8ddd21600b3ef4d6d36e9198-1200x800.jpg -->
 
-ट्रंप को चीन दौरे से पहले एनवीडिया सीईओ की पत्नी पर खुफिया जानकारी दी गई थी। डेमोक्रेट्स ने इस जानकारी के बावजूद उनके इनकार पर सवाल उठाए हैं। एनवीडिया विवाद: ट्रंप को चीन दौरे से पहले दी गई थी खुफिया जानकारी, फिर भी कर रहे इनकार; किसने उठाए सवाल?
+एलिस हुआंग के 'सीक्रेट पति' के रूप में शंघाई के फंड मैनेजर कांग वेई का नाम सामने आया है। कांग वेई पर स्टॉक धांधली और इनसाइडर ट्रेडिंग के आरोप हैं। फिलहाल वे चीनी अधिकारियों की हिरासत में हैं। NVIDIA के सीईओ जेन्सेन हुआंग के साथ अफेयर और चीनी जासूस होने के आरोपों से घिरी एलिस हुआंग की कहानी में नया मोड़ आ गया है.
 
-### [एअर इंडिया की फ्लाइट को हाईजैक करने की धमकी: टॉयलेट के शीशे पर लिखा था संदेश, टेकऑफ से पहले मचा](https://www.amarujala.com/india-news/air-india-issues-flight-hijack-threat-kolkata-airport-mumbai-bound-flight-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 12:24 IST (iso: 2026-11-11T06:54:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/air-india-filght-bomb-threat_3cf0d61bd627d9283691d5431a9b8674.jpeg?w=1200&dpr=1.0 -->
+### [भारत का हिमालय रेल प्रोजेक्ट ब्लूप्रिंट देखकर क्यों कांप गया चीन? 5 जगहों पर पिटेगा ड्रैगन](https://hindi.news18.com/world/south-asia-india-bilaspur-manali-leh-railway-line-world-highest-himalaya-rail-project-blueprint-strikes-fear-in-china-across-5-strategic-fronts-10980003.html)
+*News18 Hindi (World)* - Nov 11, 21:19 IST (iso: 2026-11-11T15:49:44+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Bilaspur-Manali-Leh-Railway-2026-11-2ddb63070aca2467d49b94a0d709fb15-1200x800.jpg -->
 
-कोलकाता से मुंबई जा रही एअर इंडिया फ्लाइट में हाईजैक की धमकी मिली। टॉयलेट के शीशे पर लिखा संदेश टेकऑफ से पहले मिला। हड़कंप मचा और विमान की जांच की गई। एअर इंडिया की फ्लाइट को हाईजैक करने की धमकी: टॉयलेट के शीशे पर लिखा था संदेश, टेकऑफ से पहले मचा।
+भारत की बिलासपुर-मनाली-लेह रेलवे लाइन 489 किलोमीटर लंबी होगी। इसमें 17,500 फीट की ऊंचाई पर तांगलांला स्टेशन बनेगा। यह दुनिया का सबसे ऊंचा रेलवे स्टेशन होगा और चीन का मौजूदा रिकॉर्ड तोड़ेगा। भारत दुनिया का सबसे ऊंचा रेलवे नेटवर्क बना रहा है. इस 'बिलासपुर-मनाली-लेह रेलवे लाइन' का ब्लूप्रिंट देखते ही चीन के होश उड़ गए हैं. 489 किलोमीटर लंबे इस प्रोजेक्ट में 17,500 फीट की ऊंचाई पर तांगलांला स्टेशन बनेगा.
 
-### [पंजाब के हुए हार्दिक, मुंबई ने किस अंदाज में कहा अलविदा? 52 सेकंड में दिखाया पूरा सफर!](https://www.amarujala.com/cricket/mumbai-indians-share-emotional-farewell-video-for-hardik-pandya-after-pbks-trade-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 12:23 IST (iso: 2026-11-11T06:53:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/mumbai-indians-punjab-kings-arshdeep-singh-ipl-2027-mi-farewell-video-hardik-pandya-trade-har_369d3e4a66d9985fedae604844094bd6.jpeg?w=1200&dpr=1.0 -->
+### [पाकिस्तान पर डबल अटैक, TTP ने 10 पुलिसवालों को किया आग के हवाले, उधर बलूच लड़ाकों ने काट दी नस](https://hindi.news18.com/world/pakistan-exclusive-pakistan-double-terror-attack-ttp-ambushes-and-kills-10-cops-in-kohat-while-baloch-separatists-blow-up-highway-bridge-10979936.html)
+*News18 Hindi (World)* - Nov 11, 20:33 IST (iso: 2026-11-11T15:03:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Double-Terror-Attack-2026-11-eacf67cc6ca3ae4979b74ded58bdf82e-1200x800.jpg -->
 
-हार्दिक पंड्या ने मुंबई के लिए 131 मैचों में 2122 रन और 71 विकेट लिए। मुंबई ने 52 सेकंड के वीडियो में उनके सफर को याद किया। वीडियो में हार्दिक ने कैमरे की ओर देखकर बाय मुंबई कहा। हार्दिक ने मुंबई के लिए 131 मैचों में 2,122 रन और 71 विकेट लिए। मुंबई ने एक खास वीडियो में उनके साथ बिताए खास पलों को दिखाया।
+खैबर पख्तूनख्वा के कोहाट में टीटीपी ने पुलिस पर हमला कर डीएसपी समेत दस कर्मियों को मार गिराया। उसी दिन बलूचिस्तान में विद्रोहियों ने क्वेटा-कराची हाईवे का मुख्य पुल उड़ा दिया। इससे दोनों शहरों का सड़क संपर्क पूरी तरह ठप हो गया। पाकिस्तान पर एक ही दिन में दो बड़े और दहला देने वाले हमले हुए हैं. खैबर पख्तूनख्वा के कोहाट में टीटीपी के आतंकवादियों ने पाकिस्तान की पुलिस फोर्स पर हमला कर दिया.
 
-### [ट्रंप को पहले ही मिल गया था हुआंग को लेकर सीक्रेट अलर्ट, रिपोर्ट में खुलासा](https://www.abplive.com/news/world/nvidia-ceo-jensen-huang-alice-huang-donald-trump-intelligence-report-3213430)
-*ABP Live (World)* - Nov 11, 12:19 IST (iso: 2026-11-11T06:49:00+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/f75b3e88d1b8d026d0290e7f4ac8364c17943702073621115_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [क्या कनाडा में चल रहे हैं चीन के संपर्क केंद्र? रिपोर्ट के बाद मचा हड़कंप, टोरंटो से मॉन्ट्रियल तक](https://www.patrika.com/world-news/canada-china-liaison-points-safeguard-defenders-report-investigation-21042688)
+*Patrika (World)* - Nov 11, 19:56 IST (iso: 2026-11-11T14:26:32+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Canada-national-security.webp -->
 
-न्यूयॉर्क टाइम्स की रिपोर्ट के अनुसार ट्रंप को जेन्सेन हुआंग के मामले में महीनों पहले सूचना दी गई थी। मई में चीन यात्रा के दौरान एयर फोर्स वन में यह जानकारी साझा हुई। कंपनी को बाजार में नुकसान उठाना पड़ रहा है। द न्यूयॉर्क टाइम्स की एक नई रिपोर्ट में खुलासा हुआ है कि राष्ट्रपति डोनाल्ड ट्रंप को इस मामले के बारे में महीनों पहले ही बता दिया गया था.
+कनाडा के पब्लिक सेफ्टी मंत्री गैरी आनंदसंगरी ने चीन के संपर्क केंद्रों के आरोपों की जांच की घोषणा की। रिपोर्ट के मुताबिक ये केंद्र चीन की पुलिस और सुरक्षा एजेंसियों का प्रतिनिधित्व करते हैं। यह मामला मानवाधिकार संगठन सेफगार्ड डिफेंडर्स की रिपोर्ट के बाद सामने आया। Canada China liaison points: कनाडा के पब्लिक सेफ्टी मंत्री गैरी आनंदसंगरी ने कहा है कि सरकार उन आरोपों की जांच करेगी, जिनमें दावा किया गया है कि चीन ने कनाडा में कई ‘ liaison पॉइंट्स’ यानी संपर्क केंद्र बना रखे हैं।
 
-### [मदर डेयरी ने दूध के दाम चार रुपये तक बढ़ाए, कब से लागू होंगी नई कीमतें?](https://www.amarujala.com/business/business-diary/mother-dairy-milk-price-hike-rs-2-to-4-per-litre-new-rates-from-november-12-delhi-ncr-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 12:03 IST (iso: 2026-11-11T06:33:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/mother-dairy-price-hike_8908aba45f430224b0124bd1c5964481.jpeg?w=1200&dpr=1.0 -->
+### [बलूच विद्रोहियों ने आखिरकार काटकर अलग किया पाकिस्तान! नेशनल हाईवे कैसे बना ताबूत की आखिरी कील](https://hindi.news18.com/world/pakistan-balochistan-separatists-blow-up-quetta-karachi-highway-bridge-pakistan-economy-and-strategic-route-cut-off-in-major-blast-10979668.html)
+*News18 Hindi (World)* - Nov 11, 18:03 IST (iso: 2026-11-11T12:33:50+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Balochistan-War-2026-11-e4d81df775c1cf08e58b731ac9d327c1-1200x800.jpg -->
 
-दिल्ली एनसीआर में मदर डेयरी ने दूध के दाम प्रति लीटर चार रुपये तक बढ़ा दिए हैं। नई कीमतें 12 नवंबर से लागू होंगी। यह महंगाई का एक और झटका है। मदर डेयरी ने दूध के दाम चार रुपये तक बढ़ाए, कब से लागू होंगी नई कीमतें?
+बलूचिस्तान के मस्तुंग जिले में विद्रोहियों ने क्वेटा-कराची नेशनल हाईवे का मुख्य पुल उड़ा दिया। इससे दोनों शहरों का सड़क संपर्क ठप हो गया। पाकिस्तानी सेना का सामान आना-जाना मुश्किल हो गया है। पाकिस्तान के बलूचिस्तान में हालात बहुत खराब हैं. यहां के मस्तुंग जिले में बलूच विद्रोहियों ने क्वेटा-कराची नेशनल हाईवे पर बने एक मुख्य पुल को बम से उड़ा दिया है.
 
-### [चीनी सामानों पर टैरिफ छूट दो महीने और बढ़ी, ड्रैगन को राहत देने के पीछे क्या है वजह?](https://www.amarujala.com/world/major-decision-trump-administration-tariff-exemptions-on-chinese-goods-extended-two-months-why-was-step-taken-2026-11-11)
-*Amar Ujala World* - Nov 11, 11:40 IST (iso: 2026-11-11T06:10:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/danalda-tarapa-amaraka-rashhatarapata_c6e22af2ab5ad65501eecd190abd02a1.jpeg?w=1200&dpr=1.0 -->
+### [ट्रंप को पता थी Nvidia के CEO की 'चाइनीज लव स्टोरी'? CIA को था शक, फिर कैसे आंख में धूल झोंकती रही](https://hindi.news18.com/world/america-trump-was-briefed-on-nvidia-ceo-huang-girlfriend-alice-alleged-spy-links-while-travelling-to-china-ws-l-10979258.html)
+*News18 Hindi (World)* - Nov 11, 14:15 IST (iso: 2026-11-11T08:45:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trump-nividia-2026-11-7a77b9d1505558fda20bbee02e1c8d92-1200x800.jpg -->
 
-ट्रंप प्रशासन ने चीनी सामानों पर टैरिफ छूट दो महीने के लिए बढ़ा दी है। यह फैसला चीन को राहत देने के उद्देश्य से लिया गया है। ट्रंप प्रशासन का बड़ा फैसला: चीनी सामानों पर टैरिफ छूट दो महीने के लिए बढ़ाई, क्यों लिया गया यह कदम? चीनी सामानों पर टैरिफ छूट दो महीने और बढ़ी, ड्रैगन को राहत देने के पीछे क्या है वजह?
+निविडिया सीईओ जेनसन हुआंग के चीनी महिला से रिश्ते को लेकर खुलासा हुआ है। रिपोर्ट के अनुसार, राष्ट्रपति डोनाल्ड ट्रंप को चीन दौरे के दौरान इसकी जानकारी थी। Nvidia CEO China Spy Love Story: दुनिया के सबसे पावरफुल देश के हाईप्रोफाइल बिजनेसमैन की वो लव स्टोरी चर्चा में है, जो एक देश की सुरक्षा पर भी खतरा बन सकती है.
 
-### [Nvidia के CEO जेनसेन हुआंग का ‘जासूस प्रेमिका’ के साथ किस करते हुए वीडियो वायरल, बेटी ने खुद खींचीं](https://www.patrika.com/world-news/jensen-huang-kiss-mistress-daughter-viral-video-nvidia-ceo-affair-21040675)
-*Patrika (World)* - Nov 11, 11:40 IST (iso: 2026-11-11T06:10:07+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Jensen-Huang.webp -->
+### ['शादी कराइए,मुख्य चुनाव आयुक्त बनिए, लेकिन...'निशिकांत दुबे ने क्यों कही ये बात](https://www.abplive.com/news/india/nishikant-dubey-gandhi-family-gyanesh-kumar-vote-chori-row-3213518)
+*ABP Live (India)* - Nov 11, 13:17 IST (iso: 2026-11-11T07:47:31+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/5bbeeaf2de24a84dc79a6feb1025a55d17943822739831115_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-एनवीडिया के सीईओ जेनसेन हुआंग का ताइवान के रेस्टोरेंट में पुराना वीडियो वायरल हो रहा है। इसमें वह एलिस हुआंग को किस करते दिख रहे हैं, जिन पर जासूस होने का संदेह था। Nvidia के CEO जेनसेन हुआंग एक बार फिर अपनी निजी जिंदगी को लेकर चर्चा में हैं। ताइवान के एक रेस्टोरेंट का उनका पुराना वीडियो सोशल मीडिया पर वायरल हो रहा है।
-
-### [पत्नी की हत्या कर शव के किए टुकड़े, कचरे के बैग में भरकर अलग-अलग जगह फेंका, अब कोर्ट ने ठहराया दोषी](https://www.patrika.com/world-news/nepali-american-naresh-bhatt-convicted-wife-mamta-kafle-murder-us-21040792)
-*Patrika (World)* - Nov 11, 11:34 IST (iso: 2026-11-11T06:04:44+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Naresh-Bhatt-.webp -->
-
-अमेरिकी जूरी ने नरेश भट्ट को पत्नी ममता की हत्या का दोषी ठहराया। भट्ट ने शव के टुकड़े कर अलग-अलग जगह फेंक दिए थे। ममता 2024 में लापता हुई थीं। अमेरिका में एक नेपाली-अमेरिकी व्यक्ति को अपनी पत्नी की हत्या करने, उसके शव के टुकड़े करने और उन्हें कचरे के ढेर में फेंकने का दोषी ठहराया गया है। अमेरिकी जूरी ने मंगलवार को नरेश भट्ट को अपनी पत्नी ममता भट्ट की हत्या के मामले में दोषी पाया।
-
-### [चीनी जासूस स्कैंडल पर Nvidia CEO जेंसन हुआंग ने स्टाफ से मांगी माफी, बोर्ड ने पूर्व अमेरिकी अटॉर्नी](https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-spy-scandal-independent-investigation-21040579)
-*Patrika (World)* - Nov 11, 10:30 IST (iso: 2026-11-11T05:00:45+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-8.webp -->
-
-Nvidia सीईओ जेंसन हुआंग ने जासूसी विवाद पर स्टाफ से माफी मांगी। उन्होंने सांता क्लारा मुख्यालय में वरिष्ठ अधिकारियों के साथ बैठक की। कंपनी का कामकाज सामान्य है। अमेरिकी टेक कंपनी NVIDIA के CEO जेंसन हुआंग कथित जासूसी विवाद के बावजूद कंपनी के कामकाज को हमेशा की तरह संभाल रहे हैं। CNBC की एक रिपोर्ट के अनुसार, हुआंग सोमवार और मंगलवार को कैलिफोर्निया के सांता क्लारा में कंपनी के मुख्यालय पहुंचे, जहां उन्होंने वरिष्ठ अधिकारियों के साथ नियमित बैठकें कीं।
-
-### [लाहौर की जहरीली हवा के ल‍िए भारत की 'द‍िवाली' जिम्‍मेदार? पाकिस्‍तान के आरोप की क्‍या हकीकत](https://hindi.news18.com/news/knowledge/pakistan-blaming-indians-diwali-for-lahore-dangerously-polluted-air-but-data-tells-different-story-10978408.html)
-*News18 Hindi (World)* - Nov 11, 08:43 IST (iso: 2026-11-11T03:13:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-aqi-2026-11-5dac7f9134648d8d38a2ad2ae79ff8f0-1200x800.jpg -->
-
-पाकिस्तान की पर्यावरण मंत्री ने लाहौर की खराब हवा के लिए भारत को जिम्मेदार ठहराया। पाकिस्तान एयर क्वालिटी इनिशिएटिव की रिपोर्ट के अनुसार, लाहौर की हवा पूरे साल प्रदूषित रहती है। पाकिस्तान की पंजाब सरकार की पर्यावरण मंत्री मरियम औरंगजेब ने लाहौर का AQI खराब होन के ल‍िए भारत को जिम्मेदार ठहराया है. हालांकि पाकिस्‍तान की जांच और रिपोर्ट ने ही मंत्री मैडम के बयान पर काल‍िख पोत दी है.
+निशिकांत दुबे ने एक्स पर संजय और मेनका गांधी की शादी की तस्वीर साझा की। इसमें नवीन चावला भी दिख रहे हैं। दुबे ने इस तस्वीर के जरिए कांग्रेस पर निशाना साधा। भारतीय जनता पार्टी (BJP) के नेता निशिकांत दुबे ने कांग्रेस पार्टी पर निशाना साधा है. उन्होंन एक्स पर एक फोटो पोस्ट किया है, जिसमें संजय और मेनका गांधी शादी के रजिस्टर पर हस्ताक्षर कर रहे हैं.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [‘एक कण भी बाहर नहीं जाएगा’: ईरान ने साफ किया, परमाणु भंडार विदेश भेजने का सवाल ही नहीं](https://www.patrika.com/world-news/iran-enriched-nuclear-material-wont-be-sent-abroad-rezaei-21042860)
+*Patrika (World)* - Nov 11, 21:38 IST (iso: 2026-11-11T16:08:08+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Mohsen-Rezaei.webp -->
+
+ईरान की सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव मेजर जनरल मोहसेन रेजाई ने एनरिच्ड परमाणु सामग्री को विदेश भेजने की संभावना खारिज कर दी। उन्होंने कहा कि तेहरान पूरा भंडार अपने पास रखेगा। इसका उपयोग केवल घरेलू कार्यों के लिए होगा। Iran Nuclear Programme: ईरानी समाचार एजेंसी ISNA के अनुसार, ईरान की सर्वोच्च राष्ट्रीय सुरक्षा परिषद के सचिव, मेजर जनरल मोहसेन रेजाई ने देश की संवर्धित (एनरिच्ड) परमाणु सामग्री को विदेश भेजने की संभावना को खारिज कर दिया है।
+
+### [नेतन्याहू का यू-टर्न? अरब सांसदों पर हमला, अब बोले- मिलकर सरकार बनाना संभव है](https://www.patrika.com/world-news/netanyahu-national-unity-government-possible-knesset-row-21042787)
+*Patrika (World)* - Nov 11, 20:42 IST (iso: 2026-11-11T15:12:40+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp -->
+
+इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने कहा कि राष्ट्रीय एकता सरकार बनाना अभी भी संभव है। इससे एक दिन पहले उन्होंने संसद में अरब सांसदों पर आतंकवाद का समर्थन करने का आरोप लगाया था। ‘द टाइम्स ऑफ इजरायल’ की रिपोर्ट के अनुसार, इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू ने बुधवार को कहा कि एक ‘राष्ट्रीय एकता सरकार’ (नेशनल यूनिटी गवर्नमेंट) बनाना अभी भी संभव है।
+
+### [एयरपोर्ट के पास आया भयानक भूकंप, टूटने लगे खिड़की के कांच, जान बचाकर बाहर दौड़े लोग](https://hindi.news18.com/world/middle-east-israel-earthquake-today-4-point-5-magnitude-tremor-hits-eilat-ramon-airport-evacuated-flights-grounded-amid-panic-10979859.html)
+*News18 Hindi (World)* - Nov 11, 19:46 IST (iso: 2026-11-11T14:16:49+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Israel-Earthqualke-2026-11-08b113bef11a4b3240e1d869a185fac2-1200x800.jpg -->
+
+इजरायल के दक्षिणी तटीय शहर ईलात और लाल सागर क्षेत्र में 4.5 तीव्रता का भूकंप आया। झटके के बाद रमन एयरपोर्ट को तुरंत खाली कराया गया और उड़ानें रोक दी गईं। घटना में किसी के घायल होने की खबर नहीं मिली। इजरायल के दक्षिणी तटीय शहर ईलात और लाल सागर के इलाकों में 4.5 तीव्रता का भूकंप आया. झटके महसूस होते ही स्थानीय लोगों और पर्यटकों में भारी अफरा-तफरी मच गई.
+
+### [नेतन्याहू पर अरबों के खिलाफ ‘उकसावे और झूठे आरोपों’ का अभियान चलाने का आरोप, मंसूर अब्बास का बड़ा](https://www.patrika.com/world-news/mansour-abbas-accuses-netanyahu-incitement-campaign-against-arabs-israel-21042183)
+*Patrika (World)* - Nov 11, 17:52 IST (iso: 2026-11-11T12:22:16+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Mansour-Abbas-1.webp -->
+
+मंसूर अब्बास ने नेतन्याहू पर अरब समुदाय के खिलाफ झूठे आरोपों का अभियान चलाने का आरोप लगाया। उन्होंने दावा किया कि प्रधानमंत्री के सहयोगी ने संभावित गठबंधन की जानकारी जुटाने के लिए संपर्क किया था। Israel Politics: राम (Ra’am) पार्टी के नेता मंसूर अब्बास ने बुधवार को इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू पर आरोप लगाया कि वे अपने पद का इस्तेमाल अरब समुदाय के खिलाफ भड़काने के लिए कर रहे हैं।
+
+### [संसद में घेर लिए गए नेतन्याहू, बचाने कूद पड़ीं पत्नी सारा, वीडियो में तेवर देखकर लोग बोले 'बीवी](https://hindi.news18.com/world/middle-east-benjamin-netanyahu-parliament-clash-pm-wife-sara-fights-naftali-bennett-in-heated-knesset-argument-video-israel-politics-live-10979545.html)
+*News18 Hindi (World)* - Nov 11, 16:51 IST (iso: 2026-11-11T11:21:25+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Benjamin-Netanyahu-Parliament-Clash-2026-11-311848d5851258edea1be71491a7fb14-1200x800.jpg -->
+
+Knesset में नेतन्याहू के भाषण के दौरान सारा नेतन्याहू और नफ्ताली बेनेट के बीच बहस हुई। बेनेट ने 7 अक्टूबर की जांच पर सवाल उठाए, जिस पर सारा नेतन्याहू ने उन्हें डपटाया। इजरायली संसद (Knesset) में जबरदस्त हंगामा हो गया. प्रधानमंत्री बेंजामिन नेतन्याहू भाषण दे रहे थे तभी उनकी पत्नी सारा नेतन्याहू और विपक्षी नेता नफ्ताली बेनेट के बीच तीखी बहस हो गई.
+
+### [गोद में बच्चे लेकर असॉल्ट राइफलें चलातीं औरतें, दीवारें फांदने से लेकर जिपलाइन लांघने की ट्रेनिंग](https://hindi.news18.com/world/middle-east-irani-women-with-assault-rifles-in-training-camps-getting-ready-for-war-ws-l-10979301.html)
+*News18 Hindi (World)* - Nov 11, 14:39 IST (iso: 2026-11-11T09:09:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/iran-women-2026-11-67e17ee2c8863f01a5515aa7da519e26-1200x800.jpg -->
+
+ईरान में महिलाओं को असॉल्ट राइफल चलाने और दीवारें फांदने की ट्रेनिंग दी जा रही है। यह कदम देश में महिलाओं के लिए युद्ध तैयारी का हिस्सा है। Iran Women Training for War: जिस ईरान में कभी सिर से हिजाब उतर जाए, तो महिलाओं को कड़ी सजा मिलती थी, अब वहां औरतों को खासतौर पर लड़ने की ट्रेनिंग दी जा रही है.
+
+### [‘कौन खतरे में डाल रहा है दुनिया की सुरक्षा?’ तुर्कीए पहुंचते ही पेजेशकियन का अमेरिका पर तीखा हमला](https://www.patrika.com/world-news/iran-president-pezeshkian-arrives-turkey-cop31-accuses-us-global-security-threat-21041451)
+*Patrika (World)* - Nov 11, 14:31 IST (iso: 2026-11-11T09:01:33+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Masoud-Pezeshkian-and-Donald-Trump.webp -->
+
+ईरानी राष्ट्रपति मसूद पेज़ेशकियान ने तुर्की में सीओपी31 के दौरान अमेरिका को वैश्विक शांति और सुरक्षा के लिए खतरा बताया। उन्होंने इस मौके पर वाशिंगटन पर तीखा हमला किया। US Iran Tensions: ईरानी राष्ट्रपति मसूद पेज़ेशकियान 31वें संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन (COP31) में भाग लेने के लिए बुधवार को तुर्कीए पहुंचे। तुर्कीए पहुंचने पर, ईरानी राष्ट्रपति ने अमेरिका को वैश्विक शांति और सुरक्षा के लिए खतरा बताया है।
+
+### [फारस की खाड़ी में तेल टैंकर पर हमला, 4 क्रू मेंबर्स घायल, एक भारतीय भी शामिल](https://www.abplive.com/news/india/persian-gulf-attack-on-an-oil-tanker-one-indian-among-the-4-injured-crew-members-3213549)
+*ABP Live (India)* - Nov 11, 14:01 IST (iso: 2026-11-11T08:31:26+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/9fa6a7dd9ae199c56ee60cdfd1b689a41794385782942355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+फारस की खाड़ी में लाइबेरिया झंडे वाले तेल टैंकर पर प्रोजेक्टाइल से हमला हुआ। चार क्रू सदस्य घायल हुए, जिनमें एक भारतीय नागरिक शामिल था। घटना मंगलवार को हुई। केंद्रीय मंत्री सर्बानंद सोनोवाल ने बुधवार को बताया कि फारस की खाड़ी से दुबई की ओर जा रहे लाइबेरिया के झंडे वाले एक तेल टैंकर पर किसी वस्तु (प्रोजेक्टाइल) से हमला हुआ.
 
 ### [ईरान ने घोषित किया अर्जेंटीना की नेवी और एयरफोर्स को आतंकवादी, 8 महीने बाद लिया बदला](https://hindi.news18.com/world/middle-east-iran-declares-terrorist-to-argentina-navy-and-air-force-after-8-months-of-irgc-probe-ws-l-10978993.html)
 *News18 Hindi (World)* - Nov 11, 12:56 IST (iso: 2026-11-11T07:26:39+00:00)
@@ -82,87 +112,61 @@ Nvidia सीईओ जेंसन हुआंग ने जासूसी �
 
 ईरान ने अर्जेंटीना की नौसेना और वायुसेना को आतंकवादी संगठन घोषित किया है। इस कदम के पीछे 2019 के एक कानून का हवाला दिया गया है। शिया देश की ओर से अर्जेंटीना की नौसेना और वायुसेना को आतंकवादी संगठन घोषित कर दिया है और इसके पीछे 2019 के एक कानून का हवाला दिया है. ईरान ने घोषित किया अर्जेंटीना की नेवी और एयरफोर्स को आतंकवादी, 8 महीने बाद लिया बदला।
 
-### [अमेरिकी प्लेन को पाकिस्तान ने नहीं दी एंट्री, ईरानियों को करना था डिपोर्ट, उल्टे पांव लौट आया](https://hindi.news18.com/world/pakistan-pakistan-rejected-entry-of-ice-deportation-flight-carrying-iranians-turns-back-arizona-ws-l-10978785.html)
-*News18 Hindi (World)* - Nov 11, 12:20 IST (iso: 2026-11-11T06:50:48+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Flight-2026-11-f1817c254ffd67e05288481e17765334-1200x800.jpg -->
+---
 
-पाकिस्तान ने ईरानी प्रवासियों को डिपोर्ट करने जा रहे अमेरिकी विमान को एंट्री नहीं दी। विमान एरिजोना लौट आया। यह घटना ट्रंप की हार के बाद पाकिस्तान के कड़े रुख का संकेत है। US Plane Entry Denied by Pakistan: मिडटर्म चुनाव में ट्रंप की हार के बाद पाकिस्तान ने भी अमेरिका को तेवर दिखाने शुरू कर दिए हैं. ईरानी प्रवासियों को डिपोर्ट करने के लिए जा रहा अमेरिकी विमान पाकिस्तान के इस इनकार के बाद उल्टे पांव एरिजोना लौट आया.
+## यूरोप और रूस
 
-### [अम्मी-आपा को कॉल, कोड लैंग्वेज में बात, जेल से आतंकी ने उड़वा दिया रॉयल मिलिट्री बेस, प्लॉट जानकर](https://hindi.news18.com/world/america-uk-air-base-attack-link-to-new-york-jail-us-charges-3-men-with-plotting-terror-attacks-ws-l-10978525.html)
-*News18 Hindi (World)* - Nov 11, 12:13 IST (iso: 2026-11-11T06:43:40+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/uk-fairford-2026-09-5b9894f5bc70049cc3c5510ba71cb118-1200x800.jpg -->
+### [ट्रंप ने पुतिन के पास भेजे 2 आदमी, अगले 48 घंटों में आने वाली है बड़ी खबर, क्या है रूस-यूक्रेन पीस](https://hindi.news18.com/world/europe-donald-trump-peace-deal-mission-jared-kushner-and-steve-witkoff-head-to-moscow-for-high-stakes-putin-talks-on-russia-ukraine-war-10979780.html)
+*News18 Hindi (World)* - Nov 11, 18:49 IST (iso: 2026-11-11T13:19:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Russia-Ukraine-War-2026-11-9cc3f3d0647fbacc269eae56aced8ff5-1200x800.jpg -->
 
-ब्रिटेन के मिलिट्री एयरबेस पर वैन हमले की साजिश के मास्टरमाइंड का कनेक्शन न्यूयॉर्क जेल से सामने आया है। इससे पहले अमेरिका ने अपने बॉम्बर प्लेन्स वहां से हटा दिए थे। UK Airbase Attack US Connection: ब्रिटेन के मिलिट्री एयरबेस पर संदिग्ध वैन से हमले की साजिश ने अमेरिका को अपने बॉम्बर प्लेन्स वहां से हटाने को मजबूर कर दिया था.
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने जेरेड कुशनर और स्टीव विटकॉफ को मॉस्को भेजा। दोनों व्लादिमीर पुतिन से मिलेंगे। इसके बाद वे डबलिन जाकर वोलोडिमिर ज़ेलेंस्की को बैठक की जानकारी देंगे। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपने दो खास लोगों, दामाद जेरेड कुशनर और स्टीव विटकॉफ को सीधे मॉस्को भेजा है. ये दोनों रूस के राष्ट्रपति व्लादिमीर पुतिन से आमने-सामने बात करेंगे.
 
-### [अमेरिकी वित्त मंत्री स्कॉट बेसेंट को ईरान से मिली जान से मारने की धमकी, मिलिट्री बेस में ली शरण](https://www.patrika.com/world-news/us-treasury-secretary-scott-bessent-iran-threat-military-base-21040455)
-*Patrika (World)* - Nov 11, 11:34 IST (iso: 2026-11-11T06:04:22+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-11.webp -->
+### [यूरोप में फ्रिजों पर साइबर हमला, अब घर के AC-फ्रिज और Wi-Fi राउटर पर मंडरया खतरा! AI ने क्यों बढ़ाई](https://hindi.news18.com/news/knowledge/after-supermarket-fridges-in-europe-could-hackers-target-your-home-appliances-next-europe-new-wave-of-cyberattacks-10979697.html)
+*News18 Hindi (World)* - Nov 11, 17:18 IST (iso: 2026-11-11T11:48:04+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/cyber-europe-2026-11-23cbbe16f9345f6b4eab4c87b0bf7995-1200x800.jpg -->
 
-वित्त मंत्री स्कॉट बेसेंट को ईरान से जान से मारने की धमकी मिली। इसके बाद उन्होंने एक मिलिट्री बेस में शरण ली। फॉक्स न्यूज ने अधिकारी के हवाले से यह जानकारी दी। इसके बाद उन्होंने मिलिट्री बेस में शरण ले ली। अमेरिकी न्यूज चैनल फॉक्स न्यूज डिजिटल ने एक वरिष्ठ अधिकारी के हवाले से रिपोर्ट किया कि ईरान की ओर से जान से मारने की धमकियां मिलने के बाद, ट्रेजरी सेक्रेटरी स्कॉट बेसेंट एक मिलिट्री बेस पर चले गए हैं।
+ENISA की रिपोर्ट में चेतावनी दी गई कि AI के कारण साइबर हमले तेज हो रहे हैं। हैकर्स अब फ्रिज के बाद राउटर और अन्य स्मार्ट उपकरणों को निशाना बनाने जा रहे हैं। यूरोपीय संघ की साइबर सुरक्षा एजेंसी ENISA ने अपनी ताजा रिपोर्ट में चेतावनी दी है कि आर्टिफिशियल इंटेलिजेंस (AI) की वजह से साइबर हमले पहले के मुकाबले कहीं ज्यादा तेज और खतरनाक होते जा रहे हैं.
 
-### [ब्रिटेन में एयरबेस उड़ाने की थी साजिश, ईरान समर्थित नेटवर्क के तीन लोगों पर शिकंजा; और क्या हैं आरोप](https://www.amarujala.com/world/iran-backed-terror-plot-europe-us-british-airbase-attack-three-men-charged-2026-11-11)
-*Amar Ujala World* - Nov 11, 10:49 IST (iso: 2026-11-11T05:19:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/10/24/karata_69acfa3a3a7ba25e81fddcd7ffd20bac.jpeg?w=1200&dpr=1.0 -->
+### ['उपन्यास से भी ज्यादा रोमांचक', सोनिया गांधी की किताब पर बोले प्रशांत भूषण](https://www.abplive.com/news/india/prashant-bhushan-reaction-on-sonia-gandhi-book-a-journey-of-love-3213485)
+*ABP Live (India)* - Nov 11, 13:52 IST (iso: 2026-11-11T08:22:12+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/e2e03a86245615d54dff208b0e43e83b17943776093771115_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-अमेरिका में तीन लोगों पर ब्रिटेन के एयरबेस पर हमले की साजिश रचने का आरोप लगा। इन्हें ईरान समर्थित नेटवर्क से जोड़ा गया है। तीनों के खिलाफ मुकदमा दर्ज किया गया है। ब्रिटेन में एयरबेस उड़ाने की थी साजिश, ईरान समर्थित नेटवर्क के तीन लोगों पर शिकंजा; और क्या हैं आरोप।
-
-### [क्या स्कॉट बेसेंट को मारने की साजिश रच रहा ईरान?: अमेरिकी वित्त मंत्री ने छोड़ा अपना घर, सैन्य](https://www.amarujala.com/world/us-treasury-secretary-scott-bessent-moves-to-military-base-after-iranian-threats-2026-11-11)
-*Amar Ujala World* - Nov 11, 10:01 IST (iso: 2026-11-11T04:31:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/scott-bessent_045f40380e6397d577ec7c3c415ce938.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने ईरानी धमकियों के बाद अपना आवास छोड़ दिया। न्यूयॉर्क टाइम्स के अनुसार, उन्हें एक सैन्य अड्डे पर सुरक्षित स्थान पर शिफ्ट कर दिया गया है। क्या स्कॉट बेसेंट को मारने की साजिश रच रहा ईरान?: अमेरिकी वित्त मंत्री ने छोड़ा अपना घर, सैन्य।
-
-### [घर छोड़कर भागे US वित्त मंत्री, बंकर में ली शरण, क्या ईरान का सीक्रेट अटैक का प्लान?](https://www.abplive.com/news/world/us-iran-war-us-treasury-secretary-scott-bessent-iran-threats-military-base-relocation-3213424)
-*ABP Live (World)* - Nov 11, 09:30 IST (iso: 2026-11-11T04:00:21+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/ed6536b99ef694a9a18141a379ed1cf81794369931070425_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
-
-ईरान से मिली जान के खतरे के बाद स्कॉट बेसेंट को सैन्य अड्डे पर स्थानांतरित किया गया। खुफिया एजेंसियों ने उन्हें टारगेट पर लेने की चेतावनी दी थी। सुरक्षा विवरण सार्वजनिक नहीं किए गए। अमेरिका और ईरान के बीच जारी युद्ध के बीच अमेरिकी वित्त मंत्री स्कॉट बेसेंट की सुरक्षा को लेकर चिंता बढ़ गई है. ईरान से कथित तौर पर जान का खतरा मिलने के बाद बेसेंट ने अपना सरकारी आवास छोड़ दिया है और एक सैन्य अड्डे पर रहने चले गए हैं.
-
-### [ईरान ने किया टार्गेट लॉक, घर छोड़कर बंकर में भागे अमेरिकी वित्त मंत्री, खुफिया एजेंसी ने मिलिट्री](https://hindi.news18.com/world/america-us-treasury-secretary-scott-bessent-shifted-on-military-base-after-iran-threats-cia-informs-10978418.html)
-*News18 Hindi (World)* - Nov 11, 09:09 IST (iso: 2026-11-11T03:39:32+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/scott-bessent-2026-11-cadac2af5e2239f2b1595a9e06e80529-1200x800.jpg -->
-
-अमेरिकी वित्त मंत्री स्कॉट बेसेंट को ईरानी हमले की आशंका के बाद सैन्य अड्डे पर रखा गया। न्यूयॉर्क टाइम्स ने यह जानकारी उन लोगों से ली है जो मामले से वाकिफ हैं। Scott Bessent Shifted on Military Base: ईरान-अमेरिका के बीच हमले भले ही बंद हो रखे हैं लेकिन खतरा अभी टला नहीं है. ईरान की ओर से अमेरिकी वित्त मंत्री स्कॉट बेसेंट को टार्गेट पर लिया गया है, ऐसा खुफिया एजेंसियों का कहना है.
+वकील प्रशांत भूषण ने सोनिया गांधी की किताब 'बिलॉन्गिंग' की प्रशंसा की। उन्होंने एक्स पर लिखा कि यह किताब किसी उपन्यास से भी अधिक रोमांचक होगी। सिनियर वकील प्रशांत भूषण ने कांग्रेस की पूर्व अध्यक्ष सोनिया गांधी के किताब बिलॉन्गिंग: ए जर्नी ऑफ लव को लेकर बड़ा बयान दिया है. उन्होंने एक्स पर पोस्ट कर लिखा कि मैंने सोनिया गांधी के निजी संस्मरण को अभी तक नहीं पढ़ा है, लेकिन मैं अंदाज़ा लगा सकता हूं कि यह किताब इतनी दिलचस्प होगी कि इसे पढ़ते हुए आप इसे नीचे नहीं रख पाएंगे.
 
 ---
 
 ## दुनिया
 
-### ['रामायण' के कारण 'पायर' को नहीं मिल रही सिनेमाघरों में जगह? निर्देशक ने की ये अपील](https://www.amarujala.com/entertainment/pyre-vinod-kapri-raised-concerns-over-reduction-screenings-for-his-film-amid-ramayana-theatrical-run-2026-11-11)
-*Amar Ujala National* - Nov 11, 12:55 IST (iso: 2026-11-11T07:25:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/payara_af4da7c7d949324f91c1a8b5c4c30e5c.jpeg?w=1200&dpr=1.0 -->
+### [घरों की छतें उड़ाने आ रहा तूफान सेमपाका, 180 की स्पीड और 980 का प्रेशर मचाएगा प्रलय](https://hindi.news18.com/world/rest-of-world-typhoon-cempaka-latest-alert-powerful-180-kmph-storm-threatens-pacific-with-record-32nd-hurricane-mausam-today-update-10979408.html)
+*News18 Hindi (World)* - Nov 11, 15:55 IST (iso: 2026-11-11T10:25:07+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Typhoon-Chempaka-2026-11-ddb3b4cc1cbf2a9dd1fcf552309dda68-1200x800.jpg -->
 
-फिल्म 'पायर' 30 अक्टूबर को रिलीज हुई है। निर्देशक विनोद कापड़ी ने इसकी कम शोस को लेकर चिंता जाहिर की है। फिल्म 'पायर' 30 अक्टूबर को सिनेमाघरों में रिलीज हुई है। इसमें उत्तराखंड के हिमालयी इलाके के एक दूरदराज गांव की कहानी दिखाई गई है। अब फिल्म के निर्देशक विनोद कापड़ी ने इसके शो कम होने को लेकर चिंता जाहिर की है।
+प्रशांत में तूफान सेमपाका ने 180 किलोमीटर प्रति घंटा की रफ्तार और 980 हेक्टोपास्कल का दबाव बनाया है। मौसम विज्ञान एजेंसी ने हाई अलर्ट जारी कर दिया है। प्रशांत महासागर में कुदरत का बहुत ही डरावना रूप देखने को मिल रहा है. यहां इस साल का 32वां तूफान 'सेमपाका' (Typhoon Cempaka) आ गया है. इस चक्रवात की हवाओं की रफ्तार 180 किलोमीटर प्रति घंटा है.
 
-### [जहरीली हवा में बाहर जाने की जरूरत नहीं! जानिए घर पर कार्डियो एक्सरसाइज कैसे करें?](https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/how-to-do-cardio-at-home-during-high-pollution-try-these-7-easy-exercises-2026-11-03)
-*Amar Ujala National* - Nov 11, 12:54 IST (iso: 2026-11-11T07:24:53+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/03/home-cardio-workout_497bb9ac1f78d07999d5d3fc7b7cd65c.jpeg?w=1200&dpr=1.0 -->
+### [सोनिया गांधी के PM पद छोड़ने पर घमासान, BJP ने कहा- 'मिल्कियत समझती थीं'](https://www.abplive.com/news/india/sonia-gandhi-book-belonging-imran-pratapgarhi-satish-poonia-reaction-3213545)
+*ABP Live (India)* - Nov 11, 14:06 IST (iso: 2026-11-11T08:36:39+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/54c9586d8ebd838b7fca161f2a08011217943864962021115_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-प्रदूषण के दौरान घर पर हल्की कार्डियो एक्सरसाइज की जा सकती है। डांस और लो-इम्पैक्ट वर्कआउट से शारीरिक सक्रियता बनाए रखी जा सकती है। Home Cardio Exercise During Air Pollution: प्रदूषण के दिनों में फिटनेस बनाए रखने के लिए अपनी सेहत को जोखिम में डालना जरूरी नहीं है। जहरीली हवा में बाहर जाने की जरूरत नहीं! जानिए घर पर कार्डियो एक्सरसाइज कैसे करें?
+सोनिया गांधी की किताब 'बिलॉन्गिंग' पर बीजेपी ने हमला किया। पार्टी ने दावा किया कि उन्हें पद की मिल्कियत समझ में आती थी। कांग्रेस सांसदों ने इस पर जवाब दिया। सोनिया गांधी की किताब बिलॉन्गिंग: ए जर्नी ऑफ लव को लेकर विवाद शुरू हो गया है. कांग्रेस की पूर्व अध्यक्ष ने किताब में प्रधानमंत्री न बनने की बात तो शामिल किया है.
 
-### [यूपी चुनाव के लिए सामने आया नया गठबंधन, 2027 में मिलकर लड़ेंगे ओवैसी और चंद्रशेखर आजाद](https://www.amarujala.com/lucknow/up-politics-new-alliance-emerges-for-up-elections-owaisi-and-chandrashekhar-azad-to-contest-together-in-2027-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 12:49 IST (iso: 2026-11-11T07:19:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/up-politics_454a3fedb3316d44c7cc6238af8c1192.jpeg?w=1200&dpr=1.0 -->
+### [सोनिया गांधी की किताब पर अठावले का बड़ा बयान, '...तब शरद पवार की भूमिका से हम सहमत नहीं थे'](https://www.abplive.com/news/india/ramdas-athawale-on-sonia-gandhi-book-belonging-to-the-journey-of-love-says-3213532)
+*ABP Live (India)* - Nov 11, 13:16 IST (iso: 2026-11-11T07:46:10+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/b4b8fd37d01e5daabe8cdfb092e017d71794383623173355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
-चंद्रशेखर आजाद और असदुद्दीन ओवैसी ने यूपी विधानसभा चुनाव 2027 के लिए गठबंधन किया है। तीसरे मोर्चे की यह एंट्री लखनऊ में घोषित होगी। दोनों नेता मिलकर चुनाव लड़ेंगे। यूपी विधानसभा चुनाव 2027 के लिए तीसरे मोर्चे की एंट्री हो गई। चंद्रशेखर आजाद और असदुद्दीन ओवैसी ने यूपी चुनाव के लिए गठबंधन किया है। बताया जा रहा है कि इसकी घोषणा कल लखनऊ में की जाएगी।
+रामदास अठावले ने सोनिया गांधी की किताब पर प्रतिक्रिया दी। उन्होंने कहा कि विदेशी मूल के मुद्दे पर शरद पवार की भूमिका से सहमत नहीं थे। यह टिप्पणी किताब के लॉन्च के बाद आई। केंद्रीय मंत्री रामदास अठावले ने कांग्रेस नेता सोनिया गांधी की किताब बिलॉंगिंग टू द जर्नी ऑफ लव को लेकर बड़ा बयान दिया है. ये किताब लॉन्च होने के बाद से सुर्खियों में बनी हुई है.
 
-### [ग्वालियर हाईकोर्ट को बम से उड़ाने की धमकी, यूपी एटीएस ने संदिग्ध को दबोचा; लैपटॉप में मिले कई ई-मेल](https://www.amarujala.com/madhya-pradesh/gwalior/threat-to-blow-up-gwalior-high-court-up-ats-nabs-suspect-gwalior-news-c-1-1-noi1227-4923678-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 12:18 IST (iso: 2026-11-11T06:48:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/08/30/mp-news_4ea7eba0acd03b20f7f527b397922889.jpeg?w=1200&dpr=1.0 -->
+### [मां की मोहब्बत में बेटा बना रोड़ा, प्रेमी संग मिलकर रची हत्या की साजिश, 6 आरोपी गिरफ्तार](https://www.abplive.com/news/india/karnataka-belagavi-woman-her-boyfriend-kill-her-own-son-police-arrested-6-accused-ann-3213493)
+*ABP Live (India)* - Nov 11, 13:14 IST (iso: 2026-11-11T07:44:49+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/e4f1051999a016e8bc5fe75a24687e9117943784529191200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
-यूपी एटीएस ने ग्वालियर हाईकोर्ट को बम धमकी भेजने के मामले में एक संदिग्ध को गिरफ्तार किया है। पुलिस ने उसके पास से लैपटॉप बरामद किया है, जिसमें कई ई-मेल मिले हैं। ग्वालियर हाईकोर्ट को बम से उड़ाने की धमकी भरा ई-मेल भेजने के मामले में यूपी एटीएस ने एक संदिग्ध को पकड़ा है। ग्वालियर हाईकोर्ट को बम से उड़ाने की धमकी, यूपी एटीएस ने संदिग्ध को दबोचा; लैपटॉप में मिले कई ई-मेल।
+बेलगावी में 24 वर्षीय विजय नारायण की हत्या का मामला सामने आया। आरोप है कि मां मीना ने प्रेमी के साथ मिलकर साजिश रची। कुल छह आरोपियों को गिरफ्तार किया गया है। कर्नाटक के बेलगावी से एक चौंकाने वाला मामला सामने आया है, जहां एक मां पर आरोप है कि उसने अपने प्रेमी के लिए अपने ही जवान बेटे की मौत का फरमान सुना दिया.
 
-### [एसयूवी कार की टक्कर से लॉस एंजिलिस में तीन की मौत, पुलिस ने शुरू की जांच](https://www.amarujala.com/world/los-angeles-suv-crash-north-hollywood-dead-and-critical-injured-2026-11-11)
-*Amar Ujala World* - Nov 11, 11:39 IST (iso: 2026-11-11T06:09:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/13/ekasadata-sakataka-tasavara_bc7b38826baf8fbe91b5d89649e75ed9.jpeg?w=1200&dpr=1.0 -->
+### [पहले से और हाईटेक होगी CRPF, कामिकेज ड्रोन सिस्टम लेने का प्लान, क्या है खासियत](https://www.abplive.com/news/india/crpf-planning-to-acquire-kamikaze-drone-system-uav-anti-personnel-warheads-3213523)
+*ABP Live (India)* - Nov 11, 13:10 IST (iso: 2026-11-11T07:40:11+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/a5ea6550a92528728924ef647c2dba2517943823838951200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
 
-लॉस एंजिलिस के नॉर्थ होलीवुड में एसयूवी की टक्कर से तीन लोगों की मौत हुई। घायलों की स्थिति गंभीर है। पुलिस ने जांच शुरू कर दी है। एसयूवी कार की टक्कर से लॉस एंजिलिस में तीन की मौत, पुलिस ने शुरू की जांच।
-
-### [एनएचएम संविदा कर्मियों के लिए तबादला नीति लागू; हेल्थ बीमा, ईपीएफ व ग्रेच्युटी का प्रस्ताव भी भेजा](https://www.amarujala.com/lucknow/transfer-policy-implemented-for-nhm-contract-workers-in-up-proposals-for-health-insurance-gratuity-will-sent-2026-11-11)
-*Amar Ujala Breaking* - Nov 11, 09:40 IST (iso: 2026-11-11T04:10:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/24/transfer_c79ad08a42bcb1b909750154e847de08.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर प्रदेश में राष्ट्रीय स्वास्थ्य मिशन के संविदा कर्मचारियों के लिए स्थानांतरण नीति लागू हो गई है। प्रशासन ने हेल्थ बीमा, ईपीएफ और ग्रेच्युटी के प्रस्ताव भी भेज दिए हैं। उत्तर प्रदेश में राष्ट्रीय स्वास्थ्य मिशन (एनएचएम) के संविदा कर्मचारियों के लिए स्थानांतरण नीति लागू कर दी गई है। एनएचएम संविदा कर्मियों के लिए तबादला नीति लागू; हेल्थ बीमा, ईपीएफ व ग्रेच्युटी का प्रस्ताव भी भेजा।
+सीआरपीएफ कामिकेज ड्रोन सिस्टम खरीदने की योजना बना रहा है। इसमें ऑप्टिकल फाइबर और रेडियो फ्रीक्वेंसी तकनीक शामिल होगी। ड्रोन दिन और रात दोनों में काम करेंगे। केंद्रीय रिजर्व पुलिस बल (CRPF) एक ऐसा कामिकेज ड्रोन सिस्टम लेने की योजना बना रहा है, जो ऑप्टिकल फाइबर केबल (OFC) और रेडियो फ्रीक्वेंसी (RF) पर आधारित फर्स्ट पर्सन व्यू (FPV) तकनीक से लैस होगा.
 
 ---
 
