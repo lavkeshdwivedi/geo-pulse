@@ -1,180 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 12, 2026 04:41 IST
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [कांगो में आईएस से जुड़े विद्रोहियों का खूनी हमला: 22 लोगों की हत्या और 10 का अपहरण; क्या है पूरा](https://www.amarujala.com/world/islamic-state-linked-rebels-kill-22-in-congo-attacks-2026-11-12)
-*Amar Ujala World* - Nov 12, 12:39 IST (iso: 2026-11-12T07:09:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/07/13/kaga-ma-ashata-ka-bca-sarakashha-bl_bb5bdc936668e8ef44b09a8f3bc29042.jpeg?w=1200&dpr=1.0 -->
-
-कांगो में आईएसआईसी-एफ से जुड़े विद्रोहियों ने हमला कर 22 लोगों को मारा और 10 को अपहृत किया। स्थानीय प्रशासन ने सुरक्षा बलों को तैनात किया है। कांगो में आईएस से जुड़े विद्रोहियों का खूनी हमला: 22 लोगों की हत्या और 10 का अपहरण; क्या है पूरा मामला?
-
-### [गैर-मर्द से रिश्ता, फिर बच्चे को जन्म... अब सऊदी अरब में महिला को 100 कोड़ों की सजा](https://hindi.news18.com/world/middle-east-saudi-arabia-court-sentences-kenyan-woman-100-lashes-out-of-wedlock-baby-news-10980246.html)
-*News18 Hindi (World)* - Nov 11, 23:36 IST (iso: 2026-11-11T18:06:43+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Crime-news-2-2026-11-2bd827f12ddd9331dc6b328dc4645940-1200x800.jpg -->
-
-सऊदी अरब में केन्या की महिला एस्थर वांजा को 100 कोड़ों की सजा सुनाई गई। उसने शादी के बाहर बच्चा जन्म दिया था। उसका रिश्ता मिस्र के एक व्यक्ति से था। सऊदी अरब में केन्या की एक महिला को शादी के बाहर बच्चा पैदा करने के मामले में 100 कोड़ों की सजा सुनाई गई है. एस्थर वांजा मुथोनी सऊदी अरब में मेड का काम करती थी.
+**अपडेट:** November 12, 2026 10:02 IST
 
 ---
 
 ## दुनिया
 
-### [किश्तवाड़ के दच्छन में दो एसपीओ लापता, सेना और पुलिस ने चलाया तलाशी अभियान; मोबाइल भी बंद](https://www.amarujala.com/jammu/two-spos-go-missing-in-kishtwar-army-and-police-launch-a-search-operation-2026-11-12)
-*Amar Ujala Breaking* - Nov 12, 12:07 IST (iso: 2026-11-12T06:37:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/1_f604d5539bd3f27222da580ab6eccd3d.jpeg?w=1200&dpr=1.0 -->
+### [ग्रेटर नोएडा में महिला 10वीं मंजिल से कूदी: मौके पर ही तोड़ा दम, सोसायटी में हड़कंप; आत्महत्या या](https://www.amarujala.com/delhi-ncr/noida/woman-dies-by-jumping-from-the-10th-floor-at-kendriya-vihar-society-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 09:54 IST (iso: 2026-11-12T04:24:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/garatara-naeda-ma-mahal-na-ka-aatamahataya_3b13a6effae01644bd261999eed64fec.jpeg?w=1200&dpr=1.0 -->
 
-जम्मू-कश्मीर के किश्तवाड़ में दो एसपीओ लापता हो गए। सेना और पुलिस ने दच्छन में तलाशी अभियान शुरू किया और मोबाइल सेवा बंद कर दी। जम्मू-कश्मीर के किश्तवाड़ जिले के दुर्गम दच्छन इलाके में बुधवार को दो विशेष पुलिस अधिकारी (एसपीओ) लापता हो गए। किश्तवाड़ के दच्छन में दो एसपीओ लापता, सेना और पुलिस ने चलाया तलाशी अभियान; मोबाइल भी बंद।
+ग्रेटर नोएडा में 34 वर्षीय महिला ने सोसायटी की 10वीं मंजिल से कूदकर आत्महत्या कर ली। मौके पर ही उसकी मौत हो गई। पुलिस ने शव कब्जे में लेकर जांच शुरू कर दी है। ग्रेटर नोएडा में एक 34 वर्षीय महिला ने 10वीं मंजिल से कूदकर आत्महत्या कर ली। ग्रेटर नोएडा में महिला 10वीं मंजिल से कूदी: मौके पर ही तोड़ा दम, सोसायटी में हड़कंप; आत्महत्या या।
 
-### [सोनिया गांधी की किताब पर JDU ने काटा बवाल, क्या बोले पप्पू यादव?](https://www.amarujala.com/video/india-news/jdu-creates-an-uproar-over-sonia-gandhi-s-book-what-did-pappu-yadav-say-2026-11-12)
-*Amar Ujala National* - Nov 12, 04:30 IST (iso: 2026-11-11T23:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/jdu_df1b3de81d761a0d8a7162115e5cb0b1.jpeg?w=1200&dpr=1.0 -->
+### ['मैं किसी का बुरा नहीं चाहता': पूर्व सीएम से मतभेद की अटकलों पर बोले डीके शिवकुमार; दिया बड़ा संदेश](https://www.amarujala.com/india-news/dk-shivakumar-says-no-ill-will-towards-siddaramaiah-amid-rift-speculation-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:50 IST (iso: 2026-11-12T04:20:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/daka-shavakamara-karanataka-ka-makhayamatara_49386c813376b49e636ed062431e7e84.jpeg?w=1200&dpr=1.0 -->
 
-जेडीयू ने सोनिया गांधी की किताब पर आपत्ति जताई। पप्पू यादव ने इस पर अपनी प्रतिक्रिया दी और राजनीतिक बहस को बढ़ावा दिया। सोनिया गांधी की किताब पर JDU ने काटा बवाल, क्या बोले पप्पू यादव?
+डीके शिवकुमार ने पूर्व मुख्यमंत्री सिद्धरमैया से मतभेद की अटकलों को खारिज किया। उन्होंने कहा कि वे किसी का बुरा नहीं चाहते। इस बयान से पार्टी के भीतर तनाव कम होने की उम्मीद है। 'मैं किसी का बुरा नहीं चाहता': पूर्व सीएम से मतभेद की अटकलों पर बोले डीके शिवकुमार; दिया बड़ा संदेश।
 
-### [अगले 10 साल में इतिहास बन जाएगा कैंसर, बीमारियों के इलाज के तरीके पूरी तरह बदल जाएंगे](https://www.amarujala.com/world/anthropic-ceo-cancer-will-become-history-within-next-10-years-complete-transformation-in-disease-treatment-2026-11-12)
-*Amar Ujala National* - Nov 12, 04:14 IST (iso: 2026-11-11T22:44:19+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/anthropic-ceo-cancer-treatment_f79616954cb79429ee14276a050a3d04.jpeg?w=1200&dpr=1.0 -->
+### [अभिषेक बनर्जी के घर के बाहर बुलडोजर एक्शन, केएमसी ने हटाया अस्थायी निर्माण, मौके पर भारी पुलिस बल](https://www.amarujala.com/india-news/bulldozer-action-outside-abhishek-banerjee-s-residence-kmc-removes-temporary-structures-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:46 IST (iso: 2026-11-12T04:16:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/abhashhaka-ka-ghara-ka-bhara-cal-bldajara_d481a47c69319dffd80a090e5e050220.gif?w=1200&dpr=1.0 -->
 
-एंथ्रोपिक के सीईओ का दावा है कि दस वर्षों में कैंसर इलाज बदल जाएगा। बीमारियों के उपचार के तरीके पूरी तरह परिवर्तित होंगे। यह तकनीकी प्रगति का परिणाम होगा। एंथ्रोपिक सीईओ का दावा: अगले 10 वर्षों में इतिहास बन जाएगा कैंसर, बीमारियों के इलाज के तरीके पूरी तरह बदल जाएंगे। अगले 10 साल में इतिहास बन जाएगा कैंसर, बीमारियों के इलाज के तरीके पूरी तरह बदल जाएंगे।
+कोलकाता में अभिषेक बनर्जी के घर के बाहर केएमसी ने अस्थायी निर्माण हटाए। भारी पुलिस बल मौके पर तैनात रखा गया था। यह कार्रवाई शहर में कानून व्यवस्था को बनाए रखने के लिए की गई। अभिषेक बनर्जी के घर के बाहर बुलडोजर एक्शन, केएमसी ने हटाया अस्थायी निर्माण, मौके पर भारी पुलिस बल।
 
-### [कुलगाम आतंकी हमले पर रक्षा विशेषज्ञ ने किया बड़ा खुलासा , कौन है असली मास्टर माइंड?](https://www.amarujala.com/video/india-news/defense-expert-makes-a-major-revelation-regarding-the-kulgam-terror-attack-who-is-the-real-mastermind-2026-11-12)
-*Amar Ujala National* - Nov 12, 03:30 IST (iso: 2026-11-11T22:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/kulgam-crpf-terror-attack_df528411d27ed6a959be3941dbb86b90.jpeg?w=1200&dpr=1.0 -->
+### [क्या आपकी खांसी और बुखार निमोनिया का संकेत है? इन 5 लक्षणों को न करें नजरअंदाज](https://www.amarujala.com/photo-gallery/lifestyle/fitness/world-pneumonia-day-5-early-symptoms-of-pneumonia-you-should-never-ignore-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:45 IST (iso: 2026-11-12T04:15:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/namanaya-sa-bcava-kasa-kara_208674becfafce9e3e30cde4ec2449b5.jpeg?w=1200&dpr=1.0 -->
 
-रक्षा विशेषज्ञ ने कुलगाम आतंकी हमले पर खुलासा किया। उन्होंने असली मास्टर माइंड की पहचान का दावा किया। यह सुरक्षा स्थिति पर प्रभाव डालेगा। कुलगाम आतंकी हमले पर रक्षा विशेषज्ञ ने किया बड़ा खुलासा, कौन है असली मास्टर माइंड?
+विश्व निमोनिया दिवस पर निमोनिया के पांच प्रमुख लक्षणों पर प्रकाश डाला गया है। खांसी और बुखार जैसे लक्षणों को नजरअंदाज नहीं करना चाहिए। समय पर चिकित्सा सहायता लेना ज़रूरी है। World Pneumonia Day: इस लेख में जानें निमोनिया के 5 शुरुआती लक्षण क्या हैं और जानिए किन लक्षणों को नजरअंदाज नहीं करना चाहिए। क्या आपकी खांसी और बुखार निमोनिया का संकेत है?
 
-### [महाराष्ट्र में बच्चों की तबीयत बिगड़ी: अरंडी का बीज खाकर बीमार हुई बच्ची की मौत, सात अस्पताल में](https://www.amarujala.com/india-news/nandurbar-castor-seeds-dhadgaon-food-poisioning-children-medical-officer-dr-sandeep-valvi-hindi-news-updates-2026-11-12)
-*Amar Ujala National* - Nov 12, 03:14 IST (iso: 2026-11-11T21:44:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/nandurbar-food-poisoning_ec7294e289908d075cd86b4320d595b1.jpeg?w=1200&dpr=1.0 -->
+### [आवेदन फॉर्म में संशोधन का आज आखिरी मौका, किन विवरणों में कर सकते हैं सुधार?](https://www.amarujala.com/education/csir-ugc-net-2026-correction-window-closes-today-november-12-check-steps-to-edit-application-form-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:39 IST (iso: 2026-11-12T04:09:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/csir-ugc-net-2026-correction-window_2d5a62654fbc333a2e840a2b6ad3afb4.jpeg?w=1200&dpr=1.0 -->
 
-महाराष्ट्र में अरंडी बीज से विषाक्तता के मामले सामने आए। एक बच्ची की मौत हुई और सात अन्य अस्पताल में भर्ती हैं। स्थानीय स्वास्थ्य विभाग ने जांच शुरू कर दी है। महाराष्ट्र में बच्चों की तबीयत बिगड़ी: अरंडी का बीज खाकर बीमार हुई बच्ची की मौत, सात अस्पताल में भर्ती कराए गए।
+एनटीए ने आवेदन फॉर्म में संशोधन के लिए आज रात 11:50 बजे तक का समय दिया। उम्मीदवारों को व्यक्तिगत और शैक्षणिक विवरण मूल दस्तावेजों से मिलाने की सलाह दी गई है। एनटीए ने आवेदन में संशोधन के लिए आज रात 11:50 बजे तक का समय दिया है। उम्मीदवारों को फॉर्म में दर्ज व्यक्तिगत, शैक्षणिक और अन्य जानकारियां मूल दस्तावेजों से मिलाने की सलाह दी गई है।
 
-### [दोस्त की सगाई की खुशी में शराब पीने के बाद तीन दोस्तों की मौत, साथ में भांग खाने का भी अंदेशा, जांच](https://www.amarujala.com/uttar-pradesh/etah/etah-three-friends-die-after-consuming-alcohol-2026-11-12)
-*Amar Ujala Breaking* - Nov 12, 02:54 IST (iso: 2026-11-11T21:24:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/07/death_a8a73a7b53225258d2e7c6e939c50374.jpeg?w=1200&dpr=1.0 -->
+### [एयरटेल ने फिर शुरू किया 299 रुपये वाला प्लान: 28 दिन की वैलिडिटी और रोज 1GB डेटा, अब क्या बदला?](https://www.amarujala.com/technology/tech-diary/airtel-brings-back-rs-299-precharge-plan-with-new-data-benefits-and-validity-details-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:33 IST (iso: 2026-11-12T04:03:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/airtel-plan-returns_98d377624fa3539406e977df93ee57bf.jpeg -->
 
-दोस्त की सगाई में शराब पीने से तीन युवकों की मौत हुई। साथ में भांग खाने की संभावना भी जांच में शामिल है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है। दोस्त की सगाई की खुशी में शराब पीने के बाद बुधवार की शाम तीन युवकों की हालत बिगड़ गई। दोस्त की सगाई की खुशी में शराब पीने के बाद तीन दोस्तों की मौत, साथ में भांग खाने का भी अंदेशा, जांच।
+एयरटेल ने 299 रुपये के प्रीपेड प्लान को फिर से शुरू किया है। इसमें 28 दिन की वैलिडिटी और रोजाना 1GB डेटा मिलता है। पहले की तुलना में डेली डेटा लिमिट घटाई गई है और अनलिमिटेड 5G का लाभ भी हटा दिया गया है। एयरटेल (Airtel) ने अपने ग्राहकों को बड़ी राहत देते हुए 299 रुपये वाला लोकप्रिय प्रीपेड प्लान वापस लॉन्च कर दिया है।
 
-### [10 साल की इरा ने रचा इतिहास: स्कूबा डाइविंग में बनाए 6 विश्व रिकॉर्ड, महाराष्ट्र के किस सैनिक](https://www.amarujala.com/india-news/ira-aditya-raut-youngest-scuba-diver-six-world-records-shaheed-dweep-andaman-maharashtra-buldhana-10-yr-girl-2026-11-12)
-*Amar Ujala Breaking* - Nov 12, 01:03 IST (iso: 2026-11-11T19:33:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/ira-aditya-raut-scooba-diving-record_bc557fb15906a13327ac6661d5793890.jpeg?w=1200&dpr=1.0 -->
+### [बाजार में लगातार नौवें दिन तेजी: सेंसेक्स 100 अंक चढ़ा, निफ्टी 25250 के पार पहुंचा](https://www.amarujala.com/business/bazaar/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:32 IST (iso: 2026-11-12T04:02:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0 -->
 
-महाराष्ट्र के सैनिक परिवार की 10 वर्षीय इरा ने स्कूबा डाइविंग में छह विश्व रिकॉर्ड बनाए। इस उपलब्धि से उसने खेल जगत में नया इतिहास रचा है। 10 साल की इरा ने रचा इतिहास: स्कूबा डाइविंग में बनाए 6 विश्व रिकॉर्ड, महाराष्ट्र के किस सैनिक परिवार की बेटी?
+भारतीय शेयर बाजार में लगातार नौवें दिन तेजी दर्ज की गई। सेंसेक्स 100 अंक की बढ़त के साथ बंद हुआ। निफ्टी 50 इंडेक्स 25250 के स्तर के पार पहुंच गया। यह लगातार नौवें सत्र में उछाल दर्ज करने वाला बाजार है। द बोनस मार्केट अपडेट: बाजार में लगातार नौवें दिन तेजी: सेंसेक्स 100 अंक चढ़ा, निफ्टी 25250 के पार पहुंचा।
 
-### [जहर का नशा करता है समंदर का ‘टिंगू ड्रैगन’, दिखने में जितना क्यूट उतना ही खतरनाक](https://hindi.news18.com/world/rest-of-world-blue-dragon-sea-slug-glaucus-atlanticus-meet-the-one-inch-ocean-predator-that-steals-venom-and-floats-upside-down-photogallery-10980155.html)
-*News18 Hindi (World)* - Nov 11, 22:56 IST (iso: 2026-11-11T17:26:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Blue-Dragon-2026-11-3b8b07ad6109bf8f834d9c5eb7e264e0-1200x800.jpg -->
+### [पीएम विश्वकर्मा योजना के लिए कौन है पात्र? यहां जानें पात्रता से लेकर आवेदन तक का तरीका](https://www.amarujala.com/photo-gallery/utility/how-to-apply-for-pm-vishwakarma-yojana-and-eligibility-criteria-kya-hai-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:29 IST (iso: 2026-11-12T03:59:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/11/12/pm-vishwakarma-yojana-new_fa04ef95463dbe47e4fe4309b33f4f22.jpeg?w=1200&dpr=1.0 -->
 
-ब्लू ड्रैगन नाम का एक इंच लंबा समुद्री जीव खतरनाक शिकारियों से टकराता है। इसकी उपस्थिति के दौरान उसकी शक्ति अचानक बढ़ जाती है। यह जीव खुले महासागर में तैरता है। समुद्र की दुनिया जितनी खूबसूरत है, उतनी ही रहस्यों से भी भरी पड़ी है. खुले महासागर में तैरने वाला 'ब्लू ड्रैगन' नाम का ये छोटा सा जीव खूबसूरती, खतरे और जिंदा रहने की कला की एक अनोखी मिसाल है.
+पीएम विश्वकर्मा योजना के तहत पात्र व्यक्तियों को आर्थिक लाभ दिए जाते हैं। योजना में शामिल होने के लिए पात्रता शर्तों को पूरा करना अनिवार्य है। आवेदन प्रक्रिया और पात्रता विवरण आधिकारिक पोर्टल पर उपलब्ध है। लाभार्थियों को निर्धारित मापदंडों के अनुसार चयन किया जाता है। पीएम विश्वकर्मा योजना से सिर्फ वे लोग बतौर लाभार्थी जुड़ सकते हैं, जो इस योजना के लिए पात्र हैं इस योजना के तहत कई तरह के आर्थिक लाभ दिए जाते हैं।
+
+### [किश्तवाड़ से लापता दो एसपीओ के शव मिले, गोलियों से छलनी थीं लाशें; हथियार भी थे गायब](https://www.amarujala.com/jammu/bullet-riddled-bodies-of-two-missing-spos-recovered-from-jammu-and-kashmir-kishtwar-weapons-not-found-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 09:25 IST (iso: 2026-11-12T03:55:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/kishtwar-spos-killed_cf684bd8db6cca7f8ef3269fdcc9cd7b.jpeg?w=1200&dpr=1.0 -->
+
+जम्मू-कश्मीर के किश्तवाड़ जिले से लापता दो सुरक्षा दल के जवानों के शव मिले हैं। दोनों शव गोलियों से छलनी पाए गए। जवानों के हथियार भी गायब हैं। अधिकारियों ने इसकी पुष्टि की है और मामले की जांच शुरू कर दी गई है। जम्मू-कश्मीर के किश्तवाड़ जिले से लापता दो SPO के गोलियों से छलनी शव बरामद हुए हैं। जवानों के हथियार नहीं मिले हैं।
+
+### [इन 10 खिलाड़ियों के लिए करो या मरो की जंग! शमी-SKY की नजर वापसी पर, शॉ की साख दांव पर](https://www.amarujala.com/photo-gallery/cricket/smat-2026-27-from-shami-to-suryakumar-shaw-10-players-with-plenty-to-gain-and-lose-ahead-of-ipl-2027-auction-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 09:19 IST (iso: 2026-11-12T03:49:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/syed-mushtaq-ali-trophy-2026-27-smat-2026-27-ipl-2027-suryakumar-yadav-mohammed-shami-prithvi-s_056912a3ce450d150c360fb939dec278.jpeg?w=1200&dpr=1.0 -->
+
+सैयद मुश्ताक अली ट्रॉफी 14 नवंबर से शुरू होगी। यह आईपीएल 2027 से पहले शमी, शॉ और अन्य दस खिलाड़ियों के लिए मौका प्रदान करेगी। प्रदर्शन पर ही उनकी टीम चयन की संभावनाएं निर्भर करेंगी। 14 नवंबर से शुरू होने वाली सैयद मुश्ताक अली ट्रॉफी 2026-27 आईपीएल 2027 से पहले कई खिलाड़ियों के लिए अहम होगी। इन 10 खिलाड़ियों के लिए करो या मरो की जंग!
+
+### [अमूल ताजा से गोल्ड तक बढ़े दाम, मदर डेयरी ने भी दिया झटका; जानें कितना बढ़ा रेट](https://www.amarujala.com/business/business-diary/amul-mother-dairy-milk-prices-hike-new-rates-november-2026-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:13 IST (iso: 2026-11-12T03:43:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/thathha-kamata-ma-bugdhhatatara_0ef1879317d3db261c28a7f29549350e.jpeg?w=1200&dpr=1.0 -->
+
+अमूल और मदर डेयरी ने नवंबर 2026 में दूध के दाम बढ़ा दिए हैं। ताजा और गोल्ड समेत सभी श्रेणियों में नए रेट लागू हो गए हैं। उपभोक्ताओं को अब अधिक मूल्य चुकाना होगा। आज से महंगा हुआ दूध: अमूल ताजा से गोल्ड तक बढ़े दाम, मदर डेयरी ने भी दिया झटका; जानें कितना बढ़ा रेट amul mother dairy milk prices hike new rates november 2026।
+
+### [डीएमके नेता अनबिल महेश को मिलेगी राहत?: हाईकोर्ट में आज याचिका पर सुनवाई संभव, रिश्वतखोरी केस में](https://www.amarujala.com/india-news/will-dmk-leader-anbil-mahesh-get-relief-hearing-on-his-petition-likely-in-high-court-today-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:12 IST (iso: 2026-11-12T03:42:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/anabl-mahasha_5827e62dde7dec54d38770e64032d841.jpeg?w=1200&dpr=1.0 -->
+
+डीएमके नेता अनबिल महेश की रिश्वतखोरी केस में याचिका पर हाईकोर्ट में सुनवाई हो सकती है। वह वर्तमान में जेल में बंद हैं। अदालत का फैसला उनकी राहत के लिए निर्णायक साबित होगा। डीएमके नेता अनबिल महेश को मिलेगी राहत?: हाईकोर्ट में आज याचिका पर सुनवाई संभव, रिश्वतखोरी केस में हैं जेल में Will DMK leader Anbil Mahesh get relief?
+
+### [सपा और बसपा का बिगड़ेगा खेल? ओवैसी-चंद्रशेखर के गठबंधन से बदलेंगे सियासी समीकरण, किसे होगा ज्यादा](https://www.amarujala.com/uttar-pradesh/meerut/asaduddin-owaisi-and-chandrashekhar-azad-alliance-will-sp-bsp-lose-ground-in-uttar-pradesh-politics-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 09:10 IST (iso: 2026-11-12T03:40:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/asaduddin-owaisi-and-chandrashekhar-azad_e3d6ccafe2a4fc4c739aa72b8a95a082.jpeg?w=1200&dpr=1.0 -->
+
+असदुद्दीन ओवैसी और चंद्रशेखर आजाद के गठबंधन से पश्चिमी उत्तर प्रदेश में सियासी समीकरण बदलेंगे। यह भाजपा और सपा की सीधी लड़ाई के समीकरण को प्रभावित करेगा। नए गठबंधन से वोटों का बंटवारा बदलेगा। असदुद्दीन ओवैसी और चंद्रशेखर आजाद की पार्टियों के गठबंधन से पश्चिमी उत्तर प्रदेश में नए सियासी समीकरण उभरकर सामने आएंगे। अभी तक भाजपा और सपा सीधी लड़ाई की तैयारी कर रहे थे।
+
+### ['टॉक्सिक' में इंटीमेट सीन देकर घिरी थीं अभिनेत्री, अब बताया कैसा था सिद्धार्थ का रिएक्शन](https://www.amarujala.com/entertainment/kiara-advani-break-silence-on-trolling-she-faced-over-intimate-scenes-in-toxic-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 08:12 IST (iso: 2026-11-12T02:42:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/09/sathathharatha-malhatara-kayara-aadavanae_b0daae11f2c235854dc0cb86fa6f97e6.jpeg?w=1200&dpr=1.0 -->
+
+अभिनेत्री कियारा अडवाणी ने 'टॉक्सिक' फिल्म के इंटीमेट सीन के बारे में बात की। उन्होंने 'कॉफी विद करण 9' में यह जानकारी साझा की। इस दौरान उन्होंने सिद्धार्थ मल्होत्रा की प्रतिक्रिया का भी जिक्र किया। कियारा और सिद्धार्थ हाल ही में शो 'कॉफी विद करण 9' का हिस्सा बने। इसमें अभिनेत्री ने 'टॉक्सिक' फिल्म में दिए इंटीमेट सीन को लेकर बात की।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [भारत में पहलों की प्रशंसा उत्साहजनक, अभी भी बरकरार हैं कई चुनौतियां](https://www.amarujala.com/columns/opinion/water-management-world-bank-praise-for-initiatives-in-india-encouraging-yet-many-challenges-remain-2026-11-12)
-*Amar Ujala National* - Nov 12, 04:26 IST (iso: 2026-11-11T22:56:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/09/world-bank-vashava-bka_657bdfa14940ba3b3b1c90f5925d70ac.jpeg?w=1200&dpr=1.0 -->
+### [जासूसी कांड के बाद सीईओ हुआंग की छुट्टी की तैयारी में बोर्ड; शेयर 8% टूटे, समझें](https://www.amarujala.com/business/bazaar/nvidia-board-preparing-to-oust-ceo-jensen-huang-amid-chinese-spy-scandal-shares-plunge-8-after-hours-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:49 IST (iso: 2026-11-12T04:19:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/nvidia-ceo-jensen-huang-affair-alleged-chinese-spy-alice-huang-us-president-donald-trump_da57dc7d8b14f602d48ce1c2e5f95060.jpeg?w=1200&dpr=1.0 -->
 
-भारत के जल प्रबंधन प्रयासों की अंतरराष्ट्रीय स्तर पर प्रशंसा हो रही है। हालांकि, कई संरचनात्मक चुनौतियां अभी भी बनी हुई हैं। जल प्रबंधन की मिसाल: भारत में पहलों की प्रशंसा उत्साहजनक, अभी भी बरकरार हैं कई चुनौतियां।
+एनवीडिया के बोर्ड ने सीईओ जेन्सन हुआंग को हटाने की तैयारी शुरू कर दी है। चीनी जासूसी के आरोपों के बाद कंपनी के शेयर 8 प्रतिशत गिर गए। यह घटना भू-राजनीतिक संकट को दर्शाती है। एआई चिप दिग्गज एनवीडिया के बोर्ड ऑफ डायरेक्टर्स सीईओ जेन्सन हुआंग को पद से हटाने की तैयारी कर रहे हैं। कथित चीनी जासूस से संबंधों के खुलासे और शेयरों में भारी गिरावट के बीच समझिए इस भू-राजनीतिक संकट की पूरी कहानी।
 
-### [दिल्ली में AQI के रिकॉर्ड टूटे; स्वच्छता सर्वे में NDMC को दूसरा स्थान; इरा सबसे युवा स्कूबा डाइवर](https://www.amarujala.com/india-news/top-news-12-november-2026-delhi-pollution-3-year-record-ira-scuba-diver-anirudh-wedding-2026-11-12)
-*Amar Ujala National* - Nov 12, 04:18 IST (iso: 2026-11-11T22:48:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
+### [Nvidia CEO जेंसेन हुआंग की जाएगी कुर्सी, 2-2 महिलाओं से रिश्ते, जासूसी के आरोपों ने बर्बाद किया](https://hindi.news18.com/world/america-jensen-huang-scandal-update-nvidia-board-considers-ouster-over-affair-spy-row-china-ws-l-10980456.html)
+*News18 Hindi (World)* - Nov 12, 09:40 IST (iso: 2026-11-12T04:10:08+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/jensung-huang-2026-11-096d5dd42f284f08f2581f5d446f5ba1-1200x800.jpg -->
 
-दिल्ली में वायु गुणवत्ता सूचकांक के रिकॉर्ड टूट गए। स्वच्छता सर्वे में एनडीएमसी को दूसरा स्थान मिला। इरा को सबसे युवा स्कूबा डाइवर का खिताब मिला। सुर्खियां: दिल्ली में AQI के रिकॉर्ड टूटे; स्वच्छता सर्वे में NDMC को दूसरा स्थान; इरा सबसे युवा स्कूबा डाइवर।
+न्यूयॉर्क टाइम्स ने दावा किया कि जेन्सेन हुआंग का कंपनी की वरिष्ठ अधिकारी के साथ भी संबंध रहा। यह आरोप उनके चीनी महिला से विवाहेतर संबंध के बाद आया है। Jensen Huang Ouster over Affair: दुनिया की जानी-मानी टेक कंपनी Nvidia में पिछले दिनों जो कुछ भी हुआ, पूरी दुनिया ने देखा है. सीईओ जेंसेन हुआंग के चीनी जासूस से अफेयर के किस्सों से लेकर उनका तलाक तक चर्चा में रहा.
 
-### [विदेश से लौटे 77 फीसदी अभ्यर्थी भारत में फेल, जून के मुकाबले अक्तूबर में 10% अंक का सुधार](https://www.amarujala.com/india-news/medical-profession-77-pc-foreign-return-students-fails-in-india-10-pc-improvement-in-october-compared-to-june-2026-11-12)
-*Amar Ujala National* - Nov 12, 04:14 IST (iso: 2026-11-11T22:44:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/26/doctor-nurse_9f8bbb50d519e01d827211fb5da1e7f9.jpeg?w=1200&dpr=1.0 -->
+### [एनवीडिया के सीईओ जेन्सेन हुआंग पर एक और कथित संबंध का आरोप, न्यूयॉर्क टाइम्स की रिपोर्ट में दावा](https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-kimberly-powell-alleged-affair-nyt-21043272)
+*Patrika (World)* - Nov 12, 09:37 IST (iso: 2026-11-12T04:07:19+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-8.webp -->
 
-विदेश से लौटे 77 फीसदी अभ्यर्थी भारत में फेल हुए। अक्तूबर में जून के मुकाबले 10 प्रतिशत अंक में सुधार दर्ज हुआ। यह डॉक्टरी डिग्री परीक्षा का परिणाम है। डॉक्टरी की डिग्री: विदेश से लौटे 77 फीसदी अभ्यर्थी भारत में फेल, जून के मुकाबले अक्तूबर में 10% अंक का सुधार।
+न्यूयॉर्क टाइम्स की रिपोर्ट में दावा किया गया कि जेन्सेन हुआंग का कंपनी की एक वरिष्ठ अधिकारी के साथ संबंध रहा। यह जानकारी उनके चीनी महिला से विवाहेतर संबंध के बाद सामने आई है। Jensen Huang Kimberly Powell: एनवीडिया के CEO जेन्सेन हुआंग कुछ दिनों से वैश्विक मीडिया में सुर्खियां बटोर रहे हैं। इसकी वजह से उनका चीनी महिला कारोबारी के संग विवाहेतर संबंध।
 
-### [ट्रंप के टैरिफ पर अमीश शाह का वार: भारतीय कारोबारियों की पैरवी करेंगे, अमेरिकी कांग्रेस में क्या](https://www.amarujala.com/world/amish-shah-us-congress-priorities-donald-trump-tariffs-healthcare-2026-11-12)
-*Amar Ujala World* - Nov 12, 03:38 IST (iso: 2026-11-11T22:08:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/amasha-shaha-amaraka-sasatha_ea5b5b14ca8e02e3845e77dde671f73d.jpeg?w=1200&dpr=1.0 -->
+### [उपराष्ट्रपति का स्कूल सर्टिफिकेट निकला फर्जी? कोर्ट की लताड़ के बाद दिया इस्तीफा, इंडोनेशिया में](https://hindi.news18.com/world/south-asia-indonesia-vice-president-resigns-over-high-school-certificate-ruled-invalid-by-court-ws-l-10980649.html)
+*News18 Hindi (World)* - Nov 12, 09:35 IST (iso: 2026-11-12T04:05:36+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/indonesia-news-2026-11-34bf0e88469b6f454d106fe9585d022f-1200x800.jpg -->
 
-अमीश शाह ने ट्रंप के टैरिफ पर भारतीय कारोबारियों की पैरवाई का वादा किया। अमेरिकी कांग्रेस में इसका एजेंडा बनने की संभावना है। यह वाणिज्यिक तनाव का प्रतिक्रिया है। ट्रंप के टैरिफ पर अमीश शाह का वार: भारतीय कारोबारियों की पैरवी करेंगे, अमेरिकी कांग्रेस में क्या होगा एजेंडा?
+इंडोनेशिया के उपराष्ट्रपति ने स्कूल सर्टिफिकेट फर्जी निकलने के बाद इस्तीफा दे दिया। कोर्ट की लताड़ के बाद उन्होंने पद से हाथ धोने का फैसला किया। Indonesia President Resignation: आपको राष्ट्रपति और उपराष्ट्रपति जैसे पद से भी हाथ धोना पड़ सकता है, अगर आपके स्कूल के कागज सही नहीं हों. कुछ ऐसा ही हुआ इंडोनेशिया में, जब वहां के वाइस प्रेसिडेंट को अपने स्कूल के एक कागज की वजह से इस्तीफा देना पड़ गया है.
 
-### [दिल्ली में 996 स्थानों पर बने 1482 छठ घाट, 74 एजेंसियां संभाल रहीं तैयारियां; अधिकारी-मंत्री मौके पर](https://www.amarujala.com/delhi-ncr/1-482-chhath-ghats-set-up-at-996-locations-in-delhi-74-agencies-overseeing-preparations-2026-11-12)
-*Amar Ujala Breaking* - Nov 12, 02:56 IST (iso: 2026-11-11T21:26:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/1_9696a11d53e217086afde455fffe0c1c.jpeg?w=1200&dpr=1.0 -->
+### [दृष्टिबाधितों के लिए रास्ता खोजने की राह आसान बनाएगा आईआईआईटी दिल्ली, कौन सी तकनीक करेगा विकसित?](https://www.amarujala.com/education/iiit-delhi-to-develop-audio-ar-tech-to-help-visually-impaired-navigate-indoor-spaces-easily-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:19 IST (iso: 2026-11-12T03:49:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/iiit-delhi-to-develop-audio-ar-tech_aa8a15129091edbb42788bdf20a6ef71.jpeg?w=1200&dpr=1.0 -->
 
-दिल्ली में छठ महापर्व के लिए 1482 घाट तैयार किए गए हैं। 74 एजेंसियां इन स्थानों की देखभाल कर रही हैं। अधिकारियों ने मौके पर जाकर तैयारियों का जायजा लिया। छठ महापर्व पर श्रद्धालुओं की सुविधा के लिए दिल्ली में व्यापक इंतजाम किए गए हैं। दिल्ली में 996 स्थानों पर बने 1482 छठ घाट, 74 एजेंसियां संभाल रहीं तैयारियां; अधिकारी-मंत्री मौके पर।
+आईआईटी दिल्ली का 'पाथसेंस' प्रोजेक्ट ऑडियो तकनीक विकसित कर रहा है। यह दृष्टिबाधित व्यक्तियों को अस्पतालों और बड़ी इमारतों में बिना सहायता के रास्ता ढूंढने में सक्षम बनाएगा। शोध स्वतंत्रता को बढ़ावा देगा। आईआईआईटी दिल्ली के इस शोध का नाम 'पाथसेंस' प्रोजेक्ट है। शोधकर्ता एक अनोखी ऑडियो तकनीक पर काम कर रहे हैं। यह दृष्टिबाधितों को बिना किसी की मदद के बड़े अस्पतालों और इमारतों में खुद रास्ता ढूंढने में सक्षम बनाएगी।
 
-### [पाकिस्तान में पुलिस टीम पर आतंकी हमला: 18 हमलावर ढेर, 11 सुरक्षाकर्मियों की मौत; अवैध खनन बना हमले](https://www.amarujala.com/world/pakistan-khyber-pakhtunkhwa-terror-attack-18-killed-2026-11-12)
-*Amar Ujala Breaking* - Nov 12, 01:30 IST (iso: 2026-11-11T20:00:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/21/pakasatana-ma-palsa-afasara-ka-hataya_05c7e1c6278dbd2b529a72c3fca614fe.jpeg?w=1200&dpr=1.0 -->
+### [चीनी जासूस से अफेयर के आरोपों में घिरे NVIDIA CEO जेन्सेन हुआंग, जा सकती है कुर्सी; अमेरिका की](https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-china-spy-affair-national-security-scandal-21043042)
+*Patrika (World)* - Nov 12, 08:42 IST (iso: 2026-11-12T03:12:12+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Jensen-Huang-Affair.webp -->
 
-खैबर पख्तूनख्वा में पुलिस टीम पर हमले में 11 सुरक्षाकर्मियों की मौत हुई। 18 आतंकी मारे गए। अवैध खनन पर विवाद इस घटना की प्रमुख वजह माना जा रहा है। पाकिस्तान में पुलिस टीम पर आतंकी हमला: 18 हमलावर ढेर, 11 सुरक्षाकर्मियों की मौत; अवैध खनन बना हमले की वजह?
-
-### [जहरीली हवा ने तोड़ा तीन साल का रिकॉर्ड, पटाखों के धुएं और प्लास्टिक ने बिगाड़ी दिल्ली की फिजा](https://www.amarujala.com/delhi-ncr/delhi-toxic-air-breaks-a-three-year-record-smoke-from-firecrackers-worsens-the-city-s-atmosphere-2026-11-12)
-*Amar Ujala Breaking* - Nov 12, 01:13 IST (iso: 2026-11-11T19:43:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/1_eed10ad21124cbd25a18a06d2e4cbad4.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली-एनसीआर में प्रदूषण ने तीन साल पुराने रिकॉर्ड को तोड़ दिया। पटाखों का धुआं और प्लास्टिक जलाने ने हवा की गुणवत्ता को और बिगाड़ दिया है। दिल्ली-एनसीआर की हवा में प्रदूषण का जहर केवल पराली जलाने और दिवाली के पटाखों से नहीं घुल रहा है। जहरीली हवा ने तोड़ा तीन साल का रिकॉर्ड, पटाखों के धुएं और प्लास्टिक ने बिगाड़ी दिल्ली की फिजा।
-
-### [‘8 साल की दो या 4-4 साल की चार लड़कियों से शादी’, बयान पर PAK मौलवी की लगी क्लास](https://www.abplive.com/news/world/pakistani-cleric-child-bride-joke-sparks-outrage-on-social-media-users-criticised-in-post-3213750)
-*ABP Live (World)* - Nov 11, 22:49 IST (iso: 2026-11-11T17:19:28+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/11/fa7c927863bc5d390f1de0dde51d4c3617944170844791126_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-पाकिस्तानी मौलवी मुफ्ती तारिक मसूद ने बाल विवाह का बचाव किया। उन्होंने आठ साल की दो या चार साल की चार लड़कियों से शादी की सलाह दी। इस बयान पर सोशल मीडिया में भारी आलोचना हुई। पाकिस्तान के एक इस्लामिक उपदेशक मुफ्ती तारिक मसूद ने बाल विवाह का बचाव करते हुए कई ऐसी बातें कहीं और उपदेश दिए हैं, जिसके वीडियो सामने आने के बाद सोशल मीडिया पर मुफ्ती की काफी फजीहत हो रही है और उसे आलोचना का सामना करना पड़ रहा है.
-
-### [बेनजीर के घर डिनर पर अचानक क्यों तेज हो जाता था म्यूजिक? सोनिया गांधी ने बताई पाकिस्तान यात्रा की](https://hindi.news18.com/news/nation/why-music-suddenly-get-louder-during-dinner-at-benazir-butto-house-sonia-gandhi-shares-her-pakistan-visit-story-10980031.html)
-*News18 Hindi (World)* - Nov 11, 22:11 IST (iso: 2026-11-11T16:41:25+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Sonia-Gandhi-on-Benazir-2026-11-b57c4e002727aa51841deacdbdd69d5b-1200x800.jpg -->
-
-सोनिया गांधी की नई किताब में जुलाई 1989 की पाकिस्तान यात्रा का किस्सा सामने आया। राजीव गांधी के साथ इस्लामाबाद पहुंचने पर बेनजीर भुट्टो ने निजी डिनर पर बुलाया था। राजनीतिक बातचीत शुरू होते ही बेनजीर अचानक संगीत की आवाज तेज कर देती थीं। Sonia Gandhi on Pakistan: सोनिया गांधी की नई किताब में पाकिस्तान से जुड़ा एक ऐसा किस्सा सामने आया है, जो वहां की सत्ता व्यवस्था की पोल खोलता है.
+अमेरिकी कांग्रेस ने NVIDIA सीईओ जेन्सेन हुआंग की जांच की मांग की है। एक महिला के साथ उनके संबंधों का खुलासा हुआ है। उस महिला पर चीनी खुफिया एजेंसी से जुड़ाव का संदेह है। यह मामला राष्ट्रीय सुरक्षा को लेकर सवाल खड़ा कर रहा है। एक महिला के साथ उनके अफेयर को लेकर ऐसा खुलासा हुआ है, जिसने अमेरिका की राष्ट्रीय सुरक्षा पर भी सवाल खड़े कर दिए हैं।
 
 ---
 
-## अमेरिका
+## मध्य पूर्व और अफ्रीका
 
-### [एनवीडिया सीईओ हुआंग ने मांगी माफी, जांच के लिए उतारा अमेरिका की दिग्गज लॉ फर्म](https://www.amarujala.com/world/nvidia-hires-top-us-law-firm-to-investigate-jensen-huang-amid-espionage-controversy-2026-11-12)
-*Amar Ujala World* - Nov 12, 04:24 IST (iso: 2026-11-11T22:54:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/02/17/ashavana-vashhanaeva-na-enavadaya-saiio-janasana-haaaga-ka-idaya-eaaii-samata-ma-naha-pahaca-pana-ka-karanae-btaya_9f1726be6cc7d15571b2369ac2b425a4.jpeg?w=1200&dpr=1.0 -->
+### [ट्रंप-नेतन्याहू के बीच तीखी बहस का दावा: फोन पर बातचीत चिल्लाने तक पहुंची, ईरान पर कार्रवाई को लेकर](https://www.amarujala.com/world/donald-trump-benjamin-netanyahu-heated-phone-call-over-iran-war-military-action-peace-talks-2026-11-12)
+*Amar Ujala World* - Nov 12, 09:45 IST (iso: 2026-11-12T04:15:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/iran-israel-war_68f33cf0b23c4a75a6a3a0050bc64ed6.jpeg?w=1200&dpr=1.0 -->
 
-एनवीडिया के सीईओ जेन्सन हुआंग ने जासूसी विवाद पर माफी मांगी। कंपनी ने अमेरिकी लॉ फर्म को जांच के लिए नियुक्त किया है। एनवीडिया सीईओ हुआंग ने मांगी माफी, जांच के लिए उतारा अमेरिका की दिग्गज लॉ फर्म।
+ट्रंप और नेतन्याहू के बीच ईरान पर कार्रवाई को लेकर फोन पर तीखी बहस हुई। दोनों नेताओं के बीच मतभेद उभरे और बातचीत चिल्लाने तक पहुंची। ट्रंप-नेतन्याहू के बीच तीखी बहस का दावा: फोन पर बातचीत चिल्लाने तक पहुंची, ईरान पर कार्रवाई को लेकर।
 
-### [कभी खुद के नाम से जोड़ा 250 फीट का आर्च: अब पूर्व सैनिकों के सम्मान का हवाला; ट्रंप की योजना पर](https://www.amarujala.com/world/donald-trump-washington-military-triumphal-arch-veterans-controversy-2026-11-12)
-*Amar Ujala Breaking* - Nov 12, 02:07 IST (iso: 2026-11-11T20:37:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/07/danalda-tarapa_e457486feeac9f2191d0a0bc1fb48b18.jpeg?w=1200&dpr=1.0 -->
+### [अबू धाबी में यूएफसी स्टार पर हमला, होटल लॉबी में 12 लोगों ने घेरकर पीटा, खून से लथपथ हुआ चेहरा](https://www.amarujala.com/sports/ufc-merab-dvalishvili-left-bloodied-after-abu-dhabi-hotel-lobby-attack-makhachev-defends-usman-nurmagomedov-2026-11-12)
+*Amar Ujala Breaking* - Nov 12, 08:32 IST (iso: 2026-11-12T03:02:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/usman-nurmagomedov-islam-makhachev-ilia-topuria-ufc-merab-dvalishvili-abu-dhabi-attack-ufc-n_237b02b7cf46e319f5f7a68dda4d1bf0.jpeg?w=1200&dpr=1.0 -->
 
-ट्रंप की 250 फीट लंबे आर्च की योजना पर विवाद है। पहले इसे उनके नाम पर बनाने की बात थी। अब पूर्व सैनिकों के सम्मान का हवाला दिया जा रहा है। कभी खुद के नाम से जोड़ा 250 फीट का आर्च: अब पूर्व सैनिकों के सम्मान का हवाला; ट्रंप की योजना पर संकट क्यों?
+अबू धाबी के एक होटल लॉबी में UFC चैंपियन मराब ड्वालिश्विली पर हमला हुआ। 12 से 15 लोगों ने उन्हें और उनके साथी को घेरकर पीटा। इस घटना में ड्वालिश्विली का चेहरा खून से लथपथ हो गया। UFC के पूर्व बेंटमवेट चैंपियन मराब ड्वालिश्विली पर अबू धाबी के एक होटल की लॉबी में हमला हुआ। अबू धाबी में यूएफसी स्टार पर हमला, होटल लॉबी में 12 लोगों ने घेरकर पीटा, खून से लथपथ हुआ चेहरा।
 
----
+### [पीट हेगसेथ पर फिर लटकी महाभियोग की तलवार? प्रमिला जयपाल बोलीं- अगले साल लाएंगे प्रस्ताव](https://www.amarujala.com/world/indian-american-congresswoman-pramila-jayapal-pledges-pete-hegseth-impeachment-next-year-2026-11-12)
+*Amar Ujala World* - Nov 12, 08:24 IST (iso: 2026-11-12T02:54:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/bharataya-mal-ka-amaraka-sasatha-paramal-jayapal_07e728ae76a2eed7ae6bc9cf4598986f.jpeg?w=1200&dpr=1.0 -->
 
-## वैश्विक / बहुपक्षीय
-
-### [एक्सप्रेसवे की टनल में 200 की स्पीड से दौड़ रही कार दीवार से टकराई, लगी आग; हादसे में युवक की मौत](https://www.amarujala.com/delhi-ncr/major-accident-in-dwarka-expressway-tunnel-young-man-dies-2026-11-12)
-*Amar Ujala Breaking* - Nov 12, 02:56 IST (iso: 2026-11-11T21:26:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/1_183cea5391b2c8541affffc87c8b81f6.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली-गुरुग्राम एक्सप्रेसवे की टनल में हादसा हुआ। 200 किमी प्रति घंटे की रफ्तार से दौड़ रही कार दीवार से टकराई। आग लगने से एक युवक की मौत हो गई। द्वारका और यशोभूमि को सीधे इंदिरा गांधी अंतरराष्ट्रीय (आईजीआई) एयरपोर्ट और गुरुग्राम से जोड़ने वाली द्वारका एक्सप्रेसवे की टनल में एक युवक करीब 200 किलोमीटर प्रति घंटे की रफ्तार से कार दौड़ा रहा था।
+अमेरिकी कांग्रेसमैन प्रमिला जयपाल ने पीट हेगसेथ के खिलाफ महाभियोग प्रस्ताव लाने की घोषणा की है। उन्होंने बताया कि अगले साल इस प्रस्ताव को पेश किया जाएगा। यह कदम हेगसेथ के खिलाफ नए आरोपों के बीच उठाया गया है। अमेरिका: पीट हेगसेथ पर फिर लटकी महाभियोग की तलवार? प्रमिला जयपाल बोलीं- अगले साल लाएंगे प्रस्ताव।
 
 ---
 
 ## यूरोप और रूस
 
-### [अमेरिका में रूसी राजदूत का निधन: 66 साल की उम्र में अलेक्जेंडर ने ली अंतिम सांस, कैसा रहा कूटनीतिक](https://www.amarujala.com/world/russian-ambassador-alexander-darchiev-dies-at-66-2026-11-12)
-*Amar Ujala World* - Nov 12, 01:07 IST (iso: 2026-11-11T19:37:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/alkajadara-daracaeva-naha-raha_81a30f283235eae140973949851726be.jpeg?w=1200&dpr=1.0 -->
+### [करोड़ों रुपये खर्च करके बनाए शानदार घर, आज तक नहीं आया कोई रहने, जानें 'घोस्ट एस्टेट' क्यों चर्चा](https://www.amarujala.com/bizarre-news/7-years-without-residents-the-mysterious-story-of-britain-abandoned-housing-estate-2026-11-12)
+*Amar Ujala National* - Nov 12, 09:31 IST (iso: 2026-11-12T04:01:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/isa-kalna-ka-kahana-harana-kara-thaga_32fa982cdba98649771be30e841443e8.jpeg?w=1200&dpr=1.0 -->
 
-रूस के अमेरिका में राजदूत अलेक्जेंडर डार्चिएव का निधन हो गया। उनकी उम्र 66 वर्ष थी। वे लंबे समय तक कूटनीतिक सेवा में सक्रिय रहे थे। अमेरिका में रूसी राजदूत का निधन: 66 साल की उम्र में अलेक्जेंडर ने ली अंतिम सांस, कैसा रहा कूटनीतिक सफर?
+ब्रिटेन के कॉर्नवॉल में 33 घरों के आलीशान प्रोजेक्ट का एक हिस्सा अधूरा रह गया है। 2019 से बने 10 घर आज तक खाली पड़े हैं। करोड़ों रुपये खर्च करके बनाए ये घर किसी के रहने के लिए नहीं आए। इसे घोस्ट एस्टेट कहा जा रहा है। ब्रिटेन के कॉर्नवॉल में 33 घरों का एक आलीशान हाउसिंग प्रोजेक्ट अधूरा रह गया।
 
-### [‘जॉर्जिया मेलोनी की कार में बम फिट है’, इटली में मचा हड़कंप, खाली कराए गए 300 स्कूल](https://hindi.news18.com/world/europe-italy-bomb-threat-300-schools-evacuated-pm-giorgia-meloni-targeted-in-terror-emails-says-bomb-in-car-engine-italians-genocide-threat-10980184.html)
-*News18 Hindi (World)* - Nov 11, 23:33 IST (iso: 2026-11-11T18:03:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Italy-Bomb-Threat-2026-11-8cbeeec80299bb9c614fa641f19847f4-1200x800.jpg -->
+### [नॉर्वे की पत्रकार हेले ने किया वीजा रद्द होने का दावा: कांग्रेस के भारत समिट में लेना था हिस्सा](https://www.amarujala.com/world/norwegian-journalist-helle-lyng-claims-indian-visa-cancelled-congress-bharat-summit-2026-11-12)
+*Amar Ujala World* - Nov 12, 08:17 IST (iso: 2026-11-12T02:47:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/helle-lyng_71ea20f5749db8dd672033621a080a8d.jpeg?w=1200&dpr=1.0 -->
 
-इटली में 300 स्कूलों को बम धमकी मिली। धमकी में प्रधानमंत्री जॉर्जिया मेलोनी की कार का जिक्र था। सभी स्कूलों को तुरंत खाली कराया गया। पुलिस और बम स्क्वॉड टीमों ने देशभर में जांच शुरू की। इटली में एक साथ 300 स्कूलों को बम से उड़ाने की धमकी मिली है. इसमें प्रधानमंत्री जॉर्जिया मेलोनी की कार को भी निशाना बनाने की बात कही गई है, जिससे पूरे देश में हड़कंप मच गया है.
-
-### [बजरी की खदान में चल रही थी खुदाई, अचानक अटक गया फावड़ा, फूटा 3000 साल पुराने खजाने का फव्वारा](https://hindi.news18.com/world/rest-of-world-treasure-of-villena-spain-3000-year-old-bronze-age-gold-hoard-contains-rare-meteoritic-iron-forged-from-space-metal-10980100.html)
-*News18 Hindi (World)* - Nov 11, 22:30 IST (iso: 2026-11-11T17:00:00+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Treasure-of-Villena-Spain-2026-11-4367a2589a36b52d9e8c2af145ec1643-1200x800.jpg -->
-
-स्पेन की विलेना खदान में 3000 साल पुराना खजाना मिला। इसमें 60 से अधिक सोने के बर्तन और गहने शामिल हैं। खोज में अंतरिक्ष से गिरे उल्कापिंड के दुर्लभ लोहे के टुकड़े भी मिले। स्पेन की एक खदान में 3,000 साल पुराना खजाना मिला है. इस 'ट्रेजर ऑफ विलेना' ने दुनिया भर के वैज्ञानिकों को हैरान कर दिया है. इस खजाने में 60 से ज्यादा सोने के बर्तन और गहने मिले हैं.
+नॉर्वेजियन पत्रकार हेले लिंग ने दावा किया कि भारत में उनके वीजा को रद्द कर दिया गया। वह कांग्रेस पार्टी के भारत समिट में भाग लेने के लिए आए थे। वीजा रद्द होने की वजह से वह समिट में शामिल नहीं हो पाए। नॉर्वे की पत्रकार हेले ने किया वीजा रद्द होने का दावा: कांग्रेस के भारत समिट में लेना था हिस्सा।
 
 ---
 

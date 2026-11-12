@@ -1,50 +1,80 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 12, 2026 04:41 IST
+**Updated:** November 12, 2026 10:02 IST
 
 ---
 
-## Asia-Pacific
+## Europe & Russia
 
-### [Melaka votes, Putrajaya watches - the hotly contested state polls could be harbinger of next](https://www.channelnewsasia.com/commentary/malaysia-election-melaka-votes-alliance-next-ge-6535331)
-*Channel News Asia* - Nov 12, 03:30 IST (iso: 2026-11-11T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--F0laql1D--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/bn_event_fb_ab_rauf_yusoh.jpeg?itok=6bNxYh6Z -->
+### [Protesters clash with police in Spain after huge housing cost rallies](https://www.thehindu.com/news/international/protesters-clash-with-police-in-spain-after-huge-housing-cost-rallies/article71692238.ece)
+*The Hindu (International)* - Nov 12, 09:35 IST (iso: 2026-11-12T04:05:30+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/3gsdxv/article71692274.ece/alternates/LANDSCAPE_1200/AP11_12_2026_000008A.jpg -->
 
-Malaysia's Melaka state election serves as a testing ground for political alliances ahead of the next general election. Parties are experimenting with new coalitions in the region. The outcome will likely shape the broader national political landscape and future governance structures. The upcoming state poll is not really about Melaka. It is a testbed where Malaysia’s warring political parties will experiment with new alliances that are set to determine the shape of the next general election, writes CNA’s Leslie Lopez.
+Protesters clashed with police in Spain following large rallies against high housing costs. The demonstrations signal deep public discontent ahead of a snap election this month. Right-wing opposition parties are expected to defeat Socialist Prime Minister Pedro Sanchez in the upcoming vote. The size of the demonstrations has been seen as an indicator of public discontent before a snap election set for this month, in which the right-wing opposition is expected to defeat Socialist Prime Minister Pedro Sanchez.
 
-### [Don’t let Taiwan’s silicon shield become a US silicon trap](https://asiatimes.com/2026/11/dont-let-taiwans-silicon-shield-become-a-us-silicon-trap/)
-*Asia Times* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:58+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/TSMC-Taiwan-China-.jpg -->
+### [Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case](https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case)
+*The Guardian* - Nov 11, 21:35 IST (iso: 2026-11-11T16:05:45+00:00)
+<!-- image: https://i.guim.co.uk/img/media/74aeb469d38039f0e21eb808a8dd9a246b6470ec/534_0_5343_4275/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da3204f3ad80f79abea8e3a1ce4d8157 -->
 
-TSMC is investing heavily in US semiconductor fabrication. This brings encouraging news for the struggling US economy. However, reliance on a single foreign supplier creates strategic risks for American supply chains. As the midterms loudly demonstrated, there is considerable gloom over the US economy. Cause for economic optimism is in short supply, though there is some encouraging news regarding US-based semiconductor fabrication spurred by enormous investments from the huge Taiwan company TSMC.
+Argentina's lawyer Marcelo Kohen mocked Britain's sovereignty claims in a Hamburg tribunal hearing. He argued the UK should not act as a colonial power. Kohen rejected the historic doctrine of British maritime dominance over Falklands waters. Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceansBritain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici, Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing in Hamburg, mocked Britain for apparently belie.
 
-### [China fast-tracks mobile ICBM to lock down second-strike edge](https://asiatimes.com/2026/11/china-fast-tracks-mobile-icbm-to-lock-down-second-strike-edge/)
-*Asia Times* - Nov 10, 11:38 IST (iso: 2026-11-10T06:08:04+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile.jpeg -->
+### [Wartime memory shows China-Russia ties far from ‘limitless’](https://asiatimes.com/2026/11/wartime-memory-shows-china-russia-ties-far-from-limitless/)
+*Asia Times* - Nov 11, 12:37 IST (iso: 2026-11-11T07:07:24+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Putin-World-War-II-Commemoration.jpg -->
 
-China has rapidly deployed a new road-mobile intercontinental ballistic missile to strengthen its second-strike capability. The system addresses technical flaws in earlier models and improves survivability. This move accelerates the modernization of its land-based nuclear deterrent against potential adversaries. China’s rapid operational integration of a new type of intercontinental ballistic missile (ICBM) underscores an accelerating push to modernize its land-based deterrent, addressing key technical vulnerabilities of earlier systems while fortifying second-strike survivability amid an unprecedented nuclear expansion.
+China and Russia have aligned their official memories of the Second World War for over a decade. They stage joint commemorations and coordinate remembrance dates. This memory alliance reveals their ties are far from limitless despite shared narratives. For more than a decade, China and Russia have sought to align their official memories of the Second World War. They have staged prominent joint commemorations and military parades, while also coordinating remembrance dates and harmonizing their official discourses about the war.
 
-### [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)
-*The Guardian* - Nov 08, 08:30 IST (iso: 2026-11-08T03:00:28+00:00)
-<!-- image: https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa1a8b3cf4e2a78849c21902c5dbd10 -->
+### [Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK](https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts)
+*The Guardian* - Nov 11, 00:31 IST (iso: 2026-11-10T19:01:33+00:00)
+<!-- image: https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6961005e80797627b18bb63557b07eba -->
 
-Activists warn that Thailand may deport Uyghurs to China under pressure from Beijing. Two men face deportation, with one stating he would be treated like a slave if sent back. Thai authorities forcibly deported 40 Uyghurs last year, raising fears of severe human rights abuses. Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. Last year, Thai authorities forcibly deported 40 Uyghu.
+Argentina told the Hamburg tribunal that Britain’s approval of the Sea Lion oil project deepened the Falklands sovereignty dispute. The legal clash marks a historic confrontation over drilling rights in the North Falkland basin. The dispute traces back to the war four decades ago. Sea Lion project in the North Falkland basin threatens to deepen sovereignty disputeArgentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war four decades ago. At the start of an historic legal clash at the Hamburg-based International Tribunal for the Law of the Sea (Itlos), an Argent.
+
+### [Moscow Police Detain Hundreds Of Youths, Pressure Those Of Military Age Into Service](https://www.rferl.org/a/moscow-police-detain-hundreds-of-youths/33894696.html)
+*Radio Free Europe / Liberty* - Nov 10, 20:44 IST (iso: 2026-11-10T15:14:09+00:00)
+<!-- image: https://gdb.rferl.org/36bcad79-18f0-4813-ec84-08df13afe2a0_w1200_h630.jpg -->
+
+Moscow police detained hundreds of youths, including children, during a raid on an alternative gathering. Detainees reported beatings and denial of basic needs. Adults received draft notices or faced pressure to sign army contracts. Police labeled the action a preventive operation. Hundreds, including children, were detained in a raid on an alternative youth gathering in central Moscow. Detainees reported beatings and being denied water and toilets.
+
+### [Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role](https://www.rferl.org/a/russia-ukraine-abu-dhabi-war-peace-talks/33894644.html)
+*Radio Free Europe / Liberty* - Nov 10, 20:05 IST (iso: 2026-11-10T14:35:45+00:00)
+<!-- image: https://gdb.rferl.org/2e986cd9-d285-4809-be13-dacc2a100f44_cx4_cy13_cw94_w1200_h630.jpg -->
+
+Ukrainian and Russian negotiators concluded the first day of US-brokered peace talks. The two-day session aims to address Moscow’s ongoing war on Ukraine. It remains unclear if any tangible progress was made during the initial session. Ukrainian and Russian negotiators wrapped up the first of two days of US-brokered talks aimed at untangling Moscow's nearly 5-year-old all-out war on Ukraine, though it was unclear what progress there had been, if any.
+
+### [Europe's Fruitless Search For A Ukraine Peace Envoy; EU Safeguards For Montenegro](https://www.rferl.org/a/eu-ukraine-peace-talks-envoy-montenegro-accession-safeguards/33894502.html)
+*Radio Free Europe / Liberty* - Nov 10, 16:36 IST (iso: 2026-11-10T11:06:25+00:00)
+<!-- image: https://gdb.rferl.org/204c8215-d514-4ede-2bdd-08df3eea91f6_cx0_cy18_cw0_w1200_h630.jpg -->
+
+The EU cannot agree on a single envoy for Russia-Ukraine peace talks. Meanwhile, Montenegro faces potential safeguards upon joining the bloc. RFE/RL Europe Editor Rikard Jozwiak analyzes both issues in this week's briefing. In this week's briefing, RFE/RL Europe Editor Rikard Jozwiak is drilling down on two issues: why the EU cannot agree on an envoy for Russia-Ukraine peace talks and what safeguards Montenegro could face when it joins the bloc.
+
+### [High Hurdles To Progress At New US-Ukraine-Russia Talks](https://www.rferl.org/a/war-negotiations-abu-dhab-ukraine-russia-us/33893873.html)
+*Radio Free Europe / Liberty* - Nov 09, 19:55 IST (iso: 2026-11-09T14:25:44+00:00)
+<!-- image: https://gdb.rferl.org/61be2878-4db6-4060-b194-cb55114ae8d3_cx0_cy4_cw0_w1200_h630.jpg -->
+
+The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 for their first talks since February. Analysts expect limited progress on ending the war, citing deep structural disagreements and the lack of a unified negotiating position among the three parties. For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low.
 
 ---
 
 ## Middle East & Africa
 
-### [COP31 leaders urge focus on climate action despite global conflicts](https://www.thehindu.com/news/international/war-conflict-must-not-distract-from-climate-action-leaders-warn-cop31/article71690853.ece)
-*The Hindu (International)* - Nov 11, 22:45 IST (iso: 2026-11-11T17:15:57+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/mwqpmw/article71690880.ece/alternates/LANDSCAPE_1200/Climate_COP31_Turkey_26676.jpg -->
+### [Democrats preview plan to roll back US-Israel defense integration](https://asiatimes.com/2026/11/democrats-preview-plan-to-roll-back-us-israel-defense-integration/)
+*Asia Times* - Nov 12, 09:12 IST (iso: 2026-11-12T03:42:23+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/President_Trump_at_the_Israel_Museum._Jerusalem_May_23_2017_President_Trump_at_the_Israel_Museum._Jerusalem_May_23_2017_34460980460.jpg -->
 
-Negotiators from nearly 200 countries are at COP31 seeking agreement on a Turkish proposal. The plan aims to increase electricity's share in global energy use. It also seeks to revive stalled efforts to reduce fossil fuel dependence. Negotiators from nearly 200 countries are seeking agreement at COP31 on a proposal from Turkey to increase the share of electricity in global ‌energy use and revive stalled efforts to move away from fossil fuels.
+Senator Chris Van Hollen led a group of Democrats in demanding the repeal of US-Israel military integration efforts. The lawmakers warned the bipartisan initiative threatens American national security. Van Hollen is considering a bid for Senate majority leader against Chuck Schumer. Sen. Chris Van Hollen, who is considering a bid for Senate majority leader against Sen. Chuck Schumer, led a group of Democratic lawmakers on November 10 in demanding that congressional leaders scrap a bipartisan effort to more closely integrate the American and Israeli militaries, warning the initiative would threaten US national security and risk further [] The post Democrats preview plan to ro.
 
-### [Netanyahu dismisses claims that Israel blocking supplies to Gaza](https://www.thehindu.com/news/international/netanyahu-dismisses-claims-that-israel-blocking-supplies-to-gaza/article71690297.ece)
-*The Hindu (International)* - Nov 11, 20:53 IST (iso: 2026-11-11T15:23:35+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/fpeo7r/article71690320.ece/alternates/LANDSCAPE_1200/AP11_10_2026_000234B.jpg -->
+### [Israeli strike on southern Gaza hospital kills five, Gaza civil defence says](https://www.thehindu.com/news/international/israeli-strike-on-southern-gaza-hospital-kills-five-gaza-civil-defence-says/article71692179.ece)
+*The Hindu (International)* - Nov 12, 08:41 IST (iso: 2026-11-12T03:11:42+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/5n8wml/article71692201.ece/alternates/LANDSCAPE_1200/2026-11-11T174911Z_2146011122_RC2RLOA932V1_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG -->
 
-Benjamin Netanyahu dismissed claims that Israel is blocking supplies to Gaza. He blamed Hamas for refusing to disarm under the Trump-announced deal. Netanyahu stated the group seizes humanitarian aid for military use. Benjamin Netanyahu said the Palestinian militant group Hamas is to blame because it continues to refuse to disarm, a condition of the deal announced by Donald Trump, and seizes humanitarian aid in order to use it for military purposes.
+An Israeli strike on a hospital in southern Gaza killed five people, according to civil defence. Israel claims Hamas is regrouping and refilling its arsenal. Hamas states it remains committed to the ceasefire and accuses Israel of undermining the agreement. Israel, which has stepped up its attacks ⁠on the enclave, says Hamas is trying to regroup and refill its arsenal.
+
+### [4 Killed, Several Injured In Israeli Airstrikes In Gaza](https://www.ndtv.com/world-news/israeli-strike-on-southern-gaza-hospital-kills-four-gaza-civil-defence-says-12314800#publisher=newsstand)
+*NDTV World* - Nov 12, 05:18 IST (iso: 2026-11-11T23:48:13+00:00)
+<!-- image: https://c.ndtvimg.com/2023-12/bq6fc70o_khan-younis-gaza-afp_625x300_27_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720 -->
+
+Israeli airstrikes on a building at Nasser Hospital in Khan Younis killed at least four people. Several others were wounded in the early Thursday strike. Gaza's civil defence service confirmed the casualties. An Israeli airstrike on a building at Nasser Hospital in Khan Younis, southern Gaza, killed at least four people and wounded several others early on Thursday, a spokesman for Gaza's civil defence service told Reuters.
 
 ### [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/feed/view/en/story/2026/11/1168787)
 *UN News* - Nov 11, 17:30 IST (iso: 2026-11-11T12:00:00+00:00)
@@ -106,57 +136,31 @@ Over one billion women and girls live in climate hotspots. High hazard exposure 
 
 Pakistan’s military-led government failed to secure favorable terms from Donald Trump despite aggressive courting. Prime Minister Shehbaz Sharif promoted cryptocurrency deals and rare-earth minerals at the White House. The strategy prioritized personal praise over structural policy changes. This transactional approach has not yielded the expected diplomatic or economic concessions for Islamabad. Pakistan’s military-led hybrid government did nearly everything it could to woo Donald Trump, from pursuing cryptocurrency deals with members of the Trump family to showcasing the country’s rare-earth mineral potential at the White House.
 
-### [A time to rethink American power](https://asiatimes.com/2026/11/beyond-trump-a-time-to-rethink-american-power/)
-*Asia Times* - Nov 10, 11:03 IST (iso: 2026-11-10T05:33:51+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-White-House.jpg -->
+---
 
-Democrats won both houses of Congress in a stunning defeat for President Donald Trump. They captured Senate seats in states they had not won in generations. Voters expressed anger over rising prices, government corruption, and the war with Iran. Last Tuesday’s election was a stunning defeat for President Donald Trump. Democrats won both houses of Congress, including Senate races in states they haven’t won in generations.
+## Asia-Pacific
+
+### [How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington](https://www.thehindu.com/news/international/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington/article71688529.ece)
+*The Hindu (International)* - Nov 12, 07:44 IST (iso: 2026-11-12T02:14:24+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/x6fzmv/article71688596.ece/alternates/LANDSCAPE_1200/US_Nvidia_Jensen_Huang_Fallout_83942.jpg -->
+
+Nvidia CEO Jensen Huang faces a political and legal storm in Washington. Federal investigators are probing export controls and national security breaches tied to Nvidia chips. Allegations include an extramarital affair and claims that a former executive spied for China. Nvidia CEO Jensen Huang confronts a widening political and legal storm in Washington over an alleged extramarital affair and claims a former Megaspeed executive spied for China, as federal investigators probe export controls and possible national-security breaches tied to Nvidia’s chips in the high-stakes U. S.-China AI race.
+
+### [Don’t let Taiwan’s silicon shield become a US silicon trap](https://asiatimes.com/2026/11/dont-let-taiwans-silicon-shield-become-a-us-silicon-trap/)
+*Asia Times* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:58+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/TSMC-Taiwan-China-.jpg -->
+
+TSMC is investing heavily in US semiconductor fabrication. This brings encouraging news for the struggling US economy. However, reliance on a single foreign supplier creates strategic risks for American supply chains. As the midterms loudly demonstrated, there is considerable gloom over the US economy. Cause for economic optimism is in short supply, though there is some encouraging news regarding US-based semiconductor fabrication spurred by enormous investments from the huge Taiwan company TSMC.
 
 ---
 
-## Europe & Russia
+## World
 
-### [Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case](https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case)
-*The Guardian* - Nov 11, 21:35 IST (iso: 2026-11-11T16:05:45+00:00)
-<!-- image: https://i.guim.co.uk/img/media/74aeb469d38039f0e21eb808a8dd9a246b6470ec/534_0_5343_4275/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da3204f3ad80f79abea8e3a1ce4d8157 -->
+### [How sensory menus can make dining out easier for people with autism](https://www.channelnewsasia.com/advertorial/how-sensory-menus-can-make-dining-out-easier-people-autism-6486211)
+*Channel News Asia* - Nov 12, 06:49 IST (iso: 2026-11-12T01:19:35+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--11QAcZ2p--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/05/bstudio_mastercard_sns_restaurant_0.jpg?itok=SLxQQf_K -->
 
-Argentina's lawyer Marcelo Kohen mocked Britain's sovereignty claims in a Hamburg tribunal hearing. He argued the UK should not act as a colonial power. Kohen rejected the historic doctrine of British maritime dominance over Falklands waters. Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceansBritain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici, Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing in Hamburg, mocked Britain for apparently belie.
-
-### [Wartime memory shows China-Russia ties far from ‘limitless’](https://asiatimes.com/2026/11/wartime-memory-shows-china-russia-ties-far-from-limitless/)
-*Asia Times* - Nov 11, 12:37 IST (iso: 2026-11-11T07:07:24+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Putin-World-War-II-Commemoration.jpg -->
-
-China and Russia have aligned their official memories of the Second World War for over a decade. They stage joint commemorations and coordinate remembrance dates. This memory alliance reveals their ties are far from limitless despite shared narratives. For more than a decade, China and Russia have sought to align their official memories of the Second World War. They have staged prominent joint commemorations and military parades, while also coordinating remembrance dates and harmonizing their official discourses about the war.
-
-### [Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK](https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts)
-*The Guardian* - Nov 11, 00:31 IST (iso: 2026-11-10T19:01:33+00:00)
-<!-- image: https://i.guim.co.uk/img/media/5d2b5e1b9e781a1b5a8dd0e647c4fd2a9b8b0afb/295_244_2470_1977/master/2470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6961005e80797627b18bb63557b07eba -->
-
-Argentina told the Hamburg tribunal that Britain’s approval of the Sea Lion oil project deepened the Falklands sovereignty dispute. The legal clash marks a historic confrontation over drilling rights in the North Falkland basin. The dispute traces back to the war four decades ago. Sea Lion project in the North Falkland basin threatens to deepen sovereignty disputeArgentina has told an international tribunal that Britain’s approval of oil drilling off the Falkland Islands has dramatically deepened a sovereignty dispute that led to war four decades ago. At the start of an historic legal clash at the Hamburg-based International Tribunal for the Law of the Sea (Itlos), an Argent.
-
-### [Moscow Police Detain Hundreds Of Youths, Pressure Those Of Military Age Into Service](https://www.rferl.org/a/moscow-police-detain-hundreds-of-youths/33894696.html)
-*Radio Free Europe / Liberty* - Nov 10, 20:44 IST (iso: 2026-11-10T15:14:09+00:00)
-<!-- image: https://gdb.rferl.org/36bcad79-18f0-4813-ec84-08df13afe2a0_w1200_h630.jpg -->
-
-Moscow police detained hundreds of youths, including children, during a raid on an alternative gathering. Detainees reported beatings and denial of basic needs. Adults received draft notices or faced pressure to sign army contracts. Police labeled the action a preventive operation. Hundreds, including children, were detained in a raid on an alternative youth gathering in central Moscow. Detainees reported beatings and being denied water and toilets.
-
-### [Ukraine, Russia Negotiators Conclude First Day Of US-Led Peace Talks As Europe Seeks Role](https://www.rferl.org/a/russia-ukraine-abu-dhabi-war-peace-talks/33894644.html)
-*Radio Free Europe / Liberty* - Nov 10, 20:05 IST (iso: 2026-11-10T14:35:45+00:00)
-<!-- image: https://gdb.rferl.org/2e986cd9-d285-4809-be13-dacc2a100f44_cx4_cy13_cw94_w1200_h630.jpg -->
-
-Ukrainian and Russian negotiators concluded the first day of US-brokered peace talks. The two-day session aims to address Moscow’s ongoing war on Ukraine. It remains unclear if any tangible progress was made during the initial session. Ukrainian and Russian negotiators wrapped up the first of two days of US-brokered talks aimed at untangling Moscow's nearly 5-year-old all-out war on Ukraine, though it was unclear what progress there had been, if any.
-
-### [Europe's Fruitless Search For A Ukraine Peace Envoy; EU Safeguards For Montenegro](https://www.rferl.org/a/eu-ukraine-peace-talks-envoy-montenegro-accession-safeguards/33894502.html)
-*Radio Free Europe / Liberty* - Nov 10, 16:36 IST (iso: 2026-11-10T11:06:25+00:00)
-<!-- image: https://gdb.rferl.org/204c8215-d514-4ede-2bdd-08df3eea91f6_cx0_cy18_cw0_w1200_h630.jpg -->
-
-The EU cannot agree on a single envoy for Russia-Ukraine peace talks. Meanwhile, Montenegro faces potential safeguards upon joining the bloc. RFE/RL Europe Editor Rikard Jozwiak analyzes both issues in this week's briefing. In this week's briefing, RFE/RL Europe Editor Rikard Jozwiak is drilling down on two issues: why the EU cannot agree on an envoy for Russia-Ukraine peace talks and what safeguards Montenegro could face when it joins the bloc.
-
-### [High Hurdles To Progress At New US-Ukraine-Russia Talks](https://www.rferl.org/a/war-negotiations-abu-dhab-ukraine-russia-us/33893873.html)
-*Radio Free Europe / Liberty* - Nov 09, 19:55 IST (iso: 2026-11-09T14:25:44+00:00)
-<!-- image: https://gdb.rferl.org/61be2878-4db6-4060-b194-cb55114ae8d3_cx0_cy4_cw0_w1200_h630.jpg -->
-
-The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 for their first talks since February. Analysts expect limited progress on ending the war, citing deep structural disagreements and the lack of a unified negotiating position among the three parties. For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low.
+Mastercard and Accenture Song developed an AI tool to help restaurants describe food textures and temperatures. The tool provides sensory details to diners with autism or sensitivities before they order. This aims to make dining out easier for these individuals. Will a dish be crunchy or soft, served hot or cold? Mastercard and Accenture Song have developed an AI tool to help restaurants provide such details to diners with autism or sensory sensitivities before they order.
 
 ---
 
