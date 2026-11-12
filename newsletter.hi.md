@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 12, 2026 18:53 IST
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [ईरान ने दी चेतावनी – ‘अमेरिका के किसी भी हमले का जवाब होगा 10 गुना ज़्यादा घातक’](https://www.patrika.com/world-news/iran-gives-warning-response-to-any-us-attack-would-be-10-times-more-severe-21045176)
-*Patrika (World)* - Nov 12, 17:54 IST (iso: 2026-11-12T12:24:25+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/shekarchi.webp -->
-
-ईरान ने अमेरिका को चेतावनी दी कि किसी भी नए हमले का जवाब दस गुना ज़्यादा घातक होगा। दोनों देशों के बीच तनाव बना हुआ है और शांति समझौते पर सहमति नहीं बन पा रही है। मध्यस्थ देशों की कोशिशें अभी तक बेनतीख्त रही हैं। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव की स्थिति पहले जैसी ही बनी हुई है।
-
-### [होर्मुज स्ट्रेट में बर्बाद हुआ 40 लाख बैरल तेल, समुद्री बारूदी सुरंगों का शिकार बने दो जहाज](https://www.patrika.com/world-news/two-oil-tankers-hit-naval-mines-in-strait-of-hormuz-and-explode-21044753)
-*Patrika (World)* - Nov 12, 16:19 IST (iso: 2026-11-12T10:49:58+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/supertanker-explosion-in-hormuz.webp -->
-
-होर्मुज स्ट्रेट में दो तेल जहाज समुद्री बारूदी सुरंगों का शिकार बन गए। ईरान के आदेश के खिलाफ पार करने की कोशिश करने वाले जहाजों पर हमले जारी हैं। इस घटना में करीब 40 लाख बैरल तेल बर्बाद हो गया। स्ट्रेट में जहाजों के सुरक्षित पार होने की स्थिति बिगड़ रही है। होर्मुज स्ट्रेट (Strait of Hormuz) को ईरान (Iran) के आदेश के खिलाफ जाकर पार करने की कोशिश करने वाले कई जहाज हर दिन समुद्री बारूदी सुरंगों का शिकार बन रहे हैं।
-
-### [ट्रंप की इज्जत बचाएगा रूस-यूक्रेन समझौता? अबू धाबी से मॉस्को चल रही है दौड़, कुछ शर्तें तय फिर कहां](https://hindi.news18.com/world/europe-russia-ukraine-peace-deal-trump-envoys-reach-moscow-after-abu-dhabi-dialogue-what-to-expect-10981582.html)
-*News18 Hindi (World)* - Nov 12, 14:49 IST (iso: 2026-11-12T09:19:13+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Volodymyr-Zelenskyy-Donald-Trump-Vladimir-Putin-2026-07-8ce2b4458a6b7bc43a5cb3d427f242b6-1200x800.jpg -->
-
-अबू धाबी में रूस और यूक्रेन के बीच कैदियों की अदला-बदली पर सहमति बनी। इससे शांति वार्ता की उम्मीदें जगी हैं। ट्रंप जल्द से जल्द कोई समझौता चाहते हैं ताकि अपने चुनावी वादे पूरे कर सकें। Russia-Ukraine War Deal: अबू धाबी में आमने-सामने की वार्ता के बाद एक बार फिर से रूस-यूक्रेन युद्ध में शांति की उम्मीदें जाग रही हैं.
-
-### [अमेरिका-ईरान तनाव के बीच होर्मुज में दो तेल टैंकरों में विस्फोट, आग की लपटों में घिरे जहाज; IRGC की](https://www.patrika.com/world-news/us-iran-tension-two-oil-tankers-explosion-strait-of-hormuz-irgc-claim-21044124)
-*Patrika (World)* - Nov 12, 13:41 IST (iso: 2026-11-12T08:11:44+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/card-8-1.webp -->
-
-होर्मुज जलडमरूमध्य में दो तेल टैंकरों में विस्फोट हुए। ईरानी IRGC का दावा है कि एक जहाज समुद्री बारूद से टकराया। दूसरे जहाज पर अमेरिकी विमानों की मदद से हमला किया गया। US Iran War: अमेरिका और ईरान के बीच जारी तनाव के बीच होर्मुज जलडमरूमध्य में दो तेल टैंकरों में विस्फोट होने का दावा किया गया है। ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) के मुताबिक, दोनों जहाजों में विस्फोट के बाद भीषण आग लग गई।
-
-### [अस्पताल के अंदर हमास का कमांड सेंटर?: गाजा में फिर बरसे इस्राइली बम, सर्जन समेत छह लोगों की गई जान](https://www.amarujala.com/world/israeli-bombs-rain-down-on-gaza-again-many-people-including-a-surgeon-lose-their-lives-2026-11-12)
-*Amar Ujala World* - Nov 12, 12:14 IST (iso: 2026-11-12T06:44:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/gaja-ma-isarail-ka-bugdha-hamal-sakataka-tasavara_b5a7f031974bd1a52aa22a2acb892489.jpeg?w=1200&dpr=1.0 -->
-
-गाजा में इस्राइली बमबारी से छह लोगों की मौत हो गई, जिनमें एक सर्जन भी शामिल था। कई अन्य घायल हुए। इस्राइल का दावा है कि अस्पताल के अंदर हमास का कमांड सेंटर था। अस्पताल के अंदर हमास का कमांड सेंटर?: गाजा में फिर बरसे इस्राइली बम, सर्जन समेत छह लोगों की गई जान।
-
-### [‘हम दो थे और तुम 15 लोग, पीछे से हमला कौन करता है?’ खून से लथपथ UFC स्टार मराब ने वीडियो जारी कर](https://www.patrika.com/world-news/merab-dvalishvili-attack-abu-dhabi-hotel-lobby-usman-nurmagomedov-video-21043476)
-*Patrika (World)* - Nov 12, 11:48 IST (iso: 2026-11-12T06:18:56+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Merab-Dvalishvili.webp -->
-
-अबू धाबी में UFC स्टार मराब ड्वालिश्विली पर होटल लॉबी में हमला हुआ। उसने आरोप लगाया कि उस्मान नूरमगोमेदोव ने 15 साथियों के साथ पीछे से हमला किया। मराब ने खून से लथपथ चेहरे का वीडियो जारी किया। UFC Star Merab Dvalishvili: अबू धाबी के एक होटल की लॉबी में UFC के पूर्व बेंटमवेट चैंपियन मराब ड्वालिश्विली पर जानलेवा हमला हुआ है।
-
-### [ट्रंप-नेतन्याहू के बीच तीखी बहस का दावा: फोन पर बातचीत चिल्लाने तक पहुंची, ईरान पर कार्रवाई को लेकर](https://www.amarujala.com/world/donald-trump-benjamin-netanyahu-heated-phone-call-over-iran-war-military-action-peace-talks-2026-11-12)
-*Amar Ujala World* - Nov 12, 09:45 IST (iso: 2026-11-12T04:15:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/iran-israel-war_68f33cf0b23c4a75a6a3a0050bc64ed6.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप और नेतन्याहू के बीच ईरान पर कार्रवाई को लेकर फोन पर तीखी बहस हुई। दोनों नेताओं के बीच मतभेद उभरे और बातचीत चिल्लाने तक पहुंची। ट्रंप-नेतन्याहू के बीच तीखी बहस का दावा: फोन पर बातचीत चिल्लाने तक पहुंची, ईरान पर कार्रवाई को लेकर।
-
-### [पीट हेगसेथ पर फिर लटकी महाभियोग की तलवार? प्रमिला जयपाल बोलीं- अगले साल लाएंगे प्रस्ताव](https://www.amarujala.com/world/indian-american-congresswoman-pramila-jayapal-pledges-pete-hegseth-impeachment-next-year-2026-11-12)
-*Amar Ujala World* - Nov 12, 08:24 IST (iso: 2026-11-12T02:54:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/bharataya-mal-ka-amaraka-sasatha-paramal-jayapal_07e728ae76a2eed7ae6bc9cf4598986f.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी कांग्रेसमैन प्रमिला जयपाल ने पीट हेगसेथ के खिलाफ महाभियोग प्रस्ताव लाने की घोषणा की है। उन्होंने बताया कि अगले साल इस प्रस्ताव को पेश किया जाएगा। यह कदम हेगसेथ के खिलाफ नए आरोपों के बीच उठाया गया है। अमेरिका: पीट हेगसेथ पर फिर लटकी महाभियोग की तलवार? प्रमिला जयपाल बोलीं- अगले साल लाएंगे प्रस्ताव।
-
----
-
-## यूरोप और रूस
-
-### [क्या रूस ने पक्के दोस्त चीन को दिया धोखा, तोड़ दिया BRICS में किया वादा? ट्रंप ने कर दिया बड़ा खेल](https://hindi.news18.com/world/europe-russia-drops-chinese-yuan-for-ruble-did-putin-betray-xi-jinping-and-break-brics-de-dollarization-promise-under-us-sanction-pressure-10981991.html)
-*News18 Hindi (World)* - Nov 12, 17:50 IST (iso: 2026-11-12T12:20:57+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Russia-China-Relations-2026-11-695a7a83473f6980bce5c85660915be7-1200x800.jpg -->
-
-रूस ने अंतरराष्ट्रीय व्यापार में चीनी युआन का उपयोग कम कर दिया है। 2026 में रूसी निर्यात में युआन की हिस्सेदारी घटकर 22 प्रतिशत रह गई। अब रूस 69 प्रतिशत भुगतान अपने मुद्रा रूबल में ले रहा है। इससे ब्रिक्स के डॉलर मुक्त व्यापार के दावे पर प्रभाव पड़ा है। रूस ने अपने फैसले में बड़ा यू-टर्न ले लिया है और अंतरराष्ट्रीय व्यापार में चीनी युआन का इस्तेमाल करना कम कर दिया है.
-
-### [सैनिक की कब्र पर हंसी-मजाक? एक वीडियो के चक्कर फिर फंसे पीट हेगसेथ](https://hindi.news18.com/world/america-pete-hegseth-controversy-army-sentinel-scolds-hegseth-team-after-laughter-at-tomb-ws-l-10981370.html)
-*News18 Hindi (World)* - Nov 12, 13:39 IST (iso: 2026-11-12T08:09:32+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/PETE-HEGSETH-2026-11-4ebb302cf4ec2510303f1627e5edcaa9-1200x800.jpg -->
-
-अमेरिकी रक्षा मंत्री पीट हेगसेथ एक सैनिक की कब्र पर किए गए दौरे के वीडियो के कारण नए विवादों में फंसे हैं। महाभियोग के बाद यह उनकी दूसरी बड़ी चर्चा है। सोशल मीडिया पर इस घटना को लेकर तीखी प्रतिक्रियाएं आ रही हैं। Pete Hegseth Controversy: अमेरिकी रक्षा मंत्री पीट हेगसेथ एक बार से विवादों में फंस गए हैं. महाभियोग के साये से बाहर आने के बाद अब हेगसेथ एक सैनिक की कब्र पर विजिट के मामले में ट्रोल हो रहे हैं.
-
-### [अमेरिकी युद्ध मंत्री हेगसेथ को सैनिक ने लगाई फटकार, वीडियो वायरल; जानिए पूरा मामला](https://www.patrika.com/world-news/us-war-secretary-pete-hegseth-reprimanded-by-soldier-at-arlington-cemetery-21043376)
-*Patrika (World)* - Nov 12, 10:15 IST (iso: 2026-11-12T04:45:58+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Pete-Hegseth.webp -->
-
-अमेरिका के युद्ध मंत्री पीट हेगसेथ को आर्लिंगटन कब्रिस्तान में एक सैनिक ने फटकार लगाई। वेटरन्स डे समारोह के बाद वे मकबरे के पास हंसते हुए पाए गए थे। वॉशिंगटन। अमेरिका के युद्ध मंत्री पीट हेगसेथ को आर्लिंगटन राष्ट्रीय कब्रिस्तान में एक सैनिक ने सार्वजनिक रूप से फटकार लगा दी। यह घटना वेटरन्स डे समारोह के बाद की है, जब हेगसेथ और उनके साथ आए लोगों को अज्ञात सैनिकों के मकबरे के पास हंसते और बातचीत करते देखा गया।
-
-### [नॉर्वे की पत्रकार हेले ने किया वीजा रद्द होने का दावा: कांग्रेस के भारत समिट में लेना था हिस्सा](https://www.amarujala.com/world/norwegian-journalist-helle-lyng-claims-indian-visa-cancelled-congress-bharat-summit-2026-11-12)
-*Amar Ujala World* - Nov 12, 08:17 IST (iso: 2026-11-12T02:47:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/helle-lyng_1e9e9b809f47a89861755dd17d6f94fb.jpeg?w=1200&dpr=1.0 -->
-
-नॉर्वेजियन पत्रकार हेले लिंग ने दावा किया कि भारत में उनके वीजा को रद्द कर दिया गया। वह कांग्रेस पार्टी के भारत समिट में भाग लेने के लिए आए थे। वीजा रद्द होने की वजह से वह समिट में शामिल नहीं हो पाए। नॉर्वे की पत्रकार हेले ने किया वीजा रद्द होने का दावा: कांग्रेस के भारत समिट में लेना था हिस्सा।
-
----
-
-## एशिया-प्रशांत
-
-### [शेख हसीना का न इस्तीफा हुआ, न सत्ता हस्तांतरण! नए पासपोर्ट जरूरत ही नहीं, '18 करोड़ लोग चेहरे से](https://hindi.news18.com/world/south-asia-sheikh-hasina-no-resignation-no-power-transfer-new-passport-bangladesh-supreme-court-lawyer-10976906.html)
-*News18 Hindi (World)* - Nov 12, 17:01 IST (iso: 2026-11-12T11:31:02+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-2026-09-17T133111.683-2026-09-e17b463486929f07618d2b61441c6674-1200x800.jpg -->
-
-बांग्लादेश के वरिष्ठ अधिवक्ता मोहसिन राशिद का दावा है कि शेख हसीना ने 5 अगस्त 2024 को इस्तीफा नहीं दिया था। उन्होंने कहा कि संवैधानिक सत्ता हस्तांतरण नहीं हुआ। राशिद ने सवाल उठाया कि 18 करोड़ बांग्लादेशी उन्हें पहचानते हैं, तो नए पासपोर्ट की क्या ज़रूरत है। बांग्लादेश के सुप्रीम कोर्ट के वरिष्ठ अधिवक्ता मोहसिन राशिद ने News18 से बातचीत में दावा किया कि 5 अगस्त 2024 को भारत आने के समय शेख हसीना प्रधानमंत्री थीं.
-
-### [15 पैंसेजर को लेकर खाई में गिरी वैन, 10 लोगों की दर्दनाक मौत, चेहरा पहचानना भी हुआ मुश्किल](https://hindi.news18.com/world/south-asia-nepal-van-accident-10-killed-kathmandu-sarlahi-passenger-vehicle-plunges-down-gorge-in-makawanpur-10980260.html)
-*News18 Hindi (World)* - Nov 12, 16:42 IST (iso: 2026-11-12T11:12:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Nepal-Van-Accident-2026-11-3971e06ac28f9ac5084265d80945c7b7-1200x800.jpg -->
-
-नेपाल के मकावानपुर जिले में गुरुवार सुबह एक पैसेंजर वैन 500 मीटर गहरी खाई में गिर गई। काठमांडू से सर्लाही जा रही वैन में सवार 15 यात्रियों में से 10 की मौत हो गई। मृतकों में तीन महिलाएं, दो बच्चियां और पांच पुरुष शामिल हैं। पांच अन्य यात्री गंभीर रूप से घायल हैं। नेपाल के बागमती प्रांत स्थित मकावानपुर जिले में गुरुवार सुबह एक दर्दनाक सड़क हादसा हो गया, जहां काठमांडू से सर्लाही जा रही एक पैसेंजर वैन अनियंत्रित होकर करीब 500 मीटर गहरी खाई में जा गिरी.
-
-### ['गोलियां बंद होने का इंतजार करेंगे तो', पाकिस्तान के साथ बातचीत की फारूक अब्दुल्ला ने की वकालात](https://hindi.news18.com/news/nation/we-can-not-wait-for-ceasefire-talk-with-pakistan-for-peace-farooq-abdullah-again-advocates-to-resolve-disputes-ws-l-10981726.html)
-*News18 Hindi (World)* - Nov 12, 15:40 IST (iso: 2026-11-12T10:10:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Farooq-Abdullah-2026-10-26e02033800a8f61fb6313bffd9d32a8-1200x800.jpg -->
-
-फारूक अब्दुल्ला ने भारत और पाकिस्तान के बीच बातचीत की वकालत की। उन्होंने कहा कि सैन्य टकराव से विवाद हल नहीं होते। आतंकवाद खत्म करने और दक्षेस को सक्रिय करने की आवश्यकता पर उन्होंने जोर दिया। नेशनल कॉन्फ्रेंस के अध्यक्ष फारूक अब्दुल्ला ने भारत और पाकिस्तान के बीच बातचीत की वकालत करते हुए कहा कि सैन्य टकराव से विवाद हल नहीं हो सकते.
-
-### [उत्तर कोरिया ने ऐसी जगह बनाया नौसैनिक अड्डा, थर-थर कांप जाएगा जापान, तैनात किए 5000 टन के युद्धपोत](https://hindi.news18.com/world/rest-of-world-north-korea-making-east-coast-naval-base-can-raise-tensions-for-japan-ws-l-10981131.html)
-*News18 Hindi (World)* - Nov 12, 12:19 IST (iso: 2026-11-12T06:49:47+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/north-korea-11-2026-11-1af978f00cd0ad70342a0c4199129775-1200x800.jpg -->
-
-उत्तर कोरिया ने जापान के पास पूर्वी तट पर नए नौसैनिक अड्डे का दौरा किया। वहां 5000 टन के युद्धपोत तैनात किए गए हैं। चीन के साथ मजबूत रिश्तों के कारण जापान में सुरक्षा चिंताएं बढ़ गई हैं। North Korea East Coast Naval Base: उत्तर कोरिया ने पूर्वी तट पर बन रहे बड़े नौसिक अड्डे का दौरा किया है. ये वही इलाका है, जो जापान से सटा हुआ है.
-
-### [पाकिस्तान में TTP का बड़ा हमला, 11 पुलिसकर्मियों को मार डाला, DSP-सब इंस्पेक्टर भी नहीं छोड़े](https://hindi.news18.com/world/pakistan-pakistan-ttp-attack-on-kyber-pakhtunkhwa-killed-11-policemen-including-dsp-sub-inspector-ws-l-10980781.html)
-*News18 Hindi (World)* - Nov 12, 11:29 IST (iso: 2026-11-12T05:59:25+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/taliban-news-1-2026-09-f46e397b60f90f5b53651456b4aa1744-1200x800.jpg -->
-
-पाकिस्तान के खैबर पख्तूनख्वा में TTP ने पुलिस चौकी पर हमला किया। इसमें 11 पुलिसकर्मियों की मौत हो गई, जिनमें DSP और सब इंस्पेक्टर शामिल थे। जवाबी कार्रवाई में 18 आतंकियों को मारा गया। Pakistan TTP Attack on KPK: पाकिस्तान में एक बार फिर से तहरीक-ए-तालिबान ने खैबर पख्तूनख्वा में हमला किया, जिसमें 11 पुलिसकर्मियों की मौत हो गई है.
-
-### [उपराष्ट्रपति जिब्रान राकाबुमिंग राका ने दिया इस्तीफा, जानें क्या है वजह](https://www.amarujala.com/world/indonesia-vice-president-gibran-rakabuming-raka-has-resigned-find-out-the-reason-why-2026-11-12)
-*Amar Ujala World* - Nov 12, 11:24 IST (iso: 2026-11-12T05:54:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/jabrana-rakabmaga-raka-idanashaya-ka-uparashhatarapata_aab660d6bad259e44c3e3af5182478b9.jpeg?w=1200&dpr=1.0 -->
-
-इंडोनेशिया के उपराष्ट्रपति जिब्रान राकाबुमिंग राका ने अपना पद छोड़ दिया है। इस फैसले से देश में राजनीतिक अस्थिरता की संभावना बढ़ गई है। उपराष्ट्रपति जिब्रान राकाबुमिंग राका ने दिया इस्तीफा, जानें क्या है वजह।
-
-### [Nvidia CEO जेंसेन हुआंग की जाएगी कुर्सी, 2-2 महिलाओं से रिश्ते, जासूसी के आरोपों ने बर्बाद किया](https://hindi.news18.com/world/america-jensen-huang-scandal-update-nvidia-board-considers-ouster-over-affair-spy-row-china-ws-l-10980456.html)
-*News18 Hindi (World)* - Nov 12, 09:40 IST (iso: 2026-11-12T04:10:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/jensung-huang-2026-11-096d5dd42f284f08f2581f5d446f5ba1-1200x800.jpg -->
-
-न्यूयॉर्क टाइम्स ने दावा किया कि जेन्सेन हुआंग का कंपनी की वरिष्ठ अधिकारी के साथ भी संबंध रहा। यह आरोप उनके चीनी महिला से विवाहेतर संबंध के बाद आया है। Jensen Huang Ouster over Affair: दुनिया की जानी-मानी टेक कंपनी Nvidia में पिछले दिनों जो कुछ भी हुआ, पूरी दुनिया ने देखा है. सीईओ जेंसेन हुआंग के चीनी जासूस से अफेयर के किस्सों से लेकर उनका तलाक तक चर्चा में रहा.
-
-### [एनवीडिया के सीईओ जेन्सेन हुआंग पर एक और कथित संबंध का आरोप, न्यूयॉर्क टाइम्स की रिपोर्ट में दावा](https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-kimberly-powell-alleged-affair-nyt-21043272)
-*Patrika (World)* - Nov 12, 09:37 IST (iso: 2026-11-12T04:07:19+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-8.webp -->
-
-न्यूयॉर्क टाइम्स की रिपोर्ट में दावा किया गया कि जेन्सेन हुआंग का कंपनी की एक वरिष्ठ अधिकारी के साथ संबंध रहा। यह जानकारी उनके चीनी महिला से विवाहेतर संबंध के बाद सामने आई है। Jensen Huang Kimberly Powell: एनवीडिया के CEO जेन्सेन हुआंग कुछ दिनों से वैश्विक मीडिया में सुर्खियां बटोर रहे हैं। इसकी वजह से उनका चीनी महिला कारोबारी के संग विवाहेतर संबंध।
-
-### [उपराष्ट्रपति का स्कूल सर्टिफिकेट निकला फर्जी? कोर्ट की लताड़ के बाद दिया इस्तीफा, इंडोनेशिया में](https://hindi.news18.com/world/south-asia-indonesia-vice-president-resigns-over-high-school-certificate-ruled-invalid-by-court-ws-l-10980649.html)
-*News18 Hindi (World)* - Nov 12, 09:35 IST (iso: 2026-11-12T04:05:36+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/indonesia-news-2026-11-34bf0e88469b6f454d106fe9585d022f-1200x800.jpg -->
-
-इंडोनेशिया के उपराष्ट्रपति ने स्कूल सर्टिफिकेट फर्जी निकलने के बाद इस्तीफा दे दिया। कोर्ट की लताड़ के बाद उन्होंने पद से हाथ धोने का फैसला किया। Indonesia President Resignation: आपको राष्ट्रपति और उपराष्ट्रपति जैसे पद से भी हाथ धोना पड़ सकता है, अगर आपके स्कूल के कागज सही नहीं हों. कुछ ऐसा ही हुआ इंडोनेशिया में, जब वहां के वाइस प्रेसिडेंट को अपने स्कूल के एक कागज की वजह से इस्तीफा देना पड़ गया है.
-
-### [चीनी जासूस से अफेयर के आरोपों में घिरे NVIDIA CEO जेन्सेन हुआंग, जा सकती है कुर्सी; अमेरिका की](https://www.patrika.com/world-news/nvidia-ceo-jensen-huang-china-spy-affair-national-security-scandal-21043042)
-*Patrika (World)* - Nov 12, 08:42 IST (iso: 2026-11-12T03:12:12+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Jensen-Huang-Affair.webp -->
-
-अमेरिकी कांग्रेस ने NVIDIA सीईओ जेन्सेन हुआंग की जांच की मांग की है। एक महिला के साथ उनके संबंधों का खुलासा हुआ है। उस महिला पर चीनी खुफिया एजेंसी से जुड़ाव का संदेह है। यह मामला राष्ट्रीय सुरक्षा को लेकर सवाल खड़ा कर रहा है। एक महिला के साथ उनके अफेयर को लेकर ऐसा खुलासा हुआ है, जिसने अमेरिका की राष्ट्रीय सुरक्षा पर भी सवाल खड़े कर दिए हैं।
+**अपडेट:** November 13, 2026 02:42 IST
 
 ---
 
 ## दुनिया
 
-### [10 दिनों तक भारी बारिश का अलर्ट, 184 की स्पीड से बढ़ रहा तूफान ‘टॉमस’, इन इलाकों में होगा तांडव](https://hindi.news18.com/world/south-asia-typhoon-tomas-warning-184-kmph-winds-10-days-heavy-rain-alert-new-super-typhoon-threat-mausam-news-today-10981849.html)
-*News18 Hindi (World)* - Nov 12, 16:15 IST (iso: 2026-11-12T10:45:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Typhoon-Tomas-2026-11-7a8177c0c0f597b494775b7eec6000a1-1200x800.jpg -->
+### ['बच्चों को शिक्षित करना ही मेरा अपराध था...',आजम खां का छलका दर्द](https://www.amarujala.com/video/india-news/educating-children-was-my-only-crime-azam-khan-reveals-his-anguish-2026-11-13)
+*Amar Ujala National* - Nov 13, 12:59 IST (iso: 2026-11-13T07:29:08+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/azam-khan_bc2deb0093e5c654dcd6ccfc85c7b313.jpeg?w=1200&dpr=1.0 -->
 
-प्रशांत महासागर में तूफान टॉमस 184 किलोमीटर प्रति घंटे की रफ्तार से बढ़ रहा है। पगासा ने अगले दस दिनों तक भारी बारिश का अलर्ट जारी किया है। अल नीनो प्रभाव से गर्म समुद्री पानी ने तूफान को और ताकत प्रदान की है। प्रशांत महासागर में एक नया और खतरनाक महातूफान आने वाला है. मौसम एजेंसी 'पगासा' ने भारी तबाही का हाई अलर्ट जारी किया है.
+समाजवादी पार्टी नेता आजम खां को मनी लॉन्ड्रिंग मामले में ईडी ने बृहस्पतिवार को चार दिन की रिमांड पर लखनऊ ले लिया। उन्होंने अभिरक्षा में दावा किया कि बच्चों को शिक्षा देना ही उनका अपराध था। समाजवादी पार्टी नेता आजम खां ने ईडी अभिरक्षा में बयान दिया कि बच्चों को शिक्षा देना अपराध था। मनी लॉन्ड्रिंग मामले में ईडी बृहस्पतिवार शाम उन्हें डासना जेल से चार दिन की रिमांड पर लखनऊ ले गई।
 
-### [नाली खोद रहा मजदूर मालामाल! फावड़ा मारते ही निकले 24 कैरेट सोने के बिस्किट, मजाक-मजाक में मिला 100](https://hindi.news18.com/world/rest-of-world-laborer-found-hidden-treasure-worth-100-crores-gold-bars-discovered-while-digging-for-sever-line-10981450.html)
-*News18 Hindi (World)* - Nov 12, 14:14 IST (iso: 2026-11-12T08:44:32+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/gold-discovered-2026-11-2dba34ad66f4380c1959d5375b758168-1200x800.jpg -->
+### [कुलगाम हमले के बाद सीआरपीएफ जवान की चेतावनी: सामने से वार करने की हिम्मत नहीं, अब चुन-चुनकर मारे](https://www.amarujala.com/jammu-and-kashmir/srinagar/warning-from-a-crpf-jawan-following-the-kulgam-attack-terrorists-will-now-be-hunted-down-and-killed-2026-11-13)
+*Amar Ujala Breaking* - Nov 13, 12:28 IST (iso: 2026-11-13T06:58:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/1_8e66636a763ef9f5b4f07db15988a1d8.jpeg?w=1200&dpr=1.0 -->
 
-एक 18 वर्षीय मजदूर ने नाली की खुदाई करते हुए 24 कैरेट सोने के बिस्किट खोजे। यह खजाना उसके हाथ में आ गया। इस खोज से उसकी आर्थिक स्थिति पूरी तरह बदल गई है। Laborer Found Underground Treasure: 18 साल का मजदूर नाली की खुदाई करने के लिए गया था, लेकिन उसे बिल्कुल अंदाजा नहीं था कि उसके लिए साक्षात लक्ष्मी जी इंतजार कर रही हैं.
+दक्षिण कश्मीर के कुलगाम में सीआरपीएफ नाके पर हुए आतंकी हमले के बाद एक जवान का वीडियो सामने आया। उसने आतंकवादियों को चेतावनी दी कि अब वे चुन-चुनकर मारेंगे। दक्षिण कश्मीर के कुलगाम में सुरक्षाबलों की नाका पार्टी पर हुए आतंकी हमले के बाद केंद्रीय रिजर्व पुलिस बल (सीआरपीएफ) के एक जवान का वीडियो सामने आया है, जिसमें उसने आतंकवादियों को कड़ा संदेश दिया है।
+
+### [अंबाजी मंदिर में दर्शन करने नहीं जाएंगे पीएम मोदी: 14 नवंबर का गुजरात दौरा रद्द; क्या है पूरा](https://www.amarujala.com/india-news/pm-modi-cancels-ambaji-temple-visit-in-gujarat-on-november-14-2026-11-13)
+*Amar Ujala National* - Nov 13, 12:23 IST (iso: 2026-11-13T06:53:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/paema-matha_8ce0d90916a3c51720ab79dbcedb7bdc.jpeg?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री नरेंद्र मोदी ने 14 नवंबर को गुजरात के अंबाजी मंदिर में दर्शन करने का कार्यक्रम रद्द कर दिया। इससे पहले वे वहां पहुंचने वाले थे। नया कार्यक्रम अभी घोषित नहीं किया गया है। अंबाजी मंदिर में दर्शन नहीं करेंगे पीएम मोदी: 14 नवंबर का गुजरात दौरा रद्द; क्या है पूरा कार्यक्रम? अंबाजी मंदिर में दर्शन करने नहीं जाएंगे पीएम मोदी: 14 नवंबर का गुजरात दौरा रद्द; क्या है पूरा।
+
+### [आठवें दिन तोड़ा 'स्पाइडरमैन' का रिकॉर्ड, जानें 'धुरंधर 2' की कमाई से कितना पीछे?](https://www.amarujala.com/entertainment/bollywood/ramayana-box-office-collection-break-the-spiderman-record-total-earnings-on-day-eight-2026-11-12)
+*Amar Ujala National* - Nov 13, 12:16 IST (iso: 2026-11-13T06:46:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/ramayanae_dd67ec28ebd5b2b84d83c121c12741ef.jpeg?w=1200&dpr=1.0 -->
+
+रामायण ने आठवें दिन बॉक्स ऑफिस पर स्पाइडरमैन का रिकॉर्ड तोड़ा। देशभर में 18093 शोज चल रहे हैं। धुरंधर 2 से कमाई में अंतर स्पष्ट है। आठवें दिन 'रामायण' ने बॉक्स ऑफिस पर हॉलीवुड की फिल्म का रिकॉर्ड तोड़ा है। आज पूरे देश के सिनेमाघरों में 'रामायण' के 18093 शोज दिखाए जा रहे हैं। आठवें दिन तोड़ा 'स्पाइडरमैन' का रिकॉर्ड, जानें 'धुरंधर 2' की कमाई से कितना पीछे?
+
+### [लद्दाख में प्रदर्शन से पहले वांगचुक पर पहरा: घर के बाहर 25 जवान तैनात होने का दावा, क्या है पूरा](https://www.amarujala.com/india-news/sonam-wangchuk-claims-house-arrest-ahead-of-planned-ladakh-protest-2026-11-13)
+*Amar Ujala National* - Nov 13, 01:06 IST (iso: 2026-11-12T19:36:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/samajaka-karayakarata-sanama-vagacaka_1f08d3afb54446637b35cb0ed9312de3.jpeg?w=1200&dpr=1.0 -->
+
+लद्दाख में प्रदर्शन से पहले सोनम वांगचुक के घर के बाहर 25 जवान तैनात होने का दावा है। यह घटना वांगचुक द्वारा नियोजित प्रदर्शन से पहले हुई। स्थानीय स्रोतों ने पहरा की पुष्टि की है। लद्दाख में प्रदर्शन से पहले वांगचुक पर पहरा: घर के बाहर 25 जवान तैनात होने का दावा, क्या है पूरा विवाद?
+
+### [पति की मौत के बाद साफ कर रही थी कमरा, कबाड़ में छुपा मिला ऐसा खजाना, रातों-रात करोड़पति बन गई विधवा](https://hindi.news18.com/world/britain-widow-found-treasure-cleaning-late-husband-shed-finds-biscuit-tin-packed-with-gold-coins-worth-more-than-1-crore-rupees-10982604.html)
+*News18 Hindi (World)* - Nov 12, 23:31 IST (iso: 2026-11-12T18:01:04+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Widow-Found-Tresure-After-Her-Husband-Passed-2026-11-2f31cb7cbdcd3ec58066fd9d44d959b3-1200x800.jpg -->
+
+एक विधवा ने पति के कमरे की सफाई करते हुए कबाड़ में पुराना टिन मिला। उसमें छिपे 50 साल पुराने 62 सोने के सिक्के मिले। इन सिक्कों की नीलामी में खरीदारों की भीड़ लगी और महिला करोड़पति बन गई। एक महिला अपने पति की मौत के गम में डी थी. उसने अपना दिल हल्का करने के लिए पति के कमरे और शेड की सफाई करने का फैसला किया.
+
+---
+
+## यूरोप और रूस
+
+### [फ्रांस में बम की धमकी के बाद तीन स्कूल खाली कराए गए, जांच में क्या मिला?](https://www.amarujala.com/world/world-news-updates-today-france-usa-israel-bomb-threat-washington-firing-2026-11-13)
+*Amar Ujala World* - Nov 13, 12:46 IST (iso: 2026-11-13T07:16:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
+
+फ्रांस में बम की धमकी मिलने के बाद तीन स्कूलों को खाली कराया गया। सुरक्षा बलों ने स्थिति को संभाला और जांच शुरू की। स्रोत में जांच के अंतिम परिणामों का कोई विवरण उपलब्ध नहीं है। दुनिया की खबरें: फ्रांस में बम की धमकी के बाद तीन स्कूल खाली कराए गए, जांच में क्या मिला?
+
+### [जिस सैनिक ने हेगसेथ को लगाई थी फटकार, उसी को रक्षा मंत्री ने किया सम्मानित; जानिए क्या है मामला](https://www.amarujala.com/world/hegseth-awards-soldier-who-scolded-him-and-his-aides-at-tomb-of-unknown-soldier-2026-11-13)
+*Amar Ujala World* - Nov 13, 02:16 IST (iso: 2026-11-12T20:46:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/31/pete-hegseth_c162e96606e9e09266ce0d3349e1a62a.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में एक सैनिक ने रक्षा मंत्री हेगसेथ को फटकार लगाई थी। अब उसी सैनिक को हेगसेथ ने सम्मानित किया है। मामला सार्वजनिक रूप से सामने आया है। अमेरिका: जिस सैनिक ने हेगसेथ को लगाई थी फटकार, उसी को रक्षा मंत्री ने किया सम्मानित; जानिए क्या है मामला।
+
+### [विदेशी सैनिक आए तो बनेंगे वैध निशाना! मॉस्को में US दूत विटकॉफ-कुशनर के सामने पुतिन की सीधी धमकी](https://www.patrika.com/world-news/putin-witkoff-kushner-moscow-meeting-ukraine-starshield-drone-threat-21045695)
+*Patrika (World)* - Nov 12, 21:30 IST (iso: 2026-11-12T16:00:17+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/European-security.webp -->
+
+व्लादिमीर पुतिन ने मॉस्को में अमेरिकी दूतों को चेतावनी दी कि यूक्रेन में विदेशी सैनिक वैध निशाना होंगे। वोलोदिमीर जेलेंस्की ने अमेरिकी स्टारशील्ड नेटवर्क की स्पीड सीमा बढ़ने की जानकारी दी। Russia Ukraine peace talks: यूक्रेन युद्ध को खत्म करने की शांति कोशिशों में गुरुवार को नई खींचतान दिखी। रूसी राष्ट्रपति व्लादिमीर पुतिन ने मॉस्को में अमेरिकी दूतों स्टीव विटकॉफ और जेरेड कुशनर को चेतावनी दी कि यूक्रेन में विदेशी सैनिक तैनात हुए तो वे ‘वैध निशाना’ होंगे।
+
+### [रूस की बढ़ने वाली है मुश्किल! EU ला रहा 22वां प्रतिबंध पैकेज, यूक्रेन के लिए भी तैयार हो हो रहा](https://www.patrika.com/world-news/eu-22nd-sanctions-package-russia-ukraine-funding-2027-von-der-leyen-21045536)
+*Patrika (World)* - Nov 12, 20:40 IST (iso: 2026-11-12T15:10:11+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/EPC-summit.webp -->
+
+उर्सुला वॉन डेर लेयेन ने डबलिन में रूस के खिलाफ 22वां प्रतिबंध पैकेज तैयार करने की घोषणा की। 2027 में यूक्रेन की वित्तीय जरूरतों को पूरा करने का प्रस्ताव भी बनाया जा रहा है। EU Sanctions: यूरोपीय आयोग की अध्यक्ष उर्सुला वॉन डेर लेयेन ने गुरुवार को कहा कि यूरोपीय संघ (ईयू) रूस के खिलाफ 22वां प्रतिबंध पैकेज तैयार कर रहा है।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [ट्रक ने कई वाहनों को मारी टक्कर, 14 लोगों की मौत; मृतकों में भारतीय भी शामिल](https://www.amarujala.com/world/uae-fujairah-truck-accident-kills-14-including-indians-30-injured-2026-11-13)
+*Amar Ujala Breaking* - Nov 13, 12:23 IST (iso: 2026-11-13T06:53:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/bugdha-khabra_cedadbbef70ac8906dc3f3179038c8c5.jpeg?w=1200&dpr=1.0 -->
+
+यूएई के फुजाइराह में एक ट्रक ने कई वाहनों को टक्कर मारी जिससे 14 लोगों की मौत हो गई। घटना में 30 लोग घायल हुए। मृतकों की सूची में भारतीय नागरिक भी शामिल हैं। ट्रक ने कई वाहनों को मारी टक्कर, 14 लोगों की मौत; मृतकों में भारतीय भी शामिल।
+
+### [ट्रंप ने जेडी वेंस को दी ईरान वाली गलती की सजा? छीन ली ये बड़ी पावर, दुश्मनों के गढ़ में धकेला](https://hindi.news18.com/world/america-trump-punishes-jd-vance-us-president-orders-vice-president-to-focus-on-democrat-run-states-after-secret-iran-talks-leak-10982465.html)
+*News18 Hindi (World)* - Nov 12, 22:14 IST (iso: 2026-11-12T16:44:10+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-JD-Vance-Fallout-2026-11-02c1649abde37f276bfaffd2362de29c-1200x800.jpg -->
+
+रिपब्लिकन पार्टी में अंदरूनी कलह के बीच ट्रंप ने जेडी वेंस को विदेशी मामलों से हटा दिया। वेंस ने ईरान से छिपकर बातचीत की कोशिश की थी। ट्रंप ने इस फैसले को वेंस की बगावत की सजा के रूप में लिया। अमेरिकी मिडटर्म चुनाव में पार्टी को हार मिलने के बाद से रिपब्लिकन पार्टी में बवाल चालू है. उपराष्ट्रपति जेडी वेंस ने ट्रंप के ईरान की जंग वाले फैसले पर सवाल खड़े किए थे.
+
+### [‘सैन्य कार्रवाई के लिए विपक्ष की मंजूरी नहीं चाहिए’, कार्यवाहक इज़रायली रक्षा मंत्री इज़रायल काट्ज़ की](https://www.patrika.com/world-news/israel-katz-says-no-need-for-opposition-approval-to-launch-strikes-21045637)
+*Patrika (World)* - Nov 12, 21:44 IST (iso: 2026-11-12T16:14:24+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/katz.webp -->
+
+कार्यवाहक रक्षा मंत्री इज़रायल काट्ज़ ने कहा कि सैन्य कार्रवाई के लिए विपक्ष की मंजूरी आवश्यक नहीं है। नई सरकार बनने तक बेंजामिन नेतन्याहू कार्यवाहक प्रधानमंत्री की भूमिका निभा रहे हैं। इज़रायल (Israel) में अभी तक नई नई सरकार का गठन नहीं हुआ है। ऐसे में बेंजामिन नेतन्याहू (Benjamin Netanyahu) ही कार्यवाहक पीएम की भूमिका निभा रहे हैं और उनका मंत्रिमंडल भी।
+
+### [ट्रंप-नेतन्याहू की फोन कॉल हुई लीक, चिल्लम-चिल्ली से मचा दिया ‘नर्क’, ईरान पर रास्ते अलग?](https://hindi.news18.com/world/middle-east-trump-netanyahu-shouting-match-from-hell-clash-in-explosive-phone-call-over-iran-war-exposes-deepening-us-israel-divide-10982345.html)
+*News18 Hindi (World)* - Nov 12, 20:15 IST (iso: 2026-11-12T14:45:21+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-Netanyahu-Phone-Call-2026-11-861478fffcd321f39e99f12ff542a4dd-1200x800.jpg -->
+
+ट्रंप और नेतन्याहू के बीच ईरान पर फोन बातचीत में तीखी बहस हुई। ट्रंप कूटनीति और युद्ध टालने पर जोर दे रहे हैं। नेतन्याहू ईरान में सरकार गिराने की कोशिश में लगे हैं। दोनों देशों के बीच यह मतभेद स्पष्ट हो गया है। ईरान को लेकर अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच फोन पर तीखी बहस हुई.
 
 ---
 
 ## अमेरिका
 
-### [न्यूयॉर्क में ढही 3 मंजिला इमारत, 1 की दबकर मौत, 10 लोग जख्मी, रेस्क्यू में जुटा प्रशासन](https://hindi.news18.com/world/america-new-york-building-collapsed-killing-one-injuring-10-rescue-update-ws-l-10980338.html)
-*News18 Hindi (World)* - Nov 12, 10:04 IST (iso: 2026-11-12T04:34:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/new-york-building-2026-11-704fc0219f8bb1cb1c684aa5a6dd82c7-1200x800.jpg -->
+### [वेनेजुएला के तेल से अमेरिका ने कमाए करोड़ों डॉलर: 99 फीसदी रकम लौटाने का दावा, कहां है बाकी पैसा?](https://www.amarujala.com/world/us-returns-nearly-99-percent-of-venezuela-oil-revenue-after-maduros-ouster-2026-11-13)
+*Amar Ujala World* - Nov 13, 01:52 IST (iso: 2026-11-12T20:22:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/17/crude-oil_89850d40afd2f0e9016e79058916264f.jpeg?w=1200&dpr=1.0 -->
 
-न्यूयॉर्क के ब्रुकलिन में तीन मंजिला इमारत ढह गई। इस हादसे में एक व्यक्ति की मौत हुई और दस लोग जख्मी हो गए। चार जख्मी गंभीर हालत में हैं। New York Building Collapsed: न्यूयॉर्क के ब्रुकलिन में एक तीन मंजिल की इमारत ढहने से एक शख्स की मौत हो गई है, जबकि 10 लोग जख्मी हो गए हैं, जिनमें से चार की हालत गंभीर बताई जा रही है.
+अमेरिका ने वेनेजुएला के तेल से कमाई के 99 प्रतिशत हिस्से को लौटाने का दावा किया है। माडुरो के पदच्युत होने के बाद यह कदम उठाया गया। शेष रकम का स्थान अभी अज्ञात है। वेनेजुएला के तेल से अमेरिका ने कमाए करोड़ों डॉलर: 99 फीसदी रकम लौटाने का दावा, कहां है बाकी पैसा?
+
+### ['लीजेंड की जगह लीजेंड लेगा', ट्रंप ने बता दिया नए NVIDIA CEO का नाम! जानें जेसन हुआंग की कुर्सी](https://hindi.news18.com/world/america-donald-trump-push-tim-cook-as-new-nvidia-ceo-after-jensen-huang-resigns-amid-china-spy-love-affair-scandal-10982559.html)
+*News18 Hindi (World)* - Nov 12, 23:03 IST (iso: 2026-11-12T17:33:56+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-midterm-election-results-2026-america-chunav-Donald-trump-republicans-lost-democrats-win-majority-US-Senate-Chunav-Result-2026-11-86906d35c357a97d2c23ea0a764342c1-1200x800.jpg -->
+
+एनवीडिया के सीईओ जेसन हुआंग ने स्कैंडल के बाद इस्तीफा दे दिया। इससे कंपनी के 800 अरब डॉलर के बाजार मूल्य में गिरावट आई। ट्रंप ने नए सीईओ का नाम घोषित किया और कमान सीएफओ को सौंपी। एनवीडिया के को-फाउंडर और सीईओ जेसन हुआंग ने एक बड़े जासूसी स्कैंडल के चलते अपने पद से इस्तीफा दे दिया है. इस खबर से दुनिया भर के शेयर बाजार में हड़कंप मच गया और कंपनी के 800 अरब डॉलर डूब गए.
+
+### [व्हाइट हाउस के पास तड़ातड़ चली गोलियां, पांच को शूट किया फिर आरोपी ने खुद को मार ली गोली](https://hindi.news18.com/world/america-washington-dc-shooting-near-white-house-1-dead-4-injured-as-gunman-shoots-himself-after-gym-attack-10982555.html)
+*News18 Hindi (World)* - Nov 12, 22:26 IST (iso: 2026-11-12T16:56:24+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Shooting-Near-White-House-2026-11-b222fc52332d319d3b3b979aed0dc94d-1200x800.jpg -->
+
+वाशिंगटन डीसी में व्हाइट हाउस के पास एक हमलावर ने ताबड़तोड़ गोलीबारी की। इसमें एक की मौत हुई और चार घायल हुए। पुलिस ने इलाके को घेर लिया और आरोपी ने अपार्टमेंट में छिपकर आत्महत्या कर ली। अमेरिका की राजधानी वाशिंगटन डीसी में व्हाइट हाउस के पास ताबड़तोड़ गोलियां चलाईं. इस हमले में पांच लोगों को गोली लगी, जिसमें से एक की मौत हो गई और चार लोग घायल हो गए.
+
+### [व्हाइट हाउस के पास गोलीबारी से मचा हड़कंप, आसपास के स्कूलों में लगा लॉकडाउन](https://www.patrika.com/world-news/several-people-shot-near-white-house-21045649)
+*Patrika (World)* - Nov 12, 21:00 IST (iso: 2026-11-12T15:30:50+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/firing-near-white-house.webp -->
+
+व्हाइट हाउस के पास हुई गोलीबारी के बाद आसपास के स्कूलों में लॉकडाउन लगाया गया। अमेरिका में बंदूक से हिंसा की घटनाओं की संख्या लगातार उच्च स्तर पर बनी हुई है। अमेरिका (United States of America) में गन वॉयलेंस (बंदूक की वजह से हिंसा) का कहर रुकने का नाम नहीं ले रहा है। अमेरिका में कहीं न कहीं अक्सर ही गोलीबारी के मामले सामने आते रहते हैं।
+
+---
+
+## एशिया-प्रशांत
+
+### [आतंकवाद पर भारत-इंडोनेशिया की दोटूक, दुनिया से निर्णायक कार्रवाई की अपील](https://www.amarujala.com/india-news/mea-said-india-indonesia-call-for-decisive-global-action-to-combat-terrorism-2026-11-13)
+*Amar Ujala National* - Nov 13, 01:11 IST (iso: 2026-11-12T19:41:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/mea-terrorism_b4be57cc43a25061905225fb9c759e34.jpeg?w=1200&dpr=1.0 -->
+
+भारत और इंडोनेशिया ने आतंकवाद पर दुनिया से निर्णायक कार्रवाई की अपील की है। विदेश मंत्रालय ने दोनों देशों की एकजुटता को रेखांकित किया। यह बयान आतंकवाद के खिलाफ कड़ी कार्रवाई की मांग करता है। विदेश मंत्रालय: आतंकवाद पर भारत-इंडोनेशिया की दोटूक, दुनिया से निर्णायक कार्रवाई की अपील।
+
+### [जमीन पर चलने वाली अनोखी मछली! जमीन के लिए लड़ती हैं भयानक जंग, इंजीनियरिंग भी जानती हैं](https://hindi.news18.com/world/rest-of-world-meet-the-mudskipper-fish-that-walks-on-land-climbs-trees-fights-fierce-territorial-battles-does-engineering-for-houses-photogallery-10982648.html)
+*News18 Hindi (World)* - Nov 12, 23:56 IST (iso: 2026-11-12T18:26:12+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Mudskipper-2026-11-b9a81f4c912dd9c7a32ca65a0fad040e-1200x800.jpg -->
+
+जापान के तटीय क्षेत्रों में पाई जाने वाली मडस्किपर मछली पानी के साथ जमीन पर भी चलती है। ये अपने क्षेत्र की रक्षा के लिए भयंकर लड़ाई लड़ती है। इसकी अद्वितीय शारीरिक संरचना इंजीनियरों के लिए भी रोचक उदाहरण है। दुनिया में कई ऐसे जीव हैं जो अपनी अजीबोगरीब खासियतों की वजह से वैज्ञानिकों और आम लोगों को हैरान कर देते हैं.
+
+### [नदी किनारे पड़ा कांप रहा था, जिंदा मिला 6 दिनों से लापता लड़का, रेस्क्यू टीम भी चमत्कार देख हैरान](https://hindi.news18.com/world/rest-of-world-australian-teen-found-alive-after-6-days-lost-in-dense-bushland-miraculous-rescue-shocks-police-video-10982449.html)
+*News18 Hindi (World)* - Nov 12, 20:59 IST (iso: 2026-11-12T15:29:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Australian-Teenager-Rescued-2026-11-6137c965635a768f4fd685f62e0282b7-1200x800.jpg -->
+
+ऑस्ट्रेलिया में छह दिन से लापता 17 वर्षीय विलियम को नदी किनारे बेसुध हालत में मिला। पुलिस और रेस्क्यू टीम ने उसे बचाया। डॉक्टरों ने बताया कि उसकी हालत स्थिर है। ऑस्ट्रेलिया के घने जंगलों में 17 साल का विलियम छह दिन से लापता था. वो एक नदी के किनारे बेसुध मिला और ठंड व भूख से कांप रहा था.
+
+### [भारत ने गरीबी भगाने में रच दिया इतिहास, तो पाकिस्तान की हालत हो गई बेहद खराब](https://hindi.news18.com/news/nation/poverty-in-india-declines-rapidly-while-pakistan-faces-worsening-conditions-ws-l-10982405.html)
+*News18 Hindi (World)* - Nov 12, 20:28 IST (iso: 2026-11-12T14:58:55+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/World-Bank-Poverty-and-Equity-Report-October-2026-2026-10-d2dbbb275d782d137470237c686bf43d-1200x800.jpg -->
+
+यूरोपियन टाइम्स की रिपोर्ट के अनुसार, भारत ने 12 वर्षों में 49.6 करोड़ लोगों को गरीबी से बाहर निकाला। इसी अवधि में पाकिस्तान में गरीबी और असमानता में तेजी से वृद्धि हुई। दोनों देशों के आर्थिक प्रदर्शन में स्पष्ट अंतर सामने आया है। यूरोपियन टाइम्स की रिपोर्ट के अनुसार, भारत ने गरीबी घटाने में ऐतिहासिक सफलता पाई है और 12 वर्षों में लगभग 49.6 करोड़ लोग गरीबी से बाहर आए हैं.
+
+### [जेन्सेन हुआंग ने NVIDIA के सीईओ पद से दिया इस्तीफा, कोलेट क्रेस को बनाया गया अंतरिम सीईओ](https://www.patrika.com/world-news/jensen-huang-resigns-as-nvidia-ceo-colette-kress-appointed-as-interim-ceo-21045539)
+*Patrika (World)* - Nov 12, 20:16 IST (iso: 2026-11-12T14:46:06+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/huang_79f1d3.webp -->
+
+एनवीडिया ने पुष्टि की है कि जेन्सेन हुआंग ने सीईओ, प्रेसिडेंट और बोर्ड मेंबर के पदों से इस्तीफा दे दिया है। कंपनी ने कोलेट क्रेस को अंतरिम सीईओ नियुक्त किया है। इस फैसला तत्काल प्रभाव से लागू हो गया है। चीन (China) की एक महिला जिसके जासूस होने की आशंका है, के साथ अफेयर की वजह से विवादों में घिरे जेन्सेन हुआंग (Jensen Huang) ने एनवीडिया (NVIDIA) के सीईओ पद से इस्तीफा दे दिया है।
+
+### [कब्रिस्तान में चल रही थी खुदाई, जमीन के अंदर से आई टन की आवाज, मिला 2200 साल पुराना खजाना](https://hindi.news18.com/world/rest-of-world-kazakhstan-almaty-burial-mound-researcher-discovered-2200-year-old-unique-gold-bear-and-bones-10982214.html)
+*News18 Hindi (World)* - Nov 12, 20:02 IST (iso: 2026-11-12T14:32:47+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Golden-Bear-2026-11-1cc3a5c16490a1c04a0273f976b3fb55-1200x800.jpg -->
+
+कजाकिस्तान के अल्माटी में एक प्राचीन मकबरे की खुदाई में 2200 साल पुराना सोने का भालू मिला है। यह मूर्ति साका काल की हो सकती है। दावा है कि यह किसी शाही मुकुट या पोशाक का हिस्सा था। प्राचीन काल के एक मकबरे में खुदाई का काम चल रहा था. कजाकिस्‍तान के अल्‍माटी शहर में रिसर्च के दौरा खुदाई में सोने का भालू मिला है.
+
+### [पाकिस्तान से आई अच्छी खबर, इमरान खान और उनके शुभचिंतक हो जाएंगे गदगद](https://hindi.news18.com/world/pakistan-good-news-from-pakistan-ex-pm-imran-khan-and-his-family-well-wishers-two-sisters-released-from-jail-ws-l-10982329.html)
+*News18 Hindi (World)* - Nov 12, 19:48 IST (iso: 2026-11-12T14:18:12+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/imran-khan-5-2026-10-27e5a53ea16254d41ded196a4bafbbec-1200x800.jpg -->
+
+पाकिस्तान की जेल में बंद इमरान खान की दो बहनों को रिहा करने का आदेश दिया गया है। यह फैसला उनके समर्थकों के लिए राहत भरा है। इमरान खान अभी भी जेल में बंद हैं। पाकिस्तान के पूर्व प्रधानमंत्री और तहरीक-ए-इंसाफ पार्टी के संस्थापक इमरान खान के लिए अच्छी खबर आई है. जानें इस फैसले के बाद इमरान खान के प्रशंसकों ने क्या कहा?
 
 ---
 
