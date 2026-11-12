@@ -1,16 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 12, 2026 10:02 IST
+**Updated:** November 12, 2026 18:53 IST
+
+---
+
+## Asia-Pacific
+
+### [Alice Huang barred from re-entering Singapore; insufficient evidence she committed offences in](https://www.channelnewsasia.com/singapore/alice-huang-megaspeed-mha-offences-probe-6544206)
+*Channel News Asia* - Nov 12, 18:30 IST (iso: 2026-11-12T13:00:05+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--OOey8Yx_--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-11T223118Z_1_LYNXNPEMAA1ZE_RTROPTP_3_NVIDIA-PROBE-CEO.JPG?itok=Fr4_nZDp -->
+
+Singapore barred Alice Huang from re-entering the country. The Ministry of Home Affairs stated there was insufficient evidence she committed offences. Officials emphasized the nation will not allow misuse of its business environment for fraud or dishonest practices. "Singapore is committed to upholding our reputation as a trusted and reliable business hub. We will not allow companies or individuals to misuse Singapore's business environment to engage in fraud or dishonest practices," the Ministry of Home Affairs said.
+
+### [Prabowo gains upper hand as Gibran’s exit weakens Widodo’s grip](https://asiatimes.com/2026/11/prabowo-gains-upper-hand-as-gibrans-exit-weakens-widodos-grip/)
+*Asia Times* - Nov 12, 15:06 IST (iso: 2026-11-12T09:36:48+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Indonesia-Gibran-Prabowo.jpg -->
+
+Indonesian Vice President Gibran Rakabuming Raka resigned, shifting power dynamics. President Prabowo Subianto gained the upper hand as Jokowi lost his direct presence in the administration. Jokowi had previously helped carry Prabowo to the presidency in 2024. Indonesian Vice President Gibran Rakabuming Raka’s resignation may mark a turning point in the balance of power between President Prabowo Subianto and his predecessor, Joko Widodo.
+
+### [China’s tech export boom is hiding a weakening economy](https://asiatimes.com/2026/11/chinas-tech-export-boom-is-hiding-a-weakening-economy/)
+*Asia Times* - Nov 11, 14:38 IST (iso: 2026-11-11T09:08:12+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Humanoid-Robots.jpg -->
+
+China's annual trade surplus surpassed one trillion dollars despite US tariff pressures. Imports also hit their highest level since 2021. The figures suggest the economy remains resilient. Beijing continues to export heavily while domestic consumption recovers slowly. NEW YORK. A week after US voters rebuked Donald Trump’s Republican Party, China delivered a stinging reminder that his presidency is going awry from all directions.
+
+### [Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China](https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation)
+*The Guardian* - Nov 08, 08:30 IST (iso: 2026-11-08T03:00:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/35edbd25132584ead100a994fe3243e80a1ce3f1/0_0_4132_3306/master/4132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fa1a8b3cf4e2a78849c21902c5dbd10 -->
+
+Two Uyghurs face deportation from Thailand to China. Activists warn they will face torture and enslavement. Bangkok previously sent forty Uyghurs back last year. Human rights groups urge Thai authorities to halt the transfers. Activists fear Bangkok will give in to pressure from Beijing despite reports of torture and human rights abuses against the mostly muslim ethnic minorityThe deportation of two more Uyghurs to China from Thailand would put their lives in grave danger, activists have said, with one of the men saying he would be “like a slave” if he was sent back. Last year, Thai authorities forcibly deported 40 Uyghu.
 
 ---
 
 ## Europe & Russia
 
-### [Protesters clash with police in Spain after huge housing cost rallies](https://www.thehindu.com/news/international/protesters-clash-with-police-in-spain-after-huge-housing-cost-rallies/article71692238.ece)
-*The Hindu (International)* - Nov 12, 09:35 IST (iso: 2026-11-12T04:05:30+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/3gsdxv/article71692274.ece/alternates/LANDSCAPE_1200/AP11_12_2026_000008A.jpg -->
+### [Arrests, Attacks, And A Familiar Kremlin Refrain](https://www.rferl.org/a/gutterman-week-in-russia-newsletter/33895561.html)
+*Radio Free Europe / Liberty* - Nov 12, 16:33 IST (iso: 2026-11-12T11:03:44+00:00)
+<!-- image: https://gdb.rferl.org/fb917240-c0ed-4529-80a7-abb3a9404b7c_cx0_cy2_cw0_w1200_h630.jpg -->
 
-Protesters clashed with police in Spain following large rallies against high housing costs. The demonstrations signal deep public discontent ahead of a snap election this month. Right-wing opposition parties are expected to defeat Socialist Prime Minister Pedro Sanchez in the upcoming vote. The size of the demonstrations has been seen as an indicator of public discontent before a snap election set for this month, in which the right-wing opposition is expected to defeat Socialist Prime Minister Pedro Sanchez.
+US, Ukraine, and Russia held trilateral talks in Abu Dhabi. Negotiations focused on broad security questions while deep gaps remained over Donbas territorial control. Russia continued military attacks on Ukraine and domestic crackdowns on citizens during the discussions. At the first US-Ukraine-Russia negotiations since February, talk turns to broad questions of security while wide gaps remain over core issues such as territorial control in the Donbas.
 
 ### [Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case](https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case)
 *The Guardian* - Nov 11, 21:35 IST (iso: 2026-11-11T16:05:45+00:00)
@@ -48,11 +76,21 @@ Ukrainian and Russian negotiators concluded the first day of US-brokered peace t
 
 The EU cannot agree on a single envoy for Russia-Ukraine peace talks. Meanwhile, Montenegro faces potential safeguards upon joining the bloc. RFE/RL Europe Editor Rikard Jozwiak analyzes both issues in this week's briefing. In this week's briefing, RFE/RL Europe Editor Rikard Jozwiak is drilling down on two issues: why the EU cannot agree on an envoy for Russia-Ukraine peace talks and what safeguards Montenegro could face when it joins the bloc.
 
-### [High Hurdles To Progress At New US-Ukraine-Russia Talks](https://www.rferl.org/a/war-negotiations-abu-dhab-ukraine-russia-us/33893873.html)
-*Radio Free Europe / Liberty* - Nov 09, 19:55 IST (iso: 2026-11-09T14:25:44+00:00)
-<!-- image: https://gdb.rferl.org/61be2878-4db6-4060-b194-cb55114ae8d3_cx0_cy4_cw0_w1200_h630.jpg -->
+---
 
-The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 for their first talks since February. Analysts expect limited progress on ending the war, citing deep structural disagreements and the lack of a unified negotiating position among the three parties. For the first time since February, the US, Ukraine, and Russia meet on November 10-11 for talks aimed at ending the biggest war in Europe since 1945, but expectations of breakthrough are low.
+## World
+
+### [Nvidia, Jensen Huang and the history of ‘sexpionage’](https://asiatimes.com/2026/11/nvidia-jensen-huang-and-the-history-of-sexpionage/)
+*Asia Times* - Nov 12, 15:33 IST (iso: 2026-11-12T10:03:09+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Nvidia-Jensen-Huang.jpg -->
+
+Intelligence agencies often target key individuals to compromise them. This involves damaging reputations or creating situations where sensitive information might be disclosed. Such tactics aim to gain access to data adversaries do not want shared. A large portion of intelligence work is focused on collecting information your competitor or adversary does not want you to have. But another key focus of intelligence is on compromising key individuals.
+
+### [Amish Shah, Pia Dandiya join centrist New Democratic Coalition](https://www.thehindu.com/news/international/amish-shah-pia-dandiya-join-centrist-new-democratic-coalition/article71692439.ece)
+*The Hindu (International)* - Nov 12, 11:15 IST (iso: 2026-11-12T05:45:04+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/35opez/article71692455.ece/alternates/LANDSCAPE_1200/PTI11_12_2026_000014B.jpg -->
+
+Amish Shah and Pia Dandiya joined the New Democratic Coalition. This centrist caucus operates within the Democratic party. The separate progressive caucus has over 100 members and is led by Texas Congressman Greg Casar. The other prominent caucus within the Democratic party – the progressives – has over 100 members and is led by Texas Congressman Greg Casar with lawmakers Ilhan Omar, Pramila Jayapal and Ro Khanna as members.
 
 ---
 
@@ -63,18 +101,6 @@ The United States, Ukraine, and Russia meet in Abu Dhabi on November 10 and 11 f
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/05/President_Trump_at_the_Israel_Museum._Jerusalem_May_23_2017_President_Trump_at_the_Israel_Museum._Jerusalem_May_23_2017_34460980460.jpg -->
 
 Senator Chris Van Hollen led a group of Democrats in demanding the repeal of US-Israel military integration efforts. The lawmakers warned the bipartisan initiative threatens American national security. Van Hollen is considering a bid for Senate majority leader against Chuck Schumer. Sen. Chris Van Hollen, who is considering a bid for Senate majority leader against Sen. Chuck Schumer, led a group of Democratic lawmakers on November 10 in demanding that congressional leaders scrap a bipartisan effort to more closely integrate the American and Israeli militaries, warning the initiative would threaten US national security and risk further [] The post Democrats preview plan to ro.
-
-### [Israeli strike on southern Gaza hospital kills five, Gaza civil defence says](https://www.thehindu.com/news/international/israeli-strike-on-southern-gaza-hospital-kills-five-gaza-civil-defence-says/article71692179.ece)
-*The Hindu (International)* - Nov 12, 08:41 IST (iso: 2026-11-12T03:11:42+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/5n8wml/article71692201.ece/alternates/LANDSCAPE_1200/2026-11-11T174911Z_2146011122_RC2RLOA932V1_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG -->
-
-An Israeli strike on a hospital in southern Gaza killed five people, according to civil defence. Israel claims Hamas is regrouping and refilling its arsenal. Hamas states it remains committed to the ceasefire and accuses Israel of undermining the agreement. Israel, which has stepped up its attacks ⁠on the enclave, says Hamas is trying to regroup and refill its arsenal.
-
-### [4 Killed, Several Injured In Israeli Airstrikes In Gaza](https://www.ndtv.com/world-news/israeli-strike-on-southern-gaza-hospital-kills-four-gaza-civil-defence-says-12314800#publisher=newsstand)
-*NDTV World* - Nov 12, 05:18 IST (iso: 2026-11-11T23:48:13+00:00)
-<!-- image: https://c.ndtvimg.com/2023-12/bq6fc70o_khan-younis-gaza-afp_625x300_27_December_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720 -->
-
-Israeli airstrikes on a building at Nasser Hospital in Khan Younis killed at least four people. Several others were wounded in the early Thursday strike. Gaza's civil defence service confirmed the casualties. An Israeli airstrike on a building at Nasser Hospital in Khan Younis, southern Gaza, killed at least four people and wounded several others early on Thursday, a spokesman for Gaza's civil defence service told Reuters.
 
 ### [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/feed/view/en/story/2026/11/1168787)
 *UN News* - Nov 11, 17:30 IST (iso: 2026-11-11T12:00:00+00:00)
@@ -87,12 +113,6 @@ UN Secretary-General António Guterres stated that early warning systems are sav
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-05-2021-UNIFIL8.jpg/image770x420cropped.jpg -->
 
 UN peacekeepers are preparing to exit southern Lebanon after 48 years of patrolling the Blue Line. Hostilities have decreased following a June agreement between the United States, Lebanon, and Israel. Communities report the situation remains volatile and difficult for those attempting to rebuild their lives. The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.
-
-### [How much will Jensen Huang’s scandal ultimately cost?](https://asiatimes.com/2026/11/how-much-will-jensen-huangs-scandal-ultimately-cost/)
-*Asia Times* - Nov 10, 17:44 IST (iso: 2026-11-10T12:14:42+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Nvidia.jpg -->
-
-Nvidia CEO Jensen Huang admitted to an extramarital affair with Alice Huang. She has been accused of being a Chinese intelligence agent. The scandal raises concerns about the security of artificial intelligence chip supply chains. Jensen Huang, the chief executive and co-founder of chipmaking company Nvidia, recently admitted to an extramarital affair. However, it’s not just a tabloid story: the woman involved, Alice Huang, has been accused of being a Chinese intelligence agent.
 
 ### [IOM urges wider surveillance beyond formal routes in DR Congo](https://news.un.org/feed/view/en/story/2026/11/1168781)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
@@ -114,7 +134,7 @@ Six journalists from the Egyptian fact-checking site Matsadash remain in detenti
 
 ### [South Sudan’s first elections loom amid rising violence](https://news.un.org/feed/view/en/story/2026/11/1168774)
 *UN News* - Nov 10, 17:30 IST (iso: 2026-11-10T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UNP_Sudan-01.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/10-11-2026_UNP_Sudan-01.jpg/image560x340cropped.jpg -->
 
 South Sudan faces its first national elections in six weeks as violence escalates. The Security Council meets in New York to demand credible polls. Civilians continue to suffer from fighting, hunger, and displacement. With South Sudan just six weeks away from its first national elections since independence, the Security Council meets in New York Tuesday amid deepening political uncertainty and worsening violence.
 
@@ -130,37 +150,17 @@ UNICEF warns that drones and drought are closing in on Sudan. Attackers now use 
 
 Over one billion women and girls live in climate hotspots. High hazard exposure combines with insecure jobs and gender inequality. The crisis could push 141 million more into extreme poverty. More than one in three women and girls worldwide – roughly 1.5 billion – live in so-called “climate hotspots”, where high exposure to hazards such as cyclones and droughts combine with insecure jobs and deep gender inequality.
 
-### [Why Pakistan’s Trump card isn’t paying off](https://asiatimes.com/2026/11/transactional-mirage-why-pakistans-trump-card-isnt-paying-off/)
-*Asia Times* - Nov 10, 15:31 IST (iso: 2026-11-10T10:01:09+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-Shehbaz-Sharif-Pakistan-US.jpg -->
+### [The View from Eritrea](https://www.crisisgroup.org/pod/africa/eritrea/view-eritrea)
+*International Crisis Group* - Oct 30, 21:59 IST (iso: 2026-10-30T16:29:00+00:00)
+<!-- image: https://images.pexels.com/photos/12917693/pexels-photo-12917693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Pakistan’s military-led government failed to secure favorable terms from Donald Trump despite aggressive courting. Prime Minister Shehbaz Sharif promoted cryptocurrency deals and rare-earth minerals at the White House. The strategy prioritized personal praise over structural policy changes. This transactional approach has not yielded the expected diplomatic or economic concessions for Islamabad. Pakistan’s military-led hybrid government did nearly everything it could to woo Donald Trump, from pursuing cryptocurrency deals with members of the Trump family to showcasing the country’s rare-earth mineral potential at the White House.
+Giulia Paravicini reports from Asmara, Eritrea's capital. She details daily life in the isolated nation. The piece examines leadership strategies amid regional instability. Tensions with Ethiopia continue to shape the country's foreign policy decisions. This week on The Horn, Alan speaks with Reuters journalist Giulia Paravicini about her recent reporting trip to Eritrea’s capital, Asmara, what she learned about life in the isolated country and its leadership’s calculations amid regional turmoil and mounting tensions with Ethiopia.
 
----
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Oct 30, 05:30 IST (iso: 2026-10-30T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-## Asia-Pacific
-
-### [How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington](https://www.thehindu.com/news/international/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington/article71688529.ece)
-*The Hindu (International)* - Nov 12, 07:44 IST (iso: 2026-11-12T02:14:24+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/x6fzmv/article71688596.ece/alternates/LANDSCAPE_1200/US_Nvidia_Jensen_Huang_Fallout_83942.jpg -->
-
-Nvidia CEO Jensen Huang faces a political and legal storm in Washington. Federal investigators are probing export controls and national security breaches tied to Nvidia chips. Allegations include an extramarital affair and claims that a former executive spied for China. Nvidia CEO Jensen Huang confronts a widening political and legal storm in Washington over an alleged extramarital affair and claims a former Megaspeed executive spied for China, as federal investigators probe export controls and possible national-security breaches tied to Nvidia’s chips in the high-stakes U. S.-China AI race.
-
-### [Don’t let Taiwan’s silicon shield become a US silicon trap](https://asiatimes.com/2026/11/dont-let-taiwans-silicon-shield-become-a-us-silicon-trap/)
-*Asia Times* - Nov 10, 15:49 IST (iso: 2026-11-10T10:19:58+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/TSMC-Taiwan-China-.jpg -->
-
-TSMC is investing heavily in US semiconductor fabrication. This brings encouraging news for the struggling US economy. However, reliance on a single foreign supplier creates strategic risks for American supply chains. As the midterms loudly demonstrated, there is considerable gloom over the US economy. Cause for economic optimism is in short supply, though there is some encouraging news regarding US-based semiconductor fabrication spurred by enormous investments from the huge Taiwan company TSMC.
-
----
-
-## World
-
-### [How sensory menus can make dining out easier for people with autism](https://www.channelnewsasia.com/advertorial/how-sensory-menus-can-make-dining-out-easier-people-autism-6486211)
-*Channel News Asia* - Nov 12, 06:49 IST (iso: 2026-11-12T01:19:35+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--11QAcZ2p--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/05/bstudio_mastercard_sns_restaurant_0.jpg?itok=SLxQQf_K -->
-
-Mastercard and Accenture Song developed an AI tool to help restaurants describe food textures and temperatures. The tool provides sensory details to diners with autism or sensitivities before they order. This aims to make dining out easier for these individuals. Will a dish be crunchy or soft, served hot or cold? Mastercard and Accenture Song have developed an AI tool to help restaurants provide such details to diners with autism or sensory sensitivities before they order.
+Crisis Group analysts review global conflict hotspots. The weekly brief highlights under-reported trends and major developments. Field experts explain why specific crises matter. The report offers recommendations for addressing emerging geopolitical risks. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
 
 ---
 
