@@ -1,46 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 13, 2026 02:42 IST
-
----
-
-## दुनिया
-
-### ['बच्चों को शिक्षित करना ही मेरा अपराध था...',आजम खां का छलका दर्द](https://www.amarujala.com/video/india-news/educating-children-was-my-only-crime-azam-khan-reveals-his-anguish-2026-11-13)
-*Amar Ujala National* - Nov 13, 12:59 IST (iso: 2026-11-13T07:29:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/azam-khan_bc2deb0093e5c654dcd6ccfc85c7b313.jpeg?w=1200&dpr=1.0 -->
-
-समाजवादी पार्टी नेता आजम खां को मनी लॉन्ड्रिंग मामले में ईडी ने बृहस्पतिवार को चार दिन की रिमांड पर लखनऊ ले लिया। उन्होंने अभिरक्षा में दावा किया कि बच्चों को शिक्षा देना ही उनका अपराध था। समाजवादी पार्टी नेता आजम खां ने ईडी अभिरक्षा में बयान दिया कि बच्चों को शिक्षा देना अपराध था। मनी लॉन्ड्रिंग मामले में ईडी बृहस्पतिवार शाम उन्हें डासना जेल से चार दिन की रिमांड पर लखनऊ ले गई।
-
-### [कुलगाम हमले के बाद सीआरपीएफ जवान की चेतावनी: सामने से वार करने की हिम्मत नहीं, अब चुन-चुनकर मारे](https://www.amarujala.com/jammu-and-kashmir/srinagar/warning-from-a-crpf-jawan-following-the-kulgam-attack-terrorists-will-now-be-hunted-down-and-killed-2026-11-13)
-*Amar Ujala Breaking* - Nov 13, 12:28 IST (iso: 2026-11-13T06:58:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/1_8e66636a763ef9f5b4f07db15988a1d8.jpeg?w=1200&dpr=1.0 -->
-
-दक्षिण कश्मीर के कुलगाम में सीआरपीएफ नाके पर हुए आतंकी हमले के बाद एक जवान का वीडियो सामने आया। उसने आतंकवादियों को चेतावनी दी कि अब वे चुन-चुनकर मारेंगे। दक्षिण कश्मीर के कुलगाम में सुरक्षाबलों की नाका पार्टी पर हुए आतंकी हमले के बाद केंद्रीय रिजर्व पुलिस बल (सीआरपीएफ) के एक जवान का वीडियो सामने आया है, जिसमें उसने आतंकवादियों को कड़ा संदेश दिया है।
-
-### [अंबाजी मंदिर में दर्शन करने नहीं जाएंगे पीएम मोदी: 14 नवंबर का गुजरात दौरा रद्द; क्या है पूरा](https://www.amarujala.com/india-news/pm-modi-cancels-ambaji-temple-visit-in-gujarat-on-november-14-2026-11-13)
-*Amar Ujala National* - Nov 13, 12:23 IST (iso: 2026-11-13T06:53:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/paema-matha_8ce0d90916a3c51720ab79dbcedb7bdc.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री नरेंद्र मोदी ने 14 नवंबर को गुजरात के अंबाजी मंदिर में दर्शन करने का कार्यक्रम रद्द कर दिया। इससे पहले वे वहां पहुंचने वाले थे। नया कार्यक्रम अभी घोषित नहीं किया गया है। अंबाजी मंदिर में दर्शन नहीं करेंगे पीएम मोदी: 14 नवंबर का गुजरात दौरा रद्द; क्या है पूरा कार्यक्रम? अंबाजी मंदिर में दर्शन करने नहीं जाएंगे पीएम मोदी: 14 नवंबर का गुजरात दौरा रद्द; क्या है पूरा।
-
-### [आठवें दिन तोड़ा 'स्पाइडरमैन' का रिकॉर्ड, जानें 'धुरंधर 2' की कमाई से कितना पीछे?](https://www.amarujala.com/entertainment/bollywood/ramayana-box-office-collection-break-the-spiderman-record-total-earnings-on-day-eight-2026-11-12)
-*Amar Ujala National* - Nov 13, 12:16 IST (iso: 2026-11-13T06:46:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/ramayanae_dd67ec28ebd5b2b84d83c121c12741ef.jpeg?w=1200&dpr=1.0 -->
-
-रामायण ने आठवें दिन बॉक्स ऑफिस पर स्पाइडरमैन का रिकॉर्ड तोड़ा। देशभर में 18093 शोज चल रहे हैं। धुरंधर 2 से कमाई में अंतर स्पष्ट है। आठवें दिन 'रामायण' ने बॉक्स ऑफिस पर हॉलीवुड की फिल्म का रिकॉर्ड तोड़ा है। आज पूरे देश के सिनेमाघरों में 'रामायण' के 18093 शोज दिखाए जा रहे हैं। आठवें दिन तोड़ा 'स्पाइडरमैन' का रिकॉर्ड, जानें 'धुरंधर 2' की कमाई से कितना पीछे?
-
-### [लद्दाख में प्रदर्शन से पहले वांगचुक पर पहरा: घर के बाहर 25 जवान तैनात होने का दावा, क्या है पूरा](https://www.amarujala.com/india-news/sonam-wangchuk-claims-house-arrest-ahead-of-planned-ladakh-protest-2026-11-13)
-*Amar Ujala National* - Nov 13, 01:06 IST (iso: 2026-11-12T19:36:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/samajaka-karayakarata-sanama-vagacaka_1f08d3afb54446637b35cb0ed9312de3.jpeg?w=1200&dpr=1.0 -->
-
-लद्दाख में प्रदर्शन से पहले सोनम वांगचुक के घर के बाहर 25 जवान तैनात होने का दावा है। यह घटना वांगचुक द्वारा नियोजित प्रदर्शन से पहले हुई। स्थानीय स्रोतों ने पहरा की पुष्टि की है। लद्दाख में प्रदर्शन से पहले वांगचुक पर पहरा: घर के बाहर 25 जवान तैनात होने का दावा, क्या है पूरा विवाद?
-
-### [पति की मौत के बाद साफ कर रही थी कमरा, कबाड़ में छुपा मिला ऐसा खजाना, रातों-रात करोड़पति बन गई विधवा](https://hindi.news18.com/world/britain-widow-found-treasure-cleaning-late-husband-shed-finds-biscuit-tin-packed-with-gold-coins-worth-more-than-1-crore-rupees-10982604.html)
-*News18 Hindi (World)* - Nov 12, 23:31 IST (iso: 2026-11-12T18:01:04+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Widow-Found-Tresure-After-Her-Husband-Passed-2026-11-2f31cb7cbdcd3ec58066fd9d44d959b3-1200x800.jpg -->
-
-एक विधवा ने पति के कमरे की सफाई करते हुए कबाड़ में पुराना टिन मिला। उसमें छिपे 50 साल पुराने 62 सोने के सिक्के मिले। इन सिक्कों की नीलामी में खरीदारों की भीड़ लगी और महिला करोड़पति बन गई। एक महिला अपने पति की मौत के गम में डी थी. उसने अपना दिल हल्का करने के लिए पति के कमरे और शेड की सफाई करने का फैसला किया.
+**अपडेट:** November 13, 2026 07:43 IST
 
 ---
 
@@ -52,125 +12,165 @@
 
 फ्रांस में बम की धमकी मिलने के बाद तीन स्कूलों को खाली कराया गया। सुरक्षा बलों ने स्थिति को संभाला और जांच शुरू की। स्रोत में जांच के अंतिम परिणामों का कोई विवरण उपलब्ध नहीं है। दुनिया की खबरें: फ्रांस में बम की धमकी के बाद तीन स्कूल खाली कराए गए, जांच में क्या मिला?
 
-### [जिस सैनिक ने हेगसेथ को लगाई थी फटकार, उसी को रक्षा मंत्री ने किया सम्मानित; जानिए क्या है मामला](https://www.amarujala.com/world/hegseth-awards-soldier-who-scolded-him-and-his-aides-at-tomb-of-unknown-soldier-2026-11-13)
-*Amar Ujala World* - Nov 13, 02:16 IST (iso: 2026-11-12T20:46:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/31/pete-hegseth_c162e96606e9e09266ce0d3349e1a62a.jpeg?w=1200&dpr=1.0 -->
+### [पोस्टमैन और मेल गार्ड भर्ती का रिजल्ट जारी: ऐसे चेक करें अपना रोल नंबर; 16 नवंबर तक मिलेगा नियुक्ति](https://www.amarujala.com/jobs/india-post-tamil-nadu-postman-mail-guard-result-2026-declared-202-candidates-selected-2026-11-13)
+*Amar Ujala National* - Nov 13, 07:36 IST (iso: 2026-11-13T02:06:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/india-post-tamil-nadu-postman_0e8a60440929efbb48e0110937923621.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका में एक सैनिक ने रक्षा मंत्री हेगसेथ को फटकार लगाई थी। अब उसी सैनिक को हेगसेथ ने सम्मानित किया है। मामला सार्वजनिक रूप से सामने आया है। अमेरिका: जिस सैनिक ने हेगसेथ को लगाई थी फटकार, उसी को रक्षा मंत्री ने किया सम्मानित; जानिए क्या है मामला।
+डाक विभाग ने तमिलनाडु सर्किल में पोस्टमैन और मेल गार्ड भर्ती 2026 का परिणाम जारी किया है। कुल 202 पदों के लिए मेरिट लिस्ट घोषित कर दी गई है। चयनित उम्मीदवारों को 16 नवंबर तक नियुक्ति पत्र मिलेगा। डाक विभाग ने तमिलनाडु सर्किल में पोस्टमैन और मेल गार्ड भर्ती परीक्षा 2026 का परिणाम जारी कर दिया है। इस भर्ती में कुल 202 पदों के लिए मेरिट लिस्ट घोषित की गई है।
 
-### [विदेशी सैनिक आए तो बनेंगे वैध निशाना! मॉस्को में US दूत विटकॉफ-कुशनर के सामने पुतिन की सीधी धमकी](https://www.patrika.com/world-news/putin-witkoff-kushner-moscow-meeting-ukraine-starshield-drone-threat-21045695)
-*Patrika (World)* - Nov 12, 21:30 IST (iso: 2026-11-12T16:00:17+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/European-security.webp -->
+### [पाकिस्तान को झटका! भारत के 2 दोस्तों ने लगाया दिमाग, अफगानिस्तान-रूस के बीच हो गई 920 करोड़ की डील](https://hindi.news18.com/world/south-asia-pakistan-gets-setback-as-afghanistan-signs-15-trade-deals-worth-103-million-dollars-with-russia-10982750.html)
+*News18 Hindi (World)* - Nov 13, 05:58 IST (iso: 2026-11-13T00:28:35+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Russia-Afghanistan-1-2026-11-8765db8fd024badf06b0c462cf720586-1200x800.jpg -->
 
-व्लादिमीर पुतिन ने मॉस्को में अमेरिकी दूतों को चेतावनी दी कि यूक्रेन में विदेशी सैनिक वैध निशाना होंगे। वोलोदिमीर जेलेंस्की ने अमेरिकी स्टारशील्ड नेटवर्क की स्पीड सीमा बढ़ने की जानकारी दी। Russia Ukraine peace talks: यूक्रेन युद्ध को खत्म करने की शांति कोशिशों में गुरुवार को नई खींचतान दिखी। रूसी राष्ट्रपति व्लादिमीर पुतिन ने मॉस्को में अमेरिकी दूतों स्टीव विटकॉफ और जेरेड कुशनर को चेतावनी दी कि यूक्रेन में विदेशी सैनिक तैनात हुए तो वे ‘वैध निशाना’ होंगे।
-
-### [रूस की बढ़ने वाली है मुश्किल! EU ला रहा 22वां प्रतिबंध पैकेज, यूक्रेन के लिए भी तैयार हो हो रहा](https://www.patrika.com/world-news/eu-22nd-sanctions-package-russia-ukraine-funding-2027-von-der-leyen-21045536)
-*Patrika (World)* - Nov 12, 20:40 IST (iso: 2026-11-12T15:10:11+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/EPC-summit.webp -->
-
-उर्सुला वॉन डेर लेयेन ने डबलिन में रूस के खिलाफ 22वां प्रतिबंध पैकेज तैयार करने की घोषणा की। 2027 में यूक्रेन की वित्तीय जरूरतों को पूरा करने का प्रस्ताव भी बनाया जा रहा है। EU Sanctions: यूरोपीय आयोग की अध्यक्ष उर्सुला वॉन डेर लेयेन ने गुरुवार को कहा कि यूरोपीय संघ (ईयू) रूस के खिलाफ 22वां प्रतिबंध पैकेज तैयार कर रहा है।
+अफगानिस्तान और रूस ने 10.3 करोड़ डॉलर के 15 आर्थिक सहयोग समझौतों पर हस्ताक्षर किए। 2026 के पहले आठ महीनों में दोनों देशों का व्यापार 34.9 करोड़ डॉलर तक पहुंच गया। अफगानिस्तान और रूस के बीच व्यापारिक रिश्ते तेजी से मजबूत हो रहे हैं. दोनों देशों ने 10.3 करोड़ डॉलर के 15 आर्थिक सहयोग समझौतों पर हस्ताक्षर किए हैं. रूस अफगानिस्तान में खनन, फैक्ट्री, रेलवे और सड़क निर्माण जैसे क्षेत्रों में निवेश कर सकता है.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
 ### [ट्रक ने कई वाहनों को मारी टक्कर, 14 लोगों की मौत; मृतकों में भारतीय भी शामिल](https://www.amarujala.com/world/uae-fujairah-truck-accident-kills-14-including-indians-30-injured-2026-11-13)
-*Amar Ujala Breaking* - Nov 13, 12:23 IST (iso: 2026-11-13T06:53:51+00:00)
+*Amar Ujala World* - Nov 13, 12:23 IST (iso: 2026-11-13T06:53:51+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/11/08/bugdha-khabra_cedadbbef70ac8906dc3f3179038c8c5.jpeg?w=1200&dpr=1.0 -->
 
 यूएई के फुजाइराह में एक ट्रक ने कई वाहनों को टक्कर मारी जिससे 14 लोगों की मौत हो गई। घटना में 30 लोग घायल हुए। मृतकों की सूची में भारतीय नागरिक भी शामिल हैं। ट्रक ने कई वाहनों को मारी टक्कर, 14 लोगों की मौत; मृतकों में भारतीय भी शामिल।
 
-### [ट्रंप ने जेडी वेंस को दी ईरान वाली गलती की सजा? छीन ली ये बड़ी पावर, दुश्मनों के गढ़ में धकेला](https://hindi.news18.com/world/america-trump-punishes-jd-vance-us-president-orders-vice-president-to-focus-on-democrat-run-states-after-secret-iran-talks-leak-10982465.html)
-*News18 Hindi (World)* - Nov 12, 22:14 IST (iso: 2026-11-12T16:44:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-JD-Vance-Fallout-2026-11-02c1649abde37f276bfaffd2362de29c-1200x800.jpg -->
+### [UAE के फुजैराह में भीषण हादसा, ट्रक की टक्कर के बाद कई गाड़ियों में लगी आग; भारतीय समेत 14 की मौत](https://hindi.news18.com/world/middle-east-uae-fujairah-road-accident-indians-among-14-killed-as-truck-crashes-into-multiple-vehicles-catches-fire-10982786.html)
+*News18 Hindi (World)* - Nov 13, 06:37 IST (iso: 2026-11-13T01:07:31+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Fujairah-Truck-Crash-2026-11-24a1d8636cdb369e210716a1086d3f8f-1200x800.jpg -->
 
-रिपब्लिकन पार्टी में अंदरूनी कलह के बीच ट्रंप ने जेडी वेंस को विदेशी मामलों से हटा दिया। वेंस ने ईरान से छिपकर बातचीत की कोशिश की थी। ट्रंप ने इस फैसले को वेंस की बगावत की सजा के रूप में लिया। अमेरिकी मिडटर्म चुनाव में पार्टी को हार मिलने के बाद से रिपब्लिकन पार्टी में बवाल चालू है. उपराष्ट्रपति जेडी वेंस ने ट्रंप के ईरान की जंग वाले फैसले पर सवाल खड़े किए थे.
+संयुक्त अरब अमीरात के फुजैराह में एक ट्रक का नियंत्रण खोने से भीषण हादसा हुआ। ट्रक पलटकर अन्य वाहनों से टकराया और भीषण आग लग गई। इस दुर्घटना में 14 लोगों की मौत हुई, जिनमें भारतीय नागरिक भी शामिल हैं। संयुक्त अरब अमीरात (UAE) के फुजैराह में एक भीषण सड़क हादसे में 14 लोगों की मौत हो गई, जिनमें भारतीय भी शामिल हैं.
 
-### [‘सैन्य कार्रवाई के लिए विपक्ष की मंजूरी नहीं चाहिए’, कार्यवाहक इज़रायली रक्षा मंत्री इज़रायल काट्ज़ की](https://www.patrika.com/world-news/israel-katz-says-no-need-for-opposition-approval-to-launch-strikes-21045637)
-*Patrika (World)* - Nov 12, 21:44 IST (iso: 2026-11-12T16:14:24+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/katz.webp -->
+### [‘अमेरिकी अधिकारी को हाथ लगाया तो मिटा देंगे वजूद’, ईरान को ट्रंप की खुली धमकी; बोले- हमले से पीछे](https://www.patrika.com/world-news/donald-trump-iran-threat-us-military-action-strait-of-hormuz-control-21045859)
+*Patrika (World)* - Nov 13, 06:32 IST (iso: 2026-11-13T01:02:28+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump-2.webp -->
 
-कार्यवाहक रक्षा मंत्री इज़रायल काट्ज़ ने कहा कि सैन्य कार्रवाई के लिए विपक्ष की मंजूरी आवश्यक नहीं है। नई सरकार बनने तक बेंजामिन नेतन्याहू कार्यवाहक प्रधानमंत्री की भूमिका निभा रहे हैं। इज़रायल (Israel) में अभी तक नई नई सरकार का गठन नहीं हुआ है। ऐसे में बेंजामिन नेतन्याहू (Benjamin Netanyahu) ही कार्यवाहक पीएम की भूमिका निभा रहे हैं और उनका मंत्रिमंडल भी।
-
-### [ट्रंप-नेतन्याहू की फोन कॉल हुई लीक, चिल्लम-चिल्ली से मचा दिया ‘नर्क’, ईरान पर रास्ते अलग?](https://hindi.news18.com/world/middle-east-trump-netanyahu-shouting-match-from-hell-clash-in-explosive-phone-call-over-iran-war-exposes-deepening-us-israel-divide-10982345.html)
-*News18 Hindi (World)* - Nov 12, 20:15 IST (iso: 2026-11-12T14:45:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-Netanyahu-Phone-Call-2026-11-861478fffcd321f39e99f12ff542a4dd-1200x800.jpg -->
-
-ट्रंप और नेतन्याहू के बीच ईरान पर फोन बातचीत में तीखी बहस हुई। ट्रंप कूटनीति और युद्ध टालने पर जोर दे रहे हैं। नेतन्याहू ईरान में सरकार गिराने की कोशिश में लगे हैं। दोनों देशों के बीच यह मतभेद स्पष्ट हो गया है। ईरान को लेकर अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप और इजरायल के प्रधानमंत्री बेंजामिन नेतन्याहू के बीच फोन पर तीखी बहस हुई.
+डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है कि अमेरिकी अधिकारियों पर हमले की स्थिति में सैन्य कार्रवाई से पीछे नहीं हटेगा। उन्होंने जिम्मेदारों के अस्तित्व मिटाने की भी धमकी दी है। Trump Warning to Iran: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान को कड़ी चेतावनी दी है। ट्रंप ने कहा कि यदि ईरान ने किसी भी अमेरिका के अधिकारी को निशाना बनाया तो इसके लिए जिम्मेदार लोगों का अस्तित्व मिटा दिया जाएगा।
 
 ---
 
-## अमेरिका
+## दुनिया
 
-### [वेनेजुएला के तेल से अमेरिका ने कमाए करोड़ों डॉलर: 99 फीसदी रकम लौटाने का दावा, कहां है बाकी पैसा?](https://www.amarujala.com/world/us-returns-nearly-99-percent-of-venezuela-oil-revenue-after-maduros-ouster-2026-11-13)
-*Amar Ujala World* - Nov 13, 01:52 IST (iso: 2026-11-12T20:22:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/17/crude-oil_89850d40afd2f0e9016e79058916264f.jpeg?w=1200&dpr=1.0 -->
+### [Microsoft में बड़ा ग्लोबल आउटेज, Outlook समेत कई सेवाएं ठप, 1.30 लाख यूजर्स ने की शिकायत](https://www.patrika.com/world-news/microsoft-global-outage-outlook-teams-copilot-services-down-21045922)
+*Patrika (World)* - Nov 13, 07:38 IST (iso: 2026-11-13T02:08:22+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Microsoft-Office.webp -->
 
-अमेरिका ने वेनेजुएला के तेल से कमाई के 99 प्रतिशत हिस्से को लौटाने का दावा किया है। माडुरो के पदच्युत होने के बाद यह कदम उठाया गया। शेष रकम का स्थान अभी अज्ञात है। वेनेजुएला के तेल से अमेरिका ने कमाए करोड़ों डॉलर: 99 फीसदी रकम लौटाने का दावा, कहां है बाकी पैसा?
+माइक्रोसॉफ्ट की ग्लोबल सेवाओं में गुरुवार को बड़ा आउटेज हुआ। Outlook, Teams और Copilot समेत Microsoft 365 की कई सेवाएं ठप रह गईं। Downdetector पर लगभग 1.30 लाख यूजर्स ने Outlook से जुड़ी समस्याओं की शिकायत दर्ज कराई। कंपनी ने सर्वर में आई तकनीकी दिक्कत की जांच शुरू कर दी है। Microsoft Global Outage: माइक्रोसॉफ्ट की कई सेवाओं पर गुरुवार को बड़े पैमाने पर आउटेज का असर देखने को मिला।
 
-### ['लीजेंड की जगह लीजेंड लेगा', ट्रंप ने बता दिया नए NVIDIA CEO का नाम! जानें जेसन हुआंग की कुर्सी](https://hindi.news18.com/world/america-donald-trump-push-tim-cook-as-new-nvidia-ceo-after-jensen-huang-resigns-amid-china-spy-love-affair-scandal-10982559.html)
-*News18 Hindi (World)* - Nov 12, 23:03 IST (iso: 2026-11-12T17:33:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-midterm-election-results-2026-america-chunav-Donald-trump-republicans-lost-democrats-win-majority-US-Senate-Chunav-Result-2026-11-86906d35c357a97d2c23ea0a764342c1-1200x800.jpg -->
+### [जेन्सेन के इस्तीफे के बाद नया खुलासा: एलिस-किम्बर्ली के अलावा एक और कर्मचारी से थे संबंध, एनवीडिया](https://www.amarujala.com/world/former-nvidia-ceo-jensen-huang-third-relationship-employee-report-claims-2026-11-13)
+*Amar Ujala World* - Nov 13, 07:31 IST (iso: 2026-11-13T02:01:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/jensen-huang_2752d957601b86f10a1e0e8c6f6e3635.jpeg?w=1200&dpr=1.0 -->
 
-एनवीडिया के सीईओ जेसन हुआंग ने स्कैंडल के बाद इस्तीफा दे दिया। इससे कंपनी के 800 अरब डॉलर के बाजार मूल्य में गिरावट आई। ट्रंप ने नए सीईओ का नाम घोषित किया और कमान सीएफओ को सौंपी। एनवीडिया के को-फाउंडर और सीईओ जेसन हुआंग ने एक बड़े जासूसी स्कैंडल के चलते अपने पद से इस्तीफा दे दिया है. इस खबर से दुनिया भर के शेयर बाजार में हड़कंप मच गया और कंपनी के 800 अरब डॉलर डूब गए.
+एनवीडिया के पूर्व सीईओ जेन्सेन ह्यूएंग के इस्तीफे के बाद नया खुलासा हुआ है। रिपोर्ट के अनुसार, एलिस और किम्बर्ली के अलावा एक और कर्मचारी से उनके संबंध थे। कंपनी ने इस दावे पर कोई स्पष्ट प्रतिक्रिया नहीं दी है। जेन्सेन के इस्तीफे के बाद नया खुलासा: एलिस-किम्बर्ली के अलावा एक और कर्मचारी से थे संबंध, एनवीडिया क्या बोली?
 
-### [व्हाइट हाउस के पास तड़ातड़ चली गोलियां, पांच को शूट किया फिर आरोपी ने खुद को मार ली गोली](https://hindi.news18.com/world/america-washington-dc-shooting-near-white-house-1-dead-4-injured-as-gunman-shoots-himself-after-gym-attack-10982555.html)
-*News18 Hindi (World)* - Nov 12, 22:26 IST (iso: 2026-11-12T16:56:24+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Shooting-Near-White-House-2026-11-b222fc52332d319d3b3b979aed0dc94d-1200x800.jpg -->
+### ['छठी मईया सुन ली' से 'उठऊ सूरज देव' तक, इन गानों के बिना अधूरा है पावन पर्व](https://www.amarujala.com/entertainment/chhathi-maiya-sun-li-pukar-to-uthau-suraj-dev-10-famous-songs-on-chhath-2026-11-13)
+*Amar Ujala National* - Nov 13, 07:31 IST (iso: 2026-11-13T02:01:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/chhatha-ka-gana_6473acd30031d68c2f99a08cd2a14951.jpeg?w=1200&dpr=1.0 -->
 
-वाशिंगटन डीसी में व्हाइट हाउस के पास एक हमलावर ने ताबड़तोड़ गोलीबारी की। इसमें एक की मौत हुई और चार घायल हुए। पुलिस ने इलाके को घेर लिया और आरोपी ने अपार्टमेंट में छिपकर आत्महत्या कर ली। अमेरिका की राजधानी वाशिंगटन डीसी में व्हाइट हाउस के पास ताबड़तोड़ गोलियां चलाईं. इस हमले में पांच लोगों को गोली लगी, जिसमें से एक की मौत हो गई और चार लोग घायल हो गए.
+छठ पर्व पर 'छठी मईया सुन ली' और 'उठऊ सूरज देव' जैसे लोकप्रिय गाने बजाए जाते हैं। ये गाने पर्व के उत्साह को और बढ़ा देते हैं। इन लोकप्रिय गीतों के बिना पावन पर्व अधूरा माना जाता है। छठ के अवसर पर कई मशहूर गाने बजाए जाते हैं। ये गाने इस पर्व के उत्साह को बढ़ा देते हैं। इस खबर में छठ पर सुने जाने वाले कई मशहूर गानों का जिक्र है।
 
-### [व्हाइट हाउस के पास गोलीबारी से मचा हड़कंप, आसपास के स्कूलों में लगा लॉकडाउन](https://www.patrika.com/world-news/several-people-shot-near-white-house-21045649)
-*Patrika (World)* - Nov 12, 21:00 IST (iso: 2026-11-12T15:30:50+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/firing-near-white-house.webp -->
+### [अन्ना आंदोलन को लेकर सोनिया गांधी के किन दावों पर विवाद, क्या है 15 साल पुराने प्रदर्शन की कहानी?](https://www.amarujala.com/india-news/sonia-gandhi-memoir-belonging-a-journey-of-love-row-anna-hazare-movement-bjp-rss-manmohan-govt-explainer-2026-11-12)
+*Amar Ujala Breaking* - Nov 13, 07:17 IST (iso: 2026-11-13T01:47:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/sanaya-gathha-anana-hajara_20ac2d0202c9af953d8cf2ccd6ff3dd8.jpeg?w=1200&dpr=1.0 -->
 
-व्हाइट हाउस के पास हुई गोलीबारी के बाद आसपास के स्कूलों में लॉकडाउन लगाया गया। अमेरिका में बंदूक से हिंसा की घटनाओं की संख्या लगातार उच्च स्तर पर बनी हुई है। अमेरिका (United States of America) में गन वॉयलेंस (बंदूक की वजह से हिंसा) का कहर रुकने का नाम नहीं ले रहा है। अमेरिका में कहीं न कहीं अक्सर ही गोलीबारी के मामले सामने आते रहते हैं।
+सोनिया गांधी की आत्मकथा में अन्ना हजारे आंदोलन के दावों पर विवाद हुआ। बीजेपी और आरएसएस ने 15 साल पुराने प्रदर्शन की कहानी पर सवाल उठाए। मंमोहन सिंह सरकार के समय हुए इस घटनाक्रम को लेकर नए सवाल उभरे हैं। अन्ना आंदोलन को लेकर सोनिया गांधी के किन दावों पर विवाद, क्या है 15 साल पुराने प्रदर्शन की कहानी?
+
+### [आखिर क्या है AEBS? इमरजेंसी में कार खुद लगाएगी ब्रेक, जानें कैसे काम करती है यह तकनीक](https://www.amarujala.com/automobiles/what-is-aebs-how-automatic-emergency-braking-system-work-2026-11-12)
+*Amar Ujala National* - Nov 13, 07:00 IST (iso: 2026-11-13T01:30:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/paratakatamaka-tasavara_6fc7332b49f853db07e60eec3947af0a.jpeg?w=1200&dpr=1.0 -->
+
+AEBS एक सेफ्टी फीचर है जो इमरजेंसी में कार को खुद ब्रेक लगाता है। यह तकनीक आपात स्थिति में कार को नियंत्रित करती है। इससे दुर्घटनाओं की संभावना कम होती है और यात्रियों की सुरक्षा बढ़ती है। सेफ्टी फीचर: आखिर क्या है AEBS? इमरजेंसी में कार खुद लगाएगी ब्रेक, जानें कैसे काम करती है यह तकनीक।
+
+### [जब बॉलीवुड और भोजपुरी सिनेमा के पर्दे पर उतरी आस्था; 'भैया' से 'द वन' तक, इन फिल्मों में दिखा](https://www.amarujala.com/entertainment/chhath-festival-from-bhaiya-the-vvaan-yeh-prem-mol-liya-to-bitiya-chhathi-mai-ke-bollywood-to-bhojpuri-films-2026-11-12)
+*Amar Ujala National* - Nov 13, 07:00 IST (iso: 2026-11-13T01:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/chhatha_70853a126800ad44a42a5cb4467f5dce.jpeg?w=1200&dpr=1.0 -->
+
+चार दिवसीय छठ महापर्व की शुरुआत हो गई है। भोजपुरी और बॉलीवुड फिल्मों में इस पर्व की झलक देखने को मिली। फिल्म 'भैया' में पहली बार छठ को पर्दे पर उतारा गया था। आज नहाय खाय के साथ इस चार दिवसीय महापर्व की शुरुआत हो गई है। भोजपुरी के साथ-साथ बॉलीवुड की भी कई फिल्मों में छठ की झलक देखने को मिली।
+
+### [टीचिंग एसोसिएट भर्ती का एडमिट कार्ड जारी, 17 नवंबर से परीक्षा; ऐसे करें डाउनलोड](https://www.amarujala.com/jobs/rssb-teaching-associate-admit-card-2026-released-exams-to-begin-on-november-17-2026-11-13)
+*Amar Ujala National* - Nov 13, 06:38 IST (iso: 2026-11-13T01:08:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/rajasathana-ma-tacaga-esasaeta-bharata_a178dbb732a805936545f690cdc91260.jpeg?w=1200&dpr=1.0 -->
+
+राजस्थान कर्मचारी चयन बोर्ड ने टीचिंग एसोसिएट भर्ती 2026 के एडमिट कार्ड जारी कर दिए हैं। परीक्षा 17 नवंबर से शुरू होगी। उम्मीदवार आधिकारिक वेबसाइट या एसएसओ पोर्टल से अपना प्रवेश पत्र डाउनलोड कर सकते हैं। उम्मीदवार आवेदन नंबर और जन्मतिथि की मदद से आधिकारिक वेबसाइट या एसएसओ पोर्टल से प्रवेश पत्र डाउनलोड कर सकते हैं। टीचिंग एसोसिएट भर्ती का एडमिट कार्ड जारी, 17 नवंबर से परीक्षा; ऐसे करें डाउनलोड।
+
+### [एनर्जी ड्रिंक पीने वालों के लिए खतरे की घंटी: कार्डियक अरेस्ट का जोखिम 11 गुना, युवाओं को सबसे](https://www.amarujala.com/world/energy-drinks-and-stimulant-supplements-linked-to-higher-cardiac-arrest-study-finds-2026-11-13)
+*Amar Ujala World* - Nov 13, 06:05 IST (iso: 2026-11-13T00:35:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/01/31/heart-attack_512a122a08c35076c78349bba05c4c3c.jpeg?w=1200&dpr=1.0 -->
+
+एक अध्ययन में पाया गया कि एनर्जी ड्रिंक पीने वालों में कार्डियक अरेस्ट का जोखिम 11 गुना अधिक है। इस खतरे से युवा वर्ग सबसे ज्यादा प्रभावित होता है। एनर्जी ड्रिंक पीने वालों के लिए खतरे की घंटी: कार्डियक अरेस्ट का जोखिम 11 गुना, युवाओं को सबसे।
+
+### [ओवैसी-चंद्रशेखर की जोड़ी से अखिलेश-मायावती की बढ़ेगी चिंता; भाजपा को मिल सकता है फायदा](https://www.amarujala.com/india-news/owaisi-and-chandrashekhar-azad-join-hands-in-uttar-pradesh-raising-challenges-for-akhilesh-yadav-and-mayawati-2026-11-13)
+*Amar Ujala Breaking* - Nov 13, 05:49 IST (iso: 2026-11-13T00:19:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/11/up-politics_454a3fedb3316d44c7cc6238af8c1192.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश विधानसभा चुनाव में असदुद्दीन ओवैसी और चंद्रशेखर आजाद की संभावित गठबंधन ने अखिलेश यादव और मायावती की चिंता बढ़ा दी है। इससे भाजपा को मतों के बंटवारे में लाभ मिल सकता है। यूपी चुनाव: ओवैसी-चंद्रशेखर की जोड़ी से अखिलेश-मायावती की बढ़ेगी चिंता; भाजपा को मिल सकता है फायदा।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [आतंकवाद पर भारत-इंडोनेशिया की दोटूक, दुनिया से निर्णायक कार्रवाई की अपील](https://www.amarujala.com/india-news/mea-said-india-indonesia-call-for-decisive-global-action-to-combat-terrorism-2026-11-13)
-*Amar Ujala National* - Nov 13, 01:11 IST (iso: 2026-11-12T19:41:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/13/mea-terrorism_b4be57cc43a25061905225fb9c759e34.jpeg?w=1200&dpr=1.0 -->
+### [चौथा वनडे शुरू, यंग-साइफर्ट क्रीज पर; भारत ने तीन और न्यूजीलैंड ने छह बदलाव किए](https://www.amarujala.com/live/cricket/new-zealand-vs-india-4th-odi-live-score-ball-by-ball-commentary-latest-updates-and-match-highlights-2026-11-13)
+*Amar Ujala Breaking* - Nov 13, 07:36 IST (iso: 2026-11-13T02:06:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/09/india-vs-new-zealand-3rd-odi-rohit-sharma-shubman-gill-virat-kohli-india-playing-xi-new-zealan_fc664b83fd457cb867069ab713fb4d80.jpeg?w=1200&dpr=1.0 -->
 
-भारत और इंडोनेशिया ने आतंकवाद पर दुनिया से निर्णायक कार्रवाई की अपील की है। विदेश मंत्रालय ने दोनों देशों की एकजुटता को रेखांकित किया। यह बयान आतंकवाद के खिलाफ कड़ी कार्रवाई की मांग करता है। विदेश मंत्रालय: आतंकवाद पर भारत-इंडोनेशिया की दोटूक, दुनिया से निर्णायक कार्रवाई की अपील।
+भारत और न्यूजीलैंड के बीच पांच मैचों की वनडे सीरीज का चौथा मुकाबला आज खेला जा रहा है। मैच न्यूजीलैंड के बे ओवल मैदान में हो रहा है। दोनों टीमों ने मैच से पहले अपनी प्लेइंग इलेवन में बदलाव किए हैं। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच पांच मैचों की वनडे सीरीज का चौथा मुकाबला आज माउंट माउंगानुई के बे ओवल मैदान में खेला जा रहा है।
 
-### [जमीन पर चलने वाली अनोखी मछली! जमीन के लिए लड़ती हैं भयानक जंग, इंजीनियरिंग भी जानती हैं](https://hindi.news18.com/world/rest-of-world-meet-the-mudskipper-fish-that-walks-on-land-climbs-trees-fights-fierce-territorial-battles-does-engineering-for-houses-photogallery-10982648.html)
-*News18 Hindi (World)* - Nov 12, 23:56 IST (iso: 2026-11-12T18:26:12+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Mudskipper-2026-11-b9a81f4c912dd9c7a32ca65a0fad040e-1200x800.jpg -->
+### [बैटरी वेस्ट पर रोक क्यों जरूरी? कैसे मजबूत होगी भारत की क्रिटिकल मिनरल्स सुरक्षा?](https://www.amarujala.com/india-news/india-bans-lithium-ion-battery-waste-export-what-is-black-mass-and-how-will-it-boost-mineral-recycling-2026-11-12)
+*Amar Ujala National* - Nov 13, 07:06 IST (iso: 2026-11-13T01:36:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/lithium-battery_a835720e04c688ca2f1d4e50f66c4117.jpeg?w=1200&dpr=1.0 -->
 
-जापान के तटीय क्षेत्रों में पाई जाने वाली मडस्किपर मछली पानी के साथ जमीन पर भी चलती है। ये अपने क्षेत्र की रक्षा के लिए भयंकर लड़ाई लड़ती है। इसकी अद्वितीय शारीरिक संरचना इंजीनियरों के लिए भी रोचक उदाहरण है। दुनिया में कई ऐसे जीव हैं जो अपनी अजीबोगरीब खासियतों की वजह से वैज्ञानिकों और आम लोगों को हैरान कर देते हैं.
+भारत सरकार ने लिथियम-आयन बैटरी कचरे के निर्यात पर रोक लगा दी। इस फैसले से देश की मिनरल रीसाइक्लिंग इंडस्ट्री को मजबूती मिलेगी। क्रिटिकल मिनरल्स की सुरक्षा के लिए यह कदम आवश्यक माना जा रहा है। भारत सरकार ने लिथियम-आयन बैटरी के कचरे के निर्यात पर रोक लगा दी है। आखिर सरकार के इस फैसले से भारत की मिनरल रीसाइक्लिंग इंडस्ट्री को क्या फायदा होगा?
 
-### [नदी किनारे पड़ा कांप रहा था, जिंदा मिला 6 दिनों से लापता लड़का, रेस्क्यू टीम भी चमत्कार देख हैरान](https://hindi.news18.com/world/rest-of-world-australian-teen-found-alive-after-6-days-lost-in-dense-bushland-miraculous-rescue-shocks-police-video-10982449.html)
-*News18 Hindi (World)* - Nov 12, 20:59 IST (iso: 2026-11-12T15:29:57+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Australian-Teenager-Rescued-2026-11-6137c965635a768f4fd685f62e0282b7-1200x800.jpg -->
+### [पैसों से बिछाते हैं आतंकी जाल, पाकिस्तानी गैंगस्टर भट्टी का नेटवर्क बेनकाब](https://www.amarujala.com/india-news/nia-probes-pakistani-gangster-shahzad-bhatti-network-accused-of-radicalising-and-recruiting-indian-youth-2026-11-13)
+*Amar Ujala National* - Nov 13, 06:50 IST (iso: 2026-11-13T01:20:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/06/enaaaiie-ka-chhapamara-enaaaiie-nia_ba28733c0c1a4143d32552d72151c8a9.jpeg?w=1200&dpr=1.0 -->
 
-ऑस्ट्रेलिया में छह दिन से लापता 17 वर्षीय विलियम को नदी किनारे बेसुध हालत में मिला। पुलिस और रेस्क्यू टीम ने उसे बचाया। डॉक्टरों ने बताया कि उसकी हालत स्थिर है। ऑस्ट्रेलिया के घने जंगलों में 17 साल का विलियम छह दिन से लापता था. वो एक नदी के किनारे बेसुध मिला और ठंड व भूख से कांप रहा था.
+पाकिस्तानी गैंगस्टर भट्टी का आतंकी नेटवर्क बेनकाब हुआ है। इस समूह ने सोशल मीडिया पर पैसों का लालच दिखाकर लोगों को फंसाया। यह नेटवर्क आतंकवादी गतिविधियों के लिए नए सदस्य जुटाने में लगा था। कमेंट्स में तलाशते हैं शिकार: पैसों से बिछाते हैं आतंकी जाल, पाकिस्तानी गैंगस्टर भट्टी का नेटवर्क बेनकाब।
 
-### [भारत ने गरीबी भगाने में रच दिया इतिहास, तो पाकिस्तान की हालत हो गई बेहद खराब](https://hindi.news18.com/news/nation/poverty-in-india-declines-rapidly-while-pakistan-faces-worsening-conditions-ws-l-10982405.html)
-*News18 Hindi (World)* - Nov 12, 20:28 IST (iso: 2026-11-12T14:58:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/World-Bank-Poverty-and-Equity-Report-October-2026-2026-10-d2dbbb275d782d137470237c686bf43d-1200x800.jpg -->
+### [पुरुष डॉक्टर नहीं करेंगे महिलाओं का इलाज, इमरजेंसी में पुरुष अभिभावक का साथ जरूरी](https://www.amarujala.com/world/taliban-undeclared-decree-male-doctors-are-prohibited-from-treating-women-male-guardian-must-accompany-2026-11-13)
+*Amar Ujala World* - Nov 13, 06:39 IST (iso: 2026-11-13T01:09:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/01/mp-news_e0b770f1c6cb8664cdd797f4ce951faf.jpeg?w=1200&dpr=1.0 -->
 
-यूरोपियन टाइम्स की रिपोर्ट के अनुसार, भारत ने 12 वर्षों में 49.6 करोड़ लोगों को गरीबी से बाहर निकाला। इसी अवधि में पाकिस्तान में गरीबी और असमानता में तेजी से वृद्धि हुई। दोनों देशों के आर्थिक प्रदर्शन में स्पष्ट अंतर सामने आया है। यूरोपियन टाइम्स की रिपोर्ट के अनुसार, भारत ने गरीबी घटाने में ऐतिहासिक सफलता पाई है और 12 वर्षों में लगभग 49.6 करोड़ लोग गरीबी से बाहर आए हैं.
+तालिबान ने अघोषित आदेश जारी करके पुरुष डॉक्टरों को महिलाओं का इलाज करने से रोक दिया है। अब इमरजेंसी स्थिति में भी महिला मरीजों के साथ पुरुष अभिभावक की उपस्थिति अनिवार्य है। यह नया नियम चिकित्सा सेवाओं को सीमित करता है। तालिबान का अघोषित फरमान: पुरुष डॉक्टर नहीं करेंगे महिलाओं का कोई इलाज, इमरजेंसी के लिए पुरुष अभिभावक को साथ लाना जरूरी।
 
-### [जेन्सेन हुआंग ने NVIDIA के सीईओ पद से दिया इस्तीफा, कोलेट क्रेस को बनाया गया अंतरिम सीईओ](https://www.patrika.com/world-news/jensen-huang-resigns-as-nvidia-ceo-colette-kress-appointed-as-interim-ceo-21045539)
-*Patrika (World)* - Nov 12, 20:16 IST (iso: 2026-11-12T14:46:06+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/huang_79f1d3.webp -->
+### [आईपीएल 2027 से पहले दिल्ली कैपिटल्स का बढ़ा सिरदर्द: कप्तानी को लेकर क्यों तेज हुई चर्चा? अक्षर](https://www.amarujala.com/cricket/cricket-news/delhi-capitals-captain-discussion-ahead-of-ipl-2027-know-all-details-and-contenders-rishabh-pant-axar-patel-2026-11-12)
+*Amar Ujala Breaking* - Nov 13, 06:27 IST (iso: 2026-11-13T00:57:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/ipl_721550188f91d4806764251267ce5664.jpeg?w=1200&dpr=1.0 -->
 
-एनवीडिया ने पुष्टि की है कि जेन्सेन हुआंग ने सीईओ, प्रेसिडेंट और बोर्ड मेंबर के पदों से इस्तीफा दे दिया है। कंपनी ने कोलेट क्रेस को अंतरिम सीईओ नियुक्त किया है। इस फैसला तत्काल प्रभाव से लागू हो गया है। चीन (China) की एक महिला जिसके जासूस होने की आशंका है, के साथ अफेयर की वजह से विवादों में घिरे जेन्सेन हुआंग (Jensen Huang) ने एनवीडिया (NVIDIA) के सीईओ पद से इस्तीफा दे दिया है।
+आईपीएल 2027 की मिनी नीलामी से पहले दिल्ली कैपिटल्स में कप्तानी को लेकर चर्चा तेज हो गई है। खबरों के अनुसार अक्षर पटेल आगे इस जिम्मेदारी नहीं निभाना चाहते हैं। आईपीएल 2027 के लिए होने वाली मिनी नीलामी से पहले दिल्ली कैपिटल्स का सिरदर्द बढ़ रहा है। ऐसी खबरें हैं कि मौजूदा कप्तान अक्षर पटेल आगे ये जिम्मेदारी नहीं निभाना चाहते हैं।
 
-### [कब्रिस्तान में चल रही थी खुदाई, जमीन के अंदर से आई टन की आवाज, मिला 2200 साल पुराना खजाना](https://hindi.news18.com/world/rest-of-world-kazakhstan-almaty-burial-mound-researcher-discovered-2200-year-old-unique-gold-bear-and-bones-10982214.html)
-*News18 Hindi (World)* - Nov 12, 20:02 IST (iso: 2026-11-12T14:32:47+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Golden-Bear-2026-11-1cc3a5c16490a1c04a0273f976b3fb55-1200x800.jpg -->
+### [प्रधानमंत्री मोदी का कर्नाटक दौरा, छठ महापर्व की शुरुआत; भारत-न्यूजीलैंड के बीच चौथा वनडे](https://www.amarujala.com/india-news/13-november-2026-major-event-2026-2026-11-12)
+*Amar Ujala Breaking* - Nov 13, 06:25 IST (iso: 2026-11-13T00:55:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/aaja-ka-thana_24b330fd03d46f9c52f94a659db172d0.gif?w=1200&dpr=1.0 -->
 
-कजाकिस्तान के अल्माटी में एक प्राचीन मकबरे की खुदाई में 2200 साल पुराना सोने का भालू मिला है। यह मूर्ति साका काल की हो सकती है। दावा है कि यह किसी शाही मुकुट या पोशाक का हिस्सा था। प्राचीन काल के एक मकबरे में खुदाई का काम चल रहा था. कजाकिस्‍तान के अल्‍माटी शहर में रिसर्च के दौरा खुदाई में सोने का भालू मिला है.
+प्रधानमंत्री नरेंद्र मोदी ने कर्नाटक का दौरा किया। इसी दिन छठ महापर्व की शुरुआत हुई और भारत-न्यूजीलैंड के बीच चौथा वनडे मैच खेला गया। प्रधानमंत्री मोदी का कर्नाटक दौरा, छठ महापर्व की शुरुआत; भारत-न्यूजीलैंड के बीच चौथा वनडे।
 
-### [पाकिस्तान से आई अच्छी खबर, इमरान खान और उनके शुभचिंतक हो जाएंगे गदगद](https://hindi.news18.com/world/pakistan-good-news-from-pakistan-ex-pm-imran-khan-and-his-family-well-wishers-two-sisters-released-from-jail-ws-l-10982329.html)
-*News18 Hindi (World)* - Nov 12, 19:48 IST (iso: 2026-11-12T14:18:12+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/imran-khan-5-2026-10-27e5a53ea16254d41ded196a4bafbbec-1200x800.jpg -->
+### [दिल्ली में प्रदूषण ने तोड़े रिकॉर्ड; एनवीडिया से हुआंग का इस्तीफा; छठ का पहला दिन नहाय खाय आज](https://www.amarujala.com/india-news/top-news-delhi-pollution-breaks-record-as-chhath-puja-begins-while-jensen-huang-resigns-from-nvidia-2026-11-13)
+*Amar Ujala Breaking* - Nov 13, 05:40 IST (iso: 2026-11-13T00:10:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान की जेल में बंद इमरान खान की दो बहनों को रिहा करने का आदेश दिया गया है। यह फैसला उनके समर्थकों के लिए राहत भरा है। इमरान खान अभी भी जेल में बंद हैं। पाकिस्तान के पूर्व प्रधानमंत्री और तहरीक-ए-इंसाफ पार्टी के संस्थापक इमरान खान के लिए अच्छी खबर आई है. जानें इस फैसले के बाद इमरान खान के प्रशंसकों ने क्या कहा?
+दिल्ली में वायु प्रदूषण ने रिकॉर्ड तोड़े। एनवीडिया के सीईओ जेनसन हुआंग ने पद से इस्तीफा दे दिया। छठ पर्व का पहला दिन नहाय खाय आज मनाया गया। सुर्खियां: दिल्ली में प्रदूषण ने तोड़े रिकॉर्ड; एनवीडिया से हुआंग का इस्तीफा; छठ का पहला दिन नहाय खाय आज।
+
+### [दो महिलाओं से रिश्तों का विवाद, 33 साल बाद एनवीडिया से हुआंग की विदाई, क्यों छोड़ी कुर्सी?](https://www.amarujala.com/world/jensen-huang-resigns-as-nvidia-ceo-amid-china-spy-allegations-and-affairs-controversy-2026-11-13)
+*Amar Ujala Breaking* - Nov 13, 02:51 IST (iso: 2026-11-12T21:21:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/jensen-huang_427b60682f6461d08de6f694808d2860.jpeg?w=1200&dpr=1.0 -->
+
+जेनसन हुआंग ने 33 साल बाद एनवीडिया के सीईओ पद से इस्तीफा दिया। चीन जासूसी के आरोप और निजी जीवन के विवादों के बीच यह फैसला लिया गया। दो महिलाओं से रिश्तों का विवाद, 33 साल बाद एनवीडिया से हुआंग की विदाई, क्यों छोड़ी कुर्सी?
+
+---
+
+## अमेरिका
+
+### [जोरदार धमाका, चीख-पुकार और मलबे का ढेर, न्यूयॉर्क में बिल्डिंग हादसे में अब तक 8 की मौत](https://hindi.news18.com/world/america-new-york-brooklyn-building-collapse-8-dead-18-injured-live-update-10982849.html)
+*News18 Hindi (World)* - Nov 13, 07:25 IST (iso: 2026-11-13T01:55:59+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/new-york-1-2026-11-7f7df38a5d1179e880de971d5663b5df-1200x800.jpg -->
+
+न्यूयॉर्क के ब्रुकलिन में तीन मंजिला इमारत गिर गई। निर्माण कार्य के दौरान हुई इस घटना में आठ लोग मारे गए। 18 लोग घायल हुए, जिनमें दो बच्चे शामिल थे। बचाव अभियान में 250 से अधिक लोग लगे हैं। New York Building Collapse: अमेरिका के न्यूयॉर्क शहर के ब्रुकलिन इलाके में तीन मंजिला इमारत गिरने से अब तक आठ लोग मारे जा चुके हैं.
+
+### [वेनेजुएला के तेल से अमेरिका के खाते में आए 12 अरब डॉलर, ट्रंप प्रशासन ने जारी की रिपोर्ट; जानिए](https://www.patrika.com/world-news/venezuela-oil-revenue-us-12-billion-report-us-state-department-trump-21045861)
+*Patrika (World)* - Nov 13, 06:55 IST (iso: 2026-11-13T01:25:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/OIL-discovers-new-natural-gas-source.webp -->
+
+अमेरिकी विदेश विभाग की रिपोर्ट के अनुसार, जनवरी से सितंबर 2026 के बीच वेनेजुएला के तेल और खनिजों से 12.26 अरब डॉलर अमेरिका के खाते में जमा हुए। यह राशि मादुरो के पद छोड़ने के बाद हुए अधिकृत लेनदेन से प्राप्त हुई है। Venezuela Oil Revenue: अमेरिकी विदेश विभाग ने 53 पन्नों की एक रिपोर्ट जारी की है। इसमें बताया गया है कि राष्ट्रपति निकोलस मादुरो के सत्ता से हटने के बाद वेनेजुएला के तेल और खनिज संसाधनों से होने वाली अरबों डॉलर की कमाई को कैसे संभाला गया।
 
 ---
 
