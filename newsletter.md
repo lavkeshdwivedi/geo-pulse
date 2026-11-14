@@ -1,140 +1,26 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 13, 2026 23:43 IST
+**Updated:** November 14, 2026 05:29 IST
 
 ---
 
-## Middle East & Africa
+## Global / Multilateral
 
-### [Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks](https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece)
-*The Hindu (International)* - Nov 13, 22:39 IST (iso: 2026-11-13T17:09:51+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/drxsjd/article71699312.ece/alternates/LANDSCAPE_1200/2026-11-10T120617Z_1591088096_RC2ZKOAC6UQ6_RTRMADP_3_ISRAEL-POLITICS.JPG -->
+### [Tanker hits a river cruise boat on Mississippi River in New Orleans; rescue operations under way](https://www.thehindu.com/news/international/new-orleans-usa-tanker-ship-river-cruise-crash-updates/article71699607.ece)
+*The Hindu (International)* - Nov 14, 05:13 IST (iso: 2026-11-13T23:43:42+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/409voc/article71699744.ece/alternates/LANDSCAPE_1200/New_Orleans_Cruise_Ship__7457.jpg -->
 
-Gideon Eisenkot urged respect for Israel's Arab minority after Benjamin Netanyahu's attacks. Raam and the Joint List won 19 seats in the 120-seat parliament. They hold nearly a sixth of the total. This makes them potential kingmakers in Eisenkot's government formation efforts. Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Eisenkot to form a government.
-
-### [Iran says it struck U.S. military radar in Bahrain](https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece)
-*The Hindu (International)* - Nov 13, 21:21 IST (iso: 2026-11-13T15:51:14+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/d845dx/article71696582.ece/alternates/LANDSCAPE_1200/2026-11-08T175031Z_603691181_RC2PJOACU6TK_RTRMADP_3_IRAN-CRISIS.JPG -->
-
-Iran’s Revolutionary Guard claimed it struck a U. S. military radar in Bahrain. The group declared the Strait of Hormuz closed to traffic. The U. Navy countered by opening a southern route for commercial vessels while maintaining a blockade of Iranian ports. The IRGC says the strait is closed, while the U. Navy claims that it has opened a southern route for commercial vessels to exit and enter the critical waterway, while maintaining its “ironclad blockade” of Iranian ports.
-
-### [Unrest fuelled by armed groups holds back response](https://news.un.org/feed/view/en/story/2026/11/1168797)
-*UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/27-10-2026_WHO_DRC_Ebola_Survivor.jpg/image770x420cropped.jpg -->
-
-Armed groups in the Democratic Republic of the Congo are obstructing Ebola response efforts. They continue attacking civilians and health workers. These disruptions hinder containment measures. UN responders reported the ongoing violence on Friday. The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.
-
-### [CENTCOM Denies Iranian Claim It Struck A US Radar In Bahrain](https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html)
-*Radio Free Europe / Liberty* - Nov 13, 17:17 IST (iso: 2026-11-13T11:47:07+00:00)
-<!-- image: https://gdb.rferl.org/C69480C1-5908-4A14-8220-D0386FB374D9_cx0_cy9_cw0_w1200_h630.jpg -->
-
-The Islamic Revolutionary Guards Corps claims it destroyed a US radar in Bahrain. This follows an overnight strike on Sirik near the Strait of Hormuz. US Central Command denied the Iranian assertion. The incident escalates regional tensions. Iran’s Islamic Revolutionary Guards Corps (IRGC) claims that it destroyed a US military early-warning radar in Bahrain in retaliation for an overnight air strike on the southern port town of Sirik, near the Strait of Hormuz.
-
-### [What Happened At The Ukraine-Russia Peace Talks? Not Much.](https://www.rferl.org/a/what-happened-at-the-ukraine-russia-peace-talks-not-much-/33897086.html)
-*Radio Free Europe / Liberty* - Nov 12, 19:54 IST (iso: 2026-11-12T14:24:55+00:00)
-<!-- image: https://gdb.rferl.org/2385ef8c-c144-4a6c-8008-268d235d4679_w1200_h630.jpg -->
-
-White House envoys traveled to Moscow to meet Vladimir Putin following two days of peace talks in Abu Dhabi. Russian negotiators maintained hard-line demands extending beyond the Ukraine war to the post-World War II European political structure. The talks produced no immediate breakthrough. The White House envoys fly to Moscow for meetings with Putin a day after two days of peace talks in Abu Dhabi wrapped up.
-
-### [Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis](https://news.un.org/feed/view/en/story/2026/11/1168793)
-*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/12-11-2026_WFP_Sudan-01.jpg/image770x420cropped.jpg -->
-
-The World Food Programme chief warned that funding cuts are deepening Sudan's hunger crisis. He visited displaced families struggling to feed their children during his first field mission. Aid remains the only viable option for millions facing starvation in the conflict zone. The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.
-
-### [Devastation awaits returnees as UN peacekeepers prepare exit](https://news.un.org/feed/view/en/story/2026/11/1168784)
-*UN News* - Nov 11, 17:30 IST (iso: 2026-11-11T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/27-05-2021-UNIFIL8.jpg/image560x340cropped.jpg -->
-
-UN peacekeepers are preparing to exit southern Lebanon after 48 years of patrolling the Blue Line. Hostilities have decreased following a June agreement between the United States, Lebanon, and Israel. Communities report the situation remains volatile and difficult for those attempting to rebuild their lives. The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.
-
----
-
-## Americas
-
-### [Amid Ongoing Battle Over Afghan Deportations, US Legislators Push Law Granting Protection](https://www.rferl.org/a/us-afghan-deportations-battle-congress-crow-tps/33897979.html)
-*Radio Free Europe / Liberty* - Nov 13, 21:28 IST (iso: 2026-11-13T15:58:34+00:00)
-<!-- image: https://gdb.rferl.org/3b047949-acb7-4b9a-9573-f4f27292dc22_cx0_cy10_cw0_w1200_h630.jpg -->
-
-US legislators are pushing a new law to halt Afghan deportation flights. The plan to send 150 Afghans home sparked safety fears. Court battles have already emerged over the deportations. The proposed legislation aims to stop the flights from taking off. US plans to deport 150 Afghans back to their homeland have sparked fears for their safety and have led to court battles.
-
-### [More than 1,000 killed between July and September, UN report reveals](https://news.un.org/feed/view/en/story/2026/11/1168789)
-*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNOCHA-Haiti-03.jpg/image770x420cropped.jpg -->
-
-A UN report states over 1,000 people were killed in Haiti between July and September. Armed gangs continue to terrorize residents in Port-au-Prince and surrounding areas. The violence persists despite ongoing international concerns. More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.
-
-### [New platform aims to get money moving before disaster strikes](https://news.un.org/feed/view/en/story/2026/11/1168794)
-*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-02-2026-WFP_MOZ_Martim-Pereira_DSC01926.jpg/image770x420cropped.jpg -->
-
-UN agencies launched a joint platform at COP31 in Antalya to secure over $3 billion in risk financing. The initiative aims to protect 75 million people from climate shocks by 2030. This move seeks to move funds before disasters strike. UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.
-
-### [Cities rise up the climate agenda as leaders face demands for action](https://news.un.org/feed/view/en/story/2026/11/1168792)
-*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/02-11-2026-UNEP-Italy-ecosystem.jpg/image770x420cropped.jpg -->
-
-World leaders at COP31 focused on protecting cities and vulnerable communities from climate impacts. Activists simultaneously challenged governments to implement stronger action. The human cost of rising seas and melting glaciers dominated the agenda. From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.
-
-### [Killing of journalist underscores deteriorating conditions in Ecuador](https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing)
-*The Guardian* - Nov 11, 19:30 IST (iso: 2026-11-11T14:00:52+00:00)
-<!-- image: https://i.guim.co.uk/img/media/6f25de25053fd56e3197670b730755eb201a7b05/136_0_623_498/master/623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74c878806b29f8d7333316e5535e0ca2 -->
-
-Ecuadorian journalist Tomás Beltrán was shot dead while parking his car in Calceta. The killing highlights deteriorating security conditions in the country. Gang warfare over drug routes has made the Pacific coastline a key flashpoint. Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violentTomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead. Beltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a key flashpoint in the gang warfare over d.
-
----
-
-## World
-
-### [Faxes, phones and Bluetooth: Microsoft outage forces businesses to find fixes](https://www.channelnewsasia.com/world/microsoft-outage-businesses-fixes-fax-6550041)
-*Channel News Asia* - Nov 13, 20:47 IST (iso: 2026-11-13T15:17:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--0rKl2m3U--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-13T150126Z_2_LYNXNPEMAC1B3_RTROPTP_3_MICROSOFT-OUTAGES.JPG?itok=g23uUPzf -->
-
-A Microsoft outage forced businesses to rely on faxes, phones, and Bluetooth. Core systems mostly stayed up, but trading and administrative work slowed. The incident highlighted how much global commerce depends on a few technology providers. While most reported their core systems were still running, trading and administrative work slowed in places in the latest reminder of how much of the world's commerce, public services and communications run on a handful of technology providers.
-
-### [‘More the bhakts comment, better it would do,’ says Rahul Gandhi on BJP’s criticisms](https://www.thehindu.com/news/national/sonia-gandhis-memoir-more-the-bhakts-comment-better-it-would-do-says-rahul-gandhi-on-bjps-criticisms/article71697277.ece)
-*The Hindu (International)* - Nov 13, 16:32 IST (iso: 2026-11-13T11:02:44+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/rfjut2/article71697293.ece/alternates/LANDSCAPE_1200/Indira-Amma-cG89GPSHG4.3.jpg.jpg -->
-
-Rahul Gandhi responded to BJP criticisms of his book by saying more comments would help its sales. He stated that critics are reading the work despite their objections. The remark came during an Instagram question and answer session with followers. Responding to a question during an ‘Ask Me’ session on Instagram, Rahul Gandhi said, “It is a great book, they are all reading it.
-
----
-
-## Asia-Pacific
-
-### [Dollars Rain From Balcony As Kazakhstan's State Giants Rocked By Corruption Arrests](https://www.rferl.org/a/kazakhstan-state-companies-corruption-toqaev/33898113.html)
-*Radio Free Europe / Liberty* - Nov 13, 20:23 IST (iso: 2026-11-13T14:53:57+00:00)
-<!-- image: https://gdb.rferl.org/fa88d365-ddf4-4169-849b-08df3ee82709_w1200_h630.png -->
-
-President Toqaev convened an urgent Security Council meeting after corruption arrests. Security services detained the heads of Samruk-Kazyna and KTZ. These entities control 40 percent of Kazakhstan's economy. Toqaev aimed to reassure foreign investors and reinforce his law and order drive. Days after security services detained the heads of Samruk-Kazyna and state railway KTZ, which control 40 percent of Kazakhstan’s economy, President Toqaev convened an urgent Security Council meeting to reinforce his “Law and Order” drive, address transport governance, and reassure foreign investors.
-
-### [Huang’s fall exposes contradictions in America’s China strategy](https://asiatimes.com/2026/11/huangs-fall-exposes-contradictions-in-americas-china-strategy/)
-*Asia Times* - Nov 13, 17:51 IST (iso: 2026-11-13T12:21:04+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Nvidia-1.jpg -->
-
-Jensen Huang resigned as Nvidia chief executive this week. His departure followed governance concerns and intelligence allegations. Washington imposed chip controls in 2022 and tightened them in 2023. Huang's fall exposed contradictions in America's China strategy. Jensen Huang’s resignation as Nvidia chief executive this week followed a convergence of corporate governance concerns, intelligence allegations and scrutiny of semiconductor exports to China.
-
-### [Did China’s ‘beauty stratagem’ find a new victim in Jensen Huang?](https://asiatimes.com/2026/11/did-chinas-beauty-stratagem-find-a-new-victim-in-jensen-huang/)
-*Asia Times* - Nov 13, 15:21 IST (iso: 2026-11-13T09:51:40+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Beauty-Strategem.jpg -->
-
-Nvidia CEO Jensen Huang resigned after media reports revealed an extramarital relationship with Alice Huang. The Singapore-based executive is suspected of having ties to Chinese intelligence. This incident has raised concerns about a potential honey trap targeting a major American tech leader. Extramarital activities have led to the resignation of one of America’s most influential tech bosses, Nvidia CEO Jensen Huang.
-
-### [China’s demographic challenge becoming its biotech advantage](https://asiatimes.com/2026/11/chinas-demographic-challenge-becoming-its-biotech-advantage/)
-*Asia Times* - Nov 13, 14:00 IST (iso: 2026-11-13T08:30:47+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Biotech.jpg -->
-
-The Biotechnology Innovation Organization urged Washington to adopt a national biotechnology strategy. The group warned that China is rapidly gaining ground in the sector. Biotech is now viewed as critical to economic competitiveness and national security in the U. S. Is biotechnology becoming the next space race? The Biotechnology Innovation Organization (BIO) appears to think so. This month, it urged Washington to adopt a comprehensive national biotechnology strategy, warning that China is rapidly gaining ground in an industry now viewed as critical to economic competitiveness and national security.
-
-### [Prabowo gains upper hand as Gibran’s exit weakens Widodo’s grip](https://asiatimes.com/2026/11/prabowo-gains-upper-hand-as-gibrans-exit-weakens-widodos-grip/)
-*Asia Times* - Nov 12, 15:06 IST (iso: 2026-11-12T09:36:48+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Indonesia-Gibran-Prabowo.jpg -->
-
-Indonesian Vice President Gibran Rakabuming Raka resigned, shifting power dynamics. President Prabowo Subianto gained the upper hand as Jokowi lost his direct presence in the administration. Jokowi had previously helped carry Prabowo to the presidency in 2024. Indonesian Vice President Gibran Rakabuming Raka’s resignation may mark a turning point in the balance of power between President Prabowo Subianto and his predecessor, Joko Widodo.
+A tanker struck a river cruise boat on the Mississippi in New Orleans. Passengers and crew plunged into the water as the vessel began to capsize. All aboard survived the incident. New Orleans Mayor LaToya Cantrell described the outcome as a miracle. All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on water and began to topple over; ‘miracle on the Mississippi”, says New Orleans Mayor.
 
 ---
 
 ## Europe & Russia
+
+### [Urgent climate finance pleas at COP31 face a non-urgent response](https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece)
+*The Hindu (International)* - Nov 14, 02:46 IST (iso: 2026-11-13T21:16:45+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/g8he2w/article71699615.ece/alternates/LANDSCAPE_1200/Climate_COP31_Turkey_47865.jpg -->
+
+Western governments have deprioritized climate finance at COP31. President Trump withdrew international funding commitments. Ongoing wars in Ukraine and West Asia increased security spending. Inflationary pressures further constrained available budgets for environmental initiatives. Climate action has slipped down the political agenda for Western governments as U. S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary ‌pressures and the need to spend on security.
 
 ### [Storm Charles causes floods and flight cancellations across southern Europe](https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather)
 *The Guardian* - Nov 13, 14:19 IST (iso: 2026-11-13T08:49:19+00:00)
@@ -171,6 +57,120 @@ US, Ukraine, and Russia held trilateral talks in Abu Dhabi. Negotiations focused
 <!-- image: https://i.guim.co.uk/img/media/74aeb469d38039f0e21eb808a8dd9a246b6470ec/534_0_5343_4275/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da3204f3ad80f79abea8e3a1ce4d8157 -->
 
 Argentina's lawyer Marcelo Kohen mocked Britain's sovereignty claims in a Hamburg tribunal hearing. He argued the UK should not act as a colonial power. Kohen rejected the historic doctrine of British maritime dominance over Falklands waters. Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceansBritain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici, Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing in Hamburg, mocked Britain for apparently belie.
+
+---
+
+## Middle East & Africa
+
+### [Turkiye, Qatar sign mutual defence agreement, Turkish presidency says](https://www.thehindu.com/news/international/turkiye-qatar-sign-mutual-defence-agreement-turkish-presidency-says/article71699542.ece)
+*The Hindu (International)* - Nov 14, 00:32 IST (iso: 2026-11-13T19:02:34+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/tf64nt/article71699547.ece/alternates/LANDSCAPE_1200/2026-11-13T145056Z_1719018615_RC22NOAD071C_RTRMADP_3_TURKEY-QATAR.JPG -->
+
+Turkiye and Qatar signed a mutual defence agreement. President Erdogan stated the two nations would diversify their energy partnership. Defence industry cooperation between the countries will continue to expand. The Turkish presidency released the official statement. Turkiye and Qatar were working to develop and diversify their energy partnership, and that their cooperation ‌in the defence industry would ​continue to grow, a statement from the Turkish presidency quoted President Erdogan as saying.
+
+### [Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks](https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece)
+*The Hindu (International)* - Nov 13, 22:39 IST (iso: 2026-11-13T17:09:51+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/drxsjd/article71699312.ece/alternates/LANDSCAPE_1200/2026-11-10T120617Z_1591088096_RC2ZKOAC6UQ6_RTRMADP_3_ISRAEL-POLITICS.JPG -->
+
+Gideon Eisenkot urged respect for Israel's Arab minority after Benjamin Netanyahu's attacks. Raam and the Joint List won 19 seats in the 120-seat parliament. They hold nearly a sixth of the total. This makes them potential kingmakers in Eisenkot's government formation efforts. Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Eisenkot to form a government.
+
+### [Iran says it struck U.S. military radar in Bahrain](https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece)
+*The Hindu (International)* - Nov 13, 21:21 IST (iso: 2026-11-13T15:51:14+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/d845dx/article71696582.ece/alternates/LANDSCAPE_1200/2026-11-08T175031Z_603691181_RC2PJOACU6TK_RTRMADP_3_IRAN-CRISIS.JPG -->
+
+Iran’s Revolutionary Guard claimed it struck a U. S. military radar in Bahrain. The group declared the Strait of Hormuz closed to traffic. The U. Navy countered by opening a southern route for commercial vessels while maintaining a blockade of Iranian ports. The IRGC says the strait is closed, while the U. Navy claims that it has opened a southern route for commercial vessels to exit and enter the critical waterway, while maintaining its “ironclad blockade” of Iranian ports.
+
+### [Fragile Gulf calm tested as threats to Hormuz shipping mount](https://news.un.org/feed/view/en/story/2026/11/1168804)
+*UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image770x420cropped.jpg -->
+
+The Gulf region remains tense nearly nine months after strikes on Iran. Iran has effectively closed the Strait of Hormuz to shipping. Attacks on vessels are increasing in frequency. The Security Council is meeting at Bahrain’s request to discuss the situation. Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge.
+
+### [Unrest fuelled by armed groups holds back response](https://news.un.org/feed/view/en/story/2026/11/1168797)
+*UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/27-10-2026_WHO_DRC_Ebola_Survivor.jpg/image770x420cropped.jpg -->
+
+Armed groups in the Democratic Republic of the Congo are obstructing Ebola response efforts. They continue attacking civilians and health workers. These disruptions hinder containment measures. UN responders reported the ongoing violence on Friday. The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.
+
+### [CENTCOM Denies Iranian Claim It Struck A US Radar In Bahrain](https://www.rferl.org/a/iran-us-sirik-bahrain-war-nuclear-talks/33897951.html)
+*Radio Free Europe / Liberty* - Nov 13, 17:17 IST (iso: 2026-11-13T11:47:07+00:00)
+<!-- image: https://gdb.rferl.org/C69480C1-5908-4A14-8220-D0386FB374D9_cx0_cy9_cw0_w1200_h630.jpg -->
+
+The Islamic Revolutionary Guards Corps claims it destroyed a US radar in Bahrain. This follows an overnight strike on Sirik near the Strait of Hormuz. US Central Command denied the Iranian assertion. The incident escalates regional tensions. Iran’s Islamic Revolutionary Guards Corps (IRGC) claims that it destroyed a US military early-warning radar in Bahrain in retaliation for an overnight air strike on the southern port town of Sirik, near the Strait of Hormuz.
+
+### [What Happened At The Ukraine-Russia Peace Talks? Not Much.](https://www.rferl.org/a/what-happened-at-the-ukraine-russia-peace-talks-not-much-/33897086.html)
+*Radio Free Europe / Liberty* - Nov 12, 19:54 IST (iso: 2026-11-12T14:24:55+00:00)
+<!-- image: https://gdb.rferl.org/2385ef8c-c144-4a6c-8008-268d235d4679_w1200_h630.jpg -->
+
+White House envoys traveled to Moscow to meet Vladimir Putin following two days of peace talks in Abu Dhabi. Russian negotiators maintained hard-line demands extending beyond the Ukraine war to the post-World War II European political structure. The talks produced no immediate breakthrough. The White House envoys fly to Moscow for meetings with Putin a day after two days of peace talks in Abu Dhabi wrapped up.
+
+### [Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis](https://news.un.org/feed/view/en/story/2026/11/1168793)
+*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/12-11-2026_WFP_Sudan-01.jpg/image770x420cropped.jpg -->
+
+The World Food Programme chief warned that funding cuts are deepening Sudan's hunger crisis. He visited displaced families struggling to feed their children during his first field mission. Aid remains the only viable option for millions facing starvation in the conflict zone. The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.
+
+---
+
+## Americas
+
+### [Amid Ongoing Battle Over Afghan Deportations, US Legislators Push Law Granting Protection](https://www.rferl.org/a/us-afghan-deportations-battle-congress-crow-tps/33897979.html)
+*Radio Free Europe / Liberty* - Nov 13, 21:28 IST (iso: 2026-11-13T15:58:34+00:00)
+<!-- image: https://gdb.rferl.org/3b047949-acb7-4b9a-9573-f4f27292dc22_cx0_cy10_cw0_w1200_h630.jpg -->
+
+US legislators are pushing a new law to halt Afghan deportation flights. The plan to send 150 Afghans home sparked safety fears. Court battles have already emerged over the deportations. The proposed legislation aims to stop the flights from taking off. US plans to deport 150 Afghans back to their homeland have sparked fears for their safety and have led to court battles.
+
+### [More than 1,000 killed between July and September, UN report reveals](https://news.un.org/feed/view/en/story/2026/11/1168789)
+*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNOCHA-Haiti-03.jpg/image560x340cropped.jpg -->
+
+A UN report states over 1,000 people were killed in Haiti between July and September. Armed gangs continue to terrorize residents in Port-au-Prince and surrounding areas. The violence persists despite ongoing international concerns. More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.
+
+### [Cities rise up the climate agenda as leaders face demands for action](https://news.un.org/feed/view/en/story/2026/11/1168792)
+*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/02-11-2026-UNEP-Italy-ecosystem.jpg/image770x420cropped.jpg -->
+
+World leaders at COP31 focused on protecting cities and vulnerable communities from climate impacts. Activists simultaneously challenged governments to implement stronger action. The human cost of rising seas and melting glaciers dominated the agenda. From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.
+
+### [New platform aims to get money moving before disaster strikes](https://news.un.org/feed/view/en/story/2026/11/1168794)
+*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-02-2026-WFP_MOZ_Martim-Pereira_DSC01926.jpg/image770x420cropped.jpg -->
+
+UN agencies launched a joint platform at COP31 in Antalya to secure over $3 billion in risk financing. The initiative aims to protect 75 million people from climate shocks by 2030. This move seeks to move funds before disasters strike. UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.
+
+### [Killing of journalist underscores deteriorating conditions in Ecuador](https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing)
+*The Guardian* - Nov 11, 19:30 IST (iso: 2026-11-11T14:00:52+00:00)
+<!-- image: https://i.guim.co.uk/img/media/6f25de25053fd56e3197670b730755eb201a7b05/136_0_623_498/master/623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74c878806b29f8d7333316e5535e0ca2 -->
+
+Ecuadorian journalist Tomás Beltrán was shot dead while parking his car in Calceta. The killing highlights deteriorating security conditions in the country. Gang warfare over drug routes has made the Pacific coastline a key flashpoint. Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violentTomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead. Beltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a key flashpoint in the gang warfare over d.
+
+---
+
+## Asia-Pacific
+
+### [Dollars Rain From Balcony As Kazakhstan's State Giants Rocked By Corruption Arrests](https://www.rferl.org/a/kazakhstan-state-companies-corruption-toqaev/33898113.html)
+*Radio Free Europe / Liberty* - Nov 13, 20:23 IST (iso: 2026-11-13T14:53:57+00:00)
+<!-- image: https://gdb.rferl.org/fa88d365-ddf4-4169-849b-08df3ee82709_w1200_h630.png -->
+
+President Toqaev convened an urgent Security Council meeting after corruption arrests. Security services detained the heads of Samruk-Kazyna and KTZ. These entities control 40 percent of Kazakhstan's economy. Toqaev aimed to reassure foreign investors and reinforce his law and order drive. Days after security services detained the heads of Samruk-Kazyna and state railway KTZ, which control 40 percent of Kazakhstan’s economy, President Toqaev convened an urgent Security Council meeting to reinforce his “Law and Order” drive, address transport governance, and reassure foreign investors.
+
+### [Huang’s fall exposes contradictions in America’s China strategy](https://asiatimes.com/2026/11/huangs-fall-exposes-contradictions-in-americas-china-strategy/)
+*Asia Times* - Nov 13, 17:51 IST (iso: 2026-11-13T12:21:04+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Nvidia-1.jpg -->
+
+Jensen Huang resigned as Nvidia chief executive this week. His departure followed governance concerns and intelligence allegations. Washington imposed chip controls in 2022 and tightened them in 2023. Huang's fall exposed contradictions in America's China strategy. Jensen Huang’s resignation as Nvidia chief executive this week followed a convergence of corporate governance concerns, intelligence allegations and scrutiny of semiconductor exports to China.
+
+### [China’s demographic challenge becoming its biotech advantage](https://asiatimes.com/2026/11/chinas-demographic-challenge-becoming-its-biotech-advantage/)
+*Asia Times* - Nov 13, 14:00 IST (iso: 2026-11-13T08:30:47+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Biotech.jpg -->
+
+The Biotechnology Innovation Organization urged Washington to adopt a national biotechnology strategy. The group warned that China is rapidly gaining ground in the sector. Biotech is now viewed as critical to economic competitiveness and national security in the U. S. Is biotechnology becoming the next space race? The Biotechnology Innovation Organization (BIO) appears to think so. This month, it urged Washington to adopt a comprehensive national biotechnology strategy, warning that China is rapidly gaining ground in an industry now viewed as critical to economic competitiveness and national security.
+
+### [Prabowo gains upper hand as Gibran’s exit weakens Widodo’s grip](https://asiatimes.com/2026/11/prabowo-gains-upper-hand-as-gibrans-exit-weakens-widodos-grip/)
+*Asia Times* - Nov 12, 15:06 IST (iso: 2026-11-12T09:36:48+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Indonesia-Gibran-Prabowo.jpg -->
+
+Indonesian Vice President Gibran Rakabuming Raka resigned, shifting power dynamics. President Prabowo Subianto gained the upper hand as Jokowi lost his direct presence in the administration. Jokowi had previously helped carry Prabowo to the presidency in 2024. Indonesian Vice President Gibran Rakabuming Raka’s resignation may mark a turning point in the balance of power between President Prabowo Subianto and his predecessor, Joko Widodo.
 
 ---
 
