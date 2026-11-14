@@ -1,16 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 14, 2026 05:29 IST
+**Updated:** November 14, 2026 10:12 IST
 
 ---
 
-## Global / Multilateral
+## World
 
-### [Tanker hits a river cruise boat on Mississippi River in New Orleans; rescue operations under way](https://www.thehindu.com/news/international/new-orleans-usa-tanker-ship-river-cruise-crash-updates/article71699607.ece)
-*The Hindu (International)* - Nov 14, 05:13 IST (iso: 2026-11-13T23:43:42+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/409voc/article71699744.ece/alternates/LANDSCAPE_1200/New_Orleans_Cruise_Ship__7457.jpg -->
+### [Former Nvidia CEO Jensen Huang misled top lawyer on affair with Alice Huang: report](https://www.thehindu.com/news/international/former-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-alice-huang-report/article71700767.ece)
+*The Hindu (International)* - Nov 14, 10:02 IST (iso: 2026-11-14T04:32:18+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/brd9se/article71700769.ece/alternates/LANDSCAPE_1200/2026-11-13T150315Z_675275027_RC2U8IAML0JZ_RTRMADP_3_NVIDIA-CEO.JPG -->
 
-A tanker struck a river cruise boat on the Mississippi in New Orleans. Passengers and crew plunged into the water as the vessel began to capsize. All aboard survived the incident. New Orleans Mayor LaToya Cantrell described the outcome as a miracle. All aboard survived after the crash prompted a massive rescue operation for passengers and crew who plunged into the Mississippi River as the ship took on water and began to topple over; ‘miracle on the Mississippi”, says New Orleans Mayor.
+Jensen Huang told Nvidia's top lawyer his relationship with Alice Huang was appropriate during 2025 and 2026. He made these statements after press inquiries drew executive attention to his ties with Megaspeed. The report details his repeated assurances to legal counsel regarding the nature of their interactions. During the autumn of 2025 and in October 2026, in ‌response to press queries that drew some Nvidia leaders’ attention to his relationship with Megaspeed and Alice ​Huang, Jensen Huang at both times described their interactions as appropriate.
+
+### [Nvidia, Jensen Huang and the history of ‘sexpionage’](https://asiatimes.com/2026/11/nvidia-jensen-huang-and-the-history-of-sexpionage/)
+*Asia Times* - Nov 12, 15:33 IST (iso: 2026-11-12T10:03:09+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Nvidia-Jensen-Huang.jpg -->
+
+Intelligence agencies often compromise key individuals to extract sensitive information or damage reputations. The Jensen Huang situation has drawn comparisons to historical sexpionage tactics. Analysts note that compromising high-profile figures remains a primary objective for foreign intelligence services. A large portion of intelligence work is focused on collecting information your competitor or adversary does not want you to have. But another key focus of intelligence is on compromising key individuals.
 
 ---
 
@@ -68,18 +74,6 @@ Argentina's lawyer Marcelo Kohen mocked Britain's sovereignty claims in a Hambur
 
 Turkiye and Qatar signed a mutual defence agreement. President Erdogan stated the two nations would diversify their energy partnership. Defence industry cooperation between the countries will continue to expand. The Turkish presidency released the official statement. Turkiye and Qatar were working to develop and diversify their energy partnership, and that their cooperation ‌in the defence industry would ​continue to grow, a statement from the Turkish presidency quoted President Erdogan as saying.
 
-### [Eisenkot urges respect for Israel's Arab minority after Netanyahu attacks](https://www.thehindu.com/news/international/eisenkot-urges-respect-for-israels-arab-minority-after-netanyahu-attacks/article71699274.ece)
-*The Hindu (International)* - Nov 13, 22:39 IST (iso: 2026-11-13T17:09:51+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/drxsjd/article71699312.ece/alternates/LANDSCAPE_1200/2026-11-10T120617Z_1591088096_RC2ZKOAC6UQ6_RTRMADP_3_ISRAEL-POLITICS.JPG -->
-
-Gideon Eisenkot urged respect for Israel's Arab minority after Benjamin Netanyahu's attacks. Raam and the Joint List won 19 seats in the 120-seat parliament. They hold nearly a sixth of the total. This makes them potential kingmakers in Eisenkot's government formation efforts. Two Arab-majority parties, Raam and the Joint List, secured a combined 19 seats in last month's election, winning nearly a sixth of the 120-seat parliament and potentially emerging as kingmakers in efforts by Eisenkot to form a government.
-
-### [Iran says it struck U.S. military radar in Bahrain](https://www.thehindu.com/news/international/iran-says-it-struck-us-military-radar-in-bahrain/article71696537.ece)
-*The Hindu (International)* - Nov 13, 21:21 IST (iso: 2026-11-13T15:51:14+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/d845dx/article71696582.ece/alternates/LANDSCAPE_1200/2026-11-08T175031Z_603691181_RC2PJOACU6TK_RTRMADP_3_IRAN-CRISIS.JPG -->
-
-Iran’s Revolutionary Guard claimed it struck a U. S. military radar in Bahrain. The group declared the Strait of Hormuz closed to traffic. The U. Navy countered by opening a southern route for commercial vessels while maintaining a blockade of Iranian ports. The IRGC says the strait is closed, while the U. Navy claims that it has opened a southern route for commercial vessels to exit and enter the critical waterway, while maintaining its “ironclad blockade” of Iranian ports.
-
 ### [Fragile Gulf calm tested as threats to Hormuz shipping mount](https://news.un.org/feed/view/en/story/2026/11/1168804)
 *UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image770x420cropped.jpg -->
@@ -110,6 +104,12 @@ White House envoys traveled to Moscow to meet Vladimir Putin following two days 
 
 The World Food Programme chief warned that funding cuts are deepening Sudan's hunger crisis. He visited displaced families struggling to feed their children during his first field mission. Aid remains the only viable option for millions facing starvation in the conflict zone. The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.
 
+### [From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected](https://news.un.org/feed/view/en/story/2026/11/1168787)
+*UN News* - Nov 11, 17:30 IST (iso: 2026-11-11T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-05-2023-UNDP-Cambodia-EWS.jpg/image560x340cropped.jpg -->
+
+UN Secretary-General António Guterres stated that early warning systems are saving lives globally. However, millions of people still do not receive these critical alerts. He urged the international community to ensure every person on Earth is protected by the end of 2027. Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the world to protect every person on Earth by the end of 2027.
+
 ---
 
 ## Americas
@@ -120,23 +120,23 @@ The World Food Programme chief warned that funding cuts are deepening Sudan's hu
 
 US legislators are pushing a new law to halt Afghan deportation flights. The plan to send 150 Afghans home sparked safety fears. Court battles have already emerged over the deportations. The proposed legislation aims to stop the flights from taking off. US plans to deport 150 Afghans back to their homeland have sparked fears for their safety and have led to court battles.
 
-### [More than 1,000 killed between July and September, UN report reveals](https://news.un.org/feed/view/en/story/2026/11/1168789)
-*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNOCHA-Haiti-03.jpg/image560x340cropped.jpg -->
-
-A UN report states over 1,000 people were killed in Haiti between July and September. Armed gangs continue to terrorize residents in Port-au-Prince and surrounding areas. The violence persists despite ongoing international concerns. More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.
-
-### [Cities rise up the climate agenda as leaders face demands for action](https://news.un.org/feed/view/en/story/2026/11/1168792)
-*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/02-11-2026-UNEP-Italy-ecosystem.jpg/image770x420cropped.jpg -->
-
-World leaders at COP31 focused on protecting cities and vulnerable communities from climate impacts. Activists simultaneously challenged governments to implement stronger action. The human cost of rising seas and melting glaciers dominated the agenda. From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.
-
 ### [New platform aims to get money moving before disaster strikes](https://news.un.org/feed/view/en/story/2026/11/1168794)
 *UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-02-2026-WFP_MOZ_Martim-Pereira_DSC01926.jpg/image770x420cropped.jpg -->
 
 UN agencies launched a joint platform at COP31 in Antalya to secure over $3 billion in risk financing. The initiative aims to protect 75 million people from climate shocks by 2030. This move seeks to move funds before disasters strike. UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.
+
+### [Cities rise up the climate agenda as leaders face demands for action](https://news.un.org/feed/view/en/story/2026/11/1168792)
+*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/02-11-2026-UNEP-Italy-ecosystem.jpg/image560x340cropped.jpg -->
+
+World leaders at COP31 focused on protecting cities and vulnerable communities from climate impacts. Activists simultaneously challenged governments to implement stronger action. The human cost of rising seas and melting glaciers dominated the agenda. From flooded homes to melting Himalayan glaciers, the human cost of climate change took centre stage at COP31 on Thursday, as world leaders turned their attention to protecting cities and vulnerable communities, while activists challenged governments to do more.
+
+### [More than 1,000 killed between July and September, UN report reveals](https://news.un.org/feed/view/en/story/2026/11/1168789)
+*UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNOCHA-Haiti-03.jpg/image560x340cropped.jpg -->
+
+A UN report states over 1,000 people were killed in Haiti between July and September. Armed gangs continue to terrorize residents in Port-au-Prince and surrounding areas. The violence persists despite ongoing international concerns. More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.
 
 ### [Killing of journalist underscores deteriorating conditions in Ecuador](https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing)
 *The Guardian* - Nov 11, 19:30 IST (iso: 2026-11-11T14:00:52+00:00)
@@ -160,17 +160,17 @@ President Toqaev convened an urgent Security Council meeting after corruption ar
 
 Jensen Huang resigned as Nvidia chief executive this week. His departure followed governance concerns and intelligence allegations. Washington imposed chip controls in 2022 and tightened them in 2023. Huang's fall exposed contradictions in America's China strategy. Jensen Huang’s resignation as Nvidia chief executive this week followed a convergence of corporate governance concerns, intelligence allegations and scrutiny of semiconductor exports to China.
 
+### [Did China’s ‘beauty stratagem’ find a new victim in Jensen Huang?](https://asiatimes.com/2026/11/did-chinas-beauty-stratagem-find-a-new-victim-in-jensen-huang/)
+*Asia Times* - Nov 13, 15:21 IST (iso: 2026-11-13T09:51:40+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Beauty-Strategem.jpg -->
+
+Jensen Huang resigned as Nvidia CEO following reports of an affair with Alice Huang. She is a Singapore-based executive suspected of having ties to Chinese intelligence. The incident has raised concerns about a potential honey trap targeting a major American technology leader. Extramarital activities have led to the resignation of one of America’s most influential tech bosses, Nvidia CEO Jensen Huang.
+
 ### [China’s demographic challenge becoming its biotech advantage](https://asiatimes.com/2026/11/chinas-demographic-challenge-becoming-its-biotech-advantage/)
 *Asia Times* - Nov 13, 14:00 IST (iso: 2026-11-13T08:30:47+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Biotech.jpg -->
 
 The Biotechnology Innovation Organization urged Washington to adopt a national biotechnology strategy. The group warned that China is rapidly gaining ground in the sector. Biotech is now viewed as critical to economic competitiveness and national security in the U. S. Is biotechnology becoming the next space race? The Biotechnology Innovation Organization (BIO) appears to think so. This month, it urged Washington to adopt a comprehensive national biotechnology strategy, warning that China is rapidly gaining ground in an industry now viewed as critical to economic competitiveness and national security.
-
-### [Prabowo gains upper hand as Gibran’s exit weakens Widodo’s grip](https://asiatimes.com/2026/11/prabowo-gains-upper-hand-as-gibrans-exit-weakens-widodos-grip/)
-*Asia Times* - Nov 12, 15:06 IST (iso: 2026-11-12T09:36:48+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Indonesia-Gibran-Prabowo.jpg -->
-
-Indonesian Vice President Gibran Rakabuming Raka resigned, shifting power dynamics. President Prabowo Subianto gained the upper hand as Jokowi lost his direct presence in the administration. Jokowi had previously helped carry Prabowo to the presidency in 2024. Indonesian Vice President Gibran Rakabuming Raka’s resignation may mark a turning point in the balance of power between President Prabowo Subianto and his predecessor, Joko Widodo.
 
 ---
 
