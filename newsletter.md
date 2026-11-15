@@ -1,26 +1,32 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 15, 2026 03:14 IST
-
----
-
-## Global / Multilateral
-
-### [Jensen Huang](https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece)
-*The Hindu (International)* - Nov 14, 23:13 IST (iso: 2026-11-14T17:43:10+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/9gdhih/article71702808.ece/alternates/LANDSCAPE_1200/jensen%20huang_Art.jpg -->
-
-Nvidia chief Jensen Huang has abruptly exited the company. The departure marks a sharp reversal for the executive who built the hardware foundation of the AI revolution. He forged deep ties with Silicon Valley tech leaders and expanded the company’s reach across every layer of the AI stack. The move ends his tenure as the central figure behind the chipmaker’s rapid ascent.
+**Updated:** November 15, 2026 06:54 IST
 
 ---
 
 ## World
+
+### [A family photo, a hand to hold: An occupational therapist learnt what matters most to dying patients](https://www.channelnewsasia.com/women/occupational-therapist-dying-patients-last-wishes-6502371)
+*Channel News Asia* - Nov 15, 04:28 IST (iso: 2026-11-14T22:58:31+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--v50SV0vB--/c_crop,h_720,w_1280,x_0,y_161/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/29/esther-lim-occupational-therapist-st-lukes-hospital.jpg?itok=DMu8iHat -->
+
+Esther Lim, occupational therapist at St Luke’s Hospital Some patients worry less about dying than about the loved ones they will leave behind. For St Luke’s Hospital occupational therapist Esther Lim, caring for people nearing the end of life has revealed their regrets, surprisingly simple wishes and moments of joy. A family photo, a hand to hold: An occupational therapist learnt what matters most to dying patients.
 
 ### [Former SAS chief blames state for breaking 'moral contract' with soldiers](https://news.sky.com/story/former-sas-chief-blames-state-for-breaking-moral-contract-with-soldiers-13612211)
 *Sky News World* - Nov 14, 20:03 IST (iso: 2026-11-14T14:33:00+00:00)
 <!-- image: https://e3.365dm.com/26/11/1920x1080/skynews-richard-williams-sas_7406468.jpg?20261114144431 -->
 
 A former SAS commander accused the British state of breaching a moral contract with soldiers. The allegation stems from a war crimes inquiry that has failed to reach conclusions after four years of investigation. A former commanding officer of the SAS blamed the state for breaking a "moral contract" between the country and its top soldiers by setting up an inquiry into war crimes which has failed to reach conclusions four years on.
+
+---
+
+## Global / Multilateral
+
+### [Jensen Huang](https://www.thehindu.com/sci-tech/technology/jensen-huang-ai-rainmaker-meets-his-waterloo/article71702817.ece)
+*The Hindu (International)* - Nov 15, 02:28 IST (iso: 2026-11-14T20:58:12+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/9gdhih/article71702808.ece/alternates/LANDSCAPE_1200/jensen%20huang_Art.jpg -->
+
+Nvidia chief Jensen Huang has abruptly exited the company. The departure marks a sharp reversal for the executive who built the hardware foundation of the AI revolution. He forged deep ties with Silicon Valley tech leaders and expanded the company’s reach across every layer of the AI stack. The move ends his tenure as the central figure behind the chipmaker’s rapid ascent.
 
 ---
 
@@ -86,7 +92,7 @@ US legislators are pushing a new law to halt Afghan deportation flights. The pla
 
 ### [New platform aims to get money moving before disaster strikes](https://news.un.org/feed/view/en/story/2026/11/1168794)
 *UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-02-2026-WFP_MOZ_Martim-Pereira_DSC01926.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-02-2026-WFP_MOZ_Martim-Pereira_DSC01926.jpg/image560x340cropped.jpg -->
 
 UN agencies launched a joint platform at COP31 in Antalya to secure over $3 billion in risk financing. The initiative aims to protect 75 million people from climate shocks by 2030. This move seeks to move funds before disasters strike. UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.
 
@@ -169,12 +175,6 @@ Russian diesel tankers bound for the United States changed course after failing 
 <!-- image: https://gdb.rferl.org/599ef3a7-479e-49b2-27c5-08df3ee80755_cx0_cy3_cw0_w1200_h630.jpg -->
 
 The Greifswald power plant in northeast Germany is being dismantled and shipped to Ukraine. Built at the Nord Stream pipeline landfall, the station sat idle after the gas line was sabotaged. It joins other major European energy facilities being broken up for Ukrainian use. The Greifswald industrial power plant was built at the landfall of Russia's Nord Stream pipelines in northeast Germany.
-
-### [Arrests, Attacks, And A Familiar Kremlin Refrain](https://www.rferl.org/a/gutterman-week-in-russia-newsletter/33895561.html)
-*Radio Free Europe / Liberty* - Nov 12, 16:33 IST (iso: 2026-11-12T11:03:44+00:00)
-<!-- image: https://gdb.rferl.org/fb917240-c0ed-4529-80a7-abb3a9404b7c_cx0_cy2_cw0_w1200_h630.jpg -->
-
-US, Ukraine, and Russia held trilateral talks in Abu Dhabi. Negotiations focused on broad security questions while deep gaps remained over Donbas territorial control. Russia continued military attacks on Ukraine and domestic crackdowns on citizens during the discussions. At the first US-Ukraine-Russia negotiations since February, talk turns to broad questions of security while wide gaps remain over core issues such as territorial control in the Donbas.
 
 ---
 

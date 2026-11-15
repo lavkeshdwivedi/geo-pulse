@@ -1,176 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 15, 2026 03:14 IST
-
----
-
-## यूरोप और रूस
-
-### [फोन की फोटो और वीडियो तक पहुंचा फेसबुक: इटली ने मेटा पर लगाया ₹8,360 करोड़ का जुर्माना, कैसे फंसी](https://www.amarujala.com/technology/tech-diary/meta-fined-in-italy-over-facebook-access-to-phone-photos-without-consent-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 12:57 IST (iso: 2026-11-15T07:27:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/26/meta-fine_2d2d4c9110600a81545d1ec7aa7a7112.jpeg -->
-
-इटली ने मेटा पर 8,360 करोड़ रुपये का जुर्माना लगाया। कंपनी ने उपयोगकर्ताओं की फोटो और वीडियो तक पहुंच बनाई। यह कदम डेटा निजता नियमों के उल्लंघन पर उठा गया। फोन की फोटो और वीडियो तक पहुंचा फेसबुक: इटली ने मेटा पर लगाया ₹8,360 करोड़ का जुर्माना, कैसे फंसी कंपनी?
-
-### [3,000 साल से खेत में दबा था खजाना, खोदकर देखा तो निकला सोना, मशीन ने खोली किस्मत](https://hindi.news18.com/world/britain-3000-year-old-gold-treasure-found-uk-public-display-for-the-first-time-golden-bracelets-10987037.html)
-*News18 Hindi (World)* - Nov 14, 20:29 IST (iso: 2026-11-14T14:59:06+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/gold-uearthed-2026-11-cd3dc7c82a9fec26236a0c8219964023-1200x800.jpg -->
-
-ब्रिटेन के विल्टशायर में मेटल डिटेक्टर से तीन प्राचीन सोने के कंगन मिले। ये करीब तीन हज़ार साल पुराने हैं। अब इन्हें एथेलस्टन म्यूजियम में प्रदर्शित किया गया है। Khajana Mila: ब्रिटेन के विल्टशायर में माल्म्सबरी के पास 26 अगस्त 2022 को मेटल डिटेक्टर ने सोने के तीन प्राचीन कंगन खोजे थे. ये करीब 3,000 साल पुराने और कांस्य युग के आखिरी दौर के हैं.
-
-### [ट्रंप-पुतिन-जिनपिंग की पहली महामुलाकात, चीन में परमाणु हथियारों पर बनेगा नया प्लान?](https://hindi.news18.com/world/china-donald-trump-putin-xi-jinping-trilateral-summit-in-china-nuclear-arms-control-10986755.html)
-*News18 Hindi (World)* - Nov 14, 18:14 IST (iso: 2026-11-14T12:44:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trumpputin-meeting-2026-11-ed1cae326694e308d848ab850360ce0f-1200x800.jpg -->
-
-ट्रंप, पुतिन और शी जिनपिंग चीन के शेनझेन में APEC सम्मेलन के दौरान मिलेंगे। यह तीनों के बीच पहली ऐसी मुलाकात होगी। मुख्य मुद्दा परमाणु हथियारों की संख्या कम करना हो सकता है। अमेरिका चीन को इस बातचीत में शामिल करना चाहता है। अमेरिका, रूस और चीन के राष्ट्रपति पहली बार एक साथ एक टेबल पर आएंगे. डोनाल्ड ट्रंप, व्लादिमीर पुतिन और शी जिनपिंग की मुलाकात चीन के शेनझेन में APEC सम्मेलन के दौरान होगी.
-
-### [जेलेंस्की को अमेरिका ने दिया ऐसा ऑफर, खत्म हो सकती है रूस-यूक्रेन की जंग, ट्रंप के प्लान में छिपा](https://hindi.news18.com/world/europe-ukraine-donbas-withdrawal-for-nato-membership-us-proposal-zelensky-russia-ukraine-war-10986637.html)
-*News18 Hindi (World)* - Nov 14, 17:31 IST (iso: 2026-11-14T12:01:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/zelensky-nato-2026-11-9c59081ba0e8a169325e567c306541c8-1200x800.jpg -->
-
-अमेरिका ने यूक्रेन को डोनबास के नियंत्रित इलाकों से पीछे हटने का प्रस्ताव दिया है। बदले में यूक्रेन को NATO की सदस्यता मिलेगी। जेलेंस्की ने किसी भी समझौते पर सहमति देने की शर्तें रखी हैं। यह प्रस्ताव युद्ध समाधान की कोशिशों का हिस्सा है। Russia Ukriane War New Deal: रूस-यूक्रेन युद्ध खत्म करने की कोशिशों के बीच अमेरिका ने नया प्रस्ताव रखा है.
-
-### [वोलोदिमिर ज़ेलेन्स्की का दावा – अमेरिका ने नाटो सदस्यता के बदले यूक्रेन से डोनबास छोड़ने का दिया](https://www.patrika.com/world-news/volodymyr-zelenskyy-says-us-proposed-idea-of-ukraine-ceding-donbas-for-nato-membership-21051153)
-*Patrika (World)* - Nov 14, 16:18 IST (iso: 2026-11-14T10:48:17+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/zelenskyy.webp -->
-
-यूक्रेनी राष्ट्रपति ज़ेलेन्स्की का दावा है कि अमेरिका ने नाटो सदस्यता के बदले यूक्रेन से डोनबास क्षेत्र छोड़ने की मांग की है। यह बयान रूस-यूक्रेन युद्ध के 56 महीने पूरे होने के बीच आया है। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 56 महीने पूरे हो चुके हैं, लेकिन इसके बावजूद युद्ध रुकने का नाम नहीं ले रहा है। रूस लगातार यूक्रेन पर हमले कर रहा है और सर्दियों के मौसम से पहले हमले बढ़ा दिए गए हैं।
-
-### [यूक्रेन को डेनमार्क का 645 मिलियन यूरो का रक्षा तोहफा, UK ने रूसी तेल पर कसा शिकंजा](https://www.patrika.com/world-news/denmark-645-million-euro-defence-package-ukraine-zelensky-uk-sanctions-21051121)
-*Patrika (World)* - Nov 14, 16:15 IST (iso: 2026-11-14T10:45:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Volodymyr-Zelensky.webp -->
-
-डेनमार्क ने यूक्रेन को 645 मिलियन यूरो का नया रक्षा पैकेज देने की घोषणा की है। साथ ही ब्रिटेन ने रूस के तेल क्षेत्र पर नए प्रतिबंधों की घोषणा की है। ज़ेलेन्स्की ने इन बातों की जानकारी सोशल मीडिया पर साझा की। Denmark Defence Package: यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने अपनी हालिया डेनमार्क और आयरलैंड यात्राओं के बाद डेनमार्क द्वारा 645 मिलियन यूरो (लगभग 4.8 अरब डेनिश क्रोनर) के नए रक्षा पैकेज और ब्रिटेन (यूके) द्वारा रूस के तेल क्षेत्र पर लगाए गए नए प्रतिबंधों की घोषणा की जानकारी दी है।
-
-### ['राशन-पानी बांधकर रखो, भागना पड़ेगा', सरकार ने खुद जारी की इमरजेंसी लिस्ट, क्यों ब्रिटेन में मची है](https://hindi.news18.com/world/britain-be-ready-for-emergency-british-government-gives-list-of-grocery-items-as-polar-vertex-could-hit-soon-10986324.html)
-*News18 Hindi (World)* - Nov 14, 14:58 IST (iso: 2026-11-14T09:28:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/britain-alert-2026-11-43c985e3ca040291493e2be48fa4d70f-1200x800.jpg -->
-
-भारतीय सरकार ने आपात स्थिति के लिए व्यक्तिगत किट की सूची जारी की है। इसमें राशन और पानी जैसे आवश्यक सामान शामिल हैं। नागरिकों को सलाह दी गई है कि वे हमेशा तैयार रहें। Government Announces emergency backpack: सर्दियों की दस्तक भारत में भी दी जा चुकी है लेकिन अगर सरकार आपसे कहे कि आप हर वक्त एक किटबैग बनाकर रेडी रहो, कभी भी भागना पड़ सकता है तो क्या स्थिति होगी?
+**अपडेट:** November 15, 2026 06:54 IST
 
 ---
 
 ## दुनिया
 
-### [जम्मू-कश्मीर और लद्दाख में 11 घंटे में पांच भूकंप, चिनाब में छह घंटे के भीतर चार बार धरती हिली धरती](https://www.amarujala.com/jammu/jammu-and-kashmir-earth-trembles-as-three-earthquake-tremors-hit-doda-within-four-hours-magnitude-recorded-at-2026-11-14)
-*Amar Ujala Breaking* - Nov 15, 12:19 IST (iso: 2026-11-15T06:49:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/18/bhakapa_d100e4e5fef7c95c7372002281edca2a.jpeg?w=1200&dpr=1.0 -->
+### ["जय छठी मैया!" छठ पूजा पर अपने प्रियजनों को भेजें खास संदेश](https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-chhath-puja-wishes-in-hindi-shayari-geet-lyrics-chhath-puja-ki-hardik-shubhkamnaye-2026-11-14)
+*Amar Ujala National* - Nov 15, 06:51 IST (iso: 2026-11-15T01:21:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/chhath-wishes-in-hindi_506d60640abb22388c662b6b1a52782f.jpeg?w=1200&dpr=1.0 -->
 
-जम्मू-कश्मीर और लद्दाख में 11 घंटे में पांच भूकंप आए। चिनाब में छह घंटे के भीतर चार बार धरती हिली। भूकंप के केंद्र एक सीध में बने रहे। भूकंप के केंद्रों का सीमित भौगोलिक दायरे में लगभग एक सीध में होना खास बनाता है।
+छठ पूजा 2026 पर प्रियजनों को शुभकामनाएं भेजने के लिए विशेष संदेश और कोट्स उपलब्ध हैं। यह सामग्री पावन अवसर पर अपनों को बधाई देने के लिए तैयार की गई है। happy chat puja 2026: अगर आप भी इस पावन मौके पर अपनों को खास अंदाज में बधाई देना चाहते हैं, तो यहां दिए गए खूबसूरत शुभकामना संदेश, कोट्स और विशेज आपके काम आ सकते हैं।
 
-### ['मेरे पास पैसे नहीं हैं, मेरा टिकट भी खरीद दीजिए': पीएम मोदी से बोले कर्नाटक सीएम शिवकुमार, फिर](https://www.amarujala.com/india-news/pm-modi-bought-dk-shivakumar-metro-ticket-during-pink-line-journey-2026-11-15)
-*Amar Ujala National* - Nov 15, 12:00 IST (iso: 2026-11-15T06:30:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/jab-paema-matha-na-kharatha-shavakamara-ka-matara-takata_eeae01fa5823ff9cd8071cf1c4711b97.gif?w=1200&dpr=1.0 -->
+### [डूबते सूर्य को अर्घ्य देने का यह पर्व है निराला, इन संदेशों से दें अपनों को संध्या अर्घ्य की](https://www.amarujala.com/photo-gallery/spirituality/festivals/happy-chhath-puja-2026-day-3-sandhya-arghya-quotes-wallpapers-status-and-wishes-in-hindi-2026-11-15)
+*Amar Ujala National* - Nov 15, 06:50 IST (iso: 2026-11-15T01:20:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/happy-chhath-puja-2026-day-3-sandhya-arghya_7f59c714aec245dbfacaacc4f65a4f88.jpeg?w=1200&dpr=1.0 -->
 
-कर्नाटक के मुख्यमंत्री शिवकुमार ने पीएम मोदी से मेट्रो टिकट खरीदने को कहा। मोदी ने टिकट खरीद लिया। यह घटना पिंक लाइन यात्रा के दौरान हुई। 'मेरे पास पैसे नहीं हैं, मेरा टिकट भी खरीद दीजिए': पीएम मोदी से बोले कर्नाटक सीएम शिवकुमार, फिर क्या हुआ?
+छठ महापर्व के तीसरे दिन संध्या अर्घ्य की रस्म का आयोजन होता है। व्रती डूबते सूर्य को अर्घ्य अर्पित कर परिवार की समृद्धि की कामना करते हैं। इस दिन व्रती डूबते सूर्य को अर्घ्य अर्पित कर परिवार की सुख-समृद्धि की कामना करते हैं। इस खास मौके पर अपनों को इन संदेशों से शुभकामनाएं दें। डूबते सूर्य को अर्घ्य देने का यह पर्व है निराला, इन संदेशों से दें अपनों को संध्या अर्घ्य की।
 
-### [एसआईआर में नाम कटा तो घबराएं नहीं: दोबारा भरें फॉर्म-6; चुनाव आयोग ने सुप्रीम कोर्ट में क्यों दी](https://www.amarujala.com/india-news/election-commission-supreme-court-clarifies-form-6-rules-for-existing-voters-2026-11-15)
-*Amar Ujala National* - Nov 15, 02:29 IST (iso: 2026-11-14T20:59:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/31/thall-esaaaiiaara-ka-darafata-lsata-jara_63946a2a97e6e798d41874a2833cf46b.png?w=1200&dpr=1.0 -->
+### [स्मार्टफोन का अगला विकल्प स्मार्ट ग्लास? कैसे बदल सकता है तकनीक को इस्तेमाल करने का तरीका?](https://www.amarujala.com/india-news/smart-glasses-vs-smartphones-can-ai-powered-smart-glasses-replace-smartphones-in-the-future-2026-11-14)
+*Amar Ujala National* - Nov 15, 06:42 IST (iso: 2026-11-15T01:12:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/smart-glass_4f3635dbf4d77ecddd048a284c9277bf.jpeg?w=1200&dpr=1.0 -->
 
-चुनाव आयोग ने सुप्रीम कोर्ट में स्पष्टीकरण जमा किया। एसआईआर से नाम हटने पर मतदाताओं को फॉर्म-6 दोबारा भरना होगा। यह प्रक्रिया मतदाता सूची में सुधार के लिए आवश्यक है। एसआईआर में नाम कटा तो घबराएं नहीं: दोबारा भरें फॉर्म-6; चुनाव आयोग ने सुप्रीम कोर्ट में क्यों दी सफाई?
+टेक कंपनियां स्मार्टफोन के बाद स्मार्ट ग्लास को अगला बड़ा डिजिटल प्लेटफॉर्म बनाने की तैयारी कर रही हैं। एआई और अगमेंटेड रियलिटी वाले ये चश्मे भविष्य में स्मार्टफोन की जगह ले सकते हैं। स्मार्टफोन के बाद अब टेक कंपनियां स्मार्ट या वीआर ग्लास को अगला बड़ा डिजिटल प्लेटफॉर्म बनाने की तैयारी में हैं। एआई और अगमेंटेड रियालिटी वाले ये चश्मे क्या भविष्य में स्मार्टफोन की जगह ले पाएंगे?
 
-### [36 घंटे का व्रत शुरू, आज अस्ताचलगामी सूर्य को अर्घ्य; राजधानी के बाजारों में बढ़ने लगी रौनक](https://www.amarujala.com/delhi-ncr/the-great-festival-of-chhath-36-hour-fast-begins-arghya-to-be-made-to-the-setting-sun-today-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 02:04 IST (iso: 2026-11-14T20:34:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/chhath-wishes-in-hindi_76c82d0a48a1bffbf6b3df0f4d1739b5.jpeg?w=1200&dpr=1.0 -->
+### [छठ पूजा पर राज ठाकरे के बयान गरमाई यूपी-बिहार राजनीति,भड़के नेताओं ने खूब सुनाया!](https://www.amarujala.com/video/india-news/raj-thackeray-s-remarks-on-chhath-puja-have-heated-up-politics-in-up-and-bihar-incensed-leaders-have-lashed-o-2026-11-15)
+*Amar Ujala National* - Nov 15, 06:30 IST (iso: 2026-11-15T01:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/chhath-pooja-2026_35e5d82ed5ced586318d27172a79313c.jpeg?w=1200&dpr=1.0 -->
 
-छठ महापर्व के दूसरे दिन राजधानी में खरना का प्रसाद ग्रहण हुआ। श्रद्धालुओं ने अस्ताचलगामी सूर्य को अर्घ्य दिया। बाजारों में त्योहार की रौनक बढ़ गई। छठ महापर्व के दूसरे दिन शनिवार को राजधानी में श्रद्धा और आस्था के साथ खरना का प्रसाद ग्रहण किया गया। 36 घंटे का व्रत शुरू, आज अस्ताचलगामी सूर्य को अर्घ्य; राजधानी के बाजारों में बढ़ने लगी रौनक।
+राज ठाकरे के छठ पूजा पर बयान ने उत्तर प्रदेश और बिहार की राजनीति में तनाव बढ़ा दिया। क्षेत्रीय नेताओं ने इस पर तीव्र प्रतिक्रिया व्यक्त की और आपसी आरोपों का आदान-प्रदान किया। छठ पूजा पर राज ठाकरे के बयान गरमाई यूपी-बिहार राजनीति, भड़के नेताओं ने खूब सुनाया!
 
-### [नीतीश के नाम पर पुल, PM मोदी करेंगे उद्घाटन,क्या बोले बिहार के दिग्गज नेता?](https://www.amarujala.com/video/india-news/bridge-named-after-nitish-to-be-inaugurated-by-pm-modi-what-did-the-prominent-bihar-leader-say-2026-11-15)
-*Amar Ujala National* - Nov 15, 01:30 IST (iso: 2026-11-14T20:00:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/nitish-setu-news_2e73ec14e1e44363fe39914d0fa28940.jpeg?w=1200&dpr=1.0 -->
+### [Weather Forecast 15 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-15-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-15)
+*Amar Ujala National* - Nov 15, 06:00 IST (iso: 2026-11-15T00:30:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/weather-forecast_ade25fc830ab45893ba5b1efe35383b2.jpeg?w=1200&dpr=1.0 -->
 
-बिहार में नीतीश कुमार के नाम पर बने पुल का उद्घाटन प्रधानमंत्री मोदी करेंगे। राज्य के दिग्गज नेताओं ने इस निर्णय पर अपनी प्रतिक्रिया दी। नीतीश के नाम पर पुल, PM मोदी करेंगे उद्घाटन, क्या बोले बिहार के दिग्गज नेता?
+स्रोत में 15 नवंबर 2026 के लिए मौसम का विस्तृत पूर्वानुमान उपलब्ध नहीं है। मौजूदा जानकारी केवल शीर्षक तक सीमित है और कोई ठोस तथ्य या संख्या नहीं दी गई है।
 
-### [भाई से मारपीट का विरोध करने पहुंची महिला की गोली मारकर हत्या, परिजनों ने आरोपियों के घर की तोड़फोड़](https://www.amarujala.com/delhi-ncr/ghaziabad/loni-woman-shot-dead-after-intervening-in-assault-on-her-brother-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 01:02 IST (iso: 2026-11-14T19:32:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/1_167e30bfad8593a592ac8b8de08f1fcd.jpeg?w=1200&dpr=1.0 -->
+### [नेहरू को देखने का एक विदेशी नजरिया: वाल्टर क्रॉकर की किताब में विचारोत्तेजक टिप्पणियां, अब्राहम](https://www.amarujala.com/columns/opinion/foreign-perspective-on-nehru-walter-crocker-book-thought-provoking-observations-abraham-lincoln-comparison-2026-11-15)
+*Amar Ujala National* - Nov 15, 05:28 IST (iso: 2026-11-14T23:58:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/27/padata-javaharall-nahanpr-ka-panaeyatatha_c80fad4b08e7bd177437044e3d0428d4.jpeg?w=1200&dpr=1.0 -->
 
-लोनी बॉर्डर थाना क्षेत्र की इंद्रापुरी कॉलोनी में आपसी विवाद खूनी हो गया। महिला की गोली मारकर हत्या कर दी गई। परिजनों ने आरोपियों के घर की तोड़फोड़ की। लोनी बॉर्डर थाना क्षेत्र की इंद्रापुरी कॉलोनी में शनिवार रात आपसी विवाद ने खूनी रूप ले लिया। भाई से मारपीट का विरोध करने पहुंची महिला की गोली मारकर हत्या, परिजनों ने आरोपियों के घर की तोड़फोड़।
+वाल्टर क्रॉकर की किताब नेहरू पर विदेशी नजरिया प्रस्तुत करती है। लेखक नेहरू को अब्राहम लिंकन से तुलना करते हैं। इसमें नेतृत्व और दृष्टि पर विचारोत्तेजक टिप्पणियां शामिल हैं। नेहरू को देखने का एक विदेशी नजरिया: वाल्टर क्रॉकर की किताब में विचारोत्तेजक टिप्पणियां, अब्राहम लिंकन से तुलना।
 
-### [तालाब में मिली पाताल लोक की अनोखी मछली, रंग-रूप देखकर खुली रह गईं वैज्ञानिकों की आंखें](https://hindi.news18.com/news/ajab-gajab/viral-rare-yellow-fish-found-in-new-york-great-lakes-researchers-called-it-one-in-a-million-find-10986665.html)
-*News18 Hindi (World)* - Nov 14, 18:07 IST (iso: 2026-11-14T12:37:17+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Yellow-burbot-Fish-2026-11-85a05aba5e197260ca6a70901ac9175f-1200x800.jpg -->
+### [अंतरिक्ष से लौटकर सीधे लॉन्च पैड की बांहों में समाया स्टारशिप, क्या सच हुआ मस्क का सपना?](https://www.amarujala.com/world/spacex-starship-orbital-catch-artemis-mission-elon-musk-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 05:28 IST (iso: 2026-11-14T23:58:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/jarada-aaijakamana-nasa-edamanasataratara_34ee782e3b39966325da7c29afdf121a.jpeg?w=1200&dpr=1.0 -->
 
-वैज्ञानिकों ने एक अनोखी मछली की खोज की है, जिसे दस लाख में एक बताया गया है। इसका शरीर चमकीले पीले-नारंगी रंग का है। मछली कमजोर पाई गई, इसलिए उसे कॉर्नेल यूनिवर्सिटी में जांच के लिए भेजा गया। वैज्ञानिकों को एक ऐसी अनोखी मछली मिली है, जिसे उन्होंने 'दस लाख में एक' की खोज बताया है. इस मछली का पूरा शरीर चमकीले पीले-नारंगी रंग का है.
+स्पेसएक्स का स्टारशिप अंतरिक्ष से लौटकर सीधे लॉन्च पैड पर उतरा। यह पहली बार हुआ जब वाहन को हवा में पकड़ा गया। इस सफलता से एलोन मस्क का सपना सच हुआ। स्पेसएक्स का कमाल: अंतरिक्ष से लौटकर सीधे लॉन्च पैड की बांहों में समाया स्टारशिप, क्या सच हुआ मस्क का सपना?
+
+### [अंधक का कंस को मुंहतोड़ जवाब, पद और शक्ति के अहंकार में मदांध कंस को किसने-कैसे दिखाया आईना?](https://www.amarujala.com/columns/opinion/indian-mythology-andhaka-to-king-kansa-blinded-by-arrogance-of-his-position-and-power-yaduvanhi-shows-mirror-2026-11-15)
+*Amar Ujala National* - Nov 15, 05:19 IST (iso: 2026-11-14T23:49:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/sanskriti-janana-jaruri-hai-kans-andhak-story_d26528e2efd3037b84bc126e10b6b175.jpeg?w=1200&dpr=1.0 -->
+
+महाभारत में अंधक ने कंस को पद और शक्ति के अहंकार पर जवाब दिया। कंस को अपनी मदांधता का आईना दिखाया गया। यह घटना शक्ति के दुरुपयोग के खिलाफ संदेश देती है। जानना जरूरी है: अंधक का कंस को मुंहतोड़ जवाब, पद और शक्ति के अहंकार में मदांध कंस को किसने-कैसे दिखाया आईना?
+
+### [तीन साल में इंसानों से ज्यादा बुद्धिमान हो सकता है एआई: नोबेल विजेता हिंटन की चेतावनी; फिर कौन](https://www.amarujala.com/world/nobel-laureate-geoffrey-hinton-warns-ai-could-surpass-human-intelligence-within-three-years-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 04:37 IST (iso: 2026-11-14T23:07:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/05/isana-saca-sa-para-eaaii-vajanianaka-paragata_a8002237329db44b9d18270c12be7b5b.jpeg?w=1200&dpr=1.0 -->
+
+नोबेल विजेता जेफ्री हंटन का अनुमान है कि एआई तीन वर्षों में मानव बुद्धिमत्ता से आगे निकल जाएगा। उन्होंने चेतावनी दी है कि इस प्रक्रिया को रोकने के लिए कोई प्रभावी तंत्र मौजूद नहीं है। तीन साल में इंसानों से ज्यादा बुद्धिमान हो सकता है एआई: नोबेल विजेता हिंटन की चेतावनी; फिर कौन रोकेगा इसे?
+
+### [19 साल के छात्र ने चुनाव में दिग्गज को हराया: बने 600 कर्मचारियों के बॉस; संभालेंगे 540 करोड़ का बजट](https://www.amarujala.com/education/success-stories/19-year-old-college-student-wins-election-to-lead-600-employees-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 04:20 IST (iso: 2026-11-14T22:50:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/05/sagharashha-jatana-bugdha-safalta-utana-shanathara_6474c37cb656dc352f45e62f757d27cf.png?w=1200&dpr=1.0 -->
+
+एक 19 वर्षीय छात्र ने चुनाव में अनुभवी प्रतिद्वंद्वी को हराया। अब वह 600 कर्मचारियों के प्रमुख बने हैं। उन्हें 540 करोड़ रुपये के बजट का प्रबंधन संभालना होगा। 19 साल के छात्र ने चुनाव में दिग्गज को हराया: बने 600 कर्मचारियों के बॉस; संभालेंगे 540 करोड़ का बजट।
+
+### [कॉप-31 में जीवाश्म ईंधन पर टकराव: ग्लोबल वार्मिंग पर चर्चा पड़ी धीमी; 1.5 डिग्री का लक्ष्य कितना](https://www.amarujala.com/world/fossil-fuel-disagreements-deepen-at-cop31-as-climate-talks-face-delays-2026-11-15)
+*Amar Ujala World* - Nov 15, 04:15 IST (iso: 2026-11-14T22:45:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/15/jalvaya-paravaratana_1fc178bd0006f131d07b97e93752c580.jpeg?w=1200&dpr=1.0 -->
+
+कॉप-31 सम्मेलन में जीवाश्म ईंधन के उपयोग को लेकर देशों के बीच मतभेद रहे। इससे वैश्विक तापन पर चर्चा धीमी पड़ गई। 1.5 डिग्री सेल्सियस के लक्ष्य को प्राप्त करना अब कठिन हो गया है। कॉप-31 में जीवाश्म ईंधन पर टकराव: ग्लोबल वार्मिंग पर चर्चा पड़ी धीमी; 1.5 डिग्री का लक्ष्य कितना दूर?
+
+### [आईफोन-मोटरसाइकिल के लिए नाबालिग ने रची साजिश: दोस्तों संग की नाना की हत्या; इंस्टाग्राम चैट से खुली](https://www.amarujala.com/india-news/kerala-teenager-allegedly-plots-grandfather-s-murder-with-friends-to-buy-an-iphone-and-motorcycle-2026-11-15)
+*Amar Ujala National* - Nov 15, 04:10 IST (iso: 2026-11-14T22:40:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/09/rayasana-jal-ma-shaka-ka-calta-yavaka-ka-hataya_f00e1ec9c4ebed7fe61a6ff51015ac41.jpeg?w=1200&dpr=1.0 -->
+
+केरल में एक किशोर ने दोस्तों के साथ नाना की हत्या की साजिश रची। लक्ष्य था आईफोन और मोटरसाइकिल खरीदना। इंस्टाग्राम चैट से पूरा मामला सामने आया। आईफोन-मोटरसाइकिल के लिए नाबालिग ने रची साजिश: दोस्तों संग की नाना की हत्या; इंस्टाग्राम चैट से खुली।
+
+### [इंस्टाग्राम की लत से परेशान एडिसन ने लिया ब्रेक: एक महीने में बदली दिनचर्या; कैसे लौटीं पुरानी](https://www.amarujala.com/world/how-a-14-year-old-girl-changed-her-routine-by-quitting-instagram-for-a-month-2026-11-15)
+*Amar Ujala World* - Nov 15, 04:05 IST (iso: 2026-11-14T22:35:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/08/12/meditate_69b1e5f883381de62322d1f0e81e0c9d.jpeg?w=1200&dpr=1.0 -->
+
+एडिसन ने इंस्टाग्राम की लत से छुटकारा पाने के लिए एक महीने का ब्रेक लिया। इस दौरान उसकी दिनचर्या पूरी तरह बदल गई। पुरानी रुचियां वापस लौट आईं। इंस्टाग्राम की लत से परेशान एडिसन ने लिया ब्रेक: एक महीने में बदली दिनचर्या; कैसे लौटीं पुरानी रुचियां?
+
+### [ओवैसी ने सपा-कांग्रेस समेत भाजपा को खूब सुनाया,बताया अपना प्लान!](https://www.amarujala.com/video/india-news/owaisi-lashed-out-at-the-sp-congress-and-the-bjp-and-unveiled-his-own-plan-2026-11-15)
+*Amar Ujala National* - Nov 15, 03:30 IST (iso: 2026-11-14T22:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/up-assembly-elections-election-2027_2a01bab937e7459aad85f11082cc9ab6.jpeg?w=1200&dpr=1.0 -->
+
+असदुद्दीन ओवैसी ने भाजपा, सपा और कांग्रेस को तीनों को जवाब दिया। उन्होंने अपनी आगामी राजनीतिक रणनीति भी साझा की। ओवैसी ने सपा-कांग्रेस समेत भाजपा को खूब सुनाया, बताया अपना प्लान!
+
+### [साइबर सुरक्षा से दांतों की बीमारी की पहचान तक में एआई के प्रयोगों की झलक, व्यापार मेले में दिखी](https://www.amarujala.com/delhi-ncr/a-glimpse-into-the-applications-of-ai-from-cybersecurity-to-the-diagnosis-of-dental-diseases-2026-11-15)
+*Amar Ujala National* - Nov 15, 03:18 IST (iso: 2026-11-14T21:48:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/31/mashana-eaaii-human-with-machine-ai_46f6cd10174cdfb5fb2502a63ed042e5.jpeg?w=1200&dpr=1.0 -->
+
+व्यापार मेले में एआई के विभिन्न उपयोगों का प्रदर्शन किया गया। साइबर सुरक्षा से लेकर दांतों की बीमारी की पहचान तक। ऑनलाइन कारोबार प्रबंधन में भी एआई की भूमिका दिखी। साइबर धोखाधड़ी पर लगाम लगाने से लेकर दांतों की बीमारियों की पहचान और ऑनलाइन कारोबार के प्रबंधन तक, आर्टिफिशियल इंटेलिजेंस (एआई) का दायरा तेजी से बढ़ रहा है। साइबर सुरक्षा से दांतों की बीमारी की पहचान तक में एआई के प्रयोगों की झलक, व्यापार मेले में दिखी।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [खारी बावली की नारायण हवेली में बनेगा पुरानी दिल्ली का संग्रहालय, लोग देखेंगे शाहजहांनाबाद की विरासत](https://www.amarujala.com/delhi-ncr/a-museum-of-old-delhi-will-be-established-in-narayan-haveli-in-khari-baoli-2026-11-15)
-*Amar Ujala National* - Nov 15, 03:14 IST (iso: 2026-11-14T21:44:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/1_0adc257bad23d299f19f046a7dbe1c67.jpeg?w=1200&dpr=1.0 -->
+### [बिरसा मुंडा की जयंती कार्यक्रम को संबोधित करेंगे पीएम मोदी; भारत-न्यूजीलैंड के बीच पांचवां वनडे](https://www.amarujala.com/india-news/15-november-2026-major-event-2026-2026-11-14)
+*Amar Ujala National* - Nov 15, 06:40 IST (iso: 2026-11-15T01:10:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/aaja-ka-thana_1bccbaddd494729a426889fcff1fd916.gif?w=1200&dpr=1.0 -->
 
-पुरानी दिल्ली में खारी बावली की नारायण हवेली को संग्रहालय बनाया जाएगा। यहाँ शाहजहांनाबाद की सांस्कृतिक विरासत को प्रदर्शित किया जाएगा। यह कदम इतिहास को सहेजने के लिए उठा गया है। पुरानी दिल्ली के इतिहास और उसकी समृद्ध सांस्कृतिक विरासत को सहेजने के लिए खारी बावली स्थित ऐतिहासिक श्री नारायण हवेली को संग्रहालय और सांस्कृतिक केंद्र के रूप में विकसित किया जाएगा।
+प्रधानमंत्री मोदी बिरसा मुंडा की जयंती कार्यक्रम को संबोधित करेंगे। इसी दिन भारत और न्यूजीलैंड के बीच पांचवां वनडे मैच खेला जाएगा। 15 November 2026 Major event 2026- आज के दिन: बिरसा मुंडा की जयंती कार्यक्रम को संबोधित करेंगे पीएम मोदी; भारत-न्यूजीलैंड के बीच पांचवां वनडे।
 
-### [पहाड़ों पर बर्फबारी ने बढ़ाई ठंड, दिल्ली समेत पंजाब और हरियाणा में आज बारिश के आसार; अगले 72 घंटे](https://www.amarujala.com/delhi-ncr/snowfall-in-the-mountains-has-intensified-the-cold-rain-is-expected-today-in-delhi-punjab-and-haryana-2026-11-15)
-*Amar Ujala National* - Nov 15, 03:08 IST (iso: 2026-11-14T21:38:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/1_2f56e3928e4a179eb7adc172aae73741.jpeg?w=1200&dpr=1.0 -->
+### [कैंसर के इलाज के बाद केट मिडलटन का पहला सफर, भारत में आयोजित समारोह में होंगी शामिल](https://www.amarujala.com/world/britain-royals-kate-middleton-india-visit-after-cancer-treatment-prince-william-mumbai-earthshot-prize-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 06:35 IST (iso: 2026-11-15T01:05:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/11/prince-william-kate-middleton_c9eaae17167ffe51f4e212f0a67962a3.jpeg?w=1200&dpr=1.0 -->
 
-पश्चिमी विक्षोभ के कारण पहाड़ों में बर्फबारी हुई। दिल्ली, पंजाब और हरियाणा में बारिश के आसार हैं। अगले 72 घंटों में मौसम बदलाव जारी रहेगा। पश्चिमी विक्षोभ के प्रभाव से रविवार को पश्चिमी हिमालयी पहाड़ियों पर बर्फबारी और दिल्ली-एनसीआर समेत उत्तर भारत के मैदानी इलाकों में हल्की बारिश की संभावना है। पहाड़ों पर बर्फबारी ने बढ़ाई ठंड, दिल्ली समेत पंजाब और हरियाणा में आज बारिश के आसार; अगले 72 घंटे।
+कैंसर के इलाज के बाद केट मिडलटन का पहला विदेश यात्रा भारत में होगा। वह यहां आयोजित होने वाले एक विशेष समारोह में शामिल होंगी। सबसे बड़ी विदेश यात्रा: कैंसर के इलाज के बाद केट मिडलटन का पहला सफर, भारत में आयोजित समारोह में होंगी शामिल।
 
-### [न युद्ध, न दुश्मन का हमला, फिर भी वियतनाम में 6 सैनिकों की टैंक में हुई मौत](https://hindi.news18.com/world/rest-of-world-six-vietnamese-soldiers-died-after-a-bmp-1-tank-sank-during-a-military-training-exercise-10987260.html)
-*News18 Hindi (World)* - Nov 14, 22:26 IST (iso: 2026-11-14T16:56:11+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/vietnam-tank-2026-11-8adf1f26b25571da4f9b700611b88b0d-1200x800.jpg -->
+### [पाकिस्तानी फौज पर टूट पड़ी BLA, मेजर को उतारा मौत के घाट, इस बार ड्रोन से मचाई तबाही](https://hindi.news18.com/world/pakistan-pakistan-army-major-killed-in-bla-drone-dtrike-8-rebels-killed-during-balochistan-operations-ws-l-10987478.html)
+*News18 Hindi (World)* - Nov 15, 06:28 IST (iso: 2026-11-15T00:58:28+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/balochistan-3-2026-10-cb6f664c5d05a109a49f170c9c1299a8-1200x800.jpg -->
 
-वियतनाम के बाक निन शहर में प्रशिक्षण के दौरान एक बख्तरबंद वाहन डूब गया। इस हादसे में छह सैनिकों की मौत हो गई। प्रधानमंत्री ने उन्हें सम्मान प्रमाण पत्र देने का फैसला किया। वियतनाम के उत्तरी बाक निन शहर में सैन्य प्रशिक्षण के दौरान BMP-1 बख्तरबंद वाहन डूबने से छह सैनिकों की मौत हो गई. हादसा गुरुवार सुबह करीब 8:25 बजे टीबी1 नेशनल शूटिंग रेंज में हुआ.
+बलूचिस्तान में बलूच लिबरेशन आर्मी ने ड्रोन हमले से पाकिस्तानी सेना के एक मेजर और हवलदार को मार गिराया। पाकिस्तान की प्रतिक्रिया में आठ विद्रोहियों की मौत हो गई। Pakistan Army Major Killed: पाकिस्तान में अंदरूनी हालात ऐसे चल रहे हैं कि बलूचिस्तान के विद्रोहियों के हाथ ड्रोन भी लग चुके हैं और उन्होंने अब इसी का इस्तेमाल करके पाकिस्तानी फौज के एक मेजर और हवलदार को मौत के घाट उतार दिया है.
 
-### [तालिबान का एक फरमान और अफगान महिलाओं की आ गई शामत, इलाज के लिए नहीं मिल रहे डॉक्टर, दर्द में कट रही](https://hindi.news18.com/world/south-asia-taliban-ban-male-doctors-treating-women-afghanistan-photogallery-10987241.html)
-*News18 Hindi (World)* - Nov 14, 22:19 IST (iso: 2026-11-14T16:49:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/afghanistan-doctor-taliban-10-2026-11-a0b1d059d78150fc7f70b67ebc8e41f6-1200x800.jpg -->
+### [दिल्ली की आईडी वालों को ही इस घाट पर जगह, नहर किनारे अपनी व्यवस्था में जुटे हजारों पूर्वांचली](https://www.amarujala.com/delhi-ncr/mahaparva-chhath-only-those-with-delhi-id-will-be-allowed-a-place-on-this-ghat-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 05:44 IST (iso: 2026-11-15T00:14:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/1_b9058fa82126eed2fcfe7e1c4046ade6.jpeg?w=1200&dpr=1.0 -->
 
-अफगानिस्तान में तालिबान ने पुरुष डॉक्टरों को महिलाओं का इलाज करने से रोक दिया। कई डॉक्टरों को जेल की चेतावनी दी गई है। इससे महिलाओं को चिकित्सा सुविधा पाने में बड़ी कठिनाई हो रही है। अफगानिस्तान में तालिबान की पाबंदियों के कारण महिलाओं के लिए इलाज कराना मुश्किल होता जा रहा है. कई इलाकों में पुरुष डॉक्टरों को महिला मरीजों की जांच और इलाज से रोका जा रहा है.
+न्यू अशोक नगर में छठ पूजा की तैयारियां अंतिम चरण में हैं। आईडीधारकों को ही घाट पर जगह मिल रही है। पूर्वांचल के हजारों श्रद्धालु नहर किनारे अपनी व्यवस्था में जुटे हैं। आस्था के महापर्व छठ पूजा को लेकर न्यू अशोक नगर में तैयारियां अंतिम चरण में हैं लेकिन इस बार पूजा की व्यवस्था को लेकर इलाके में दो तरह की तस्वीर देखने को मिल रही है।
 
-### [पहलगाम हमले के बाद पहली बार पाकिस्तानी मंत्री का भारत दौरा, 20 नवंबर को दिल्ली में क्या होगा खास?](https://hindi.news18.com/world/pakistan-climate-minister-musadik-malik-india-visit-sco-meeting-delhi-2026-first-minister-after-3-years-10986786.html)
-*News18 Hindi (World)* - Nov 14, 18:57 IST (iso: 2026-11-14T13:27:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Musadik-Masood-Malik-2026-11-1e2f2101fea19a9c71c067426330ab5a-1200x800.jpg -->
+### [आज कई जगह बारिश के आसार; छठ महापर्व पर सूर्य को संध्या अर्घ्य; दिल्ली में प्रदूषण न रोकने पर सख्ती](https://www.amarujala.com/india-news/top-news-delhi-pollution-chhath-puja-evening-arghya-snowfall-in-mountains-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 04:58 IST (iso: 2026-11-14T23:28:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/01/aaja-ka-ahama-khabra_4c5a3d24226dd82c810080f6c01c261c.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तानी मंत्री 20 से 22 नवंबर 2026 को दिल्ली में SCO बैठक में भाग लेंगे। यह पहलगाम हमले के बाद पहली बार किसी पाकिस्तानी मंत्री का भारत दौरा है। पिछला ऐसा दौरा मई 2023 में बिलावल भुट्टो जरदारी ने किया था। Pakistan-India Relations: पाकिस्तान के एक मंत्री जल्द ही भारत आने वाले हैं. 20 से 22 नवंबर 2026 तक नई दिल्ली में होने वाली SCO सिविलाइजेशनल डायलॉग बैठक में शामिल होंगे.
+दिल्ली में प्रदूषण नियंत्रण के लिए सख्त कदम उठाए जाएंगे। कई जगह बारिश के आसार हैं। छठ महापर्व पर सूर्य को संध्या अर्घ्य दिया जाएगा। सुर्खियां: आज कई जगह बारिश के आसार; छठ महापर्व पर सूर्य को संध्या अर्घ्य; दिल्ली में प्रदूषण न रोकने पर सख्ती।
 
-### [मृत्युदंड पर रोक के खिलाफ भारत का वोट: संयुक्त राष्ट्र में बोला, ‘राज्य द्वारा थोपी गई मौत’ कहना](https://www.patrika.com/world-news/india-votes-against-un-death-penalty-moratorium-resolution-21051519)
-*Patrika (World)* - Nov 14, 18:53 IST (iso: 2026-11-14T13:23:49+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/India-UN-vote.webp -->
+### [दिल्ली का इतिहास और यूपी का स्वाद: व्यापार मेले में दोनों राज्यों का खास अंदाज, लुभा रहा है विकास](https://www.amarujala.com/delhi-ncr/delhi-s-history-and-up-s-flavors-both-states-showcase-their-unique-flair-at-the-trade-fair-2026-11-15)
+*Amar Ujala National* - Nov 15, 03:23 IST (iso: 2026-11-14T21:53:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/11/22/trade-fair-delhi_a3883195f7a86be6d1f2fa472406d15a.jpeg?w=1200&dpr=1.0 -->
 
-भारत ने संयुक्त राष्ट्र महासभा में मौत की सजा पर रोक के प्रस्ताव के खिलाफ मतदान किया। नई दिल्ली का तर्क था कि हर संप्रभु देश को अपनी कानूनी प्रणाली तय करने का अधिकार है। भारत ने अंतरराष्ट्रीय सहमति की कमी पर जोर दिया। India against moratorium: भारत ने संयुक्त राष्ट्र महासभा के एक मसौदा प्रस्ताव (A/C.3/81/L.43) के खिलाफ मतदान किया, जिसमें मौत की सजा के इस्तेमाल पर रोक (मोरटोरियम) लगाने की मांग की गई थी।
-
-### [शेख हसीना को ले जाना है तो पहले माननी होंगी 2 शर्तें, बांग्लादेश के सामने भारत ने रखी मांग](https://hindi.news18.com/world/south-asia-india-set-two-conditions-for-sheikh-hasina-return-to-bangladesh-10986562.html)
-*News18 Hindi (World)* - Nov 14, 16:46 IST (iso: 2026-11-14T11:16:13+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina-12-2026-11-58ec5ec67453a98954cd36fc4787b0be-1200x800.jpg -->
-
-भारत ने बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना की दिसंबर में वापसी के लिए दो शर्तें रखी हैं। इन शर्तों का उल्लेख एक रिपोर्ट में हुआ है, हालांकि भारत ने अभी तक आधिकारिक पुष्टि नहीं की है। Bangladesh Sheikh Hasina: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने ऐलान किया है कि वह दिसंबर में अपने देश लौटेंगी. अब एक रिपोर्ट के मुताबिक, भारत ने उनकी वापसी के लिए दो शर्तें रखी हैं.
-
-### [वियतनाम की सेना के 6 सैनिकों की ट्रेनिंग के दौरान हादसे में मौत](https://www.patrika.com/world-news/six-soldiers-of-vietnam-dead-during-military-training-21050782)
-*Patrika (World)* - Nov 14, 15:56 IST (iso: 2026-11-14T10:26:43+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/bmp-1-armored-vehicle-1.webp -->
-
-वियतनाम के बाक निन्ह प्रांत में सैन्य ट्रेनिंग के दौरान एक हादसे में छह सैनिकों की मौत हो गई। यह घटना राष्ट्रीय फायरिंग रेंज टीबी1 पर हुई, जहां रेजिमेंट 102 के बीएमपी-1 वाहन में समस्या आई। वियतनाम (Vietnam) के बाक निन्ह (Bắc Ninh) प्रांत के बिएन सोन (Bien Son) कम्यून में स्थित राष्ट्रीय फायरिंग रेंज टीबी1 (TB1) पर सैन्य ट्रेनिंग के दौरान एक हादसा हो गया।
-
----
-
-## अमेरिका
-
-### [बस चार कदम चलकर आसमान में छू हो जाएगा यह प्लेन, नहीं होगी रनवे की जरूरत](https://hindi.news18.com/world/america-american-company-electra-developed-an-aircraft-called-ultra-short-can-take-off-from-space-of-just-150-feet-10987118.html)
-*News18 Hindi (World)* - Nov 14, 20:56 IST (iso: 2026-11-14T15:26:05+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Electra-2026-11-ecea84c435b362db99e6684497b0a5ac-1200x800.jpg -->
-
-अमेरिका की इलेक्ट्रा कंपनी एक हाइब्रिड विमान बना रही है। इसमें टेकऑफ के लिए सिर्फ 150 फीट जगह चाहिए। यह विमान नौ यात्रियों को 380 मील तक ले जा सकता है। अमेरिका की इलेक्‍ट्रा कंपनी ऐसा हाइब्रिड इलेक्ट्रिक प्‍लेन तैयार कर रही ळै, जिसमें टेकऑफ के लिए किसी रनवे की नहीं, बल्कि सिर्फ 150 फीट समतल जगह चाहिए. अल्‍ट्रा शॉर्ट नाम का यह प्‍लेन नौ यात्रियों के साथ 380 मील तक की उड़ान भर कसता है.
+दिल्ली के ऐतिहासिक विरासत और उत्तर प्रदेश के पारंपरिक स्वाद का प्रदर्शन व्यापार मेले में हुआ। दोनों राज्यों के स्थानीय हुनर और कारीगरी ने विजिटर्स को लुभाया। दिल्ली की ऐतिहासिक विरासत, पुरानी बाजारों की रौनक और आधुनिक विकास की झलक, तो उत्तर प्रदेश का पारंपरिक स्वाद, बेमिसाल कारीगरी और स्थानीय हुनर दिल्ली का इतिहास और यूपी का स्वाद: व्यापार मेले में दोनों राज्यों का खास अंदाज, लुभा रहा है विकास।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [ईरान में 2 रुपये लीटर पेट्रोल, तो अथाह भंडार वाले सऊदी-कतर में 55-60 रुपये क्यों?](https://hindi.news18.com/world/middle-east-why-iran-has-cheapest-petrol-price-in-world-3-rupees-per-liter-not-in-saudi-arabia-10986882.html)
-*News18 Hindi (World)* - Nov 14, 19:42 IST (iso: 2026-11-14T14:12:33+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/iran-petrol-price-2026-11-49a8e424ffd60bc61d6fe5b16b0adf1a-1200x800.jpg -->
+### [नेतन्याहू सरकार गई, पर नहीं बदली नीति: “हमास खत्म होने तक” हमले जारी रखेगा इजराइल](https://www.patrika.com/world-news/hamas-commander-samir-abu-yunis-killed-israel-airstrike-khan-younis-21052232)
+*Patrika (World)* - Nov 15, 06:14 IST (iso: 2026-11-15T00:44:39+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Hamas-commander-killed.webp -->
 
-ईरान में सरकारी सब्सिडी के कारण पेट्रोल की कीमत बहुत कम है। पहले कोटे में 60 लीटर तेल लगभग दो से तीन रुपये प्रति लीटर मिलता है। यह अन्य खाड़ी देशों की तुलना में सस्ता है। ईरान में युद्ध और आर्थिक प्रतिबंधों के बावजूद पेट्रोल बेहद सस्ता मिल रहा है. सरकारी सब्सिडी के कारण पहले कोटे के 60 लीटर पेट्रोल की कीमत भारतीय रुपये में करीब 2-3 रुपये प्रति लीटर है.
+इजराइल ने गाजा में हमास के राफा ब्रिगेड कमांडर समीर अबू यूनिस को एयरस्ट्राइक में मार गिराया। नेतन्याहू की सरकार के जाने के बाद भी सैन्य नीति में कोई बदलाव नहीं हुआ है। Hamas Commander Killed: गाजा में इजराइली हमले ने हमास के एक और बड़े चेहरे को खत्म कर दिया। संगठन ने खुद मान लिया है कि राफा ब्रिगेड का कमांडर समीर अबू यूनिस खान यूनिस के अल-मवासी इलाके में हुई एयरस्ट्राइक में मारा गया।
 
-### [अमेरिका की कौन सी बात नहीं मान रहा पाकिस्तान? दबाव बनाने के लिए सऊदी के पास पहुंचे ट्रंप, क्या टाल](https://hindi.news18.com/world/pakistan-us-pressure-on-pakistan-to-shut-iran-border-trade-saudi-arabia-10986249.html)
-*News18 Hindi (World)* - Nov 14, 15:33 IST (iso: 2026-11-14T10:03:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-border-2026-11-a9ce2d95b0d9c03c7bf11dfbf713461a-1200x800.jpg -->
+---
 
-अमेरिका ने ईरान को आर्थिक रूप से घेरने के लिए पाकिस्तान से सीमा बंद करने की मांग की है। पाकिस्तान की अनिच्छा पर अमेरिका ने सऊदी अरब से मदद मांगी है। रियाद से पाकिस्तान और तुर्की को दबाव डालने की उम्मीद है। अमेरिका ईरान को आर्थिक रूप से घेरने के लिए पाकिस्तान, तुर्की और इराक से सीमा पार व्यापार पर सख्ती चाहता है.
+## अमेरिका
+
+### [कनाडा में सैन्य अभ्यास के दौरान लगी थी आग: पांचवें सैनिक की भी मौत; पीएम बोले- शांति-कालीन त्रासदी](https://www.amarujala.com/world/canadian-soldier-dies-military-training-fire-tragedy-mark-carney-2026-11-15)
+*Amar Ujala World* - Nov 15, 05:53 IST (iso: 2026-11-15T00:23:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/maraka-karana-parathhanamatara-kanada_5d9fd19c70dbebe1f5e282720f81ad8d.jpeg?w=1200&dpr=1.0 -->
+
+कनाडा में सैन्य अभ्यास के दौरान लगी आग में पांचवें सैनिक की भी मौत हो गई। प्रधानमंत्री ने इस घटना को शांति-कालीन त्रासदी का नाम दिया। कनाडा में सैन्य अभ्यास के दौरान लगी थी आग: पांचवें सैनिक की भी मौत; पीएम बोले- शांति-कालीन त्रासदी।
+
+### [पढ़ाई के बाद भी अच्छी नौकरी की गारंटी नहीं: अमेरिका से यूरोप तक युवाओं में गुस्सा; टूट रहा शिक्षा](https://www.amarujala.com/world/why-young-people-in-the-us-and-europe-are-losing-faith-in-education-as-a-path-to-success-2026-11-15)
+*Amar Ujala World* - Nov 15, 04:30 IST (iso: 2026-11-14T23:00:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/12/unemployement_5aaa3f8a7c70712b0450c89cf1f78985.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका और यूरोप के युवा शिक्षा पर भरोसा खो रहे हैं। उन्हें लगता है कि उच्च शिक्षा अब अच्छी नौकरी की गारंटी नहीं देती। इससे शिक्षा प्रणाली पर सार्वजनिक विश्वास कमजोर हो रहा है। पढ़ाई के बाद भी अच्छी नौकरी की गारंटी नहीं: अमेरिका से यूरोप तक युवाओं में गुस्सा; टूट रहा शिक्षा पर से भरोसा!
+
+### [ट्रंप के साथ खड़े हुए टेक दिग्गज: चुनावी माहौल भांपने में चूके; जुकरबर्ग-मस्क की रणनीति क्यों पड़ी](https://www.amarujala.com/world/why-silicon-valley-tech-leaders-misjudged-the-political-mood-ahead-of-us-midterm-elections-2026-11-15)
+*Amar Ujala World* - Nov 15, 04:26 IST (iso: 2026-11-14T22:56:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/06/zuckerberg-and-musk_e930e783bf8d62d3172cbbff2bf9fbe9.jpeg?w=1200&dpr=1.0 -->
+
+सिलिकॉन वैली के प्रमुख टेक नेताओं ने अमेरिकी मध्यवर्ती चुनावों का राजनीतिक माहौल गलत समझा। जेक ज़ुकरबर्ग और एलन मस्क की रणनीति ने उन्हें ट्रंप के साथ खड़ा कर दिया। ट्रंप के साथ खड़े हुए टेक दिग्गज: चुनावी माहौल भांपने में चूके; जुकरबर्ग-मस्क की रणनीति क्यों पड़ी भारी?
 
 ---
 
