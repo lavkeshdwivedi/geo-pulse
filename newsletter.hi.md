@@ -1,172 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 15, 2026 06:54 IST
-
----
-
-## दुनिया
-
-### ["जय छठी मैया!" छठ पूजा पर अपने प्रियजनों को भेजें खास संदेश](https://www.amarujala.com/photo-gallery/lifestyle/relationship/happy-chhath-puja-wishes-in-hindi-shayari-geet-lyrics-chhath-puja-ki-hardik-shubhkamnaye-2026-11-14)
-*Amar Ujala National* - Nov 15, 06:51 IST (iso: 2026-11-15T01:21:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/chhath-wishes-in-hindi_506d60640abb22388c662b6b1a52782f.jpeg?w=1200&dpr=1.0 -->
-
-छठ पूजा 2026 पर प्रियजनों को शुभकामनाएं भेजने के लिए विशेष संदेश और कोट्स उपलब्ध हैं। यह सामग्री पावन अवसर पर अपनों को बधाई देने के लिए तैयार की गई है। happy chat puja 2026: अगर आप भी इस पावन मौके पर अपनों को खास अंदाज में बधाई देना चाहते हैं, तो यहां दिए गए खूबसूरत शुभकामना संदेश, कोट्स और विशेज आपके काम आ सकते हैं।
-
-### [डूबते सूर्य को अर्घ्य देने का यह पर्व है निराला, इन संदेशों से दें अपनों को संध्या अर्घ्य की](https://www.amarujala.com/photo-gallery/spirituality/festivals/happy-chhath-puja-2026-day-3-sandhya-arghya-quotes-wallpapers-status-and-wishes-in-hindi-2026-11-15)
-*Amar Ujala National* - Nov 15, 06:50 IST (iso: 2026-11-15T01:20:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/happy-chhath-puja-2026-day-3-sandhya-arghya_7f59c714aec245dbfacaacc4f65a4f88.jpeg?w=1200&dpr=1.0 -->
-
-छठ महापर्व के तीसरे दिन संध्या अर्घ्य की रस्म का आयोजन होता है। व्रती डूबते सूर्य को अर्घ्य अर्पित कर परिवार की समृद्धि की कामना करते हैं। इस दिन व्रती डूबते सूर्य को अर्घ्य अर्पित कर परिवार की सुख-समृद्धि की कामना करते हैं। इस खास मौके पर अपनों को इन संदेशों से शुभकामनाएं दें। डूबते सूर्य को अर्घ्य देने का यह पर्व है निराला, इन संदेशों से दें अपनों को संध्या अर्घ्य की।
-
-### [स्मार्टफोन का अगला विकल्प स्मार्ट ग्लास? कैसे बदल सकता है तकनीक को इस्तेमाल करने का तरीका?](https://www.amarujala.com/india-news/smart-glasses-vs-smartphones-can-ai-powered-smart-glasses-replace-smartphones-in-the-future-2026-11-14)
-*Amar Ujala National* - Nov 15, 06:42 IST (iso: 2026-11-15T01:12:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/smart-glass_4f3635dbf4d77ecddd048a284c9277bf.jpeg?w=1200&dpr=1.0 -->
-
-टेक कंपनियां स्मार्टफोन के बाद स्मार्ट ग्लास को अगला बड़ा डिजिटल प्लेटफॉर्म बनाने की तैयारी कर रही हैं। एआई और अगमेंटेड रियलिटी वाले ये चश्मे भविष्य में स्मार्टफोन की जगह ले सकते हैं। स्मार्टफोन के बाद अब टेक कंपनियां स्मार्ट या वीआर ग्लास को अगला बड़ा डिजिटल प्लेटफॉर्म बनाने की तैयारी में हैं। एआई और अगमेंटेड रियालिटी वाले ये चश्मे क्या भविष्य में स्मार्टफोन की जगह ले पाएंगे?
-
-### [छठ पूजा पर राज ठाकरे के बयान गरमाई यूपी-बिहार राजनीति,भड़के नेताओं ने खूब सुनाया!](https://www.amarujala.com/video/india-news/raj-thackeray-s-remarks-on-chhath-puja-have-heated-up-politics-in-up-and-bihar-incensed-leaders-have-lashed-o-2026-11-15)
-*Amar Ujala National* - Nov 15, 06:30 IST (iso: 2026-11-15T01:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/chhath-pooja-2026_35e5d82ed5ced586318d27172a79313c.jpeg?w=1200&dpr=1.0 -->
-
-राज ठाकरे के छठ पूजा पर बयान ने उत्तर प्रदेश और बिहार की राजनीति में तनाव बढ़ा दिया। क्षेत्रीय नेताओं ने इस पर तीव्र प्रतिक्रिया व्यक्त की और आपसी आरोपों का आदान-प्रदान किया। छठ पूजा पर राज ठाकरे के बयान गरमाई यूपी-बिहार राजनीति, भड़के नेताओं ने खूब सुनाया!
-
-### [Weather Forecast 15 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-15-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-15)
-*Amar Ujala National* - Nov 15, 06:00 IST (iso: 2026-11-15T00:30:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/weather-forecast_ade25fc830ab45893ba5b1efe35383b2.jpeg?w=1200&dpr=1.0 -->
-
-स्रोत में 15 नवंबर 2026 के लिए मौसम का विस्तृत पूर्वानुमान उपलब्ध नहीं है। मौजूदा जानकारी केवल शीर्षक तक सीमित है और कोई ठोस तथ्य या संख्या नहीं दी गई है।
-
-### [नेहरू को देखने का एक विदेशी नजरिया: वाल्टर क्रॉकर की किताब में विचारोत्तेजक टिप्पणियां, अब्राहम](https://www.amarujala.com/columns/opinion/foreign-perspective-on-nehru-walter-crocker-book-thought-provoking-observations-abraham-lincoln-comparison-2026-11-15)
-*Amar Ujala National* - Nov 15, 05:28 IST (iso: 2026-11-14T23:58:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/27/padata-javaharall-nahanpr-ka-panaeyatatha_c80fad4b08e7bd177437044e3d0428d4.jpeg?w=1200&dpr=1.0 -->
-
-वाल्टर क्रॉकर की किताब नेहरू पर विदेशी नजरिया प्रस्तुत करती है। लेखक नेहरू को अब्राहम लिंकन से तुलना करते हैं। इसमें नेतृत्व और दृष्टि पर विचारोत्तेजक टिप्पणियां शामिल हैं। नेहरू को देखने का एक विदेशी नजरिया: वाल्टर क्रॉकर की किताब में विचारोत्तेजक टिप्पणियां, अब्राहम लिंकन से तुलना।
-
-### [अंतरिक्ष से लौटकर सीधे लॉन्च पैड की बांहों में समाया स्टारशिप, क्या सच हुआ मस्क का सपना?](https://www.amarujala.com/world/spacex-starship-orbital-catch-artemis-mission-elon-musk-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 05:28 IST (iso: 2026-11-14T23:58:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/jarada-aaijakamana-nasa-edamanasataratara_34ee782e3b39966325da7c29afdf121a.jpeg?w=1200&dpr=1.0 -->
-
-स्पेसएक्स का स्टारशिप अंतरिक्ष से लौटकर सीधे लॉन्च पैड पर उतरा। यह पहली बार हुआ जब वाहन को हवा में पकड़ा गया। इस सफलता से एलोन मस्क का सपना सच हुआ। स्पेसएक्स का कमाल: अंतरिक्ष से लौटकर सीधे लॉन्च पैड की बांहों में समाया स्टारशिप, क्या सच हुआ मस्क का सपना?
-
-### [अंधक का कंस को मुंहतोड़ जवाब, पद और शक्ति के अहंकार में मदांध कंस को किसने-कैसे दिखाया आईना?](https://www.amarujala.com/columns/opinion/indian-mythology-andhaka-to-king-kansa-blinded-by-arrogance-of-his-position-and-power-yaduvanhi-shows-mirror-2026-11-15)
-*Amar Ujala National* - Nov 15, 05:19 IST (iso: 2026-11-14T23:49:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/sanskriti-janana-jaruri-hai-kans-andhak-story_d26528e2efd3037b84bc126e10b6b175.jpeg?w=1200&dpr=1.0 -->
-
-महाभारत में अंधक ने कंस को पद और शक्ति के अहंकार पर जवाब दिया। कंस को अपनी मदांधता का आईना दिखाया गया। यह घटना शक्ति के दुरुपयोग के खिलाफ संदेश देती है। जानना जरूरी है: अंधक का कंस को मुंहतोड़ जवाब, पद और शक्ति के अहंकार में मदांध कंस को किसने-कैसे दिखाया आईना?
-
-### [तीन साल में इंसानों से ज्यादा बुद्धिमान हो सकता है एआई: नोबेल विजेता हिंटन की चेतावनी; फिर कौन](https://www.amarujala.com/world/nobel-laureate-geoffrey-hinton-warns-ai-could-surpass-human-intelligence-within-three-years-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 04:37 IST (iso: 2026-11-14T23:07:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/05/isana-saca-sa-para-eaaii-vajanianaka-paragata_a8002237329db44b9d18270c12be7b5b.jpeg?w=1200&dpr=1.0 -->
-
-नोबेल विजेता जेफ्री हंटन का अनुमान है कि एआई तीन वर्षों में मानव बुद्धिमत्ता से आगे निकल जाएगा। उन्होंने चेतावनी दी है कि इस प्रक्रिया को रोकने के लिए कोई प्रभावी तंत्र मौजूद नहीं है। तीन साल में इंसानों से ज्यादा बुद्धिमान हो सकता है एआई: नोबेल विजेता हिंटन की चेतावनी; फिर कौन रोकेगा इसे?
-
-### [19 साल के छात्र ने चुनाव में दिग्गज को हराया: बने 600 कर्मचारियों के बॉस; संभालेंगे 540 करोड़ का बजट](https://www.amarujala.com/education/success-stories/19-year-old-college-student-wins-election-to-lead-600-employees-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 04:20 IST (iso: 2026-11-14T22:50:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/05/sagharashha-jatana-bugdha-safalta-utana-shanathara_6474c37cb656dc352f45e62f757d27cf.png?w=1200&dpr=1.0 -->
-
-एक 19 वर्षीय छात्र ने चुनाव में अनुभवी प्रतिद्वंद्वी को हराया। अब वह 600 कर्मचारियों के प्रमुख बने हैं। उन्हें 540 करोड़ रुपये के बजट का प्रबंधन संभालना होगा। 19 साल के छात्र ने चुनाव में दिग्गज को हराया: बने 600 कर्मचारियों के बॉस; संभालेंगे 540 करोड़ का बजट।
-
-### [कॉप-31 में जीवाश्म ईंधन पर टकराव: ग्लोबल वार्मिंग पर चर्चा पड़ी धीमी; 1.5 डिग्री का लक्ष्य कितना](https://www.amarujala.com/world/fossil-fuel-disagreements-deepen-at-cop31-as-climate-talks-face-delays-2026-11-15)
-*Amar Ujala World* - Nov 15, 04:15 IST (iso: 2026-11-14T22:45:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/15/jalvaya-paravaratana_1fc178bd0006f131d07b97e93752c580.jpeg?w=1200&dpr=1.0 -->
-
-कॉप-31 सम्मेलन में जीवाश्म ईंधन के उपयोग को लेकर देशों के बीच मतभेद रहे। इससे वैश्विक तापन पर चर्चा धीमी पड़ गई। 1.5 डिग्री सेल्सियस के लक्ष्य को प्राप्त करना अब कठिन हो गया है। कॉप-31 में जीवाश्म ईंधन पर टकराव: ग्लोबल वार्मिंग पर चर्चा पड़ी धीमी; 1.5 डिग्री का लक्ष्य कितना दूर?
-
-### [आईफोन-मोटरसाइकिल के लिए नाबालिग ने रची साजिश: दोस्तों संग की नाना की हत्या; इंस्टाग्राम चैट से खुली](https://www.amarujala.com/india-news/kerala-teenager-allegedly-plots-grandfather-s-murder-with-friends-to-buy-an-iphone-and-motorcycle-2026-11-15)
-*Amar Ujala National* - Nov 15, 04:10 IST (iso: 2026-11-14T22:40:51+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/09/rayasana-jal-ma-shaka-ka-calta-yavaka-ka-hataya_f00e1ec9c4ebed7fe61a6ff51015ac41.jpeg?w=1200&dpr=1.0 -->
-
-केरल में एक किशोर ने दोस्तों के साथ नाना की हत्या की साजिश रची। लक्ष्य था आईफोन और मोटरसाइकिल खरीदना। इंस्टाग्राम चैट से पूरा मामला सामने आया। आईफोन-मोटरसाइकिल के लिए नाबालिग ने रची साजिश: दोस्तों संग की नाना की हत्या; इंस्टाग्राम चैट से खुली।
-
-### [इंस्टाग्राम की लत से परेशान एडिसन ने लिया ब्रेक: एक महीने में बदली दिनचर्या; कैसे लौटीं पुरानी](https://www.amarujala.com/world/how-a-14-year-old-girl-changed-her-routine-by-quitting-instagram-for-a-month-2026-11-15)
-*Amar Ujala World* - Nov 15, 04:05 IST (iso: 2026-11-14T22:35:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/08/12/meditate_69b1e5f883381de62322d1f0e81e0c9d.jpeg?w=1200&dpr=1.0 -->
-
-एडिसन ने इंस्टाग्राम की लत से छुटकारा पाने के लिए एक महीने का ब्रेक लिया। इस दौरान उसकी दिनचर्या पूरी तरह बदल गई। पुरानी रुचियां वापस लौट आईं। इंस्टाग्राम की लत से परेशान एडिसन ने लिया ब्रेक: एक महीने में बदली दिनचर्या; कैसे लौटीं पुरानी रुचियां?
-
-### [ओवैसी ने सपा-कांग्रेस समेत भाजपा को खूब सुनाया,बताया अपना प्लान!](https://www.amarujala.com/video/india-news/owaisi-lashed-out-at-the-sp-congress-and-the-bjp-and-unveiled-his-own-plan-2026-11-15)
-*Amar Ujala National* - Nov 15, 03:30 IST (iso: 2026-11-14T22:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/up-assembly-elections-election-2027_2a01bab937e7459aad85f11082cc9ab6.jpeg?w=1200&dpr=1.0 -->
-
-असदुद्दीन ओवैसी ने भाजपा, सपा और कांग्रेस को तीनों को जवाब दिया। उन्होंने अपनी आगामी राजनीतिक रणनीति भी साझा की। ओवैसी ने सपा-कांग्रेस समेत भाजपा को खूब सुनाया, बताया अपना प्लान!
-
-### [साइबर सुरक्षा से दांतों की बीमारी की पहचान तक में एआई के प्रयोगों की झलक, व्यापार मेले में दिखी](https://www.amarujala.com/delhi-ncr/a-glimpse-into-the-applications-of-ai-from-cybersecurity-to-the-diagnosis-of-dental-diseases-2026-11-15)
-*Amar Ujala National* - Nov 15, 03:18 IST (iso: 2026-11-14T21:48:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/31/mashana-eaaii-human-with-machine-ai_46f6cd10174cdfb5fb2502a63ed042e5.jpeg?w=1200&dpr=1.0 -->
-
-व्यापार मेले में एआई के विभिन्न उपयोगों का प्रदर्शन किया गया। साइबर सुरक्षा से लेकर दांतों की बीमारी की पहचान तक। ऑनलाइन कारोबार प्रबंधन में भी एआई की भूमिका दिखी। साइबर धोखाधड़ी पर लगाम लगाने से लेकर दांतों की बीमारियों की पहचान और ऑनलाइन कारोबार के प्रबंधन तक, आर्टिफिशियल इंटेलिजेंस (एआई) का दायरा तेजी से बढ़ रहा है। साइबर सुरक्षा से दांतों की बीमारी की पहचान तक में एआई के प्रयोगों की झलक, व्यापार मेले में दिखी।
+**अपडेट:** November 15, 2026 14:02 IST
 
 ---
 
 ## एशिया-प्रशांत
 
-### [बिरसा मुंडा की जयंती कार्यक्रम को संबोधित करेंगे पीएम मोदी; भारत-न्यूजीलैंड के बीच पांचवां वनडे](https://www.amarujala.com/india-news/15-november-2026-major-event-2026-2026-11-14)
-*Amar Ujala National* - Nov 15, 06:40 IST (iso: 2026-11-15T01:10:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/aaja-ka-thana_1bccbaddd494729a426889fcff1fd916.gif?w=1200&dpr=1.0 -->
+### [जिसने सिंधु जल संधि पर दी भारत को 'हाथ काटने' की धमकी, वही आ रहा दिल्ली, समझिए पाकिस्तान की नई चाल](https://hindi.news18.com/news/nation/pakistan-minister-musadik-malik-who-threatened-india-to-visit-delhi-for-sco-meet-amid-indus-waters-dispute-10988268.html)
+*News18 Hindi (World)* - Nov 15, 13:51 IST (iso: 2026-11-15T08:21:53+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Musadik-Malik-Pakistan-2026-11-222f665cedaa0b7a028b4c1bac279a97-1200x800.jpg -->
 
-प्रधानमंत्री मोदी बिरसा मुंडा की जयंती कार्यक्रम को संबोधित करेंगे। इसी दिन भारत और न्यूजीलैंड के बीच पांचवां वनडे मैच खेला जाएगा। 15 November 2026 Major event 2026- आज के दिन: बिरसा मुंडा की जयंती कार्यक्रम को संबोधित करेंगे पीएम मोदी; भारत-न्यूजीलैंड के बीच पांचवां वनडे।
+पाकिस्तान ने जलवायु मंत्री मुसादिक मलिक को 20 नवंबर की SCO समिट के लिए दिल्ली भेजने का फैसला किया है। यह तीन साल बाद किसी पाकिस्तानी मंत्री का भारत आना होगा। मलिक ने पहले सिंधु जल संधि पर भारत को धमकी दी थी। Pakistan News: पाकिस्तान ने अपने जलवायु परिवर्तन मंत्री मुसादिक मलिक को 20 नवंबर से दिल्ली में होने वाले SCO समिट के सभ्यतागत और सांस्कृतिक संवाद में देश का प्रतिनिधित्व करने के लिए नामित किया है.
 
-### [कैंसर के इलाज के बाद केट मिडलटन का पहला सफर, भारत में आयोजित समारोह में होंगी शामिल](https://www.amarujala.com/world/britain-royals-kate-middleton-india-visit-after-cancer-treatment-prince-william-mumbai-earthshot-prize-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 06:35 IST (iso: 2026-11-15T01:05:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/11/prince-william-kate-middleton_c9eaae17167ffe51f4e212f0a67962a3.jpeg?w=1200&dpr=1.0 -->
+### [आतंकी पन्नू मर्डर प्लॉट में ट्विस्ट, निखिल गुप्ता ने जज को खत लिख मांगी माफी, कहा- काश गलतियां](https://hindi.news18.com/world/america-nikhil-gupta-apologises-to-us-judge-in-khalistani-separatist-gurpatwant-singh-pannun-murder-plot-case-10988266.html)
+*News18 Hindi (World)* - Nov 15, 13:19 IST (iso: 2026-11-15T07:49:47+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Gurpatwant-Singh-Pannun-2026-08-144888062140a04bda8f0194084a34dc-1200x800.jpg -->
 
-कैंसर के इलाज के बाद केट मिडलटन का पहला विदेश यात्रा भारत में होगा। वह यहां आयोजित होने वाले एक विशेष समारोह में शामिल होंगी। सबसे बड़ी विदेश यात्रा: कैंसर के इलाज के बाद केट मिडलटन का पहला सफर, भारत में आयोजित समारोह में होंगी शामिल।
+गुरपतवंत सिंह पन्नू हत्या साजिश के आरोपी निखिल गुप्ता ने अमेरिकी न्यायाधीश को पत्र लिखकर माफी मांगी है। उन्होंने 2023 में बिगड़े मानसिक संतुलन का हवाला दिया। गुप्ता ने अपनी गलतियों पर पछतावा जताया है। Nikhil Gupta News: खालिस्तानी आतंकी गुरपतवंत सिंह पन्नू की हत्या की कथित साजिश के मामले में भारतीय नागरिक निखिल गुप्ता ने अमेरिकी जिला न्यायाधीश को पत्र लिखकर माफी मांगी है.
 
-### [पाकिस्तानी फौज पर टूट पड़ी BLA, मेजर को उतारा मौत के घाट, इस बार ड्रोन से मचाई तबाही](https://hindi.news18.com/world/pakistan-pakistan-army-major-killed-in-bla-drone-dtrike-8-rebels-killed-during-balochistan-operations-ws-l-10987478.html)
-*News18 Hindi (World)* - Nov 15, 06:28 IST (iso: 2026-11-15T00:58:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/balochistan-3-2026-10-cb6f664c5d05a109a49f170c9c1299a8-1200x800.jpg -->
+### [आर्यवीर सहवाग ने फाइनल में दोहराया कोहली का अंदाज, बेटे की पारी देख भावुक हुए वीरेंद्र-आरती](https://www.amarujala.com/cricket/aaryavir-sehwag-recreate-virat-kohli-iconic-celebration-in-u19-asia-cup-final-father-virender-emotional-post-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 12:16 IST (iso: 2026-11-15T06:46:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/aaryavir-sehwag-virender-sehwag-aarti-sehwag-virat-kohli-india-u19-vs-pakistan-u19-u19-asia-cup_c418eaaf7b441c4d4c6953a05b581c58.jpeg?w=1200&dpr=1.0 -->
 
-बलूचिस्तान में बलूच लिबरेशन आर्मी ने ड्रोन हमले से पाकिस्तानी सेना के एक मेजर और हवलदार को मार गिराया। पाकिस्तान की प्रतिक्रिया में आठ विद्रोहियों की मौत हो गई। Pakistan Army Major Killed: पाकिस्तान में अंदरूनी हालात ऐसे चल रहे हैं कि बलूचिस्तान के विद्रोहियों के हाथ ड्रोन भी लग चुके हैं और उन्होंने अब इसी का इस्तेमाल करके पाकिस्तानी फौज के एक मेजर और हवलदार को मौत के घाट उतार दिया है.
+आर्यवीर सहवाग ने पाकिस्तान के खिलाफ अंडर-19 एशिया कप फाइनल में चोट के बावजूद 58 रन बनाए। अर्धशतक के बाद उन्होंने विराट कोहली के अंदाज में जश्न मनाया। उनके माता-पिता इस पारी देखकर भावुक हो गए। पाकिस्तान के खिलाफ अंडर-19 एशिया कप फाइनल में आर्यवीर सहवाग ने चोट के बावजूद 58 रन की जुझारू पारी खेली। आर्यवीर सहवाग ने फाइनल में दोहराया कोहली का अंदाज, बेटे की पारी देख भावुक हुए वीरेंद्र-आरती।
 
-### [दिल्ली की आईडी वालों को ही इस घाट पर जगह, नहर किनारे अपनी व्यवस्था में जुटे हजारों पूर्वांचली](https://www.amarujala.com/delhi-ncr/mahaparva-chhath-only-those-with-delhi-id-will-be-allowed-a-place-on-this-ghat-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 05:44 IST (iso: 2026-11-15T00:14:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/1_b9058fa82126eed2fcfe7e1c4046ade6.jpeg?w=1200&dpr=1.0 -->
+### [पूर्व सीईओ जेन्सन हुआंग की चीनी महिला एलिस के साथ तस्वीरें वायरल, बेटी के सामने गले लगाते दिखे](https://www.amarujala.com/world/nvedia-former-ceo-jensen-huang-embrace-alice-huang-in-front-of-daughter-photos-viral-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 12:14 IST (iso: 2026-11-15T06:44:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/parava-saiio-janasana-haaaga-oura-elsa-haaaga_be640955b5e1412f5393a60c2a0775a9.jpeg?w=1200&dpr=1.0 -->
 
-न्यू अशोक नगर में छठ पूजा की तैयारियां अंतिम चरण में हैं। आईडीधारकों को ही घाट पर जगह मिल रही है। पूर्वांचल के हजारों श्रद्धालु नहर किनारे अपनी व्यवस्था में जुटे हैं। आस्था के महापर्व छठ पूजा को लेकर न्यू अशोक नगर में तैयारियां अंतिम चरण में हैं लेकिन इस बार पूजा की व्यवस्था को लेकर इलाके में दो तरह की तस्वीर देखने को मिल रही है।
+Nvidia के पूर्व सीईओ जेन्सेन हुआंग की चीनी महिला एलिस के साथ तस्वीरें सोशल मीडिया पर वायरल हो गईं। तस्वीरों में वे अपनी बेटी के सामने एलिस को गले लगाते दिखे हैं। यह घटना उनकी निजी जिंदगी पर सवाल खड़े करती है। एनवीडिया: पूर्व सीईओ जेन्सन हुआंग की चीनी जासूस एलिस के साथ तस्वीरें वायरल, बेटी के सामने गले लगाते दिखे।
 
-### [आज कई जगह बारिश के आसार; छठ महापर्व पर सूर्य को संध्या अर्घ्य; दिल्ली में प्रदूषण न रोकने पर सख्ती](https://www.amarujala.com/india-news/top-news-delhi-pollution-chhath-puja-evening-arghya-snowfall-in-mountains-2026-11-15)
-*Amar Ujala Breaking* - Nov 15, 04:58 IST (iso: 2026-11-14T23:28:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/01/aaja-ka-ahama-khabra_4c5a3d24226dd82c810080f6c01c261c.jpeg?w=1200&dpr=1.0 -->
+### [देश ही नहीं विदेश में भी छाई छठ की अद्भुत छटा, अमेरिका-कनाडा में भी महापर्व मनाने जुटे श्रद्धालु](https://hindi.news18.com/world/rest-of-world-chhath-mahaparv-celebrated-in-abroad-nations-united-states-canada-chhath-celebrations-ws-l-10988004.html)
+*News18 Hindi (World)* - Nov 15, 11:41 IST (iso: 2026-11-15T06:11:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/chhath-us-2026-11-07743782fbde409e990e6ab9ff453be5-1200x800.jpg -->
 
-दिल्ली में प्रदूषण नियंत्रण के लिए सख्त कदम उठाए जाएंगे। कई जगह बारिश के आसार हैं। छठ महापर्व पर सूर्य को संध्या अर्घ्य दिया जाएगा। सुर्खियां: आज कई जगह बारिश के आसार; छठ महापर्व पर सूर्य को संध्या अर्घ्य; दिल्ली में प्रदूषण न रोकने पर सख्ती।
+अमेरिका और कनाडा में बसे भारतीय समुदाय ने छठ महापर्व मनाया। गांव लौट न पाए श्रद्धालुओं ने स्थानीय स्तर पर पूजा अर्चना की। त्योहार ने विदेश में रहने वाले भारतीयों के बीच सांस्कृतिक बंधन को मजबूत किया। Chatth Mahaparv in US-Canada: अपने घर से दूर भी अगर आप रहें पर अपनी जड़ें नहीं भूलते. तभी तो विदेशों में रहने वाले जो लोग अपने गांव लौट नहीं पाए हैं, उन्होंने वही पर अपनी आस्था के मुताबिक छठ का त्यौहार मना लिया.
 
-### [दिल्ली का इतिहास और यूपी का स्वाद: व्यापार मेले में दोनों राज्यों का खास अंदाज, लुभा रहा है विकास](https://www.amarujala.com/delhi-ncr/delhi-s-history-and-up-s-flavors-both-states-showcase-their-unique-flair-at-the-trade-fair-2026-11-15)
-*Amar Ujala National* - Nov 15, 03:23 IST (iso: 2026-11-14T21:53:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/11/22/trade-fair-delhi_a3883195f7a86be6d1f2fa472406d15a.jpeg?w=1200&dpr=1.0 -->
+### [सिडनी के पास दो सड़क हादसों से दहला NSW, 4 मौतें, 3 अस्पताल में भर्ती](https://www.patrika.com/world-news/australia-new-south-wales-car-accidents-4-dead-3-injured-21052783)
+*Patrika (World)* - Nov 15, 11:40 IST (iso: 2026-11-15T06:10:43+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/NSW-accident.webp -->
 
-दिल्ली के ऐतिहासिक विरासत और उत्तर प्रदेश के पारंपरिक स्वाद का प्रदर्शन व्यापार मेले में हुआ। दोनों राज्यों के स्थानीय हुनर और कारीगरी ने विजिटर्स को लुभाया। दिल्ली की ऐतिहासिक विरासत, पुरानी बाजारों की रौनक और आधुनिक विकास की झलक, तो उत्तर प्रदेश का पारंपरिक स्वाद, बेमिसाल कारीगरी और स्थानीय हुनर दिल्ली का इतिहास और यूपी का स्वाद: व्यापार मेले में दोनों राज्यों का खास अंदाज, लुभा रहा है विकास।
+ऑस्ट्रेलिया के न्यू साउथ वेल्स में शनिवार रात दो अलग-अलग सड़क हादसे हुए। इन दुर्घटनाओं में चार लोगों की मौत हो गई। तीन अन्य गंभीर रूप से घायल होकर अस्पताल में भर्ती किए गए हैं। Australia road accident: ऑस्ट्रेलिया के पूर्वी राज्य न्यू साउथ वेल्स (NSW) में शनिवार की रात काल बन गई जब दो अलग-अलग सड़क हादसों में 4 लोगों की मौत हो गई है।
+
+### [15-16 नवंबर को सांध्य और उषा अर्घ्य? जानें पटना, दिल्ली, लखनऊ समेत शहरों में अर्घ्य का समय](https://www.amarujala.com/photo-gallery/spirituality/festivals/chhath-puja-2026-sandhya-usha-arghya-time-city-wise-delhi-patna-lucknow-2026-11-13)
+*Amar Ujala Breaking* - Nov 15, 11:38 IST (iso: 2026-11-15T06:08:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/chhath-puja-2026_bbb2f38d5ce9c1172fcd7ed6693a5b45.jpeg?w=1200&dpr=1.0 -->
+
+छठ पूजा 2026 में संध्या अर्घ्य 15 नवंबर को दिया जाएगा। उषा अर्घ्य 16 नवंबर को किया जाएगा। पटना, दिल्ली और लखनऊ समेत प्रमुख शहरों में अर्घ्य का समय पंचांग के अनुसार तय किया गया है। छठ पूजा 2026 में संध्या अर्घ्य 15 नवंबर और उषा अर्घ्य 16 नवंबर को दिया जाएगा। द्रिक पंचांग के अनुसार जानें पटना, दिल्ली, लखनऊ समेत प्रमुख शहरों में अर्घ्य देने का सही समय और सूर्य पूजा का महत्व।
+
+### [मृत्युदंड पर रोक लगाने की मांग से भारत ने बनाई दूरी, यूएन में प्रस्ताव के खिलाफ किया मतदान](https://www.amarujala.com/world/india-votes-against-un-general-assembly-resolution-moratorium-death-penalty-2026-11-15)
+*Amar Ujala World* - Nov 15, 11:32 IST (iso: 2026-11-15T06:02:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/27/yaena_248ff7f0d0b19fd4630bcb7bc3889264.jpeg?w=1200&dpr=1.0 -->
+
+संयुक्त राष्ट्र महासभा में मृत्युदंड पर रोक लगाने के प्रस्ताव के खिलाफ भारत ने मतदान किया। सरकार ने इस प्रस्ताव से दूरी बनाई। भारत ने मौजूदा संदर्भों में मृत्युदंड को बनाए रखने का फैसला किया है। मृत्युदंड पर रोक लगाने की मांग से भारत ने बनाई दूरी, यूएन में प्रस्ताव के खिलाफ किया मतदान।
+
+### ['भारत को आत्मरक्षा का पूरा अधिकार, वो ग्लोबल सहयोगी' अमेरिका से आया ऐसा बयान, जलकर खाक हो जाएगा पाक](https://hindi.news18.com/world/pakistan-us-secretory-of-states-blinken-louds-india-us-ties-as-global-calls-pakistan-relationship-regional-backs-indian-right-of-defence-ws-l-10987656.html)
+*News18 Hindi (World)* - Nov 15, 09:44 IST (iso: 2026-11-15T04:14:08+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/ANTONY-BLINKEN-2026-11-b81983c06fa24053098803e84cfc96ee-1200x800.jpg -->
+
+अमेरिका के पूर्व विदेश मंत्री एंटनी ब्लिंकन ने भारत की आत्मरक्षा का समर्थन किया। उन्होंने भारत को वैश्विक सहयोगी बताया। यह बयान पाकिस्तान के लिए चिंता का विषय है। India-US Ties Global: अमेरिका के पूर्व विदेश मंत्री और डेमोक्रेटिक पार्टी के नेता एंटनी ब्लिंकन ने भारत के साथ रिश्तों को लेकर कुछ ऐसा कहा है, जिसे सुनकर पाकिस्तान सदमे में आ जाएगा.
+
+### ['दिल से भी ज्यादा जरूरी क्या?': मजाक-मजाक में मर्यादा भूले ऑस्ट्रेलियाई पीएम, मंत्री को दिया](https://www.amarujala.com/world/anthony-albanese-and-chris-bowen-hot-mic-moment-phone-radiation-cop31-t-rkiye-viral-recording-2026-11-15)
+*Amar Ujala World* - Nov 15, 09:17 IST (iso: 2026-11-15T03:47:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/ethana-albnaja-parathhanamatara-oisataralya_4bd0e7ad637dfb35cb443387c7436b01.jpeg?w=1200&dpr=1.0 -->
+
+ऑस्ट्रेलिया के प्रधानमंत्री एंथोनी अलबानेस और मंत्री क्रिस बोएन का वीडियो वायरल हुआ। फोन विकिरण पर मजाकिया बहस हुई। COP31 और तुर्की पर भी चर्चा हुई। 'दिल से भी ज्यादा जरूरी क्या?': मजाक-मजाक में मर्यादा भूले ऑस्ट्रेलियाई पीएम, मंत्री को दिया।
+
+---
+
+## दुनिया
+
+### [जिसका डर था वही होगा, 3 साल में उलट-पुलट जाएगी दुनिया, साइंटिस्ट का दावा- मालिकों पर राज करेंगी](https://hindi.news18.com/world/rest-of-world-godfather-of-artificial-intelligence-warns-technology-could-wipe-out-humanity-in-matter-of-three-years-ws-l-10988180.html)
+*News18 Hindi (World)* - Nov 15, 13:44 IST (iso: 2026-11-15T08:14:34+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/ai-inews-2026-11-b18f66c30ebe7136174aac9183c2f015-1200x800.jpg -->
+
+नोबेल पुरस्कार विजेता वैज्ञानिक का दावा है कि आर्टिफिशियल इंटेलिजेंस भविष्य में इंसान का दुश्मन बन सकती है। उन्होंने चेतावनी दी है कि मशीनें जल्द ही अपने निर्माताओं पर हावी हो जाएंगी। यह तकनीकी विकास का एक गंभीर जोखिम है। AI Warns Technology could be Enemy: हम जिस दुनिया में रहते हैं, यहां अपनी सुविधाओं के लिए हमने बहुत सी मशीनें बनाई हैं.
+
+### [25 लाख युवाओं को दिए जाएंगे टैबलेट: सीएम योगी ने शुरू किया महाअभियान, बोले- आप सबमें बजरंग बली की](https://www.amarujala.com/lucknow/cm-yogi-launches-massive-tablet-distribution-campaign-2-5-million-will-be-given-to-youth-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 12:23 IST (iso: 2026-11-15T06:53:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/yogi-adityanath_f224822b9fdda8b017b6ea7570f5c970.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश सरकार ने 25 लाख युवाओं को टैबलेट वितरित करने का अभियान शुरू किया। मुख्यमंत्री योगी ने इसे डिजिटल सशक्तिकरण का कदम बताया। यह पहल 2027 विधानसभा चुनाव से पहले की गई है। यूपी विधानसभा चुनाव 2027 से पहले युवाओं को डिजिटल रूप से सशक्त बनाने की दिशा में प्रदेश सरकार ने एक और बड़ा कदम उठाया है। 25 लाख युवाओं को दिए जाएंगे टैबलेट: सीएम योगी ने शुरू किया महाअभियान, बोले- आप सबमें बजरंग बली की।
+
+### [राजा भैया बोले- यूजीसी लागू नहीं होगी, हमने कह दिया तो कह दिया](https://www.amarujala.com/uttar-pradesh/allahabad/raja-bhaiya-says-ugc-will-not-be-implemented-what-we-have-said-we-have-said-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 12:22 IST (iso: 2026-11-15T06:52:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/ragharaja-paratapa-saha-urafa-rajabhaya-athhayakashha-janasatata-thal_c48304f1e9ef310d9889e927510175eb.jpeg?w=1200&dpr=1.0 -->
+
+जनसत्ता दल लोकतांत्रिक के अध्यक्ष राजा भैया ने यूजीसी के नए नियमों का विरोध किया। उन्होंने कहा कि ये नियम लागू नहीं होंगे। उन्होंने अपना रुख अटूट रखते हुए स्पष्ट शब्दों में विरोध दर्ज कराया। जनसत्ता दल लोकतांत्रिक के राष्ट्रीय अध्यक्ष और कुंडा विधायक रघुराज प्रताप सिंह उर्फ राजा भैया ने यूजीसी के नए नियमों को लेकर स्पष्ट रुख अपनाया है।
+
+### [जेनसन ने एलिस से रिश्तों को लेकर शीर्ष अधिकारियों को किया था गुमराह? रिपोर्ट्स में कई खुलासे](https://www.amarujala.com/world/former-nvidia-ceo-jensen-huang-misled-top-executives-over-affair-2026-11-15)
+*Amar Ujala World* - Nov 15, 12:19 IST (iso: 2026-11-15T06:49:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/07/15/nvidias-ceo-jensen-huang_51d6030a8adc63894141e40927068a3f.jpeg?w=1200&dpr=1.0 -->
+
+रिपोर्ट्स के मुताबिक एनवीडिया के सीईओ जेनसन ह्वानग ने अपने निजी रिश्तों को लेकर शीर्ष अधिकारियों को गुमराह किया। इस मामले में कई खुलासे सामने आए हैं। कंपनी के अंदरूनी संचालन पर इसका असर पड़ रहा है। एनवीडिया: जेनसन ने एलिस से रिश्तों को लेकर शीर्ष अधिकारियों को किया था गुमराह? रिपोर्ट्स में कई खुलासे।
+
+### [‘उम्मीद करता हूं तुम मर जाओ’, Nvidia की मीटिंग में कर्मचारियों पर भड़कते थे जेन्सेन हुआंग, अधिकारी](https://www.patrika.com/world-news/jensen-huang-nvidia-board-meeting-anger-outburst-report-21052845)
+*Patrika (World)* - Nov 15, 12:18 IST (iso: 2026-11-15T06:48:11+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-8.webp -->
+
+Nvidia के पूर्व सीईओ जेन्सेन हुआंग के बारे में दावा है कि वे बैठकों में वरिष्ठ अधिकारियों को अपमानित करते थे। एक रिपोर्ट के अनुसार, उन्होंने एक अधिकारी को मरने की उम्मीद जताई। यह उनकी सार्वजनिक छवि से भिन्न है। Jensen Huang: दुनिया की दिग्गज टेक कंपनियों में शामिल Nvidia के पूर्व CEO जेन्सेन हुआंग को लेकर कंपनी के अंदर उनकी कार्यशैली को लेकर कुछ ऐसे दावे सामने आए हैं, जो उनकी सार्वजनिक छवि से बिल्कुल अलग हैं।
+
+### [नूंह में पुलिस और गो-तस्करों के बीच मुठभेड़, गोली लगने से दो की मौत; पुलिसकर्मी समेत दो घायल](https://www.amarujala.com/delhi-ncr/nuh/encounter-between-police-and-cow-smugglers-in-nuh-haryana-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 12:01 IST (iso: 2026-11-15T06:31:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/17/police-demo_dab530f5d55178ba8f245f629ef882af.jpeg?w=1200&dpr=1.0 -->
+
+नूंह जिले में रविवार सुबह पुलिस और गो-तस्करों के बीच मुठभेड़ हुई। इसमें दो लोगों की गोली लगने से मौत हो गई। दो अन्य घायल हुए, जिनमें एक पुलिसकर्मी भी शामिल है। यह घटना गो-तस्करी के खिलाफ कार्रवाई के दौरान हुई। नूंह जिले में रविवार सुबह गो-तस्करी के खिलाफ कार्रवाई के दौरान पुलिस और कथित गो-तस्करों के बीच मुठभेड़ हो गई।
+
+### ['पिछली सरकारों ने न आदिवासियों को समझा और न ही उनकी परवाह की', जनजातीय दिवस पर बोले प्रधानमंत्री](https://www.amarujala.com/india-news/maharashtra-pm-modi-inaugurate-thousand-crore-development-works-in-garhchiroli-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 11:28 IST (iso: 2026-11-15T05:58:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/pm-modi_1dc383b010a5e173bfeb9aa74c02a64c.jpeg?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री मोदी ने गढ़चिरौली में 173 परियोजनाओं का उद्घाटन किया। कुल 3000 करोड़ रुपये की लागत वाली ये योजनाएं जनजातीय क्षेत्रों के लिए हैं। उन्होंने पिछली सरकारों पर आदिवासियों की उपेक्षा का आरोप लगाया। महाराष्ट्र: पीएम मोदी ने गढ़चिरौली को दी 3000 करोड़ की सौगात, 173 परियोजनाओं का किया उद्घाटन। 'पिछली सरकारों ने न आदिवासियों को समझा और न ही उनकी परवाह की', जनजातीय दिवस पर बोले प्रधानमंत्री।
+
+---
+
+## यूरोप और रूस
+
+### [पेट दर्द और सूजन! शरीर में पनप रहा कैंसर, लेकिन पता नहीं... अब खून की जांच खोलेगी राज](https://hindi.news18.com/world/europe-ovarian-cancer-early-detection-blood-test-tu-stroma-research-10988275.html)
+*News18 Hindi (World)* - Nov 15, 13:36 IST (iso: 2026-11-15T08:06:37+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/cancer-2026-11-d12177fe051c32d37a35c63d611a6e92-1200x800.jpg -->
+
+वैज्ञानिकों ने अंडाशय के कैंसर की शुरुआती पहचान के लिए 'टीयू-स्ट्रोमा' नामक अणु की खोज की है। यह खून की जांच से संभव हो सकता है। हालांकि, आम उपयोग से पहले बड़े पैमाने पर और परीक्षण किए जाने होंगे। अंडाशय के कैंसर का पता अब शुरुआती दौर में खून की जांच से लगाने की उम्मीद जगी है. वैज्ञानिकों ने एक नए शोध में ‘टीयू-स्ट्रोमा’ नाम के अणु की पहचान की है, जो कैंसर की शुरुआती कोशिकीय गड़बड़ियों के संकेत दे सकता है.
+
+### [सत्ता की हिस्सेदारी पर अटका शिअद से गठबंधन; शिरोमणि अकाली दल को चाहिए सीएम की कुर्सी](https://www.amarujala.com/punjab/jalandhar/punjab-politics-bjp-akali-dal-alliance-stuck-over-power-sharing-and-chief-minister-post-2026-11-15)
+*Amar Ujala Breaking* - Nov 15, 12:20 IST (iso: 2026-11-15T06:50:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/punjab-politics_dd59bb2e62955294f316ac01a08d9a3c.jpeg?w=1200&dpr=1.0 -->
+
+पंजाब में 2027 चुनाव से पहले शिरोमणि अकाली दल और भाजपा के बीच गठबंधन पर बातचीत अटक गई। शिअद मुख्यमंत्री पद की मांग कर रहा है। सत्ता की हिस्सेदारी पर मतभेद गठबंधन को प्रभावित कर रहा है। पंजाब में 2027 के विधानसभा चुनाव से पहले शिरोमणि अकाली दल और भारतीय जनता पार्टी के बीच संभावित गठबंधन को लेकर सियासी हलचल तेज हो गई है।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [नेतन्याहू सरकार गई, पर नहीं बदली नीति: “हमास खत्म होने तक” हमले जारी रखेगा इजराइल](https://www.patrika.com/world-news/hamas-commander-samir-abu-yunis-killed-israel-airstrike-khan-younis-21052232)
-*Patrika (World)* - Nov 15, 06:14 IST (iso: 2026-11-15T00:44:39+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Hamas-commander-killed.webp -->
+### [कताइब हिजबुल्लाह के गढ़ में तेल का खेल: तस्करी के आरोप में इराक के 9 टॉप सिक्योरिटी अफसर बर्खास्त](https://www.patrika.com/world-news/iraq-oil-smuggling-9-senior-security-officers-sacked-21053141)
+*Patrika (World)* - Nov 15, 13:17 IST (iso: 2026-11-15T07:47:14+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Iraq-oil-smuggling.webp -->
 
-इजराइल ने गाजा में हमास के राफा ब्रिगेड कमांडर समीर अबू यूनिस को एयरस्ट्राइक में मार गिराया। नेतन्याहू की सरकार के जाने के बाद भी सैन्य नीति में कोई बदलाव नहीं हुआ है। Hamas Commander Killed: गाजा में इजराइली हमले ने हमास के एक और बड़े चेहरे को खत्म कर दिया। संगठन ने खुद मान लिया है कि राफा ब्रिगेड का कमांडर समीर अबू यूनिस खान यूनिस के अल-मवासी इलाके में हुई एयरस्ट्राइक में मारा गया।
+इराक के प्रधानमंत्री अली अल-जैदी ने जर्फ अल-नस्र में तेल तस्करी के आरोप में नौ वरिष्ठ सुरक्षा अधिकारियों को बर्खास्त किया है। यह इलाका ईरान समर्थित कताइब हिजबुल्लाह का गढ़ माना जाता है। यह कार्रवाई सुरक्षा व्यवस्था में बदलाव का संकेत है। Iraq Security Officers Sacked: इराक के प्रधानमंत्री अली अल-जैदी ने जर्फ अल-नस्र इलाके में कथित तेल तस्करी के मामले को लेकर नौ वरिष्ठ सुरक्षा अधिकारियों को बर्खास्त कर दिया है।
+
+### [ईरान के निशाने पर आया अमेरिका का 'आंख-कान', बहरीन में 6 ड्रोन से हमला, समझिए पूरा खेल](https://hindi.news18.com/world/middle-east-iran-drone-attack-on-bahrain-us-military-base-early-warning-radar-10988229.html)
+*News18 Hindi (World)* - Nov 15, 13:05 IST (iso: 2026-11-15T07:35:47+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bahrain-2026-11-f45818d55160d5da22c62f39f8de7d14-1200x800.jpg -->
+
+ईरान के IRGC ने बहरीन में अमेरिकी पांचवीं फ्लीट के रडार पर छह ड्रोन से हमला करने का दावा किया। बहरीन ने देशभर में सुरक्षा अलर्ट जारी किया। यह ठिकाना खाड़ी और हिंद महासागर की नौसैनिक गतिविधियों की निगरानी करता है। ईरान की सेना IRGC ने बहरीन में अमेरिकी सैन्य ठिकाने पर मौजूद रडार को निशाना बनाने के लिए 6 ड्रोन भेजने का दावा किया है.
+
+### [सऊदी गठबंधन ने मार गिराए 3 हूती ड्रोन, बहरीन में खतरे का अलर्ट](https://www.patrika.com/world-news/iran-war-live-saudi-coalition-shoots-down-3-houthi-drones-21052876)
+*Patrika (World)* - Nov 15, 12:04 IST (iso: 2026-11-15T06:34:04+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Iran-war-update.webp -->
+
+सऊदी गठबंधन ने तीन घंटों के भीतर यमन के हूतियों द्वारा छोड़े गए तीन ड्रोन मार गिराए। हूतियों का दावा है कि उन्होंने अल-जौफ में सऊदी का एक विमान गिराया। इस बीच बहरीन ने संभावित खतरे की चेतावनी जारी की है। Iran War Update: ईरान ने खाड़ी देश में स्थित एक अमेरिकी ठिकाने को निशाना बनाया है। जिसे लेकर बहरीन ने संभावित खतरे की चेतावनी जारी की है।
+
+### [‘कायरतापूर्ण हत्या के ऑपरेशन में मारा गया यूनिस’, अल-कस्साम ब्रिगेड ने इजरायल पर लगाया आरोप](https://www.patrika.com/world-news/israel-kills-hamas-commander-samir-abu-younis-gaza-october-7-attack-21052669)
+*Patrika (World)* - Nov 15, 11:36 IST (iso: 2026-11-15T06:06:08+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Samir-Abu-Younis.webp -->
+
+इजरायल ने गाजा में हमास के कमांडर समीर अबू यूनिस को मार गिराया। अल-कस्साम ब्रिगेड ने इसे कायरतापूर्ण हत्या करार दिया। यूनिस 7 अक्टूबर 2023 के हमले की योजना बनाने वाले प्रमुख कमांडरों में शामिल थे। Samir Abu Younis: इजरायल ने गाजा में हमास के एक बड़े कमांडर समीर अबू यूनिस को मार गिराया है। हमास की सैन्य शाखा अल-कस्साम ब्रिगेड ने उसकी मौत की पुष्टि करते हुए इजरायल पर ‘कायरतापूर्ण हत्या’ का आरोप लगाया है।
+
+### [इजरायल में पीएम पर सस्पेंस बरकरार, नेतन्याहू के यूनिट सरकार के प्रस्ताव पर आइजनकोट का पलटवार- चालबाज](https://hindi.news18.com/world/middle-east-netanyahu-appeal-for-unity-government-but-eisenkot-denies-calls-it-trick-ws-l-10987754.html)
+*News18 Hindi (World)* - Nov 15, 11:00 IST (iso: 2026-11-15T05:30:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/netanyahu-isenkot-2026-11-74800704f6e394ab87271e6e54ae6dfe-1200x800.jpg -->
+
+इजरायल में नेतन्याहू की लिकुड पार्टी को सबसे ज्यादा सीटें मिलीं। वे सरकार नहीं बना पा रहे हैं। आइजनकोट ने यूनिटी सरकार के प्रस्ताव को अस्वीकार कर दिया। राजनीतिक अस्थिरता जारी है। Israel Political Turmoil: इजरायल की राजनीति में इस वक्त अलग ही लेवल का ड्रामा चल रहा है. चुनावों में नेतन्याहू की लिकुड पार्टी को सबसे ज्यादा सीटें मिलीं, लेकिन वे सरकार नहीं बनाने की स्थिति में नहीं हैं.
 
 ---
 
 ## अमेरिका
 
-### [कनाडा में सैन्य अभ्यास के दौरान लगी थी आग: पांचवें सैनिक की भी मौत; पीएम बोले- शांति-कालीन त्रासदी](https://www.amarujala.com/world/canadian-soldier-dies-military-training-fire-tragedy-mark-carney-2026-11-15)
-*Amar Ujala World* - Nov 15, 05:53 IST (iso: 2026-11-15T00:23:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/maraka-karana-parathhanamatara-kanada_5d9fd19c70dbebe1f5e282720f81ad8d.jpeg?w=1200&dpr=1.0 -->
+### [अमेरिका के मियामी एयरपोर्ट पर दो विमानों की टक्कर, यात्री विमान का अगला हिस्सा क्षतिग्रस्त; टला](https://www.patrika.com/world-news/miami-airport-ups-copa-airlines-planes-collision-passenger-aircraft-damaged-21052755)
+*Patrika (World)* - Nov 15, 11:26 IST (iso: 2026-11-15T05:56:26+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Miami-Airport-Collision.webp -->
 
-कनाडा में सैन्य अभ्यास के दौरान लगी आग में पांचवें सैनिक की भी मौत हो गई। प्रधानमंत्री ने इस घटना को शांति-कालीन त्रासदी का नाम दिया। कनाडा में सैन्य अभ्यास के दौरान लगी थी आग: पांचवें सैनिक की भी मौत; पीएम बोले- शांति-कालीन त्रासदी।
-
-### [पढ़ाई के बाद भी अच्छी नौकरी की गारंटी नहीं: अमेरिका से यूरोप तक युवाओं में गुस्सा; टूट रहा शिक्षा](https://www.amarujala.com/world/why-young-people-in-the-us-and-europe-are-losing-faith-in-education-as-a-path-to-success-2026-11-15)
-*Amar Ujala World* - Nov 15, 04:30 IST (iso: 2026-11-14T23:00:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/05/12/unemployement_5aaa3f8a7c70712b0450c89cf1f78985.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका और यूरोप के युवा शिक्षा पर भरोसा खो रहे हैं। उन्हें लगता है कि उच्च शिक्षा अब अच्छी नौकरी की गारंटी नहीं देती। इससे शिक्षा प्रणाली पर सार्वजनिक विश्वास कमजोर हो रहा है। पढ़ाई के बाद भी अच्छी नौकरी की गारंटी नहीं: अमेरिका से यूरोप तक युवाओं में गुस्सा; टूट रहा शिक्षा पर से भरोसा!
-
-### [ट्रंप के साथ खड़े हुए टेक दिग्गज: चुनावी माहौल भांपने में चूके; जुकरबर्ग-मस्क की रणनीति क्यों पड़ी](https://www.amarujala.com/world/why-silicon-valley-tech-leaders-misjudged-the-political-mood-ahead-of-us-midterm-elections-2026-11-15)
-*Amar Ujala World* - Nov 15, 04:26 IST (iso: 2026-11-14T22:56:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/06/zuckerberg-and-musk_e930e783bf8d62d3172cbbff2bf9fbe9.jpeg?w=1200&dpr=1.0 -->
-
-सिलिकॉन वैली के प्रमुख टेक नेताओं ने अमेरिकी मध्यवर्ती चुनावों का राजनीतिक माहौल गलत समझा। जेक ज़ुकरबर्ग और एलन मस्क की रणनीति ने उन्हें ट्रंप के साथ खड़ा कर दिया। ट्रंप के साथ खड़े हुए टेक दिग्गज: चुनावी माहौल भांपने में चूके; जुकरबर्ग-मस्क की रणनीति क्यों पड़ी भारी?
+मियामी इंटरनेशनल एयरपोर्ट पर शनिवार रात UPS कार्गो और कोपा एयरलाइंस विमान टकराए। यात्री विमान की नाक क्षतिग्रस्त हुई। कोई चोट नहीं हुई। फायर रेस्क्यू विभाग ने टक्कर की पुष्टि की। फ्लोरिडा। अमेरिका के फ्लोरिडा स्थित मियामी इंटरनेशनल एयरपोर्ट पर शनिवार रात बड़ा विमान हादसा टल गया। यहां UPS के कार्गो विमान और कोपा एयरलाइंस के यात्री विमान के बीच टक्कर हो गई।
 
 ---
 
