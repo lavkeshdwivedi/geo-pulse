@@ -1,16 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 16, 2026 05:59 IST
+**Updated:** November 16, 2026 12:55 IST
 
 ---
 
 ## Middle East & Africa
 
-### [Yemeni government forces retreat from strait in major setback in war against Houthis](https://www.thehindu.com/news/international/yemeni-government-forces-retreat-from-strait-in-major-setback-in-war-against-houthis/article71705608.ece)
-*The Hindu (International)* - Nov 16, 05:36 IST (iso: 2026-11-16T00:06:23+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/pdl4ra/article71705631.ece/alternates/LANDSCAPE_1200/Djibouti_EU_Piracy_Patrol_39351.jpg -->
+### [In reversal, U.S. to fund UN military support in Somalia for another year](https://www.thehindu.com/news/international/in-reversal-us-to-fund-un-military-support-in-somalia-for-another-year/article71706951.ece)
+*The Hindu (International)* - Nov 16, 11:58 IST (iso: 2026-11-16T06:28:09+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/aqbf9s/article71706989.ece/alternates/LANDSCAPE_1200/Somalia_Security_Explainer_10037.jpg -->
 
-Yemeni government forces pulled back from the Bab el-Mandeb Strait, marking a significant tactical loss in their campaign against the Houthi movement. This retreat follows a period of sustained Houthi advances and direct attacks on Saudi Arabia and commercial shipping in the Red Sea. The shifting balance on the ground has bolstered Iran's strategic position within the broader regional conflict. The situation reflects the ongoing pressure from the Houthi campaign that has intensified since the US and Israel launched operations in February.
+The United States will fund UN military support in Somalia for another year. This reversal ensures the African Union campaign can continue against Al-Shabaab. The militant group still controls large parts of central Somalia. The Al-Qaeda-linked Al-Shabaab has been fighting the Somali government for two decades and continues to control large swathes of central Somalia despite the African Union military campaign, which was unlikely to be able to continue without UNSOS support.
+
+### [India, Egypt discuss steps to boost trade, address non-tariff barriers](https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece)
+*The Hindu (International)* - Nov 16, 11:28 IST (iso: 2026-11-16T05:58:35+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/cjdqcd/article71706918.ece/alternates/LANDSCAPE_1200/15th-PTI-IndiaGVLGQ7IHB.3.jpg.jpg -->
+
+India and Egypt agreed to form a Joint Working Group. They will explore terms for a Preferential Trade Agreement or Free Trade Agreement. The goal is to boost bilateral trade and improve market access. The two countries have decided to set up a Joint Working Group to explore the Terms of Reference for a PTA or FTA to facilitate stronger bilateral trade, improve access to both markets and promote investment linkages between the two countries.
+
+### [Toward a new global AI chip order](https://asiatimes.com/2026/11/toward-a-new-global-ai-chip-order/)
+*Asia Times* - Nov 16, 07:42 IST (iso: 2026-11-16T02:12:26+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-AI-Chips.jpg -->
+
+Jensen Huang resigned as Nvidia’s chief executive. The move turned a corporate scandal into a geopolitical crisis. Nvidia’s graphics processing units are critical to the global technology supply chain. Jensen Huang’s resignation as Nvidia’s chief executive has transformed a corporate scandal into an emerging geopolitical crisis for the world’s most valuable technology supply chain. Yet the political consequences may endure long after the personal details.
 
 ### [Barred By The Taliban, Afghan Girls And Women Now Shut Out Of School In Iran And Pakistan Too](https://www.rferl.org/a/afghanistan-girls-women-education-taliban-iran-pakistan/33897996.html)
 *Radio Free Europe / Liberty* - Nov 15, 17:29 IST (iso: 2026-11-15T11:59:32+00:00)
@@ -32,13 +44,13 @@ Tehran's Iranshahr Street has become a gathering spot for young Iranians seeking
 
 ### [Fragile Gulf calm tested as threats to Hormuz shipping mount](https://news.un.org/feed/view/en/story/2026/11/1168804)
 *UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image770x420cropped.jpg -->
 
 The Gulf region remains tense nearly nine months after strikes on Iran. Iran has effectively closed the Strait of Hormuz to shipping. Attacks on vessels are increasing in frequency. The Security Council is meeting at Bahrain’s request to discuss the situation. Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge.
 
 ### [Unrest fuelled by armed groups holds back response](https://news.un.org/feed/view/en/story/2026/11/1168797)
 *UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/27-10-2026_WHO_DRC_Ebola_Survivor.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/27-10-2026_WHO_DRC_Ebola_Survivor.jpg/image770x420cropped.jpg -->
 
 Armed groups in the Democratic Republic of the Congo are obstructing Ebola response efforts. They continue attacking civilians and health workers. These disruptions hinder containment measures. UN responders reported the ongoing violence on Friday. The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.
 
@@ -50,19 +62,43 @@ The Islamic Revolutionary Guards Corps claims it destroyed a US radar in Bahrain
 
 ### [Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis](https://news.un.org/feed/view/en/story/2026/11/1168793)
 *UN News* - Nov 12, 17:30 IST (iso: 2026-11-12T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/12-11-2026_WFP_Sudan-01.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/12-11-2026_WFP_Sudan-01.jpg/image770x420cropped.jpg -->
 
 The World Food Programme chief warned that funding cuts are deepening Sudan's hunger crisis. He visited displaced families struggling to feed their children during his first field mission. Aid remains the only viable option for millions facing starvation in the conflict zone. The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.
 
 ---
 
-## Global / Multilateral
+## Asia-Pacific
 
-### [A positive HPV test does not mean you have cervical cancer. Here's what to know](https://www.channelnewsasia.com/women/positive-hpv-test-cervical-cancer-risk-6527016)
-*Channel News Asia* - Nov 16, 04:59 IST (iso: 2026-11-15T23:29:42+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--GXid4raZ--/c_crop,h_1125,w_2000,x_0,y_208/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/05/hpv-test-positive-results_0.jpg?itok=bZiu74Fy -->
+### [China’s new missile shield rewrites Indo-Pacific escalation math](https://asiatimes.com/2026/11/chinas-new-missile-shield-rewrites-indo-pacific-escalation-math/)
+*Asia Times* - Nov 16, 08:53 IST (iso: 2026-11-16T03:23:57+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile-Shield.jpeg -->
 
-Most human papillomavirus infections clear on their own without treatment. However, persistent strains can alter cervical cells, potentially leading to cancer over time. Doctors emphasize that a positive test is not a diagnosis of cancer. Regular screening remains the primary tool for detecting dangerous cellular changes early. Most human papillomavirus (HPV) infections clear naturally, but some strains can cause changes in cervical cells that may eventually lead to cancer.
+China conducted a live-fire missile interception exercise. The People’s Liberation Army demonstrated simultaneous interception of multiple targets. This shift aims to protect mainland leadership and the nuclear arsenal from US and Indian strikes. China’s latest live-fire missile interception exercise highlights a major doctrinal shift as the People’s Liberation Army (PLA) races to protect its mainland leadership, nuclear arsenal and growing aircraft carrier fleet from US precision strikes, Indian submarine-launched nuclear missiles and allied anti-ship networks.
+
+### [160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam)
+*The Guardian* - Nov 15, 14:26 IST (iso: 2026-11-15T08:56:11+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69 -->
+
+The top scorer on South Korea’s tax accountant exam admitted to using generative AI. He confessed to sending photos of questions to a tool to cheat. The scandal raises concerns ahead of the national college entrance exam scheduled for next week. Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true.
+
+### [Dollars Rain From Balcony As Kazakhstan's State Giants Rocked By Corruption Arrests](https://www.rferl.org/a/kazakhstan-state-companies-corruption-toqaev/33898113.html)
+*Radio Free Europe / Liberty* - Nov 13, 20:23 IST (iso: 2026-11-13T14:53:57+00:00)
+<!-- image: https://gdb.rferl.org/fa88d365-ddf4-4169-849b-08df3ee82709_w1200_h630.png -->
+
+President Toqaev convened an urgent Security Council meeting after corruption arrests. Security services detained the heads of Samruk-Kazyna and KTZ. These entities control 40 percent of Kazakhstan's economy. Toqaev aimed to reassure foreign investors and reinforce his law and order drive. Days after security services detained the heads of Samruk-Kazyna and state railway KTZ, which control 40 percent of Kazakhstan’s economy, President Toqaev convened an urgent Security Council meeting to reinforce his “Law and Order” drive, address transport governance, and reassure foreign investors.
+
+### [Huang’s fall exposes contradictions in America’s China strategy](https://asiatimes.com/2026/11/huangs-fall-exposes-contradictions-in-americas-china-strategy/)
+*Asia Times* - Nov 13, 17:51 IST (iso: 2026-11-13T12:21:04+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Nvidia-1.jpg -->
+
+Jensen Huang resigned as Nvidia chief executive this week. His departure followed governance concerns and intelligence allegations. Washington imposed chip controls in 2022 and tightened them in 2023. Huang's fall exposed contradictions in America's China strategy. Jensen Huang’s resignation as Nvidia chief executive this week followed a convergence of corporate governance concerns, intelligence allegations and scrutiny of semiconductor exports to China.
+
+### [Did China’s ‘beauty stratagem’ find a new victim in Jensen Huang?](https://asiatimes.com/2026/11/did-chinas-beauty-stratagem-find-a-new-victim-in-jensen-huang/)
+*Asia Times* - Nov 13, 15:21 IST (iso: 2026-11-13T09:51:40+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Beauty-Strategem.jpg -->
+
+Jensen Huang resigned as Nvidia CEO following reports of an affair with Alice Huang. She is a Singapore-based executive suspected of having ties to Chinese intelligence. The incident has raised concerns about a potential honey trap targeting a major American technology leader. Extramarital activities have led to the resignation of one of America’s most influential tech bosses, Nvidia CEO Jensen Huang.
 
 ---
 
@@ -91,46 +127,6 @@ Storm Charles brought heavy rain and strong winds to southern Europe. Portugal a
 <!-- image: https://gdb.rferl.org/abaf1381-72f8-4dab-8437-08df3ee82709_w1200_h630.jpg -->
 
 A Ukrainian nonprofit found nearly 1,000 AI-generated songs on Russian streaming platforms. The tracks support the military and the war in Ukraine. The content aims to generate patriotic sentiment among listeners. The study highlights the scale of this digital propaganda effort. Russians using streaming music sites might find a new genre turning up in their feeds: AI-generated songs in support of Russia's military and the war in Ukraine.
-
----
-
-## Asia-Pacific
-
-### [Jensen Huang’s downfall will accelerate US-China ‘great decoupling’](https://www.channelnewsasia.com/commentary/nvidia-jensen-huang-affair-us-china-ai-tech-decoupling-6552516)
-*Channel News Asia* - Nov 16, 03:30 IST (iso: 2026-11-15T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--oUVmrONL--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-11T011455Z_4_LYNXNPEMA91WF_RTROPTP_3_NVIDIA-PROBE-TRUMP.JPG?itok=WYAEURdu -->
-
-Political fallout from the Alice Huang case may accelerate the US-China decoupling. Enodo Economics' Diana Choyleva notes that national security concerns remain unconfirmed. The damage to Nvidia's standing may already be done. This development could further strain technological ties between the two nations. Whether Alice Huang was a spy, whether the Nvidia CEO was compromised or whether US national security was jeopardised remains to be confirmed.
-
-### [160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam)
-*The Guardian* - Nov 15, 14:26 IST (iso: 2026-11-15T08:56:11+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69 -->
-
-The top scorer on South Korea’s tax accountant exam admitted to using generative AI. He confessed to sending photos of questions to a tool to cheat. The scandal raises concerns ahead of the national college entrance exam scheduled for next week. Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true.
-
-### [Dollars Rain From Balcony As Kazakhstan's State Giants Rocked By Corruption Arrests](https://www.rferl.org/a/kazakhstan-state-companies-corruption-toqaev/33898113.html)
-*Radio Free Europe / Liberty* - Nov 13, 20:23 IST (iso: 2026-11-13T14:53:57+00:00)
-<!-- image: https://gdb.rferl.org/fa88d365-ddf4-4169-849b-08df3ee82709_w1200_h630.png -->
-
-President Toqaev convened an urgent Security Council meeting after corruption arrests. Security services detained the heads of Samruk-Kazyna and KTZ. These entities control 40 percent of Kazakhstan's economy. Toqaev aimed to reassure foreign investors and reinforce his law and order drive. Days after security services detained the heads of Samruk-Kazyna and state railway KTZ, which control 40 percent of Kazakhstan’s economy, President Toqaev convened an urgent Security Council meeting to reinforce his “Law and Order” drive, address transport governance, and reassure foreign investors.
-
-### [Huang’s fall exposes contradictions in America’s China strategy](https://asiatimes.com/2026/11/huangs-fall-exposes-contradictions-in-americas-china-strategy/)
-*Asia Times* - Nov 13, 17:51 IST (iso: 2026-11-13T12:21:04+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Nvidia-1.jpg -->
-
-Jensen Huang resigned as Nvidia chief executive this week. His departure followed governance concerns and intelligence allegations. Washington imposed chip controls in 2022 and tightened them in 2023. Huang's fall exposed contradictions in America's China strategy. Jensen Huang’s resignation as Nvidia chief executive this week followed a convergence of corporate governance concerns, intelligence allegations and scrutiny of semiconductor exports to China.
-
-### [Did China’s ‘beauty stratagem’ find a new victim in Jensen Huang?](https://asiatimes.com/2026/11/did-chinas-beauty-stratagem-find-a-new-victim-in-jensen-huang/)
-*Asia Times* - Nov 13, 15:21 IST (iso: 2026-11-13T09:51:40+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Beauty-Strategem.jpg -->
-
-Jensen Huang resigned as Nvidia CEO following reports of an affair with Alice Huang. She is a Singapore-based executive suspected of having ties to Chinese intelligence. The incident has raised concerns about a potential honey trap targeting a major American technology leader. Extramarital activities have led to the resignation of one of America’s most influential tech bosses, Nvidia CEO Jensen Huang.
-
-### [China’s demographic challenge becoming its biotech advantage](https://asiatimes.com/2026/11/chinas-demographic-challenge-becoming-its-biotech-advantage/)
-*Asia Times* - Nov 13, 14:00 IST (iso: 2026-11-13T08:30:47+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Biotech.jpg -->
-
-The Biotechnology Innovation Organization urged Washington to adopt a national biotechnology strategy. The group warned that China is rapidly gaining ground in the sector. Biotech is now viewed as critical to economic competitiveness and national security in the U. S. Is biotechnology becoming the next space race? The Biotechnology Innovation Organization (BIO) appears to think so. This month, it urged Washington to adopt a comprehensive national biotechnology strategy, warning that China is rapidly gaining ground in an industry now viewed as critical to economic competitiveness and national security.
 
 ---
 

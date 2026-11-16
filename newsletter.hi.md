@@ -1,172 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 16, 2026 05:59 IST
-
----
-
-## एशिया-प्रशांत
-
-### [प्रधानमंत्री मोदी का तीन दिवसीय फिलीपींस दौरा: आसियान में उठेगा समुद्री सुरक्षा का मुद्दा, क्या है](https://www.amarujala.com/india-news/pm-modi-manila-asean-summit-maritime-security-trade-agenda-2026-11-16)
-*Amar Ujala Breaking* - Nov 16, 12:55 IST (iso: 2026-11-16T07:25:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/paema-matha_75967e25b6476e99c9c08f85219adcf6.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री मोदी तीन दिवसीय दौरे पर फिलीपींस पहुंचे। मनीला में आसियान शिखर सम्मेलन के दौरान समुद्री सुरक्षा और व्यापार पर चर्चा होगी। प्रधानमंत्री मोदी का तीन दिवसीय फिलीपींस दौरा: आसियान में उठेगा समुद्री सुरक्षा का मुद्दा, क्या है एजेंडा?
-
-### [सरकारी खजाने से स्वास्थ्य पर खर्च तीन गुना बढ़ा: इलाज का बोझ घटा; परिवारों की जेब से खर्च 21.5% कम](https://www.amarujala.com/india-news/government-health-spending-triples-as-out-of-pocket-medical-expenses-decline-in-india-2026-11-16)
-*Amar Ujala National* - Nov 16, 05:40 IST (iso: 2026-11-16T00:10:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/09/27/upacara-karata-dakatara-sakataka-catara_a49b81b2845659cea52806a95f5daafe.jpeg?w=1200&dpr=1.0 -->
-
-भारत में सरकारी स्वास्थ्य खर्च तीन गुना बढ़ने से इलाज का बोझ घटा है। परिणामस्वरूप परिवारों की जेब से होने वाले चिकित्सा खर्च में 21.5 प्रतिशत की कमी दर्ज की गई है। सरकारी खजाने से स्वास्थ्य पर खर्च तीन गुना बढ़ा: इलाज का बोझ घटा; परिवारों की जेब से खर्च 21.5% कम।
-
-### [पाकिस्तान को हराकर की खिलाड़ियों की स्वदेश वापसी, बताईं ये रोचक बातें!](https://www.amarujala.com/video/cricket/players-return-home-after-defeating-pakistan-share-these-interesting-details-2026-11-16)
-*Amar Ujala National* - Nov 16, 04:30 IST (iso: 2026-11-15T23:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/india-wins-ninth-u19-asia-cup-title_1f595614c1c21a7726ad7650a6c92c9c.jpeg?w=1200&dpr=1.0 -->
-
-भारतीय महिला क्रिकेट टीम ने पाकिस्तान को हराकर टूर्नामेंट जीता और स्वदेश लौटी। खिलाड़ियों ने जीत के बाद प्रेस कॉन्फ्रेंस में मैच की रणनीति और अनुभव साझा किए। पाकिस्तान को हराकर की खिलाड़ियों की स्वदेश वापसी, बताईं ये रोचक बातें!
-
-### [मौत की सजा के खिलाफ यूएन में प्रस्ताव पास: भारत ने किया विरोध, 33 देशों ने खिलाफ डाला वोट](https://www.amarujala.com/world/un-general-assembly-passes-resolution-on-death-penalty-moratorium-india-votes-against-it-2026-11-16)
-*Amar Ujala World* - Nov 16, 04:20 IST (iso: 2026-11-15T22:50:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/03/27/yaena_248ff7f0d0b19fd4630bcb7bc3889264.jpeg?w=1200&dpr=1.0 -->
-
-संयुक्त राष्ट्र महासभा में मौत की सजा के खिलाफ प्रस्ताव पारित हुआ। भारत ने इस प्रस्ताव का विरोध किया, जबकि 33 देशों ने खिलाफ वोट डाला। मौत की सजा के खिलाफ यूएन में प्रस्ताव पास: भारत ने किया विरोध, 33 देशों ने खिलाफ डाला वोट।
-
-### [प्रदूषण की शिकायतों पर डीपीसीसी सुस्त, दो साल में 60 फीसदी से अधिक लंबित; 71% अधर में](https://www.amarujala.com/delhi-ncr/dpcc-sluggish-in-addressing-pollution-complaints-over-60-remain-pending-after-two-years-2026-11-16)
-*Amar Ujala Breaking* - Nov 16, 02:56 IST (iso: 2026-11-15T21:26:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/05/delhi-ncr-air-pollution_26ed161ef97745372f6c4bda77d87f52.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली प्रदूषण नियंत्रण समिति ने दो साल में 60 फीसदी से अधिक शिकायतों का निपटारा नहीं किया है। कुल शिकायतों में 71 प्रतिशत अभी भी अधर में लटकी हुई हैं। दिल्ली की दमघोंटू हवा से राहत दिलाने की जिम्मेदारी संभालने वाली दिल्ली प्रदूषण नियंत्रण समिति (डीपीसीसी) शिकायतों के निपटारे में बेहद सुस्त साबित हो रही है। प्रदूषण की शिकायतों पर डीपीसीसी सुस्त, दो साल में 60 फीसदी से अधिक लंबित; 71% अधर में।
-
-### [चीन और थाईलैंड से लेकर तुर्किये तक के उत्पादों से सजा विदेशी बाजार, पहुंचे खूब खरीदार](https://www.amarujala.com/delhi-ncr/trade-fair-in-delhi-an-international-market-featuring-products-from-china-and-thailand-to-t-rkiye-2026-11-16)
-*Amar Ujala Breaking* - Nov 16, 02:56 IST (iso: 2026-11-15T21:26:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/1_c4969e93fe594ffa90df25b8b2cdbba7.jpeg?w=1200&dpr=1.0 -->
-
-भारत मंडपम में 45वें भारतीय अंतरराष्ट्रीय व्यापार मेले में चीन, थाईलैंड और तुर्किये के उत्पाद प्रदर्शित किए गए। विदेशी बाजारों के खरीदारों ने इन उत्पादों में काफी रुचि दिखाई। भारत मंडपम में आयोजित 45वें भारतीय अंतरराष्ट्रीय व्यापार मेले में इस बार दुनिया के बाजार की झलक देखने को मिल रही है। चीन और थाईलैंड से लेकर तुर्किये तक के उत्पादों से सजा विदेशी बाजार, पहुंचे खूब खरीदार।
-
-### [बांग्लादेश में हिंसा के बाद बड़ा फेरबदल: गोपालगंज के डीसी-एसपी का तबादला, अवामी लीग की रैली के बाद](https://www.amarujala.com/world/bangladesh-transfers-gopalganj-dc-and-sp-after-violence-during-awami-league-rallies-2026-11-16)
-*Amar Ujala Breaking* - Nov 16, 02:02 IST (iso: 2026-11-15T20:32:41+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/02/24/bangladesh_77a45456ea510238d6798cb5c9d69e4b.jpeg?w=1200&dpr=1.0 -->
-
-बांग्लादेश में अवामी लीग की रैली के दौरान हुई हिंसा के बाद गोपालगंज के डीसी और एसपी का तबादला कर दिया गया है। प्रशासन ने इस घटना के जवाब में यह कार्रवाई की है। बांग्लादेश में हिंसा के बाद बड़ा फेरबदल: गोपालगंज के डीसी-एसपी का तबादला, अवामी लीग की रैली के बाद।
-
-### [भारत जो बार-बार कहता रहा, बलूचिस्तान असेंबली में भी विधायकों ने उठाई वही बात, बिंदिया के लिए मांग](https://hindi.news18.com/world/pakistan-hindu-mla-in-pakistan-balochistan-assembly-protested-demanding-recovery-of-a-missing-14-year-old-hindu-girl-bindiya-kumari-nikha-in-sindh-2-10989192.html)
-*News18 Hindi (World)* - Nov 15, 20:04 IST (iso: 2026-11-15T14:34:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Victim-Girl-2026-11-55c8e859501463809a3954081fae8a2e-1200x800.jpg -->
-
-बलूचिस्तान विधानसभा में दो हिंदू विधायकों ने नौवीं कक्षा की छात्रा बिंदिया के अपहरण और धर्म परिवर्तन के विरोध में हंगामा किया। दावा है कि उसका सिंध में निकाह करा दिया गया। पाकिस्‍तान के बलूचिस्‍तान में 14 साल की बच्‍ची बिंदिया के अपहरण का मामला सामने आया है. दावा है कि नौवीं कक्षा में पढ़ने वाली बच्‍ची का धर्म परिवर्तन करा उसका सिंध में निकाह करा दिया गया है.
+**अपडेट:** November 16, 2026 12:55 IST
 
 ---
 
 ## दुनिया
 
-### [भाजपा का चिंतन शिविर आज से मथुरा में, नितिन नवीन-सीएम योगी सहित जुटेंगे ये दिग्गज; बनेगी चुनावी](https://www.amarujala.com/lucknow/up-bjp-s-chintan-shivir-in-mathura-from-monday-nitin-naveen-cm-yogi-and-other-prominent-personalities-will-2026-11-15)
-*Amar Ujala Breaking* - Nov 16, 12:37 IST (iso: 2026-11-16T07:07:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/08/saema-yaga-oura-rashhataraya-athhayakashha-natana-navana_c0ba3f305192d4f717505df48dd9ad58.jpeg?w=1200&dpr=1.0 -->
+### [बिना बुलेटप्रूफ कांच के फैंस से मिले बिग बी, अभिषेक ने संभाली कमान; कांग्रेस नेता ने पूछा सवाल](https://www.amarujala.com/entertainment/amitabh-bachchan-greets-fans-outside-jalsa-without-bulletproof-glass-abhishek-bachchan-stand-behind-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:55 IST (iso: 2026-11-16T07:25:01+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/amatabha-bcacana_1d85bb6586520fe96bc7ca2ad19a29b5.jpeg?w=1200&dpr=1.0 -->
 
-भाजपा का दो दिवसीय चिंतन शिविर मथुरा में शुरू हुआ। मुख्यमंत्री योगी और नितिन गडकरी सहित शीर्ष नेता शामिल होंगे। BJP Chintan Shivir: यूपी विधानसभा चुनाव से पहले भाजपा का दो दिन का चिंतन शिविर मथुरा में होगा। इस कार्यक्रम में प्रदेश के शीर्ष नेता जुटेंगे। भाजपा का चिंतन शिविर आज से मथुरा में, नितिन नवीन-सीएम योगी सहित जुटेंगे ये दिग्गज; बनेगी चुनावी।
+अमिताभ बच्चन ने संडे दर्शन के दौरान जलसा के बाहर फैंस से मुलाकात की। अभिषेक बच्चन और बंटी वालिया भी मौजूद रहे। बिग बी बिना बुलेटप्रूफ शीशे के नजर आए। सचिन सावंत ने इस सुरक्षा व्यवस्था पर सवाल उठाए। अमिताभ बच्चन संडे दर्शन के दौरान जलसा के बाहर फैंस से मिले। बिग बी के साथ अभिषेक बच्चन और बंटी वालिया भी मौजूद थे।
 
-### [सुबह-सुबह डोलने लगी धरती, आधी नींद में घर छोड़कर भागे लोग, 5 मैग्नीट्यूड के भूकंप से मची चीख-पुकार](https://hindi.news18.com/world/south-asia-earthquake-in-afghanistan-hit-by-5-magnitude-early-morning-people-in-shock-10989527.html)
-*News18 Hindi (World)* - Nov 16, 05:57 IST (iso: 2026-11-16T00:27:23+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg -->
+### [92 हजार से अधिक किसानों-शिक्षकों पर दर्ज 600 केस वापस, जानिए क्या है मामला](https://www.amarujala.com/india-news/tamilnadu-government-withdraws-600-cases-against-farmers-teachers-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:48 IST (iso: 2026-11-16T07:18:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/07/10/cm-vijay-tamilnadu_e1284f2f41ccaaccfe6ee7a636b8b3b6.jpeg?w=1200&dpr=1.0 -->
 
-सुबह के समय 5 मैग्नीट्यूड के भूकंप ने लोगों को आधी नींद में घरों से बाहर निकाल दिया। घटना के दौरान चीख-पुकार मची और स्थानीय निवासियों में दहशत फैली। सुबह-सुबह डोलने लगी धरती, आधी नींद में घर छोड़कर भागे लोग, 5 मैग्नीट्यूड के भूकंप से मची चीख-पुकार।
+तमिलनाडु सरकार ने 92 हजार किसानों और शिक्षकों के खिलाफ 600 केस वापस ले लिए। यह फैसला राज्य के प्रशासनिक निर्णय के तहत लिया गया। सरकार ने इन मामलों की समीक्षा के बाद यह कदम उठाया। 92 हजार से अधिक किसानों-शिक्षकों पर दर्ज 600 केस वापस, जानिए क्या है मामला।
 
-### [कम प्रीमियम में 25 लाख तक का हेल्थ कवर: सुपर टॉप-अप से बढ़ेगी सुरक्षा; जानें बेस पॉलिसी से कैसे है](https://www.amarujala.com/business/bonus/how-super-top-up-health-insurance-offers-higher-coverage-at-a-lower-premium-2026-11-16)
-*Amar Ujala National* - Nov 16, 05:54 IST (iso: 2026-11-16T00:24:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/20/haltha-ishayarasa-lta-samaya-savathhana_8feaf030295688e3cbb9f1f3c9992abb.jpeg?w=1200&dpr=1.0 -->
+### [शरद कपूर को मिला सोनू सूद का साथ: जानें किस तरह मदद करेंगे अभिनेता? मुलाकात का वीडियो वायरल](https://www.amarujala.com/entertainment/sonu-sood-will-help-sharad-kapoor-met-him-on-sunday-and-discussed-about-bollywood-project-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:45 IST (iso: 2026-11-16T07:15:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/sharatha-kapara-sana-kapara_1a5704cb82caaa3dbc3cec205642bd78.jpeg?w=1200&dpr=1.0 -->
 
-सुपर टॉप-अप पॉलिसी कम प्रीमियम में 25 लाख रुपये तक का हेल्थ कवर प्रदान करती है। यह बेस पॉलिसी की सीमाओं को पार कर सुरक्षा बढ़ाती है और वित्तीय जोखिम कम करती है। कम प्रीमियम में 25 लाख तक का हेल्थ कवर: सुपर टॉप-अप से बढ़ेगी सुरक्षा; जानें बेस पॉलिसी से कैसे है अलग।
+अभिनेता सोनू सूद ने शरद कपूर से मुलाकात की। दोनों ने एक खास मुद्दे पर चर्चा की। सोनू सूद ने शरद को मदद करने का संकेत दिया। इस मुलाकात का वीडियो सोशल मीडिया पर वायरल हो रहा है। शरद कपूर की मदद को अभिनेता सोनू सूद सामने आए हैं। उन्होंने हाल ही में शरद से मुलाकात की। इतना ही नहीं शरद के साथ एक खास मुद्दे पर बात की।
 
-### [सोनाक्षी की मॉर्फ्ड फोटो मामले में पुलिस चूकी, आरोपी रिहा; पुणे मैराथन में कथित अनियमितता](https://www.amarujala.com/india-news/maharashtra-updates-mumbai-court-sonakshi-morphed-photos-pune-marathon-ravindra-dhangekar-politics-crime-news-2026-11-16)
-*Amar Ujala National* - Nov 16, 05:47 IST (iso: 2026-11-16T00:17:15+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0 -->
+### [ईडी की रिमांड अर्जी खारिज, आजम खां को न्यायिक हिरासत में भेजा जेल; जांच एजेंसी ने की थी चार दिन](https://www.amarujala.com/delhi-ncr/ghaziabad/ed-brings-azam-khan-to-ghaziabad-pmla-court-2026-11-16)
+*Amar Ujala Breaking* - Nov 16, 12:37 IST (iso: 2026-11-16T07:07:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/11/18/azam-khan_5c7416c22553a30ec22175396f3f0d40.jpeg?w=1200&dpr=1.0 -->
 
-सोनाक्षी की मॉर्फ्ड फोटो मामले में पुलिस की चूक के कारण आरोपी को रिहा कर दिया गया। साथ ही पुणे मैराथन में कथित अनियमितताओं की जांच भी शुरू की गई है। महाराष्ट्र अपडेट्स: सोनाक्षी की मॉर्फ्ड फोटो मामले में पुलिस चूकी, आरोपी रिहा; पुणे मैराथन में कथित अनियमितता।
+ईडी की रिमांड अर्जी खारिज होने के बाद आजम खान को न्यायिक हिरासत में भेजा गया। जांच एजेंसी ने चार दिन की रिमांड मांगी थी। गाजियाबाद पीएमएलए कोर्ट ने यह फैसला सुनाया। आजम खान को गाजियाबाद पीएमएलए कोर्ट लेकर पहुंची ईडी। ईडी की रिमांड अर्जी खारिज, आजम खां को न्यायिक हिरासत में भेजा जेल; जांच एजेंसी ने की थी चार दिन।
 
-### [एआई कंपनियों में जासूसों की बढ़ी मांग: इस लिए 4.70 करोड़ तक सालाना वेतन; पूर्व खुफिया अफसरों पर दांव](https://www.amarujala.com/world/ai-companies-hire-former-intelligence-officers-to-protect-trade-secrets-with-salaries-up-to-470-million-rupees-2026-11-16)
-*Amar Ujala World* - Nov 16, 05:46 IST (iso: 2026-11-16T00:16:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/06/19/lkhanauu-pajaaaii-ma-bnaga-eaaii-lb_26bf6a1444a6b9391b0d8e090024157e.jpeg?w=1200&dpr=1.0 -->
+### [क्या प्रदूषण में रहने से होता है सिरदर्द? जानें इसके कारण और बचाव के उपाय](https://www.amarujala.com/photo-gallery/lifestyle/fitness/does-air-pollution-cause-headaches-symptoms-causes-and-prevention-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:36 IST (iso: 2026-11-16T07:06:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/does-air-pollution-cause-headaches_544f00b631f3a5d37fdbc1d18427563c.jpeg?w=1200&dpr=1.0 -->
 
-एआई कंपनियां पूर्व खुफिया अफसरों को हायर करने के लिए सालाना 4.70 करोड़ रुपये तक का वेतन प्रस्तावित कर रही हैं। यह कदम सुरक्षा और जासूसी क्षमताओं को बढ़ाने के लिए उठाया गया है। एआई कंपनियों में जासूसों की बढ़ी मांग: इस लिए 4.70 करोड़ तक सालाना वेतन; पूर्व खुफिया अफसरों पर दांव।
+वायु प्रदूषण में मौजूद पीएम 2.5 और पीएम 10 कण सिरदर्द का कारण बनते हैं। लेख इन हानिकारक कणों के प्रभाव और बचाव के उपायों पर আলোचना करता है। Does Air Pollution Cause Headaches: इस लेख में जानें कि वायु प्रदूषण में मौजूद PM2.5 और PM10 जैसे हानिकारक कण सिरदर्द को कैसे प्रभावित करते हैं, प्रदूषण के कारण होने वाले सिरदर्द के लक्षण क्या हैं और इससे बचाव के लिए कौन-से उपाय अपनाने चाहिए।
 
-### [असम में 1.16 लाख घोषित विदेशी फरार; बंगाल में नड्डा के काफिले पर हमले के आरोपी की परेड](https://www.amarujala.com/india-news/national-updates-16-nov-assam-foreigners-kolkata-police-imran-parade-north-east-west-south-politics-crime-news-2026-11-16)
-*Amar Ujala National* - Nov 16, 05:26 IST (iso: 2026-11-15T23:56:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0 -->
+### [पठानकोट में बंदूक की नोक पर लूटी एक्सयूवी कार, सुरक्षा एजेंसियां अलर्ट](https://www.amarujala.com/punjab/jalandhar/xuv-car-looted-at-gunpoint-in-pathankot-punjab-2026-11-16)
+*Amar Ujala Breaking* - Nov 16, 12:32 IST (iso: 2026-11-16T07:02:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/11/haryana-breaking-news_9ec193bed7697083a8f4186c5c8de16d.jpeg?w=1200&dpr=1.0 -->
 
-असम में 1.16 लाख विदेशी नागरिकों को फरार घोषित किया गया है। इसी दौरान पश्चिम बंगाल में नड्डा के काफिले पर हमले के आरोपी की पुलिस ने सार्वजनिक परेड निकाली। न्यूज अपडेट्स: असम में 1.16 लाख घोषित विदेशी फरार; बंगाल में नड्डा के काफिले पर हमले के आरोपी की परेड।
+पंजाब के पठानकोट में संदिग्धों ने रविवार देर रात बंदूक की नोक पर एक एक्सयूवी कार लूटी। घटना के बाद स्थानीय सुरक्षा एजेंसियां अलर्ट मोड पर हैं। पंजाब के पठानकोट में संदिग्धों द्वारा एक कार लूट की वारदात सामने आई है। बंदूक की नोक पर रविवार देर रात को वारदात को अंजाम दिया गया जिसके बाद सुरक्षा एजेंसियां अलर्ट हो गई हैं।
 
-### [दक्षिण में चक्रवात से बारिश की आशंका; पहाड़ों पर बर्फबारी से मैदान तक ठिठुरन बढ़ी](https://www.amarujala.com/india-news/weather-news-update-cyclone-in-south-rainfall-snowfall-on-hills-mercury-sharp-drop-winter-temperatures-fog-2026-11-16)
-*Amar Ujala National* - Nov 16, 05:02 IST (iso: 2026-11-15T23:32:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/31/imd-weather-alert-new-cyclone-heavy-rain-alert_b1dbb756353b6900823d94a4dc9ec765.jpeg?w=1200&dpr=1.0 -->
+### [पुरानी कार की कागजी RC स्मार्ट कार्ड में कैसे बदलें?: जानें ऑनलाइन आवेदन, दस्तावेज और फीस की पूरी](https://www.amarujala.com/automobiles/smart-card-rc-for-old-car-online-apply-process-documents-and-fees-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:25 IST (iso: 2026-11-16T06:55:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/car-rc_293b91d2715f5d5658535f12ecef3064.jpeg?w=1200&dpr=1.0 -->
 
-दक्षिण भारत में चक्रवात के कारण भारी बारिश की संभावना बनी हुई है। उत्तर के पहाड़ी इलाकों में बर्फबारी के बाद ठंडी हवाएँ मैदानी क्षेत्रों तक पहुँच गई हैं। बदलेगा मौसम का मिजाज: दक्षिण में चक्रवात से बारिश की आशंका; पहाड़ों पर बर्फबारी से मैदान तक ठिठुरन बढ़ी।
+परिवहन पोर्टल पर ऑनलाइन आवेदन कर पुरानी कागजी RC को स्मार्ट कार्ड में बदला जा सकता है। बीमा, PUC और पुरानी RC बुक जमा करने होंगे। फीस राज्य के अनुसार अलग होती है। पुरानी कागजी RC को स्मार्ट कार्ड में बदलवाने का आवेदन परिवहन पोर्टल से ऑनलाइन शुरू होता है। आवेदन में बीमा की कॉपी, PUC और पुरानी RC बुक जैसे कागज लगते हैं।
 
-### [ठेकुआ की मिठास और पूजा का उल्लास, छठी मैया पूरी करें हर आस, अपनों को भेजें ये शुभकामना संदेश](https://www.amarujala.com/photo-gallery/spirituality/festivals/happy-chhath-puja-2026-wishes-quotes-wallpapers-status-in-hindi-2026-11-15)
-*Amar Ujala National* - Nov 16, 05:01 IST (iso: 2026-11-15T23:31:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/15/happy-chhath-puja-2026-wishes_ab2e1a8700d79343a612028b19104086.jpeg?w=1200&dpr=1.0 -->
+### [NCP विलय पर सुप्रिया सुले का बड़ा बयान! महाराष्ट्र में बढ़ी सियासी हलचल?](https://www.amarujala.com/video/india-news/ncp-merger-ncp-sharad-pawar-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:09 IST (iso: 2026-11-16T06:39:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/ncp_2e038bfe731fe2789e24024af57ae3b7.jpeg?w=1200&dpr=1.0 -->
 
-छठ महापर्व के अंतिम दिन उगते सूर्य को अर्घ्य देकर व्रत का पारण किया गया। पूजा के बाद घरों में ठेकुआ की मिठास और शुभकामनाओं का आदान-प्रदान हुआ। Happy Chhath Puja 2026 Wishes: छठ महापर्व के चौथे और अंतिम दिन उगते सूर्य को अर्घ्य देकर 36 घंटे के निर्जला व्रत का पारण किया जाता है। ठेकुआ की मिठास और पूजा का उल्लास, छठी मैया पूरी करें हर आस, अपनों को भेजें ये शुभकामना संदेश।
+सुप्रिया सुले ने एनसीपी विलय पर बड़ा बयान दिया। इससे महाराष्ट्र में राजनीतिक हलचल बढ़ी। शरद पवार से जुड़ी इस घटनाक्रम पर नजरें टिकी हैं। NCP Merger:NCP विलय पर सुप्रिया सुले का बड़ा बयान! महाराष्ट्र में बढ़ी सियासी हलचल?
 
-### [आज उगते सूर्य को अर्घ्य देंगे श्रद्धालु, चार दिवसीय अनुष्ठान पूरा होने पर मिलेगा ठेकुआ प्रसाद](https://www.amarujala.com/delhi-ncr/chhath-mahaparv-devotees-will-offer-arghya-to-the-rising-sun-today-2026-11-16)
-*Amar Ujala Breaking* - Nov 16, 03:31 IST (iso: 2026-11-15T22:01:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/1_49755a0aae21c96896394cd26b4edb27.jpeg?w=1200&dpr=1.0 -->
+### ['संभव से आपके क्या संबंध थे, आने को क्यों मना किया', 12 घंटे और 40 सवाल; युवती ने बताया न मिलने का](https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/kanpur-mystery-death-police-ask-woman-40-questions-in-12-hour-interrogation-2026-11-16)
+*Amar Ujala Breaking* - Nov 16, 12:02 IST (iso: 2026-11-16T06:32:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/kanpur-mystery-death_a1c583a7f5bf3723ae5880fea388550e.jpeg?w=1200&dpr=1.0 -->
 
-लगभग 36 घंटे के निर्जला व्रत के बाद श्रद्धालुओं ने उदयाचलगामी सूर्य को अर्घ्य दिया। चार दिवसीय अनुष्ठान के पूरा होने पर ठेकुआ प्रसाद वितरित किया गया। लगभग 36 घंटे का निर्जला व्रत रखने वाले श्रद्धालु आज उदयाचलगामी भगवान भास्कर को अर्घ्य देने के बाद अपना अनुष्ठान पूरा करेंगे। आज उगते सूर्य को अर्घ्य देंगे श्रद्धालु, चार दिवसीय अनुष्ठान पूरा होने पर मिलेगा ठेकुआ प्रसाद।
-
-### [TMC नेता कुणाल घोष ने भाजपा पर बोला तगड़ा हमला, लगाई गंभीर आरोपों की झड़ी!](https://www.amarujala.com/video/india-news/tmc-leader-kunal-ghosh-launched-a-fierce-attack-on-the-bjp-leveling-a-barrage-of-serious-allegations-2026-11-16)
-*Amar Ujala National* - Nov 16, 03:30 IST (iso: 2026-11-15T22:00:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/tmc_b9014c615273e080511900784617d0e1.jpeg?w=1200&dpr=1.0 -->
-
-टीएमसी नेता कुणाल घोष ने भाजपा पर गंभीर आरोप लगाए हैं। उन्होंने पार्टी की नीतियों और कार्रवाइयों को लेकर तीव्र हमला किया है। TMC नेता कुणाल घोष ने भाजपा पर बोला तगड़ा हमला, लगाई गंभीर आरोपों की झड़ी!
-
-### [शोरूम में बाल पकड़कर घसीटा, बेरहमी से पीटा...फिर गला रेता; हत्या आरोपी सूरज गिरफ्तार](https://www.amarujala.com/delhi-ncr/brutality-in-delhi-woman-dragged-by-her-hair-inside-a-showroom-beaten-mercilessly-then-her-throat-was-sli-2026-11-16)
-*Amar Ujala Breaking* - Nov 16, 03:19 IST (iso: 2026-11-15T21:49:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/1_8f3ab38054459a5e2e7f0068e1f53312.jpeg?w=1200&dpr=1.0 -->
-
-मोती नगर में शोरूम में काम करने वाली 19 वर्षीय शबनम की हत्या के आरोप में पुलिस ने सूरज को गिरफ्तार किया है। आरोपी उसकी बहन के देवर हैं। मोती नगर में कपड़ों के शोरूम में काम करने वाली 19 वर्षीय शबनम की हत्या के आरोप में पुलिस ने उसकी बहन के देवर सूरज को गिरफ्तार किया है।
+कानपुर के बिठूर में रुद्रा ग्रीन्स अपार्टमेंट की छठी मंजिल पर संभव की मौत हुई। पुलिस ने 12 घंटे तक 40 सवाल पूछे। युवती ने न मिलने का कारण बताया। कानपुर के बिठूर स्थित रुद्रा ग्रीन्स अपार्टमेंट की छठवीं मंजिल पर स्थित फ्लैट टी-टू, 6 ए में 50 मिनट में ऐसा क्या हुआ था संभव की हंसती-खेलती जिंदगी ने मौत की चादर ओढ़ ली।
 
 ---
 
-## मध्य पूर्व और अफ्रीका
+## एशिया-प्रशांत
 
-### [क्या नेतन्याहू के दफ्तर से चली गई चाल?: अरब पार्टी के कार्यकर्ताओं की गिरफ्तारी पर मचा बवाल; विवाद](https://www.amarujala.com/world/netanyahu-office-accused-of-election-interference-in-israel-2026-11-16)
-*Amar Ujala World* - Nov 16, 04:07 IST (iso: 2026-11-15T22:37:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/25/bjamana-natanayaha_e60680f1aeff736f91c7d36ae6a4f166.png?w=1200&dpr=1.0 -->
+### [पीएम विश्वकर्मा योजना से क्या आप जुड़ सकते हैं और क्या मिलते हैं लाभ? यहां जानें सबकुछ](https://www.amarujala.com/photo-gallery/utility/who-is-eligible-for-pm-vishwakarma-yojana-ke-liye-kaun-patar-hai-aur-kya-labh-milte-hain-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:40 IST (iso: 2026-11-16T07:10:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/paema-vashavakarama-yajana-ka-le-kana-patara-ha_c9276aa2f8115fd15144f652f129afb9.jpeg?w=1200&dpr=1.0 -->
 
-इज़राइल में अरब पार्टी के कार्यकर्ताओं की गिरफ्तारी ने चुनाव हस्तक्षेप का विवाद भड़का दिया है। विपक्ष ने नेतन्याहू के दफ्तर पर सीधा आरोप लगाया है। क्या नेतन्याहू के दफ्तर से चली गई चाल?: अरब पार्टी के कार्यकर्ताओं की गिरफ्तारी पर मचा बवाल; विवाद क्यों?
+भारत सरकार पीएम विश्वकर्मा योजना चला रही है। पात्र व्यक्ति इस योजना से जुड़कर कई लाभ प्राप्त कर सकते हैं। योजना का उद्देश्य शिल्पकारों और कारीगरों को सहायता प्रदान करना है। पीएम विश्वकर्मा योजना को भारत सरकार चलाती है जो लोग इस योजना के लिए पात्र होते हैं, वे इस योजना से जुड़कर कई लाभ प्राप्त कर सकते हैं। पीएम विश्वकर्मा योजना से क्या आप जुड़ सकते हैं और क्या मिलते हैं लाभ?
 
-### [कॉप-31 में भारत ने दुनिया को दिया साइकिल चलाने का संदेश; बहरीन में ईरान का मिसाइल हमला](https://www.amarujala.com/india-news/world-updates-cop-31-fit-india-west-asia-russia-ukraine-crisis-iran-bahrain-missile-yemen-houthi-strikes-news-2026-11-16)
-*Amar Ujala National* - Nov 16, 03:44 IST (iso: 2026-11-15T22:14:08+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0 -->
+### [सचिन तेंदुलकर के साथ मुंबई की गलियों में नजर आए प्रिंस विलियम, क्रिकेट का उठाया लुत्फ](https://www.amarujala.com/cricket/cricket-news/bat-ball-and-kulhad-chai-prince-william-and-princess-kate-s-mumbai-visit-with-sachin-tendulkar-2026-11-16)
+*Amar Ujala Breaking* - Nov 16, 12:40 IST (iso: 2026-11-16T07:10:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/sachin_d0f5c746d29db41d9f610ffc064f35af.jpeg?w=1200&dpr=1.0 -->
 
-बहरीन में ईरान ने मिसाइल हमला किया है। इसी दौरान कॉप-31 में भारत ने साइकिल चलाने के माध्यम से पर्यावरण संदेश दिया। वर्ल्ड अपडेट्स: कॉप-31 में भारत ने दुनिया को दिया साइकिल चलाने का संदेश; बहरीन में ईरान का मिसाइल हमला।
+प्रिंस विलियम और प्रिंसेस केट मुंबई की गलियों में सचिन तेंदुलकर के साथ नजर आए। तीनों ने गली क्रिकेट खेलकर समय बिताया। उन्होंने साथ में कुल्हड़ चाय भी पी। यह घटना सोमवार को हुई। भारतीय टीम के पूर्व दिग्गज बल्लेबाज सचिन तेंदुलकर सोमवार को मुंबई की सड़कों पर प्रिंस विलियम और प्रिंसेस केट के साथ नजर आए। इस दौरान इन्होंने साथ में गली क्रिकेट खेला और कुल्हड़ चाय का आनंद लिया।
 
-### [एक लाख ड्रोन, 500 उड़ते बम... ऑपरेशन सिंदूर में पड़ी ऐसी मार, अब तुर्की से ये हथियार खरीद रहा](https://hindi.news18.com/news/defence/after-operation-sindoor-air-strike-pakistan-now-buying-one-lakh-drones-500-loitering-munitions-from-turkey-10989428.html)
-*News18 Hindi (World)* - Nov 15, 23:43 IST (iso: 2026-11-15T18:13:52+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Operation-Sindoor-1-2026-11-e7f00295b5ca1a2cc3415c487a3637ec-1200x800.jpg -->
+### [‘मेरे खिलाफ कहीं भी कोई केस नहीं’, ललित मोदी का बड़ा दावा, भारत लौटने पर भी दिया बयान](https://www.patrika.com/world-news/lalit-modi-no-case-claim-extradition-vanuatu-passport-india-return-21055373)
+*Patrika (World)* - Nov 16, 12:32 IST (iso: 2026-11-16T07:02:01+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Lalit-Modi-Acquires-British-Citizenship-Announces-At-Oxford-Union-Rajasthan-RCA-Politics-Connection-1.webp -->
 
-पाकिस्तान ने तुर्की से करीब एक लाख MERKÜT FPV ड्रोन खरीदने का तीन साल का समझौता किया। इस डील में 500 लोइटरिंग म्यूनिशन और 250 ग्राउंड सिस्टम भी शामिल हैं। यह खरीदारी ऑपरेशन सिंदूर के बाद की गई है। Pakistan Turkey Defence Deal: ऑपरेशन सिंदूर में बुरी तरह मार खाने के बाद पाकिस्तान अब अपनी सेना को ड्रोन की ऐसी ताकत से लैस करने जा रहा है, जो आधुनिक युद्ध की तस्वीर बदल सकती है.
+आईपीएल संस्थापक ललित मोदी ने दावा किया कि उनके खिलाफ भारत में कोई केस दर्ज नहीं है। उन्होंने कहा कि प्रत्यर्पण का कोई अनुरोध लंबित नहीं है। मोदी ने अपने ब्रिटिश और वानुआतु पासपोर्ट के बारे में भी बात की। Lalit Modi: IPL के संस्थापक ललित मोदी ने अपने खिलाफ दर्ज मामलों और भारत से प्रत्यर्पण की मांग को लेकर बड़ा बयान दिया है।
 
-### [हूतियों ने इतने बम बरसाए, यमनी सेना अहम अड्डा छोड़ भाग निकली, बाब अल-मंदेब स्‍ट्रेट पर मंडराया खतरा](https://hindi.news18.com/world/middle-east-houthi-rebels-capture-strategic-kharaj-military-base-in-lahij-province-threatening-port-city-of-aden-amid-yemen-conflict-10989325.html)
-*News18 Hindi (World)* - Nov 15, 22:11 IST (iso: 2026-11-15T16:41:27+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/houthis-rebels-AP-2026-11-6fdc35456c454cb13e4ccfc58cd4514d-1200x800.jpg -->
+### [टाइगर के साथ वीडियो बनाना पड़ा भारी! हमले में 19 साल के युवक की मौत, मशहूर सोशल मीडिया इन्फ्लुएंसर](https://www.amarujala.com/bizarre-news/social-media-stunt-turns-deadly-19-year-old-killed-in-tiger-attack-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:31 IST (iso: 2026-11-16T07:01:19+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/taigara-ka-satha-vadaya-bnana-paugdha-bhara_1fbd73ac301514cf6d5e87e9fdb06d9a.jpeg?w=1200&dpr=1.0 -->
 
-यमन में हूती विद्रोहियों ने खराज सैन्य अड्डे पर कब्जा कर लिया। इससे अदन शहर और बाब अल-मंदेब स्ट्रेट की सुरक्षा को सीधा खतरा बना है। सऊदी समर्थित गठबंधन के भीतर मतभेद इस बढ़त को और मजबूत कर रहे हैं। यमन में हूती विद्रोहियों का संघर्ष खतरनाक रूप ले चुका है. खराज सैन्‍य अड्डे पर हुतियों ने कब्‍ज कर लिया है.
+लाहौर में वीडियो शूटिंग के दौरान बाघ के हमले में 19 वर्षीय ताहा की मौत हो गई। सोशल मीडिया इन्फ्लुएंसर नोमान हसन और फार्म मालिक फय्याज को पुलिस ने गिरफ्तार कर लिया है। पाकिस्तान के लाहौर में वीडियो शूटिंग के दौरान बाघ के हमले में 19 वर्षीय युवक ताहा की मौत हो गई। मामले में सोशल मीडिया इन्फ्लुएंसर नोमान हसन और फार्म मालिक फय्याज गिरफ्तार किए गए हैं।
 
-### [बाब अल-मन्देब स्ट्रेट के पास से हटी यमन की सेना, हूती विद्रोहियों ने फिर किया कब्ज़ा](https://www.patrika.com/world-news/yemen-government-forces-withdraw-from-area-near-bab-al-mandeb-strait-21054305)
-*Patrika (World)* - Nov 15, 21:51 IST (iso: 2026-11-15T16:21:04+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/bab-al-mandeb-strait.webp -->
+### [कांग्रेस ने सपा से मांगी ये 181 सीटें, लीक हुई लिस्ट; रायबरेली और अमेठी की सभी सीटों पर दावा](https://www.amarujala.com/lucknow/up-congress-demands-181-seats-from-sp-list-leaked-claims-all-seats-in-rae-bareli-and-amethi-2026-11-16)
+*Amar Ujala Breaking* - Nov 16, 12:27 IST (iso: 2026-11-16T06:57:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/yapa-kagarasa-ka-lsata-haii-lka_a2b67b1c6f0f4a71123e7fa20cd89c4d.jpeg?w=1200&dpr=1.0 -->
 
-हूती विद्रोहियों ने बाब अल-मंदेब स्ट्रेट के पास यमनी सेना के कब्जे वाले इलाकों पर फिर से नियंत्रण हासिल किया। दोनों पक्ष लगातार एक-दूसरे के ठिकानों पर हमले कर रहे हैं। यमनी सेना की पकड़ कमजोर होती दिख रही है। हूती विद्रोहियों (Houthis) और यमन (Yemen) की सरकारी सेना के बीच जंग जारी है। दोनों पक्ष एक-दूसरे के कब्ज़े वाले इलाकों पर अपना प्रभाव बढ़ाने के लिए हर संभव प्रयास कर रहे हैं।
+दिल्ली में कांग्रेस और सपा के बीच सीटों के बंटवारे की बैठक होनी है। लीक हुई सूची में कांग्रेस ने 181 सीटों पर दावा किया है, जिसमें रायबरेली और अमेठी शामिल हैं। कांग्रेस और सपा के सीटों के बंटवारे से जुड़ी एक अहम बैठक आज दिल्ली में होनी है। इस बीच एक सूची सामने आई है। इसमें वह सीट हैं जिसमें कांग्रेस ने लड़ने की इच्छा जताई है।
+
+### [अफेयर चलाकर कैसे एनवीडिया टीम को बहकाते रहे हुआंग, भारतवंशी अधिकारी से सरेआम बदतमीजी की घटना क्या?](https://www.amarujala.com/world/jensen-huang-resignation-nvidia-scandal-timeline-controversies-new-revealations-explainer-2026-11-16)
+*Amar Ujala Breaking* - Nov 16, 12:18 IST (iso: 2026-11-16T06:48:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/jensen-huang-nvidia-ceo_e28c0385fd45a1b52efc540450cac969.jpeg?w=1200&dpr=1.0 -->
+
+एनवीडिया के सीईओ जेनसन हुआंग ने कथित अफेयर्स और दफ्तर में दुर्व्यवहार के खुलासों के बाद इस्तीफा दे दिया। जासूसी विवाद और भारतवंशी अधिकारी से बदतमीजी के मामले भी सामने आए हैं। एनवीडिया के सीईओ जेनसन हुआंग ने कथित अफेयर्स, जासूसी विवाद और दफ्तर में दुर्व्यवहार के खुलासों के बाद इस्तीफा दिया। जानिए मामले से जुड़े सभी नए खुलासे। अफेयर चलाकर कैसे एनवीडिया टीम को बहकाते रहे हुआंग, भारतवंशी अधिकारी से सरेआम बदतमीजी की घटना क्या?
+
+### [थाईलैंड की कॉमर्शियल बिल्डिंग में लगी आग, जिंदा जले 11 लोग, रेस्क्यू जारी](https://hindi.news18.com/world/south-asia-massive-fire-in-phuket-resort-thailand-fire-killed-11-injuring-16-ws-l-10990196.html)
+*News18 Hindi (World)* - Nov 16, 12:18 IST (iso: 2026-11-16T06:48:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/phuket-fire-2026-11-48a9bc93c10eb9733e83bfa299bda50a-1200x800.jpg -->
+
+फुकेत की एक वाणिज्यिक इमारत में लगी आग में 11 लोगों की मौत हुई। 16 से अधिक लोग जख्मी हुए। आग आसपास की इमारतों में फैल गई। रेस्क्यू कार्य जारी है। Massive Fire in Phuket: थाइलैंड की कॉमर्शियल बिल्डिंग में लगी भयानक आग की वजह से 11 लोगों की मौत हो गई है, जबकि 16 से ज्यादा लोग जख्मी हैं.
+
+### [फिलिबेक के बयान पर सियासी घमासान: भाजपा का राहुल गांधी पर निशाना, कहा- भारत-विरोधी ताकतों को ला रहे](https://www.amarujala.com/india-news/bjp-calls-bharat-summit-anti-india-summit-accuses-rahul-gandhi-dead-economy-remark-giacomo-filibeck-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:12 IST (iso: 2026-11-16T06:42:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/gaurav-bhatia_a6a7f7526ccc1a14184e2194b5c99d33.jpeg?w=1200&dpr=1.0 -->
+
+फिलिबेक के बयान के बाद राजनीतिक विवाद बढ़ा। भाजपा ने राहुल गांधी पर निशाना साधा। पार्टी ने आरोप लगाया कि वे भारत-विरोधी ताकतों को एक साथ ला रहे हैं। फिलिबेक के बयान पर सियासी घमासान: भाजपा का राहुल गांधी पर निशाना, कहा- भारत-विरोधी ताकतों को ला रहे।
+
+### [ट्रंप के दौर में कमजोर हुआ क्वाड?: अमेरिकी अधिकारी ने मीडिया रिपोर्ट को बताया फेक न्यूज, क्या है](https://www.amarujala.com/world/did-quad-weaken-during-trump-era-us-official-dismisses-media-report-as-fake-news-what-the-story-2026-11-16)
+*Amar Ujala World* - Nov 16, 12:10 IST (iso: 2026-11-16T06:40:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/amaraka-rashhatarapata-danalda-tarapa_961a33d4321359b40a743d4e8b39b7ff.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी अधिकारी ने क्वाड की कमजोरी पर मीडिया रिपोर्ट को फेक न्यूज बताया। ट्रंप के कार्यकाल में समूह की स्थिति पर सवाल उठे थे। अधिकारी ने इन दावों को खारिज कर दिया। ट्रंप के दौर में कमजोर हुआ क्वाड?: अमेरिकी अधिकारी ने मीडिया रिपोर्ट को बताया फेक न्यूज, क्या है।
 
 ---
 
 ## यूरोप और रूस
 
-### [भारत पहुंचे बेलारूस के विदेश मंत्री: आज होगी अहम बैठक; व्यापार, तकनीक और संस्कृति में सहयोग बढ़ाने](https://www.amarujala.com/india-news/belarus-foreign-minister-maxim-ryzhenkov-india-visit-2026-11-16)
-*Amar Ujala Breaking* - Nov 16, 01:28 IST (iso: 2026-11-15T19:58:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/bharata-thara-para-blnprsa-ka-vathasha-matara_90c0d4b2a32ec19b7f8238e3dfe4439f.jpeg?w=1200&dpr=1.0 -->
+### [54 साल का फासला और प्यार के चर्चे; 82 वर्षीय मिशेल से जुड़ा विल स्मिथ के बेटे का नाम, क्या है सच?](https://www.amarujala.com/entertainment/actor-jaden-smith-dating-rumours-with-82-year-old-french-fashion-entrepreneur-michele-lamy-photos-viral-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:32 IST (iso: 2026-11-16T07:02:36+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/jadana-samatha-mashal-lma_217e65f012ea24d5bb9f3c023561beda.jpeg?w=1200&dpr=1.0 -->
 
-बेलारूस के विदेश मंत्री मैक्सिम रीजनोव भारत पहुंचे हैं। वे भारतीय विदेश मंत्री जितिन प्रसाद के साथ बैठक करेंगे। दोनों देशों के बीच द्विपक्षीय संबंधों पर चर्चा होगी। बेलारूस के विदेश मंत्री पहुंचे भारत: जितिन प्रसाद के साथ करेंगे अहम बैठक, क्या बातचीत होगी? भारत पहुंचे बेलारूस के विदेश मंत्री: आज होगी अहम बैठक; व्यापार, तकनीक और संस्कृति में सहयोग बढ़ाने पर जोर belarus foreign minister maxim ryzhenkov india visit।
+जेडेन स्मिथ का नाम 82 वर्षीय फ्रांसीसी फैशन उद्यमी मिशेल लैमी के साथ जोड़ा जा रहा है। दोनों के बीच 54 वर्ष का आयु अंतर है। यह दावा सोशल मीडिया पर वायरल हुआ है। Jaden Smith Dating Rumours: हॉलीवुड एक्टर जेडेन स्मिथ अपनी पर्सनल लाइफ को लेकर सुर्खियों में हैं। उनका नाम 82 वर्षीय फ्रांसीसी फैशन उद्यमी मिशेल लैमी के साथ जोड़ा जा रहा है।
+
+### [स्कूली बच्चों के साथ गली क्रिकेट खेलते नजर आए प्रिंस विलियम, सचिन तेंदुलकर भी रहे मौजूद; वीडियो](https://www.amarujala.com/india-news/sachin-tendulkar-and-the-british-royal-couple-played-street-cricket-with-schoolchildren-2026-11-16)
+*Amar Ujala National* - Nov 16, 12:23 IST (iso: 2026-11-16T06:53:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/parasa-valyama_866454636bbe06a09e2bb4a4bfcd2b2b.jpeg?w=1200&dpr=1.0 -->
+
+मुंबई में प्रिंस विलियम स्कूली बच्चों के साथ गली क्रिकेट खेलते दिखे। सचिन तेंदुलकर भी इस कार्यक्रम में मौजूद रहे। इस वीडियो ने सोशल मीडिया पर चर्चा का विषय बनाया है। स्कूली बच्चों के साथ गली क्रिकेट खेलते नजर आए प्रिंस विलियम, सचिन तेंदुलकर भी रहे मौजूद; वीडियो।
+
+### [सीडीएस सुब्रमणि ने भविष्य के युद्धों पर कही अहम बात, स्टारलिंक को लेकर भी दिया बयान](https://www.amarujala.com/india-news/cds-raja-subramani-ai-drones-satellite-intelligence-future-warfare-starlink-ukraine-space-self-reliance-india-2026-11-16)
+*Amar Ujala Breaking* - Nov 16, 11:43 IST (iso: 2026-11-16T06:13:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/cds-general-raja-subramani_3938f9d56693ce33fb98dc26b9b408f2.jpeg?w=1200&dpr=1.0 -->
+
+सीडीएस सुब्रमणि ने कहा कि भविष्य के युद्धों में कोई सुरक्षित नहीं है। उन्होंने स्टारलिंक और अंतरिक्ष बुनियादी ढांचे पर भारत की स्वतंत्रता की बात की। सीडीएस सुब्रमणि ने भविष्य के युद्धों पर कही अहम बात, स्टारलिंक को लेकर भी दिया बयान।
+
+### [पहाड़ों पर बर्फबारी से मैदानी इलाकों में बढ़ी ठंड: दिल्ली में एक्यूआई 400 के पार; अगले दो दिन कैसा](https://www.amarujala.com/india-news/snowfall-in-mountains-increased-cold-in-plains-delhi-air-turns-toxic-what-weather-be-like-over-next-2-days-2026-11-16)
+*Amar Ujala Breaking* - Nov 16, 11:36 IST (iso: 2026-11-16T06:06:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/masama_3c2cf5e4da1bd9feb6ccb5cdd2a37fcc.gif?w=1200&dpr=1.0 -->
+
+पहाड़ों में बर्फबारी से दिल्ली की ठंड बढ़ी। एक्यूआई 400 के पार चला गया। अगले दो दिन मौसम का हाल जानना जरूरी है। पहाड़ों पर बर्फबारी से मैदानी इलाकों में बढ़ी ठंड: दिल्ली में एक्यूआई 400 के पार; अगले दो दिन कैसा।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [मिनाब स्कूल हमले को लेकर ईरान ने दो अमरीकी नौसैन्य अधिकारियों को दी धमकी](https://www.patrika.com/world-news/iran-threatens-us-navy-officers-minab-school-strike-we-will-find-you-21055168)
+*Patrika (World)* - Nov 16, 12:16 IST (iso: 2026-11-16T06:46:50+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-20.webp -->
+
+ईरान ने दो अमेरिकी नौसेना अधिकारियों को मारने की धमकी दी। ईरान का दावा है कि इन दोनों ने मिनाब स्कूल पर हमला किया। उस हमले में 168 बच्चों की मौत हुई थी। ईरान ने दो अमेरिकी नौ सेना के अधिकारियों को जान से मारने की धमकी दी है। ईरान ने कहा है कि दोनों सैन्य अधिकारियों ने मिनाब स्कूल पर बम बरसाए थे।
+
+### [19 नवंबर को नजरें चीन पर, होने वाली है ट्रंप-पुतिन-जिनपिंग की महामुलाकात, वेन्यू भी तय, ईरान चुप](https://hindi.news18.com/world/china-china-confirms-three-way-summit-in-shenzhen-donald-trump-vladimir-putin-xi-jinping-dialogue-ws-l-10989890.html)
+*News18 Hindi (World)* - Nov 16, 11:47 IST (iso: 2026-11-16T06:17:28+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-Putin-Jinping-Meet-2026-11-bcce393e7a6a6e1c4092262908f37c08-1200x800.jpg -->
+
+चीन ने 19 नवंबर को शेनझेंग में ट्रंप, पुतिन और जिनपिंग की मुलाकात की पुष्टि की। तीनों नेता एक साथ बैठेंगे। ईरान इस मुद्दे पर चुप है। China Confirms Trump Putin Jinping Meet: दुनिया को जिस हाईप्रोफाइल मीटिंग का इंतजार था, उसके होने की आधिकारिक पुष्टि हो गई है. चीन ने जानकारी दी है कि अमेरिकी राष्ट्रपति, रूसी राष्ट्रपति और चीनी राष्ट्रपति की मुलाकात चीन के शेनझेंग शहर में आने वाले 19 नवंबर को होने वाली है.
+
+### ['पश्चिम एशिया के हर बड़े संघर्ष में ईरान की भूमिका': रूबियो बोले- तेहरान की विस्तारवादी मानसिकता](https://www.amarujala.com/world/us-state-secretary-marco-rubio-blames-iran-s-expansionist-mentality-for-conflicts-across-west-asia-2026-11-16)
+*Amar Ujala World* - Nov 16, 11:05 IST (iso: 2026-11-16T05:35:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/amaraka-vathasha-matara-maraka-nprbya_492f1f8b602e26691b77fddd51ab5e8e.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी विदेश मंत्री रूबियो ने ईरान की विस्तारवादी मानसिकता को पश्चिम एशिया के संघर्षों का कारण बताया। तेहरान की भूमिका को बड़ा खतरा माना गया। 'पश्चिम एशिया के हर बड़े संघर्ष में ईरान की भूमिका': रूबियो बोले- तेहरान की विस्तारवादी मानसिकता।
 
 ---
 
