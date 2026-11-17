@@ -1,56 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 17, 2026 06:41 IST
-
----
-
-## Asia-Pacific
-
-### [Taking leave, buying PS5s and getting their partners' approval: How Singapore gamers are preparing](https://www.channelnewsasia.com/living/gta-6-singapore-gamers-launch-grand-theft-auto-vi-6553211)
-*Channel News Asia* - Nov 17, 05:12 IST (iso: 2026-11-16T23:42:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s---eRYj5m---/c_crop,h_576,w_1024,x_0,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/16/gta_6_advertisement.jpg?itok=lqkt1mAr -->
-
-Grand Theft Auto VI launches in Singapore on 19 November, ending a thirteen year wait. Gamers are taking unpaid leave and purchasing new PlayStation 5 consoles. Many are also seeking partner approval for the extended gaming sessions. After a 13-year wait, Rockstar Games' Grand Theft Auto VI (GTA 6) launches on Thursday (Nov 19). From taking unpaid leave to buying new gaming setups, Singapore fans share how they're preparing for the big day.
-
-### [As Jakarta prepares for another flood season, hope and scepticism abound](https://www.channelnewsasia.com/asia/indonesia-jakarta-rainy-season-flood-defences-6530291)
-*Channel News Asia* - Nov 17, 03:30 IST (iso: 2026-11-16T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--YwnG1234--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/07/01/dji_0272.jpg?itok=mlalO0Aa -->
-
-Jakarta faces another flood season as Indonesia enters its rainy period in November. Residents question if new infrastructure can handle major disasters. Some rely on community efforts instead, citing constraints faced by local authorities. As much of Indonesia enters the rainy season in November, some Greater Jakarta residents wonder if new infrastructure can cope with a major disaster. Others are relying on community efforts in the face of authorities’ constraints.
-
-### [Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest](https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest)
-*The Guardian* - Nov 16, 16:42 IST (iso: 2026-11-16T11:12:44+00:00)
-<!-- image: https://i.guim.co.uk/img/media/aadbe462ac001cb187d32aae61cb263f228a36eb/340_0_3192_2554/master/3192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af1f38ee2104624948e23a84d5b90437 -->
-
-Eurovision organizers expressed surprise and disappointment after Malaysian broadcaster TV3 removed LGBTQ+ imagery from the first Eurovision Asia broadcast. The cuts included footage of Thai drag performers and a gay Philippine jury spokesperson. The European Broadcasting Union criticized the alteration of the original program content for the regional audience. Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokespersonEurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered when it was broadcast in Malaysia, apparently removing LGBTQ+ imagery and people from the show. The European Broadcasting Union (EBU), the alliance of public broadcasters that owns Eurovi.
-
-### [ASEAN is more supply-chain battleground than strategic bloc](https://asiatimes.com/2026/11/asean-is-more-supply-chain-battleground-than-strategic-bloc/)
-*Asia Times* - Nov 16, 13:14 IST (iso: 2026-11-16T07:44:37+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/04/ASEAN-Myanmar-Flags-e1619237071472.jpg -->
-
-The 49th ASEAN Summit in Manila highlights a shift from diplomatic rivalry to industrial competition. Washington and Beijing now compete to control critical supply chains for semiconductors, AI, and batteries. This economic contest is reshaping Southeast Asia’s political unity and strategic alignment. Manila’s 49th ASEAN Summit arrives as Southeast Asia’s economic weight grows and its political unity faces a harder test.
-
-### [China’s new missile shield rewrites Indo-Pacific escalation math](https://asiatimes.com/2026/11/chinas-new-missile-shield-rewrites-indo-pacific-escalation-math/)
-*Asia Times* - Nov 16, 08:53 IST (iso: 2026-11-16T03:23:57+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile-Shield.jpeg -->
-
-China conducted a live-fire missile interception exercise. The People’s Liberation Army demonstrated simultaneous interception of multiple targets. This shift aims to protect mainland leadership and the nuclear arsenal from US and Indian strikes. China’s latest live-fire missile interception exercise highlights a major doctrinal shift as the People’s Liberation Army (PLA) races to protect its mainland leadership, nuclear arsenal and growing aircraft carrier fleet from US precision strikes, Indian submarine-launched nuclear missiles and allied anti-ship networks.
-
-### [160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam)
-*The Guardian* - Nov 15, 14:26 IST (iso: 2026-11-15T08:56:11+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69 -->
-
-South Korea’s top scorer on the national tax accountant exam admitted sending photos of the 160‑question test to a generative‑AI tool, receiving answers that left only Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true.
+**Updated:** November 17, 2026 15:19 IST
 
 ---
 
 ## Middle East & Africa
 
-### [India and Egypt form working group to explore trade deal contours](https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece)
-*The Hindu (International)* - Nov 16, 22:46 IST (iso: 2026-11-16T17:16:42+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/cjdqcd/article71706918.ece/alternates/LANDSCAPE_1200/15th-PTI-IndiaGVLGQ7IHB.3.jpg.jpg -->
+### [China’s J-10C missile upgrade could become a Taiwan war trap](https://asiatimes.com/2026/11/chinas-j-10c-missile-upgrade-could-become-a-taiwan-war-trap/)
+*Asia Times* - Nov 17, 15:16 IST (iso: 2026-11-17T09:46:11+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-J-10C-Missile.jpeg -->
 
-India and Egypt agreed to form a Joint Working Group. They will explore terms for a Preferential Trade Agreement or Free Trade Agreement. The goal is to boost bilateral trade and improve market access. The two countries have decided to set up a Joint Working Group to explore the Terms of Reference for a PTA or FTA to facilitate stronger bilateral trade, improve access to both markets and promote investment linkages between the two countries.
+China's J-10C fighters now carry short-range air-to-surface missiles. This creates a tactical risk if Taiwan's air defenses survive initial strikes. Jets forced closer to target face higher loss rates. The vulnerability mirrors US experiences in Iran. China’s integration of upgraded short-range air-to-surface missiles onto its frontline fighters exposes a critical vulnerability in a Taiwan conflict: if Taiwan’s air defenses survive initial barrages and exhaust China’s long-range stockpiles, jets forced closer with shorter-range weapons risk severe losses, mirroring US experience in Iran.
+
+### [Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact](https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines)
+*The Guardian* - Nov 17, 12:07 IST (iso: 2026-11-17T06:37:35+00:00)
+<!-- image: https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98bde914dbf117c3bd0d35b745bde001 -->
+
+Hundreds were arrested in Manila during anti-Trump protests. Demonstrations were fueled by anger over the Iran war and a new AI pact. Organizers expect up to 10,000 people to join the next round. Trump is arriving for the Asean summit. Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summitAsean and Apec summits – live updatesHundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as authorities braced for more protests ahead of the US president’s arrival in the city for a leaders’ summit. Organisers cl.
 
 ### [Iranian Top Cleric Visits Bosnia As Tehran Seeks Opening To Europe](https://www.rferl.org/a/33899774.html)
 *Radio Free Europe / Liberty* - Nov 16, 22:39 IST (iso: 2026-11-16T17:09:18+00:00)
@@ -100,21 +66,49 @@ Afghan women seeking education in Iran and Pakistan face growing barriers. Restr
 
 Bahrain intercepted Iranian aerial attacks on November 15 after explosions and sirens sounded across the kingdom. The Islamic Revolutionary Guard Corps claimed the strike targeted a US military installation. Bahraini air defenses destroyed the incoming projectiles during the incident. Bahrain said its air defenses intercepted and destroyed several Iranian aerial attacks on November 15, after explosions and air raid sirens were reported across the Gulf kingdom and Iran's Islamic Revolutionary Guard Corps claimed it had targeted a US military installation.
 
+### [Fragile Gulf calm tested as threats to Hormuz shipping mount](https://news.un.org/feed/view/en/story/2026/11/1168804)
+*UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image560x340cropped.jpg -->
+
+The Gulf region remains tense nearly nine months after Israeli and US strikes on Iran. Iran has effectively closed the Strait of Hormuz, disrupting a fifth of global oil shipments. Rising attacks on shipping and failed diplomatic efforts to stop renewed fighting have prompted a UN Security Council meeting at Bahrain's request. Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge.
+
+---
+
+## Asia-Pacific
+
+### [Why is the US targeting Southeast Asia in its bid to curb China's access to AI chips?](https://www.channelnewsasia.com/asia/us-ai-chips-china-southeast-asia-data-centres-6558256)
+*Channel News Asia* - Nov 17, 14:18 IST (iso: 2026-11-17T08:48:21+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--jmvzDgS5--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/17/000_d6aq893.jpg?itok=Q0nfxdlz -->
+
+The US is tightening AI chip restrictions on Singapore, Malaysia, Indonesia, and Thailand. Washington aims to close loopholes used by Chinese firms. The move threatens the region's growing data center industry. Local tech sectors face new compliance hurdles. Singapore, Malaysia, Indonesia and Thailand face tighter US restrictions on advanced AI chips as Washington moves to close a loophole used by Chinese firms.
+
+### [Trump and Xi meet in Shenzhen with little left to trade](https://asiatimes.com/2026/11/trump-and-xi-meet-in-shenzhen-with-little-left-to-trade/)
+*Asia Times* - Nov 17, 10:45 IST (iso: 2026-11-17T05:15:56+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/US-China-Xi-Jinping-Donald-Trump.jpg -->
+
+Trump and Xi met in Shenzhen for the APEC summit. Technology policy is now a fixed national security arena, not a bargaining chip. Neither leader has significant concessions to offer. The meeting highlighted the rigid structure of current US-China relations. The November 18-19 APEC summit will reveal a fundamental shift in US-China relations: technology policy is no longer a flexible instrument of presidential bargaining, but an increasingly institutionalized arena of national security competition.
+
+### [Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine](https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png)
+*The Guardian* - Nov 17, 07:32 IST (iso: 2026-11-17T02:02:30+00:00)
+<!-- image: https://i.guim.co.uk/img/media/8b6e5cb5abf829af76f5ebcfe3c864c525dd5235/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99de90b13e32febaf815d94e98103671 -->
+
+Rio Tinto agreed to pay 250 million US dollars to start cleaning the toxic Panguna mine site. The Anglo-Australian miner abandoned the copper and gold operation over three decades ago. Community leaders say the fund offers a path to address long-standing environmental and social issues left behind by the mine. Community leader says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’Anglo-Australian miner Rio Tinto has agreed to pay a quarter-of-a-billion dollars to begin the clean-up of the toxic Panguna mine site it abandoned more than three decades ago. Panguna, once one of the world’s most profitable gold and copper mines, was shuttere.
+
+### [Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest](https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest)
+*The Guardian* - Nov 16, 16:42 IST (iso: 2026-11-16T11:12:44+00:00)
+<!-- image: https://i.guim.co.uk/img/media/aadbe462ac001cb187d32aae61cb263f228a36eb/340_0_3192_2554/master/3192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af1f38ee2104624948e23a84d5b90437 -->
+
+Eurovision organizers expressed surprise and disappointment after Malaysian broadcaster TV3 removed LGBTQ+ imagery from the first Eurovision Asia broadcast. The cuts included footage of Thai drag performers and a gay Philippine jury spokesperson. The European Broadcasting Union criticized the alteration of the original program content for the regional audience. Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokespersonEurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered when it was broadcast in Malaysia, apparently removing LGBTQ+ imagery and people from the show. The European Broadcasting Union (EBU), the alliance of public broadcasters that owns Eurovi.
+
 ---
 
 ## Europe & Russia
 
-### [Urgent climate finance pleas at COP31 face a non-urgent response](https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece)
-*The Hindu (International)* - Nov 16, 18:38 IST (iso: 2026-11-16T13:08:36+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/g8he2w/article71699615.ece/alternates/LANDSCAPE_1200/Climate_COP31_Turkey_47865.jpg -->
+### [China hoards Nvidia’s AI chips as US curbs remote access](https://asiatimes.com/2026/11/china-hoards-nvidias-ai-chips-as-us-curbs-remote-access/)
+*Asia Times* - Nov 17, 08:40 IST (iso: 2026-11-17T03:10:53+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Nvidia-H-20-Chip.jpg -->
 
-Western governments have deprioritized climate action as US President Trump withdrew international funding. Wars in Ukraine and West Asia have increased inflationary pressures. Security spending now competes with urgent climate finance pleas at COP31. Climate action has slipped down the political agenda for Western governments as U. S. President Donald Trump has withdrawn international funding, while wars in Ukraine and West Asia have added to inflationary ‌pressures and the need to spend on security.
-
-### [Beijing hails ‘groundbreaking significance’ of U.S., China, Russia summit in Shenzhen](https://www.thehindu.com/news/international/beijing-hails-groundbreaking-significance-of-us-china-russia-summit-in-shenzhen/article71707480.ece)
-*The Hindu (International)* - Nov 16, 17:19 IST (iso: 2026-11-16T11:49:02+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ad7ysk/article71707561.ece/alternates/LANDSCAPE_1200/Trump-to-raise-GSBGQ3RU2.3.jpg.jpg -->
-
-Beijing described the upcoming U. S., China, and Russia summit in Shenzhen as having groundbreaking significance. The agenda covers the Ukraine war, West Asia stability, and nuclear arms control. Officials suggest the meeting will be more symbolic than substantive, focusing on high-level diplomatic engagement rather than immediate policy shifts. The meeting is likely to be more symbolic than substantial. U. S. officials have indicated that the agenda is the war in Ukraine, the situation in West Asia, including stabilising global energy supplies, and nuclear arms control.
+Chinese companies are stockpiling Nvidia AI chips and overseas computing racks. Washington is closing export control loopholes and rallying allies. Fears of stricter smuggling regulations drive the rush. Jensen Huang's situation may accelerate new US legislation. Chinese companies are racing to stockpile Nvidia’s artificial intelligence (AI) chips and secure computing racks overseas as Washington closes loopholes in its export controls and rallies allies to guard sensitive technologies.
 
 ### [Trump to embark on Asia trip in apparent foreign policy push before end of term](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy)
 *The Guardian* - Nov 16, 16:30 IST (iso: 2026-11-16T11:00:58+00:00)
@@ -175,6 +169,12 @@ Anastacio Martínez Gómez, 73, farms in southwestern Honduras where the Dry Cor
 <!-- image: https://gdb.rferl.org/7544f38d-fe89-413d-e780-08df13afe2a0_cx0_cy10_cw0_w1200_h630.jpg -->
 
 Central Asian governments are pursuing AI hub status while critics highlight financing gaps and reliance on fossil fuels. The region faces transparency issues amid long-standing corruption concerns. These structural weaknesses threaten the viability of their digital infrastructure plans. Across Central Asia, governments are racing to become the next global AI hub. Yet critics are flagging shaky financing, over reliance on dirty power, and a lack of transparency in a region long plagued by corruption.
+
+### [Gideon Rachman on the Risk of World War III](https://www.crisisgroup.org/pod/global/gideon-rachman-risk-world-war-iii)
+*International Crisis Group* - Nov 13, 21:02 IST (iso: 2026-11-13T15:32:00+00:00)
+<!-- image: https://images.pexels.com/photos/6963677/pexels-photo-6963677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Gideon Rachman, chief foreign affairs commentator at the Financial Times, discussed his new book War Is Interested in You. He spoke with Richard about the risks of current conflicts escalating into a global war. The conversation explored whether today's geopolitical tensions could spin out of control into a wider confrontation. In this episode of Hold Your Fire!, Richard speaks with Gideon Rachman, chief foreign affairs commentator at the Financial Times about his new book, “War Is Interested in You”, and whether today’s conflicts could spin into a global war.
 
 ---
 
