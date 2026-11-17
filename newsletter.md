@@ -1,6 +1,46 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 16, 2026 23:04 IST
+**Updated:** November 17, 2026 06:41 IST
+
+---
+
+## Asia-Pacific
+
+### [Taking leave, buying PS5s and getting their partners' approval: How Singapore gamers are preparing](https://www.channelnewsasia.com/living/gta-6-singapore-gamers-launch-grand-theft-auto-vi-6553211)
+*Channel News Asia* - Nov 17, 05:12 IST (iso: 2026-11-16T23:42:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s---eRYj5m---/c_crop,h_576,w_1024,x_0,y_42/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/16/gta_6_advertisement.jpg?itok=lqkt1mAr -->
+
+Grand Theft Auto VI launches in Singapore on 19 November, ending a thirteen year wait. Gamers are taking unpaid leave and purchasing new PlayStation 5 consoles. Many are also seeking partner approval for the extended gaming sessions. After a 13-year wait, Rockstar Games' Grand Theft Auto VI (GTA 6) launches on Thursday (Nov 19). From taking unpaid leave to buying new gaming setups, Singapore fans share how they're preparing for the big day.
+
+### [As Jakarta prepares for another flood season, hope and scepticism abound](https://www.channelnewsasia.com/asia/indonesia-jakarta-rainy-season-flood-defences-6530291)
+*Channel News Asia* - Nov 17, 03:30 IST (iso: 2026-11-16T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--YwnG1234--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/07/01/dji_0272.jpg?itok=mlalO0Aa -->
+
+Jakarta faces another flood season as Indonesia enters its rainy period in November. Residents question if new infrastructure can handle major disasters. Some rely on community efforts instead, citing constraints faced by local authorities. As much of Indonesia enters the rainy season in November, some Greater Jakarta residents wonder if new infrastructure can cope with a major disaster. Others are relying on community efforts in the face of authorities’ constraints.
+
+### [Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest](https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest)
+*The Guardian* - Nov 16, 16:42 IST (iso: 2026-11-16T11:12:44+00:00)
+<!-- image: https://i.guim.co.uk/img/media/aadbe462ac001cb187d32aae61cb263f228a36eb/340_0_3192_2554/master/3192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af1f38ee2104624948e23a84d5b90437 -->
+
+Eurovision organizers expressed surprise and disappointment after Malaysian broadcaster TV3 removed LGBTQ+ imagery from the first Eurovision Asia broadcast. The cuts included footage of Thai drag performers and a gay Philippine jury spokesperson. The European Broadcasting Union criticized the alteration of the original program content for the regional audience. Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokespersonEurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered when it was broadcast in Malaysia, apparently removing LGBTQ+ imagery and people from the show. The European Broadcasting Union (EBU), the alliance of public broadcasters that owns Eurovi.
+
+### [ASEAN is more supply-chain battleground than strategic bloc](https://asiatimes.com/2026/11/asean-is-more-supply-chain-battleground-than-strategic-bloc/)
+*Asia Times* - Nov 16, 13:14 IST (iso: 2026-11-16T07:44:37+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2021/04/ASEAN-Myanmar-Flags-e1619237071472.jpg -->
+
+The 49th ASEAN Summit in Manila highlights a shift from diplomatic rivalry to industrial competition. Washington and Beijing now compete to control critical supply chains for semiconductors, AI, and batteries. This economic contest is reshaping Southeast Asia’s political unity and strategic alignment. Manila’s 49th ASEAN Summit arrives as Southeast Asia’s economic weight grows and its political unity faces a harder test.
+
+### [China’s new missile shield rewrites Indo-Pacific escalation math](https://asiatimes.com/2026/11/chinas-new-missile-shield-rewrites-indo-pacific-escalation-math/)
+*Asia Times* - Nov 16, 08:53 IST (iso: 2026-11-16T03:23:57+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile-Shield.jpeg -->
+
+China conducted a live-fire missile interception exercise. The People’s Liberation Army demonstrated simultaneous interception of multiple targets. This shift aims to protect mainland leadership and the nuclear arsenal from US and Indian strikes. China’s latest live-fire missile interception exercise highlights a major doctrinal shift as the People’s Liberation Army (PLA) races to protect its mainland leadership, nuclear arsenal and growing aircraft carrier fleet from US precision strikes, Indian submarine-launched nuclear missiles and allied anti-ship networks.
+
+### [160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam)
+*The Guardian* - Nov 15, 14:26 IST (iso: 2026-11-15T08:56:11+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0345763b40006ab93f3b552b4bf8de69 -->
+
+South Korea’s top scorer on the national tax accountant exam admitted sending photos of the 160‑question test to a generative‑AI tool, receiving answers that left only Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true.
 
 ---
 
@@ -12,7 +52,7 @@
 
 India and Egypt agreed to form a Joint Working Group. They will explore terms for a Preferential Trade Agreement or Free Trade Agreement. The goal is to boost bilateral trade and improve market access. The two countries have decided to set up a Joint Working Group to explore the Terms of Reference for a PTA or FTA to facilitate stronger bilateral trade, improve access to both markets and promote investment linkages between the two countries.
 
-### [Senior Iranian Cleric Visits Bosnia, As Tehran Cultivates A European Connection](https://www.rferl.org/a/33899774.html)
+### [Iranian Top Cleric Visits Bosnia As Tehran Seeks Opening To Europe](https://www.rferl.org/a/33899774.html)
 *Radio Free Europe / Liberty* - Nov 16, 22:39 IST (iso: 2026-11-16T17:09:18+00:00)
 <!-- image: https://gdb.rferl.org/bcbcf74d-d2c3-43b5-e617-08de3c642a37_w1200_h630.jpg -->
 
@@ -30,17 +70,17 @@ Jensen Huang resigned as Nvidia CEO following revelations of an affair with an a
 
 Tehran's youth face rising costs and police crackdowns on cafes and street gatherings. The economy remains battered by war and fears of renewed fighting. These pressures make socializing increasingly difficult for young people in the capital. With an economy battered by war and fears of renewed fighting, life in Iran’s capital keeps getting tighter. Add a crackdown on the cafes and street gatherings where young people socialize, and Tehran feels like it’s closing in on its youth.
 
+### [Progress ‘real’ but fragile, as remnants of war wreck young lives](https://news.un.org/feed/view/en/story/2026/11/1168814)
+*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/syria-chemicalweapons-1498841400.jpg/image770x420cropped.jpg -->
+
+Syria shows undeniable signs of progress two years after the Assad regime fell. Senior UN officials warn that explosive ordnance and winter threaten these gains. Severe funding shortfalls also complicate recovery efforts for young lives. Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.
+
 ### [At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar](https://news.un.org/feed/view/en/story/2026/11/1168809)
 *UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/15-11-2026_SG-ASEANSummit.jpg/image770x420cropped.jpg -->
 
 António Guterres urged stronger cooperation with ASEAN and an end to the Myanmar crisis during his final summit in Manila. The UN Secretary-General addressed regional leaders on Monday, emphasizing the need for collective action to resolve the ongoing humanitarian and political situation in Southeast Asia. UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, in remarks to regional leaders meeting in the Philippine capital Manila on Monday.
-
-### [Toward a new global AI chip order](https://asiatimes.com/2026/11/toward-a-new-global-ai-chip-order/)
-*Asia Times* - Nov 16, 07:42 IST (iso: 2026-11-16T02:12:26+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-AI-Chips.jpg -->
-
-Jensen Huang resigned as Nvidia’s chief executive. The move turned a corporate scandal into a geopolitical crisis. Nvidia’s graphics processing units are critical to the global technology supply chain. Jensen Huang’s resignation as Nvidia’s chief executive has transformed a corporate scandal into an emerging geopolitical crisis for the world’s most valuable technology supply chain. Yet the political consequences may endure long after the personal details.
 
 ### [Empowering faith and Indigenous leaders to combat hate](https://news.un.org/feed/view/en/story/2026/11/1168808)
 *UN News* - Nov 15, 17:30 IST (iso: 2026-11-15T12:00:00+00:00)
@@ -60,33 +100,9 @@ Afghan women seeking education in Iran and Pakistan face growing barriers. Restr
 
 Bahrain intercepted Iranian aerial attacks on November 15 after explosions and sirens sounded across the kingdom. The Islamic Revolutionary Guard Corps claimed the strike targeted a US military installation. Bahraini air defenses destroyed the incoming projectiles during the incident. Bahrain said its air defenses intercepted and destroyed several Iranian aerial attacks on November 15, after explosions and air raid sirens were reported across the Gulf kingdom and Iran's Islamic Revolutionary Guard Corps claimed it had targeted a US military installation.
 
-### [One Tehran Street Becomes Battleground Over Personal Freedom](https://www.rferl.org/a/iran-tehran-iranshahr-street-youth-women-dress/33897781.html)
-*Radio Free Europe / Liberty* - Nov 14, 17:39 IST (iso: 2026-11-14T12:09:18+00:00)
-<!-- image: https://gdb.rferl.org/13c8274a-96fd-49ba-2cb3-08df3eea91f6_w1200_h630.jpg -->
-
-Tehran's Iranshahr Street has become a gathering spot for young Iranians seeking personal freedom. It has also emerged as a flashpoint in a growing confrontation between authorities and Generation Z members. Tehran's Iranshahr Street has become a popular gathering place for young Iranians seeking to express themselves freely. But as Radio Farda's Hannah Kaviani explains, it has also emerged as a flashpoint in a growing confrontation between authorities and members of Iran's Generation Z.
-
-### [Fragile Gulf calm tested as threats to Hormuz shipping mount](https://news.un.org/feed/view/en/story/2026/11/1168804)
-*UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image560x340cropped.jpg -->
-
-The Gulf region remains tense nearly nine months after strikes on Iran. Iran has effectively closed the Strait of Hormuz to shipping. Attacks on vessels are increasing in frequency. The Security Council is meeting at Bahrain’s request to discuss the situation. Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge.
-
-### [Unrest fuelled by armed groups holds back response](https://news.un.org/feed/view/en/story/2026/11/1168797)
-*UN News* - Nov 13, 17:30 IST (iso: 2026-11-13T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/27-10-2026_WHO_DRC_Ebola_Survivor.jpg/image560x340cropped.jpg -->
-
-Armed groups in the Democratic Republic of the Congo are obstructing Ebola response efforts. They continue attacking civilians and health workers. These disruptions hinder containment measures. UN responders reported the ongoing violence on Friday. The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.
-
 ---
 
 ## Europe & Russia
-
-### [Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China](https://www.theguardian.com/world/2026/nov/16/xi-jinping-donald-trump-vladimir-putin-world-peace-trilateral-says-china)
-*The Guardian* - Nov 16, 19:59 IST (iso: 2026-11-16T14:29:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/1ed1c93d730d4466d6341a132b8d2b1761b7b08f/937_0_4862_3888/master/4862.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=704bd0f8fc6b6538ffe5164c02c9deb5 -->
-
-China confirmed that Xi Jinping, Donald Trump, and Vladimir Putin will meet in Shenzhen this week. The foreign ministry stated the trilateral talks will cover safeguarding world peace. Beijing did not specify other agenda items for the first meeting of its kind. Beijing stops short of confirming specific agenda items, but many hope world’s three biggest nuclear powers will talk about denuclearisation The meeting of Xi Jinping, Donald Trump and Vladimir Putin in Shenzhen this week will cover topics of “groundbreaking significance” including “safeguarding world peace”, the Chinese foreign ministry has said. The confirmation of Thursday’s first-of-their-kind.
 
 ### [Urgent climate finance pleas at COP31 face a non-urgent response](https://www.thehindu.com/sci-tech/energy-and-environment/urgent-climate-finance-pleas-at-cop31-face-a-non-urgent-response/article71699520.ece)
 *The Hindu (International)* - Nov 16, 18:38 IST (iso: 2026-11-16T13:08:36+00:00)
@@ -120,35 +136,23 @@ Ukraine reports that Starshield restrictions remain widespread. These limits ham
 
 ---
 
-## Asia-Pacific
+## Global / Multilateral
 
-### [Eurovision organisers criticise Malaysian removal of LGBT+ footage in first Asian contest](https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest)
-*The Guardian* - Nov 16, 16:42 IST (iso: 2026-11-16T11:12:44+00:00)
-<!-- image: https://i.guim.co.uk/img/media/aadbe462ac001cb187d32aae61cb263f228a36eb/340_0_3192_2554/master/3192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af1f38ee2104624948e23a84d5b90437 -->
+### [‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering](https://news.un.org/feed/view/en/story/2026/11/1168819)
+*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/03/26806/image770x420cropped.jpg -->
 
-Eurovision organizers expressed surprise and disappointment after Malaysian broadcaster TV3 removed LGBTQ+ imagery from the first Eurovision Asia broadcast. The cuts included footage of Thai drag performers and a gay Philippine jury spokesperson. The European Broadcasting Union criticized the alteration of the original program content for the regional audience. Broadcaster TV3 appears to cut footage of Thai drag performers and gay Philippine jury spokespersonEurovision’s organisers have said they are “surprised and disappointed” that the first Eurovision Asia was altered when it was broadcast in Malaysia, apparently removing LGBTQ+ imagery and people from the show. The European Broadcasting Union (EBU), the alliance of public broadcasters that owns Eurovi.
-
-### [Opinion | Sonia Gandhi, And The Weight Of The Things Left Unsaid](https://www.ndtv.com/opinion/things-said-and-unsaid-and-sonia-gandhi-12332698#publisher=newsstand)
-*NDTV World* - Nov 16, 13:39 IST (iso: 2026-11-16T08:09:19+00:00)
-<!-- image: https://i.ndtvimg.com/i/2017-05/sonia-gandhi-650_650x400_61494233694.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720 -->
-
-Sonia Gandhi navigates the persistent gap between her actual identity and public perception in India. A recent reflection highlights how decades of political life have forced her to manage the weight of assumptions others hold about her. The tension between reality and reputation remains a defining feature of her public role. "You must know, Sonia beti, that in this country it is not what you are that counts, it is what people think you to be," someone said to Sonia Gandhi when she first arrived in India.
-
-### [ASEAN is more supply-chain battleground than strategic bloc](https://asiatimes.com/2026/11/asean-is-more-supply-chain-battleground-than-strategic-bloc/)
-*Asia Times* - Nov 16, 13:14 IST (iso: 2026-11-16T07:44:37+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2021/04/ASEAN-Myanmar-Flags-e1619237071472.jpg -->
-
-The 49th ASEAN Summit in Manila highlights a shift from diplomatic rivalry to industrial competition. Washington and Beijing now compete to control critical supply chains for semiconductors, AI, and batteries. This economic contest is reshaping Southeast Asia’s political unity and strategic alignment. Manila’s 49th ASEAN Summit arrives as Southeast Asia’s economic weight grows and its political unity faces a harder test.
-
-### [China’s new missile shield rewrites Indo-Pacific escalation math](https://asiatimes.com/2026/11/chinas-new-missile-shield-rewrites-indo-pacific-escalation-math/)
-*Asia Times* - Nov 16, 08:53 IST (iso: 2026-11-16T03:23:57+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Missile-Shield.jpeg -->
-
-China conducted a live-fire missile interception exercise. The People’s Liberation Army demonstrated simultaneous interception of multiple targets. This shift aims to protect mainland leadership and the nuclear arsenal from US and Indian strikes. China’s latest live-fire missile interception exercise highlights a major doctrinal shift as the People’s Liberation Army (PLA) races to protect its mainland leadership, nuclear arsenal and growing aircraft carrier fleet from US precision strikes, Indian submarine-launched nuclear missiles and allied anti-ship networks.
+The World Health Organization reported that superbug plans have doubled globally. However, few countries are actually delivering on these commitments. Major gaps in testing and treatment leave billions of people at continued risk. More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on Monday.
 
 ---
 
 ## Americas
+
+### [COP31 enters decisive week as climate talks face political test and AI initiatives gather pace](https://news.un.org/feed/view/en/story/2026/11/1168812)
+*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_01.jpg/image770x420cropped.jpg -->
+
+COP31 enters its decisive week with new AI and green industrialization initiatives. Negotiators remain deadlocked on finance, fossil fuels, and adaptation. The UN talks face a significant political test in their final stretch. New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.
 
 ### [Delaware hit by rare November tornado](https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado)
 *The Guardian* - Nov 16, 14:57 IST (iso: 2026-11-16T09:27:06+00:00)
@@ -158,7 +162,7 @@ An EF1 tornado struck the Salem Woods neighbourhood in Delaware on Thursday, rea
 
 ### [Preparing for drought in Central America](https://news.un.org/feed/view/en/story/2026/11/1168776)
 *UN News* - Nov 14, 17:30 IST (iso: 2026-11-14T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Graphics%20Library/2026/11/Anastacio-WFPHonduras-1.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Graphics%20Library/2026/11/Anastacio-WFPHonduras-1.jpg/image560x340cropped.jpg -->
 
 Anastacio Martínez Gómez, 73, farms in southwestern Honduras where the Dry Corridor’s unpredictable rains dictate survival. His decades of experience cannot fully offset the region’s intensifying drought cycles. Across Central America, farming families face shrinking yields as seasonal patterns grow erratic. The corridor’s climate volatility now outpaces traditional agricultural knowledge. Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains.
 

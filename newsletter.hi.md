@@ -1,10 +1,132 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 16, 2026 23:04 IST
+**अपडेट:** November 17, 2026 06:41 IST
+
+---
+
+## दुनिया
+
+### [चक्रवात अक्वान के कारण बदली नौसेना के बड़े अभ्यास की तारीख, कब होगा सी विजिल-2026 का आयोजन?](https://www.amarujala.com/india-news/cyclone-akvan-impact-indian-navy-reschedules-sea-vigil-2026-maritime-security-exercise-to-november-25-26-2026-11-17)
+*Amar Ujala National* - Nov 17, 06:36 IST (iso: 2026-11-17T01:06:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/cakaravata-akavana-ka-karanae-bthal-nasana-ka-abhayasa-ka-tarakha_b1b3979f30f7b64bbd85f6ccca31c1b8.jpeg?w=1200&dpr=1.0 -->
+
+चक्रवात अक्वान के कारण नौसेना ने सी विजिल-2026 की तारीख बदल दी है। अभ्यास का नया समय अभी तय नहीं हुआ है। मौसम की स्थिति को देखते हुए यह निर्णय लिया गया। समुद्री सुरक्षा: चक्रवात अक्वान के कारण बदली नौसेना के बड़े अभ्यास की तारीख, कब होगा सी विजिल-2026 का आयोजन?
+
+### [छठ पूजा पर कल्याण बनर्जी ने दिया विवादित बयान, भड़की भाजपा ने TMC को खूब सुनाया!](https://www.amarujala.com/video/india-news/kalyan-banerjee-made-a-controversial-statement-on-chhath-puja-an-incensed-bjp-lashed-out-at-the-tmc-2026-11-17)
+*Amar Ujala National* - Nov 17, 06:30 IST (iso: 2026-11-17T01:00:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/chhath-pooja-2026_fb4fbac78115ec42eba9a86493497787.jpeg?w=1200&dpr=1.0 -->
+
+कल्याण बनर्जी ने छठ पूजा पर विवादित बयान दिया। भाजपा ने तृणमूल कांग्रेस पर तीखी प्रतिक्रिया व्यक्त की। राजनीतिक विरोध तेज हो गया। छठ पूजा पर कल्याण बनर्जी ने दिया विवादित बयान, भड़की भाजपा ने TMC को खूब सुनाया!
+
+### [सर्राफा बाजार का गुणा-गणित कैसे समझें: सोने-चांदी के भाव में अचानक गिरावट क्यों, निवेशकों को क्या](https://www.amarujala.com/business/bonus/how-to-make-sense-of-bullion-market-why-sudden-drop-in-gold-and-silver-prices-what-should-investors-do-2026-11-17)
+*Amar Ujala National* - Nov 17, 06:29 IST (iso: 2026-11-17T00:59:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/30/gold-silver-price_eb0c3d39927ea018aedd308037dc1592.jpeg?w=1200&dpr=1.0 -->
+
+सोने और चांदी के भाव में अचानक गिरावट आई है। निवेशकों को बाजार की स्थिति पर नजर रखनी चाहिए। मूल्य निर्धारण में बदलाव देखा गया। सर्राफा बाजार का गुणा-गणित कैसे समझें: सोने-चांदी के भाव में अचानक गिरावट क्यों, निवेशकों को क्या करना चाहिए?
+
+### [सीटों पर मंथन जारी, कांग्रेस ने गठित की प्रियंका गांधी समेत पांच नेताओं की समिति](https://www.amarujala.com/delhi-ncr/up-assembly-elections-deliberations-on-seat-allocation-continue-congress-forms-a-committee-comprising-five-lea-2026-11-17)
+*Amar Ujala Breaking* - Nov 17, 06:05 IST (iso: 2026-11-17T00:35:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/sata-btavara-para-mathana_2015abdf492db39fa1290f3a61969b51.jpeg?w=1200&dpr=1.0 -->
+
+कांग्रेस ने सीटों के बंटवारे के लिए पांच सदस्यीय समिति बनाई। प्रियंका गांधी समेत ये नेता सपा से बात करेंगे। मांग केवल अच्छे प्रदर्शन वाली सीटों की होगी। कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे के घर पर सोमवार को हुई एक अहम बैठक में कांग्रेस ने साफ किया कि वह सपा से केवल उन्हीं सीटों की मांग करेगी, जहां पिछले विधानसभा चुनाव में उसका प्रदर्शन अच्छा था।
+
+### [Weather Forecast 17 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-17-november-2026-check-the-weather-conditions-in-your-area-weather-report-today-2026-11-17)
+*Amar Ujala National* - Nov 17, 06:00 IST (iso: 2026-11-17T00:30:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/weather-forecast_d92b5fa7d8e4266b99936ff0d16e2516.jpeg?w=1200&dpr=1.0 -->
+
+17 नवंबर 2026 के लिए मौसम का पूर्वानुमान जारी हुआ। विभिन्न शहरों में तापमान और बारिश की संभावनाओं का विवरण दिया गया। स्थानीय स्थिति के अनुसार तैयारी की सलाह दी गई।
+
+### [सामूहिक दुष्कर्म के आरोपों से घिरी कॉर्नेल यूनिवर्सिटी: फ्रैटर्निटी सिस्टम की समीक्षा तय, सात](https://www.amarujala.com/world/cornell-university-faces-henious-crime-allegations-announces-review-of-fraternity-system-7-students-accused-2026-11-17)
+*Amar Ujala World* - Nov 17, 04:37 IST (iso: 2026-11-16T23:07:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/amaraka-ka-paratashhathata-yanavarasata-ma-samahaka-thashhakarama-ka-mamal_60d9b9418725b981fa6c3b47092af59f.jpeg?w=1200&dpr=1.0 -->
+
+कॉर्नेल यूनिवर्सिटी पर सामूहिक दुष्कर्म के आरोप लगे हैं। सात छात्रों पर आरोप लगने के बाद फ्रैटर्निटी सिस्टम की समीक्षा तय हुई। सामूहिक दुष्कर्म के आरोपों से घिरी कॉर्नेल यूनिवर्सिटी: फ्रैटर्निटी सिस्टम की होगी समीक्षा, सात छात्रों पर आरो। सामूहिक दुष्कर्म के आरोपों से घिरी कॉर्नेल यूनिवर्सिटी: फ्रैटर्निटी सिस्टम की समीक्षा तय, सात।
+
+### [तीर्थयात्रियों की संख्या ने बनाया रिकॉर्ड, पहली बार 65.55 लाख से अधिक श्रद्धालु पहुंचे](https://www.amarujala.com/dehradun/char-dham-yatra-2026-concludes-record-over-65-lakh-devotees-arrive-for-first-time-2026-11-17)
+*Amar Ujala Breaking* - Nov 17, 01:54 IST (iso: 2026-11-16T20:24:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/15/carathhama-yatara_3ed0d88d7909dc6beb2c0280031b4e99.jpeg?w=1200&dpr=1.0 -->
+
+चारधाम यात्रा में 65.55 लाख से अधिक श्रद्धालु पहुंचे, जो नया रिकॉर्ड है। पिछले वर्ष 51 लाख और 2023 में 56 लाख श्रद्धालु दर्ज हुए थे। इस बार संख्या में उल्लेखनीय वृद्धि दर्ज की गई। चारधाम यात्रा में तीर्थयात्रियों की संख्या ने नया रिकॉर्ड बनाया गया। पिछले वर्ष की तुलना में इस बार 65.55 लाख से अधिक तीर्थयात्रियों ने दर्शन किए।
+
+### [CJP ने बढ़ाया संगठन, 2 नए जोनल प्रभारी, 09 राज्यों में समन्वय समिति सदस्यों की जारी की लिस्ट](https://www.abplive.com/news/india/cockroach-janata-party-expands-organization-2-new-zonal-incharges-members-for-coordination-committees-in-9-states-3215736)
+*ABP Live (India)* - Nov 16, 23:40 IST (iso: 2026-11-16T18:10:13+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/16/930fb4456af5ed7b6581b5fca155a00a17948511533311484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+कॉकरोच जनता पार्टी ने दो नए जोनल प्रभारी नियुक्त किए। उत्तर और उत्तर पूर्व क्षेत्रों के लिए समन्वय समिति सदस्यों की सूची जारी हुई। नौ राज्यों के लिए राज्य स्तरीय सदस्यों के नाम भी घोषित किए गए। कॉकरोच जनता पार्टी ने अपने नए संगठन सदस्यों का ऐलान कर दिया है. कॉकरोच जनता पार्टी ने अपने सोशल मीडिया प्लेटफॉर्म पर इसकी जानकारी दी है.
+
+### [तेलंगाना में गहराते जल संकट पर BRS का CM रेवंत पर हमला, 'भगवान की कसम खाकर CM ने तोड़े वादे'](https://www.abplive.com/news/india/brs-attacks-cm-revanth-over-deepening-water-crisis-in-telangana-cm-broke-his-promises-despite-swearing-by-god-ann-3215739)
+*ABP Live (India)* - Nov 16, 23:35 IST (iso: 2026-11-16T18:05:41+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/16/7d25ed7e454de82d64a4839f20569ecd17948521104811484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+तेलंगाना में जल संकट को लेकर बीआरएस नेता हरीश राव ने मुख्यमंत्री रेवंत रेड्डी पर हमला किया। उन्होंने आरोप लगाया कि रेड्डी ने भगवान की कसम खाकर किए वादे तोड़े। इससे राज्य में सूखे जैसे हालात पैदा हुए हैं। तेलंगाना में राजनीतिक सरगर्मी बढ़ने के बीच, BRS नेता हरीश राव ने मुख्यमंत्री रेवंत रेड्डी पर तीखा हमला बोला और राज्य में सूखे जैसे हालात के लिए उन्हें जिम्मेदार ठहराया.
+
+### [कांग्रेस का 5 चुनावी राज्यों में स्क्रीनिंग कमेटी का ऐलान, UP में अजय माकन को बड़ी जिम्मेदारी](https://www.abplive.com/elections/congress-announces-screening-committee-for-5-elections-states-ajay-maken-given-responsibility-in-up-3215715)
+*ABP Live (India)* - Nov 16, 21:27 IST (iso: 2026-11-16T15:57:51+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/16/5b33fb83ce9cffc33e39a184fc08984b17948446618891368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+कांग्रेस ने पांच चुनावी राज्यों के लिए स्क्रीनिंग कमेटियों का ऐलान किया। उत्तर प्रदेश में अजय माकन को बड़ी जिम्मेदारी सौंपी गई। राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगोस ने इसकी घोषणा की। देश के पांच राज्यों में होने वाले विधानसभा चुनावों के लिए कांग्रेस पार्टी ने सोमवार (16 नवंबर) को अपने स्क्रीनिंग कमेटियों का ऐलान कर दिया है और पार्टी के वरिष्ठ नेता अजय माकन को उत्तर प्रदेश में बड़ी जिम्मेदारी सौंपी गई है.
+
+---
+
+## वैश्विक / बहुपक्षीय
+
+### [हरियाणा एटीएस ने दो इनामी बदमाश दबोचे, कैलिफोर्निया पहुंच रहा हवाला का पैसा](https://www.amarujala.com/chandigarh/panchkula-club-firing-case-haryana-ats-nabs-two-wanted-criminals-hawala-funds-being-routed-to-california-2026-11-17)
+*Amar Ujala Breaking* - Nov 17, 06:26 IST (iso: 2026-11-17T00:56:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/pacakal-kalb-fayaraga-kasa_7746583740d78ffb3d8b9f7ef9324a59.jpeg?w=1200&dpr=1.0 -->
+
+हरियाणा एटीएस ने दो इनामी बदमाशों को गिरफ्तार किया। वे कैलिफोर्निया में छिपे सरगना से संपर्क में थे। टेरर फंडिंग की गतिविधियां रोकने का प्रयास किया गया। बलविंद्र अंतरराष्ट्रीय नार्को-टेरर नेटवर्क चलाने वाले गैंग का सदस्य है। वह कैलिफोर्निया में छिपे सरगना के संपर्क में था और हरियाणा-पंजाब में टेरर फंडिंग की नींव मजबूत कर रहा था। हरियाणा एटीएस ने दो इनामी बदमाश दबोचे, कैलिफोर्निया पहुंच रहा हवाला का पैसा।
 
 ---
 
 ## एशिया-प्रशांत
+
+### [नेपाल और भूटान को आधुनिक टोल तकनीक देगा भारत, जरूरत क्यों, वाहन चालकों को क्या लाभ मिलेगा?](https://www.amarujala.com/business/bonus/india-to-provide-modern-toll-technology-to-nepal-and-bhutan-know-need-and-benefits-to-motorists-2026-11-17)
+*Amar Ujala National* - Nov 17, 06:23 IST (iso: 2026-11-17T00:53:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/04/toll-tax-toll-plaza-fastag_e2f6e1655ffc2f72fa76794e80835e73.jpeg?w=1200&dpr=1.0 -->
+
+भारत नेपाल और भूटान को आधुनिक टोल तकनीक देगा। इससे वाहन चालकों को लाभ मिलेगा। सीमा पार यातायात में सुधार होगा। पड़ोसी की मदद: नेपाल और भूटान को आधुनिक टोल तकनीक देगा भारत, जरूरत क्यों, वाहन चालकों को क्या लाभ मिलेगा?
+
+### [अनंत अनादि वडनगर सम्मान पाने वाला भारत का इकलौता संग्रहालय, खासियत क्या?](https://www.amarujala.com/india-news/red-dot-award-anant-anadi-vadnagar-india-s-only-museum-to-receive-honor-germany-berlin-special-hall-know-2026-11-17)
+*Amar Ujala National* - Nov 17, 06:08 IST (iso: 2026-11-17T00:38:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/bralna-jaramana-ka-garata-hal_fe966fef503f84cdfbb1de1e11a833ee.jpeg?w=1200&dpr=1.0 -->
+
+अनंत अनादि वडनगर संग्रहालय को रेड डॉट अवार्ड मिला। यह भारत का पहला ऐसा संग्रहालय है। इसकी खासियत विशिष्ट डिजाइन और प्रदर्शनी है। रेड डॉट अवार्ड: अनंत अनादि वडनगर सम्मान पाने वाला भारत का इकलौता संग्रहालय, खासियत क्या?
+
+### [भारत खरीदेगा 1000 विमान; ट्रंप ने मैक्सिको को टैरिफ की धमकी दी; दिल्ली आ सकते हैं नेपाल के पीएम](https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-17-november-2026-updates-on-amar-ujala-news-in-hindi-2026-11-17)
+*Amar Ujala National* - Nov 17, 05:51 IST (iso: 2026-11-17T00:21:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/17/aaja-ka-bugdha-khabra_b9b5228f75b63a2f193f5a591e50a079.jpeg?w=1200&dpr=1.0 -->
+
+भारत 1000 विमान खरीदने की योजना बना रहा है। ट्रंप ने मैक्सिको को टैरिफ की धमकी दी। नेपाल के प्रधानमंत्री दिल्ली दौरे की संभावना है।
+
+### [पहली बार पायलट के साथ उड़ा चीन का इलेक्ट्रिक विमान, आखिर क्या है बैटरी वाले हवाई जहाज की तकनीक?](https://www.amarujala.com/india-news/china-s-19-seater-electric-plane-completes-first-pilot-flight-know-how-does-it-work-2026-11-16)
+*Amar Ujala National* - Nov 17, 05:39 IST (iso: 2026-11-17T00:09:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/electric-airplane_47f1b8035df6a8a061570c5bac674b74.jpeg?w=1200&dpr=1.0 -->
+
+चीन ने 19 यात्रियों के लिए डिज़ाइन किए गए इलेक्ट्रिक विमान की पहली पायलट टेस्ट फ्लाइट सफलतापूर्वक पूरी की। यह बैटरी से चलने वाला हवाई जहाज है। चीन ने 19 यात्रियों की क्षमता वाले इलेक्ट्रिक विमान की पहली पायलट टेस्ट फ्लाइट पूरी कर ली है। आखिर बैटरी से चलने वाला यह विमान कैसे उड़ता है? पहली बार पायलट के साथ उड़ा चीन का इलेक्ट्रिक विमान, आखिर क्या है बैटरी वाले हवाई जहाज की तकनीक?
+
+### [पीएम मोदी आसियान-भारत शिखर सम्मेलन में होंगे शामिल, एसआईआर मामले में सुप्रीम कोर्ट में सुनवाई](https://www.amarujala.com/india-news/17-november-2026-major-event-2026-11-16)
+*Amar Ujala National* - Nov 17, 05:39 IST (iso: 2026-11-17T00:09:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/aaja-ka-khabra_5b269d1d92d09803c2bcb79158fd0f56.gif?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री नरेंद्र मोदी आसियान-भारत शिखर सम्मेलन में भाग लेंगे। इसी दिन सुप्रीम कोर्ट में एसआईआर मामले की सुनवाई होगी। नमस्कार! आज है मंगलवार, 17 नवंबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं पीएम मोदी आसियान-भारत शिखर सम्मेलन में होंगे शामिल, एसआईआर मामले में सुप्रीम कोर्ट में सुनवाई।
+
+### [दिल्ली का औसत एक्यूआई 275 दर्ज, सिरीफोर्ट में 424 के पार; आज से बढ़ेगा प्रदूषण](https://www.amarujala.com/delhi-ncr/trouble-returns-after-a-brief-respite-delhi-average-aqi-recorded-at-275-crossing-424-in-siri-fort-pollution-se-2026-11-17)
+*Amar Ujala Breaking* - Nov 17, 04:49 IST (iso: 2026-11-16T23:19:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/thall-hava-kharab_f635765f32a87bb0fe56e18a2a232e68.jpeg?w=1200&dpr=1.0 -->
+
+दिल्ली का औसत एक्यूआई 275 दर्ज हुआ। सिरीफोर्ट में यह स्तर 424 के पार चला गया। पीएम 2.5 प्रमुख प्रदूषक रहा। प्रदूषण में सूक्ष्म कण पीएम 2.5 की प्रमुख भूमिका रही। 48 निगरानी केंद्रों पर यह प्रमुख प्रदूषक दर्ज किया गया, जबकि 10 केंद्रों पर पीएम 10 का प्रभाव अधिक रहा। सिरीफोर्ट के बाद पंजाबी बाग और पूसा में एक्यूआई 363 दर्ज किया गया।
+
+### [चटगांव से ढाका जेल भेजे गए संत चिन्मय दास; चीन यात्रा पर किम जोंग से मिल सकते हैं ट्रंप](https://www.amarujala.com/world/world-updates-bangladesh-chinmoy-das-jail-change-west-asia-russia-ukraine-crisis-pak-china-politics-crime-news-2026-11-17)
+*Amar Ujala World* - Nov 17, 02:06 IST (iso: 2026-11-16T20:36:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_ada29d0698ac05730f42b55e98101cbe.jpeg?w=1200&dpr=1.0 -->
+
+संत चिन्मय दास को चटगांव से ढाका जेल में भेजा गया। ट्रंप की चीन यात्रा के दौरान किम जोंग से मुलाकात की संभावना बनी हुई है। दोनों घटनाएं अलग-अलग क्षेत्रों में हुईं। वर्ल्ड अपडेट्स: चटगांव से ढाका जेल भेजे गए संत चिन्मय दास; चीन यात्रा पर किम जोंग से मिल सकते हैं ट्रंप।
+
+### [छठ पर अभिषेक बनर्जी की टिप्पणी पर चिराग पासवान का पलटवार, 'ये वही लोग हैं जो...'](https://www.abplive.com/news/india/chirag-paswan-attacks-abhishek-banerjee-over-his-remarks-on-chhath-puja-3215639)
+*ABP Live (India)* - Nov 16, 22:45 IST (iso: 2026-11-16T17:15:40+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/16/579d4d407af00bc9aad082d6a2147fca17948329163621126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+छठ पर अभिषेक बनर्जी के बयान पर चिराग पासवान ने पलटवार किया। उन्होंने कहा कि क्षेत्रवाद की राजनीति करने वाले नेताओं ने भारत का सबसे ज्यादा नुकसान किया है। पासवान ने इन नेताओं को ब्रांड भारत के विरोधी बताया। ममता बनर्जी के नेतृत्व वाले TMC सांसद अभिषेक बनर्जी के छठ महापर्व को लेकर दिए बयान पर केंद्रीय मंत्री चिराग पासवान ने पलटवार किया है.
 
 ### ['शायद जिंदा न लौट सकूं...', इमरान खान ने जजों से लगाई गुहार, लिखा चेतावनी भरा पत्र](https://www.abplive.com/news/world/i-might-not-return-alive-ex-pm-imran-khan-letter-to-pakistan-judges-3215676)
 *ABP Live (World)* - Nov 16, 21:18 IST (iso: 2026-11-16T15:48:30+00:00)
@@ -12,165 +134,47 @@
 
 पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान ने जेल से जजों को पत्र भेजा। उन्होंने अपनी जान को खतरा बताया और सही इलाज न मिलने का आरोप लगाया। खान का दावा है कि उनकी दाईं आंख की 85 प्रतिशत रोशनी चली गई है। पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान ने अपनी जान को खतरा बताया है. उन्होंने जेल से इसको लेकर चेतावनी जारी की है.
 
-### [PM मोदी को संस्कृत श्लोक सुनाते दिखे फिलीपींस के बच्चे, प्रधानमंत्री ने शेयर किया वीडियो](https://www.abplive.com/news/world/pm-narendra-modi-visit-philippines-children-welcome-recite-sanskrit-mantras-3215669)
-*ABP Live (World)* - Nov 16, 21:10 IST (iso: 2026-11-16T15:40:36+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/16/1176740f29a49d54f6b0597fbbe2507e17948460981091324_original.png?impolicy=abp_cdn&imwidth=1200 -->
-
-फिलीपींस के मनीला में आसियान शिखर सम्मेलन के दौरान पीएम मोदी का स्वागत हुआ। स्थानीय स्कूल के बच्चों ने संस्कृत के पूर्ण कुंभ श्लोक और नारायण सूक्तम का पाठ कर उन्हें अभिवादन किया। प्रधानमंत्री ने इस वीडियो को सोशल मीडिया पर साझा किया। प्रधानमंत्री नरेंद्र मोदी फिलीपींस दौरे पर मनीला पहुंचे. जहां उनका भव्य स्वागत किया गया. इस दौरान फिलीपींस के बच्चों ने पीएम नरेंद्र मोदी का संस्कृत के मंत्र बोलकर स्वागत किया.
-
-### [पीएम मोदी का अंदाज तो देखिए, फिलीपींस में पहनी 'बारोंग तागालोग' ड्रेस, खास ऑटो में पहुंचे गाला डिनर](https://hindi.news18.com/world/south-asia-pm-modi-grand-welcome-in-manila-wore-philippines-barong-tagalog-dress-reached-gala-dinner-in-special-auto-rickshaw-see-pics-photogallery-10991386.html)
-*News18 Hindi (World)* - Nov 16, 19:41 IST (iso: 2026-11-16T14:11:58+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/PM-Modi-Manila-2026-11-f6f9b9045e24aa90a1126ff90a8645a3-1200x800.jpg -->
-
-फिलीपींस के राष्ट्रपति फर्डिनेंड मार्कोस ने मनीला में पीएम मोदी के सम्मान में गाला डिनर आयोजित किया। मोदी ने पारंपरिक पोशाक बारोंग तागालोग पहनी और खास ऑटो रिक्शा में कार्यक्रम में पहुंचे। भारतीय समुदाय ने भी उनका जोरदार स्वागत किया। PM Modi Manila Visit: प्रधानमंत्री नरेंद्र मोदी के फिलीपींस दौरे की शुरुआत बेहद खास अंदाज में हुई. मनीला में राष्ट्रपति फर्डिनेंड मार्कोस ने उनके सम्मान में खास डिनर आयोजित किया.
-
-### [भारतीय व्यापारिक जहाजों के लिए सुरक्षा कवच: होर्मुज के पास नौसेना की तैनाती पर स्थिति साफ](https://www.patrika.com/world-news/navy-chief-admiral-swaminathan-explains-ship-deployment-near-strait-of-hormuz-21056751)
-*Patrika (World)* - Nov 16, 18:19 IST (iso: 2026-11-16T12:49:49+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Indian-Navy-Chief-Admiral-Krishna-Swaminathan.webp -->
-
-नौसेना प्रमुख एडमिरल कृष्ण स्वामीनाथन ने होर्मुज जलडमरूमध्य में जहाजों की तैनाती का कारण बताया। इसका उद्देश्य भारतीय व्यापारिक जहाजों को सुरक्षा प्रदान करना है। जरूरत पड़ने पर इन जहाजों को युद्ध क्षेत्र से सुरक्षित निकाला जाएगा। Indian Navy deployment: नौसेना प्रमुख एडमिरल कृष्ण स्वामीनाथन ने सोमवार को बताया कि भारतीय नौसेना के जहाजों को होर्मुज जलडमरूमध्य (Strait of Hormuz) के पास क्यों तैनात किया गया है।
-
-### [मनीला एयरपोर्ट पर पीएम का भव्य स्वागत, लगे भारत माता की जय और मोदी-मोदी के नारे](https://hindi.news18.com/news/nation/pm-modi-grand-welcome-at-manila-airport-chants-of-bharat-mata-ki-jai-and-modi-modi-heard-ws-l-10991209.html)
-*News18 Hindi (World)* - Nov 16, 18:13 IST (iso: 2026-11-16T12:43:18+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pm-modi-39-2026-11-c4fc254e9593f99b3adee95920f5e4c0-1200x800.jpg -->
-
-प्रधानमंत्री नरेंद्र मोदी आसियान-भारत शिखर सम्मेलन के लिए मनीला पहुंचे। हवाई अड्डे पर भारतीय समुदाय ने उनका जोरदार स्वागत किया। भीड़ ने भारत माता की जय और मोदी के नारे लगाए। यह भव्य استقبال क्षेत्रीय राजनीतिक सहयोग के संदर्भ में देखा गया। प्रधानमंत्री नरेंद्र मोदी आसियान-भारत और पूर्वी एशिया शिखर सम्मेलन में हिस्सा लेने फिलीपींस की राजधानी मनीला पहुंच गए हैं.
-
-### ['जिंदा वापस नहीं लौट पाऊंगा…', जेल में बंद इमरान खान को सता रहा डर, आंख की सर्जरी के बाद 22 घंटे की](https://hindi.news18.com/world/pakistan-imran-khan-writes-open-letter-to-pakistani-courts-from-adiala-jail-over-deteriorating-health-and-bushra-bibi-eyesight-10990967.html)
-*News18 Hindi (World)* - Nov 16, 16:38 IST (iso: 2026-11-16T11:08:07+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Imran_khan_Bushra-2026-11-187ba7ba443b4dea58b1b2334f06c5aa-1200x800.jpg -->
-
-पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान ने अदियाला जेल से मुख्य न्यायाधीशों को पत्र लिखा। एकांत कारावास में उनकी दाहिनी आंख की 85 फीसदी रोशनी गई है। ब्लड प्रेशर 193 तक पहुंचने से ब्रेन हैमरेज का खतरा बना हुआ है। पाकिस्तान के पूर्व प्रधानमंत्री इमरान खान ने अदियाला जेल से शीर्ष अदालतों के मुख्य न्यायाधीशों को खुला पत्र लिखा है.
-
-### [अमेरिका में घटी भारतीय छात्रों की संख्या, विदेशी छात्रों का आना 15 फीसदी हुआ कम](https://hindi.news18.com/world/america-number-of-indian-students-reduce-in-united-states-including-other-nationals-ws-l-10990749.html)
-*News18 Hindi (World)* - Nov 16, 14:57 IST (iso: 2026-11-16T09:27:15+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/us-universty-2026-11-50b43d52506177d99370e186bbd8bd69-1200x800.jpg -->
-
-ट्रंप प्रशासन की कड़ी आव्रजन नीतियों का असर अमेरिकी विश्वविद्यालयों पर दिखने लगा है। विदेशी छात्रों की संख्या लगातार घट रही है। पहली बार पढ़ाई के लिए आने वाले नए छात्रों में 15 फीसदी की कमी दर्ज हुई है। Indian Students Number Reduce in US: ट्रंप प्रशासन की आव्रजन संबंधी कड़ी नीतियों का प्रभाव अब दिखने लगा है. यहां तक कि पहली बार पढ़ाई के लिए अमेरिका आने वाले नए छात्र 15 फीसदी तक कम हो गए हैं.
-
-### [सुबह-सुबह डोलने लगी धरती, आधी नींद में घर छोड़कर भागे लोग, 5 तीव्रता के भूकंप से मची चीख-पुकार](https://hindi.news18.com/world/south-asia-earthquake-in-afghanistan-hit-by-5-magnitude-early-morning-people-in-shock-10989527.html)
-*News18 Hindi (World)* - Nov 16, 14:41 IST (iso: 2026-11-16T09:11:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Earthquake-2026-11-de7fcb443a0b89e82dd78da710834a6c-1200x800.jpg -->
-
-अफगानिस्तान में 5.1 मैग्नीट्यूड के भूकंप ने कई इलाकों को हिला दिया। सुबह के समय हुए इस झटके के बाद लोग घरों से बाहर भागे। पड़ोसी पाकिस्तान और भारत के लिए यह घटना चिंता का विषय बनी हुई है। Earthquake in Afghanistan: सुबह-सुबह पाकिस्तान के पड़ोसी देश और भारत के दोस्त अफगानिस्तान के घर में धरती कांप गई. खबरों के मुताबिक 5.1 मैग्नीट्यूड के भूकंप ने इस देश के कई इलाकों को हिला दिया, जिसके बाद लोग अपने घरों से निकलकर बाहर भागने लगे.
-
-### [बांग्लादेश में फिर छिड़ा घमासान, गोपालगंज बना छावनी, हटाए गए एसी-डीएपी, तैनात हुई सेना](https://hindi.news18.com/world/south-asia-bangladesh-factory-workers-protest-for-wage-border-gaurd-deployed-10990328.html)
-*News18 Hindi (World)* - Nov 16, 13:32 IST (iso: 2026-11-16T08:02:34+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-news-2026-11-f5fb729a63a44cb5d66f23e88632bafd-1200x800.jpg -->
-
-बांग्लादेश में वेतन बढ़ाने की मांग को लेकर कामगारों का प्रदर्शन उग्र हो गया। प्रशासन ने गोपालगंज को छावनी में तब्दील कर दिया है। एसी-डीएपी को हटाकर सेना तैनात की गई है। Bangladesh Protest: बांग्लादेश में एक बार फिर से बवाल मचा हुआ है. यहां पर इस बार छात्र नहीं बल्कि कामगार सड़कों पर हैं. वेतन बढ़ाने की मांग को लेकर चल रहा प्रदर्शन अब उग्र हो रहा है और प्रशासन ने प्रभावित इलाकों को करीब-करीब छावनी में तब्दील कर दिया है.
-
-### [‘ट्रंप के नेतृत्व में और मजबूत हुआ Quad’: कमजोर पड़ने की रिपोर्ट पर अमेरिका का दो टूक जवाब](https://www.patrika.com/world-news/us-denies-quad-alliance-weakening-under-trump-ahead-of-manila-summit-21055543)
-*Patrika (World)* - Nov 16, 13:20 IST (iso: 2026-11-16T07:50:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump-12.webp -->
-
-अमेरिका ने क्वाड के कमजोर पड़ने की खबरों को फेक न्यूज करार दिया। वरिष्ठ अधिकारी ने कहा कि ट्रंप के नेतृत्व में समूह और मजबूत हुआ है। यह बयान मनीला बैठक से पहले आया। वाशिंगटन। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के कार्यकाल में भारत, अमेरिका, जापान और ऑस्ट्रेलिया के रणनीतिक समूह क्वाड (Quad) के कमजोर पड़ने की अटकलों को अमेरिका ने खारिज कर दिया है।
-
-### [‘मेरे खिलाफ कहीं भी कोई केस नहीं’, ललित मोदी का बड़ा दावा, भारत लौटने पर भी दिया बयान](https://www.patrika.com/world-news/lalit-modi-no-case-claim-extradition-vanuatu-passport-india-return-21055373)
-*Patrika (World)* - Nov 16, 13:19 IST (iso: 2026-11-16T07:49:39+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Lalit-Modi-Case.webp -->
-
-आईपीएल संस्थापक ललित मोदी ने दावा किया कि उनके खिलाफ भारत में कोई केस दर्ज नहीं है। उन्होंने कहा कि प्रत्यर्पण का कोई अनुरोध लंबित नहीं है। मोदी ने अपने ब्रिटिश और वानुआतु पासपोर्ट के बारे में भी बात की। Lalit Modi: IPL के संस्थापक ललित मोदी ने अपने खिलाफ दर्ज मामलों और भारत से प्रत्यर्पण की मांग को लेकर बड़ा बयान दिया है।
-
-### [अमेरिकी एआई कंपनियों को देंगे नेशनल चैंपियन का दर्जा, चीन की चुनौती से निपटने की है तैयारी](https://www.amarujala.com/world/trump-administration-nvidia-microsoft-openai-two-dozen-ai-national-champions-china-challenge-2026-11-16)
-*Amar Ujala World* - Nov 16, 12:57 IST (iso: 2026-11-16T07:27:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/16/donald-trump-ai_6d921a640834691e992a239182bd03e0.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप प्रशासन चीन की चुनौती का मुकाबला करने के लिए अमेरिकी एआई कंपनियों को नेशनल चैंपियन का दर्जा देने की तैयारी कर रहा है। इस पहल में नवीडिया, माइक्रोसॉफ्ट और ओपनएआई समेत लगभग दो दर्जन कंपनियों को शामिल किया जाएगा। अमेरिकी एआई कंपनियों को देंगे नेशनल चैंपियन का दर्जा, चीन की चुनौती से निपटने की है तैयारी।
-
-### [थाईलैंड की कॉमर्शियल बिल्डिंग में लगी आग, जिंदा जले 11 लोग, रेस्क्यू जारी](https://hindi.news18.com/world/south-asia-massive-fire-in-phuket-resort-thailand-fire-killed-11-injuring-16-ws-l-10990196.html)
-*News18 Hindi (World)* - Nov 16, 12:18 IST (iso: 2026-11-16T06:48:14+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/phuket-fire-2026-11-48a9bc93c10eb9733e83bfa299bda50a-1200x800.jpg -->
-
-फुकेत की एक वाणिज्यिक इमारत में लगी आग में 11 लोगों की मौत हुई। 16 से अधिक लोग जख्मी हुए। आग आसपास की इमारतों में फैल गई। रेस्क्यू कार्य जारी है। Massive Fire in Phuket: थाइलैंड की कॉमर्शियल बिल्डिंग में लगी भयानक आग की वजह से 11 लोगों की मौत हो गई है, जबकि 16 से ज्यादा लोग जख्मी हैं.
-
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [‘ईरान को है पाकिस्तान पर भरोसा’, अमेरिका से डील में पाकिस्तानी कोशिशों पर अब्बास अराघची ने कह दी](https://www.patrika.com/world-news/abbas-araghchi-says-iran-trusts-pakistan-efforts-to-mediate-with-us-21056939)
-*Patrika (World)* - Nov 16, 20:55 IST (iso: 2026-11-16T15:25:57+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp -->
+### [कहीं गोलियों से छलनी कार तो कहीं झोपड़ी में मिले शव, एक साथ 17 मर्डर से सनसनी, पुलिस खाली हाथ](https://hindi.news18.com/world/rest-of-world-south-africa-mass-shooting-17-people-killed-police-start-investigation-10991792.html)
+*News18 Hindi (World)* - Nov 17, 06:03 IST (iso: 2026-11-17T00:33:12+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/south-africa-firing-2026-11-f2bd6f1616943a168b93142dfb57cbc9-1200x800.jpg -->
 
-ईरानी विदेश मंत्री अब्बास अराघची ने कहा कि ईरान पाकिस्तान पर भरोसा करता है। अमेरिका से चल रही बातचीत में पाकिस्तानी मध्यस्थता की कोशिशों का इस्तेमाल किया जा रहा है। दोनों देशों के बीच हालिया हमलों के बाद तनाव बना हुआ है। दोनों देशों में किसी डील पर सहमति नहीं बन पा रही है। पिछले कुछ दिनों में दोनों देशों ने एक-दूसरे के ठिकानों पर फिर हमले किए, जिससे स्थिति और गंभीर हो गई है।
+दक्षिण अफ्रीका में एक दिन में 17 लोग मारे गए। पीटरमैरिट्जबर्ग में कार से 8 शव निकले। प्रिटोरिया के पास झोपड़ी में 9 लोग मारे गए। पुलिस अभी तक आरोपियों को नहीं पकड़ पाई। दक्षिण अफ्रीका में एक ही दिन गोलीबारी की दो घटनाओं में 17 लोगों की मौत हो गई. पीटरमैरिट्जबर्ग में वाहन के अंदर 8 शव मिले, जबकि प्रिटोरिया के पास झोपड़ी में 9 लोगों की हत्या कर दी गई.
 
-### [आसिम मुनीर के लिए बर्बादी का साल बन रहा 2026, इस्लामिक NATO का सपना चूर, ट्रंप से लेकर सऊदी तक लगा](https://hindi.news18.com/world/pakistan-2026-turning-into-nightmare-for-asim-munir-got-setbacks-from-us-to-saudi-arabia-as-gcc-army-command-shattered-islamic-nato-plan-10990996.html)
-*News18 Hindi (World)* - Nov 16, 18:09 IST (iso: 2026-11-16T12:39:36+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Asim-Munir-Shahbaz-Sharif-2026-11-88faa36f337c5001e35374d619691b50-1200x800.jpg -->
+### [इस्राइल ने 40 साल तक खोजा अपना पायलट, ईरानी जनरल का अपहरण कर की हत्या](https://www.amarujala.com/world/israel-secret-operations-across-three-countries-to-find-missing-pilot-ron-arad-two-iranian-generals-kidnapped-2026-11-17)
+*Amar Ujala Breaking* - Nov 17, 04:58 IST (iso: 2026-11-16T23:28:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/payalta-ka-talsha-ma-isarail-na-itana-oiparashana-kaya-kae_35288a33872b22714ebfdaa2cff8b277.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान के इस्लामिक नैटो प्रस्ताव की प्रगति रुक गई है। खाड़ी के छह देशों ने कुवैत में नया सैन्य कमांड केंद्र बनाने का फैसला किया। इस कदम ने आसिम मुनीर की रणनीतिक योजनाओं को प्रभावित किया। ईरान युद्ध के बाद सुरक्षा चिंताओं ने यह निर्णय प्रेरित किया। जिस साल 2026 को आसिम मुनीर अपनी बुलंदियों का साल मान रहे थे, क्या वही अब उनके लिए सबसे मुश्किल साल बनता जा रहा है?
+इस्राइल ने 40 वर्षों तक खोजे गए अपने पायलट को बरामद किया। इसके साथ ही ईरानी जनरल का अपहरण कर हत्या कर दी गई। तीन देशों में गोपनीय अभियान: इस्राइल ने 40 साल तक खोजा अपना पायलट, ईरानी जनरल का अपहरण कर की हत्या।
 
-### [इजराइल में फिर उठी राष्ट्रीय एकता सरकार बनाने की मांग, नेतन्याहू बोले- देश की चुनौतियों से निपटने](https://www.patrika.com/world-news/netanyahu-calls-for-national-unity-government-israel-eisenkot-coalition-talks-21056553)
-*Patrika (World)* - Nov 16, 17:09 IST (iso: 2026-11-16T11:39:33+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Benjamin-Netanyahu.webp -->
+### ['ईरान ने मुझे निशाना बनाया तो तुम भी नहीं बचोगे': ट्रंप ने पत्रकार को दी चेतावनी, बोले- ज्यादातर](https://www.amarujala.com/world/trump-warns-reporter-claims-us-has-foiled-most-iranian-attacks-says-if-iran-targets-me-you-are-gone-too-2026-11-17)
+*Amar Ujala Breaking* - Nov 17, 02:12 IST (iso: 2026-11-16T20:42:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/iirana-darana-hamal-para-tarapa-ka-bugdha-tha_f42d32994001b4b2808203e1784ca4a2.jpeg?w=1200&dpr=1.0 -->
 
-कार्यवाहक प्रधानमंत्री बेंजामिन नेतन्याहू ने राष्ट्रीय एकता सरकार बनाने की अपील की है। उनका कहना है कि देश की मौजूदा चुनौतियों का सामना केवल ऐसी सरकार कर सकती है। यशार पार्टी के प्रमुख गादी आइजेनकोट अन्य दलों के साथ गठबंधन की बातचीत कर रहे हैं। राजनीतिक सरगर्मियां तेज हो गई हैं। यरुशलम। कार्यवाहक प्रधानमंत्री बेंजामिन नेतन्याहू ने एक बार फिर राष्ट्रीय एकता सरकार बनाने की अपील की है।
-
-### [फ्रांस के सुपरमार्केट साइबर हमले और अमेरिका में साजिश के दावे खारिज, ईरान बोला- यह इजराइल का](https://www.patrika.com/world-news/iran-blames-israel-disinformation-france-fridge-hacking-us-assassination-plot-claims-21056463)
-*Patrika (World)* - Nov 16, 17:01 IST (iso: 2026-11-16T11:31:25+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/Esmaeil-Baghaei-1.webp -->
-
-ईरान ने इजराइल पर दुष्प्रचार अभियान चलाने का आरोप लगाया है। ईरान ने फ्रांस के सुपरमार्केट साइबर हमलों और अमेरिका में साजिशों के आरोपों को खारिज किया। ईरान का दावा है कि इजराइल पश्चिमी जनता में डर पैदा करना चाहता है। यह बयान युद्ध को बढ़ावा देने के संदर्भ में आया है। ईरान ने सोमवार को इजराइल पर एक सुनियोजित दुष्प्रचार अभियान चलाने का आरोप लगाया।
-
-### [होर्मुज स्ट्रेट के पास ईरानी सेना को मिली अमेरिका के खिलाफ कामयाबी, पकड़ा अमेरिकी ड्रोन](https://www.patrika.com/world-news/iran-captures-us-drone-near-strait-of-hormuz-21056329)
-*Patrika (World)* - Nov 16, 16:35 IST (iso: 2026-11-16T11:05:50+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/mqm-170-drone.webp -->
-
-ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स ने होर्मुज स्ट्रेट के पास अमेरिकी ड्रोन पकड़ लिया। यह घटना दोनों देशों के बीच हालिया आपसी हमलों के बाद हुई। तनाव की स्थिति में यह कार्रवाई नया मोड़ मानी जा रही है। हाल ही में दोनों देशों ने एक-बार फिर एक-दूसरे के ठिकानों पर हमले किए। इसी बीच ईरान की आईआरजीसी – इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC – Islamic Revolutionary Guard Corps) को अमेरिका के खिलाफ एक कामयाबी मिली है।
-
-### [साउथ अफ्रीका में गोलीबारी, 17 लोगों की मौत](https://www.patrika.com/world-news/mass-shootings-in-south-africa-17-people-killed-21055915)
-*Patrika (World)* - Nov 16, 14:39 IST (iso: 2026-11-16T09:09:26+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/shooting.webp -->
-
-साउथ अफ्रीका में एक गोलीबारी में 17 लोगों की मौत हो गई। देश में अपराध की घटनाओं में लगातार वृद्धि देखी जा रही है। यह घटना स्थानीय सुरक्षा स्थिति को और बिगाड़ने वाली है। अफ्रीकी देशों में अपराध तेज़ी से बढ़ रहा है। पिछले कुछ सालों में अफ्रीकी देशों में स्थिति काफी बिगड़ी है। साउथ अफ्रीका (South Africa) भी अपराध से अछूता नहीं है।
-
-### [मिनाब स्कूल हमले को लेकर ईरान ने दो अमरीकी नौसैन्य अधिकारियों को दी धमकी](https://www.patrika.com/world-news/iran-threatens-us-navy-officers-minab-school-strike-we-will-find-you-21055168)
-*Patrika (World)* - Nov 16, 12:16 IST (iso: 2026-11-16T06:46:50+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Copy-of-Logo-Banner-20.webp -->
-
-ईरान ने दो अमेरिकी नौसेना अधिकारियों को मारने की धमकी दी। ईरान का दावा है कि इन दोनों ने मिनाब स्कूल पर हमला किया। उस हमले में 168 बच्चों की मौत हुई थी। ईरान ने दो अमेरिकी नौ सेना के अधिकारियों को जान से मारने की धमकी दी है। ईरान ने कहा है कि दोनों सैन्य अधिकारियों ने मिनाब स्कूल पर बम बरसाए थे।
-
----
-
-## दुनिया
-
-### [12 फीसदी से ऊपर पहुंची थोक महंगाई की दर, खाने-पीने की चीजें खरीदना और मुश्किल](https://hindi.news18.com/news/business/latest-wholesale-inflation-index-surge-over-12-percent-in-october-due-to-food-and-energy-basket-10990894.html)
-*News18 Hindi (World)* - Nov 16, 18:01 IST (iso: 2026-11-16T12:31:37+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Inflation-india-2026-09-2307a1c158eee753ee421e06d4744274-1200x800.jpg -->
-
-भारत में थोक महंगाई की दर 12 फीसदी से ऊपर पहुंच गई है। अक्टूबर में बिजली और ईंधन की कीमतों में बढ़ोतरी इसका मुख्य कारण रही। खाने-पीने की चीजों की थोक महंगाई दर भी 8 फीसदी से अधिक हो गई है। उपभोक्ताओं पर आर्थिक दबाव बढ़ने की संभावना है। WPI Rate: खुदरा महंगाई की दर 6 फीसदी बढ़ने के बाद अब थोक महंगाई की दर 12 फीसदी से ऊपर जा चुकी है.
+ट्रंप ने एक पत्रकार को चेतावनी दी कि ईरान ने उन्हें निशाना बनाया तो वे भी सुरक्षित नहीं रहेंगे। उन्होंने कहा कि ज्यादातर हमले नाकाम रहे हैं। यह बयान तनावपूर्ण माहौल में आया। 'ईरान ने मुझे निशाना बनाया तो तुम भी नहीं बचोगे': ट्रंप ने पत्रकार को दी चेतावनी, बोले- ज्यादातर हमले नाकाम।
 
 ---
 
 ## यूरोप और रूस
 
-### [भारत-अमेरिका की लॉन्ग-टर्म दोस्ती को लेकर डोनाल्ड ट्रंप हैं बहुत सकारात्मक, आईबीएम चेयरमैन-सीईओ](https://www.patrika.com/world-news/donald-trump-very-positive-on-long-term-friendship-between-india-and-us-ibm-chairman-ceo-arvind-krishna-says-21056023)
-*Patrika (World)* - Nov 16, 15:18 IST (iso: 2026-11-16T09:48:11+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/pm-modi-with-trump-.webp -->
+### [जेलेंस्की ने पश्चिम से मांगे हथियार, ट्रंप बोले- यूक्रेन युद्ध पसंदीदा विषय; कब थमेगा टकराव?](https://www.amarujala.com/world/russia-conflict-zelenskyy-seeks-comparable-weapons-from-west-us-prez-trump-calls-ukraine-war-favorite-topic-2026-11-17)
+*Amar Ujala World* - Nov 17, 02:44 IST (iso: 2026-11-16T21:14:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/trump-zelensky-us-ukraine_97bca1fcc281de37b78af75c01d90c5d.jpeg?w=1200&dpr=1.0 -->
 
-आईबीएम के चेयरमैन और सीईओ ने ट्रंप के दूसरे कार्यकाल में भारत-अमेरिका संबंधों पर सकारात्मक टिप्पणी की। टैरिफ और रूसी तेल की खरीद पर सख्ती ने संबंधों पर असर डाला था। दोनों देशों के बीच ट्रेड डील में देरी जारी है। अमेरिकी राष्ट्रपति के तौर पर डोनाल्ड ट्रंप (Donald Trump) के दूसरे कार्यकाल में भारत-अमेरिका संबंधों (India-US Relations) में कुछ हद तक गिरावट देखने को मिली।
-
-### ['अंधेरा छा जाएगा, खरीद लो टॉर्च-पावरबैंक', मौसम वैज्ञानिकों की खुली चेतावनी- 24 घंटे के अंदर](https://hindi.news18.com/world/britain-weather-update-met-office-warns-to-stock-up-torch-power-bank-essentials-amid-polar-vortex-forcast-in-24-hours-10990608.html)
-*News18 Hindi (World)* - Nov 16, 14:27 IST (iso: 2026-11-16T08:57:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/polar-vortex-2026-11-184759f74fcba41df4ab8a34595b9d67-1200x800.jpg -->
-
-ब्रिटेन के मौसम विभाग ने लोगों को 24 घंटे के अंदर टॉर्च और पावरबैंक खरीदने की सलाह दी है। भारी मौसम की चेतावनी के कारण बिजली की कटौती का आशंका जताई गई है। Why Britishers warned to stock up things: कई बार ऐसा होता है कि हम जानते हैं कि कोई आफत आ रही है लेकिन भागने के बजाय उसका सामना करना ही पड़ता है.
-
-### [क्रीमिया ब्रिज पर यूक्रेन के हमले से मची अफरातफरी, रूस ने यातायात पर लगाई पाबंदी](https://www.patrika.com/world-news/crimea-bridge-attacked-by-ukraine-russia-restricts-traffic-21055620)
-*Patrika (World)* - Nov 16, 13:49 IST (iso: 2026-11-16T08:19:12+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/crimea-bridge_.webp -->
-
-यूक्रेन ने क्रीमिया ब्रिज पर हमला किया जिससे भारी अफरातफरी मच गई। रूस ने सुरक्षा कारणों से पुल पर यातायात पर पाबंदी लगा दी है। यह घटना युद्ध के दौरान हुई है। रूस (Russia) और यूक्रेन (Ukraine) के बीच 24 फरवरी 2022 से चल रहा युद्ध खत्म होने का नाम ही नहीं ले रहा है। इस युद्ध की वजह से अब तक यूक्रेन में काफी तबाही मच चुकी है और जान-माल का भी भारी नुकसान हुआ है।
+जेलेंस्की ने पश्चिम से अतिरिक्त हथियारों की मांग की। ट्रंप ने यूक्रेन युद्ध को पसंदीदा विषय बताते हुए टकराव समाधान पर संकेत दिए। दोनों देशों के बीच बातचीत जारी है। रूस के साथ जंग: जेलेंस्की ने पश्चिम से मांगे हथियार, ट्रंप बोले- यूक्रेन युद्ध पसंदीदा विषय; कब थमेगा टकराव?
 
 ---
 
 ## अमेरिका
 
-### [गुड्डे-गुड़ियों से क्यों खेल रहे Gen Z और मिलेनियल्स? किडल्ट ट्रेंड की असली कहानी](https://www.abplive.com/news/world/kidults-trend-rise-why-gen-z-and-millennials-spending-big-on-toys-labubu-kinder-joy-lego-circana-report-psychology-explained-3215476)
-*ABP Live (World)* - Nov 16, 12:58 IST (iso: 2026-11-16T07:28:50+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/16/9b2fc60c0c4d87a69c42552a2568423f17948141137411317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [न्यूयॉर्क के अपार्टमेंट कॉम्प्लेक्स में गोलीबारी: दो सुरक्षा अधिकारी घायल; हमलावर ने खुद को भी मारी](https://www.amarujala.com/world/america-new-york-apartment-shooting-bronx-co-op-city-two-security-officers-shot-gunman-dead-2026-11-17)
+*Amar Ujala World* - Nov 17, 01:33 IST (iso: 2026-11-16T20:03:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/nayayaraka_6754cf1aa065db6d4dfd26dc425cf117.jpeg?w=1200&dpr=1.0 -->
 
-सर्काना के आंकड़ों के अनुसार अमेरिका में 18 वर्ष से अधिक उम्र के लोगों की खिलौने खरीदने की प्रवृत्ति पिछले चार वर्षों में दोगुनी से अधिक हो गई है। यह वर्ग अब टॉय उद्योग की सबसे तेजी से बढ़ती ग्राहक श्रेणी बन चुका है। बीते कुछ सालों से दुनिया भर के टॉय इंडस्ट्री के दरवाजे पर एक नया ग्राहक दस्तक दे रहा है.
+न्यूयॉर्क के अपार्टमेंट कॉम्प्लेक्स में गोलीबारी में दो सुरक्षा अधिकारी घायल हुए। हमलावर ने अंत में खुद को गोली मार ली। घटना स्थल पर पुलिस ने त्वरित कार्रवाई की। न्यूयॉर्क के अपार्टमेंट कॉम्प्लेक्स में गोलीबारी: दो सुरक्षा अधिकारी घायल; हमलावर ने खुद को भी मारी गोली।
 
 ---
 
