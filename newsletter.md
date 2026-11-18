@@ -1,10 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 18, 2026 14:51 IST
+**Updated:** November 18, 2026 23:59 IST
 
 ---
 
 ## Asia-Pacific
+
+### [Bangladesh deploys paramilitary as unrest grows over Hasina's return](https://www.thehindu.com/news/international/bangladesh-deploys-paramilitary-as-unrest-grows-overhasinas-return/article71717353.ece)
+*The Hindu (International)* - Nov 18, 23:13 IST (iso: 2026-11-18T17:43:26+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/efm0t6/article71717368.ece/alternates/LANDSCAPE_1200/TH14-PTI-BanglaG9DGQ3RS3.3.jpg.jpg -->
+
+Bangladesh deployed paramilitary units as unrest intensified following Sheikh Hasina's return. Police reported dozens of crude bomb blasts and vehicle arsons across 28 districts in ten days. Several officers and civilians were injured in the escalating violence. Police have recorded dozens of crude bomb blasts and incidents of vehicles ​being torched in at least ‌28 districts over the last 10 days, with several police personnel and civilians injured, local media has reported.
 
 ### [Xi’s APEC speech casts China as Asia’s open door as US closes](https://asiatimes.com/2026/11/xis-apec-speech-casts-china-as-asias-open-door-as-us-closes/)
 *Asia Times* - Nov 18, 12:19 IST (iso: 2026-11-18T06:49:16+00:00)
@@ -18,37 +24,101 @@ Xi Jinping addressed the APEC summit in Shenzhen, positioning China as an open a
 
 Jensen Huang will testify before Congress on 1 December regarding national security concerns. His resignation followed an alleged affair with a suspected Chinese spy. Nvidia general counsel Tim Teter will also appear. The hearing addresses the fallout from his departure and potential security breaches. High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spyNvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for.
 
-### [How the news scramble is messing with Bank of Japan policymaking](https://asiatimes.com/2026/11/how-the-news-scramble-is-messing-with-bank-of-japan-policymaking/)
-*Asia Times* - Nov 17, 23:01 IST (iso: 2026-11-17T17:31:01+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Local_train_Japan.jpg -->
-
-Japan’s fragmented media environment complicates Bank of Japan policymaking. Shared cultural touchpoints have eroded over three decades. Policymakers now struggle to gauge public sentiment accurately. This shift impacts how the central bank communicates and anticipates market reactions to its decisions. For the past three decades, Japanese society still enjoyed something close to a shared media life. Major newspapers had enormous circulation.
-
 ### [Trump turns brief Manila stop into pre-Shenzhen leverage haul](https://asiatimes.com/2026/11/trump-turns-brief-manila-stop-into-pre-shenzhen-leverage-haul/)
 *Asia Times* - Nov 17, 21:35 IST (iso: 2026-11-17T16:05:59+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/20047627_111726-cc-getty-trump-asia-img-scaled.jpg -->
 
 Trump used his brief Manila stop to secure leverage before heading to Shenzhen. He arrived after the ASEAN plenary had already concluded. The compressed schedule was initially viewed as a diplomatic slight. He leveraged the visit to negotiate terms ahead of his China meeting. When US President Donald Trump touched down in Manila on Tuesday afternoon (November 17), arriving only after the Association of Southeast Asian Nations had already concluded its formal plenary and handed its rotating chair to Singapore, early international coverage largely framed the compressed 24 hour visit as a diplomatic slight.
 
-### [Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit](https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit)
-*The Guardian* - Nov 17, 16:48 IST (iso: 2026-11-17T11:18:26+00:00)
-<!-- image: https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d080ebd37b1b3c732785be9ecae62a52 -->
+---
 
-Xi Jinping used the APEC summit in Shenzhen to project China’s technological confidence. The host city displayed its skyline and advanced infrastructure to global leaders. This event signaled Beijing’s intent to position itself as a central economic power. The summit highlighted China’s growing influence in the region. Host city offers showcase of China’s rise into a confident and innovative power central to global economyIn a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Ec.
+## Middle East & Africa
 
-### [Trump and Xi meet in Shenzhen with little left to trade](https://asiatimes.com/2026/11/trump-and-xi-meet-in-shenzhen-with-little-left-to-trade/)
-*Asia Times* - Nov 17, 10:45 IST (iso: 2026-11-17T05:15:56+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/US-China-Xi-Jinping-Donald-Trump.jpg -->
+### [Saudis prepare for Houthi war to last well into 2027](https://www.thehindu.com/news/international/saudis-prepare-for-houthi-war-to-last-well-into-2027/article71717227.ece)
+*The Hindu (International)* - Nov 18, 22:55 IST (iso: 2026-11-18T17:25:36+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/bo4x2x/article71717318.ece/alternates/LANDSCAPE_1200/2026-11-16T054025Z_1530056383_RC2TOOAXD9QD_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG -->
 
-Trump and Xi met in Shenzhen for the APEC summit. Technology policy is now a fixed national security arena, not a bargaining chip. Neither leader has significant concessions to offer. The meeting highlighted the rigid structure of current US-China relations. The November 18-19 APEC summit will reveal a fundamental shift in US-China relations: technology policy is no longer a flexible instrument of presidential bargaining, but an increasingly institutionalized arena of national security competition.
+Saudi and Yemeni forces are reorganizing to prepare for a Houthi conflict extending into 2027. The coalition plans to defend Aden from Houthi advances. They also aim to shift offensive operations to eastern fronts where they have held their lines. Saudi and Yemeni forces are ​now reorganising, with plans to protect Aden from the Houthi advances and potentially shift their offensive to eastern fronts where they have made some advances or have at least held their lines.
+
+### [Ethiopia, Eritrea amass forces along border, heightening war fears: Sources](https://www.thehindu.com/news/international/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources/article71717229.ece)
+*The Hindu (International)* - Nov 18, 22:53 IST (iso: 2026-11-18T17:23:13+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/4rfxjx/article71717299.ece/alternates/LANDSCAPE_1200/2026-11-06T145536Z_438832642_RC28IOA268UD_RTRMADP_3_ETHIOPIA-SECURITY.JPG -->
+
+Ethiopia and Eritrea are amassing forces along their shared border, raising fears of a wider war. Tigray fighting has stoked regional instability. Ethiopia accused Sudan and Egypt of backing rebels, though both nations denied the claims. The fighting in Tigray has stoked fears of a ​wider conflagration in the Horn of Africa, with Ethiopia’s government also accusing Sudan, which is in the midst of its own civil war, and Egypt of backing the rebels; Eritrea, Sudan, Egypt ⁠all deny doing so.
+
+### [Trump's Board of Peace faults Israel, Hamas for failure to end Gaza war](https://www.thehindu.com/news/international/trumps-board-of-peace-faults-israel-hamas-for-failure-to-end-gaza-war/article71717231.ece)
+*The Hindu (International)* - Nov 18, 22:51 IST (iso: 2026-11-18T17:21:18+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/skstcq/article71199694.ece/alternates/LANDSCAPE_1200/Board-of-Peace-G1BG0O2CK.3.jpg.jpg -->
+
+Trump's Board of Peace criticized Israel and Hamas for failing to end the Gaza war. The ceasefire halted major fighting but the broader plan stalled. Hamas disarmament, Israeli troop withdrawal, and reconstruction efforts have effectively stopped. While the ceasefire has halted major fighting, the wider plan, which calls for Hamas ⁠to disarm, Israeli troops to withdraw and reconstruction to begin, has effectively stalled since soon after it came into effect last year.
+
+### [Iran strikes U.S. air base in Kuwait, targets Bahrain amid wider Gulf attacks](https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece)
+*The Hindu (International)* - Nov 18, 19:06 IST (iso: 2026-11-18T13:36:13+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/vxcdcx/article71715064.ece/alternates/LANDSCAPE_1200/US_Bases_Struck_77413.jpg -->
+
+Iran launched strikes on a U. S. air base in Kuwait and Bahrain. The attacks targeted American facilities on November 13 and 15. Tehran cited U. S. drone surveillance and strikes on its communications towers as the cause. Iran said its recent attacks. including those on other U. S. facilities in Bahrain on November 15 and November 13. were in response to U. S.
+
+### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
+*The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5 -->
+
+The International Court of Justice is set to rule on Myanmar's genocide charges against the Rohingya. U. S. officials may sanction judges, including Nobel laureate Navi Pillay, if the ruling goes against the Myanmar government. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.
+
+### [Diversifying funding was supposed to protect civil society: It did not](https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/)
+*Global Voices* - Nov 18, 08:10 IST (iso: 2026-11-18T02:40:58+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/11/Activists-hold-a-candlelight-vigil-to-commemorate-those-who-lost-their-lives-in-post-election-violence-in-Tanzania-in-Nairobi-Kenya-on-November-20-2025-Credit_-Anadolu_Lucas-Mukasa-800x450.webp -->
+
+A survey of 195 organizations across 68 countries reveals that diversified funding strategies failed to protect civil society groups from the global aid retreat. The crisis extends beyond immediate financial shortfalls, indicating deeper structural vulnerabilities. Organizations that spent years building varied revenue streams are still facing severe operational challenges and instability. A survey of 195 organisations across more than 68 countries shows how the global aid retreat is hitting organizations that spent years building diverse funding streams.
+
+### [Tit-For-Tat US-Iran Attacks Persist As Peace Deal Remains Elusive](https://www.rferl.org/a/iran-qeshm-oman-bahrain-kuwait-attacks/33900601.html)
+*Radio Free Europe / Liberty* - Nov 18, 05:38 IST (iso: 2026-11-18T00:08:29+00:00)
+<!-- image: https://gdb.rferl.org/77ccb5c3-8b4e-4c0e-8ef0-7ebddac42a82_cx0_cy6_cw0_w1200_h630.jpg -->
+
+US and Iranian forces exchanged air strikes across the Middle East. Gulf nations warned residents about incoming projectiles. Regional mediators attempted to halt the conflict. The low-level fighting continued despite diplomatic efforts to secure a peace deal. US and Iranian forces exchanged tit-for-tat air strikes in the Middle East, while Gulf nations issued fresh warnings to residents amid threats of incoming projectiles as the currently low-level conflict continued to brew despite the efforts of regional mediators.
+
+### [Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda](https://news.un.org/feed/view/en/story/2026/11/1168827)
+*UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image770x420cropped.jpg -->
+
+The World Health Organization reported that Ebola cases in the Democratic Republic of the Congo have more than doubled in three months. Over 11,000 cases and 5,400 deaths are now confirmed. The outbreak spans 67 health zones across eight provinces. The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said on Tuesday.
+
+### [Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact](https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines)
+*The Guardian* - Nov 17, 16:30 IST (iso: 2026-11-17T11:00:39+00:00)
+<!-- image: https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98bde914dbf117c3bd0d35b745bde001 -->
+
+Hundreds were arrested in Manila during anti-Trump protests. Demonstrations were fueled by anger over the Iran war and a new AI pact. Organizers expect up to 10,000 people to join the next round. Trump is arriving for the Asean summit. Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summitAsean and Apec summits – live updatesHundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as authorities braced for more protests ahead of the US president’s arrival in the city for a leaders’ summit. Organisers cl.
+
+### [Iranian Top Cleric Visits Bosnia As Tehran Seeks Opening To Europe](https://www.rferl.org/a/33899774.html)
+*Radio Free Europe / Liberty* - Nov 16, 22:39 IST (iso: 2026-11-16T17:09:18+00:00)
+<!-- image: https://gdb.rferl.org/bcbcf74d-d2c3-43b5-e617-08de3c642a37_w1200_h630.jpg -->
+
+A senior Iranian cleric who briefly assumed supreme leader powers after Khamenei's death visited Sarajevo. He urged European nations to distance themselves from US and Israeli policies toward Tehran. The visit highlights Tehran's effort to cultivate a European diplomatic connection. A senior Iranian cleric who briefly helped exercise the powers of Iran's supreme leader following the death of Ayatollah Ali Khamenei has visited Sarajevo, urging European countries to distance themselves from US and Israeli policies toward Tehran.
+
+### [Progress ‘real’ but fragile, as remnants of war wreck young lives](https://news.un.org/feed/view/en/story/2026/11/1168814)
+*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/syria-chemicalweapons-1498841400.jpg/image560x340cropped.jpg -->
+
+Syria shows undeniable signs of progress two years after the Assad regime fell. Senior UN officials warn that explosive ordnance and winter threaten these gains. Severe funding shortfalls also complicate recovery efforts for young lives. Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.
 
 ---
 
 ## Europe & Russia
 
+### [Ukraine Wrecked Putin's Bridge. Now It Can Choke Russian Supplies To Crimea](https://www.rferl.org/a/ukraine-russia-crimea-kerch-bridge-destroyed/33901205.html)
+*Radio Free Europe / Liberty* - Nov 18, 22:48 IST (iso: 2026-11-18T17:18:25+00:00)
+<!-- image: https://gdb.rferl.org/8a231f46-0a66-4db4-1260-08decad58b60_w1200_h630.jpg -->
+
+Ukraine destroyed the $4 billion Crimean Bridge, cutting road traffic between the Russian mainland and the peninsula. The damage severely strains Moscow's ability to supply the Black Sea region. Kyiv's strike targets a key Kremlin infrastructure asset. For eight years, it’s stood as a symbol of the Kremlin’s claim to Crimea: a $4 billion bridge directly linking the Russian mainland with the Ukrainian peninsula.
+
+### [EU's $50 Billion Funding Push For Ukraine Caught In Budget Crossfire](https://www.rferl.org/a/33901020.html)
+*Radio Free Europe / Liberty* - Nov 18, 16:33 IST (iso: 2026-11-18T11:03:37+00:00)
+<!-- image: https://gdb.rferl.org/149f3050-35f6-4270-498f-08df13a884cb_w1200_h630.jpg -->
+
+The European Commission proposed a 45 billion euro loan for Ukraine on November 18. The funds aim to cover the country's 2027 financial shortfall. The plan now faces significant delays due to internal budget disputes within the bloc. The European Commission is putting forward a new 45-billion-euro ($50 billion) loan proposal for Ukraine on November 18, to cover a large part of the financial shortfall the war-torn country is facing for 2027.
+
 ### [Optics Over Substance Expected At Trump-Xi-Putin Summit](https://www.rferl.org/a/trump-putin-xi-usa-russia-china-meeting-shenzhen-/33899555.html)
 *Radio Free Europe / Liberty* - Nov 18, 11:45 IST (iso: 2026-11-18T06:15:40+00:00)
-<!-- image: https://gdb.rferl.org/6fd4194c-319c-4d9b-8d9d-20e756fbaf43_w1200_h630.jpg -->
+<!-- image: https://gdb.rferl.org/8d4963d7-5eb3-4745-bc7e-a215d512e3a3_cx0_cy1_cw0_w1200_h630.jpg -->
 
 Donald Trump, Xi Jinping, and Vladimir Putin are scheduled to meet on the sidelines of the APEC conference in Shenzhen. Analysts expect the trilateral summit to prioritize optics over substantive policy outcomes. The gathering carries significant symbolic weight but is unlikely to produce major diplomatic breakthroughs or concrete agreements. A first-ever trilateral meeting between US President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin to be held on the sidelines of this week's Asia-Pacific Economic Cooperation (APEC) conference in Shenzhen may underwhelm despite its eyebrow-raising symbolism.
 
@@ -84,77 +154,7 @@ Singapore signed the San Francisco Declaration on secure AI foundations on Novem
 
 ---
 
-## Middle East & Africa
-
-### [Diversifying funding was supposed to protect civil society: It did not](https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/)
-*Global Voices* - Nov 18, 08:10 IST (iso: 2026-11-18T02:40:58+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/11/Activists-hold-a-candlelight-vigil-to-commemorate-those-who-lost-their-lives-in-post-election-violence-in-Tanzania-in-Nairobi-Kenya-on-November-20-2025-Credit_-Anadolu_Lucas-Mukasa-800x450.webp -->
-
-A survey of 195 organizations across 68 countries reveals that diversified funding strategies failed to protect civil society groups from the global aid retreat. The crisis extends beyond immediate financial shortfalls, indicating deeper structural vulnerabilities. Organizations that spent years building varied revenue streams are still facing severe operational challenges and instability. A survey of 195 organisations across more than 68 countries shows how the global aid retreat is hitting organizations that spent years building diverse funding streams.
-
-### [Tit-For-Tat US-Iran Attacks Persist As Peace Deal Remains Elusive](https://www.rferl.org/a/iran-qeshm-oman-bahrain-kuwait-attacks/33900601.html)
-*Radio Free Europe / Liberty* - Nov 18, 05:38 IST (iso: 2026-11-18T00:08:29+00:00)
-<!-- image: https://gdb.rferl.org/77ccb5c3-8b4e-4c0e-8ef0-7ebddac42a82_cx0_cy6_cw0_w1200_h630.jpg -->
-
-US and Iranian forces exchanged air strikes across the Middle East. Gulf nations warned residents about incoming projectiles. Regional mediators attempted to halt the conflict. The low-level fighting continued despite diplomatic efforts to secure a peace deal. US and Iranian forces exchanged tit-for-tat air strikes in the Middle East, while Gulf nations issued fresh warnings to residents amid threats of incoming projectiles as the currently low-level conflict continued to brew despite the efforts of regional mediators.
-
-### [Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda](https://news.un.org/feed/view/en/story/2026/11/1168827)
-*UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image770x420cropped.jpg -->
-
-The World Health Organization reported that Ebola cases in the Democratic Republic of the Congo have more than doubled in three months. Over 11,000 cases and 5,400 deaths are now confirmed. The outbreak spans 67 health zones across eight provinces. The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said on Tuesday.
-
-### [Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact](https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines)
-*The Guardian* - Nov 17, 16:30 IST (iso: 2026-11-17T11:00:39+00:00)
-<!-- image: https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98bde914dbf117c3bd0d35b745bde001 -->
-
-Hundreds were arrested in Manila during anti-Trump protests. Demonstrations were fueled by anger over the Iran war and a new AI pact. Organizers expect up to 10,000 people to join the next round. Trump is arriving for the Asean summit. Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summitAsean and Apec summits – live updatesHundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as authorities braced for more protests ahead of the US president’s arrival in the city for a leaders’ summit. Organisers cl.
-
-### [China’s J-10C missile upgrade could become a Taiwan war trap](https://asiatimes.com/2026/11/chinas-j-10c-missile-upgrade-could-become-a-taiwan-war-trap/)
-*Asia Times* - Nov 17, 15:16 IST (iso: 2026-11-17T09:46:11+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-J-10C-Missile.jpeg -->
-
-China's J-10C fighters now carry short-range air-to-surface missiles. This creates a tactical risk if Taiwan's air defenses survive initial strikes. Jets forced closer to target face higher loss rates. The vulnerability mirrors US experiences in Iran. China’s integration of upgraded short-range air-to-surface missiles onto its frontline fighters exposes a critical vulnerability in a Taiwan conflict: if Taiwan’s air defenses survive initial barrages and exhaust China’s long-range stockpiles, jets forced closer with shorter-range weapons risk severe losses, mirroring US experience in Iran.
-
-### [Iranian Top Cleric Visits Bosnia As Tehran Seeks Opening To Europe](https://www.rferl.org/a/33899774.html)
-*Radio Free Europe / Liberty* - Nov 16, 22:39 IST (iso: 2026-11-16T17:09:18+00:00)
-<!-- image: https://gdb.rferl.org/bcbcf74d-d2c3-43b5-e617-08de3c642a37_w1200_h630.jpg -->
-
-A senior Iranian cleric who briefly assumed supreme leader powers after Khamenei's death visited Sarajevo. He urged European nations to distance themselves from US and Israeli policies toward Tehran. The visit highlights Tehran's effort to cultivate a European diplomatic connection. A senior Iranian cleric who briefly helped exercise the powers of Iran's supreme leader following the death of Ayatollah Ali Khamenei has visited Sarajevo, urging European countries to distance themselves from US and Israeli policies toward Tehran.
-
-### [With Soaring Prices And Police Crackdowns, Free Time Now Costs Too Much For Tehran's Youth](https://www.rferl.org/a/iran-tehran-crackdown-life-war/33899547.html)
-*Radio Free Europe / Liberty* - Nov 16, 19:36 IST (iso: 2026-11-16T14:06:05+00:00)
-<!-- image: https://gdb.rferl.org/8b445320-b006-47d1-5fd4-08de3c91433d_cx3_cy7_cw90_w1200_h630.jpg -->
-
-Tehran's youth face rising costs and police crackdowns on cafes and street gatherings. The economy remains battered by war and fears of renewed fighting. These pressures make socializing increasingly difficult for young people in the capital. With an economy battered by war and fears of renewed fighting, life in Iran’s capital keeps getting tighter. Add a crackdown on the cafes and street gatherings where young people socialize, and Tehran feels like it’s closing in on its youth.
-
-### [Progress ‘real’ but fragile, as remnants of war wreck young lives](https://news.un.org/feed/view/en/story/2026/11/1168814)
-*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/syria-chemicalweapons-1498841400.jpg/image560x340cropped.jpg -->
-
-Syria shows undeniable signs of progress two years after the Assad regime fell. Senior UN officials warn that explosive ordnance and winter threaten these gains. Severe funding shortfalls also complicate recovery efforts for young lives. Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.
-
-### [At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar](https://news.un.org/feed/view/en/story/2026/11/1168809)
-*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/15-11-2026_SG-ASEANSummit.jpg/image560x340cropped.jpg -->
-
-António Guterres urged stronger cooperation with ASEAN and an end to the Myanmar crisis during his final summit in Manila. The UN Secretary-General addressed regional leaders on Monday, emphasizing the need for collective action to resolve the ongoing humanitarian and political situation in Southeast Asia. UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, in remarks to regional leaders meeting in the Philippine capital Manila on Monday.
-
----
-
 ## Americas
-
-### [Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life](https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people)
-*The Guardian* - Nov 18, 03:10 IST (iso: 2026-11-17T21:40:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/dde5ccc76241e935a3052e3e3dd59bb8f8f29473/755_0_4561_3648/master/4561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a97d6e4d8f31b8ea292db4c7b5f8ecbf -->
-
-About twenty Awá people emerged from voluntary isolation in Brazil’s Amazon. They made contact with villagers and accepted food to take back to their territory. Survival International reported the event, raising alarms about increased invasions into the group’s protected lands. Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territoryAbout 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory. According to the NGO Survival International, members of the Awá people, who live in voluntary isolation,.
-
-### [Eight-year-old Haitian boy returns home after release from ICE custody](https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release)
-*The Guardian* - Nov 18, 02:29 IST (iso: 2026-11-17T20:59:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c39589936af829d82bae2511b8fd40d -->
-
-An eight-year-old Haitian boy returned to his family in California. He was detained by immigration agents in San Diego on 4 November. Agents placed him in restraints before transferring him to a facility in Texas. Representative Juan Vargas shared photos of the reunion. Child reunited with family after he was detained by immigration agents in San Diego and transferred to TexasAn eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California. Representative Juan Vargas shared a photograph of the boy and his family in a social.
 
 ### [The push to protect warming oceans reaches the negotiating table](https://news.un.org/feed/view/en/story/2026/11/1168824)
 *UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
