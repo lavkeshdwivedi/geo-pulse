@@ -1,12 +1,98 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 18, 2026 06:55 IST
+**Updated:** November 18, 2026 14:51 IST
+
+---
+
+## Asia-Pacific
+
+### [Xi’s APEC speech casts China as Asia’s open door as US closes](https://asiatimes.com/2026/11/xis-apec-speech-casts-china-as-asias-open-door-as-us-closes/)
+*Asia Times* - Nov 18, 12:19 IST (iso: 2026-11-18T06:49:16+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Xi-Jinping-China-APEC-Summit-Shenzhen-November-19_2026.jpg -->
+
+Xi Jinping addressed the APEC summit in Shenzhen, positioning China as an open alternative to US trade restrictions. He targeted Southeast Asian leaders and multinational executives, contrasting Washington's tariff deals and semiconductor controls with Beijing's stability. The speech aimed to secure economic partnerships without directly naming the United States. Taking the podium first at the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, Chinese President Xi Jinping responded to Washington’s transactional tariff deals, revived Quad security alignment and tightening semiconductor controls with a calculated counter-pitch aimed squarely at wavering Southeast Asian capitals and multinational executives.
+
+### [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
+*The Guardian* - Nov 17, 23:28 IST (iso: 2026-11-17T17:58:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=925e666b4367461e96fdfe14c959ef16 -->
+
+Jensen Huang will testify before Congress on 1 December regarding national security concerns. His resignation followed an alleged affair with a suspected Chinese spy. Nvidia general counsel Tim Teter will also appear. The hearing addresses the fallout from his departure and potential security breaches. High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spyNvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for.
+
+### [How the news scramble is messing with Bank of Japan policymaking](https://asiatimes.com/2026/11/how-the-news-scramble-is-messing-with-bank-of-japan-policymaking/)
+*Asia Times* - Nov 17, 23:01 IST (iso: 2026-11-17T17:31:01+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Local_train_Japan.jpg -->
+
+Japan’s fragmented media environment complicates Bank of Japan policymaking. Shared cultural touchpoints have eroded over three decades. Policymakers now struggle to gauge public sentiment accurately. This shift impacts how the central bank communicates and anticipates market reactions to its decisions. For the past three decades, Japanese society still enjoyed something close to a shared media life. Major newspapers had enormous circulation.
+
+### [Trump turns brief Manila stop into pre-Shenzhen leverage haul](https://asiatimes.com/2026/11/trump-turns-brief-manila-stop-into-pre-shenzhen-leverage-haul/)
+*Asia Times* - Nov 17, 21:35 IST (iso: 2026-11-17T16:05:59+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/20047627_111726-cc-getty-trump-asia-img-scaled.jpg -->
+
+Trump used his brief Manila stop to secure leverage before heading to Shenzhen. He arrived after the ASEAN plenary had already concluded. The compressed schedule was initially viewed as a diplomatic slight. He leveraged the visit to negotiate terms ahead of his China meeting. When US President Donald Trump touched down in Manila on Tuesday afternoon (November 17), arriving only after the Association of Southeast Asian Nations had already concluded its formal plenary and handed its rotating chair to Singapore, early international coverage largely framed the compressed 24 hour visit as a diplomatic slight.
+
+### [Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit](https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit)
+*The Guardian* - Nov 17, 16:48 IST (iso: 2026-11-17T11:18:26+00:00)
+<!-- image: https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d080ebd37b1b3c732785be9ecae62a52 -->
+
+Xi Jinping used the APEC summit in Shenzhen to project China’s technological confidence. The host city displayed its skyline and advanced infrastructure to global leaders. This event signaled Beijing’s intent to position itself as a central economic power. The summit highlighted China’s growing influence in the region. Host city offers showcase of China’s rise into a confident and innovative power central to global economyIn a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Ec.
+
+### [Trump and Xi meet in Shenzhen with little left to trade](https://asiatimes.com/2026/11/trump-and-xi-meet-in-shenzhen-with-little-left-to-trade/)
+*Asia Times* - Nov 17, 10:45 IST (iso: 2026-11-17T05:15:56+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/US-China-Xi-Jinping-Donald-Trump.jpg -->
+
+Trump and Xi met in Shenzhen for the APEC summit. Technology policy is now a fixed national security arena, not a bargaining chip. Neither leader has significant concessions to offer. The meeting highlighted the rigid structure of current US-China relations. The November 18-19 APEC summit will reveal a fundamental shift in US-China relations: technology policy is no longer a flexible instrument of presidential bargaining, but an increasingly institutionalized arena of national security competition.
+
+---
+
+## Europe & Russia
+
+### [Optics Over Substance Expected At Trump-Xi-Putin Summit](https://www.rferl.org/a/trump-putin-xi-usa-russia-china-meeting-shenzhen-/33899555.html)
+*Radio Free Europe / Liberty* - Nov 18, 11:45 IST (iso: 2026-11-18T06:15:40+00:00)
+<!-- image: https://gdb.rferl.org/6fd4194c-319c-4d9b-8d9d-20e756fbaf43_w1200_h630.jpg -->
+
+Donald Trump, Xi Jinping, and Vladimir Putin are scheduled to meet on the sidelines of the APEC conference in Shenzhen. Analysts expect the trilateral summit to prioritize optics over substantive policy outcomes. The gathering carries significant symbolic weight but is unlikely to produce major diplomatic breakthroughs or concrete agreements. A first-ever trilateral meeting between US President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin to be held on the sidelines of this week's Asia-Pacific Economic Cooperation (APEC) conference in Shenzhen may underwhelm despite its eyebrow-raising symbolism.
+
+### [Deutsche Bank leak reveals nearly $600M in Epstein payments](https://asiatimes.com/2026/11/deutsche-bank-leak-reveals-nearly-600m-in-epstein-payments/)
+*Asia Times* - Nov 18, 08:06 IST (iso: 2026-11-18T02:36:45+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Deutsche-Bank.jpg -->
+
+Whistleblowers released over 15 million internal Deutsche Bank documents revealing nearly $600 million in payments linked to Jeffrey Epstein. Financial Times reporter Dan McCrum described the findings as exposing systemic failures and incompetence within the institution. The leak highlights significant compliance gaps and questionable conduct by the German bank regarding its client relationships. A group of whistleblowers has released more than 15 million internal documents from Deutsche Bank that reveal what the Financial Times described in a Tuesday social media post as “bad behavior, systemic failures, and incompetence.” In a video summarizing the documents’ most important revelations, Financial Times investigative reporter Dan McCrum said they expose the German [] The post Deutsche Ba.
+
+### [Caribbean nations fear economic impact of shuttering citizenship program after EU threats](https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment)
+*The Guardian* - Nov 18, 03:19 IST (iso: 2026-11-17T21:49:29+00:00)
+<!-- image: https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4359df7f529b956610a77b4dd3979f9 -->
+
+St Kitts and Nevis will end its citizenship-by-investment program. The decision follows European Union threats to revoke visa-free access for its citizens. Nevis premier Terrance Drew warned the move threatens the island economy and its ability to support vulnerable residents. St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned. On Friday, Terrance Drew, the prime minister of the.
+
+### [Ukrainian Defense Minister On Crimea Bridge Strike: 'We're Just Getting Started'](https://www.rferl.org/a/ukraine-russia-crimea-bridge-attacks/33900561.html)
+*Radio Free Europe / Liberty* - Nov 18, 00:41 IST (iso: 2026-11-17T19:11:27+00:00)
+<!-- image: https://gdb.rferl.org/a4cb8960-fa77-4094-9789-08df3eea91fd_w1200_h630.png -->
+
+Ukraine struck the Crimean bridge, severing the peninsula's only direct road and rail link to the mainland. The attack occurred overnight on November 17. Russia retaliated by damaging two key bridges in Kyiv. Ukrainian Defense Minister Mykhailo Fedorov stated the campaign is just beginning. Ukraine has released video of its overnight strikes that damaged the bridge between the mainland and Russian-occupied Crimea, the only direct road and rail link to the peninsula.
+
+### [Civilian casualties in 2026 already far exceed previous years’ tolls](https://news.un.org/feed/view/en/story/2026/11/1168828)
+*UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-04.jpg/image770x420cropped.jpg -->
+
+The UN Human Rights Monitoring Mission in Ukraine reported that 2026 civilian casualties already exceed all previous years since the February 2022 invasion. The toll has risen dramatically compared to prior periods. This marks the highest recorded civilian death rate of the conflict to date. This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.
+
+### [Singapore’s AI balancing act exposes ASEAN’s split-stack dilemma](https://asiatimes.com/2026/11/singapores-ai-balancing-act-exposes-aseans-split-stack-dilemma/)
+*Asia Times* - Nov 17, 16:20 IST (iso: 2026-11-17T10:50:28+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/AI-Data-Center-Technology-Artificial-Intelligence.jpg -->
+
+Singapore signed the San Francisco Declaration on secure AI foundations on November 15. This move highlights the difficulty of balancing US and Chinese tech ties. Southeast Asian nations face a split-stack dilemma. They must maintain access to American computing while keeping commercial links with China. Singapore’s diplomatic maneuvers in Manila this week illustrate the increasingly difficult technology-balancing act facing Southeast Asia: maintaining access to American advanced computing infrastructure while preserving commercial engagement with China.
 
 ---
 
 ## Middle East & Africa
 
-### [Tit-for-Tat US-Iran Attacks Persist As Peace Deal Remains Elusive](https://www.rferl.org/a/iran-qeshm-oman-bahrain-kuwait-attacks/33900601.html)
+### [Diversifying funding was supposed to protect civil society: It did not](https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/)
+*Global Voices* - Nov 18, 08:10 IST (iso: 2026-11-18T02:40:58+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/11/Activists-hold-a-candlelight-vigil-to-commemorate-those-who-lost-their-lives-in-post-election-violence-in-Tanzania-in-Nairobi-Kenya-on-November-20-2025-Credit_-Anadolu_Lucas-Mukasa-800x450.webp -->
+
+A survey of 195 organizations across 68 countries reveals that diversified funding strategies failed to protect civil society groups from the global aid retreat. The crisis extends beyond immediate financial shortfalls, indicating deeper structural vulnerabilities. Organizations that spent years building varied revenue streams are still facing severe operational challenges and instability. A survey of 195 organisations across more than 68 countries shows how the global aid retreat is hitting organizations that spent years building diverse funding streams.
+
+### [Tit-For-Tat US-Iran Attacks Persist As Peace Deal Remains Elusive](https://www.rferl.org/a/iran-qeshm-oman-bahrain-kuwait-attacks/33900601.html)
 *Radio Free Europe / Liberty* - Nov 18, 05:38 IST (iso: 2026-11-18T00:08:29+00:00)
 <!-- image: https://gdb.rferl.org/77ccb5c3-8b4e-4c0e-8ef0-7ebddac42a82_cx0_cy6_cw0_w1200_h630.jpg -->
 
@@ -58,12 +144,6 @@ António Guterres urged stronger cooperation with ASEAN and an end to the Myanma
 
 ## Americas
 
-### [Nvidia Beats Estimates In First Earnings Report Without Jensen Huang](https://www.ndtv.com/world-news/nvidia-beats-third-quarter-expectations-in-first-earnings-report-since-jensen-huangs-resignation-12341344#publisher=newsstand)
-*NDTV World* - Nov 18, 03:26 IST (iso: 2026-11-17T21:56:32+00:00)
-<!-- image: https://c.ndtvimg.com/2026-11/qqap05b4_nvidia_625x300_16_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720 -->
-
-Nvidia reported third-quarter revenue of $115.8 billion, doubling year-over-year. The company exceeded analyst expectations in its first earnings report without Jensen Huang. Data center sales drove the growth, rising 110 percent to reach $107.6 billion for the quarter. American chips giant Nvidia exceeded analysts' expectations on Tuesday when it reported $115.8 billion in total revenue in its third quarter, double over last year, including sales from its data center business which grew even faster at 110% to reach $107.6 billion.
-
 ### [Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life](https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people)
 *The Guardian* - Nov 18, 03:10 IST (iso: 2026-11-17T21:40:56+00:00)
 <!-- image: https://i.guim.co.uk/img/media/dde5ccc76241e935a3052e3e3dd59bb8f8f29473/755_0_4561_3648/master/4561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a97d6e4d8f31b8ea292db4c7b5f8ecbf -->
@@ -87,90 +167,6 @@ Scientists and Indigenous communities presented new conservation tools at COP31 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_01.jpg/image560x340cropped.jpg -->
 
 COP31 enters its decisive week with new AI and green industrialization initiatives. Negotiators remain deadlocked on finance, fossil fuels, and adaptation. The UN talks face a significant political test in their final stretch. New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.
-
----
-
-## Europe & Russia
-
-### [Caribbean nations fear economic impact of shuttering citizenship program after EU threats](https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment)
-*The Guardian* - Nov 18, 03:19 IST (iso: 2026-11-17T21:49:29+00:00)
-<!-- image: https://i.guim.co.uk/img/media/03f57a225008dd1bc1f3dc849a2f4e634086c7a4/342_0_2918_2334/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4359df7f529b956610a77b4dd3979f9 -->
-
-St Kitts and Nevis will end its citizenship-by-investment program. The decision follows European Union threats to revoke visa-free access for its citizens. Nevis premier Terrance Drew warned the move threatens the island economy and its ability to support vulnerable residents. St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned. On Friday, Terrance Drew, the prime minister of the.
-
-### [Ukrainian Defense Minister On Crimea Bridge Strike: 'We're Just Getting Started'](https://www.rferl.org/a/ukraine-russia-crimea-bridge-attacks/33900561.html)
-*Radio Free Europe / Liberty* - Nov 18, 00:41 IST (iso: 2026-11-17T19:11:27+00:00)
-<!-- image: https://gdb.rferl.org/a4cb8960-fa77-4094-9789-08df3eea91fd_w1200_h630.png -->
-
-Ukraine struck the Crimean bridge, severing the peninsula's only direct road and rail link to the mainland. The attack occurred overnight on November 17. Russia retaliated by damaging two key bridges in Kyiv. Ukrainian Defense Minister Mykhailo Fedorov stated the campaign is just beginning. Ukraine has released video of its overnight strikes that damaged the bridge between the mainland and Russian-occupied Crimea, the only direct road and rail link to the peninsula.
-
-### [Civilian casualties in 2026 already far exceed previous years’ tolls](https://news.un.org/feed/view/en/story/2026/11/1168828)
-*UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-04.jpg/image770x420cropped.jpg -->
-
-The UN Human Rights Monitoring Mission in Ukraine reported that 2026 civilian casualties already exceed all previous years since the February 2022 invasion. The toll has risen dramatically compared to prior periods. This marks the highest recorded civilian death rate of the conflict to date. This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.
-
-### [Singapore’s AI balancing act exposes ASEAN’s split-stack dilemma](https://asiatimes.com/2026/11/singapores-ai-balancing-act-exposes-aseans-split-stack-dilemma/)
-*Asia Times* - Nov 17, 16:20 IST (iso: 2026-11-17T10:50:28+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/AI-Data-Center-Technology-Artificial-Intelligence.jpg -->
-
-Singapore signed the San Francisco Declaration on secure AI foundations on November 15. This move highlights the difficulty of balancing US and Chinese tech ties. Southeast Asian nations face a split-stack dilemma. They must maintain access to American computing while keeping commercial links with China. Singapore’s diplomatic maneuvers in Manila this week illustrate the increasingly difficult technology-balancing act facing Southeast Asia: maintaining access to American advanced computing infrastructure while preserving commercial engagement with China.
-
-### [China hoards Nvidia’s AI chips as US curbs remote access](https://asiatimes.com/2026/11/china-hoards-nvidias-ai-chips-as-us-curbs-remote-access/)
-*Asia Times* - Nov 17, 08:40 IST (iso: 2026-11-17T03:10:53+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Nvidia-H-20-Chip.jpg -->
-
-Chinese companies are stockpiling Nvidia AI chips and overseas computing racks. Washington is closing export control loopholes and rallying allies. Fears of stricter smuggling regulations drive the rush. Jensen Huang's situation may accelerate new US legislation. Chinese companies are racing to stockpile Nvidia’s artificial intelligence (AI) chips and secure computing racks overseas as Washington closes loopholes in its export controls and rallies allies to guard sensitive technologies.
-
----
-
-## Asia-Pacific
-
-### [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
-*The Guardian* - Nov 17, 23:28 IST (iso: 2026-11-17T17:58:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=925e666b4367461e96fdfe14c959ef16 -->
-
-Jensen Huang will testify before Congress on 1 December regarding national security concerns. His resignation followed an alleged affair with a suspected Chinese spy. Nvidia general counsel Tim Teter will also appear. The hearing addresses the fallout from his departure and potential security breaches. High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spyNvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for.
-
-### [How the news scramble is messing with Bank of Japan policymaking](https://asiatimes.com/2026/11/how-the-news-scramble-is-messing-with-bank-of-japan-policymaking/)
-*Asia Times* - Nov 17, 23:01 IST (iso: 2026-11-17T17:31:01+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Local_train_Japan.jpg -->
-
-Japan’s fragmented media environment complicates Bank of Japan policymaking. Shared cultural touchpoints have eroded over three decades. Policymakers now struggle to gauge public sentiment accurately. This shift impacts how the central bank communicates and anticipates market reactions to its decisions. For the past three decades, Japanese society still enjoyed something close to a shared media life. Major newspapers had enormous circulation.
-
-### [Trump turns brief Manila stop into pre-Shenzhen leverage haul](https://asiatimes.com/2026/11/trump-turns-brief-manila-stop-into-pre-shenzhen-leverage-haul/)
-*Asia Times* - Nov 17, 21:35 IST (iso: 2026-11-17T16:05:59+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/20047627_111726-cc-getty-trump-asia-img-scaled.jpg -->
-
-Trump used his brief Manila stop to secure leverage before heading to Shenzhen. He arrived after the ASEAN plenary had already concluded. The compressed schedule was initially viewed as a diplomatic slight. He leveraged the visit to negotiate terms ahead of his China meeting. When US President Donald Trump touched down in Manila on Tuesday afternoon (November 17), arriving only after the Association of Southeast Asian Nations had already concluded its formal plenary and handed its rotating chair to Singapore, early international coverage largely framed the compressed 24 hour visit as a diplomatic slight.
-
-### [Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit](https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit)
-*The Guardian* - Nov 17, 16:48 IST (iso: 2026-11-17T11:18:26+00:00)
-<!-- image: https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d080ebd37b1b3c732785be9ecae62a52 -->
-
-Xi Jinping used the APEC summit in Shenzhen to project China’s technological confidence. The host city displayed its skyline and advanced infrastructure to global leaders. This event signaled Beijing’s intent to position itself as a central economic power. The summit highlighted China’s growing influence in the region. Host city offers showcase of China’s rise into a confident and innovative power central to global economyIn a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Ec.
-
-### [Trump and Xi meet in Shenzhen with little left to trade](https://asiatimes.com/2026/11/trump-and-xi-meet-in-shenzhen-with-little-left-to-trade/)
-*Asia Times* - Nov 17, 10:45 IST (iso: 2026-11-17T05:15:56+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/05/US-China-Xi-Jinping-Donald-Trump.jpg -->
-
-Trump and Xi met in Shenzhen for the APEC summit. Technology policy is now a fixed national security arena, not a bargaining chip. Neither leader has significant concessions to offer. The meeting highlighted the rigid structure of current US-China relations. The November 18-19 APEC summit will reveal a fundamental shift in US-China relations: technology policy is no longer a flexible instrument of presidential bargaining, but an increasingly institutionalized arena of national security competition.
-
-### [Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine](https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png)
-*The Guardian* - Nov 17, 07:32 IST (iso: 2026-11-17T02:02:30+00:00)
-<!-- image: https://i.guim.co.uk/img/media/8b6e5cb5abf829af76f5ebcfe3c864c525dd5235/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99de90b13e32febaf815d94e98103671 -->
-
-Rio Tinto agreed to pay 250 million US dollars to start cleaning the toxic Panguna mine site. The Anglo-Australian miner abandoned the copper and gold operation over three decades ago. Community leaders say the fund offers a path to address long-standing environmental and social issues left behind by the mine. Community leader says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’Anglo-Australian miner Rio Tinto has agreed to pay a quarter-of-a-billion dollars to begin the clean-up of the toxic Panguna mine site it abandoned more than three decades ago. Panguna, once one of the world’s most profitable gold and copper mines, was shuttere.
-
----
-
-## Global / Multilateral
-
-### [‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering](https://news.un.org/feed/view/en/story/2026/11/1168819)
-*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/03/26806/image770x420cropped.jpg -->
-
-The World Health Organization reported that superbug plans have doubled globally. However, few countries are actually delivering on these commitments. Major gaps in testing and treatment leave billions of people at continued risk. More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on Monday.
 
 ---
 

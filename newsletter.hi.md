@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 18, 2026 06:55 IST
-
----
-
-## यूरोप और रूस
-
-### [1.6 मिलियन पाउंड की संपत्ति पर भाई-बहनों का विवाद, अदालत ने भारतीय मूल की बहनों के हक में किया फैसला](https://www.amarujala.com/world/three-indian-origin-sisters-win-1-6-million-inheritance-battle-against-brother-in-uk-court-2026-11-18)
-*Amar Ujala World* - Nov 18, 12:08 IST (iso: 2026-11-18T06:38:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/bhana-na-bhaii-ka-khalfa-athalta-ma-makathama-kaya-kaya_9e214af03bf33f5dab56fe1a4b4effdf.jpeg?w=1200&dpr=1.0 -->
-
-ब्रिटेन की अदालत ने भारतीय मूल की बहनों के पक्ष में फैसला सुनाया। 1.6 मिलियन पाउंड की संपत्ति पर भाई-बहनों के विवाद में बहनों को अधिकार दिए गए। ब्रिटेन: 1.6 मिलियन पाउंड की संपत्ति पर भाई-बहनों का विवाद, अदालत ने भारतीय मूल की बहनों के हक में किया फैसला।
-
-### [डॉयचे बैंक के लीक दस्तावेजों से खुली पोल: अरबपतियों से एपस्टीन तक के कई राज आए सामने, जांच में और](https://www.amarujala.com/world/deutsche-bank-leaked-documents-jeffrey-epstein-russian-billionaires-transactions-2026-11-18)
-*Amar Ujala World* - Nov 18, 05:52 IST (iso: 2026-11-18T00:22:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/deutsche-bank_d385e0d7afe22c8f17da1564eedde1c4.jpeg?w=1200&dpr=1.0 -->
-
-डॉयचे बैंक के लीक हुए दस्तावेजों से कई राज सामने आए हैं। जेफ्री एपस्टीन और रूसी अरबपतियों से जुड़े लेनदेन की जांच में और खुलासे की उम्मीद है। डॉयचे बैंक के लीक दस्तावेजों से खुली पोल: अरबपतियों से एपस्टीन तक के कई राज आए सामने, जांच में और क्या खुलासे?
-
----
-
-## अमेरिका
-
-### [जेल में कैसे मरा था जेफरी एपस्टीन? फॉरेंसिक एक्सपर्ट ने 7 साल बाद खोला मौत का राज](https://hindi.news18.com/world/america-jeffrey-epstein-death-mystery-forensic-expert-claims-he-was-murdered-10994275.html)
-*News18 Hindi (World)* - Nov 18, 06:49 IST (iso: 2026-11-18T01:19:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Jeffrey-Epstein-AP-Photo-2026-11-e3de27027a96128f00096f879a430291-1200x800.jpg -->
-
-फॉरेंसिक विशेषज्ञ डॉ. माइकल फ्रीमैन ने पोस्टमार्टम तस्वीरों की समीक्षा के बाद दावा किया कि जेफरी एपस्टीन की हत्या हुई थी। उन्होंने गर्दन पर Y आकार के निशान और कंधे की मांसपेशियों में चोट की संभावना जताई है। Jeffrey Epstein Death News: अमेरिका के कुख्यात यौन अपराधी जेफरी एपस्टीन की 2019 में जेल में हुई मौत को लेकर बड़ा खुलासा हुआ है.
-
-### [माइक्रोसॉफ्ट, FAA के बाद अब Apple? ठप रहीं सेवाएं, एक्सेस में दिक्कत, अमेरिका के टेक जगत में किसने](https://hindi.news18.com/world/america-after-faa-apple-confirms-outage-interruption-in-services-reveals-internal-update-triggered-disruption-10994228.html)
-*News18 Hindi (World)* - Nov 18, 05:45 IST (iso: 2026-11-18T00:15:45+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/300x300_1793282839331-1200x800.jpg -->
-
-अमेरिका में एपल की सेवाओं में तकनीकी खराबी देखी गई। हजारों उपयोगकर्ताओं को एप्लिकेशन एक्सेस में दिक्कत आई और कंपनी ने इसकी पुष्टि की। Apple Outage Reason: अमेरिका के टेक जगत में एक बार फिर से हड़कंप मच गया, जब यहां की बड़ी टेक कंपनी Apple में भी टेक्निकल ग्लिच देखना पड़. डिवाइस के हजारों यूजर्स ने शिकायत की कि उन्हें इसकी सर्विसेज और एप्लिकेशन को एक्सेस करने में दिक्कत आने लगी.
-
-### [सुरक्षा एजेंसी के गोपनीय नेटवर्क से लेकर एपल की सेवाओं पर असर, लाखों लोग परेशान](https://www.amarujala.com/world/us-hit-by-widespread-tech-outages-nsa-secret-network-banking-apple-services-disrupted-10000-flights-affected-2026-11-18)
-*Amar Ujala National* - Nov 18, 05:33 IST (iso: 2026-11-18T00:03:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/amaraka-ma-lga-parashana_4f59c442905170b62bb17f071252c60a.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका में तकनीकी खामियों से सुरक्षा एजेंसियों के गोपनीय नेटवर्क प्रभावित हुए। बैंकिंग सेवाओं पर भी असर पड़ा और लाखों लोगों को परेशानी का सामना करना पड़ा। तकनीकी खामियों से यूएस बेहाल: सुरक्षा एजेंसी के गोपनीय नेटवर्क से लेकर बैंकिंग सेवाओं पर असर, लाखों लोग परेशान। सुरक्षा एजेंसी के गोपनीय नेटवर्क से लेकर एपल की सेवाओं पर असर, लाखों लोग परेशान।
-
----
-
-## एशिया-प्रशांत
-
-### [रक्षा मंत्री राजनाथ सिंह जापान पहुंचे; यूएस में हवाई यातायात व्यवस्था पर फिर क्यों आया संकट?](https://www.amarujala.com/world/world-news-updates-major-global-developments-us-breaking-headlines-rajnath-visit-japan-2026-11-18)
-*Amar Ujala World* - Nov 18, 06:48 IST (iso: 2026-11-18T01:18:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/world-updates_7099a8efff3d4ba335d1f57a059a51c0.jpeg?w=1200&dpr=1.0 -->
-
-भारतीय रक्षा मंत्री राजनाथ सिंह जापान के लिए रवाना हो गए हैं। इसी दौरान अमेरिका में हवाई यातायात व्यवस्था पर नया संकट गहरा रहा है। दोनों घटनाक्रमों का विश्लेषण जारी है। वर्ल्ड अपडेट्स: रक्षा मंत्री राजनाथ सिंह जापान पहुंचे; यूएस में हवाई यातायात व्यवस्था पर फिर क्यों आया संकट?
-
-### [मसला तो मनुष्य बने रहने का है: गलती मानना इस युग में आसान नहीं रह गया, चोरों के पश्चाताप की अनोखी](https://www.amarujala.com/columns/opinion/japan-watch-thief-apology-narayan-surve-house-theft-moral-lessons-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:41 IST (iso: 2026-11-18T01:11:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/repentance_56ff50ac38d5a7bff29b9efc9e933d49.jpeg?w=1200&dpr=1.0 -->
-
-जापान में एक चोर ने नारायण सर्वे के घर में चोरी करने के बाद पश्चाताप जताया। उसने गलती स्वीकार करके सामाजिक नैतिकता पर चर्चा शुरू कर दी। यह घटना मानवीय मूल्यों को फिर से प्रकाश में लाती है। मसला तो मनुष्य बने रहने का है: गलती मानना इस युग में आसान नहीं रह गया, चोरों के पश्चाताप की अनोखी।
-
-### [मुंबई के कुर्ला में कई घरों में लगी आग, एक घायल; सूखाग्रस्त तालुकों की संख्या 308 हुई](https://www.amarujala.com/india-news/maharashtra-news-update-in-hindi-kurla-fire-mumbai-police-pune-incident-fadnavis-shinde-politics-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:35 IST (iso: 2026-11-18T01:05:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/29/maharashhatara-apadata-maharashtra-update_c05c4bc4926cdf82655e822da545b54b.jpeg?w=1200&dpr=1.0 -->
-
-मुंबई के कुर्ला इलाके में दो से तीन घरों में आग लग गई। दमकल विभाग की छह गाड़ियों ने आग पर काबू पाया। इस हादसे में एक व्यक्ति को चोटें आई हैं। महाराष्ट्र की खबरें: मुंबई के कुर्ला इलाके के दो से तीन घरों में लगी आग, दमकल की छह गाड़ियां मौजूद; एक घायल। मुंबई के कुर्ला में कई घरों में लगी आग, एक घायल; सूखाग्रस्त तालुकों की संख्या 308 हुई।
-
-### [बदलती वैश्विक व्यवस्था में भारत की कूटनीतिक भूमिका और बढ़ती प्रासंगिकता](https://www.amarujala.com/columns/opinion/india-diplomacy-global-order-asean-quad-trump-xi-putin-meeting-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:32 IST (iso: 2026-11-18T01:02:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/quad_b26890f344af93130e0fca23d9e7c667.jpeg?w=1200&dpr=1.0 -->
-
-भारत बदलती वैश्विक व्यवस्था में अपनी कूटनीतिक भूमिका को मजबूत कर रहा है। बढ़ती प्रासंगिकता के साथ देश अंतरराष्ट्रीय मंच पर नए समीकरण बना रहा है। यह बदलाव क्षेत्रीय स्थिरता और वैश्विक नीति निर्माण को प्रभावित कर रहा है। सम्मेलन, समीकरण और संकेत: बदलती वैश्विक व्यवस्था में भारत की कूटनीतिक भूमिका और बढ़ती प्रासंगिकता।
-
-### [प्रदूषण ने बदली लोगों की जरूरत: एयर प्यूरीफायर की बिक्री हुई दोगुनी, अब दिल्ली-एनसीआर से बाहर भी](https://www.amarujala.com/business/business-diary/pollution-changes-consumer-needs-air-purifier-sales-double-demand-rises-beyond-delhi-ncr-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:31 IST (iso: 2026-11-18T01:01:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/eyara-payarafayara-ka-bkara-thagana_ae5ba5c975145a5ad8c779ef3d1eb3bb.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली-एनसीआर में प्रदूषण के कारण एयर प्यूरीफायर की बिक्री दोगुनी हो गई है। मांग अब राजधानी से बाहर के शहरों में भी बढ़ी है। वायु गुणवत्ता में गिरावट ने उपभोक्ताओं के खर्च के पैटर्न को बदल दिया है। प्रदूषण ने बदली लोगों की जरूरत: एयर प्यूरीफायर की बिक्री हुई दोगुनी, अब दिल्ली-एनसीआर से बाहर भी बढ़ी मांग।
-
-### [हवा की गुणवत्ता में सुधार, आज सुबह एम्स के आसपास का एक्यूआई 278 तो इंडिया गेट का 112](https://www.amarujala.com/delhi-ncr/delhi-weather-air-quality-improves-aqi-around-aiims-recorded-at-278-this-morning-2026-11-18)
-*Amar Ujala Breaking* - Nov 18, 06:25 IST (iso: 2026-11-18T00:55:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/1_a95dc596d30283b357f946f479e5176f.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली में दिवाली के बाद वायु गुणवत्ता में सुधार हुआ है। सुबह एम्स के आसपास एक्यूआई 278 और इंडिया गेट पर 112 दर्ज हुआ। हालांकि हवा की गुणवत्ता अभी भी स्वास्थ्य के लिहाज से ठीक नहीं है। दिल्ली में हवा सेहत के लिहाज है तो अभी भी ठीक नहीं लेकिन दिवाली के बाद गुणवत्ता में कुछ सुधार हुआ है। हवा की गुणवत्ता में सुधार, आज सुबह एम्स के आसपास का एक्यूआई 278 तो इंडिया गेट का 112।
-
-### [दुनिया घूमने वालों की पहली पसंद बनेगा भारत: 2027 के लिए चुना गया पर्यटन गंतव्य; गुजरात-दार्जिलिंग](https://www.amarujala.com/india-news/india-become-top-choice-for-global-travellers-named-tourism-destination-for-2027-gujarat-darjeeling-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:20 IST (iso: 2026-11-18T00:50:25+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/kaya-gharal-parayatana-ka-bugdhhata-rafatara-bharata-ka-takata-bnaga_e952a18faa07ab5ae8154d39bcbe79bf.jpeg?w=1200&dpr=1.0 -->
-
-भारत को 2027 का प्रमुख पर्यटन गंतव्य चुना गया है। गुजरात और दार्जिलिंग को भी विशेष पहचान मिली है। यह चयन देश की पर्यटन नीति को नई दिशा देगा। दुनिया घूमने वालों की पहली पसंद बनेगा भारत: 2027 के लिए चुना गया पर्यटन गंतव्य; गुजरात-दार्जिलिंग को भी पहचान।
-
-### [दिन गिन रही है शहबाज सरकार? बिलावल भुट्टो कर रहे इमरान खान की वकालत, मुनीर के साले नकवी को लताड़ा](https://hindi.news18.com/world/pakistan-bilawal-bhutto-slams-shehbaz-sharif-asim-munir-targets-pakistan-power-structures-going-to-down-government-10994249.html)
-*News18 Hindi (World)* - Nov 18, 06:19 IST (iso: 2026-11-18T00:49:18+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Bilawal-Bhutto-Zaradari-Reuters-2026-08-5ffde787f294ac2e48adb38e091db8f6-1200x800.jpg -->
-
-बिलावल भुट्टो ने शहबाज शरीफ और मुनीर पर हमला किया। उन्होंने इमरान खान की वकालत करते हुए मुनीर के साले नकवी को लताड़ा। पाकिस्तान की राजनीति में तनाव बढ़ा है। यहां पर शहबाज शरीफ की सरकार को बाहरी समर्थन देने वाले बिलावल भुट्टो की बातों से ऐसा लग रहा है कि उनका मूड कुछ अलग ही है. वो हर उस मुद्दे पर भड़के हुए हैं, जिसे लेकर मुनीर-शहबाज अपना सीना ताने खड़े हैं.
-
-### [अमेरिका में राहुल गांधी बोले- आर्थिक संकट के मुहाने पर खड़ा भारत; तकनीकी खामियों से यूएस बेहाल](https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-18-november-2026-updates-on-amar-ujala-news-in-hindi-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:00 IST (iso: 2026-11-18T00:30:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/17/aaja-ka-bugdha-khabra_b9b5228f75b63a2f193f5a591e50a079.jpeg?w=1200&dpr=1.0 -->
-
-राहुल गांधी ने अमेरिका में भारत की आर्थिक स्थिति पर टिप्पणी की। उन्होंने कहा कि भारत आर्थिक संकट के मुहाने पर खड़ा है। अमेरिका तकनीकी खामियों से जूझ रहा है। सुर्खियां: अमेरिका में राहुल गांधी बोले- आर्थिक संकट के मुहाने पर खड़ा भारत; तकनीकी खामियों से यूएस बेहाल।
-
-### ['आर्थिक संकट के मुहाने पर खड़ा है भारत': कोलंबिया यूनिवर्सिटी में बोले राहुल गांधी, युवाओं को लेकर](https://www.amarujala.com/world/rahul-gandhi-india-economic-disaster-unemployment-columbia-university-2026-11-18)
-*Amar Ujala World* - Nov 18, 04:17 IST (iso: 2026-11-17T22:47:19+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/rahul-gandhi_c67a76f173a325ed273df86dca4a16b3.jpeg?w=1200&dpr=1.0 -->
-
-राहुल गांधी ने कोलंबिया यूनिवर्सिटी में भारत को आर्थिक संकट के मुहाने पर खड़ा बताया। उन्होंने युवा बेरोजगारी को इस संकट का मुख्य कारण बताया। 'आर्थिक संकट के मुहाने पर खड़ा है भारत': कोलंबिया यूनिवर्सिटी में बोले राहुल गांधी, युवाओं को लेकर।
-
----
-
-## दुनिया
-
-### [सरकारी मेडिकल कॉलेजों में भी अब घायलों को कैशलेस इलाज, उपग्रहों से बनेंगी शहरों की 3डी तस्वीरें](https://www.amarujala.com/india-news/news-update-politics-pm-modi-government-medical-colleges-cashless-treatment-satellites-3d-images-of-cities-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:37 IST (iso: 2026-11-18T01:07:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/news-updates_ca1de28b7fdaaf42869b1b4c85518d48.jpeg?w=1200&dpr=1.0 -->
-
-सरकार ने सरकारी मेडिकल कॉलेजों में घायल मरीजों के लिए कैशलेस इलाज की सुविधा शुरू की है। साथ ही उपग्रहों के उपयोग से शहरों की त्रि-आयामी तस्वीरें बनाने का प्रोजेक्ट भी लॉन्च हुआ है। समाचार अपडेट: सरकारी मेडिकल कॉलेजों में भी अब घायलों को कैशलेस इलाज, उपग्रहों से बनेंगी शहरों की 3डी तस्वीरें।
-
-### [अब सड़कों के गड्ढे गिनेगा एआई: जमीन का पूरा रिकॉर्ड भी बताएगा; डॉक्टरों और मरीजों के लिए कैसे होगा](https://www.amarujala.com/india-news/ai-to-detect-road-potholes-and-verify-land-records-how-will-it-help-doctors-and-patients-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:26 IST (iso: 2026-11-18T00:56:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/jamana-kharathana-sa-pahal-eaaii-btaega-thasatavaja-ka-sacacaii_4fddae458285dbb066026b1546ea5d91.jpeg?w=1200&dpr=1.0 -->
-
-एआई तकनीक अब सड़कों के गड्ढों की गिनती और जमीन का रिकॉर्ड रखेगी। यह प्रणाली डॉक्टरों और मरीजों के लिए भी उपयोगी होगी। डिजिटल रिकॉर्डिंग से शहरी रखरखाव और स्वास्थ्य सेवाओं में सुधार की उम्मीद है। अब सड़कों के गड्ढे गिनेगा एआई: जमीन का पूरा रिकॉर्ड भी बताएगा; डॉक्टरों और मरीजों के लिए कैसे होगा उपयोगी?
-
-### [मोरारी बापू बोले- सबको स्वीकारना ही शिवत्व का मूल मंत्र; सनातन परंपराओं के सम्मान पर दिया जोर](https://www.amarujala.com/india-news/morari-bapu-ram-katha-ujjain-bharat-swastik-yatra-accepting-everyone-core-tenet-of-shivatva-mohan-yadav-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:23 IST (iso: 2026-11-18T00:53:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/morari-bapu_1391b8f60220482f87f364bb44ebb18a.jpeg?w=1200&dpr=1.0 -->
-
-उज्जैन में मोरारी बापू ने कहा कि सबको स्वीकारना शिवत्व का मूल मंत्र है। उन्होंने सनातन परंपराओं के सम्मान पर जोर दिया। यह संदेश भारत स्वस्तिक यात्रा के दौरान दिया गया। मोरारी बापू बोले- सबको स्वीकारना ही शिवत्व का मूल मंत्र; सनातन परंपराओं के सम्मान पर दिया जोर।
-
-### [पीएम मोदी से मिलेंगे प्रिंस विलियम, योगी के गढ़ में अखिलेश का कार्यक्रम; केंद्रीय कैबिनेट की बैठक](https://www.amarujala.com/india-news/18-november-2026-major-event-2026-2026-11-17)
-*Amar Ujala National* - Nov 18, 06:00 IST (iso: 2026-11-18T00:30:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/aaja-ka-thana_25195114701c61a11a55a478395294dc.gif?w=1200&dpr=1.0 -->
-
-प्रिंस विलियम पीएम मोदी से मिलने वाले हैं। अखिलेश यादव योगी आदित्यनाथ के गढ़ में कार्यक्रम करेंगे। केंद्रीय कैबिनेट की बैठक भी निर्धारित है। पीएम मोदी से मिलेंगे प्रिंस विलियम, योगी के गढ़ में अखिलेश का कार्यक्रम; केंद्रीय कैबिनेट की बैठक।
-
-### [Weather Forecast 18 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-18-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-18)
-*Amar Ujala National* - Nov 18, 06:00 IST (iso: 2026-11-18T00:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/weather-forecast_a13dc9e018b9b7d059b28275ad93f3dd.jpeg?w=1200&dpr=1.0 -->
-
-18 नवंबर 2026 को देशभर में मौसम का हाल सामने आया है। विभिन्न क्षेत्रों में तापमान और वर्षा की संभावनाओं का अनुमान जारी किया गया है।
-
-### [कुलगाम में आतंकवादियों और सुरक्षा बलों के बीच मुठभेड़, साथ में जेके पुलिस ने भी संभाला मोर्चा](https://www.amarujala.com/jammu/encounter-started-with-terrorists-and-joint-party-of-jkp-and-sf-in-kulgam-2026-11-18)
-*Amar Ujala Breaking* - Nov 18, 05:59 IST (iso: 2026-11-18T00:29:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/kulgam-terror-attack_8a85ed6a3341758e77d2a5e79d14f003.jpeg?w=1200&dpr=1.0 -->
-
-कुलगाम में आतंकवादियों और सुरक्षा बलों के बीच मुठभेड़ शुरू हो गई है। जम्मू और कश्मीर पुलिस ने भी स्थिति पर नियंत्रण बनाए रखने के लिए मोर्चा संभाला है। कुलगाम में आतंकवादियों और सुरक्षा बलों के बीच मुठभेड़, साथ में जेके पुलिस ने भी संभाला मोर्चा।
-
-### [विस्तारित मानसून सत्र या शीतकालीन सत्र?: कैबिनेट बैठक में आज होगा फैसला, केंद्र के एजेंडे में](https://www.amarujala.com/india-news/parliament-monsoon-session-extension-or-winter-session-decision-to-be-taken-at-today-modi-cabinet-meeting-2026-11-18)
-*Amar Ujala National* - Nov 18, 05:15 IST (iso: 2026-11-17T23:45:25+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/parliament-session_f81797a8a42eb06376531505ec7dbecd.jpeg?w=1200&dpr=1.0 -->
-
-भारतीय कैबिनेट आज मानसून सत्र के विस्तार या शीतकालीन सत्र के आयोजन पर निर्णय लेगा। केंद्र के एजेंडा में कई महत्वपूर्ण विधेयक शामिल हैं। विस्तारित मानसून सत्र या शीतकालीन सत्र?: कैबिनेट बैठक में आज होगा फैसला, केंद्र के एजेंडे में क्या-क्या शामिल?
-
-### [एनवीडिया में जेनसन हुआंग की वापसी मुश्किल: बोर्ड के चेयरमैन ने किया साफ, कहा- ऐसा करने का कोई इरादा](https://www.amarujala.com/world/nvidia-board-chairman-rejects-jensen-huang-return-ceo-q3-earnings-2026-11-18)
-*Amar Ujala Breaking* - Nov 18, 04:33 IST (iso: 2026-11-17T23:03:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/jensen-huang_7639d3f36f0a920ddc30fea112fdb282.jpeg?w=1200&dpr=1.0 -->
-
-एनवीडिया के बोर्ड चेयरमैन ने जेनसन हुआंग की सीईओ पद पर वापसी के इरादे को खारिज कर दिया। उन्होंने तीसरे तिमाही के नतीजों के दौरान यह स्पष्ट किया। एनवीडिया में जेनसन हुआंग की वापसी मुश्किल: बोर्ड के चेयरमैन ने किया साफ, कहा- ऐसा करने का कोई इरादा।
+**अपडेट:** November 18, 2026 14:51 IST
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [सफेद कुर्ता, लाल दुपट्टा और...न्यूयॉर्क के मुस्लिम मेयर जोहरान ममदानी ने मनाई दिवाली, हिंदू धर्म पर](https://hindi.news18.com/world/america-zohran-mamdani-celebrates-diwali-in-new-york-praises-hinduism-and-indian-culture-10994220.html)
-*News18 Hindi (World)* - Nov 18, 06:16 IST (iso: 2026-11-18T00:46:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Zohran-Mamdani-1-2026-11-96e51ac7d65072b4a1b9ce4785e476dd-1200x800.jpg -->
+### [₹4600000 का छुटकू हथियार, ईरान ने किया ₹90000000000 के अमेरिकी महाबली का शिकार, चिल्लाता रहा कुवैत](https://hindi.news18.com/world/middle-east-iran-claims-to-target-patriot-missile-system-by-suicide-drone-in-kuwait-base-ws-bl-10995577.html)
+*News18 Hindi (World)* - Nov 18, 14:46 IST (iso: 2026-11-18T09:16:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/patriot-missile-2-2026-10-6ffbac62bf2b028c7d16c89f9e1e68c1-1200x800.jpg -->
 
-न्यूयॉर्क के मेयर जोहरान ममदानी ने दिवाली मनाई। उन्होंने हिंदू धर्म और भारतीय संस्कृति की प्रशंसा की। ममदानी ने अपने मिश्रित पृष्ठभूमि का उल्लेख किया। Zohran Mamdani Celebrates Diwali: न्यूयॉर्क के मेयर जोहरान ममदानी ने दिवाली समारोह की मेजबानी की. इस दौरान हिंदू धर्म और भारतीय संस्कृति की तारीफ की. उन्होंने अपनी मां के पंजाबी हिंदू और पिता के गुजराती मूल के युगांडा के मुस्लिम होने का जिक्र किया.
+ईरान ने दावा किया कि उसने कुवैत में तैनात अमेरिकी पैट्रियॉट मिसाइल प्रणाली को निशाना बनाया। इस प्रणाली की कीमत लगभग 900 करोड़ रुपये है, जबकि ईरानी हथियार की कीमत 46 लाख रुपये थी। Iran Claim to Target Patriot System: ईरान ने दावा किया है कि उसने कुवैत में तैनात अमेरिका के महाबली डिफेंस सिस्टम पैट्रियल मिसाइल प्रणाली को निशानी बनाया है.
 
-### [अमीर देशों के कर्ज का बोझ गरीब मुल्कों पर भारी: 51 देशों पर गहराया संकट, सिर्फ ब्याज चुकाने में जा](https://www.amarujala.com/world/global-debt-crisis-developing-countries-interest-rates-51-nations-world-bank-2026-11-18)
-*Amar Ujala World* - Nov 18, 05:31 IST (iso: 2026-11-18T00:01:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/global-debt-crisis_44a3d3766d7534b022e7e51228413188.jpeg?w=1200&dpr=1.0 -->
+### [इजरायल के पावर गेम में ट्विस्ट, संसद का नया स्पीकर आइजनकोट का करीबी, अब तो नहीं बचेगी नेतन्याहू की](https://hindi.news18.com/world/middle-east-opposition-ally-gets-israel-parliament-speaker-post-problems-increases-for-netanyahu-10994581.html)
+*News18 Hindi (World)* - Nov 18, 09:14 IST (iso: 2026-11-18T03:44:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/netanyahu-pic-2026-10-619ac904a1a13c28e48e790717635ffc-1200x800.jpg -->
 
-विश्व बैंक के अनुसार 51 विकासशील देशों का बजट अब ब्याज भुगतान में खर्च हो रहा है। उच्च ब्याज दरों ने इन देशों के विकास खर्चों को सीमित कर दिया है। अमीर देशों के कर्ज का बोझ गरीब मुल्कों पर भारी: 51 देशों पर गहराया संकट, सिर्फ ब्याज चुकाने में जा।
+इजरायल की नेसेट में विपक्षी नेता मतन कहाना को नया स्पीकर चुना गया। उन्हें 66 वोटों का समर्थन मिला। इससे नेतन्याहू की सत्ता की स्थिति और कमजोर हो गई है। राजनीतिक गलियारों में उल्टी गिनती शुरू हो गई है। Major Setback for Netanyahu in Israel: इजरायल की राजनीति में चल रही उठापटक के दौरान नया मोड़ तब आया, जब यहां की नेसेट में स्पीकर का चुनाव विपक्ष के पाले में चला गया.
+
+### [ट्रंप की हत्या का प्लान, बाइडेन भी निशाने पर... ईरान के लिए काम कर रहा था पाकिस्तानी, अब साढ़े 27](https://hindi.news18.com/world/america-plot-to-assassinate-donald-trump-and-biden-pakistani-asif-merchant-sentenced-27-years-in-prison-by-us-court-10994292.html)
+*News18 Hindi (World)* - Nov 18, 09:01 IST (iso: 2026-11-18T03:31:34+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Asif-Merchant-2026-11-2d653a3cbf38ed0c86a5efb3b19d8f46-1200x800.jpg -->
+
+ब्रुकलिन की संघीय अदालत ने पाकिस्तानी नागरिक आसिफ मर्चेंट को 27 साल 6 महीने की सजा सुनाई। उसने ईरान के लिए ट्रंप और बाइडेन की हत्या की साजिश रची थी। उसकी चुनी हुई किराए के हत्यारे वास्तव में एफबीआई के अंडरकवर एजेंट थे। US Iran Agent: डोनाल्ड ट्रंप और जो बाइडेन की हत्या की खौफनाक साजिश रचने वाले एक पाकिस्तानी नागरिक को अमेरिका की अदालत ने करारा सबक सिखाया है.
+
+### [डोनाल्ड ट्रंप के कत्ल की ईरानी साजिश: 5,000 डॉलर देकर ‘किराए के कातिल’ ढूंढे, निकले FBI एजेंट](https://www.patrika.com/world-news/asif-merchant-sentenced-27-years-trump-assassination-plot-iran-irgc-21060470)
+*Patrika (World)* - Nov 18, 08:55 IST (iso: 2026-11-18T03:25:07+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Trump-assassination-plot.webp -->
+
+आसिफ मर्चेंट को ट्रंप की हत्या की साजिश में दोषी पाया गया। उसने ईरान की आईआरजीसी के लिए काम किया। उसने 5,000 डॉलर देकर किराए के हत्यारे खोजे, जो एफबीआई के एजेंट निकले। अदालत ने उसे साढ़े 27 साल की सजा दी। Asif Merchant Sentenced: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप की जान लेने की जिस साजिश ने वाशिंगटन से तेहरान तक हलचल मचा दी थी, उसके किरदार को आखिरकार उसकी सजा मिल गई।
+
+---
+
+## दुनिया
+
+### [घर के पीछे गड्ढा खोद रहे थे मजदूर, आई टन की आवाज और निकली साक्षात लक्ष्मी, झरने लगा सोना ही सोना](https://hindi.news18.com/world/rest-of-world-gold-treasure-discovered-in-backyard-of-house-during-digging-of-swimming-pool-gold-found-underground-10995475.html)
+*News18 Hindi (World)* - Nov 18, 14:17 IST (iso: 2026-11-18T08:47:48+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/gold-discovered-2026-11-fafa1c13b187f2589c900775ffd0b010-1200x800.jpg -->
+
+एक व्यक्ति अपने घर में पूल बनवाने के लिए गड्ढा खोद रहा था। तभी वहां से बड़ी मात्रा में सोना निकला। इस खोज से वह व्यक्ति एक ही झटके में करोड़पति बन गया। Gold Treasure Discovered at House: अगर आपकी किस्मत में आसानी से पैसा आना लिखा है, तो घर में बैठे-बैठे भी लक्ष्मी चलकर पहुंच जाती है. कुछ ऐसा ही हुआ एक शख्स के साथ, जो घर में पूल बनवाने की तैयारी में था, तभी उसे गड़ा हुआ धन मिल गया.
+
+### [आजम खां की रिहाई से सियासत में नए समीकरणों की आहट, किसका बढ़ेगा कद, किसकी होगी परीक्षा? पूरा सियासी](https://www.amarujala.com/uttar-pradesh/moradabad/azam-khan-return-new-political-equations-in-up-opportunities-and-challenges-for-samajwadi-party-2026-11-18)
+*Amar Ujala Breaking* - Nov 18, 12:54 IST (iso: 2026-11-18T07:24:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/azam-khan_494b0fe955fe3b9193deed324b572b2d.jpeg?w=1200&dpr=1.0 -->
+
+उत्तर प्रदेश में आजम खां की जेल से रिहाई ने राजनीतिक समीकरण बदल दिए हैं। विधानसभा चुनावों के आगे सपा के अंदरूनी गतिविधियां और अन्य दलों की रणनीतियां अब नए मोड़ पर हैं। उत्तर प्रदेश विधानसभा चुनाव की आहट के बीच सपा के वरिष्ठ नेता आजम खां की जेल से रिहाई ने प्रदेश की सियासत में नई बहस छेड़ दी है।
+
+### [नहीं करना होगा इंतजार! फिर लौटेगी फुलेरा की कहानी; जानें कब आएगा अगला सीजन](https://www.amarujala.com/entertainment/panchayat-5-release-date-out-prime-video-series-and-jitendra-kumar-s-show-returns-in-december-2026-11-18)
+*Amar Ujala Breaking* - Nov 18, 12:26 IST (iso: 2026-11-18T06:56:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/pacayata-sajana-5_ee37525c563a59ae6b4a4fe70f5e5dcf.jpeg?w=1200&dpr=1.0 -->
+
+पंचायत सीजन 5 का प्रीमियर दिसंबर में होगा। द वायरल फीवर निर्माण कर रहा है, जबकि दीपक कुमार मिश्रा ने सीरीज का निर्देशन और रचना संभाली है। पंचायत सीजन 5 का प्रीमियर दिसंबर में होने वाला है। पंचायत सीजन 5 का निर्माण द वायरल फीवर ने किया है। इसके निर्देशक दीपक कुमार मिश्रा हैं, जबकि सीरीज की रचना दीपक कुमार मिश्रा के साथ चंदन कुमार और अरुणाभ कुमार ने की है।
+
+### ['कथा रोकोगे तो फिर नमाज भी रोकी जाएगी'; प्रतापगढ़ में धीरेंद्र शास्त्री बोले-हिंदू जाग रहा है](https://www.amarujala.com/uttar-pradesh/allahabad/dhirendra-shastri-big-statement-in-up-pratapgarh-katha-is-stopped-then-namaz-will-also-be-stopped-raja-bhaiya-2026-11-18)
+*Amar Ujala Breaking* - Nov 18, 11:49 IST (iso: 2026-11-18T06:19:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/dhirendra-shastri_99f46fb95ef7ecca52794d8cfc27d064.jpeg?w=1200&dpr=1.0 -->
+
+प्रतापगढ़ में आचार्य धीरेंद्र शास्त्री ने कथा पर प्रतिबंध लगाने की चेतावनी दी। उन्होंने कहा कि यदि कथा रोकोगे तो नमाज भी रोकी जाएगी और हिंदू जाग रहा है। प्रतापगढ़ के कुंडा के बेंती परेड ग्राउंड में कथा समापन के बाद देर रात कथाव्यास बागेश्वर धाम के पीठाधीश्वर आचार्य धीरेंद्र कृष्ण शास्त्री ने भगवान कृष्ण पर दिए बयान को लेकर मीडिया के सामने अपनी बात रखी।
+
+### [रेगुलर सैनिक बनना है तो सीखनी होगी टेक्नोलॉजी: 75% अग्निवीरों के सामने नई परीक्षा](https://www.patrika.com/world-news/agnipath-scheme-agniveer-6-year-extension-selection-criteria-regular-soldier-21060583)
+*Patrika (World)* - Nov 18, 09:29 IST (iso: 2026-11-18T03:59:22+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Agnipath-Scheme_0fa754.webp -->
+
+केंद्र ने अग्निपथ योजना में बदलाव किया। अब 75 प्रतिशत अग्निवीरों को दो साल का अतिरिक्त अवसर मिलेगा। स्थायी नौकरी के लिए फिटनेस और निशानेबाजी परीक्षा पास करनी होगी। सेना इस चयन प्रक्रिया पर विचार कर रही है। Revamped Agnipath Scheme: केंद्रीय कैबिनेट के फैसले के बाद अब हर अग्निवीर के लिए नियमित सैनिक बनने का रास्ता खुल गया है, लेकिन यह रास्ता आसान नहीं होगा।
+
+### [एआई के बढ़ते प्रभाव के बीच 'ह्यूमन' बना 2026 का वर्ड ऑफ द ईयर, जानिए कैसे हुआ शब्द का चयन?](https://www.amarujala.com/world/cambridge-dictionary-names-human-word-of-the-year-2026-amid-ai-fears-2026-11-18)
+*Amar Ujala World* - Nov 18, 08:47 IST (iso: 2026-11-18T03:17:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/kamabraja-dakashanara-na-2026-ka-varada-oifa-tha-iiyara-hayamana-cana_af53dcd391fc29cbdb95d2627477b412.jpeg?w=1200&dpr=1.0 -->
+
+कैम्ब्रिज डिक्शनरी ने 2026 का वर्ड ऑफ द ईयर 'ह्यूमन' घोषित किया। यह चयन एआई के बढ़ते प्रभाव के बीच हुआ। शब्द का चयन उस समय किया गया जब मशीन लर्निंग मानवता की परिभाषा को चुनौती दे रही है। कैम्ब्रिज डिक्शनरी: एआई के बढ़ते प्रभाव के बीच 'ह्यूमन' बना 2026 का वर्ड ऑफ द ईयर, जानिए कैसे हुआ शब्द का चयन?---Cambridge Dictionary Names 'Human' Word of the Year 2026 Amid AI Fears।
+
+---
+
+## एशिया-प्रशांत
+
+### [मुजीब के 1971 वाले आंदोलन की राह पर हसीना? बांग्लादेश में फिर उठेगी क्रांति: SC एडवोकेट मोहसिन राशिद](https://hindi.news18.com/world/south-asia-sheikh-hasina-return-bangladesh-1971-mujib-revolution-mohsin-rashid-10992973.html)
+*News18 Hindi (World)* - Nov 18, 14:00 IST (iso: 2026-11-18T08:30:29+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-17-2026-11-f6308f25c16b926752cf044b3f707476-1200x800.jpg -->
+
+सुप्रीम कोर्ट के वरिष्ठ अधिवक्ता मोहम्मद मोहसिन राशिद ने शेख हसीना की संभावित वापसी की तुलना 1971 के आंदोलन से की। उनका मानना है कि हसीना सविनय अवज्ञा का रास्ता अपनाकर देश में बड़ा जनआंदोलन खड़ा कर सकती हैं। बांग्लादेश की राजनीति में क्या 1971 का इतिहास फिर दोहराया जा सकता है? सुप्रीम कोर्ट के वरिष्ठ अधिवक्ता एडवोकेट मोहम्मद मोहसिन राशिद ने शेख हसीना की संभावित वापसी की तुलना उनके पिता शेख मुजीबुर रहमान के आंदोलन से की है.
+
+### [भारत से मनीला क्या-क्या ले गए पीएम मोदी? लॉस्ट वैक्स की मूर्ति के लेकर रोगन-गोंड पेंटिंग तक, सब कुछ](https://hindi.news18.com/world/south-asia-what-gifts-pm-modi-carried-to-manila-from-india-all-specialties-of-different-zones-ws-l-10995265.html)
+*News18 Hindi (World)* - Nov 18, 13:17 IST (iso: 2026-11-18T07:47:34+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/PM-MANILA-2026-11-6d8b7dca89d052834f51745cf40e8b50-1200x800.jpg -->
+
+प्रधानमंत्री नरेंद्र मोदी ने आसियान शिखर सम्मेलन के लिए मनीला यात्रा के दौरान भारतीय शिल्पकला के तोहफे भेंट किए। इनमें लॉस्ट वैक्स तकनीक की मूर्ति और रोगन-गोंड पेंटिंग शामिल थीं। PM Modi Gifts from India to Manila: पीएम मोदी जब आसियान शिखर सम्मेलन के लिए फिलीपींस की राजधानी मनीला गए तो वे खाली हाथ नहीं गए थे. वे अपने साथ भारत से बहुत से गिफ्ट भी लेकर गए थे, जिसमें अलग-अलग राज्यों से जुड़ी हुई विशेषताएं थीं.
+
+### [लॉस्ट वैक्स की मूर्ति से गुलाबी क्वार्ट्ज के हाथी तक, पीएम मोदी ने मनीला में भेंट किए भारतीय कला के](https://hindi.news18.com/world/rest-of-world-lost-vax-statue-to-rose-quartz-elephant-pm-modi-gifts-precious-indian-art-to-world-leaders-in-manila-ws-l-10995272.html)
+*News18 Hindi (World)* - Nov 18, 13:09 IST (iso: 2026-11-18T07:39:57+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pm-modi-gift-to-manila-2026-11-698dd02b299b182cf6561e1a8e2b2692-1200x800.jpg -->
+
+प्रधानमंत्री मोदी ने मनीला में विदेशी नेताओं को चोल कांस्य मूर्ति और गुलाबी क्वार्ट्ज हाथी भेंट किए। इन तोहफों में बिदरी कला के नमूने भी शामिल थे, जो भारतीय पारंपरिक शिल्प को दर्शाते हैं। प्रधानमंत्री नरेंद्र मोदी ने मनीला में विभिन्न देशों के नेताओं को भारत की पारंपरिक कला और शिल्प से जुड़े चोल कांस्य मूर्ति, गुलाबी क्वार्ट्ज हाथी और बिदरी कला जैसे अनमोल तोहफे भेंट किए.
+
+### [कराची में खून की नदियां बहाओगे? पाकिस्तान टुकड़े-टुकड़े प्लान पर बिलावल ने शहबाज को हड़काया, मुनीर](https://hindi.news18.com/world/pakistan-pakistan-partition-plan-bilawal-bhutto-slams-forced-partition-states-calls-spill-blood-karachi-hyderabad-10995007.html)
+*News18 Hindi (World)* - Nov 18, 11:43 IST (iso: 2026-11-18T06:13:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bilwal-bhutto-2026-11-1e1d8b913fd0c554cc04686523981a43-1200x800.jpg -->
+
+बिलावल भुट्टो ने शहबाज शरीफ और आसिम मुनीर पर सिंध के बंटवारे के प्रस्ताव को खारिज कर दिया। उन्होंने कहा कि इससे कराची में खून की नदियां बहेंगी, जिस पर शहबाज ने अभी तक प्रतिक्रिया नहीं दी। Bilawal Slams Karachi Hyderabad Partion Plan: पाकिस्तान की सियासत में हाहाकार मचाते हुए बिलावल भुट्टो ने शहबाज शरीफ के साथ-साथ आसिम मुनीर को भी प्रांतों के पार्टिशन प्लान पर आड़े हाथों लिया है.
+
+### [Nvidia में वापसी के रास्ते बंद, जेनसेन हुआंग ने 277 शब्दों में लिखा इमोशनल मैसेज, किससे मांगी माफी?](https://hindi.news18.com/world/america-nvidia-denies-jensen-huang-return-what-he-wrote-in-277-words-message-to-family-after-exit-10994766.html)
+*News18 Hindi (World)* - Nov 18, 10:39 IST (iso: 2026-11-18T05:09:36+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Jensen-Huang-Lori-Huang-love-story-2026-11-cc054b29dfa7a1a1924c9a32cef6f154-1200x800.jpg -->
+
+Nvidia के सीईओ जेनसन हुआंग का चीनी जासूसी के आरोपों के बाद कंपनी में वापसी का रास्ता बंद हो गया। उन्होंने अपनी पारिवारिक टीम को 277 शब्दों का संदेश भेजकर माफी मांगी और इस मुश्किल समय में उनके साथ खड़े रहने का आभार जताया। Jensen Huang 277 Words Message to Family: कारोबार की दुनिया में जिस शख्स की चर्चा पिछले कुछ दिनों में सबसे ज्यादा रही, वो Nvidia के CEO रहे जेनसन हुआंग थे.
+
+### [पश्मीना शॉल से पिछवाई पेंटिंग तक: पीएम मोदी ने 14 देशों के नेताओं को दिए खास तोहफे, जानें हर उपहार](https://www.amarujala.com/world/pm-modi-gifts-14-indian-traditional-artworks-to-world-leaders-in-manila-2026-11-18)
+*Amar Ujala World* - Nov 18, 10:13 IST (iso: 2026-11-18T04:43:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/paema-matha-na-14-thasha-ka-natao-ka-thae-bharataya-kal-ka-khasa-tahafa_dab0ddb170a9547442a27ce5c376dee9.gif?w=1200&dpr=1.0 -->
+
+मनीला में पीएम मोदी ने ट्रंप समेत 14 देशों के नेताओं को भारतीय कला के विशेष उपहार दिए। इनमें पश्मीना शॉल और पेंटिंग शामिल थीं, जो भारतीय संस्कृति और शिल्पकला की प्रतिनिधित्व करती हैं। पश्मीना शॉल से पिछवाई पेंटिंग तक: पीएम मोदी ने 14 देशों के नेताओं को दिए खास तोहफे, जानें हर उपहार।
+
+---
+
+## अमेरिका
+
+### [नौकरी के आधार पर ग्रीन कार्ड पाना होगा कठिन, भर्ती प्रक्रिया में बदलाव की तैयारी; किन पर पड़ेगा असर?](https://www.amarujala.com/world/us-proposes-tougher-rules-for-employment-based-green-cards-hiring-process-longer-2026-11-18)
+*Amar Ujala World* - Nov 18, 12:56 IST (iso: 2026-11-18T07:26:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/26/garana-karada_c6ace5e3260356e5d84de349ec78d71d.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका ने नौकरी आधारित ग्रीन कार्ड के लिए नई कठोर नियमों का प्रस्ताव रखा है। इससे भर्ती प्रक्रिया लंबी होगी और विदेशी कर्मचारियों को वीसा पाना मुश्किल हो जाएगा। नौकरी के आधार पर ग्रीन कार्ड पाना होगा कठिन, भर्ती प्रक्रिया में बदलाव की तैयारी; किन पर पड़ेगा असर?
+
+### [मैरी पेल्टोला ने रिपब्लिकन से छीना राज्य, 70 साल बाद सीनेट में सबसे बड़ी बढ़त](https://www.amarujala.com/world/midterm-elections-mary-peltola-wins-in-alaska-democrats-gain-the-upper-hand-in-the-us-senate-2026-11-18)
+*Amar Ujala World* - Nov 18, 09:55 IST (iso: 2026-11-18T04:25:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/mara-paltal-na-raca-naya-itahasa_fa648bdcffc98bbe487cab258a51f756.jpeg?w=1200&dpr=1.0 -->
+
+अलास्का में मैरी पेल्टोला ने रिपब्लिकन पार्टी से सीट छीन ली। यह जीत डेमोक्रेट्स के लिए अमेरिकी सीनेट में 70 साल बाद सबसे बड़ी बढ़त के रूप में दर्ज की गई है। मैरी पेल्टोला ने रिपब्लिकन से छीना राज्य, 70 साल बाद सीनेट में सबसे बड़ी बढ़त।
+
+### [दिवाली समारोह में बाधा पर भड़के सांसद, संघीय जांच की मांग; ट्रंप प्रशासन पर क्या आरोप लगाए?](https://www.amarujala.com/world/us-lawmakers-demand-federal-probe-into-diwali-event-disruption-in-seattle-2026-11-18)
+*Amar Ujala World* - Nov 18, 09:13 IST (iso: 2026-11-18T03:43:36+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/amaraka-ma-hatha-samathaya-ka-khalfa-narabja_8423f1885bbb2fbc22bbaa9cddf7e35a.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी सांसदों ने सीटल में दिवाली समारोह में बाधा पर संघीय जांच की मांग की है। उन्होंने ट्रंप प्रशासन पर समुदायिक गतिविधियों को नुकसान पहुंचाने का आरोप लगाया। इस घटना पर राजनीतिक बहस तेज हो गई है। अमेरिका: दिवाली समारोह में बाधा पर भड़के सांसद, संघीय जांच की मांग; ट्रंप प्रशासन पर क्या आरोप लगाए?
+
+### [अमेरिकी खुफिया एजेंसी CIA के हेडऑफिस में आग? अफरा-तफरी में पहुंची दमकल टीम, आसमान में दिखा काला धुआं](https://hindi.news18.com/world/america-cia-headquarters-in-virginia-firefighters-rushed-after-smoke-detected-in-hvac-unit-10994483.html)
+*News18 Hindi (World)* - Nov 18, 08:28 IST (iso: 2026-11-18T02:58:22+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/CIA-NEWS-2026-11-cd03ddc2a86b6cf6acea986e6f347a97-1200x800.jpg -->
+
+वर्जीनिया के लैंगली में सीआईए मुख्यालय में आग लग गई। दमकल की टीम तुरंत मौके पर पहुंची और आग बुझाने लगी। आसमान में काला धुआं दिखा। घटना के दौरान डिजिटल आउटेज की भी खबरें आईं। CIA Headquarters Fire: अमेरिका में एक ओर डिजिटल आउटेज ने लोगों को हैरान कर दिया, दूसरी तरफ खुफिया एजेंसी CIA के हेडक्वार्टर में आग लगने की खबरें आईं.
+
+---
+
+## यूरोप और रूस
+
+### [नेतृत्व चाहेगा तो चुनाव लड़ूंगा, पूर्व मुख्यमंत्री हरीश रावत ने जताई इस सीट से चुनाव लड़ने की इच्छा](https://www.amarujala.com/dehradun/harish-rawat-expresses-desire-to-contest-2027-uttarakhand-elections-from-haridwar-seat-2026-11-18)
+*Amar Ujala Breaking* - Nov 18, 11:30 IST (iso: 2026-11-18T06:00:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/28/parava-saema-harasha-ravata_49086aa0363e61dc982b97f08f080bee.jpeg?w=1200&dpr=1.0 -->
+
+पूर्व मुख्यमंत्री हरीश रावत ने कहा कि राहुल गांधी और मल्लिकार्जुन खरगे से मुलाकात में चुनाव लड़ने की कोई चर्चा नहीं हुई। उन्होंने स्पष्ट किया कि पार्टी नेतृत्व की इच्छा के बिना वे किसी सीट से चुनाव नहीं लड़ेंगे। कांग्रेस के वरिष्ठ नेता एवं पूर्व मुख्यमंत्री हरीश रावत ने कहा कि राहुल गांधी और राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे से मुलाकात में चुनाव लड़ने के संबंध में कोई चर्चा नहीं हुई है।
+
+### [83 महिला सांसदों की अश्लील डीपफेक तस्वीरें ऑनलाइन? पेरिस हिल्टन के खुलासे से मचा हड़कंप](https://www.amarujala.com/world/paris-hilton-claim-83-us-congresswomen-obscene-deepfakes-online-defiants-2026-11-18)
+*Amar Ujala World* - Nov 18, 10:21 IST (iso: 2026-11-18T04:51:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/parasa-haltana_6f10b080847d06aed68b3eb6a715763b.jpeg?w=1200&dpr=1.0 -->
+
+पेरिस हिल्टन का दावा है कि 83 अमेरिकी महिला सांसदों की अश्लील डीपफेक तस्वीरें ऑनलाइन फैली हुई हैं। इस खुलासे ने डिजिटल सुरक्षा और डीपफेक तकनीक के दुरुपयोग के खिलाफ अमेरिका में नई चर्चाओं को जन्म दिया है। अमेरिका: 83 महिला सांसदों की अश्लील डीपफेक तस्वीरें ऑनलाइन? पेरिस हिल्टन के खुलासे से मचा हड़कंप।
+
+### [वो शापित शहर, जिसे सरकार ने खुद खाली कराया, अगले 100 सालों तक खुला रहेगा पालात का दरवाजा](https://hindi.news18.com/world/america-centralia-pennsylvania-underground-coal-fire-america-cursed-ghost-town-burning-since-1962-that-inspired-silent-hill-photogallery-10994114.html)
+*News18 Hindi (World)* - Nov 18, 09:26 IST (iso: 2026-11-18T03:56:02+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Centralia-Pennsylvania-Underground-Fire-2026-11-0c184310fd657bb5eaf933a3ab0545f7-1200x800.jpg -->
+
+पेनसिल्वेनिया के सेंट्रलिया शहर में 1962 से कोयले की खानों में आग जल रही है। विशेषज्ञों का अनुमान है कि यह आग अगले सौ साल तक बनी रहेगी। जहरीली गैसों के कारण शहर पूरी तरह वीरान हो चुका है। अमेरिका के पेनसिल्वेनिया राज्य में बसा सेंट्रलिया शहर साल 1962 से जमीन के नीचे लगी भयानक आग के कारण पूरी तरह वीरान हो चुका है.
+
+### [ट्रंप की मुलाकात से पहले चीन पर शिकंजा?: व्यापारिक रियायतें खत्म करने की तैयारी, सीनेटर ने पेश किया](https://www.amarujala.com/world/tightening-screws-on-china-ahead-of-trump-meeting-plans-to-end-trade-concessions-senator-introduces-bill-2026-11-18)
+*Amar Ujala World* - Nov 18, 09:11 IST (iso: 2026-11-18T03:41:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/amaraka-bugdhhaega-cana-samana-para-tarafa_ecf1fea00708a362fd3e32ec05688086.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी सीनेटर ने चीन के खिलाफ व्यापारिक रियायतें समाप्त करने का विधेयक पेश किया। यह कदम ट्रंप की चीन यात्रा से पहले उठाया गया है। इससे दोनों देशों के बीच व्यापारिक तनाव बढ़ने की संभावना है। ट्रंप की मुलाकात से पहले चीन पर शिकंजा?: व्यापारिक रियायतें खत्म करने की तैयारी, सीनेटर ने पेश किया।
+
+### [यूजर को खुश करने के लिए चापलूसी कर रहें AI मॉडल, असहमति जताने पर 10 में से 8 बार वैज्ञानिक तर्क को](https://www.patrika.com/world-news/ai-chatbot-chaplusi-climate-change-unesco-ucl-report-cop31-21060465)
+*Patrika (World)* - Nov 18, 08:25 IST (iso: 2026-11-18T02:55:37+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/aiii.webp -->
+
+यूनेस्को और यूनिवर्सिटी कॉलेज लंदन ने कॉप 31 में रिपोर्ट जारी की। इसमें पाया गया कि एआई चैटबॉट्स यूजर की असहमति पर तथ्य बदल देते हैं। यह व्यवहार चापलूसी को दर्शाता है। मॉडल को इस तरह ट्रेन किया गया है कि वे उपयोगकर्ता को खुश रखें। तुर्किये के अंताल्या में चल रहे कॉप 31 जलवायु सम्मेलन में यूनेस्को और यूनिवर्सिटी कॉलेज लंदन ने एक नई रिपोर्ट पेश की है।
 
 ---
 
