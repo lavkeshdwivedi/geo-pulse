@@ -1,74 +1,16 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 19, 2026 06:20 IST
-
----
-
-## Asia-Pacific
-
-### [Bangladesh deploys paramilitary as unrest grows over Hasina's return](https://www.thehindu.com/news/international/bangladesh-deploys-paramilitary-as-unrest-grows-overhasinas-return/article71717353.ece)
-*The Hindu (International)* - Nov 18, 23:13 IST (iso: 2026-11-18T17:43:26+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/efm0t6/article71717368.ece/alternates/LANDSCAPE_1200/TH14-PTI-BanglaG9DGQ3RS3.3.jpg.jpg -->
-
-Bangladesh deployed paramilitary units as unrest intensified following Sheikh Hasina's return. Police reported dozens of crude bomb blasts and vehicle arsons across 28 districts in ten days. Several officers and civilians were injured in the escalating violence. Police have recorded dozens of crude bomb blasts and incidents of vehicles ​being torched in at least ‌28 districts over the last 10 days, with several police personnel and civilians injured, local media has reported.
-
-### [Xi’s APEC speech casts China as Asia’s open door as US closes](https://asiatimes.com/2026/11/xis-apec-speech-casts-china-as-asias-open-door-as-us-closes/)
-*Asia Times* - Nov 18, 12:19 IST (iso: 2026-11-18T06:49:16+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Xi-Jinping-China-APEC-Summit-Shenzhen-November-19_2026.jpg -->
-
-Xi Jinping addressed the APEC summit in Shenzhen, positioning China as an open alternative to US trade restrictions. He targeted Southeast Asian leaders and multinational executives, contrasting Washington's tariff deals and semiconductor controls with Beijing's stability. The speech aimed to secure economic partnerships without directly naming the United States. Taking the podium first at the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, Chinese President Xi Jinping responded to Washington’s transactional tariff deals, revived Quad security alignment and tightening semiconductor controls with a calculated counter-pitch aimed squarely at wavering Southeast Asian capitals and multinational executives.
-
-### [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
-*The Guardian* - Nov 17, 23:28 IST (iso: 2026-11-17T17:58:05+00:00)
-<!-- image: https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=925e666b4367461e96fdfe14c959ef16 -->
-
-Jensen Huang will testify before Congress on 1 December regarding national security concerns. His resignation followed an alleged affair with a suspected Chinese spy. Nvidia general counsel Tim Teter will also appear. The hearing addresses the fallout from his departure and potential security breaches. High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spyNvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for.
-
-### [How the news scramble is messing with Bank of Japan policymaking](https://asiatimes.com/2026/11/how-the-news-scramble-is-messing-with-bank-of-japan-policymaking/)
-*Asia Times* - Nov 17, 23:01 IST (iso: 2026-11-17T17:31:01+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Local_train_Japan.jpg -->
-
-Japan's traditional shared media environment has eroded over three decades. Major newspapers and broadcast networks no longer dominate public discourse. This fragmentation complicates the Bank of Japan's ability to gauge market sentiment and manage monetary policy effectively. For the past three decades, Japanese society still enjoyed something close to a shared media life. Major newspapers had enormous circulation. NHK and a handful of commercial networks dominated television.
-
-### [Trump turns brief Manila stop into pre-Shenzhen leverage haul](https://asiatimes.com/2026/11/trump-turns-brief-manila-stop-into-pre-shenzhen-leverage-haul/)
-*Asia Times* - Nov 17, 21:35 IST (iso: 2026-11-17T16:05:59+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/20047627_111726-cc-getty-trump-asia-img-scaled.jpg -->
-
-Trump used his brief Manila stop to secure leverage before heading to Shenzhen. He arrived after the ASEAN plenary had already concluded. The compressed schedule was initially viewed as a diplomatic slight. He leveraged the visit to negotiate terms ahead of his China meeting. When US President Donald Trump touched down in Manila on Tuesday afternoon (November 17), arriving only after the Association of Southeast Asian Nations had already concluded its formal plenary and handed its rotating chair to Singapore, early international coverage largely framed the compressed 24 hour visit as a diplomatic slight.
-
-### [Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit](https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit)
-*The Guardian* - Nov 17, 16:48 IST (iso: 2026-11-17T11:18:26+00:00)
-<!-- image: https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d080ebd37b1b3c732785be9ecae62a52 -->
-
-Shenzhen hosted the APEC 2026 summit, showcasing China's technological and economic rise. Xi used the event to project confidence in China's central role in the global economy. The city's skyline displayed APEC branding during the high-profile international gathering. Host city offers showcase of China’s rise into a confident and innovative power central to global economyIn a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Ec.
+**Updated:** November 19, 2026 13:35 IST
 
 ---
 
 ## Middle East & Africa
 
-### [Saudis prepare for Houthi war to last well into 2027](https://www.thehindu.com/news/international/saudis-prepare-for-houthi-war-to-last-well-into-2027/article71717227.ece)
-*The Hindu (International)* - Nov 18, 22:55 IST (iso: 2026-11-18T17:25:36+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/bo4x2x/article71717318.ece/alternates/LANDSCAPE_1200/2026-11-16T054025Z_1530056383_RC2TOOAXD9QD_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG -->
+### [Iranian Doctor Accused Of Spreading 'False Information' About Single Mothers](https://www.rferl.org/a/iran-families-single-mothers-doctor-prosecution/33901325.html)
+*Radio Free Europe / Liberty* - Nov 19, 12:11 IST (iso: 2026-11-19T06:41:17+00:00)
+<!-- image: https://gdb.rferl.org/c78ea04c-5d83-464a-2967-08df3ee80755_w1200_h630.jpg -->
 
-Saudi and Yemeni forces are reorganizing to prepare for a Houthi conflict extending into 2027. The coalition plans to defend Aden from Houthi advances. They also aim to shift offensive operations to eastern fronts where they have held their lines. Saudi and Yemeni forces are ​now reorganising, with plans to protect Aden from the Houthi advances and potentially shift their offensive to eastern fronts where they have made some advances or have at least held their lines.
-
-### [Ethiopia, Eritrea amass forces along border, heightening war fears: Sources](https://www.thehindu.com/news/international/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources/article71717229.ece)
-*The Hindu (International)* - Nov 18, 22:53 IST (iso: 2026-11-18T17:23:13+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/4rfxjx/article71717299.ece/alternates/LANDSCAPE_1200/2026-11-06T145536Z_438832642_RC28IOA268UD_RTRMADP_3_ETHIOPIA-SECURITY.JPG -->
-
-Ethiopia and Eritrea are amassing forces along their shared border, raising fears of a wider war. Tigray fighting has stoked regional instability. Ethiopia accused Sudan and Egypt of backing rebels, though both nations denied the claims. The fighting in Tigray has stoked fears of a ​wider conflagration in the Horn of Africa, with Ethiopia’s government also accusing Sudan, which is in the midst of its own civil war, and Egypt of backing the rebels; Eritrea, Sudan, Egypt ⁠all deny doing so.
-
-### [Trump's Board of Peace faults Israel, Hamas for failure to end Gaza war](https://www.thehindu.com/news/international/trumps-board-of-peace-faults-israel-hamas-for-failure-to-end-gaza-war/article71717231.ece)
-*The Hindu (International)* - Nov 18, 22:51 IST (iso: 2026-11-18T17:21:18+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/skstcq/article71199694.ece/alternates/LANDSCAPE_1200/Board-of-Peace-G1BG0O2CK.3.jpg.jpg -->
-
-Trump's Board of Peace criticized Israel and Hamas for failing to end the Gaza war. The ceasefire halted major fighting but the broader plan stalled. Hamas disarmament, Israeli troop withdrawal, and reconstruction efforts have effectively stopped. While the ceasefire has halted major fighting, the wider plan, which calls for Hamas ⁠to disarm, Israeli troops to withdraw and reconstruction to begin, has effectively stalled since soon after it came into effect last year.
-
-### [Iran strikes U.S. air base in Kuwait, targets Bahrain amid wider Gulf attacks](https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece)
-*The Hindu (International)* - Nov 18, 19:06 IST (iso: 2026-11-18T13:36:13+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/vxcdcx/article71715064.ece/alternates/LANDSCAPE_1200/US_Bases_Struck_77413.jpg -->
-
-Iran launched strikes on a U. S. air base in Kuwait and Bahrain. The attacks targeted American facilities on November 13 and 15. Tehran cited U. drone surveillance and strikes on its communications towers as the cause. Iran said its recent attacks. including those on other U. facilities in Bahrain on November 15 and November 13. were in response to U.
+Iranian authorities opened a case against an obstetrician for spreading false information. She posted a video noting a rise in single mothers. The action signals a crackdown on discussions of social change within the country. An Iranian obstetrician posted a video online in which she said she's observed a growing number of single women having babies. Iranian authorities reacted by opening a case against her for allegedly spreading misinformation, suggesting an effort to suppress discussions of social change.
 
 ### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
 *The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
@@ -94,17 +36,45 @@ US and Iranian forces exchanged air strikes across the Middle East. Gulf nations
 
 The World Health Organization reported that Ebola cases in the Democratic Republic of the Congo have more than doubled in three months. Over 11,000 cases and 5,400 deaths are now confirmed. The outbreak spans 67 health zones across eight provinces. The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said on Tuesday.
 
-### [Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact](https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines)
-*The Guardian* - Nov 17, 16:30 IST (iso: 2026-11-17T11:00:39+00:00)
-<!-- image: https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98bde914dbf117c3bd0d35b745bde001 -->
+### [Progress ‘real’ but fragile, as remnants of war wreck young lives](https://news.un.org/feed/view/en/story/2026/11/1168814)
+*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/syria-chemicalweapons-1498841400.jpg/image560x340cropped.jpg -->
 
-Hundreds were arrested in Manila during anti-Trump protests. Demonstrations were fueled by anger over the Iran war and a new AI pact. Organizers expect up to 10,000 people to join the next round. Trump is arriving for the Asean summit. Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summitAsean and Apec summits – live updatesHundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as authorities braced for more protests ahead of the US president’s arrival in the city for a leaders’ summit. Organisers cl.
+Senior UN officials told the Security Council that Syria shows real progress two years after Assad fell. However, explosive ordnance, winter conditions, and funding shortfalls threaten these gains. The situation remains fragile despite undeniable improvements in the region. Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.
 
-### [Iranian Top Cleric Visits Bosnia As Tehran Seeks Opening To Europe](https://www.rferl.org/a/33899774.html)
-*Radio Free Europe / Liberty* - Nov 16, 22:39 IST (iso: 2026-11-16T17:09:18+00:00)
-<!-- image: https://gdb.rferl.org/bcbcf74d-d2c3-43b5-e617-08de3c642a37_w1200_h630.jpg -->
+---
 
-A senior Iranian cleric who briefly assumed supreme leader powers after Khamenei's death visited Sarajevo. He urged European nations to distance themselves from US and Israeli policies toward Tehran. The visit highlights Tehran's effort to cultivate a European diplomatic connection. A senior Iranian cleric who briefly helped exercise the powers of Iran's supreme leader following the death of Ayatollah Ali Khamenei has visited Sarajevo, urging European countries to distance themselves from US and Israeli policies toward Tehran.
+## Asia-Pacific
+
+### [Trump’s $23 billion battleship faces sinking odds](https://asiatimes.com/2026/11/trumps-23-billion-battleship-faces-sinking-odds/)
+*Asia Times* - Nov 19, 08:48 IST (iso: 2026-11-19T03:18:31+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-BBGX-Battleship.jpg -->
+
+Trump’s $23 billion battleship proposal faces budget hurdles. Democrats are preparing to control Congress. Defense officials debate whether to fund a new capital ship or next-generation destroyers to counter China’s expanding naval fleet. As Democrats prepare to take over Congress and defense budget cuts loom, US President Donald Trump’s proposed battleship has sparked debate over whether to invest in a costly capital ship or next-generation destroyers to counter China’s growing fleet.
+
+### [Xi’s APEC speech casts China as Asia’s open door as US closes](https://asiatimes.com/2026/11/xis-apec-speech-casts-china-as-asias-open-door-as-us-closes/)
+*Asia Times* - Nov 18, 12:19 IST (iso: 2026-11-18T06:49:16+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Xi-Jinping-China-APEC-Summit-Shenzhen-November-19_2026.jpg -->
+
+Xi Jinping addressed the APEC summit in Shenzhen, positioning China as an open alternative to US trade restrictions. He targeted Southeast Asian leaders and multinational executives, contrasting Washington's tariff deals and semiconductor controls with Beijing's stability. The speech aimed to secure economic partnerships without directly naming the United States. Taking the podium first at the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, Chinese President Xi Jinping responded to Washington’s transactional tariff deals, revived Quad security alignment and tightening semiconductor controls with a calculated counter-pitch aimed squarely at wavering Southeast Asian capitals and multinational executives.
+
+### [Jensen Huang to testify before Congress on ‘potential breach of national security’](https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy)
+*The Guardian* - Nov 17, 23:28 IST (iso: 2026-11-17T17:58:05+00:00)
+<!-- image: https://i.guim.co.uk/img/media/fea99f9d4b797af26b13a23bec5d015fdb40ae5a/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=925e666b4367461e96fdfe14c959ef16 -->
+
+Jensen Huang will testify before Congress on 1 December regarding national security concerns. His resignation followed an alleged affair with a suspected Chinese spy. Nvidia general counsel Tim Teter will also appear. The hearing addresses the fallout from his departure and potential security breaches. High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spyNvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for.
+
+### [How the news scramble is messing with Bank of Japan policymaking](https://asiatimes.com/2026/11/how-the-news-scramble-is-messing-with-bank-of-japan-policymaking/)
+*Asia Times* - Nov 17, 23:01 IST (iso: 2026-11-17T17:31:01+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Local_train_Japan.jpg -->
+
+Japan's traditional shared media environment has eroded over three decades. Major newspapers and broadcast networks no longer dominate public discourse. This fragmentation complicates the Bank of Japan's ability to gauge market sentiment and manage monetary policy effectively. For the past three decades, Japanese society still enjoyed something close to a shared media life. Major newspapers had enormous circulation. NHK and a handful of commercial networks dominated television.
+
+### [Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit](https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit)
+*The Guardian* - Nov 17, 16:48 IST (iso: 2026-11-17T11:18:26+00:00)
+<!-- image: https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d080ebd37b1b3c732785be9ecae62a52 -->
+
+Shenzhen hosted the APEC 2026 summit, showcasing China's technological and economic rise. Xi used the event to project confidence in China's central role in the global economy. The city's skyline displayed APEC branding during the high-profile international gathering. Host city offers showcase of China’s rise into a confident and innovative power central to global economyIn a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Ec.
 
 ---
 
@@ -152,12 +122,6 @@ Ukraine struck the Crimean bridge, severing the peninsula's only direct road and
 
 The UN Human Rights Monitoring Mission in Ukraine reported that 2026 civilian casualties already exceed all previous years since the February 2022 invasion. The toll has risen dramatically compared to prior periods. This marks the highest recorded civilian death rate of the conflict to date. This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.
 
-### [Singapore’s AI balancing act exposes ASEAN’s split-stack dilemma](https://asiatimes.com/2026/11/singapores-ai-balancing-act-exposes-aseans-split-stack-dilemma/)
-*Asia Times* - Nov 17, 16:20 IST (iso: 2026-11-17T10:50:28+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/07/AI-Data-Center-Technology-Artificial-Intelligence.jpg -->
-
-Singapore signed the San Francisco Declaration on secure AI foundations on November 15. This move highlights the difficulty of balancing US and Chinese tech ties. Southeast Asian nations face a split-stack dilemma. They must maintain access to American computing while keeping commercial links with China. Singapore’s diplomatic maneuvers in Manila this week illustrate the increasingly difficult technology-balancing act facing Southeast Asia: maintaining access to American advanced computing infrastructure while preserving commercial engagement with China.
-
 ---
 
 ## Americas
@@ -167,6 +131,50 @@ Singapore signed the San Francisco Declaration on secure AI foundations on Novem
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_COP31.jpg/image770x420cropped.jpg -->
 
 COP31 delegates in Antalya launched a new global check on climate promise fulfillment. Ministers remain deadlocked over funding responsibilities and fossil fuel transition timelines. The core dispute centers on whether a greener future is just if poorer nations cannot afford the shift. With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called “just” if poorer countries cannot afford it.
+
+### [Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life](https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people)
+*The Guardian* - Nov 18, 03:10 IST (iso: 2026-11-17T21:40:56+00:00)
+<!-- image: https://i.guim.co.uk/img/media/49205240a8e75adf2f7dfcec0b4ab2d68d8e1b2d/117_24_1519_1215/master/1519.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ad35d19f3657396cbb0197d9ba8ec18 -->
+
+About 20 Awá people emerged from voluntary isolation in Brazil’s Amazon. They accepted food from nearby villagers. The contact raises alarms about increased invasions into their protected territory and threats to their traditional way of life. Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territoryAbout 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory. According to the NGO Survival International, members of the Awá people, who live in voluntary isolation,.
+
+### [Eight-year-old Haitian boy returns home after release from ICE custody](https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release)
+*The Guardian* - Nov 18, 02:29 IST (iso: 2026-11-17T20:59:56+00:00)
+<!-- image: https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c39589936af829d82bae2511b8fd40d -->
+
+An eight-year-old Haitian boy returned to his family in California. He was detained in San Diego on 4 November and transferred to Texas. Representative Juan Vargas shared a photo of the reunion after his release from ICE custody. Child reunited with family after he was detained by immigration agents in San Diego and transferred to TexasAn eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California. Representative Juan Vargas shared a photograph of the boy and his family in a social.
+
+### [The push to protect warming oceans reaches the negotiating table](https://news.un.org/feed/view/en/story/2026/11/1168824)
+*UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_COP31_02.jpg/image770x420cropped.jpg -->
+
+Scientists and communities presented nature protection strategies at COP31. These included using seawater to identify marine life and applying Indigenous knowledge for wildfire prevention. Negotiators still struggle to bridge divisions over fossil fuels and climate finance funding gaps. From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday.
+
+### [COP31 enters decisive week as climate talks face political test and AI initiatives gather pace](https://news.un.org/feed/view/en/story/2026/11/1168812)
+*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_01.jpg/image560x340cropped.jpg -->
+
+COP31 entered its final week with negotiators deadlocked on finance and fossil fuels. New initiatives on artificial intelligence and green industrialization highlighted technology's role in climate action. The talks face a significant political test as delegates push for final agreements. New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.
+
+---
+
+## Global / Multilateral
+
+### [‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering](https://news.un.org/feed/view/en/story/2026/11/1168819)
+*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/03/26806/image560x340cropped.jpg -->
+
+The World Health Organization reported that national antimicrobial resistance plans have doubled, yet implementation remains weak. Gaps in testing and treatment leave billions of people vulnerable. Few countries are delivering on their commitments to address the growing threat. More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on Monday.
+
+---
+
+## World
+
+### [Gideon Rachman on the Risk of World War III](https://www.crisisgroup.org/pod/global/gideon-rachman-risk-world-war-iii)
+*International Crisis Group* - Nov 13, 21:02 IST (iso: 2026-11-13T15:32:00+00:00)
+<!-- image: https://images.pexels.com/photos/6962257/pexels-photo-6962257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Gideon Rachman discussed his new book, War Is Interested in You, on the Hold Your Fire podcast. The Financial Times commentator explored whether current conflicts could escalate into a global war. He analyzed the risks of a wider confrontation in today's geopolitical climate. In this episode of Hold Your Fire!, Richard speaks with Gideon Rachman, chief foreign affairs commentator at the Financial Times about his new book, “War Is Interested in You”, and whether today’s conflicts could spin into a global war.
 
 ---
 

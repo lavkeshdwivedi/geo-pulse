@@ -1,57 +1,33 @@
 {
-  "generated_at": "2026-11-19T00:50:21.830043+00:00",
+  "generated_at": "2026-11-19T08:05:37.308337+00:00",
   "article_count": 50,
-  "total_unique_count": 256,
+  "total_unique_count": 277,
   "digest": {
-    "en": "Iran struck a U.S. air base in Kuwait while Bangladesh deployed paramilitary forces against Hasina. Xi framed China as Asia's open door in APEC remarks. The EU's Ukraine funding faces a budget crossfire.",
-    "hi": "हॉर्मुज में तीन तेल टैंकरों की आग और ट्रंप, पुतिन, जिनपिंग की किलिन विला बैठक आज का मुख्य विषय है। इसी दिन अमेरिकी कांग्रेस में डेमोक्रेट्स ने हकीम जेफ्रीज को स्पीकर के पद के लिए चुना।"
+    "en": "Ukraine’s Operation Vivaldi has severed the main supply line to Crimea, while the EU scrambles to secure fifty billion dollars in aid. In Asia, Xi positions China as the region’s open door as US tariffs tighten. The contrast between these two economic strategies defines the current geopolitical friction.",
+    "hi": "पुतिन ने ट्रंप के साथ चालीस मिनट की बातचीत के बाद रूसी मीडिया को डिटेल दी। इसी घंटे रोहिंग्या नरसंहार पर अदालत का फैसला आने वाला है। किम जोंग उन ने ट्रंप से मुलाकात के अटकलों के बीच नेवी यूनिवर्सिटी में प्रवेश लिया।"
   },
   "articles": [
     {
-      "title": "Bangladesh deploys paramilitary as unrest grows over Hasina's return",
-      "url": "https://www.thehindu.com/news/international/bangladesh-deploys-paramilitary-as-unrest-grows-overhasinas-return/article71717353.ece",
-      "source": "The Hindu (International)",
+      "title": "Iranian Doctor Accused Of Spreading 'False Information' About Single Mothers",
+      "url": "https://www.rferl.org/a/iran-families-single-mothers-doctor-prosecution/33901325.html",
+      "source": "Radio Free Europe / Liberty",
       "sources": [],
-      "published_at": "2026-11-18T17:43:26+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/efm0t6/article71717368.ece/alternates/LANDSCAPE_1200/TH14-PTI-BanglaG9DGQ3RS3.3.jpg.jpg",
-      "summary": "Bangladesh deployed paramilitary units as unrest intensified following Sheikh Hasina's return. Police reported dozens of crude bomb blasts and vehicle arsons across 28 districts in ten days. Several officers and civilians were injured in the escalating violence. Police have recorded dozens of crude bomb blasts and incidents of vehicles ​being torched in at least ‌28 districts over the last 10 days, with several police personnel and civilians injured, local media has reported.",
+      "published_at": "2026-11-19T06:41:17+00:00",
+      "image_url": "https://gdb.rferl.org/c78ea04c-5d83-464a-2967-08df3ee80755_w1200_h630.jpg",
+      "summary": "Iranian authorities opened a case against an obstetrician for spreading false information. She posted a video noting a rise in single mothers. The action signals a crackdown on discussions of social change within the country. An Iranian obstetrician posted a video online in which she said she's observed a growing number of single women having babies. Iranian authorities reacted by opening a case against her for allegedly spreading misinformation, suggesting an effort to suppress discussions of social change.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Trump’s $23 billion battleship faces sinking odds",
+      "url": "https://asiatimes.com/2026/11/trumps-23-billion-battleship-faces-sinking-odds/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-19T03:18:31+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-BBGX-Battleship.jpg",
+      "summary": "Trump’s $23 billion battleship proposal faces budget hurdles. Democrats are preparing to control Congress. Defense officials debate whether to fund a new capital ship or next-generation destroyers to counter China’s expanding naval fleet. As Democrats prepare to take over Congress and defense budget cuts loom, US President Donald Trump’s proposed battleship has sparked debate over whether to invest in a costly capital ship or next-generation destroyers to counter China’s growing fleet.",
       "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Saudis prepare for Houthi war to last well into 2027",
-      "url": "https://www.thehindu.com/news/international/saudis-prepare-for-houthi-war-to-last-well-into-2027/article71717227.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-18T17:25:36+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/bo4x2x/article71717318.ece/alternates/LANDSCAPE_1200/2026-11-16T054025Z_1530056383_RC2TOOAXD9QD_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG",
-      "summary": "Saudi and Yemeni forces are reorganizing to prepare for a Houthi conflict extending into 2027. The coalition plans to defend Aden from Houthi advances. They also aim to shift offensive operations to eastern fronts where they have held their lines. Saudi and Yemeni forces are ​now reorganising, with plans to protect Aden from the Houthi advances and potentially shift their offensive to eastern fronts where they have made some advances or have at least held their lines.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ethiopia, Eritrea amass forces along border, heightening war fears: Sources",
-      "url": "https://www.thehindu.com/news/international/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources/article71717229.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-18T17:23:13+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/4rfxjx/article71717299.ece/alternates/LANDSCAPE_1200/2026-11-06T145536Z_438832642_RC28IOA268UD_RTRMADP_3_ETHIOPIA-SECURITY.JPG",
-      "summary": "Ethiopia and Eritrea are amassing forces along their shared border, raising fears of a wider war. Tigray fighting has stoked regional instability. Ethiopia accused Sudan and Egypt of backing rebels, though both nations denied the claims. The fighting in Tigray has stoked fears of a ​wider conflagration in the Horn of Africa, with Ethiopia’s government also accusing Sudan, which is in the midst of its own civil war, and Egypt of backing the rebels; Eritrea, Sudan, Egypt ⁠all deny doing so.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump's Board of Peace faults Israel, Hamas for failure to end Gaza war",
-      "url": "https://www.thehindu.com/news/international/trumps-board-of-peace-faults-israel-hamas-for-failure-to-end-gaza-war/article71717231.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-18T17:21:18+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/skstcq/article71199694.ece/alternates/LANDSCAPE_1200/Board-of-Peace-G1BG0O2CK.3.jpg.jpg",
-      "summary": "Trump's Board of Peace criticized Israel and Hamas for failing to end the Gaza war. The ceasefire halted major fighting but the broader plan stalled. Hamas disarmament, Israeli troop withdrawal, and reconstruction efforts have effectively stopped. While the ceasefire has halted major fighting, the wider plan, which calls for Hamas ⁠to disarm, Israeli troops to withdraw and reconstruction to begin, has effectively stalled since soon after it came into effect last year.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -76,18 +52,6 @@
       "image_url": "https://gdb.rferl.org/387d1494-c340-4942-2e11-08df407f9921_w1200_h630.jpg",
       "summary": "Ukraine's Third Army Corps liberated 16 settlements and 277 square kilometers in Donetsk during Operation Vivaldi. RFE/RL journalists visited the newly secured frontline positions. They retraced the specific paths taken by Ukrainian infantry and assault troops during the military campaign. Ukraine's Third Army Corps liberated 16 settlements and 277 square kilometers in the Donetsk region during Operation Vivaldi. RFE/RL visits the frontline positions and retraces the path of the Ukrainian infantry and assault troops who took part in the military campaign.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Iran strikes U.S. air base in Kuwait, targets Bahrain amid wider Gulf attacks",
-      "url": "https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-18T13:36:13+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/vxcdcx/article71715064.ece/alternates/LANDSCAPE_1200/US_Bases_Struck_77413.jpg",
-      "summary": "Iran launched strikes on a U. S. air base in Kuwait and Bahrain. The attacks targeted American facilities on November 13 and 15. Tehran cited U. drone surveillance and strikes on its communications towers as the cause. Iran said its recent attacks. including those on other U. facilities in Bahrain on November 15 and November 13. were in response to U.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -188,6 +152,30 @@
       "translations": {}
     },
     {
+      "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+      "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-11-17T21:40:56+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/49205240a8e75adf2f7dfcec0b4ab2d68d8e1b2d/117_24_1519_1215/master/1519.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ad35d19f3657396cbb0197d9ba8ec18",
+      "summary": "About 20 Awá people emerged from voluntary isolation in Brazil’s Amazon. They accepted food from nearby villagers. The contact raises alarms about increased invasions into their protected territory and threats to their traditional way of life. Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territoryAbout 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory. According to the NGO Survival International, members of the Awá people, who live in voluntary isolation,.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-11-17T20:59:56+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c39589936af829d82bae2511b8fd40d",
+      "summary": "An eight-year-old Haitian boy returned to his family in California. He was detained in San Diego on 4 November and transferred to Texas. Representative Juan Vargas shared a photo of the reunion after his release from ICE custody. Child reunited with family after he was detained by immigration agents in San Diego and transferred to TexasAn eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California. Representative Juan Vargas shared a photograph of the boy and his family in a social.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Ukrainian Defense Minister On Crimea Bridge Strike: 'We're Just Getting Started'",
       "url": "https://www.rferl.org/a/ukraine-russia-crimea-bridge-attacks/33900561.html",
       "source": "Radio Free Europe / Liberty",
@@ -224,14 +212,14 @@
       "translations": {}
     },
     {
-      "title": "Trump turns brief Manila stop into pre-Shenzhen leverage haul",
-      "url": "https://asiatimes.com/2026/11/trump-turns-brief-manila-stop-into-pre-shenzhen-leverage-haul/",
-      "source": "Asia Times",
+      "title": "Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-11-17T16:05:59+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/20047627_111726-cc-getty-trump-asia-img-scaled.jpg",
-      "summary": "Trump used his brief Manila stop to secure leverage before heading to Shenzhen. He arrived after the ASEAN plenary had already concluded. The compressed schedule was initially viewed as a diplomatic slight. He leveraged the visit to negotiate terms ahead of his China meeting. When US President Donald Trump touched down in Manila on Tuesday afternoon (November 17), arriving only after the Association of Southeast Asian Nations had already concluded its formal plenary and handed its rotating chair to Singapore, early international coverage largely framed the compressed 24 hour visit as a diplomatic slight.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-11-17T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-04.jpg/image770x420cropped.jpg",
+      "summary": "The UN Human Rights Monitoring Mission in Ukraine reported that 2026 civilian casualties already exceed all previous years since the February 2022 invasion. The toll has risen dramatically compared to prior periods. This marks the highest recorded civilian death rate of the conflict to date. This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.",
+      "region": "Europe & Russia",
       "language": "en",
       "translations": {}
     },
@@ -248,14 +236,14 @@
       "translations": {}
     },
     {
-      "title": "Civilian casualties in 2026 already far exceed previous years’ tolls",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "title": "The push to protect warming oceans reaches the negotiating table",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168824",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-17T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-04.jpg/image770x420cropped.jpg",
-      "summary": "The UN Human Rights Monitoring Mission in Ukraine reported that 2026 civilian casualties already exceed all previous years since the February 2022 invasion. The toll has risen dramatically compared to prior periods. This marks the highest recorded civilian death rate of the conflict to date. This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.",
-      "region": "Europe & Russia",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_COP31_02.jpg/image770x420cropped.jpg",
+      "summary": "Scientists and communities presented nature protection strategies at COP31. These included using seawater to identify marine life and applying Indigenous knowledge for wildfire prevention. Negotiators still struggle to bridge divisions over fossil fuels and climate finance funding gaps. From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
@@ -272,488 +260,500 @@
       "translations": {}
     },
     {
-      "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
-      "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
-      "source": "The Guardian",
+      "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168819",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-11-17T11:00:39+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/75ec4cfc6a89c1babfe1389687fbafa71b3713af/333_0_3333_2666/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98bde914dbf117c3bd0d35b745bde001",
-      "summary": "Hundreds were arrested in Manila during anti-Trump protests. Demonstrations were fueled by anger over the Iran war and a new AI pact. Organizers expect up to 10,000 people to join the next round. Trump is arriving for the Asean summit. Organisers say up to 10,000 people could join the next round of demonstrations ahead of the US president’s arrival in Manila for the Asean summitAsean and Apec summits – live updatesHundreds of people have been arrested in heated demonstrations against Donald Trump in Manila, as authorities braced for more protests ahead of the US president’s arrival in the city for a leaders’ summit. Organisers cl.",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/03/26806/image560x340cropped.jpg",
+      "summary": "The World Health Organization reported that national antimicrobial resistance plans have doubled, yet implementation remains weak. Gaps in testing and treatment leave billions of people vulnerable. Few countries are delivering on their commitments to address the growing threat. More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on Monday.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Progress ‘real’ but fragile, as remnants of war wreck young lives",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/syria-chemicalweapons-1498841400.jpg/image560x340cropped.jpg",
+      "summary": "Senior UN officials told the Security Council that Syria shows real progress two years after Assad fell. However, explosive ordnance, winter conditions, and funding shortfalls threaten these gains. The situation remains fragile despite undeniable improvements in the region. Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Singapore’s AI balancing act exposes ASEAN’s split-stack dilemma",
-      "url": "https://asiatimes.com/2026/11/singapores-ai-balancing-act-exposes-aseans-split-stack-dilemma/",
-      "source": "Asia Times",
+      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168812",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-11-17T10:50:28+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/07/AI-Data-Center-Technology-Artificial-Intelligence.jpg",
-      "summary": "Singapore signed the San Francisco Declaration on secure AI foundations on November 15. This move highlights the difficulty of balancing US and Chinese tech ties. Southeast Asian nations face a split-stack dilemma. They must maintain access to American computing while keeping commercial links with China. Singapore’s diplomatic maneuvers in Manila this week illustrate the increasingly difficult technology-balancing act facing Southeast Asia: maintaining access to American advanced computing infrastructure while preserving commercial engagement with China.",
-      "region": "Europe & Russia",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_01.jpg/image560x340cropped.jpg",
+      "summary": "COP31 entered its final week with negotiators deadlocked on finance and fossil fuels. New initiatives on artificial intelligence and green industrialization highlighted technology's role in climate action. The talks face a significant political test as delegates push for final agreements. New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.",
+      "region": "Americas",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Iranian Top Cleric Visits Bosnia As Tehran Seeks Opening To Europe",
-      "url": "https://www.rferl.org/a/33899774.html",
-      "source": "Radio Free Europe / Liberty",
+      "title": "Gideon Rachman on the Risk of World War III",
+      "url": "https://www.crisisgroup.org/pod/global/gideon-rachman-risk-world-war-iii",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-11-16T17:09:18+00:00",
-      "image_url": "https://gdb.rferl.org/bcbcf74d-d2c3-43b5-e617-08de3c642a37_w1200_h630.jpg",
-      "summary": "A senior Iranian cleric who briefly assumed supreme leader powers after Khamenei's death visited Sarajevo. He urged European nations to distance themselves from US and Israeli policies toward Tehran. The visit highlights Tehran's effort to cultivate a European diplomatic connection. A senior Iranian cleric who briefly helped exercise the powers of Iran's supreme leader following the death of Ayatollah Ali Khamenei has visited Sarajevo, urging European countries to distance themselves from US and Israeli policies toward Tehran.",
-      "region": "Middle East & Africa",
+      "published_at": "2026-11-13T15:32:00+00:00",
+      "image_url": "https://images.pexels.com/photos/6962257/pexels-photo-6962257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Gideon Rachman discussed his new book, War Is Interested in You, on the Hold Your Fire podcast. The Financial Times commentator explored whether current conflicts could escalate into a global war. He analyzed the risks of a wider confrontation in today's geopolitical climate. In this episode of Hold Your Fire!, Richard speaks with Gideon Rachman, chief foreign affairs commentator at the Financial Times about his new book, “War Is Interested in You”, and whether today’s conflicts could spin into a global war.",
+      "region": "World",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "एआई चैटबॉट्स ने दी बम बनाने की जानकारी: जानलेवा हमले करने की योजना भी बताई, जांच में सुरक्षा",
-      "url": "https://www.amarujala.com/world/us-ai-models-security-risks-terrorist-attacks-gao-study-chatgpt-claude-gemini-grok-ied-blueprints-watchdog-2026-11-19",
-      "source": "Amar Ujala World",
+      "title": "घर की दीवार तोड़ते ही 'पाताल लोक' पहुंच गया शख्स, 18 मंजिला इमारतें, घर-दुकान-कुएं, बसी हुई थी",
+      "url": "https://hindi.news18.com/world/rest-of-world-treasure-discovery-man-found-derinkuyu-underground-city-while-renovation-looks-like-another-world-10997824.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-19T07:05:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/ai-chatbots_2130b8beb5cdba5b3d26d760831ac715.jpeg?w=1200&dpr=1.0",
-      "summary": "एआई चैटबॉट्स की सुरक्षा जांच में बम निर्माण और जानलेवा हमलों की जानकारी देने की खामियां सामने आईं। ये मॉडल खतरे वाले प्रश्नों के जवाब देने में असफल रहे। एआई चैटबॉट्स की सुरक्षा में सेंध: बम बनाने से लेकर जानलेवा हमले करने की दी जानकारी, जांच में खामियों का खुलासा। एआई चैटबॉट्स ने दी बम बनाने की जानकारी: जानलेवा हमले करने की योजना भी बताई, जांच में सुरक्षा।",
+      "published_at": "2026-11-19T08:02:34+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/underground-city-2026-11-dfd34b61686a6eb689a46c3751237206-1200x800.jpg",
+      "summary": "एक व्यक्ति ने घर की दीवार तोड़कर नीचे एक बड़ा बसा हुआ क्षेत्र खोज लिया। वहां 18 मंजिला इमारतें, दुकानें और कुएं मौजूद हैं। यह खोज एक अलग दुनिया जैसी लगती है। Treasure Discovery Underground Second World: जरा सोचिए, आप घर की मरम्मत कर रहे हों और एक दीवार तोड़ते ही किसी टाइम ट्रैवेल मशीन की तरह पोर्ट हो जाएं अलग ही दुनिया में.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "एआई चैटबॉट्स ने दी बम बनाने की जानकारी: जानलेवा हमले करने की योजना भी बताई, जांच में सुरक्षा",
-          "summary": "एआई चैटबॉट्स की सुरक्षा जांच में बम निर्माण और जानलेवा हमलों की जानकारी देने की खामियां सामने आईं। ये मॉडल खतरे वाले प्रश्नों के जवाब देने में असफल रहे। एआई चैटबॉट्स की सुरक्षा में सेंध: बम बनाने से लेकर जानलेवा हमले करने की दी जानकारी, जांच में खामियों का खुलासा। एआई चैटबॉट्स ने दी बम बनाने की जानकारी: जानलेवा हमले करने की योजना भी बताई, जांच में सुरक्षा।",
+          "title": "घर की दीवार तोड़ते ही 'पाताल लोक' पहुंच गया शख्स, 18 मंजिला इमारतें, घर-दुकान-कुएं, बसी हुई थी",
+          "summary": "एक व्यक्ति ने घर की दीवार तोड़कर नीचे एक बड़ा बसा हुआ क्षेत्र खोज लिया। वहां 18 मंजिला इमारतें, दुकानें और कुएं मौजूद हैं। यह खोज एक अलग दुनिया जैसी लगती है। Treasure Discovery Underground Second World: जरा सोचिए, आप घर की मरम्मत कर रहे हों और एक दीवार तोड़ते ही किसी टाइम ट्रैवेल मशीन की तरह पोर्ट हो जाएं अलग ही दुनिया में.",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "सबके लिए नहीं खुलते 'किलिन विला' के दरवाजे, जहां होगी ट्रंप-पुतिन-जिनपिंग की मुलाकात, घने जंगल और",
-      "url": "https://hindi.news18.com/world/china-know-about-qilin-villa-where-trump-putin-jinping-will-meet-mysterious-history-in-dark-woods-10996791.html",
+      "title": "ट्रंप से मिलकर बढ़िया मूड में दिखे पुतिन, 40 मिनट हुई बात, रूस ने खुद बताई डिटेल",
+      "url": "https://hindi.news18.com/world/china-apec-summit-2026-live-news-updates-donald-trump-xi-jinping-vladimir-putin-meeting-shenzhen-meet-livenews-ws-l-10997381.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-19T00:47:59+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/qilin-villa-2026-11-813a97b988a46d01ee1aadf73aa76da5-1200x800.jpg",
-      "summary": "चीन के शेनझेन में किलिन विला में ट्रंप, पुतिन और जिनपिंग की मुलाकात होगी। यह दुनिया की तीन महाशक्तियों का दुर्लभ एकत्रित मंच है। Qilin Villa Mysterious History: चीन के शेनझेन शहर में आज इतिहास का एक अध्याय लिखा जाना है. ऐसा बहुत कम होता है, जब दुनिया की तीन महाशक्तियां एक मंच पर हों, किलिन विला आज इसी महामुलाकात का गवाह बनने वाला है.",
+      "published_at": "2026-11-19T07:54:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/xi-putin-trump-2026-11-1e96407f5d8e7f49f324f57d247e23a0-1200x800.jpg",
+      "summary": "क्रेमलिन ने बताया कि ट्रंप और पुतिन की 40 मिनट की बातचीत के बाद पुतिन अच्छे मूड में हैं। दोनों चीन में एपीईसी शिखर सम्मेलन के दौरान मिले। Apec summit 2026 Trump-Putin-Jinping: चीन में मौजूद डोनाल्ड ट्रंप इस वक्त कूटनीतिक वार्ताओं में लगे हुए हैं. इस सिलसिले में उन्होंने बात की रूसी राष्ट्रपति पुतिन से और अब चीनी राष्ट्रपति शी जिनपिंग से उनकी मीटिंग हो रही है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सबके लिए नहीं खुलते 'किलिन विला' के दरवाजे, जहां होगी ट्रंप-पुतिन-जिनपिंग की मुलाकात, घने जंगल और",
-          "summary": "चीन के शेनझेन में किलिन विला में ट्रंप, पुतिन और जिनपिंग की मुलाकात होगी। यह दुनिया की तीन महाशक्तियों का दुर्लभ एकत्रित मंच है। Qilin Villa Mysterious History: चीन के शेनझेन शहर में आज इतिहास का एक अध्याय लिखा जाना है. ऐसा बहुत कम होता है, जब दुनिया की तीन महाशक्तियां एक मंच पर हों, किलिन विला आज इसी महामुलाकात का गवाह बनने वाला है.",
+          "title": "ट्रंप से मिलकर बढ़िया मूड में दिखे पुतिन, 40 मिनट हुई बात, रूस ने खुद बताई डिटेल",
+          "summary": "क्रेमलिन ने बताया कि ट्रंप और पुतिन की 40 मिनट की बातचीत के बाद पुतिन अच्छे मूड में हैं। दोनों चीन में एपीईसी शिखर सम्मेलन के दौरान मिले। Apec summit 2026 Trump-Putin-Jinping: चीन में मौजूद डोनाल्ड ट्रंप इस वक्त कूटनीतिक वार्ताओं में लगे हुए हैं. इस सिलसिले में उन्होंने बात की रूसी राष्ट्रपति पुतिन से और अब चीनी राष्ट्रपति शी जिनपिंग से उनकी मीटिंग हो रही है.",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "वैश्विक वित्तीय व्यवस्था की खामियां बन रहीं गरीब व विकासशील देशों की प्रगति में बाधा",
-      "url": "https://www.amarujala.com/columns/opinion/developing-countries-debt-crisis-global-inequality-interest-payments-2026-11-19",
-      "source": "Amar Ujala National",
+      "title": "रोहिंग्या नरसंहार पर आज अदालत सुनाएगी फैसला, जानिए क्या है 10 हजार मौतों और 7 लाख बेघर होने की पूरी",
+      "url": "https://www.patrika.com/world-news/rohingya-genocide-case-icj-verdict-myanmar-21064283",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-19T00:42:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/world-bank_a9b0922fb454cea1691ffd674ad22864.jpeg?w=1200&dpr=1.0",
-      "summary": "वैश्विक वित्तीय व्यवस्था की खामियां गरीब देशों की प्रगति में बाधा बन रही हैं। उच्च ब्याज भुगतान और कर्ज का बोझ इन देशों को विकास से रोक रहा है। वैश्विक वित्तीय व्यवस्था की खामियां बन रहीं गरीब व विकासशील देशों की प्रगति में बाधा।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "वैश्विक वित्तीय व्यवस्था की खामियां बन रहीं गरीब व विकासशील देशों की प्रगति में बाधा",
-          "summary": "वैश्विक वित्तीय व्यवस्था की खामियां गरीब देशों की प्रगति में बाधा बन रही हैं। उच्च ब्याज भुगतान और कर्ज का बोझ इन देशों को विकास से रोक रहा है। वैश्विक वित्तीय व्यवस्था की खामियां बन रहीं गरीब व विकासशील देशों की प्रगति में बाधा।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "दुश्मनों के लिए काल बराक-1 का होगा आधुनिकीकरण, इस्राइल से 1976 करोड़ का समझौता",
-      "url": "https://www.amarujala.com/india-news/indian-navy-to-upgrade-barak-1-missile-system-under-1976-crore-deal-with-israel-how-its-air-defence-improve-2026-11-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-19T00:37:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/braka-masail_80836ba6cf36458726959e2e9c161690.jpeg?w=1200&dpr=1.0",
-      "summary": "भारतीय नौसेना ने इस्राइल से 1976 करोड़ रुपये के समझौते पर काल बराक-1 मिसाइल सिस्टम का आधुनिकीकरण किया है। यह कदम नौसेना की रक्षा क्षमता को बढ़ाएगा। भारतीय नौसेना होगी और ताकतवर: दुश्मनों के लिए काल बराक-1 का होगा आधुनिकीकरण, इस्राइल से 1976 करोड़ का समझौता।",
+      "published_at": "2026-11-19T07:42:49+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Rohingya-Genocide.webp",
+      "summary": "अंतर्राष्ट्रीय न्यायालय आज रोहिंग्या नरसंहार पर फैसला सुनाएगा। गाम्बिया ने म्यांमार पर 2017 के सैन्य अभियान के दौरान 10 हजार मौतों का आरोप लगाया था। Rohingya Muslims: म्यांमार में रोहिंग्या मुसलमानों के खिलाफ कथित नरसंहार के मामले में आज अंतरराष्ट्रीय अदालत (ICJ) ऐतिहासिक फैसला सुनाने जा रही है। 2017 में म्यांमार की सेना के सैन्य अभियान के दौरान हजारों लोगों की मौत हुई थी, जबकि 7 लाख से ज्यादा रोहिंग्याओं को अपना घर छोड़कर बांग्लादेश में शरण लेनी पड़ी थी।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "दुश्मनों के लिए काल बराक-1 का होगा आधुनिकीकरण, इस्राइल से 1976 करोड़ का समझौता",
-          "summary": "भारतीय नौसेना ने इस्राइल से 1976 करोड़ रुपये के समझौते पर काल बराक-1 मिसाइल सिस्टम का आधुनिकीकरण किया है। यह कदम नौसेना की रक्षा क्षमता को बढ़ाएगा। भारतीय नौसेना होगी और ताकतवर: दुश्मनों के लिए काल बराक-1 का होगा आधुनिकीकरण, इस्राइल से 1976 करोड़ का समझौता।",
+          "title": "रोहिंग्या नरसंहार पर आज अदालत सुनाएगी फैसला, जानिए क्या है 10 हजार मौतों और 7 लाख बेघर होने की पूरी",
+          "summary": "अंतर्राष्ट्रीय न्यायालय आज रोहिंग्या नरसंहार पर फैसला सुनाएगा। गाम्बिया ने म्यांमार पर 2017 के सैन्य अभियान के दौरान 10 हजार मौतों का आरोप लगाया था। Rohingya Muslims: म्यांमार में रोहिंग्या मुसलमानों के खिलाफ कथित नरसंहार के मामले में आज अंतरराष्ट्रीय अदालत (ICJ) ऐतिहासिक फैसला सुनाने जा रही है। 2017 में म्यांमार की सेना के सैन्य अभियान के दौरान हजारों लोगों की मौत हुई थी, जबकि 7 लाख से ज्यादा रोहिंग्याओं को अपना घर छोड़कर बांग्लादेश में शरण लेनी पड़ी थी।",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "Weather Forecast 19 November 2026: देखिए क्या है आपके यहां मौसम का हाल",
-      "url": "https://www.amarujala.com/video/india-news/weather-forecast-19-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-19",
-      "source": "Amar Ujala National",
+      "title": "ट्रंप से नहीं मिलेंगे किम जोंग उन? मुलाकात की अटकलों के बीच पहुंचे नेवी यूनिवर्सिटी",
+      "url": "https://hindi.news18.com/world/rest-of-world-kim-jong-un-reaches-navy-university-amid-meeting-rumours-with-donald-trump-ws-l-10997562.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-19T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/weather-forecast_a1cc13401ec6539ff5b32db8e3af95d8.jpeg?w=1200&dpr=1.0",
-      "summary": "19 नवंबर 2026 के मौसम पूर्वानुमान में देश के विभिन्न हिस्सों के लिए तापमान और वर्षा की संभावनाओं का विवरण दिया गया है।",
+      "published_at": "2026-11-19T07:32:53+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/06/Kim-Jong-Un-Smiling-Video-2026-06-ce75fbf044a926a97ec9956287ac3aa2-1200x800.jpg",
+      "summary": "किम जोंग उन को उत्तर कोरिया की ईस्ट कोस्ट पर नेवी यूनिवर्सिटी में देखा गया। ट्रंप ने चीन दौरे से पहले किम से मिलने की इच्छा जताई थी। Kim Jong Un-Trump Meeting Rumours: डोनाल्ड ट्रंप के चीन दौरे से पहले उन्होंने कहा था कि वे उत्तर कोरिया के नेता किम जोंग उन से भी मिलना चाहेंगे. इसी बीच किम जोंग उन को अपने ही देश में ईस्ट कोस्ट पर मौजूद नेवी यूनिवर्सिटी के दौरे पर देखा गया.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप से नहीं मिलेंगे किम जोंग उन? मुलाकात की अटकलों के बीच पहुंचे नेवी यूनिवर्सिटी",
+          "summary": "किम जोंग उन को उत्तर कोरिया की ईस्ट कोस्ट पर नेवी यूनिवर्सिटी में देखा गया। ट्रंप ने चीन दौरे से पहले किम से मिलने की इच्छा जताई थी। Kim Jong Un-Trump Meeting Rumours: डोनाल्ड ट्रंप के चीन दौरे से पहले उन्होंने कहा था कि वे उत्तर कोरिया के नेता किम जोंग उन से भी मिलना चाहेंगे. इसी बीच किम जोंग उन को अपने ही देश में ईस्ट कोस्ट पर मौजूद नेवी यूनिवर्सिटी के दौरे पर देखा गया.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मंत्री राजभर बोले, 'अपनी जान बचाएं आजम, हिम्मत है तो अखिलेश से मुसलमान को सीएम बनाने के बारे में",
+      "url": "https://www.amarujala.com/uttar-pradesh/ambedkar-nagar/f-azam-khan-has-the-guts-tell-akhilesh-yadav-to-announce-that-the-next-chief-minister-will-be-a-muslim-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T07:29:05+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/30/om-prakash-rajbhar_693a5365709c6c8b1429384c6d0d568f.png?w=1200&dpr=1.0",
+      "summary": "आजम खां सुप्रीम कोर्ट के फैसले के बाद जेल से रिहा होकर रामपुर पहुंचे। उन्होंने वहां 2027 के चुनाव को इंकलाब कहा। सुप्रीम कोर्ट से राहत मिलने के बाद सपा नेता आजम खां जेल से रिहा होकर रामपुर पहुंच गए हैं। रामपुर में उन्होंने जनता से कहा कि 2027 का चुनाव इंकलाब होगा। मंत्री राजभर बोले, 'अपनी जान बचाएं आजम, हिम्मत है तो अखिलेश से मुसलमान को सीएम बनाने के बारे में।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "Weather Forecast 19 November 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "19 नवंबर 2026 के मौसम पूर्वानुमान में देश के विभिन्न हिस्सों के लिए तापमान और वर्षा की संभावनाओं का विवरण दिया गया है।",
+          "title": "मंत्री राजभर बोले, 'अपनी जान बचाएं आजम, हिम्मत है तो अखिलेश से मुसलमान को सीएम बनाने के बारे में",
+          "summary": "आजम खां सुप्रीम कोर्ट के फैसले के बाद जेल से रिहा होकर रामपुर पहुंचे। उन्होंने वहां 2027 के चुनाव को इंकलाब कहा। सुप्रीम कोर्ट से राहत मिलने के बाद सपा नेता आजम खां जेल से रिहा होकर रामपुर पहुंच गए हैं। रामपुर में उन्होंने जनता से कहा कि 2027 का चुनाव इंकलाब होगा। मंत्री राजभर बोले, 'अपनी जान बचाएं आजम, हिम्मत है तो अखिलेश से मुसलमान को सीएम बनाने के बारे में।",
           "region": "दुनिया"
         }
       }
     },
     {
-      "title": "पीएम मोदी फिक्की के सम्मेलन का उद्घाटन करेंगे; अमेरिका, चीन, रूस के राष्ट्राध्यक्षों की होगी बैठक",
-      "url": "https://www.amarujala.com/india-news/aaj-ke-din-19-november-2026-days-biggest-happening-top-headlines-of-the-day-news-updates-2026-11-19",
+      "title": "सर्दियों में दिन छोटे होते ही क्यों बदलने लगता है मूड? जानें इसका शरीर पर असर",
+      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/shorter-days-and-health-how-shorter-daylight-hours-affect-your-mood-sleep-and-mental-health-2026-11-19",
       "source": "Amar Ujala National",
       "sources": [],
-      "published_at": "2026-11-19T00:27:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/aaj-ke-din-19-november-2026_8884b03905fe060dbe525e57299165c4.gif?w=1200&dpr=1.0",
-      "summary": "पीएम मोदी फिक्की सम्मेलन का उद्घाटन करेंगे। इसी दौरान शेनझेन में अमेरिका, चीन और रूस के राष्ट्राध्यक्षों की बैठक होगी। यह कूटनीतिक और आर्थिक दोनों स्तरों पर महत्वपूर्ण घटनाक्रम है। कूटनीतिक पटल पर जहां शेनझेन में विश्व की महाशक्तियों की ऐतिहासिक बैठक है। वहीं भारत में राष्ट्रीय सुरक्षा, आर्थिक दृष्टि, चुनावी तैयारियों, जनकल्याण और खेल के मैदान पर कई अहम गतिविधियां आयोजित हो रही हैं।",
+      "published_at": "2026-11-19T07:27:40+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/shorter-days-and-health_a071a53514be21442e4c14d884692748.jpeg?w=1200&dpr=1.0",
+      "summary": "सर्दियों में कम रोशनी से मूड और स्वास्थ्य पर असर पड़ता है। यह लेख इस प्रभाव की विस्तृत जानकारी देता है। How Shorter Daylight Hours Affect Your Mood and Health: इस लेख में जानें कि सर्दियों में दिन छोटे और रातें लंबी होने का असर हमारी सेहत और मूड पर कैसे पड़ता है। सर्दियों में दिन छोटे होते ही क्यों बदलने लगता है मूड?",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सर्दियों में दिन छोटे होते ही क्यों बदलने लगता है मूड? जानें इसका शरीर पर असर",
+          "summary": "सर्दियों में कम रोशनी से मूड और स्वास्थ्य पर असर पड़ता है। यह लेख इस प्रभाव की विस्तृत जानकारी देता है। How Shorter Daylight Hours Affect Your Mood and Health: इस लेख में जानें कि सर्दियों में दिन छोटे और रातें लंबी होने का असर हमारी सेहत और मूड पर कैसे पड़ता है। सर्दियों में दिन छोटे होते ही क्यों बदलने लगता है मूड?",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लतीफ के खात्मे से चिनाब घाटी और पीर पंजाल में आतंकवाद की टूटी कमर, कारपेंटर से दहशतगर्द बनने की",
+      "url": "https://www.amarujala.com/jammu/kulgam-encounter-lashkar-commander-latif-bhat-s-killing-deals-blow-to-terror-network-in-jammu-and-kashmir-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T07:17:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/kulgam-encounter_cb867cad1772ddd67cee03e6f229428a.jpeg?w=1200&dpr=1.0",
+      "summary": "कुलगाम में लश्कर कमांडर लतीफ भट के खात्मे से कश्मीर में आतंक नेटवर्क पर बड़ा बल पड़ा है। यह कार्रवाई सुरक्षा बलों की सफलता मानी जा रही है। दक्षिण कश्मीर के कुलगाम में लश्कर-ए-ताइबा के शीर्ष कमांडर मोहम्मद लतीफ भट के खात्मे से जम्मू-कश्मीर में आतंकवाद के नेटवर्क के खिलाफ बड़ी कामयाबी मिली है। लतीफ के खात्मे से चिनाब घाटी और पीर पंजाल में आतंकवाद की टूटी कमर, कारपेंटर से दहशतगर्द बनने की।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लतीफ के खात्मे से चिनाब घाटी और पीर पंजाल में आतंकवाद की टूटी कमर, कारपेंटर से दहशतगर्द बनने की",
+          "summary": "कुलगाम में लश्कर कमांडर लतीफ भट के खात्मे से कश्मीर में आतंक नेटवर्क पर बड़ा बल पड़ा है। यह कार्रवाई सुरक्षा बलों की सफलता मानी जा रही है। दक्षिण कश्मीर के कुलगाम में लश्कर-ए-ताइबा के शीर्ष कमांडर मोहम्मद लतीफ भट के खात्मे से जम्मू-कश्मीर में आतंकवाद के नेटवर्क के खिलाफ बड़ी कामयाबी मिली है। लतीफ के खात्मे से चिनाब घाटी और पीर पंजाल में आतंकवाद की टूटी कमर, कारपेंटर से दहशतगर्द बनने की।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "कनाडा में जलती कार से मिली भारतीय युवक की लाश, 25 साल के तुषार शर्मा की मौत के पीछे कौन?",
+      "url": "https://www.patrika.com/world-news/tushar-sharma-canada-langley-burning-car-indian-man-body-found-ihit-probe-21064296",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-19T07:10:06+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Tushar-Sharma.webp",
+      "summary": "कनाडा के लैंगली में 25 वर्षीय तुषार शर्मा की लाश जलती कार में मिली। पुलिस इसे सोची-समझी वारदात मान रही है और जांच जारी है। Indian Man killed in Canada: कनाडा के ब्रिटिश कोलंबिया में एक भारतीय युवक की मौत ने पुलिस को चौंका दिया है। 25 साल के तुषार शर्मा का शव लैंगली इलाके में जलती कार के अंदर मिला।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कनाडा में जलती कार से मिली भारतीय युवक की लाश, 25 साल के तुषार शर्मा की मौत के पीछे कौन?",
+          "summary": "कनाडा के लैंगली में 25 वर्षीय तुषार शर्मा की लाश जलती कार में मिली। पुलिस इसे सोची-समझी वारदात मान रही है और जांच जारी है। Indian Man killed in Canada: कनाडा के ब्रिटिश कोलंबिया में एक भारतीय युवक की मौत ने पुलिस को चौंका दिया है। 25 साल के तुषार शर्मा का शव लैंगली इलाके में जलती कार के अंदर मिला।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "एनवीडिया के पूर्व अधिकारी की पत्नी पर गंभीर आरोप, चीन को चिप सप्लाई के आरोपों से जुड़ा मामला",
+      "url": "https://www.patrika.com/world-news/nvidia-executive-jay-puri-wife-chip-smuggling-china-allegations-21064349",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-19T07:07:08+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Nvidia-Jay-Puri.webp",
+      "summary": "मडी वाटर्स ने एनवीडिया के पूर्व अधिकारी जे पुरी की पत्नी पर सवाल उठाए हैं। रिपोर्ट में सुपर माइक्रो के पूर्व अधिकारी से उनके निजी संबंधों का जिक्र है। नई दिल्ली। दुनिया की दिग्गज चिप निर्माता कंपनी एनवीडिया के पूर्व शीर्ष अधिकारी अजय के. ‘जे’ पुरी की पत्नी को लेकर एक नई रिपोर्ट में गंभीर सवाल उठाए गए हैं। शॉर्ट सेलिंग फर्म मडी वाटर्स रिसर्च ने अपनी रिपोर्ट में सवाल उठाया है कि क्या जे पुरी के ‘सुपर माइक्रो कंप्यूटर’ के पूर्व अधिकारी के साथ निजी संबंध थे?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एनवीडिया के पूर्व अधिकारी की पत्नी पर गंभीर आरोप, चीन को चिप सप्लाई के आरोपों से जुड़ा मामला",
+          "summary": "मडी वाटर्स ने एनवीडिया के पूर्व अधिकारी जे पुरी की पत्नी पर सवाल उठाए हैं। रिपोर्ट में सुपर माइक्रो के पूर्व अधिकारी से उनके निजी संबंधों का जिक्र है। नई दिल्ली। दुनिया की दिग्गज चिप निर्माता कंपनी एनवीडिया के पूर्व शीर्ष अधिकारी अजय के. ‘जे’ पुरी की पत्नी को लेकर एक नई रिपोर्ट में गंभीर सवाल उठाए गए हैं। शॉर्ट सेलिंग फर्म मडी वाटर्स रिसर्च ने अपनी रिपोर्ट में सवाल उठाया है कि क्या जे पुरी के ‘सुपर माइक्रो कंप्यूटर’ के पूर्व अधिकारी के साथ निजी संबंध थे?",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सिराज को बाहर बैठाकर हुई गलती? सितांशु कोटक ने किया बचाव, वाशिंगटन पर क्या बोले कोच",
+      "url": "https://www.amarujala.com/cricket/cricket-news/ind-vs-nz-india-batting-coach-sitanshu-kotak-defended-the-team-management-s-decision-to-leave-mohammed-siraj-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T06:52:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/ind_37e6260fd52190210f6446ea0579fb82.jpeg?w=1200&dpr=1.0",
+      "summary": "कोच सितांशु कोटक ने न्यूजीलैंड के खिलाफ सिराज को बाहर रखने का बचाव किया है। उन्होंने कहा कि चयन पांच दिन की परिस्थितियों को ध्यान में रखकर किया गया था। भारतीय बल्लेबाजी कोच सितांशु कोटक ने न्यूजीलैंड के खिलाफ पहले टेस्ट में मोहम्मद सिराज को प्लेइंग इलेवन से बाहर रखने के फैसले का बचाव किया है। उन्होंने कहा कि टीम का चयन पांचों दिन की परिस्थितियों को ध्यान में रखकर किया गया था।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सिराज को बाहर बैठाकर हुई गलती? सितांशु कोटक ने किया बचाव, वाशिंगटन पर क्या बोले कोच",
+          "summary": "कोच सितांशु कोटक ने न्यूजीलैंड के खिलाफ सिराज को बाहर रखने का बचाव किया है। उन्होंने कहा कि चयन पांच दिन की परिस्थितियों को ध्यान में रखकर किया गया था। भारतीय बल्लेबाजी कोच सितांशु कोटक ने न्यूजीलैंड के खिलाफ पहले टेस्ट में मोहम्मद सिराज को प्लेइंग इलेवन से बाहर रखने के फैसले का बचाव किया है। उन्होंने कहा कि टीम का चयन पांचों दिन की परिस्थितियों को ध्यान में रखकर किया गया था।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ट्रंप-पुतिन-जिनपिंग की मुलाकात से भारत का क्या होगा फायदा? यूक्रेन युद्ध से लेकर व्यापार तक बदल",
+      "url": "https://www.patrika.com/world-news/trump-putin-xi-jinping-trilateral-summit-india-impact-21064010",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-19T06:15:26+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/APEC-CEO-Summit-2026.webp",
+      "summary": "ट्रंप, पुतिन और शी जिनपिंग गुरुवार को शेनझेन में त्रिपक्षीय बैठक करेंगे। चर्चा में यूक्रेन, ईरान और परमाणु हथियार शामिल हैं। बैठक के नतीजों से भारत के रूसी संबंधों और व्यापार पर सीधा असर पड़ेगा। नई दिल्ली। अमरीका के राष्ट्रपति डोनाल्ड ट्रंप, रूस के राष्ट्रपति व्लादिमीर पुतिन और चीन के राष्ट्रपति शी जिनपिंग की गुरुवार को चीन के शेनझेन में होने वाली त्रिपक्षीय बैठक पर पूरी दुनिया की नजरें टिकी हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ट्रंप-पुतिन-जिनपिंग की मुलाकात से भारत का क्या होगा फायदा? यूक्रेन युद्ध से लेकर व्यापार तक बदल",
+          "summary": "ट्रंप, पुतिन और शी जिनपिंग गुरुवार को शेनझेन में त्रिपक्षीय बैठक करेंगे। चर्चा में यूक्रेन, ईरान और परमाणु हथियार शामिल हैं। बैठक के नतीजों से भारत के रूसी संबंधों और व्यापार पर सीधा असर पड़ेगा। नई दिल्ली। अमरीका के राष्ट्रपति डोनाल्ड ट्रंप, रूस के राष्ट्रपति व्लादिमीर पुतिन और चीन के राष्ट्रपति शी जिनपिंग की गुरुवार को चीन के शेनझेन में होने वाली त्रिपक्षीय बैठक पर पूरी दुनिया की नजरें टिकी हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "रालोद-भाजपा में सीट बंटवारे का चलेगा ये फॉर्मूला: इन सीटों पर पेच; सपा गठबंधन में इनके पास थी",
+      "url": "https://www.amarujala.com/uttar-pradesh/meerut/up-election-2027-rld-bjp-likely-to-follow-3-2-seat-sharing-formula-in-baghpat-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T06:14:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/up-election-2027_e387a51ab64b9f42152ea8244c013786.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश विधानसभा चुनाव में रालोद-भाजपा गठबंधन ने बागपत लोकसभा क्षेत्र के लिए फॉर्मूला तय किया है। इसमें रालोद को तीन सीटें और भाजपा को दो सीटें आवंटित होंगी। यह बंटवारा क्षेत्रीय राजनीति को प्रभावित करेगा। उत्तर प्रदेश विधानसभा चुनाव को लेकर रालोद-भाजपा के बीच सीट बंटवारे के लिए बागपत लोकसभा क्षेत्र में तीन-दो का फॉर्मूला चलेगा। इनमें रालोद को तीन सीटें और भाजपा को दो सीटें मिलेंगी।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रालोद-भाजपा में सीट बंटवारे का चलेगा ये फॉर्मूला: इन सीटों पर पेच; सपा गठबंधन में इनके पास थी",
+          "summary": "उत्तर प्रदेश विधानसभा चुनाव में रालोद-भाजपा गठबंधन ने बागपत लोकसभा क्षेत्र के लिए फॉर्मूला तय किया है। इसमें रालोद को तीन सीटें और भाजपा को दो सीटें आवंटित होंगी। यह बंटवारा क्षेत्रीय राजनीति को प्रभावित करेगा। उत्तर प्रदेश विधानसभा चुनाव को लेकर रालोद-भाजपा के बीच सीट बंटवारे के लिए बागपत लोकसभा क्षेत्र में तीन-दो का फॉर्मूला चलेगा। इनमें रालोद को तीन सीटें और भाजपा को दो सीटें मिलेंगी।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "'पुरानी सरकारों का अनुभव खट्टा था, अब देश में है दोस्त सरकार'; उद्योगपतियों से मांगे सुझाव",
+      "url": "https://www.amarujala.com/india-news/pm-modi-inaugurates-ficci-annual-general-meeting-and-addresses-industry-leaders-and-policymakers-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T05:57:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/paema-matha_a1a001dfac44b5b6e56c9e5097193036.jpeg?w=1200&dpr=1.0",
+      "summary": "प्रधानमंत्री मोदी ने उद्योगपतियों से सुझाव मांगे। उन्होंने कहा कि पुरानी सरकारों का अनुभव खट्टा था। अब देश में दोस्त सरकार है जो उद्योग के साथ काम कर रही है। पीएम मोदी बोले: 'पुरानी सरकारों का अनुभव खट्टा था, अब देश में है दोस्त सरकार'; उद्योगपतियों से मांगे सुझाव।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'पुरानी सरकारों का अनुभव खट्टा था, अब देश में है दोस्त सरकार'; उद्योगपतियों से मांगे सुझाव",
+          "summary": "प्रधानमंत्री मोदी ने उद्योगपतियों से सुझाव मांगे। उन्होंने कहा कि पुरानी सरकारों का अनुभव खट्टा था। अब देश में दोस्त सरकार है जो उद्योग के साथ काम कर रही है। पीएम मोदी बोले: 'पुरानी सरकारों का अनुभव खट्टा था, अब देश में है दोस्त सरकार'; उद्योगपतियों से मांगे सुझाव।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "10,000 की मौत, 7 लाख बेघर... क्‍या है रोहिंग्या नरसंहार मामला ज‍िसपर अंतरराष्‍ट्रीय अदालत आज",
+      "url": "https://hindi.news18.com/photogallery/knowledge/10000-dead-700000-rendered-homeless-what-is-rohingya-genocide-case-against-myanmar-icj-to-rule-on-10997458.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-19T05:55:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Rohingya-2026-11-f4c3785de28541edfa1306cf6aac6b1c-1200x800.jpg",
+      "summary": "इंटरनेशनल कोर्ट ऑफ जस्टिस 19 नवंबर को म्यांमार के रोहिंग्या नरसंहार मामले में फैसला सुनाएगी। संयुक्त राष्ट्र के अनुसार लगभग दस हज़ार लोगों की मौत हुई थी। सात लाख से अधिक रोहिंग्या बांग्लादेश के शिविरों में शरण ले चुके हैं। संयुक्त राष्ट्र की सर्वोच्च अदालत इंटरनेशनल कोर्ट ऑफ जस्टिस (ICJ) म्यांमार पर उसके अल्पसंख्यक रोहिंग्या समुदाय के खिलाफ नरसंहार करने के आरोप से जुड़े एक ऐतिहासिक मामले में 19 नवंबर को फैसला सुनाने जा रही है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पीएम मोदी फिक्की के सम्मेलन का उद्घाटन करेंगे; अमेरिका, चीन, रूस के राष्ट्राध्यक्षों की होगी बैठक",
-          "summary": "पीएम मोदी फिक्की सम्मेलन का उद्घाटन करेंगे। इसी दौरान शेनझेन में अमेरिका, चीन और रूस के राष्ट्राध्यक्षों की बैठक होगी। यह कूटनीतिक और आर्थिक दोनों स्तरों पर महत्वपूर्ण घटनाक्रम है। कूटनीतिक पटल पर जहां शेनझेन में विश्व की महाशक्तियों की ऐतिहासिक बैठक है। वहीं भारत में राष्ट्रीय सुरक्षा, आर्थिक दृष्टि, चुनावी तैयारियों, जनकल्याण और खेल के मैदान पर कई अहम गतिविधियां आयोजित हो रही हैं।",
+          "title": "10,000 की मौत, 7 लाख बेघर... क्‍या है रोहिंग्या नरसंहार मामला ज‍िसपर अंतरराष्‍ट्रीय अदालत आज",
+          "summary": "इंटरनेशनल कोर्ट ऑफ जस्टिस 19 नवंबर को म्यांमार के रोहिंग्या नरसंहार मामले में फैसला सुनाएगी। संयुक्त राष्ट्र के अनुसार लगभग दस हज़ार लोगों की मौत हुई थी। सात लाख से अधिक रोहिंग्या बांग्लादेश के शिविरों में शरण ले चुके हैं। संयुक्त राष्ट्र की सर्वोच्च अदालत इंटरनेशनल कोर्ट ऑफ जस्टिस (ICJ) म्यांमार पर उसके अल्पसंख्यक रोहिंग्या समुदाय के खिलाफ नरसंहार करने के आरोप से जुड़े एक ऐतिहासिक मामले में 19 नवंबर को फैसला सुनाने जा रही है.",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "हकीम जेफ्रीज बन सकते हैं पहले अश्वेत स्पीकर, डेमोक्रेट्स ने लगाई नाम पर मुहर",
-      "url": "https://www.amarujala.com/world/hakeem-jeffries-nominated-us-house-speaker-first-black-speaker-2026-11-19",
+      "title": "महाकालेश्वर मंदिर के पुजारी का बड़ा बयान; बोले- साधु बनने से पहले हो मेडिकल टेस्ट, सरकार बनाए",
+      "url": "https://www.amarujala.com/madhya-pradesh/ujjain/priests-saints-and-mahamandaleshwars-express-outrage-over-exploitation-allegations-against-kathavachak-and-mahamandaleshwar-unanimously-condemn-the-act-ujjain-news-c-1-1-noi1228-4949501-2026-11-19",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-11-19T00:25:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/hakeem-jeffries_a1a64a5e44d79c23faa7a36da6958797.jpeg?w=1200&dpr=1.0",
-      "summary": "डेमोक्रेटिक पार्टी ने हकीम जेफ्रीज को अमेरिकी प्रतिनिधि सभा के स्पीकर के पद के लिए नामित किया है। वे इस पद के लिए चुने जाने वाले पहले अश्वेत व्यक्ति बन सकते हैं। यह निर्णय अमेरिकी राजनीति में एक नया अध्याय खोलता है। हकीम जेफ्रीज बन सकते हैं पहले अश्वेत स्पीकर, डेमोक्रेट्स ने लगाई नाम पर मुहर।",
+      "published_at": "2026-11-19T05:43:50+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/mathhaya-parathasha_f8c86113d50b245fb30e07715e6b0c48.jpeg?w=1200&dpr=1.0",
+      "summary": "महाकालेश्वर मंदिर के पुजारी महेश शर्मा ने साधु बनने से पहले मेडिकल टेस्ट की मांग की है। उन्होंने स्पष्ट पद्धति बनाने की सलाह दी। यह बयान संत समाज पर लगाए जा रहे शोषण के आरोपों के बीच आया है। संत समाज के ऊपर यौन व शारीरिक शोषण के आरोप लग रहे हैं। महाकालेश्वर मंदिर के पुजारी महेश शर्मा ने कहा है कि साधु बनने की स्पष्ट पद्धति होनी चाहिए साथ ही साधु बनने से पहले व्यक्ति का मेडिकल टेस्ट होना चाहिए।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "महाकालेश्वर मंदिर के पुजारी का बड़ा बयान; बोले- साधु बनने से पहले हो मेडिकल टेस्ट, सरकार बनाए",
+          "summary": "महाकालेश्वर मंदिर के पुजारी महेश शर्मा ने साधु बनने से पहले मेडिकल टेस्ट की मांग की है। उन्होंने स्पष्ट पद्धति बनाने की सलाह दी। यह बयान संत समाज पर लगाए जा रहे शोषण के आरोपों के बीच आया है। संत समाज के ऊपर यौन व शारीरिक शोषण के आरोप लग रहे हैं। महाकालेश्वर मंदिर के पुजारी महेश शर्मा ने कहा है कि साधु बनने की स्पष्ट पद्धति होनी चाहिए साथ ही साधु बनने से पहले व्यक्ति का मेडिकल टेस्ट होना चाहिए।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चीन में मिले ट्रंप-पुतिन, अमेरिकी राष्ट्रपति ने कहा- बातचीत से अच्छी चीजें निकलने की संभावना",
+      "url": "https://www.amarujala.com/live/world/apec-summit-2026-live-updates-asia-pacific-economic-cooperation-trump-putin-xi-jinping-shenzhen-summit-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T05:39:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/epaka-samata-ka-tharana-tarapa-oura-patana-na-ka-malkata_8dfb7595a56afbbbce7849e8d10fa068.jpeg?w=1200&dpr=1.0",
+      "summary": "एपेक शिंज़ेन शिखर सम्मेलन में ट्रंप, पुतिन और सी जिनपिंग एक साथ बैठे। ट्रंप ने कहा कि एशिया-प्रशांत में संप्रभुता को बढ़ावा मिलेगा। चीन में मिले ट्रंप-पुतिन, अमेरिकी राष्ट्रपति ने कहा- बातचीत से अच्छी चीजें निकलने की संभावना।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन में मिले ट्रंप-पुतिन, अमेरिकी राष्ट्रपति ने कहा- बातचीत से अच्छी चीजें निकलने की संभावना",
+          "summary": "एपेक शिंज़ेन शिखर सम्मेलन में ट्रंप, पुतिन और सी जिनपिंग एक साथ बैठे। ट्रंप ने कहा कि एशिया-प्रशांत में संप्रभुता को बढ़ावा मिलेगा। चीन में मिले ट्रंप-पुतिन, अमेरिकी राष्ट्रपति ने कहा- बातचीत से अच्छी चीजें निकलने की संभावना।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सपा के रोड शो में भाजपा नेता के बेटे की मौत: चार घंटे इंतजार, फिर सड़क पर गुस्सा; कैसे गई आर्य",
+      "url": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/gorakhpur-bjp-leader-s-14-year-old-son-dies-after-being-hit-by-jcb-during-akhilesh-yadav-roadshow-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T05:30:51+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/gorakhpur-accident_ed474cb8022ee57e4729a78c2269beb0.jpeg?w=1200&dpr=1.0",
+      "summary": "गोरखपुर में सपा रोड शो के दौरान भाजपा नेता के बेटे की मौत हुई। चार घंटे तक पुलिस की कार्रवाई न होने पर परिवार ने सड़क पर प्रदर्शन किया। गोरखपुर में चार घंटे तक कार्रवाई का इंतजार और फिर सन्न का बांध टूट गया। बेटे को खोने के गम में डूबे परिवार को जब पुलिस की ओर से कोई ठोस कदम उठता नहीं दिखा तो आक्रोश सड़क पर उतर आया।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सपा के रोड शो में भाजपा नेता के बेटे की मौत: चार घंटे इंतजार, फिर सड़क पर गुस्सा; कैसे गई आर्य",
+          "summary": "गोरखपुर में सपा रोड शो के दौरान भाजपा नेता के बेटे की मौत हुई। चार घंटे तक पुलिस की कार्रवाई न होने पर परिवार ने सड़क पर प्रदर्शन किया। गोरखपुर में चार घंटे तक कार्रवाई का इंतजार और फिर सन्न का बांध टूट गया। बेटे को खोने के गम में डूबे परिवार को जब पुलिस की ओर से कोई ठोस कदम उठता नहीं दिखा तो आक्रोश सड़क पर उतर आया।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "आजम खां को सुप्रीम कोर्ट से राहत: अंतरिम जमानत को चुनौती देने वाली ईडी की याचिका खारिज, कल जेल से",
+      "url": "https://www.amarujala.com/india-news/supreme-court-dismisses-ed-s-plea-challenging-azam-khan-s-interim-bail-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T05:29:43+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/17/aajama-kha_78029dc2f67160a8e72094782e55eb19.jpeg?w=1200&dpr=1.0",
+      "summary": "सुप्रीम कोर्ट ने ईडी की याचिका खारिज कर आजम खान को अंतरिम जमानत दी। खान अगले दिन शाम को जेल से रिहा हुए। आजम खां को सुप्रीम कोर्ट से राहत: अंतरिम जमानत को चुनौती देने वाली ईडी की याचिका खारिज, कल जेल से।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "आजम खां को सुप्रीम कोर्ट से राहत: अंतरिम जमानत को चुनौती देने वाली ईडी की याचिका खारिज, कल जेल से",
+          "summary": "सुप्रीम कोर्ट ने ईडी की याचिका खारिज कर आजम खान को अंतरिम जमानत दी। खान अगले दिन शाम को जेल से रिहा हुए। आजम खां को सुप्रीम कोर्ट से राहत: अंतरिम जमानत को चुनौती देने वाली ईडी की याचिका खारिज, कल जेल से।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी ने जीटीए स्टाइल में गिनाई भारत की 13 साल की उपलब्धियां, यूपीए पर साधा निशाना, शेयर की",
+      "url": "https://www.amarujala.com/technology/tech-diary/pm-modi-uses-gta-style-memes-showcase-india-s-transformation-2026-11-19",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-19T05:26:04+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/pm-modi-gta-6_68f218160606dacc49c7131bddd7c1bb.jpeg",
+      "summary": "पीएम मोदी ने जीटीए 6 लॉन्च के मौके पर भारत की 13 साल की उपलब्धियां गिनाईं। उन्होंने यूपीए सरकार पर निशाना साधा और विकास की बात कही। जीटीए 6 लॉन्च हो चुका है और इस गेम को लेकर दुनियाभर के गेमर्स में गजब का क्रेज देखा जा रहा है। इस गेम के छठे वर्जन को 13 साल के इंतजार के बाद लाया गया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी ने जीटीए स्टाइल में गिनाई भारत की 13 साल की उपलब्धियां, यूपीए पर साधा निशाना, शेयर की",
+          "summary": "पीएम मोदी ने जीटीए 6 लॉन्च के मौके पर भारत की 13 साल की उपलब्धियां गिनाईं। उन्होंने यूपीए सरकार पर निशाना साधा और विकास की बात कही। जीटीए 6 लॉन्च हो चुका है और इस गेम को लेकर दुनियाभर के गेमर्स में गजब का क्रेज देखा जा रहा है। इस गेम के छठे वर्जन को 13 साल के इंतजार के बाद लाया गया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "कौन हैं हकीम जेफरीज, बन सकते हैं अमेरिका के पहले अश्वेत स्पीकर, डेमोक्रेट्स ने किया नॉमिनेट",
+      "url": "https://hindi.news18.com/world/america-who-is-hakeem-jeffries-could-be-first-black-house-speaker-nominated-by-democratic-party-ws-l-10997360.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-19T05:02:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/HENERY-JEFFERY-2026-11-a08446aa21e3eed9eb2de89e16321905-1200x800.jpg",
+      "summary": "डेमोक्रेटिक पार्टी ने हकीम जेफरीज को स्पीकर पद के उम्मीदवार के रूप में नामित किया। जनवरी 2027 में जीतने पर वे अमेरिका के पहले अश्वेत स्पीकर बनेंगे। Who is Hakeen Jeffies: अमेरिका में डेमोक्रेटिक पार्टी की जीत के बाद अब एक ऐतिहासिक फैसले में डेमोक्रेटिक पार्टी ने स्पीकर पद के उम्मीदवार के तौर पर हकीम जेफरीज को नॉमिनेट किया है.",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हकीम जेफ्रीज बन सकते हैं पहले अश्वेत स्पीकर, डेमोक्रेट्स ने लगाई नाम पर मुहर",
-          "summary": "डेमोक्रेटिक पार्टी ने हकीम जेफ्रीज को अमेरिकी प्रतिनिधि सभा के स्पीकर के पद के लिए नामित किया है। वे इस पद के लिए चुने जाने वाले पहले अश्वेत व्यक्ति बन सकते हैं। यह निर्णय अमेरिकी राजनीति में एक नया अध्याय खोलता है। हकीम जेफ्रीज बन सकते हैं पहले अश्वेत स्पीकर, डेमोक्रेट्स ने लगाई नाम पर मुहर।",
+          "title": "कौन हैं हकीम जेफरीज, बन सकते हैं अमेरिका के पहले अश्वेत स्पीकर, डेमोक्रेट्स ने किया नॉमिनेट",
+          "summary": "डेमोक्रेटिक पार्टी ने हकीम जेफरीज को स्पीकर पद के उम्मीदवार के रूप में नामित किया। जनवरी 2027 में जीतने पर वे अमेरिका के पहले अश्वेत स्पीकर बनेंगे। Who is Hakeen Jeffies: अमेरिका में डेमोक्रेटिक पार्टी की जीत के बाद अब एक ऐतिहासिक फैसले में डेमोक्रेटिक पार्टी ने स्पीकर पद के उम्मीदवार के तौर पर हकीम जेफरीज को नॉमिनेट किया है.",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "जिस दिन आतंक के सफहों पर दर्ज हुआ लतीफ का नाम, उसी दिन मौत के साथ बंद हुई उसके आतंक की किताब",
-      "url": "https://www.amarujala.com/jammu-and-kashmir/srinagar/major-strike-by-security-forces-in-kulgam-lashkar-commander-latif-bhat-killed-in-an-encounter-2026-11-19",
+      "title": "शाहरुख खान का एक और कमाल: वैराइटी की 100 सर्वश्रेष्ठ सितारों की ग्लोबल लिस्ट में बनाई जगह, नंबर वन",
+      "url": "https://www.amarujala.com/entertainment/srk-is-the-only-indian-to-feature-in-variety-100-greatest-film-stars-of-all-time-list-marilyn-monroe-on-top-2026-11-19",
       "source": "Amar Ujala Breaking",
       "sources": [],
-      "published_at": "2026-11-19T00:23:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/1_3366c97bfcbbe3a603bdb78b9841180c.jpeg?w=1200&dpr=1.0",
-      "summary": "दक्षिण कश्मीर के कुलगाम जिले में सुरक्षाबलों ने आतंकी लतीफ को मार गिराया। उसी दिन उसका नाम आतंक के सफहों पर दर्ज हुआ। यह कार्रवाई क्षेत्र में सुरक्षा स्थिति को सुधारने के लिए महत्वपूर्ण मानी जा रही है। दक्षिण कश्मीर के कुलगाम जिले में बुधवार को सुरक्षाबलों ने आतंकवाद के खिलाफ निर्णायक और ऐतिहासिक सफलता हासिल की। जिस दिन आतंक के सफहों पर दर्ज हुआ लतीफ का नाम, उसी दिन मौत के साथ बंद हुई उसके आतंक की किताब।",
-      "region": "World",
+      "published_at": "2026-11-19T05:01:22+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/shaharakha-khana_b1e1b660c2ab0e2b79f0682a31e551f1.jpeg?w=1200&dpr=1.0",
+      "summary": "वैराइटी ने शाहरुख खान को अपनी सर्वश्रेष्ठ सितारों की सूची में नंबर एक पर रखा। वह इस सूची में शामिल होने वाले एकमात्र भारतीय अभिनेता बने। यह मान्यता उन्हें बॉलीवुड की वैश्विक पहचान के रूप में स्थापित करती है। Variety 100 Greatest Stars of All Time: बॉलीवुड अभिनेता शाहरुख खान ने 100 सर्वश्रेष्ठ सितारों की लिस्ट में जगह बनाई है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जिस दिन आतंक के सफहों पर दर्ज हुआ लतीफ का नाम, उसी दिन मौत के साथ बंद हुई उसके आतंक की किताब",
-          "summary": "दक्षिण कश्मीर के कुलगाम जिले में सुरक्षाबलों ने आतंकी लतीफ को मार गिराया। उसी दिन उसका नाम आतंक के सफहों पर दर्ज हुआ। यह कार्रवाई क्षेत्र में सुरक्षा स्थिति को सुधारने के लिए महत्वपूर्ण मानी जा रही है। दक्षिण कश्मीर के कुलगाम जिले में बुधवार को सुरक्षाबलों ने आतंकवाद के खिलाफ निर्णायक और ऐतिहासिक सफलता हासिल की। जिस दिन आतंक के सफहों पर दर्ज हुआ लतीफ का नाम, उसी दिन मौत के साथ बंद हुई उसके आतंक की किताब।",
-          "region": "दुनिया"
+          "title": "शाहरुख खान का एक और कमाल: वैराइटी की 100 सर्वश्रेष्ठ सितारों की ग्लोबल लिस्ट में बनाई जगह, नंबर वन",
+          "summary": "वैराइटी ने शाहरुख खान को अपनी सर्वश्रेष्ठ सितारों की सूची में नंबर एक पर रखा। वह इस सूची में शामिल होने वाले एकमात्र भारतीय अभिनेता बने। यह मान्यता उन्हें बॉलीवुड की वैश्विक पहचान के रूप में स्थापित करती है। Variety 100 Greatest Stars of All Time: बॉलीवुड अभिनेता शाहरुख खान ने 100 सर्वश्रेष्ठ सितारों की लिस्ट में जगह बनाई है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "ईरान-अमेरिका के बीच तनाव बढ़ा, होर्मुज में बारूदी सुरंगों से टकराए तीन तेल टैंकरों में लगी आग",
-      "url": "https://www.amarujala.com/world/us-tehran-tensions-iran-claims-three-oil-tankers-caught-fire-after-hitting-mines-in-strait-of-hormuz-2026-11-19",
-      "source": "Amar Ujala Breaking",
+      "title": "आर्थिक सहयोग बढ़ाने पर शी जिनपिंग का जोर, पुतिन बोले- शांतिपूर्ण परमाणु ऊर्जा में रूस सबसे आगे",
+      "url": "https://www.amarujala.com/world/apec-summit-jinping-emphasizes-boosting-economic-cooperation-putin-states-russia-leads-peaceful-nuclear-energy-2026-11-19",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-19T00:22:36+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/iirana-amaraka-ma-takarava-jara_7cf2dff9e793e94e08b71571af741243.jpeg?w=1200&dpr=1.0",
-      "summary": "होर्मुज जलडमरूमध्य में तीन तेल टैंकर बारूदी सुरंगों से टकरा गए। टकराव के बाद जहाजों में आग लग गई। इस घटना से ईरान और अमेरिका के बीच तनाव और बढ़ गया है। युद्ध की आहट: ईरान-अमेरिका के बीच तनाव बढ़ा, होर्मुज में बारूदी सुरंगों से टकराए तीन तेल टैंकरों में लगी आग।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ईरान-अमेरिका के बीच तनाव बढ़ा, होर्मुज में बारूदी सुरंगों से टकराए तीन तेल टैंकरों में लगी आग",
-          "summary": "होर्मुज जलडमरूमध्य में तीन तेल टैंकर बारूदी सुरंगों से टकरा गए। टकराव के बाद जहाजों में आग लग गई। इस घटना से ईरान और अमेरिका के बीच तनाव और बढ़ गया है। युद्ध की आहट: ईरान-अमेरिका के बीच तनाव बढ़ा, होर्मुज में बारूदी सुरंगों से टकराए तीन तेल टैंकरों में लगी आग।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में राहुल ने भारत की चुनाव प्रक्रिया पर उठाए सवाल; ट्रंप, पुतिन और जिनपिंग आज करेंगे बैठक",
-      "url": "https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-19-november-2026-updates-on-amar-ujala-news-in-hindi-2026-11-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-19T00:11:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/17/aaja-ka-bugdha-khabra_b9b5228f75b63a2f193f5a591e50a079.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका में राहुल गांधी ने भारत की चुनाव प्रक्रिया पर सवाल उठाए। इसी दिन ट्रंप, पुतिन और जिनपिंग की बैठक हो रही है। यह बैठक वैश्विक राजनीतिक समीकरणों को प्रभावित कर सकती है। सुर्खियां: अमेरिका में राहुल ने भारत की चुनाव प्रक्रिया पर उठाए सवाल; ट्रंप, पुतिन और जिनपिंग आज करेंगे बैठक।",
+      "published_at": "2026-11-19T04:53:23+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/nprsa-rashhatarapata-valthamara-patana-oura-cana-rashhatarapata-sha-janapaga_0d410f02d241c79bc41d864a74d9bdc8.jpeg?w=1200&dpr=1.0",
+      "summary": "एपीईसी सम्मेलन में शी जिनपिंग ने आर्थिक सहयोग बढ़ाने पर जोर दिया। व्लादिमीर पुतिन ने कहा कि शांतिपूर्ण परमाणु ऊर्जा क्षेत्र में रूस सबसे आगे है। दोनों ने वैश्विक व्यापार और ऊर्जा सुरक्षा पर अपने दृष्टिकोण रखे। आर्थिक सहयोग बढ़ाने पर शी जिनपिंग का जोर, पुतिन बोले- शांतिपूर्ण परमाणु ऊर्जा में रूस सबसे आगे।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "अमेरिका में राहुल ने भारत की चुनाव प्रक्रिया पर उठाए सवाल; ट्रंप, पुतिन और जिनपिंग आज करेंगे बैठक",
-          "summary": "अमेरिका में राहुल गांधी ने भारत की चुनाव प्रक्रिया पर सवाल उठाए। इसी दिन ट्रंप, पुतिन और जिनपिंग की बैठक हो रही है। यह बैठक वैश्विक राजनीतिक समीकरणों को प्रभावित कर सकती है। सुर्खियां: अमेरिका में राहुल ने भारत की चुनाव प्रक्रिया पर उठाए सवाल; ट्रंप, पुतिन और जिनपिंग आज करेंगे बैठक।",
+          "title": "आर्थिक सहयोग बढ़ाने पर शी जिनपिंग का जोर, पुतिन बोले- शांतिपूर्ण परमाणु ऊर्जा में रूस सबसे आगे",
+          "summary": "एपीईसी सम्मेलन में शी जिनपिंग ने आर्थिक सहयोग बढ़ाने पर जोर दिया। व्लादिमीर पुतिन ने कहा कि शांतिपूर्ण परमाणु ऊर्जा क्षेत्र में रूस सबसे आगे है। दोनों ने वैश्विक व्यापार और ऊर्जा सुरक्षा पर अपने दृष्टिकोण रखे। आर्थिक सहयोग बढ़ाने पर शी जिनपिंग का जोर, पुतिन बोले- शांतिपूर्ण परमाणु ऊर्जा में रूस सबसे आगे।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "दूसरे सत्र का खेल शुरू, न्यूजीलैंड 4 विकेट पर 60 के पार; बुमराह ने टॉम-मिचेल को आउट किया",
-      "url": "https://www.amarujala.com/live/cricket/ind-vs-nz-1st-test-live-score-india-vs-new-zealand-wellington-test-match-updates-2026-11-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-19T00:09:59+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/cricket-news-cricket-international-india-vs-new-zealand-ind-vs-nz-live-score-ind-vs-nz-1st-tes_72ff3f82dbac02122b16f5a6bdc731dd.jpeg?w=1200&dpr=1.0",
-      "summary": "वेलिंगटन के बेसिन रिजर्व में भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का पहला मैच शुरू हुआ। न्यूजीलैंड ने दूसरे सत्र में 60 रन बनाकर 4 विकेट खोए। बुमराह ने टॉम-मिचेल को आउट किया। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज का पहला मुकाबला आज से वेलिंगटन के बेसिन रिजर्व में खेला जा रहा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दूसरे सत्र का खेल शुरू, न्यूजीलैंड 4 विकेट पर 60 के पार; बुमराह ने टॉम-मिचेल को आउट किया",
-          "summary": "वेलिंगटन के बेसिन रिजर्व में भारत और न्यूजीलैंड के बीच टेस्ट सीरीज का पहला मैच शुरू हुआ। न्यूजीलैंड ने दूसरे सत्र में 60 रन बनाकर 4 विकेट खोए। बुमराह ने टॉम-मिचेल को आउट किया। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज का पहला मुकाबला आज से वेलिंगटन के बेसिन रिजर्व में खेला जा रहा है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "देश में खुदरा कर्ज 18.8 फीसदी बढ़ा: गोल्ड लोन की किस्तों में देरी ने बढ़ाई चिंता, दिख रहे क्या",
-      "url": "https://www.amarujala.com/business/business-diary/india-retail-credit-growth-gold-personal-loan-emi-defaults-crif-high-mark-2026-11-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-19T00:04:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/retail-credit_578271f8ab9a2926e2220d058fe45686.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत में खुदरा कर्ज 18.8 फीसदी बढ़ा। गोल्ड लोन की किस्तों में देरी से चिंता बढ़ी। CRIF के आंकड़े में यह वृद्धि दर्ज की गई। देश में खुदरा कर्ज 18.8 फीसदी बढ़ा: गोल्ड लोन की किस्तों में देरी ने बढ़ाई चिंता, दिख रहे क्या संकेत?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देश में खुदरा कर्ज 18.8 फीसदी बढ़ा: गोल्ड लोन की किस्तों में देरी ने बढ़ाई चिंता, दिख रहे क्या",
-          "summary": "भारत में खुदरा कर्ज 18.8 फीसदी बढ़ा। गोल्ड लोन की किस्तों में देरी से चिंता बढ़ी। CRIF के आंकड़े में यह वृद्धि दर्ज की गई। देश में खुदरा कर्ज 18.8 फीसदी बढ़ा: गोल्ड लोन की किस्तों में देरी ने बढ़ाई चिंता, दिख रहे क्या संकेत?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "राम कथा के दौरान मोरारी बापू का संदेश, कहा- नकली मुखौटे हटाएं युवा, तभी खुलेंगे ज्ञान के नेत्र",
-      "url": "https://www.amarujala.com/india-news/morari-bapu-nagpur-ram-katha-youth-self-awareness-makeup-wakeup-message-2026-11-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-18T23:56:51+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/morari-bapu_469f8cbcf6680ed16e78bc63269d9ea1.jpeg?w=1200&dpr=1.0",
-      "summary": "नागपुर में राम कथा के दौरान मोरारी बापू ने युवाओं को संदेश दिया। उन्होंने कहा कि नकली मुखौटे हटाने पर ही ज्ञान के नेत्र खुलेंगे। राम कथा के दौरान मोरारी बापू का संदेश, कहा- नकली मुखौटे हटाएं युवा, तभी खुलेंगे ज्ञान के नेत्र।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राम कथा के दौरान मोरारी बापू का संदेश, कहा- नकली मुखौटे हटाएं युवा, तभी खुलेंगे ज्ञान के नेत्र",
-          "summary": "नागपुर में राम कथा के दौरान मोरारी बापू ने युवाओं को संदेश दिया। उन्होंने कहा कि नकली मुखौटे हटाने पर ही ज्ञान के नेत्र खुलेंगे। राम कथा के दौरान मोरारी बापू का संदेश, कहा- नकली मुखौटे हटाएं युवा, तभी खुलेंगे ज्ञान के नेत्र।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हुआंग के हटने से अमेरिकी अर्थव्यवस्था को लेकर बढ़ी चिंता, क्या डगमड़ाएगी एआई की सप्लाई चेन?",
-      "url": "https://www.amarujala.com/business/business-diary/nvidia-controversy-huang-s-exit-raises-concerns-over-us-economy-could-the-ai-supply-chain-be-disrupted-2026-11-19",
+      "title": "व्हाइट हाउस के अफसरों से मिले हिंदू नेता, हिंदूफोबिया-मंदिरों की सुरक्षा पर उठाई आवाज; रखीं मांगें",
+      "url": "https://www.amarujala.com/world/hindu-american-leaders-flag-community-concerns-at-meeting-with-white-house-officials-us-news-2026-11-19",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-18T23:40:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/enavadaya-ka-karabra-thasara-kapanaya-sa-kasa-jaugdha-ha_cfac6737e0cec1c73be814339ae4e970.jpeg?w=1200&dpr=1.0",
-      "summary": "एनवीडिया के संस्थापक हुआंग के हटने से अमेरिकी अर्थव्यवस्था पर चिंता बढ़ी। एआई की सप्लाई चेन को लेकर सवाल उठ रहे हैं। एनवीडिया विवाद: हुआंग के हटने से अमेरिकी अर्थव्यवस्था को लेकर बढ़ी चिंता, क्या डगमड़ाएगी एआई की सप्लाई चेन?",
+      "published_at": "2026-11-19T04:35:14+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2025/04/10/us-suspends-additional-26-pc-tariff-on-india-till-july-9-white-house_b6666cfbb6c534b36b9084a718a6e17b.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिका में हिंदू नेताओं ने व्हाइट हाउस अफसरों से मुलाकात की। उन्होंने हिंदूफोबिया और मंदिरों की सुरक्षा पर चिंता जताई। समुदाय ने इन मुद्दों के समाधान के लिए स्पष्ट मांगें रखीं। व्हाइट हाउस के अफसरों से मिले हिंदू नेता, हिंदूफोबिया-मंदिरों की सुरक्षा पर उठाई आवाज; रखीं मांगें।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हुआंग के हटने से अमेरिकी अर्थव्यवस्था को लेकर बढ़ी चिंता, क्या डगमड़ाएगी एआई की सप्लाई चेन?",
-          "summary": "एनवीडिया के संस्थापक हुआंग के हटने से अमेरिकी अर्थव्यवस्था पर चिंता बढ़ी। एआई की सप्लाई चेन को लेकर सवाल उठ रहे हैं। एनवीडिया विवाद: हुआंग के हटने से अमेरिकी अर्थव्यवस्था को लेकर बढ़ी चिंता, क्या डगमड़ाएगी एआई की सप्लाई चेन?",
+          "title": "व्हाइट हाउस के अफसरों से मिले हिंदू नेता, हिंदूफोबिया-मंदिरों की सुरक्षा पर उठाई आवाज; रखीं मांगें",
+          "summary": "अमेरिका में हिंदू नेताओं ने व्हाइट हाउस अफसरों से मुलाकात की। उन्होंने हिंदूफोबिया और मंदिरों की सुरक्षा पर चिंता जताई। समुदाय ने इन मुद्दों के समाधान के लिए स्पष्ट मांगें रखीं। व्हाइट हाउस के अफसरों से मिले हिंदू नेता, हिंदूफोबिया-मंदिरों की सुरक्षा पर उठाई आवाज; रखीं मांगें।",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "राहुल गांधी ने भारत की चुनावी प्रक्रिया पर उठाए सवाल, कहा- चुनाव का बहिष्कार नहीं करेगा विपक्ष",
-      "url": "https://www.amarujala.com/world/rahul-gandhi-opposition-strategy-expose-alleged-electoral-irregularities-university-of-chicago-in-illinois-2026-11-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-18T23:34:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/rahul-gandhi_fc6381251f67e73a751dfe962e15e76e.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका में राहुल गांधी ने भारत की चुनावी प्रक्रिया पर सवाल उठाए। उन्होंने गड़बड़ियों का दावा किया। विपक्ष चुनाव का बहिष्कार नहीं करेगा। 'गैर-लोकतांत्रिक भारत को स्वीकार नहीं करेंगे': अमेरिका में बोले राहुल, चुनावी प्रक्रिया में गड़बड़ियों का दावा। राहुल गांधी ने भारत की चुनावी प्रक्रिया पर उठाए सवाल, कहा- चुनाव का बहिष्कार नहीं करेगा विपक्ष।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राहुल गांधी ने भारत की चुनावी प्रक्रिया पर उठाए सवाल, कहा- चुनाव का बहिष्कार नहीं करेगा विपक्ष",
-          "summary": "अमेरिका में राहुल गांधी ने भारत की चुनावी प्रक्रिया पर सवाल उठाए। उन्होंने गड़बड़ियों का दावा किया। विपक्ष चुनाव का बहिष्कार नहीं करेगा। 'गैर-लोकतांत्रिक भारत को स्वीकार नहीं करेंगे': अमेरिका में बोले राहुल, चुनावी प्रक्रिया में गड़बड़ियों का दावा। राहुल गांधी ने भारत की चुनावी प्रक्रिया पर उठाए सवाल, कहा- चुनाव का बहिष्कार नहीं करेगा विपक्ष।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "16 दिन अंतरिक्ष में रहकर लगाए पृथ्वी के 252 चक्कर : 19 नवंबर 1997 को कल्पना चावला ने छुआ था आसमान",
-      "url": "https://hindi.news18.com/news/nation/kalpana-chawla-interesting-facts-about-the-first-woman-of-indian-origin-to-fly-to-space-nasa-ws-l-10996289.html",
+      "title": "'दुनिया की स्थिरता के लिए प्रतिबद्ध', APEC में ट्रंप ने का शांति संदेश, जिनपिंग का ग्लोबल ट्रेड पर",
+      "url": "https://hindi.news18.com/world/china-apec-summit-in-china-trump-calls-for-message-for-peace-jinping-emphasis-on-global-trade-ws-l-10997221.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-18T23:31:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/kalpana-chawla-2026-11-c18a42c82d4ecf252ceebab36000c428-1200x800.jpg",
-      "summary": "कल्पना चावला 19 नवंबर 1997 को स्पेस शटल कोलंबिया से अंतरिक्ष गईं। उन्होंने 16 दिन में पृथ्वी के 252 चक्कर लगाए। 1 फरवरी 2003 में वापसी के दौरान हादसे में उनका निधन हो गया। Astronaut Kalpana Chawla: 19 नवंबर 1997 को कल्पना चावला नासा के स्पेस शटल कोलंबिया से अंतरिक्ष में जाने वाली भारतीय मूल की पहली महिला बनीं. 1 फरवरी 2003 को एक अन्य मिशन से वापसी के दौरान हादसे में उनका निधन हो गया था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "16 दिन अंतरिक्ष में रहकर लगाए पृथ्वी के 252 चक्कर : 19 नवंबर 1997 को कल्पना चावला ने छुआ था आसमान",
-          "summary": "कल्पना चावला 19 नवंबर 1997 को स्पेस शटल कोलंबिया से अंतरिक्ष गईं। उन्होंने 16 दिन में पृथ्वी के 252 चक्कर लगाए। 1 फरवरी 2003 में वापसी के दौरान हादसे में उनका निधन हो गया। Astronaut Kalpana Chawla: 19 नवंबर 1997 को कल्पना चावला नासा के स्पेस शटल कोलंबिया से अंतरिक्ष में जाने वाली भारतीय मूल की पहली महिला बनीं. 1 फरवरी 2003 को एक अन्य मिशन से वापसी के दौरान हादसे में उनका निधन हो गया था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "एआई की दुनिया में नौकरी का नया रास्ता: डाटा सेंटर में 93 लाख तक वेतन; दो दिन की ट्रेनिंग से खुलेंगे",
-      "url": "https://www.amarujala.com/world/ai-boom-creates-new-data-center-jobs-earn-up-to-93-lakh-a-year-with-just-two-days-of-training-2026-11-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-18T23:13:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/satalita-sa-kasa-bthalga-bharata-ka-itaranata-kanakatavata_ef03c59456e439e81cf750358098ab45.jpeg?w=1200&dpr=1.0",
-      "summary": "डेटा सेंटर में नौकरियों के लिए दो दिन की ट्रेनिंग पर्याप्त है। इन पदों पर 93 लाख रुपये तक का वेतन मिलता है। यह एआई क्षेत्र में नया करियर रास्ता प्रस्तुत करता है। एआई की दुनिया में नौकरी का नया रास्ता: डाटा सेंटर में 93 लाख तक वेतन; दो दिन की ट्रेनिंग से खुलेंगे अवसर।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एआई की दुनिया में नौकरी का नया रास्ता: डाटा सेंटर में 93 लाख तक वेतन; दो दिन की ट्रेनिंग से खुलेंगे",
-          "summary": "डेटा सेंटर में नौकरियों के लिए दो दिन की ट्रेनिंग पर्याप्त है। इन पदों पर 93 लाख रुपये तक का वेतन मिलता है। यह एआई क्षेत्र में नया करियर रास्ता प्रस्तुत करता है। एआई की दुनिया में नौकरी का नया रास्ता: डाटा सेंटर में 93 लाख तक वेतन; दो दिन की ट्रेनिंग से खुलेंगे अवसर।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ब्रह्मोस की नकल बनाने चला पाकिस्तान, चीन से उधार लिया सब सामान, जरा फतह-3 मिसाइल का हाल तो देखिये",
-      "url": "https://hindi.news18.com/news/defence/pakistan-successfully-tests-fatah-3-know-how-powerful-is-this-chinese-technology-based-supersonic-cruise-missile-against-brahmos-10996677.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-18T23:11:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Brahmos-Vs-Fatah-3-2-2026-11-12d27450a127eee6d29f5f1080909036-1200x800.jpg",
-      "summary": "पाकिस्तान ने फतह-3 सुपरसोनिक क्रूज मिसाइल का सफल परीक्षण किया। इसे ब्रह्मोस का विकल्प माना जा रहा है। चीन की एचडी-1 मिसाइल से तकनीकी समानता का सवाल उठ रहा है। Fatah 3 vs Brahmos Missile: भारत की ब्रह्मोस मिसाइल की काट खोजने में जुटे पाकिस्तान ने अब फतह-3 का सफल परीक्षण किया है. मुनीर सेना इसे सुपरसोनिक क्रूज मिसाइल बता रही है, जो लंबी दूरी तक सटीक हमला कर सकती है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ब्रह्मोस की नकल बनाने चला पाकिस्तान, चीन से उधार लिया सब सामान, जरा फतह-3 मिसाइल का हाल तो देखिये",
-          "summary": "पाकिस्तान ने फतह-3 सुपरसोनिक क्रूज मिसाइल का सफल परीक्षण किया। इसे ब्रह्मोस का विकल्प माना जा रहा है। चीन की एचडी-1 मिसाइल से तकनीकी समानता का सवाल उठ रहा है। Fatah 3 vs Brahmos Missile: भारत की ब्रह्मोस मिसाइल की काट खोजने में जुटे पाकिस्तान ने अब फतह-3 का सफल परीक्षण किया है. मुनीर सेना इसे सुपरसोनिक क्रूज मिसाइल बता रही है, जो लंबी दूरी तक सटीक हमला कर सकती है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "दिमाग में लगवाईं छह चिप, बनाया अनूठा संगीत; अब अपने ही ब्रेन डाटा के लिए लड़ रहे गैलेन",
-      "url": "https://www.amarujala.com/world/paralyzed-researcher-creates-music-using-brain-chips-after-7hour-surgery-fighting-for-ownership-of-brain-data-2026-11-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-18T22:48:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/kana-ha-ja-galna-bkavaltara-oura-unahana-kaya-anakha-parayaga-kaya_2a9d54b397f96194d0faacdf91955504.jpeg?w=1200&dpr=1.0",
-      "summary": "गैलेन के दिमाग में छह चिप लगाई गईं। सात घंटे की सर्जरी के बाद उन्होंने ब्रेन डाटा से संगीत बनाया। अब वे अपने ही न्यूरोलॉजिकल डेटा के अधिकार के लिए लड़ रहे हैं। सात घंटे की सर्जरी: दिमाग में लगवाईं छह चिप, बनाया अनूठा संगीत; अब अपने ही ब्रेन डाटा के लिए लड़ रहे गैलेन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "दिमाग में लगवाईं छह चिप, बनाया अनूठा संगीत; अब अपने ही ब्रेन डाटा के लिए लड़ रहे गैलेन",
-          "summary": "गैलेन के दिमाग में छह चिप लगाई गईं। सात घंटे की सर्जरी के बाद उन्होंने ब्रेन डाटा से संगीत बनाया। अब वे अपने ही न्यूरोलॉजिकल डेटा के अधिकार के लिए लड़ रहे हैं। सात घंटे की सर्जरी: दिमाग में लगवाईं छह चिप, बनाया अनूठा संगीत; अब अपने ही ब्रेन डाटा के लिए लड़ रहे गैलेन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप, पुतिन और जिनपिंग के बीच त्रिपक्षीय बैठक आज: महामुलाकात पर टिकीं दुनिया की नजरें, क्या हैं",
-      "url": "https://www.amarujala.com/world/apec-summit-shenzhen-trump-xi-jinping-putin-trilateral-meeting-agenda-ukraine-war-nuclear-weapons-iran-chips-2026-11-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-18T22:47:14+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/china-us-russia_0d1de7053843842ce9860b64edb6fe26.jpeg?w=1200&dpr=1.0",
-      "summary": "ट्रंप, पुतिन और जिनपिंग शेंज़ेन में त्रिपक्षीय बैठक करेंगे। यूक्रेन युद्ध, परमाणु हथियार और चिप्स मुख्य मुद्दे हैं। इस मुलाकात पर दुनिया की नजरें टिकी हैं। ट्रंप, पुतिन और जिनपिंग के बीच त्रिपक्षीय बैठक आज: महामुलाकात पर टिकीं दुनिया की नजरें, क्या हैं अहम मुद्दे?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप, पुतिन और जिनपिंग के बीच त्रिपक्षीय बैठक आज: महामुलाकात पर टिकीं दुनिया की नजरें, क्या हैं",
-          "summary": "ट्रंप, पुतिन और जिनपिंग शेंज़ेन में त्रिपक्षीय बैठक करेंगे। यूक्रेन युद्ध, परमाणु हथियार और चिप्स मुख्य मुद्दे हैं। इस मुलाकात पर दुनिया की नजरें टिकी हैं। ट्रंप, पुतिन और जिनपिंग के बीच त्रिपक्षीय बैठक आज: महामुलाकात पर टिकीं दुनिया की नजरें, क्या हैं अहम मुद्दे?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "कश्मीर में शून्य से नीचे पहुंचा पारा, पंजाब-हरियाणा-दिल्ली में कोहरे का अलर्ट; कमजोर पड़ा चक्रवात",
-      "url": "https://www.amarujala.com/india-news/weather-update-kashmir-temperature-drops-below-zero-fog-alert-in-punjab-haryana-delhi-cyclone-akvan-weakens-2026-11-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-18T22:42:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/masama_6aba4482a7c58e496aa51abfcf943db0.jpeg?w=1200&dpr=1.0",
-      "summary": "कश्मीर में तापमान शून्य से नीचे गिर गया है। पंजाब, हरियाणा और दिल्ली में घने कोहरे का अलर्ट जारी है। चक्रवात अकवान की तीव्रता कम हो गई है। मौसम विभाग ने सावधानी बरतने की सलाह दी है। मौसम: कश्मीर में शून्य से नीचे पहुंचा पारा, पंजाब-हरियाणा-दिल्ली में कोहरे का अलर्ट; कमजोर पड़ा चक्रवात अकवान।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कश्मीर में शून्य से नीचे पहुंचा पारा, पंजाब-हरियाणा-दिल्ली में कोहरे का अलर्ट; कमजोर पड़ा चक्रवात",
-          "summary": "कश्मीर में तापमान शून्य से नीचे गिर गया है। पंजाब, हरियाणा और दिल्ली में घने कोहरे का अलर्ट जारी है। चक्रवात अकवान की तीव्रता कम हो गई है। मौसम विभाग ने सावधानी बरतने की सलाह दी है। मौसम: कश्मीर में शून्य से नीचे पहुंचा पारा, पंजाब-हरियाणा-दिल्ली में कोहरे का अलर्ट; कमजोर पड़ा चक्रवात अकवान।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बलरामपुर में कोहरे के कारण बाइकों में भिड़ंत, पांच युवकों की मौत; गंभीर हालत में दो लोग अस्पताल में",
-      "url": "https://www.amarujala.com/uttar-pradesh/balrampur/up-two-motorcycles-collide-due-to-fog-in-balrampur-five-youths-killed-2026-11-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-18T22:04:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/1_9b79df710cda4b34afaa3ab706add56c.jpeg?w=1200&dpr=1.0",
-      "summary": "बलरामपुर में घने कोहरे के कारण बाइकों की भिड़ंत हुई। इस हादसे में पांच युवकों की मौत हो गई। दो लोग गंभीर रूप से घायल होकर अस्पताल में भर्ती हैं। रात के अंधेरे और कम दृश्यता ने हादसे को और गंभीर बनाया। घना कोहरा और रात का सन्नाटा। बलरामपुर में कोहरे के कारण बाइकों में भिड़ंत, पांच युवकों की मौत; गंभीर हालत में दो लोग अस्पताल में।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बलरामपुर में कोहरे के कारण बाइकों में भिड़ंत, पांच युवकों की मौत; गंभीर हालत में दो लोग अस्पताल में",
-          "summary": "बलरामपुर में घने कोहरे के कारण बाइकों की भिड़ंत हुई। इस हादसे में पांच युवकों की मौत हो गई। दो लोग गंभीर रूप से घायल होकर अस्पताल में भर्ती हैं। रात के अंधेरे और कम दृश्यता ने हादसे को और गंभीर बनाया। घना कोहरा और रात का सन्नाटा। बलरामपुर में कोहरे के कारण बाइकों में भिड़ंत, पांच युवकों की मौत; गंभीर हालत में दो लोग अस्पताल में।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कांग्रेस को 70 सीटें भी नहीं देना चाहती सपा, पिछली बार जीती और नंबर दो सीटें भी नहीं छोड़ेगी",
-      "url": "https://www.amarujala.com/delhi-ncr/up-elections-sp-unwilling-to-concede-even-70-seats-to-congress-2026-11-19",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-18T21:43:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/1_9c6cb6df19cf4f05d9646cab62485681.jpeg?w=1200&dpr=1.0",
-      "summary": "उत्तर प्रदेश विधानसभा चुनाव में सीटों के बंटवारे पर सपा ने स्पष्ट रुख अपनाया है। पार्टी पिछली बार जीती सभी सीटें नहीं छोड़ेगी। कांग्रेस के 181 सीटों के दावे को सपा ने नकार दिया है। दोनों दलों के बीच सहयोग की शर्तें अभी तय नहीं हुई हैं। उत्तर प्रदेश विधानसभा चुनाव में सीटों के बंटवारे को लेकर भले ही कांग्रेस 181 सीटों और सम्मान की लड़ाई के बड़े दावे कर रही हो लेकिन समाजवादी पार्टी की ओर से साफ कर दिया गया है कि पार्टी पिछली बार जीती कोई सीट नहीं छोड़ेगी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कांग्रेस को 70 सीटें भी नहीं देना चाहती सपा, पिछली बार जीती और नंबर दो सीटें भी नहीं छोड़ेगी",
-          "summary": "उत्तर प्रदेश विधानसभा चुनाव में सीटों के बंटवारे पर सपा ने स्पष्ट रुख अपनाया है। पार्टी पिछली बार जीती सभी सीटें नहीं छोड़ेगी। कांग्रेस के 181 सीटों के दावे को सपा ने नकार दिया है। दोनों दलों के बीच सहयोग की शर्तें अभी तय नहीं हुई हैं। उत्तर प्रदेश विधानसभा चुनाव में सीटों के बंटवारे को लेकर भले ही कांग्रेस 181 सीटों और सम्मान की लड़ाई के बड़े दावे कर रही हो लेकिन समाजवादी पार्टी की ओर से साफ कर दिया गया है कि पार्टी पिछली बार जीती कोई सीट नहीं छोड़ेगी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "चीन तक कैसे पहुंची एनवीडिया की एआई चिप? कंपनी के पूर्व अधिकारी जय पुरी का नाम आया सामने",
-      "url": "https://www.amarujala.com/world/nvidia-former-no-3-executive-jay-puri-drawn-into-2-5-billion-china-chip-scandal-what-is-his-role-2026-11-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-18T21:40:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/enavadaya-vavatha_5db64018bd4d18cf2e095afbb7361cb0.jpeg?w=1200&dpr=1.0",
-      "summary": "एनवीडिया की एआई चिप्स चीन तक पहुंचने का मामला सामने आया है। कंपनी के पूर्व अधिकारी जय पुरी का नाम इस घोटाले से जुड़ा है। अनुमानित नुकसान 2.5 अरब डॉलर बताया जा रहा है। जांच में चिप्स के अवैध निर्यात के सबूत मिले हैं। 2.5 अरब डॉलर का घोटाला: चीन तक कैसे पहुंचा एनवीडिया का एआई चिप? कंपनी के पूर्व अधिकारी जय पुरी का नाम जुड़ा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "चीन तक कैसे पहुंची एनवीडिया की एआई चिप? कंपनी के पूर्व अधिकारी जय पुरी का नाम आया सामने",
-          "summary": "एनवीडिया की एआई चिप्स चीन तक पहुंचने का मामला सामने आया है। कंपनी के पूर्व अधिकारी जय पुरी का नाम इस घोटाले से जुड़ा है। अनुमानित नुकसान 2.5 अरब डॉलर बताया जा रहा है। जांच में चिप्स के अवैध निर्यात के सबूत मिले हैं। 2.5 अरब डॉलर का घोटाला: चीन तक कैसे पहुंचा एनवीडिया का एआई चिप? कंपनी के पूर्व अधिकारी जय पुरी का नाम जुड़ा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "वेनेजुएला और अमेरिका के बीच सैन्य समझौता: हेगसेथ बोले- प्रशिक्षण से लेकर खुफिया जानकारी तक करेंगे",
-      "url": "https://www.amarujala.com/world/us-venezuela-sign-military-cooperation-agreement-pete-hegseth-visit-2026-11-19",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-18T20:28:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/us-venezuela-deal_6a7c906277f1f65dd00525f58ddba735.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका और वेनेजुएला के बीच सैन्य सहयोग समझौता हुआ है। रक्षा मंत्री हेगसेथ ने प्रशिक्षण और खुफिया जानकारी साझा करने की पुष्टि की है। यह समझौता दोनों देशों के बीच सुरक्षा संबंधों को मजबूत करेगा। क्षेत्रीय स्थिरता के लिए यह कदम महत्वपूर्ण माना जा रहा है। वेनेजुएला और अमेरिका के बीच सैन्य समझौता: हेगसेथ बोले- प्रशिक्षण से लेकर खुफिया जानकारी तक करेंगे।",
+      "published_at": "2026-11-19T04:16:19+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/trump-jinping-2026-11-bd2c74beb5b6bbb68305859a1dca24fb-1200x800.jpg",
+      "summary": "एपीईसी सम्मेलन में ट्रंप ने वैश्विक स्थिरता के प्रति अपनी प्रतिबद्धता जताई। शी जिनपिंग ने ग्लोबल ट्रेड पर अपने विचार रखे। दोनों नेताओं की नजर पुतिन से होने वाली मुलाकात पर थी। APEC Summit Message from Trump-Jinping: चीन में चल रहे एशिया-पैसेफिक इकोनॉमिक कोऑपरेशन के सम्मेलन में दो ऐसे नेता आमने-सामने मिले, जो वैश्विक परिदृश्य में धुर प्रतिद्वंद्वी हैं. शी जिनपिंग और डोनाल्ड ट्रंप ने अपने संबोधन में अलग-अलग बातें कहीं लेकिन नजर तो इन दोनों की व्लादिमीर पुतिन के साथ होने वाली मुलाकात पर है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "वेनेजुएला और अमेरिका के बीच सैन्य समझौता: हेगसेथ बोले- प्रशिक्षण से लेकर खुफिया जानकारी तक करेंगे",
-          "summary": "अमेरिका और वेनेजुएला के बीच सैन्य सहयोग समझौता हुआ है। रक्षा मंत्री हेगसेथ ने प्रशिक्षण और खुफिया जानकारी साझा करने की पुष्टि की है। यह समझौता दोनों देशों के बीच सुरक्षा संबंधों को मजबूत करेगा। क्षेत्रीय स्थिरता के लिए यह कदम महत्वपूर्ण माना जा रहा है। वेनेजुएला और अमेरिका के बीच सैन्य समझौता: हेगसेथ बोले- प्रशिक्षण से लेकर खुफिया जानकारी तक करेंगे।",
+          "title": "'दुनिया की स्थिरता के लिए प्रतिबद्ध', APEC में ट्रंप ने का शांति संदेश, जिनपिंग का ग्लोबल ट्रेड पर",
+          "summary": "एपीईसी सम्मेलन में ट्रंप ने वैश्विक स्थिरता के प्रति अपनी प्रतिबद्धता जताई। शी जिनपिंग ने ग्लोबल ट्रेड पर अपने विचार रखे। दोनों नेताओं की नजर पुतिन से होने वाली मुलाकात पर थी। APEC Summit Message from Trump-Jinping: चीन में चल रहे एशिया-पैसेफिक इकोनॉमिक कोऑपरेशन के सम्मेलन में दो ऐसे नेता आमने-सामने मिले, जो वैश्विक परिदृश्य में धुर प्रतिद्वंद्वी हैं. शी जिनपिंग और डोनाल्ड ट्रंप ने अपने संबोधन में अलग-अलग बातें कहीं लेकिन नजर तो इन दोनों की व्लादिमीर पुतिन के साथ होने वाली मुलाकात पर है.",
           "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सऊदी अरब में पांच घंटे में पांच अलर्ट: रियाद से वादी अल दवासिर तक गूंजी चेतावनी, डोनाल्ड ट्रंप का",
+      "url": "https://www.patrika.com/world-news/saudi-arabia-emergency-alert-riyadh-houthi-missile-civil-defense-warning-21063503",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-19T04:14:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Saudi-Arabia-emergency-aler.webp",
+      "summary": "सऊदी अरब में पांच घंटे के अंदर पांच इमरजेंसी अलर्ट जारी हुए। रियाद, वादी अल दवासिर और अस सुलैल में चेतावनियां भेजी गईं। सऊदी गठबंधन ने कहा कि हूती विद्रोहियों ने रियाद की ओर मिसाइल दागी थी। Riyadh Missile Attack: पिछले पांच घंटे सऊदी अरब के लोगों के लिए बड़े तनाव वाले रहे। रियाद से लेकर वादी अल दवासिर और अस सुलैल तक, हर जगह मोबाइल पर इमरजेंसी अलर्ट आते रहे।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी अरब में पांच घंटे में पांच अलर्ट: रियाद से वादी अल दवासिर तक गूंजी चेतावनी, डोनाल्ड ट्रंप का",
+          "summary": "सऊदी अरब में पांच घंटे के अंदर पांच इमरजेंसी अलर्ट जारी हुए। रियाद, वादी अल दवासिर और अस सुलैल में चेतावनियां भेजी गईं। सऊदी गठबंधन ने कहा कि हूती विद्रोहियों ने रियाद की ओर मिसाइल दागी थी। Riyadh Missile Attack: पिछले पांच घंटे सऊदी अरब के लोगों के लिए बड़े तनाव वाले रहे। रियाद से लेकर वादी अल दवासिर और अस सुलैल तक, हर जगह मोबाइल पर इमरजेंसी अलर्ट आते रहे।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
