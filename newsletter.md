@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 18, 2026 23:59 IST
+**Updated:** November 19, 2026 06:20 IST
 
 ---
 
@@ -24,11 +24,23 @@ Xi Jinping addressed the APEC summit in Shenzhen, positioning China as an open a
 
 Jensen Huang will testify before Congress on 1 December regarding national security concerns. His resignation followed an alleged affair with a suspected Chinese spy. Nvidia general counsel Tim Teter will also appear. The hearing addresses the fallout from his departure and potential security breaches. High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spyNvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for.
 
+### [How the news scramble is messing with Bank of Japan policymaking](https://asiatimes.com/2026/11/how-the-news-scramble-is-messing-with-bank-of-japan-policymaking/)
+*Asia Times* - Nov 17, 23:01 IST (iso: 2026-11-17T17:31:01+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Local_train_Japan.jpg -->
+
+Japan's traditional shared media environment has eroded over three decades. Major newspapers and broadcast networks no longer dominate public discourse. This fragmentation complicates the Bank of Japan's ability to gauge market sentiment and manage monetary policy effectively. For the past three decades, Japanese society still enjoyed something close to a shared media life. Major newspapers had enormous circulation. NHK and a handful of commercial networks dominated television.
+
 ### [Trump turns brief Manila stop into pre-Shenzhen leverage haul](https://asiatimes.com/2026/11/trump-turns-brief-manila-stop-into-pre-shenzhen-leverage-haul/)
 *Asia Times* - Nov 17, 21:35 IST (iso: 2026-11-17T16:05:59+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/20047627_111726-cc-getty-trump-asia-img-scaled.jpg -->
 
 Trump used his brief Manila stop to secure leverage before heading to Shenzhen. He arrived after the ASEAN plenary had already concluded. The compressed schedule was initially viewed as a diplomatic slight. He leveraged the visit to negotiate terms ahead of his China meeting. When US President Donald Trump touched down in Manila on Tuesday afternoon (November 17), arriving only after the Association of Southeast Asian Nations had already concluded its formal plenary and handed its rotating chair to Singapore, early international coverage largely framed the compressed 24 hour visit as a diplomatic slight.
+
+### [Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit](https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit)
+*The Guardian* - Nov 17, 16:48 IST (iso: 2026-11-17T11:18:26+00:00)
+<!-- image: https://i.guim.co.uk/img/media/18cb31b71bd7f2b4e57a7b7b8a647067ac239636/537_0_4988_3989/master/4988.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d080ebd37b1b3c732785be9ecae62a52 -->
+
+Shenzhen hosted the APEC 2026 summit, showcasing China's technological and economic rise. Xi used the event to project confidence in China's central role in the global economy. The city's skyline displayed APEC branding during the high-profile international gathering. Host city offers showcase of China’s rise into a confident and innovative power central to global economyIn a Shenzhen square on a balmy evening, locals and tourists watched the dozens of glinting towers that make up the city’s skyline ripple through the colour spectrum – cyan and violet, cyber green, China’s national scarlet and gold – repeatedly flashing the words “Apec 2026”. The Asia-Pacific Ec.
 
 ---
 
@@ -56,7 +68,7 @@ Trump's Board of Peace criticized Israel and Hamas for failing to end the Gaza w
 *The Hindu (International)* - Nov 18, 19:06 IST (iso: 2026-11-18T13:36:13+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/vxcdcx/article71715064.ece/alternates/LANDSCAPE_1200/US_Bases_Struck_77413.jpg -->
 
-Iran launched strikes on a U. S. air base in Kuwait and Bahrain. The attacks targeted American facilities on November 13 and 15. Tehran cited U. S. drone surveillance and strikes on its communications towers as the cause. Iran said its recent attacks. including those on other U. S. facilities in Bahrain on November 15 and November 13. were in response to U. S.
+Iran launched strikes on a U. S. air base in Kuwait and Bahrain. The attacks targeted American facilities on November 13 and 15. Tehran cited U. drone surveillance and strikes on its communications towers as the cause. Iran said its recent attacks. including those on other U. facilities in Bahrain on November 15 and November 13. were in response to U.
 
 ### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
 *The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
@@ -94,12 +106,6 @@ Hundreds were arrested in Manila during anti-Trump protests. Demonstrations were
 
 A senior Iranian cleric who briefly assumed supreme leader powers after Khamenei's death visited Sarajevo. He urged European nations to distance themselves from US and Israeli policies toward Tehran. The visit highlights Tehran's effort to cultivate a European diplomatic connection. A senior Iranian cleric who briefly helped exercise the powers of Iran's supreme leader following the death of Ayatollah Ali Khamenei has visited Sarajevo, urging European countries to distance themselves from US and Israeli policies toward Tehran.
 
-### [Progress ‘real’ but fragile, as remnants of war wreck young lives](https://news.un.org/feed/view/en/story/2026/11/1168814)
-*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/syria-chemicalweapons-1498841400.jpg/image560x340cropped.jpg -->
-
-Syria shows undeniable signs of progress two years after the Assad regime fell. Senior UN officials warn that explosive ordnance and winter threaten these gains. Severe funding shortfalls also complicate recovery efforts for young lives. Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.
-
 ---
 
 ## Europe & Russia
@@ -110,17 +116,17 @@ Syria shows undeniable signs of progress two years after the Assad regime fell. 
 
 Ukraine destroyed the $4 billion Crimean Bridge, cutting road traffic between the Russian mainland and the peninsula. The damage severely strains Moscow's ability to supply the Black Sea region. Kyiv's strike targets a key Kremlin infrastructure asset. For eight years, it’s stood as a symbol of the Kremlin’s claim to Crimea: a $4 billion bridge directly linking the Russian mainland with the Ukrainian peninsula.
 
+### [RFE/RL Visits Ukraine's Newly Liberated Territory After Operation Vivaldi](https://www.rferl.org/a/rfe-rl-visits-ukraine-s-newly-liberated-territory-after-operation-vivaldi/33901166.html)
+*Radio Free Europe / Liberty* - Nov 18, 19:35 IST (iso: 2026-11-18T14:05:44+00:00)
+<!-- image: https://gdb.rferl.org/387d1494-c340-4942-2e11-08df407f9921_w1200_h630.jpg -->
+
+Ukraine's Third Army Corps liberated 16 settlements and 277 square kilometers in Donetsk during Operation Vivaldi. RFE/RL journalists visited the newly secured frontline positions. They retraced the specific paths taken by Ukrainian infantry and assault troops during the military campaign. Ukraine's Third Army Corps liberated 16 settlements and 277 square kilometers in the Donetsk region during Operation Vivaldi. RFE/RL visits the frontline positions and retraces the path of the Ukrainian infantry and assault troops who took part in the military campaign.
+
 ### [EU's $50 Billion Funding Push For Ukraine Caught In Budget Crossfire](https://www.rferl.org/a/33901020.html)
 *Radio Free Europe / Liberty* - Nov 18, 16:33 IST (iso: 2026-11-18T11:03:37+00:00)
 <!-- image: https://gdb.rferl.org/149f3050-35f6-4270-498f-08df13a884cb_w1200_h630.jpg -->
 
 The European Commission proposed a 45 billion euro loan for Ukraine on November 18. The funds aim to cover the country's 2027 financial shortfall. The plan now faces significant delays due to internal budget disputes within the bloc. The European Commission is putting forward a new 45-billion-euro ($50 billion) loan proposal for Ukraine on November 18, to cover a large part of the financial shortfall the war-torn country is facing for 2027.
-
-### [Optics Over Substance Expected At Trump-Xi-Putin Summit](https://www.rferl.org/a/trump-putin-xi-usa-russia-china-meeting-shenzhen-/33899555.html)
-*Radio Free Europe / Liberty* - Nov 18, 11:45 IST (iso: 2026-11-18T06:15:40+00:00)
-<!-- image: https://gdb.rferl.org/8d4963d7-5eb3-4745-bc7e-a215d512e3a3_cx0_cy1_cw0_w1200_h630.jpg -->
-
-Donald Trump, Xi Jinping, and Vladimir Putin are scheduled to meet on the sidelines of the APEC conference in Shenzhen. Analysts expect the trilateral summit to prioritize optics over substantive policy outcomes. The gathering carries significant symbolic weight but is unlikely to produce major diplomatic breakthroughs or concrete agreements. A first-ever trilateral meeting between US President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin to be held on the sidelines of this week's Asia-Pacific Economic Cooperation (APEC) conference in Shenzhen may underwhelm despite its eyebrow-raising symbolism.
 
 ### [Deutsche Bank leak reveals nearly $600M in Epstein payments](https://asiatimes.com/2026/11/deutsche-bank-leak-reveals-nearly-600m-in-epstein-payments/)
 *Asia Times* - Nov 18, 08:06 IST (iso: 2026-11-18T02:36:45+00:00)
@@ -156,17 +162,11 @@ Singapore signed the San Francisco Declaration on secure AI foundations on Novem
 
 ## Americas
 
-### [The push to protect warming oceans reaches the negotiating table](https://news.un.org/feed/view/en/story/2026/11/1168824)
-*UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_COP31_02.jpg/image770x420cropped.jpg -->
+### [COP31 deadlock persists as countries launch new ‘climate reality check’](https://news.un.org/feed/view/en/story/2026/11/1168833)
+*UN News* - Nov 18, 17:30 IST (iso: 2026-11-18T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_COP31.jpg/image770x420cropped.jpg -->
 
-Scientists and Indigenous communities presented new conservation tools at COP31 on Tuesday. Funding gaps and disagreements over fossil fuels continue to stall progress. Ministers are struggling to bridge these divisions. The gap between innovation and implementation remains wide. From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday.
-
-### [COP31 enters decisive week as climate talks face political test and AI initiatives gather pace](https://news.un.org/feed/view/en/story/2026/11/1168812)
-*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_01.jpg/image560x340cropped.jpg -->
-
-COP31 enters its decisive week with new AI and green industrialization initiatives. Negotiators remain deadlocked on finance, fossil fuels, and adaptation. The UN talks face a significant political test in their final stretch. New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked on finance, fossil fuels and adaptation ahead of the final stretch of the UN talks.
+COP31 delegates in Antalya launched a new global check on climate promise fulfillment. Ministers remain deadlocked over funding responsibilities and fossil fuel transition timelines. The core dispute centers on whether a greener future is just if poorer nations cannot afford the shift. With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called “just” if poorer countries cannot afford it.
 
 ---
 
