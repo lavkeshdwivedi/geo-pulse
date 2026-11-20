@@ -1,172 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 20, 2026 10:39 IST
-
----
-
-## दुनिया
-
-### [चांद पर भी मिलेगी टिक्की और फ्रेंच फ्राइज, बंजर मिट्टी में उग आए आलू, वैज्ञानिकों ने देसी तरीके से](https://hindi.news18.com/world/america-scientists-grew-potatoes-in-simulated-lunar-soil-growing-food-on-future-moon-bases-10999814.html)
-*News18 Hindi (World)* - Nov 20, 10:39 IST (iso: 2026-11-20T05:09:04+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/potato-moon-2026-11-94ddcfa2b45e0ca60149cd6ccc58fd40-1200x800.jpg -->
-
-वैज्ञानिकों ने नकली चंद्रमा मिट्टी और केंचुओं की खाद में आलू उगाए। 30 प्रतिशत खाद मिलने पर फसल का उत्पादन धरती जितना रहा। यह अध्ययन नासा की मदद से हुआ। Moon Potato Farming: वैज्ञानिकों ने चांद की मिट्टी जैसी जमीन में आलू उगाकर बड़ी कामयाबी हासिल की है. NASA की मदद से हुए इस अध्ययन में वैज्ञानिकों ने खास किस्म के आलू को नकली चंद्रमा मिट्टी और केंचुओं से बनी खाद के मिश्रण में उगाया.
-
-### ['ईश्वर मेहरबान हैं', जटायु की आवाज बनने पर अभिनेता ने जताई खुशी, फिल्म की आलोचनाओं पर कही ये बात](https://www.amarujala.com/entertainment/anupam-kher-expresses-happiness-at-appreciation-for-his-jatayu-role-in-ramayana-says-i-am-extremely-pleased-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:23 IST (iso: 2026-11-20T04:53:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/anapama-khara_07dd337c60fa52584b553c060c690a23.jpeg?w=1200&dpr=1.0 -->
-
-अनुपम खेर ने रामायण में जटायु की आवाज दी है। दर्शकों की सकारात्मक प्रतिक्रिया पर उन्होंने खुशी जताई। उन्होंने फिल्म पर हुई आलोचनाओं का भी जवाब दिया। फिल्म 'रामायण' में जटायु की आवाज अनुपम खेर ने दी है। दर्शकों की तरफ से मिल रही सकारात्मक प्रतिक्रियाओं पर अभिनेता ने खुशी जताई है। इसके अलावा उन्होंने 'रामायण' की आलोचनाओं पर भी प्रतिक्रिया दी है।
-
-### [मेटा के AI एजेंट म्यूज पर उठे प्राइवेसी के सवाल: बिना पूछे बता दिया बैंक बैलेंस, निजी मैसेज तक](https://www.amarujala.com/technology/tech-diary/meta-ai-agent-muse-faces-privacy-concerns-over-access-personal-data-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:19 IST (iso: 2026-11-20T04:49:21+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/paratakatamaka-tasavara_1daf3237bb93be7992750e505606df8a.jpeg -->
-
-मेटा के एआई एजेंट म्यूज ने उपयोगकर्ताओं की अनुमति के बिना बैंक बैलेंस और निजी संदेश साझा किए। इस घटना ने कंपनी के डेटा सुरक्षा प्रोटोकॉल पर गंभीर सवाल खड़े कर दिए हैं। मेटा के एआई एजेंट पर गंभीर आरोप। बिना पूछे बताया बैंक बैलेंस। कर्मचारियों के निजी मैसेज भी पढ़े। सिग्नल एप से जुड़ा मामला भी सामने आया। मेटा के AI एजेंट म्यूज पर उठे प्राइवेसी के सवाल: बिना पूछे बता दिया बैंक बैलेंस, निजी मैसेज तक।
-
-### ['ईडी लाई ही नहीं थी वारंट, अब अंगूठे के निशान पर होगी कानूनी लड़ाई', आजम खां का बड़ा दावा; उठाए ये](https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/azam-khan-claims-ed-had-no-arrest-warrant-plans-high-court-petition-over-thumb-impression-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 10:18 IST (iso: 2026-11-20T04:48:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/azam-khan-case_aadac84503d8f009550bf549f309a097.jpeg?w=1200&dpr=1.0 -->
-
-सपा नेता आजम खां ने दावा किया कि ईडी के पास उनकी गिरफ्तारी के लिए वारंट नहीं था। उन्होंने अब अंगूठे के निशानों के आधार पर कानूनी लड़ाई लड़ने की घोषणा की है। सपा नेता आजम खां ने दावा किया कि उन्हें गिरफ्तार करने के लिए ईडी के पास वारंट ही नहीं था। 'ईडी लाई ही नहीं थी वारंट, अब अंगूठे के निशान पर होगी कानूनी लड़ाई', आजम खां का बड़ा दावा; उठाए ये।
-
-### [सर्दियों में सुबह उठते ही जोड़ों में जकड़न? ये 5 आदतें बदल लो, दर्द से मिलेगा छुटकारा](https://www.amarujala.com/photo-gallery/lifestyle/fitness/5-morning-habits-to-reduce-joint-pain-and-stiffness-in-winter-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:15 IST (iso: 2026-11-20T04:45:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/morning-habits-to-reduce-joint-pain_1b9449948fb2be7af84e06d70d64fd87.jpeg?w=1200&dpr=1.0 -->
-
-सर्दियों में सुबह उठने पर जोड़ों में जकड़न आम समस्या है। घुटनों, हाथों और कमर के दर्द से राहत पाने के लिए पांच सरल सुबह की आदतें अपनानी चाहिए। Morning Habits to Reduce Joint Pain: इस लेख में जानें सर्दियों में सुबह उठते ही जोड़ों में दर्द और जकड़न होने के कारण, साथ ही 5 ऐसी आसान आदतों के बारे में, जिन्हें अपनाकर आप घुटनों, हाथों और कमर के दर्द से राहत पा सकते हैं।
-
-### [83% मोबाइल नंबरों पर अब भी एक्टिव नहीं है TRAI की यह खास सर्विस, स्पैम कॉल्स से बचने के लिए ऐसे](https://www.amarujala.com/technology/tech-diary/trai-dnd-service-block-spam-calls-sms-1909-activation-guide-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:14 IST (iso: 2026-11-20T04:44:11+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/04/28/dnd-mode-on-mobile_9c75cd9d271d6288799e9d78630b9742.jpeg -->
-
-ट्राई की नई रिपोर्ट के अनुसार सिर्फ 16.64% मोबाइल कनेक्शन पर डीएनडी सेवा सक्रिय है। इसका मतलब है कि 83% यूजर्स अभी भी स्पैम कॉल्स और मैसेज से परेशान हैं। TRAI DND Service: दिनभर आने वाली फालतू मार्केटिंग कॉल्स और मैसेज से ज्यादातर लोग परेशान रहते हैं, फिर भी करोड़ों यूजर्स ने सरकारी DND सुविधा ऑन नहीं की है। TRAI की नई तिमाही रिपोर्ट में सामने आया है कि सिर्फ 16.64% कनेक्शन पर ही DND दर्ज है।
-
-### [मेडिकल की पढ़ाई कर रहे छात्रों के लिए खुशखबरी: अब सरकार भरेगी परीक्षा फीस, किन विद्यार्थियों को](https://www.amarujala.com/jobs/maharashtra-government-waives-rs-38-crore-exam-fees-for-medical-students-from-drought-hit-areas-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:11 IST (iso: 2026-11-20T04:41:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/madakal-chhatara-ka-parakashha-fasa-mafa_51124874a6d238aa2cb9e1487932368e.jpeg?w=1200&dpr=1.0 -->
-
-महाराष्ट्र सरकार ने सूखा प्रभावित तालुकों में पढ़ रहे मेडिकल छात्रों की परीक्षा फीस माफ करने का निर्णय लिया है। यह राहत सर्दियों के सत्र 2026 के लिए स्नातक और स्नातकोत्तर पाठ्यक्रमों के पात्र विद्यार्थियों को दी जा रही है। सरकार का यह कदम वित्तीय बोझ कम करने के उद्देश्य से लिया गया है। महाराष्ट्र सरकार ने सूखा प्रभावित तालुकों के मेडिकल छात्रों को बड़ी राहत दी है।
-
-### [चक्रवात अकवान का लैंडफॉल शुरू, अगले दो घंटे तक चलेगी प्रक्रिया; आंध्र और ओडिशा में अलर्ट](https://www.amarujala.com/live/india-news/cyclone-akvan-live-updates-likely-to-cross-andhra-pradesh-odisha-coasts-near-gopalpur-by-forenoon-imd-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 10:01 IST (iso: 2026-11-20T04:31:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/cakaravata-akavana-ka-thasataka_9ecc57838872f334b139d8c1d26eff39.jpeg?w=1200&dpr=1.0 -->
-
-चक्रवात अकवान का आंध्र प्रदेश और ओडिशा के तटों पर लैंडफॉल शुरू हो गया है। भारतीय मौसम विज्ञान विभाग के अनुसार यह प्रक्रिया अगले दो घंटों तक जारी रहेगी। गोपालपुर के पास तटीय क्षेत्रों में भारी बारिश और तेज हवाओं का अलर्ट जारी किया गया है। चक्रवात अकवान का लैंडफॉल शुरू, अगले दो घंटे तक चलेगी प्रक्रिया; आंध्र और ओडिशा में अलर्ट।
-
-### [बेडरूम को देना है 5-स्टार होटल जैसा लुक? अपनाएं ये 7 आसान होम डेकोर टिप्स!](https://www.amarujala.com/lifestyle/home-decor-tips-7-easy-ways-to-make-your-bedroom-look-like-a-luxury-hotel-2026-11-19)
-*Amar Ujala National* - Nov 20, 10:00 IST (iso: 2026-11-20T04:30:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/luxury-bedroom-decor-tips_23018b7282d5ef126afa50371de6b251.jpeg?w=1200&dpr=1.0 -->
-
-साधारण बेडरूम को लग्जरी होटल जैसा दिखाने के लिए सात सरल होम डेकोर टिप्स अपनाई जा सकती हैं। बेडशीट, पर्दे, कुशन, लाइटिंग और फर्नीचर के सही चयन से कमरे का सौंदर्य बढ़ता है। इन छोटे बदलावों से बिना बड़े खर्च के कमरे को आकर्षक बनाया जा सकता है। Home Decor Tips: अपने साधारण बेडरूम को दें 5-स्टार होटल जैसा लग्जरी लुक।
-
-### [रोज सुबह गुनगुना पानी पीने के 5 जबरदस्त फायदे, पाचन से लेकर वजन कंट्रोल तक मिलेंगे ये लाभ](https://www.amarujala.com/photo-gallery/lifestyle/fitness/5-amazing-benefits-of-drinking-warm-water-daily-in-hindi-2026-11-20)
-*Amar Ujala National* - Nov 20, 09:57 IST (iso: 2026-11-20T04:27:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/amazing-benefits-of-drinking-warm-water_17d3e9a25c62e995b487b5727191f543.jpeg?w=1200&dpr=1.0 -->
-
-रोजाना सुबह गुनगुना पानी पीने से पाचन तंत्र में सुधार होता है और वजन नियंत्रण में मदद मिलती है। सर्दियों के मौसम में यह आदत शरीर को गर्म रखने और स्वास्थ्य बनाए रखने में सहायक साबित होती है। नियमित सेवन से कई स्वास्थ्य संबंधी समस्याओं से राहत मिल सकती है। Amazing Benefits of Drinking Warm Water: इस लेख में जानें रोज सुबह गुनगुना पानी पीने के 5 बड़े फायदे, ताकि सर्दी के मौसम में आपको किसी तहरह की परेशानी न हो।
-
-### [आसाराम को हाईकोर्ट से राहत, पैरोल मामले में गिरफ्तारी पर रोक बरकरार; इस बात का दिया हवाला](https://www.amarujala.com/rajasthan/jodhpur/rajasthan-high-court-stays-asaram-arrest-in-parole-surrender-case-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 09:56 IST (iso: 2026-11-20T04:26:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/04/aasarama-ka-mal-20-thana-ka-paral_fd66b79dd502c2ef3199962a867dfb6e.jpeg?w=1200&dpr=1.0 -->
-
-राजस्थान हाईकोर्ट ने आसाराम की गिरफ्तारी पर अगली सुनवाई तक रोक लगाई। यह मामला पैरोल के बाद समय पर जेल न आने से जुड़ा है। अदालत ने मौजूदा स्थिति को बनाए रखने का निर्देश दिया। राजस्थान हाईकोर्ट ने पैरोल अवधि समाप्त होने के बाद निर्धारित समय पर जेल में सरेंडर नहीं करने के मामले में आसाराम की गिरफ्तारी पर अगली सुनवाई तक रोक बरकरार रखी है।
-
-### [यूजर्स को कैसी लगी धनुष की फिल्म की कहानी? ममूटी और साई पल्लवी को लेकर कही ये बात](https://www.amarujala.com/entertainment/south-cinema/om-operation-mole-x-review-what-users-say-about-dhanush-film-praise-sai-pallavi-and-mammootty-2026-11-20)
-*Amar Ujala National* - Nov 20, 09:54 IST (iso: 2026-11-20T04:24:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/oma_50ffc19cca4a6577eb17df954b9b4c1e.jpeg?w=1200&dpr=1.0 -->
-
-राजकुमार पेरियासामी की फिल्म 'ऑपरेशन मोल' सिनेमाघरों में रिलीज हुई। यह वास्तविक घटनाओं पर आधारित काल्पनिक क्राइम-थ्रिलर है। ममूटी और साई पल्लवी इसमें मुख्य भूमिका में हैं। आज सिनेमाघरों में रिलीज हुई फिल्म 'ऑपरेशन मोल' के निर्देशक राजकुमार पेरियासामी हैं। यह फिल्म वास्तविक जीवन की घटनाओं से प्रेरित है, जिन्हें एक काल्पनिक क्राइम-थ्रिलर कहानी में पिरोया गया है। यूजर्स को कैसी लगी धनुष की फिल्म की कहानी?
-
-### [गेम के लिए 43 सैनिकों ने बढ़ाई सेवा, बदले में मिली चार दिन की छुट्टी, क्या है अनोखा ऑफर?](https://www.amarujala.com/technology/tech-diary/gta-6-craze-43-us-soldiers-extend-military-service-four-days-off-2026-11-20)
-*Amar Ujala National* - Nov 20, 09:53 IST (iso: 2026-11-20T04:23:24+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/jatae-6-ka-karaja_260097a1fe607aab86d2d7b58aa0bafc.jpeg -->
-
-फोर्ट स्टीवर्ट में 43 सैनिकों ने जीटीए 6 के लिए सेवा बढ़ाई। बदले में उन्हें चार दिन की छुट्टी मिली। इस योजना के तहत दो से छह साल की अतिरिक्त सेवा चुनी गई। जीटीए 6 के लिए 43 सैनिकों ने बढ़ाई सेवा। बदले में मिली चार दिन की छुट्टी। फोर्ट स्टीवर्ट में शुरू हुई थी योजना।
-
-### [शादी में दावत के बीच लात-घूंसे-कुर्सियां चलीं: बुलंदशहर में बराती भिड़े, मेहमानों में मची भगदड़](https://www.amarujala.com/uttar-pradesh/bulandshahr/a-video-of-a-physical-altercation-at-a-wedding-ceremony-in-bulandshahr-district-has-gone-viral-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 09:52 IST (iso: 2026-11-20T04:22:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/shatha-samaraha-ma-marapata_d0073bdf3e2f5115d34b35e129caef51.jpeg?w=1200&dpr=1.0 -->
-
-बुलंदशहर में शादी समारोह के दौरान बराती और घरातियों के बीच मारपीट हुई। मामूली कहासुनी से शुरू हुई झगड़ा में कुर्सियां उछाली गईं। मेहमानों में भगदड़ मच गई और स्थिति तनावपूर्ण हो गई। बुलंदशहर जिले में एक शादी समारोह के दौरान मामूली कहासुनी के बाद बराती और घरातियों के बीच जमकर मारपीट हुई। शादी में दावत के बीच लात-घूंसे-कुर्सियां चलीं: बुलंदशहर में बराती भिड़े, मेहमानों में मची भगदड़।
-
-### [राजस्थान में कांग्रेस का बड़ा फेरबदल, 4 नए सहप्रभारी सचिव नियुक्त, संजना जाटव-दिव्या मदेरणा की](https://www.amarujala.com/rajasthan/congress-reshuffles-rajasthan-team-appoints-four-new-co-in-charge-secretaries-sanjana-jatav-removed-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 09:38 IST (iso: 2026-11-20T04:08:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/rajasathana_c765adc8ed3614822a7b09442a106481.jpeg?w=1200&dpr=1.0 -->
-
-कांग्रेस ने राजस्थान संगठन में बड़ा फेरबदल किया। तीन सहप्रभारी सचिवों को हटाकर चार नए नेताओं को जिम्मेदारी दी गई। संजना जाटव और दिव्या मदेरणा सहित तीन नेताओं को राष्ट्रीय सचिव पद से हटाया गया। कांग्रेस ने राजस्थान संगठन में तीन सहप्रभारी सचिवों को हटाकर 4 नए नेताओं को जिम्मेदारी सौंपी है। प्रदेश के छह नेताओं को राष्ट्रीय सचिव बनाकर दूसरे राज्यों का प्रभार दिया है।
-
----
-
-## अमेरिका
-
-### [अमेरिकी कोर्ट में आज पहली बार आमने-सामने होंगे निखिल गुप्ता और आतंकी पन्नू, कितनी मिलेगी सजा?](https://hindi.news18.com/world/america-nikhil-gupta-gurpatwant-pannun-us-court-sentencing-hearing-10999818.html)
-*News18 Hindi (World)* - Nov 20, 10:36 IST (iso: 2026-11-20T05:06:53+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/nikhil-gupta-gurpatwant-pannun-us-court-sentencing-hearing-2026-11-b5edd2ecefb3ee6496c80a8c01aaae27-1200x800.jpg -->
-
-न्यूयॉर्क में पन्नू की हत्या की साजिश के मामले में निखिल गुप्ता की सजा सुनवाई होगी। अभियोजक 24 साल की जेल मांग रहे हैं। बचाव पक्ष 12 साल की सजा चाहता है। अमेरिकी कोर्ट में आज निखिल गुप्ता और खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नू पहली बार आमने-सामने हो सकते हैं. मामला 2023 में न्यूयॉर्क में पन्नू की हत्या की नाकाम साजिश से जुड़ा है.
-
-### [टेक आउटेज के बीच ट्रंप का फैसला: कर्स्टन डेविस बनीं अमेरिकी कार्यवाहक साइबर प्रमुख, केर्नक्रॉस की](https://www.amarujala.com/world/us-tech-outages-singes-trump-administration-kirsten-davies-appointed-new-cyber-director-us-news-2026-11-20)
-*Amar Ujala World* - Nov 20, 09:39 IST (iso: 2026-11-20T04:09:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/karasatana-e-davasa_a21d71840b9eb332e6fc8d6e6f33e01b.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप प्रशासन ने कर्स्टन डेविस को नया साइबर डायरेक्टर नियुक्त किया। यह फैसला हाल के टेक आउटेज के बीच लिया गया। डेविस केर्नक्रॉस से जुड़ी हैं और साइबर सुरक्षा की जिम्मेदारी संभालेंगी। टेक आउटेज के बीच ट्रंप का फैसला: कर्स्टन डेविस बनीं अमेरिकी कार्यवाहक साइबर प्रमुख, केर्नक्रॉस की।
+**अपडेट:** November 20, 2026 19:58 IST
 
 ---
 
 ## एशिया-प्रशांत
 
-### [भाजपा विधायक सपम कुंजकेश्वर का निधन, 67 साल की उम्र में ली अंतिम सांस](https://www.amarujala.com/india-news/manipur-s-bjp-mla-sapam-kunjakeswor-dies-in-delhi-at-67-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:30 IST (iso: 2026-11-20T05:00:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/bharataya-janata-parata-bhajapa-vathhayaka-sapama-kajakashavara-saha_6a50abcdd5c7619cd1b828978d441fd9.jpeg?w=1200&dpr=1.0 -->
+### [बांग्लादेश में मंत्री के घर पर फोड़ा पेट्रोल बम, प्रधानमंत्री के कंट्रोल से बाहर हुए हालात, फिर धधक](https://hindi.news18.com/world/south-asia-petrol-bomb-attack-at-bangladesh-minister-humayun-kabir-home-as-unrest-escalates-amid-sheikh-hasina-return-buzz-11001096.html)
+*News18 Hindi (World)* - Nov 20, 19:16 IST (iso: 2026-11-20T13:46:09+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Bangladesh-unrest-2026-11-126f1f1f722bd812d8f53a45a8999230-1200x800.jpg -->
 
-मणिपुर के भाजपा विधायक सपम कुंजकेश्वर का दिल्ली के अस्पताल में निधन हो गया। उनका देहांत 67 वर्ष की आयु में हुआ। वे राज्य की राजनीति में सक्रिय थे। भाजपा विधायक सपम कुंजकेश्वर का निधन, 67 साल की उम्र में ली अंतिम सांस।
+बांग्लादेश में सिलहट के विदेश राज्य मंत्री हुमायूं कबीर के घर पर 20 नवंबर को पेट्रोल बम से हमला हुआ। इससे एक दिन पहले उनके घर के बाहर कपड़ों में आग लगाई गई थी। बीते दस दिनों में ग्रामीण बैंक की 72 शाखाओं पर भी हमले हुए हैं। बांग्लादेश में राजनीतिक तनाव लगातार बढ़ रहा है. 20 नवंबर को सिलहट में विदेश राज्य मंत्री हुमायूं कबीर के घर पर पेट्रोल बम से हमला हुआ.
 
-### [130 पर भारत को पहला झटका, शतक से चूके यशस्वी, मैट हेनरी को मिली पहली सफलता](https://www.amarujala.com/live/cricket/india-vs-new-zealand-1st-test-day-2-live-score-commentary-live-updates-in-hindi-wellington-full-scorecard-live-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 10:16 IST (iso: 2026-11-20T04:46:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/ind-vs-nz-india-vs-new-zealand-ind-vs-nz-live-score-india-vs-new-zealand-2nd-test-ind-vs-nz-day_6a214b9102cab1fb1966b5ebdee21a1d.jpeg?w=1200&dpr=1.0 -->
+### [सीमा पार आतंकवाद के सवाल पर बगलें झांकते दिखे पाकिस्तानी मंत्री, बोले- ‘कल जवाब दूंगा’](https://www.patrika.com/world-news/pakistan-minister-musadik-malik-evades-cross-border-terrorism-question-sco-forum-delhi-21071206)
+*Patrika (World)* - Nov 20, 18:56 IST (iso: 2026-11-20T13:26:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Musadik-Malik.webp -->
 
-भारत और न्यूजीलैंड के बीच दूसरे टेस्ट मैच के दूसरे दिन न्यूजीलैंड 310 रन पर छह विकेट खो चुका है। आकाश ने फिलिप्स को आउट किया। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज का आज दूसरा दिन है। भारत ने टॉस जीतकर पहले गेंदबाजी का फैसला किया था।
+नई दिल्ली में SCO सिविलाइजेशन डायलॉग फोरम के दौरान पाकिस्तानी जलवायु मंत्री मुसादिक मसूद मलिक ने सीमा पार आतंकवाद के सवाल पर सीधा जवाब देने से बचते हुए कहा कि वे अगले दिन बयान देंगे। SCO Civilization Dialogue Forum: पाकिस्तान के जलवायु परिवर्तन मंत्री मुसादिक मसूद मलिक ने शुक्रवार को नई दिल्ली में आयोजित शंघाई सहयोग संगठन (SCO) के ‘सिविलाइजेशन डायलॉग फोरम’ के दौरान सीमा पार आतंकवाद को लेकर भारत की चिंताओं पर सीधा जवाब देने से बचते हुए कहा कि वे इस मुद्दे पर ‘कल’ बयान देंगे।
 
-### [ऑपरेशन सिंदूर के बाद पहली बार पाकिस्तानी मंत्री का दौरा, क्या हैं इसके मायने?](https://www.amarujala.com/india-news/musadik-masood-arrives-delhi-sco-civilisations-dialogue-forum-first-minister-visit-after-operation-sindoor-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:14 IST (iso: 2026-11-20T04:44:05+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/masathaka-masatha-malka_a2a4c37d5f343763d447b13ac4f004f3.jpeg?w=1200&dpr=1.0 -->
+### ['इंसुलिन से मौत पकड़ी नहीं जाती', बॉयफ्रेंड से कही थी यह बात, अब माता-पिता के कत्ल में बेटी को होगी](https://hindi.news18.com/world/rest-of-world-diabetic-woman-found-guilty-of-murdering-94-year-old-parents-with-insulin-in-south-australia-11000995.html)
+*News18 Hindi (World)* - Nov 20, 17:40 IST (iso: 2026-11-20T12:10:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Insulin_Murder-2026-11-d6e49b4682af58ca7a13aaa5dd33655a-1200x800.jpg -->
 
-ऑपरेशन सिंदूर के बाद पाकिस्तान के मंत्री मुसादिक मसूद ने दिल्ली में पहली बार दौरा किया। वे सिविलाइजेशंस डायलॉग फोरम में शामिल हुए, जो दोनों देशों के बीच तनाव के बाद एक उल्लेखनीय कदम है। भारत पहुंचे मुसादिक मसूद: ऑपरेशन सिंदूर के बाद पहली बार पाकिस्तानी मंत्री का दौरा, क्या हैं इसके मायने?
+ऑस्ट्रेलिया में 66 वर्षीय रेलीन पॉलीमियाडिस को अपने 94 वर्षीय माता-पिता की हत्या का दोषी पाया गया। साउथ ऑस्ट्रेलियन सुप्रीम कोर्ट में चार महीने चले ट्रायल के बाद जूरी ने शुक्रवार को यह फैसला सुनाया। ऑस्ट्रेलिया में 66 साल की डायबिटीज मरीज रेलीन पॉलीमियाडिस को अपने 94 वर्षीय माता-पिता की हत्या का दोषी पाया गया है. साउथ ऑस्ट्रेलियन सुप्रीम कोर्ट में 4 महीने चले ट्रायल के बाद जूरी ने शुक्रवार को यह फैसला सुनाया.
 
-### [आयुष्मान कार्ड से हर साल मिलेगा 5 लाख रुपये तक मुफ्त इलाज, जानें कौन बनवा सकता है और कैसे करें आवेदन](https://www.amarujala.com/photo-gallery/utility/ayushman-card-get-free-treatment-up-to-5-lakh-rupees-every-year-know-eligibility-and-application-process-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:12 IST (iso: 2026-11-20T04:42:40+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/aayashhamana-karada-sa-mafata-ilja-kasa-malta-ha_7313c0b943ebbf01bbc536ed7a60e98e.jpeg?w=1200&dpr=1.0 -->
+### [SCO के पहले दिन आतंकवाद पर घिरे पाकिस्तानी मंत्री, दो बार टाला सवाल, फिर हंसकर कही ये बात](https://hindi.news18.com/world/south-asia-sco-india-denies-pakistan-minister-musadik-malik-permission-to-visit-taj-mahal-and-nizamuddin-dargah-grilled-over-cross-border-terrorism-11000877.html)
+*News18 Hindi (World)* - Nov 20, 17:38 IST (iso: 2026-11-20T12:08:22+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Minister-2026-11-b404f3e215fc94aabc48d87615d434a9-1200x800.jpg -->
 
-आयुष्मान भारत योजना के तहत पात्र परिवारों को प्रतिवर्ष पाँच लाख रुपये तक की कैशलेस चिकित्सा सुविधा प्रदान की जाती है। योजना में शामिल होने के लिए परिवार की आय और अन्य पात्रता मानदंडों को पूरा करना आवश्यक है। आवेदन प्रक्रिया ऑनलाइन पोर्टल या नजदीकी अस्पताल के माध्यम से की जा सकती है। आयुष्मान भारत योजना के तहत पात्र परिवारों को हर साल 5 लाख रुपये तक के कैशलेस इलाज की सुविधा मिलती है इस योजना में कौन कार्ड बनवा सकता है, किन अस्पतालों में इलाज मिलता है और आवेदन कैसे करें जैसी पूरी जानकारी आप यहां जान सकते हैं।
+SCO सिविलाइजेशन डायलॉग फोरम के पहले दिन पाकिस्तानी जलवायु मंत्री मुसादिक मलिक को आतंकवाद पर सवाल पूछे गए। उन्होंने दो बार सवाल टालने की कोशिश की और बाद में जवाब देना पड़ा। पाकिस्तान के जलवायु मंत्री मुसादिक मलिक भारत दौरे पर आए हैं. वे यहां शंघाई सहयोग संगठन (SCO) सिविलाइजेशन डायलॉग फोरम में हिस्सा लेने पहुंचे हैं. इस दौरान उन्हें मीडिया के तगड़े सवालों का सामना करना पड़ा.
 
-### [पहली पारी में लिए तीन रिव्यू और सभी रहे विफल, डीआरएस लेने में किस तरह गिल से हुई चूक?](https://www.amarujala.com/cricket/cricket-news/new-zealand-vs-india-shubman-gill-s-drs-calls-proved-costly-for-india-in-the-first-test-against-nz-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 09:57 IST (iso: 2026-11-20T04:27:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/gill_06a9425dc495203681ca97a75ed7f30d.jpeg?w=1200&dpr=1.0 -->
+### [167 किमी की रफ्तार से दौड़ रहा तबाही का बवंडर, अल नीनो ने बनाया और खतरनाक, इमरजेंसी लागू](https://hindi.news18.com/world/rest-of-world-cyclone-xavier-pacific-island-emergency-australia-storm-alert-11000630.html)
+*News18 Hindi (World)* - Nov 20, 15:03 IST (iso: 2026-11-20T09:33:11+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/cyclone-2026-11-1089defe86e75f729575c18cb7426cbc-1200x800.jpg -->
 
-शुभमन गिल ने वेलिंगटन टेस्ट के पहले दो दिनों में तीन बार डीआरएस लिया। तीनों बार फैसला भारत के खिलाफ आया। न्यूजीलैंड के खिलाफ इस प्रयास से कोई लाभ नहीं मिला। भारतीय टेस्ट कप्तान शुभमन गिल न्यूजीलैंड के खिलाफ वेलिंगटन टेस्ट में डीआरएस लेने के मामले में बुरी तरह नाकाम रहे। शुरुआती दो दिनों में उन्होंने तीन बार रिव्यू लिया और तीनों फैसले भारत के खिलाफ गए।
+प्रशांत में चक्रवात जेवियर ने कुक आइलैंड्स के नासाउ द्वीप पर इमरजेंसी जारी की। हवाओं की रफ्तार 240 किलोमीटर प्रति घंटे तक पहुंची। ऑस्ट्रेलिया के कई राज्यों में भारी बारिश और ओले की चेतावनी जारी है। प्रशांत महासागर में ताकतवर चक्रवात जेवियर ने चिंता बढ़ा दी है. इसके संभावित असर को देखते हुए कुक आइलैंड्स के नासाउ द्वीप पर इमरजेंसी घोषित कर दी गई है.
 
-### [भारतीय शेयर बाजार में गिरावट, सेंसेक्स-निफ्टी लुढ़के, जानिए किस स्तर पर सूचकांक](https://www.amarujala.com/business/bazaar/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 09:37 IST (iso: 2026-11-20T04:07:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0 -->
+### [बांग्लादेश में अब विदेश मामलों के राज्य मंत्री हुमायूं कबीर के घर पर हमला, आधी रात को गेट के बाहर](https://www.patrika.com/world-news/bangladesh-violence-foreign-affairs-minister-humayun-kabir-house-arson-21069540)
+*Patrika (World)* - Nov 20, 15:02 IST (iso: 2026-11-20T09:32:49+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Humayun-Kabir.webp -->
 
-भारतीय शेयर बाजार में गिरावट दर्ज की गई। सेंसेक्स और निफ्टी दोनों सूचकांक गिर गए। बाजार में नकारात्मक रुझान देखने को मिला और निवेशकों में चिंता फैली। द बोनस मार्केट अपडेट: भारतीय शेयर बाजार में गिरावट, सेंसेक्स-निफ्टी लुढ़के, जानिए किस स्तर पर सूचकांक।
+बांग्लादेश में विदेश राज्य मंत्री हुमायूं कबीर के सिलहट स्थित घर पर हमला हुआ। शुक्रवार की रात गेट के बाहर कपड़ों में आग लगाई गई। मंत्री उस समय वहां नहीं थे। पुलिस ने जांच शुरू कर दी है। Bangladesh Violence: बांग्लादेश में राजनीतिक तनाव के बीच हिंसा की घटनाएं लगातार सामने आ रही हैं। अब उपद्रवियों ने विदेश मामलों के राज्य मंत्री हुमायूं कबीर के सिलहट स्थित घर को निशाना बनाया है।
+
+### [शेख हसीना के पासपोर्ट और NID में सिग्नेचर का खेल? बांग्लादेश ने किया जांच का दावा](https://hindi.news18.com/news/nation/fake-signatures-on-sheikh-hasina-passport-and-nid-bangladesh-claim-investigation-is-underway-10999998.html)
+*News18 Hindi (World)* - Nov 20, 13:11 IST (iso: 2026-11-20T07:41:05+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Sheikh-Hasina-2026-11-06e7548e578e981674f43dd3a60831ce-1200x800.jpg -->
+
+बांग्लादेश में शेख हसीना के पासपोर्ट और राष्ट्रीय पहचान पत्र के हस्ताक्षरों की जांच शुरू हुई है। प्रधानमंत्री तारिक रहमान के सहयोगी मोहम्मद राशेद खान का दावा है कि दस्तावेजों में बड़ी विसंगतियां मिली हैं। Sheikh Hasina News: शेख हसीना के पासपोर्ट और राष्ट्रीय पहचान पत्र को लेकर एक नया और चौंकाने वाला विवाद खड़ा हो गया है. इस मामले में संबंधित दस्तावेजों पर किए गए उनके हस्ताक्षरों की असलियत पर ही सवाल उठने लगे हैं.
+
+### [प्रधानमंत्री बालेंद्र शाह पहली बार आएंगे भारत, पीएम मोदी के साथ होगी द्विपक्षीय वार्ता](https://www.amarujala.com/world/nepal-prime-minister-balendra-shah-to-visit-india-on-a-two-day-trip-from-november-22-23-2026-11-20)
+*Amar Ujala World* - Nov 20, 12:59 IST (iso: 2026-11-20T07:29:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/blna-shaha-parathhanamatara-napal_40edec8d6f8589c62f54ec762275d810.jpeg?w=1200&dpr=1.0 -->
+
+नेपाल के प्रधानमंत्री बालेंद्र शाह 22 से 23 नवंबर को भारत का पहला आधिकारिक दौरा करेंगे। इस यात्रा के दौरान वे प्रधानमंत्री नरेंद्र मोदी के साथ द्विपक्षीय वार्ता करेंगे। प्रधानमंत्री बालेंद्र शाह पहली बार आएंगे भारत, पीएम मोदी के साथ होगी द्विपक्षीय वार्ता।
+
+### [पीएम ताकाइची के खिलाफ सड़क पर उतरे हजारों लोग, जानें किस बात को लेकर हो रहा विरोध](https://www.amarujala.com/world/thousands-of-people-held-a-rally-in-tokyo-against-takaichi-administration-2026-11-20)
+*Amar Ujala World* - Nov 20, 12:42 IST (iso: 2026-11-20T07:12:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/12/26/sanae-takaichi_73e10f221492f2bf8243869db3d8b49b.jpeg?w=1200&dpr=1.0 -->
+
+टोक्यो में हज़ारों लोगों ने प्रधानमंत्री ताकाइची के खिलाफ प्रदर्शन किया। यह विरोध प्रदर्शन ताकाइची सरकार की नीतियों के विरुद्ध आयोजित किया गया था। पीएम ताकाइची के खिलाफ सड़क पर उतरे हजारों लोग, जानें किस बात को लेकर हो रहा विरोध।
+
+### [नेपाल के पीएम बालेन शाह आ रहे भारत, पीएम मोदी संग द्विपक्षीय बैठक तय, कई करार होंगे](https://www.abplive.com/news/world/nepali-pm-balendra-shah-visit-india-from-22nd-to-23rd-november-3217200)
+*ABP Live (World)* - Nov 20, 11:35 IST (iso: 2026-11-20T06:05:31+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/20/0a6569b55acdb0de75e2806f71a2b23e1795155780768355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+नेपाल के प्रधानमंत्री बालेन शाह 22 से 23 नवंबर को भारत आएंगे। वे पीएम मोदी से द्विपक्षीय बैठक करेंगे। काठमांडू इस दौर में दो अरब डॉलर से अधिक की सहायता की मांग करेगा। नेपाल के प्रधानमंत्री बालेन शाह भारत आने वाले हैं. नेपाल के विदेश सचिव अमृत बहादुर राय ने इसकी जानकारी दी है. पीएम शाह 22 से 23 नवंबर तक भारत की राजकीय यात्रा पर आएंगे.
+
+### [रोहिंग्या मुसलमानों के नरसंहार पर ऐतिहासिक फैसला, UN कोर्ट ने पहली बार किसी देश को दोषी ठहराया](https://www.patrika.com/world-news/myanmar-guilty-of-rohingya-genocide-icj-historic-verdict-21066976)
+*Patrika (World)* - Nov 20, 10:01 IST (iso: 2026-11-20T04:31:08+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Myanmar-Genocide.webp -->
+
+अंतरराष्ट्रीय न्यायालय ने म्यांमार को रोहिंग्या नरसंहार के दोषी ठहराया। यह अदालत के 80 साल के इतिहास में पहला ऐसा फैसला है। अदालत ने सेना पर महिलाओं के साथ यौन हिंसा और हत्याओं के आरोप स्वीकार किए। Rohingya Genocide: महिलाओं के साथ यौन हिंसा, हजारों लोगों की हत्या और बच्चों पर बर्बरता म्यांमार की सेना पर रोहिंग्या मुसलमानों के खिलाफ ऐसे गंभीर आरोप लगे थे।
+
+---
+
+## अमेरिका
+
+### [‘इमरजेंसी पर कॉल करो’, गाड़ियों के बीच क्रैश हुआ प्लेन, पैराशूट के सहारे खतरनाक लैंडिंग](https://hindi.news18.com/world/america-small-plane-with-emergency-parachute-crashlands-near-parked-cars-in-us-bystanders-scream-call-911-in-viral-video-11001013.html)
+*News18 Hindi (World)* - Nov 20, 18:12 IST (iso: 2026-11-20T12:42:22+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Plane-Crash-Video-2026-11-6595024142a278be9f1a922b54bbe29f-1200x800.jpg -->
+
+अमेरिका में एक छोटे विमान में तकनीकी खराबी आने पर उसने इमरजेंसी पैराशूट के सहारे खतरे से बचकर उतरा। विमान खड़ी गाड़ियों और झाड़ियों के बहुत करीब क्रैश लैंड करता दिख रहा था। अमेरिका में एक छोटे प्लेन के हादसे का डरावना वीडियो सामने आया है. प्लेन में तकनीकी खराबी आ गई थी. ये इमरजेंसी पैराशूट के सहारे नीचे उतर रहा था.
+
+### [5.1 तीव्रता के भूकंप से हिली धरती, बिल्डिगों से निकलकर भागे लोग, किन इलाकों में हड़कंप?](https://hindi.news18.com/world/america-5-point-1-magnitude-earthquake-strikes-central-california-panic-as-residents-flee-buildings-usgs-issues-aftershock-and-tsunami-update-11000703.html)
+*News18 Hindi (World)* - Nov 20, 16:04 IST (iso: 2026-11-20T10:34:05+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Earthquake_tSunami-alert-2026-07-8bd65ce582c4368ce750792cfa0e05c2-1200x800.jpg -->
+
+सेंट्रल कैलिफोर्निया में 5.1 तीव्रता का भूकंप आया। केंद्र सैन बेनिटो काउंटी में सोलेदाद के पास था। झटका 6.7 किलोमीटर गहराई पर आया। लगभग 25 लाख लोगों ने इसे महसूस किया। अमेरिका के सेंट्रल कैलिफोर्निया में 5.1 तीव्रता के भूकंप से धरती कांप उठी. झटके लगते ही लोगों में दहशत फैल गई. घबराए हुए लोग अपनी जान बचाने के लिए घरों और बिल्डिंगों से बाहर सड़कों पर भागने लगे.
 
 ---
 
 ## यूरोप और रूस
 
-### [फ्लाइंग सिख की जयंती पर नेताओं ने दी श्रद्धांजलि, मनोहर लाल खट्टर बोले- प्रेरक यात्रा याद रहेगी](https://www.amarujala.com/sports/leaders-pay-tribute-on-the-milkha-singh-birth-anniversary-social-media-reaction-yogi-adityanath-rekha-gupta-2026-11-20)
-*Amar Ujala National* - Nov 20, 10:28 IST (iso: 2026-11-20T04:58:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/milkha-singh_13e101c7aab20bc5a45a6879444cb7ff.jpeg?w=1200&dpr=1.0 -->
+### [कीव में रूसी हमलों से बिजली आपूर्ति ठप, तीन लोगों की मौत](https://www.patrika.com/world-news/russian-missile-drone-attack-kyiv-three-killed-nine-injured-power-outage-21070431)
+*Patrika (World)* - Nov 20, 16:59 IST (iso: 2026-11-20T11:29:58+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Kyiv-attack.webp -->
 
-महान धावक मिल्खा सिंह की जयंती पर कई नेताओं ने श्रद्धांजलि दी। योगी आदित्यनाथ ने उनकी यात्रा को प्रेरक बताया। मिल्खा सिंह को फ्लाइंग सिख के नाम से जाना जाता था। भारत के महान धावक मिल्खा सिंह का आज जन्मदिन है। 20 नवंबर 1929 को जन्मे मिल्खा सिंह फ्लाइंग सिख के नाम से मशहूर थे। उनकी जयंती पर उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ से लेकर कई नेताओं ने श्रद्धांजलि दी है।
+रूसी मिसाइलों और ड्रोन ने कीव पर हमला किया, जिसमें तीन लोगों की मौत और नौ घायल हुए। डीटीके के अनुसार, पेचेर्स्की समेत पांच जिलों में बिजली आपूर्ति ठप हो गई। बुनियादी ढांचे को भी नुकसान पहुंचा। Russian Missile Attack: कीव पर बीती रातभर रूसी मिसाइल और ड्रोन हमलों में 3 लोगों की मौत हो गई और 9 लोग घायल हो गए, जबकि कई इलाकों में बिजली आपूर्ति और बुनियादी ढांचे को नुकसान पहुंचा।
+
+### [‘पुतिन और शी को जो चाहिए था वह मिला, ट्रंप लौटेंगे खाली हाथ’, G3 की मीटिंग पर ग्लोबल मीडिया और](https://www.patrika.com/world-news/trump-putin-xi-g3-meeting-shenzhen-global-media-experts-reaction-21069067)
+*Patrika (World)* - Nov 20, 14:59 IST (iso: 2026-11-20T09:29:57+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Trump-Xi-Jinping-Putin-trilateral-meeting.webp -->
+
+शेनझेन में हुई ट्रंप, पुतिन और शी की बैठक के बाद विश्व मीडिया ने रूस और चीन को लाभदायक परिणाम माना। अमेरिका को इससे कोई खास लाभ नहीं मिला। शेनझेन में हुई बैठक के बाद सामरिक जगत में इसके मायने निकाले जा रहे हैं। अमेरिका से लेकर दुनिया भर की मीडिया ने इस पर हेडलाइन बनाई। दुनिया भर के एक्सपर्ट्स इस पर अपनी प्रतिक्रिया दे रहे हैं।
+
+### [रोटी-बेटी के रिश्तों को नई मजबूती देने भारत आ रहे नेपाल के PM बालेंद्र शाह, सुलझेगा लिपुलेख और](https://hindi.news18.com/news/nation/roti-beti-relations-nepal-pm-balendra-shah-arrives-in-india-lipulekh-and-kalapani-dispute-11000369.html)
+*News18 Hindi (World)* - Nov 20, 14:37 IST (iso: 2026-11-20T09:07:58+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Balen-Shah-2026-11-da0ff4f718de95a5c1c5fbdab5d9439d-1200x800.jpg -->
+
+नेपाल के प्रधानमंत्री बालेंद्र शाह 23 नवंबर को भारत आएंगे। नरेंद्र मोदी के निमंत्रण पर यह दौरा सीमा विवाद और द्विपक्षीय संबंधों पर चर्चा के लिए है। Balendra Shah in India: विदेश मंत्रालय ने जानकारी दी कि प्रधानमंत्री नरेंद्र मोदी के निमंत्रण पर बालेंद्र शाह भारत की यात्रा पर आ रहे हैं. 23 नवंबर को दोनों नेताओं के बीच द्विपक्षीय संबंधों पर व्यापक बातचीत होगी.
+
+### ['कराची की सड़कों पर बहेगा खून, 30 साल जलेगा पाकिस्तान', बिलाव भुट्टो ने अपनी ही सरकार को क्यों दी](https://hindi.news18.com/world/pakistan-bilawal-bhutto-warned-pakistan-against-dividing-sindh-saying-force-could-trigger-unrest-lasting-decades-11000587.html)
+*News18 Hindi (World)* - Nov 20, 14:33 IST (iso: 2026-11-20T09:03:41+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bilawal-1-2026-11-7c2fa123487dac1b01226bf08806f430-1200x800.jpg -->
+
+बिलावल भुट्टो-जरदारी ने सिंध के बंटवारे की कोशिशों पर सरकार को चेतावनी दी। उन्होंने कहा कि जबरदस्ती से यह फैसला थोपा गया तो 30 साल तक संकट बना रहेगा। पाकिस्तान पीपुल्स पार्टी के चेयरमैन बिलावल भुट्टो-जरदारी ने सिंध के बंटवारे की कोशिशों पर पाकिस्तान सरकार को चेतावनी दी है. उन्होंने कहा कि अगर जबरदस्ती या जनमत संग्रह के जरिए सिंध को बांटने का फैसला थोपा गया, तो हालात बिगड़ सकते हैं और इस आग को बुझाने में 30 साल लग सकते हैं.
+
+### [एक तरफ चीन के खिलाफ भारत के साथ ट्रंप, दूसरी तरफ जिनपिंग से गलबहियां, दुनिया को किस तरफ ले जा रहे?](https://hindi.news18.com/world/america-donald-trump-quad-india-china-russia-summit-foreign-policy-11000278.html)
+*News18 Hindi (World)* - Nov 20, 12:49 IST (iso: 2026-11-20T07:19:23+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trump-putin-2-2026-11-a5392db51c204f7c68f2867ea90ea2ae-1200x800.jpg -->
+
+डोनाल्ड ट्रंप ने मनीला में क्वाड साझेदारी को मजबूत करने पर जोर दिया। इसके दो दिन बाद उन्होंने शेनझेन में शी जिनपिंग और व्लादिमीर पुतिन के साथ पहली त्रिपक्षीय शिखर बैठक की। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की एशिया यात्रा में कूटनीति के दो अलग रंग दिखे. मनीला में उन्होंने भारत, जापान और ऑस्ट्रेलिया के नेताओं के साथ क्वाड साझेदारी मजबूत करने पर जोर दिया.
+
+### [चीन में पुतिन से यूक्रेन का सौदा कर आए ट्रंप? यूरोप को फोन पर हड़काया, जेलेंस्की की मदद रोकने को कहा](https://hindi.news18.com/world/europe-donald-trump-asks-europe-to-stop-financial-aid-to-ukraine-after-putin-meeting-in-china-11000140.html)
+*News18 Hindi (World)* - Nov 20, 12:23 IST (iso: 2026-11-20T06:53:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trump-meeting-1-2026-11-06a292741c653497692aa217765f392e-1200x800.jpg -->
+
+शेनझेन में पुतिन और जिनपिंग से मिलने के बाद ट्रंप ने यूरोप से यूक्रेन को आर्थिक मदद रोकने की अपील की। उन्होंने यूरोपीय नेताओं को अपने शांति प्रस्ताव पर ध्यान देने की सलाह दी। चीन के शेनझेन में पुतिन और जिनपिंग से मुलाकात के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने यूरोपीय नेताओं से यूक्रेन को आर्थिक मदद देना बंद करने की अपील की.
 
 ### [शिकागो में राहुल गांधी का पुतिन प्रेम क्यों उमड़ा? पश्चिमी देश पर लगाया भारत को न समझने का आरोप](https://www.amarujala.com/world/why-did-rahul-gandhi-s-affection-putin-surface-in-chicago-he-accused-western-nations-failing-understand-india-2026-11-20)
 *Amar Ujala World* - Nov 20, 09:53 IST (iso: 2026-11-20T04:23:23+00:00)
 <!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/rahal-gathha-na-kaya-ka-patana-ka-tarafa_6080155c9d84680b2605b63651b1f45b.jpeg?w=1200&dpr=1.0 -->
 
 शिकागो में राहुल गांधी ने पुतिन के प्रति अपना समर्थन व्यक्त किया। उन्होंने पश्चिमी देशों पर भारत को न समझने का आरोप लगाया। यह बयान अमेरिका में दिए गए एक कार्यक्रम में आया। अमेरिका: शिकागो में राहुल गांधी का पुतिन प्रेम क्यों उमड़ा? पश्चिमी देश पर लगाया भारत को न समझने का आरोप।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [घर की मरम्मत में फर्श पर हुई दरार, खोदकर देखा तो फैला पड़ा था खजाना, 20 हजार लोग पीछे छोड़ गए](https://hindi.news18.com/world/middle-east-ancient-underground-city-found-in-turkey-after-floor-crack-and-missing-items-inside-derinkuyu-photogallery-11000663.html)
+*News18 Hindi (World)* - Nov 20, 15:12 IST (iso: 2026-11-20T09:42:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Treasure-of-Villena-Spain-2026-11-4367a2589a36b52d9e8c2af145ec1643-1200x800.jpg -->
+
+तुर्की के कप्पाडोसिया में घर की मरम्मत के दौरान फर्श की दरार से डेरिंकुयु अंडरग्राउंड शहर का पता चला। यह स्थान सदियों से लोगों के छिपने और रहने का ठिकाना रहा। खोजने वालों ने इसे दुनिया के सामने खोल दिया। तुर्की के कप्पाडोसिया इलाके की मशहूर चट्टानों और खूबसूरत वादियों के नीचे एक ऐसी दुनिया छिपी है, जिसे देखकर कोई भी हैरान रह जाए.
+
+### [‘इजरायली राजदूत कब से बने US सेना के कमांडर-इन-चीफ?’ अराघची का तीखा तंज](https://www.patrika.com/world-news/araghchi-slams-israeli-envoy-leiter-us-commander-in-chief-remark-21069684)
+*Patrika (World)* - Nov 20, 14:53 IST (iso: 2026-11-20T09:23:29+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi-.webp -->
+
+ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका के इजरायली राजदूत येचिएल लीटर पर तंज किया। लीटर ने ईरान की हार के बाद अमेरिकी सैनिकों के वापसी का सुझाव दिया था। Iran Defeat Remark: ईरान के विदेश मंत्री अब्बास अराघची ने सोशल मीडिया प्लेटफॉर्म X पर एक पोस्ट के जरिए अमेरिका में इजरायल के राजदूत येचिएल लीटर पर तंज कसते हुए यह टिप्पणी की है।
+
+### [चेहरे पर सख्ती, चाल में गजब की फुर्ती, ये हैं चीन की स्टार बॉडीगार्ड, जिस पर जिनपिंग को है भरोसा](https://hindi.news18.com/world/china-female-bodyguard-xu-jin-with-mexico-president-viral-again-11000317.html)
+*News18 Hindi (World)* - Nov 20, 13:48 IST (iso: 2026-11-20T08:18:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/chinese-bodyguard-2026-11-0d8ecdab938415a1c45d874d1341b3c8-1200x800.jpg -->
+
+चीन की महिला सुरक्षा अधिकारी जू जिन सोमवार को शेनझेन एयरपोर्ट पर नजर आईं। वे मैक्सिको की राष्ट्रपति क्लाउडिया शीनबाम के साथ थीं। जू जिन को विशेष सेवा ब्यूरो से जुड़ा माना जाता है। चीन की चर्चित महिला सुरक्षा अधिकारी जू जिन एक बार फिर चर्चा में हैं. सोमवार को वह मैक्सिको की राष्ट्रपति क्लाउडिया शीनबाम के साथ शेनझेन एयरपोर्ट पर नजर आईं.
+
+---
+
+## दुनिया
+
+### [सरकार के मंत्री विपक्ष के संपर्क में, 8 महीनों में दिखेगा असर: राहुल ने 'शिवजी की बारात' से की](https://hindi.news18.com/news/nation/govt-ministers-touch-with-opposition-rahul-gandhi-compares-congress-to-lord-shiva-barat-10999851.html)
+*News18 Hindi (World)* - Nov 20, 10:40 IST (iso: 2026-11-20T05:10:47+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Rahul-Gandhi-2026-11-17dee00f222985bf2960c50cbcfeae3d-1200x800.jpg -->
+
+राहुल गांधी ने दावा किया कि भाजपा का आंतरिक ढांचा ढह चुका है। वे कहते हैं कि कई मंत्री विपक्ष से संपर्क में हैं। कांग्रेस को उन्होंने शिवजी की बारात की तरह एक व्यापक मंच बताया। Rahul Gandhi News: राहुल गांधी दावा किया कि भाजपा का आंतरिक ढांचा ढह चुका है तथा सरकार के कई मंत्री विपक्ष के संपर्क में हैं और जानकारी साझा कर रहे हैं.
+
+### [चांद पर भी मिलेगी टिक्की और फ्रेंच फ्राइज, बंजर मिट्टी में उग आए आलू, वैज्ञानिकों ने देसी तरीके से](https://hindi.news18.com/world/america-scientists-grew-potatoes-in-simulated-lunar-soil-growing-food-on-future-moon-bases-10999814.html)
+*News18 Hindi (World)* - Nov 20, 10:40 IST (iso: 2026-11-20T05:10:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/potato-moon-2026-11-94ddcfa2b45e0ca60149cd6ccc58fd40-1200x800.jpg -->
+
+वैज्ञानिकों ने नकली चंद्रमा मिट्टी और केंचुओं की खाद में आलू उगाए। 30 प्रतिशत खाद मिलने पर फसल का उत्पादन धरती जितना रहा। यह अध्ययन नासा की मदद से हुआ। Moon Potato Farming: वैज्ञानिकों ने चांद की मिट्टी जैसी जमीन में आलू उगाकर बड़ी कामयाबी हासिल की है. NASA की मदद से हुए इस अध्ययन में वैज्ञानिकों ने खास किस्म के आलू को नकली चंद्रमा मिट्टी और केंचुओं से बनी खाद के मिश्रण में उगाया.
 
 ---
 

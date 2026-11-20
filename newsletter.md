@@ -1,28 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 20, 2026 10:39 IST
+**Updated:** November 20, 2026 19:58 IST
 
 ---
 
 ## Europe & Russia
 
-### [Trump, Xi and Putin release 'peace declaration' from unprecedented summit](https://www.channelnewsasia.com/world/china-russia-us-peace-declaration-nuclear-trilateral-talks-6565716)
-*Channel News Asia* - Nov 20, 08:46 IST (iso: 2026-11-20T03:16:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--S0Xjl-X---/c_crop,h_562,w_1000,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/APTOPIX_Trump_China_64671.jpg?itok=Zesy7sDT -->
+### [Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse](https://www.thehindu.com/news/international/russia-says-role-for-eus-kallas-in-ukraine-talks-with-moscow-would-lead-to-their-collapse/article71724468.ece)
+*The Hindu (International)* - Nov 20, 18:32 IST (iso: 2026-11-20T13:02:43+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/v1ei0s/article71724602.ece/alternates/LANDSCAPE_1200/2026-11-10T120907Z_881546033_RC2ZKOAJ3F7E_RTRMADP_3_RUSSIA-CSTO.JPG -->
 
-Trump, Xi, and Putin issued a four-point peace declaration from a Shenzhen summit. The leaders pledged to reform the United Nations, increase global fuel supplies, and limit international court jurisdiction over state officials. They also reaffirmed that a nuclear war cannot be won. The leaders "reaffirmed that a nuclear war cannot be won and must never be fought" and pledged to advance United Nations reforms, increase supplies of fuel products for all countries, and uphold the immunity enjoyed by state officials in international courts.
+Russia rejected EU foreign policy chief Kaja Kallas for Ukraine negotiations. Moscow's spokesperson called her unsuitable and anti-Russian. The Kremlin stated her involvement would cause talks to collapse immediately. Zakharova told a press briefing in Moscow that Kallas was totally unsuitable to take part in such talks and listed ‌a series of statements from Kallas which she ​said showed the EU official was anti-Russian.
 
 ### [Shenzhen summit opens door to great power peace dialogue](https://asiatimes.com/2026/11/shenzhen-summit-opens-door-to-great-power-peace-dialogue/)
 *Asia Times* - Nov 20, 00:02 IST (iso: 2026-11-19T18:32:21+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Trump_Xi_Putin.jpg -->
 
 US, Chinese, and Russian presidents met in Shenzhen to issue a joint peace declaration. The four-point document calls for United Nations reform, increased petroleum product supplies, and limits on international court jurisdiction. The leaders also committed to dialogue on reducing nuclear risks. The presidents of the United States, China and Russia have issued a four-point peace declaration calling for United Nations (UN) reform, more refined petroleum products, limits on the jurisdiction of international courts and dialogue on reducing nuclear risks.
-
-### [Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea](https://www.thehindu.com/news/international/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/article71721511.ece)
-*The Hindu (International)* - Nov 19, 22:59 IST (iso: 2026-11-19T17:29:22+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/9r2ine/article71721532.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_72778.jpg -->
-
-A third Ukrainian strike in four days halted rail traffic on the Kerch Bridge. The attack occurred hours before Berlin talks. Jared Kushner and Steve Witkoff met with Zelenskyy. Over forty European leaders also attended the session. The attack came hours before the start of talks in Berlin between U. S. envoys Jared Kushner and Steve Witkoff and Ukrainian President Volodymyr Zelenskyy alongside more than 40 European leaders who are supporting Ukraine's war effort.
 
 ### [A Blown Bridge, A Big Meeting, And A 'Ludicrous Fantasy'](https://www.rferl.org/a/week-in-russia-gutterman-crimea-china-trump/33901569.html)
 *Radio Free Europe / Liberty* - Nov 19, 16:48 IST (iso: 2026-11-19T11:18:40+00:00)
@@ -54,12 +48,6 @@ The European Commission proposed a 45 billion euro loan for Ukraine on November 
 
 St Kitts and Nevis will end its citizenship-by-investment program. The decision follows European Union threats to revoke visa-free access for its citizens. Nevis premier Terrance Drew warned the move threatens the island economy and its ability to support vulnerable residents. St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free accessThe decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned. On Friday, Terrance Drew, the prime minister of the.
 
-### [Ukrainian Defense Minister On Crimea Bridge Strike: 'We're Just Getting Started'](https://www.rferl.org/a/ukraine-russia-crimea-bridge-attacks/33900561.html)
-*Radio Free Europe / Liberty* - Nov 18, 00:41 IST (iso: 2026-11-17T19:11:27+00:00)
-<!-- image: https://gdb.rferl.org/a4cb8960-fa77-4094-9789-08df3eea91fd_w1200_h630.png -->
-
-Ukraine struck the Crimean bridge, severing the peninsula's only direct road and rail link to the mainland. The attack occurred overnight on November 17. Russia retaliated by damaging two key bridges in Kyiv. Ukrainian Defense Minister Mykhailo Fedorov stated the campaign is just beginning. Ukraine has released video of its overnight strikes that damaged the bridge between the mainland and Russian-occupied Crimea, the only direct road and rail link to the peninsula.
-
 ### [Civilian casualties in 2026 already far exceed previous years’ tolls](https://news.un.org/feed/view/en/story/2026/11/1168828)
 *UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-04.jpg/image560x340cropped.jpg -->
@@ -70,11 +58,17 @@ The UN Human Rights Monitoring Mission in Ukraine reported that 2026 civilian ca
 
 ## Americas
 
-### [Nations still seeking deeper fossil fuel cuts as climate summit enters final day](https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece)
-*The Hindu (International)* - Nov 20, 08:29 IST (iso: 2026-11-20T02:59:53+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/bqcet6/article71722971.ece/alternates/LANDSCAPE_1200/APTOPIX_Climate_COP31_Turkey_96533.jpg -->
+### [Hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack](https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding)
+*The Guardian* - Nov 20, 16:30 IST (iso: 2026-11-20T11:00:31+00:00)
+<!-- image: https://i.guim.co.uk/img/media/c9dba855c54cae37bd9acbcb62ecc50678235bf6/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99958a7cacbb6f4823fee963c519dc0f -->
 
-The annual climate summit ends on 20 November without major progress on fossil fuel reduction. The two-week event largely failed to advance significant ideas for moving away from coal, oil, and gas. These fuels continue to drive intense heat waves, droughts, and floods globally. The two-week annual summit, which has so far largely failed to advance any big ideas to move away from fossil fuels.
+Cuban asylum seeker Luis Alejandro Cora Pérez ended a hunger strike in Texas. He described being force-fed through a tube after five days of resistance. The physical pain forced him to stop the protest. Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strikeThe text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food.
+
+### [Asian American women feel impact of Nvidia CEO affair scandal, 'spy' accusations](https://www.thehindu.com/news/international/asian-american-women-feel-impact-of-nvidia-ceo-affair-scandal-spy-accusations/article71723422.ece)
+*The Hindu (International)* - Nov 20, 14:50 IST (iso: 2026-11-20T09:20:37+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ng1gef/article71723499.ece/alternates/LANDSCAPE_1200/2026-11-18T115724Z_1595762941_RC2BQOALR6Q2_RTRMADP_3_NVIDIA-CEO.JPG -->
+
+Asian American women in tech report anxiety over Nvidia CEO scandal. They fear renewed scrutiny and "spy" accusations will harm their careers. The incident highlights persistent stereotypes despite professional achievements. Asian American women working in tech, civil rights advocacy and academia have felt a sense of dread that this ordeal will diminish how their peers are viewed and treated in their workplaces.
 
 ### [Ambition goes missing as fossil fuel language drops from draft deal](https://news.un.org/feed/view/en/story/2026/11/1168839)
 *UN News* - Nov 19, 17:30 IST (iso: 2026-11-19T12:00:00+00:00)
@@ -94,18 +88,6 @@ Trump and Xi addressed APEC leaders in Shenzhen, contrasting Washington's deregu
 
 COP31 delegates in Antalya launched a new global check on climate promise fulfillment. Ministers remain deadlocked over funding responsibilities and fossil fuel transition timelines. The core dispute centers on whether a greener future is just if poorer nations cannot afford the shift. With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called “just” if poorer countries cannot afford it.
 
-### [Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life](https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people)
-*The Guardian* - Nov 18, 03:10 IST (iso: 2026-11-17T21:40:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/49205240a8e75adf2f7dfcec0b4ab2d68d8e1b2d/117_24_1519_1215/master/1519.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ad35d19f3657396cbb0197d9ba8ec18 -->
-
-About 20 Awá people emerged from voluntary isolation in Brazil’s Amazon. They accepted food from nearby villagers. The contact raises alarms about increased invasions into their protected territory and threats to their traditional way of life. Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territoryAbout 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory. According to the NGO Survival International, members of the Awá people, who live in voluntary isolation,.
-
-### [Eight-year-old Haitian boy returns home after release from ICE custody](https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release)
-*The Guardian* - Nov 18, 02:29 IST (iso: 2026-11-17T20:59:56+00:00)
-<!-- image: https://i.guim.co.uk/img/media/6be98365559fdfcaa1449ed97d2c6354c78f0ef4/0_19_1084_867/master/1084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c39589936af829d82bae2511b8fd40d -->
-
-An eight-year-old Haitian boy returned to his family in California. He was detained in San Diego on 4 November and transferred to Texas. Representative Juan Vargas shared a photo of the reunion after his release from ICE custody. Child reunited with family after he was detained by immigration agents in San Diego and transferred to TexasAn eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California. Representative Juan Vargas shared a photograph of the boy and his family in a social.
-
 ### [The push to protect warming oceans reaches the negotiating table](https://news.un.org/feed/view/en/story/2026/11/1168824)
 *UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_COP31_02.jpg/image560x340cropped.jpg -->
@@ -114,17 +96,25 @@ Scientists and communities presented nature protection strategies at COP31. Thes
 
 ---
 
-## World
-
-### [Xi’s new rulebook for local Party leaders](https://www.thehindu.com/news/international/xis-new-rulebook-for-local-party-leaders/article71719828.ece)
-*The Hindu (International)* - Nov 19, 23:34 IST (iso: 2026-11-19T18:04:49+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/u758ep/article71721678.ece/alternates/LANDSCAPE_1200/2026-11-19T105447Z_482010835_RC2XQOA0ELPL_RTRMADP_3_APEC-SUMMIT.JPG -->
-
-The Communist Party published new rules centralising control over provincial, city, and county committees. The update sharpens the focus on Xi Jinping Thought and expands the remit of local bodies. It also tightens personnel controls and places a new emphasis on discipline. The Communist Party has published rules that centralise control over every provincial, city and county committee with four shifts from the 2015 version: a sharper focus on Xi Jinping Thought, a wider remit for local committees, tighter control over personnel and a new emphasis on discipline.
-
----
-
 ## Asia-Pacific
+
+### [California investigates Nvidia over whether chip exports ended up in China](https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china)
+*The Guardian* - Nov 20, 14:48 IST (iso: 2026-11-20T09:18:30+00:00)
+<!-- image: https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ba5ae30a51442a04ba6a938dbed986dd -->
+
+California Attorney General Rob Bonta subpoenaed Nvidia. The state investigates whether chip exports reached China despite restrictions. Officials suspect the company misled investors regarding compliance. State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investorsCalifornia has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based com.
+
+### [Pakistan Climate Minister arrives in Delhi to attend SCO Civilisations Dialogue Forum](https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece)
+*The Hindu (International)* - Nov 20, 12:39 IST (iso: 2026-11-20T07:09:17+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/u6jfsl/article71723374.ece/alternates/LANDSCAPE_1200/HXimSxhbkAACr1J.jpg -->
+
+Pakistan's climate minister arrived in Delhi for the SCO Civilisations Dialogue Forum. Prime Minister Modi will inaugurate the event at Purana Quila. Pakistan currently chairs the SCO Council of Heads of State. Pakistan is the current chair of the SCO Council of Heads of State (CHS) (SCO_CHS) for the period of 2026-27; the event, which will be inaugurated by PM Modi, will be held at Delhi’s iconic Purana Quila (Old Fort), a 16th Century fort built by Emperor Humayun.
+
+### [China’s research ships turning ocean science into undersea warfare](https://asiatimes.com/2026/11/chinas-research-ships-turning-ocean-science-into-undersea-warfare/)
+*Asia Times* - Nov 20, 11:39 IST (iso: 2026-11-20T06:09:52+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Research-Ships.jpeg -->
+
+China is expanding dual-use oceanographic ship deployments across the Indo-Pacific to map seafloors and track submarines. These vessels operate under scientific cover while threatening undersea cables. The strategy extends Beijing's military reach beyond traditional naval assets. Under the cover of scientific research and deep-sea exploration, China is deploying dual-use survey vessels across the Indo-Pacific to map seafloors, track submarines, and threaten undersea cables, bolstering its military reach.
 
 ### [Awami League’s violent comeback bid affirms its ‘terrorist’ label](https://asiatimes.com/2026/11/awami-leagues-violent-comeback-bid-affirms-its-terrorist-label/)
 *Asia Times* - Nov 19, 15:35 IST (iso: 2026-11-19T10:05:30+00:00)
@@ -137,6 +127,16 @@ Armed attackers burned the home of Awami League lawmaker SM Zilany in Tungipara 
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-BBGX-Battleship.jpg -->
 
 Trump’s $23 billion battleship proposal faces budget hurdles. Democrats are preparing to control Congress. Defense officials debate whether to fund a new capital ship or next-generation destroyers to counter China’s expanding naval fleet. As Democrats prepare to take over Congress and defense budget cuts loom, US President Donald Trump’s proposed battleship has sparked debate over whether to invest in a costly capital ship or next-generation destroyers to counter China’s growing fleet.
+
+---
+
+## World
+
+### [Battle to control GPS and radio signals raises civilian safety concerns](https://news.un.org/feed/view/en/story/2026/11/1168843)
+*UN News* - Nov 19, 17:30 IST (iso: 2026-11-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image770x420cropped.jpg -->
+
+GPS and radio signals are increasingly blocked or faked, endangering aid convoys, passenger jets, and cargo ships. Civilian safety is declining as these critical navigation systems become unreliable. The disruption affects both conflict zones and open ocean routes. From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions.
 
 ---
 
