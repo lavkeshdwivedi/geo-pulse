@@ -1,10 +1,110 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 20, 2026 19:58 IST
+**अपडेट:** November 21, 2026 03:31 IST
+
+---
+
+## दुनिया
+
+### [आधुनिक बीट्स पर भजनों की धूम: नमो घाट की 'भजन क्लबिंग' ने मोहा मन, पीएम मोदी ने की युवाओं के उत्साह](https://www.amarujala.com/delhi/devotional-songs-set-to-modern-beats-bhajan-clubbing-at-namo-ghat-captivates-hearts-pm-modi-lauds-enthusiasm-o-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 12:52 IST (iso: 2026-11-21T07:22:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/paema-matha_2d37c373429d91b845eab0f3c62b433a.jpeg?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री मोदी ने एक्स पर काशी के नमो घाट में आयोजित भजन क्लबिंग कार्यक्रम की सराहना की। उन्होंने युवाओं के उत्साहपूर्ण प्रदर्शन को प्रशंसित किया और इसे बाबा विश्वनाथ की नगरी का एक विशेष क्षण बताया। पीएम मोदी ने 'एक्स' पर एक पोस्ट में कहा, बाबा विश्वनाथ की नगरी काशी में 'भजन क्लबिंग' के आयोजन ने सबको मंत्रमुग्ध कर दिया।
+
+### [पुलिस महकमे में फेरबदल, दो आईपीएस और आठ इंस्पेक्टरों के तबादले; अभिषेक बनर्जी ने क्या उठाए सवाल?](https://www.amarujala.com/india-news/west-bengal-police-reshuffle-two-ips-officers-eight-inspectors-transferred-news-in-hindi-updates-2026-11-21)
+*Amar Ujala National* - Nov 21, 12:17 IST (iso: 2026-11-21T06:47:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/west-bengal-police-reshuffle-two-ips-officers-eight-inspectors-transferred_ae92f1e9b93bb505ece01fd4b8edc520.jpeg?w=1200&dpr=1.0 -->
+
+पश्चिम बंगाल में पुलिस विभाग में दो आईपीएस अधिकारियों और आठ इंस्पेक्टरों के तबादले किए गए। मुख्यमंत्री अभिषेक बनर्जी ने इस फेरबदल को लेकर सवाल उठाए हैं। पुलिस महकमे में फेरबदल, दो आईपीएस और आठ इंस्पेक्टरों के तबादले; अभिषेक बनर्जी ने क्या उठाए सवाल?
+
+### [ड्रोन, क्रिप्टोकरेंसी, कट्टरता और एआई दुरुपयोग पर चर्चा; एनआईए महानिदेशक क्या बोले?](https://www.amarujala.com/india-news/drones-cryptocurrencies-radicalisation-ai-misuse-dominate-anti-terror-conference-discussions-2026-11-21)
+*Amar Ujala National* - Nov 21, 02:11 IST (iso: 2026-11-20T20:41:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/anti-terrorism-conference-entire-network-of-terrorists-will-be-attacked-simultaneously-hm-amit-s_5a11ef0b38a4f093f47567272ffef136.jpeg?w=1200&dpr=1.0 -->
+
+एनआईए महानिदेशक ने ड्रोन, क्रिप्टोकरेंसी और एआई के दुरुपयोग पर चर्चा की। सम्मेलन में आतंकवाद के नए तरीकों पर बात हुई। ड्रोन, क्रिप्टोकरेंसी, कट्टरता और एआई दुरुपयोग पर चर्चा; एनआईए महानिदेशक क्या बोले?
+
+### [पुलिस को राष्ट्रपति सम्मान से सम्मानित करेंगे अमित शाह, क्या है पूरा कार्यक्रम?](https://www.amarujala.com/india-news/home-minister-amit-shah-arrived-in-arunachal-pradesh-for-a-three-day-visit-arunachal-pradesh-police-ndrf-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 01:30 IST (iso: 2026-11-20T20:00:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/home-minister-amit-shah-arrived-in-arunachal-pradesh-for-a-three-day-visit-arunachal-pradesh-police_e227a05303cd5b834fd1dec55872149c.jpeg?w=1200&dpr=1.0 -->
+
+अमित शाह अरुणाचल प्रदेश के तीन दिवसीय दौरे पर हैं। वे पुलिस बल को राष्ट्रपति सम्मान से सम्मानित करेंगे। इस दौरान एनडीआरएफ से भी मिलने का कार्यक्रम है। पुलिस को राष्ट्रपति सम्मान से सम्मानित करेंगे अमित शाह, क्या है पूरा कार्यक्रम?
+
+### [पांचवें कौशल दीक्षांत समारोह को करेंगे संबोधित, 52 मेधावियों को मिलेगा सम्मान](https://www.amarujala.com/lucknow/pm-modi-visit-lucknow-today-will-address-fifth-skill-convocation-ceremony-52-meritorious-individuals-to-honore-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 01:12 IST (iso: 2026-11-20T19:42:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/paema-matha-ka-lkhanauu-thara_56504f26510f0f1a3927be6b3fff54f4.jpeg?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री लखनऊ में पांचवें कौशल दीक्षांत समारोह को संबोधित करेंगे। वे 52 मेधावियों को सम्मानित करेंगे। शहर में तैयारियां पूरी कर ली गई हैं। प्रधानमंत्री के इस दौरे को लेकर लखनऊ में तैयारियां पूरी कर ली गई हैं। इस समारोह में कौशल विकास के क्षेत्र में उत्कृष्ट प्रदर्शन करने वाले युवाओं को प्रधानमंत्री के हाथों सम्मानित किया जाएगा। पांचवें कौशल दीक्षांत समारोह को करेंगे संबोधित, 52 मेधावियों को मिलेगा सम्मान।
+
+### [आलू के बाद मंगल पर उग आया पूरा जंगल, लाल ग्रह पर चल क्या रहा है? नासा के ऑर्बिटर ने भेजी तस्वीर](https://hindi.news18.com/world/america-mars-forest-illusion-explained-nasa-orbiter-image-trend-after-lunar-soil-potato-farming-study-space-farming-11001294.html)
+*News18 Hindi (World)* - Nov 20, 21:23 IST (iso: 2026-11-20T15:53:20+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Mars-Forest-Illision-2026-11-f7eca8c49c245714eba2f069822ff908-1200x800.jpg -->
+
+नासा के मार्स रिकॉनिसेंस ऑर्बिटर की तस्वीर में मंगल के उत्तरी ध्रुव पर पेड़ों जैसी धारियां दिखीं। वैज्ञानिकों के अनुसार ये सूखी बर्फ के गैस बनने और रेत खिसकने का भ्रम हैं। बसंत में यह प्राकृतिक प्रक्रिया ढलानों पर अजीब नमूने बनाती है। नासा के मार्स रिकॉनिसेंस ऑर्बिटर की एक वायरल तस्वीर चर्चा में है. इसमें मंगल के उत्तरी ध्रुव के टीलों पर पेड़ों जैसी धारियां दिखती हैं.
 
 ---
 
 ## एशिया-प्रशांत
+
+### [अमेरिका में अंडरकवर अधिकारी को समझने में चूक गया 'इंडियन योगा', नहीं उतार पाया 'हिटमैन' का नकाब](https://www.amarujala.com/india-news/nikhil-gupta-indian-yoga-fails-to-identify-undercover-officer-in-america-fails-to-unmask-hitman-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 12:22 IST (iso: 2026-11-21T06:52:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/nikhil-gupta-indian-yoga-fails-to-identify-undercover-officer-in-america-fails-to-unmask-hitman_92f35494dc72dc7003a03bd8ee2c4ffe.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में निखिल गुप्ता, जिन्हें इंडियन योगा कहा जाता है, ने एक अंडरकवर अधिकारी की पहचान नहीं कर पाई। इस चूक के कारण उन्होंने हिटमैन का नकाब उतारने में भी असफल रहे। अमेरिका में अंडरकवर अधिकारी को समझने में चूक गया 'इंडियन योगा', नहीं उतार पाया 'हिटमैन' का नकाब।
+
+### [दक्षिण दिल्ली में शादियों के चलते भारी जाम की संभावना, इन प्रमुख मार्गों से बचने की सलाह](https://www.amarujala.com/delhi/traffic-alert-heavy-congestion-expected-in-south-delhi-due-to-weddings-commuters-advised-to-avoid-these-key-ro-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 12:15 IST (iso: 2026-11-21T06:45:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/11/thall-tarafaka-palsa-na-jara-ka-edavaijara_ec6b56efc503236fbad68367c2344c3b.jpeg?w=1200&dpr=1.0 -->
+
+दक्षिण दिल्ली में 27 से अधिक शादियों के कारण भारी जाम की संभावना है। एसएसएन मार्ग, बांध रोड, मंडी रोड और एसजी रोड पर 12,000 से अधिक लोग और पांच हजार वाहन आने की उम्मीद है। दक्षिण दिल्ली में एसएसएन मार्ग (भाटी माइन्स रोड), बांध रोड, मंडी रोड और एसजी रोड पर 27 से अधिक शादियों का आयोजन प्रस्तावित है।
+
+### [मुंबई-पुणे-नागपुर में मेट्रो स्टेशन के नाम बदलने पर बनी समिति; राज्य में जमीन की डिजिटल पहचान होगी](https://www.amarujala.com/india-news/maharashtra-updates-of-21-nov-maharashtra-news-politics-crime-mumbai-thane-maharashtra-news-in-hindi-2026-11-21)
+*Amar Ujala National* - Nov 21, 02:24 IST (iso: 2026-11-20T20:54:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0 -->
+
+महाराष्ट्र सरकार ने मुंबई, पुणे और नागपुर के मेट्रो स्टेशन नाम बदलने के लिए समिति बनाई है। राज्य में जमीन की डिजिटल पहचान प्रणाली भी शुरू की जाएगी। मुंबई-पुणे-नागपुर में मेट्रो स्टेशन के नाम बदलने पर बनी समिति; राज्य में जमीन की डिजिटल पहचान होगी।
+
+### [भारत की जीडीपी ग्रोथ से ट्रंप प्रभावित: बोले- अमेरिका की अर्थव्यवस्था 20% तक बढ़ सकती है, किस पर](https://www.amarujala.com/world/donald-trump-praises-india-low-interest-rates-criticises-us-federal-reserve-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 02:10 IST (iso: 2026-11-20T20:40:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/donald-trump-praises-india-low-interest-rates-criticises-us-federal-reserve_e84c09e9ebaa64e5edeba349e52f8489.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप ने भारत की कम ब्याज दरों की प्रशंसा की। उन्होंने अमेरिकी अर्थव्यवस्था में 20 प्रतिशत वृद्धि की संभावना बताई। भारत की जीडीपी ग्रोथ से ट्रंप प्रभावित: बोले- अमेरिका की अर्थव्यवस्था 20% तक बढ़ सकती है, किस पर।
+
+### [बोले- देश से बाहर डेटा सेंटर बनाने लगेगा दंड, चीन से एआई की होड़ पर क्या कहा?](https://www.amarujala.com/world/trump-says-us-companies-won-t-be-allowed-to-build-data-centres-abroad-2026-11-21)
+*Amar Ujala World* - Nov 21, 01:54 IST (iso: 2026-11-20T20:24:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/trump_8407be059bb42510d5fe485ea6e3eb46.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप ने अमेरिकी कंपनियों को विदेश में डेटा सेंटर बनाने पर रोक लगाई। चीन से एआई प्रतिस्पर्धा पर भी टिप्पणी की गई। बोले- देश से बाहर डेटा सेंटर बनाने लगेगा दंड, चीन से एआई की होड़ पर क्या कहा?
+
+### [एनआईए डीजी बोले-अंतिम चरण में जांच, एक आरोपी की तलाश, पाकिस्तान में छिपे होने का शक](https://www.amarujala.com/delhi-ncr/delhi-red-fort-blast-nia-dg-says-investigation-is-in-its-final-stages-one-suspect-is-being-sought-and-is-suspe-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 01:36 IST (iso: 2026-11-20T20:06:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/ll-kal-blsata_1b0dc3c60376e265eda82b4982017b89.jpeg?w=1200&dpr=1.0 -->
+
+एनआईए ने कहा कि जांच अंतिम चरण में है। एक आरोपी की तलाश जारी है। उसे पाकिस्तान में छिपा हुआ माना जाता है। मुख्य आरोपी पुलवामा निवासी उमर उन नबी था। उमर उन नबी विस्फोटक से भरी कार चला रहा था। धमाके में उसकी भी मौत हो गई थी। एनआईए के अनुसार, सभी आरोपी अलकायदा से जुड़े अंसार गजवात-उल-हिंद के सदस्य थे।
+
+### [ट्रंप बोले- शानदार रही बैठक; रूबियो ने क्या कहा? 2027 में मुंबई में जुटेंगे दिग्गज](https://www.amarujala.com/world/trump-calls-quad-summit-fantastic-highlights-five-major-outcomes-india-to-host-business-forum-in-mumbai-2027-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 01:05 IST (iso: 2026-11-20T19:35:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/kavada-thasha-ka-natao-ka-bthaka_6b509e9c1775dabf72866983397fc465.gif?w=1200&dpr=1.0 -->
+
+ट्रंप ने क्वाड शिखर सम्मेलन को शानदार बताया। रूबियो ने भी बैठक की प्रशंसा की। 2027 में मुंबई में व्यापार मंच का आयोजन होगा। क्वाड समिट में बड़ी सफलता: ट्रंप बोले- शानदार रही बैठक; रूबियो ने क्या कहा? 2027 में मुंबई में जुटेंगे दिग्गज।
+
+### [अब खत्म हो जाएगी पेट्रोल-डीजल की जरूरत, प्योर हाइड्रोजन पर 195KM लंबा ब्रेकथ्रू, क्या है ये नया](https://hindi.news18.com/world/china-end-of-petrol-and-diesel-china-launches-195km-pure-hydrogen-pipeline-to-power-future-cars-and-industries-cuts-transport-costs-11001495.html)
+*News18 Hindi (World)* - Nov 20, 23:02 IST (iso: 2026-11-20T17:32:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-Launches-195km-Pure-Hydrogen-Pipeline-2026-11-20b099dfc1318e904a21827b3056e15c-1200x800.jpg -->
+
+चीन में 195 किलोमीटर लंबी प्योर हाइड्रोजन पाइपलाइन शुरू की गई है। इससे ग्रीन हाइड्रोजन की ढुलाई का खर्च कम होगा। सौर और पवन ऊर्जा से बने इस ईंधन से वाहन और उद्योग में प्रदूषण घटेगा। पेट्रोल और डीजल का विकल्प तलाशने के लिए एक बड़ा कदम उठाया गया है. चीन में प्योर हाइड्रोजन फ्यूल को बढ़ावा देने के लिए 195 किलोमीटर लंबी एक खास पाइपलाइन शुरू हुई है.
+
+### [खालिस्तानी पन्नू की हत्या की साजिश में निखिल गुप्ता को 235 महीनों की जेल, अमेरिकी कोर्ट ने सुनाई सजा](https://hindi.news18.com/world/america-indian-national-nikhil-gupta-sentence-235-months-jail-for-khalistani-gurpatwant-singh-pannun-murder-plot-us-court-11001492.html)
+*News18 Hindi (World)* - Nov 20, 22:51 IST (iso: 2026-11-20T17:21:13+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/nikhil-gupta-gurpatwant-pannun-us-court-sentencing-hearing-2026-11-b5edd2ecefb3ee6496c80a8c01aaae27-1200x800.jpg -->
+
+अमेरिकी संघीय अदालत ने निखिल गुप्ता को 235 महीने की सजा सुनाई। यह सजा गुरपतवंत सिंह पन्नू की हत्या की साजिश के मामले में है। अभियोजन पक्ष ने 24 साल की सजा की मांग की थी। Pannun Murder Plot: अमेरिका की एक संघीय अदालत ने खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नू की हत्या की साजिश के मामले में भारतीय नागरिक निखिल गुप्ता को 235 महीने यानी करीब 19 साल 7 महीने की जेल की सजा सुनाई है.
+
+### [चीन वाली महा-मीटिंग से लौटते ही मंत्री पर चिल्ला पड़े ट्रंप? किसी ने चुपके से बना लिया वीडियो](https://hindi.news18.com/world/america-did-trump-snap-at-commerce-minister-howard-lutnick-after-china-trip-viral-plane-video-sparks-chip-feud-buzz-11001390.html)
+*News18 Hindi (World)* - Nov 20, 22:13 IST (iso: 2026-11-20T16:43:23+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-Viral-Video-2026-11-bfa859b19bd313ebcc7468c30ccf9633-1200x800.jpg -->
+
+ट्रंप के चीन दौरे के बाद वायरल वीडियो में वे तीखी बातचीत करते दिख रहे हैं। दावा है कि वे वाणिज्य मंत्री हॉवर्ड लुटनिक पर भड़के हुए हैं। लुटनिक पर चीन को चिप्स भेजने के मामले में दबाव बढ़ा है। चीन और एशिया दौरे से लौटने के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का एक वीडियो सोशल मीडिया पर वायरल हो रहा है.
 
 ### [बांग्लादेश में मंत्री के घर पर फोड़ा पेट्रोल बम, प्रधानमंत्री के कंट्रोल से बाहर हुए हालात, फिर धधक](https://hindi.news18.com/world/south-asia-petrol-bomb-attack-at-bangladesh-minister-humayun-kabir-home-as-unrest-escalates-amid-sheikh-hasina-return-buzz-11001096.html)
 *News18 Hindi (World)* - Nov 20, 19:16 IST (iso: 2026-11-20T13:46:09+00:00)
@@ -18,159 +118,59 @@
 
 नई दिल्ली में SCO सिविलाइजेशन डायलॉग फोरम के दौरान पाकिस्तानी जलवायु मंत्री मुसादिक मसूद मलिक ने सीमा पार आतंकवाद के सवाल पर सीधा जवाब देने से बचते हुए कहा कि वे अगले दिन बयान देंगे। SCO Civilization Dialogue Forum: पाकिस्तान के जलवायु परिवर्तन मंत्री मुसादिक मसूद मलिक ने शुक्रवार को नई दिल्ली में आयोजित शंघाई सहयोग संगठन (SCO) के ‘सिविलाइजेशन डायलॉग फोरम’ के दौरान सीमा पार आतंकवाद को लेकर भारत की चिंताओं पर सीधा जवाब देने से बचते हुए कहा कि वे इस मुद्दे पर ‘कल’ बयान देंगे।
 
-### ['इंसुलिन से मौत पकड़ी नहीं जाती', बॉयफ्रेंड से कही थी यह बात, अब माता-पिता के कत्ल में बेटी को होगी](https://hindi.news18.com/world/rest-of-world-diabetic-woman-found-guilty-of-murdering-94-year-old-parents-with-insulin-in-south-australia-11000995.html)
-*News18 Hindi (World)* - Nov 20, 17:40 IST (iso: 2026-11-20T12:10:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Insulin_Murder-2026-11-d6e49b4682af58ca7a13aaa5dd33655a-1200x800.jpg -->
+---
 
-ऑस्ट्रेलिया में 66 वर्षीय रेलीन पॉलीमियाडिस को अपने 94 वर्षीय माता-पिता की हत्या का दोषी पाया गया। साउथ ऑस्ट्रेलियन सुप्रीम कोर्ट में चार महीने चले ट्रायल के बाद जूरी ने शुक्रवार को यह फैसला सुनाया। ऑस्ट्रेलिया में 66 साल की डायबिटीज मरीज रेलीन पॉलीमियाडिस को अपने 94 वर्षीय माता-पिता की हत्या का दोषी पाया गया है. साउथ ऑस्ट्रेलियन सुप्रीम कोर्ट में 4 महीने चले ट्रायल के बाद जूरी ने शुक्रवार को यह फैसला सुनाया.
+## यूरोप और रूस
 
-### [SCO के पहले दिन आतंकवाद पर घिरे पाकिस्तानी मंत्री, दो बार टाला सवाल, फिर हंसकर कही ये बात](https://hindi.news18.com/world/south-asia-sco-india-denies-pakistan-minister-musadik-malik-permission-to-visit-taj-mahal-and-nizamuddin-dargah-grilled-over-cross-border-terrorism-11000877.html)
-*News18 Hindi (World)* - Nov 20, 17:38 IST (iso: 2026-11-20T12:08:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Minister-2026-11-b404f3e215fc94aabc48d87615d434a9-1200x800.jpg -->
+### [पुतिन-ट्रंप-जिनपिंग की मुलाकात को रूस ने बताया ऐतिहासिक: यूरोप को दिखाया बाहर का रास्ता, यूक्रेन पर](https://www.amarujala.com/world/russia-hails-putin-talks-with-trump-and-xi-as-historic-moment-highlights-europe-absence-2026-11-21)
+*Amar Ujala World* - Nov 21, 12:17 IST (iso: 2026-11-21T06:47:56+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/14/danalda-tarapa-valthamara-patana-oura-sha-janapaga_ea74136c145f481dcd0a6abb144fb6f4.jpeg?w=1200&dpr=1.0 -->
 
-SCO सिविलाइजेशन डायलॉग फोरम के पहले दिन पाकिस्तानी जलवायु मंत्री मुसादिक मलिक को आतंकवाद पर सवाल पूछे गए। उन्होंने दो बार सवाल टालने की कोशिश की और बाद में जवाब देना पड़ा। पाकिस्तान के जलवायु मंत्री मुसादिक मलिक भारत दौरे पर आए हैं. वे यहां शंघाई सहयोग संगठन (SCO) सिविलाइजेशन डायलॉग फोरम में हिस्सा लेने पहुंचे हैं. इस दौरान उन्हें मीडिया के तगड़े सवालों का सामना करना पड़ा.
+रूस ने पुतिन, ट्रंप और जिनपिंग की मुलाकात को ऐतिहासिक घोषित किया। इसमें यूरोप के अनुपस्थित रहने पर जोर दिया गया, जबकि यूक्रेन पर हमले जारी हैं। पुतिन-ट्रंप-जिनपिंग की मुलाकात को रूस ने बताया ऐतिहासिक: यूरोप को दिखाया बाहर का रास्ता, यूक्रेन पर।
 
-### [167 किमी की रफ्तार से दौड़ रहा तबाही का बवंडर, अल नीनो ने बनाया और खतरनाक, इमरजेंसी लागू](https://hindi.news18.com/world/rest-of-world-cyclone-xavier-pacific-island-emergency-australia-storm-alert-11000630.html)
-*News18 Hindi (World)* - Nov 20, 15:03 IST (iso: 2026-11-20T09:33:11+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/cyclone-2026-11-1089defe86e75f729575c18cb7426cbc-1200x800.jpg -->
+### [भारत की कम ब्याज दर और 7% जीडीपी ग्रोथ पर फिदा हुए ट्रंप, अमेरिका में किया बड़ा ऐलान](https://hindi.news18.com/world/america-donald-trump-live-cites-india-low-interest-rates-and-7-percent-gdp-praises-pm-modi-push-for-us-rate-cuts-after-china-visit-11001603.html)
+*News18 Hindi (World)* - Nov 21, 01:31 IST (iso: 2026-11-20T20:01:09+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-On-India-GDP-2026-11-ab56d0d55745c1313715bc7d5d2b96de-1200x800.jpg -->
 
-प्रशांत में चक्रवात जेवियर ने कुक आइलैंड्स के नासाउ द्वीप पर इमरजेंसी जारी की। हवाओं की रफ्तार 240 किलोमीटर प्रति घंटे तक पहुंची। ऑस्ट्रेलिया के कई राज्यों में भारी बारिश और ओले की चेतावनी जारी है। प्रशांत महासागर में ताकतवर चक्रवात जेवियर ने चिंता बढ़ा दी है. इसके संभावित असर को देखते हुए कुक आइलैंड्स के नासाउ द्वीप पर इमरजेंसी घोषित कर दी गई है.
+ट्रंप ने भारत की कम ब्याज दरों और सात फीसदी ग्रोथ का उदाहरण देकर अमेरिका में ब्याज दरें घटाने का ऐलान किया। उन्होंने चीन, रूस और यूक्रेन पर भी अपनी बातचीत का जिक्र किया। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपनी लाइव स्पीच में अमेरिका में ब्याज दरें घटाने की बात कही. इसके लिए उन्होंने भारत की कम ब्याज दरों और 7 फीसदी जीडीपी ग्रोथ का उदाहरण दिया.
 
-### [बांग्लादेश में अब विदेश मामलों के राज्य मंत्री हुमायूं कबीर के घर पर हमला, आधी रात को गेट के बाहर](https://www.patrika.com/world-news/bangladesh-violence-foreign-affairs-minister-humayun-kabir-house-arson-21069540)
-*Patrika (World)* - Nov 20, 15:02 IST (iso: 2026-11-20T09:32:49+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Humayun-Kabir.webp -->
+---
 
-बांग्लादेश में विदेश राज्य मंत्री हुमायूं कबीर के सिलहट स्थित घर पर हमला हुआ। शुक्रवार की रात गेट के बाहर कपड़ों में आग लगाई गई। मंत्री उस समय वहां नहीं थे। पुलिस ने जांच शुरू कर दी है। Bangladesh Violence: बांग्लादेश में राजनीतिक तनाव के बीच हिंसा की घटनाएं लगातार सामने आ रही हैं। अब उपद्रवियों ने विदेश मामलों के राज्य मंत्री हुमायूं कबीर के सिलहट स्थित घर को निशाना बनाया है।
+## मध्य पूर्व और अफ्रीका
 
-### [शेख हसीना के पासपोर्ट और NID में सिग्नेचर का खेल? बांग्लादेश ने किया जांच का दावा](https://hindi.news18.com/news/nation/fake-signatures-on-sheikh-hasina-passport-and-nid-bangladesh-claim-investigation-is-underway-10999998.html)
-*News18 Hindi (World)* - Nov 20, 13:11 IST (iso: 2026-11-20T07:41:05+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Sheikh-Hasina-2026-11-06e7548e578e981674f43dd3a60831ce-1200x800.jpg -->
+### [रूस-यूक्रेन युद्ध खत्म कराने की अच्छी संभावना, कहा- ईरान को परमाणु हथियार नहीं बनाने देंगे](https://www.amarujala.com/world/we-can-get-it-done-trump-positive-on-end-to-ukraine-conflict-warns-iran-wont-have-nuke-2026-11-21)
+*Amar Ujala World* - Nov 21, 01:16 IST (iso: 2026-11-20T19:46:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/we-can-get-it-done-trump-positive-on-end-to-ukraine-conflict-warns-iran-wont-have-nuke_f1cda4f31660843efb297346c6b0fb35.jpeg?w=1200&dpr=1.0 -->
 
-बांग्लादेश में शेख हसीना के पासपोर्ट और राष्ट्रीय पहचान पत्र के हस्ताक्षरों की जांच शुरू हुई है। प्रधानमंत्री तारिक रहमान के सहयोगी मोहम्मद राशेद खान का दावा है कि दस्तावेजों में बड़ी विसंगतियां मिली हैं। Sheikh Hasina News: शेख हसीना के पासपोर्ट और राष्ट्रीय पहचान पत्र को लेकर एक नया और चौंकाने वाला विवाद खड़ा हो गया है. इस मामले में संबंधित दस्तावेजों पर किए गए उनके हस्ताक्षरों की असलियत पर ही सवाल उठने लगे हैं.
+ट्रंप ने कहा कि रूस-यूक्रेन युद्ध समाप्त करने की अच्छी संभावना है। उन्होंने ईरान को परमाणु हथियार बनाने से रोकने का भी वादा किया। रूस-यूक्रेन युद्ध खत्म कराने की अच्छी संभावना, कहा- ईरान को परमाणु हथियार नहीं बनाने देंगे।
 
-### [प्रधानमंत्री बालेंद्र शाह पहली बार आएंगे भारत, पीएम मोदी के साथ होगी द्विपक्षीय वार्ता](https://www.amarujala.com/world/nepal-prime-minister-balendra-shah-to-visit-india-on-a-two-day-trip-from-november-22-23-2026-11-20)
-*Amar Ujala World* - Nov 20, 12:59 IST (iso: 2026-11-20T07:29:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/17/blna-shaha-parathhanamatara-napal_40edec8d6f8589c62f54ec762275d810.jpeg?w=1200&dpr=1.0 -->
+### [ईरान युद्ध पर ट्रंप को सीनेट से राहत, होर्मुज स्ट्रेट और इजरायल के नए हमले की क्या है पूरी रणनीति?](https://www.patrika.com/world-news/iran-us-war-trump-senate-war-powers-strait-of-hormuz-israel-21071900)
+*Patrika (World)* - Nov 21, 00:03 IST (iso: 2026-11-20T18:33:36+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Iran-US-War.webp -->
 
-नेपाल के प्रधानमंत्री बालेंद्र शाह 22 से 23 नवंबर को भारत का पहला आधिकारिक दौरा करेंगे। इस यात्रा के दौरान वे प्रधानमंत्री नरेंद्र मोदी के साथ द्विपक्षीय वार्ता करेंगे। प्रधानमंत्री बालेंद्र शाह पहली बार आएंगे भारत, पीएम मोदी के साथ होगी द्विपक्षीय वार्ता।
+अमेरिकी सीनेट ने 51-48 मतों से वॉर पावर्स प्रस्ताव अस्वीकार कर दिया। इससे राष्ट्रपति ट्रंप को ईरान के खिलाफ सैन्य कार्रवाई जारी रखने की राजनीतिक राहत मिली है। वोटिंग में केवल तीन वोटों का अंतर रहा। Iran US War: ईरान के साथ जारी युद्ध को लेकर अमरीकी राष्ट्रपति डॉनल्ड ट्रंप को सीनेट से बड़ी राहत मिली है। सीनेट में राष्ट्रपति के युद्ध संबंधी अधिकार सीमित करने वाला वॉर पावर्स प्रस्ताव 51-48 मतों से गिर गया।
 
-### [पीएम ताकाइची के खिलाफ सड़क पर उतरे हजारों लोग, जानें किस बात को लेकर हो रहा विरोध](https://www.amarujala.com/world/thousands-of-people-held-a-rally-in-tokyo-against-takaichi-administration-2026-11-20)
-*Amar Ujala World* - Nov 20, 12:42 IST (iso: 2026-11-20T07:12:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/12/26/sanae-takaichi_73e10f221492f2bf8243869db3d8b49b.jpeg?w=1200&dpr=1.0 -->
+### [‘मुझसे शादी करोगी’, MP ने संसद में गर्लफ्रेंड को किया प्रपोज, ठगे से देखते रहे स्पीकर](https://hindi.news18.com/world/rest-of-world-will-you-marry-me-australian-mp-proposes-to-girlfriend-in-parliament-during-farewell-speech-speaker-left-stunned-11001542.html)
+*News18 Hindi (World)* - Nov 20, 23:21 IST (iso: 2026-11-20T17:51:30+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Australian-MP-Proposes-to-Girlfriend-in-Parliament-2026-11-185b587fe695a5a542762ee741bdded1-1200x800.jpg -->
 
-टोक्यो में हज़ारों लोगों ने प्रधानमंत्री ताकाइची के खिलाफ प्रदर्शन किया। यह विरोध प्रदर्शन ताकाइची सरकार की नीतियों के विरुद्ध आयोजित किया गया था। पीएम ताकाइची के खिलाफ सड़क पर उतरे हजारों लोग, जानें किस बात को लेकर हो रहा विरोध।
-
-### [नेपाल के पीएम बालेन शाह आ रहे भारत, पीएम मोदी संग द्विपक्षीय बैठक तय, कई करार होंगे](https://www.abplive.com/news/world/nepali-pm-balendra-shah-visit-india-from-22nd-to-23rd-november-3217200)
-*ABP Live (World)* - Nov 20, 11:35 IST (iso: 2026-11-20T06:05:31+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/20/0a6569b55acdb0de75e2806f71a2b23e1795155780768355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-नेपाल के प्रधानमंत्री बालेन शाह 22 से 23 नवंबर को भारत आएंगे। वे पीएम मोदी से द्विपक्षीय बैठक करेंगे। काठमांडू इस दौर में दो अरब डॉलर से अधिक की सहायता की मांग करेगा। नेपाल के प्रधानमंत्री बालेन शाह भारत आने वाले हैं. नेपाल के विदेश सचिव अमृत बहादुर राय ने इसकी जानकारी दी है. पीएम शाह 22 से 23 नवंबर तक भारत की राजकीय यात्रा पर आएंगे.
-
-### [रोहिंग्या मुसलमानों के नरसंहार पर ऐतिहासिक फैसला, UN कोर्ट ने पहली बार किसी देश को दोषी ठहराया](https://www.patrika.com/world-news/myanmar-guilty-of-rohingya-genocide-icj-historic-verdict-21066976)
-*Patrika (World)* - Nov 20, 10:01 IST (iso: 2026-11-20T04:31:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Myanmar-Genocide.webp -->
-
-अंतरराष्ट्रीय न्यायालय ने म्यांमार को रोहिंग्या नरसंहार के दोषी ठहराया। यह अदालत के 80 साल के इतिहास में पहला ऐसा फैसला है। अदालत ने सेना पर महिलाओं के साथ यौन हिंसा और हत्याओं के आरोप स्वीकार किए। Rohingya Genocide: महिलाओं के साथ यौन हिंसा, हजारों लोगों की हत्या और बच्चों पर बर्बरता म्यांमार की सेना पर रोहिंग्या मुसलमानों के खिलाफ ऐसे गंभीर आरोप लगे थे।
+ऑस्ट्रेलिया के न्यू साउथ वेल्स संसद में सांसद जॉर्डन लेन ने विदाई भाषण के दौरान प्रपोज किया। उन्होंने पब्लिक गैलरी में बैठी अपनी दस साल पुरानी पार्टनर नताली हिसी से शादी का प्रस्ताव रखा। स्पीकर भी इस नजारे से हैरान रह गए। ऑस्ट्रेलिया के न्यू साउथ वेल्स संसद में 19 नवंबर को एक बड़ा सरप्राइज देखने को मिला. सिडनी के राइड से सांसद जॉर्डन लेन अपनी विदाई स्पीच दे रहे थे.
 
 ---
 
 ## अमेरिका
+
+### [अमेरिका के F-22 फाइटर जेट्स हुए ‘अंधे’? वायु सेना में हुई अजीब किल्लत, खोज रही 256 MB मेमोरी कार्ड](https://hindi.news18.com/world/america-are-us-f-22-stealth-fighters-going-blind-air-force-hunts-for-outdated-256mb-1990s-memory-cards-11001198.html)
+*News18 Hindi (World)* - Nov 20, 20:11 IST (iso: 2026-11-20T14:41:25+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-F22-2026-11-57a48acf352205e98ca31d6541f1873f-1200x800.jpg -->
+
+अमेरिकी वायु सेना को F-22 रैप्टर जेट के मिशन डेटा सिस्टम के लिए पुराने मेमोरी कार्ड चाहिए। 16 नवंबर को जारी नोटिस में कम से कम 256 MB क्षमता वाले खास फॉर्मेट के कार्ड मांगे गए। यह 1990 के दशक की तकनीक पर निर्भर करता है। अमेरिका के F-22 रैप्टर स्टील्थ फाइटर जेट के मिशन डेटा सिस्टम को चालू रखना है.
 
 ### [‘इमरजेंसी पर कॉल करो’, गाड़ियों के बीच क्रैश हुआ प्लेन, पैराशूट के सहारे खतरनाक लैंडिंग](https://hindi.news18.com/world/america-small-plane-with-emergency-parachute-crashlands-near-parked-cars-in-us-bystanders-scream-call-911-in-viral-video-11001013.html)
 *News18 Hindi (World)* - Nov 20, 18:12 IST (iso: 2026-11-20T12:42:22+00:00)
 <!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Plane-Crash-Video-2026-11-6595024142a278be9f1a922b54bbe29f-1200x800.jpg -->
 
 अमेरिका में एक छोटे विमान में तकनीकी खराबी आने पर उसने इमरजेंसी पैराशूट के सहारे खतरे से बचकर उतरा। विमान खड़ी गाड़ियों और झाड़ियों के बहुत करीब क्रैश लैंड करता दिख रहा था। अमेरिका में एक छोटे प्लेन के हादसे का डरावना वीडियो सामने आया है. प्लेन में तकनीकी खराबी आ गई थी. ये इमरजेंसी पैराशूट के सहारे नीचे उतर रहा था.
-
-### [5.1 तीव्रता के भूकंप से हिली धरती, बिल्डिगों से निकलकर भागे लोग, किन इलाकों में हड़कंप?](https://hindi.news18.com/world/america-5-point-1-magnitude-earthquake-strikes-central-california-panic-as-residents-flee-buildings-usgs-issues-aftershock-and-tsunami-update-11000703.html)
-*News18 Hindi (World)* - Nov 20, 16:04 IST (iso: 2026-11-20T10:34:05+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/Earthquake_tSunami-alert-2026-07-8bd65ce582c4368ce750792cfa0e05c2-1200x800.jpg -->
-
-सेंट्रल कैलिफोर्निया में 5.1 तीव्रता का भूकंप आया। केंद्र सैन बेनिटो काउंटी में सोलेदाद के पास था। झटका 6.7 किलोमीटर गहराई पर आया। लगभग 25 लाख लोगों ने इसे महसूस किया। अमेरिका के सेंट्रल कैलिफोर्निया में 5.1 तीव्रता के भूकंप से धरती कांप उठी. झटके लगते ही लोगों में दहशत फैल गई. घबराए हुए लोग अपनी जान बचाने के लिए घरों और बिल्डिंगों से बाहर सड़कों पर भागने लगे.
-
----
-
-## यूरोप और रूस
-
-### [कीव में रूसी हमलों से बिजली आपूर्ति ठप, तीन लोगों की मौत](https://www.patrika.com/world-news/russian-missile-drone-attack-kyiv-three-killed-nine-injured-power-outage-21070431)
-*Patrika (World)* - Nov 20, 16:59 IST (iso: 2026-11-20T11:29:58+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Kyiv-attack.webp -->
-
-रूसी मिसाइलों और ड्रोन ने कीव पर हमला किया, जिसमें तीन लोगों की मौत और नौ घायल हुए। डीटीके के अनुसार, पेचेर्स्की समेत पांच जिलों में बिजली आपूर्ति ठप हो गई। बुनियादी ढांचे को भी नुकसान पहुंचा। Russian Missile Attack: कीव पर बीती रातभर रूसी मिसाइल और ड्रोन हमलों में 3 लोगों की मौत हो गई और 9 लोग घायल हो गए, जबकि कई इलाकों में बिजली आपूर्ति और बुनियादी ढांचे को नुकसान पहुंचा।
-
-### [‘पुतिन और शी को जो चाहिए था वह मिला, ट्रंप लौटेंगे खाली हाथ’, G3 की मीटिंग पर ग्लोबल मीडिया और](https://www.patrika.com/world-news/trump-putin-xi-g3-meeting-shenzhen-global-media-experts-reaction-21069067)
-*Patrika (World)* - Nov 20, 14:59 IST (iso: 2026-11-20T09:29:57+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Trump-Xi-Jinping-Putin-trilateral-meeting.webp -->
-
-शेनझेन में हुई ट्रंप, पुतिन और शी की बैठक के बाद विश्व मीडिया ने रूस और चीन को लाभदायक परिणाम माना। अमेरिका को इससे कोई खास लाभ नहीं मिला। शेनझेन में हुई बैठक के बाद सामरिक जगत में इसके मायने निकाले जा रहे हैं। अमेरिका से लेकर दुनिया भर की मीडिया ने इस पर हेडलाइन बनाई। दुनिया भर के एक्सपर्ट्स इस पर अपनी प्रतिक्रिया दे रहे हैं।
-
-### [रोटी-बेटी के रिश्तों को नई मजबूती देने भारत आ रहे नेपाल के PM बालेंद्र शाह, सुलझेगा लिपुलेख और](https://hindi.news18.com/news/nation/roti-beti-relations-nepal-pm-balendra-shah-arrives-in-india-lipulekh-and-kalapani-dispute-11000369.html)
-*News18 Hindi (World)* - Nov 20, 14:37 IST (iso: 2026-11-20T09:07:58+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Balen-Shah-2026-11-da0ff4f718de95a5c1c5fbdab5d9439d-1200x800.jpg -->
-
-नेपाल के प्रधानमंत्री बालेंद्र शाह 23 नवंबर को भारत आएंगे। नरेंद्र मोदी के निमंत्रण पर यह दौरा सीमा विवाद और द्विपक्षीय संबंधों पर चर्चा के लिए है। Balendra Shah in India: विदेश मंत्रालय ने जानकारी दी कि प्रधानमंत्री नरेंद्र मोदी के निमंत्रण पर बालेंद्र शाह भारत की यात्रा पर आ रहे हैं. 23 नवंबर को दोनों नेताओं के बीच द्विपक्षीय संबंधों पर व्यापक बातचीत होगी.
-
-### ['कराची की सड़कों पर बहेगा खून, 30 साल जलेगा पाकिस्तान', बिलाव भुट्टो ने अपनी ही सरकार को क्यों दी](https://hindi.news18.com/world/pakistan-bilawal-bhutto-warned-pakistan-against-dividing-sindh-saying-force-could-trigger-unrest-lasting-decades-11000587.html)
-*News18 Hindi (World)* - Nov 20, 14:33 IST (iso: 2026-11-20T09:03:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bilawal-1-2026-11-7c2fa123487dac1b01226bf08806f430-1200x800.jpg -->
-
-बिलावल भुट्टो-जरदारी ने सिंध के बंटवारे की कोशिशों पर सरकार को चेतावनी दी। उन्होंने कहा कि जबरदस्ती से यह फैसला थोपा गया तो 30 साल तक संकट बना रहेगा। पाकिस्तान पीपुल्स पार्टी के चेयरमैन बिलावल भुट्टो-जरदारी ने सिंध के बंटवारे की कोशिशों पर पाकिस्तान सरकार को चेतावनी दी है. उन्होंने कहा कि अगर जबरदस्ती या जनमत संग्रह के जरिए सिंध को बांटने का फैसला थोपा गया, तो हालात बिगड़ सकते हैं और इस आग को बुझाने में 30 साल लग सकते हैं.
-
-### [एक तरफ चीन के खिलाफ भारत के साथ ट्रंप, दूसरी तरफ जिनपिंग से गलबहियां, दुनिया को किस तरफ ले जा रहे?](https://hindi.news18.com/world/america-donald-trump-quad-india-china-russia-summit-foreign-policy-11000278.html)
-*News18 Hindi (World)* - Nov 20, 12:49 IST (iso: 2026-11-20T07:19:23+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trump-putin-2-2026-11-a5392db51c204f7c68f2867ea90ea2ae-1200x800.jpg -->
-
-डोनाल्ड ट्रंप ने मनीला में क्वाड साझेदारी को मजबूत करने पर जोर दिया। इसके दो दिन बाद उन्होंने शेनझेन में शी जिनपिंग और व्लादिमीर पुतिन के साथ पहली त्रिपक्षीय शिखर बैठक की। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की एशिया यात्रा में कूटनीति के दो अलग रंग दिखे. मनीला में उन्होंने भारत, जापान और ऑस्ट्रेलिया के नेताओं के साथ क्वाड साझेदारी मजबूत करने पर जोर दिया.
-
-### [चीन में पुतिन से यूक्रेन का सौदा कर आए ट्रंप? यूरोप को फोन पर हड़काया, जेलेंस्की की मदद रोकने को कहा](https://hindi.news18.com/world/europe-donald-trump-asks-europe-to-stop-financial-aid-to-ukraine-after-putin-meeting-in-china-11000140.html)
-*News18 Hindi (World)* - Nov 20, 12:23 IST (iso: 2026-11-20T06:53:39+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trump-meeting-1-2026-11-06a292741c653497692aa217765f392e-1200x800.jpg -->
-
-शेनझेन में पुतिन और जिनपिंग से मिलने के बाद ट्रंप ने यूरोप से यूक्रेन को आर्थिक मदद रोकने की अपील की। उन्होंने यूरोपीय नेताओं को अपने शांति प्रस्ताव पर ध्यान देने की सलाह दी। चीन के शेनझेन में पुतिन और जिनपिंग से मुलाकात के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने यूरोपीय नेताओं से यूक्रेन को आर्थिक मदद देना बंद करने की अपील की.
-
-### [शिकागो में राहुल गांधी का पुतिन प्रेम क्यों उमड़ा? पश्चिमी देश पर लगाया भारत को न समझने का आरोप](https://www.amarujala.com/world/why-did-rahul-gandhi-s-affection-putin-surface-in-chicago-he-accused-western-nations-failing-understand-india-2026-11-20)
-*Amar Ujala World* - Nov 20, 09:53 IST (iso: 2026-11-20T04:23:23+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/rahal-gathha-na-kaya-ka-patana-ka-tarafa_6080155c9d84680b2605b63651b1f45b.jpeg?w=1200&dpr=1.0 -->
-
-शिकागो में राहुल गांधी ने पुतिन के प्रति अपना समर्थन व्यक्त किया। उन्होंने पश्चिमी देशों पर भारत को न समझने का आरोप लगाया। यह बयान अमेरिका में दिए गए एक कार्यक्रम में आया। अमेरिका: शिकागो में राहुल गांधी का पुतिन प्रेम क्यों उमड़ा? पश्चिमी देश पर लगाया भारत को न समझने का आरोप।
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [घर की मरम्मत में फर्श पर हुई दरार, खोदकर देखा तो फैला पड़ा था खजाना, 20 हजार लोग पीछे छोड़ गए](https://hindi.news18.com/world/middle-east-ancient-underground-city-found-in-turkey-after-floor-crack-and-missing-items-inside-derinkuyu-photogallery-11000663.html)
-*News18 Hindi (World)* - Nov 20, 15:12 IST (iso: 2026-11-20T09:42:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Treasure-of-Villena-Spain-2026-11-4367a2589a36b52d9e8c2af145ec1643-1200x800.jpg -->
-
-तुर्की के कप्पाडोसिया में घर की मरम्मत के दौरान फर्श की दरार से डेरिंकुयु अंडरग्राउंड शहर का पता चला। यह स्थान सदियों से लोगों के छिपने और रहने का ठिकाना रहा। खोजने वालों ने इसे दुनिया के सामने खोल दिया। तुर्की के कप्पाडोसिया इलाके की मशहूर चट्टानों और खूबसूरत वादियों के नीचे एक ऐसी दुनिया छिपी है, जिसे देखकर कोई भी हैरान रह जाए.
-
-### [‘इजरायली राजदूत कब से बने US सेना के कमांडर-इन-चीफ?’ अराघची का तीखा तंज](https://www.patrika.com/world-news/araghchi-slams-israeli-envoy-leiter-us-commander-in-chief-remark-21069684)
-*Patrika (World)* - Nov 20, 14:53 IST (iso: 2026-11-20T09:23:29+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi-.webp -->
-
-ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका के इजरायली राजदूत येचिएल लीटर पर तंज किया। लीटर ने ईरान की हार के बाद अमेरिकी सैनिकों के वापसी का सुझाव दिया था। Iran Defeat Remark: ईरान के विदेश मंत्री अब्बास अराघची ने सोशल मीडिया प्लेटफॉर्म X पर एक पोस्ट के जरिए अमेरिका में इजरायल के राजदूत येचिएल लीटर पर तंज कसते हुए यह टिप्पणी की है।
-
-### [चेहरे पर सख्ती, चाल में गजब की फुर्ती, ये हैं चीन की स्टार बॉडीगार्ड, जिस पर जिनपिंग को है भरोसा](https://hindi.news18.com/world/china-female-bodyguard-xu-jin-with-mexico-president-viral-again-11000317.html)
-*News18 Hindi (World)* - Nov 20, 13:48 IST (iso: 2026-11-20T08:18:42+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/chinese-bodyguard-2026-11-0d8ecdab938415a1c45d874d1341b3c8-1200x800.jpg -->
-
-चीन की महिला सुरक्षा अधिकारी जू जिन सोमवार को शेनझेन एयरपोर्ट पर नजर आईं। वे मैक्सिको की राष्ट्रपति क्लाउडिया शीनबाम के साथ थीं। जू जिन को विशेष सेवा ब्यूरो से जुड़ा माना जाता है। चीन की चर्चित महिला सुरक्षा अधिकारी जू जिन एक बार फिर चर्चा में हैं. सोमवार को वह मैक्सिको की राष्ट्रपति क्लाउडिया शीनबाम के साथ शेनझेन एयरपोर्ट पर नजर आईं.
-
----
-
-## दुनिया
-
-### [सरकार के मंत्री विपक्ष के संपर्क में, 8 महीनों में दिखेगा असर: राहुल ने 'शिवजी की बारात' से की](https://hindi.news18.com/news/nation/govt-ministers-touch-with-opposition-rahul-gandhi-compares-congress-to-lord-shiva-barat-10999851.html)
-*News18 Hindi (World)* - Nov 20, 10:40 IST (iso: 2026-11-20T05:10:47+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Rahul-Gandhi-2026-11-17dee00f222985bf2960c50cbcfeae3d-1200x800.jpg -->
-
-राहुल गांधी ने दावा किया कि भाजपा का आंतरिक ढांचा ढह चुका है। वे कहते हैं कि कई मंत्री विपक्ष से संपर्क में हैं। कांग्रेस को उन्होंने शिवजी की बारात की तरह एक व्यापक मंच बताया। Rahul Gandhi News: राहुल गांधी दावा किया कि भाजपा का आंतरिक ढांचा ढह चुका है तथा सरकार के कई मंत्री विपक्ष के संपर्क में हैं और जानकारी साझा कर रहे हैं.
-
-### [चांद पर भी मिलेगी टिक्की और फ्रेंच फ्राइज, बंजर मिट्टी में उग आए आलू, वैज्ञानिकों ने देसी तरीके से](https://hindi.news18.com/world/america-scientists-grew-potatoes-in-simulated-lunar-soil-growing-food-on-future-moon-bases-10999814.html)
-*News18 Hindi (World)* - Nov 20, 10:40 IST (iso: 2026-11-20T05:10:39+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/potato-moon-2026-11-94ddcfa2b45e0ca60149cd6ccc58fd40-1200x800.jpg -->
-
-वैज्ञानिकों ने नकली चंद्रमा मिट्टी और केंचुओं की खाद में आलू उगाए। 30 प्रतिशत खाद मिलने पर फसल का उत्पादन धरती जितना रहा। यह अध्ययन नासा की मदद से हुआ। Moon Potato Farming: वैज्ञानिकों ने चांद की मिट्टी जैसी जमीन में आलू उगाकर बड़ी कामयाबी हासिल की है. NASA की मदद से हुए इस अध्ययन में वैज्ञानिकों ने खास किस्म के आलू को नकली चंद्रमा मिट्टी और केंचुओं से बनी खाद के मिश्रण में उगाया.
 
 ---
 
