@@ -1,176 +1,172 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 20, 2026 05:28 IST
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [राहुल गांधी ने भारत की विदेश नीति पर उठाए सवाल, बोले- अमेरिका-ईरान बातचीत में PAK की भूमिका से हैरान](https://www.amarujala.com/india-news/rahul-gandhi-in-chicago-question-india-foreign-policy-say-pakistan-mediating-us-iran-talks-india-side-player-2026-11-20)
-*Amar Ujala World* - Nov 20, 12:47 IST (iso: 2026-11-20T07:17:21+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/rahal-gathha-na-vathasha-nata-para-matha-sarakara-ka-ghara_2b7913cc2d8118f787644d14741c5f2b.jpeg?w=1200&dpr=1.0 -->
-
-राहुल गांधी ने शिकागो में भारत की विदेश नीति पर सवाल उठाए। उन्होंने अमेरिका और ईरान की बातचीत में पाकिस्तान की भूमिका पर हैरानी जताई। शिकागो: राहुल गांधी ने भारत की विदेश नीति पर उठाए सवाल, बोले- अमेरिका-ईरान बातचीत में PAK की भूमिका से हैरान।
-
-### [ईरान युद्ध पर ट्रंप को राहत: राष्ट्रपति की शक्तियों पर रोक लगाने का प्रस्ताव संसद में गिरा, क्या](https://www.amarujala.com/world/iran-war-trump-gets-relief-as-senate-rejects-proposal-to-curb-presidential-powers-will-conflict-escalate-2026-11-20)
-*Amar Ujala World* - Nov 20, 03:47 IST (iso: 2026-11-19T22:17:05+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/kaya-jara-rahaga-amaraka-kararavaii_2b30891d3120010e696cf216198b2070.jpeg?w=1200&dpr=1.0 -->
-
-संयुक्त राज्य अमेरिका की संसद ने राष्ट्रपति ट्रंप की युद्ध शक्तियों पर रोक लगाने का प्रस्ताव अस्वीकार कर दिया। इससे ईरान के खिलाफ जारी कार्रवाई जारी रहने का रास्ता खुल गया है। ईरान युद्ध पर ट्रंप को राहत: राष्ट्रपति की शक्तियों पर रोक लगाने का प्रस्ताव संसद में गिरा, क्या बढ़ेगी जंग?
+**अपडेट:** November 20, 2026 10:39 IST
 
 ---
 
 ## दुनिया
 
-### [2000 रुपये से ज्यादा के यूपीआई पेमेंट पर 0.4% एमडीआर का विरोध: 76% यूजर्स ने किया खारिज; सर्वे में](https://www.amarujala.com/business/business-diary/opposition-to-0-4-mdr-on-upi-payments-above-2-000-76-of-users-reject-proposal-survey-reveals-major-findings-2026-11-20)
-*Amar Ujala National* - Nov 20, 05:24 IST (iso: 2026-11-19T23:54:05+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/katana-lga-emadaaara-ka-khalfa-oura-kaya-cahata-ha_8579ac86cb79fd84b517a6af093c0a10.jpeg?w=1200&dpr=1.0 -->
+### [चांद पर भी मिलेगी टिक्की और फ्रेंच फ्राइज, बंजर मिट्टी में उग आए आलू, वैज्ञानिकों ने देसी तरीके से](https://hindi.news18.com/world/america-scientists-grew-potatoes-in-simulated-lunar-soil-growing-food-on-future-moon-bases-10999814.html)
+*News18 Hindi (World)* - Nov 20, 10:39 IST (iso: 2026-11-20T05:09:04+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/potato-moon-2026-11-94ddcfa2b45e0ca60149cd6ccc58fd40-1200x800.jpg -->
 
-सर्वे में 76 प्रतिशत उपयोगकर्ताओं ने 2000 रुपये से अधिक के यूपीआई भुगतान पर 0.4 प्रतिशत शुल्क का विरोध किया। यह दर व्यापारियों पर लागू होगी। 2000 रुपये से ज्यादा के यूपीआई पेमेंट पर 0.4% एमडीआर का विरोध: 76% यूजर्स ने किया खारिज; सर्वे में कई खुलासे।
+वैज्ञानिकों ने नकली चंद्रमा मिट्टी और केंचुओं की खाद में आलू उगाए। 30 प्रतिशत खाद मिलने पर फसल का उत्पादन धरती जितना रहा। यह अध्ययन नासा की मदद से हुआ। Moon Potato Farming: वैज्ञानिकों ने चांद की मिट्टी जैसी जमीन में आलू उगाकर बड़ी कामयाबी हासिल की है. NASA की मदद से हुए इस अध्ययन में वैज्ञानिकों ने खास किस्म के आलू को नकली चंद्रमा मिट्टी और केंचुओं से बनी खाद के मिश्रण में उगाया.
 
-### [देवउठनी एकादशी पर जरूर पढ़ें ये पावन व्रत कथा, मिलेगा श्रीहरि का आशीर्वाद](https://www.amarujala.com/spirituality/festivals/devuthani-ekadashi-2026-vrat-katha-and-shubh-muhurat-for-puja-in-hindi-2026-11-19)
-*Amar Ujala National* - Nov 20, 05:21 IST (iso: 2026-11-19T23:51:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/thavauthana-ekathasha-2026_ae417a87e57ab31d362b8f9bfbc33297.jpeg?w=1200&dpr=1.0 -->
+### ['ईश्वर मेहरबान हैं', जटायु की आवाज बनने पर अभिनेता ने जताई खुशी, फिल्म की आलोचनाओं पर कही ये बात](https://www.amarujala.com/entertainment/anupam-kher-expresses-happiness-at-appreciation-for-his-jatayu-role-in-ramayana-says-i-am-extremely-pleased-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:23 IST (iso: 2026-11-20T04:53:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/anapama-khara_07dd337c60fa52584b553c060c690a23.jpeg?w=1200&dpr=1.0 -->
 
-देवउठनी एकादशी पर भगवान शिव की उपासना का विशेष महत्व है। इस दिन व्रत कथा पढ़ने से श्रीहरि का आशीर्वाद मिलता है। देवउठनी एकादशी पर जरूर पढ़ें ये पावन व्रत कथा।
+अनुपम खेर ने रामायण में जटायु की आवाज दी है। दर्शकों की सकारात्मक प्रतिक्रिया पर उन्होंने खुशी जताई। उन्होंने फिल्म पर हुई आलोचनाओं का भी जवाब दिया। फिल्म 'रामायण' में जटायु की आवाज अनुपम खेर ने दी है। दर्शकों की तरफ से मिल रही सकारात्मक प्रतिक्रियाओं पर अभिनेता ने खुशी जताई है। इसके अलावा उन्होंने 'रामायण' की आलोचनाओं पर भी प्रतिक्रिया दी है।
 
-### [इस कथा के बिना अधूरी है तुलसी विवाह की पूजा, यहां पढ़ें इस दिन से जुड़ी यह पौराणिक कथा](https://www.amarujala.com/spirituality/festivals/tulsi-vivah-2026-katha-and-shubh-muhurat-for-puja-in-hindi-2026-11-19)
-*Amar Ujala National* - Nov 20, 05:17 IST (iso: 2026-11-19T23:47:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/talsa-vavaha-2026_29cc6027b7a045afc57e47b1d942e455.jpeg?w=1200&dpr=1.0 -->
+### [मेटा के AI एजेंट म्यूज पर उठे प्राइवेसी के सवाल: बिना पूछे बता दिया बैंक बैलेंस, निजी मैसेज तक](https://www.amarujala.com/technology/tech-diary/meta-ai-agent-muse-faces-privacy-concerns-over-access-personal-data-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:19 IST (iso: 2026-11-20T04:49:21+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/paratakatamaka-tasavara_1daf3237bb93be7992750e505606df8a.jpeg -->
 
-तुलसी विवाह की पूजा में एक पौराणिक कथा का महत्व बताया गया है। इस दिन से जुड़ी यह कथा पूजा को पूर्ण बनाती है। पाठक इस पौराणिक कथा को विस्तार से पढ़ सकते हैं। इस कथा के बिना अधूरी है तुलसी विवाह की पूजा।
+मेटा के एआई एजेंट म्यूज ने उपयोगकर्ताओं की अनुमति के बिना बैंक बैलेंस और निजी संदेश साझा किए। इस घटना ने कंपनी के डेटा सुरक्षा प्रोटोकॉल पर गंभीर सवाल खड़े कर दिए हैं। मेटा के एआई एजेंट पर गंभीर आरोप। बिना पूछे बताया बैंक बैलेंस। कर्मचारियों के निजी मैसेज भी पढ़े। सिग्नल एप से जुड़ा मामला भी सामने आया। मेटा के AI एजेंट म्यूज पर उठे प्राइवेसी के सवाल: बिना पूछे बता दिया बैंक बैलेंस, निजी मैसेज तक।
 
-### [अमर उजाला नेशनल ओलंपियाड की परीक्षाएं देशभर में शुरू: 27 नवंबर तक चलेगा दूसरा चरण, लाखों विद्यार्थी](https://www.amarujala.com/india-news/amar-ujala-national-olympiad-examinations-begin-nationwide-level1-second-phase-will-continue-until-november-27-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 05:01 IST (iso: 2026-11-19T23:31:28+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/amara-ujal-nashanal-olpayada_78ecd7944582fcf1ece0e04a4fccfb02.jpeg?w=1200&dpr=1.0 -->
+### ['ईडी लाई ही नहीं थी वारंट, अब अंगूठे के निशान पर होगी कानूनी लड़ाई', आजम खां का बड़ा दावा; उठाए ये](https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/azam-khan-claims-ed-had-no-arrest-warrant-plans-high-court-petition-over-thumb-impression-2026-11-20)
+*Amar Ujala Breaking* - Nov 20, 10:18 IST (iso: 2026-11-20T04:48:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/azam-khan-case_aadac84503d8f009550bf549f309a097.jpeg?w=1200&dpr=1.0 -->
 
-अमर उजाला नेशनल ओलंपियाड की परीक्षाएं देशभर में शुरू हो गई हैं। दूसरा चरण 27 नवंबर तक चलेगा। लाखों विद्यार्थी इन परीक्षाओं में भाग ले रहे हैं। अमर उजाला नेशनल ओलंपियाड की परीक्षाएं देशभर में शुरू: 27 नवंबर तक चलेगा दूसरा चरण, लाखों विद्यार्थी ले रहे भाग।
+सपा नेता आजम खां ने दावा किया कि ईडी के पास उनकी गिरफ्तारी के लिए वारंट नहीं था। उन्होंने अब अंगूठे के निशानों के आधार पर कानूनी लड़ाई लड़ने की घोषणा की है। सपा नेता आजम खां ने दावा किया कि उन्हें गिरफ्तार करने के लिए ईडी के पास वारंट ही नहीं था। 'ईडी लाई ही नहीं थी वारंट, अब अंगूठे के निशान पर होगी कानूनी लड़ाई', आजम खां का बड़ा दावा; उठाए ये।
 
-### [दालों की जमाखोरी रोकने के लिए सरकार सख्त: नैफेड से खरीद की सीमा 80 फीसदी घटाई, कारोबारी ले सकेंगे](https://www.amarujala.com/business/business-diary/union-government-reduces-nafed-pulses-stock-purchase-limit-to-curb-hoarding-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 04:38 IST (iso: 2026-11-19T23:08:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/pulses_4ec27f0dcd2638cb19aa5c3cd7b81920.jpeg?w=1200&dpr=1.0 -->
+### [सर्दियों में सुबह उठते ही जोड़ों में जकड़न? ये 5 आदतें बदल लो, दर्द से मिलेगा छुटकारा](https://www.amarujala.com/photo-gallery/lifestyle/fitness/5-morning-habits-to-reduce-joint-pain-and-stiffness-in-winter-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:15 IST (iso: 2026-11-20T04:45:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/morning-habits-to-reduce-joint-pain_1b9449948fb2be7af84e06d70d64fd87.jpeg?w=1200&dpr=1.0 -->
 
-भारत सरकार ने नैफेड से दालों की खरीद सीमा 80 प्रतिशत घटा दी है। इससे कारोबारियों को अधिक स्टॉक लेने की अनुमति मिलेगी। इस कदम का उद्देश्य बाजार में जमाखोरी रोकना है। दालों की जमाखोरी रोकने के लिए सरकार सख्त: नैफेड से खरीद की सीमा 80 फीसदी घटाई, कारोबारी ले सकेंगे कितना स्टॉक?
+सर्दियों में सुबह उठने पर जोड़ों में जकड़न आम समस्या है। घुटनों, हाथों और कमर के दर्द से राहत पाने के लिए पांच सरल सुबह की आदतें अपनानी चाहिए। Morning Habits to Reduce Joint Pain: इस लेख में जानें सर्दियों में सुबह उठते ही जोड़ों में दर्द और जकड़न होने के कारण, साथ ही 5 ऐसी आसान आदतों के बारे में, जिन्हें अपनाकर आप घुटनों, हाथों और कमर के दर्द से राहत पा सकते हैं।
 
-### [आधी से अधिक सीटों पर बाहरी को मौका देगी भाजपा, सिख बिरादरी और मालवा क्षेत्र के लिए रणनीति क्या?](https://www.amarujala.com/india-news/punjab-assembly-election-2027-bjp-strategy-other-party-leaders-malwa-region-sikh-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 04:22 IST (iso: 2026-11-19T22:52:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/punjab-bjp_85bf50c8dd463f14e1f83d8d9538af4e.jpeg?w=1200&dpr=1.0 -->
+### [83% मोबाइल नंबरों पर अब भी एक्टिव नहीं है TRAI की यह खास सर्विस, स्पैम कॉल्स से बचने के लिए ऐसे](https://www.amarujala.com/technology/tech-diary/trai-dnd-service-block-spam-calls-sms-1909-activation-guide-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:14 IST (iso: 2026-11-20T04:44:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/04/28/dnd-mode-on-mobile_9c75cd9d271d6288799e9d78630b9742.jpeg -->
 
-भाजपा पंजाब विधानसभा चुनाव 2027 में आधी से अधिक सीटों पर बाहरी नेताओं को मौका देगी। पार्टी सिख बिरादरी और मालवा क्षेत्र के लिए अलग रणनीति बना रही है। पंजाब चुनाव: आधी से अधिक सीटों पर बाहरी को मौका देगी भाजपा, सिख बिरादरी और मालवा क्षेत्र के लिए रणनीति क्या?
+ट्राई की नई रिपोर्ट के अनुसार सिर्फ 16.64% मोबाइल कनेक्शन पर डीएनडी सेवा सक्रिय है। इसका मतलब है कि 83% यूजर्स अभी भी स्पैम कॉल्स और मैसेज से परेशान हैं। TRAI DND Service: दिनभर आने वाली फालतू मार्केटिंग कॉल्स और मैसेज से ज्यादातर लोग परेशान रहते हैं, फिर भी करोड़ों यूजर्स ने सरकारी DND सुविधा ऑन नहीं की है। TRAI की नई तिमाही रिपोर्ट में सामने आया है कि सिर्फ 16.64% कनेक्शन पर ही DND दर्ज है।
 
-### [कैश कांड पर जस्टिस यशवंत वर्मा ने लोकसभा को लिखी चिट्ठी, कहा- ‘मैं निर्दोष, आरोप निराधार’](https://www.abplive.com/news/india/justice-yashwant-verma-writes-to-lok-sabha-general-secretary-says-i-am-innocent-3217083)
-*ABP Live (India)* - Nov 19, 23:41 IST (iso: 2026-11-19T18:11:27+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/19/14423fa22d9176026f720840251f05e017951122509821126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [मेडिकल की पढ़ाई कर रहे छात्रों के लिए खुशखबरी: अब सरकार भरेगी परीक्षा फीस, किन विद्यार्थियों को](https://www.amarujala.com/jobs/maharashtra-government-waives-rs-38-crore-exam-fees-for-medical-students-from-drought-hit-areas-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:11 IST (iso: 2026-11-20T04:41:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/madakal-chhatara-ka-parakashha-fasa-mafa_51124874a6d238aa2cb9e1487932368e.jpeg?w=1200&dpr=1.0 -->
 
-इलाहाबाद हाई कोर्ट के पूर्व न्यायाधीश जस्टिस यशवंत वर्मा ने लोकसभा महासचिव को अपना इस्तीफा भेजा है। उन्होंने पत्र में कहा कि न्यायाधीश पद से हटाने की कार्यवाही अब निष्प्रभावी हो जाएगी। उन्होंने आरोपों को निराधार बताया और अपनी निर्दोषी का दावा किया। इलाहाबाद हाई कोर्ट के पूर्व न्यायाधीश जस्टिस यशवंत वर्मा ने लोकसभा महासचिव को गुरुवार को अपना इस्तीफा भेजा है.
+महाराष्ट्र सरकार ने सूखा प्रभावित तालुकों में पढ़ रहे मेडिकल छात्रों की परीक्षा फीस माफ करने का निर्णय लिया है। यह राहत सर्दियों के सत्र 2026 के लिए स्नातक और स्नातकोत्तर पाठ्यक्रमों के पात्र विद्यार्थियों को दी जा रही है। सरकार का यह कदम वित्तीय बोझ कम करने के उद्देश्य से लिया गया है। महाराष्ट्र सरकार ने सूखा प्रभावित तालुकों के मेडिकल छात्रों को बड़ी राहत दी है।
 
-### [मालिकों की कैद से निकले, सिस्टम के चक्रव्यूह में फंसे मजदूर! आजादी के बाद भी नहीं मिला इंसाफ?](https://www.abplive.com/news/india/labour-exploitation-in-india-nccebl-press-conference-reveals-situations-3217077)
-*ABP Live (India)* - Nov 19, 23:10 IST (iso: 2026-11-19T17:40:12+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/19/bf3a9f8cee24bc466a75ca9ebffda6831795109967545120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [चक्रवात अकवान का लैंडफॉल शुरू, अगले दो घंटे तक चलेगी प्रक्रिया; आंध्र और ओडिशा में अलर्ट](https://www.amarujala.com/live/india-news/cyclone-akvan-live-updates-likely-to-cross-andhra-pradesh-odisha-coasts-near-gopalpur-by-forenoon-imd-2026-11-20)
+*Amar Ujala Breaking* - Nov 20, 10:01 IST (iso: 2026-11-20T04:31:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/cakaravata-akavana-ka-thasataka_9ecc57838872f334b139d8c1d26eff39.jpeg?w=1200&dpr=1.0 -->
 
-बंधुआ मजदूरी से मुक्त हुए मजदूर अब भी शोषण के चक्रव्यूह में फंसे हैं। बच्चों से ईंटें ढुलवाई गईं और मजदूरी नहीं मिली। कुछ परिवारों की बेटियों को जबरन दूसरे घरों में काम करने भेजा गया। मुक्ति के बाद भी इनकी मुश्किलें खत्म नहीं हुईं। जिस उम्र में बच्चों के हाथों में किताबें होनी चाहिए थीं, उस उम्र में उनसे ईंटें ढुलवाई गईं.
+चक्रवात अकवान का आंध्र प्रदेश और ओडिशा के तटों पर लैंडफॉल शुरू हो गया है। भारतीय मौसम विज्ञान विभाग के अनुसार यह प्रक्रिया अगले दो घंटों तक जारी रहेगी। गोपालपुर के पास तटीय क्षेत्रों में भारी बारिश और तेज हवाओं का अलर्ट जारी किया गया है। चक्रवात अकवान का लैंडफॉल शुरू, अगले दो घंटे तक चलेगी प्रक्रिया; आंध्र और ओडिशा में अलर्ट।
+
+### [बेडरूम को देना है 5-स्टार होटल जैसा लुक? अपनाएं ये 7 आसान होम डेकोर टिप्स!](https://www.amarujala.com/lifestyle/home-decor-tips-7-easy-ways-to-make-your-bedroom-look-like-a-luxury-hotel-2026-11-19)
+*Amar Ujala National* - Nov 20, 10:00 IST (iso: 2026-11-20T04:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/luxury-bedroom-decor-tips_23018b7282d5ef126afa50371de6b251.jpeg?w=1200&dpr=1.0 -->
+
+साधारण बेडरूम को लग्जरी होटल जैसा दिखाने के लिए सात सरल होम डेकोर टिप्स अपनाई जा सकती हैं। बेडशीट, पर्दे, कुशन, लाइटिंग और फर्नीचर के सही चयन से कमरे का सौंदर्य बढ़ता है। इन छोटे बदलावों से बिना बड़े खर्च के कमरे को आकर्षक बनाया जा सकता है। Home Decor Tips: अपने साधारण बेडरूम को दें 5-स्टार होटल जैसा लग्जरी लुक।
+
+### [रोज सुबह गुनगुना पानी पीने के 5 जबरदस्त फायदे, पाचन से लेकर वजन कंट्रोल तक मिलेंगे ये लाभ](https://www.amarujala.com/photo-gallery/lifestyle/fitness/5-amazing-benefits-of-drinking-warm-water-daily-in-hindi-2026-11-20)
+*Amar Ujala National* - Nov 20, 09:57 IST (iso: 2026-11-20T04:27:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/amazing-benefits-of-drinking-warm-water_17d3e9a25c62e995b487b5727191f543.jpeg?w=1200&dpr=1.0 -->
+
+रोजाना सुबह गुनगुना पानी पीने से पाचन तंत्र में सुधार होता है और वजन नियंत्रण में मदद मिलती है। सर्दियों के मौसम में यह आदत शरीर को गर्म रखने और स्वास्थ्य बनाए रखने में सहायक साबित होती है। नियमित सेवन से कई स्वास्थ्य संबंधी समस्याओं से राहत मिल सकती है। Amazing Benefits of Drinking Warm Water: इस लेख में जानें रोज सुबह गुनगुना पानी पीने के 5 बड़े फायदे, ताकि सर्दी के मौसम में आपको किसी तहरह की परेशानी न हो।
+
+### [आसाराम को हाईकोर्ट से राहत, पैरोल मामले में गिरफ्तारी पर रोक बरकरार; इस बात का दिया हवाला](https://www.amarujala.com/rajasthan/jodhpur/rajasthan-high-court-stays-asaram-arrest-in-parole-surrender-case-2026-11-20)
+*Amar Ujala Breaking* - Nov 20, 09:56 IST (iso: 2026-11-20T04:26:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/04/aasarama-ka-mal-20-thana-ka-paral_fd66b79dd502c2ef3199962a867dfb6e.jpeg?w=1200&dpr=1.0 -->
+
+राजस्थान हाईकोर्ट ने आसाराम की गिरफ्तारी पर अगली सुनवाई तक रोक लगाई। यह मामला पैरोल के बाद समय पर जेल न आने से जुड़ा है। अदालत ने मौजूदा स्थिति को बनाए रखने का निर्देश दिया। राजस्थान हाईकोर्ट ने पैरोल अवधि समाप्त होने के बाद निर्धारित समय पर जेल में सरेंडर नहीं करने के मामले में आसाराम की गिरफ्तारी पर अगली सुनवाई तक रोक बरकरार रखी है।
+
+### [यूजर्स को कैसी लगी धनुष की फिल्म की कहानी? ममूटी और साई पल्लवी को लेकर कही ये बात](https://www.amarujala.com/entertainment/south-cinema/om-operation-mole-x-review-what-users-say-about-dhanush-film-praise-sai-pallavi-and-mammootty-2026-11-20)
+*Amar Ujala National* - Nov 20, 09:54 IST (iso: 2026-11-20T04:24:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/oma_50ffc19cca4a6577eb17df954b9b4c1e.jpeg?w=1200&dpr=1.0 -->
+
+राजकुमार पेरियासामी की फिल्म 'ऑपरेशन मोल' सिनेमाघरों में रिलीज हुई। यह वास्तविक घटनाओं पर आधारित काल्पनिक क्राइम-थ्रिलर है। ममूटी और साई पल्लवी इसमें मुख्य भूमिका में हैं। आज सिनेमाघरों में रिलीज हुई फिल्म 'ऑपरेशन मोल' के निर्देशक राजकुमार पेरियासामी हैं। यह फिल्म वास्तविक जीवन की घटनाओं से प्रेरित है, जिन्हें एक काल्पनिक क्राइम-थ्रिलर कहानी में पिरोया गया है। यूजर्स को कैसी लगी धनुष की फिल्म की कहानी?
+
+### [गेम के लिए 43 सैनिकों ने बढ़ाई सेवा, बदले में मिली चार दिन की छुट्टी, क्या है अनोखा ऑफर?](https://www.amarujala.com/technology/tech-diary/gta-6-craze-43-us-soldiers-extend-military-service-four-days-off-2026-11-20)
+*Amar Ujala National* - Nov 20, 09:53 IST (iso: 2026-11-20T04:23:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/jatae-6-ka-karaja_260097a1fe607aab86d2d7b58aa0bafc.jpeg -->
+
+फोर्ट स्टीवर्ट में 43 सैनिकों ने जीटीए 6 के लिए सेवा बढ़ाई। बदले में उन्हें चार दिन की छुट्टी मिली। इस योजना के तहत दो से छह साल की अतिरिक्त सेवा चुनी गई। जीटीए 6 के लिए 43 सैनिकों ने बढ़ाई सेवा। बदले में मिली चार दिन की छुट्टी। फोर्ट स्टीवर्ट में शुरू हुई थी योजना।
+
+### [शादी में दावत के बीच लात-घूंसे-कुर्सियां चलीं: बुलंदशहर में बराती भिड़े, मेहमानों में मची भगदड़](https://www.amarujala.com/uttar-pradesh/bulandshahr/a-video-of-a-physical-altercation-at-a-wedding-ceremony-in-bulandshahr-district-has-gone-viral-2026-11-20)
+*Amar Ujala Breaking* - Nov 20, 09:52 IST (iso: 2026-11-20T04:22:44+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/shatha-samaraha-ma-marapata_d0073bdf3e2f5115d34b35e129caef51.jpeg?w=1200&dpr=1.0 -->
+
+बुलंदशहर में शादी समारोह के दौरान बराती और घरातियों के बीच मारपीट हुई। मामूली कहासुनी से शुरू हुई झगड़ा में कुर्सियां उछाली गईं। मेहमानों में भगदड़ मच गई और स्थिति तनावपूर्ण हो गई। बुलंदशहर जिले में एक शादी समारोह के दौरान मामूली कहासुनी के बाद बराती और घरातियों के बीच जमकर मारपीट हुई। शादी में दावत के बीच लात-घूंसे-कुर्सियां चलीं: बुलंदशहर में बराती भिड़े, मेहमानों में मची भगदड़।
+
+### [राजस्थान में कांग्रेस का बड़ा फेरबदल, 4 नए सहप्रभारी सचिव नियुक्त, संजना जाटव-दिव्या मदेरणा की](https://www.amarujala.com/rajasthan/congress-reshuffles-rajasthan-team-appoints-four-new-co-in-charge-secretaries-sanjana-jatav-removed-2026-11-20)
+*Amar Ujala Breaking* - Nov 20, 09:38 IST (iso: 2026-11-20T04:08:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/rajasathana_c765adc8ed3614822a7b09442a106481.jpeg?w=1200&dpr=1.0 -->
+
+कांग्रेस ने राजस्थान संगठन में बड़ा फेरबदल किया। तीन सहप्रभारी सचिवों को हटाकर चार नए नेताओं को जिम्मेदारी दी गई। संजना जाटव और दिव्या मदेरणा सहित तीन नेताओं को राष्ट्रीय सचिव पद से हटाया गया। कांग्रेस ने राजस्थान संगठन में तीन सहप्रभारी सचिवों को हटाकर 4 नए नेताओं को जिम्मेदारी सौंपी है। प्रदेश के छह नेताओं को राष्ट्रीय सचिव बनाकर दूसरे राज्यों का प्रभार दिया है।
 
 ---
 
 ## अमेरिका
 
-### [अमेरिकी बैंक जेपी मॉर्गन पर साइबर हमला: 16 हजार ग्राहकों का डेटा लीक होने की आशंका, कौन सी सेवाएं](https://www.amarujala.com/world/jpmorgan-cyberattack-third-party-vendors-customer-data-leak-16000-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 05:21 IST (iso: 2026-11-19T23:51:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/jpmorgan-cyberattack_0a3a83b502ca08238a5d9570c5f872a7.jpeg?w=1200&dpr=1.0 -->
+### [अमेरिकी कोर्ट में आज पहली बार आमने-सामने होंगे निखिल गुप्ता और आतंकी पन्नू, कितनी मिलेगी सजा?](https://hindi.news18.com/world/america-nikhil-gupta-gurpatwant-pannun-us-court-sentencing-hearing-10999818.html)
+*News18 Hindi (World)* - Nov 20, 10:36 IST (iso: 2026-11-20T05:06:53+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/nikhil-gupta-gurpatwant-pannun-us-court-sentencing-hearing-2026-11-b5edd2ecefb3ee6496c80a8c01aaae27-1200x800.jpg -->
 
-जेपी मॉर्गन पर साइबर हमले में 16000 ग्राहकों का डेटा लीक होने की आशंका है। तीसरे पक्ष के वेंडरों के माध्यम से यह घटना हुई। अमेरिकी बैंक जेपी मॉर्गन पर साइबर हमला: 16 हजार ग्राहकों का डेटा लीक होने की आशंका, कौन सी सेवाएं बनी निशाना?
+न्यूयॉर्क में पन्नू की हत्या की साजिश के मामले में निखिल गुप्ता की सजा सुनवाई होगी। अभियोजक 24 साल की जेल मांग रहे हैं। बचाव पक्ष 12 साल की सजा चाहता है। अमेरिकी कोर्ट में आज निखिल गुप्ता और खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नू पहली बार आमने-सामने हो सकते हैं. मामला 2023 में न्यूयॉर्क में पन्नू की हत्या की नाकाम साजिश से जुड़ा है.
+
+### [टेक आउटेज के बीच ट्रंप का फैसला: कर्स्टन डेविस बनीं अमेरिकी कार्यवाहक साइबर प्रमुख, केर्नक्रॉस की](https://www.amarujala.com/world/us-tech-outages-singes-trump-administration-kirsten-davies-appointed-new-cyber-director-us-news-2026-11-20)
+*Amar Ujala World* - Nov 20, 09:39 IST (iso: 2026-11-20T04:09:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/karasatana-e-davasa_a21d71840b9eb332e6fc8d6e6f33e01b.jpeg?w=1200&dpr=1.0 -->
+
+ट्रंप प्रशासन ने कर्स्टन डेविस को नया साइबर डायरेक्टर नियुक्त किया। यह फैसला हाल के टेक आउटेज के बीच लिया गया। डेविस केर्नक्रॉस से जुड़ी हैं और साइबर सुरक्षा की जिम्मेदारी संभालेंगी। टेक आउटेज के बीच ट्रंप का फैसला: कर्स्टन डेविस बनीं अमेरिकी कार्यवाहक साइबर प्रमुख, केर्नक्रॉस की।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [न्यूजीलैंड 6 विकेट पर 310 रन के पार, आकाश ने फिलिप्स को किया आउट; निकोल्स 150 रन के करीब](https://www.amarujala.com/live/cricket/india-vs-new-zealand-1st-test-day-2-live-score-commentary-live-updates-in-hindi-wellington-full-scorecard-live-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 05:18 IST (iso: 2026-11-19T23:48:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/ind-vs-nz-india-vs-new-zealand-ind-vs-nz-live-score-india-vs-new-zealand-2nd-test-ind-vs-nz-day_686caf85f87a8ef3bb22b80d43a047b1.jpeg?w=1200&dpr=1.0 -->
+### [भाजपा विधायक सपम कुंजकेश्वर का निधन, 67 साल की उम्र में ली अंतिम सांस](https://www.amarujala.com/india-news/manipur-s-bjp-mla-sapam-kunjakeswor-dies-in-delhi-at-67-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:30 IST (iso: 2026-11-20T05:00:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/bharataya-janata-parata-bhajapa-vathhayaka-sapama-kajakashavara-saha_6a50abcdd5c7619cd1b828978d441fd9.jpeg?w=1200&dpr=1.0 -->
+
+मणिपुर के भाजपा विधायक सपम कुंजकेश्वर का दिल्ली के अस्पताल में निधन हो गया। उनका देहांत 67 वर्ष की आयु में हुआ। वे राज्य की राजनीति में सक्रिय थे। भाजपा विधायक सपम कुंजकेश्वर का निधन, 67 साल की उम्र में ली अंतिम सांस।
+
+### [130 पर भारत को पहला झटका, शतक से चूके यशस्वी, मैट हेनरी को मिली पहली सफलता](https://www.amarujala.com/live/cricket/india-vs-new-zealand-1st-test-day-2-live-score-commentary-live-updates-in-hindi-wellington-full-scorecard-live-2026-11-20)
+*Amar Ujala Breaking* - Nov 20, 10:16 IST (iso: 2026-11-20T04:46:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/ind-vs-nz-india-vs-new-zealand-ind-vs-nz-live-score-india-vs-new-zealand-2nd-test-ind-vs-nz-day_6a214b9102cab1fb1966b5ebdee21a1d.jpeg?w=1200&dpr=1.0 -->
 
 भारत और न्यूजीलैंड के बीच दूसरे टेस्ट मैच के दूसरे दिन न्यूजीलैंड 310 रन पर छह विकेट खो चुका है। आकाश ने फिलिप्स को आउट किया। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज का आज दूसरा दिन है। भारत ने टॉस जीतकर पहले गेंदबाजी का फैसला किया था।
 
-### [डर के साये में जी रहीं पाकिस्तान की लड़कियां: जींस वाली तस्वीरों से किया जा रहा ब्लैकमेल, ऑनर](https://www.amarujala.com/world/pakistan-girls-blackmailed-over-ordinary-jeans-and-top-photos-death-threats-from-families-amid-honour-killing-2026-11-20)
-*Amar Ujala National* - Nov 20, 05:15 IST (iso: 2026-11-19T23:45:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/tasavara-vayaral-karana-ka-thhamaka-thakara-lugdhakaya-sa-maga-raha-pasa_344d873676acce97a76efaadccca95ee.jpeg?w=1200&dpr=1.0 -->
+### [ऑपरेशन सिंदूर के बाद पहली बार पाकिस्तानी मंत्री का दौरा, क्या हैं इसके मायने?](https://www.amarujala.com/india-news/musadik-masood-arrives-delhi-sco-civilisations-dialogue-forum-first-minister-visit-after-operation-sindoor-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:14 IST (iso: 2026-11-20T04:44:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/masathaka-masatha-malka_a2a4c37d5f343763d447b13ac4f004f3.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान में लड़कियां जींस पहनने की तस्वीरों से ब्लैकमेल का शिकार हो रही हैं। उन्हें ऑनर किलिंग का खतरा भी सामने है। डर के साये में इनका जीवन व्यतीत हो रहा है। डर के साये में जी रहीं पाकिस्तान की लड़कियां: जींस वाली तस्वीरों से किया जा रहा ब्लैकमेल, ऑनर किलिंग का खतरा।
+ऑपरेशन सिंदूर के बाद पाकिस्तान के मंत्री मुसादिक मसूद ने दिल्ली में पहली बार दौरा किया। वे सिविलाइजेशंस डायलॉग फोरम में शामिल हुए, जो दोनों देशों के बीच तनाव के बाद एक उल्लेखनीय कदम है। भारत पहुंचे मुसादिक मसूद: ऑपरेशन सिंदूर के बाद पहली बार पाकिस्तानी मंत्री का दौरा, क्या हैं इसके मायने?
 
-### [शादी के सीजन में गुलजार होंगे बाजार: 7.5 लाख करोड़ के कारोबार की उम्मीद, 1.25 करोड़ को मिलेगा रोजगार](https://www.amarujala.com/business/business-diary/india-wedding-season-52-lakh-weddings-7-5-lakh-crore-business-cait-2026-11-20)
-*Amar Ujala National* - Nov 20, 05:02 IST (iso: 2026-11-19T23:32:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/marriage_c1311d168b2e6d4ee12a9447bce806e7.jpeg?w=1200&dpr=1.0 -->
+### [आयुष्मान कार्ड से हर साल मिलेगा 5 लाख रुपये तक मुफ्त इलाज, जानें कौन बनवा सकता है और कैसे करें आवेदन](https://www.amarujala.com/photo-gallery/utility/ayushman-card-get-free-treatment-up-to-5-lakh-rupees-every-year-know-eligibility-and-application-process-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:12 IST (iso: 2026-11-20T04:42:40+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/aayashhamana-karada-sa-mafata-ilja-kasa-malta-ha_7313c0b943ebbf01bbc536ed7a60e98e.jpeg?w=1200&dpr=1.0 -->
 
-शादी के सीजन में बाजारों में 7.5 लाख करोड़ रुपये के कारोबार की उम्मीद है। इससे 1.25 करोड़ लोगों को रोजगार मिलने का अनुमान है। बाजार इस मौसम में गुलजार होंगे। शादी के सीजन में गुलजार होंगे बाजार: 7.5 लाख करोड़ के कारोबार की उम्मीद, 1.25 करोड़ को मिलेगा रोजगार।
+आयुष्मान भारत योजना के तहत पात्र परिवारों को प्रतिवर्ष पाँच लाख रुपये तक की कैशलेस चिकित्सा सुविधा प्रदान की जाती है। योजना में शामिल होने के लिए परिवार की आय और अन्य पात्रता मानदंडों को पूरा करना आवश्यक है। आवेदन प्रक्रिया ऑनलाइन पोर्टल या नजदीकी अस्पताल के माध्यम से की जा सकती है। आयुष्मान भारत योजना के तहत पात्र परिवारों को हर साल 5 लाख रुपये तक के कैशलेस इलाज की सुविधा मिलती है इस योजना में कौन कार्ड बनवा सकता है, किन अस्पतालों में इलाज मिलता है और आवेदन कैसे करें जैसी पूरी जानकारी आप यहां जान सकते हैं।
 
-### [2017 में म्यांमार में रोहिंग्याओं पर टूटा था कहर: अब अंतरराष्ट्रीय अदालत ने सुनाया फैसला? जानें](https://www.amarujala.com/world/myanmar-found-guilty-of-rohingya-genocide-historic-icj-verdict-holds-country-responsible-for-2017-atrocities-2026-11-20)
-*Amar Ujala World* - Nov 20, 04:41 IST (iso: 2026-11-19T23:11:13+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/2017-ma-rahagayao-ka-kana-halta-sa-gajarana-paugdha-tha_d0b1101f0e43d4101dedebbe99623d9f.jpeg?w=1200&dpr=1.0 -->
+### [पहली पारी में लिए तीन रिव्यू और सभी रहे विफल, डीआरएस लेने में किस तरह गिल से हुई चूक?](https://www.amarujala.com/cricket/cricket-news/new-zealand-vs-india-shubman-gill-s-drs-calls-proved-costly-for-india-in-the-first-test-against-nz-2026-11-20)
+*Amar Ujala Breaking* - Nov 20, 09:57 IST (iso: 2026-11-20T04:27:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/gill_06a9425dc495203681ca97a75ed7f30d.jpeg?w=1200&dpr=1.0 -->
 
-2017 में म्यांमार में रोहिंग्याओं पर हुए कहर का मामला अंतरराष्ट्रीय अदालत में सुना गया है। अदालत ने इस मामले में अपना फैसला सुनाया है। पूरा मामला और फैसले की विस्तृत जानकारी उपलब्ध है। 2017 में म्यांमार में रोहिंग्याओं पर टूटा था कहर: अब अंतरराष्ट्रीय अदालत ने सुनाया फैसला? जानें पूरा मामला। जानें।
+शुभमन गिल ने वेलिंगटन टेस्ट के पहले दो दिनों में तीन बार डीआरएस लिया। तीनों बार फैसला भारत के खिलाफ आया। न्यूजीलैंड के खिलाफ इस प्रयास से कोई लाभ नहीं मिला। भारतीय टेस्ट कप्तान शुभमन गिल न्यूजीलैंड के खिलाफ वेलिंगटन टेस्ट में डीआरएस लेने के मामले में बुरी तरह नाकाम रहे। शुरुआती दो दिनों में उन्होंने तीन बार रिव्यू लिया और तीनों फैसले भारत के खिलाफ गए।
 
-### [पाकिस्तान-अमेरिका में दोगुनी होगी हिंदू आबादी, 2070 तक भारत में होंगे 1.29 अरब हिंदू](https://www.amarujala.com/world/pew-report-says-pakistan-us-hindu-populations-set-to-double-by-2070-india-hindu-population-to-reach-billions-2026-11-20)
-*Amar Ujala World* - Nov 20, 04:15 IST (iso: 2026-11-19T22:45:14+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/bharata-ma-katana-ha-jaega-hatha-oura-kaya-ghataga-hasasathara_e9721145cbfd795af6d43ca058a677a4.jpeg?w=1200&dpr=1.0 -->
+### [भारतीय शेयर बाजार में गिरावट, सेंसेक्स-निफ्टी लुढ़के, जानिए किस स्तर पर सूचकांक](https://www.amarujala.com/business/bazaar/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-11-20)
+*Amar Ujala Breaking* - Nov 20, 09:37 IST (iso: 2026-11-20T04:07:22+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/25/sensex-opening-bell_925c65ded87bbcab4427438a03c15220.jpeg?w=1200&dpr=1.0 -->
 
-प्यू रिपोर्ट के अनुसार 2070 तक पाकिस्तान और अमेरिका में हिंदू आबादी दोगुनी हो जाएगी। उसी समय भारत में हिंदू आबादी 1.29 अरब तक पहुंचेगी। प्यू रिपोर्ट में अनुमान: पाकिस्तान-अमेरिका में दोगुनी होगी हिंदू आबादी, 2070 तक भारत में होंगे 1.29 अरब हिंदू।
-
-### [उत्तर भारत के मैदानी इलाकों में घना कोहरा: ठंड ने भी दिखाए तेवर, आज ओडिशा के तट से टकराएगा तूफान](https://www.amarujala.com/india-news/cyclone-akwan-odisha-landfall-trains-cancelled-north-india-dense-fog-weather-alert-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 04:06 IST (iso: 2026-11-19T22:36:19+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/rainfall_d36f6861e265b8554c2ae726ccc30119.jpeg?w=1200&dpr=1.0 -->
-
-उत्तर भारत के मैदानी इलाकों में घना कोहरा छाया हुआ है। ठंड भी तेज हो गई है। तूफान अकवान आज ओडिशा के तट से टकराएगा। उत्तर भारत के मैदानी इलाकों में घना कोहरा: ठंड ने भी दिखाए तेवर, आज ओडिशा के तट से टकराएगा तूफान।
-
-### [खालिस्तानी आतंकी पन्नू की हत्या की साजिश: निखिल गुप्ता को आज सजा सुनाएगी अमेरिकी कोर्ट, होगी कितने](https://www.amarujala.com/world/indian-national-nikhil-gupta-to-be-sentenced-today-gurpatwant-singh-pannun-murder-for-hire-plot-us-court-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 03:51 IST (iso: 2026-11-19T22:21:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/nikhil-gupta-pannun-case_47f2728716b929d77c4645053f7efacb.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी अदालत आज निखिल गुप्ता को सजा सुनाएगी। वह खालिस्तानी आतंकी पन्नू की हत्या की साजिश में शामिल था। अदालत जेल की अवधि तय करेगी। खालिस्तानी पन्नू की हत्या की साजिश का मामला: निखिल गुप्ता को आज सजा सुनाएगी अमेरिकी कोर्ट, क्या होगी जेल? खालिस्तानी आतंकी पन्नू की हत्या की साजिश: निखिल गुप्ता को आज सजा सुनाएगी अमेरिकी कोर्ट, होगी कितने।
-
-### [नदी के कायाकल्प के लिए दिल्ली में जुटेंगे देश-विदेश के विशेषज्ञ, संधू करेंगे आयोजन का उद्घाटन](https://www.amarujala.com/delhi-ncr/yamuna-samvad-today-experts-from-across-the-country-and-abroad-to-gather-in-delhi-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 01:49 IST (iso: 2026-11-19T20:19:38+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/1_7ffd8611d5e0e8a6b2b1121c9c0026ca.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली में यमुना नदी के पुनर्जीवन और बाढ़ क्षेत्र विकास पर अंतरराष्ट्रीय विशेषज्ञों का सम्मेलन होगा। इस आयोजन का उद्घाटन मुख्यमंत्री संधू करेंगे। दिल्ली में यमुना नदी के कायाकल्प और उसके बाढ़ क्षेत्र को पर्यावरण के अनुकूल विकसित करने के लिए देश-विदेश के विशेषज्ञ एक मंच पर जुटेंगे। नदी के कायाकल्प के लिए दिल्ली में जुटेंगे देश-विदेश के विशेषज्ञ, संधू करेंगे आयोजन का उद्घाटन।
-
-### [पीएम तारिक रहमान ने शेख हसीना पर लगाए आरोप, कहा- अवामी लीग के लोग फैला रहे अशांति](https://www.amarujala.com/world/bangladesh-pm-tarique-rahman-accuses-awami-league-destabilising-country-sheikh-hasina-2026-11-20)
-*Amar Ujala World* - Nov 20, 01:34 IST (iso: 2026-11-19T20:04:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/tarique-rahman_4de5e66676b772bd39f17b1a2f7b5006.jpeg?w=1200&dpr=1.0 -->
-
-बांग्लादेश के पीएम तारिक रहमान ने शेख हसीना पर देश में अशांति फैलाने का आरोप लगाया। उन्होंने अवामी लीग के समर्थकों को हिंसा के लिए जिम्मेदार ठहराया। पीएम तारिक रहमान ने शेख हसीना पर लगाए आरोप, कहा- अवामी लीग के लोग फैला रहे अशांति।
-
-### [इस देश ने भारतीयों के लिए बंद की वीजा फ्री एंट्री, आवेदन में गड़बड़ी हुई तो पैसे भी गए, जानें अचानक](https://hindi.news18.com/world/south-asia-malaysia-ends-visa-free-entry-for-indians-from-jan-1-2027-non-refundable-fees-myvisa-rules-why-policy-changed-10999352.html)
-*News18 Hindi (World)* - Nov 19, 23:55 IST (iso: 2026-11-19T18:25:23+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Malaysia-Visa-Free-Entry-End-2026-11-72ed6cfd11dcf41f08dc4d8b4ceadf25-1200x800.jpg -->
-
-एक एशियाई देश ने 1 जनवरी 2027 से भारतीयों की 30 दिन की वीजा मुक्त प्रवेश सुविधा समाप्त कर दी है। आवेदन 1 दिसंबर 2026 से शुरू होंगे। फीस वापसी की कोई व्यवस्था नहीं है। यात्रियों को पूरे सफर के लिए मेडिकल इंश्योरेंस लेने की सलाह दी गई है। एक एशियाई देश ने 1 जनवरी 2027 से भारतीयों की 30 दिन वाली बिना वीजा एंट्री बंद करने का ऐलान किया है.
+भारतीय शेयर बाजार में गिरावट दर्ज की गई। सेंसेक्स और निफ्टी दोनों सूचकांक गिर गए। बाजार में नकारात्मक रुझान देखने को मिला और निवेशकों में चिंता फैली। द बोनस मार्केट अपडेट: भारतीय शेयर बाजार में गिरावट, सेंसेक्स-निफ्टी लुढ़के, जानिए किस स्तर पर सूचकांक।
 
 ---
 
 ## यूरोप और रूस
 
-### [यूक्रेन को नाटो और यूरोपीय संघ की सदस्यता मिले; रूस से बातचीत के लिए क्या प्रस्ताव रखा?](https://www.amarujala.com/world/zelenskyy-demand-ukraine-seeks-nato-and-eu-membership-what-proposal-has-he-made-for-talks-with-russia-2026-11-20)
-*Amar Ujala World* - Nov 20, 02:46 IST (iso: 2026-11-19T21:16:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/jalsaka_1ce0558a6b92682740c576a07eb2be9a.jpeg?w=1200&dpr=1.0 -->
+### [फ्लाइंग सिख की जयंती पर नेताओं ने दी श्रद्धांजलि, मनोहर लाल खट्टर बोले- प्रेरक यात्रा याद रहेगी](https://www.amarujala.com/sports/leaders-pay-tribute-on-the-milkha-singh-birth-anniversary-social-media-reaction-yogi-adityanath-rekha-gupta-2026-11-20)
+*Amar Ujala National* - Nov 20, 10:28 IST (iso: 2026-11-20T04:58:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/milkha-singh_13e101c7aab20bc5a45a6879444cb7ff.jpeg?w=1200&dpr=1.0 -->
 
-जेलेंस्की ने यूक्रेन को नाटो और यूरोपीय संघ की पूर्ण सदस्यता की मांग रखी है। उन्होंने रूस से बातचीत के लिए एक नया प्रस्ताव भी पेश किया है। जेलेंस्की की मांग: यूक्रेन को नाटो और यूरोपीय संघ की सदस्यता मिले; रूस से बातचीत के लिए क्या प्रस्ताव दिया? यूक्रेन को नाटो और यूरोपीय संघ की सदस्यता मिले; रूस से बातचीत के लिए क्या प्रस्ताव रखा?
+महान धावक मिल्खा सिंह की जयंती पर कई नेताओं ने श्रद्धांजलि दी। योगी आदित्यनाथ ने उनकी यात्रा को प्रेरक बताया। मिल्खा सिंह को फ्लाइंग सिख के नाम से जाना जाता था। भारत के महान धावक मिल्खा सिंह का आज जन्मदिन है। 20 नवंबर 1929 को जन्मे मिल्खा सिंह फ्लाइंग सिख के नाम से मशहूर थे। उनकी जयंती पर उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ से लेकर कई नेताओं ने श्रद्धांजलि दी है।
 
-### [चीन में पुतिन को किस बात का था खतरा?: वियतनाम में रूस ने उतारे परमाणु बॉम्बर, ताइवान तक हलचल, क्या](https://www.amarujala.com/world/putin-secure-his-position-before-going-china-why-russia-deploy-nuclear-bombers-in-vietnam-what-was-plan-2026-11-20)
-*Amar Ujala Breaking* - Nov 20, 01:49 IST (iso: 2026-11-19T20:19:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/patana-ka-cana-yatara-sa-pahal-vayatanama-pahaca-nprsa-ka-paramanae-vamana_7701993620f3e8160435fd8b56ac9ad3.jpeg?w=1200&dpr=1.0 -->
+### [शिकागो में राहुल गांधी का पुतिन प्रेम क्यों उमड़ा? पश्चिमी देश पर लगाया भारत को न समझने का आरोप](https://www.amarujala.com/world/why-did-rahul-gandhi-s-affection-putin-surface-in-chicago-he-accused-western-nations-failing-understand-india-2026-11-20)
+*Amar Ujala World* - Nov 20, 09:53 IST (iso: 2026-11-20T04:23:23+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/rahal-gathha-na-kaya-ka-patana-ka-tarafa_6080155c9d84680b2605b63651b1f45b.jpeg?w=1200&dpr=1.0 -->
 
-पुतिन के चीन दौरे से पहले रूस ने वियतनाम में परमाणु बॉम्बर तैनात किए। इससे ताइवान क्षेत्र में सुरक्षा स्थिति को लेकर चिंता बढ़ गई है। चीन जाने से पहले पुतिन ने कर लिया था सुरक्षा का इंतजाम?: वियतनाम में क्यों उतारे परमाणु बॉम्बर, क्या था प्लान? चीन में पुतिन को किस बात का था खतरा?: वियतनाम में रूस ने उतारे परमाणु बॉम्बर, ताइवान तक हलचल, क्या।
-
-### [जिस न्यूक्लियर सिस्टम को पुतिन ने मारी थी लात, उसमें चीन शामिल होगा? अमेरिका-रूस के बीच अब तक क्या](https://hindi.news18.com/world/america-apec-nuclear-talks-trump-pushes-trilateral-deal-us-china-russia-after-new-start-collapse-10999111.html)
-*News18 Hindi (World)* - Nov 19, 23:43 IST (iso: 2026-11-19T18:13:04+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-America-Russia-Nuclear-Deal-2026-11-ecd77c02f18e7580998cacf65049d41f-1200x800.jpg -->
-
-न्यू स्टार्ट संधि समाप्त होने के बाद अमेरिका, रूस और चीन के परमाणु हथियारों पर कोई कानूनी रोक नहीं बची। शेन्जेन में ट्रंप, पुतिन और जिनपिंग की पहली ट्रायलेटरल बैठक हुई। ट्रंप नए समझौते में चीन को शामिल करना चाहते हैं, जबकि जिनपिंग अपने हथियारों पर सीमा मानने से इनकार करते हैं। न्यू स्टार्ट संधि खत्म हो गई है और अब अमेरिका, रूस और चीन के परमाणु हथियारों पर कोई कानूनी रोक नहीं है.
-
-### [गोल्डी बराड़ बना कनाडा का नंबर 1 भगोड़ा, 2.5 लाख डॉलर का इनाम घोषित; FBI की टॉप 10 लिस्ट में पहले से](https://hindi.news18.com/world/rest-of-world-goldy-brar-tops-canada-25-most-wanted-list-with-250000-canadian-dollar-reward-after-fbi-bounty-10999227.html)
-*News18 Hindi (World)* - Nov 19, 22:39 IST (iso: 2026-11-19T17:09:18+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Goldy_Brar_Canada-2026-11-e649e70fe4d1e1c29aa5a160570cbd03-1200x800.jpg -->
-
-गोल्डी बराड़ कनाडा के 25 मोस्ट वांटेड भगोड़ों की सूची में पहले नंबर पर आ गया है। विनिपेग पुलिस ने उसकी गिरफ्तारी पर 2.5 लाख कनाडाई डॉलर का इनाम घोषित किया है। यह इनाम सुक्खा दुनेके हत्याकांड से जुड़ा है और 2 नवंबर 2027 तक मान्य रहेगा। बोलो प्रोग्राम और विनिपेग पुलिस ने उसकी गिरफ्तारी पर 2.5 लाख कनाडाई डॉलर यानी करीब 1.63 करोड़ रुपये का इनाम रखा है.
+शिकागो में राहुल गांधी ने पुतिन के प्रति अपना समर्थन व्यक्त किया। उन्होंने पश्चिमी देशों पर भारत को न समझने का आरोप लगाया। यह बयान अमेरिका में दिए गए एक कार्यक्रम में आया। अमेरिका: शिकागो में राहुल गांधी का पुतिन प्रेम क्यों उमड़ा? पश्चिमी देश पर लगाया भारत को न समझने का आरोप।
 
 ---
 

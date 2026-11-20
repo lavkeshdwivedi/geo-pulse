@@ -1,44 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 20, 2026 05:28 IST
-
----
-
-## Asia-Pacific
-
-### [Who says dress shoes have to be boring? This Japanese brand's premium line gives them a modern twist](https://www.channelnewsasia.com/style-beauty/dress-shoes-onitsuka-6512521)
-*Channel News Asia* - Nov 20, 04:57 IST (iso: 2026-11-19T23:27:58+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--BN48221J--/c_crop,h_543,w_966,x_2,y_95/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/17/the-onitsuka.jpeg?itok=11CCPaF5 -->
-
-Onitsuka Tiger has launched a premium dress shoe line that blends Japanese craftsmanship with sporty design elements. The collection reinterprets classic silhouettes to prioritize comfort without sacrificing formal aesthetics. This approach aims to integrate traditional dress shoes into everyday wardrobes. The brand positions these shoes as a practical alternative to standard formal footwear. Dressing up doesn’t mean having to sacrifice comfort.
-
-### [Myanmar guilty of genocide against Rohingya, says top UN court](https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece)
-*The Hindu (International)* - Nov 19, 21:35 IST (iso: 2026-11-19T16:05:06+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/2bcbi6/article71719663.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-19%20154330.png -->
-
-The International Court of Justice ruled Myanmar guilty of genocide against the Rohingya. This is the first such finding in the court's eighty-year history. The decision addresses the 2017 crackdown. Victims may now seek justice. The ruling by the top UN court was the first time in its 80-year history that ICJ judges have determined that a state committed genocide, and is likely to be seen as justice for Rohingya victims of Myanmar’s brutal 2017 crackdown.
-
-### [Awami League’s violent comeback bid affirms its ‘terrorist’ label](https://asiatimes.com/2026/11/awami-leagues-violent-comeback-bid-affirms-its-terrorist-label/)
-*Asia Times* - Nov 19, 15:35 IST (iso: 2026-11-19T10:05:30+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Hasina-Bangladesh-.jpg -->
-
-Armed attackers burned the home of Awami League lawmaker SM Zilany in Tungipara on November 17. They also set fire to the local police station. The violence followed a checkpoint operation and reinforced the party's designation as a terrorist organization. On November 17, armed attackers set fire to the residence of Bangladesh’s ruling party lawmaker SM Zilany in Tungipara, Gopalganj, the ancestral political stronghold of ousted prime minister Sheikh Hasina’s family.
-
-### [Trump’s $23 billion battleship faces sinking odds](https://asiatimes.com/2026/11/trumps-23-billion-battleship-faces-sinking-odds/)
-*Asia Times* - Nov 19, 08:48 IST (iso: 2026-11-19T03:18:31+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-BBGX-Battleship.jpg -->
-
-Trump’s $23 billion battleship proposal faces budget hurdles. Democrats are preparing to control Congress. Defense officials debate whether to fund a new capital ship or next-generation destroyers to counter China’s expanding naval fleet. As Democrats prepare to take over Congress and defense budget cuts loom, US President Donald Trump’s proposed battleship has sparked debate over whether to invest in a costly capital ship or next-generation destroyers to counter China’s growing fleet.
-
-### [Xi’s APEC speech casts China as Asia’s open door as US closes](https://asiatimes.com/2026/11/xis-apec-speech-casts-china-as-asias-open-door-as-us-closes/)
-*Asia Times* - Nov 18, 12:19 IST (iso: 2026-11-18T06:49:16+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Xi-Jinping-China-APEC-Summit-Shenzhen-November-19_2026.jpg -->
-
-Xi Jinping addressed the APEC summit in Shenzhen, positioning China as an open alternative to US trade restrictions. He targeted Southeast Asian leaders and multinational executives, contrasting Washington's tariff deals and semiconductor controls with Beijing's stability. The speech aimed to secure economic partnerships without directly naming the United States. Taking the podium first at the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, Chinese President Xi Jinping responded to Washington’s transactional tariff deals, revived Quad security alignment and tightening semiconductor controls with a calculated counter-pitch aimed squarely at wavering Southeast Asian capitals and multinational executives.
+**Updated:** November 20, 2026 10:39 IST
 
 ---
 
 ## Europe & Russia
+
+### [Trump, Xi and Putin release 'peace declaration' from unprecedented summit](https://www.channelnewsasia.com/world/china-russia-us-peace-declaration-nuclear-trilateral-talks-6565716)
+*Channel News Asia* - Nov 20, 08:46 IST (iso: 2026-11-20T03:16:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--S0Xjl-X---/c_crop,h_562,w_1000,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/APTOPIX_Trump_China_64671.jpg?itok=Zesy7sDT -->
+
+Trump, Xi, and Putin issued a four-point peace declaration from a Shenzhen summit. The leaders pledged to reform the United Nations, increase global fuel supplies, and limit international court jurisdiction over state officials. They also reaffirmed that a nuclear war cannot be won. The leaders "reaffirmed that a nuclear war cannot be won and must never be fought" and pledged to advance United Nations reforms, increase supplies of fuel products for all countries, and uphold the immunity enjoyed by state officials in international courts.
+
+### [Shenzhen summit opens door to great power peace dialogue](https://asiatimes.com/2026/11/shenzhen-summit-opens-door-to-great-power-peace-dialogue/)
+*Asia Times* - Nov 20, 00:02 IST (iso: 2026-11-19T18:32:21+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Trump_Xi_Putin.jpg -->
+
+US, Chinese, and Russian presidents met in Shenzhen to issue a joint peace declaration. The four-point document calls for United Nations reform, increased petroleum product supplies, and limits on international court jurisdiction. The leaders also committed to dialogue on reducing nuclear risks. The presidents of the United States, China and Russia have issued a four-point peace declaration calling for United Nations (UN) reform, more refined petroleum products, limits on the jurisdiction of international courts and dialogue on reducing nuclear risks.
 
 ### [Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea](https://www.thehindu.com/news/international/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/article71721511.ece)
 *The Hindu (International)* - Nov 19, 22:59 IST (iso: 2026-11-19T17:29:22+00:00)
@@ -84,53 +62,19 @@ Ukraine struck the Crimean bridge, severing the peninsula's only direct road and
 
 ### [Civilian casualties in 2026 already far exceed previous years’ tolls](https://news.un.org/feed/view/en/story/2026/11/1168828)
 *UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-04.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-04.jpg/image560x340cropped.jpg -->
 
 The UN Human Rights Monitoring Mission in Ukraine reported that 2026 civilian casualties already exceed all previous years since the February 2022 invasion. The toll has risen dramatically compared to prior periods. This marks the highest recorded civilian death rate of the conflict to date. This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.
 
 ---
 
-## Middle East & Africa
-
-### [How U.S. controls flow of advanced tech, chip, and compute to China](https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece)
-*The Hindu (International)* - Nov 19, 21:12 IST (iso: 2026-11-19T15:42:46+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/askg53/article71721227.ece/alternates/LANDSCAPE_1200/iStock-2183527075.jpg -->
-
-The U. S. Commerce Department barred foreign data centers using American AI chips from serving clients in twenty-four countries. The rule targets China, Iran, and Russia. It took effect on November 16, 2026. The move restricts advanced compute access. Commerce Department, on November 16, 2026, issued an interim final rule barring data centre operators outside of the U. S., equipped with advanced American AI chips, from providing cloud service to businesses in two dozen countries, including China, Iran and Russia.
-
-### [Iranian Doctor Accused Of Spreading 'False Information' About Single Mothers](https://www.rferl.org/a/iran-families-single-mothers-doctor-prosecution/33901325.html)
-*Radio Free Europe / Liberty* - Nov 19, 12:11 IST (iso: 2026-11-19T06:41:17+00:00)
-<!-- image: https://gdb.rferl.org/c78ea04c-5d83-464a-2967-08df3ee80755_w1200_h630.jpg -->
-
-Iranian authorities opened a case against an obstetrician for spreading false information. She posted a video noting a rise in single mothers. The action signals a crackdown on discussions of social change within the country. An Iranian obstetrician posted a video online in which she said she's observed a growing number of single women having babies. Iranian authorities reacted by opening a case against her for allegedly spreading misinformation, suggesting an effort to suppress discussions of social change.
-
-### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
-*The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5 -->
-
-The International Court of Justice is set to rule on Myanmar's genocide charges against the Rohingya. U. S. officials may sanction judges, including Nobel laureate Navi Pillay, if the ruling goes against the Myanmar government. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.
-
-### [Diversifying funding was supposed to protect civil society: It did not](https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/)
-*Global Voices* - Nov 18, 08:10 IST (iso: 2026-11-18T02:40:58+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/11/Activists-hold-a-candlelight-vigil-to-commemorate-those-who-lost-their-lives-in-post-election-violence-in-Tanzania-in-Nairobi-Kenya-on-November-20-2025-Credit_-Anadolu_Lucas-Mukasa-800x450.webp -->
-
-A survey of 195 organizations across 68 countries reveals that diversified funding strategies failed to protect civil society groups from the global aid retreat. The crisis extends beyond immediate financial shortfalls, indicating deeper structural vulnerabilities. Organizations that spent years building varied revenue streams are still facing severe operational challenges and instability. A survey of 195 organisations across more than 68 countries shows how the global aid retreat is hitting organizations that spent years building diverse funding streams.
-
-### [Tit-For-Tat US-Iran Attacks Persist As Peace Deal Remains Elusive](https://www.rferl.org/a/iran-qeshm-oman-bahrain-kuwait-attacks/33900601.html)
-*Radio Free Europe / Liberty* - Nov 18, 05:38 IST (iso: 2026-11-18T00:08:29+00:00)
-<!-- image: https://gdb.rferl.org/77ccb5c3-8b4e-4c0e-8ef0-7ebddac42a82_cx0_cy6_cw0_w1200_h630.jpg -->
-
-US and Iranian forces exchanged air strikes across the Middle East. Gulf nations warned residents about incoming projectiles. Regional mediators attempted to halt the conflict. The low-level fighting continued despite diplomatic efforts to secure a peace deal. US and Iranian forces exchanged tit-for-tat air strikes in the Middle East, while Gulf nations issued fresh warnings to residents amid threats of incoming projectiles as the currently low-level conflict continued to brew despite the efforts of regional mediators.
-
-### [Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda](https://news.un.org/feed/view/en/story/2026/11/1168827)
-*UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image770x420cropped.jpg -->
-
-The World Health Organization reported that Ebola cases in the Democratic Republic of the Congo have more than doubled in three months. Over 11,000 cases and 5,400 deaths are now confirmed. The outbreak spans 67 health zones across eight provinces. The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said on Tuesday.
-
----
-
 ## Americas
+
+### [Nations still seeking deeper fossil fuel cuts as climate summit enters final day](https://www.thehindu.com/sci-tech/energy-and-environment/cop-31-nations-still-seeking-deeper-fossil-fuel-cuts-as-climate-summit-enters-final-day/article71722951.ece)
+*The Hindu (International)* - Nov 20, 08:29 IST (iso: 2026-11-20T02:59:53+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/bqcet6/article71722971.ece/alternates/LANDSCAPE_1200/APTOPIX_Climate_COP31_Turkey_96533.jpg -->
+
+The annual climate summit ends on 20 November without major progress on fossil fuel reduction. The two-week event largely failed to advance significant ideas for moving away from coal, oil, and gas. These fuels continue to drive intense heat waves, droughts, and floods globally. The two-week annual summit, which has so far largely failed to advance any big ideas to move away from fossil fuels.
 
 ### [Ambition goes missing as fossil fuel language drops from draft deal](https://news.un.org/feed/view/en/story/2026/11/1168839)
 *UN News* - Nov 19, 17:30 IST (iso: 2026-11-19T12:00:00+00:00)
@@ -164,9 +108,69 @@ An eight-year-old Haitian boy returned to his family in California. He was detai
 
 ### [The push to protect warming oceans reaches the negotiating table](https://news.un.org/feed/view/en/story/2026/11/1168824)
 *UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_COP31_02.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_COP31_02.jpg/image560x340cropped.jpg -->
 
 Scientists and communities presented nature protection strategies at COP31. These included using seawater to identify marine life and applying Indigenous knowledge for wildfire prevention. Negotiators still struggle to bridge divisions over fossil fuels and climate finance funding gaps. From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday.
+
+---
+
+## World
+
+### [Xi’s new rulebook for local Party leaders](https://www.thehindu.com/news/international/xis-new-rulebook-for-local-party-leaders/article71719828.ece)
+*The Hindu (International)* - Nov 19, 23:34 IST (iso: 2026-11-19T18:04:49+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/u758ep/article71721678.ece/alternates/LANDSCAPE_1200/2026-11-19T105447Z_482010835_RC2XQOA0ELPL_RTRMADP_3_APEC-SUMMIT.JPG -->
+
+The Communist Party published new rules centralising control over provincial, city, and county committees. The update sharpens the focus on Xi Jinping Thought and expands the remit of local bodies. It also tightens personnel controls and places a new emphasis on discipline. The Communist Party has published rules that centralise control over every provincial, city and county committee with four shifts from the 2015 version: a sharper focus on Xi Jinping Thought, a wider remit for local committees, tighter control over personnel and a new emphasis on discipline.
+
+---
+
+## Asia-Pacific
+
+### [Awami League’s violent comeback bid affirms its ‘terrorist’ label](https://asiatimes.com/2026/11/awami-leagues-violent-comeback-bid-affirms-its-terrorist-label/)
+*Asia Times* - Nov 19, 15:35 IST (iso: 2026-11-19T10:05:30+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Hasina-Bangladesh-.jpg -->
+
+Armed attackers burned the home of Awami League lawmaker SM Zilany in Tungipara on November 17. They also set fire to the local police station. The violence followed a checkpoint operation and reinforced the party's designation as a terrorist organization. On November 17, armed attackers set fire to the residence of Bangladesh’s ruling party lawmaker SM Zilany in Tungipara, Gopalganj, the ancestral political stronghold of ousted prime minister Sheikh Hasina’s family.
+
+### [Trump’s $23 billion battleship faces sinking odds](https://asiatimes.com/2026/11/trumps-23-billion-battleship-faces-sinking-odds/)
+*Asia Times* - Nov 19, 08:48 IST (iso: 2026-11-19T03:18:31+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-BBGX-Battleship.jpg -->
+
+Trump’s $23 billion battleship proposal faces budget hurdles. Democrats are preparing to control Congress. Defense officials debate whether to fund a new capital ship or next-generation destroyers to counter China’s expanding naval fleet. As Democrats prepare to take over Congress and defense budget cuts loom, US President Donald Trump’s proposed battleship has sparked debate over whether to invest in a costly capital ship or next-generation destroyers to counter China’s growing fleet.
+
+---
+
+## Middle East & Africa
+
+### [Iranian Doctor Accused Of Spreading 'False Information' About Single Mothers](https://www.rferl.org/a/iran-families-single-mothers-doctor-prosecution/33901325.html)
+*Radio Free Europe / Liberty* - Nov 19, 12:11 IST (iso: 2026-11-19T06:41:17+00:00)
+<!-- image: https://gdb.rferl.org/c78ea04c-5d83-464a-2967-08df3ee80755_w1200_h630.jpg -->
+
+Iranian authorities opened a case against an obstetrician for spreading false information. She posted a video noting a rise in single mothers. The action signals a crackdown on discussions of social change within the country. An Iranian obstetrician posted a video online in which she said she's observed a growing number of single women having babies. Iranian authorities reacted by opening a case against her for allegedly spreading misinformation, suggesting an effort to suppress discussions of social change.
+
+### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
+*The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5 -->
+
+The International Court of Justice is set to rule on Myanmar's genocide charges against the Rohingya. U. S. officials may sanction judges, including Nobel laureate Navi Pillay, if the ruling goes against the Myanmar government. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.
+
+### [Diversifying funding was supposed to protect civil society: It did not](https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/)
+*Global Voices* - Nov 18, 08:10 IST (iso: 2026-11-18T02:40:58+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/11/Activists-hold-a-candlelight-vigil-to-commemorate-those-who-lost-their-lives-in-post-election-violence-in-Tanzania-in-Nairobi-Kenya-on-November-20-2025-Credit_-Anadolu_Lucas-Mukasa-800x450.webp -->
+
+A survey of 195 organizations across 68 countries reveals that diversified funding strategies failed to protect civil society groups from the global aid retreat. The crisis extends beyond immediate financial shortfalls, indicating deeper structural vulnerabilities. Organizations that spent years building varied revenue streams are still facing severe operational challenges and instability. A survey of 195 organisations across more than 68 countries shows how the global aid retreat is hitting organizations that spent years building diverse funding streams.
+
+### [Tit-For-Tat US-Iran Attacks Persist As Peace Deal Remains Elusive](https://www.rferl.org/a/iran-qeshm-oman-bahrain-kuwait-attacks/33900601.html)
+*Radio Free Europe / Liberty* - Nov 18, 05:38 IST (iso: 2026-11-18T00:08:29+00:00)
+<!-- image: https://gdb.rferl.org/77ccb5c3-8b4e-4c0e-8ef0-7ebddac42a82_cx0_cy6_cw0_w1200_h630.jpg -->
+
+US and Iranian forces exchanged air strikes across the Middle East. Gulf nations warned residents about incoming projectiles. Regional mediators attempted to halt the conflict. The low-level fighting continued despite diplomatic efforts to secure a peace deal. US and Iranian forces exchanged tit-for-tat air strikes in the Middle East, while Gulf nations issued fresh warnings to residents amid threats of incoming projectiles as the currently low-level conflict continued to brew despite the efforts of regional mediators.
+
+### [Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda](https://news.un.org/feed/view/en/story/2026/11/1168827)
+*UN News* - Nov 17, 17:30 IST (iso: 2026-11-17T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image560x340cropped.jpg -->
+
+The World Health Organization reported that Ebola cases in the Democratic Republic of the Congo have more than doubled in three months. Over 11,000 cases and 5,400 deaths are now confirmed. The outbreak spans 67 health zones across eight provinces. The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said on Tuesday.
 
 ---
 
