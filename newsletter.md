@@ -1,23 +1,47 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 19, 2026 23:18 IST
+**Updated:** November 20, 2026 05:28 IST
 
 ---
 
-## World
+## Asia-Pacific
 
-### [COP31 negotiators publish revised deal draft with no mention of fossil fuels](https://www.thehindu.com/news/international/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels/article71721240.ece)
-*The Hindu (International)* - Nov 19, 22:20 IST (iso: 2026-11-19T16:50:30+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/su9tn0/article71721295.ece/alternates/LANDSCAPE_1200/2026-11-19T105447Z_1620255703_RC2XQOAG608G_RTRMADP_3_CLIMATE-COP31.JPG -->
+### [Who says dress shoes have to be boring? This Japanese brand's premium line gives them a modern twist](https://www.channelnewsasia.com/style-beauty/dress-shoes-onitsuka-6512521)
+*Channel News Asia* - Nov 20, 04:57 IST (iso: 2026-11-19T23:27:58+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--BN48221J--/c_crop,h_543,w_966,x_2,y_95/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/17/the-onitsuka.jpeg?itok=11CCPaF5 -->
 
-COP31 negotiators released a revised draft that dropped references to fossil fuels, electrification, and adaptation finance. The text is weaker than the November 16 version. It is not the final version. The changes weaken core climate commitments. The revised deal, ‌which is not expected to be the final version, was weaker on some of the conference's central topics. fossil fuels, electrification and adaptation finance.
+Onitsuka Tiger has launched a premium dress shoe line that blends Japanese craftsmanship with sporty design elements. The collection reinterprets classic silhouettes to prioritize comfort without sacrificing formal aesthetics. This approach aims to integrate traditional dress shoes into everyday wardrobes. The brand positions these shoes as a practical alternative to standard formal footwear. Dressing up doesn’t mean having to sacrifice comfort.
+
+### [Myanmar guilty of genocide against Rohingya, says top UN court](https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece)
+*The Hindu (International)* - Nov 19, 21:35 IST (iso: 2026-11-19T16:05:06+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/2bcbi6/article71719663.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-19%20154330.png -->
+
+The International Court of Justice ruled Myanmar guilty of genocide against the Rohingya. This is the first such finding in the court's eighty-year history. The decision addresses the 2017 crackdown. Victims may now seek justice. The ruling by the top UN court was the first time in its 80-year history that ICJ judges have determined that a state committed genocide, and is likely to be seen as justice for Rohingya victims of Myanmar’s brutal 2017 crackdown.
+
+### [Awami League’s violent comeback bid affirms its ‘terrorist’ label](https://asiatimes.com/2026/11/awami-leagues-violent-comeback-bid-affirms-its-terrorist-label/)
+*Asia Times* - Nov 19, 15:35 IST (iso: 2026-11-19T10:05:30+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Hasina-Bangladesh-.jpg -->
+
+Armed attackers burned the home of Awami League lawmaker SM Zilany in Tungipara on November 17. They also set fire to the local police station. The violence followed a checkpoint operation and reinforced the party's designation as a terrorist organization. On November 17, armed attackers set fire to the residence of Bangladesh’s ruling party lawmaker SM Zilany in Tungipara, Gopalganj, the ancestral political stronghold of ousted prime minister Sheikh Hasina’s family.
+
+### [Trump’s $23 billion battleship faces sinking odds](https://asiatimes.com/2026/11/trumps-23-billion-battleship-faces-sinking-odds/)
+*Asia Times* - Nov 19, 08:48 IST (iso: 2026-11-19T03:18:31+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-BBGX-Battleship.jpg -->
+
+Trump’s $23 billion battleship proposal faces budget hurdles. Democrats are preparing to control Congress. Defense officials debate whether to fund a new capital ship or next-generation destroyers to counter China’s expanding naval fleet. As Democrats prepare to take over Congress and defense budget cuts loom, US President Donald Trump’s proposed battleship has sparked debate over whether to invest in a costly capital ship or next-generation destroyers to counter China’s growing fleet.
+
+### [Xi’s APEC speech casts China as Asia’s open door as US closes](https://asiatimes.com/2026/11/xis-apec-speech-casts-china-as-asias-open-door-as-us-closes/)
+*Asia Times* - Nov 18, 12:19 IST (iso: 2026-11-18T06:49:16+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Xi-Jinping-China-APEC-Summit-Shenzhen-November-19_2026.jpg -->
+
+Xi Jinping addressed the APEC summit in Shenzhen, positioning China as an open alternative to US trade restrictions. He targeted Southeast Asian leaders and multinational executives, contrasting Washington's tariff deals and semiconductor controls with Beijing's stability. The speech aimed to secure economic partnerships without directly naming the United States. Taking the podium first at the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, Chinese President Xi Jinping responded to Washington’s transactional tariff deals, revived Quad security alignment and tightening semiconductor controls with a calculated counter-pitch aimed squarely at wavering Southeast Asian capitals and multinational executives.
 
 ---
 
 ## Europe & Russia
 
 ### [Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea](https://www.thehindu.com/news/international/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/article71721511.ece)
-*The Hindu (International)* - Nov 19, 22:17 IST (iso: 2026-11-19T16:47:17+00:00)
+*The Hindu (International)* - Nov 19, 22:59 IST (iso: 2026-11-19T17:29:22+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/9r2ine/article71721532.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_72778.jpg -->
 
 A third Ukrainian strike in four days halted rail traffic on the Kerch Bridge. The attack occurred hours before Berlin talks. Jared Kushner and Steve Witkoff met with Zelenskyy. Over forty European leaders also attended the session. The attack came hours before the start of talks in Berlin between U. S. envoys Jared Kushner and Steve Witkoff and Ukrainian President Volodymyr Zelenskyy alongside more than 40 European leaders who are supporting Ukraine's war effort.
@@ -66,39 +90,11 @@ The UN Human Rights Monitoring Mission in Ukraine reported that 2026 civilian ca
 
 ---
 
-## Asia-Pacific
-
-### [Myanmar guilty of genocide against Rohingya, says top UN court](https://www.thehindu.com/news/international/icj-verdict-on-rohingya-crackdown-killings-in-myanmar/article71719604.ece)
-*The Hindu (International)* - Nov 19, 21:35 IST (iso: 2026-11-19T16:05:06+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/2bcbi6/article71719663.ece/alternates/LANDSCAPE_1200/Screenshot%202026-11-19%20154330.png -->
-
-The International Court of Justice ruled Myanmar guilty of genocide against the Rohingya. This is the first such finding in the court's eighty-year history. The decision addresses the 2017 crackdown. Victims may now seek justice. The ruling by the top UN court was the first time in its 80-year history that ICJ judges have determined that a state committed genocide, and is likely to be seen as justice for Rohingya victims of Myanmar’s brutal 2017 crackdown.
-
-### [Awami League’s violent comeback bid affirms its ‘terrorist’ label](https://asiatimes.com/2026/11/awami-leagues-violent-comeback-bid-affirms-its-terrorist-label/)
-*Asia Times* - Nov 19, 15:35 IST (iso: 2026-11-19T10:05:30+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Hasina-Bangladesh-.jpg -->
-
-Armed attackers burned the home of Awami League lawmaker SM Zilany in Tungipara on November 17. They also set fire to the local police station. The violence followed a checkpoint operation and reinforced the party's designation as a terrorist organization. On November 17, armed attackers set fire to the residence of Bangladesh’s ruling party lawmaker SM Zilany in Tungipara, Gopalganj, the ancestral political stronghold of ousted prime minister Sheikh Hasina’s family.
-
-### [Trump’s $23 billion battleship faces sinking odds](https://asiatimes.com/2026/11/trumps-23-billion-battleship-faces-sinking-odds/)
-*Asia Times* - Nov 19, 08:48 IST (iso: 2026-11-19T03:18:31+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-BBGX-Battleship.jpg -->
-
-Trump’s $23 billion battleship proposal faces budget hurdles. Democrats are preparing to control Congress. Defense officials debate whether to fund a new capital ship or next-generation destroyers to counter China’s expanding naval fleet. As Democrats prepare to take over Congress and defense budget cuts loom, US President Donald Trump’s proposed battleship has sparked debate over whether to invest in a costly capital ship or next-generation destroyers to counter China’s growing fleet.
-
-### [Xi’s APEC speech casts China as Asia’s open door as US closes](https://asiatimes.com/2026/11/xis-apec-speech-casts-china-as-asias-open-door-as-us-closes/)
-*Asia Times* - Nov 18, 12:19 IST (iso: 2026-11-18T06:49:16+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Xi-Jinping-China-APEC-Summit-Shenzhen-November-19_2026.jpg -->
-
-Xi Jinping addressed the APEC summit in Shenzhen, positioning China as an open alternative to US trade restrictions. He targeted Southeast Asian leaders and multinational executives, contrasting Washington's tariff deals and semiconductor controls with Beijing's stability. The speech aimed to secure economic partnerships without directly naming the United States. Taking the podium first at the Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, Chinese President Xi Jinping responded to Washington’s transactional tariff deals, revived Quad security alignment and tightening semiconductor controls with a calculated counter-pitch aimed squarely at wavering Southeast Asian capitals and multinational executives.
-
----
-
 ## Middle East & Africa
 
 ### [How U.S. controls flow of advanced tech, chip, and compute to China](https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece)
 *The Hindu (International)* - Nov 19, 21:12 IST (iso: 2026-11-19T15:42:46+00:00)
-<!-- image: https://th-i.thgim.com/public/news/national/miaw7c/article71721227.ece/alternates/LANDSCAPE_1200/iStock-2183527075.jpg -->
+<!-- image: https://th-i.thgim.com/public/news/national/askg53/article71721227.ece/alternates/LANDSCAPE_1200/iStock-2183527075.jpg -->
 
 The U. S. Commerce Department barred foreign data centers using American AI chips from serving clients in twenty-four countries. The rule targets China, Iran, and Russia. It took effect on November 16, 2026. The move restricts advanced compute access. Commerce Department, on November 16, 2026, issued an interim final rule barring data centre operators outside of the U. S., equipped with advanced American AI chips, from providing cloud service to businesses in two dozen countries, including China, Iran and Russia.
 
@@ -136,6 +132,12 @@ The World Health Organization reported that Ebola cases in the Democratic Republ
 
 ## Americas
 
+### [Ambition goes missing as fossil fuel language drops from draft deal](https://news.un.org/feed/view/en/story/2026/11/1168839)
+*UN News* - Nov 19, 17:30 IST (iso: 2026-11-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image770x420cropped.jpg -->
+
+The latest draft climate agreement for COP31 removed explicit language on phasing out fossil fuels. This deletion occurred as ministers and the Presidency attempted to bridge sharp differences before the summit's scheduled close. Civil society groups expressed serious concern over the missing commitment. The change signals a significant retreat in the text's ambition regarding energy transition. A cat named Ambition went missing again at COP31 on Thursday.
+
 ### [In Shenzhen, great-power pageantry masks a hardening tech divide](https://asiatimes.com/2026/11/in-shenzhen-great-power-pageantry-masks-a-hardening-tech-divide/)
 *Asia Times* - Nov 19, 15:52 IST (iso: 2026-11-19T10:22:57+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Donald-Trump-Xi-Jinping-China-US-Shenzhen-Summit.jpg -->
@@ -165,16 +167,6 @@ An eight-year-old Haitian boy returned to his family in California. He was detai
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_COP31_02.jpg/image770x420cropped.jpg -->
 
 Scientists and communities presented nature protection strategies at COP31. These included using seawater to identify marine life and applying Indigenous knowledge for wildfire prevention. Negotiators still struggle to bridge divisions over fossil fuels and climate finance funding gaps. From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday.
-
----
-
-## Global / Multilateral
-
-### [‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering](https://news.un.org/feed/view/en/story/2026/11/1168819)
-*UN News* - Nov 16, 17:30 IST (iso: 2026-11-16T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/03/26806/image560x340cropped.jpg -->
-
-The World Health Organization reported that national antimicrobial resistance plans have doubled, yet implementation remains weak. Gaps in testing and treatment leave billions of people vulnerable. Few countries are delivering on their commitments to address the growing threat. More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to new data released by the World Health Organization (WHO) on Monday.
 
 ---
 
