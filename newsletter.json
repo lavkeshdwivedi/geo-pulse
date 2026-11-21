@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-11-21T03:01:05.260196+00:00",
+  "generated_at": "2026-11-21T10:40:39.646839+00:00",
   "article_count": 50,
-  "total_unique_count": 259,
+  "total_unique_count": 260,
   "digest": {
-    "en": "Trump threatens US tech firms with penalties for building datacenters abroad. Russia simultaneously rejects EU foreign policy chief Kallas in Ukraine talks, claiming her involvement would collapse negotiations.",
-    "hi": "पुतिन, ट्रंप और जिनपिंग की मुलाकात यूरोप को बाहर का रास्ता दिखा रही है। इसी बीच अमेरिकी वित्त मंत्री ने चीन को पुराने चिप्स बेचने पर नए प्रतिबंध लगाने से इनकार कर दिया।"
+    "en": "Trump threatens US tech firms with penalties for building datacenters abroad. Simultaneously, Russia revives pre-war demands as Washington shifts focus to European security. Kyiv scrambles for alternative river crossings amid intensified barrages.",
+    "hi": "NASA के वैज्ञानिक चौंक गए जब Voyager-1, 25.9 अरब किलोमीटर दूर, अचानक सिग्नल बंद कर दिया। इस घटना ने अंतरिक्ष एजेंसियों को पुनः जांच के लिए मजबूर किया, जबकि अन्य देशों ने भी अपनी उपग्रहों की स्थिति पर सवाल उठाए।"
   },
   "articles": [
+    {
+      "title": "China commits to low-carbon electrification and help for others to improve",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-11-21T09:47:57+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/9e68aee336577ce0e768fd142e23caf3b9396a18/240_71_6107_4885/master/6107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f916ca3daa8d1f8633cbd2173c6e7a83",
+      "summary": "China pledged to accelerate low-carbon electrification and assist other nations in doing the same. Wang Yi made the commitment at the Cop31 summit. The goal aligns with broader calls for countries to derive 35% of their energy from electricity by 2035. Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035Cop31 live – latest updatesChina is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said. Wang Yi, a professor of energy and environment policy.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Russia dusts off its pre-war demands as the U.S. raises discussing European security at Ukraine",
+      "url": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-21T09:11:27+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/bcjh3y/article71727646.ece/alternates/LANDSCAPE_1200/2026-11-19T085800Z_1002453498_RC2WQOAY3YUU_RTRMADP_3_APEC-SUMMIT-TRUMP.JPG",
+      "summary": "U. S. envoys proposed discussing broader European security arrangements. Ukraine and Western allies fear this plays into Moscow’s hands. The move risks weakening NATO cohesion. Russia has revived its pre-war demands in response to the shifting diplomatic focus. The proposal to discuss broader security arrangements for Europe was floated by Donald Trump’s envoys, and that has worried Ukraine and its Western allies, who fear it will play into Moscow’s hands and weaken NATO.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why Takaichi should stick to her guns on Taiwan",
+      "url": "https://asiatimes.com/2026/11/why-takaichi-should-stick-to-her-guns-on-taiwan/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-21T06:49:19+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2025/12/Japan-Sanae-Takaichi-.jpg",
+      "summary": "Prime Minister Sanae Takaichi stated that Chinese force against Taiwan could trigger Japan’s Self-Defense Forces. The remark drew heavy criticism and economic pressure from China. She faces calls to maintain her stance despite the diplomatic fallout. On November 7, 2025, Japanese Prime Minister Sanae Takaichi was pressed repeatedly in parliament about a possible Chinese invasion or naval blockade of Taiwan.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Pakistan Climate Minister arrives in Delhi to attend SCO Civilisations Dialogue Forum",
+      "url": "https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-21T06:25:50+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/u6jfsl/article71723374.ece/alternates/LANDSCAPE_1200/HXimSxhbkAACr1J.jpg",
+      "summary": "Pakistan’s Climate Minister arrived in Delhi for the SCO Civilisations Dialogue Forum. Prime Minister Modi will inaugurate the event at Purana Quila. Pakistan currently chairs the SCO Council of Heads of State for the 2026-27 period. Pakistan is the current chair of the SCO Council of Heads of State (CHS) (SCO_CHS) for the period of 2026-27; the event, which will be inaugurated by PM Modi, will be held at Delhi’s iconic Purana Quila (Old Fort), a 16th Century fort built by Emperor Humayun.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
     {
       "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
@@ -44,18 +92,6 @@
       "translations": {}
     },
     {
-      "title": "NIA sends request to UAE to probe any Indian footprints of copilot of flydubai flight who attacked",
-      "url": "https://www.thehindu.com/news/national/nia-sends-request-to-uae-to-probe-any-indian-footprints-of-copilot-of-flydubai-flight-who-attacked-smit-machchhar/article71725060.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-20T16:29:57+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/3iggyi/article71289764.ece/alternates/LANDSCAPE_1200/PTI04_28_2025_000042A.jpg",
-      "summary": "India's NIA requested UAE cooperation to probe a flydubai copilot. The officer attacked a passenger during a flight. Investigators seek to identify any Indian contacts in his circle. The NIA awaits documents and permission to join the investigation. “Who did the co-pilot come in contact with? Are there any Indian footprints of his friends circle who could be lurking. We will go ahead as soon as we get documents and permission from UAE to join the investigation,” says NIA chief.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Pontoon Bridges, Hydrofoils, Tunnels: Barraged By Russia, Kyiv Rushes For Alternative River",
       "url": "https://www.rferl.org/a/ukraine-kyiv-bridges-russia-missile-river-dnieper/33902654.html",
       "source": "Radio Free Europe / Liberty",
@@ -63,18 +99,6 @@
       "published_at": "2026-11-20T15:39:29+00:00",
       "image_url": "https://gdb.rferl.org/4fb2302d-97c4-4e5f-ae68-3f5e0ec851a7_w1200_h630.jpg",
       "summary": "Russia is targeting bridges spanning the Dnieper River in Kyiv. Ukrainian officials are developing alternatives to keep the city connected. Plans include pontoon bridges, hydrofoils, and tunnels. The goal is to prevent the capital from being cut in half. Russia is deliberately targeting the vital bridges that span the Dnieper River -- and link the two sides of Kyiv. Ukrainian officials are scrambling to come up with alternatives in case the city is completely cut in half.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Russia says role for EU's Kallas in Ukraine talks with Moscow would lead to their collapse",
-      "url": "https://www.thehindu.com/news/international/russia-says-role-for-eus-kallas-in-ukraine-talks-with-moscow-would-lead-to-their-collapse/article71724468.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-20T15:31:01+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/v1ei0s/article71724602.ece/alternates/LANDSCAPE_1200/2026-11-10T120907Z_881546033_RC2ZKOAJ3F7E_RTRMADP_3_RUSSIA-CSTO.JPG",
-      "summary": "Russia rejected EU foreign policy chief Kaja Kallas for Ukraine negotiations. Moscow's spokesperson called her unsuitable and anti-Russian. The Kremlin stated her involvement would cause talks to collapse immediately. Zakharova told a press briefing in Moscow that Kallas was totally unsuitable to take part in such talks and listed ‌a series of statements from Kallas which she ​said showed the EU official was anti-Russian.",
       "region": "Europe & Russia",
       "language": "en",
       "translations": {}
@@ -88,18 +112,6 @@
       "image_url": "https://gdb.rferl.org/d03dec8c-4af0-41f5-99e0-0db16f6d1f38_cx15_cy4_cw69_w1200_h630.jpg",
       "summary": "Iranian hardliners are pushing for a tanker convoy to break the US naval blockade as oil revenue hits zero by mid-December. They threaten to strike Persian Gulf oil sites if the US fires on the vessels. This escalation risks a direct military confrontation in the region. With Iran’s oil revenue set to hit zero by mid-December, IRGC-linked media and hard-liners are pushing for a tanker convoy to break through the US naval blockade, threatening Persian Gulf oil sites if fired on.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Xi’s new rulebook for local Party leaders",
-      "url": "https://www.thehindu.com/news/international/xis-new-rulebook-for-local-party-leaders/article71719828.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-20T13:47:24+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/u758ep/article71721678.ece/alternates/LANDSCAPE_1200/2026-11-19T105447Z_482010835_RC2XQOA0ELPL_RTRMADP_3_APEC-SUMMIT.JPG",
-      "summary": "The Communist Party published new rules centralising control over local committees. The update sharpens the focus on Xi Jinping Thought and tightens personnel oversight. It also expands local committee authority and emphasises discipline. These changes mark a significant shift from the 2015 version. The Communist Party has published rules that centralise control over every provincial, city and county committee with four shifts from the 2015 version: a sharper focus on Xi Jinping Thought, a wider remit for local committees, tighter control over personnel and a new emphasis on discipline.",
-      "region": "World",
       "language": "en",
       "translations": {}
     },
@@ -145,7 +157,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-20T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image770x420cropped.jpg",
       "summary": "A coalition of countries challenged the proposed COP31 agreement, demanding explicit fossil fuel action. They also called for stronger climate finance commitments. Tensions rose as the Antalya summit neared its close. Negotiators struggled to find a deal acceptable to nearly 200 governments. A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -188,24 +200,12 @@
       "translations": {}
     },
     {
-      "title": "Shenzhen summit opens door to great power peace dialogue",
-      "url": "https://asiatimes.com/2026/11/shenzhen-summit-opens-door-to-great-power-peace-dialogue/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-11-19T18:32:21+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Trump_Xi_Putin.jpg",
-      "summary": "US, Chinese, and Russian presidents met in Shenzhen to issue a joint peace declaration. The four-point document calls for United Nations reform, increased petroleum product supplies, and limits on international court jurisdiction. The leaders also committed to dialogue on reducing nuclear risks. The presidents of the United States, China and Russia have issued a four-point peace declaration calling for United Nations (UN) reform, more refined petroleum products, limits on the jurisdiction of international courts and dialogue on reducing nuclear risks.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Battle to control GPS and radio signals raises civilian safety concerns",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image770x420cropped.jpg",
       "summary": "GPS and radio signals are increasingly blocked or faked, endangering aid convoys, passenger jets, and cargo ships. Civilian safety is declining as these critical navigation systems become unreliable. The disruption affects both conflict zones and open ocean routes. From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions.",
       "region": "World",
       "language": "en",
@@ -217,7 +217,7 @@
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image560x340cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image770x420cropped.jpg",
       "summary": "The latest draft climate agreement for COP31 removed explicit language on phasing out fossil fuels. This deletion occurred as ministers and the Presidency attempted to bridge sharp differences before the summit's scheduled close. Civil society groups expressed serious concern over the missing commitment. The change signals a significant retreat in the text's ambition regarding energy transition. A cat named Ambition went missing again at COP31 on Thursday.",
       "region": "Americas",
       "language": "en",
@@ -308,56 +308,326 @@
       "translations": {}
     },
     {
-      "title": "पुतिन-ट्रंप-जिनपिंग की मुलाकात को रूस ने बताया ऐतिहासिक: यूरोप को दिखाया बाहर का रास्ता, यूक्रेन पर",
-      "url": "https://www.amarujala.com/world/russia-hails-putin-talks-with-trump-and-xi-as-historic-moment-highlights-europe-absence-2026-11-21",
-      "source": "Amar Ujala World",
+      "title": "18 घंटे तबाही मचाएगी बारिश, कमर तक भर जाएगा पानी, संडे को तूफान 'काइल' धरेगा विकराल रूप",
+      "url": "https://hindi.news18.com/world/america-weather-alert-cyclone-kyle-to-hit-us-east-coast-and-canada-with-18-hours-of-torrential-rain-storm-surge-severe-flood-heavy-rain-warning-11002962.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-21T06:47:56+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/14/danalda-tarapa-valthamara-patana-oura-sha-janapaga_ea74136c145f481dcd0a6abb144fb6f4.jpeg?w=1200&dpr=1.0",
-      "summary": "रूस ने पुतिन, ट्रंप और जिनपिंग की मुलाकात को ऐतिहासिक घोषित किया। इसमें यूरोप के अनुपस्थित रहने पर जोर दिया गया, जबकि यूक्रेन पर हमले जारी हैं। पुतिन-ट्रंप-जिनपिंग की मुलाकात को रूस ने बताया ऐतिहासिक: यूरोप को दिखाया बाहर का रास्ता, यूक्रेन पर।",
+      "published_at": "2026-11-21T10:30:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Heavy-Rain-Alert-2026-11-95fc7058248149f74950da8b8ea2b8f2-1200x800.jpg",
+      "summary": "अटलांटिक में तूफान काइल ने 145 किलोमीटर प्रति घंटे की हवाएं और 20 इंच बारिश का अलर्ट जारी किया है। रविवार को निचले इलाकों में बाढ़, बिजली और संचार सेवाएं ठप रहने का अनुमान है। समुद्र में पांच फीट ऊंची लहरें भी उठेंगी। अटलांटिक महासागर से उठ रहा खतरनाक तूफान 'काइल' (Kyle) तटीय इलाकों में भारी तबाही मचाने के लिए तैयार है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "18 घंटे तबाही मचाएगी बारिश, कमर तक भर जाएगा पानी, संडे को तूफान 'काइल' धरेगा विकराल रूप",
+          "summary": "अटलांटिक में तूफान काइल ने 145 किलोमीटर प्रति घंटे की हवाएं और 20 इंच बारिश का अलर्ट जारी किया है। रविवार को निचले इलाकों में बाढ़, बिजली और संचार सेवाएं ठप रहने का अनुमान है। समुद्र में पांच फीट ऊंची लहरें भी उठेंगी। अटलांटिक महासागर से उठ रहा खतरनाक तूफान 'काइल' (Kyle) तटीय इलाकों में भारी तबाही मचाने के लिए तैयार है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "धरती से 25.9 अरब KM दूर पहुंचा Voyager-1, अब अचानक साध ली चुप्पी, NASA के वैज्ञानिक परेशान",
+      "url": "https://hindi.news18.com/world/america-voyager-1-one-light-day-distance-earth-nasa-data-glitch-photogallery-11002635.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-21T09:55:11+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/voyger-2026-11-dc6fb59ab65e19195eb6626c6d42da51-1200x800.jpg",
+      "summary": "नासा का वायजर वन यान धरती से 25.9 अरब किलोमीटर दूर पहुंच गया है। 14 नवंबर से यह यान विज्ञान डेटा नहीं भेज रहा है। इंजीनियर कंप्यूटर की खराबी ठीक करने की कोशिश कर रहे हैं। कैरियर सिग्नल मिल रहा है। NASA का Voyager 1 धरती से 25.9 अरब किलोमीटर दूर पहुंचकर एक लाइट-डे की दूरी पार कर चुका है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "धरती से 25.9 अरब KM दूर पहुंचा Voyager-1, अब अचानक साध ली चुप्पी, NASA के वैज्ञानिक परेशान",
+          "summary": "नासा का वायजर वन यान धरती से 25.9 अरब किलोमीटर दूर पहुंच गया है। 14 नवंबर से यह यान विज्ञान डेटा नहीं भेज रहा है। इंजीनियर कंप्यूटर की खराबी ठीक करने की कोशिश कर रहे हैं। कैरियर सिग्नल मिल रहा है। NASA का Voyager 1 धरती से 25.9 अरब किलोमीटर दूर पहुंचकर एक लाइट-डे की दूरी पार कर चुका है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "गोल्डी बराड़ को पकड़ने की FBI ने खाई कसम, पता बताने पर मिलेगा 9 करोड़ का इनाम, टॉप-10 मोस्ट वांटेड",
+      "url": "https://hindi.news18.com/world/america-goldy-brar-fbi-most-wanted-reward-us-court-arrest-11002677.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-21T09:50:04+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/goldy-2026-11-23857dfc137c5780908697465cf330ac-1200x800.jpg",
+      "summary": "एफबीआई ने गोल्डी बराड़ को दस मोस्ट वांटेड सूची में शामिल किया है। गिरफ्तारी में मदद करने पर दस लाख डॉलर का इनाम रखा गया है। एजेंसी का कहना है कि उसे अमेरिकी अदालत में पेश किए बिना तलाश जारी रहेगी। अमेरिकी जांच एजेंसी FBI ने गैंगस्टर गोल्डी बराड़ को पकड़ने के लिए तलाश तेज कर दी है. एजेंसी ने उसे 10 मोस्ट वांटेड भगोड़ों की सूची में शामिल किया है और गिरफ्तारी में मदद करने वाली जानकारी पर 10 लाख डॉलर का इनाम रखा है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पुतिन-ट्रंप-जिनपिंग की मुलाकात को रूस ने बताया ऐतिहासिक: यूरोप को दिखाया बाहर का रास्ता, यूक्रेन पर",
-          "summary": "रूस ने पुतिन, ट्रंप और जिनपिंग की मुलाकात को ऐतिहासिक घोषित किया। इसमें यूरोप के अनुपस्थित रहने पर जोर दिया गया, जबकि यूक्रेन पर हमले जारी हैं। पुतिन-ट्रंप-जिनपिंग की मुलाकात को रूस ने बताया ऐतिहासिक: यूरोप को दिखाया बाहर का रास्ता, यूक्रेन पर।",
+          "title": "गोल्डी बराड़ को पकड़ने की FBI ने खाई कसम, पता बताने पर मिलेगा 9 करोड़ का इनाम, टॉप-10 मोस्ट वांटेड",
+          "summary": "एफबीआई ने गोल्डी बराड़ को दस मोस्ट वांटेड सूची में शामिल किया है। गिरफ्तारी में मदद करने पर दस लाख डॉलर का इनाम रखा गया है। एजेंसी का कहना है कि उसे अमेरिकी अदालत में पेश किए बिना तलाश जारी रहेगी। अमेरिकी जांच एजेंसी FBI ने गैंगस्टर गोल्डी बराड़ को पकड़ने के लिए तलाश तेज कर दी है. एजेंसी ने उसे 10 मोस्ट वांटेड भगोड़ों की सूची में शामिल किया है और गिरफ्तारी में मदद करने वाली जानकारी पर 10 लाख डॉलर का इनाम रखा है.",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "मिस्र की खुदाई में मिला सोने की जीभ वाला कब्रिस्तान, मुर्दों के मुंह में भरा है गोल्ड",
+      "title": "गोल्डी बराड़ को पकड़ने के लिए FBI का बड़ा ऐलान, अधिकारी बोले- गिरफ्तारी तक नहीं छोड़ेंगे पीछा",
+      "url": "https://www.patrika.com/world-news/fbi-goldy-brar-arrest-pursuit-us-canada-most-wanted-21073272",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-21T09:09:41+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Goldy-Brar.webp",
+      "summary": "एफबीआई के वरिष्ठ अधिकारी पैट्रिक ग्रैंडी ने कहा कि गोल्डी बराड़ की गिरफ्तारी तक पीछा जारी रहेगा। उसे अमेरिकी अदालत में मुकदमे का सामना करवाना ही लक्ष्य है। कनाडा ने भी उसे देश का सबसे खतरनाक अपराधी माना है। Goldy Brar: सिद्धू मूसेवाला हत्याकांड के आरोपी और भगोड़े गैंगस्टर गोल्डी बराड़ की मुश्किलें बढ़ती नजर आ रही हैं। अमेरिकी जांच एजेंसी FBI ने साफ कर दिया है कि उसकी गिरफ्तारी तक बराड़ का पीछा जारी रहेगा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गोल्डी बराड़ को पकड़ने के लिए FBI का बड़ा ऐलान, अधिकारी बोले- गिरफ्तारी तक नहीं छोड़ेंगे पीछा",
+          "summary": "एफबीआई के वरिष्ठ अधिकारी पैट्रिक ग्रैंडी ने कहा कि गोल्डी बराड़ की गिरफ्तारी तक पीछा जारी रहेगा। उसे अमेरिकी अदालत में मुकदमे का सामना करवाना ही लक्ष्य है। कनाडा ने भी उसे देश का सबसे खतरनाक अपराधी माना है। Goldy Brar: सिद्धू मूसेवाला हत्याकांड के आरोपी और भगोड़े गैंगस्टर गोल्डी बराड़ की मुश्किलें बढ़ती नजर आ रही हैं। अमेरिकी जांच एजेंसी FBI ने साफ कर दिया है कि उसकी गिरफ्तारी तक बराड़ का पीछा जारी रहेगा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "'सब बाय बोलकर चले गए', सना शेख के वीडियो ने खोली भारत और यूरोप के ऑफिस कल्चर की पोल",
+      "url": "https://hindi.news18.com/news/career/jobs-indian-woman-in-germany-shows-empty-office-at-5-pm-work-culture-viral-video-11002545.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-21T08:00:51+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Germany-Work-Culture-Viral-Video-2026-11-1f4f81a15e62a04fed521ea2bf932390-1200x800.jpg",
+      "summary": "जर्मनी में काम करने वाली सना शेख ने शाम पांच बजे खाली ऑफिस का वीडियो शेयर किया। उन्होंने बताया कि जर्मनी में पर्सनल लाइफ को प्राथमिकता मिलती है। भारत में वक्त से पहले निकलने पर हाफ-डे समझा जाता है। Germany Work Culture Viral Video: जर्मनी में काम करने वाली भारतीय महिला सना शेख ने सोशल मीडिया पर एक वीडियो शेयर किया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'सब बाय बोलकर चले गए', सना शेख के वीडियो ने खोली भारत और यूरोप के ऑफिस कल्चर की पोल",
+          "summary": "जर्मनी में काम करने वाली सना शेख ने शाम पांच बजे खाली ऑफिस का वीडियो शेयर किया। उन्होंने बताया कि जर्मनी में पर्सनल लाइफ को प्राथमिकता मिलती है। भारत में वक्त से पहले निकलने पर हाफ-डे समझा जाता है। Germany Work Culture Viral Video: जर्मनी में काम करने वाली भारतीय महिला सना शेख ने सोशल मीडिया पर एक वीडियो शेयर किया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश में हालात बेकाबू, बॉर्डर से बुलाने पड़े जवान, 7 जिलों में BGB की 86 प्लाटून तैनात",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-deploys-86-bgb-platoons-across-seven-districts-amid-rising-violence-sheikh-hasina-11002549.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-21T07:45:14+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-bgb-2026-11-34751681abd561331756a5955c49577a-1200x800.jpg",
+      "summary": "बांग्लादेश सरकार ने बढ़ती हिंसा के बाद सात जिलों में सुरक्षा बढ़ाई है। बॉर्डर गार्ड बांग्लादेश के 86 प्लाटून तैनात किए गए हैं। मोहम्मद यूनुस और हुमायूं कबीर के घरों पर हमले के बाद यह कदम उठाया गया है। बांग्लादेश में बढ़ती हिंसा और आगजनी के बीच सरकार ने सात जिलों में सुरक्षा बढ़ा दी है. बॉर्डर गार्ड बांग्लादेश (BGB) के 86 प्लाटून तैनात किए गए हैं, जबकि चार प्लाटून को तैयार रखा गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश में हालात बेकाबू, बॉर्डर से बुलाने पड़े जवान, 7 जिलों में BGB की 86 प्लाटून तैनात",
+          "summary": "बांग्लादेश सरकार ने बढ़ती हिंसा के बाद सात जिलों में सुरक्षा बढ़ाई है। बॉर्डर गार्ड बांग्लादेश के 86 प्लाटून तैनात किए गए हैं। मोहम्मद यूनुस और हुमायूं कबीर के घरों पर हमले के बाद यह कदम उठाया गया है। बांग्लादेश में बढ़ती हिंसा और आगजनी के बीच सरकार ने सात जिलों में सुरक्षा बढ़ा दी है. बॉर्डर गार्ड बांग्लादेश (BGB) के 86 प्लाटून तैनात किए गए हैं, जबकि चार प्लाटून को तैयार रखा गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रोहिंग्या कैंप पहुंचे UNGA अध्यक्ष, म्यांमार को चेतावनी- ICJ का फैसला नहीं माना तो भुगतने होंगे",
+      "url": "https://www.patrika.com/world-news/unga-president-khalilur-rahman-rohingya-camp-myanmar-warning-icj-verdict-21072734",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-21T06:46:53+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Rohingya-Refugees.webp",
+      "summary": "संयुक्त राष्ट्र महासभा के अध्यक्ष खलीलुर रहमान ने रोहिंग्या कैंप में म्यांमार को चेतावनी दी है। उन्होंने कहा कि अंतरराष्ट्रीय न्यायालय के फैसले का पालन न करने पर परिणाम भुगतने होंगे। यह बयान संकट के बीच दिया गया है। Rohingya Muslims: रोहिंग्या शरणार्थियों के मुद्दे पर म्यांमार की मुश्किलें बढ़ सकती हैं। संयुक्त राष्ट्र महासभा (UNGA) के अध्यक्ष और बांग्लादेश के विदेश मंत्री खलीलुर रहमान ने रोहिंग्या शरणार्थी कैंप पहुंचकर म्यांमार को सख्त चेतावनी दी है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रोहिंग्या कैंप पहुंचे UNGA अध्यक्ष, म्यांमार को चेतावनी- ICJ का फैसला नहीं माना तो भुगतने होंगे",
+          "summary": "संयुक्त राष्ट्र महासभा के अध्यक्ष खलीलुर रहमान ने रोहिंग्या कैंप में म्यांमार को चेतावनी दी है। उन्होंने कहा कि अंतरराष्ट्रीय न्यायालय के फैसले का पालन न करने पर परिणाम भुगतने होंगे। यह बयान संकट के बीच दिया गया है। Rohingya Muslims: रोहिंग्या शरणार्थियों के मुद्दे पर म्यांमार की मुश्किलें बढ़ सकती हैं। संयुक्त राष्ट्र महासभा (UNGA) के अध्यक्ष और बांग्लादेश के विदेश मंत्री खलीलुर रहमान ने रोहिंग्या शरणार्थी कैंप पहुंचकर म्यांमार को सख्त चेतावनी दी है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बांग्लादेश लौटना चाहती हैं शेख हसीना, लेकिन ढाका ही बन रहा रास्ते का रोड़ा, पासपोर्ट पर अटका मामला",
+      "url": "https://hindi.news18.com/world/south-asia-sheikh-hasina-bangladesh-return-passport-extradition-india-11002115.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-21T06:43:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-22-2026-11-ad210c7b67e4dbac0e0d8e0f387deaa2-1200x800.jpg",
+      "summary": "पूर्व प्रधानमंत्री शेख हसीना बांग्लादेश लौटना चाहती हैं, लेकिन पासपोर्ट की कमी रास्ता रोके खड़ी है। लंदन की लॉ फर्म ने हाई कमीशन में नए दस्तावेजों के लिए आवेदन किया है। सरकार भारत से प्रत्यर्पण पर जोर दे रही है। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना अपने देश लौटना चाहती हैं, लेकिन उनके पास वैध पासपोर्ट नहीं है. उनकी ओर से लंदन की लॉ फर्म मैट्रिक्स चैंबर्स ने बांग्लादेश हाई कमीशन में दूसरी बार नए पासपोर्ट और नेशनल आईडी कार्ड के लिए आवेदन किया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बांग्लादेश लौटना चाहती हैं शेख हसीना, लेकिन ढाका ही बन रहा रास्ते का रोड़ा, पासपोर्ट पर अटका मामला",
+          "summary": "पूर्व प्रधानमंत्री शेख हसीना बांग्लादेश लौटना चाहती हैं, लेकिन पासपोर्ट की कमी रास्ता रोके खड़ी है। लंदन की लॉ फर्म ने हाई कमीशन में नए दस्तावेजों के लिए आवेदन किया है। सरकार भारत से प्रत्यर्पण पर जोर दे रही है। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना अपने देश लौटना चाहती हैं, लेकिन उनके पास वैध पासपोर्ट नहीं है. उनकी ओर से लंदन की लॉ फर्म मैट्रिक्स चैंबर्स ने बांग्लादेश हाई कमीशन में दूसरी बार नए पासपोर्ट और नेशनल आईडी कार्ड के लिए आवेदन किया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "114 किमी की रफ्तार से आया तूफान, एक घंटे में शहर को बना दिया खंडहर, 5000 घर तबाह, 3 की मौत",
+      "url": "https://hindi.news18.com/world/rest-of-world-brazil-storm-3-dead-5000-homes-destroyed-tupancireta-11001778.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-21T06:42:02+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/brazil-2-2026-11-8495a697851b3cb20654801ddec35436-1200x800.jpg",
+      "summary": "दक्षिणी ब्राजील के टुपानसिरेटा में तूफान ने तबाही मचाई। हवा की रफ्तार 114 किलोमीटर प्रति घंटे तक पहुंची। तीन लोगों की मौत हुई और 5,000 घरों को नुकसान हुआ। अस्पताल की छत उड़ गई और 11 मरीजों को स्थानांतरित किया गया। दक्षिणी ब्राजील में शुक्रवार तड़के आए शक्तिशाली तूफान ने भारी तबाही मचाई. रियो ग्रांडे दो सुल राज्य के टुपानसिरेटा शहर में तीन लोगों की मौत हो गई और करीब 5,000 घरों को नुकसान पहुंचा.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "114 किमी की रफ्तार से आया तूफान, एक घंटे में शहर को बना दिया खंडहर, 5000 घर तबाह, 3 की मौत",
+          "summary": "दक्षिणी ब्राजील के टुपानसिरेटा में तूफान ने तबाही मचाई। हवा की रफ्तार 114 किलोमीटर प्रति घंटे तक पहुंची। तीन लोगों की मौत हुई और 5,000 घरों को नुकसान हुआ। अस्पताल की छत उड़ गई और 11 मरीजों को स्थानांतरित किया गया। दक्षिणी ब्राजील में शुक्रवार तड़के आए शक्तिशाली तूफान ने भारी तबाही मचाई. रियो ग्रांडे दो सुल राज्य के टुपानसिरेटा शहर में तीन लोगों की मौत हो गई और करीब 5,000 घरों को नुकसान पहुंचा.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "कभी आसमान में उड़ानें ठप, कभी बैंक बेहाल, अब FBI पर हैकरों का हमला, अमेरिका में क्या हो रहा?",
+      "url": "https://hindi.news18.com/world/america-us-cyberattack-fbi-crime-database-agriculture-department-11002385.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-21T06:39:06+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/fbi-2-2026-11-b417af5ba71d4c9d1b28e86f1bc2097c-1200x800.jpg",
+      "summary": "अमेरिका में FBI और कृषि विभाग के कंप्यूटर सिस्टम पर साइबर हमले हुए हैं। हैकरों ने नेशनल क्राइम इन्फॉर्मेशन सेंटर में सेंध लगाई। किसानों के भुगतान के लिए उपयोग होने वाले USDA सिस्टम भी निशाना बना। अमेरिका में FBI और कृषि विभाग (USDA) के कंप्यूटर सिस्टम पर साइबर हमले की घटनाएं सामने आई हैं. संदिग्ध हैकरों ने FBI के नेशनल क्राइम इन्फॉर्मेशन सेंटर (NCIC) में सेंध लगाई, जिसका इस्तेमाल पुलिस और जांच एजेंसियां अपराधियों और गिरफ्तारी वारंट की जानकारी के लिए करती हैं.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "कभी आसमान में उड़ानें ठप, कभी बैंक बेहाल, अब FBI पर हैकरों का हमला, अमेरिका में क्या हो रहा?",
+          "summary": "अमेरिका में FBI और कृषि विभाग के कंप्यूटर सिस्टम पर साइबर हमले हुए हैं। हैकरों ने नेशनल क्राइम इन्फॉर्मेशन सेंटर में सेंध लगाई। किसानों के भुगतान के लिए उपयोग होने वाले USDA सिस्टम भी निशाना बना। अमेरिका में FBI और कृषि विभाग (USDA) के कंप्यूटर सिस्टम पर साइबर हमले की घटनाएं सामने आई हैं. संदिग्ध हैकरों ने FBI के नेशनल क्राइम इन्फॉर्मेशन सेंटर (NCIC) में सेंध लगाई, जिसका इस्तेमाल पुलिस और जांच एजेंसियां अपराधियों और गिरफ्तारी वारंट की जानकारी के लिए करती हैं.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "सऊदी के मिसाइल हमलों से दहला यमन, 41 लोगों की मौत; हूतियों ने भी की जवाबी कार्रवाई",
+      "url": "https://www.amarujala.com/world/rising-tension-west-asia-yemen-shaken-saudi-missile-strike-many-lives-lost-houthis-launch-retaliatory-action-2026-11-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-21T06:34:28+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/havaii-hamal-sakataka-tasavara_a930d55e3a6dbedbde5836389528b7fe.jpeg?w=1200&dpr=1.0",
+      "summary": "सऊदी अरब के मिसाइल हमलों से यमन में 41 लोगों की मौत हो गई है। हूती समूह ने जवाबी कार्रवाई की है। पश्चिम एशिया में तनाव बढ़ने के संकेत मिल रहे हैं। सऊदी के मिसाइल हमलों से दहला यमन, 41 लोगों की मौत; हूतियों ने भी की जवाबी कार्रवाई।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी के मिसाइल हमलों से दहला यमन, 41 लोगों की मौत; हूतियों ने भी की जवाबी कार्रवाई",
+          "summary": "सऊदी अरब के मिसाइल हमलों से यमन में 41 लोगों की मौत हो गई है। हूती समूह ने जवाबी कार्रवाई की है। पश्चिम एशिया में तनाव बढ़ने के संकेत मिल रहे हैं। सऊदी के मिसाइल हमलों से दहला यमन, 41 लोगों की मौत; हूतियों ने भी की जवाबी कार्रवाई।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "हिंसक वारदातों के बीच सुरक्षा कड़ी, सात जिलों में अर्धसैनिक सीमा सुरक्षा बल तैनात",
+      "url": "https://www.amarujala.com/world/bangladesh-security-tightened-amidst-violent-incidents-para-border-security-forces-deployed-in-7-districts-2026-11-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-21T06:21:26+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/bgalthasha-ma-bgaugdha-halta_a410f17a746854fb715a1a15f07f962b.jpeg?w=1200&dpr=1.0",
+      "summary": "बांग्लादेश ने हिंसक घटनाओं के बाद सात जिलों में अर्धसैनिक सीमा सुरक्षा बल तैनात किए। यह कदम स्थानीय सुरक्षा स्थिति को नियंत्रित करने के लिए उठा गया है। हिंसक वारदातों के बीच सुरक्षा कड़ी, सात जिलों में अर्धसैनिक सीमा सुरक्षा बल तैनात।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हिंसक वारदातों के बीच सुरक्षा कड़ी, सात जिलों में अर्धसैनिक सीमा सुरक्षा बल तैनात",
+          "summary": "बांग्लादेश ने हिंसक घटनाओं के बाद सात जिलों में अर्धसैनिक सीमा सुरक्षा बल तैनात किए। यह कदम स्थानीय सुरक्षा स्थिति को नियंत्रित करने के लिए उठा गया है। हिंसक वारदातों के बीच सुरक्षा कड़ी, सात जिलों में अर्धसैनिक सीमा सुरक्षा बल तैनात।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मिस्र में मिला 2000 साल पुराना कब्रिस्तान, कंकालों के मुंह में है सोने की जीभ",
       "url": "https://hindi.news18.com/world/rest-of-world-egypt-ancient-cemetery-hundreds-coffins-gold-tongues-discovery-11001827.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-21T02:57:07+00:00",
+      "published_at": "2026-11-21T04:56:21+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/gold-tongue-2026-11-78fa5f7f941019a04551981ad3c01d57-1200x800.jpg",
       "summary": "मिस्र के मेनूफिया राज्य में 2,000 वर्ष पुराने कब्रिस्तान की खोज हुई। सैकड़ों ताबूत, सोने की जीभें और बाज के शव बरामद हुए। प्राचीन मान्यता थी कि मृतक को परलोक में बोलने की आवश्यकता होती है। Egypt Tomb Golden Tongue: मिस्र के मेनूफिया राज्य में पुरातत्वविदों को 2,000 साल से भी पुराने कब्रिस्तान के अवशेष मिले हैं. खुदाई में सैकड़ों पत्थर और मिट्टी के ताबूत, सोने की जीभ, गहने, ताबीज, छोटी मूर्तियां और बाज के दो शव मिले हैं.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "मिस्र की खुदाई में मिला सोने की जीभ वाला कब्रिस्तान, मुर्दों के मुंह में भरा है गोल्ड",
+          "title": "मिस्र में मिला 2000 साल पुराना कब्रिस्तान, कंकालों के मुंह में है सोने की जीभ",
           "summary": "मिस्र के मेनूफिया राज्य में 2,000 वर्ष पुराने कब्रिस्तान की खोज हुई। सैकड़ों ताबूत, सोने की जीभें और बाज के शव बरामद हुए। प्राचीन मान्यता थी कि मृतक को परलोक में बोलने की आवश्यकता होती है। Egypt Tomb Golden Tongue: मिस्र के मेनूफिया राज्य में पुरातत्वविदों को 2,000 साल से भी पुराने कब्रिस्तान के अवशेष मिले हैं. खुदाई में सैकड़ों पत्थर और मिट्टी के ताबूत, सोने की जीभ, गहने, ताबीज, छोटी मूर्तियां और बाज के दो शव मिले हैं.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "तीसरे दिन चायकाल तक भारत का स्कोर 344/2, न्यूजीलैंड से 24 रन पीछे, राहुल 124 पर नाबाद",
-      "url": "https://www.amarujala.com/live/cricket/new-zealand-vs-india-1st-test-day-3-live-cricket-score-and-updates-kl-rahul-padikkal-shubman-score-live-2026-11-21",
-      "source": "Amar Ujala Breaking",
+      "title": "लॉरेंस के करीबी गोल्डी पर यूएस ने कसा शिकंजा: एफबीआई ने घोषित किया मोस्ट वांटेड भगोड़ा, रखा ₹9",
+      "url": "https://www.amarujala.com/world/fbi-adds-goldy-brar-to-ten-most-wanted-fugitives-list-announces-1-million-dollar-reward-2026-11-21",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-21T02:52:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/new-zealand-vs-india-ind-vs-nz-1st-test-india-tour-of-new-zealand-2026-ind-vs-nz-live-score-in_c4f6d926eb924daf019273edd6dd0779.jpeg?w=1200&dpr=1.0",
-      "summary": "न्यूजीलैंड के 368 रन के जवाब में भारत ने दूसरे दिन खेल समाप्ति पर एक विकेट पर 159 रन बनाए। तीसरे दिन चायकाल तक स्कोर 344/2 रहा। राहुल द्रविड़ 124 रन पर नाबाद रहे। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। न्यूजीलैंड के 368 रन के जवाब में भारत ने दूसरे दिन का खेल समाप्त होने तक एक विकेट पर 159 रन बना लिए हैं।",
+      "published_at": "2026-11-21T04:36:01+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/galda-braugdha_29c15467c8dc589adc6c6f9763d80bd1.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी एफबीआई ने गोल्डी बराड़ को दस सबसे खोजने योग्य फरारों की सूची में शामिल किया। जानकारी देने वाले को एक मिलियन डॉलर का इनाम घोषित किया गया है। लॉरेंस के करीबी गोल्डी पर यूएस ने कसा शिकंजा: एफबीआई ने घोषित किया मोस्ट वांटेड भगोड़ा, रखा ₹9।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लॉरेंस के करीबी गोल्डी पर यूएस ने कसा शिकंजा: एफबीआई ने घोषित किया मोस्ट वांटेड भगोड़ा, रखा ₹9",
+          "summary": "अमेरिकी एफबीआई ने गोल्डी बराड़ को दस सबसे खोजने योग्य फरारों की सूची में शामिल किया। जानकारी देने वाले को एक मिलियन डॉलर का इनाम घोषित किया गया है। लॉरेंस के करीबी गोल्डी पर यूएस ने कसा शिकंजा: एफबीआई ने घोषित किया मोस्ट वांटेड भगोड़ा, रखा ₹9।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका को जिस बात का था डर, अब उसी राह पर चीन, AI से सेना को बना रहा मजबूत",
+      "url": "https://hindi.news18.com/world/china-xi-jinping-military-deepseek-ai-cyber-training-command-system-11001935.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-21T04:12:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/china-army-2026-11-3c3aea82ac4d3948455fa4cc6cfb5fe2-1200x800.jpg",
+      "summary": "अमेरिकी संसद की रिपोर्ट के अनुसार चीनी सेना ने DeepSeek AI मॉडल की मांग की है। यह साइबर ट्रेनिंग और सैन्य कमांड सिस्टम के लिए उपयोग किया जाएगा। अमेरिकी संसद की दो समितियों की रिपोर्ट में दावा किया गया है कि चीन की सेना ने साइबर ट्रेनिंग के लिए DeepSeek AI मॉडल की मांग की है. इनका इस्तेमाल साइबर हमलों की ट्रेनिंग, सैन्य कमांड सिस्टम, सॉफ्टवेयर और मेडिकल कामों में हो सकता है.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तीसरे दिन चायकाल तक भारत का स्कोर 344/2, न्यूजीलैंड से 24 रन पीछे, राहुल 124 पर नाबाद",
-          "summary": "न्यूजीलैंड के 368 रन के जवाब में भारत ने दूसरे दिन खेल समाप्ति पर एक विकेट पर 159 रन बनाए। तीसरे दिन चायकाल तक स्कोर 344/2 रहा। राहुल द्रविड़ 124 रन पर नाबाद रहे। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। न्यूजीलैंड के 368 रन के जवाब में भारत ने दूसरे दिन का खेल समाप्त होने तक एक विकेट पर 159 रन बना लिए हैं।",
+          "title": "अमेरिका को जिस बात का था डर, अब उसी राह पर चीन, AI से सेना को बना रहा मजबूत",
+          "summary": "अमेरिकी संसद की रिपोर्ट के अनुसार चीनी सेना ने DeepSeek AI मॉडल की मांग की है। यह साइबर ट्रेनिंग और सैन्य कमांड सिस्टम के लिए उपयोग किया जाएगा। अमेरिकी संसद की दो समितियों की रिपोर्ट में दावा किया गया है कि चीन की सेना ने साइबर ट्रेनिंग के लिए DeepSeek AI मॉडल की मांग की है. इनका इस्तेमाल साइबर हमलों की ट्रेनिंग, सैन्य कमांड सिस्टम, सॉफ्टवेयर और मेडिकल कामों में हो सकता है.",
           "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अमेरिका में हैकर्स का फिर हमला: एफबीआई के आपराधिक रिकॉर्ड्स में दूसरी बार लगी सेंध, जानें यह कितना",
+      "url": "https://www.amarujala.com/world/fbi-s-crucial-ncic-crime-database-hacked-in-second-major-security-breach-within-months-amid-national-outages-2026-11-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-21T03:47:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/fbi_1816178b16482140112ffbb36d959d75.jpeg?w=1200&dpr=1.0",
+      "summary": "एफबीआई के नेशनल क्राइम इंफॉर्मेशन सेंटर डेटाबेस में दूसरी बार बड़ी साइबर सेंधमारी हुई है। इससे अमेरिकी अपराध रिकॉर्ड खतरे में पड़ गए हैं। एफबीआई के नेशनल क्राइम इंफॉर्मेशन सेंटर (एनसीआईसी) डेटाबेस में दूसरी बार बड़ी सेंधमारी हुई है, जिससे अमेरिकी अपराध रिकॉर्ड खतरे में हैं। सुरक्षा संकट और पिछली घटनाओं पर पढ़ें यह विस्तृत रिपोर्ट। अमेरिका में हैकर्स का फिर हमला: एफबीआई के आपराधिक रिकॉर्ड्स में दूसरी बार लगी सेंध, जानें यह कितना।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेरिका में हैकर्स का फिर हमला: एफबीआई के आपराधिक रिकॉर्ड्स में दूसरी बार लगी सेंध, जानें यह कितना",
+          "summary": "एफबीआई के नेशनल क्राइम इंफॉर्मेशन सेंटर डेटाबेस में दूसरी बार बड़ी साइबर सेंधमारी हुई है। इससे अमेरिकी अपराध रिकॉर्ड खतरे में पड़ गए हैं। एफबीआई के नेशनल क्राइम इंफॉर्मेशन सेंटर (एनसीआईसी) डेटाबेस में दूसरी बार बड़ी सेंधमारी हुई है, जिससे अमेरिकी अपराध रिकॉर्ड खतरे में हैं। सुरक्षा संकट और पिछली घटनाओं पर पढ़ें यह विस्तृत रिपोर्ट। अमेरिका में हैकर्स का फिर हमला: एफबीआई के आपराधिक रिकॉर्ड्स में दूसरी बार लगी सेंध, जानें यह कितना।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "एपस्टीन को क्यों पसंद थीं रूसी महिलाएं?: पुतिन से मिलने का सपना, सत्ता के गलियारों तक पहुंचने का भी",
+      "url": "https://www.amarujala.com/world/why-did-epstein-favor-russian-women-dream-meeting-putin-an-intention-to-gain-access-to-the-corridors-of-power-2026-11-21",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-21T03:46:02+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/jafara-epasatana_304787edd1f9a527449cbbda8c4e892d.jpeg?w=1200&dpr=1.0",
+      "summary": "एपस्टीन के पास रूसी महिलाओं का आकर्षण पुतिन से मिलने के सपने से जुड़ा था। वे सत्ता के गलियारों तक पहुंचने का इरादा रखती थीं। एपस्टीन को क्यों पसंद थीं रूसी महिलाएं?: पुतिन से मिलने का सपना, सत्ता के गलियारों तक पहुंचने का भी था इरादा।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एपस्टीन को क्यों पसंद थीं रूसी महिलाएं?: पुतिन से मिलने का सपना, सत्ता के गलियारों तक पहुंचने का भी",
+          "summary": "एपस्टीन के पास रूसी महिलाओं का आकर्षण पुतिन से मिलने के सपने से जुड़ा था। वे सत्ता के गलियारों तक पहुंचने का इरादा रखती थीं। एपस्टीन को क्यों पसंद थीं रूसी महिलाएं?: पुतिन से मिलने का सपना, सत्ता के गलियारों तक पहुंचने का भी था इरादा।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "UN को नहीं मिल रहा नया बॉस! सिर्फ 40 दिन बचे, बड़ा सवाल गुटेरेस के बाद कौन?",
+      "url": "https://www.patrika.com/world-news/unsc-deadlock-next-un-secretary-general-rebeca-grynspan-veto-21072130",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-21T03:32:37+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/UN.webp",
+      "summary": "संयुक्त राष्ट्र महासभा में नए महासचिव के चुनाव में गतिरोध जारी है। एंटोनियो गुटेरेस के कार्यकाल समाप्त होने में 40 दिन बचे हैं। शुक्रवार के अनौपचारिक मतदान में रेबेका ग्रिनस्पैन आगे थीं, पर दो स्थायी सदस्यों का विरोध सहमति को रोक रहा है। UN Secretary-General election: संयुक्त राष्ट्र महासभा में नए महासचिव के चुनाव को लेकर गतिरोध बरकरार है। नए महासचिव के कार्यभार संभालने में अब सिर्फ 40 दिन बचे हैं, लेकिन एंटोनियो गुटेरेस के उत्तराधिकारी के नाम पर अभी तक सहमति नहीं बन पाई है।",
+      "region": "Global / Multilateral",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "UN को नहीं मिल रहा नया बॉस! सिर्फ 40 दिन बचे, बड़ा सवाल गुटेरेस के बाद कौन?",
+          "summary": "संयुक्त राष्ट्र महासभा में नए महासचिव के चुनाव में गतिरोध जारी है। एंटोनियो गुटेरेस के कार्यकाल समाप्त होने में 40 दिन बचे हैं। शुक्रवार के अनौपचारिक मतदान में रेबेका ग्रिनस्पैन आगे थीं, पर दो स्थायी सदस्यों का विरोध सहमति को रोक रहा है। UN Secretary-General election: संयुक्त राष्ट्र महासभा में नए महासचिव के चुनाव को लेकर गतिरोध बरकरार है। नए महासचिव के कार्यभार संभालने में अब सिर्फ 40 दिन बचे हैं, लेकिन एंटोनियो गुटेरेस के उत्तराधिकारी के नाम पर अभी तक सहमति नहीं बन पाई है।",
+          "region": "वैश्विक / बहुपक्षीय"
         }
       }
     },
@@ -398,24 +668,6 @@
       }
     },
     {
-      "title": "रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर किया पलटवार, कांग्रेस से पूछे चार सवाल",
-      "url": "https://www.amarujala.com/india-news/rijiju-hits-back-at-rahul-s-compromised-pm-remark-poses-four-questions-to-congress-2026-11-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T02:44:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/07/04/karana-rajaja_da88f812fdbaff4c001e4bb8f581cb6b.jpeg?w=1200&dpr=1.0",
-      "summary": "रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर पलटवार किया। उन्होंने कांग्रेस से चार प्रश्न पूछे। इस बयान पर राजनीतिक बहस तेज हो गई। रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर किया पलटवार, कांग्रेस से पूछे चार सवाल।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर किया पलटवार, कांग्रेस से पूछे चार सवाल",
-          "summary": "रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर पलटवार किया। उन्होंने कांग्रेस से चार प्रश्न पूछे। इस बयान पर राजनीतिक बहस तेज हो गई। रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर किया पलटवार, कांग्रेस से पूछे चार सवाल।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
       "title": "अगले महासचिव के नाम पर नहीं बनी बात, जानें क्या बात बन रही बाधा",
       "url": "https://www.amarujala.com/world/unsc-deadlocked-over-next-secretary-general-despite-40-day-deadline-2026-11-21",
       "source": "Amar Ujala World",
@@ -434,20 +686,20 @@
       }
     },
     {
-      "title": "'धुरंधर' बनी बेस्ट फिल्म: टेलर स्विफ्ट को मिला सम्मान, देखें पूरी लिस्ट",
-      "url": "https://www.amarujala.com/entertainment/bollywood/ranveer-singh-aneet-padda-to-dhurandhar-full-list-of-dadasaheb-phalke-awards-2026-winners-2026-11-21",
-      "source": "Amar Ujala Breaking",
+      "title": "हत्या की साजिश में 1 लाख डॉलर की सुपारी, अंडरकवर एजेंट ने खोली पोल; अमेरिका में निखिल गुप्ता को 19",
+      "url": "https://www.patrika.com/world-news/nikhil-gupta-sentenced-235-months-jail-by-us-court-pannun-assassination-plot-21071993",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-21T02:26:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/thatha-sahab-falka-parasakara-ka-para-lsata_7522a30f02152772ca8453f39343541b.jpeg?w=1200&dpr=1.0",
-      "summary": "दसवीं दादा साहब फाल्के इंटरनेशनल फिल्म फेस्टिवल के विजेताओं की घोषणा हुई। रणवीर सिंह, अनीत पड्डा और कमल हासन समेत कई हस्तियों को सम्मानित किया गया। साल 2026 के लिए दादा साहब फाल्के इंटरनेशनल फिल्म फेस्टिवल अवॉर्ड्स का एलान हो गया है। इसमें रणवीर सिंह, अनीत पड्डा, समय रैना और कमल हासन समेत कई विदेशी हस्तियों नाम शामिल हैं। 'धुरंधर' बनी बेस्ट फिल्म: टेलर स्विफ्ट को मिला सम्मान, देखें पूरी लिस्ट।",
-      "region": "World",
+      "published_at": "2026-11-21T02:27:23+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/nikhil-ghupta.webp",
+      "summary": "न्यूयॉर्क की अदालत ने निखिल गुप्ता को 235 महीने की सजा सुनाई। उन्हें गुरपतवंत सिंह पन्नू की हत्या की नाकाम साजिश में शामिल होने का दोषी ठहराया गया। जज विक्टर मारेरो ने यह फैसला सुनाया, जिसमें 19 साल 7 महीने की कैद शामिल है। Pannun Assassination Plot: अमेरिका के न्यूयॉर्क की एक अदालत ने 55 वर्षीय भारतीय नागरिक निखिल गुप्ता को 235 महीने (लगभग 19 साल 7 महीने) की जेल की सजा सुनाई है।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'धुरंधर' बनी बेस्ट फिल्म: टेलर स्विफ्ट को मिला सम्मान, देखें पूरी लिस्ट",
-          "summary": "दसवीं दादा साहब फाल्के इंटरनेशनल फिल्म फेस्टिवल के विजेताओं की घोषणा हुई। रणवीर सिंह, अनीत पड्डा और कमल हासन समेत कई हस्तियों को सम्मानित किया गया। साल 2026 के लिए दादा साहब फाल्के इंटरनेशनल फिल्म फेस्टिवल अवॉर्ड्स का एलान हो गया है। इसमें रणवीर सिंह, अनीत पड्डा, समय रैना और कमल हासन समेत कई विदेशी हस्तियों नाम शामिल हैं। 'धुरंधर' बनी बेस्ट फिल्म: टेलर स्विफ्ट को मिला सम्मान, देखें पूरी लिस्ट।",
-          "region": "दुनिया"
+          "title": "हत्या की साजिश में 1 लाख डॉलर की सुपारी, अंडरकवर एजेंट ने खोली पोल; अमेरिका में निखिल गुप्ता को 19",
+          "summary": "न्यूयॉर्क की अदालत ने निखिल गुप्ता को 235 महीने की सजा सुनाई। उन्हें गुरपतवंत सिंह पन्नू की हत्या की नाकाम साजिश में शामिल होने का दोषी ठहराया गया। जज विक्टर मारेरो ने यह फैसला सुनाया, जिसमें 19 साल 7 महीने की कैद शामिल है। Pannun Assassination Plot: अमेरिका के न्यूयॉर्क की एक अदालत ने 55 वर्षीय भारतीय नागरिक निखिल गुप्ता को 235 महीने (लगभग 19 साल 7 महीने) की जेल की सजा सुनाई है।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
@@ -470,38 +722,20 @@
       }
     },
     {
-      "title": "चीन को पुराने चिप्स की बिक्री पर नहीं लगेंगे नए प्रतिबंध, अमेरिकी वित्त मंत्री दे दिया बड़ा बयान",
-      "url": "https://www.amarujala.com/business/business-diary/no-new-curbs-on-older-nvidia-chips-to-china-says-us-treasury-secretary-scott-bessent-amid-export-scrutiny-2026-11-21",
-      "source": "Amar Ujala Breaking",
+      "title": "‘भारत को देखिए, 7% ग्रोथ है’: मिड टर्म इलेक्शन में हार के बाद ट्रंप की पहली प्रेस कॉन्फ्रेंस",
+      "url": "https://www.patrika.com/world-news/trump-first-press-conference-after-midterm-loss-india-quad-iran-veto-21071963",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-21T02:04:52+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/scott-besent_4ae746dd752769aec91e276f27a91cf5.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने चीन को पुराने एनवीडिया चिप्स की बिक्री पर नए प्रतिबंध लगाने से इनकार किया। इससे टेक कंपनियों के लिए 8.5 लाख चिप मंजूरियों का रास्ता खुला है। अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने चीन को पुराने एनवीडिया चिप्स के निर्यात पर नए प्रतिबंधों की संभावना से इनकार किया है। 8.5 लाख से अधिक चिप मंजूरियों और टेक कंपनियों के रुख पर पढ़ें यह विस्तृत रिपोर्ट।",
-      "region": "Asia-Pacific",
+      "published_at": "2026-11-21T02:00:13+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/Donald-Trump-2.webp",
+      "summary": "डोनाल्ड ट्रंप ने मध्यावधि चुनाव हार के बाद पहली प्रेस कॉन्फ्रेंस की। उन्होंने ईरान युद्ध पर अपनी सरकार का बचाव किया। रिपब्लिकन बहुमत गंवाने के बाद उन्होंने डेमोक्रेट्स के साथ इमिग्रेशन मुद्दों पर सहयोग की इच्छा जताई। Trump press conference: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने मध्यावधि चुनाव हारने के बाद शुक्रवार को पहली बार प्रेस कॉन्फ्रेंस की। इस दौरान उन्होंने कई सवालों को जवाब दिए।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चीन को पुराने चिप्स की बिक्री पर नहीं लगेंगे नए प्रतिबंध, अमेरिकी वित्त मंत्री दे दिया बड़ा बयान",
-          "summary": "अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने चीन को पुराने एनवीडिया चिप्स की बिक्री पर नए प्रतिबंध लगाने से इनकार किया। इससे टेक कंपनियों के लिए 8.5 लाख चिप मंजूरियों का रास्ता खुला है। अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने चीन को पुराने एनवीडिया चिप्स के निर्यात पर नए प्रतिबंधों की संभावना से इनकार किया है। 8.5 लाख से अधिक चिप मंजूरियों और टेक कंपनियों के रुख पर पढ़ें यह विस्तृत रिपोर्ट।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "आज बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी; 34470 करोड़ की परियोजनाओं की देंगे",
-      "url": "https://www.amarujala.com/live/india-news/pm-modi-to-visit-west-bengal-bihar-and-uttar-pradesh-live-updates-hindi-today-2026-11-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:59:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/18/narathara-matha-parathhanamatara_5818534b6823e8311275bfe280ba734a.jpeg?w=1200&dpr=1.0",
-      "summary": "प्रधानमंत्री मोदी ने पश्चिम बंगाल, बिहार और उत्तर प्रदेश के दौरे पर 34,470 करोड़ रुपये की परियोजनाओं का उद्घाटन किया। यह तीन राज्यों के विकास के लिए बड़ी सहायता है। LIVE: आज पश्चिम बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी, 34470 करोड़ की परियोजनाओं की देंगे सौगात। आज बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी; 34470 करोड़ की परियोजनाओं की देंगे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी; 34470 करोड़ की परियोजनाओं की देंगे",
-          "summary": "प्रधानमंत्री मोदी ने पश्चिम बंगाल, बिहार और उत्तर प्रदेश के दौरे पर 34,470 करोड़ रुपये की परियोजनाओं का उद्घाटन किया। यह तीन राज्यों के विकास के लिए बड़ी सहायता है। LIVE: आज पश्चिम बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी, 34470 करोड़ की परियोजनाओं की देंगे सौगात। आज बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी; 34470 करोड़ की परियोजनाओं की देंगे।",
-          "region": "दुनिया"
+          "title": "‘भारत को देखिए, 7% ग्रोथ है’: मिड टर्म इलेक्शन में हार के बाद ट्रंप की पहली प्रेस कॉन्फ्रेंस",
+          "summary": "डोनाल्ड ट्रंप ने मध्यावधि चुनाव हार के बाद पहली प्रेस कॉन्फ्रेंस की। उन्होंने ईरान युद्ध पर अपनी सरकार का बचाव किया। रिपब्लिकन बहुमत गंवाने के बाद उन्होंने डेमोक्रेट्स के साथ इमिग्रेशन मुद्दों पर सहयोग की इच्छा जताई। Trump press conference: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने मध्यावधि चुनाव हारने के बाद शुक्रवार को पहली बार प्रेस कॉन्फ्रेंस की। इस दौरान उन्होंने कई सवालों को जवाब दिए।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
@@ -520,240 +754,6 @@
           "title": "अभी-अभी कांपी धरती, 6.8 तीव्रता के भूकंप से दहशत, संसद छोड़कर भागे सांसद",
           "summary": "पेरू में शुक्रवार को 6.8 तीव्रता का भूकंप आया। केंद्र जुनिन क्षेत्र में 129 किलोमीटर गहराई पर था। लीमा समेत कई इलाकों में झटके महसूस हुए। सांसदों ने संसद भवन खाली किया। बड़े नुकसान की खबर नहीं मिली। पेरू में शुक्रवार को 6.8 तीव्रता का शक्तिशाली भूकंप आया, जिससे राजधानी लीमा समेत कई इलाकों में धरती कांप उठी. झटके महसूस होते ही लोग घरों से बाहर निकल आए और सांसदों को संसद भवन खाली करना पड़ा.",
           "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "आज शनिवार को कहां बैंक बंद हैं और कहां खुले? ब्रांच जाने से पहले यहां करें चेक",
-      "url": "https://www.amarujala.com/photo-gallery/utility/bank-holiday-list-november-2026-are-banks-closed-or-open-aaj-bank-open-hai-kya-2026-11-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:45:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/aaja-shanavara-ka-bka-btha-ha_71c1d0ec4a0d1fc1fdb841140eae61ac.jpeg?w=1200&dpr=1.0",
-      "summary": "21 नवंबर को देश के सभी बैंक बंद रहेंगे। यह महीने का दूसरा शनिवार है। नियम के अनुसार दूसरे और चौथे शनिवार को बैंक बंद रहते हैं। ग्राहकों को बैंक जाने से पहले इसकी जांच करनी चाहिए। आज 21 नवंबर को बैंक जाने से पहले बैंकों की छुट्टियों के बारे में जरूर चेक करें महीने के दूसरे और चौथे शनिवार को देश के सभी बैंक बंद रहते हैं।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज शनिवार को कहां बैंक बंद हैं और कहां खुले? ब्रांच जाने से पहले यहां करें चेक",
-          "summary": "21 नवंबर को देश के सभी बैंक बंद रहेंगे। यह महीने का दूसरा शनिवार है। नियम के अनुसार दूसरे और चौथे शनिवार को बैंक बंद रहते हैं। ग्राहकों को बैंक जाने से पहले इसकी जांच करनी चाहिए। आज 21 नवंबर को बैंक जाने से पहले बैंकों की छुट्टियों के बारे में जरूर चेक करें महीने के दूसरे और चौथे शनिवार को देश के सभी बैंक बंद रहते हैं।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "कटक की बाली यात्रा महोत्सव का उद्घाटन करेंगी राष्ट्रपति; जापान दौरे पर जाएंगे सीएम शिवकुमार",
-      "url": "https://www.amarujala.com/india-news/news-updates-of-21-nov-india-news-politics-crime-central-govt-news-in-hindi-hindi-news-news-updates-2026-11-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:41:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/31/thasha-ka-bugdha-khabra_08d8df88d0a26311494cc09fcb7205b6.jpeg?w=1200&dpr=1.0",
-      "summary": "राष्ट्रपति कटक में बाली यात्रा महोत्सव का उद्घाटन करेंगी। इसी दौरान मुख्यमंत्री शिवकुमार जापान दौरे पर जाएंगे। दोनों घटनाएं 21 नवंबर को हो रही हैं। स्रोत में अन्य विवरण उपलब्ध नहीं है। कटक की बाली यात्रा महोत्सव का उद्घाटन करेंगी राष्ट्रपति; जापान दौरे पर जाएंगे सीएम शिवकुमार।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कटक की बाली यात्रा महोत्सव का उद्घाटन करेंगी राष्ट्रपति; जापान दौरे पर जाएंगे सीएम शिवकुमार",
-          "summary": "राष्ट्रपति कटक में बाली यात्रा महोत्सव का उद्घाटन करेंगी। इसी दौरान मुख्यमंत्री शिवकुमार जापान दौरे पर जाएंगे। दोनों घटनाएं 21 नवंबर को हो रही हैं। स्रोत में अन्य विवरण उपलब्ध नहीं है। कटक की बाली यात्रा महोत्सव का उद्घाटन करेंगी राष्ट्रपति; जापान दौरे पर जाएंगे सीएम शिवकुमार।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "114 किमी की रफ्तार से आया तूफान, एक घंटे में शहर को बना दिया खंडहर, 5000 घर तबाह, 3 की मौत",
-      "url": "https://hindi.news18.com/world/rest-of-world-brazil-storm-3-dead-5000-homes-destroyed-tupancireta-11001778.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-21T01:38:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/brazil-2-2026-11-8495a697851b3cb20654801ddec35436-1200x800.jpg",
-      "summary": "दक्षिणी ब्राजील के टुपानसिरेटा में तूफान ने तबाही मचाई। हवा की रफ्तार 114 किलोमीटर प्रति घंटे तक पहुंची। तीन लोगों की मौत हुई और 5,000 घरों को नुकसान हुआ। अस्पताल की छत उड़ गई और 11 मरीजों को स्थानांतरित किया गया। दक्षिणी ब्राजील में शुक्रवार तड़के आए शक्तिशाली तूफान ने भारी तबाही मचाई. रियो ग्रांडे दो सुल राज्य के टुपानसिरेटा शहर में तीन लोगों की मौत हो गई और करीब 5,000 घरों को नुकसान पहुंचा.",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "114 किमी की रफ्तार से आया तूफान, एक घंटे में शहर को बना दिया खंडहर, 5000 घर तबाह, 3 की मौत",
-          "summary": "दक्षिणी ब्राजील के टुपानसिरेटा में तूफान ने तबाही मचाई। हवा की रफ्तार 114 किलोमीटर प्रति घंटे तक पहुंची। तीन लोगों की मौत हुई और 5,000 घरों को नुकसान हुआ। अस्पताल की छत उड़ गई और 11 मरीजों को स्थानांतरित किया गया। दक्षिणी ब्राजील में शुक्रवार तड़के आए शक्तिशाली तूफान ने भारी तबाही मचाई. रियो ग्रांडे दो सुल राज्य के टुपानसिरेटा शहर में तीन लोगों की मौत हो गई और करीब 5,000 घरों को नुकसान पहुंचा.",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "फैमिली के लिए सुरक्षित ईवी लेने का है प्लान?: भारत NCAP में इन पांच गाड़ियों ने हासिल किए 5 स्टार",
-      "url": "https://www.amarujala.com/automobiles/top-5-safest-electric-cars-india-these-evs-earned-5-stars-bharat-ncap-2026-11-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:35:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/20/paratakatamaka-tasavara_cbb5862503b5c4e17bbbe3c7cac98fc8.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत NCAP में पांच इलेक्ट्रिक वाहनों ने पांच स्टार सुरक्षा रेटिंग हासिल की। यह सूची परिवार के लिए सुरक्षित ईवी चुनने के लिए उपयोगी है। स्रोत में वाहनों के नाम या निर्माताओं का विवरण नहीं दिया गया है। फैमिली के लिए सुरक्षित ईवी लेने का है प्लान?: भारत NCAP में इन पांच गाड़ियों ने हासिल किए 5 स्टार, देखें लिस्ट।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फैमिली के लिए सुरक्षित ईवी लेने का है प्लान?: भारत NCAP में इन पांच गाड़ियों ने हासिल किए 5 स्टार",
-          "summary": "भारत NCAP में पांच इलेक्ट्रिक वाहनों ने पांच स्टार सुरक्षा रेटिंग हासिल की। यह सूची परिवार के लिए सुरक्षित ईवी चुनने के लिए उपयोगी है। स्रोत में वाहनों के नाम या निर्माताओं का विवरण नहीं दिया गया है। फैमिली के लिए सुरक्षित ईवी लेने का है प्लान?: भारत NCAP में इन पांच गाड़ियों ने हासिल किए 5 स्टार, देखें लिस्ट।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका से डील पर ईरान की दो टूक, विदेश मंत्री बोले- दो महीने बाद फिर युद्ध छिड़ जाए, ऐसे समझौते का",
-      "url": "https://www.patrika.com/world-news/iran-us-conflict-peace-deal-terms-abbas-araghchi-statement-21071942",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-21T01:32:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp",
-      "summary": "ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका के साथ किसी भी समझौते की शर्तें स्पष्ट कीं। तेहरान केवल मौजूदा तनाव से बचने के लिए हस्ताक्षर नहीं करेगा। समझौते में ईरान के राष्ट्रीय हितों की रक्षा और भविष्य के युद्ध की रोकथाम की ठोस गारंटी अनिवार्य है। Iran-US conflict: ईरान ने अमेरिका के साथ संभावित समझौते को लेकर अपना रुख स्पष्ट किया है।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका से डील पर ईरान की दो टूक, विदेश मंत्री बोले- दो महीने बाद फिर युद्ध छिड़ जाए, ऐसे समझौते का",
-          "summary": "ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका के साथ किसी भी समझौते की शर्तें स्पष्ट कीं। तेहरान केवल मौजूदा तनाव से बचने के लिए हस्ताक्षर नहीं करेगा। समझौते में ईरान के राष्ट्रीय हितों की रक्षा और भविष्य के युद्ध की रोकथाम की ठोस गारंटी अनिवार्य है। Iran-US conflict: ईरान ने अमेरिका के साथ संभावित समझौते को लेकर अपना रुख स्पष्ट किया है।",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "घर, ट्रैवल या पार्टी के लिए कौन सा रहेगा बेहतर? जानें दोनों के फायदे और नुकसान",
-      "url": "https://www.amarujala.com/technology/gadgets/portable-speaker-vs-party-speaker-features-sound-bass-price-which-one-to-buy-2026-11-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:31:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/20/portable-speaker-vs-party-speaker_5477a3fba82a1cee793692ba7be5659a.jpeg",
-      "summary": "ब्लूटूथ स्पीकर खरीदते समय उपभोक्ता अक्सर पोर्टेबल और पार्टी स्पीकर के बीच उलझन में रहते हैं। दोनों विकल्पों के फायदे और नुकसान अलग-अलग उपयोगों के लिए महत्वपूर्ण हैं। घर, यात्रा या पार्टियों के लिए सही चयन इन तथ्यों पर निर्भर करता है। Portable Speaker vs Party Speaker: नया ब्लूटूथ स्पीकर खरीदते समय अक्सर लोग इस उलझन में रहते हैं कि पोर्टेबल स्पीकर लें या बड़ा पार्टी स्पीकर।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "घर, ट्रैवल या पार्टी के लिए कौन सा रहेगा बेहतर? जानें दोनों के फायदे और नुकसान",
-          "summary": "ब्लूटूथ स्पीकर खरीदते समय उपभोक्ता अक्सर पोर्टेबल और पार्टी स्पीकर के बीच उलझन में रहते हैं। दोनों विकल्पों के फायदे और नुकसान अलग-अलग उपयोगों के लिए महत्वपूर्ण हैं। घर, यात्रा या पार्टियों के लिए सही चयन इन तथ्यों पर निर्भर करता है। Portable Speaker vs Party Speaker: नया ब्लूटूथ स्पीकर खरीदते समय अक्सर लोग इस उलझन में रहते हैं कि पोर्टेबल स्पीकर लें या बड़ा पार्टी स्पीकर।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "तुलसी विवाह पर इन चीजों से करें माता का सोलह श्रृंगार, बरसेगी भगवान विष्णु की कृपा",
-      "url": "https://www.amarujala.com/spirituality/festivals/tulsi-vivah-2026-tulsi-mata-shringar-vidhi-tulsi-ji-ka-shringar-kaise-kare-2026-11-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:25:58+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/aisa-kara-talsa-mata-ka-sharagara_0eef1ecd72568cd741556cf80b704dd4.jpeg?w=1200&dpr=1.0",
-      "summary": "तुलसी विवाह पर माता का सोलह श्रृंगार करने की विधि बताई गई है। इस पूजा से भगवान विष्णु की कृपा बरसने का मान्यता है। यह प्रक्रिया विशेष सामग्री और नियमों के अनुसार की जाती है। ऐसे करें तुलसी माता का श्रृंगार। तुलसी विवाह पर इन चीजों से करें माता का सोलह श्रृंगार, बरसेगी भगवान विष्णु की कृपा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तुलसी विवाह पर इन चीजों से करें माता का सोलह श्रृंगार, बरसेगी भगवान विष्णु की कृपा",
-          "summary": "तुलसी विवाह पर माता का सोलह श्रृंगार करने की विधि बताई गई है। इस पूजा से भगवान विष्णु की कृपा बरसने का मान्यता है। यह प्रक्रिया विशेष सामग्री और नियमों के अनुसार की जाती है। ऐसे करें तुलसी माता का श्रृंगार। तुलसी विवाह पर इन चीजों से करें माता का सोलह श्रृंगार, बरसेगी भगवान विष्णु की कृपा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "इस कथा के बिना अधूरी है तुलसी विवाह की पूजा, यहां पढ़ें इस दिन से जुड़ी यह पौराणिक कथा",
-      "url": "https://www.amarujala.com/spirituality/festivals/tulsi-vivah-2026-katha-and-shubh-muhurat-for-puja-in-hindi-2026-11-19",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:25:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/talsa-vavaha-2026_29cc6027b7a045afc57e47b1d942e455.jpeg?w=1200&dpr=1.0",
-      "summary": "तुलसी विवाह की पूजा को पूर्ण बनाने के लिए एक पौराणिक कथा का जिक्र किया गया है। इस दिन से जुड़ी यह कथा पूजा का अभिन्न अंग मानी जाती है। कथा के बिना पूजा अधूरी रहती है। इस कथा के बिना अधूरी है तुलसी विवाह की पूजा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "इस कथा के बिना अधूरी है तुलसी विवाह की पूजा, यहां पढ़ें इस दिन से जुड़ी यह पौराणिक कथा",
-          "summary": "तुलसी विवाह की पूजा को पूर्ण बनाने के लिए एक पौराणिक कथा का जिक्र किया गया है। इस दिन से जुड़ी यह कथा पूजा का अभिन्न अंग मानी जाती है। कथा के बिना पूजा अधूरी रहती है। इस कथा के बिना अधूरी है तुलसी विवाह की पूजा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "घर पर पहली बार कर रहे हैं तुलसी विवाह? जानें ये 5 बड़े नियम",
-      "url": "https://www.amarujala.com/spirituality/festivals/tulsi-vivah-niyam-and-puja-subh-muhurat-in-hindi-2026-11-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:25:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/20/talsa-vavaha-2026_48aba39e254212dbb5603aeb7d4e7fa6.jpeg?w=1200&dpr=1.0",
-      "summary": "घर पर पहली बार तुलसी विवाह करने वाले लोगों के लिए पाँच बड़े नियम बताए गए हैं। ये नियम पूजा को सही ढंग से करने में मदद करते हैं। प्रत्येक नियम का पालन करना आवश्यक है। तुलसी विवाह नियम। घर पर पहली बार कर रहे हैं तुलसी विवाह? जानें ये 5 बड़े नियम।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "घर पर पहली बार कर रहे हैं तुलसी विवाह? जानें ये 5 बड़े नियम",
-          "summary": "घर पर पहली बार तुलसी विवाह करने वाले लोगों के लिए पाँच बड़े नियम बताए गए हैं। ये नियम पूजा को सही ढंग से करने में मदद करते हैं। प्रत्येक नियम का पालन करना आवश्यक है। तुलसी विवाह नियम। घर पर पहली बार कर रहे हैं तुलसी विवाह? जानें ये 5 बड़े नियम।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "हथेली की इस रेखा में छिपे हैं विवाह के शुभ संकेत, जानें क्या कहता है हस्तरेखा शास्त्र",
-      "url": "https://www.amarujala.com/astrology/palmistry/palmistry-auspicious-signs-for-marriage-through-this-line-on-your-hand-vivah-yog-line-2026-11-20",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:24:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/20/vavaha-ka-shabha-rakha_977eec7602a8d0aee317445fc430803d.jpeg?w=1200&dpr=1.0",
-      "summary": "हस्तरेखा शास्त्र के अनुसार हथेली की विशिष्ट रेखा में विवाह के शुभ संकेत छिपे हैं। इस शास्त्र के अनुसार यह रेखा जीवनसाथी के साथ संबंधों की स्थिरता और समय को दर्शाती है। हथेली की इस रेखा में छिपे हैं विवाह के शुभ संकेत, जानें क्या कहता है हस्तरेखा शास्त्र।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "हथेली की इस रेखा में छिपे हैं विवाह के शुभ संकेत, जानें क्या कहता है हस्तरेखा शास्त्र",
-          "summary": "हस्तरेखा शास्त्र के अनुसार हथेली की विशिष्ट रेखा में विवाह के शुभ संकेत छिपे हैं। इस शास्त्र के अनुसार यह रेखा जीवनसाथी के साथ संबंधों की स्थिरता और समय को दर्शाती है। हथेली की इस रेखा में छिपे हैं विवाह के शुभ संकेत, जानें क्या कहता है हस्तरेखा शास्त्र।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "निखिल गुप्ता अब भी बच सकते हैं, 19 साल की सजा के बाद भी खुले हैं 5 रास्ते, भारत लौटने का भी रास्ता",
-      "url": "https://hindi.news18.com/world/america-nikhil-gupta-sentence-legal-options-appeal-india-return-11001683.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-21T01:23:03+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/nikhil-gupta-1-2026-11-e7a199bdafc4b0a4710213d271a43675-1200x800.jpg",
-      "summary": "अमेरिका की अदालत ने निखिल गुप्ता को 19 साल 7 महीने की सजा सुनाई है। वह अपील या सजा में कमी के लिए कानूनी राहत मांग सकते हैं। भारत में कैदी ट्रांसफर के जरिए बाकी सजा काटने का विकल्प भी खुला है। US News: अमेरिका की अदालत से 235 महीने यानी करीब 19 साल 7 महीने की सजा पाने के बाद भी निखिल गुप्ता के पास कुछ कानूनी विकल्प बचे हैं.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "निखिल गुप्ता अब भी बच सकते हैं, 19 साल की सजा के बाद भी खुले हैं 5 रास्ते, भारत लौटने का भी रास्ता",
-          "summary": "अमेरिका की अदालत ने निखिल गुप्ता को 19 साल 7 महीने की सजा सुनाई है। वह अपील या सजा में कमी के लिए कानूनी राहत मांग सकते हैं। भारत में कैदी ट्रांसफर के जरिए बाकी सजा काटने का विकल्प भी खुला है। US News: अमेरिका की अदालत से 235 महीने यानी करीब 19 साल 7 महीने की सजा पाने के बाद भी निखिल गुप्ता के पास कुछ कानूनी विकल्प बचे हैं.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'भारत से बेहतर कोई जगह नहीं': बच्चों की परवरिश के लिए लाखों की नौकरी छोड़ी, 18 साल बाद परिवार लौटा",
-      "url": "https://www.amarujala.com/india-news/indian-tech-engineer-leaves-silicon-valley-job-after-18-years-to-raise-children-in-bengaluru-2026-11-21",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-21T01:19:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/balajigururajan_6c08598658872218ea75cafd0e34ac4b.jpeg?w=1200&dpr=1.0",
-      "summary": "बंगलूरू में रहने वाला एक परिवार 18 साल बाद भारत लौटा है। उन्होंने बच्चों की परवरिश के लिए लाखों रुपये की नौकरी छोड़ी थी। परिवार का मानना है कि भारत से बेहतर कोई जगह नहीं है। 'भारत से बेहतर कोई जगह नहीं': बच्चों की परवरिश के लिए लाखों की नौकरी छोड़ी, 18 साल बाद परिवार लौटा बंगलूरू।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'भारत से बेहतर कोई जगह नहीं': बच्चों की परवरिश के लिए लाखों की नौकरी छोड़ी, 18 साल बाद परिवार लौटा",
-          "summary": "बंगलूरू में रहने वाला एक परिवार 18 साल बाद भारत लौटा है। उन्होंने बच्चों की परवरिश के लिए लाखों रुपये की नौकरी छोड़ी थी। परिवार का मानना है कि भारत से बेहतर कोई जगह नहीं है। 'भारत से बेहतर कोई जगह नहीं': बच्चों की परवरिश के लिए लाखों की नौकरी छोड़ी, 18 साल बाद परिवार लौटा बंगलूरू।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "असम से दिल्ली लाए गए सांसद अमृतपाल: दादी की अंत्येष्टि में होंगे शामिल, सुरक्षा के कड़े इंतजाम, 800",
-      "url": "https://www.amarujala.com/punjab/chandigarh-punjab/mp-amritpal-brought-to-delhi-from-assam-to-attend-grandmother-funeral-2026-11-21",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-21T01:16:17+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/21/sasatha-amatapal-saha_db5d7c17d9ce9e557e9011fc7aa30810.jpeg?w=1200&dpr=1.0",
-      "summary": "अमृतपाल सिंह को अपनी दादी की अंत्येष्टि में शामिल होने के लिए दिल्ली लाया गया है। उन्हें 21 नवंबर को दोपहर 12 से तीन बजे के बीच का समय दिया गया है। सुरक्षा के कड़े इंतजाम किए गए हैं। अमृतपाल के पिता तरसेम सिंह ने बताया कि अमृतपाल सिंह की दादी का 8 नवंबर को निधन हो गया था। अमृतपाल को अंतिम संस्कार में शामिल होने के लिए 21 नवंबर को दोपहर 12 से तीन बजे के बीच का समय दिया गया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "असम से दिल्ली लाए गए सांसद अमृतपाल: दादी की अंत्येष्टि में होंगे शामिल, सुरक्षा के कड़े इंतजाम, 800",
-          "summary": "अमृतपाल सिंह को अपनी दादी की अंत्येष्टि में शामिल होने के लिए दिल्ली लाया गया है। उन्हें 21 नवंबर को दोपहर 12 से तीन बजे के बीच का समय दिया गया है। सुरक्षा के कड़े इंतजाम किए गए हैं। अमृतपाल के पिता तरसेम सिंह ने बताया कि अमृतपाल सिंह की दादी का 8 नवंबर को निधन हो गया था। अमृतपाल को अंतिम संस्कार में शामिल होने के लिए 21 नवंबर को दोपहर 12 से तीन बजे के बीच का समय दिया गया है।",
-          "region": "एशिया-प्रशांत"
         }
       }
     }
