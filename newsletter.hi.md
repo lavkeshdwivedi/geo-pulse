@@ -1,122 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 21, 2026 03:31 IST
-
----
-
-## दुनिया
-
-### [आधुनिक बीट्स पर भजनों की धूम: नमो घाट की 'भजन क्लबिंग' ने मोहा मन, पीएम मोदी ने की युवाओं के उत्साह](https://www.amarujala.com/delhi/devotional-songs-set-to-modern-beats-bhajan-clubbing-at-namo-ghat-captivates-hearts-pm-modi-lauds-enthusiasm-o-2026-11-21)
-*Amar Ujala Breaking* - Nov 21, 12:52 IST (iso: 2026-11-21T07:22:54+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/paema-matha_2d37c373429d91b845eab0f3c62b433a.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री मोदी ने एक्स पर काशी के नमो घाट में आयोजित भजन क्लबिंग कार्यक्रम की सराहना की। उन्होंने युवाओं के उत्साहपूर्ण प्रदर्शन को प्रशंसित किया और इसे बाबा विश्वनाथ की नगरी का एक विशेष क्षण बताया। पीएम मोदी ने 'एक्स' पर एक पोस्ट में कहा, बाबा विश्वनाथ की नगरी काशी में 'भजन क्लबिंग' के आयोजन ने सबको मंत्रमुग्ध कर दिया।
-
-### [पुलिस महकमे में फेरबदल, दो आईपीएस और आठ इंस्पेक्टरों के तबादले; अभिषेक बनर्जी ने क्या उठाए सवाल?](https://www.amarujala.com/india-news/west-bengal-police-reshuffle-two-ips-officers-eight-inspectors-transferred-news-in-hindi-updates-2026-11-21)
-*Amar Ujala National* - Nov 21, 12:17 IST (iso: 2026-11-21T06:47:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/west-bengal-police-reshuffle-two-ips-officers-eight-inspectors-transferred_ae92f1e9b93bb505ece01fd4b8edc520.jpeg?w=1200&dpr=1.0 -->
-
-पश्चिम बंगाल में पुलिस विभाग में दो आईपीएस अधिकारियों और आठ इंस्पेक्टरों के तबादले किए गए। मुख्यमंत्री अभिषेक बनर्जी ने इस फेरबदल को लेकर सवाल उठाए हैं। पुलिस महकमे में फेरबदल, दो आईपीएस और आठ इंस्पेक्टरों के तबादले; अभिषेक बनर्जी ने क्या उठाए सवाल?
-
-### [ड्रोन, क्रिप्टोकरेंसी, कट्टरता और एआई दुरुपयोग पर चर्चा; एनआईए महानिदेशक क्या बोले?](https://www.amarujala.com/india-news/drones-cryptocurrencies-radicalisation-ai-misuse-dominate-anti-terror-conference-discussions-2026-11-21)
-*Amar Ujala National* - Nov 21, 02:11 IST (iso: 2026-11-20T20:41:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/anti-terrorism-conference-entire-network-of-terrorists-will-be-attacked-simultaneously-hm-amit-s_5a11ef0b38a4f093f47567272ffef136.jpeg?w=1200&dpr=1.0 -->
-
-एनआईए महानिदेशक ने ड्रोन, क्रिप्टोकरेंसी और एआई के दुरुपयोग पर चर्चा की। सम्मेलन में आतंकवाद के नए तरीकों पर बात हुई। ड्रोन, क्रिप्टोकरेंसी, कट्टरता और एआई दुरुपयोग पर चर्चा; एनआईए महानिदेशक क्या बोले?
-
-### [पुलिस को राष्ट्रपति सम्मान से सम्मानित करेंगे अमित शाह, क्या है पूरा कार्यक्रम?](https://www.amarujala.com/india-news/home-minister-amit-shah-arrived-in-arunachal-pradesh-for-a-three-day-visit-arunachal-pradesh-police-ndrf-2026-11-21)
-*Amar Ujala Breaking* - Nov 21, 01:30 IST (iso: 2026-11-20T20:00:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/home-minister-amit-shah-arrived-in-arunachal-pradesh-for-a-three-day-visit-arunachal-pradesh-police_e227a05303cd5b834fd1dec55872149c.jpeg?w=1200&dpr=1.0 -->
-
-अमित शाह अरुणाचल प्रदेश के तीन दिवसीय दौरे पर हैं। वे पुलिस बल को राष्ट्रपति सम्मान से सम्मानित करेंगे। इस दौरान एनडीआरएफ से भी मिलने का कार्यक्रम है। पुलिस को राष्ट्रपति सम्मान से सम्मानित करेंगे अमित शाह, क्या है पूरा कार्यक्रम?
-
-### [पांचवें कौशल दीक्षांत समारोह को करेंगे संबोधित, 52 मेधावियों को मिलेगा सम्मान](https://www.amarujala.com/lucknow/pm-modi-visit-lucknow-today-will-address-fifth-skill-convocation-ceremony-52-meritorious-individuals-to-honore-2026-11-21)
-*Amar Ujala Breaking* - Nov 21, 01:12 IST (iso: 2026-11-20T19:42:46+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/paema-matha-ka-lkhanauu-thara_56504f26510f0f1a3927be6b3fff54f4.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री लखनऊ में पांचवें कौशल दीक्षांत समारोह को संबोधित करेंगे। वे 52 मेधावियों को सम्मानित करेंगे। शहर में तैयारियां पूरी कर ली गई हैं। प्रधानमंत्री के इस दौरे को लेकर लखनऊ में तैयारियां पूरी कर ली गई हैं। इस समारोह में कौशल विकास के क्षेत्र में उत्कृष्ट प्रदर्शन करने वाले युवाओं को प्रधानमंत्री के हाथों सम्मानित किया जाएगा। पांचवें कौशल दीक्षांत समारोह को करेंगे संबोधित, 52 मेधावियों को मिलेगा सम्मान।
-
-### [आलू के बाद मंगल पर उग आया पूरा जंगल, लाल ग्रह पर चल क्या रहा है? नासा के ऑर्बिटर ने भेजी तस्वीर](https://hindi.news18.com/world/america-mars-forest-illusion-explained-nasa-orbiter-image-trend-after-lunar-soil-potato-farming-study-space-farming-11001294.html)
-*News18 Hindi (World)* - Nov 20, 21:23 IST (iso: 2026-11-20T15:53:20+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Mars-Forest-Illision-2026-11-f7eca8c49c245714eba2f069822ff908-1200x800.jpg -->
-
-नासा के मार्स रिकॉनिसेंस ऑर्बिटर की तस्वीर में मंगल के उत्तरी ध्रुव पर पेड़ों जैसी धारियां दिखीं। वैज्ञानिकों के अनुसार ये सूखी बर्फ के गैस बनने और रेत खिसकने का भ्रम हैं। बसंत में यह प्राकृतिक प्रक्रिया ढलानों पर अजीब नमूने बनाती है। नासा के मार्स रिकॉनिसेंस ऑर्बिटर की एक वायरल तस्वीर चर्चा में है. इसमें मंगल के उत्तरी ध्रुव के टीलों पर पेड़ों जैसी धारियां दिखती हैं.
-
----
-
-## एशिया-प्रशांत
-
-### [अमेरिका में अंडरकवर अधिकारी को समझने में चूक गया 'इंडियन योगा', नहीं उतार पाया 'हिटमैन' का नकाब](https://www.amarujala.com/india-news/nikhil-gupta-indian-yoga-fails-to-identify-undercover-officer-in-america-fails-to-unmask-hitman-2026-11-21)
-*Amar Ujala Breaking* - Nov 21, 12:22 IST (iso: 2026-11-21T06:52:43+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/nikhil-gupta-indian-yoga-fails-to-identify-undercover-officer-in-america-fails-to-unmask-hitman_92f35494dc72dc7003a03bd8ee2c4ffe.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिका में निखिल गुप्ता, जिन्हें इंडियन योगा कहा जाता है, ने एक अंडरकवर अधिकारी की पहचान नहीं कर पाई। इस चूक के कारण उन्होंने हिटमैन का नकाब उतारने में भी असफल रहे। अमेरिका में अंडरकवर अधिकारी को समझने में चूक गया 'इंडियन योगा', नहीं उतार पाया 'हिटमैन' का नकाब।
-
-### [दक्षिण दिल्ली में शादियों के चलते भारी जाम की संभावना, इन प्रमुख मार्गों से बचने की सलाह](https://www.amarujala.com/delhi/traffic-alert-heavy-congestion-expected-in-south-delhi-due-to-weddings-commuters-advised-to-avoid-these-key-ro-2026-11-21)
-*Amar Ujala Breaking* - Nov 21, 12:15 IST (iso: 2026-11-21T06:45:23+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/11/thall-tarafaka-palsa-na-jara-ka-edavaijara_ec6b56efc503236fbad68367c2344c3b.jpeg?w=1200&dpr=1.0 -->
-
-दक्षिण दिल्ली में 27 से अधिक शादियों के कारण भारी जाम की संभावना है। एसएसएन मार्ग, बांध रोड, मंडी रोड और एसजी रोड पर 12,000 से अधिक लोग और पांच हजार वाहन आने की उम्मीद है। दक्षिण दिल्ली में एसएसएन मार्ग (भाटी माइन्स रोड), बांध रोड, मंडी रोड और एसजी रोड पर 27 से अधिक शादियों का आयोजन प्रस्तावित है।
-
-### [मुंबई-पुणे-नागपुर में मेट्रो स्टेशन के नाम बदलने पर बनी समिति; राज्य में जमीन की डिजिटल पहचान होगी](https://www.amarujala.com/india-news/maharashtra-updates-of-21-nov-maharashtra-news-politics-crime-mumbai-thane-maharashtra-news-in-hindi-2026-11-21)
-*Amar Ujala National* - Nov 21, 02:24 IST (iso: 2026-11-20T20:54:32+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0 -->
-
-महाराष्ट्र सरकार ने मुंबई, पुणे और नागपुर के मेट्रो स्टेशन नाम बदलने के लिए समिति बनाई है। राज्य में जमीन की डिजिटल पहचान प्रणाली भी शुरू की जाएगी। मुंबई-पुणे-नागपुर में मेट्रो स्टेशन के नाम बदलने पर बनी समिति; राज्य में जमीन की डिजिटल पहचान होगी।
-
-### [भारत की जीडीपी ग्रोथ से ट्रंप प्रभावित: बोले- अमेरिका की अर्थव्यवस्था 20% तक बढ़ सकती है, किस पर](https://www.amarujala.com/world/donald-trump-praises-india-low-interest-rates-criticises-us-federal-reserve-2026-11-21)
-*Amar Ujala Breaking* - Nov 21, 02:10 IST (iso: 2026-11-20T20:40:09+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/donald-trump-praises-india-low-interest-rates-criticises-us-federal-reserve_e84c09e9ebaa64e5edeba349e52f8489.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप ने भारत की कम ब्याज दरों की प्रशंसा की। उन्होंने अमेरिकी अर्थव्यवस्था में 20 प्रतिशत वृद्धि की संभावना बताई। भारत की जीडीपी ग्रोथ से ट्रंप प्रभावित: बोले- अमेरिका की अर्थव्यवस्था 20% तक बढ़ सकती है, किस पर।
-
-### [बोले- देश से बाहर डेटा सेंटर बनाने लगेगा दंड, चीन से एआई की होड़ पर क्या कहा?](https://www.amarujala.com/world/trump-says-us-companies-won-t-be-allowed-to-build-data-centres-abroad-2026-11-21)
-*Amar Ujala World* - Nov 21, 01:54 IST (iso: 2026-11-20T20:24:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/trump_8407be059bb42510d5fe485ea6e3eb46.jpeg?w=1200&dpr=1.0 -->
-
-ट्रंप ने अमेरिकी कंपनियों को विदेश में डेटा सेंटर बनाने पर रोक लगाई। चीन से एआई प्रतिस्पर्धा पर भी टिप्पणी की गई। बोले- देश से बाहर डेटा सेंटर बनाने लगेगा दंड, चीन से एआई की होड़ पर क्या कहा?
-
-### [एनआईए डीजी बोले-अंतिम चरण में जांच, एक आरोपी की तलाश, पाकिस्तान में छिपे होने का शक](https://www.amarujala.com/delhi-ncr/delhi-red-fort-blast-nia-dg-says-investigation-is-in-its-final-stages-one-suspect-is-being-sought-and-is-suspe-2026-11-21)
-*Amar Ujala Breaking* - Nov 21, 01:36 IST (iso: 2026-11-20T20:06:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/ll-kal-blsata_1b0dc3c60376e265eda82b4982017b89.jpeg?w=1200&dpr=1.0 -->
-
-एनआईए ने कहा कि जांच अंतिम चरण में है। एक आरोपी की तलाश जारी है। उसे पाकिस्तान में छिपा हुआ माना जाता है। मुख्य आरोपी पुलवामा निवासी उमर उन नबी था। उमर उन नबी विस्फोटक से भरी कार चला रहा था। धमाके में उसकी भी मौत हो गई थी। एनआईए के अनुसार, सभी आरोपी अलकायदा से जुड़े अंसार गजवात-उल-हिंद के सदस्य थे।
-
-### [ट्रंप बोले- शानदार रही बैठक; रूबियो ने क्या कहा? 2027 में मुंबई में जुटेंगे दिग्गज](https://www.amarujala.com/world/trump-calls-quad-summit-fantastic-highlights-five-major-outcomes-india-to-host-business-forum-in-mumbai-2027-2026-11-21)
-*Amar Ujala Breaking* - Nov 21, 01:05 IST (iso: 2026-11-20T19:35:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/17/kavada-thasha-ka-natao-ka-bthaka_6b509e9c1775dabf72866983397fc465.gif?w=1200&dpr=1.0 -->
-
-ट्रंप ने क्वाड शिखर सम्मेलन को शानदार बताया। रूबियो ने भी बैठक की प्रशंसा की। 2027 में मुंबई में व्यापार मंच का आयोजन होगा। क्वाड समिट में बड़ी सफलता: ट्रंप बोले- शानदार रही बैठक; रूबियो ने क्या कहा? 2027 में मुंबई में जुटेंगे दिग्गज।
-
-### [अब खत्म हो जाएगी पेट्रोल-डीजल की जरूरत, प्योर हाइड्रोजन पर 195KM लंबा ब्रेकथ्रू, क्या है ये नया](https://hindi.news18.com/world/china-end-of-petrol-and-diesel-china-launches-195km-pure-hydrogen-pipeline-to-power-future-cars-and-industries-cuts-transport-costs-11001495.html)
-*News18 Hindi (World)* - Nov 20, 23:02 IST (iso: 2026-11-20T17:32:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-Launches-195km-Pure-Hydrogen-Pipeline-2026-11-20b099dfc1318e904a21827b3056e15c-1200x800.jpg -->
-
-चीन में 195 किलोमीटर लंबी प्योर हाइड्रोजन पाइपलाइन शुरू की गई है। इससे ग्रीन हाइड्रोजन की ढुलाई का खर्च कम होगा। सौर और पवन ऊर्जा से बने इस ईंधन से वाहन और उद्योग में प्रदूषण घटेगा। पेट्रोल और डीजल का विकल्प तलाशने के लिए एक बड़ा कदम उठाया गया है. चीन में प्योर हाइड्रोजन फ्यूल को बढ़ावा देने के लिए 195 किलोमीटर लंबी एक खास पाइपलाइन शुरू हुई है.
-
-### [खालिस्तानी पन्नू की हत्या की साजिश में निखिल गुप्ता को 235 महीनों की जेल, अमेरिकी कोर्ट ने सुनाई सजा](https://hindi.news18.com/world/america-indian-national-nikhil-gupta-sentence-235-months-jail-for-khalistani-gurpatwant-singh-pannun-murder-plot-us-court-11001492.html)
-*News18 Hindi (World)* - Nov 20, 22:51 IST (iso: 2026-11-20T17:21:13+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/nikhil-gupta-gurpatwant-pannun-us-court-sentencing-hearing-2026-11-b5edd2ecefb3ee6496c80a8c01aaae27-1200x800.jpg -->
-
-अमेरिकी संघीय अदालत ने निखिल गुप्ता को 235 महीने की सजा सुनाई। यह सजा गुरपतवंत सिंह पन्नू की हत्या की साजिश के मामले में है। अभियोजन पक्ष ने 24 साल की सजा की मांग की थी। Pannun Murder Plot: अमेरिका की एक संघीय अदालत ने खालिस्तानी अलगाववादी गुरपतवंत सिंह पन्नू की हत्या की साजिश के मामले में भारतीय नागरिक निखिल गुप्ता को 235 महीने यानी करीब 19 साल 7 महीने की जेल की सजा सुनाई है.
-
-### [चीन वाली महा-मीटिंग से लौटते ही मंत्री पर चिल्ला पड़े ट्रंप? किसी ने चुपके से बना लिया वीडियो](https://hindi.news18.com/world/america-did-trump-snap-at-commerce-minister-howard-lutnick-after-china-trip-viral-plane-video-sparks-chip-feud-buzz-11001390.html)
-*News18 Hindi (World)* - Nov 20, 22:13 IST (iso: 2026-11-20T16:43:23+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Donald-Trump-Viral-Video-2026-11-bfa859b19bd313ebcc7468c30ccf9633-1200x800.jpg -->
-
-ट्रंप के चीन दौरे के बाद वायरल वीडियो में वे तीखी बातचीत करते दिख रहे हैं। दावा है कि वे वाणिज्य मंत्री हॉवर्ड लुटनिक पर भड़के हुए हैं। लुटनिक पर चीन को चिप्स भेजने के मामले में दबाव बढ़ा है। चीन और एशिया दौरे से लौटने के बाद अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप का एक वीडियो सोशल मीडिया पर वायरल हो रहा है.
-
-### [बांग्लादेश में मंत्री के घर पर फोड़ा पेट्रोल बम, प्रधानमंत्री के कंट्रोल से बाहर हुए हालात, फिर धधक](https://hindi.news18.com/world/south-asia-petrol-bomb-attack-at-bangladesh-minister-humayun-kabir-home-as-unrest-escalates-amid-sheikh-hasina-return-buzz-11001096.html)
-*News18 Hindi (World)* - Nov 20, 19:16 IST (iso: 2026-11-20T13:46:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Bangladesh-unrest-2026-11-126f1f1f722bd812d8f53a45a8999230-1200x800.jpg -->
-
-बांग्लादेश में सिलहट के विदेश राज्य मंत्री हुमायूं कबीर के घर पर 20 नवंबर को पेट्रोल बम से हमला हुआ। इससे एक दिन पहले उनके घर के बाहर कपड़ों में आग लगाई गई थी। बीते दस दिनों में ग्रामीण बैंक की 72 शाखाओं पर भी हमले हुए हैं। बांग्लादेश में राजनीतिक तनाव लगातार बढ़ रहा है. 20 नवंबर को सिलहट में विदेश राज्य मंत्री हुमायूं कबीर के घर पर पेट्रोल बम से हमला हुआ.
-
-### [सीमा पार आतंकवाद के सवाल पर बगलें झांकते दिखे पाकिस्तानी मंत्री, बोले- ‘कल जवाब दूंगा’](https://www.patrika.com/world-news/pakistan-minister-musadik-malik-evades-cross-border-terrorism-question-sco-forum-delhi-21071206)
-*Patrika (World)* - Nov 20, 18:56 IST (iso: 2026-11-20T13:26:21+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Musadik-Malik.webp -->
-
-नई दिल्ली में SCO सिविलाइजेशन डायलॉग फोरम के दौरान पाकिस्तानी जलवायु मंत्री मुसादिक मसूद मलिक ने सीमा पार आतंकवाद के सवाल पर सीधा जवाब देने से बचते हुए कहा कि वे अगले दिन बयान देंगे। SCO Civilization Dialogue Forum: पाकिस्तान के जलवायु परिवर्तन मंत्री मुसादिक मसूद मलिक ने शुक्रवार को नई दिल्ली में आयोजित शंघाई सहयोग संगठन (SCO) के ‘सिविलाइजेशन डायलॉग फोरम’ के दौरान सीमा पार आतंकवाद को लेकर भारत की चिंताओं पर सीधा जवाब देने से बचते हुए कहा कि वे इस मुद्दे पर ‘कल’ बयान देंगे।
+**अपडेट:** November 21, 2026 08:31 IST
 
 ---
 
@@ -128,49 +12,169 @@
 
 रूस ने पुतिन, ट्रंप और जिनपिंग की मुलाकात को ऐतिहासिक घोषित किया। इसमें यूरोप के अनुपस्थित रहने पर जोर दिया गया, जबकि यूक्रेन पर हमले जारी हैं। पुतिन-ट्रंप-जिनपिंग की मुलाकात को रूस ने बताया ऐतिहासिक: यूरोप को दिखाया बाहर का रास्ता, यूक्रेन पर।
 
-### [भारत की कम ब्याज दर और 7% जीडीपी ग्रोथ पर फिदा हुए ट्रंप, अमेरिका में किया बड़ा ऐलान](https://hindi.news18.com/world/america-donald-trump-live-cites-india-low-interest-rates-and-7-percent-gdp-praises-pm-modi-push-for-us-rate-cuts-after-china-visit-11001603.html)
-*News18 Hindi (World)* - Nov 21, 01:31 IST (iso: 2026-11-20T20:01:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Trump-On-India-GDP-2026-11-ab56d0d55745c1313715bc7d5d2b96de-1200x800.jpg -->
+### [आज शनिवार को कहां बैंक बंद हैं और कहां खुले? ब्रांच जाने से पहले यहां करें चेक](https://www.amarujala.com/photo-gallery/utility/bank-holiday-list-november-2026-are-banks-closed-or-open-aaj-bank-open-hai-kya-2026-11-21)
+*Amar Ujala National* - Nov 21, 07:15 IST (iso: 2026-11-21T01:45:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/aaja-shanavara-ka-bka-btha-ha_71c1d0ec4a0d1fc1fdb841140eae61ac.jpeg?w=1200&dpr=1.0 -->
 
-ट्रंप ने भारत की कम ब्याज दरों और सात फीसदी ग्रोथ का उदाहरण देकर अमेरिका में ब्याज दरें घटाने का ऐलान किया। उन्होंने चीन, रूस और यूक्रेन पर भी अपनी बातचीत का जिक्र किया। अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने अपनी लाइव स्पीच में अमेरिका में ब्याज दरें घटाने की बात कही. इसके लिए उन्होंने भारत की कम ब्याज दरों और 7 फीसदी जीडीपी ग्रोथ का उदाहरण दिया.
+21 नवंबर को देश के सभी बैंक बंद रहेंगे। यह महीने का दूसरा शनिवार है। नियम के अनुसार दूसरे और चौथे शनिवार को बैंक बंद रहते हैं। ग्राहकों को बैंक जाने से पहले इसकी जांच करनी चाहिए। आज 21 नवंबर को बैंक जाने से पहले बैंकों की छुट्टियों के बारे में जरूर चेक करें महीने के दूसरे और चौथे शनिवार को देश के सभी बैंक बंद रहते हैं।
+
+### [घर, ट्रैवल या पार्टी के लिए कौन सा रहेगा बेहतर? जानें दोनों के फायदे और नुकसान](https://www.amarujala.com/technology/gadgets/portable-speaker-vs-party-speaker-features-sound-bass-price-which-one-to-buy-2026-11-20)
+*Amar Ujala National* - Nov 21, 07:01 IST (iso: 2026-11-21T01:31:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/portable-speaker-vs-party-speaker_5477a3fba82a1cee793692ba7be5659a.jpeg -->
+
+ब्लूटूथ स्पीकर खरीदते समय उपभोक्ता अक्सर पोर्टेबल और पार्टी स्पीकर के बीच उलझन में रहते हैं। दोनों विकल्पों के फायदे और नुकसान अलग-अलग उपयोगों के लिए महत्वपूर्ण हैं। घर, यात्रा या पार्टियों के लिए सही चयन इन तथ्यों पर निर्भर करता है। Portable Speaker vs Party Speaker: नया ब्लूटूथ स्पीकर खरीदते समय अक्सर लोग इस उलझन में रहते हैं कि पोर्टेबल स्पीकर लें या बड़ा पार्टी स्पीकर।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [रूस-यूक्रेन युद्ध खत्म कराने की अच्छी संभावना, कहा- ईरान को परमाणु हथियार नहीं बनाने देंगे](https://www.amarujala.com/world/we-can-get-it-done-trump-positive-on-end-to-ukraine-conflict-warns-iran-wont-have-nuke-2026-11-21)
-*Amar Ujala World* - Nov 21, 01:16 IST (iso: 2026-11-20T19:46:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/we-can-get-it-done-trump-positive-on-end-to-ukraine-conflict-warns-iran-wont-have-nuke_f1cda4f31660843efb297346c6b0fb35.jpeg?w=1200&dpr=1.0 -->
+### [मिस्र की खुदाई में मिला सोने की जीभ वाला कब्रिस्तान, मुर्दों के मुंह में भरा है गोल्ड](https://hindi.news18.com/world/rest-of-world-egypt-ancient-cemetery-hundreds-coffins-gold-tongues-discovery-11001827.html)
+*News18 Hindi (World)* - Nov 21, 08:27 IST (iso: 2026-11-21T02:57:07+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/gold-tongue-2026-11-78fa5f7f941019a04551981ad3c01d57-1200x800.jpg -->
 
-ट्रंप ने कहा कि रूस-यूक्रेन युद्ध समाप्त करने की अच्छी संभावना है। उन्होंने ईरान को परमाणु हथियार बनाने से रोकने का भी वादा किया। रूस-यूक्रेन युद्ध खत्म कराने की अच्छी संभावना, कहा- ईरान को परमाणु हथियार नहीं बनाने देंगे।
+मिस्र के मेनूफिया राज्य में 2,000 वर्ष पुराने कब्रिस्तान की खोज हुई। सैकड़ों ताबूत, सोने की जीभें और बाज के शव बरामद हुए। प्राचीन मान्यता थी कि मृतक को परलोक में बोलने की आवश्यकता होती है। Egypt Tomb Golden Tongue: मिस्र के मेनूफिया राज्य में पुरातत्वविदों को 2,000 साल से भी पुराने कब्रिस्तान के अवशेष मिले हैं. खुदाई में सैकड़ों पत्थर और मिट्टी के ताबूत, सोने की जीभ, गहने, ताबीज, छोटी मूर्तियां और बाज के दो शव मिले हैं.
 
-### [ईरान युद्ध पर ट्रंप को सीनेट से राहत, होर्मुज स्ट्रेट और इजरायल के नए हमले की क्या है पूरी रणनीति?](https://www.patrika.com/world-news/iran-us-war-trump-senate-war-powers-strait-of-hormuz-israel-21071900)
-*Patrika (World)* - Nov 21, 00:03 IST (iso: 2026-11-20T18:33:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Iran-US-War.webp -->
+### [ईरान युद्ध पर डोनाल्ड ट्रंप को मिली बड़ी राहत, सीनेट ने सेना की वापसी से जुड़े प्रस्ताव को किया](https://www.amarujala.com/world/trump-gets-major-reprieve-regarding-potential-war-iran-senate-rejects-resolution-concerning-withdrawal-troops-2026-11-21)
+*Amar Ujala World* - Nov 21, 08:17 IST (iso: 2026-11-21T02:47:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/danalda-tarapa-amaraka-rashhatarapata_510b3d799e25651adbeda0e8bf99af78.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी सीनेट ने 51-48 मतों से वॉर पावर्स प्रस्ताव अस्वीकार कर दिया। इससे राष्ट्रपति ट्रंप को ईरान के खिलाफ सैन्य कार्रवाई जारी रखने की राजनीतिक राहत मिली है। वोटिंग में केवल तीन वोटों का अंतर रहा। Iran US War: ईरान के साथ जारी युद्ध को लेकर अमरीकी राष्ट्रपति डॉनल्ड ट्रंप को सीनेट से बड़ी राहत मिली है। सीनेट में राष्ट्रपति के युद्ध संबंधी अधिकार सीमित करने वाला वॉर पावर्स प्रस्ताव 51-48 मतों से गिर गया।
+अमेरिकी सीनेट ने ईरान युद्ध से सेना की वापसी के प्रस्ताव को खारिज कर दिया। इससे डोनाल्ड ट्रंप को बड़ी राहत मिली। सेना की तैनाती जारी रखने का रास्ता खुला है। ईरान युद्ध पर डोनाल्ड ट्रंप को मिली बड़ी राहत, सीनेट ने सेना की वापसी से जुड़े प्रस्ताव को किया।
 
-### [‘मुझसे शादी करोगी’, MP ने संसद में गर्लफ्रेंड को किया प्रपोज, ठगे से देखते रहे स्पीकर](https://hindi.news18.com/world/rest-of-world-will-you-marry-me-australian-mp-proposes-to-girlfriend-in-parliament-during-farewell-speech-speaker-left-stunned-11001542.html)
-*News18 Hindi (World)* - Nov 20, 23:21 IST (iso: 2026-11-20T17:51:30+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Australian-MP-Proposes-to-Girlfriend-in-Parliament-2026-11-185b587fe695a5a542762ee741bdded1-1200x800.jpg -->
+### [अमेरिका से डील पर ईरान की दो टूक, विदेश मंत्री बोले- दो महीने बाद फिर युद्ध छिड़ जाए, ऐसे समझौते का](https://www.patrika.com/world-news/iran-us-conflict-peace-deal-terms-abbas-araghchi-statement-21071942)
+*Patrika (World)* - Nov 21, 07:02 IST (iso: 2026-11-21T01:32:01+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/araghchi_d1a93f.webp -->
 
-ऑस्ट्रेलिया के न्यू साउथ वेल्स संसद में सांसद जॉर्डन लेन ने विदाई भाषण के दौरान प्रपोज किया। उन्होंने पब्लिक गैलरी में बैठी अपनी दस साल पुरानी पार्टनर नताली हिसी से शादी का प्रस्ताव रखा। स्पीकर भी इस नजारे से हैरान रह गए। ऑस्ट्रेलिया के न्यू साउथ वेल्स संसद में 19 नवंबर को एक बड़ा सरप्राइज देखने को मिला. सिडनी के राइड से सांसद जॉर्डन लेन अपनी विदाई स्पीच दे रहे थे.
+ईरान के विदेश मंत्री अब्बास अराघची ने अमेरिका के साथ किसी भी समझौते की शर्तें स्पष्ट कीं। तेहरान केवल मौजूदा तनाव से बचने के लिए हस्ताक्षर नहीं करेगा। समझौते में ईरान के राष्ट्रीय हितों की रक्षा और भविष्य के युद्ध की रोकथाम की ठोस गारंटी अनिवार्य है। Iran-US conflict: ईरान ने अमेरिका के साथ संभावित समझौते को लेकर अपना रुख स्पष्ट किया है।
+
+---
+
+## एशिया-प्रशांत
+
+### [तीसरे दिन चायकाल तक भारत का स्कोर 344/2, न्यूजीलैंड से 24 रन पीछे, राहुल 124 पर नाबाद](https://www.amarujala.com/live/cricket/new-zealand-vs-india-1st-test-day-3-live-cricket-score-and-updates-kl-rahul-padikkal-shubman-score-live-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 08:22 IST (iso: 2026-11-21T02:52:54+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/new-zealand-vs-india-ind-vs-nz-1st-test-india-tour-of-new-zealand-2026-ind-vs-nz-live-score-in_c4f6d926eb924daf019273edd6dd0779.jpeg?w=1200&dpr=1.0 -->
+
+न्यूजीलैंड के 368 रन के जवाब में भारत ने दूसरे दिन खेल समाप्ति पर एक विकेट पर 159 रन बनाए। तीसरे दिन चायकाल तक स्कोर 344/2 रहा। राहुल द्रविड़ 124 रन पर नाबाद रहे। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। न्यूजीलैंड के 368 रन के जवाब में भारत ने दूसरे दिन का खेल समाप्त होने तक एक विकेट पर 159 रन बना लिए हैं।
+
+### [चीन को पुराने चिप्स की बिक्री पर नहीं लगेंगे नए प्रतिबंध, अमेरिकी वित्त मंत्री दे दिया बड़ा बयान](https://www.amarujala.com/business/business-diary/no-new-curbs-on-older-nvidia-chips-to-china-says-us-treasury-secretary-scott-bessent-amid-export-scrutiny-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 07:34 IST (iso: 2026-11-21T02:04:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/scott-besent_4ae746dd752769aec91e276f27a91cf5.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने चीन को पुराने एनवीडिया चिप्स की बिक्री पर नए प्रतिबंध लगाने से इनकार किया। इससे टेक कंपनियों के लिए 8.5 लाख चिप मंजूरियों का रास्ता खुला है। अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने चीन को पुराने एनवीडिया चिप्स के निर्यात पर नए प्रतिबंधों की संभावना से इनकार किया है। 8.5 लाख से अधिक चिप मंजूरियों और टेक कंपनियों के रुख पर पढ़ें यह विस्तृत रिपोर्ट।
+
+### [कटक की बाली यात्रा महोत्सव का उद्घाटन करेंगी राष्ट्रपति; जापान दौरे पर जाएंगे सीएम शिवकुमार](https://www.amarujala.com/india-news/news-updates-of-21-nov-india-news-politics-crime-central-govt-news-in-hindi-hindi-news-news-updates-2026-11-21)
+*Amar Ujala National* - Nov 21, 07:11 IST (iso: 2026-11-21T01:41:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/31/thasha-ka-bugdha-khabra_08d8df88d0a26311494cc09fcb7205b6.jpeg?w=1200&dpr=1.0 -->
+
+राष्ट्रपति कटक में बाली यात्रा महोत्सव का उद्घाटन करेंगी। इसी दौरान मुख्यमंत्री शिवकुमार जापान दौरे पर जाएंगे। दोनों घटनाएं 21 नवंबर को हो रही हैं। स्रोत में अन्य विवरण उपलब्ध नहीं है। कटक की बाली यात्रा महोत्सव का उद्घाटन करेंगी राष्ट्रपति; जापान दौरे पर जाएंगे सीएम शिवकुमार।
+
+### [फैमिली के लिए सुरक्षित ईवी लेने का है प्लान?: भारत NCAP में इन पांच गाड़ियों ने हासिल किए 5 स्टार](https://www.amarujala.com/automobiles/top-5-safest-electric-cars-india-these-evs-earned-5-stars-bharat-ncap-2026-11-20)
+*Amar Ujala National* - Nov 21, 07:05 IST (iso: 2026-11-21T01:35:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/paratakatamaka-tasavara_cbb5862503b5c4e17bbbe3c7cac98fc8.jpeg?w=1200&dpr=1.0 -->
+
+भारत NCAP में पांच इलेक्ट्रिक वाहनों ने पांच स्टार सुरक्षा रेटिंग हासिल की। यह सूची परिवार के लिए सुरक्षित ईवी चुनने के लिए उपयोगी है। स्रोत में वाहनों के नाम या निर्माताओं का विवरण नहीं दिया गया है। फैमिली के लिए सुरक्षित ईवी लेने का है प्लान?: भारत NCAP में इन पांच गाड़ियों ने हासिल किए 5 स्टार, देखें लिस्ट।
+
+### [निखिल गुप्ता अब भी बच सकते हैं, 19 साल की सजा के बाद भी खुले हैं 5 रास्ते, भारत लौटने का भी रास्ता](https://hindi.news18.com/world/america-nikhil-gupta-sentence-legal-options-appeal-india-return-11001683.html)
+*News18 Hindi (World)* - Nov 21, 06:53 IST (iso: 2026-11-21T01:23:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/nikhil-gupta-1-2026-11-e7a199bdafc4b0a4710213d271a43675-1200x800.jpg -->
+
+अमेरिका की अदालत ने निखिल गुप्ता को 19 साल 7 महीने की सजा सुनाई है। वह अपील या सजा में कमी के लिए कानूनी राहत मांग सकते हैं। भारत में कैदी ट्रांसफर के जरिए बाकी सजा काटने का विकल्प भी खुला है। US News: अमेरिका की अदालत से 235 महीने यानी करीब 19 साल 7 महीने की सजा पाने के बाद भी निखिल गुप्ता के पास कुछ कानूनी विकल्प बचे हैं.
+
+### ['भारत से बेहतर कोई जगह नहीं': बच्चों की परवरिश के लिए लाखों की नौकरी छोड़ी, 18 साल बाद परिवार लौटा](https://www.amarujala.com/india-news/indian-tech-engineer-leaves-silicon-valley-job-after-18-years-to-raise-children-in-bengaluru-2026-11-21)
+*Amar Ujala National* - Nov 21, 06:49 IST (iso: 2026-11-21T01:19:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/balajigururajan_6c08598658872218ea75cafd0e34ac4b.jpeg?w=1200&dpr=1.0 -->
+
+बंगलूरू में रहने वाला एक परिवार 18 साल बाद भारत लौटा है। उन्होंने बच्चों की परवरिश के लिए लाखों रुपये की नौकरी छोड़ी थी। परिवार का मानना है कि भारत से बेहतर कोई जगह नहीं है। 'भारत से बेहतर कोई जगह नहीं': बच्चों की परवरिश के लिए लाखों की नौकरी छोड़ी, 18 साल बाद परिवार लौटा बंगलूरू।
+
+### [असम से दिल्ली लाए गए सांसद अमृतपाल: दादी की अंत्येष्टि में होंगे शामिल, सुरक्षा के कड़े इंतजाम, 800](https://www.amarujala.com/punjab/chandigarh-punjab/mp-amritpal-brought-to-delhi-from-assam-to-attend-grandmother-funeral-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 06:46 IST (iso: 2026-11-21T01:16:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/sasatha-amatapal-saha_db5d7c17d9ce9e557e9011fc7aa30810.jpeg?w=1200&dpr=1.0 -->
+
+अमृतपाल सिंह को अपनी दादी की अंत्येष्टि में शामिल होने के लिए दिल्ली लाया गया है। उन्हें 21 नवंबर को दोपहर 12 से तीन बजे के बीच का समय दिया गया है। सुरक्षा के कड़े इंतजाम किए गए हैं। अमृतपाल के पिता तरसेम सिंह ने बताया कि अमृतपाल सिंह की दादी का 8 नवंबर को निधन हो गया था। अमृतपाल को अंतिम संस्कार में शामिल होने के लिए 21 नवंबर को दोपहर 12 से तीन बजे के बीच का समय दिया गया है।
 
 ---
 
 ## अमेरिका
 
-### [अमेरिका के F-22 फाइटर जेट्स हुए ‘अंधे’? वायु सेना में हुई अजीब किल्लत, खोज रही 256 MB मेमोरी कार्ड](https://hindi.news18.com/world/america-are-us-f-22-stealth-fighters-going-blind-air-force-hunts-for-outdated-256mb-1990s-memory-cards-11001198.html)
-*News18 Hindi (World)* - Nov 20, 20:11 IST (iso: 2026-11-20T14:41:25+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-F22-2026-11-57a48acf352205e98ca31d6541f1873f-1200x800.jpg -->
+### ['अमेरिकी नागरिकों को निशाना बनाया तो खैर नहीं', एफबीआई चीफ की साइबर अपराधियों को दो टूक](https://www.amarujala.com/world/fbi-launches-operation-winter-shield-against-cyber-criminals-as-jpmorgan-chase-faces-third-party-vendor-data-2026-11-21)
+*Amar Ujala World* - Nov 21, 08:19 IST (iso: 2026-11-21T02:49:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/kash-patel_49b9557946c8931d90ef9b60d0f8a216.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी वायु सेना को F-22 रैप्टर जेट के मिशन डेटा सिस्टम के लिए पुराने मेमोरी कार्ड चाहिए। 16 नवंबर को जारी नोटिस में कम से कम 256 MB क्षमता वाले खास फॉर्मेट के कार्ड मांगे गए। यह 1990 के दशक की तकनीक पर निर्भर करता है। अमेरिका के F-22 रैप्टर स्टील्थ फाइटर जेट के मिशन डेटा सिस्टम को चालू रखना है.
+एफबीआई निदेशक काश पटेल ने साइबर अपराधियों को सख्त चेतावनी दी। जेपी मॉर्गन डेटा ब्रीच के बीच 'ऑपरेशन विंटर शील्ड' शुरू किया गया। अमेरिकी नागरिकों को निशाना बनाने वालों के खिलाफ कड़ी कार्रवाई होगी। एफबीआई निदेशक काश पटेल ने जेपी मॉर्गन चेस डेटा ब्रीच और तकनीकी रुकावटों के बीच साइबर अपराधियों को सख्त चेतावनी देते हुए 'ऑपरेशन विंटर शील्ड' शुरू किया है।
 
-### [‘इमरजेंसी पर कॉल करो’, गाड़ियों के बीच क्रैश हुआ प्लेन, पैराशूट के सहारे खतरनाक लैंडिंग](https://hindi.news18.com/world/america-small-plane-with-emergency-parachute-crashlands-near-parked-cars-in-us-bystanders-scream-call-911-in-viral-video-11001013.html)
-*News18 Hindi (World)* - Nov 20, 18:12 IST (iso: 2026-11-20T12:42:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Plane-Crash-Video-2026-11-6595024142a278be9f1a922b54bbe29f-1200x800.jpg -->
+### ['सिर्फ मौजूदा हालात से बचने के लिए डील नहीं': अराघची ने अमेरिका को दिया संदेश, कहा- पहले दे सुरक्षा](https://www.amarujala.com/world/araghchi-s-message-to-the-us-say-not-a-deal-just-to-escape-the-current-situation-2026-11-21)
+*Amar Ujala World* - Nov 21, 07:41 IST (iso: 2026-11-21T02:11:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/abbsa-araghaca-iirana-ka-vathasha-matara_1ebe8e021ca8c23cc9060f3a6b72217a.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका में एक छोटे विमान में तकनीकी खराबी आने पर उसने इमरजेंसी पैराशूट के सहारे खतरे से बचकर उतरा। विमान खड़ी गाड़ियों और झाड़ियों के बहुत करीब क्रैश लैंड करता दिख रहा था। अमेरिका में एक छोटे प्लेन के हादसे का डरावना वीडियो सामने आया है. प्लेन में तकनीकी खराबी आ गई थी. ये इमरजेंसी पैराशूट के सहारे नीचे उतर रहा था.
+भारतीय विदेश मंत्री अराघची ने अमेरिका को संदेश दिया कि सुरक्षा गारंटी के बिना कोई समझौता संभव नहीं है। उन्होंने मौजूदा स्थिति से बचने के लिए डील करने से इनकार किया। 'सिर्फ मौजूदा हालात से बचने के लिए डील नहीं': अराघची ने अमेरिका को दिया संदेश, कहा- पहले दे सुरक्षा की गारंटी।
+
+### [अभी-अभी कांपी धरती, 6.8 तीव्रता के भूकंप से दहशत, संसद छोड़कर भागे सांसद](https://hindi.news18.com/world/rest-of-world-peru-earthquake-6-8-magnitude-lima-congress-evacuation-video-11001809.html)
+*News18 Hindi (World)* - Nov 21, 07:28 IST (iso: 2026-11-21T01:58:32+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/earthquake-7-2026-11-8f6bea686fd3e5f9bed3cfa583815c72-1200x800.jpg -->
+
+पेरू में शुक्रवार को 6.8 तीव्रता का भूकंप आया। केंद्र जुनिन क्षेत्र में 129 किलोमीटर गहराई पर था। लीमा समेत कई इलाकों में झटके महसूस हुए। सांसदों ने संसद भवन खाली किया। बड़े नुकसान की खबर नहीं मिली। पेरू में शुक्रवार को 6.8 तीव्रता का शक्तिशाली भूकंप आया, जिससे राजधानी लीमा समेत कई इलाकों में धरती कांप उठी. झटके महसूस होते ही लोग घरों से बाहर निकल आए और सांसदों को संसद भवन खाली करना पड़ा.
+
+### [114 किमी की रफ्तार से आया तूफान, एक घंटे में शहर को बना दिया खंडहर, 5000 घर तबाह, 3 की मौत](https://hindi.news18.com/world/rest-of-world-brazil-storm-3-dead-5000-homes-destroyed-tupancireta-11001778.html)
+*News18 Hindi (World)* - Nov 21, 07:08 IST (iso: 2026-11-21T01:38:10+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/brazil-2-2026-11-8495a697851b3cb20654801ddec35436-1200x800.jpg -->
+
+दक्षिणी ब्राजील के टुपानसिरेटा में तूफान ने तबाही मचाई। हवा की रफ्तार 114 किलोमीटर प्रति घंटे तक पहुंची। तीन लोगों की मौत हुई और 5,000 घरों को नुकसान हुआ। अस्पताल की छत उड़ गई और 11 मरीजों को स्थानांतरित किया गया। दक्षिणी ब्राजील में शुक्रवार तड़के आए शक्तिशाली तूफान ने भारी तबाही मचाई. रियो ग्रांडे दो सुल राज्य के टुपानसिरेटा शहर में तीन लोगों की मौत हो गई और करीब 5,000 घरों को नुकसान पहुंचा.
+
+---
+
+## दुनिया
+
+### [रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर किया पलटवार, कांग्रेस से पूछे चार सवाल](https://www.amarujala.com/india-news/rijiju-hits-back-at-rahul-s-compromised-pm-remark-poses-four-questions-to-congress-2026-11-21)
+*Amar Ujala National* - Nov 21, 08:14 IST (iso: 2026-11-21T02:44:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/07/04/karana-rajaja_da88f812fdbaff4c001e4bb8f581cb6b.jpeg?w=1200&dpr=1.0 -->
+
+रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर पलटवार किया। उन्होंने कांग्रेस से चार प्रश्न पूछे। इस बयान पर राजनीतिक बहस तेज हो गई। रिजिजू ने राहुल गांधी के 'समझौता करने वाले पीएम' वाले बयान पर किया पलटवार, कांग्रेस से पूछे चार सवाल।
+
+### ['धुरंधर' बनी बेस्ट फिल्म: टेलर स्विफ्ट को मिला सम्मान, देखें पूरी लिस्ट](https://www.amarujala.com/entertainment/bollywood/ranveer-singh-aneet-padda-to-dhurandhar-full-list-of-dadasaheb-phalke-awards-2026-winners-2026-11-21)
+*Amar Ujala Breaking* - Nov 21, 07:56 IST (iso: 2026-11-21T02:26:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/21/thatha-sahab-falka-parasakara-ka-para-lsata_7522a30f02152772ca8453f39343541b.jpeg?w=1200&dpr=1.0 -->
+
+दसवीं दादा साहब फाल्के इंटरनेशनल फिल्म फेस्टिवल के विजेताओं की घोषणा हुई। रणवीर सिंह, अनीत पड्डा और कमल हासन समेत कई हस्तियों को सम्मानित किया गया। साल 2026 के लिए दादा साहब फाल्के इंटरनेशनल फिल्म फेस्टिवल अवॉर्ड्स का एलान हो गया है। इसमें रणवीर सिंह, अनीत पड्डा, समय रैना और कमल हासन समेत कई विदेशी हस्तियों नाम शामिल हैं। 'धुरंधर' बनी बेस्ट फिल्म: टेलर स्विफ्ट को मिला सम्मान, देखें पूरी लिस्ट।
+
+### [आज बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी; 34470 करोड़ की परियोजनाओं की देंगे](https://www.amarujala.com/live/india-news/pm-modi-to-visit-west-bengal-bihar-and-uttar-pradesh-live-updates-hindi-today-2026-11-21)
+*Amar Ujala National* - Nov 21, 07:29 IST (iso: 2026-11-21T01:59:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/18/narathara-matha-parathhanamatara_5818534b6823e8311275bfe280ba734a.jpeg?w=1200&dpr=1.0 -->
+
+प्रधानमंत्री मोदी ने पश्चिम बंगाल, बिहार और उत्तर प्रदेश के दौरे पर 34,470 करोड़ रुपये की परियोजनाओं का उद्घाटन किया। यह तीन राज्यों के विकास के लिए बड़ी सहायता है। LIVE: आज पश्चिम बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी, 34470 करोड़ की परियोजनाओं की देंगे सौगात। आज बंगाल, बिहार और उत्तर प्रदेश के दौरे पर रहेंगे पीएम मोदी; 34470 करोड़ की परियोजनाओं की देंगे।
+
+### [तुलसी विवाह पर इन चीजों से करें माता का सोलह श्रृंगार, बरसेगी भगवान विष्णु की कृपा](https://www.amarujala.com/spirituality/festivals/tulsi-vivah-2026-tulsi-mata-shringar-vidhi-tulsi-ji-ka-shringar-kaise-kare-2026-11-19)
+*Amar Ujala National* - Nov 21, 06:55 IST (iso: 2026-11-21T01:25:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/aisa-kara-talsa-mata-ka-sharagara_0eef1ecd72568cd741556cf80b704dd4.jpeg?w=1200&dpr=1.0 -->
+
+तुलसी विवाह पर माता का सोलह श्रृंगार करने की विधि बताई गई है। इस पूजा से भगवान विष्णु की कृपा बरसने का मान्यता है। यह प्रक्रिया विशेष सामग्री और नियमों के अनुसार की जाती है। ऐसे करें तुलसी माता का श्रृंगार। तुलसी विवाह पर इन चीजों से करें माता का सोलह श्रृंगार, बरसेगी भगवान विष्णु की कृपा।
+
+### [इस कथा के बिना अधूरी है तुलसी विवाह की पूजा, यहां पढ़ें इस दिन से जुड़ी यह पौराणिक कथा](https://www.amarujala.com/spirituality/festivals/tulsi-vivah-2026-katha-and-shubh-muhurat-for-puja-in-hindi-2026-11-19)
+*Amar Ujala National* - Nov 21, 06:55 IST (iso: 2026-11-21T01:25:38+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/talsa-vavaha-2026_29cc6027b7a045afc57e47b1d942e455.jpeg?w=1200&dpr=1.0 -->
+
+तुलसी विवाह की पूजा को पूर्ण बनाने के लिए एक पौराणिक कथा का जिक्र किया गया है। इस दिन से जुड़ी यह कथा पूजा का अभिन्न अंग मानी जाती है। कथा के बिना पूजा अधूरी रहती है। इस कथा के बिना अधूरी है तुलसी विवाह की पूजा।
+
+### [घर पर पहली बार कर रहे हैं तुलसी विवाह? जानें ये 5 बड़े नियम](https://www.amarujala.com/spirituality/festivals/tulsi-vivah-niyam-and-puja-subh-muhurat-in-hindi-2026-11-20)
+*Amar Ujala National* - Nov 21, 06:55 IST (iso: 2026-11-21T01:25:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/talsa-vavaha-2026_48aba39e254212dbb5603aeb7d4e7fa6.jpeg?w=1200&dpr=1.0 -->
+
+घर पर पहली बार तुलसी विवाह करने वाले लोगों के लिए पाँच बड़े नियम बताए गए हैं। ये नियम पूजा को सही ढंग से करने में मदद करते हैं। प्रत्येक नियम का पालन करना आवश्यक है। तुलसी विवाह नियम। घर पर पहली बार कर रहे हैं तुलसी विवाह? जानें ये 5 बड़े नियम।
+
+### [हथेली की इस रेखा में छिपे हैं विवाह के शुभ संकेत, जानें क्या कहता है हस्तरेखा शास्त्र](https://www.amarujala.com/astrology/palmistry/palmistry-auspicious-signs-for-marriage-through-this-line-on-your-hand-vivah-yog-line-2026-11-20)
+*Amar Ujala National* - Nov 21, 06:54 IST (iso: 2026-11-21T01:24:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/20/vavaha-ka-shabha-rakha_977eec7602a8d0aee317445fc430803d.jpeg?w=1200&dpr=1.0 -->
+
+हस्तरेखा शास्त्र के अनुसार हथेली की विशिष्ट रेखा में विवाह के शुभ संकेत छिपे हैं। इस शास्त्र के अनुसार यह रेखा जीवनसाथी के साथ संबंधों की स्थिरता और समय को दर्शाती है। हथेली की इस रेखा में छिपे हैं विवाह के शुभ संकेत, जानें क्या कहता है हस्तरेखा शास्त्र।
+
+---
+
+## वैश्विक / बहुपक्षीय
+
+### [अगले महासचिव के नाम पर नहीं बनी बात, जानें क्या बात बन रही बाधा](https://www.amarujala.com/world/unsc-deadlocked-over-next-secretary-general-despite-40-day-deadline-2026-11-21)
+*Amar Ujala World* - Nov 21, 08:04 IST (iso: 2026-11-21T02:34:14+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/01/unsc-india-britain_38854f0a391880b3b30be18f7152d032.jpeg?w=1200&dpr=1.0 -->
+
+संयुक्त राष्ट्र सुरक्षा परिषद ने अगले महासचिव के चयन पर सहमति नहीं बनाई। चालीस दिन की समय सीमा के बावजूद वीटो अधिकार वाले देशों के बीच मतभेद बरकरार हैं। अगले महासचिव के नाम पर नहीं बनी बात, जानें क्या बात बन रही बाधा।
 
 ---
 
