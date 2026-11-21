@@ -1,40 +1,28 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 21, 2026 16:10 IST
+**Updated:** November 21, 2026 23:20 IST
 
 ---
 
 ## Asia-Pacific
+
+### [Sri Lanka's organised crime bill gets Supreme Court nod](https://www.thehindu.com/news/international/sri-lankas-organised-crime-bill-gets-supreme-court-nod/article71729357.ece)
+*The Hindu (International)* - Nov 21, 22:50 IST (iso: 2026-11-21T17:20:32+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/y8t9sb/article71729379.ece/alternates/LANDSCAPE_1200/iStock-2192979063.jpg -->
+
+Sri Lanka's Supreme Court approved the organised crime bill after it survived twenty constitutional challenges. The ruling clears the legislative path for the legislation to proceed through Parliament. This resolves the legal disputes that had stalled the bill's introduction. In Sri Lanka, citizens can challenge a Bill's constitutionality in the Supreme Court within one week of its introduction in Parliament.
+
+### [U.S. court dispatches summonses to Doval, Goel in Pannun case](https://www.thehindu.com/news/international/us-court-dispatches-summonses-to-doval-goel-in-pannun-case/article71728227.ece)
+*The Hindu (International)* - Nov 21, 20:35 IST (iso: 2026-11-21T15:05:10+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/k9ma23/article71728261.ece/alternates/LANDSCAPE_1200/PTI11_10_2026_000232B.jpg -->
+
+A United States court issued summonses to Ajit Doval and Gaurav Goel in the Pannun case. Indian law allows foreign civil court summonses to be served through domestic courts. The Central Government designates which foreign courts can trigger this process. The Indian Code of Civil Procedure permits summonses issued by foreign civil courts designated by notification of the Central Government of India to be transmitted to Indian courts and served as though issued by those courts.
 
 ### [China commits to low-carbon electrification and help for others to improve](https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve)
 *The Guardian* - Nov 21, 15:17 IST (iso: 2026-11-21T09:47:57+00:00)
 <!-- image: https://i.guim.co.uk/img/media/9e68aee336577ce0e768fd142e23caf3b9396a18/240_71_6107_4885/master/6107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f916ca3daa8d1f8633cbd2173c6e7a83 -->
 
 China pledged to accelerate low-carbon electrification and assist other nations in doing the same. Wang Yi made the commitment at the Cop31 summit. The goal aligns with broader calls for countries to derive 35% of their energy from electricity by 2035. Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035Cop31 live – latest updatesChina is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said. Wang Yi, a professor of energy and environment policy.
-
-### [Why Takaichi should stick to her guns on Taiwan](https://asiatimes.com/2026/11/why-takaichi-should-stick-to-her-guns-on-taiwan/)
-*Asia Times* - Nov 21, 12:19 IST (iso: 2026-11-21T06:49:19+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2025/12/Japan-Sanae-Takaichi-.jpg -->
-
-Prime Minister Sanae Takaichi stated that Chinese force against Taiwan could trigger Japan’s Self-Defense Forces. The remark drew heavy criticism and economic pressure from China. She faces calls to maintain her stance despite the diplomatic fallout. On November 7, 2025, Japanese Prime Minister Sanae Takaichi was pressed repeatedly in parliament about a possible Chinese invasion or naval blockade of Taiwan.
-
-### [Pakistan Climate Minister arrives in Delhi to attend SCO Civilisations Dialogue Forum](https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece)
-*The Hindu (International)* - Nov 21, 11:55 IST (iso: 2026-11-21T06:25:50+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/u6jfsl/article71723374.ece/alternates/LANDSCAPE_1200/HXimSxhbkAACr1J.jpg -->
-
-Pakistan’s Climate Minister arrived in Delhi for the SCO Civilisations Dialogue Forum. Prime Minister Modi will inaugurate the event at Purana Quila. Pakistan currently chairs the SCO Council of Heads of State for the 2026-27 period. Pakistan is the current chair of the SCO Council of Heads of State (CHS) (SCO_CHS) for the period of 2026-27; the event, which will be inaugurated by PM Modi, will be held at Delhi’s iconic Purana Quila (Old Fort), a 16th Century fort built by Emperor Humayun.
-
-### [Pakistan Army chief Munir vows to eliminate terrorism from country](https://www.thehindu.com/news/international/pakistan-army-chief-munir-vows-to-eliminate-terrorism-from-country/article71725751.ece)
-*The Hindu (International)* - Nov 20, 23:01 IST (iso: 2026-11-20T17:31:50+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/v6xcss/article71725767.ece/alternates/LANDSCAPE_1200/IMG_Syed_Asim_Munir_2_1_KVBGCD6S.jpg -->
-
-Pakistan reported a sharp drop in terrorism during October. Attacks fell by 37 percent compared to September. Deaths from these incidents dropped by 57 percent. Injuries decreased by 71 percent, marking a significant decline in violence across the country. Pakistan overall witnessed a significant decline in terrorism-related violence during October, with attacks falling by 37%, deaths resulting from these attacks declining by 57%, and injuries decreasing by 71% compared to September, said Dawn newspaper report.
-
-### [U.S. sanctions Myanmar armed group leader over scam links](https://www.thehindu.com/news/international/us-sanctions-myanmar-armed-group-leader-over-scam-links/article71725716.ece)
-*The Hindu (International)* - Nov 20, 22:48 IST (iso: 2026-11-20T17:18:33+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/gi82z1/article71725737.ece/alternates/LANDSCAPE_1200/IMG_sim_boxes_4_1_FHES59G0.jpg -->
-
-The U. S. Treasury froze assets of General Saw Shwe Wah. He leads the Democratic Karen Benevolent Army in Myanmar. The order bans Americans from dealing with him and a top officer. The move targets their links to scam operations. Treasury Department said on November 19 it had imposed an asset freeze on General Saw Shwe Wah, commander-in-chief of the Democratic Karen Benevolent Army (DKBA), and one of his top officers, and had banned Americans from dealing with them.
 
 ### [General Assembly President tells Rohingya refugees after genocide ruling](https://news.un.org/feed/view/en/story/2026/11/1168853)
 *UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
@@ -57,6 +45,18 @@ China is expanding dual-use oceanographic ship deployments across the Indo-Pacif
 ---
 
 ## Europe & Russia
+
+### [Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security](https://www.thehindu.com/news/international/cargo-ship-bound-for-russias-kaliningrad-hit-by-drones-finland-tightens-security/article71729285.ece)
+*The Hindu (International)* - Nov 21, 22:21 IST (iso: 2026-11-21T16:51:03+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/ldpog9/article71729312.ece/alternates/LANDSCAPE_1200/2026-11-21T160708Z_1736225898_RC2DSOAQBVC2_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VESSEL.JPG -->
+
+Finland reinstated temporary aviation and maritime restrictions in the eastern Gulf of Finland. The Defence Ministry cited a drone attack on a cargo ship bound for Kaliningrad. These measures aim to protect civilians and allow authorities to intercept future drones. Finland's Defence Ministry said the military had reintroduced temporary aviation and maritime restrictions in the eastern Gulf of Finland as a precaution to protect civilians and enable authorities ​to operate if drones needed ‌to be intercepted.
+
+### [Finland detects drone attack on Russian cargo ship in Baltic](https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece)
+*The Hindu (International)* - Nov 21, 19:26 IST (iso: 2026-11-21T13:56:11+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/i5kwff/article71728519.ece/alternates/LANDSCAPE_1200/2026-11-21T121758Z_39228957_RC2BSOAQS763_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VESSEL.JPG -->
+
+Finland detected a drone attack on a Russian cargo ship in the Baltic Sea. Prime Minister Petteri Orpo stated that war is spilling into the region's immediate vicinity. He affirmed Ukraine's right to fight back against the aggressor without naming the attacker.
 
 ### [Russia dusts off its pre-war demands as the U.S. raises discussing European security at Ukraine](https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece)
 *The Hindu (International)* - Nov 21, 14:41 IST (iso: 2026-11-21T09:11:27+00:00)
@@ -88,21 +88,15 @@ UNICEF highlighted record child casualty levels in Ukraine as the country faces 
 
 Moscow issued unrealistic European security demands despite losing the Kerch Bridge. The bridge partially collapsed during recent strikes. A meeting of three presidents drew attention. Analysts question the substance of the negotiations. Moscow makes what an analyst called "completely unrealistic" demands about European security despite setbacks in its war on Ukraine -- including the partial destruction of the only bridge linking Russia to occupied Crimea.
 
-### [Ukraine Wrecked Putin's Bridge. Now It Can Choke Russian Supplies To Crimea](https://www.rferl.org/a/ukraine-russia-crimea-kerch-bridge-destroyed/33901205.html)
-*Radio Free Europe / Liberty* - Nov 18, 22:48 IST (iso: 2026-11-18T17:18:25+00:00)
-<!-- image: https://gdb.rferl.org/8a231f46-0a66-4db4-1260-08decad58b60_w1200_h630.jpg -->
-
-Ukraine destroyed the $4 billion Crimean Bridge, cutting road traffic between the Russian mainland and the peninsula. The damage severely strains Moscow's ability to supply the Black Sea region. Kyiv's strike targets a key Kremlin infrastructure asset. For eight years, it’s stood as a symbol of the Kremlin’s claim to Crimea: a $4 billion bridge directly linking the Russian mainland with the Ukrainian peninsula.
-
-### [RFE/RL Visits Ukraine's Newly Liberated Territory After Operation Vivaldi](https://www.rferl.org/a/rfe-rl-visits-ukraine-s-newly-liberated-territory-after-operation-vivaldi/33901166.html)
-*Radio Free Europe / Liberty* - Nov 18, 19:35 IST (iso: 2026-11-18T14:05:44+00:00)
-<!-- image: https://gdb.rferl.org/387d1494-c340-4942-2e11-08df407f9921_w1200_h630.jpg -->
-
-Ukraine's Third Army Corps liberated 16 settlements and 277 square kilometers in Donetsk during Operation Vivaldi. RFE/RL journalists visited the newly secured frontline positions. They retraced the specific paths taken by Ukrainian infantry and assault troops during the military campaign. Ukraine's Third Army Corps liberated 16 settlements and 277 square kilometers in the Donetsk region during Operation Vivaldi. RFE/RL visits the frontline positions and retraces the path of the Ukrainian infantry and assault troops who took part in the military campaign.
-
 ---
 
 ## Middle East & Africa
+
+### [States agree to UN talks aiming to regulate 'killer robots' by 2028](https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece)
+*The Hindu (International)* - Nov 21, 21:49 IST (iso: 2026-11-21T16:19:08+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/iqr9rp/article71729215.ece/alternates/LANDSCAPE_1200/AFP_D7KZ2WF.jpg -->
+
+Around one hundred countries agreed to UN talks on regulating autonomous weapons by 2028. Major arms producers like the United States, Russia, and Israel opposed binding measures. The resulting agreement left the legal status of future regulations unresolved. Around 100 ⁠countries backed this position, but big arms-producing nations like the U. S., Russia, and Israel opposed this, resulting in a watered-down agreement that left open the question of whether future ​measures would be legally ‌binding.
 
 ### [With Oil Revenue Running Out, Iran Teases Breaking US Blockade](https://www.rferl.org/a/iran-us-blockade-oil-revenue-war/33902633.html)
 *Radio Free Europe / Liberty* - Nov 20, 20:08 IST (iso: 2026-11-20T14:38:56+00:00)
@@ -116,7 +110,7 @@ Iranian hardliners are pushing for a tanker convoy to break the US naval blockad
 
 Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
 
-### [Countries demand stronger climate deal as talks in Antalya reach final day](https://news.un.org/feed/view/en/story/2026/11/1168845)
+### [Countries demand stronger climate deal amid deadlock in Antalya](https://news.un.org/feed/view/en/story/2026/11/1168845)
 *UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image770x420cropped.jpg -->
 
@@ -134,15 +128,21 @@ Iranian authorities opened a case against an obstetrician for spreading false in
 
 The International Court of Justice is set to rule on Myanmar's genocide charges against the Rohingya. U. S. officials may sanction judges, including Nobel laureate Navi Pillay, if the ruling goes against the Myanmar government. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.
 
-### [Diversifying funding was supposed to protect civil society: It did not](https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/)
-*Global Voices* - Nov 18, 08:10 IST (iso: 2026-11-18T02:40:58+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/11/Activists-hold-a-candlelight-vigil-to-commemorate-those-who-lost-their-lives-in-post-election-violence-in-Tanzania-in-Nairobi-Kenya-on-November-20-2025-Credit_-Anadolu_Lucas-Mukasa-800x450.webp -->
-
-A survey of 195 organizations across 68 countries reveals that diversified funding strategies failed to protect civil society groups from the global aid retreat. The crisis extends beyond immediate financial shortfalls, indicating deeper structural vulnerabilities. Organizations that spent years building varied revenue streams are still facing severe operational challenges and instability. A survey of 195 organisations across more than 68 countries shows how the global aid retreat is hitting organizations that spent years building diverse funding streams.
-
 ---
 
 ## Americas
+
+### [Haitians excited but uneasy as El Salvador troops fight gangs](https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele)
+*The Guardian* - Nov 21, 16:30 IST (iso: 2026-11-21T11:00:57+00:00)
+<!-- image: https://i.guim.co.uk/img/media/50cadcfc3b9aea76e63e685b18e73e9625ebe68b/479_0_4942_3957/master/4942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=931c27cb117e8218216b479384328691 -->
+
+El Salvador deployed troops to Port-au-Prince to combat gangs, drawing mixed reactions from Haitians. Many welcomed the intervention after years of gang control, but others fear the offensive will worsen the volatile security situation in the capital. Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situationA bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football ground.
+
+### [Bridgetown AI summit to tackle safety as risks outpace capacity to respond](https://news.un.org/feed/view/en/story/2026/11/1168854)
+*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/18-07-2023-UN-Photo-Guterres.jpg/image770x420cropped.jpg -->
+
+UN Secretary-General António Guterres co-hosted an AI safety summit in Bridgetown, Barbados. The gathering aimed to close the gap between accelerating technological risks and the limited capacity of many nations to manage the pace of development. UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.
 
 ### [The secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike](https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding)
 *The Guardian* - Nov 20, 16:30 IST (iso: 2026-11-20T11:00:31+00:00)
@@ -152,7 +152,7 @@ Cuban asylum seeker Luis Alejandro Cora Pérez ended a hunger strike in Texas. H
 
 ### [Ambition goes missing as fossil fuel language drops from draft deal](https://news.un.org/feed/view/en/story/2026/11/1168839)
 *UN News* - Nov 19, 17:30 IST (iso: 2026-11-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image560x340cropped.jpg -->
 
 The latest draft climate agreement for COP31 removed explicit language on phasing out fossil fuels. This deletion occurred as ministers and the Presidency attempted to bridge sharp differences before the summit's scheduled close. Civil society groups expressed serious concern over the missing commitment. The change signals a significant retreat in the text's ambition regarding energy transition. A cat named Ambition went missing again at COP31 on Thursday.
 
