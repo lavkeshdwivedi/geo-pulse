@@ -1,40 +1,22 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 22, 2026 15:56 IST
+**Updated:** November 22, 2026 23:38 IST
 
 ---
 
 ## Asia-Pacific
+
+### [South Korean minister quits after AI cheating scandal engulfs university exams](https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams)
+*The Guardian* - Nov 22, 17:42 IST (iso: 2026-11-22T12:12:07+00:00)
+<!-- image: https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3f07b25c72631f8072873e52093f91c -->
+
+South Korea's education minister Choi Kyo-jin resigned on Sunday following an AI cheating scandal. He admitted failing to prepare adequately for university entrance exams. The tests banned phones and checked for hidden cameras. The resignation follows widespread fears over AI-assisted fraud in the country's key academic assessments. Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothingSouth Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, wh.
 
 ### [Afghan Women Turn To Social Media To Earn Living As Doors Close Offline](https://www.rferl.org/a/afghan-kabul-female-influencers-social-media-taliban/33902659.html)
 *Radio Free Europe / Liberty* - Nov 22, 13:42 IST (iso: 2026-11-22T08:12:45+00:00)
 <!-- image: https://gdb.rferl.org/41c3c27d-3b1a-4c0b-a223-d573f8eba5a8_w1200_h630.jpg -->
 
 Afghan women are building personal brands on Instagram, TikTok, and YouTube to earn income. They share videos of cooking, shopping, and family gatherings. This digital shift offers a livelihood as offline opportunities have closed under Taliban restrictions. Afghan women who have had their lives sharply restricted by Taliban rule have responded by building personal brands on Instagram, TikTok, and YouTube showing them cooking at home, shopping in bazaars, or meeting friends and family.
-
-### [South Korea Education Minister resigns amid AI cheating scandal](https://www.thehindu.com/news/international/south-korea-education-minister-resigns-amid-ai-cheating-scandal/article71730601.ece)
-*The Hindu (International)* - Nov 22, 12:43 IST (iso: 2026-11-22T07:13:03+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/32b5c5/article71730623.ece/alternates/LANDSCAPE_1200/South_Korea_Exam_Cheating__56_3.jpg -->
-
-South Korea's Education Minister resigned following an AI cheating scandal. The top scorer in a national tax accountant exam admitted using a miniature camera and smartphone. This confession triggered widespread fears about AI-assisted exam integrity across the country. The country has been gripped by fears of AI-assisted exam cheating since last Sunday (November 15, 2026), when the top scorer in a national tax accountant exam confessed to using a miniature camera and smartphone to achieve a near-perfect score.
-
-### [U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move](https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece)
-*The Hindu (International)* - Nov 22, 12:20 IST (iso: 2026-11-22T06:50:36+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/rb94e2/article71711937.ece/alternates/LANDSCAPE_1200/iStock-2258598400.jpg -->
-
-The United States blocked China's remote access to AI chips after a Nvidia scandal. The move followed scrutiny of Nvidia's chip sales to Southeast Asian data centers. China condemned the action, citing concerns over founder Jensen Huang's ties to Singapore-based Megaspeed. Nvidia’s provision of chips to companies running data centres in Southeast Asia has come under the spotlight amid questions surrounding founder Jensen Huang’s relationship with Alice Huang, the CEO of one such Singapore-based company, Megaspeed.
-
-### [Pakistan Minister invokes Humayun, Sher Shah at SCO Civilisational Forum](https://www.thehindu.com/news/international/two-rulers-one-fort-pakistan-minister-invokes-humayun-sher-shah-at-sco-civilisational-forum/article71729569.ece)
-*The Hindu (International)* - Nov 22, 11:12 IST (iso: 2026-11-22T05:42:37+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/h6u3fl/article71729571.ece/alternates/LANDSCAPE_1200/PTI11_20_2026_000303B.jpg -->
-
-Pakistan's Minister Musadik Malik invoked historical figures Humayun and Sher Shah Suri at the SCO Civilisational Forum. He highlighted the shared heritage of the Purana Qila fort in Delhi. The speech emphasized Timurid and Afghan contributions to the region's architectural history. ‘This [Purana] Qila, where we are sitting, is in itself a story; a fort, whose foundation was laid by Humayun, who had a descent from the Timurid [dynasty] linkage.
-
-### [South Korea education minister resigns after AI cheating scandal engulfs university exams](https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams)
-*The Guardian* - Nov 22, 10:34 IST (iso: 2026-11-22T05:04:39+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3f07b25c72631f8072873e52093f91c -->
-
-South Korea's education minister Choi Kyo-jin resigned on Sunday following an AI cheating scandal. He admitted failing to prepare adequately for university entrance exams. The tests banned phones and checked for hidden cameras. The resignation follows widespread fears over AI-assisted fraud in the country's key academic assessments. Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothingSouth Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, wh.
 
 ### [China’s open-weight AI models are coming for America’s market](https://asiatimes.com/2026/11/chinas-open-weight-ai-models-are-coming-for-americas-market/)
 *Asia Times* - Nov 22, 09:12 IST (iso: 2026-11-22T03:42:39+00:00)
@@ -60,31 +42,15 @@ Japanese Prime Minister Sanae Takaichi stated Chinese force against Taiwan could
 
 The President of the United Nations General Assembly visited Cox’s Bazar in Bangladesh one day after the International Court of Justice ruled that Myanmar committed genocide against the Rohingya. The visit aimed to pressure the international community to translate the landmark legal finding into concrete protective measures. The court’s decision marks a significant shift in the diplomatic handling of the crisis. The President urged member states to move beyond rhetoric and implement the court’s directives.
 
-### [China’s research ships turning ocean science into undersea warfare](https://asiatimes.com/2026/11/chinas-research-ships-turning-ocean-science-into-undersea-warfare/)
-*Asia Times* - Nov 20, 11:39 IST (iso: 2026-11-20T06:09:52+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Research-Ships.jpeg -->
-
-China is expanding dual-use oceanographic ship deployments across the Indo-Pacific to map seafloors and track submarines. These vessels operate under scientific cover while threatening undersea cables. The strategy extends Beijing's military reach beyond traditional naval assets. Under the cover of scientific research and deep-sea exploration, China is deploying dual-use survey vessels across the Indo-Pacific to map seafloors, track submarines, and threaten undersea cables, bolstering its military reach.
-
----
-
-## World
-
-### [Immigration officers make arrest at Seattle airport in ‘distressing’ scene, delaying flight](https://www.thehindu.com/news/international/immigration-officers-make-arrest-at-seattle-airport-in-distressing-scene-delaying-flight/article71730599.ece)
-*The Hindu (International)* - Nov 22, 12:27 IST (iso: 2026-11-22T06:57:34+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/olu0w8/article71730624.ece/alternates/LANDSCAPE_1200/2026-02-14T055122Z_976326221_RC2FAJA4GJYC_RTRMADP_3_USA-TRUMP-MIGRATION-DETENTION.JPG -->
-
-Immigration officers arrested a passenger at Seattle airport, causing a flight delay. The Port of Seattle described the scene as distressing for the family and other passengers. Local authorities are now engaging federal officials to understand what occurred during the incident. The Port of Seattle said in a statement that the arrest was distressing not only for the affected family but for other passengers, and that local authorities would "engage federal officials to understand more about what occurred".
-
-### [Battle to control GPS and radio signals raises civilian safety concerns](https://news.un.org/feed/view/en/story/2026/11/1168843)
-*UN News* - Nov 19, 17:30 IST (iso: 2026-11-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image560x340cropped.jpg -->
-
-GPS and radio signals are increasingly blocked or faked, endangering aid convoys, passenger jets, and cargo ships. Civilian safety is declining as these critical navigation systems become unreliable. The disruption affects both conflict zones and open ocean routes. From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions.
-
 ---
 
 ## Middle East & Africa
+
+### [‘I had a better life in Iran’: Afghan women forced home struggle to rebuild](https://news.un.org/feed/view/en/story/2026/11/1168852)
+*UN News* - Nov 22, 17:30 IST (iso: 2026-11-22T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_UNHCR_Ukraine-01.jpg/image770x420cropped.jpg -->
+
+Afghan women returning from Iran face unemployment and fractured families. Zahra, a midwife in Herat, lost her income and now lives with her parents. Her son remains with her ex-husband. The five-year displacement left her without a stable livelihood or support network in her home region. For five years, Zahra cared for an elderly woman in Iran and earned enough to get by.
 
 ### [Iran To Ration Electricity Amid Warnings Power Grid Battered by US, Israeli Strikes](https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html)
 *Radio Free Europe / Liberty* - Nov 22, 04:30 IST (iso: 2026-11-21T23:00:21+00:00)
@@ -116,9 +82,33 @@ Israeli settlers carried out over 400 attacks during this year’s West Bank oli
 
 A coalition of countries challenged the proposed COP31 agreement, demanding explicit fossil fuel action. They also called for stronger climate finance commitments. Tensions rose as the Antalya summit neared its close. Negotiators struggled to find a deal acceptable to nearly 200 governments. A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.
 
+### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
+*The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5 -->
+
+Fears rise that the US may sanction ICJ judges after a potential Myanmar genocide ruling. Navi Pillay, a Nobel laureate, faces possible penalties. The court has never previously found a state responsible for genocide. A ruling against Myanmar could set a precedent for future cases involving Israel. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.
+
+### [Diversifying funding was supposed to protect civil society: It did not](https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/)
+*Global Voices* - Nov 18, 08:10 IST (iso: 2026-11-18T02:40:58+00:00)
+<!-- image: https://globalvoices.org/wp-content/uploads/2026/11/Activists-hold-a-candlelight-vigil-to-commemorate-those-who-lost-their-lives-in-post-election-violence-in-Tanzania-in-Nairobi-Kenya-on-November-20-2025-Credit_-Anadolu_Lucas-Mukasa-800x450.webp -->
+
+A survey of 195 organizations across 68 countries reveals the global aid retreat is severe. Groups that diversified funding streams still face critical shortfalls. The crisis extends beyond immediate financial losses. Structural instability now threatens the long-term viability of civil society institutions worldwide. A survey of 195 organisations across more than 68 countries shows how the global aid retreat is hitting organizations that spent years building diverse funding streams.
+
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Nov 13, 05:30 IST (iso: 2026-11-13T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group publishes its weekly On Our Radar briefing, tracking global conflicts and crises. Field analysts highlight under-reported trends and major developments. The report explains why each hotspot matters and outlines recommended actions for policymakers. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
+
 ---
 
 ## Americas
+
+### [COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’](https://news.un.org/feed/view/en/story/2026/11/1168855)
+*UN News* - Nov 22, 17:30 IST (iso: 2026-11-22T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_COP31-Close1.jpg/image770x420cropped.jpg -->
+
+COP31 concluded without a binding climate agreement. Negotiators failed to resolve disputes over fossil fuel phaseouts. UN Secretary-General António Guterres called the outcome deeply disappointing. The two-week summit ended with no new commitments to accelerate global emissions reductions. COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.
 
 ### [Haitians excited but uneasy as El Salvador troops fight gangs](https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele)
 *The Guardian* - Nov 21, 16:30 IST (iso: 2026-11-21T11:00:57+00:00)
@@ -166,11 +156,21 @@ Russia is targeting bridges spanning the Dnieper River in Kyiv. Ukrainian offici
 
 UNICEF highlighted record child casualty levels in Ukraine as the country faces another brutal winter. A twice-bombed Kyiv kindergarten stands in ruins during a day-long power cut. Freezing classrooms and shattered playgrounds illustrate the dangers children face. The conflict continues to inflict severe harm on the youngest population. Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.
 
-### [A Blown Bridge, A Big Meeting, And A 'Ludicrous Fantasy'](https://www.rferl.org/a/week-in-russia-gutterman-crimea-china-trump/33901569.html)
-*Radio Free Europe / Liberty* - Nov 19, 16:48 IST (iso: 2026-11-19T11:18:40+00:00)
-<!-- image: https://gdb.rferl.org/978a489c-d48d-4d9e-ac73-15310723a2d7_w1200_h630.jpg -->
+---
 
-Moscow issued unrealistic European security demands despite losing the Kerch Bridge. The bridge partially collapsed during recent strikes. A meeting of three presidents drew attention. Analysts question the substance of the negotiations. Moscow makes what an analyst called "completely unrealistic" demands about European security despite setbacks in its war on Ukraine -- including the partial destruction of the only bridge linking Russia to occupied Crimea.
+## World
+
+### [Battle to control GPS and radio signals raises civilian safety concerns](https://news.un.org/feed/view/en/story/2026/11/1168843)
+*UN News* - Nov 19, 17:30 IST (iso: 2026-11-19T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image560x340cropped.jpg -->
+
+GPS and radio signals are increasingly blocked or faked, endangering aid convoys, passenger jets, and cargo ships. Civilian safety is declining as these critical navigation systems become unreliable. The disruption affects both conflict zones and open ocean routes. From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions.
+
+### [Gideon Rachman on the Risk of World War III](https://www.crisisgroup.org/pod/global/gideon-rachman-risk-world-war-iii)
+*International Crisis Group* - Nov 13, 21:02 IST (iso: 2026-11-13T15:32:00+00:00)
+<!-- image: https://images.pexels.com/photos/6962257/pexels-photo-6962257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Gideon Rachman discusses the risk of a global war in a new book. He argues current conflicts could escalate into a broader confrontation. The Financial Times commentator warns that geopolitical miscalculations are increasing. His analysis focuses on how regional disputes might trigger wider international involvement. In this episode of Hold Your Fire!, Richard speaks with Gideon Rachman, chief foreign affairs commentator at the Financial Times about his new book, “War Is Interested in You”, and whether today’s conflicts could spin into a global war.
 
 ---
 
