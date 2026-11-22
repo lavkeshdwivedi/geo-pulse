@@ -1,6 +1,64 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 22, 2026 04:00 IST
+**Updated:** November 22, 2026 08:14 IST
+
+---
+
+## Middle East & Africa
+
+### [How U.S. controls flow of advanced tech, chip, and compute to China](https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece)
+*The Hindu (International)* - Nov 22, 05:16 IST (iso: 2026-11-21T23:46:29+00:00)
+<!-- image: https://th-i.thgim.com/public/news/national/askg53/article71721227.ece/alternates/LANDSCAPE_1200/iStock-2183527075.jpg -->
+
+The U. S. Commerce Department banned foreign data centers using American AI chips from serving clients in twenty-four countries. The rule targets China, Iran, and Russia. It blocks cloud access for businesses in those regions. The interim final rule took effect on November 16. Commerce Department on November 16 issued an interim final rule barring data centre operators outside the U. S.
+
+### [Iran To Ration Electricity As World Awaits Trump's Next Move](https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html)
+*Radio Free Europe / Liberty* - Nov 22, 04:30 IST (iso: 2026-11-21T23:00:21+00:00)
+<!-- image: https://gdb.rferl.org/01000000-0a00-0242-1a34-08db967bbf26_cx0_cy6_cw0_w1200_h630.jpg -->
+
+Iran will begin rationing electricity on November 22. This follows recent bread shortages and purchase management procedures. The move occurs as uncertainty grows over President Trump’s next diplomatic or military step. The government aims to manage domestic resource scarcity. Iran To Ration Electricity As World Awaits Trump's Next Move.
+
+### [Eisenkot invites Netanyahu’s party for Israeli coalition talks](https://www.thehindu.com/news/international/eisenkot-invites-netanyahus-party-for-israeli-coalition-talks/article71729470.ece)
+*The Hindu (International)* - Nov 22, 02:44 IST (iso: 2026-11-21T21:14:12+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/1alyk5/article71729471.ece/alternates/LANDSCAPE_1200/Israel_Politics_34773.jpg -->
+
+Gadi Eisenkot invited Likud leaders to coalition talks. The Yashar chair instructed his team to pursue every option for forming a new government. Negotiations begin with a scheduled meeting tomorrow. The talks aim to resolve the current political deadlock. ‘In an effort to pursue every option for forming a new government, Yashar Chair Gadi Eisenkot has instructed the party's negotiating team to invite its Likud counterparts to a marathon series of talks beginning with the meeting already scheduled for tomorrow’ read a statement.
+
+### [Iran wants diplomacy to end war, says Araghchi as U.S. rejects terms](https://www.thehindu.com/news/international/iran-wants-diplomacy-to-end-war-says-araghchi-as-us-rejects-terms/article71729396.ece)
+*The Hindu (International)* - Nov 21, 23:23 IST (iso: 2026-11-21T17:53:45+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/mban8s/article71729402.ece/alternates/LANDSCAPE_1200/Iran_War_27462.jpg -->
+
+Iran’s Foreign Minister Araghchi stated Tehran requires guarantees of U. S. seriousness before resuming negotiations. He insisted highly enriched uranium remain within Iran. Washington denied reports that Iran fired at an F-16 aircraft. Tehran needs guarantees that Washington is serious about negotiations, says Iran’s Foreign Minister; highly enriched uranium should be kept inside Iran, he says, adding that ‘a fair solution’ could be reached; U.
+
+### [‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen](https://news.un.org/feed/view/en/story/2026/11/1168851)
+*UN News* - Nov 21, 17:30 IST (iso: 2026-11-21T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_UNFPA_Yemen-01.jpg/image770x420cropped.jpg -->
+
+Midwife Anisa Fadhl fled Taiz, Yemen, as fighting escalated two months ago. She left without packing a bag. Her home and clinic were later looted and destroyed. She escaped with only her life. The conflict displaced many medical workers. When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic.
+
+### [With Oil Revenue Running Out, Iran Teases Breaking US Blockade](https://www.rferl.org/a/iran-us-blockade-oil-revenue-war/33902633.html)
+*Radio Free Europe / Liberty* - Nov 20, 20:08 IST (iso: 2026-11-20T14:38:56+00:00)
+<!-- image: https://gdb.rferl.org/d03dec8c-4af0-41f5-99e0-0db16f6d1f38_cx15_cy4_cw69_w1200_h630.jpg -->
+
+Iranian hardliners are pushing for a tanker convoy to break the US naval blockade as oil revenue hits zero by mid-December. They threaten to strike Persian Gulf oil sites if the US fires on the vessels. This escalation risks a direct military confrontation in the region. With Iran’s oil revenue set to hit zero by mid-December, IRGC-linked media and hard-liners are pushing for a tanker convoy to break through the US naval blockade, threatening Persian Gulf oil sites if fired on.
+
+### [Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
+*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image770x420cropped.jpg -->
+
+Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
+
+### [Countries demand stronger climate deal amid deadlock in Antalya](https://news.un.org/feed/view/en/story/2026/11/1168845)
+*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image770x420cropped.jpg -->
+
+A coalition of countries challenged the proposed COP31 agreement, demanding explicit fossil fuel action. They also called for stronger climate finance commitments. Tensions rose as the Antalya summit neared its close. Negotiators struggled to find a deal acceptable to nearly 200 governments. A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.
+
+### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
+*The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5 -->
+
+Fears grow that the U. S. may sanction International Court of Justice judges. This follows a potential ruling on Myanmar’s genocide against the Rohingya. Nobel laureate Navi Pillay is among those at risk. The court has never previously found a state responsible for genocide. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.
 
 ---
 
@@ -11,18 +69,6 @@
 <!-- image: https://th-i.thgim.com/public/incoming/a15j58/article71729365.ece/alternates/LANDSCAPE_1200/2026-11-19T101513Z_1144479296_RC2WQOADW602_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT.JPG -->
 
 The International Court of Justice ruled Myanmar committed genocide against Rohingya during 2017 clearance operations. The judgment provides legal recognition for the ethnic minority. However, the court lacks enforcement mechanisms to compel compliance. The International Court of Justice’s ruling that Myanmar committed genocide during its 2017 ‘clearance operations’ offers a measure of justice for the ethnic and religious minority, but the court has no means of enforcing its judgment.
-
-### [Sri Lanka's organised crime bill gets Supreme Court nod](https://www.thehindu.com/news/international/sri-lankas-organised-crime-bill-gets-supreme-court-nod/article71729357.ece)
-*The Hindu (International)* - Nov 21, 22:50 IST (iso: 2026-11-21T17:20:32+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/y8t9sb/article71729379.ece/alternates/LANDSCAPE_1200/iStock-2192979063.jpg -->
-
-Sri Lanka's Supreme Court approved the organised crime bill after it survived twenty constitutional challenges. The ruling clears the legislative path for the legislation to proceed through Parliament. This resolves the legal disputes that had stalled the bill's introduction. In Sri Lanka, citizens can challenge a Bill's constitutionality in the Supreme Court within one week of its introduction in Parliament.
-
-### [U.S. court dispatches summonses to Doval, Goel in Pannun case](https://www.thehindu.com/news/international/us-court-dispatches-summonses-to-doval-goel-in-pannun-case/article71728227.ece)
-*The Hindu (International)* - Nov 21, 20:35 IST (iso: 2026-11-21T15:05:10+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/k9ma23/article71728261.ece/alternates/LANDSCAPE_1200/PTI11_10_2026_000232B.jpg -->
-
-A United States court issued summonses to Ajit Doval and Gaurav Goel in the Pannun case. Indian law allows foreign civil court summonses to be served through domestic courts. The Central Government designates which foreign courts can trigger this process. The Indian Code of Civil Procedure permits summonses issued by foreign civil courts designated by notification of the Central Government of India to be transmitted to Indian courts and served as though issued by those courts.
 
 ### [China commits to low-carbon electrification and help for others to improve](https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve)
 *The Guardian* - Nov 21, 15:17 IST (iso: 2026-11-21T09:47:57+00:00)
@@ -56,40 +102,6 @@ China is expanding dual-use oceanographic ship deployments across the Indo-Pacif
 
 ---
 
-## Middle East & Africa
-
-### [Iran wants diplomacy to end war, says Araghchi as U.S. rejects terms](https://www.thehindu.com/news/international/iran-wants-diplomacy-to-end-war-says-araghchi-as-us-rejects-terms/article71729396.ece)
-*The Hindu (International)* - Nov 21, 23:23 IST (iso: 2026-11-21T17:53:45+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/mban8s/article71729402.ece/alternates/LANDSCAPE_1200/Iran_War_27462.jpg -->
-
-Iran’s Foreign Minister Araghchi stated Tehran requires guarantees of U. S. seriousness before resuming negotiations. He insisted highly enriched uranium remain within Iran. Washington denied reports that Iran fired at an F-16 aircraft. Tehran needs guarantees that Washington is serious about negotiations, says Iran’s Foreign Minister; highly enriched uranium should be kept inside Iran, he says, adding that ‘a fair solution’ could be reached; U. S.
-
-### [States agree to UN talks aiming to regulate 'killer robots' by 2028](https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece)
-*The Hindu (International)* - Nov 21, 21:49 IST (iso: 2026-11-21T16:19:08+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/iqr9rp/article71729215.ece/alternates/LANDSCAPE_1200/AFP_D7KZ2WF.jpg -->
-
-Around one hundred countries agreed to UN talks on regulating autonomous weapons by 2028. Major arms producers like the United States, Russia, and Israel opposed binding measures. The resulting agreement left the legal status of future regulations unresolved. Around 100 ⁠countries backed this position, but big arms-producing nations like the U. S., Russia, and Israel opposed this, resulting in a watered-down agreement that left open the question of whether future ​measures would be legally ‌binding.
-
-### [With Oil Revenue Running Out, Iran Teases Breaking US Blockade](https://www.rferl.org/a/iran-us-blockade-oil-revenue-war/33902633.html)
-*Radio Free Europe / Liberty* - Nov 20, 20:08 IST (iso: 2026-11-20T14:38:56+00:00)
-<!-- image: https://gdb.rferl.org/d03dec8c-4af0-41f5-99e0-0db16f6d1f38_cx15_cy4_cw69_w1200_h630.jpg -->
-
-Iranian hardliners are pushing for a tanker convoy to break the US naval blockade as oil revenue hits zero by mid-December. They threaten to strike Persian Gulf oil sites if the US fires on the vessels. This escalation risks a direct military confrontation in the region. With Iran’s oil revenue set to hit zero by mid-December, IRGC-linked media and hard-liners are pushing for a tanker convoy to break through the US naval blockade, threatening Persian Gulf oil sites if fired on.
-
-### [Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
-*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image770x420cropped.jpg -->
-
-Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
-
-### [Countries demand stronger climate deal amid deadlock in Antalya](https://news.un.org/feed/view/en/story/2026/11/1168845)
-*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image770x420cropped.jpg -->
-
-A coalition of countries challenged the proposed COP31 agreement, demanding explicit fossil fuel action. They also called for stronger climate finance commitments. Tensions rose as the Antalya summit neared its close. Negotiators struggled to find a deal acceptable to nearly 200 governments. A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.
-
----
-
 ## Europe & Russia
 
 ### [Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security](https://www.thehindu.com/news/international/cargo-ship-bound-for-russias-kaliningrad-hit-by-drones-finland-tightens-security/article71729285.ece)
@@ -97,12 +109,6 @@ A coalition of countries challenged the proposed COP31 agreement, demanding expl
 <!-- image: https://th-i.thgim.com/public/incoming/ldpog9/article71729312.ece/alternates/LANDSCAPE_1200/2026-11-21T160708Z_1736225898_RC2DSOAQBVC2_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VESSEL.JPG -->
 
 Finland reinstated temporary aviation and maritime restrictions in the eastern Gulf of Finland. The Defence Ministry cited a drone attack on a cargo ship bound for Kaliningrad. These measures aim to protect civilians and allow authorities to intercept future drones. Finland's Defence Ministry said the military had reintroduced temporary aviation and maritime restrictions in the eastern Gulf of Finland as a precaution to protect civilians and enable authorities ​to operate if drones needed ‌to be intercepted.
-
-### [Finland detects drone attack on Russian cargo ship in Baltic](https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece)
-*The Hindu (International)* - Nov 21, 19:26 IST (iso: 2026-11-21T13:56:11+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/i5kwff/article71728519.ece/alternates/LANDSCAPE_1200/2026-11-21T121758Z_39228957_RC2BSOAQS763_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VESSEL.JPG -->
-
-Finland detected a drone attack on a Russian cargo ship in the Baltic Sea. Prime Minister Petteri Orpo stated that war is spilling into the region's immediate vicinity. He affirmed Ukraine's right to fight back against the aggressor without naming the attacker.
 
 ### [Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house)
 *The Guardian* - Nov 21, 03:17 IST (iso: 2026-11-20T21:47:41+00:00)
@@ -156,19 +162,13 @@ Cuban asylum seeker Luis Alejandro Cora Pérez ended a hunger strike in Texas. H
 
 The latest draft climate agreement for COP31 removed explicit language on phasing out fossil fuels. This deletion occurred as ministers and the Presidency attempted to bridge sharp differences before the summit's scheduled close. Civil society groups expressed serious concern over the missing commitment. The change signals a significant retreat in the text's ambition regarding energy transition. A cat named Ambition went missing again at COP31 on Thursday.
 
-### [COP31 deadlock persists as countries launch new ‘climate reality check’](https://news.un.org/feed/view/en/story/2026/11/1168833)
-*UN News* - Nov 18, 17:30 IST (iso: 2026-11-18T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_COP31.jpg/image560x340cropped.jpg -->
-
-COP31 delegates in Antalya launched a new global check on climate promise fulfillment. Ministers remain deadlocked over funding responsibilities and fossil fuel transition timelines. The core dispute centers on whether a greener future is just if poorer nations cannot afford the shift. With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called “just” if poorer countries cannot afford it.
-
 ---
 
 ## World
 
 ### [Battle to control GPS and radio signals raises civilian safety concerns](https://news.un.org/feed/view/en/story/2026/11/1168843)
 *UN News* - Nov 19, 17:30 IST (iso: 2026-11-19T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image770x420cropped.jpg -->
 
 GPS and radio signals are increasingly blocked or faked, endangering aid convoys, passenger jets, and cargo ships. Civilian safety is declining as these critical navigation systems become unreliable. The disruption affects both conflict zones and open ocean routes. From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions.
 
