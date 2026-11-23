@@ -1,10 +1,68 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 22, 2026 23:38 IST
+**Updated:** November 23, 2026 05:26 IST
+
+---
+
+## Middle East & Africa
+
+### [Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank](https://www.thehindu.com/news/international/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank/article71732544.ece)
+*The Hindu (International)* - Nov 23, 03:32 IST (iso: 2026-11-22T22:02:28+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/qxpda3/article71732548.ece/alternates/LANDSCAPE_1200/2026-11-17T132413Z_1399649141_RC2OPOA2Q1HS_RTRMADP_3_ISRAEL-POLITICS.JPG -->
+
+Gadi Eisenkot labeled recent West Bank arson by Jewish settlers as Jewish terrorism. He argued these extremist acts undermine regional stability and endanger lives. The former defense minister warned the attacks damage Israel's national security and foreign relations. Gadi Eisenkot called the attacks ‘Jewish terrorism’, saying that ‘extremist groups that set ⁠fire to vehicles and homes are undermining regional stability, putting lives at risk and doing grave damage to Israel’s national security and foreign relations’.
+
+### [‘I had a better life in Iran’: Afghan women forced home struggle to rebuild](https://news.un.org/feed/view/en/story/2026/11/1168852)
+*UN News* - Nov 22, 17:30 IST (iso: 2026-11-22T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_UNHCR_Ukraine-01.jpg/image770x420cropped.jpg -->
+
+Afghan women returning from Iran face unemployment and fractured families. Zahra, a midwife in Herat, lost her income and now lives with her parents. Her son remains with her ex-husband. The five-year displacement left her without a stable livelihood or support network in her home region. For five years, Zahra cared for an elderly woman in Iran and earned enough to get by.
+
+### [Iran To Ration Electricity Amid Warnings Power Grid Battered by US, Israeli Strikes](https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html)
+*Radio Free Europe / Liberty* - Nov 22, 04:30 IST (iso: 2026-11-21T23:00:21+00:00)
+<!-- image: https://gdb.rferl.org/01000000-0a00-0242-1a34-08db967bbf26_cx0_cy6_cw0_w1200_h630.jpg -->
+
+Iran will begin rationing electricity on November 22. This follows recent bread shortages and purchase management procedures. The move occurs as uncertainty grows over President Trump’s next diplomatic or military step. The government aims to manage domestic resource scarcity. Iran To Ration Electricity As World Awaits Trump's Next Move. Iran To Ration Electricity Amid Warnings Power Grid Battered by US, Israeli Strikes.
+
+### [‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen](https://news.un.org/feed/view/en/story/2026/11/1168851)
+*UN News* - Nov 21, 17:30 IST (iso: 2026-11-21T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_UNFPA_Yemen-01.jpg/image770x420cropped.jpg -->
+
+Midwife Anisa Fadhl fled Taiz, Yemen, as fighting escalated two months ago. She left without packing a bag. Her home and clinic were later looted and destroyed. She escaped with only her life. The conflict displaced many medical workers. When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic.
+
+### [With Oil Revenue Running Out, Iran Teases Breaking US Blockade](https://www.rferl.org/a/iran-us-blockade-oil-revenue-war/33902633.html)
+*Radio Free Europe / Liberty* - Nov 20, 20:08 IST (iso: 2026-11-20T14:38:56+00:00)
+<!-- image: https://gdb.rferl.org/d03dec8c-4af0-41f5-99e0-0db16f6d1f38_cx15_cy4_cw69_w1200_h630.jpg -->
+
+Iranian hardliners are pushing for a tanker convoy to break the US naval blockade as oil revenue hits zero by mid-December. They threaten to strike Persian Gulf oil sites if the US fires on the vessels. This escalation risks a direct military confrontation in the region. With Iran’s oil revenue set to hit zero by mid-December, IRGC-linked media and hard-liners are pushing for a tanker convoy to break through the US naval blockade, threatening Persian Gulf oil sites if fired on.
+
+### [Countries demand stronger climate deal amid deadlock in Antalya](https://news.un.org/feed/view/en/story/2026/11/1168845)
+*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image560x340cropped.jpg -->
+
+A coalition of countries challenged the proposed COP31 agreement, demanding explicit fossil fuel action. They also called for stronger climate finance commitments. Tensions rose as the Antalya summit neared its close. Negotiators struggled to find a deal acceptable to nearly 200 governments. A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.
+
+### [Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
+*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image770x420cropped.jpg -->
+
+Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
 
 ---
 
 ## Asia-Pacific
+
+### [A weak South China Sea code of conduct will be worse than no agreement at all](https://www.channelnewsasia.com/commentary/south-china-sea-code-conduct-asean-singapore-6571406)
+*Channel News Asia* - Nov 23, 03:30 IST (iso: 2026-11-22T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--ivJGT5dc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/South_China_Sea_Pact_67925.jpg?itok=E7EmLyRr -->
+
+Collin Koh argues a weak South China Sea code of conduct is worse than no agreement. Singapore will chair ASEAN in 2027. The remaining unresolved issues are the most intractable. Koh believes a flawed deal creates more problems than silence. As Singapore takes over as ASEAN chair in 2027, what remains unresolved on the South China Sea code of conduct are arguably the most intractable issues, says Collin Koh from the S Rajaratnam School of International Studies.
+
+### [India's space startups are going global. Why is that sparking debate at home?](https://www.channelnewsasia.com/asia/indias-space-startups-are-going-global-why-sparking-debate-home-6558171)
+*Channel News Asia* - Nov 23, 03:30 IST (iso: 2026-11-22T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--78KYSgzx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/17/india_rocket_-_skyroot_-_afp.jpg?itok=JQH06ebF -->
+
+A satellite startup's US defense expansion sparked domestic debate in India. Questions arose about whether international operations influence government projects. Experts discussed balancing overseas growth with national interests. The industry views global expansion as essential for long-term viability. A satellite startup's US defence expansion has prompted questions over whether its international operations could influence Indian government projects. Experts tell CNA why overseas business matters to the industry and how companies can balance growth with national interests.
 
 ### [South Korean minister quits after AI cheating scandal engulfs university exams](https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams)
 *The Guardian* - Nov 22, 17:42 IST (iso: 2026-11-22T12:12:07+00:00)
@@ -44,61 +102,31 @@ The President of the United Nations General Assembly visited Cox’s Bazar in Ba
 
 ---
 
-## Middle East & Africa
+## Europe & Russia
 
-### [‘I had a better life in Iran’: Afghan women forced home struggle to rebuild](https://news.un.org/feed/view/en/story/2026/11/1168852)
-*UN News* - Nov 22, 17:30 IST (iso: 2026-11-22T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_UNHCR_Ukraine-01.jpg/image770x420cropped.jpg -->
+### [Rescuers Search For Victims After Russia Attacks Apartment Building Near Kyiv](https://www.rferl.org/a/ukraine-dymer-russian-strike-apartment-building/33903592.html)
+*Radio Free Europe / Liberty* - Nov 23, 00:16 IST (iso: 2026-11-22T18:46:58+00:00)
+<!-- image: https://gdb.rferl.org/febbf769-d859-4331-2f02-08df407f9921_cx0_cy8_cw0_w1200_h630.jpg -->
 
-Afghan women returning from Iran face unemployment and fractured families. Zahra, a midwife in Herat, lost her income and now lives with her parents. Her son remains with her ex-husband. The five-year displacement left her without a stable livelihood or support network in her home region. For five years, Zahra cared for an elderly woman in Iran and earned enough to get by.
+Russian drones destroyed a residential building in Dymer, 45 kilometers north of Kyiv. At least five people died, including an 18-year-old man. Rescuers searched for survivors and other victims. The attack targeted a civilian area near the capital. At least five people were confirmed dead after Russian drone strikes destroyed a residential building in the town of Dymer, about 45 kilometers north of Kyiv.
 
-### [Iran To Ration Electricity Amid Warnings Power Grid Battered by US, Israeli Strikes](https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html)
-*Radio Free Europe / Liberty* - Nov 22, 04:30 IST (iso: 2026-11-21T23:00:21+00:00)
-<!-- image: https://gdb.rferl.org/01000000-0a00-0242-1a34-08db967bbf26_cx0_cy6_cw0_w1200_h630.jpg -->
+### [Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house)
+*The Guardian* - Nov 21, 03:17 IST (iso: 2026-11-20T21:47:41+00:00)
+<!-- image: https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0877c9c0b25db1b6c4484c7a92e40b84 -->
 
-Iran will begin rationing electricity on November 22. This follows recent bread shortages and purchase management procedures. The move occurs as uncertainty grows over President Trump’s next diplomatic or military step. The government aims to manage domestic resource scarcity. Iran To Ration Electricity As World Awaits Trump's Next Move. Iran To Ration Electricity Amid Warnings Power Grid Battered by US, Israeli Strikes.
+Donald Trump threatened to impose severe penalties on American tech firms constructing datacenters outside the United States. He made the statement during a White House press conference on Friday. The president provided no specific details regarding the nature or scale of these penalties. He also admitted he had not yet briefed his own officials on the plan. President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White.
 
-### [‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen](https://news.un.org/feed/view/en/story/2026/11/1168851)
-*UN News* - Nov 21, 17:30 IST (iso: 2026-11-21T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_UNFPA_Yemen-01.jpg/image770x420cropped.jpg -->
+### [Pontoon Bridges, Hydrofoils, Tunnels: Barraged By Russia, Kyiv Rushes For Alternative River](https://www.rferl.org/a/ukraine-kyiv-bridges-russia-missile-river-dnieper/33902654.html)
+*Radio Free Europe / Liberty* - Nov 20, 21:09 IST (iso: 2026-11-20T15:39:29+00:00)
+<!-- image: https://gdb.rferl.org/bba097aa-284b-4d30-42f6-08df13a884cb_w1200_h630.jpg -->
 
-Midwife Anisa Fadhl fled Taiz, Yemen, as fighting escalated two months ago. She left without packing a bag. Her home and clinic were later looted and destroyed. She escaped with only her life. The conflict displaced many medical workers. When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic.
+Russia is targeting bridges spanning the Dnieper River in Kyiv. Ukrainian officials are developing alternatives to keep the city connected. Plans include pontoon bridges, hydrofoils, and tunnels. The goal is to prevent the capital from being cut in half. Russia is deliberately targeting the vital bridges that span the Dnieper River -- and link the two sides of Kyiv. Ukrainian officials are scrambling to come up with alternatives in case the city is completely cut in half.
 
-### [With Oil Revenue Running Out, Iran Teases Breaking US Blockade](https://www.rferl.org/a/iran-us-blockade-oil-revenue-war/33902633.html)
-*Radio Free Europe / Liberty* - Nov 20, 20:08 IST (iso: 2026-11-20T14:38:56+00:00)
-<!-- image: https://gdb.rferl.org/d03dec8c-4af0-41f5-99e0-0db16f6d1f38_cx15_cy4_cw69_w1200_h630.jpg -->
-
-Iranian hardliners are pushing for a tanker convoy to break the US naval blockade as oil revenue hits zero by mid-December. They threaten to strike Persian Gulf oil sites if the US fires on the vessels. This escalation risks a direct military confrontation in the region. With Iran’s oil revenue set to hit zero by mid-December, IRGC-linked media and hard-liners are pushing for a tanker convoy to break through the US naval blockade, threatening Persian Gulf oil sites if fired on.
-
-### [Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
+### [Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children](https://news.un.org/feed/view/en/story/2026/11/1168847)
 *UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-10-2025-UNICEF-Ukraine-03.jpg/image770x420cropped.jpg -->
 
-Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
-
-### [Countries demand stronger climate deal amid deadlock in Antalya](https://news.un.org/feed/view/en/story/2026/11/1168845)
-*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image770x420cropped.jpg -->
-
-A coalition of countries challenged the proposed COP31 agreement, demanding explicit fossil fuel action. They also called for stronger climate finance commitments. Tensions rose as the Antalya summit neared its close. Negotiators struggled to find a deal acceptable to nearly 200 governments. A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.
-
-### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
-*The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5 -->
-
-Fears rise that the US may sanction ICJ judges after a potential Myanmar genocide ruling. Navi Pillay, a Nobel laureate, faces possible penalties. The court has never previously found a state responsible for genocide. A ruling against Myanmar could set a precedent for future cases involving Israel. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.
-
-### [Diversifying funding was supposed to protect civil society: It did not](https://globalvoices.org/2026/11/18/diversifying-funding-was-supposed-to-protect-civil-society-it-did-not/)
-*Global Voices* - Nov 18, 08:10 IST (iso: 2026-11-18T02:40:58+00:00)
-<!-- image: https://globalvoices.org/wp-content/uploads/2026/11/Activists-hold-a-candlelight-vigil-to-commemorate-those-who-lost-their-lives-in-post-election-violence-in-Tanzania-in-Nairobi-Kenya-on-November-20-2025-Credit_-Anadolu_Lucas-Mukasa-800x450.webp -->
-
-A survey of 195 organizations across 68 countries reveals the global aid retreat is severe. Groups that diversified funding streams still face critical shortfalls. The crisis extends beyond immediate financial losses. Structural instability now threatens the long-term viability of civil society institutions worldwide. A survey of 195 organisations across more than 68 countries shows how the global aid retreat is hitting organizations that spent years building diverse funding streams.
-
-### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
-*International Crisis Group* - Nov 13, 05:30 IST (iso: 2026-11-13T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group publishes its weekly On Our Radar briefing, tracking global conflicts and crises. Field analysts highlight under-reported trends and major developments. The report explains why each hotspot matters and outlines recommended actions for policymakers. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.
+UNICEF highlighted record child casualty levels in Ukraine as the country faces another brutal winter. A twice-bombed Kyiv kindergarten stands in ruins during a day-long power cut. Freezing classrooms and shattered playgrounds illustrate the dangers children face. The conflict continues to inflict severe harm on the youngest population. Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.
 
 ---
 
@@ -136,28 +164,6 @@ The latest draft climate agreement for COP31 removed explicit language on phasin
 
 ---
 
-## Europe & Russia
-
-### [Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house)
-*The Guardian* - Nov 21, 03:17 IST (iso: 2026-11-20T21:47:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0877c9c0b25db1b6c4484c7a92e40b84 -->
-
-Donald Trump threatened to impose severe penalties on American tech firms constructing datacenters outside the United States. He made the statement during a White House press conference on Friday. The president provided no specific details regarding the nature or scale of these penalties. He also admitted he had not yet briefed his own officials on the plan. President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White.
-
-### [Pontoon Bridges, Hydrofoils, Tunnels: Barraged By Russia, Kyiv Rushes For Alternative River](https://www.rferl.org/a/ukraine-kyiv-bridges-russia-missile-river-dnieper/33902654.html)
-*Radio Free Europe / Liberty* - Nov 20, 21:09 IST (iso: 2026-11-20T15:39:29+00:00)
-<!-- image: https://gdb.rferl.org/bba097aa-284b-4d30-42f6-08df13a884cb_w1200_h630.jpg -->
-
-Russia is targeting bridges spanning the Dnieper River in Kyiv. Ukrainian officials are developing alternatives to keep the city connected. Plans include pontoon bridges, hydrofoils, and tunnels. The goal is to prevent the capital from being cut in half. Russia is deliberately targeting the vital bridges that span the Dnieper River -- and link the two sides of Kyiv. Ukrainian officials are scrambling to come up with alternatives in case the city is completely cut in half.
-
-### [Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children](https://news.un.org/feed/view/en/story/2026/11/1168847)
-*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-10-2025-UNICEF-Ukraine-03.jpg/image770x420cropped.jpg -->
-
-UNICEF highlighted record child casualty levels in Ukraine as the country faces another brutal winter. A twice-bombed Kyiv kindergarten stands in ruins during a day-long power cut. Freezing classrooms and shattered playgrounds illustrate the dangers children face. The conflict continues to inflict severe harm on the youngest population. Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.
-
----
-
 ## World
 
 ### [Battle to control GPS and radio signals raises civilian safety concerns](https://news.un.org/feed/view/en/story/2026/11/1168843)
@@ -165,12 +171,6 @@ UNICEF highlighted record child casualty levels in Ukraine as the country faces 
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image560x340cropped.jpg -->
 
 GPS and radio signals are increasingly blocked or faked, endangering aid convoys, passenger jets, and cargo ships. Civilian safety is declining as these critical navigation systems become unreliable. The disruption affects both conflict zones and open ocean routes. From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions.
-
-### [Gideon Rachman on the Risk of World War III](https://www.crisisgroup.org/pod/global/gideon-rachman-risk-world-war-iii)
-*International Crisis Group* - Nov 13, 21:02 IST (iso: 2026-11-13T15:32:00+00:00)
-<!-- image: https://images.pexels.com/photos/6962257/pexels-photo-6962257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Gideon Rachman discusses the risk of a global war in a new book. He argues current conflicts could escalate into a broader confrontation. The Financial Times commentator warns that geopolitical miscalculations are increasing. His analysis focuses on how regional disputes might trigger wider international involvement. In this episode of Hold Your Fire!, Richard speaks with Gideon Rachman, chief foreign affairs commentator at the Financial Times about his new book, “War Is Interested in You”, and whether today’s conflicts could spin into a global war.
 
 ---
 
