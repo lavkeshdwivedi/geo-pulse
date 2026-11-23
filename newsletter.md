@@ -1,6 +1,80 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 23, 2026 05:26 IST
+**Updated:** November 23, 2026 09:49 IST
+
+---
+
+## Asia-Pacific
+
+### [China’s mystery MQ-25-like drone built for Pacific power reach](https://asiatimes.com/2026/11/chinas-mystery-mq-25-like-drone-built-for-pacific-power-reach/)
+*Asia Times* - Nov 23, 09:17 IST (iso: 2026-11-23T03:47:28+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Mystery-Drone-copy-1.jpeg -->
+
+Satellite imagery at Pucheng Neifu Airport in Shaanxi Province revealed an unidentified uncrewed aircraft. It closely resembles Boeing’s MQ-25A Stingray carrier tanker. The drone measures roughly 20.12 meters in wingspan and 14.94 meters in length. It sits alongside other advanced unmanned systems. Satellite imagery revealed an unidentified uncrewed aircraft at Pucheng Neifu Airport in China’s Shaanxi Province, bearing strong visual similarities to Boeing’s MQ-25A Stingray carrier tanker, alongside a CH-7 stealth flying-wing drone and a Jiutian drone mothership, multiple media outlets reported.
+
+### [North Korea leader highlights 'sovereignty' in ties after Trump no-show](https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sovereignty-foreign-relations-6573851)
+*Channel News Asia* - Nov 23, 08:55 IST (iso: 2026-11-23T03:25:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--kUvV4eE8--/c_crop,h_1125,w_1999,x_1,y_166/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/23/2026-11-22t213450z_337911736_rc29toa1baih_rtrmadp_3_northkorea-security.jpg?itok=iRrbaUsn -->
+
+Kim Jong Un stated that Pyongyang aims to expand foreign relations based on independence and peace. He emphasized the principle of defending national sovereignty and security. This diplomatic stance followed Donald Trump’s absence from recent bilateral engagements. The leader framed the approach as a core strategic priority. Pyongyang's diplomatic goal is to "expand and develop foreign relations under the ideals of independence, peace and friendship on the principle of defending the national sovereignty and security", said North Korean leader Kim Jong Un.
+
+### [China’s open-weight AI models are coming for America’s market](https://asiatimes.com/2026/11/chinas-open-weight-ai-models-are-coming-for-americas-market/)
+*Asia Times* - Nov 22, 09:12 IST (iso: 2026-11-22T03:42:39+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/DeepSeek-China-AI-Artificial-Intelligence.jpg -->
+
+The Trump administration is considering requiring US companies to disclose their use of Chinese AI models. This move follows growing adoption of tools from DeepSeek, Alibaba, and Moonshot AI. American firms are shifting to these lower-cost alternatives. The deliberation aims to address the rising market share of Chinese open-weight models in the United States. The Trump administration is weighing whether to require American companies to disclose their use of Chinese artificial intelligence, Reuters reported on November 18.
+
+### [China commits to low-carbon electrification and help for others to improve](https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve)
+*The Guardian* - Nov 21, 15:17 IST (iso: 2026-11-21T09:47:57+00:00)
+<!-- image: https://i.guim.co.uk/img/media/9e68aee336577ce0e768fd142e23caf3b9396a18/240_71_6107_4885/master/6107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f916ca3daa8d1f8633cbd2173c6e7a83 -->
+
+China pledged to accelerate low-carbon electrification and assist other nations in doing the same. Wang Yi made the commitment at the Cop31 summit. The goal aligns with broader calls for countries to derive 35% of their energy from electricity by 2035. Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035Cop31 live – latest updatesChina is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said. Wang Yi, a professor of energy and environment policy.
+
+### [Why Takaichi should stick to her guns on Taiwan](https://asiatimes.com/2026/11/why-takaichi-should-stick-to-her-guns-on-taiwan/)
+*Asia Times* - Nov 21, 12:19 IST (iso: 2026-11-21T06:49:19+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2025/12/Japan-Sanae-Takaichi-.jpg -->
+
+Japanese Prime Minister Sanae Takaichi stated Chinese force against Taiwan could trigger Self-Defense Forces deployment. The remark drew significant criticism from Beijing. China responded with economic and diplomatic pressure against Tokyo. On November 7, 2025, Japanese Prime Minister Sanae Takaichi was pressed repeatedly in parliament about a possible Chinese invasion or naval blockade of Taiwan. She eventually said that Chinese use of force could trigger the deployment of Japan’s Self-Defense Forces.
+
+### [General Assembly President tells Rohingya refugees after genocide ruling](https://news.un.org/feed/view/en/story/2026/11/1168853)
+*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image770x420cropped.jpg -->
+
+The President of the United Nations General Assembly visited Cox’s Bazar in Bangladesh one day after the International Court of Justice ruled that Myanmar committed genocide against the Rohingya. The visit aimed to pressure the international community to translate the landmark legal finding into concrete protective measures. The court’s decision marks a significant shift in the diplomatic handling of the crisis. The President urged member states to move beyond rhetoric and implement the court’s directives.
+
+---
+
+## Europe & Russia
+
+### [NATO-Like Guarantees For Ukraine? US Envoy Signals Possibility, But Questions Remain](https://www.rferl.org/a/kushner-trump-nato-ukraine-russia-security/33903834.html)
+*Radio Free Europe / Liberty* - Nov 23, 08:35 IST (iso: 2026-11-23T03:05:13+00:00)
+<!-- image: https://gdb.rferl.org/808D2EA0-D1C7-4C25-870B-2C62D206A023_cx0_cy3_cw0_w1200_h630.jpg -->
+
+Jared Kushner said Donald Trump might offer Ukraine security guarantees modeled on NATO commitments. This possibility hinges on reducing the risk of another Russian invasion. The envoy signaled this potential shift on November 22. Questions remain regarding the specific terms and conditions of such an arrangement. US President Donald Trump may consider offering Ukraine security guarantees modeled on NATO's collective-defense commitments if he is convinced that the risk of another Russian invasion has been sufficiently reduced, special envoy Jared Kushner said on November 22.
+
+### [Rescuers Search For Victims After Russia Attacks Apartment Building Near Kyiv](https://www.rferl.org/a/ukraine-dymer-russian-strike-apartment-building/33903592.html)
+*Radio Free Europe / Liberty* - Nov 23, 00:16 IST (iso: 2026-11-22T18:46:58+00:00)
+<!-- image: https://gdb.rferl.org/febbf769-d859-4331-2f02-08df407f9921_cx0_cy8_cw0_w1200_h630.jpg -->
+
+Russian drones destroyed a residential building in Dymer, 45 kilometers north of Kyiv. At least five people died, including an 18-year-old man. Rescuers searched for survivors and other victims. The attack targeted a civilian area near the capital. At least five people were confirmed dead after Russian drone strikes destroyed a residential building in the town of Dymer, about 45 kilometers north of Kyiv.
+
+### [Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house)
+*The Guardian* - Nov 21, 03:17 IST (iso: 2026-11-20T21:47:41+00:00)
+<!-- image: https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0877c9c0b25db1b6c4484c7a92e40b84 -->
+
+Donald Trump threatened to impose severe penalties on American tech firms constructing datacenters outside the United States. He made the statement during a White House press conference on Friday. The president provided no specific details regarding the nature or scale of these penalties. He also admitted he had not yet briefed his own officials on the plan. President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White.
+
+### [Pontoon Bridges, Hydrofoils, Tunnels: Barraged By Russia, Kyiv Rushes For Alternative River](https://www.rferl.org/a/ukraine-kyiv-bridges-russia-missile-river-dnieper/33902654.html)
+*Radio Free Europe / Liberty* - Nov 20, 21:09 IST (iso: 2026-11-20T15:39:29+00:00)
+<!-- image: https://gdb.rferl.org/bba097aa-284b-4d30-42f6-08df13a884cb_w1200_h630.jpg -->
+
+Russia is targeting bridges spanning the Dnieper River in Kyiv. Ukrainian officials are developing alternatives to keep the city connected. Plans include pontoon bridges, hydrofoils, and tunnels. The goal is to prevent the capital from being cut in half. Russia is deliberately targeting the vital bridges that span the Dnieper River -- and link the two sides of Kyiv. Ukrainian officials are scrambling to come up with alternatives in case the city is completely cut in half.
+
+### [Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children](https://news.un.org/feed/view/en/story/2026/11/1168847)
+*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-10-2025-UNICEF-Ukraine-03.jpg/image770x420cropped.jpg -->
+
+UNICEF highlighted record child casualty levels in Ukraine as the country faces another brutal winter. A twice-bombed Kyiv kindergarten stands in ruins during a day-long power cut. Freezing classrooms and shattered playgrounds illustrate the dangers children face. The conflict continues to inflict severe harm on the youngest population. Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.
 
 ---
 
@@ -38,7 +112,7 @@ Iranian hardliners are pushing for a tanker convoy to break the US naval blockad
 
 ### [Countries demand stronger climate deal amid deadlock in Antalya](https://news.un.org/feed/view/en/story/2026/11/1168845)
 *UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image770x420cropped.jpg -->
 
 A coalition of countries challenged the proposed COP31 agreement, demanding explicit fossil fuel action. They also called for stronger climate finance commitments. Tensions rose as the Antalya summit neared its close. Negotiators struggled to find a deal acceptable to nearly 200 governments. A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.
 
@@ -48,85 +122,11 @@ A coalition of countries challenged the proposed COP31 agreement, demanding expl
 
 Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
 
----
+### [Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
+*The Guardian* - Nov 18, 15:28 IST (iso: 2026-11-18T09:58:28+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5 -->
 
-## Asia-Pacific
-
-### [A weak South China Sea code of conduct will be worse than no agreement at all](https://www.channelnewsasia.com/commentary/south-china-sea-code-conduct-asean-singapore-6571406)
-*Channel News Asia* - Nov 23, 03:30 IST (iso: 2026-11-22T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--ivJGT5dc--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/South_China_Sea_Pact_67925.jpg?itok=E7EmLyRr -->
-
-Collin Koh argues a weak South China Sea code of conduct is worse than no agreement. Singapore will chair ASEAN in 2027. The remaining unresolved issues are the most intractable. Koh believes a flawed deal creates more problems than silence. As Singapore takes over as ASEAN chair in 2027, what remains unresolved on the South China Sea code of conduct are arguably the most intractable issues, says Collin Koh from the S Rajaratnam School of International Studies.
-
-### [India's space startups are going global. Why is that sparking debate at home?](https://www.channelnewsasia.com/asia/indias-space-startups-are-going-global-why-sparking-debate-home-6558171)
-*Channel News Asia* - Nov 23, 03:30 IST (iso: 2026-11-22T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--78KYSgzx--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/17/india_rocket_-_skyroot_-_afp.jpg?itok=JQH06ebF -->
-
-A satellite startup's US defense expansion sparked domestic debate in India. Questions arose about whether international operations influence government projects. Experts discussed balancing overseas growth with national interests. The industry views global expansion as essential for long-term viability. A satellite startup's US defence expansion has prompted questions over whether its international operations could influence Indian government projects. Experts tell CNA why overseas business matters to the industry and how companies can balance growth with national interests.
-
-### [South Korean minister quits after AI cheating scandal engulfs university exams](https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams)
-*The Guardian* - Nov 22, 17:42 IST (iso: 2026-11-22T12:12:07+00:00)
-<!-- image: https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3f07b25c72631f8072873e52093f91c -->
-
-South Korea's education minister Choi Kyo-jin resigned on Sunday following an AI cheating scandal. He admitted failing to prepare adequately for university entrance exams. The tests banned phones and checked for hidden cameras. The resignation follows widespread fears over AI-assisted fraud in the country's key academic assessments. Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothingSouth Korea’s education minister resigned on Sunday after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, wh.
-
-### [Afghan Women Turn To Social Media To Earn Living As Doors Close Offline](https://www.rferl.org/a/afghan-kabul-female-influencers-social-media-taliban/33902659.html)
-*Radio Free Europe / Liberty* - Nov 22, 13:42 IST (iso: 2026-11-22T08:12:45+00:00)
-<!-- image: https://gdb.rferl.org/41c3c27d-3b1a-4c0b-a223-d573f8eba5a8_w1200_h630.jpg -->
-
-Afghan women are building personal brands on Instagram, TikTok, and YouTube to earn income. They share videos of cooking, shopping, and family gatherings. This digital shift offers a livelihood as offline opportunities have closed under Taliban restrictions. Afghan women who have had their lives sharply restricted by Taliban rule have responded by building personal brands on Instagram, TikTok, and YouTube showing them cooking at home, shopping in bazaars, or meeting friends and family.
-
-### [China’s open-weight AI models are coming for America’s market](https://asiatimes.com/2026/11/chinas-open-weight-ai-models-are-coming-for-americas-market/)
-*Asia Times* - Nov 22, 09:12 IST (iso: 2026-11-22T03:42:39+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/DeepSeek-China-AI-Artificial-Intelligence.jpg -->
-
-The Trump administration is considering requiring US companies to disclose their use of Chinese AI models. This move follows growing adoption of tools from DeepSeek, Alibaba, and Moonshot AI. American firms are shifting to these lower-cost alternatives. The deliberation aims to address the rising market share of Chinese open-weight models in the United States. The Trump administration is weighing whether to require American companies to disclose their use of Chinese artificial intelligence, Reuters reported on November 18.
-
-### [China commits to low-carbon electrification and help for others to improve](https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve)
-*The Guardian* - Nov 21, 15:17 IST (iso: 2026-11-21T09:47:57+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9e68aee336577ce0e768fd142e23caf3b9396a18/240_71_6107_4885/master/6107.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f916ca3daa8d1f8633cbd2173c6e7a83 -->
-
-China pledged to accelerate low-carbon electrification and assist other nations in doing the same. Wang Yi made the commitment at the Cop31 summit. The goal aligns with broader calls for countries to derive 35% of their energy from electricity by 2035. Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035Cop31 live – latest updatesChina is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said. Wang Yi, a professor of energy and environment policy.
-
-### [Why Takaichi should stick to her guns on Taiwan](https://asiatimes.com/2026/11/why-takaichi-should-stick-to-her-guns-on-taiwan/)
-*Asia Times* - Nov 21, 12:19 IST (iso: 2026-11-21T06:49:19+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2025/12/Japan-Sanae-Takaichi-.jpg -->
-
-Japanese Prime Minister Sanae Takaichi stated Chinese force against Taiwan could trigger Self-Defense Forces deployment. The remark drew significant criticism from Beijing. China responded with economic and diplomatic pressure against Tokyo. On November 7, 2025, Japanese Prime Minister Sanae Takaichi was pressed repeatedly in parliament about a possible Chinese invasion or naval blockade of Taiwan. She eventually said that Chinese use of force could trigger the deployment of Japan’s Self-Defense Forces.
-
-### [General Assembly President tells Rohingya refugees after genocide ruling](https://news.un.org/feed/view/en/story/2026/11/1168853)
-*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image770x420cropped.jpg -->
-
-The President of the United Nations General Assembly visited Cox’s Bazar in Bangladesh one day after the International Court of Justice ruled that Myanmar committed genocide against the Rohingya. The visit aimed to pressure the international community to translate the landmark legal finding into concrete protective measures. The court’s decision marks a significant shift in the diplomatic handling of the crisis. The President urged member states to move beyond rhetoric and implement the court’s directives.
-
----
-
-## Europe & Russia
-
-### [Rescuers Search For Victims After Russia Attacks Apartment Building Near Kyiv](https://www.rferl.org/a/ukraine-dymer-russian-strike-apartment-building/33903592.html)
-*Radio Free Europe / Liberty* - Nov 23, 00:16 IST (iso: 2026-11-22T18:46:58+00:00)
-<!-- image: https://gdb.rferl.org/febbf769-d859-4331-2f02-08df407f9921_cx0_cy8_cw0_w1200_h630.jpg -->
-
-Russian drones destroyed a residential building in Dymer, 45 kilometers north of Kyiv. At least five people died, including an 18-year-old man. Rescuers searched for survivors and other victims. The attack targeted a civilian area near the capital. At least five people were confirmed dead after Russian drone strikes destroyed a residential building in the town of Dymer, about 45 kilometers north of Kyiv.
-
-### [Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house)
-*The Guardian* - Nov 21, 03:17 IST (iso: 2026-11-20T21:47:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0877c9c0b25db1b6c4484c7a92e40b84 -->
-
-Donald Trump threatened to impose severe penalties on American tech firms constructing datacenters outside the United States. He made the statement during a White House press conference on Friday. The president provided no specific details regarding the nature or scale of these penalties. He also admitted he had not yet briefed his own officials on the plan. President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White.
-
-### [Pontoon Bridges, Hydrofoils, Tunnels: Barraged By Russia, Kyiv Rushes For Alternative River](https://www.rferl.org/a/ukraine-kyiv-bridges-russia-missile-river-dnieper/33902654.html)
-*Radio Free Europe / Liberty* - Nov 20, 21:09 IST (iso: 2026-11-20T15:39:29+00:00)
-<!-- image: https://gdb.rferl.org/bba097aa-284b-4d30-42f6-08df13a884cb_w1200_h630.jpg -->
-
-Russia is targeting bridges spanning the Dnieper River in Kyiv. Ukrainian officials are developing alternatives to keep the city connected. Plans include pontoon bridges, hydrofoils, and tunnels. The goal is to prevent the capital from being cut in half. Russia is deliberately targeting the vital bridges that span the Dnieper River -- and link the two sides of Kyiv. Ukrainian officials are scrambling to come up with alternatives in case the city is completely cut in half.
-
-### [Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children](https://news.un.org/feed/view/en/story/2026/11/1168847)
-*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-10-2025-UNICEF-Ukraine-03.jpg/image770x420cropped.jpg -->
-
-UNICEF highlighted record child casualty levels in Ukraine as the country faces another brutal winter. A twice-bombed Kyiv kindergarten stands in ruins during a day-long power cut. Freezing classrooms and shattered playgrounds illustrate the dangers children face. The conflict continues to inflict severe harm on the youngest population. Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.
+Fears are rising that the US will sanction judges at the International Court of Justice. This includes Nobel Peace Prize winner Navi Pillay. The potential sanctions follow a ruling that Myanmar committed genocide against the Rohingya. Such a move would set a significant precedent for future court judgments. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.
 
 ---
 

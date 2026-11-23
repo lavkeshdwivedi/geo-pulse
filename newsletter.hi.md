@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 23, 2026 05:26 IST
-
----
-
-## एशिया-प्रशांत
-
-### [कप्तान तिलक और शहबाज की मेहनत पर फिर पानी, पाकिस्तान ए ने जीता मुकाबला; कहां हुई चूक?](https://www.amarujala.com/cricket/cricket-news/ind-a-vs-pak-a-highlights-india-a-vs-pakistan-a-asia-cup-rising-stars-2026-match-result-and-key-moments-2026-11-23)
-*Amar Ujala Breaking* - Nov 23, 12:40 IST (iso: 2026-11-23T07:10:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/ind_06875acee4c7d1ffd1b7e499f886eb0c.jpeg?w=1200&dpr=1.0 -->
-
-राइजिंग स्टार एशिया कप में पाकिस्तान ए ने भारत ए को 48 रनों से हराया। भारत ए ने नेपाल को हराकर अच्छा प्रदर्शन किया था, लेकिन इस मैच में लक्ष्य का पीछा नहीं कर सकी। नेपाल के खिलाफ बड़ी जीत दर्ज करने वाली भारत ए टीम को पाकिस्तान ए के खिलाफ हार का सामना करना पड़ा। राइजिंग स्टार एशिया कप में भारत ए की टीम लक्ष्य का पीछा नहीं कर सकी और 48 रनों से हार गई।
-
-### [139 पर न्यूजीलैंड को चौथा झटका, कॉनवे के बाद रचिन भी आउट; भारत जीत से छह विकेट दूर](https://www.amarujala.com/live/cricket/ind-vs-nz-1st-test-day-5-live-score-updates-commentary-india-vs-new-zealand-day-5-updates-in-hindi-2026-11-23)
-*Amar Ujala Breaking* - Nov 23, 04:49 IST (iso: 2026-11-22T23:19:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/india-vs-new-zealand-ind-vs-nz-live-score-ind-vs-nz-1st-test-india-vs-new-zealand-test-series-202_53820e40b32b1a9ba770c9e0db2241fb.jpeg?w=1200&dpr=1.0 -->
-
-न्यूजीलैंड ने पांचवें दिन 139 रन पर चौथा विकेट गंवाया। रचिन रवानी के आउट होने के बाद भारत को जीत के लिए छह विकेट चाहिए हैं। मैच में अभी भी संभावनाएं बनी हुई हैं। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच पहले टेस्ट का आज पांचवां दिन है। टीम इंडिया की नजर जीत दर्ज करने पर है।
-
-### [जगन्नाथपुरी में भारत स्वस्तिक यात्रा का दूसरा चरण संपन्न: मोरारी बापू ने बताया प्रेम, सत्य और करुणा](https://www.amarujala.com/india-news/bharat-swastik-yatra-second-phase-concludes-jagannath-puri-morari-bapu-2026-11-23)
-*Amar Ujala National* - Nov 23, 04:37 IST (iso: 2026-11-22T23:07:47+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/morari-bapu_4b84a78745909839ff359d9e49297016.jpeg?w=1200&dpr=1.0 -->
-
-जगन्नाथपुरी में भारत स्वस्तिक यात्रा का दूसरा चरण संपन्न हुआ। मोरारी बापू ने प्रेम, सत्य और करुणा के महत्व पर प्रकाश डाला। कार्यक्रम में श्रद्धालुओं ने भाग लिया। जगन्नाथपुरी में भारत स्वस्तिक यात्रा का दूसरा चरण संपन्न: मोरारी बापू ने बताया प्रेम, सत्य और करुणा।
-
-### [83 फीसदी घरों में इंटरनेट, पर 40% ग्रामीण जेन-जी ईमेल की पहुंच से दूर](https://www.amarujala.com/india-news/rural-india-digital-skills-gap-40-percent-youth-cannot-use-email-rbi-report-2026-11-23)
-*Amar Ujala Breaking* - Nov 23, 03:49 IST (iso: 2026-11-22T22:19:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/internet_644ff7bc04edc5eb27bdc2b2a75ed132.jpeg?w=1200&dpr=1.0 -->
-
-आरबीआई रिपोर्ट के अनुसार भारत में 83 फीसदी घरों में इंटरनेट पहुंच है। फिर भी 40 फीसदी ग्रामीण युवा ईमेल उपयोग नहीं कर पाते। यह डिजिटल कौशल का स्पष्ट अंतर दर्शाता है। 83 फीसदी घरों में इंटरनेट, पर 40% ग्रामीण जेन-जी ईमेल की पहुंच से दूर।
-
-### [ईएसआईसी ने अधिसूचित किए नए नियम, बीमारी-मातृत्व लाभ के लिए नहीं करना पड़ेगा अलग से क्लेम](https://www.amarujala.com/india-news/news-updates-23-november-north-east-west-south-india-elections-2026-politics-crime-latest-national-hindi-news-2026-11-23)
-*Amar Ujala National* - Nov 23, 03:15 IST (iso: 2026-11-22T21:45:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/05/31/thasha-ka-bugdha-khabra_08d8df88d0a26311494cc09fcb7205b6.jpeg?w=1200&dpr=1.0 -->
-
-ईएसआईसी ने बीमारी और मातृत्व लाभ के लिए नए नियम जारी किए। अब कर्मचारियों को अलग से क्लेम फाइल करने की आवश्यकता नहीं होगी। यह प्रक्रिया को सरल बनाता है। ईएसआईसी ने अधिसूचित किए नए नियम, बीमारी-मातृत्व लाभ के लिए नहीं करना पड़ेगा अलग से क्लेम।
-
-### [PM मोदी-बालेंद्र शाह की आज अहम मुलाकात: अयोध्या-जनकपुर रेल लिंक का होगा उद्घाटन; कई बड़े समझौतों पर](https://www.amarujala.com/india-news/pm-modi-and-nepal-pm-balen-shah-to-hold-talks-unveil-ayodhya-janakpur-rail-link-2026-11-23)
-*Amar Ujala Breaking* - Nov 23, 03:05 IST (iso: 2026-11-22T21:35:39+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/12/napal-ka-paema-blna-shaha_728a347b5af2b199176e867388901c8b.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री मोदी और नेपाली प्रधानमंत्री बालेंद्र शाह की मुलाकात होगी। दोनों अयोध्या-जनकपुर रेल लिंक का उद्घाटन करेंगे। कई अन्य महत्वपूर्ण समझौतों पर भी हस्ताक्षर होंगे। PM मोदी-बालेंद्र शाह की आज अहम मुलाकात: अयोध्या-जनकपुर रेल लिंक का होगा उद्घाटन; कई बड़े समझौतों पर।
-
-### [हिमाचल के ताबो में हिमपात से -4.6 डिग्री पारा; बर्फ से ढंके कश्मीर के पर्यटन स्थल; दिल्ली में](https://www.amarujala.com/delhi-ncr/weather-mercury-drops-to-4-6-c-in-tabo-himachal-following-snowfall-2026-11-23)
-*Amar Ujala Breaking* - Nov 23, 02:54 IST (iso: 2026-11-22T21:24:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/1_22d5e6abba6cbbeb05982425361ce855.jpeg?w=1200&dpr=1.0 -->
-
-हिमाचल, जम्मू-कश्मीर और उत्तराखंड में लगातार बर्फबारी से तापमान तेजी से गिर रहा है। ताबो में पारा माइनस 4.6 डिग्री तक पहुंच गया है। कश्मीर के प्रमुख पर्यटन स्थल बर्फ से ढक गए हैं। दिल्ली में भी मौसम बदलाव जारी है। पर्वतीय राज्य हिमाचल, जम्मू-कश्मीर व उत्तराखंड में जारी बर्फबारी के कारण तापमान तेजी से नीचे गिरने लगा है। हिमाचल के ताबो में हिमपात से -4.6 डिग्री पारा; बर्फ से ढंके कश्मीर के पर्यटन स्थल; दिल्ली में।
-
-### [जलवायु संकट पर दुनिया एकजुट नहीं, जीवाश्म ईंधन और फंडिंग पर कई देश बंटे; भारत ने उठाए अहम सवाल](https://www.amarujala.com/world/cop31-end-without-climate-deal-as-countries-fail-to-agree-on-fossil-fuels-climate-finance-india-raise-concern-2026-11-23)
-*Amar Ujala World* - Nov 23, 02:07 IST (iso: 2026-11-22T20:37:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/06/15/jalvaya-paravaratana_1fc178bd0006f131d07b97e93752c580.jpeg?w=1200&dpr=1.0 -->
-
-कॉप-31 पर देशों के बीच जलवायु समझौता नहीं बन सका। जीवाश्म ईंधन और वित्त पोषण पर मतभेद बने रहे। भारत ने इन मुद्दों पर चिंता जताई। सम्मेलन बिना किसी ठोस समझौते के समाप्त हुआ। जलवायु संकट पर दुनिया एकजुट नहीं, जीवाश्म ईंधन और फंडिंग पर कई देश बंटे; भारत ने उठाए अहम सवाल।
-
-### [आज वीआईपी आवाजाही और नगर कीर्तन के चलते सुबह 10 बजे से लागू रहेंगी यातायात पाबंदियां, देखकर ही](https://www.amarujala.com/delhi-ncr/traffic-restrictions-will-be-in-place-tomorrow-due-to-vip-movement-and-religious-processions-2026-11-22)
-*Amar Ujala Breaking* - Nov 23, 01:24 IST (iso: 2026-11-22T19:54:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/11/thall-tarafaka-palsa-na-jara-ka-edavaijara_ec6b56efc503236fbad68367c2344c3b.jpeg?w=1200&dpr=1.0 -->
-
-दिल्ली पुलिस ने सोमवार को यातायात प्रतिबंध लागू किए। वीआईपी आवाजाही और नगर कीर्तन के कारण सुबह 10 बजे से पाबंदियां होंगी। कई मार्गों पर रूट डायवर्जन किया गया है। यात्रियों को वैकल्पिक रास्ते अपनाने चाहिए। दिल्ली यातायात पुलिस ने सोमवार को दिल्ली में कई स्थानों पर यातायात प्रतिबंध और रूट डायवर्जन की घोषणा की है। आज वीआईपी आवाजाही और नगर कीर्तन के चलते सुबह 10 बजे से लागू रहेंगी यातायात पाबंदियां, देखकर ही।
+**अपडेट:** November 23, 2026 09:49 IST
 
 ---
 
 ## अमेरिका
 
-### [गोद भराई समारोह के दौरान गोलीबारी, संदिग्ध हमलावर समेत तीन लोगों की मौत; एक घायल](https://www.amarujala.com/world/us-ohio-baby-shower-shooting-three-killed-one-injured-parma-2026-11-23)
-*Amar Ujala World* - Nov 23, 12:17 IST (iso: 2026-11-23T06:47:59+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/us-shooting_6d281b34839de97ea0a5ae51245b3132.jpeg?w=1200&dpr=1.0 -->
+### [मीडिया डिनर में पीएम कार्नी से लेकर ट्रूडो पर कॉमेडियन ने ली चुटकी, देखें वीडियो](https://www.amarujala.com/world/comedian-mocks-trump-impersonation-political-jibes-canadian-dinner-carney-and-trudeau-also-in-the-crosshairs-2026-11-23)
+*Amar Ujala World* - Nov 23, 09:44 IST (iso: 2026-11-23T04:14:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/kanada-ka-danara-ma-tarapa-ka-savaga_0d9df8666c3757b0bd65c31fba2f5390.gif?w=1200&dpr=1.0 -->
 
-अमेरिका के ओहियो में गोद भराई समारोह के दौरान गोलीबारी हुई। संदिग्ध हमलावर समेत तीन लोगों की मौत हो गई और एक व्यक्ति घायल हुआ। घटना पार्मा में घटी। गोद भराई समारोह के दौरान गोलीबारी, संदिग्ध हमलावर समेत तीन लोगों की मौत; एक घायल।
+कनाडा के वार्षिक मीडिया डिनर में एक कॉमेडियन ने ट्रंप की नकल की। उसने पीएम मार्क कार्नी और पूर्व पीएम जस्टिन ट्रूडो पर भी व्यंग्य किया। कार्यक्रम में राजनीतिक चुटकी का मजाक उड़ाया गया। मीडिया डिनर में पीएम कार्नी से लेकर ट्रूडो पर कॉमेडियन ने ली चुटकी, देखें वीडियो।
 
-### [मध्यावधि चुनाव के बाद गाय का दूध दुहते-दुहते मिली जीत की खबर, डेयरी किसान बिना प्रचार और चंदे के](https://www.amarujala.com/world/us-election-nathan-miller-dairy-farmer-wins-arkansas-county-assessor-2026-11-23)
-*Amar Ujala World* - Nov 23, 03:31 IST (iso: 2026-11-22T22:01:04+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/nathan-miller_ddfa4aa16c17b805bec06c79230c31f1.jpeg?w=1200&dpr=1.0 -->
+### [लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से टकराई यात्री ट्रेन, दो डिब्बे पटरी से उतरे; क्या थी वजह?](https://www.amarujala.com/world/us-louisiana-amtrak-passenger-train-derails-after-colliding-with-bulldozer-carrying-truck-2026-11-23)
+*Amar Ujala World* - Nov 23, 09:17 IST (iso: 2026-11-23T03:47:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/09/25/tharaghatana-sakataka-tasavara_1a6eda6275ed747a502e94bbeeff23e8.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका के अर्कांसो में डेयरी किसान नेतन मिलर ने काउंटी असेसर का चुनाव जीता। उन्होंने बिना प्रचार और चंदे के यह जीत हासिल की। यह मध्यावधि चुनाव का एक अप्रत्याशित परिणाम रहा। मध्यावधि चुनाव के बाद गाय का दूध दुहते-दुहते मिली जीत की खबर, डेयरी किसान बिना प्रचार और चंदे के।
+अमेरिका के लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से यात्री ट्रेन टकरा गई। इस हादसे में ट्रेन के दो डिब्बे पटरी से उतर गए। घटना की सटीक वजह अभी ज्ञात नहीं है। अमेरिका: लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से टकराई यात्री ट्रेन, दो डिब्बे पटरी से उतरे; क्या थी वजह?
 
-### [H-1B Visa पर सख्ती का असर अमेरिकी नौकरियों पर भी पड़ सकता है? जानिए रिसर्च में क्या हुआ खुलासा](https://www.patrika.com/world-news/h1b-visa-restrictions-impact-us-jobs-indian-professionals-research-21077766)
-*Patrika (World)* - Nov 22, 23:37 IST (iso: 2026-11-22T18:07:56+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/H-1B-Visa-1.webp -->
+---
 
-कैटो इंस्टीट्यूट का शोध बताता है कि एच-1बी वीजा पर सख्ती अमेरिकी नागरिकों की नौकरियों को भी प्रभावित कर सकती है। हेज फंड डेटा इस बात का समर्थन करता है। H-1B Visa Restrictions: अमरीका में एच-1बी वीजा को लेकर सख्ती की कोशिशों के बीच एक नए शोध ने इस बहस को नया मोड़ दे दिया है। शोध के अनुसार, विदेशी उच्च कुशल पेशेवरों की नियुक्ति पर पाबंदियां लगाने से केवल प्रवासी कर्मचारियों के अवसर ही प्रभावित नहीं होंगे, बल्कि अमरीकी नागरिकों की नौकरियों पर भी इसका असर पड़ सकता है।
+## एशिया-प्रशांत
+
+### [चिकन नेक की धड़कन, राफेल के झपट्टे से 10 मिनट की दूरी पर चीन, 1962 के युद्ध से कनेक्‍शन](https://hindi.news18.com/news/nation/why-bagdogra-airport-important-siliguri-corridor-chicken-neck-china-nepal-bhutan-bangladesh-border-rafale-s400-brahmos-11005966.html)
+*News18 Hindi (World)* - Nov 23, 09:39 IST (iso: 2026-11-23T04:09:30+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bagdogra-airport12-2026-11-2428a74d142c2c3f761b3340b7aab8f6-1200x800.jpg -->
+
+नेपाल के पीएम बालेंद्र शाह की भारत यात्रा के बीच बागडोगरा एयरपोर्ट पर चर्चा हुई। भारत ने नेपाली प्रवेश बिंदु से सैन्य विमानों की उड़ान की अनुमति देने का प्रस्ताव रखा। बाद में भारत ने इस रिपोर्ट का खंडन किया। Bagdogra Airport: नेपाल के प्रधानमंत्री बालेंद्र शाह की भारत यात्रा के बीच रणनीतिक रूप से अहम सिलिगुड़ी कॉरिडोर यानी चिकन नेक पर स्थित बागडोगरा एयरपोर्ट सुर्खियों में है.
+
+### [क्या NVIDIA में होगी जेन्सेन हुआंग की वापसी? ट्रंप ने की दोबारा नियुक्ति की मांग, बोले- यही अमेरिका](https://www.patrika.com/world-news/will-jensen-huang-return-to-nvidia-donald-trump-urges-board-to-rehire-him-21078068)
+*Patrika (World)* - Nov 23, 09:38 IST (iso: 2026-11-23T04:08:01+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/jensen-huang-and-donald-trump.webp -->
+
+अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एनवीडिया के पूर्व सीईओ जेन्सेन हुआंग की वापसी का समर्थन किया। ट्रंप का मानना है कि बोर्ड को हुआंग को फिर से नियुक्त करना चाहिए। उन्होंने इसे अमेरिका और कंपनी दोनों के हित में बताया। Jensen Huang reinstatement: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रमुख चिप निर्माता कंपनी NVIDIA के पूर्व मुख्य कार्यकारी अधिकारी (CEO) जेन्सेन हुआंग की दोबारा नियुक्ति का समर्थन किया है।
+
+### [जेंसेन हुआंग की करीबी एलिस पर चीनी खुफिया अफसर से सालभर संपर्क का दावा, अमेरिका बोला: अभी कोई नतीजा](https://www.patrika.com/world-news/alice-huang-chinese-spy-agency-jensen-huang-nvidia-scandal-21077965)
+*Patrika (World)* - Nov 23, 09:35 IST (iso: 2026-11-23T04:05:04+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Nvidia-News.webp -->
+
+न्यूयॉर्क टाइम्स ने दावा किया कि एलिस हुआंग ने चीनी खुफिया अधिकारी से एक साल तक संपर्क किया। यह संबंध जेन्सेन हुआंग के सीईओ पद के दौरान बना। अमेरिकी अधिकारियों ने कहा कि जासूसी पर अभी कोई फैसला या आरोप नहीं हुआ। Nvidia Scandal: Nvidia के पूर्व सीईओ जेंसेन हुआंग से रिश्ते के दौरान एलिस हुआंग का चीन की खुफिया एजेंसी के एक अधिकारी से एक साल से ज्यादा समय तक संपर्क रहा।
+
+### [न्यूजीलैंड पांच विकेट पर 225 रन के पार, आज 20+ ओवर का खेल बाकी; क्या जीत पाएगा भारत?](https://www.amarujala.com/live/cricket/ind-vs-nz-1st-test-day-5-live-score-updates-commentary-india-vs-new-zealand-day-5-updates-in-hindi-2026-11-23)
+*Amar Ujala Breaking* - Nov 23, 09:34 IST (iso: 2026-11-23T04:04:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/india-vs-new-zealand-day-5-ind-vs-nz-1st-test-day-5-live-score-updates_06efb34e628c8d5ea90e4d01d4cfde9c.jpeg?w=1200&dpr=1.0 -->
+
+न्यूजीलैंड ने पांचवें दिन 139 रन पर चौथा विकेट गंवाया। रचिन रवानी के आउट होने के बाद भारत को जीत के लिए छह विकेट चाहिए हैं। मैच में अभी भी संभावनाएं बनी हुई हैं। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच पहले टेस्ट का आज पांचवां दिन है। टीम इंडिया की नजर जीत दर्ज करने पर है।
+
+### [नए फिल्ममेकर्स के लिए क्यों जरूरी हैं IFFI? 'रामायण' के डायरेक्टर नितेश तिवारी ने बताया महत्व](https://www.amarujala.com/entertainment/ramayana-director-nitesh-tiwari-highlighted-importance-of-iffi-2026-for-new-filmmakers-2026-11-23)
+*Amar Ujala National* - Nov 23, 09:14 IST (iso: 2026-11-23T03:44:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/natasha-tavara_9379f92347d129dbc03de88711a0e926.jpeg?w=1200&dpr=1.0 -->
+
+फिल्म 'रामायण' के निर्देशक नितेश तिवारी ने IFFI की महत्वपूर्ण भूमिका पर प्रकाश डाला। उन्होंने कहा कि ऐसे फिल्म फेस्टिवल नए टैलेंट को सामने आने का मौका देते हैं। फिल्म 5 नवंबर को रिलीज हुई थी। फिल्म 'रामायण' 5 नवंबर को भारत समेत दुनियाभर में रिलीज हुई थी। अब हाल ही में इसके निर्देशक ने इंटरनेशनल फिल्म फेस्टिवल ऑफ इंडिया की तारीफ की।
+
+### [कौन हैं पाकिस्तानी अधिकारी फरहत आयाशा, जो मुसादिक मलिक को 'फैलने' से रोकती दिखीं, दिल्ली को बताया](https://hindi.news18.com/world/pakistan-who-is-farhat-ayesha-came-along-pakistan-minister-musadik-malik-calls-delhi-similar-to-home-ws-l-11005927.html)
+*News18 Hindi (World)* - Nov 23, 09:11 IST (iso: 2026-11-23T03:41:48+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-farhat-2026-11-c877cb327f63058e0649762ea12095c8-1200x800.jpg -->
+
+पाकिस्तानी मंत्री मुसादिक मलिक के भारत दौरे पर अधिकारी फरहत आयाशा सक्रिय दिखीं। उन्होंने मलिक को किसी संभावित विवाद से बचाने की कोशिश की। दिल्ली में उनके पुराने रिकॉर्ड को देखते हुए सावधानी बरती गई। Who is Farhat Ayesha: कुछ तस्वीरें ऐसी होती हैं, जो मेन ईवेंट से ज्यादा सुर्खियां बटोर ले जाती हैं. कुछ ऐसा ही हुआ जब पाकिस्तानी मंत्री मुसादिक मलिक भारत आए.
+
+### [249 दर्ज हुआ एक्यूआई, जानिए कहां कितना रहा प्रदूषण का स्तर; पढ़ें पूर्वानुमान](https://www.amarujala.com/delhi-ncr/delhi-air-quality-in-poor-category-pollution-aqi-data-2026-11-23)
+*Amar Ujala Breaking* - Nov 23, 09:00 IST (iso: 2026-11-23T03:30:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/09/delhi-ncr-aqi_350e45eca106607272595aeddffbe293.jpeg?w=1200&dpr=1.0 -->
+
+सोमवार सुबह दिल्ली में वायु गुणवत्ता सूचकांक 249 दर्ज हुआ। शहर में प्रदूषण का स्तर खराब श्रेणी में बना रहा। सोमवार सुबह दिल्ली में वायु गुणवत्ता 'खराब' श्रेणी में बनी रही। 249 दर्ज हुआ एक्यूआई, जानिए कहां कितना रहा प्रदूषण का स्तर; पढ़ें पूर्वानुमान।
+
+### [पीएम मोदी से मिलेंगे नेपाल के प्रधानमंत्री, यूपी चुनाव के लिए कांग्रेस-सपा में सीट बंटवारे पर चर्चा](https://www.amarujala.com/india-news/aaj-ke-din-23-november-2026-top-headlines-of-the-day-big-event-news-and-updates-2026-11-23)
+*Amar Ujala National* - Nov 23, 08:45 IST (iso: 2026-11-23T03:15:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/22/aaj-ke-din-aaja-ka-thana-23-navabra-2026-23-november-2026_5a24f507c723685d178fb0ffb3f8a07b.gif?w=1200&dpr=1.0 -->
+
+नेपाल के प्रधानमंत्री बालेंद्र शाह 23 नवंबर को नई दिल्ली में प्रधानमंत्री मोदी से मिलेंगे। दोनों देशों के बीच उच्चस्तरीय द्विपक्षीय वार्ता होगी। नेपाल के प्रधानमंत्री बालेंद्र शाह अपने पहले आधिकारिक भारत दौरे पर हैं और सोमवार, 23 नवंबर को वे नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी के साथ उच्चस्तरीय द्विपक्षीय वार्ता करेंगे। पीएम मोदी से मिलेंगे नेपाल के प्रधानमंत्री, यूपी चुनाव के लिए कांग्रेस-सपा में सीट बंटवारे पर चर्चा।
 
 ---
 
 ## दुनिया
 
-### [जीवन में ही छिपे हैं सभी जवाब: खुशी और प्रेम को तर्क से नहीं, एहसासों से समझें](https://www.amarujala.com/columns/blog/meaning-of-life-happiness-love-emotions-stop-overthinking-and-live-in-present-2026-11-23)
-*Amar Ujala National* - Nov 23, 05:10 IST (iso: 2026-11-22T23:40:21+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/jeevan-dhara_78b5ed64699e69d9c69dd6b7b106b032.jpeg?w=1200&dpr=1.0 -->
+### [मेट्रो में हो जाए लड़ाई-झगड़ा, तो तुरंत करें ये काम; जानें क्या करें और क्या नहीं](https://www.amarujala.com/photo-gallery/utility/what-to-do-if-a-fight-breaks-out-in-the-metro-know-how-to-get-immediate-help-2026-11-23)
+*Amar Ujala National* - Nov 23, 09:32 IST (iso: 2026-11-23T04:02:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/matara-ma-lugdhaii-hana-para-kaya-kara_00dd334f2b7c9b8864bd203c8e40f5b4.jpeg?w=1200&dpr=1.0 -->
 
-लेखक का मानना है कि खुशी और प्रेम को तर्क से नहीं, एहसासों से समझा जाना चाहिए। जीवन में ही सभी जवाब छिपे हैं और अत्यधिक सोचने से बचना चाहिए। जीवन में ही छिपे हैं सभी जवाब: खुशी और प्रेम को तर्क से नहीं, एहसासों से समझें।
+मेट्रो में यात्रियों के बीच झगड़े की स्थिति में सबसे पहले अपनी सुरक्षा सुनिश्चित करें। तुरंत मेट्रो स्टाफ या सुरक्षा कर्मियों को सूचना दें। किसी भी तरह की हस्तक्षेप या वीडियो बनाने से बचें। मेट्रो में यात्रियों के बीच बहस या मारपीट होने पर सबसे पहले अपनी सुरक्षा का ध्यान रखें लड़ाई-झगड़े की स्थिति में मेट्रो स्टाफ या सुरक्षा कर्मियों को सूचना दें।
 
-### [किताब पढ़ने का दिमाग पर क्या असर पड़ता है? शोध में सामने आए सहानुभूति और बेहतर सोच के फायदे](https://www.amarujala.com/columns/blog/reading-books-30-minutes-daily-brain-power-mental-health-empathy-benefits-2026-11-23)
-*Amar Ujala National* - Nov 23, 05:07 IST (iso: 2026-11-22T23:37:16+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/book-reading_41b8a91d433884bf2166ad11c599861c.jpeg?w=1200&dpr=1.0 -->
+### [कार के म्यूजिक सिस्टम को लंबे समय तक रखना है नया जैसा?: अपनाएं ये पांच आसान टिप्स, स्पीकर्स भी](https://www.amarujala.com/automobiles/5-easy-tips-keep-your-car-music-system-top-condition-for-years-2026-11-22)
+*Amar Ujala National* - Nov 23, 09:31 IST (iso: 2026-11-23T04:01:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/22/kara-kayara-tapasa_1733d3d9323485a31729407f487c883f.jpeg?w=1200&dpr=1.0 -->
 
-नए शोध के अनुसार रोजाना 30 मिनट किताब पढ़ने से दिमाग पर सकारात्मक असर पड़ता है। इससे सहानुभूति और मानसिक स्वास्थ्य में सुधार होता है। दूसरा पहलू: किताब पढ़ने का दिमाग पर क्या असर पड़ता है? शोध में सामने आए सहानुभूति और बेहतर सोच के फायदे।
+कार के ऑडियो सिस्टम की उम्र बढ़ाने के लिए स्पीकर्स को अधिकतम आवाज से बचाना ज़रूरी है। धूल और नमी से दूर रखें। समय-समय पर वायरिंग और कनेक्शन की जांच कराएं। म्यूजिक सिस्टम की उम्र बढ़ाने के टिप्स। स्पीकर्स को तेज आवाज से बचाने की करें कोशिश। धूल और नमी से रखें जितना हो सके रखें दूर। समय-समय परवायरिंग और कनेक्शन की जांच कराएं।
 
-### [स्वास्थ्य बीमा क्लेम खारिज हो जाए तो घबराएं नहीं: इन 3 तरीकों से वापस मिल सकता है अटका पैसा; जानें](https://www.amarujala.com/business/business-diary/health-insurance-claim-rejected-know-your-rights-and-how-to-file-a-complaint-2026-11-23)
-*Amar Ujala National* - Nov 23, 04:04 IST (iso: 2026-11-22T22:34:52+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/haltha-ishayarasa-kalma-kharaja-ha-jae-ta-kaya-kara_46d47651f6e77511a1d1fca22618a953.jpeg?w=1200&dpr=1.0 -->
+### [क्या सच में लाभ पाकर भी नौकरी-वेतन में बढ़ोतरी नहीं कर रहा उद्योग जगत, क्यों नाराज पीएम मोदी?](https://www.amarujala.com/india-news/pm-modi-ficci-speech-corporate-profits-vs-wages-jobs-data-explainer-2026-11-23)
+*Amar Ujala Breaking* - Nov 23, 09:16 IST (iso: 2026-11-23T03:46:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/pm-modi-ficci-speech_cbe2a8b1be1c30fbd50d02aa22fccfed.jpeg?w=1200&dpr=1.0 -->
 
-स्वास्थ्य बीमा क्लेम खारिज होने पर तीन तरीकों से अपील की जा सकती है। बीमा कंपनी को लिखित शिकायत भेजें। इसके बाद बीमा नियामक प्राधिकरण में शिकायत दर्ज करें। स्वास्थ्य बीमा क्लेम खारिज हो जाए तो घबराएं नहीं: इन 3 तरीकों से वापस मिल सकता है अटका पैसा; जानें अपने अधिकार---Health Insurance Claim Rejected?
+फिक्की में प्रधानमंत्री ने उद्योग जगत से पूछा कि मुनाफे बढ़ने के बावजूद नौकरियों और वेतन में वृद्धि क्यों नहीं हो रही है। कॉर्पोरेट लाभों और कर्मचारियों के वास्तविक वेतन के बीच अंतर स्पष्ट है। फिक्की में पीएम मोदी ने उद्योग जगत पर उठाए सवाल। जानिए कॉर्पोरेट मुनाफे में बूम के बावजूद फैक्ट्री कर्मचारियों के वास्तविक वेतन और नौकरियों के क्या कहते हैं आंकड़े।
 
-### [राजा बनते ही हैरी की शाही उपाधियां छीन लेंगे विलियम; नई किताब में सनसनीखेज दावा](https://www.amarujala.com/world/prince-william-may-strip-prince-harry-and-meghan-of-royal-titles-when-he-becomes-king-book-claims-2026-11-23)
-*Amar Ujala Breaking* - Nov 23, 04:00 IST (iso: 2026-11-22T22:30:35+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/22/parasa-valyama-ka-raja-bnata-ha-bugdha-bthalva-ka-tayara_d93277549a269f99bbbe05c11934c274.jpeg?w=1200&dpr=1.0 -->
+### [सिंगर के दोहरे मापदंड वाले सवाल पर प्रोफेसर ने क्या कहा? कोल्डप्ले से तुलना पर भी रखी अपनी बात](https://www.amarujala.com/entertainment/what-professor-says-after-diljit-dosanjh-coldplay-comparison-express-his-views-on-double-standards-remark-2026-11-23)
+*Amar Ujala National* - Nov 23, 09:07 IST (iso: 2026-11-23T03:37:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/thaljata-thasajha_12dc92babc2d88ed165ca1c89b889f9f.jpeg?w=1200&dpr=1.0 -->
 
-एक नई किताब का दावा है कि विलियम राजा बनते ही हैरी की उपाधियां छीन लेंगे। यह दावा ब्रिटिश शाही परिवार में तनाव को उजागर करता है। किताब में इस प्रक्रिया की विस्तृत जानकारी दी गई है। राजा बनते ही हैरी की शाही उपाधियां छीन लेंगे विलियम; नई किताब में सनसनीखेज दावा।
+प्रोफेसर धारेन्नवर ने दिलजीत के कॉन्सर्ट में उठाए दोहरे मापदंड के सवाल पर अपनी प्रतिक्रिया दी। उन्होंने कोल्डप्ले से तुलना के संदर्भ में भी अपनी राय रखी। हाल ही में दिलजीत ने अपने कॉन्सर्ट में दोहरे मापदंड जैसी बात कही। इस मामले पर प्रोफेसर धारेन्नवर ने जवाब दिया है और अपनी बात रखी है। सिंगर के दोहरे मापदंड वाले सवाल पर प्रोफेसर ने क्या कहा?
 
-### [ट्यूरिन में कार्लोस अल्कारेज का जलवा: पहली बार जीता एटीपी फाइनल्स का खिताब, फाइनल में ज्वेरेव को](https://www.amarujala.com/sports/carlos-alcaraz-wins-maiden-atp-finals-title-beats-alexander-zverev-turin-2026-11-23)
-*Amar Ujala Breaking* - Nov 23, 01:42 IST (iso: 2026-11-22T20:12:05+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/carlos-alcaraz_7e57b395cca71ee368593df503f3d787.jpeg?w=1200&dpr=1.0 -->
+### [पूर्व मुख्यमंत्री अर्जुन मुंडा की मां सायरा मुंडा का निधन, हेमंत सोरेन ने परिवार के प्रति जताई](https://www.amarujala.com/jharkhand/ranchi/jharkhand-saira-munda-mother-of-former-chief-minister-arjun-munda-2026-11-23)
+*Amar Ujala Breaking* - Nov 23, 08:43 IST (iso: 2026-11-23T03:13:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/arajana-mada-ka-mata-sayara-mada_8bc315e8271c71eee298991d3014a11e.jpeg?w=1200&dpr=1.0 -->
 
-कार्लोस अल्कारेज ने ट्यूरिन में एटीपी फाइनल्स का खिताब जीता। उन्होंने फाइनल में अलेक्जेंडर ज्वेरेव को हराया। यह उनका पहला ऐसा खिताब है। टूर्नामेंट में उनका प्रदर्शन प्रभावशाली रहा। ट्यूरिन में कार्लोस अल्कारेज का जलवा: पहली बार जीता एटीपी फाइनल्स का खिताब, फाइनल में ज्वेरेव को।
+झारखंड के पूर्व मुख्यमंत्री अर्जुन मुंडा की माता सायरा मुंडा का निधन हो गया। जमशेदपुर के टाटा मोटर्स अस्पताल में उनका देहांत हुआ। झारखंड के पूर्व मुख्यमंत्री अर्जुन मुंडा की माता सायरा मुंडा का सोमवार सुबह जमशेदपुर के टाटा मोटर्स अस्पताल में निधन हो गया। उनके निधन पर मुख्यमंत्री हेमंत सोरेन ने दुख जताया और शोकाकुल परिवार के प्रति संवेदनाएं व्यक्त कीं।
 
-### [तमिलनाडु में भीषण सड़क हादसे में 8 की मौत, PM मोदी ने जताया दुख, मुआवजे का किया ऐलान](https://www.abplive.com/news/india/tamil-nadu-accident-8-people-died-2-injured-pm-modi-expresses-grief-announces-compensation-3218191)
-*ABP Live (India)* - Nov 22, 23:53 IST (iso: 2026-11-22T18:23:34+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/22/c3f437ab4975524483bcaab257dd099a17953714090881368_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [रोजाना इस ड्राई फ्रूट को खाने की डाल लें आदत, शरीर को मिलेंगे ये चार बड़े फायदे](https://www.amarujala.com/photo-gallery/lifestyle/fitness/health-benefits-of-eating-cashews-daily-how-cashews-support-heart-bone-and-brain-health-2026-11-22)
+*Amar Ujala National* - Nov 23, 08:40 IST (iso: 2026-11-23T03:10:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/30/cashew-kaju_35f4669538bd792e2a3280e96a4c6a72.jpeg?w=1200&dpr=1.0 -->
 
-तिरुचिरापल्ली में सड़क हादसे में आठ लोगों की मौत हुई। प्रधानमंत्री मोदी ने परिजनों के लिए मुआवजे की घोषणा की। दो अन्य घायल हैं। तमिलनाडु के तिरुचिरपापल्ली जिले में रविवार को हुए भीषण हादसे में 8 लोगों की मौत हो गई, जबकि दो लोग गंभीर रूप से घायल हुए हैं. प्रधानमंत्री मोदी ने इस हादसे पर दुख जताया है और मृतकों के परिजनों और घायलों के लिए मुआवजे का ऐलान किया है.
+काजू में हेल्दी फैट, प्रोटीन, मैग्नीशियम, फॉस्फोरस और कॉपर पाए जाते हैं। सीमित मात्रा में रोजाना खाने से हृदय, हड्डियों और मस्तिष्क के कामकाज को पोषण मिलता है। यह सूखा मेवा शरीर के लिए लाभकारी माना जाता है। काजू पोषक तत्वों से भरपूर सूखा मेवा है। इसमें हेल्दी फैट, प्रोटीन, मैग्नीशियम, फॉस्फोरस और कॉपर पाए जाते हैं। सीमित मात्रा में रोजाना काजू खाने से हृदय स्वास्थ्य, हड्डियों और मस्तिष्क के सामान्य कामकाज को पोषण मिल सकता है।
 
-### [जम्मू-कश्मीर स्टूडेंट्स एसोसिएशन ने अमित शाह को लिखा पत्र, एग्जाम में हुई नकल पर दखल की मांग](https://www.abplive.com/news/india/jammu-kashmir-students-association-writes-letter-to-home-minister-amit-shah-seek-interfere-ann-3218189)
-*ABP Live (India)* - Nov 22, 23:35 IST (iso: 2026-11-22T18:05:22+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/22/7bf3cdcd018612a56bb1ff0ee71acdf01795370475814120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### ['आदिवासियों की जमीन हड़प रहे भू-माफिया': सीजेपी ने भाजपा सरकार को घेरा, किस पार्टी को वोट देने की](https://www.amarujala.com/india-news/cjp-targets-the-bjp-government-say-land-mafias-are-grabbing-tribal-land-2026-11-23)
+*Amar Ujala National* - Nov 23, 08:36 IST (iso: 2026-11-23T03:06:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/abhajata-thapaka-sajapa-ka-sasathapaka_6f053bb68d668f3d6fed9d23d56e036d.jpeg?w=1200&dpr=1.0 -->
 
-जम्मू-कश्मीर स्टूडेंट्स एसोसिएशन ने अमित शाह से FAA परीक्षा में नकल की जांच के लिए CBI को भेजने की मांग की। संगठन ने स्वतंत्र जांच की वकालत की। जम्मू-कश्मीर स्टूडेंट्स एसोसिएशन (JKSA) ने रविवार को केंद्रीय गृह मंत्री अमित शाह को पत्र लिखकर, फाइनेंस अकाउंट्स असिस्टेंट (FAA) भर्ती परीक्षा के दौरान कथित तौर पर संगठित तरीके से की गई नकल और परीक्षा में हुई गड़बड़ियों में हस्तक्षेप करने की मांग की है.
+सीजेपी ने भाजपा सरकार पर आदिवासियों की जमीन हड़पने का आरोप लगाया है। पार्टी ने भू-माफियाओं के खिलाफ कार्रवाई की मांग की है। इस घटनाक्रम के बाद सीजेपी ने वोटों की अपील की है। 'आदिवासियों की जमीन हड़प रहे भू-माफिया': सीजेपी ने भाजपा सरकार को घेरा, किस पार्टी को वोट देने की अपील की?
 
----
+### ['रामायण' के संगीत के लिए संगीतकार ने ठुकराईं 12 फिल्में, 3 साल किया काम; इस ट्रैक के बने 13 वर्जन](https://www.amarujala.com/entertainment/bollywood/ramayana-composer-ar-rahman-turned-down-12-films-over-3-years-reveals-a-track-had-13-versions-2026-11-23)
+*Amar Ujala National* - Nov 23, 08:35 IST (iso: 2026-11-23T03:05:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/ramayanae-eaara-rahamana_929d87ea53447f4782295964873725b8.jpeg?w=1200&dpr=1.0 -->
 
-## यूरोप और रूस
+एआर रहमान ने 'रामायण' के संगीत के लिए बारह अन्य फिल्मों के प्रस्ताव ठुकराए। उन्होंने इस प्रोजेक्ट पर तीन साल तक काम किया। एक ही ट्रैक के तेरह अलग वर्जन तैयार किए गए। 'रामायण' के म्यूजिक, जीएफएक्स और इसमें कलाकारों के अभिनय की तारीफ हो रही है। संगीतकार एआर रहमान ने 'रामायण' का म्यूजिक तैयार करने में काफी मेहनत की है।
 
-### [बच्चों के लिए एआई पर रोक, शिक्षकों को चैटजीपीटी से कॉपियां जांचने की छूट; छिड़ी बहस](https://www.amarujala.com/world/uk-allows-teachers-to-use-chatgpt-for-marking-coursework-while-students-face-ai-restrictions-2026-11-23)
-*Amar Ujala World* - Nov 23, 05:03 IST (iso: 2026-11-22T23:33:48+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/chhatara-oura-shakashhaka-ka-le-alga-alga-nayama-kaya_991bf1e9ced75be000c1994408e90166.jpeg?w=1200&dpr=1.0 -->
+### [पारसनाथ से लौट रही श्रद्धालुओं की बस पलटी, सूरत के पति-पत्नी की मौत; 12 से अधिक घायल](https://www.amarujala.com/jharkhand/ranchi/a-bus-carrying-jain-pilgrims-returning-from-parasnath-overturned-a-husband-and-wife-died-and-more-than-12-others-were-injured-ranchi-news-c-1-1-noi1475-4962332-2026-11-23)
+*Amar Ujala Breaking* - Nov 23, 08:29 IST (iso: 2026-11-23T02:59:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2026/11/23/tharaghatanagarasata-bsa_073420ff7e23dcf8a7457a807ccedf61.jpeg?w=1200&dpr=1.0 -->
 
-ब्रिटेन में स्कूली बच्चों के लिए एआई उपयोग पर प्रतिबंध लगाया गया है। शिक्षकों को however छात्रों की कॉपियां जांचने के लिए चैटजीपीटी का उपयोग करने की छूट दी गई है। बच्चों के लिए एआई पर रोक, शिक्षकों को चैटजीपीटी से कॉपियां जांचने की छूट; छिड़ी बहस।
+गुजरात में पारसनाथ से लौटती जैन श्रद्धालुओं की बस पलट गई। सूरत के एक पति-पत्नी की मौत हुई और बारह से अधिक लोग घायल हुए। हादसा मधुबन के पास हुआ जहाँ चालक ने नियंत्रण खो दिया। गुजरात के सूरत से करीब 50 जैन श्रद्धालु पारसनाथ में दर्शन और पूजा-अर्चना के लिए आए थे। तीर्थस्थल पर दर्शन करने के बाद सभी श्रद्धालु बस से टाटानगर रेलवे स्टेशन जा रहे थे।
 
-### [पुतिन को लेकर अमेरिका में अलग-अलग सुर: ट्रंप ने बताया था दोस्त, फिर खुफिया प्रमुख ने क्यों कहा- वे](https://www.amarujala.com/world/us-intelligence-chief-says-putin-is-not-america-friend-on-ukraine-responds-to-trump-remarks-2026-11-23)
-*Amar Ujala World* - Nov 23, 01:01 IST (iso: 2026-11-22T19:31:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/patana-ka-thasata-btakara-fasa-gae-tarapa_e7e0600128aa528e7092ec79123f5e80.jpeg?w=1200&dpr=1.0 -->
+### [पुणे से पटना जा रही फ्लाइट की लखनऊ में आपात लैंडिंग, खराब मौसम के चलते लेना पड़ा ये फैसला](https://www.amarujala.com/lucknow/up-pune-patna-flight-makes-emergency-landing-in-lucknow-due-to-bad-weather-2026-11-23)
+*Amar Ujala Breaking* - Nov 23, 08:10 IST (iso: 2026-11-23T02:40:55+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/01/idaga-falita_2724834fe93eb3dbf93cd9f5ba8d62af.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी खुफिया प्रमुख ने ट्रंप के विरोध में कहा कि पुतिन यूक्रेन पर अमेरिका का मित्र नहीं हैं। इस बयान ने वाशिंगटन में रूस नीति पर अंतराल को उजागर किया। पुतिन को लेकर अमेरिका में अलग-अलग सुर: ट्रंप ने बताया था दोस्त, फिर खुफिया प्रमुख ने क्यों कहा- वे।
+पुणे से पटना जा रही इंडिगो उड़ान को लखनऊ में आपात लैंडिंग करनी पड़ी। पटना में खराब मौसम के कारण एयरलाइन ने यह फैसला लिया। यात्रियों को लखनऊ से आगे की यात्रा का इंतजाम करना होगा। Pune-Patna flight: पटना में खराब मौसम के चलते पुणे से पटना जा रही इंडिगो की एक उड़ान को अचानक लखनऊ डायवर्ट करना पड़ा। पुणे से पटना जा रही फ्लाइट की लखनऊ में आपात लैंडिंग, खराब मौसम के चलते लेना पड़ा ये फैसला।
+
+### [नवंबर के आखिरी वीक में होगा धमाका, 'हनुमान अंश' से 'ढाई चाल' तक ये फिल्में-सीरीज देंगी दस्तक](https://www.amarujala.com/entertainment/ott-release-this-week-hanuman-ansh-to-dhai-chaal-blade-runner-these-movies-and-series-to-stream-2026-11-22)
+*Amar Ujala National* - Nov 23, 07:52 IST (iso: 2026-11-23T02:22:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/22/otata-ralja_bdec6cc28b910dd7ed8691a4f3708d13.jpeg?w=1200&dpr=1.0 -->
+
+नवंबर के आखिरी सप्ताह में कई नई फिल्में और सीरीज ओटीटी पर रिलीज होंगी। ब्लॉकबस्टर 'हनुमान अंश' इसी सप्ताह डिजिटल प्लेटफॉर्म पर उपलब्ध होगी। दर्शकों के लिए मनोरंजन के कई विकल्प आ रहे हैं। OTT Release This Week: नवंबर का आखिरी वीक एंटरटेनमेंट के शौकीनों के लिए खास होने वाला है। कई दिलचस्प फिल्मों और सीरीज की आमद होगी। ब्लॉकस्टर फिल्म 'हनुमान अंश' भी इस सप्ताह ओटीटी पर उपलब्ध होगी।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [अमेरिका के कैलिफोर्निया में कॉन्सर्ट के दौरान गोलीबारी, नौ लोग घायल; एक की हालत गंभीर](https://www.amarujala.com/world/world-news-updates-hindi-us-shutdown-bangladesh-gaza-war-israel-pakistan-us-syria-afghanistan-ttp-2026-11-23)
-*Amar Ujala World* - Nov 23, 03:55 IST (iso: 2026-11-22T22:25:30+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
+### ['मिनेसोटा पर कब्जा कर लिया, 95% लोग सरकारी मदद पर निर्भर', सोमाली समुदाय पर ट्रंप का आरोप; क्या कहा?](https://www.amarujala.com/world/trump-claims-somali-community-has-completely-taken-over-minnesota-2026-11-23)
+*Amar Ujala World* - Nov 23, 08:55 IST (iso: 2026-11-23T03:25:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/tarapa_f79498194046e7126abd5afd2e3bf9a5.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका के कैलिफोर्निया में एक कॉन्सर्ट के दौरान गोलीबारी हुई। नौ लोग घायल हुए, जिनमें से एक की हालत गंभीर बनी। स्थानीय पुलिस ने घटना की जांच शुरू कर दी है। अमेरिका के कैलिफोर्निया में कॉन्सर्ट के दौरान गोलीबारी, नौ लोग घायल; एक की हालत गंभीर।
+ट्रंप ने मिनेसोटा के सोमाली समुदाय पर आरोप लगाया कि 95% लोग सरकारी मदद पर निर्भर हैं। उन्होंने राज्य पर कब्जा करने का दावा भी किया। अमेरिका: 'मिनेसोटा पर कब्जा कर लिया, 95% लोग सरकारी मदद पर निर्भर', सोमाली समुदाय पर ट्रंप का आरोप; क्या कहा?
 
-### [नेतन्याहू-आइजनकोट होंगे साथ, तय हो रहीं शर्तें; चार घंटे तक चली मैराथन बैठक](https://www.amarujala.com/world/israel-unity-government-talks-netanyahu-and-eisenkot-discuss-conditions-for-coalition-2026-11-23)
-*Amar Ujala World* - Nov 23, 03:48 IST (iso: 2026-11-22T22:18:42+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/22/bjamana-natanayaha_a39b63a33cdf2d73a588ad3c589fc01d.jpeg?w=1200&dpr=1.0 -->
+### [यमन के होदेइदाह में टेलीकम्युनिकेशन बिल्डिंग पर भीषण हवाई हमला, 4 की मौत और 18 घायल](https://www.patrika.com/world-news/deadly-airstrike-hits-telecommunications-building-in-yemen-hodeidah-21077940)
+*Patrika (World)* - Nov 23, 08:26 IST (iso: 2026-11-23T02:56:47+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/attack-in-yemen.webp -->
 
-इज़राइल में नेतन्याहू और आइजनकोट के बीच चार घंटे की बैठक हुई। दोनों ने एकता सरकार बनाने की शर्तें तय कीं। यह संभावित गठबंधन के लिए महत्वपूर्ण कदम है। नेतन्याहू-आइजनकोट होंगे साथ, तय हो रहीं शर्तें; चार घंटे तक चली मैराथन बैठक।
+यमन के होदेइदाह में सरकारी टेलीकम्युनिकेशन बिल्डिंग पर हवाई हमला हुआ। इस घटना में कम से कम चार लोगों की मौत हुई और अठारह लोग घायल हुए। हूती समर्थित मीडिया ने यह जानकारी दी है। Yemen Hodeidah airstrike: पश्चिमी यमन के लाल सागर तट पर स्थित बंदरगाह शहर होदेइदाह में सरकारी टेलीकम्युनिकेशन कॉर्पोरेशन की एक इमारत पर भीषण हवाई हमला हुआ है।
 
-### [ट्रंप की ईरान को दो टूक: कहा- समझौता नहीं हुआ तो सैन्य कार्रवाई का विकल्प खुला; नए साल के बाद फिर](https://www.amarujala.com/world/donald-trump-inclined-to-resume-military-strikes-on-iran-after-new-year-if-no-deal-is-reached-2026-11-23)
-*Amar Ujala Breaking* - Nov 23, 01:08 IST (iso: 2026-11-22T19:38:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/02/amaraka-rashhatarapata-danalda-tarapa_cca2cbfabb3c1ed64c200a845e68ff4a.jpeg?w=1200&dpr=1.0 -->
+### [गालिबाफ ने कहा- न जंग, न शांति की स्थिति खत्म करने के लिए ठोस कदम जरूरी; ट्रंप क्या बोले?](https://www.amarujala.com/world/iran-needs-clear-and-operational-approach-to-end-neither-war-nor-peace-situation-parliament-speaker-ghalibaf-2026-11-23)
+*Amar Ujala World* - Nov 23, 08:08 IST (iso: 2026-11-23T02:38:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/04/18/us-iran-conflict_944563baf47d7d6e8f53447d5e825668.jpeg?w=1200&dpr=1.0 -->
 
-डोनाल्ड ट्रंप ने ईरान को चेतावनी दी है। यदि नए साल तक समझौता नहीं होता तो सैन्य कार्रवाई का विकल्प खुला रहेगा। दोनों देशों के बीच तनाव बना हुआ है। आगामी दिनों में स्थिति और स्पष्ट होगी। ट्रंप की ईरान को दो टूक: कहा- समझौता नहीं हुआ तो सैन्य कार्रवाई का विकल्प खुला; नए साल के बाद फिर।
+ईरान के गालिबाफ ने कहा कि न जंग न शांति की स्थिति खत्म करने के लिए ठोस कदम उठाना होगा। अमेरिका के ट्रंप ने भी इस संघर्ष पर अपनी प्रतिक्रिया दी है। दोनों देशों के बीच तनाव जारी है। ईरान-अमेरिका संघर्ष: गालिबाफ ने कहा- न जंग, न शांति की स्थिति खत्म करने के लिए ठोस कदम जरूरी; ट्रंप क्या बोले?
 
-### [पर्यावरण पर COP31 बैठक में किस बात पर उड़ा EU? फिर शुरू हो गई तू-तू मैं मैं... बिना नतीजा खत्‍म हुई](https://hindi.news18.com/world/europe-cop31-ends-without-climate-deal-as-eu-opposes-draft-text-for-omitting-fossil-fuels-after-marathon-talks-in-turkey-11005569.html)
-*News18 Hindi (World)* - Nov 22, 23:30 IST (iso: 2026-11-22T18:00:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/COP31-UN-in-Tukey-2026-11-06890d7edd7df550a2ebc6a2a4756199-1200x800.jpg -->
+---
 
-तुर्की में आयोजित COP31 जलवायु सम्मेलन बिना समझौते खत्म हुआ। यूरोपीय संघ ने अंतिम मसौदे में जीवाश्म ईंधन का उल्लेख न होने पर विरोध किया। करीब 200 देशों के बीच सहमति नहीं बन सकी। सम्मेलन तय समय से 44 घंटे ज्यादा चला। तुर्की में आयोजित संयुक्त राष्ट्र जलवायु सम्मेलन COP31 बिना किसी समझौते के खत्‍म हो गया. सभी पक्ष एक दूसरे पर आरोप प्रत्‍यारोप लगाते रहे.
+## यूरोप और रूस
+
+### [क्या आपको मिलेगी 25वीं किस्त या नहीं? ऐसे चेक करें अपनी पात्रता](https://www.amarujala.com/photo-gallery/utility/pm-kisan-25th-installment-check-whether-you-are-eligible-to-receive-the-next-2000-rupees-payment-2026-11-23)
+*Amar Ujala National* - Nov 23, 08:10 IST (iso: 2026-11-23T02:40:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/paema-kasana-yajana-ka-25va-kasata-kasa-malga_fd069f6d1ff18a0a97ea227dd1f92dad.jpeg?w=1200&dpr=1.0 -->
+
+पीएम किसान योजना की 25वीं किस्त के लिए पात्रता जांच जरूरी है। जरूरी शर्तें पूरी न होने पर किसान का नाम सूची से बाहर हो सकता है। इससे किस्त की राशि अटक सकती है। किसानों को ऑनलाइन पोर्टल पर स्थिति देखनी चाहिए। पीएम किसान योजना की अगली यानी 25वीं किस्त का इंतजार कर रहे किसानों के लिए पात्रता की जांच करना जरूरी है कुछ जरूरी शर्तें पूरी नहीं होने पर किसान का नाम लाभार्थी सूची से बाहर हो सकता है या किस्त अटक सकती है।
 
 ---
 
