@@ -1,32 +1,80 @@
 {
-  "generated_at": "2026-11-23T04:19:17.320727+00:00",
+  "generated_at": "2026-11-23T15:29:51.538520+00:00",
   "article_count": 50,
-  "total_unique_count": 259,
+  "total_unique_count": 274,
   "digest": {
-    "en": "China’s open-weight AI models are pushing into American markets while its new Pacific drone extends reach. COP31 closed without a climate pact, leaving the UN chief to warn that the science remains clear.",
-    "hi": "China's Rafale jets closed to ten minutes from the Indian border in the Chicken Neck sector. This echoes the 1962 conflict dynamics. Meanwhile, Trump demanded Jensen Huang's return to NVIDIA leadership."
+    "en": "COP31 in Brazil closed without a binding climate pact, leaving Guterres to warn that the science remains unambiguous. Simultaneously, Zelenskyy pushed for four-way talks with Russia while NATO envoys debated security guarantees for Ukraine.",
+    "hi": "बांग्लादेश में यूनुस के बैंक पर बम और अवामी लीग के घरों पर हमले ने सियासी अस्थिरता को गहराई दिया है। इसी बीच मलेशिया ब्रह्मोस खरीदने की सोच रहा है, जहां पाकिस्तान की अड़ंगा लगा रही है।"
   },
   "articles": [
     {
-      "title": "China’s mystery MQ-25-like drone built for Pacific power reach",
-      "url": "https://asiatimes.com/2026/11/chinas-mystery-mq-25-like-drone-built-for-pacific-power-reach/",
+      "title": "Modi’s Canada visit is set to move ties in a new direction: Vina Nadjibulla",
+      "url": "https://www.thehindu.com/news/national/modis-canada-visit-is-set-to-move-ties-in-a-new-direction-vina-nadjibulla/article71734232.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-23T14:15:18+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/r8a3c4/article71734449.ece/alternates/LANDSCAPE_1200/2025-06-17T214312Z_501434211_RC2F4FAWT37H_RTRMADP_3_G7-SUMMIT.JPG",
+      "summary": "Vina Nadjibulla notes that India and Canada are shifting their relationship focus. Both governments now prioritize mutual security interests over historical differences. This approach aims to stabilize bilateral ties. The change marks a significant diplomatic pivot for the two nations. What has changed is that both governments appear increasingly willing to approach security issues through the lens of mutual security interests, rather than allowing these differences to define the entire relationship, says CEO of the Vancouver-based think tank.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Zelenskyy calls for four-way talks with Russia ‘as soon as possible’",
+      "url": "https://www.thehindu.com/news/international/zelenskyy-calls-for-four-way-talks-with-russia-as-soon-as-possible/article71734890.ece",
+      "source": "The Hindu (International)",
+      "sources": [],
+      "published_at": "2026-11-23T13:27:46+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/qwbdrg/article71734992.ece/alternates/LANDSCAPE_1200/Ireland_Ukraine_Envoy_67115.jpg",
+      "summary": "Ukrainian President Zelenskyy requested immediate four-way talks with Russia. U. S. envoy Jared Kushner suggested Washington might offer Ukraine a security guarantee. This proposal resembles the Article 5 protection provided to NATO members. The discussion occurred during a gathering in Berlin. During a gathering of Ukrainian supporters in Berlin last week, U. S. envoy Jared Kushner said that Washington might consider offering Ukraine a security guarantee similar to that provided under Article 5 of the North Atlantic Treaty as part of a peace settlement.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Ukraine Strikes Russian Warship, Cargo Vessel Off Libya's Coast",
+      "url": "https://www.rferl.org/a/ukraine-strikes-russian-warship-off-libya-s-coast/33904036.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-23T11:16:45+00:00",
+      "image_url": "https://gdb.rferl.org/78f9edfe-f11a-43df-2a43-08df3ee80755_w1200_h630.jpg",
+      "summary": "Ukraine struck a Russian corvette and a cargo ship near Benghazi, Libya. Seven Ukrainian-made sea drones executed the operation. The corvette carried a Ka-27 helicopter. The cargo vessel allegedly transported weapons across the Mediterranean Sea. Kyiv confirmed the details of the attack. Ukraine says that it struck a Russian corvette carrying a Ka-27 helicopter near the port of Benghazi, Libya, as well as a cargo ship allegedly used to transport weapons across the Mediterranean Sea.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "SE Asia’s AI collision: when CAFTA 3.0 hits the US cloud clock",
+      "url": "https://asiatimes.com/2026/11/se-asias-ai-collision-when-cafta-3-0-hits-us-cloud-clock/",
       "source": "Asia Times",
       "sources": [],
-      "published_at": "2026-11-23T03:47:28+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/China-Mystery-Drone-copy-1.jpeg",
-      "summary": "Satellite imagery at Pucheng Neifu Airport in Shaanxi Province revealed an unidentified uncrewed aircraft. It closely resembles Boeing’s MQ-25A Stingray carrier tanker. The drone measures roughly 20.12 meters in wingspan and 14.94 meters in length. It sits alongside other advanced unmanned systems. Satellite imagery revealed an unidentified uncrewed aircraft at Pucheng Neifu Airport in China’s Shaanxi Province, bearing strong visual similarities to Boeing’s MQ-25A Stingray carrier tanker, alongside a CH-7 stealth flying-wing drone and a Jiutian drone mothership, multiple media outlets reported.",
+      "published_at": "2026-11-23T09:54:26+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Microsoft-AI-data-centers.jpg",
+      "summary": "The China-ASEAN Free Trade Area 3.0 upgrade enters into force next month. Leaders confirmed the protocol in Manila on November 16. The pact extends beyond tariffs to include digital trade and AI standards. It also covers e-payments and smart customs single windows. In Manila on November 16, Chinese and ASEAN leaders confirmed that the China-ASEAN Free Trade Area (CAFTA) 3.0 upgrade protocol will formally enter into force at the start of next month.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "North Korea leader highlights 'sovereignty' in ties after Trump no-show",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sovereignty-foreign-relations-6573851",
-      "source": "Channel News Asia",
+      "title": "How did the COP31 climate agreement fall apart – and what happens now?",
+      "url": "https://www.thehindu.com/news/international/how-did-the-cop31-climate-agreement-fall-apart-and-what-happensnow/article71733595.ece",
+      "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-11-23T03:25:00+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--kUvV4eE8--/c_crop,h_1125,w_1999,x_1,y_166/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/23/2026-11-22t213450z_337911736_rc29toa1baih_rtrmadp_3_northkorea-security.jpg?itok=iRrbaUsn",
-      "summary": "Kim Jong Un stated that Pyongyang aims to expand foreign relations based on independence and peace. He emphasized the principle of defending national sovereignty and security. This diplomatic stance followed Donald Trump’s absence from recent bilateral engagements. The leader framed the approach as a core strategic priority. Pyongyang's diplomatic goal is to \"expand and develop foreign relations under the ideals of independence, peace and friendship on the principle of defending the national sovereignty and security\", said North Korean leader Kim Jong Un.",
+      "published_at": "2026-11-23T07:43:05+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/6y2lpq/article71733604.ece/alternates/LANDSCAPE_1200/22th-KOSHY-COP-G34GR85KP.3.jpg.jpg",
+      "summary": "The COP31 climate agreement failed to meet expectations despite severe climate disasters. The EU and other nations criticized the international process. A supercharged El Niño event worsened conditions. The world is now heading past 1.5 degrees Celsius of warming. In a year of unprecedented climate disasters, a supercharged El Niño and as the world heads inevitably past 1.5 °C of warming, the EU and other nations said that the international process did not meet the moment.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "China’s plan to weaponize infrastructure gear",
+      "url": "https://asiatimes.com/2026/11/underground-empire-chinas-plan-to-weaponize-infrastructure-gear/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-23T04:48:13+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/China-Tunnel-Boring-Machines.jpg",
+      "summary": "China imposed strict export controls on tunnel boring machines on November 18. The move coincided with the APEC summit. Leaders from Indonesia, Australia, Singapore, Malaysia, and Thailand stayed in the region. They skipped their flights home to discuss the new restrictions. On November 18, the day APEC leaders gathered, China quietly activated a powerful new geopolitical weapon: strict export controls on tunnel boring machines (TBMs).",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -40,18 +88,6 @@
       "image_url": "https://gdb.rferl.org/808D2EA0-D1C7-4C25-870B-2C62D206A023_cx0_cy3_cw0_w1200_h630.jpg",
       "summary": "Jared Kushner said Donald Trump might offer Ukraine security guarantees modeled on NATO commitments. This possibility hinges on reducing the risk of another Russian invasion. The envoy signaled this potential shift on November 22. Questions remain regarding the specific terms and conditions of such an arrangement. US President Donald Trump may consider offering Ukraine security guarantees modeled on NATO's collective-defense commitments if he is convinced that the risk of another Russian invasion has been sufficiently reduced, special envoy Jared Kushner said on November 22.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank",
-      "url": "https://www.thehindu.com/news/international/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank/article71732544.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-22T22:02:28+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/qxpda3/article71732548.ece/alternates/LANDSCAPE_1200/2026-11-17T132413Z_1399649141_RC2OPOA2Q1HS_RTRMADP_3_ISRAEL-POLITICS.JPG",
-      "summary": "Gadi Eisenkot labeled recent West Bank arson by Jewish settlers as Jewish terrorism. He argued these extremist acts undermine regional stability and endanger lives. The former defense minister warned the attacks damage Israel's national security and foreign relations. Gadi Eisenkot called the attacks ‘Jewish terrorism’, saying that ‘extremist groups that set ⁠fire to vehicles and homes are undermining regional stability, putting lives at risk and doing grave damage to Israel’s national security and foreign relations’.",
-      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -80,6 +116,18 @@
       "translations": {}
     },
     {
+      "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-22T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_SG-Mottley-presser.jpg/image770x420cropped.jpg",
+      "summary": "António Guterres expressed disappointment over the collapse of COP31 negotiations. He made the comments during a visit to Barbados. The Secretary-General urged stronger action on fossil fuels. He also called for increased climate finance for vulnerable nations. Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
       "source": "UN News",
@@ -88,6 +136,18 @@
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_UNHCR_Ukraine-01.jpg/image770x420cropped.jpg",
       "summary": "Afghan women returning from Iran face unemployment and fractured families. Zahra, a midwife in Herat, lost her income and now lives with her parents. Her son remains with her ex-husband. The five-year displacement left her without a stable livelihood or support network in her home region. For five years, Zahra cared for an elderly woman in Iran and earned enough to get by.",
       "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Afghan Women Turn To Social Media To Earn Living As Doors Close Offline",
+      "url": "https://www.rferl.org/a/afghan-kabul-female-influencers-social-media-taliban/33902659.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-22T08:12:45+00:00",
+      "image_url": "https://gdb.rferl.org/41c3c27d-3b1a-4c0b-a223-d573f8eba5a8_w1200_h630.jpg",
+      "summary": "Afghan women are building personal brands on social media. They use Instagram, TikTok, and YouTube to earn a living. Content features cooking, shopping, and family gatherings. This shift occurs as offline opportunities have closed under Taliban rule. Afghan women who have had their lives sharply restricted by Taliban rule have responded by building personal brands on Instagram, TikTok, and YouTube showing them cooking at home, shopping in bazaars, or meeting friends and family.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -188,62 +248,14 @@
       "translations": {}
     },
     {
-      "title": "With Oil Revenue Running Out, Iran Teases Breaking US Blockade",
-      "url": "https://www.rferl.org/a/iran-us-blockade-oil-revenue-war/33902633.html",
-      "source": "Radio Free Europe / Liberty",
-      "sources": [],
-      "published_at": "2026-11-20T14:38:56+00:00",
-      "image_url": "https://gdb.rferl.org/d03dec8c-4af0-41f5-99e0-0db16f6d1f38_cx15_cy4_cw69_w1200_h630.jpg",
-      "summary": "Iranian hardliners are pushing for a tanker convoy to break the US naval blockade as oil revenue hits zero by mid-December. They threaten to strike Persian Gulf oil sites if the US fires on the vessels. This escalation risks a direct military confrontation in the region. With Iran’s oil revenue set to hit zero by mid-December, IRGC-linked media and hard-liners are pushing for a tanker convoy to break through the US naval blockade, threatening Persian Gulf oil sites if fired on.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Countries demand stronger climate deal amid deadlock in Antalya",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-20T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image560x340cropped.jpg",
       "summary": "A coalition of countries challenged the proposed COP31 agreement, demanding explicit fossil fuel action. They also called for stronger climate finance commitments. Tensions rose as the Antalya summit neared its close. Negotiators struggled to find a deal acceptable to nearly 200 governments. A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance.",
       "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-20T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image770x420cropped.jpg",
-      "summary": "Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-20T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-10-2025-UNICEF-Ukraine-03.jpg/image770x420cropped.jpg",
-      "summary": "UNICEF highlighted record child casualty levels in Ukraine as the country faces another brutal winter. A twice-bombed Kyiv kindergarten stands in ruins during a day-long power cut. Freezing classrooms and shattered playgrounds illustrate the dangers children face. The conflict continues to inflict severe harm on the youngest population. Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "General Assembly President tells Rohingya refugees after genocide ruling",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-20T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image770x420cropped.jpg",
-      "summary": "The President of the United Nations General Assembly visited Cox’s Bazar in Bangladesh one day after the International Court of Justice ruled that Myanmar committed genocide against the Rohingya. The visit aimed to pressure the international community to translate the landmark legal finding into concrete protective measures. The court’s decision marks a significant shift in the diplomatic handling of the crisis. The President urged member states to move beyond rhetoric and implement the court’s directives.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -260,500 +272,488 @@
       "translations": {}
     },
     {
-      "title": "The secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-11-20T11:00:31+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/753c8bfdbccb0b49e67ae5dbfac970caa7c20394/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45d3388ff0289ade4e800d5054ccdef3",
-      "summary": "Cuban asylum seeker Luis Alejandro Cora Pérez ended a hunger strike in Texas. He described being force-fed through a tube after five days of resistance. The physical pain forced him to stop the protest. Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strikeThe text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Ambition goes missing as fossil fuel language drops from draft deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
+      "title": "General Assembly President tells Rohingya refugees after genocide ruling",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
       "source": "UN News",
       "sources": [],
-      "published_at": "2026-11-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image560x340cropped.jpg",
-      "summary": "The latest draft climate agreement for COP31 removed explicit language on phasing out fossil fuels. This deletion occurred as ministers and the Presidency attempted to bridge sharp differences before the summit's scheduled close. Civil society groups expressed serious concern over the missing commitment. The change signals a significant retreat in the text's ambition regarding energy transition. A cat named Ambition went missing again at COP31 on Thursday.",
-      "region": "Americas",
+      "published_at": "2026-11-20T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image770x420cropped.jpg",
+      "summary": "The President of the United Nations General Assembly visited Cox’s Bazar in Bangladesh one day after the International Court of Justice ruled that Myanmar committed genocide against the Rohingya. The visit aimed to pressure the international community to translate the landmark legal finding into concrete protective measures. The court’s decision marks a significant shift in the diplomatic handling of the crisis. The President urged member states to move beyond rhetoric and implement the court’s directives.",
+      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Battle to control GPS and radio signals raises civilian safety concerns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
+      "title": "Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
       "source": "UN News",
       "sources": [],
-      "published_at": "2026-11-19T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image560x340cropped.jpg",
-      "summary": "GPS and radio signals are increasingly blocked or faked, endangering aid convoys, passenger jets, and cargo ships. Civilian safety is declining as these critical navigation systems become unreliable. The disruption affects both conflict zones and open ocean routes. From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-11-18T09:58:28+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=241d36456a6aa7c9bcc0d9abfc3646a5",
-      "summary": "Fears are rising that the US will sanction judges at the International Court of Justice. This includes Nobel Peace Prize winner Navi Pillay. The potential sanctions follow a ruling that Myanmar committed genocide against the Rohingya. Such a move would set a significant precedent for future court judgments. A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in GazaFears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay, if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible f.",
+      "published_at": "2026-11-20T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image560x340cropped.jpg",
+      "summary": "Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "मीडिया डिनर में पीएम कार्नी से लेकर ट्रूडो पर कॉमेडियन ने ली चुटकी, देखें वीडियो",
-      "url": "https://www.amarujala.com/world/comedian-mocks-trump-impersonation-political-jibes-canadian-dinner-carney-and-trudeau-also-in-the-crosshairs-2026-11-23",
-      "source": "Amar Ujala World",
+      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-11-23T04:14:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/kanada-ka-danara-ma-tarapa-ka-savaga_0d9df8666c3757b0bd65c31fba2f5390.gif?w=1200&dpr=1.0",
-      "summary": "कनाडा के वार्षिक मीडिया डिनर में एक कॉमेडियन ने ट्रंप की नकल की। उसने पीएम मार्क कार्नी और पूर्व पीएम जस्टिन ट्रूडो पर भी व्यंग्य किया। कार्यक्रम में राजनीतिक चुटकी का मजाक उड़ाया गया। मीडिया डिनर में पीएम कार्नी से लेकर ट्रूडो पर कॉमेडियन ने ली चुटकी, देखें वीडियो।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मीडिया डिनर में पीएम कार्नी से लेकर ट्रूडो पर कॉमेडियन ने ली चुटकी, देखें वीडियो",
-          "summary": "कनाडा के वार्षिक मीडिया डिनर में एक कॉमेडियन ने ट्रंप की नकल की। उसने पीएम मार्क कार्नी और पूर्व पीएम जस्टिन ट्रूडो पर भी व्यंग्य किया। कार्यक्रम में राजनीतिक चुटकी का मजाक उड़ाया गया। मीडिया डिनर में पीएम कार्नी से लेकर ट्रूडो पर कॉमेडियन ने ली चुटकी, देखें वीडियो।",
-          "region": "अमेरिका"
-        }
-      }
+      "published_at": "2026-11-20T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-10-2025-UNICEF-Ukraine-03.jpg/image560x340cropped.jpg",
+      "summary": "UNICEF highlighted record child casualty levels in Ukraine as the country faces another brutal winter. A twice-bombed Kyiv kindergarten stands in ruins during a day-long power cut. Freezing classrooms and shattered playgrounds illustrate the dangers children face. The conflict continues to inflict severe harm on the youngest population. Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
     },
     {
-      "title": "चिकन नेक की धड़कन, राफेल के झपट्टे से 10 मिनट की दूरी पर चीन, 1962 के युद्ध से कनेक्‍शन",
-      "url": "https://hindi.news18.com/news/nation/why-bagdogra-airport-important-siliguri-corridor-chicken-neck-china-nepal-bhutan-bangladesh-border-rafale-s400-brahmos-11005966.html",
+      "title": "बांग्लादेश में आम लोग पिस रहे, सियासी जंग जारी, यूनुस के बैंक पर बम, अवामी लीग के घरों पर हमला",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-political-violence-grameen-bank-attacks-awami-league-homes-11007731.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-23T04:09:30+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/bagdogra-airport12-2026-11-2428a74d142c2c3f761b3340b7aab8f6-1200x800.jpg",
-      "summary": "नेपाल के पीएम बालेंद्र शाह की भारत यात्रा के बीच बागडोगरा एयरपोर्ट पर चर्चा हुई। भारत ने नेपाली प्रवेश बिंदु से सैन्य विमानों की उड़ान की अनुमति देने का प्रस्ताव रखा। बाद में भारत ने इस रिपोर्ट का खंडन किया। Bagdogra Airport: नेपाल के प्रधानमंत्री बालेंद्र शाह की भारत यात्रा के बीच रणनीतिक रूप से अहम सिलिगुड़ी कॉरिडोर यानी चिकन नेक पर स्थित बागडोगरा एयरपोर्ट सुर्खियों में है.",
+      "published_at": "2026-11-23T15:22:15+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-23-2026-11-ec02a8f7396240314dae9e89be5653d3-1200x800.jpg",
+      "summary": "बांग्लादेश में 18 से 21 नवंबर 2026 के बीच अवामी लीग से जुड़े 247 घरों और दुकानों को नुकसान पहुंचा. मानवाधिकार संगठन JMBF ने BNP कार्यकर्ताओं पर हमलों का आरोप लगाया. मोहम्मद यूनुस ने दावा किया कि नवंबर में ग्रामीण बैंक की करीब 100 शाखाओं पर पेट्रोल बम फेंके गए. बांग्लादेश में राजनीतिक तनाव के बीच हिंसा की घटनाओं को लेकर गंभीर आरोप सामने आए हैं.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चिकन नेक की धड़कन, राफेल के झपट्टे से 10 मिनट की दूरी पर चीन, 1962 के युद्ध से कनेक्‍शन",
-          "summary": "नेपाल के पीएम बालेंद्र शाह की भारत यात्रा के बीच बागडोगरा एयरपोर्ट पर चर्चा हुई। भारत ने नेपाली प्रवेश बिंदु से सैन्य विमानों की उड़ान की अनुमति देने का प्रस्ताव रखा। बाद में भारत ने इस रिपोर्ट का खंडन किया। Bagdogra Airport: नेपाल के प्रधानमंत्री बालेंद्र शाह की भारत यात्रा के बीच रणनीतिक रूप से अहम सिलिगुड़ी कॉरिडोर यानी चिकन नेक पर स्थित बागडोगरा एयरपोर्ट सुर्खियों में है.",
+          "title": "बांग्लादेश में आम लोग पिस रहे, सियासी जंग जारी, यूनुस के बैंक पर बम, अवामी लीग के घरों पर हमला",
+          "summary": "बांग्लादेश में 18 से 21 नवंबर 2026 के बीच अवामी लीग से जुड़े 247 घरों और दुकानों को नुकसान पहुंचा. मानवाधिकार संगठन JMBF ने BNP कार्यकर्ताओं पर हमलों का आरोप लगाया. मोहम्मद यूनुस ने दावा किया कि नवंबर में ग्रामीण बैंक की करीब 100 शाखाओं पर पेट्रोल बम फेंके गए. बांग्लादेश में राजनीतिक तनाव के बीच हिंसा की घटनाओं को लेकर गंभीर आरोप सामने आए हैं.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "क्या NVIDIA में होगी जेन्सेन हुआंग की वापसी? ट्रंप ने की दोबारा नियुक्ति की मांग, बोले- यही अमेरिका",
-      "url": "https://www.patrika.com/world-news/will-jensen-huang-return-to-nvidia-donald-trump-urges-board-to-rehire-him-21078068",
+      "title": "Nvidia में जेनसन हुआंग की CEO पद पर वापसी, बोर्ड ने सर्वसम्मति से लिया फैसला, अमेरिकी सरकार से भी",
+      "url": "https://www.patrika.com/world-news/nvidia-reinstates-jensen-huang-as-ceo-november-2026-21080625",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-23T04:08:01+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/jensen-huang-and-donald-trump.webp",
-      "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एनवीडिया के पूर्व सीईओ जेन्सेन हुआंग की वापसी का समर्थन किया। ट्रंप का मानना है कि बोर्ड को हुआंग को फिर से नियुक्त करना चाहिए। उन्होंने इसे अमेरिका और कंपनी दोनों के हित में बताया। Jensen Huang reinstatement: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रमुख चिप निर्माता कंपनी NVIDIA के पूर्व मुख्य कार्यकारी अधिकारी (CEO) जेन्सेन हुआंग की दोबारा नियुक्ति का समर्थन किया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या NVIDIA में होगी जेन्सेन हुआंग की वापसी? ट्रंप ने की दोबारा नियुक्ति की मांग, बोले- यही अमेरिका",
-          "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने एनवीडिया के पूर्व सीईओ जेन्सेन हुआंग की वापसी का समर्थन किया। ट्रंप का मानना है कि बोर्ड को हुआंग को फिर से नियुक्त करना चाहिए। उन्होंने इसे अमेरिका और कंपनी दोनों के हित में बताया। Jensen Huang reinstatement: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने प्रमुख चिप निर्माता कंपनी NVIDIA के पूर्व मुख्य कार्यकारी अधिकारी (CEO) जेन्सेन हुआंग की दोबारा नियुक्ति का समर्थन किया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जेंसेन हुआंग की करीबी एलिस पर चीनी खुफिया अफसर से सालभर संपर्क का दावा, अमेरिका बोला: अभी कोई नतीजा",
-      "url": "https://www.patrika.com/world-news/alice-huang-chinese-spy-agency-jensen-huang-nvidia-scandal-21077965",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-23T04:05:04+00:00",
+      "published_at": "2026-11-23T15:08:55+00:00",
       "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Nvidia-News.webp",
-      "summary": "न्यूयॉर्क टाइम्स ने दावा किया कि एलिस हुआंग ने चीनी खुफिया अधिकारी से एक साल तक संपर्क किया। यह संबंध जेन्सेन हुआंग के सीईओ पद के दौरान बना। अमेरिकी अधिकारियों ने कहा कि जासूसी पर अभी कोई फैसला या आरोप नहीं हुआ। Nvidia Scandal: Nvidia के पूर्व सीईओ जेंसेन हुआंग से रिश्ते के दौरान एलिस हुआंग का चीन की खुफिया एजेंसी के एक अधिकारी से एक साल से ज्यादा समय तक संपर्क रहा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जेंसेन हुआंग की करीबी एलिस पर चीनी खुफिया अफसर से सालभर संपर्क का दावा, अमेरिका बोला: अभी कोई नतीजा",
-          "summary": "न्यूयॉर्क टाइम्स ने दावा किया कि एलिस हुआंग ने चीनी खुफिया अधिकारी से एक साल तक संपर्क किया। यह संबंध जेन्सेन हुआंग के सीईओ पद के दौरान बना। अमेरिकी अधिकारियों ने कहा कि जासूसी पर अभी कोई फैसला या आरोप नहीं हुआ। Nvidia Scandal: Nvidia के पूर्व सीईओ जेंसेन हुआंग से रिश्ते के दौरान एलिस हुआंग का चीन की खुफिया एजेंसी के एक अधिकारी से एक साल से ज्यादा समय तक संपर्क रहा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "न्यूजीलैंड पांच विकेट पर 225 रन के पार, आज 20+ ओवर का खेल बाकी; क्या जीत पाएगा भारत?",
-      "url": "https://www.amarujala.com/live/cricket/ind-vs-nz-1st-test-day-5-live-score-updates-commentary-india-vs-new-zealand-day-5-updates-in-hindi-2026-11-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-23T04:04:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/india-vs-new-zealand-day-5-ind-vs-nz-1st-test-day-5-live-score-updates_06efb34e628c8d5ea90e4d01d4cfde9c.jpeg?w=1200&dpr=1.0",
-      "summary": "न्यूजीलैंड ने पांचवें दिन 139 रन पर चौथा विकेट गंवाया। रचिन रवानी के आउट होने के बाद भारत को जीत के लिए छह विकेट चाहिए हैं। मैच में अभी भी संभावनाएं बनी हुई हैं। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच पहले टेस्ट का आज पांचवां दिन है। टीम इंडिया की नजर जीत दर्ज करने पर है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "न्यूजीलैंड पांच विकेट पर 225 रन के पार, आज 20+ ओवर का खेल बाकी; क्या जीत पाएगा भारत?",
-          "summary": "न्यूजीलैंड ने पांचवें दिन 139 रन पर चौथा विकेट गंवाया। रचिन रवानी के आउट होने के बाद भारत को जीत के लिए छह विकेट चाहिए हैं। मैच में अभी भी संभावनाएं बनी हुई हैं। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। भारत और न्यूजीलैंड के बीच पहले टेस्ट का आज पांचवां दिन है। टीम इंडिया की नजर जीत दर्ज करने पर है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मेट्रो में हो जाए लड़ाई-झगड़ा, तो तुरंत करें ये काम; जानें क्या करें और क्या नहीं",
-      "url": "https://www.amarujala.com/photo-gallery/utility/what-to-do-if-a-fight-breaks-out-in-the-metro-know-how-to-get-immediate-help-2026-11-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-23T04:02:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/matara-ma-lugdhaii-hana-para-kaya-kara_00dd334f2b7c9b8864bd203c8e40f5b4.jpeg?w=1200&dpr=1.0",
-      "summary": "मेट्रो में यात्रियों के बीच झगड़े की स्थिति में सबसे पहले अपनी सुरक्षा सुनिश्चित करें। तुरंत मेट्रो स्टाफ या सुरक्षा कर्मियों को सूचना दें। किसी भी तरह की हस्तक्षेप या वीडियो बनाने से बचें। मेट्रो में यात्रियों के बीच बहस या मारपीट होने पर सबसे पहले अपनी सुरक्षा का ध्यान रखें लड़ाई-झगड़े की स्थिति में मेट्रो स्टाफ या सुरक्षा कर्मियों को सूचना दें।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेट्रो में हो जाए लड़ाई-झगड़ा, तो तुरंत करें ये काम; जानें क्या करें और क्या नहीं",
-          "summary": "मेट्रो में यात्रियों के बीच झगड़े की स्थिति में सबसे पहले अपनी सुरक्षा सुनिश्चित करें। तुरंत मेट्रो स्टाफ या सुरक्षा कर्मियों को सूचना दें। किसी भी तरह की हस्तक्षेप या वीडियो बनाने से बचें। मेट्रो में यात्रियों के बीच बहस या मारपीट होने पर सबसे पहले अपनी सुरक्षा का ध्यान रखें लड़ाई-झगड़े की स्थिति में मेट्रो स्टाफ या सुरक्षा कर्मियों को सूचना दें।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "कार के म्यूजिक सिस्टम को लंबे समय तक रखना है नया जैसा?: अपनाएं ये पांच आसान टिप्स, स्पीकर्स भी",
-      "url": "https://www.amarujala.com/automobiles/5-easy-tips-keep-your-car-music-system-top-condition-for-years-2026-11-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-23T04:01:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/22/kara-kayara-tapasa_1733d3d9323485a31729407f487c883f.jpeg?w=1200&dpr=1.0",
-      "summary": "कार के ऑडियो सिस्टम की उम्र बढ़ाने के लिए स्पीकर्स को अधिकतम आवाज से बचाना ज़रूरी है। धूल और नमी से दूर रखें। समय-समय पर वायरिंग और कनेक्शन की जांच कराएं। म्यूजिक सिस्टम की उम्र बढ़ाने के टिप्स। स्पीकर्स को तेज आवाज से बचाने की करें कोशिश। धूल और नमी से रखें जितना हो सके रखें दूर। समय-समय परवायरिंग और कनेक्शन की जांच कराएं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कार के म्यूजिक सिस्टम को लंबे समय तक रखना है नया जैसा?: अपनाएं ये पांच आसान टिप्स, स्पीकर्स भी",
-          "summary": "कार के ऑडियो सिस्टम की उम्र बढ़ाने के लिए स्पीकर्स को अधिकतम आवाज से बचाना ज़रूरी है। धूल और नमी से दूर रखें। समय-समय पर वायरिंग और कनेक्शन की जांच कराएं। म्यूजिक सिस्टम की उम्र बढ़ाने के टिप्स। स्पीकर्स को तेज आवाज से बचाने की करें कोशिश। धूल और नमी से रखें जितना हो सके रखें दूर। समय-समय परवायरिंग और कनेक्शन की जांच कराएं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से टकराई यात्री ट्रेन, दो डिब्बे पटरी से उतरे; क्या थी वजह?",
-      "url": "https://www.amarujala.com/world/us-louisiana-amtrak-passenger-train-derails-after-colliding-with-bulldozer-carrying-truck-2026-11-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-23T03:47:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/09/25/tharaghatana-sakataka-tasavara_1a6eda6275ed747a502e94bbeeff23e8.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका के लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से यात्री ट्रेन टकरा गई। इस हादसे में ट्रेन के दो डिब्बे पटरी से उतर गए। घटना की सटीक वजह अभी ज्ञात नहीं है। अमेरिका: लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से टकराई यात्री ट्रेन, दो डिब्बे पटरी से उतरे; क्या थी वजह?",
+      "summary": "Nvidia ने 23 नवंबर 2026 को जेनसन हुआंग को तत्काल प्रभाव से फिर से CEO नियुक्त किया. बोर्ड ऑफ डायरेक्टर्स ने कई बैठकों के बाद सर्वसम्मति से यह फैसला लिया. कंपनी ने बताया कि इस निर्णय से पहले अमेरिकी सरकार के वरिष्ठ अधिकारियों से चर्चा हुई. Jensen Huang: दुनिया की दिग्गज चिप निर्माता कंपनी Nvidia ने जेनसन हुआंग को फिर से अपना मुख्य कार्यकारी अधिकारी (CEO) नियुक्त कर दिया है।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से टकराई यात्री ट्रेन, दो डिब्बे पटरी से उतरे; क्या थी वजह?",
-          "summary": "अमेरिका के लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से यात्री ट्रेन टकरा गई। इस हादसे में ट्रेन के दो डिब्बे पटरी से उतर गए। घटना की सटीक वजह अभी ज्ञात नहीं है। अमेरिका: लुइसियाना में रेलवे क्रॉसिंग पर ट्रक से टकराई यात्री ट्रेन, दो डिब्बे पटरी से उतरे; क्या थी वजह?",
+          "title": "Nvidia में जेनसन हुआंग की CEO पद पर वापसी, बोर्ड ने सर्वसम्मति से लिया फैसला, अमेरिकी सरकार से भी",
+          "summary": "Nvidia ने 23 नवंबर 2026 को जेनसन हुआंग को तत्काल प्रभाव से फिर से CEO नियुक्त किया. बोर्ड ऑफ डायरेक्टर्स ने कई बैठकों के बाद सर्वसम्मति से यह फैसला लिया. कंपनी ने बताया कि इस निर्णय से पहले अमेरिकी सरकार के वरिष्ठ अधिकारियों से चर्चा हुई. Jensen Huang: दुनिया की दिग्गज चिप निर्माता कंपनी Nvidia ने जेनसन हुआंग को फिर से अपना मुख्य कार्यकारी अधिकारी (CEO) नियुक्त कर दिया है।",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "क्या सच में लाभ पाकर भी नौकरी-वेतन में बढ़ोतरी नहीं कर रहा उद्योग जगत, क्यों नाराज पीएम मोदी?",
-      "url": "https://www.amarujala.com/india-news/pm-modi-ficci-speech-corporate-profits-vs-wages-jobs-data-explainer-2026-11-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-23T03:46:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/pm-modi-ficci-speech_cbe2a8b1be1c30fbd50d02aa22fccfed.jpeg?w=1200&dpr=1.0",
-      "summary": "फिक्की में प्रधानमंत्री ने उद्योग जगत से पूछा कि मुनाफे बढ़ने के बावजूद नौकरियों और वेतन में वृद्धि क्यों नहीं हो रही है। कॉर्पोरेट लाभों और कर्मचारियों के वास्तविक वेतन के बीच अंतर स्पष्ट है। फिक्की में पीएम मोदी ने उद्योग जगत पर उठाए सवाल। जानिए कॉर्पोरेट मुनाफे में बूम के बावजूद फैक्ट्री कर्मचारियों के वास्तविक वेतन और नौकरियों के क्या कहते हैं आंकड़े।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "क्या सच में लाभ पाकर भी नौकरी-वेतन में बढ़ोतरी नहीं कर रहा उद्योग जगत, क्यों नाराज पीएम मोदी?",
-          "summary": "फिक्की में प्रधानमंत्री ने उद्योग जगत से पूछा कि मुनाफे बढ़ने के बावजूद नौकरियों और वेतन में वृद्धि क्यों नहीं हो रही है। कॉर्पोरेट लाभों और कर्मचारियों के वास्तविक वेतन के बीच अंतर स्पष्ट है। फिक्की में पीएम मोदी ने उद्योग जगत पर उठाए सवाल। जानिए कॉर्पोरेट मुनाफे में बूम के बावजूद फैक्ट्री कर्मचारियों के वास्तविक वेतन और नौकरियों के क्या कहते हैं आंकड़े।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नए फिल्ममेकर्स के लिए क्यों जरूरी हैं IFFI? 'रामायण' के डायरेक्टर नितेश तिवारी ने बताया महत्व",
-      "url": "https://www.amarujala.com/entertainment/ramayana-director-nitesh-tiwari-highlighted-importance-of-iffi-2026-for-new-filmmakers-2026-11-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-23T03:44:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/natasha-tavara_9379f92347d129dbc03de88711a0e926.jpeg?w=1200&dpr=1.0",
-      "summary": "फिल्म 'रामायण' के निर्देशक नितेश तिवारी ने IFFI की महत्वपूर्ण भूमिका पर प्रकाश डाला। उन्होंने कहा कि ऐसे फिल्म फेस्टिवल नए टैलेंट को सामने आने का मौका देते हैं। फिल्म 5 नवंबर को रिलीज हुई थी। फिल्म 'रामायण' 5 नवंबर को भारत समेत दुनियाभर में रिलीज हुई थी। अब हाल ही में इसके निर्देशक ने इंटरनेशनल फिल्म फेस्टिवल ऑफ इंडिया की तारीफ की।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नए फिल्ममेकर्स के लिए क्यों जरूरी हैं IFFI? 'रामायण' के डायरेक्टर नितेश तिवारी ने बताया महत्व",
-          "summary": "फिल्म 'रामायण' के निर्देशक नितेश तिवारी ने IFFI की महत्वपूर्ण भूमिका पर प्रकाश डाला। उन्होंने कहा कि ऐसे फिल्म फेस्टिवल नए टैलेंट को सामने आने का मौका देते हैं। फिल्म 5 नवंबर को रिलीज हुई थी। फिल्म 'रामायण' 5 नवंबर को भारत समेत दुनियाभर में रिलीज हुई थी। अब हाल ही में इसके निर्देशक ने इंटरनेशनल फिल्म फेस्टिवल ऑफ इंडिया की तारीफ की।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "कौन हैं पाकिस्तानी अधिकारी फरहत आयाशा, जो मुसादिक मलिक को 'फैलने' से रोकती दिखीं, दिल्ली को बताया",
-      "url": "https://hindi.news18.com/world/pakistan-who-is-farhat-ayesha-came-along-pakistan-minister-musadik-malik-calls-delhi-similar-to-home-ws-l-11005927.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-23T03:41:48+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-farhat-2026-11-c877cb327f63058e0649762ea12095c8-1200x800.jpg",
-      "summary": "पाकिस्तानी मंत्री मुसादिक मलिक के भारत दौरे पर अधिकारी फरहत आयाशा सक्रिय दिखीं। उन्होंने मलिक को किसी संभावित विवाद से बचाने की कोशिश की। दिल्ली में उनके पुराने रिकॉर्ड को देखते हुए सावधानी बरती गई। Who is Farhat Ayesha: कुछ तस्वीरें ऐसी होती हैं, जो मेन ईवेंट से ज्यादा सुर्खियां बटोर ले जाती हैं. कुछ ऐसा ही हुआ जब पाकिस्तानी मंत्री मुसादिक मलिक भारत आए.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "कौन हैं पाकिस्तानी अधिकारी फरहत आयाशा, जो मुसादिक मलिक को 'फैलने' से रोकती दिखीं, दिल्ली को बताया",
-          "summary": "पाकिस्तानी मंत्री मुसादिक मलिक के भारत दौरे पर अधिकारी फरहत आयाशा सक्रिय दिखीं। उन्होंने मलिक को किसी संभावित विवाद से बचाने की कोशिश की। दिल्ली में उनके पुराने रिकॉर्ड को देखते हुए सावधानी बरती गई। Who is Farhat Ayesha: कुछ तस्वीरें ऐसी होती हैं, जो मेन ईवेंट से ज्यादा सुर्खियां बटोर ले जाती हैं. कुछ ऐसा ही हुआ जब पाकिस्तानी मंत्री मुसादिक मलिक भारत आए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "सिंगर के दोहरे मापदंड वाले सवाल पर प्रोफेसर ने क्या कहा? कोल्डप्ले से तुलना पर भी रखी अपनी बात",
-      "url": "https://www.amarujala.com/entertainment/what-professor-says-after-diljit-dosanjh-coldplay-comparison-express-his-views-on-double-standards-remark-2026-11-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-23T03:37:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/thaljata-thasajha_12dc92babc2d88ed165ca1c89b889f9f.jpeg?w=1200&dpr=1.0",
-      "summary": "प्रोफेसर धारेन्नवर ने दिलजीत के कॉन्सर्ट में उठाए दोहरे मापदंड के सवाल पर अपनी प्रतिक्रिया दी। उन्होंने कोल्डप्ले से तुलना के संदर्भ में भी अपनी राय रखी। हाल ही में दिलजीत ने अपने कॉन्सर्ट में दोहरे मापदंड जैसी बात कही। इस मामले पर प्रोफेसर धारेन्नवर ने जवाब दिया है और अपनी बात रखी है। सिंगर के दोहरे मापदंड वाले सवाल पर प्रोफेसर ने क्या कहा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सिंगर के दोहरे मापदंड वाले सवाल पर प्रोफेसर ने क्या कहा? कोल्डप्ले से तुलना पर भी रखी अपनी बात",
-          "summary": "प्रोफेसर धारेन्नवर ने दिलजीत के कॉन्सर्ट में उठाए दोहरे मापदंड के सवाल पर अपनी प्रतिक्रिया दी। उन्होंने कोल्डप्ले से तुलना के संदर्भ में भी अपनी राय रखी। हाल ही में दिलजीत ने अपने कॉन्सर्ट में दोहरे मापदंड जैसी बात कही। इस मामले पर प्रोफेसर धारेन्नवर ने जवाब दिया है और अपनी बात रखी है। सिंगर के दोहरे मापदंड वाले सवाल पर प्रोफेसर ने क्या कहा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "249 दर्ज हुआ एक्यूआई, जानिए कहां कितना रहा प्रदूषण का स्तर; पढ़ें पूर्वानुमान",
-      "url": "https://www.amarujala.com/delhi-ncr/delhi-air-quality-in-poor-category-pollution-aqi-data-2026-11-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-23T03:30:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/09/delhi-ncr-aqi_350e45eca106607272595aeddffbe293.jpeg?w=1200&dpr=1.0",
-      "summary": "सोमवार सुबह दिल्ली में वायु गुणवत्ता सूचकांक 249 दर्ज हुआ। शहर में प्रदूषण का स्तर खराब श्रेणी में बना रहा। सोमवार सुबह दिल्ली में वायु गुणवत्ता 'खराब' श्रेणी में बनी रही। 249 दर्ज हुआ एक्यूआई, जानिए कहां कितना रहा प्रदूषण का स्तर; पढ़ें पूर्वानुमान।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "249 दर्ज हुआ एक्यूआई, जानिए कहां कितना रहा प्रदूषण का स्तर; पढ़ें पूर्वानुमान",
-          "summary": "सोमवार सुबह दिल्ली में वायु गुणवत्ता सूचकांक 249 दर्ज हुआ। शहर में प्रदूषण का स्तर खराब श्रेणी में बना रहा। सोमवार सुबह दिल्ली में वायु गुणवत्ता 'खराब' श्रेणी में बनी रही। 249 दर्ज हुआ एक्यूआई, जानिए कहां कितना रहा प्रदूषण का स्तर; पढ़ें पूर्वानुमान।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "'मिनेसोटा पर कब्जा कर लिया, 95% लोग सरकारी मदद पर निर्भर', सोमाली समुदाय पर ट्रंप का आरोप; क्या कहा?",
-      "url": "https://www.amarujala.com/world/trump-claims-somali-community-has-completely-taken-over-minnesota-2026-11-23",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-23T03:25:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/tarapa_f79498194046e7126abd5afd2e3bf9a5.jpeg?w=1200&dpr=1.0",
-      "summary": "ट्रंप ने मिनेसोटा के सोमाली समुदाय पर आरोप लगाया कि 95% लोग सरकारी मदद पर निर्भर हैं। उन्होंने राज्य पर कब्जा करने का दावा भी किया। अमेरिका: 'मिनेसोटा पर कब्जा कर लिया, 95% लोग सरकारी मदद पर निर्भर', सोमाली समुदाय पर ट्रंप का आरोप; क्या कहा?",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'मिनेसोटा पर कब्जा कर लिया, 95% लोग सरकारी मदद पर निर्भर', सोमाली समुदाय पर ट्रंप का आरोप; क्या कहा?",
-          "summary": "ट्रंप ने मिनेसोटा के सोमाली समुदाय पर आरोप लगाया कि 95% लोग सरकारी मदद पर निर्भर हैं। उन्होंने राज्य पर कब्जा करने का दावा भी किया। अमेरिका: 'मिनेसोटा पर कब्जा कर लिया, 95% लोग सरकारी मदद पर निर्भर', सोमाली समुदाय पर ट्रंप का आरोप; क्या कहा?",
-          "region": "मध्य पूर्व और अफ्रीका"
-        }
-      }
-    },
-    {
-      "title": "पीएम मोदी से मिलेंगे नेपाल के प्रधानमंत्री, यूपी चुनाव के लिए कांग्रेस-सपा में सीट बंटवारे पर चर्चा",
-      "url": "https://www.amarujala.com/india-news/aaj-ke-din-23-november-2026-top-headlines-of-the-day-big-event-news-and-updates-2026-11-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-23T03:15:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/22/aaj-ke-din-aaja-ka-thana-23-navabra-2026-23-november-2026_5a24f507c723685d178fb0ffb3f8a07b.gif?w=1200&dpr=1.0",
-      "summary": "नेपाल के प्रधानमंत्री बालेंद्र शाह 23 नवंबर को नई दिल्ली में प्रधानमंत्री मोदी से मिलेंगे। दोनों देशों के बीच उच्चस्तरीय द्विपक्षीय वार्ता होगी। नेपाल के प्रधानमंत्री बालेंद्र शाह अपने पहले आधिकारिक भारत दौरे पर हैं और सोमवार, 23 नवंबर को वे नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी के साथ उच्चस्तरीय द्विपक्षीय वार्ता करेंगे। पीएम मोदी से मिलेंगे नेपाल के प्रधानमंत्री, यूपी चुनाव के लिए कांग्रेस-सपा में सीट बंटवारे पर चर्चा।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम मोदी से मिलेंगे नेपाल के प्रधानमंत्री, यूपी चुनाव के लिए कांग्रेस-सपा में सीट बंटवारे पर चर्चा",
-          "summary": "नेपाल के प्रधानमंत्री बालेंद्र शाह 23 नवंबर को नई दिल्ली में प्रधानमंत्री मोदी से मिलेंगे। दोनों देशों के बीच उच्चस्तरीय द्विपक्षीय वार्ता होगी। नेपाल के प्रधानमंत्री बालेंद्र शाह अपने पहले आधिकारिक भारत दौरे पर हैं और सोमवार, 23 नवंबर को वे नई दिल्ली में प्रधानमंत्री नरेंद्र मोदी के साथ उच्चस्तरीय द्विपक्षीय वार्ता करेंगे। पीएम मोदी से मिलेंगे नेपाल के प्रधानमंत्री, यूपी चुनाव के लिए कांग्रेस-सपा में सीट बंटवारे पर चर्चा।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पूर्व मुख्यमंत्री अर्जुन मुंडा की मां सायरा मुंडा का निधन, हेमंत सोरेन ने परिवार के प्रति जताई",
-      "url": "https://www.amarujala.com/jharkhand/ranchi/jharkhand-saira-munda-mother-of-former-chief-minister-arjun-munda-2026-11-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-23T03:13:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/arajana-mada-ka-mata-sayara-mada_8bc315e8271c71eee298991d3014a11e.jpeg?w=1200&dpr=1.0",
-      "summary": "झारखंड के पूर्व मुख्यमंत्री अर्जुन मुंडा की माता सायरा मुंडा का निधन हो गया। जमशेदपुर के टाटा मोटर्स अस्पताल में उनका देहांत हुआ। झारखंड के पूर्व मुख्यमंत्री अर्जुन मुंडा की माता सायरा मुंडा का सोमवार सुबह जमशेदपुर के टाटा मोटर्स अस्पताल में निधन हो गया। उनके निधन पर मुख्यमंत्री हेमंत सोरेन ने दुख जताया और शोकाकुल परिवार के प्रति संवेदनाएं व्यक्त कीं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पूर्व मुख्यमंत्री अर्जुन मुंडा की मां सायरा मुंडा का निधन, हेमंत सोरेन ने परिवार के प्रति जताई",
-          "summary": "झारखंड के पूर्व मुख्यमंत्री अर्जुन मुंडा की माता सायरा मुंडा का निधन हो गया। जमशेदपुर के टाटा मोटर्स अस्पताल में उनका देहांत हुआ। झारखंड के पूर्व मुख्यमंत्री अर्जुन मुंडा की माता सायरा मुंडा का सोमवार सुबह जमशेदपुर के टाटा मोटर्स अस्पताल में निधन हो गया। उनके निधन पर मुख्यमंत्री हेमंत सोरेन ने दुख जताया और शोकाकुल परिवार के प्रति संवेदनाएं व्यक्त कीं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "रोजाना इस ड्राई फ्रूट को खाने की डाल लें आदत, शरीर को मिलेंगे ये चार बड़े फायदे",
-      "url": "https://www.amarujala.com/photo-gallery/lifestyle/fitness/health-benefits-of-eating-cashews-daily-how-cashews-support-heart-bone-and-brain-health-2026-11-22",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-23T03:10:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/30/cashew-kaju_35f4669538bd792e2a3280e96a4c6a72.jpeg?w=1200&dpr=1.0",
-      "summary": "काजू में हेल्दी फैट, प्रोटीन, मैग्नीशियम, फॉस्फोरस और कॉपर पाए जाते हैं। सीमित मात्रा में रोजाना खाने से हृदय, हड्डियों और मस्तिष्क के कामकाज को पोषण मिलता है। यह सूखा मेवा शरीर के लिए लाभकारी माना जाता है। काजू पोषक तत्वों से भरपूर सूखा मेवा है। इसमें हेल्दी फैट, प्रोटीन, मैग्नीशियम, फॉस्फोरस और कॉपर पाए जाते हैं। सीमित मात्रा में रोजाना काजू खाने से हृदय स्वास्थ्य, हड्डियों और मस्तिष्क के सामान्य कामकाज को पोषण मिल सकता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "रोजाना इस ड्राई फ्रूट को खाने की डाल लें आदत, शरीर को मिलेंगे ये चार बड़े फायदे",
-          "summary": "काजू में हेल्दी फैट, प्रोटीन, मैग्नीशियम, फॉस्फोरस और कॉपर पाए जाते हैं। सीमित मात्रा में रोजाना खाने से हृदय, हड्डियों और मस्तिष्क के कामकाज को पोषण मिलता है। यह सूखा मेवा शरीर के लिए लाभकारी माना जाता है। काजू पोषक तत्वों से भरपूर सूखा मेवा है। इसमें हेल्दी फैट, प्रोटीन, मैग्नीशियम, फॉस्फोरस और कॉपर पाए जाते हैं। सीमित मात्रा में रोजाना काजू खाने से हृदय स्वास्थ्य, हड्डियों और मस्तिष्क के सामान्य कामकाज को पोषण मिल सकता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'आदिवासियों की जमीन हड़प रहे भू-माफिया': सीजेपी ने भाजपा सरकार को घेरा, किस पार्टी को वोट देने की",
-      "url": "https://www.amarujala.com/india-news/cjp-targets-the-bjp-government-say-land-mafias-are-grabbing-tribal-land-2026-11-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-23T03:06:26+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/abhajata-thapaka-sajapa-ka-sasathapaka_6f053bb68d668f3d6fed9d23d56e036d.jpeg?w=1200&dpr=1.0",
-      "summary": "सीजेपी ने भाजपा सरकार पर आदिवासियों की जमीन हड़पने का आरोप लगाया है। पार्टी ने भू-माफियाओं के खिलाफ कार्रवाई की मांग की है। इस घटनाक्रम के बाद सीजेपी ने वोटों की अपील की है। 'आदिवासियों की जमीन हड़प रहे भू-माफिया': सीजेपी ने भाजपा सरकार को घेरा, किस पार्टी को वोट देने की अपील की?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'आदिवासियों की जमीन हड़प रहे भू-माफिया': सीजेपी ने भाजपा सरकार को घेरा, किस पार्टी को वोट देने की",
-          "summary": "सीजेपी ने भाजपा सरकार पर आदिवासियों की जमीन हड़पने का आरोप लगाया है। पार्टी ने भू-माफियाओं के खिलाफ कार्रवाई की मांग की है। इस घटनाक्रम के बाद सीजेपी ने वोटों की अपील की है। 'आदिवासियों की जमीन हड़प रहे भू-माफिया': सीजेपी ने भाजपा सरकार को घेरा, किस पार्टी को वोट देने की अपील की?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'रामायण' के संगीत के लिए संगीतकार ने ठुकराईं 12 फिल्में, 3 साल किया काम; इस ट्रैक के बने 13 वर्जन",
-      "url": "https://www.amarujala.com/entertainment/bollywood/ramayana-composer-ar-rahman-turned-down-12-films-over-3-years-reveals-a-track-had-13-versions-2026-11-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-23T03:05:42+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/ramayanae-eaara-rahamana_929d87ea53447f4782295964873725b8.jpeg?w=1200&dpr=1.0",
-      "summary": "एआर रहमान ने 'रामायण' के संगीत के लिए बारह अन्य फिल्मों के प्रस्ताव ठुकराए। उन्होंने इस प्रोजेक्ट पर तीन साल तक काम किया। एक ही ट्रैक के तेरह अलग वर्जन तैयार किए गए। 'रामायण' के म्यूजिक, जीएफएक्स और इसमें कलाकारों के अभिनय की तारीफ हो रही है। संगीतकार एआर रहमान ने 'रामायण' का म्यूजिक तैयार करने में काफी मेहनत की है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'रामायण' के संगीत के लिए संगीतकार ने ठुकराईं 12 फिल्में, 3 साल किया काम; इस ट्रैक के बने 13 वर्जन",
-          "summary": "एआर रहमान ने 'रामायण' के संगीत के लिए बारह अन्य फिल्मों के प्रस्ताव ठुकराए। उन्होंने इस प्रोजेक्ट पर तीन साल तक काम किया। एक ही ट्रैक के तेरह अलग वर्जन तैयार किए गए। 'रामायण' के म्यूजिक, जीएफएक्स और इसमें कलाकारों के अभिनय की तारीफ हो रही है। संगीतकार एआर रहमान ने 'रामायण' का म्यूजिक तैयार करने में काफी मेहनत की है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पारसनाथ से लौट रही श्रद्धालुओं की बस पलटी, सूरत के पति-पत्नी की मौत; 12 से अधिक घायल",
-      "url": "https://www.amarujala.com/jharkhand/ranchi/a-bus-carrying-jain-pilgrims-returning-from-parasnath-overturned-a-husband-and-wife-died-and-more-than-12-others-were-injured-ranchi-news-c-1-1-noi1475-4962332-2026-11-23",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-23T02:59:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/4cplus/2026/11/23/tharaghatanagarasata-bsa_073420ff7e23dcf8a7457a807ccedf61.jpeg?w=1200&dpr=1.0",
-      "summary": "गुजरात में पारसनाथ से लौटती जैन श्रद्धालुओं की बस पलट गई। सूरत के एक पति-पत्नी की मौत हुई और बारह से अधिक लोग घायल हुए। हादसा मधुबन के पास हुआ जहाँ चालक ने नियंत्रण खो दिया। गुजरात के सूरत से करीब 50 जैन श्रद्धालु पारसनाथ में दर्शन और पूजा-अर्चना के लिए आए थे। तीर्थस्थल पर दर्शन करने के बाद सभी श्रद्धालु बस से टाटानगर रेलवे स्टेशन जा रहे थे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पारसनाथ से लौट रही श्रद्धालुओं की बस पलटी, सूरत के पति-पत्नी की मौत; 12 से अधिक घायल",
-          "summary": "गुजरात में पारसनाथ से लौटती जैन श्रद्धालुओं की बस पलट गई। सूरत के एक पति-पत्नी की मौत हुई और बारह से अधिक लोग घायल हुए। हादसा मधुबन के पास हुआ जहाँ चालक ने नियंत्रण खो दिया। गुजरात के सूरत से करीब 50 जैन श्रद्धालु पारसनाथ में दर्शन और पूजा-अर्चना के लिए आए थे। तीर्थस्थल पर दर्शन करने के बाद सभी श्रद्धालु बस से टाटानगर रेलवे स्टेशन जा रहे थे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "यमन के होदेइदाह में टेलीकम्युनिकेशन बिल्डिंग पर भीषण हवाई हमला, 4 की मौत और 18 घायल",
-      "url": "https://www.patrika.com/world-news/deadly-airstrike-hits-telecommunications-building-in-yemen-hodeidah-21077940",
+      "title": "एनवीडिया में जेनसन हुआंग की CEO पद पर वापसी से खुश हुए ट्रंप, कहा- राष्ट्रीय सुरक्षा को कोई खतरा",
+      "url": "https://www.patrika.com/world-news/donald-trump-backs-nvidia-ceo-jensen-huang-21080686",
       "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-23T02:56:47+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/attack-in-yemen.webp",
-      "summary": "यमन के होदेइदाह में सरकारी टेलीकम्युनिकेशन बिल्डिंग पर हवाई हमला हुआ। इस घटना में कम से कम चार लोगों की मौत हुई और अठारह लोग घायल हुए। हूती समर्थित मीडिया ने यह जानकारी दी है। Yemen Hodeidah airstrike: पश्चिमी यमन के लाल सागर तट पर स्थित बंदरगाह शहर होदेइदाह में सरकारी टेलीकम्युनिकेशन कॉर्पोरेशन की एक इमारत पर भीषण हवाई हमला हुआ है।",
+      "published_at": "2026-11-23T14:52:54+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump-Jensen-Huang-1.webp",
+      "summary": "Nvidia ने जेनसन हुआंग को तत्काल प्रभाव से CEO और बोर्ड सदस्य नियुक्त किया. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर इस फैसले का समर्थन किया. ट्रंप ने दावा किया कि यह बदलाव राष्ट्रीय सुरक्षा के लिए कोई खतरा नहीं है. वॉशिंगटन। एआई चिप्स की दुनिया की अग्रणी कंपनी एनवीडिया ने सोमवार को घोषणा की कि जेनसन हुआंग तत्काल प्रभाव से फिर कंपनी का प्रेसिडेंट, मुख्य कार्यकारी अधिकारी (CEO) और बोर्ड ऑफ डायरेक्टर्स का सदस्य नियुक्त कर दिया है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एनवीडिया में जेनसन हुआंग की CEO पद पर वापसी से खुश हुए ट्रंप, कहा- राष्ट्रीय सुरक्षा को कोई खतरा",
+          "summary": "Nvidia ने जेनसन हुआंग को तत्काल प्रभाव से CEO और बोर्ड सदस्य नियुक्त किया. अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने सोशल मीडिया पर इस फैसले का समर्थन किया. ट्रंप ने दावा किया कि यह बदलाव राष्ट्रीय सुरक्षा के लिए कोई खतरा नहीं है. वॉशिंगटन। एआई चिप्स की दुनिया की अग्रणी कंपनी एनवीडिया ने सोमवार को घोषणा की कि जेनसन हुआंग तत्काल प्रभाव से फिर कंपनी का प्रेसिडेंट, मुख्य कार्यकारी अधिकारी (CEO) और बोर्ड ऑफ डायरेक्टर्स का सदस्य नियुक्त कर दिया है।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "मलेशिया ब्रह्मोस खरीदने की सोच रहा, तभी पहुंचे आसिम मुनीर, भारत की डील में अड़ंगा लगा रहा पाकिस्तान?",
+      "url": "https://hindi.news18.com/world/south-asia-asim-munir-malaysia-visit-after-brahmos-deal-pakistan-turkiye-defence-pact-11007664.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T14:51:58+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/pm-malaysia-2026-11-b449fdf203f27f494a1ddf4dd641c68b-1200x800.jpg",
+      "summary": "मलेशिया भारत की ब्रह्मोस मिसाइल खरीदने की संभावना तलाश रहा है. इसी बीच पाकिस्तान के सेना प्रमुख आसिम मुनीर ने मलेशियाई प्रधानमंत्री अनवर इब्राहिम से मुलाकात की. दोनों ने तुर्किये के साथ रक्षा सहयोग बढ़ाने पर चर्चा की. पाकिस्तान पहले ही तुर्किये, कतर और इंडोनेशिया के साथ बदर समझौता कर चुका है. अगस्त में सऊदी अरब और तुर्किये के साथ भी रक्षा समझौता हुआ था.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "यमन के होदेइदाह में टेलीकम्युनिकेशन बिल्डिंग पर भीषण हवाई हमला, 4 की मौत और 18 घायल",
-          "summary": "यमन के होदेइदाह में सरकारी टेलीकम्युनिकेशन बिल्डिंग पर हवाई हमला हुआ। इस घटना में कम से कम चार लोगों की मौत हुई और अठारह लोग घायल हुए। हूती समर्थित मीडिया ने यह जानकारी दी है। Yemen Hodeidah airstrike: पश्चिमी यमन के लाल सागर तट पर स्थित बंदरगाह शहर होदेइदाह में सरकारी टेलीकम्युनिकेशन कॉर्पोरेशन की एक इमारत पर भीषण हवाई हमला हुआ है।",
+          "title": "मलेशिया ब्रह्मोस खरीदने की सोच रहा, तभी पहुंचे आसिम मुनीर, भारत की डील में अड़ंगा लगा रहा पाकिस्तान?",
+          "summary": "मलेशिया भारत की ब्रह्मोस मिसाइल खरीदने की संभावना तलाश रहा है. इसी बीच पाकिस्तान के सेना प्रमुख आसिम मुनीर ने मलेशियाई प्रधानमंत्री अनवर इब्राहिम से मुलाकात की. दोनों ने तुर्किये के साथ रक्षा सहयोग बढ़ाने पर चर्चा की. पाकिस्तान पहले ही तुर्किये, कतर और इंडोनेशिया के साथ बदर समझौता कर चुका है. अगस्त में सऊदी अरब और तुर्किये के साथ भी रक्षा समझौता हुआ था.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "पुणे से पटना जा रही फ्लाइट की लखनऊ में आपात लैंडिंग, खराब मौसम के चलते लेना पड़ा ये फैसला",
-      "url": "https://www.amarujala.com/lucknow/up-pune-patna-flight-makes-emergency-landing-in-lucknow-due-to-bad-weather-2026-11-23",
-      "source": "Amar Ujala Breaking",
+      "title": "1 मुर्गे ने मजे से सड़क पार की, ब्रेक लगने से महिला को लगी चोट, ऊपर से कोर्ट ने ठोका 10.79 लाख का",
+      "url": "https://hindi.news18.com/world/south-asia-singapore-court-1-chicken-crossing-road-15000-dollar-legal-cost-case-11007583.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-23T02:40:55+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/01/idaga-falita_2724834fe93eb3dbf93cd9f5ba8d62af.jpeg?w=1200&dpr=1.0",
-      "summary": "पुणे से पटना जा रही इंडिगो उड़ान को लखनऊ में आपात लैंडिंग करनी पड़ी। पटना में खराब मौसम के कारण एयरलाइन ने यह फैसला लिया। यात्रियों को लखनऊ से आगे की यात्रा का इंतजाम करना होगा। Pune-Patna flight: पटना में खराब मौसम के चलते पुणे से पटना जा रही इंडिगो की एक उड़ान को अचानक लखनऊ डायवर्ट करना पड़ा। पुणे से पटना जा रही फ्लाइट की लखनऊ में आपात लैंडिंग, खराब मौसम के चलते लेना पड़ा ये फैसला।",
-      "region": "World",
+      "published_at": "2026-11-23T13:49:41+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/singapore-chicken-2026-11-5882282bc532fb69ef76283eba3ab162-1200x800.jpg",
+      "summary": "सिंगापुर की अदालत ने 19 फरवरी 2024 के सड़क हादसे के मुकदमे को खारिज कर दिया. ड्राइवर टैन टेंग किआट ने मुर्गे को बचाने के लिए ब्रेक लगाया था. इससे पैसेंजर इवोन चेन कियानयुन घायल हुईं. अदालत ने ड्राइवर को निर्दोष माना और महिला पर 15,000 सिंगापुर डॉलर का जुर्माना लगाया. सिंगापुर की एक अदालत ने 1 मुर्गे की वजह से हुए सड़क हादसे का अनोखा मुकदमा खारिज कर दिया है.",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पुणे से पटना जा रही फ्लाइट की लखनऊ में आपात लैंडिंग, खराब मौसम के चलते लेना पड़ा ये फैसला",
-          "summary": "पुणे से पटना जा रही इंडिगो उड़ान को लखनऊ में आपात लैंडिंग करनी पड़ी। पटना में खराब मौसम के कारण एयरलाइन ने यह फैसला लिया। यात्रियों को लखनऊ से आगे की यात्रा का इंतजाम करना होगा। Pune-Patna flight: पटना में खराब मौसम के चलते पुणे से पटना जा रही इंडिगो की एक उड़ान को अचानक लखनऊ डायवर्ट करना पड़ा। पुणे से पटना जा रही फ्लाइट की लखनऊ में आपात लैंडिंग, खराब मौसम के चलते लेना पड़ा ये फैसला।",
-          "region": "दुनिया"
+          "title": "1 मुर्गे ने मजे से सड़क पार की, ब्रेक लगने से महिला को लगी चोट, ऊपर से कोर्ट ने ठोका 10.79 लाख का",
+          "summary": "सिंगापुर की अदालत ने 19 फरवरी 2024 के सड़क हादसे के मुकदमे को खारिज कर दिया. ड्राइवर टैन टेंग किआट ने मुर्गे को बचाने के लिए ब्रेक लगाया था. इससे पैसेंजर इवोन चेन कियानयुन घायल हुईं. अदालत ने ड्राइवर को निर्दोष माना और महिला पर 15,000 सिंगापुर डॉलर का जुर्माना लगाया. सिंगापुर की एक अदालत ने 1 मुर्गे की वजह से हुए सड़क हादसे का अनोखा मुकदमा खारिज कर दिया है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "क्या आपको मिलेगी 25वीं किस्त या नहीं? ऐसे चेक करें अपनी पात्रता",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-25th-installment-check-whether-you-are-eligible-to-receive-the-next-2000-rupees-payment-2026-11-23",
-      "source": "Amar Ujala National",
+      "title": "घर की दीवार पर मारा हथौड़ा तो आई टन्न की आवाज, मिल गया 18 मंजिलों वाला शहर, लेकिन ये बनाया क्यों?",
+      "url": "https://hindi.news18.com/world/europe-turkey-derinkuyu-underground-city-discovery-20000-people-hidden-city-news-11007557.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-23T02:40:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/23/paema-kasana-yajana-ka-25va-kasata-kasa-malga_fd069f6d1ff18a0a97ea227dd1f92dad.jpeg?w=1200&dpr=1.0",
-      "summary": "पीएम किसान योजना की 25वीं किस्त के लिए पात्रता जांच जरूरी है। जरूरी शर्तें पूरी न होने पर किसान का नाम सूची से बाहर हो सकता है। इससे किस्त की राशि अटक सकती है। किसानों को ऑनलाइन पोर्टल पर स्थिति देखनी चाहिए। पीएम किसान योजना की अगली यानी 25वीं किस्त का इंतजार कर रहे किसानों के लिए पात्रता की जांच करना जरूरी है कुछ जरूरी शर्तें पूरी नहीं होने पर किसान का नाम लाभार्थी सूची से बाहर हो सकता है या किस्त अटक सकती है।",
+      "published_at": "2026-11-23T13:27:45+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/underground-city-2026-11-3b2f307481d74ecbaf340df3c93f5dae-1200x800.jpg",
+      "summary": "तुर्की के कप्पाडोसिया में 1960 के दशक में घर की मरम्मत के दौरान डेरिंकुयू भूमिगत शहर का पता चला। यह 85 मीटर गहरा और 18 स्तरों वाला संरचना है। इसमें एक समय में 20 हजार लोग रहने की क्षमता थी। तुर्की के कप्पाडोसिया में डेरिंकुयू नाम का एक विशाल भूमिगत शहर 1960 के दशक में एक स्थानीय शख्स को अपने घर की मरम्मत के दौरान मिला था.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "घर की दीवार पर मारा हथौड़ा तो आई टन्न की आवाज, मिल गया 18 मंजिलों वाला शहर, लेकिन ये बनाया क्यों?",
+          "summary": "तुर्की के कप्पाडोसिया में 1960 के दशक में घर की मरम्मत के दौरान डेरिंकुयू भूमिगत शहर का पता चला। यह 85 मीटर गहरा और 18 स्तरों वाला संरचना है। इसमें एक समय में 20 हजार लोग रहने की क्षमता थी। तुर्की के कप्पाडोसिया में डेरिंकुयू नाम का एक विशाल भूमिगत शहर 1960 के दशक में एक स्थानीय शख्स को अपने घर की मरम्मत के दौरान मिला था.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "सऊदी अरब ने की यमन में एयरस्ट्राइक, 10 लोगों की मौत और 20 घायल",
+      "url": "https://www.patrika.com/world-news/saudi-arabia-airstrike-in-hodeidah-of-yemen-killed-10-people-and-injured-20-others-21079997",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-23T13:08:06+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/saudi-arabia-attacks-sanaa.webp",
+      "summary": "सऊदी अरब ने यमन के होदेइदाह शहर पर हूती विद्रोहियों के हमलों के जवाब में एयरस्ट्राइक की। इस हमले में 10 लोगों की मौत हो गई और 20 लोग घायल हुए। यह कार्रवाई दोनों देशों के बीच बढ़ते तनाव के बीच हुई। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। हूती लगातार हमलों के ज़रिए देश की सरकारी सेना पर दबाव बढ़ा रहे हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सऊदी अरब ने की यमन में एयरस्ट्राइक, 10 लोगों की मौत और 20 घायल",
+          "summary": "सऊदी अरब ने यमन के होदेइदाह शहर पर हूती विद्रोहियों के हमलों के जवाब में एयरस्ट्राइक की। इस हमले में 10 लोगों की मौत हो गई और 20 लोग घायल हुए। यह कार्रवाई दोनों देशों के बीच बढ़ते तनाव के बीच हुई। यमन (Yemen) के हूती विद्रोहियों (Houthis) और देश की सरकारी सेना के बीच जंग जारी है। हूती लगातार हमलों के ज़रिए देश की सरकारी सेना पर दबाव बढ़ा रहे हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीनी दूतावास का अफसर बना दुश्मन का जासूस, शी जिनपिंग ने दे दी फांसी की सजा",
+      "url": "https://hindi.news18.com/world/china-official-sentenced-to-death-for-spying-foreign-intelligence-11007443.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T13:01:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/china-xi-jinping-2026-11-beb59359a11528c4735880a4d21d6eaf-1200x800.jpg",
+      "summary": "चीन ने जासूसी के आरोप में एक सरकारी अफसर को फांसी की सजा सुनाई। इस अफसर पर विदेशी खुफिया एजेंसी को 100 से ज्यादा गोपनीय जानकारियां देने का आरोप है। उसे ब्लैकमेल करके जासूसी के लिए मजबूर किया गया था। चीन में जासूसी के आरोप में एक सरकारी अफसर को मौत की सजा सुनाई गई है. रिपोर्ट के मुताबिक, विदेश में तैनाती के दौरान उसकी दोस्ती एक विदेशी खुफिया अधिकारी से हुई थी.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीनी दूतावास का अफसर बना दुश्मन का जासूस, शी जिनपिंग ने दे दी फांसी की सजा",
+          "summary": "चीन ने जासूसी के आरोप में एक सरकारी अफसर को फांसी की सजा सुनाई। इस अफसर पर विदेशी खुफिया एजेंसी को 100 से ज्यादा गोपनीय जानकारियां देने का आरोप है। उसे ब्लैकमेल करके जासूसी के लिए मजबूर किया गया था। चीन में जासूसी के आरोप में एक सरकारी अफसर को मौत की सजा सुनाई गई है. रिपोर्ट के मुताबिक, विदेश में तैनाती के दौरान उसकी दोस्ती एक विदेशी खुफिया अधिकारी से हुई थी.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "खुद को सोनिया के इटली वाले घर का सेवादार बता रहा यह शख्स कौन? कैसे जुड़ा है गांधी परिवार से",
+      "url": "https://hindi.news18.com/news/nation/sonia-gandhi-italy-home-who-is-sukhdev-singh-kang-bought-property-now-wants-collectibles-from-family-to-turn-it-into-a-museum-11007358.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T12:14:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Sonia_Gandhi_Italy_House_News-2026-11-9688c43c51f2a6e5cc2ebf4fb8667552-1200x800.jpg",
+      "summary": "इटली के लुसियाना गांव में सोनिया गांधी के पुश्तैनी घर को म्यूजियम बनाने की तैयारी चल रही है। 52 वर्षीय सिख कारोबारी सुखदेव सिंह कांग ने 2020 में यह प्रॉपर्टी खरीदी थी। वह सालाना 1000 यूरो खर्च कर इसकी देखभाल करता है। Sonia Gandhi Italy Home: इटली के लुसियाना गांव में स्थित कांग्रेस नेता सोनिया गांधी के 6 कमरों वाले पुश्तैनी घर को म्यूजियम में बदलने की तैयारी चल रही है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "क्या आपको मिलेगी 25वीं किस्त या नहीं? ऐसे चेक करें अपनी पात्रता",
-          "summary": "पीएम किसान योजना की 25वीं किस्त के लिए पात्रता जांच जरूरी है। जरूरी शर्तें पूरी न होने पर किसान का नाम सूची से बाहर हो सकता है। इससे किस्त की राशि अटक सकती है। किसानों को ऑनलाइन पोर्टल पर स्थिति देखनी चाहिए। पीएम किसान योजना की अगली यानी 25वीं किस्त का इंतजार कर रहे किसानों के लिए पात्रता की जांच करना जरूरी है कुछ जरूरी शर्तें पूरी नहीं होने पर किसान का नाम लाभार्थी सूची से बाहर हो सकता है या किस्त अटक सकती है।",
+          "title": "खुद को सोनिया के इटली वाले घर का सेवादार बता रहा यह शख्स कौन? कैसे जुड़ा है गांधी परिवार से",
+          "summary": "इटली के लुसियाना गांव में सोनिया गांधी के पुश्तैनी घर को म्यूजियम बनाने की तैयारी चल रही है। 52 वर्षीय सिख कारोबारी सुखदेव सिंह कांग ने 2020 में यह प्रॉपर्टी खरीदी थी। वह सालाना 1000 यूरो खर्च कर इसकी देखभाल करता है। Sonia Gandhi Italy Home: इटली के लुसियाना गांव में स्थित कांग्रेस नेता सोनिया गांधी के 6 कमरों वाले पुश्तैनी घर को म्यूजियम में बदलने की तैयारी चल रही है.",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "गालिबाफ ने कहा- न जंग, न शांति की स्थिति खत्म करने के लिए ठोस कदम जरूरी; ट्रंप क्या बोले?",
-      "url": "https://www.amarujala.com/world/iran-needs-clear-and-operational-approach-to-end-neither-war-nor-peace-situation-parliament-speaker-ghalibaf-2026-11-23",
-      "source": "Amar Ujala World",
+      "title": "पुतिन की नेवी का नया खिलाड़ी 3 साल में ही ढेर, यूक्रेन ने लीबिया जाकर क्यों डुबोया?",
+      "url": "https://hindi.news18.com/world/rest-of-world-ukraine-drone-attack-russian-warship-libya-benghazi-zelensky-photogallery-11007255.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-23T02:38:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/04/18/us-iran-conflict_944563baf47d7d6e8f53447d5e825668.jpeg?w=1200&dpr=1.0",
-      "summary": "ईरान के गालिबाफ ने कहा कि न जंग न शांति की स्थिति खत्म करने के लिए ठोस कदम उठाना होगा। अमेरिका के ट्रंप ने भी इस संघर्ष पर अपनी प्रतिक्रिया दी है। दोनों देशों के बीच तनाव जारी है। ईरान-अमेरिका संघर्ष: गालिबाफ ने कहा- न जंग, न शांति की स्थिति खत्म करने के लिए ठोस कदम जरूरी; ट्रंप क्या बोले?",
+      "published_at": "2026-11-23T12:05:25+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/russia-attack-2-2026-11-a1e50215a8e2fa33cb69accb32d323f9-1200x800.jpg",
+      "summary": "यूक्रेन ने दावा किया कि सात समुद्री ड्रोन से हमला कर रूसी युद्धपोत मर्करी को डुबोया गया। यह घटना लीबिया के बेंगाजी बंदरगाह पर हुई। साथ ही रूसी हेलिकॉप्टर और कार्गो जहाज एमवी अंगारा भी निशाने पर आए। लीबिया के बेंगाजी बंदरगाह पर रूसी युद्धपोत ‘मर्करी’ डूबने के बाद रूस-यूक्रेन युद्ध को लेकर नई चर्चा शुरू हो गई है. यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने दावा किया कि सात समुद्री ड्रोन से हमला कर युद्धपोत को डुबोया गया.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "गालिबाफ ने कहा- न जंग, न शांति की स्थिति खत्म करने के लिए ठोस कदम जरूरी; ट्रंप क्या बोले?",
-          "summary": "ईरान के गालिबाफ ने कहा कि न जंग न शांति की स्थिति खत्म करने के लिए ठोस कदम उठाना होगा। अमेरिका के ट्रंप ने भी इस संघर्ष पर अपनी प्रतिक्रिया दी है। दोनों देशों के बीच तनाव जारी है। ईरान-अमेरिका संघर्ष: गालिबाफ ने कहा- न जंग, न शांति की स्थिति खत्म करने के लिए ठोस कदम जरूरी; ट्रंप क्या बोले?",
+          "title": "पुतिन की नेवी का नया खिलाड़ी 3 साल में ही ढेर, यूक्रेन ने लीबिया जाकर क्यों डुबोया?",
+          "summary": "यूक्रेन ने दावा किया कि सात समुद्री ड्रोन से हमला कर रूसी युद्धपोत मर्करी को डुबोया गया। यह घटना लीबिया के बेंगाजी बंदरगाह पर हुई। साथ ही रूसी हेलिकॉप्टर और कार्गो जहाज एमवी अंगारा भी निशाने पर आए। लीबिया के बेंगाजी बंदरगाह पर रूसी युद्धपोत ‘मर्करी’ डूबने के बाद रूस-यूक्रेन युद्ध को लेकर नई चर्चा शुरू हो गई है. यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने दावा किया कि सात समुद्री ड्रोन से हमला कर युद्धपोत को डुबोया गया.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "नवंबर के आखिरी वीक में होगा धमाका, 'हनुमान अंश' से 'ढाई चाल' तक ये फिल्में-सीरीज देंगी दस्तक",
-      "url": "https://www.amarujala.com/entertainment/ott-release-this-week-hanuman-ansh-to-dhai-chaal-blade-runner-these-movies-and-series-to-stream-2026-11-22",
-      "source": "Amar Ujala National",
+      "title": "जहां सूरज की रोशनी तक नहीं पहुंचती, वहां फटा था ज्वालामुखी, मारियाना ट्रेंच में मिला सबूत",
+      "url": "https://hindi.news18.com/world/rest-of-world-scientists-found-volcanic-eruption-rocks-20000-feet-deep-in-the-mariana-trench-challenger-deep-mystery-11007134.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-23T02:22:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/22/otata-ralja_bdec6cc28b910dd7ed8691a4f3708d13.jpeg?w=1200&dpr=1.0",
-      "summary": "नवंबर के आखिरी सप्ताह में कई नई फिल्में और सीरीज ओटीटी पर रिलीज होंगी। ब्लॉकबस्टर 'हनुमान अंश' इसी सप्ताह डिजिटल प्लेटफॉर्म पर उपलब्ध होगी। दर्शकों के लिए मनोरंजन के कई विकल्प आ रहे हैं। OTT Release This Week: नवंबर का आखिरी वीक एंटरटेनमेंट के शौकीनों के लिए खास होने वाला है। कई दिलचस्प फिल्मों और सीरीज की आमद होगी। ब्लॉकस्टर फिल्म 'हनुमान अंश' भी इस सप्ताह ओटीटी पर उपलब्ध होगी।",
+      "published_at": "2026-11-23T10:50:33+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/ai-genrated-mariana-2026-11-6f171d654140d84f4113659b42c2a913-1200x800.jpg",
+      "summary": "प्रशांत महासागर की मारियाना ट्रेंच में वैज्ञानिकों ने 20 हजार फीट गहराई पर ज्वालामुखी विस्फोट के सबूत पाए। रोबोटिक पनडुब्बी जेसन/मेडिया ने तेज गर्म मलबे से बनी चट्टानें खोजीं। यह समुद्र में इतनी गहराई पर मिलने वाला पहला दर्ज मामला है। प्रशांत महासागर की मारियाना ट्रेंच में वैज्ञानिकों को समुद्र की सतह से करीब 20 हजार फीट नीचे ज्वालामुखी विस्फोट के सबूत मिले हैं.",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "नवंबर के आखिरी वीक में होगा धमाका, 'हनुमान अंश' से 'ढाई चाल' तक ये फिल्में-सीरीज देंगी दस्तक",
-          "summary": "नवंबर के आखिरी सप्ताह में कई नई फिल्में और सीरीज ओटीटी पर रिलीज होंगी। ब्लॉकबस्टर 'हनुमान अंश' इसी सप्ताह डिजिटल प्लेटफॉर्म पर उपलब्ध होगी। दर्शकों के लिए मनोरंजन के कई विकल्प आ रहे हैं। OTT Release This Week: नवंबर का आखिरी वीक एंटरटेनमेंट के शौकीनों के लिए खास होने वाला है। कई दिलचस्प फिल्मों और सीरीज की आमद होगी। ब्लॉकस्टर फिल्म 'हनुमान अंश' भी इस सप्ताह ओटीटी पर उपलब्ध होगी।",
+          "title": "जहां सूरज की रोशनी तक नहीं पहुंचती, वहां फटा था ज्वालामुखी, मारियाना ट्रेंच में मिला सबूत",
+          "summary": "प्रशांत महासागर की मारियाना ट्रेंच में वैज्ञानिकों ने 20 हजार फीट गहराई पर ज्वालामुखी विस्फोट के सबूत पाए। रोबोटिक पनडुब्बी जेसन/मेडिया ने तेज गर्म मलबे से बनी चट्टानें खोजीं। यह समुद्र में इतनी गहराई पर मिलने वाला पहला दर्ज मामला है। प्रशांत महासागर की मारियाना ट्रेंच में वैज्ञानिकों को समुद्र की सतह से करीब 20 हजार फीट नीचे ज्वालामुखी विस्फोट के सबूत मिले हैं.",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "लीबिया के तट पर यूक्रेन का बड़ा हमला, रूस का युद्धपोत मर्करी डुबोया; जेलेंस्की ने जारी किया ऑपरेशन",
+      "url": "https://www.patrika.com/world-news/ukraine-sinks-russian-warship-merkury-off-libya-zelenskyy-releases-drone-attack-video-21079544",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-23T10:01:21+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Ukraine-Russia-War.webp",
+      "summary": "यूक्रेन ने लीबिया के तट पर रूसी युद्धपोत मर्करी को डुबोने का दावा किया। राष्ट्रपति जेलेंस्की ने सात नौसैनिक ड्रोन के उपयोग की पुष्टि की। इसी अभियान में रूस के एक मालवाहक जहाज पर भी हमला किया गया। यूक्रेन ने लीबिया के तट के पास रूसी नौसेना के युद्धपोत को निशाना बनाकर डुबोने का दावा किया है। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने सोमवार को इसकी पुष्टि करते हुए बताया कि यूक्रेनी सेना ने अपने देश में निर्मित सात नौसैनिक ड्रोन की मदद से रूसी युद्धपोत मर्करी को समुद्र में डुबो दिया।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "लीबिया के तट पर यूक्रेन का बड़ा हमला, रूस का युद्धपोत मर्करी डुबोया; जेलेंस्की ने जारी किया ऑपरेशन",
+          "summary": "यूक्रेन ने लीबिया के तट पर रूसी युद्धपोत मर्करी को डुबोने का दावा किया। राष्ट्रपति जेलेंस्की ने सात नौसैनिक ड्रोन के उपयोग की पुष्टि की। इसी अभियान में रूस के एक मालवाहक जहाज पर भी हमला किया गया। यूक्रेन ने लीबिया के तट के पास रूसी नौसेना के युद्धपोत को निशाना बनाकर डुबोने का दावा किया है। यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की ने सोमवार को इसकी पुष्टि करते हुए बताया कि यूक्रेनी सेना ने अपने देश में निर्मित सात नौसैनिक ड्रोन की मदद से रूसी युद्धपोत मर्करी को समुद्र में डुबो दिया।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "पैंट की तरह चर्र से फट सकता है ब्लैक होल, वैज्ञानिकों ने बताई अंतरिक्ष के दानव की कमजोरी, नई रिसर्च",
+      "url": "https://hindi.news18.com/world/america-can-black-holes-split-into-smaller-black-holes-new-research-paper-of-pants-photogallery-11006990.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T09:54:10+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/black-hole-thumb-2026-11-c9674a3f9d5cf9c400e364b918da4a80-1200x800.jpg",
+      "summary": "नई रिसर्च में वैज्ञानिकों ने ब्लैक होल के टूटने की संभावना पर काम किया। कंप्यूटर मॉडल बताते हैं कि तेज गति से घूमने पर यह छोटे ब्लैक होल में बंट सकता है। यह प्रक्रिया कुछ खास सैद्धांतिक मॉडलों में ही संभव है। Black Hole Split Theory: ब्लैक होल को अब तक अंतरिक्ष की ऐसी ताकत माना जाता रहा है, जो आसपास की हर चीज को निगल सकती है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पैंट की तरह चर्र से फट सकता है ब्लैक होल, वैज्ञानिकों ने बताई अंतरिक्ष के दानव की कमजोरी, नई रिसर्च",
+          "summary": "नई रिसर्च में वैज्ञानिकों ने ब्लैक होल के टूटने की संभावना पर काम किया। कंप्यूटर मॉडल बताते हैं कि तेज गति से घूमने पर यह छोटे ब्लैक होल में बंट सकता है। यह प्रक्रिया कुछ खास सैद्धांतिक मॉडलों में ही संभव है। Black Hole Split Theory: ब्लैक होल को अब तक अंतरिक्ष की ऐसी ताकत माना जाता रहा है, जो आसपास की हर चीज को निगल सकती है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "मरकर दोबारा जिंदा हुई महिला, सुनाई दूसरी दुनिया की कहानी, क्या है तेज रोशनी, फरिश्ते और भगवान का सच?",
+      "url": "https://hindi.news18.com/world/rest-of-world-woman-comes-alive-after-death-in-car-crash-tells-how-heaven-looks-heard-god-voice-life-after-death-11006965.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T09:22:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/woman-death-2026-11-85c9425b9ae0abd2fa6d22dfa00ed65d-1200x800.jpg",
+      "summary": "एक महिला ने कार दुर्घटना में मरने के कुछ देर बाद जीवित होने का अनुभव साझा किया। उसने दूसरी दुनिया से जुड़ी रोशनी और आध्यात्मिक दृश्यों का वर्णन किया। यह घटना मृत्यु के बाद के अनुभवों पर नई चर्चा शुरू करती है। Woman Gets Alive After Death: इंसान का जीना और मरना तो अटल सत्य है लेकिन कई बार कुछ ऐसा भी हो जाता है, जो सोच से परे हो.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मरकर दोबारा जिंदा हुई महिला, सुनाई दूसरी दुनिया की कहानी, क्या है तेज रोशनी, फरिश्ते और भगवान का सच?",
+          "summary": "एक महिला ने कार दुर्घटना में मरने के कुछ देर बाद जीवित होने का अनुभव साझा किया। उसने दूसरी दुनिया से जुड़ी रोशनी और आध्यात्मिक दृश्यों का वर्णन किया। यह घटना मृत्यु के बाद के अनुभवों पर नई चर्चा शुरू करती है। Woman Gets Alive After Death: इंसान का जीना और मरना तो अटल सत्य है लेकिन कई बार कुछ ऐसा भी हो जाता है, जो सोच से परे हो.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "चीन नहीं भेज रहा जासूस, बनाया ऐसा जाल कि लोग खुद दे रहे अपने देश के राज, भारत भी रहे अलर्ट",
+      "url": "https://hindi.news18.com/world/china-how-chinese-spy-network-operate-fake-jobs-us-officials-alice-huang-nvidia-case-india-should-alert-11006940.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T09:13:32+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/china-fake-job-1-2026-11-b2023d7cf37ca13b2ea5b7bdb04672e3-1200x800.jpg",
+      "summary": "अमेरिका में चीन से जुड़े जासूसी नेटवर्क का खुलासा हुआ। फर्जी कंसल्टेंसी कंपनियां लिंकडइन पर नौकरी के बहाने संवेदनशील जानकारी जुटा रही थीं। एफबीआई ने 13 वेबसाइटें बंद कीं और 100 से अधिक संदिग्ध डोमेन पहचाने। अमेरिका में चीन से जुड़े कथित जासूसी नेटवर्क का बड़ा खुलासा हुआ है. आरोप है कि फर्जी कंसल्टेंसी कंपनियां LinkedIn पर नौकरी के ऑफर देकर अमेरिकी अधिकारियों, पूर्व सैनिकों और विशेषज्ञों से संवेदनशील जानकारी जुटाने की कोशिश कर रही हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन नहीं भेज रहा जासूस, बनाया ऐसा जाल कि लोग खुद दे रहे अपने देश के राज, भारत भी रहे अलर्ट",
+          "summary": "अमेरिका में चीन से जुड़े जासूसी नेटवर्क का खुलासा हुआ। फर्जी कंसल्टेंसी कंपनियां लिंकडइन पर नौकरी के बहाने संवेदनशील जानकारी जुटा रही थीं। एफबीआई ने 13 वेबसाइटें बंद कीं और 100 से अधिक संदिग्ध डोमेन पहचाने। अमेरिका में चीन से जुड़े कथित जासूसी नेटवर्क का बड़ा खुलासा हुआ है. आरोप है कि फर्जी कंसल्टेंसी कंपनियां LinkedIn पर नौकरी के ऑफर देकर अमेरिकी अधिकारियों, पूर्व सैनिकों और विशेषज्ञों से संवेदनशील जानकारी जुटाने की कोशिश कर रही हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "SP को सजा देने वाला सेशन जज को CJI की बेंच ने फटकारा, 'दायरा समझें, बाहुबली बनने की...'",
+      "url": "https://www.abplive.com/news/india/supreme-court-raps-a-bihar-sessions-judge-anil-kumar-who-convicted-rohtas-sp-stop-acting-like-a-baahubali-3218402",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-23T08:43:25+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/23/f39f37d71ef64160a85270948d59e64e1795423185078124_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सुप्रीम कोर्ट की सीजीआई सूर्य कांत की बेंच ने बिहार के सासाराम अतिरिक्त सत्र न्यायाधीश अनिल कुमार को फटकारा। जज ने रोहतास पुलिस सुपरिटेंडेंट रौशन कुमार को अवमानना के लिए एक रुपये का जुर्माना लगाया था। कोर्ट ने जज के कानून की समझ और आदेश पर सवाल उठाए। सुप्रीम कोर्ट ने बिहार के सासाराम के अतिरिक्त सत्र न्यायाधीश अनिल कुमार को एक मामले में कड़ी फटकार लगाई है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "SP को सजा देने वाला सेशन जज को CJI की बेंच ने फटकारा, 'दायरा समझें, बाहुबली बनने की...'",
+          "summary": "सुप्रीम कोर्ट की सीजीआई सूर्य कांत की बेंच ने बिहार के सासाराम अतिरिक्त सत्र न्यायाधीश अनिल कुमार को फटकारा। जज ने रोहतास पुलिस सुपरिटेंडेंट रौशन कुमार को अवमानना के लिए एक रुपये का जुर्माना लगाया था। कोर्ट ने जज के कानून की समझ और आदेश पर सवाल उठाए। सुप्रीम कोर्ट ने बिहार के सासाराम के अतिरिक्त सत्र न्यायाधीश अनिल कुमार को एक मामले में कड़ी फटकार लगाई है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पीएम मोदी का बजा डंका, बने एशिया के दूसरे प्रभावशाली नेता, लोवी इंस्टीट्यूट ने जारी की लिस्ट",
+      "url": "https://hindi.news18.com/world/south-asia-pm-modi-becomes-second-powerful-leader-in-asia-after-chinese-president-xi-jinping-ws-l-11006834.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T08:36:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/PM-Modi-1-2026-11-dfb9e3bdf121bad34af70e72081d1dc2-1200x800.jpg",
+      "summary": "ऑस्ट्रेलिया के लोवी इंस्टीट्यूट की रिपोर्ट ने प्रधानमंत्री नरेंद्र मोदी को एशिया के दूसरे सबसे प्रभावशाली नेता घोषित किया है। इस सूची में भारत को टॉप थ्री में शामिल किया गया है। रिपोर्ट ने क्षेत्रीय शक्ति के संदर्भ में मोदी की स्थिति को उजागर किया। PM Modi Powerful Leader in Asia: एशिया में अगर सबसे प्रभावशाली देशों की बात होती है तो इसमें भारत का नाम टॉप थ्री में शामिल हो जाता है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पीएम मोदी का बजा डंका, बने एशिया के दूसरे प्रभावशाली नेता, लोवी इंस्टीट्यूट ने जारी की लिस्ट",
+          "summary": "ऑस्ट्रेलिया के लोवी इंस्टीट्यूट की रिपोर्ट ने प्रधानमंत्री नरेंद्र मोदी को एशिया के दूसरे सबसे प्रभावशाली नेता घोषित किया है। इस सूची में भारत को टॉप थ्री में शामिल किया गया है। रिपोर्ट ने क्षेत्रीय शक्ति के संदर्भ में मोदी की स्थिति को उजागर किया। PM Modi Powerful Leader in Asia: एशिया में अगर सबसे प्रभावशाली देशों की बात होती है तो इसमें भारत का नाम टॉप थ्री में शामिल हो जाता है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रूस का जंगी जहाज लीबिया में भी सुरक्षित नहीं, 1600 KM दूर यूक्रेन ने समंदर में डुबोया, पुतिन को",
+      "url": "https://hindi.news18.com/world/europe-russian-ukriane-war-russian-warship-sinks-libya-benghazi-ukraine-sea-drone-attack-11006656.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T08:25:12+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/ukraine-6-2026-11-e45b8f2f8a64313c1e6b37ca081e40b5-1200x800.jpg",
+      "summary": "लीबिया के बेंगाजी बंदरगाह पर रूस का युद्धपोत मर्करी डूब गया। अधिकारियों का मानना है कि यूक्रेन के समुद्री ड्रोन ने जहाज पर हमला किया। चार ड्रोन नष्ट हुए और दो जहाज से टकराए। हमले के बाद चालक दल को सुरक्षित बचा लिया गया। Russia Ukraine War News: लीबिया के बेंगाजी बंदरगाह पर रूस का युद्धपोत मर्करी रविवार तड़के हुए भीषण धमाके के बाद डूब गया.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस का जंगी जहाज लीबिया में भी सुरक्षित नहीं, 1600 KM दूर यूक्रेन ने समंदर में डुबोया, पुतिन को",
+          "summary": "लीबिया के बेंगाजी बंदरगाह पर रूस का युद्धपोत मर्करी डूब गया। अधिकारियों का मानना है कि यूक्रेन के समुद्री ड्रोन ने जहाज पर हमला किया। चार ड्रोन नष्ट हुए और दो जहाज से टकराए। हमले के बाद चालक दल को सुरक्षित बचा लिया गया। Russia Ukraine War News: लीबिया के बेंगाजी बंदरगाह पर रूस का युद्धपोत मर्करी रविवार तड़के हुए भीषण धमाके के बाद डूब गया.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "ध्रुव राठी के खिलाफ गैर-जमानती वारंट जारी, क्या है आरोप?",
+      "url": "https://www.abplive.com/news/india/dhruv-rathee-delhi-court-issues-non-bailable-warrant-3218392",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-23T08:23:10+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/23/e790e6acc7e5445c3a0908ccc3134e921795422095256124_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "साकेत कोर्ट ने 2018 के मानहानि मामले में ध्रुव राठी के खिलाफ गैर-जमानती वारंट जारी किया है। शिकायतकर्ता विकास सांस्कृत्यायन का आरोप है कि राठी ने बीजेपी आईटी सेल पार्ट टू वीडियो में झूठे आरोप लगाए। जर्मनी में रहने वाले राठी के खिलाफ यह कार्रवाई सोमवार को हुई। साल 2018 के मानहानि मामले में साकेत कोर्ट ने ध्रुव राठी के खिलाफ गैर-जमानती वारंट जारी किया है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ध्रुव राठी के खिलाफ गैर-जमानती वारंट जारी, क्या है आरोप?",
+          "summary": "साकेत कोर्ट ने 2018 के मानहानि मामले में ध्रुव राठी के खिलाफ गैर-जमानती वारंट जारी किया है। शिकायतकर्ता विकास सांस्कृत्यायन का आरोप है कि राठी ने बीजेपी आईटी सेल पार्ट टू वीडियो में झूठे आरोप लगाए। जर्मनी में रहने वाले राठी के खिलाफ यह कार्रवाई सोमवार को हुई। साल 2018 के मानहानि मामले में साकेत कोर्ट ने ध्रुव राठी के खिलाफ गैर-जमानती वारंट जारी किया है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "PM मोदी ने की बालेन शाह की तारीफ, बोले- 'उनके पास क्लियर विजन', दिया 24 हजार करोड़ का पैकेज",
+      "url": "https://www.abplive.com/news/india/nepal-pm-balen-shah-meet-pm-modi-bilateral-meeting-3218384",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-23T08:13:57+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/23/3e13bc32352ca2ccef98d2cb1bd29d461795422084003355_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "नेपाल के प्रधानमंत्री बालेन शाह की पहली राजकीय यात्रा में दिल्ली में पीएम मोदी से मुलाकात हुई। दोनों ने अयोध्या-जनकपुर ट्रेन को हरी झंडी दिखाई। मोदी ने शाह की दूरदर्शिता की तारीफ की और 24 हजार करोड़ रुपये का पैकेज दिया। नेपाल के प्रधानमंत्री बालेन शाह पहली राजकीय यात्रा पर दिल्ली में हैं. पीएम बालेन शाह और पीएम के बीच दिल्ली के हैदराबाद हाउस में द्विपक्षीय बातचीत हुई.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PM मोदी ने की बालेन शाह की तारीफ, बोले- 'उनके पास क्लियर विजन', दिया 24 हजार करोड़ का पैकेज",
+          "summary": "नेपाल के प्रधानमंत्री बालेन शाह की पहली राजकीय यात्रा में दिल्ली में पीएम मोदी से मुलाकात हुई। दोनों ने अयोध्या-जनकपुर ट्रेन को हरी झंडी दिखाई। मोदी ने शाह की दूरदर्शिता की तारीफ की और 24 हजार करोड़ रुपये का पैकेज दिया। नेपाल के प्रधानमंत्री बालेन शाह पहली राजकीय यात्रा पर दिल्ली में हैं. पीएम बालेन शाह और पीएम के बीच दिल्ली के हैदराबाद हाउस में द्विपक्षीय बातचीत हुई.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "एशिया पावर इंडेक्स 2026 में भारत कहां मजबूत, किधर कमजोर? मोदी की लीडरशिप से इकोनॉमी तक",
+      "url": "https://www.abplive.com/news/india/asia-power-index-2026-india-rank-where-strongest-and-lag-behind-pm-modi-defence-economy-lowy-institute-explained-3218335",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-23T08:09:00+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/23/356b2f252f30e0805be262b718218e8917954176945991317_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लोवी इंस्टीट्यूट की एशिया पावर इंडेक्स 2026 रिपोर्ट में भारत ने तीसरे स्थान पर अपनी पकड़ मजबूत की है। 27 देशों की 131 संकेतकों पर परख के बाद भारत का कुल पावर स्कोर बढ़ा है। यह आर्थिक और सैन्य क्षमता दोनों में सुधार को दर्शाता है। ऑस्ट्रेलिया के थिंक टैंक लोवी इंस्टीट्यूट की ओर से हर साल जारी होने वाली एशिया पावर इंडेक्स 2026 की रिपोर्ट आ गई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एशिया पावर इंडेक्स 2026 में भारत कहां मजबूत, किधर कमजोर? मोदी की लीडरशिप से इकोनॉमी तक",
+          "summary": "लोवी इंस्टीट्यूट की एशिया पावर इंडेक्स 2026 रिपोर्ट में भारत ने तीसरे स्थान पर अपनी पकड़ मजबूत की है। 27 देशों की 131 संकेतकों पर परख के बाद भारत का कुल पावर स्कोर बढ़ा है। यह आर्थिक और सैन्य क्षमता दोनों में सुधार को दर्शाता है। ऑस्ट्रेलिया के थिंक टैंक लोवी इंस्टीट्यूट की ओर से हर साल जारी होने वाली एशिया पावर इंडेक्स 2026 की रिपोर्ट आ गई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "'मैं आपका मेहमान, दिल चीर के...', हाथ काटने वाले बयान पर भारत पहुंचे पाकिस्तानी मंत्री क्या बोले?",
+      "url": "https://www.abplive.com/news/india/pakistan-musadik-malik-in-new-delhi-sco-what-said-on-indus-water-issue-3218369",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-23T08:06:04+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/23/12b6b21109732fbe52a37bd09472fc7117954204853281200_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "पाकिस्तान के जलवायु मंत्री मुसादिक मलिक दिल्ली में सभ्यता संवाद मंच में शामिल हुए। भारतीय पत्रकारों के आतंकवाद और इंडस वाटर संधि से जुड़े सवालों पर उन्होंने सीधा जवाब नहीं दिया। हाफिज सईद और मसूद अजहर के सौपने के प्रश्न पर भी वे चुप रहे। शंघाई सहयोग संगठन (एससीओ) के मद्देनजर दिल्ली में आयोजित सभ्यता संवाद मंच में भाग लेने आए पाकिस्तानी मंत्री मुसादिक मलिक अपने बयानों को लेकर फिर चर्चा में हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'मैं आपका मेहमान, दिल चीर के...', हाथ काटने वाले बयान पर भारत पहुंचे पाकिस्तानी मंत्री क्या बोले?",
+          "summary": "पाकिस्तान के जलवायु मंत्री मुसादिक मलिक दिल्ली में सभ्यता संवाद मंच में शामिल हुए। भारतीय पत्रकारों के आतंकवाद और इंडस वाटर संधि से जुड़े सवालों पर उन्होंने सीधा जवाब नहीं दिया। हाफिज सईद और मसूद अजहर के सौपने के प्रश्न पर भी वे चुप रहे। शंघाई सहयोग संगठन (एससीओ) के मद्देनजर दिल्ली में आयोजित सभ्यता संवाद मंच में भाग लेने आए पाकिस्तानी मंत्री मुसादिक मलिक अपने बयानों को लेकर फिर चर्चा में हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "405 टन घातक केमिकल, लाखों सिम, बांग्लादेश को चीन का सीक्रेट गिफ्ट, कैसे मुस्लिम देश ने बिगाड़ दिया",
+      "url": "https://hindi.news18.com/world/south-asia-china-bangladesh-bound-secret-ship-with-405-tonnes-sodium-perchlorate-intercept-by-indonesia-11006680.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-23T08:05:01+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/cargo-ship-2026-11-fe9c88c24aa715eea96179cd78bb77ad-1200x800.jpg",
+      "summary": "इंडोनेशिया ने एक जहाज को रोककर 405 टन घातक केमिकल और लाखों सिम कार्ड जब्त किए। यह कार्गो चीन से बांग्लादेश के लिए भेजा जा रहा था। अब तक इस खेप के मालिक की पहचान नहीं हो सकी है। China-Bangladesh Secret Ship: बांग्लादेश और चीन से जुड़ी हुई एक ऐसी खबर सामने आ रही है, जो कान खड़े करने वाली है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "405 टन घातक केमिकल, लाखों सिम, बांग्लादेश को चीन का सीक्रेट गिफ्ट, कैसे मुस्लिम देश ने बिगाड़ दिया",
+          "summary": "इंडोनेशिया ने एक जहाज को रोककर 405 टन घातक केमिकल और लाखों सिम कार्ड जब्त किए। यह कार्गो चीन से बांग्लादेश के लिए भेजा जा रहा था। अब तक इस खेप के मालिक की पहचान नहीं हो सकी है। China-Bangladesh Secret Ship: बांग्लादेश और चीन से जुड़ी हुई एक ऐसी खबर सामने आ रही है, जो कान खड़े करने वाली है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "गोधरा ट्रेन अग्निकांड के दोषी इरफान सिराज को जमानत, उम्रकैद की सजा निलंबित",
+      "url": "https://www.abplive.com/news/india/godhra-train-burning-case-irfan-siraj-pada-supreme-court-bail-suspended-ann-3218375",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-23T08:00:57+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/23/4e50597721060f58e15d41323a71a6b417954211546141115_original.png?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सुप्रीम कोर्ट ने गोधरा ट्रेन अग्निकांड के दोषी इरफान सिराज पाड़ा की उम्रकैद की सजा निलंबित कर दी है। मेडिकल आधार पर उन्हें जमानत दी गई है। वह 2011 से जेल में बंद थे और 31 दोषियों में शामिल थे। सुप्रीम कोर्ट ने 2002 के गोधरा ट्रेन अग्निकांड के एक दोषी इरफान सिराज पाड़ा की उम्र कैद की सजा निलंबित कर दी है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "गोधरा ट्रेन अग्निकांड के दोषी इरफान सिराज को जमानत, उम्रकैद की सजा निलंबित",
+          "summary": "सुप्रीम कोर्ट ने गोधरा ट्रेन अग्निकांड के दोषी इरफान सिराज पाड़ा की उम्रकैद की सजा निलंबित कर दी है। मेडिकल आधार पर उन्हें जमानत दी गई है। वह 2011 से जेल में बंद थे और 31 दोषियों में शामिल थे। सुप्रीम कोर्ट ने 2002 के गोधरा ट्रेन अग्निकांड के एक दोषी इरफान सिराज पाड़ा की उम्र कैद की सजा निलंबित कर दी है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "एशिया की राजनीति में पीएम मोदी का दबदबा कायम, बने दूसरे सबसे प्रभावी नेता",
+      "url": "https://www.abplive.com/news/india/asia-power-index-2026-pm-narendra-modi-spot-2nd-top-leader-3218367",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-23T07:52:13+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/23/fa8f10ef18d7a1908cc79eb389a766c71795420163813355_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "लोवी इंस्टीट्यूट की एशिया पावर इंडेक्स 2026 रिपोर्ट में पीएम मोदी दूसरे सबसे प्रभावी नेता बने हैं। यह रैंकिंग 27 देशों और क्षेत्रों की कूटनीतिक और राजनीतिक ताकत पर आधारित है। भारत का दबदबा इस सूची में कायम है। एशिया की पावर रैंकिग में भारत का दबदबा कायम है. एशिया की राजनीति और कूटनीति में जिस नेता की बात सबसे ज्यादा सुनी जाती है और किसका दबदबा है इसकी एक रिपोर्ट सामने आ गई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "एशिया की राजनीति में पीएम मोदी का दबदबा कायम, बने दूसरे सबसे प्रभावी नेता",
+          "summary": "लोवी इंस्टीट्यूट की एशिया पावर इंडेक्स 2026 रिपोर्ट में पीएम मोदी दूसरे सबसे प्रभावी नेता बने हैं। यह रैंकिंग 27 देशों और क्षेत्रों की कूटनीतिक और राजनीतिक ताकत पर आधारित है। भारत का दबदबा इस सूची में कायम है। एशिया की पावर रैंकिग में भारत का दबदबा कायम है. एशिया की राजनीति और कूटनीति में जिस नेता की बात सबसे ज्यादा सुनी जाती है और किसका दबदबा है इसकी एक रिपोर्ट सामने आ गई है.",
+          "region": "एशिया-प्रशांत"
         }
       }
     }
