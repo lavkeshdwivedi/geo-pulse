@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 24, 2026 18:31 IST
+**अपडेट:** November 25, 2026 04:26 IST
 
 ---
 
 ## एशिया-प्रशांत
 
-### [जिस बीमारी ने बांग्लादेश में ली 1300 जान, वो अब अमेरिका में फैली, बढ़ने लगी मरने वालों की संख्या!](https://hindi.news18.com/world/america-measles-outbreak-hits-us-after-claiming-over-1300-lives-in-bangladesh-as-death-toll-rises-to-13-virginia-pennsylvania-11009898.html)
-*News18 Hindi (World)* - Nov 24, 18:18 IST (iso: 2026-11-24T12:48:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Measles-In-America-2026-11-5787d8a582e085d74d592d3bf5f261c7-1200x800.jpg -->
+### [पालघर में ट्रक से टकराई बाइक, तीन की मौत; नागपुर में कार लूटकांड के तीन आरोपी गिरफ्तार](https://www.amarujala.com/india-news/maharashtra-hindi-news-updates-mumbai-bmc-nagpur-pune-education-politics-crime-cm-fadnavis-gadkari-2026-11-25)
+*Amar Ujala National* - Nov 25, 12:44 IST (iso: 2026-11-25T07:14:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/03/maharashtra-maharashtra-news-maharashtra-updates-mumbai-thane-pune-politics-crime-mva-mahay_266c60484402b7f6e912365565bf1784.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका ने 26 साल बाद खसरे से मुक्त होने का दर्जा खो दिया है। बीमारी 12 महीने से फैल रही है। वर्जीनिया और पेंसिल्वेनिया में 13 मौतें हुईं। बच्चों और वयस्कों दोनों को खतरा है। बांग्लादेश में खसरे ने 1,350 से ज्यादा लोगों की जान ले ली है. वहां टीकों की कमी से हालात बिगड़े हैं. अब यही खतरनाक बीमारी 26 साल बाद अमेरिका में भी लौट आई है.
+पालघर में ट्रक से बाइक की टक्कर में तीन लोग मारे गए। नागपुर में कार लूटकांड के तीन आरोपियों को पुलिस ने गिरफ्तार किया। पालघर में ट्रक से टकराई बाइक, तीन की मौत; नागपुर में कार लूटकांड के तीन आरोपी गिरफ्तार।
 
-### [जहां स्ट्रीट-फूड खा रहे थे लोग वहां हुआ भीषण धमाका, 6 लोगों की दर्दनाक मौत, चेहरा पहचानना तक](https://hindi.news18.com/world/rest-of-world-deadly-hanoi-blast-tears-through-street-food-area-6-killed-buildings-damaged-in-gas-explosion-11009714.html)
-*News18 Hindi (World)* - Nov 24, 17:41 IST (iso: 2026-11-24T12:11:50+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Vietnam-Blast-2026-11-4d98203e2dbb36dee2b97ed121667eac-1200x800.jpg -->
+### ['16 दिसंबर तक बांग्लादेश पर कब्जा कर लेंगे': हिंदुओं की हत्या पर भड़के बंगाल के मंत्री; बोले- अब](https://www.amarujala.com/india-news/arjun-singh-controversial-statement-on-bangladesh-says-will-take-over-by-december-16-2026-11-25)
+*Amar Ujala National* - Nov 25, 04:08 IST (iso: 2026-11-24T22:38:50+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/arajana-saha_1b093ad87c56185de09e2ceef5a34850.jpeg?w=1200&dpr=1.0 -->
 
-वियतनाम की राजधानी हनोई के डोंग दा जिले में रेस्तरां में धमाका हुआ। छह लोगों की मौत हुई और 10 घायल हुए। इमारत का हिस्सा गिर गया। खाना पकाने वाली गैस को मुख्य कारण माना जा रहा है। वियतनाम की राजधानी हनोई के डोंग दा जिले में मंगलवार सुबह एक रेस्तरां में जोरदार धमाका हुआ. इस हादसे में कम से कम छह लोगों की जान चली गई और 10 अन्य घायल हो गए।
+पश्चिम बंगाल के मंत्री अर्जुन सिंह ने हिंदुओं की हत्या को लेकर बांग्लादेश पर 16 दिसंबर तक कब्जा करने की बात कही। यह बयान साम्प्रदायिक तनाव के बीच आया है। '16 दिसंबर तक बांग्लादेश पर कब्जा कर लेंगे': हिंदुओं की हत्या पर भड़के बंगाल के मंत्री; बोले- अब।
 
-### [एनवीडिया में जेन्सेन हुआंग की वापसी का चीन पर पड़ेगा असर, जानिए कैसे](https://www.patrika.com/world-news/jensen-huang-return-to-nvidia-impact-on-china-21082363)
-*Patrika (World)* - Nov 24, 14:53 IST (iso: 2026-11-24T09:23:25+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/huang_79f1d3.webp -->
+### [उमर खालिद और शरजील इमाम ने फिर मांगी जमानत, सुप्रीम कोर्ट में सुनवाई आज](https://www.amarujala.com/india-news/supreme-court-to-hear-umar-khalid-sharjeel-imam-bail-pleas-uapa-case-today-2026-11-25)
+*Amar Ujala National* - Nov 25, 04:03 IST (iso: 2026-11-24T22:33:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/01/05/umar-khalid-sharjeel-imam-supreme-court-verdict_8f5448ec1aae65e1e1b90508922b9064.jpeg?w=1200&dpr=1.0 -->
 
-अफेयर विवाद की वजह से जेन्सेन हुआंग ने 12 नवंबर को एनवीडिया के सीईओ पद से इस्तीफा दे दिया. सीईओ पद के साथ ही जेन्सेन ने कंपनी के प्रेसिडेंट और बोर्ड मेंबर के पद से भी इस्तीफा दे दिया था. हालांकि उनके इस फैसले से कंपनी को नुकसान हुआ और कंपनी के शेयर लुढ़क गए. उनकी वापसी की मांग उठने लगी.
+दिल्ली दंगा साजिश मामले में उमर खालिद और शरजील इमाम ने सुप्रीम कोर्ट में जमानत की याचिका दायर की। अदालत ने आज दोनों के मामले की सुनवाई की। उमर खालिद और शरजील इमाम ने फिर मांगी जमानत, सुप्रीम कोर्ट में सुनवाई आज।
 
-### [पाकिस्तान के कब्जे वाले कश्मीर में जैश के आतंकी मौजूद, जैश कमांडर मसूद इलियास का बड़ा खुलासा](https://www.patrika.com/world-news/jaish-commander-masood-ilyas-kashmiri-admits-armed-terrorists-in-pojk-21082244)
-*Patrika (World)* - Nov 24, 14:38 IST (iso: 2026-11-24T09:08:30+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/terrorists-silhouette.webp -->
+### [युद्ध में ड्रोन की सुरक्षा बढ़ाने की तैयारी, हवा में लेजर के हाईवे से होगा संचार](https://www.amarujala.com/india-news/india-drone-laser-communication-technology-drdo-olee-space-2026-11-25)
+*Amar Ujala National* - Nov 25, 03:42 IST (iso: 2026-11-24T22:12:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/drone-olee_2c06f0a02b12cb4d4cb3e51daa23482b.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में जैश-ए-मोहम्मद के हथियारबंद आतंकियों की मौजूदगी को लेकर बड़ा खुलासा हुआ है. आतंकी संगठन के कमांडर मसूद इलियास कश्मीरी ने इस्लामाबाद में दिए भाषण के दौरान स्वीकार किया कि रावलाकोट में उसके संगठन के हथियारबंद सदस्य मौजूद हैं. उसने पाकिस्तान सरकार और सुरक्षा एजेंसियों के अधिकारियों से मुलाकात की बात भी मानी. Jaish e Mohammad: पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) में जैश-ए-मोहम्मद के हथियारबंद आतंकियों की मौजूदगी को लेकर बड़ा खुलासा हुआ है।
+डीआरडीओ ने युद्ध में ड्रोन की सुरक्षा बढ़ाने के लिए लेजर संचार प्रौद्योगिकी पर काम किया। यह तकनीक दुश्मन के जैमर को बेअसर करने में मदद करेगी। युद्ध में ड्रोन की सुरक्षा बढ़ाने की तैयारी, हवा में लेजर के हाईवे से होगा संचार।
 
-### [चीन ने खोले अपने स्पेस स्टेशन के दरवाजे, पाकिस्तान का एस्ट्रोनॉट बनेगा पहला विदेशी मेहमान](https://hindi.news18.com/world/china-pakistan-astronaut-muhammad-zeeshan-ali-china-space-station-shenzhou-24-11009226.html)
-*News18 Hindi (World)* - Nov 24, 14:04 IST (iso: 2026-11-24T08:34:59+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/china-pakistan-news-2026-11-d2fd5cf38924bc56e52bfff26f4558aa-1200x800.jpg -->
+### [बैंकिंग क्षेत्र में भर्ती 52% बढ़ी, सॉफ्टवेयर में 12 फीसदी गिरावट; लगातार चौथे महीने बढ़ीं नौकरियां](https://www.amarujala.com/business/business-diary/india-job-market-banking-jobs-rise-52-software-hiring-declines-12-2026-11-25)
+*Amar Ujala National* - Nov 25, 03:42 IST (iso: 2026-11-24T22:12:32+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/nakaraya-ka-mamal-ma-ina-kashhatara-na-mara-bja_16c20986d99ed747c2bd44de61525b72.jpeg?w=1200&dpr=1.0 -->
 
-चीन के शेनझोउ-24 मिशन में पाकिस्तान के मुहम्मद जीशान अली पहली बार विदेशी अंतरिक्ष यात्री के रूप में शामिल होंगे। वे चीनी अंतरिक्ष स्टेशन पर जैव प्रौद्योगिकी और पदार्थ विज्ञान से जुड़े प्रयोग करेंगे। इस मिशन में तांग होंगबो और वू यी भी जाएंगे। चीन के शेनझोउ-24 अंतरिक्ष मिशन में पाकिस्तान के अंतरिक्ष यात्री मुहम्मद जीशान अली भी शामिल होंगे.
+भारत में बैंकिंग क्षेत्र की नौकरियों में 52 प्रतिशत की वृद्धि हुई है। इसी अवधि में सॉफ्टवेयर क्षेत्र की भर्तियों में 12 प्रतिशत की गिरावट दर्ज की गई। बैंकिंग क्षेत्र में भर्ती 52% बढ़ी, सॉफ्टवेयर में 12 फीसदी गिरावट; लगातार चौथे महीने बढ़ीं नौकरियां।
 
-### [न शादी में दिलचस्पी, न बच्चे पैदा करने में, 40 साल तक कुंआरी है आधी आबादी, वीरान न हो जाए ये देश](https://hindi.news18.com/world/rest-of-world-south-korea-youth-not-interested-in-marriage-or-having-children-till-40-demographical-change-2-11009170.html)
-*News18 Hindi (World)* - Nov 24, 13:44 IST (iso: 2026-11-24T08:14:35+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/south-korea-2026-11-1ab179e404390733ea763cdf8baccd3b-1200x800.jpg -->
+### [इस्लामाबाद में जैश कमांडर ने कबूला- पीओके में हैं आतंकी; आईएसआई से तालमेल भी स्वीकारा](https://www.amarujala.com/world/jaish-commander-masood-ilyas-kashmiri-pok-terror-camps-isi-links-2026-11-25)
+*Amar Ujala Breaking* - Nov 25, 03:25 IST (iso: 2026-11-24T21:55:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/masood-ilyas-kashmiri_343a4b44b236c9f968dc79ba98c9d2a0.jpeg?w=1200&dpr=1.0 -->
 
-दक्षिण कोरिया में 40 वर्ष की आयु तक आधी आबादी ने शादी या संतान की योजना नहीं बनाई है। ताजा जनसांख्यिकीय आंकड़े दर्शाते हैं कि युवा पीढ़ी में विवाह और प्रजनन की इच्छा में गिरावट आई है। यह रुझान देश की भविष्य की जनसंख्या संरचना को प्रभावित करेगा। South Korea Demography: भारतीयों को आज की डेट में साउथ कोरिया के कंटेंट से लेकर वहां के एक्टर-एक्ट्रेसेज में भी खासी दिलचस्पी है.
+जैश-ए-मोहम्मद के कमांडर मसूद इलयास कश्मीरी ने इस्लामाबाद में आतंकी शिविरों की मौजूदगी स्वीकार की। उन्होंने आईएसआई से तालमेल का भी खुलासा किया। यह कबूलनामा पाकिस्तान के लिए गंभीर है। इस्लामाबाद में जैश कमांडर ने कबूला- पीओके में हैं आतंकी; आईएसआई से तालमेल भी स्वीकारा।
 
-### [16 दिसंबर को घर लौटने की तैयारी में शेख हसीना, बांग्लादेश सरकार का आ गया जवाब, कहा- हथकड़ी लगाकर](https://hindi.news18.com/world/south-asia-bangladesh-government-reaction-on-sheikh-hasina-return-on-december-16-arrest-threat-extradition-11009006.html)
-*News18 Hindi (World)* - Nov 24, 12:53 IST (iso: 2026-11-24T07:23:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina-14-2026-11-74d1ebb1230f6ec2406bbfd5143806af-1200x800.jpg -->
+### [प्रीत विहार के मॉल में पार्टी करने गई युवती से दुष्कर्म, दो महिलाओं समेत तीन आरोपी गिरफ्तार](https://www.amarujala.com/delhi-ncr/east-delhi-young-woman-exploited-after-going-to-a-party-at-a-mall-in-preet-vihar-2026-11-25)
+*Amar Ujala Breaking* - Nov 25, 02:48 IST (iso: 2026-11-24T21:18:59+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/4cplus/2026/09/06/friend-and-hotel-owner-on-radar-in-case-of-rape-and-murder-of-a-young-woman_e9feeebc0ce9088c14da30ae8b1e3590.jpeg?w=1200&dpr=1.0 -->
 
-बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को विजय दिवस पर देश लौटने की मांग की है। सरकार ने स्पष्ट किया कि उनकी वापसी केवल प्रत्यर्पण प्रक्रिया के माध्यम से होगी। दाखिल होते ही उन्हें गिरफ्तार कर जेल भेजा जाएगा। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर यानी विजय दिवस पर देश लौटने की इच्छा जताई है.
+दिल्ली के प्रीत विहार स्थित एक कैफे में 22 वर्षीय युवती से सामूहिक दुष्कर्म का मामला सामने आया है। पुलिस ने दो महिलाओं समेत तीन आरोपियों को गिरफ्तार कर लिया है। प्रीत विहार के मॉल में पार्टी करने गई युवती से दुष्कर्म, दो महिलाओं समेत तीन आरोपी गिरफ्तार।
 
-### [अंतरिक्ष में चीन-पाकिस्तान की साझेदारी, चीनी मिशन में पहली बार विदेशी अंतरिक्ष यात्री होगा शामिल](https://www.amarujala.com/world/shenzhou-24-china-pakistan-partnership-in-space-chinese-mission-to-include-foreign-astronaut-for-first-time-2026-11-24)
-*Amar Ujala World* - Nov 24, 12:26 IST (iso: 2026-11-24T06:56:06+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/24/sakataka-tasavara_09121f5f44e0a1d31d427e975f8a5222.jpeg?w=1200&dpr=1.0 -->
+### [अमेरिकी अदालत में हुवावे दोषी करार: तकनीक चोरी और बैंक धोखाधड़ी की साजिश का आरोप साबित; रैकेटियरिंग](https://www.amarujala.com/world/us-jury-finds-china-s-huawei-guilty-of-conspiracy-to-steal-trade-secrets-and-bank-fraud-2026-11-25)
+*Amar Ujala World* - Nov 25, 02:07 IST (iso: 2026-11-24T20:37:49+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/amaraka-ma-cana-taka-kapana-havava-ka-bugdha-jhataka_ea3aa9b2a28cb5bc77319252538f404a.jpeg?w=1200&dpr=1.0 -->
 
-चीन और पाकिस्तान के बीच अंतरिक्ष सहयोग के तहत शेनझोउ-24 मिशन में पहली बार विदेशी अंतरिक्ष यात्री शामिल होंगे। पाकिस्तानी अंतरिक्ष यात्री मुहम्मद जीशान अली इस ऐतिहासिक उड़ान का हिस्सा बनेंगे। अंतरिक्ष में चीन-पाकिस्तान की साझेदारी, चीनी मिशन में पहली बार विदेशी अंतरिक्ष यात्री होगा शामिल।
+अमेरिकी अदालत ने हुवावे को व्यापारिक रहस्य चोरी और बैंक धोखाधड़ी के षड्यंत्र में दोषी ठहराया। रैकेटियरिंग के आरोपों से कंपनी को बरी कर दिया गया। अमेरिकी अदालत में हुवावे दोषी करार: तकनीक चोरी और बैंक धोखाधड़ी की साजिश का आरोप साबित; रैकेटियरिंग।
 
-### [शेख हसीना ने वापसी की तारीख बताई, उधर बांग्लादेश में उनके गढ़ में बवाल, 30 लोग घायल](https://hindi.news18.com/world/south-asia-clashes-in-sheikh-hasina-hometown-gopalganj-30-injured-december-16-return-to-bangladesh-11008918.html)
-*News18 Hindi (World)* - Nov 24, 12:25 IST (iso: 2026-11-24T06:55:32+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina-13-2026-11-0087fe4067f259b7d5bb62ce3561f73e-1200x800.jpg -->
+### [गोवा में 1.05 करोड़ रुपये के हाइड्रोपोनिक गांजा के साथ व्यक्ति गिरफ्तार, मामले की जांच जारी](https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-11-25)
+*Amar Ujala National* - Nov 25, 02:05 IST (iso: 2026-11-24T20:35:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_bc25c16d5cf7783ca896c1749fa5ceab.jpeg?w=1200&dpr=1.0 -->
 
-पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने की घोषणा की। उनके गृह जिले गोपालगंज में समर्थकों के बीच झड़प हुई। इसमें 30 लोग घायल हुए, चार बम फटे और 12 दुकानों में तोड़फोड़ हुई। Bangladesh News: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को देश लौटने की बात कही है. इस बीच उनके गृह जिले गोपालगंज में अवामी लीग के कार्यकर्ताओं और समर्थकों के बीच दो जगहों पर झड़प हुई.
+गोवा में 1.05 करोड़ रुपये के हाइड्रोपोनिक गांजा के साथ एक व्यक्ति को गिरफ्तार किया गया है। पुलिस मामले की जांच जारी रखी है। गोवा में 1.05 करोड़ रुपये के हाइड्रोपोनिक गांजा के साथ व्यक्ति गिरफ्तार, मामले की जांच जारी।
 
-### [शेख हसीना ने बांग्लादेश वापसी के लिए तय की तारीख, ढाका वापसी के लिए मांगा सरकारी विमान](https://www.patrika.com/world-news/sheikh-hasina-bangladesh-return-from-india-december-16-asks-for-flight-21081409)
-*Patrika (World)* - Nov 24, 09:35 IST (iso: 2026-11-24T04:05:50+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/sheikh-hasina_.webp -->
+### [3800 फीट ऊंचे पहाड़ पर चल रही थी खुदाई, तभी आई टनटन की आवाज और निकल आया 2900 साल पुराना खजाना](https://hindi.news18.com/news/ajab-gajab/viral-2900-year-old-greek-sanctuary-discovered-on-3800-feet-high-mountain-top-in-mediterranean-island-11010387.html)
+*News18 Hindi (World)* - Nov 24, 23:43 IST (iso: 2026-11-24T18:13:43+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Greece-Excavation-2026-11-b73619f70c0989afac7adb50bd79cffb-1200x800.jpg -->
 
-शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने की इच्छा जताई है। उन्होंने ढाका से बिमान बांग्लादेश एयरलाइंस का विमान मांगा है। वे अगस्त 2024 से भारत में रह रही हैं। Sheikh Hasina Bangladesh Return: अगस्त 2024 में सत्ता से हटाए जाने के बाद से भारत में रह रहीं बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को अपने देश लौटने की इच्छा जताई है।
-
-### ['जंग का खामियाजा सभी देश बराबर नहीं भुगतते', भारत ने याद दिलाया 1943 का बंगाल अकाल; क्या कहा?](https://www.amarujala.com/world/invoking-bengal-famine-india-tells-unsc-costs-of-conflict-not-shared-equally-2026-11-24)
-*Amar Ujala World* - Nov 24, 09:20 IST (iso: 2026-11-24T03:50:57+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/24/sayakata-rashhatara-ma-bharata-ka-sathaya-paratanathha-rajathata-harasha-paravatanana_3ac8b90119ac050bc89fd996bdf94d7a.jpeg?w=1200&dpr=1.0 -->
-
-भारत ने संयुक्त राष्ट्र में 1943 के बंगाल अकाल का जिक्र किया। उसने कहा कि युद्ध का खामियाजा सभी देश बराबर नहीं भुगतते। यह बयान संयुक्त राष्ट्र में दिया गया। संयुक्त राष्ट्र: 'जंग का खामियाजा सभी देश बराबर नहीं भुगतते', भारत ने याद दिलाया 1943 का बंगाल अकाल; क्या कहा?
-
----
-
-## अमेरिका
-
-### [इश्क, इस्तीफा और 125 करोड़! ट्रंप-जेन्सेन की दोस्ती में छिपी है सत्ता और संपत्ति के रिश्ते की कहानी](https://hindi.news18.com/news/business/latest-trump-jensen-huang-nvidia-125-crore-shares-10-day-row-11009808.html)
-*News18 Hindi (World)* - Nov 24, 17:45 IST (iso: 2026-11-24T12:15:50+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/trumpwithjensen-2026-11-21dff6f75a1b71e17b3116c98c87a896-1200x800.jpg -->
-
-ट्रंप ने एनवीडिया सीईओ जेन्सेन हुआंग की वापसी में अपनी भूमिका स्वीकार की। शेयर 30 फीसदी चढ़े। ट्रंप को 11 से 125 करोड़ रुपये तक का लाभ हुआ हो सकता है। यह लाभ उनके संभावित निवेश पर आधारित है। ट्रंप ने खुलकर एनवीडिया सीईओ जेन्सेन हुआंग की वापसी का क्रेडिट लिया है. अगले ही दिन, अमेरिकी शेयर बाजार में दिलचस्प कनेक्शन सामने आ गया.
-
-### [जेन्सेन हुआंग की वापसी से डोनाल्ड ट्रंप को हुआ 1.5 करोड़ डॉलर का फायदा? NVIDIA के शेयरों में उछाल](https://www.patrika.com/world-news/donald-trump-nvidia-investment-jensen-huang-return-21081771)
-*Patrika (World)* - Nov 24, 11:31 IST (iso: 2026-11-24T06:01:43+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/jensen-huang-and-donald-trump.webp -->
-
-जेन्सेन हुआंग की सीईओ पद पर वापसी से एनवीडिया के शेयरों में 30 प्रतिशत से अधिक की उछाल आई। इससे डोनाल्ड ट्रम्प के निजी निवेश को लेकर हितों के टकराव के सवाल खड़े हो गए हैं। Donald Trump Nvidia Investment: Nvidia के CEO के रूप में जेन्सेन हुआंग की वापसी के बाद, कंपनी के शेयर की कीमत में 30 प्रतिशत से अधिक की उछाल आई है।
-
----
-
-## यूरोप और रूस
-
-### [अमेरिका में 2 तूफानों का डबल अटैक: 96 KM स्पीड से आंधी और बाढ़, अगले 24 घंटों में डूब सकते हैं 2](https://hindi.news18.com/world/america-twin-storms-to-hit-both-coasts-of-usa-thanksgiving-flood-alert-weather-update-11009779.html)
-*News18 Hindi (World)* - Nov 24, 17:42 IST (iso: 2026-11-24T12:12:36+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/USA_Storm_Weather-2026-11-ca9266be40fab9da697f98856f90fa0a-1200x800.jpg -->
-
-अमेरिका के दोनों तटों पर दो तूफान एक साथ आ रहे हैं। हवाओं की रफ्तार 60 मील प्रति घंटे होगी। वेस्ट कोस्ट पर समुद्री पानी 1983 के रिकॉर्ड के करीब पहुंच सकता है। 10 से ज्यादा राज्यों में बाढ़ का खतरा है। Twin Storms Alert: अमेरिका के ईस्ट और वेस्ट दोनों कोस्ट पर अगले 12 घंटों में 2 बड़े तूफान एक साथ हमला करने जा रहे हैं.
-
-### [खेत में हल चला रहा था किसान, अचानक खट की आई आवाज, जमीन से निकला 300 साल पुराना सोने का खजाना](https://hindi.news18.com/world/britain-alfred-jewel-gold-treasure-king-alfred-great-england-history-farmer-found-11009635.html)
-*News18 Hindi (World)* - Nov 24, 16:07 IST (iso: 2026-11-24T10:37:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/gold-news-2026-11-b33705c95bf6b9c6e5496651582d170c-1200x800.jpg -->
-
-इंग्लैंड के समरसेट में 1693 में खेत की जुताई करते समय एक किसान को सोने, एनामेल और रॉक क्रिस्टल से बना खास गहना मिला था. इसे अल्फ्रेड ज्वेल कहा जाता है. इस पर पुरानी अंग्रेजी में लिखा है कि अल्फ्रेड ने इसे बनवाने का आदेश दिया था. माना जाता है कि यह राजा अल्फ्रेड द ग्रेट के शासनकाल का है.
-
-### [न गोला न बारूद, न कोई वार, खुद ही जान देने लगे रूसी सैनिक, आंकड़े देखकर माथा पीट लेंगे पुतिन](https://hindi.news18.com/world/europe-russian-soldiers-over-1000-died-by-suicide-since-ukraine-war-began-ws-l-11009074.html)
-*News18 Hindi (World)* - Nov 24, 13:07 IST (iso: 2026-11-24T07:37:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/russia-ukraine-2026-11-8e0bfe37a471af3a1efe9f6337936b28-1200x800.jpg -->
-
-गार्डियन की रिपोर्ट के अनुसार, यूक्रेन युद्ध के दौरान रूसी सैनिकों की आत्महत्या की घटनाओं में वृद्धि हुई है। ये आंकड़े रूसी सेना के मनोवैज्ञानिक दबाव और युद्ध के नतीजों पर प्रश्न चिह्न खड़े करते हैं। Russian Soldiers Suicide Mystery: रूस-यूक्रेन के बीच चल रहे युद्ध के बीच कुछ ऐसे आंकड़े सामने आए हैं, जो रूसी राष्ट्रपति को सदमे में डाल देगी.
-
-### [रूस अंतरिक्ष में तैनात करेगा परमाणु हथियार?: खुफिया एजेंसियों की रिपोर्ट में खुलासा, नाटो देशों की](https://www.amarujala.com/world/will-russia-deploy-nuclear-weapons-in-space-intelligence-agency-report-reveals-sparking-anxiety-nato-nations-2026-11-24)
-*Amar Ujala World* - Nov 24, 11:45 IST (iso: 2026-11-24T06:15:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/24/atarakashha-ma-paramanae-hathayara-bhajana-ka-tayara-kaya_5e4f144ff3e89fb3d36c996e0640f883.jpeg?w=1200&dpr=1.0 -->
-
-खुफिया एजेंसियों की रिपोर्ट में रूस के अंतरिक्ष में परमाणु हथियार तैनात करने की संभावना का खुलासा हुआ। इस खबर ने नाटो देशों में चिंता बढ़ा दी है। रूस अंतरिक्ष में तैनात करेगा परमाणु हथियार?: खुफिया एजेंसियों की रिपोर्ट में खुलासा, नाटो देशों की।
-
-### [वोलोदिमिर ज़ेलेन्स्की का दावा – यूक्रेन पर नए हमले की तैयारी कर रहा है रूस, अमेरिका और अन्य देशों से](https://www.patrika.com/world-news/volodymyr-zelenskyy-says-russia-preparing-for-new-strikes-against-ukraine-asks-us-and-other-countries-for-help-21081454)
-*Patrika (World)* - Nov 24, 09:50 IST (iso: 2026-11-24T04:20:19+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/zelenskyy.webp -->
-
-ज़ेलेन्स्की का दावा है कि रूस नए हमलों की तैयारी कर रहा है। युद्ध के 57 महीने पूरे हो चुके हैं। यूक्रेन ने क्रीमिया ब्रिज पर भी हमले किए हैं। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 57 महीने पूरे हो गए हैं। काफी कूटनीतिक प्रयासों के बावजूद यह युद्ध रुकने का नाम नहीं ले रहा है। रूस की तरफ से यूक्रेन पर लगातार हमले किए जा रहे हैं।
-
----
-
-## दुनिया
-
-### [12 घंटों में मुंह बाए आ रहा बेनाम तूफान, ‘डायन’ बाढ़ निगल जाएगी ये इलाके, 2027 तक चलेगी तबाही](https://hindi.news18.com/world/america-tropical-storm-and-nor-easter-alert-flash-flooding-gusty-river-floods-last-until-2027-heavy-rain-warning-11009693.html)
-*News18 Hindi (World)* - Nov 24, 16:21 IST (iso: 2026-11-24T10:51:16+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Heavy-Rain-Alert-1-2026-11-e8c5aef2fca85a771f3c13d7dee3a67f-1200x800.jpg -->
-
-बेनाम ट्रॉपिकल तूफान ने फ्लोरिडा में 5 से 20 इंच बारिश कराई। कई इलाके डूब गए। सेंट जॉन्स नदी का पानी बढ़ा। मिड-अटलांटिक क्षेत्र बुरे असर से बच गया। उत्तर की ओर बढ़ने से पहले ही नुकसान हुआ। एक बेनाम ट्रॉपिकल हवाओं और बारिश वाले तूफान के चलते कई इलाकों में तेज हवाओं, ऊंची समुद्री लहरों और मूसलाधार बारिश से सड़कों व हाईवे पर जलभराव का खतरा बना हुआ है, हालांकि सिस्टम के देर से मजबूत होने के कारण मिड-अटलांटिक क्षेत्र सबसे बुरे असर से बच गया.
-
-### [जहां सोचा भी नहीं, इस बार वहां से फूटेगी आफत, वैज्ञानिक परेशान- 'ये तो मानवता ही खत्म कर देगा'](https://hindi.news18.com/world/rest-of-world-scientist-warns-of-civilization-ending-volcano-as-scientists-issue-end-of-world-warning-11009417.html)
-*News18 Hindi (World)* - Nov 24, 14:49 IST (iso: 2026-11-24T09:19:24+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/volcano-7-2026-10-13d44afd7413ab51f0f35414aa3407c4-1200x800.jpg -->
-
-दुनिया में लगातार कुदरती आपदाएं आ रही हैं लेकिन ये सिलसिला खत्म होने वाला नजर नहीं आ रहा. हम ऐसा इसलिए कह रहे हैं क्योंकि वैज्ञानिकों ने चेतावनी दी है कि इस बार आफत वहां से आने वाली है, जिसके बारे में किसी ने सोचा तक नहीं है. जहां सोचा भी नहीं, इस बार वहां से फूटेगी आफत, वैज्ञानिक परेशान- 'ये तो मानवता ही खत्म कर देगा'।
-
-### [सुनसान जंगल के बीच 'मौत की नदी', 200 डिग्री पर खौलता है पानी, गिरे तो उबलने में लगेंगे 30 सेकंड](https://hindi.news18.com/world/rest-of-world-mysterious-boiling-river-in-amazon-forest-peru-temperature-is-200-degree-celsius-photogallery-ws-l-11008753.html)
-*News18 Hindi (World)* - Nov 24, 11:45 IST (iso: 2026-11-24T06:15:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/rainforest-river-6-2026-11-51853d2377d2f693c2fc0a2471a57aa8-1200x800.jpg -->
-
-घने जंगल में एक ऐसी नदी बहती है जिसका पानी 200 डिग्री फारेनहाइट तक उबलता रहता है। आसपास कोई सक्रिय ज्वालामुखी नहीं है, फिर भी जमीन के नीचे की गर्मी से यह तापमान बना रहता है। Boiling Hot River amid Dense Forest: घने जंगलों के बीच में एक ऐसी नदी बहती है, जिसका पानी हमेशा उबलता रहता है. इस नदी का तापमान 200 डिग्री फारेनहाइट यानि 80 डिग्री सेल्सियस से भी ज्यादा पहुंच जाता है.
-
-### [अमेजन के जंगल में 11 दिन भटकता रहा बुजुर्ग: रेस्क्यू टीम ने अल्जाइमर से पीड़ित को निकाला, खुद को](https://www.amarujala.com/world/man-with-alzheimer-s-rescued-in-amazon-rainforest-after-surviving-for-11-days-park-ranger-reveals-2026-11-24)
-*Amar Ujala World* - Nov 24, 11:16 IST (iso: 2026-11-24T05:46:44+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/24/man-with-alzheimers-rescued-in-amazon-rainforest-after-surviving-for-11-days-park-ranger-reveals_b9963574847ce35fe85b02b675dd3987.jpeg?w=1200&dpr=1.0 -->
-
-अमेजन वन में अल्जाइमर से पीड़ित बुजुर्ग 11 दिन तक भटकता रहा। रेस्क्यू टीम ने उसे सुरक्षित निकाल लिया। पार्क रेंजर ने इस घटना की जानकारी दी। अमेजन के जंगल में 11 दिन भटकता रहा बुजुर्ग: रेस्क्यू टीम ने अल्जाइमर से पीड़ित को निकाला, खुद को।
+3800 फीट ऊंचे पहाड़ की चोटी पर खुदाई के दौरान 2900 साल पुराना खजाना मिला है। यह खोज प्राचीन इतिहास के कई पहलुओं को उजागर करती है। पुरातत्वविदों ने इस खजाने की जांच शुरू कर दी है। 3800 फीट ऊंचे एक पहाड़ की चोटी पर खुदाई के दौरान 2900 साल पुराना ऐसा खजाना मिला है, जिसने पुरातत्वविदों को भी हैरान कर दिया.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [UAE में फिर मौत का तांडव, बस-ट्रक की टक्कर में 11 की मौत, 12 दिन पहले 14 लोगों ने गंवाई थी जान](https://hindi.news18.com/world/middle-east-uae-ras-al-khaimah-bus-truck-crash-11-killed-fujairah-accident-11009337.html)
-*News18 Hindi (World)* - Nov 24, 15:23 IST (iso: 2026-11-24T09:53:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/uae-ambulance-2026-11-2e53a5cfe131ee28f5d3826a02a98ee9-1200x800.jpg -->
+### [पांच जवानों की मौत, मलबे में तब्दील हुआ विमान; दो हफ्ते में दूसरा हादसा](https://www.amarujala.com/world/turkish-military-helicopter-crashes-during-training-flight-several-air-force-crew-members-killed-update-hindi-2026-11-25)
+*Amar Ujala Breaking* - Nov 25, 12:39 IST (iso: 2026-11-25T07:09:47+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/tarakaya-ma-halkapatara-tharaghatanagarasata_a876f1882c1336a95d999932c22516b5.jpeg?w=1200&dpr=1.0 -->
 
-संयुक्त अरब अमीरात के रास अल खैमाह में यात्री बस और ट्रक की टक्कर में 11 लोगों की मौत हो गई. हादसे की वजह जानने के लिए जांच जारी है और मृतकों की पहचान अभी सार्वजनिक नहीं की गई है. इससे 12 दिन पहले फुजैराह में हुए दो सड़क हादसों में 14 लोगों की मौत और 30 लोग घायल हुए थे.
+तुर्की में सैन्य हेलिकॉप्टर की प्रशिक्षण उड़ान के दौरान दुर्घटना हुई। पांच वायुसेना जवानों की मौत हुई। यह दो हफ्तों में दूसरा बड़ा हादसा है। पांच जवानों की मौत, मलबे में तब्दील हुआ विमान; दो हफ्ते में दूसरा हादसा।
 
-### [चीन के 'आसमान का शिकारी' ड्रोन यमन में ढेर, हूतियों ने मार गिराया, सऊदी अरब पर लगाए गंभीर आरोप](https://hindi.news18.com/world/middle-east-yemen-houthis-claim-chinese-wing-loong-2-drone-shot-down-saudi-strikes-11008730.html)
-*News18 Hindi (World)* - Nov 24, 11:38 IST (iso: 2026-11-24T06:08:24+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Wing-Loong-1-2026-11-7c0d3daabfa987c05b61fa11d32f9213-1200x800.jpg -->
+### [यमन में अदन पर कब्जे की फिराक में हूती!: शहर से 60 किमी दूर पहुंचे विद्रोही; सेना ने बनाई मजबूत](https://www.amarujala.com/world/houthi-rebels-advance-to-within-60-km-of-aden-as-yemeni-forces-prepare-defence-line-2026-11-25)
+*Amar Ujala Breaking* - Nov 25, 01:24 IST (iso: 2026-11-24T19:54:52+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/athana-para-kabja-ka-ora-bugdhha-hata-vatharaha_f412e1b354ac7f6b5e48015813920947.jpeg?w=1200&dpr=1.0 -->
 
-यमन में हूती विद्रोहियों ने चीन के बनाए विंग लूंग-2 ड्रोन को मार गिराने का दावा किया। यह घटना लहिज प्रांत के तट पर हुई, जो बाब अल-मंदेब जलडमरूमध्य के पास है। हूती मीडिया ने सऊदी हमलों में 25 लोगों के मारे जाने की खबर दी। यमन में हूती विद्रोहियों ने चीन में बने Wing Loong-2 सशस्त्र ड्रोन को मार गिराने का दावा किया है.
+यमन में हुती विद्रोहियों ने अदन शहर से 60 किलोमीटर दूर तक आगे बढ़ने की कोशिश की है। यमनी सेना ने शहर की सुरक्षा के लिए मजबूत रक्षा लाइनें बनाई हैं। दोनों पक्षों के बीच तनाव बढ़ रहा है। यमन में अदन पर कब्जे की फिराक में हूती!: शहर से 60 किमी दूर पहुंचे विद्रोही; सेना ने बनाई मजबूत।
 
-### [ईरान पर आर्थिक दबाव बढ़ाने के लिए अमेरिका का नया कदम, संबंधित शैडो बैंकिंग नेटवर्कों पर लगाए](https://www.patrika.com/world-news/us-imposes-sanctions-on-shadow-banking-networks-linked-to-iran-21081383)
-*Patrika (World)* - Nov 24, 09:33 IST (iso: 2026-11-24T04:03:52+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/flags-of-iran-and-usa-1.webp -->
+### [इस शहर में नहीं चलता कोई कानून, कैसे बना दुनिया की सबसे ज्यादा भीड़ वाला इलाका? खूब हुई बदनामी](https://hindi.news18.com/world/rest-of-world-kowloon-walled-city-history-hong-kong-lawless-mafia-hub-that-held-world-densest-crowd-for-decades-photogallery-11010450.html)
+*News18 Hindi (World)* - Nov 24, 23:43 IST (iso: 2026-11-24T18:13:39+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Kowloon-Walled-City-2026-11-7a19f5e41f54d67583a9a3ca2755ab20-1200x800.jpg -->
 
-अमेरिका ने ईरान पर आर्थिक दबाव बढ़ाने के लिए नया कदम उठाया है। शैडो बैंकिंग नेटवर्कों पर प्रतिबंध लगाए गए हैं। दोनों देशों के बीच तनाव जारी है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव की स्थिति पहले जैसे ही बनी हुई है। एक-दूसरे की शर्तों पर सहमति नहीं बन पाने की वजह से दोनों देशों के बीच कोई समझौता नहीं हो रहा है।
+कोलंबो में स्थित कौलून वॉल्ड सिटी 1950 से 1994 तक दुनिया के सबसे घने आबादी वाले इलाकों में से एक था। वहां 33 हजार से अधिक लोग रहते थे। यह क्षेत्र अपराध और अव्यवस्था के लिए प्रसिद्ध था। एशिया के एक कोने में ऐसी जगह हुआ करती थी, जो पूरी दुनिया में सबसे घनी आबादी वाले इलाकों में गिनी जाती थी.
+
+---
+
+## यूरोप और रूस
+
+### [रूस की तेल रिफाइनरियों पर यूक्रेन का हमला: पुतिन बोले- जवाबी कार्रवाई तय है; यूरोप को भी दे डाली](https://www.amarujala.com/world/vladimir-putin-warns-ukraine-retaliation-attacks-russian-energy-facilities-2026-11-25)
+*Amar Ujala World* - Nov 25, 12:22 IST (iso: 2026-11-25T06:52:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/vladimir-putin_b8675aa1c9a023394f70d5266b6632f8.jpeg?w=1200&dpr=1.0 -->
+
+यूक्रेन ने रूस की तेल रिफाइनरियों पर हमला किया। व्लादिमीर पुतिन ने जवाबी कार्रवाई की घोषणा की। उन्होंने यूरोप को भी चेतावनी दी। रूस की तेल रिफाइनरियों पर यूक्रेन का हमला: पुतिन बोले- जवाबी कार्रवाई तय है; यूरोप को भी दे डाली।
+
+---
+
+## दुनिया
+
+### [गोवा चुनाव से पहले गठबंधन की तैयारी: कांग्रेस ने जीएफपी-आरजीपी से बातचीत आगे बढ़ाई; उम्मीदवार भी](https://www.amarujala.com/india-news/goa-congress-pushes-for-early-alliance-ahead-of-2027-assembly-elections-2026-11-25)
+*Amar Ujala National* - Nov 25, 12:01 IST (iso: 2026-11-25T06:31:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/24/goa-assembly-election_56b27a09c816437c6d6311998307aa49.jpeg?w=1200&dpr=1.0 -->
+
+गोवा विधानसभा चुनाव से पहले कांग्रेस ने गठबंधन की तैयारी शुरू की। पार्टी ने जीएफपी और आरजीपी से बातचीत आगे बढ़ाई। उम्मीदवारों की घोषणा जल्द होगी। गोवा चुनाव से पहले गठबंधन की तैयारी: कांग्रेस ने जीएफपी-आरजीपी से बातचीत आगे बढ़ाई; उम्मीदवार भी।
+
+### [अकाली-भाजपा के साथ से चतुष्कोणीय मुकाबला संभव: वारिस पंजाब दे ने चुनाव को बनाया दिलचस्प, बदले](https://www.amarujala.com/india-news/punjab-assembly-election-sad-bjp-alliance-waris-punjab-de-congress-aap-political-equations-turns-2026-11-25)
+*Amar Ujala National* - Nov 25, 04:15 IST (iso: 2026-11-24T22:45:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/punjab-assembly-election_5fbef7e06f8daf49c47dc172999e33a6.jpeg?w=1200&dpr=1.0 -->
+
+पंजाब विधानसभा चुनाव में चतुष्कोणीय मुकाबला संभव है। वारिस पंजाब दे ने सियासी समीकरण बदल दिए। अकाली-भाजपा गठबंधन के साथ नया मुकाबला खड़ा हुआ। अकाली-भाजपा के साथ से चतुष्कोणीय मुकाबला संभव: वारिस पंजाब दे ने चुनाव को बनाया दिलचस्प, बदले।
+
+### [UP चुनाव को लेकर आजम खान ने भरी जबरदस्त हुंकार, किया ये दावा!](https://www.amarujala.com/video/india-news/azam-khan-sounds-a-powerful-battle-cry-regarding-the-up-elections-makes-this-claim-2026-11-25)
+*Amar Ujala National* - Nov 25, 03:30 IST (iso: 2026-11-24T22:00:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/up_32cd16af5f05ab2954c5cda7b70460dc.jpeg?w=1200&dpr=1.0 -->
+
+आजम खान ने उत्तर प्रदेश विधानसभा चुनाव के संदर्भ में अपनी पार्टी की जीत का दावा किया है। उन्होंने अपनी राजनीतिक ताकत और जनसंपर्क पर भरोसा जताया। स्रोत में कोई और तथ्य नहीं है। UP चुनाव को लेकर आजम खान ने भरी जबरदस्त हुंकार, किया ये दावा!
+
+### [सपा ने तैयार की 52 सीटों की सूची, कांग्रेस ने कहा-67 पर समझौता नहीं; अब तीन नेताओं पर टिका फैसला!](https://www.amarujala.com/delhi-ncr/up-elections-sp-has-prepared-a-list-of-52-seats-congress-says-no-agreement-on-67-seats-2026-11-25)
+*Amar Ujala National* - Nov 25, 03:10 IST (iso: 2026-11-24T21:40:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/1_b08512b355625dd94ce6dbb1b3551764.jpeg?w=1200&dpr=1.0 -->
+
+समाजवादी पार्टी ने 52 सीटों की सूची तैयार की है। कांग्रेस ने 67 सीटों पर समझौते से इनकार कर दिया। अब निर्णय तीन नेताओं के हाथ में है। सीट बंटवारे में अटकलें लगाई जा रही हैं। उत्तर प्रदेश विधानसभा चुनाव के सीट बंटवारे में समाजवादी पार्टी ने अपना फार्मूला और कांग्रेस ने अपनी लक्ष्मण रेखा तय कर दी है। सपा ने तैयार की 52 सीटों की सूची, कांग्रेस ने कहा-67 पर समझौता नहीं; अब तीन नेताओं पर टिका फैसला!
+
+### [समय के दबाव में भी डटे रहे गुकेश, सिंदारोव के साथ पहला मैच ड्रॉ; 38 चालों तक चली जंग](https://www.amarujala.com/sports/world-chess-championship-2026-gukesh-draws-against-sindarov-in-game-1-2026-11-25)
+*Amar Ujala National* - Nov 25, 02:58 IST (iso: 2026-11-24T21:28:04+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/23/shataraja-vashava-capayanashapa_2b4a0b675932cdb35546e97c25b20a8e.jpeg?w=1200&dpr=1.0 -->
+
+गुकेश ने सिंदारोव के खिलाफ पहला मैच ड्रॉ पर समाप्त किया। खेल 38 चालों तक चला। गुकेश समय के दबाव में भी स्थिर रहे। विश्व चैंपियनशिप का यह पहला मैच था। समय के दबाव में भी डटे रहे गुकेश, सिंदारोव के साथ पहला मैच ड्रॉ; 38 चालों तक चली जंग।
+
+### [सीएम विजय की तारीफ में उतरे वीसीके प्रमुखल; तमिलनाडु में दीपथून विवाद पर सियासत](https://www.amarujala.com/india-news/vck-chief-thol-thirumavalavan-congratulates-cm-vijay-amid-thiruparankundram-deepathoon-row-2026-11-25)
+*Amar Ujala National* - Nov 25, 02:40 IST (iso: 2026-11-24T21:10:07+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/vasaka-paramakha-thal-tharamavalvana_d2aa9a7c525f84bb252c27250220ba16.jpeg?w=1200&dpr=1.0 -->
+
+तमिलनाडु में दीपथून विवाद पर वीसीके प्रमुखल ने मुख्यमंत्री विजय की तारीफ की। उन्होंने इसे संघ परिवार की नाकाम साजिश बताया। सीएम विजय की तारीफ में उतरे वीसीके प्रमुखल; तमिलनाडु में दीपथून विवाद पर सियासत।
+
+### ['पत्नी से बात करना था सबसे मुश्किल': एनवीडिया सीईओ जेनसन ने कर्मचारियों के सामने मानी गलतियां, और](https://www.amarujala.com/world/jensen-huang-apology-nvidia-employees-ceo-return-360-degree-review-2026-11-25)
+*Amar Ujala World* - Nov 25, 01:46 IST (iso: 2026-11-24T20:16:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/jensen-huang_a31d2b037637223d3fe1781b87dd5cc7.jpeg?w=1200&dpr=1.0 -->
+
+एनवीडिया सीईओ जेनसन ह्वानग ने कर्मचारियों के सामने अपनी गलतियों की स्वीकारोक्ति की। उन्होंने पत्नी से बात करना सबसे मुश्किल बताया। 'पत्नी से बात करना था सबसे मुश्किल': एनवीडिया सीईओ जेनसन ने कर्मचारियों के सामने मानी गलतियां, और क्या कहा?
+
+### [यूपी चुनाव के लिए सपा ने जारी की 5 प्रत्याशियों की सूची, PDA पर खेला बड़ा दांव](https://www.amarujala.com/video/india-news/sp-releases-list-of-5-candidates-for-up-elections-places-a-major-bet-on-pda-2026-11-25)
+*Amar Ujala National* - Nov 25, 01:34 IST (iso: 2026-11-24T20:04:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/up-election-2027_a1c41c6bdb4ecde90304290f44801ff0.jpeg?w=1200&dpr=1.0 -->
+
+समाजवादी पार्टी ने उत्तर प्रदेश विधानसभा चुनाव के लिए पांच प्रत्याशियों की सूची जारी की है। पार्टी ने प्रत्याशियों के चयन में प्रजातंत्रिक दल आंदोलन पर विशेष ध्यान दिया है। यह चयन प्रक्रिया चुनावी रणनीति का हिस्सा है। यूपी चुनाव के लिए सपा ने जारी की 5 प्रत्याशियों की सूची, PDA पर खेला बड़ा दांव।
+
+### [कश्मीर में शीतलहर का असर बढ़ा, घाटी में मंगलवार की रात सीजन में सबसे ठंडी; कई इलाकों का पारा 0 से](https://www.amarujala.com/jammu/weather-cold-wave-intensifies-in-kashmir-valley-records-coldest-night-of-the-season-so-far-2026-11-25)
+*Amar Ujala Breaking* - Nov 25, 01:09 IST (iso: 2026-11-24T19:39:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/1_c6e1041e77cfff3d9f9222886baef76a.jpeg?w=1200&dpr=1.0 -->
+
+कश्मीर घाटी में शीतलहर का प्रकोप बढ़ गया है। मंगलवार की रात घाटी में इस मौसम की सबसे ठंडी रात रही। कई इलाकों का तापमान शून्य डिग्री से नीचे चला गया। कश्मीर घाटी में शीतलहर का प्रकोप और तेज हो गया है। कश्मीर में शीतलहर का असर बढ़ा, घाटी में मंगलवार की रात सीजन में सबसे ठंडी; कई इलाकों का पारा 0 से।
+
+---
+
+## अमेरिका
+
+### [हार्वर्ड में अब पढ़ाई जाएगी ट्रंप के मागा आंदोलन की विचारधारा, 50 छात्रों ने लिया नए कोर्स में](https://www.amarujala.com/world/harvard-university-launches-course-on-trump-maga-movement-amid-political-tensions-2026-11-25)
+*Amar Ujala World* - Nov 25, 03:56 IST (iso: 2026-11-24T22:26:15+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/04/15/harvard-university-grant-freeze_cb8739d5a017e5eaa70b34e716e54ea3.jpeg?w=1200&dpr=1.0 -->
+
+हार्वर्ड विश्वविद्यालय ने ट्रंप के मागा आंदोलन पर नया पाठ्यक्रम शुरू किया है। इस कोर्स में 50 छात्रों ने दाखिला लिया है। यह शैक्षणिक विस्तार राजनीतिक तनाव के बीच हुआ। हार्वर्ड में अब पढ़ाई जाएगी ट्रंप के मागा आंदोलन की विचारधारा, 50 छात्रों ने लिया नए कोर्स में।
+
+### [एफबीआई के बाद सीआईए का गैर-गोपनीय सिस्टम में लगी सेंध, खुफिया एजेंसियों पर साइबर हमले से बढ़ी चिंता](https://www.amarujala.com/world/cia-cyberattack-us-intelligence-agencies-unclassified-system-breach-2026-11-25)
+*Amar Ujala World* - Nov 25, 02:59 IST (iso: 2026-11-24T21:29:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/cia-cyberattack_3c58d7cf13cd08d4193a1dd4f9838814.jpeg?w=1200&dpr=1.0 -->
+
+सीआईए के गैर-गोपनीय सिस्टम में साइबर हमला हुआ है। इससे पहले एफबीआई के सिस्टम में भी सेंध मारी गई थी। अमेरिकी खुफिया एजेंसियों पर लगातार हमले चिंता का विषय बन रहे हैं। एफबीआई के बाद सीआईए का गैर-गोपनीय सिस्टम में लगी सेंध, खुफिया एजेंसियों पर साइबर हमले से बढ़ी चिंता।
 
 ---
 
