@@ -1,33 +1,93 @@
 {
-  "generated_at": "2026-11-24T02:39:58.682086+00:00",
+  "generated_at": "2026-11-24T13:01:09.332849+00:00",
   "article_count": 50,
-  "total_unique_count": 256,
+  "total_unique_count": 262,
   "digest": {
-    "en": "Vance and Rubio are in Doha trying to pin down Trump’s next move on Iran. Meanwhile, a federal appeals court just handed Trump a legal path to erase his hush money conviction.",
-    "hi": "नवंबर की शुरुआत में एनवीडिया के सीईओ की वापसी और चीन के भारत दौरे की तैयारियां प्रमुख हैं। पीएम मोदी के दिल्ली में होने वाले भाजपा सम्मेलन से पहले ये घटनाक्रम ध्यान खींच रहे हैं।"
+    "en": "Jensen Huang’s return locks Nvidia deeper into US statecraft, reshaping semiconductor policy. Meanwhile, the UN warns the Gaza war has undone 77 years of human development. These threads highlight the widening gap between geopolitical strategy and human cost.",
+    "hi": "चीन के स्पेस स्टेशन में पाकिस्तानी एस्ट्रोनॉट की पहली विदेशी यात्रा की तैयारी अमेरिका में ट्रंप और जेन्सेन की संपत्ति संबंधी खबरों के बीच चल रही है। यूएई में बस-ट्रक हादसे में 11 मौतों के बाद क्षेत्रीय सुरक्षा और स्वास्थ्य संकटों का दायरा और फैल गया है।"
   },
   "articles": [
     {
-      "title": "Vance, Rubio meet with Qatari PM as uncertainty mounts over Trump's intentions with Iran",
-      "url": "https://www.thehindu.com/news/international/vance-rubio-meet-with-qatari-pmas-uncertainty-mounts-over-trumps-intentions-with-iran/article71737051.ece",
-      "source": "The Hindu (International)",
+      "title": "Contrer la menace du Jnim sur les centres urbains du Sahel",
+      "url": "https://www.crisisgroup.org/fr/brf/africa/burkina-faso-mali-niger/b213-handling-jnims-threat-sahels-urban-heartlands",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-11-24T02:13:19+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/gvm2i4/article71737054.ece/alternates/LANDSCAPE_1200/2026-11-20T173832Z_706262908_RC2TROA4ZD8Q_RTRMADP_3_USA-TRUMP.JPG",
-      "summary": "Vance and Rubio met the Qatari prime minister as uncertainty grew over Trump's Iran strategy. Trump told Vance the administration did not need a deal with Iran. He instructed Vance to focus on fraud and crime in Democratic-led cities after the Republican midterm losses. The development comes after Donald Trump told Mr. Vance that the administration did not need a deal with Iran and instructed him to focus on fraud and crime in Democratic-led cities following the Republican Party's wipeout in this month's midterm election.",
+      "published_at": "Vendredi, novembre 20, 2026 - 11:15",
+      "image_url": "https://images.pexels.com/photos/41165037/pexels-photo-41165037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Al-Qaeda in the Sahel has intensified attacks on urban centers. Military responses risk worsening the human toll. Negotiated solutions may offer a less damaging path forward for the region. Ces dernières années, la branche d’al-Qaeda au Sahel a multiplié les assauts contre les villes de la région. Chercher à vaincre les jihadistes par les armes ne ferait qu’alourdir un bilan humain déjà considérable.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Questions sur un retour en force",
+      "url": "https://www.crisisgroup.org/fr/pod/africa/sahel/algerie-sahel-questions-sur-un-retour-en-force",
+      "source": "International Crisis Group",
+      "sources": [],
+      "published_at": "Vendredi, novembre 20, 2026 - 10:20",
+      "image_url": "https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Crisis Group analysts discussed the deployment of Algerian troops in Niger. They examined how this military presence affects regional security balances. The conversation highlighted shifting dynamics in the Sahel. Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Ibrahim Yahaya Ibrahim, Directeur Adjoint du Projet Sahel, Ibrahim Maïga, Conseiller Spécial pour le Sahel et Michaël Ayari, Analyste Senior pour la Tunisie et l’Algérie à Crisis Group, pour parler du déploiement de troupes algériennes au Niger et des répercussions de cette présence militaire sur les équilibres sécuritaires.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Federal appeals court gives President Donald Trump path to erasing hush money conviction",
-      "url": "https://www.thehindu.com/news/international/federal-appeals-court-gives-president-donald-trump-path-to-erasing-hush-money-conviction/article71736252.ece",
+      "title": "Huang’s comeback won’t ease Southeast Asia’s data center crunch",
+      "url": "https://asiatimes.com/2026/11/huangs-comeback-wont-ease-southeast-asias-data-center-crunch/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-24T11:58:25+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Data-Centers-Thailand.jpg",
+      "summary": "Jensen Huang returned as Nvidia chief executive after a board vote. Nvidia shares rose over 31 percent in New York. Southeast Asia still faces a severe data center shortage despite the stock rally. Monday’s unanimous board vote reinstating Jensen Huang as Nvidia chief executive, backed publicly by US President Donald Trump, triggered a sharp relief rally across global artificial intelligence stocks, with Nvidia shares surging more than 31% in New York trading.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Coating wear makes China’s stealth fighters easier to target",
+      "url": "https://asiatimes.com/2026/11/coating-wear-makes-chinas-stealth-fighters-easier-to-target/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-24T09:52:40+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/China-Stealth-Fighter.jpeg",
+      "summary": "New data shows stealth coating wear increases radar reflection. Losing ten percent of the coating nearly doubles microwave power. This challenges the effectiveness of low-observable aircraft in harsh conditions. New laboratory data on stealth coating degradation, rapidly expanding fighter fleets, harsh maritime sustainment, and evolving counter-stealth sensors test whether low-observable aircraft can stay decisive without broader operational adaptation. This month, the South China Morning Post (SCMP) reported that losing just 10% of a radar-absorbing coating can nearly double reflected microwave power in.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "How Herat defied the Taliban regime, chanting ‘women, work and freedom’",
+      "url": "https://www.thehindu.com/news/international/how-herat-defied-the-taliban-regime-chanting-women-work-and-freedom/article71109347.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-11-23T21:36:25+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/j7v72z/article71736368.ece/alternates/LANDSCAPE_1200/2026-11-23T175105Z_1421164491_RC2TROAZ0M6H_RTRMADP_3_BOEING-TRUMP.JPG",
-      "summary": "A federal appeals court ordered a lower court to decide if Trump's hush money case stays in federal court. If it does, Trump can argue for dismissal based on presidential immunity. The panel's ruling provides a legal path to erasing his conviction. The panel ordered a lower court to promptly issue a decision on whether the case should remain in federal court; if that happens, Mr.",
-      "region": "Americas",
+      "published_at": "2026-11-24T09:40:57+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/6c45b2/article71110766.ece/alternates/LANDSCAPE_1200/AFP_B6RM2TR.jpg",
+      "summary": "Women in Herat protested Taliban dress code enforcement in early June. Authorities arrested many women for wearing traditional manto instead of burqa. Communities rallied, leading to the release of the detainees. The protests in the Afghan city in the first week of June were triggered by the enforcement of a dress code, which requires women to wear burqa in public; many women, including those wearing traditional Afghan wear of manto, were arrested, but released later as entire communities protested.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Asia rescues markets, Trump rescues Jensen Huang",
+      "url": "https://asiatimes.com/2026/11/asia-rescues-markets-trump-rescues-jensen-huang/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-24T09:10:37+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Markets-AI.jpg",
+      "summary": "Asian governments banned short sales and deployed state funds to stabilize markets after a global selloff hit the artificial intelligence sector. Seoul, Taipei, and Beijing acted to prevent a tech rout from spreading. Trump also intervened to support Jensen Huang during the downturn. NEW YORK – When a brutal global selloff wiped trillions of dollars off the artificial intelligence trade, Asia’s policymakers did what they always do: they reached deep into their crisis playbooks.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+      "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-11-23T16:53:13+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=140&quality=85&auto=format&fit=max&s=d194d9f5df8e59bfdf87755fa37443e4",
+      "summary": "Speightstown in Barbados signed a three-year twinning agreement with Bristol, United Kingdom. Labour minister Colin Jordan stated the deal acknowledges the historical links between the two places. The partnership is described as part of a broader reparative process regarding the transatlantic slave trade. Island’s labour minister, Colin Jordan, says agreement acknowledges links between Speightstown and UK city are rooted in slave tradeA town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a centuries-long relationship rooted in the transatlantic slave trade. Barbados says the new partnership between Speightstown and Bristol is part.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -39,30 +99,6 @@
       "published_at": "2026-11-23T16:28:35+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Trump-Jensen-Huang-Nvidia.jpg",
       "summary": "Nvidia's board reinstated Jensen Huang as CEO less than two weeks after his resignation. Shares surged roughly thirty percent in New York trading. Investors priced in product roadmap continuity, treating the reversal as an immediate restoration of the status quo. When Nvidia’s board voted unanimously on Monday to reinstate Jensen Huang as chief executive less than two weeks after his resignation, equity markets treated the reversal as an immediate restoration of the status quo.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Zelenskyy calls for four-way talks with Russia ‘as soon as possible’",
-      "url": "https://www.thehindu.com/news/international/zelenskyy-calls-for-four-way-talks-with-russia-as-soon-as-possible/article71734890.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-23T15:18:20+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/qwbdrg/article71734992.ece/alternates/LANDSCAPE_1200/Ireland_Ukraine_Envoy_67115.jpg",
-      "summary": "Ukrainian President Zelenskyy requested immediate four-way talks with Russia. U. S. envoy Jared Kushner suggested Washington might offer Ukraine a security guarantee. This proposal resembles the Article 5 protection provided to NATO members. The discussion occurred during a gathering in Berlin. During a gathering of Ukrainian supporters in Berlin last week, U. envoy Jared Kushner said that Washington might consider offering Ukraine a security guarantee similar to that provided under Article 5 of the North Atlantic Treaty as part of a peace settlement.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Modi’s Canada visit is set to move ties in a new direction: Vina Nadjibulla",
-      "url": "https://www.thehindu.com/news/national/modis-canada-visit-is-set-to-move-ties-in-a-new-direction-vina-nadjibulla/article71734232.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-23T14:15:18+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/r8a3c4/article71734449.ece/alternates/LANDSCAPE_1200/2025-06-17T214312Z_501434211_RC2F4FAWT37H_RTRMADP_3_G7-SUMMIT.JPG",
-      "summary": "Vina Nadjibulla notes that India and Canada are shifting their relationship focus. Both governments now prioritize mutual security interests over historical differences. This approach aims to stabilize bilateral ties. The change marks a significant diplomatic pivot for the two nations. What has changed is that both governments appear increasingly willing to approach security issues through the lens of mutual security interests, rather than allowing these differences to define the entire relationship, says CEO of the Vancouver-based think tank.",
       "region": "Americas",
       "language": "en",
       "translations": {}
@@ -128,6 +164,18 @@
       "translations": {}
     },
     {
+      "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
+      "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-11-23T05:45:12+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/47cbe1be874ceb93fbcf458afaae7d1de459017b/308_0_3265_2613/master/3265.jpg?width=140&quality=85&auto=format&fit=max&s=5434d79e2c7db3afb55b15a2183bcef2",
+      "summary": "At least 24 people died in a fire at a confectionery factory in Indonesia. Rescuers searched unstable structures for about 30 missing workers. Authorities are investigating the cause of the blaze that broke out on Saturday. DNA testing is required to identify the victims. Rescuers brave unstable structures in search for missing as DNA needed to identify victimsIndonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures in the burned wreckage to search for ⁠about 30 people ⁠still missing. Authorities ​were still investigating the cause of the fire, which broke out on Saturday in the PT Fonusa Agung Mu.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "China’s plan to weaponize infrastructure gear",
       "url": "https://asiatimes.com/2026/11/underground-empire-chinas-plan-to-weaponize-infrastructure-gear/",
       "source": "Asia Times",
@@ -135,18 +183,6 @@
       "published_at": "2026-11-23T04:48:13+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/China-Tunnel-Boring-Machines.jpg",
       "summary": "China imposed strict export controls on tunnel boring machines on November 18. The move coincided with the APEC summit. Leaders from Indonesia, Australia, Singapore, Malaysia, and Thailand stayed in the region. They skipped their flights home to discuss the new restrictions. On November 18, the day APEC leaders gathered, China quietly activated a powerful new geopolitical weapon: strict export controls on tunnel boring machines (TBMs).",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China’s mystery MQ-25-like drone built for Pacific power reach",
-      "url": "https://asiatimes.com/2026/11/chinas-mystery-mq-25-like-drone-built-for-pacific-power-reach/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-11-23T03:47:28+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/China-Mystery-Drone-copy-1.jpeg",
-      "summary": "Satellite imagery showed an unidentified uncrewed aircraft at Pucheng Neifu Airport in Shaanxi Province. The drone resembles the Boeing MQ-25A Stingray carrier tanker. It was spotted alongside a CH-7 stealth drone and a Jiutian mothership. The aircraft measures roughly 20 meters in wingspan. Satellite imagery revealed an unidentified uncrewed aircraft at Pucheng Neifu Airport in China’s Shaanxi Province, bearing strong visual similarities to Boeing’s MQ-25A Stingray carrier tanker, alongside a CH-7 stealth flying-wing drone and a Jiutian drone mothership, multiple media outlets reported.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -176,18 +212,6 @@
       "translations": {}
     },
     {
-      "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-22T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_SG-Mottley-presser.jpg/image770x420cropped.jpg",
-      "summary": "António Guterres expressed disappointment over the collapse of COP31 negotiations. He made the comments during a visit to Barbados. The Secretary-General urged stronger action on fossil fuels. He also called for increased climate finance for vulnerable nations. Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.",
-      "region": "Americas",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
       "source": "UN News",
@@ -212,6 +236,18 @@
       "translations": {}
     },
     {
+      "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-22T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_SG-Mottley-presser.jpg/image770x420cropped.jpg",
+      "summary": "António Guterres expressed disappointment over the collapse of COP31 negotiations. He made the comments during a visit to Barbados. The Secretary-General urged stronger action on fossil fuels. He also called for increased climate finance for vulnerable nations. Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.",
+      "region": "Americas",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Afghan Women Turn To Social Media To Earn Living As Doors Close Offline",
       "url": "https://www.rferl.org/a/afghan-kabul-female-influencers-social-media-taliban/33902659.html",
       "source": "Radio Free Europe / Liberty",
@@ -219,18 +255,6 @@
       "published_at": "2026-11-22T08:12:45+00:00",
       "image_url": "https://gdb.rferl.org/41c3c27d-3b1a-4c0b-a223-d573f8eba5a8_w1200_h630.jpg",
       "summary": "Afghan women are building personal brands on social media. They use Instagram, TikTok, and YouTube to earn a living. Content features cooking, shopping, and family gatherings. This shift occurs as offline opportunities have closed under Taliban rule. Afghan women who have had their lives sharply restricted by Taliban rule have responded by building personal brands on Instagram, TikTok, and YouTube showing them cooking at home, shopping in bazaars, or meeting friends and family.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "China’s open-weight AI models are coming for America’s market",
-      "url": "https://asiatimes.com/2026/11/chinas-open-weight-ai-models-are-coming-for-americas-market/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-11-22T03:42:39+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/DeepSeek-China-AI-Artificial-Intelligence.jpg",
-      "summary": "The Trump administration is considering requiring US companies to disclose their use of Chinese AI models. This move follows growing adoption of tools from DeepSeek, Alibaba, and Moonshot AI. American firms are shifting to these lower-cost alternatives. The deliberation aims to address the rising market share of Chinese open-weight models in the United States. The Trump administration is weighing whether to require American companies to disclose their use of Chinese artificial intelligence, Reuters reported on November 18.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -260,499 +284,475 @@
       "translations": {}
     },
     {
-      "title": "China commits to low-carbon electrification and help for others to improve",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-      "source": "The Guardian",
+      "title": "High Stakes in Iraq’s Push to Reclaim Jurf al-Sakhar",
+      "url": "https://www.crisisgroup.org/qna/middle-east-north-africa/iraq/high-stakes-iraqs-push-reclaim-jurf-al-sakhar",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-11-21T09:47:57+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/9e68aee336577ce0e768fd142e23caf3b9396a18/240_71_6107_4885/master/6107.jpg?width=140&quality=85&auto=format&fit=max&s=71e768ed29a219f5ff58d9520b737a67",
-      "summary": "China pledged to accelerate low-carbon electrification and assist other nations in doing the same. Wang Yi made the commitment at the Cop31 summit. The goal aligns with broader calls for countries to derive 35% of their energy from electricity by 2035. Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035Cop31 live – latest updatesChina is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said. Wang Yi, a professor of energy and environment policy.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Why Takaichi should stick to her guns on Taiwan",
-      "url": "https://asiatimes.com/2026/11/why-takaichi-should-stick-to-her-guns-on-taiwan/",
-      "source": "Asia Times",
-      "sources": [],
-      "published_at": "2026-11-21T06:49:19+00:00",
-      "image_url": "https://asiatimes.com/wp-content/uploads/2025/12/Japan-Sanae-Takaichi-.jpg",
-      "summary": "Japanese Prime Minister Sanae Takaichi stated Chinese force against Taiwan could trigger Self-Defense Forces deployment. The remark drew significant criticism from Beijing. China responded with economic and diplomatic pressure against Tokyo. On November 7, 2025, Japanese Prime Minister Sanae Takaichi was pressed repeatedly in parliament about a possible Chinese invasion or naval blockade of Taiwan. She eventually said that Chinese use of force could trigger the deployment of Japan’s Self-Defense Forces.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-11-20T21:47:41+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=07ff49e86c3162c2f8cbd055b6230888",
-      "summary": "Donald Trump threatened to impose severe penalties on American tech firms constructing datacenters outside the United States. He made the statement during a White House press conference on Friday. The president provided no specific details regarding the nature or scale of these penalties. He also admitted he had not yet briefed his own officials on the plan. President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White.",
-      "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-20T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image560x340cropped.jpg",
-      "summary": "Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
+      "published_at": "2026-11-20T20:40:00+00:00",
+      "image_url": "https://images.pexels.com/photos/6664196/pexels-photo-6664196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iraqi government forces entered Jurf al-Sakhar on 20 November to reclaim the area from Kata’ib Hizbollah. Prime Minister Ali al-Zaidi restored state authority in the stronghold. Crisis Group expert Lahib Higel explained the circumstances that allowed the military operation to proceed successfully. On 20 November, Iraqi government forces entered Jurf al-Sakhar, a stronghold of the Iran-backed group Kata’ib Hizbollah. In this Q&A, Crisis Group expert Lahib Higel explains the circumstances that allowed Prime Minister Ali al-Zaidi to restore state authority in this area.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "इस्तीफे के 11 दिन बाद फिर कैसे बने एनवीडिया के सीईओ? जासूसी से वापसी तक की पूरी कहानी",
-      "url": "https://www.amarujala.com/world/jensen-huang-nvidia-ceo-return-11-days-spy-scandal-trump-support-2026-11-24",
-      "source": "Amar Ujala World",
+      "title": "General Assembly President tells Rohingya refugees after genocide ruling",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
+      "source": "UN News",
       "sources": [],
-      "published_at": "2026-11-24T06:55:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/jensen-huang_89d53c79ac24de9e8575d0f6227872a4.jpeg?w=1200&dpr=1.0",
-      "summary": "जेन्सन ह्वानग ने एनवीडिया के सीईओ पद पर वापसी की। जासूसी विवाद के बाद इस्तीफे के 11 दिन बाद ही उन्हें फिर से नियुक्त किया गया। कंपनी ने इस फैसले से प्रबंधन में स्थिरता लाने का संकेत दिया है। हुआंग को दोबारा कमान: इस्तीफे के 11 दिन बाद फिर कैसे बने एनवीडिया के सीईओ? जासूसी से वापसी तक की पूरी कहानी।",
+      "published_at": "2026-11-20T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image560x340cropped.jpg",
+      "summary": "The President of the UN General Assembly visited Cox’s Bazar refugee camps in Bangladesh. This occurred one day after the International Court of Justice ruled Myanmar committed genocide against the Rohingya. The official urged the international community to turn the landmark judgement into concrete action. A day after the UN’s highest court found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "जिस बीमारी ने बांग्लादेश में ली 1300 जान, वो अब अमेरिका में फैली, बढ़ने लगी मरने वालों की संख्या!",
+      "url": "https://hindi.news18.com/world/america-measles-outbreak-hits-us-after-claiming-over-1300-lives-in-bangladesh-as-death-toll-rises-to-13-virginia-pennsylvania-11009898.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T12:48:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Measles-In-America-2026-11-5787d8a582e085d74d592d3bf5f261c7-1200x800.jpg",
+      "summary": "अमेरिका ने 26 साल बाद खसरे से मुक्त होने का दर्जा खो दिया है। बीमारी 12 महीने से फैल रही है। वर्जीनिया और पेंसिल्वेनिया में 13 मौतें हुईं। बच्चों और वयस्कों दोनों को खतरा है। बांग्लादेश में खसरे ने 1,350 से ज्यादा लोगों की जान ले ली है. वहां टीकों की कमी से हालात बिगड़े हैं. अब यही खतरनाक बीमारी 26 साल बाद अमेरिका में भी लौट आई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जिस बीमारी ने बांग्लादेश में ली 1300 जान, वो अब अमेरिका में फैली, बढ़ने लगी मरने वालों की संख्या!",
+          "summary": "अमेरिका ने 26 साल बाद खसरे से मुक्त होने का दर्जा खो दिया है। बीमारी 12 महीने से फैल रही है। वर्जीनिया और पेंसिल्वेनिया में 13 मौतें हुईं। बच्चों और वयस्कों दोनों को खतरा है। बांग्लादेश में खसरे ने 1,350 से ज्यादा लोगों की जान ले ली है. वहां टीकों की कमी से हालात बिगड़े हैं. अब यही खतरनाक बीमारी 26 साल बाद अमेरिका में भी लौट आई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "इश्क, इस्तीफा और 125 करोड़! ट्रंप-जेन्सेन की दोस्ती में छिपी है सत्ता और संपत्ति के रिश्ते की कहानी",
+      "url": "https://hindi.news18.com/news/business/latest-trump-jensen-huang-nvidia-125-crore-shares-10-day-row-11009808.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T12:15:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/trumpwithjensen-2026-11-21dff6f75a1b71e17b3116c98c87a896-1200x800.jpg",
+      "summary": "ट्रंप ने एनवीडिया सीईओ जेन्सेन हुआंग की वापसी में अपनी भूमिका स्वीकार की। शेयर 30 फीसदी चढ़े। ट्रंप को 11 से 125 करोड़ रुपये तक का लाभ हुआ हो सकता है। यह लाभ उनके संभावित निवेश पर आधारित है। ट्रंप ने खुलकर एनवीडिया सीईओ जेन्सेन हुआंग की वापसी का क्रेडिट लिया है. अगले ही दिन, अमेरिकी शेयर बाजार में दिलचस्प कनेक्शन सामने आ गया.",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "इस्तीफे के 11 दिन बाद फिर कैसे बने एनवीडिया के सीईओ? जासूसी से वापसी तक की पूरी कहानी",
-          "summary": "जेन्सन ह्वानग ने एनवीडिया के सीईओ पद पर वापसी की। जासूसी विवाद के बाद इस्तीफे के 11 दिन बाद ही उन्हें फिर से नियुक्त किया गया। कंपनी ने इस फैसले से प्रबंधन में स्थिरता लाने का संकेत दिया है। हुआंग को दोबारा कमान: इस्तीफे के 11 दिन बाद फिर कैसे बने एनवीडिया के सीईओ? जासूसी से वापसी तक की पूरी कहानी।",
+          "title": "इश्क, इस्तीफा और 125 करोड़! ट्रंप-जेन्सेन की दोस्ती में छिपी है सत्ता और संपत्ति के रिश्ते की कहानी",
+          "summary": "ट्रंप ने एनवीडिया सीईओ जेन्सेन हुआंग की वापसी में अपनी भूमिका स्वीकार की। शेयर 30 फीसदी चढ़े। ट्रंप को 11 से 125 करोड़ रुपये तक का लाभ हुआ हो सकता है। यह लाभ उनके संभावित निवेश पर आधारित है। ट्रंप ने खुलकर एनवीडिया सीईओ जेन्सेन हुआंग की वापसी का क्रेडिट लिया है. अगले ही दिन, अमेरिकी शेयर बाजार में दिलचस्प कनेक्शन सामने आ गया.",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "बालेन शाह के भारत दौरे पर थी ड्रैगन की नजर, क्यों चीन से पहले पहुंचे यहां? ऐसे डिकोड की पॉलिसी",
-      "url": "https://hindi.news18.com/world/south-asia-nepal-pm-balen-shah-india-visit-what-chinese-media-says-about-choosing-india-over-china-ws-l-11008137.html",
+      "title": "अमेरिका में 2 तूफानों का डबल अटैक: 96 KM स्पीड से आंधी और बाढ़, अगले 24 घंटों में डूब सकते हैं 2",
+      "url": "https://hindi.news18.com/world/america-twin-storms-to-hit-both-coasts-of-usa-thanksgiving-flood-alert-weather-update-11009779.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-24T02:25:08+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/balen-shah-news-2026-11-f787f2b6b54c59e8792bb21fa1c2f246-1200x800.jpg",
-      "summary": "नेपाल के प्रधानमंत्री बालेन शाह ने चीन से पहले भारत का दौरा किया। उन्होंने द्विपक्षीय संबंधों को मजबूत करने पर जोर दिया। इससे चीन की प्रतिक्रिया का इंतजार है। Balen Shah Visit in India: जब से बालेन शाह नेपाल के प्रधानमंत्री बने हैं, वे कई महीनों तक किसी विदेश दौरे पर नहीं गए. द्विपक्षीय वार्ता के लिए वे चीन को पहले चुनेंगे या भारत को, इसे लेकर भी अटकलें लगाई जा रही थीं लेकिन बालेन शाह ने भारत आकर पारंपरिक और ऐतिहासिक दोस्ती को आगे बढ़ाया.",
-      "region": "Asia-Pacific",
+      "published_at": "2026-11-24T12:12:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/USA_Storm_Weather-2026-11-ca9266be40fab9da697f98856f90fa0a-1200x800.jpg",
+      "summary": "अमेरिका के दोनों तटों पर दो तूफान एक साथ आ रहे हैं। हवाओं की रफ्तार 60 मील प्रति घंटे होगी। वेस्ट कोस्ट पर समुद्री पानी 1983 के रिकॉर्ड के करीब पहुंच सकता है। 10 से ज्यादा राज्यों में बाढ़ का खतरा है। Twin Storms Alert: अमेरिका के ईस्ट और वेस्ट दोनों कोस्ट पर अगले 12 घंटों में 2 बड़े तूफान एक साथ हमला करने जा रहे हैं.",
+      "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "बालेन शाह के भारत दौरे पर थी ड्रैगन की नजर, क्यों चीन से पहले पहुंचे यहां? ऐसे डिकोड की पॉलिसी",
-          "summary": "नेपाल के प्रधानमंत्री बालेन शाह ने चीन से पहले भारत का दौरा किया। उन्होंने द्विपक्षीय संबंधों को मजबूत करने पर जोर दिया। इससे चीन की प्रतिक्रिया का इंतजार है। Balen Shah Visit in India: जब से बालेन शाह नेपाल के प्रधानमंत्री बने हैं, वे कई महीनों तक किसी विदेश दौरे पर नहीं गए. द्विपक्षीय वार्ता के लिए वे चीन को पहले चुनेंगे या भारत को, इसे लेकर भी अटकलें लगाई जा रही थीं लेकिन बालेन शाह ने भारत आकर पारंपरिक और ऐतिहासिक दोस्ती को आगे बढ़ाया.",
-          "region": "एशिया-प्रशांत"
+          "title": "अमेरिका में 2 तूफानों का डबल अटैक: 96 KM स्पीड से आंधी और बाढ़, अगले 24 घंटों में डूब सकते हैं 2",
+          "summary": "अमेरिका के दोनों तटों पर दो तूफान एक साथ आ रहे हैं। हवाओं की रफ्तार 60 मील प्रति घंटे होगी। वेस्ट कोस्ट पर समुद्री पानी 1983 के रिकॉर्ड के करीब पहुंच सकता है। 10 से ज्यादा राज्यों में बाढ़ का खतरा है। Twin Storms Alert: अमेरिका के ईस्ट और वेस्ट दोनों कोस्ट पर अगले 12 घंटों में 2 बड़े तूफान एक साथ हमला करने जा रहे हैं.",
+          "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "पीएम किसान योजना की 25वीं किस्त कब आएगी आपके बैंक खाते में? यहां जानें योजना से जुड़े किसान",
-      "url": "https://www.amarujala.com/photo-gallery/utility/pm-kisan-25th-installment-when-will-farmers-receive-the-next-2000-rupees-payment-2026-11-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-24T02:24:50+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/kasana-ka-kab-malga-25va-kasata_828c35cf8f4624afef3470981aedef12.jpeg?w=1200&dpr=1.0",
-      "summary": "पीएम किसान योजना की 24वीं किस्त 30 अक्टूबर 2026 को भेजी गई थी। अब किसान 25वीं किस्त का इंतजार कर रहे हैं। सरकार ने अभी तक नई तिथि की घोषणा नहीं की है। पीएम किसान योजना की 24वीं किस्त 30 अक्तूबर 2026 को किसानों के खातों में भेजी गई थी ऐसे में अब लाभार्थियों को 25वीं किस्त का इंतजार है और सवाल ये है कि ये इंतजार कब खत्म होगा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पीएम किसान योजना की 25वीं किस्त कब आएगी आपके बैंक खाते में? यहां जानें योजना से जुड़े किसान",
-          "summary": "पीएम किसान योजना की 24वीं किस्त 30 अक्टूबर 2026 को भेजी गई थी। अब किसान 25वीं किस्त का इंतजार कर रहे हैं। सरकार ने अभी तक नई तिथि की घोषणा नहीं की है। पीएम किसान योजना की 24वीं किस्त 30 अक्तूबर 2026 को किसानों के खातों में भेजी गई थी ऐसे में अब लाभार्थियों को 25वीं किस्त का इंतजार है और सवाल ये है कि ये इंतजार कब खत्म होगा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "नेपाल में 5.3 तीव्रता का भूकंप: सुबह 7:02 बजे महसूस किए गए झटके; 20 किमी गहराई पर था केंद्र",
-      "url": "https://www.amarujala.com/world/nepal-earthquake-shakes-parts-of-country-on-tuesday-morning-2026-11-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-24T02:16:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/08/nepal-earthquake_705592cf5df51e9dfbac3ac107be938a.jpeg?w=1200&dpr=1.0",
-      "summary": "नेपाल में 5.3 तीव्रता का भूकंप आया। सुबह 7:02 बजे झटके महसूस किए गए। भूकंप का केंद्र 20 किलोमीटर गहराई पर था। नेपाल में 5.3 तीव्रता का भूकंप: सुबह 7:02 बजे महसूस किए गए झटके; 20 किमी गहराई पर था केंद्र।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नेपाल में 5.3 तीव्रता का भूकंप: सुबह 7:02 बजे महसूस किए गए झटके; 20 किमी गहराई पर था केंद्र",
-          "summary": "नेपाल में 5.3 तीव्रता का भूकंप आया। सुबह 7:02 बजे झटके महसूस किए गए। भूकंप का केंद्र 20 किलोमीटर गहराई पर था। नेपाल में 5.3 तीव्रता का भूकंप: सुबह 7:02 बजे महसूस किए गए झटके; 20 किमी गहराई पर था केंद्र।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "स्कॉर्पियो-ट्रक आमने-सामने टकराए, बिहार में सड़क हादसे में पांच की मौत; मासूम समेत चार गंभीर",
-      "url": "https://www.amarujala.com/bihar/munger/lakhisarai-bihar-road-accident-news-today-lakhisarai-accident-death-bihar-news-2026-11-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-24T02:08:54+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/maka-para-majatha-lga_fd2334ecb11471b36195bc3a064a716b.jpeg?w=1200&dpr=1.0",
-      "summary": "बिहार के लखीसराय में स्कॉर्पियो और ट्रक की टक्कर में पांच लोगों की मौत हो गई। चार लोग गंभीर रूप से घायल हुए। सभी एक ही परिवार के थे और मोतिहारी के निवासी बताए जा रहे हैं। लखीसराय के तेतरहट थाना क्षेत्र में स्कॉर्पियो और ट्रक की आमने-सामने टक्कर में पांच लोगों की मौत हो गई, जबकि मासूम बच्चे और महिला समेत चार लोग गंभीर रूप से घायल हैं।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्कॉर्पियो-ट्रक आमने-सामने टकराए, बिहार में सड़क हादसे में पांच की मौत; मासूम समेत चार गंभीर",
-          "summary": "बिहार के लखीसराय में स्कॉर्पियो और ट्रक की टक्कर में पांच लोगों की मौत हो गई। चार लोग गंभीर रूप से घायल हुए। सभी एक ही परिवार के थे और मोतिहारी के निवासी बताए जा रहे हैं। लखीसराय के तेतरहट थाना क्षेत्र में स्कॉर्पियो और ट्रक की आमने-सामने टक्कर में पांच लोगों की मौत हो गई, जबकि मासूम बच्चे और महिला समेत चार लोग गंभीर रूप से घायल हैं।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "विजय सेतुपति बने प्रेजेंटर, देश को मिले 2 नामांकन; जानें भारत में कैसे देखें?",
-      "url": "https://www.amarujala.com/entertainment/bollywood/international-emmys-2026-2-nods-for-india-vijay-sethupathi-become-presenter-know-what-is-special-2026-11-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-24T02:07:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/vajaya-satapata_4451af7066a1800f2ddc47b232f48c9b.jpeg?w=1200&dpr=1.0",
-      "summary": "इंटरनेशनल एमी अवार्ड्स में विजय सेतुपति प्रेजेंटर बने हैं। माइकल उरी होस्ट करेंगे। प्रोड्यूसर कविता गुप्ता ने इस भूमिका में उनकी भूमिका निभाई। प्रोड्यूसर कविता गुप्ता ने विजय सेतुपति को इस इवेंट में लाने में अहम भूमिका निभाई है। विजय सेतुपति बने प्रेजेंटर, देश को मिले 2 नामांकन; जानें भारत में कैसे देखें?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "विजय सेतुपति बने प्रेजेंटर, देश को मिले 2 नामांकन; जानें भारत में कैसे देखें?",
-          "summary": "इंटरनेशनल एमी अवार्ड्स में विजय सेतुपति प्रेजेंटर बने हैं। माइकल उरी होस्ट करेंगे। प्रोड्यूसर कविता गुप्ता ने इस भूमिका में उनकी भूमिका निभाई। प्रोड्यूसर कविता गुप्ता ने विजय सेतुपति को इस इवेंट में लाने में अहम भूमिका निभाई है। विजय सेतुपति बने प्रेजेंटर, देश को मिले 2 नामांकन; जानें भारत में कैसे देखें?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मिशन 2027 की तैयारी में जुटी भाजपा: 27-28 नवंबर को दिल्ली में जुटेंगे दिग्गज; पीएम मोदी भी होंगे",
-      "url": "https://www.amarujala.com/india-news/gearing-up-for-2027-assembly-elections-bjp-will-hold-two-day-meeting-national-office-bearers-november-27-28-2026-11-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-24T02:04:32+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/parathhanamatara-narathara-matha-gaha-matara-amata-shaha_dfe0628058862a8e981329fd15edc771.jpeg?w=1200&dpr=1.0",
-      "summary": "भाजपा 27-28 नवंबर को दिल्ली में राष्ट्रीय कार्यालय सदस्यों की बैठक करेगी। मिशन 2027 की तैयारी का हिस्सा है। प्रधानमंत्री मोदी भी शामिल होंगे। मिशन 2027 की तैयारी में जुटी भाजपा: 27-28 नवंबर को दिल्ली में जुटेंगे दिग्गज; पीएम मोदी भी होंगे।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मिशन 2027 की तैयारी में जुटी भाजपा: 27-28 नवंबर को दिल्ली में जुटेंगे दिग्गज; पीएम मोदी भी होंगे",
-          "summary": "भाजपा 27-28 नवंबर को दिल्ली में राष्ट्रीय कार्यालय सदस्यों की बैठक करेगी। मिशन 2027 की तैयारी का हिस्सा है। प्रधानमंत्री मोदी भी शामिल होंगे। मिशन 2027 की तैयारी में जुटी भाजपा: 27-28 नवंबर को दिल्ली में जुटेंगे दिग्गज; पीएम मोदी भी होंगे।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "नींद खुली और धरती डोली, कार्तिक पूर्णिमा की सुबह बिहार में लोगों को कैसा झटका लगा?",
-      "url": "https://www.amarujala.com/india-news/earthquake-in-bihar-patna-earthquake-darbhanga-bhukamp-bihar-news-2026-11-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-24T01:51:15+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/10/04/earthquake_0ff737ed0cebe8c2667c242f5ab2cc63.jpeg?w=1200&dpr=1.0",
-      "summary": "कार्तिक पूर्णिमा की सुबह बिहार में भूकंप आया। पटना, वैशाली और दरभंगा में झटका महसूस हुआ। घटना सात बजकर पांच मिनट पर हुई। Earthquake in Bihar: कार्तिक पूर्णिमा की सुबह बिहार में लोगों को भूंकप का झटका महसूस हुआ। यह भूकंप करीब सात बजकर पांच मिनट पर आया। पटना, वैशाली, दरभंगा, समस्तीपुर आदि में झटका ज्यादा महसूस हुआ। नींद खुली और धरती डोली, कार्तिक पूर्णिमा की सुबह बिहार में लोगों को कैसा झटका लगा?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नींद खुली और धरती डोली, कार्तिक पूर्णिमा की सुबह बिहार में लोगों को कैसा झटका लगा?",
-          "summary": "कार्तिक पूर्णिमा की सुबह बिहार में भूकंप आया। पटना, वैशाली और दरभंगा में झटका महसूस हुआ। घटना सात बजकर पांच मिनट पर हुई। Earthquake in Bihar: कार्तिक पूर्णिमा की सुबह बिहार में लोगों को भूंकप का झटका महसूस हुआ। यह भूकंप करीब सात बजकर पांच मिनट पर आया। पटना, वैशाली, दरभंगा, समस्तीपुर आदि में झटका ज्यादा महसूस हुआ। नींद खुली और धरती डोली, कार्तिक पूर्णिमा की सुबह बिहार में लोगों को कैसा झटका लगा?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "तेज रफ्तार कार डिवाइडर से टकराकर तीन बार पलटी, एक की मौत; पांच घायल",
-      "url": "https://www.amarujala.com/rajasthan/jaipur/jaipur-car-accident-kills-one-and-injures-five-on-nivaru-road-2026-11-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-24T01:48:38+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/ekasadata_c7c609e11aeec1ee290f6a8e8187ede8.jpeg?w=1200&dpr=1.0",
-      "summary": "जयपुर के निवरू रोड बाइपास पर कार डिवाइडर से टकराई। वाहन तीन बार पलटा। एक की मौत हुई और पांच घायल हुए। इलाज एसएमएस अस्पताल में जारी है। जयपुर के निवरू रोड बाइपास पर तेज रफ्तार कार डिवाइडर से टकराकर तीन बार पलट गई। हादसे में एक व्यक्ति की मौत हो गई और पांच घायल हो गए। सभी घायलों का SMS अस्पताल में इलाज जारी है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तेज रफ्तार कार डिवाइडर से टकराकर तीन बार पलटी, एक की मौत; पांच घायल",
-          "summary": "जयपुर के निवरू रोड बाइपास पर कार डिवाइडर से टकराई। वाहन तीन बार पलटा। एक की मौत हुई और पांच घायल हुए। इलाज एसएमएस अस्पताल में जारी है। जयपुर के निवरू रोड बाइपास पर तेज रफ्तार कार डिवाइडर से टकराकर तीन बार पलट गई। हादसे में एक व्यक्ति की मौत हो गई और पांच घायल हो गए। सभी घायलों का SMS अस्पताल में इलाज जारी है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारतीय चेतना, सांस्कृतिक एकात्मता और समाज जागरण के महान प्रवर्तक",
-      "url": "https://www.amarujala.com/columns/blog/guru-nanak-jayanti-the-great-pioneer-of-indian-consciousness-cultural-unity-and-social-awakening-2026-11-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-24T01:44:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/17/guru-nanak-jayanti-2026_53e3234c4219971b361605e275f0240d.jpeg?w=1200&dpr=1.0",
-      "summary": "गुरु नानकदेव जी का जीवन लोदी शासन के अंत और मुगल स्थापना के समय का था। वे भारतीय चेतना और सांस्कृतिक एकात्मता के प्रवर्तक माने जाते हैं। समाज जागरण में उनकी भूमिका महत्वपूर्ण रही। गुरु नानकदेव जी का जीवनकाल लोदी शासन के अंतिम चरण और मुगल सत्ता की स्थापना के समय का था। भारतीय चेतना, सांस्कृतिक एकात्मता और समाज जागरण के महान प्रवर्तक।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारतीय चेतना, सांस्कृतिक एकात्मता और समाज जागरण के महान प्रवर्तक",
-          "summary": "गुरु नानकदेव जी का जीवन लोदी शासन के अंत और मुगल स्थापना के समय का था। वे भारतीय चेतना और सांस्कृतिक एकात्मता के प्रवर्तक माने जाते हैं। समाज जागरण में उनकी भूमिका महत्वपूर्ण रही। गुरु नानकदेव जी का जीवनकाल लोदी शासन के अंतिम चरण और मुगल सत्ता की स्थापना के समय का था। भारतीय चेतना, सांस्कृतिक एकात्मता और समाज जागरण के महान प्रवर्तक।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अब फोटो से खुद वीडियो बनाएगा गैलेक्सी एआई, गैलरी में मिलेगा नया 'शॉर्ट्स' फीचर",
-      "url": "https://www.amarujala.com/technology/tech-diary/samsung-one-ui-9-5-shorts-feature-galaxy-ai-video-creation-galaxy-s27-launch-2026-11-23",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-24T01:31:02+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/05/12/samsung-one-ui-update_9f71f1298940e1bea4458b9042992f6b.jpeg",
-      "summary": "सैमसंग Galaxy फोन की गैलरी ऐप में शॉर्ट्स नाम का नया एआई फीचर जोड़ रहा है। इससे उपयोगकर्ता टेक्स्ट कमांड देकर अपनी तस्वीरों और वीडियो से हाइलाइट रील बना सकेंगे। यह फीचर जल्द ही उपलब्ध होगा। सैमसंग अपने Galaxy फोन की Gallery एप में Shorts नाम का नया AI फीचर जोड़ सकता है। इसकी मदद से यूजर सिर्फ टेक्स्ट कमांड देकर अपनी तस्वीरों और वीडियो से हाइलाइट रील तैयार कर सकेंगे।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अब फोटो से खुद वीडियो बनाएगा गैलेक्सी एआई, गैलरी में मिलेगा नया 'शॉर्ट्स' फीचर",
-          "summary": "सैमसंग Galaxy फोन की गैलरी ऐप में शॉर्ट्स नाम का नया एआई फीचर जोड़ रहा है। इससे उपयोगकर्ता टेक्स्ट कमांड देकर अपनी तस्वीरों और वीडियो से हाइलाइट रील बना सकेंगे। यह फीचर जल्द ही उपलब्ध होगा। सैमसंग अपने Galaxy फोन की Gallery एप में Shorts नाम का नया AI फीचर जोड़ सकता है। इसकी मदद से यूजर सिर्फ टेक्स्ट कमांड देकर अपनी तस्वीरों और वीडियो से हाइलाइट रील तैयार कर सकेंगे।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "देशभर की नदियों और सरोवर पर उमड़ा श्रद्धालुओं का सैलाब, भक्तों ने लगाई आस्था की डुबकी",
-      "url": "https://www.amarujala.com/india-news/kartik-purnima-2026-devotees-take-holy-dip-across-india-also-guru-nanak-dev-jayanti-hindi-updates-2026-11-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-24T01:26:23+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/kartik-purnima-2026_60a8249e8c0ce11dedc3a847b64ba2c4.jpeg?w=1200&dpr=1.0",
-      "summary": "कार्तिक पूर्णिमा पर देशभर की नदियों और सरोवरों में श्रद्धालुओं की भीड़ उमड़ी। भक्तों ने पवित्र स्नान किया और आस्था की डुबकी लगाई। यह पर्व इस वर्ष विशेष उत्साह के साथ मनाया गया। देशभर की नदियों और सरोवर पर उमड़ा श्रद्धालुओं का सैलाब, भक्तों ने लगाई आस्था की डुबकी।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "देशभर की नदियों और सरोवर पर उमड़ा श्रद्धालुओं का सैलाब, भक्तों ने लगाई आस्था की डुबकी",
-          "summary": "कार्तिक पूर्णिमा पर देशभर की नदियों और सरोवरों में श्रद्धालुओं की भीड़ उमड़ी। भक्तों ने पवित्र स्नान किया और आस्था की डुबकी लगाई। यह पर्व इस वर्ष विशेष उत्साह के साथ मनाया गया। देशभर की नदियों और सरोवर पर उमड़ा श्रद्धालुओं का सैलाब, भक्तों ने लगाई आस्था की डुबकी।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "अनंत अंबानी ने किए बाबा विश्वनाथ के दर्शन, धाम को दान किए 5 करोड़; मां अन्नपूर्णा का भी लिया",
-      "url": "https://www.amarujala.com/uttar-pradesh/varanasi/anant-ambani-offers-prayers-at-baba-vishwanath-temple-donates-5-crore-to-the-shrine-2026-11-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-24T01:26:16+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/1_377449efbde74542eef3947f57a32b85.jpeg?w=1200&dpr=1.0",
-      "summary": "रिलायंस इंडस्ट्रीज के कार्यकारी निदेशक अनंत अंबानी ने बाबा विश्वनाथ के दर्शन किए। उन्होंने धाम को पांच करोड़ रुपये का दान दिया। साथ ही मां अन्नपूर्णा का भी दर्शन किया। रिलायंस इंडस्ट्रीज लिमिटेड के कार्यकारी निदेशक अनंत अंबानी ने सोमवार को बाबा विश्वनाथ के दर्शन किए। अनंत अंबानी ने किए बाबा विश्वनाथ के दर्शन, धाम को दान किए 5 करोड़; मां अन्नपूर्णा का भी लिया।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अनंत अंबानी ने किए बाबा विश्वनाथ के दर्शन, धाम को दान किए 5 करोड़; मां अन्नपूर्णा का भी लिया",
-          "summary": "रिलायंस इंडस्ट्रीज के कार्यकारी निदेशक अनंत अंबानी ने बाबा विश्वनाथ के दर्शन किए। उन्होंने धाम को पांच करोड़ रुपये का दान दिया। साथ ही मां अन्नपूर्णा का भी दर्शन किया। रिलायंस इंडस्ट्रीज लिमिटेड के कार्यकारी निदेशक अनंत अंबानी ने सोमवार को बाबा विश्वनाथ के दर्शन किए। अनंत अंबानी ने किए बाबा विश्वनाथ के दर्शन, धाम को दान किए 5 करोड़; मां अन्नपूर्णा का भी लिया।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "ईरानी गायिका को पड़े 74 कोड़े, गुनाह था बिना हिजाब के गाना, सिर खुला रखकर की थी वीडियो रिकॉर्डिंग",
-      "url": "https://hindi.news18.com/world/middle-east-iran-punishes-singer-parastoo-ahmadi-for-74-lashes-performing-without-hijab-in-youtube-concert-ws-l-11008055.html",
+      "title": "जहां स्ट्रीट-फूड खा रहे थे लोग वहां हुआ भीषण धमाका, 6 लोगों की दर्दनाक मौत, चेहरा पहचानना तक",
+      "url": "https://hindi.news18.com/world/rest-of-world-deadly-hanoi-blast-tears-through-street-food-area-6-killed-buildings-damaged-in-gas-explosion-11009714.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-24T01:08:18+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/parastoo-ahmadi-2026-11-70bf419e02acf0a260b3c0bdc15b0245-1200x800.jpg",
-      "summary": "ईरान में एक गायिका को बिना हिजाब के गाने के जुर्म में 74 कोड़े दिए गए। उसने सिर खुला रखकर वीडियो रिकॉर्डिंग की थी। यह सजा देश के कड़े कानूनों के तहत दी गई। Irani Singer Flogged by 74 lashes: ईरान में महिलाओं को सिर खुला रखने की आजादी नहीं है और ये कोई धार्मिक नसीहत नहीं बल्कि ऐसा कानून है, जो उन्हें कड़ी सजाओं का पात्र बना देता है.",
+      "published_at": "2026-11-24T12:11:50+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Vietnam-Blast-2026-11-4d98203e2dbb36dee2b97ed121667eac-1200x800.jpg",
+      "summary": "वियतनाम की राजधानी हनोई के डोंग दा जिले में रेस्तरां में धमाका हुआ। छह लोगों की मौत हुई और 10 घायल हुए। इमारत का हिस्सा गिर गया। खाना पकाने वाली गैस को मुख्य कारण माना जा रहा है। वियतनाम की राजधानी हनोई के डोंग दा जिले में मंगलवार सुबह एक रेस्तरां में जोरदार धमाका हुआ. इस हादसे में कम से कम छह लोगों की जान चली गई और 10 अन्य घायल हो गए।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जहां स्ट्रीट-फूड खा रहे थे लोग वहां हुआ भीषण धमाका, 6 लोगों की दर्दनाक मौत, चेहरा पहचानना तक",
+          "summary": "वियतनाम की राजधानी हनोई के डोंग दा जिले में रेस्तरां में धमाका हुआ। छह लोगों की मौत हुई और 10 घायल हुए। इमारत का हिस्सा गिर गया। खाना पकाने वाली गैस को मुख्य कारण माना जा रहा है। वियतनाम की राजधानी हनोई के डोंग दा जिले में मंगलवार सुबह एक रेस्तरां में जोरदार धमाका हुआ. इस हादसे में कम से कम छह लोगों की जान चली गई और 10 अन्य घायल हो गए।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "12 घंटों में मुंह बाए आ रहा बेनाम तूफान, ‘डायन’ बाढ़ निगल जाएगी ये इलाके, 2027 तक चलेगी तबाही",
+      "url": "https://hindi.news18.com/world/america-tropical-storm-and-nor-easter-alert-flash-flooding-gusty-river-floods-last-until-2027-heavy-rain-warning-11009693.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T10:51:16+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Heavy-Rain-Alert-1-2026-11-e8c5aef2fca85a771f3c13d7dee3a67f-1200x800.jpg",
+      "summary": "बेनाम ट्रॉपिकल तूफान ने फ्लोरिडा में 5 से 20 इंच बारिश कराई। कई इलाके डूब गए। सेंट जॉन्स नदी का पानी बढ़ा। मिड-अटलांटिक क्षेत्र बुरे असर से बच गया। उत्तर की ओर बढ़ने से पहले ही नुकसान हुआ। एक बेनाम ट्रॉपिकल हवाओं और बारिश वाले तूफान के चलते कई इलाकों में तेज हवाओं, ऊंची समुद्री लहरों और मूसलाधार बारिश से सड़कों व हाईवे पर जलभराव का खतरा बना हुआ है, हालांकि सिस्टम के देर से मजबूत होने के कारण मिड-अटलांटिक क्षेत्र सबसे बुरे असर से बच गया.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "12 घंटों में मुंह बाए आ रहा बेनाम तूफान, ‘डायन’ बाढ़ निगल जाएगी ये इलाके, 2027 तक चलेगी तबाही",
+          "summary": "बेनाम ट्रॉपिकल तूफान ने फ्लोरिडा में 5 से 20 इंच बारिश कराई। कई इलाके डूब गए। सेंट जॉन्स नदी का पानी बढ़ा। मिड-अटलांटिक क्षेत्र बुरे असर से बच गया। उत्तर की ओर बढ़ने से पहले ही नुकसान हुआ। एक बेनाम ट्रॉपिकल हवाओं और बारिश वाले तूफान के चलते कई इलाकों में तेज हवाओं, ऊंची समुद्री लहरों और मूसलाधार बारिश से सड़कों व हाईवे पर जलभराव का खतरा बना हुआ है, हालांकि सिस्टम के देर से मजबूत होने के कारण मिड-अटलांटिक क्षेत्र सबसे बुरे असर से बच गया.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "खेत में हल चला रहा था किसान, अचानक खट की आई आवाज, जमीन से निकला 300 साल पुराना सोने का खजाना",
+      "url": "https://hindi.news18.com/world/britain-alfred-jewel-gold-treasure-king-alfred-great-england-history-farmer-found-11009635.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T10:37:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/gold-news-2026-11-b33705c95bf6b9c6e5496651582d170c-1200x800.jpg",
+      "summary": "इंग्लैंड के समरसेट में 1693 में खेत की जुताई करते समय एक किसान को सोने, एनामेल और रॉक क्रिस्टल से बना खास गहना मिला था. इसे अल्फ्रेड ज्वेल कहा जाता है. इस पर पुरानी अंग्रेजी में लिखा है कि अल्फ्रेड ने इसे बनवाने का आदेश दिया था. माना जाता है कि यह राजा अल्फ्रेड द ग्रेट के शासनकाल का है.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "खेत में हल चला रहा था किसान, अचानक खट की आई आवाज, जमीन से निकला 300 साल पुराना सोने का खजाना",
+          "summary": "इंग्लैंड के समरसेट में 1693 में खेत की जुताई करते समय एक किसान को सोने, एनामेल और रॉक क्रिस्टल से बना खास गहना मिला था. इसे अल्फ्रेड ज्वेल कहा जाता है. इस पर पुरानी अंग्रेजी में लिखा है कि अल्फ्रेड ने इसे बनवाने का आदेश दिया था. माना जाता है कि यह राजा अल्फ्रेड द ग्रेट के शासनकाल का है.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "UAE में फिर मौत का तांडव, बस-ट्रक की टक्कर में 11 की मौत, 12 दिन पहले 14 लोगों ने गंवाई थी जान",
+      "url": "https://hindi.news18.com/world/middle-east-uae-ras-al-khaimah-bus-truck-crash-11-killed-fujairah-accident-11009337.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T09:53:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/uae-ambulance-2026-11-2e53a5cfe131ee28f5d3826a02a98ee9-1200x800.jpg",
+      "summary": "संयुक्त अरब अमीरात के रास अल खैमाह में यात्री बस और ट्रक की टक्कर में 11 लोगों की मौत हो गई. हादसे की वजह जानने के लिए जांच जारी है और मृतकों की पहचान अभी सार्वजनिक नहीं की गई है. इससे 12 दिन पहले फुजैराह में हुए दो सड़क हादसों में 14 लोगों की मौत और 30 लोग घायल हुए थे.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ईरानी गायिका को पड़े 74 कोड़े, गुनाह था बिना हिजाब के गाना, सिर खुला रखकर की थी वीडियो रिकॉर्डिंग",
-          "summary": "ईरान में एक गायिका को बिना हिजाब के गाने के जुर्म में 74 कोड़े दिए गए। उसने सिर खुला रखकर वीडियो रिकॉर्डिंग की थी। यह सजा देश के कड़े कानूनों के तहत दी गई। Irani Singer Flogged by 74 lashes: ईरान में महिलाओं को सिर खुला रखने की आजादी नहीं है और ये कोई धार्मिक नसीहत नहीं बल्कि ऐसा कानून है, जो उन्हें कड़ी सजाओं का पात्र बना देता है.",
+          "title": "UAE में फिर मौत का तांडव, बस-ट्रक की टक्कर में 11 की मौत, 12 दिन पहले 14 लोगों ने गंवाई थी जान",
+          "summary": "संयुक्त अरब अमीरात के रास अल खैमाह में यात्री बस और ट्रक की टक्कर में 11 लोगों की मौत हो गई. हादसे की वजह जानने के लिए जांच जारी है और मृतकों की पहचान अभी सार्वजनिक नहीं की गई है. इससे 12 दिन पहले फुजैराह में हुए दो सड़क हादसों में 14 लोगों की मौत और 30 लोग घायल हुए थे.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "'सतगुरु सबके काज संवारे', इन संदेशों से अपनों को दें शुभकामनाएं",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/guru-nanak-jayanti-2026-wishes-wallpapers-shayari-and-status-wishes-in-hindi-2026-11-24",
-      "source": "Amar Ujala National",
+      "title": "एनवीडिया में जेन्सेन हुआंग की वापसी का चीन पर पड़ेगा असर, जानिए कैसे",
+      "url": "https://www.patrika.com/world-news/jensen-huang-return-to-nvidia-impact-on-china-21082363",
+      "source": "Patrika (World)",
       "sources": [],
-      "published_at": "2026-11-24T01:03:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/garaparava-ka-shabhakamanae_e936557f90682625418010ff3f538a8f.jpeg?w=1200&dpr=1.0",
-      "summary": "इस वर्ष सिख धर्म के संस्थापक गुरु नानक देव जी का 557वां प्रकाश पर्व मनाया जा रहा है। देशभर में श्रद्धा और उत्साह के साथ जयंती का उत्सव हो रहा है। Guru Nanak Jayanti 2026: आज गुरु नानक जयंती का पावन पर्व देशभर में श्रद्धा और उत्साह के साथ मनाया जा रहा है। इस वर्ष सिख धर्म के संस्थापक श्री गुरु नानक देव जी का 557वां प्रकाश पर्व है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'सतगुरु सबके काज संवारे', इन संदेशों से अपनों को दें शुभकामनाएं",
-          "summary": "इस वर्ष सिख धर्म के संस्थापक गुरु नानक देव जी का 557वां प्रकाश पर्व मनाया जा रहा है। देशभर में श्रद्धा और उत्साह के साथ जयंती का उत्सव हो रहा है। Guru Nanak Jayanti 2026: आज गुरु नानक जयंती का पावन पर्व देशभर में श्रद्धा और उत्साह के साथ मनाया जा रहा है। इस वर्ष सिख धर्म के संस्थापक श्री गुरु नानक देव जी का 557वां प्रकाश पर्व है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भारत ने की काला सागर में व्यापारिक जहाजों और नाविकों पर हमले रोकने की मांग, और क्या कहा?",
-      "url": "https://www.amarujala.com/world/india-calls-end-attacks-commercial-shipping-black-sea-unsc-russia-ukraine-war-2026-11-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-24T01:02:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/p-harish_16768e999c71f586751e93a6d8a92541.jpeg?w=1200&dpr=1.0",
-      "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद में काला सागर में व्यापारिक जहाजों पर हमलों को रोकने की मांग की। यह कदम रूस और यूक्रेन युद्ध के दौरान बढ़ते समुद्री जोखिम के बीच उठाया गया। भारत ने की काला सागर में व्यापारिक जहाजों और नाविकों पर हमले रोकने की मांग, और क्या कहा?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत ने की काला सागर में व्यापारिक जहाजों और नाविकों पर हमले रोकने की मांग, और क्या कहा?",
-          "summary": "भारत ने संयुक्त राष्ट्र सुरक्षा परिषद में काला सागर में व्यापारिक जहाजों पर हमलों को रोकने की मांग की। यह कदम रूस और यूक्रेन युद्ध के दौरान बढ़ते समुद्री जोखिम के बीच उठाया गया। भारत ने की काला सागर में व्यापारिक जहाजों और नाविकों पर हमले रोकने की मांग, और क्या कहा?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "आज मंगलवार को बैंकों की क्यों है छुट्टी? यहां जानें किस शहर में बंद हैं बैंक और कहां हैं खुले",
-      "url": "https://www.amarujala.com/photo-gallery/utility/is-bank-open-today-24-november-2026-for-guru-nanak-jayanti-bank-aaj-khule-hain-ya-band-hain-2026-11-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-24T00:58:40+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/aaja-bka-khal-ha-kaya_18bcef75a541986f78857fed349f6386.jpeg?w=1200&dpr=1.0",
-      "summary": "गुरु नानक जयंती के अवसर पर भारत के कई शहरों में बैंक बंद हैं। प्रशासनिक निर्देश के तहत इन स्थानों पर वित्तीय सेवाएं उपलब्ध नहीं हैं। आज गुरु नानक जयंती है जिसकी वजह से कई शहरों में बैंक बंद हैं आपके शहर में बैंक बंद हैं या नहीं, ये आप यहां जान सकते हैं। आज मंगलवार को बैंकों की क्यों है छुट्टी?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आज मंगलवार को बैंकों की क्यों है छुट्टी? यहां जानें किस शहर में बंद हैं बैंक और कहां हैं खुले",
-          "summary": "गुरु नानक जयंती के अवसर पर भारत के कई शहरों में बैंक बंद हैं। प्रशासनिक निर्देश के तहत इन स्थानों पर वित्तीय सेवाएं उपलब्ध नहीं हैं। आज गुरु नानक जयंती है जिसकी वजह से कई शहरों में बैंक बंद हैं आपके शहर में बैंक बंद हैं या नहीं, ये आप यहां जान सकते हैं। आज मंगलवार को बैंकों की क्यों है छुट्टी?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "जीवन में सफलता ही सबकुछ नहीं, दूसरों के काम आए आपकी उपलब्धियां; यही है असली कामयाबी",
-      "url": "https://www.amarujala.com/columns/blog/alexander-graham-bell-true-success-lies-in-making-a-positive-difference-in-others-lives-2026-11-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-24T00:53:45+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/thasara-ka-le-kaya-gaya-kama-bnata-ha-javana-ka-mahana_1fb939f6b9b33825a809e680cd687209.jpeg?w=1200&dpr=1.0",
-      "summary": "यह लेख सफलता को केवल व्यक्तिगत उपलब्धियों तक सीमित नहीं रखता। इसमें दूसरों के जीवन में सकारात्मक बदलाव लाने को ही असली कामयाबी माना गया है। जीवन धारा: जीवन में सफलता ही सबकुछ नहीं, दूसरों के काम आए आपकी उपलब्धियां; यही है असली कामयाबी।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "जीवन में सफलता ही सबकुछ नहीं, दूसरों के काम आए आपकी उपलब्धियां; यही है असली कामयाबी",
-          "summary": "यह लेख सफलता को केवल व्यक्तिगत उपलब्धियों तक सीमित नहीं रखता। इसमें दूसरों के जीवन में सकारात्मक बदलाव लाने को ही असली कामयाबी माना गया है। जीवन धारा: जीवन में सफलता ही सबकुछ नहीं, दूसरों के काम आए आपकी उपलब्धियां; यही है असली कामयाबी।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "अमेरिका में दो बसों की टक्कर, दो चालकों की मौत-नौ घायल; कोलंबिया में पुलिस ठिकाने पर ड्रोन हमला",
-      "url": "https://www.amarujala.com/world/world-news-hindi-asia-pakistan-china-europe-us-uk-west-asia-politics-and-global-events-news-updates-in-hindi-2026-11-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-24T00:53:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/13/world-news_a9a44b7feb6dfb83fa28301771838949.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका में दो बसों की टक्कर में दो चालकों की मौत हुई और नौ लोग घायल हुए। इसी दिन कोलंबिया में पुलिस ठिकाने पर ड्रोन से हमला किया गया। अमेरिका में दो बसों की टक्कर, दो चालकों की मौत-नौ घायल; कोलंबिया में पुलिस ठिकाने पर ड्रोन हमला।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "अमेरिका में दो बसों की टक्कर, दो चालकों की मौत-नौ घायल; कोलंबिया में पुलिस ठिकाने पर ड्रोन हमला",
-          "summary": "अमेरिका में दो बसों की टक्कर में दो चालकों की मौत हुई और नौ लोग घायल हुए। इसी दिन कोलंबिया में पुलिस ठिकाने पर ड्रोन से हमला किया गया। अमेरिका में दो बसों की टक्कर, दो चालकों की मौत-नौ घायल; कोलंबिया में पुलिस ठिकाने पर ड्रोन हमला।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "शुभ संयोग में देव दिवाली आज, इन संदेशों से दें अपनों को शुभकामनाएं",
-      "url": "https://www.amarujala.com/photo-gallery/spirituality/festivals/dev-diwali-2026-wishes-quotes-messages-and-facebook-status-2026-11-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-24T00:45:04+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/dev-deepawali-2026_46fe8f8e05d5b3bd08352ca2047e86b4.jpeg?w=1200&dpr=1.0",
-      "summary": "आज शुभ संयोग में देव दिवाली मनाई जा रही है। इस दिन दीपदान और पूजा-पाठ से सुख और समृद्धि की कामना की जाती है। Dev Deepawali 2026: आज शुभ संयोग में देव दिवाली का पावन पर्व श्रद्धा और उत्साह के साथ मनाया जा रहा है। इसे देवताओं की दिवाली भी कहा जाता है। इस दिन दीपदान, पूजा-पाठ और दान का विशेष महत्व होता है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शुभ संयोग में देव दिवाली आज, इन संदेशों से दें अपनों को शुभकामनाएं",
-          "summary": "आज शुभ संयोग में देव दिवाली मनाई जा रही है। इस दिन दीपदान और पूजा-पाठ से सुख और समृद्धि की कामना की जाती है। Dev Deepawali 2026: आज शुभ संयोग में देव दिवाली का पावन पर्व श्रद्धा और उत्साह के साथ मनाया जा रहा है। इसे देवताओं की दिवाली भी कहा जाता है। इस दिन दीपदान, पूजा-पाठ और दान का विशेष महत्व होता है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "Weather Forecast 24 November 2026: देखिए क्या है आपके यहां मौसम का हाल",
-      "url": "https://www.amarujala.com/video/india-news/weather-forecast-for-24-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-24",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-24T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/weather-forecast_4b23539c35c9a6ad4f4c9a42830f42b0.jpeg?w=1200&dpr=1.0",
-      "summary": "24 नवंबर 2026 के मौसम पूर्वानुमान में देशभर के विभिन्न शहरों का तापमान और वर्षा की संभावनाओं का विवरण दिया गया है। यह रिपोर्ट स्थानीय स्तर पर मौसम की स्थिति को दर्शाती है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Weather Forecast 24 November 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "24 नवंबर 2026 के मौसम पूर्वानुमान में देशभर के विभिन्न शहरों का तापमान और वर्षा की संभावनाओं का विवरण दिया गया है। यह रिपोर्ट स्थानीय स्तर पर मौसम की स्थिति को दर्शाती है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "राष्ट्रपति मुर्मू का ओडिशा दौरा, काशी में 11 लाख दीये जलाकर होगा भव्य देव दीपावली का आयोजन",
-      "url": "https://www.amarujala.com/india-news/aaj-ke-din-24-november-todays-top-headlines-events-of-the-day-big-news-and-updates-2026-11-24",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-24T00:27:57+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/aaj-ke-din-24-november-2026_116336da7ce0d01600728d2aba591b59.gif?w=1200&dpr=1.0",
-      "summary": "राष्ट्रपति द्रौपदी मुर्मू ओडिशा दौरे पर हैं और बाली जात्रा में शामिल होंगी। काशी में 11 लाख दीये जलाकर देव दीपावली का भव्य आयोजन किया जाएगा। राष्ट्रपति द्रौपदी मुर्मू आज ओडिशा दौरे पर रहेंगी और यहां बाली जात्रा में शामिल होंगी। राष्ट्रपति मुर्मू का ओडिशा दौरा, काशी में 11 लाख दीये जलाकर होगा भव्य देव दीपावली का आयोजन।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "राष्ट्रपति मुर्मू का ओडिशा दौरा, काशी में 11 लाख दीये जलाकर होगा भव्य देव दीपावली का आयोजन",
-          "summary": "राष्ट्रपति द्रौपदी मुर्मू ओडिशा दौरे पर हैं और बाली जात्रा में शामिल होंगी। काशी में 11 लाख दीये जलाकर देव दीपावली का भव्य आयोजन किया जाएगा। राष्ट्रपति द्रौपदी मुर्मू आज ओडिशा दौरे पर रहेंगी और यहां बाली जात्रा में शामिल होंगी। राष्ट्रपति मुर्मू का ओडिशा दौरा, काशी में 11 लाख दीये जलाकर होगा भव्य देव दीपावली का आयोजन।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "सिर्फ काले-सफेद कपड़ों की शर्त पर ठुकराई नौकरी, अब पहली महिला सीईओ बन संभाल रहीं कमान",
-      "url": "https://www.amarujala.com/world/artemis-patrick-from-rejecting-sephora-job-over-dress-code-to-becoming-its-first-female-ceo-2026-11-24",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-23T23:13:20+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/daefaesa-sa-safara-ka-saiio-taka-ka-safara_d0532ce0266acf822f11ec04b2ebd70a.jpeg?w=1200&dpr=1.0",
-      "summary": "आर्टेमिस पैट्रिक ने सेफोरा की नौकरी काले-सफेद कपड़ों की शर्त के कारण ठुकराई थी। अब वे कंपनी की पहली महिला सीईओ बनकर कमान संभाल रही हैं। सिर्फ काले-सफेद कपड़ों की शर्त पर ठुकराई नौकरी, अब पहली महिला सीईओ बन संभाल रहीं कमान।",
+      "published_at": "2026-11-24T09:23:25+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/huang_79f1d3.webp",
+      "summary": "अफेयर विवाद की वजह से जेन्सेन हुआंग ने 12 नवंबर को एनवीडिया के सीईओ पद से इस्तीफा दे दिया. सीईओ पद के साथ ही जेन्सेन ने कंपनी के प्रेसिडेंट और बोर्ड मेंबर के पद से भी इस्तीफा दे दिया था. हालांकि उनके इस फैसले से कंपनी को नुकसान हुआ और कंपनी के शेयर लुढ़क गए. उनकी वापसी की मांग उठने लगी.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "सिर्फ काले-सफेद कपड़ों की शर्त पर ठुकराई नौकरी, अब पहली महिला सीईओ बन संभाल रहीं कमान",
-          "summary": "आर्टेमिस पैट्रिक ने सेफोरा की नौकरी काले-सफेद कपड़ों की शर्त के कारण ठुकराई थी। अब वे कंपनी की पहली महिला सीईओ बनकर कमान संभाल रही हैं। सिर्फ काले-सफेद कपड़ों की शर्त पर ठुकराई नौकरी, अब पहली महिला सीईओ बन संभाल रहीं कमान।",
+          "title": "एनवीडिया में जेन्सेन हुआंग की वापसी का चीन पर पड़ेगा असर, जानिए कैसे",
+          "summary": "अफेयर विवाद की वजह से जेन्सेन हुआंग ने 12 नवंबर को एनवीडिया के सीईओ पद से इस्तीफा दे दिया. सीईओ पद के साथ ही जेन्सेन ने कंपनी के प्रेसिडेंट और बोर्ड मेंबर के पद से भी इस्तीफा दे दिया था. हालांकि उनके इस फैसले से कंपनी को नुकसान हुआ और कंपनी के शेयर लुढ़क गए. उनकी वापसी की मांग उठने लगी.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "ट्रंप सजा रद्द कराने का नया रास्ता मिला, संघीय अपील अदालत ने दिया क्या आदेश?",
-      "url": "https://www.amarujala.com/world/donald-trump-hush-money-conviction-federal-appeals-court-ruling-2026-11-24",
+      "title": "जहां सोचा भी नहीं, इस बार वहां से फूटेगी आफत, वैज्ञानिक परेशान- 'ये तो मानवता ही खत्म कर देगा'",
+      "url": "https://hindi.news18.com/world/rest-of-world-scientist-warns-of-civilization-ending-volcano-as-scientists-issue-end-of-world-warning-11009417.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T09:19:24+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/10/volcano-7-2026-10-13d44afd7413ab51f0f35414aa3407c4-1200x800.jpg",
+      "summary": "दुनिया में लगातार कुदरती आपदाएं आ रही हैं लेकिन ये सिलसिला खत्म होने वाला नजर नहीं आ रहा. हम ऐसा इसलिए कह रहे हैं क्योंकि वैज्ञानिकों ने चेतावनी दी है कि इस बार आफत वहां से आने वाली है, जिसके बारे में किसी ने सोचा तक नहीं है. जहां सोचा भी नहीं, इस बार वहां से फूटेगी आफत, वैज्ञानिक परेशान- 'ये तो मानवता ही खत्म कर देगा'।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "जहां सोचा भी नहीं, इस बार वहां से फूटेगी आफत, वैज्ञानिक परेशान- 'ये तो मानवता ही खत्म कर देगा'",
+          "summary": "दुनिया में लगातार कुदरती आपदाएं आ रही हैं लेकिन ये सिलसिला खत्म होने वाला नजर नहीं आ रहा. हम ऐसा इसलिए कह रहे हैं क्योंकि वैज्ञानिकों ने चेतावनी दी है कि इस बार आफत वहां से आने वाली है, जिसके बारे में किसी ने सोचा तक नहीं है. जहां सोचा भी नहीं, इस बार वहां से फूटेगी आफत, वैज्ञानिक परेशान- 'ये तो मानवता ही खत्म कर देगा'।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "पाकिस्तान के कब्जे वाले कश्मीर में जैश के आतंकी मौजूद, जैश कमांडर मसूद इलियास का बड़ा खुलासा",
+      "url": "https://www.patrika.com/world-news/jaish-commander-masood-ilyas-kashmiri-admits-armed-terrorists-in-pojk-21082244",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-24T09:08:30+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/terrorists-silhouette.webp",
+      "summary": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में जैश-ए-मोहम्मद के हथियारबंद आतंकियों की मौजूदगी को लेकर बड़ा खुलासा हुआ है. आतंकी संगठन के कमांडर मसूद इलियास कश्मीरी ने इस्लामाबाद में दिए भाषण के दौरान स्वीकार किया कि रावलाकोट में उसके संगठन के हथियारबंद सदस्य मौजूद हैं. उसने पाकिस्तान सरकार और सुरक्षा एजेंसियों के अधिकारियों से मुलाकात की बात भी मानी. Jaish e Mohammad: पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) में जैश-ए-मोहम्मद के हथियारबंद आतंकियों की मौजूदगी को लेकर बड़ा खुलासा हुआ है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पाकिस्तान के कब्जे वाले कश्मीर में जैश के आतंकी मौजूद, जैश कमांडर मसूद इलियास का बड़ा खुलासा",
+          "summary": "पाकिस्तान के कब्जे वाले जम्मू-कश्मीर में जैश-ए-मोहम्मद के हथियारबंद आतंकियों की मौजूदगी को लेकर बड़ा खुलासा हुआ है. आतंकी संगठन के कमांडर मसूद इलियास कश्मीरी ने इस्लामाबाद में दिए भाषण के दौरान स्वीकार किया कि रावलाकोट में उसके संगठन के हथियारबंद सदस्य मौजूद हैं. उसने पाकिस्तान सरकार और सुरक्षा एजेंसियों के अधिकारियों से मुलाकात की बात भी मानी. Jaish e Mohammad: पाकिस्तान के कब्जे वाले जम्मू-कश्मीर (PoJK) में जैश-ए-मोहम्मद के हथियारबंद आतंकियों की मौजूदगी को लेकर बड़ा खुलासा हुआ है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "चीन ने खोले अपने स्पेस स्टेशन के दरवाजे, पाकिस्तान का एस्ट्रोनॉट बनेगा पहला विदेशी मेहमान",
+      "url": "https://hindi.news18.com/world/china-pakistan-astronaut-muhammad-zeeshan-ali-china-space-station-shenzhou-24-11009226.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T08:34:59+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/china-pakistan-news-2026-11-d2fd5cf38924bc56e52bfff26f4558aa-1200x800.jpg",
+      "summary": "चीन के शेनझोउ-24 मिशन में पाकिस्तान के मुहम्मद जीशान अली पहली बार विदेशी अंतरिक्ष यात्री के रूप में शामिल होंगे। वे चीनी अंतरिक्ष स्टेशन पर जैव प्रौद्योगिकी और पदार्थ विज्ञान से जुड़े प्रयोग करेंगे। इस मिशन में तांग होंगबो और वू यी भी जाएंगे। चीन के शेनझोउ-24 अंतरिक्ष मिशन में पाकिस्तान के अंतरिक्ष यात्री मुहम्मद जीशान अली भी शामिल होंगे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन ने खोले अपने स्पेस स्टेशन के दरवाजे, पाकिस्तान का एस्ट्रोनॉट बनेगा पहला विदेशी मेहमान",
+          "summary": "चीन के शेनझोउ-24 मिशन में पाकिस्तान के मुहम्मद जीशान अली पहली बार विदेशी अंतरिक्ष यात्री के रूप में शामिल होंगे। वे चीनी अंतरिक्ष स्टेशन पर जैव प्रौद्योगिकी और पदार्थ विज्ञान से जुड़े प्रयोग करेंगे। इस मिशन में तांग होंगबो और वू यी भी जाएंगे। चीन के शेनझोउ-24 अंतरिक्ष मिशन में पाकिस्तान के अंतरिक्ष यात्री मुहम्मद जीशान अली भी शामिल होंगे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "न शादी में दिलचस्पी, न बच्चे पैदा करने में, 40 साल तक कुंआरी है आधी आबादी, वीरान न हो जाए ये देश",
+      "url": "https://hindi.news18.com/world/rest-of-world-south-korea-youth-not-interested-in-marriage-or-having-children-till-40-demographical-change-2-11009170.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T08:14:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/south-korea-2026-11-1ab179e404390733ea763cdf8baccd3b-1200x800.jpg",
+      "summary": "दक्षिण कोरिया में 40 वर्ष की आयु तक आधी आबादी ने शादी या संतान की योजना नहीं बनाई है। ताजा जनसांख्यिकीय आंकड़े दर्शाते हैं कि युवा पीढ़ी में विवाह और प्रजनन की इच्छा में गिरावट आई है। यह रुझान देश की भविष्य की जनसंख्या संरचना को प्रभावित करेगा। South Korea Demography: भारतीयों को आज की डेट में साउथ कोरिया के कंटेंट से लेकर वहां के एक्टर-एक्ट्रेसेज में भी खासी दिलचस्पी है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न शादी में दिलचस्पी, न बच्चे पैदा करने में, 40 साल तक कुंआरी है आधी आबादी, वीरान न हो जाए ये देश",
+          "summary": "दक्षिण कोरिया में 40 वर्ष की आयु तक आधी आबादी ने शादी या संतान की योजना नहीं बनाई है। ताजा जनसांख्यिकीय आंकड़े दर्शाते हैं कि युवा पीढ़ी में विवाह और प्रजनन की इच्छा में गिरावट आई है। यह रुझान देश की भविष्य की जनसंख्या संरचना को प्रभावित करेगा। South Korea Demography: भारतीयों को आज की डेट में साउथ कोरिया के कंटेंट से लेकर वहां के एक्टर-एक्ट्रेसेज में भी खासी दिलचस्पी है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "न गोला न बारूद, न कोई वार, खुद ही जान देने लगे रूसी सैनिक, आंकड़े देखकर माथा पीट लेंगे पुतिन",
+      "url": "https://hindi.news18.com/world/europe-russian-soldiers-over-1000-died-by-suicide-since-ukraine-war-began-ws-l-11009074.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T07:37:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/russia-ukraine-2026-11-8e0bfe37a471af3a1efe9f6337936b28-1200x800.jpg",
+      "summary": "गार्डियन की रिपोर्ट के अनुसार, यूक्रेन युद्ध के दौरान रूसी सैनिकों की आत्महत्या की घटनाओं में वृद्धि हुई है। ये आंकड़े रूसी सेना के मनोवैज्ञानिक दबाव और युद्ध के नतीजों पर प्रश्न चिह्न खड़े करते हैं। Russian Soldiers Suicide Mystery: रूस-यूक्रेन के बीच चल रहे युद्ध के बीच कुछ ऐसे आंकड़े सामने आए हैं, जो रूसी राष्ट्रपति को सदमे में डाल देगी.",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "न गोला न बारूद, न कोई वार, खुद ही जान देने लगे रूसी सैनिक, आंकड़े देखकर माथा पीट लेंगे पुतिन",
+          "summary": "गार्डियन की रिपोर्ट के अनुसार, यूक्रेन युद्ध के दौरान रूसी सैनिकों की आत्महत्या की घटनाओं में वृद्धि हुई है। ये आंकड़े रूसी सेना के मनोवैज्ञानिक दबाव और युद्ध के नतीजों पर प्रश्न चिह्न खड़े करते हैं। Russian Soldiers Suicide Mystery: रूस-यूक्रेन के बीच चल रहे युद्ध के बीच कुछ ऐसे आंकड़े सामने आए हैं, जो रूसी राष्ट्रपति को सदमे में डाल देगी.",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "16 दिसंबर को घर लौटने की तैयारी में शेख हसीना, बांग्लादेश सरकार का आ गया जवाब, कहा- हथकड़ी लगाकर",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-government-reaction-on-sheikh-hasina-return-on-december-16-arrest-threat-extradition-11009006.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T07:23:41+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina-14-2026-11-74d1ebb1230f6ec2406bbfd5143806af-1200x800.jpg",
+      "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को विजय दिवस पर देश लौटने की मांग की है। सरकार ने स्पष्ट किया कि उनकी वापसी केवल प्रत्यर्पण प्रक्रिया के माध्यम से होगी। दाखिल होते ही उन्हें गिरफ्तार कर जेल भेजा जाएगा। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर यानी विजय दिवस पर देश लौटने की इच्छा जताई है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "16 दिसंबर को घर लौटने की तैयारी में शेख हसीना, बांग्लादेश सरकार का आ गया जवाब, कहा- हथकड़ी लगाकर",
+          "summary": "बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को विजय दिवस पर देश लौटने की मांग की है। सरकार ने स्पष्ट किया कि उनकी वापसी केवल प्रत्यर्पण प्रक्रिया के माध्यम से होगी। दाखिल होते ही उन्हें गिरफ्तार कर जेल भेजा जाएगा। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर यानी विजय दिवस पर देश लौटने की इच्छा जताई है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "अंतरिक्ष में चीन-पाकिस्तान की साझेदारी, चीनी मिशन में पहली बार विदेशी अंतरिक्ष यात्री होगा शामिल",
+      "url": "https://www.amarujala.com/world/shenzhou-24-china-pakistan-partnership-in-space-chinese-mission-to-include-foreign-astronaut-for-first-time-2026-11-24",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-23T23:03:21+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/donald-trump_e4b295f36ef79ac758ff899dc876068a.jpeg?w=1200&dpr=1.0",
-      "summary": "संघीय अपील अदालत ने ट्रंप की सजा रद्द करने का नया रास्ता खोल दिया है। अदालत के इस आदेश से उनके खिलाफ चल रही कानूनी प्रक्रिया में बदलाव आएगा। ट्रंप सजा रद्द कराने का नया रास्ता मिला, संघीय अपील अदालत ने दिया क्या आदेश?",
+      "published_at": "2026-11-24T06:56:06+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/sakataka-tasavara_09121f5f44e0a1d31d427e975f8a5222.jpeg?w=1200&dpr=1.0",
+      "summary": "चीन और पाकिस्तान के बीच अंतरिक्ष सहयोग के तहत शेनझोउ-24 मिशन में पहली बार विदेशी अंतरिक्ष यात्री शामिल होंगे। पाकिस्तानी अंतरिक्ष यात्री मुहम्मद जीशान अली इस ऐतिहासिक उड़ान का हिस्सा बनेंगे। अंतरिक्ष में चीन-पाकिस्तान की साझेदारी, चीनी मिशन में पहली बार विदेशी अंतरिक्ष यात्री होगा शामिल।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अंतरिक्ष में चीन-पाकिस्तान की साझेदारी, चीनी मिशन में पहली बार विदेशी अंतरिक्ष यात्री होगा शामिल",
+          "summary": "चीन और पाकिस्तान के बीच अंतरिक्ष सहयोग के तहत शेनझोउ-24 मिशन में पहली बार विदेशी अंतरिक्ष यात्री शामिल होंगे। पाकिस्तानी अंतरिक्ष यात्री मुहम्मद जीशान अली इस ऐतिहासिक उड़ान का हिस्सा बनेंगे। अंतरिक्ष में चीन-पाकिस्तान की साझेदारी, चीनी मिशन में पहली बार विदेशी अंतरिक्ष यात्री होगा शामिल।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शेख हसीना ने वापसी की तारीख बताई, उधर बांग्लादेश में उनके गढ़ में बवाल, 30 लोग घायल",
+      "url": "https://hindi.news18.com/world/south-asia-clashes-in-sheikh-hasina-hometown-gopalganj-30-injured-december-16-return-to-bangladesh-11008918.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T06:55:32+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina-13-2026-11-0087fe4067f259b7d5bb62ce3561f73e-1200x800.jpg",
+      "summary": "पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने की घोषणा की। उनके गृह जिले गोपालगंज में समर्थकों के बीच झड़प हुई। इसमें 30 लोग घायल हुए, चार बम फटे और 12 दुकानों में तोड़फोड़ हुई। Bangladesh News: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को देश लौटने की बात कही है. इस बीच उनके गृह जिले गोपालगंज में अवामी लीग के कार्यकर्ताओं और समर्थकों के बीच दो जगहों पर झड़प हुई.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेख हसीना ने वापसी की तारीख बताई, उधर बांग्लादेश में उनके गढ़ में बवाल, 30 लोग घायल",
+          "summary": "पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने की घोषणा की। उनके गृह जिले गोपालगंज में समर्थकों के बीच झड़प हुई। इसमें 30 लोग घायल हुए, चार बम फटे और 12 दुकानों में तोड़फोड़ हुई। Bangladesh News: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को देश लौटने की बात कही है. इस बीच उनके गृह जिले गोपालगंज में अवामी लीग के कार्यकर्ताओं और समर्थकों के बीच दो जगहों पर झड़प हुई.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "रूस अंतरिक्ष में तैनात करेगा परमाणु हथियार?: खुफिया एजेंसियों की रिपोर्ट में खुलासा, नाटो देशों की",
+      "url": "https://www.amarujala.com/world/will-russia-deploy-nuclear-weapons-in-space-intelligence-agency-report-reveals-sparking-anxiety-nato-nations-2026-11-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-24T06:15:56+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/atarakashha-ma-paramanae-hathayara-bhajana-ka-tayara-kaya_5e4f144ff3e89fb3d36c996e0640f883.jpeg?w=1200&dpr=1.0",
+      "summary": "खुफिया एजेंसियों की रिपोर्ट में रूस के अंतरिक्ष में परमाणु हथियार तैनात करने की संभावना का खुलासा हुआ। इस खबर ने नाटो देशों में चिंता बढ़ा दी है। रूस अंतरिक्ष में तैनात करेगा परमाणु हथियार?: खुफिया एजेंसियों की रिपोर्ट में खुलासा, नाटो देशों की।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "रूस अंतरिक्ष में तैनात करेगा परमाणु हथियार?: खुफिया एजेंसियों की रिपोर्ट में खुलासा, नाटो देशों की",
+          "summary": "खुफिया एजेंसियों की रिपोर्ट में रूस के अंतरिक्ष में परमाणु हथियार तैनात करने की संभावना का खुलासा हुआ। इस खबर ने नाटो देशों में चिंता बढ़ा दी है। रूस अंतरिक्ष में तैनात करेगा परमाणु हथियार?: खुफिया एजेंसियों की रिपोर्ट में खुलासा, नाटो देशों की।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "सुनसान जंगल के बीच 'मौत की नदी', 200 डिग्री पर खौलता है पानी, गिरे तो उबलने में लगेंगे 30 सेकंड",
+      "url": "https://hindi.news18.com/world/rest-of-world-mysterious-boiling-river-in-amazon-forest-peru-temperature-is-200-degree-celsius-photogallery-ws-l-11008753.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T06:15:10+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/rainforest-river-6-2026-11-51853d2377d2f693c2fc0a2471a57aa8-1200x800.jpg",
+      "summary": "घने जंगल में एक ऐसी नदी बहती है जिसका पानी 200 डिग्री फारेनहाइट तक उबलता रहता है। आसपास कोई सक्रिय ज्वालामुखी नहीं है, फिर भी जमीन के नीचे की गर्मी से यह तापमान बना रहता है। Boiling Hot River amid Dense Forest: घने जंगलों के बीच में एक ऐसी नदी बहती है, जिसका पानी हमेशा उबलता रहता है. इस नदी का तापमान 200 डिग्री फारेनहाइट यानि 80 डिग्री सेल्सियस से भी ज्यादा पहुंच जाता है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सुनसान जंगल के बीच 'मौत की नदी', 200 डिग्री पर खौलता है पानी, गिरे तो उबलने में लगेंगे 30 सेकंड",
+          "summary": "घने जंगल में एक ऐसी नदी बहती है जिसका पानी 200 डिग्री फारेनहाइट तक उबलता रहता है। आसपास कोई सक्रिय ज्वालामुखी नहीं है, फिर भी जमीन के नीचे की गर्मी से यह तापमान बना रहता है। Boiling Hot River amid Dense Forest: घने जंगलों के बीच में एक ऐसी नदी बहती है, जिसका पानी हमेशा उबलता रहता है. इस नदी का तापमान 200 डिग्री फारेनहाइट यानि 80 डिग्री सेल्सियस से भी ज्यादा पहुंच जाता है.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "चीन के 'आसमान का शिकारी' ड्रोन यमन में ढेर, हूतियों ने मार गिराया, सऊदी अरब पर लगाए गंभीर आरोप",
+      "url": "https://hindi.news18.com/world/middle-east-yemen-houthis-claim-chinese-wing-loong-2-drone-shot-down-saudi-strikes-11008730.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-24T06:08:24+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Wing-Loong-1-2026-11-7c0d3daabfa987c05b61fa11d32f9213-1200x800.jpg",
+      "summary": "यमन में हूती विद्रोहियों ने चीन के बनाए विंग लूंग-2 ड्रोन को मार गिराने का दावा किया। यह घटना लहिज प्रांत के तट पर हुई, जो बाब अल-मंदेब जलडमरूमध्य के पास है। हूती मीडिया ने सऊदी हमलों में 25 लोगों के मारे जाने की खबर दी। यमन में हूती विद्रोहियों ने चीन में बने Wing Loong-2 सशस्त्र ड्रोन को मार गिराने का दावा किया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "चीन के 'आसमान का शिकारी' ड्रोन यमन में ढेर, हूतियों ने मार गिराया, सऊदी अरब पर लगाए गंभीर आरोप",
+          "summary": "यमन में हूती विद्रोहियों ने चीन के बनाए विंग लूंग-2 ड्रोन को मार गिराने का दावा किया। यह घटना लहिज प्रांत के तट पर हुई, जो बाब अल-मंदेब जलडमरूमध्य के पास है। हूती मीडिया ने सऊदी हमलों में 25 लोगों के मारे जाने की खबर दी। यमन में हूती विद्रोहियों ने चीन में बने Wing Loong-2 सशस्त्र ड्रोन को मार गिराने का दावा किया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "जेन्सेन हुआंग की वापसी से डोनाल्ड ट्रंप को हुआ 1.5 करोड़ डॉलर का फायदा? NVIDIA के शेयरों में उछाल",
+      "url": "https://www.patrika.com/world-news/donald-trump-nvidia-investment-jensen-huang-return-21081771",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-24T06:01:43+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/jensen-huang-and-donald-trump.webp",
+      "summary": "जेन्सेन हुआंग की सीईओ पद पर वापसी से एनवीडिया के शेयरों में 30 प्रतिशत से अधिक की उछाल आई। इससे डोनाल्ड ट्रम्प के निजी निवेश को लेकर हितों के टकराव के सवाल खड़े हो गए हैं। Donald Trump Nvidia Investment: Nvidia के CEO के रूप में जेन्सेन हुआंग की वापसी के बाद, कंपनी के शेयर की कीमत में 30 प्रतिशत से अधिक की उछाल आई है।",
       "region": "Americas",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "ट्रंप सजा रद्द कराने का नया रास्ता मिला, संघीय अपील अदालत ने दिया क्या आदेश?",
-          "summary": "संघीय अपील अदालत ने ट्रंप की सजा रद्द करने का नया रास्ता खोल दिया है। अदालत के इस आदेश से उनके खिलाफ चल रही कानूनी प्रक्रिया में बदलाव आएगा। ट्रंप सजा रद्द कराने का नया रास्ता मिला, संघीय अपील अदालत ने दिया क्या आदेश?",
+          "title": "जेन्सेन हुआंग की वापसी से डोनाल्ड ट्रंप को हुआ 1.5 करोड़ डॉलर का फायदा? NVIDIA के शेयरों में उछाल",
+          "summary": "जेन्सेन हुआंग की सीईओ पद पर वापसी से एनवीडिया के शेयरों में 30 प्रतिशत से अधिक की उछाल आई। इससे डोनाल्ड ट्रम्प के निजी निवेश को लेकर हितों के टकराव के सवाल खड़े हो गए हैं। Donald Trump Nvidia Investment: Nvidia के CEO के रूप में जेन्सेन हुआंग की वापसी के बाद, कंपनी के शेयर की कीमत में 30 प्रतिशत से अधिक की उछाल आई है।",
           "region": "अमेरिका"
         }
       }
     },
     {
-      "title": "तीन दशक बाद किम जोंग उन ने खुद संभाली कमान: भारत समेत 10 देशों के राजदूतों से मिले, संजीव जैन भी",
-      "url": "https://www.amarujala.com/world/kim-jong-un-receives-credentials-from-10-ambassadors-after-30-years-india-s-sanjeev-jain-among-them-2026-11-24",
+      "title": "अमेजन के जंगल में 11 दिन भटकता रहा बुजुर्ग: रेस्क्यू टीम ने अल्जाइमर से पीड़ित को निकाला, खुद को",
+      "url": "https://www.amarujala.com/world/man-with-alzheimer-s-rescued-in-amazon-rainforest-after-surviving-for-11-days-park-ranger-reveals-2026-11-24",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-23T22:53:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/rajathata-sajava-jana-oura-kama-jaga_61f53f63eae7bc4d3dc7a8aed90ae8e7.jpeg?w=1200&dpr=1.0",
-      "summary": "किम जोंग उन ने तीन दशक बाद 10 देशों के राजदूतों से मिलकर कमान संभाली। भारत के राजदूत संजीव जैन भी इस अवसर पर मौजूद रहे। तीन दशक बाद किम जोंग उन ने खुद संभाली कमान: भारत समेत 10 देशों के राजदूतों से मिले, संजीव जैन भी।",
+      "published_at": "2026-11-24T05:46:44+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/man-with-alzheimers-rescued-in-amazon-rainforest-after-surviving-for-11-days-park-ranger-reveals_b9963574847ce35fe85b02b675dd3987.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेजन वन में अल्जाइमर से पीड़ित बुजुर्ग 11 दिन तक भटकता रहा। रेस्क्यू टीम ने उसे सुरक्षित निकाल लिया। पार्क रेंजर ने इस घटना की जानकारी दी। अमेजन के जंगल में 11 दिन भटकता रहा बुजुर्ग: रेस्क्यू टीम ने अल्जाइमर से पीड़ित को निकाला, खुद को।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अमेजन के जंगल में 11 दिन भटकता रहा बुजुर्ग: रेस्क्यू टीम ने अल्जाइमर से पीड़ित को निकाला, खुद को",
+          "summary": "अमेजन वन में अल्जाइमर से पीड़ित बुजुर्ग 11 दिन तक भटकता रहा। रेस्क्यू टीम ने उसे सुरक्षित निकाल लिया। पार्क रेंजर ने इस घटना की जानकारी दी। अमेजन के जंगल में 11 दिन भटकता रहा बुजुर्ग: रेस्क्यू टीम ने अल्जाइमर से पीड़ित को निकाला, खुद को।",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "वोलोदिमिर ज़ेलेन्स्की का दावा – यूक्रेन पर नए हमले की तैयारी कर रहा है रूस, अमेरिका और अन्य देशों से",
+      "url": "https://www.patrika.com/world-news/volodymyr-zelenskyy-says-russia-preparing-for-new-strikes-against-ukraine-asks-us-and-other-countries-for-help-21081454",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-24T04:20:19+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/10/zelenskyy.webp",
+      "summary": "ज़ेलेन्स्की का दावा है कि रूस नए हमलों की तैयारी कर रहा है। युद्ध के 57 महीने पूरे हो चुके हैं। यूक्रेन ने क्रीमिया ब्रिज पर भी हमले किए हैं। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 57 महीने पूरे हो गए हैं। काफी कूटनीतिक प्रयासों के बावजूद यह युद्ध रुकने का नाम नहीं ले रहा है। रूस की तरफ से यूक्रेन पर लगातार हमले किए जा रहे हैं।",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "वोलोदिमिर ज़ेलेन्स्की का दावा – यूक्रेन पर नए हमले की तैयारी कर रहा है रूस, अमेरिका और अन्य देशों से",
+          "summary": "ज़ेलेन्स्की का दावा है कि रूस नए हमलों की तैयारी कर रहा है। युद्ध के 57 महीने पूरे हो चुके हैं। यूक्रेन ने क्रीमिया ब्रिज पर भी हमले किए हैं। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 57 महीने पूरे हो गए हैं। काफी कूटनीतिक प्रयासों के बावजूद यह युद्ध रुकने का नाम नहीं ले रहा है। रूस की तरफ से यूक्रेन पर लगातार हमले किए जा रहे हैं।",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "शेख हसीना ने बांग्लादेश वापसी के लिए तय की तारीख, ढाका वापसी के लिए मांगा सरकारी विमान",
+      "url": "https://www.patrika.com/world-news/sheikh-hasina-bangladesh-return-from-india-december-16-asks-for-flight-21081409",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-24T04:05:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/sheikh-hasina_.webp",
+      "summary": "शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने की इच्छा जताई है। उन्होंने ढाका से बिमान बांग्लादेश एयरलाइंस का विमान मांगा है। वे अगस्त 2024 से भारत में रह रही हैं। Sheikh Hasina Bangladesh Return: अगस्त 2024 में सत्ता से हटाए जाने के बाद से भारत में रह रहीं बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को अपने देश लौटने की इच्छा जताई है।",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "तीन दशक बाद किम जोंग उन ने खुद संभाली कमान: भारत समेत 10 देशों के राजदूतों से मिले, संजीव जैन भी",
-          "summary": "किम जोंग उन ने तीन दशक बाद 10 देशों के राजदूतों से मिलकर कमान संभाली। भारत के राजदूत संजीव जैन भी इस अवसर पर मौजूद रहे। तीन दशक बाद किम जोंग उन ने खुद संभाली कमान: भारत समेत 10 देशों के राजदूतों से मिले, संजीव जैन भी।",
+          "title": "शेख हसीना ने बांग्लादेश वापसी के लिए तय की तारीख, ढाका वापसी के लिए मांगा सरकारी विमान",
+          "summary": "शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने की इच्छा जताई है। उन्होंने ढाका से बिमान बांग्लादेश एयरलाइंस का विमान मांगा है। वे अगस्त 2024 से भारत में रह रही हैं। Sheikh Hasina Bangladesh Return: अगस्त 2024 में सत्ता से हटाए जाने के बाद से भारत में रह रहीं बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को अपने देश लौटने की इच्छा जताई है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "ईरान पर आर्थिक दबाव बढ़ाने के लिए अमेरिका का नया कदम, संबंधित शैडो बैंकिंग नेटवर्कों पर लगाए",
+      "url": "https://www.patrika.com/world-news/us-imposes-sanctions-on-shadow-banking-networks-linked-to-iran-21081383",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-24T04:03:52+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/flags-of-iran-and-usa-1.webp",
+      "summary": "अमेरिका ने ईरान पर आर्थिक दबाव बढ़ाने के लिए नया कदम उठाया है। शैडो बैंकिंग नेटवर्कों पर प्रतिबंध लगाए गए हैं। दोनों देशों के बीच तनाव जारी है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव की स्थिति पहले जैसे ही बनी हुई है। एक-दूसरे की शर्तों पर सहमति नहीं बन पाने की वजह से दोनों देशों के बीच कोई समझौता नहीं हो रहा है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ईरान पर आर्थिक दबाव बढ़ाने के लिए अमेरिका का नया कदम, संबंधित शैडो बैंकिंग नेटवर्कों पर लगाए",
+          "summary": "अमेरिका ने ईरान पर आर्थिक दबाव बढ़ाने के लिए नया कदम उठाया है। शैडो बैंकिंग नेटवर्कों पर प्रतिबंध लगाए गए हैं। दोनों देशों के बीच तनाव जारी है। ईरान (Iran) और अमेरिका (United States of America) के बीच तनाव की स्थिति पहले जैसे ही बनी हुई है। एक-दूसरे की शर्तों पर सहमति नहीं बन पाने की वजह से दोनों देशों के बीच कोई समझौता नहीं हो रहा है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "'जंग का खामियाजा सभी देश बराबर नहीं भुगतते', भारत ने याद दिलाया 1943 का बंगाल अकाल; क्या कहा?",
+      "url": "https://www.amarujala.com/world/invoking-bengal-famine-india-tells-unsc-costs-of-conflict-not-shared-equally-2026-11-24",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-24T03:50:57+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/24/sayakata-rashhatara-ma-bharata-ka-sathaya-paratanathha-rajathata-harasha-paravatanana_3ac8b90119ac050bc89fd996bdf94d7a.jpeg?w=1200&dpr=1.0",
+      "summary": "भारत ने संयुक्त राष्ट्र में 1943 के बंगाल अकाल का जिक्र किया। उसने कहा कि युद्ध का खामियाजा सभी देश बराबर नहीं भुगतते। यह बयान संयुक्त राष्ट्र में दिया गया। संयुक्त राष्ट्र: 'जंग का खामियाजा सभी देश बराबर नहीं भुगतते', भारत ने याद दिलाया 1943 का बंगाल अकाल; क्या कहा?",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'जंग का खामियाजा सभी देश बराबर नहीं भुगतते', भारत ने याद दिलाया 1943 का बंगाल अकाल; क्या कहा?",
+          "summary": "भारत ने संयुक्त राष्ट्र में 1943 के बंगाल अकाल का जिक्र किया। उसने कहा कि युद्ध का खामियाजा सभी देश बराबर नहीं भुगतते। यह बयान संयुक्त राष्ट्र में दिया गया। संयुक्त राष्ट्र: 'जंग का खामियाजा सभी देश बराबर नहीं भुगतते', भारत ने याद दिलाया 1943 का बंगाल अकाल; क्या कहा?",
           "region": "एशिया-प्रशांत"
         }
       }

@@ -1,16 +1,44 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 24, 2026 08:09 IST
+**Updated:** November 24, 2026 18:31 IST
+
+---
+
+## Global / Multilateral
+
+### [Contrer la menace du Jnim sur les centres urbains du Sahel](https://www.crisisgroup.org/fr/brf/africa/burkina-faso-mali-niger/b213-handling-jnims-threat-sahels-urban-heartlands)
+*International Crisis Group* - Vendredi, novemb (iso: Vendredi, novembre 20, 2026 - 11:15)
+<!-- image: https://images.pexels.com/photos/41165037/pexels-photo-41165037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Al-Qaeda in the Sahel has intensified attacks on urban centers. Military responses risk worsening the human toll. Negotiated solutions may offer a less damaging path forward for the region. Ces dernières années, la branche d’al-Qaeda au Sahel a multiplié les assauts contre les villes de la région. Chercher à vaincre les jihadistes par les armes ne ferait qu’alourdir un bilan humain déjà considérable.
+
+### [UN chief urges talks on global AI safety framework, warns of historic shift in power](https://news.un.org/feed/view/en/story/2026/11/1168861)
+*UN News* - Nov 23, 17:30 IST (iso: 2026-11-23T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/23-11-2026-Barbados-Guterres-01.jpg/image770x420cropped.jpg -->
+
+UN Secretary-General António Guterres called for talks on a multilateral AI safety framework. He warned that artificial intelligence is driving the biggest transfer of power in human history. Member States must begin discussions to manage these emerging technological risks. UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.
 
 ---
 
 ## Middle East & Africa
 
-### [Vance, Rubio meet with Qatari PM as uncertainty mounts over Trump's intentions with Iran](https://www.thehindu.com/news/international/vance-rubio-meet-with-qatari-pmas-uncertainty-mounts-over-trumps-intentions-with-iran/article71737051.ece)
-*The Hindu (International)* - Nov 24, 07:43 IST (iso: 2026-11-24T02:13:19+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/gvm2i4/article71737054.ece/alternates/LANDSCAPE_1200/2026-11-20T173832Z_706262908_RC2TROA4ZD8Q_RTRMADP_3_USA-TRUMP.JPG -->
+### [Questions sur un retour en force](https://www.crisisgroup.org/fr/pod/africa/sahel/algerie-sahel-questions-sur-un-retour-en-force)
+*International Crisis Group* - Vendredi, novemb (iso: Vendredi, novembre 20, 2026 - 10:20)
+<!-- image: https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Vance and Rubio met the Qatari prime minister as uncertainty grew over Trump's Iran strategy. Trump told Vance the administration did not need a deal with Iran. He instructed Vance to focus on fraud and crime in Democratic-led cities after the Republican midterm losses. The development comes after Donald Trump told Mr. Vance that the administration did not need a deal with Iran and instructed him to focus on fraud and crime in Democratic-led cities following the Republican Party's wipeout in this month's midterm election.
+Crisis Group analysts discussed the deployment of Algerian troops in Niger. They examined how this military presence affects regional security balances. The conversation highlighted shifting dynamics in the Sahel. Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Ibrahim Yahaya Ibrahim, Directeur Adjoint du Projet Sahel, Ibrahim Maïga, Conseiller Spécial pour le Sahel et Michaël Ayari, Analyste Senior pour la Tunisie et l’Algérie à Crisis Group, pour parler du déploiement de troupes algériennes au Niger et des répercussions de cette présence militaire sur les équilibres sécuritaires.
+
+### [Asia rescues markets, Trump rescues Jensen Huang](https://asiatimes.com/2026/11/asia-rescues-markets-trump-rescues-jensen-huang/)
+*Asia Times* - Nov 24, 14:40 IST (iso: 2026-11-24T09:10:37+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Markets-AI.jpg -->
+
+Asian governments banned short sales and deployed state funds to stabilize markets after a global selloff hit the artificial intelligence sector. Seoul, Taipei, and Beijing acted to prevent a tech rout from spreading. Trump also intervened to support Jensen Huang during the downturn. NEW YORK – When a brutal global selloff wiped trillions of dollars off the artificial intelligence trade, Asia’s policymakers did what they always do: they reached deep into their crisis playbooks.
+
+### [Barbados town’s three-year deal with Bristol ‘part of the reparative process’](https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations)
+*The Guardian* - Nov 23, 22:23 IST (iso: 2026-11-23T16:53:13+00:00)
+<!-- image: https://i.guim.co.uk/img/media/24fed4fd10403e24fe12b5488f5534556ec94642/381_0_2926_2340/master/2926.jpg?width=140&quality=85&auto=format&fit=max&s=d194d9f5df8e59bfdf87755fa37443e4 -->
+
+Speightstown in Barbados signed a three-year twinning agreement with Bristol, United Kingdom. Labour minister Colin Jordan stated the deal acknowledges the historical links between the two places. The partnership is described as part of a broader reparative process regarding the transatlantic slave trade. Island’s labour minister, Colin Jordan, says agreement acknowledges links between Speightstown and UK city are rooted in slave tradeA town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a centuries-long relationship rooted in the transatlantic slave trade. Barbados says the new partnership between Speightstown and Bristol is part.
 
 ### [Gaza war has undone 77 years of human development, UN warns](https://news.un.org/feed/view/en/story/2026/11/1168862)
 *UN News* - Nov 23, 17:30 IST (iso: 2026-11-23T12:00:00+00:00)
@@ -42,21 +70,21 @@ Iran will begin rationing electricity on November 22. This follows recent bread 
 
 Midwife Anisa Fadhl fled Taiz, Yemen, as fighting escalated two months ago. She left without packing a bag. Her home and clinic were later looted and destroyed. She escaped with only her life. The conflict displaced many medical workers. When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic.
 
-### [Record settler attacks mar olive harvest as UN urges Israel to protect farmers](https://news.un.org/feed/view/en/story/2026/11/1168849)
-*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image560x340cropped.jpg -->
+### [High Stakes in Iraq’s Push to Reclaim Jurf al-Sakhar](https://www.crisisgroup.org/qna/middle-east-north-africa/iraq/high-stakes-iraqs-push-reclaim-jurf-al-sakhar)
+*International Crisis Group* - Nov 21, 02:10 IST (iso: 2026-11-20T20:40:00+00:00)
+<!-- image: https://images.pexels.com/photos/6664196/pexels-photo-6664196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-Israeli settlers carried out over 400 attacks during this year’s West Bank olive harvest. This is the highest number recorded in any previous season. UN agencies and humanitarian groups urged Israel to protect farmers from the violence. The attacks caused casualties and significant property damage. Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.
+Iraqi government forces entered Jurf al-Sakhar on 20 November to reclaim the area from Kata’ib Hizbollah. Prime Minister Ali al-Zaidi restored state authority in the stronghold. Crisis Group expert Lahib Higel explained the circumstances that allowed the military operation to proceed successfully. On 20 November, Iraqi government forces entered Jurf al-Sakhar, a stronghold of the Iran-backed group Kata’ib Hizbollah. In this Q&A, Crisis Group expert Lahib Higel explains the circumstances that allowed Prime Minister Ali al-Zaidi to restore state authority in this area.
 
 ---
 
 ## Americas
 
-### [Federal appeals court gives President Donald Trump path to erasing hush money conviction](https://www.thehindu.com/news/international/federal-appeals-court-gives-president-donald-trump-path-to-erasing-hush-money-conviction/article71736252.ece)
-*The Hindu (International)* - Nov 24, 03:06 IST (iso: 2026-11-23T21:36:25+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/j7v72z/article71736368.ece/alternates/LANDSCAPE_1200/2026-11-23T175105Z_1421164491_RC2TROAZ0M6H_RTRMADP_3_BOEING-TRUMP.JPG -->
+### [Huang’s comeback won’t ease Southeast Asia’s data center crunch](https://asiatimes.com/2026/11/huangs-comeback-wont-ease-southeast-asias-data-center-crunch/)
+*Asia Times* - Nov 24, 17:28 IST (iso: 2026-11-24T11:58:25+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Data-Centers-Thailand.jpg -->
 
-A federal appeals court ordered a lower court to decide if Trump's hush money case stays in federal court. If it does, Trump can argue for dismissal based on presidential immunity. The panel's ruling provides a legal path to erasing his conviction. The panel ordered a lower court to promptly issue a decision on whether the case should remain in federal court; if that happens, Mr.
+Jensen Huang returned as Nvidia chief executive after a board vote. Nvidia shares rose over 31 percent in New York. Southeast Asia still faces a severe data center shortage despite the stock rally. Monday’s unanimous board vote reinstating Jensen Huang as Nvidia chief executive, backed publicly by US President Donald Trump, triggered a sharp relief rally across global artificial intelligence stocks, with Nvidia shares surging more than 31% in New York trading.
 
 ### [Jensen Huang’s return locks Nvidia deeper into US statecraft](https://asiatimes.com/2026/11/jensen-huangs-return-locks-nvidia-deeper-into-us-statecraft/)
 *Asia Times* - Nov 23, 21:58 IST (iso: 2026-11-23T16:28:35+00:00)
@@ -64,11 +92,11 @@ A federal appeals court ordered a lower court to decide if Trump's hush money ca
 
 Nvidia's board reinstated Jensen Huang as CEO less than two weeks after his resignation. Shares surged roughly thirty percent in New York trading. Investors priced in product roadmap continuity, treating the reversal as an immediate restoration of the status quo. When Nvidia’s board voted unanimously on Monday to reinstate Jensen Huang as chief executive less than two weeks after his resignation, equity markets treated the reversal as an immediate restoration of the status quo.
 
-### [Modi’s Canada visit is set to move ties in a new direction: Vina Nadjibulla](https://www.thehindu.com/news/national/modis-canada-visit-is-set-to-move-ties-in-a-new-direction-vina-nadjibulla/article71734232.ece)
-*The Hindu (International)* - Nov 23, 19:45 IST (iso: 2026-11-23T14:15:18+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/r8a3c4/article71734449.ece/alternates/LANDSCAPE_1200/2025-06-17T214312Z_501434211_RC2F4FAWT37H_RTRMADP_3_G7-SUMMIT.JPG -->
+### [COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’](https://news.un.org/feed/view/en/story/2026/11/1168855)
+*UN News* - Nov 22, 17:30 IST (iso: 2026-11-22T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_COP31-Close1.jpg/image770x420cropped.jpg -->
 
-Vina Nadjibulla notes that India and Canada are shifting their relationship focus. Both governments now prioritize mutual security interests over historical differences. This approach aims to stabilize bilateral ties. The change marks a significant diplomatic pivot for the two nations. What has changed is that both governments appear increasingly willing to approach security issues through the lens of mutual security interests, rather than allowing these differences to define the entire relationship, says CEO of the Vancouver-based think tank.
+COP31 concluded without a binding climate agreement. Negotiators failed to resolve disputes over fossil fuel phaseouts. UN Secretary-General António Guterres called the outcome deeply disappointing. The two-week summit ended with no new commitments to accelerate global emissions reductions. COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.
 
 ### [Guterres laments COP31 outcome, urges climate justice from Barbados](https://news.un.org/feed/view/en/story/2026/11/1168856)
 *UN News* - Nov 22, 17:30 IST (iso: 2026-11-22T12:00:00+00:00)
@@ -76,53 +104,21 @@ Vina Nadjibulla notes that India and Canada are shifting their relationship focu
 
 António Guterres expressed disappointment over the collapse of COP31 negotiations. He made the comments during a visit to Barbados. The Secretary-General urged stronger action on fossil fuels. He also called for increased climate finance for vulnerable nations. Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.
 
-### [COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’](https://news.un.org/feed/view/en/story/2026/11/1168855)
-*UN News* - Nov 22, 17:30 IST (iso: 2026-11-22T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_COP31-Close1.jpg/image770x420cropped.jpg -->
-
-COP31 concluded without a binding climate agreement. Negotiators failed to resolve disputes over fossil fuel phaseouts. UN Secretary-General António Guterres called the outcome deeply disappointing. The two-week summit ended with no new commitments to accelerate global emissions reductions. COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.
-
----
-
-## Europe & Russia
-
-### [Zelenskyy calls for four-way talks with Russia ‘as soon as possible’](https://www.thehindu.com/news/international/zelenskyy-calls-for-four-way-talks-with-russia-as-soon-as-possible/article71734890.ece)
-*The Hindu (International)* - Nov 23, 20:48 IST (iso: 2026-11-23T15:18:20+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/qwbdrg/article71734992.ece/alternates/LANDSCAPE_1200/Ireland_Ukraine_Envoy_67115.jpg -->
-
-Ukrainian President Zelenskyy requested immediate four-way talks with Russia. U. S. envoy Jared Kushner suggested Washington might offer Ukraine a security guarantee. This proposal resembles the Article 5 protection provided to NATO members. The discussion occurred during a gathering in Berlin. During a gathering of Ukrainian supporters in Berlin last week, U. envoy Jared Kushner said that Washington might consider offering Ukraine a security guarantee similar to that provided under Article 5 of the North Atlantic Treaty as part of a peace settlement.
-
-### [NATO-Like Guarantees For Ukraine? US Envoy Signals Possibility, But Questions Remain](https://www.rferl.org/a/kushner-trump-nato-ukraine-russia-security/33903834.html)
-*Radio Free Europe / Liberty* - Nov 23, 08:35 IST (iso: 2026-11-23T03:05:13+00:00)
-<!-- image: https://gdb.rferl.org/808D2EA0-D1C7-4C25-870B-2C62D206A023_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Jared Kushner said Donald Trump might offer Ukraine security guarantees modeled on NATO commitments. This possibility hinges on reducing the risk of another Russian invasion. The envoy signaled this potential shift on November 22. Questions remain regarding the specific terms and conditions of such an arrangement. US President Donald Trump may consider offering Ukraine security guarantees modeled on NATO's collective-defense commitments if he is convinced that the risk of another Russian invasion has been sufficiently reduced, special envoy Jared Kushner said on November 22.
-
-### [Rescuers Search For Victims After Russia Attacks Apartment Building Near Kyiv](https://www.rferl.org/a/ukraine-dymer-russian-strike-apartment-building/33903592.html)
-*Radio Free Europe / Liberty* - Nov 23, 00:16 IST (iso: 2026-11-22T18:46:58+00:00)
-<!-- image: https://gdb.rferl.org/febbf769-d859-4331-2f02-08df407f9921_cx0_cy8_cw0_w1200_h630.jpg -->
-
-Russian drones destroyed a residential building in Dymer, 45 kilometers north of Kyiv. At least five people died, including an 18-year-old man. Rescuers searched for survivors and other victims. The attack targeted a civilian area near the capital. At least five people were confirmed dead after Russian drone strikes destroyed a residential building in the town of Dymer, about 45 kilometers north of Kyiv.
-
-### [Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad](https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house)
-*The Guardian* - Nov 21, 03:17 IST (iso: 2026-11-20T21:47:41+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=07ff49e86c3162c2f8cbd055b6230888 -->
-
-Donald Trump threatened to impose severe penalties on American tech firms constructing datacenters outside the United States. He made the statement during a White House press conference on Friday. The president provided no specific details regarding the nature or scale of these penalties. He also admitted he had not yet briefed his own officials on the plan. President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White.
-
----
-
-## Global / Multilateral
-
-### [UN chief urges talks on global AI safety framework, warns of historic shift in power](https://news.un.org/feed/view/en/story/2026/11/1168861)
-*UN News* - Nov 23, 17:30 IST (iso: 2026-11-23T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/23-11-2026-Barbados-Guterres-01.jpg/image770x420cropped.jpg -->
-
-UN Secretary-General António Guterres called for talks on a multilateral AI safety framework. He warned that artificial intelligence is driving the biggest transfer of power in human history. Member States must begin discussions to manage these emerging technological risks. UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.
-
 ---
 
 ## Asia-Pacific
+
+### [Coating wear makes China’s stealth fighters easier to target](https://asiatimes.com/2026/11/coating-wear-makes-chinas-stealth-fighters-easier-to-target/)
+*Asia Times* - Nov 24, 15:22 IST (iso: 2026-11-24T09:52:40+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Stealth-Fighter.jpeg -->
+
+New data shows stealth coating wear increases radar reflection. Losing ten percent of the coating nearly doubles microwave power. This challenges the effectiveness of low-observable aircraft in harsh conditions. New laboratory data on stealth coating degradation, rapidly expanding fighter fleets, harsh maritime sustainment, and evolving counter-stealth sensors test whether low-observable aircraft can stay decisive without broader operational adaptation. This month, the South China Morning Post (SCMP) reported that losing just 10% of a radar-absorbing coating can nearly double reflected microwave power in.
+
+### [How Herat defied the Taliban regime, chanting ‘women, work and freedom’](https://www.thehindu.com/news/international/how-herat-defied-the-taliban-regime-chanting-women-work-and-freedom/article71109347.ece)
+*The Hindu (International)* - Nov 24, 15:10 IST (iso: 2026-11-24T09:40:57+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/6c45b2/article71110766.ece/alternates/LANDSCAPE_1200/AFP_B6RM2TR.jpg -->
+
+Women in Herat protested Taliban dress code enforcement in early June. Authorities arrested many women for wearing traditional manto instead of burqa. Communities rallied, leading to the release of the detainees. The protests in the Afghan city in the first week of June were triggered by the enforcement of a dress code, which requires women to wear burqa in public; many women, including those wearing traditional Afghan wear of manto, were arrested, but released later as entire communities protested.
 
 ### [Why Taiwanese firms resist leaving China, even as tensions rise](https://asiatimes.com/2026/11/why-taiwanese-firms-resist-leaving-china-even-as-tensions-rise/)
 *Asia Times* - Nov 23, 16:07 IST (iso: 2026-11-23T10:37:59+00:00)
@@ -136,17 +132,17 @@ Acer and Asus are relocating production lines from Thailand and Vietnam back to 
 
 The China-ASEAN Free Trade Area 3.0 upgrade enters into force next month. Leaders confirmed the protocol in Manila on November 16. The pact extends beyond tariffs to include digital trade and AI standards. It also covers e-payments and smart customs single windows. In Manila on November 16, Chinese and ASEAN leaders confirmed that the China-ASEAN Free Trade Area (CAFTA) 3.0 upgrade protocol will formally enter into force at the start of next month.
 
+### [At least 24 killed and dozens missing in confectionery factory fire in Indonesia](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)
+*The Guardian* - Nov 23, 11:15 IST (iso: 2026-11-23T05:45:12+00:00)
+<!-- image: https://i.guim.co.uk/img/media/47cbe1be874ceb93fbcf458afaae7d1de459017b/308_0_3265_2613/master/3265.jpg?width=140&quality=85&auto=format&fit=max&s=5434d79e2c7db3afb55b15a2183bcef2 -->
+
+At least 24 people died in a fire at a confectionery factory in Indonesia. Rescuers searched unstable structures for about 30 missing workers. Authorities are investigating the cause of the blaze that broke out on Saturday. DNA testing is required to identify the victims. Rescuers brave unstable structures in search for missing as DNA needed to identify victimsIndonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures in the burned wreckage to search for ⁠about 30 people ⁠still missing. Authorities ​were still investigating the cause of the fire, which broke out on Saturday in the PT Fonusa Agung Mu.
+
 ### [China’s plan to weaponize infrastructure gear](https://asiatimes.com/2026/11/underground-empire-chinas-plan-to-weaponize-infrastructure-gear/)
 *Asia Times* - Nov 23, 10:18 IST (iso: 2026-11-23T04:48:13+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Tunnel-Boring-Machines.jpg -->
 
 China imposed strict export controls on tunnel boring machines on November 18. The move coincided with the APEC summit. Leaders from Indonesia, Australia, Singapore, Malaysia, and Thailand stayed in the region. They skipped their flights home to discuss the new restrictions. On November 18, the day APEC leaders gathered, China quietly activated a powerful new geopolitical weapon: strict export controls on tunnel boring machines (TBMs).
-
-### [China’s mystery MQ-25-like drone built for Pacific power reach](https://asiatimes.com/2026/11/chinas-mystery-mq-25-like-drone-built-for-pacific-power-reach/)
-*Asia Times* - Nov 23, 09:17 IST (iso: 2026-11-23T03:47:28+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Mystery-Drone-copy-1.jpeg -->
-
-Satellite imagery showed an unidentified uncrewed aircraft at Pucheng Neifu Airport in Shaanxi Province. The drone resembles the Boeing MQ-25A Stingray carrier tanker. It was spotted alongside a CH-7 stealth drone and a Jiutian mothership. The aircraft measures roughly 20 meters in wingspan. Satellite imagery revealed an unidentified uncrewed aircraft at Pucheng Neifu Airport in China’s Shaanxi Province, bearing strong visual similarities to Boeing’s MQ-25A Stingray carrier tanker, alongside a CH-7 stealth flying-wing drone and a Jiutian drone mothership, multiple media outlets reported.
 
 ### [Afghan Women Turn To Social Media To Earn Living As Doors Close Offline](https://www.rferl.org/a/afghan-kabul-female-influencers-social-media-taliban/33902659.html)
 *Radio Free Europe / Liberty* - Nov 22, 13:42 IST (iso: 2026-11-22T08:12:45+00:00)
@@ -154,23 +150,27 @@ Satellite imagery showed an unidentified uncrewed aircraft at Pucheng Neifu Airp
 
 Afghan women are building personal brands on social media. They use Instagram, TikTok, and YouTube to earn a living. Content features cooking, shopping, and family gatherings. This shift occurs as offline opportunities have closed under Taliban rule. Afghan women who have had their lives sharply restricted by Taliban rule have responded by building personal brands on Instagram, TikTok, and YouTube showing them cooking at home, shopping in bazaars, or meeting friends and family.
 
-### [China’s open-weight AI models are coming for America’s market](https://asiatimes.com/2026/11/chinas-open-weight-ai-models-are-coming-for-americas-market/)
-*Asia Times* - Nov 22, 09:12 IST (iso: 2026-11-22T03:42:39+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/DeepSeek-China-AI-Artificial-Intelligence.jpg -->
+### [General Assembly President tells Rohingya refugees after genocide ruling](https://news.un.org/feed/view/en/story/2026/11/1168853)
+*UN News* - Nov 20, 17:30 IST (iso: 2026-11-20T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image560x340cropped.jpg -->
 
-The Trump administration is considering requiring US companies to disclose their use of Chinese AI models. This move follows growing adoption of tools from DeepSeek, Alibaba, and Moonshot AI. American firms are shifting to these lower-cost alternatives. The deliberation aims to address the rising market share of Chinese open-weight models in the United States. The Trump administration is weighing whether to require American companies to disclose their use of Chinese artificial intelligence, Reuters reported on November 18.
+The President of the UN General Assembly visited Cox’s Bazar refugee camps in Bangladesh. This occurred one day after the International Court of Justice ruled Myanmar committed genocide against the Rohingya. The official urged the international community to turn the landmark judgement into concrete action. A day after the UN’s highest court found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.
 
-### [China commits to low-carbon electrification and help for others to improve](https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve)
-*The Guardian* - Nov 21, 15:17 IST (iso: 2026-11-21T09:47:57+00:00)
-<!-- image: https://i.guim.co.uk/img/media/9e68aee336577ce0e768fd142e23caf3b9396a18/240_71_6107_4885/master/6107.jpg?width=140&quality=85&auto=format&fit=max&s=71e768ed29a219f5ff58d9520b737a67 -->
+---
 
-China pledged to accelerate low-carbon electrification and assist other nations in doing the same. Wang Yi made the commitment at the Cop31 summit. The goal aligns with broader calls for countries to derive 35% of their energy from electricity by 2035. Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035Cop31 live – latest updatesChina is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said. Wang Yi, a professor of energy and environment policy.
+## Europe & Russia
 
-### [Why Takaichi should stick to her guns on Taiwan](https://asiatimes.com/2026/11/why-takaichi-should-stick-to-her-guns-on-taiwan/)
-*Asia Times* - Nov 21, 12:19 IST (iso: 2026-11-21T06:49:19+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2025/12/Japan-Sanae-Takaichi-.jpg -->
+### [NATO-Like Guarantees For Ukraine? US Envoy Signals Possibility, But Questions Remain](https://www.rferl.org/a/kushner-trump-nato-ukraine-russia-security/33903834.html)
+*Radio Free Europe / Liberty* - Nov 23, 08:35 IST (iso: 2026-11-23T03:05:13+00:00)
+<!-- image: https://gdb.rferl.org/808D2EA0-D1C7-4C25-870B-2C62D206A023_cx0_cy3_cw0_w1200_h630.jpg -->
 
-Japanese Prime Minister Sanae Takaichi stated Chinese force against Taiwan could trigger Self-Defense Forces deployment. The remark drew significant criticism from Beijing. China responded with economic and diplomatic pressure against Tokyo. On November 7, 2025, Japanese Prime Minister Sanae Takaichi was pressed repeatedly in parliament about a possible Chinese invasion or naval blockade of Taiwan. She eventually said that Chinese use of force could trigger the deployment of Japan’s Self-Defense Forces.
+Jared Kushner said Donald Trump might offer Ukraine security guarantees modeled on NATO commitments. This possibility hinges on reducing the risk of another Russian invasion. The envoy signaled this potential shift on November 22. Questions remain regarding the specific terms and conditions of such an arrangement. US President Donald Trump may consider offering Ukraine security guarantees modeled on NATO's collective-defense commitments if he is convinced that the risk of another Russian invasion has been sufficiently reduced, special envoy Jared Kushner said on November 22.
+
+### [Rescuers Search For Victims After Russia Attacks Apartment Building Near Kyiv](https://www.rferl.org/a/ukraine-dymer-russian-strike-apartment-building/33903592.html)
+*Radio Free Europe / Liberty* - Nov 23, 00:16 IST (iso: 2026-11-22T18:46:58+00:00)
+<!-- image: https://gdb.rferl.org/febbf769-d859-4331-2f02-08df407f9921_cx0_cy8_cw0_w1200_h630.jpg -->
+
+Russian drones destroyed a residential building in Dymer, 45 kilometers north of Kyiv. At least five people died, including an 18-year-old man. Rescuers searched for survivors and other victims. The attack targeted a civilian area near the capital. At least five people were confirmed dead after Russian drone strikes destroyed a residential building in the town of Dymer, about 45 kilometers north of Kyiv.
 
 ---
 
