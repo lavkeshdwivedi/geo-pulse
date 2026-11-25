@@ -1,92 +1,154 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 25, 2026 10:38 IST
+**अपडेट:** November 25, 2026 21:47 IST
+
+---
+
+## एशिया-प्रशांत
+
+### [चीन किसके साथ छेड़ने जा रहा युद्ध? हवाई अड्डों से लीक हुई ऐसी खबर, आर्मी-इंजीनियर्स सब दौड़े-दौड़े](https://hindi.news18.com/world/china-is-china-preparing-for-war-pla-enlists-builders-of-worldhighest-bridge-robotic-dogs-to-repair-airfield-runways-in-wartime-11012707.html)
+*News18 Hindi (World)* - Nov 25, 21:44 IST (iso: 2026-11-25T16:14:42+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/china-xi-jinping-2026-11-beb59359a11528c4735880a4d21d6eaf-1200x800.jpg -->
+
+चीन ने युद्ध में नुकसान उठाने वाले हवाई अड्डों को तुरंत ठीक करने के लिए खास फौज तैयार की है। इसमें सिविल इंजीनियरों को रनवे सुधारने और कंक्रीट बिछाने की ट्रेनिंग दी जा रही है। यह कदम अमेरिका से टकराव के डर के बीच उठाया गया है। चीन, युद्ध में तबाह होने वाले हवाई अड्डों और रनवे को तुरंत ठीक करने के लिए एक खास फौज तैयार कर रहा है.
+
+### [सोने की खदान में चल रही थी खुदाई, तभी आ गई बाढ़ और मच गई चीख-पुकार, 9 लोगों की मौत, 17 लापता](https://hindi.news18.com/world/south-asia-illegal-gold-mine-flooded-in-indonesia-atleast-3-dead-and-23-people-trapped-inside-11012216.html)
+*News18 Hindi (World)* - Nov 25, 21:38 IST (iso: 2026-11-25T16:08:23+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Gold-Mine-2026-11-7de9c77bf84fb99616af93beee0e4a07-1200x800.jpg -->
+
+इंडोनेशिया के पश्चिम जावा में सोने की अवैध खदान में बाढ़ आने से 9 खनिकों की मौत हो गई। सिसेरेह नदी का पानी 100 मीटर गहरी सुरंगों में घुस गया। 23 अन्य लोगों की तलाश जारी है। बचाव अभियान बुधवार को सक्रिय रूप से चल रहा था। इंडोनेशिया के पश्चिम जावा प्रांत में सोने की एक अवैध खदान में अचानक बाढ़ आने से बड़ा हादसा हो गया.
+
+### [किचन की फर्श खोदकर कैसे चोरी किया 49000 लीटर डीजल? घर से तेल पाइपलाइन तक निकाली सुरंग](https://hindi.news18.com/world/pakistan-pakistan-thieves-dig-tunnel-under-room-hide-pipe-under-kitchen-floor-to-steal-49000-litres-diesel-from-pso-pipeline-in-islamabad-11012655.html)
+*News18 Hindi (World)* - Nov 25, 21:11 IST (iso: 2026-11-25T15:41:58+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Pakistan-Diseal-Theft-2026-11-0a27d82d371f4c3d622226e52a9285c2-1200x800.jpg -->
+
+इस्लामाबाद में चोरों ने घर के किचन से सुरंग खोदकर पाकिस्तान स्टेट ऑयल की पाइपलाइन से 49,000 लीटर डीजल चुरा लिया। इसकी कीमत 1.76 करोड़ रुपये बताई जा रही है। प्रेशर गिरने पर शक हुआ और संदिग्ध ट्रक पकड़ा गया। पाकिस्तान की राजधानी इस्लामाबाद में चोरों ने कमाल की इंजीनियरिंग दिखाई है. उन्होंने एक घर के किचन की फर्श के नीचे पाइप लगाया और बैठक के नीचे से सुरंग खोद डाली.
+
+### [चिकन नेक के पास नेपाल-चीन के उस हाईवे का क्या हुआ? भारत के बिना कुछ किए कैसे फुस्स हुई पूरी प्लानिंग](https://hindi.news18.com/world/south-asia-what-happened-to-the-nepal-china-highway-near-india-chicken-neck-how-steel-shortage-floods-stalled-xi-jinping-362m-dollar-project-11012472.html)
+*News18 Hindi (World)* - Nov 25, 20:30 IST (iso: 2026-11-25T15:00:21+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-Nepal-Mega-Highway-Project-Stalled-2026-11-ec96a3e4e2ed551e2fb36d9a5200d4fa-1200x800.jpg -->
+
+नेपाल के काकरभिट्टा से लौकाही के बीच बन रहा चीनी एशियन हाईवे प्रोजेक्ट ठप पड़ गया है। डेडलाइन निकलने के बाद भी सिर्फ 40 फीसदी काम पूरा हुआ है। चीन से सामान की आपूर्ति बंद हो गई है और महीनों से कोई अपडेट नहीं मिला है। भारत के ‘चिकन नेक’ यानी सिलीगुड़ी कॉरिडोर के ठीक बगल में चीन का एक बड़ा प्रोजेक्ट अटक गया है.
+
+### [बांग्लादेशी घुसपैठियों पर बंगाल सीएम शुभेंदु अधिकारी का बड़ा आदेश, पुलिस से कहा- एक-एक को खोजकर](https://www.patrika.com/world-news/cm-suvendu-adhikari-bangladesh-infiltrators-cooch-behar-order-21087871)
+*Patrika (World)* - Nov 25, 20:25 IST (iso: 2026-11-25T14:55:03+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Suvendu-Adhikari-3.webp -->
+
+पश्चिम बंगाल के मुख्यमंत्री शुभेंदु अधिकारी ने पुलिस को कूचबिहार में अवैध प्रवासियों को खोजने का आदेश दिया है। पुलिस अधीक्षक मनीष जोशी को निर्देश दिया गया है कि उन्हें बांग्लादेश वापस भेजा जाए। पश्चिम बंगाल में बांग्लादेशी घुसपैठियों को लेकर मुख्यमंत्री शुभेंदु अधिकारी ने सख्ती दिखाई है। बांग्लादेश से कूचबिहार जिले में कथित तौर पर अवैध तरीके से दाखिल हुए मुस्लिम प्रवासियों को लेकर उन्होंने बड़ा आदेश दिया है।
+
+### [अरुणाचल बॉर्डर के पास चीन की नई करतूत, 15.62 लाख करोड़ में कैसे मरोड़ दी नदी? डरावनी है सुपर डैम की](https://hindi.news18.com/world/china-satellite-images-reveal-china-diverting-river-near-arunachal-border-for-medog-super-dam-will-brahmaputra-siang-face-issues-11012300.html)
+*News18 Hindi (World)* - Nov 25, 18:56 IST (iso: 2026-11-25T13:26:38+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-Diverting-River-Near-Arunachal-Border-2026-11-84ab6de9114318be437a6978faf9dbed-1200x800.jpg -->
+
+तिब्बत में यारलुंग त्सांगपो नदी पर चीन 60 गीगावाट का मेडोग डैम बना रहा है। सैटेलाइट तस्वीरों में नदी के बहाव में बदलाव दिख रहा है। भारत ने इस जवाब में सियांग अपर मल्टीपर्पज प्रोजेक्ट का प्रस्ताव रखा है। अरुणाचल बॉर्डर के पास तिब्बत में यारलुंग त्सांगपो नदी पर चीन का 60 गीगावाट का मेडोग सुपर डैम तेजी से बन रहा है.
+
+### [शेख हसीना की बांग्लादेश वापसी पर 5 ज़रूरी सवाल, जवाब का इंतजार](https://hindi.news18.com/world/south-asia-sheikh-hasina-bangladesh-return-december-16-five-unanswered-questions-passport-nid-11012256.html)
+*News18 Hindi (World)* - Nov 25, 18:26 IST (iso: 2026-11-25T12:56:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-22-2026-11-87785abbe71b8af4f11961386196a063-1200x800.jpg -->
+
+शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने की घोषणा की है। इसके बाद पासपोर्ट, राष्ट्रीय पहचान पत्र और सुरक्षा व्यवस्था को लेकर कई प्रश्न उठे हैं। विमान सेवाओं की उपलब्धता भी एक बड़ा सवाल बना हुआ है। 16 दिसंबर को बांग्लादेश लौटने की शेख हसीना की घोषणा के बाद पासपोर्ट, NID, बिमान बांग्लादेश एयरलाइंस के विमान, सुरक्षा आदि को लेकर कई सवाल हैं.
+
+### [शेख हसीना की वापसी से पहले बांग्लादेश में अवामी लीग नेता की गोली मारकर हत्या, 50 से ज्यादा घरों में](https://www.patrika.com/world-news/bangladesh-political-violence-awami-league-leader-killed-khulna-21086981)
+*Patrika (World)* - Nov 25, 17:56 IST (iso: 2026-11-25T12:26:21+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Bangladesh-Violence.webp -->
+
+खुलना जिले में बाइक सवारों ने अवामी लीग नेता अब्दुल हलीम शेख को गोली मारकर मार डाला। नरेल जिले में पार्टी के 50 से ज्यादा घरों में आग लगाई गई। पार्टी ने इन घटनाओं पर सुरक्षा व्यवस्था को लेकर सवाल उठाए हैं। Sheikh Hasina: बांग्लादेश में राजनीतिक हिंसा और बिगड़ती कानून-व्यवस्था के बीच अवामी लीग के एक नेता की गोली मारकर हत्या कर दी गई।
+
+### [हसीना की वापसी से फिर लौटेगा मुजीब का बांग्लादेश? बंगाली राष्ट्रवाद बनाम जिहादी कट्टरपंथ की लड़ाई](https://hindi.news18.com/world/south-asia-sheikh-hasina-return-bangladesh-mujib-bengali-nationalism-vs-radicalism-11008885.html)
+*News18 Hindi (World)* - Nov 25, 17:07 IST (iso: 2026-11-25T11:37:52+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Major-sacked-Syed-Ziaul-Haque-1600-x-900-px-21-2026-11-22918d38d5b04822ab4ae36c1c2e7206-1200x800.jpg -->
+
+शेख हसीना की वापसी बांग्लादेश को 1971 के बंगाली राष्ट्रवाद की ओर लौटा सकती है। इससे धर्मनिरपेक्ष विचारधारा और कट्टरपंथी ताकतों के बीच का संतुलन बदल सकता है। मुजीब की मूल वैचारिक पहचान फिर से सामने आ सकती है। एक तरफ 1971 का बंगाली राष्ट्रवाद और मुजीब की धर्मनिरपेक्ष विचारधारा है, तो दूसरी तरफ कट्टरपंथी ताकतों का बढ़ता प्रभाव. ऐसे में शेख हसीना की वापसी क्या बांग्लादेश को उसकी मूल वैचारिक पहचान की ओर लौटा सकती है?: बांग्लादेश, ब्लिट्ज वीकली, संपादक, सल्लाऊद्दीन शोएब चौधरी।
+
+### [अंग्रेज अफसर की पत्नी के साथ भागे थे बेनजीर के पड़दादा, पकड़े जाने पर गोरी मेम की कर दी गई थी हत्या](https://www.patrika.com/world-news/benazir-bhutto-great-grandfather-love-story-kabul-21083805)
+*Patrika (World)* - Nov 25, 16:02 IST (iso: 2026-11-25T10:32:49+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/benazirbhuttonewsupdate.webp -->
+
+मीर मुर्तजा भुट्टो ने अंग्रेज अफसर की पत्नी से भागकर काबुल में शरण ली थी। उन्हें कत्ल का इल्जाम झेलना पड़ा और घर जलाना पड़ा। लंबी कानूनी लड़ाई के बाद उन्होंने खानदान की जायदाद बचाई थी। पाकिस्तान में बेनजीर भुट्टो के पड़दादा और जुल्फिकार आली भुट्टो के दादा मीर मुर्तजा भुट्टो को एक अंग्रेज अफसर की बीवी से प्यार करना इतना भारी पड़ गया था कि उन्हें भाग कर काबुल में शरण लेनी पड़ी, कत्ल का इल्जाम झेलना पड़ा, घर जलवाना पड़ा, वेश बदल कर मजदूरी करनी पड़ी, बंबई-लाहौर से वकील बुलवाकर केस लड़ना पड़ा।
+
+### [हवाई या लैंड बॉर्डर मार्ग से, 16 दिसंबर को शेख हसीना कैसे लौटेंगी बांग्लादेश?](https://hindi.news18.com/news/nation/uncertainty-over-sheikh-hasina-return-to-bangladesh-on-december-16-will-she-go-by-air-or-land-border-ws-l-11011995.html)
+*News18 Hindi (World)* - Nov 25, 15:46 IST (iso: 2026-11-25T10:16:11+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/sheikh-hasina-pti-2026-10-2584caeb34886bafa3890929990e3ec6-1200x800.jpg -->
+
+बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना 16 दिसंबर को देश लौटने की घोषणा कर चुकी हैं। उनके पासपोर्ट रद्द होने और सरकार की प्रत्यर्पण मांग के कारण वापसी पर संकट गहरा गया है। बांग्लादेश की पूर्व पीएम शेख हसीना 16 दिसंबर को देश लौटने की घोषणा कर चुकी हैं, हालांक‍ि उनके लौटने पर संकट के बादल मंडरा रहे हैं. हसीना का पासपोर्ट रद्द होने और सरकार द्वारा प्रत्यर्पण की मांग पर अड़े रहने के कारण उनकी वापसी पर संकट गहरा गया है.
+
+### [AI के नाम पर नई गुलामी की आहट! UN में भारत की दो टूक, 'ग्लोबल साउथ' को बाजार समझने की भूल न करें](https://hindi.news18.com/news/nation/killer-robots-and-misuse-of-ai-india-blunt-message-for-powerful-nations-at-unsc-11011741.html)
+*News18 Hindi (World)* - Nov 25, 14:35 IST (iso: 2026-11-25T09:05:32+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Artificial-Intelligence-2026-11-6865239719dfed8874a2947c5d53c551-1200x800.jpg -->
+
+संयुक्त राष्ट्र में भारत के प्रतिनिधि हरीश पर्वतनेनी ने विकसित देशों की तकनीकी मोनोपॉली का विरोध किया। उन्होंने चेतावनी दी कि ग्लोबल साउथ को केवल उपभोक्ता या डेटा स्रोत के रूप में न देखें। UNSC India Technology: आर्टिफिशियल इंटेलिजेंस और आधुनिक तकनीक के नाम पर विकसित देशों की मोनोपॉली और भेदभावपूर्ण नीतियों के खिलाफ भारत ने संयुक्त राष्ट्र सुरक्षा परिषद के मंच से कड़ा रुख अख्तियार किया है.
+
+### [चीन जिसके दम पर फूलता है, उसकी बड़ी कमजोरी आई सामने, S-400 छोड़िए ड्रैगन के 5th जेन जेट के लिए आकाश](https://hindi.news18.com/news/defence/china-5th-generation-stealth-jet-biggest-weakness-reveal-s400-akash-air-defence-system-easily-intercept-and-destroy-11011648.html)
+*News18 Hindi (World)* - Nov 25, 13:47 IST (iso: 2026-11-25T08:17:22+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/J20-Jet-2026-11-f5181540cfc8e844a21901bdd9ae680f-1200x800.jpg -->
+
+चीन पांचवीं पीढ़ी के स्टील्थ फाइटर जेट का बड़ा बेड़ा तैयार कर रहा है। इसे कम कीमत में अन्य देशों को बेचने की कोशिश भी चल रही है। इस प्रयास के बीच विमान की एक बड़ी कमजोरी सामने आई है। China 5th Gen Stealth Jet: चीन पांचवीं पीढ़ी के स्‍टील्‍थ फाइटर जेट का बड़ा बेड़ा तैयार करने में जुटा है.
+
+### [कभी भारत को दी धमकी, अब SCO में सिटपिटाए पाकिस्तानी मंत्री मुसादिक मलिक, अपने देश का अलापते रहे](https://hindi.news18.com/world/pakistan-pakistan-minister-musadik-malik-ignores-controversial-matters-in-sco-summit-delhi-only-praises-pakistan-pm-shahbaz-applauses-ws-l-11011654.html)
+*News18 Hindi (World)* - Nov 25, 13:36 IST (iso: 2026-11-25T08:06:56+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-minister-musadik-malik-2026-11-d727dc2243d71793cb5ac752a0fb7906-1200x800.jpg -->
+
+दिल्ली में SCO सिविलाइजेशनल डायलॉग में पाकिस्तानी मंत्री मुसादिक मसूद मलिक नरम तेवर में नजर आए। उन्होंने विवादित मुद्दों पर बोलने से बचकर केवल अपने देश की प्रशंसा की। पाकिस्तान के प्रधानमंत्री ने उनकी इस रुख की तारीफ की। दिल्ली में आयोजित SCO सिविलाइजेशनल डायलॉग फोरम में शामिल हुए पाकिस्तानी मंत्री मुसादिक मसूद मलिक भारत में नरम तेवर में नजर आए.
 
 ---
 
 ## दुनिया
 
+### [कच्छ के छोटे रण में विदेशी पक्षियों का आगमन शुरू](https://www.patrika.com/ahmedabad-news/arrival-of-migratory-birds-begins-in-the-little-rann-of-kutch-21088008)
+*Patrika (World)* - Nov 25, 21:41 IST (iso: 2026-11-25T16:11:47+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Migratory-birds-in-the-Little-Rann-of-Kutch-located-in-Surendranagar-district.webp -->
+
+राजकोट के सुरेंद्रनगर जिले में कच्छ के छोटे रण में सर्दी के साथ विदेशी पक्षियों का आगमन शुरू हो गया है। नवंबर के अंतिम सप्ताह में वेटलाइन और टुंडी तालाब में 30 हजार से अधिक पक्षी देखे गए। इनमें फ्लेमिंगो और लेसर फ्लेमिंगो शामिल हैं। राजकोट. सुरेंद्रनगर जिले में स्थित कच्छ के छोटे रण में सर्दी का असर शुरू होते ही विदेशी पक्षियों का आगमन शुरू हो गया है।
+
+### [‘सब मरने वाले हैं’...पहाड़ों से बहकर आ रहा जहर, लोगों के पेट में पहुंचा, सबसे पहले जॉम्बी बन गईं](https://hindi.news18.com/world/south-asia-everyone-is-going-to-die-toxic-arsenic-from-myanmar-rare-earth-mines-poisons-thailand-rivers-turns-fish-into-zombies-11012261.html)
+*News18 Hindi (World)* - Nov 25, 17:31 IST (iso: 2026-11-25T12:01:23+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Thailand-Toxic-Rivers-2026-11-bbd7a592ef0c2cc2c3b93d7835fe8130-1200x800.jpg -->
+
+एशिया की नदियों में सोने और रेयर अर्थ खदानों से आर्सेनिक व भारी धातुएं बह रही हैं। इससे पीने का पानी और फसलें प्रभावित हुई हैं। मछलियां सूज गई हैं और लोगों को जहरीला भोजन खाने का डर है। एशिया की कुछ नदियों में दहशत फैल गई है, सोने और रेयर अर्थ खदानों से जहरीला आर्सेनिक और भारी धातुएं बहकर आ रही हैं.
+
 ### [न्यू ऑरलियन्स से फ्लोरिडा जा रहा विमान समंदर में गिरा, दो बच्चों समेत छह लापता; बचाव अभियान जारी](https://www.amarujala.com/world/usa-plane-traveling-from-new-orleans-to-florida-crashes-sea-six-people-including-two-children-are-missing-2026-11-25)
 *Amar Ujala World* - Nov 25, 10:38 IST (iso: 2026-11-25T05:08:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/20/vamana-ma-bma-ka-thhamaka_57d9758516faeef170b454ea620547c3.jpeg?w=1200&dpr=1.0 -->
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/samathara-ma-lpata-hae-chhaha-vamana-yatara_30617b89fd4e2f3423a6a519de83b08b.jpeg?w=1200&dpr=1.0 -->
 
 न्यू ऑरलियन्स से फ्लोरिडा जा रहा विमान समंदर में गिर गया। छह यात्री, जिनमें दो बच्चे शामिल हैं, लापता हैं। बचाव अभियान अभी जारी है। न्यू ऑरलियन्स से फ्लोरिडा जा रहा विमान समंदर में गिरा, दो बच्चों समेत छह लापता; बचाव अभियान जारी।
 
-### [पिता के नाम से खेत है? जानें वयस्क बेटे योजना का लाभ ले सकते हैं या नहीं](https://www.amarujala.com/photo-gallery/utility/land-in-father-name-know-if-you-can-get-pm-kisan-benefits-know-in-hindi-2026-11-25)
-*Amar Ujala National* - Nov 25, 10:22 IST (iso: 2026-11-25T04:52:26+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/pata-ka-nama-khata-paema-kasana_bb3763fa57118be257cf1ced2e3d6e63.jpeg?w=1200&dpr=1.0 -->
+---
 
-पिता के नाम से दर्ज खेत पर वयस्क बेटे को सीधे लाभ नहीं मिलता। जमीन का नाम परिवर्तन या उत्तराधिकार के माध्यम से दर्ज होना अनिवार्य है। तभी योजना का लाभ पात्रता के आधार पर मिलेगा। खेत पिता के नाम होने पर लाभ पिता को मिल सकता है, बेटे को अलग से लाभ के लिए जमीन का नाम पर दर्ज होना जरूरी है।
+## यूरोप और रूस
 
-### [अनुपम खेर ने की सूरज बड़जात्या की फिल्म की समीक्षा, बोले- आज के दौर की जरूरी बात कहती है](https://www.amarujala.com/entertainment/bollywood/anupam-kher-shared-his-review-on-sooraj-barjatya-film-yeh-prem-mol-liya-2026-11-25)
-*Amar Ujala National* - Nov 25, 10:15 IST (iso: 2026-11-25T04:45:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/anapama-khara-ya-parama-mal-lya_3728ace3d36bc6fded127aed04d599a3.jpeg?w=1200&dpr=1.0 -->
+### [चीन पर 40 फीसदी तक टैरिफ लगाने की तैयारी में ट्रंप प्रशासन, भारत को लेकर भी आ गया बड़ा अपडेट](https://www.patrika.com/world-news/donald-trump-proposed-40-percent-new-tariff-on-china-and-13-other-countries-21087779)
+*Patrika (World)* - Nov 25, 20:27 IST (iso: 2026-11-25T14:57:19+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/trump-and-xi-.webp -->
 
-अनुपम खेर ने सूरज बड़जात्या की फिल्म 'ये प्रेम मोल लिया' की तारीफ की। उन्होंने इसे आज के दौर की जरूरी बात बताया। फिल्म के फैंस इसकी रिलीज का इंतजार कर रहे हैं। 'ये प्रेम मोल लिया' का फैंस को बेसब्री से इंतजार है। वहीं अभिनेता अनुपम खेर ने सोशल मीडिया पर पोस्ट कर फिल्म की तारीफ की। एक्टर ने सूरज बड़जात्या कई फिल्मों में बतौर अभिनेता काम किया है।
+ट्रंप प्रशासन ने चीन समेत 14 देशों पर नए टैरिफ का प्रस्ताव रखा है। इसमें चीन पर 40 फीसदी तक शुल्क लगाने की बात है। यह कदम व्यापारिक अन्याय और सब्सिडी के बहाने उठाया गया है। Donald Trump: अमेरिका के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने एक बार फिर चीन, भारत, यूरोपीय संघ और जापान समेत 14 बड़े ट्रेडिंग पार्टनर्स से आने वाले आयात पर नए टैरिफ का प्रस्ताव रखा है।
 
-### [ठंड में रजाई छोड़ने की जरूरत नहीं! बिस्तर पर लेटे-लेटे करें ये योगासन](https://www.amarujala.com/photo-gallery/lifestyle/yoga-and-health/no-gym-no-yoga-mat-7-easy-bed-exercises-for-winter-mornings-2026-11-24)
-*Amar Ujala National* - Nov 25, 10:15 IST (iso: 2026-11-25T04:45:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/yoga-in-bed_bbf2f4c9730591608f618faa2f382d51.jpeg?w=1200&dpr=1.0 -->
+### [8,500 फीट ऊंचाई पर पहाड़ से हटा रहे थे बर्फ, अचानक आई खट-खट की आवाज, भीतर से निकला 4000 साल पुराना](https://hindi.news18.com/world/rest-of-world-4000-year-old-bronze-neck-ring-found-in-melting-swiss-alps-ice-was-it-a-deity-offering-or-ancient-treasure-11011977.html)
+*News18 Hindi (World)* - Nov 25, 17:20 IST (iso: 2026-11-25T11:50:47+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Khazana-2026-11-f5e6f97fd6539e5ff81eff022b7e9c97-1200x800.jpg -->
 
-सर्दियों में बिस्तर पर ही किए जा सकने वाले सात आसान योगासन सुबह की स्ट्रेचिंग के लिए उपयोगी हैं। ये बेड योग शरीर को लचीला बनाते हैं और ठंड में उठने की कठिनाई कम करते हैं। yoga poses in bed: सर्दियों में सुबह बिस्तर से उठने का मन नहीं होता तो लेटे-लेटे करें ये 7 आसान योगासन। जानिए बेड योग के फायदे और सुबह की स्ट्रेचिंग का सही तरीका।
+बर्न कैंटन में 8,500 फीट ऊंचाई पर पिघलती बर्फ से 4,000 साल पुरानी नेक रिंग मिली। इसे शुरुआती कांस्य युग का पहला गहना माना जाता है। विशेषज्ञों का मानना है कि इसे देवता को चढ़ाया गया था। पिघलती बर्फ के नीचे से करीब 4000 साल पुरानी नेक रिंग मिली है, जिसे शुरुआती कांस्य युग का पहला गहना माना जा रहा है.
 
-### [यूपी के इन जिलों में बढ़ेगी ठंड! 30 नवंबर तक कोहरे का अलर्ट](https://www.amarujala.com/video/india-news/cold-to-intensify-in-these-up-districts-fog-alert-issued-until-november-30-2026-11-25)
-*Amar Ujala National* - Nov 25, 10:06 IST (iso: 2026-11-25T04:36:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/weather-update_3831af0e24a4d8513d9acc8e7d3f98d8.png?w=1200&dpr=1.0 -->
+### [1400 साल जिंदा रहेगा इंसान, न बूढ़ा होगा- न बीमार, ऑक्सफोर्ड के प्रोफेसर ने बताया चमत्कारी फॉर्मूला](https://hindi.news18.com/news/ajab-gajab/viral-humans-will-live-upto-1400-years-will-neither-grow-old-nor-get-sick-ex-oxford-professor-reveals-miraculous-formula-11012134.html)
+*News18 Hindi (World)* - Nov 25, 17:05 IST (iso: 2026-11-25T11:35:08+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Nick-2026-11-e614cdf005f16f4e5e133305579ae72e-1200x800.jpg -->
 
-उत्तर प्रदेश के कई जिलों में 30 नवंबर तक ठंड और कोहरे का अलर्ट जारी किया गया है। मौसम विभाग ने इन क्षेत्रों में तापमान में गिरावट और दृश्यता में कमी की संभावना पर सतर्क रहने की सलाह दी है। यूपी के इन जिलों में बढ़ेगी ठंड! 30 नवंबर तक कोहरे का अलर्ट।
-
-### [कम उम्र में घुटनों में दर्द? डॉक्टर से जानें 40 के बाद हड्डियों को कमजोर होने से बचाने का तरीका](https://www.amarujala.com/photo-gallery/lifestyle/fitness/why-are-young-adults-suffering-from-knee-pain-expert-explains-2026-11-25)
-*Amar Ujala National* - Nov 25, 10:04 IST (iso: 2026-11-25T04:34:17+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/knee-pain_43a88c1b0d515f2f5acf264739ceaf6d.jpeg?w=1200&dpr=1.0 -->
-
-Doctors report that prolonged sitting, excessive running, and repeated squatting are the main drivers of knee pain in adults aged twenty to forty. They advise strengthening the quadriceps, maintaining a healthy weight, and avoiding sudden spikes in activity to reduce long‑term joint damage. Why Are Young Adults Suffering from Knee Pain: इस लेख में जानें कि कम उम्र में घुटनों में दर्द होने के क्या कारण हैं और 20 से 40 साल की उम्र में कौन-सी आदतें घुटनों को कमजोर बना रही हैं।
-
-### [शिक्षा से मोक्ष तक का रास्ता: पीएम मोदी ने साझा किया सुभाषित, जीवन में किन छह गुणों का है सबसे अधिक](https://www.amarujala.com/india-news/pm-modi-shares-a-subhashita-which-six-qualities-hold-the-greatest-importance-in-life-2026-11-25)
-*Amar Ujala National* - Nov 25, 10:01 IST (iso: 2026-11-25T04:31:55+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/paema-matha_46db60cee4e9ce0e851719292427accb.jpeg?w=1200&dpr=1.0 -->
-
-प्रधानमंत्री नरेंद्र मोदी ने शिक्षा से मोक्ष तक के यात्रा को दर्शाते हुए एक सुभाषित साझा किया है। इसमें जीवन में छह गुणों का विशेष महत्व बताया गया है। यह संदेश व्यक्तियों को नैतिक और आध्यात्मिक मार्गदर्शन प्रदान करने का प्रयास है। शिक्षा से मोक्ष तक का रास्ता: पीएम मोदी ने साझा किया सुभाषित, जीवन में किन छह गुणों का है सबसे अधिक महत्व?
-
-### [जेएसडब्ल्यू मोटर्स ने पेश की नई पहचान: तीन दिसंबर को आएगी पहली SUV, कितनी हो सकती है कीमत? जानें](https://www.amarujala.com/automobiles/jsw-motors-unveils-new-brand-identity-first-plug-in-hybrid-suv-combat-debut-december-3-2026-11-25)
-*Amar Ujala National* - Nov 25, 09:41 IST (iso: 2026-11-25T04:11:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/jaesadablya-matarasa_0a6be4b236ad8e5e793e07b2f215ec1b.jpeg?w=1200&dpr=1.0 -->
-
-JSW Motors unveiled a new brand identity and said its first SUV will launch on 3 December. जेएसडब्ल्यू मोटर्स ने नई ब्रांड पहचान पेश की। तीन दिसंबर को पहली एसयूवी का डेब्यू। चेरी के प्लेटफॉर्म पर आधारित होगी एसयूवी। प्लग-इन हाइब्रिड पावरट्रेन मिलने की उम्मीद। जेएसडब्ल्यू मोटर्स ने पेश की नई पहचान: तीन दिसंबर को आएगी पहली SUV, कितनी हो सकती है कीमत?
-
-### [शेयर बाजार में जोरदार उछाल; सेंसेक्स 1500 अंक चढ़ा और निफ्टी 25750 के पार](https://www.amarujala.com/business/bazaar/sensex-opening-bell-share-market-opening-sensex-nifty-share-market-news-and-updates-2026-11-25)
-*Amar Ujala Breaking* - Nov 25, 09:39 IST (iso: 2026-11-25T04:09:23+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/sensex-opening-bell_ace364963d41362b894e17755175bfd1.jpeg?w=1200&dpr=1.0 -->
-
-25 नवंबर 2026 को भारतीय शेयर बाजार में तेजी दर्ज हुई। सेंसेक्स 83,916.77 अंक पर पहुंच गया। निफ्टी भी 25,750 के स्तर के पार बंद हुआ। 25 नवंबर, 2026 को सुबह 09:29 बजे शेयर बाजार में जोरदार शुरुआत हुई। प्रमुख सूचकांक सेंसेक्स और निफ्टी दोनों में शुरुआती कारोबार में बड़ी वृद्धि दर्ज की गई। शेयर बाजार में जोरदार उछाल; सेंसेक्स 1500 अंक चढ़ा और निफ्टी 25750 के पार।
-
-### [बेटी की शादी में कोई कसर नहीं छोड़ रहे अनंत सिंह, रातभर ग्राउंड में रहे डटे; जयपुर थीम पर सजेगा](https://www.amarujala.com/bihar/patna/anant-singh-daughter-shivangi-wedding-ludhiana-transgenders-blessings-nadawan-2026-11-25)
-*Amar Ujala Breaking* - Nov 25, 09:25 IST (iso: 2026-11-25T03:55:25+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/jayapara-ka-thama-para-saja-raha-jayamal-sataja_11600d5db24c2514efd2c1590fa083c3.jpeg?w=1200&dpr=1.0 -->
-
-मोकामा विधायक अनंत सिंह की बेटी शिवांगी की जयपुर थीम पर सजी शादी में लुधियाना से 25 किन्नर नर्तक पहुंचे। उन्होंने मंगल गीत गाकर नवदम्पति को आशीर्वाद दिया। मोकामा विधायक अनंत सिंह की बेटी शिवांगी सिंह की शादी में आशीर्वाद देने के लिए लुधियाना से 25 से अधिक किन्नर नदावां पहुंचे। उन्होंने मंगल गीत गाकर दूल्हा-दुल्हन को आशीर्वाद दिया और अनंत सिंह से मिलने की इच्छा जताई।
-
-### [8KM दूर था रेस्ट एरिया, एक गलत स्टॉप ने बिछा दीं लाशें, तमाशबीन बने रहे पुलिस-अफसर, ऐसा था कन्नौज](https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/kannauj-accident-rest-area-was-8-km-away-one-wrong-stop-led-to-trail-of-corpses-police-stood-by-as-spectators-2026-11-25)
-*Amar Ujala Breaking* - Nov 25, 09:21 IST (iso: 2026-11-25T03:51:23+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/kanpur_73d5f33305d85db69608a9b1827f29aa.jpeg?w=1200&dpr=1.0 -->
-
-कन्नौज के आगरा-लखनऊ एक्सप्रेसवे पर ट्रक ने स्कूल बस को पीछे से टक्कर मारी। ठठिया थानाक्षेत्र में हुए इस हादसे में चार बच्चों की मौत हो गई। बस गंभीर रूप से क्षतिग्रस्त हो गई। कन्नौज जिले में आगरा-लखनऊ एक्सप्रेसवे पर ठठिया थानाक्षेत्र में किलोमीटर संख्या 209 के पास खड़ी स्कूल बस को ट्रक ने पीछे से टक्कर मार दी, टक्कर से बस क्षतिग्रस्त हो गई, वहीं चार बच्चों की मौत हो गई।
-
-### [हरजोत कौर बम्हरा बनीं बीपीएससी की नई अध्यक्ष, 29 नवंबर से संभालेंगी जिम्मेदारी](https://www.amarujala.com/bihar/patna/harjot-kaur-bamhra-appointed-new-bpsc-chairperson-bihar-2026-11-25)
-*Amar Ujala Breaking* - Nov 25, 09:17 IST (iso: 2026-11-25T03:47:01+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/10/27/bhara-lka-sava-aayaga_0785dabbc14fe5893ced78616bde7c59.jpeg?w=1200&dpr=1.0 -->
-
-बिहार सरकार ने आईएएस अधिकारी हरजोत कौर बम्हरा को बीपीएससी की नई अध्यक्ष नियुक्त किया। वह 29 नवंबर 2026 से पदभार संभालेंगी। एक दिन पहले उन्हें स्वैच्छिक सेवानिवृत्ति दी जाएगी। बिहार सरकार ने 1992 बैच की आईएएस अधिकारी हरजोत कौर बम्हरा को BPSC का अध्यक्ष नियुक्त किया है। हरजोत कौर बम्हरा बनीं बीपीएससी की नई अध्यक्ष, 29 नवंबर से संभालेंगी जिम्मेदारी।
-
-### [अनंत सिंह की बेटी की शादी आज: बिहार का सबसे चर्चित इवेंट शुरू; शिवांगी की शादी में क्या-क्या अलग](https://www.amarujala.com/bihar/anant-singh-daughter-wedding-today-event-shivangi-singh-and-rishikesh-singh-nadwan-mokama-patna-2026-11-25)
-*Amar Ujala Breaking* - Nov 25, 09:11 IST (iso: 2026-11-25T03:41:33+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/bihar-news_7ec0d7e6531af7d259dcac74d5f25524.jpeg?w=1200&dpr=1.0 -->
-
-बाहुबली विधायक अनंत सिंह की बेटी शिवांगी की शादी आज हो रही है। बारात में 151 गाड़ियों का काफिला शामिल होगा। शादी से पहले उपहारों की बारिश भी देखने को मिलेगी। Anant Singh: बाहुबली विधायक आनंद सिंह की बेटी शिवांगी की शादी आज है। 151 गाड़ियों का काफिला बारात में होगा। शादी से पहले उपहारों की बारिश भी होगी। जानें, हर अपडेट।
+ऑक्सफोर्ड के पूर्व प्रोफेसर निक बोस्ट्रॉम ने गणितीय फॉर्मूला के जरिए 1,400 साल तक जीवित रहने की संभावना समझाई। उन्होंने यह दावा किया कि इससे बुढ़ापा और बीमारियां रोकी जा सकती हैं। क्या कोई इंसान 1400 साल तक जिंदा रह सकता है? कोई भी यह बात सुने तो यकीन नहीं करेगा, लेकिन ऑक्सफोर्ड के एक पूर्व प्रोफेसर निक बोस्ट्रॉम ने इसके पीछे एक गणितीय फॉर्मूला समझाया है.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
+
+### [पुतिन को अफ्रीका मिशन पड़ा भारी, माली में 349 रूसी लड़ाकों की मौत, पुतिन को सीधी चुनौती](https://hindi.news18.com/world/rest-of-world-russia-349-fighters-deaths-in-mali-ukraine-tuareg-rebels-africa-conflict-explained-11011602.html)
+*News18 Hindi (World)* - Nov 25, 13:52 IST (iso: 2026-11-25T08:22:43+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/putin-31-2026-11-79714c68ade10f61dac993152eb35c32-1200x800.jpg -->
+
+लीक हुए रिकॉर्ड के अनुसार सितंबर 2023 से 2026 के बीच माली में 349 रूसी लड़ाकों की मौत हुई। 25 अप्रैल 2026 के किदाल हमले में 43 रूसी मारे गए थे। JNIM और FLA संगठन इसमें शामिल थे। लीक हुए रूसी सरकारी रिकॉर्ड के मुताबिक, सितंबर 2023 से सितंबर 2026 के बीच माली में 349 रूसी लड़ाकों की मौत दर्ज की गई.
+
+### [रियाद टावर हमले में दो भारतीय घायल, विदेश मंत्रालय ने कहा- तुरंत बंद हों ऐसे हमले](https://www.patrika.com/world-news/india-condemns-riyadh-tower-attack-two-indians-injured-21084858)
+*Patrika (World)* - Nov 25, 10:57 IST (iso: 2026-11-25T05:27:33+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Riyadh-financial-district-a.webp -->
+
+रियाद के वित्तीय ज़ोन में एक टावर पर हुए हमले में दो भारतीय नागरिक घायल हुए। भारतीय विदेश मंत्रालय ने बुधवार को इस घटना की कड़ी निंदा की। मंत्रालय ने ऐसे हिंसक कार्रवाइयों को तुरंत रोकने की मांग भी उठाई। Riyadh Financial District Attack: सऊदी अरब की राजधानी रियाद के फाइनेंशियल डिस्ट्रिक्ट स्थित एक टावर पर हुए हमले में दो भारतीय घायल हुए हैं।
 
 ### [मिडिल ईस्ट में बढ़ा हमले का खतरा, अमेरिकी नागरिकों को सतर्क रहने की सलाह; रियाद में हमले से 11 लोग](https://www.patrika.com/world-news/us-middle-east-security-alert-iran-houthi-threat-riyadh-attack-21084382)
 *Patrika (World)* - Nov 25, 10:23 IST (iso: 2026-11-25T04:53:57+00:00)
@@ -94,79 +156,21 @@ JSW Motors unveiled a new brand identity and said its first SUV will launch on 3
 
 अमेरिका ने मध्य पूर्व में अपने नागरिकों को सतर्क रहने की सलाह दी। हूती विद्रोहियों और ईरान के हमले का खतरा बढ़ा है। रियाद में हुए हमले में 11 लोग प्रभावित हुए। US Middle East Security Alert: मिडिल ईस्ट में बढ़ते सुरक्षा खरते के बीच अमेरिका ने अपने नागरिकों को सतर्क रहने की सलाह दी है। इसको लेकर अमेरिकी विदेश विभाग ने एक एडवाइजरी जारी की है, जिसमें कहा गया कि ईरान समर्थित हूती विद्रोहियों के हमलों का खतरा बढ़ गया है।
 
-### [ईरान बना रहा रासायनिक हथियार; अमेरिका को तेहरान की चेतावनी, क्या बढ़ेगा तनाव?](https://www.amarujala.com/world/israel-defence-minister-claims-iran-developing-chemical-weapons-tehran-warns-us-bases-within-strike-range-2026-11-25)
-*Amar Ujala World* - Nov 25, 09:25 IST (iso: 2026-11-25T03:55:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/isarail-kataja-isarail-karayavahaka-rakashha-matara_b2905370e04b045de346c2108a1677f1.jpeg?w=1200&dpr=1.0 -->
-
-इजराइल का दावा है कि ईरान रासायनिक हथियारों का उत्पादन कर रहा है। तेहरान ने इस पर अमेरिका को चेतावनी जारी की है। क्षेत्रीय तनाव बढ़ने की संभावना जताई जा रही है। इस्राइल का दावा: ईरान बना रहा रासायनिक हथियार; अमेरिका को तेहरान की चेतावनी, क्या बढ़ेगा तनाव?
-
 ---
 
 ## अमेरिका
 
+### [दो की मौत, इस साल 5838 मामले आए सामने; क्या टीकाकरण ही बचाव?](https://www.amarujala.com/world/us-measles-outbreak-why-is-infection-spreading-rapidly-in-america-2026-11-25)
+*Amar Ujala World* - Nov 25, 10:44 IST (iso: 2026-11-25T05:14:45+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/sakataka-tasavara_739baa4aa67e4c531ac4702b49766914.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में इस साल अब तक 5838 खसरे के मामले दर्ज हुए हैं। इस महामारी में दो लोगों की मौत हो चुकी है। विशेषज्ञ टीकाकरण को ही इस बीमारी से बचाव का प्रभावी उपाय मान रहे हैं। अमेरिका में खसरे का कहर: दो की मौत, इस साल 5838 मामले आए सामने; क्या टीकाकरण ही बचाव?
+
 ### [ट्रंप के दबाव में हुई हुआंग की वापसी? अटॉर्नी जनरल ने जांच पर साधी चुप्पी; थेरेपी ले रहे जेनसन](https://www.amarujala.com/world/why-was-jensen-huang-reinstated-as-nvidia-ceo-trump-pressure-doj-investigation-and-china-links-2026-11-25)
 *Amar Ujala World* - Nov 25, 10:19 IST (iso: 2026-11-25T04:49:56+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/02/17/ashavana-vashhanaeva-na-enavadaya-saiio-janasana-haaaga-ka-idaya-eaaii-samata-ma-naha-pahaca-pana-ka-karanae-btaya_9f1726be6cc7d15571b2369ac2b425a4.jpeg?w=1200&dpr=1.0 -->
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/janasana-haaaga-saiio-enavadaya_365175e96c8206a1823eea07a589a483.jpeg?w=1200&dpr=1.0 -->
 
 एनवीडिया के सीईओ जेनसन हुआंग की वापसी पर अटॉर्नी जनरल ने चुप्पी साध ली। ट्रंप प्रशासन के दबाव के बीच जांच जारी है। हुआंग वर्तमान में थेरेपी ले रहे हैं। एनवीडिया: ट्रंप के दबाव में हुई हुआंग की वापसी? अटॉर्नी जनरल ने जांच पर साधी चुप्पी; थेरेपी ले रहे जेनसन।
-
-### [मिसिसिपी के हॉर्न आइलैंड के पास विमान समुद्र में क्रैश, दो बच्चों समेत 6 लोग लापता होने की आशंका](https://www.patrika.com/world-news/mississippi-horn-island-plane-crash-six-missing-coast-guard-search-21084651)
-*Patrika (World)* - Nov 25, 10:05 IST (iso: 2026-11-25T04:35:24+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Mississippi-plane-crash.webp -->
-
-अमेरिका के मिसिसिपी में हॉर्न आइलैंड के पास एक छोटा विमान समुद्र में गिर गया। विमान में सवार छह लोगों, जिनमें दो बच्चे शामिल हैं, के लापता होने की आशंका है। कोस्ट गार्ड ने बड़े पैमाने पर खोज अभियान शुरू कर दिया है। Mississippi Plane Crash: अमेरिका के मिसिसिपी में हॉर्न आइलैंड के पास एक छोटा विमान समुद्र में क्रैश हो गया।
-
-### [क्या बड़े कानूनी संकट में फंसने वाले हैं NVIDIA CEO जेन्सेन हुआंग? अमेरिकी संसद में पेशी से पहले](https://www.patrika.com/world-news/donald-trump-jensen-huang-pardon-nvidia-congress-testimony-21084671)
-*Patrika (World)* - Nov 25, 09:54 IST (iso: 2026-11-25T04:24:03+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Jensen-Huang-2.webp -->
-
-अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने संकेत दिया है कि यदि NVIDIA के सीईओ जेन्सेन हुआंग पर कोई आपराधिक आरोप लगते हैं, तो वे राष्ट्रपति की ओर से माफी देने पर विचार कर सकते हैं। ट्रंप ने यह बयान अमेरिकी संसद में हुई पेशी के संदर्भ में दिया। उन्होंने यह भी कहा कि शायद ऐसी नौबत ही न आए। Donald Trump on Jensen Huang: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने NVIDIA के CEO जेन्सेन हुआंग को लेकर बड़ा बयान दिया है।
-
-### [कार्टाजेना शहर के सुपरमार्केट में घुसे, 25 को बनाया बंधक; राष्ट्रपति क्या बोले?](https://www.amarujala.com/world/colombia-criminals-storm-a-supermarket-in-city-of-cartagena-taking-25-people-hostage-what-did-president-say-2026-11-25)
-*Amar Ujala World* - Nov 25, 09:18 IST (iso: 2026-11-25T03:48:49+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/hathayara-ka-thama-para-lga-ka-bnaya-bthhaka_6567e8a500e03f398f8f86ed27ea5db9.jpeg?w=1200&dpr=1.0 -->
-
-कोलंबिया के कार्टाजेना शहर में बदमाशों ने सुपरमार्केट में घुसकर 25 लोगों को बंधक बना लिया। राष्ट्रपति ने इस घटना पर प्रतिक्रिया दी। स्थानीय पुलिस ने सुरक्षा कड़ी कर दी। कोलंबिया में बदमाशों का आतंक: कार्टाजेना शहर के सुपरमार्केट में घुसे, 25 को बनाया बंधक; राष्ट्रपति क्या बोले?
-
----
-
-## एशिया-प्रशांत
-
-### [93% भारतीय कंपनियां एआई एजेंट्स अपनाने को तैयार, 2030 तक कर्मचारियों को सीखनी होंगी नई स्किल्स](https://www.amarujala.com/technology/tech-diary/ai-agents-reshape-indian-workplaces-93-percent-leaders-plan-adoption-kpmg-cii-report-skills-shift-2026-11-25)
-*Amar Ujala National* - Nov 25, 10:14 IST (iso: 2026-11-25T04:44:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/kpmg-ai-skills-report_9179cd4e57e336754f6d50fc02d6e884.jpeg -->
-
-केपीएमजी और सीआईआई की रिपोर्ट के अनुसार 93 प्रतिशत भारतीय कंपनियां एआई एजेंट्स अपनाने के लिए तैयार हैं। 59 प्रतिशत कंपनियों ने इस टेक्नोलॉजी का उपयोग शुरू कर दिया है और 2030 तक नई स्किल्स की मांग बढ़ेगी। भारतीय कंपनियों में एआई एजेंट्स का इस्तेमाल तेजी से बढ़ने वाला है। केपीएमजी और सीआईआई की रिपोर्ट के मुताबिक, 93% कारोबारी लीडर्स इस टेक्नोलॉजी को अपनाना चाहते हैं और 59% कंपनियां इसका इस्तेमाल शुरू कर चुकी हैं।
-
-### [बेटी मालती ने पकड़ा एनाकोंडा, बहादुरी देख हैरान हुईं ग्लोबल स्टार, फोटो शेयर कर लिखी ऐसी बात](https://www.amarujala.com/photo-gallery/entertainment/bollywood/priyanka-chopra-calls-daughter-malti-marie-the-bravest-girl-as-she-pets-anaconda-2026-11-25)
-*Amar Ujala National* - Nov 25, 10:05 IST (iso: 2026-11-25T04:35:03+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/bta-ka-satha-parayaka_64a11ec4cbfeef2de81e658e005d9440.gif?w=1200&dpr=1.0 -->
-
-प्रियंका चोपड़ा ने ऑस्ट्रेलिया के एक चिड़ियाघर में अपनी बेटी मालती की तस्वीरें साझा कीं। तस्वीरों में मालती एक एनाकोंडा को पकड़े दिखाई दे रही हैं। प्रियंका ने इस बहादुरी की तारीफ करते हुए फोटो पोस्ट की। प्रियंका चोपड़ा अपने परिवार के साथ अक्सर तस्वीरें शेयर करती रहती हैं। हाल ही में वह ऑस्ट्रेलिया के एक चिड़ियाघर में गईं और यहां की झलकियां दिखाईं।
-
-### [जैश कमांडर ने सरेआम कुबूला सच, आतंक की फैक्ट्री पाकिस्तान की खुल गई पोल](https://hindi.news18.com/world/pakistan-jaish-e-mohammad-commander-masood-ilyas-admits-his-organisation-has-armed-network-in-pakistan-occupied-kashmir-ws-l-11010984.html)
-*News18 Hindi (World)* - Nov 25, 09:48 IST (iso: 2026-11-25T04:18:06+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/06/Jaish-e-mohammad-2026-06-4e605fb9373cbfbaba8c41ac1d7369d9-1200x800.jpg -->
-
-पाकिस्तान के रावलकोट में जैश-ए-मोहम्मद के कमांडर मसूद इलियास कश्मीरी ने सार्वजनिक रूप से स्वीकार किया कि उनके संगठन का सशस्त्र नेटवर्क वहां सक्रिय है। इस खुलासे से पाकिस्तान की आतंकी संगठनों से सांठगांठ का सच एक बार फिर सामने आ गया है। यह कबूलनामा क्षेत्र में सुरक्षा स्थिति को और जटिल बनाता है। पीओके के रावलकोट में जैश कमांडर मसूद इलियास कश्मीरी ने सार्वजनिक रूप से स्वीकार किया है कि वहां उसके संगठन का सशस्त्र नेटवर्क मौजूद है.
-
-### [उम्र कम हो या ज्यादा, दिल की सेहत को ठीक रखने के लिए जरूर खाएं ये चीजें](https://www.amarujala.com/photo-gallery/lifestyle/fitness/kitchen-ingredients-that-may-help-keep-your-heart-healthy-ginger-garlic-and-turmeric-benefits-2026-11-24)
-*Amar Ujala National* - Nov 25, 09:40 IST (iso: 2026-11-25T04:10:02+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/09/27/heart-heart-attack_906595a69f77e1d1e731aec05ce948d9.jpeg?w=1200&dpr=1.0 -->
-
-हृदय रोगों के बढ़ते मामलों के बीच अदरक, लहसुन और हल्दी जैसे मसाले बीपी व कोलेस्ट्रॉल नियंत्रित करने में सहायक माने जाते हैं। ये प्राकृतिक विकल्प सूजन कम करने में भी मददगार हैं। कम उम्र में भी हार्ट अटैक और हृदय रोगों के मामले बढ़ रहे हैं। ऐसे में दिल की सेहत का ख्याल रखना जरूरी है। अदरक, दालचीनी, लहसुन और हल्दी जैसे मसाले बीपी, कोलेस्ट्रॉल और सूजन को नियंत्रित करने में मदद कर सकते हैं।
-
-### [पाकिस्तान के पहले अंतरिक्ष यात्री जीशान अली स्पेस में पहुंचे, भारत की बराबरी करने में लग गए 42 साल](https://hindi.news18.com/world/china-pakistan-first-astronaut-zeeshan-ali-in-space-china-shenzhou-24-india-rakesh-sharma-1984-11010802.html)
-*News18 Hindi (World)* - Nov 25, 09:25 IST (iso: 2026-11-25T03:55:19+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/space-2-2026-11-5c0011191ccb5883134844c4dafa169e-1200x800.jpg -->
-
-पाकिस्तान के मोहम्मद जीशान अली चीन के शेनझोउ-24 मिशन के साथ अंतरिक्ष में पहुंचे। वे तियांगोंग स्टेशन जाने वाले पहले विदेशी यात्री बने। भारत ने 1984 में राकेश शर्मा को अंतरिक्ष भेजा था। पाकिस्तान के मोहम्मद जीशान अली चीन के शेनझोउ-24 मिशन के साथ अंतरिक्ष में पहुंच गए हैं. वह चीन के तियांगोंग स्पेस स्टेशन जाने वाले पहले विदेशी अंतरिक्ष यात्री हैं.
-
-### [जो बचे हैं संग समेट लो: भारत में बैन की मांग के बीच पाकिस्तानी शो का ट्रेलर जारी, क्या है](https://www.amarujala.com/entertainment/web-series/pakistani-show-jo-bachay-hain-sang-samait-lo-trailer-lands-amid-india-ban-calls-2026-11-25)
-*Amar Ujala Breaking* - Nov 25, 09:17 IST (iso: 2026-11-25T03:47:58+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/25/ja-bca-ha-saga-samata-l_ad1d4e17fd8a001cb8b3755d2c576dfe.jpeg?w=1200&dpr=1.0 -->
-
-पाकिस्तानी सीरीज 'जो बचे हैं संग समेट लो' का ट्रेलर मंगलवार को जारी हुआ। भारत में इस ड्रामा पर बैन लगाने की मांग उठी है। ट्रेलर ने सोशल मीडिया पर चर्चा को बढ़ावा दिया। पाकिस्तानी सीरीज 'जो बचे हैं संग समेट लो' का ट्रेलर मंगलवार को रिलीज हो गया है। भारत में इस ड्रामा सीरीज पर बैन लगाने की मांग की गई है।
 
 ---
 
