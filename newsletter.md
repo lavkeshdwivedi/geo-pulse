@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 25, 2026 21:47 IST
+**Updated:** November 26, 2026 06:16 IST
 
 ---
 
@@ -14,7 +14,7 @@ Al-Qaeda in the Sahel has intensified attacks on urban centers. Military respons
 
 ### [Can conflict resolution keep pace as AI and drones reshape war?](https://news.un.org/feed/view/en/story/2026/11/1168866)
 *UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026_UNISFA_Abyei_Pakistan_peacekeepers.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026_UNISFA_Abyei_Pakistan_peacekeepers.jpg/image560x340cropped.jpg -->
 
 The Security Council is weighing how AI and drones reshape warfare. Guterres noted these technologies are fuelling record conflict levels. Disinformation spreads rapidly, complicating peace efforts. The UN is assessing how to keep pace with these changes. When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict.
 
@@ -34,11 +34,29 @@ UN Secretary-General António Guterres called for talks on a multilateral AI saf
 
 Crisis Group analysts discussed the deployment of Algerian troops in Niger. They examined how this military presence affects regional security balances. The conversation highlighted shifting dynamics in the Sahel. Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Ibrahim Yahaya Ibrahim, Directeur Adjoint du Projet Sahel, Ibrahim Maïga, Conseiller Spécial pour le Sahel et Michaël Ayari, Analyste Senior pour la Tunisie et l’Algérie à Crisis Group, pour parler du déploiement de troupes algériennes au Niger et des répercussions de cette présence militaire sur les équilibres sécuritaires.
 
-### [Israeli strike kills Hamas official, his wife and children](https://www.channelnewsasia.com/world/israeli-strike-kills-hamas-official-his-wife-and-children-6581221)
-*Channel News Asia* - Nov 25, 18:57 IST (iso: 2026-11-25T13:27:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--Yjiz6mw5--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/25/2026-11-25t090901z_1_lynxnpemao0nw_rtroptp_4_israel-palestinians-gaza.jpg?itok=Bl0jj2nK -->
+### [Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 30 people](https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece)
+*The Hindu (International)* - Nov 26, 03:34 IST (iso: 2026-11-25T22:04:14+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/9rbidm/article71744263.ece/alternates/LANDSCAPE_1200/2026-11-25T214116Z_1731871822_RC29VOAKM2R4_RTRMADP_3_EGYPT-ACCIDENT-UGC.JPG -->
 
-An Israeli airstrike killed Hamas colonel Mohammad Abuelouf, his wife, and their children. Abuelouf headed the militants' interior security service. This was the second strike to kill a senior Hamas security official in the past 24 hours. The airstrike that killed Mohammad Abuelouf, a Hamas colonel who heads the militants' interior security service, and his family was the second Israeli attack to kill a senior Hamas security official in the past 24 hours.
+A fuel tanker crash ignited a massive fire on Cairo’s Ring Road. At least 30 people died and 25 were injured. More than two dozen vehicles were destroyed. The blaze occurred on a key artery encircling the Egyptian capital. The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor’s office said in a statement.
+
+### [Israeli strike kills Hamas official, his wife and children](https://www.thehindu.com/news/international/israeli-strike-kills-hamas-official-his-wife-and-children/article71743893.ece)
+*The Hindu (International)* - Nov 25, 23:29 IST (iso: 2026-11-25T17:59:46+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/dnf7io/article71743913.ece/alternates/LANDSCAPE_1200/2026-11-25T092859Z_896265168_RC2WUOAXO1UO_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG -->
+
+An Israeli strike killed Hamas official Abuelouf, his wife, and their children. The military confirmed the hit. They described Abuelouf as a key source of expertise. He helped restrict IDF counterterrorism operations in the Gaza Strip. The Israeli military confirmed it had killed Abuelouf, whom it described as a significant figure who "served as ‌a key source of expertise in efforts to restrict the IDF’s counterterrorism operations in the ‌Gaza ⁠Strip".
+
+### [Girl's Death Reignites Scrutiny Of Femicide In Iran](https://www.rferl.org/a/my-father-will-kill-me-girl-s-death-reignites-scrutiny-of-femicide-in-iran/33905774.html)
+*Radio Free Europe / Liberty* - Nov 25, 21:16 IST (iso: 2026-11-25T15:46:18+00:00)
+<!-- image: https://gdb.rferl.org/7ad0bc6f-a83b-460d-187b-08df407f9918_w1200_h630.jpg -->
+
+Sogand Sayadi, a sixteen-year-old Iranian girl, died on November 14 after allegedly fearing her father would kill her over a romantic relationship. Her father has been arrested for the murder. The case has renewed criticism of Iran's lenient legal framework regarding femicide and the protection of women from domestic violence. Sogand Sayadi, a 16-year-old girl from Iran, allegedly told friends that she feared father would kill her after learned of her romantic relationship.
+
+### [Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’](https://news.un.org/feed/view/en/story/2026/11/1168875)
+*UN News* - Nov 25, 17:30 IST (iso: 2026-11-25T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/25-11-2026_Ziad_Gaza_Widows_2.jpg/image770x420cropped.jpg -->
+
+Widows in Gaza now manage household duties, shelter, and education from temporary tents after losing their husbands in the war. These women describe carrying double the burden while lacking legal protections. Their testimony highlights the severe economic and social challenges facing displaced families in the conflict zone. For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table.
 
 ### [Emergency aid chief calls for access to war-hit communities](https://news.un.org/feed/view/en/story/2026/11/1168872)
 *UN News* - Nov 25, 17:30 IST (iso: 2026-11-25T12:00:00+00:00)
@@ -58,79 +76,45 @@ Leaked records show 349 Russian military personnel died in Mali over three years
 
 Trump ignored intelligence warnings about Chinese penetration of Nvidia. This mirrors his dismissal of data contradicting his worldview on Iran. The pattern shows a consistent refusal to heed sensitive information that challenges his existing beliefs. Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with IranDonald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ignoring sensitive intelligence that contradicts his world view. Trump disregarded repeated information that the company’s co-founder, Jensen Hua.
 
-### [Concern for trapped Ebola workers as violence against women and girls deepens](https://news.un.org/feed/view/en/story/2026/11/1168865)
-*UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/21-09-2026-WHO-DR-Congo-ebola-02.jpg/image770x420cropped.jpg -->
-
-WHO staff and Ebola responders remain trapped in a DRC hospital. Heavy fighting continues in Ituri province. The UN agency confirmed the situation on Tuesday. Personnel are stranded as violence prevents their safe evacuation from the facility. Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.
-
 ### [UN deputy chief’s final call to end violence against women](https://news.un.org/feed/view/en/story/2026/11/1168868)
 *UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-Women-GBV-03.jpg/image770x420cropped.jpg -->
 
 Amina Mohammed warned another woman would be killed before she finished speaking. She called for justice for survivors and consequences for perpetrators. The UN deputy chief made this final plea to end violence against women and girls. UN deputy chief’s final call to end violence against women.
 
-### [Asia rescues markets, Trump rescues Jensen Huang](https://asiatimes.com/2026/11/asia-rescues-markets-trump-rescues-jensen-huang/)
-*Asia Times* - Nov 24, 14:40 IST (iso: 2026-11-24T09:10:37+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jensen-Huang-Markets-AI.jpg -->
+### [Concern for trapped Ebola workers as violence against women and girls deepens](https://news.un.org/feed/view/en/story/2026/11/1168865)
+*UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/21-09-2026-WHO-DR-Congo-ebola-02.jpg/image560x340cropped.jpg -->
 
-Asian governments banned short sales and deployed state funds to stabilize markets after a global selloff hit the artificial intelligence sector. Seoul, Taipei, and Beijing acted to prevent a tech rout from spreading. Trump also intervened to support Jensen Huang during the downturn. NEW YORK – When a brutal global selloff wiped trillions of dollars off the artificial intelligence trade, Asia’s policymakers did what they always do: they reached deep into their crisis playbooks.
+WHO staff and Ebola responders remain trapped in a DRC hospital. Heavy fighting continues in Ituri province. The UN agency confirmed the situation on Tuesday. Personnel are stranded as violence prevents their safe evacuation from the facility. Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.
 
 ### [Gaza war has undone 77 years of human development, UN warns](https://news.un.org/feed/view/en/story/2026/11/1168862)
 *UN News* - Nov 23, 17:30 IST (iso: 2026-11-23T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/30-10-2026-UNICEF-Gaza-05.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/30-10-2026-UNICEF-Gaza-05.jpg/image560x340cropped.jpg -->
 
 The UN deputy chief warned that the Gaza war has undone seventy-seven years of human development. Palestinians face violence and displacement despite the October 2025 ceasefire. He urged renewed international support for a two-state solution to the conflict. The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.
-
-### [Ukraine Strikes Russian Warship, Cargo Vessel Off Libya's Coast](https://www.rferl.org/a/ukraine-strikes-russian-warship-off-libya-s-coast/33904036.html)
-*Radio Free Europe / Liberty* - Nov 23, 16:46 IST (iso: 2026-11-23T11:16:45+00:00)
-<!-- image: https://gdb.rferl.org/78f9edfe-f11a-43df-2a43-08df3ee80755_w1200_h630.jpg -->
-
-Ukraine struck a Russian corvette and a cargo ship near Benghazi, Libya. Seven Ukrainian-made sea drones executed the operation. The corvette carried a Ka-27 helicopter. The cargo vessel allegedly transported weapons across the Mediterranean Sea. Kyiv confirmed the details of the attack. Ukraine says that it struck a Russian corvette carrying a Ka-27 helicopter near the port of Benghazi, Libya, as well as a cargo ship allegedly used to transport weapons across the Mediterranean Sea.
-
----
-
-## Americas
-
-### [All hostages rescued after Colombian security forces storm supermarket, says president](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
-*The Guardian* - Nov 25, 19:26 IST (iso: 2026-11-25T13:56:55+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
-
-Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
-
-### [Nvidia's Jensen Huang says he is in therapy as comeback rally fades](https://www.thehindu.com/news/international/nvidias-jensen-huang-says-he-is-in-therapy-as-comeback-rally-fades/article71740890.ece)
-*The Hindu (International)* - Nov 25, 13:08 IST (iso: 2026-11-25T07:38:43+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/5byumo/article71740904.ece/alternates/LANDSCAPE_1200/2026-11-24T221933Z_687132274_RC279IA88NC8_RTRMADP_3_NVIDIA-CEO-CONGRESS.JPG -->
-
-Jensen Huang admitted to staff he is in therapy after breaking a code of conduct he helped write. He called his behavior unacceptable. Huang dismissed claims that President Trump pressured the board to reinstate him. Jensen Huang told staff it was "not acceptable" that he had broken a code of conduct he had helped write, and dismissed suggestions that he was back because U. S.
-
-### [Guterres urges renewed commitment to landmark peace deal](https://news.un.org/feed/view/en/story/2026/11/1168864)
-*UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image770x420cropped.jpg -->
-
-Guterres praised Colombia for progress since the Final Peace Agreement. The accord ended over fifty years of insurgency. He stressed the need for full implementation of its provisions. The UN chief urged renewed commitment to the landmark deal. UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.
-
-### [Huang’s comeback won’t ease Southeast Asia’s data center crunch](https://asiatimes.com/2026/11/huangs-comeback-wont-ease-southeast-asias-data-center-crunch/)
-*Asia Times* - Nov 24, 17:28 IST (iso: 2026-11-24T11:58:25+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Data-Centers-Thailand.jpg -->
-
-Jensen Huang returned as Nvidia chief executive after a board vote. Nvidia shares rose over 31 percent in New York. Southeast Asia still faces a severe data center shortage despite the stock rally. Monday’s unanimous board vote reinstating Jensen Huang as Nvidia chief executive, backed publicly by US President Donald Trump, triggered a sharp relief rally across global artificial intelligence stocks, with Nvidia shares surging more than 31% in New York trading.
 
 ---
 
 ## Asia-Pacific
+
+### [Kim’s advanced missiles could cripple South’s economy](https://asiatimes.com/2026/11/kims-advanced-missiles-could-cripple-souths-economy/)
+*Asia Times* - Nov 26, 05:39 IST (iso: 2026-11-26T00:09:24+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/20260820.134506794.2_1787192776_6a8665c888caf.jpg -->
+
+South Korea exports over 300 billion dollars from just four sectors. Semiconductors, autos, shipbuilding, and steel dominate the 700 billion dollar total. This concentration creates a structural imbalance. It also exposes the economy to significant national security vulnerabilities. South Korea’s economy is heavily concentrated in a handful of strategic industries. Of approximately US$700 billion in total exports in 2025, more than US$300 billion originated from just four sectors: semiconductors, automobiles, shipbuilding and steel.
+
+### [Lululemon founder stuns Canadian women’s leadership conference with sexist comments](https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference)
+*The Guardian* - Nov 26, 01:27 IST (iso: 2026-11-25T19:57:49+00:00)
+<!-- image: https://i.guim.co.uk/img/media/791b8933a92292555c629c4bcc1e8056243c898c/0_94_3742_2993/master/3742.jpg?width=140&quality=85&auto=format&fit=max&s=8fd2114a9006f05a834aace6fb28f4ce -->
+
+Lululemon founder Chip Wilson made sexist remarks at a Canadian women’s leadership conference. He suggested men might import brides from Thailand because women wait too long to have children. The comments stunned audience members at the event. Chip Wilson said men importing brides from Thailand was due to women waiting too long to have childrenThe controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from Thailand, in remarks that stunned audience members at a women’s leadership conference. Chip Wilson, who built the Vancouver yoga-wear startup into a glob.
 
 ### [Bangladesh tightens border security ahead of Hasina's planned return; deploys 108 BGB platoons](https://www.thehindu.com/news/international/bangladesh-tightens-border-security-ahead-of-hasinas-planned-return-deploys-108-bgb-platoons/article71742554.ece)
 *The Hindu (International)* - Nov 25, 18:53 IST (iso: 2026-11-25T13:23:52+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/l79h31/article71742699.ece/alternates/LANDSCAPE_1200/Nearby_Shape-wiGH7GPI81G.3.jpg.jpg -->
 
 Bangladesh deployed 108 Border Guard Bangladesh platoons to tighten border security ahead of Sheikh Hasina's planned return. Authorities fear her supporters may intensify violence. The banned Awami League is promoting a lockdown for November 29 and 30 online. The heightened security comes amid fears that Ms. Hasina's supporters could intensify violence and sabotage in the coming days. Awami League, whose activities have been banned, is promoting a lockdown programme for November 29 and 30 through online platforms, adding to concerns over a possible escalation of tensions.
-
-### [Opinion | Indian Firms Are Making Record Profits. Why Are Foreign Investors Still Leaving?](https://www.ndtv.com/opinion/indian-firms-are-making-record-profits-why-are-foreign-investors-still-leaving-12374323#publisher=newsstand)
-*NDTV World* - Nov 25, 13:16 IST (iso: 2026-11-25T07:46:39+00:00)
-<!-- image: https://c.ndtvimg.com/2026-10/vqfb1cq4_share-market-today_625x300_05_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720 -->
-
-Nifty 50 companies posted a 27 percent rise in profit after tax for the July to September quarter. This marks the highest growth in 17 quarters. Foreign investors continue to exit despite these record earnings. In the July to September quarter of 2026-27, the 50 companies in the Nifty 50 increased profit after tax by 27% over the same quarter of the previous year - the highest growth in 17 quarters.
 
 ### [China investigates politburo star in Xi Jinping’s latest purge](https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge)
 *The Guardian* - Nov 25, 07:01 IST (iso: 2026-11-25T01:31:46+00:00)
@@ -144,33 +128,53 @@ China launched an investigation into Shanghai party chief Chen Jining. He is a m
 
 Taliban authorities pressure Afghan men to restrict their female family members. Men are told to forbid women from leaving home or withhold cell phones. These measures enforce strict gender segregation. The regime uses male relatives as enforcers. Afghan men and women have told RFE/RL's Radio Azadi that Afghanistan's Taliban authorities are making men impose strict restrictions on female family members, such as forbidding them to leave the home or withholding cell phones.
 
-### [Coating wear makes China’s stealth fighters easier to target](https://asiatimes.com/2026/11/coating-wear-makes-chinas-stealth-fighters-easier-to-target/)
-*Asia Times* - Nov 24, 15:22 IST (iso: 2026-11-24T09:52:40+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/China-Stealth-Fighter.jpeg -->
+---
 
-New data shows stealth coating wear increases radar reflection. Losing ten percent of the coating nearly doubles microwave power. This challenges the effectiveness of low-observable aircraft in harsh conditions. New laboratory data on stealth coating degradation, rapidly expanding fighter fleets, harsh maritime sustainment, and evolving counter-stealth sensors test whether low-observable aircraft can stay decisive without broader operational adaptation. This month, the South China Morning Post (SCMP) reported that losing just 10% of a radar-absorbing coating can nearly double reflected microwave power in.
+## World
+
+### [Andy Taylor, guitarist of new wave icons Duran Duran, dies at 65](https://www.thehindu.com/entertainment/music/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65/article71744266.ece)
+*The Hindu (International)* - Nov 26, 04:16 IST (iso: 2026-11-25T22:46:30+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/x9epz0/article71744268.ece/alternates/LANDSCAPE_1200/Andy_Taylor_449_7.jpg -->
+
+Andy Taylor, guitarist for Duran Duran, died at 65. The band peaked between 1981 and 1983 with three hit albums. Tracks like Girls on Film and Save a Prayer defined their sound. Taylor was a core member of the new wave group. The band’s imperial stage occurred with a trio of hit albums between 1981 and 1983, with such dance-floor barnburners as ‘Girls on Film’ and ‘Union of the Snake’ and the moody ballads ‘The Chauffeur’ and ‘Save a Prayer’.
+
+---
+
+## Americas
+
+### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
+*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
+
+Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
+
+### [Nvidia's Jensen Huang says he is in therapy as comeback rally fades](https://www.thehindu.com/news/international/nvidias-jensen-huang-says-he-is-in-therapy-as-comeback-rally-fades/article71740890.ece)
+*The Hindu (International)* - Nov 25, 13:08 IST (iso: 2026-11-25T07:38:43+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/5byumo/article71740904.ece/alternates/LANDSCAPE_1200/2026-11-24T221933Z_687132274_RC279IA88NC8_RTRMADP_3_NVIDIA-CEO-CONGRESS.JPG -->
+
+Jensen Huang admitted to staff he is in therapy after breaking a code of conduct he helped write. He called his behavior unacceptable. Huang dismissed claims that President Trump pressured the board to reinstate him. Jensen Huang told staff it was "not acceptable" that he had broken a code of conduct he had helped write, and dismissed suggestions that he was back because U. S.
+
+### [Guterres urges renewed commitment to landmark peace deal](https://news.un.org/feed/view/en/story/2026/11/1168864)
+*UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image560x340cropped.jpg -->
+
+Guterres praised Colombia for progress since the Final Peace Agreement. The accord ended over fifty years of insurgency. He stressed the need for full implementation of its provisions. The UN chief urged renewed commitment to the landmark deal. UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.
 
 ---
 
 ## Europe & Russia
 
-### [North Korea declares a Swiss diplomat persona non grata and orders him to leave](https://www.thehindu.com/news/international/north-korea-declares-a-swiss-diplomat-persona-non-grata-and-orders-him-to-leave/article71741084.ece)
-*The Hindu (International)* - Nov 25, 11:13 IST (iso: 2026-11-25T05:43:02+00:00)
-<!-- image: https://th-i.thgim.com/public/incoming/ki1oo8/article71741116.ece/alternates/LANDSCAPE_1200/2026-11-17T181808Z_1563524779_RC2LPOAHLKST_RTRMADP_3_SWISS-BUSINESS.JPG -->
+### [Ukrainian Reporter On Being Hunted By Russian Drones](https://www.rferl.org/a/ukrainian-reporter-on-being-hunted-by-russian-drones/33905817.html)
+*Radio Free Europe / Liberty* - Nov 25, 22:24 IST (iso: 2026-11-25T16:54:27+00:00)
+<!-- image: https://gdb.rferl.org/1912b6cb-8b80-4549-2b11-08df3ee80755_w1200_h630.jpg -->
 
-North Korea declared a Swiss diplomat persona non grata and ordered him to leave the country. Kim Yo Jong condemned Switzerland for sanctioning a youth camp in the east. She linked the camp to transferring children from Russian-occupied Ukraine. Kim Yo Jong, the powerful sister of North Korean leader Kim Jong Un, c ondemned Switzerland for imposing sanctions on a youth camp in eastern North Korea over its alleged role in the transfer of children from Russia-occupied areas of Ukraine.
+RFE/RL correspondent Maryan Kushnir detailed how Russian drone strikes have reshaped Ukraine's front line and increased threats to Kyiv. He described surviving a direct attack and the ongoing struggle of families searching for missing relatives. The reporting highlights the persistent danger facing civilians and journalists in the conflict zone. RFE/RL war correspondent Maryan Kushnir describes how drone warfare has transformed Ukraine’s front line, the growing danger of Russian attacks on Kyiv, his own experience of surviving an attack, and the families searching for missing loved ones.
 
 ### [Kilmar Ábrego García, man at center of Trump deportation battle, leaves US](https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us)
 *The Guardian* - Nov 25, 05:20 IST (iso: 2026-11-24T23:50:31+00:00)
 <!-- image: https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=cc50a0643f2aa3990ed51abd6f550f8d -->
 
 Kilmar Ábrego García left the United States voluntarily for Spain. His lawyers confirmed the departure on Tuesday. Homeland Security verified the travel. A source said Madrid was his first stop, not his final destination. Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for SpainKilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security confirming that he was travelling to Spain. A source close to Ábrego said Madrid was his first stop but that it would not be his.
-
-### [NATO-Like Guarantees For Ukraine? US Envoy Signals Possibility, But Questions Remain](https://www.rferl.org/a/kushner-trump-nato-ukraine-russia-security/33903834.html)
-*Radio Free Europe / Liberty* - Nov 23, 08:35 IST (iso: 2026-11-23T03:05:13+00:00)
-<!-- image: https://gdb.rferl.org/808D2EA0-D1C7-4C25-870B-2C62D206A023_cx0_cy3_cw0_w1200_h630.jpg -->
-
-Jared Kushner said Donald Trump might offer Ukraine security guarantees modeled on NATO commitments. This possibility hinges on reducing the risk of another Russian invasion. The envoy signaled this potential shift on November 22. Questions remain regarding the specific terms and conditions of such an arrangement. US President Donald Trump may consider offering Ukraine security guarantees modeled on NATO's collective-defense commitments if he is convinced that the risk of another Russian invasion has been sufficiently reduced, special envoy Jared Kushner said on November 22.
 
 ---
 
