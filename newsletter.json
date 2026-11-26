@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T08:59:37.105475+00:00",
+  "generated_at": "2026-11-26T18:48:19.072302+00:00",
   "article_count": 50,
   "total_unique_count": 263,
   "digest": {
-    "en": "Cyril Ramaphosa wins a court bid to overturn South Africa’s impeachment report, restoring his political standing. Meanwhile, a fuel tanker explosion on the Cairo‑Alexandria highway killed at least 31 people and blocked a key transport corridor.",
-    "hi": "यूरोप में 8 करोड़ लोगों को प्रभावित करने वाली मौसमी आपदा ने 6000 उड़ानों को देरी से उड़ान भरने पर मजबूर किया है। इसी दौरान दक्षिण कोरिया ने CSAT पर स्मार्ट चीटिंग के खुलासे के बाद परीक्षा नियमों को कड़ा कर दिया है।"
+    "en": "The Kremlin is pushing a narrative that Ukraine aims to widen the conflict into the Mediterranean and Baltic seas. Meanwhile, Colombia’s security forces rescued all hostages after storming a supermarket in a coordinated operation.",
+    "hi": "ट्रंप और नाटो महासचिव की यूक्रेन युद्ध पर बैठक ने रूस से सैन्य कार्रवाई रोकने की अपील की है। वहीं, मक्का पैक्ट के शोर के बीच भारत और यूएई ने नेक्स्ट जेन हथियार समेत तीन बड़े डिफेंस ऐलान किए हैं।"
   },
   "articles": [
     {
@@ -32,38 +32,62 @@
       "translations": {}
     },
     {
-      "title": "Cyril Ramaphosa wins court bid to overturn impeachment report",
-      "url": "https://www.thehindu.com/news/international/cyril-ramaphosa-wins-court-bid-to-overturn-impeachment-report/article71745568.ece",
+      "title": "Kremlin accuses Ukraine of trying to widen conflict zone to Mediterranean and Baltic seas",
+      "url": "https://www.thehindu.com/news/international/kremlin-accuses-ukraine-of-trying-to-widen-conflict-zone-to-mediterranean-and-baltic-seas/article71747857.ece",
       "source": "The Hindu (International)",
       "sources": [],
-      "published_at": "2026-11-26T07:44:55+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/e5uc1s/article71745571.ece/alternates/LANDSCAPE_1200/2026-11-24T135931Z_1460946822_RC2DUOA8VHMJ_RTRMADP_3_USA-SAFRICA-TRADE.JPG",
-      "summary": "South African President Cyril Ramaphosa won a court order to overturn an impeachment report. The 74-year-old leader was accused of concealing a 2020 burglary from police and tax authorities. Stolen cash worth $580,000 was found hidden in furniture at his Phala Phala farmhouse in Limpopo province. The 74-year-old leader was accused of hiding from police and tax authorities a 2020 break-in and theft of $580,000, which was stashed in furniture at his luxury Phala Phala farmhouse in the northern Limpopo province.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Fuel tanker crash ignites massive fire on highway surrounding Cairo, killing at least 31 people",
-      "url": "https://www.thehindu.com/news/international/fuel-tanker-crash-ignites-massive-fire-on-highway-surrounding-cairo/article71744262.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-26T06:26:42+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/9rbidm/article71744263.ece/alternates/LANDSCAPE_1200/2026-11-25T214116Z_1731871822_RC29VOAKM2R4_RTRMADP_3_EGYPT-ACCIDENT-UGC.JPG",
-      "summary": "A fuel tanker crash ignited a massive fire on Cairo’s Ring Road. At least 30 people died and 25 were injured. More than two dozen vehicles were destroyed. The blaze occurred on a key artery encircling the Egyptian capital. The blaze on Ring Road, a key artery that encircles the Egyptian capital, also injured at least 25 people and left more than two dozen cars and motorcycles charred, the Public Prosecutor’s office said in a statement.",
+      "published_at": "2026-11-26T17:24:45+00:00",
+      "image_url": "https://th-i.thgim.com/public/incoming/far9z7/article71747870.ece/alternates/LANDSCAPE_1200/2026-07-08T081749Z_600680679_RC2K9MAIHOKD_RTRMADP_3_NATO-SUMMIT-TRUMP.JPG",
+      "summary": "Ukraine sank a Russian corvette in a Libyan port using maritime drones on Sunday. This followed a drone strike on a Russian cargo ship in the Gulf of Finland. The Kremlin accused Kyiv of widening the conflict zone to the Mediterranean and Baltic seas. Ukraine sank a Russian naval corvette in a Libyan port using maritime drones on Sunday, a day after ​it carried out a ‌drone strike on a Russian military-linked cargo ship in the Gulf of Finland.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "title": "Once Notorious Prisons, Now Luxury Hotels, Russia Redevelops Real Estate -- And Its History",
+      "url": "https://www.rferl.org/a/russia-prison-development-history-politics/33905735.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-26T15:31:34+00:00",
+      "image_url": "https://gdb.rferl.org/39741e13-1ddc-42b6-2fbf-08df407f9921_w1200_h630.jpg",
+      "summary": "A notorious prison in central St. Petersburg is being converted into a five-star hotel complex. This project marks the latest example of Russia repurposing historic detention sites. The development erases a significant piece of the country's institutional history. A notorious prison in the heart of St. Petersburg is being developed into five-star hotel complex. It’s the latest example of Russia’s prisons being repurposed, and with it, the loss of a key piece of Russian history.",
+      "region": "Europe & Russia",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
+      "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
       "source": "The Guardian",
       "sources": [],
-      "published_at": "2026-11-26T06:10:56+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=c5009ff0d9a4d9543a2d563cd741a6ad",
-      "summary": "Brazil called Trump's proposed tariffs on sugar and aircraft unacceptable. China denounced the new levies as baseless political manipulation. The US president threatened 14 major trading partners with new duties. Brazil stated it will not bend to the economic pressure. Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’Trump proposing new tariffs on 14 partners including China and EUBrazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners. Br.",
+      "published_at": "2026-11-26T12:37:42+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/5dab08ae82f0cdc38be48420021d99592e503797/0_0_3822_3059/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=a19115f842ffc6bbcb990cff25c5d26d",
+      "summary": "Lana Nusseibeh, the US and Russia-backed UN secretary general candidate, is touring Britain to build support. She aims to distance herself from her past as a UAE diplomat. Her record includes denying Abu Dhabi's role in arming a militia accused of war crimes in Sudan. The US and Russia’s candidate for secretary general is on a charm offensive. Can she overcome London’s resistance to her bid? Lana Nusseibeh is in Britain this week, attempting to present herself as a potential future UN secretary general, and shift the focus from her past as a United Arab Emirates diplomat who denied the country’s role in arming a militia accused of war crimes and genocide in Suda.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Why is India so afraid of Pakistan’s Netflix love story?",
+      "url": "https://asiatimes.com/2026/11/why-is-india-so-afraid-of-pakistans-netflix-love-story/",
+      "source": "Asia Times",
+      "sources": [],
+      "published_at": "2026-11-26T12:04:18+00:00",
+      "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Jo-Bachay-Hain-Sang-Samait-Lo-Pakistan-Netflix.png",
+      "summary": "India is restricting access to a popular Pakistani romantic drama on streaming platforms. The government views the show as a cultural threat that could shift public sentiment. This move reflects a broader strategy to control information and limit cross-border media influence. In George Orwell’s “1984”, the greatest threat to an authoritarian system is not an army approaching its borders or an enemy preparing an attack.",
       "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Former US Admiral Sees Washington's 'Adversaries Working Together'",
+      "url": "https://www.rferl.org/a/united-states-military-iran-russia-china/33906062.html",
+      "source": "Radio Free Europe / Liberty",
+      "sources": [],
+      "published_at": "2026-11-26T09:44:57+00:00",
+      "image_url": "https://gdb.rferl.org/dd7d0afd-c1c0-4459-99c5-08df3eea91fd_tv_w1200_h630.jpg",
+      "summary": "Retired US Navy rear admiral Mark Montgomery described an axis of adversaries linking China, Russia, Iran, and North Korea. He argued these nations are coordinating their actions in the Ukraine and Iran conflicts. Montgomery sees their cooperation as a growing strategic challenge for Washington. Mark Montgomery, a retired US Navy rear admiral and a senior fellow at the Foundation for Defense of Democracies (FDD), spoke to RFE/RL about the conflicts in Ukraine and Iran, which he described as connected by an \"axis of adversaries\" comprising China, Russia, Iran, and North Korea.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
@@ -75,42 +99,6 @@
       "published_at": "2026-11-26T06:04:01+00:00",
       "image_url": "https://asiatimes.com/wp-content/uploads/2026/11/Indonesia-Energy-Minister-Bahlil-Lahadalia.jpg",
       "summary": "Indonesia and China signed a $1.8 billion deal in Shenzhen to convert coal into ethanol. President Prabowo Subianto oversaw the agreement. Partners include Pertamina and Beijing Petrochemical Engineering. The project aims to produce a liquid fuel additive for petrol. Last week in Shenzhen, Indonesia and China signed a US$1.8 billion agreement to turn Indonesian coal into ethanol, a liquid that can be mixed into petrol.",
-      "region": "Asia-Pacific",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch",
-      "url": "https://www.channelnewsasia.com/business/s-and-p-nvidia-board-compromised-rating-downgrade-watch-6582441",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-11-26T05:17:58+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--3WEqrv2k--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-26T033733Z_1_LYNXNPEMAP07Z_RTROPTP_3_NVIDIA-CEO-ALICE-CHIPS.JPG?itok=yl5GVxk_",
-      "summary": "S&P Global Ratings warned that Nvidia's board may be compromised. The agency placed the chipmaker on downgrade watch. A potential one-notch cut could occur within 90 days. Further action depends on ongoing investigations and reputational damage. S&P said it could downgrade Nvidia within the next 90 days, but expects any potential downgrade to be limited to one notch, unless investigations and other disclosures harm the company's reputation or future business prospects.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "The Standard of Living: looking into the human side of economics",
-      "url": "https://www.thehindu.com/entertainment/theatre/the-standard-of-living-looking-into-the-human-side-of-economics/article71744001.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-26T04:46:50+00:00",
-      "image_url": "https://th-i.thgim.com/public/news/3vqjwg/article71743997.ece/alternates/LANDSCAPE_1200/Rory%20Kinnear%20and%20the%20ensemble%20cast%20in%20The%20Standard%20of%20Living%20credit%20Manuel%20Harlan-015.jpg",
-      "summary": "The play The Standard of Living explores the human side of economics. It opens with a question posed by Keynes about the good life. The production argues economics serves humanity rather than faceless markets or nation states. Opening with a fundamental question posed by Keynes: ‘what would good life look like to you’; the play points out that economics is a social science for humanity rather than a body of knowledge for faceless entities such as markets, nation states and security apparatuses.",
-      "region": "World",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-      "url": "https://www.thehindu.com/news/international/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture/article71745171.ece",
-      "source": "The Hindu (International)",
-      "sources": [],
-      "published_at": "2026-11-26T04:35:38+00:00",
-      "image_url": "https://th-i.thgim.com/public/incoming/z2dsgx/article71745197.ece/alternates/LANDSCAPE_1200/2026-11-26T011630Z_1118755875_RC2BVOAH3DNL_RTRMADP_3_NORTHKOREA-NUCLEAR.JPG",
-      "summary": "Kim Jong Un pledged to expand North Korea's nuclear arsenal after touring undisclosed weapons production facilities. He made the statement while disregarding Donald Trump's recent diplomatic overtures. Trump had expressed a desire to resume talks during his China visit for the APEC summit. North Korea didn't say where the nuclear materials production factories that Kim Jong Un visited this week are located; U. S President Trump reiterated his eagerness to restore diplomacy with Mr.",
       "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
@@ -176,18 +164,6 @@
       "translations": {}
     },
     {
-      "title": "Emergency aid chief calls for access to war-hit communities",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-25T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image770x420cropped.jpg",
-      "summary": "UN aid chief Tom Fletcher arrived in Yemen to warn that the war blocks access to food and medicine. He highlighted the crisis in Taiz City. Fletcher urged for immediate access to war-hit communities to prevent further suffering. The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168875",
       "source": "UN News",
@@ -195,6 +171,18 @@
       "published_at": "2026-11-25T12:00:00+00:00",
       "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/25-11-2026_Ziad_Gaza_Widows_2.jpg/image770x420cropped.jpg",
       "summary": "Widows in Gaza now manage household duties, shelter, and education from temporary tents after losing their husbands in the war. These women describe carrying double the burden while lacking legal protections. Their testimony highlights the severe economic and social challenges facing displaced families in the conflict zone. For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Emergency aid chief calls for access to war-hit communities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-25T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image770x420cropped.jpg",
+      "summary": "UN aid chief Tom Fletcher arrived in Yemen to warn that the war blocks access to food and medicine. He highlighted the crisis in Taiz City. Fletcher urged for immediate access to war-hit communities to prevent further suffering. The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -236,12 +224,36 @@
       "translations": {}
     },
     {
+      "title": "UN deputy chief’s final call to end violence against women",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-24T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-Women-GBV-03.jpg/image560x340cropped.jpg",
+      "summary": "Amina Mohammed warned another woman would be killed before she finished speaking. She called for justice for survivors and consequences for perpetrators. The UN deputy chief made this final plea to end violence against women and girls. UN deputy chief’s final call to end violence against women.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "Can conflict resolution keep pace as AI and drones reshape war?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+      "source": "UN News",
+      "sources": [],
+      "published_at": "2026-11-24T12:00:00+00:00",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026_UNISFA_Abyei_Pakistan_peacekeepers.jpg/image560x340cropped.jpg",
+      "summary": "The Security Council is weighing how AI and drones reshape warfare. Guterres noted these technologies are fuelling record conflict levels. Disinformation spreads rapidly, complicating peace efforts. The UN is assessing how to keep pace with these changes. When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict.",
+      "region": "Global / Multilateral",
+      "language": "en",
+      "translations": {}
+    },
+    {
       "title": "Concern for trapped Ebola workers as violence against women and girls deepens",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168865",
       "source": "UN News",
       "sources": [],
       "published_at": "2026-11-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/21-09-2026-WHO-DR-Congo-ebola-02.jpg/image770x420cropped.jpg",
+      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/21-09-2026-WHO-DR-Congo-ebola-02.jpg/image560x340cropped.jpg",
       "summary": "WHO staff and Ebola responders remain trapped in a DRC hospital. Heavy fighting continues in Ituri province. The UN agency confirmed the situation on Tuesday. Personnel are stranded as violence prevents their safe evacuation from the facility. Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.",
       "region": "Middle East & Africa",
       "language": "en",
@@ -260,52 +272,364 @@
       "translations": {}
     },
     {
-      "title": "Can conflict resolution keep pace as AI and drones reshape war?",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
-      "source": "UN News",
+      "title": "Ukraine Strikes Russian Warship, Cargo Vessel Off Libya's Coast",
+      "url": "https://www.rferl.org/a/ukraine-strikes-russian-warship-off-libya-s-coast/33904036.html",
+      "source": "Radio Free Europe / Liberty",
       "sources": [],
-      "published_at": "2026-11-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026_UNISFA_Abyei_Pakistan_peacekeepers.jpg/image770x420cropped.jpg",
-      "summary": "The Security Council is weighing how AI and drones reshape warfare. Guterres noted these technologies are fuelling record conflict levels. Disinformation spreads rapidly, complicating peace efforts. The UN is assessing how to keep pace with these changes. When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict.",
-      "region": "Global / Multilateral",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "UN deputy chief’s final call to end violence against women",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
-      "source": "UN News",
-      "sources": [],
-      "published_at": "2026-11-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-Women-GBV-03.jpg/image770x420cropped.jpg",
-      "summary": "Amina Mohammed warned another woman would be killed before she finished speaking. She called for justice for survivors and consequences for perpetrators. The UN deputy chief made this final plea to end violence against women and girls. UN deputy chief’s final call to end violence against women.",
+      "published_at": "2026-11-23T11:16:45+00:00",
+      "image_url": "https://gdb.rferl.org/78f9edfe-f11a-43df-2a43-08df3ee80755_w1200_h630.jpg",
+      "summary": "Ukraine confirmed it struck a Russian corvette and a cargo vessel near Benghazi, Libya. Seven Ukrainian sea drones executed the attack. The corvette carried a Ka-27 helicopter. The cargo ship allegedly transported weapons across the Mediterranean. Ukraine says that it struck a Russian corvette carrying a Ka-27 helicopter near the port of Benghazi, Libya, as well as a cargo ship allegedly used to transport weapons across the Mediterranean Sea.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "Gaza war has undone 77 years of human development, UN warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
-      "source": "UN News",
+      "title": "High Stakes in Iraq’s Push to Reclaim Jurf al-Sakhar",
+      "url": "https://www.crisisgroup.org/qna/middle-east-north-africa/iraq/high-stakes-iraqs-push-reclaim-jurf-al-sakhar",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-11-23T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/30-10-2026-UNICEF-Gaza-05.jpg/image560x340cropped.jpg",
-      "summary": "The UN deputy chief warned that the Gaza war has undone seventy-seven years of human development. Palestinians face violence and displacement despite the October 2025 ceasefire. He urged renewed international support for a two-state solution to the conflict. The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
+      "published_at": "2026-11-20T20:40:00+00:00",
+      "image_url": "https://images.pexels.com/photos/38982182/pexels-photo-38982182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iraqi government forces entered Jurf al-sakhar on 20 November. The area was a stronghold for Iran-backed Kata’ib Hizbollah. Prime Minister Ali al-Zaidi restored state authority there. Crisis Group expert Lahib Higel analyzed the circumstances enabling this move. On 20 November, Iraqi government forces entered Jurf al-Sakhar, a stronghold of the Iran-backed group Kata’ib Hizbollah. In this Q&A, Crisis Group expert Lahib Higel explains the circumstances that allowed Prime Minister Ali al-Zaidi to restore state authority in this area.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
     },
     {
-      "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168861",
-      "source": "UN News",
+      "title": "On Our Radar",
+      "url": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-11-23T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/23-11-2026-Barbados-Guterres-01.jpg/image560x340cropped.jpg",
-      "summary": "UN Secretary-General António Guterres called for talks on a multilateral AI safety framework. He warned that artificial intelligence is driving the biggest transfer of power in human history. Member States must begin discussions to manage these emerging technological risks. UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the history of humankind”.",
-      "region": "Global / Multilateral",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "image_url": "https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Crisis Group’s On Our Radar scans global conflicts weekly. Field experts explain why specific hotspots matter. The series covers under-reported trends and major developments. Analysts outline what should be done in each situation. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching. Whether an under-reported trend or a headline-grabbing development, our field experts explain why it matters or what should be done.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?",
+      "url": "https://www.amarujala.com/world/donald-trump-nato-chief-mark-rutte-push-russia-to-avoid-any-actions-that-would-expand-the-war-with-ukraine-2026-11-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-27T06:37:18+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/danalda-tarapa-oura-nata-mahasacava-maraka-rata_5db2533e5a2c5e584ef1d34dfdcca1d2.jpeg?w=1200&dpr=1.0",
+      "summary": "ट्रंप और नाटो महासचिव मार्क रूट्टे ने रूस से अपील की कि वह यूक्रेन युद्ध को विस्तार न दें। दोनों ने सैन्य कार्रवाई रोकने पर जोर दिया। बैठक का उद्देश्य तनाव को कम करना था। अमेरिका: यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?",
+          "summary": "ट्रंप और नाटो महासचिव मार्क रूट्टे ने रूस से अपील की कि वह यूक्रेन युद्ध को विस्तार न दें। दोनों ने सैन्य कार्रवाई रोकने पर जोर दिया। बैठक का उद्देश्य तनाव को कम करना था। अमेरिका: यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?",
+          "region": "यूरोप और रूस"
+        }
+      }
+    },
+    {
+      "title": "PoK कटकर अलग होने से पहले पाकिस्तान की आखिरी कोशिश, जिन्हें आतंकवादी बताया अब उनकी चिरौरी पर मजबूर",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-last-bid-to-save-pok-assembly-sets-conditions-to-talk-with-banned-jaac-amid-rising-unrest-11015503.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T18:37:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/PoK-Protest-2026-11-c3ccf033a785261105feb77b9a980e39-1200x800.jpg",
+      "summary": "पाकिस्तान सरकार ने PoK में विरोध के बीच बातचीत की शर्तें रखी हैं। पहले बैन किए गए JAAC नेताओं से अब वार्ता करनी पड़ रही है। यह कदम सरकार की मजबूरी को दर्शाता है। PoK में विरोध और बिगड़ते हालात के बीच पाकिस्तान सरकार ने बातचीत की शर्तें रखी हैं. पर असलियत ये है कि ये सख्ती नहीं, मजबूरी है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "PoK कटकर अलग होने से पहले पाकिस्तान की आखिरी कोशिश, जिन्हें आतंकवादी बताया अब उनकी चिरौरी पर मजबूर",
+          "summary": "पाकिस्तान सरकार ने PoK में विरोध के बीच बातचीत की शर्तें रखी हैं। पहले बैन किए गए JAAC नेताओं से अब वार्ता करनी पड़ रही है। यह कदम सरकार की मजबूरी को दर्शाता है। PoK में विरोध और बिगड़ते हालात के बीच पाकिस्तान सरकार ने बातचीत की शर्तें रखी हैं. पर असलियत ये है कि ये सख्ती नहीं, मजबूरी है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "सानिया-हिना के बाद अब राबिया, महिला पत्रकारों के खून से सना पाकिस्तान, अब खतरे में किसकी जिंदगी?",
+      "url": "https://hindi.news18.com/world/pakistan-sana-and-hina-anchor-rabia-ahsan-shot-dead-in-rawalpindi-rising-violence-against-women-and-journalists-in-pakistan-11015453.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T18:04:37+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Rabia-Ahsan-Case-2026-11-8216ea048a24867cc903fb0ad8ff6b9c-1200x800.jpg",
+      "summary": "रावलपिंडी में टीवी एंकर राबिया अहसान की गोली मारकर हत्या कर दी गई। पुलिस ने उनके पति को हिरासत में लिया है। यह सानिया यूसुफ और हिना जावेद के बाद तीसरी बड़ी वारदात है। इसके बाद पाकिस्तान में महिलाओं और महिला पत्रकारों की सेफ्टी पर फिर बड़े सवाल खड़े हो गए हैं. सानिया यूसुफ और हिना जावेद के बाद ये एक और बड़ी वारदात है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "सानिया-हिना के बाद अब राबिया, महिला पत्रकारों के खून से सना पाकिस्तान, अब खतरे में किसकी जिंदगी?",
+          "summary": "रावलपिंडी में टीवी एंकर राबिया अहसान की गोली मारकर हत्या कर दी गई। पुलिस ने उनके पति को हिरासत में लिया है। यह सानिया यूसुफ और हिना जावेद के बाद तीसरी बड़ी वारदात है। इसके बाद पाकिस्तान में महिलाओं और महिला पत्रकारों की सेफ्टी पर फिर बड़े सवाल खड़े हो गए हैं. सानिया यूसुफ और हिना जावेद के बाद ये एक और बड़ी वारदात है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "मक्का पैक्ट के शोर के बीच भारत-UAE की तगड़ी डिफेंस डील, नेक्स्ट जेन हथियार समेत 3 बड़े ऐलान",
+      "url": "https://hindi.news18.com/world/middle-east-india-uae-defence-deal-amid-mecca-pact-buzz-co-production-of-next-gen-weapons-ai-and-3-key-takeaways-11015329.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T17:26:38+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/UAE-India-Relations-2026-11-ea18f94d5a4e9cb422b5a986a6ce4bcc-1200x800.jpg",
+      "summary": "भारत और UAE ने अबू धाबी में 14वीं JDCC बैठक में रक्षा सहयोग बढ़ाने पर सहमति जताई। दोनों देश अगली पीढ़ी के हथियारों और AI पर संयुक्त काम करेंगे। यह गठबंधन खाड़ी में भारत की स्थिति को मजबूत करता है। पश्चिम एशिया में मक्का पैक्ट और सुरक्षा गठबंधनों की बातों के बीच भारत और UAE ने रक्षा रिश्तों को नई रफ्तार दी है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "मक्का पैक्ट के शोर के बीच भारत-UAE की तगड़ी डिफेंस डील, नेक्स्ट जेन हथियार समेत 3 बड़े ऐलान",
+          "summary": "भारत और UAE ने अबू धाबी में 14वीं JDCC बैठक में रक्षा सहयोग बढ़ाने पर सहमति जताई। दोनों देश अगली पीढ़ी के हथियारों और AI पर संयुक्त काम करेंगे। यह गठबंधन खाड़ी में भारत की स्थिति को मजबूत करता है। पश्चिम एशिया में मक्का पैक्ट और सुरक्षा गठबंधनों की बातों के बीच भारत और UAE ने रक्षा रिश्तों को नई रफ्तार दी है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "100 की रफ्तार से आया तूफान उड़ा ले गया करोड़ों के घर-मकान, गाड़ियां तैरने लगीं, सौ सालों में पहली",
+      "url": "https://hindi.news18.com/world/america-100-kmph-thanksgiving-storm-live-batters-us-east-coast-cars-float-in-floods-and-macy-parade-postponed-after-100-years-heavy-rain-alert-11015310.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T16:38:31+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/US-Thanksgiving-Storm-2026-11-56789a68682c04911113a5b1195e86e1-1200x800.jpg",
+      "summary": "अमेरिका में 100 किमी प्रति घंटे की रफ्तार से आया तूफान ने भारी तबाही मचाई। बाढ़ से सड़कें डूब गईं और गाड़ियां तैरती नजर आईं। पूरे देश में 820 से ज्यादा उड़ानें रद्द करनी पड़ीं। अमेरिका इस वक्त एक भयानक तूफान तबाही मचा रहा है. हवा की रफ्तार करीब 100 किलोमीटर प्रति घंटा रही. भारी बारिश और बाढ़ से सड़कें पूरी तरह डूब गईं.",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "100 की रफ्तार से आया तूफान उड़ा ले गया करोड़ों के घर-मकान, गाड़ियां तैरने लगीं, सौ सालों में पहली",
+          "summary": "अमेरिका में 100 किमी प्रति घंटे की रफ्तार से आया तूफान ने भारी तबाही मचाई। बाढ़ से सड़कें डूब गईं और गाड़ियां तैरती नजर आईं। पूरे देश में 820 से ज्यादा उड़ानें रद्द करनी पड़ीं। अमेरिका इस वक्त एक भयानक तूफान तबाही मचा रहा है. हवा की रफ्तार करीब 100 किलोमीटर प्रति घंटा रही. भारी बारिश और बाढ़ से सड़कें पूरी तरह डूब गईं.",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "'अगर शेख हसीना का बाल भी बांका हुआ तो...', बांग्लादेश को अमेरिका से आई वॉर्निंग, भारत को किया सपोर्ट",
+      "url": "https://hindi.news18.com/world/south-asia-if-a-hair-on-sheikh-hasina-head-is-harmed-ex-pentagon-official-warns-bangladesh-ahead-of-dec-16-return-backs-india-11015192.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T15:55:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina-11-2026-11-d8e7940bf6f9d2799784f16f75cb6c50-1200x800.jpg",
+      "summary": "अमेरिका के पूर्व पेंटागन अधिकारी माइकल रुबिन ने बांग्लादेश की तारिक रहमान सरकार को चेतावनी दी है। उन्होंने कहा कि शेख हसीना को कोई नुकसान हुआ तो पूरी जिम्मेदारी ढाका सरकार की होगी। रुबिन ने भारत से भी हसीना की सुरक्षा पर कोई समझौता न करने की अपील की है। पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने का ऐलान किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "'अगर शेख हसीना का बाल भी बांका हुआ तो...', बांग्लादेश को अमेरिका से आई वॉर्निंग, भारत को किया सपोर्ट",
+          "summary": "अमेरिका के पूर्व पेंटागन अधिकारी माइकल रुबिन ने बांग्लादेश की तारिक रहमान सरकार को चेतावनी दी है। उन्होंने कहा कि शेख हसीना को कोई नुकसान हुआ तो पूरी जिम्मेदारी ढाका सरकार की होगी। रुबिन ने भारत से भी हसीना की सुरक्षा पर कोई समझौता न करने की अपील की है। पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने का ऐलान किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत को कोस रहे… अरे इतिहास भूल गए क्या हाफिज उद्दीन अहमद? कभी शुक्रिया-शुक्रिया कहते थे, आज",
+      "url": "https://hindi.news18.com/world/south-asia-from-thanking-india-help-in-1971-war-to-attacking-india-in-pakistan-bangladesh-speaker-double-standard-over-sheikh-hasina-and-kashmir-11015121.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T15:09:22+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Bangladesh-Speaker-Hafiz-Uddin-Ahmed-2026-11-c5860c7b3b7ac0b86c7b0ec6cd319ba9-1200x800.jpg",
+      "summary": "बांग्लादेश के संसद स्पीकर हाफिज उद्दीन अहमद ने पाकिस्तान दौरे के दौरान भारत के खिलाफ तीखे बयान दिए। उन्होंने 1971 के मुक्ति संग्राम में भारत की भूमिका पर सवाल उठाए। साथ ही, शेख हसीना को वापस लाने के लिए अंतर्राष्ट्रीय न्यायालय जाने की धमकी भी दी। बांग्लादेश की संसद के स्पीकर हाफिज उद्दीन अहमद पाकिस्तान दौरे पर हैं. वहां उन्होंने भारत के खिलाफ तीखे बयान दिए हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत को कोस रहे… अरे इतिहास भूल गए क्या हाफिज उद्दीन अहमद? कभी शुक्रिया-शुक्रिया कहते थे, आज",
+          "summary": "बांग्लादेश के संसद स्पीकर हाफिज उद्दीन अहमद ने पाकिस्तान दौरे के दौरान भारत के खिलाफ तीखे बयान दिए। उन्होंने 1971 के मुक्ति संग्राम में भारत की भूमिका पर सवाल उठाए। साथ ही, शेख हसीना को वापस लाने के लिए अंतर्राष्ट्रीय न्यायालय जाने की धमकी भी दी। बांग्लादेश की संसद के स्पीकर हाफिज उद्दीन अहमद पाकिस्तान दौरे पर हैं. वहां उन्होंने भारत के खिलाफ तीखे बयान दिए हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘भारत-चीन बॉर्डर पर वैसे कोई दिक्कत नहीं’, फिर उभरा ड्रैगन का अरुणाचल प्रदेश वाला दर्द, कर दी मीठी",
+      "url": "https://hindi.news18.com/world/south-asia-china-says-india-china-border-is-generally-stable-while-renewing-claim-over-arunachal-pradesh-call-it-zangnan-11015031.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T14:03:34+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/India-China-Border-2026-11-ecf78b1ef92b68a2fa3a69b3194f3bd5-1200x800.jpg",
+      "summary": "चीन के रक्षा मंत्रालय के प्रवक्ता चेन शी ने भारत-चीन सीमा पर स्थिति को स्थिर बताया। उन्होंने सैन्य और कूटनीतिक स्तर पर चल रही बातचीत का जिक्र किया। हालांकि, उन्होंने अरुणाचल प्रदेश पर चीन के पुराने दावे को दोहराया। चीन के रक्षा मंत्रालय के प्रवक्ता चेन शी ने सीमा को लेकर दोहरी बात कही है. एक तरफ उन्होंने कहा कि भारत-चीन बॉर्डर पर हालात सामान्य तौर पर स्थिर हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘भारत-चीन बॉर्डर पर वैसे कोई दिक्कत नहीं’, फिर उभरा ड्रैगन का अरुणाचल प्रदेश वाला दर्द, कर दी मीठी",
+          "summary": "चीन के रक्षा मंत्रालय के प्रवक्ता चेन शी ने भारत-चीन सीमा पर स्थिति को स्थिर बताया। उन्होंने सैन्य और कूटनीतिक स्तर पर चल रही बातचीत का जिक्र किया। हालांकि, उन्होंने अरुणाचल प्रदेश पर चीन के पुराने दावे को दोहराया। चीन के रक्षा मंत्रालय के प्रवक्ता चेन शी ने सीमा को लेकर दोहरी बात कही है. एक तरफ उन्होंने कहा कि भारत-चीन बॉर्डर पर हालात सामान्य तौर पर स्थिर हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "दिल्‍ली में बनाया गया विदेशियों को 'गुलाम', फिर दी महिलाओं की आवाज में बात करने की ट्रेनिंग, 164",
+      "url": "https://hindi.news18.com/news/crime/delhi-police-crime-branch-rescued-164-nationals-from-malaysia-and-indonesia-who-held-as-cyber-slaves-11014934.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T13:14:27+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Crime-news-5-2026-11-805d58add602a0f9c3949676379ad8a2-1200x800.jpg",
+      "summary": "दिल्ली की क्राइम ब्रांच ने विदेशियों को गुलाम बनाने वाले एक सिंडिकेट का भंडाफोड़ किया है। दिल्ली-एनसीआर के कॉल सेंटरों में छापेमारी कर 164 विदेशी नागरिकों को रेस्क्यू किया गया। मौके से 150 से अधिक पासपोर्ट बरामद हुए। मलेशिया मूल के एक नागरिक को गिरफ्तार किया गया है। दिल्‍ली में विदेशियों को ‘गुलाम’ बनाने वाले एक सिंडिकेट का भंडाफोड़ क्राइम ब्रांच ने किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दिल्‍ली में बनाया गया विदेशियों को 'गुलाम', फिर दी महिलाओं की आवाज में बात करने की ट्रेनिंग, 164",
+          "summary": "दिल्ली की क्राइम ब्रांच ने विदेशियों को गुलाम बनाने वाले एक सिंडिकेट का भंडाफोड़ किया है। दिल्ली-एनसीआर के कॉल सेंटरों में छापेमारी कर 164 विदेशी नागरिकों को रेस्क्यू किया गया। मौके से 150 से अधिक पासपोर्ट बरामद हुए। मलेशिया मूल के एक नागरिक को गिरफ्तार किया गया है। दिल्‍ली में विदेशियों को ‘गुलाम’ बनाने वाले एक सिंडिकेट का भंडाफोड़ क्राइम ब्रांच ने किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "बजरी खोद रहे थे, टन्न की आवाज से ठनका माथा, जमीन में दबा था 10 किलो सोने से भी कीमती खजाना",
+      "url": "https://hindi.news18.com/world/europe-10kg-bronze-age-gold-treasure-uncovered-in-spain-60-years-later-tests-reveal-two-pieces-made-of-space-metal-11014846.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T13:13:08+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Spain-Treasure-2026-11-d62c5a71561999a1c0ed6684e9a993af-1200x800.jpg",
+      "summary": "बजरी की खुदाई के दौरान लगभग 10 किलो वजनी ऐतिहासिक खजाना मिला है। इसमें 9 किलो शुद्ध सोना शामिल था। वैज्ञानिक जांच में दो जंग लगी चीजें अंतरिक्ष से गिरे उल्कापिंड की धातु से बनी पाई गईं। कांस्य युग में इसे सोने-चांदी से भी अधिक मूल्यवान माना जाता था। बजरी की खुदाई के दौरान वहां करीब 10 किलो वजनी एक ऐतिहासिक खजाना मिला.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "बजरी खोद रहे थे, टन्न की आवाज से ठनका माथा, जमीन में दबा था 10 किलो सोने से भी कीमती खजाना",
+          "summary": "बजरी की खुदाई के दौरान लगभग 10 किलो वजनी ऐतिहासिक खजाना मिला है। इसमें 9 किलो शुद्ध सोना शामिल था। वैज्ञानिक जांच में दो जंग लगी चीजें अंतरिक्ष से गिरे उल्कापिंड की धातु से बनी पाई गईं। कांस्य युग में इसे सोने-चांदी से भी अधिक मूल्यवान माना जाता था। बजरी की खुदाई के दौरान वहां करीब 10 किलो वजनी एक ऐतिहासिक खजाना मिला.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "2026 के आखिर में गैस कीमतों पर आएगी खुशखबरी? TAPI पाइपलाइन पर अब तक का सबसे बड़ा अपडेट",
+      "url": "https://hindi.news18.com/world/south-asia-tapi-gas-pipeline-update-herat-section-near-completion-by-end-of-2026-will-india-fuel-gas-prices-drop-amid-global-energy-crunch-11014652.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T12:23:54+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/TAPI-Gas-Pipeline-2026-11-90a103deaa50a0274f15ae06c947169d-1200x800.jpg",
+      "summary": "तुर्कमेनिस्तान, अफगानिस्तान, पाकिस्तान और भारत को जोड़ने वाली 1,800 किलोमीटर लंबी TAPI गैस पाइपलाइन पर बड़ा अपडेट आया है। इस पर 600 मिलियन डॉलर खर्च हो रहे हैं। चालू होने पर चारों देशों में गैस कीमतें घटने की उम्मीद है। ईरान-अमेरिका बवाल की वजह से एनर्जी संकट गहराता जा रहा है. इस बीच, चार देशों को जोड़ने वाली 1,800 किलोमीटर लंबी TAPI गैस पाइपलाइन पर बड़ा अपडेट आया है.",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "2026 के आखिर में गैस कीमतों पर आएगी खुशखबरी? TAPI पाइपलाइन पर अब तक का सबसे बड़ा अपडेट",
+          "summary": "तुर्कमेनिस्तान, अफगानिस्तान, पाकिस्तान और भारत को जोड़ने वाली 1,800 किलोमीटर लंबी TAPI गैस पाइपलाइन पर बड़ा अपडेट आया है। इस पर 600 मिलियन डॉलर खर्च हो रहे हैं। चालू होने पर चारों देशों में गैस कीमतें घटने की उम्मीद है। ईरान-अमेरिका बवाल की वजह से एनर्जी संकट गहराता जा रहा है. इस बीच, चार देशों को जोड़ने वाली 1,800 किलोमीटर लंबी TAPI गैस पाइपलाइन पर बड़ा अपडेट आया है.",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "शेख हसीना की वापसी से पहले बांग्लादेश में बढ़ा तनाव, पूर्व डिप्टी प्रेस सचिव समेत 3 गिरफ्तार",
+      "url": "https://www.patrika.com/world-news/bangladesh-sheikh-hasina-ex-deputy-press-secretary-arrested-21090405",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-26T11:36:19+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/sheikh-hasina_.webp",
+      "summary": "बांग्लादेश में पूर्व प्रधानमंत्री शेख हसीना से जुड़े तीन लोगों को गिरफ्तार किया गया है। धनमंडी-27 इलाके से पूर्व डिप्टी प्रेस सचिव केएम शखावत मून को हिरासत में लिया गया। उनके साथ पूर्व डिप्टी कमिश्नर मोहम्मद इलियास हुसैन और वकील सूफी मोहम्मद अल मामून को भी गिरफ्तार किया गया। Sheikh Hasina: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के पूर्व डिप्टी प्रेस सचिव केएम शखावत मून समेत तीन लोगों को गुरुवार को गिरफ्तार कर लिया गया।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेख हसीना की वापसी से पहले बांग्लादेश में बढ़ा तनाव, पूर्व डिप्टी प्रेस सचिव समेत 3 गिरफ्तार",
+          "summary": "बांग्लादेश में पूर्व प्रधानमंत्री शेख हसीना से जुड़े तीन लोगों को गिरफ्तार किया गया है। धनमंडी-27 इलाके से पूर्व डिप्टी प्रेस सचिव केएम शखावत मून को हिरासत में लिया गया। उनके साथ पूर्व डिप्टी कमिश्नर मोहम्मद इलियास हुसैन और वकील सूफी मोहम्मद अल मामून को भी गिरफ्तार किया गया। Sheikh Hasina: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के पूर्व डिप्टी प्रेस सचिव केएम शखावत मून समेत तीन लोगों को गुरुवार को गिरफ्तार कर लिया गया।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "US हथियारों को लेकर IRGC का बड़ा दावा – अमेरिका के पास कम हो गए हथियार, ईरानी मिसाइलें रोज ताकतवर",
+      "url": "https://www.patrika.com/world-news/irgc-claims-us-weapons-shortage-iran-missile-power-increasing-21090443",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-26T11:06:22+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Iran-army-1.webp",
+      "summary": "ईरानी IRGC के प्रवक्ता हुसैन मोहेबी ने दावा किया कि अमेरिका के पास हथियारों की कमी हो गई है। उन्होंने कहा कि ईरान लगातार अपनी मिसाइलों की संख्या और रेंज बढ़ा रहा है। IRGC का मानना है कि ईरान अब हथियारों के मामले में अमेरिका से बेहतर स्थिति में है। Iran vs US Weapons: ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने अमेरिकी हथियारों को लेकर बड़ा दावा किया है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "US हथियारों को लेकर IRGC का बड़ा दावा – अमेरिका के पास कम हो गए हथियार, ईरानी मिसाइलें रोज ताकतवर",
+          "summary": "ईरानी IRGC के प्रवक्ता हुसैन मोहेबी ने दावा किया कि अमेरिका के पास हथियारों की कमी हो गई है। उन्होंने कहा कि ईरान लगातार अपनी मिसाइलों की संख्या और रेंज बढ़ा रहा है। IRGC का मानना है कि ईरान अब हथियारों के मामले में अमेरिका से बेहतर स्थिति में है। Iran vs US Weapons: ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने अमेरिकी हथियारों को लेकर बड़ा दावा किया है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "अचानक फट पड़ा तेल डिपो, 20-25 फ्लोर वाली बिल्डिंग से ऊंची आग की लपटें, विस्फोटक वीडियो आया सामने",
+      "url": "https://hindi.news18.com/world/rest-of-world-bangkok-oil-depot-blast-massive-explosion-triggers-towering-flames-at-bangchak-depot-residents-schools-evacuated-watch-video-11014540.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T10:44:35+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Bangkok-Oil-Depot-Blast-2026-11-9aacab6cceb0a22396e48ea6dc0e86f1-1200x800.jpg",
+      "summary": "थाईलैंड की राजधानी बैंकॉक के बांग ना इलाके में बांगचाक तेल डिपो में जोरदार धमाका हुआ। इसके बाद भीषण आग लग गई जिसकी लपटें 20 से 25 मंजिला इमारत से ऊपर उठीं। पूरे शहर में काले धुएं का गुबार छा गया और स्थानीय प्रशासन ने खतरे को देखते हुए कार्रवाई शुरू की। थाईलैंड की राजधानी बैंकॉक के 'बांग ना' इलाके में एक बड़ा हादसा हो गया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "अचानक फट पड़ा तेल डिपो, 20-25 फ्लोर वाली बिल्डिंग से ऊंची आग की लपटें, विस्फोटक वीडियो आया सामने",
+          "summary": "थाईलैंड की राजधानी बैंकॉक के बांग ना इलाके में बांगचाक तेल डिपो में जोरदार धमाका हुआ। इसके बाद भीषण आग लग गई जिसकी लपटें 20 से 25 मंजिला इमारत से ऊपर उठीं। पूरे शहर में काले धुएं का गुबार छा गया और स्थानीय प्रशासन ने खतरे को देखते हुए कार्रवाई शुरू की। थाईलैंड की राजधानी बैंकॉक के 'बांग ना' इलाके में एक बड़ा हादसा हो गया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "नासा के वार से 500 फीट के एस्टेरॉयड में हुआ स्टेडियम जितना बड़ा गड्ढा, चारों ओर बिखरे सैकड़ों पत्थर",
+      "url": "https://hindi.news18.com/world/america-nasa-dart-mission-left-stadium-sized-crater-on-500-feet-asteroid-dimorphos-images-11014353.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T10:21:56+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Dimorphos-And-Didymos-2026-11-a9fcc44c680153b22ad71050ee78fe6c-1200x800.jpg",
+      "summary": "यूरोपीय स्पेस एजेंसी के हेरा स्पेसक्राफ्ट ने नासा के डार्ट मिशन के असर की पहली तस्वीरें भेजी हैं। 2022 में डिडिमोस के 500 फीट चौड़े एस्टेरॉयड डिमॉर्फोस से टक्कर कराई गई थी। स्कैन में स्टेडियम के साइज का क्रेटर और बदला हुआ ऑर्बिट दिखा है। दिसंबर में हेरा 8 मील करीब जाकर और फोटो लेगा। NASA DART Mission: यूरोपीय स्पेस एजेंसी के हेरा स्पेसक्राफ्ट ने 4 साल के इंतजार के बाद नासा के डार्ट मिशन के असर की पहली तस्वीरें भेजी हैं.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "नासा के वार से 500 फीट के एस्टेरॉयड में हुआ स्टेडियम जितना बड़ा गड्ढा, चारों ओर बिखरे सैकड़ों पत्थर",
+          "summary": "यूरोपीय स्पेस एजेंसी के हेरा स्पेसक्राफ्ट ने नासा के डार्ट मिशन के असर की पहली तस्वीरें भेजी हैं। 2022 में डिडिमोस के 500 फीट चौड़े एस्टेरॉयड डिमॉर्फोस से टक्कर कराई गई थी। स्कैन में स्टेडियम के साइज का क्रेटर और बदला हुआ ऑर्बिट दिखा है। दिसंबर में हेरा 8 मील करीब जाकर और फोटो लेगा। NASA DART Mission: यूरोपीय स्पेस एजेंसी के हेरा स्पेसक्राफ्ट ने 4 साल के इंतजार के बाद नासा के डार्ट मिशन के असर की पहली तस्वीरें भेजी हैं.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "क्या छिड़ेगा एक और युद्ध? अमेरिका की मदद के बिना ईरान पर हमले के लिए तैयार इज़रायल",
+      "url": "https://www.patrika.com/world-news/israel-ready-to-attack-iran-independently-even-without-us-support-21089636",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-26T09:25:08+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/israel-strikes-iran-nuclear-sites.webp",
+      "summary": "इज़रायल अमेरिका की सहायता के बिना ईरान पर हमले के लिए तैयार है। दोनों देशों के बीच तनाव जारी है और समय-समय पर आपसी हमले हो रहे हैं। लंबे युद्ध की इच्छा नहीं है, पर शर्तों पर सहमति नहीं बन पा रही है। दोनों देशों ने कुछ दिन पहले फिर एक-दूसरे के ठिकानों पर हमले किए। दोनों देश लंबा युद्ध नहीं चाहते, लेकिन एक-दूसरे की शर्तों पर सहमत भी नहीं हो रहे हैं, जिससे समय-समय पर दोनों एक-दूसरे के ठिकानों पर हमले करते हैं।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "क्या छिड़ेगा एक और युद्ध? अमेरिका की मदद के बिना ईरान पर हमले के लिए तैयार इज़रायल",
+          "summary": "इज़रायल अमेरिका की सहायता के बिना ईरान पर हमले के लिए तैयार है। दोनों देशों के बीच तनाव जारी है और समय-समय पर आपसी हमले हो रहे हैं। लंबे युद्ध की इच्छा नहीं है, पर शर्तों पर सहमति नहीं बन पा रही है। दोनों देशों ने कुछ दिन पहले फिर एक-दूसरे के ठिकानों पर हमले किए। दोनों देश लंबा युद्ध नहीं चाहते, लेकिन एक-दूसरे की शर्तों पर सहमत भी नहीं हो रहे हैं, जिससे समय-समय पर दोनों एक-दूसरे के ठिकानों पर हमले करते हैं।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "AI और फुटबॉल से तैयार हो रही नई पीढ़ी, भारत के मॉडल से कितना अलग?",
+      "url": "https://hindi.news18.com/news/career/education-china-vs-india-2030-ai-football-defence-education-comparison-11014021.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-26T09:03:49+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/China-vs-India-AI-Defence-Education-2030-2026-11-86aac42e62f44667941e648713b8e704-1200x800.jpg",
+      "summary": "चीन 2030 तक एआई, रक्षा शिक्षा और फुटबॉल के जरिए नई पीढ़ी तैयार कर रहा है। भारत में नई शिक्षा नीति, NCC और फिट इंडिया योजना इससे अलग है। दोनों देशों की शिक्षा रणनीति में स्पष्ट अंतर है। China vs India AI Defence Education 2030: चीन एआई मॉडल्स, डिफेंस एजुकेशन और फुटबॉल से नई पीढ़ी तैयार कर रहा है. इसके लिए उसने 2030 तक का लक्ष्य तय किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "AI और फुटबॉल से तैयार हो रही नई पीढ़ी, भारत के मॉडल से कितना अलग?",
+          "summary": "चीन 2030 तक एआई, रक्षा शिक्षा और फुटबॉल के जरिए नई पीढ़ी तैयार कर रहा है। भारत में नई शिक्षा नीति, NCC और फिट इंडिया योजना इससे अलग है। दोनों देशों की शिक्षा रणनीति में स्पष्ट अंतर है। China vs India AI Defence Education 2030: चीन एआई मॉडल्स, डिफेंस एजुकेशन और फुटबॉल से नई पीढ़ी तैयार कर रहा है. इसके लिए उसने 2030 तक का लक्ष्य तय किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "पहाड़ी पर दीप न जलने पर विवाद: SC में माफी, गर्वनर ने मांगी रिपोर्ट, अब आगे क्या?",
+      "url": "https://www.abplive.com/news/india/tamil-nadu-thiruparankundram-hill-deepathoon-row-bjp-target-tvk-vijay-govt-sc-orders-disobedience-3219630",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-26T08:32:04+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/459adb8fcd0f93861acd5bf2feac011517956839526251200_original.jpeg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "तिरुपरनकुंद्रम में दीपाथून पर कार्तिगई दीप न जलने पर मदुरै प्रशासन ने मंदिर ट्रस्टी बोर्ड को जिम्मेदार ठहराया। सुप्रीम कोर्ट ने केवल अधिकृत टीम को ही जाने की अनुमति दी थी। गर्वनर ने मामले की रिपोर्ट मांगी है। तमिलनाडु के तिरुपरनकुंद्रम पहाड़ी स्थित दीपाथून स्तंभ पर सुप्रीम कोर्ट के आदेश के बावजूद कार्तिगई दीप न जलाए जाने के मामले में मदुरै जिला प्रशासन ने मंदिर के ट्रस्टी बोर्ड को जिम्मेदार ठहराया है.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "पहाड़ी पर दीप न जलने पर विवाद: SC में माफी, गर्वनर ने मांगी रिपोर्ट, अब आगे क्या?",
+          "summary": "तिरुपरनकुंद्रम में दीपाथून पर कार्तिगई दीप न जलने पर मदुरै प्रशासन ने मंदिर ट्रस्टी बोर्ड को जिम्मेदार ठहराया। सुप्रीम कोर्ट ने केवल अधिकृत टीम को ही जाने की अनुमति दी थी। गर्वनर ने मामले की रिपोर्ट मांगी है। तमिलनाडु के तिरुपरनकुंद्रम पहाड़ी स्थित दीपाथून स्तंभ पर सुप्रीम कोर्ट के आदेश के बावजूद कार्तिगई दीप न जलाए जाने के मामले में मदुरै जिला प्रशासन ने मंदिर के ट्रस्टी बोर्ड को जिम्मेदार ठहराया है.",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "8 करोड़ लोगों पर बरसेगी आसमानी आफत, 6000 फ्लाइटें देरी से उड़ रहीं, सड़कों पर अफरा तफरी",
@@ -326,6 +650,42 @@
       }
     },
     {
+      "title": "यूपी में सपा-कांग्रेस के बीच सीटों का पेंच फंसा, सुप्रिया श्रीनेत का बड़ा दावा- 'हम...'",
+      "url": "https://www.abplive.com/news/india/supriya-shrinate-on-congress-sp-alliance-before-up-election-2027-says-a-strong-alliance-will-be-formed-3219625",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-26T08:12:16+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/1a5f5145c72e67b489cb3b5c1bc525b01795680496974355_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "सुप्रिया श्रीनेत का दावा है कि 2027 उत्तर प्रदेश विधानसभा चुनाव से पहले कांग्रेस और सपा के बीच मजबूत गठबंधन बनेगा। सीटों के बंटवारे पर बातचीत चल रही है। दोनों दलों को साथ लड़ने की जरूरत समझ है। कांग्रेस नेता सुप्रिया श्रीनेत ने गुरुवार को भरोसा जताया कि साल 2027 में होने वाले उत्तर प्रदेश विधानसभा चुनाव से पहले कांग्रेस और समाजवादी पार्टी के बीच एक मजबूत गठबंधन बनेगा.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "यूपी में सपा-कांग्रेस के बीच सीटों का पेंच फंसा, सुप्रिया श्रीनेत का बड़ा दावा- 'हम...'",
+          "summary": "सुप्रिया श्रीनेत का दावा है कि 2027 उत्तर प्रदेश विधानसभा चुनाव से पहले कांग्रेस और सपा के बीच मजबूत गठबंधन बनेगा। सीटों के बंटवारे पर बातचीत चल रही है। दोनों दलों को साथ लड़ने की जरूरत समझ है। कांग्रेस नेता सुप्रिया श्रीनेत ने गुरुवार को भरोसा जताया कि साल 2027 में होने वाले उत्तर प्रदेश विधानसभा चुनाव से पहले कांग्रेस और समाजवादी पार्टी के बीच एक मजबूत गठबंधन बनेगा.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "भारत पर 25% टैरिफ की तैयारी, व्यापार समझौते पर पड़ेगा असर? विशेषज्ञों ने समझाए मायने",
+      "url": "https://www.abplive.com/news/india/us-section-301-tariff-proposal-india-trade-deal-export-market-impact-3219561",
+      "source": "ABP Live (India)",
+      "sources": [],
+      "published_at": "2026-11-26T07:56:39+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/d91010133f9835c82fb8fe8a9088f8171795679783487425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "अमेरिकी USTR ने भारत समेत 14 अर्थव्यवस्थाओं की अतिरिक्त उत्पादन क्षमता की जांच शुरू की है। इस आधार पर भारत पर 25 फीसदी तक अतिरिक्त टैरिफ लगाने का प्रस्ताव सामने आया है। द्विपक्षीय व्यापार समझौते की बातचीत जारी है। अमेरिका और भारत के बीच प्रस्तावित द्विपक्षीय व्यापार समझौते की बातचीत के बीच अमेरिकी प्रशासन ने टैरिफ को लेकर एक और दबाव बढ़ा दिया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत पर 25% टैरिफ की तैयारी, व्यापार समझौते पर पड़ेगा असर? विशेषज्ञों ने समझाए मायने",
+          "summary": "अमेरिकी USTR ने भारत समेत 14 अर्थव्यवस्थाओं की अतिरिक्त उत्पादन क्षमता की जांच शुरू की है। इस आधार पर भारत पर 25 फीसदी तक अतिरिक्त टैरिफ लगाने का प्रस्ताव सामने आया है। द्विपक्षीय व्यापार समझौते की बातचीत जारी है। अमेरिका और भारत के बीच प्रस्तावित द्विपक्षीय व्यापार समझौते की बातचीत के बीच अमेरिकी प्रशासन ने टैरिफ को लेकर एक और दबाव बढ़ा दिया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
       "title": "पाकिस्तान ने गोद में बिठाया तो भारत पर बरसे बांग्लादेशी स्पीकर, हमारे ही खिलाफ उगलने लगे जहर",
       "url": "https://hindi.news18.com/world/south-asia-bangladesh-speaker-hafiz-uddin-ahmad-visit-pakistan-india-water-remarks-pakistan-1971-kashmir-11013845.html",
       "source": "News18 Hindi (World)",
@@ -339,24 +699,6 @@
         "hi": {
           "title": "पाकिस्तान ने गोद में बिठाया तो भारत पर बरसे बांग्लादेशी स्पीकर, हमारे ही खिलाफ उगलने लगे जहर",
           "summary": "बांग्लादेश के संसद स्पीकर हाफिज उद्दीन अहमद ने पाकिस्तान दौरे पर भारत पर नदियों का पानी रोकने का आरोप लगाया। उन्होंने 1971 के युद्ध में मदद न करने और शेख हसीना के शासन में भारत पर निर्भरता बढ़ाने की भी निंदा की। पाकिस्तान दौरे पर पहुंचे बांग्लादेश की संसद के स्पीकर हाफिज उद्दीन अहमद ने भारत के खिलाफ कई बयान दिए.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "न्याय की मांग पर 27 नवंबर से भूख हड़ताल करेगी मां, आत्मदाह की भी दी चेतावनी",
-      "url": "https://www.amarujala.com/video/bihar/patna/bharat-tiwaris-mother-to-go-on-hunger-strike-from-november-27-demanding-justice-in-encounter-case-patna-news-c-1-1-noi1565-4972315-2026-11-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-26T07:25:25+00:00",
-      "image_url": "https://posterimage.amarujala.com/1XwsUGD.0000000.jpg?w=1200&dpr=1.0",
-      "summary": "भारत तिवारी एनकाउंटर मामले में न्याय की मांग को लेकर उनकी मां आशा देवी 27 नवंबर से भूख हड़ताल शुरू कर रही हैं। उन्होंने 26 नवंबर तक सरकार को कार्रवाई का समय दिया है। हड़ताल भोजपुर के बिलौटी गांव में अनिश्चितकालीन रहेगी। भारत तिवारी एनकाउंटर मामले में न्याय की मांग को लेकर उनकी मां आशा देवी 27 नवंबर से भोजपुर के बिलौटी गांव में अनिश्चितकालीन भूख हड़ताल शुरू करने जा रही हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "न्याय की मांग पर 27 नवंबर से भूख हड़ताल करेगी मां, आत्मदाह की भी दी चेतावनी",
-          "summary": "भारत तिवारी एनकाउंटर मामले में न्याय की मांग को लेकर उनकी मां आशा देवी 27 नवंबर से भूख हड़ताल शुरू कर रही हैं। उन्होंने 26 नवंबर तक सरकार को कार्रवाई का समय दिया है। हड़ताल भोजपुर के बिलौटी गांव में अनिश्चितकालीन रहेगी। भारत तिवारी एनकाउंटर मामले में न्याय की मांग को लेकर उनकी मां आशा देवी 27 नवंबर से भोजपुर के बिलौटी गांव में अनिश्चितकालीन भूख हड़ताल शुरू करने जा रही हैं।",
           "region": "एशिया-प्रशांत"
         }
       }
@@ -380,42 +722,6 @@
       }
     },
     {
-      "title": "सियासी दोस्ती पंजाब में, सधेगा यूपी!: अकाली दल के पुराने ख्वाब ने मारी हिलोरें, तराई की सियासत का",
-      "url": "https://www.amarujala.com/punjab/jalandhar/akali-dal-bjp-alliance-punjab-assembly-election-2027-terai-belt-of-uttar-pradesh-kumaon-division-uttarakhand-2026-11-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-26T07:13:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/punjab_ffbcd9d3bf7e2196d0ffdc1b9b9e50ee.jpeg?w=1200&dpr=1.0",
-      "summary": "पंजाब में शिरोमणि अकाली दल और भारतीय जनता पार्टी के बीच राजनीतिक समझौता हुआ है। यह गठबंधन केवल पंजाब की सत्ता की लड़ाई तक सीमित नहीं रहेगा। इसका असर उत्तर प्रदेश की तराई क्षेत्र की राजनीति पर भी पड़ने की उम्मीद है। पंजाब में शिरोमणि अकाली दल और भारतीय जनता पार्टी के बीच हुआ राजनीतिक समझौता केवल पंजाब की सत्ता की लड़ाई तक सीमित नहीं रहने वाला है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सियासी दोस्ती पंजाब में, सधेगा यूपी!: अकाली दल के पुराने ख्वाब ने मारी हिलोरें, तराई की सियासत का",
-          "summary": "पंजाब में शिरोमणि अकाली दल और भारतीय जनता पार्टी के बीच राजनीतिक समझौता हुआ है। यह गठबंधन केवल पंजाब की सत्ता की लड़ाई तक सीमित नहीं रहेगा। इसका असर उत्तर प्रदेश की तराई क्षेत्र की राजनीति पर भी पड़ने की उम्मीद है। पंजाब में शिरोमणि अकाली दल और भारतीय जनता पार्टी के बीच हुआ राजनीतिक समझौता केवल पंजाब की सत्ता की लड़ाई तक सीमित नहीं रहने वाला है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "नौ और बच्चे परिवारों से मिले; मेलानिया ट्रंप की पहल में अब तक क्या हुआ?",
-      "url": "https://www.amarujala.com/world/russian-ukrainian-children-reunited-with-families-white-house-2026-11-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-26T06:58:07+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/malnaya-tarapa_a8353084ead3439a02e17c88e0cda5a4.jpeg?w=1200&dpr=1.0",
-      "summary": "मेलानिया ट्रंप की पहल के तहत यूक्रेन से नौ बच्चे अपने परिवारों से मिले। यह युद्ध के दौरान हुई एक और मानवीय सफलता है। रूस-यूक्रेन युद्ध: नौ और बच्चे परिवारों से मिले; मेलानिया ट्रंप की पहल में अब तक क्या हुआ?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "नौ और बच्चे परिवारों से मिले; मेलानिया ट्रंप की पहल में अब तक क्या हुआ?",
-          "summary": "मेलानिया ट्रंप की पहल के तहत यूक्रेन से नौ बच्चे अपने परिवारों से मिले। यह युद्ध के दौरान हुई एक और मानवीय सफलता है। रूस-यूक्रेन युद्ध: नौ और बच्चे परिवारों से मिले; मेलानिया ट्रंप की पहल में अब तक क्या हुआ?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
       "title": "शेख हसीना की वापसी के ऐलान से बांग्लादेश में हाई अलर्ट, 108 अर्धसैनिक टुकड़ियां तैनात",
       "url": "https://www.abplive.com/news/world/bangladesh-former-pm-sheikh-hasina-return-announcement-high-alert-in-country-3219583",
       "source": "ABP Live (World)",
@@ -434,326 +740,20 @@
       }
     },
     {
-      "title": "फ्रिज के बिना भी महीनों तक खराब नहीं होते अंगूर, अफगानी किसानों ने निकाला सदियों पुराना जुगाड़",
-      "url": "https://hindi.news18.com/world/rest-of-world-afghanistan-kangina-traditional-grape-storage-technique-11013624.html",
-      "source": "News18 Hindi (World)",
+      "title": "'CJP नेता सौरव दास के खिलाफ लुकआट नोटिस...', सरकार ने हाई कोर्ट में बताया",
+      "url": "https://www.abplive.com/news/india/cjp-saurav-das-loc-passport-issue-delhi-high-court-3219563",
+      "source": "ABP Live (India)",
       "sources": [],
-      "published_at": "2026-11-26T06:40:49+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/grapes-2026-11-8878c8c0c51088c66b49eeb7e3900ef8-1200x800.jpg",
-      "summary": "अफगानिस्तान के कलाकान जिले में किसान अंगूरों को महीनों ताजा रखते हैं। वे मिट्टी और भूसे के बर्तनों में अंगूर रखकर अंधेरे कमरे में सुरक्षित रखते हैं। Afghanistan Grapes: अफगानिस्तान के काबुल के पास कलाकान जिले में किसान आज भी अंगूरों को लंबे समय तक ताजा रखने के लिए सदियों पुरानी कंगिना तकनीक अपनाते हैं. मिट्टी और भूसे से बने खास बर्तनों में अंगूर रखकर उन्हें मिट्टी से बंद कर अंधेरे कमरे में सुरक्षित रखा जाता है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "फ्रिज के बिना भी महीनों तक खराब नहीं होते अंगूर, अफगानी किसानों ने निकाला सदियों पुराना जुगाड़",
-          "summary": "अफगानिस्तान के कलाकान जिले में किसान अंगूरों को महीनों ताजा रखते हैं। वे मिट्टी और भूसे के बर्तनों में अंगूर रखकर अंधेरे कमरे में सुरक्षित रखते हैं। Afghanistan Grapes: अफगानिस्तान के काबुल के पास कलाकान जिले में किसान आज भी अंगूरों को लंबे समय तक ताजा रखने के लिए सदियों पुरानी कंगिना तकनीक अपनाते हैं. मिट्टी और भूसे से बने खास बर्तनों में अंगूर रखकर उन्हें मिट्टी से बंद कर अंधेरे कमरे में सुरक्षित रखा जाता है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "शेख हसीना अगर बांग्लादेश लौटना चाहें, तो क्या भारत एक्सट्रैडाइट करेगा? कहां उलझी डोर",
-      "url": "https://www.abplive.com/news/world/india-bangladesh-extradition-treaty-can-sheikh-hasina-return-if-she-wants-voluntarily-return-bangladesh-un-explained-3219443",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-11-26T06:27:54+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/2ac7106ce92bae0c9a273a2f367852d617956748836701317_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "शेख हसीना 16 दिसंबर को बांग्लादेश लौटने की घोषणा कर चुकी हैं। ढाका सरकार ने स्पष्ट किया कि वे औपचारिक प्रत्यर्पण प्रक्रिया के जरिए ही वापस आएंगी। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को अपने देश लौटने की घोषणा की है. उन्होंने ढाका सरकार से बिमान बांग्लादेश एयरलाइंस की फ्लाइट व्यवस्था करने की मांग भी की थी.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "शेख हसीना अगर बांग्लादेश लौटना चाहें, तो क्या भारत एक्सट्रैडाइट करेगा? कहां उलझी डोर",
-          "summary": "शेख हसीना 16 दिसंबर को बांग्लादेश लौटने की घोषणा कर चुकी हैं। ढाका सरकार ने स्पष्ट किया कि वे औपचारिक प्रत्यर्पण प्रक्रिया के जरिए ही वापस आएंगी। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को अपने देश लौटने की घोषणा की है. उन्होंने ढाका सरकार से बिमान बांग्लादेश एयरलाइंस की फ्लाइट व्यवस्था करने की मांग भी की थी.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पूर्व सांसद आनंद मोहन को झटका: करना होगा आत्मसमर्पण, बिहार सरकार का फैसला सुप्रीम कोर्ट से रद्द",
-      "url": "https://www.amarujala.com/india-news/supreme-court-quashes-anand-mohan-remission-bihar-government-orders-surrender-within-one-month-2026-11-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-26T05:58:44+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/anand-moha-supreme-court_93289a7b43461153a182281ece119e1e.jpeg?w=1200&dpr=1.0",
-      "summary": "सुप्रीम कोर्ट ने बिहार सरकार के फैसले को रद्द कर दिया। पूर्व सांसद आनंद मोहन को अब आत्मसमर्पण करना होगा। पूर्व सांसद आनंद मोहन को झटका: करना होगा आत्मसमर्पण, बिहार सरकार का फैसला सुप्रीम कोर्ट से रद्द।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पूर्व सांसद आनंद मोहन को झटका: करना होगा आत्मसमर्पण, बिहार सरकार का फैसला सुप्रीम कोर्ट से रद्द",
-          "summary": "सुप्रीम कोर्ट ने बिहार सरकार के फैसले को रद्द कर दिया। पूर्व सांसद आनंद मोहन को अब आत्मसमर्पण करना होगा। पूर्व सांसद आनंद मोहन को झटका: करना होगा आत्मसमर्पण, बिहार सरकार का फैसला सुप्रीम कोर्ट से रद्द।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "किम जोंग उन का खतरनाक प्लान, परमाणु हथियारों का जखीरा बढ़ाने का ऐलान, अमेरिका को दी चेतावनी",
-      "url": "https://hindi.news18.com/world/rest-of-world-kim-jong-un-north-korea-nuclear-weapons-facilities-visit-11013584.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-26T05:43:01+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/north-korea-12-2026-11-a152dae43865cd4173a2e88be2839b29-1200x800.jpg",
-      "summary": "किम जोंग उन ने बुधवार को उत्तर कोरिया के परमाणु केंद्रों का दौरा किया। उन्होंने हथियारों के भंडार को बढ़ाने और सैन्य अभियानों में इस्तेमाल की क्षमता विकसित करने का निर्देश दिया। उत्तर कोरिया के नेता किम जोंग उन ने बुधवार को देश के परमाणु सामग्री उत्पादन केंद्रों और हथियार अनुसंधान संस्थान का दौरा किया. उन्होंने परमाणु हथियारों का भंडार बढ़ाने और अलग-अलग सैन्य अभियानों में सामरिक परमाणु हथियारों के इस्तेमाल की क्षमता विकसित करने पर जोर दिया.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "किम जोंग उन का खतरनाक प्लान, परमाणु हथियारों का जखीरा बढ़ाने का ऐलान, अमेरिका को दी चेतावनी",
-          "summary": "किम जोंग उन ने बुधवार को उत्तर कोरिया के परमाणु केंद्रों का दौरा किया। उन्होंने हथियारों के भंडार को बढ़ाने और सैन्य अभियानों में इस्तेमाल की क्षमता विकसित करने का निर्देश दिया। उत्तर कोरिया के नेता किम जोंग उन ने बुधवार को देश के परमाणु सामग्री उत्पादन केंद्रों और हथियार अनुसंधान संस्थान का दौरा किया. उन्होंने परमाणु हथियारों का भंडार बढ़ाने और अलग-अलग सैन्य अभियानों में सामरिक परमाणु हथियारों के इस्तेमाल की क्षमता विकसित करने पर जोर दिया.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत पर 17% टैरिफ लगाने चले ट्रंप, अपने ही देश में घिरे, डेमोक्रेट्स बोले- अमेरिकी जनता भुगतेगी कीमत",
-      "url": "https://hindi.news18.com/world/america-donald-trump-new-tariffs-proposal-india-14-countries-us-democrats-criticism-11013453.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-26T05:10:10+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/donald-trump-2026-11-25T060053.739-2026-11-013077fe64e05a88875d7bee6ff4aba4-1200x800.jpg",
-      "summary": "अमेरिका ने भारत समेत 14 देशों पर 20 प्रतिशत तक आयात शुल्क लगाने का प्रस्ताव रखा है। भारत पर 17 प्रतिशत टैरिफ की तैयारी चल रही है। डेमोक्रेट्स ने आम परिवारों पर आर्थिक बोझ बढ़ने का आरोप लगाया। US Donald Trump News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नई टैरिफ योजना पर विवाद शुरू हो गया है. अमेरिका ने भारत समेत 14 देशों से आने वाले सामान पर 20% तक आयात शुल्क लगाने का प्रस्ताव दिया है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत पर 17% टैरिफ लगाने चले ट्रंप, अपने ही देश में घिरे, डेमोक्रेट्स बोले- अमेरिकी जनता भुगतेगी कीमत",
-          "summary": "अमेरिका ने भारत समेत 14 देशों पर 20 प्रतिशत तक आयात शुल्क लगाने का प्रस्ताव रखा है। भारत पर 17 प्रतिशत टैरिफ की तैयारी चल रही है। डेमोक्रेट्स ने आम परिवारों पर आर्थिक बोझ बढ़ने का आरोप लगाया। US Donald Trump News: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप की नई टैरिफ योजना पर विवाद शुरू हो गया है. अमेरिका ने भारत समेत 14 देशों से आने वाले सामान पर 20% तक आयात शुल्क लगाने का प्रस्ताव दिया है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बाढ़ के बाद लापता 213 भारतीयों को मृत घोषित करने की प्रक्रिया शुरू; परिवार कब तक दर्ज करा हैं",
-      "url": "https://www.amarujala.com/world/nepal-begins-process-of-declaring-213-indians-missing-in-flash-floods-presumed-dead-news-in-hindi-2026-11-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-26T05:02:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/27/nepal-flash-flood_172a394d48c0cb8c361a5672fa77505a.gif?w=1200&dpr=1.0",
-      "summary": "नेपाल में बाढ़ के बाद लापता 213 भारतीय नागरिकों को मृत घोषित करने की प्रक्रिया शुरू हुई है। प्रशासन ने परिवारों को इस प्रक्रिया में सहयोग करने के लिए कहा है। बाढ़ के बाद लापता 213 भारतीयों को मृत घोषित करने की प्रक्रिया शुरू; परिवार कब तक दर्ज करा हैं।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बाढ़ के बाद लापता 213 भारतीयों को मृत घोषित करने की प्रक्रिया शुरू; परिवार कब तक दर्ज करा हैं",
-          "summary": "नेपाल में बाढ़ के बाद लापता 213 भारतीय नागरिकों को मृत घोषित करने की प्रक्रिया शुरू हुई है। प्रशासन ने परिवारों को इस प्रक्रिया में सहयोग करने के लिए कहा है। बाढ़ के बाद लापता 213 भारतीयों को मृत घोषित करने की प्रक्रिया शुरू; परिवार कब तक दर्ज करा हैं।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "मियामी एयरपोर्ट पर रनवे से फिसला फेडएक्स का विमान, उड़ानों पर असर; क्या हुआ?",
-      "url": "https://www.amarujala.com/world/fedex-cargo-aircraft-overran-a-runway-at-miami-international-airport-on-wednesday-night-2026-11-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-26T04:54:39+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/amaraka-ma-tal-vamana-hathasa_c2101b2a5bdf98fdbe0c66c98687a5bb.jpeg?w=1200&dpr=1.0",
-      "summary": "मियामी एयरपोर्ट पर एक फेडएक्स विमान रनवे से फिसल गया। इस घटना के बाद हवाई अड्डे पर कई उड़ानें प्रभावित हुईं और यात्रियों को देरी का सामना करना पड़ा। अमेरिका: मियामी एयरपोर्ट पर रनवे से फिसला फेडएक्स का विमान, उड़ानों पर असर; क्या हुआ?",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मियामी एयरपोर्ट पर रनवे से फिसला फेडएक्स का विमान, उड़ानों पर असर; क्या हुआ?",
-          "summary": "मियामी एयरपोर्ट पर एक फेडएक्स विमान रनवे से फिसल गया। इस घटना के बाद हवाई अड्डे पर कई उड़ानें प्रभावित हुईं और यात्रियों को देरी का सामना करना पड़ा। अमेरिका: मियामी एयरपोर्ट पर रनवे से फिसला फेडएक्स का विमान, उड़ानों पर असर; क्या हुआ?",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप के प्रस्ताव को किम जोंग उन ने किया नजरअंदाज, और ज्यादा परमाणु हथियार बनाने की खाई कसम",
-      "url": "https://www.amarujala.com/world/north-korea-kim-jong-un-ignores-trump-proposal-vows-to-build-even-more-nuclear-weapons-2026-11-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-26T04:53:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/utatara-karaya-ka-tanashaha-nata-kama-jaga-una_e559789168f7f4d46e123cd6a3615b8f.jpeg?w=1200&dpr=1.0",
-      "summary": "किम जोंग उन ने ट्रंप के प्रस्ताव को नजरअंदाज करते हुए और अधिक परमाणु हथियार बनाने की कसम खाई। उन्होंने अपनी परमाणु ताकत को और मजबूत करने पर जोर दिया। ट्रंप के प्रस्ताव को किम जोंग उन ने किया नजरअंदाज, और ज्यादा परमाणु हथियार बनाने की खाई कसम।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप के प्रस्ताव को किम जोंग उन ने किया नजरअंदाज, और ज्यादा परमाणु हथियार बनाने की खाई कसम",
-          "summary": "किम जोंग उन ने ट्रंप के प्रस्ताव को नजरअंदाज करते हुए और अधिक परमाणु हथियार बनाने की कसम खाई। उन्होंने अपनी परमाणु ताकत को और मजबूत करने पर जोर दिया। ट्रंप के प्रस्ताव को किम जोंग उन ने किया नजरअंदाज, और ज्यादा परमाणु हथियार बनाने की खाई कसम।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पुतिन के घर में घुसकर यूक्रेन का हमला, एयरबेस पर 5 फाइटर जेट किए तबाह, रूस ने भी किया पलटवार",
-      "url": "https://hindi.news18.com/world/europe-ukraine-attack-russia-savasleyka-airbase-five-jets-damaged-11013229.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-26T04:36:21+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/fighter-jet-russia-2026-11-066272f72d100f9dbf2409ace3f47561-1200x800.jpg",
-      "summary": "यूक्रेन के जनरल स्टाफ ने दावा किया कि उसकी सेना ने रूस के सवास्लेयका एयरबेस पर हमला किया। इसमें तीन MiG-31 और दो Su-34 लड़ाकू विमानों को नुकसान पहुंचा। रूसी सेना ने कीव पर बैलिस्टिक मिसाइलें दागीं, जिससे शॉपिंग सेंटर और अन्य इमारतों को क्षति हुई। रूस-यूक्रेन युद्ध में हमले तेज हो गए हैं. यूक्रेन के जनरल स्टाफ ने दावा किया है कि उसकी सेना ने रूस के सवास्लेयका एयरबेस पर हमला कर तीन MiG-31 और दो Su-34 लड़ाकू विमानों को नुकसान पहुंचाया.",
+      "published_at": "2026-11-26T06:31:51+00:00",
+      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/aaa8a26401ce857658376e9dcd8cf8241795675249502425_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "summary": "केंद्र सरकार ने दिल्ली हाई कोर्ट में बताया कि मुंबई पुलिस ने सौरव दास के खिलाफ लुकआउट सर्कुलर जारी किया था। इसी आधार पर उन्हें दिल्ली एयरपोर्ट पर लंदन जाने से रोका गया। दास ने अधिकारियों द्वारा अमानवीय व्यवहार का आरोप लगाया था। कॉकरोच जनता पार्टी (CJP) के प्रवक्ता सौरव दास को दिल्ली एयरपोर्ट पर लंदन जाने से रोके जाने के मामले में विवाद बढ़ता जा रहा है.",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "पुतिन के घर में घुसकर यूक्रेन का हमला, एयरबेस पर 5 फाइटर जेट किए तबाह, रूस ने भी किया पलटवार",
-          "summary": "यूक्रेन के जनरल स्टाफ ने दावा किया कि उसकी सेना ने रूस के सवास्लेयका एयरबेस पर हमला किया। इसमें तीन MiG-31 और दो Su-34 लड़ाकू विमानों को नुकसान पहुंचा। रूसी सेना ने कीव पर बैलिस्टिक मिसाइलें दागीं, जिससे शॉपिंग सेंटर और अन्य इमारतों को क्षति हुई। रूस-यूक्रेन युद्ध में हमले तेज हो गए हैं. यूक्रेन के जनरल स्टाफ ने दावा किया है कि उसकी सेना ने रूस के सवास्लेयका एयरबेस पर हमला कर तीन MiG-31 और दो Su-34 लड़ाकू विमानों को नुकसान पहुंचाया.",
+          "title": "'CJP नेता सौरव दास के खिलाफ लुकआट नोटिस...', सरकार ने हाई कोर्ट में बताया",
+          "summary": "केंद्र सरकार ने दिल्ली हाई कोर्ट में बताया कि मुंबई पुलिस ने सौरव दास के खिलाफ लुकआउट सर्कुलर जारी किया था। इसी आधार पर उन्हें दिल्ली एयरपोर्ट पर लंदन जाने से रोका गया। दास ने अधिकारियों द्वारा अमानवीय व्यवहार का आरोप लगाया था। कॉकरोच जनता पार्टी (CJP) के प्रवक्ता सौरव दास को दिल्ली एयरपोर्ट पर लंदन जाने से रोके जाने के मामले में विवाद बढ़ता जा रहा है.",
           "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मेक इन इंडिया से अमेरिका को क्यों लग रहा डर? जानें टैरिफ की धमकी के पीछे क्या है रणनीति",
-      "url": "https://www.abplive.com/news/world/why-us-is-threatening-india-with-tariffs-trump-administration-make-in-india-pli-atmanirbhar-bharat-manufacturing-trade-dispute-3219491",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-11-26T04:18:23+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/f5e8476b5254d8d1a3ad6e053ea8b7a81795666670768425_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी प्रशासन भारत की मेक इन इंडिया और पीएलआई योजनाओं को खतरा मान रहा है। ट्रंप प्रशासन का कहना है कि भारत की औद्योगिक रणनीति अमेरिकी कारोबार और रोजगार को प्रभावित करती है। इसी कारण अमेरिका टैरिफ की धमकी दे रहा है। भारत को दुनिया का बड़ा मैन्युफैक्चरिंग हब बनाने की कोशिश अब अमेरिका के निशाने पर है. मेक इन इंडिया, आत्मनिर्भर भारत और प्रोडक्शन लिंक्ड इंसेंटिव (पीएलआई) जैसी योजनाओं के जरिए भारत घरेलू उत्पादन बढ़ाने, विदेशी निवेश आकर्षित करने और आयात पर निर्भरता घटाने में जुटा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मेक इन इंडिया से अमेरिका को क्यों लग रहा डर? जानें टैरिफ की धमकी के पीछे क्या है रणनीति",
-          "summary": "अमेरिकी प्रशासन भारत की मेक इन इंडिया और पीएलआई योजनाओं को खतरा मान रहा है। ट्रंप प्रशासन का कहना है कि भारत की औद्योगिक रणनीति अमेरिकी कारोबार और रोजगार को प्रभावित करती है। इसी कारण अमेरिका टैरिफ की धमकी दे रहा है। भारत को दुनिया का बड़ा मैन्युफैक्चरिंग हब बनाने की कोशिश अब अमेरिका के निशाने पर है. मेक इन इंडिया, आत्मनिर्भर भारत और प्रोडक्शन लिंक्ड इंसेंटिव (पीएलआई) जैसी योजनाओं के जरिए भारत घरेलू उत्पादन बढ़ाने, विदेशी निवेश आकर्षित करने और आयात पर निर्भरता घटाने में जुटा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ऑक्सफोर्ड में भारतीय छात्रा से नस्लभेद, महिला बोली- 'तुमसे बदबू आती है'; फिर क्या हुआ?",
-      "url": "https://www.amarujala.com/world/you-smell-really-really-bad-indian-phd-student-at-oxford-recounts-racist-encounter-in-uk-2026-11-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-26T04:17:06+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/paugdhata-chhatara-oikasafarada-vashavavathayalya_cb17d4c60721e9b8163b0b84f19ae4bf.jpeg?w=1200&dpr=1.0",
-      "summary": "ऑक्सफोर्ड में एक भारतीय छात्रा के साथ नस्लभेद का मामला सामने आया है। एक महिला ने उसे बदबू आने का आरोप लगाया। इस घटना ने प्रतिष्ठित शिक्षण संस्थानों में नस्लवाद पर सवाल खड़े कर दिए हैं। ब्रिटेन: ऑक्सफोर्ड में भारतीय छात्रा से नस्लभेद, महिला बोली- 'तुमसे बदबू आती है'; फिर क्या हुआ?",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ऑक्सफोर्ड में भारतीय छात्रा से नस्लभेद, महिला बोली- 'तुमसे बदबू आती है'; फिर क्या हुआ?",
-          "summary": "ऑक्सफोर्ड में एक भारतीय छात्रा के साथ नस्लभेद का मामला सामने आया है। एक महिला ने उसे बदबू आने का आरोप लगाया। इस घटना ने प्रतिष्ठित शिक्षण संस्थानों में नस्लवाद पर सवाल खड़े कर दिए हैं। ब्रिटेन: ऑक्सफोर्ड में भारतीय छात्रा से नस्लभेद, महिला बोली- 'तुमसे बदबू आती है'; फिर क्या हुआ?",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "‘तुमसे बहुत बुरी बदबू आती है’: ऑक्सफोर्ड में भारतीय PHD छात्रा ने बयां किया नस्लीय टिप्पणी का दर्द",
-      "url": "https://www.patrika.com/world-news/indian-phd-student-kamakshi-oxford-racist-encounter-uk-21088384",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-26T03:43:26+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Kamakshi.webp",
-      "summary": "ऑक्सफोर्ड यूनिवर्सिटी में पीएचडी कर रही भारतीय छात्रा कामाक्षी ने इंस्टाग्राम पर वीडियो साझा किया। उसने शहर के एक स्टोर में हुए नस्लीय भेदभाव का अनुभव बताया। उसने प्रतिष्ठित संस्थानों में नस्लवाद पर भी सवाल उठाए। Oxford University Racism: ऑक्सफोर्ड यूनिवर्सिटी में PhD कर रही भारतीय छात्रा कामाक्षी का एक वीडियो ऑनलाइन चर्चा में है। इंस्टाग्राम पर साझा इस वीडियो में उन्होंने शहर के एक स्टोर में हुए नस्लीय भेदभाव से जुड़े अनुभव के बारे में बताया है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "‘तुमसे बहुत बुरी बदबू आती है’: ऑक्सफोर्ड में भारतीय PHD छात्रा ने बयां किया नस्लीय टिप्पणी का दर्द",
-          "summary": "ऑक्सफोर्ड यूनिवर्सिटी में पीएचडी कर रही भारतीय छात्रा कामाक्षी ने इंस्टाग्राम पर वीडियो साझा किया। उसने शहर के एक स्टोर में हुए नस्लीय भेदभाव का अनुभव बताया। उसने प्रतिष्ठित संस्थानों में नस्लवाद पर भी सवाल उठाए। Oxford University Racism: ऑक्सफोर्ड यूनिवर्सिटी में PhD कर रही भारतीय छात्रा कामाक्षी का एक वीडियो ऑनलाइन चर्चा में है। इंस्टाग्राम पर साझा इस वीडियो में उन्होंने शहर के एक स्टोर में हुए नस्लीय भेदभाव से जुड़े अनुभव के बारे में बताया है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "भारत से ट्रेड डील फाइनल होने पर अमेरिका की तरफ से 17% तक सीमित होगा टैरिफ",
-      "url": "https://www.patrika.com/world-news/us-to-cap-india-tariff-at-17-percent-if-trade-deal-reached-21088292",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-26T03:12:36+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/pm-modi-and-trump-joint-pc.webp",
-      "summary": "भारत और अमेरिका के बीच ट्रेड डील अंतिम चरण में है। बातचीत जारी है और डील फाइनल होने पर अमेरिका की तरफ से टैरिफ 17% तक सीमित होगा। ट्रंप प्रशासन पिछले साल लगाए गए टैरिफ को समझौते का हिस्सा बना रहा है। भारत (India) और अमेरिका (United States of America) के बीच ट्रेड डील (Trade Deal) लंबे समय से चर्चा का विषय बनी हुई है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भारत से ट्रेड डील फाइनल होने पर अमेरिका की तरफ से 17% तक सीमित होगा टैरिफ",
-          "summary": "भारत और अमेरिका के बीच ट्रेड डील अंतिम चरण में है। बातचीत जारी है और डील फाइनल होने पर अमेरिका की तरफ से टैरिफ 17% तक सीमित होगा। ट्रंप प्रशासन पिछले साल लगाए गए टैरिफ को समझौते का हिस्सा बना रहा है। भारत (India) और अमेरिका (United States of America) के बीच ट्रेड डील (Trade Deal) लंबे समय से चर्चा का विषय बनी हुई है।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "बांग्लादेश में कपड़ा मजदूरों की सैलरी में 36% की बढ़ोतरी, भारत के लिए क्या है बड़ा सबक?",
-      "url": "https://www.abplive.com/news/world/explained-bangladesh-hikes-garment-workers-wages-by-36-percent-what-can-india-learn-from-it-3219463",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-11-26T02:52:54+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/e0c4a049ae17197c2f09d045f6cd710a1795661456029130_original.png?impolicy=abp_cdn&imwidth=1200",
-      "summary": "बांग्लादेश सरकार ने कपड़ा मजदूरों की न्यूनतम मासिक मजदूरी 12,500 टका से बढ़ाकर 17,000 टका कर दी। यह करीब 36 फीसदी की बढ़ोतरी है। फैसले के बाद लंबे समय तक चली हड़तालें और सड़क जाम समाप्त हुए। कई दिनों तक सड़कें जाम रहीं, फैक्ट्रियां बंद हुईं और पुलिस के साथ झड़पें हुईं. करीब 36 फीसदी की यह बढ़ोतरी ऐसे समय हुई है, जब बांग्लादेश का गारमेंट उद्योग वैश्विक बाजार में अपनी प्रतिस्पर्धा बनाए रखने की चुनौती से जूझ रहा है.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "बांग्लादेश में कपड़ा मजदूरों की सैलरी में 36% की बढ़ोतरी, भारत के लिए क्या है बड़ा सबक?",
-          "summary": "बांग्लादेश सरकार ने कपड़ा मजदूरों की न्यूनतम मासिक मजदूरी 12,500 टका से बढ़ाकर 17,000 टका कर दी। यह करीब 36 फीसदी की बढ़ोतरी है। फैसले के बाद लंबे समय तक चली हड़तालें और सड़क जाम समाप्त हुए। कई दिनों तक सड़कें जाम रहीं, फैक्ट्रियां बंद हुईं और पुलिस के साथ झड़पें हुईं. करीब 36 फीसदी की यह बढ़ोतरी ऐसे समय हुई है, जब बांग्लादेश का गारमेंट उद्योग वैश्विक बाजार में अपनी प्रतिस्पर्धा बनाए रखने की चुनौती से जूझ रहा है.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "ट्रंप को कोर्ट से बड़ा झटका: जन्म से नागरिकता छीनने की नई कोशिश पर लगाई रोक; जानें फैसले में",
-      "url": "https://www.amarujala.com/world/setback-for-trump-in-court-new-attempt-to-revoke-birthright-citizenship-blocked-find-out-what-ruling-says-2026-11-26",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-26T02:51:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/danalda-tarapa-amaraka-rashhatarapata_48ec2b9b5c2aa78efe8d4394b2ed026d.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिकी अदालत ने ट्रंप प्रशासन की जन्म से नागरिकता छीनने की नई कोशिश पर रोक लगा दी। यह फैसला प्रशासन के लिए बड़ा झटका है। अदालत ने इस कदम को गैर-कानूनी माना है। ट्रंप को कोर्ट से बड़ा झटका: जन्म से नागरिकता छीनने की नई कोशिश पर लगाई रोक; जानें फैसले में।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "ट्रंप को कोर्ट से बड़ा झटका: जन्म से नागरिकता छीनने की नई कोशिश पर लगाई रोक; जानें फैसले में",
-          "summary": "अमेरिकी अदालत ने ट्रंप प्रशासन की जन्म से नागरिकता छीनने की नई कोशिश पर रोक लगा दी। यह फैसला प्रशासन के लिए बड़ा झटका है। अदालत ने इस कदम को गैर-कानूनी माना है। ट्रंप को कोर्ट से बड़ा झटका: जन्म से नागरिकता छीनने की नई कोशिश पर लगाई रोक; जानें फैसले में।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "स्विट्जरलैंड पर भड़के किम जोंग उन, दूतावास किया बंद, राजदूत को देश छोड़ने का आदेश",
-      "url": "https://hindi.news18.com/world/rest-of-world-north-korea-closes-swiss-diplomatic-office-sanctions-dispute-11013156.html",
-      "source": "News18 Hindi (World)",
-      "sources": [],
-      "published_at": "2026-11-26T02:45:47+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/kim-jong-north-korea-2026-11-64ff3db2cbb40dddf477b5519e5d7649-1200x800.jpg",
-      "summary": "उत्तर कोरिया ने स्विट्जरलैंड के राजदूत को 48 घंटे में देश छोड़ने का आदेश दिया। प्योंगयांग स्थित स्विस कार्यालय को बंद करने का भी निर्देश मिला। विवाद की वजह वॉनसन के सॉन्गडोवॉन कैंप पर स्विट्जरलैंड का प्रतिबंध है। उत्तर कोरिया ने स्विट्जरलैंड के राजनयिक प्रतिनिधि को 48 घंटे में देश छोड़ने का आदेश देकर प्योंगयांग स्थित स्विस कार्यालय बंद करने को कहा है.",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "स्विट्जरलैंड पर भड़के किम जोंग उन, दूतावास किया बंद, राजदूत को देश छोड़ने का आदेश",
-          "summary": "उत्तर कोरिया ने स्विट्जरलैंड के राजदूत को 48 घंटे में देश छोड़ने का आदेश दिया। प्योंगयांग स्थित स्विस कार्यालय को बंद करने का भी निर्देश मिला। विवाद की वजह वॉनसन के सॉन्गडोवॉन कैंप पर स्विट्जरलैंड का प्रतिबंध है। उत्तर कोरिया ने स्विट्जरलैंड के राजनयिक प्रतिनिधि को 48 घंटे में देश छोड़ने का आदेश देकर प्योंगयांग स्थित स्विस कार्यालय बंद करने को कहा है.",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "'जासूसी के कोई सबूत नहीं', ऐलिस-जेनसेन हुआंग के अफेयर पर US संसद को क्या बताया गया",
-      "url": "https://www.abplive.com/news/world/nvidia-ceo-jensen-huang-affair-no-evidence-against-alice-huang-what-told-us-congress-3219456",
-      "source": "ABP Live (World)",
-      "sources": [],
-      "published_at": "2026-11-26T02:40:27+00:00",
-      "image_url": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/bb4fcbb617594154693f539c9373c35b17956589742921200_original.jpg?impolicy=abp_cdn&imwidth=1200",
-      "summary": "अमेरिकी संसद को गोपनीय ब्रीफिंग में बताया गया कि जेनसेन हुआंग के साथ अफेयर वाली चीनी एग्जीक्यूटिव को जासूसी के लिए निर्देश नहीं दिया गया। अधिकारियों का कहना है कि मौजूदा सबूत इस बात का समर्थन नहीं करते। अमेरिकी संसद (कांग्रेस) के अधिकारियों को मंगलवार को एक बेहद गोपनीय ब्रीफिंग में बताया गया कि इस बात का कोई सबूत नहीं है कि जेनसेन हुआंग के साथ अफेयर रखने वाली चीनी टेक एग्जीक्यूटिव को एनवीडिया (Nvidia) के CEO की जासूसी करने के लिए चीनी खुफिया एजेंसियों ने निर्देश दिया था.",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'जासूसी के कोई सबूत नहीं', ऐलिस-जेनसेन हुआंग के अफेयर पर US संसद को क्या बताया गया",
-          "summary": "अमेरिकी संसद को गोपनीय ब्रीफिंग में बताया गया कि जेनसेन हुआंग के साथ अफेयर वाली चीनी एग्जीक्यूटिव को जासूसी के लिए निर्देश नहीं दिया गया। अधिकारियों का कहना है कि मौजूदा सबूत इस बात का समर्थन नहीं करते। अमेरिकी संसद (कांग्रेस) के अधिकारियों को मंगलवार को एक बेहद गोपनीय ब्रीफिंग में बताया गया कि इस बात का कोई सबूत नहीं है कि जेनसेन हुआंग के साथ अफेयर रखने वाली चीनी टेक एग्जीक्यूटिव को एनवीडिया (Nvidia) के CEO की जासूसी करने के लिए चीनी खुफिया एजेंसियों ने निर्देश दिया था.",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "पेट्रोल के टैंकर में लगी भीषण आग, मिस्र में 31 लोगों की मौत",
-      "url": "https://www.patrika.com/world-news/petrol-tanker-fire-in-egypt-31-people-dead-21088223",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-26T02:36:56+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/egypt-petrol-tanker-fire.webp",
-      "summary": "मिस्र के गीज़ा प्रांत में पेट्रोल टैंकर में लगी आग से 31 लोगों की मौत हो गई। हादसा अल-वर्राक जिले के रिंग रोड पर हुआ। टैंकर पलटने के बाद आसपास के 27 वाहनों में भी आग लग गई। मिस्र (Egypt) की राजधानी काहिरा (Cairo) के पास बुधवार की रात पेट्रोल के एक टैंकर में भीषण आग लग गई। यह हादसा गीज़ा (Giza) प्रांत के अल-वर्राक (Al-Warraq) जिले में रिंग रोड पर हुआ, जिससे हाहाकार मच गया।",
-      "region": "Middle East & Africa",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पेट्रोल के टैंकर में लगी भीषण आग, मिस्र में 31 लोगों की मौत",
-          "summary": "मिस्र के गीज़ा प्रांत में पेट्रोल टैंकर में लगी आग से 31 लोगों की मौत हो गई। हादसा अल-वर्राक जिले के रिंग रोड पर हुआ। टैंकर पलटने के बाद आसपास के 27 वाहनों में भी आग लग गई। मिस्र (Egypt) की राजधानी काहिरा (Cairo) के पास बुधवार की रात पेट्रोल के एक टैंकर में भीषण आग लग गई। यह हादसा गीज़ा (Giza) प्रांत के अल-वर्राक (Al-Warraq) जिले में रिंग रोड पर हुआ, जिससे हाहाकार मच गया।",
-          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     }
