@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 27, 2026 00:18 IST
+**अपडेट:** November 27, 2026 07:30 IST
 
 ---
 
 ## यूरोप और रूस
 
 ### [यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?](https://www.amarujala.com/world/donald-trump-nato-chief-mark-rutte-push-russia-to-avoid-any-actions-that-would-expand-the-war-with-ukraine-2026-11-27)
-*Amar Ujala World* - Nov 27, 12:07 IST (iso: 2026-11-27T06:37:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/26/danalda-tarapa-oura-nata-mahasacava-maraka-rata_5db2533e5a2c5e584ef1d34dfdcca1d2.jpeg?w=1200&dpr=1.0 -->
+*Amar Ujala World* - Nov 27, 12:20 IST (iso: 2026-11-27T06:50:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/danalda-tarapa-oura-nata-mahasacava-maraka-rata_e3f4ceefa557f73de5ceacc5c26de35e.jpeg?w=1200&dpr=1.0 -->
 
 ट्रंप और नाटो महासचिव मार्क रूट्टे ने रूस से अपील की कि वह यूक्रेन युद्ध को विस्तार न दें। दोनों ने सैन्य कार्रवाई रोकने पर जोर दिया। बैठक का उद्देश्य तनाव को कम करना था। अमेरिका: यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?
 
-### [8 करोड़ लोगों पर बरसेगी आसमानी आफत, 6000 फ्लाइटें देरी से उड़ रहीं, सड़कों पर अफरा तफरी](https://hindi.news18.com/world/america-us-east-coast-storm-6000-flight-delays-flooding-power-outage-11013961.html)
-*News18 Hindi (World)* - Nov 26, 13:48 IST (iso: 2026-11-26T08:18:41+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/weather-3-2026-11-5fd8a8fd7fc136d43e151e665d760327-1200x800.jpg -->
+### [जनवरी सत्र के लिए 14 लाख से ज्यादा आवेदन, आज से खुलेगी करेक्शन विंडो; जानें क्या बदल पाएंगे](https://www.amarujala.com/education/jee-main-2027-registration-over-14-lakh-candidates-apply-for-january-session-correction-window-opens-today-2026-11-27)
+*Amar Ujala National* - Nov 27, 07:15 IST (iso: 2026-11-27T01:45:25+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/jee-main-2027_1ffcdd73dd30b72143620d098e9daaa4.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका के पूर्वी तट पर तूफान ने जॉर्जिया से मैसाचुसेट्स तक 8 करोड़ लोगों को प्रभावित किया। 6000 से अधिक उड़ानें देरी हुईं और कई रद्द हो गईं। तेज हवाओं और भारी बारिश से तटीय इलाकों में बाढ़ का खतरा बना हुआ है। अमेरिका के पूर्वी तट पर शक्तिशाली तूफान ने भारी तबाही का खतरा पैदा कर दिया है. जॉर्जिया से मैसाचुसेट्स तक 8 करोड़ से ज्यादा लोग मौसम अलर्ट के दायरे में हैं.
+जेईई मेन 2027 जनवरी सत्र के लिए 14 लाख उम्मीदवारों ने आवेदन किया। नेशनल टेस्टिंग एजेंसी ने फीस जमा करने की पुष्टि की। 27 से 29 नवंबर तक करेक्शन विंडो खुली रहेगी। जेईई मेन 2027 जनवरी सत्र के लिए 14 लाख से ज्यादा उम्मीदवारों ने आवेदन किया है। राष्ट्रीय परीक्षा एजेंसी के अनुसार, कुल 14,06,780 उम्मीदवारों ने फीस जमा की है।
 
-### ['CJP नेता सौरव दास के खिलाफ लुकआट नोटिस...', सरकार ने हाई कोर्ट में बताया](https://www.abplive.com/news/india/cjp-saurav-das-loc-passport-issue-delhi-high-court-3219563)
-*ABP Live (India)* - Nov 26, 12:01 IST (iso: 2026-11-26T06:31:51+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/aaa8a26401ce857658376e9dcd8cf8241795675249502425_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [16 साल के भारतीय AI टैलेंट राउल जॉन से मिले पुतिन, रूसी भाषा में नमस्कार सुन मुस्कुराने लगे](https://hindi.news18.com/news/nation/16-year-old-indian-ai-innovator-raul-john-aju-met-russian-president-vladimir-putin-11015578.html)
+*News18 Hindi (World)* - Nov 27, 07:03 IST (iso: 2026-11-27T01:33:19+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Putin-6-2026-11-b5da0d0b111334e4c8b3c3c24615d05d-1200x800.jpg -->
 
-केंद्र सरकार ने दिल्ली हाई कोर्ट में बताया कि मुंबई पुलिस ने सौरव दास के खिलाफ लुकआउट सर्कुलर जारी किया था। इसी आधार पर उन्हें दिल्ली एयरपोर्ट पर लंदन जाने से रोका गया। दास ने अधिकारियों द्वारा अमानवीय व्यवहार का आरोप लगाया था। कॉकरोच जनता पार्टी (CJP) के प्रवक्ता सौरव दास को दिल्ली एयरपोर्ट पर लंदन जाने से रोके जाने के मामले में विवाद बढ़ता जा रहा है.
+16 वर्षीय राउल जॉन अजू ने मॉस्को में पुतिन से मुलाकात की। 26 नवंबर को एआई जर्नी कॉन्फ्रेंस के दौरान बातचीत हुई। पुतिन ने उनके काम की तारीफ की। Raul John Aju Meets Putin: भारत के 16 वर्षीय AI इनोवेटर राउल जॉन अजू ने रूस के मॉस्को में राष्ट्रपति व्लादिमीर पुतिन से मुलाकात की है. उनकी इस उपलब्धि से देश का नाम रोशन हुआ है.
+
+### [न्यूजीलैंड एक विकेट पर 100 के पार, लाथम का अर्धशतक, गुरनूर ने कॉनवे को पवेलियन भेजा](https://www.amarujala.com/live/cricket/ind-vs-nz-2nd-test-live-score-updates-playing-11-commentary-india-vs-new-zealand-live-updates-christchurch-2026-11-27)
+*Amar Ujala Breaking* - Nov 27, 06:58 IST (iso: 2026-11-27T01:28:28+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/ind-vs-nz-2nd-test-india-vs-new-zealand-india-vs-new-zealand-live-score-ind-vs-nz-live-updates-i_e160770dc6e0b65b4d635d3e6c3c66ae.jpeg?w=1200&dpr=1.0 -->
+
+क्राइस्टचर्च के हेगली ओवल में भारत और न्यूजीलैंड के बीच दूसरा टेस्ट मैच शुरू हो गया है। न्यूजीलैंड ने एक विकेट पर 100 रन का लक्ष्य पार कर लिया है। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। आज से भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज के दूसरे मुकाबले का आगाज हो रहा है।
+
+### ['पुतिन से अच्छे रिश्ते रखना जरूरी': ट्रंप बोले- रूस के साथ डील कर रोकना चाहते हैं युद्ध में हो रही](https://www.amarujala.com/world/donald-trump-says-putin-wants-deal-end-ukraine-war-stop-killings-2026-11-27)
+*Amar Ujala World* - Nov 27, 06:43 IST (iso: 2026-11-27T01:13:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/danalda-tarapa-amaraka-rashhatarapata_31c465e5f6013da70671012347846087.jpeg?w=1200&dpr=1.0 -->
+
+डोनाल्ड ट्रंप ने कहा कि पुतिन से अच्छे रिश्ते रखना जरूरी है। वे रूस के साथ समझौते के जरिए युद्ध में हो रही मौतों को रोकना चाहते हैं। 'पुतिन से अच्छे रिश्ते रखना जरूरी': ट्रंप बोले- रूस के साथ डील कर रोकना चाहते हैं युद्ध में हो रही।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [PoK कटकर अलग होने से पहले पाकिस्तान की आखिरी कोशिश, जिन्हें आतंकवादी बताया अब उनकी चिरौरी पर मजबूर](https://hindi.news18.com/world/pakistan-pakistan-last-bid-to-save-pok-assembly-sets-conditions-to-talk-with-banned-jaac-amid-rising-unrest-11015503.html)
-*News18 Hindi (World)* - Nov 27, 00:07 IST (iso: 2026-11-26T18:37:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/PoK-Protest-2026-11-c3ccf033a785261105feb77b9a980e39-1200x800.jpg -->
+### ['दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर? बुलंद हैं आवामी लीग के](https://hindi.news18.com/world/south-asia-bangladesh-state-minister-denies-sheikh-hasina-return-after-awami-league-calls-shutdown-11015605.html)
+*News18 Hindi (World)* - Nov 27, 07:22 IST (iso: 2026-11-27T01:52:52+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Tarique-Rahman-Sheikh-Hasina-2026-08-1ebb72e3d455b3ba5c02da3de4cf2f3e-1200x800.jpg -->
 
-पाकिस्तान सरकार ने PoK में विरोध के बीच बातचीत की शर्तें रखी हैं। पहले बैन किए गए JAAC नेताओं से अब वार्ता करनी पड़ रही है। यह कदम सरकार की मजबूरी को दर्शाता है। PoK में विरोध और बिगड़ते हालात के बीच पाकिस्तान सरकार ने बातचीत की शर्तें रखी हैं. पर असलियत ये है कि ये सख्ती नहीं, मजबूरी है.
+बांग्लादेश की सरकार ने शेख हसीना की वापसी को खारिज किया। मंत्रियों ने कहा कि दिसंबर में सिर्फ सर्दी आएगी। आवामी लीग के हौसले बुलंद हैं। सियासी बवाल बढ़ता जा रहा है। Bangladesh Sheikh Hasina Return Turmoil: बांग्लादेश की पूर्व पीएम शेख हसीना की वापसी को लेकर वहां सियासी बवाल बढ़ता ही जा रहा है. 'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर?
 
-### [सानिया-हिना के बाद अब राबिया, महिला पत्रकारों के खून से सना पाकिस्तान, अब खतरे में किसकी जिंदगी?](https://hindi.news18.com/world/pakistan-sana-and-hina-anchor-rabia-ahsan-shot-dead-in-rawalpindi-rising-violence-against-women-and-journalists-in-pakistan-11015453.html)
-*News18 Hindi (World)* - Nov 26, 23:34 IST (iso: 2026-11-26T18:04:37+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Rabia-Ahsan-Case-2026-11-8216ea048a24867cc903fb0ad8ff6b9c-1200x800.jpg -->
+### ['बंद कर देंगे पूरा पाकिस्तान', मौलाना डीजल ने किया पंजाब बंद का ऐलान, अब होगा शहबाज का असली](https://hindi.news18.com/world/pakistan-fazlur-rehman-calls-showdown-with-islamabad-shehbaz-government-doing-roadblocks-raids-revolt-ws-l-11015570.html)
+*News18 Hindi (World)* - Nov 27, 06:29 IST (iso: 2026-11-27T00:59:40+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/maulana-deisel-2026-11-b94abc29ed4394ba873bc16edc927653-1200x800.jpg -->
 
-रावलपिंडी में टीवी एंकर राबिया अहसान की गोली मारकर हत्या कर दी गई। पुलिस ने उनके पति को हिरासत में लिया है। यह सानिया यूसुफ और हिना जावेद के बाद तीसरी बड़ी वारदात है। इसके बाद पाकिस्तान में महिलाओं और महिला पत्रकारों की सेफ्टी पर फिर बड़े सवाल खड़े हो गए हैं. सानिया यूसुफ और हिना जावेद के बाद ये एक और बड़ी वारदात है.
+जेयूआई-एफ के प्रमुख मौलाना फजलुर रहमान ने पाकिस्तान में बंद का ऐलान किया है। यह कदम शहबाज शरीफ की सरकार की कार्रवाई के विरोध में उठा गया है। यहां पर इमरान खान की पार्टी तो पहले से ही हंगामा कर रही थी, अब धीरे-धीरे विपक्ष की पार्टियां शहबाज सरकार के खिलाफ हल्ला बोलती नजर आ रही हैं. मौलाना डीजल के नाम से मशहूर JUI-F के प्रमुख मौलाना फजलुर रहमान ने भी सरकार की कार्रवाई के खिलाफ बंद का ऐलान किया है.
 
-### ['अगर शेख हसीना का बाल भी बांका हुआ तो...', बांग्लादेश को अमेरिका से आई वॉर्निंग, भारत को किया सपोर्ट](https://hindi.news18.com/world/south-asia-if-a-hair-on-sheikh-hasina-head-is-harmed-ex-pentagon-official-warns-bangladesh-ahead-of-dec-16-return-backs-india-11015192.html)
-*News18 Hindi (World)* - Nov 26, 21:25 IST (iso: 2026-11-26T15:55:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/sheikh-hasina-11-2026-11-d8e7940bf6f9d2799784f16f75cb6c50-1200x800.jpg -->
+### [चंद्रशेखरन की नियुक्ति के खिलाफ टाटा ट्रस्ट की याचिका पर आज होगी सुनवाई, जानें क्या है पूरा मामला](https://www.amarujala.com/business/business-diary/tata-trusts-plea-against-chandrasekaran-appointment-hearing-today-bombay-high-court-2026-11-27)
+*Amar Ujala National* - Nov 27, 05:16 IST (iso: 2026-11-26T23:46:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/tata-tarasatasa_2018ab4fcdb8d80d0b9c80c8dadb950b.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिका के पूर्व पेंटागन अधिकारी माइकल रुबिन ने बांग्लादेश की तारिक रहमान सरकार को चेतावनी दी है। उन्होंने कहा कि शेख हसीना को कोई नुकसान हुआ तो पूरी जिम्मेदारी ढाका सरकार की होगी। रुबिन ने भारत से भी हसीना की सुरक्षा पर कोई समझौता न करने की अपील की है। पूर्व प्रधानमंत्री शेख हसीना ने 16 दिसंबर को बांग्लादेश लौटने का ऐलान किया है.
+मुंबई उच्च न्यायालय आज टाटा ट्रस्ट की याचिका पर सुनवाई करेगा। ट्रस्ट ने निलंबित सीईओ चंद्रशेखरन की नियुक्ति के खिलाफ अपील की है। न्यायालय इस विवाद पर अंतिम फैसला सुनाएगा। चंद्रशेखरन की नियुक्ति के खिलाफ टाटा ट्रस्ट की याचिका पर आज होगी सुनवाई, जानें क्या है पूरा मामला।
 
-### [भारत को कोस रहे… अरे इतिहास भूल गए क्या हाफिज उद्दीन अहमद? कभी शुक्रिया-शुक्रिया कहते थे, आज](https://hindi.news18.com/world/south-asia-from-thanking-india-help-in-1971-war-to-attacking-india-in-pakistan-bangladesh-speaker-double-standard-over-sheikh-hasina-and-kashmir-11015121.html)
-*News18 Hindi (World)* - Nov 26, 20:39 IST (iso: 2026-11-26T15:09:22+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Bangladesh-Speaker-Hafiz-Uddin-Ahmed-2026-11-c5860c7b3b7ac0b86c7b0ec6cd319ba9-1200x800.jpg -->
+### [47.65 में से सिर्फ 3.37 लाख ने नाम जुड़वाने के लिए किया आवेदन, अंतिम सूची 22 दिसंबर को](https://www.amarujala.com/delhi-ncr/sir-in-delhi-out-of-47-65-lakh-only-3-37-lakh-have-applied-for-registration-2026-11-27)
+*Amar Ujala Breaking* - Nov 27, 01:51 IST (iso: 2026-11-26T20:21:35+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/08/31/thall-esaaaiiaara-ka-darafata-lsata-jara_63946a2a97e6e798d41874a2833cf46b.png?w=1200&dpr=1.0 -->
 
-बांग्लादेश के संसद स्पीकर हाफिज उद्दीन अहमद ने पाकिस्तान दौरे के दौरान भारत के खिलाफ तीखे बयान दिए। उन्होंने 1971 के मुक्ति संग्राम में भारत की भूमिका पर सवाल उठाए। साथ ही, शेख हसीना को वापस लाने के लिए अंतर्राष्ट्रीय न्यायालय जाने की धमकी भी दी। बांग्लादेश की संसद के स्पीकर हाफिज उद्दीन अहमद पाकिस्तान दौरे पर हैं. वहां उन्होंने भारत के खिलाफ तीखे बयान दिए हैं.
-
-### [‘भारत-चीन बॉर्डर पर वैसे कोई दिक्कत नहीं’, फिर उभरा ड्रैगन का अरुणाचल प्रदेश वाला दर्द, कर दी मीठी](https://hindi.news18.com/world/south-asia-china-says-india-china-border-is-generally-stable-while-renewing-claim-over-arunachal-pradesh-call-it-zangnan-11015031.html)
-*News18 Hindi (World)* - Nov 26, 19:33 IST (iso: 2026-11-26T14:03:34+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/India-China-Border-2026-11-ecf78b1ef92b68a2fa3a69b3194f3bd5-1200x800.jpg -->
-
-चीन के रक्षा मंत्रालय के प्रवक्ता चेन शी ने भारत-चीन सीमा पर स्थिति को स्थिर बताया। उन्होंने सैन्य और कूटनीतिक स्तर पर चल रही बातचीत का जिक्र किया। हालांकि, उन्होंने अरुणाचल प्रदेश पर चीन के पुराने दावे को दोहराया। चीन के रक्षा मंत्रालय के प्रवक्ता चेन शी ने सीमा को लेकर दोहरी बात कही है. एक तरफ उन्होंने कहा कि भारत-चीन बॉर्डर पर हालात सामान्य तौर पर स्थिर हैं.
-
-### [दिल्‍ली में बनाया गया विदेशियों को 'गुलाम', फिर दी महिलाओं की आवाज में बात करने की ट्रेनिंग, 164](https://hindi.news18.com/news/crime/delhi-police-crime-branch-rescued-164-nationals-from-malaysia-and-indonesia-who-held-as-cyber-slaves-11014934.html)
-*News18 Hindi (World)* - Nov 26, 18:44 IST (iso: 2026-11-26T13:14:27+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Crime-news-5-2026-11-805d58add602a0f9c3949676379ad8a2-1200x800.jpg -->
-
-दिल्ली की क्राइम ब्रांच ने विदेशियों को गुलाम बनाने वाले एक सिंडिकेट का भंडाफोड़ किया है। दिल्ली-एनसीआर के कॉल सेंटरों में छापेमारी कर 164 विदेशी नागरिकों को रेस्क्यू किया गया। मौके से 150 से अधिक पासपोर्ट बरामद हुए। मलेशिया मूल के एक नागरिक को गिरफ्तार किया गया है। दिल्‍ली में विदेशियों को ‘गुलाम’ बनाने वाले एक सिंडिकेट का भंडाफोड़ क्राइम ब्रांच ने किया है.
-
-### [शेख हसीना की वापसी से पहले बांग्लादेश में बढ़ा तनाव, पूर्व डिप्टी प्रेस सचिव समेत 3 गिरफ्तार](https://www.patrika.com/world-news/bangladesh-sheikh-hasina-ex-deputy-press-secretary-arrested-21090405)
-*Patrika (World)* - Nov 26, 17:06 IST (iso: 2026-11-26T11:36:19+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/sheikh-hasina_.webp -->
-
-बांग्लादेश में पूर्व प्रधानमंत्री शेख हसीना से जुड़े तीन लोगों को गिरफ्तार किया गया है। धनमंडी-27 इलाके से पूर्व डिप्टी प्रेस सचिव केएम शखावत मून को हिरासत में लिया गया। उनके साथ पूर्व डिप्टी कमिश्नर मोहम्मद इलियास हुसैन और वकील सूफी मोहम्मद अल मामून को भी गिरफ्तार किया गया। Sheikh Hasina: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के पूर्व डिप्टी प्रेस सचिव केएम शखावत मून समेत तीन लोगों को गुरुवार को गिरफ्तार कर लिया गया।
-
-### [अचानक फट पड़ा तेल डिपो, 20-25 फ्लोर वाली बिल्डिंग से ऊंची आग की लपटें, विस्फोटक वीडियो आया सामने](https://hindi.news18.com/world/rest-of-world-bangkok-oil-depot-blast-massive-explosion-triggers-towering-flames-at-bangchak-depot-residents-schools-evacuated-watch-video-11014540.html)
-*News18 Hindi (World)* - Nov 26, 16:14 IST (iso: 2026-11-26T10:44:35+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Bangkok-Oil-Depot-Blast-2026-11-9aacab6cceb0a22396e48ea6dc0e86f1-1200x800.jpg -->
-
-थाईलैंड की राजधानी बैंकॉक के बांग ना इलाके में बांगचाक तेल डिपो में जोरदार धमाका हुआ। इसके बाद भीषण आग लग गई जिसकी लपटें 20 से 25 मंजिला इमारत से ऊपर उठीं। पूरे शहर में काले धुएं का गुबार छा गया और स्थानीय प्रशासन ने खतरे को देखते हुए कार्रवाई शुरू की। थाईलैंड की राजधानी बैंकॉक के 'बांग ना' इलाके में एक बड़ा हादसा हो गया है.
-
-### [AI और फुटबॉल से तैयार हो रही नई पीढ़ी, भारत के मॉडल से कितना अलग?](https://hindi.news18.com/news/career/education-china-vs-india-2030-ai-football-defence-education-comparison-11014021.html)
-*News18 Hindi (World)* - Nov 26, 14:33 IST (iso: 2026-11-26T09:03:49+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-vs-India-AI-Defence-Education-2030-2026-11-86aac42e62f44667941e648713b8e704-1200x800.jpg -->
-
-चीन 2030 तक एआई, रक्षा शिक्षा और फुटबॉल के जरिए नई पीढ़ी तैयार कर रहा है। भारत में नई शिक्षा नीति, NCC और फिट इंडिया योजना इससे अलग है। दोनों देशों की शिक्षा रणनीति में स्पष्ट अंतर है। China vs India AI Defence Education 2030: चीन एआई मॉडल्स, डिफेंस एजुकेशन और फुटबॉल से नई पीढ़ी तैयार कर रहा है. इसके लिए उसने 2030 तक का लक्ष्य तय किया है.
-
-### [भारत पर 25% टैरिफ की तैयारी, व्यापार समझौते पर पड़ेगा असर? विशेषज्ञों ने समझाए मायने](https://www.abplive.com/news/india/us-section-301-tariff-proposal-india-trade-deal-export-market-impact-3219561)
-*ABP Live (India)* - Nov 26, 13:26 IST (iso: 2026-11-26T07:56:39+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/d91010133f9835c82fb8fe8a9088f8171795679783487425_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-अमेरिकी USTR ने भारत समेत 14 अर्थव्यवस्थाओं की अतिरिक्त उत्पादन क्षमता की जांच शुरू की है। इस आधार पर भारत पर 25 फीसदी तक अतिरिक्त टैरिफ लगाने का प्रस्ताव सामने आया है। द्विपक्षीय व्यापार समझौते की बातचीत जारी है। अमेरिका और भारत के बीच प्रस्तावित द्विपक्षीय व्यापार समझौते की बातचीत के बीच अमेरिकी प्रशासन ने टैरिफ को लेकर एक और दबाव बढ़ा दिया है.
-
-### [पाकिस्तान ने गोद में बिठाया तो भारत पर बरसे बांग्लादेशी स्पीकर, हमारे ही खिलाफ उगलने लगे जहर](https://hindi.news18.com/world/south-asia-bangladesh-speaker-hafiz-uddin-ahmad-visit-pakistan-india-water-remarks-pakistan-1971-kashmir-11013845.html)
-*News18 Hindi (World)* - Nov 26, 13:11 IST (iso: 2026-11-26T07:41:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/bangladesh-pakistan-2026-11-0e720ce84a9fea85eb3d0bf83bafb0cb-1200x800.jpg -->
-
-बांग्लादेश के संसद स्पीकर हाफिज उद्दीन अहमद ने पाकिस्तान दौरे पर भारत पर नदियों का पानी रोकने का आरोप लगाया। उन्होंने 1971 के युद्ध में मदद न करने और शेख हसीना के शासन में भारत पर निर्भरता बढ़ाने की भी निंदा की। पाकिस्तान दौरे पर पहुंचे बांग्लादेश की संसद के स्पीकर हाफिज उद्दीन अहमद ने भारत के खिलाफ कई बयान दिए.
-
-### [स्मार्ट चीटिंग खुलासे के बाद CSAT बेहद सख्त! साउथ कोरियन सरकार के अजीब नियम क्यों?](https://www.abplive.com/news/world/south-korea-smart-cheating-yun-jeong-hu-how-ai-is-testing-strict-rules-what-is-rule-in-india-examination-explained-3219444)
-*ABP Live (World)* - Nov 26, 12:54 IST (iso: 2026-11-26T07:24:22+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/4bd7bb067f72520efddc2fca4e33615517956455260911317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-साउथ कोरिया में 34 वर्षीय व्यक्ति ने स्मार्टफोन और माइक्रो कैमरा से परीक्षा में नकल कर टॉप किया। इस घटना ने शिक्षा मंत्री के इस्तीफे तक की नौबत ला दी। सरकार ने नकल रोकने के लिए इतिहास के सबसे सख्त नियम लागू किए हैं। साउथ कोरिया में परीक्षाओं में चीटिंग का एक ऐसा मामला सामने आया है, जिसने पूरे शिक्षा तंत्र को हिला दिया है.
-
-### [शेख हसीना की वापसी के ऐलान से बांग्लादेश में हाई अलर्ट, 108 अर्धसैनिक टुकड़ियां तैनात](https://www.abplive.com/news/world/bangladesh-former-pm-sheikh-hasina-return-announcement-high-alert-in-country-3219583)
-*ABP Live (World)* - Nov 26, 12:22 IST (iso: 2026-11-26T06:52:09+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/79472d9276bf096b3f2df7d4f6a8e4611795675726780355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-शेख हसीना की वापसी के डर से बांग्लादेश में हाई अलर्ट है। सरकार ने 108 अर्धसैनिक टुकड़ियां तैनात कीं। इनमें से 56 गोपालगंज में भेजी गईं। बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के अगले महीने स्वदेश वापसी को लेकर देश में तनाव बढ़ गया है. बांग्लादेश में हालात पर काबू रखने के लिए सरकार ने कई जिलों में सुरक्षा कड़ी कर दी और सीमा सुरक्षा बल की 108 टुकड़ियां तैनात की हैं.
-
----
-
-## मध्य पूर्व और अफ्रीका
-
-### [मक्का पैक्ट के शोर के बीच भारत-UAE की तगड़ी डिफेंस डील, नेक्स्ट जेन हथियार समेत 3 बड़े ऐलान](https://hindi.news18.com/world/middle-east-india-uae-defence-deal-amid-mecca-pact-buzz-co-production-of-next-gen-weapons-ai-and-3-key-takeaways-11015329.html)
-*News18 Hindi (World)* - Nov 26, 22:56 IST (iso: 2026-11-26T17:26:38+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/UAE-India-Relations-2026-11-ea18f94d5a4e9cb422b5a986a6ce4bcc-1200x800.jpg -->
-
-भारत और UAE ने अबू धाबी में 14वीं JDCC बैठक में रक्षा सहयोग बढ़ाने पर सहमति जताई। दोनों देश अगली पीढ़ी के हथियारों और AI पर संयुक्त काम करेंगे। यह गठबंधन खाड़ी में भारत की स्थिति को मजबूत करता है। पश्चिम एशिया में मक्का पैक्ट और सुरक्षा गठबंधनों की बातों के बीच भारत और UAE ने रक्षा रिश्तों को नई रफ्तार दी है.
-
-### [2026 के आखिर में गैस कीमतों पर आएगी खुशखबरी? TAPI पाइपलाइन पर अब तक का सबसे बड़ा अपडेट](https://hindi.news18.com/world/south-asia-tapi-gas-pipeline-update-herat-section-near-completion-by-end-of-2026-will-india-fuel-gas-prices-drop-amid-global-energy-crunch-11014652.html)
-*News18 Hindi (World)* - Nov 26, 17:53 IST (iso: 2026-11-26T12:23:54+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/TAPI-Gas-Pipeline-2026-11-90a103deaa50a0274f15ae06c947169d-1200x800.jpg -->
-
-तुर्कमेनिस्तान, अफगानिस्तान, पाकिस्तान और भारत को जोड़ने वाली 1,800 किलोमीटर लंबी TAPI गैस पाइपलाइन पर बड़ा अपडेट आया है। इस पर 600 मिलियन डॉलर खर्च हो रहे हैं। चालू होने पर चारों देशों में गैस कीमतें घटने की उम्मीद है। ईरान-अमेरिका बवाल की वजह से एनर्जी संकट गहराता जा रहा है. इस बीच, चार देशों को जोड़ने वाली 1,800 किलोमीटर लंबी TAPI गैस पाइपलाइन पर बड़ा अपडेट आया है.
-
-### [US हथियारों को लेकर IRGC का बड़ा दावा – अमेरिका के पास कम हो गए हथियार, ईरानी मिसाइलें रोज ताकतवर](https://www.patrika.com/world-news/irgc-claims-us-weapons-shortage-iran-missile-power-increasing-21090443)
-*Patrika (World)* - Nov 26, 16:36 IST (iso: 2026-11-26T11:06:22+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Iran-army-1.webp -->
-
-ईरानी IRGC के प्रवक्ता हुसैन मोहेबी ने दावा किया कि अमेरिका के पास हथियारों की कमी हो गई है। उन्होंने कहा कि ईरान लगातार अपनी मिसाइलों की संख्या और रेंज बढ़ा रहा है। IRGC का मानना है कि ईरान अब हथियारों के मामले में अमेरिका से बेहतर स्थिति में है। Iran vs US Weapons: ईरान की इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) ने अमेरिकी हथियारों को लेकर बड़ा दावा किया है।
-
-### [क्या छिड़ेगा एक और युद्ध? अमेरिका की मदद के बिना ईरान पर हमले के लिए तैयार इज़रायल](https://www.patrika.com/world-news/israel-ready-to-attack-iran-independently-even-without-us-support-21089636)
-*Patrika (World)* - Nov 26, 14:55 IST (iso: 2026-11-26T09:25:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/israel-strikes-iran-nuclear-sites.webp -->
-
-इज़रायल अमेरिका की सहायता के बिना ईरान पर हमले के लिए तैयार है। दोनों देशों के बीच तनाव जारी है और समय-समय पर आपसी हमले हो रहे हैं। लंबे युद्ध की इच्छा नहीं है, पर शर्तों पर सहमति नहीं बन पा रही है। दोनों देशों ने कुछ दिन पहले फिर एक-दूसरे के ठिकानों पर हमले किए। दोनों देश लंबा युद्ध नहीं चाहते, लेकिन एक-दूसरे की शर्तों पर सहमत भी नहीं हो रहे हैं, जिससे समय-समय पर दोनों एक-दूसरे के ठिकानों पर हमले करते हैं।
-
----
-
-## अमेरिका
-
-### [100 की रफ्तार से आया तूफान उड़ा ले गया करोड़ों के घर-मकान, गाड़ियां तैरने लगीं, सौ सालों में पहली](https://hindi.news18.com/world/america-100-kmph-thanksgiving-storm-live-batters-us-east-coast-cars-float-in-floods-and-macy-parade-postponed-after-100-years-heavy-rain-alert-11015310.html)
-*News18 Hindi (World)* - Nov 26, 22:08 IST (iso: 2026-11-26T16:38:31+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/US-Thanksgiving-Storm-2026-11-56789a68682c04911113a5b1195e86e1-1200x800.jpg -->
-
-अमेरिका में 100 किमी प्रति घंटे की रफ्तार से आया तूफान ने भारी तबाही मचाई। बाढ़ से सड़कें डूब गईं और गाड़ियां तैरती नजर आईं। पूरे देश में 820 से ज्यादा उड़ानें रद्द करनी पड़ीं। अमेरिका इस वक्त एक भयानक तूफान तबाही मचा रहा है. हवा की रफ्तार करीब 100 किलोमीटर प्रति घंटा रही. भारी बारिश और बाढ़ से सड़कें पूरी तरह डूब गईं.
+दिल्ली में विशेष गहन पुनरीक्षण के दौरान 47.65 लाख मतदाता सूची से बाहर हुए। इनमें से केवल 3.37 लाख ने नाम जोड़ने के लिए आवेदन किया। अंतिम मतदाता सूची 22 दिसंबर को जारी होगी। दिल्ली में विशेष गहन पुनरीक्षण (एसआईआर) में मतदाता सूची से बाहर हुए 47.65 लाख मतदाताओं में से केवल 3,37,970 लोगों ने 31 अगस्त से 25 नवंबर के बीच मतदाता सूची में अपना नाम जुड़वाने के लिए फॉर्म-6 भरा है।
 
 ---
 
 ## दुनिया
 
-### [बजरी खोद रहे थे, टन्न की आवाज से ठनका माथा, जमीन में दबा था 10 किलो सोने से भी कीमती खजाना](https://hindi.news18.com/world/europe-10kg-bronze-age-gold-treasure-uncovered-in-spain-60-years-later-tests-reveal-two-pieces-made-of-space-metal-11014846.html)
-*News18 Hindi (World)* - Nov 26, 18:43 IST (iso: 2026-11-26T13:13:08+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Spain-Treasure-2026-11-d62c5a71561999a1c0ed6684e9a993af-1200x800.jpg -->
+### [हर सिलवट में छिपी एक कहानी है: उम्र के साथ कमजोर नहीं, परिपक्व होता है जीवन](https://www.amarujala.com/columns/blog/old-age-life-experiences-inner-strength-peace-and-maturity-2026-11-27)
+*Amar Ujala National* - Nov 27, 07:04 IST (iso: 2026-11-27T01:34:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/09/18/elders_98049ce07d993786d7c6796fbe3aa3b3.jpeg?w=1200&dpr=1.0 -->
 
-बजरी की खुदाई के दौरान लगभग 10 किलो वजनी ऐतिहासिक खजाना मिला है। इसमें 9 किलो शुद्ध सोना शामिल था। वैज्ञानिक जांच में दो जंग लगी चीजें अंतरिक्ष से गिरे उल्कापिंड की धातु से बनी पाई गईं। कांस्य युग में इसे सोने-चांदी से भी अधिक मूल्यवान माना जाता था। बजरी की खुदाई के दौरान वहां करीब 10 किलो वजनी एक ऐतिहासिक खजाना मिला.
+यह लेख उम्र और परिपक्वता पर कवितात्मक विचार प्रस्तुत करता है। स्रोत में कोई ठोस घटना, नाम या संख्या नहीं है। तथ्यात्मक सारांश संभव नहीं है। हर सिलवट में छिपी एक कहानी है: उम्र के साथ कमजोर नहीं, परिपक्व होता है जीवन।
 
-### [नासा के वार से 500 फीट के एस्टेरॉयड में हुआ स्टेडियम जितना बड़ा गड्ढा, चारों ओर बिखरे सैकड़ों पत्थर](https://hindi.news18.com/world/america-nasa-dart-mission-left-stadium-sized-crater-on-500-feet-asteroid-dimorphos-images-11014353.html)
-*News18 Hindi (World)* - Nov 26, 15:51 IST (iso: 2026-11-26T10:21:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Dimorphos-And-Didymos-2026-11-a9fcc44c680153b22ad71050ee78fe6c-1200x800.jpg -->
+### [आज लॉन्च हो सकती है मिनी कूपर SE: 402KM की रेंज और नए डिजाइन के साथ आएगी इलेक्ट्रिक कार, जानें कीमत](https://www.amarujala.com/automobiles/new-mini-cooper-se-launch-today-402km-range-fresh-design-expected-price-revealed-2026-11-26)
+*Amar Ujala National* - Nov 27, 07:01 IST (iso: 2026-11-27T01:31:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/26/naii-mana-kapara-se_92dc7c4b2579ce2580fbb272cd39252a.jpeg?w=1200&dpr=1.0 -->
 
-यूरोपीय स्पेस एजेंसी के हेरा स्पेसक्राफ्ट ने नासा के डार्ट मिशन के असर की पहली तस्वीरें भेजी हैं। 2022 में डिडिमोस के 500 फीट चौड़े एस्टेरॉयड डिमॉर्फोस से टक्कर कराई गई थी। स्कैन में स्टेडियम के साइज का क्रेटर और बदला हुआ ऑर्बिट दिखा है। दिसंबर में हेरा 8 मील करीब जाकर और फोटो लेगा। NASA DART Mission: यूरोपीय स्पेस एजेंसी के हेरा स्पेसक्राफ्ट ने 4 साल के इंतजार के बाद नासा के डार्ट मिशन के असर की पहली तस्वीरें भेजी हैं.
+नई मिनी कूपर SE आज लॉन्च हो सकती है। कीमत 50 लाख रुपये के आसपास रह सकती है। 54.2 किलोवाट-घंटे का बैटरी पैक मिलेगा। रेंज 402 किलोमीटर होगी। शुरुआती कीमत संभावित 50 लाख रुपये है। 54.2kWh का बैटरी पैक मिल सकता है। सिंगल चार्ज में 402 किलोमीटर रेंज देती है। आज लॉन्च हो सकती है मिनी कूपर SE: 402KM की रेंज और नए डिजाइन के साथ आएगी इलेक्ट्रिक कार, जानें कीमत।
 
-### [पहाड़ी पर दीप न जलने पर विवाद: SC में माफी, गर्वनर ने मांगी रिपोर्ट, अब आगे क्या?](https://www.abplive.com/news/india/tamil-nadu-thiruparankundram-hill-deepathoon-row-bjp-target-tvk-vijay-govt-sc-orders-disobedience-3219630)
-*ABP Live (India)* - Nov 26, 14:02 IST (iso: 2026-11-26T08:32:04+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/459adb8fcd0f93861acd5bf2feac011517956839526251200_original.jpeg?impolicy=abp_cdn&imwidth=1200 -->
+### [डाटा सेंटरों का एक पहलू यह भी: एआई की तरक्की से होगा पर्यावरणीय नुकसान, नागरिकों के हित न हों](https://www.amarujala.com/columns/opinion/vizag-adani-google-ai-data-centre-environmental-impact-water-power-2026-11-27)
+*Amar Ujala National* - Nov 27, 07:00 IST (iso: 2026-11-27T01:30:31+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/19/ai-agents_288aea8366efd41d402849362246acb5.png?w=1200&dpr=1.0 -->
 
-तिरुपरनकुंद्रम में दीपाथून पर कार्तिगई दीप न जलने पर मदुरै प्रशासन ने मंदिर ट्रस्टी बोर्ड को जिम्मेदार ठहराया। सुप्रीम कोर्ट ने केवल अधिकृत टीम को ही जाने की अनुमति दी थी। गर्वनर ने मामले की रिपोर्ट मांगी है। तमिलनाडु के तिरुपरनकुंद्रम पहाड़ी स्थित दीपाथून स्तंभ पर सुप्रीम कोर्ट के आदेश के बावजूद कार्तिगई दीप न जलाए जाने के मामले में मदुरै जिला प्रशासन ने मंदिर के ट्रस्टी बोर्ड को जिम्मेदार ठहराया है.
+विजाग में एडानी और गूगल के एआई डाटा सेंटर पर्यावरण को नुकसान पहुंचा रहे हैं। पानी और बिजली की खपत बढ़ने से स्थानीय नागरिकों के हित प्रभावित हो रहे हैं। डाटा सेंटरों का एक पहलू यह भी: एआई की तरक्की से होगा पर्यावरणीय नुकसान, नागरिकों के हित न हों।
 
-### [यूपी में सपा-कांग्रेस के बीच सीटों का पेंच फंसा, सुप्रिया श्रीनेत का बड़ा दावा- 'हम...'](https://www.abplive.com/news/india/supriya-shrinate-on-congress-sp-alliance-before-up-election-2027-says-a-strong-alliance-will-be-formed-3219625)
-*ABP Live (India)* - Nov 26, 13:42 IST (iso: 2026-11-26T08:12:16+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/26/1a5f5145c72e67b489cb3b5c1bc525b01795680496974355_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [आईफोन 17, सैमसंग और पिक्सल स्मार्टफोन पर महा डिस्काउंट, किस फोन पर कितनी छूट? देखें लिस्ट](https://www.amarujala.com/technology/tech-diary/flipkart-black-friday-sale-2026-smartphone-deals-iphone-samsung-google-pixel-vivo-oppo-prices-2026-11-26)
+*Amar Ujala National* - Nov 27, 07:00 IST (iso: 2026-11-27T01:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/26/black-friday-sale-smartphone-deals_e2275d5680791fc94709814581156107.jpeg -->
 
-सुप्रिया श्रीनेत का दावा है कि 2027 उत्तर प्रदेश विधानसभा चुनाव से पहले कांग्रेस और सपा के बीच मजबूत गठबंधन बनेगा। सीटों के बंटवारे पर बातचीत चल रही है। दोनों दलों को साथ लड़ने की जरूरत समझ है। कांग्रेस नेता सुप्रिया श्रीनेत ने गुरुवार को भरोसा जताया कि साल 2027 में होने वाले उत्तर प्रदेश विधानसभा चुनाव से पहले कांग्रेस और समाजवादी पार्टी के बीच एक मजबूत गठबंधन बनेगा.
+फ्लिपकार्ट की ब्लैक फ्राइडे सेल में आईफोन 17 पर 10,800 रुपये की छूट मिल रही है। गूगल पिक्सल 10 पर 12,000 रुपये की सीधी कटौती लागू है। फ्लिपकार्ट की ब्लैक फ्राइडे सेल में आईफोन, सैमसंग, गूगल पिक्सल, वीवो और ओप्पो के कई स्मार्टफोन कम कीमत पर मिल रहे हैं। आईफोन 17 पर 10,800 रुपये और Pixel 10 पर 12,000 रुपये की सीधी छूट है।
+
+### [मौसम और बर्फबारी के अलावा महामारी की भविष्यवाणी भी करते हैं हिमाचल के देवता, ग्रामीणों की पूरी आस्था](https://www.amarujala.com/shimla/beyond-weather-and-snowfall-the-deities-of-himachal-also-make-predictions-about-pandemics-2026-11-27)
+*Amar Ujala Breaking* - Nov 27, 06:55 IST (iso: 2026-11-27T01:25:12+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/1_d315084010a3f90be2a20183500f28da.jpeg?w=1200&dpr=1.0 -->
+
+ऊपरी शिमला के ग्रामीण बखाण अनुष्ठान में देवताओं से मौसम और बर्फबारी की भविष्यवाणी प्राप्त करते हैं। मानव माध्यमों के जरिये यह संवाद स्थानीय आस्था का हिस्सा है। ऊपरी शिमला के कुछ क्षेत्रों में सालाना बखाण अनुष्ठान में देवता मानव माध्यमों के जरिये ग्रामीणों से संवाद करते हैं। मौसम और बर्फबारी के अलावा महामारी की भविष्यवाणी भी करते हैं हिमाचल के देवता, ग्रामीणों की पूरी आस्था।
+
+### [एआई के दौर में नैतिक मूल्यों की असली परीक्षा, एनवीडिया विवाद ने फिर छेड़ी बहस](https://www.amarujala.com/columns/opinion/corporate-leadership-ethics-nvidia-ceo-jensen-huang-moral-values-ai-era-2026-11-27)
+*Amar Ujala National* - Nov 27, 06:47 IST (iso: 2026-11-27T01:17:46+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/10/25/jensen-huang_3da0723cb8344d6c8b053b5f8dd19435.png?w=1200&dpr=1.0 -->
+
+एनवीडिया सीईओ जेन्सन ह्वानग के आचरण पर नए सवाल उठे हैं। एआई क्षेत्र में नैतिक मूल्यों की परीक्षा के लिए यह विवाद एक प्रमुख उदाहरण बन गया है। एआई के दौर में नैतिक मूल्यों की असली परीक्षा, एनवीडिया विवाद ने फिर छेड़ी बहस।
+
+### [लोकरक्षक और उपनिरीक्षक समेत 13,152 पदों पर भर्ती, 12वीं पास और स्नातक कर सकते हैं आवेदन](https://www.amarujala.com/jobs/gujarat-police-recruitment-2026-apply-online-for-13152-lokrakshak-psi-and-technical-posts-2026-11-27)
+*Amar Ujala Breaking* - Nov 27, 06:44 IST (iso: 2026-11-27T01:14:33+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/gujarat-police-recruitment-2026_a135ececc8cc4de6f5c4679d3784025a.jpeg?w=1200&dpr=1.0 -->
+
+गुजरात पुलिस ने 13,152 पदों पर भर्ती प्रक्रिया शुरू की है। लोकरक्षक और सब इंस्पेक्टर समेत विभिन्न पदों के लिए 12वीं पास और स्नातक आवेदन कर सकते हैं। गुजरात पुलिस भर्ती 2026 के लिए आवेदन प्रक्रिया शुरू हो गई है। गुजरात पुलिस भर्ती बोर्ड ने लोकरक्षक, पुलिस सब इंस्पेक्टर और टेक्निकल कैडर के कुल 13,152 पदों पर भर्ती निकाली है।
+
+### [चुनावी बिसात पर सपा ने दी लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित?](https://www.amarujala.com/columns/opinion/samajwadi-party-jan-man-manifesto-2027-up-election-promises-pda-jobs-litmus-test-populist-announcements-2026-11-27)
+*Amar Ujala National* - Nov 27, 06:39 IST (iso: 2026-11-27T01:09:09+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/akhilesh-yadav_3c6d3d6b2c6101f1e7de47e6ec9bf197.jpeg?w=1200&dpr=1.0 -->
+
+समाजवादी पार्टी ने 2027 के उत्तर प्रदेश चुनावों के लिए लोकलुभावन घोषणाएं जारी की हैं। नौकरियों और अन्य वादों के जरिए पार्टी मतदाताओं को आकर्षित करने की कोशिश कर रही है। वादों की कसौटी: चुनावी बिसात पर लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित? चुनावी बिसात पर सपा ने दी लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित?
+
+### [Weather Forecast 27 November 2026: देखिए क्या है आपके यहां मौसम का हाल](https://www.amarujala.com/video/india-news/weather-forecast-for-27-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-27)
+*Amar Ujala National* - Nov 27, 06:00 IST (iso: 2026-11-27T00:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/weather-forecast_bb0ee1be960c80d9b258316ba0a2cedc.jpeg?w=1200&dpr=1.0 -->
+
+27 नवंबर 2026 के मौसम पूर्वानुमान में देश के विभिन्न हिस्सों के लिए तापमान और हवा की गति की जानकारी दी गई है। मौसम विभाग ने लोगों को सावधानी बरतने की सलाह दी है। यह रिपोर्ट स्थानीय स्तर पर मौसम की स्थिति को समझने में मदद करती है।
+
+### [भाजपा के राष्ट्रीय पदाधिकारियों की दो दिवसीय बैठक का आगाज; दीपथून विवाद में सुप्रीम सुनवाई](https://www.amarujala.com/india-news/27-november-2026-major-event-2026-11-26)
+*Amar Ujala Breaking* - Nov 27, 05:57 IST (iso: 2026-11-27T00:27:37+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/26/aaja-ka-khabra_cb1114c8a7bee5ed3a5bb913d6cedf71.gif?w=1200&dpr=1.0 -->
+
+भाजपा के राष्ट्रीय पदाधिकारियों की दो दिवसीय बैठक का शुभारंभ हो गया है। इसी दिन दीपथून विवाद के मामले में सुप्रीम कोर्ट में सुनवाई भी हो रही है। दोनों घटनाक्रम राजनीतिक और कानूनी मंच पर महत्वपूर्ण हैं। नमस्कार! आज है शुक्रवार, 27 नवंबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है?
+
+### [संसद सत्र से पहले कांग्रेस की बैठक आज, एनआईओएस बदलेगा पाठ्यक्रम; 13 राज्यों में कोहरे का अलर्ट](https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-27-november-2026-updates-on-amar-ujala-2026-11-27)
+*Amar Ujala Breaking* - Nov 27, 05:56 IST (iso: 2026-11-27T00:26:30+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0 -->
+
+संसद के शीतकालीन सत्र से पहले कांग्रेस की आज बैठक होगी। एनआईओएस पाठ्यक्रम में बदलाव करने जा रहा है। साथ ही 13 राज्यों में कोहरे का अलर्ट जारी किया गया है। ये घटनाक्रम देश की राजनीति और शिक्षा नीति को प्रभावित करेंगे। संसद सत्र से पहले कांग्रेस की बैठक आज, एनआईओएस बदलेगा पाठ्यक्रम; 13 राज्यों में कोहरे का अलर्ट।
+
+### [सांस की परेशानी से जूझ रहे लॉन्ग कोविड के आधे मरीज, किनमें ज्यादा मिले लक्षण?](https://www.amarujala.com/world/long-covid-breathing-problems-four-years-after-infection-study-2026-11-27)
+*Amar Ujala Breaking* - Nov 27, 05:20 IST (iso: 2026-11-26T23:50:53+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/long-covid_2bbfdf0466fddda0a3635146af546acd.jpeg?w=1200&dpr=1.0 -->
+
+नई दिल्ली में किए गए अध्ययन में पाया गया कि लॉन्ग कोविड से पीड़ित आधे मरीजों को सांस की समस्या है। महिलाओं में यह लक्षण पुरुषों की तुलना में अधिक देखा गया। चार साल बाद भी ये प्रभाव जारी हैं। महामारी के चार साल बीते: सांस की परेशानी से जूझ रहे लॉन्ग कोविड के आधे मरीज, किनमें ज्यादा मिले लक्षण?
+
+### [तिरुपति मंदिर में दंपति ने दान किया 121 किलो सोना, भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा](https://www.amarujala.com/india-news/tirumala-venkateswara-temple-121-kg-gold-diamond-jewellery-donation-207-crore-2026-11-27)
+*Amar Ujala Breaking* - Nov 27, 03:14 IST (iso: 2026-11-26T21:44:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/tarapata-ma-121-kal-sana-thana_7a9d9dfb63a8031c87d13478906a3564.jpeg?w=1200&dpr=1.0 -->
+
+तिरुपति मंदिर में एक दंपति ने 121 किलो सोना और हीरे की अलंकार चढ़ाए। इस दान की कुल कीमत 207 करोड़ रुपये है। यह भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा है। तिरुपति मंदिर में दंपति ने दान किया 121 किलो सोना, भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा।
+
+---
+
+## मध्य पूर्व और अफ्रीका
+
+### [‘हमारी जीत करीब है, जब चाहूं तब खत्म हो जाए जंग’: ईरान युद्ध पर बोले डोनाल्ड ट्रंप; तेहरान को दिया](https://www.patrika.com/world-news/on-thanksgiving-donald-trump-says-us-victory-at-hand-in-iran-war-21091894)
+*Patrika (World)* - Nov 27, 06:47 IST (iso: 2026-11-27T01:17:52+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump-12.webp -->
+
+डोनाल्ड ट्रंप ने दावा किया कि अमेरिका ईरान युद्ध में जीत के बहुत करीब है। उन्होंने तेहरान को समझौते का मौका दिया, लेकिन युद्ध समाप्ति का फैसला अमेरिका करेगा। Donald Trump on Iran War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ चल रही जंग को लेकर दावा किया है कि अमेरिका जीत के बहुत करीब है। उन्होंने कहा कि वाशिंगटन अभी भी तेहरान को एक ऐसे समझौते तक पहुंचने का मौका दे रहा है जिससे जान-माल के और अधिक नुकसान को रोका जा सके।
+
+---
+
+## अमेरिका
+
+### [सियासी मतभेदों से टूट रहे परिवार, ट्रंप को वोट देने पर बेटे ने पिता से तोड़ा नाता; रिपोर्ट में](https://www.amarujala.com/world/political-differences-fracturing-family-bonds-37-percent-americans-political-breakup-jonathan-alpert-2026-11-27)
+*Amar Ujala World* - Nov 27, 06:15 IST (iso: 2026-11-27T00:45:05+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/sayasa-bhasa-sa-tata-raha-37-paravara_f2c6da9590b19a74af7c8d5da2404c24.jpeg?w=1200&dpr=1.0 -->
+
+अमेरिका में 37 प्रतिशत लोगों ने बताया कि राजनीतिक मतभेदों ने उनके परिवार के रिश्तों को नुकसान पहुंचाया है। एक रिपोर्ट में खुलासा हुआ कि एक बेटे ने अपने पिता से नाता तोड़ दिया क्योंकि पिता ट्रंप को वोट देते हैं। यह आंकड़ा राजनीति के सामाजिक प्रभाव को दर्शाता है। सियासी मतभेदों से टूट रहे परिवार, ट्रंप को वोट देने पर बेटे ने पिता से तोड़ा नाता; रिपोर्ट में।
+
+### [पिता ने अंतरिक्ष में सुनी बेटी के जन्म की खुशखबरी: धरती से सैकड़ों किमी दूर मनाया जश्न, आईएसएस पर](https://www.amarujala.com/world/canadian-astronaut-joshua-kutryk-daughter-born-during-iss-mission-2026-11-27)
+*Amar Ujala World* - Nov 27, 05:33 IST (iso: 2026-11-27T00:03:13+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/joshua-kutryk_b940506e7ee58c942fdbfc9b41b20800.jpeg?w=1200&dpr=1.0 -->
+
+कनाडाई अंतरिक्ष यात्री जोशुआ कुट्रिक ने आईएसएस से अपनी बेटी के जन्म की खुशखबरी सुनी। उन्होंने धरती से सैकड़ों किलोमीटर ऊपर इस जश्न का आनंद लिया। यह घटना अंतरिक्ष यात्रा के दौरान व्यक्तिगत जीवन के क्षणों को दर्शाती है। पिता ने अंतरिक्ष में सुनी बेटी के जन्म की खुशखबरी: धरती से सैकड़ों किमी दूर मनाया जश्न, आईएसएस पर।
 
 ---
 
