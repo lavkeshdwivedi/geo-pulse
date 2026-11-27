@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 27, 2026 16:00 IST
+**Updated:** November 28, 2026 01:13 IST
 
 ---
 
@@ -11,6 +11,12 @@
 <!-- image: https://images.pexels.com/photos/28248452/pexels-photo-28248452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Al-Qaeda in the Sahel has intensified attacks on urban centers. Military responses risk worsening the human toll. Negotiated solutions may offer a less damaging path forward for the region. Ces dernières années, la branche d’al-Qaeda au Sahel a multiplié les assauts contre les villes de la région. Chercher à vaincre les jihadistes par les armes ne ferait qu’alourdir un bilan humain déjà considérable.
+
+### [UNHCR warns over deep funding cuts to vital protection work](https://news.un.org/feed/view/en/story/2026/11/1168888)
+*UN News* - Nov 27, 17:30 IST (iso: 2026-11-27T12:00:00+00:00)
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-11-2021_UN0126512_Nigeria.jpg/image770x420cropped.jpg -->
+
+UNHCR reports that deep funding cuts are weakening protection for refugees and stateless women facing gender-based violence. The agency highlights the case of Mariam, a survivor of a decade of captivity and rape by Boko Haram. Reduced budgets directly limit the support available to these at-risk individuals. The cuts compromise the safety and recovery services provided to survivors of conflict and persecution.
 
 ### [Can conflict resolution keep pace as AI and drones reshape war?](https://news.un.org/feed/view/en/story/2026/11/1168866)
 *UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
@@ -60,7 +66,7 @@ Widows in Gaza now manage household duties, shelter, and education from temporar
 
 ### [Emergency aid chief calls for access to war-hit communities](https://news.un.org/feed/view/en/story/2026/11/1168872)
 *UN News* - Nov 25, 17:30 IST (iso: 2026-11-25T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image560x340cropped.jpg -->
 
 UN aid chief Tom Fletcher arrived in Yemen to warn that the war blocks access to food and medicine. He highlighted the crisis in Taiz City. Fletcher urged for immediate access to war-hit communities to prevent further suffering. The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.
 
@@ -70,27 +76,37 @@ UN aid chief Tom Fletcher arrived in Yemen to warn that the war blocks access to
 
 Amina Mohammed warned another woman would be killed before she finished speaking. She called for justice for survivors and consequences for perpetrators. The UN deputy chief made this final plea to end violence against women and girls. UN deputy chief’s final call to end violence against women.
 
-### [Concern for trapped Ebola workers as violence against women and girls deepens](https://news.un.org/feed/view/en/story/2026/11/1168865)
-*UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/21-09-2026-WHO-DR-Congo-ebola-02.jpg/image560x340cropped.jpg -->
-
-WHO staff and Ebola responders remain trapped in a DRC hospital. Heavy fighting continues in Ituri province. The UN agency confirmed the situation on Tuesday. Personnel are stranded as violence prevents their safe evacuation from the facility. Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.
-
 ### [High Stakes in Iraq’s Push to Reclaim Jurf al-Sakhar](https://www.crisisgroup.org/qna/middle-east-north-africa/iraq/high-stakes-iraqs-push-reclaim-jurf-al-sakhar)
 *International Crisis Group* - Nov 21, 02:10 IST (iso: 2026-11-20T20:40:00+00:00)
 <!-- image: https://images.pexels.com/photos/38982182/pexels-photo-38982182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Iraqi forces entered Jurf al-Sakhar on 20 November to displace Kata’ib Hizbollah. Prime Minister Ali al-Zaidi restored state authority in the area. Crisis Group expert Lahib Higel detailed the circumstances enabling this military operation. On 20 November, Iraqi government forces entered Jurf al-Sakhar, a stronghold of the Iran-backed group Kata’ib Hizbollah. In this Q&A, Crisis Group expert Lahib Higel explains the circumstances that allowed Prime Minister Ali al-Zaidi to restore state authority in this area.
 
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Nov 20, 05:30 IST (iso: 2026-11-20T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group published its weekly On Our Radar briefing. The report tracks active conflicts and crises worldwide. Field analysts explain why specific hotspots matter. They also outline recommended actions for policymakers. The publication serves as a regular update on global instability. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching.
+
+---
+
+## Americas
+
+### [Southeast Asia’s AI data center bets turning into stranded assets](https://asiatimes.com/2026/11/southeast-asias-ai-data-center-bets-turning-into-stranded-assets/)
+*Asia Times* - Nov 27, 07:24 IST (iso: 2026-11-27T01:54:54+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Day-One-Data-Center-Malaysia.jpg -->
+
+Southeast Asian AI data center projects face becoming stranded assets after Nvidia halted chip shipments. The suspension disrupts the region's physical infrastructure buildout. Financial commitments now risk obsolescence. The boom's underlying architecture has effectively seized up. Wall Street spent this week celebrating Jensen Huang’s reinstatement at Nvidia as a triumph of corporate resilience and White House pragmatism. Yet while traders bid up the chipmaker’s stock in New York, the physical and financial architecture of Southeast Asia’s artificial intelligence boom has seized up.
+
+### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
+*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
+
+Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
+
 ---
 
 ## Asia-Pacific
-
-### [A decade after Duterte's drug war, the Philippines confronts its bloody legacy as ICC trial looms](https://www.channelnewsasia.com/asia/rodrigo-duterte-war-drugs-former-philippine-president-icc-international-criminal-court-crimes-against-humanity-6587006)
-*Channel News Asia* - Nov 27, 14:13 IST (iso: 2026-11-27T08:43:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--loxnl7d4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/27/reuters_philippines_duterte_war_on_drugs_victims.jpg?itok=TiQvzu-V -->
-
-Rodrigo Duterte faces an International Criminal Court trial a decade after launching his drug war. Thousands of families continue seeking justice for the killings. The campaign left a heavy human cost and deep political divisions in the Philippines. Ten years after Rodrigo Duterte launched his deadly crackdown on drugs, thousands of Filipino families are still seeking justice. As the former president prepares to face trial at the ICC, CNA examines the human cost of his campaign, his enduring political influence and the divisions that continue to shape the Philippines.
 
 ### [Threat from China looms large over Taiwan’s local elections](https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections)
 *The Guardian* - Nov 27, 06:30 IST (iso: 2026-11-27T01:00:49+00:00)
@@ -127,22 +143,6 @@ Lululemon founder Chip Wilson made sexist remarks at a Canadian women’s leader
 <!-- image: https://gdb.rferl.org/7f6ae399-7c4e-4341-ccd0-08de3c914337_w1200_h630.jpg -->
 
 Taliban authorities pressure Afghan men to restrict their female family members. Men are told to forbid women from leaving home or withhold cell phones. These measures enforce strict gender segregation. The regime uses male relatives as enforcers. Afghan men and women have told RFE/RL's Radio Azadi that Afghanistan's Taliban authorities are making men impose strict restrictions on female family members, such as forbidding them to leave the home or withholding cell phones.
-
----
-
-## Americas
-
-### [Southeast Asia’s AI data center bets turning into stranded assets](https://asiatimes.com/2026/11/southeast-asias-ai-data-center-bets-turning-into-stranded-assets/)
-*Asia Times* - Nov 27, 07:24 IST (iso: 2026-11-27T01:54:54+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Day-One-Data-Center-Malaysia.jpg -->
-
-Southeast Asian AI data center projects face becoming stranded assets after Nvidia halted chip shipments. The suspension disrupts the region's physical infrastructure buildout. Financial commitments now risk obsolescence. The boom's underlying architecture has effectively seized up. Wall Street spent this week celebrating Jensen Huang’s reinstatement at Nvidia as a triumph of corporate resilience and White House pragmatism. Yet while traders bid up the chipmaker’s stock in New York, the physical and financial architecture of Southeast Asia’s artificial intelligence boom has seized up.
-
-### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
-*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
-
-Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
 
 ---
 

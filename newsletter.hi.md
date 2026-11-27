@@ -1,176 +1,180 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 27, 2026 16:00 IST
+**अपडेट:** November 28, 2026 01:13 IST
 
 ---
 
-## मध्य पूर्व और अफ्रीका
+## वैश्विक / बहुपक्षीय
 
-### [इजराइल में सरकार की चाबी ‘रा’म’ पार्टी प्रमुख अब्बास के हाथ? आइसेनकोट के गठबंधन से पहले आज खोलेंगे](https://www.patrika.com/world-news/mansour-abbas-raam-party-hamas-definition-eisenkot-coalition-21094031)
-*Patrika (World)* - Nov 27, 15:26 IST (iso: 2026-11-27T09:56:50+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Mansour-Abbas.webp -->
+### [एफएसएसएआई ने दी मुकदमा चलाने की मंजूरी, बंगाल में भी पानी का नमूना निकला असुरक्षित](https://www.amarujala.com/india-news/fssai-sanctions-prosecution-against-bisleri-bacteria-found-west-bengal-water-sample-2026-11-28)
+*Amar Ujala National* - Nov 28, 12:59 IST (iso: 2026-11-28T07:29:10+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/bisleri_04ddfdbecd59a2a1956fc034ccd19334.jpeg?w=1200&dpr=1.0 -->
 
-मंसूर अब्बास ने हमास को आतंकी संगठन घोषित किया। यह कदम राआम पार्टी को आइसेनकोट के गठबंधन में शामिल होने का रास्ता खोल सकता है। इससे इजराइल की राजनीतिक समीकरण बदलने की संभावना है। ‘राआम’ (Ra’am) पार्टी के चेयरमैन मंसूर अब्बास शनिवार रात एक टीवी इंटरव्यू में सार्वजनिक रूप से यह स्वीकार करने वाले हैं कि हमास एक आतंकी संगठन है।
-
-### [दो इतालवी नागरिकों की मौत पर ईरान का इनकार, साझा जांच की पेशकश](https://www.patrika.com/world-news/kuwait-drone-attack-iran-denial-italians-killed-joint-investigation-21092153)
-*Patrika (World)* - Nov 27, 09:16 IST (iso: 2026-11-27T03:46:43+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Syed-Abbas-Araghchi.webp -->
-
-कुवैत में दो इतालवी नागरिकों की ड्रोन हमले में मौत पर विवाद गहरा गया है। कुवैती सेना ने ईरान को जिम्मेदार ठहराया, जबकि तेहरान ने किसी भी भूमिका से इनकार करते हुए साझा जांच की पेशकश की है। Iran Kuwait Tensions: कुवैत में दो इतालवी नागरिकों की जान लेने वाले ड्रोन हमले पर विवाद गहरा गया है। कुवैती सेना ने इसके लिए ईरान को जिम्मेदार बताया है, जबकि तेहरान ने किसी भी भूमिका से साफ इनकार करते हुए कुवैत और इटली के साथ मिलकर जांच करने की पेशकश की है।
-
-### [हूतियों ने ठोका तेल का कुआं, तड़प उठा सऊदी अरब, नेपाली नागरिक की मौत के बाद बढ़ा तनाव](https://hindi.news18.com/world/middle-east-saudi-arabia-halts-refinery-operations-after-houthi-attack-kills-nepali-citizen-west-asia-conflict-ws-l-11015675.html)
-*News18 Hindi (World)* - Nov 27, 08:08 IST (iso: 2026-11-27T02:38:46+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-houthi-2026-07-47409ade861378c73a3a2b9d136dd332-1200x800.jpg -->
-
-यमन के हूतियों ने सऊदी अरब की अरामको रिफाइनरी पर हमला किया। इससे क्षेत्रीय तनाव और बढ़ा। नेपाली नागरिक की मौत के बाद भी तनाव जारी है। ईरान मसले का कोई हल निकला नहीं है और अब सऊदी अब और हूतियों के बीच का संग्राम भी बढ़ता जा रहा है. हूतियों ने एक बार फिर से सऊदी के तेल के कुएं यानि अरामको रिफाइनरी को निशाना बनाकर अटैक किया है.
-
-### [सदी के अंत तक 140% तक बढ़ सकती हैं बिजली गिरने की घटनाएं](https://www.amarujala.com/world/world-updates-of-27-nov-world-news-us-iran-crisis-russia-ukraine-war-us-china-world-news-in-hindi-2026-11-27)
-*Amar Ujala World* - Nov 27, 07:39 IST (iso: 2026-11-27T02:09:36+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0 -->
-
-वैज्ञानिकों का अनुमान है कि सदी के अंत तक बिजली गिरने की घटनाएं 140 प्रतिशत तक बढ़ सकती हैं। यह वृद्धि मौसम परिवर्तन के कारण हो रही है। सदी के अंत तक 140% तक बढ़ सकती हैं बिजली गिरने की घटनाएं।
-
----
-
-## एशिया-प्रशांत
-
-### [फर्जी भारतीय पहचान, डीपफेक और सांप्रदायिक हथकंडों के ज़रिए पाकिस्तान ने ऑनलाइन भारत को निशाना बनाने](https://www.patrika.com/world-news/pakistan-speeds-up-targeting-india-online-using-fake-indian-identities-deepfakes-and-communal-fault-lines-21093486)
-*Patrika (World)* - Nov 27, 14:57 IST (iso: 2026-11-27T09:27:20+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/hacker-using-ai.webp -->
-
-पाकिस्तान ने भारत के सैन्य नेतृत्व पर भरोसा तोड़ने के लिए ऑनलाइन अभियान तेज किया है। इसके लिए फर्जी पहचान, डीपफेक और पुराने वीडियो का इस्तेमाल किया जा रहा है। लक्ष्य देश की मौजूदा दरारों का फायदा उठाना है। भारत (India) के सैन्य नेतृत्व पर से लोगों का भरोसा कम करने और देश में पहले से मौजूद दरारों का फायदा उठाने के लिए पाकिस्तान (Pakistan) ने ऑनलाइन भारत को निशाना बनाने की अपनी कोशिशों को तेज़ कर दिया है।
-
-### [हाफिज सईद के फैन हैं पाकिस्तानी एक्टर, UN मानता है आतंकवादी, फिर कैसे नेटफ्लिक्स रिलीज कर रहा शो?](https://hindi.news18.com/world/pakistan-hafiz-saeed-fanboy-hamza-ali-abbasi-starring-netflix-show-controversy-on-pakistani-web-series-ws-l-11016631.html)
-*News18 Hindi (World)* - Nov 27, 14:50 IST (iso: 2026-11-27T09:20:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/hamza-pic-2026-11-e3b59e79d7027421269c5150f265cef9-1200x800.jpg -->
-
-नेटफ्लिक्स पर पाकिस्तान की पहली वेब सीरीज रिलीज से पहले विवाद खड़ा हो गया है। एक्टर हमजा अली अब्बासी की हाफिज सईद के साथ तस्वीर वायरल हुई। सईद को संयुक्त राष्ट्र आतंकवादी मानता है। Pakistani Web Series Controversy: पाकिस्तानी एक्टर हमजा अली अब्बासी की हाफिज सईद के साथ वायरल हो रही तस्वीर को लेकर बवाल मच गया है. नेटफ्लिक्स पर पाकिस्तान की पहली ओरिजनल बेव सीरीज की रिलीज से तुरंत पहले वायरल हुई इस तस्वीर ने विवाद खड़ा कर दिया है कि आखिर आतंकवादी के फैनबॉय को इंटरनेशनल प्लेटफॉर्म क्यों मिल रहा है.
-
-### [IBM ने H-1B वीजा और ग्रीन कार्ड स्पॉन्सरशिप रोकी, अमेरिका छोड़ें या नौकरी? भारतीयों पर क्या असर?](https://hindi.news18.com/news/career/jobs-ibm-stops-h1b-visa-green-card-sponsorship-consulting-impact-indians-11016466.html)
-*News18 Hindi (World)* - Nov 27, 14:30 IST (iso: 2026-11-27T09:00:36+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/IBM-H-1B-Visa-Sponsorship-2026-11-b7fd3e9c9162e641faea79dd29e883ca-1200x800.jpg -->
-
-आईबीएम ने अपने कंसल्टिंग डिवीजन में एच-1बी वीजा और ग्रीन कार्ड स्पॉन्सरशिप बंद कर दी है। प्रभावित कर्मचारियों को दूसरे देश जाना होगा या 31 दिसंबर तक नौकरी छोड़नी होगी। इससे भारतीय पेशेवरों पर सीधा असर पड़ेगा। IBM H-1B Visa Sponsorship: टेक दिग्गज आईबीएम ने अपने कंसल्टिंग डिवीजन की ज्यादातर नौकरियों के लिए अमेरिकी वर्क वीजा और ग्रीन कार्ड स्पॉन्सरशिप बंद करने का फैसला किया है.
-
-### [फेक वीडियो, डीपफेक और पाकिस्तान कनेक्शन, भारत के खिलाफ सोशल मीडिया दुष्प्रचार का सामने आया नया](https://hindi.news18.com/news/nation/new-pattern-of-social-media-propaganda-fake-video-and-deepfakes-pakistan-connection-against-india-is-revealled-ws-l-11016535.html)
-*News18 Hindi (World)* - Nov 27, 14:22 IST (iso: 2026-11-27T08:52:48+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/india-pakistan-dialogue-open-letter-from-100-eminent-citizens-inlcludingmani-shankar-aiyar-pm-modi-shehbaz-sharif-2026-07-bc7f04ab2eb77051225609cb5d06b2f3-1200x800.jpg -->
-
-भारत के खिलाफ सोशल मीडिया पर नया दुष्प्रचार पैटर्न सामने आया है। इसमें फेक वीडियो और डीपफेक का उपयोग किया जा रहा है। लक्ष्य सेना और शीर्ष नेतृत्व को निशाना बनाकर अस्थिरता फैलाना है। भारत के खिलाफ सोशल मीडिया पर फेक वीडियो, डीपफेक और पाकिस्तान कनेक्शन से जुड़े दुष्प्रचार का नया पैटर्न सामने आया है. इसमें सेना, शीर्ष नेतृत्व और संवेदनशील मुद्दों को निशाना बनाकर अस्थिरता फैलाने की कोश‍िश की जा रही है.
-
-### [भारत से लौटते ही नफरत का रोना रो रहे पाकिस्तानी मंत्री, आप भेजें आतंकवादी, हम सजा दें फूलों की सेज?](https://hindi.news18.com/world/pakistan-pakistan-minister-musadik-malik-complains-hatred-against-pakistan-but-what-about-terrorism-ws-l-11016415.html)
-*News18 Hindi (World)* - Nov 27, 13:52 IST (iso: 2026-11-27T08:22:17+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/india-approves-taj-mahal-visit-but-pakistan-minister-musadik-malik-skips-agra-2026-11-b034581091994ff75a14b55c2052eabd-1200x800.jpg -->
-
-पाकिस्तानी मंत्री मुसादिक मलिक ने भारत से लौटने के बाद भारतीय मीडिया को नफरती करार दिया। उन्होंने अपने देश के अधिकारियों के घृणा भरे बयानों पर कोई टिप्पणी नहीं की। यह बयान सोशल मीडिया पर वायरल हो रहा है। इस दौरान उन्होंने मीडिया के साथ बातचीत की थी और उनके और पाकिस्तानी अधिकारियों के बीच के वीडियो भी खूब वायरल हुए थे.
-
-### [शेख हसीना की वापसी का इतना डर? होम टाउन में लॉकडाउन से हालात, ट्रेन बंद, फंड फ्रीज, वाकई ICJ जाएगा](https://hindi.news18.com/world/south-asia-sheikh-hasina-return-turmoil-train-halted-funds-frozen-in-gopalganj-bangladesh-considers-icj-option-ws-l-11016212.html)
-*News18 Hindi (World)* - Nov 27, 11:55 IST (iso: 2026-11-27T06:25:40+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/SHEIKH-HASINA-N-2026-11-83e538e198216ff440bfb537c1997993-1200x800.jpg -->
-
-बांग्लादेश की बीएनपी सरकार ने शेख हसीना की संभावित वापसी से डरकर गोपालगंज में सुरक्षा कड़ी कर दी है। वहाँ ट्रेनें बंद हैं और सेना की तैनाती बढ़ाई गई है। स्थिति लॉकडाउन जैसी बनी हुई है। Bangladesh Sheikh Hasina Return: शेख हसीना की वापसी को लेकर तारिक सरकार चौकन्नी हो चुकी है. खासतौर पर उनके गृहनगर गोपालगंज में सिक्योरिटी इतनी बढ़ा दी गई है कि लॉकडाउन जैसे हालात हैं.
-
-### [शेख हसीना के प्रत्यर्पण पर बांग्लादेशी स्पीकर ने दी ICJ जाने की धमकी, 1971 की जंग व कश्मीर पर भी](https://www.patrika.com/world-news/bangladeshi-speaker-warns-india-over-sheikh-hasina-extradition-makes-remarks-on-1971-war-and-kashmir-21092534)
-*Patrika (World)* - Nov 27, 11:06 IST (iso: 2026-11-27T05:36:49+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Sheikh-Hasina-3.webp -->
-
-बांग्लादेशी संसद स्पीकर हाफिज उद्दीन अहमद ने इस्लामाबाद में कहा कि यदि भारत शेख हसीना को प्रत्यर्पित नहीं करता, तो ढाका अंतर्राष्ट्रीय न्यायालय का दरवाजा खटखटाएगा। इस बयान ने दोनों देशों के बीच तनाव को और गहरा किया है। Sheikh Hasina Extradition: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के संभावित प्रत्यर्पण को लेकर भारत और बांग्लादेश के बीच तनाव बढ़ता दिख रहा है।
-
-### [शेख हसीना की वापसी नहीं होगी आसान, पूर्व डिप्टी प्रेस सेक्रेटरी समेत तीन की गिरफ्तारी पर उठे सवाल](https://www.amarujala.com/world/bangladesh-action-taken-former-pm-return-three-arrested-including-sheikh-hasina-former-deputy-press-secretary-2026-11-27)
-*Amar Ujala World* - Nov 27, 08:14 IST (iso: 2026-11-27T02:44:45+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/taraka-rahamana-bgalthasha-ka-paema_cdc2c455e9a374a90bc12e8628af803c.jpeg?w=1200&dpr=1.0 -->
-
-बांग्लादेश में शेख हसीना की वापसी से पहले तीन लोगों की गिरफ्तारी हुई। इसमें उनकी पूर्व डिप्टी प्रेस सेक्रेटरी भी शामिल हैं। इस कदम पर सवाल उठे हैं। शेख हसीना की वापसी नहीं होगी आसान, पूर्व डिप्टी प्रेस सेक्रेटरी समेत तीन की गिरफ्तारी पर उठे सवाल।
-
-### [गुरुपर्व पर पाकिस्तान गए सिख श्रद्धालुओं के जत्थे से तीन भारतीय गायब, अलर्ट पर केंद्रीय एजेंसियां](https://hindi.news18.com/news/nation/3-sikh-pilgrims-are-missing-in-pakistan-during-guru-nanak-dev-ji-guru-purab-yatra-indian-agencies-are-on-high-alert-ws-l-11015614.html)
-*News18 Hindi (World)* - Nov 27, 07:35 IST (iso: 2026-11-27T02:05:17+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/guru-nanak-jayanti-2026-11-6ba085eb10f519503a8250d005d42a17-1200x800.jpg -->
-
-पाकिस्तान में गुरुपर्व के दौरान तीन भारतीय सिख श्रद्धालु गायब हो गए। वे 2800 लोगों के दस्ते के साथ गए थे। केंद्रीय एजेंसियां अब उनकी तलाश में जुट गई हैं। गुरुपर्व पर पाकिस्तान गए सिख श्रद्धालुओं के जत्थे से पंजाब के तीन भारतीय यात्री रहस्यमयी तरीके से गायब हो गए हैं. ये सभी गुरुनानक के गुरुपर्व में शाम‍िल होने के लि‍ए 2800 लोगों के दस्‍ते में पाक‍िस्‍तान गए थे.
-
-### ['दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर? बुलंद हैं आवामी लीग के](https://hindi.news18.com/world/south-asia-bangladesh-state-minister-denies-sheikh-hasina-return-after-awami-league-calls-shutdown-11015605.html)
-*News18 Hindi (World)* - Nov 27, 07:22 IST (iso: 2026-11-27T01:52:52+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/08/Tarique-Rahman-Sheikh-Hasina-2026-08-1ebb72e3d455b3ba5c02da3de4cf2f3e-1200x800.jpg -->
-
-बांग्लादेश की सरकार ने शेख हसीना की वापसी को खारिज किया। मंत्रियों ने कहा कि दिसंबर में सिर्फ सर्दी आएगी। आवामी लीग के हौसले बुलंद हैं। सियासी बवाल बढ़ता जा रहा है। Bangladesh Sheikh Hasina Return Turmoil: बांग्लादेश की पूर्व पीएम शेख हसीना की वापसी को लेकर वहां सियासी बवाल बढ़ता ही जा रहा है. 'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर?
-
----
-
-## अमेरिका
-
-### [‘अमेरिका को नहीं है मिडिल ईस्ट के तेल की ज़रूरत’, क्या डोनाल्ड ट्रंप की इस बात में है सच्चाई? समझिए](https://www.patrika.com/world-news/donald-trump-says-us-does-not-need-middle-east-oil-21092518)
-*Patrika (World)* - Nov 27, 12:36 IST (iso: 2026-11-27T07:06:20+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/trump-.webp -->
-
-डोनाल्ड ट्रंप ने फ्लोरिडा से सैनिकों के साथ बातचीत के दौरान कहा कि अमेरिका को मध्य पूर्व के तेल की ज़रूरत नहीं है। उन्होंने यह टिप्पणी थैंक्सगिविंग के मौके पर की। यह बयान ऊर्जा नीति पर प्रभाव डाल सकता है। अमेरिका (United States of America) के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने गुरुवार (स्थानीय समय) को फ्लोरिडा में अपने मार-ए-लागो आवास से अपनी पत्नी मेलानिया ट्रंप (Melania Trump) के साथ अमेरिकी सैन्य कर्मियों के साथ थैंक्सगिविंग के मौके पर कॉल के ज़रिए बात की और कई मुद्दों का ज़िक्र किया।
-
-### [राष्ट्रपति ट्रंप ने हुआंग की दूसरी पारी का किया बचाव, कहा- हर कोई बदला जा सकता है](https://www.amarujala.com/world/us-president-trump-defends-jensen-huang-s-second-term-at-nvidia-says-everybody-s-replaceable-2026-11-27)
-*Amar Ujala World* - Nov 27, 07:56 IST (iso: 2026-11-27T02:26:07+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/trump-defends-jensen-huangs-second-term-at-nvidia-says-everybodys-replaceable_01d20b6ea759a4531fb6afc9f87c0b3e.jpeg?w=1200&dpr=1.0 -->
-
-अमेरिकी राष्ट्रपति ट्रंप ने एनवीडिया के सीईओ जेनसन हुआंग की दूसरी पारी का बचाव किया। उन्होंने कहा कि हर कोई बदला जा सकता है। ट्रंप ने अपना भरोसा जताया। राष्ट्रपति ट्रंप ने हुआंग की दूसरी पारी का किया बचाव, कहा- हर कोई बदला जा सकता है।
-
-### [थैंक्सगिविंग पर अमेरिका में तूफान का कहर: सात लाख से ज्यादा घरों की बिजली गुल, हजारों उड़ानें](https://www.amarujala.com/world/storm-wreaks-havoc-in-the-us-on-thanksgiving-power-out-in-over-700-000-homes-thousands-of-flights-affected-2026-11-27)
-*Amar Ujala World* - Nov 27, 07:39 IST (iso: 2026-11-27T02:09:37+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/thakasagavaga-para-masama-ka-mara_08842f93e0cea04af2432a37618e8a1d.jpeg?w=1200&dpr=1.0 -->
-
-थैंक्सगिविंग पर अमेरिका में तूफान ने सात लाख से ज्यादा घरों की बिजली काट दी। हजारों उड़ानें प्रभावित हुईं। यह तूफान देश के कई हिस्सों में देर तक बना रहा। थैंक्सगिविंग पर अमेरिका में तूफान का कहर: सात लाख से ज्यादा घरों की बिजली गुल, हजारों उड़ानें।
+फूड सेफ्टी और स्टैंडर्ड्स अथॉरिटी ऑफ इंडिया ने बिसलेरी के खिलाफ मुकदमा चलाने की मंजूरी दी है। पश्चिम बंगाल में भी पानी के नमूने में बैक्टीरिया मिलने की रिपोर्ट आई है। कंपनी की कानूनी मुश्किलें बढ़ गई हैं। एफएसएसएआई ने दी मुकदमा चलाने की मंजूरी, बंगाल में भी पानी का नमूना निकला असुरक्षित।
 
 ---
 
 ## दुनिया
 
-### [ग्राम पंचायतों के कार्यकाल को लेकर सरकार का आदेश जारी, छह महीने तक प्रधान संभाले रखेंगे इसकी](https://www.amarujala.com/lucknow/up-panchayat-elections-deferred-term-of-village-panchayats-extended-by-six-months-pradhans-village-heads-2026-11-27)
-*Amar Ujala Breaking* - Nov 27, 12:23 IST (iso: 2026-11-27T06:53:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/garama-pacayata-ka-karayakal-ka-lkara-sarakara-ka-aathasha-jara_4bd99ec8df5a281d8ec0b165d654dbe8.jpeg?w=1200&dpr=1.0 -->
+### [रत्न भंडार की सूची बनाने में 100+ घंटे पूरे, तीन संदूकों का खुलना बाकी; कब पूरा होगा काम?](https://www.amarujala.com/india-news/puri-jagannath-temple-completes-100-hrs-of-ratna-bhandar-inventory-process-underway-2026-11-28)
+*Amar Ujala National* - Nov 28, 12:30 IST (iso: 2026-11-28T07:00:18+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/bhagavana-jagananatha-mathara-para_f598044fcfd7febd8fea1237c24ec118.jpeg?w=1200&dpr=1.0 -->
 
-उत्तर प्रदेश सरकार ने पंचायत चुनाव टलने के बाद ग्राम पंचायतों का कार्यकाल छह महीने बढ़ा दिया है। मौजूदा प्रधान इस अवधि तक जिम्मेदारी संभालते रहेंगे। यह फैसला प्रशासनिक स्थिरता बनाए रखने के लिए लिया गया है। उत्तर प्रदेश में पंचायत चुनाव टलने के बाद ग्राम पंचायतों का कार्यकाल छह महीने और बढ़ा दिया गया है। मौजूदा प्रधान इस अवधि में जिम्मेदारी संभालते रहेंगे।
+पुरी जगन्नाथ मंदिर में रत्न भंडार की गिनती के लिए 100 घंटे से अधिक का समय लग चुका है। अभी तीन संदूकों का खुलना बाकी है। प्रशासन ने पूरा काम कब खत्म होगा, इसकी तारीख तय नहीं की है। पुरी जगन्नाथ मंदिर: रत्न भंडार की सूची बनाने में 100+ घंटे पूरे, तीन संदूकों का खुलना बाकी; कब पूरा होगा काम?
 
-### [AI की रेस में बड़ा फैसला? SAP में 10,000 नौकरियों पर तलवार, प्रोडक्ट, इंजीनियरिंग और सेल्स टीम](https://www.patrika.com/world-news/sap-layoffs-10000-jobs-ai-first-restructuring-21092197)
-*Patrika (World)* - Nov 27, 10:38 IST (iso: 2026-11-27T05:08:47+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/SAP-Layoffs.webp -->
+### [14 साल की गुड़िया का जबरदस्ती निकाह, चोटिल हालत में मां बनी मुश्तरकी, 10 दिन बाद पति ने की हैवानियत](https://hindi.news18.com/world/middle-east-14-year-old-iranian-child-bride-sogand-moshtareki-beaten-to-death-by-husband-10-days-after-giving-birth-11017370.html)
+*News18 Hindi (World)* - Nov 27, 21:36 IST (iso: 2026-11-27T16:06:45+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Iran-Woman-Killings-2026-11-668f162506c9c6763f07053a06f187a2-1200x800.jpg -->
 
-यूरोप की सबसे बड़ी सॉफ्टवेयर कंपनी SAP ने कृत्रिम बुद्धिमत्ता के दौर में खुद को ढालने के लिए बड़े पुनर्गठन की तैयारी शुरू की है। ब्लूमबर्ग की रिपोर्ट के अनुसार, कंपनी कम से कम 10,000 पद खत्म करने की योजना बना रही है। SAP Layoffs Due to AI: आर्टिफिशियल इंटेलिजेंस (AI) के दौर में खुद को ढालने के लिए यूरोप की सबसे बड़ी सॉफ्टवेयर कंपनी SAP बड़े पुनर्गठन की तैयारी में है।
+सोलह साल की मुश्तरकी को उसके बीस साल के पति ने मार डाला। वह दस दिन पहले मां बनी थी। उसने मायके जाने की बात कही थी, जिस पर पति ने उसे पीट-पीटकर हत्या कर दी। 14 साल की सोगंद मुश्तरकी की उसके पति ने पीट-पीटकर जान ले ली. सोगंद ने महज दस दिन पहले ही एक बच्चे को जन्म दिया था.
 
-### [120km स्पीड से दौड़ी आई तबाही, 400 उड़ानें रद्द, उखड़े पेड़, 100 साल में पहली बार त्योहार पर घनघोर](https://hindi.news18.com/world/america-120-kmph-speed-thanksgiving-storm-causes-400-flights-cancel-leaving-900000-without-power-11015934.html)
-*News18 Hindi (World)* - Nov 27, 10:16 IST (iso: 2026-11-27T04:46:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/thanksiving-pic-2026-11-8feefecb90503f5bdc1896f10c6272f7-1200x800.jpg -->
+### [हाईवे के नीचे दबा था खजाना, एक दिन JCB ड्राइवर को आई ठक्क की आवाज, खोदकर देखा तो हो गया मालामाल](https://hindi.news18.com/news/ajab-gajab/viral-1600-year-old-roman-silver-coins-found-under-highway-ancient-roman-coins-treasure-discovered-11017113.html)
+*News18 Hindi (World)* - Nov 27, 19:18 IST (iso: 2026-11-27T13:48:14+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Khazana-Under-Highway-2026-11-eda36a29e321d18cb5622da2bb90e431-1200x800.jpg -->
 
-120 किलोमीटर प्रतिघंटा की रफ्तार से चलने वाली तेज हवाओं ने पूरे त्योहार को अंधेरे में डूबने पर मजबूर कर दिया। इस तूफान के कारण 400 उड़ानें रद्द करनी पड़ीं और कई पेड़ उखड़ गए। 120 kmph Storm Causes 400 flights Cancel: कुदरत का खौफनाक रूप कुछ इस तरह से दिखाई दिया है कि पूरा का पूरा त्योहार ही अंधेरे में डूब गया.
+हाईवे चौड़ाई के काम में 388 ईस्वी के 1,600 साल पुराने चांदी के सिक्के मिले। इसे स्प्रिंगहेड होर्ड कहा जाता है। नीलामी में 114 सिक्के भारी कीमत पर बिके। बाकी सिक्कों की बिक्री जारी है। उसी दौरान खुदाई में चांदी के सिक्कों का एक खजाना मिल गया. इसे 'स्प्रिंगहेड होर्ड' कहा जाता है. ये सिक्के करीब 1,600 साल पुराने यानी 388 ईस्वी के दौर के हैं.
+
+### [सभी राज्यों में 50% सीटें बढ़ाने की तैयारी, सदन में दो-तिहाई बहुमत का सरकार को भरोसा](https://www.abplive.com/news/india/nda-government-plans-to-increase-50-percent-seats-on-all-states-confident-two-third-majority-3220261)
+*ABP Live (India)* - Nov 27, 18:38 IST (iso: 2026-11-27T13:08:30+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/5c04dfff648d2236748641196896b0961795784818963120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+केंद्र सरकार सभी राज्यों में लोकसभा सीटें 50 प्रतिशत बढ़ाने की तैयारी कर रही है। सत्ता पक्ष का भरोसा है कि बिल दो-तिहाई बहुमत से पास होगा। विपक्ष इसे रोकने के लिए रणनीति बना रहा है। परिसीमन बिल को लेकर सत्ता पक्ष और विपक्ष में आर-पार की स्थिति बनी हुई है. विपक्ष जहां इसे रोकने के लिए हरसंभव रणनीति बनाने पर लगा है तो वहीं सूत्रों के मुताबि संसद सत्र दोबारा शुरू करने के ऐलान के बाद केन्द्र सरकार को भरोसा है वे इस बिल को दो तिहाई बहुमत से सदन में पास करा लेगी.
+
+### [राहुल गांधी बोले- 'परिसीमन बिल का करेंगे विरोध', डीएमके के साथ आने पर बड़ा बयान](https://www.abplive.com/news/india/rahul-gandhi-says-dmk-should-join-us-to-oppose-oppose-delimitation-bill-3220259)
+*ABP Live (India)* - Nov 27, 18:28 IST (iso: 2026-11-27T12:58:26+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/6bfe1ffab771f6f670d8ead3480a1b8a1795784294813708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+राहुल गांधी ने कहा कि विपक्ष परिसीमन बिल का कड़ा विरोध करेगा। उन्होंने बीजेपी के राजनीतिक फायदे की बात की। डीएमके के साथ मिलकर विरोध करने का संकेत दिया। 30 नवंबर से विशेष सत्र शुरू होगा। सूत्रों के मुताबिक, उन्होंने कहा कि सभी सांसदों को यह बात जनता और संसद के सामने रखनी होगी कि बीजेपी अपने राजनीतिक फायदे के लिए परिसीमन करना चाहती है.
+
+### [‘कैश तैयार रखें’, 2027 में आ रही कोरोना से भी बड़ी आफत, 2030 तक पैसा-पावर सब बेकार, ‘AI पुलिस’ ने](https://hindi.news18.com/world/america-ai-safety-researcher-warns-of-2027-crisis-worse-than-covid-urges-keeping-cash-and-food-ready-2030-ai-risks-alert-11017028.html)
+*News18 Hindi (World)* - Nov 27, 17:43 IST (iso: 2026-11-27T12:13:09+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/2027-AI-Risk-Prediction-2026-11-2a89a0c23ce4de7cc5768835562bb97f-1200x800.jpg -->
+
+AI रिसर्चर निकोला जुरकोविक ने 2027 में बड़ी उथल-पुथल की चेतावनी दी है। उनका कहना है कि 2030 तक अर्थव्यवस्था और नौकरियों पर गहरा असर पड़ेगा। सख्त वैश्विक नियमों की कमी इस खतरे का कारण है। AI वॉचडॉग के रिसर्चर निकोला जुरकोविक ने सोशल मीडिया पर खुला खत लिखा है. वो एडवांस AI सिस्टम की सुरक्षा पर काम करते हैं.
+
+### [5 दिन का राशन-पानी जमा कर लो, 24 घंटों में आ रही सर्दियों की पहली आफत, हड्डियों में इंजेक्शन जैसी](https://hindi.news18.com/world/america-mausam-news-today-winter-storm-warning-16-inches-heavy-snowfall-60-mph-winds-alert-travel-advisory-issued-montana-and-wyoming-11016707.html)
+*News18 Hindi (World)* - Nov 27, 16:54 IST (iso: 2026-11-27T11:24:26+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Mausam-News-2026-11-de4ae78afc54c1bad128204f0b02f162-1200x800.jpg -->
+
+मौसम विभाग ने विंटर स्टॉर्म वॉर्निंग जारी की। अगले 24 घंटों में 8 से 16 इंच बर्फबारी और 60 मील प्रति घंटे की हवाओं की संभावना है। कई इलाकों में मौसम बिगड़ने वाला है. अगले कुछ घंटों में इस सीजन की पहली बड़ी बर्फीली आफत आने वाली है. मौसम विभाग ने विंटर स्टॉर्म वॉर्निंग जारी कर दी है. चेतावनी के मुताबिक, यहां 8 से 16 इंच तक भारी बर्फबारी हो सकती है.
+
+### [ममता की बड़ी जीत, ऋतब्रत बनर्जी के विधानसभा नेता प्रतिपक्ष पद की नियुक्ति HC ने किया खारिज](https://www.abplive.com/news/india/tmc-rebel-ritabrata-banerjee-loses-leader-of-opposition-post-in-west-bengal-assembly-big-news-3220173)
+*ABP Live (India)* - Nov 27, 15:47 IST (iso: 2026-11-27T10:17:57+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/eab0d5369b877deba2f8e2a98bb57d171795774987281120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+कलकत्ता हाईकोर्ट ने रितब्रत बनर्जी की विधानसभा नेता प्रतिपक्ष नियुक्ति रद्द कर दी। अख्रुज्जमान की चीफ व्हिप नियुक्ति भी खारिज हुई। कलकत्ता हाईकोर्ट ने शुक्रवार को पश्चिम बंगाल विधानसभा में नेता प्रतिपक्ष (LoP) के पद पर रितब्रत बनर्जी की नियुक्ति को रद्द कर दिया. इसके साथ ही कोर्ट ने विधायक अख्रुज्जमान की चीफ व्हिप के तौर पर की गई नियुक्ति को भी खारिज कर दिया.
 
 ---
 
 ## यूरोप और रूस
 
-### [यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?](https://www.amarujala.com/world/donald-trump-nato-chief-mark-rutte-push-russia-to-avoid-any-actions-that-would-expand-the-war-with-ukraine-2026-11-27)
-*Amar Ujala World* - Nov 27, 12:20 IST (iso: 2026-11-27T06:50:29+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/danalda-tarapa-oura-nata-mahasacava-maraka-rata_e3f4ceefa557f73de5ceacc5c26de35e.jpeg?w=1200&dpr=1.0 -->
+### [समुद्र में बढ़ी भारत की ताकत: नौसेना को मिला आईएनएस विंध्यगिरि, ब्रह्मोस और बराक-8 मिसाइलों से लैस](https://www.amarujala.com/india-news/indian-navy-receives-ins-vindhyagiri-last-project-17a-stealth-frigate-2026-11-28)
+*Amar Ujala Breaking* - Nov 28, 12:24 IST (iso: 2026-11-28T06:54:43+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/ins-vindhyagiri_7ad379af724f78450dc2d9cee673c2a8.jpeg?w=1200&dpr=1.0 -->
 
-ट्रंप और नाटो महासचिव मार्क रूट्टे ने रूस से अपील की कि वह यूक्रेन युद्ध को विस्तार न दें। दोनों ने सैन्य कार्रवाई रोकने पर जोर दिया। बैठक का उद्देश्य तनाव को कम करना था। अमेरिका: यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?
+भारतीय नौसेना को आईएनएस विंध्यगिरि युद्धपोत मिला है। यह प्रोजेक्ट 17A स्टील्थ फ्रिगेट का अंतिम पोत है। इसमें ब्रह्मोस और बराक-8 मिसाइलें लगी हैं। इससे समुद्री सुरक्षा क्षमता बढ़ी है। समुद्र में बढ़ी भारत की ताकत: नौसेना को मिला आईएनएस विंध्यगिरि, ब्रह्मोस और बराक-8 मिसाइलों से लैस।
 
-### [पढ़ाई में एआई से कैसे मिलती है मदद?: पुतिन को भारतीय किशोर ने बताया अपना अनुभव, क्या बोले रूसी](https://www.amarujala.com/world/how-ai-helps-students-learn-indian-teenager-explains-experience-to-vladimir-putin-russian-president-responds-2026-11-27)
-*Amar Ujala World* - Nov 27, 12:07 IST (iso: 2026-11-27T06:37:00+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/valthamara-patana-rahal-jana-aja_6433e6df2adb3c8ccdfc63b89db18b79.jpeg?w=1200&dpr=1.0 -->
+### [रूस से टकराव की यूरोप कर रहा तैयारी, यूक्रेन में मांग रहा युद्धविराम, सर्गेई लावरोव का बड़ा आरोप](https://www.patrika.com/world-news/lavrov-europe-preparing-war-russia-ceasefire-ukraine-us-political-maturity-21096252)
+*Patrika (World)* - Nov 27, 20:48 IST (iso: 2026-11-27T15:18:58+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Sergei-Lavrov.webp -->
 
-एक भारतीय किशोर ने रूसी राष्ट्रपति व्लादिमीर पुतिन को एआई के माध्यम से पढ़ाई में मदद के अपने अनुभव के बारे में बताया। पुतिन ने इस बातचीत में हिस्सा लिया। इस घटना ने दोनों देशों के बीच युवाओं के बीच संवाद को उजागर किया। पढ़ाई में एआई से कैसे मिलती है मदद?: पुतिन को भारतीय किशोर ने बताया अपना अनुभव, क्या बोले रूसी राष्ट्रपति?
+रूस के विदेश मंत्री सर्गेई लावरोव ने यूरोप पर मिलिट्री टकराव की तैयारी का आरोप लगाया। उन्होंने कहा कि यूरोप यूक्रेन में सीजफायर की मांग कर रहा है। लावरोव ने अमेरिका के डिप्लोमैटिक दृष्टिकोण से यूरोप के रुख को अलग बताया। Russia Europe Tensions: रूस के विदेश मंत्री सर्गेई लावरोव ने यूरोपियन देशों पर आरोप लगाया है कि वे रूस के साथ मिलिट्री टकराव की तैयारी कर रहे हैं, जबकि साथ ही यूक्रेन में तुरंत सीजफायर की मांग कर रहे हैं।
 
-### [उत्तर कोरिया ने रोकी मिसाइलों और हथियारों की आपूर्ति; क्या बदलेगा जंग का समीकरण?](https://www.amarujala.com/world/north-korea-suspends-military-aid-to-russia-amid-tensions-over-south-korea-2026-11-27)
-*Amar Ujala World* - Nov 27, 09:04 IST (iso: 2026-11-27T03:34:34+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/kama-jaga-una-oura-valthamara-patana-ka-malkata_ce15328f28448662640eaf4ef1308aad.jpeg?w=1200&dpr=1.0 -->
+---
 
-उत्तर कोरिया ने रूस को मिसाइलों और हथियारों की आपूर्ति रोकने का फैसला लिया है। यह कदम रूस के लिए बड़ा झटका है और युद्ध के समीकरण में बदलाव की संभावना जताता है। रूस को बड़ा झटका: उत्तर कोरिया ने रोकी मिसाइलों और हथियारों की आपूर्ति; क्या बदलेगा जंग का समीकरण?
+## मध्य पूर्व और अफ्रीका
 
-### [16 साल के भारतीय AI टैलेंट राउल जॉन से मिले पुतिन, रूसी भाषा में नमस्कार सुन मुस्कुराने लगे](https://hindi.news18.com/news/nation/16-year-old-indian-ai-innovator-raul-john-aju-met-russian-president-vladimir-putin-11015578.html)
-*News18 Hindi (World)* - Nov 27, 08:32 IST (iso: 2026-11-27T03:02:45+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Putin-6-2026-11-b5da0d0b111334e4c8b3c3c24615d05d-1200x800.jpg -->
+### [अलादीन का चिराग है ये 14 मंजिला अपार्टमेंट बिल्डिंग, एक छत के नीचे रहते हैं 200 लोग, इसी में सुरंग](https://hindi.news18.com/world/america-whittier-alaska-town-inside-alaska-14-story-begich-towers-where-200-residents-live-together-store-clinic-church-tunnel-access-photogallery-11017580.html)
+*News18 Hindi (World)* - Nov 28, 00:03 IST (iso: 2026-11-27T18:33:28+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Whittier-Alaska-Town-2026-11-2873f810e50fe999dedfcc8f64a21e4c-1200x800.jpg -->
 
-16 वर्षीय राउल जॉन अजू ने मॉस्को में पुतिन से मुलाकात की। 26 नवंबर को एआई जर्नी कॉन्फ्रेंस के दौरान बातचीत हुई। पुतिन ने उनके काम की तारीफ की। Raul John Aju Meets Putin: भारत के 16 वर्षीय AI इनोवेटर राउल जॉन अजू ने रूस के मॉस्को में राष्ट्रपति व्लादिमीर पुतिन से मुलाकात की है. उनकी इस उपलब्धि से देश का नाम रोशन हुआ है.
+अलास्का के व्हिटियर में 200 लोग 14 मंजिला बेगिच टावर्स में रहते हैं। इमारत में स्टोर, क्लिनिक, पोस्ट ऑफिस और पुलिस स्टेशन मौजूद हैं। स्कूल जाने के लिए अंडरग्राउंड सुरंग बनाई गई है। यह ठंड से बचाव का उपाय है। अलास्का के व्हिटियर शहर में करीब 200 लोग एक ही 14 मंजिला इमारत 'बेगिच टावर्स' के अंदर रहते हैं, जहां जरूरत की लगभग हर चीज एक छत के नीचे मिल जाती है.
 
-### [डोनाल्ड ट्रंप का बड़ा दावा – रूस-यूक्रेन युद्ध को खत्म करने के लिए डील करना चाहते हैं व्लादिमीर पुतिन](https://www.patrika.com/world-news/donald-trump-says-vladimir-putin-would-like-to-make-deal-to-end-russia-ukraine-war-21091909)
-*Patrika (World)* - Nov 27, 07:39 IST (iso: 2026-11-27T02:09:36+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/putin-and-trump_.webp -->
+### [सबसे बड़े इस्लामिक देश ने मक्का पैक्ट को मारी लात, धरा रह गया मुस्लिम ब्रदरहुड का सपना, तुर्की के](https://hindi.news18.com/world/south-asia-indonesia-rules-out-joining-mecca-defense-pact-with-turkiye-pakistan-and-saudi-arabia-military-alliance-11017531.html)
+*News18 Hindi (World)* - Nov 27, 23:03 IST (iso: 2026-11-27T17:33:52+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Indonesia-2026-11-007484b99a999adb33f68786002f96d0-1200x800.jpg -->
 
-ट्रंप ने दावा किया कि वे पुतिन से रूस-यूक्रेन युद्ध समाप्त करने के लिए डील करना चाहते हैं। युद्ध को 57 महीने हो चुके हैं। अभी तक कोई समाधान नहीं निकला है। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 57 महीने पूरे हो चुके हैं। काफी कोशिशों के बावजूद युद्ध अभी तक रुका नहीं है। दोनों देश एक-दूसरे पर हमले कर रहे हैं।
+इंडोनेशिया ने मक्का डिफेंस पैक्ट में शामिल होने से इनकार कर दिया है। यह गठबंधन तुर्की, पाकिस्तान और सऊदी अरब का है। विदेश मंत्रालय ने स्वतंत्र और सक्रिय विदेश नीति का हवाला दिया। देश सैन्य गठबंधन में नहीं जुड़ना चाहता। इंडोनेशिया ने 'मक्का डिफेंस पैक्ट' में शामिल होने से साफ मना कर दिया है. ये गुट तुर्की, पाकिस्तान और सऊदी अरब का है.
+
+### [IRGC का दावा, बारूदी सुरंग से टकराकर आग का गोला बना ‘नियम तोड़ने वाला’ टैंकर](https://www.patrika.com/world-news/iran-irgc-hormuz-tanker-explosion-sea-mines-us-f16-airspace-red-line-21096446)
+*Patrika (World)* - Nov 27, 21:31 IST (iso: 2026-11-27T16:01:33+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Hormuz-sea-mines.webp -->
+
+ईरान की IRGC नौसेना ने दावा किया कि एक तेल टैंकर ने होर्मुज जलडमरूमध्य में अनधिकृत रास्ता अपनाया। ओमान के अल घनम द्वीप के उत्तर में वह समुद्री सुरंगों से टकराया। टैंकर में विस्फोट हुआ और आग लग गई। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) की नौसेना ने दावा किया है कि, एक ‘नियम तोड़ने वाला’ तेल टैंकर, जो ‘अनधिकृत’ रास्ते से होर्मुज जलडमरूमध्य को पार करने की कोशिश कर रहा था, ओमान के अल घनम द्वीप के उत्तर में समुद्री सुरंगों (माइन्स) से टकरा गया।
+
+### [मेहमानों की मेजबानी में पस्त पाकिस्तानी अवाम, सड़कें, मेट्रो, स्कूल-कॉलेज सब बंद, इस्लामाबाद में](https://hindi.news18.com/world/pakistan-mecca-pact-summit-forced-lockdown-in-islamabad-due-to-security-for-two-days-road-closure-traffic-diversion-ws-l-11016909.html)
+*News18 Hindi (World)* - Nov 27, 17:38 IST (iso: 2026-11-27T12:08:09+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-alert-2026-11-dc527c64685fe115bbf4ee9d8d0dbe82-1200x800.jpg -->
+
+मक्का पैक्ट मेहमानों के आगमन से इस्लामाबाद में सड़कें, मेट्रो और स्कूल बंद हैं। राजधानी में यातायात पूरी तरह ठप हो गया है। Pakistan Security Causing disturbance: पाकिस्तान में विदेश से जैसे ही कोई हाई प्रोफाइल डेलीगेशन आने वाला होता है, वहां की जनता को इसका खामियाजा भुगतना पड़ता है. ऐसा ही ईरान-अमेरिका वार्ता के वक्त हुआ था और ऐसा ही हो रहा है मक्का पैक्ट वाले मेहमानों के आने की वजह से.
+
+---
+
+## एशिया-प्रशांत
+
+### [किसानों के लिए रेगिस्तान में खिली ऐसी 'संजीवनी', अब सूखे में भी लहराएंगी फसलें, 40 प्रतिशत बढ़](https://hindi.news18.com/world/china-farming-invention-drought-resistant-crops-new-gene-discovered-in-lichen-fungus-boosts-wheat-rice-and-corn-yields-11017430.html)
+*News18 Hindi (World)* - Nov 27, 22:45 IST (iso: 2026-11-27T17:15:01+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Farming-Invention-2026-11-895c2daea68123f1ca7db63edb013687-1200x800.jpg -->
+
+चीन के वैज्ञानिकों ने लाइकेन फंगस में EpTFIIAγ जीन खोजा है। यह जीन सूखे में गेहूं, धान और मक्का की पैदावार 42.4 प्रतिशत तक बढ़ा सकता है। यह शोध नेचर पत्रिका में प्रकाशित हुआ है। चीन के वैज्ञानिकों ने लाइकेन बनाने वाले एक फंगस में नया जीन खोजा है. इसका नाम 'EpTFIIAγ' रखा गया है. सूखे के हालात में यह जीन फसलों की पैदावार को 42.4 फीसदी तक बढ़ा सकता है.
+
+### [पाकिस्तान में नए प्रांत बनाने की मांग पर रिपोर्ट ने उठाए सवाल, कहा- पहले गेहूं घोटाले और कराची की](https://www.patrika.com/world-news/pakistan-new-provinces-referendum-governance-wheat-import-karachi-21096595)
+*Patrika (World)* - Nov 27, 22:28 IST (iso: 2026-11-27T16:58:13+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Pakistan-Government-News.webp -->
+
+पाकिस्तान में नए प्रांत बनाने की मांग पर द फ्राइडे टाइम्स ने सवाल उठाए। अखबार ने कहा कि जनमत संग्रह से पहले सरकार को गेहूं घोटाले और कराची की स्थिति का हल करना चाहिए। स्थानीय निकायों को अधिकार देने की भी आवश्यकता है। Pakistan Government News: पाकिस्तान में नए प्रांत बनाने और इस मुद्दे पर जनमत संग्रह कराने की चर्चा के बीच वहां की सरकार को शासन व्यवस्था की नाकामियों पर घेरा गया है।
+
+### [9.25 लाख भारतीयों ने छोड़ी नागरिकता, 5 सालों के आंकड़ों में 40% की वृद्धि, रिपोर्ट में खुलासा](https://www.abplive.com/news/india/9-25-lakh-indians-became-oecd-citizens-in-last-five-years-report-records-40-percent-hike-in-migration-3220176)
+*ABP Live (India)* - Nov 27, 18:07 IST (iso: 2026-11-27T12:37:39+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/0fbcf900cc1dc5ca629793da1b42920b17957752153641126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+2020 से 2024 के बीच 9.25 लाख भारतीयों ने OECD देशों की नागरिकता ली। यह पांच साल के आंकड़ों में 40 प्रतिशत की वृद्धि दर्शाता है। रिपोर्ट इस प्रवृत्ति को उजागर करती है। भारत दुनिया में सबसे बड़ी आबादी वाला देश है, जहां करीब 140 करोड़ से ज्यादा नागरिक रहते हैं. वहीं, दुनिया भर के तमाम देशों में भी आज भारतीय नागरिक मौजूद हैं, जिनमें से काफी लोगों ने अलग-अलग देशों की नागरिकता भी ले ली है.
+
+### [‘अगर 30 नवंबर को परिसीमन बिल पारित हुआ तो...’, कपिल सिब्बल ने विपक्ष को चेताया](https://www.abplive.com/news/india/kapil-sibal-warns-opposition-to-not-let-delimitation-bill-pass-and-adopt-131-constitutional-amendment-in-parliament-3220209)
+*ABP Live (India)* - Nov 27, 18:07 IST (iso: 2026-11-27T12:37:16+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/c058ad0f2b4781136fddccc507b9b70617957786292601126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+वरिष्ठ अधिवक्ता कपिल सिब्बल ने विपक्ष को परिसीमन बिल पारित करने से रोका। उन्होंने चेतावनी दी कि 30 नवंबर को बिल पास होने पर लोकतंत्र खत्म हो जाएगा। उन्होंने केंद्र सरकार पर भी निशाना साधा। सुप्रीम कोर्ट में वरिष्ठ अधिवक्ता कपिल सिब्बल ने शुक्रवार को सभी विपक्षी पार्टियों से परिसीमन बिल को पारित करने और 131वें संविधान संशोधन के खतरे को लेकर चेताया है.
+
+### ['भागना बेकार है, जहां हो वहीं बचने का जुगाड़ देखो', 6 राज्यों पर मंडराई आफत, इमरजेंसी सर्विस ने दी](https://hindi.news18.com/world/rest-of-world-bushfire-alert-in-6-states-in-australia-emergency-services-warn-not-to-run-but-take-shelter-ws-l-11017093.html)
+*News18 Hindi (World)* - Nov 27, 18:04 IST (iso: 2026-11-27T12:34:55+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/australia-news-2026-11-939d59a09ecf0931db9f269f6bbb50cf-1200x800.jpg -->
+
+ऑस्ट्रेलिया में जंगल की आग ने छह राज्यों को घेर लिया है। इमरजेंसी सर्विस ने लोगों को भागने के बजाय स्थान पर बचने का जुगाड़ ढूँढने की सलाह दी। आग ने रिहायशी इलाकों में तेजी से प्रसार किया है। Bushfire Alert in Australia: कई बार परिस्थितियां ऐसी होती हैं कि खुद अधिकारियों को लोगों को ये चेतावनी देनी पड़ती है कि आने वाला वक्त काफी मुश्किल है.
+
+### [एके-47 के साथ गुजरात से जैश का आतंकी गिरफ्तार, टारगेट पर था एयरफोर्स स्टेशन](https://www.abplive.com/news/india/gujarat-vadodara-jaish-e-mohammed-terrorist-ak-47-air-force-station-was-target-3220235)
+*ABP Live (India)* - Nov 27, 17:41 IST (iso: 2026-11-27T12:11:47+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/23a9e942cb89d8fea66b18a9cc680c791795780116278708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+गुजरात एटीएस ने वडोदरा से जैश-ए-मोहम्मद के आतंकी मोहम्मद शहरुल इस्लाम को गिरफ्तार किया। उसके पास से एके-47 राइफल और 23 कारतूस बरामद हुए। उसका लक्ष्य एयरफोर्स स्टेशन था। गुजरात एटीएस ने एक बड़ी कार्रवाई करते हुए वडोदरा से जैश-ए-मोहम्मद से जुड़े एक संदिग्ध आतंकी को गिरफ्तार किया है. आरोपी के पास से एक एके-47 राइफल और 23 कारतूस बरामद हुए हैं.
+
+### [पाकिस्तान की हरकतें बेनकाब, भारतीय नामों से फर्जी अकाउंट बनाकर तनाव फैलाने की कोशिश](https://www.abplive.com/news/world/pakistan-digital-propaganda-network-exposed-tension-creating-fake-accounts-in-india-ann-3220142)
+*ABP Live (World)* - Nov 27, 17:38 IST (iso: 2026-11-27T12:08:16+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/6aeb263c1d3d36482d8644f6c6c65de017957715152511200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+भारतीय एजेंसियों ने पाकिस्तान के डिजिटल दुष्प्रचार नेटवर्क का खुलासा किया। फर्जी भारतीय नामों वाले अकाउंट से देश में सांप्रदायिक तनाव फैलाने की कोशिश की जा रही है। भारत के खिलाफ पाकिस्तान की तरफ से छद्म भारतीय नाम का प्रयोग कर बड़े पैमाने पर डिजिटल दुष्प्रचार अभियान चलाने का खुलासा भारतीय सुरक्षा एजेंसियों और खुफिया एजेंसियों की जांच में हुआ है.
+
+### [ड्रोन के झुंड को चुटकी में खत्म करने वाला 'भार्गवास्त्र', कैसे बनेगा गेम चेंजर?](https://www.abplive.com/news/india/bhargavastra-part-of-sudarshan-chakra-india-indigenous-anti-drone-system-air-defence-sadl-explained-3220191)
+*ABP Live (India)* - Nov 27, 16:57 IST (iso: 2026-11-27T11:27:45+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/fa59e7df0b53649b01a58be34fff3ad317957769284811317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+पोखरण में भार्गवास्त्र का सफल परीक्षण हुआ। यह सोलर डिफेंस एंजिनियरिंग का पहला स्वदेशी दो-लेवल काउंटर-स्वार्म ड्रोन सिस्टम है। युद्ध के मैदान में अब टैंक या लड़ाकू विमान ही नहीं, आसमान से आते ड्रोनों का झुंड होता है. ये सस्ते हैं, मिलकर हमला करते हैं और एक साथ कई जगहों पर अफरा-तफरी मचा सकते हैं. 20 से 24 नवंबर 2026 के बीच भारत ने भार्गवास्त्र का टेस्ट पूरा किया है.
+
+---
+
+## अमेरिका
+
+### [अमेरिकी सेना पर बड़ा अटैक, बंद कर दिया आने-जाने का रास्ता, क्या चोरी हो गया ‘टॉप सीक्रेट’?](https://hindi.news18.com/world/america-hackers-breach-us-air-force-cloud-one-network-updates-blocked-migrations-paused-cyber-command-investigating-11017308.html)
+*News18 Hindi (World)* - Nov 27, 20:09 IST (iso: 2026-11-27T14:39:13+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Cyber-Attack-In-US-Airforce-2026-11-d160230d0ddda4145d5301be7098ba23-1200x800.jpg -->
+
+अमेरिकी वायुसेना के क्लाउड वन नेटवर्क में हैकर्स का प्रवेश हुआ है। इसमें रडार डेटा और हथियारों की जानकारी शामिल है। यूएस साइबर कमांड ने जांच शुरू कर दी है। डेटा शिफ्टिंग और नए अपडेट्स का काम रोक दिया गया है। अमेरिकी वायुसेना के सबसे खास क्लाउड नेटवर्क 'क्लाउड वन' में हैकर्स के घुसने की खबर ने सुरक्षा को लेकर बड़ी चिंता बढ़ा दी है.
+
+### [अमेरिकी वायुसेना के सिस्टम में हैकर्स ने लगाई सेंध, सैन्य विमानों और मिसाइलों के डेटा पर खतरा](https://www.patrika.com/world-news/us-air-force-cloud-one-cyber-attack-hackers-breach-data-21095482)
+*Patrika (World)* - Nov 27, 18:12 IST (iso: 2026-11-27T12:42:08+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/US-Air-Force.webp -->
+
+अमेरिकी वायुसेना के क्लाउड सिस्टम में हैकर्स की घुसपैठ हुई है। इसमें सैन्य विमानों और मिसाइलों का डेटा है। एआई आधारित हमले की वजह से सुरक्षा पर सवाल उठे हैं। संवेदनशील जानकारी के जोखिम की जांच जारी है। US Air Force Cyber Attack: लगातार विकसित होते AI के कारण AI-आधारित घुसपैठ काफी बढ़ गई है। इसी घुसपैठ के चलते अमेरिकी वायुसेना के एक बड़े क्लाउड कंप्यूटिंग सिस्टम में हैकर्स ने सेंध लगा दी है।
 
 ---
 
