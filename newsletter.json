@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-27T02:00:11.253859+00:00",
+  "generated_at": "2026-11-27T10:30:40.855879+00:00",
   "article_count": 50,
-  "total_unique_count": 243,
+  "total_unique_count": 266,
   "digest": {
-    "en": "Trump urges Putin to pull back aggression in Europe as Washington delays its troop posture review. Simultaneously, Southeast Asia’s AI data center investments are turning into stranded assets. The geopolitical and economic stakes are tightening across multiple fronts.",
-    "hi": "ट्रंप और नाटो महासचिव की बैठक यूक्रेन युद्ध पर रूस की सैन्य कार्रवाई रोकने की अपील के साथ लीड कर रही है। इसी बीच ईरान पर ट्रंप का नया बयान युद्ध के अंत की तारीख़ तय करने की बात करता है।"
+    "en": "Taiwan’s local elections face direct pressure from Beijing while Trump urges Putin to pull back in Europe. The Philippines confronts its drug war legacy as the ICC trial approaches. Southeast Asia’s AI data center bets are already turning into stranded assets.",
+    "hi": "इजराइल में आइसेनकोट के गठबंधन से पहले अब्बास की पार्टी को चाबी मिलने की संभावना है। पाकिस्तान ने डीपफेक और फर्जी पहचान के ज़रिए भारत को ऑनलाइन निशाना बनाने की नई रणनीति अपनाई है। बांग्लादेश में शेख हसीना के प्रत्यर्पण पर आइसीजे जाने की धमकी दी गई है।"
   },
   "articles": [
     {
@@ -27,6 +27,30 @@
       "published_at": "Vendredi, novembre 20, 2026 - 10:20",
       "image_url": "https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "summary": "Crisis Group analysts discussed the deployment of Algerian troops in Niger. They examined how this military presence affects regional security balances. The conversation highlighted shifting dynamics in the Sahel. Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Ibrahim Yahaya Ibrahim, Directeur Adjoint du Projet Sahel, Ibrahim Maïga, Conseiller Spécial pour le Sahel et Michaël Ayari, Analyste Senior pour la Tunisie et l’Algérie à Crisis Group, pour parler du déploiement de troupes algériennes au Niger et des répercussions de cette présence militaire sur les équilibres sécuritaires.",
+      "region": "Middle East & Africa",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "A decade after Duterte's drug war, the Philippines confronts its bloody legacy as ICC trial looms",
+      "url": "https://www.channelnewsasia.com/asia/rodrigo-duterte-war-drugs-former-philippine-president-icc-international-criminal-court-crimes-against-humanity-6587006",
+      "source": "Channel News Asia",
+      "sources": [],
+      "published_at": "2026-11-27T08:43:00+00:00",
+      "image_url": "https://dam.mediacorp.sg/image/upload/s--loxnl7d4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/27/reuters_philippines_duterte_war_on_drugs_victims.jpg?itok=TiQvzu-V",
+      "summary": "Rodrigo Duterte faces an International Criminal Court trial a decade after launching his drug war. Thousands of families continue seeking justice for the killings. The campaign left a heavy human cost and deep political divisions in the Philippines. Ten years after Rodrigo Duterte launched his deadly crackdown on drugs, thousands of Filipino families are still seeking justice. As the former president prepares to face trial at the ICC, CNA examines the human cost of his campaign, his enduring political influence and the divisions that continue to shape the Philippines.",
+      "region": "Asia-Pacific",
+      "language": "en",
+      "translations": {}
+    },
+    {
+      "title": "The DIY dance movement helping young Nigerians escape the daily grind",
+      "url": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+      "source": "The Guardian",
+      "sources": [],
+      "published_at": "2026-11-27T06:00:56+00:00",
+      "image_url": "https://i.guim.co.uk/img/media/420a704a7b9337bcc84564de8c0db0836d052aac/433_0_5275_4223/master/5275.jpg?width=140&quality=85&auto=format&fit=max&s=558556ddc90089bd8666c299074f9675",
+      "summary": "A DIY dance movement in Nigeria grew from one artist's exclusion from a music video. It now drives cultural engagement for young people. The trend started in Ilorin and spread through social media platforms like TikTok. What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscapeAs a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce beats rather than returning to his family house in Lagos, the more frenetic city of his birth. In 2022, one of his beats became popular on TikTo.",
       "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
@@ -56,7 +80,7 @@
       "translations": {}
     },
     {
-      "title": "Trump Urges Putin To ‘Pull Back’ Aggression In Europe As US Delays Troop Posture Review",
+      "title": "Trump Urges Putin To 'Pull Back' Aggression In Europe As US Delays Troop Posture Review",
       "url": "https://www.rferl.org/a/trump-putin-europe-ukraine-russia-aggression/33906739.html",
       "source": "Radio Free Europe / Liberty",
       "sources": [],
@@ -64,18 +88,6 @@
       "image_url": "https://gdb.rferl.org/182797d5-e823-42bc-a2fc-2133b7b5d7b5_cx6_cy15_cw89_w1200_h630.jpg",
       "summary": "Donald Trump asked Vladimir Putin to stop military aggression in Europe. This demand aims to facilitate a Ukraine peace agreement. Washington simultaneously delayed a review of its military footprint on the continent. The diplomatic push coincides with a strategic pause. US President Donald Trump has called on Russian President Vladimir Putin to halt all military aggression in Europe to pave the way for a Ukraine peace deal, even as Washington postpones a major overhaul of its military footprint on the Continent.",
       "region": "Europe & Russia",
-      "language": "en",
-      "translations": {}
-    },
-    {
-      "title": "Sibling rivalry and family bonding: How one Singapore family is preparing for Hyrox Youngstars",
-      "url": "https://www.channelnewsasia.com/wellness/hyrox-youngstars-singapore-family-kids-training-6583796",
-      "source": "Channel News Asia",
-      "sources": [],
-      "published_at": "2026-11-26T23:37:29+00:00",
-      "image_url": "https://dam.mediacorp.sg/image/upload/s--liNWeABH--/c_crop,h_1125,w_2000,x_0,y_188/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/26/hyrox_kids_family_2_0.jpg?itok=eNxeD6uC",
-      "summary": "Three siblings from Singapore are training for their first Hyrox Youngstars race. Their father, a veteran competitor, inspired the family's participation. Seven weeks of preparation strengthened their bond. The focus extends beyond athletic performance to family unity. Inspired by their father, who has completed around 30 Hyrox races, three siblings are preparing for their first Hyrox Youngstars race. The Zhao family tells CNA Lifestyle how seven weeks of training have brought the children closer and taught them lessons beyond sport.",
-      "region": "Asia-Pacific",
       "language": "en",
       "translations": {}
     },
@@ -248,18 +260,6 @@
       "translations": {}
     },
     {
-      "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-      "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-      "source": "The Guardian",
-      "sources": [],
-      "published_at": "2026-11-24T16:00:50+00:00",
-      "image_url": "https://i.guim.co.uk/img/media/10e1ca6b5f3fb26e97a3db600a8ac46bde25afdf/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=847839bf6f4eb8b97ad9053e00a60478",
-      "summary": "Leaked records show 349 Russian military personnel died in Mali over three years. The data highlights Moscow’s support for the local junta. The figures also reveal broader Russian military activity across the African continent during the same period. Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in AfricaWhen the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard.",
-      "region": "Middle East & Africa",
-      "language": "en",
-      "translations": {}
-    },
-    {
       "title": "UN deputy chief’s final call to end violence against women",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
       "source": "UN News",
@@ -296,16 +296,160 @@
       "translations": {}
     },
     {
-      "title": "Guterres urges renewed commitment to landmark peace deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168864",
-      "source": "UN News",
+      "title": "High Stakes in Iraq’s Push to Reclaim Jurf al-Sakhar",
+      "url": "https://www.crisisgroup.org/qna/middle-east-north-africa/iraq/high-stakes-iraqs-push-reclaim-jurf-al-sakhar",
+      "source": "International Crisis Group",
       "sources": [],
-      "published_at": "2026-11-24T12:00:00+00:00",
-      "image_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image560x340cropped.jpg",
-      "summary": "Guterres praised Colombia for progress since the Final Peace Agreement. The accord ended over fifty years of insurgency. He stressed the need for full implementation of its provisions. The UN chief urged renewed commitment to the landmark deal. UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.",
-      "region": "Americas",
+      "published_at": "2026-11-20T20:40:00+00:00",
+      "image_url": "https://images.pexels.com/photos/38982182/pexels-photo-38982182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "summary": "Iraqi forces entered Jurf al-Sakhar on 20 November to displace Kata’ib Hizbollah. Prime Minister Ali al-Zaidi restored state authority in the area. Crisis Group expert Lahib Higel detailed the circumstances enabling this military operation. On 20 November, Iraqi government forces entered Jurf al-Sakhar, a stronghold of the Iran-backed group Kata’ib Hizbollah. In this Q&A, Crisis Group expert Lahib Higel explains the circumstances that allowed Prime Minister Ali al-Zaidi to restore state authority in this area.",
+      "region": "Middle East & Africa",
       "language": "en",
       "translations": {}
+    },
+    {
+      "title": "इजराइल में सरकार की चाबी ‘रा’म’ पार्टी प्रमुख अब्बास के हाथ? आइसेनकोट के गठबंधन से पहले आज खोलेंगे",
+      "url": "https://www.patrika.com/world-news/mansour-abbas-raam-party-hamas-definition-eisenkot-coalition-21094031",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-27T09:56:50+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Mansour-Abbas.webp",
+      "summary": "मंसूर अब्बास ने हमास को आतंकी संगठन घोषित किया। यह कदम राआम पार्टी को आइसेनकोट के गठबंधन में शामिल होने का रास्ता खोल सकता है। इससे इजराइल की राजनीतिक समीकरण बदलने की संभावना है। ‘राआम’ (Ra’am) पार्टी के चेयरमैन मंसूर अब्बास शनिवार रात एक टीवी इंटरव्यू में सार्वजनिक रूप से यह स्वीकार करने वाले हैं कि हमास एक आतंकी संगठन है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "इजराइल में सरकार की चाबी ‘रा’म’ पार्टी प्रमुख अब्बास के हाथ? आइसेनकोट के गठबंधन से पहले आज खोलेंगे",
+          "summary": "मंसूर अब्बास ने हमास को आतंकी संगठन घोषित किया। यह कदम राआम पार्टी को आइसेनकोट के गठबंधन में शामिल होने का रास्ता खोल सकता है। इससे इजराइल की राजनीतिक समीकरण बदलने की संभावना है। ‘राआम’ (Ra’am) पार्टी के चेयरमैन मंसूर अब्बास शनिवार रात एक टीवी इंटरव्यू में सार्वजनिक रूप से यह स्वीकार करने वाले हैं कि हमास एक आतंकी संगठन है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "फर्जी भारतीय पहचान, डीपफेक और सांप्रदायिक हथकंडों के ज़रिए पाकिस्तान ने ऑनलाइन भारत को निशाना बनाने",
+      "url": "https://www.patrika.com/world-news/pakistan-speeds-up-targeting-india-online-using-fake-indian-identities-deepfakes-and-communal-fault-lines-21093486",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-27T09:27:20+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/hacker-using-ai.webp",
+      "summary": "पाकिस्तान ने भारत के सैन्य नेतृत्व पर भरोसा तोड़ने के लिए ऑनलाइन अभियान तेज किया है। इसके लिए फर्जी पहचान, डीपफेक और पुराने वीडियो का इस्तेमाल किया जा रहा है। लक्ष्य देश की मौजूदा दरारों का फायदा उठाना है। भारत (India) के सैन्य नेतृत्व पर से लोगों का भरोसा कम करने और देश में पहले से मौजूद दरारों का फायदा उठाने के लिए पाकिस्तान (Pakistan) ने ऑनलाइन भारत को निशाना बनाने की अपनी कोशिशों को तेज़ कर दिया है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फर्जी भारतीय पहचान, डीपफेक और सांप्रदायिक हथकंडों के ज़रिए पाकिस्तान ने ऑनलाइन भारत को निशाना बनाने",
+          "summary": "पाकिस्तान ने भारत के सैन्य नेतृत्व पर भरोसा तोड़ने के लिए ऑनलाइन अभियान तेज किया है। इसके लिए फर्जी पहचान, डीपफेक और पुराने वीडियो का इस्तेमाल किया जा रहा है। लक्ष्य देश की मौजूदा दरारों का फायदा उठाना है। भारत (India) के सैन्य नेतृत्व पर से लोगों का भरोसा कम करने और देश में पहले से मौजूद दरारों का फायदा उठाने के लिए पाकिस्तान (Pakistan) ने ऑनलाइन भारत को निशाना बनाने की अपनी कोशिशों को तेज़ कर दिया है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "हाफिज सईद के फैन हैं पाकिस्तानी एक्टर, UN मानता है आतंकवादी, फिर कैसे नेटफ्लिक्स रिलीज कर रहा शो?",
+      "url": "https://hindi.news18.com/world/pakistan-hafiz-saeed-fanboy-hamza-ali-abbasi-starring-netflix-show-controversy-on-pakistani-web-series-ws-l-11016631.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-27T09:20:55+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/hamza-pic-2026-11-e3b59e79d7027421269c5150f265cef9-1200x800.jpg",
+      "summary": "नेटफ्लिक्स पर पाकिस्तान की पहली वेब सीरीज रिलीज से पहले विवाद खड़ा हो गया है। एक्टर हमजा अली अब्बासी की हाफिज सईद के साथ तस्वीर वायरल हुई। सईद को संयुक्त राष्ट्र आतंकवादी मानता है। Pakistani Web Series Controversy: पाकिस्तानी एक्टर हमजा अली अब्बासी की हाफिज सईद के साथ वायरल हो रही तस्वीर को लेकर बवाल मच गया है. नेटफ्लिक्स पर पाकिस्तान की पहली ओरिजनल बेव सीरीज की रिलीज से तुरंत पहले वायरल हुई इस तस्वीर ने विवाद खड़ा कर दिया है कि आखिर आतंकवादी के फैनबॉय को इंटरनेशनल प्लेटफॉर्म क्यों मिल रहा है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "हाफिज सईद के फैन हैं पाकिस्तानी एक्टर, UN मानता है आतंकवादी, फिर कैसे नेटफ्लिक्स रिलीज कर रहा शो?",
+          "summary": "नेटफ्लिक्स पर पाकिस्तान की पहली वेब सीरीज रिलीज से पहले विवाद खड़ा हो गया है। एक्टर हमजा अली अब्बासी की हाफिज सईद के साथ तस्वीर वायरल हुई। सईद को संयुक्त राष्ट्र आतंकवादी मानता है। Pakistani Web Series Controversy: पाकिस्तानी एक्टर हमजा अली अब्बासी की हाफिज सईद के साथ वायरल हो रही तस्वीर को लेकर बवाल मच गया है. नेटफ्लिक्स पर पाकिस्तान की पहली ओरिजनल बेव सीरीज की रिलीज से तुरंत पहले वायरल हुई इस तस्वीर ने विवाद खड़ा कर दिया है कि आखिर आतंकवादी के फैनबॉय को इंटरनेशनल प्लेटफॉर्म क्यों मिल रहा है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "IBM ने H-1B वीजा और ग्रीन कार्ड स्पॉन्सरशिप रोकी, अमेरिका छोड़ें या नौकरी? भारतीयों पर क्या असर?",
+      "url": "https://hindi.news18.com/news/career/jobs-ibm-stops-h1b-visa-green-card-sponsorship-consulting-impact-indians-11016466.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-27T09:00:36+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/IBM-H-1B-Visa-Sponsorship-2026-11-b7fd3e9c9162e641faea79dd29e883ca-1200x800.jpg",
+      "summary": "आईबीएम ने अपने कंसल्टिंग डिवीजन में एच-1बी वीजा और ग्रीन कार्ड स्पॉन्सरशिप बंद कर दी है। प्रभावित कर्मचारियों को दूसरे देश जाना होगा या 31 दिसंबर तक नौकरी छोड़नी होगी। इससे भारतीय पेशेवरों पर सीधा असर पड़ेगा। IBM H-1B Visa Sponsorship: टेक दिग्गज आईबीएम ने अपने कंसल्टिंग डिवीजन की ज्यादातर नौकरियों के लिए अमेरिकी वर्क वीजा और ग्रीन कार्ड स्पॉन्सरशिप बंद करने का फैसला किया है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "IBM ने H-1B वीजा और ग्रीन कार्ड स्पॉन्सरशिप रोकी, अमेरिका छोड़ें या नौकरी? भारतीयों पर क्या असर?",
+          "summary": "आईबीएम ने अपने कंसल्टिंग डिवीजन में एच-1बी वीजा और ग्रीन कार्ड स्पॉन्सरशिप बंद कर दी है। प्रभावित कर्मचारियों को दूसरे देश जाना होगा या 31 दिसंबर तक नौकरी छोड़नी होगी। इससे भारतीय पेशेवरों पर सीधा असर पड़ेगा। IBM H-1B Visa Sponsorship: टेक दिग्गज आईबीएम ने अपने कंसल्टिंग डिवीजन की ज्यादातर नौकरियों के लिए अमेरिकी वर्क वीजा और ग्रीन कार्ड स्पॉन्सरशिप बंद करने का फैसला किया है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "फेक वीडियो, डीपफेक और पाकिस्तान कनेक्शन, भारत के खिलाफ सोशल मीडिया दुष्प्रचार का सामने आया नया",
+      "url": "https://hindi.news18.com/news/nation/new-pattern-of-social-media-propaganda-fake-video-and-deepfakes-pakistan-connection-against-india-is-revealled-ws-l-11016535.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-27T08:52:48+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/india-pakistan-dialogue-open-letter-from-100-eminent-citizens-inlcludingmani-shankar-aiyar-pm-modi-shehbaz-sharif-2026-07-bc7f04ab2eb77051225609cb5d06b2f3-1200x800.jpg",
+      "summary": "भारत के खिलाफ सोशल मीडिया पर नया दुष्प्रचार पैटर्न सामने आया है। इसमें फेक वीडियो और डीपफेक का उपयोग किया जा रहा है। लक्ष्य सेना और शीर्ष नेतृत्व को निशाना बनाकर अस्थिरता फैलाना है। भारत के खिलाफ सोशल मीडिया पर फेक वीडियो, डीपफेक और पाकिस्तान कनेक्शन से जुड़े दुष्प्रचार का नया पैटर्न सामने आया है. इसमें सेना, शीर्ष नेतृत्व और संवेदनशील मुद्दों को निशाना बनाकर अस्थिरता फैलाने की कोश‍िश की जा रही है.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "फेक वीडियो, डीपफेक और पाकिस्तान कनेक्शन, भारत के खिलाफ सोशल मीडिया दुष्प्रचार का सामने आया नया",
+          "summary": "भारत के खिलाफ सोशल मीडिया पर नया दुष्प्रचार पैटर्न सामने आया है। इसमें फेक वीडियो और डीपफेक का उपयोग किया जा रहा है। लक्ष्य सेना और शीर्ष नेतृत्व को निशाना बनाकर अस्थिरता फैलाना है। भारत के खिलाफ सोशल मीडिया पर फेक वीडियो, डीपफेक और पाकिस्तान कनेक्शन से जुड़े दुष्प्रचार का नया पैटर्न सामने आया है. इसमें सेना, शीर्ष नेतृत्व और संवेदनशील मुद्दों को निशाना बनाकर अस्थिरता फैलाने की कोश‍िश की जा रही है.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "भारत से लौटते ही नफरत का रोना रो रहे पाकिस्तानी मंत्री, आप भेजें आतंकवादी, हम सजा दें फूलों की सेज?",
+      "url": "https://hindi.news18.com/world/pakistan-pakistan-minister-musadik-malik-complains-hatred-against-pakistan-but-what-about-terrorism-ws-l-11016415.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-27T08:22:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/india-approves-taj-mahal-visit-but-pakistan-minister-musadik-malik-skips-agra-2026-11-b034581091994ff75a14b55c2052eabd-1200x800.jpg",
+      "summary": "पाकिस्तानी मंत्री मुसादिक मलिक ने भारत से लौटने के बाद भारतीय मीडिया को नफरती करार दिया। उन्होंने अपने देश के अधिकारियों के घृणा भरे बयानों पर कोई टिप्पणी नहीं की। यह बयान सोशल मीडिया पर वायरल हो रहा है। इस दौरान उन्होंने मीडिया के साथ बातचीत की थी और उनके और पाकिस्तानी अधिकारियों के बीच के वीडियो भी खूब वायरल हुए थे.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "भारत से लौटते ही नफरत का रोना रो रहे पाकिस्तानी मंत्री, आप भेजें आतंकवादी, हम सजा दें फूलों की सेज?",
+          "summary": "पाकिस्तानी मंत्री मुसादिक मलिक ने भारत से लौटने के बाद भारतीय मीडिया को नफरती करार दिया। उन्होंने अपने देश के अधिकारियों के घृणा भरे बयानों पर कोई टिप्पणी नहीं की। यह बयान सोशल मीडिया पर वायरल हो रहा है। इस दौरान उन्होंने मीडिया के साथ बातचीत की थी और उनके और पाकिस्तानी अधिकारियों के बीच के वीडियो भी खूब वायरल हुए थे.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "‘अमेरिका को नहीं है मिडिल ईस्ट के तेल की ज़रूरत’, क्या डोनाल्ड ट्रंप की इस बात में है सच्चाई? समझिए",
+      "url": "https://www.patrika.com/world-news/donald-trump-says-us-does-not-need-middle-east-oil-21092518",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-27T07:06:20+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/trump-.webp",
+      "summary": "डोनाल्ड ट्रंप ने फ्लोरिडा से सैनिकों के साथ बातचीत के दौरान कहा कि अमेरिका को मध्य पूर्व के तेल की ज़रूरत नहीं है। उन्होंने यह टिप्पणी थैंक्सगिविंग के मौके पर की। यह बयान ऊर्जा नीति पर प्रभाव डाल सकता है। अमेरिका (United States of America) के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने गुरुवार (स्थानीय समय) को फ्लोरिडा में अपने मार-ए-लागो आवास से अपनी पत्नी मेलानिया ट्रंप (Melania Trump) के साथ अमेरिकी सैन्य कर्मियों के साथ थैंक्सगिविंग के मौके पर कॉल के ज़रिए बात की और कई मुद्दों का ज़िक्र किया।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "‘अमेरिका को नहीं है मिडिल ईस्ट के तेल की ज़रूरत’, क्या डोनाल्ड ट्रंप की इस बात में है सच्चाई? समझिए",
+          "summary": "डोनाल्ड ट्रंप ने फ्लोरिडा से सैनिकों के साथ बातचीत के दौरान कहा कि अमेरिका को मध्य पूर्व के तेल की ज़रूरत नहीं है। उन्होंने यह टिप्पणी थैंक्सगिविंग के मौके पर की। यह बयान ऊर्जा नीति पर प्रभाव डाल सकता है। अमेरिका (United States of America) के राष्ट्रपति डोनाल्ड ट्रंप (Donald Trump) ने गुरुवार (स्थानीय समय) को फ्लोरिडा में अपने मार-ए-लागो आवास से अपनी पत्नी मेलानिया ट्रंप (Melania Trump) के साथ अमेरिकी सैन्य कर्मियों के साथ थैंक्सगिविंग के मौके पर कॉल के ज़रिए बात की और कई मुद्दों का ज़िक्र किया।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "ग्राम पंचायतों के कार्यकाल को लेकर सरकार का आदेश जारी, छह महीने तक प्रधान संभाले रखेंगे इसकी",
+      "url": "https://www.amarujala.com/lucknow/up-panchayat-elections-deferred-term-of-village-panchayats-extended-by-six-months-pradhans-village-heads-2026-11-27",
+      "source": "Amar Ujala Breaking",
+      "sources": [],
+      "published_at": "2026-11-27T06:53:31+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/garama-pacayata-ka-karayakal-ka-lkara-sarakara-ka-aathasha-jara_4bd99ec8df5a281d8ec0b165d654dbe8.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर प्रदेश सरकार ने पंचायत चुनाव टलने के बाद ग्राम पंचायतों का कार्यकाल छह महीने बढ़ा दिया है। मौजूदा प्रधान इस अवधि तक जिम्मेदारी संभालते रहेंगे। यह फैसला प्रशासनिक स्थिरता बनाए रखने के लिए लिया गया है। उत्तर प्रदेश में पंचायत चुनाव टलने के बाद ग्राम पंचायतों का कार्यकाल छह महीने और बढ़ा दिया गया है। मौजूदा प्रधान इस अवधि में जिम्मेदारी संभालते रहेंगे।",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "ग्राम पंचायतों के कार्यकाल को लेकर सरकार का आदेश जारी, छह महीने तक प्रधान संभाले रखेंगे इसकी",
+          "summary": "उत्तर प्रदेश सरकार ने पंचायत चुनाव टलने के बाद ग्राम पंचायतों का कार्यकाल छह महीने बढ़ा दिया है। मौजूदा प्रधान इस अवधि तक जिम्मेदारी संभालते रहेंगे। यह फैसला प्रशासनिक स्थिरता बनाए रखने के लिए लिया गया है। उत्तर प्रदेश में पंचायत चुनाव टलने के बाद ग्राम पंचायतों का कार्यकाल छह महीने और बढ़ा दिया गया है। मौजूदा प्रधान इस अवधि में जिम्मेदारी संभालते रहेंगे।",
+          "region": "दुनिया"
+        }
+      }
     },
     {
       "title": "यूक्रेन युद्ध पर ट्रंप और नाटो महासचिव की बैठक, रूस से सैन्य कार्रवाई रोकने की अपील; क्या बनेगी बात?",
@@ -326,56 +470,128 @@
       }
     },
     {
-      "title": "'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर? बुलंद हैं आवामी लीग के",
-      "url": "https://hindi.news18.com/world/south-asia-bangladesh-state-minister-denies-sheikh-hasina-return-after-awami-league-calls-shutdown-11015605.html",
-      "source": "News18 Hindi (World)",
+      "title": "पढ़ाई में एआई से कैसे मिलती है मदद?: पुतिन को भारतीय किशोर ने बताया अपना अनुभव, क्या बोले रूसी",
+      "url": "https://www.amarujala.com/world/how-ai-helps-students-learn-indian-teenager-explains-experience-to-vladimir-putin-russian-president-responds-2026-11-27",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-27T01:52:52+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Tarique-Rahman-Sheikh-Hasina-2026-08-1ebb72e3d455b3ba5c02da3de4cf2f3e-1200x800.jpg",
-      "summary": "बांग्लादेश की सरकार ने शेख हसीना की वापसी को खारिज किया। मंत्रियों ने कहा कि दिसंबर में सिर्फ सर्दी आएगी। आवामी लीग के हौसले बुलंद हैं। सियासी बवाल बढ़ता जा रहा है। Bangladesh Sheikh Hasina Return Turmoil: बांग्लादेश की पूर्व पीएम शेख हसीना की वापसी को लेकर वहां सियासी बवाल बढ़ता ही जा रहा है. 'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर?",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर? बुलंद हैं आवामी लीग के",
-          "summary": "बांग्लादेश की सरकार ने शेख हसीना की वापसी को खारिज किया। मंत्रियों ने कहा कि दिसंबर में सिर्फ सर्दी आएगी। आवामी लीग के हौसले बुलंद हैं। सियासी बवाल बढ़ता जा रहा है। Bangladesh Sheikh Hasina Return Turmoil: बांग्लादेश की पूर्व पीएम शेख हसीना की वापसी को लेकर वहां सियासी बवाल बढ़ता ही जा रहा है. 'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर?",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "जनवरी सत्र के लिए 14 लाख से ज्यादा आवेदन, आज से खुलेगी करेक्शन विंडो; जानें क्या बदल पाएंगे",
-      "url": "https://www.amarujala.com/education/jee-main-2027-registration-over-14-lakh-candidates-apply-for-january-session-correction-window-opens-today-2026-11-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-27T01:45:25+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/jee-main-2027_1ffcdd73dd30b72143620d098e9daaa4.jpeg?w=1200&dpr=1.0",
-      "summary": "जेईई मेन 2027 जनवरी सत्र के लिए 14 लाख उम्मीदवारों ने आवेदन किया। नेशनल टेस्टिंग एजेंसी ने फीस जमा करने की पुष्टि की। 27 से 29 नवंबर तक करेक्शन विंडो खुली रहेगी। जेईई मेन 2027 जनवरी सत्र के लिए 14 लाख से ज्यादा उम्मीदवारों ने आवेदन किया है। राष्ट्रीय परीक्षा एजेंसी के अनुसार, कुल 14,06,780 उम्मीदवारों ने फीस जमा की है।",
+      "published_at": "2026-11-27T06:37:00+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/valthamara-patana-rahal-jana-aja_6433e6df2adb3c8ccdfc63b89db18b79.jpeg?w=1200&dpr=1.0",
+      "summary": "एक भारतीय किशोर ने रूसी राष्ट्रपति व्लादिमीर पुतिन को एआई के माध्यम से पढ़ाई में मदद के अपने अनुभव के बारे में बताया। पुतिन ने इस बातचीत में हिस्सा लिया। इस घटना ने दोनों देशों के बीच युवाओं के बीच संवाद को उजागर किया। पढ़ाई में एआई से कैसे मिलती है मदद?: पुतिन को भारतीय किशोर ने बताया अपना अनुभव, क्या बोले रूसी राष्ट्रपति?",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "जनवरी सत्र के लिए 14 लाख से ज्यादा आवेदन, आज से खुलेगी करेक्शन विंडो; जानें क्या बदल पाएंगे",
-          "summary": "जेईई मेन 2027 जनवरी सत्र के लिए 14 लाख उम्मीदवारों ने आवेदन किया। नेशनल टेस्टिंग एजेंसी ने फीस जमा करने की पुष्टि की। 27 से 29 नवंबर तक करेक्शन विंडो खुली रहेगी। जेईई मेन 2027 जनवरी सत्र के लिए 14 लाख से ज्यादा उम्मीदवारों ने आवेदन किया है। राष्ट्रीय परीक्षा एजेंसी के अनुसार, कुल 14,06,780 उम्मीदवारों ने फीस जमा की है।",
+          "title": "पढ़ाई में एआई से कैसे मिलती है मदद?: पुतिन को भारतीय किशोर ने बताया अपना अनुभव, क्या बोले रूसी",
+          "summary": "एक भारतीय किशोर ने रूसी राष्ट्रपति व्लादिमीर पुतिन को एआई के माध्यम से पढ़ाई में मदद के अपने अनुभव के बारे में बताया। पुतिन ने इस बातचीत में हिस्सा लिया। इस घटना ने दोनों देशों के बीच युवाओं के बीच संवाद को उजागर किया। पढ़ाई में एआई से कैसे मिलती है मदद?: पुतिन को भारतीय किशोर ने बताया अपना अनुभव, क्या बोले रूसी राष्ट्रपति?",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "हर सिलवट में छिपी एक कहानी है: उम्र के साथ कमजोर नहीं, परिपक्व होता है जीवन",
-      "url": "https://www.amarujala.com/columns/blog/old-age-life-experiences-inner-strength-peace-and-maturity-2026-11-27",
-      "source": "Amar Ujala National",
+      "title": "शेख हसीना की वापसी का इतना डर? होम टाउन में लॉकडाउन से हालात, ट्रेन बंद, फंड फ्रीज, वाकई ICJ जाएगा",
+      "url": "https://hindi.news18.com/world/south-asia-sheikh-hasina-return-turmoil-train-halted-funds-frozen-in-gopalganj-bangladesh-considers-icj-option-ws-l-11016212.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-27T01:34:10+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/09/18/elders_98049ce07d993786d7c6796fbe3aa3b3.jpeg?w=1200&dpr=1.0",
-      "summary": "यह लेख उम्र और परिपक्वता पर कवितात्मक विचार प्रस्तुत करता है। स्रोत में कोई ठोस घटना, नाम या संख्या नहीं है। तथ्यात्मक सारांश संभव नहीं है। हर सिलवट में छिपी एक कहानी है: उम्र के साथ कमजोर नहीं, परिपक्व होता है जीवन।",
+      "published_at": "2026-11-27T06:25:40+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/SHEIKH-HASINA-N-2026-11-83e538e198216ff440bfb537c1997993-1200x800.jpg",
+      "summary": "बांग्लादेश की बीएनपी सरकार ने शेख हसीना की संभावित वापसी से डरकर गोपालगंज में सुरक्षा कड़ी कर दी है। वहाँ ट्रेनें बंद हैं और सेना की तैनाती बढ़ाई गई है। स्थिति लॉकडाउन जैसी बनी हुई है। Bangladesh Sheikh Hasina Return: शेख हसीना की वापसी को लेकर तारिक सरकार चौकन्नी हो चुकी है. खासतौर पर उनके गृहनगर गोपालगंज में सिक्योरिटी इतनी बढ़ा दी गई है कि लॉकडाउन जैसे हालात हैं.",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेख हसीना की वापसी का इतना डर? होम टाउन में लॉकडाउन से हालात, ट्रेन बंद, फंड फ्रीज, वाकई ICJ जाएगा",
+          "summary": "बांग्लादेश की बीएनपी सरकार ने शेख हसीना की संभावित वापसी से डरकर गोपालगंज में सुरक्षा कड़ी कर दी है। वहाँ ट्रेनें बंद हैं और सेना की तैनाती बढ़ाई गई है। स्थिति लॉकडाउन जैसी बनी हुई है। Bangladesh Sheikh Hasina Return: शेख हसीना की वापसी को लेकर तारिक सरकार चौकन्नी हो चुकी है. खासतौर पर उनके गृहनगर गोपालगंज में सिक्योरिटी इतनी बढ़ा दी गई है कि लॉकडाउन जैसे हालात हैं.",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "शेख हसीना के प्रत्यर्पण पर बांग्लादेशी स्पीकर ने दी ICJ जाने की धमकी, 1971 की जंग व कश्मीर पर भी",
+      "url": "https://www.patrika.com/world-news/bangladeshi-speaker-warns-india-over-sheikh-hasina-extradition-makes-remarks-on-1971-war-and-kashmir-21092534",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-27T05:36:49+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Sheikh-Hasina-3.webp",
+      "summary": "बांग्लादेशी संसद स्पीकर हाफिज उद्दीन अहमद ने इस्लामाबाद में कहा कि यदि भारत शेख हसीना को प्रत्यर्पित नहीं करता, तो ढाका अंतर्राष्ट्रीय न्यायालय का दरवाजा खटखटाएगा। इस बयान ने दोनों देशों के बीच तनाव को और गहरा किया है। Sheikh Hasina Extradition: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के संभावित प्रत्यर्पण को लेकर भारत और बांग्लादेश के बीच तनाव बढ़ता दिख रहा है।",
+      "region": "Asia-Pacific",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "शेख हसीना के प्रत्यर्पण पर बांग्लादेशी स्पीकर ने दी ICJ जाने की धमकी, 1971 की जंग व कश्मीर पर भी",
+          "summary": "बांग्लादेशी संसद स्पीकर हाफिज उद्दीन अहमद ने इस्लामाबाद में कहा कि यदि भारत शेख हसीना को प्रत्यर्पित नहीं करता, तो ढाका अंतर्राष्ट्रीय न्यायालय का दरवाजा खटखटाएगा। इस बयान ने दोनों देशों के बीच तनाव को और गहरा किया है। Sheikh Hasina Extradition: बांग्लादेश की पूर्व प्रधानमंत्री शेख हसीना के संभावित प्रत्यर्पण को लेकर भारत और बांग्लादेश के बीच तनाव बढ़ता दिख रहा है।",
+          "region": "एशिया-प्रशांत"
+        }
+      }
+    },
+    {
+      "title": "AI की रेस में बड़ा फैसला? SAP में 10,000 नौकरियों पर तलवार, प्रोडक्ट, इंजीनियरिंग और सेल्स टीम",
+      "url": "https://www.patrika.com/world-news/sap-layoffs-10000-jobs-ai-first-restructuring-21092197",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-27T05:08:47+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/SAP-Layoffs.webp",
+      "summary": "यूरोप की सबसे बड़ी सॉफ्टवेयर कंपनी SAP ने कृत्रिम बुद्धिमत्ता के दौर में खुद को ढालने के लिए बड़े पुनर्गठन की तैयारी शुरू की है। ब्लूमबर्ग की रिपोर्ट के अनुसार, कंपनी कम से कम 10,000 पद खत्म करने की योजना बना रही है। SAP Layoffs Due to AI: आर्टिफिशियल इंटेलिजेंस (AI) के दौर में खुद को ढालने के लिए यूरोप की सबसे बड़ी सॉफ्टवेयर कंपनी SAP बड़े पुनर्गठन की तैयारी में है।",
       "region": "World",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "हर सिलवट में छिपी एक कहानी है: उम्र के साथ कमजोर नहीं, परिपक्व होता है जीवन",
-          "summary": "यह लेख उम्र और परिपक्वता पर कवितात्मक विचार प्रस्तुत करता है। स्रोत में कोई ठोस घटना, नाम या संख्या नहीं है। तथ्यात्मक सारांश संभव नहीं है। हर सिलवट में छिपी एक कहानी है: उम्र के साथ कमजोर नहीं, परिपक्व होता है जीवन।",
+          "title": "AI की रेस में बड़ा फैसला? SAP में 10,000 नौकरियों पर तलवार, प्रोडक्ट, इंजीनियरिंग और सेल्स टीम",
+          "summary": "यूरोप की सबसे बड़ी सॉफ्टवेयर कंपनी SAP ने कृत्रिम बुद्धिमत्ता के दौर में खुद को ढालने के लिए बड़े पुनर्गठन की तैयारी शुरू की है। ब्लूमबर्ग की रिपोर्ट के अनुसार, कंपनी कम से कम 10,000 पद खत्म करने की योजना बना रही है। SAP Layoffs Due to AI: आर्टिफिशियल इंटेलिजेंस (AI) के दौर में खुद को ढालने के लिए यूरोप की सबसे बड़ी सॉफ्टवेयर कंपनी SAP बड़े पुनर्गठन की तैयारी में है।",
           "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "120km स्पीड से दौड़ी आई तबाही, 400 उड़ानें रद्द, उखड़े पेड़, 100 साल में पहली बार त्योहार पर घनघोर",
+      "url": "https://hindi.news18.com/world/america-120-kmph-speed-thanksgiving-storm-causes-400-flights-cancel-leaving-900000-without-power-11015934.html",
+      "source": "News18 Hindi (World)",
+      "sources": [],
+      "published_at": "2026-11-27T04:46:28+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/thanksiving-pic-2026-11-8feefecb90503f5bdc1896f10c6272f7-1200x800.jpg",
+      "summary": "120 किलोमीटर प्रतिघंटा की रफ्तार से चलने वाली तेज हवाओं ने पूरे त्योहार को अंधेरे में डूबने पर मजबूर कर दिया। इस तूफान के कारण 400 उड़ानें रद्द करनी पड़ीं और कई पेड़ उखड़ गए। 120 kmph Storm Causes 400 flights Cancel: कुदरत का खौफनाक रूप कुछ इस तरह से दिखाई दिया है कि पूरा का पूरा त्योहार ही अंधेरे में डूब गया.",
+      "region": "World",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "120km स्पीड से दौड़ी आई तबाही, 400 उड़ानें रद्द, उखड़े पेड़, 100 साल में पहली बार त्योहार पर घनघोर",
+          "summary": "120 किलोमीटर प्रतिघंटा की रफ्तार से चलने वाली तेज हवाओं ने पूरे त्योहार को अंधेरे में डूबने पर मजबूर कर दिया। इस तूफान के कारण 400 उड़ानें रद्द करनी पड़ीं और कई पेड़ उखड़ गए। 120 kmph Storm Causes 400 flights Cancel: कुदरत का खौफनाक रूप कुछ इस तरह से दिखाई दिया है कि पूरा का पूरा त्योहार ही अंधेरे में डूब गया.",
+          "region": "दुनिया"
+        }
+      }
+    },
+    {
+      "title": "दो इतालवी नागरिकों की मौत पर ईरान का इनकार, साझा जांच की पेशकश",
+      "url": "https://www.patrika.com/world-news/kuwait-drone-attack-iran-denial-italians-killed-joint-investigation-21092153",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-27T03:46:43+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Syed-Abbas-Araghchi.webp",
+      "summary": "कुवैत में दो इतालवी नागरिकों की ड्रोन हमले में मौत पर विवाद गहरा गया है। कुवैती सेना ने ईरान को जिम्मेदार ठहराया, जबकि तेहरान ने किसी भी भूमिका से इनकार करते हुए साझा जांच की पेशकश की है। Iran Kuwait Tensions: कुवैत में दो इतालवी नागरिकों की जान लेने वाले ड्रोन हमले पर विवाद गहरा गया है। कुवैती सेना ने इसके लिए ईरान को जिम्मेदार बताया है, जबकि तेहरान ने किसी भी भूमिका से साफ इनकार करते हुए कुवैत और इटली के साथ मिलकर जांच करने की पेशकश की है।",
+      "region": "Middle East & Africa",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "दो इतालवी नागरिकों की मौत पर ईरान का इनकार, साझा जांच की पेशकश",
+          "summary": "कुवैत में दो इतालवी नागरिकों की ड्रोन हमले में मौत पर विवाद गहरा गया है। कुवैती सेना ने ईरान को जिम्मेदार ठहराया, जबकि तेहरान ने किसी भी भूमिका से इनकार करते हुए साझा जांच की पेशकश की है। Iran Kuwait Tensions: कुवैत में दो इतालवी नागरिकों की जान लेने वाले ड्रोन हमले पर विवाद गहरा गया है। कुवैती सेना ने इसके लिए ईरान को जिम्मेदार बताया है, जबकि तेहरान ने किसी भी भूमिका से साफ इनकार करते हुए कुवैत और इटली के साथ मिलकर जांच करने की पेशकश की है।",
+          "region": "मध्य पूर्व और अफ्रीका"
+        }
+      }
+    },
+    {
+      "title": "उत्तर कोरिया ने रोकी मिसाइलों और हथियारों की आपूर्ति; क्या बदलेगा जंग का समीकरण?",
+      "url": "https://www.amarujala.com/world/north-korea-suspends-military-aid-to-russia-amid-tensions-over-south-korea-2026-11-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-27T03:34:34+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/kama-jaga-una-oura-valthamara-patana-ka-malkata_ce15328f28448662640eaf4ef1308aad.jpeg?w=1200&dpr=1.0",
+      "summary": "उत्तर कोरिया ने रूस को मिसाइलों और हथियारों की आपूर्ति रोकने का फैसला लिया है। यह कदम रूस के लिए बड़ा झटका है और युद्ध के समीकरण में बदलाव की संभावना जताता है। रूस को बड़ा झटका: उत्तर कोरिया ने रोकी मिसाइलों और हथियारों की आपूर्ति; क्या बदलेगा जंग का समीकरण?",
+      "region": "Europe & Russia",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "उत्तर कोरिया ने रोकी मिसाइलों और हथियारों की आपूर्ति; क्या बदलेगा जंग का समीकरण?",
+          "summary": "उत्तर कोरिया ने रूस को मिसाइलों और हथियारों की आपूर्ति रोकने का फैसला लिया है। यह कदम रूस के लिए बड़ा झटका है और युद्ध के समीकरण में बदलाव की संभावना जताता है। रूस को बड़ा झटका: उत्तर कोरिया ने रोकी मिसाइलों और हथियारों की आपूर्ति; क्या बदलेगा जंग का समीकरण?",
+          "region": "यूरोप और रूस"
         }
       }
     },
@@ -384,7 +600,7 @@
       "url": "https://hindi.news18.com/news/nation/16-year-old-indian-ai-innovator-raul-john-aju-met-russian-president-vladimir-putin-11015578.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-27T01:33:19+00:00",
+      "published_at": "2026-11-27T03:02:45+00:00",
       "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/Putin-6-2026-11-b5da0d0b111334e4c8b3c3c24615d05d-1200x800.jpg",
       "summary": "16 वर्षीय राउल जॉन अजू ने मॉस्को में पुतिन से मुलाकात की। 26 नवंबर को एआई जर्नी कॉन्फ्रेंस के दौरान बातचीत हुई। पुतिन ने उनके काम की तारीफ की। Raul John Aju Meets Putin: भारत के 16 वर्षीय AI इनोवेटर राउल जॉन अजू ने रूस के मॉस्को में राष्ट्रपति व्लादिमीर पुतिन से मुलाकात की है. उनकी इस उपलब्धि से देश का नाम रोशन हुआ है.",
       "region": "Europe & Russia",
@@ -398,361 +614,145 @@
       }
     },
     {
-      "title": "आज लॉन्च हो सकती है मिनी कूपर SE: 402KM की रेंज और नए डिजाइन के साथ आएगी इलेक्ट्रिक कार, जानें कीमत",
-      "url": "https://www.amarujala.com/automobiles/new-mini-cooper-se-launch-today-402km-range-fresh-design-expected-price-revealed-2026-11-26",
-      "source": "Amar Ujala National",
+      "title": "शेख हसीना की वापसी नहीं होगी आसान, पूर्व डिप्टी प्रेस सेक्रेटरी समेत तीन की गिरफ्तारी पर उठे सवाल",
+      "url": "https://www.amarujala.com/world/bangladesh-action-taken-former-pm-return-three-arrested-including-sheikh-hasina-former-deputy-press-secretary-2026-11-27",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-27T01:31:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/naii-mana-kapara-se_92dc7c4b2579ce2580fbb272cd39252a.jpeg?w=1200&dpr=1.0",
-      "summary": "नई मिनी कूपर SE आज लॉन्च हो सकती है। कीमत 50 लाख रुपये के आसपास रह सकती है। 54.2 किलोवाट-घंटे का बैटरी पैक मिलेगा। रेंज 402 किलोमीटर होगी। शुरुआती कीमत संभावित 50 लाख रुपये है। 54.2kWh का बैटरी पैक मिल सकता है। सिंगल चार्ज में 402 किलोमीटर रेंज देती है। आज लॉन्च हो सकती है मिनी कूपर SE: 402KM की रेंज और नए डिजाइन के साथ आएगी इलेक्ट्रिक कार, जानें कीमत।",
-      "region": "World",
+      "published_at": "2026-11-27T02:44:45+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/taraka-rahamana-bgalthasha-ka-paema_cdc2c455e9a374a90bc12e8628af803c.jpeg?w=1200&dpr=1.0",
+      "summary": "बांग्लादेश में शेख हसीना की वापसी से पहले तीन लोगों की गिरफ्तारी हुई। इसमें उनकी पूर्व डिप्टी प्रेस सेक्रेटरी भी शामिल हैं। इस कदम पर सवाल उठे हैं। शेख हसीना की वापसी नहीं होगी आसान, पूर्व डिप्टी प्रेस सेक्रेटरी समेत तीन की गिरफ्तारी पर उठे सवाल।",
+      "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "आज लॉन्च हो सकती है मिनी कूपर SE: 402KM की रेंज और नए डिजाइन के साथ आएगी इलेक्ट्रिक कार, जानें कीमत",
-          "summary": "नई मिनी कूपर SE आज लॉन्च हो सकती है। कीमत 50 लाख रुपये के आसपास रह सकती है। 54.2 किलोवाट-घंटे का बैटरी पैक मिलेगा। रेंज 402 किलोमीटर होगी। शुरुआती कीमत संभावित 50 लाख रुपये है। 54.2kWh का बैटरी पैक मिल सकता है। सिंगल चार्ज में 402 किलोमीटर रेंज देती है। आज लॉन्च हो सकती है मिनी कूपर SE: 402KM की रेंज और नए डिजाइन के साथ आएगी इलेक्ट्रिक कार, जानें कीमत।",
-          "region": "दुनिया"
+          "title": "शेख हसीना की वापसी नहीं होगी आसान, पूर्व डिप्टी प्रेस सेक्रेटरी समेत तीन की गिरफ्तारी पर उठे सवाल",
+          "summary": "बांग्लादेश में शेख हसीना की वापसी से पहले तीन लोगों की गिरफ्तारी हुई। इसमें उनकी पूर्व डिप्टी प्रेस सेक्रेटरी भी शामिल हैं। इस कदम पर सवाल उठे हैं। शेख हसीना की वापसी नहीं होगी आसान, पूर्व डिप्टी प्रेस सेक्रेटरी समेत तीन की गिरफ्तारी पर उठे सवाल।",
+          "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "डाटा सेंटरों का एक पहलू यह भी: एआई की तरक्की से होगा पर्यावरणीय नुकसान, नागरिकों के हित न हों",
-      "url": "https://www.amarujala.com/columns/opinion/vizag-adani-google-ai-data-centre-environmental-impact-water-power-2026-11-27",
-      "source": "Amar Ujala National",
+      "title": "हूतियों ने ठोका तेल का कुआं, तड़प उठा सऊदी अरब, नेपाली नागरिक की मौत के बाद बढ़ा तनाव",
+      "url": "https://hindi.news18.com/world/middle-east-saudi-arabia-halts-refinery-operations-after-houthi-attack-kills-nepali-citizen-west-asia-conflict-ws-l-11015675.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-27T01:30:31+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/19/ai-agents_288aea8366efd41d402849362246acb5.png?w=1200&dpr=1.0",
-      "summary": "विजाग में एडानी और गूगल के एआई डाटा सेंटर पर्यावरण को नुकसान पहुंचा रहे हैं। पानी और बिजली की खपत बढ़ने से स्थानीय नागरिकों के हित प्रभावित हो रहे हैं। डाटा सेंटरों का एक पहलू यह भी: एआई की तरक्की से होगा पर्यावरणीय नुकसान, नागरिकों के हित न हों।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "डाटा सेंटरों का एक पहलू यह भी: एआई की तरक्की से होगा पर्यावरणीय नुकसान, नागरिकों के हित न हों",
-          "summary": "विजाग में एडानी और गूगल के एआई डाटा सेंटर पर्यावरण को नुकसान पहुंचा रहे हैं। पानी और बिजली की खपत बढ़ने से स्थानीय नागरिकों के हित प्रभावित हो रहे हैं। डाटा सेंटरों का एक पहलू यह भी: एआई की तरक्की से होगा पर्यावरणीय नुकसान, नागरिकों के हित न हों।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "आईफोन 17, सैमसंग और पिक्सल स्मार्टफोन पर महा डिस्काउंट, किस फोन पर कितनी छूट? देखें लिस्ट",
-      "url": "https://www.amarujala.com/technology/tech-diary/flipkart-black-friday-sale-2026-smartphone-deals-iphone-samsung-google-pixel-vivo-oppo-prices-2026-11-26",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-27T01:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/black-friday-sale-smartphone-deals_e2275d5680791fc94709814581156107.jpeg",
-      "summary": "फ्लिपकार्ट की ब्लैक फ्राइडे सेल में आईफोन 17 पर 10,800 रुपये की छूट मिल रही है। गूगल पिक्सल 10 पर 12,000 रुपये की सीधी कटौती लागू है। फ्लिपकार्ट की ब्लैक फ्राइडे सेल में आईफोन, सैमसंग, गूगल पिक्सल, वीवो और ओप्पो के कई स्मार्टफोन कम कीमत पर मिल रहे हैं। आईफोन 17 पर 10,800 रुपये और Pixel 10 पर 12,000 रुपये की सीधी छूट है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "आईफोन 17, सैमसंग और पिक्सल स्मार्टफोन पर महा डिस्काउंट, किस फोन पर कितनी छूट? देखें लिस्ट",
-          "summary": "फ्लिपकार्ट की ब्लैक फ्राइडे सेल में आईफोन 17 पर 10,800 रुपये की छूट मिल रही है। गूगल पिक्सल 10 पर 12,000 रुपये की सीधी कटौती लागू है। फ्लिपकार्ट की ब्लैक फ्राइडे सेल में आईफोन, सैमसंग, गूगल पिक्सल, वीवो और ओप्पो के कई स्मार्टफोन कम कीमत पर मिल रहे हैं। आईफोन 17 पर 10,800 रुपये और Pixel 10 पर 12,000 रुपये की सीधी छूट है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "न्यूजीलैंड एक विकेट पर 100 के पार, लाथम का अर्धशतक, गुरनूर ने कॉनवे को पवेलियन भेजा",
-      "url": "https://www.amarujala.com/live/cricket/ind-vs-nz-2nd-test-live-score-updates-playing-11-commentary-india-vs-new-zealand-live-updates-christchurch-2026-11-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-27T01:28:28+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/ind-vs-nz-2nd-test-india-vs-new-zealand-india-vs-new-zealand-live-score-ind-vs-nz-live-updates-i_e160770dc6e0b65b4d635d3e6c3c66ae.jpeg?w=1200&dpr=1.0",
-      "summary": "क्राइस्टचर्च के हेगली ओवल में भारत और न्यूजीलैंड के बीच दूसरा टेस्ट मैच शुरू हो गया है। न्यूजीलैंड ने एक विकेट पर 100 रन का लक्ष्य पार कर लिया है। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। आज से भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज के दूसरे मुकाबले का आगाज हो रहा है।",
-      "region": "Europe & Russia",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "न्यूजीलैंड एक विकेट पर 100 के पार, लाथम का अर्धशतक, गुरनूर ने कॉनवे को पवेलियन भेजा",
-          "summary": "क्राइस्टचर्च के हेगली ओवल में भारत और न्यूजीलैंड के बीच दूसरा टेस्ट मैच शुरू हो गया है। न्यूजीलैंड ने एक विकेट पर 100 रन का लक्ष्य पार कर लिया है। नमस्कार! अमर उजाला के लाइव ब्लॉग में आपका स्वागत है। आज से भारत और न्यूजीलैंड के बीच दो मैचों की टेस्ट सीरीज के दूसरे मुकाबले का आगाज हो रहा है।",
-          "region": "यूरोप और रूस"
-        }
-      }
-    },
-    {
-      "title": "मौसम और बर्फबारी के अलावा महामारी की भविष्यवाणी भी करते हैं हिमाचल के देवता, ग्रामीणों की पूरी आस्था",
-      "url": "https://www.amarujala.com/shimla/beyond-weather-and-snowfall-the-deities-of-himachal-also-make-predictions-about-pandemics-2026-11-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-27T01:25:12+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/1_d315084010a3f90be2a20183500f28da.jpeg?w=1200&dpr=1.0",
-      "summary": "ऊपरी शिमला के ग्रामीण बखाण अनुष्ठान में देवताओं से मौसम और बर्फबारी की भविष्यवाणी प्राप्त करते हैं। मानव माध्यमों के जरिये यह संवाद स्थानीय आस्था का हिस्सा है। ऊपरी शिमला के कुछ क्षेत्रों में सालाना बखाण अनुष्ठान में देवता मानव माध्यमों के जरिये ग्रामीणों से संवाद करते हैं। मौसम और बर्फबारी के अलावा महामारी की भविष्यवाणी भी करते हैं हिमाचल के देवता, ग्रामीणों की पूरी आस्था।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "मौसम और बर्फबारी के अलावा महामारी की भविष्यवाणी भी करते हैं हिमाचल के देवता, ग्रामीणों की पूरी आस्था",
-          "summary": "ऊपरी शिमला के ग्रामीण बखाण अनुष्ठान में देवताओं से मौसम और बर्फबारी की भविष्यवाणी प्राप्त करते हैं। मानव माध्यमों के जरिये यह संवाद स्थानीय आस्था का हिस्सा है। ऊपरी शिमला के कुछ क्षेत्रों में सालाना बखाण अनुष्ठान में देवता मानव माध्यमों के जरिये ग्रामीणों से संवाद करते हैं। मौसम और बर्फबारी के अलावा महामारी की भविष्यवाणी भी करते हैं हिमाचल के देवता, ग्रामीणों की पूरी आस्था।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "‘हमारी जीत करीब है, जब चाहूं तब खत्म हो जाए जंग’: ईरान युद्ध पर बोले डोनाल्ड ट्रंप; तेहरान को दिया",
-      "url": "https://www.patrika.com/world-news/on-thanksgiving-donald-trump-says-us-victory-at-hand-in-iran-war-21091894",
-      "source": "Patrika (World)",
-      "sources": [],
-      "published_at": "2026-11-27T01:17:52+00:00",
-      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump-12.webp",
-      "summary": "डोनाल्ड ट्रंप ने दावा किया कि अमेरिका ईरान युद्ध में जीत के बहुत करीब है। उन्होंने तेहरान को समझौते का मौका दिया, लेकिन युद्ध समाप्ति का फैसला अमेरिका करेगा। Donald Trump on Iran War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ चल रही जंग को लेकर दावा किया है कि अमेरिका जीत के बहुत करीब है। उन्होंने कहा कि वाशिंगटन अभी भी तेहरान को एक ऐसे समझौते तक पहुंचने का मौका दे रहा है जिससे जान-माल के और अधिक नुकसान को रोका जा सके।",
+      "published_at": "2026-11-27T02:38:46+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/07/saudi-houthi-2026-07-47409ade861378c73a3a2b9d136dd332-1200x800.jpg",
+      "summary": "यमन के हूतियों ने सऊदी अरब की अरामको रिफाइनरी पर हमला किया। इससे क्षेत्रीय तनाव और बढ़ा। नेपाली नागरिक की मौत के बाद भी तनाव जारी है। ईरान मसले का कोई हल निकला नहीं है और अब सऊदी अब और हूतियों के बीच का संग्राम भी बढ़ता जा रहा है. हूतियों ने एक बार फिर से सऊदी के तेल के कुएं यानि अरामको रिफाइनरी को निशाना बनाकर अटैक किया है.",
       "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "‘हमारी जीत करीब है, जब चाहूं तब खत्म हो जाए जंग’: ईरान युद्ध पर बोले डोनाल्ड ट्रंप; तेहरान को दिया",
-          "summary": "डोनाल्ड ट्रंप ने दावा किया कि अमेरिका ईरान युद्ध में जीत के बहुत करीब है। उन्होंने तेहरान को समझौते का मौका दिया, लेकिन युद्ध समाप्ति का फैसला अमेरिका करेगा। Donald Trump on Iran War: अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने ईरान के साथ चल रही जंग को लेकर दावा किया है कि अमेरिका जीत के बहुत करीब है। उन्होंने कहा कि वाशिंगटन अभी भी तेहरान को एक ऐसे समझौते तक पहुंचने का मौका दे रहा है जिससे जान-माल के और अधिक नुकसान को रोका जा सके।",
+          "title": "हूतियों ने ठोका तेल का कुआं, तड़प उठा सऊदी अरब, नेपाली नागरिक की मौत के बाद बढ़ा तनाव",
+          "summary": "यमन के हूतियों ने सऊदी अरब की अरामको रिफाइनरी पर हमला किया। इससे क्षेत्रीय तनाव और बढ़ा। नेपाली नागरिक की मौत के बाद भी तनाव जारी है। ईरान मसले का कोई हल निकला नहीं है और अब सऊदी अब और हूतियों के बीच का संग्राम भी बढ़ता जा रहा है. हूतियों ने एक बार फिर से सऊदी के तेल के कुएं यानि अरामको रिफाइनरी को निशाना बनाकर अटैक किया है.",
           "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "एआई के दौर में नैतिक मूल्यों की असली परीक्षा, एनवीडिया विवाद ने फिर छेड़ी बहस",
-      "url": "https://www.amarujala.com/columns/opinion/corporate-leadership-ethics-nvidia-ceo-jensen-huang-moral-values-ai-era-2026-11-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-27T01:17:46+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2024/10/25/jensen-huang_3da0723cb8344d6c8b053b5f8dd19435.png?w=1200&dpr=1.0",
-      "summary": "एनवीडिया सीईओ जेन्सन ह्वानग के आचरण पर नए सवाल उठे हैं। एआई क्षेत्र में नैतिक मूल्यों की परीक्षा के लिए यह विवाद एक प्रमुख उदाहरण बन गया है। एआई के दौर में नैतिक मूल्यों की असली परीक्षा, एनवीडिया विवाद ने फिर छेड़ी बहस।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "एआई के दौर में नैतिक मूल्यों की असली परीक्षा, एनवीडिया विवाद ने फिर छेड़ी बहस",
-          "summary": "एनवीडिया सीईओ जेन्सन ह्वानग के आचरण पर नए सवाल उठे हैं। एआई क्षेत्र में नैतिक मूल्यों की परीक्षा के लिए यह विवाद एक प्रमुख उदाहरण बन गया है। एआई के दौर में नैतिक मूल्यों की असली परीक्षा, एनवीडिया विवाद ने फिर छेड़ी बहस।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "लोकरक्षक और उपनिरीक्षक समेत 13,152 पदों पर भर्ती, 12वीं पास और स्नातक कर सकते हैं आवेदन",
-      "url": "https://www.amarujala.com/jobs/gujarat-police-recruitment-2026-apply-online-for-13152-lokrakshak-psi-and-technical-posts-2026-11-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-27T01:14:33+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/gujarat-police-recruitment-2026_a135ececc8cc4de6f5c4679d3784025a.jpeg?w=1200&dpr=1.0",
-      "summary": "गुजरात पुलिस ने 13,152 पदों पर भर्ती प्रक्रिया शुरू की है। लोकरक्षक और सब इंस्पेक्टर समेत विभिन्न पदों के लिए 12वीं पास और स्नातक आवेदन कर सकते हैं। गुजरात पुलिस भर्ती 2026 के लिए आवेदन प्रक्रिया शुरू हो गई है। गुजरात पुलिस भर्ती बोर्ड ने लोकरक्षक, पुलिस सब इंस्पेक्टर और टेक्निकल कैडर के कुल 13,152 पदों पर भर्ती निकाली है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "लोकरक्षक और उपनिरीक्षक समेत 13,152 पदों पर भर्ती, 12वीं पास और स्नातक कर सकते हैं आवेदन",
-          "summary": "गुजरात पुलिस ने 13,152 पदों पर भर्ती प्रक्रिया शुरू की है। लोकरक्षक और सब इंस्पेक्टर समेत विभिन्न पदों के लिए 12वीं पास और स्नातक आवेदन कर सकते हैं। गुजरात पुलिस भर्ती 2026 के लिए आवेदन प्रक्रिया शुरू हो गई है। गुजरात पुलिस भर्ती बोर्ड ने लोकरक्षक, पुलिस सब इंस्पेक्टर और टेक्निकल कैडर के कुल 13,152 पदों पर भर्ती निकाली है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "'पुतिन से अच्छे रिश्ते रखना जरूरी': ट्रंप बोले- रूस के साथ डील कर रोकना चाहते हैं युद्ध में हो रही",
-      "url": "https://www.amarujala.com/world/donald-trump-says-putin-wants-deal-end-ukraine-war-stop-killings-2026-11-27",
+      "title": "राष्ट्रपति ट्रंप ने हुआंग की दूसरी पारी का किया बचाव, कहा- हर कोई बदला जा सकता है",
+      "url": "https://www.amarujala.com/world/us-president-trump-defends-jensen-huang-s-second-term-at-nvidia-says-everybody-s-replaceable-2026-11-27",
       "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-27T01:13:48+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/danalda-tarapa-amaraka-rashhatarapata_31c465e5f6013da70671012347846087.jpeg?w=1200&dpr=1.0",
-      "summary": "डोनाल्ड ट्रंप ने कहा कि पुतिन से अच्छे रिश्ते रखना जरूरी है। वे रूस के साथ समझौते के जरिए युद्ध में हो रही मौतों को रोकना चाहते हैं। 'पुतिन से अच्छे रिश्ते रखना जरूरी': ट्रंप बोले- रूस के साथ डील कर रोकना चाहते हैं युद्ध में हो रही।",
+      "published_at": "2026-11-27T02:26:07+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/trump-defends-jensen-huangs-second-term-at-nvidia-says-everybodys-replaceable_01d20b6ea759a4531fb6afc9f87c0b3e.jpeg?w=1200&dpr=1.0",
+      "summary": "अमेरिकी राष्ट्रपति ट्रंप ने एनवीडिया के सीईओ जेनसन हुआंग की दूसरी पारी का बचाव किया। उन्होंने कहा कि हर कोई बदला जा सकता है। ट्रंप ने अपना भरोसा जताया। राष्ट्रपति ट्रंप ने हुआंग की दूसरी पारी का किया बचाव, कहा- हर कोई बदला जा सकता है।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "राष्ट्रपति ट्रंप ने हुआंग की दूसरी पारी का किया बचाव, कहा- हर कोई बदला जा सकता है",
+          "summary": "अमेरिकी राष्ट्रपति ट्रंप ने एनवीडिया के सीईओ जेनसन हुआंग की दूसरी पारी का बचाव किया। उन्होंने कहा कि हर कोई बदला जा सकता है। ट्रंप ने अपना भरोसा जताया। राष्ट्रपति ट्रंप ने हुआंग की दूसरी पारी का किया बचाव, कहा- हर कोई बदला जा सकता है।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "थैंक्सगिविंग पर अमेरिका में तूफान का कहर: सात लाख से ज्यादा घरों की बिजली गुल, हजारों उड़ानें",
+      "url": "https://www.amarujala.com/world/storm-wreaks-havoc-in-the-us-on-thanksgiving-power-out-in-over-700-000-homes-thousands-of-flights-affected-2026-11-27",
+      "source": "Amar Ujala World",
+      "sources": [],
+      "published_at": "2026-11-27T02:09:37+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/thakasagavaga-para-masama-ka-mara_08842f93e0cea04af2432a37618e8a1d.jpeg?w=1200&dpr=1.0",
+      "summary": "थैंक्सगिविंग पर अमेरिका में तूफान ने सात लाख से ज्यादा घरों की बिजली काट दी। हजारों उड़ानें प्रभावित हुईं। यह तूफान देश के कई हिस्सों में देर तक बना रहा। थैंक्सगिविंग पर अमेरिका में तूफान का कहर: सात लाख से ज्यादा घरों की बिजली गुल, हजारों उड़ानें।",
+      "region": "Americas",
+      "language": "hi",
+      "translations": {
+        "hi": {
+          "title": "थैंक्सगिविंग पर अमेरिका में तूफान का कहर: सात लाख से ज्यादा घरों की बिजली गुल, हजारों उड़ानें",
+          "summary": "थैंक्सगिविंग पर अमेरिका में तूफान ने सात लाख से ज्यादा घरों की बिजली काट दी। हजारों उड़ानें प्रभावित हुईं। यह तूफान देश के कई हिस्सों में देर तक बना रहा। थैंक्सगिविंग पर अमेरिका में तूफान का कहर: सात लाख से ज्यादा घरों की बिजली गुल, हजारों उड़ानें।",
+          "region": "अमेरिका"
+        }
+      }
+    },
+    {
+      "title": "डोनाल्ड ट्रंप का बड़ा दावा – रूस-यूक्रेन युद्ध को खत्म करने के लिए डील करना चाहते हैं व्लादिमीर पुतिन",
+      "url": "https://www.patrika.com/world-news/donald-trump-says-vladimir-putin-would-like-to-make-deal-to-end-russia-ukraine-war-21091909",
+      "source": "Patrika (World)",
+      "sources": [],
+      "published_at": "2026-11-27T02:09:36+00:00",
+      "image_url": "https://cms.patrika.com/wp-content/uploads/2026/11/putin-and-trump_.webp",
+      "summary": "ट्रंप ने दावा किया कि वे पुतिन से रूस-यूक्रेन युद्ध समाप्त करने के लिए डील करना चाहते हैं। युद्ध को 57 महीने हो चुके हैं। अभी तक कोई समाधान नहीं निकला है। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 57 महीने पूरे हो चुके हैं। काफी कोशिशों के बावजूद युद्ध अभी तक रुका नहीं है। दोनों देश एक-दूसरे पर हमले कर रहे हैं।",
       "region": "Europe & Russia",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'पुतिन से अच्छे रिश्ते रखना जरूरी': ट्रंप बोले- रूस के साथ डील कर रोकना चाहते हैं युद्ध में हो रही",
-          "summary": "डोनाल्ड ट्रंप ने कहा कि पुतिन से अच्छे रिश्ते रखना जरूरी है। वे रूस के साथ समझौते के जरिए युद्ध में हो रही मौतों को रोकना चाहते हैं। 'पुतिन से अच्छे रिश्ते रखना जरूरी': ट्रंप बोले- रूस के साथ डील कर रोकना चाहते हैं युद्ध में हो रही।",
+          "title": "डोनाल्ड ट्रंप का बड़ा दावा – रूस-यूक्रेन युद्ध को खत्म करने के लिए डील करना चाहते हैं व्लादिमीर पुतिन",
+          "summary": "ट्रंप ने दावा किया कि वे पुतिन से रूस-यूक्रेन युद्ध समाप्त करने के लिए डील करना चाहते हैं। युद्ध को 57 महीने हो चुके हैं। अभी तक कोई समाधान नहीं निकला है। रूस-यूक्रेन युद्ध (Russia-Ukraine War) को 57 महीने पूरे हो चुके हैं। काफी कोशिशों के बावजूद युद्ध अभी तक रुका नहीं है। दोनों देश एक-दूसरे पर हमले कर रहे हैं।",
           "region": "यूरोप और रूस"
         }
       }
     },
     {
-      "title": "चुनावी बिसात पर सपा ने दी लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित?",
-      "url": "https://www.amarujala.com/columns/opinion/samajwadi-party-jan-man-manifesto-2027-up-election-promises-pda-jobs-litmus-test-populist-announcements-2026-11-27",
-      "source": "Amar Ujala National",
+      "title": "सदी के अंत तक 140% तक बढ़ सकती हैं बिजली गिरने की घटनाएं",
+      "url": "https://www.amarujala.com/world/world-updates-of-27-nov-world-news-us-iran-crisis-russia-ukraine-war-us-china-world-news-in-hindi-2026-11-27",
+      "source": "Amar Ujala World",
       "sources": [],
-      "published_at": "2026-11-27T01:09:09+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/akhilesh-yadav_3c6d3d6b2c6101f1e7de47e6ec9bf197.jpeg?w=1200&dpr=1.0",
-      "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश चुनावों के लिए लोकलुभावन घोषणाएं जारी की हैं। नौकरियों और अन्य वादों के जरिए पार्टी मतदाताओं को आकर्षित करने की कोशिश कर रही है। वादों की कसौटी: चुनावी बिसात पर लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित? चुनावी बिसात पर सपा ने दी लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित?",
-      "region": "World",
+      "published_at": "2026-11-27T02:09:36+00:00",
+      "image_url": "https://staticimg.amarujala.com/assets/images/2024/04/13/thanaya-ka-bugdha-khabra-world-updates_cddc764ac6d496f71c12b9fa65a8c127.jpeg?w=1200&dpr=1.0",
+      "summary": "वैज्ञानिकों का अनुमान है कि सदी के अंत तक बिजली गिरने की घटनाएं 140 प्रतिशत तक बढ़ सकती हैं। यह वृद्धि मौसम परिवर्तन के कारण हो रही है। सदी के अंत तक 140% तक बढ़ सकती हैं बिजली गिरने की घटनाएं।",
+      "region": "Middle East & Africa",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चुनावी बिसात पर सपा ने दी लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित?",
-          "summary": "समाजवादी पार्टी ने 2027 के उत्तर प्रदेश चुनावों के लिए लोकलुभावन घोषणाएं जारी की हैं। नौकरियों और अन्य वादों के जरिए पार्टी मतदाताओं को आकर्षित करने की कोशिश कर रही है। वादों की कसौटी: चुनावी बिसात पर लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित? चुनावी बिसात पर सपा ने दी लोकलुभावन घोषणाओं की सौगात, क्या मतदाता होंगे आकर्षित?",
-          "region": "दुनिया"
+          "title": "सदी के अंत तक 140% तक बढ़ सकती हैं बिजली गिरने की घटनाएं",
+          "summary": "वैज्ञानिकों का अनुमान है कि सदी के अंत तक बिजली गिरने की घटनाएं 140 प्रतिशत तक बढ़ सकती हैं। यह वृद्धि मौसम परिवर्तन के कारण हो रही है। सदी के अंत तक 140% तक बढ़ सकती हैं बिजली गिरने की घटनाएं।",
+          "region": "मध्य पूर्व और अफ्रीका"
         }
       }
     },
     {
-      "title": "'बंद कर देंगे पूरा पाकिस्तान', मौलाना डीजल ने किया पंजाब बंद का ऐलान, अब होगा शहबाज का असली",
-      "url": "https://hindi.news18.com/world/pakistan-fazlur-rehman-calls-showdown-with-islamabad-shehbaz-government-doing-roadblocks-raids-revolt-ws-l-11015570.html",
+      "title": "गुरुपर्व पर पाकिस्तान गए सिख श्रद्धालुओं के जत्थे से तीन भारतीय गायब, अलर्ट पर केंद्रीय एजेंसियां",
+      "url": "https://hindi.news18.com/news/nation/3-sikh-pilgrims-are-missing-in-pakistan-during-guru-nanak-dev-ji-guru-purab-yatra-indian-agencies-are-on-high-alert-ws-l-11015614.html",
       "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-27T00:59:40+00:00",
-      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/maulana-deisel-2026-11-b94abc29ed4394ba873bc16edc927653-1200x800.jpg",
-      "summary": "जेयूआई-एफ के प्रमुख मौलाना फजलुर रहमान ने पाकिस्तान में बंद का ऐलान किया है। यह कदम शहबाज शरीफ की सरकार की कार्रवाई के विरोध में उठा गया है। यहां पर इमरान खान की पार्टी तो पहले से ही हंगामा कर रही थी, अब धीरे-धीरे विपक्ष की पार्टियां शहबाज सरकार के खिलाफ हल्ला बोलती नजर आ रही हैं. मौलाना डीजल के नाम से मशहूर JUI-F के प्रमुख मौलाना फजलुर रहमान ने भी सरकार की कार्रवाई के खिलाफ बंद का ऐलान किया है.",
+      "published_at": "2026-11-27T02:05:17+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/11/guru-nanak-jayanti-2026-11-6ba085eb10f519503a8250d005d42a17-1200x800.jpg",
+      "summary": "पाकिस्तान में गुरुपर्व के दौरान तीन भारतीय सिख श्रद्धालु गायब हो गए। वे 2800 लोगों के दस्ते के साथ गए थे। केंद्रीय एजेंसियां अब उनकी तलाश में जुट गई हैं। गुरुपर्व पर पाकिस्तान गए सिख श्रद्धालुओं के जत्थे से पंजाब के तीन भारतीय यात्री रहस्यमयी तरीके से गायब हो गए हैं. ये सभी गुरुनानक के गुरुपर्व में शाम‍िल होने के लि‍ए 2800 लोगों के दस्‍ते में पाक‍िस्‍तान गए थे.",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "'बंद कर देंगे पूरा पाकिस्तान', मौलाना डीजल ने किया पंजाब बंद का ऐलान, अब होगा शहबाज का असली",
-          "summary": "जेयूआई-एफ के प्रमुख मौलाना फजलुर रहमान ने पाकिस्तान में बंद का ऐलान किया है। यह कदम शहबाज शरीफ की सरकार की कार्रवाई के विरोध में उठा गया है। यहां पर इमरान खान की पार्टी तो पहले से ही हंगामा कर रही थी, अब धीरे-धीरे विपक्ष की पार्टियां शहबाज सरकार के खिलाफ हल्ला बोलती नजर आ रही हैं. मौलाना डीजल के नाम से मशहूर JUI-F के प्रमुख मौलाना फजलुर रहमान ने भी सरकार की कार्रवाई के खिलाफ बंद का ऐलान किया है.",
+          "title": "गुरुपर्व पर पाकिस्तान गए सिख श्रद्धालुओं के जत्थे से तीन भारतीय गायब, अलर्ट पर केंद्रीय एजेंसियां",
+          "summary": "पाकिस्तान में गुरुपर्व के दौरान तीन भारतीय सिख श्रद्धालु गायब हो गए। वे 2800 लोगों के दस्ते के साथ गए थे। केंद्रीय एजेंसियां अब उनकी तलाश में जुट गई हैं। गुरुपर्व पर पाकिस्तान गए सिख श्रद्धालुओं के जत्थे से पंजाब के तीन भारतीय यात्री रहस्यमयी तरीके से गायब हो गए हैं. ये सभी गुरुनानक के गुरुपर्व में शाम‍िल होने के लि‍ए 2800 लोगों के दस्‍ते में पाक‍िस्‍तान गए थे.",
           "region": "एशिया-प्रशांत"
         }
       }
     },
     {
-      "title": "सियासी मतभेदों से टूट रहे परिवार, ट्रंप को वोट देने पर बेटे ने पिता से तोड़ा नाता; रिपोर्ट में",
-      "url": "https://www.amarujala.com/world/political-differences-fracturing-family-bonds-37-percent-americans-political-breakup-jonathan-alpert-2026-11-27",
-      "source": "Amar Ujala World",
+      "title": "'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर? बुलंद हैं आवामी लीग के",
+      "url": "https://hindi.news18.com/world/south-asia-bangladesh-state-minister-denies-sheikh-hasina-return-after-awami-league-calls-shutdown-11015605.html",
+      "source": "News18 Hindi (World)",
       "sources": [],
-      "published_at": "2026-11-27T00:45:05+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/sayasa-bhasa-sa-tata-raha-37-paravara_f2c6da9590b19a74af7c8d5da2404c24.jpeg?w=1200&dpr=1.0",
-      "summary": "अमेरिका में 37 प्रतिशत लोगों ने बताया कि राजनीतिक मतभेदों ने उनके परिवार के रिश्तों को नुकसान पहुंचाया है। एक रिपोर्ट में खुलासा हुआ कि एक बेटे ने अपने पिता से नाता तोड़ दिया क्योंकि पिता ट्रंप को वोट देते हैं। यह आंकड़ा राजनीति के सामाजिक प्रभाव को दर्शाता है। सियासी मतभेदों से टूट रहे परिवार, ट्रंप को वोट देने पर बेटे ने पिता से तोड़ा नाता; रिपोर्ट में।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सियासी मतभेदों से टूट रहे परिवार, ट्रंप को वोट देने पर बेटे ने पिता से तोड़ा नाता; रिपोर्ट में",
-          "summary": "अमेरिका में 37 प्रतिशत लोगों ने बताया कि राजनीतिक मतभेदों ने उनके परिवार के रिश्तों को नुकसान पहुंचाया है। एक रिपोर्ट में खुलासा हुआ कि एक बेटे ने अपने पिता से नाता तोड़ दिया क्योंकि पिता ट्रंप को वोट देते हैं। यह आंकड़ा राजनीति के सामाजिक प्रभाव को दर्शाता है। सियासी मतभेदों से टूट रहे परिवार, ट्रंप को वोट देने पर बेटे ने पिता से तोड़ा नाता; रिपोर्ट में।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "Weather Forecast 27 November 2026: देखिए क्या है आपके यहां मौसम का हाल",
-      "url": "https://www.amarujala.com/video/india-news/weather-forecast-for-27-november-2026-see-what-the-weather-is-like-in-your-area-weather-report-today-2026-11-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-27T00:30:03+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/weather-forecast_bb0ee1be960c80d9b258316ba0a2cedc.jpeg?w=1200&dpr=1.0",
-      "summary": "27 नवंबर 2026 के मौसम पूर्वानुमान में देश के विभिन्न हिस्सों के लिए तापमान और हवा की गति की जानकारी दी गई है। मौसम विभाग ने लोगों को सावधानी बरतने की सलाह दी है। यह रिपोर्ट स्थानीय स्तर पर मौसम की स्थिति को समझने में मदद करती है।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "Weather Forecast 27 November 2026: देखिए क्या है आपके यहां मौसम का हाल",
-          "summary": "27 नवंबर 2026 के मौसम पूर्वानुमान में देश के विभिन्न हिस्सों के लिए तापमान और हवा की गति की जानकारी दी गई है। मौसम विभाग ने लोगों को सावधानी बरतने की सलाह दी है। यह रिपोर्ट स्थानीय स्तर पर मौसम की स्थिति को समझने में मदद करती है।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "भाजपा के राष्ट्रीय पदाधिकारियों की दो दिवसीय बैठक का आगाज; दीपथून विवाद में सुप्रीम सुनवाई",
-      "url": "https://www.amarujala.com/india-news/27-november-2026-major-event-2026-11-26",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-27T00:27:37+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/26/aaja-ka-khabra_cb1114c8a7bee5ed3a5bb913d6cedf71.gif?w=1200&dpr=1.0",
-      "summary": "भाजपा के राष्ट्रीय पदाधिकारियों की दो दिवसीय बैठक का शुभारंभ हो गया है। इसी दिन दीपथून विवाद के मामले में सुप्रीम कोर्ट में सुनवाई भी हो रही है। दोनों घटनाक्रम राजनीतिक और कानूनी मंच पर महत्वपूर्ण हैं। नमस्कार! आज है शुक्रवार, 27 नवंबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "भाजपा के राष्ट्रीय पदाधिकारियों की दो दिवसीय बैठक का आगाज; दीपथून विवाद में सुप्रीम सुनवाई",
-          "summary": "भाजपा के राष्ट्रीय पदाधिकारियों की दो दिवसीय बैठक का शुभारंभ हो गया है। इसी दिन दीपथून विवाद के मामले में सुप्रीम कोर्ट में सुनवाई भी हो रही है। दोनों घटनाक्रम राजनीतिक और कानूनी मंच पर महत्वपूर्ण हैं। नमस्कार! आज है शुक्रवार, 27 नवंबर इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "संसद सत्र से पहले कांग्रेस की बैठक आज, एनआईओएस बदलेगा पाठ्यक्रम; 13 राज्यों में कोहरे का अलर्ट",
-      "url": "https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-27-november-2026-updates-on-amar-ujala-2026-11-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-27T00:26:30+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2025/03/06/aaja-ka-bugdha-khabra-top-big-news_ffe1c625ef0e1151fc161fefe68385e0.jpeg?w=1200&dpr=1.0",
-      "summary": "संसद के शीतकालीन सत्र से पहले कांग्रेस की आज बैठक होगी। एनआईओएस पाठ्यक्रम में बदलाव करने जा रहा है। साथ ही 13 राज्यों में कोहरे का अलर्ट जारी किया गया है। ये घटनाक्रम देश की राजनीति और शिक्षा नीति को प्रभावित करेंगे। संसद सत्र से पहले कांग्रेस की बैठक आज, एनआईओएस बदलेगा पाठ्यक्रम; 13 राज्यों में कोहरे का अलर्ट।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "संसद सत्र से पहले कांग्रेस की बैठक आज, एनआईओएस बदलेगा पाठ्यक्रम; 13 राज्यों में कोहरे का अलर्ट",
-          "summary": "संसद के शीतकालीन सत्र से पहले कांग्रेस की आज बैठक होगी। एनआईओएस पाठ्यक्रम में बदलाव करने जा रहा है। साथ ही 13 राज्यों में कोहरे का अलर्ट जारी किया गया है। ये घटनाक्रम देश की राजनीति और शिक्षा नीति को प्रभावित करेंगे। संसद सत्र से पहले कांग्रेस की बैठक आज, एनआईओएस बदलेगा पाठ्यक्रम; 13 राज्यों में कोहरे का अलर्ट।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "पिता ने अंतरिक्ष में सुनी बेटी के जन्म की खुशखबरी: धरती से सैकड़ों किमी दूर मनाया जश्न, आईएसएस पर",
-      "url": "https://www.amarujala.com/world/canadian-astronaut-joshua-kutryk-daughter-born-during-iss-mission-2026-11-27",
-      "source": "Amar Ujala World",
-      "sources": [],
-      "published_at": "2026-11-27T00:03:13+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/joshua-kutryk_b940506e7ee58c942fdbfc9b41b20800.jpeg?w=1200&dpr=1.0",
-      "summary": "कनाडाई अंतरिक्ष यात्री जोशुआ कुट्रिक ने आईएसएस से अपनी बेटी के जन्म की खुशखबरी सुनी। उन्होंने धरती से सैकड़ों किलोमीटर ऊपर इस जश्न का आनंद लिया। यह घटना अंतरिक्ष यात्रा के दौरान व्यक्तिगत जीवन के क्षणों को दर्शाती है। पिता ने अंतरिक्ष में सुनी बेटी के जन्म की खुशखबरी: धरती से सैकड़ों किमी दूर मनाया जश्न, आईएसएस पर।",
-      "region": "Americas",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "पिता ने अंतरिक्ष में सुनी बेटी के जन्म की खुशखबरी: धरती से सैकड़ों किमी दूर मनाया जश्न, आईएसएस पर",
-          "summary": "कनाडाई अंतरिक्ष यात्री जोशुआ कुट्रिक ने आईएसएस से अपनी बेटी के जन्म की खुशखबरी सुनी। उन्होंने धरती से सैकड़ों किलोमीटर ऊपर इस जश्न का आनंद लिया। यह घटना अंतरिक्ष यात्रा के दौरान व्यक्तिगत जीवन के क्षणों को दर्शाती है। पिता ने अंतरिक्ष में सुनी बेटी के जन्म की खुशखबरी: धरती से सैकड़ों किमी दूर मनाया जश्न, आईएसएस पर।",
-          "region": "अमेरिका"
-        }
-      }
-    },
-    {
-      "title": "सांस की परेशानी से जूझ रहे लॉन्ग कोविड के आधे मरीज, किनमें ज्यादा मिले लक्षण?",
-      "url": "https://www.amarujala.com/world/long-covid-breathing-problems-four-years-after-infection-study-2026-11-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-26T23:50:53+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/long-covid_2bbfdf0466fddda0a3635146af546acd.jpeg?w=1200&dpr=1.0",
-      "summary": "नई दिल्ली में किए गए अध्ययन में पाया गया कि लॉन्ग कोविड से पीड़ित आधे मरीजों को सांस की समस्या है। महिलाओं में यह लक्षण पुरुषों की तुलना में अधिक देखा गया। चार साल बाद भी ये प्रभाव जारी हैं। महामारी के चार साल बीते: सांस की परेशानी से जूझ रहे लॉन्ग कोविड के आधे मरीज, किनमें ज्यादा मिले लक्षण?",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "सांस की परेशानी से जूझ रहे लॉन्ग कोविड के आधे मरीज, किनमें ज्यादा मिले लक्षण?",
-          "summary": "नई दिल्ली में किए गए अध्ययन में पाया गया कि लॉन्ग कोविड से पीड़ित आधे मरीजों को सांस की समस्या है। महिलाओं में यह लक्षण पुरुषों की तुलना में अधिक देखा गया। चार साल बाद भी ये प्रभाव जारी हैं। महामारी के चार साल बीते: सांस की परेशानी से जूझ रहे लॉन्ग कोविड के आधे मरीज, किनमें ज्यादा मिले लक्षण?",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "चंद्रशेखरन की नियुक्ति के खिलाफ टाटा ट्रस्ट की याचिका पर आज होगी सुनवाई, जानें क्या है पूरा मामला",
-      "url": "https://www.amarujala.com/business/business-diary/tata-trusts-plea-against-chandrasekaran-appointment-hearing-today-bombay-high-court-2026-11-27",
-      "source": "Amar Ujala National",
-      "sources": [],
-      "published_at": "2026-11-26T23:46:18+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/tata-tarasatasa_2018ab4fcdb8d80d0b9c80c8dadb950b.jpeg?w=1200&dpr=1.0",
-      "summary": "मुंबई उच्च न्यायालय आज टाटा ट्रस्ट की याचिका पर सुनवाई करेगा। ट्रस्ट ने निलंबित सीईओ चंद्रशेखरन की नियुक्ति के खिलाफ अपील की है। न्यायालय इस विवाद पर अंतिम फैसला सुनाएगा। चंद्रशेखरन की नियुक्ति के खिलाफ टाटा ट्रस्ट की याचिका पर आज होगी सुनवाई, जानें क्या है पूरा मामला।",
+      "published_at": "2026-11-27T01:52:52+00:00",
+      "image_url": "https://images.news18.com/ibnkhabar/uploads/2026/08/Tarique-Rahman-Sheikh-Hasina-2026-08-1ebb72e3d455b3ba5c02da3de4cf2f3e-1200x800.jpg",
+      "summary": "बांग्लादेश की सरकार ने शेख हसीना की वापसी को खारिज किया। मंत्रियों ने कहा कि दिसंबर में सिर्फ सर्दी आएगी। आवामी लीग के हौसले बुलंद हैं। सियासी बवाल बढ़ता जा रहा है। Bangladesh Sheikh Hasina Return Turmoil: बांग्लादेश की पूर्व पीएम शेख हसीना की वापसी को लेकर वहां सियासी बवाल बढ़ता ही जा रहा है. 'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर?",
       "region": "Asia-Pacific",
       "language": "hi",
       "translations": {
         "hi": {
-          "title": "चंद्रशेखरन की नियुक्ति के खिलाफ टाटा ट्रस्ट की याचिका पर आज होगी सुनवाई, जानें क्या है पूरा मामला",
-          "summary": "मुंबई उच्च न्यायालय आज टाटा ट्रस्ट की याचिका पर सुनवाई करेगा। ट्रस्ट ने निलंबित सीईओ चंद्रशेखरन की नियुक्ति के खिलाफ अपील की है। न्यायालय इस विवाद पर अंतिम फैसला सुनाएगा। चंद्रशेखरन की नियुक्ति के खिलाफ टाटा ट्रस्ट की याचिका पर आज होगी सुनवाई, जानें क्या है पूरा मामला।",
-          "region": "एशिया-प्रशांत"
-        }
-      }
-    },
-    {
-      "title": "तिरुपति मंदिर में दंपति ने दान किया 121 किलो सोना, भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा",
-      "url": "https://www.amarujala.com/india-news/tirumala-venkateswara-temple-121-kg-gold-diamond-jewellery-donation-207-crore-2026-11-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-26T21:44:24+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/11/27/tarapata-ma-121-kal-sana-thana_7a9d9dfb63a8031c87d13478906a3564.jpeg?w=1200&dpr=1.0",
-      "summary": "तिरुपति मंदिर में एक दंपति ने 121 किलो सोना और हीरे की अलंकार चढ़ाए। इस दान की कुल कीमत 207 करोड़ रुपये है। यह भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा है। तिरुपति मंदिर में दंपति ने दान किया 121 किलो सोना, भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा।",
-      "region": "World",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "तिरुपति मंदिर में दंपति ने दान किया 121 किलो सोना, भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा",
-          "summary": "तिरुपति मंदिर में एक दंपति ने 121 किलो सोना और हीरे की अलंकार चढ़ाए। इस दान की कुल कीमत 207 करोड़ रुपये है। यह भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा है। तिरुपति मंदिर में दंपति ने दान किया 121 किलो सोना, भगवान वेंकटेश्वर को मिला सबसे बड़ा चढ़ावा।",
-          "region": "दुनिया"
-        }
-      }
-    },
-    {
-      "title": "47.65 में से सिर्फ 3.37 लाख ने नाम जुड़वाने के लिए किया आवेदन, अंतिम सूची 22 दिसंबर को",
-      "url": "https://www.amarujala.com/delhi-ncr/sir-in-delhi-out-of-47-65-lakh-only-3-37-lakh-have-applied-for-registration-2026-11-27",
-      "source": "Amar Ujala Breaking",
-      "sources": [],
-      "published_at": "2026-11-26T20:21:35+00:00",
-      "image_url": "https://staticimg.amarujala.com/assets/images/2026/08/31/thall-esaaaiiaara-ka-darafata-lsata-jara_63946a2a97e6e798d41874a2833cf46b.png?w=1200&dpr=1.0",
-      "summary": "दिल्ली में विशेष गहन पुनरीक्षण के दौरान 47.65 लाख मतदाता सूची से बाहर हुए। इनमें से केवल 3.37 लाख ने नाम जोड़ने के लिए आवेदन किया। अंतिम मतदाता सूची 22 दिसंबर को जारी होगी। दिल्ली में विशेष गहन पुनरीक्षण (एसआईआर) में मतदाता सूची से बाहर हुए 47.65 लाख मतदाताओं में से केवल 3,37,970 लोगों ने 31 अगस्त से 25 नवंबर के बीच मतदाता सूची में अपना नाम जुड़वाने के लिए फॉर्म-6 भरा है।",
-      "region": "Asia-Pacific",
-      "language": "hi",
-      "translations": {
-        "hi": {
-          "title": "47.65 में से सिर्फ 3.37 लाख ने नाम जुड़वाने के लिए किया आवेदन, अंतिम सूची 22 दिसंबर को",
-          "summary": "दिल्ली में विशेष गहन पुनरीक्षण के दौरान 47.65 लाख मतदाता सूची से बाहर हुए। इनमें से केवल 3.37 लाख ने नाम जोड़ने के लिए आवेदन किया। अंतिम मतदाता सूची 22 दिसंबर को जारी होगी। दिल्ली में विशेष गहन पुनरीक्षण (एसआईआर) में मतदाता सूची से बाहर हुए 47.65 लाख मतदाताओं में से केवल 3,37,970 लोगों ने 31 अगस्त से 25 नवंबर के बीच मतदाता सूची में अपना नाम जुड़वाने के लिए फॉर्म-6 भरा है।",
+          "title": "'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर? बुलंद हैं आवामी लीग के",
+          "summary": "बांग्लादेश की सरकार ने शेख हसीना की वापसी को खारिज किया। मंत्रियों ने कहा कि दिसंबर में सिर्फ सर्दी आएगी। आवामी लीग के हौसले बुलंद हैं। सियासी बवाल बढ़ता जा रहा है। Bangladesh Sheikh Hasina Return Turmoil: बांग्लादेश की पूर्व पीएम शेख हसीना की वापसी को लेकर वहां सियासी बवाल बढ़ता ही जा रहा है. 'दिसंबर में सिर्फ सर्दी आएगी, हसीना नहीं', बांग्लादेशी मंत्री का तंज या डर?",
           "region": "एशिया-प्रशांत"
         }
       }

@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 27, 2026 07:30 IST
+**Updated:** November 27, 2026 16:00 IST
 
 ---
 
@@ -27,6 +27,12 @@ The Security Council is weighing how AI and drones reshape warfare. Guterres not
 <!-- image: https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Crisis Group analysts discussed the deployment of Algerian troops in Niger. They examined how this military presence affects regional security balances. The conversation highlighted shifting dynamics in the Sahel. Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Ibrahim Yahaya Ibrahim, Directeur Adjoint du Projet Sahel, Ibrahim Maïga, Conseiller Spécial pour le Sahel et Michaël Ayari, Analyste Senior pour la Tunisie et l’Algérie à Crisis Group, pour parler du déploiement de troupes algériennes au Niger et des répercussions de cette présence militaire sur les équilibres sécuritaires.
+
+### [The DIY dance movement helping young Nigerians escape the daily grind](https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind)
+*The Guardian* - Nov 27, 11:30 IST (iso: 2026-11-27T06:00:56+00:00)
+<!-- image: https://i.guim.co.uk/img/media/420a704a7b9337bcc84564de8c0db0836d052aac/433_0_5275_4223/master/5275.jpg?width=140&quality=85&auto=format&fit=max&s=558556ddc90089bd8666c299074f9675 -->
+
+A DIY dance movement in Nigeria grew from one artist's exclusion from a music video. It now drives cultural engagement for young people. The trend started in Ilorin and spread through social media platforms like TikTok. What started as one artist’s response to being cut out of a music video has exploded, becoming a driving force in Nigeria’s cultural landscapeAs a student in the central Nigerian city of Ilorin, Lawal Habeeb Kola loved staying in his hostel room to produce beats rather than returning to his family house in Lagos, the more frenetic city of his birth. In 2022, one of his beats became popular on TikTo.
 
 ### [‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record](https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general)
 *The Guardian* - Nov 26, 18:07 IST (iso: 2026-11-26T12:37:42+00:00)
@@ -58,12 +64,6 @@ Widows in Gaza now manage household duties, shelter, and education from temporar
 
 UN aid chief Tom Fletcher arrived in Yemen to warn that the war blocks access to food and medicine. He highlighted the crisis in Taiz City. Fletcher urged for immediate access to war-hit communities to prevent further suffering. The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.
 
-### [More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals](https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data)
-*The Guardian* - Nov 24, 21:30 IST (iso: 2026-11-24T16:00:50+00:00)
-<!-- image: https://i.guim.co.uk/img/media/10e1ca6b5f3fb26e97a3db600a8ac46bde25afdf/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=847839bf6f4eb8b97ad9053e00a60478 -->
-
-Leaked records show 349 Russian military personnel died in Mali over three years. The data highlights Moscow’s support for the local junta. The figures also reveal broader Russian military activity across the African continent during the same period. Exclusive: Records list 349 deaths in three years in Mali and also shed light on Russia’s military activity elsewhere in AfricaWhen the attack on Kidal began before dawn on 25 April this year, the Russian fighters were caught off guard.
-
 ### [UN deputy chief’s final call to end violence against women](https://news.un.org/feed/view/en/story/2026/11/1168868)
 *UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
 <!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-Women-GBV-03.jpg/image560x340cropped.jpg -->
@@ -76,43 +76,27 @@ Amina Mohammed warned another woman would be killed before she finished speaking
 
 WHO staff and Ebola responders remain trapped in a DRC hospital. Heavy fighting continues in Ituri province. The UN agency confirmed the situation on Tuesday. Personnel are stranded as violence prevents their safe evacuation from the facility. Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.
 
----
+### [High Stakes in Iraq’s Push to Reclaim Jurf al-Sakhar](https://www.crisisgroup.org/qna/middle-east-north-africa/iraq/high-stakes-iraqs-push-reclaim-jurf-al-sakhar)
+*International Crisis Group* - Nov 21, 02:10 IST (iso: 2026-11-20T20:40:00+00:00)
+<!-- image: https://images.pexels.com/photos/38982182/pexels-photo-38982182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
-## Americas
-
-### [Southeast Asia’s AI data center bets turning into stranded assets](https://asiatimes.com/2026/11/southeast-asias-ai-data-center-bets-turning-into-stranded-assets/)
-*Asia Times* - Nov 27, 07:24 IST (iso: 2026-11-27T01:54:54+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Day-One-Data-Center-Malaysia.jpg -->
-
-Southeast Asian AI data center projects face becoming stranded assets after Nvidia halted chip shipments. The suspension disrupts the region's physical infrastructure buildout. Financial commitments now risk obsolescence. The boom's underlying architecture has effectively seized up. Wall Street spent this week celebrating Jensen Huang’s reinstatement at Nvidia as a triumph of corporate resilience and White House pragmatism. Yet while traders bid up the chipmaker’s stock in New York, the physical and financial architecture of Southeast Asia’s artificial intelligence boom has seized up.
-
-### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
-*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
-
-Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
-
-### [Guterres urges renewed commitment to landmark peace deal](https://news.un.org/feed/view/en/story/2026/11/1168864)
-*UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image560x340cropped.jpg -->
-
-Guterres praised Colombia for progress since the Final Peace Agreement. The accord ended over fifty years of insurgency. He stressed the need for full implementation of its provisions. The UN chief urged renewed commitment to the landmark deal. UN Secretary-General António Guterres has commended Colombia for progress achieved in the decade since a landmark accord known as the Final Peace Agreement ended more than 50 years of insurgency but stressed the need to fully implement its provisions.
+Iraqi forces entered Jurf al-Sakhar on 20 November to displace Kata’ib Hizbollah. Prime Minister Ali al-Zaidi restored state authority in the area. Crisis Group expert Lahib Higel detailed the circumstances enabling this military operation. On 20 November, Iraqi government forces entered Jurf al-Sakhar, a stronghold of the Iran-backed group Kata’ib Hizbollah. In this Q&A, Crisis Group expert Lahib Higel explains the circumstances that allowed Prime Minister Ali al-Zaidi to restore state authority in this area.
 
 ---
 
 ## Asia-Pacific
+
+### [A decade after Duterte's drug war, the Philippines confronts its bloody legacy as ICC trial looms](https://www.channelnewsasia.com/asia/rodrigo-duterte-war-drugs-former-philippine-president-icc-international-criminal-court-crimes-against-humanity-6587006)
+*Channel News Asia* - Nov 27, 14:13 IST (iso: 2026-11-27T08:43:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--loxnl7d4--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/27/reuters_philippines_duterte_war_on_drugs_victims.jpg?itok=TiQvzu-V -->
+
+Rodrigo Duterte faces an International Criminal Court trial a decade after launching his drug war. Thousands of families continue seeking justice for the killings. The campaign left a heavy human cost and deep political divisions in the Philippines. Ten years after Rodrigo Duterte launched his deadly crackdown on drugs, thousands of Filipino families are still seeking justice. As the former president prepares to face trial at the ICC, CNA examines the human cost of his campaign, his enduring political influence and the divisions that continue to shape the Philippines.
 
 ### [Threat from China looms large over Taiwan’s local elections](https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections)
 *The Guardian* - Nov 27, 06:30 IST (iso: 2026-11-27T01:00:49+00:00)
 <!-- image: https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=fe609d22179f2bf0a6ec3accbe60b685 -->
 
 Taiwanese voters elect local officials on Saturday. The results will determine the ruling Democratic Progressive Party's political standing. Chinese authorities warn of potential interference in the process. The vote shapes the party's future global relationships. Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling partyTaiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage. Saturday’s vote will choose mayors, council me.
-
-### [Sibling rivalry and family bonding: How one Singapore family is preparing for Hyrox Youngstars](https://www.channelnewsasia.com/wellness/hyrox-youngstars-singapore-family-kids-training-6583796)
-*Channel News Asia* - Nov 27, 05:07 IST (iso: 2026-11-26T23:37:29+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--liNWeABH--/c_crop,h_1125,w_2000,x_0,y_188/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/26/hyrox_kids_family_2_0.jpg?itok=eNxeD6uC -->
-
-Three siblings from Singapore are training for their first Hyrox Youngstars race. Their father, a veteran competitor, inspired the family's participation. Seven weeks of preparation strengthened their bond. The focus extends beyond athletic performance to family unity. Inspired by their father, who has completed around 30 Hyrox races, three siblings are preparing for their first Hyrox Youngstars race. The Zhao family tells CNA Lifestyle how seven weeks of training have brought the children closer and taught them lessons beyond sport.
 
 ### [Why is India so afraid of Pakistan’s Netflix love story?](https://asiatimes.com/2026/11/why-is-india-so-afraid-of-pakistans-netflix-love-story/)
 *Asia Times* - Nov 26, 17:34 IST (iso: 2026-11-26T12:04:18+00:00)
@@ -146,9 +130,25 @@ Taliban authorities pressure Afghan men to restrict their female family members.
 
 ---
 
+## Americas
+
+### [Southeast Asia’s AI data center bets turning into stranded assets](https://asiatimes.com/2026/11/southeast-asias-ai-data-center-bets-turning-into-stranded-assets/)
+*Asia Times* - Nov 27, 07:24 IST (iso: 2026-11-27T01:54:54+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Day-One-Data-Center-Malaysia.jpg -->
+
+Southeast Asian AI data center projects face becoming stranded assets after Nvidia halted chip shipments. The suspension disrupts the region's physical infrastructure buildout. Financial commitments now risk obsolescence. The boom's underlying architecture has effectively seized up. Wall Street spent this week celebrating Jensen Huang’s reinstatement at Nvidia as a triumph of corporate resilience and White House pragmatism. Yet while traders bid up the chipmaker’s stock in New York, the physical and financial architecture of Southeast Asia’s artificial intelligence boom has seized up.
+
+### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
+*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
+
+Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
+
+---
+
 ## Europe & Russia
 
-### [Trump Urges Putin To ‘Pull Back’ Aggression In Europe As US Delays Troop Posture Review](https://www.rferl.org/a/trump-putin-europe-ukraine-russia-aggression/33906739.html)
+### [Trump Urges Putin To 'Pull Back' Aggression In Europe As US Delays Troop Posture Review](https://www.rferl.org/a/trump-putin-europe-ukraine-russia-aggression/33906739.html)
 *Radio Free Europe / Liberty* - Nov 27, 06:24 IST (iso: 2026-11-27T00:54:58+00:00)
 <!-- image: https://gdb.rferl.org/182797d5-e823-42bc-a2fc-2133b7b5d7b5_cx6_cy15_cw89_w1200_h630.jpg -->
 
