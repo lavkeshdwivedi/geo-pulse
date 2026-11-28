@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 28, 2026 01:13 IST
+**Updated:** November 28, 2026 07:49 IST
 
 ---
 
@@ -34,6 +34,18 @@ The Security Council is weighing how AI and drones reshape warfare. Guterres not
 
 Crisis Group analysts discussed the deployment of Algerian troops in Niger. They examined how this military presence affects regional security balances. The conversation highlighted shifting dynamics in the Sahel. Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Ibrahim Yahaya Ibrahim, Directeur Adjoint du Projet Sahel, Ibrahim Maïga, Conseiller Spécial pour le Sahel et Michaël Ayari, Analyste Senior pour la Tunisie et l’Algérie à Crisis Group, pour parler du déploiement de troupes algériennes au Niger et des répercussions de cette présence militaire sur les équilibres sécuritaires.
 
+### [Hamas says Israel tried to kill chief’s son in Gaza](https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece)
+*The Hindu (International)* - Nov 28, 03:48 IST (iso: 2026-11-27T22:18:41+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/sn00n2/article71752542.ece/alternates/LANDSCAPE_1200/2026-11-27T160816Z_1800381719_RC2DWOAYEM3P_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-HAMAS.JPG -->
+
+Hamas stated Israel attempted to assassinate Izz al-Din al-Hayya, son of political bureau chief Khalil al-Hayya. A Gaza security source told AFP the target and his family survived the strike. ‘Izz al-Din al-Hayya, the youngest surviving son of Hamas political bureau chief Khalil al-Hayya, along with his family and the family of his late brother Azzam, survived an Israeli assassination attempt,’ a security source in Gaza told AFP.
+
+### [Turkey’s African drone boom will reach Taiwan through the repair shop](https://asiatimes.com/2026/11/turkeys-african-drone-boom-will-reach-taiwan-through-the-repair-shop/)
+*Asia Times* - Nov 28, 03:08 IST (iso: 2026-11-27T21:38:18+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/AA-20220709-28379124-28379105-BAYRAKTAR_AKINCI_FLEET_ON_DISPLAY_IN_ISTANBUL-copy.jpg -->
+
+China’s new drone component export controls affect Baykar’s African operations. Taiwanese suppliers now seek stakes in maintaining African fleets. This shift follows Baykar’s recent demonstrations in Bamako. As Beijing tightens component exports, Taiwanese suppliers to Turkey’s Baykar need a stake in how African fleets are kept flying On November 18, China’s revised export controls on drone components took effect, covering 13 categories from propulsion to flight control electronics and communications.
+
 ### [The DIY dance movement helping young Nigerians escape the daily grind](https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind)
 *The Guardian* - Nov 27, 11:30 IST (iso: 2026-11-27T06:00:56+00:00)
 <!-- image: https://i.guim.co.uk/img/media/420a704a7b9337bcc84564de8c0db0836d052aac/433_0_5275_4223/master/5275.jpg?width=140&quality=85&auto=format&fit=max&s=558556ddc90089bd8666c299074f9675 -->
@@ -66,7 +78,7 @@ Widows in Gaza now manage household duties, shelter, and education from temporar
 
 ### [Emergency aid chief calls for access to war-hit communities](https://news.un.org/feed/view/en/story/2026/11/1168872)
 *UN News* - Nov 25, 17:30 IST (iso: 2026-11-25T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image560x340cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image770x420cropped.jpg -->
 
 UN aid chief Tom Fletcher arrived in Yemen to warn that the war blocks access to food and medicine. He highlighted the crisis in Taiz City. Fletcher urged for immediate access to war-hit communities to prevent further suffering. The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.
 
@@ -78,59 +90,31 @@ Amina Mohammed warned another woman would be killed before she finished speaking
 
 ### [High Stakes in Iraq’s Push to Reclaim Jurf al-Sakhar](https://www.crisisgroup.org/qna/middle-east-north-africa/iraq/high-stakes-iraqs-push-reclaim-jurf-al-sakhar)
 *International Crisis Group* - Nov 21, 02:10 IST (iso: 2026-11-20T20:40:00+00:00)
-<!-- image: https://images.pexels.com/photos/38982182/pexels-photo-38982182.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+<!-- image: https://images.pexels.com/photos/6664196/pexels-photo-6664196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Iraqi forces entered Jurf al-Sakhar on 20 November to displace Kata’ib Hizbollah. Prime Minister Ali al-Zaidi restored state authority in the area. Crisis Group expert Lahib Higel detailed the circumstances enabling this military operation. On 20 November, Iraqi government forces entered Jurf al-Sakhar, a stronghold of the Iran-backed group Kata’ib Hizbollah. In this Q&A, Crisis Group expert Lahib Higel explains the circumstances that allowed Prime Minister Ali al-Zaidi to restore state authority in this area.
-
-### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
-*International Crisis Group* - Nov 20, 05:30 IST (iso: 2026-11-20T00:00:00+00:00)
-<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
-
-Crisis Group published its weekly On Our Radar briefing. The report tracks active conflicts and crises worldwide. Field analysts explain why specific hotspots matter. They also outline recommended actions for policymakers. The publication serves as a regular update on global instability. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching.
-
----
-
-## Americas
-
-### [Southeast Asia’s AI data center bets turning into stranded assets](https://asiatimes.com/2026/11/southeast-asias-ai-data-center-bets-turning-into-stranded-assets/)
-*Asia Times* - Nov 27, 07:24 IST (iso: 2026-11-27T01:54:54+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Day-One-Data-Center-Malaysia.jpg -->
-
-Southeast Asian AI data center projects face becoming stranded assets after Nvidia halted chip shipments. The suspension disrupts the region's physical infrastructure buildout. Financial commitments now risk obsolescence. The boom's underlying architecture has effectively seized up. Wall Street spent this week celebrating Jensen Huang’s reinstatement at Nvidia as a triumph of corporate resilience and White House pragmatism. Yet while traders bid up the chipmaker’s stock in New York, the physical and financial architecture of Southeast Asia’s artificial intelligence boom has seized up.
-
-### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
-*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
-
-Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
 
 ---
 
 ## Asia-Pacific
+
+### [Bangladesh garment workers protest wages despite police crackdown](https://asiatimes.com/2026/11/bangladesh-garment-workers-protest-wages-despite-police-crackdown/)
+*Asia Times* - Nov 28, 04:36 IST (iso: 2026-11-27T23:06:38+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/202611asia_bangladesh_garment-protest-copy.jpg -->
+
+Garment workers in Gazipur, Bangladesh, rejected a government-approved minimum wage increase as insufficient for rising living costs. Police used less-lethal weapons to disperse the protests. The demonstrations continued this week despite the crackdown. Bangladeshi garment workers continued protesting this week after rejecting a government-approved minimum-wage increase they contend is inadequate to meet the soaring cost of living, with police attacking demonstrators with “less lethal” weapons to disperse them.
+
+### [Malaysia is ageing almost as quickly as Japan. Is it ready for the challenge?](https://www.channelnewsasia.com/cna-insider/insider/malaysia-ageing-quickly-japan-elderly-care-retirement-geriatric-challenge-6588036)
+*Channel News Asia* - Nov 28, 03:30 IST (iso: 2026-11-27T22:00:00+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--ZE57Vg20--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/28/picture0.jpg?itok=rdHrK9QQ -->
+
+Malaysia faces rapid demographic aging similar to Japan. Many citizens struggle with retirement affordability and elderly care gaps. The country is racing to strengthen support systems for its growing senior population. From parents abandoned by their children to workers who cannot afford to retire, some Malaysians face an uncertain future. CNA’s Insight meets them as the country races to strengthen elderly care and grapples with retirement.
 
 ### [Threat from China looms large over Taiwan’s local elections](https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections)
 *The Guardian* - Nov 27, 06:30 IST (iso: 2026-11-27T01:00:49+00:00)
 <!-- image: https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=fe609d22179f2bf0a6ec3accbe60b685 -->
 
 Taiwanese voters elect local officials on Saturday. The results will determine the ruling Democratic Progressive Party's political standing. Chinese authorities warn of potential interference in the process. The vote shapes the party's future global relationships. Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling partyTaiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage. Saturday’s vote will choose mayors, council me.
-
-### [Why is India so afraid of Pakistan’s Netflix love story?](https://asiatimes.com/2026/11/why-is-india-so-afraid-of-pakistans-netflix-love-story/)
-*Asia Times* - Nov 26, 17:34 IST (iso: 2026-11-26T12:04:18+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Jo-Bachay-Hain-Sang-Samait-Lo-Pakistan-Netflix.png -->
-
-India is restricting access to a popular Pakistani romantic drama on streaming platforms. The government views the show as a cultural threat that could shift public sentiment. This move reflects a broader strategy to control information and limit cross-border media influence. In George Orwell’s “1984”, the greatest threat to an authoritarian system is not an army approaching its borders or an enemy preparing an attack.
-
-### [China-Indonesia coal-to-ethanol deal is neither green nor clean](https://asiatimes.com/2026/11/china-indonesia-coal-to-ethanol-deal-is-neither-green-nor-clean/)
-*Asia Times* - Nov 26, 11:34 IST (iso: 2026-11-26T06:04:01+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Indonesia-Energy-Minister-Bahlil-Lahadalia.jpg -->
-
-Indonesia and China signed a $1.8 billion deal in Shenzhen to convert coal into ethanol. President Prabowo Subianto oversaw the agreement. Partners include Pertamina and Beijing Petrochemical Engineering. The project aims to produce a liquid fuel additive for petrol. Last week in Shenzhen, Indonesia and China signed a US$1.8 billion agreement to turn Indonesian coal into ethanol, a liquid that can be mixed into petrol.
-
-### [Kim’s advanced missiles could cripple South’s economy](https://asiatimes.com/2026/11/kims-advanced-missiles-could-cripple-souths-economy/)
-*Asia Times* - Nov 26, 05:39 IST (iso: 2026-11-26T00:09:24+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/20260820.134506794.2_1787192776_6a8665c888caf.jpg -->
-
-South Korea exports over 300 billion dollars from just four sectors. Semiconductors, autos, shipbuilding, and steel dominate the 700 billion dollar total. This concentration creates a structural imbalance. It also exposes the economy to significant national security vulnerabilities. South Korea’s economy is heavily concentrated in a handful of strategic industries. Of approximately US$700 billion in total exports in 2025, more than US$300 billion originated from just four sectors: semiconductors, automobiles, shipbuilding and steel.
 
 ### [Lululemon founder stuns Canadian women’s leadership conference with sexist comments](https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference)
 *The Guardian* - Nov 26, 01:27 IST (iso: 2026-11-25T19:57:49+00:00)
@@ -147,6 +131,12 @@ Taliban authorities pressure Afghan men to restrict their female family members.
 ---
 
 ## Europe & Russia
+
+### [Ukraine Offers Black Sea Cease-Fire, Awaits Kremlin Response](https://www.rferl.org/a/ukraine-black-sea-ceasefire-russia-shipping-exports/33907217.html)
+*Radio Free Europe / Liberty* - Nov 28, 04:35 IST (iso: 2026-11-27T23:05:03+00:00)
+<!-- image: https://gdb.rferl.org/4bc4f8ca-794c-4e84-9958-d3c1f5ebdd27_cx0_cy8_cw0_w1200_h630.jpg -->
+
+Ukraine’s foreign minister announced Kyiv proposed a Black Sea cease-fire to enable food exports. The plan awaits Moscow’s response. It would revive a deal Russia abandoned in July 2023. Ukraine’s foreign minister said Kyiv has proposed a cease-fire in the Black Sea to allow food exports to reach world markets and that it is waiting for Moscow's response -- a deal that would effectively revive one that Russia pulled out of in July 2023.
 
 ### [Trump Urges Putin To 'Pull Back' Aggression In Europe As US Delays Troop Posture Review](https://www.rferl.org/a/trump-putin-europe-ukraine-russia-aggression/33906739.html)
 *Radio Free Europe / Liberty* - Nov 27, 06:24 IST (iso: 2026-11-27T00:54:58+00:00)
@@ -166,11 +156,21 @@ A notorious prison in central St. Petersburg is being converted into a five-star
 
 RFE/RL correspondent Maryan Kushnir detailed how Russian drone strikes have reshaped Ukraine's front line and increased threats to Kyiv. He described surviving a direct attack and the ongoing struggle of families searching for missing relatives. The reporting highlights the persistent danger facing civilians and journalists in the conflict zone. RFE/RL war correspondent Maryan Kushnir describes how drone warfare has transformed Ukraine’s front line, the growing danger of Russian attacks on Kyiv, his own experience of surviving an attack, and the families searching for missing loved ones.
 
-### [Kilmar Ábrego García, man at center of Trump deportation battle, leaves US](https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us)
-*The Guardian* - Nov 25, 05:20 IST (iso: 2026-11-24T23:50:31+00:00)
-<!-- image: https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=cc50a0643f2aa3990ed51abd6f550f8d -->
+---
 
-Kilmar Ábrego García left the United States voluntarily for Spain. His lawyers confirmed the departure on Tuesday. Homeland Security verified the travel. A source said Madrid was his first stop, not his final destination. Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for SpainKilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security confirming that he was travelling to Spain. A source close to Ábrego said Madrid was his first stop but that it would not be his.
+## Americas
+
+### [Southeast Asia’s AI data center bets turning into stranded assets](https://asiatimes.com/2026/11/southeast-asias-ai-data-center-bets-turning-into-stranded-assets/)
+*Asia Times* - Nov 27, 07:24 IST (iso: 2026-11-27T01:54:54+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Day-One-Data-Center-Malaysia.jpg -->
+
+Southeast Asian AI data center projects face becoming stranded assets after Nvidia halted chip shipments. The suspension disrupts the region's physical infrastructure buildout. Financial commitments now risk obsolescence. The boom's underlying architecture has effectively seized up. Wall Street spent this week celebrating Jensen Huang’s reinstatement at Nvidia as a triumph of corporate resilience and White House pragmatism. Yet while traders bid up the chipmaker’s stock in New York, the physical and financial architecture of Southeast Asia’s artificial intelligence boom has seized up.
+
+### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
+*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
+
+Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
 
 ---
 

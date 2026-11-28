@@ -1,68 +1,6 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 28, 2026 01:13 IST
-
----
-
-## वैश्विक / बहुपक्षीय
-
-### [एफएसएसएआई ने दी मुकदमा चलाने की मंजूरी, बंगाल में भी पानी का नमूना निकला असुरक्षित](https://www.amarujala.com/india-news/fssai-sanctions-prosecution-against-bisleri-bacteria-found-west-bengal-water-sample-2026-11-28)
-*Amar Ujala National* - Nov 28, 12:59 IST (iso: 2026-11-28T07:29:10+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/bisleri_04ddfdbecd59a2a1956fc034ccd19334.jpeg?w=1200&dpr=1.0 -->
-
-फूड सेफ्टी और स्टैंडर्ड्स अथॉरिटी ऑफ इंडिया ने बिसलेरी के खिलाफ मुकदमा चलाने की मंजूरी दी है। पश्चिम बंगाल में भी पानी के नमूने में बैक्टीरिया मिलने की रिपोर्ट आई है। कंपनी की कानूनी मुश्किलें बढ़ गई हैं। एफएसएसएआई ने दी मुकदमा चलाने की मंजूरी, बंगाल में भी पानी का नमूना निकला असुरक्षित।
-
----
-
-## दुनिया
-
-### [रत्न भंडार की सूची बनाने में 100+ घंटे पूरे, तीन संदूकों का खुलना बाकी; कब पूरा होगा काम?](https://www.amarujala.com/india-news/puri-jagannath-temple-completes-100-hrs-of-ratna-bhandar-inventory-process-underway-2026-11-28)
-*Amar Ujala National* - Nov 28, 12:30 IST (iso: 2026-11-28T07:00:18+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/bhagavana-jagananatha-mathara-para_f598044fcfd7febd8fea1237c24ec118.jpeg?w=1200&dpr=1.0 -->
-
-पुरी जगन्नाथ मंदिर में रत्न भंडार की गिनती के लिए 100 घंटे से अधिक का समय लग चुका है। अभी तीन संदूकों का खुलना बाकी है। प्रशासन ने पूरा काम कब खत्म होगा, इसकी तारीख तय नहीं की है। पुरी जगन्नाथ मंदिर: रत्न भंडार की सूची बनाने में 100+ घंटे पूरे, तीन संदूकों का खुलना बाकी; कब पूरा होगा काम?
-
-### [14 साल की गुड़िया का जबरदस्ती निकाह, चोटिल हालत में मां बनी मुश्तरकी, 10 दिन बाद पति ने की हैवानियत](https://hindi.news18.com/world/middle-east-14-year-old-iranian-child-bride-sogand-moshtareki-beaten-to-death-by-husband-10-days-after-giving-birth-11017370.html)
-*News18 Hindi (World)* - Nov 27, 21:36 IST (iso: 2026-11-27T16:06:45+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Iran-Woman-Killings-2026-11-668f162506c9c6763f07053a06f187a2-1200x800.jpg -->
-
-सोलह साल की मुश्तरकी को उसके बीस साल के पति ने मार डाला। वह दस दिन पहले मां बनी थी। उसने मायके जाने की बात कही थी, जिस पर पति ने उसे पीट-पीटकर हत्या कर दी। 14 साल की सोगंद मुश्तरकी की उसके पति ने पीट-पीटकर जान ले ली. सोगंद ने महज दस दिन पहले ही एक बच्चे को जन्म दिया था.
-
-### [हाईवे के नीचे दबा था खजाना, एक दिन JCB ड्राइवर को आई ठक्क की आवाज, खोदकर देखा तो हो गया मालामाल](https://hindi.news18.com/news/ajab-gajab/viral-1600-year-old-roman-silver-coins-found-under-highway-ancient-roman-coins-treasure-discovered-11017113.html)
-*News18 Hindi (World)* - Nov 27, 19:18 IST (iso: 2026-11-27T13:48:14+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Khazana-Under-Highway-2026-11-eda36a29e321d18cb5622da2bb90e431-1200x800.jpg -->
-
-हाईवे चौड़ाई के काम में 388 ईस्वी के 1,600 साल पुराने चांदी के सिक्के मिले। इसे स्प्रिंगहेड होर्ड कहा जाता है। नीलामी में 114 सिक्के भारी कीमत पर बिके। बाकी सिक्कों की बिक्री जारी है। उसी दौरान खुदाई में चांदी के सिक्कों का एक खजाना मिल गया. इसे 'स्प्रिंगहेड होर्ड' कहा जाता है. ये सिक्के करीब 1,600 साल पुराने यानी 388 ईस्वी के दौर के हैं.
-
-### [सभी राज्यों में 50% सीटें बढ़ाने की तैयारी, सदन में दो-तिहाई बहुमत का सरकार को भरोसा](https://www.abplive.com/news/india/nda-government-plans-to-increase-50-percent-seats-on-all-states-confident-two-third-majority-3220261)
-*ABP Live (India)* - Nov 27, 18:38 IST (iso: 2026-11-27T13:08:30+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/5c04dfff648d2236748641196896b0961795784818963120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-केंद्र सरकार सभी राज्यों में लोकसभा सीटें 50 प्रतिशत बढ़ाने की तैयारी कर रही है। सत्ता पक्ष का भरोसा है कि बिल दो-तिहाई बहुमत से पास होगा। विपक्ष इसे रोकने के लिए रणनीति बना रहा है। परिसीमन बिल को लेकर सत्ता पक्ष और विपक्ष में आर-पार की स्थिति बनी हुई है. विपक्ष जहां इसे रोकने के लिए हरसंभव रणनीति बनाने पर लगा है तो वहीं सूत्रों के मुताबि संसद सत्र दोबारा शुरू करने के ऐलान के बाद केन्द्र सरकार को भरोसा है वे इस बिल को दो तिहाई बहुमत से सदन में पास करा लेगी.
-
-### [राहुल गांधी बोले- 'परिसीमन बिल का करेंगे विरोध', डीएमके के साथ आने पर बड़ा बयान](https://www.abplive.com/news/india/rahul-gandhi-says-dmk-should-join-us-to-oppose-oppose-delimitation-bill-3220259)
-*ABP Live (India)* - Nov 27, 18:28 IST (iso: 2026-11-27T12:58:26+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/6bfe1ffab771f6f670d8ead3480a1b8a1795784294813708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-राहुल गांधी ने कहा कि विपक्ष परिसीमन बिल का कड़ा विरोध करेगा। उन्होंने बीजेपी के राजनीतिक फायदे की बात की। डीएमके के साथ मिलकर विरोध करने का संकेत दिया। 30 नवंबर से विशेष सत्र शुरू होगा। सूत्रों के मुताबिक, उन्होंने कहा कि सभी सांसदों को यह बात जनता और संसद के सामने रखनी होगी कि बीजेपी अपने राजनीतिक फायदे के लिए परिसीमन करना चाहती है.
-
-### [‘कैश तैयार रखें’, 2027 में आ रही कोरोना से भी बड़ी आफत, 2030 तक पैसा-पावर सब बेकार, ‘AI पुलिस’ ने](https://hindi.news18.com/world/america-ai-safety-researcher-warns-of-2027-crisis-worse-than-covid-urges-keeping-cash-and-food-ready-2030-ai-risks-alert-11017028.html)
-*News18 Hindi (World)* - Nov 27, 17:43 IST (iso: 2026-11-27T12:13:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/2027-AI-Risk-Prediction-2026-11-2a89a0c23ce4de7cc5768835562bb97f-1200x800.jpg -->
-
-AI रिसर्चर निकोला जुरकोविक ने 2027 में बड़ी उथल-पुथल की चेतावनी दी है। उनका कहना है कि 2030 तक अर्थव्यवस्था और नौकरियों पर गहरा असर पड़ेगा। सख्त वैश्विक नियमों की कमी इस खतरे का कारण है। AI वॉचडॉग के रिसर्चर निकोला जुरकोविक ने सोशल मीडिया पर खुला खत लिखा है. वो एडवांस AI सिस्टम की सुरक्षा पर काम करते हैं.
-
-### [5 दिन का राशन-पानी जमा कर लो, 24 घंटों में आ रही सर्दियों की पहली आफत, हड्डियों में इंजेक्शन जैसी](https://hindi.news18.com/world/america-mausam-news-today-winter-storm-warning-16-inches-heavy-snowfall-60-mph-winds-alert-travel-advisory-issued-montana-and-wyoming-11016707.html)
-*News18 Hindi (World)* - Nov 27, 16:54 IST (iso: 2026-11-27T11:24:26+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Mausam-News-2026-11-de4ae78afc54c1bad128204f0b02f162-1200x800.jpg -->
-
-मौसम विभाग ने विंटर स्टॉर्म वॉर्निंग जारी की। अगले 24 घंटों में 8 से 16 इंच बर्फबारी और 60 मील प्रति घंटे की हवाओं की संभावना है। कई इलाकों में मौसम बिगड़ने वाला है. अगले कुछ घंटों में इस सीजन की पहली बड़ी बर्फीली आफत आने वाली है. मौसम विभाग ने विंटर स्टॉर्म वॉर्निंग जारी कर दी है. चेतावनी के मुताबिक, यहां 8 से 16 इंच तक भारी बर्फबारी हो सकती है.
-
-### [ममता की बड़ी जीत, ऋतब्रत बनर्जी के विधानसभा नेता प्रतिपक्ष पद की नियुक्ति HC ने किया खारिज](https://www.abplive.com/news/india/tmc-rebel-ritabrata-banerjee-loses-leader-of-opposition-post-in-west-bengal-assembly-big-news-3220173)
-*ABP Live (India)* - Nov 27, 15:47 IST (iso: 2026-11-27T10:17:57+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/eab0d5369b877deba2f8e2a98bb57d171795774987281120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-कलकत्ता हाईकोर्ट ने रितब्रत बनर्जी की विधानसभा नेता प्रतिपक्ष नियुक्ति रद्द कर दी। अख्रुज्जमान की चीफ व्हिप नियुक्ति भी खारिज हुई। कलकत्ता हाईकोर्ट ने शुक्रवार को पश्चिम बंगाल विधानसभा में नेता प्रतिपक्ष (LoP) के पद पर रितब्रत बनर्जी की नियुक्ति को रद्द कर दिया. इसके साथ ही कोर्ट ने विधायक अख्रुज्जमान की चीफ व्हिप के तौर पर की गई नियुक्ति को भी खारिज कर दिया.
+**अपडेट:** November 28, 2026 07:49 IST
 
 ---
 
@@ -74,107 +12,165 @@ AI रिसर्चर निकोला जुरकोविक ने 2027
 
 भारतीय नौसेना को आईएनएस विंध्यगिरि युद्धपोत मिला है। यह प्रोजेक्ट 17A स्टील्थ फ्रिगेट का अंतिम पोत है। इसमें ब्रह्मोस और बराक-8 मिसाइलें लगी हैं। इससे समुद्री सुरक्षा क्षमता बढ़ी है। समुद्र में बढ़ी भारत की ताकत: नौसेना को मिला आईएनएस विंध्यगिरि, ब्रह्मोस और बराक-8 मिसाइलों से लैस।
 
-### [रूस से टकराव की यूरोप कर रहा तैयारी, यूक्रेन में मांग रहा युद्धविराम, सर्गेई लावरोव का बड़ा आरोप](https://www.patrika.com/world-news/lavrov-europe-preparing-war-russia-ceasefire-ukraine-us-political-maturity-21096252)
-*Patrika (World)* - Nov 27, 20:48 IST (iso: 2026-11-27T15:18:58+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Sergei-Lavrov.webp -->
+### [कभी स्‍टील बिजनेस के थे बादशाह, बेटियों की शादी पर बेह‍िसाब बहाया पैसा, कर्ज न चुकाने पर अब घर की](https://hindi.news18.com/news/nation/pramod-mittal-bankrupt-indian-steel-businessman-family-struggle-to-save-london-home-lakshmi-mittal-brother-story-11017736.html)
+*News18 Hindi (World)* - Nov 28, 07:41 IST (iso: 2026-11-28T02:11:50+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pramod-mittal-2026-11-7cb4c3bdf9b7087d188ed90bc730778d-1200x800.jpg -->
 
-रूस के विदेश मंत्री सर्गेई लावरोव ने यूरोप पर मिलिट्री टकराव की तैयारी का आरोप लगाया। उन्होंने कहा कि यूरोप यूक्रेन में सीजफायर की मांग कर रहा है। लावरोव ने अमेरिका के डिप्लोमैटिक दृष्टिकोण से यूरोप के रुख को अलग बताया। Russia Europe Tensions: रूस के विदेश मंत्री सर्गेई लावरोव ने यूरोपियन देशों पर आरोप लगाया है कि वे रूस के साथ मिलिट्री टकराव की तैयारी कर रहे हैं, जबकि साथ ही यूक्रेन में तुरंत सीजफायर की मांग कर रहे हैं।
+प्रमोद मित्ता का लंदन में स्थित मेफेयर इलाके का बंगला लोन न चुकाने पर नीलामी की प्रक्रिया में है। उनके परिवार ने पहले इस्तांबुल और बार्सिलोना में बेटियों की शादियों पर भारी खर्च किया था। अब वे घर बचाने की कोशिश में हैं। प्रमोद मित्‍तल का लंदन में काफी नाम हुआ करता था. उन्‍होंने अपनी एक बेटी की शादी इस्‍तांबुल तो दूसरी की बार्सिलोना में की थी.
+
+### [सेकेंड हैंड लैपटॉप खरीदने की कर रहे हैं प्लानिंग? डील फाइनल करने से पहले ऐसे चेक करें बैटरी हेल्थ](https://www.amarujala.com/technology/tip-of-the-day/how-to-check-battery-health-before-buying-a-second-hand-windows-laptop-or-macbook-easy-buying-guide-2026-11-27)
+*Amar Ujala National* - Nov 28, 07:01 IST (iso: 2026-11-28T01:31:02+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/laptop-battery-health_07686a6b832dcc240d2ed52351433418.jpeg -->
+
+सेकंड हैंड लैपटॉप खरीदने से पहले बैटरी हेल्थ की जांच जरूरी है। खराब बैटरी के कारण खरीदार को बाद में भारी नुकसान उठाना पड़ सकता है। बजट कम होने पर यह सावधानी लेनी चाहिए। Laptop Ki Battery Health Kaise Check Karein बजट कम होने पर अक्सर लोग नया लेने के बजाय सेकंड हैंड लैपटॉप खरीदना पसंद करते हैं, लेकिन कई बार खराब बैटरी की वजह से उन्हें बाद में भारी नुकसान उठाना पड़ता है।
+
+### ['बुर्का-नकाब पहनना है, तो स्कूल मत आओ', सरकार का बड़ा एक्शन, मेलोनी के नए शिक्षा कानून ने मचाया](https://hindi.news18.com/world/europe-new-education-law-in-italy-bans-burqas-niqabs-face-cover-in-schools-30-percent-cap-on-foreign-students-11017696.html)
+*News18 Hindi (World)* - Nov 28, 06:52 IST (iso: 2026-11-28T01:22:52+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Hijab-Burqa-2026-09-4ce1aa2eb685054f567932793b1c1126-1200x800.jpg -->
+
+इटली की सरकार ने नए शिक्षा कानून में स्कूलों में बुर्का और नकाब पहनने पर रोक लगा दी है। कानून के तहत छात्रों को अपनी पहचान छिपाने की अनुमति नहीं होगी। इस कदम से सार्वजनिक स्थानों पर पहचान के नियम बदल गए हैं। New Education Law Bans Burqas-Niqabs in School: सार्वजनिक जगहों पर मुंह ढकने को लेकर पहले से विवाद होता रहा है लेकिन इस बार इटली की सरकार ने जो नया कानून पास किया है, उसने हड़कंप मचा दिया है.
+
+### [पुतिन से मुलाकात के बाद हुए वायरल, 17 साल की उम्र में खड़ी की अपनी कंपनी](https://www.amarujala.com/india-news/17-year-old-indian-ai-entrepreneur-raul-john-aju-meets-vladimir-putin-in-ai-journey-2026-moscow-2026-11-28)
+*Amar Ujala National* - Nov 28, 06:43 IST (iso: 2026-11-28T01:13:17+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/valthamara-patana-sa-raul-ka-malkata_fc53d3c5a188715bd15a92db3ae56471.jpeg?w=1200&dpr=1.0 -->
+
+सत्रह वर्षीय भारतीय उद्यमी राउल जॉन अजू ने मॉस्को में व्लादिमीर पुतिन से मुलाकात की। इस घटना ने सोशल मीडिया पर वायरल होने का कारण बना। उन्होंने इस उम्र में ही अपनी एआई कंपनी शुरू की थी। पुतिन से मुलाकात के बाद हुए वायरल, 17 साल की उम्र में खड़ी की अपनी कंपनी।
+
+### [आज शनिवार के दिन किस शहर में बंद हैं बैंक और कहां खुले? यहां जानें](https://www.amarujala.com/photo-gallery/utility/today-bank-holiday-are-the-banks-open-or-closed-today-saturday-bank-aaj-khula-hai-ya-band-hai-2026-11-28)
+*Amar Ujala Breaking* - Nov 28, 06:15 IST (iso: 2026-11-28T00:45:39+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/aaja-kaha-kaha-btha-ha-bka_063941a122427a1c5fb629d1310c2d49.jpeg?w=1200&dpr=1.0 -->
+
+शनिवार को भारत में अधिकांश बैंक शाखाएं बंद रहेंगी। ऑनलाइन सेवाएं उपलब्ध हैं, परंतु भौतिक कार्यों के लिए ग्राहकों को अगले कार्यदिवस का इंतजार करना होगा। ऑनलाइन बैंकिंग के बावजूद कई कामों के लिए आज भी बैंक जाना पड़ता है आज शनिवार के दिन बैंक बंद हैं या नहीं? ये ब्रांच जाने से पहले जरूर चेक कर लें। आज शनिवार के दिन किस शहर में बंद हैं बैंक और कहां खुले?
+
+### [कला के कद्रदान हैं तो बहाइए पसीना: जर्मनी में लगी अनोखी प्रदर्शनी, कसरत करते हुए कलाकृतियां देख रहे](https://www.amarujala.com/world/a-unique-exhibition-in-germany-where-visitors-view-artworks-while-exercising-2026-11-28)
+*Amar Ujala World* - Nov 28, 05:37 IST (iso: 2026-11-28T00:07:20+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/jaramana-ma-anakha-paratharashana_e91fb743d50d9afebc85687d877e9527.jpeg?w=1200&dpr=1.0 -->
+
+जर्मनी में एक अनोखी कला प्रदर्शनी शुरू हुई है। यहाँ दर्शक कसरत करते हुए कलाकृतियों को देखते हैं, जिससे शारीरिक गतिविधि और कला का अनुभव एक साथ होता है। कला के कद्रदान हैं तो बहाइए पसीना: जर्मनी में लगी अनोखी प्रदर्शनी, कसरत करते हुए कलाकृतियां देख रहे।
+
+---
+
+## दुनिया
+
+### [NCP शरद गुट से कांग्रेस का सवाल, बोली- राज्यसभा में साथ दिया, अब भाजपा के विधेयक का समर्थन क्यों?](https://www.amarujala.com/india-news/maharashtra-congress-slams-ncp-sp-over-delimitation-bill-support-recalls-backing-sharad-pawar-2026-11-28)
+*Amar Ujala National* - Nov 28, 07:32 IST (iso: 2026-11-28T02:02:00+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/sharatha-pavara-ka-ncp-ka-kagarasa-na-ghara_34f47f391a95de11ae0b4c4ddd2dc2f3.jpeg?w=1200&dpr=1.0 -->
+
+महाराष्ट्र कांग्रेस ने NCP शरद गुट पर परिसीमन विधेयक का समर्थन करने का सवाल उठाया है। पार्टी ने पूछा कि राज्यसभा में साथ देने के बाद अब भाजपा के विधेयक का समर्थन क्यों किया जा रहा है। NCP शरद गुट से कांग्रेस का सवाल, बोली- राज्यसभा में साथ दिया, अब भाजपा के विधेयक का समर्थन क्यों?
+
+### [बबलू-डबलू के फैन हैं प्रह्लाद चा, अलग फिल्म की कर डाली डिमांड, इस बार सीरीज में क्या होगा खास?](https://www.amarujala.com/entertainment/panchayat-season-5-exclusive-prahlad-aka-faisal-malik-talks-about-upcoming-series-2026-11-27)
+*Amar Ujala National* - Nov 28, 07:26 IST (iso: 2026-11-28T01:56:06+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/fasal-malka_af700c8d91be1e4e7e47fc939088844e.jpeg?w=1200&dpr=1.0 -->
+
+फैसल मलिक ने पंचायत सीजन 5 के विशेष पहलुओं पर बात की है। दर्शक इस वेब सीरीज का बेसब्री से इंतजार कर रहे हैं। इसी चर्चित सीरीज पर आधारित फिल्म का एलान भी हो चुका है। Faisal Malik: 'पंचायत सीजन 5' का दर्शक बेसब्री से इंतजार कर रहे हैं। इस चर्चित वेब सीरीज पर फिल्म का एलान भी हो ही चुका है।
+
+### [जाम में बार-बार ब्रेक लगाने का झंझट खत्म: 15 लाख से कम में मिल रही हैं ये ऑटो-होल्ड वाली कारें](https://www.amarujala.com/automobiles/no-more-handbrake-hassles-5-cars-under-rs-15-lakh-with-electronic-parking-brake-auto-hold-2026-11-26)
+*Amar Ujala National* - Nov 28, 07:07 IST (iso: 2026-11-28T01:37:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/26/paratakatamaka-tasavara_ee01e9c2166ca45ba60bfb005afef1dd.jpeg?w=1200&dpr=1.0 -->
+
+पंच ईवी की कीमत 11.19 लाख रुपये से शुरू होती है। इसमें ईपीबी और ऑटो-होल्ड जैसे फीचर्स शामिल हैं। वेन्यू HX8 DCT और 3XO EV भी इस दाम में उपलब्ध हैं। 15 लाख से कम में ईपीबी और ऑटो-होल्ड। ट्रैफिक और ढलान पर ड्राइविंग हो सकती है आसान। पंच ईवी की कीमत करीब11.19 लाख से शुरू हो सकती है। वेन्यू HX8 DCT और 3XO EV भी लिस्ट में है।
+
+### [इलेक्ट्रिकल इंजीनियर्स के लिए सरकारी नौकरी, वेतन 1.40 लाख तक; इस तारीख तक भरें फॉर्म](https://www.amarujala.com/jobs/government-jobs/rites-recruitment-2026-20-assistant-manager-electrical-vacancies-eligibility-salary-and-last-date-2026-11-27)
+*Amar Ujala National* - Nov 28, 07:00 IST (iso: 2026-11-28T01:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/rites-recruitment-2026_e3fd1151e945ee0cedc536540f60fb94.jpeg?w=1200&dpr=1.0 -->
+
+रेलवे के अधीन राइट्स लिमिटेड में इलेक्ट्रिकल इंजीनियर्स के लिए 20 पदों पर भर्ती शुरू हुई है। शुरुआती वेतन 40 हजार रुपये प्रति माह निर्धारित है। आवेदन प्रक्रिया ऑनलाइन माध्यम से चल रही है। रेल मंत्रालय के अधीन राइट्स लिमिटेड में इलेक्ट्रिकल इंजीनियर्स के लिए नियमित नौकरी का अवसर है। कुल 20 पदों पर भर्ती के लिए आवेदन शुरू हो चुके हैं।
+
+### [फ्री में जेईई-नीट की कोचिंग का मौका: आज फॉर्म भरने का आखिरी दिन, जल्द करें आवेदन, जानें पात्रता और](https://www.amarujala.com/education/bihar-board-free-jee-neet-coaching-2027-apply-by-november-28-check-eligibility-and-application-fees-2026-11-27)
+*Amar Ujala National* - Nov 28, 07:00 IST (iso: 2026-11-28T01:30:03+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/bihar-board-free-jee-neet-coaching-2027_77bab2db549c6208c356e00d791fdea0.jpeg?w=1200&dpr=1.0 -->
+
+बिहार बोर्ड की जेईई और नीट 2027 मुफ्त कोचिंग के लिए आज आवेदन की अंतिम तिथि है। विद्यार्थी आधिकारिक पोर्टल पर ऑनलाइन फॉर्म भर सकते हैं। आवासीय कोचिंग के लिए 100 रुपये का शुल्क लगेगा। बिहार बोर्ड की जेईई, नीट 2027 मुफ्त कोचिंग के लिए आवेदन की आज आखिरी तारीख है। इच्छुक विद्यार्थी आधिकारिक पोर्टल पर ऑनलाइन आवेदन कर सकते हैं।
+
+### [अब एआई एजेंट संभालेंगे रोजमर्रा के काम: जिम से नौकरी की तलाश तक, बदलने वाली है हमारी जिंदगी](https://www.amarujala.com/columns/blog/ai-agents-muse-dots-daily-tasks-bookings-jobs-shopping-2026-11-28)
+*Amar Ujala National* - Nov 28, 06:52 IST (iso: 2026-11-28T01:22:51+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/ai-agents_dcc3e04254690b7a78dc739200dca086.jpeg?w=1200&dpr=1.0 -->
+
+एआई एजेंट अब जिम बुकिंग से लेकर नौकरी की तलाश तक के रोजमर्रा के कार्यों को संभालेंगे। ये तकनीक उपयोगकर्ताओं के दैनिक कार्यों को स्वचालित रूप से प्रबंधित करेगी। इससे व्यक्तिगत उत्पादकता और समय प्रबंधन में बदलाव आएगा। अब एआई एजेंट संभालेंगे रोजमर्रा के काम: जिम से नौकरी की तलाश तक, बदलने वाली है हमारी जिंदगी।
+
+### [मशीनें साधन ही हो सकती हैं: सुविधाओं के बीच कहीं खो न जाए इंसान की आजादी, तकनीक के बढ़ते दखल पर](https://www.amarujala.com/columns/blog/technology-human-freedom-tools-dependence-creativity-and-autonomy-2026-11-28)
+*Amar Ujala National* - Nov 28, 06:43 IST (iso: 2026-11-28T01:13:57+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/ai_f4753203f35bedb9ed31144f11c87b22.jpeg?w=1200&dpr=1.0 -->
+
+लेखक तकनीकी निर्भरता पर चिंता जताते हैं। वे मानते हैं कि मशीनें केवल साधन बनी रहनी चाहिए। इंसान की आजादी और रचनात्मकता को बनाए रखने के लिए आत्ममंथन जरूरी है। मशीनें साधन ही हो सकती हैं: सुविधाओं के बीच कहीं खो न जाए इंसान की आजादी, तकनीक के बढ़ते दखल पर।
+
+### [साढ़े सात दशक लंबी यात्रा है देश में महिला आरक्षण: 1996 से 2023 तक कई बार अटका विधेयक, जानिए पूरा](https://www.amarujala.com/india-news/journey-toward-women-reservation-spanned-seven-and-a-half-decades-bill-stalled-multiple-times-full-history-2026-11-28)
+*Amar Ujala Breaking* - Nov 28, 06:09 IST (iso: 2026-11-28T00:39:26+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/mahal-aarakashhanae_f0b7cf325824052375ab2750e5489ea3.jpeg?w=1200&dpr=1.0 -->
+
+भारत में महिला आरक्षण विधेयक की यात्रा साढ़े सात दशक पुरानी है। 1996 से 2023 तक यह विधेयक कई बार संसद में अटका रहा और अंतिम स्वीकृति लंबे समय बाद मिली। साढ़े सात दशक लंबी यात्रा है देश में महिला आरक्षण: 1996 से 2023 तक कई बार अटका विधेयक, जानिए पूरा।
+
+### [काशी तमिल संगमम का आगाज, भाजपा की बैठक का समापन; नौसेना अकादमी पहुंचेंगी राष्ट्रपति मुर्मु](https://www.amarujala.com/india-news/28-november-2026-major-event-2026-11-27)
+*Amar Ujala Breaking* - Nov 28, 06:00 IST (iso: 2026-11-28T00:30:35+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/27/aaja-ka-thana_4ba1b999845cb102f9ea082011552a0e.gif?w=1200&dpr=1.0 -->
+
+28 नवंबर 2026 को काशी तमिल संगमम का शुभारंभ हुआ। इसी दिन भाजपा की बैठक समाप्त हुई और राष्ट्रपति द्रौपदी मुर्मु नौसेना अकादमी का दौरा करने पहुंचीं। 28 November 2026 major event- आज के दिन: काशी तमिल संगमम का आगाज, भाजपा की बैठक का समापन; नौसेना अकादमी पहुंचेंगी राष्ट्रपति मुर्मु।
+
+### [आज दीपथून पर जलेगा पारंपरिक दीप; बिसलेरी पर फिर मुकदमे की मंजूरी; परिसीमन बिल पर कांग्रेस की बैठक](https://www.amarujala.com/india-news/top-headline-today-important-and-big-news-stories-of-28-november-2026-updates-on-amar-ujala-2026-11-28)
+*Amar Ujala Breaking* - Nov 28, 05:49 IST (iso: 2026-11-28T00:19:48+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/03/04/thasha-thanaya-ka-bugdha-khabra_917580eebab10b1e0922a82a2ff5d851.jpeg?w=1200&dpr=1.0 -->
+
+आज दीपथून पर पारंपरिक दीप जलाया जाएगा। बिसलेरी मामले में न्यायालय ने मुकदमे की मंजूरी दी है और कांग्रेस ने परिसीमन विधेयक पर अपनी बैठक बुलाई है। आज दीपथून पर जलेगा पारंपरिक दीप; बिसलेरी पर फिर मुकदमे की मंजूरी; परिसीमन बिल पर कांग्रेस की बैठक।
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [अलादीन का चिराग है ये 14 मंजिला अपार्टमेंट बिल्डिंग, एक छत के नीचे रहते हैं 200 लोग, इसी में सुरंग](https://hindi.news18.com/world/america-whittier-alaska-town-inside-alaska-14-story-begich-towers-where-200-residents-live-together-store-clinic-church-tunnel-access-photogallery-11017580.html)
-*News18 Hindi (World)* - Nov 28, 00:03 IST (iso: 2026-11-27T18:33:28+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Whittier-Alaska-Town-2026-11-2873f810e50fe999dedfcc8f64a21e4c-1200x800.jpg -->
+### [अमेरिका ने ईरान के दावों को बताया झूठा, कहा- न कोई एयरक्राफ्ट कैरियर क्षतिग्रस्त हुआ, न होर्मुज पर](https://www.patrika.com/world-news/centcom-rejects-iran-claims-oil-tankers-abraham-lincoln-hormuz-toll-21096684)
+*Patrika (World)* - Nov 28, 06:44 IST (iso: 2026-11-28T01:14:17+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/hormuz.webp -->
 
-अलास्का के व्हिटियर में 200 लोग 14 मंजिला बेगिच टावर्स में रहते हैं। इमारत में स्टोर, क्लिनिक, पोस्ट ऑफिस और पुलिस स्टेशन मौजूद हैं। स्कूल जाने के लिए अंडरग्राउंड सुरंग बनाई गई है। यह ठंड से बचाव का उपाय है। अलास्का के व्हिटियर शहर में करीब 200 लोग एक ही 14 मंजिला इमारत 'बेगिच टावर्स' के अंदर रहते हैं, जहां जरूरत की लगभग हर चीज एक छत के नीचे मिल जाती है.
-
-### [सबसे बड़े इस्लामिक देश ने मक्का पैक्ट को मारी लात, धरा रह गया मुस्लिम ब्रदरहुड का सपना, तुर्की के](https://hindi.news18.com/world/south-asia-indonesia-rules-out-joining-mecca-defense-pact-with-turkiye-pakistan-and-saudi-arabia-military-alliance-11017531.html)
-*News18 Hindi (World)* - Nov 27, 23:03 IST (iso: 2026-11-27T17:33:52+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Indonesia-2026-11-007484b99a999adb33f68786002f96d0-1200x800.jpg -->
-
-इंडोनेशिया ने मक्का डिफेंस पैक्ट में शामिल होने से इनकार कर दिया है। यह गठबंधन तुर्की, पाकिस्तान और सऊदी अरब का है। विदेश मंत्रालय ने स्वतंत्र और सक्रिय विदेश नीति का हवाला दिया। देश सैन्य गठबंधन में नहीं जुड़ना चाहता। इंडोनेशिया ने 'मक्का डिफेंस पैक्ट' में शामिल होने से साफ मना कर दिया है. ये गुट तुर्की, पाकिस्तान और सऊदी अरब का है.
-
-### [IRGC का दावा, बारूदी सुरंग से टकराकर आग का गोला बना ‘नियम तोड़ने वाला’ टैंकर](https://www.patrika.com/world-news/iran-irgc-hormuz-tanker-explosion-sea-mines-us-f16-airspace-red-line-21096446)
-*Patrika (World)* - Nov 27, 21:31 IST (iso: 2026-11-27T16:01:33+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Hormuz-sea-mines.webp -->
-
-ईरान की IRGC नौसेना ने दावा किया कि एक तेल टैंकर ने होर्मुज जलडमरूमध्य में अनधिकृत रास्ता अपनाया। ओमान के अल घनम द्वीप के उत्तर में वह समुद्री सुरंगों से टकराया। टैंकर में विस्फोट हुआ और आग लग गई। ईरान के इस्लामिक रिवोल्यूशनरी गार्ड कॉर्प्स (IRGC) की नौसेना ने दावा किया है कि, एक ‘नियम तोड़ने वाला’ तेल टैंकर, जो ‘अनधिकृत’ रास्ते से होर्मुज जलडमरूमध्य को पार करने की कोशिश कर रहा था, ओमान के अल घनम द्वीप के उत्तर में समुद्री सुरंगों (माइन्स) से टकरा गया।
-
-### [मेहमानों की मेजबानी में पस्त पाकिस्तानी अवाम, सड़कें, मेट्रो, स्कूल-कॉलेज सब बंद, इस्लामाबाद में](https://hindi.news18.com/world/pakistan-mecca-pact-summit-forced-lockdown-in-islamabad-due-to-security-for-two-days-road-closure-traffic-diversion-ws-l-11016909.html)
-*News18 Hindi (World)* - Nov 27, 17:38 IST (iso: 2026-11-27T12:08:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pakistan-alert-2026-11-dc527c64685fe115bbf4ee9d8d0dbe82-1200x800.jpg -->
-
-मक्का पैक्ट मेहमानों के आगमन से इस्लामाबाद में सड़कें, मेट्रो और स्कूल बंद हैं। राजधानी में यातायात पूरी तरह ठप हो गया है। Pakistan Security Causing disturbance: पाकिस्तान में विदेश से जैसे ही कोई हाई प्रोफाइल डेलीगेशन आने वाला होता है, वहां की जनता को इसका खामियाजा भुगतना पड़ता है. ऐसा ही ईरान-अमेरिका वार्ता के वक्त हुआ था और ऐसा ही हो रहा है मक्का पैक्ट वाले मेहमानों के आने की वजह से.
+अमेरिकी सेंट्रल कमांड ने ईरान के दावों को झूठा बताकर खारिज कर दिया है। कमांड ने कहा कि यूएसएस अब्राहम लिंकन पर कोई हमला नहीं हुआ। ईरान के पास अब कोई सक्षम नौसेना नहीं बची है। अमेरिकी सेंट्रल कमांड (CENTCOM) ने एक ईरानी सैन्य कमांडर द्वारा 24 घंटे के भीतर किए गए तीन बड़े दावों को पूरी तरह से झूठा और मनगढ़ंत बताकर खारिज कर दिया है।
 
 ---
 
 ## एशिया-प्रशांत
 
-### [किसानों के लिए रेगिस्तान में खिली ऐसी 'संजीवनी', अब सूखे में भी लहराएंगी फसलें, 40 प्रतिशत बढ़](https://hindi.news18.com/world/china-farming-invention-drought-resistant-crops-new-gene-discovered-in-lichen-fungus-boosts-wheat-rice-and-corn-yields-11017430.html)
-*News18 Hindi (World)* - Nov 27, 22:45 IST (iso: 2026-11-27T17:15:01+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Farming-Invention-2026-11-895c2daea68123f1ca7db63edb013687-1200x800.jpg -->
+### [ताकि बढ़ती रहे संविधान की प्रतिष्ठा: जरूरी है सांविधानिक नैतिकता, अधिकारों के साथ कर्तव्यों का भी](https://www.amarujala.com/columns/opinion/constitutional-morality-indian-democracy-ambedkar-constitutional-values-2026-11-28)
+*Amar Ujala National* - Nov 28, 06:39 IST (iso: 2026-11-28T01:09:29+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2024/07/16/constitution-of-india-bharata-ka-savathhana_2d97816035aae636737fb771a57de310.jpeg?w=1200&dpr=1.0 -->
 
-चीन के वैज्ञानिकों ने लाइकेन फंगस में EpTFIIAγ जीन खोजा है। यह जीन सूखे में गेहूं, धान और मक्का की पैदावार 42.4 प्रतिशत तक बढ़ा सकता है। यह शोध नेचर पत्रिका में प्रकाशित हुआ है। चीन के वैज्ञानिकों ने लाइकेन बनाने वाले एक फंगस में नया जीन खोजा है. इसका नाम 'EpTFIIAγ' रखा गया है. सूखे के हालात में यह जीन फसलों की पैदावार को 42.4 फीसदी तक बढ़ा सकता है.
+लेखक भारतीय लोकतंत्र में संविधान की प्रतिष्ठा बरकरार रखने की वकालत करते हैं। इसके लिए सांविधानिक नैतिकता का पालन जरूरी है। नागरिकों को अधिकारों के साथ अपने कर्तव्यों का भी पूरा पालन करना चाहिए। ताकि बढ़ती रहे संविधान की प्रतिष्ठा: जरूरी है सांविधानिक नैतिकता, अधिकारों के साथ कर्तव्यों का भी।
 
-### [पाकिस्तान में नए प्रांत बनाने की मांग पर रिपोर्ट ने उठाए सवाल, कहा- पहले गेहूं घोटाले और कराची की](https://www.patrika.com/world-news/pakistan-new-provinces-referendum-governance-wheat-import-karachi-21096595)
-*Patrika (World)* - Nov 27, 22:28 IST (iso: 2026-11-27T16:58:13+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Pakistan-Government-News.webp -->
+### [आप जो ऑनलाइन गोरापन खरीद रहे हैं: फेयरनेस क्रीम के नाम पर जहर का कारोबार, कब तय होगी जवाबदेही?](https://www.amarujala.com/columns/opinion/mercury-in-fairness-creams-online-sale-kidney-damage-india-regulation-2026-11-28)
+*Amar Ujala National* - Nov 28, 06:33 IST (iso: 2026-11-28T01:03:58+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/cream_94a4c2e507cfe69cec9741a2b4b4115d.jpeg?w=1200&dpr=1.0 -->
 
-पाकिस्तान में नए प्रांत बनाने की मांग पर द फ्राइडे टाइम्स ने सवाल उठाए। अखबार ने कहा कि जनमत संग्रह से पहले सरकार को गेहूं घोटाले और कराची की स्थिति का हल करना चाहिए। स्थानीय निकायों को अधिकार देने की भी आवश्यकता है। Pakistan Government News: पाकिस्तान में नए प्रांत बनाने और इस मुद्दे पर जनमत संग्रह कराने की चर्चा के बीच वहां की सरकार को शासन व्यवस्था की नाकामियों पर घेरा गया है।
+ऑनलाइन बेची जाने वाली फेयरनेस क्रीम में मर्करी पाया गया है। यह पदार्थ गंभीर किडनी डैमेज का कारण बनता है। भारत में इस तरह के विषैले उत्पादों की बिक्री पर नियमन की कमी है। आप जो ऑनलाइन गोरापन खरीद रहे हैं: फेयरनेस क्रीम के नाम पर जहर का कारोबार, कब तय होगी जवाबदेही?
 
-### [9.25 लाख भारतीयों ने छोड़ी नागरिकता, 5 सालों के आंकड़ों में 40% की वृद्धि, रिपोर्ट में खुलासा](https://www.abplive.com/news/india/9-25-lakh-indians-became-oecd-citizens-in-last-five-years-report-records-40-percent-hike-in-migration-3220176)
-*ABP Live (India)* - Nov 27, 18:07 IST (iso: 2026-11-27T12:37:39+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/0fbcf900cc1dc5ca629793da1b42920b17957752153641126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [दिल्ली-देहरादून एक्सप्रेसवे पर कहीं स्पीड मीटर बंद, तो कहीं 90 की जगह 150 दिखाई जा रही है रफ्तार](https://www.amarujala.com/uttar-pradesh/shamli/on-delhi-dehradun-expressway-speed-meters-are-either-switched-off-in-some-places-2026-11-28)
+*Amar Ujala Breaking* - Nov 28, 06:20 IST (iso: 2026-11-28T00:50:42+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/1_271ad0fb710a94d56da6d5277b7bce71.jpeg?w=1200&dpr=1.0 -->
 
-2020 से 2024 के बीच 9.25 लाख भारतीयों ने OECD देशों की नागरिकता ली। यह पांच साल के आंकड़ों में 40 प्रतिशत की वृद्धि दर्शाता है। रिपोर्ट इस प्रवृत्ति को उजागर करती है। भारत दुनिया में सबसे बड़ी आबादी वाला देश है, जहां करीब 140 करोड़ से ज्यादा नागरिक रहते हैं. वहीं, दुनिया भर के तमाम देशों में भी आज भारतीय नागरिक मौजूद हैं, जिनमें से काफी लोगों ने अलग-अलग देशों की नागरिकता भी ले ली है.
+दिल्ली-देहरादून एक्सप्रेसवे पर स्पीड मीटर सवालों के घेरे में हैं। कुछ जगह यंत्र बंद मिले हैं। वहीं अन्य स्थानों पर 90 की जगह 150 की रफ्तार दर्शाने की शिकायतें आई हैं। दिल्ली-देहरादून एक्सप्रेसवे पर रफ्तार नियंत्रित करने के लिए लगाए गए स्पीड मीटर सवालों के घेरे में हैं। दिल्ली-देहरादून एक्सप्रेसवे पर कहीं स्पीड मीटर बंद, तो कहीं 90 की जगह 150 दिखाई जा रही है रफ्तार।
 
-### [‘अगर 30 नवंबर को परिसीमन बिल पारित हुआ तो...’, कपिल सिब्बल ने विपक्ष को चेताया](https://www.abplive.com/news/india/kapil-sibal-warns-opposition-to-not-let-delimitation-bill-pass-and-adopt-131-constitutional-amendment-in-parliament-3220209)
-*ABP Live (India)* - Nov 27, 18:07 IST (iso: 2026-11-27T12:37:16+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/c058ad0f2b4781136fddccc507b9b70617957786292601126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+### [क्विक कॉमर्स ऐप पर जंक फूड की भरमार; आधे से ज्यादा पैकेटबंद खाद्य पदार्थ में फैट, चीनी, नमक अधिक](https://www.amarujala.com/business/business-diary/quick-commerce-apps-junk-food-ultra-processed-food-india-report-2026-11-28)
+*Amar Ujala Breaking* - Nov 28, 05:28 IST (iso: 2026-11-27T23:58:11+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/junk-food-on-quick-commerce-apps_b3e978e07f43265dae642bffa9a36c3c.jpeg?w=1200&dpr=1.0 -->
 
-वरिष्ठ अधिवक्ता कपिल सिब्बल ने विपक्ष को परिसीमन बिल पारित करने से रोका। उन्होंने चेतावनी दी कि 30 नवंबर को बिल पास होने पर लोकतंत्र खत्म हो जाएगा। उन्होंने केंद्र सरकार पर भी निशाना साधा। सुप्रीम कोर्ट में वरिष्ठ अधिवक्ता कपिल सिब्बल ने शुक्रवार को सभी विपक्षी पार्टियों से परिसीमन बिल को पारित करने और 131वें संविधान संशोधन के खतरे को लेकर चेताया है.
+एक रिपोर्ट में पाया गया कि क्विक कॉमर्स ऐप्स पर उपलब्ध पैकेटबंद खाद्य पदार्थों में आधे से अधिक में फैट, चीनी और नमक की मात्रा अनुशंसित सीमा से अधिक है। यह अध्ययन भारत में तेजी से बढ़ते डिलीवरी मॉडल पर प्रकाश डालता है। क्विक कॉमर्स ऐप पर जंक फूड की भरमार; आधे से ज्यादा पैकेटबंद खाद्य पदार्थ में फैट, चीनी, नमक अधिक।
 
-### ['भागना बेकार है, जहां हो वहीं बचने का जुगाड़ देखो', 6 राज्यों पर मंडराई आफत, इमरजेंसी सर्विस ने दी](https://hindi.news18.com/world/rest-of-world-bushfire-alert-in-6-states-in-australia-emergency-services-warn-not-to-run-but-take-shelter-ws-l-11017093.html)
-*News18 Hindi (World)* - Nov 27, 18:04 IST (iso: 2026-11-27T12:34:55+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/australia-news-2026-11-939d59a09ecf0931db9f269f6bbb50cf-1200x800.jpg -->
+### [देश की 99% महिलाओं तक नहीं पहुंची स्तन कैंसर की जांच, कहां स्थिति ज्यादा खराब?](https://www.amarujala.com/india-news/breast-cancer-screening-india-99-percent-women-never-screened-study-2026-11-28)
+*Amar Ujala Breaking* - Nov 28, 05:17 IST (iso: 2026-11-27T23:47:24+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/breast-cancer_c3e18c0d5241bdf44eba1cbd9e6b6fc9.jpeg?w=1200&dpr=1.0 -->
 
-ऑस्ट्रेलिया में जंगल की आग ने छह राज्यों को घेर लिया है। इमरजेंसी सर्विस ने लोगों को भागने के बजाय स्थान पर बचने का जुगाड़ ढूँढने की सलाह दी। आग ने रिहायशी इलाकों में तेजी से प्रसार किया है। Bushfire Alert in Australia: कई बार परिस्थितियां ऐसी होती हैं कि खुद अधिकारियों को लोगों को ये चेतावनी देनी पड़ती है कि आने वाला वक्त काफी मुश्किल है.
+एक अध्ययन के अनुसार भारत की 99 प्रतिशत महिलाओं ने कभी भी स्तन कैंसर की स्क्रीनिंग नहीं कराई है। यह रिपोर्ट देश के विभिन्न राज्यों में जांच की कमी के स्तर को दर्शाती है, जहाँ स्थिति विशेष रूप से खराब पाई गई है। अध्ययन में बड़ा खुलासा: देश की 99% महिलाओं तक नहीं पहुंची स्तन कैंसर की जांच, कहां स्थिति ज्यादा खराब?
 
-### [एके-47 के साथ गुजरात से जैश का आतंकी गिरफ्तार, टारगेट पर था एयरफोर्स स्टेशन](https://www.abplive.com/news/india/gujarat-vadodara-jaish-e-mohammed-terrorist-ak-47-air-force-station-was-target-3220235)
-*ABP Live (India)* - Nov 27, 17:41 IST (iso: 2026-11-27T12:11:47+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/23a9e942cb89d8fea66b18a9cc680c791795780116278708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+### [1050 किलोमीटर प्रति घंटा की रफ्तार, 240 की दूरी तक मार करता है चीन का ‘पुष्पक विमान’, इस देश को](https://hindi.news18.com/world/china-china-h-6-strategic-bomber-loops-near-philippines-kd-63b-yj-12-and-yj-21-missile-reach-in-focus-11017552.html)
+*News18 Hindi (World)* - Nov 28, 05:01 IST (iso: 2026-11-27T23:31:03+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-H-6-Bombers-2026-11-0cb72f7c16f544988a812db78f5f1322-1200x800.jpg -->
 
-गुजरात एटीएस ने वडोदरा से जैश-ए-मोहम्मद के आतंकी मोहम्मद शहरुल इस्लाम को गिरफ्तार किया। उसके पास से एके-47 राइफल और 23 कारतूस बरामद हुए। उसका लक्ष्य एयरफोर्स स्टेशन था। गुजरात एटीएस ने एक बड़ी कार्रवाई करते हुए वडोदरा से जैश-ए-मोहम्मद से जुड़े एक संदिग्ध आतंकी को गिरफ्तार किया है. आरोपी के पास से एक एके-47 राइफल और 23 कारतूस बरामद हुए हैं.
-
-### [पाकिस्तान की हरकतें बेनकाब, भारतीय नामों से फर्जी अकाउंट बनाकर तनाव फैलाने की कोशिश](https://www.abplive.com/news/world/pakistan-digital-propaganda-network-exposed-tension-creating-fake-accounts-in-india-ann-3220142)
-*ABP Live (World)* - Nov 27, 17:38 IST (iso: 2026-11-27T12:08:16+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/6aeb263c1d3d36482d8644f6c6c65de017957715152511200_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-भारतीय एजेंसियों ने पाकिस्तान के डिजिटल दुष्प्रचार नेटवर्क का खुलासा किया। फर्जी भारतीय नामों वाले अकाउंट से देश में सांप्रदायिक तनाव फैलाने की कोशिश की जा रही है। भारत के खिलाफ पाकिस्तान की तरफ से छद्म भारतीय नाम का प्रयोग कर बड़े पैमाने पर डिजिटल दुष्प्रचार अभियान चलाने का खुलासा भारतीय सुरक्षा एजेंसियों और खुफिया एजेंसियों की जांच में हुआ है.
-
-### [ड्रोन के झुंड को चुटकी में खत्म करने वाला 'भार्गवास्त्र', कैसे बनेगा गेम चेंजर?](https://www.abplive.com/news/india/bhargavastra-part-of-sudarshan-chakra-india-indigenous-anti-drone-system-air-defence-sadl-explained-3220191)
-*ABP Live (India)* - Nov 27, 16:57 IST (iso: 2026-11-27T11:27:45+00:00)
-<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/27/fa59e7df0b53649b01a58be34fff3ad317957769284811317_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
-
-पोखरण में भार्गवास्त्र का सफल परीक्षण हुआ। यह सोलर डिफेंस एंजिनियरिंग का पहला स्वदेशी दो-लेवल काउंटर-स्वार्म ड्रोन सिस्टम है। युद्ध के मैदान में अब टैंक या लड़ाकू विमान ही नहीं, आसमान से आते ड्रोनों का झुंड होता है. ये सस्ते हैं, मिलकर हमला करते हैं और एक साथ कई जगहों पर अफरा-तफरी मचा सकते हैं. 20 से 24 नवंबर 2026 के बीच भारत ने भार्गवास्त्र का टेस्ट पूरा किया है.
+चीन का H-6 बमवर्षक विमान साउथ चाइना सी में फिलीपींस की राजधानी मनीला से 170 किलोमीटर दूर तक उड़ा। यह विमान 1050 किलोमीटर प्रति घंटे की रफ्तार से चल सकता है और KD-63B मिसाइलें ले जा सकता है। चीन के H-6 बमवर्षक विमान ने साउथ चाइना सी में अपनी ताकत दिखाई है. ये विमान फिलीपींस की राजधानी मनीला से करीब 170 किलोमीटर दूर तक उड़ता हुआ नजर आया.
 
 ---
 
-## अमेरिका
+## वैश्विक / बहुपक्षीय
 
-### [अमेरिकी सेना पर बड़ा अटैक, बंद कर दिया आने-जाने का रास्ता, क्या चोरी हो गया ‘टॉप सीक्रेट’?](https://hindi.news18.com/world/america-hackers-breach-us-air-force-cloud-one-network-updates-blocked-migrations-paused-cyber-command-investigating-11017308.html)
-*News18 Hindi (World)* - Nov 27, 20:09 IST (iso: 2026-11-27T14:39:13+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Cyber-Attack-In-US-Airforce-2026-11-d160230d0ddda4145d5301be7098ba23-1200x800.jpg -->
+### [एफएसएसएआई ने दी मुकदमा चलाने की मंजूरी, बंगाल में भी पानी का नमूना निकला असुरक्षित](https://www.amarujala.com/india-news/fssai-sanctions-prosecution-against-bisleri-bacteria-found-west-bengal-water-sample-2026-11-28)
+*Amar Ujala Breaking* - Nov 28, 05:53 IST (iso: 2026-11-28T00:23:16+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/bisleri_ab8836ad87214dbb600eb0a7337c076d.jpeg?w=1200&dpr=1.0 -->
 
-अमेरिकी वायुसेना के क्लाउड वन नेटवर्क में हैकर्स का प्रवेश हुआ है। इसमें रडार डेटा और हथियारों की जानकारी शामिल है। यूएस साइबर कमांड ने जांच शुरू कर दी है। डेटा शिफ्टिंग और नए अपडेट्स का काम रोक दिया गया है। अमेरिकी वायुसेना के सबसे खास क्लाउड नेटवर्क 'क्लाउड वन' में हैकर्स के घुसने की खबर ने सुरक्षा को लेकर बड़ी चिंता बढ़ा दी है.
-
-### [अमेरिकी वायुसेना के सिस्टम में हैकर्स ने लगाई सेंध, सैन्य विमानों और मिसाइलों के डेटा पर खतरा](https://www.patrika.com/world-news/us-air-force-cloud-one-cyber-attack-hackers-breach-data-21095482)
-*Patrika (World)* - Nov 27, 18:12 IST (iso: 2026-11-27T12:42:08+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/US-Air-Force.webp -->
-
-अमेरिकी वायुसेना के क्लाउड सिस्टम में हैकर्स की घुसपैठ हुई है। इसमें सैन्य विमानों और मिसाइलों का डेटा है। एआई आधारित हमले की वजह से सुरक्षा पर सवाल उठे हैं। संवेदनशील जानकारी के जोखिम की जांच जारी है। US Air Force Cyber Attack: लगातार विकसित होते AI के कारण AI-आधारित घुसपैठ काफी बढ़ गई है। इसी घुसपैठ के चलते अमेरिकी वायुसेना के एक बड़े क्लाउड कंप्यूटिंग सिस्टम में हैकर्स ने सेंध लगा दी है।
+फूड सेफ्टी और स्टैंडर्ड्स अथॉरिटी ऑफ इंडिया ने बिसलेरी के खिलाफ मुकदमा चलाने की मंजूरी दी है। पश्चिम बंगाल में भी पानी के नमूने में बैक्टीरिया मिलने की रिपोर्ट आई है। कंपनी की कानूनी मुश्किलें बढ़ गई हैं। एफएसएसएआई ने दी मुकदमा चलाने की मंजूरी, बंगाल में भी पानी का नमूना निकला असुरक्षित।
 
 ---
 
