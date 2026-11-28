@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 28, 2026 07:49 IST
+**Updated:** November 28, 2026 16:30 IST
 
 ---
 
@@ -35,7 +35,7 @@ The Security Council is weighing how AI and drones reshape warfare. Guterres not
 Crisis Group analysts discussed the deployment of Algerian troops in Niger. They examined how this military presence affects regional security balances. The conversation highlighted shifting dynamics in the Sahel. Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Ibrahim Yahaya Ibrahim, Directeur Adjoint du Projet Sahel, Ibrahim Maïga, Conseiller Spécial pour le Sahel et Michaël Ayari, Analyste Senior pour la Tunisie et l’Algérie à Crisis Group, pour parler du déploiement de troupes algériennes au Niger et des répercussions de cette présence militaire sur les équilibres sécuritaires.
 
 ### [Hamas says Israel tried to kill chief’s son in Gaza](https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece)
-*The Hindu (International)* - Nov 28, 03:48 IST (iso: 2026-11-27T22:18:41+00:00)
+*The Hindu (International)* - Nov 28, 10:55 IST (iso: 2026-11-28T05:25:04+00:00)
 <!-- image: https://th-i.thgim.com/public/incoming/sn00n2/article71752542.ece/alternates/LANDSCAPE_1200/2026-11-27T160816Z_1800381719_RC2DWOAYEM3P_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-HAMAS.JPG -->
 
 Hamas stated Israel attempted to assassinate Izz al-Din al-Hayya, son of political bureau chief Khalil al-Hayya. A Gaza security source told AFP the target and his family survived the strike. ‘Izz al-Din al-Hayya, the youngest surviving son of Hamas political bureau chief Khalil al-Hayya, along with his family and the family of his late brother Azzam, survived an Israeli assassination attempt,’ a security source in Gaza told AFP.
@@ -94,21 +94,27 @@ Amina Mohammed warned another woman would be killed before she finished speaking
 
 Iraqi forces entered Jurf al-Sakhar on 20 November to displace Kata’ib Hizbollah. Prime Minister Ali al-Zaidi restored state authority in the area. Crisis Group expert Lahib Higel detailed the circumstances enabling this military operation. On 20 November, Iraqi government forces entered Jurf al-Sakhar, a stronghold of the Iran-backed group Kata’ib Hizbollah. In this Q&A, Crisis Group expert Lahib Higel explains the circumstances that allowed Prime Minister Ali al-Zaidi to restore state authority in this area.
 
+### [On Our Radar](https://www.crisisgroup.org/sco/global/our-radar)
+*International Crisis Group* - Nov 20, 05:30 IST (iso: 2026-11-20T00:00:00+00:00)
+<!-- image: https://images.pexels.com/photos/14938295/pexels-photo-14938295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
+
+Crisis Group publishes a weekly bulletin tracking active conflicts and emerging crises worldwide. The report highlights specific hotspots where field analysts are monitoring developments. It covers both under-reported trends and major headline events. The publication explains why each situation matters and outlines potential actions. On Our Radar scans conflicts and crises around the globe every week and features some of the hotspots Crisis Group’s analysts are closely watching.
+
 ---
 
 ## Asia-Pacific
+
+### [India's bottled-water crackdown widens as new Bisleri sample found with bacteria](https://www.channelnewsasia.com/asia/india-bisleri-bottled-water-bacteria-6589171)
+*Channel News Asia* - Nov 28, 13:51 IST (iso: 2026-11-28T08:21:46+00:00)
+<!-- image: https://dam.mediacorp.sg/image/upload/s--74nLZKnw--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-28T050918Z_1_LYNXNPEMAR03K_RTROPTP_3_INDIA-FOOD-BISLERI.JPG?itok=x7Teq4D4 -->
+
+India's food regulator identified a new Bisleri sample containing bacteria. This follows an earlier finding of cancer-linked chemicals in the same brand. The agency is expanding its crackdown on bottled water safety. Consumer trust in major brands is declining. Consumer worries were already heightened in India after the food regulator said this week it had found a sample ⁠of Bisleri water unsafe due to the presence of chemicals that health agencies say may cause cancer.
 
 ### [Bangladesh garment workers protest wages despite police crackdown](https://asiatimes.com/2026/11/bangladesh-garment-workers-protest-wages-despite-police-crackdown/)
 *Asia Times* - Nov 28, 04:36 IST (iso: 2026-11-27T23:06:38+00:00)
 <!-- image: https://asiatimes.com/wp-content/uploads/2026/11/202611asia_bangladesh_garment-protest-copy.jpg -->
 
 Garment workers in Gazipur, Bangladesh, rejected a government-approved minimum wage increase as insufficient for rising living costs. Police used less-lethal weapons to disperse the protests. The demonstrations continued this week despite the crackdown. Bangladeshi garment workers continued protesting this week after rejecting a government-approved minimum-wage increase they contend is inadequate to meet the soaring cost of living, with police attacking demonstrators with “less lethal” weapons to disperse them.
-
-### [Malaysia is ageing almost as quickly as Japan. Is it ready for the challenge?](https://www.channelnewsasia.com/cna-insider/insider/malaysia-ageing-quickly-japan-elderly-care-retirement-geriatric-challenge-6588036)
-*Channel News Asia* - Nov 28, 03:30 IST (iso: 2026-11-27T22:00:00+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--ZE57Vg20--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/28/picture0.jpg?itok=rdHrK9QQ -->
-
-Malaysia faces rapid demographic aging similar to Japan. Many citizens struggle with retirement affordability and elderly care gaps. The country is racing to strengthen support systems for its growing senior population. From parents abandoned by their children to workers who cannot afford to retire, some Malaysians face an uncertain future. CNA’s Insight meets them as the country races to strengthen elderly care and grapples with retirement.
 
 ### [Threat from China looms large over Taiwan’s local elections](https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections)
 *The Guardian* - Nov 27, 06:30 IST (iso: 2026-11-27T01:00:49+00:00)
@@ -122,21 +128,25 @@ Taiwanese voters elect local officials on Saturday. The results will determine t
 
 Lululemon founder Chip Wilson made sexist remarks at a Canadian women’s leadership conference. He suggested men might import brides from Thailand because women wait too long to have children. The comments stunned audience members at the event. Chip Wilson said men importing brides from Thailand was due to women waiting too long to have childrenThe controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from Thailand, in remarks that stunned audience members at a women’s leadership conference. Chip Wilson, who built the Vancouver yoga-wear startup into a glob.
 
-### [Taliban Pressures Afghan Men To Enforce Restrictions On Their Wives And Daughters](https://www.rferl.org/a/women-violence-afghanistan/33905117.html)
-*Radio Free Europe / Liberty* - Nov 25, 04:39 IST (iso: 2026-11-24T23:09:20+00:00)
-<!-- image: https://gdb.rferl.org/7f6ae399-7c4e-4341-ccd0-08de3c914337_w1200_h630.jpg -->
+---
 
-Taliban authorities pressure Afghan men to restrict their female family members. Men are told to forbid women from leaving home or withhold cell phones. These measures enforce strict gender segregation. The regime uses male relatives as enforcers. Afghan men and women have told RFE/RL's Radio Azadi that Afghanistan's Taliban authorities are making men impose strict restrictions on female family members, such as forbidding them to leave the home or withholding cell phones.
+## Americas
+
+### [Southeast Asia’s AI data center bets turning into stranded assets](https://asiatimes.com/2026/11/southeast-asias-ai-data-center-bets-turning-into-stranded-assets/)
+*Asia Times* - Nov 27, 07:24 IST (iso: 2026-11-27T01:54:54+00:00)
+<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Day-One-Data-Center-Malaysia.jpg -->
+
+Southeast Asian AI data center projects face becoming stranded assets after Nvidia halted chip shipments. The suspension disrupts the region's physical infrastructure buildout. Financial commitments now risk obsolescence. The boom's underlying architecture has effectively seized up. Wall Street spent this week celebrating Jensen Huang’s reinstatement at Nvidia as a triumph of corporate resilience and White House pragmatism. Yet while traders bid up the chipmaker’s stock in New York, the physical and financial architecture of Southeast Asia’s artificial intelligence boom has seized up.
+
+### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
+*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
+<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
+
+Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
 
 ---
 
 ## Europe & Russia
-
-### [Ukraine Offers Black Sea Cease-Fire, Awaits Kremlin Response](https://www.rferl.org/a/ukraine-black-sea-ceasefire-russia-shipping-exports/33907217.html)
-*Radio Free Europe / Liberty* - Nov 28, 04:35 IST (iso: 2026-11-27T23:05:03+00:00)
-<!-- image: https://gdb.rferl.org/4bc4f8ca-794c-4e84-9958-d3c1f5ebdd27_cx0_cy8_cw0_w1200_h630.jpg -->
-
-Ukraine’s foreign minister announced Kyiv proposed a Black Sea cease-fire to enable food exports. The plan awaits Moscow’s response. It would revive a deal Russia abandoned in July 2023. Ukraine’s foreign minister said Kyiv has proposed a cease-fire in the Black Sea to allow food exports to reach world markets and that it is waiting for Moscow's response -- a deal that would effectively revive one that Russia pulled out of in July 2023.
 
 ### [Trump Urges Putin To 'Pull Back' Aggression In Europe As US Delays Troop Posture Review](https://www.rferl.org/a/trump-putin-europe-ukraine-russia-aggression/33906739.html)
 *Radio Free Europe / Liberty* - Nov 27, 06:24 IST (iso: 2026-11-27T00:54:58+00:00)
@@ -155,22 +165,6 @@ A notorious prison in central St. Petersburg is being converted into a five-star
 <!-- image: https://gdb.rferl.org/1912b6cb-8b80-4549-2b11-08df3ee80755_w1200_h630.jpg -->
 
 RFE/RL correspondent Maryan Kushnir detailed how Russian drone strikes have reshaped Ukraine's front line and increased threats to Kyiv. He described surviving a direct attack and the ongoing struggle of families searching for missing relatives. The reporting highlights the persistent danger facing civilians and journalists in the conflict zone. RFE/RL war correspondent Maryan Kushnir describes how drone warfare has transformed Ukraine’s front line, the growing danger of Russian attacks on Kyiv, his own experience of surviving an attack, and the families searching for missing loved ones.
-
----
-
-## Americas
-
-### [Southeast Asia’s AI data center bets turning into stranded assets](https://asiatimes.com/2026/11/southeast-asias-ai-data-center-bets-turning-into-stranded-assets/)
-*Asia Times* - Nov 27, 07:24 IST (iso: 2026-11-27T01:54:54+00:00)
-<!-- image: https://asiatimes.com/wp-content/uploads/2026/11/Day-One-Data-Center-Malaysia.jpg -->
-
-Southeast Asian AI data center projects face becoming stranded assets after Nvidia halted chip shipments. The suspension disrupts the region's physical infrastructure buildout. Financial commitments now risk obsolescence. The boom's underlying architecture has effectively seized up. Wall Street spent this week celebrating Jensen Huang’s reinstatement at Nvidia as a triumph of corporate resilience and White House pragmatism. Yet while traders bid up the chipmaker’s stock in New York, the physical and financial architecture of Southeast Asia’s artificial intelligence boom has seized up.
-
-### [All hostages rescued after Colombian security forces storm supermarket, police say](https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket)
-*The Guardian* - Nov 26, 01:50 IST (iso: 2026-11-25T20:20:23+00:00)
-<!-- image: https://i.guim.co.uk/img/media/a3585592d60a650e6033ad7e718f5e89458d216d/440_75_2600_2080/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=33ea692d3cf725ee634c71826c01d100 -->
-
-Colombian President Abelardo de la Espriella confirmed all hostages were freed after police stormed a Cartagena supermarket. The daylong siege ended with one hostage-taker killed. Thirty people had been held inside the shopping centre. Operation in which one hostage-taker was killed ends daylong siege in Cartagena shopping centre, where 30 people were initially heldColombian police have stormed a supermarket in one of the country’s most popular tourist cities, ending a daylong siege in which all the hostages were freed and one hostage-taker was killed. Abelardo de la Espriella, the far-right president, travelled to the Caribbean.
 
 ---
 
