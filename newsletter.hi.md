@@ -1,176 +1,176 @@
 # 🌍 GeoPulse हिंदी
 
-**अपडेट:** November 28, 2026 16:30 IST
+**अपडेट:** November 29, 2026 00:11 IST
 
 ---
 
 ## एशिया-प्रशांत
 
-### [अफगानिस्तान में स्कूल में भीषण धमाका, 7 छात्रों की मौत, 99 घायल](https://www.patrika.com/world-news/afghanistan-school-blast-7-students-killed-in-kunar-province-21099408)
-*Patrika (World)* - Nov 28, 16:13 IST (iso: 2026-11-28T10:43:46+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/patrika-Breaking-news.webp -->
+### [अमरावती में सचिवालय की पांच इमारतों पर ₹15,317 करोड़ खर्च करने का प्रस्ताव; पूर्व सीएम जगन ने उठाए](https://www.amarujala.com/india-news/news-updates-of-29-nov-india-news-politics-crime-central-govt-news-in-hindi-hindi-news-news-updates-2026-11-29)
+*Amar Ujala National* - Nov 29, 12:05 IST (iso: 2026-11-29T06:35:27+00:00)
+<!-- image: https://staticimg.amarujala.com/assets/images/2025/02/27/aaja-ka-bugdha-khabra_ea99a07f6c150245a9f14bf556d877c6.jpeg?w=1200&dpr=1.0 -->
+
+आंध्र प्रदेश में अमरावती सचिवालय के पांच भवनों के निर्माण पर 15,317 करोड़ रुपये खर्च करने का प्रस्ताव पेश किया गया है। पूर्व मुख्यमंत्री जगन मोहन रेड्डी ने इस भारी व्यय पर सवाल उठाए हैं। अमरावती में सचिवालय की पांच इमारतों पर ₹15,317 करोड़ खर्च करने का प्रस्ताव; पूर्व सीएम जगन ने उठाए।
+
+### ['बिल पर समर्थन का मतलब नहीं हम...', अमित शाह से मिलने के बाद बोलीं DMK सांसद कनिमोझी](https://www.abplive.com/news/india/supporting-delimitation-bill-dmk-mp-kanimozhi-after-meeting-amit-shah-3220724)
+*ABP Live (India)* - Nov 28, 22:44 IST (iso: 2026-11-28T17:14:45+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/4887c7a43a9802f829ea822d27e3ab971795888461008120_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+DMK सांसदों ने अमित शाह से मुलाकात के बाद कहा कि बिल समर्थन का मतलब यह नहीं कि वे सभी शर्तें स्वीकार कर चुकी हैं। संसद सत्र से पहले यह बैठक महत्वपूर्ण मानी गई। परिसीमन बिल को लेकर बुलाए गए संसद सत्र पर सभी दलों की तरफ से सियासी मंथन के साथ ही रणनीतियां बनाई जा रही है. इस बिल पर एनसीपी (शरद पवार) गुट के साथ ही डीएमके ने इसके समर्थन का ऐलान किया.
+
+### [PoK में चीख पड़ा गाजी शहजाद कौन है? पाकिस्तान के खिलाफ ऐलान-ए-जंग, जेलब्रेक से हुआ था बदनाम](https://hindi.news18.com/world/pakistan-pok-vs-pakistan-war-ghazi-shahzad-and-janbaz-force-threaten-armed-retaliation-against-pakistan-forces-11019498.html)
+*News18 Hindi (World)* - Nov 28, 21:26 IST (iso: 2026-11-28T15:56:54+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Ghazi-Shahzad-and-Janbaz-Force-Threaten-Pakistan-2026-11-a137fcd41533d6532e2f2fc66ba561fc-1200x800.jpg -->
+
+पाकिस्तान के कब्जे वाले कश्मीर में गाजी शहजाद ने जानबाज फोर्स के नाम से बयान जारी किया। उन्होंने धमकी दी कि निहत्थे लोगों पर गोली चलने पर गन का जवाब गन से दिया जाएगा। किसी भी सैन्य ऑपरेशन को स्वीकार नहीं करने की चेतावनी दी गई। महंगाई और सख्ती से गुस्सा बढ़ा है। पाकिस्तान के कब्जे वाले कश्मीर में आंदोलन और सख्ती चल रही है.
+
+### ['1980 में नहीं थीं भारतीय नागरिक', सोनिया गांधी की नागरिकता विवाद पर दिल्ली पुलिस की रिपोर्ट दाखिल](https://www.abplive.com/news/india/delhi-police-files-atr-in-rouse-avenue-court-over-sonia-gandhi-name-included-in-1980-delhi-voter-list-3220663)
+*ABP Live (India)* - Nov 28, 19:36 IST (iso: 2026-11-28T14:06:33+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/9b8be75411d8692b1ab50e0e01d0ca5317958736184091126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+दिल्ली पुलिस ने राउज एवेन्यू कोर्ट में सोनिया गांधी की नागरिकता विवाद पर एक्शन टेकन रिपोर्ट दाखिल की। शिकायत में आरोप है कि उन्हें 1983 में नागरिकता मिली थी, पर उनका नाम 1980 में ही वोटर लिस्ट में दर्ज था। अदालत में यह जानकारी सामने आई है। कांग्रेस की संसदीय दल की अध्यक्ष सोनिया गांधी का नाम भारतीय नागरिकता मिलने से तीन साल पहले ही वोटर लिस्ट में दर्ज होने के आरोपों को लेकर राउज एवेन्यू कोर्ट में अहम जानकारी सामने आई.
+
+### [‘पाकिस्तान के कब्जे से कश्मीर छुड़ा लिया जाएगा तब...’, परिसीमन बिल में है PoK का भी इंतजाम, आजादी](https://hindi.news18.com/news/nation/pok-provision-in-delimitation-bill-2026-ec-plan-after-pakistan-occupation-ends-parisiman-bill-850-lok-sabha-cap-women-quota-parliament-session-11019154.html)
+*News18 Hindi (World)* - Nov 28, 18:19 IST (iso: 2026-11-28T12:49:46+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/PoK-in-Delimitation-Bill-2026-11-a213c3b10004473b57aac9e4c965da2f-1200x800.jpg -->
+
+संसद के विशेष सत्र में परिसीमन बिल पेश किया गया है। इसमें पाकिस्तान के कब्जे वाले कश्मीर के लिए भी इंतजाम है, जहाँ कब्जा खत्म होने पर चुनाव आयोग सीटों का परिसीमन करेगा। 30 नवंबर से संसद का विशेष सत्र शुरू हो रहा है. इससे पहले नए परिसीमन बिल और 132वें संविधान संशोधन बिल को लेकर सियासी हलचल तेज हो गई है.
+
+### [बिखरे स्कूल बैग...अधजली किताबें, स्टूडेंट्स की लाशें उठाते लोग, दिल दहला देगा अफगानिस्तान ब्लास्ट](https://hindi.news18.com/world/south-asia-afghanistan-school-blast-aftermath-scattered-bags-burned-books-7-students-killed-100-injured-near-kunar-as-dynamite-explodes-11019125.html)
+*News18 Hindi (World)* - Nov 28, 17:05 IST (iso: 2026-11-28T11:35:51+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Afghanistan-Blast-2026-11-aae0e725929af6a0170fe4ca04c8f13f-1200x800.jpg -->
+
+अफगानिस्तान के कुनार में एक मिडिल स्कूल के पास हुए धमाके में कम से कम सात छात्रों की मौत हो गई। करीब सौ लोग घायल हुए, जबकि धमाका खनन के लिए रखे डायनामाइट से हुआ। अफगानिस्तान के कुनार इलाके में एक मिडिल स्कूल के पास जोरदार धमाका हुआ है. इस हादसे में कम से कम 7 छात्रों की जान चली गई है, जबकि करीब 100 लोग घायल हुए हैं.
+
+### [अफगानिस्तान में स्कूल के पास भीषण धमाका, 7 लोगों की मौत, कैसे हुआ विस्फोट? अधिकारियों ने बताया](https://www.patrika.com/world-news/afghanistan-school-blast-7-students-killed-in-kunar-province-21099408)
+*Patrika (World)* - Nov 28, 16:33 IST (iso: 2026-11-28T11:03:51+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Afghanistan-Blast.webp -->
 
 अफगानिस्तान के कुनार प्रांत में शनिवार सुबह स्कूल में विस्फोट हुआ। इसमें सात छात्रों की मौत हुई और 99 अन्य घायल हुए। पुलिस प्रवक्ता फरीद देहकान ने यह जानकारी अंदार सिर इलाके में घटना की पुष्टि की। काबुल। अफगानिस्तान के पूर्वी कुनार प्रांत में शनिवार को एक स्कूल में हुए विस्फोट से हड़कंप मच गया। इस हादसे में 7 छात्रों की मौत हो गई, जबकि 99 अन्य घायल हो गए।
-
-### [अफगानिस्तान में स्कूल के पास भीषण धमाका, 6 छात्रों की मौत, 97 घायल, थर्रा गया पूरा इलाका](https://hindi.news18.com/world/south-asia-afghanistan-school-blast-killed-6-students-leaving-97-injured-ws-l-11018656.html)
-*News18 Hindi (World)* - Nov 28, 14:18 IST (iso: 2026-11-28T08:48:36+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/Israel-School-Trip-Blast-2026-10-63a92288819df46f83d43a3eb2e5a024-1200x800.jpg -->
-
-कुनार प्रांत में स्कूल के पास हुए विस्फोट में छह बच्चों की मौत हुई। 97 अन्य घायल हो गए। बचाव टीमें मौके पर पहुंचीं और घायलों को अस्पताल भेजा गया। स्थानीय प्रशासन ने पुष्टि की। Afghanistan School Blast: अफगानिस्तान में आज सुबह-सुबह एक स्कूल के पास हुए धमाकों ने पलभर में इसे चीखों से भर दिया. बताया जा रहा है कि कुनार प्रांत में हुए इस धमाके में 6 बच्चों की मौत हो गई है, जबकि 97 अन्य जख्मी हुए हैं.
-
-### [खरगे बोले- चुनाव आयोग को परिसीमन का जिम्मा मिलना अस्वीकार्य, सरकार सीट बढ़ाकर सत्ता चाहती है](https://www.amarujala.com/india-news/mallikarjun-kharge-calls-opposition-india-bloc-meeting-delimitation-bill-parliament-special-session-2026-11-28)
-*Amar Ujala Breaking* - Nov 28, 12:27 IST (iso: 2026-11-28T06:57:31+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/mallkarajana-kharaga-kagarasa-athhayakashha_1c95405e19ac2aff50ef861aff4c74cb.jpeg?w=1200&dpr=1.0 -->
-
-मल्लिकार्जुन खरगे ने परिसीमन विधेयक को अस्वीकार्य करार दिया। उन्होंने कहा कि सरकार सीट बढ़ाकर सत्ता बनाए रखना चाहती है। विपक्षी दलों की बैठक में आप और द्रमुक को भी न्योता दिया गया। कांग्रेस की बैठक आज: परिसीमन विधेयक से पहले विपक्ष को एकजुट करने की तैयारी, आप-द्रमुक को भी न्योता; आगे क्या? खरगे बोले- चुनाव आयोग को परिसीमन का जिम्मा मिलना अस्वीकार्य, सरकार सीट बढ़ाकर सत्ता चाहती है।
-
-### [पेरू में घात लगाकर भारतीय से लूट: नकाबपोश 10 बदमाशों ने बरसाईं गोलियां, गहने लूटे; सीसीटीवी में](https://www.amarujala.com/world/indian-national-ambushed-robbed-in-peru-masked-assailants-open-fire-steal-jewelry-what-did-cctv-footage-reveal-2026-11-28)
-*Amar Ujala World* - Nov 28, 12:01 IST (iso: 2026-11-28T06:31:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2024/04/23/hataya-sakataka-tasavara_51f771b841a0c2a55161e963c8d8af1b.jpeg?w=1200&dpr=1.0 -->
-
-पेरू में नकाबपोश बदमाशों ने भारतीय नागरिक पर हमला किया। दस लोगों ने गोलियां चलाकर गहने लूटे। सीसीटीवी फुटेज में घटना का दृश्य स्पष्ट दिख रहा है। पेरू में घात लगाकर भारतीय से लूट: नकाबपोश 10 बदमाशों ने बरसाईं गोलियां, गहने लूटे; सीसीटीवी में क्या दिखा?
-
-### [अमेरिका में पढ़ाई का सपना होगा पूरा, ये 6 स्कॉलरशिप उठाएंगी ट्यूशन फीस से फ्लाइट टिकट तक का खर्च](https://hindi.news18.com/news/career/education-fully-funded-scholarships-to-study-in-usa-for-indian-students-tuition-living-cost-11018269.html)
-*News18 Hindi (World)* - Nov 28, 11:56 IST (iso: 2026-11-28T06:26:16+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Scholarships-to-Study-in-USA-for-Indian-Students-2026-11-178a4dc27b14c0b1ae3db279a0874fbc-1200x800.jpg -->
-
-अमेरिका में भारतीय छात्रों के लिए छह स्कॉलरशिप उपलब्ध हैं। फुलब्राइट-नेहरू समेत हार्वर्ड और MIT की योजनाएं खर्च उठाती हैं। ट्यूशन, रहना और यात्रा का खर्च शामिल है। फुलब्राइट-नेहरू से लेकर हार्वर्ड, येल और MIT की कुछ खास स्कॉलरशिप्स ट्यूशन फीस, रहने-खाने और हवाई यात्रा तक का खर्च उठाती हैं. भारतीय स्टूडेंट्स के लिए जानिए बेस्ट स्कॉलरशिप की हर डिटेल.
-
-### [किसने फूंका शेख हसीना के समर्थक का घर? न शॉर्ट सर्किट न सिलेंडर ब्लास्ट, फिर कैसे लगी आग?](https://hindi.news18.com/world/south-asia-awami-league-leader-house-burnt-in-bangladesh-amid-shutdown-announcement-ws-l-11018232.html)
-*News18 Hindi (World)* - Nov 28, 11:12 IST (iso: 2026-11-28T05:42:10+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/07/sheikh-hasina-10-2026-07-4f63bb6e8df09fabf3a1bacb4cac5f53-1200x800.jpg -->
-
-बांग्लादेश में अवामी लीग नेता के घर में आग लगी। शॉर्ट सर्किट या सिलेंडर विस्फोट नहीं था। शेख हसीना की वापसी की खबर के बाद यह घटना हुई। Awami League Leader House Burnt: बांग्लादेश में शेख हसीना की वापसी की खबर मिलते ही अवामी लीग के समर्थक एक बार फिर से उत्साह में आ गए हैं. सरकार हसीना की वापसी नहीं चाहती और उनकी पार्टी पर प्रतिबंध बढ़ाए हैं.
-
-### [अग्नि-5 और K-4 मिसाइल से थर-थर कांप रहा चीन, चुपके-चुपके तैयार किया मिसाइल शील्‍ड, S-400 से कितना](https://hindi.news18.com/news/defence/china-hq29-hq19-ballistic-missile-shield-save-from-agni5-k4-long-range-missile-s400-air-defence-system-11017947.html)
-*News18 Hindi (World)* - Nov 28, 09:21 IST (iso: 2026-11-28T03:51:21+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/HQ-29-China-2026-11-b39dc83e0bdb3fb878255b36a60f718f-1200x800.jpg -->
-
-चीन ने बैलिस्टिक मिसाइलों से सुरक्षा के लिए नया डिफेंस सिस्टम तैयार किया है। यह कदम अग्नि-5 और K-4 मिसाइलों के खतरे को देखते हुए उठाया गया है। China Missile Defence System: देश और दुनिया में अल्‍ट्रा मॉडर्न टेक्‍नोलॉजी से वेपन सिस्‍टम डेवलप किए जा रहे हैं. स्‍टील्‍थ फाइटर जेट के साथ ही हाइपरसोनिक मिसाइल और ड्रोन ने आधुनिक युद्ध को और भी जटिल बना दिया है.
-
-### [भारत के बगल में सुबह-सुबह कांपी धरती, अफगानिस्तान में भूकंप, रिक्टर स्केल पर कितनी तीव्रता?](https://hindi.news18.com/world/south-asia-earthquake-today-news-earthquake-of-3-8-magnitude-hits-afghanistan-hindu-kush-region-bhukamp-samachar-11017860.html)
-*News18 Hindi (World)* - Nov 28, 09:07 IST (iso: 2026-11-28T03:37:12+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/earthquake-news-2026-10-533d9f5b784715b7bcba7e5febf313d6-1200x800.jpg -->
-
-अफगानिस्तान में शनिवार सुबह 3.8 तीव्रता का भूकंप आया। केंद्र 117 किलोमीटर गहराई में था। अभी तक जानमाल के नुकसान की खबर नहीं मिली है। नेशनल सेंटर फॉर सीस्मोलॉजी के मुताबिक, भूकंप का केंद्र 117 किलोमीटर की गहराई में था. फिलहाल किसी तरह के जान-माल के नुकसान की खबर नहीं है. हिंदुकुश क्षेत्र में लगातार भूकंप आते रहे हैं. अगस्त 2025 में यहां आए 6.0 तीव्रता के भूकंप में 2 हजार से ज्यादा लोगों की मौत हुई थी.
-
-### [1050 किलोमीटर प्रति घंटा की रफ्तार, 240 की दूरी तक मार करता है चीन का ‘पुष्पक विमान’, इस देश को](https://hindi.news18.com/world/china-china-h-6-strategic-bomber-loops-near-philippines-kd-63b-yj-12-and-yj-21-missile-reach-in-focus-11017552.html)
-*News18 Hindi (World)* - Nov 28, 05:01 IST (iso: 2026-11-27T23:31:03+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/China-H-6-Bombers-2026-11-0cb72f7c16f544988a812db78f5f1322-1200x800.jpg -->
-
-चीन का H-6 बमवर्षक विमान साउथ चाइना सी में फिलीपींस की राजधानी मनीला से 170 किलोमीटर दूर तक उड़ा। यह विमान 1050 किलोमीटर प्रति घंटे की रफ्तार से चल सकता है और KD-63B मिसाइलें ले जा सकता है। चीन के H-6 बमवर्षक विमान ने साउथ चाइना सी में अपनी ताकत दिखाई है. ये विमान फिलीपींस की राजधानी मनीला से करीब 170 किलोमीटर दूर तक उड़ता हुआ नजर आया.
-
----
-
-## यूरोप और रूस
-
-### ['टॉर्च-मोमबत्तियां पास रखो, बिजली रहेगी गुल', खंभे उखाड़े छतें उजाड़ीं, अब क्या करके मानेगा](https://hindi.news18.com/world/america-electricity-supply-halts-after-thanksgiving-storm-triggered-floods-caused-destruction-ws-l-11018594.html)
-*News18 Hindi (World)* - Nov 28, 14:01 IST (iso: 2026-11-28T08:31:09+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/typhoon-us-2026-11-7919d20bfaaa336249705b2ffc330a34-1200x800.jpg -->
-
-तूफान ने शहर और आसपास के इलाकों में बिजली की आपूर्ति बंद कर दी। तेज बर्फीली हवाओं के कारण अंधेरा छाया है। लोग मोमबत्तियों और टॉर्च का सहारा ले रहे हैं। त्योहारों के मौसम में भी ज़िंदगी प्रभावित हुई। Storm Causes Electricity Halt: तूफान कुछ इस तरह से आगे बढ़ रहा है कि उसने लोगों का जीना हराम कर रखा है.
-
-### [भारत-ब्रिटेन मिलकर बनाएंगे मैग्नेटिक नैनोरोबोट: शरीर की कोशिकाओं तक पहुंचेगी दवा; साइड इफेक्ट भी](https://www.amarujala.com/world/india-uk-scientists-join-forces-to-develop-magnetic-nanorobots-for-targeted-drug-delivery-2026-11-28)
-*Amar Ujala World* - Nov 28, 10:36 IST (iso: 2026-11-28T05:06:50+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/bharata-bratana-ka-naii-rasaraca-sa-thava-pahacana-haga-aasana_37c8ba66d8a9c27e460a8ac3e4184eb0.jpeg?w=1200&dpr=1.0 -->
-
-भारत और ब्रिटेन के वैज्ञानिक मिलकर मैग्नेटिक नैनोरोबोट विकसित कर रहे हैं। यह तकनीक दवा को सीधे लक्षित कोशिकाओं तक पहुंचाएगी। इससे दवा के साइड इफेक्ट में कमी आएगी। भारत-ब्रिटेन मिलकर बनाएंगे मैग्नेटिक नैनोरोबोट: शरीर की कोशिकाओं तक पहुंचेगी दवा; साइड इफेक्ट भी।
-
-### [इटली में शिक्षा सुधार कानून को मिली मंजूरी: स्कूलों में बुर्का-नकाब पर बैन, विदेशी छात्रों के लिए](https://www.amarujala.com/world/education-reform-law-approved-in-italy-burqa-and-niqab-banned-in-schools-what-has-changed-for-foreign-students-2026-11-28)
-*Amar Ujala World* - Nov 28, 08:36 IST (iso: 2026-11-28T03:06:23+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/jayarajaya-malna-parathhanamatara-ital_06c9b50da4b70ef79f183f0bcc0b4922.jpeg?w=1200&dpr=1.0 -->
-
-इटली ने शिक्षा सुधार कानून पारित किया है। स्कूलों में बुर्का और निकाब पहनना अब मना है। विदेशी छात्रों के लिए नए नियम लागू हुए हैं। यह कानून देश के शैक्षणिक माहौल को प्रभावित करेगा। इटली में शिक्षा सुधार कानून को मिली मंजूरी: स्कूलों में बुर्का-नकाब पर बैन, विदेशी छात्रों के लिए क्या बदला?
-
-### [कभी स्‍टील बिजनेस के थे बादशाह, बेटियों की शादी पर बेह‍िसाब बहाया पैसा, कर्ज न चुकाने पर अब घर की](https://hindi.news18.com/news/nation/pramod-mittal-bankrupt-indian-steel-businessman-family-struggle-to-save-london-home-lakshmi-mittal-brother-story-11017736.html)
-*News18 Hindi (World)* - Nov 28, 07:41 IST (iso: 2026-11-28T02:11:50+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/pramod-mittal-2026-11-7cb4c3bdf9b7087d188ed90bc730778d-1200x800.jpg -->
-
-प्रमोद मित्ता का लंदन में स्थित मेफेयर इलाके का बंगला लोन न चुकाने पर नीलामी की प्रक्रिया में है। उनके परिवार ने पहले इस्तांबुल और बार्सिलोना में बेटियों की शादियों पर भारी खर्च किया था। अब वे घर बचाने की कोशिश में हैं। प्रमोद मित्‍तल का लंदन में काफी नाम हुआ करता था. उन्‍होंने अपनी एक बेटी की शादी इस्‍तांबुल तो दूसरी की बार्सिलोना में की थी.
-
-### ['बुर्का-नकाब पहनना है, तो स्कूल मत आओ', सरकार का बड़ा एक्शन, मेलोनी के नए शिक्षा कानून ने मचाया](https://hindi.news18.com/world/europe-new-education-law-in-italy-bans-burqas-niqabs-face-cover-in-schools-30-percent-cap-on-foreign-students-11017696.html)
-*News18 Hindi (World)* - Nov 28, 06:52 IST (iso: 2026-11-28T01:22:52+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/Hijab-Burqa-2026-09-4ce1aa2eb685054f567932793b1c1126-1200x800.jpg -->
-
-इटली की सरकार ने नए शिक्षा कानून में स्कूलों में बुर्का और नकाब पहनने पर रोक लगा दी है। कानून के तहत छात्रों को अपनी पहचान छिपाने की अनुमति नहीं होगी। इस कदम से सार्वजनिक स्थानों पर पहचान के नियम बदल गए हैं। New Education Law Bans Burqas-Niqabs in School: सार्वजनिक जगहों पर मुंह ढकने को लेकर पहले से विवाद होता रहा है लेकिन इस बार इटली की सरकार ने जो नया कानून पास किया है, उसने हड़कंप मचा दिया है.
-
-### [कला के कद्रदान हैं तो बहाइए पसीना: जर्मनी में लगी अनोखी प्रदर्शनी, कसरत करते हुए कलाकृतियां देख रहे](https://www.amarujala.com/world/a-unique-exhibition-in-germany-where-visitors-view-artworks-while-exercising-2026-11-28)
-*Amar Ujala World* - Nov 28, 05:37 IST (iso: 2026-11-28T00:07:20+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/jaramana-ma-anakha-paratharashana_e91fb743d50d9afebc85687d877e9527.jpeg?w=1200&dpr=1.0 -->
-
-जर्मनी में एक अनोखी कला प्रदर्शनी शुरू हुई है। यहाँ दर्शक कसरत करते हुए कलाकृतियों को देखते हैं, जिससे शारीरिक गतिविधि और कला का अनुभव एक साथ होता है। कला के कद्रदान हैं तो बहाइए पसीना: जर्मनी में लगी अनोखी प्रदर्शनी, कसरत करते हुए कलाकृतियां देख रहे।
 
 ---
 
 ## दुनिया
 
-### [खेत में बीप-बीप बोला मेटल डिटेक्टर, खजाना समझकर हुई खुदाई, 'टन्न' से टकराई तबाही तो भागी-दौड़ी आई](https://hindi.news18.com/world/rest-of-world-rare-discovery-in-farm-metal-detector-found-world-war-era-250-kg-bomb-in-estonia-shocking-people-11018435.html)
-*News18 Hindi (World)* - Nov 28, 12:53 IST (iso: 2026-11-28T07:23:05+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/ww2-bomb-2-2026-11-d4246195e7e253750a66195895ee9a2b-1200x800.jpg -->
+### [सुबह होते ही आया भयानक भूकंप, एयरपोर्ट पर मची तबाही, कांट टूटे-टाली गई विमानों की लैंड़िंग](https://hindi.news18.com/world/america-5-magnitude-earthquake-rocks-southern-california-lax-windows-shatter-plane-aborts-landing-11019702.html)
+*News18 Hindi (World)* - Nov 29, 00:02 IST (iso: 2026-11-28T18:32:47+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2020/12/breaking-alert.jpeg -->
 
-खेत में मेटल डिटेक्टर की आवाज सुनकर लोगों ने खजाने की उम्मीद में खुदाई शुरू की। खुदाई के दौरान टन्न की आवाज आई और तबाही सामने आई। लोगों ने तुरंत वहां से भाग खड़ी की। घटना का विस्तृत विवरण उपलब्ध नहीं है। Shocking Discovery in Farm: कई बार हमें ये अंदाजा भी नहीं होता है कि अगले ही पल क्या हमारा इंतजार कर रहा है.
+सुबह के समय आए भयानक भूकंप ने एयरपोर्ट में तबाही मचा दी। टूटे-फूटे कांटों के कारण विमानों की लैंडिंग को टालना पड़ा। सुबह होते ही आया भयानक भूकंप, एयरपोर्ट पर मची तबाही, कांट टूटे-टाली गई विमानों की लैंड़िंग।
 
-### [क्यों भाजपा के साथ आए स्टालिन, किस 'डर' से बदला 'हर हाल में विरोध' वाला रुख?](https://www.amarujala.com/india-news/dmk-delimitation-bill-stance-change-since-april-explained-1971-census-2051-freeze-condition-2026-11-28)
-*Amar Ujala Breaking* - Nov 28, 12:18 IST (iso: 2026-11-28T06:48:22+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/dmk-delimitation-bill_b90bfc761a948e4e2af52cba9f581677.jpeg?w=1200&dpr=1.0 -->
+### [शिवसेना का सांसदों को व्हीप, लोकसभा में अलग बैठेगी DMK… परिसीमन पर जानें दिन भर क्या हुआ](https://www.abplive.com/news/india/shivsena-ubt-issued-whip-and-dmk-mps-sitting-arrangement-changes-in-lok-sabha-after-announce-support-for-delimitation-bill-3220736)
+*ABP Live (India)* - Nov 28, 23:30 IST (iso: 2026-11-28T18:00:23+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/5b6e238ca07c83e4f2c065f0a933682917958884060631126_original.png?impolicy=abp_cdn&imwidth=1200 -->
 
-द्रमुक ने परिसीमन विधेयक पर सहयोग का फैसला लिया। 1971 की जनगणना के आधार पर तमिलनाडु की सीट हिस्सेदारी 7.18% रहने का डर मुख्य कारण है। पार्टी ने अपनी शर्तें रखी हैं। परिसीमन विधेयक पर द्रमुक के रुख में बदलाव की क्या हैं मुख्य वजहें? जानिए 1971 की जनगणना, तमिलनाडु की 7.18% सीट हिस्सेदारी और द्रमुक की शर्तों का पूरा विश्लेषण।
+बीजेपी ने परिसीमन और महिला आरक्षण बिलों के लिए विपक्षी दलों का समर्थन जुटाया है। तमिलनाडु की डीएमके पार्टी ने इन बिलों को समर्थन देने की घोषणा की है। शिवसेना के सांसदों को व्हीप जारी किया गया। मोदी सरकार की तरफ से संसद के विशेष सत्र में पेश किए जाने वाले परिसीमन बिल और महिला आरक्षण बिल को लेकर देश की राजनीति में हलचल तेज हो गई है.
+
+### [कार्तिगई दीपम प्रज्वलन पर अमित शाह, राजनाथ सिंह ने जताई खुशी, सभी के लिए मांगा आशीष](https://www.abplive.com/news/india/amit-shah-rajnath-singh-hails-lord-murugan-after-karthigai-deepam-lit-at-thiruparankundram-hill-3220685)
+*ABP Live (India)* - Nov 28, 23:30 IST (iso: 2026-11-28T18:00:19+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/fea6663627f165a36d05cac828339eb517958767976031126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+केंद्रीय गृह मंत्री अमित शाह ने मदुरै में कार्तिगई दीपम प्रज्वलन पर खुशी जताई। उन्होंने भगवान मुरुगन से सभी के लिए सुख, स्वास्थ्य और समृद्धि की कामना की। केंद्रीय गृह मंत्री अमित शाह ने शनिवार को मदुरै में तिरुपरनकुंद्रम पहाड़ी के दीपथून पर कार्तिगई दीपम जलने को लेकर खुशी जताई है. उन्होंने भगवान मुरुगन के जयकारा लगाने के साथ उनसे सभी के लिए सुख, स्वास्थ्य और समृद्धि का आशीर्वाद की कामना की है.
+
+### [DMK के परिसीमन बिल के समर्थन पर TVK ने खोला मोर्चा, स्टालिन को बताया ‘सावरकर 2.0’](https://www.abplive.com/news/india/tvk-attacks-on-mk-stalin-calls-him-savarkar-2-0-over-dmk-supporting-delimitation-bill-3220595)
+*ABP Live (India)* - Nov 28, 23:30 IST (iso: 2026-11-28T18:00:12+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/122acfe274f567ed832eeb0ed2eb886217958620634061126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+तमिलगा वेत्री कझगम ने DMK प्रमुख एमके स्टालिन पर परिसीमन बिल समर्थन का आरोप लगाया। पार्टी ने स्टालिन की RSS ड्रेस में एडिटेड तस्वीर साझा कर उन्हें सावरकर 2.0 बताया। तमिलनाडु के मुख्यमंत्री सी. जोसेफ विजय की पार्टी तमिलगा वेत्री कझगम (TVK) ने केंद्र सरकार के संशोधित परिसीमन बिल का समर्थन करने के लिए DMK प्रमुख एमके स्टालिन पर निशाना साधा है.
+
+### [शरद पवार की पार्टी पर राहुल गांधी का बड़ा बयान, ‘इंडिया गठबंधन में उनकी भूमिका...'](https://www.abplive.com/news/india/rahul-gandhi-remarks-on-sharad-pawar-ncp-sp-role-in-india-bloc-if-they-support-govt-delimitation-bill-3220729)
+*ABP Live (India)* - Nov 28, 23:14 IST (iso: 2026-11-28T17:44:36+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/adae779104b71db6a03c823531f8ac8a17958856756881126_original.png?impolicy=abp_cdn&imwidth=1200 -->
+
+राहुल गांधी ने संसद में परिसीमन बिल की आलोचना की। उन्होंने कहा कि अंतिम मतदान से स्पष्ट होगा कि कौन लोकतंत्र की रक्षा कर रहा है। NCP-SP की भूमिका पर भी सवाल उठाए। लोकसभा में विपक्ष के नेता राहुल गांधी ने मोदी सरकार की तरफ से पेश किए जाने वाले परिसीमन बिल की आलोचना की है. इस दौरान राहुल गांधी ने संसद में प्रस्तावित विधेयक को गैर-NDA दलों के संभावित समर्थन पर भी बड़ा बयान दिया है.
+
+### ['OBC सब-कोटा और...', राहुल गांधी का निष्पक्ष परिसीमन बिल, 4 प्वाइंट्स में बताया](https://www.abplive.com/news/india/rahul-gandhi-impartial-delimitation-bill-obc-sub-quota-explained-in-four-points-3220732)
+*ABP Live (India)* - Nov 28, 23:12 IST (iso: 2026-11-28T17:42:35+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/6af27d3cdbcfb91ffb576d75314d479b1795886769072708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+राहुल गांधी ने परिसीमन बिल को लोकसभा की सीटों को 850 करने का प्रयास बताया। उन्होंने आरोप लगाया कि यह निर्वाचन क्षेत्रों को मनमाने तरीके से बदलने की छूट देता है। संसद के विशेष सत्र से ठीक पहले लोकसभा में नेता प्रतिपक्ष राहुल गांधी ने शनिवार को प्रेस कॉन्फ्रेंस में केंद्र सरकार के प्रस्तावित परिसीमन बिल को लेकर हमला बोला है.
+
+### [परिसीमन बिल पर नए समीकरण, स्टालिन के समर्थन के बाद अमित शाह के घर DMK सांसदों की बड़ी बैठक](https://www.abplive.com/news/india/dmk-mp-meeting-at-amit-shah-residence-delimitation-bill-2026-mk-stalin-support-3220704)
+*ABP Live (India)* - Nov 28, 21:20 IST (iso: 2026-11-28T15:50:49+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/71767374172bd679c8594b92c6fbb7991795879679014708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+डीएमके प्रमुख एमके स्टालिन ने परिसीमन बिल का समर्थन किया है। इसके बाद पार्टी के वरिष्ठ सांसदों का दल अमित शाह से मुलाकात कर रहा है। बैठक में कनिमोझी, दयानिधि मारन और टी आर बालू शामिल हैं। यह बैठक केंद्रीय गृहमंत्री के आवास पर हो रही है। परिसीमन बिल पर डीएमके के रुख में आए बड़े बदलाव के बाद सियासी गलियारों में हलचल और तेज हो गई है.
+
+### [तिरुप्परनकुंद्रम पहाड़ी पर एक तरफ दीपथून पर जला दीप, दूसरी तरफ दरगाह में पढ़ी गई नमाज](https://www.abplive.com/news/india/on-tirupparankundram-hill-lamp-lit-at-deepathoon-while-namaz-were-offered-at-the-dargah-also-3220661)
+*ABP Live (India)* - Nov 28, 19:35 IST (iso: 2026-11-28T14:05:23+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/4a8694afce7d8c7c1f731078291f7da817958731287431484_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+तिरुप्परनकुंद्रम पहाड़ी पर सुप्रीम कोर्ट के आदेश के दिन 100 से अधिक मुस्लिम श्रद्धालुओं ने नमाज अदा की। वे हजरत सुल्तान सिकंदर बादशाह औलिया दरगाह पर एकत्र हुए। उसी दिन कोर्ट ने दीपथून पर दीप प्रज्वलन का आदेश दिया था। तिरुप्परनकुंद्रम पहाड़ी स्थित दरगाह में मुस्लिम समुदाय के लोगों ने इबादत की है. यह इबादत उसी दिन हुई जिस दिन सुप्रीम कोर्ट ने कोर्ट की अवमानना के बाद फिरसे दीपथून पर दीप प्रज्ज्वलन का आदेश दिया था.
+
+### ['2024 का चुनाव फेक तो राहुल दें इस्तीफा', BJP का पलटवार, बोली- वोट चोरी का नहीं दिया सबूत](https://www.abplive.com/news/india/bjp-ravi-shankar-prasad-reply-rahul-gandhi-resign-on-delimitation-bill-vote-chori-3220669)
+*ABP Live (India)* - Nov 28, 19:25 IST (iso: 2026-11-28T13:55:49+00:00)
+<!-- image: https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/28/183b96ceb4fb129b7b3895ee1a97a78d1795873967609708_original.jpg?impolicy=abp_cdn&imwidth=1200 -->
+
+बीजेपी नेता रविशंकर प्रसाद ने राहुल गांधी के परिसीमन बिल पर बयान का पलटवार किया। उन्होंने कहा कि अगर 2024 का चुनाव फेक था तो राहुल गांधी इस्तीफा दें। प्रसाद ने कांग्रेस को महिला विरोधी और अराजकता फैलाने वाला बताया। परिसीमन बिल पर लोकसभा में नेता प्रतिपक्ष राहुल गांधी के बयान पर बीजेपी ने पलटवार किया है. बीजेपी नेता रविशंकर प्रसाद ने कहा कि राहुल गांधी का बयान अराजकता और हताशा से भरा हुआ है.
 
 ---
 
 ## अमेरिका
 
-### [कोरोना वैक्सीन के थे साइड इफेक्ट... मार्क जकरबर्ग ने माना, एलन मस्क ने भी भरी हामी](https://hindi.news18.com/world/america-covid-19-vaccine-side-effects-hidden-by-biden-administration-mark-zukerberg-elon-musk-confession-11017975.html)
-*News18 Hindi (World)* - Nov 28, 11:32 IST (iso: 2026-11-28T06:02:04+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/kids-corona-2026-10-cb4b32d5673b56f505750852a964c65a-1200x800.jpg -->
+### [3 राज्यों में तूफान का आपातकाल अलर्ट, अगले 48 घंटे सबसे खौफनाक, बिजली-पानी-घर कुछ नहीं छोड़ा](https://hindi.news18.com/world/america-thanksgiving-storm-slams-us-east-coast-emergency-in-new-jersey-new-york-and-virginia-over-160000-without-power-11019652.html)
+*News18 Hindi (World)* - Nov 28, 23:50 IST (iso: 2026-11-28T18:20:35+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Monster-Typhoon-2026-11-9ee8373b61b94c0291b35c107c848191-1200x800.jpg -->
 
-मार्क जकरबर्ग ने कोविड वैक्सीन के साइड इफेक्ट्स को मान्यता दी। एलन मस्क ने भी इस बात की पुष्टि की। पांच साल बाद यह जानकारी सामने आई है। COVID 19 Vaccine side effects: जब दुनिया कोविड-19 की जद में थी और जल्द से जल्द इससे छुटकारा पाने के उपाय ढूंढे जा रहे थे, उसी वक्त अमेरिका ने पहली फाइजर वैक्सीन लॉन्च की थी.
+अमेरिका के पूर्वी तट पर तेज तूफान ने न्यू जर्सी, न्यूयॉर्क और वर्जीनिया में आपातकालीन स्थिति घोषित करवाई। 1.60 लाख से अधिक घरों की बिजली गुल हो गई और सड़कों को नुकसान पहुंचा। अमेरिका में थैंक्सगिविंग के वक्त पूर्वी तट पर आए तेज तूफान ने भारी तबाही मचाई है. तेज हवाओं और बाढ़ से कई इलाकों का बुरा हाल है.
+
+---
+
+## यूरोप और रूस
+
+### [रोक दी गई हजारों लोगों की पेंशन, आनन-फानन में सरकार का बड़ा ऐलान, मंथ एंड में गवर्नमेंट सिस्टम पर](https://hindi.news18.com/world/britain-cyber-attack-hits-pensions-and-benefits-portals-as-uk-dwp-confirms-government-warning-issued-11019610.html)
+*News18 Hindi (World)* - Nov 28, 23:16 IST (iso: 2026-11-28T17:46:48+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/UK-Cyber-Attack-2026-11-8d07e90d2d68928b22c07756fb5e79fe-1200x800.jpg -->
+
+ब्रिटेन के DWP पर साइबर हमले से स्टेट पेंशन और यूनिवर्सल क्रेडिट सेवाएं ठप हो गईं। लाखों लोगों को लॉगिन और भुगतान में दिक्कत हुई। सरकार ने नियमित भुगतान जारी रहने का आश्वासन दिया। ब्रिटेन के वर्क एंड पेंशन डिपार्टमेंट यानी DWP ने मान लिया है कि उसके सिस्टम पर साइबर हमला हुआ है. इससे स्टेट पेंशन, यूनिवर्सल क्रेडिट और पीआईपी जैसी ऑनलाइन सेवाएं ठप पड़ गईं.
+
+### [अभी-अभी आया 6.7 तीव्रता का भूकंप, घर-ऑफिस से निकलकर भागे लोग, रिंग ऑफ फायर में मची हलचल](https://hindi.news18.com/world/europe-earthquake-news-today-6-point-7-magnitude-earthquake-strikes-russia-kamchatka-near-yelizovo-tremors-hit-pacific-ring-of-fire-11019476.html)
+*News18 Hindi (World)* - Nov 28, 21:55 IST (iso: 2026-11-28T16:25:37+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/earthquake-india-3-2026-11-35f689d724905c5b5e337d987251b62d-1200x800.jpg -->
+
+रूस के कामचटका प्रायद्वीप के येलिजोवो के पास 28 नवंबर को 6.7 तीव्रता का भूकंप आया। झटका 188 से 205 किलोमीटर गहराई पर महसूस हुआ। डर के मारे लोग घरों और दफ्तरों से बाहर निकल आए। रिंग ऑफ फायर क्षेत्र में हलचल मच गई। 28 नवंबर की शाम को रूस के एकदम छोर वाले पूर्वी इलाके में भूकंप आया. ये झटका कामचटका प्रायद्वीप के येलिजोवो के पास महसूस किया गया.
+
+### [रात भर हर 15 मिनट में बजती हैं चर्च की 6 घंटियां, 84 साल पुरानी परंपरा, रोकने को वोटिंग हुई तो हार](https://hindi.news18.com/world/europe-france-town-church-bells-ring-every-15-minutes-each-night-11019444.html)
+*News18 Hindi (World)* - Nov 28, 20:43 IST (iso: 2026-11-28T15:13:30+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/France-Church-Bells-AI-2026-11-e007a05737ff1d5cadbddc695364efa7-1200x800.jpg -->
+
+फ्रांस के एक शहर में 1942 से हर 15 मिनट में चर्च की घंटियां बजती हैं। रात 10 से सुबह 7 बजे तक ये 726 बार गूंजती हैं। नए निवासियों ने शोर की शिकायत की थी। 5515 आबादी वाले शहर में वोटिंग में 749 लोगों ने हिस्सा लिया। तीन-चौथाई ने परंपरा जारी रखने का फैसला किया। फ्रांस के एक शहर में चर्च की घंटियों को लेकर अनोखा विवाद छिड़ गया है.
+
+### [ट्रंप के दामाद बन गए ‘शकुनी’, इस देश में प्रधानमंत्री के खिलाफ शुरू हो गई ‘महाभारत’](https://hindi.news18.com/world/europe-albania-protests-turn-violent-in-tirana-thousands-demand-pm-edi-rama-resign-amid-jared-kushner-resort-row-11019412.html)
+*News18 Hindi (World)* - Nov 28, 20:19 IST (iso: 2026-11-28T14:49:56+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Albania-Protests-2026-11-1307b1c5a515b4b92c3dcfba749eef74-1200x800.jpg -->
+
+तिराना में अल्बानिया की 114वीं आजादी जयंती पर हजारों लोगों ने प्रधानमंत्री एडी रामा के इस्तीफे की मांग की। प्रदर्शनकारियों ने जेरेड कुशनर से जुड़े लक्जरी परियोजना के विरोध में 'फ्लेमिंगो मूवमेंट' शुरू की थी। इस दौरान पुलिस और प्रदर्शनकारियों के बीच झड़पें हुईं। अल्बानिया की राजधानी तिराना में आजादी की 114वीं सालगिरह पर बड़ा बवाल हुआ. सरकार के खिलाफ प्रदर्शन के दौरान जमकर हंगामा और झड़पें हुईं, हजारों लोग सड़कों पर उतरे और पीएम एडी रामा का इस्तीफा मांगने लगे.
+
+### [2000 साल पहले जहां काने राजा ने दबाया था खजाना वहां चल रही थी खुदाई, अचानक आने लगी ठक-ठक की आवाज](https://hindi.news18.com/news/ajab-gajab/viral-archaeologists-uncover-2000-year-old-gallic-coins-sacred-site-clues-and-skull-fragments-in-france-dig-khazana-found-11019317.html)
+*News18 Hindi (World)* - Nov 28, 19:48 IST (iso: 2026-11-28T14:18:02+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Archaeologists-Uncover-2000-Year-Old-Gallic-Coins-2026-11-1092c467fe6c14f2bb96ff13f97574d8-1200x800.jpg -->
+
+फ्रांस के ब्यूर इलाके में सिगियो प्रोजेक्ट से जुड़ी खुदाई में 2000 साल पुराने लकड़ी के ढांचे के निशान मिले। साथ में 28 गॉलिक सिक्के, धातु का पहिया और खोपड़ी के टुकड़े बरामद हुए। इन सिक्कों की कला फिलिप द्वितीय के युग से जुड़ी मानी जा रही है। उत्तर-पूर्वी फ्रांस के ब्यूर इलाके में सिगियो प्रोजेक्ट से पहले खुदाई चल रही थी.
 
 ---
 
 ## मध्य पूर्व और अफ्रीका
 
-### [होर्मुज पर अमेरिका-ईरान का दंगल, ओमान से गुजर रहे शिप पर हमला, सेंटकॉम ने बताया क्यों ठोका](https://hindi.news18.com/world/middle-east-us-attack-on-commercial-ship-near-oman-centcom-gives-information-ws-l-11017917.html)
-*News18 Hindi (World)* - Nov 28, 08:41 IST (iso: 2026-11-28T03:11:56+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/10/hormuz-attack-1-2026-10-967cd9ebf2b1bb1608e1ff6fc16c8e2f-1200x800.jpg -->
+### [नेतन्याहू ने खुद आइजनकोट को थमा दी प्रधानमंत्री की कुर्सी, दरियादिली या सत्ता में रहने का नया](https://hindi.news18.com/world/middle-east-netanyahu-offers-to-be-alternate-pm-under-gadi-eisenkot-in-israel-unity-government-push-israel-politics-twist-11019552.html)
+*News18 Hindi (World)* - Nov 28, 22:41 IST (iso: 2026-11-28T17:11:06+00:00)
+<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/11/Netanyahu-Offers-to-Be-Alternate-PM-Under-Gadi-Eisenkot-2026-11-e6337ca7764e2685f97f1715df5aa8cf-1200x800.jpg -->
 
-अमेरिकी सेंट्रल कमांड ने ओमान से गुजरते एक व्यापारी जहाज पर हमला कर उसे निष्क्रिय कर दिया। यह कदम अमेरिकी नाकेबंदी को गंभीरता से लेने के लिए उठाया गया। US Attack on Commercial Ship: स्ट्रेट ऑफ होर्मुज को लेकर अमेरिका और ईरान के बीच का तनाव खत्म नहीं हुआ है. इसी बीच अमेरिका की सेंट्रल कमांड ने दावा किया है कि वो उसने ओमान से गुजर रहे एक जहाज पर इसलिए हमला करके उसे निष्क्रिय कर दिया है.
+इजरायल में नेतन्याहू ने राष्ट्रीय एकता सरकार के लिए प्रस्ताव रखा है। इसमें यशर पार्टी के गादी आइजनकोट पहले प्रधानमंत्री बनेंगे। नेतन्याहू शुरुआत में वैकल्पिक प्रधानमंत्री की भूमिका संभालेंगे। वित्त मंत्री स्मोट्रिच ने इसे ईमानदार कदम बताया है। इजरायल की राजनीति में बड़ा उलटफेर हुआ है. पीएम बेंजामिन नेतन्याहू ने नया दांव चला है. उन्होंने राष्ट्रीय एकता सरकार के लिए बड़ी पेशकश की है.
 
-### [ईरान के ऊर्जा संकट पर अमेरिकी वित्त मंत्री का पेजेश्कियान पर तंज](https://www.patrika.com/world-news/iran-energy-crisis-scott-bessent-masoud-pezeshkian-winter-remark-21096802)
-*Patrika (World)* - Nov 28, 08:37 IST (iso: 2026-11-28T03:07:51+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Scott-Bessent.webp -->
+### [मिडिल-ईस्ट में फिर बढ़ा तनाव, ईरान ने इराक को दी ट्रंप से दूर रहने की चेतावनी, कहा- अमेरिका का](https://www.patrika.com/world-news/iran-warns-iraq-against-donald-trump-21100316)
+*Patrika (World)* - Nov 28, 18:36 IST (iso: 2026-11-28T13:06:48+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Donald-Trump_0d3bb6.webp -->
 
-अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने ईरान के ऊर्जा संकट पर पेजेश्कियान का मजाक उड़ाया। बेसेंट ने एक्स पर लिखा कि उनकी सर्दियां शानदार हों। Iran Energy Crisis: ईरान में गहराते ऊर्जा संकट के बीच अमेरिकी वित्त मंत्री स्कॉट बेसेंट ने राष्ट्रपति मसूद पेजेश्कियान के बिजली-ऊर्जा बचाने के संदेश पर तंज कसा है। मंद रोशनी और बिना हीटिंग वाले दफ़्तर में काम करते पेज़ेश्कियान से जुड़ी रिपोर्ट पर बेसेंट ने शुक्रवार (स्थानीय समय) को एक्स पर लिखा, “बहुत बढ़िया।
+ईरान के सर्वोच्च नेता के सलाहकार मोहम्मद मुखबर ने इराक को अमेरिका के साथ नजदीकियों से दूर रहने की चेतावनी दी है। यह कदम दोनों देशों के बढ़ते संबंधों के बीच उठाया गया है। इराक और अमेरिका के बीच बढ़ी नजदीकियों से ईरान की बेचैनी बढ़ गई है। इस बीच, ईरान के सर्वोच्च नेता के सलाहकार मोहम्मद मुखबर ने इराक को अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप के करीब जाने को लेकर आगाह किया है।
 
-### [एआई वीडियो से अमेरिकी टेक कंपनियों की तबाही दर्शायी; जाने किस-किस को निशाने पर बताया?](https://www.amarujala.com/world/iran-ai-video-threatens-us-tech-companies-headquarters-israel-military-links-news-updates-2026-11-28)
-*Amar Ujala World* - Nov 28, 08:28 IST (iso: 2026-11-28T02:58:23+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/iran-ai-video_13bab07602c2191e10f93ac0963c23a1.jpeg?w=1200&dpr=1.0 -->
+### [यमन के दक्षिणी तट पर बड़ी वारदात: हथियारबंद हमलावरों ने कार्गो शिप किया हाईजैक](https://www.patrika.com/world-news/gulf-of-aden-cargo-ship-hijacked-yemen-ukmto-21100263)
+*Patrika (World)* - Nov 28, 18:24 IST (iso: 2026-11-28T12:54:12+00:00)
+<!-- image: https://cms.patrika.com/wp-content/uploads/2026/11/Ship-Hijacking.webp -->
 
-ईरान की सरकारी मीडिया ने टेलीग्राम पर एआई वीडियो साझा किया। इसमें अमेजन, माइक्रोसॉफ्ट और स्पेसएक्स के मुख्यालयों पर हमले दिखाए गए हैं। वीडियो में ड्रोन हमले और धमाकों के दृश्य शामिल हैं। यह डिजिटल प्रोपागैंदा का हिस्सा है। ईरान की सरकारी मीडिया ने टेलीग्राम पर एक एआई-जनरेटेड वीडियो साझा किया है। वीडियो में अमेजन, माइक्रोसॉफ्ट और स्पेसएक्स के मुख्यालयों पर ड्रोन हमले और धमाकों के दृश्य दिखाए गए हैं।
-
-### [इस्राइल में सत्ता की नई पेशकश: नेतन्याहू खुद छोड़ सकते हैं पीएम की कुर्सी, गादी बोले- आठ दिन में](https://www.amarujala.com/world/israel-government-formation-gadi-eisenkot-benjamin-netanyahu-rotational-pm-deal-updates-hindi-2026-11-28)
-*Amar Ujala World* - Nov 28, 08:24 IST (iso: 2026-11-28T02:54:27+00:00)
-<!-- image: https://staticimg.amarujala.com/assets/images/2026/11/28/isarail-ma-sarakara-gathana-ka-naii-pashakasha_e7e93332c5fa1e7893beed5c65f064ff.jpeg?w=1200&dpr=1.0 -->
-
-इस्राइल में नई सत्ता गठन की पेशकश आई है। नेतन्याहू पीएम पद छोड़ने के लिए तैयार हैं। गैडी आइज़नकोट ने आठ दिन में सरकार बनाने का वादा किया है। यह घूर्णन आधारित समझौता है। इस्राइल में सत्ता की नई पेशकश: नेतन्याहू खुद छोड़ सकते हैं पीएम की कुर्सी, गादी बोले- आठ दिन में।
-
-### [मुस्लिम देश की लुट रही लाज, मीटिंग-मीटिंग खेल रहे तुर्की-पाकिस्तान, हूतियों के आगे बौने मक्का पैक्ट](https://hindi.news18.com/world/middle-east-mecca-pact-meeting-turkey-pakistan-saudi-arabia-amid-hard-hitting-attacks-of-houthi-rebels-11017841.html)
-*News18 Hindi (World)* - Nov 28, 08:07 IST (iso: 2026-11-28T02:37:16+00:00)
-<!-- image: https://images.news18.com/ibnkhabar/uploads/2026/09/mecca-pact-2026-09-16d9e8b477de2d1156cc4000bfc2a014-1200x800.jpg -->
-
-मक्का पैक्ट हूती हमलों के खिलाफ असफल रहा। तुर्की और पाकिस्तान ने मदद नहीं की। ईरान और उसके प्रॉक्सी ने क्षेत्र में अस्थिरता फैलाई है। अमेरिका भी इस गतिशीलता को नियंत्रित नहीं कर पा रहा है। Mecca Pact Fail Against Houthi Attack: पश्चिम एशिया में ईरान और उसके प्रॉक्सी गैंग ने मिलकर जो गदर काट रखा है, उसका तोड़ न तो अमेरिका निकाल पा रहा है और न ही कोई और देश.
-
-### [हूती विद्रोहियों पर यमन की सेना की बड़ी कार्रवाई, 24 घंटे में 726 हमलों में 121 लड़ाके हताहत, 81](https://www.patrika.com/world-news/operation-dawn-of-yemen-army-726-attacks-houthi-121-casualties-21096696)
-*Patrika (World)* - Nov 28, 07:35 IST (iso: 2026-11-28T02:05:06+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/yemen-army-airstrikes.webp -->
-
-यमन की सेना ने हूती विद्रोहियों पर बड़ी कार्रवाई की। 24 घंटों में 726 हमले किए गए। 121 लड़ाके मारे या घायल हुए। 81 सैन्य वाहन और युद्ध उपकरण नष्ट किए गए। Dawn of Yemen operation: यमन में चल रहे सैन्य संघर्ष के बीच सरकारी सेना ने हूती विद्रोहियों के खिलाफ अपने अभियान तेज कर दिए हैं। यमन की सरकारी सेना का दावा है कि पिछले 24 घंटों में उन्होंने हूती ठिकानों पर 726 हमले किए हैं।
-
-### [अमेरिका ने ईरान के दावों को बताया झूठा, कहा- न कोई एयरक्राफ्ट कैरियर क्षतिग्रस्त हुआ, न होर्मुज पर](https://www.patrika.com/world-news/centcom-rejects-iran-claims-oil-tankers-abraham-lincoln-hormuz-toll-21096684)
-*Patrika (World)* - Nov 28, 06:44 IST (iso: 2026-11-28T01:14:17+00:00)
-<!-- image: https://cms.patrika.com/wp-content/uploads/2026/10/hormuz.webp -->
-
-अमेरिकी सेंट्रल कमांड ने ईरान के दावों को झूठा बताकर खारिज कर दिया है। कमांड ने कहा कि यूएसएस अब्राहम लिंकन पर कोई हमला नहीं हुआ। ईरान के पास अब कोई सक्षम नौसेना नहीं बची है। अमेरिकी सेंट्रल कमांड (CENTCOM) ने एक ईरानी सैन्य कमांडर द्वारा 24 घंटे के भीतर किए गए तीन बड़े दावों को पूरी तरह से झूठा और मनगढ़ंत बताकर खारिज कर दिया है।
+यमन के दक्षिणी तट पर बलहाफ से दक्षिण-पश्चिम में हथियारबंद लोगों ने एक कार्गो जहाज का अपहरण किया। घटना अदन की खाड़ी में हुई, जहाँ जहाज पर अनधिकृत रूप से चढ़ाई की गई। Cargo Ship Hijacked: यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस (UKMTO) के अनुसार, शनिवार को यमन के दक्षिणी तट के पास अदन की खाड़ी में हथियारबंद लोगों ने एक मालवाहक जहाज (कार्गो शिप) का अपहरण कर लिया।
 
 ---
 

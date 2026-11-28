@@ -1,6 +1,6 @@
 # 🌍 GeoPulse Newsletter
 
-**Updated:** November 28, 2026 16:30 IST
+**Updated:** November 29, 2026 00:11 IST
 
 ---
 
@@ -18,12 +18,6 @@ Al-Qaeda in the Sahel has intensified attacks on urban centers. Military respons
 
 UNHCR reports that deep funding cuts are weakening protection for refugees and stateless women facing gender-based violence. The agency highlights the case of Mariam, a survivor of a decade of captivity and rape by Boko Haram. Reduced budgets directly limit the support available to these at-risk individuals. The cuts compromise the safety and recovery services provided to survivors of conflict and persecution.
 
-### [Can conflict resolution keep pace as AI and drones reshape war?](https://news.un.org/feed/view/en/story/2026/11/1168866)
-*UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026_UNISFA_Abyei_Pakistan_peacekeepers.jpg/image560x340cropped.jpg -->
-
-The Security Council is weighing how AI and drones reshape warfare. Guterres noted these technologies are fuelling record conflict levels. Disinformation spreads rapidly, complicating peace efforts. The UN is assessing how to keep pace with these changes. When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented ways, fuelling record levels of conflict.
-
 ---
 
 ## Middle East & Africa
@@ -33,6 +27,12 @@ The Security Council is weighing how AI and drones reshape warfare. Guterres not
 <!-- image: https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 -->
 
 Crisis Group analysts discussed the deployment of Algerian troops in Niger. They examined how this military presence affects regional security balances. The conversation highlighted shifting dynamics in the Sahel. Dans cet épisode d’Afrique 360°, Enrica Picco et Rinaldo Depagne reçoivent Ibrahim Yahaya Ibrahim, Directeur Adjoint du Projet Sahel, Ibrahim Maïga, Conseiller Spécial pour le Sahel et Michaël Ayari, Analyste Senior pour la Tunisie et l’Algérie à Crisis Group, pour parler du déploiement de troupes algériennes au Niger et des répercussions de cette présence militaire sur les équilibres sécuritaires.
+
+### [Trump crackdown shatters US hopes for Guatemalans displaced by climate crisis](https://www.theguardian.com/world/2026/nov/28/guatemala-climate-crisis-trump-deportation-crackdown)
+*The Guardian* - Nov 28, 21:30 IST (iso: 2026-11-28T16:00:44+00:00)
+<!-- image: https://i.guim.co.uk/img/media/b89ec80234738b8d7d92f09174624f3e678927ab/1561_521_6229_4983/master/6229.jpg?width=140&quality=85&auto=format&fit=max&s=cdc42eb6d96ac3ca7855ceacd788690d -->
+
+Drought in eastern Guatemala has left maize crops stunted and rural livelihoods collapsing, pushing more Indigenous Maya Ch’orti’ residents toward migration. The US crackdown on deportations has eliminated the traditional safety net for these climate-displaced families. With local farmland bone dry and northern options closed, rural Guatemalans face a shrinking set of survival strategies. The combination of environmental failure and strict border enforcement traps communities in a cycle of poverty and displacement.
 
 ### [Hamas says Israel tried to kill chief’s son in Gaza](https://www.thehindu.com/news/international/hamas-says-israel-tried-to-kill-chiefs-son-in-gaza/article71752540.ece)
 *The Hindu (International)* - Nov 28, 10:55 IST (iso: 2026-11-28T05:25:04+00:00)
@@ -72,21 +72,15 @@ Sogand Sayadi, a sixteen-year-old Iranian girl, died on November 14 after allege
 
 ### [Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’](https://news.un.org/feed/view/en/story/2026/11/1168875)
 *UN News* - Nov 25, 17:30 IST (iso: 2026-11-25T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/25-11-2026_Ziad_Gaza_Widows_2.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/25-11-2026_Ziad_Gaza_Widows_2.jpg/image560x340cropped.jpg -->
 
 Widows in Gaza now manage household duties, shelter, and education from temporary tents after losing their husbands in the war. These women describe carrying double the burden while lacking legal protections. Their testimony highlights the severe economic and social challenges facing displaced families in the conflict zone. For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table.
 
 ### [Emergency aid chief calls for access to war-hit communities](https://news.un.org/feed/view/en/story/2026/11/1168872)
 *UN News* - Nov 25, 17:30 IST (iso: 2026-11-25T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image770x420cropped.jpg -->
+<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/09-10-2026-UNICEF-Yemen.jpg/image560x340cropped.jpg -->
 
 UN aid chief Tom Fletcher arrived in Yemen to warn that the war blocks access to food and medicine. He highlighted the crisis in Taiz City. Fletcher urged for immediate access to war-hit communities to prevent further suffering. The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.
-
-### [UN deputy chief’s final call to end violence against women](https://news.un.org/feed/view/en/story/2026/11/1168868)
-*UN News* - Nov 24, 17:30 IST (iso: 2026-11-24T12:00:00+00:00)
-<!-- image: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-Women-GBV-03.jpg/image560x340cropped.jpg -->
-
-Amina Mohammed warned another woman would be killed before she finished speaking. She called for justice for survivors and consequences for perpetrators. The UN deputy chief made this final plea to end violence against women and girls. UN deputy chief’s final call to end violence against women.
 
 ### [High Stakes in Iraq’s Push to Reclaim Jurf al-Sakhar](https://www.crisisgroup.org/qna/middle-east-north-africa/iraq/high-stakes-iraqs-push-reclaim-jurf-al-sakhar)
 *International Crisis Group* - Nov 21, 02:10 IST (iso: 2026-11-20T20:40:00+00:00)
@@ -104,11 +98,11 @@ Crisis Group publishes a weekly bulletin tracking active conflicts and emerging 
 
 ## Asia-Pacific
 
-### [India's bottled-water crackdown widens as new Bisleri sample found with bacteria](https://www.channelnewsasia.com/asia/india-bisleri-bottled-water-bacteria-6589171)
-*Channel News Asia* - Nov 28, 13:51 IST (iso: 2026-11-28T08:21:46+00:00)
-<!-- image: https://dam.mediacorp.sg/image/upload/s--74nLZKnw--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-28T050918Z_1_LYNXNPEMAR03K_RTROPTP_3_INDIA-FOOD-BISLERI.JPG?itok=x7Teq4D4 -->
+### [Airstrike on Myanmar wedding venue kills around 20, say witnesses](https://www.thehindu.com/news/international/airstrike-on-myanmar-wedding-venue-kills-around-20-say-witnesses/article71755393.ece)
+*The Hindu (International)* - Nov 28, 22:24 IST (iso: 2026-11-28T16:54:11+00:00)
+<!-- image: https://th-i.thgim.com/public/incoming/xtyx93/article71755454.ece/alternates/LANDSCAPE_1200/Myanmar-militarGJ5FLK9AG.3.jpg.jpg -->
 
-India's food regulator identified a new Bisleri sample containing bacteria. This follows an earlier finding of cancer-linked chemicals in the same brand. The agency is expanding its crackdown on bottled water safety. Consumer trust in major brands is declining. Consumer worries were already heightened in India after the food regulator said this week it had found a sample ⁠of Bisleri water unsafe due to the presence of chemicals that health agencies say may cause cancer.
+An airstrike hit a wedding venue in Myanmar, killing around 20 people according to witnesses. The attack occurred amid the ongoing civil war that began after the 2021 military coup. Monitoring group ACLED reports that more than 100,000 people have died on all sides since the conflict started. The strike highlights the continued danger to civilians in areas where fighting persists.
 
 ### [Bangladesh garment workers protest wages despite police crackdown](https://asiatimes.com/2026/11/bangladesh-garment-workers-protest-wages-despite-police-crackdown/)
 *Asia Times* - Nov 28, 04:36 IST (iso: 2026-11-27T23:06:38+00:00)
@@ -121,12 +115,6 @@ Garment workers in Gazipur, Bangladesh, rejected a government-approved minimum w
 <!-- image: https://i.guim.co.uk/img/media/46917c80b05c42e1fe661080ca09495a31ff79a7/387_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=fe609d22179f2bf0a6ec3accbe60b685 -->
 
 Taiwanese voters elect local officials on Saturday. The results will determine the ruling Democratic Progressive Party's political standing. Chinese authorities warn of potential interference in the process. The vote shapes the party's future global relationships. Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling partyTaiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage. Saturday’s vote will choose mayors, council me.
-
-### [Lululemon founder stuns Canadian women’s leadership conference with sexist comments](https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference)
-*The Guardian* - Nov 26, 01:27 IST (iso: 2026-11-25T19:57:49+00:00)
-<!-- image: https://i.guim.co.uk/img/media/791b8933a92292555c629c4bcc1e8056243c898c/0_94_3742_2993/master/3742.jpg?width=140&quality=85&auto=format&fit=max&s=8fd2114a9006f05a834aace6fb28f4ce -->
-
-Lululemon founder Chip Wilson made sexist remarks at a Canadian women’s leadership conference. He suggested men might import brides from Thailand because women wait too long to have children. The comments stunned audience members at the event. Chip Wilson said men importing brides from Thailand was due to women waiting too long to have childrenThe controversial founder of Lululemon suggested women in Canada are having too few children and this could lead some men to bring in brides from Thailand, in remarks that stunned audience members at a women’s leadership conference. Chip Wilson, who built the Vancouver yoga-wear startup into a glob.
 
 ---
 
